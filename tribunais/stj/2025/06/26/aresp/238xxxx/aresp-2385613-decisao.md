@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual GERSON LUIZ GRECCO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 372):
+PROCESSUAL CIVIL. AGRAVO LEGAL (ART. 557, §1º, DO CPC). PODERES DO RELATOR. ILEGALIDADE OU ABUSO DE PODER NÃO CARACTERIZADOS.
+1 - É dado ao relator, na busca pelo processo célere e racional, decidir monocraticamente o recurso interposto, quer negando-lhe seguimento, desde que em descompasso com "súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior" quer lhe dando provimento, na hipótese de decisão contrária "à súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior" (art. 557, caput e § 1º-A, do CPC).
+2- O denominado agravo legal (art. 557, §1º, do CPC) tem o propósito de submeter ao órgão colegiado o controle da extensão dos poderes do relator e, bem assim, a legalidade da decisão monocrática proferida, não se prestando, afora essas circunstâncias, à rediscussão, em si, de matéria já decidida.
+3 - Decisão que não padece de qualquer ilegalidade ou abuso de poder, estando seus fundamentos em consonância com a jurisprudência pertinente à matéria devolvida a este E. Tribunal.
+4- Faz jus o autor ao recebimento das parcelas vencidas da presente aposentadoria. desde o seu termo inicial até a véspera daquela concedida administrativamente.
+5 - Agravo parcialmente provido.
+Os embargos de declaração opostos por ambas as partes foram rejeitados (fls. 400/407).
+Em razão do julgamento do Tema 96 pelo Supremo Tribunal Federal (STF), os autos foram devolvidos à Turma julgadora para juízo de retratação, o que foi feito por meio do acórdão assim ementado (fls. 431/432):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. JUÍZO DE RETRATAÇÃO. ART. 1040, II, DO CÓDIGO DE PROCESSO CIVIL. PRECATÓRIO COMPLEMENTAR. PAGAMENTO DOS JUROS INCIDENTES NO PERÍODO COMPREENDIDO ENTRE A DATA DA CONTA HOMOLOGADA E A DA EXPEDIÇÃO DO PRECATÓRIO PRINCIPAL. POSSIBILIDADE. APLICAÇÃO DO ENTEDIMENTO EXARADO PELO STF NO JULGAMENTO DO RE 579431-8/RS.
+- Retratação prevista no artigo 1.040, II, do NCPC. Julgamento final do RE 579.431/RS.
+- A apresentação da conta de liquidação em Juízo não faz cessar a mora do devedor, pois não há qualquer dispositivo legal a estipular que a elaboração da conta configure causa interruptiva da fluência dos juros , de modo a permitir que incidam no aludido interregno.
+- Pertinente, portanto, a expedição de ofício requisitório complementar para pagamento dos juros moratórios incidentes no período compreendido entre a data da conta homologada e a da expedição do precatório inicial. Entendimento em consonância com as teses fixadas no RE nº 579.431.
+- Juízo de retratação positivo.
+A parte recorrente alega o seguinte:
+(1) contrariedade ao art. 2º do Decreto-Lei 4.657/1942 - Lei de Introdução às Normas do Direito Brasileiro (LINDB) - e ao art. 9º da Lei Complementar 95/1998, devendo-se afastar a aplicação da Lei 11.960/2009 que nada disporia sobre revogação de outras leis, permanecendo em plena vigência as disposições que teriam atualizado as condenações de benefícios previdenciários;
+(2) violação do princípio da isonomia, resultando na inconstitucionalidade da norma para fins previdenciários, uma vez que o Instituto Nacional da Seguridade Social (INSS) cobraria o percentual de 1% sobre os valores em atraso pelos segurados no momento da correção de seus créditos, enquanto pretendia aplicar apenas 0,5% quando devedor dos segurados;
+(3) ofensa aos arts. 35 da Lei 8.212/1991 e aos arts. 5º, § 3º, e 61 da Lei 9.430/1996, porque os juros de mora nas causas previdenciárias deveriam ser de 1% ao mês, conforme legislação específica que sempre teria sido aplicada e não foi revogada;
+(4) contrariedade aos arts. 395 e 396 do Código Civil visto que os juros seriam devidos desde a data do requerimento administrativo que não foi concedido pelo INSS;
+(5) violação dos arts. 29-B, 134 e 41-A da Lei 8.213/1991 e do 31 da Lei 10.741/2003, pois a correção monetária dos valores em atraso devidos pelo INSS deveria ser feita pelo Índice Nacional de Preços ao Consumidor (INPC), nos termos da lei específica previdenciária;
+(6) divergência jurisprudencial;
+(7) violação dos arts. 20, caput e § 3º e 260, caput do Código de Processo Civil de 1973, uma vez que os honorários advocatícios deveriam ser fixados em 20% sobre o valor da condenação atualizado até o trânsito em julgado da decisão judicial ou até a liquidação de sentença, considerando as 12 prestações vincendas, e não apenas até a sentença como decidido.
+Requer o provimento do recurso.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Em razão do juízo de retratação positivo exercido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO às fls. 433/441, deixo de analisar a matéria relativa aos juros de mora no período entre a elaboração da conta e a expedição do precatório, uma vez que o acórdão foi adequado ao entendimento do Supremo Tribunal Federal (STF) firmado no julgamento do Recurso Extraordinário 579.431/RS, determinando expressamente a incidência dos juros moratórios nesse período.
+Dessa forma, analiso as demais questões relativas à aplicação da Lei 11.960/2009 às causas previdenciárias, ao percentual de juros de mora e aos critérios de fixação dos honorários advocatícios.
+A discussão sobre a vigência da Lei 11.960/2009, do art. 2º da Lei de Introdução às normas do Direito Brasileiro (LINDB), do art. 9º da Lei Complementar 95/1998, do art. 35 da Lei 8.212/1991, dos arts. 5º, § 3º e 61 da Lei 9.430/1996, dos arts. 29-B, 134 e 41-A da Lei 8.213/1991, do art. 31 da Lei 10.741/2003 e dos arts. 20, caput e § 3º e 260, caput, do Código de Processo Civil de 1973 não foi apreciada pelo Tribunal de origem, nem foram objeto dos embargos de declaração apresentados.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 535 do Código de Processo Civil de 1973, o que não foi feito no caso dos autos.
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
