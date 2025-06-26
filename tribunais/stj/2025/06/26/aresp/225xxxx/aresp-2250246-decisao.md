@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO PIAUÍ contra a decisão proferida pelo Tribunal de Justiça do Piauí, que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos de cautelar inominada em Recurso em Sentido Estrito n. 0000753-94.2020.8.18.0028, visando suspender decisão que concedera liberdade provisória ao agravado.
+No recurso especial, a acusação aponta violação dos arts. 581 e 584 do CPP, ao argumento de ser possível o ajuizamento de ação cautelar para atribuir efeito suspensivo a recurso em sentido estrito (fls. 295/311).
+Inadmitido o recurso na origem (fls. 320/321), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 324/338).
+O Ministério Público Federal opinou pelo conhecimento do agravo, para conhecer do recurso especial e, no mérito, dar provimento (fls. 354/360).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+A defesa aponta violação dos arts. 581 e 584 do CPP. Sobre a controvérsia, confira-se trecho do acórdão hostilizado (fls. 291/292 - grifo nosso):
+ ..
+Pela situação exposta a exame, o MP interpôs Recurso em Sentido Estrito visando a reforma da decisão monocrática do juízo da P. Vara de Floriano que concedeu a liberdade provisória ao acusado acima nominado. Ocorre que, em face da não suspensividade do recurso interposto pelo órgão ministerial, na forma do disposto no art. 584 do CPP, intenta o MP a presente cautelar inominada visando justamente imprimir o efeito que, de regra, não existe legalmente conforme dispositivo. Na forma do art. 584 do CPP, o recurso apenas terá efeito suspensivo nos casos de perda da fiança, de concessão de livramento condicional e dos ns. XV, XVII e XXIV do art. 581. O Código silencia quanto à hipótese do inciso V (que conceder, negar, arbitrar, cassar ou julgar inidônea a fiança, indeferir requerimento de prisão preventiva ou revogá-la, conceder liberdade provisória ou relaxar a prisão em flagrante;)
+A jurisprudência até tem admitido a concessão de medidas cautelares atribuídas a recursos, de maneira excepcional, e, quando devidamente comprovado o risco de lesão grave ou de difícil reparação a ordem pública.
+Ocorre que, no presente caso, sem imiscuir no mérito do decisum impugnado, entendo que o órgão ministerial não comprova a existência de tal grave lesão, face qualquer inalteração fática da situação do réu, especialmente, quando já intentado recurso adequado cujo objetivo é a reforma do decreto concessivo de liberdade ao agente.
+ ..
+Com efeito, prevalece nesta Corte o entendimento de que "é admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que determinou a soltura do Acusado (HC n. 572.583/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/8/2020, DJe 19/8/2020).
+Não obstante a alegação do recorrente sobre a quantidade de drogas (150 kg de maconha) e a ocorrência do transporte interestadual de drogas, da cidade de São Paulo/SP para Teresina/PI, não foi comprovada a grave lesão.
+Confira-se parte da decisão (fl. 172 - grifo nosso):
+Analisando detidamente os documentos juntados, verifica-se que o réu é primário, não havendo qualquer registro criminal em seu nome demonstrando que o fato ora investigado é isolado em sua vida e somado a isto possui residência fixa.
+No mais, em que pese a gravidade do delito e a existência de fortes indícios de autoria, cuida-se de crime praticado sem violência ou grava ameaça a pessoa e destaca-se que não houve apreensão de armamentos ou qualquer outro objeto que indique dedicação exclusiva ao comércio de substâncias entorpecentes, fatores a inferir que a liberdade do acusado não representa risco a sociedade no caso concreto.
+Logo, nada indica nos fatos ou nas circunstâncias pessoais do acusado, ao menos neste momento processual, que sua liberdade seja um perigo concreto à ordem pública, assim como nada indica que em liberdade irá perturbar a instrução ou mesmo furtar-se à aplicação da lei penal, sendo importante referir que, caso haja mudança na situação fática no caso concreto, nada impede que este Juiz venha reavaliar a presença dos requisitos para a prisão preventiva e, no caso de verificar a conveniência da segregação, decrete novamente a custódia cautelar.
+Do atento exame dos autos, observa-se que o Juízo a quo trouxe elementos concretos para embasar a decisão de revogação da prisão, e para entender pela possibilidade de ser dado efeito suspensivo ao recurso em sentido estrito, a hipótese precisaria ser uma situação excepcional, o que não se observa no presente caso.
+É o caso, pois, de incidir a Súmula 568/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publiq ue-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO. AUSÊNCIA DE LESÃO G RAVE. SITUAÇÃO EXCEPCIONAL PARA CONCESSÃO DE EFEITO SUSPENSIVO FORA DOS CASOS PREVISTOS NA LEI. NÃO VERIFICADA.
+Agravo conhecido para negar provimento ao recurso especial.
