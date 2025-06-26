@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão que inadmitiu seu recurso especial, cujo objeto era o restabelecimento da competência da justiça estadual para processar e julgar o crime de racismo imputado ao agravado ( fls.1072/1080).
+A decisão de inadmissibilidade do recurso especial, proferida pelo Tribunal de Justiça do Estado de Goiás, baseou-se na Súmula 7/STJ (1063/1065).
+O agravante argumenta que a Súmula 7/STJ não deve ser aplicada, pois a discussão não envolve reexame de fatos e provas, mas sim a requalificação jurídica de fatos incontroversos já consignados no acórdão recorrido. As teses defendidas são: 1) o crime de racismo se consuma no momento da conduta (teoria da atividade), e não da divulgação em redes sociais; 2) a ofensa foi dirigida a pessoa determinada, afastando a transnacionalidade; e 3) a mera divulgação na internet não presume automaticamente a internacionalidade do delito, sob pena de esvaziamento da competência da Justiça Estadual.
+O Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo ( fls.1133/1140).
+É o relatório. DECIDO.
+Verifico, da leitura das razões recursais, que foram atacados, específica e explicitamente, todos os fundamentos da decisão agravada, razão pela qual o agravo deve ser conhecido.
+O cerne da controvérsia reside na definição da competência jurisdicional (Estadual ou Federal) para o julgamento de crime de racismo (Art. 20, §2º, da Lei nº 7.716/89) que, embora praticado localmente, teve sua cena filmada e posteriormente divulgada em perfil aberto de rede social (Instagram).
+A divulgação de conteúdo em redes sociais de amplo acesso e abrangência internacional (como o "Instagram") configura a transnacionalidade da conduta, atraindo a competência da Justiça Federal, mesmo que não haja comprovação de acesso efetivo no exterior.
+O Ministério Público Federal, alinhando-se ao acórdão do Tribunal de origem, defende a competência da Justiça Federal. O fundamento central é a potencialidade de internacionalidade da conduta.
+A discussão acerca do momento da consumação do crime e a análise da transnacionalidade da conduta, embora apresentadas como questões de direito, pressupõem uma valoração das circunstâncias fáticas que já foi realizada pelas instâncias ordinárias e encontra respaldo em decisões reiteradas deste Tribunal. O afastamento da Súmula 7/STJ exige que a questão seja puramente de direito e que não haja qualquer necessidade de reexame de provas, o que não se verifica de forma inquestionável neste caso, haja vista a necessidade de se reinterpretar o contexto da "ação" em relação à "divulgação".
+Além do mais, a decisão de inadmissibilidade do recurso especial está em conformidade com a jurisprudência predominante desta Corte, que reconhece a competência da Justiça Federal para crimes de racismo divulgados em plataformas de alcance global.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do artigo 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
