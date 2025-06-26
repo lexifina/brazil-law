@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MIKAIL REIMBERG ROCHA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (colocar o número do acórdão impugnado).
+Consta dos autos que o paciente foi condenado como incurso no art. 171, caput, do Código Penal, à pena de 1 ano de reclusão, em regime aberto. Irresignada, a defesa interpôs recurso de apelação, ao qual se negou provimento. Foi interposto, ainda, o Agravo em Recurso Espeical n. 2.180.520/SP, que não foi conhecido.
+A defesa requereu então ao Juízo de conhecimento a extinção da punibilidade pela prescrição, contudo o pedido não foi conhecido por incompetência. Impetrado habeas corpus perante o Tribunal de origem, a ordem não foi conhecida nos termos da seguinte ementa (e-STJ fls. 109):
+HABEAS CORPUS ALEGAÇÃO DE QUE O PACIENTE SOFRE CONSTRANGIMENTO ILEGAL, POSTO QUE OCORREU A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA, DEVENDO, PORTANTO, SER RECONHECIDA, COM A CONSEQUENTE EXTINÇÃO DA SUA PUNIBILIDADE. CASO EM QUE NÃO FOI PLEITEADO O RECONHECIMENTO DA PRESCRIÇÃO NO JUÍZO DAS EXECUÇÕES CRIMINAIS, RAZÃO PELA QUAL A MATÉRIA NÃO PODE SER APRECIADA NESTA CORTE DE JUSTIÇA, SOB PENA DE SUPRESSÃO DE INSTÂNCIA, E DE VIOLAÇÃO AO PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO.
+No presente mandamus, a defesa aduz, em síntese, que se implementou o prazo prescricional, uma vez que já transcorreu mais de 6 anos desde o trânsito em julgado para o Ministério Público, nos termos do Tema 788 com modulação de efeitos.
+Pugna, liminarmente e no mérito, pelo reconhecimento da extinção da punilidade pela prescrição.
+É o relatório. Decido.
+Conforme relatado, a defesa busca, em síntese, o reconhecimento da extinção da punibilidade do paciente, em virtude da prescrição da pretensão executória. Contudo, a matéria não foi examinada pelo Juízo de origem, porquanto incompetente, nem pelo Tribunal de Justiça, em razão da supressão de instância. Dessa forma, não é possível que a matéria seja inauguralmente examinada pelo Superior Tribunal de Justiça, sob pena de dupla supressão de instância.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
