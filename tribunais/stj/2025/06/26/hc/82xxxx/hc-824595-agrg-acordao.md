@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Imparcialidade do juiz-presidente. Recurso não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado para cassar acórdão desfavorável ao recorrente, condenado pelo Tribunal do Júri por homicídio qualificado.
+2. O impetrante alega nulidade por quebra de imparcialidade do juiz-presidente, que teria interrompido a sustentação oral da defesa e dispensado tratamento ríspido na inquirição do réu, influenciando a convicção dos jurados.
+3. No agravo regimental, o recorrente reiterou os mesmos fundamentos utilizados na impetração do habeas corpus.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a atuação do juiz-presidente do Tribunal do Júri, ao interromper a sustentação oral da defesa e questionar a tese sustentada, configura quebra de imparcialidade capaz de influenciar a decisão dos jurados e acarretar nulidade do julgamento.
+III. Razões de decidir
+5. A jurisprudência desta Corte é pacífica no sentido de que, inexistindo novos argumentos capazes de alterar o entendimento anteriormente firmado, o recurso não deve ser conhecido.
+6. A atuação do juiz-presidente, ainda que firme, não demonstrou parcialidade em favor de qualquer das partes, mantendo o dever de imparcialidade.
+7. O mero questionamento realizado pelo magistrado durante a sustentação da defesa não constitui quebra do dever de imparcialidade, nem influencia o corpo de jurados.
+8. Não se vislumbra qualquer prejuízo à defesa do paciente, não havendo nulidade a ser reconhecida.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. A atuação firme do juiz-presidente do Tribunal do Júri não configura quebra de imparcialidade. 2. O questionamento do magistrado durante a sustentação da defesa não constitui nulidade, desde que não influencie a decisão dos jurados".
+Dispositivos relevantes citados: CPP, art. 563; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 841050/ES, Rel. Min. Daniela Teixeira, Quinta Turma, j. 11.11.2024; STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, j. 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, j. 27.03.2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de FELIPE SILVA MORAES contra decisão da minha lavra às fls. 1155-1158 na qual não foi conhecido o habeas corpus impetrado no intuito de cassar o acórdão que lhe foi desfavorável em razão de ter sido condenado pelo Tribunal do Júri como incurso no art. 121, § 2º, inciso IV, c/c o artigo 29, ambos do Código Penal à pena privativa de liberdade de 31 anos, 07 meses e 15 dias de reclusão em regime inicial fechado.
+O impetrante alega, em síntese, a ocorrência de nulidade acarretadora de prejuízo à defesa decorrente da quebra de imparcialidade do juiz-presidente em razão da interrupção da sustentação oral da defesa para questionar a tese sustentada, além de dispensar tratamento ríspido na inquirição do réu, o que teria influído na convicção dos jurados. Requer, no mérito, sejam reconhecida a nulidade alegada.
+No agravo regimental interposto às fls. 1167-1176, o recorrente se limitou a reproduzir os mesmos fundamentos utilizados para sustentar a impetração do mandamus, como exposto acima.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Imparcialidade do juiz-presidente. Recurso não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado para cassar acórdão desfavorável ao recorrente, condenado pelo Tribunal do Júri por homicídio qualificado.
+2. O impetrante alega nulidade por quebra de imparcialidade do juiz-presidente, que teria interrompido a sustentação oral da defesa e dispensado tratamento ríspido na inquirição do réu, influenciando a convicção dos jurados.
+3. No agravo regimental, o recorrente reiterou os mesmos fundamentos utilizados na impetração do habeas corpus.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a atuação do juiz-presidente do Tribunal do Júri, ao interromper a sustentação oral da defesa e questionar a tese sustentada, configura quebra de imparcialidade capaz de influenciar a decisão dos jurados e acarretar nulidade do julgamento.
+III. Razões de decidir
+5. A jurisprudência desta Corte é pacífica no sentido de que, inexistindo novos argumentos capazes de alterar o entendimento anteriormente firmado, o recurso não deve ser conhecido.
+6. A atuação do juiz-presidente, ainda que firme, não demonstrou parcialidade em favor de qualquer das partes, mantendo o dever de imparcialidade.
+7. O mero questionamento realizado pelo magistrado durante a sustentação da defesa não constitui quebra do dever de imparcialidade, nem influencia o corpo de jurados.
+8. Não se vislumbra qualquer prejuízo à defesa do paciente, não havendo nulidade a ser reconhecida.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. A atuação firme do juiz-presidente do Tribunal do Júri não configura quebra de imparcialidade. 2. O questionamento do magistrado durante a sustentação da defesa não constitui nulidade, desde que não influencie a decisão dos jurados".
+Dispositivos relevantes citados: CPP, art. 563; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 841050/ES, Rel. Min. Daniela Teixeira, Quinta Turma, j. 11.11.2024; STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, j. 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, j. 27.03.2020.
+VOTO
+A decisão deve ser mantida por seus próprios fundamentos, haja vista a ausência de formulação de novos argumentos suscitados pelo recorrente aptos a ocasionar sua alteração.
+Nenhum argumento inédito foi ventilado, sequer indiretamente.
+Ora, é pacífica a jurisprudência desta Corte no sentido de que inexistentes novos argumentos capazes de alterar o entendimento anteriormente firmado, o recurso não deve ser conhecido. A propósito:
+Nos termos da jurisprudência desta Corte Superior, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecido na decisão agravada sob pena de ser mantida a decisão pelos seus próprios fundamentos (súmula 182 do Superior Tribunal de Justiça). Limitando-se o recorrente a reiterar os argumentos expostos na inicial do habeas corpus, não deve o agravo regimental ser conhecido." AgRg no HC 841050/ES - Quinta Turma - Relatora Ministra Daniela Teixeira - DJE de 11.11.2024.
+Ademais, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda que superadas as duas questões preliminares postas acima, não vislumbrei a presença de coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Na decisão de fls. 1155-1158 assim expus os fundamentos restantes da denegação da ordem, os quais incorporo como razões de decidir neste voto:
+"(..) Como se sabe, a imparcialidade do juiz-presidente no Tribunal do Júri é um princípio fundamental para garantir um julgamento justo, devendo o magistrado conduzir o julgamento de forma eficiente e isenta, assegurando que o processo transcorra de maneira adequada e que as partes possam apresentar suas argumentações sem interrupções indevidas. Neste contexto, importa acrescer que a firmeza do magistrado presidente na condução do julgamento não acarreta, necessariamente, a quebra da imparcialidade dos jurados. Neste sentido: (..) No caso dos autos, colhem-se do acórdão impetrado os seguintes esclarecimentos: "Ab initio, no tocante à alegação preliminar fulcrada na nulidade absoluta por violação ao dever de imparcialidade do juiz- presidente, se lha tenho por imerecedora de melhor sorte, na medida em que a defesa não foi capaz de comprovar em que consistiu essa imparcialidade supostamente praticada pelo juiz-presidente. Como bem acentuado pela Douta Procuradoria Geral de Justiça, percebe-se, a partir do registro dos autos, que a atuação do MM. Juiz- presidente se deu no uso de seus poderes, visando um devido processamento penal. A realização de questionamentos para fins de esclarecimento das teses apresentadas em plenário constitui medida afeta ao devido processo penal, de modo que tal conduta não implica, necessariamente, na violação da imparcialidade do Órgão Julgador, ao ponto de ensejar a existência de vício de caráter absoluto. A atuação do Juízo de base não denota perda da imparcialidade, haja vista que não se tem, em momento nenhum, antecipação de julgamento, nem contra, nem a favor do acusado. As colocações impugnadas pela defesa não demonstram, necessariamente, uma tendência do Juiz togado em relação a um polo ou outro da relação processual, não restando demonstrado de que modo o Magistrado teria sido parcial, ou mesmo, como que poderia tal conduta ter influenciado a decisão tomada pelos jurados. Destarte, não existem elementos a indicar que o julgamento firmado pelo Conselho de Sentença teria se tornado parcial ou pré-definido, eis que o Juiz- presidente do Tribunal do Júri não se referiu à antecipação da condição do acusado como inocente ou culpado; ademais, a defesa não demonstrou, concretamente, como a conduta do Magistrado teria influenciado a decisão dos jurados, ou como que o apelante teria sido prejudicado pelo que foi indicado nas razões recursais, razão pela qual, a suscitada preliminar se lha rejeito." Dessume-se do trecho transcrito que o juiz-presidente, conquanto possa ter conduzido o feito com certa firmeza, em momento algum demonstrou tomar partido seja em favor da acusação, seja em favor da defesa, o que denota a manutenção do dever de imparcialidade. O mero questionamento realizado pelo magistrado durante a sustentação da defesa, por si só, não constitui circunstância apta caracterizar a quebra do dever de imparcialidade, tampouco conforma fator a influenciar o corpo de jurados, os quais, naquele momento de instrução, já haviam observado praticamente a totalidade dos debates. Uma vez, portanto, que não é possível vislumbrar qualquer prejuízo à defesa do paciente, não se pode reconhecer a existência de nulidade, por força do disposto no art. 563 do CPP. Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus."
+Ante o exposto, os autos demonstraram de forma segura que é inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, razão pela qual nego provimento ao agravo regimental.
+É como voto
