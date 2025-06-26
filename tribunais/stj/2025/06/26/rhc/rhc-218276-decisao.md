@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso e m habeas corpus, com pedido liminar, interposto por ROBERIO SILVA SOUZA contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO que denegou a ordem no Habeas Corpus n. 0804747-33.2025.8.10.0000 (fls. 77/100).
+Extrai-se dos autos que o recorrente foi preso em flagrante, em 1/2/2023, convertida a prisão em preventiva, e pronunciado pela suposta prática do crime de homicídio simples (Autos n. 0800329-58.2023.8.10.0053, da 2ª Vara da comarca de Porto Franco/MA).
+Neste recurso, alega-se excesso de prazo para a formação da culpa, uma vez que o r ecorrente está preso há mais de dois anos, sem conclusão da instrução criminal, e com julgamento pelo júri marcado apenas para 11/9/2025, o que representa uma antecipação indevida da pena.
+Sustenta-se que a prisão preventiva foi mantida com base em fundamentação genérica, baseada em jurisprudência sem elementos firmes e distintos, o que não constitui justificativa idônea para a manutenção da prisão. Ressalta a presença de condições pessoais favoráveis e a suficiência das medidas cautelares alternativas.
+Requer-se, em liminar e no mérito, a revogação ou o relaxamento da prisão preventiva.
+Este processo foi distribuído por prevenção do AREsp n. 2. 713.449/MA.
+É o relatório.
+O recurso não merece prosperar.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+No tocante aos motivos da prisão preventiva, o Juízo de primeiro grau a decretou sob a seguinte funda mentação (fl. 43 - grifo nosso):
+ ..
+Quanto ao periculum libertatis, esse se encontra revestido na garantia da ordem pública. Em tais casos é necessário considerar a gravidade da conduta praticada, tendo a frieza com que o crime fora praticado, uma vez que a vítima não demonstrou qualquer reação para investir contra o acusado. Assim, em liberdade, o representado transmite a sensação de insegurança e intranquilidade para a sociedade. Necessário destacar ainda, que o acusado cumpre pena na unidade prisional em que ocorreu o delito, uma vez que fora condenado pela prática de homicídio. Por tais motivos, manter o acusado em liberdade, é razão suficiente para abalar a garantia da ordem pública, diminuindo a credibilidade da Justiça e estimulando a prática de condutas delituosas por outras pessoas, além de configurar um desrespeito à sociedade local já tão assolada por crimes desta natureza. Diante das informações contidas na peça processual, infere-se que o conduzido é pessoa voltada para a prática de condutas delituosas e, uma vez solto, o conduzido possui grandes chances de reiterar condutas dessa ordem, fazendo-se necessária a sua segregação cautelar.
+ ..
+Pronunciado o réu, não há notícias de expedição de alvará de soltura. Formulados pedidos de revogação da custódia, foram indeferidos (fls. 26/40).
+O Tribunal de origem, por sua vez, manteve a constrição consignando que (fl. 83 e 85 - grifo nosso):
+ ..
+Senhores Desembargadores, d. representante do Órgão do PARQUET, forçoso concluir, da simples leitura daquele decreto, que a necessidade da custódia, aqui, exsurge da gravidade em concreto do delito, conquanto expressão objetiva da periculosidade da parte, bem demonstrada pela brutalidade do MODUS OPERANDI empregado.
+ ..
+Em casos assim, resulta evidente a necessidade a custódia, aqui escudada em decisão devidamente fundamentada, com plena atenção aos comandos insertos no art. 312, da Lei Adjetiva Penal.
+ ..
+Da leitura das peças que compõem estes autos, verifica-se que a prisão cautelar está devidamente amparada em elementos concretos para a garantia da ordem pública, considerando-se as circunstâncias do delito e o modus operandi empregado - ocasião em que o recorrente, se utilizando de uma barra de ferro, desferiu golpe contra a vítima, que a levou a óbito, em razão de desentendimentos anteriores. Ademais, consta qu e o réu possui condenação e estava em cumprimento de pena pela prática de outro homicídio, o que demonstra também o risco de reiteração delitiva e ao meio social.
+Nesse sentido, a jurisprudência desta Corte Superior já se manifestou em caso semelhante: A prisão preventiva foi fundamentada de forma idônea pelas instâncias ordinárias, com base na especial reprovabilidade dos fatos e no modus operandi do crime, justificando a necessidade de resguardar a ordem pública. 6. A gravidade concreta dos fatos e o risco de reiteração delitiva foram considerados suficientes para a manutenção da prisão preventiva, não sendo cabível a aplicação de medidas cautelare s mais brandas (AgRg no HC n. 967.343/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025).
+No mesmo sentido é o AgRg no HC n. 979.894/CE, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.
+Com relação a o excesso de prazo na custódia cautelar, o Tribunal de origem entendeu não haver desídia do Poder Judiciário, fundamentando nos seguintes termos (fl. 85 - grifo nosso):
+ ..
+Não há da mesma sorte, ter viciado o feito em razão de suposto excesso prazo, quando o que se verifica, na espécie em apreço, é que o feito vem tendo andamento, despon tando evidente que o MM. Juiz da causa tem dado efetivo impulso ao feito, já pronunciado e com julgamento pelo júri já designado, restando a demora em questão afeta às peculiaridades do caso concreto, submetido a procedimento bifásico por natureza, como sói acontecer nos feitos de competência do Júri.
+Sob tal prisma, não se configurando, no caso desídia do Judiciário na condução do feito, não há falar em constrangimento ilegal por excesso de prazo .
+ ..
+No caso, consta dos autos que o recorrente foi preso em 1/2/2023; a denúncia foi oferecida em 29/5/2023, tendo sido recebida em 30/5/2023; houve designação de audiência de instrução e julgamento para o dia 28/9/2023 (fl. 38) e sentença de pronúncia (fls. 46/49) . Tendo em vista que o processo se encontra com a sessão do Tribunal do júri designada para o dia 11/9/2025 (fl. 26) , não há indicativo de ofensa à razoabilidade ou desídia do magistrado em impulsionar o processo, haja vista a própria complexidade da causa, estando a ação penal próxima do fim.
+Nesse s entido, confira-se a jurisprudência do Superior Tribunal de Justiça no AgRg no RHC n. 156.936/R S, de minha relatoria, Sexta Turma, DJe 21/10/2022; e no AgRg no HC n. 814.153/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/6/2023.
+Em face do exposto, nego provimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO SIMPLES. PRISÃO PREVENTIVA MANTIDA NA PRONÚNCIA. FUNDAMENTAÇÃO. MODUS OPERANDI. CRIME PRATICADO POR DES ENTENDIMENTO ANTERIOR. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO NA CUSTÓDIA. COMPLEXIDADE DA AÇÃO PENAL. AUSÊNCIA DE DESÍDIA OU INÉRCIA PELO MAGISTRADO SINGULAR. JÚRI DESIGNADO PARA 11/9/2025. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Recurso em habeas corpus improvido.
