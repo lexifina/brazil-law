@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO ITAUCARD S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/9/2024.
+Concluso ao gabinete em: 25/2/2025.
+Ação: revisional de contrato de financiamento, ajuizada por PATRÍCIA MARIA SPADOTTO, em face de BANCO ITAUCARD S/A.
+Sentença: julgou improcedente o pedido e condenou a parte agravada ao pagamento das custas e dos honorários, que foram arbitrados em 20% do valor atribuído à causa, com a ressalva prevista no art. 98, § 3º, CPC, posto que beneficiária da assistência judiciária gratuita. (e-STJ fls. 98-104)
+Acórdão: conheceu parcialmente da Apelação interposta por PATRÍCIA MARIA SPADOTTO e, na parte conhecida, deu-lhe parcial provimento, nos termos da seguinte ementa:
+"Apelação. Ação revisional de contrato bancário. Financiamento de veículo. Sentença de improcedência. Recurso da parte autora. 1. Inovação recursal. Alegação, vertida apenas em razões de apelação, no sentido da abusividade da tarifa de registro de contrato, matéria que extrapola os limites da petição inicial. Recurso não conhecido neste ponto. 2. Encargos contratuais. Alegação de abusividade na cobrança da tarifa de cadastro, tarifa de avaliação do bem, "ressarcimento - recup. despesa" e seguro do bem. Parte ré que tratou, na sua contestação, apenas da tarifa de avaliação do bem, do seguro e do IOF e, ainda assim, de maneira superficial e genérica, deixando de impugnar os demais encargos questionados pela autora, sequer trazendo aos autos o contrato celebrado entre as partes. Legalidade das cobranças não comprovada. 3. Imposto sobre Operações Financeiras e de Crédito (IOF). Pedido para restituição de valores cobrados a maior. Instituição financeira que atua como mera responsável tributária pela cobrança e pelo recolhimento ao Tesouro Nacional. Caberá à parte autora, enquanto contribuinte e, se entender pertinente, pleitear eventual diferença perante a Fazenda Nacional. 4. Indébito. Restituição em dobro. Descabimento. Não comprovação da má-fé da parte ré. 5. Sentença reformada, para condenar a ré a restituir de forma simples os encargos questionados pela autora na petição inicial, à exceção do IOF. Recurso parcialmente provido na parte conhecida." (e-STJ fl. 178)
+Embargos de Declaração: opostos, por BANCO ITAUCARD S/A, foram conhecidos e parcialmente acolhidos, para declarar a prescrição quanto à restituição dos valores desembolsados pela parte agravada em data anterior ao decênio que antecedeu o ajuizamento da ação, extinguindo-se parcialmente o processo, com fundamento no art. 487, II, CPC (e-STJ fls. 199-203); opostos, por BANCO ITAUCARD S/A, foram rejeitados (e-STJ fls. 260-263).
+Recurso especial: alega violação dos arts. 189, 205, CC, bem como dissídio jurisprudencial, sustentando que: i) a pretensão nasce quando violado o direito do titular, sendo a data de assinatura do contrato bancário submetido à revisão, portanto, o único termo inicial do prazo prescricional; e, ii) ultrapassado o prazo de dez anos entre a data da assinatura do contrato sub judice e a propositura da ação, resta fulminada pela prescrição a pretensão de litigar em juízo. (e-STJ fls. 206-213)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 189, 205, CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.000,00 (e-STJ fl. 181) para R$ 2.500,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação revisional de contrato de financiamento.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido.
