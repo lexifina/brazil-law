@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FRANCISCA NAIANE ROCHA OLIVEIRA 60884285383 à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim resumido:
+APELAÇÃO CÍVEL. CIVIL E PROCESSO CIVIL. PARCELAS VINCENDAS. COBRANÇA DE ALUGUEIS. PEDIDO EXPRESSO NA INICIAL. INCLUSÃO NA CONDENAÇÃO. OBRIGATORIEDADE. RECURSO CONHECIDO E PROVIDO.
+1. Na ação que tiver por objeto cumprimento de obrigação em prestações sucessivas, essas serão consideradas incluídas no pedido, independentemente de declaração expressa do autor, e serão incluídas na condenação, enquanto durar a obrigação, se o devedor, no curso do processo, deixar de pagá-las ou de consigná-las. Art. 323 do CPC.
+2. Havendo pedido expresso na inicial sobre a condenação em parcelas vincendas, estas devem ser obrigatoriamente incluídas na condenação.
+3. Recurso provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 492 do Código de Processo Civil, no que concerne à ocorrência de julgamento ultra petita, pois foi deferido ao recorrido tanto as parcelas vencidas quanto as vincendas, trazendo a seguinte argumentação:
+Consoante já relatado, o acórdão recorrido (id n 2 13912027) dera provimento ao recurso de apelação para acrescentar, na condenação, além do montante indicado na inicial, o pagamento das parcelas vincendas, correspondentes aos valores locatícios que se venceram no curso da demanda até a efetiva desocupação do imóvel, cujo montante deveria ser apurado quando da liquidação de sentença. No entanto, como ficará demonstrado, o acórdão guerreado violou o art. 492 do CPC, uma vez que concedeu pedido além do que fora de fato requerido.
+ ..
+Dessa maneira, resta claro que o acórdão vergastado violou o art. 492 do CPC, tendo em vista que o valor apontado na inicial de R$ 31.959,59 (trinta e um mil novecentos e trinta e cinco reais e cinquenta e nove centavos) incluía tanto as parcelas vencidas quanto as vincendas, sendo a decisão ultra petita. (fls. 559-562).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O caso dos autos versa sobre ação de cobrança de pagamentos de alugueis e acessórios, que vencem mensalmente, configurando expressa situação de demanda de trato sucessivo. As parcelas vincendas, ou seja, aquelas que venceram durante a instrução devem, portanto, ser contempladas na condenação, independente de pedido na inicial, na esteira do que dispôs o comando legal.
+ ..
+O que se observa nos autos é que o pedido para pagamento das parcelas vincendas estava expressamente formulado na petição inicial, id 8037821, p. 04, não pairando sobre o caso julgamento extra petita, mas a obrigatoriedade legal de se incluir no comando da sentença a s prestações locatícias que se venceram no curso da ação.
+Nesse contexto, a reforma da sentença quanto ao pagamento das parcelas vincendas é medida que se impõe. (fls. 514-515).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
