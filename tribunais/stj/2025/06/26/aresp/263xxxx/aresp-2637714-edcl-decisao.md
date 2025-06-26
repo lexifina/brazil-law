@@ -1,0 +1,22 @@
+DECISÃO
+WINSTON RICARDO LOPES ZABORSKY opõe embargos de declaração contra a decisão de fls. 253-256, em que não conheci do agravo em recurso especial por incidência da Súmula n. 182 do STJ.
+O embargante aponta omissão e contradição no julgado, ao afirmar que "indicou expressamente os pontos do acórdão recorrido em que as matérias federais foram tratadas, inclusive quanto ao art. 625, §2º, do CPP, sendo, portanto, equivocada a conclusão de ausência de prequestionamento" (fl. 261).
+Aduz: "A decisão embargada não fundamenta, com precisão, quais seriam os fundamentos omitidos no recurso, limitando-se a replicar a decisão anterior" (fl. 261).
+Alega, ainda, que "não se esclareceu de forma suficiente quais dos pontos do recurso especial demandariam reexame fático-probatório, uma vez que a tese recursal parte da violação de normas processuais" (fl. 262).
+Requereu a integração do julgado.
+Decido.
+O reconhecimento de vício contido no art. 619 do Código de Processo Penal pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão do julgado.
+Sob essas premissas, contrariamente ao alegado pelo embargante, verifico que a decisão não foi omissa nem contraditória, pois fundamentadamente não conheceu do agravo em recurso especial por ausência de dialeticidade.
+Com efeito, foi consignado na decisão embargada o seguinte (fl. 255, grifos no original):
+A defesa, contudo, não rebateu todos os fundamentos da inadmissão do especial, uma vez que se limitou a afirmar, de forma genérica, que é desnecessário o reexame probatório e que as matérias haviam sido prequestionadas.
+Deveras, o agravante deve expor, com particularidade, a inexistência de óbices para o conhecimento do especial, ao evidenciar a tese jurídica que se pretende ver examinada e ao colacionar trechos do acórdão que demonstram que a matéria foi analisada sob o viés pretendido.
+Nessa perspectiva: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada". (AgInt no AREsp n. 867.735/SE, Rel. Ministro Humberto Martins, 2ª T., DJe 10/8/2016, destaquei)
+Além disso, a parte nada mencionou sobre a incidência da Súmula n. 283 do STF, aplicada por ausência de impugnação de todos os argumentos do acórdão recorrido.
+Portanto, o agravante não se desincumbiu do ônus de expor, integral, específica e detalhadamente, os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Tal como registrei às fls. 253-256, a Corte estadual não admitiu o recurso especial interposto pela defesa em virtude da ausência de prequestionamento (Súmulas n. 282 e 356 do STF), da necessidade de reexame fático-probatório para a apreciação das teses recursais (Súmula n. 7 do STJ) e da não impugnação de todos os fundamentos do acórdão recorrido (Súmula n. 283 do STF).
+No agravo em recurso especial, o agravante deveria haver refutado, com particularidade, todos os óbices indicados pelo Tribunal de origem na decisão de inadmissão do REsp. Contudo, como assinalei na decisão embargada, a parte deixou de rebater a incidência da Súmula n. 283 do STF e, quanto aos demais enunciados sumulares, impugnou-os de forma genérica.
+Em relação às Súmulas n. 282 e 356 do STF, o agravante deveria ter colacionado trechos do acórdão recorrido que demonstram que a tese formulada no especial havia sido examinada sob o viés pretendido. Por fim, quanto à Súmula n. 7 do STJ, a parte deveria evidenciar, com particularidade, qual a tese jurídica que buscava ser apreciada. Nada disso foi feito pela defesa, razão pela qual seu agravo não foi conhecido, por incidência da Súmula n. 182 do STJ.
+Saliento que a insatisfação com o resultado trazido na decisão não significa prestação jurisdicional insuficiente ou viciada pelos vetores contidos no art. 619 do CPP. Reitero, portanto, não haver omissão nem contradição na decisão embargada.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
