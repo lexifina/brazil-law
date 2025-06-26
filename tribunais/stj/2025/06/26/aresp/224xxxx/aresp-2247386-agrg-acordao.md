@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+Presidiu o julgamento o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. PRECLUSÃO CONSUMATIVA E PRINCÍPIO DA UNICIDADE RECURSAL. SÚMULA N. 579 DO STJ e ART. 1.024, § 5º, DO CPC. INAPLICÁVEIS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Agravo regimental interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso especial devido à preclusão consumativa e à violação do princípio da unicidade recursal.
+2. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada, mesmo sentido da Súmula n. 182 do STJ.
+3. A decisão de não conhecimento do agravo em recurso especial teve por fundamento a ocorrência da preclusão consumativa e ofensa ao princípio da unicidade recursal.
+4. Nas razões do presente recurso, a parte agravante não enfrentou de maneira suficiente as questões que impediram a admissão do agravo em recurso especial, limitando-se a invocar a Súmula n. 579 do STJ e o art. 1.024, § 5º, do CPC, o que inviabiliza o conhecimento do agravo regimental, por falta de dialeticidade recursal.
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que a interposição de dois recursos pela mesma parte contra a mesma decisão judicial impede o conhecimento do recurso protocolizado por último, em observância ao princípio da unicidade recursal.
+6. A preclusão consumativa ocorre quando a parte interpõe recurso especial enquanto ainda pendem de julgamento embargos de declaração opostos pela mesma parte, inviabilizando o conhecimento do recurso especial.
+7. A Súmula n. 579 do STJ e o art. 1.024, § 5º, do CPC aplicam-se a situações distintas da presente, quando a parte embargada opta por manejar recurso especial na pendência de julgamento do aclaratório da contraparte, não sendo aplicáveis ao caso em questão.
+8. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental manejado por GILBERTO GOMES DOS SANTOS contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso por ocorrência de preclusão consumativa e ofensa ao princípio da unicidade recursal.
+A parte agravante defende o desacerto da decisão recorrida, alegando a desnecessidade de interpor novo recurso especial contra o acórdão que jugou os embargos de declaração.
+Requer o provimento do agravo regimental, com o consequente conhecimento e provimento do agravo em recurso especial.
+Parecer ministerial pelo não provimento do agravo regimental às fls. 444-448.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. PRECLUSÃO CONSUMATIVA E PRINCÍPIO DA UNICIDADE RECURSAL. SÚMULA N. 579 DO STJ e ART. 1.024, § 5º, DO CPC. INAPLICÁVEIS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Agravo regimental interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso especial devido à preclusão consumativa e à violação do princípio da unicidade recursal.
+2. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada, mesmo sentido da Súmula n. 182 do STJ.
+3. A decisão de não conhecimento do agravo em recurso especial teve por fundamento a ocorrência da preclusão consumativa e ofensa ao princípio da unicidade recursal.
+4. Nas razões do presente recurso, a parte agravante não enfrentou de maneira suficiente as questões que impediram a admissão do agravo em recurso especial, limitando-se a invocar a Súmula n. 579 do STJ e o art. 1.024, § 5º, do CPC, o que inviabiliza o conhecimento do agravo regimental, por falta de dialeticidade recursal.
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que a interposição de dois recursos pela mesma parte contra a mesma decisão judicial impede o conhecimento do recurso protocolizado por último, em observância ao princípio da unicidade recursal.
+6. A preclusão consumativa ocorre quando a parte interpõe recurso especial enquanto ainda pendem de julgamento embargos de declaração opostos pela mesma parte, inviabilizando o conhecimento do recurso especial.
+7. A Súmula n. 579 do STJ e o art. 1.024, § 5º, do CPC aplicam-se a situações distintas da presente, quando a parte embargada opta por manejar recurso especial na pendência de julgamento do aclaratório da contraparte, não sendo aplicáveis ao caso em questão.
+8. Agravo regimental não conhecido.
+VOTO
+A decisão que não conheceu do agravo em recurso especial foi assim fundamentada (fl. 427):
+Dessa forma, impõe-se o não conhecimento do segundo recurso, no caso, do recurso especial, tendo em vista a preclusão consumativa, bem como o princípio da unicidade recursal. Nesse sentido, EDcl no AgInt no AREsp 1832666/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/03/2022; EDcl no AgInt no REsp 1905229/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/03/2022.
+Como se observa, houve dois fundamentos para o não conhecimento do agravo em recurso especial, consistente na preclusão consumativa e no princípio da unicidade recursal.
+Contudo, as razões do agravo regimental, como relatado, não se voltaram, de maneira suficiente, ao enfrentamento dos fundamentos da decisão, limitando-se a invocar a Súmula n. 579 do STJ e o art. 1.024, § 5º, do CPC.
+Entretanto, a não impugnação dos fundamentos da decisão recorrida impede o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e, por analogia, de acordo com a conclusão sedimentada na Súmula n. 182 do STJ.
+A propósito (destaquei):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE MAIS DE 7 KG DE COCAÍNA. CONDENAÇÃO. ESPECIAL INADMITIDO. RAZÕES GENÉRICAS QUE REAFIRMAM QUESTÕES DE MÉRITO SEM IMPUGNAR DE MODO ESPECÍFICO OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/STJ TAMBÉM AO REGIMENTAL.
+1. O agravante não rebateu, de modo eficiente, o fundamento utilizado na decisão agravada, atraindo, novamente, a incidência da Súmula 182/STJ ao presente regimental.
+2. Como tem reiteradamente decidido esta Corte Superior, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp n. 1.262.653/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, Dje 30/5/2018).
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.266.496/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/4/2023, DJe de 2/5/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. VIOLAÇÃO DE DISPOSITIVO E DE PRINCÍPIO CONTIDO NA CONSTITUIÇÃO FEDERAL. INVIABILIDADE. HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL OU DE FLAGRANTE ILEGALIDADE. AGRAVO NÃO CONHECIDO.
+1. A ausência de impugnação específica a todos os fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte. Precedentes.
+2. Ademais, "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de admissibilidade foram preenchidos. Incidência da Súmula n. 182, STJ" (AgRg no AREsp n. 2.364.703/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023).
+3. Nos termos da jurisprudência deste Superior Tribunal, "É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal." (EDcl no AgRg no AREsp n. 2.395.707/PR, relator Ministro Teodoro Silva, julgado em 20/2/2024, DJe de 27/2/2024, grifei.)
+4. Como cediço, "Descabe postular HC de ofício, em sede de regimental, como forma de tentar burlar a inadmissão do recurso especial. O deferimento ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, inexistente na hipótese" (AgRg nos EDcl no AREsp n. 2.415.816/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.405.739/PR, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada conheceu do agravo para não conhecer do recurso especial interposto pelo recorrente, apontando o óbice da Súmula 182 do STJ.
+2. Não obstante, neste agravo regimental, a parte agravante limita-se a afirmar, de modo genérico, que impugnou todos os fundamentos da decisão de admissibilidade, deixando, novamente, de atacar os fundamentos da decisão agravada.
+3. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP, o que é o caso.
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.513.329/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2024, DJe de 10/4/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ÓBICE NÃO ATACADO NO REGIMENTAL. NOVA INCIDÊNCIA DA SÚMULA N. 182 DO STJ. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A impugnação específica dos fundamentos da decisão agravada é requisito para o conhecimento do agravo regimental.
+2. No caso em tela, o agravo em recurso especial deixou de impugnar efetiva e concretamente todos os fundamentos de inadmissibilidade, carecendo da devida refutação a Súmula n. 83 do Superior Tribunal de Justiça. Assim, a Presidência desta Corte não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182 do STJ.
+3. No presente regimental, a defesa afirma que o recurso especial teria apontado de forma clara a interpretação diversa dada aos dispositivos apontados como violados, comprovando a divergência existente entre a decisão proferida no caso com a orientação dos Tribunais. Alega, ainda, que não teria entrado em rediscussão probatória.
+4. A argumentação dispensada pela parte não dialoga com as razões de decidir da Presidência desta Corte. Registre-se que a decisão agravada não conheceu do agravo em recurso especial e a parte versa sobre o recurso especial.
+5. Nestas condições, a defesa não impugnou especificamente o óbice aplicado (Súmula n. 182 do STJ), de maneira que o recurso apresentado é incapaz de demonstrar o equívoco da decisão contra a qual se insurge, mantendo-a incólume. Incidência, novamente, da Súmula n. 182 do STJ.
+6. No tocante ao pleito de habeas corpus de ofício, salienta-se que esta Corte Superior entende, com lastro nos arts. 647-A e 654, § 2º, ambos do Código de Processo Penal - CPP, que a concessão de ordem ocorre por iniciativa do julgador quando constatada flagrante ilegalidade, não vislumbrada, de plano, na hipótese. Precedentes.
+7. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.497.395/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/8/2024, DJe de 19/8/2024.)
+No presente caso, os argumentos trazidos no agravo regimental não demonstram o desacerto da decisão que não conheceu do recurso especial. A pretensão recursal não deve ser, portanto, acolhida.
+Conforme constou na decisão agravada, operou-se a preclusão consumativa, porquanto houve manejo de recurso especial quando pendia de julgamento embargos de declaração opostos pela mesma parte. Não há como ser alterada a decisão da Presidência que reflete o entendimento do Superior Tribunal de Justiça sobre o ponto, consoante revelam os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. APRESENTAÇÃO DE DOIS RECURSOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRINCÍPIO DA UNICIDADE RECURSAL. VIOLAÇÃO. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a interposição de dois recursos pela mesma parte contra a mesma decisão judicial impede o conhecimento daquele protocolizado por último, em estrita observância ao princípio da unicidade recursal.
+2. Não comporta co nhecimento o recurso especial da Defesa interposto contra o acórdão de revisão criminal na pendência de julgamento dos embargos de declaração opostos por ela contra o mesmo decisum. Precedentes do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.552.445/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mesmo sentido: AgRg no AREsp n. 2.534.111/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024; AgRg no AREsp n. 2.466.728/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024 AgRg no AgRg no AREsp n. 2.379.712/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/11/2023, DJe de 6/12/2023.
+Por fim, a propósito da Súmula n. 579 do STJ e d o art. 1.024, § 5º, do CPC, convém assinalar que eles se aplicam quando a parte embargada (contra quem foram opostos os embargos) opte por manejar o recurso especial na pendência de julgamento do aclaratório da contraparte. Trata-se, pois, de hipótese de incidência distinta daquela pretendida pelo recorrente.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
