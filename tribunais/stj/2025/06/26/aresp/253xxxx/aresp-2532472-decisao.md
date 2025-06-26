@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por LUAN ROGERIO EPAMINONDAS LEITE contra a decisão do Tribunal de Justiça de São Paulo que inadmitiu recurso especial dirigido contra o acórdão prolatado no Recurso em Sentido Estrito n. 0003613-51.2023.8.26.0348.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo em recurso especial (fls. 187/190).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: impropriedade da via eleita para discutir ofensa constitucional, ausência de prequestionamento (Súmulas 282/STF e 356/STF), Súmulas 182/STJ e 7/STJ. Todavia, a parte agravante, nas razões do agravo em recurso especial infirmou apenas o primeiro óbice, deixando de impugnar, de maneira suficiente, a fundamentação atinente aos óbices remanescentes.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+Quanto à ausência de prequestionamento, cabia à parte agravante demonstrar, concretamente, de que forma a matéria ventilada no apelo nobre foi enfrentada pelo Tribunal paulista.
+No caso, verifica-se que não se desincumbiu de tal ônus, limitando-se a alegar que a matéria está prequestionada porque opôs embargos de declaração, fazendo referência, ainda, ao disposto no art. 1025 do CPC. Por fim, salientou que, de todo modo, em se tratando de flagrante ilegalidade, o requisito do prequestionamento é relativizado, haja vista a possibilidade de concessão da ordem de ofício. ..  (fl.159).
+Ressalto, ainda, que não incide ao caso o prequestionamento ficto, previsto no art. 1.025 do Código de Processo Civil, na medida em que não foi alegada nem reconhecida omissão no pronunciamento jurisdicional (violação do art. 619 do CPP), condição indispensável para ensejar a supressão de grau prevista em lei.
+Nesse sentido, confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE LATROCÍNIO. ATIPICIDADE POR CRIME IMPOSSÍVEL. MATÉRIA NÃO APRECIADA NO ACÓRDÃO RECORRIDO. PREQUESTIONAMENTO FICTO. DEFICIÊNCIA RECURSAL. SÚMULAS N. 211 DO STJ E 284 DO STF. DESCLASSIFICAÇÃO PARA O TIPO DO ART. 155 DO CP. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não é possível examinar no recurso especial matéria que não foi efetivamente apreciada pelo acórdão recorrido, em razão da ausência do requisito do prequestionamento.
+2. Para que esteja caracterizado o prequestionamento ficto por meio da oposição de embargos declaratórios, faz-se necessário que a parte, nas razões do recurso especial, demonstre a existência de vício de fundamentação no acórdão impugnado, apontando, também, a existência de ofensa ao art. 619 do CPP.
+3. No caso, a tese de atipicidade da conduta, pela existência de crime impossível, apenas foi alegada nos embargos de declaração opostos na instância de origem, não tendo a parte recorrente demonstrado que houve afronta ao art. 619 do CPP. Incidência dos óbices das Súmulas n. 211 do STJ e 284 do STF.
+4. A hipótese defensiva de que os disparos efetuados contra os policiais tinham outra finalidade que não assegurar a subtração dos bens exigiria a redefinição dos fatos estabelecidos pelas instâncias inferiores, o que não se admite no julgamento do recurso especial, tendo em vista o disposto na Súmula n. 7 do STJ.
+5. Agravo regimental improvido.
+(AgRg no AREsp 2.384.388/ES, Ministro Og Fernandes, Sexta Turma, DJEN 11/4/2025 - grifo nosso).
+De outra parte, não se verifica flagrante ilegalidade de modo a possibilitar a concessão da ordem de habeas corpus, de ofício, como sugerido pela parte agravante, no item 4. das razões deste agravo (fls. 159/162).
+No que diz respeito à Súmula 182/STJ, verifica-se que as alegações são genéricas. Referiu, de início, que a decisão do Tribunal paulista é genérica e aplicável a qualquer caso, inviabilizando a concreta e específica impugnação. Todavia, verifica-se que a decisão recorrida bem identificou o óbice reconhecido, deixando claro que a insurgência foi intentada sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, pois não foram devidamente atacados os argumentos do aresto (fl.146 - grifo nosso).
+Dessa forma, cabia à parte agravante demonstrar, concretamente, de que forma tal óbice se encontra infirmado no recurso especial, mas não o fez.
+Assim, é nítido que não logrou impugnar a decisão agravada, no ponto.
+Em casos que tais (impugnação genérica), a jurisprudência desta Corte tem orientado no sentido da inadmissão do agravo:
+ ..  1. É pacífico o entendimento jurisprudencial desta Corte Superior, materializado na Súmula 182/STJ, segundo o qual deve a parte recorrente infirmar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo justificativas outras que visem atacar o mérito da controvérsia.
+ ..
+(AgRg no AREsp n. 1.157.955/PE, da minha relatoria, Sexta Turma, DJe 12/12/2017).
+Ademais, em relação à Súmula 7/STJ, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
