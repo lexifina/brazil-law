@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de HENRIQUE SANTANA TELLES - condenado como incurso no crime de homicídio qualificado (Ação Penal n. 0011028-48.2014.8.19.0008) -, em que se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Revisão Criminal n. 0064188-65.2021.8.19.0000), não comporta processamento.
+Com efeito, busca a impetração a anulação da condenação proferida pelo Juízo de Direito da 1ª Vara Criminal da comarca de Belford Roxo/RJ, aos argumentos de: a) nulidade decorrente da falta de trânsito em julgado da pronúncia para a submissão do paciente a julgamento pelo Tribunal do Júri; b) nulidade porque quando ouvido em sede do MPE, o paciente não foi ouvido com a presença de seu advogado e nem mesmo foi advertido de seu direito de permanecer em silencio conforme determina a regra constitucional (fl. 14); e c) que Conselho de Sentença proferiu decisão manifestamente contrária à prova dos autos.
+Ocorre que, além de se tratar de impetração ajuizada como nova revisão criminal, anteriormente apresentada na Corte de origem, pretendendo revisar as teses defensivas, trata-se de condenação imposta em 2017 e revisão criminal julgada em 2023.
+Ademais, a pretensão formulada na inicial, consistente no reconhecimento de que os jurados deveriam ter proferido sentença absolutória, ao invés de condenação, além de ferir a soberania dos veredictos, demanda o reexame aprofundado dos elementos de convicção produzidos na ação de conhecimento, providência inviável de ser realizada no âmbito do writ, carente de dilação probatória.
+A propósito: AgRg no HC n. 877.653/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 23/5/2024; HC n. 477.555/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/3/2019.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO PELO CONSELHO DE SENTENÇA. UTILIZAÇÃO DO WRIT COMO ESPÉCIE DE SEGUNDA REVISÃO CRIMINAL. PRETENSÃO DE ANULAÇÃO. ALEGAÇÕES DE NULIDADES E DE QUE A DECISÃO SE MOSTRA CONTRÁRIA ÀS PROVAS DOS AUTOS. SOBERANIA DOS VEREDICTOS. OBSERVÂNCIA. PROVIDÊNCIA, ADEMAIS, QUE DEMANDA REEXAME DE PROVAS. INVIABILIDADE NA VIA ESTREITA.
+Inicial indeferida liminarmente.
