@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por COMPANHIA IMOBILIÁRIA DE BRASÍLIA TERRACAP, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 24/10/2024.
+Concluso ao Gabinete em: 10/3/2025.
+Ação: declaratória de nulidade, ajuizada por CLEITON JACINTO DO CARMO MOREIRA em desfavor da agravante, em virtude de compra e venda de bem imóvel e acordo de refinanciamento firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, nos termos das seguinte ementa:
+I - APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO. DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO.
+II - PRELIMINAR. NÃO CONHECIMENTO DO RECURSO SUSCITADA EM CONTRARRAZÕES. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÚCLEO ESSENCIAL DO POSTULADO DA IMPUGNAÇÃO ESPECÍFICA PRESERVADO. VIOLAÇÃO À REGRA DO ART. 1.010, INCISOS I A IV, DO CPC, NÃO VERIFICADA. HIPÓTESE DE POSSÍVEL COMPREENSÃO DOS FUNDAMENTOS ADUZIDOS PELO RECORRENTE. PRELIMINAR REJEITADA.
+III - ADQUIRENTE DE IMÓVEL VENDIDO PELA TERRACAP. PRETENDIDA DECLARAÇÃO DE NULIDADE DE ATOS ADMINISTRATIVOS. EMPRESA PÚBLICA QUE, EM JUÍZO, RECONHECE A EXISTÊNCIA DE ERRO NA CONTA ELABORADA PARA APURAÇÃO DE DÍVIDA A SER REFINANCIADA. ERRO DE CÁLCULO QUE INVALIDA ACORDO ADMINISTRATIVO DE REFINANCIAMENTODE DÉBITO. INTERESSE DE AGIR CARACTERIZADO DO PROMITENTE-COMPRADOR NA INVALIDAÇÃO DO AJUSTE FIRMADO. NECESSIDADE E UTILIDADE E ADEQUAÇÃO DA DEMANDA PROPOSTA PARA AFASTAR PREJUÍZO FINANCEIRO DECORRENTE DE AJUSTE ADMINISTRATIVO. CARÊNCIA DA AÇÃO. MÁCULA INEXISTENTE.
+IV - ÔNUS DA SUCUMBÊNCIA. PEDIDOS JULGADOS PARCIALMENTE PROCEDENTES. SUCUMBÊNCIA RECÍPROCA, MAS NÃO PROPORCIONAL.
+V - PRELIMINAR REJEITADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Preliminar de não conhecimento do recurso por violação ao princípio da dialeticidade recursal. O recurso interposto não se dissociou, em essência, dos fundamentos da sentença. A simples reprodução dos argumentos agitados na peça inicial não implica, necessariamente, violação ao princípio da dialeticidade, se, como na espécie, se apresentam suficientes para combater o pronunciamento judicial atacado. Violação ao princípio da dialeticidade por ausência de impugnação específica não caracterizada. Hipótese em que possível a compreensão da insurgência manifestada e em que exigível tolerância necessária estimuladora da busca do entendimento das razões apresentadas, ainda que com atecnia, em homenagem ao princípio da primazia do julgamento de mérito. Preliminar de não conhecimento do recurso rejeitada.
+2. O contratante/adquirente, ora autor/apelado, provocou o Poder Judiciário ao intento de ver declarada a nulidade dos atos praticados pela empresa pública ré, ora apelante, nos autos de processo administrativo, com consequente desconsideração do refinanciamento que ajustaram. Esta, de sua vez, ao admitir ter incorrido em erro ao calcular o saldo devedor a ser pago pelo promitente/comprador de unidade imobiliária, adotou conduta processual reveladora da inequívoca necessidade, utilidade e adequação da demanda proposta ao intento de buscar tutela jurisdicional para invalidar o acordo de refinanciamento. Provocação feita ao Poder Judiciário reconhecida regular. Carência da ação. Vício não verificado.
+3. Acolhidos em parte os pedidos iniciais e reciprocamente sucumbentes as partes, mas não em igual medida, necessária se mostra a redistribuição dos ônus sucumbenciais, na forma do art. 86 do CPC.
+4. Preliminar rejeitada. Recurso conhecido e parcialmente provido.
+(e-STJ Fls. 746/747)
+Decisão de admissibilidade do TJDFT: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) incidência das Súmulas 283 e 284 do STF, quanto ao art. 784, III, do CPC, pois a agravante deixou de impugnar o fundamento de que "a conduta processual da ré/apelante, ao admitir que incorrera em erro ao calcular o saldo devedor a ser pago pelo autor/apelado, é demonstração inequívoca do interesse de agir do cocontratante/adquirente (..)" (e-STJ Fl. 850);
+ii) incidência das Súmulas 5 e 7 do STJ, sobretudo considerando o acordo administrativo entabulado; e
+iii) quanto ao art. 6º da LINDB, impossibilidade de análise de sua ofensa ante a à natureza eminentemente constitucional, em atenção ao julgado colacionado desta Corte.
+Agravo em recurso especial: nas razões do presente recurso, a agravante alega que:
+i) é de ser considerada a ofensa ao art. 784, III, do CPC, pois o acórdão recorrido desconsiderou totalmente o acordo celebrado livremente entre as partes;
+ii) houve debate específico sobre os fundamentos adotados na origem, sendo inaplicáveis as Súmulas 283 e 284 do STF, de sorte que o Tribunal local não observou que o acordo firmado não possuía qualquer nulidade ou vício;
+iii) é desnecessário o reexame fático-probatório e contratual dos autos, tendo ocorrido errônea valoração jurídica das provas;
+iv) o recurso especial aviado com fulcro na ofensa ao art. 6º da LINDB e ao ato jurídico perfeito é cognoscível, em atenção à jurisprudência desta Corte.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) incidência das Súmulas 283 e 284 do STF, quanto ao art. 784, III, do CPC, pois a agravante deixou de impugnar o fundamento de que "a conduta processual da ré/apelante, ao admitir que incorrera em erro ao calcular o saldo devedor a ser pago pelo autor/apelado, é demonstração inequívoca do interesse de agir do cocontratante/adquirente (..)" (e-STJ Fl. 850); e
+ii) incidência das Súmulas 5 e 7 do STJ, sobretudo considerando o acordo administrativo entabulado.
+A agravante, assim, não demonstrou, de forma clara e específica, a inaplicabilidade dos referidos óbices, notadamente das Súmulas 283 e 284/STF, limitando-se a tecer considerações genéricas e a reprisar a sua argumentação de mérito, não trazendo, de fato, a adequada impugnação à sua incidência, notadamente para fins de demonstra r o efetivo desacerto da decisão, em atenção às particularidades citadas.
+Ademais, é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente ao agravante em 1% (e-STJ Fl. 739).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
