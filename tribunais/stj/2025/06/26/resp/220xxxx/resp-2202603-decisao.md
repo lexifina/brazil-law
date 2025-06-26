@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por B A C DE S (MENOR) contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) aplicação da Súmula n. 282/STF e (b) falta de comprovação do dissídio jurisprudencial, por inexistência de similitude fática (fls. 1.347-1.349).
+O acórdão do TJSP está assim ementado (fl. 1.076):
+PLANO DE SAÚDE. Ação de obrigação de fazer c/c indenização por danos morais. Autor diagnosticado com paralisia cerebral e encefalopatia epilética focal. Tratamento multidisciplinar prescrito. Negativa de custeio da ré. Sentença de parcial procedência. Recurso da ré. Acolhimento em parte. Cerceamento de defesa não verificado. Pretensão de exclusão de cobertura dos métodos de tratamento prescrito, bem como de limitação quanto ao número de sessões. Impossibilidade, exceto com relação ao método Therasuit. Negativa abusiva do plano de saúde, com relação aos demais tratamentos, tendo em vista ser ilícita a recusa que restringe tratamento de moléstia coberta. A ausência de previsão expressa do procedimento em rol publicado pela ANS não se presta a obstar tratamento médico, tampouco pode ensejar a negativa de fornecimento por parte do plano de saúde. Limitação do número de sessões que implica em limitação do tratamento da moléstia que atinge o beneficiário do plano de saúde. Método Therasuit. Alteração de entendimento em conformidade aos precedentes das duas Turmas do Superior Tribunal de Justiça. "Não há amparo legal para a pretensão de cobertura dos equipamentos necessários para a terapia PediaSuit, pois, nos termos do art. 10, inciso VII, da Lei 9.656/1998, não há obrigatoriedade legal de cobertura de "próteses, órteses e seus acessórios não ligados ao ato cirúrgico" - REsp 1741618 / DF. Danos morais. Descumprimento contratual que causa mero aborrecimento, insuscetível de provocar sofrimento suficiente a justificar condenação. Precedentes. Indenização afastada. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do especial (fls. 1.252-1.288), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente indicou dissídio jurisprudencial e contrariedade aos arts. e 4º e 51, IV, § 1º, I, II e III, do CDC, a fim de requerer a condenação da recorrida ao custeio do método Therasuit.
+Postulou danos morais, ante a suposta recusa indevida da cobertura do tratamento de saúde.
+Foram ofertadas contrarrazões (fls. 1.293-1.333).
+No agravo (fls. 1.352-1.390), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.562-1.566).
+Parecer do Ministério Público Federal às fls. 1.579-1.583.
+É o relatório.
+Decido.
+A parte recorrente defendeu que seria indevido a recusa do custeio do método Therasuit.
+Para justificar tal tese, invocou os arts. 4º e 51, IV, § 1º, I, II e III, do CDC, os quais, todavia, não apresentam o alcance normativo pretendido, porque não cuidam especificamente da amplitude dos deveres do planos de saúde, tampouco da natureza jurídica do rol da ANS.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 4º e 51, IV, § 1º, I, II e III, do CDC sob o ponto de vista da parte recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (fl. 624), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
