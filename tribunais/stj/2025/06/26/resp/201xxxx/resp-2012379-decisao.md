@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 74):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. TRÂNSITO EM JULGADO. COISA JULGADA. APLICAÇÃO DO ARTIGO 1º-F DA LEI 9.494/1997. IMPOSSIBILIDADE DE MODIFICAÇÃO DOS CRITÉRIOS. DECISÃO REFORMADA. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fl. 182).
+Em suas razões recursais, a parte recorrente alega violação do art. 1.022 do Código de Processo Civil (CPC), sustentando que o Tribunal de origem não sanou os vícios suscitados nos embargos de declaração.
+Assevera contrariedade aos arts. 502, 503 e 505 do CPC e ao art. 1º-F da Lei 9.494/1997, com as alterações da Lei 11.960/2009, argumentando que a aplicação da Lei 11.960/2009, a partir de sua entrada em vigor, para os juros de mora, não implica em ofensa à coisa julgada, pois as normas relativas à correção monetária e aos juros de mora teriam natureza processual, aplicando-se aos processos em curso.
+Acrescenta que o art. 1º-F da Lei 9.494/1997, com a redação da Lei 11.960/2009, deve ser aplicado para o cômputo dos juros de mora a partir de 30/06/2009, conforme entendimento do STF e STJ).
+A parte adversa apresentou contrarrazões (fls. 228/234).
+O recurso foi admitido (fls. 235/239).
+É o relatório.
+O recurso especial tem origem em agravo de instrumento interposto da decisão que determinou a elaboração de novos cálculos com a aplicação do art. 1º-F da Lei 9.494/1997 para o cômputo dos juros de mora, no cumprimento de sentença que havia condenado o Estado do Paraná ao pagamento de honorários advocatícios de sucumbência.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão quanto à aplicação de juros moratórios calculados nos termos da Lei 11.960/2004 na hipótese em que a sentença que deu origem ao título judicial é anterior à entrada em vigor dessa norma legal.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ reformou a decisão de primeiro grau, restabelecendo os índices de correção monetária e de juros de mora fixados na sentença transitada em julgado, com os fundamentos a seguir transcritos (fls. 76/79):
+Observa-se dos autos que a sentença sobre a qual se baseia o cumprimento de sentença, julgou parcialmente procedente os embargos à execução:
+"Ante o exposto, e por tudo mais que dos autos consta, julgo parcialmente procedentes os presentes embargos à execução de título judicial, para o fim de reconhecer a existência de título executivo judicial contra o Estado do Paraná e a possibilidade de se computar juros de mora sobre a condenação das verbas de sucumbência, mas desde a citação na ação executiva bem como considerar não comprovada a existência de erro de cálculo quanto à correção monetária pela média do INPC e do IGP-DI." (mov. 1.12)
+Depreende-se da r. sentença, que os juros de mora foram fixados consoante o Código Civil.
+A propósito: "Os juros de mora, ao contrário do que entende o embargante, são devidos, independentemente de terem sido expressamente estipulados na decisão que serve de título executivo judicial. O pagamento dos juros de mora decorre de lei (art. 406 e 407 do Código Civil de 2002), o que autoriza a sua inclusão mesmo ante a omissão no pedido ou na sentença."
+Após julgamento do REsp nº 1242134, os autos transitaram em julgado em 05 de fevereiro de 2018. (mov. 83.2).
+Desse modo, vale destacar que a sentença, ora em cumprimento de sentença, devem ser fielmente cumprida, sem restrições, não se admitindo qualquer discussão quando já definitivamente julgados.
+Sem a manifestação das partes em momento oportuno é possível presumir que ficaram satisfeitas com a prestação jurisdicional, não havendo que reclamar com que restou transitado em julgado.
+Admitir-se a adoção de critério de juros moratórios diverso daquele determinado na sentença, ensejaria violação à coisa julgada, garantia constitucional prevista no art. 5º, XXXVI.
+Com feito, cumpre destacar que a coisa julgada é instituto tratado no artigo 502 e seguintes do Código de Processo Civil:
+ ..
+A coisa julga tornou a sentença e acórdão imutáveis, não havendo a possibilidade de, neste momento processual, simplesmente desconstitui-los.
+Assim, por força do artigo 505 do CPC é vedado ao Juiz apreciar novamente as questões já decididas, sendo permitido tal expediente apenas nas hipóteses em que a lei expressamente o autoriza, o que não é o caso dos autos.
+Nesse sentido é o entendimento do Superior Tribunal de Justiça:
+ ..
+Frise-se, que não se desconhece que o entendimento jurisprudencial consolidado no STJ é o de que a fixação de correção monetária e juros de mora configura questão de ordem pública e, pois, pode ser analisada de ofício.
+Contudo, não se pode confundir a fixação da correção monetária e dos juros de mora (a condenação em si) com a alteração dos critérios estabelecidos para os aludidos juros de mora e correção monetária (os índices e percentuais fixados).
+A condenação em si é questão de ordem pública, já a alteração dos critérios determinados configura questão de interesse privado e, de consequência, deve se submeter à eficácia da coisa julgada.
+Dessa forma, as questões discutidas e apreciadas na sentença não podem ser reavaliadas na fase de execução, pois nesta fase, deve-se observar aquilo que ficou estabelecido no título executivo, sob pena de violação à coisa julgada.
+Por tais motivos, voto no sentido de dar provimento ao agravo de instrumento, para que os cálculos sejam realizados de acordo com o que restou decidido na sentença de mov. 1.12.
+Nos embargos de declaração, a parte ora recorrente defendeu a aplicação do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, às condenações impostas à Fazenda Pública, exceto àquelas oriundas de relação jurídico-tributária, destacando que essa legislação não poderia ser aplicada em fase processual discutida em 2004, de modo que a sua incidência a partir da entrada em vigor não resultaria na relativização da coisa julgada.
+Ao apreciar o recurso integrativo, a Corte de origem concluiu que "a decisão exequenda está coberta pelo manto da imutabilidade, decorrente da coisa julgada material, devendo ser observado aquilo que ficou estabelecido no título executivo" (fl. 183).
+Observo que, no acórdão recorrido, o Tribunal a quo apreciou o tema referente à violação da coisa julgada pela aplicação da Lei 11.960/2009, que deu nova redação ao art. 1º-F da Lei 9.494/1997.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto ao mérito, esta Corte Superior já consolidou o posicionamento de que a aplicação da Lei 11.960/2009 não importa violação à coisa julgada apenas nas hipóteses em que o título judicial que definiu os juros moratórios em percentual diverso é anterior à edição da norma em questão. Contudo, na hipótese em que o trânsito em julgado da sentença exequenda tenha ocorrido em momento posterior, não há falar em alteração dos juros de mora definidos na fase cognitiva, ainda que a solução adotada seja contrária às teses definidas no julgamento dos Temas 810 do Supremo Tribunal Federal (STF) e 905 do Superior Tribunal de Justiça (STJ), sob pena de afronta ao instituto da coisa julgada.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ATUALIZAÇÃO MONETÁRIA. INEXISTÊNCIA DA COISA JULGADA. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. PRECEDENTE.
+ ..
+2. A parte recorrente alegou que o erro de cálculo foi tempestivamente apontado, isto é, depois do depósito do devedor, mas antes da extinção do processo pela satisfação da obrigação, uma vez que o acórdão recorrido inobservou que não se poderia exigir do recorrente outra postura senão a aceitação da aplicação da TR como parâmetro de correção monetária, porque este era o índice vigente à época.
+3. Embora não se desconheça a natureza de questão de ordem pública dos juros e correção monetária, é "pacífico na jurisprudência desta Corte de que as matérias de ordem pública sujeitam-se aos efeitos da preclusão consumativa quando objeto de decisão anterior" (REsp 1.783.281/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe 29/10/2019). No mesmo sentido: AgInt no AREsp 1.807.793/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 11/11/2021.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.935.300/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/10/2022, DJe de 13/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CORREÇÃO MONETÁRIA E JUROS DE MORA. TÍTULO JUDICIAL. ALTERAÇÃO. IMPOSSIBILIDADE. COISA JULGADA. ERRO DE CÁLCULO. INEXATIDÃO ARITMÉTICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na fase de execução, a coisa julgada não impede a aplicação da Lei n. 11.960/2009 no tocante aos títulos formados anteriormente à sua vigência ou quando o processo de conhecimento, embora transitado em julgado a posteriori, nele não se debateu sobre a incidência de tal norma por motivo não imputável à parte interessada.
+2. Solução distinta deve ser adotada quando a questão dos juros moratórios e da correção monetária foi esgotada na fase cognitiva, examinando-se a controvérsia à luz da Lei n. 11.960/2009, independentemente do acerto da solução adotada no caso concreto em relação às teses definidas no julgamento dos Temas n. 810/STF e n. 905/STJ.
+3. Nessa hipótese, devem prevalecer os parâmetros fixados na sentença transitada em julgado, sendo incabível ao juízo da execução redefinir o título executivo nesse aspecto, sob pena de violação à coisa julgada.
+4. Esta Corte Superior possui jurisprudência no sentido de que o erro de cálculo passível de correção, segundo os ditames do art. 463, I, do CPC, é aquele decorrente de inexatidão aritmética, que não se confunde com a aplicação de um ou outro critério de correção monetária e de juros de mora. Inafastável o óbice da Súmula 83 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.962.609/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 30/5/2022, DJe de 3/6/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO STF. RE 870.947. COISA JULGADA. PREVALÊNCIA.
+1. Cinge-se a controvérsia a definir se é possível, em fase de cumprimento de sentença, alterar os critérios de atualização dos cálculos estabelecidos na decisão transitada em julgado, a fim de adequá-los ao entendimento firmado pelo Supremo Tribunal Federal em repercussão geral.
+2. O Tribunal de origem fez prevalecer os parâmetros estabelecidos pela Suprema Corte no julgamento do RE 870.947, em detrimento do comando estabelecido no título judicial.
+3. Conforme entendimento firmado pelo Pretório Excelso, " ..  a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC, observado o respectivo prazo decadencial (CPC, art. 495)" (RE 730.462, Rel. Min. Teori Zavascki, Tribunal Pleno, julgado em 28/5/2015, acórdão eletrônico repercussão geral - mérito DJe-177 divulg 8/9/2015 public 9/9/2015).
+4. Sem que a decisão acobertada pela coisa julgada tenha sido desconstituída, não é cabível ao juízo da fase de cumprimento de sentença alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF.
+5. Recurso especial a que se dá provimento.
+(REsp n. 1.861.550/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/6/2020, DJe de 4/8/2020.)
+Na hipótese dos autos, segundo alega a própria parte recorrente, a sentença proferida em 24/2/2004 somente transitou em julgado em 5/2/2018, ou seja, após o advento da Lei 11.960/2009, de modo que é inviável a modificação dos percentuais de juros moratórios definidos na sentença exequenda.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
