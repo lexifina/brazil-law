@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por RONALDO VENTURA DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que inadmitiu o recurso especial.
+No curso do cumprimento de pena de 09 (nove) anos e 09 (nove) meses de reclusão, o agravante interpôs agravo em execução contra decisão do juízo de primeiro grau que não acolheu a sua justificativa para o descumprimento de condição do regime aberto, consistente na apresentação em juízo no período de maio de 2022 até setembro de 2022 (fls. 3-7).
+O Tribunal de origem, por unanimidade, negou provimento ao recurso defensivo, porém, de ofício, determinou que a pena fosse cumprida com apresentações trimestrais em juízo, e não mais mensais (fls. 846-854).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação ao disposto na Orientação Técnica de 27 de abril de 2020 do CNJ, no art. 126, §4º, da Lei de Execuções Penais e no art. 5º, XLVI, da Constituição Federal. Aduziu que o estado de saúde conjugado com a pandemia da Covid-19 impedia que o recorrente cumprisse a condição estabelecida. Ao final, requereu o acolhimento da justificativa apresentada e o cômputo do período em que não houve comparecimento em juízo como pena cumprida (fls. 887-896).
+O recurso especial foi inadmitido na origem, em razão de a matéria ventilada no recurso ter caráter infralegal (recomendação do CNJ) e constitucional (dispositivo da Constituição), bem como diante do óbice da Súmula n. 7, STJ (fls. 912-919).
+Foi interposto o presente agravo em recurso especial, por meio do qual o agravante sustentou que houve desacerto na decisão que negou seguimento ao recurso. Postulou o provimento do agravo para o provimento do recurso especial (fls. 931-948).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 976-977).
+É o relatório. DECIDO.
+Da minuciosa análise das razões recursais, conclui-se que a parte agravante deixou de apresentar argumentos específicos e detalhados contra a decisão que inadmitiu o recurso especial. Nesse sentido, não observou o teor da Súmula n. 182, STJ, cuja aplicação se dá analogicamente ao caso em tela.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, conforme já assentado jurisprudência desta Corte, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial" (AgRg no AREsp n. 2.547.981/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/2/2025, DJEN de 10/2/2025).
+O princípio da dialeticidade recursal exige, portanto, que haja confrontação clara, concreta e ampla de todos os fundamentos da decisão. Nesse sentido, a jurisprudência consolidada deste Tribunal:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+2. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+3. a interposição descabida de sucessivos recursos (AgRg no EARESP NO RCD nos EDcl no AgRg nos EDcl no AgRg no ARESP N. 1.870.554 - SP) configura abuso do direito de recorrer, autorizando a baixa imediata dos autos.
+Agravo regimental não conhecido com determinação de certificação do trânsito em julgado e imediata baixa dos autos."
+(AgRg nos EAREsp n. 1.870.554/SP, relator Ministro Humberto Martins, Corte Especial, julgado em 7/3/2023, DJe de 14/3/2023.)
+No caso em tela, o agravante não realizou um confrontamento com a decisão do Tribunal de origem que inadmitiu o recurso especial pelo teor da Súmula n. 7, STJ. O que se observa das suas razões é a mera alegação genérica de que o especial demandaria apenas revaloração de provas, sem que tenha havido demonstração clara e concreta de como o óbice erigido pela decisão do Tribunal de origem poderia ser superado.
+Ademais, quanto ao fundamento do Tribunal a quo de inadequação da via eleita (alegação de violação a dispositivo infralegal e constitucional), o agravante limitou-se a afirmar que também estava aduzindo infringência de norma da Lei de Execuções Penais.
+Ao não se desincumbir da obrigação de rebater todos os fundamentos da decisão agravada e de demonstrar como o óbice poderia ser superado, o agravante incorreu em violação à Súmula n. 182, STJ.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
