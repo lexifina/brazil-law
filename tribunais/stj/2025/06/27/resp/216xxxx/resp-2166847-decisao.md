@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE BASTOS contra acórdão do MUNICÍPIO DE BASTOS assim ementado (e-STJ fl. 288):
+APELAÇÃO AÇÃO ORDINÁRIA MUNICÍPIO DE BASTOS Pretensão de pagamento de adicional de periculosidade. Sentença de improcedência. MÉRITO Adicional de periculosidade Lei Municipal nº 870/1990, que estabelece o Estatuto Único dos Servidores Públicos Municipais de Bastos, que prevê o pagamento de adicional de periculosidade e a aplicação das normas da CLT quanto ao tema Inteligência do artigo 193, §4º, da CLT Previsão de serem consideradas perigosas as atividades de trabalhador de motocicleta NR 16, Anexo 15, que detalha a previsão. Perícia que apurou que o ambiente de labor do requerente é periculoso Utilização de motocicleta disponibilizada pela Municipalidade para realização de visitas durante o desempenho das funções Uso que não se dá de forma eventual, nem habitual por tempo reduzido, exceções que impediriam a incidência do adicional Precedentes deste E. Tribunal. Termo inicial - Laudo pericial que ostenta natureza meramente declaratória, e não constitutiva de direito Benefício que deve ser pago desde o momento em que o servidor é colocado em situação de risco, respeitada a prescrição quinquenal Interpretação do STJ em pedido de uniformização de interpretação (PUIL 413/18), segundo a qual "o termo inicial do pagamento do adicional de insalubridade/periculosidade deve corresponder à data do laudo pericial, não sendo devido o pagamento no período que antecedeu ao referido ato, eis que não se pode presumir a periculosidade/insalubridade em épocas passadas." que não tem efeito vinculante. Sentença reformada. Recurso provido.
+Declaratórios rejeitados.
+A parte recorrente aponta violação dos arts. 192 e 195 da CLT, 6º do Decreto n. 97.458/1989 e 927, III, do CPC/2015, pois (a) o Tribunal de origem decidiu a lide em sentido oposto ao decido no julgamento do PUIL 413/RS e PUIL 1.954/SC, tendo em vista a impossibilidade retroativa do laudo pericial para fins de pagamento do adicional de periculosidade; e (b) "somente as parcelas pagas após a homologação do laudo pericial em juízo, estão legitimadas" (e-STJ fl. 331).
+Contrarrazões apresentadas.
+O apelo nobre recebeu juízo positivo de admissibilidade.
+Passo a decidir.
+A irresignação não merece prosperar.
+Faz-se mister destacar o conteúdo do do art. 927, III, do CPC/2015:
+III - os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos.
+Da simples leitura do dispositivo acima, observa-se que a parte recorrente não indicada nem acórdão proferido no julgamento de incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos especial repetitivos, sendo certo que a aplicação do julgamento proferido em sede de PUIL não se enquadra em nenhum do inciso do art. 927 acima destacado.
+Explico.
+Note-se que, de acordo com o art. 928 do CPC/2015, "para os fins deste Código, considera-se julgamento de casos repetitivos a decisão proferida em: I - incidente de resolução de demandas repetitivas; II - recursos especial e extraordinário repetitivos".
+O Pedido de Uniformização de Jurisprudência (PUIL), para fins de aplicação do CPC/2015, não se enquadra como demanda repetitiva apta a vincular juízes e tribunais no julgamento de feitos sob o procedimento comum.
+Cumpre lembrar que o PUIL faz parte de um sistema próprio para solucionar divergência apenas no âmbito dos Juizados Especiais, de acordo com o art. 14 da Lei n. 10.259/2001 e do art. 18 da Lei n. 12.153/2009, não tendo o condão de vincular os demais juízes e tribunais (no procedimento comum).
+Assim, não havendo a indicação de precedente vinculante que teria sido desprezado pelo Tribunal de origem, circunstância essencial para a demonstração da violação do art. 927, III, do CPC/2015, exsurge certo a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA.
+1. Não há violação do art. 1022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente violado ou interpretado de maneira divergente, pelo Tribunal de origem, implica deficiência de fundamentação no recurso especial, hipótese que impõe a incidência do óbice da Súmula 284 do STF.
+3. O Pedido de Uniformização de Jurisprudência (PUIL), para fins de aplicação do CPC/2015, não se enquadra como demanda repetitiva apta a vincular juízes e tribunais no julgamento. O PUIL faz parte de um sistema próprio para solucionar divergência apenas no âmbito dos Juizados Especiais, de acordo com o art. 14 da Lei n. 10.259/2001 e do art. 18 da Lei n. 12.153/2009, não tendo o condão de vincular os demais juízes e tribunais (no procedimento comum).
+4. Agravo interno desprovido. (AgInt AREsp 2.700.572/SP, minha Relatoria, Primeira Turma, DJe 28/03/2025)
+Noutra quadra, extrai-se das razões do aresto combatido (e-STJ fls. 293/294):
+Menciona-se, quanto ao termo inicial do pagamento do adicional, que esta Relatoria e esta C. 8ª Câmara firmam o entendimento de que o laudo de insalubridade/periculosidade que a reconhece é meramente declaratório e não constitutivo de direito.
+Isso porque entendimento diverso permitiria a demora da elaboração do laudo, para retardar o pagamento do adicional.
+Assim, o benefício deve ser pago desde o momento em que o servidor é colocado em situação de risco, ou seja, a data do efetivo exercício na função reconhecidamente periculosa, devendo ser respeitada apenas a prescrição quinquenal, nos termos da Súmula 85, do STJ
+Ora, aguardar a declaração de insalubridade/periculosidade por laudo elaborado pela própria Administração evidencia enriquecimento ilícito desta.
+Verifica-se que tais fundamentos não foram impugnados nas razões do recurso especial, sendo certo a incidência da Súmula 283 do STF.
+Noutro giro, o argumento defendido no apelo nobre de que "somente as parcelas pagas após a homologação do laudo pericial em juízo, estão legitimadas" carece do requisito indispensável de prequestionamento. Incidência da Súmula 282 do STF.
+Nesse ponto, é digno de registro que o referido argumento sequer foi arguido nas razões dos embargos declaratórios (e-STJ fls. 296/300).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
