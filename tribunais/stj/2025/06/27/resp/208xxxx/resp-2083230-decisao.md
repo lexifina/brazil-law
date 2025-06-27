@@ -1,0 +1,22 @@
+DECISÃO
+Recursos especiais interpostos pelo Ministério Público Federal e pelo Instituto do Patrimônio Histórico e Artístico Nacional contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fls. 1695/1697):
+AMBIENTAL. AÇÃO CIVIL PÚBLICA. CONSTRUÇÃO DE PONTE NO ESTADO DE SERGIPE. AUSÊNCIA DE RELATÓRIO ARQUEOLÓGICO SUBAQUÁTICO. REALIZAÇÃO E APROVAÇÃO DO RELATÓRIO PELO IPHAN APÓS A ENTREGA DO OBRA. PENDÊNCIA AMBIENTAL QUE FOI SUPRIDA PELA ADMINISTRAÇÃO. DESNECESSIDADE DE ADOÇÃO DE MEDIDAS AMBIENTALMENTE MITIGADORAS OU COMPENSATÓRIAS. DESPROPORCIONALIDADE DA PENALIDADE. PROVIMENTO. IMPROCEDÊNCIA DA DEMANDA.
+Irresignado com a decisão, o IPHAN interpôs recurso especial alegando violação do art. 1.022, II, do CPC, dos arts. 3º e 14, §1º, da Lei n, 6.938/1981, do art. 927 do CC, do art. 1º da Lei n. 7.347/1985 e do art. 6º, VIII, da Lei n. 8.078/1990.
+O Ministério Público Federal também apresentou recurso especial, sustentando ofensa ao art. 14, § 1º, da Lei n. 6.938/1981.
+Após a apresentação das contrarrazões, ambos os recursos especiais foram admitidos pelo tribunal.
+Parecer do MPF pelo provimento dos recursos (e-STJ fls. 1977/1985).
+É o relatório.
+Adianto que os recursos não serão conhecidos.
+Quanto ao apelo do IPHAN, aplico a Súmula 284 do STF, por analogia.
+É que não houve esclarecimento de como os dispositivos (seja o 1.022, do CPC, sejam os relacionados ao mérito propriamente dito) teriam sido violados no acórdão recorrido.
+Ora, por certo, que a tese alusiva à ofensa ao art. 1.022 do CPC/2015 deve ser construída com base no confronto entre a alegada omissão e a respectiva repercussão jurídica que traduza a necessidade de seu enfrentamento pela Corte de origem, o que, sem dúvida, não ocorreu na hipótese em análise.
+Sobre os artigos da questão de fundo, o fato é que a citação geral de artigos de lei ao longo do apelo especial não é suficiente para caracterizar e demonstrar a contrariedade de lei federal, já que impossível identificar se foram eles citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/06/2018).
+Nesse mesmo sentido: AgInt no AREsp 2.058.337/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/11/2022, DJe de 17/11/2022; AgInt no AREsp 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020, AgInt no AREsp 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020.
+Ainda que assim não fosse, os dispositivos legais tidos por violados não foram prequesitonados na origem; por essa razão, aplica-se a Súmula 282 do STF, por analogia. Note-se que o acórdão não foi decidido com fundamento na existência de ato ilício a ser reparado, ou sob a perspectiva de existência de dano ambiental.
+Mas, mesmo que tudo isso fosse superado, ainda incidiria ao caso a Súmula 7 do STJ. É que o Tribunal, para adotar a conclusão que adotou, levou em consideração o contexto fático-probatório dos autos, nos seguintes termos:
+Penso que deve ser afastada a condenação do DER/SE firmada na sentença a promover medidas compensatórias à construção da ponte sem a apresentação prévia do relatório arqueológico subaquático. É que após o término da obra o DER/SE apresentou o relatório em questão ao IPHAN, cuja realização foi autorizada e posteriormente aprovado pelo IPHAN, o que demonstra que a condenação ora impugnada é desproporcional já que o DER/SE não pode ser condenado a promover medidas ambientais para compensar uma exigência ambiental que já cumpriu, inclusive com respaldo do órgão administrativo competente. Além disso, a decisão do IPHAN que aprovou o relatório arqueológico subaquático não foi formalmente anulada pela Administração, havendo apenas alegação nos autos pelo IPHAN em Sergipe que essa anulação poderia ocorrer por ato do Conselho Nacional de Arqueologia. (e-STJ fls. 1693/1694)
+A revisão destes argumentos exigiria, no mínimo, reexaminar os elementos fáticos ali indicados, providência incompatível com o recurso especial.
+Aliás, os últimos dois fundamentos (ausência de prequestionamento e incidência da Súmula 7 do STJ) também motivam o não conhecimento do apelo do MPF, pelas mesmas razões.
+Ante o exposto, NÃO CONHEÇO dos recursos especiais.
+Publique-se. Intimem-se.
+EMENTA
