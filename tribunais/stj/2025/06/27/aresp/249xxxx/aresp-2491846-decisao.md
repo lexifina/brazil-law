@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MOACIR APARECIDO SALAZAR contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1502483-02.2021.8.26.0548 (fls. 386/394).
+No recurso especial, o agravante aponta a violação do art. 33, § 4º, da Lei n. 11.343/2006, sua contrariedade com o entendimento desta Corte e a ocorrência de dissídio jurisprudencial, postulando a aplicação da causa especial de redução de pena, no seu grau máximo, e a consequente substituição de pena (fls. 399/414).
+O Tribunal de origem não admitiu o recurso com suporte no óbice das Súmulas 7 e 182/STJ (fls. 432/433).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo. Se conhecido, pelo não conhecimento ou desprovimento do recurso especial (fls. 479/ 483).
+É o relatório.
+O agravo não comporta conhecimento.
+No recurso especial, requer-se, com fundamento no art. 105, inciso III, alíneas a e c da Constituição Federal, o reconhecimento da violação do art. 33, § 4º, da Lei n. 11.343/2006, mediante a alegação da contrariedade do acórdão atacado com a jurisprudência desta Corte e do dissídio jurisprudencial sobre a questão levantada.
+Na decisão que inadmitiu o apelo nobre, tem-se o óbice das Súmulas 7 e 182/STJ, porquanto, na sua insurgência, o recorrente não impugnou concretamente os fundamentos da decisão recorrida, nem mesmo com base no dissídio jurisprudencial, uma vez que ausentes as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal.
+Ressalta-se que, no recurso especial fundado na alínea c do permissivo constitucional, deve a parte recorrente realizar o necessário cotejo analítico entre o acórdão recorrido e os colacionados, a fim de demonstrar a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementas.
+Ademais, o recorrente deve provar o dissenso por meio de certidão, cópia autenticada ou pela citação do repositório, oficial ou credenciado, em que tiver sido publicada a decisão divergente, o que não foi feito na hipótese dos autos. Observa-se das indicadas fontes dos julgados paradigmas trazidos no recurso especial (fl. 399) que não revelam qualquer relação com a questão debatida. Aliás, nem mesmo outros precedentes apontados no apelo nobre identificam ou se assemelham com o caso confrontado.
+A propósito: AgRg no AREsp n. 2.203.373/DF, Relator Ministro Messod Azulay Neto, Quinta Turma, DJe 28/11/2023.
+Por outro lado, o recorrente não cuidou de trazer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência do Superior Tribunal de Justiça.
+Nesse panorama, verifico que, quanto a este pleito, o agravante deixou de observar a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP) e, nessas condições, o presente agravo não merece prosperar, haja vista não haver atacado, de forma específica, os fundamentos da decisão combatida, incidindo no óbice da Súmula 182/STJ, sendo inadmissível o inconformismo por deficiência na sua fundamentação.
+Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (1 KG DE MACONHA). TESE DE VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPUGNAÇÃO DEFICIENTE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA E TESES DIVERGENTES. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. ÓBICE DAS SÚMULAS 7 E 182/STJ.
+Agravo em recurso especial não conhecido.
