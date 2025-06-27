@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SANTO ANDRÉ contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 56):
+APELAÇÃO - IPTU - Comarca de Santo André - Embargos à execução fiscal - Insurgência contra sentença que rejeitou liminarmente os embargos à execução - Possibilidade de recebimento dos embargos à execução, independentemente da garantia do juízo, se comprovada a insuficiência de recursos da embargante - Hipótese de hipossuficiência da embargante comprovada - Precedentes do Egrégio STJ e desta Colenda Turma Julgadora - Sentença reformada - Recurso provido.
+Os primeiros embargos de declaração foram rejeitados (e-STJ fls. 102/106). Os segundos, acolhidos apenas para sanar erro material (e-STJ fls. 111/114).
+No recurso especial (e-STJ fls. 130/153), a parte recorrente aponta violação do art. 1.022, I e II, do CPC, tendo em vista a omissão do acórdão recorrido sobre argumentação deduzida em embargos de declaração.
+Indica ofensa ao art. 16, § 1º, da Lei n. 6.830/1980, em virtude do conhecimento dos embargos à execução fiscal sem a garantia do juízo.
+Sustenta contrariedade ao art. 99, § 2º, do CPC, afirmando que "faltaram elementos para deferir a gratuidade de justiça, uma vez que a recorrida não apresentou ao menos a declaração de renda (IRPF), tendo em conta ainda o valor do imóvel tributado" (e-STJ fl. 73).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o recurso especial por entender não configurado o vício de integração, observada a orientação jurisprudencial desta Corte e necessário o reexame fático-probatório (Súmula 7 do STJ) (e-STJ fls. 124/127), o que ensejou a interposição deste agravo em recurso especial (e-STJ fls. 130/153).
+A contraminuta não foi apresentada.
+Passo a decidir.
+No caso dos autos, o Tribunal de origem deu provimento à apelação para determinar o recebimento dos embargos à execução fiscal. Transcrevo os fundamentos do aresto objeto de recurso especial (e-STJ fls. 58/63):
+De fato, a garantia do Juízo é exigência expressa para oposição dos embargos à execução, nos termos do artigo 16, § 1º, da Lei nº 6.830/80:
+ ..
+Contudo, a jurisprudência tem relativizado a obrigatoriedade do oferecimento da garantia em situações excepcionais, como na hipótese em que o embargante comprovar a inexistência de qualquer patrimônio apto a ser ofertado em garantia, não se limitando ao dinheiro ou a renda. Confira:
+ ..
+Assim, é possível que os embargos à execução sejam admitidos quando inexiste a garantia do juízo, em casos em que o devedor comprove não possuir condições financeiras a fim de garantir a execução fiscal, de modo que a inadmissão dos embargos levaria à violação ao direito de defesa.
+No caso concreto, embora o Juízo de Primeiro Grau tenha deferido os benefícios da justiça gratuita à apelante, rejeitou os embargos à execução de maneira liminar.
+Todavia, os documentos trazidos pela executada demonstram que ela não possui recursos financeiros para garantir a dívida: possui 67 anos, não exerce profissão remunerada e recebe o benefício de prestação continuada à pessoa idosa (fl. 25). Além disso, trouxe a declaração de hipossuficiência e os extratos bancários (fls. 20 e 22/27, respectivamente), motivo pelo qual de rigor o recebimento dos embargos à execução mesmo sem a garantia da dívida.
+Nesse sentido, precedentes deste Egrégio Tribunal de Justiça, cujas ementas se transcrevem como razão de decidir (com negritos e grifos não originais):
+ ..
+Assim, de rigor, a reforma da r. sentença apelada para determinar o recebimento dos embargos à execução, mesmo sem garantia do juízo.
+Pois bem.
+No que diz respeito à alegada violação do art. 1.022 do CPC, o recorrente aponta omissão do acórdão recorrido na apreciação de argumentação relacionada à comprovação da impossibilidade de oferecimento de garantia para fins de viabilização do recebimento dos embargos à execução fiscal.
+Contudo, o Tribunal de origem concluiu fundamentadamente que "os documentos trazidos pela executada demonstram que ela não possui recursos financeiros para garantir a dívida" (e-STJ fl. 61) e determinou o recebimento dos embargos à execução. Logo, apreciou, em última análise, a questão submetida à sua apreciação, qual seja, a possibilidade de recebimento de embargos à execução mesmo sem oferecimento de garantia em razão da demonstração da impossibilidade de fazê-lo.
+Logo, o Tribunal examinou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou contradição na prestação jurisdicional.
+Ademais, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como se confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Sobre o tema, importa ressaltar que não há omissão quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão recorrido.
+Além disso, nos termos da jurisprudência dessa Corte Superior, " ..  o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes, quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp 1.383.955/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/04/2018, DJe 13/04/2018).
+Desse modo, não se vislumbra nenhuma deficiência na fundamentação contida no acórdão recorrido.
+Além disso, o recorrente indica ofensa ao art. 16, § 1º, da Lei n. 6.830/1980 e ao art. 99, § 2º, do CPC, sustentando, em síntese, a necessidade de apresentação de outros documentos para justificar o recebimento dos embargos à execução fiscal sem a garantia do juízo.
+O art. 16, § 1º, da Lei n. 6.830/1980 dispõe meramente sobre a necessidade da garantia da execução para a admissão dos embargos à execução fiscal. Já o art. 99 do CPC cuida, em verdade, da concessão da gratuidade de justiça, e não propriamente à dispensa da garantia exigida para o oferecimento dos embargos à execução fiscal.
+A tese desenvolvida pelo recorrente diz respeito à comprovação da impossibilidade de apresentação de garantia da dívida, e não propriamente à matéria de que tratam os dispositivos.
+Logo, não é possível conhecer do recurso especial quando o artigo de lei apontado como violado não contém, por si só, comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando o dispositivo legal não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outras prescrições legais.
+Sobre a questão:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC E AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DANO AMBIENTAL. REPARAÇÃO. IMPRESCRITIBILIDADE. TEMA N. 999/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A jurisprudência deste Tribunal Superior considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade e quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 1.971.245/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+Ademais, o Tribunal concluiu que os documentos apresentados demonstram a impossibilidade de oferecimento de garantia.
+Contudo, o recorrente apenas afirma que outros documentos poderiam evidenciar o contrário, mas não argumenta com o fim de desconstituir a conclusão do acórdão recorrido.
+Logo, as razões do recurso especial não impugnam diretamente a conclusão do acórdão recorrido. Assim, incide na espécie o óbice das Súmulas 283 e 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DA DECISÃO AGRAVADA. PRECLUSÃO. NÃO INCIDÊNCIA DA SÚMULA N. 182/STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. PREJUDICIALIDADE EXTERNA. SUSPENSÃO DO PROCESSO. AFASTADA PELA CORTE DE ORIGEM A PARTIR O EXAME DE ELEMENTOS FÁTICOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO COMBATIDO. RAZÕES RECURSAIS DISSOCIADAS. SÚMULAS N. 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL ANÁLISE PREJUDICADA.
+I - A não impugnação dos fundamentos da decisão agravada quanto à incidência da Súmula n. 518, do Superior Tribunal de Justiça, bem como sobre a jurisprudência acerca do encargo do Decreto-Lei n. 1.025/1969, acarreta a preclusão da matéria não impugnada, não incidindo a Súmula n. 182/STJ.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A paralisação do processo em decorrência de prejudicialidade externa não é obrigatória, competindo ao juízo local decidir acerca da plausibilidade da suspensão diante das circunstâncias do caso concreto. Precedentes.
+IV - A conclusão da Corte de origem acerca da não paralização do feito se deu a partir de minucioso exame do acervo fático probatório dos autos, revelando-se inviável a sua revisão, em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+V - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.
+Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+VI - O recurso especial não pode ser conhecido com fundamento na alínea "c" do permissivo constitucional, pois o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial.
+VII - Agravo Interno conhecido em parte e improvido.
+(AgInt no REsp n. 2.164.929/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
