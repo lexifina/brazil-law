@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESTADO DO RIO DE JANEIRO contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 1.022 e 489 do CPC, na incidência das Súmulas n. 5 e 7 do STJ e na aplicação da Súmula n. 83 do STJ (fls. 1.628-1.634).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que nada há de ser alterado quanto à decisão agravada, até mesmo em consideração ao que ficou decidido pelo Superior Tribunal de Justiça, ao deslinde do Tema n. 1.051 do STJ (fl. 1.673-1.674).
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação nos autos de ação indenizatória.
+O julgado foi assim ementado (fls. 1.518-1.536):
+APELAÇÃO CÍVEL. ADMINISTRATIVO. AÇÃO INDENIZATÓRIA. CONTRATO DE EMPREITADA DESTINADO À CONSTRUÇÃO DO FÓRUM DA COMARCA DE MACAÉ.
+1. Pretensão de ressarcimento decorrente de processo administrativo destinado à aceitação definitiva de obra. Constatação de defeitos construtivos, motivando ajustes e elaboração de cronograma de reparos. Inadimplemento parcial do contrato administrativo. Pretensão de restituição dos valores despendidos com reparos e multa contratual. Procedência dos pedidos.
+2. Prazo prescricional para o ressarcimento decorrente de vício redibitório (CC, art. 441) vinculado ao contrato de empreitada. Incidência do lapso decenal (CC, art. 205), segundo releitura da Súmula 194 do STJ. Precedentes.
+3. Perícia técnica que promoveu estudo claro e conciso, imputando defeito construtivo decorrente da existência de recalque vinculado a erro de fundação (falta de estaqueamento).
+4. Construtora apelante que não observou as normas e especificações técnicas para adequar o projeto construtivo às especificidades do solo sobre o qual foi edificado o Fórum de Macaé, ausente qualquer escusa para o defeito construtivo constado na prova pericial, elaborada sob o crivo do contraditório.
+5. Natureza concursal do crédito resultante desta demanda, deflagrada antes do pedido de recuperação (Lei 11.101/01, art. 49). Precedentes do STJ.
+6. Obrigação corretamente estipulada na sentença que, entretanto, não confere ao juízo cível atos de constrição, eis que indispensável o equacionamento das dívidas contraídas pelas empresas recuperandas.
+7. Consectários legais. Matéria cognoscível de ofício. Acréscimo de juros e correção que fluem até o pedido de recuperação, segundo estabelece o art. 9º, II, da Lei nº 11.101/05.
+8. Provimento parcial do recurso.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 1.571-1.579):
+EMBARGOS DE DECLARAÇÃO.APELAÇÃO CÍVEL. ADMINISTRATIVO. AÇÃO INDENIZATÓRIA. CONTRATO DE EMPREITADA DESTINADO À CONSTRUÇÃO DO FÓRUM DA COMARCA DE MACAÉ. INEXECUÇÃO PARCIAL. PROCEDÊNCIA DOS PEDIDOS DE RESSARCIMENTO DAS DESPESAS COM REPAROS PROVOCADOS PELO RECALQUE DE FUNDAÇÃO E INCIDÊNCIA DE MULTA CONTRATUAL. SUBMISSÃO DOS ATOS EXECUTIVOS AO JUÍZO RECUPERACIONAL. PROVIMENTO PARCIAL. EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES. REJEIÇÃO.
+1. Ação indenizatória destinada ao ressarcimento de prejuízos decorrentes de defeito construtivo e multa contratual.
+2. Acórdão que reconheceu a natureza concursal do crédito resultante desta demanda, proposta antes do pedido de recuperação (Lei 11.101/01, art. 49). Deflagração de atos de constrição que compete ao juízo recuperacional, eis que indispensável o equacionamento das dívidas contraídas pela empresa recuperanda. Provimento parcial do recurso.
+3. Embargos de ambas as partes, com pedidos de inclusão de honorários recursais e afastamento da submissão do crédito à recuperação judicial. Nítido propósito infringente dos aclaratórios.
+4. Atos de constrição que devem ser concentrados no juízo recuperacional, sendo irrelevante a conclusão da homologação do plano de recuperação para o processamento do crédito oriundo desta demanda. Precedentes do STJ.
+5. Reclassificação do crédito promovida no julgamento colegiado que não gera sucumbência recursal (Lei nº 11.101/07, art. 7-A, § 8º).
+6. Inexistência de contradição, omissão, obscuridade ou erro material. Arts. 1.022 e 489, § 1º, ambos do CPC.
+7. Rejeição de ambos os embargos.
+No recurso especial, a parte aponta violação do art. 49 da Lei n. 11.101/2005, pois o crédito oriundo desta demanda ainda não era existente na data do pedido de recuperação judicial, cujo plano já foi homologado, não sendo possível que crédito constituído posteriormente seja incluído em um plano de recuperação judicial homologado.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando a determinação de habilitação do crédito constituído judicialmente no âmbito de procedimento de recuperação judicial.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial deve ser inadmitido, pois não houve violação do artigo 49 da Lei n. 11.101/2005, já que o crédito constituído em favor do Estado teve como fato gerador momento anterior ao pedido de recuperação judicial da Santa Bárbara Engenharia S.A. (fls. 1.609-1.626).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de indenizatória em que a parte autora pleiteou o ressarcimento de despesas com reparos provocados por defeitos construtivos e a incidência de multa contratual.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente o pedido, condenando a ré ao pagamento de R$ 206.114,78, a título de dano material e R$ 477.003,67, a título de multa contratual, além de providenciar o "habite-se" e a licença perante o Corpo de Bombeiros.
+A Corte estadual reformou parcialmente a sentença, determinando a habilitação do crédito no juízo recuperacional, com fluência de juros e correção monetária até o pedido de recuperação judicial, conforme o art. 9º, II, da Lei n. 11.101/2005.
+I - Art. 49 da Lei n. 11.101/2005
+No que diz respeito à alegada violação do dispositivo acima mencionados, não assiste razão à recorrente.
+Isso porque o Tribunal de origem concluiu que, " ..  quanto à natureza do crédito decorrente desta demanda, verifica-se que os fatos preexistem à homologação da recuperação, ato judicial proferido em 31/03/14 e publicado em 07/04/14  .. ", sendo que a "demanda destinada ao ressarcimento com incidência de multa contratual resultou em crédito de natureza concursal, o que impõe a submissão ao concurso de credores (Lei nº 11.101/05, art. 49), sob pena de prejuízo à exequibilidade do plano de recuperação judicial e comprometimento da destinação do patrimônio da empresa em recuperação. Não se mostra cabível atribuir ao juízo cível atos de constrição, comprometendo o equacionamento das dívidas contraídas pela empresa recuperanda, razão pela qual o crédito estipulado nesta demanda deve ser habilitado no procedimento recuperacional" (fls. 1.532-1.533).
+Já o recorrente afirma, em suas razões recursais, que o acórdão recorrido violou o art. 49 da Lei n. 11.101/2005, pois determinou a habilitação de crédito que não era existente na data do pedido de recuperação judicial.
+De início, vale dizer que, no caso, aplica-se o disposto no Tema Repetitivo n. 1.051, em que se fixou a seguinte tese: "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador". Veja-se a ementa do julgado:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. PEDIDO. FATO GERADOR ANTERIOR. SUBMISSÃO. EFEITOS. NOVAÇÃO. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. IMPOSSIBILIDADE. HONORÁRIOS. CAUSALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se o crédito se submete aos efeitos da recuperação judicial e, nessa hipótese, se o cumprimento de sentença deve ser extinto.
+3. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+4. Na hipótese, o fato gerador - descumprimento do contrato de prestação de serviços firmado entre as partes - é anterior ao pedido de recuperação judicial, motivo pelo qual deve ser reconhecida a natureza concursal do crédito.
+5. O credor não indicado na relação inicial de que trata o art. 51, III e IX, da Lei nº 11.101/2005 não está obrigado a se habilitar, pois o direito de crédito é disponível, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, a recuperação judicial ainda não foi extinta por sentença transitada em julgado, podendo o credor habilitar seu crédito, se for de seu interesse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, observadas as diretrizes estabelecidas no plano de recuperação aprovado, diante da novação ope legis (art. 59 da LREF).
+8. Nos casos de extinção do processo sem resolução de mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+9. Recurso especial conhecido e provido. (REsp n. 1.655.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 27/4/2022, DJe de 25/5/2022.)
+No caso dos autos, induvidoso que o acórdão recorrido concluiu que o crédito resultante da demanda é de natureza concursal, deflagrada antes do pedido de recuperação, e, por isso, deve ser habilitado no procedimento recuperacional. Logo, o fato gerador do crédito ocorreu antes da homologação do pedido de recuperação judicial.
+De todo modo, a análise da natureza concursal do crédito implica em necessário revolvimento dos fatos e acervo probatório dos autos, o que é vedado em sede de recurso especial, com incidência da Súmula n. 7 do STJ.
+Destarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+A propósito: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Dessa forma, não há falar em violação do art. 49 da Lei n. 11.101/2005.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
