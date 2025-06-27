@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA 10ª VARA DE NATAL - SJ/RN, suscitante, e o JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE MOSSORÓ - RN, suscitado, nos autos de ação penal ajuizada em para apurar a suposta prática de crime de violação de direito autoral, envolvendo o interessado ANTONIO SOBRINHO MARQUES DE PAIVA.
+Consta nos autos que o denunciado foi preso em flagrante delito, no dia 11.07.2009, na RN-117, quando transportava 221 DVD"s e 59 CD"s falsificados.
+O Juízo da 4ª Vara Criminal da Comarca de Mossoró/RN, acolhendo manifestação do Ministério Público Estadual, declinou da competência, sob o o argumento de que, nos termos do Tema 580 de Repercussão Geral, competiria à Justiça Federal processar e julgar o crime de violação de direito autoral de caráter transnacional (fls. 235-236).
+O Juízo de Direito da 10ª Vara Federal de Natal/RN, por sua vez, suscitou o conflito negativo de competência, por entender que (fls. 255-257):
+não consta no feito indícios de transnacionalidade da violação do direito autoral, seja com início no país e a ocorrência de resultado no estrangeiro, ou de forma inversa, não se aplicando, por consequência, a tese fixada em sede de repercussão geral no Tema 580 pelo STF
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitado (fls. 267-273).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Cinge-se a controvérsia em definir a competência para processar e julgar ação penal na qual o denunciado é acusado do cometimento do crime de de violação de direito autoral.
+A competência da Justiça Federal estabelecida no artigo 109, V, da Constituição Federal pressupõe a existência de prejuízo a bens, serviços ou interesses da União, de suas entidades autárquicas ou empresas públicas e que os crimes previstos em tratado ou convenção internacional, quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente.
+Conforme opinou o Ministério Público Federal (fls. 267-273, grifamos):
+Para que a competência da Justiça Federal seja fixada com base neste dispositivo, são cumulativamente necessários três requisitos: a) que o fato criminoso seja previsto em tratado ou convenção internacional; b) que o Brasil seja signatário de tal instrumento, comprometendo-se a combater o delito; e c) que exista uma efetiva relação de internacionalidade, caracterizada pela transposição de fronteiras, seja na execução ou no resultado do crime.
+No caso em análise, esses requisitos não estão preenchidos.
+Extrai-se do laudo pericial (e-STJ fls. 95/96) que os DVD"s e CD"s apreendidos foram "falsificados grosseiramente, tanto o disco quanto os impressos nas capas, sendo os discos fabricados em diversos Países, mas as gravações e as capas são feitas aqui no Brasil, produzidas com violação dos direitos autorais".
+Vê-se, portanto, que a conduta típica do crime em apuração - violação de direito autoral - consistente na gravação dos áudios e vídeos e a impressão das capas, ocorreu integralmente no território brasileiro, com o objetivo de comercialização ilegal no País.
+Dessa forma, ausente qualquer indício de que a execução do crime tenha iniciado no Brasil com resultado no estrangeiro, ou vice-versa, inexiste o caráter transnacional que justificaria o deslocamento da competência para a Justiça Federal. O delito, tal como descrito, consumou-se em território nacional, sob a jurisdição da Justiça Estadual.
+Nessa clareza, o Supremo Tribunal Federal, ao julgar o Recurso Extraordinário (RE) 702.362/RS, firmou a tese de Repercussão Geral - Tema 580 - de que "Compete à Justiça Federal processar e julgar o crime de violação de direito autoral de caráter transnacional".
+Conforme destacado no voto condutor do Ministro Luiz Fux, a transnacionalidade não se configura pela mera previsão do crime em tratado internacional, mas exige que "a execução  tenha sido  iniciada no Brasil, e que o resultado ocorra ou devesse ter ocorrido no estrangeiro, ou reciprocamente". Fato que, como visto, não ocorreu no caso dos autos.
+O STF, ao julgar o RE n. 702.362-RG/RS, firmou o posicionamento de que:
+Compete à Justiça Federal processar e julgar o crime de violação de direito autoral de caráter transnacional (Tema n. 580 do STF).
+Com efeito,
+A proteção dos direitos autorais constitui obrigação assumida pela República brasileira perante a comunidade internacional, mediante ratificação e promulgação das seguintes convenções: (a) Convenção de Berna de 1886, revista em Paris em 1971 e promulgada no Brasil pelo Decreto 75.699, de 06 de maio de 1975; (b) Convenção Interamericana sobre os Direitos do Autor em obras Literárias, Científicas e Artísticas, firmada em Washington em 1946 e promulgada no Brasil pelo Decreto 26.675, de 18 de maio de 1949; (c) Convenção Universal sobre o Direito de Autor, assinada em Genebra, de 06 de setembro de 1952; (d) Convenção sobre Proteção de produtores de Fonogramas contra a Reprodução não Autorizada de seus Fonogramas, também concluída em Genebra, em 29 de outubro de 1971, ratificada pelo Decreto Legislativo nº 59, de 1975, em vigor no Brasil desde 24 de dezembro de 1975, e promulgada pelo Decreto 76.906/1975.
+Esta Corte Superior tem orientação de que, mesmo quando os crimes estão previstos em tratado ou convenção internacional, como no caso dos direitos autorais, na ausência de potencial transnacionalidade da conduta, a competência para a apuração de é da Justiça Estadual.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. TRÁFICO DE ARMA DE FOGO DE USO RESTRITO. INDÍCIO SUFICIENTE DE MERCANCIA E TRANSNACIONALIDADE DA CONDUTA. COMPETÊNCIA DA JUSTIÇA FEDERAL. LESÃO AOS INTERESSES DA UNIÃO. CONFLITO DE COMPETÊNCIA CONHECIDO. DECLARADA A COMPETÊNCIA DO JUÍZO FEDERAL.
+1. Conforme art. 109, V, da Constituição Federal - CF, compete à Justiça Federal o julgamento de crime à distância se preenchido o duplo requisito da existência de nexo de transnacionalidade e de o Brasil ser signatário de tratado ou convenção internacional para a repressão do crime em tese praticado.
+2. O Estado brasileiro é signatário de instrumento internacional (Protocolo contra a Fabricação e o Tráfico Ilícitos de Armas de Fogo, suas Peças e Componentes e Munições - complementando a Convenção das Nações Unidas contra o Crime Organizado Transnacional -, promulgado pelo Decreto n. 5.941, de 26/10/2006), no qual se comprometeu a tipificar a conduta como crime. Precedente: CC 126.235/PR, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 18/11/2016.
+(..)
+4. Nas circunstâncias em que o conflito de competência foi apresentado a esta Corte Superior, com razão o Juízo Estadual suscitado, na medida em que os autos carreiam indícios suficientes da transnacionalidade delitiva.
+5. Conflito conhecido para declarar competente o Juízo Federal da 2ª Vara de Rio Grande - SJ/RS, o suscitante.
+(CC n. 164.168/RS, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 24/4/2019, DJe de 7/5/2019, grifamos).
+No caso, observa-se que, até o momento, inexiste qualquer elemento que indique a transnacionalidade do delito.
+Ante o exposto, conheço do conflito para declarar competente o Juízo da 4ª Vara Criminal da Comarca de Mossoró/RN, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
