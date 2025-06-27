@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pelo INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA MUNICIPAL contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, "a", da Constituição Federal.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..  III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+Aliás, a Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP, decidiu pela necessidade de a parte agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial deu-se com base na aplicação da Súmula 83 do STJ, mediante indicações dos julgamentos proferidos no REsp 1.105.442/RJ (Tema 135 do STJ, DJe de 22/2/2011), AgInt no A Esp 1.460.280/SP (DJe de 11/10/2019) e no AgInt no REsp 1.716.221/SC (DJe de 5/11/2018).
+Entretanto, a parte agravante deixou de impugnar específica e suficientemente esse fundamento.
+Em relação ao primeiro precedente citado na decisão agravada, o ora agravante argumentou que a cobrança não advém de multa administrativa, razão pela qual o posicionamento ali adotado não seria aplicável à espécie. No tocante aos demais julgados, apontou o REsp 1.117.903/RS, publicado em 1º/2/2010, e o REsp 1.113.403/RJ, repetitivo publicado em 15/9/2009, relativos exclusivamente aos serviços de fornecimento de água e coleta de esgoto, os dois anteriores àqueles mencionados no decisum hostilizado.
+Inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos aludidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Nesse sentido:
+DIREITO CIVIL. PLANO DE SAÚDE. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA INDEVIDA DE COBERTURA. CIRURGIA DE EMERGÊNCIA. EXIGÊNCIA DE CHEQUE CAUÇÃO. DANOS MORAIS. CABIMENTO. SÚMULA 83/STJ. AFASTAMENTO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "Na hipótese em que se pretende impugnar a incidência da Súmula nº 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer" (AgInt no AREsp 885.406/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/03/2018, DJe de 03/04/2018).
+2. Na hipótese, a fim de afastar o referido óbice, a agravante colacionou ementas de acórdãos anteriores aos apresentados na decisão agravada, sem sequer identificar sua origem ou proceder ao seu cotejo analítico, não se tendo desincumbido de demonstrar, portanto, a existência de orientação jurisprudencial divergente nesta Corte Superior acerca da matéria, não merecendo reparo a decisão agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.777.392/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 2/5/2023.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 83 DO STJ. PRECEDENTES ANTERIORES AO AGINT NO RESP N. 1.672.973/RS E AO RESP N. 764.255/RS. AGRAVO IMPROVIDO.
+1. Tendo em vista que a decisão que inadmitiu o recurso especial se fundamentou na Súmula n. 83/STJ, caberia ao agravante demonstrar a distinção em relação ao caso tratado nos autos ou indicar julgados deste Tribunal supervenientes ou contemporâneos aos precedentes utilizados na decisão agravada, a fim de demonstrar que a orientação desta Corte é diversa da adotada pelo Colegiado local ou que a matéria não se encontra pacificada.
+2. O insurgente, no entanto, limitou-se a apresentar precedentes anteriores ao AgInt no REsp n. 1.672.973/RS e ao REsp n. 764.255/RS, invocados pelo Tribunal de origem como fundamento para inadmitir o recurso especial.
+3. De todo modo, ressalta-se que o entendimento desta Corte se firmou no sentido da decisão recorrida, inclusive no caso específico do RE n. 870.947, uma vez que, sem que a decisão acobertada pela coisa julgada seja desconstituída, não é cabível ao juízo, no cumprimento de sentença, alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.889.807/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/5/2022, DJe de 31/5/2022.).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
