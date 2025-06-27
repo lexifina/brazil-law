@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por DUCOCO ALIMENTOS S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 30/8/2024.
+Concluso ao gabinete em: 19/12/2024.
+Ação: execução de título extrajudicial, ajuizada por ITAÚ UNIBANCO S/A em face de DUCOCO ALIMENTOS S/A e NELSON NOGUEIRA PINHEIRO.
+Decisão interlocutória: deferiu pedido de penhora sobre recebíveis oriundos da empresa COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO - PÃO DE AÇÚCAR.
+Acórdão: negou provimento ao agravo de instrumento interposto por DUCOCO ALIMENTOS S/A e NELSON NOGUEIRA PINHEIRO, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Decisão de deferimento do pedido de penhora de recebíveis. Inconformismo da executada. Alegação de necessidade de fixação de percentual a ser penhorado e nomeação de administrador para elaboração de plano de pagamento. Descabimento. Inexistência de provas de que a medida inviabilizará as atividades comerciais da empresa executada. Diligências realizadas para satisfação da dívida infrutíferas. Embora o procedimento executivo deva se pautar pelo princípio da menor onerosidade, realiza-se no interesse do credor. Penhora de recebíveis até o valor do débito que se mostra adequada para o caso concreto. Decisão mantida. Recurso desprovido. (e-STJ fls. 74)
+Recurso especial: alega a existência de dissídio jurisprudencial, bem como a violação aos arts. (i) 805 do CPC, uma vez que a decisão de penhora de recebíveis sem a fixação de um percentual por perito nomeado viola o princípio da menor onerosidade ao devedor, pois causa danos financeiros irrecuperáveis e inviabiliza suas atividades empresariais (fls. 10-11); (ii) 866, §§1º, 2º e 3º, do CPC, tendo em vista que o juiz deve fixar penhora de percentual sobre o faturamento da empresa que não inviabilize o exercício da atividade empresarial e nomear um administrador-depositário para prestar contas mensalmente, o que não foi observado no acórdão estadual (fls. 12-13); e (iii) Tema 769/STJ, porquanto a decisão violou a tese firmada pelo STJ em recurso repetitivo, que exige a fixação de percentual que não inviabilize as atividades empresariais e a nomeação de administrador para elaboração de plano de pagamento (fls. 15-16). Requer, em síntese, a reforma do decisum.
+Juízo prévio de admissibilidade: o TJ/SP admitiu o recurso especial, atribuindo-lhe efeito suspensivo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+De início, é imperioso destacar a inaplicabilidade do Tema 769/STJ, julgado pela Primeira Seção desta Corte e que discute os processos regidos pela Lei n. 6.830/80 para a cobrança judicial de Dívida Ativa pela Fazenda Pública.
+Quanto à suposta violação aos demais artigos indicados como violados pelo recorrente, tem-se que o acórdão estadual confirmou a decisão de primeiro grau que determinou a penhora de recebíveis (crédito futuro e específico) - e não a penhora direta sobre o faturamento mensal da empresa, conforme se depreende do seguinte trecho:
+"Após a realização de pesquisas online infrutíferas para encontrar bens capazes de satisfazer o débito (Sisbajud, renajud e infojud), o exequente requereu o bloqueio de eventuais valores a serem pagos para a executada Ducoco pela empresa Companhia Brasileira de Distribuição (Pão de Açúcar).
+O Juízo de Primeiro Grau deferiu o pedido nos seguintes termos:
+"Em atendimento ao princípio da economia e eficiente do processo, defiro o pedido, a fim de que seja alcançada a satisfação da execução. Cópia desta decisão servirá de ofício, a ser encaminhado pelo exequente, determinando-se que a empresa COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO, PÃO DEAÇÚCAR, providencie o bloqueio de eventuais valores a serem pagos para a executada DUCOCOCNPJ 63.460.299/0001-87, ou outras empresas do grupo, mediante depósito em conta-judicial, à disposição deste juízo, até o limite de R$ 11.092.889,28." (e-STJ fl. 75). (grifou-se)
+No ponto, inclusive, o Tribunal de segundo grau asseverou que "inexistem provas nos autos de que a medida inviabilizará as atividades comerciais da empresa executada, o que afasta a necessidade fixação de percentual a ser penhorado e nomeação de administrador para elaboração de plano de pagamento" (e-STJ fl. 76) (grifou-se).
+Em sentido idêntico, nesta Corte, confira-se: "Penhora de crédito que pode recair sobre crédito futuro, desde que devidamente especificado na decisão que defere a penhora e na intimação a que se refere o art. 855, I, do CPC, com a indicação, ao menos, da relação contratual no bojo da qual surgirão os créditos penhorados.  ..  7. Impossibilidade de reexame de fatos e de prova. Súmula 7/STJ" (REsp n. 1.964.457/RJ, Terceira Turma, DJe 11/5/2022).
+Destarte, alterar o decidido no acórdão impugnado, no que tange à inexistência de prejuízo às atividades econômicas da parte recorrente, exige o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que é vedado em recurso especial em razão do óbice da Súmula 7/STJ.
+- Da divergência jurisprudencial
+A parte não apresentou adequadamente o dissídio jurisprudencial, devido à ausência de cotejo analítico entre os julgados, sendo certo que para a demonstração da divergência não basta apenas a transcrição de ementas. A propósito, confira-se: AgInt nos EDcl no REsp n. 1.978.728/SP, Terceira Turma, DJe 5/10/2022 e AgInt no REsp n. 1.972.586/PA, QuartaTurma, DJe 25/8/2022.
+Desse modo, não deve ser conhecido o recurso especial, uma vez que a falta de cotejo analítico, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Além disso, a incidência da Súmula 7/STJ acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, Terceira Turma, DJe 13/03/2017 e AgInt no AREsp 1215736/SP, Quarta Turma, DJe 15/10/2018.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários sucumbenciais, uma vez que não foram arbitrados em desfavor do recorrente pelas instâncias ordinárias.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Execução de título extrajudicial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Recurso especial não conhecido.
