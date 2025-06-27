@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de Jundiaí - SJ/SP e o Juízo da 3ª Vara do Trabalho de Jundiaí/SP, em ação em que se postula a realização de perícia judicial para verificação do exercício do trabalho em condições insalubres, bem como a retificação do PPP.
+O Juízo do Trabalho declinou da competência sob o fundamento de que "o pedido de retificação do PPP tem por finalidade ajuizamento de ação para percepção de benefício previdenciário (aposentadoria)" e que "a prova será utilizada em ação previdenciária, de competência da Justiça Federal" (e-STJ fl. 241).
+O Magistrado Federal, por sua vez, suscitou conflito com base nos seguintes fundamentos (e-STJ fls. 292/293):
+A pretensão do TRABALHADOR posta em face da EMPRESA não é de simples exibição de documento, mas, isto sim, de retificação de PPP em relação ao qual discorda das informações nele contidas, .
+Como cediço, o fornecimento/retificação pela empresa do Perfil Profissiográfico do empregado é obrigação oriunda da relação de emprego, ainda que tenha implicações previdenciárias.
+Nessa esteira, a produção da respectiva prova, ainda que para posterior uso em ação previdenciária, é da competência da Justiça Trabalhista.
+E o artigo 114 da Constituição Federal prevê ser competência da Justiça do Trabalho processar e julgar (I) as ações oriundas da relação de trabalho.
+Por seu lado, à Justiça Federal, conforme artigo 109 da mesma Constituição compete as ações que em a União e suas autarquias forem partes.
+No caso, se trata de relação entre trabalhador e empresa particular.
+O interesse do órgão previdenciário é apenas indireto e subsequente, como em todas as questões relativas a vínculos empregatícios.
+Desse modo, não há falar em competência da Justiça Federal.
+O Ministério Público Federal opinou pela competência do Juízo da 3ª Vara do Trabalho de Jundiaí/SP (e-STJ fls. 303/306).
+Passo a decidir.
+Como é cediço, "a competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal, é fixada, em regra, em razão da pessoa (competência ratione personae), levando-se em conta não a natureza da lide, mas, sim, a identidade das partes na relação processual" (CC 105.196/RJ, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção, DJe de 22/02/2010).
+Na espécie, colhe-se da exordial que o autor promoveu reclamação trabalhista contra sua ex-empresa, postulando a retificação de seu Perfil Profissiográfico Previdenciário. Cabe acentuar que não indicou, no polo passivo da demanda, nenhum ente público que atraísse a competência da Justiça Federal.
+A orientação emanada da Súmula 150 do STJ, é que "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+E ainda que houvesse indicação de qualquer ente público de jurisdição federal na peça exordial - o que, repita-se, não ocorreu -, sua exclusão não seria passível de revisão por juízo diverso, como dispõe a Súmula 254 do STJ: a decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual.
+Pois bem, como já relatado, a demanda foi proposta em desfavor da ex-empregadora para produção de prova técnica para a retificação do PPP - Perfil Profissiográfico Previdenciário.
+Assim, ausente qualquer pretensão autoral dirigida ao INSS, a mera menção de que o documento postulado (PPP) servirá para instruir pedido administrativo de aposentadoria não atrai, por si só, o interesse da Justiça Federal, como já reconhecido pelo Juízo suscitante (e-STJ fls. 292/293).
+De igual modo, não se evidencia a existência de ação com pedidos diversos, os quais atrairiam competências distintas. Ao contrário, o único pedido expresso na peça de abertura refere-se ao fornecimento do referido PPP, obrigação acessória do extinto contrato de trabalho. Devem os autos, portanto, ser processados no Juízo Laboral, em que primeiramente foi promovida a reclamação trabalhista.
+A propósito, mutatis mutandis:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E TRABALHISTA. EXECUÇÃO FISCAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA DO ART. 109, I, DA CARTA MAGNA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1.  .. .
+4. A causa in foco submete-se à regra geral de competência da Justiça Federal, insculpida no art. 109, I, da Carta Magna de 1988, segundo a qual "Aos juízes federais compete processar e julgar: as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de rés, assistentes ou oponentes, exceto as de falência, as de acidente de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho (Precedentes: CC 64565, Rel. Ministro Luiz Fux, DJ 04.08.08; CC 093878, Rel. Min. Castro Meira, DJ 17.3.2008; CC 55540/SP, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, DJ 26/06/2006; CC 63.643/GO, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJ 12/02/2007; CC 57.568/GO, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, DJ 26/06/2006; CC 46.889/SP, Rel. Ministro JOSÉ DELGADO, PRIMEIRA SEÇÃO, DJ 28/03/2005; CC 57.095/SP, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, DJ 26/06/2006)
+5. A competência da Justiça Federal é definida em razão das pessoas que figuram nos pólos da demanda (ratione personae), à luz do art. 109, I, da Carta Magna. Dessarte, restando a execução fiscal ajuizada pelo Instituto do Nacional do Seguro Social - INSS, entidade autárquica federal, e excluídas as hipóteses da competência da Justiça Laboral previstas no art. 114 da CF/88, subjaz a competência da Justiça Federal para processar e julgar o feito principal.
+6. Conflito negativo de competência conhecido para declarar a competência do JUÍZO DA 3ª VARA FEDERAL DE SANTO ANDRÉ.
+(CC 108.446/SP, Rel. Ministro LUIZ FUX, Primeira Seção, julgado em 24/02/2010, DJe 10/03/2010) (Grifos acrescidos).
+CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO. AÇÃO DE INDENIZAÇÃO.DANOS MORAIS E PATRIMONIAIS. ACIDENTE DE TRABALHO. EMENDA CONSTITUCIONAL Nº 45/2004. ART. 114, INCISO VI, DA CONSTITUIÇÃO FEDERAL.
+1. O art. 114, VI, da CF/88, com redação conferida pela EC nº 45/04, fixa na Justiça do Trabalho a competência para processar e julgar "as ações de indenização por dano moral ou patrimonial, decorrentes da relação de trabalho".
+2. A Suprema Corte, ao julgar a ADIn-MC nº 3.395-DF, excluiu da expressão "relação de trabalho" as ações decorrentes do regime estatutário. Assim, a competência para julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho quando envolverem servidor e ente público será da Justiça comum, estadual ou Federal, conforme o caso.
+3. O art. 109, I, da CF/88, ao excetuar da competência federal as causas de acidente de trabalho, abarcou tão-somente as lides estritamente acidentárias, movidas pelo segurado contra o INSS, para pleitear o auxílio-acidente a que alude o art. 86 da Lei nº 8.213/91. Não estão abrangidas pela exceção as ações de indenização por acidente de trabalho movidas pelo empregado contra o empregador.
+4. O art. 114, VI, da CF/88 aplica-se tão-somente aos casos de indenização por danos morais ou patrimoniais decorrentes de típica relação de trabalho, mas não às lides que envolvem o regime estatutário.
+5. Conflito de competência conhecido para declarar competente o Juízo de Direito da 4ª Vara da Fazenda Pública de Curitiba/PR, o suscitado.
+(CC 67.908/PR, Rel. Ministro CASTRO MEIRA, Primeira Seção, julgado em 14/02/2007, DJ 05/03/2007, p. 249) (Grifos acrescidos).
+Ante o exposto, com base no art. 34, XXII, do RISTJ , CONHEÇO do presente conflito para DECLARAR COMPETENTE para a causa o Juízo da 3ª Vara do Trabalho de Jundiaí/SP.
+Publique-se. Intimem-se.
+EMENTA
