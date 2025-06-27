@@ -1,0 +1,30 @@
+DECISÃO
+União e IPHAN agravaram da decisão que inadmitiu seus recursos especiais fundados no art. 105, III, "a", da Constituição Federal.
+O Tribunal Regional Federal da 5ª Região julgou ação civil pública que o Ministério Público Federal propôs para proteger o patrimônio histórico e cultural de Laranjeiras/SE. A demanda versava sobre ocupação irregular dos morros do Bom Jesus e do Bonfim, localizados em área tombada e entorno, com degradação ambiental e risco à preservação do conjunto arquitetônico, urbanístico e paisagístico da cidade.
+O acórdão recorrido tem a seguinte ementa:
+CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OCUPAÇÃO IRREGULAR DE ÁREA TOMBADA. DANO AMBIEN- TAL. COMPROVAÇÃO. LEGITIMIDADE DA UNIÃO. DEVER DE FISCALIZAÇÃO. OMISSÃO. MEDIDAS EM ÂMBITO ADMINISTRATIVO. INICIATIVA DO MINISTÉRIO PÚBLICO FEDERAL. INEFICÁCIA. INTERVENÇÃO JUDICIAL. EXCEPCIONALIDADE. RESPONSABILIDADE SOLIDÁRIA. APELAÇÃO DO MUNICÍPIO PARCIALMENTE PROVIDA. APELOS DOS DEMAIS RÉUS DESPROVIDOS. (e-STJ fl. 1881)
+Os embargos de declaração opostos contra a decisão foram rejeitados e, na sequência, os entes públicos interpuseram recursos especiais.
+A União alega violação dos artigos 489, §1º, IV, e 1.022 do CPC, bem como contrariedade ao §1º do artigo 19 do Decreto-Lei nº 25/37, sob o argumento de ilegitimidade passiva para figurar na demanda.
+O IPHAN afirma ofensa aos artigos 62 a 65 e 70, §1º, da Lei nº 9.605/1998, e ao art. 20 do Decreto-Lei nº 25/37, argumentando que as construções irregulares preexistiam ao tombamento e que sua competência se limita às áreas efetivamente acauteladas.
+Parecer do MPF pelo não provimento dos agravos em recurso especial (e-STJ fls. 2251/2273).
+Passo a decidir.
+Quanto ao recurso especial da União, constata-se que apelo não merece ser conhecido em relação à suposta violação do art. 1.022, II, do CPC/2015.
+Esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que Tribunal de origem não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões e qual sua relevância específica para o caso.
+Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 2107963/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 14/09/2022; AgInt no AREsp 2053264/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe 01/09/2022; AgInt no REsp 1987496/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 01/09/2022; EDcl nos EDcl no AgInt no AREsp 1574705/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1718316/RS, Relator Ministro Og Fernandes; Segunda Turma, DJe 24/11/2020.
+No mérito, a alegação principal de ilegitimidade passiva da União esbarra na Súmula 83/STJ, porque o acórdão recorrido segue a jurisprudência consolidada desta Corte.
+O STJ reconhece a responsabilidade subsidiária da União nas obrigações do IPHAN relacionadas à proteção do patrimônio histórico nacional: "A União é responsável subsidiária pelas obrigações do IPHAN, atraindo sua legitimidade passiva nas demandas em que se busca a proteção de patrimônio histórico nacional" (AgInt no REsp n. 1.976.807/MA, Primeira Turma, Rel. Min. Paulo Sérgio Domingues).
+Nesse sentido: AgInt no REsp n. 1.630.754/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/8/2022, DJe de 30/8/2022; REsp n. 1.549.065/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/12/2018, DJe de 4/2/2019.
+Contudo, merece acolhimento o pedido subsidiário da União, para reconhecer que sua responsabilidade é subsidiária (conforme a orientação acima citada), não solidária, como decidiu o acórdão recorrido.
+No que se refere ao recurso especial do IPHAN, o recorrente afirma ofensa aos artigos 62 a 65 e 70, §1º, da Lei nº 9.605/1998, sem particularizar como esses dispositivos específicos teriam sido violados no caso.
+A jurisprudência do STJ reconhece como deficiência de fundamentação a indicação genérica de violação legal sem a devida particularização dos dispositivos contrariados.
+Conforme corretamente destaca o MPF, o STJ já decidiu que "a indicação, de forma genérica, da existência de violação de lei federal em razão do uso da expressão "e seguintes", sem particularização dos dispositivos e incisos que teriam sido especificamente contrariados, revela deficiência da fundamentação recursal e atrai, por consequência, a incidência da Súmula n. 284 do STF" (AgInt no AREsp n. 2.088.796/MG, Rel. Ministro João Otávio de Noronha).
+Além do mais, as alegações do IPHAN sobre construções irregulares preexistentes ao tombamento e fora de sua competência demandam reexame do conjunto fático-probatório, vedado pela Súmula 7/STJ.
+O Tribunal de origem examinou as provas dos autos e concluiu pela conduta omissiva do IPHAN.
+Conforme consignado no acórdão, embora tenha havido reuniões, vistorias e estudos, "restou visível a omissão durante anos e anos, até porque nunca comprovaram a utilização de medidas concretas para que essa ocupação desordenada fosse cessada".
+No caso, as instâncias ordinárias analisaram a situação fática e, ao menos num exame em tese, aplicaram o direito adequadamente, buscando solução que contemple tanto a preservação do patrimônio cultural quanto os direitos sociais das famílias afetadas.
+A revisão dessa decisão exigiria rever também todas as provas que foram levadas em consideração para reconhecer a omissão do IPHAN, providência incompatível nesta instância especial, em razão do já referido enunciado sumular.
+Ante o exposto, CONHEÇO DOS AGRAVAOS para NÃO CONHECER do recurso especial do IPHAN e para CONHECER EM PARTE do recurso especial da União e, nessa extensão, DAR-LHE PARCIAL PROVIMENTO, apenas para reconhecer que sua responsabilidade é subsidiária, mantendo-se os demais termos da condenação.
+Publique-se. Intimem-se.
+EMENTA
