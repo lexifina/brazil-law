@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL contra decisão de inadmissão de recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+VICE PRESIDÊNCIA. ACÓRDÃO ANULADO PELO STJ. EMBARGOS DE DECLARAÇÃO. CONSTITUCIONAL. TRIBUTÁRIO. PROCESSUAL CIVIL. BASE DE CÁLCULO. CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDÊNCIA SOBRE O TERÇO CONSTITUCIONAL DE FÉRIAS. OMISSÃO. SOBRESTAMENTO. SUSPENSÃO NACIONAL. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Por decisão proferida em 26 de junho de 2023, o e. Ministro relator André Mendonça decretou a suspensão nacional dos feitos judiciais e administrativos pendentes, individuais ou coletivos, que versem sobre a questão presente no Tema n.º 985 da repercussão geral, nos seguintes termos:"30. Sendo assim, por prudência judicial e ex officio, julgo oportuno determinar a suspensão de tramitação de todos os processos potencialmente atingidos pela possível modulação de efeitos a ser operada nos embargos de declaração pendentes de julgamento no Plenário presencial."
+2. Embargos de declaração acolhidos em parte para, sanando a apontada omissão, reconhecer a necessidade de sobrestamento do presente feito.
+No especial obstaculizado, a Fazenda Nacional apontou violação dos arts. 313, V, "a"; 927, §§ 3º e 4º; 1.030, III e 1.040, III, do CPC, além dos arts. 22, I e II, e 28, I e § 9º da Lei n. 8.212/1991, do art. 29, §3º, da Lei n. 8.213/1991 e do art. 111, I, do CTN.
+No mérito, defende, em suma, a necessidade de sobrestamento do feito até que sejam julgados os novos embargos de declaração opostos no RE 1.072.485/SC (Tema 985 de Repercussão Geral), uma vez que o acórdão que julgou os aclaratórios anteriores ainda não transitou em julgado, de modo que os critérios da modulação ainda podem ser alterados pela Corte Suprema.
+Sustenta que não era pacífica a natureza infraconstitucional da controvérsia e que o repetitivo do STJ não pode dar ensejo à modulação de efeitos no STF, na situação de a Corte Constitucional estava julgando o mérito da controvérsia em vários processos individuais.
+Aduz que, subsidiariamente, caso não se entenda pelo sobrestamento do feito, é de rigor a reforma do acórdão para julgar integralmente improcedente o pedido relativo ao reconhecimento da não incidência de contribuição previdenciária sobre o terço constitucional de férias.
+Contrarrazões apresentadas às e-STJ fls. 986/1001.
+Recurso especial inadmitido, com interposição de agravo (e-STJ fls. 1.063/1.083).
+Foi apresentada contraminuta às e-STJ fls. 1.112/1.119.
+Passo a decidir.
+De início, destaco que a Fazenda Nacional não tem interesse recursal quanto ao pedido de suspensão do processo, pois a Corte de origem, no acórdão ora recorrido, "reconheceu a necessidade de sobrestamento do feito", motivo por que o recurso especial não merece ser conhecido no ponto.
+Ademais, quanto ao mérito, a questão é evidentemente constitucional, tendo em vista a existência de repercussão geral acerca da temática referente à incidência da contribuição previdenciária sobre o terço constitucional de férias , não sendo possível seu exame por esta Corte Superior, inclusive no tocante ao termo inicial de aplicação da modulação, cuja fixação cabe exclusivamente ao STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
