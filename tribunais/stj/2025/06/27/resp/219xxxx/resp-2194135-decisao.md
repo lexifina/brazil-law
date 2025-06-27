@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial interposto por CICERO JOSE DE FRANCA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, proferido na Apelação Criminal n. 082897-76.2008.8.02.0001, assim ementado (fl. 328):
+PENAL. PROCESSO PENAL. APELAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA BASE EM RAZÃO DA NATUREZA DA DROGA. DEFERIMENTO. PLEITO DE INCIDÊNCIA DA SÚMULA 231 DO STJ. PENA- BASE ABAIXO DO MÍNIMO LEGAL NA SEGUNDA FASE DA DOSIMETRIA. COM RAZÃO. REDIMENSIONAMENTO DA PENA. ERRO MATERIAL NO DISPOSITIVO DA SENTENÇA. PROCEDÊNCIA. RECURSO PARCIALMENTE PROVIDO. UNÂNIME.
+I- No caso em tela, foi apreendido maconha e crack, droga altamente nociva que justifica a exasperação da pena-base em patamar acima do mínimo previsto, ao analisarmos com a preponderância da natureza da droga na primeira fase da dosimetria estabelecida pelo art. 42 da lei 11.343/06, o que justifica a exasperação da pena-base. II- A pena não pode ser fixada aquém do mínimo previsto no tipo, na segunda fase da dosimetria, conforme a orientação jurisprudencial amplamente consolidada no nosso ordenamento jurídico presente na súmula nº 231 do Superior Tribunal de Justiça.
+III - Redimensionamento da pena, ante as alterações na primeira e segunda fase da dosimetria.
+IV - Erro material no dispositivo da sentença, devidamente sanado.
+V- Recurso provido. Unânime
+Consta dos autos que o recorrente foi condenado à pena de 08 (oito) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, mais 450 (quatrocentos e cinquenta) dias-multas, pela prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006 e arts. 14 e 16, parágrafo único, IV, ambos da Lei n. 10.826/2003.
+O Tribunal de origem deu provimento ao apelo da acusação a fim de fixar a pena definitiva em 10 (dez) anos de reclusão e 500 (quinhentos) dias-multa.
+Nas razões do recurso especial, a parte alega violação do art. 59 do CP c/c o art. 42 da Lei de Drogas, em razão da exasperação da pena-base com fundamento na natureza abstratamente considerada da droga (crack).
+Sustenta, ainda, violação do art. 65, caput, do CP, pleiteando a superação da Súmula 231 do STJ, ao argumento de que as circunstâncias elencadas no referido dispositivo sempre atenuam a pena.
+Contrarrazões às fls. 357/362.
+Decisão de admissibilidade do recurso (fls. 364/367).
+Parecer do Ministério Público Federal parcial provimento do recurso, para que a natureza e quantidade das drogas sejam afastadas, sem alteração da pena final (fls. 380-385).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais, passo ao exame do recurso especial.
+No tocante à primeira fase da dosimetria, a Corte local assim consignou (fl. 331; grifamos):
+O apelante requer, inicialmente, que a natureza da droga apreendida seja utilizada para exasperação da pena-base.
+No caso em tela, foi apreendido maconha e crack, droga altamente nociva que justifica a exasperação da pena-base em patamar acima do mínimo previsto, ao analisarmos com a preponderância da natureza da droga na primeira fase da dosimetria estabelecida pelo art. 42 da lei 11.343/06.
+Importante ressaltar que o magistrado, dentro dos limites mínimo e máximo da pena prevista em abstrato deve fixar a pena-base, movido pelo seu livre convencimento, observando primordialmente os critérios da proporcionalidade e razoabilidade, inclusive, a fixação de um critério matemático é totalmente rechaçado pela jurisprudência majoritária. Destarte, verifica-se que o magistrado a quo não adotou o critério para exasperar a pena base, com base no art. 42 da lei 11.343/06, já que devidamente preenchido.
+Por isso, exaspero a pena-base para 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa.
+Como se vê, a instância ordinária sopesou negativamente a quantidade e a natureza da droga apreendida para exasperar a pena-base na primeira fase da dosimetria.
+No entanto, a quantidade de entorpecentes apreendidos - 0,5g de crack e aproximadamente 14g de maconha (fl. 281)- não pode ser considerada suficientemente relevante a ponto de fixar a pena-base acima do mínimo legal, pois não demonstra, por si só, maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006.
+A pena-base, desse modo, deve ser reduzida ao mínimo legal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE COISA JULGADA MATERIAL. LITISPENDÊNCIA AFASTADA NA ORIGEM. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE PELA VIA DO WRIT. IMPOSSIBILIDADE DE DISCUSSÃO DA MATÉRIA EM REVISÃO CRIMINAL. ROL TAXATIVO. APLICAÇÃO DA MINORANTE. REITERAÇÃO DE PEDIDO JÁ ANALISADO. DOSIMETRIA. QUANTIDADE DA DROGA. CONSEQUÊNCIAS DO CRIME. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+ ..
+6. Não obstante a natureza da droga (maconha e cocaína), a quantidade não se mostra relevante - 514,65g de maconha e 102,43g de cocaína - somada à ausência de circunstâncias adicionais desfavoráveis, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, entre outras, não enseja a exasperação da pena-base.
+7. O impacto deletério que a cocaína pode gerar em uma comarca pequena não se revela válido para o incremento operado na pena-base do agravante, devendo, portanto, ser afastado.
+8. Nesses termos, o habeas corpus foi concedido para reduzir a pena final dos crimes de tráfico e associação para o tráfico para 8 anos de reclusão em regime fechado e pagamento de 1.200 dias-multa.
+9. Agravo regimental improvido.
+(AgRg no HC n. 799.748/AC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024; grifamos)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. OMISSÃO. VÍCIO CONSTATADO. TRÁFICO DE DROGAS DOSIMETRIA. PENA BASE. FUNDAMENTAÇÃO INIDÔNEA. EMBARGOS ACOLHIDOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+2. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+3. O Juízo sentenciante, atado à discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Tratando-se de crime previsto na Lei de Drogas, deve considerar, ainda, de forma preponderante, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+4. Nos autos em exame, apesar de a natureza da substância constituir elemento preponderante a ser considerado na dosimetria da reprimenda, foi apreendida quantidade não elevada de drogas, montante inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+5. Embargos acolhidos para suprir a omissão, e tornar a reprimenda imposta ao réu definitiva em 6 anos, 6 meses e 22 dias de reclusão e 657 dias-multa.
+(EDcl no HC n. 835.645/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023 - Quantidade de droga apreendida: 241 g de cocaína - grifamos)
+Já no tocante à possibilidade de redução da pena para aquém do mínimo legal, com o consequente afastamento da Súmula n. 231/STJ, o Tribunal de origem assim consignou (fls. 331/332):
+Por conseguinte, requer o apelante o reconhecimento da Súmula 231 do STJ na segunda fase da dosimetria da pena de todos os crimes.
+Verifica-se que a pena intermediária fora fixada abaixo do mínimo legal equivocadamente, uma vez que a pena não pode ser fixada aquém do mínimo previsto no tipo, na segunda fase da dosimetria, conforme a orientação jurisprudencial amplamente consolidada no nosso ordenamento jurídico presente na súmula nº 231 do Superior Tribunal de Justiça, aplicada atualmente no nosso país.
+Momento em que reconheço a aplicação da súmula nº 231 do STJ na segunda fase da dosimetria da pena dos crimes de tráfico de drogas, porte ilegal de armas de fogo e munições de uso restrito e permitido, considerando a atenuante da confissão espontânea, porém mantendo as penas- fixadas no mínimo legal.
+Assim, com a aplicação da súmula nº 231 na segunda fase da dosimetria de ambos os crimes, passo a realizar novas dosimetrias.
+Nesse contexto, extrai-se a consonância entre o acórdão atacado com a higidez normativa da Súmula n. 231/STJ, não superada (overruling) pela Terceira Seção desta Corte Superior quando do julgamento - sob a sistemática dos recursos repetitivos - do REsp 1.117.068/PR (Tema n. 190/STJ, Rel. Ministra Laurita Vaz, julgado em 26/10/2011, DJe de 08/06/2012), encampado pelo RE 597.270 (Tema 158/STF), ambos na direção de que:
+O critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal.
+Destarte, em casuística análoga, esta Corte Superior preconizou que,
+malgrado reconhecida a incidência das atenuantes da menoridade relativa e da confissão espontânea, tendo a pena-base sido fixada no piso legal, descabe falar em ilegalidade no cálculo dosimétrico, pois, a teor do entendimento da Súmula 231/STJ, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal" (AgRg no HC n. 883.325/ES, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe 18/4/2024).
+Com igual perspectiva:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL. CONFISSÃO. CIRCUNSTÂNCIA ATENUANTE. IMPOSSIBILIDADE DE REDUÇÃO DA PENA ABAIXO AO PREVISTO NO PRECEITO SECUNDÁRIO DO TIPO PENAL VIOLADO. SÚMULA N. 231/STJ. SUPERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DO ART. 33, §4º, DA LEI Nº 11.3434/06 NO PATAMAR DE 1/6. "MULA". FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido encontra-se alinhado à orientação da Súmula n. 231/STJ, no sentido de que a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.
+2. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1117068/PR, Rel. Ministra LAURITA VAZ, julgado em 26/10/2011, DJe 08/06/2012), sob o rito do art. 543-C, c/c o 3º do CPP, confirmou o entendimento do enunciado da Súmula 231/STJ.
+3. Ademais, embora a Defesa sustente o overruling da Súmula n. 231 desta Corte e o julgamento da questão tenha sido afetado à Terceira Seção, fato é que, atualmente, o referido enunciado sumular continua sendo plenamente aplicado por este Sodalício (AgRg no AREsp n. 2.226.158/SC, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023; AgRg no AREsp n. 2.236.332/TO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023; AgRg no HC n. 806.302/RJ, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023 ; AgRg no HC n. 794.315/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023; AgRg no AREsp n. 2.243.342/PA, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023; AgRg nos EDcl no REsp n. 2.035.019/MG, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 25/4/2023, DJe de 5/ 5/2023; AgRg no AREsp n. 2.223.080/PA, Relator Ministro JESUÍNO RISSATO, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 25/4/2023, DJe de 2/5/2023, v.g.) (AgRg no HC n. 828.216/GO, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.576.145/SP, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/5/2024, DJe 14/5/2024, grifamos).
+Fixadas  essas  premissas,  passo  a  redimensionar  as  penas  do  recorrente no delito de tráfico de drogas:
+Na  primeira  fase,  fixo  a  pena-base  no  mínimo  legal:  05  (cinco)  anos  de  reclusão e 500 (quinhentos) dias-multa.
+Na  segunda  etapa,  embora reconhecida a atenuante da confissão espontânea, com base na Súmula n. 231 do STJ a pena intermediária permanece inalterada.
+Na  terceira  fase,  ausentes  causas  de  aumento  ou de diminuição  de  pena,  fica  concretizada  a  sanção  definitiva  do delito de tráfico de drogas em  05  (cinco)  anos  de  reclusão e 500 (quinhentos) dias-multa.
+Por fim, em razão do concurso material, a pena definitiva do réu fica no patamar de 10 (dez) anos de reclusão e 500 (quinhentos) dias-multa, a ser cumprida inicialmente em regime fechado.
+Ante  o  exposto,  dou  parcial  provimento  ao  recurso  especial  a  fim  de  afastar a exasperação da pena-base do crime de tráfico de drogas, sem efeitos na pena final.
+Publique-se.  Intimem-se.
+EMENTA
