@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAGNANIMO COMERCIAL IMPORTAÇÃO E EXPORTAÇÃO LTDA contra decisão singular de minha lavra na qual neguei provimento ao agravo em recurso especial em virtude da falta de prequestionamento quanto ao tema relativo ao efeito ex nunc da decretação da falência e do óbice da Súmula 7 do STJ (fls. 6.591-6.594).
+Nas razões do seu recurso, a parte embargante alega, em síntese, que a decisão embargada foi omissa ao não apreciar a questão da condenação em sucumbência recíproca sob a ótica da possibilidade de reapreciação da base de cálculo utilizada na apuração da verba sucumbencial dos advogados das partes, violando o art. 86 do CPC/2015.
+Alega também que não foi observada a regra do § 2º do artigo 85 do CPC/2015 no cálculo da verba sucumbencial, porquanto os honorários do advogado da embargante, autora da ação, deveria ser calculado sobre o valor da condenação, ao passo que os honorários de sucumbência do advogado das embargadas deveria ser calculado sobre o proveito econômico obtido.
+As impugnações foram apresentadas às fls. 6.605-6.611 e 6.613-6.617.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos:
+Quanto ao mais, segundo a jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame nesta esfera de recurso, por envolver aspectos fáticos e probatórios.
+Incide, sobre o tema, a Súmula 7 do STJ.
+Destaco que nas razões do seu recurso especial a embargante não se insurgiu quanto à base de cálculo dos honorários advocatícios, mas apenas contra a fixação da sucumbência recíproca e ao percentual fixado. Confira-se:
+A Recorrente também insurge-se contra a sua condenação nos ônus de sucumbência, mesmo tendo decaído de parte mínima do pedido. Apesar de ter sido alvo de apelação, a referida condenação imposta na r. sentença foi mantida no v. acórdão recorrido.
+Com a devida venia, a condenação não merece prevalecer, uma vez que a Recorrente obteve êxito nos pedidos principais da ação, consubstanciados na rescisão do contrato por inadimplemento das Recorridas e condenação dessas últimas no pagamento da quantia que deixaram de repassar para a Recorrente, apurada em R$ 817.976,23 (oitocentos e dezessete mil, novecentos e setenta e seis reais e vinte e três centavos).
+O pedido que deixou de ser acolhido na r. sentença limitou-se ao ressarcimento em lucros cessantes, o qual foi rejeitado porque a técnica utilizada pelo perito judicial não foi capaz de apurar essa espécie de dano suportado pela Recorrente.
+No v. acórdão recorrido, o colegiado concluiu não ser ínfimo o decaimento do pedido de lucros cessantes mantendo, por conseguinte, a condenação da Recorrente, fixada na r. sentença, correspondente a 10% (dez por cento) do valor atualizado da condenação.
+Tendo a Recorrente decaído de parte ínfima do pedido, limitado aos lucros cessantes, aplica-se ao caso concreto o disposto no parágrafo único do artigo 86 do CPC/2015, devendo as Recorridas arcarem integralmente com o pagamento dos ônus sucumbenciais.
+Ademais, a condenação da Recorrente em honorários de sucumbência no mesmo patamar fixado para as Recorridas é manifestamente desproporcional e contrário ao disposto no caput do artigo 86 do CPC/2015, que impõe a distribuição dos ônus de sucumbência entre as partes vencedoras na proporção do respectivo êxito obtido.
+Diante do exposto, demonstrada a manifesta contrariedade ao disposto no artigo 86 caput e parágrafo único do CPC/2015, a solução não é outra senão o provimento do presente recurso, de modo a reformar o v. acórdão proferido pela C. 22ª Câmara de Direito Privado do E. TJSP para condenar as Recorridas a arcarem, exclusivamente, com os ônus de sucumbência ou, subsidiariamente, distribuir proporcionalmente a condenação na medida do êxito obtido por cada uma das partes  ..  (fls. 6.509-6.511)
+Como se vê, a pretensão de alteração da base de cálculo da verba honorários configura verdadeira inovação no recurso , o que não se admite.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado. A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita. Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
