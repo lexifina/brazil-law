@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por RICARDO SUARES DE SOUSA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Depreende dos autos que o Juízo da 1ª Vara Federal de Umuarama/PR concedeu liberdade provisória ao recorrente mediante o pagamento de fiança no valor de R$ 60.000,00. No primeiro momento, teve a prisão em flagrante homologada pelo juízo em razão da prática, em tese, do crime descrito no art. 334-A do CP.
+A fim de afastar ou reduzir o valor da fiança, a defesa impetrou habeas corpus no Tribunal de origem que foi parcialmente concedido a fim de reduzir o valor da fiança ao patamar de R$ 45.000,00, indeferindo o pedido de parcelamento da quantia, nos termos da seguinte ementa:
+HABEAS CORPUS. CONTRABANDO. LIBERDADE PROVISÓRIA. FIANÇA. REDUÇÃO. POSSIBILIDADE. PEDIDO DE PARCELAMENTO. INDEFERIMENTO. MONITORAMENTO ELETRÔNICO. ADEQUAÇÃO. MANUTENÇÃO.
+1. O tempo de prisão preventiva sem o recolhimento da fiança arbitrada milita em favor da alegação de hipossuficiência econômica. Precedente desta Turma.
+2. Percebe-se que a prática já instituída por esta Corte em autorizar o parcelamento da fiança tem causado um efeito totalmente reverso e indesejado perante o primeiro grau; os beneficiados têm adotado o costume de pagar apenas a primeira parcela e colocam em situação dificultada os juízes, que não podem mais decretar nova prisão (sob o único fundamento de falta de pagamento) nem considerar quebrada a fiança. A medida ainda sobrecarrega as Secretarias; além disso, passou a estabelecer a crença, sobretudo nas regiões de fronteira, de que seria possível garantir a soltura pagando-se apenas 10% ou 15% dos valores judicialmente arbitrados.
+3. Ordem parcialmente concedida para reduzir o valor da fiança.
+Assim, no presente recurso, alega-se, em síntese, a inexistência de condições financeiras para efetuar o pagamento da quantia arbitrada pelo juízo a título de fiança.
+Requer, em caráter liminar e no mérito, o afastamento da obrigação de pagamento ou, subsidiariamente, a redução do valor arbitrado, com a possibilidade de parcelamento.
+É o relatório.
+Decido.
+A respeito da controvérsia, assim se manifestou o Tribunal local (fl. 192):
+Anoto que os documentos apresentados com a inicial não evidenciam a ausência de capacidade econômica do paciente. Não obstante a existência de comprovação acerca da doença que acomete sua companheira, há a informação da defesa de que o medicamento mais custoso é atualmente fornecido pelo SUS, não havendo a comprovação a respeito da despesa oriunda de demais medicações. Tampouco houve a comprovação de que o paciente é exclusivamente o responsável pelo sustento de sua enteada. Ainda, a renda mensal declarada pelo paciente, levada em consideração para fixação da fiança, corresponde a R$6.000,00 (seis mil reais). Ademais, conforme asseverado no Parecer ( evento 9, PARECER_MPF1) é de se considerar o alto valor da carga de cigarros transportada na ocasião (600.00 mil maços).
+Todavia, com ressalva de meu entendimento pessoal, passo a adotar o posicionamento que vem sendo predominante na Turma de que "o tempo pelo qual perdura o encarceramento do paciente pela falta de recolhimento da fiança produz em favor da alegada insuficiência financeira ao seu pagamento no valor em que arbitrada." (TRF4, HC 5026163-40.2024.4.04.0000, OITAVA TURMA, Relator CARLOS EDUARDO THOMPSON FLORES LENZ, juntado aos autos em 15/08/2024).
+Assim, tendo em vista a apreensão de 600 mil maços de cigarros, a renda mensal de R$ 6.000,00 (seis mil reais) declarada nos autos do inquérito policial e o tempo em que o paciente se encontra custodiado (desde 13/02/25), sem que tenha havido o recolhimento do valor arbitrado, reduzo a fiança de R$ 60.000,00 (sessenta mil reais) para R$ 45.000,00 (quarenta e cinco mil reais), valor que deverá ser suficiente para vinculá-lo ao processo e desestimular a prática delitiva.
+Conforme se observa, tendo o Tribunal de origem concluído pela suficiência financeira do recorrente, com base nos elementos presentes nos autos, a modificação de tal compreensão por esta co lenda Corte superior demandaria necessário revolvimento de fatos e provas, procedimento inviável na estreiteza procedimental do writ.
+No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE ISENÇÃO DE FIANÇA. IMPOSSIBILIDADE. DESCABIMENTO DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Conforme assentado no acórdão proferido pelo Tribunal de Justiça, não restou demonstrada a incapacidade de o réu pagar a fiança, uma vez que não comprovou a alegada hipossuficiência econômica.
+2. "A análise da situação econômica do réu para fins de isenção do pagamento da fiança arbitrada implica em revolvimento de material fático-probatório, inviável na via estreita do habeas corpus" (HC n. 304.324/DF, relator Ministro GURGEL DE FARIA, QUINTA TURMA, DJe de 9/4/2015).
+3. Agravo desprovido.
+(AgRg no HC n. 895.313/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REDUÇÃO DA FIANÇA, LEVANDO EM CONSIDERAÇÃO A SITUAÇÃO FINANCEIRA EVIDENCIADA DOS AUTOS. RAZOABILIDADE E PROPORCIONALIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - No ponto, cumpre consignar que esta Corte se posicionou no sentido de não ser possível a manutenção da custódia cautelar tão somente em razão do não pagamento do valor arbitrado a título de fiança, máxime quando se tratar de réu pobre, ex vi do art. 350 do CPP.
+II - Na hipótese, o Agravante se encontra com a liberdade restringida única e exclusivamente por não possuir condições de adimplir o valor arbitrado, a título de fiança, pelo suposto cometimento dos crimes capitulados nos art. 330 e 334-A, § 1º, I, ambos do Código Penal, no valor de R$ 20.000,00 (vinte mil reais).
+III - Nesse sentido; conquanto não se possa atribuir exatidão acerca da real capacidade econômica do Agravante, para o fim de afastar a aventada vulnerabilidade financeira; o que se tem dos autos, sem descer ao arcabouço probatório, é que o ora Agravante se encontra com a liberdade restringida por não ter pago o valor fixado a título de fiança. Outrossim, não se trata de elidir o caráter coercitivo da fiança, mas, sim, de reconhecer no caso concreto que, a par da incapacidade financeira, o Agravante se encontra com a liberdade de locomoção restringida diante do valor fixado.
+IV - Tenho, pois, que se mostra razoável e proporcional a redução da fiança estipulada para o valor de R$ 10.000,00 (dez mil reais), não merecendo reparos a decisão agravada.
+V - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 822.033/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
