@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATHEUS HENRIQUE LOUREIRO contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta nos autos que o paciente foi preso em flagrante no dia 10 de março de 2025, sendo a prisão posteriormente convertida em preventiva por suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+Alega que a decisão que converteu a prisão em preventiva carece de fundamentação concreta e individualizada, utilizando argumentos genéricos e abstrações que não demonstram efetiva necessidade da medida extrema.
+Afirma que a quantidade de droga apreendida, embora não ínfima, tampouco é excepcional, não servindo, por si só, para justificar a prisão cautelar.
+Sustenta que o ingresso dos policiais na residência sem autorização judicial foi justificado apenas pela suposta atitude suspeita do paciente, sem haver fundadas razões objetivas ou elemento prévio de justa causa, o que contamina de ilegalidade a prova obtida pela ação policial, inclusive a apreensão das drogas.
+Ressalta, ainda, que o paciente possui condições pessoais favoráveis.
+Requer a concessão da ordem de habeas corpus para determinar a substituição da prisão preventiva por medidas cautelares menos gravosas, conforme o art. 319 do Código de Processo Penal.
+Liminar indeferida às fls. 197-199.
+Informações prestadas às fls. 202-216.
+O Ministério Público Federal em parecer, às fls. 221-230, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Quanto a alegação de nulidade decorrente da violação de domicílio, da leitura do acórdão recorrido verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema:
+"O Tribunal de origem não analisou a matéria trazida pela defesa, o que impede a apreciação direta pelo STJ, sob pena de supressão de instância" (AgRg no RHC n. 211.183/PE, de minha relatoria, Quinta Turma, DJEN de 28/4/2025).
+"Não debatida a questão pela Corte de origem, é firme o entendimento de que fica obstada sua análise, em princípio, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal" (AgRg nos EDcl no HC n. 955.826/ES, relator Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025).
+Passo, agora, ao exame da alegada falta de fundamentação concreta e idônea para a segregação cautelar.
+In casu, a análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade e variedade dos entorpecentes apreendidos, a saber, 58 gramas de maconha, 15 gramas de cocaína e 107 gramas de crack, além de petrechos para a sua comercialização, circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar - fl. 174.
+Sobre o tema, trago os seguintes precedentes deste Superior Tribunal de Justiça:
+"O decreto prisional encontra-se devidamente fundamentado com base na garantia da ordem pública, diante da quantidade e variedade de drogas apreendidas (407,9g de cocaína e pasta-base), bem como da apreensão de instrumentos típicos do tráfico e diversos celulares com indícios de ilicitude, evidenciando risco concreto de reiteração delitiva.
+A jurisprudência do STF e do STJ reconhece a possibilidade de decretação da prisão preventiva com base na natureza e quantidade de drogas, como forma de proteção da ordem pública" (AgRg no HC n. 991.227/AM, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN de 25/6/2025).
+"A jurisprudência desta Corte sustenta que a gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública.
+A contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública, conforme precedentes desta Corte" (AgRg no HC n. 991.304/PR, de minha relatoria, Quinta Turma, DJEN de 25/6/2025).
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Destacou, ainda, a decisão que decretou a segregação cautelar que o acusado possui ação penal em curso, com sentença condenatória recente pela prática do tráfico de drogas, pendente de recurso, fator que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa - fl. 175.
+A propósito:
+"Justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública"(AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido: AgRg no HC n. 917.567/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024; AgRg no AREsp n. 2.451.465/PR, de minha relatoria, Quinta Turma, DJe de 13/8/2024 e AgRg no RHC n. 194.155/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/7/2024.
+Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
