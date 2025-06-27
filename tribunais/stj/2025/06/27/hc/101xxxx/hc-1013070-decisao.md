@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AVELINO GONÇALVES LIMA contra decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que indeferiu o pedido de liminar formulado no HC n. 0146441-55.1994.8.19.0001.
+Na petição, a defesa informa que o paciente encontra-se preso na Penitenciária Bangu 10, diagnosticado com câncer em estágio avançado e metástase generalizada, sem receber a devida assistência médica especializada, violando reiteradamente os direitos fundamentais à vida, dignidade e saúde. Sustenta necessidade de afastamento da Súmula 691 do STF.
+Requer a concessão de medida liminar para transferência imediata do paciente para unidade hospitalar especializada em oncologia, com transporte adequado, a vedação de remoção para unidades inadequadas e que seja concedida a prisão domiciliar em caráter humanitário após estabilização clínica.
+É o relatório.
+Decido.
+A teor do disposto na Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do enunciado.
+A decisão que indeferiu a liminar no writ de origem possui a seguinte fundamentação (fls. 25-27):
+Infere-se do laudo médico da pneumologista que as circunstâncias fáticas do quadro clínico do penitente não foram alteradas e, no momento, indica que o penitente pode ficar sob a supervisão da SEAP.
+As informações prestadas pela SEAP em 10/06/2025 (seq. 341.2) reiteram o conteúdo do laudo médico e sinalizam que não há, neste momento, justificativa clínica que demande a transferência do preso para fora do sistema prisional, especialmente considerando o seu perfil de altíssima periculosidade.
+O apenado foi retornado a este Estado em razão de decisão proferida pelo Juízo Corregedor da Penitenciária Federal de Porto Velho - RO o qual atestou a inviabilidade de tratamento do apenado no âmbito daquela penitenciária federal, quando sua condição médica foi atestada.
+Desta forma, desde que ingressou nas dependências das unidades prisionais deste Estado (26/04/2025), sua condição clínica, baseada em exames de imagens realizados em 27/03/2025 em Porto Velho, está sendo meticulosamente aferida e controlada. Inexiste, por ora, alterações que demandem outras condutas senão aquelas até então entabuladas por este juízo.
+Nessa perspectiva, INDEFIRO a TUTELA DE URGÊNCIA porque inexiste, na atual conjuntura, o perigo da demora.
+INDEFIRO o pedido de acesso permanente do médico particular sem necessidade de novos pedidos prévios porquanto a entrada e saída de terceiros às unidades prisionais é questão de segurança pública. Como bem frisou a pneumologista, na atual unidade prisional o apenado conta com equipe da atenção primária prisional (médico clínico geral, psiquiatra, psicólogo, farmacêutico, enfermeiro, técnico de enfermagem, dentista e auxiliar de saúde bucal), de segunda a sexta-feira.
+Quanto ao pedido subsidiário de transferência do apenado para tratamento oncológico, ressalte-se que o apenado já se encontra inserido na plataforma SER para consulta Oncológica em Cirurgia Torácica/ Pulmonar (seq. 306.2), devendo aguardar vaga.
+Sem prejuízo, INTIME-SE, pela aba do SEEU, a Superintendência de Saúde da SEAP para que , EM REGIME DE URGÊNCIA:
+a) esclareça a respeito da resposta da plataforma SER quanto à consulta oncológica em cirurgia torácica/pulmonar pautada para o penitente, conforme tela à seq. 306.1 e a data a qual foi fixada para atendimento do apenado tendo em vista a urgência do caso e seu estado de saúde;
+b) adote as providências médicas necessárias à assistência à saúde e observe os cuidados no transporte do preso, quando necessário, tal como determinado no Habeas Corpus 0059337- 38.2025.8.19.0001. Instrua-se com cópia da decisão à seq. 327.2, páginas 104/105.
+Como se vê, o pedido de liminar foi indeferido na origem porquanto não evidenciados, de plano, os pressupostos autorizativos da medida urgente. Conforme destacou a decisão, "de acordo com laudo médico da pneumologista, o quadro clínico do acusado permanece inalterado, permitindo sua supervisão pela SEAP, além disso, conforme as informações da SEAP, datadas de 10/6/2025, não há justificativa clínica para transferir o preso para fora do sistema prisional, especialmente devido ao seu perfil de altíssima periculosidade". Ressaltou a decisão, ainda, que, desde sua entrada nas unidades prisionais do Estado em 26/4/2025, sua condição clínica, baseada em exames de imagens de 27/3/2025, está sendo rigorosamente monitorada, sem alterações que exijam novas condutas além das já estabelecidas.
+De fato, a pretensão defensiva é questão passível de indeferimento do pedido de liminar, uma vez não constatado prima facie o suposto constrangimento ilegal alegado.
+Não há, assim, falar em teratologia ou em manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise do mérito da questão.
+Ante o exposto, liminarmente, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
