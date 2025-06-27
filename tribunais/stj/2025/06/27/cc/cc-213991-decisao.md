@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUIZO DE DIREITO DA VARA ÚNICA DE ÁGUA BRANCA - PB, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE GUARULHOS - SP, suscitado.
+Consta dos autos que MARCOS ANTONIO OLIVEIRA BATISTA celebrou ANPP com o Ministério Público de São Paulo - SP, referente a um inquérito policial sobre estelionato, o qual foi homologado pela Vara de Execuções Penais de Guarulhos - SP.
+No entanto, diante da informação de que o beneficiado reside em em Água Branca - PB, o Juízo suscitado determinou a redistribuição do processo de execução criminal à Comarca de Água Branca - PB (fl. 6).
+O Juízo de Direito da Vara única de Água Branca - PB, por sua vez, suscitou o presente conflito negativo de competência, ao fundamento de que a competência para a execução do ANPP é exclusiva do Juízo que o homologou, podendo apenas ser deprecada a fiscalização do cumprimento das condições para o domicílio do investigado (fls. 19-21).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitado (fls. 26-30).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Cinge-se a controvérsia a estabelecer qual o Juízo competente para a execução do Acordo de Não Persecução Penal (ANPP) quando o apenado reside em comarca diversa daquela do Juízo da homologação do acordo.
+A jurisprudência do Superior Tribunal de Justiça - STJ firmou orientação no sentido de que a execução do acordo de não persecução penal é do Juízo que o homologou, podendo ser deprecada a fiscalização do seu cumprimento e a prática de atos processuais ao Juízo do domicílio do apenado.
+A propósito, a jurisprudência deste Superior Tribunal firmou-se no sentido de que:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE ACORDO DE NÃO PERSECUÇÃO PENAL. EXECUTADO COM DOMICILIO EM LOCAL DIVERSO DO JUÍZO DA HOMOLOGAÇÃO. EXECUÇÃO DAS CONDIÇÕES ESTABELECIDAS NO ANPP. COMPETÊNCIA DO JUÍZO DA HOMOLOGAÇÃO. PRECEDENTES.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que "a competência para executar as condições estabelecidas em ANPP é do Juízo da execução, nos termos do art. 28-A, §6º do Código de Processo Penal c/c art. 65 da Lei de Execuções Penais. Eventual mudança de domicílio do executado não possui o condão de alterar o juízo competente para a fiscalização das condições firmadas" (CC n. 180.371/SC, relator Ministro João Otavio de Noronha, DJe de 13.09.2021).
+2. Hipótese em que o acordo de não persecução penal foi homologado pelo Juízo da 5ª Vara Federal de Londrina-PR e a parte beneficiária possui domicílio em localidade diversa.
+3. A mudança de domicílio do executado para local distinto do Juízo das Execuções Penais não implica deslocamento da competência, sendo possível a expedição de carta precatória ao juízo do domicílio do executado/beneficiário para o acompanhamento do cumprimento das condições do acordo, consoante o disposto no art. 66, V, g, da Lei de Execuções Penais, mantida a competência do Juízo da execução penal. Precedentes.
+4. Conflito conhecido para declarar competente o juízo que homologou o ANPP, Juízo da 5ª Vara Federal de Londrina - PR, ora suscitado.
+(CC n. 208.902/PR, relator Ministro Og Fernandes, Terceira Seção, julgado em 13/11/2024, DJe de 19/11/2024, grifamos).
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, § 6.º, DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DAS REGRAS ATINENTES À EXECUÇÃO PENAL. COMPETÊNCIA. CUMPRIMENTO. JUÍZO QUE HOMOLOGOU O ACORDO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O art. 28-A, § 6.º, do Código de Processo Penal, ao determinar que o acordo de não persecução penal será executado no juízo da execução penal, implicitamente, estabeleceu que o cumprimento das condições impostas no referido acordo deverá observar, no que forem compatíveis, as regras pertinentes à execução das penas.
+2. Segundo pacífica orientação desta Corte Superior, a competência para a execução das penas é do Juízo da condenação. No caso específico de execução de penas restritivas de direitos, em se tratando de condenado residente em jurisdição diversa do Juízo que o condenou, também é sedimentada a orientação de que a competência para a execução permanece com o Juízo da condenação, que deprecará ao Juízo da localidade em que reside o apenado tão-somente o acompanhamento e a fiscalização do cumprimento da reprimenda.
+3. Em se tratando de cumprimento das condições impostas em acordo de não persecução penal, a competência para a sua execução é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do Apenado.
+4. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 1.ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, o Suscitado.
+(CC n. 192.158/MT, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/11/2022, DJe de 18/11/2022, grifamos).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Guarulhos - SP, o suscitado, para fiscalização do cumprimento das condições, sendo-lhe facultada a expedição de carta precatória ao Juízo do domicílio do apenado para fins de acompanhamento.
+Publique-se. Intimem-se.
+EMENTA
