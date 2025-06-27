@@ -1,0 +1,28 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar para relaxamento da prisão preventiva, impetrado em favor de Rodrigo Rodrigues Manfredini, alega-se coação ilegal em relação a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta nos autos que o paciente foi denunciado e preso preventivamente (e-STJ, fl. 19), pela suposta prática dos crimes previstos no art. 121, § 2º, I e IV, c/c art. 14, II, todos do Código Penal.
+Neste writ, o impetrante sustenta a nulidade da decisão que decretou a prisão preventiva, argumentando que houve inovação na fundamentação jurídica pelo Tribunal, em relação aos antecedentes criminais do paciente e à alegação de tentativa de evasão. Alega-se que tais fundamentos não constavam na decisão de primeiro grau e que sua inclusão posterior caracteriza a nulidade do acórdão, em conformidade com o artigo 564, inciso VI, do Código de Processo Penal.
+Ademais, a defesa assevera que não há elementos concretos que justifiquem a privação de liberdade, ressaltando que a decisão originária se fundamentou em argumentos genéricos e na gravidade abstrata do delito, sem a necessária individualização dos riscos representados pelo paciente. Destaca que, desde o suposto crime até sua prisão, transcorreram aproximadamente quatro meses, período no qual o paciente permaneceu residindo na mesma comarca, exercendo atividade laborativa e sem praticar qualquer conduta que indicasse tentativa de fuga ou obstrução da instrução criminal.
+Dessa forma, sustenta que a prisão preventiva não atende aos requisitos estabelecidos nos artigos 312 e 315 do Código de Processo Penal, sendo possível a substituição por medidas cautelares diversas, conforme previsto no artigo 319 do mesmo diploma legal.
+Requer, liminarmente e no mérito, a concessão da ordem para determinar a imediata soltura do paciente, com a expedição do respectivo alvará de soltura. Subsidiariamente, pleiteia a aplicação de medidas cautelares alternativas à prisão preventiva, nos termos do artigo 319 do Código de Processo Penal.
+A medida liminar foi indeferida e, após o recebimento das informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando fundamentada em elementos objetivos, nos termos do art. 312 do CPP.
+Acerca das questões aqui trazidas, consta do decreto prisional (e-STJ, fls. 26-27):
+ ..
+6. Atendendo a representação da Autoridade Policial, corroborada pelo Ministério Público, DECRETO A PRISÃO PREVENTIVA do réu RODRIGO RODRIGUES MANFREDINI, acima qualificado.
+Existem provas que dão conta da existência do crime e indícios suficientes da autoria, seja pelos laudos periciais juntados aos autos e também pelo relato testemunhal apresentado.
+A testemunha identificou a voz do réu no momento dos disparos, apesar de não telo visto. A vítima reconheceu a autoria dos disparos, imputando ao acusado. Procurado, o réu não foi localizado, motivo pelo qual sua prisão temporária foi decretada no procedimento apenso.
+Ademais, o réu é acusado de ter praticado crime de homicídio qualificado tentado contra a vítima, portanto, hediondo, cuja reprovação social e legal são de grau elevado, além de possuir uma conduta desabonadora, com envolvimento no mundo criminoso, o que demonstra sua periculosidade.
+Assim sendo, mostra-se fundamental a decretação da prisão preventiva, já que a liberdade do acusado, que responde por delito de tamanha gravidade, abalaria a ordem pública, além de colocar em descredito a efetividade do ordenamento jurídico. Pode, ainda, atrapalhar o andamento processual e frustrar a futura aplicação da lei penal, bem como tentar novamente contra a vida da vítima ou atemorizar as testemunhas para que não apresentem ou modifiquem seus depoimentos, o que comprometeria não somente a ordem pública, mas também a instrução criminal.
+Fundamenta-se, pois, a prisão preventiva do réu RODRIGO RODRIGUES MANFREDINI, na forma dos artigos 312 e 313, inciso I, ambos do Código de Processo Penal, para assegurar a ordem pública, e também garantir a instrução criminal e a segurança de futura aplicação da lei penal.
+Expeça-se mandado de prisão.
+7. Caso o réu manifeste interesse, ou decorrido o prazo não constitua defensor, providencie a serventia a nomeação de defensor dativo no sistema próprio, intimando o(a) defensor para ciência de sua designação bem como para dar andamento ao feito nos termos em que se encontre.
+8. Ciência ao Ministério Público.
+Como se vê, a custódia preventiva foi decretada com fundamentação que revela-se idônea, pois, nos termos da jurisprudência dessa Corte, "A fuga do agente constitui fundamento idôneo para a decretação ou manutenção da prisão preventiva para garantir a instrução criminal e assegurar a aplicação da lei penal, nos termos do art. 312 do CPP" (AgRg no HC n. 611.246/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/2/2021, DJe de 11/2/2021).
+Oportuno ressaltar que, "São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves"(AgRg no HC n. 969.199/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+Ante o exposto, denego o habeas corpus.
+Publique-se .
+Intimem-se.
+EMENTA
