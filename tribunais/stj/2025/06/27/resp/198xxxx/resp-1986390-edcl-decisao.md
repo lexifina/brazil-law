@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Sindicato dos Empregados no Comércio de Maringá contra decisum singular, de fls. 2.545/2.553, que negou provimento ao recurso especial, ao não reconhecer a alegada negativa de prestação jurisdicional.
+Em suas razões, a parte embargante aduz, em resumo, que a decisão embargada "silenciou sobre a petição de fls. 2538, que informou o indeferimento do registro do Sindicato, fato este que, por si só, afeta a legitimidade do Sindicato para atuar no processo, inclusive para figurar no polo passivo do presente Recurso Especial" (fl. 2.557).
+Aponta que "A ausência de manifestação sobre o indeferimento do registro impede a correta aplicação do direito, pois desconsidera um elemento fundamental para a aferição da legitimidade do Sindicato" (fl. 2.559).
+A parte embargada apresentou impugnação às fls. 2.566/2.569.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação da parte embargante merece prosperar.
+Com efeito, o insurgente, nas razões dos embargos de declaração e do recurso especial, reiterou que o Tribunal de origem não enfrentou alegação referente aos "aspectos ligados aos vícios de criação do Sindicato ora Recorrido, isto é, sem apreciar a matéria que lhe foi devolvida para análise e julgamento" (fl. 2.344).
+Contudo, a Corte paranaense quedou silente sobre tal argumentação, cingindo-se a assentar que não verifica "outros vícios possíveis na criação do referido sindicato" (fl. 2.121), rejeitando os pertinentes aclaratórios mediante fundamentação genérica, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A esse respeito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts. 489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023)
+Ademais, o fato superveniente relativo ao indeferimento do registro da parte embargada perante o MTE é relevante, pois, além de fa zer parte das causas de pedir elencadas na inicial, deve ser enfrentado conjuntamente com a alegação de vícios na criação do sindicato ora embargado ora reconhecida como omitida pelo acórdão impugnado. No entanto, há que se observar que a ilegitimidade passiva apontada não está relacionada à capacidade processual para ser parte, mas a que diz respeito àquela que autorizaria a representatividade e a cobrança de valores dos filiados envolvidos.
+Nesse passo, por versar questão eminentemente fática, dever dirimida perante a instância precedente, inclusive para contemplar a alegação trazida pela entidade embargada na impugnação ao presente recurso de que a demanda contém pedidos que "superam apenas a discussão da representatividade sindical e da possibilidade de desmembramento" (fl. 2.567).
+ANTE O EXPOSTO, acolho os embargos de declaração para, com efeitos modificativos, dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas, nos termos da fundamentação supra, como se entender de direito.
+Publique-se.
+EMENTA
