@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de WILLIAM FERREIRA LEAL, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Apelação Criminal n. 0002039-52.2018.8.26.0482.
+Infere-se dos autos que o paciente foi condenado pela prática dos crimes tipificados nos arts. 168, caput, e 340, caput, ambos do Código Penal (apropriação indébita e comunicação falsa de crime), às penas de 2 anos de reclusão e 2 meses e 10 dias de detenção, em regime inicial semiaberto, e ao pagamento de 20 dias-multa.
+Interposta apelação pela defesa, foi desprovida pelo Tribunal de origem, nos termos do acórdão assim sintetizado:
+"APROPRIAÇÃO INDÉBITA - materialidade boletins de ocorrência, autos de apreensão e de avaliação indireta, contrato de aluguel do carro e prova oral, os quais confirmam que o acusado se apropriou de automóvel de grande valor em prejuízo da locadora.
+APROPRIAÇÃO INDÉBITA - autoria várias versões apresentadas pelo réu despertando dúvida na veracidade do que ocorrera validade prova documental que confirma que o apelante locou veículo da locadora validade.
+COMUNICAÇÃO FALSA DE CRIME - réu que comunicou a ocorrência de crime que sabia não ter verificado prova oral e documental demonstradas.
+PENA APROPRIAÇÃO INDÉBITA - base dobro maus antecedentes e demais circunstâncias judiciais desfavoráveis demais fases inalteradas.
+PENA COMUNICAÇÃO FALSA DE CRIME - base dobro maus antecedentes e demais circunstâncias judiciais desfavoráveis segunda fase aumento de 1/6 terceira fase inalterada concurso material entre os crimes.
+REGIME E SUBSTITUIÇÃO - maus antecedentes ostentados pelo réu e circunstâncias judiciais desfavoráveis ao réu que impediram a fixação de regime aberto e de substituição da pena privativa de liberdade por substitutiva - não provimento ao recurso." (fl. 10).
+Na presente impetração, a defesa aduz estarem presentes os requisitos para a permuta da pena corporal por restritivas de direitos. Assevera que a reincidência, desde que não seja específica, não seria justificativa idônea para o indeferimento do benefício.
+Busca, em liminar e no mérito, a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+A pretensão de permuta da pena corporal por restritivas de direito foi devidamente afastada pelo Tribunal a quo, pelas seguintes razões:
+"No tocante ao regime inicial de cumprimento de pena, a sentença fixou o regime intermediário, tendo em vista os maus antecedentes e as circunstâncias judiciais desfavoráveis, o que mantenho, sem provimento ao pleito defensivo no tocante a alteração do regime semiaberto para o aberto.
+Pelas mesmas razões, incabível a substituição da pena privativa de liberdade por restritivas de direitos." (fl. 19).
+Como se vê, acertado o indeferimento da substituição da pena corporal por restritivas de direitos, porquanto verificado pelo Tribunal de origem que tais medidas se mostram insuficientes, considerando os maus antecedentes do paciente e as circunstâncias judiciais desfavoráveis, em consonância com o previsto no art. 44, III, do Código Penal.
+Nessa direção:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO. PENA-BASE. FUNDAMENTAÇÃO VÁLIDA. FRAÇÃO DE AUMENTO. PROPORCIONALIDADE. HABITUALIDADE CRIMINOSA. VEÍCULO USADO PARA COMETER O CRIME. EFEITOS DA CONDENAÇÃO. INABILITAÇÃO PARA DIRIGIR. APLICAÇÃO DO REGIME MAIS GRAVOSO. NEGATIVA DE SUBSTITUIÇÃO DA PENA. MAUS ANTECEDENTES. ARTS. 33, § 3º, E 44, III, DO CP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O aplicador do direito, consoante sua discricionariedade motivada, deve, na primeira etapa do procedimento trifásico, orientar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Não é imprescindível dar rótulos e designações corretas às vetoriais, mas indicar elementos concretos relacionados às singularidades do caso para atender ao dever de motivação da mais severa individualização da pena. Nesse sentido: AgRg no HC n. 821.464/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+2. No caso, a expressiva quantidade de maços de cigarro apreendida (60.000 maços), as quatro condenações definitivas indicadas na sentença e as circunstâncias do crime, organizado em comboio, com a utilização de veículo "batedor", constituem argumentação que não é inerente ao tipo penal nem insuficiente para justificar a opção judicial.
+3. A discricionariedade judicial motivada na dosimetria da pena é reconhecida por esta Corte. Não existe direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base. Em regra, afasta-se a tese de desproporcionalidade em casos de aplicação de frações de 1/6 sobre a pena mínima ou de 1/8 sobre o intervalo entre os limites mínimo e máximo do tipo, admitido outro critério mais severo, desde que devidamente justificado.
+Precedentes.
+4. Na espécie, a instância antecedente, em virtude das circunstâncias judiciais consideradas, adotou fração proporcional e adequada para o aumento da pena-base, consolidada em 2 anos e 6 meses de reclusão, para o delito de contrabando, cujo intervalo de penas incidentes à época dos fatos era de 1 a 4 anos de reclusão.
+5. Entende o STJ que, demonstrada a prática de crime doloso pelo réu, que se valeu de seu veículo automotor como instrumento para cometer a infração, deve-se aplicar a penalidade de inabilitação para dirigir, nos termos do art. 92, III, do Código Penal, observada a necessidade de fundamentação para a imposição da medida no caso concreto, como, por exemplo, impedir a reiteração criminosa, hipótese constatada nos autos.
+6. Os maus antecedentes do réu (quatro condenações definitivas) constituem circunstâncias desfavoráveis aptas a ensejar a aplicação do regime mais gravoso - semiaberto - que o previsto para a quantidade de pena - aberto - e a impedir a substituição da sanção privativa de liberdade por restritivas de direitos, conforme o disposto nos arts. 33, § 3º, e 44, III, do Código Penal.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.772.952/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2025, DJEN de 25/3/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. REGIME INICIAL FECHADO. REINCIDÊNCIA E MAUS ANTECEDENTES. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que manteve o regime inicial fechado e a não substituição da pena privativa de liberdade por restritivas de direitos, em razão de maus antecedentes e múltipla reincidência do agravante.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a reincidência e os maus antecedentes do réu justificam a fixação do regime inicial fechado e impedem a substituição da pena privativa de liberdade por restritivas de direitos.
+III. Razões de decidir
+3. A jurisprudência do STJ considera que a reincidência e os maus antecedentes são fundamentos idôneos para a fixação do regime inicial fechado, mesmo que a pena seja inferior a 4 anos.
+4. A substituição da pena privativa de liberdade por restritiva de direitos não é cabível em casos de multirreincidência e circunstâncias judiciais desfavoráveis, conforme o art. 44 do Código Penal.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. A multirreincidência e os maus antecedentes justificam a fixação do regime inicial fechado e inviabilizam a substituição da pena privativa de liberdade por restritiva de direitos".
+Dispositivos relevantes citados: Código Penal, arts. 33, §§ 2º e 3º; 44, inciso II, e § 3º.Jurisprudência relevante citada: STJ, AgRg no HC 874.947/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024; STJ, AgRg no AREsp 2.548.319/TO, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 21/5/2024; STJ, AgRg no HC 697.827/SC, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 8/2/2022.
+(AgRg no AgRg no AREsp n. 2.609.342/SP, de minha relatoria, Quinta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. CONTUMÁCIA DELITIVA E TRÊS QUALIFICADORAS. EXASPERAÇÃO DA PENA-BASE. BIS IN IDEM. INOCORRÊNCIA. DESLOCAMENTO DE QUALIFICADORAS REMANESCENTES PARA PRIMEIRA FASE. POSSIBILIDADE. FURTO PRIVILEGIADO. SUBSTITUIÇÃO POR PENA DE DETENÇÃO. FUNDAMENTAÇÃO CONCRETA. MAUS ANTECEDENTES E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PLEITO DE SUSBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I - A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, se verificar que a medida é socialmente recomendável, o que não ocorreu no presente caso, em que o paciente foi condenado por furto qualificado.
+II - No tocante à exasperação da pena-base, não há ilegalidade no aumento da pena no patamar de 1/5, em razão de ostentar o paciente maus antecedentes e por terem sido deslocadas duas qualificadoras sobressalentes (rompimento de obstáculo e escalada) para a primeira fase do cálculo dosimétrico.
+III - O Superior Tribunal de Justiça consolidou entendimento no sentido de que havendo duas ou mais qualificadoras, uma delas deverá ser utilizada para qualificar a conduta, alterando o quantum da pena em abstrato, e as demais poderão ser valoradas na primeira ou segunda fase da dosimetria, a depender da hipótese (AgRg no AREsp n. 2.238.273/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 23/6/2023).
+IV - "Reconhecida a figura do furto privilegiado, cabe ao julgador, obedecendo ao livre convencimento motivado, escolher entre as opções legais apr esentadas no § 2º do art. 155 do Código Penal, devendo fundamentar sua decisão nas circunstâncias do caso concreto e particularidades do agente, a fim de obter a solução mais adequada e suficiente como resposta penal à conduta praticada" (AgRg no HC n. 726.958/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 31/5/2022).
+V - No caso dos autos, a pena de detenção foi aplicada em razão da maior reprovabilidade da conduta praticada pelo recorrente, tendo em vista seus maus antecedentes e a existência de circunstâncias judiciais negativas, em consonância com a jurisprudência desta Corte Superior. Precedentes.
+VI - A análise desfavorável das circunstâncias judiciais e os maus antecedentes justificam o afastamento da substituição da sanção privativa de liberdade por restritivas de direitos, consoante o disposto no art. 44, III, do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 841.482/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+Nesse contexto, não se vislumbra flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Por tais razões, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
