@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de Mandado de Injunção com a formulação de pedido liminar impetrado por Marcos Aurélio Paschoalin contra ato deste Superior Tribunal de Justiça.
+O impetrante alega que o STJ tem negado conhecimento e admissibilidade aos recursos especiais interpostos, utilizando-se de súmulas sem explicar a relação com a causa ou questão decidida. Ele argumenta que as decisões não enfrentam todos os argumentos deduzidos no processo, limitando-se a invocar precedentes ou enunciados de súmula sem identificar seus fundamentos determinantes. Cita decisões do STJ que inadmitiram recursos especiais por ausência de indicação de ponto omisso, contraditório ou obscuro, e erro na indicação de artigo de lei federal violado, conforme Súmula 284/STF. Junta com a petição inicial cópia de decisão proferida pela Presidência desta Corte que não conheceu do Agravo em Recurso Especial nº 2874477/MG.
+Requer, ao final, "(..) a procedência do mandamus, mantendo a liminar, caso deferida, para que os fundamentos amplamente dissecados sobre a ordem jurídica instituída sejam observados pelo STJ, de forma que a concessão da ordem de injunção para os Nobres Ministros do STJ elaboradores de normas regimentais tornem viável o exercício efetivo do direito obstaculizado pelas Vs. Decisões denegando o dever do STJ admitir, conhecer e julgar os recursos interpostos com o devidos e exigidos pressupostos legais".
+É o relatório.
+Decido.
+2. A Constituição Federal estabelece em seu art. 5º, LXXI, que "conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania".
+Segundo o entendimento firmado por esta Corte Especial "O Mandado de Injunção somente é cabível quando existir um direito previsto na Constituição cujo exercício esteja impedido em virtude da ausência de norma regulamentadora, porquanto esse remédio constitucional não se destina ao suprimento de lacuna ou de ausência de regulamentação de direito previsto em norma infraconstitucional" (AgInt no MI n. 295/DF, relator Ministro Luis Felipe Salomão, Corte Especial, DJe 2/6/2020).
+No caso dos autos, verifica-se que a suposta omissão pretendida pelo impetrante consistiria na "(..) negativa de vigência dos fundamentos jurídicos amplamente postulados, sobretudo, em defesa da cidadania, da livre iniciativa e da dignidade da pessoa humana, contra decisões judiciais injustas, antijurídicas, inconstitucionais, nulas, inválidas e cabíveis de rescindibilidade (..)", o que afasta o cabimento do Mandado de Injunção, conforme jurisprudência desta Corte Superior:
+AGRAVO INTERNO EM MANDADO DE INJUNÇÃO. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. PRETENSÃO DE REGULAMENTAÇÃO DO DIREITO DE ASCENSÃO FUNCIONAL DOS MILITARES DO QUADRO ESPECIAL DO EXÉRCITO BRASILEIRO. AUSÊNCIA DE PREVISÃO CONSTITUCIONAL DO DIREITO QUE SE PRETENDE FRUIR. INADMISSIBILIDADE DO WRIT INJUNCIONAL.
+I - A admissibilidade do mandado de injunção pressupõe a previsão constitucional do direito ou da garantia que se pretende exercer, não se prestando para proteção de benefícios e direitos elencados exclusivamente em norma infraconstitucional.
+II - Inexiste no art. 142, § 3º, X, da Constituição Federal, previsão de que seja editado, em relação aos militares, norma dirigida a regular o direito de ascensão funcional (promoção), o que inviabiliza o emprego do mandado de injunção para tanto.
+Precedentes.
+III - Agravo interno desprovido (AgInt no MI 301/DF, relator Ministro Paulo de Tarso Sanseverino, Corte Especial, DJe 13/3/2020.)
+Ainda, não se encontram presentes os requisitos constitucionais para o processamento pretendido porque não se vislumbra da narrativa da petição inicial qualquer ausência de norma regulamentadora que inviabilize o exercício de direitos e garantias constitucionais, sobretudo às relativas à admissibilidade recursal nesta Corte .
+3. Ante o exposto, indefiro liminarmente o Mandado de Injunção.
+Prejudicado o pedido liminar.
+Publique-se.
+Intimem-se.
+EMENTA
