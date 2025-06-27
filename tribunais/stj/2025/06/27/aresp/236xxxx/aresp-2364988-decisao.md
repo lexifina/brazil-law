@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 735 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 122.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fl. 56):
+Agravo de Instrumento. Antecipação de tutela para custeio de tratamento com uso medicamento Tiotepa. Anemia Falciforme. Demonstração dos pressupostos legais. Art. 300, NCPC. Verossimilhança das alegações. Correta fixação do prazo de cumprimento. Ausência de interferência na futura apreciação do mérito da demanda ou da legalidade ou não da recusa do agravante. Recurso improvido.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 78):
+Embargos declaratórios Alegação de vício Omisão - Repetição dos fundamentos já aclarados - Vício inexistente - Impossibilidade de rediscussão do tema já examinado - Nítida pretensão de dar aos embargos caráter infringente, o que não é possível - Embargos rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 1.022, II, do CPC, porquanto o acórdão foi omisso quanto à exclusão da obrigação dos planos de saúde de arcarem com os custos de medicamentos importados e não nacionalizados, nos termos dos artigo 10, V, da Lei n. 9.656/1998, 12 e 66 da Lei 6.360/7196, e 10, V, da Lei n. 6.437/1976; e
+b) 10, V, da Lei n. 9.656/1998 e 12 e 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, pois o acórdão estadual violou a norma ao considerar que a operadora de plano de saúde deveria autorizar e custear as despesas de medicamento importado e sem registro na ANVISA.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando a obrigatoriedade do fornecimento de medicamento importado e não comercializado no Brasil na ANVISA.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 99.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso (fls. 136-142).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer em que a parte autora pleiteou a antecipação dos efeitos da tutela para que a ré autorize e custeie a realização do tratamento com o medicamento Tiotepa, além de todos os custos necessários, e a restituição em dobro de eventuais valores dispendidos com o tratamento.
+A Corte estadual manteve integralmente a decisão que deferiu a tutela provisória.
+I - Art. 1.022, II, do CPC
+No recurso especial, a parte recorrente alega que houve omissão do julgado sobre a exclusão da obrigação dos planos de saúde de arcarem com os custos de medicamentos importados e não nacionalizados, nos termos dos artigo 10, V, da Lei n. 9.656/1998, 12 e 66 da Lei n. 6.360/1976, e 10, V, da Lei 6.437/1976.
+A Corte estadual concluiu que não há omissão, pois, sem qualquer antecipação sobre o mérito da ação, reconheceu a verossimilhança da alegada ilegalidade da recusa de cobertura para o custeio do tratamento com o medicamento prescrito pelo médico, bem como o fundado receio de dano de difícil reparação, que decorre da própria urgência da realização do tratamento. Enfatizou que a exclusão ou não do tratamento deverá ser verificada ao final, mediante a análise mais aprofundada de todas as demais questões que envolvem o caso (fls. 57-58).
+Confira-se ainda trecho do acórdão recorrido dos embargos declaratórios (fl. 79):
+Verifica-se que a embargante, sob o prisma da ocorrência do vício de omissão no v. acórdão, pleiteia que seja dada nova manifestação quanto a impossibilidade de fornecer o medicamento pleiteado pela embargada.
+Contudo, equivocado o manejo da embargante, tendo em vista que o v. acórdão bem asseverou que estavam presentes os requisitos para a concessão da medida, tendo em vista o delicado estado de saúde da embargada e que a discussão sobre a legalidade, ou não, do fornecimento do medicamento seria apreciado com o mérito.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Arts. 10, V, da Lei n. 9.656/1998 e 12 e 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976
+Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Em suma, é incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+Dessa forma, constata-se que, em razão da natureza instável da decisão, a qual pode ser ou não confirmada em julgado definitivo, mostra-se correta a aplicação, por analogia, da Súmula n. 735 do STF ao caso.
+A propósito, vejam-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ E DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula nº 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. O Tribunal de Justiça firmou que não estão presentes os requisitos para o deferimento da tutela antecipada, quais sejam, a fumaça do bom direito e o perigo da demora. Essas ponderações foram fundadas na apreciação de fatos, atraindo a incidência da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido. (AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CLÁUSULA COMPROMISSÓRIA. JUÍZO ARBITRAL. INCOMPETÊNCIA. LEGITIMIDADE. REEXAME. SÚMULA N. 7/STJ. TUTELA DE URGÊNCIA. SÚMULAS N. 7/STJ E 735/STF. NÃO PROVIMENTO.
+1. Mesmo em contrato que preveja a arbitragem, é possível a execução judicial de confissão de dívida certa, líquida e exigível que constitua título executivo nos termos do art. 585, inciso II, do Código de Processo Civil, haja vista que o juízo arbitral é desprovido de poderes coercitivos. Precedente do STJ.(REsp n. 1.373.710/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe de 27/4/2015.)
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Ademais, conforme já relatado, o Tribunal de origem, ao analisar os elementos fáticos dos autos, concluiu pela manutenção da decisão agravada por considerar presentes os requisitos para concessão da tutela, por estar comprovada a necessidade do tratamento e por ha ver risco de prejuízos para a parte autora decorrentes da ausência do tratamento.
+Nesse cenário , rever as conclusões do aresto impugnado, ao argumento de que os dispositivos legais mencionados foram violados, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Nessa linha: AgInt no AREsp n. 1.826.601/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022; AgInt nos EDcl no AREsp n. 1.558.047/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022; e AgInt no AREsp n. 1.919.487/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021.
+Ante o exposto, conheço do agravo em recurso especial para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
