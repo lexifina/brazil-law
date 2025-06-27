@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NATHAN ALVES RAMOS apont ando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Recurso em Sentido Estrito n. 0004840-92.2024.8.26.0590).
+Consta dos autos que o paciente foi denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006 e sendo decretada sua prisão preventiva, a qual foi posteriormente revogada. Irresignado, o Ministério Público interpôs recurso em sentido estrito, ao qual se deu provimento, nos termos da seguinte ementa (e-STJ fls. 58-59):
+DIREITO PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RECURSO PROVIDO.
+I. Caso em Exame Recurso em Sentido Estrito interposto pelo Ministério Público contra decisão que revogou a prisão preventiva do recorrido, denunciado por tráfico de drogas, art. 33, caput, da Lei nº 11.343/06.
+II. Questão em Discussão
+2. A questão em discussão consiste na necessidade de restabelecimento ou não da prisão preventiva para garantia da ordem pública, frente à gravidade concreta dos fatos e reincidência específica do recorrido.
+III. Razões de Decidir
+3. A gravidade dos fatos, com apreensão de grande quantidade de drogas, justifica a prisão preventiva para garantia da ordem pública.
+4. A reincidência específica do recorrido potencializa o risco social, justificando a decretação da prisão preventiva.
+5. A ausência de testemunha, policial militar, na audiência não justifica a revogação da prisão preventiva, considerando a necessidade de manutenção da ordem pública e não constitui, por si só, excesso de prazo.
+IV. Dispositivo e Tese
+5. Recurso provido. Prisão preventiva decretada.
+Tese de julgamento: 1. A gravidade concreta dos fatos e a reincidência específica justificam a prisão preventiva para garantia da ordem pública. 2. A ausência de testemunha não caracteriza, per se, excesso de prazo que justifique a revogação da prisão preventiva.
+Legislação Citada: Código de Processo Penal, arts. 311, 312, 313, I. Lei nº 11.343/06, art. 33, caput.
+Jurisprudência Citada: STJ, AgRg no HC n. 925.707/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 2/9/2024. STJ, RHC n. 73.205/RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 23/5/2017.
+No presente mandamus, a defesa aduz, em síntese, que o julgamento é nulo, uma vez que não se levou em consideração a oposição da defesa ao julgamento virtual. Pugna, assim, pela nulidade do julgamento.
+A liminar foi indeferida às e-STJ fls. 246-248, as informações foram prestadas às e-STJ fls. 256-281, e o Ministério Público Federal se manifestou, às e-STJ fls. 283-291, nos seguintes termos:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO DO WRIT. REEXAME DE FATOS E PROVAS. INADEQUAÇÃO DA VIA ELEITA. MANUTENÇÃO DA PRISÃO PREVENTIVA POIS BEM FUNDAMENTADA PELA CORTE ORDINÁRIA. REQUISITOS DO ART. 312 DO CPP DEVIDAMENTE PREENCHIDOS. GRAVIDADE CONCRETA CONSUBSTANCIADA NA REINCIDÊNCIA DO PACIENTE. QUANTIDADE E VARIEDADE DE DROGA. JUSTIFICA A SEGREGAÇÃO DO PACIENTE.
+1. A Terceira Seção desse Superior Tribunal de Justiça, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal, o que não se verifica na hipótese em comento.
+2. O Tribunal de origem bem fundamentou a necessidade de manutenção da constrição cautelar.
+Parecer pelo não conhecimento do habeas corpus e, acaso conhecido, por sua denegação.
+É o relatório. Decido.
+Em razão da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de não ser admissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de não se desvirtuar a finalidade dessa garantia constitucional, preservando, assim, sua utilidade e eficácia, e garantindo a celeridade que o seu julgamento requer. Referido entendimento foi ratificado pela Terceira Seção, em 10/6/2020, no julgamento da Questão de Ordem no Habeas Corpus n. 535.063/SP.
+Nessa linha de intelecção, como forma de racionalizar o emprego do writ e prestigiar o sistema recursal, não se admite a sua impetração em substituição ao recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, tem se admitido o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Conforme relatado, a defesa se insurge, em síntese, contra o julgamento do recurso em sentido estrito pelo Tribunal de origem, em virtude de não ter levado em consideração a oposição da defesa ao julgamento virtual.
+Contudo, conforme destacado no parecer ministerial, a jurisprudência desta Corte Superior é no sentido de que "o mero fato de um julgamento ser realizado de forma virtual, mesmo com a oposição expressa e tempestiva da parte, não é, por si só, causa de nulidade ou cerceamento de defesa, até porque, para que tal pleito seja atendido, é necessário que exista comprovação da necessidade do julgamento presencial ou mesmo de pedido para realização de sustentação oral. Todavia, ainda que seja caso de sustentação oral, desde que seu exercício seja garantido e viabilizado na modalidade de julgamento virtual, não haverá prejuízo ou nulidade a ser sanada. Porquanto, o direito à sustentação oral, não significa fazê-lo de forma presencial" (e-STJ fl. 289).
+Nesse sentido:
+"A jurisprudência desta corte firmou-se no sentido que não há, no ordenamento jurídico vigente, o direito de exigir que o julgamento ocorra por meio de sessão presencial. Portanto, o fato de o julgamento ter sido realizado de forma virtual, mesmo com a oposição expressa e tempestiva da parte, não é, por si só, causa de nulidade ou cerceamento de defesa. Ademais, mesmo nas hipóteses em que cabe sustentação oral, se o seu exercício for garantido e viabilizado na modalidade de julgamento virtual, não haverá qualquer prejuízo ou nulidade, ainda que a parte se oponha a essa forma de julgamento, porquanto o direito de sustentar oralmente as suas razões não significa o de, necessariamente, o fazer de forma presencial" (AgRg no HC n. 832.679/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.) (AgRg no RtPaut no REsp n. 2.125.449/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+Não há se falar, portanto, em constrangimento ilegal.
+Pelo exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
