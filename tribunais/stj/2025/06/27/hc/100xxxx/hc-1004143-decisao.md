@@ -1,0 +1,23 @@
+DECISÃO
+VITORIA CRISTINA DE PAULA SILVA ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Habeas Corpus n. 1.0000.25.066996-7/000).
+Consta dos autos que a paciente responde pela prática, em tese, do delito de tráfico de drogas, encontrando-se em prisão preventiva.
+A defesa aduz que não estariam presentes os requisitos da prisão preventiva. Com base neste argumento, requer a revogação, ainda que a liberdade provisória venha acompanhada de medidas cautelares diversas (art. 319 do CPP).
+A liminar foi deferida (fls. 62-65) e o parecer do Ministério Público Federal é favorável a concessão parcial da ordem (fls. 156-165).
+Decido.
+A prisão preventiva da ré foi a partir de fundamentação que destaca que "a flagrada estava dentro de um ônibus, sendo identificada em sua mala grande quantidade de crack, de massa de quase um quilo e meia". Ainda, "segundo militares, ela confessou que receberia a quantia de R$ 1.500,00 pelo transporte da droga e que haveria mais entorpecentes em sua casa, em Uberaba, sob os cuidados de seu namorado".
+Diante destas circunstâncias, o Juízo concluiu pelo risco de que a paciente voltasse a delinquir, "caso viesse a ser solta" (fl. 55).
+O Tribunal manteve a decisão do Magistrado singular (fls. 13-ss).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Sob essas premissas, verifico que, embora, por um lado, o decisum impugnado pudesse conter elementos mais robustos a indicar a necessidade da restrição da liberdade da paciente - o que se mostraria consentâneo com a sólida jurisprudência desta Corte, notadamente com o que tenho externado em outros casos (v. g., RHC n. 61.356/MG, DJe 6/11/2015) -, não há como se perder de vista, por outro lado, que o Magistrado de primeiro grau fundamentou a segregação ao mencionar a gravidade concreta da conduta, sublinhando a quantidade de drogas apreendidas.
+Tais circunstâncias, na compreensão do Juiz de primeiro grau, evidenciariam a dedicação da acusada ao tráfico de entorpecentes e a necessidade de manutenção da custódia cautelar para o bem da ordem pública.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído à ré - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção da acusada, notadamente porque se trata de réu primário e a quantidade de drogas apreendidas não é suficiente para, por si só, justificar a medida extrema.
+Além disso, o crime em tese cometido não envolve violência ou grave ameaça a pessoa e não há notícias de que a paciente possa interferir na instrução criminal ou evadir-se do distrito da culpa.
+À vista do exposto, confirmo a liminar para, à luz das peculiaridades do caso concreto, conceder a ordem para substituir a prisão preventiva do acusado pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimada para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solta) e justificar suas atividades;
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução, sem prejuízo de imposição de outras medidas que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas;
+c) monitoração eletrônica.
+Publique-se e intimem-se.
+EMENTA
