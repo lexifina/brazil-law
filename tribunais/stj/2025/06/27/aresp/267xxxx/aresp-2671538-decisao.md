@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED GOIANIA COOPERATIVA DE TRABALHO MÉDICO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 382):
+EMENTA: DUPLA APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER PARA REATIVAÇÃO DE PLANO DE SAÚDE COM PEDIDO DE TUTELA DE URGÊNCIA C/C DANOS MORAIS E MATERIAIS. RESTABELECIMENTO DE PLANO DE SAÚDE. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CANCELAMENTO UNILATERAL IMOTIVADO. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA REGULAR. VIOLAÇÃO POSITIVA DO CONTRATO. OFENSA AO PRINCÍPIO DA BOA-FÉ OBJETIVA. DANO MORAL E MATERIAL CARACTERIZADOS. VALOR DA INDENIZAÇÃO. JUROS DE MORA DESDE A CITAÇÃO. MANUTENÇÃO. SENTENÇA MANTIDA.
+1. A teor do entendimento jurisprudencial majoritário, para a rescisão unilateral do contrato de plano de saúde por falta de pagamento, nos moldes do artigo 13, parágrafo único, II, da Lei 9.656/98, imprescindível a notificação prévia, pessoal e inequívoca do consumidor. 2. A rescisão abrupta do plano de saúde individual ofende os princípios da boa fé objetiva, da cooperação, da confiança e da lealdade que deve orientar a interpretação dos contratos que regulam relações de consumo, o que caracteriza violação positiva do contrato celebrado entre as partes, por descumprimento dos deveres anexos de proteção derivados da boa-fé objetiva. 3. A despeito da possibilidade da rescisão unilateral do plano de saúde, imprescindível a notificação do usuário, conforme reconhece o Superior Tribunal de Justiça. 4. O cancelamento repentino do plano de saúde pela empresa traduz-se em verdadeiro abalo moral, porquanto desatendidos os requisitos estabelecidos na lei de regência, causando aflição psicológica e angústia à segurada. 5. A fixação da indenização dos danos materiais deve ser mantida, pois levados em conta os gastos decorrentes pela consumidora durante o período que estava desamparada do plano de saúde. 6. Os danos morais devem ser mantidos no montante arbitrado, pois, malgrado o ilícito contratual tenha se configurado, a atitude do plano de saúde lastreia-se em dúvida jurídica razoável. 7. Juros de mora devem incidir, no caso, desde a citação. APELAÇÕES CÍVEIS CONHECIDAS. PRIMEIRA, DESPROVIDA. SEGUNDA, PARCIALMENTE, PROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 424-432).
+No recurso especial, a parte recorrente alega divergência jurisprudencial com arestos de outros tribunais e do próprio TJGO em relação ao art. 13, parágrafo único, II, da Lei 9.656/1998.
+Foram oferecidas contrarrazões ao recurso especial (fls. 483-484).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 490-493), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 508-509).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida.
+Da análise das razões do recurso especial, verifica-se que a recorrente se limita a alegar divergência jurisprudencial quanto à necessidade de a notificação de rescisão contratual ser pessoal, deixando, contudo, de impugnar o fundamento do acórdão recorrido, segundo o qual, mesmo após as alegadas notificações de rescisão, o plano de saúde continuou a encaminhar boletos bancários referentes às mensalidades subsequentes, gerando legítima expectativa de continuidade dos serviços (fl. 393).
+Tal omissão atrai a incidência da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CANCELAMENTO. INADIMPLEMENTO. NOTIFICAÇÃO PESSOAL. NÃO REALIZADA. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 283 DO STF, POR ANALOGIA. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. DANOS MORAIS. CARACTERIZADOS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. A resilição unilateral do plano de saúde, mediante prévia notificação, não obstante seja em regra válida, revela-se abusiva quando realizada durante o tratamento médico que possibilite a sobrevivência ou a manutenção da incolumidade física do beneficiário ou dependente.
+2. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+3. Para derruir a análise do Tribunal recorrido sobre a configuração dos danos morais é necessária a revisitação do conjunto fático-probatório, o que não encontra amparo na estreita via do recurso especial, a teor da Súmula nº 7 do STJ. Precedentes.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
+(AREsp n. 2.777.450/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO UNILATERAL. NOTIFICAÇÃO. VENIRE CONTRA FACTUM PROPRIUM. FUNDAMENTO INATACADO. SÚMULA 284/STF. AGRAVO IMPROVIDO.
