@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ADIVALDO BISPO DOS SANTOS contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no Agravo em Execução Penal n. 0002407-94.2025.8.26.0521.
+Consta dos autos que o juízo das execuções concedeu ao paciente a progressão de regime para o semiaberto.
+Houve a interposição de recurso de agravo ministerial, o qual foi provido, determinando o retorno do agravado ao regime fechado e a realização de exame criminológico por equipe multidisciplinar, em acórdão assim ementado (fl. 5):
+AGRAVO EM EXECUÇÃO - RECURSO MINISTERIAL - IRRESIGNAÇÃO CONTRA DECISÃO QUE DEFERIU PEDIDO DE PROGRESSÃO PARA O REGIME SEMIABERTO SEM A SUBMISSÃO DO CONDENADO AO EXAME CRIMINOLÓGICO - PROVIMENTO - Tendo em vista as circunstâncias concretas do caso, que demonstram situação excepcional, de rigor a realização do exame criminológico para, assim, poder apurar, de forma segura, a presença do requisito de ordem subjetiva para a concessão da progressão de regime. Agravo provido, para cassar a decisão, determinando o retorno do agravado ao cumprimento da pena no regime fechado e que ele seja submetido ao exame criminológico por equipe multidisciplinar e, após, com a manifestação dos interessados, seja o pedido de progressão de regime reapreciado pelo Juízo a quo.
+No presente writ, requer a defesa que seja restabelecida a decisão que deferiu a progressão de regime ao paciente, ao argumento de que ele " c umpriu o lapso temporal para a concessão do benefício, possui bom comportamento carcerário e não cometeu falta grave recente (não reabilitada)" (fl. 3), não havendo elementos que demonstrassem a necessidade da realização de exame criminológico.
+A liminar foi indeferida (fls. 47-48).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento ou denegação da ordem, em parecer assim sumariado (fl. 72):
+EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. EXIGÊNCIA DEVIDA. CASO CONCRETO. PECULIARIDADES. SÚMULA N.º 439/STJ. APLICAÇÃO.
+1. Ausente flagrante ilegalidade, é indevido o uso do writ na hipótese vertente em que era cabível o manejo de revisão criminal, uma vez transitada em julgado a decisão impugnada.
+2. O aresto desafiado apresentou fundamentação idônea para justificar a realização de exame criminológico para a progressão de regime do paciente, lastreada na reincidência específica, falta disciplinar de natureza grave por ele cometida durante a execução da pena, consistente em abandono/não retorno de saída temporária, além de não ter desenvolvido, recentemente, quaisquer atividades relacionadas a trabalho e estudo.
+3. Consoante espelha a Súmula n.º 439/STJ, o exame criminológico é de uso restrito, só admitido com base nas peculiaridades que o justifiquem, consoante demonstrado no caso concreto.
+Parecer pelo não conhecimento da ordem e, caso conhecida, pela sua denegação.
+É o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder"
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica, de plano, nenhuma violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente.
+É que houve justificativa idônea para submeter o paciente, antes da progressão, ao exame criminológico, consoante se verifica (fls. 8-9):
+E, "in casu", muito embora o acusado tenha preenchido o requisito objetivo e apresente bom comportamento durante a execução da pena, de acordo com o atestado de comportamento carcerário de fls. 15, consta dos autos que o sentenciado, é reincidente específico e cumpre pena total de 06 anos, 09 meses e 20 dias de reclusão, por delito de tráfico de entorpecentes, sendo este delito equiparado a hediondo. Além disso, durante a execução, praticou falta disciplinar de natureza grave, consistente em abandono/não retorno de saída temporária, conduta pela qual responde a novo processo administrativo, ainda em andamento (fls. 19), bem como não consta dos autos que o sentenciado tenha recentemente desenvolvido quaisquer atividades relacionadas a trabalho e estudo (fls. 16/20).
+Desta forma, independentemente da discussão acerca da constitucionalidade da Lei nº 14.843/24, tratando-se de uma situação excepcional, entendo que a hipótese justifica uma maior cautela.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
