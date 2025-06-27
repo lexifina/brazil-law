@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAROS TRANSPORTES E COMÉRCIO LTDA., com fundamento no art. 105, III, alínea "a", da CF, contra acórdão do Tribunal Regional da 4ª Região, assim ementado (fl. 351):
+TRIBUTÁRIO. CRÉDITOS DE PIS-PASEP E COFINS SOBRE O ICMS DESTACADO NAS NOTAS FISCAIS DE AQUISIÇÃO. REGIME NÃO CUMULATIVO. IMPOSSIBILIDADE.
+Os valores de ICMS destacados nas notas fiscais de aquisição não geram créditos a descontar na apuração das bases de cálculo das contribuições para PIS-PASEP e COFINS no regime não cumulativo, diante da previsão expressa do inciso III do parágrafo 2º do artigo 3º, dispositivos idênticos nas Leis 10.637/2002 e 10.833/2003 incluídos pela Lei 14.592/2023. Constitucionalidade afirmada. Precedentes.
+Em suas razões, a recorrente aponta violação aos artigos 1º e 3º, das Leis nº 10.637/2002 e 10.833/2003, o artigo 13, § 1º, I, da Lei Complementar nº 87/96 e artigo 110 do CTN.
+Pretende, em suma, assegurar o direito ao creditamento de PIS e COFINS sobre o valor do ICMS destacado nas notas fiscais de entrada, afastando as alterações promovidas pela Medida Provisória nº 1.159/2023 e pela Lei nº 14.592/2023.
+Foram apresentadas contrarrazões às fls. 467/476.
+O recurso especial foi admitido (fl. 485).
+É o relatório.
+A Primeira Seção desta Corte, ao apreciar os Recursos Especiais 2150097/CE, 2150894/SC, 2151146/RS e 2150848/RS, decidiu submeter à sistemática dos recursos repetitivos questão jurídica relacionada à possibilidade de apuração de créditos de PIS /COFINS em regime não cumulativo sobre o valor do ICMS incidente sobre a operação de aquisição, à luz do disposto no art. 3º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/2023.
+O julgado produzido na proposta de afetação relacionada ao Tema 1364, sob a relatoria do Ministro Paulo Sérgio Domingues, foi assim resumido:
+PROCESSUAL CIVIL - TRIBUTÁRIO - CONTROVÉRSIA ACERCA DAS CONTRIBUIÇÕES AO PIS/PASEP E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES AO ICMS PRÓPRIO APÓS A PROMULGAÇÃO DA LEI 14.592/2023 - QUESTÃO DE DIREITO - MULTIPLICIDADE DE CAUSAS PARELHAS - RECURSO SELECIONADO COMO REPRESENTATIVO DE CONTROVÉRSIA - AFETAÇÃO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Delimitação da controvérsia: "possibilidade de apuração de créditos de PIS/COFINS em regime não cumulativo sobre o valor do ICMS incidente sobre a operação de aquisição, à luz do disposto no art. 3º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/2023".
+2. A questão aqui identificada difere daquela que já foi objeto de afetação sob a relatoria do Ministro Mauro Campbell Marques no EREsp 1.959.571/RS e nos REsps 2.075.758/ES e 2.072.621/SC (Tema Repetitivo 1.231/STJ). Nesses casos, cuidava-se de discussão jurídica referente à possibilidade de creditamento, no âmbito do regime não-cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição (ICMS-ST) e aqui, trata-se do creditamento no ICMS próprio após a promulgação da Lei 14.592/2023.
+3. O STF decidiu que a matéria é infraconstitucional. Consequente superação do óbice de admissibilidade do recurso especial pela fundamentação constitucional do acórdão recorrido.
+4. Existência de multiplicidade de causas parelhas a espelhar a mesma controvérsia.
+5. Afetação do recurso especial ao regime dos recursos repetitivos.
+(ProAfR no REsp n. 2.150.894/SC, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 17/6/2025, DJEN de 24/6/2025.)
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma sobrestados no Tribunal de origem, até o final do julgamento qualificado, viabilizando, assim, o juízo de conformação, nos termos dos arts. 1.040 e 1.041 do CPC.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema 1364), realize o juízo de adequação.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO.  PIS E COFINS. REGIME NÃO CUMULATIVO. VALORES REFERENTES AO ICMS PRÓPRIO APÓS A PROMULGAÇÃO DA LEI 14.592/202. CREDITAMENTO. TEMA 1364. SUSPENSÃO DA TRAMITAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
