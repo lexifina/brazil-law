@@ -1,0 +1,57 @@
+DECISÃO
+VERA LUCIA GOMES MONTEIRO e AGAMENON SOARES agravam de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0000261-50.2010.8.14.0130.
+Os agravantes foram condenados a 5 anos mais multa, no regime semiaberto, pelo delito de tráfico de drogas.
+Nas razões do recurso especial, a defesa alega violação dos arts. 381 e 619, do Código de Processo Penal e 33, § 4º, da Lei n. 11.343/2006.
+Em síntese, sustenta omissão no julgado recorrido que não examinou pontos relevantes ao deslinde da causa indicados pela parte.
+Requer a incidência da minorante do tráfico privilegiado.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Ofensa ao art. 619 do CPP - não configurada
+A Corte local rejeitou os embargos de declaração pelos seguintes argumentos (fl. 465, grifei):
+Ocorre que da análise dos autos é possível aferir que o acórdão que deixou de prover o recurso de apelação, assentou-se na premissa de que os elementos de prova carreados aos autos são suficientes para embasar um decreto condenatório, em razão da existência de prova material e oral colhida no curso do processo e que sustenta a autoria e materialidade dos fatos imputados ao apelado, pelo que a sentença condenatória deve ser mantida por seus próprios fundamentos fático-probatórios.
+Saliento que o reconhecimento dos dispositivos tidos como violados pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade que tragam prejuízo à defesa.
+A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo Tribunal local, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+Sob essas premissas, contrariamente ao alegado pelo agravante, verifico não existir o vício apontado.
+No caso, a insurgente, perante o colegiado estadual, sustentou que o acórdão não teria analisado todos os pontos elencados no recurso, relacionados aos dispositivos tidos como violados.
+Pela atenta leitura dos acórdãos proferidos pela Corte local, não observo a apontada nulidade do acórdão por ausência de motivação, pois o Tribunal de origem indicou, nitidamente, os motivos de fato e de direito em que se fundou para solucionar cada ponto tido como omisso pelos recorrentes, a teor do art. 381, III, do CPP. Isso porque destacou, minuciosamente, que as provas apresentadas nos autos, especialmente da confissão espontânea, são suficientes para comprovação da prática do delito de tráfico de drogas.
+Lembro que não há violação do art. 619 do CPP se o aresto objeto do recurso especial contém razões de decidir coerentes com seu dispositivo, dirimiu todas as questões relevantes para o deslinde da ação penal à luz das particularidades do caso concreto, de forma a viabilizar o controle sobre a atividade jurisdicional.
+No caso, a se constatar que a Corte de origem indicou os elementos do processo que dão lastro à conclusão adotada, não se identifica a apontada afronta ao dispositivo infraconstitucional.
+Logo, o que se vê é a insatisfação com o resultado trazido na decisão, o que não significa prestação jurisdicional insuficiente ou viciada pelos vetores contidos no art. 619 do CPP. Nessa perspectiva:
+ ..
+2. Nos termos da jurisprudência deste Corte Superior, "não há falar em ofensa ao art. 619 do Código de Processo Penal se todas as questões necessárias ao deslinde da controvérsia foram analisadas e decididas, ainda que de forma contrária à pretensão do recorrente, não havendo nenhuma omissão ou negativa de prestação jurisdicional." (AgRg no Ag 850.473/DF, Rel. Min. ARNALDO ESTEVES LIMA, QUINTA TURMA, DJ 07/02/2008)
+ ..
+(AgRg no AREsp n. 423.892/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 10/11/2014.)
+II. Minorante prevista no art. 33, § 4º, da Lei de Drogas
+Para  a  aplicação  da  minorante  em  comento,  são  exigidos,  além  da  primariedade  e  dos  bons  antecedentes  do  acusado,  que  este  não  integre  organização  criminosa  e  que  não  se  dedique  a  atividades  delituosas.  Isso  porque  a  razão  de  ser  da  causa  especial  de  diminuição  de  pena  prevista  no  art.  33,  §  4º,  da  Lei  n.  11.343/2006  é  justamente  punir  com  menor  rigor  o  pequeno  traficante,  ou  seja,  aquele  indivíduo  que  não  faz  do  tráfico  de  drogas  o  seu  meio  de  vida;  antes,  ao  cometer  um  fato  isolado,  acaba  incidindo  na  conduta  típica  prevista  no  art.  33  da  mencionada  lei  Federal.
+A  propósito,  confira-se  o  seguinte  trecho  de  voto  deste  Superior  Tribunal: " A  mens  legis  da  causa  de  diminuição  de  pena  seria  alcançar  os  condenados  neófitos  na  infausta  prática  delituosa,  configurada  pela  pequena  quantidade  de  droga  apreendida,  e  serem  eles  possuidores  dos  requisitos  necessários  estabelecidos  no  art.  33,  ss  40,  da  Lei  nº  11.343/06."  (AgRg  no  RESP  n.  1.389.632/RS,  Rel.  Ministro  Moura  Ribeiro,  5ª  T,  DJe  14/4/2014).
+O Tribunal de origem negou a incidência da causa de diminuição do tráfico privilegiado, com base nos seguintes fundamentos (fl. 435, grifei):
+Diante desse contexto, observa-se, conforme fundamentado na sentença do Magistrado a quo que os apelantes adotaram como forma de vida a atividade profissional a mercancia e comercialização de substância entorpecente, como pode-se extrair dos depoimentos uníssimos e desinteressados dos policiais ouvidos em Juízo e suas confissões. O requisito da dedicação à atividade criminosa não se encontra ausente no caso concreto, constado que foi, com base na quantidade de droga apreendida em sua posse, de que estava fazendo da traficância o seu modo de vida, logo, não preenchem os requisitos autorizadores à concessão do privilégio pleiteado, previsto no art.33, §4º, da Lei 11.343/06. Não há como aplicar a aludida benesse aos apelantes.
+Registro que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+No caso, a negativa do redutor foi lastreada na suposição de que os réus se dedicariam, de modo habitual, ao comércio espúrio, conclusão baseada no fato de que houve a apreensão de aproximadamente 5,22 g de cocaína.
+Todavia, a quantidade não expressiva de droga não é elemento idôneo para negar a aplicação do redutor.
+Além disso, observo que não foram indicadas circunstâncias concretas para negar a incidência do redutor, especialmente diante da primariedade e dos bons antecedentes da acusada, reconhecidos expressamente pela instância ordinária
+Consequentemente, uma vez que, no caso, a quantidade de droga apreendida foi sopesada, isoladamente (ou seja, sem nenhum outro fundamento idôneo), para levar à conclusão de que haveria a dedicação a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima, de modo que deve ser provido o recurso, a fim de aplicar o benefício do do art. 33, § 4º, da Lei n. 11.343/2006.
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Considerando que é pequena a quantidade de drogas apreendidas (5,22 g de cocaína), aplico a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas no patamar de 2/3.
+Apenas  por cautela,  friso  que,  especificamente  no  caso  dos  autos,  a  conclusão  pela  possibilidade  de  aplicação  da  referida  minorante  não  demanda  o  revolvimento  de  matéria  fático-probatória,  procedimento  vedado  na  via  estreita  do  habeas  corpus.
+O  caso  em  análise,  diversamente,  requer  apenas  a  revaloração  de  fatos  incontroversos  que  já  estão  delineados  nos  autos  e  das  provas  que  já  foram  devidamente  colhidas  ao  longo  de  toda  a  instrução  probatória,  bem  como  a  discussão,  meramente  jurídica,  acerca  da  interpretação  a  ser  dada  sobre  os  fundamentos  apontados  pelo  Tribunal  de  origem  para  negar  ao  réu  a  incidência  da  causa  especial  de  diminuição  de  pena  prevista  no  §  4º  do  art.  33  da  Lei  n.  11.343/2006.
+III.  Nova  dosimetria
+Assim, uma vez que a quantidade de drogas não é expressiva e não constitui, isoladamente, fundamento idôneo para negar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, deve, portanto, ser redimensionada a sanção.
+Na primeira fase, fica a pena-base estabelecida no mínimo legal. Na segunda etapa, ausentes agravantes e atenuantes. Na terceira etapa, reconhecida a causa especial de diminuição descrita no § 4º do art. 33 da Lei n. 11.343/2006, reduz-se a pena na fração de 2/3.
+Assim, torno a condenação dos réus definitivamente estabelecida em 1 ano e 8 meses de reclusão e 166 dias-multa.
+IV. Prescrição configurada
+A redução da reprimenda reconhecida nesta Corte enseja o reconhecimento de causa extintiva da punibilidade, consistente na prescrição da pretensão punitiva da infração prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Consoante o disposto no art. 109, V, do CP, o prazo prescricional é de 4 anos.
+Logo, decorrido o aludido lapso entre o recebimento da denúncia (7/4/2010 - fl. 378) e a publicação da sentença condenatória (22/4/2019 - fl. 385), verifica-se a ocorrência da extinção da punibilidade.
+V. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento parcial ao recurso especial a fim de reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e, por conseguinte, decreto a extinção da punibilidade pela prescrição da pretensão punitiva em relação aos réus VERA LUCIA GOMES MONTEIRO e AGAMENON SOARES.
+Determino a imediata expedição de alvará de soltura em favor dos acusados se por outro motivo não estiverem presos.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
