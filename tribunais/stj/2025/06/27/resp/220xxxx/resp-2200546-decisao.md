@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS PORTO SOUZA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da Apelação Criminal n. 1516945-37.2020.8.26.0050, assim ementado (fl. 312):
+APELAÇÃO CRIMINAL. Receptação culposa. Sentença condenatória. Insurgência ministerial objetivando a condenação nos termos da denúncia. Conjunto probatório que fornece certeza quanto à autoria e materialidade do crime previsto no artigo 180, caput, do Código Penal. Réu que não se desincumbiu do ônus de provar a origem lícita do veículo ou a inexistência de dolo. Necessidade de reversão do julgado. Dosimetria. Pena-base fixada no mínimo legal. Réu reincidente. Atenuante da confissão espontânea afastada. Acusado que tentou eximir-se de sua responsabilidade e não cooperou para o esclarecimento integral do delito. Regime semiaberto. Descabidos os benefícios estipulados nos artigos 44 e 77 do Código Penal. Sentença reformada. RECURSO PROVIDO.
+Consta dos autos que o recorrente foi condenado à pena de 01 (um) ano e 02 (dois) meses de reclusão, em regime inicial semiaberto, e pagamento de 11 (onze) dias-multa, pela prática do crime previsto no art. 180, caput, do Código Penal.
+Nas razões do recurso especial, a parte alega que o acórdão recorrido contrariou as normas previstas no art. 44, §3º, do Código Penal, ao não substituir a pena privativa de liberdade por restritiva de direitos, mesmo diante da reincidência não específica do réu (fls. 335-340 e 374-379).
+Defende que a reincidência que afasta a aplicação do artigo 44, §3º, do Código Penal deve ser específica (fls. 339-340).
+Contrarrazões às fls. 402-413.
+O recurso especial foi admitido (fls. 416-419).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 432-438).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais, passo ao exame do recurso especial.
+Acerca da controvérsia dos autos, o Tribunal de origem manifestou-se nos seguintes termos (fls. 311-312):
+O MM. Juízo de primeiro grau fixou o regime prisional aberto. Contudo, assiste razão ao representante do Ministério Público quando pretende a aplicação do regime semiaberto para início de cumprimento de pena, haja vista que o réu é reincidente, a revelar que a condenação anterior não foi suficiente para reeducá-lo, a justificar resposta enérgica, em conformidade com o artigo 33, §§ 2º e 3º, do Código Penal. Pelo mesmo motivo, conclui-se descabidos benefícios estipulados nos artigos 44 e 77 do Código Penal.
+No tocante ao pleito de substituição da pena, o art. 44, § 3º, do Código Penal dispõe que as penas restritivas de direitos poderão ser substituídas por privativas de liberdade, desde que a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+Entendendo a Corte a quo, de forma motivada, conforme excerto acima transcrito, que a modificação da pena corporal por restritiva de direitos não é socialmente recomendável, a inversão de tal conclusão demandaria, necessariamente, nova incursão nas provas dos autos, o que é incabível na via eleita devido ao óbice da Súmula n. 7/STJ.
+A propósito:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. NÃO OCORRÊNCIA. AUTORIA E MATERIALIDADE COMPROVADAS. ACERVO PROBATÓRIO DOCUMENTAL E PERICIAL CORROBORADO POR OUTROS ELEMENTOS DE PROVA. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. PEDIDO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. DESCABIMENTO. REINCIDÊNCIA EM CRIME DOLOSO. MEDIDA NÃO RECOMENDÁVEL. INEXISTÊNCIA DE ILEGALIDADE. IMPOSSIBILIDADE DE ALTERAÇÃO DAS CONCLUSÕES DA INSTÂNCIA ORDINÁRIA. SÚMULA 7/STJ.
+(..)
+2. Não há violação do art. 44, § 3º, do Código Penal, porque, no caso, embora a reincidência não seja específica, o ora agravante é reincidente na prática de crime doloso, com o emprego de grave ameaça contra vítima, o que, nos termos do referido dispositivo legal, obsta a substituição da pena privativa de liberdade por restritiva de direitos. Precedentes.
+3. O Tribunal a quo concluiu que, no caso dos autos, não é socialmente recomendável a substituição da pena privativa. Portanto, a inversão do julgado demandaria, necessariamente, nova incursão nas provas e fatos que instruem o caderno processual, desiderato esse incabível na via estreita do recurso especial (Súmula 7/STJ).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.199.138/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023 - grifamos)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. 1) SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ART. 44, § 3º, DO CÓDIGO PENAL - CP. 2) REINCIDÊNCIA NÃO ESPECÍFICA. MEDIDA QUE NÃO SE MOSTRA SOCIALMENTE RECOMENDÁVEL. 3) REVISÃO DE ENTENDIMENTO QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 4) AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 44, § 3º, do Código Penal admite a substituição a pena privativa de liberdade por restritiva de direitos a reincidentes, desde que, em face da condenação anterior, a medida seja socialmente recomendada e a reincidência não tenha se operado em razão da prática do mesmo delito (reincidência não específica).
+2. No caso dos autos, embora o recorrente seja reincidente não específico e a pena-base tenha sido fixada no mínimo legal, entendeu-se que a substituição da pena não se mostra medida socialmente recomendável, uma vez que o acusado receptou veículo automotor, bem de elevado valor e ao fugir danificou telhado de uma residência ao lado. Ademais, tem contra si feito envolvendo homicídio tentado. Tais circunstâncias tornam não recomendável a substituição (fl. 286).
+3. Tendo as instâncias ordinárias, diante da discricionariedade motivada, concluído que a substituição da pena corporal por restritiva de direitos não se mostra socialmente recomendável, a inversão do entendimento firmado pelas instâncias ordinárias demandaria o reexame do conteúdo fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+4. Agravo desprovido.
+(AgRg no AREsp n. 1.898.739/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
