@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de SANDRO BASILIO DO NASCIMENTO - condenado como incurso nos crimes de estelionato e participação em organização criminosa (Ação Penal n. 0111101-34.2023.8.19.0001) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente na condenação imposta pelo Juízo de Direito da 1ª Vara Criminal Especializada da comarca da Capital/RJ, ao argumento de que as provas trazidas aos autos não comprovam a estruturação do grupo ou divisão de funções, razão pela qual postula a desclassificação do art. 288 do Código Penal para o delito de associação criminosa. Subsidiariamente, pede a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, a pretensão como colocada na impetração, de que sejam reanalisadas as provas produzidas durante a instrução, para alcançar conclusão inversa do Juízo de conhecimento, importa em profunda incursão probatória, providência inviável na via estreita do habeas corpus.
+Ademais, a fixação da pena-base observou os parâmetros do art. 59 do Código Penal, com fundamentação concreta e idônea para as circunstâncias desfavoráveis de consequências e culpabilidade do crime, apontando que o relato das autoridades policiais e lesados revela que a orcrim operava há muito tempo, anos, com muitos agentes, fazendo múltiplas vítimas que perderam elevado dinheiro na compra de celulares roubados que acreditaram ser produto lícito, tendo os agentes se valido, inclusive, de notas fiscais falsas (fl. 121), constituindo fundamentação adequada de acordo com vasta jurisprudência desta Corte Superior de Justiça.
+No mesmo sentido: AgRg no HC n. 900.528/GO, Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/9/2024.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ESTELIONATO E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. REVISÃO DA CONDENAÇÃO TRANSITADA EM JULGADO. INADMISSIBILIDADE. PRETENSÃO DE ABSOLVIÇÃO. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
