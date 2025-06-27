@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DISTRIBUIDORA PINHEIRÃO PEÇAS AUTOMOTIVAS LTDA. - EPP - à decisão monocrática que determinou a devolução dos autos ao Tribunal de origem, nos termos da seguinte ementa (e-STJ, fl. 304):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TEMA 1062. ÍNDICES DE CORREÇÃO MONETÁRIA E TAXA DE JUROS DE MORA DE CRÉDITOS TRIBUTÁRIOS. NECESSIDADE DE ADEQUAÇÃO. REDUÇÃO DO VALOR EXECUTADO. ACOLHIMENTO PARCIAL. EXTINÇÃO PARCIAL DA EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS DEVIDOS. PLEITO DE FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS POR APRECIAÇÃO EQUITATIVA. TEMA AFETADO EM REPERCUSSÃO GERAL NO STF. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+A embargante, em suas razões, alega, em síntese, que "a decisão embargada foi omissa ao sobrestar o caso sem apreciar a questão de que o valor da condenação sucumbencial não representa valor exorbitante, não cabendo a aplicação da tese que será firmada no Tema 1255 do STF (RE 1.412.069)" (e-STJ, fl. 314).
+Assevera, ainda, que "não foram apreciados pontos substanciais ao caso, quais sejam, a ausência de determinação de suspensão nacional dos processos do referido tema do STF, bem como a impossibilidade de discussão de questão constitucional em sede de Recurso Especial" (e-STJ, fl. 313).
+Requer, ao final, o acolhimento dos embargos de declaração, com efeitos modificativos, para determinar o prosseguimento dos autos e a análise do mérito do agravo em recurso especial interposto.
+Impugnação apresentada (e-STJ, fls. 327-328).
+Brevemente relatado, decido.
+Os embargos de declaração não merecem acolhida.
+De início, registre-se que "a decisão de retorno dos autos ao tribunal de origem, a fim de que lá seja exercido o juízo de conformidade (arts. 1.040 e 1.041 do CPC/15), não possui carga decisória, sendo portanto irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente" (EDcl nos EDcl no AgInt no AREsp n. 1.738.572/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022), o que não ocorreu no caso em comento.
+Ilustrativamente (sem grifo no original):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMA AFETADO AO RITO DOS RECURSOS REPETITIVOS. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA AGUARDAR O JULGAMENTO. IRRECORRIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1.É irrecorrível a decisão que determina o sobrestamento ou devolução dos autos à origem, em razão da pendência de julgamento de tema submetido à sistemática de recursos repetitivos ou repercussão geral, salvo se demonstrado equívoco na identificação do tema, o que não ocorreu. Precedentes.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.750.194/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 9/4/2025, DJEN de 22/4/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SOBRESTAMENTO. TEMA 1.076/STJ. DEVOLUÇÃO DOS AUTOS À ORIGEM. IRRECORRIBILIDADE.
+1. A decisão que determina a devolução dos autos à origem, a fim de que lá seja exercido o juízo de retratação antes da apreciação do respectivo recurso especial pelo STJ, não possui carga decisória e não acarreta prejuízo às partes. Por isso, é provimento irrecorrível. Precedentes.
+2. Agravo interno não conhecido.
+(AgInt no REsp n. 1.816.085/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/6/2021, DJe de 2/8/2021.)
+Na espécie, percebe-se que a embargante alega que "a decisão embargada foi omissa ao sobrestar o caso sem apreciar a questão de que o valor da condenação sucumbencial não representa valor exorbitante, não cabendo a aplicação da tese que será firmada no Tema 1.255 do STF (RE 1.412.069)" (e-STJ, fl. 314).
+Ora, verifica-se que a irresignação não merece acolhida, em virtude de que a questão relativa ao valor da condenação sucumbencial, se representa, ou não, quantia exorbitante, também pode ser formulada no juízo a quo.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TEMA 1.076/STJ. NÃO SUSPENSÃO. ART. 1.037 DO CPC. DEVOLUÇÃO À ORIGEM. POSSIBILIDADE.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+2. Com efeito, a determinação de devolução do Recurso Especial para que se aguarde novo juízo de admissibilidade após o julgamento da Repercussão Geral funda-se na racionalidade do sistema processual, que preza pela uniformidade de julgamento sobre a mesma matéria nas Cortes de Justiça (art. 1.039 do CPC/2015).
+3. Outrossim, a suspensão do processamento dos feitos por força do art. 1.037, II, do CPC é uma providência que pode ser aplicada às instâncias ordinárias e, portanto, não tem correspondência com a ordem de devolução dos autos à origem, realizada pelo relator no Superior Tribunal de Justiça, em virtude da afetação de matéria ao Regime dos Recursos Repetitivos.
+4. Ainda que não vedado o seguimento dos processos nessa seara, o exame do Recurso Especial antes do julgamento realizado nos termos dos arts. 1.036 e seguintes do Código de Processo Civil daria azo à prolatação de decisões conflitantes e colocaria em risco tanto a eficiência quanto a economia processual.
+5. A mesma lógica deve ser aplicada para as teses que, embora submetidas à sistemática dos Recursos Repetitivos, não tiveram os respectivos processos suspensos. Afinal, a técnica de devolução dos autos à origem só alcança os feitos já tramitados nas instâncias inferiores e, tal como no outro caso de suspensão, não produz prejuízo algum às partes, além de racionalizar a atuação do sistema judicial como um todo.
+6. Dessarte, conforme a jurisprudência do STJ, havendo o reconhecimento de Repercussão Geral, ou afetação para julgamento como Repetitivo de Recurso Especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria-paradigma. Nesse sentido: AgInt nos EDcl no AREsp 1.131.306/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 15.2.2019; AgInt no REsp 1.615.887/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 12.2.2019.
+7. Ademais, tal decisão de devolução dos autos à origem é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+8. Precedente da Segunda Turma do STJ determinando a mesma medida em relação a Recurso Especial cuja controvérsia corresponde ao Tema 1.076/STJ, caso dos autos.
+9. Agravo Interno não provido.
+(AgInt nos EDcl no REsp n. 1.908.955/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2021, DJe de 4/11/2021.)
+Ademais, destaca-se que, "caso a matéria veiculada no apelo nobre tenha a repercussão geral reconhecida pelo Supremo Tribunal Federal, a devolução dos autos à origem pode ser feita ainda que não tenha havido simultânea interposição de recurso extraordinário e "independe de determinação de sobrestamento pelo relator do processo no STF" (AgInt nos EDcl no AgInt no AREsp n. 906.819/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2019, DJe de 16/9/2019).
+Dessa forma, ausentes quaisque r dos vícios ensejadores da oposição dos embargos de declaração, permanece incólume a decisão ora embargada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TEMA N. 1.062. ÍNDICES DE CORREÇÃO MONETÁRIA E TAXA DE JUROS DE MORA DE CRÉDITOS TRIBUTÁRIOS. NECESSIDADE DE ADEQUAÇÃO. REDUÇÃO DO VALOR EXECUTADO. ACOLHIMENTO PARCIAL. EXTINÇÃO PARCIAL DA EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS DEVIDOS. PLEITO DE FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS POR APRECIAÇÃO EQUITATIVA. TEMA AFETADO EM REP ERCUSSÃO GERAL NO STF. TEMA N. 1.255/STF. DEVOLUÇÃO DOS AUTOS À ORIGEM. DECISÃO IRRECORRÍVEL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
