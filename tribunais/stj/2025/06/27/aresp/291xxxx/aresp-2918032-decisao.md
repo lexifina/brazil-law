@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de Agravo apresentado por NORMA SILVEIRA DOS SANTOS e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ/AUXÍLIO-DOENÇA. REQUISITOS NÃO PREENCHIDOS. DOENÇA PREEXISTENTE. BENEFICIO NÃO CONCEDIDO.
+1. A concessão de aposentadoria por invalidez reclama que o requerente seja segurado da Previdência Social, tenha cumprido o período de carência de 12 (doze) contribuições, e esteja incapacitado, total e definitivamente, ao trabalho (art. 201, I, da CR/88 e arts. 18, I, "a"; 25, I e 42 da Lei nº 8.213/91). Idênticos requisitos são exigidos à outorga de auxílio-doença, cuja diferença centra-se na duração da incapacidade (arts. 25, I, e 59 da Lei nº 8.213/91).
+2. No que se refere ao requisito da incapacidade, o laudo pericial realizado em 03/03/2023, atestou ser a autora com 65 anos portadora de má formação congênita, com paraplegia, sequela de mielomeningocele, estando incapacitada de forma total e permanente, sendo a enfermidade congênita, com agravamento em 04/2011.
+3. Assim, em consulta ao extrato do sistema CNIS/DATAPREV, verifica-se que a autor ingressou no regime geral posteriormente a 04/07/1991, possui registro no período de 01/02/2008 a 04/2008, e verteu contribuição previdenciária no interstício de 03/2011 a 09/2011.
+4. Assim, as informações extraídas do Cadastro Nacional de Informações Sociais - CNIS, cujos extratos encontram-se acostado aos autos, dão conta que a requerente ingressou ao sistema previdenciário em 02/2008 quando possuía 50 (cinquenta) anos e posteriormente em 03/2011, quando já contava com 52 (cinquenta e dois) anos, ademais, forçoso concluir que a segurada já não se encontrava incapaz no momento de sua nova filiação à Previdência Social.
+5. Portanto, sendo a enfermidade preexistente à nova filiação do segurado ao Regime Geral de Previdência Social, indevido o benefício pleiteado.
+6. Apelação provida (fl. 668).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente aduz ofensa e divergência jurisprudencial em relação aos arts. 42, § 2º e 59, § 1º e Lei n. 8.213/91, no que concerne à necessidade de concessão de aposentadoria por invalidez, sob o fundamento de que o agravamento de doença preexistente ocorreu após a filiação da parte recorrente ao RGPS. Traz a seguinte argumentação:
+Data máxima vênia, o Tribunal equivoca-se ao indeferir o benefício sob justificativa: "de ser a enfermidade preexistente à filiação da segurada ao Regime Geral de Previdência.". Isto, pois, a legislação não veda concessão do benefício em caso de enfermidade preexistente, apenas em caso de incapacidade preexistente.
+Os mesmos dispositivos invocados para negar o benefício, preveem exceção em caso de agravamento da doença que é o caso da Recorrente.
+Contudo, tal entendimento implica em clara ofensa à legislação federal supracitada, uma vez que reconhecido início de incapacidade durante período qual há qualidade de segurado, não há que se falar em doença preexistente a fim de obstar a concessão do benefício.
+No caso da autora, o perito destacou que, como complicações, apresentou osteomielite, síndrome de Fournier em região pélvica, evoluindo com paraparesia crural, bexiga neurogênica, com uso de sonda de alívio e fralda geriátrica. Salientou, ainda, que a incapacidade decorreu de agravamento da doença.
+Com efeito, embora a doença tenha se iniciado antes de 2008, somente com o seu agravamento adveio a incapacidade, cuja data de início foi fixada em 03/2008. Se assim não fosse, a autora não teria exercido atividade laborativa no período de 01/02/2008 a 04/2008. Desse modo, a parte autora detinha qualidade de segurada.
+Este Egrégio Tribunal Superior já analisou casos semelhantes concluindo exatamente pela possibilidade de concessão do benefício quando demonstrado agravamento da doença ainda que preexistente desde que a incapacidade seja posterior à filiação:
+ ..
+Contudo, em que pese o grande saber jurídico dos doutos Desembargadores, cabe salientar, com a devida vênia, que a Recorrente entende que a medida adotada pelo juízo está em desacordo com os preceitos basilares de nosso ordenamento jurídico pátrio, motivo qual interpôs, tempestivamente o presente Recurso, vez que, violado os Artigos no art. 59, § 1º e art. 42, § 2º, ambos da Lei 8.213/91.
+ ..
+Com efeito, o acórdão Recorrido, ao reformar sentença e adotar o entendimento de que a preexistência da doença à filiação ao RGPS impede a concessão do benefício postulado, contrariou o entendimento pacificado pelo STJ, em sede de julgamento do Recurso Especial nº 1.474.405.
+ ..
+No caso da autora, o perito destacou que, como complicações, apresentou osteomielite, síndrome de Fournier em região pélvica, evoluindo com paraparesia crural, bexiga neurogênica, com uso de sonda de alívio e fralda geriátrica. Salientou, ainda, que a incapacidade decorreu de agravamento da doença.
+Com efeito, embora a doença tenha se iniciado antes de 2008, somente com o seu agravamento adveio a incapacidade, cuja data de início foi fixada em 03/2008. Se assim não fosse, a autora não teria exercido atividade laborativa no período de 01/02/2008 a 04/2008. Desse modo, a parte autora detinha qualidade de segurada.
+Assim, fora apontada sua total e permanente incapacidade, razão pela qual sentença em primeiro grau inclusive determinou a concessão da aposentadoria por incapacidade permanente, com acréscimo de 25% sobre o valor do benefício.
+ ..
+No ponto, restou notoriamente ressaltado pelo nobre Perito que a incapacidade da parte Autora decorreu do agravamento da sua doença, que é degenerativa e tende a piorar com o tempo. Outrossim, o art. 42, §2º, da Lei 8.213/91 aduz expressamente:
+ ..
+Por todo o exposto, fica evidente que, uma vez que a incapacidade decorreu do agravamento da doença, que, por sua vez, é posterior à filiação do Autor ao RGPS, é de se deferir o benefício de aposentadoria por invalidez (fls. 755- 762).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" ;(AgInt no AREsp n. 1.946.228/DF , relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, Rel. ;Ministra Laurita Vaz, Sexta Turma, DJe de 25.3.2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.12.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
