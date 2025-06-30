@@ -1,0 +1,11 @@
+DECISÃO
+O presente recurso, interposto por HELTON CHARLIS MACEDO DE SOUZA - preso preventivamente pela suposta prática do delito de roubo simples -, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2059163-03.2025.8.26.0000), não comporta provimento.
+Busca o recorrente a revogação da prisão preventiva imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Praia Grande/SP (Autos n. 1503718-35.2024.8.26.0536), ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de fundamentação para a manutenção da segregação cautelar.
+Ocorre que este Superior Tribunal tem o entendimento de que não é necessário seguir o rito formal de reconhecimento quando a denúncia se encontra amparada em outras provas independentes (AgRg no HC n. 779.678/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/11/2022), assim como se a vítima é capaz de individualizar o agente, não é necessário instaurar a metodologia legal (AgRg no HC n. 921.601/RR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 5/9/2024).
+No caso, o acórdão a quo destacou que, além de a vítima ter prontamente reconhecido o suspeito, que foi abordado nas proximidades do local do roubo, logo após o delito, exibindo as mesmas características informadas pela vítima, além de ter confessado informalmente aos GCMs que escondeu os valores roubados no tênis  .. .  Assim, há outros elementos, além da recognição pessoal impugnada, aptos a indicar, ao menos nessa análise sumária, o envolvimento do paciente no delito que lhe é imputado (fl. 197).
+Por fim, também não vislumbro constrangimento ilegal em relação à fundamentação do decreto preventivo, calcada na possibilidade de reiteração delitiva do acusado, que possui outras passagens criminais (fl. 68), conforme farta jurisprudência do STJ.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PENAL. RECURSO EM HABEAS CORPUS. ROUBO SIMPLES. RECONHECIMENTO PESSOAL. ALEGAÇÃO DA EXISTÊNCIA DE VÍCIO. DENÚNCIA LASTREADA EM OUTROS ELEMENTOS DE PROVA E INDIVIDUALIZAÇÃO PELA VÍTIMA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
