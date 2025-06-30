@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por FABRICIO KENNEDY DE ARAÚJO contra decisão do Tribunal de Justiça do Estado de Goiás que inadmitiu seu recurso especial.
+Consta dos autos que o agravante foi definitivamente condenado pelo crime de roubo circunstanciado. A defesa ajuizou revisão criminal, com o escopo de ver reconhecida a nulidade do reconhecimento pessoal realizado nos autos e, em consequência, absolver o requerente. O pedido revisional foi julgado improcedente.
+No especial, sustentou a defesa negativa de vigência ao art. 226 do CPP, uma vez que não foram colocadas outras pessoas ao lado do agravante para o reconhecimento.
+Inadmitido o recurso especial em razão do enunciado sumular nº 7/STJ, a defesa interpôs o presente agravo.
+É o relatório. Decido.
+A defesa rebateu, a tempo e modo, os fund amentos da decisão agravada, devendo ser conhecido o recurso especial.
+No entanto, o especial não merece provimento, pois de acordo com o voto condutor da revisão criminal, "a vítima conhecia Fabrício há muitos anos e não oscilou em reconhecer o seu carro, um veículo Gol que auxiliou na fuga de Valdenir, o que torna despicienda a juntada de imagens das câmeras de segurança existentes no local." (e-STJ fl. 432)
+Desse modo, é desnecessário o cumprimento do rito estabelecido no art. 226 do CPP (reconhecimento pessoal) quando a pessoa a ser reconhecida já é nominalmente conhecida da vítima ou da testemunha (art. 2º da Resolução 484/2022-CNJ).
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. OBSERVÂNCIA DO ART. 226 DO CPP. DESNECESSIDADE QUANDO SE TRATA DE IDENTIFICAÇÃO NOMINAL DE PESSOA CONHECIDA. ART. 155 DO CPP. ELEMENTOS INFORMATIVOS COLHIDOS NO INQUÉRITO CORROBORADOS POR PROVAS JUDICIALIZADAS. TESTEMUNHA PRESENCIAL. POLICIAIS. IDENTIFICAÇÃO DE AUTORIA. SUFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento de pessoas como meio probatório deve observar o disposto no art. 226 do Código de Processo Penal. Rompendo com posição jurisprudencial anterior, a Sexta Turma deste Superior Tribunal, por ocasião do julgamento do HC n. 598.886/SC (Rel.
+Ministro Rogerio Schietti), realizado em 27/10/2020, conferiu nova interpretação ao art. 226 do CPP, a fim de superar o antigo entendimento e definir que o procedimento legal "não configura mera recomendação do legislador, mas rito de observância necessária, sob pena de invalidade do ato".
+2. Não é necessário seguir o rito formal de reconhecimento quando se trata de identificação nominal de pessoa conhecida, e não de apontamento de estranho com base apenas na fisionomia memorizada.
+Essa circunstância caracteriza um importante fator distintivo, que também é ressaltado pelo art. 2º da Resolução n. 484 de 19 de dezembro de 2022, do CNJ, parte final: "Art. 2º Entende-se por reconhecimento de pessoas o procedimento em que a vítima ou testemunha de um fato criminoso é instada a reconhecer pessoa investigada ou processada, dela desconhecida antes da conduta."
+3. No caso concreto, na fase extrajudicial, o corréu identificou os demais partícipes da empreitada criminosa, pessoas com quem já havia se encontrado anteriormente, inclusive no próprio dia do crime, não se configurando, portanto, hipótese de reconhecimento de indivíduos desconhecidos.
+4. O legislador ordinário, ao buscar maior efetividade das garantias constitucionais previstas para os acusados em processo penal, estabeleceu, expressamente, a vedação à condenação baseada exclusivamente em provas produzidas no inquérito policial, consoante o disposto no art. 155, caput, do Código de Processo Penal. No entanto, é possível que se utilize deles, desde que sejam repetidos em juízo ou corroborados por provas produzidas durante a instrução processual.
+5. Na hipótese em análise, o decreto condenatório fundamentou-se em robusto conjunto probatório, não se limitando ao reconhecimento e o depoimento extrajudiciais do corréu. O acervo probatório incluiu o depoimento da vítima, o relato de testemunha presencial e os depoimentos de policiais civis e do delegado de polícia.
+6. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp n. 2.419.667/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+Mesmo se assim não fosse, "consoante o entendimento da Terceira Seção desta Corte Superior, "é impossível a aplicação retroativa da jurisprudência relativa à observância às formalidades do art. 226 do CPP quanto ao reconhecimento fotográfico a condenações acobertadas pelo manto preclusivo da coisa julgada" (AgRg na RvCr n. 6.114/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/4/2024, DJe de 30/4/2024.)." (AgRg no HC n. 942.532/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+Desse modo, não há como reconhecer a negativa de vigência ao art. 226 do CPP.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
