@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/06/2025 a 30/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MEDIDA CAUTELAR FISCAL. LIMINAR. REQUISITOS. EXAME. INVIABILIDADE.
+1. O Superior Tribunal de Justiça tem entendido não ser cabível recurso especial interposto contra acórdão proferido em agravo de instrumento que, por sua vez, examina preenchimento dos requisitos para deferimento de medida liminar, em razão dos óbices das Súmulas 7 do STJ e 735 do STF.
+2. Hipótese em que o recurso especial é dirigido contra acórdão que julgou agravo de instrumento de decisão proferida em autos de ação cautelar fiscal, que deferiu medida liminar requerida pela Fazenda Nacional para decretar indisponibilidade de bens e ativos financeiros do ora agravante e de terceiros, não sendo, pois, conhecível o inconformismo.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALEXANDRE JOSÉ BAPTISTA contra a decisão, proferida às e-STJ fls. 187/190, em que conheci do agravo para não conhecer do recurso especial, por incidência dos óbices das Súmulas 7 do STJ e 735 do STF.
+A parte agravante argumenta que, no tocante à incidência da Súmula 735 do STF, "as cortes superiores vêm admitindo, em determinadas situações, o afastamento da referida súmula, em especial quando a matéria a ser discutida se referir à ofensa direta a Lei Federal que regulamenta o próprio instituto que regula a liminar concedida e, também, em situações que a decisão concedida poderá por fim ao processo" (e-STJ fls. 196/197). Aduz: "para o conhecimento do recurso interposto, basta a análise acerca da possibilidade do deferimento de liminar e ajuizamento de cautelar fiscal, enquanto o crédito tributário encontra-se suspenso, com base em incisos diversos daqueles excetuados pelo parágrafo único do art. 1º da Lei 8397/92" (e-STJ fl. 197).
+Segue afirmando, quanto ao óbice da Súmula 7 do STJ, que, para a apreciação da afronta legal mencionada, "não se faz necessário o revolvimento das provas colhidas ao feito, pelo contrário, basta a apreciação do acórdão agravado para constatar a infringência da norma legal e a supressão de direitos" (e-STJ fl. 202).
+Sem impugnação (e-STJ fl. 211).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MEDIDA CAUTELAR FISCAL. LIMINAR. REQUISITOS. EXAME. INVIABILIDADE.
+1. O Superior Tribunal de Justiça tem entendido não ser cabível recurso especial interposto contra acórdão proferido em agravo de instrumento que, por sua vez, examina preenchimento dos requisitos para deferimento de medida liminar, em razão dos óbices das Súmulas 7 do STJ e 735 do STF.
+2. Hipótese em que o recurso especial é dirigido contra acórdão que julgou agravo de instrumento de decisão proferida em autos de ação cautelar fiscal, que deferiu medida liminar requerida pela Fazenda Nacional para decretar indisponibilidade de bens e ativos financeiros do ora agravante e de terceiros, não sendo, pois, conhecível o inconformismo.
+3. Agravo interno desprovido.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, a decisão agravada merece ser mantida.
+Os autos versam sobre recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região que julgou agravo de instrumento aviado, por sua vez, de decisão proferida em autos de ação cautelar fiscal que deferiu medida liminar requerida pela Fazenda Nacional para decretar indisponibilidade de bens e de ativos financeiros da ora agravante e de terceiros.
+Eis a ementa do acórdão (e-STJ fl. 68):
+AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. INDISPONIBILIDADE DE BENS. MEDIDAS CONSTRITIVAS. TERCEIROS.
+1. Em situação de aplicar as constrições próprias da medida cautelar fiscal não é adequado sindicar aprofundadamente a responsabilidade patrimonial por vinculação de pessoas físicas com empresas ou formação de grupo econômico para identificar a concretização da hipótese do art. 4º da L 8.397/1992. Bastam indícios para que o preceito geral de acautelamento próprio desses instrumentos se execute.
+2. Não há óbice a que terceiras pessoas diversas das arroladas como devedoras perante o Fisco sejam responsabilizadas no contexto dos atos de medida cautelar fiscal se presentes indícios de dilapidação de patrimônio mediante fraudes, pondo em risco o crédito tributário.
+3. Presentes evidências dessas circunstâncias, é possível aplicar os atos de medida cautelar fiscal em relação a terceiros sem prévia oportunidade de defesa, com o diferimento do contraditório como é inerente à execução fiscal, à medida cautelar fiscal e aos procedimentos antecipativos.
+Cabe registrar que o ora agravante menciona que a dívida tributária em discussão perfaz o valor de R$ 61.450.939,14 (sessenta e um milhões quatrocentos e cinquenta mil e novecentos e trinta e nove reais e quatorze centavos) (e-STJ fl. 76) .
+Nos termos do art. 105, inciso III, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, em recurso especial, as causas decididas, em única ou última instâncias, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios.
+A expressão "causas decididas" representa, conforme pacífica orientação da jurisprudência, os pronunciamentos definitivos nas cortes de apelação, de modo que não cabe recurso especial com a finalidade de reformar decisões liminares de natureza cautelar ou antecipatória.
+De fato, com fundamento nessa compreensão, o Supremo Tribunal Federal editou a Súmula 735, in verbis: "Não cabe recurso extraordinário contra decisão que defere medida liminar." Desse modo, por se tratar de decisão provisória, proferida em juízo precatório de verossimilhança, sujeita à revogação ou à modificação pelas instâncias ordinárias, no curso do processo, não há satisfação do requisito constitucional de causa decidida em única ou última instância.
+Ademais, a revisão do preenchimento ou não dos pressupostos necessários à concessão de medidas liminares, mormente o relativo ao periculum in mora, demanda reexame de provas, providência que encontra óbice na Súmula 7 do STJ.
+Nesse contexto, esta Corte Superior tem entendido não ser cabível recurso especial interposto contra acórdão proferido em agravo de instrumento que, por sua vez, examina preenchimento dos requisitos para o deferimento de medida liminar em autos de ação cautelar fiscal, em razão dos óbices das Súmulas 7 do STJ e 735 do STF.
+Nesse sentido, cito os seguintes julgados:
+RECURSO FUNDADO NO CPC/2015. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. PROCESSUAL CIVIL. MEDIDA CAUTELAR FISCAL. PREENCHIMENTO DOS REQUISITOS PARA CONCESSÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. No caso, a Corte de origem registrou que os requisitos previstos na Lei nº 8.937/92, para a concessão da medida cautelar fiscal, não teriam sido observados, mormente no que tange ao periculum in mora, uma vez que a sociedade empresaria agravada teria bens suficientes para arcar com suas dívidas fiscais. Assim, para se alcançar conclusão diversa, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 401.385/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/09/2016, DJe 13/09/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. SÚMULA 735 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO DO MUNICÍPIO A QUE SE NEGA PROVIMENTO.
+1. Apesar de mencionar, no corpo das razões de seu Apelo Nobre, dispositivos de Lei Federal, a parte recorrente deixou de demonstrar, precisamente, como tal violação teria ocorrido.
+2. A alegação de ofensa à Lei Federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial (AgRg no REsp. 1.730.708/RO, Rel. Min. RIBEIRO DANTAS, DJe 10.10.2018).
+3. No mais, a jurisprudência do STJ, à luz da Súmula 735/STF, firmou-se no sentido de que, via de regra, não é cabível Recurso Especial para reexaminar decisão que defere ou indefere liminar ou concede antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+4. Agravo Interno do Município a que se nega provimento.
+(AgInt nos EDcl no REsp 1.808.482/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 11/02/2020, DJe 14/02/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC.
+DECISÃO PRECÁRIA. SÚMULA 735 DO STF.
+1. Não se configurou a ofensa aos arts. 489 e 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição. Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Por outro lado, não houve emissão de juízo de valor definitivo sobre as questões apresentadas pelo recorrente, mas somente a constatação sumária de que existem indícios suficientes para a concessão da medida antecipatória.
+4. É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final.
+5. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735 do STF).
+6. Portanto, o juízo de valor precário, emitido na concessão ou no indeferimento de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da Súmula 735/STF.
+7. Agravo Interno não provido.
+(AgInt no REsp 1.779.157/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/06/2019, DJe 07/ 07/2019).
+Desse modo, deve ser mantida a decisão agravada, porquanto não merece ser conhecido o recurso especial quanto à impugnação relativa à questão de mérito deduzida, pois encontra óbice nas Súmulas 7 do STJ e 735 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
