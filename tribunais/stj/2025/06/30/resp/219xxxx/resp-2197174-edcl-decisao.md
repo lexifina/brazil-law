@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JHONY MATHEUS DA SILVA contra a decisão de e-STJ fls. 965/974, por meio da qual dei provimento ao recurso especial interposto pela acusação contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 501850-65.2023.8.26.0533).
+Consta dos autos que o ora embargante foi condenado pela prática do crime tipificado no art. 33, caput, da Lei n. 11.343/06, pois "traziam consigo e guardavam, para fins de comercialização, 3 porções de maconha, pesando cerca de 385 gramas de massa líquida, e 01 tijolo da mesma droga, com peso aproximado de 628 gramas" (e-STJ fl. 514).
+Em apelação manejada pela defesa, o Tribunal estadual deu provimento ao recurso com a seguinte ementa (e-STJ fl. 763):
+Apelação criminal - Tráfico de drogas e Associação para o tráfico - Ilicitude da prova obtida no momento da prisão em flagrante - Garantia constitucional da inviolabilidade do domicílio - Entrada em domicílio sem mandado - Ausência de fundadas razões - Precedentes do Supremo Tribunal Federal e Superior Tribunal de Justiça - RECURSO DA DEFESA PROVIDO.
+Irresignada, a acusação então interpôs recurso especial, alegando ofensa aos arts. 301 e 303 do Código de Processo Penal.
+Requereu o reconhecimento da validade do ingresso dos policiais em domicílio e a reforma do acórdão atacado para restaurar a sentença condenatória de primeiro grau (e-STJ fl. 842).
+Às e-STJ fls. 965/974, dei provimento ao recurso especial ministerial, para reconhecer a legalidade do ingresso em domicílio e reestabelecer a sentença condenatória.
+Neste recurso, sustenta a defesa a presença de omissão no julgado quanto ao pedido de análise, pelo Tribunal a quo, sobre a possibilidade de aplicação do tráfico privilegiado ao embargante.
+Requer o acolhimento dos embargos de declaração.
+É o relatório.
+Decido.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, dirigem-se à correção de defeitos na mensagem do julgador, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, situação não evidenciada no caso em análise.
+Essa é a vocação legal dos aclaratórios, sempre enfatizada nos precedentes desta Corte, como se percebe no aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Acerca do vício da omissão, o vaticínio da doutrina aponta na seguinte direção:
+A omissão configura-se quando o juízo ou tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou cognoscíveis de ofício; ou quando não se manifesta sobre algum tópico da matéria submetida à sua apreciação, inclusive quanto ao ponto acessório, como seria o caso da condenação em despesas processuais. Mas inexiste omissão suprível por embargos de declaração quando se trata de matéria cuja apreciação dependia de provocação da parte, que não ocorreu.(GRINOVER, Ada Pellegrini. Antonio Magalhães Gomes FILHO. Antonio Scarance FERNANDES. Recursos no processo penal: teoria geral dos recursos, recursos em espécie, ações de impugnação, reclamação aos tribunais. 5. ed. rev. atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2008, p. 228.)
+Acerca da contradição, este é o escólio:
+Dá-se a contradição quando constam da decisão proposições inconciliáveis entre si. Pode haver contradição entre afirmações contidas na motivação, ou entre proposições da parte decisória. E pode ocorrer contradição entre alguma afirmação enunciada nas razões de decidir e o dispositivo.  ..  É ainda concebível a ocorrência de contradição entre a ementa e o corpo do acórdão.  ..  A contradição pode ainda verificar-se entre o teor do acórdão e aquilo que havia resultado da votação, apurável pela minuta do julgamento, pela ata, ou por seus elementos.(GRINOVER, Ada Pellegrini; FILHO, Antonio Magalhães Gomes; FERNANDES, Antonio Scarance. Recursos no processo penal: teoria geral dos recursos, recursos em espécie, ações de impugnação, reclamação aos tribunais. 5. ed. rev. atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2008, p. 227.)
+Por outro lado, o vício da obscuridade está ligado à existência de ambiguidade na manifestação judicial ou à potencialidade de produção de entendimentos disparatados entre si. Acerca da obscuridade, é a lição de João Roberto Parizatto: "falta de clareza acerca de determinado ponto da decisão, não se elucidando de forma satisfatória ponto da lide, impossibilitando-se o perfeito entendimento pela parte." (Recursos no Processo Civil. 4 ed. São Paulo: Saraiva, 1997, p. 98.)
+De fato, omissa a decisão embargada quanto ao pedido de análise, pelo Tribunal a quo, sobre a possibilidade de aplicação do tráfico privilegiado ao ora embargante.
+No caso em comento, o embargante foi condenado, pelo crime de tráfico de drogas, a uma pena de 06 (seis) anos e 08 (meses) de reclusão, em regime inicial fechado, afastada a aplicação do art. 33, § 4º, da Lei de Drogas.
+Interposta a apelação pela defesa, pleiteou-se a ilicitude das provas e, subsidiariamente, aplicação do tráfico privilegiado ao embargante, tendo sido acolhida a tese preliminar.
+Em apelo especial, foi dado provimento ao pleito ministerial, reconhecendo a licitude das provas, diante da presença de fundadas razões para o ingresso em domicílio, tendo sido reestabelecida a sentença condenatória.
+No entanto, assiste razão à defesa quanto à necessidade de enfrentamento pelo Tribunal estadual da tese pela aplicação da minorante do art. 33, § 4º, da Lei de Drogas.
+Ante o exposto, acolho os embargos de declaração para, reconhe cida a legalidade do ingresso em domicílio e reestabelecida a sentença condenatória, determinar o retorno dos autos ao Tribunal de Justiça de São Paulo para que prossiga no julgamento das demais teses do recurso de apelação da defesa.
+Publique-se. Intimem-se.
+EMENTA
