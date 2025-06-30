@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado por Izabela de Cássia dos Santos Gerlach, desafiando decisão do Tribunal de Justiça do Paraná, que não admitiu o recurso especial interposto pela parte ora agravante, diante dos seguintes fundamentos:
+(I) não se configurou negativa de vigência ao art. 1.022, do CPC;
+(II) incidência da Súmula 83/STJ, "No que se refere à dita violação ao artigo 103, §3º, 104 do Código de Defesa do Consumidor" (fl. 733);
+(III) aplicação da Súmula 7/STJ, na tese em que se discute a "inexistência de controvérsia sobre o período de moradia no local atingido" (fl. 733);
+(IV) atração do óbice da Súmula 284/STF, ao fundamento de que "a alegação de ofensa aos artigos 319 a 321 do Código de Processo Civil se revelou deficiente, já que o recorrente não demonstrou, de forma clara e objetiva, as razões concernentes à efetiva contrariedade da legislação invocada, muito menos logrou combater pontualmente os fundamentos que alicerçaram o acórdão vergastado." (fl. 733); e
+(V) "não foram cumpridos os requisitos estabelecidos pelos artigos 1.029, parágrafo único, do Código de Processo Civil (artigos 541, parágrafo único, do Código de Processo Civil de 1973) e artigo 255 do Regimento Interno do Superior Tribunal de Justiça" (fl. 734).
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante (I) não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ com relação à tese de "inexistência de controvérsia sobre o período de moradia no local atingido" (fl. 733);
+Ademais, tampouco impugnou, de maneira específica, os seguintes fundamentos: (II) a incidência da Súmula 284/STF, ao fundamento de que "a alegação de ofensa aos artigos 319 a 321 do Código de Processo Civil se revelou deficiente, já que o recorrente não demonstrou, de forma clara e objetiva, as razões concernentes à efetiva contrariedade da legislação invocada, muito menos logrou combater pontualmente os fundamentos que alicerçaram o acórdão vergastado." (fl. 733) e (III) "não foram cumpridos os requisitos estabelecidos pelos artigos 1.029, parágrafo único, do Código de Processo Civil (artigos 541, parágrafo único, do Código de Processo Civil de 1973) e artigo 255 do Regimento Interno do Superior Tribunal de Justiça" (fl. 734).
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
