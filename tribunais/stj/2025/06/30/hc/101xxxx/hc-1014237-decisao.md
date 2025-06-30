@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MATHEUS WESLEY ABREU em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos queo paciente foi preso em flagrante em 02/06/2025 pela suposta prática do crime de tráfico de drogas, em razão da apreensão de 101,73 gramas de crack. A prisão em flagrante foi convertida em preventiva com fundamento na garantia da ordem pública e para assegurar a aplicação da lei penal.
+A Defesa sustenta que a quantidade de droga apreendida não é expressiva e que o paciente é primário, possui residência fixa e ocupação lícita como coletor de resina, o que afastaria a necessidade da prisão preventiva.
+Afirma que a decisão que converteu o flagrante em preventiva carece de fundamentação concreta, baseando-se em argumentos genéricos como a gravidade abstrata do delito de tráfico de drogas e possível reiteração criminosa, sendo que o paciente é primário.
+Alega que não existem elementos concretos que atestem a possibilidade de reiteração delitiva e que os crimes supostamente cometidos são sem violência ou grave ameaça a pessoa.
+Requer a revogação da prisão preventiva ou, subsidiariamente sua substituição por medidas cautelares diversas.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado a apreensão de 101,73 gramas de crack bem como pelo fundado receio de reiteração criminosa, uma vez que o acusado é reincidente pois "há registro de condenações anteriores do autuado, com trânsito em julgado" (fl. 10), circunstâncias ap tas a justificar a segregação cautelar.
+Sobre o tema: "Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024).
+Nesse sentido: AgRg no HC n. 880.186/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 26/6/2024; AgRg no HC n. 895.229/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), julgado em 17/6/2024, DJe de 21/6/2024; RHC n. 198.399/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/6/2024 e AgRg no HC n. 908.662/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2024 e AgRg no RHC n. 190.541/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 11/12/2023.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
