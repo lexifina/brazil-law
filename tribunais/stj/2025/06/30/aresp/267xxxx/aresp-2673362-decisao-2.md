@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por VINICIUS CRAVEIRO MARTINS SILVA contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"Apelação da Defesa Preliminares Inépcia da denúncia Peça acusatória que descreveu satisfatoriamente os fatos imputados aos réus e permitiu o exercício da ampla defesa Cerceamento de Defesa Inocorrência Indeferimento motivado da produção de prova Inviabilidade da demonstração da pretensão por meio da prova pericial Prova meramente protelatória a não configurar o cerceamento de defesa Sentença condenatória bem fundamentada, afastando as teses da defensa O mero inconformismo com o conteúdo decisório não implica sua nulidade Preliminares rejeitadas Mérito Crime de racha com resultado morte, Direção de veículo automotor sem habilitação e crime de falso testemunho Réus Vinícius e Antônio detidos logo após causarem acidente de trânsito com duas vítimas fatais, quando em disputa automobilística não autorizada na via pública Consistentes depoimentos das testemunhas quanto ao excesso de velocidade na via pública Laudos periciais insuficientes a demonstrar, com precisão, a velocidade empregada pelos dois veículos Hipótese que não basta a afastar a conduta delituosa - Negativas dos acusados isoladas do contexto probatório Acusado Vinícius não habilitado para direção de veículo automotor Afirmação falsa no distrito policial por parte do acusado Kaio, a fim de afastar a responsabilidade penal dos corréus Provas suficientes às condenações Possibilidade do reconhecimento do concurso formal de infrações em detrimento do concurso material Penas ajustadas Recurso de apelação do acusado Kaio desprovido e recursos dos corréus Antonio e Vinicius parcialmente providos."
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto.
+Contraminuta apresentada.
+O Ministério Público Federal opinou pelo não conhecimento do agravo.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço do agravo.
+De fato, o recurso especial mostra-se intempestivo, uma vez que interposto fora do prazo de 15 dias, conforme o disposto nos arts. 798 do Código de Processo Penal e 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil.
+Consoante consignado na decisão agravada, "Consoante se depreende da certidão lavrada à fl. 931, o aresto foi publicado em 30 de agosto de 2023. Já o recurso foi protocolado apenas aos 21 de setembro de 2023 (fls. 935/961 - protocolo WPRO.23.01206935-6), portanto, fora do prazo legal, nos termos do disposto no § 5º, do artigo 1.003, do Código de Processo Civil, e no artigo 798, do Código de Processo Penal."
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
