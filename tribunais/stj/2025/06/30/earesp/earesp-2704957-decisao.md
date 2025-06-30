@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra o acórdão da Sexta Turma, de Relatoria do Ministro Rogério Schietti Cruz, assim ementado (fl. 9.029):
+AGRAVO REGIMENTAL NO AGRAVO EM RECUSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS E LAVAGEM DE DINHEIRO. MEDIDAS ASSECURATÓRIAS. RESTITUIÇÃO DE BENS APREENDIDOS. IMPOSSIBILIDADE. PRAZO NÃO PEREMPTÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do STJ entende que o prazo previsto no art. 131, I, do CPP não é peremptório e deve ser analisado à luz das peculiaridades e complexidade do caso concreto, permitindo a manutenção das medidas assecuratórias.
+2. A complexidade da investigação relacionada à prática de crimes de tráfico internacional de drogas e de lavagem de dinheiro, envolvendo múltiplos agentes e grande quantidade de bens, justifica a extrapolação do prazo legal e autoriza a manutenção das medidas assecuratórias.
+3. A modificação do julgado demandaria o reexame de fatos e provas, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+Sustenta o embargante que "a Sexta Turma proferiu acórdão em divergência com o entendimento adotado pela Quinta Turma nos edcl nos edcl no agrg no agravo em recurso especial n. 1792372/PR" (fl. 9.043).
+Afirma que "a tese paradigma reitera a necessidade de levantamento dos bens objeto de sequestro quando ultrapassado o prazo de sessenta dias previsto no art. 131, inciso I, do Código de Processo Penal, sem que a ação penal tenha sido promovida" (fls. 9.043-9.044).
+Requer, assim, que sejam admitidos e providos os presentes embargos, a fim de que, harmonizados os entendimentos, seja conhecido e provido o recurso especial, para reconhecer "o excesso de prazo e, consequentemente, seja revogado o sequestro de bens e bloqueio de valores nas contas bancárias relativos à embargante, nos termos do art. 131, inciso I, do Código de Processo Penal" (fl. 9.053).
+É o relatório. Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+No tocante ao apontado dissídio jurisprudencial acerca do excesso de prazo da medida assecuratória de "sequestro de bens e bloqueio de valores" nas contas bancárias relativos à embargante, consta no acórdão embargado (fl. 9.036):
+ ..
+Os  prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, o  que condiciona a aferição de eventual  excesso de prazo aos critérios  da razoabilidade, levando-se em  conta  as peculiaridades  de  cada  caso.
+Desse  modo,  o acórdão  recorrido está em conformidade com  a jurisprudência desta Corte,  no sentido que o prazo previsto no art. 131, I, do CPP não é peremptório  e se sujeita  à avaliação individualizada das peculiaridades  e  da  complexidade  da  causa.
+(AgRg no AREsp n. 2.704.957/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/3/2025, DJEN de 31/3/2025.)
+Esta é a ementas do acórdão paradigma transcrita pelo embargante (fls. 9.048-9.049):
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. FATOS NOVOS RELEVANTES AO CRIVO NÃO PRECLUSIVO DAS MEDIDAS CAUTELARES EM GERAL. CLÁUSULA REBUS SIC STANTIBUS. DECISÃO DO STF QUE ANULOU O RECEBIMENTO DA DENÚNCIA DO PROCESSO PRINCIPAL, DO QUAL AS MEDIDAS ASSECURATÓRIAS DESTE PROCESSADO SÃO ACESSÓRIAS. PRINCÍPIO DA RAZOABILIDADE. EXCESSO DE PRAZO VERIFICADO. ACOLHIMENTO PARCIAL. HABEAS CORPUS CONCEDIDO DE OFÍCIO PARA DETERMINAR O LEVANTAMENTO DO SEQUEESTRO E DO ARRESTO. PRECEDENTES. PREJUDICADAS AS DEMAIS ALEGAÇÕES DE OMISSÃO E CONTRADIÇÕES. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Demonstração, ao ensejo dos embargos de declaração, de fato relevante superveniente, consistente na anulação da decisão de recebimento da denúncia do processo principal pelo Supremo Tribunal Federal, que implica sensível modificação do cenário processual, inova a perspectiva de duração do processo penal e, de conseguinte, impõe a reavaliação dos pressupostos da constrição de bens e ativos financeiros.
+2. Como medidas cautelares que são, as assecuratórias sujeitam-se aos requisitos e ao equilíbrio que lhes são inerentes, bem como à cláusula rebus sic stantibus, pelo que poderá o Juízo rever sua decisão quando fatos supervenientes implicarem alterações no cenário processual, que ofusquem as razões iniciais que justificaram as medidas constritivas
+3. A manutenção da apreensão de valores efetivada no inquérito policial, após ultrapassados quase 03 (três) anos sem a instauração válida de ação penal pela prática de qualquer crime, revela manifesta ofensa ao princípio da razoabilidade, situação que não pode ser tolerada pelo Poder Judiciário.
+4. Mostram-se impreteríveis o levantamento do sequestro e do arresto à mingua de mínima perspectiva de julgamento em prazo razoável da pretensão acusatória, cujo processo sequer se reiniciou. Caracteriza-se patente o constrangimento ilegal a que está submetido o recorrente. Medidas constritivas que não podem persistir indefinidamente. Concessão de habeas corpus de ofício. Precedentes.
+5. Solução adotada que, por sua maior abrangência, acarreta a superveniente perda de interesse recursal em relação aos demais pontos impugnados pelos embargos de declaração, tornando prejudicado o exame dessas matérias.
+6. Embargos de Declaração acolhidos em parte para, conferindo-lhes excepcional efeito infringente, conceder ordem de habeas corpus de ofício para determinar o levantamento do arresto e do sequestro recaído sobre os bens imóveis que estejam em nome do recorrente e, igualmente, que atinjam o patrimônio imobiliário de 40 (quarenta) pessoas jurídicas que integram o Grupo Petrópolis, bem como o desbloqueio dos ativos financeiros que estejam em seus nomes, decretados pela 13ª Vara Federal de Curitiba/PR.
+(EDcl nos EDcl no AgRg no AREsp n. 1.792.372/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/3/2022, DJe de 11/3/2022.)
+A caracterização da divergência jurisprudencial exige que a controvérsia esteja sendo apreciada em um contexto de identidade fática e jurídica entre os acórdãos cotejados, nos termos do entendimento do Superior Tribunal de Justiça e do disposto no art. 266 do Regimento Interno do Superior Tribunal de Justiça (RISTJ) e no art. 1.043, § 4º, do Código de Processo Civil (CPC).
+Neste processo entendeu-se que o prazo previsto no art. 131, I, do CPP não é peremptório  e se sujeita  à avaliação individualizada das peculiaridades  e  da  complexidade  da  causa. Já no acórdão apontado como paradigma, analisando o caso concreto que possui peculiaridades bem distintas do presente caso, esta Corte Superior entendeu que "a manutenção da apreensão de valores efetivada no inquérito policial, após ultrapassados quase 03 (três) anos sem a instauração válida de ação penal pela prática de qualquer crime, revela manifesta ofensa ao princípio da razoabilidade, situação que não pode ser tolerada pelo Poder Judiciário", e, por isso, concluiu que é impreteríveis o levantamento do sequestro e do arresto à mingua de mínima perspectiva de julgamento em prazo razoável da pretensão acusatória, cujo processo sequer se reiniciou.
+Ou seja, o entendimento jurídico que constou nos EDcl nos EDcl no AgRg no AREsp n. 1.792.372/PR é, exatamente, o mesmo que constou no acórdão embargado, isto é, "os  prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, o  que condiciona a aferição de eventual  excesso de prazo aos critérios  da razoabilidade, levando-se em  conta  as peculiaridades  de  cada  caso" (AgRg no AREsp n. 2.704.957/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/3/2025, DJEN de 31/3/2025.).
+Considerando, que a situação fática é distinta, então neste processo não se verificou desproporcionalidade do prazo de vigência da medida assecuratória, ao contrário daquela situação fática apreciada por esta Corte Superior no acórdão paradigma.
+Nesse sentido:
+Ementa DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO FÁTICO-PROBATÓRIA. ÓBICE DA SÚMULA Nº 7 DO STJ. INQUÉRITO. PRAZO DE CONCLUSÃO IMPRÓPRIO. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Agravo Regimental interposto em face de decisão monocrática que inadmitiu Recurso Especial, no qual o recorrente alegava a presença de provas da licitude da origem dos bens, e questionava o prazo de conclusão do inquérito policial.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o reexame da matéria relacionada à origem lícita dos bens implica em revolvimento fático-probatório vedado pela Súmula nº 7 do STJ; (ii) estabelecer se o prazo para conclusão do inquérito, considerado impróprio, foi devidamente justificado diante da complexidade do caso.
+III. RAZÕES DE DECIDIR
+3. O reexame da matéria fática apreciada pelo Tribunal de origem encontra óbice na Súmula nº 7 do STJ, que impede a transformação do Superior Tribunal de Justiça em instância ordinária revisora.
+4. Os prazos para a finalização do inquérito são impróprios, devendo ser analisados conforme a complexidade dos fatos e as circunstâncias que justificam a dilatação do prazo investigativo, conforme a jurisprudência do STJ.
+5. A existência de investigação prévia e a necessidade de assegurar a vedação ao enriquecimento ilícito justificam a manutenção da constrição cautelar, não havendo ilicitude no prolongamento do prazo do inquérito.
+IV. RECURSO DESPROVIDO..
+(AgRg no REsp n. 2.145.350/AL, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 8/10/2024, DJe de 14/10/2024.)  g.n.
+ ..
+3. Caso o atraso seja justificado pelas peculiaridades da causa, complexa e com pluralidade de autores, justificando-se a dilação do prazo, inexiste ofensa ao art. 131, I, do Código de Processo Penal. Incidência da Súmula n. 83/STJ. Precedentes do STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 591.543/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 8/3/2018.)
+ ..
+3. A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que o princípio da razoabilidade impede que o prazo previsto no art. 131, inciso I, do Código de Processo Penal incida de forma peremptória, devendo ser examinado para esse fim, tal como ocorreu na hipótese dos autos, a complexidade e as peculiaridades do caso concreto.
+4. Existindo dúvida fundada acerca da origem lícita dos recursos utilizados para a aquisição dos bens sequestrados, a análise do pedido de liberação demandaria dilação probatória, incabível na via mandamental.
+5. Agravo regimental desprovido.
+(AgRg no RMS n. 70.218/TO, Rel. Ministra Laurita Vaz, 6ª T., DJe 28/4/2023)
+Assim , os embargos de divergência não devem ser admitidos nos termos do enunciado n. 168 da Súmula do STJ, que preceitua: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Ante o exposto, nos termos do art. 266-C do RISTJ, alterado pela Emenda Regimental n. 22/2016, não admito os embargos de divergência.
+Publique-se.
+Intimem-se.
+EMENTA
