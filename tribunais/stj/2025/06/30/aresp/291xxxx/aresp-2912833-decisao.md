@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARIA DE FATIMA RODRIGUES DOS SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTTVTDADE. PRELIMINAR DE NECESSIDADE DE SUSPENSÃO DO FEITO. INAPLICABILIDADE. SÓCIO- GERENTE CUJO NOME CONSTA DA CDA. PRESUNÇÃO DE RESPONSABILIDADE. ILEGITIMIDADE PASSIVA ARGUEDA EM EXCEÇÃO DE PRÉ-EXECUTTVTDADE. INVIABILIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. PRECEDENTES. MANUTENÇÃO DA DECISÃO RECORRIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 112, 134 e 135 do CTN, no que concerne à ilegitimidade passiva do recorrente da execução fiscal, visto que só poderia ser incluído no processo após esgotados todos os meios de tentativa de responsabilização da pessoa jurídica, e ante a ausência de processo administrativo oportunizando o contraditório e a ampla defesa, restou prejudicada a identificação dos requisitos do artigo 112 do CTN. Argumenta:
+Isso porque, o artigo 135 do CTN não pode ser analisado de forma autônoma, mas em conjunto com os artigos 132 e 134 do CTN, notadamente pela necessidade de instauração de incidente de desconsideração da personalidade jurídica após esgotados todos os meios de tentativa de responsabilização da pessoa jurídica, o que não ocorreu no presente caso.
+ ..
+Neste sentido, importante esclarecer que não houve nenhuma tentativa de cobrança do débito à pessoa jurídica, muito pelo contrário, a ação já foi iniciada diretamente em face da sócia, sem nem ao menos ter sido comprovado eventual tentativa de cobrança ainda que na modalidade administrativa, ocorrendo, assim, clara afronta ao dispositivo legal.
+ ..
+Assim, resta imprescindível que a cobrança seja realizada na modalidade de incidente de cumprimento de sentença de modo que possa ser devidamente oportunizado o contraditório e a ampla defesa, consoante descrito no artigo 134 do CPC.
+ ..
+Ademais, temos que não houve a devida oportunidade do contraditório e da ampla defesa na medida em que o processo administrativo não foi juntado aos autos, contudo, houve a indevida presunção de que a sua existência é o bastante para inclusão de sócio no polo passivo da demanda, ou seja, o procedimento não foi devidamente juntado para análise e a simples CDA já serviu como presunção de validade, o que contraria os termos do artigo 112 do CTN na medida em que não resta possível identificar se houve a observância de referidos termos ou não (fls. 80-81).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente, no sentido de que, o recorrente só poderia ser incluído no processo após esgotados todos os meios de tentativa de responsabilização da pessoa jurídica, e ante a ausência de processo administrativo oportunizando o contraditório e a ampla defesa, restou prejudicada a identificação dos requisitos do artigo 112 do CTN.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" ;(AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
