@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, com pedido liminar, impetrado em benefício de WELLINGTON JORGE FERREIRA - condenado à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 750 dias-multa, por incursão no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0009049-81.2015.8.26.0635), não comporta processamento.
+Busca-se, na presente impetração, inclusive em caráter liminar, a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, na fração máxima de 2/3, impondo-se o regime inicial aberto e substituindo-se a pena privativa de liberdade por restritiva de direitos. Sustenta-se que o paciente é primário, não possui antecedentes criminais e preenche todos os requisitos legais para a concessão do benefício, indevidamente afastado por motivação inidônea. Subsidiariamente, requer-se a imposição do regime de pena semiaberto, pois afirma que o regime fechado foi estabelecido com base na gravidade abstrata e hediondez do delito.
+É o relatório.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a condenação transitou em julgado em 8/8/2017, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Registre-se, ainda, que a presente via não se mostra adequada para o amplo reexame de fatos e provas, notadamente no que se refere à análise da dosimetria da pena. Ademais, não se constata qualquer ilegalidade manifesta que justifique a concessão de habeas corpus de ofício.
+O afastamento da aplicação do tráfico privilegiado fundamentou-se na expressiva quantidade de droga apreendida - 19,297 kg de maconha (fl. 13) -, a qual, à época do trânsito em julgado da condenação, era considerada, por si só, motivo idôneo para tanto. Ressalte-se que a mudança de entendimento jurisprudencial apenas ocorreu em 3/5/2022, por ocasião do julgamento do REsp n. 1.963.433/STJ - Tema Repetitivo 1154 -, pela Terceira Seção desta Corte Superior.
+No que se refere ao regime prisional, a pena imposta ao paciente, aliada à circunstância judicial desfavorável representada pela quantid ade de droga apreendida, justifica a fixação de regime mais gravoso para o cumprimento da reprimenda.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI DE DROGAS. PEDIDO SUBSIDIÁRIO DE ABRANDAMENTO DE REGIME INICIAL DE CUMPRIMENTO DE PENA. WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
