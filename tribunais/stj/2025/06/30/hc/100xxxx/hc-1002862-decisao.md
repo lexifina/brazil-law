@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de EDVANDRO GOMES VALENCA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (apelação criminal n. 0001534-23.2018.8.17.0220).
+Consta dos autos que o paciente foi condenado à pena de 03 (três) anos e 04 (quatro) meses de reclusão, com substituição por duas penas restritivas de direitos, pela prática do delito previsto no art. 33, §4º, da Lei n. 11.343/2006.
+O impetrante sustenta a ocorrência de constrangimento ilegal, porquanto a condenação por tráfico de drogas, mantida pelo Tribunal de Justiça de Pernambuco, configura constrangimento ilegal à liberdade de locomoção do paciente, devido à ausência de provas concretas da traficância.
+Afirma que a condenação se baseou na apreensão de 5 gramas de crack e nos depoimentos dos policiais, considerados insuficientes para caracterizar o tráfico.
+Argumenta que não foram encontrados apetrechos típicos do tráfico e que a origem dos bens apreendidos foi comprovada como lícita.
+Cita jurisprudência do STJ que permite a desclassificação para uso pessoal quando há apreensão de pequena quantidade de droga e ausência de outros elementos de prova da traficância.
+Aduz que o investigador admitiu que sua convicção sobre a destinação da droga para o comércio se baseava em sua "experiência pessoal" e não em fatos concretos, o que não pode servir de base para condenação.
+Sustenta que, diante da dúvida sobre a destinação da droga, o princípio do in dubio pro reo deve ser aplicado, favorecendo a desclassificação da conduta.
+Requer, liminarmente e no mérito, a concessão da ordem para suspender os efeitos da condenação, com a consequente desclassificação da conduta para o crime de posse de droga para consumo pessoal.
+Foram prestadas as informações pelo Juízo de primeiro grau (fls. 541-542).
+O Tribunal impetrado apresentou as informações requisitadas nas fls. 548-549.
+O Ministério Público Federal apresentou parecer, opinando pela denegação da ordem (fls. 567-569).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento da Primeira Turma do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, cumpre analisar a existência de eventual ameaça ou coação à liberdade de locomoção do paciente, a fim de evitar prejuízo à sua defesa.
+Passarei, assim, ao exame das razões deste writ.
+A defesa pretende por meio do presente mandamus a desclassificação do crime de tráfico de drogas para a infração de posse de drogas para consumo pessoal, sob o argumento de que as provas não demonstram a traficância.
+Sobre o tema tratado no remédio heroico, o Juízo sentenciante consignou (f ls. 164-168- grifamos):
+A testemunha arrotada na denúncia ROBERVAL SEBASTIÃO DE ALMEIDA JUNIOR ouvido em Juízo em suma que
+havia uma Investigação respeito dele por tráfico de drogas que foi solicitado mandado de busca para residência dele da mãe que quando foram dar cumprimento aos mandados acusado avistou depoente delegado tentou correr para dentro de casa mas ja tinha outra equipe vindo pela casa da mãe que ele resistiu ao comando de busca pessoal revista foi dominado depoente achou um pacote com crack embaixo do colchão dele esposa do acusado estava na casa que acusado assumiu propriedade da droga não lembra da esposa do acusado ter falado algo depoente foi ouvido no flagrante que foi encontrado dinheiro salve engano no paletó dele que de imediato réu disse ser usuário que não conhecia réu que reconhece com sua assinatura de fl Dos autos como condutor que réu estava saindo de casa tentou correr para dentro da casa dele que não queria atender aos comandos da polícia se virava debatia que foi algemado que acusado se defecou na hora da diligencia que réu estava saindo de casa quando correu não fechou porta que havia informações sobre movimentação venda horários encontrou droga juntamente com Policial Alan que dinheiro os celulares foram os outros policiais que viu dinheiro encontrado no paletó não se recorda de outro dinheiro encontrado que que havia notas grandes pequenas as pedras estavam fracionadas pelas condições que estavam se destinariam venda que cada dez ou onze pedras chegam pesar um grama que denúncia partiu de um informante os papagaios eram da esposa
+A também testemunha arrolada na Inicial acusatória JOATAN CORDEIRO MARTINS, ouvido em Juízo afirmou
+Que foram cumprir um mandado de busca que casa ia de um lado outro da rua que foi abordar imóvel pelos fundos que casa se comunicava com Imóvel da mãe do réu que resto do efetivo entrou pela frente que realizaram busca na casa da genitora do réu que quando chegou na parte da frente pessoal já tinha encontrado crack dinheiro que viu os papagaios que dinheiro droga foram encontrados no quarto do casal que parece que réu confirmou que droga era dele que Alan estava com outra equipe que no local estavam esposa o filho e o réu que a mãe também estava presente era única que aparentava surpresa que mulher reclamava que réu continuava mexendo com isso que uma parte do dinheiro estava numa bolsa outra no casaco de um paletó que bolsa era tipo de viagem que dinheiro estava no mesmo quarto mas não estavam juntos que esposa do acusado deixou remédios para mãe do acusado tomar no horário devido.
+(..)
+Hei de discordar da tese ora arguida pela defesa primeiro porque prova testemunhal cristalina ao afirmar que local onde prisão ocorreu conhecido como ponto de venda de drogas Houve uma notícia anônima acerca do funcionamento de uma boca de fumo no local feito levantamento acerca do fato solicitado mandado de prisão que deferido Dado cumprimento ao expediente foram encontradas 47 (quarenta sete pedras) da substancia entorpecente conhecida como crack prontas para consumo As pedras estavam acondicionadas em embalagens separadas denotando destinarem-se comercialização No momento do cumprimento da diligencia réu tentou evadir se consoante depoimento do policial civil Roberval Sebastião contido em mídia digital este mesmo policial afirma que participou de investigações preliminares envolvendo acusado Apesar da substância totalizar apenas 05 (cinco) gramas diante do contexto formado nos autos entendo que as pedras apreendidas destinavam se comercialização cediço que materiais como crack não são fáceis de encontrar devido as características ao tamanho de uma pedra destinada ao consumo. Hodiernamente traficantes procuram disfarçar seu comercio, armazenando pouca droga fim de descaracterizar sua atividade expertise do policial civil também indica que diante da compleição física do próprio acusado ele não se enquadraria em usuário de tamanha quantidade de crack
+A também testemunha Jonathan Cordeiro em suas declarações corrobora versão apresentada por Roberval Sebastião ao declarar que esposa do acusado não estava satisfeita com fato do réu continuar mexendo com isso.
+Na hipótese, conforme a prova colhida em Juízo, havia uma investigação prévia, a qual apontava o tráfico de substâncias entorpecentes pelo paciente, inclusive o monitoramento pretérito constatou movimentação estranha, ensejando a expedição de mandado de busca e apreensão.
+Durante o cumprimento do mandado, o paciente tentou se desvencilhar da equipe policial e, quando encontrada a substância, sua esposa expressou seu descontentamento, em relação ao réu continuar mexendo com isso.
+Ademais, vale destacar que a desclassificação da conduta, é medida inviável na via estreita do habeas corpus, principalmente quando as instâncias ordinárias concluíram pela existência de robusto conjunto probatório sobre a autoria da prática do delito de tráfico de drogas.
+Nesse sentido:
+ o  habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 832.649/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/08/2023, DJe de 01/09/2023).
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO PESSOAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, no qual se pleiteava a desclassificação do crime de tráfico de drogas para porte de entorpecente para uso pessoal.
+2. O paciente foi condenado pelo crime de tráfico de drogas com base na posse de 30g de maconha, encontrada em sua cela, e na confissão de que venderia a substância para outros detentos.
+II. Questão em discussão
+3. A discussão consiste em saber se a quantidade de droga apreendida e as circunstâncias do caso permitem a desclassificação do crime de tráfico de drogas para porte de entorpecente para uso pessoal.
+III. Razões de decidir
+4. As instâncias ordinárias concluíram, de modo fundamentado, que a conduta do agravante se amolda ao delito de tráfico de drogas, destacando a confissão do réu e a posse da substância.
+5. A jurisprudência desta Corte afirma que o crime de tráfico de drogas é de ação múltipla, consumando-se com a prática de qualquer dos verbos nucleares do tipo penal, não sendo necessária a efetiva prática de atos de mercancia.
+6. A desclassificação para uso pessoal demandaria o revolvimento do conjunto fático-probatório, o que é inviável na via do habeas corpus.
+7. A Corte local não se manifestou acerca da tese defensiva referente ao entendimento do Supremo Tribunal Federal quanto à desclassificação para uso pessoal, sendo vedado a este Tribunal examinar a questão, sob pena de supressão de instância.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: 1. O crime de tráfico de drogas é de ação múltipla, consumando-se com a prática de qualquer dos verbos nucleares do tipo penal. 2. A desclassificação para uso pessoal demanda revolvimento do conjunto fático-probatório, inviável na via do habeas corpus. 3. Matéria não apreciada pelo Tribunal de origem não pode ser enfrentada por esta Corte Superior, sob pena de supressão de instância.
+Dispositivos relevantes citados: Lei n. 11.343/2006, arts. 28, § 2º, e 33.Jurisprudência relevante citada: STJ, AgRg no AREsp 1.803.460/ES, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/09/2022; STJ, AgRg no HC 773.880/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 13/12/2022; STJ, AgRg no HC 762.463/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 28/11/2022.
+(AgRg no HC n. 964.065/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DE CONDUTA. REEXAME DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, no qual se pleiteava a desclassificação do delito de tráfico de drogas para o delito previsto no art. 28 da Lei n. 11.343/2006.
+2. O Tribunal de origem manteve a condenação do paciente pelo crime de tráfico de drogas, fundamentando-se na materialidade e autoria comprovadas por depoimentos e provas documentais, além de considerar a quantidade e forma de acondicionamento das drogas apreendidas.
+II. Questão em discussão
+3. A discussão consiste em saber se é possível a desclassificação do delito de tráfico de drogas para uso pessoal sem a necessidade de reexame do conjunto fático-probatório, o que é inviável na via do habeas corpus.
+III. Razões de decidir
+4. O habeas corpus não é a via adequada para reexame de provas, sendo inviável a desclassificação de conduta sem análise aprofundada do conjunto fático-probatório.
+5. A decisão do Tribunal de origem está devidamente fundamentada, com base em provas suficientes para comprovar a autoria e materialidade do crime de tráfico de drogas.
+6. Não há flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. O habeas corpus não se presta para reexame de provas com vistas à desclassificação de conduta. 2. A condenação por tráfico de drogas pode ser mantida com base em depoimentos de agentes públicos e provas documentais, desde que harmônicas e suficientes para comprovar a autoria e materialidade do delito.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33;
+Código Penal, art. 330.Jurisprudência relevante citada: STJ, AgRg no HC 773.880/SP, Min. Messod Azulay Neto, Quinta Turma, julgado em 13.12.2022.
+(AgRg no HC n. 974.415/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+Portanto, a desclassificação é incompatível com a via eleita, pois exige reexame aprofundado de provas já analisadas pelas instâncias ordinárias.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
