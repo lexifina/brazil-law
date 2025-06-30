@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MESSIAS DIAS SOARES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS no julgamento do Habeas Corpus Criminal n. 0715894-32.2025.8.07.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 5 anos e 4 meses de reclusão, no regime inicial semiaberto, além do pagamento de 13 dias-multa, pela prática do crime tipificado no art. 157, § 2º, inciso II, c/c o art. 29, todos do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, que denegou a ordem nos termos do acórdão assim ementado (fl. 63):
+"Ementa: DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PARA CUMPRIMENTO DE PENA EM REGIME SEMIABERTO. AUSÊNCIA DE INTIMAÇÃO PRÉVIA. RESOLUÇÃO CNJ Nº 474/2022. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão que determinou a prisão de condenado à pena de 5 anos e 4 meses de reclusão, a ser cumprida em regime inicial semiaberto, sem prévia intimação do paciente após o trânsito em julgado da sentença condenatória.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a ausência de intimação pessoal do condenado, antes da expedição do mandado de prisão para cumprimento de pena em regime semiaberto, torna ilegal a prisão determinada pelo juízo da execução penal, nos termos da Resolução CNJ nº 474/2022.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus é cabível para coibir restrição ilegal à liberdade de locomoção, ainda que decorrente de cumprimento de pena definitiva.
+4. A Resolução CNJ nº 474/2022 determina a intimação prévia do condenado à pena em regime semiaberto ou aberto, antes da expedição do mandado de prisão.
+5. A jurisprudência do Superior Tribunal de Justiça afirma que a não observância da intimação prévia viola a Resolução CNJ nº 474/2022, salvo quando inexistente prejuízo concreto.
+6. Embora não tenha havido intimação do paciente, a prisão já foi cumprida e tramita pedido de autorização para trabalho externo perante o juízo da execução, circunstância que afasta a declaração de nulidade por ausência de prejuízo efetivo.
+IV. DISPOSITIVO E TESE
+7. Ordem denegada.
+Dispositivos relevantes citados: CF/1988, art. 5º, LXVIII; Resolução CNJ nº 417/2021, art. 23, com redação da Resolução CNJ nº 474/2022.
+Jurisprudência relevante citada: STJ, HC n. 886.759/SP, rel. Min. Daniela Teixeira, 5ª Turma, j. 10.12.2024; STJ, AgRg no HC n. 890.182/ES, rel. Min. Rogerio Schietti Cruz, 6ª Turma, j. 27.05.2024; STJ, AgRg no HC n. 951.632/MS, rel. Min. Joel Ilan Paciornik, 5ª Turma, j. 04.12.2024"
+No presente writ, a defesa sustenta que o paciente está sofrendo coação ilegal, pois foi condenado a cumprir pena em regime semiaberto, mas está preso em regime fechado há mais de 60 dias, sem intimação prévia ou audiência admonitória, em violação à Resolução CNJ n. 474/2022.
+Argumenta que o Tribunal de origem reconheceu a ilegalidade da prisão, mas denegou a ordem na impetração originária, sob o fundamento de que não haveria prejuízo ao apenado.
+Observa que a Vara de Execuções Penais do Distrito Federal declarou-se incompetente para cumprir a determinação deste Superior Tribunal de Justiça - STJ, perpetuando a prisão ilegal.
+Requer, em liminar e no mérito, a concessão da ordem para que seja determinada a imediata soltura do paciente ou, subsidiariamente, o cumprimento da pena em regime domiciliar, além da apuração de responsabilidade das autoridades que descumpriram a decisão anterior do STJ e comunicação ao Conselho Nacional de Justiça sobre o descumprimento da Resolução n. 474/2022 e da decisão deste Tribunal.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso.
+Inicialmente, sobre a irresignação contra a expedição de mandado de prisão para o regime semiaberto sem a intimação do paciente para dar início ao cumprimento da pena, verifica-se que a matéria foi analisada no julgamento do AgRg no HC n. 999.748/DF, que julguei prejudicado em virtude do cumprimento do mandado de prisão.
+Assim, diante de inadmissível reiteração de pedidos, resta obstaculizado o conhecimento deste mandamus .
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. FEMINICÍDIO QUALIFICADO E ABORTO PROVOCADO POR TERCEIRO TENTADOS. RECURSO ORDINÁRIO INTERPOSTO SEM PROCURAÇÃO. DEFICIÊNCIA NÃO SANADA EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PARA CONHECIMENTO DA MATÉRIA DE OFÍCIO. INEFICÁCIA DE EVENTUAL REGULARIZAÇÃO. OBJETO DO RECURSO QUE CONSISTE EM MERA REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. PRISÃO DOMICILIAR PARA TRATAMENTO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE ALTERAÇÃO QUE JUSTIFIQUE NOVO JULGAMENTO. AGRAVO REGIMENTAL QUE SE LIMITA A REPETIR AS ALEGAÇÕES PRÉVIAS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Hipótese na qual não consta dos autos procuração outorgada ao patrono do agravante, o que, nos termos do enunciado n. 115 da Súmula desta Corte, torna inexistente o recurso. Ademais, embora apontada a ausência na decisão ora atacada, não houve a regularização com a interposição do agravo regimental.
+2. Embora a jurisprudência desta Corte admita, em homenagem aos princípios da economia processual e da primazia da decisão de mérito, o afastamento, de ofício, de eventual ilegalidade patente, ou a concessão de prazo para a regularização do pressuposto de admissibilidade, nos termos do art. 76, caput, e art. 932, parágrafo único, do Código de Processo Civil, não é cabível, no caso, a apreciação do mérito do recurso, e também seria inócua a regularização do feito, eis que as alegações ora apresentadas consistem em mera reiteração de recurso prévio (RHC 185348/SP), cujo provimento foi negado em 11/9/2023 - ou seja, em data recente.
+3. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+4. Ademais, o agravante se limitou a reproduzir as razões do recurso ordinário, sem impugnar especificamente a decisão agravada.
+Todavia, " ..  a jurisprudência deste Superior Tribunal de Justiça orienta que o princípio da dialeticidade exige da parte a demonstração específica do desacerto da fundamentação no decisum atacado. Precedentes" (AgRg no HC n. 752.579/BA, Rel. Ministro JOÃO BATISTA MOREIRA (Desembargador Convocado do TRF1), Quinta Turma, DJe de 3/7/2023).
+5. Agravo não conhecido .
+(AgRg no RHC n. 186.154/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 27/10/2023.)
+No tocante ao pedido de prisão domiciliar, da atenta leitura do acórdão impugnado verifica-se que o Tribunal de origem não se manifestou expressamente sobre a referida questão.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito nesse ponto , sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Por fim, eventual descumprimento das decisões proferidas pelo Superior Tribunal de Justiça deve ser impugnado pelo instrumento processual adequado, não cabendo habeas corpus para assegurar tal pretensão.
+Destaco que " a  reclamação é o meio cabível para se buscar a preservação da competência das Cortes Julgadoras, bem como a autoridade de suas decisões, caso haja descumprimento de determinação judicial, ou cumprimento em desacordo com os limites do julgado" (HC n. 14.727/RJ, relator Ministro Gilson Dipp, Quinta Turma, julgado em 7/6/2001, DJ de 27/8/2001, p. 358).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
