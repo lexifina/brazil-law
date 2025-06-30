@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/06/2025 a 30/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO E AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. EXAME NA VIA ESPECIAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A controvérsia relativa à competência para fiscalizar a comercialização de produto agrotóxico foi dirimida na origem com fundamento constitucional, especificamente com base na delimitação das competências comum e concorrente para a proteção ao meio ambiente, na aplicação do princípio da precaução e com base no artigo 225, caput, da Constituição Federal, de modo que o recurso especial se apresenta inviável, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+3. Esta Corte Superior firmou entendimento no sentido de que a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão de óbice, por não enquadramento no conceito de lei federal, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl.1.163):
+PROCESSUAL CIVIL. ADMINISTRATIVO E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. FUNDAMENTAÇÃO CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. INADEQUAÇÃO DA VIA ELEITA. INTERPRETAÇÃO DE ATOS ADMINISTRATIVOS LOCAIS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante alega que a questão dos autos discute violação de dispositivo de lei federal e não dispositivo constitucional ou infralegal. Além disso, assevera que cumpriu os requisitos para que seja analisado o dissídio jurisprudencial alegado.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO E AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. EXAME NA VIA ESPECIAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A controvérsia relativa à competência para fiscalizar a comercialização de produto agrotóxico foi dirimida na origem com fundamento constitucional, especificamente com base na delimitação das competências comum e concorrente para a proteção ao meio ambiente, na aplicação do princípio da precaução e com base no artigo 225, caput, da Constituição Federal, de modo que o recurso especial se apresenta inviável, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+3. Esta Corte Superior firmou entendimento no sentido de que a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão de óbice, por não enquadramento no conceito de lei federal, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque a controvérsia relativa à competência para fiscalizar a comercialização de produto agrotóxico foi dirimida na origem com fundamento constitucional, especificamente com base na delimitação das competências comum e concorrente para a proteção ao meio ambiente, na aplicação do princípio da precaução e com base no artigo 225, caput, da Constituição Federal, de modo que o recurso especial se apresenta inviável , sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Nesse sentido (com grifos nossos):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL.
+1. Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. Na hipótese, tem-se que a controvérsia relativa à competência concorrente do Estado para fiscalizar a comercialização de produto agrotóxico foi dirimida com fundamento constitucional, especificamente com base na delimitação constitucional das competências comum e concorrente para a proteção da saúde, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.381.755/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/3/2020, DJe de 11/3/2020.)
+PROCESSUAL CIVIL E AMBIENTAL. USO DE AGROTÓXICOS. RESTRIÇÃO IMPOSTA EM LEGISLAÇÃO ESTADUAL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. EXAME NA VIA ESPECIAL. IMPOSSIBILIDADE.
+1. É entendimento assente no STJ que, examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF.
+2. Hipótese em que o Tribunal de origem, para conceder a segurança e reconhecer a ilegalidade das restrições impostas pela lei estadual para o uso de agrotóxicos, lastreou-se no decidido pelo STF no julgamento da Representação de Inconstitucionalidade n. 1.153-4 e do RE 286.789-6, o que torna inviável o exame da questão no Superior Tribunal de Justiça, sob de pena de usurpar a competência do STF de apreciar o tema no recurso extraordinário já interposto nos autos.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.214.152/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Por fim, sobre o dissídio jurisprudencial alegado, tem-se que, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão de óbice, por não enquadramento no conceito de lei federal , prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017; e AgInt no REsp n. 1.894.073/MS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/2/2022, DJe de 16/2/2022.
+Assim, resta prejudicado o dissídio jurisprudencial alegado.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
