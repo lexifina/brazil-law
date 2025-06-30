@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por Município de Curitiba, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 527):
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA A EMPRESA DE TELEFONIA POR OPERAR ESTAÇÃO DE RÁDIO BASE (ERB) SEM LICENCIAMENTO AMBIENTAL. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE TELECOMUNICAÇÕES. LEI MUNICIPAL QUE PADECE DE INCONSTITUCIONALIDADE, POR VÍCIO FORMAL. OBSERVÂNCIA DA ADI 3.110/SP. NULIDADE DA PENALIDADE. SUCUMBÊNCIA INVERTIDA."
+Os embargos de declaração foram rejeitados (fls. 599).
+O recorrente alega violação dos artigos 489, II e III, e 1.022, § 1º, IV, do CPC, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, em especial acerca da coisa julgada favorável ao Município de Curitiba e da competência municipal para legislar sobre licenciamento ambiental de estações rádio base.
+Sustenta que a referida coisa julgada foi estabelecida em decisões anteriores, especificamente nos autos nº 49.654/2007 da 4ª Vara da Fazenda Pública, e garantiram a aplicação da Lei Municipal nº 11.535/2005 para estações rádio base cuja instalação ocorreu após sua vigência, vedando sua aplicação para antenas instaladas antes desta lei, desde que em conformidade com as normas então vigentes.
+Quanto às questões de fundo, sustenta ofensa aos artigos 485, V, 502 e 506 do CPC e 5º, XXXVI, da CF/88, ante a desconsideração da coisa julgada entre as partes.
+Ao final, aponta divergência com precedentes do TJGO e do STF, que reconhecem a competência municipal para legislar sobre instalação de torres de telefonia e exigência de licenciamento ambiental.
+Requer a anulação dos acórdãos recorridos por omissão de julgamento e afronta à coisa julgada, ou, alternativamente, a reforma do conjunto decisório para respeitar a competência municipal e a coisa julgada em favor do Município
+Com contrarrazões (fls. 679).
+Juízo positivo de admissibilidade às fls. 712.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial tem origem em embargos à execução fiscal opostos por Claro S.A. contra multa administrativa imposta pelo Município de Curitiba por operar estação de rádio base sem licenciamento ambiental. A Claro S.A. alegou incompetência do Município para legislar sobre telecomunicações, sendo a competência privativa da União. O Tribunal de Justiça do Estado do Paraná deu provimento ao recurso da Claro S.A., anulando a multa administrativa com base na inconstitucionalidade da lei municipal, conforme decisão do STF na ADI 3.110/SP.
+Na presente insurgência, o recorrente pretende preliminarmente a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da existência de coisa julgada em seu favor.
+Todavia, o Tribunal de origem, ao ser indagado em sede de embargos de declaração, se limitou a reproduzir o que fora decidido por ocasião do julgamento da apelação, não abordando a questão suscitada.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+Assim, a falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.921.251/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 15/12/2023; AgInt no REsp 2.012.744/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 18/10/2023; AgInt nos EDcl no REsp 2.024.125/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 30/8/2023; AgInt no REsp 2.020.066/RN, relator Ministro Gurgel de Faria, Primeira Turma, DJe 19/5/2023.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste a respeito da matéria articulada nos aclaratórios atinente à coisa julgada.
+Publique-se. Intimem- se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGO 1.022 DO CPC. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
