@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra acórdão assim ementado (fls. 228-235):
+PENAL E PROCESSUAL PENAL - APELAÇÃO CRIMINAL - SENTENÇA CONDENATÓRIA - RECURSO EXCLUSIVAMENTE DEFENSIVO - FURTO QUALIFICADO (ART. 155, §4º, IV, DO CP) - 1 DESCLASSIFICAÇÃO - ACOLHIMENTO - 2 DOSIMETRIA - REDIMENSIONAMENTO DA PENA - ACOLHIMENTO - 3 REGIME INICIAL FECHADO - ALTERAÇÃO PARA SEMIABERTO - 4 PROVIMENTO UNÂNIME. 1 Por força da inexistência de provas extremes de dúvidas acerca da qualificadora, impõe-se o acolhimento do pleito desclassificatório; 2 Em virtude do afastamento das ilegalidades e teratologias verificadas na dosimetria, impõe-se o acolhimento do pleito da redução da reprimenda; 3 Fixa-se o regime inicial semiaberto, em obediência aos parâmetros legais objetivo e subjetivos (art. 33, §2º, b, e §3º, do CP); 4 Recurso conhecido e provido, à unanimidade.
+Consta dos autos que Francisco Hiago do Nascimento Sousa foi condenado em primeiro grau à pena de 3 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 97 dias-multa, pela prática do delito tipificado no art. 155, §4º, IV, do Código Penal. O Tribunal de origem, ao julgar a apelação, deu provimento ao recurso defensivo, desclassificando o delito para furto simples e redimensionando a pena para 1 ano e 9 meses de reclusão, em regime semiaberto, e ao pagamento de 87 dias-multa.
+No recurso especial, o MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ sustenta violação aos arts. 155, §4º, I, do Código Penal e 158 e 167 do Código de Processo Penal, alegando que a qualificadora do rompimento de obstáculo pode ser comprovada por outros meios de prova, como testemunhos e documentos, não sendo imprescindível o exame pericial.
+Requer o provimento do recurso para que seja mantida a qualificadora de rompimento de obstáculo e realizada nova dosimetria da pena.
+Contrarrazões apresentadas (fls. 278-286).
+O recurso foi admitido pela Corte de origem (fls. 307-310).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial, nos termos da seguinte ementa (fls. 321-326):
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO (ROMPIMENTO DE OBSTÁCULO). AUSÊNCIA DE PERÍCIA. PRESCINDIBILIDADE. PRECEDENTES. PARECER PELO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+O recurso é tempestivo e infirma os fundamentos do acórdão impugnado. Passo à análise do mérito.
+A controvérsia trazida no recurso cinge-se à necessidade ou não de exame pericial para comprovação da qualificadora de rompimento de obstáculo no crime de furto.
+O acórdão recorrido encontra-se assim fundamentado (fl. 231):
+No caso dos autos, não foi devidamente justificada na origem a eventual impossibilidade da realização da perícia direta (para a comprovação da qualificadora), seja pela autoridade policial ou pelo juízo sentenciante. Tampouco inexiste nos autos qualquer elemento que indique a impossibilidade de sua realização. Dessa forma, em regra, impõe-se o decote da qualificadora.
+Além disso, inexiste prova suficiente para o reconhecimento da qualificadora, deixando, portanto, de recair em quaisquer das hipóteses excepcionais de manutenção.
+INQUÉRITO POLICIAL OMISSO. De fato, analisando inicialmente os autos do inquérito policial, cumpre destacar o seguinte trecho, extraído do Relatório Policial: "A qualificadora encontra demonstrada por meio de anexo fotográfico presente nos autos, onde é possível verificar a ausência da carenagem da frente da motocicleta, que, conforme narrado pelo investigado, quebrou a referida peça para ligar o veículo".
+Consoante mencionado excerto, a Autoridade Policial destacou a existência de anexo fotográfico que supostamente demonstraria o rompimento do obstáculo. Contudo, na realidade, o referido documento (esse único indício, por ele mencionado) sequer resultou colacionado. Aliás, tampouco revela-se possível identificar algum suposto agente de polícia responsável por tal diligência, sendo igualmente certo que jamais foi ouvido, seja na fase policial, seja na judicial.
+Vale dizer, a Autoridade Policial, além de se omitir acerca da razão pela qual deixou de confeccionar o Laudo Pericial, ainda justificou a presença da qualificadora com base em premissa fática inexistente (ou não colacionada nos autos).
+Com efeito, sendo possível a realização de exame pericial, conforme prevê o art. 158 do CPP (naqueles casos onde a infração deixar vestígios), sua não execução demanda justificativa concreta, o que não é o caso dos autos pois, inexistem provas do rompimento do obstáculo. Igualmente, conforme destacado pelo Colegiado local "a Autoridade Policial, além de se omitir acerca da razão pela qual deixou de confeccionar o Laudo Pericial, ainda justificou a presença da qualificadora com base em premissa fática inexistente (ou não colacionada nos autos)". Desse modo, correto o afastamento da qualificadora.
+Em caso análogo, esta Corte superior entendeu que "não tendo sido apresentada justificativa para a não confecção do exame pericial, tampouco mencionada a existência de situação excepcional para que não fosse confeccionado, ao menos, um "laudo de avaliação indireta", deve a qualificadora ser afastada, desclassificando-se o crime imputado para o delito de furto simples (art. 155, caput, do CP) (AgRg no REsp n. 2.089.552/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/3/2024, DJe de 21/3/2024).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. INSURGÊNCIA QUANTO AO AFASTAMENTO DA MAJORANTE DO REPOUSO NOTURNO. OBSERVÂNCIA DO TEMA REPETITIVO N. 1087. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada está correta, pois observou o entendimento, fixado pela Terceira Seção deste Superior Tribunal no Tema Repetitivo n. 1087, de que " a  causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (REsp n. 1.888.756/SP, Rel. Ministro João Otávio de Noronha, 3ª S., DJe 27/6/2022).
+2. O reconhecimento das qualificadoras do rompimento de obstáculo e da escalada exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+3. Na hipótese, é incontroverso que não foi realizado exame pericial para atestar as referidas qualificadoras e as instâncias antecedentes não demonstraram qualquer excepcionalidade que justificasse a sua ausência.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 2.089.587/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/11/2023, DJe de 6/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO PRATICADO MEDIANTE ESCALADA. AUSÊNCIA DE PERÍCIA. IMPRESCINDIBILIDADE. AGRAVO NÃO PROVIDO.
+1. No que tange à imprescindibilidade da prova técnica para o reconhecimento do furto qualificado pela escalada, a jurisprudência desta Corte Superior de Justiça tem-se orientado pela possibilidade de substituição do laudo pericial por outros meios de prova quando o delito não deixa vestígios, estes tenham desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+2. As instâncias ordinárias, ao apreciarem a questão, não apresentaram justificativas para a não realização da perícia. Assim, deve ser afastada a qualificadora referente à escalada, tendo em vista a ausência de laudo pericial.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.000.227/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
