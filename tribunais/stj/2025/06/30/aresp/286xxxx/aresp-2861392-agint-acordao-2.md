@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/06/2025 a 30/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO CONFIGURADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO JULGADO. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NECESSIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022 do CPC/2015, ensejando a nulidade do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por Cesar Roberto Franco contra decisão assim ementada (fl. 15.892):
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EMRECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. REPARAÇÃO DEDANO AO ERÁRIO POR ATO DOLOSO DE IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO. VIOLAÇÃO DO ART. 1.022DO CPC. OMISSÃO CARACTERIZADA. MATÉRIA NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DACONTROVÉRSIA. AGRAVO CONHECIDO PARA DARPROVIMENTO AO RECURSO ESPECIAL.
+Nas razões do agravo interno, a parte agravante aponta que, ao contrário do firmado na decisão agravada, não houve omissão do acórdão, não havendo, portanto, violação do art. 1.022 do CPC, uma vez que "não há como negar, que o escopo da ação é apenas o ressarcimento ao erário, não havendo nenhuma fundamentação, citação ou pedido referente a eventual infração a Lei de Improbidade. Ou seja, a causa de pedir não se funda em ato improbo, mas em eventual ilícito de natureza cível." (fl. 15.906).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO CONFIGURADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO JULGADO. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NECESSIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022 do CPC/2015, ensejando a nulidade do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na origem, o Magistrado deu parcial provimento a ação civil pública para condenar solidariamente Antonio Cesar Ribas Pacheco, Cesár Roberto Franco, Eliseu João da Silva, Fundacen - Fundação Instituto Tecnológico Industrial e Sinval Zaidan Lobato Machado, ao ressarcimento integral de dano causado relativamente ao contrato e seus aditivos celebrados entre o Detran-PR e a Fundação Instituto Tecnológico Industrial - Fundacen, com dispensa de licitação, para execução de serviços de projetos e programas de pesquisa, ensino e desenvolvimento científico, tecnológico, social, cultural e econômico, entre 1999 e 2002.
+Ao julgar à apelação, o Tribunal a quo deu provimento ao apelo de Cesar Roberto Franco, aproveitando aos demais autores, ao reconhecer a prescrição da pretensão reparatória de prejuízo ao erário pelo ilícito civil indicado na sentença, reformando, assim, a sentença para extinguir o feito, com resolução de mérito, nos termos do art. 487, Inciso II do CPC.
+Em seguida, o Parquet estadual opôs embargos de declaração sustentando que houve omissão e negativa de prestação jurisdicional no julgado, acerca dos seguintes questionamentos (fls. 15.687-15.688):
+ ..
+(i) embora o pedido imediato da ação seja a condenação dos requeridos ao ressarcimento do dano ao erário com amparo no Código Civil, a causa de pedir é constituída pela prática de atos de improbidade dolosos tipificados na Lei nº 8.429/1992, porquanto a inicial descreve condutas dolosas que resultaram em dano ao erário e violação aos princípios regentes da Administração Pública, apontando os elementos objetivos, normativos e subjetivo previstos nos referidos tipos;
+(ii) no ordenamento jurídico brasileiro, é a adotada a teoria da substanciação qual determina que o juiz se vincula aos fatos narrados pelo autor na peça vestibular e pelo réu na contestação (CPC, arts. 141, 319, inc. III, e 373), em observância aos brocardos e da iura novit curia mihi factum, dabo tibi ius; e
+(iii) a tese fixada com o julgamento do Tema 897/STF é cristalina em apontar que a ação de ressarcimento fundada na prática de ato doloso tipificado na Lei de Improbidade Administrativa (causa de pedir) é imprescritível e, nesse passo, nega vigência aos artigos 489, §1º, inciso VI, e 927, inciso III, do CPC. (Embargos de Declaração, mov. 1.1, p. 1).
+No entanto, o Tribunal regional rejeitos os embargos de declaração assentado no fundamento de que o " n ão há falar-se em violação do art. 1.022, inciso II, do Código de Processo Civil de 2015, porquanto consta do acordão embargado os fundamentos jurídicos imprescindíveis para a solução da controvérsia em julgamento, sendo que as questões aqui alegadas não se tratam de pontos omissos do julgado, apenas e tão somente de tentativa de alteração do julgamento. Segundo o STJ, o Magistrado não é obrigado a responder todas as questões suscitadas pelas partes, se já houver encontrado motivo suficientes para proferir a decisão" (fl. 15.665).
+Inconformado com os fundamentos utilizados no acórdão que julgou os aclaratórios, interpôs o apelo especial a fim de que os vícios indicados fossem sanados. Assim, diante da evidente negativa de prestação jurisdicional, acolhi a alegada violação ao art. 1.022 do CPC, anulando o acórdão que apreciou os embargos de declaração e, por conseguinte, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos, considerando os questionamentos são indispensáveis para a adequada solução da controvérsia.
+Em que pese a parte agravante sustentar que não é o órgão julgador obrigado a rebater todos os argumentos trazidos pelas partes em defesa da tese que apresentaram, fato é que o Tribunal de origem quedou silente sobre as teses indicadas no excerto acima destacado, imprescindíveis a integral solução da controvérsia, em franca violação ao art. 1.022 do CPC.
+Embora seja verdade que a Corte julgadora não esteja obrigada a se manifestar sobre todas as questões alegadas nas razões recursais, observo que, no presente caso, tratar-se de argumentação relevante e oportunamente suscitada, sendo indispensável a sua apreciação a tempo e modo adequado. Caso contrário, impede o acesso do recurso à instância extraordinária, o que caracteriza a omissão no julgado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. TAXA CDO. DESCABIMENTO DA REMESSA NECESSÁRIA. OMISSÃO QUANTO À DATA DE INSCRIÇÃO EM DÍVIDA ATIVA. VIOLAÇÃO DO ART. 535 DO CPC/1973. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Se o Tribunal local não se manifestou acerca de pontos necessários ao deslinde da controvérsia, devidamente suscitados na origem, é de reconhecer a violação do art. 535 do CPC/1973.
+2. No caso, a Corte de origem limitou-se a declarar que a matéria ventilada no recurso de apelação foi enfrentada e decidida com clareza, sem, contudo, enfrentar as questões suscitadas em embargos de declaração.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.283.533/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/5/2020.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+1. A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+2. Recurso especial provido para tornar nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste sobre a matéria assentada nos aclaratórios.
+(REsp 1.758.521/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 17/10/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 535 DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A falta de manifestação ou de forma insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 535 do CPC/1973.
+2. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.431.635/GO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/02/2018)
+Dessa forma, deve ser mantida a decisão monocrática pelos seus próprios fundamentos, sendo indispensável o rejulgamento dos aclaratórios com o expresso enfrentamento da questão aqui considerada omitida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
