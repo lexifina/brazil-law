@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interno interposto por FAZENDA DO ESTADO DE SÃO PAULO contra decisão proferida pela Presidência do Superior Tribunal de Justiça, às fls. 383-384 (e-STJ), a qual não conheceu do agravo em recurso especial, nos seguintes termos:
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: ausência de afronta ao art. 1.022 do CPC, Súmula 280/STF, ausência de afronta a dispositivo legal e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ. Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Em suas razões, a parte agravante pretende a reforma da decisão agravada. Para tanto, defende que o recurso seja sobrestado até análise final da afetação do tema, com base na seguinte argumentação (e-STJ, fls. 388-390):
+A presente controvérsia possui indicativo de afetação à sistemática de recurso especial repetitivo pelo Ministro Presidente da Comissão de Gestão de Precedentes nos REsp"s 2178239/SP, 217823/SP e REsp 2178238/SP para decidir a seguinte questão: "se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS - GIA, para a constituição do crédito tributário".
+Por essa razão, necessário que seja determinado o sobrestamento do presente feito, até a conclusão da análise da afetação do tema, a fim de se evitar decisões em sentido contrário.
+Isso porque, nos recursos cuja controvérsia é tema de recurso repetitivo, a Presidência do STJ, ao invés de realizar o juízo de admissibilidade do AREsp, determina, de imediato, o retorno dos autos ao Tribunal de origem, para que nele se aguarde a definição de tese pelo STJ ou, caso o STJ já tenha sido fixada a tese sob o rito dos repetitivos, para que o Tribunal a quo aplique o precedente repetitivo à hipótese, em conformidade com o art. 1.030, II e III, do CPC.
+(..)
+Nesse contexto, o ESTADO DE SÃO PAULO requer, em juízo de retratação, a reforma da decisão agravada, para que o recurso seja sobrestado até a análise final da afetação do tema.
+Impugnação apresentada às fls. 396-467 (e-STJ).
+Brevemente relatado, decido.
+No caso, cumpre observar que a decisão do Tribunal de Justiça de São Paulo que não admitiu o recurso especial foi impugnada pela parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC, e passo a novo exame do recurso especial.
+Entretanto, observa-se que a questão de direito tratada no recurso especial foi afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão de afetação nos autos do REsp n. 2.178.239/SP (Tema 1.363/STJ), desta relatoria, julgada em 3/6/2025, DJe de 18/6/2025, delimitou a controvérsia da seguinte forma: "Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário."
+Confira-se a respectiva ementa:
+PROPOSTA DE AFETAÇÃO. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TRIBUTÁRIO. CONSTITUIÇÃO DE CRÉDITO TRIBUTÁRIO. DIFAL DO ICMS. NOTA FISCAL ELETRÔNICA. EQUIPARAÇÃO À GIA.
+1. Delimitação da controvérsia: definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário.
+2. Determinação de suspensão do trâmite de todos os processos em primeira e segunda instâncias, inclusive no Superior Tribunal de Justiça, nos termos do art. 1.037, II, do CPC/2015.
+3. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+(ProAfR no REsp n. 2.178.239/SP, Relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 3/6/2025, DJEN de 18/6/2025.)
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia. Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, mediante juízo de retratação, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.363/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DIREITO TRIBUTÁRIO. IMPOSTOS. ICMS. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.363 DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM, MEDIANTE JUÍZO DE RETRATAÇÃO.
