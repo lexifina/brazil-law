@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/06/2025 a 30/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  CIVIL.  AGRAVO  DE  INSTRUMENTO.  INTERESSE  PROCESSUAL  DE  AGIR.  AUSÊNCIA.  RECONHECIMENTO.  SUPRESSÃO  DE  INSTÂNCIA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  INOVAÇÃO  RECURSAL.  IMPOSSIBILIDADE.
+1.  Não  viola  os  artigos  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  A  insurgência  alegada  somente  no  recurso  especial  caracteriza  indevida  inovação  recursal.
+3.  Agravo  em  recurso  especial  conhecido  para  negar  provimento  ao  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  LUCINEIA  BENJAMIM  VIEIRA  CUSTÓDIO  contra  a  decisão  que  inadmitiu  o  recurso  especial.  O  apelo  extremo,  fundamentado  no  artigo  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do  Paraná  assim  ementado:
+"AGRAVO  DE  INSTRUMENTO.  DIREITO  CIVIL  E  PROCESSO  CIVIL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MATERIAIS,  MORAIS  E  ESTÉTICOS.  -SANEADOR.  PRELIMINAR  DE  AUSÊNCIA  DE  INTERESSE  PROCESSUAL.  DECISÃO  POSTERGADA  SOB  O  FUNDAMENTO  DE  SE  CONFUNDIR  COM  A  QUESTÃO  DE  MÉRITO.  INCIDÊNCIA  DA  TESE  DA  TAXATIVIDADE  MITIGADA  DO  ARTIGO  1.015  DO  CPC.  RECURSO  CONHECIDO.  -PRETENSÃO  DE  INDENIZAÇÃO  POR  ERRO  MÉDICO.  TRANSAÇÃO  EXTRAJUDICIAL  REALIZADA  ENTRE  AS  PARTES.  OUTORGA  DE  QUITAÇÃO  INTEGRAL  PARA  OS  DANOS  MATERIAIS,  MORAL,  ESTÉTICO,  LUCROS  CESSANTES  E  TUDO  MAIS  O  QUE  FOR  RELACIONADO  AOS  FATOS.  OBJETO  DA  TRANSAÇÃO  QUE  ABARCA  OS  PEDIDOS  FORMULADOS  NA  AÇÃO.  -  ACORDO  REALIZADO  POR  PESSOAS  CAPAZES,  COM  OBJETO  LÍCITO  E  FORMA  PREVISTA  EM  LEI.  INEXISTÊNCIA  DE  PEDIDO  DE  ANULAÇÃO  DA  TRANSAÇÃO.  -  INTERPRETAÇÃO  RESTRITIVA  QUE  NÃO  OBSTA  O  RECONHECIMENTO  DA  AUSÊNCIA  DE  INTERESSE  DE  AGIR.  -  CONDENAÇÃO  DA  AUTORA  NAS  VERBAS  DE  SUCUMBÊNCIA,  RESSALVADA  A  GRATUIDADE  DA  JUSTIÇA.  -  PROSSEGUIMENTO  DO  PROCESSO  PARA  JULGAMENTO  DA  RECONVENÇÃO.  -  RECURSO  CONHECIDO  E  PROVIDO"  (e-STJ  fl.  120).
+Os  embargos  de  declaração  opostos  foram  acolhidos  para  sanar  omissão  em  relação  à  preliminar  de  falta  de  interesse  de  agir,  sem  efeitos  infringentes,  nos  termos  da  seguinte  ementa:
+"EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  DE  INSTRUMENTO.  AUSÊNCIA  DE  INTERESSE  PROCESSUAL.  SUPRESSÃO  DE  INSTÂNCIA.  OMISSÃO.
+I.  CASO  EM  EXAME
+1.1.  Trata-se  de  embargos  de  declaração  opostos  contra  acórdão  da  9ª  Câmara  Cível  que  deu  provimento  ao  agravo  de  instrumento  nº  0100976-39.2023.8.16.0000.
+1.2.  O  acórdão  acolheu  a  preliminar  de  ausência  de  interesse  processual  e  julgou  extinta  a  ação,  sem  resolução  de  mérito,  com  fundamento  no  art.  485,  VI,  do  CPC,  condenando  a  autora  nos  ônus  de  sucumbência,  ressalvado  o  benefício  da  justiça  gratuita.
+1.3.  A  embargante  alegou  omissão  quanto  à  tese  de  supressão  de  instância  e  requereu  a  complementação  da  fundamentação  do  julgado.
+II.  QUESTÕES  EM  DISCUSSÃO
+2.1.  Omissão  na  apreciação  da  tese  de  supressão  de  instância.
+2.2.  Possibilidade  de  julgamento  da  preliminar  de  ausência  de  interesse  processual  em  agravo  de  instrumento.
+III.  RAZÕES  DE  DECIDIR
+3.1.  A  tese  de  supressão  de  instância  não  procede,  pois  a  preliminar  de  ausência  de  interesse  processual  foi  submetida  ao  juízo  de  primeiro  grau,  que  decidiu  postergar  seu  exame  para  o  mérito,  e  posteriormente  foi  analisada  pelo  Tribunal  no  agravo  de  instrumento.
+3.2.  Conforme  os  arts.  1002  e  1.103,  §  1º,  do  CPC,  o  efeito  devolutivo  do  recurso  permite  ao  Tribunal  julgar  tanto  a  decisão  de  postergar  quanto  a  própria  existência  do  interesse  de  agir.
+3.3.  A  matéria  relativa  ao  interesse  de  agir  é  cognoscível  a  qualquer  tempo  e  grau  de  jurisdição,  conforme  o  art.  485,  §  3º,  do  CPC,  sendo  legítima  sua  análise  em  sede  de  agravo  de  instrumento.
+3.4.  Não  houve  extrapolação  dos  limites  horizontal  e  vertical  do  efeito  devolutivo  do  recurso.
+IV.  DISPOSITIVO  E  TESE
+4.1.  Embargos  de  declaração  acolhidos  para  suprir  a  omissão,  sem  efeito  infringente.
+4.2.  Tese  de  julgamento:  A  análise  da  preliminar  de  ausência  de  interesse  processual  pelo  Tribunal,  em  agravo  de  instrumento,  não  configura  supressão  de  instância.
+Dispositivos  relevantes  citados
+-  Código  de  Processo  Civil,  art.  485,  VI,  §  3º,  art.  488,  art.  1002,  art.  1.103,  §  1º"  (e-STJ  fls.  147/148).
+No  especial  (e-STJ  fls.  155/182),  a  recorrente  alega  violação  dos  artigos  489,  §  1º,  I  e  IV,  e  1.022,  I,  II,  e  parágrafo  único,  II,  do  Código  de  Processo  Civil.
+Aduz  que  o  Tribunal  de  origem  incorreu  em  negativa  de  prestação  jurisdicional  ao  deixar  de  sanar  omissão  relevante  para  a  correta  solução  da  causa,  referente  ao  fato  de  que  houve  supressão  de  instância  ao  ser  examinada  a  preliminar  de  interesse  de  agir,  visto  que  tal  questão  ainda  não  havia  sido  enfrentada  pelo  juízo  de  origem,  o  qual  postergou  a  análise  para  o  julgamento  do  mérito  da  ação.
+Sustenta  que  a  transação  extrajudicial  deve  ser  interpretada  restritivamente,  significando  a  quitação  apenas  dos  valores  a  que  se  refere,  e  não  abrangendo  todos  os  danos  alegados  na  ação.
+Afirma  que  foi  desconsiderado  o  fato  de  ter  sido  enganada,  especialmente  considerando  sua  condição  de  hipossuficiência  e  a  ausência  de  assistência  jurídica  adequada  no  momento  da  celebração  do  acordo,  o  qual  deve  ser  reconhecido  como  termo  de  adesão.
+Menciona  que  também  houve  omissão  quanto  à  alegação  de  invalidade  da  transação  por  não  ter  sido  formalizada  por  instrumento  público,  nos  termos  do  artigo  842  do  Código  Civil.
+Ao  final,  requer  o  provimento  do  recurso.
+Após  a  apresentação  das  contrarrazões  (e-STJ  fls.  186/197),  o  recurso  foi  inadmitido  na  origem,  sobrevindo  o  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  CIVIL.  AGRAVO  DE  INSTRUMENTO.  INTERESSE  PROCESSUAL  DE  AGIR.  AUSÊNCIA.  RECONHECIMENTO.  SUPRESSÃO  DE  INSTÂNCIA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  INOVAÇÃO  RECURSAL.  IMPOSSIBILIDADE.
+1.  Não  viola  os  artigos  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  A  insurgência  alegada  somente  no  recurso  especial  caracteriza  indevida  inovação  recursal.
+3.  Agravo  em  recurso  especial  conhecido  para  negar  provimento  ao  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  irresignação  não  merece  prosperar.
+Trata-se,  na  origem,  de  ação  de  reparação  por  danos  morais,  materiais  e  estéticos  ajuizada  por  Lucineia  Benjamim  Vieira  Custódio  contra  Mário  Sato  e  Climas  Hospital  e  Maternidade  Santa  Rita  de  Assaí  Ltda.,  objetivando  a  indenização  pelos  danos  alegadamente  causados  por  imperícia  médica  durante  um  procedimento  cirúrgico  realizado  no  hospital,  que  resultou  em  complicações  como  perfuração  intestinal  e  necessidade  de  colostomia,  além  de  outros  danos  subsequentes.
+O  Juízo  de  origem,  em  decisão  saneadora,  postergou  a  análise  da  preliminar  de  ausência  de  interesse  de  agir que  havia  sido  arguida  pelos  réus  em  contestação,  por  entender  que  a  questão  se  confunde  com  o  mérito  da  ação  e,  portanto,  deveria  ser  analisada  posteriormente,  durante  o  julgamento  da  ação.  Além  disso,  deferiu  a  inversão  do  ônus  da  prova  em  favor  da  autora.
+O  Tribunal  de  origem,  quando  do  exame  do  agravo  de  instrumento  interposto  pela  parte  ora  recorrida  contra  a  decisão  saneadora,  deu  provimento  ao  recurso  para,  em  razão  do  acordo  havido  entre  as  partes  com  a  quitação  integral  concedida  pela  autora,  acolher  a  preliminar  de  ausência  de  interesse  processual  e  julgar  extinto  o  pedido  da  ação  indenizatória,  sem  resolução  de  mérito,  com  fundamento  no  artigo  485,  VI,  do  CPC,  devendo  os  autos  prosseguirem  para  o  julgamento  da  reconvenção.
+No  julgamento  dos  declaratórios  subsequentes,  a  instância  ordinária  esclareceu  o  motivo  pelo qual  entendeu  que,  embora  não  tenha  sido  apreciada  pelo  magistrado  singular,  conheceu  da  alegação  da  falta  de  interesse  de  agir  suscitada  pela  parte  ré,  ora  recorrida,  visto  a  autorização  contida  nos  artigos  1.002  e  1.013,  §  1º,  do  CPC  e  por  se  tratar  de  matéria  de  ordem  pública,  cognoscível  a  qualquer  tempo  e  grau  de  jurisdição.
+Eis  a  letra  do  acórdão:
+"(..)
+Interposto  o  recurso  de  agravo  de  instrumento,  opera-se  o  efeito  devolutivo  que  autoriza  o  Tribunal  não  somente  a  conhecer  a  decisão  de  postergar  ou  não  o  julgamento  da  preliminar,  mas  desde  já  reconhecer  ou  não  a  presença  do  interesse  de  agir,  conforme  se  extrai  dos  arts.  1002  e  1.103,  §  1º,  do  Código  de  Processo  Civil.
+Assim,  verificada  a  impertinência  em  se  deixar  para  examinar  a  preliminar  de  interesse  de  agir  quando  do  julgamento  do  mérito  da  causa,  estava  o  Tribunal  autorizado  a  decidir  se,  em  razão  do  acordo  havido  entre  as  partes,  com  quitação  integral  concedida  pela  autora,  haveria  necessidade  e  utilidade  a  justificar  o  ajuizamento  da  causa.
+Com  seu  recurso,  os  réus  submeteram  ao  Tribunal  o  conhecimento  da  preliminar  de  interesse  de  agir,  inclusive  com  o  pedido  de  julgamento  de  extinção  sem  apreciação  do  mérito.
+Em  suma,  submetida  ao  Tribunal  a  matéria  referente  ao  interesse  de  agir,  faz-se  possível  o  julgamento  não  somente  quanto  ao  seu  conhecimento  na  fase  de  saneamento  em  que  o  processo  se  encontrava,  mas  também  o  acolhimento  da  tese  defensiva  por  força  da  profundidade  do  efeito  devolutivo.
+Ainda,  por  se  tratar  de  matéria  cognoscível  a  qualquer  tempo  e  grau  de  jurisdição  (efeito  translativo  do  recurso),  não  havia  óbice  ao  julgamento  do  interesse  de  agir  no  recurso  de  agravo  de  instrumento  (art.  485,  §  3º,  CPC).
+A  alegação  de  supressão  de  instância  não  merece,  portanto,  acolhida.
+O  fato  é  que  a  preliminar  de  falta  de  interesse  de  agir  foi  submetida  ao  juízo  de  primeiro  grau  que  sobre  ela  decidiu  (ainda  que  no  sentido  de  postergar  o  exame).  Na  sequência,  a  questão  foi  trazida  ao  Tribunal  que  proferiu  o  julgamento  sem  ultrapassar  os  limites  horizontal  e  vertical  do  efeito  devolutivo"  (e-STJ  fl.  149).
+Conforme  se  observa,  a  questão  tida  por  omissa  foi  efetivamente  enfrentada  pela  instância  ordinária.
+Assim,  o  não  acolhimento  das  teses  ventiladas  pela  parte  recorrente  não  significa  omissão  ou  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia,  como  na  espécie.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  MONITÓRIA.  CHEQUES.  RECONSIDERAÇÃO  DA  DECISÃO  MONOCRÁTICA.  EMBARGOS  DE  DECLARAÇÃO.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE.  NÃO  OCORRÊNCIA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  211/STJ.  REEXAME  DE  FATOS  E  PROVAS.  INADMISSIBILIDADE.  DIVERGÊNCIA  JURISPRUDENCIAL.  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AUSÊNCIA.
+1.  Ausentes  os  vícios  do  art.  1.022  do  CPC,  rejeitam-se  os  embargos  de  declaração.
+2.  A  ausência  de  decisão  acerca  dos  dispositivos  legais  indicados  como  violados,  não  obstante  a  interposição  de  embargos  de  declaração,  impede  o  conhecimento  do  recurso  especial.
+3.  O  reexame  de  fatos  e  provas  em  recurso  especial  são  inadmissíveis.
+4.  O  dissídio  jurisprudencial  deve  ser  comprovado  mediante  o  cotejo  analítico  entre  acórdãos  que  versem  sobre  situações  fáticas  idênticas.
+5.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  corretamente  o  acórdão  recorrido,  de  modo  a  esgotar  a  prestação  jurisdicional,  não  há  que  se  falar  em  violação  do  art.  489  do  CPC.
+6.  Agravo  interno  provido.  Agravo  conhecido.  Recurso  especial  não  conhecido"  (AgInt  no  AREsp  1.033.786/RS,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  DJe  20/6/2017  -  grifou-se).
+Logo,  não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  Tribunal  local,  ainda  que  por  fundamentos  distintos  daqueles  apresentados  pelas  partes,  adota  fundamentação  suficiente  para  decidir  integralmente  a  controvérsia.
+Frisa-se  que,  mesmo  à  luz  do  artigo  489  do  Código  de  Processo  Civil  ,  o  órgão  julgador  não  está  obrigado  a  se  pronunciar  acerca  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  apenas  a  respeito  daqueles  capazes  de,  em  tese,  de  algum  modo,  infirmar  a  conclusão  adotada  pelo  órgão  julgador  (inciso  IV).
+Não  se  pode  confundir,  portanto,  negativa  de  prestação  jurisdicional  ou  ausência  de  fundamentação  com  decisão  contrária  aos  interesses  da  parte.
+Por  fim,  registra-se  que  a  alegação  de  omissão  em  relação  ao  fato  de  a  recorrente  ter  sido  enganada  quando  da  realização  do  acordo  e  que  este  deveria  ter  sido  formalizado  por  meio  de  instrumento  público  não  foi  suscitada  nas  razões  dos  embargos  de  declaração  opostos  contra  o  acórdão  proferido  na  origem,  tratando-se,  portanto,  de  inovação  recursal,  o  que  não  se  admite  em  recurso  especial.
+Ante  o  exposto,  conheço  do  agravo  para  negar  provimento  ao  recurso  especial.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  10%  (dez  por  cento)  sobre  o  valor  atualizado  da  causa,  os  quais  devem  ser  majorados  para  o  patamar  de  15%  (quinze  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  artigo  85,  §  11,  do  Código  de  Processo  Civil,  observado  o  benefício  da  gratuidade  da  justiça,  se  for  o  caso.
+É  o  voto.
