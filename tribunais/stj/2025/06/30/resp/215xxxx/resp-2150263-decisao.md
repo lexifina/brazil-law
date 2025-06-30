@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado (fl. 1807):
+ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CONVERSÃO DE CRUZEIROS REAIS PARA REAIS. TABELA DE SERVIÇOS DO SUS. NÃO-CUMULAÇÃO COM REAJUSTE DE 25% SOBRE A TABELA VEICULADA NA PORTARIA GM/MS Nº 2.277/95. ATUALIZAÇÃO MONETÁRIA. COISA JULGADA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ATUALIZAÇÃO. DATA-BASE.
+- Não há falar em cumulação da diferença do fator de conversão de Cruzeiros Reais para Reais estabelecido pelo SUS com reajuste de 25% sobre a tabela veiculada na Portaria GM/MS Nº 2.277/95, por terem natureza e fundamentos distintos.
+- O Supremo Tribunal Federal, no Acórdão proferido no julgamento do RE nº 870.947/SE, paradigma do Tema 810 da sistemática da Repercussão Geral, definiu a incidência do IPCA-E em lugar da incidência da Taxa Referencial - TR como critério de atualização monetária das condenações impostas à Fazenda Pública em processos judiciais.
+- Como o julgamento que consubstanciou o referido precedente se realizou posteriormente à formação da coisa julgada material sobre o objeto da ação onde foi constituído o título judicial em que se funda a pretensão de cumprimento deduzida, deve ser aplicado ao caso o critério de incidência de juros moratórios fixado expressamente na sentença condenatória proferida.
+- Possuindo o mesmo fundamento, os honorários de sucumbência devem ser calculados levando em consideração a mesma data-base.
+- Apelação da empresa não provida e apelação da União provida.
+Embargos de declaração rejeitados (fl. 1862).
+O recorrente alega violação do artigo 1.022 do CPC, ao argumento de que a Corte de origem não se manifestou a respeito das seguintes questões: (a) a premissa equivocada de que o título executivo determinou a aplicação do art. 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/09, tanto para juros moratórios quanto para correção monetária; (b) a ilegalidade da aplicação da TR como índice de correção monetária, à luz dos Temas 905/STJ, 810/STF e 1170/STF.
+Quanto à questão de fundo, sustenta ofensa ao art. 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/09, tendo em vista a ilegalidade da aplicação da TR como índice de correção monetária, devendo ser aplicado o IPCA-E.
+Com contrarrazões (fls. 1907-1911).
+Juízo positivo de admissibilidade às fls. 1917.
+O MPF opinou pelo prosseguimento do feito, à míngua de hipótese interventiva do Parquet.
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial tem origem em embargos à execução opostos pela União, em sede de liquidação de sentença proferida na ação ordinária, por meio do qual o Instituto Doutor Francisco Spínola vindicou o pagamento de diferenças dos valores pagos pelos serviços prestados ao SUS, bem como diferenças relativas à incorreta conversão de moeda, quando do advento do Plano Real.
+De início, afasta-se a alegada violação do artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que diz respeito à alegação de ofensa ao art. 1º-F da Lei nº 9.494/1997, com redação dada pela Lei n. 11.960/09, à luz do que ficou definido nos Temas 905/STJ, 810/STF e 1170/STF, o recorre argui que não há, no caso vertente, coisa julgada que tenha determinado a aplicação de índices diversos aos definidos no precedente vinculante. Contudo, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o critério de atualização monetária pela aplicação do art. 1º-F da Lei nº 9.494/1997 transitou em julgado e, por isso, não pode ser revisto na atual fase processual.
+Assim, tem-se que revisar a conclusão a que chegou o Tribunal de origem sobre a matéria demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula n. 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CORREÇÃO MONETÁRIA. CRITÉRIO. TRÂNSITO EM JULGADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
