@@ -1,0 +1,19 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 3663-3664 (e-STJ):
+Trata-se de conflito negativo de competência instaurado entre o Juízo da 25ª Vara do Trabalho de São Paulo-SP, suscitante, e o Tribunal de Justiça do Estado de São Paulo, suscitado, nos autos do Processo nº 1001647-29.2018.5.02.0025. De acordo com decisão de fls. 1.264 e ss., e-STJ, a demanda foi proposta inicialmente perante a justiça comum estadual. Em sede de apelação, o TJSP reconheceu a incompetência absoluta da justiça comum para apreciar o feito e determinou sua remessa à justiça especializada. Recebidos os autos pelo juízo trabalhista, este suscitou o presente conflito de competência, ao argumento de que o STJ firmou o entendimento de que "compete à justiça comum processar e julgar demandas relativas a plano de saúde de autogestão empresarial, exceto quando o benefício for instituído em contrato de trabalho, convenção ou acordo coletivo, hipótese em que a competência será da justiça do trabalho" (fl. 1.265, e-STJ). Os autos eletrônicos foram encaminhados ao Ministério Público Federal para parecer, todavia, em razão da ausência da decisão do juízo suscitado, foram solicitadas informações complementares ao deslinde da controvérsia. O juízo trabalhista suscitante informou às fls. 3.646 e ss., e-STJ, que houve um problema técnico não solucionado, razão pela qual não seria possível a remessa dos documentos faltantes.
+O Ministério Público se manifestou pelo não conhecimento do conflito (e-STJ fls. 3663-3666).
+É o relatório.
+DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autoridade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+A análise dos autos indica que, a despeito de oficiado a fazêlo, o juízo suscitante não instruiu o feito com documentos indispensáveis ao conhecimento da controvérsia - a decisão do juízo suscitado - a indicar a inviabilidade de se adentrar ao mérito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. INSTRUÇÃO DEFICIENTE. CONFLITO NÃO CONHECIDO.
+1.- Para que o conflito de competência seja conhecido, o suscitante deverá instruir a inicial com os documentos necessários à comprovação da existência do alegado conflito, e, no caso, ausentes tais peças, impõe-se o não conhecimento do incidente.
+2.- Agravo Regimental improvido.
+(AgRg no CC n. 130.312/BA, relator Ministro Sidnei Beneti, Segunda Seção, julgado em 27/11/2013, DJe de 6/12/2013.)
+Ante o exposto, não conheço do conflito.
+Publique-se. Intimem-se.
+EMENTA
