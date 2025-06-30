@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA-CADE com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região.
+Em suas razões, o recorrente alega violação dos artigos 20, I, da Lei nº 8884/1994; e 36, I, II, III, e §3º, I, alíneas "a", "b", "c" e inciso VII da Lei nº 12.529/2011.
+Além disso, sustenta ofensa ao artigo 85, § 8º, do CPC/2015, sob o argumento de que a fixação dos honorários advocatícios deve observar os princípios da razoabilidade e proporcionalidade, apontando incorreção no critério adotado pelo Tribunal local.
+Com contrarrazões.
+Juízo positivo de admissibilidade.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Assim, verifica-se que, nos presentes autos, há discussão, entre outras matérias, quanto à possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do CPC/2015), foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral (RE 1.412.069 - Tema 1255).
+A propósito, confira-se:
+Recurso extraordinário em que se discute, à luz dos artigos 2º, 3º, I e IV, 5º, caput, XXXIV e XXXV, 37, caput, e 66, § 1º, da Constituição Federal, a interpretação conferida pelo Superior Tribunal de Justiça ao art. 85, §§ 2º, 3º e 8º, do Código de Processo Civil, em julgamento de recurso especial repetitivo, no sentido de não ser permitida a fixação de honorários advocatícios por apreciação equitativa nas hipóteses de os valores da condenação, da causa ou o proveito econômico da demanda serem elevados, mas tão somente quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo (Tema 1.076/STJ).
+Desse modo, encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+Ante o exposto, julgo prejudicado o exame do presente recurso no presente momento processual e determino a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal (Tema 1.255/STF), em observância aos artigos 1.039, 1.040, I e II, e 1.041 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação exarada pelo STF; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. RESTITUIÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, COM FULCRO NO ART. 1030, III, DO CPC/2015, PARA QUE FIQUE SOBRESTADO ATÉ O JULGAMENTO DEFINITIVO DA MATÉRIA SUBMETIDA À REPERCUSSÃO GERAL (TEMA 1255/STF). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
