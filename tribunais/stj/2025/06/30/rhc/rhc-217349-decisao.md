@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto com fundamento no art. 105, II, "a", da Constituição Federal (CF), por KLEYDYSON DA CONCEIÇÃO ARAÚJO, contra ato praticado pela 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e Territórios, que, por unanimidade, denegou a ordem do habeas corpus originário, por inadequação da via eleita para rediscutir matéria já decidida pela Turma Recursal dos Juizados Especiais (fls. 328/329):
+Ementa: Direito penal. Direito processual penal. Habeas Corpus. Matéria afeta ao Juizado Especial Criminal. Acórdão de Turma Recursal. Substituto recursal. Impossibilidade. Inadequação da via eleita. Ausência de ilegalidade e/ou teratologia. Habeas Corpus denegado. I. Caso em exame 1. Habeas Corpus contra acórdão da 3ª Turma Recursal dos Juizados Especiais do Distrito Federal, que negou provimento à apelação da Defesa e manteve a condenação do paciente pela prática dos crimes previstos nos artigos 147 e 307, ambos do Código Penal e art. 19 da Lei de Contravenções Penais. II. Questão em discussão 2. A questão em discussão consiste em saber se o Habeas Corpus é via eleita adequada para rediscussão de matéria já definida em acórdão prolatado por Turma Recursal dos Juizados Especiais do Distrito Federal. III. Razões de decidir 3. Habeas Corpus é via eleita inadequada para rediscussão de matéria já definida por Turma Recursal dos Juizados Especiais do Distrito Federal, não se admitindo habeas corpus substitutivo ou sucedâneo de recurso próprio. 4. Assim, ausente qualquer ilegalidade, teratologia ou constrangimento ilegal na hipótese, não é caso de concessão de ofício, devendo a ordem denegada. IV. Dispositivo 5. Ordem denegada.
+Consta dos autos que o paciente foi condenado pela prática dos crimes de ameaça (art. 147 do CP), falsa identidade (art. 307 do CP) e porte de arma branca (art. 19 da LCP), com penas substituídas por restritivas de direitos.
+A Defesa sustenta que a condenação pelo crime de ameaça, em relação à vítima Mayara, configura constrangimento ilegal, pois a denúncia não descreveu objetivamente qual teria sido a conduta ameaçadora.
+Argumenta que o temor da vítima decorreu de fatos pretéritos, dissociados do contexto da denúncia, o que compromete a tipicidade da conduta e viola os requisitos do art. 41 do CPP, impedindo o pleno exercício do contraditório e da ampla defesa.
+Diante disso, a Defesa busca, no mérito, o provimento do recurso para que seja reconhecida a inépcia da denúncia quanto ao crime de ameaça em relação à vítima Mayara, com a consequente absolvição, nos termos do art. 386, III, do CPP.
+Sem pedido liminar, o Ministério Público apresentou parecer pelo não conhecimento do recurso (fls. 388/391).
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento.
+Inicialmente, no que se refere à tese de inépcia da denúncia, com o consequente pleito absolutório, verifica-se que referida matéria não foi objeto de apreciação pelo Tribunal de origem.
+Confira-se o teor do voto condutor (fls. 338/341):
+Trata-se de HABEAS CORPUS impetrado pela Defensoria Pública do Distrito Federal em favor de KLEYDYSON DA CONCEIÇÃO ARAÚJO contra suposta ilegalidade contida no acórdão da 3ª Turma Recursal dos Juizados Especiais do Distrito Federal, que negou provimento à apelação da Defesa e manteve a condenação do paciente pela prática dos crimes previstos nos artigos 147 e 307, ambos do Código Penal e art. 19 da Lei de Contravenções Penais (processo: 0702134- 32.2024.8.07.0006).
+Com razão a d. Procuradoria de Justiça.
+Não se admite habeas corpus substitutivo ou sucedâneo de recurso próprio. Com a devida vênia, o pleito da impetrante sequer pode ser conhecido, haja vista que formulou o presente habeas corpus com o escopo de impugnar decisão proferida pelo Juízo da 3ª Turma Recursal dos Juizados Especiais do Distrito Federal, utilizando-o em nítida substituição recursal, o que obsta sua admissão.
+É pacífico o entendimento deste Egrégio Tribunal de Justiça no que diz respeito à impossibilidade de que essa Colenda Corte assuma o papel de instância revisora de todos os julgados da Turma Recursal dos Juizados Especiais, admitindo-se a impetração de habeas corpus apenas em casos extremos no qual, realmente, se consiga comprovar a existência de constrangimento ilegal insanável por outro meio, limitando-se à aferição de ilegalidade manifesta, a fim de que o Tribunal de Justiça não se transforme, indevidamente, em uma terceira instância.
+Nesse sentido:
+( )
+Dessa forma, incabível a admissão do presente habeas corpus, visto que o pedido de absolvição por atipicidade da conduta reclama a apreciação de matéria fático-probatória, que se mostra incabível nos estreitos limites desse remédio constitucional, bem como porque a alegada ilegalidade na condenação não se apresenta de forma manifesta, tendo em vista que exige a incursão nas provas.
+A impetrante pretende, em verdade, utilizar desta via como substitutivo de recurso próprio, o que não pode ser admitido. Eventual questionamento do paciente desafia recurso próprio, tendo em vista que o habeas corpus não se presta à rediscussão de matérias já decididas.
+Desse modo, o Habeas Corpus é via eleita inadequada para a pretensão da impetrante, visto que se utiliza como substitutivo recursal.
+Assim, ausente qualquer ilegalidade ou constrangimento ilegal na hipótese, não é caso de concessão de ofício, devendo a ordem denegada.
+Em face do exposto, denega-se a ordem.
+Diante da ausência de manifestação expressa do Tribunal de Justiça do Distrito Federal sobre a questão, resta obstada a análise do tema, de forma originária, por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).  ..
+ AgRg no RHC n. 182.899/PB, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 - grifamos
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
