@@ -1,0 +1,21 @@
+DECISÃO
+EDIVANIA VIERIA DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul que negou provimento ao Agravo em Execução n. 8000055-89.2025.8.21.0028.
+Neste writ, postula a defesa, em síntese, a prisão domiciliar à paciente, tendo em vista ser mãe de uma criança de 9 meses, que ainda amamenta. Alega que a apenada é a única responsável pelos cuidados da infante, motivo pelo qual deve ser colocada em prisão domiciliar.
+Decido.
+O Juízo singular indeferiu o pedido de prisão domiciliar da ré com os seguintes fundamentos:
+No caso concreto, como se extrai da certidão de nascimento acostada aos autos no arq. 26.3, Vitoria já está com mais de 9 meses, não se verificando, como acima explicitado, a necessidade de que a amamentação seja a única forma de alimentação da menor.
+Ademais, não constam nos autos informações acerca da impossibilidade da apenada proceder à amamentação no estabelecimento prisional ou, mesmo, que extraia leite materno para posterior disponibilização à menor.
+Paralelamente, em que pese o relato do órgão colegiado (arq. 74.2), não há notícias de que Jorge e Romilda não estejam fornecendo os cuidados necessários a Vitoria. Pelo contrário, pode-se observar que os avós têm empreendido todos os esforços a fim de oferecer à menor a atenção que lhe é devida, não se vislumbrando cristalina situação de risco a ensejar o deferimento da prisão domiciliar.
+ ..
+Por fim, consigno que o entendimento adotado pelo STF, por ocasião do julgamento do HC 143641/SP, de que a imprescindibilidade da genitora aos filhos menores de 12 anos é presumível, não abarca as condenações definitivas, como no caso concreto, concluindo-se assim, que não é direito subjetivo automático em casos como o presente, devendo ser concedida somente quando preenchidos os requisitos legais e quando o juiz verificar a inviabilidade de manutenção da apenada no cárcere.
+De sopesar, ainda, que a apenada cumpre pena total de 6 anos, 2 meses e 20 dias, restando o cumprimento de mais de 5 anos, 6 meses e 7 dias, pelo delito tipificado no artigo 157, §2º, II, do Código Penal (fls. 51-53, grifei).
+A Corte local assim negou provimento ao agravo em execução da defesa:
+Nos termos do art. 117 da Lei de Execução Penal, faz jus ao benefício da prisão domiciliar o apenado que, estando em regime aberto, (I) possuir mais de 70 (setenta) anos de idade, (II) estar acometido de doença grave, (III) possuir filho menor ou deficiente físico ou mental, ou (IV) estar em período gestacional.
+Embora a apenada se enquadre em uma das circunstâncias acima citadas, já que possui filha menor, não implementou o requisito objetivo exigido no caput do referido artigo, qual seja, estar cumprindo pena em regime aberto, nem demonstrou a situação excepcional de ser única pessoa responsável pelo cuidado da criança, que, segundo informação do Conselho Tutelar, se encontra sob a tutela dos avós maternos, em bons cuidados e higiene adequada (Evento 74 da execução ).
+Ademais, não se verifica, ainda, ser a amamentação a única forma de alimentação da menor, que conta, atualmente, com um ano e dois meses de idade, cujo aleitamento materno, segundo orientação do Ministério da Saúde 1 , é recomendável, somente, de forma a complementar a alimentação, afastando, com isso, a imprescindibilidade da medida (fl. 27, destaquei).
+Na hipótese, ao manter o cumprimento da pena em regime semiaberto, a Corte de origem apontou que a paciente não era pessoa essencial ao cuidado dos filhos, além de haver cometido delito com violência e grave ameaça.
+Assim, evidencia-se a inviabilidade do acolhimento do pleito defensivo, visto que a instância ordinária salientou a ausência de imprescindibilidade da paciente para o cuidado da filha, que está sob os cuidados dos avós.
+Portanto, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca dos requisitos para concessão da prisão domiciliar, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal conceder o pedido formulado no writ.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
