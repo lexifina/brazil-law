@@ -1,0 +1,46 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LAMOUR CONFECCOES INDUSTRIA E COMERCIO LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/11/2024.
+Concluso ao gabinete em: 24/6/2025.
+Ação: Falência proposto por Afactoring Fomento Mercantil Ltda em face da agravante.
+Decisão interlocutória: indeferiu o pedido de homologação de acordo.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da ementa a seguir (e-STJ fls. 515-517);
+CIVIL. AGRAVO DE INSTRUMENTO E AGRAVO INTERNO EM PEDIDO DE FALÊNCIA. FALÊNCIA DECRETADA POR SENTENÇA. PLEITO DE HOMOLOGAÇÃO DE ACORDO INDEFERIDO NA ORIGEM. EXISTÊNCIA DE OUTROS CREDORES HABILITADOS. IMPOSSIBILIDADE DE HOMOLOGAÇÃO DE ACORDO EM DETRIMENTO AOS DEMAIS CREDORES. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. INTEMPESTIVIDADE CONTRARRAZÕES RECURSAIS: Inicialmente, em relação a suposta intempestividade das contrarrazões recursais do agravo de instrumento, verifica-se que a Massa Falida comprovou a indisponibilidade do sistema no último dia do prazo para a interposição da peça (fls. 456-457), sendo formalismo exacerbado a configuração da intempestividade da petição quando há comprovação dos motivos que impossibilitaram o efetivo protocolo.
+2. MÉRITO: No tocante à homologação do acordo, o Código Civil Brasileiro, ao regulamentar a transação, estabelece que "É lícito aos interessados prevenirem ou terminarem o litígio mediante concessões mútuas." (art. 840) e, ainda, que "Só quanto a direitos patrimoniais de caráter privado se permite a transação." (art. 841).
+O legislador, todavia, cuidou de ressalvar, na sequência, que "A transação não aproveita, nem prejudica senão aos que nela intervierem, ainda que diga respeito a coisa indivisível." (art. 844).
+3. Analisando a decisão impugnada (fls. 403-404 SAJPG), verifica-se que o douto juízo consignou que "o pedido de homologação de acordo, protocolado em 29/01/2024, ocorreu após o cumprimento do mandado de arrecadação, que aconteceu em 24/01/2024, conforme certidão do oficial de justiça às fls. 389/390.
+Desse modo, o Administrador Judicial, representando a Massa Falida, já entrou na posse dos bens, livros fiscais e documentos da empresa declarada falida".
+4. O juízo defendeu, ainda que, "a situação fática não encontra correspondência com os precedentes adotados por este Juízo, pois já se apresentarem outros credores, revelando a existência de um interesse coletivo no prosseguimento do procedimento falimentar, bem como a conservação do patrimônio da sociedade já se encontra sob o crivo do Judiciário, como consequência do cumprimento do mandado de arrecadação".
+5. Verifica-se que, de fato, quando do pedido de homologação acordo, já constava nos autos de origem a presença de outros credores, a exemplo do Itaú-Unibanco e do Município de Fortaleza. Já nessa neste recurso, houve manifestação da União - Fazenda Nacional (fl. 94), o que valida o entendimento da origem de que a ação deixou a ter efeitos apenas entre as partes originárias e passou a compor o interesse coletivo.
+6. Agravo de Instrumento conhecido e desprovido. Agravo Interno prejudicado.
+Recurso especial: alega violação dos arts. 840 e 850, ambos do Código Civil; artigos 2º; 3º, §§ 2º e 3º; 139, V; 487, III, "b"; 525, § 1º, VII; 933 e 1.014, todos do CPC. Sustenta que "a decretação da falência, por sentença, deve anteceder à habilitação de créditos, de modo que, havendo a composição entre quem pediu a falência e a empresa contra quem foi feito o pedido, o correto é que haja a homologação do acordo, a extinção da falência e os demais possíveis credores ingressem com a ação falimentar própria, sendo certo, repita-se, que não há nenhum pedido de manutenção da falência por nenhum suposto credor" (e-STJ fl. 544).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/CE, ao analisar o recurso interposto pela agravante, concluiu o seguinte (e-STJ fls. 522-525):
+Na origem, o pedido de falência foi interposto por AFACTORING FOMENTO MERCANTIL LTDA., em decorrência de débitos com a empresa LAMOUR CONFECÇÕES INDÚSTRIA E COMÉRCIO LTDA e, em razão da revelia e dos cumprimentos dos requisitos legais, foi proferida sentença decretando a falência da LAMOUR.
+Posteriormente, a sociedade falida apresentou petição informando que celebrou acordo com a AFACTORING, pedido que foi indeferido pelo juízo a quo e que foi alvo dos presentes agravos de instrumento e interno, após o então Relator do feito, o eminente Desembargador Inácio de Alencar Cortez Neto, conceder a antecipação de tutela recursal e "suspender todos os atos decorrentes da sentença que decretou a falência da empresa recorrente" Pois bem.
+No tocante à homologação do acordo, o Código Civil Brasileiro, ao regulamentar a transação, estabelece que "É lícito aos interessados prevenirem ou terminarem o litígio mediante concessões mútuas." (art. 840) e, ainda, que "Só quanto a direitos patrimoniais de caráter privado se permite a transação." (art. 841).
+O legislador, todavia, cuidou de ressalvar, na sequência, que "A transação não aproveita, nem prejudica senão aos que nela intervierem, ainda que diga respeito a coisa indivisível." (art. 844).
+Na decisão interlocutória de 2º Grau, o então Desembargador Relator, verificou a presença da probabilidade do direito, em uma análise não perfunctória, vez que "a recusa do juízo falimentar em homologar o acordo do autor do pedido de falência, e do agravante, constitui no mínimo erro de procedimento do juízo, por violação aos princípios da inafastabilidade da tutela jurisdicional e do devido processo legal, consagrados pelo art. 5º, XXXV e LIV, da Constituição Federal, além de comprometer a finalidade do processo, que é a satisfação do direito material pela primazia da sentença de mérito, nos termos dos arts. 4º e 6º, do CPC" (fl. 82).
+Ademais, por cautela, o então Relator entendeu que a continuidade da ação na origem "sem que seja apreciado por esta corte, os motivos da negativa de homologação do acordo realizado, pode causar prejuízos irreparáveis ao funcionamento da empresa agravante, inclusive quanto ao futuro pagamento de seus outros credores porventura existentes", configurando, assim, o perigo de dano.
+(fl. 82).
+Verificou, ainda, a reversibilidade da medida, razão pela qual, sem adentrar nos motivos do acerto ou desacerto da decisão que indeferiu o pedido de homologação de acordo, que deverá ser feito no julgamento do agravo de instrumento, a revogação posterior desta decisão não causará maiores danos.
+ .. .
+Analisando a decisão impugnada (fls. 403-404 SAJPG), verifica-se que o douto juízo consignou que "o pedido de homologação de acordo, protocolado em 29/01/2024, ocorreu após o cumprimento do mandado de arrecadação, que aconteceu em 24/01/2024, conforme certidão do oficial de justiça às fls. 389/390.
+Desse modo, o Administrador Judicial, representando a Massa Falida, já entrou na posse dos bens, livros fiscais e documentos da empresa declarada falida".
+Defendeu, ainda que, "a situação fática não encontra correspondência com os precedentes adotados por este Juízo, pois já se apresentarem outros credores, revelando a existência de um interesse coletivo no prosseguimento do procedimento falimentar, bem como a conservação do patrimônio da sociedade já se encontra sob o crivo do Judiciário, como consequência do cumprimento do mandado de arrecadação".
+Verifica-se que, de fato, quando do pedido de homologação acordo, já constava nos autos de origem a presença de outros credores, a exemplo do Itaú- Unibanco e do Município de Fortaleza. Já nessa neste recurso, houve manifestação da União - Fazenda Nacional (fl. 94), o que valida o entendimento da origem de que a ação deixou a ter efeitos apenas entre as partes originárias e passou a compor o interesse coletivo.
+Acerca da impossibilidade de homologação de acordo quando há prejuízo de demais credores,  .. .
+ .. .
+Assim, a negativa de homologação encontra respaldo na própria fundamentação do juízo, sendo mister a manutenção da decisão de origem a fim de não prejudicar os interesses da coletividade, em razão dos altos débitos já indicados no curso da ação.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE FALÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de Falência.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
