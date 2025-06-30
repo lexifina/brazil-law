@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Patrícia de Sá contra decisão que deu provimento ao recurso especial manejado pela União para julgar improcedente o pedido inicial (fls. 1.453/1.458).
+Em suas razões, a parte embargante sustenta que "O comportamento da União com o pagamento integral do objeto desta ação de cobrança reveste-se de verdadeiro RECONHECIMENTO TÁCITO DO PEDIDO DESTA AÇÃO, o que, por consequência, ocasiona na extinção do processo com resolução do mérito, com JULGAMENTO DE PROCEDÊNCIA DA AÇÃO, com formação de coisa julgada material, sua condenação os ônus da sua sucumbência e possibilidade de execução de eventual diferença decorrente eventual falha de cálculo dos consectários e retenções (art. 487, III, "a", e art. 90, ambos do CPC)." (fl. 1.463).
+Assevera que " necessário a oposição destes aclaratórios para afastar o vício apontado e integrar a decisão para especificamente apontar os fundamentos que afastam os argumentos deduzidos nas contrarrazões expostas pela parte, sob pena de nulidade da decisão ante o descumprimento do artigo 93, IX, da CF e artigo 489, parágrafo primeiro, incisos I, III, IV, V, VI c/c artigo 1022, parágrafo único, II, ambos do CPC. É o que se requer. " (fl. 1.465).
+A parte embargada apresentou manifestação (fls. 1.516/1.520).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente asseverado que, no que se refere aos quintos, é firme a jurisprudência deste STJ no sentido de não ser cabível o pagamento de valores correspondentes a parcelas atrasadas reconhecidas administrativamente.
+Ficou demonstrado que a jurisprudência predominante nesta Corte tem entendido que, "ainda que possa ser mantida a percepção de parcela de "quintos" - reconhecida e paga administrativamente -, até futuro reajuste que a absorva, o embargante não faz jus a qualquer nova incorporação, além da parcela que já havia sido concedida administrativamente, nem aos atrasados daí decorrentes" (STJ, EDcl no AgInt no AgRg no AREsp n. 2.085/RJ, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 17/2/2023). No mesmo sentido: STJ, AgInt no RE nos EDcl no AgRg no AREsp n. 17.132/RJ, relator Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 27/5/2022; REsp n. 1.217.084/RJ, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/4/2021; AgInt nos EDcl no REsp n. 2.043.713/PB, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/8/2023, DJe de 29/8/2023.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas obscuridades do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitos os presentes embargos de declaração.
+Publique-se.
+EMENTA
