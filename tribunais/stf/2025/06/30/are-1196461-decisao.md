@@ -1,0 +1,67 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 1, p. 153):
+
+    “TRIBUTÁRIO. IR. VERBAS SOBRE TERMINO CONTRATOTRABALHO. CARATER INDENIZATÓRIO. NÃO CONFIGURADO. APELAÇÃO IMPROVIDA.
+
+    - O imposto de renda incide sobre "proventos de qualquer natureza"(art. 43, do CTN). Deve haver, portanto, um acréscimo ao patrimônio do contribuinte, sendo o fato gerador a aquisição da disponibilidade financeira. Pode ocorrer, porém, que um determinado pagamento não gere acréscimo patrimonial, não incidindo sobre tal verba o imposto de renda.
+
+    - A controvérsia acerca da incidência do imposto de renda em gratificação por liberalidade do empregador, paga por ocasião da extinção do contrato de trabalho, sem justa causa, a título de indenização especial, restou dirimida pela Primeira Seção do STJ no julgamento do REsp n° 1102575, Relator Ministro Campbell Marques, submetido ao rito do art. 543-C, do CPC;
+
+    - Os valores ora questionados, imposto de renda incidente sobre "não concorrência e confidencialidade", resta configurado o acréscimo patrimonial, visto que não decorrem do plano coletivo de demissão incentivada e nem estão elencados entre as verbas consideradas como indenização pela legislação trabalhista.
+
+    - In casu, resta configurado o fato gerador do imposto de renda sobre a parcela recebida como "demissão no período de retenção" e "pacto de não concorrência", pois presente a aquisição da disponibilidade econômica e jurídica da verba, incidindo a norma do art. 43 do CTN. Precedentes.
+
+    - Apelação improvida.”
+
+    Os embargos declaratórios foram desprovidos (eDOC 1, p. 182).
+
+    No recurso extraordinário interposto com fulcro no art. 102, III, b, do permissivo constitucional, alega-se violação aos arts. 5°, V, X, XIII; 145, §1°; 150, I e IV e 153, III, da Constituição Federal.
+
+    Nas razões recursais sustenta-se, em síntese, que a verba de não concorrência e confidencialidade não se amolda à hipótese de incidência do imposto de renda em razão do seu caráter indenizatório, eis que destinada a reparar a injusta violação ao direito de livre exercício profissional da Recorrente.
+
+    É o relatório. Decido.
+
+    De plano, verifica-se que controvérsia a respeito da natureza jurídica dos valores recebidos a título de auxílios ou gratificações, para fins de incidência do imposto de renda, demanda a interpretação da legislação infraconstitucional de regência, de modo que eventual ofensa à Constituição Federal possuiria caráter indireto e reflexo.
+
+    Nesse sentido, vejam-se os seguintes julgados:
+
+     “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DE SANTA CATARINA. SERVIDORES PÚBLICOS. HORAS DE SOBREAVISO. INCIDÊNCIA DE IMPOSTO DE RENDA. NATUREZA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+
+     1. A controvérsia relativa à incidência do Imposto de Renda sobre a importância paga a título de horas de sobreaviso é de natureza infraconstitucional, já que o caráter indenizatório da verba foi decidido pelo Tribunal de origem à luz da legislação estadual pertinente, não havendo, portanto, matéria constitucional a ser analisada.
+
+     2. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. No presente caso, a alegação de repercussão geral não está acompanhada de fundamentação nos moldes exigidos pela jurisprudência desta Corte.
+
+     3. A teor do art. 102, III, a , da Constituição, fundamento da interposição do presente recurso extraordinário, não cabe invocar nesse apelo a violação a norma infraconstitucional, razão pela qual não se conhece a alegada violação aos arts. 43, I e II, do CTN, 45, II, e 638, do Decreto 3.000/99.
+
+     4. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009).
+
+    5. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.” (ARE 802.082-RG, Rel. Min. Teori Zavascki, Plenário, DJe de 29/04/2014, Tema 720).
+
+     “TRIBUTÁRIO. GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS GACEN. NATUREZA JURÍDICA. IMPOSTO DE RENDA. INCIDÊNCIA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL.” (ARE 784.854-RG, Rel. Min. Presidente, Plenário, DJe de 20/10/2014, Tema 729).
+
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO DE RENDA. CONVERSÃO DE LICENÇA-PRÊMIO. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+     I -- A jurisprudência desta Corte firmou-se no sentido de que a controvérsia acerca da incidência do imposto de renda sobre importâncias recebidas a título de conversão de licenças-prêmio em pecúnia demanda a análise de normas infraconstitucionais. A afronta à Constituição, se ocorrente seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes.
+
+     II -- Agravo regimental a que se nega provimento.” (ARE 727.022-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 23/6/2014).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE VERBAS INDENIZATÓRIAS. CONTROVÉRSIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (RE 597.564-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 14/8/2009).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. MATÉRIA INFRACONSTITUCIONAL.
+
+     1. Para dissentir-se do acórdão impugnado quanto ao caráter da verba percebida -- indenizatória ou remuneratória -- seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Agravo regimental a que se nega provimento.” (RE 344.021-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe de 1º/8/2008) “Imposto de Renda. 13º Salário. Questão de incidência desse imposto na fonte. - Inexistência de violação dos §§ 4º e 36 do artigo 153 da Emenda Constitucional nº 1/69 que, segundo o recorrente, acarretaria a nulidade do acórdão recorrido. - A alegada ofensa aos arts. 153, § 2º, e 23, § 1º, ambos da Emenda Constitucional nº 1/69, é meramente reflexa, pois, para se chegar a ela, mister será o exame da legislação infraconstitucional. E em se tratando de ofensa reflexa a textos constitucionais não cabe recurso extraordinário. Recurso extraordinário não conhecido.” (RE 117.703, Rel. Min. Moreira Alves, Primeira Turma, DJ de 8/9/1995).”.
+
+    Corroborando com tal entendimento, verifica-se que a natureza jurídica de verbas recebidas em reclamatória trabalhista, para fins de incidência de imposto de renda, cinge-se ao âmbito do Tema 236 da sistemática da repercussão geral, cujo recurso-paradigma é o AI-RG 705.941, de relatoria do Ministro Cezar Peluso, DJe 23.04.2010, assim ementado:
+
+“RECURSO. Extraordinário. Incognoscibilidade. Rescisão de contrato de trabalho. Verbas rescisórias. Natureza jurídica. Definição para fins de incidência de Imposto de Renda. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a definição da natureza jurídica de verbas rescisórias (salarial ou indenizatória), para fins de incidência de Imposto de Renda, versa sobre matéria infraconstitucional.”
+
+     Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 30 de junho de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
