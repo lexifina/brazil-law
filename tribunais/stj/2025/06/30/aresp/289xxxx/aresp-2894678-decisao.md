@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por Vera Lucia Mondin, desafiando decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que:
+Assim dispôs a ementa do v. Acórdão recorrido, verbis:
+".. Não acolhido pedido constante do recurso de apelação da autora para que seja fixado prazo para cumprimento da obrigação de realização de avaliação clínica e exames pré-operatórios, não pleiteado na exordial. Inovação recursal. Afastada a determinação de fornecimento de medicamentos. Pedido que se deu de forma genérica, sem apontamento do nome de fármacos pretendidos. Impossibilidade de verificação se os medicamentos são ou não padronizados pelo SUS, para fins de análise do atendimento dos requisitos delineados no Tema 106 do C. STJ, e se estão sendo fornecidos pelo réu. O pedido deve ser certo, sendo vedada condenação genérica. Ausente interesse de agir da autora em relação ao atendimento fisioterápico, já disponibilizado pelo Município antes da propositura da ação, bem como acerca do pedido de fornecimento de palmilha e calçados sob medida, pois ausente recusa do Município. Sentença reformada. Recurso voluntário da municipalidade e remessa necessária providos e recurso voluntário da parte autora desprovido".Destaquei.
+Verifica-se que o posicionamento apresentado pelos doutos Julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação, condição para o prosseguimento do recurso sob exame.
+Ressalte-se, ademais, buscar a recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo coma Súmula 7 da Corte Superior.
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Logo, não tendo havido efetiva impugnação a esse fundamento da decisão denegatória de admissibilidade do recurso especial, é de se manter a monocrática sob crivo.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+ EMENTA
