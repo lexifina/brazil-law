@@ -1,0 +1,15 @@
+DECISÃO
+O presente writ, impetrado em benefício de DIEGO LUCAS CONCEICAO DOS SANTOS - preso preventivamente pela prática, em tese, do crime de tráfico de drogas -, em que se aponta como órgão coator a TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5359736-67.2025.8.09.0006), comporta pronto acolhimento.
+Busca a impetração a revogação da segregação cautelar imposta ao paciente pelo Juízo de Direito da Vara da Central de Custódia/GO (Autos n. 5030448-50.2025.8.09.0006), apontando a inidoneidade da fundamentação na manutenção da custódia cautelar do acusado, pois justificada na gravidade abstrata do delito. Alega que a reincidência, por si só, não constitui fundamento válido para justificar custódia, destacando, ainda, que foi apreendida ínfima quantidade de droga (16 g de cocaína).
+Foram apreendidas, no total, 8 porções de cocaína pesando 15,786 g (fl. 269).
+É o relatório.
+Por oportuno, o Magistrado de primeiro grau decretou a prisão preventiva com fundamento no risco de reiteração delitiva, afirmando que o paciente é reincidente específico (fl. 19).
+Pois bem, nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+No caso em apreço, não obstante o relevante fundamento apresentado pelo Juízo de Direito de primeiro grau, notadamente, o risco de reiteração delitiva, em razão de o réu ostentar condenação anterior pelo cometimento de tráfico de drogas, entendo devida a concessão da liberdade provisória com medidas cautelares diversas, uma vez que o crime foi cometido sem violência e grave ameaça, não há indicativo de que o acusado participe de forma relevante de organização criminosa e foi apreendida pequena quantidade de droga (15,786 g de cocaína).
+Ante o exposto, concedo liminarmente a ordem para substituir a prisão preventiva do paciente por medidas cautelares a serem fixadas pelo Juízo de origem, sem prejuízo da decretação da prisão provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PACIENTE REINCIDENTE ESPECÍFICO. PEQUENA QUANTIDADE DE DROGA APREENDIDA (15,786 G DE COCAÍNA). EXCEPCIONALIDADE. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇ ÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida, liminarmente, nos termos do dispositivo.
