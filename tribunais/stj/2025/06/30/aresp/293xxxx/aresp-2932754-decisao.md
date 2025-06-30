@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS HENRIQUE MARCONI contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o recurso especial com fundamento na Súmula n. 7 do Superior Tribunal de Justiça.
+O acórdão recorrido tratou da apelação criminal interposta por Lucas Henrique Marconi contra a sentença que o condenou pela prática do crime de contrabando de cigarros, conforme o art. 334-A, § 1º, I, do Código Penal, c/c o art. 3º do Decreto-Lei n. 399/1968. A condenação foi mantida pelo Tribunal de origem, que negou provimento ao recurso defensivo, considerando que a materialidade, autoria e dolo do crime estavam comprovados, e que não havia causas excludentes da culpabilidade ou da ilicitude (fls. 227-234).
+O acórdão destacou que o princípio da insignificância não se aplica ao contrabando de cigarros, especialmente quando há destinação comercial, conforme precedentes do STF e STJ. Além disso, a dosimetria da pena foi mantida, considerando que a prestação pecuniária de dois salários mínimos era proporcional à situação econômica do réu, que não apresentou provas suficientes de sua incapacidade financeira (fls. 227-234).
+O agravante interpôs recurso especial, com fundamento no art. 105, III, alínea a, da Constituição Federal, alegando violação ao art. 45, § 1º, do Código Penal, devido ao valor excessivo imposto para a pena pecuniária. A defesa argumentou que a manutenção do valor comprometeria a subsistência do recorrente e de sua família, requerendo a redução para um salário mínimo, em conformidade com o princípio da individualização da pena (fls. 239-246).
+O recurso foi inadmitido, com fundamento na Súmula 7 do STJ, que veda o reexame de matéria fático-probatória.
+Diante da inadmissão do Recurso Especial, foi interposto agravo em recurso especial, sustentando que o recurso especial não pretende reexame de prova, mas sim a revaloração da prova, técnica permitida pela jurisprudência do STJ. A defesa reiterou a necessidade de redução da prestação pecuniária para o mínimo legal, devido à situação financeira do recorrente (fls. 276-285).
+O agravo busca a reforma da decisão que inadmitiu o recurso especial, visando seu processamento pelo Superior Tribunal de Justiça.
+Contraminuta apresentada (fls. 288-295).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 315):
+PENAL. AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRESTAÇÃO PECUNIÁRIA. REDUÇÃO DO VALOR. REEXAME DE FATOS E PROVAS. SÚMULA Nº 07 DO STJ. PELO CONHECIMENTO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+No caso, a despeito das razões apresentadas, o agravante deixou de rebater, especificamente, o óbice apontado pelo Tribunal a quo para inadmitir o recurso especial, limitando-se a apontar que o presente recurso não busca o reexame de provas e a reiterar as razões de mérito trazidas no recurso especial.
+Anoto a impugnação feita pelo agravante, no que interessa (fls. 283-284):
+Ocorre que o recurso especial não pretende ingressar na seara de reexame de prova, pois a análise dos pontos abordados não demanda o reexame do conjunto probatório, mas sim a mera revaloração da prova, técnica permitida pela jurisprudência do STJ.
+Para tanto, a jurisprudência do Superior Tribunal de Justiça, constatando a complexidade na diferenciação entre matéria de fato e questão de direito, cria, então, distinção entre reexame do conjunto probatório e mera revaloração da prova, asseverando que:
+A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento R Esp 878.334/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05.12.2006, DJ 26.02.2007 p. 639;
+A revaloração da prova delineada no próprio decisório recorrido, suficiente para a solução do caso, é, ao contrário do reexame, permitida no recurso especial R Esp 757.127/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15.12.2005, DJ 06.03.2006 p. 435.
+Em conclusão, enquanto no reexame probatório ocorre verdadeira incursão no conjunto probatório, sendo, portanto, vedado em sede destes apelos, a mera revaloração de provas dá-se quando os dados estão explicitamente admitidos e delineados no decisório recorrido, o que denota erro de direito, porquanto há má aplicação das regras jurídicas.
+ ..
+4.1 DA VIOLAÇÃO AO ART. 45, § 1º, DO CÓDIGO PENAL - DO VALOR EXCESSIVO IMPOSTO PARA A PENA PECUNIÁRIA
+Observe-se que a decisão recorrida fixou a prestação pecuniária em 2 salários-mínimos, contrastando com a realidade do recorrente.
+O recorrente se encontra em situação financeira difícil, o que dificulta o cumprimento da pena da forma em que foi fixada.
+Conforme depoimento em audiência, é montador de móveis com renda diminuta (R$1.700,00).
+Dessa forma, a manutenção do valor da pena de prestação pecuniária em dois salários- mínimos comprometeria de forma excessiva a subsistência do recorrente e de sua família, contrariando o princípio da individualização da pena, que exige uma pena compatível com a situação do réu. Logo, deve a pena de prestação pecuniária ser reduzida a patamar que possibilite o adimplemento pelo(a) apenado(a), com fundamento no requisito da proporcionalidade da pena e na necessidade de motivação das decisões judiciais com base em elementos concretos.
+ ..
+Portanto, deve ser possibilitada a redução da prestação pecuniária para o mínimo legal, pois a recorrente é atendido pela Defensoria Pública, não tendo sequer condições de arcar com os custos da defesa.
+Registra-se as razões da decisão que inadmitiu o recurso especial (fl. 269):
+A defesa pugna pelo redimensionamento da prestação pecuniária, de maneira a melhor se adequar às condições materiais do réu.
+Decido.
+A sistemática dos recursos excepcionais impõe que o exame levado a efeito pelos Tribunais Superiores fique adstrito às questões de direito, uma vez que os temas de índole fático-probatória exaurem-se com o julgamento nas vias ordinárias. Isto importa dizer que o exame da matéria fática e das provas é efetivado com profundidade e se esgota no segundo grau de jurisdição.
+No caso em exame, a diminuição da prestação pecuniária com base na situação econômica do recorrente enseja o revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 7, do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+ ..
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS, TRÁFICO TRANSNACIONAL DE ARMAS E CONTRABANDO DE CIGARROS. VIOLAÇÃO DO ART. 45, § 1º, DO CP. PEDIDO DE REDUÇÃO DA PENA DE PRESTAÇÃO PECUNIÁRIA. ALTERAÇÃO. DESCABIMENTO. FIXAÇÃO NOS TERMOS DA LEI. CONDIÇÕES FINANCEIRAS. ANÁLISE DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem dispôs que a pena de prestação pecuniária deve ser fixada atentando à situação financeira dos acusados e, nessa medida, deve ser arbitrada de modo a não torná-los insolventes; todavia, não pode ser fixada em valor irrisório que sequer seja sentida como sanção.  ..  É razoável considerar que a soma da pena de multa eventualmente fixada com a prestação pecuniária, dividida pelo número de meses da pena privativa de liberdade aplicada, não pode atingir montante superior àquele que comprometeria a subsistência do condenado. Em regra, tenho entendido como razoável o dispêndio de valor aproximadamente 30% da renda mensal do réu.  ..  Contudo, tal critério não é absoluto, podendo variar conforme as circunstâncias identificadas no processo, como no caso de fortes indicativos deque o réu atua em nome de organização criminosa de elevada capacidade financeira. São representativos de tal envolvimento, por exemplo, o elevado valor de mercadorias (eletrônicos, drogas, dentre outros) apreendidas, sonegação de significativa importância nos crimes tributários, pagamento de fiança de alto montante ou, ainda, exercício de atividade empresarial (contemporânea ou não aos fatos e a sentença condenatória).  .. , tendo em conta a renda a ser considerada como auferida pelos acusados e os demais critérios balizadores anteriormente expostos, reduzo a prestação pecuniária para 7 (sete) salários mínimos para a ré ANDRIELE.
+2. Rever a situação econômico-financeira do agravante, de modo a alterar o entendimento adotado na instância ordinária, demandaria, novamente, reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial (AgInt no AR Esp n. 1.044.643/ES, Ministro Sebastião Reis Junior, Sexta Turma, D Je 21/5/2018).
+3. Fixada fundamentadamente pelo Tribunal de origem a prestação pecuniária, levando em conta as peculiaridades do caso e a renda mensal declarada pelo réu, o acolhimento do pleito de revisão da proporcionalidade da prestação pecuniária demandaria imprescindível reexame de matéria fático- probatória, inviável em recurso especial, ante o óbice da Súmula 7/STJ
+(AgRg nos E Dcl no AR Esp n. 1.686.679/PR, Ministro Nefi Cordeiro, Sexta Turma, D Je 13/8/2020). 4. Agravo regimental desprovido. (AgRg no R Esp n. 1.862.237/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, D Je de 10/3/2023.)
+Nos termos da jurisprudência deste Superior Tribunal, "para afastar o óbice da Súmula n. 7 do STJ, a parte recorrente deve demonstrar, de forma clara e objetiva, mediante o desenvolvimento de argumentação hábil, a desnecessidade de reexame de fatos e provas para a aferição de violação de dispositivo de lei federal" (AgRg no AREsp n. 1.823.881/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021).
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão agravada, notadamente a incidência das Súmulas 7 e 518 do STJ e a não comprovação de dissídio jurisprudencial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravante apresentou impugnação específica e suficiente para afastar os fundamentos da decisão agravada, especialmente no que tange à incidência das Súmulas 7 e 518 do STJ.
+3. Outra questão em discussão é a alegação de violação à Súmula Vinculante 11 do STF, em razão do uso de algemas sem justificativa, e a nulidade da busca veicular por ausência de justa causa e fundada suspeita.
+III. Razões de decidir
+4. O agravante não apresentou argumentos novos ou específicos capazes de infirmar a decisão agravada, mantendo-se incólumes os fundamentos relativos à incidência das Súmulas 7 e 518 do STJ.
+5. A impugnação genérica apresentada pelo agravante não atende ao requisito de dialeticidade recursal, conforme exigido pelo art. 932 do CPC/2015 e pela Súmula 182 do STJ.
+6. A ausência de cotejo analítico para demonstrar a similitude fática entre os julgados confrontados inviabiliza a análise do dissídio jurisprudencial alegado.
+7. O recurso especial não é via adequada para análise de eventual ofensa a enunciado sumular, conforme a Súmula 518 do STJ.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. A impugnação genérica não atende ao requisito de dialeticidade recursal exigido pelo art. 932 do CPC/2015. 2. O recurso especial não é via adequada para análise de eventual ofensa a enunciado sumular, conforme a Súmula 518 do STJ."
+Dispositivos relevantes citados: CPC/2015, art. 932; CR/1988, art. 105, III, a.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 1789363/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 02/02/2021; STJ, AgRg no AREsp n. 1.900.135/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022; STJ, AgRg nos EDcl no AREsp n. 1.996.126/SP, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 8/3/2022.
+(AgRg no AREsp n. 2.814.725/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
+Com efeito, a alteração da conclusão adotada pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior.
+Nesse sentido, "para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Assim, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
