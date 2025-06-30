@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/06/2025 a 30/06/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. ASSERTIVA. VIOLAÇÃO. SÚMULA. NÃO CABIMENTO. NEGATIVA. PRESTAÇÃO JURISDICIONAL. AFASTADA. PREQUESTIONAMENTO. AUSÊNCIA. FICTO. ART. 1025 DO CPC. MONITÓRIA. COMPROVAÇÃO. PROVA ESCRITA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. A ausência de discussão pelo tribunal local acerca da tese ventilada no recurso especial a carreta a falta de prequestionamento, a atrair a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. Na hipótese, rever a conclusão do aresto impugnado acerca da comprovação do crédito e da relação jurídica entre as partes para o ajuizamento da ação monitória demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por GWR GERENCIAMENTO DE SERVIÇOS LTDA. contra decisão desta relatoria que conheceu parcialmente do recurso especial para, nessa extensão, negar-lhe provimento (e-STJ fls. 448/451).
+Em suas razões (e-STJ fls. 455/466), a agravante sustenta que restou demonstrada a violação dos arts. 489 e 1.022 do CPC, tendo em vista a omissão que "já havia sido reconhecida como vício insanável no próprio recurso especial admitido" (e-STJ fl. 459).
+No ponto, aduz que
+" ..  a admissibilidade do recurso especial pelo Tribunal de origem decorreu justamente da constatação de que a omissão obstaculizava o prequestionamento, conforme destacado no voto da Desembargadora Ana Paula Caixeta: "a ausência de discussão  ..  acarreta a falta de prequestionamento, a atrair a incidência da Súmula nº 211/STJ"." (e-STJ fl. 459)
+Alega que, ao afastar o prequestionamento ficto (art. 1.025), a decisão agravada colidiu com o RESp 1.954.732/RJ, "que autoriza o retorno dos autos para suprir omissões mesmo em matéria fática, desde que imprescindíveis à solução da lide" (e-STJ fl. 459).
+Salienta que a omissão quanto à validade do titulo executivo por falta de assinaturas e testemunhas e à fixação dos honorários, após renúncia parcial do crédito, constitui vício que, por força do art. 1.022, II, do CPC, exige o reexame da matéria pela instância ordinária.
+Defende que as questões tratadas não esbarram nas Súmulas nº s 5 e 7/STJ, pois não demandam reexame das provas dos autos.
+Ao final, requer a reforma da decisão atacada.
+Sem impugnação (e-STJ fl. 470).
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. ASSERTIVA. VIOLAÇÃO. SÚMULA. NÃO CABIMENTO. NEGATIVA. PRESTAÇÃO JURISDICIONAL. AFASTADA. PREQUESTIONAMENTO. AUSÊNCIA. FICTO. ART. 1025 DO CPC. MONITÓRIA. COMPROVAÇÃO. PROVA ESCRITA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. A ausência de discussão pelo tribunal local acerca da tese ventilada no recurso especial a carreta a falta de prequestionamento, a atrair a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. Na hipótese, rever a conclusão do aresto impugnado acerca da comprovação do crédito e da relação jurídica entre as partes para o ajuizamento da ação monitória demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Na origem, TICKET SERVIÇOS S.A. ajuizou ação monitória contra GWR Gerenciamento de Serviços Ltda. e Wander da Silveira, alegando ser credora da parte ré no valor de R$ 188.454,62 (cento e oitenta e oito mil, quatrocentos e cinquenta e quatro reais e sessenta e dois centavos). Os réus opuseram embargos monitórios, que foram rejeitados, tendo sido provido o pedido inicial (e-STJ fls. 198/203).
+O Tribunal de Justiça do Estado de Minas Gerais negou provimento ao apelo da parte ré em acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. AUSÊNCIA DE ASSINATURA DO CONTRATANTE. DOCUMENTO HÁBIL A INSTRUIR A AÇÃO MONITÓRIA. CORREÇÃO MONETÁRIA - ÍNDICE - INPC - POSSIBILIDADE. - Não é imprescindível que o documento que instrui a Ação Monitória esteja assinado pelo devedor, sendo necessário que seja uma prova hábil a instruir a demonstrar a existência da obrigação e suficiente para influir na convicção do Magistrado acerca do direito alegado. - A correção monetária evita a mera perda do valor da moeda com o transcurso do tempo, mantendo-o consoante com a quantia originariamente estabelecida, aplicando-se, no caso, o INPC" (e-STJ fl. 448).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 388/394).
+Inconformada, a ré GWR Gerenciamento de Serviços Ltda., interpôs recurso especial (e-STJ fls. 398/426), no qual aponta negativa de vigência dos arts. 360, inciso I, do Código Civil; 7º, 90, § 1º, 321, 489, IV, 784, inciso III, 926, § 2º, 927, inciso IV, 1.022, inciso II, e 1.025 do Código de Processo Civil. Sumula nº 300 STJ.
+Sustenta, em síntese, a nulidade do acórdão por não suprir a omissão apontada nos embargos de declaração, especialmente, quanto aos requisitos de validade da confissão de dívida, em razão da ausência de assinatura da recorrida e de testemunhas.
+Aduz que, o "acórdão valorou uma confissão de dívida, que não cumpre com quaisquer dos seus requisitos, como prova da relação jurídica. A única assinatura contida no documento é a do representante legal da empresa Recorrente"(e-STJ fl. 415).
+Defende que foram inobservados os requisitos de existência de títulos executivos extrajudiciais, pois não se encontram assinados por duas testemunhas.
+Afirma que a confissão de dívida acostada não possuiu manifestação de vontade do devedor e assinatura de duas testemunhas, ou seja, não possui os pressupostos de existência, validade e formalidade. Alega que a emenda à inicial se deu após o prazo assinalado pela lei e o acórdão não enfrentou essa questão e que tal proceder configura tratamento diverso a uma das partes, já que a parte recorrida alterou o valor da causa e ainda se viu livre dos honorários advocatícios sucumbenciais.
+Afirma que os arts. 7º e 90, §1º, do Código de Processo Civil foram violados "pois no que diz respeito à renúncia de parte do valor inicialmente atribuído à causa, em razão da qual não foram arbitrados honorários em favor da ora recorrente (e-STJ fl. 417).
+Conforme consta da decisão agravada, a alegada negativa de prestação jurisdicional não restou configurada, tendo que em vista que o aresto atacado deixou assentado que a ação monitória foi instruída com a prova do débito. É o que se extrai dos seguintes fundamentos:
+"A ação monitória tem por objetivo constituir e reconhecer crédito vertido em documento desprovido de executividade, nos termos do artigo 700, do novo CPC.
+ ..
+O ordenamento jurídico brasileiro adotou o procedimento monitório documental, no qual, ao contrário do procedimento monitório puro, exige que a inicial esteja acompanhada de documento comprobatório da probabilidade de existência do direito alegado pelo autor.
+ ..
+Para esse fim, presta-se qualquer documento escrito que não se revista das características de título executivo.
+ ..
+Portanto, a prova hábil a formar o convencimento do Juiz acerca de existência de dívida e suficiente à instrução da ação monitória é o documento escrito.
+No caso em comento, vê-se que a recorrida lastreou a sua pretensão com as cópias dos contratos firmados, bem como as notas fiscais não adimplidas pela recorrente.
+A apelante alegou, em síntese, que não consta nos contratos apresentados pela ora recorrida qualquer assinatura por parte da empresa apelante.
+É certo que os contratos acostados aos autos não possuem assinatura das partes contratantes. Entendo que o documento escrito a embasar o ajuizamento da ação monitória não necessita ser assinado pelo devedor, pois o próprio artigo 700, do CPC, não estabelece esse requisito.
+Ademais, o STJ entende que o requisito essencial é o documento escrito, não estabelecendo que seja assinado.
+ ..
+Portanto, não é necessário que o documento que instrui a ação monitória seja assinado pelo devedor, no caso, a recorrente. E em análise dos documentos acostados aos autos, entendo que são suficientes para demonstrar o crédito não quitado e a relação jurídica existente entre as partes. Inclusive, cumpre enfatizar, que fora carreado pela própria apelante, no documento de ordem 33, "instrumento particular de confissão e parcelamento de dívida, com garantia de nota promissória".
+Assim, presentes os pressupostos de constituição e desenvolvimento válido e regular do processo, não havendo motivos para a extinção do processo.
+No que alude à correção monetária, antes de se adentrar ao ponto de insurgência recursal, qual seja, qual índice deve ser aplicado para atualização do valor do débito, imperioso esclarecer que esta se trata de um mecanismo de recomposição da moeda, se prestando tão somente para atualizar o poder de compra da quantia representativa da obrigação, impedindo assim que o valor devido seja corroído pelos efeitos da inflação.
+Não se trata de acréscimo, sendo assim insuscetível à geração de enriquecimento do credor. Ao revés, a correção evita a mera perda do valor da moeda com o transcurso do tempo, mantendo-o consoante com a quantia originariamente estabelecida.
+O dever de realizar o pagamento é atribuído à apelante que figura como devedora na obrigação. Por se tratar de obrigação líquida com prazo certo, a mora decorre da ausência de pagamento no prazo estabelecido, prescindindo de qualquer ato do credor para tal desiderato (mora ex re, art. 397 do Código Civil). Cabia à apelante realizar o pagamento espontaneamente na forma acordada. Não o fazendo, deve suportar os efeitos da mora (art. 395 do Código Civil).
+Observa-se, pois, que o fato gerador da correção monetária não consiste no ajuizamento da ação pelo credor, mas a própria mora do devedor. Entendimento diverso propiciaria sim o benefício do devedor pelo descumprimento de sua obrigação, promovendo-lhe enriquecimento ilícito" (e-STJ fls. 336/341- grifou-se).
+Registra-se que o Tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.  .. ."
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se.)
+Ademais, no que diz respeito à aplicação da Súmula nº 211/STJ, de fato, as matérias versadas nos arts. 7º, 90, §1º, 321, 784, inciso III, 926, § 2º, e 927, inciso IV, do Código de Processo Civil, apontados como violados no recurso especial, não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"."
+Naquela oportunidade, ressaltou-se que não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+Observe-se ainda que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, o que não é o caso dos autos.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E CONSUMIDOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, § 1º, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. VIOLAÇÃO DO ART. 1.022 DO CPC QUE SEQUER FOI ARGUIDA. APLICAÇÃO DE MULTA COM FUNDAMENTO NO ART. 1.026, § 2º, DO CPC. IMPOSSIBILIDADE DE REEXAME. SÚMULA 7/STJ.
+1. Não pode ser conhecido o agravo interno na parte relativa ao dissídio jurisprudencial, tendo em vista a ausência de impugnação específica ao fundamento adotado na decisão agravada. Inteligência do art. 1.021, § 1º, do CPC.
+2. Ausente o prequestionamento quando o Tribunal de origem não emitiu juízo de valor acerca do dispositivo legal apontado como violado. Aplicação da Súmula 211/STJ.
+3. Prequestionamento ficto que pressupõe não apenas a oposição de embargos de declaração na origem, mas também a alegação, perante este Superior Tribunal, da ocorrência de violação do art. 1.022 do CPC, o que não ocorreu no presente caso.
+4. O exame do recurso especial, para afastar a aplicação da multa prevista no art. 1.026, § 2º, do CPC, demandaria a incursão no acervo fático dos autos, o que não se mostra possível nesta instância especial. Aplicação da Súmula 7/STJ.
+5. AGRAVO INTERNO CONHECIDO EM PARTE E DESPROVIDO."
+(AgInt no REsp 1.839.004/SP, relator Ministro Paulo de Tarso Sanseverino, TerceiraTurma, julgado em 28/11/2022, DJe de 13/12/2022 - grifou-se.)
+Além disso, não há como afastar a aplicação da Súmula nº 7/STJ, haja vista que o acolhimento da pretensão recursal para infirmar a conclusão do aresto atacado de que restou comprovada a prova do débito e da relação jurídica entre as partes demandaria o revolvimento das circunstâncias fáticas dos autos, o que é defeso nesta instância especial, a teor da súmula supramencionada.
+As alegações postas no presente recurso não prosperam e são incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
