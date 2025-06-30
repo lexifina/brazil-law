@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIMES PREVISTOS NOS ARTS. 90 DA LEI 8.666/1993; 333, PARÁGRAFO ÚNICO; E 298 DO CÓDIGO PENAL. PLEITO DE TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA. NÃO OCORRÊNCIA. REANÁLISE E EXAME APROFUNDADO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso em habeas corpus, diante da conclusão do Tribunal de origem sobre a existência de justa causa para o exercício da ação penal e da impossibilidade de reanálise e exame aprofundado do acervo fático-probatório dos autos na via estreita da ação mandamental.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em analisar se o agravo regimental atende aos pressupostos de admissibilidade, para, assim, ser conhecido e, se o caso, provido. Outra questão é saber se o trancamento da ação penal demanda a reanálise do acervo fático-probatório dos autos.
+III. RAZÕES DE DECIDIR
+3. O agravante deixou de impugnar especificamente os fundamentos da decisão agravada, inviabilizando o conhecimento do agravo regimental, conforme art. 1.021, § 1º, do CPC e Súmula n. 182 do STJ.
+4. O Tribunal de origem concluiu que há justa causa para o exercício da ação penal ante os elementos informativos extraídos dos Relatórios de Investigação n. 48/2015 e 66/2016 e das declarações de agente colaborador.
+5. A reversão da conclusão do Tribunal local demandaria a reanálise do acervo fático probatório dos autos, inviável na via estreita do writ.
+6. "O trancamento da ação penal por falta de justa causa é medida excepcional, cabível apenas quando inequivocamente demonstrada a atipicidade da conduta, a presença de causa extintiva de punibilidade ou a ausência de indícios mínimos de autoria ou materialidade delitiva" (AgRg no RHC 184926 / PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/ 3/2025, DJEN 18/03/2025), situações não evidenciadas no presente caso.
+IV. AGRAVO REGIMENTAL NÃO CONHECIDO.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão monocrática que negou provimento ao recurso em habeas corpus diante da conclusão do Tribunal de origem sobre a existência de justa causa para o exercício da penal e da impossibilidade de reanálise e exame aprofundado do acervo fático-probatório dos autos na via estreita da ação mandamental (e-STJ fls. 219-223).
+A parte recorrente pugna pela reconsideração da decisão agravada ou pela apreciação da matéria pelo colegiado (e-STJ fls. 228-239).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIMES PREVISTOS NOS ARTS. 90 DA LEI 8.666/1993; 333, PARÁGRAFO ÚNICO; E 298 DO CÓDIGO PENAL. PLEITO DE TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA. NÃO OCORRÊNCIA. REANÁLISE E EXAME APROFUNDADO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso em habeas corpus, diante da conclusão do Tribunal de origem sobre a existência de justa causa para o exercício da ação penal e da impossibilidade de reanálise e exame aprofundado do acervo fático-probatório dos autos na via estreita da ação mandamental.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em analisar se o agravo regimental atende aos pressupostos de admissibilidade, para, assim, ser conhecido e, se o caso, provido. Outra questão é saber se o trancamento da ação penal demanda a reanálise do acervo fático-probatório dos autos.
+III. RAZÕES DE DECIDIR
+3. O agravante deixou de impugnar especificamente os fundamentos da decisão agravada, inviabilizando o conhecimento do agravo regimental, conforme art. 1.021, § 1º, do CPC e Súmula n. 182 do STJ.
+4. O Tribunal de origem concluiu que há justa causa para o exercício da ação penal ante os elementos informativos extraídos dos Relatórios de Investigação n. 48/2015 e 66/2016 e das declarações de agente colaborador.
+5. A reversão da conclusão do Tribunal local demandaria a reanálise do acervo fático probatório dos autos, inviável na via estreita do writ.
+6. "O trancamento da ação penal por falta de justa causa é medida excepcional, cabível apenas quando inequivocamente demonstrada a atipicidade da conduta, a presença de causa extintiva de punibilidade ou a ausência de indícios mínimos de autoria ou materialidade delitiva" (AgRg no RHC 184926 / PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/ 3/2025, DJEN 18/03/2025), situações não evidenciadas no presente caso.
+IV. AGRAVO REGIMENTAL NÃO CONHECIDO.
+VOTO
+O agravo regimental é tempestivo.
+No entanto, deixo de verificar elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 219-223):
+Decido.
+No caso, do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ fls. 172-176):
+(..)
+Extrai-se do excerto acima transcrito que o Tribunal de origem concluiu que há justa causa para o exercício da ação penal ante os elementos informativos extraídos do Relatório de Investigação 48/2015, que analisou os dados telefônicos do investigado, do Relatório de Investigação 66/2016, que analisou o edital do pregão presencial 137/2013 e suas irregularidades, e das declarações do colaborador Melquizedeque da Silva Ferreira Correa Souza.
+Logo, para superar as conclusões alcançadas na Corte de origem, soberana na análise dos fatos e das provas, e chegar às pretensões apresentadas pela recorrente, seria imprescindível a reanálise do acervo fático-probatório dos autos, o que é "inviável na via estreita do habeas corpus" (HC 807944 / PE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN 17/12/2024.
+Com efeito, "a alegação de ausência de justa causa para a ação penal e atipicidade da conduta somente deverá ser debatida durante a instrução processual, pelo Juízo competente para o julgamento da causa, sendo inadmissível seu debate na via eleita, ante a necessária incursão probatória." (AgRg no HC 925464 / RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJEN 23/12/2024).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. TRÁFICO DE DROGAS E POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO. VIOLAÇÃO DE DOMICÍLIO. JUSTA CAUSA VERIFICADA. AUSÊNCIA DE ILEGALIDADE. INVERSÃO DO ACÓRDÃO QUE DEMANDA REEXAME PROBATÓRIO. IMPOSSIBILIDADE. PARECER MINISTERIAL. CARÁTER NÃO VINCULATIVO. DECISÃO MANTIDA. (..) 4. No caso, afastar a valoração das provas realizada pelas instâncias de origem, de modo a acolher a alegação de ausência de justa causa para a medida invasiva, demandaria verticalização da prova, incabível na via estreita do habeas corpus. (..) 6. Agravo regimental improvido. (AgRg no HC 855013 / SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/03/2024, D Je 21/03/2024)
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. CRIME DE ARMAZENAMENTO DE PORNOGRAFIA INFANTOJUVENIL (ART. 241-B DO ECA). AUSÊNCIA DE JUSTA CAUSA E INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE EXAME EM SEDE DE HABEAS CORPUS. RECURSO DESPROVIDO. I. CASO EM EXAME (..) 3. O trancamento de ação penal por habeas corpus constitui medida excepcional, admissível apenas quando demonstrada, de forma inequívoca, a atipicidade do fato, a inexistência de indícios de autoria ou a presença de causa extintiva de punibilidade. (..) 6. A análise da alegada ausência de justa causa exige exame aprofundado de provas, incompatível com a via do habeas corpus, que não admite dilação probatória. (..) 9. Recurso em habeas corpus desprovido. (AgRg no RHC 207660 / RS, de minha relatoria, Quinta Turma, julgado em 11/02/2025, DJEN 17/02/2025)
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Ausentes as hipóteses previstas no art. 189 do CPC, retire-se o sigilo dos autos.
+Ademais, nas razões do agravo regimental, a parte limitou-se a reiterar os argumentos expostos na inicial do writ acerca da alegada ausência de justa causa para o exercício da ação penal.
+Logo, o agravante deixou de impugnar especificamente os fundamentos da decisão agravada, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, aplicável por analogia.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO NAO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada.
+2. A decisão de não conhecimento do habeas corpus teve por fundamento a impossibilidade de conhecimento do writ como substitutivo de recurso próprio.
+3. Nas razões do agravo regimental, porém, a parte agravante não enfrentou de maneira adequada os motivos que impediram o conhecimento do pedido, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, aplicável por analogia.
+(..) 6. Agravo regimental não conhecido. (AgRg no HC 933482 / SP, Relator Ministro Og Fernandes, Sexta Turma, julgado em 26/03/2025, DJEN 31/03/2025)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. DEPOIMENTO DOS POLICIAIS QUE EFETUARAM O FLAGRANTE. VALIDADE. DESCLASSIFICAÇÃO DA CONDUTA. ART. 28 DA LEI DE DROGAS. REEXAME DE FATOS E PROVAS. INVIABILIDADE EM SEDE DE HABEAS CORPUS. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus com base nos seguintes fundamentos autônomos, incidentes sobre o mesmo e único capítulo da decisão agravada (desclassificação da conduta dos agravantes): (i) idoneidade da condenação dos réus com base em depoimentos dos policiais que efetuaram a prisão em flagrante; (ii) a pequena quantidade de droga apreendida, por si só, não enseja automática tipificação da conduta àquela prevista no art. 28 da Lei de Drogas; e (iii) inviabilidade de reexame do acervo fático-probatório, para fins de reconhecimento da desclassificação da conduta criminosa.
+2. No presente agravo regimental, a defesa não rebateu todos os óbices mencionados, concreta e especificamente, de acordo com a hipótese dos autos, limitando-se a reiterar exatamente a mesma argumentação apresentada na ação mandamental, com base no Tema n. 506 do Supremo Tribunal Federal - STF - matéria que sequer foi objeto da decisão agravada.
+3. Segundo a jurisprudência pacífica do Superior Tribunal de Justiça, a parte tem o dever de refutar "em tantos quantos forem os motivos autonomamente considerados para manter os capítulos decisórios objeto do agravo interno total ou parcial" (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+4. A ausência de impugnação de todos os fundamentos que inviabilizaram o exame do mandamus atrai a incidência da Súmula n. 182 do STJ. Precedentes.
+5 . Agravo regimental não conhecido. (AgRg no HC 954991 / SP, Relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/03/2025, DJEN 11/03/2025)
+Por fim, reforço que "O trancamento da ação penal por falta de justa causa é medida excepcional, cabível apenas quando inequivocamente demonstrada a atipicidade da conduta, a presença de causa extintiva de punibilidade ou a ausência de indícios mínimos de autoria ou materialidade delitiva" (AgRg no RHC 184926 / PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/3/2025, DJEN 18/3/2025), situações essas que estão inexistentes no presente caso.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
