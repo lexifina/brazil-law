@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DO CEARÁ contra a decisão de fls. 419-423 da minha lavra, que conheceu em parte do recurso especial e, nesta extensão, negou-lhe provimento.
+No presente recurso integrativo, a parte embargante alega omissão na decisão a respeito da exorbitância do valor fixado à título de indenização por danos morais.
+Pretende o aperfeiçoamento do julgado.
+Sem impugnação (fl. 435), os autos vieram conclusos.
+É o relatório.
+Decido.
+Nos termos do comando normativo insculpido no art. 1.022 do CPC/2015, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no decisum ora embargado.
+No decisum, consignou-se o seguinte (fls. 421-423):
+Sobre os danos morais, o Tribunal assim dispôs (fl. 242):
+No concernente ao montante indenizatório de R$ 30.000,00 (trinta mil reais), vê-se arbitrado com proporcionabilidade e razoabilidade, sendo condizente com a realidade fática dos autos, mormente o longo intervalo de tempo em que a paciente ficou à míngua de tratamento médico adequado sem uma justificativa plausível, ocasionando-lhe grave abalo moral e decorrente piora da moléstia.
+Como ressaltado pela Procuradoria-Geral de Justiça, ao se pronunciar pela manutenção do quantum arbitrado às fls. 201, "a hipótese em apreço reveste-se de extrema gravidade. A apelada recebia acompanhamento de unidade de referência para o tratamento da condição que a acomete, havendo recebido a medicação Octreotide por quase dez anos através da Secretaria de Saúde do Estado do Ceará, até que houve a sustação de fornecimento. Suportou a incerteza da cessação da dispensação por dezenove meses, buscando solução administrativa para o caso com o auxílio da Promotoria de Justiça de Defesa da Saúde Pública, enquanto seu quadro clínico decaía, o que certamente lhe causou angústia pois as alternativas terapêuticas não lhe traziam a melhora clínica esperada. E mais, o retorno do fornecimento somente ocorreu por ordem judicial exarada no processo n. 0007556-31.2011.8.06.0000, consoante recibo acostado à fl. 94".
+Consoante se denota, o Tribunal de origem, com base nos elementos fáticos-probatórios, concluiu pela razoabilidade e proporcionalidade no quantum a título de danos morais, "sendo condizente com a realidade fática dos autos, mormente o longo intervalo de tempo em que a paciente ficou à míngua de tratamento médico adequado sem uma justificativa plausível, ocasionando-lhe grave abalo moral e decorrente piora da moléstia".
+Nesse aspecto, a pretensão de redução do valor indenizatório demandaria revolvimento no espectro fático-probante, procedimento vedado na via eleita, à luz da Súmula n. 7 do STJ.
+Como se vê, a decisão embargada deixou assentado, de forma expressa, a incidência da Súmula n. 7 do STJ pela necessidade de se incursionar no aspecto fático-probatório dos autos, a fim de reduzir o valor da indenização por danos morais, de modo que a insurgência sequer ultrapassou a barreira do conhecimento, a ensejar a apreciação do mérito. Nesse aspecto, verifico que o julgado não possui as eivas suscitadas pela parte recorrente, tendo apresentado, concretamente, os fundamentos que justificaram a sua conclusão quanto ao não conhecimento do recurso, no ponto.
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, eivas passíveis de correção.
+Nesse norte: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DECLARATÓRIOS REJEITADOS.
