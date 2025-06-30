@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por Oi S.A- em Recuperação Judicial, desafiando decisão da Vice Presidência do Tribunal Regional Federal da 1ª Região, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) aplicável a Súmula 07/STJ, pois "honorários advocatícios foram fixados mediante apreciação equitativa do julgador, em face das circunstâncias previstas na legislação de regência (art. 20, § 3º, a, b e c, e § 4º, do CPC/1973), de modo que a alteração desse entendimento implicaria, necessariamente, o revolvimento da matéria fático-probatória para aferição dos critérios de justiça e equidade reconhecidos pela instância de origem, o que é insuscetível de ser realizado na via excepcional" (fl. 480); e (II) impossibilidade de conhecimento do recurso pela alinea "c" do permissivo constitucional, porquanto o mesmo óbice aplicável à alinea a se aplica à divergência apontada, não sendo possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas.
+A parte agravante, em suas razões, sustenta, em síntese, que: "não obstante, a situação descrita nos presentes autos não desafia o óbice da Súmula 7 desta c. Corte, porquanto não se busca o reexame do conjunto fático-probatório dos autos, circunstância que redundaria na formação de nova convicção acerca dos fatos, visto que a controvérsia se restringe apenas a questões de direito, quais sejam, a análise da violação aos §§ 3º e 4º do art. 20 do CPC/1973" (fl. 488), repisando as razões do recurso especial de fls. 418/434.
+Contraminuta do Agravo em Recurso Especial às fls. 506/508.
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões de agravo, a insurgente deixou de rebater, de modo específico, a incidência da Súmula 7/STJ.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão regional e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Logo, não tendo havido efetiva impugnação a esse fundamento da decisão denegatória de admissibilidade do recurso especial, é de se manter a monocrática sob crivo.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
