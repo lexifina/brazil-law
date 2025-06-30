@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por OPACOTE COMERCIAL IMPORTADORA E EXPORTADORA LTDA., com fulcro no art. 105, III, "a" e "c", da CFRB, contra acórdão, assim ementado (fl. 193):
+MANDADO DE SEGURANÇA PREVENTIVO CONTRA O REGIME JURÍDICO INSTITUÍDO PELA LEI 14.789, DE 2023. CRÉDITOS PRESUMIDOS DE ICMS. PRETENDIDA EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ E DA CSLL. INEXISTÊNCIA DE AMEAÇA A DIREITO DO IMPETRANTE, QUE DECORRA DA LEI QUESTIONADA. IMPUGNAÇÃO DE LEI EM TESE. DENEGAÇÃO DO WRIT.
+Alega (fl. 200):
+Assim, uma vez que se trata de recurso em que se discute i) contrariedade a precedentes do Superior Tribunal de Justiça (EREsp nº 1.517.492/PR e REsp nº 1.945.110/RS), ii) violação à legislação infraconstitucional federal (CPC, art. 927, III) e iii) divergência frente a julgado de outra Corte Regional Federal a respeito da matéria (TRF5 - Apelação/Remessa Necessária nº 0806135-35.2024.4.05.8000), com decisão proferida em última instância pelo Tribunal Regional Federal da 4ª Região (TRF4), é cabível o presente recurso especial.
+Pugna pelo reconhecimento da exclusão dos créditos presumidos de ICMS das bases de cálculo do IRPJ e da CSLL, independentemente do cumprimento de quaisquer requisitos previstos na Lei n. 12.973/2014 e do disposto na Lei n. 14.789/2023, e do direito de compensar, após o trânsito em julgado, os valores recolhidos indevidamente a esse título após a data de 1º/1º/2024, em que a Lei n. 14.789/2023 passou a produzir efeitos, consoante disposto no artigo 22 do referido diploma legal.
+Contrarrazões a fls. 230-239.
+Juízo positivo de admissibilidade (fl. 240).
+Parecer do Ministério Público Federal a fls. 248-252.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O Tribunal a quo dispôs a seguinte fundamentação (fls. 189-192, com grifos nossos):
+2. O objeto da controvérsia
+Pelo presente mandado de segurança preventivo, o impetrante pretende ver declarado o seu direito, inclusive para fins de compensação tributária, de excluir os créditos presumidos de ICMS da base de cálculo do IRPJ e da CSLL, afastando-se as determinações da Lei nº 14.789, de 2023, a partir de janeiro de 2024.
+3. Exame do caso
+É communis opinio na doutrina e na jurisprudência que não cabe mandado de segurança contra lei em tese (Supremo Tribunal Federal  STF, Súmula 266) , a não ser que da própria lei, por auto-aplicável, decorram efeitos concretos e danosos aos administrados, como na hipótese das leis proibitivas ou das leis impositivas de gravames sob pena de sanções  caso daquelas que instituem ou majoram tributos.
+Desse modo, se o administrado faz o que a lei proibitiva lhe veda, ele poderá sofrer as sanções nela previstas; se não recolhe o tributo instituído pela lei tributária do mesmo modo sofrerá as sanções previstas na legislação tributária.
+Aqui, diferentemente, tratando-se a Lei nº 14.789, de 2023, de uma lei que institui um novo regime jurídico, e, além disso, de uma lei permissiva, do fato de seguir o esquema normativo não advirá ao impetrante nenhum prejuízo, pelo contrário, terá benefício. E do fato de simplesmente desconsiderar a lei, nenhum prejuízo terá o impetrante, como também nenhum benefício terá.
+Confira-se:
+ ..
+Em seu arrazoado, ataca o impetrante o novo regime jurídico instituído pela Lei nº 14.789, de 2023, alegando que os créditos presumidos de ICMS não constituem renda e que a lei impugnada viola a autonomia federativa e o entendimento fixado pelo Superior Tribunal de Justiça (STJ) no julgamento dos EREsp nº 1.517.492/PR.
+Ocorre que a Lei nº 14.789, de 2023, não é exatamente uma lei tributária, mas uma lei que institui privilégio financeiro em favor dos seus beneficiários. Explica RICARDO LOBO TORRES:
+ ..
+A diferença entre os privilégios tributários e os privilégios financeiros é que estes últimos são mais transparentes e eficientes que aqueles, permitindo o controle não só do Poder Público, mas também dos cidadãos mediante ação popular (Constituição da República Federativa do Brasil  CRFB, artigo 5º, LXXIII). A maior transparência dos privilégios financeiros, em comparação com a obscuridade dos privilégios tributários, segundo o mesmo LOBO TORRES, é que vai permitir a identificação daqueles que se revelem odiosos e portanto ilegítimos (op. e loc. cits).
+Ora, o revogado regime jurídico instituído pelo artigo 30 da Lei nº 12.973, de 2014, estabelecia um privilégio tributário, não transparente e não eficiente, e portanto em conflito com os princípios constitucionais da publicidade e da eficiência (CRFB, art. 37), de modo que foi com razão e não sem tempo substituído pelo vigente regime jurídico da Lei nº 14.789, de 2023, ora impugnado, o qual institui um privilégio financeiro, portanto transparente e mais eficiente, imputável à despesa pública.
+ ..
+Daí se segue que não prospera o mandado de segurança preventivo ora impetrado, seja porque da Lei nº 14.789, de 2023, não decorre nenhuma ameaça a direito do impetrante  voltando- se ele portanto contra lei em tese  , seja porque legítima a revogação, por essa lei, do regime jurídico dos benefícios fiscais de ICMS em relação ao IRPJ e à CSLL, tal como constava do artigo 30 da Lei nº 12.973, de 2014, visto que há muito consolidado o entendimento de que não existe direito adquirido a regime jurídico instituído por lei (cf. Supremo Tribunal Federal  STF, RE 144.756, Tribunal Pleno, rel. Min. Moreira Alves, DJ de 18/03/1994).
+Pois bem.
+O recurso não preenche os requisitos de admissibilidade.
+Por primeiro, não houve o prequestionamento do artigo legal apontado violado e da questão vinculada pelo viés pretendido. Incidência dos óbices das Súmulas 282/STF e 356/STF.
+Na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+Por segundo, as razões recursais são dissociadas dos fundamentos do acórdão, os quais remanescem sem impugnação. Incidência da Súmula 284/STF, por configurada a deficiência da fundamentação recursal.
+Por terceiro, a falta de particularização do dispositivo legal sobre o qual pende divergência interpretativa configura deficiência da fundamentação recursal. Incidência da Súmula 284/STF.
+Segundo a pacífica jurisprudência desta Corte Superior, " c onfigura fundamentação recursal deficiente, a ensejar a aplicação da Súmula 284/STF: a alegação genérica de violação, a falta de demonstração da suposta ofensa ao normativo legal, considerando a fundamentação adotada na decisão recorrida para o deslinde da causa, a ausência de comando normativo do dispositivo legal, a argumentação deficiente com a apresentação de razões dissociadas, bem como a falta de particularização do dispositivo legal contrariado ou sobre o qual se sustenta pender divergência interpretativa" (AgInt no REsp n. 1.923.779/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/9/2021, DJe de 30/9/2021).
+Ante todo o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
