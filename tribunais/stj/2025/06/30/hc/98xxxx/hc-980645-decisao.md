@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SEBASTIÃO DE LIMA MACEDO, em que se aponta como autoridade coatora a Câmara Criminal do Tribunal de JUSTIÇA DO ESTADO DO ACRE, cujo acórdão está assim ementado (fls. 96-98):
+Penal. Processual Penal. Apelação Criminal. Integrar organização criminosa. Nulidades. Materialidade. Autoria. Provas. Existência. Pena base. Redução. Impossibilidade. Agravante. Causa de aumento. Exclusão. Bens. Restituição. Inviabilidade.
+- O tipo penal de integrar organização criminosa é crime permanente que se protrai no tempo, cuja permanência cessa com o recebimento da Denúncia. Restando demonstrado que após a instauração da Ação Penal o acusado persistiu na atividade criminosa, resta tipificado um novo crime não compreendido no anterior, não sendo hipótese de litispendência.
+- As provas produzidas nos autos demonstram a existência do crime e imputam aos réus a autoria. Assim, deve ser afastado o argumento de insuficiência delas e com fundamento no qual eles pretendem serem absolvidos, mantendo-se a Sentença que os condenou. - A fixação da pena base está devidamente fundamentada, sendo possível perceber que não houve nenhum exagero por parte do Juiz singular, já que foi aplicada levando em consideração as circunstâncias judiciais negativas.
+- A ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim um exercício de discricionariedade vinculada do Juiz, que se pautando pelos princípios da razoabilidade e proporcionalidade, atrelados às particularidades do caso concreto e subjetivas do agente, impõe a punição que julga adequada para a situação. O parâmetro utilizado pelo Juiz singular está de acordo com os precedentes do Superior Tribunal de Justiça.
+- Correta a Sentença que fez incidir a agravante do poder de comando, porquanto comprovada a ocorrência dos fatos narrados na Denúncia.
+- Comprovada a conexão entre organizações criminosas, com a participação de adolescentes e a utilização de arma de fogo na prática de crimes, correta a Sentença que fez incidir cumulativamente as referidas causas de aumento, em razão da Lei conter a possibilidade da pena ser fixada além do limite máximo previsto no tipo.
+- Estando comprovado que os bens apreendidos estavam sendo usado para a prática do crime de integrar organização criminosa, afasta-se a pretendida restituição. - Recursos de Apelação Criminal desprovidos.
+Apelação Criminal. Integrar organização criminosa. Pena base. Aumento. Possibilidade. Causa de aumento. Incidência.
+- Constatado que a pena base não foi fixada de forma justa e proporcional à conduta dos apelados, deve a Sentença ser reformada no ponto, para que se proceda a revisão da dosimetria da pena.
+- Restando comprovado nos autos o uso de arma de fogo na organização criminosa que os réus integram, a participação de criança ou adolescente e a existência de conexões entre as congêneres, impõe-se a reforma da Sentença para fazer incidir cumulativamente as referidas causas de aumento da pena, no percentual adequado para coibir a reiteração da conduta criminosa, de acordo com as peculiaridades do caso concreto.
+- Recurso de Apelação Criminal do Ministério Público provido.
+Consta nos autos que o paciente foi condenado por organização criminosa à pena de 12 anos, 9 meses e 16 dias de reclusão em regime inicial fechado, após recurso de apelação interposto pelo Ministério Público.
+A defesa alega que houve majoração desproporcional da pena, com fundamentação inadequada, utilizando elementos do próprio tipo penal para justificar a exasperação da pena-base.
+Sustenta que o tribunal coator aplicou causas de aumento de pena de forma cumulada, sem fundamentação concreta, violando o art. 68, parágrafo único, do Código Penal.
+Afirma que a valoração negativa das circunstâncias judiciais foi feita de forma genérica e sem elementos concretos, utilizando termos vagos e inerentes ao tipo penal.
+No mérito, requer o reconhecimento das ilegalidades demonstradas, concedendo a ordem de ofício para decotar as circunstâncias judiciais do art. 59 do Código Penal, readequando a pena-base ao mínimo legal .
+Requer também a aplicação do art. 68, parágrafo único, do Código Penal, reconhecendo apenas a causa que mais aumenta, decotando as demais causas.
+Em caráter subsidiário, requer a concessão da ordem para readequar a dosimetria em 1/8 do intervalo da mínima e máxima da pena cominada, reduzindo a data-base em homenagem aos princípios da proporcionalidade e razoabilidade.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, nos termos da seguinte ementa (fl. 1.172):
+HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PREVISÃO CONSTITUCIONAL PARA O CABIMENTO DE HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. INADMISSIBILIDADE. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+- "O trânsito em julgado da condenação impede a parte de impetrar habeas corpus perante este Sodalício, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados e esta Corte Superior tem posicionamento firme no sentido de impossibilidade de se buscar a revisão criminal por meio de um writ". (AgRg no HC n. 871.798/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2024, D Je de 11/3/2024.)
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Compulsando os presentes autos, verifica-se que, após proferida a sentença condenatória e julgado o recurso de apelação, sobreveio o trânsito em julgado em 2/12/2021 (fl. 1.161), sendo, pois, este habeas corpus, substitutivo de revisão criminal.
+Nos termos da jurisprudência desta Corte, ""não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022)" (AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Desse modo, tratando-se de condenação já transitada em julgado, tem-se por inviável o conhecimento do presente writ, diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Tribunal de Justiça.
+Nesse contexto, ainda que relevantes os argumentos deduzidos na inicial, o egrégio Superior Tribunal de Justiça não tem competência para o exame da questão ora suscitada, cabendo à parte, se desejar, ajuizar revisão criminal no Tribunal de origem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
