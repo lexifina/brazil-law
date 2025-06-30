@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por IRMA PAZE DOS SANTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de reconhecimento de inexistência de débito c/c compensação por danos morais, alegando que nunca contratou os serviços do banco agravado, BANCO C6 CONSIGNADO S.A., e que houve descontos indevidos em seu benefício previdenciário devido a um contrato de empréstimo consignado que não foi por ela autorizado.
+Acórdão: deu parcial provimento às apelações interpostas pelas partes, nos termos da seguinte ementa:
+Apelação. Ação declaratória de inexistência de débito c.c. repetição do indébito e indenização por dano moral. Sentença de procedência. Recursos das partes. 1. Empréstimo consignado. Banco que não demonstrou a contratação válida e regular. Perícia grafotécnica conclusiva quanto à falsidade da assinatura aposta em instrumento particular. 2. Indébito. Restituição dos descontos incidentes sobre benefício previdenciário recebido pela autora. 2.1. Correção monetária. Termo inicial. Incidência a partir dos desembolsos. Mera recomposição do valor de compra da moeda. 2.2. Juros de mora. Termo inicial. Incidência a partir dos desembolsos, por se tratar de ilícito extracontratual (CC, art. 398). 2.3. Restituição dobrada. Cabimento. Elementos de convicção que apontam para a má-fé do correspondente bancário, intensa violação da boa-fé objetiva. Responsabilidade da instituição por atos praticados por seus prepostos. Cobranças que objetivamente não eram justificáveis. Entendimento fixado pelo C. STJ no julgamento do Embargos de Divergência nº 1.413.542-RS. 3. Dano moral. Responsabilidade objetiva da instituição financeira. Descontos sobre benefício previdenciário destinado à subsistência da autora. Ausência de justa causa. Dano in re ipsa. Indenização reduzida de R$ 20.000,00 (vinte mil reais) para R$ 10.000,00 (dez mil reais), que é suficiente para compensar o dano e dissuadir o ofensor, conforme parâmetros adotados por esta Câmara. 4. Consectários de condenação. Matéria de ordem pública (CC, arts. 389 e seguintes), que também pode ser conhecida de ofício. (a) Juros de mora sobre a indenização por dano moral, a contar do primeiro desconto indevido (evento danoso), conforme a Súmula 54 do STJ; e sobre o valor a ser repetido, a partir de cada desembolso. (b) correção monetária sobre o valor da indenização por dano moral incide a partir do seu arbitramento, o que se determina de ofício. (e-STJ fls. 324)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional;
+ii) não foi demonstrada a violação dos dispositivos arrolados;
+iii) incidência da Súmula 7 do STJ; e,
+iv) deficiência na demonstração do dissídio jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que que o recurso especial inadmitido estava em conformidade com o art. 105, III, alíneas "a" e "c" da CF, e que o acórdão recorrido contrariou dispositivos constitucionais e legais, especialmente no tocante ao valor arbitrado a título de dano moral, que se mostrou contrário ao art. 5º, V, X da CF, arts. 186 e 927, parágrafo único, do CC, art. 944 do CPC, e artigo 14 do CDC.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional;
+ii) não foi demonstrada a violação dos dispositivos arrolados;
+iii) incidência da Súmula 7 do STJ; e,
+iv) deficiência na demonstração do dissídio jurisprudencial.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
