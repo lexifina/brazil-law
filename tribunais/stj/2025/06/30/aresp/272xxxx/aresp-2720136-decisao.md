@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PATRIMONIO CONSTRUCOES E EMPREENDIMENTOS IMOBILIARIOS S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/5/2024.
+Concluso ao gabinete em: 09/12/2024.
+Agravo de instrumento: interposto pela agravante, em face de CARLENIO LIMA DA SILVA, contra decisão interlocutória que, em cumprimento de sentença, não acolheu a arguição de nulidade da intimação da sentença.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa (e-STJ fls. 41-62):
+PROCESSUAL CÍVEL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE RESOLUÇÃO DE CONTRATO C/C PEDIDO DE TUTELA DE URGÊNCIA INITIO LITIS. CUMPRIMENTO DE SENTENÇA. PRELIMINAR RECURSAL DE DIALETICIDADE. REJEITADA. INOCORRÊNCIA. JUNTADA DE PROCURAÇÃO COM PEDIDO DE INTIMAÇÃO EXCLUSIVA. HABILITAÇÃO DO PATRONO NO SISTEMA DO PJE. EXPEDIENTE REALIZADO. CIÊNCIA AUTOMÁTICA. PROVIMENTO CONJUNTO Nº 11/2016. ALEGAÇÃO DE LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+I - Os Agravados, nas suas contrarrazões recursais, suscitaram a preliminar de dialeticidade recursal, argumentando que o Agravo de Instrumento não impugnou especificamente os fundamentos da decisão recorrida, repetindo-se em argumentos desconexos e infundados, violando, assim, o princípio da dialeticidade, razão pela qual requereram o não conhecimento do recurso.
+II - Observa-se que a Agravante impugnou especificamente sobre a decisão objurgada, trazendo à baila argumentações capares de infirmar a sua pretensão recursal em face da decisão agravada, notadamente no que pertine ao indeferimento de declaração de nulidade da intimação da sentença.
+III - Quanto ao mérito, convém delimitar que a demanda cinge-se em determinar se houve nulidade da intimação da sentença pela ausência de expediente em nome do novo patrono, o qual foi estabelecido nos autos de origem com pedido de exclusividade de intimação.
+IV - Compulsando-se os autos de origem, observa-se que a Agravante peticionou em id. nº 15470241, requerendo a habilitação de seu patrono atual (Carlos Gabriel Galani Cruz - OAB/SP nº 299.829) e a exclusão do patrono anterior (José Frederico Cimino Mansur - OAB/SP nº 194.746), de modo que todas as intimações e publicações fossem feitas em seu nome, sob pena de nulidade.
+V - Nota-se a certidão expedida em id. nº 41693403, no qual informa que a referida intimação foi expedida por meio eletrônico e que a ausência do nome do atual advogado da Agravante nos expedientes deu-se pela expiração do prazo de 10 (dez) dias para ciência expressa do advogado
+VI - Analisando-se os autos com maior afinco adstrito à cognição sumária, tem-se que após a juntada da procuração em id. nº 15470241, requerendo a habilitação e intimação exclusiva do patrono da Agravante, a secretaria do Juízo de origem promoveu a substituição dos advogados da Agravantes.
+VII - Há de se esclarecer que o patrono Carlos Gabriel Galini Cruz passou a ser o único advogado habilitado, conforme se infere em consulta ao PJe do 1º Grau, deste TJPI.
+VIII - As intimações são encaminhadas direta e instantaneamente para o painel do advogado, como se infere da dinâmica do sistema do PJe, na aba de expedientes/intimações, o que faculta ao patrono da Agravante dar ciência no prazo ou aguardar o tempo limite para a ciência, nessa situação o próprio sistema registra a ciência da intimação, conforme dispõe a regulamentação dada no Provimento Conjunto nº 11, de 28 de setembro de 2016
+IX - Expedida a intimação da decisão, a ciência deve ser dada pelo advogado no prazo de 10 (dez) dias corridos contados da data do envio da intimação, do contrário o sistema registra automaticamente a ciência, como ocorreu neste caso.
+X - Diante das normas destacadas, é inequívoco que, quando a parte é regularmente intimada do ato judicial por meio eletrônico, que é regra geral, e ausente o registro de ciência no sistema, após o decurso de 10 (dez) dias considera-se realizada a intimação automaticamente, não vislumbrando qualquer nulidade da intimação do advogado devidamente já habilitado nos autos, razão pela qual revogo a decisão de cognição sumária em id. nº 12458870.
+XI - Quanto à litigância de má-fé, a condenação nas penalidades previstas nos arts. 79 a 81, do CPC, exige-se prova cabal da má-fé da parte, porém, não restou demonstrada neste caso que a Agravante agiu com culpa grave ou dolo.
+XII - Recurso conhecido e desprovido.
+Recurso especial: alega violação dos arts. 272, §5º, 496 e 1.003, caput, §5º, do CPC.
+Defende a nulidade da intimação da sentença, pois não foi devidamente intimada, visto que o sistema eletrônico não incluiu o Dr. Carlos Gabriel Galani Cruz como seu advogado. Sustenta que requereu a substituição dos patronos anteriores e a publicação em nome do Dr. Carlos Gabriel Galani Cruz. Entretanto, este não foi intimado da sentença e o seu nome não constou da referida intimação, razão pela qual seria nula.
+É O RELATÓRIO. DECIDO.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 496 e 1.003, caput, §5º, do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Constata-se ainda, da leitura das razões do recurso especial, que quanto à alegação de violação do art. 496 do CPC, a agravante não indicou de forma precisa, o inciso, parágrafo ou alínea, da legislação tida por violada, tampouco em que consistiu a alegada violação, o que também importa na incidência da Súmula 284/STF.
+Nesse sentido: AgInt no REsp n. 1.951.100/MT, 3ª Turma, DJe de 11/5/2022; AgInt no AREsp n. 1.229.292/SP 4ª Turma, DJe de 4/9/2018; e AgInt nos EDcl no AREsp n. 875.399/RS 4ª Turma, DJe de 1/8/2017.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 272, §5º, 496 e 1.003, caput, §5º, do CPC, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+A agravante não impugnou o fundamento utilizado pelo TJ/PI, no sentido de que, considerado o Provimento Conjunto nº 11, de 28 de setembro de 2016, o art. 197 do CPC e o art. 5º da Lei 11.419/2006, as intimações são encaminhadas direta e instantaneamente para o painel do advogado, na aba de expedientes/intimações do Sistema PJe e que, expedida a intimação, diante da ausência do registro de ciência pelo advogado no sistema, após o prazo de 10 (dez) dias considera-se realizada a intimação automaticamente, o que teria ocorrido (e-STJ fls. 48-51). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que, após a juntada de procuração, a secretaria teria promovido a substituição dos advogados da agravante, e o Dr. Carlos Gabriel Galani Cruz passou a ser o único advogado habilitado, bem como de que não haveria nulidade da intimação, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Agravo de instrumento interposto contra decisão interlocutória que, em cumprimento de sentença, não acolheu a arguição de nulidade da intimação.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo em recurso especial conhecido. Recurso especial não conhecido.
