@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/06/2025 a 30/06/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. MITIGAÇÃO DO ROL DO ART. 1.015 DO NCPC. NÃO CABIMENTO. URGÊNCIA NÃO CONFIGURADA. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por JACINTO DO EGITO SILVA, LEONEL DA COSTA FREIRE - ESPÓLIO e CLÁUDIA DA COSTA FREIRE - ESPÓLIO (JACINTO e outros) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Não foi apresentada contraminuta (e-STJ, fl. 143).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O recurso especial, amparado no art. 105, III, a, da CF, foi interposto contra acórdão do Tribunal estadual assim ementado:
+EMENTA: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. TAXATIVIDADE MITIGADA DO ARTIGO 1.015 DO CPC/2015. INADMISSIBILIDADE DO RECURSO.
+I. CASO EM EXAME 1. Agravo interno interposto contra decisão monocrática que não conheceu do recurso de agravo de instrumento manejado em face de decisão sobre embargos de declaração opostos contra sentença, arguindo-se a taxatividade mitigada do rol do art. 1.015 do CPC.
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber: (i) se é cabível agravo de instrumento para impugnar decisão de embargos de declaração em sentença, à luz da taxatividade mitigada do artigo 1.015 do CPC/2015; e (ii) se há urgência que justifique o manejo do agravo, tendo em vista a alegação de inutilidade do julgamento via apelação.
+III. RAZÕES DE DECIDIR 3. A jurisprudência do STJ, ao firmar o Tema Repetitivo 988, admite a interposição de agravo de instrumento em hipóteses excepcionais, desde que verificada a urgência na preservação do direito, condição não evidenciada nos autos. 4. A interposição de agravo de instrumento contra decisão em embargos de declaração opostos a sentença caracteriza erro grosseiro, cabendo apelação, conforme precedentes da Corte Superior. 5. A modulação dos efeitos prevista no julgamento do Tema Repetitivo 988 aplica-se apenas às decisões interlocutórias proferidas após a publicação dos acórdãos do STJ, não abrangendo o caso em análise.
+IV. DISPOSITIVO E TESE 6. Recurso desprovido.
+Tese de julgamento: "1. A interposição de agravo de instrumento contra decisão de embargos de declaração opostos a sentença configura erro grosseiro, sendo cabível o recurso de apelação. 2. A taxatividade mitigada do rol do art. 1.015 do CPC/2015 permite agravo de instrumento em hipóteses de urgência comprovada, não evidenciada no presente caso."
+Dispositivos relevantes citados: CPC/2015, art. 1.015; CF/1988, art. 5º, XXXV.
+Jurisprudência relevante citada: STJ, AgInt no AREsp nº 1.890.620/MG, Rel. Min. Raul Araújo, Quarta Turma, julgado em 19/09/2022, DJe 04/10/2022 (e-STJ, fl. 88).
+Nas razões do seu inconformismo, JACINTO e outros alegaram ofensa aos arts. 924, II, 1.015, 1.021, § 1º, 1.022, II e 1.026, todos do NCPC. Sustentaram que (1) o aresto recorrido foi omisso, porque não conheceu seu recurso; (2) os embargos de declaração interrompem o prazo para interposição de recursos; (3) no caso, é perfeitamente cabível a interposição do agravo de instrumento, em razão do julgamento do Tema n. 988 do STJ que firmou o entendimento de que o rol elencado no art. 1.015 do NCPC é apenas exemplificativo e não taxativo, ocorrendo a mitigação do dispositivo o que autoriza a interposição do recurso citado em outras hipóteses; e (4) a hipótese de urgência ficou demonstrada.
+Foram apresentadas contrarrazões (e-STJ, fls. 119/124).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. MITIGAÇÃO DO ROL DO ART. 1.015 DO NCPC. NÃO CABIMENTO. URGÊNCIA NÃO CONFIGURADA. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O inconformismo, no entanto, não merece prosperar
+Da alegada existência de omissão no aresto recorrido e de interrupção de prazo recursal pela oposição dos embargos de declaração
+JACINTO e outros alegaram ofensa aos arts. 924, II, 1.021, § 1º, 1.022, II, e 1.026, todos do NCPC. Sustentaram que (1) o aresto recorrido foi omisso, porque não conheceu do seu recurso; e (2) os embargos de declaração interrompem o prazo para interposição de recursos.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula n. 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No presente caso, da leitura das razões do especial, verificou-se que o JACINTO e outros não apresentaram argumentos claros e concatenados no tocante ao alegado, mas apenas ilações genéricas, pois se limitaram a asseverar que (1) o aresto recorrido foi omisso, porque não conheceu seu recurso; e (2) os embargos de declaração interrompem o prazo para interposição de recursos.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENHORA. ALEGAÇÃO DE AFASTAMENTO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. REEXAME. IMPOSSIBILIDADE. VERBETES SUMULARES N. 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. NÃO PROVIDO.
+1. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Verbete sumular n. 7 do Superior Tribunal de Justiça).
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Enunciado da Súmula n. 83 desta Corte Superior).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.931.592/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. CONTRATO DE MÚTUO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. TESE SOBRE INÉPCIA DA INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. 3. PRESCRIÇÃO QUINQUENAL E TERMO INICIAL. SÚMULA N. 83/STJ. 4. ALEGAÇÃO DE EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. SÚMULA N. 7/STJ. 5. AGIOTAGEM NÃO CARACTERIZADA. JUROS PACTUADOS NOS LIMITES LEGAIS. 6. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 7. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+3. A cobrança de dívida líquida constante em instrumento particular sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC/2002. Termo inicial do prazo prescricional se dá no dia de pagamento da última parcela.
+4. Rever a conclusão esposada no acórdão recorrido, quanto à tese de exceção do contrato não cumprido, demandaria revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+5. Não está caracterizada a agiotagem, sendo o débito exigível, tendo em vista que a pactuação dos juros não ultrapassou o limite da taxa prevista em lei.
+6. Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.107.815/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022 - sem destaque no original)
+Quanto ao cabimento do agravo de instrumento
+JACINTO e outros alegaram afronta ao art. 1.015 do NCPC. Sustentaram que (1) no caso, é perfeitamente cabível a interposição do agravo de instrumento, em razão do julgamento do Tema n. 988 do STJ, que firmou o entendimento de que o rol elencado no art. 1.015 do NCPC é apenas exemplificativo e não taxativo, ocorrendo a mitigação do dispositivo o que autoriza a interposição do recurso citado em outras hipóteses; e (2) a hipótese de urgência ficou demonstrada.
+Sobre o tema, a Corte local consignou:
+Percebe-se que a decisão agravada é expressa ao apontar que não se desconhece que a Corte Superior, por ocasião do julgamento do R Esp nº 1.696.396/PA e R Esp nº 1.704.520/MT, sob o rito dos recursos repetitivos, firmou a tese de que o rol do mencionado dispositivo legal é de taxatividade mitigada, admitindo-se a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+Restou expresso que no caso em análise não restou demonstrada a mencionada urgência, visto que a interrupção do prazo recursal, em virtude da oposição tempestiva dos embargos de declaração, é questão que devia ser discutida em recurso de apelação, cuja admissibilidade cabe exclusivamente ao Tribunal, nos termos do art. 1.010, par. 3º, do CPC.
+Como destacado na decisão agravada, caracteriza erro grosseiro a interposição de agravo de instrumento contra embargos declaratórios opostos de sentença, porquanto, em se tratando de decisão integrativa da sentença, o recurso cabível é apelação (e-STJ, fl. 92).
+Dessa forma, o Tribunal de Justiça de Goiás, soberano na análise das provas, concluiu que não ficou configurada a urgência da matéria, considerando que não se vislumbrou a excepcional mitigação do rol do art. 1.015 do NCPC a ensejar o manejo do agravo de instrumento no caso.
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJGO quanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula n. 7 do STJ.
+A propósito, confiram-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. CABIMENTO. TAXATIVIDADE MITIGADA. TEMA REPETITIVO N. 988. URGÊNCIA DA MATÉRIA. REVISÃO. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+2. O Superior Tribunal de Justiça firmou a tese de que o "rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema Repetitivo n. 988).
+3. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame dos elementos fático-probatórios dos autos.
+4. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+5. A incidência de óbices sumulares quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede seu conhecimento pela divergência jurisprudencial sobre a mesma questão.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.574.636/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/10/2024, DJe de 16/10/2024 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO CONFIGURADA. ILEGITIMIDADE PASSIVA AD CAUSAM. INOBSERVÂNCIA DE URGÊNCIA NO RECURSO. IMPOSSIBILIDADE DE APLICAÇÃO DA TESE FIRMADA NOS RESPS. 1.696.396/MT E 1.704.520/MT ACERCA DA TAXATIVIDADE MITIGADA DO ROL DO ART. 1.015 DO NOVO CPC/2015. REVISÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022, do CPC/15, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. O acórdão recorrido está em conformidade com a jurisprudência do Superior Tribunal de Justiça de que descabe interpor Agravo de Instrumento contra decisão interlocutória que versa sobre ilegitimidade passiva, pois essa matéria não faz parte do rol de hipóteses do artigo 1.015 do CPC/2015. Nesse sentido: AgInt no AREsp 1.063.181/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/9/2019.
+3. Além disso, vale destacar que a Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.704.520/MT (Rel.
+Ministra NANCY ANDRIGHI, DJe de 19/12/2018), submetido ao rito do art. 1.036 do CPC/2015, firmou tese no sentido de que "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema 988).
+4. Na hipótese, o Tribunal de origem consignou que a questão aqui discutida não implica, em especial, em urgência na apreciação.
+Assim, observa-se que o reexame do acórdão recorrido, em confronto com as razões do Recurso Especial, encontra óbice na Súmula 7 do STJ.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.430.725/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar tema referente à majoração da verba honorária, porque não fixada nas instâncias ordinárias.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do NCPC.
