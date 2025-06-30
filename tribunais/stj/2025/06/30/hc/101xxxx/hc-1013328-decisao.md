@@ -1,0 +1,37 @@
+DECISÃO
+Em petição  de  habeas  corpus,  com  pedido  liminar para substituir a prisão preventiva por medidas cautelares alternativas,  impetrado em favor de  JOÃO VICTOR SILVA DOS SANTOS, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça  do  Estado  de Alagoas.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática do delito capitulado no art. 33 da Lei n. 11.343/2006 (e-STJ, fl.  39).
+Impetrado  writ  perante  o  Tribunal  de  origem,  que , por unanimidade,  denegou  a  ordem  pleiteada  no  Habeas  Corpus  n.  804774-38.2025.8.02.0000.  Segue  a  ementa  do  acórdão  (e-STJ, fl.  19):
+HABEAS CORPUS. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA PELA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. NÃO CABIMENTO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. ORDEM DENEGADA.
+I - Caso em exame
+1. O presente habeas corpus foi impetrado em favor do paciente, preso em flagrante delito no dia 29.04.2025, pelo suposto cometimento do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06), sendo a prisão convertida em preventiva diante do preenchimento dos seus pressupostos e requisitos autorizativos.
+II - Questão em discussão
+2. O presente remédio constitucional pontua a inidoneidade da fundamentação apresentada pelo juízo a quo para justificar o decreto prisional.
+III - Razões de decidir
+3. Na hipótese, verifica-se que o decreto prisional está devidamente fundamentado que o magistrado singular entendido que estavam preenchidos os requisitos elencados no art. 312 do Código de Processo Penal.
+4. Presente o fumus comissi delicti, diante dos indícios de autoria e materialidade evidenciados, bem como o periculum libertatis, sobretudo pelo risco de reiteração delitiva, tendo em vista que o paciente possuía uma quantidade consideravel de drogas, demonstrando a atividade no tráfico.
+IV - Dispositivo e tese
+5. Ordem denegada.
+A petição expõe a existência de constrangimento ilegal, em razão da ausência de fundamentação idônea para a decretação da prisão preventiva.
+O impetrante alega que " ..  é evidente que, diante de delito não cometido com violência ou grave ameaça à pessoa, existem medidas alternativas à prisão que melhor se adequam à situação do Paciente. Notem que a quantidade de drogas do precedente acima colacionado é BEM MAIOR da que dos presentes autos, que foi de 2,200 kg." (e-STJ, fl. 5).
+No ponto, alega-se também que " ..  o Paciente é primário, possui ocupação lícita, residência fixa e nenhum indicativo de envolvimento com organização criminosa. A denúncia foi oferecida tardiamente, 14 dias após a prisão, sem que tenha havido qualquer fato novo que justificasse a manutenção da custódia." (e-STJ, fl. 6).
+Assim, o pedido especifica-se na revogação da prisão preventiva, com ou sem aplicação de medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal - CPP. Subsidiariamente, caso não seja conhecido, requer a concessão da ordem de habeas corpus, de ofício.
+É, no essencial, o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+Em consulta ao sistema do banco de dados interno do egrégio Superior Tribunal de Justiça, verifica-se que o presente habeas corpus é mera reiteração dos pedidos formulados no HC 1003738/AL,  impugnando  o  mesmo  ato judicial  aqui  combatido  e  sob  os  mesmos  argumentos  ora  levantados, ainda que em nova roupagem argumentativa.
+O presente recurso evidencia o propósito de dupla apreciação, o que não é admitido pela jurisprudência do egrégio Superior Tribunal de Justiça.
+Com efeito: ""A impetração sistemática de habeas corpus idênticos perante o Superior Tribunal de Justiça mesmo após a controvérsia já ter sido analisada viola os deveres de lealdade, decoro, ética e boa-fé impostos a todos os sujeitos processuais" (AgRg no HC n. 860.004/SP, relator Ministro TEODORO SILVA SANTOS, SEXTA TURMA, DJe de 12/12/2023)."(AgRg no HC n. 934.220/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.)
+No presente caso, não se vislumbra ilegalidade flagrante a ser afastada de ofício, porquanto a prisão preventiva do paciente foi mantida com base na gravidade concreta do crime, na necessidade de garantir a ordem pública e para assegurar a aplicação da lei penal.
+Por oportuno, transcreve-se o que foi consignando no acórdão impetrado quanto à decisão que decretou a medida cautelar (e-STJ, fls. 22/23):
+Por oportuno, destaquem-se trechos da mídia da decisão de fl. 128, que decretou a prisão preventiva no dia 30.05.2025:
+  No caso sob análise, em comunhão com a manifestação do Ministério Público, entendo que deve haver a conversão do flagrante em preventiva, a versão do custodiado de que a droga se presta tão somente ao consumo pessoal, não se mostra crível no presente momento, de acordo com informações, inclusive do Ministério da Saúde, uma pessoa usa em média de 2 a 3 gramas de drogas por dia, em poder do acusado foram encontrados 80 gramas de drogas, de modo que não se coaduna com o conjunto probatório dos autos a tese que seria apenas para consumo pessoal.
+Ademais, há a questão do valor que supostamente teria despendido para comprar as drogas, já que o custodiado afirmava esta desempregado fazendo bico de servente, o que não é compatível com a sua renda, a forma de acondicionamento da droga, também separadas em porções, atreladas a balança de precisão, justifica a materialidade e dos indícios de autoria necessários para o decreto de prisão preventiva, a necessidade da garantia da ordem pública e da notícia que havia comércio de drogas no local, de modo que por hora o depoimento dos policiais gozam de fé pública e a versão do acusado demostra-se isolada.
+Ressalta-se que a prisão nesse momento não se mostra como o da situação do cumprimento de pena, mais se justifica em virtude da natureza do ato praticado inclusive pelo fato do custodiado ter mencionado que estava na companhia de um colega cuja a identidade não se conhece até o presente momento.
+Diante do exposto, com base na fundamentação acima exarada reputa insuficientes as medidas cautelares e decreto a prisão preventiva do custodiado determinado que seja expedido o mandado de prisão.. ..
+Assim, não merece acolhida o pleito da impetrante, haja vista que não há caracterização de constrangimento ilegal, pois a decisão que entendeu necessária a prisão cautelar, foi fundamentada de forma satisfatória, respeitando os ditames legais e apontando fatos concretos - demonstrados nos autos - a autorizar a custódia preventiva.
+Ante o exposto, indefiro liminarmente o presente recurso em habeas corpus, com fundamento no art. 210 do RISTJ.
+Publique-se
+Intimem-se.
+EMENTA
