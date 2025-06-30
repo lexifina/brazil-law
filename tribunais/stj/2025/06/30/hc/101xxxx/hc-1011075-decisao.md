@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KLEBER HENRIQUE BEZERRA DE SOUZA contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 1500785-06.2022.8.26.0554.
+Consta dos autos que o acusado foi condenado às penas de 12 anos, 1 mês e 5 dias de reclusão e 6 dias-multa, em regime inicial fechado, pela prática do delito de roubo majorado, como incurso no art. 157, § 2º, II, e § 2º-A, I, do Código Penal.
+Interposto recurso de apelação defensivo, foi parcialmente provido, reduzindo-se as penas impostas a 9 anos e 26 dias de reclusão e 20 dias-multa, mantendo-se, no mais, a r. sentença, em acórdão assim ementado (fl. 66):
+Apelação. Roubo majorado pelo concurso de pessoas e emprego de arma de fogo. Autoria e materialidade demonstradas. Reconhecimento pessoal. Violação do disposto no artigo 226 do CPP. Não ocorrência. Matéria preliminar rejeitada. Condenação mantida. Causas de aumento devidamente demonstradas. Penas. Concurso de causas de aumento previstas na parte especial. Acréscimo único nos termos do artigo 68, parágrafo único, do Código Penal. Possibilidade. Pena redimensionada. Regime fechado mantido. Recurso parcialmente provido.
+No presente writ, sustenta a defesa constrangimento ilegal, uma vez que o reconhecimento fotográfico e pessoal do paciente teria sido realizado de forma irregular, sem a observância das formalidades legais previstas no art. 226 do Código de Processo Penal, o que compromete a idoneidade da prova.
+Alega a ausência de autoria e materialidade, pleiteando a absolvição do paciente, pois não há provas suficientes para a condenação, sendo a decisão baseada em depoimentos contraditórios e insuficientes.
+Subsidiariamente, aduz, quanto ao aumento na segunda fase, que "a figura de possível terceiro participe é nula, uma vez que o outro acusado Peter, foi inocentado às fls. 486-488, além do acusado João que também foi inocentado às fls. 354-360, de modo que sem apontar com clareza o segundo e terceiro participes, fica maculada a majorante aplicado também com base no art. 157, §2º" (fl. 35).
+Argumenta, ainda, que deve ser decotada a majorante prevista no art. 157, § 2º-A, I, do Código Penal, sustentando que não houve apreensão de arma de fogo.
+Requer, liminarmente e no mérito, seja, preliminarmente, anulado o acórdão pelas nulidades arguidas, e, no mérito, seja o paciente absolvido nos termos do art. 386, V e VII do Código de Processo Penal ou alternativamente, caso este Colendo Tribunal entenda de modo diverso, pede a desconsideração das majorantes indicadas e a redução da pena ao mínimo legal, além da fixação do regime aberto para o cumprimento da pena.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pela denegação da ordem.
+É o relatório.
+DECIDO.
+Compulsando os presentes autos, verifica-se que, após proferida a sentença condenatória e julgado o recurso de apelação em 11/9/2023, sobreveio o trânsito em julgado da condenação (fls. 95-96) , tendo o presente writ sido impetrado posteriormente em 11/6/2025, sendo, pois, substitutivo de revisão criminal.
+Nos termos da jurisprudência desta Corte, "" n ão deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022)" (AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Desse modo, tratando-se de condenação já transitada em julgado, tem-se por inviável o conhecimento do presente writ, diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+Nesse contexto, ainda que relevantes os argumentos deduzidos na inicial, o egrégio Superio r Tribunal de Justiça - STJ não tem competência para o exame da questão ora suscitada, cabendo à parte, se desejar, ajuizar revisão criminal no Tribunal de origem.
+Ante o exposto, não conheço do writ.
+Publique-se.
+Intimem-se.
+EMENTA
