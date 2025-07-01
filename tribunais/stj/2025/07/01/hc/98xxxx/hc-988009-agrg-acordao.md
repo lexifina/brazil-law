@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. AUSÊNCIA DE COMPROVAÇÃO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE DE DROGA JÁ UTILIZADA NA PRIMEIRA FASE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Corte de origem afastou a minorante do tráfico privilegiado considerando apenas a quantidade de entorpecente apreendida, o que configura bis in idem, já que a quantidade e a natureza das drogas foram valoradas na primeira fase da dosimetria.
+2. A jurisprudência do Superior Tribunal de Justiça não admite o uso da quantidade e da natureza da droga para elevar a pena-base e afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 quando não há outros elementos que evidenciem a habitualidade delitiva.
+3. Diante da ausência de elementos concretos que indiquem que o réu se dedica a atividades criminosas, a minorante relacionada ao tráfico privilegiado deve ser reconhecida.
+4. Tendo a quantidade e a natureza da droga apreendida sido consideradas na primeira fase da dosimetria, a valoração desses vetores na última etapa, seja para afastar a minorante do tráfico privilegiado, seja para modular a sua fração, configura bis in idem.
+5. "A escolha pela aplicação dos vetores da quantidade e da qualidade das drogas na primeira ou na terceira etapas está inserida no juízo de discricionariedade do julgador, não cabendo a este Tribunal alterar a conclusão exarada pelas instâncias ordinárias" (AgRg no HC n. 912.484/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024).
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão de fls. 1.671-1.676, que concedeu o habeas corpus de ofício para reduzir as penas do agravado.
+Nas razões deste recurso, o agravante aduz que a decisão monocrática desconsiderou a possibilidade de deslocar a valoração da quantidade de drogas apreendidas para a terceira fase da dosimetria da pena, conforme previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Defende que a quantidade de drogas deve ser utilizada na terceira fase para modular a fração de redução da pena, evitando penas diminutas para crimes graves.
+Requer que seja conhecido do agravo regimental e a ele seja dado provimento, permitindo a reconsideração da decisão agravada ou seu encaminhamento ao órgão colegiado competente, a fim de aplicar a fração mínima de redução de pena (1/6) na terceira fase da dosimetria, considerando a quantidade de drogas apreendidas.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. AUSÊNCIA DE COMPROVAÇÃO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE DE DROGA JÁ UTILIZADA NA PRIMEIRA FASE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Corte de origem afastou a minorante do tráfico privilegiado considerando apenas a quantidade de entorpecente apreendida, o que configura bis in idem, já que a quantidade e a natureza das drogas foram valoradas na primeira fase da dosimetria.
+2. A jurisprudência do Superior Tribunal de Justiça não admite o uso da quantidade e da natureza da droga para elevar a pena-base e afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 quando não há outros elementos que evidenciem a habitualidade delitiva.
+3. Diante da ausência de elementos concretos que indiquem que o réu se dedica a atividades criminosas, a minorante relacionada ao tráfico privilegiado deve ser reconhecida.
+4. Tendo a quantidade e a natureza da droga apreendida sido consideradas na primeira fase da dosimetria, a valoração desses vetores na última etapa, seja para afastar a minorante do tráfico privilegiado, seja para modular a sua fração, configura bis in idem.
+5. "A escolha pela aplicação dos vetores da quantidade e da qualidade das drogas na primeira ou na terceira etapas está inserida no juízo de discricionariedade do julgador, não cabendo a este Tribunal alterar a conclusão exarada pelas instâncias ordinárias" (AgRg no HC n. 912.484/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024).
+6. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+Conforme consta da decisão agravada, a Corte de origem afastou a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 com base, tão somente, na quantidade de drogas apreendidas, providência que não vem sendo admitia pelo Superior Tribunal de Justiça.
+No ponto, a decisão foi assim fundamentada (fl. 1.673):
+Dos autos, constata-se que a Corte de origem afastou a minorante do tráfico privilegiado, considerando apenas a quantidade de entorpecente apreendida (fl. 41), o que consubstancia o alegado constrangimento ilegal.
+Com efeito, como a quantidade e a natureza das drogas foram valoradas na primeira fase da dosimetria (fl. 1.238), essas vetoriais não podem ser consideradas para afastar a benesse do art. 33, § 4º, da Lei n. 11.343/2006, na fase derradeira, sob pena de configurar bis in idem.
+Nesse mesmo sentido é a jurisprudência desta Corte, segundo a qual, o uso da quantidade e da natureza da droga para elevar a pena-base e afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 não constitui bis in idem quando há nos autos outros elementos que evidenciam a habitualidade delitiva, o que não ocorreu no caso. A propósito: AgRg no HC n. 780.529/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 26/6/2024; AgRg no HC n. 884.034/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 24/5/2024; AgRg no HC n. 875.148/SC, relator Ministro Jesuíno Rissato -Desembargador convocado do TJDFT -, Sexta Turma, DJe de 25/4/2024; e AgRg no AREsp n. 2.211.050/SP, relator Ministro Jesuíno Rissato -Desembargador convocado do TJDFT -, Sexta Turma, DJe de 8/3/2024.
+Assim, diante da ausência de outros elementos concretos além da quantidade de droga para afastar o mencionado redutor, deve ser concedida a ordem de ofício, para reconhecer a incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3.
+Assim, diante da ausência de elementos concretos que indiquem que o réu dedica-se a atividades criminosas, não há como deixar de reconhecer a minorante relacionada ao tráfico privilegiado.
+Ademais, cabe ressaltar que, tendo a quantidade e a natureza da droga apreendida sido consideradas na primeira fase da dosimetria, a valoração desses vetores na última etapa, seja para afastar a minorante do tráfico privilegiado, seja para modular a sua fração, configura bis in idem. Nesse sentido: REsp n. 2.157.325/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025 e AgRg no AREsp n. 2.850.747/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2025, DJEN de 21/5/2025.
+Por fim, " a  escolha pela aplicação dos vetores da quantidade e da qualidade das drogas na primeira ou na terceira etapas está inserida no juízo de discricionariedade do julgador, não cabendo a este Tribunal alterar a conclusão exarada pelas instâncias ordinárias" (AgRg no HC n. 912.484/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024).
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
