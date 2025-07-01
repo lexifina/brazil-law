@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por H2F ENGENHARIA E INOVAÇÃO LTDA., com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 2.689):
+"APELAÇÃO CÍVEL. CONTRATO. PRESTAÇÃO DE SERVIÇOS. RESCISÃO. APURAÇÃO DE VALORES. PERÍCIA. NULIDADE. INOCORRÊNCIA. CULPA RECÍPROCA. MULTA. AFASTAMENTO. DEFEITO. OBRA. ABATIMENTO. PREÇO. HONORÁRIOS PERICIAIS. HONORÁRIOS ADVOCATÍCIOS.
+1. O mero descontentamento com as conclusões lançadas no laudo, por si só, não autoriza a realização de nova perícia, tampouco a nulidade do trabalho técnico, especialmente quando todos os quesitos foram devidamente respondidos, esclarecendo o perito, quanto aos quesitos complementares.
+2. A rescisão do contrato por culpa recíproca acarreta o retorno das partes ao status quo à contratação sem direito à aplicação de multa a qualquer dos contratantes. ante
+3. A comprovação de vício na obra não exime o contratante de pagar pelos serviços efetivamente prestados, mas sim o direito de abater os valores correspondentes, consoante dispõe o art. 442 do Código Civil.
+4. A conclusão da prova técnica produzida por profissional devidamente habilitado por não destoar da demais provas reunidas aos autos deve prevalecer sobre os valores apurados.
+4.1. Em que pese as conclusões do especialista, a condenação em valor não previsto em contrato deve ser afastada.
+5. Presentes os requisitos do art. 368 do Código Civil, deve ser mantida a permissão para a compensação dos créditos e débitos de cada parte. "
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 2.831-2.853).
+Nas razões do recurso especial (e-STJ, fls. 2.862-2.890), a parte recorrente alegou ofensa aos arts. 473, 477, 480, 489 e 1.022 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ausência de prestação jurisdicional e de fundamentação,; e que o laudo pericial produzido é inidôneo e que houve cerceamento de defesa em prejuízo da parte recorrente, que foi impedida de obter novos esclarecimentos do perito no primeiro grau de jurisdição.
+Foram apresentadas contrarrazões (e-STJ, fls. 2.904-2.938).
+O recurso foi inadmitido na origem, em razão da ausência de violação dos arts. 489 e 1.022 do CPC/2015; e da incidência da Súmula 7/STJ (e-STJ, fls. 2.943-2.945).
+É o relatório. Decido.
+Primeiramente, quanto à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, se mostra inviável a pretensão recursal, uma vez que não foram opostos embargos de declaração contra o acórdão recorrido.
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ACLARATÓRIOS NA ORIGEM. AUSÊNCIA. SÚMULA Nº 284/STF. NEGATIVA DE COBERTURA. FORNECIMENTO DE MEDICAMENTO À BASE DE CANABIDIOL. USO DOMICILIAR. OBRIGATORIEDADE. INEXISTÊNCIA.
+1. Discute-se nos autos acerca da obrigatoriedade de cobertura pelo plano de saúde de medicamento à base de canabidiol.
+2. A ausência de oposição de embargos de declaração na origem inviabiliza a análise da apontada violação dos arts. 489 e 1.022 do Código de Processo Civil no recurso especial, porquanto torna impossível a compreensão da controvérsia, situação que atrai o óbice da Súmula nº 284/STF à espécie.
+3. É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim.
+Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021).
+4. Não existe obrigatoriedade de custeio pelas operadoras de plano de saúde de medicamento de uso domiciliar.
+5. Recurso especial conhecido em parte e não provido.
+(REsp n. 2.187.907/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/4/2025, DJEN de 6/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO DO FEITO. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE BENS PENHORÁVEIS. CONDENAÇÃO DA PARTE EXECUTADA AO PAGAMENTO DE CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. PRETENSÃO RESISTIDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. VIOLAÇÃO AO ART. 489 DO CPC. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que a prescrição intercorrente da pretensão executiva pressupõe inércia injustificada do credor.
+2. No caso dos autos, a Corte de origem afastou a prescrição intercorrente ao concluir, com base nos elementos informativos dos autos, que a paralisação do andamento do feito não decorreu da conduta do exequente, mas sim da ausência de bens penhoráveis. Rever tal conclusão demandaria revolvimento do conteúdo fático-probatório. Incidência da Súmula 7 do STJ.
+3. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+4. É inviável a apreciação de alegação de violação ao art. 489 do CPC/2015 quando não opostos embargos de declaração em face do acórdão recorrido, circunstância que atrai a incidência da Súmula 284/STF, porquanto deficiente a fundamentação do recurso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.434.464/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+No que tange ao alegado cerceamento de defesa e a prova pericial, o Tribunal a quo consignou o seguinte (e-STJ, fls. 2.695-2.701):
+"NULIDADE DA PERÍCIA
+A fim de dirimir a controvérsia sobre os valores devidos pelas partes, foi determinada a prova pericial (id. 46546649), com a fixação dos seguintes pontos controvertidos:
+1) Quais foram os serviços prestados pela H2F e seu respectivo preço;
+2) Existem ou não vícios de qualidade nos serviços já prestados. Em caso positivo, apontar o abatimento necessário no preço para refazimento da obra;
+3) Qual o valor de locação de cada uma das unidades cedidas.
+Após realizada a prova técnica e respondidos os quesitos formulados pelas partes e pelo juízo (id. 46546724), a autora (id. 46546743) e o réu (id. 46546751) impugnaram as conclusões do especialista.
+O perito apresentou laudo complementar (id. 46546823), em relação ao qual se manifestou a autora (id. 46546833). O réu apresentou quesitos complementares (id. 46546835), respondidos pelo perito (id. 46546841).
+Registro, por oportuno, que após impugnação da parte autora (id. 46546845), o perito apresentou as suas considerações sobre eventuais contradições, informando o seguinte (id. 46546851):
+(..)
+Nesse quadro, constato que o perito prestou diversos esclarecimentos às indagações trazidas pelas partes. O mero descontentamento com as conclusões lançadas no laudo, por si só, não autoriza a realização de nova perícia, tampouco a nulidade do trabalho técnico, especialmente quando todos os quesitos foram devidamente respondidos, esclarecendo o perito, quanto aos quesitos complementares.
+(..)
+Ademais, não consta nos autos qualquer elemento hábil a desabonar a conduta do profissional que firmou o laudo pericial e seus posteriores esclarecimentos. Por fim, cumpre ressaltar que a juntada de parecer emitido pela empresa responsável da marca dos equipamentos de "Chiller", acostado pela autora, foi realizado de forma unilateral e não possui o condão de, por si só, afastar a conclusões do perito.
+(..)
+Do caderno probatório acostado aos autos, verifica-se que ambas as partes deram causa à rescisão dos contratos. O réu pela ausência de pontual pagamento; a autora pelos vícios nas obras, devidamente constatados em perícia.
+Nesse contexto, diante da desídia de ambas as partes no cumprimento das obrigações contratuais, situação que caracteriza a culpa recíproca pelo desfazimento do negócio jurídico, não há falar em aplicação de multa contratual a quaisquer dos contratantes. A propósito, confira orientação jurisprudencial desta Corte:
+(..)
+Sobreleva consignar que defeitos nas obras, ao contrário do sustentado pelo réu, não o exime de pagar pelos serviços prestados, mas sim o direito de abater os valores correspondentes, consoante dispõe o art. 442 do Código Civil.
+(..)
+A conclusão da prova técnica produzida por profissional devidamente habilitado não destoa das demais provas reunidas nos autos. Cuida-se de estudos hígidos, não havendo elementos que possam maculá-los." (Sem grifo no original).
+A  despeito  de  toda  a  argumentação  sobre  a ocorrência de cerceamento de defesa,  a parte  recorrente  não  demonstrou  de  que  forma  o  Tribunal  de  origem  teria  violado  os  dispositivos  apontados.
+Dessa  forma,  há  de  se  concluir  que  as  razões  recursais  são  dissociadas  do  conteúdo  do  acórdão  recorrido  e  não  têm  o  poder  de  infirmá-lo,  porquanto  os  fundamentos  autônomos  e  suficientes  à  manutenção  do  aresto,  no  ponto,  mantiveram-se  inatacados  e  incólumes  nas  razões  do  recurso  especial,  convocando,  na  hipótese,  a  incidência  das  Súmulas  n.  283  e  284  do  STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. MATÉRIA DE OR DEM PÚBLICA. PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS NºS 283 E 284/STF. MULTA. ART. 523, § 1º, DO CPC/2015. AFASTAMENTO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de discussão, pelo tribunal de origem, acerca das questões ventiladas no recurso especial (arts. 525, § 1º, e 485, VI, do CPC/2015) acarreta falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que mesmo as questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional e não houver insurgência da questão no momento oportuno.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Aplicação das Súmulas nºs 283 e 284/STF.
+6. Conforme entendimento desta Corte Superior, a multa a que se refere o art. 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a discussões a respeito do débito, o que não é o caso dos autos.
+7. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.877.822/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Ademais, conforme se observa do trecho do v. acórdão recorrido acima transcrito, o Tribunal de origem, ao analisar a demanda, aduziu que os recorrentes "não consta nos autos qualquer elemento hábil a desabonar a conduta do profissional que firmou o laudo pericial e seus posteriores esclarecimentos. Por fim, cumpre ressaltar que a juntada de parecer emitido pela empresa responsável da marca dos equipamentos de "Chiller", acostado pela autora, foi realizado de forma unilateral e não possui o condão de, por si só, afastar a conclusões do perito".
+Assim, a alteração das conclusões adotadas pela Corte de origem exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido, guardadas as devidas particulares:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. DIREITO IMOBILIÁRIO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. DECISÃO FUNDAMENTADA. PLEITO DE NOVA PERÍCIA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. SUFICIÊNCIA DA PROVA. SÚMULA 7 DO STJ. INCIDÊNCIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. MODIFICAÇÕES NA PLANTA. VÍCIO APARENTE. DECADÊNCIA. TERMO INICIAL. MODIFICAÇÃO. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. CLÁUSULA PENAL. REDUÇÃO EQUITATIVA. PREQUESTIONAMENTO AUSENTE. SÚMULA 211 DO STJ. INCIDÊNCIA. APELAÇÕES. NÃO CONHECIDAS. TESE DE SANABILIDADE. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AÇÕES CONEXAS. HONORÁRIOS RECURSAIS NÃO DEVIDOS. HONORÁRIOS SUCUMBENCIAIS. ORIGEM. NÃO ARBITRADOS. AGRAVO PARCIALMENTE PROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. Ainda que não examinados individualmente cada um dos argumentos suscitados pela parte, se o acórdão recorrido decide integralmente a controvérsia apresentando fundamentação adequada, não há que se falar em ofensa aos arts. 489 e 1.022 do CPC/2015.
+3. A modificação do entendimento lançado no v. acórdão recorrido, como pleiteada pela recorrente, para concluir pela necessidade de nova perícia, a fim de atestar que as modificações introduzidas na construção da unidade habitacional e da área comum do imóvel vendido, diferenciando-o de sua planta, sem autorização do promissário-comprador, não teriam reduzido o valor do bem, tal qual consignado no laudo pericial considerado suficiente pelo Tribunal a quo, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova oral, tendo em vista que cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias, motivadamente.
+5. A revisão do julgado, para modificar o termo inicial do prazo de decadência, conforme postulada pela agravante, demandaria a interpretação de cláusulas contratuais e o reexame dos elementos fático-probatórios dos autos, atraindo a incidência das Súmulas 5 e 7 desta Corte. Precedentes.
+6. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ. Caso concreto em que o Tribunal a quo não se manifestou sobre a tese de redução proporcional da cláusula penal.
+7. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal, por analogia. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF, por analogia.
+8. Nos termos do entendimento desta Corte, "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;
+b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe de 7/3/2019).
+9. Agravo interno a que se dá provimento parcial, para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento.
+(AgInt no AREsp n. 2.503.989/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos de 11 % para 12% sobre o valor da condenação .
+Publique-se.
+EMENTA
