@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consta dos autos que o paciente foi condenado pela prática dos delitos de tráfico de drogas, associação para o tráfico e posse ilegal de arma de fogo à pena de 6 anos, 9 meses e 18 dias de reclusão em regime inicial fechado, mais 660 dias-multa.
+2. Trata-se de habeas corpus substitutivo de revisão criminal, uma vez que, conforme verificado em consulta ao sistema informático do tribunal estadual, a condenação contra a qual a defesa se insurge já conta com trânsito em julgado, constando baixa do processo à data de 7/4/2014.
+3. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., D Je15/3/2024).
+4. Demais disso, também há que se repisar que a tese de ilegalidade do ingresso policial e consequente ilicitude das provas sequer foi objeto de apreciação do Tribunal, no ato ora apontado como coator. Dessa forma, também por esta razão, fica inviabilizado o conhecimento deste writ, sob pena de supressão de instância. É entendimento desta Corte que " o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda quando se cuide de questão de ordem pública" (AgRg no HC n. 789.227/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 20/3/2023).
+5. Agravo regimental não provido.
+RELATÓRIO
+ANTONIO JEREMIAS DE PAULA MORAES, por meio de petição de fls. 94-103, agrava da d ecisão de fls. 86-88, em que o habeas corpus foi liminarmente indeferido por ser substitutivo de revisão criminal.
+Consta dos autos que o paciente foi condenado pela prática dos delitos de tráfico de drogas, associação para o tráfico e posse ilegal de arma de fogo à pena de 6 anos, 9 meses e 18 dias de reclusão em regime inicial fechado, mais 660 dias-multa.
+A defesa insiste seja reconhecida a ilegalidade do ingresso domiciliar, bem como ilicitude das provas encontradas por meio da referida diligência. Por estes argumentos, pede a absolvição do réu.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consta dos autos que o paciente foi condenado pela prática dos delitos de tráfico de drogas, associação para o tráfico e posse ilegal de arma de fogo à pena de 6 anos, 9 meses e 18 dias de reclusão em regime inicial fechado, mais 660 dias-multa.
+2. Trata-se de habeas corpus substitutivo de revisão criminal, uma vez que, conforme verificado em consulta ao sistema informático do tribunal estadual, a condenação contra a qual a defesa se insurge já conta com trânsito em julgado, constando baixa do processo à data de 7/4/2014.
+3. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., D Je15/3/2024).
+4. Demais disso, também há que se repisar que a tese de ilegalidade do ingresso policial e consequente ilicitude das provas sequer foi objeto de apreciação do Tribunal, no ato ora apontado como coator. Dessa forma, também por esta razão, fica inviabilizado o conhecimento deste writ, sob pena de supressão de instância. É entendimento desta Corte que " o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda quando se cuide de questão de ordem pública" (AgRg no HC n. 789.227/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 20/3/2023).
+5. Agravo regimental não provido.
+VOTO
+Apesar dos esforços despendidos, não assiste razão à defesa.
+Tal como já explicado antes, trata-se de habeas corpus substitutivo de revisão criminal, uma vez que, conforme verificado em consulta ao sistema informático do tribunal estadual, a condenação contra a qual a defesa se insurge já conta com trânsito em julgado, constando baixa do processo à data de 7/4/2014.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., D Je15/3/2024).
+Apesar da ampliação do uso do writ, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Assim, não está em curso processo do qual o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a eventualidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP). Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..
+(AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+Demais disso, também há que se repisar que a tese de ilegalidade do ingresso policial e consequente ilicitude das provas sequer foi objeto de apreciação do Tribunal, no ato ora apontado como coator. Dessa forma, também por esta razão, fica inviabilizado o conhecimento deste writ, sob pena de supressão de instância. Ilustrativamente:
+ ..
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda quando se cuide de questão de ordem pública. Precedentes.
+(AgRg no HC n. 789.227/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 20/3/2023)
+ ..
+1. A tese de ilicitude das provas diante da ausência de justa causa para a busca pessoal não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida, originariamente, por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+(AgRg no HC n. 765.453/SE, Rel. Ministra Laurita Vaz, 6ª T., DJe 17/3/2023)
+À vista do exposto, voto pelo desprovimento do agravo regimental.
