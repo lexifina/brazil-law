@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por GERALDA TEIXEIRA DOS SANTOS e MILFLEX TINTAS COMERCIAL LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 676):
+APELAÇÃO - AÇÃO MONITÓRIA - Contrato bancário de desconto de recebíveis - Sentença de procedência - Insurgência das requeridas. JUSTIÇA GRATUITA - Documentos carreados pelas rés em sede recursal que justificam a concessão do benefício - Incidência do 98 do Código de Processo Civil e da Súmula 481 do Superior Tribunal de Justiça - Gratuidade de justiça concedida. PROVA ESCRITA - Contrato de desconto de recebíveis devidamente acompanhado de extratos comprobatórios da evolução do débito, descritivo de resumo de operações com borderô de títulos e competente memória de cálculo - Procedimento injuntivo regularmente instruído, nos termos do artigo 700, inciso I, do Código de Processo Civil. JUROS E ENCARGOS MORATÓRIOS - Demonstrativo detalhado de débito que não restou infirmado pelas impugnações lançadas pelas recorrentes - Atualização de débito que se deu nos regulares termos contratados entre as partes - Contrato em exame que estipulou a incidência de encargos moratórios sem cumulação com comissão de permanência - Ausência de irregularidade (Súmula 472, STJ) - Manutenção da r. sentença de procedência que se impõe - sentença mantida RECURSO NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fl. 710).
+No recurso especial, a parte recorrente alega violação do art. 700, I, do CPC. Alega que o banco não detalhou os títulos inadimplidos, nem os juntou ao processo, de forma que o débito não estaria comprovado.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 716-726).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 727-729), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 758-766).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem consignou que foram juntados documentos suficientes à comprovação do débito e ao detalhamento dos títulos, incluindo contrato, resumo de operações, borderô e extrato de conta (fl. 678):
+Com efeito, anote-se que regularmente instruído o presente procedimento monitório, nos termos do inciso I, do artigo 700, do Código de Processo Civil, uma vez que inequívoca a prova escrita da dívida perquirida pelo banco requerente, a qual não só demonstra a incontroversa contratação havida entre as partes (vide contrato de fls. 17/27), mas, ao revés do quanto sustentado pelas rés em sua defesa, também detalha os títulos descontados que constituíram o débito.
+Outrossim, esclarecedores se mostram o resumo de operações e borderô de fls. 28/29 e o extrato de conta corrente de fls. 30/67, que bem demonstram a origem e evolução da dívida em exame, cujo total atualizado restou devidamente aclarado pela memória de cálculo de fls. 68, a qual especifica precisamente os juros e encargos moratórios incidentes sobre o débito.
+Alterar o decidido no acórdão impugnado, no que se refere à comprovação dos títulos cobrados, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentido, cito:
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO DE DESCONTO DE TÍTULOS. AÇÃO MONITÓRIA. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. COMPROVAÇÃO DA DÍVIDA. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILDIADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. 3. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. MENSURAÇÃO. IMPOSSIBILIDADE. ARBITRAMENTO SOBRE O VALOR DA CAUSA. ADMISSIBILIDADE. REVERSÃO DO JULGADO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Rever as conclusões quanto à comprovação da dívida demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+3. Não sendo possível mensurar o proveito econômico obtido pela parte, os honorários advocatícios devem ser fixados sobre o valor da causa.
+4. Adotar entendimento diverso por esta Corte Superior quanto à possibilidade de mensurar o proveito econômico obtido pelo recorrente, contrariamente à conclusão do acórdão recorrido, encontra óbice no enunciado nº 7 da Súmula do STJ.
+5. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+6. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
+(REsp n. 2.185.023/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+A incidência da Súmula 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação, observada eventual concessão da justiça gratuita.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COMPROVAÇÃO DA DÍVIDA. REEXAME. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
