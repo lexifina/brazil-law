@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por JUAREZ MIOTTO FERREIRA, VALTER MIOTTO FERREIRA e A.G.B.ARMAZÉNS GERAIS DA BARRA LTDA. contra acórdão proferido pela Quarta Turma do Superior Tribunal de Justiça assim ementado (fl. 703):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DOS EMBARGANTES.
+1. Incide a Súmula 115/STJ quando a parte, devidamente intimada, não regulariza o vício de representação processual. Precedentes.
+2. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 748-754).
+As partes embargantes alegam que haveria divergência de entendimento entre o acórdão embargado e a orientação firmada pela Sexta Turma nos autos do AgRg no REsp n. 1.571.320/AL.
+Articulam, em síntese, o seguinte (fl. 764):
+Diante disso, a eg. Quarta Turma do c. STJ exarou o entendimento de que a apresentação de instrumento procuratório com data posterior à interposição de agravo em recurso especial, não tem o condão de regularizar a representação processual, devendo incidir o óbice da Súmula 115/STJ, consequentemente, tornando o recurso inexistente.
+Ao assim decidir, forma-se entendimento contrário a precedente anteriormente firmado pela Sexta Turma do c. STJ, que trata sobre questão jurídica idêntica, entretanto, aplica solução diametralmente contrária, afastando o referido óbice sumular, ante a demonstração de que o patrono que subscreveu o recurso já atuava perante o tribunal de origem.
+Justamente por isso, fez-se necessária a oposição dos presentes embargos de divergência, a fim de se demonstrar que, como a advogada que subscreve o agravo em recurso especial já havia praticado diversos atos perante as instâncias ordinárias, há necessidade de se aplicar o mesmo entendimento adotado pelo acórdão paradigma, afastando o óbice da Súmula 115/STJ, para possibilitar a análise dos fundamentos de mérito do recurso especial, sanando as violações legais presentes no acórdão do tribunal de origem.
+Buscam, ao final, o acolhimento dos embargos e a consequente reforma do acórdão recorrido.
+É o relatório.
+Para que sejam admissíveis os embargos de divergência, cumpre à parte embargante demonstrar a existência de divergência atual entre os órgãos fracionários que compõem o Superior Tribunal de Justiça.
+No caso em questão, as partes recorrentes apontam como paradigma um acórdão proferido pela Sexta Turma datado de 2018, sendo possível verificar que o referido órgão julgador, em decisões mais recentes, tem adotado a mesma orientação contida no acórdão embargado.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA. SÚMULA N. 115 DO STJ. FUNGIBILIDADE RECURSAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inexistente o recurso endereçado à instância superior desacompanhado de procurações e/ou substabelecimentos que evidenciem a existência de poderes do advogado subscritor do referido recurso ao tempo de sua interposição, conforme consolidado na Súmula n. 115 do STJ.
+2. Intimada para regularizar a falha nos termos do art. 76, caput, do CPC, a parte recorrente não se manifestou em tempo oportuno, fazendo incidir o disposto no inciso I do § 2º do mencionado artigo, que impõe o não conhecimento do recurso anterior.
+3. Nos termos da jurisprudência do STJ, o pedido de reconsideração pode ser recebido como agravo regimental, em consonância com a aplicação do princípio da fungibilidade recursal, desde que apresentado no prazo legalmente previsto.
+4. Nem mesmo no pedido de reconsideração foi juntada aos autos a procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial 3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.601.177/SP, de minha relatoria, Sexta Turma, julgado em 22/4/2025, DJEN de 23/5/2025.)
+Como se observa, a orientação atual da Sexta Turma é no sentido de que o instrumento procuratório deve evidenciar a existência de poderes conferidos ao advogado subscritor do recurso ao tempo de sua interposição, sob pena de incidir o óbice da Súmula n. 115 do STJ.
+O entendimento em referência encontra-se em sintonia com a orientação compreendida no acórdão ora embargado, o que inviabiliza o manejo dos embargos de divergência.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. COFINS-IMPORTAÇÃO. AUSÊNCIA DE ATUALIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM A ORIENTAÇÃO DESTA CORTE SUPERIOR. SÚMULA 168 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Constata-se que a embargante não logrou comprovar a existência do dissídio atual entre os órgãos fracionários do Superior Tribunal de Justiça, já que o acórdão REsp 899.302/SP e REsp 687.216/SP, indicados como paradigmas, foram publicados em 8.10.2009 e 17.10.2005, respectivamente, não se cumprindo o requisito de admissibilidade dos Embargos de Divergência, nos termos do art. 266 do RISTJ, in verbis: "Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal, sendo: (..)" (grifei). Cito precedentes: AgInt nos EAREsp n. 1.897.591/RS, Rel. Min. Francisco Falcão, Corte Especial, DJe de 26/8/2022, AgInt nos EREsp 1.555.435/SP, Rel. Min. Jorge Mussi, Corte Especial, DJe 02/09/2020 e EDcl no AgInt nos EREsp 1.203.375/SC, Rel. Min. Herman Benjamin, Primeira Seção, DJe 16.4.2019.
+2. Em relação à matéria de fundo, a insurgente afirma que o acórdão recorrido violou a cláusula de reserva de plenário ao afastar o art. 8º, §12, da Lei 10.865/2004 e o Decreto 5.171/2004. Entretanto, tal alegação não constitui hipótese de cabimento dos Embargos de Divergência, nos termos do art. 1.043, do CPC/15, de forma que não se pode conhecer do Recurso.
+3. Observa-se, também, que a matéria não foi tratada no fundamento do acórdão impugnado, de modo que incide, por analogia, a Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+4. Em relação à divergência referente à aplicação do princípio da especialidade, constata-se que não há similitude fática entre os acórdãos indicados como paradigma e o embargado. A propósito: AgInt nos EAREsp n. 751.567/MT, Rel. Min. Paulo de Tarso Sanseverino, Segunda Seção, DJe de 6/10/2022 e AgInt nos EREsp n. 1.666.076/SP, Rel. Min. Herman Benjamin, Primeira Seção, DJe de 30/6/2022.
+5. Ademais, o STJ firmou compreensão na mesma linha do acórdão embargado, segundo a qual a exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21, do art. 8º da Lei 10.865/2004, na aquisição de aeronaves e peças de aeronave, é legítima. Incide a Súmula 168 do STJ. A propósito: AgInt nos EREsp n. 1.896.233/DF, Rel. Min. Regina Helena Costa, Primeira Seção, DJe de 1/9/2022.
+6. Agravo Interno não provido.
+(AgInt nos EREsp n. 1.900.892/MG, relator Ministro Herman Benjamin, Corte Especial, julgado em 25/4/2023, DJe de 6/6/2023.)
+Além disso, deve-se registrar que, nos termos do § 4º do art. 1.043 do Código de Processo Civil, são cabíveis embargos de divergência quando houver divergência de entendimento entre o acórdão embargado e os paradigmas indicados, o que pressupõe o dissenso de conclusões alcançadas em casos dotados das mesmas particularidades fáticas.
+Na situação em apreço, o acórdão embargado limitou-se a afirmar que a parte foi devidamente intimada para regularizar a representação processual, mas que deixou de atender à determinação exarada, o que atraiu a incidência da Súmula n. 115 do STJ.
+Acrescentou-se, no ponto, que a juntada de substabelecimento com data posterior à interposição do agravo em recurso especial não seria suficiente para sanar o vício processual apontado.
+Já o acórdão indicado como paradigma afastou a incidência da Súmula n. 115 do STJ em situação excepcional, na qual foi demonstrada, com base nas circunstâncias processuais específicas daqueles autos, que o patrono da parte recorrente, de fato, estaria apto a representar a parte, tendo havido apenas uma falha da digitalização do processo quando os autos deixaram de ser físicos e passaram a ser eletrônicos. Observa-se a seguinte transcrição (fl. 786):
+Na espécie, como visto, consoante certificado nos autos, os quais passaram de físicos a eletrônicos, muitas peças não foram trasladadas/digitalizadas como deveriam, sendo, contudo, certificado pela Secretaria, que o advogado teria, de fato, procuração nos autos, estando, portanto, apto a atuar na representação do recorrente, justificando, assim, excepcionalmente, o afastamento do comando da Súmula 115/STJ.
+Depreende-se, assim, que não há efetiva contrariedade nas conclusões contrastadas, constatando-se a existência de premissas fático-processuais diversas nos acórdãos trazidos a confronto.
+A discussão, portanto, não é viável em embargos de divergência, recurso no qual não se pode reexaminar premissas fáticas do acórdão embargado, viabilizando-se tão somente a comparação de conclusões alcançadas em casos semelhantes, consideradas as premissas que restaram assentadas no acórdão que apreciou o recurso especial (art. 1.043, I ou III, do CPC) e nos paradigmas, premissas que não podem ser modificadas ou ter rediscutido o acerto de sua fixação nesta espécie recursal.
+No ponto:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SIMILITUDE FÁTICA ENTRE O ACÓRDÃO EMBARGADO E O PARADIGMA. AUSÊNCIA. RECURSO NÃO CONHECIDO.
+ ..
+IV - Nesta Corte, é assente o entendimento de que, inexistente similitude fática, decorrente das peculiaridades existentes em cada caso, o recurso de embargos de divergência não merece ser conhecido.
+Precedentes: AgInt nos EREsp n. 1.430.325/PE, Rel. Ministro Francisco Falcão, Primeira Seção, julgado em 11/12/2019, DJe 17/12/2019; AgInt nos EDv nos EREsp n. 1.756.344/RJ, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 3/12/2019, DJe 6/12/2019; AgInt nos EREsp n. 1.580.178/SP, Rel. Ministro Mauro Campbell Marques, Corte Especial, julgado em 22/10/2019, DJe 25/10/2019.
+V - Recurso de embargos de divergência não conhecido.
+(EREsp n. 1.707.423/RS, relator Ministro Francisco Falcão, Corte Especial, julgado em 15/2/2023, DJe de 23/2/2023, grifei.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ. SIMILITUDE. AUSÊNCIA.
+ ..
+2. Tratando os acórdãos confrontados de questões essencialmente distintas, não há falar em dissídio jurisprudencial a ser sanado na via dos embargos de divergência.
+3. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.056.572/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022, grifei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. CISÃO DO JULGAMENTO. NECESSIDADE. AGRAVO DESPROVIDO.
+1. Verificada a diversidade da moldura fática entre os acórdãos confrontados, não se tem por caracterizado o dissídio jurisprudencial apto a ensejar o cabimento de embargos de divergência.
+ ..
+(AgInt nos EREsp n. 1.755.379/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 16/11/2022, DJe de 2/12/2022, grifei.)
+Dessa forma, falta aos embargos de divergência pressuposto básico de admissibilidade, qual seja, a constatação de discrepância entre julgados que tenham debatido questões efetivamente similares.
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, nos termos do disposto no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como os efeitos de eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
