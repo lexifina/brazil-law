@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 297, DE 23 DE AGOSTO DE 2022
+Consolida procedimentos a serem observados na remessa de informações sobre relacionamentos de cooperativa, de que trata a Resolução BCB nº 221, de 30 de março de 2022, e informa sobre a inclusão de informações no Cadastro de Clientes do Sistema Financeiro Nacional (CCS), de que trata a Resolução BCB nº 179, de 19 de janeiro de 2022.
+​Os Chefes do Departamento de Monitoramento do Sistema Financeiro (Desig) e do Departamento de Atendimento Institucional (Deati), no uso da atribuição que lhes confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, em relação ao primeiro, com base no art. 77, inciso III, do referido Regimento, e tendo em vista o disposto nas Resoluções BCB nº 179, de 19 de janeiro de 2022, e 221, de 30 de março de 2022,
+R E S O L V E M :
