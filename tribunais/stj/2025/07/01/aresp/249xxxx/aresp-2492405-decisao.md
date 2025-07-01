@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JEFFERSON COSTA XAVIER contra decisão proferida no âmbito do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que não admitiu recurso especial, com fundamento na Súmula n. 83 desta Corte Superior (e-STJ fls. 269/279).
+No presente recurso, a defesa alega, em síntese, que "as instâncias ordinárias utilizaram fundamentação genérica para negar o benefício de saída temporária", pois "foram ressaltados, tão somente, e de forma vaga, que o Reeducando iniciou o cumprimento da pena no regime intermediário há pouco tempo; a longa pena a cumprir; a ausência de registros de atividade laborativa e/ou educacional na unidade prisional; e a gravidade dos delitos cometidos (roubo circunstanciado e extorsão mediante a restrição da liberdade da vítima)" (e-STJ fl. 333).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ fls. 410/412).
+É o relatório.
+Decido.
+Não se pode conhecer do agravo, uma vez que o agravante deixou de impugnar o s fundamentos da decisão recorrida.
+Com efeito, inadmitido o apelo extremo com base no verbete sumular n. 83/STJ, incumbiria à parte interessada apontar julgados contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial no Superior Tribunal de Justiça.
+Anota-se que o entendimento desta Corte Superior é o de que "a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2016, DJe 31/3/2016).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, é acertada a decisão da Presidência deste Tribunal Superior que não conhece do agravo em recurso especial interposto, uma vez que a defesa deixou de refutar, especificamente, o fundamento de inadmissibilidade referente ao enunciado sumular n. 83 do STJ.
+3. Para infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes, mediante distinguishing, o que não ocorreu na hipótese.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.465.273/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2024, DJe de 2/4/2024.)
+PENAL . AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MONOCRÁTICA MANTIDA.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe, conforme ressaltado na decisão monocrática recorrida, o não conhecimento do agravo em recurso especial.
+2. No caso dos autos, a parte agravante deixou de infirmar, de maneira adequada e específica, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial, especificamente com relação à incidência da Súmula n. 83/STJ.
+3. Nos termos da jurisprudência desta eg. Corte Superior "Para infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese. Precedentes" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogério Schietti Cruz, julgado em 26/09/2023, DJe de 03/10/2023).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.414.009/PA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+No caso sob apreciação, o paradigma exposto na decisão agravada para amparar a aplicação da Súmula n. 83/STJ diz respeito ao entendimento de que a prática de falta disciplinar de natureza grave no curso da execução constitui fundamentação idônea para o indeferimento do pedido de saída temporária. Ressaltou-se, na decisão, que "o Tribunal apenas seguiu a orientação do Superior Tribunal de Justiça, no sentido de que a concessão do benefício da Visita Periódica ao Lar esbarra no histórico do apenado durante o cumprimento de sua pena" (e-STJ fl. 274).
+Todavia, nas razões do agravo em recurso especial, a defesa deixou de impugnar tal fundamento, limitando-se a discorrer sobre a impossibilidade de negativa do benefício com amparo somente na gravidade abstrata do delito e na longevidade da pena a ser cumprida. Não se mencionou o acórdão colacionado na decisão agravada, nem foram apontados julgados posteriores que se contraponham especificamente ao conteúdo dele. Com efeito, os precedentes referidos pela defesa não se relacionam ao cometimento de faltas graves pelo recorrente, fundamento ressaltado, inclusive, no trecho do acórdão recorrido transcrito no próprio agravo (e-STJ fl. 325).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
