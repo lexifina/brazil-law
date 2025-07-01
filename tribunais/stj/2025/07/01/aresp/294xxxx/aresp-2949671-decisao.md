@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu o recurso especial com fundamento na Súmula n. 83 do Superior Tribunal de Justiça.
+O acórdão recorrido tratou de recurso de agravo em execução penal interposto pelo Ministério Público Estadual contra decisão do juízo de primeiro grau que concedeu a progressão de regime semiaberto ao agravado dispensando a realização do exame criminológico. A decisão de primeiro grau foi mantida pelo Tribunal a quo, em acórdão assim ementado (fl. 44):
+AGRAVO EM EXECUÇÃO PENAL - PROGRESSÃO DE REGIME - AFASTAMENTO DA OBRIGATORIEDADE DO EXAME CRIMINOLÓGICO COM BASE NA SUPERVENIENTE LEI Nº 14.843/24 - POSSIBILIDADE - IRRETROATIVIDADE DA LEI PENAL - DESNECESSIDADE FUNDAMENTADA NO CASO CONCRETO - MANUTENÇÃO. Considerando serem os dispositivos referentes ao exame criminológico constantes na Lei nº 14.843/24 norma processual penal material, eles não retroagem para atingir os reeducandos que cumprem pena por crimes anteriores à sua vigência. A desnecessidade de realização do exame criminológico foi devidamente analisada pelo magistrado de primeiro grau, nos termos da Súmula nº 439, do STJ, bem como os demais requisitos exigidos pela lei, sendo a manutenção da decisão que concedeu a progressão de regime medida que se impõe.
+No recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, o Ministério Público estadual alega que o acórdão recorrido violou o art. 112, caput e § 1º, da Lei de Execução Penal, c/c o art. 2º do Código de Processo Penal, ao afastar a obrigatoriedade do exame criminológico para progressão de regime, sob o argumento de que a Lei n. 14.843/2024 possui natureza híbrida e não pode retroagir para alcançar crimes praticados antes de sua vigência (fls. 68-77).
+O Tribunal de origem inadmitiu o recurso especial, alegando que, no caso, incide o óbice constante da Súmula n. 83 do Superior Tribunal de Justiça.
+Daí o presente agravo, no qual o agravante argumenta que decisões em habeas corpus, por sua natureza de cognição sumária, não podem servir como paradigma para inadmissão de recurso especial, pois não permitem dilações probatórias profundas.
+O agravo busca a reforma da decisão que inadmitiu o recurso especial, visando seu processamento pelo Superior Tribunal de Justiça.
+A contraminuta foi apresentada (fls. 128-130).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para negar provimento ao recurso especial, em parecer assim ementado (fl. 150):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. ART. 112, §1º, DA LEI DE EXECUÇÃO PENAL, COM REDAÇÃO DA LEI 14.483/24. IRRETROATIVIDADE.
+1. É irretroativa a inovação introduzida pela Lei nº 14.483/24, que alterou o § 1º do art. 112, da Lei de Execução Penal, determinando a realização de exame criminológico para a progressão de regime em todos os casos, pois se trata de disposição mais severa e que agrava a situação do sentenciado, não alcançando, por isso, condenações anteriores à vigência da nova regra.
+2. No caso, o Juízo de primeira instância expressamente consignou que não havia nenhuma peculiaridade a indicar a necessidade realização do exame criminológico, nos termos da Súmula 439 do STJ, o que está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
+3. Parecer pelo conhecimento do agravo para negar provimento ao recurso especial.
+É o relatório.
+Decido.
+Conforme relatado, o recurso especial foi inadmitido com base na Súmula n. 83 do STJ, considerando que o entendimento firmado no acórdão recorrido está em plena conformidade com o posicionamento consolidado do Superior Tribunal de Justiça.
+Na espécie, o agravante não se desincumbiu do ônus que lhe competia, deixando de demonstrar a existência de entendimento jurisprudencial deste STJ em sentido diverso quanto à obrigatoriedade do exame criminológico ou, ainda, que os precedentes listados na decisão de inadmissibilidade não se aplicariam ao caso, o que configura enfrentamento deficiente ao óbice da Súmula n. 83 do STJ.
+Nos termos da jurisprudência desta Corte Superior , " p ara se afastar o óbice contido na Súmula 83/STJ, não basta que se mencione um único julgado, devendo "ser trazidos à colação julgados do Superior Tribunal de Justiça, atuais em relação à decisão agravada, que demonstrem ter o acórdão recorrido adotado entendimento contrário à posição dominante da jurisprudência desta Corte Superior" (AgRg no AREsp n. 1.712.720/TO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 20/10/2020, DJe de 26/10/2020).
+Assim, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido, cito os seguintes precedentes:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL INADMITIDO. SÚMULAS 7, 83 E 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência do STJ que, com base na Súmula 182/STJ, não conheceu do agravo em recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo em recurso especial impugnou de maneira específica e concreta todos os fundamentos da decisão de inadmissibilidade do recurso especial, especialmente em relação às Súmulas 7 e 83 do STJ.
+III. Razões de decidir
+3. A parte agravante não apresentou argumentos suficientes para infirmar a decisão que inadmitiu o recurso especial, pautada nas Súmulas 7 e 83 do STJ, bem como na ausência de omissão no julgado.
+4. A impugnação genérica à aplicação da Súmula 7/STJ, sem cotejo entre os fatos estabelecidos no acórdão e as teses recursais, não satisfaz a exigência de impugnação específica.
+5. A ausência de indicação de precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida inviabiliza a impugnação da aplicação da Súmula 83/STJ.
+6. A Súmula 182/STJ impede o conhecimento do agravo regimental, pois não houve impugnação específica de todos os fundamentos da decisão agravada.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A impugnação genérica à aplicação das Súmulas 7 e 83 do STJ não satisfaz a exigência de impugnação específica. 2. A ausência de impugnação específica de todos os fundamentos da decisão agravada atrai a incidência da Súmula 182/STJ, impedindo o conhecimento do agravo regimental".
+Dispositivos relevantes citados: CPC/2015, art. 1.042; CPC/1973, art. 544, § 4º, I. Jurisprudência relevante citada: STJ, AgRg no AREsp 1789363/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 02.02.2021; STJ, AgRg no RHC 128.660/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18.08.2020; STJ, EAREsp 746.775/PR, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luís Felipe Salomão, Corte Especial, julgado em 19.09.2018. (AgRg no AREsp n. 2.781.629/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 03/01/2025, grifei.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ.
+1. Não havendo impugnação específica de fundamento da decisão que não conheceu do recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Diante do não conhecimento do apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+3. Ademais, conforme destacado na decisão que não conheceu do recurso especial, o Superior Tribunal de Justiça possui o entendimento de que "a imposição das restrições de liberdade  .. , por medida de caráter cautelar, de modo indefinido e desatrelado de inquérito policial ou processo penal em andamento, significa, na prática, infligir-lhe verdadeira pena sem o devido processo legal, resultando em constrangimento ilegal" (RHC n. 94.320/BA, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/10/2018, DJe 24/10/2018).
+4. Agravo regimental não conhecido. (AgRg no AREsp n. 1.664.424/MG, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 17/09/2024, DJe de 09/10/2024, grifei.)
+Por fim, incide, por analogia, a Súmula 182 do STJ, segundo a qual: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
