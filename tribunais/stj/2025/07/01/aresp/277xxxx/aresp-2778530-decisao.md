@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO BATISTA ROCHA NEVES contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. DEFEITOS DO CONSTRUTIVOS EM IMÓVEL. Sentença de parcial procedência, condenando solidariamente as rés na reparação de danos materiais, de diminuição do valor do imóvel por inexistência de janela na lavanderia, a ser apurado em liquidação de sentença; e danos morais de R$ 8.000,00. Irresignação das rés. Sentença reformada, para julgar improcedente a demanda.
+1. LITISCONSÓRCIO ATIVO NECESSÁRIO. Não ocorrência. Pedido indenizatório que não veicula pretensões de direitos reais ou que afetem a constituição da relação jurídica da compra e venda. Não aplicação do artigo 115 do CPC e do artigo 1.647 do CC.
+2. LEGITIMIDADE PASSIVA. Responsabilidade da cadeia de consumo. Inteligência do artigo 7º, § único, do CDC. Não acolhimento.
+3. INDENIZAÇÃO DE DANOS MATERIAIS E MORAIS. Não configuração. Imóvel que teria sido entregue com falha construtiva, por falta de janela em área de serviço/cozinha, conforme previsto no apartamento decorado. Ausência de falha de informação das vendedoras ou propaganda enganosa. Planta do imóvel vendido que demonstra claramente a inexistência de janela no local. Documento entregue e assinado pelo comprador quando da compra. Informação adequada (arts. 6º, III; 31 e 36, CDC).
+RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 489, § 1º, IV, do CPC, 6º, III, VI e VIII, 31, caput, 39, III e VI, do Código de Defesa do Consumidor, 186, 187 e 927, do Código Civil, sustentando, em síntese, isto: (I) falta de fundamentação do acórdão recorrido; (II) houve falha ao dever de informação e propaganda enganosa no ato da venda do apartamento, pois foi apresentado um apartamento decorado com janela e entregaram um apartamento faltando a janela da cozinha e área de serviço; (III) deve ser reconhecido o dever de indenizar, uma vez que demonstrado o ato ilícito.
+É o relatório.
+Inicialmente, não se vislumbra a alegada violação do art. 489 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PENHORA SOBRE IMÓVEL RURAL. DISCUSSÃO QUANTO À CARACTERIZAÇÃO DE PEQUENA PROPRIEDADE RURAL TRABALHADA PELA FAMÍLIA. RECONHECIMENTO, NA ORIGEM, DE QUE O EXECUTADO NÃO É AGRICULTOR, TAMPOUCO EXTRAI SEU SUSTENTO E DE SUA FAMÍLIA DA PROPRIEDADE. REVISÃO. SÚMULA N. 7/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do
+CPC/2015.
+2. A Segunda Seção do Superior Tribunal de Justiça firmou entendimento de que é "ônus do executado comprovar não só que a propriedade se enquadra no conceito legal de pequena propriedade rural, como também que o imóvel penhorado é voltado à exploração para subsistência familiar" (REsp
+1.913.234/SP, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em
+8/2/2023, DJe de 7/3/2023).
+3. Rever a conclusão do Tribunal de origem de que não é da exploração da terra que advém o sustento do núcleo familiar do recorrente demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula desta Corte Superior.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.619.003/MT, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024)
+Cinge-se a controvérsia recursal em verificar a ocorrência de propaganda enganosa em relação ao imóvel decorado e o apartamento entregue ao ora recorrente.
+No caso dos autos, a Corte estadual reformou a sentença e ao apreciar os fatos e as provas dos autos concluiu inexistir propaganda enganosa, bem como afastou a ocorrência de dano moral. Eis os fundamentos, verbis:
+O apelado alega que haveria danos materiais e morais, em razão da entrega de imóvel em desconformidade com a propaganda, do apartamento decorado, em abusividade em face do consumidor.
+O imóvel, porém, foi entregue exatamente como previsto na planta de vendas, apresentada ao comprador no estande (ps. 44 e 374).
+As fotografias de ps. 29/35, que seriam de apartamento decorado, não são suficientes para caracterização de propaganda enganosa e indevida das apelantes (art. 37, CDC). Nota-se que não se trata de um único tipo de apartamento, para ser um padrão unificado de imóvel decorado do empreendimento, a fim de que houve propaganda vinculativa e enganosa.
+Ao contrário do que o autor sustenta, a entrega do memorial descritivo e da planta do imóvel basta para a informação adequada ao consumidor (arts. 6º, III; 31 e 36, CDC), independentemente do que foi exibido no estande de vendas.
+Por isso, ainda que tenha havido divergências em relação ao apartamento mobiliado, a autora deveria ter se atentado para as especificadas na unidade adquirida. Os compradores tiveram ciência das características do imóvel comprado, de forma clara, cuja planta não possuía janela na área da cozinha/lavanderia (ps. 44 e 374).
+Nesse contexto, descabe a alegação de qualquer surpresa no momento da entrega da unidade. Por consequência, não estão configurados os danos materiais e morais, sem caracterização dos requisitos dos artigos 186 e 927 do Código Civil e do artigo 12 do Código de Defesa do Consumidor.
+Ante o exposto, dá-se parcial provimento às apelações das rés, para afastar as preliminares alegadas e reformar a r.
+sentença apelada para julgar improcedentes pedidos formulados na inicial.
+E, no julgamento proferido em sede de embargos de declaração, esclareceu ainda isto:
+A fundamentação do acórdão deixa claro que a divergência do imóvel específico do embargante em relação ao apartamento decorado do estande de vendas não era suficiente para caracterizar informação inadequada ao consumidor, tendo em vista a planta do imóvel comprado pelo embargante e entregue quando da venda, que indicava a falta de janela no apartamento específico dele.
+Os documentos entregues também informavam que havia tipos distintos de apartamentos no empreendimento, o que afasta a alegação de que a divergência do apartamento decorado configurava publicidade enganosa. O apartamento decorado servia como modelo instrutivo, mas não obrigava a venda de imóvel idêntico ao comprador, que deveria se atentar aos documentos entregues do imóvel por ele especificamente comprado.
+Enfim, o acórdão é bastante claro e expresso quanto à inexistência de publicidade enganosa das embargadas no caso, para a configuração de danos materiais e morais requeridos pelo embargante.
+Nesse cenário, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula n. 7/STJ.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. OMISSÃO. ART. 1.022 DO CPC. NÃO CONFIGURADOS. LEGITIMIDADE PASSIVA DA PARTE AGRAVANTE. RESPONSABILIDADE SOLIDÁRIA. ENVOLVIMENTO NA PUBLICIDADE ENGANOSA. PRODUTOS ANUNCIADOS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. DIREITO DO CONSUMIDOR. PUBLICIDADE ENGANOSA POR OMISSÃO. ELEMENTOS ESSENCIAIS NÃO APRESENTADOS AO CONSUMIDOR. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 83 DO STJ. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Modificar a conclusão do acórdão recorrido e verificar se efetivamente a parte agravante possui legitimidade para figurar no polo passivo da lide, ou se sua empresa também se beneficiou da publicidade enganosa por omissão, demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+4. Nos termos do art. 37, § 1º, do Código de Defesa do Consumidor, é enganosa qualquer modalidade de informação ou comunicação de caráter publicitário, inteira ou parcialmente falsa, ou que, por qualquer outro modo, mesmo por omissão, seja capaz de induzir em erro o consumidor a respeito de natureza, características, qualidade, quantidade, propriedades, origem, preço e quaisquer outros dados acerca de produtos e serviços.
+5. Ademais, modificar premissas fáticas que levam ao entendimento de que houve propaganda enganosa pela omissão de diversos elementos essenciais do produto em questão demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.016.282/RN, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 8/9/2023)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RESPONSABILIDADE DO FORNECEDOR CIVIL. PROPAGANDA ENGANOSA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ.
+DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+3. "Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 1812345/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos."
+(AgInt no AREsp 1817343/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA,DJe 08/10/2021)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
