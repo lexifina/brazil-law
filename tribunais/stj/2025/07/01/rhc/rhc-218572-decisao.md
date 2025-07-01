@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Valdeir Borges Pereira Franco contra acórdão prolatado pelo Tribunal de Justiça de Minas Gerais no HC n. 1.0000.25.189495-2/000.
+Narram os autos que o recorrente está preso preventivamente, desde 17/8/2024, em razão da suposta prática dos crime de porte ilegal da arma de fogo e de falsa identidade.
+Neste recurso, a defesa alega, de início, a existência de excesso de prazo na conclusão da instrução, destacando que o recorrente está preso há mais de 300 dias e que o processo está supenso devido à instauração de um incidente de insanidade mental.
+Aduz, ainda, a ausência de fundamentação idônea para a prisão preventiva, tendo em vista que os crimes imputados ao recorrente não possuem violência ou grave ameaça.
+Requer, inclusive em liminar, a revogação da prisão preventiva, expedindo-se o competente alvará de soltura ou, subsidiariamente, a substituição por outras medidas cautelares.
+É o relatório.
+O recurso não comporta provimento.
+No acórdão impugnado, acerca do excesso de prazo, o Tribunal de Justiça destacou que, apesar de o paciente se encontrar, de fato, preso cautelarmente desde o dia 18/08/2024, verifica-se que a instrução criminal evoluiu regularmente, tendo o Juiz de primeiro grau reavaliado em mais de uma oportunidade a necessidade de manutenção da sua segregação cautelar,  ..  Além disso, verifico que a audiência de instrução ocorreu no dia 06/12/2024, de modo que, no caso em apreço, constata-se que a instrução criminal está prestes a ser encerrada (fls. 310/311).
+E, continua, a Corte mineira, a instrução está na iminência de seu encerramento, uma vez que a Defesa requereu a instauração de incidente de insanidade mental ao final da AIJ, sendo tal pleito deferido pelo Juiz de primeiro grau, conforme decisão de ID 10387288876. Na mesma oportunidade, o Juiz determinou a suspensão do processo, nos termos do artigo 149, § 2º do Código de Processo Penal, sendo certo, portanto, que eventual atraso na marcha processual não pode ser atribuído à inércia jurisdicional, mas sim em razão de diligência requerida pela própria defesa (fls. 312/313 - grifo nosso).
+Assim, não é possível afirmar que, neste caso, o limite da razoabilidade do prazo processual penal foi ultrapassado, considerando que a eventual demora no término da instrução se deve, entre outras causas, à realização do incidente de insanidade mental, que foi solicitado pela própria defesa.
+A propósito, a análise do excesso de prazo na instrução criminal deve ser feita com base nos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto. 4. O atraso na conclusão da instrução processual não decorre de desídia do Poder Judiciário, mas sim de requerimento da própria defesa, que solicitou a instauração de incidente de insanidade mental, sendo esta a última diligência pendente (AgRg no HC n. 912.994/MG, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024 - grifo nosso).
+E, ainda: RHC n. 70.853/RS, de minha relatoria, Sexta Turma, DJe 2/3/2017.
+Assim, não há como reconhecer a existência de excesso de prazo, pois, consta dos autos que foi a própria defesa quem pediu a instauração do incidente de insanidade mental do réu.
+Quanto aos fundamentos da prisão preventiva, ao decretá-la, o Magistrado de piso destacou que a considerável quantidade de munição encontrada em posse do recorrente, juntamente com o fato de o conduzido ter uma extensa ficha criminal, incluindo crimes de tráfico de drogas, corrupção ativa, disparo de arma de fogo, porte ilegal de arma de fogo e ameaça justificam a necessidade da custódia.
+Com efeito, a prisão preventiva está alicerçada em fundamentação concreta, para garantia da ordem pública, dado o risco concreto de reiteração delitiva.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO E FALSA IDENTIDADE. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. INSTRUÇÃO ENCERRADA, AGUARDANDO APENAS A REALIZAÇÃO DO EXAME DE INSANIDADE MENTAL REQUERIDO PELA DEFESA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso em habeas corpus improvido.
