@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S/A contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Alagoas, assim ementado:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. DECISÃO QUE REJEITOU A IMPUGNAÇÃO E DETERMINOU A PENHORA ONLINE. PEDIDO DE REFORMA DO DECIDIDO NO PRIMEIRO GRAU. DECISÃO MANTIDA. BANCO AGRAVANTE QUE NÃO FEZ PROVA DO EXCESSO DE EXECUÇÃO ALEGADO. GARANTIA DO JUÍZO QUE NÃO SE REVESTE DE PAGAMENTO VOLUNTÁRIO. MORA CONFIGURADA. PENHORA DE VALORES QUE SE FAZ DEVIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Agravante que não consegue demonstrar o excesso de execução que defende.
+2. Garantia do juízo que não se reveste de pagamento voluntário e, ante a falta de pagamento espontâneo do débito exequendo, a penhora de valores se faz devida.
+3. Desnecessidade de intimação para fins de penhora, ante as disposições do § 3º, do art. 523 do CPC.
+4. Alegação de excesso de execução por ser os valores expressivos que, por si só, não são suficientes para mudar o decidido. Agravante te traz alegações genéricas de erro de cálculo. Decisão recorrida que deve ser mantida.
+RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte alega violação aos arts. 6º, 7º, 9º, 10, 275, 85, 494, inciso I, 523, § 2º, 525, 88, 831, e 1.030, inciso III, do Código de Processo Civil; e 844 do Código Civil, sustentando, em síntese:
+(a) Negativa de prestação jurisdicional sobre os artigos mencionados, impedindo o conhecimento do recurso especial;
+(b) Cerceamento do direito de defesa do recorrente, pela inexistência de intimação sobre o cálculo juntado pela parte contrária, e pela ausência de correção de erro de cálculo; e
+(c) O descabimento da incidência de multa e de honorários sobre o valor integral depositado, sem diferenciar entre a parcela controversa e incontroversa, contrariando o disposto no § 2º do art. 523 do CPC.
+Foram apresentadas contrarrazões (e-STJ, fls. 321-337).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+De início, é indevido conjecturar acerca de deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+No caso dos autos, o Tribunal de origem concluiu pelo cabimento da multa e honorários previstos pelo art. 523, § 1º, do CPC/2015, por ter escoado o prazo para o pagamento voluntário no cumprimento de sentença, bem como afastou a tese de que a sua imposição tenha ocorrido sem prévia intimação ou desconsiderando parcial controvérsia, na medida em que a parte executada, ora recorrente, apenas garantiu o juízo para a oposição de impugnação. Além disso, foi afastada a tese de incorreção do cálculo apresentado pela parte exequente, sendo consideradas genéricas as alegações deduzidas pela parte executada, sem demonstração do desacerto (e-STJ, fls. 156-158):
+"Assim, em atenção aos princípios da celeridade e da economia processual, e, ainda, ratifico os termos da decisão monocrática, a qual transcrevo seus fundamentos como forma de decidir o mérito do presente recurso:
+(..)
+Registre-se que a parte agravante questiona o fato de o que foi determinada a penhora online sem que fosse intimada para pagamento voluntário, o que viola o contraditório, além de existir nos autos depósito para garantir o juízo. No caso dos autos, foi determinada a intimação do Executado, ora Agravante, fls. 1.896, para pagamento voluntário do débito, o que não ocorreu, apenas sendo apresentada impugnação ao cumprimento de sentença, fls. 1.899/1.903, e ofertada garantia, fls. 1.914.
+Sobre a garantia do juízo não se reveste de pagamento voluntário, conforme entendimento do Superior Tribunal de Justiça. Veja-se:
+(..)
+Assim, devida a incidência da multa de 10% e dos honorários sucumbenciais pela fase de cumprimento de sentença, também no percentual de 10%, podendo ser, de plano, expedido mandado de penhora e avaliação, conforme preceitua o artigo 523, § 1º do Código de Processo Civil. Observe-se:
+(..)
+Nessa senda, também não verifico ofensa ao contraditório ao ser determinada penhora, com fez o magistrado de origem, que encontra respaldo no § 3º do art. 523 do CPC, não sendo o caso de aplicação do caput deste artigo, como entende o Agravante. Sobre o excesso de execução alegado, não merece respaldo, visto que, ainda que seja matéria de ordem pública, o Agravante não consegue demonstrar sua ocorrência. Ademais, os parâmetro da execução estão bem definidos e o cumprimento de sentença deve seguir seus trâmites processuais.
+(..)
+Sobre a tese de falta de intimação para pagamento voluntário antes da determinação de penhora, não há que se falar em cerceamento de defesa e afronta ao contraditório e da ampla defesa, ante as disposições do § 3º, do art. 523 do CPC..
+Ademais, o Executado, ora Agravante, tem tomado ciência de todos os atos processuais com suas devidas publicações.
+Junto a isso, a tese de que os valores são expressivos não são suficientes para mudar o decidido, e o fato de que há excesso de execução por meio de alegações genéricas de erro de cálculo não são passíveis de acolhimento.
+Rememoro que o depósito como garantia do juízo não se reveste de pagamento voluntário, com isso, não tendo ocorrido o pagamento do valor devido, pode ser, de plano, expedido mandado de penhora e avaliação, conforme preceitua o artigo 523, § 1º do Código de Processo Civil.
+Isso posto, em razão da inexistência de qualquer fato ou argumento novo capaz de infirmar o raciocínio condutor da liminar anteriormente proferida, bem como por entender que os fundamentos transcritos são inteiramente suficientes e aplicáveis para a resolução do mérito recursal, mantenho as mesmas razões de convencimento daquela decisão como motivação para decidir o mérito do presente Agravo de Instrumento."
+Desse modo, é inviável conhecer do recurso especial, porque a revisão do acórdão recorrido, sobre o cabimento das penalidades pela ausência de pagamento voluntário e adequação do cálculo do crédito exequendo, não prescindiria do reexame fático-probatório, providência manifestamente proibida nesta instância, nos termos da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
