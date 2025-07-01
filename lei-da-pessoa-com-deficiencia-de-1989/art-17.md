@@ -1,2 +1,2 @@
-Art. 17. Serão incluídas no censo demográfico de 1990, e nos subseqüentes, questões concernentes à problemática da pessoa portadora de deficiência, objetivando o conhecimento atualizado do número de pessoas portadoras de deficiência no País.
+Art. 17. Serão incluídas no censo demográfico de 1990, e nos subsequentes, questões concernentes à problemática das pessoas com deficiência, objetivando o conhecimento atualizado do número de pessoas com deficiência no País.
 Parágrafo único. Os censos demográficos realizados a partir de 2019 incluirão as especificidades inerentes ao transtorno do espectro autista, em consonância com o § 2º do art. 1º da Lei nº 12.764, de 27 de dezembro de 2012.
