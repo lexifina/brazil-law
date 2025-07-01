@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, com pedido liminar, impetrado em benefício de PAULO DE BORBA - condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 583 dias-multa, por incursão no crime de tráfico de drogas -, em que se aponta como autoridade coator a o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 0000630-87.2008.8.24.0113), não comporta processamento.
+Busca-se, na presente impetração, inclusive em caráter liminar, a desclassificação do delito de tráfico de drogas para o delito de posse de droga para consumo pessoal, pois foi apreendida ínfima quantidade de substância entorpecente e pelo fato da condenação pelo delito de tráfico ter sido fundamentada em depoimentos policiais, sem corroboração externa.
+Subsidiariamente, pleiteia-se a concessão de prisão domiciliar humanitária, pois o paciente é portador de doenças graves, como o HIV, que demandam tratamento médico especializado não disponível no sistema prisional, e a transferência para a Penitenciária industrial de São Cristóvão do Sul/SC, por ser mais próxima de sua família.
+É o relatório.
+Com efeito, da atenta análise dos autos, verifico que a condenação transitou em julgado em 14/4/2016, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Registre-se, ainda, que a presente via não se mostra adequada para o amplo reexame de fatos e provas, notadamente no que se refere à análise do pedido de desclassificação do delito. Ademais, não se constata qualquer ilegalidade manifesta que justifique a concessão de habeas corpus de ofício.
+Noutro ponto, quanto aos pedidos de prisão domiciliar e transferência de penitenciária, observo que os pedidos sequer foram deduzidos perante as instâncias ordinárias, o que obsta a análise por esta Corte Superior, pois é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023). Mister destacar que a competência para apreciar tais pedidos é do Juízo da execução.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO DO DELITO PARA POSSE DE DROGAS PARA CONSUMO PESSOAL. PEDIDOS SUBSIDIÁRIOS: CONCESSÃO DE PRISÃO DOMICILIAR HUMANITÁRIA E TRANSFERÊNCIA PARA PENITENCIÁRIA PRÓXIMA DA FAMÍLIA DO PACIENTE. WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. PEDIDOS SUBSIDIÁRIOS NÃO DEDUZIDOS PERANTE AS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
