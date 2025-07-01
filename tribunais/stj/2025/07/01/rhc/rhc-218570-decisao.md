@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso interposto por Emidio Antonio Ferrao contra o acórdão do Tribunal Regional Federal da 5ª Região no HC n. 0804737-60.2025.4.05.0000 (fls. 137/142).
+Consta que o recorrente foi denunciado pela prática dos crimes dos arts. 171 e 299 do Código Penal (Processo n. 0804242-88.2024.4.05.8103).
+Busca-se, em liminar, a suspensão do trâmite da ação penal, e, no mérito, o desentranhamento das provas digitais inadmissíveis por violação ao cumprimento da cadeia de custódia  .. , e, por conseguinte, o trancamento do feito na origem (fl. 181).
+Sustenta-se que o artigo 158-A do Código de Processo Penal, incluído pelo Pacote Anticrime (Lei 13.964/2019), determina que a cadeia de custódia das provas deve ser respeitada desde a coleta até sua utilização em juízo, seguramente aqui integralmente violada, tendo em vista que os fatos narrados ocorreram no ano de 2019 e a perícia instaurada pela Policial Judiciária Federal foi realizada no ano de 2021, conforme se comprova dos documentos acostados (fl. 162).
+Argumenta-se que a manutenção dessas provas nos autos, sem a devida comprovação e observância de sua preservação, que garanta a sua autenticidade, integridade e origem, implica nulidade absoluta, uma vez que a violação da cadeia de custódia contamina não apenas o elemento em si, mas também todos os atos processuais que dele derivam, nos termos do artigo 157, § 1º, do Código de Processo Penal (fl. 168).
+Aduz-se, ademais, que o próprio laudo pericial acostado no inquérito policial, afirma que não há a identificação de autoria, o que revela que sequer exista indícios de participação que sopese sobre o Recorrente,  ..  por clara inexistência (fl. 170). Argui-se que não é admissível que a persecução penal prossiga em evidente dissociação entre a narrativa acusatória e o acervo probatório, sobretudo diante da constatação inequívoca de que não há nos autos qualquer indício concreto de que o Recorrente seja o autor e de ter praticado os atos que lhe são imputados (fl. 175).
+Contrarrazões às fls. 197/203.
+É o relatório.
+No caso, inexiste manifesta ilegalidade a ser reparada por meio da via eleita.
+Com efeito, correta a conclusão da Corte local de que não está configurada a excepcional hipótese de trancamento da ação penal, já que fundada a pretensão na alegação genérica de quebra da cadeia de custódia das provas digitais e na discutível tese de ausência de indícios suficientes de autoria.
+Com relação à tese de nulidade das provas digitais, o recorrente nem sequer especifica de que maneira teria ocorrido a quebra da cadeia de custódia, limitando-se à afirmação de que entre os fatos e a perícia decorreu um prazo de dois anos, o que não basta para demonstrar a violação aos dispositivos legais que regem a matéria.
+E, no que se refere à alegada ausência de indícios suficientes de autoria, a pretensão esbarra na necessidade de ampla incursão no conjunto fático-probatório, o que não tem cabimento. Não há como desconstituir, aqui, a conclusão do magistrado de piso de que os documentos acusatórios possuem a mínima indicação de autoria e materialidade capazes de justificar uma dilação probatória mais específica (fl. 24).
+As teses defensivas poderão ser mais bem debatidas e embasadas quando da instrução, momento sim apropriado ao discurso de mérito perante o juízo natural da causa (AgRg no HC n. 749.142/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023).
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ARTS. 171 E 299 DO CP. NULIDADE DE PROVAS DIGITAIS. QUEBRA DA CADEIA DE CUSTÓDIA. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA NÃO EVIDENCIADA DE PLANO. INVIABILIDADE DE APROFUNDADA INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. JURISPRUDÊNCIA DO STJ.
+Recurso improvido.
