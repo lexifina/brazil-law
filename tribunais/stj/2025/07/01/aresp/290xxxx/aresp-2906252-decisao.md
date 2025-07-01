@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por JOAO DE PAULA da decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação n. 5016790-29.2022.4.04.9999, assim ementado (fl. 534):
+PREVIDENCIÁRIO. CONCESSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. COISA JULGADA. ATIVIDADE RURAL. INÍCIO DE PROVA MATERIAL. ATIVIDADE ESPECIAL. CERCEAMENTO DE DEFESA. TRABALHADOR RURAL. ENQUADRAMENTO PROFISSIONAL. CALOR. FONTES ARTIFICIAIS.
+1. Incabível a rediscussão de questão já dirimida em agravo de instrumento interposto pela parte autora, ao qual foi negado seguimento e cuja decisão já transitou em julgado.
+2. Para o reconhecimento do labor rural permite-se o reconhecimento do tempo de serviço rural anterior ao documento mais antigo apresentado, desde que corroborado por prova testemunhal idônea e robusta (AgInt no REsp 1570030/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/05/2017, DJe 29/05/2017), bem como que documentos tais como certificado de alistamento militar, certidões de casamento/nascimento, em que consta a qualificação como agricultor, valham como início de prova material.
+3. A jurisprudência não exige "a comprovação da atividade rural ano a ano, de forma contínua" pois início de prova material não significa prova cabal, mas algum "registro por escrito que possa estabelecer liame entre o universo fático e aquilo que expresso pela testemunhal." (TRF 4ª Região - AC nº 2000.04.01.128896-6/RS, Relator Juiz João Surreaux Chagas, DJU de 25-7-2001, p. 215).
+4. Com relação ao reconhecimento das atividades exercidas como especiais, cumpre ressaltar que o tempo de serviço é disciplinado pela lei em vigor à época em que efetivamente exercido, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador. Desse modo, uma vez prestado o serviço sob a égide de legislação que o ampara, o segurado adquire o direito à contagem como tal, bem como à comprovação das condições de trabalho na forma então exigida, não se aplicando retroativamente uma lei nova que venha a estabelecer restrições à admissão do tempo de serviço especial.
+5. O Superior Tribunal de Justiça firmou o entendimento, em pedido de uniformização de jurisprudência, no sentido de que a atividade exercida exclusivamente na lavoura não deve ser equiparada à do trabalhador da agropecuária, para fins previdenciários.
+6. Eventual alegação de exposição ao calor decorrente do desempenho de labor ao ar livre não merece prosperar, pois de acordo com a farta jurisprudência o calor passível de caracterizar o labor como especial é aquele proveniente de fontes artificiais.
+7. A exposição ao calor do sol, ou ambiental, bem como a outras intempéries de origem natural (sol, chuva, frio, poeira, etc.) não permitem enquadrar o trabalho como insalubre ou perigoso.
+É o relatório. Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, "incontestável que o LAUDO PERICIAL JUDICIAL NÃO PODE SER DESCONSIDERADO, pois constata a NOCIVIDADE do trabalho do recorrido, prejudicial a saúde do trabalhador, expondo sua saúde e integridade física, legitimando-se assim a aplicabilidade ao teor da súmula 198 do TRF" (sic - fl. 581), de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt -Desembargador Convocado do TRF-5ª Região -, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO (SÚMULA N. 7 DO STJ). AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
