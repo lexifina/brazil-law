@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por VITOR VINICIUS ANASTÁCIO, contra decisão da 6ª Câmara Criminal do Tribunal de Justiça de Minas Gerais que denegou a ordem de habeas corpus (n. 1.0000.25.124487-7/000).
+Segundo consta dos autos, o recorrente foi preso em flagrante, tendo a prisão sido convertida em preventiva, e denunciado por suposta prática do crime de tráfico de drogas e posse ilegal de arma de fogo, previstos no art. 33, caput, da Lei n. 11.343/2006, e art. 16, §1ª, IV, da Lei n. 10.826/2006.
+No writ originário, a defesa alegou "trancamento da ação penal em decorrência da ilicitude das provas obtidas mediante violação de domicílio" e, consequentemente, a "expedição de alvará de soltura em favor do paciente, cessando o constrangimento ilegal" (e-STJ fl. 28). O Tribunal, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 27):
+EMENTA: < HABEAS CORPUS - TRÁFICO DE DROGAS E ART. 16, DA LEI 10826/03 - PEDIDO DE TRANCAMENTO DA AÇÃO PENAL - IMPOSSIBILIDADE - ALEGAÇÃO DE VIOLAÇÃO DE DOMICÍLIO - INOCORRÊNCIA - PLEITO DE RELAXAMENTO DA PRISÃO PREVENTIVA - INVIABILIDADE O trancamento da ação penal por meio de habeas corpus somente é possível em casos excepcionalíssimos, quando latente atipicidade da conduta, inépcia da denúncia ou ausência de justa causa para ação penal. Afasta-se alegação de prova ilícita por violação de domicílio quando há indícios de justa causa para atuação policial, considerando a existência do estado de flagrância do paciente.>
+Nas razões do presente recurso, a defesa alega que a prisão ocorreu após violação da inviolabilidade domiciliar, sem os requisitos do artigo 302 do CPP. Sustenta que a prisão foi realizada sem mandado judicial e sem consentimento válido, violando o artigo 5º, XI, da Constituição Federal.
+Afirma, também, que as provas obtidas na residência do paciente são consideradas ilícitas devido à violação de domicílio, devendo ser aplicadas a teoria dos frutos da árvore envenenada.
+Argumenta que a quantidade de drogas apreendida é pequena e não caracteriza tráfico, podendo ser para uso pessoal, conforme precedentes do STJ.
+Diante disso, pede, em liminar e no mérito, a concessão de liberdade provisória ao paciente, mediante medidas cautelares diversas da prisão, devido ao fumus boni iuris e periculum in mora.
+É o relatório. Decido.
+Não há como conhecer do recurso.
+Isso porque apresenta as mesmas partes, causa de pedir, pedido e foi interposto contra o mesmo acórdão impugnado no RHC 217990 / MG, ao qual, em 17/06/2025, teve a liminar indeferida e, no presente momento, aguarda pelo parecer do Ministério Público Federal.
+Com efeito, " a  mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Relator Ministro Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+Assim, "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi" . (AgRg no HC n. 773.624/PI, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do recurso em habeas corpus.
+Intimem-se.
+EMENTA
