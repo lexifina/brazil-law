@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo de NEWE SEGUROS S.A . contra decisão que inadmitiu recurso especial fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Mato Grosso do Sul (TJ-MS), assim ementado (fl. 365):
+RECURSO DE APELAÇÃO - COBRANÇA DE SEGURO AGRÍCOLA - COBERTURA CONTRATUAL - INDENIZAÇÃO SECURITÁRIA DEVIDA - PRODUTIVIDADE BAIXA - PERDA PARCIAL DO PLANTIO - JUROS DE MORA PREVISTOS NO CONTRATO - APLICABILIDADE - ÍNDICE DE CORREÇÃO MONETÁRIA - AUSÊNCIA DE INTERESSE RECURSAL.
+1. É devida a indenização de seguro agrícola quando há cobertura contratual para o sinistro ocorrido (seca).
+2. Quando convencionado o percentual de juros de mora no contrato firmado entre as partes, impositiva sua aplicabilidade.
+3. Não há interesse recursal quanto ao índice da correção monetária, quando a sentença está de acordo com a pretensão do recorrente. Recurso parcialmente conhecido e, nesta, parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 497-499).
+Nas razões do recurso especial, a parte recorrente alega ofensa aos artigos 489 e 1.022 do Código de Processo Civil, bem como aos artigos 757 e 884 do Código Civil. Além disso, aponta dissídio jurisprudencial.
+Em suma, sustenta que "o valor da indenização securitária indicado pelo v. acórdão foi calculado de forma desproporcional ao custo de produção efetivamente investido pelo segurado na lavoura e, considerando que a estrutura econômico-financeira da apólice era baseada no custo de produção, a indenização deveria ser proporcional ao valor efetivamente investido, sob pena de caracterizar enriquecimento ilícito, o que é vedado pela lei e jurisprudência pátria" (fl. 375).
+Contrarrazões apresentadas às fls. 429-441.
+Em juízo prévio de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre (decisão às fls. 443-449), dando ensejo ao manejo do presente agravo (fls. 451-465).
+Contraminuta oferecida às fls. 469-473.
+É o relatório. Decido.
+A irresignação não prospera.
+No tocante à alegada violação dos artigos 489 e 1.022 do CPC/2015, os argumentos do recorrente não merecem acolhimento. Isso porque a Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Com efeito, esta Corte é pacífica no sentido de não haver omissão, contradição ou obscuridade no julgado quando a controvérsia é resolvida de maneira sólida e fundamentada, de modo que apenas se deixa de adotar a tese do embargante. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1022, I, II, DO CPC. NÃO OCORRÊNCIA. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. FORMA CONTINUADA. PRAZO PRESCRICIONAL. TERMO A QUO. DATA DA RENÚNCIA DO MANDATO. AGRAVO INTERNO DESPROVIDO.
+1. Não ocorre violação dos arts. 489, § 1º, IV, e 1022, I, II, do CPC quando o tribunal de origem aprecia, com clareza, objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O termo a quo do prazo prescricional de ação de cobrança de prestação de serviços advocatícios, que se deu de forma continuada, será a data da renúncia do mandato. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.055.320/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024, g.n.)
+Quanto ao cerne do recurso especial, trata-se de ação de cobrança de seguro agrícola, na qual o Tribunal a quo manteve o valor indenizatório estabelecido em primeira instância, com suporte nas seguintes premissas: a) a ausência de cláusula contratual cujo teor permita a redução do Limite Máximo de Garantia (LMG) com base no custo de produção; e b) a correção da indenização delineada na sentença, porquanto o montante em questão foi definido a partir de cálculo previsto no contrato firmado entre as partes.
+Por oportuno, confira-se excerto do acórdão recorrido (fls. 369-370):
+"O apelante também discorre que houve uma redução arbitrária do custo de produção pelo autor, motivo pelo qual o cálculo indenizatório deverá readequar o valor da saca/quilo de soja indenizável para ficar proporcional ao custo efetivamente investido pelo apelado e evitar o enriquecimento ilícito.
+No entanto, o prêmio pago pelo autor no valor de R$ 37.488,00 (trinta e sete mil e quatrocentos e oitenta e oito reais) foi estipulado tendo como base o importe de valor de R$ 150,00 (cento e cinquenta reais) por saca de 60 kg de soja. Ao contrário do sustentado pelo réu, inexiste previsão contratual autorizando a redução do LMG (limite máximo de garantia) com base no custo de produção.
+Aliás, com base na cláusula 22 do contrato firmado entre as partes:
+"II - Para o cálculo da Perda Econômica (PEC): PES = PE - PO onde:
+PES é Perda Econômica do Segurado, expressa em quilograma por hectare;
+PE é Produtividade Esperada, expressa em quilogramas por hectare;
+PO é Produtividade Obtida, expressa em quilogramas por hectare;"
+Portanto, correto o valor indenizatório fixado na sentença, que considerou o valor total da apólice, (produtividade esperada) - (R$528.000,00) deduzido do valor auferido pelo autor (produtividade obtida) - (R$131.697,99), totalizando R$ 396.302,01 (trezentos e noventa e seis mil e trezentos e dois reais e um centavo)." (g.n.)
+Dessa forma, a desconstituição dos pressupostos lançados no v. acórdão estadual - quais sejam, a inexistência de previsão contratual que autorize a pretensão da recorrente, assim como a adequação do valor indenizatório fixado judicialmente ao método de cálculo pactuado - demandaria a interpretação das cláusulas contratuais e o revolvimento do suporte fático-probatório, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7, ambas do STJ.
+Também não prospera o recurso especial pela apontada divergência jurisprudencial. Com efeito, a remansosa jurisprudência desta eg. Corte é no sentido de que a incidência das Súmulas 5 e 7 do STJ também é óbice para a análise do dissídio jurisprudencial. A propósito:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE FORNECIMENTO DE COMBUSTÍVEIS E USO DE MARCA. PREQUESTIONAMENTO FICTO. NÃO ATENDIMENTO. AUSÊNCIA DE INDICAÇÃO DE OFENSA AO ARTIGO 1.022 DO CPC/2015. CLÁUSULA PENAL. ART. 413 DO CC. EXCESSO. REDUÇÃO. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça e dos arts. 412 e 413 do Código Civil/2002, é possível a redução da cláusula penal se a obrigação principal tiver sido cumprida em parte ou se o montante da penalidade for manifestamente excessivo.
+3. Na espécie, o Tribunal de Justiça considerou a multa contratual excessiva, levando em conta a ocorrência da rescisão contratual em seus estágios iniciais e a condição econômica dos contratantes. A reforma desse entendimento demandaria nova interpretação das cláusulas do contrato e o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+4. A incidência das Súmulas 5 e 7 do STJ também é óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.547.310/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024, g.n.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VEÍCULO. APELO NOBRE NÃO ADMITIDO NA ORIGEM PORQUE A MATÉRIA FOI JULGADA SEGUNDO O RITO DO DO ART 1.030, I, B, DO CPC (ART. 543-C DO CPC/73). AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. ALEGAÇÃO DE ILEGITIMIDADE ATIVA E NECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO ATIVO AFASTADAS. DIREITO A INDENIZAÇÃO. INADIMPLÊNCIA DAS MENSALIDADES DE RATEIO. EFEITOS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7, AMBAS DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DE ÓBICE SUMULAR. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Descabimento do agravo previsto no art. 1.042, caput, do CPC quando a Corte estadual inadmite o recurso especial com base em recurso repetitivo, nos termos do art. 1.030, I, b, do CPC.
+2. Tendo o TJMG concluído que a agravada é parte legítima para promover, de forma solitária, a demanda indenizatória, reformar tal entendimento demandaria o revolvimento do conjunto fático- probatório e cláusulas contratuais, o que é inviável, na via eleita, ante o óbice das Súmulas nºs 5 e 7, ambas do STJ.
+3. O simples atraso no pagamento de parcela do prêmio pelo segurado, sem que tenha sido formalmente constituída em mora, não basta para impedir o exercício de seu direito à indenização prevista no contrato de seguro.
+4. Qualquer outra análise acerca da inadimplência das mensalidades de rateio e seus efeitos, da forma como trazida no apelo nobre, seria aqui inviável por força das Súmulas nºs 5 e 7, ambas do STJ.
+5. Esta Corte firmou o entendimento de não ser possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+6. Agravo conhecido. Recurso especial não conhecido.
+(AREsp n. 2.380.390/MG, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Por fim, com fundamento no art. 85, § 11, do Código de Processo Civil, majoro de 10% (dez por cento) para 11% (onze por cento) os honorários sucumbenciais fixados na origem.
+Publique-se.
+EMENTA
