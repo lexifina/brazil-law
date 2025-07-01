@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TRIBBU LICENCIAMENTO E FRANQUIA LTDA. contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, III, alíneas "a" e "c" da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE ABSTENÇÃO DE USO DE MARCA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. RECURSO DESPROVIDO. - A jurisprudência do Superior Tribunal de Justiça é pacifica no sentido de que é da Justiça Estadual, a competência de demanda que verse sobre direito marcário, quando a controvérsia é relativa apenas a interesses particulares, visto a desnecessidade de participação do INPI na lide." (fls. 326).
+Os embargos de declaração foram rejeitados (fls. 354/358).
+Nas razões do recurso especial, a parte alega violação aos arts. 489, incisos IV e VI, 537, caput e §1º, do Código de Processo Civil, artigo 175 da Lei de Propriedade Industrial e Tema 950 do STJ, sustentando em síntese, que:
+(a) o acórdão recorrido não enfrentou todos os argumentos deduzidos no processo, especialmente aqueles relacionados à competência da Justiça Federal e à violação de precedentes jurisprudenciais;
+(b) deve ser reconhecida a competência da Justiça Federal para julgar a demanda, uma vez que envolve registro de marca concedido pelo INPI, o que exigiria a participação da autarquia federal;
+(c) a multa diária foi arbitrada em exorbitância, extrapolando até mesmo o próprio valor da causa de origem, razão pela qual deve ser suspensa ou reduzida, sob pena de enriquecimento ilícito e sem causa de uma das partes.
+Não houve contrarrazões (fls. 388/389).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 489 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Sobre a tese de que deve ser reconhecida a competência da Justiça Federal para julgar a demanda, uma vez que envolve registro de marca concedido pelo INPI, o que exigiria a participação da autarquia federal, a Corte de origem consignou:
+"Cinge-se a controvérsia recursal, tão somente, em verificar a competência da Justiça Estadual para processar e julgar a presente ação.
+Como se sabe, nas ações em que haja repercussão direta no registro marcário, e onde há discussão sobre nulidade do registro, é absoluta a competência do julgamento pela Justiça Federal, nos termos do art. 109, I, da Constituição da República.
+Entretanto, quando a controvérsia é relativa apenas a interesses particulares e não há debate quanto à nulidade do registro, a competência para julgamento da demanda é da Justiça Estadual.
+Tal questão restou pacificada pelo c. Superior Tribunal de Justiça ao julgar o recurso especial nº 1.527.232/SP, representativo de controvérsia (Tema nº 950):
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. CONCORRÊNCIA DESLEAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. TRADE DRESS. CONJUNTO-IMAGEM. ELEMENTOS DISTINTIVOS. PROTEÇÃO LEGAL CONFERIDA PELA TEORIA DA CONCORRÊNCIA DESLEAL. REGISTRO DE MARCA. TEMA DE PROPRIEDADE INDUSTRIAL, DE ATRIBUIÇÃO ADMINISTRATIVA DE AUTARQUIA FEDERAL. DETERMINAÇÃO DE ABSTENÇÃO, POR PARTE DO PRÓPRIO TITULAR, DO USO DE SUA MARCA REGISTRADA. CONSECTÁRIO LÓGICO DA INFIRMAÇÃO DA HIGIDEZ DO ATO ADMINISTRATIVO. COMPETÊNCIA PRIVATIVA DA JUSTIÇA FEDERAL.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015 (art. 543-C do CPC/1973), é a seguinte: As questões acerca do trade dress (conjunto-imagem) dos produtos, concorrência desleal e outras demandas afins, por não envolver registro no INPI e cuidando de ação judicial entre particulares, é inequivocamente de competência da justiça estadual, já que não afeta interesse institucional da autarquia federal. No entanto, compete à Justiça Federal, em ação de nulidade de registro de marca, com a participação do INPI, impor ao titular a abstenção do uso, inclusive no tocante à tutela provisória.
+2. No caso concreto, dá-se parcial provimento ao recurso interposto por SS Industrial S.A. e SS Comércio de Cosméticos e Produtos de Higiene Pessoal Ltda., remetendo à Quarta Turma do STJ, para prosseguir-se no julgamento do recurso manejado por Indústria e Comércio de Cosméticos Natura Ltda. e Natura Cosméticos S.A." (REsp n.
+1.527.232/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 13/12/2017, DJe de 5/2/2018).
+Na espécie, percebe-se que o pleito se resume justamente em uma demanda entre particulares, não havendo qualquer pedido de nulidade do registro junto ao INPI, sendo patente a competência da Justiça Estadual para processar e julgar a presente ação.
+Vale destacar que o Juízo "a quo", ao prestar suas informações, juntou aos autos ofício enviado pela Procuradoria-Geral Federal por meio do qual esclarece que o INPI não possui interesse na presente demanda (doc. de ordem nº 40)." (e-STJ fls. 327/329)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE OBRIGAÇÃO DE NÃO UTILIZAR EXPRESSÃO EM NOME COMERCIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE CONFUSÃO DE MARCA. REEXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ABSTENÇÃO DE USO DE MARCA. COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL. TEMA N. 950 STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+6. A ação cominatória para impedir o uso da marca é da competência da justiça estadual, sendo que a competência da Justiça Federal será reservada às ações que buscam a anulação do registro da marca movidas também em face do Instituto Nacional de Propriedade Industrial, conforme fixado sob o rito dos recursos repetitivos (Tema n. 950).
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 1.367.288/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. CONCORRÊNCIA DESLEAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. NÃO VERIFICADA. OMISSÃO. INEXISTÊNCIA. ELEMENTOS COMUNS DA MARCA. UTILIZAÇÃO POR OUTRAS PESSOAS JURÍDICAS. FLEXIBILIZAÇÃO DA GARANTIA DE EXCLUSIVIDADE. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Compete à Justiça Estadual processar e julgar a ação de abstenção de uso de marca por particular contra particular, fundada na prática de concorrência desleal, se não houver debate acerca da nulidade do registro no INPI.
+2. Não há que se falar em ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+3. Marcas com signos comuns, de uso corriqueiro na exploração de determinado objeto negocial, sem suficiente forma distintiva, podem conviver com outras semelhantes, em razão da flexibilização da exclusividade do registro.
+4. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.561.678/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/8/2024, DJe de 2/9/2024.)
+Por fim, quanto à alegação de que a multa diária foi arbitrada em valor exorbitante razão pela qual deve ser suspensa ou reduzida, sob pena de enriquecimento ilícito e sem causa de uma das partes, a Corte de origem consignou:
+" De se destacar, ainda, que não houve no agravo de instrumento insurgência contra a multa fixada em primeira instância." (e-STJ fls. 356)
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, relator Ministro Raul Araújo, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Frise-se que o caso dos autos não diz respeito à possibilidade ou não de discussão da decisão que arbitra multa por descumprimento, mas sim, à ausência de devolução do tema relativo à multa especificamente no agravo de instrumento apreciado pela Corte de origem, de modo que a referida insurgência deverá ser levantada em novo recurso.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
