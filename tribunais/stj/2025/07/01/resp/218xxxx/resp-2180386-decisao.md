@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região nos autos do Agravo de Instrumento n. 5004660-60.2024.4.04.0000/SC.
+Na origem, em sede de execução fiscal, foi indeferido o pedido da ANTT de utilização da ferramenta "teimosinha", nova funcionalidade do SISBAJUD, para reiteração automática de ordens de bloqueio de valores em execução fiscal.
+O Tribunal Regional negou provimento ao agravo de instrumento, em acórdão assim ementado (fl. 36):
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL. PENHORA ONLINE. SISBAJUD. TEIMOSINHA.
+1. Em que pese haja ferramenta que torne possível a utilização do SISBAJUD de forma reiterada e automática, tal deve ser utilizada com parcimônia, de maneira a não prejudicar garantias processuais previstas nas normas que regem o processo civil.
+2. A utilização ou não da ferramenta do SISBAJUD conhecida como "teimosinha" deve depender de análise do caso concreto, considerando-se principalmente o princípio da proporcionalidade, a fim de verificar se a medida é adequada, necessária e proporcional.
+Os embargos de declaração opostos ao julgado foram rejeitados (fl. 50-52).
+Nas razões do recurso especial, a ANTT aduziu violação dos arts. 1022, inciso II, do CPC, pela negativa da devida prestação jurisdicional a respeito dos arts. 3º, 4º, 6º, 789, 797, 835 e 854 do CPC e art. 7º, inciso II, e 11 da LEF, que prevê ferramentas para satisfação do crédito, por meio da "novel ferramenta  que  possibilita justamente a reiteração automática e programada da medida, facilitando a efetividade da persecução não apenas ao exequente, mas também ao juízo" (fl. 58).
+Pretendeu a reforma do julgado para que seja anulada ou reformada a decisão, permitindo a utilização da ferramenta "teimosinha" na execução fiscal (fls. 60).
+Admitido o recurso especial (fl. 64).
+É o relatório. Decido.
+Sobre a pretensão recursal, a Primeira Seção deste Tribunal Superior decidiu afetar os REsps n. 2.147.428/RS, 2.147.843/SC, 2.193.695/RS, relator Ministro SÉRGIO KUKINA, Primeira Seção, julgado em 1/4/2025, DJEN 7/4/2025 à sistemática dos recursos repetitivos (Tema n. 1.325), com o fim de:
+Decidir sobre a viabilidade da utilização, em execução fiscal, da ferramenta do SISBAJUD que permite a reiteração automática de ordens de bloqueio de valores em contas bancárias do devedor - procedimento conhecido como "teimosinha".
+Outrossim, há determinação de "suspender a tramitação dos recursos especiais e agravos em recursos especiais interpostos nos Tribunais de segunda instância ou em tramitação no STJ que versem sobre a questão delimitada".
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução do s autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1.325 do STJ), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ONLINE. SISBAJUD. TEIMOSINHA. AFETAÇÃO DA CONTROVÉRSIA AO REGIME DOS RECURSOS REPETITIVOS (TEMA N. 1.325 DO STJ). DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS. PREJUDICADA A ANÁLISE DO RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
