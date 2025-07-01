@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de recurso no qual se discute o prazo prescricional aplicável à pretensão de restituição da comissão de corretagem na hipótese de resolução do contrato por culpa da construtora/incorporadora, em virtude de atraso na entrega do imóvel.
+A questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema 1.099/STJ), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+A propósito, cito a ementa da proposta de afetação do Recurso Especial n. 1.897.867/CE:
+PROPOSTA DE AFETAÇÃO. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO CIVIL. INCORPORAÇÃO IMOBILIÁRIA. PROMESSA DE COMPRA E VENDA DE UNIDADE AUTÔNOMA. ATRASO NA ENTREGA DO IMÓVEL. PRETENSÃO DE RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. PRAZO DE PRESCRIÇÃO. DISTINÇÃO COM O TEMA 938/STJ
+1. Caso concreto em que, decretada a resolução do contrato por atraso da incorporadora na entrega do imóvel, surgiu controvérsia acerca da aplicabilidade da prescrição trienal prevista no Tema 938/STJ para a pretensão de restituição da comissão de corretagem, tendo o Tribunal de origem aplicado a prescrição decenal.
+2. Nos termos do Tema 938/STJ, incide "prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem  ..  (artigo 206, § 3º, IV, CC)" (tese sob revisão cf. QO no REsp 1.918.648/DF).
+3. Necessidade de distinção para o caso dos autos, em relação ao Tema 938/STJ, pois a causa de pedir deduzida nos paradigmas do referido Tema dizia respeito à abusividade da cláusula de transferência da obrigação de pagar a comissão de corretagem, ao passo que o caso dos autos diz com a pretensão restituitória decorrente da resolução do contrato por inadimplemento da incorporadora.
+4. Delimitação da controvérsia afetada: Prazo prescricional aplicável à pretensão de restituição da comissão de corretagem na hipótese de resolução do contrato por culpa da construtora/incorporadora, em virtude de atraso na entrega do imóvel.
+5. RECURSO ESPECIAL AFETADO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.099/STJ, sejam tomadas as providências previstas nos a rts. 1.039, caput, e 1.040 do CPC.
+Advirto às partes que, na esteira da jurisprudência desta Corte, a presente decisão possui recorribilidade limitada à demonstração da distinção, na forma do art. 1.037, §§ 9º e 10, inciso IV, do CPC, uma vez que não se conhecerá do agravo interno ou do pedido de reconsideração que pretender o julgamento deste recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. CULPA DA CONSTRUTORA. RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. CONTROVÉRSIA AFETADA AO TEMA REPETITIVO 1.099/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA SOBRESTAMENTO.
