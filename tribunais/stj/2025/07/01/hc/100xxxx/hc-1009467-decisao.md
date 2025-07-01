@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CELSO MARTINS DOS SANTOS NETO, no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação n. 1500447-57.2022.8.26.0578).
+Colhe-se dos autos que o Juízo de Direito da 1ª Vara Criminal da comarca de Ourinhos/SP condenou o ora paciente como incurso no crime de tráfico de drogas à pena de 2 anos e 11 meses de reclusão, a ser inicialmente cumprida em regime aberto, além do pagamento de 291 dias-multa (fls. 23/26).
+O Tribunal de origem, por sua vez, negou provimento ao recurso da defesa e deu parcial provimento à apelação interposta pela acusação, a fim de afastar a causa de diminuição da pena do tráfico privilegiado, majorando as reprimendas para 6 anos e 27 dias de reclusão, iniciando em regime fechado, além do pagamento de 606 dias-multa.
+Nesta Casa, a defesa aduz que foi indevido o afastamento da causa de diminuição da pena, assim como a fixação do regime inicial fechado.
+Defende que o TJ/SP estabeleceu verdadeiro direito penal do inimigo, o que se mostra um retrocesso inegável, caso o paciente seja preso para cumprir sua pena (fl. 4) e que ignorou por completo a lei 11.343/2006, especificamente em seu art. 33, § 4º, bem como ao artigo 33, § 2º, "C", § 3º, e artigo 59 e 66 do Código Penal Brasileiro (fl. 4).
+Liminar indeferida (fl. 61), informações prestadas (fls. 66/69), o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 74/77).
+É o relatório.
+Inicialmente, observo que o presente habeas corpus é substitutivo de revisão criminal, porquanto impetrado contra acórdão proferido no âmbito de apelação, já transitado em julgado, de acordo com as informações prestadas pelas instâncias ordinárias (fl. 67).
+Nos termos da jurisprudência desta Corte, se o habeas corpus foi impetrado contra acórdão do Tribunal de Justiça  ..  transitado em julgado, é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido (HC n. 288.978/SP, da minha relatoria, rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Depois, constato a inexistência de constrangimento ilegal passível de ser sanado de ofício. Ora, o remédio heroico somente é expedido em razão de flagrante ilegalidade, atual ou iminente, constatada pelo próprio julgador no curso do processo, o que não se verifica no caso dos autos.
+Com efeito, observo que o Tribunal de origem afastou a causa de diminuição do tráfico privilegiado sob o fundamento de que a dinâmica descrita indica que o acusado faz do tráfico o seu modo de vida, como se depreende das circunstâncias que cercaram a sua prisão e a apreensão de mais de 2 kg de "skunk" (fl. 16).
+Não obstante isso, as razões da impetração estão dissociadas do referido fundamento, uma vez que se limitam a alegar que o Tribunal aplicou o direito penal do inimigo e que ignorou a Lei n. 11.343/2006 e o Código Penal, passando ao largo da conclusão do acórdão impugnado, o qual se mantém hígido.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DO TRÁFICO PRIVILEGIADO. ACÓRDÃO DA APELAÇÃO JÁ TRANSITADO EM JULGADO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL VERIFICADO DE OFÍCIO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO.
+Writ não conhecido.
