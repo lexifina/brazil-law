@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por HELY GERALDO PINTO, contra decisão que não admitiu o recurso especial fundamentado na alínea "a" do permissivo constitucional, o qual foi apresentado em face de acórdão proferido pelo Tribunal do Estado de Minas Gerais, assim ementado (e-STJ, fl. 363):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - ASSOCIAÇÃO DE MORADORES - TAXA DE MANUTENÇÃO - CONDOMÍNIO DE FATO - CIÊNCIA PRÉVIA DA OBRIGAÇÃO DE RATEIO DAS DESPESAS - ACEITAÇÃO/ANUÊNCIA - DEMONSTRADA - JUROS - COBRANÇA ABUSIVA - AUSÊNCIA DE PROVA - RECURSO DESPROVIDO.
+- Os proprietários de lotes em um "loteamento fechado", também conhecido como "condomínio de fato", somente poderão ser cobrados por taxas destinadas à sua manutenção se forem associados à associação que administra o local, ou se tiver concordado expressamente com essa cobrança.
+- Comprovada a qualidade de associado do Réu, é de sua responsabilidade o pagamento das taxas condominiais devidas.
+- É legítima a cobrança de taxas de manutenção quando o proprietário adquire o imóvel ciente da existência da associação de moradores e, efetua o pagamento da referida contribuição de forma voluntária e espontânea, além de utilizar dos serviços por ela disponibilizados.
+- Não tendo o autor comprovado sua alegação de abusividade na cobrança de juros, não há que se falar em adequação dos valores cobrados.
+Em suas razões recursais (e-STJ, fls. 375-382), a parte recorrente apontou violação dos arts. 543-C do Código de Processo Civil de 2015; artigos da Lei 4.591/34 e a Lei 6.766/79.
+Sustentou, em síntese, que "o Tribunal de Justiça do Estado d Minas Gerais entendeu por condenar ao requerido o pagamento de R$12.844,82; em total inobservância à Legislação Federal, em especial os artigos 543-C do CPC e artigos da lei 4.591/34 e a lei 6.766/79, ora analisados.".
+Devidamente intimada, a parte agravada não apresentou contrarrazões, conforme certidão de fl. 385.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório.
+Decido.
+Nas razões do especial (e-STJ, fls. 375-382), a parte recorrente apontou como violado o art. 543-C do CPC/15, ocorre que não existe esse dispositivo, ademais, não indicou quais teriam sido os artigos da Lei 4.591/34 e da Lei 6.766/79 porventura violados pelo Tribunal a quo.
+O apelo nobre, fundado na alínea "a" do art. 105, III, da Constituição Federal de 1988, requer, obrigatoriamente, que o recorrente particularize, de forma inequívoca, os artigos de lei que entenda tenham sido contrariados pelo Tribunal de origem, sob pena de se configurar fundamentação deficiente, inviabilizando a abertura da via especial.
+O mero inconformismo, caso dos autos, sem a demonstração do dispositivo legal supostamente violado, e a impossibilidade de compreensão da controvérsia constituem argumentação deficiente, impedindo, por conseguinte, a exata compreensão da lide a ser dirimida, apta a atrair, por analogia, o teor da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Corroboram esse entendimento:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. VÍCIO NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. PRECEDENTES.
+1. Não se pode conhecer dos Embargos de Declaração, pois a recorrente não indicou especificamente quais artigos e incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+2. A ausência de indicação do artigo que teria sido contrariado caracteriza defeito na fundamentação do Recurso. No caso dos autos, a recorrente não indicou o dispositivo de lei violado apto a fundamentar a interposição dos Aclaratórios. Dessa forma, incide o óbice da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido: AgInt no AREsp 1.891.310/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 24.3.2022, AgInt no AREsp 1.766.826/RS, Rel. Min. Manoel Erhardt - Des. Convocado do TRF-5ª Região -, Primeira Turma, DJe 30.4.2021; e AgInt nos EDcl no REsp 1.861.453/RS, Rel. Min. Luis Felipe Salomão, DJe de 18.3.2022.
+3. Embargos de Declaração rejeitados."
+(EDcl no AgInt nos EAREsp n. 1.860.335/SP, relator Ministro HERMAN BENJAMIN, Corte Especial, julgado em 13/12/2022, DJe de 20/12/2022 - sem grifo no original).
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E REPETIÇÃO DE INDÉBITO. DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. ALTERAÇÃO DA CONCLUSÃO DA CORTE ESTADUAL. IMPOSSIBILIDADE ANTE A INCIDÊNCIA DA SÚMULA N. 7 DO STJ. QUANTUM INDENIZATÓRIO. RECURSO ESPECIAL QUE NÃO INDICA OS PRECEITOS LEGAIS VIOLADOS NEM SOBRE OS QUAIS SE FUNDA O DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Alterar a conclusão do acórdão impugnado quanto à ocorrência de dano moral, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado, em razão do óbice da Súmula n. 7 do STJ.
+2. Na linha da jurisprudência pacífica desta Corte a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+3. Agravo conhecido para não conhecer do recurso especial."
+(AREsp n. 2.872.622/MT, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025 - sem grifo no original).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF. VIOLAÇÃO DE SÚMULA DO STJ. SÚMULA N. 518 DO STJ.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. Não é possível o conhecimento do recurso no que diz respeito à alegada violação à súmula deste STJ, visto que o referido normativo não se insere no conceito de lei federal, previsto no art. 105, III, "a", da Constituição Federal, consoante dispõe a Súmula 518/STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.644.983/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 5/5/2025, DJEN de 8/5/2025 - sem grifo no original).
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, em razão da ausência de indicação de violação de lei federal, trazendo apenas dispositivos constitucionais, matéria própria de recurso extraordinário ao STF.
+2. A parte agravante alega que o recurso especial tratou de forma efetiva e concreta a matéria discutida, discriminando os dispositivos de lei federal violados, especialmente o art. 3º do CPC, em razão de penhora de imóvel considerado bem de família e alienado fiduciariamente.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se a ausência de indicação clara e inequívoca dos dispositivos legais supostamente violados ou interpretados de forma divergente inviabiliza o conhecimento do recurso especial, conforme a Súmula n. 284 do STF; e (ii) saber se a parte agravada pode ser penalizada por litigância de má-fé e aplicação de multa, conforme art. 1.021, § 4º, do CPC/2015, em razão de recurso considerado protelatório.
+III. Razões de decidir
+4. A ausência de indicação expressa dos dispositivos legais violados ou de divergência jurisprudencial inviabiliza o conhecimento do recurso especial, conforme a Súmula n. 284 do STF.
+5. A análise de suposta ofensa a artigo da Constituição Federal não compete ao STJ, mas sim ao STF, em sede de recurso extraordinário.
+6. A litigância de má-fé não se configura, pois não houve reiteração indevida de recursos manifestamente protelatórios.
+7. A multa do art. 1.021, § 4º, do CPC/2015 não é automática e não se aplica quando não há manifesta inadmissibilidade do recurso ou litigância temerária.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. A ausência de indicação clara e inequívoca dos dispositivos legais supostamente violados ou interpretados de forma divergente inviabiliza o conhecimento do recurso especial, aplicando-se a Súmula 284 do STF. 2. A análise de suposta ofensa a artigo da Constituição Federal compete ao STF, em sede de recurso extraordinário. 3. A litigância de má-fé não se configura sem reiteração indevida de recursos protelatórios. 3. A multa do art. 1.021, § 4º, do CPC/2015 não é automática e depende de manifesta inadmissibilidade ou litigância temerária".
+Dispositivos relevantes citados: CPC, art. 3º; CF/1988, art. 5º, XXXV, LV; CF/1988, art. 6º, CPC/2015, art. 1.021, § 4º; STF, Súmula n. 284.Jurisprudência relevante citada: STF, Súmula n. 284; STJ, AgInt no AREsp n. 2.120.664/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022; STJ, AgInt no AREsp n. 2.109.813/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022; STJ, AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020."
+(AgInt no AREsp n. 2.832.260/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 5/5/2025, DJEN de 8/5/2025 - sem grifo no original).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DISPOSITIVO DE LEI FEDERAL VIOLADO NÃO INDICADO NAS RAZÕES RECURSAIS. SÚMULA 284/STF. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL. ADEQUAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Não apontado de forma clara e objetiva o dispositivo de lei viabilizador do recurso especial, evidencia-se a deficiência na fundamentação, a atrair a incidência da Súmula 284/STF.
+2. Compreende-se que "a falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF" (AgInt no AREsp n. 2.302.740/RJ, Relator o Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+3. A jurisprudência deste Superior Tribunal é no sentido de que, no acórdão julgado e publicado após 18 de março de 2016, incide, por consequência, o disposto no Enunciado Administrativo n. 7/STJ, que assim dispõe: "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.526.594/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 19/8/2024, DJe de 23/8/2024 - sem grifo no original).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro de 12% para 13% os honorários sucumbenciais fixados na origem, observada, no caso, a concessão da justiça gratuita à parte sucumbente.
+Publique-se.
+EMENTA
