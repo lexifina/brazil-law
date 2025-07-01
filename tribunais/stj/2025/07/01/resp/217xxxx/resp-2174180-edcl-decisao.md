@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA DO CARMO LUCCHI EMERENCIANO à decisão monocrática desta relatoria (e-STJ, fls. 361-362), que sobrestou o processo e determinou a remessa dos autos ao Tribunal de origem para a aplicação da sistemática dos recursos repetitivos após o estabelecimento de teses para o Temas 1.348 dos Recursos Repetitivos - definição da legislação aplicável para situações de rescisão de contratos de compra e venda de imóveis garantidos por alienação fiduciária, na eventualidade de desistência do adquirente, sem que tenha havido a sua constituição em mora.
+Em suas razões recursais, a parte embargante alega contradição da decisão embargada, consistente na desconsideração de que "não se trata rescisão de contrato de compra e venda de bem imóvel, garantido por alienação fiduciária, uma vez que contrato não foi registrado" e "sem o registro, não há que se flar na geração dos efeitos da alienação fiduciária", tratando-se apenas de compra e venda. Postula, assim, o acolhimento dos embargos a fim de ser afastada a ordem de sobrestamento e envio dos autos ao Tribunal de origem.
+Impugnação não apresentada (e-STJ, fl. 372).
+É o relatório. Decido.
+Razão não assiste à parte embargante.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de questão ou ponto sobre o qual se devia pronunciar o órgão julgador, de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022).
+É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide em decorrência do mero descontentamento da parte com o resultado obtido.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO CARACTERIZADA. ERRO MATERIAL. CORREÇÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC. É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não se verifica omissão quando o acórdão embargado emite tese sobre os questionamentos levantados pela parte.
+3. No caso, houve apenas erro de digitação, visto que, em vez de constar a incidência da Súmula 735 do STF, o acórdão recorrido consignou a aplicação da "Súmula 735 do STJ".
+4. Embargos de declaração parcialmente acolhidos, apenas para sanar erro material."
+(EDcl no AgInt no AREsp n. 2.307.944/BA, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 9/11/2023)
+"CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FINANCIAMENTO SOB AS REGRAS DO SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VÍCIOS CONSTRUTIVOS. ALEGAÇÃO DA NECESSIDADE DE INTERVENÇÃO DA CEF NO FEITO COMO LITISCONSORTE ASSISTENCIAL. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. FALTA DE PREQUESTIONAMENTO. SÚMULA N.º 211 DO STJ. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material. (..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.327.667/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 3/11/2023)
+No caso dos autos, a decisão embargada não contém nenhum vício.
+Na espécie, é incontroversa a abrangência da questão objeto do recurso especial interposto pela parte embargada pelo tema afetado para julgamento sob a sistemática dos recursos repetitivos, exceto pela circunstância de ausência de registro prévio da alienação fiduciária.
+Entretanto, segundo entendimento desta Corte Superior, a ausência do registro do contrato de alienação fiduciária no Registro de Imóveis não retira a eficácia entre os contratantes, nem confere ao devedor fiduciante o direito de promover a rescisão da avença por meio diverso daquele contratualmente previsto (cf. EREsp n. 1.866.844/SP, relatora Ministra NANCY ANDRIGHI, relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 27/9/2023, DJe de 9/10/2023.).
+A propósito, confira-se a íntegra da ementa do precedente:
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIREITO CIVIL. IMÓVEL. COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. REGISTRO. AUSÊNCIA. EFEITOS ENTRE OS CONTRATANTES. MANUTENÇÃO. ALIENAÇÃO EXTRAJUDICIAL. REGISTRO. IMPRESCINDIBILIDADE.
+1. A ausência do registro do contrato de alienação fiduciária no competente Registro de Imóveis não lhe retira a eficácia, ao menos entre os contratantes, servindo tal providência apenas para que a avença produza efeitos perante terceiros.
+2. Ainda que o registro do contrato no competente Registro de Imóveis seja imprescindível à constituição da propriedade fiduciária de coisa imóvel, nos termos do art. 23 da Lei nº 9.514/1997, sua ausência não retira a validade e a eficácia dos termos livre e previamente ajustados entre os contratantes, inclusive da cláusula que autoriza a alienação extrajudicial do imóvel em caso de inadimplência.
+3. O registro, conquanto despiciendo para conferir eficácia ao contrato de alienação fiduciária entre devedor fiduciante e credor fiduciário, é, sim, imprescindível para dar início à alienação extrajudicial do imóvel, tendo em vista que a constituição do devedor em mora e a eventual purgação desta se processa perante o Oficial de Registro de Imóveis, nos moldes do art. 26 da Lei nº 9.514/1997.
+4. A ausência de registro do contrato que serve de título à propriedade fiduciária no competente Registro de Imóveis não confere ao devedor fiduciante o direito de promover a rescisão da avença por meio diverso daquele contratualmente previsto, tampouco impede o credor fiduciário de, após a efetivação do registro, promover a alienação do bem em leilão para só então entregar eventual saldo remanescente ao adquirente do imóvel, descontados os valores da dívida e das demais despesas efetivamente comprovadas.
+5. Embargos de divergência não providos."
+(EREsp n. 1.866.844/SP, relatora Ministra NANCY ANDRIGHI, relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 27/9/2023, DJe de 9/10/2023.)
+Diante do exposto, rejeito os embargos declaratórios.
+Publique-se.
+EMENTA
