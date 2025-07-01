@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual ODAIR JOSE ANTONIO e OUTRO se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 44):
+Administrativo. Ação declaratória de reenquadramento e promoção funcional c/com cobrança de diferença salarial. Pretendida modificação de situação funcional. Enquadramento ou reenquadramento que configura ato único de efeitos concretos. Prescrição do direito de ação. Artigo 1º do decreto 20910/1932. Considerando a data do ajuizamento do feito, resta reconhecida a prescrição quinquenal relativa ao reenquadramento funcional derivado da Lei Municipal n. 2.154/2008, que instituiu a reestruturação do plano de cargos, carreiras e vencimentos da Autarquia Ré e Portarias n. 034/2008, de 09.04.2008, n. 043/2009, de 28.01.2009. Decisão interlocutória reformada. Agravo de instrumento provido.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega que houve violação aos arts. 20, 489, § 1º, IV, e 1.022 do Código de Processo Civil (CPC), sustentando, em síntese, que o acórdão recorrido foi omisso quanto às alegações por ela formuladas, e que é possível deduzir pedido meramente declaratório.
+Requer que seja dado provimento ao recurso.
+A parte adversa apresentou contrarrazões (fls. 93/99).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Inexiste a alegada violação do art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia.
+É importante ressaltar que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto à apontada violação do art. 1.022 do Código de Processo Civil, considerando que não houve a necessária oposição de embargos de declaração para provocar o Tribunal de origem a esclarecer obscuridade, eliminar contradição ou suprir omissão, o exame da alegada nulidade do julgado se encontra inviabilizado em razão do óbice contido na Súmula 284 do Supremo Tribunal Federal (STF), aplicado por analogia.
+Nesse mesmo sentido: AgInt nos EDcl nos EDcl no AREsp 1.794.204/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021; e AgInt no REsp 1.367.247/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/9/2016, DJe de 6/10/2016.
+Observo que a Corte local assim dispôs expressamente (fls. 47/48):
+ ..  embora os autores, ora agravados aleguem apenas o pedido declaratório, nota-se que a pretensão encontra reflexo no pleito condenatório requerido na peça inicial, relativo ao pagamento de "diferenças salariais retroativas, dos 5 (cinco) últimos anos contados da data dos requerimentos administrativos formulados pelos Autores, em 14.08.2020 (docs. 05.1 e 08.1), ou, então, da data de propositura da presente demanda" (mov. 1.1). Vejamos, o requerimento contido na peça vestibular (mov. 1.1):
+ ..
+Assim, diversamente do que alegam os recorridos, resta evidenciada a pretensão condenatória oriunda do pleito revisional de ato já prescrito.
+Nesse contexto, a tese recursal vinculada ao art. 20 do CPC, segundo a qual "o pedido  ..  era meramente declaratório no que dizia respeito ao reenquadramento dos anos de 2008 e 2009. O pedido condenatório dizia respeito à promoção funcional ocorrida muito tempo depois, no ano de 2018" (fl. 61), não foi apreciada pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+ EMENTA
