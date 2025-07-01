@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interno (fls. 721-734) interposto contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 716-717).
+Em suas razões, a parte agravante aduz que impugnou todos os fundamentos da decisão de admissibilidade do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Sem contrarrazões (fl. 739).
+É o relatório.
+Decido.
+A parte recorrente atacou todos os pontos da decisão que não admitiu o recurso especial, devendo ser afastada a Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial não foi admitido em virtude da ausência de negativa de prestação jurisdicional e da incidência das Súmulas n. 7 e 518 do STJ (fls. 669-673).
+O acórdão recorrido está assim ementado (fls. 529-532):
+CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE COBRANÇA. COMÉRCIO ELETRÔNICO. AQUISIÇÃO DE PRODUTOS FARMACÊUTICOS. INADIMPLEMENTO. FRAUDE PRATICADA POR TERCEIROS. PEDIDOS RECONVENCIONAIS. INEXISTÊNCIA DO DÉBITO. PROTESTO INDEVIDO. DANOS MORAIS IN RE IPSA. SÚMULA 385 DO STJ. INAPLICABILIDADE. VALOR ARBITRADO NA SENTENÇA, SUFICIENTE E NECESSÁRIO. RAZOABILIDADE. MAJORAÇÃO DA VERBA HONORÁRIA (ART. 85, § 11, CPC). NÃO CABIMENTO. AUSÊNCIA DE CONTRARRAZÕES. RECURSO IMPROVIDO.
+Sinopse fática: A pretensão da parte autora trazida na inicial é a cobrança relativa as duplicatas emitidas com base nas notas fiscais de nº 10.051 e 09.684. Por sua vez, a ré alega que jamais celebrou contratos com autora e que está sendo cobrado por débitos indevidos. Assim, a controvérsia estabelecida nos autos cinge-se em verificar a ocorrência de fraude na aquisição das mercadorias indicadas na inicial, bem como a ocorrência de ilícito a ensejar a reparação civil.
+1. Apelação interposta contra sentença, proferida em ação de cobrança, que julgou o pedido inicial improcedente, ao passo que acolheu os pedidos reconvencionais, para declarar a inexistência dos débitos e condenar a autora/reconvinda ao pagamento de indenização por danos morais à requerida/reconvinte.
+2. A pretensão trazida na petição inicial é a cobrança de débito relativo à suposta aquisição, pela ré, de produtos farmacêuticos comercializados eletronicamente pela autora, no valor total de R$ 20.207,08. Ao seu turno, a ré alega não haver celebrado contrato com a autora e está sendo demandada por débito indevido.
+3. Na hipótese, existem indícios de que a ré foi vítima de fraude praticada por terceiros. 3.1. A transação foi realizada inteiramente via WhatsApp, não havendo como afirmar seja a requerida a interlocutora. Além disso, é sabido que esse aplicativo vem sendo alvo de clonagens para a prática de fraudes. 3.2. Os documentos pessoais enviados à vendedora são os mesmos que a requerida havia encaminhado para outra empresa, no intuito de se candidatar para uma vaga de emprego, circunstância que sugere vazamento de dados, posteriormente utilizados pelos estelionatários para realizar a compra fraudulenta. 3.3. Note-se, ainda, que a requerida não recebeu a mercadoria, porquanto os produtos foram supostamente entregues em endereço diverso de sua residência e recebida por terceira pessoa. 3.4. Verifica-se, também, que o número de telefone informado para a realização da compra trata-se de linha pré-paga, existindo a possibilidade de ter sido cadastrada por terceiros que utilizaram os dados da apelada. 3.5. Quanto ao alegado envio da nota fiscal da compra ao e-mail da apelada, esse fato não é suficiente para comprovar a regularidade da aquisição, uma vez que o correio eletrônico se trata de informação facilmente obtida por terceiros. 3.6. No tocante às prescrições dos medicamentos supostamente assinadas pela ré, frisa-se que os documentos, embora disponíveis à autora, foram apresentados em momento inoportuno, apenas em sede de alegações finais, isto é, após o encerramento da fase instrutória, o que não se admite, sob pena de prejudicar o contraditório da parte adversa. Nesse sentido: "1. A apresentação de documentos, após o encerramento da fase instrutória, sobretudo quando em fase recursal, somente é possível quando forem considerados novos, nos termos do art. 435, caput e parágrafo único, do CPC, o que não é a hipótese dos autos." (07489996820238070000, Relator: Carmen Bittencourt, 8ª Turma Cível, DJE: 18/4/2024).
+4. Demonstrada a fraude na aquisição dos produtos mediante a utilização por terceiros dos dados da ré, correta a sentença ao acolher o pedido reconvencional para a declaração de inexistência dos débitos cobrados.
+5. O protesto indevido pela aquisição fraudulenta de produtos em nome da ré/reconvinte enseja a responsabilização da autora/reconvinda por danos morais, pois tal conduta viola os direitos da personalidade. Trata-se de dano moral configurado in re ipsa, motivo pelo qual prescinde de comprovação. 5.1. Precedente: "1. O espúrio protesto de dívida inexistente tem natureza in re ipsa, ou seja, o registro descabido já faz presumir o dano, sem a necessidade de qualquer demonstração acerca do prejuízo." (07133569820238070016, Relator: Mario-Zam Belmiro, 4ª Turma Cível, DJE: 20/3/2024).
+6. Não é o caso de aplicação da Súmula 385 do STJ, pois os protestos anteriores devem ser considerados irregulares, tendo em vista a inexistência dos débitos declarada nos autos nº 0705750-68.2022.8.07.0011. 6.1. Em sentido similar: "2. Inaplicável a Súmula 385-STJ, uma vez que a inscrição anterior deriva também de ato ilícito e é objeto de outra ação judicial de reparação de danos." (20140310193185APC, Relator: João Egmont, Revisor: Leila Arlanch, 2ª Turma Cível, DJE: 27/10/2015).
+7. A indenização deve ser fixada observadas as circunstâncias fáticas da causa, procurando-se encontrar um valor que seja o necessário para reparar e prevenir o dano. 7.1. O valor arbitrado na sentença em R$ 10.000,00 é suficiente para compensar a parte ré/reconvinte pelos danos morais sofridos.
+8. Incabível a majoração da verba honorária prevista no art. 85, § 11, CPC, porquanto não houve o oferecimento de contrarrazões.
+9. Recurso improvido.
+Os embargos de declaração foram rejeitados (fls. 605-613).
+Nas razões do recurso especial (fls. 618-641), fundamentado no art. 105, III, "a", da CF, a parte recorrente apontou ofensa aos seguintes dispositivos legais:
+a) artigos 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC, porque o acórdão se omitiu quanto a erro de fato;
+b) artigo 435 do CPC, sustentando que há provas de que a compra foi realizada pela própria recorrida;
+c) artigos 186, 927 e 942 do CC, asseverando que não há prova do dano moral.
+Invoca ainda violação da Súmula n. 385/STJ.
+A insurgência não merece prosperar.
+Não cabe ao STJ apreciar violação de súmula em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, "a", da CF, consoante dispõe a Súmula n. 518 do STJ.
+Inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, decidindo sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Em relação à tese, o Tribunal de origem assim se manifestou (fl. 541):
+A vendedora, Sra. Monice Zucuni Marini, ouvida como testemunha em audiência, esclareceu que a confirmação da identidade da compradora ocorreu através do envio dos documentos pessoais, dentre eles uma foto tipo "selfie" segurando a identidade profissional ( pp. 1/5, ID 58020025).
+Ocorre que tais documentos são os mesmos que a requer ida havia encaminhado para a empresa COIFEODONTO, no intuito de se candidatar para uma vaga de emprego (IDs 58020910 e 58020912 ), circunstância que sugere vazamento de dados, posteriormente utilizados pelos estelionatários para realizar a compra fraudulenta.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em negativa de prestação jurisdicional.
+Com relação à prova de quem fez as compras, o acórdão consignou que não foi a recorrida, pois há indício de fraude na foto do documento. Assim, a revisão do julgado encontra óbice na Súmula n. 7/ST J, pois exigiria o reexame do material de conhecimento.
+Quanto ao dano moral, a Corte dispôs nos seguintes termos (fls. 545-546):
+A responsabilidade civil pela reparação de danos decorrentes de relações de consumo de prestação de serviços tem como base o art. 14 do CDC, o qual estabelece responsabilidade objetiva. Neste sentido, faz-se necessário provar, apenas, a fraude, o nexo de causalidade e o resultado danoso, independentemente da existência ou não de culpa. No caso em questão, os danos morais mostram-se presentes ante a aquisição fraudulenta de produtos em nome da ré/reconvinte com o consequente protesto indevido (ID 58020913).
+O protesto indevido enseja a responsabilização da autora/ reconvinda por danos morais, pois tal conduta viola os direitos da personalidade, notadamente o nome, a imagem e a honra.
+Esse entendimento está de acordo com a jurisprudência desta Corte.
+A propósito:
+RESPONSABILIDADE CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. INCLUSÃO INDEVIDA EM CADASTRO RESTRITIVO DE CRÉDITO. DANOS MORAIS. CONFIGURAÇÃO DE DANO IN RE IPSA. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Cuidando-se de protesto indevido de título ou inscrição irregular em cadastro de inadimplentes, conforme expressamente reconhecido pelo Tribunal a quo, o dano moral se configura in re ipsa, prescindindo, portanto, de prova. Precedentes.
+(..)
+4. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.809.215/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2025, DJEN de 27/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+(..)
+5. Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura presumido (in re ipsa), isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica. Súmula 568/STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.970.716/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (fls. 716-717) para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
+EMENTA
