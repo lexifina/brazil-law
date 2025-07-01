@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial sob os fundamentos de aplicação das Súmulas n. 7 do STJ e 284 do STF (fls. 292-295).
+O acórdão recorrido encontra-se assim ementado (fl. 222):
+AGRAVO DE INSTRUMENTO - AÇÃO DE BUSCA E APREENSÃO - ALIENAÇÃO FIDUCIÁRIA - LIMINAR DEFERIDA - ENCARGOS PARA O PERÍODO DE N ORMALIDADE - CAPITALIZAÇÃO DIÁRIA DE JUROS - TAXA NÃO ESPECIFICADA - ABUSIVIDADE - MORA AFASTADA - RESTITUIÇÃO DO VEÍCULO - CABIMENTO - DECRETO-LEI 911/69 - NOTIFICAÇÃO EXTRAJUDICIAL - DESTINATÁRIO AUSENTE - NÃO COMPROVAÇÃO DA MORA - AUSÊNCIA DE PRESSUPOSTO DE FORMAÇÃO VÁLIDA E REGULAR DO PROCESSO - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO - APLICAÇÃO DO EFEITO TRANSLATIVO
+- Consoante entendimento do Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.061.530/RS, processado pela sistemática de recursos repetitivos (art. 543-C do Código de Processo Civil), o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora.
+-Afastada a mora pela demonstração de abusividade de encargo pactuado no período de normalidade (capitalização), deve o consumidor ser mantido na posse do bem, com sua imediata restituição, eis que a comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente.
+- O retorno do aviso de recebimento sob a justificativa "ausente" não tem o condão de comprovar a mora do devedor, ante a ausência de efetivo recebimento da notificação extrajudicial, seja por ele próprio ou por terceiro.
+- Nos termos do art. 3º, do Decreto-Lei 911/69 e da Súmula nº 72, do Superi or Tribunal de Justiça, considerando que a comprovação da mora é pressuposto para o requerimento da busca e apreensão do bem alienado fiduciariamente e que tal matéria é conhecível de ofício, é de rigor a extinção do feito sem resolução de mérito (art. 485, IV, do CPC), valendo-se do efeito translativo do Agravo de Instrumento.
+No recurso especial (fls. 233-243), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente apontou dissídio jurisprudencial e violação dos seguintes dispositivos:
+(i) arts. 28, § 1º, da Lei n. 10.931/2004, 1º ao 5º do Decreto n. 22.626/1933 e 1º e 4º, IX, da Lei n. 4.595/1994, sustentando que é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000 (fl. 235), e
+(ii) arts. 2º, § 2º, e 3º do DL n. 911/1969, argumentando que, se o devedor não for encontrado no endereço fornecido ao credor, deve ser considerada válida a notificação expedida para o endereço do contrato, com a finalidade de sua constituição em mora (fl. 235).
+Requereu o reconhecimento da possibilidade de capitalização de juros em qualquer periodicidade e a constituição da devedora em mora (fls. 242-243).
+Não foram apresentadas contrarrazões.
+No agravo (fls. 297-304), afirma a presença dos requisitos de admissibilidade do especial.
+Não foi oferecida contraminuta.
+É o relatório.
+Decido.
+Quanto ao mérito, o Tribunal de origem assim se pronunciou ( fls. 225-226):
+Apresenta-se como matéria de defesa a existência de abusividade sobre a cobrança de capitalização diária de juros, sem a devida informação da taxa diária incidente sobre a operação contratada.
+Com efeito, cumpre ressaltar que, de acordo com o atual entendimento do C. Superior Tribunal de Justiça, apenas o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) possui o condão de descaracterizar a mora, in verbis:  ..
+No caso, em análise ao contrato firmado (doc. de ordem n.09), inexiste qualquer menção à taxa diária de juros praticada, o que importa em violação ao dever de informação, princípio este festejado na legislação consumerista.  ..
+Portanto, segundo entendimento jurisprudencial firmado, não basta previsão da periodicidade da capitalização, sendo necessária expressa indicação da taxa aplicável, sob pena de violação do dever de informação imposto ao fornecedor.  ..
+No caso, embora a notificação tenha sido enviada ao endereço constante do contrato (docs. de ordem n.09 e n.10), o aviso de recebimento (AR) retornou com a indicação de devolução pelo motivo "ausente", inexistindo demonstração de que o agravado se valeu do protesto do título, conforme possibilita o art. 15, da Lei nº 9.492/97, para cumprir a exigência procedimental.
+Desta maneira, o agravado não se desincumbiu do ônus de comprovar a regular constituição em mora da agravante, conforme determina o Decreto-Lei 911/69, circunstância suficiente para obstar a busca e apreensão do veículo objeto do contrato de financiamento celebrado entre as partes.
+Destarte, conforme já mencionado, a comprovação da mora é pressuposto para o requerimento da busca e apreensão do bem alienado fiduciariamente, sendo tal matéria, inclusive, conhecível de ofício, razão pela qual, de rigor a extinção do feito sem resolução de mérito (art. 485, IV, do CPC), valendo-se do efeito translativo do Agravo de Instrumento.
+A Corte local concluiu que, no contrato firmado entre as partes, inexiste qualquer menção à taxa diária de juros praticada, o que ocasionou violação do dever de informação.
+Contudo, no recurso especial, a parte ora agravante sustenta apenas a possibilidade de "capitalização de juros em periodicidade inferior à anual prevista em contrato de Cédula de Crédito Bancário" (fl. 235).
+Ausente a impugnação específica do acórdão recorrido, bem como apresentadas razões dissociadas de seus fundamentos, incidem as Súmulas n. 283 e 284 do STF.
+Contudo, procedem as alegações recursais quanto à regular constituição da devedora em mora uma vez que, segundo a tese firmada no Tema Repetitivo n. 1.132, "Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros" (REsp n. 1.951.888/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9/8/2023, DJe de 20/10/2023).
+O fato de o devedor estar ausente de sua residência não tem o condão de invalidar a notificação extrajudicial.
+Confira-se :
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. NOVO JULGAMENTO DO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO INVÁLIDA PARA FINS DE CONFIGURAÇÃO DA MORA. ENTENDIMENTO DIVERGENTE DA ORIENTAÇÃO FIRMADA NO TEMA REPETITIVO 1.132. DESNECESSIDADE DA PROVA DO RECEBIMENTO DA NOTIFICAÇÃO EXTRAJUDICIAL. EMBARGOS DECLARATÓRIOS ACOLHIDOS, EXCEPCIONALMENTE, COM EFEITOS INFRINGENTES.
+1. A atribuição de efeitos infringentes aos embargos de declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária.
+2. A Segunda Seção do Superior Tribunal de Justiça deliberou, recentemente, o Tema Repetitivo nº 1.132, pacificando o entendimento de que "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, Segunda Seção, julgado em 9/8/2023).
+3. No caso dos autos, o fato de o devedor estar ausente de sua residência não tem o condão de invalidar a notificação extrajudicial. Recurso especial provido para reconhecer a constituição em mora do devedor recorrido e determinar o regular prosseguimento da ação de busca e apreensão.
+4. Embargos de declaração acolhidos, excepcionalmente, com efeitos infringentes.
+(EDcl no AgInt no REsp n. 2.030.397/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. TEMA 1132/STJ. ALIENAÇÃO FIDUCIÁRIA COMO GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Ação de busca e apreensão.
+2. Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Aplicação do Tema 1132/STJ.
+3. Recurso especial conhecido e provido.
+(REsp n. 2.206.157/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025.)
+Desse modo, o acórdão recorrido não está de acordo com a jurisprudência desta Corte Superior.
+Ante o exposto, CONHEÇO DO AGRAVO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial e reconhecer a constituição em mora da recorrida .
+Publique-se e intimem-se.
+EMENTA
