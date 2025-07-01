@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Tanto a jurisprudência do STJ como a do STF se consolidaram na direção de que não é admissível o ajuizamento de revisão criminal para reconhecer a ultratividade da jurisprudência benéfica, de modo a modificar a situação delineada para o condenado conforme o pensamento da época da condenação. Precedentes.
+2. No caso concreto, busca-se a rescisão da sentença condenatória com base no entendimento firmado pelo Tema Repetitivo n. 1139 do STJ, o qual veda a utilização de inquéritos e ações penais em curso para afastar a minorante do tráfico privilegiado prevista no art. 33, § 4 º, da Lei n. 11.343/06. No entanto, verifica-se que o trânsito em julgado da condenação ocorreu em 7/10/2015, e o entendimento jurisprudencial mencionado somente foi consolidado com o trânsito em julgado do referido tema em 29/9/2022.
+3. Agravo regimental não provido.
+RELATÓRIO
+RODRIGO OTAVIO DA ROSA SILVA interpõe agravo regimental contra decisão da Presidência desta Corte Superior que indeferiu liminarmente o habeas corpus e, por conseguinte, manteve inalterada a reprimenda de 5 anos de reclusão, em regime fechado, mais multa, como incurso no art. 33, caput, da Lei de Drogas.
+O agravante insiste na possibilidade de incidência da minorante do tráfico, ao argumento de que a "questão ainda é objeto de debates relevantes no âmbito desta Colenda Corte e não pode ser tratada como inteiramente pacificada, especialmente diante das peculiaridades do caso concreto" (fl. 56), tanto que alguns recursos especiais "foram afetados à sistemática dos recurso repetitivos  .. , para "discutir precisamente a possibilidade de aplicação retroativa de entendimento mais benéfico ao réu" (fl. 57).
+Requer a reconsideração do ato impugnado e, caso contrário, a submissão da tese ao órgão colegiado, com a concessão do habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Tanto a jurisprudência do STJ como a do STF se consolidaram na direção de que não é admissível o ajuizamento de revisão criminal para reconhecer a ultratividade da jurisprudência benéfica, de modo a modificar a situação delineada para o condenado conforme o pensamento da época da condenação. Precedentes.
+2. No caso concreto, busca-se a rescisão da sentença condenatória com base no entendimento firmado pelo Tema Repetitivo n. 1139 do STJ, o qual veda a utilização de inquéritos e ações penais em curso para afastar a minorante do tráfico privilegiado prevista no art. 33, § 4 º, da Lei n. 11.343/06. No entanto, verifica-se que o trânsito em julgado da condenação ocorreu em 7/10/2015, e o entendimento jurisprudencial mencionado somente foi consolidado com o trânsito em julgado do referido tema em 29/9/2022.
+3. Agravo regimental não provido.
+VOTO
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Conforme constou na decisão agravada, o objetivo deste habeas corpus é um só: rescindir a sentença condenatória  cujo trânsito em julgado ocorreu em 7/10/2015  para a aplicação do entendimento vigente a partir a conclusão pelo Tema Repetitivo n. 1139  que transitou em julgado em 29/9/2022  , que estabeleceu a seguinte tese: "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06".
+Tanto a jurisprudência do STJ como a do STF se consolidaram na direção de que não é admissível a utilização da revisão criminal (ou de habeas corpus substitutivo) para reconhecer a ultratividade da jurisprudência benéfica, de modo a modificar a situação delineada para o condenado conforme o pensamento da época da condenação.
+No STJ: "Segundo entendimento pacífico desta Corte, não se admite o ajuizamento de revisão criminal fundada em mudança de entendimento jurisprudencial superveniente ao trânsito em julgado de decisão, sentença ou acórdão, devendo a irresignação ser encaminhada ao Juízo das Execuções Penais" (AgRg no HC n. 703.269/DF, Rel. Ministro Joel Ilan Paciornik, DJe 4/4/2022).
+No STF: "A inadmissão da Revisão Criminal em razão de meras variações jurisprudenciais, ressalvadas situações excepcionais de abolitio criminis ou declaração de inconstitucionalidade de dispositivos legais (inclusive incidenter tantum), é historicamente assentada por esta Corte (RE 113601, Primeira Turma, Rel. Min. Moreira Alves, j. 12/06/1987; RvC 4645, Tribunal Pleno, Rel. Min. Néri da Silveira, j. 01/04/1982)" (RvC nº 5.457/SP-AgR, Tribunal Pleno, Relator o Ministro Luiz Fux, DJe de 11/10/17)" (HC n. 153.805 AgR/SC, Rel. Ministro Dias Toffoli, DJe 17/10/2018).
+No mesmo sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA REVISÃO CRIMINAL. MUDANÇA JURISPRUDENCIAL. NÃO CABIMENTO DA REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A mudança ou modificação na orientação jurisprudencial, mesmo que favorável ao condenado, não autoriza o uso da revisão criminal, conforme firme entendimento desta Corte e do Supremo Tribunal Federal.
+2. Agravo regimental não provido.
+(AgRg nos EDcl na RvCr n. 5.544/DF, relator Ministro Rogerio Schietti, 3ª S., DJe de 17/8/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE ENTORPECENTES. PLEITO DE RECONHECIMENTO DA REDUTORA DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. REVISÃO CRIMINAL. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+IV - Consoante entendimento jurisprudencial, tanto do STJ quanto do STF, não se presta à desconstituição do trânsito em julgado eventual mudança de orientação jurisprudencial, como ocorreu no presente caso, dado que, à época da condenação transitada em julgado, a jurisprudência deste Tribunal era no sentido que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006". Precedentes.
+Agravo regimental desprovido .
+(AgRg no HC n. 760.139/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe de 29/11/2022, grifei).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. CRIME DE ROUBO MAJORADO. INOBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. PROVA INVÁLIDA COMO FUNDAMENTO PARA A CONDENAÇÃO. MATÉRIA ANALISADA EM OUTRO HABEAS CORPUS IMPETRADO PERANTE O STJ. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO ANTERIOR AO JULGAMENTO ACÓRDÃO QUE INAUGUROU NOVO ENTENDIMENTO DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. Ainda que assim não o fosse, ressalta-se que a jurisprudência do STJ é firme no sentido de que a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa no presente writ, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 750.423/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 8/8/2022, destaquei)
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
