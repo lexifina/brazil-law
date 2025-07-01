@@ -1,0 +1,37 @@
+DECISÃO
+EDI SILIPRANDI (ESPÓLIO) e OLINDA SILIPRANDI (ESPÓLIO) interpuseram agravo em recurso especial contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 7 do STJ e 283 do STF e na ausência de violação dos arts. 489 e 1.022 do CPC, por não ter sido demonstrada a ofensa aos arts. 1.240 do CC e 917, § 6º, do CPC (fls. 884-888).
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme as certidões de fls. 909 e 910.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação nos autos de ação de rescisão de contrato c/c reintegração de posse, perdas e danos.
+O julgado foi assim ementado (fls. 780-781):
+RECURSOS DE APELAÇÃO CÍVEL. DEMANDA DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. USUCAPIÃO ALEGADO EM SEDE DE DEFESA. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO 1. INSURGÊNCIA DA PARTE RÉ. ALEGAÇÃO DE QUE A USUCAPIÃO DEVE SER RECONHECIDA NA INTEGRALIDADE DO IMÓVEL (450M ). TESE RECHAÇADA. USUCAPIÃO CONSTITUCIONAL URBANA QUE ESTÁ LIMITADA À ÁREA DE 250 M . AUSÊNCIA DE COMPROVAÇÃO DO ANIMUS DOMINI NA FRAÇÃO DE 200 M . DIREITO DE USUCAPIR QUE DEVE SE RESTRINGIR À ÁREA LEGALMENTE AUTORIZADA. SENTENÇA MANTIDA. MAJORAÇÃO DE HONORÁRIOS. POSSIBILIDADE. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. INVIABILIDADE. RECURSO NÃO PROVIDO. APELAÇÃO 2. INSURGÊNCIA DA PARTE AUTORA. ALEGAÇÃO DE QUE A SENTENÇA É NULA PELA AUSÊNCIA DE FUNDAMENTAÇÃO (GENÉRICA) E NÃO ANÁLISE DAS PROVAS CARREADAS AOS AUTOS. CONJUNTO PROBATÓRIO SUFICIENTE PARA A PROLAÇÃO DA DECISÃO DE MÉRITO. SENTENÇA COESA E ADEQUADAMENTE FUNDAMENTADA. TENTATIVA DE MODIFICAÇÃO DO JULGADO QUE NÃO LHE FOI FAVORÁVEL. FALTA DE PROVAS PARA A PROCEDÊNCIA DA USUCAPIÃO. INOCORRÊNCIA. REQUISITOS PREENCHIDOS. POSSE MANSA E PACÍFICA HÁ MAIS DE 15 ANOS. AUSÊNCIA DE PROPRIEDADE DE OUTROS IMÓVEIS. EXERCÍCIO DO ANIMUS DOMINI. ÁREA CONTEMPLADA PELA REDAÇÃO DO ART. 1.238 DO CC (ATÉ 250M ). INDENIZAÇÃO POR BENFEITORIAS, DIREITO DE RETENÇÃO E TAXA DE FRUIÇÃO QUE SERÃO APURADOS EM FASE DE LIQUIDAÇÃO DE SENTENÇA. REINTEGRAÇÃO DE POSSE QUE DEVERÁ AGUARDAR O TÉRMINO DA FASE DE LIQUIDAÇÃO DE SENTENÇA. TAXA DE FRUIÇÃO QUE DEVERÁ RECAIR ATÉ A DATA DE DESOCUPAÇÃO E APÓS A QUITAÇÃO DA CONDENAÇÃO À INDENIZAÇÃO. SENTENÇA MANTIDA. MAJORAÇÃO DE HONORÁRIOS. POSSIBILIDADE. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. INVIABILIDADE. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 838):
+EMBARGOS DE DECLARAÇÃO. RECURSOS DE APELAÇÃO CÍVEL. ACÓRDÃO QUE NEGOU PROVIMENTO A AMBOS OS RECURSOS. INSURGÊNCIA DA PARTE AUTORA NA REINTEGRAÇÃO DE POSSE. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NA DECISÃO RECORRIDA E DE NÃO APRECIAÇÃO DO CONJUNTO PROBATÓRIO. AFIRMAÇÃO DE QUE A DECISÃO É ESDRÚXULA E NÃO CORRESPONDE ÀS RAZÕES RECURSAIS. TESES RECHAÇADAS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL. INEXISTÊNCIA. PRECEDENTES DO STJ QUE DEMONSTRAM QUE O JULGADOR NÃO ESTÁ OBRIGADO A SE MANIFESTAR SOBRE TODOS OS PONTOS ALEGADOS PELAS PARTES, BASTANDO QUE AS RAZÕES DE DECIDIR SEJAM CLARAS E FUNDAMENTADAS. DISCORDÂNCIA COM O TEOR DA DECISÃO RECORRIDA. MERO INCONFORMISMO. TENTATIVA DE REDISCUSSÃO. DECISÃO QUE POSSUI CLAREZA, FUNDAMENTAÇÃO E ESTÁ CONECTADA COM AS RAZÕES RECURSAIS. DECISÃO MANTIDA. SEM VÍCIOS A SANAR. EMBARGOS DECLARATÓRIOS REJEITADOS.
+No recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489 e 1.022 do CPC, porquanto o acórdão recorrido não teria enfrentado todas as questões pertinentes e se encontraria insuficientemente fundamentado;
+b) 1.240 do CC, visto que não foram preenchidos os requisitos necessários à aquisição da propriedade pela usucapião, uma vez que a área possui metragem superior a 250m ; e
+c) 917, § 6º, do CPC, pois seria possível a imissão imediata na posse do imóvel, mediante prestação de caução eficaz e suficiente.
+Requerem o provimento do recurso para que se reforme o acórdão recorrido, determinando o processamento do recurso especial indevidamente vetado na origem e, por sua vez, o seu acolhimento.
+Não foram apresentadas contrarrazões, conforme as certidões de fls. 882 e 883.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de rescisão de contrato c/c reintegração de posse, perdas e danos em que a parte autora pleiteou a resolução do contrato, a reintegração de posse do imóvel e o pagamento de perdas e danos pela ocupação indevida do bem.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente a ação, determinando a reintegração da parte autora na área de 200m  do imóvel após o pagamento das benfeitorias necessárias e úteis a serem apuradas em liquidação de sentença, assim como condenou a parte requerida ao pagamento da taxa de ocupação da área de 200m  do imóvel a ser apurada em liquidação, desde 18/4/2002 até a efetiva desocupação, atribuindo à causa o valor de R$ 10.890,00.
+A Corte estadual manteve integralmente a sentença.
+I - Arts. 489 e 1.022 do CPC
+No recurso especial, a parte recorrente alega que o acórdão recorrido não teria enfrentado todas as questões pertinentes e que se encontraria insuficientemente fundamentado.
+A Corte estadual, ao analisar os embargos de declaração, concluiu que não havia omissão, contradição ou obscuridade, pois as razões de decidir foram claras e suficientemente fundamentadas, não havendo vício que possa nulificar o acórdão recorrido.
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à insuficiência de fundamentação foi devidamente analisada pela Corte de origem, que concluiu que as razões de decidir foram claras e suficientemente fundamentadas, não havendo vício que possa nulificar o acórdão recorrido.
+II - Art. 1.240 do CC
+A parte recorrente afirma que não foram preenchidos os requisitos necessários à aquisição da propriedade pela usucapião, uma vez que a área possui metragem superior a 250m .
+A Corte estadual concluiu que a parte ré comprovou que não possui outro imóvel e que reside no local há mais de 15 anos, exercendo o animus domini, bem como que a área discutida está dentro da previsão legal de até 250m , conforme o caderno processual.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+III - Art. 917, § 6º, do CPC
+A parte agravante alega que seria possível a imissão imediata na posse do imóvel, mediante prestação de caução eficaz e suficiente.
+O Tribunal de origem, analisando o acervo probatório dos autos, concluiu que a reintegração na posse somente ocorrerá após o pagamento integral da indenização devida à parte apelada, sendo inviável a imissão imediata na posse.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na necessidade de apuração dos valores em liquidação de sentença.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
