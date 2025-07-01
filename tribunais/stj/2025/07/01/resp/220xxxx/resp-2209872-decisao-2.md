@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manifestado por Multiplike Securitizadora S.A. contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA INVERSA. Ausência de comprovação de quaisquer dos requisitos previstos no art. 50 do CC. Pedido fundado na formação de grupo econômico. Não evidenciados atos concretos de fraude ou de confusão patrimonial. Decisão reformada. RECURSO PROVIDO.
+Alegou-se, no especial, violação dos artigos 1.022, 489, 373, II, e 113, § 1º, do Código de Processo Civil e 50 do Código Civil sob os argumentos de que o acórdão local é omisso e que estão preenchidos os requisitos necessários à desconsideração da personalidade jurídica.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Não há, outrossim, argumento em torno do artigo 113, § 1º, do Código de Processo Civil e nem o referido dispositivo legal veicula questão apta a encampar a tese da agravante, o que atrai as disposições do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+No que toca, por fim, à desconsideração da personalidade jurídica, esta Corte Superior tem entendimento de que, pelo direito comum, se exige a prova do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, de modo que o instituto em questão não se compraz com a simples ausência de bens suficiente para a satisfação da dívida, a mera existência de grupo econômico ou mesmo o encerramento irregular das atividades empresariais.
+A saber:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ENCERRAMENTO IRREGULAR DA EMPRESA E AUSÊNCIA DE BENS. EXISTÊNCIA DE GRUPO ECONÔMICO. REQUISITOS INSUFICIENTES. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Consoante entendimento desta Corte Superior, "a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial" (AgInt no AREsp 1,712,305/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/04/2021, DJe de 14/04/2021).
+2. A existência de grupo econômico não autoriza, por si só, a solidariedade obrigacional ou a desconsideração da personalidade jurídica. Precedentes.
+3. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.028.471/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 7/10/2022.)
+O Tribunal local, na hipótese dos autos, consignou que os requisitos necessários "não foram efetivamente demonstrados, tendo o pedido sido fundado, em relação às agravantes, na sua participação no grupo econômico comandado pelo executado Aderbal Luiz Arantes Junior, tendo sido constituídas no intuito de suceder irregularmente as atividades da Premium Foods S/A, devedora principal, que teve suas atividades encerradas sem o pagamento de seus débitos" (e-STJ, fl. 153).
+Concluiu, assim, que os elementos coligidos "não demonstram desvio de finalidade, entendido como o ato intencional do sócio em fraudar terceiros com abuso da personalidade jurídica, ou confusão patrimonial, que, somente se evidenciados, justificariam a pretendida responsabilização da pessoa jurídica de que é sócio o executado, conforme disposto no art. 50 do Código Civil e no art. 133, § 1º, do Código de Processo Civil" (e-STJ, fl. 153).
+O reexame da questão, portanto, encontra as disposições dos verbetes n. 7 e 83 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
