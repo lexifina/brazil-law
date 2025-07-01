@@ -1,0 +1,55 @@
+DECISÃO
+Em petição  de  habeas  corpus,  com  pedido  liminar para a suspender os efeitos da decisão que decretou a prisão preventiva do paciente,  impetrado em favor de  KAIKE SANTOS AMARAL, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça  do  Estado  da Bahia.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática do delito de tráfico de drogas (e-STJ, fl.  24).
+Impetrado  writ  perante  o  Tribunal  de  origem,  que , por decisão monocrática,  indeferiu o pedido liminar no  Habeas  Corpus  n. 8035761-67.2025.8.05.0000.
+A petição expõe a existência de constrangimento ilegal, em razão da ausência de fundamentação idônea para a decretação da prisão preventiva.
+A impetrante alega que " ..  a decisão não apresentou qualquer elemento concreto que indicasse a periculosidade do Paciente ou a necessidade da medida extrema. Não há menção a envolvimento em organização criminosa, a grande quantidade de drogas, a violência empregada, ou a qualquer outro fator que demonstre a real ameaça à ordem pública. A ausência de tais elementos, aliada à inexpressividade da quantidade de droga e à inexistência de antecedentes criminais válidos, revela que a medida imposta é desproporcional e carece de justa causa." (e-STJ, fl. 10).
+No ponto, alega-se também que: "A ausência de antecedentes criminais válidos para fins de justificar a prisão e a pequena quantidade de droga apreendida deveriam ter levado a Autoridade Coatora a uma análise mais detida sobre a real necessidade e adequação da medida imposta, em conformidade com os princípios da proporcionalidade e da intervenção mínima do direito penal." (e-STJ, fl. 12).
+Ademais, pretende a superação do óbice da Súmula 691/STF, ao argumento de que " ..  não há como se exigir do impetrante o aguardo de manifestação colegiada na origem quando o indeferimento da liminar representa, por si só, ofensa direta à jurisdição e ao devido processo legal, mormente em matéria penal, cuja urgência e natureza exigem atuação célere para evitar o agravamento de violações constitucionais." (e-STJ, fl. 6).
+Assim, o pedido especifica-se na revogação da prisão preventiva, com ou sem aplicação de medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal - CPP.
+É, no essencial, o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+Da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ, fls. 18/21):
+In casu, a Impetrante busca liminarmente a soltura do Paciente que se encontra preso desde 21/06/2025, pela suposta prática do crime de tráfico de drogas.
+Numa análise perfunctória e própria deste momento processual, verifica-se, em estágio de cognição incompleta, que a Decisão que homologou a prisão em flagrante e decretou a prisão preventiva do Paciente, após requerimento do Ministério Público e manifestação da Defensoria Pública, apresenta, a priori, lastro legal, com fundamento na regularidade formal da comunicação efetuada pela autoridade policial e na necessidade de acautelar a garantia da ordem pública, considerando os indicativos de reiteração delitiva específica na prática do crime de tráfico de drogas.
+Tem-se, ainda, que o MM. Juiz a quo explicitou, com esteio nos dados do caso concreto, a razão pela qual seria inadequada a aplicação de medidas cautelares diversas da prisão. Confira-se:
+ ..
+É cediço que a concessão de liminar em Habeas Corpus é medida excepcional, apenas cabível na hipótese de flagrante ilegalidade e diante da necessidade e presença do periculum in mora, possibilidade de lesão grave e de difícil ou impossível reparação, como também o fumus boni juris, plausibilidade do direito subjetivo deduzido.
+No caso em análise, não vislumbro, ao menos em sede de cognição sumária, própria desta fase procedimental, os requisitos do fumus boni iuris e do periculum in mora, indispensáveis à concessão do pedido initio litis.
+Ressalte-se que competência funcional do Plantão Judiciário de Segundo Grau é, também, ratione temporis, destinado à apreciação de atos coatores praticados no seu curso ou em situação extraordinária, superior à vontade da parte, devidamente comprovada na petição inicial do writ, sob pena de violação, em tese, dos princípios processuais da livre distribuição por sorteio (art. 43 c/c art. 930 do CPC), do juízo natural (art. 5º, XXXVII e LIII, da CF), da isonomia (art. 5º, caput, da CF), da moralidade e da impessoalidade (art. 37, caput, da CF).
+ ..
+Destarte, na ausência de teratologia manifesta, cinge-se que as alegações e documentos trazidos pela Impetrante indicam uma maior cautela ao signatário, competente para apreciar, tão somente, questões de natureza excepcionalíssima, tornando-se imperativo, nesse momento, indeferir o pedido de liminar postulado, com o fito de submeter a apreciação da ação autônoma impugnativa ao Órgão Competente ordinário, tanto mais porque despontada a ausência do periculum in mora e do fumus boni juris, a recomendar a coleta de maiores informações que possibilitem o julgamento do mandamus.
+Solicitem-se, de logo, informações judiciais à autoridade apontada como coatora, a serem prestadas no prazo de lei.
+Após as providências de praxe, remeta-se o caderno processual à Diretoria de Distribuição de Segundo Grau, para regular distribuição para uma das Turmas Criminais, observada a prevenção, se for o caso.
+Por oportuno, transcreve-se os fundamentos lançados na decisão que decretou a prisão preventiva (e-STJ, fl. 24):
+No que tange à análise da medida cautelar extrema, notadamente quanto à materialidade do crime, verifico que o laudo de constatação juntado aos autos, confeccionado por Perito Criminal, apontou a natureza entorpecente dos materiais apreendidos, os quais, em sua diversidade, quantidade e acondicionamento, denotam, mais do que mero uso para consumo próprio, a finalidade de tráfico e, por conseguinte, a premente necessidade de garantir a ordem pública.
+Outrossim, para além da apreensão realizada, o próprio flagranteado informou que já foi preso por tráfico de drogas, existindo, ainda, outro processo criminal em seu desfavor, contexto fático este que, ao contrário do que almeja a Defesa Técnica, demonstra a periculosidade concreta do agente e, observada a pena máxima em abstrato para o crime de tráfico de drogas, a insuficiência de medidas cautelares outras que não a pretendida pelo Ministério Público.
+Os fundamentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária.
+Com efeito, o Tribunal de origem não verificou de imediato, diante do exame sumário dos elementos que instruem o writ, os requisitos necessários à concessão da medida, entendendo, dessa forma, prudente a juntada das informações da autoridade apontada como coatora para análise do pedido.
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez
+ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. PRISÃO PREVENTIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PRISÃO DOMICILIAR.SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, sob o fundamento de que a matéria não foi previamente examinada pelo Tribunal de origem, em consonância com o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+2. A agravante alega que a paciente é mãe de duas crianças menores de 12anos e que o crime imputado não foi cometido com violência ou grave ameaça, pleiteando a substituição da prisão preventiva por prisão domiciliar.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há flagrante ilegalidade que justifique o afastamento da Súmula n. 691 do STF e a concessão de prisão domiciliar à paciente, mãe de crianças menores, em substituição à prisão preventiva.
+III. Razões de decidir
+4. A decisão monocrática destacou que a apreensão de significativa quantidade e variedade de entorpecentes configura fundamento legítimo para a decretação da prisão preventiva, atendendo aos requisitos de necessidade e adequação.
+5. A ausência de análise pelo Tribunal de origem sobre a substituição da prisão preventiva por domiciliar impede a apreciação direta pela Corte Superior, sob pena de supressão de instância.
+6. Não se verifica flagrante ilegalidade que justifique a superação da Súmula n. 691 do STF, uma vez que a decisão atacada não se revela teratológica.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+ ..
+(AgRg no HC n. 973.004/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+No presente caso, portanto, não se verifica ilegalidade flagrante apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise da matéria meritória.
+Outrossim, o processamento do feito implicaria inevitavelmente supressão de instância.
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com fundamento no art. 210 do RISTJ.
+Cientifique-se o Ministério Público Federal.
+Publique-se
+Intimem-se.
+EMENTA
