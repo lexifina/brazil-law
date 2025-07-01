@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. CONDENAÇÃO TRANSITADA EM JULGADO. DESCABIMENTO. TRÁFICO DE DROGAS. RECONHECIMENTO DA MINORANTE PREVISTA NO ART. 33, §4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. PACIENTE QUE SE DEDICA À ATIVIDADE CRIMINOSA. CONCLUSÃO EXTRAÍDA DAS AÇÕES PENAIS EM CURSO. APLICAÇÃO DO ENTENDIMENTO JURISPRUDENCIAL VIGENTE À ÉPOCA. INVIABILIDADE DE REVISÃO DA INTERPRETAÇÃO ADOTADA. MODIFICAÇÃO DAS CONCLUSÕES DA CORTE ORIGINÁRIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO NÃO PERMITIDO NA VIA ELEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em benefício de Halamo Maesson Nascimento - condenado à pena de 6 anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 dias-multa, pela prática do crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE GOIÁS (Apelação Criminal n. 5341045-94.2020.8.09.0130).
+Com efeito, busca a impetração a aplicação da causa de diminuição de pena referente ao tráfico privilegiado, com a redução da pena imposta ao paciente, ao argumento de que a jurisprudência atual do Superior Tribunal de Justiça não permite o afastamento da referida minorante com base em inquéritos policiais ou ações penais em curso (Tema Repetitivo 1139), não sendo tal fator suficiente para demonstrar a dedicação do paciente às atividades criminosas.
+Liminar indeferida às fls. 82/83.
+Informações prestadas às fls. 89/90, 97/98 e 101/103.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, contudo, pela concessão da ordem de ofício, a fim de que seja aplicada a minorante do tráfico privilegiado (fls. 106/109).
+É o relatório.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. CONDENAÇÃO TRANSITADA EM JULGADO. DESCABIMENTO. TRÁFICO DE DROGAS. RECONHECIMENTO DA MINORANTE PREVISTA NO ART. 33, §4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. PACIENTE QUE SE DEDICA À ATIVIDADE CRIMINOSA. CONCLUSÃO EXTRAÍDA DAS AÇÕES PENAIS EM CURSO. APLICAÇÃO DO ENTENDIMENTO JURISPRUDENCIAL VIGENTE À ÉPOCA. INVIABILIDADE DE REVISÃO DA INTERPRETAÇÃO ADOTADA. MODIFICAÇÃO DAS CONCLUSÕES DA CORTE ORIGINÁRIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO NÃO PERMITIDO NA VIA ELEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+VOTO
+De início, verifica-se que, além da impetração apresentada neste writ ter nítidas feições de revisão criminal, porquanto já houve o trânsito em julgado da condenação imposta ao paciente - o que denota flagrante impropriedade do meio processual ora utilizado -, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus e a consequente superação do óbice constatado.
+Isso porque, em relação à incidência do redutor do tráfico privilegiado, observa-se que a Corte estadual afastou a aplicação da benesse mediante os seguintes fundamentos (fl. 15):
+  Inviável o reconhecimento do tráfico privilegiado, tendo em vista que em desfavor do apelante consta outras ações penais em andamento no Estado do Tocantins, inclusive pela prática de crime doloso contra a vida, evidenciando que o réu se dedica a atividades criminosas.
+A fundamentação adotada pelo Tribunal a quo encontra-se em consonância com o posicionamento firmado pelo Superior Tribunal de Justiça à época do julgamento do recurso de apelação (em 16/5/2022 - fl. 16, com trânsito em jugado em 6/6/2022 - fl. 78), no sentido de que seria possível a utilização de inquéritos policiais e ações penais em curso, para concluir que o acusado se dedicava ao crime e, por consequência, afastar a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n.11.343/2006, o que somente foi alterado com o julgamento do Tema Repetitivo 1139, no mês de agosto de 2022 (REsp n. 1.977.027/PR, Ministra Laurita Vaz, Terceira Seção, DJe de 18/8/2022).
+Logo, não se torna possível aplicar o novo entendimento consagrado por esta Corte, de forma retroativa, uma vez que a mudança de entendimento jurisprudencial, superveniente ao trânsito em julgado da sentença condenatória, não autoriza a revisão da aplicação da pena (AgRg nos EDcl no RHC n. 179.116/PB, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 19/10/2023).
+Sem olvidar, ainda, que o reexame do conteúdo probatório dos autos, para modificar o entendimento do Tribunal de origem sobre a dedicação do réu à atividade criminosa, é inadmissível em sede de habeas corpus (AgRg no HC n. 947.191/BA, Ministro Ribeiro Dantas, Quinta Turma, DJe de 23/12/2024).
+Em face do exposto, denego a ordem.
