@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Continuidade delitiva. Desígnios autônomos. SÚMULA N. 7/STJ. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, mantendo a condenação por homicídios consumados e tentados em concurso material, sem reconhecimento de continuidade delitiva.
+2. O Tribunal de origem afastou a continuidade delitiva ao entender que as práticas delitivas envolveram desígnios autônomos, evidenciando que o réu buscou matar integrantes de gangue rival no curso de disputa pelo tráfico de drogas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível reconhecer a continuidade delitiva entre os crimes de homicídio consumados e tentados, considerando a alegação de que o Tribunal de origem teria avaliado equivocadamente as provas.
+III. Razões de decidir
+4. O Tribunal de origem concluiu que os crimes foram praticados com desígnios autônomos, afastando a continuidade delitiva, o que impede a revisão fático-probatória em sede de recurso especial, conforme Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+5. Agravo desprovido.
+Teses de julgamento: "1. A continuidade delitiva exige a presença de requisitos objetivos e subjetivos, incluindo unidade de desígnios, não configurada quando os crimes são praticados com desígnios autônomos. 2. A revisão de matéria fático-probatória é vedada em recurso especial, conforme Súmula 7 do STJ".
+Dispositivos relevantes citados: CP, art. 71; CPC, art. 932, III; RISTJ, art. 34, XVIII, "a".
+Jurisprudência relevante citada: STJ, AgRg no REsp 2.054.335/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2024; STJ, AgRg no AREsp 2.317.878/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADEMAR RODRIGUES DE SOUZA contra decisão desta relatoria que conheceu do agravo em recurso especial para não conhecer do apelo especial, com fundamento nos arts. 932, III, do Código de Processo Civil - CPC e 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça - RISTJ (FLS. 1920/1924).
+A defesa sustenta que "o questionamento acerca do crime continuado não demanda reexame de prova. O que, na verdade, ocorreu foi uma avaliação equivocada das provas por parte do juízo a quo e do TJMG, o que deu ensejo a condenação e, consequentemente, sua confirmação nos mesmos termos pelo tribunal" (fl. 1931).
+Por fim, insiste na alegação de que deve ser reconhecida a continuidade delitiva entre os crimes de homicídios, dois consumados e quatro tentados, nos termos dispostos no art. 71 do Código Penal - CP.
+Pleiteia o provimento do agravo regimental para que seja dado provimento ao recurso especial a fim de que o concurso material de crimes seja afastado.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Continuidade delitiva. Desígnios autônomos. SÚMULA N. 7/STJ. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, mantendo a condenação por homicídios consumados e tentados em concurso material, sem reconhecimento de continuidade delitiva.
+2. O Tribunal de origem afastou a continuidade delitiva ao entender que as práticas delitivas envolveram desígnios autônomos, evidenciando que o réu buscou matar integrantes de gangue rival no curso de disputa pelo tráfico de drogas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível reconhecer a continuidade delitiva entre os crimes de homicídio consumados e tentados, considerando a alegação de que o Tribunal de origem teria avaliado equivocadamente as provas.
+III. Razões de decidir
+4. O Tribunal de origem concluiu que os crimes foram praticados com desígnios autônomos, afastando a continuidade delitiva, o que impede a revisão fático-probatória em sede de recurso especial, conforme Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+5. Agravo desprovido.
+Teses de julgamento: "1. A continuidade delitiva exige a presença de requisitos objetivos e subjetivos, incluindo unidade de desígnios, não configurada quando os crimes são praticados com desígnios autônomos. 2. A revisão de matéria fático-probatória é vedada em recurso especial, conforme Súmula 7 do STJ".
+Dispositivos relevantes citados: CP, art. 71; CPC, art. 932, III; RISTJ, art. 34, XVIII, "a".
+Jurisprudência relevante citada: STJ, AgRg no REsp 2.054.335/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2024; STJ, AgRg no AREsp 2.317.878/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023.
+VOTO
+O recurso não merece provimento.
+Não há argumentos capazes de afastar o contido no decisum agravado.
+Como consignado, sobre a violação ao art. 71 do CP, o Tribunal de origem afastou o reconhecimento da continuidade delitiva nos seguintes termos do voto do relator (grifos nossos):
+"No mérito, rogo vênia aos il. Defensores para manter o entendimento já constante da ação penal que resultou na condenação do interessado, pois entendo que as práticas delitivas perpetradas envolveram desígnios autônomos, pois evidenciado que o réu buscou matar integrantes de gangue rival, no curso da disputa pelo tráfico ilícito de drogas.
+Colhe-se do acervo de provas, já examinado no feito de origem, que havia rivalidade entre grupos que atuavam na mercancia ilícita de drogas exercida na região do bairro Cabana, em Belo Horizonte, cuidando-se de agremiações que se valiam de armas de fogo para assegurar domínio territorial, sendo noticiadas inúmeras execuções entres os desafetos.
+Ainda nos termos do plexo probatório coletado, o condenado e outros envolvidos, alguns já falecidos, promoveram uma emboscada, atraindo um dos líderes do grupo opositor até beco da comunidade, oportunidade em que realizados inúmeros disparos com armas de fogo, violência que resultou na morte de dois indivíduos e ferimentos em outros quatro.
+Em minha singela opinião, o elemento subjetivo do réu se voltou à morte de todos os integrantes da gangue rival, já procurados há certo tempo para ajuste de contas, sem que tenha havido desdobramento natural do primeiro delito, com consequente concretização de outras infrações penais.
+Aquilata-se do caso em exame cuidar-se de indivíduos envolvidos com a criminalidade, ajustados para a consecução de crimes de toda sorte, concretizados de forma autônoma e que somente foram julgados em um mesmo feito, em virtude de conexão e continência, entendimento já constante da apreciação técnica que foi conferida às condutas, ainda na ação penal.
+De fato, por ocasião do lançamento da condenação, e em sede da Apelação Criminal, afirmaram os doutos Julgadores não comportar a espécie qualquer outra interpretação, senão aquela de que as infrações devem ser havidas como independentes entre si, pois os delitos subsequentes guardam autonomia em relação à primeira prática criminosa, no que tange ao elemento subjetivo que moveu o interessado." (fls. 1826/1827)
+Extrai-se dos trechos acima que o Tribunal de origem julgou improcedente a revisão criminal por entender "que as práticas delitivas perpetradas envolveram desígnios autônomos, pois evidenciado que o réu buscou matar integrantes de gangue rival, no curso da disputa pelo tráfico ilícito de drogas" (fl. 1826). De fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do STJ. No mesmo sentido, citam-se precedentes:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TESE DE RECONHECIMENTO DA TEMPESTIVIDADE. VERIFICAÇÃO. OCORRÊNCIA. MÉRITO DO RECURSO ESPECIAL. HOMICÍDIO SIMPLES CONSUMADO E HOMICÍDIO SIMPLES TENTADO EM CÚMULO MATERIAL. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 59, 65, III, D, E 71, TODOS DO CP. PLEITO DE REDUÇÃO DA PENA-BASE. IMPROCEDÊNCIA. FUNDAMENTOS CONCRETOS APLICADOS PELAS INSTÂNCIAS ORDINÁRIAS NA VALORAÇÃO DOS VETORES JUDICIAIS. PEDIDO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. INVIABILIDADE. NECESSÁRIA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. CONFISSÃO ESPONTÂNEA QUALIFICADA. ATENUAÇÃO OBRIGATÓRIA, AINDA QUE NÃO CONSIDERADA COMO SUPORTE DA CONDENAÇÃO. JURISPRUDÊNCIA DA QUINTA TURMA. RESP 1.972.098/SC, DJE 20/6/2022. PENA PRIVATIVA DE LIBERDADE REDIMENSIONADA.
+ ..
+6. Quanto à aludida violação do art. 71 do Código Penal, a Corte a quo asseverou que foi reconhecido o concurso material de crimes, somando-se as penas, que totalizaram 12 anos e 08 meses de reclusão.  ..  Note-se que os fatos tratados nestes autos, por si, se afastam do crime continuado, ficção jurídica, reservado a hipóteses preestabelecidas. Os crimes foram praticados, embora em um mesmo contexto, contra vítimas diversas, partindo de desígnios manifestamente autônomos, nascido cada um ao seu tempo, nada indicando que o crime subsequente seja um mero desdobramento, já antes subjetivamente calculado, da primitiva situação criada pelo primeiro dos crime (fl. 901).
+7. O Tribunal de origem, diante da análise do contexto fático-probatório, verificou que não era a hipótese de aplicação da continuidade delitiva, notadamente ao aferir que os desígnios foram autônomos. Alterar o quanto disposto no guerreado aresto está impossibilitado diante do óbice constante da Súmula 7/STJ.
+8. Agravo regimental provido para reconhecer a tempestividade do recurso especial e, nessa extensão, dar-lhe parcial provimento para, tão somente, reconhecer a atenuante da confissão espontânea, e, assim, redimensionar a pena privativa de liberdade do recorrente.
+(AgRg no REsp n. 2.054.335/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DUPLO HOMICÍDIO, TENTADO E CONSUMADO. CONDENAÇÃO CONFIRMADA PELO TRIBUNAL A QUO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. VIOLAÇÃO Á DISPOSITIVOS CONSTITUCIONAIS. INCOMPETÊNCIA DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DO NECESSÁRIO COTEJO ANALÍTICO. NULIDADES. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO E PRECLUSÃO CONSUMATIVA. DECISÃO CONTRÁRIA ÀS PROVAS DOS AUTOS. LEGÍTIMA DEFESA. DESISTÊNCIA VOLUNTÁRIA. NECESSIDADE DE INCURSÃO NO CONJUNTO PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA DA PENA. FIXAÇÃO NOS TERMOS DA JURISPRUDÊNCIA DO STJ. CONTINUIDADE DELITIVA. RECONHECIMENTO DE DESÍGNOS AUTÔNOMOS. CONCURSO MATERIAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+13. Por fim, quanto ao pleito de continuidade delitiva, temos que o Superior Tribunal de Justiça, enfrentando igual questão à ora debatida, firmou o entendimento no sentido de que descabe falar em continuidade delitiva, pois o Colegiado a quo reconheceu que a conduta dolosa do ora agravante deriva de desígnios autônomos (CP, art. 70, parágrafo único), o que implica soma das penas, nos moldes do concurso material (AgRg no HC n. 524.533/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022).
+14. As instâncias ordinárias, ao analisarem o conjunto fático-probatório dos autos, reputaram que os crimes não foram praticados em unidade de desígnios, a justificar a aplicação do crime continuado.
+15. Verifica-se, portanto, que, com base nos fatos e circunstâncias apurados nos autos, apesar de serem semelhantes as condições de tempo e de lugar, a prática dos delitos ocorreu sem o necessário requisito da unidade de desígnios, ou o liame subjetivo, previsto na teoria objetivo-subjetiva. Nesse sentido, o acórdão impugnado está em conformidade com a jurisprudência desta Corte, segundo a qual é imprescindível, para a caracterização da continuidade delitiva, a presença de requisitos de ordem objetiva (crimes de mesma espécie e mesmas condições de tempo, lugar e forma de execução) e de ordem subjetiva (unidade de desígnios, ou liame subjetivo entre os eventos). Afastar tal conclusão exigiria análise aprofundada de matéria fático-probatória, vedado pelo óbice da Súmula 7/STJ.
+16. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.317.878/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
