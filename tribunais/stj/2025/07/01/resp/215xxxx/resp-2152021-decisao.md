@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo SERVIÇO NACIONAL DE APRENDIZAGEM RURAL - SENAR contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+APELAÇÃO CÍVEL. JULGAMENTO NÃO UNÂNIME. SUBMISSÃO AO ART. 942 DO CPC/15. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DA CPRB. CABIMENTO. PRECEDENTES DOS TRIBUNAIS SUPERIORES. RESTITUIÇÃO DOS VALORES INDEVIDAMENTE RECOLHIDOS NOS ÚLTIMOS CINCO ANOS POR MEIO DE PRECATÓRIO. CABIMENTO. REMESSA OFICIAL E APELAÇÕES DA UNIÃO E DO SENAR DESPROVIDAS. APELAÇÃO DA IMPETRANTE PROVIDA.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 903/925):
+O acórdão recorrido deu intepretação diversa daquela atribuída pelo TRF-4 à questão federal discutida nesse processo em violação aos arts. 12, caput e §5º do DL 1.598/77 e arts. 22-A, incisos I e II e §5º da Lei 8.212/91, razão por que a Recorrente interpõe o presente recurso especial que requer seja provido para que, sanando-se a divergência jurisprudencial apontada, seja reconhecida a possibilidade de inclusão do ICMS nas bases de cálculo da contribuição devida pela Agroindústria e da contribuição ao SENAR.
+Com contrarrazões da parte recorrida, o recurso foi admitido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 861/866):
+A controvérsia posta em debate cinge-se à exclusão do ICMS da base de cálculo da Contribuição Previdenciária sobre a Receita Bruta (CPRB).
+O Plenário do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 574.706/PR, fixou o Tema 69 de Repercussão Geral no sentido de que o ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS.
+Outrossim, a Primeira Seção do Superior Tribunal de Justiça, em julgamento sob o rito dos recursos repetitivos, exarou a tese de que os valores de ICMS não integram a base de cálculo da Contribuição Previdenciária sobre a Receita Bruta (CPRB), instituída pela Medida Provisória 540/2011, convertida na Lei 12.546/2011 (Tema 994).
+O Superior Tribunal de Justiça, no mesmo sentido da decisão do Supremo Tribunal Federal no Recurso Extraordinário nº 574.706, entendeu que o valor de ICMS não deve integrar a base de cálculo da Contribuição Previdenciária sobre a Receita Bruta, uma vez que não se incorpora ao patrimônio do contribuinte, constituindo mero ingresso de caixa, cujo destino final são os cofres públicos. Confira-se excerto do supracitado julgado do STJ:  ..
+Assim, em observância às teses firmadas pelo STF (Tema 69) e pelo STJ (Tema 994), revejo meu posicionamento anterior, e passo a adotar o entendimento de que os valores de ICMS não integram a base de cálculo da Contribuição Previdenciária sobre a Receita Bruta (CPRB).
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 1245/1248):
+Cabe apenas acolher parcialmente os embargos de declaração da União para explicitar que: "o julgamento do Tema 1.048 pelo STF não altera o entendimento acerca da exclusão do ICMS da base de cálculo da contribuição à agroindústria. Isso porque trata-se de contribuição que incide sobre faturamento, não sendo considerado benefício fiscal.
+Pois bem.
+O recurso deve ser provido porque o acórdão recorrido contraria a tese definida pelo Supremo Tribunal Federal no RE 1.187.264/SP (tema 1.048), segundo a qual é constitucional a inclusão dos valores de ICMS na base de cálculo da Contribuição Previdenciária sobre a Receita Bruta - CPRB, independentemente de o regime de recolhimento da contribuição ser obrigatório ou facultativo; entendimento que se aplica à contribuição destinada ao Serviço Nacional de Aprendizagem Rural - SENAR.
+A respeito, entre outros, pelo STF: RE 1519850 AgR, Relator Ministro Gilmar Mendes, Segunda Turma, julgado em 16-12-2024, DJe-s/n; RE 1490009 AgR, Relator Ministro Dias Toffoli, Segunda Turma, julgado em 01-07-2024, DJe-s/n; RE 1478196 AgR, Relator Ministro Alexandre De Moraes, Primeira Turma, julgado em 15-04-2024; ARE 1395514 AgR, Relator Ministro Alexandre De Moraes, Primeira Turma, julgado em 14-11-2022, DJe-233.
+Ante o exposto, dou provimento ao recurso especial para julgar improcedente o pedido autoral, com a denegação do mandado de segurança, nos termos do art. 487, inc. I, do Código de Processo Civil - CPC/2015, e do art. 6º, § 5º, da Lei n. 12.016/2009.
+Custas pela parte impetrante. Sem honorários advocatícios, conforme determina o art. 25 da Lei n. 12.016/2009.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INCLUSÃO DE ICMS NA BASE DE CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA - CPRB. ACÓRDÃO RECORRIDO CONTRÁRIO A TESE DEFINIDA PELO SUPREMO TRIBUNAL FEDERAL (TEMA 1.048). RECURSO PROVIDO.
