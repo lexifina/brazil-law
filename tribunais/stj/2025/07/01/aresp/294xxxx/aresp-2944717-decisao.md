@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de omissão e da incidência das Súmulas n. 5, 7 e 83 do STJ (fls. 980-983).
+Após decisão desta Corte determinando o retorno dos autos (fls. 668-672), o acórdão recorrido encontra-se assim ementado (fl. 748):
+APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO PESSOAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO. DETERMINAÇÃO DE NOVO EXAME DA MATÉRIA. NO CASO CONCRETO, OBSERVADA A HIPOSSUFICIÊNCIA DA CONSUMIDORA, EM RAZÃO DA SUA RENDA, E A GARANTIA DA CONTRATAÇÃO, DIANTE DOS DESCONTOS DAS PARCELAS DEVIDAS DIRETAMENTE NA FOLHA DE PAGAMENTO DA PARTE AUTORA, ALIADAS À ABUSIVIDADE DOS JUROS REMUNERATÓRIOS, OS QUAIS FORAM FIXADOS EM PERCENTUAL SUPERIOR AO TRIPLO DA TAXA PREVISTA PELO BACEN, A LIMITAÇÃO DOS JUROS, IMPOSTA NA SENTENÇA E MANTIDA POR ESTE COLEGIADO, É MEDIDA QUE SE IMPÕE.
+ACÓRDÃO DO EVENTO 8 MANTIDO, EM JUÍZO DE RETRATAÇÃO
+UNÂNIME.
+Os embargos de declaração foram rejeitados (fls. 771-774).
+Nas razões do recurso especial (fls. 781-800), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, porque (fls. 789-790):
+O acórdão recorrido, no entanto, limitou-se novamente a estabelecer como fundamento principal a comparação entre a taxa média divulgada pelo BACEN e a taxa praticada no caso concreto  ..
+a decisão incorre em flagrante violação do artigo 1.022, inciso II, do CPC, não só em razão de o expresso pronunciamento quanto as questões arroladas ser imprescindível para o julgamento da matéria (conforme jurisprudência do STJ), mas também porque o dever de expresso enfrentamento quanto as matérias indicadas nos embargos declaratórios decorre de comando expresso do Superior Tribunal de Justiça, oriundo de decisão proferida nos autos deste processo que determinou expressamente qual matéria deveria ser objeto de enfrentamento no caso concreto.
+(ii) art. 51, IV, e § 1º, III, do CDC, pois (fl. 793):
+O acórdão recorrido não atendeu a essas diretrizes traçadas pelo leading case das ações revisionais bancárias REsp 1.061.530-RS, na medida em que não procedeu a avaliação de todas essas circunstâncias, tendo se limitado a proceder comparação entre taxas (método insuficiente para averiguação de abusividade) e a realizar simples e superficial menção de peculiaridades pontuais da contratação, insuficientes ao atendimento da exigência de demonstração cabal da abusividade
+No agravo (fls. 991-1.012), a agravante afirma a presença dos requisitos de admissibilidade do especial.
+Requereu a suspensão do processo pelo decreto da liquidação extrajudicial e o deferimento da gratuidade de justiça.
+Contraminuta não apresentada (fl. 1.064).
+É o relatório.
+Decido.
+Da suspensão do processo
+O entendimento desta Corte é de que a norma inscrita no art. 18 da Lei n. 6.024/1974 "não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito" (AgInt no REsp n. 1.985.667/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022).
+No mesmo sentido: AgInt no REsp n. 1.969.577/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; AgInt no REsp n. 1.783.833/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/10/2020, DJe de 27/10/2020.
+A ação revisional de contrato demanda quantia ilíquida, razão pela qual não se justifica a suspensão do processo.
+Da justiça gratuita
+O pleito de gratuidade da justiça nesta fase recursal em nada aproveitaria à parte, tendo em vista que tanto o agravo em recurso especial quanto o agravo interno independem de recolhimento de custas.
+Além disso, embora a parte possa fazer o pedido a qualquer tempo, tendo como justificativa sua condição econômico-financeira, segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, a concessão do benefício somente produzirá efeitos ex nunc, não sendo admitida, portanto, sua retroatividade.
+Nesse sentido, os seguintes precedentes: EDcl nos EDcl no AgInt no AREsp n. 1.724.775/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, j. 25/10/2021, DJe 28/10/2021; e EDcl no AgInt no AREsp n. 1.704.464/SP, de minha relatoria, Quarta Turma, j. 9/8/2021, DJe 13/8/2021.
+Da afronta ao art. 1.022, II, do CPC/2015
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à análise das circunstâncias do caso concreto, o Tribunal de origem assim se manifestou (fls. 746-747):
+Diante da garantia dessa modalidade, uma vez que os descontos das parcelas são realizados diretamente na folha de pagamento da parte contratante todos os meses, inexistindo risco de inadimplência, as taxas de juros devem ser fixadas em percentuais inferiores às modalidades que não possuem tal garantia, como os contratos de empréstimo não consignados, por exemplo.
+No entanto, situação diversa se observa dos autos.
+Da Cédula de Crédito Bancário nº 3812041059 verifica-se que foram cobrados juros remuneratórios de 3,90% ao mês e 58,25% ao ano; enquanto em novembro de 2020, época da contratação, a taxa média prevista para o crédito pessoal consignado para trabalhadores do setor público era de 1,24% ao mês e 15,87% ao ano.
+O mesmo ocorre na Cédula de Crédito Bancário nº 3812821719, uma vez que foram cobrados juros remuneratórios de 4,14% ao mês e 62,77% ao ano; enquanto em março de 2021, época da contratação, a taxa média prevista para o crédito pessoal consignado para trabalhadores do setor público era de 1,27% ao mês e 16,29% ao ano.
+Constata-se, portanto, que foram aplicados juros superiores ao triplo da taxa média prevista pelo Banco Central.  ..
+Desse modo, no caso concreto, observada a hipossuficiência da consumidora e a garantia da contratação, diante dos descontos das parcelas devidas na folha de pagamento da parte autora, aliadas à abusividade dos juros remuneratórios, os quais foram fixados em percentual superior ao triplo da taxa prevista pelo Bacen, a limitação dos juros, imposta na sentença e mantida por este Colegiado, é medida que se impõe.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Da afronta ao art. 51, IV, e § 1º, do CDC e do dissídio jurisprudencial respectivo
+Conforme visto, a Corte local entendeu pela abusividade da taxa de juros no caso concreto, fundamentando seu entendimento.
+No julgamento do recurso de apelação, o Tribunal de origem, mantendo a sentença quanto ao cabimento da limitação do encargo e observada a Série Temporal n. 25.467 (Crédito pessoal consignado para trabalhadores e pensionistas do setor público), entendeu que houve excesso na pactuação dos juros, conforme consta da fl. 746.
+Assim, levou em conta as peculiaridades do caso, especialmente os caracteres distintivos da modalidade da operação de crédito contratada e o nível de risco envolvido no referido mútuo, além da ausência de comprovação do alegado pela parte recorrente, ônus que lhe incumbia.
+Trata-se de mútuo bancário na modalidade de consignação em pagamento, o que reduz significativamente o risco de inadimplência, conforme esclarecido na exposição de motivos da medida provisória que dispõe sobre a autorização para desconto de prestações em folha de pagamento:
+ ..  um dos principais componentes do elevado custo dos empréstimos e financiamentos disponíveis aos cidadãos está relacionado ao risco potencial de inadimplência por parte dos tomadores. Tais riscos são estimados pelas instituições financeiras com base em modelos estatísticos próprios, e repassados às taxas de juros exigidas nas diversas formas de crédito oferecidas à clientela.
+ ..  a possibilidade de consignação das prestações em folha de pagamento, em caráter irrevogável e irretratável, por parte do empregado, virtualmente elimina o risco de inadimplência nessas operações, permitindo a substancial redução deste componente na composição das taxas de juros cobradas (EM Interministerial n. 176, de 16/9/2003.)
+Por sua vez, a Segunda Seção do STJ, ao julgar o Recurso Especial n. 1.877.113/SP, esclareceu que "o empréstimo consignado apresenta-se como uma das modalidades de empréstimo com menores riscos de inadimplência para a instituição financeira mutuante, na medida em que o desconto das parcelas do mútuo dá-se diretamente na folha de pagamento do trabalhador regido pela CLT, do servidor público ou do segurado do RGPS (Regime Geral de Previdência Social), sem nenhuma ingerência por parte do mutuário/correntista, o que, por outro lado, em razão justamente da robustez dessa garantia, reverte em taxas de juros significativamente menores em seu favor, se comparado com outros empréstimos" (relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 9/3/2022, DJe de 15/3/2022).
+Sob esse aspecto, apesar dos baixos riscos envolvidos na operação contratada pela parte agravada, foram pactuadas taxas de juros muito superiores à média do mercado.
+Nesse contexto, o Tribunal de origem decidiu em conformidade com a jurisprudência firmada no julgamento de recurso especial repetitivo, segundo a qual "é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
