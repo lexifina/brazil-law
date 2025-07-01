@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO E PORTE DE ARMA DE FOGO. RECEBIMENTO DA DENÚNCIA. VIOLAÇÃO DOS ARTS. 396 DO CPP E 14 DA LEI N. 10.826/2003. PRINCÍPIO DA CONSUNÇÃO. ARESTO ATACADO QUE CONCLUIU NO SENTIDO DA AUTONOMIA DAS CONDUTAS. REVISÃO. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Luiz Felipe Silva Santos contra a decisão monocrática de minha lavra, assim ementada (fl. 724):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO E PORTE DE ARMA DE FOGO. RECEBIMENTO DA DENÚNCIA. VIOLAÇÃO DOS ARTS. 396 DO CPP E 14 DA LEI N. 10.826/2003. PRINCÍPIO DA CONSUNÇÃO. ACÓRDÃO APONTA INDÍCIOS DE AUTONOMIA DAS CONDUTAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Nas razões, o agravante aduziu que a pretensão veiculada no recurso não demanda reexame de matéria probatória, mas tão somente a revaloração objetiva dos elementos consistentes em acórdão (fl. 735). Reiterou os argumentos a respeito da inexistência de elementos probatórios que indiquem uso da arma em outras atividades criminosas, pugnando, ao final pela reforma da decisão agravada.
+É o relatório
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO E PORTE DE ARMA DE FOGO. RECEBIMENTO DA DENÚNCIA. VIOLAÇÃO DOS ARTS. 396 DO CPP E 14 DA LEI N. 10.826/2003. PRINCÍPIO DA CONSUNÇÃO. ARESTO ATACADO QUE CONCLUIU NO SENTIDO DA AUTONOMIA DAS CONDUTAS. REVISÃO. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+A insurgência defensiva não merece acolhida.
+Conforme apontado na decisão agravada, a tese referente à violação dos arts. 396 do Código de Processo Penal e 14 da Lei n. 10.826/2003 encontra óbice na Súmula 7/STJ.
+Para elucidação do quanto requerido, impõe-se a extração dos seguintes fundamentos utilizados pela Corte de origem para receber integralmente a denúncia, afastando, por ora, princípio da consunção (fls. 641/643 - grifo nosso):
+ ..
+Antes de adentrar ao mérito recursal, insta salientar que, neste momento processual, o exame pertinente é tão somente aquele relativo aos requisitos para o recebimento da denúncia, já que a análise das provas acerca do cometimento dos delitos imputados ao réu deve ficar para um segundo instante no feito.
+Aqui, portanto, avalia-se apenas se resta comprovada a materialidade delitiva e se existem os indícios mínimos de autoria para o oferecimento e o recebimento da referida peça acusatória, seja em sua integralidade ou parcialmente.
+Como se observa da peça acusatória, vê-se que esta é explícita, indigitando de forma precisa os tipos penais imputados ao acusado, descrevendo os fatos criminosos com todas as suas circunstâncias, individualizando as condutas praticadas por ele e requerendo a condenação dele na medida de sua participação na investida delituosa, ou seja, cumprindo todos os requisitos para o seu recebimento e afastando, de logo, quaisquer dos motivos previstos no art. 395, do CPP, que importaria em sua rejeição.
+Quanto à necessidade de aplicação do princípio da consunção, o Juiz de 1º grau consignou na decisão de rejeição parcial da denúncia os fundamentos transcritos alhures que, em síntese, enfatizam: "(..) a denúncia contém apenas a narrativa referente ao momento da execução do homicídio, quando o acusado saca a arma e efetua os disparos contra a vítima. Assim, ante a ausência de narrativa de contexto autônomo para o crime de porte ilegal de arma de fogo na denúncia, conforme determina o art. 41 do Código de Processo Penal, resta inviável a acusação pelo crime do art. 14 da Lei 10.826/2003. (..)"
+A fim de dirimir tal questão, torna-se necessário verificar se há justa causa para considerar que o porte de arma de fogo constituiu-se, então, como crime meio para a consecução do delito de tentativa de homicídio (crime fim) ou, ainda, se a referida conduta constitui-se como um crime autônomo.
+Observando o acervo probatório carreado aos autos, percebe-se que há justa causa para considerar que o delito de porte ilegal de arma de fogo pode se configurar como autônomo, tendo em vista o fato de o acusado/agravado já ser investigado pela prática de diversos crimes, como organização criminosa voltada para o tráfico de drogas e outros delitos.
+Acrescente-se, também, que a autoria do crime objeto da presente ação penal (processo nº 202020500326) só foi desvendada a partir de prova emprestada produzida no Juízo da Comarca de Carira, no âmbito de investigação de atuação da organização criminosa PCC - Primeiro Comando da Capital. Ou seja, não há dúvidas de que o réu/recorrido utilizava, à época dos fatos delituosos aqui em questão, arma de fogo de maneira contumaz.
+Diante disso, entendo que há indícios de que a arma utilizada pelo agravado não teria sido adquirida única e exclusivamente, então, para a prática do delito de tentativa de homicídio em apreço.
+É forçoso concluir que os atos ocorridos anteriormente ao ato delitógeno em questão e relativos ao porte ilegal de arma de fogo, sem qualquer relação ao objetivo homicida, não podem ser considerados como crime meio, mas, sim, como delito autônomo, a ser julgado, em sendo o caso, em concurso material com a tentativa de homicídio qualificado, como determina a redação do art. 69, do CP.
+ ..
+Ademais, importante registrar, ainda, que impossível se torna a aplicação do princípio da consunção em relação ao delito de porte ilegal de arma de fogo, neste momento processual, uma vez que, ante a presença de indícios mínimos da prática da referida infração penal, competirá ao Juiz de 1º grau, quando da prolação da decisão de pronúncia após a instrução processual, ou ao Conselho de Sentença, uma vez tendo sido o réu pronunciado, com o reconhecimento do concurso material, interpretar as provas que irão ser colhidas durante a instrução processual, cabendo a esse ou ao Juiz Presidente a aplicação de tal princípio.
+Portanto, o que interessa agora é tão somente a demonstração da materialidade e os indícios de autoria. E, não havendo justificativa evidente e plausível a afastar a acusação relativa ao porte de arma, há que ser recebida a denúncia em sua integralidade.
+ ..
+No caso, o Tribunal de origem entendeu que, aparentemente, não há relação de subordinação e dependência entre os crimes de porte ilegal de arma de fogo com o crime de homicídio qualificado tentado, porquanto há indícios de que a arma utilizada pelo agravado não teria sido adquirida única e exclusivamente, então, para a prática do delito de tentativa de homicídio em apreço (fl. 642).
+Com efeito, para a jurisprudência do Superior Tribunal de Justiça, tendo a Corte de origem, soberana na análise das provas dos autos, concluído, fundamentadamente, pela existência de justa causa para o recebimento da denúncia e prosseguimento da ação penal, porquanto presentes indícios mínimos de autoria e prova da materialidade de possíveis crimes autônomos de homicídio qualificado tentado e porte de arma de fogo, o acolhimento das razões recursais demandaria necessária incursão no acervo fático-probatório dos autos, o que não se admite na via do recurso especial, em razão do óbice consubstanciado na Súmula 7/STJ.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. REJEIÇÃO PARCIAL DA DENÚNCIA ANTE A APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. DEMONSTRAÇÃO DE INDÍCIOS DA AUTÔNOMIA DAS CONDUTAS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não há elementos suficientes para reconsiderar a decisão proferida.
+2. Reforço a orientação desta Corte de acordo com a qual "cabe ao conselho de sentença o reconhecimento da incidência do princípio da consunção do delito de porte ilegal de arma de fogo de uso permitido pelo delito de homicídio". Precedentes.
+3. Para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação desta Corte.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.323.116/SE, Ministra Daniela Teixeira, Quinta Turma, julgado em 18/6/2024, DJe 24/6/2024).
+Ante o exposto, nego provimento ao agravo regimental.
