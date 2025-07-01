@@ -1,0 +1,33 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar para conceder ao paciente a liberdade provisória, impetrado em favor de Thiago Moreira da Silva, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+O paciente foi preso em flagrante, convertido em preventiva, pela suposta prática do crime de tráfico de drogas.
+A petição expõe a existência de constrangimento ilegal alegando que o paciente é portador de atraso mental leve, vive em extrema vulnerabilidade social, não possui histórico de envolvimento com facções ou crimes violentos e encontra-se recolhido no CDP de Taubaté, em área reservada para pessoas com distúrbios mentais.
+Alega também que não foram encontrados instrumentos que evidenciem habitualidade criminosa, como balança de precisão, dinheiro em espécie ou anotações típicas da traficância, e que o paciente permaneceu em silêncio por orientação e medo de retaliações, demonstrando fragilidade emocional.
+Aduz que o paciente está preso há quase dois meses sem designação de audiência de instrução, configurando excesso de prazo para a formação da culpa, violando os princípios da razoabilidade, proporcionalidade e dignidade da pessoa humana.
+Afirma que a prisão preventiva é medida excepcional e deve ser pautada por fundamentos concretos, o que não se verifica no caso, e que a manutenção da prisão de pessoas com deficiência mental sem fundamentação específica e sem acesso a tratamento adequado configura constrangimento ilegal.
+Assim, o pedido especifica-se na revogação da prisão preventiva do paciente, com ou sem a imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido (fls. 140-143).
+Foram prestadas informações (fls. 148-165).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+De início, verifica-se que o alegado excesso de prazo na formação da culpa não foi submetido à análise do Tribunal de origem, o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+No mais, a prisão preventiva do paciente foi assim decretada (fls. 64-65):
+Há prova inequívoca da materialidade do crime e indícios suficientes de autoria demonstrados pelas provas coligidas em solo policial.
+Presente o requisito do perigo gerado pelo estado de liberdade do imputado, pois o crime em discussão, embora não envolva violência ou grave ameaça e inobstante a primariedade do custodiado, foi praticado mediante circunstâncias que denotam, numa primeira análise, que o investigado exerce o tráfico de drogas com habitualidade, até porque, foi surpreendido na posse de farta e variada quantidade de entorpecentes (314 pedras de crack, 437 "eppendorfs" contendo cocaína, 4 tijolos de maconha - auto de exibição e apreensão fls. 25/26).
+Por fim, lhe é imputado crime extremamente gravoso, ao qual está a permear e desestruturar a sociedade atual, além de constituir uma mola propulsora de vários outros delitos.
+Assim, uma possível soltura traria por certo intranquilidade e desconfiança para a sociedade, já combalida e atemorizada pela escalada sem fim de infrações dessa espécie, atentando com a própria credibilidade das instituições, sobretudo do Poder Judiciário.
+Verifico a necessidade de converter a prisão em flagrante em preventiva, pois estão presentes os requisitos constantes do art. 312 do CPP, revelando-se inadequadas e insuficientes as medidas cautelares diversas da prisão.
+Ante o exposto, e na esteira da manifestação do Ministério Público, cujas ponderações também adoto como razão de decidir, CONVERTO A PRISÃO EM FLAGRANTE de THIAGO MOREIRA DA SILVA, qualificado nos autos, em PRISÃO PREVENTIVA, nos termos dos art. 311 e 312, ambos do Código de Processo Penal.
+In casu, verifica-se a presença de fundamentos concretos para a denegação da ordem e manutenção da prisão cautelar, a bem da ordem pública, diante da gravidade da conduta, tendo sido destacada a quantidade e diversidade de entorpecentes apreendidos - "314 pedras de crack, 437 "eppendorfs" contendo cocaína, 4 tijolos de maconha - auto de exibição e apreensão".
+De fato, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade" (AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Vale destacar que "A presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.)
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+Devidamente fundamentada a prisão preventiva do paciente, não se verifica flagrante ilegalidade capaz de justificar a sua revogação.
+Por fim, quanto às alegações relativas à saúde mental do paciente, o acórdão considerou que "nada há nos autos a demonstrar não possa o paciente receber tratamento adequado na unidade prisional onde se encontra recolhido".
+De fato, "Consolidou-se nesta Corte Superior de Justiça entendimento de que "o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado , por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra" (RHC n. 58.378/MG, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 6/8/2015, DJe 25/8/2015)" (AgRg no HC n. 872.139/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/8/2024, DJe de 10/9/2024.), o que não ocorreu na hipótese dos autos.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
