@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ARNALDO GOLDEMBERG, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 3/2/2025.
+Concluso ao gabinete em: 3/6/2025.
+Ação: de reparação por danos materiais e compensação por danos morais, ajuizada pelo ora agravante, em face de TRANSLITORANEA TURISTICA LTDA - FALIDA, parte ora agravada.
+Sentença: julgou parcialmente procedentes os pedidos "para CONDENAR a ré TRANSLITORÂNEA TURÍSTICA LTDA a pagar ao autor: (i) R$ 2.239, a título de indenização por danos materiais correspondentes à franquia de seguro de dano custeada pelo demandante; (ii) R$ 60,00, equivalentes aos montantes comprovadamente gastos pelo autor com o transporte em táxis, durante o período em que seu automóvel permaneceu paralisado para conserto; (iii) as diferenças recolhidas a maior pelo demandante, a título de prêmio do seguro do automóvel, em função da perda do bônus que produziu efeitos entre os dias 22/11/2013 (data em que houve o rebaixamento da classe de bônus) e 21/11/2016 (data em que o segurado alcançou a classe mais alta de bônus), devendo ser tal montante liquidado na forma do art. 509, I, do CPC; e (iv) a importância de R$ 5.000,00, a título de compensação por danos morais" (e-STJ fl. 539).
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa (e-STJ fl. 639):
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL EXTRACONTRATUAL. ACIDENTE DE TRÂNSITO PROVOCADO PELO MOTORISTA DE ÔNIBUS DA RÉ. COLISÃO COM VEÍCULO ESTACIONADO. PRETENSÃO DE REPARAÇÃO DOS DANOS NÃO INDENIZADOS PELO SEGURO DO AUTOR. SENTENÇA DE PROCEDÊNCIA PARCIAL DOS PEDIDOS. INCONFORMISMO DE AMBAS AS PARTES. RÉ QUE DEFENDE A INEXISTÊNCIA DE DANO MORAL. PRIVAÇÃO DO USO DO AUTOMÓVEL POR TRÊS MESES, COM PERDA DE TEMPO ÚTIL DO AUTOR. LESÃO EXTRAPATRIMONIAL CONFIGURADA. VERBA COMPENSATÓRIA RAZOAVELMENTE ARBITRADA EM R$5.000,00. SÚMULA 343 DO TJRJ. DEPRECIAÇÃO DO VALOR DO VEÍCULO COM O CONSERTO QUE DEPENDE DE PROVA, SENDO INSUFICIENTES OS ELEMENTOS CONSTANTES NOS AUTOS PARA A AFERIÇÃO DESSE DANO MATERIAL. PRECLUSÃO DA MATÉRIA. SUCUMBÊNCIA RECÍPROCA CORRETAMENTE RECONHECIDA, NOS TERMOS DO ART. 86, CAPUT, DO CPC. MANUTENÇÃO DO DECISUM. RECURSOS AOS QUAIS SE NEGA PROVIMENTO.
+Embargos de declaração: interpostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 7º, 11, 86, 371, 375, 489, § 1º, I, II, III, e IV, e 1.022, II, do CPC; 475-A, § 3º, do CPC de 1973; 944 do CC, sustentando, em síntese, que: (i) o TJ/RJ não supriu as omissões apontadas, mesmo após a oposição de embargos de declaração; (ii) seria devida indenização pela depreciação do valor de mercado do veículo; (iii) o acórdão recorrido não aplicou corretamente a norma que permite ao juiz fixar de plano o valor devido (fls. 673-675); (iv) devem ser revistos os honorários sucumbenciais fixados.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 11 e 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade aos arts. 11 e 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das razões pelas quais entendeu não ser mais possível a apuração da depreciação do veículo, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/RJ, no sentido de que "a depreciação do valor do veículo não pode ser apurada por mera estimativa de um percentual sobre a tabela FIPE, sendo igualmente insuficiente para esse objetivo a simples análise das fotos colacionadas ao processo" (e-STJ fl. 644), bem como de que, "tendo o autor dispensado a produção da perícia deferida no momento oportuno, operou-se a preclusão, devendo a parte arcar com o ônus decorrente de sua escolha, já que a condenação ao pagamento de indenização por dano material exige a prova deste" (e-STJ fl. 662).
+Desse modo, se a parte agravante não apresentar argumentos para refutar o fundamento usado pelo tribunal, o acórdão recorrido deve ser mantido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à proporção de êxito das partes na demanda, de modo influir na distribuição de honorários sucumbenciais conforme fixado pelo Tribunal esta dual, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 2% (dois por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOS ARTS. 11 E 489 DO CPC. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de reparação por danos materiais e compensação por danos morais.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 11 e 489 do CPC.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
