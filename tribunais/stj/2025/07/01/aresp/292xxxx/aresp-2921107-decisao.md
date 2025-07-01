@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ARTE MADEIRA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PRESCRIÇÃO INTERCORRENTE. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INSTITUTOS DISTINTOS. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 206, § 5º, I e 206-A, do CC, no que concerne à ocorrência da prescrição intercorrente, considerando que a cobrança se dá com base em título judicial, se tratando de cumprimento de sentença e não execução, cujo prazo prescricional é de 5 anos, trazendo a seguinte argumentação:
+A parte recorrente sustenta o prazo prescricional (intercorrente) de cinco anos no caso em apreço, eis que a cobrança se dá com base em um título judicial, para o qual é estabelecido o prazo prescricional de cinco anos.
+Em contrapartida, a v. decisão recorrida entendeu que o prazo prescricional (intercorrente) seria de dez anos, eis que aquilo que foi cobrado via processo de conhecimento teria o prazo prescricional de dez anos.
+ ..
+Contudo, a parte recorrente discorda do entendimento, eis que o caso em apreço diz respeito não a uma execução e sim a um cumprimento de sentença, sendo certo que o prazo para execução de título judicial é de cinco anos, conforme artigo 206, §5º, I do Código Civil.
+ ..
+Desta forma, deve ser reformada a v. decisão de segunda instância, para que se aplique o prazo de cinco anos e não de dez anos, de modo que a prescrição ocorra em 2024 (1 5 anos) (fls. 52-54).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Indo direto ao ponto, observo que a agravante confunde prescrição intercorrente com prescrição da pretensão executiva.
+A primeira, como se sabe, consiste em fenômeno endoprocessual e há muito na jurisprudência é considerada como sujeita ao mesmo prazo da prescrição da pretensão deduzida na fase de conhecimento, conforme enunciado da Súmula nº 150 do STF recentemente positivado no art. 206-A do CC, segundo o qual "a prescrição intercorrente observará o mesmo prazo de prescrição da pretensão, observadas as causas de impedimento, de suspensão e de interrupção da prescrição previstas neste Código e observado o disposto no art. 921 da Lei nº 13.105, de 16 de março de 2015 (Código de . Processo Civil)" Já a prescrição relacionada à cobrança de dívida objeto de título executivo (art. 206, § 5º, I, do CC) é aplicável nas hipóteses em que a execução é movida sem prévia discussão em processo de conhecimento, a exemplo da execução individual de sentença proferida em ação coletiva, ou quando o feito em que proferida a sentença é arquivado sem que o título tenha sido executado pelo credor.
+Trocando em miúdos, aplica-se quando a execução enseja a formação de uma nova relação processual, o que não é o caso dos autos (fls. 44-45).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
