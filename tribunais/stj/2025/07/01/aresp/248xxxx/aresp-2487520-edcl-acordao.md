@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O desprovimento do agravo regimental foi fundamentado de modo suficiente, confirmando a decisão de não conhecimento do agravo em recurso especial em razão da incidência do óbice da Súmula n. 182 do STJ.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Quanto ao pedido de concessão da ordem de ofício, não se constata flagrante ilegalidade que a autorize.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOSÉ VENÂNCIO MORAIS PEREIRA contra acórdão assim ementado (fls. 1. 973-1.974):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURS OESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O não conhecimento do agravo em recurso especial se deveu à ausência de impugnação suficiente dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial por aplicação da Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em , DJe de )26/9/2023 3/10/2023 .
+3. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que, no agravo em recurso especial, não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+4. O habeas corpus de ofício "é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1.777.820/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe de 15/4/2021.)
+5. Agravo regimental improvido.
+A parte embargante afirma a ocorrência de vício no julgado, articulando o seguinte (fls. 1.985-1.999):
+A defesa do embargante, embora não tenha enfrentado por tópicos, em suas razões às fls. 1815, impugnou todos os pontos do ato judicial agravado.
+Assim, no que tange a Súmula n. 518 do STJ, a defesa aponta à violação do art. 474, § 3º, do CPP, o que não se faz necessário qualquer envolvimento fático, se omitindo o acordão quanto a este ponto.
+Esclareço, que a decisão do magistrado sentenciante em determinar que o agravante permanecesse algemado durante a sessão do tribunal do júri pode ser extraída da simples ata de julgamento constante nos autos, bem como da ratificação feita pelo tribunal de origem.
+Reforço, todas as teses discutidas no recurso foram inclusive retratadas de forma específica e pormenorizada, em tópicos próprios, colacionando ainda as jurisprudências que apontam o dissídio jurisprudencial, respeitando o princípio da dialeticidade processual, não havendo incidência da Súmula 182 do Superior Tribunal de Justiça, bem como, no que consiste a Súmula 83 Superior Tribunal de Justiça, as jurisprudências colacionas reforçam a ilegalidade aqui ventilada.  ..  Por fim, a concessão de Habeas Corpus de ofício, poderá ser concedido diante do flagrante ilegalidade na negativa de prestação jurisdicional, onde pela simples análise da ata de julgamento do tribunal do júri, poderá se observar a notória ilegalidade, qual seja, manutenção do embargante algemado em plenário durante todo o julgamento, sem que para tanto, haja fundamento concreto.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica, bem como a concessão da ordem de ofício, "nos termos do art. 654, § 2º, do Código de Processo Penal, reconhecendo as nulidades asseveradas, uma vez que evidente constrangimento ilegal".
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O desprovimento do agravo regimental foi fundamentado de modo suficiente, confirmando a decisão de não conhecimento do agravo em recurso especial em razão da incidência do óbice da Súmula n. 182 do STJ.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Quanto ao pedido de concessão da ordem de ofício, não se constata flagrante ilegalidade que a autorize.
+6. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, as razões do agravo regimental não modificam a decisão recorrida, que não conheceu do agravo haja vista a incidência do teor da Súmula n. 182 do STJ.
+Observe-se, a propósito, o que constou no voto condutor do acórdão recorrido (fl. 1.975):
+Por seu turno, a análise das razões do agravo em recurso especial confirma que nada disse a defesa quanto à aplicação da Súmula n. 518 do STJ. Também não se revela que houve enfrentamento suficiente em relação ao óbice da Súmula n. 83 do STJ.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável em embargos de declaração, nada havendo que se possa acolher.
+Registro que não se constata, no exame dos autos, a ocorrência de flagrante ilegalidade capaz de autorizar a concessão da ordem de ofício, nada havendo que se possa prover.
+Sobre esse ponto, destaco o teor da decisão impugnada (fl. 1.979):
+Por fim, extrai-se do art. 647 do Código de Processo Penal que a ordem será concedida sempre que alguém sofrer ou se achar habeas corpus na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, contexto no qual, nos termos dos arts. 647-A e 654, § 2º, do CPP, a ordem poderá ser expedida de ofício. Trata-se, portanto, de iniciativa do julgador a ser adotada quando constatada flagrante ilegalidade em procedimento de sua competência, não servindo "para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1.777.820/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/4/202 ).
+Ainda, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Em atenção ao princípio da cooperação, anoto que a apresentação de novos aclaratórios que venham a ser considerados protelatórios poderá resultar no não conhecimento da insurgência, com o exaurimento da jurisdição desta Corte Superior e baixa imediata dos autos.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
