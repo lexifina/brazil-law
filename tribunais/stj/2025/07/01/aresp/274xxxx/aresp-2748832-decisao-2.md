@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial (fls. 905-913) interposto por MACK-LOG SOLUÇÕES LOGÍSTICAS EM TRANSPORTE LTDA contra decisão (fls. 901-902) exarada pela Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 845):
+"APELAÇÃO. ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO FUNDADA EM DANOS MORAIS E MATERIAS. Sentença de parcial procedência. Legitimidade passiva das empresas contratantes de serviço terceirizado. Responsabilidade objetiva e indireta. Inteligência do art. 932, III, do Código Civil. Dano moral configurado. Autoras que tiveram sua residência parcialmente invadida por "caminhão-tanque". Quantum indenizatório que comporta majoração para R$15.000,00. Recurso das rés negado e, provido o recurso adesivo das autoras."
+Os embargos de declaração opostos por IPIRANGA PRODUTOS DE PETRÓLEO S/A E TROPICAL TRANSPORTE LTDA foram rejeitados (vide acórdão às fls. 890-893).
+Nas razões do apelo nobre (fls. 872-882), MACK-LOG SOLUÇÕES LOGÍSTICAS EM TRANSPORTE LTDA aponta ofensa ao art. 944, parágrafo único, do Código Civil, afirmando, entre outros argumentos, que "(..) o Tribunal "a quo" não respeitou os parâmetros do razoável, que diferentemente, teve a aplicação pelo Juízo de primeiro grau ajustada de forma fundamentada dentro dos parâmetros legais, de forma clara e transparente" (fls. 878).
+Aduz, também, que "(..) valor de R$ 5.000,00 (cinco mil reais) aplicado pelo Juízo Singular é plenamente compatível com os danos morais suportados por cada Recorrida, sendo, portanto, demasiadamente injusto e indevido a aplicação disposta no V. Acordão, não podendo assim, concordar com a majoração aplicada" (fls. 879 - destaques no original).
+Não foram apresentadas contrarrazões (vide certidão à fl. 896).
+O apelo nobre foi inadmitido (decisão às fls. 901-902), motivando o agravo em recurso especial (fls. 905-913) em testilha.
+Tampouco foi oferecida contraminuta (vide certidão à fl. 925).
+É o relatório. Passo a decidir.
+No caso, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, reconheceu a responsabilidade civil da ora Agravante pelo acidente de trânsito - choque de caminhão tanque de combustíveis com residência -, majorando a indenização a título de danos morais de R$ 5.000,00 (cinco mil reais) para R$ 15.000,00 (quinze mil reais) para cada uma das três Autoras/Agravadas. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 847-850):
+"GRAZIELY DE LACERDA FARIA, MARIA TEREZINHA DE LACERDA FARIA e MARIA DAS GRAÇAS DE LACERDA FARIA ajuizaram ação de indenização fundada em danos materiais e morais em face de IPIRANGA PRODUTOS DEPETRÓLEO S/A, TROPICAL TRANSPORTES IPIRANGA LTDA. e MACK-LOGSOLUÇÕES LOGÍSTICAS EM TRANSPORTES LTDA., alegando, em síntese, que "no dia 26/02/2019, por volta das 17h, o veículo CAMINHÃO TANQUE DE COMBUSTÍVEL DA EMPRESA IPIRANGA de placas IQX6934, tarjeta da cidade de Canoas/RS, SR Rodo técnica SRT TQ2, Semi-reboque, ano e modelo 2010, cor Amarela, proprietário Tropical Transportes Ipiranga Ltda. e Mack Log logística (Rés 01 e 03), colidiu nos veículos e imóveis residenciais e comerciais, da rua Miguel Elias Zaiet, próximo ao número 122 e seguintes, bairro Cidade Ademar /SP, impactando e danificando a residência das Requerentes". Pedem a condenação das rés solidariamente ao pagamento de indenização por dano material no valor de R$ 53.784,83 (cinquenta e três mil setecentos e oitenta e quatro reais e oitenta e três centavos) e quantia não inferior a R$15.000,00 (quinze mil reais) para cada uma das autora a título de danos morais (fls.01/11).
+Pois bem.
+(..)
+Prosseguindo-se, não tendo as corrés apelantes impugnado a condenação ao pagamento dos danos materiais, a controvérsia persiste acerca da ocorrência dos danos morais e a sua quantificação.
+E para a hipótese dos autos, não se exige esforço argumentativo para concluir que ter a sua residência parcialmente invadida por um "caminhão tanque" transportando líquido altamente inflamável ultrapassa a fronteira do mero aborrecimento, exsurgindo o dever de reparação, sob pena chancela judicial ao ato ilício civil (artigo 186 do Código Civil).
+No que se refere ao valor arbitrado, não se pode olvidar que o instituto da indenização fundada no dano moral não tem como finalidade servir de fonte de enriquecimento à vítima, mas antes lhe minimizar os efeitos experimentados por força da falta que contra ela se cometeu.
+De forma que o valor fixado a título de indenização por danos morais - R$5.000,00 para cada autora, deve ser majorado para R$ 15.000,00 (quinze mil reais) para cada, suficientes para atender a finalidade do instituto da indenização fundada no dano moral, considerados os princípios da razoabilidade e proporcionalidade." (g. n.)
+Como sabido, a jurisprudência desta eg. Corte, a pretensão de revisar o valor da indenização a título de danos morais, via de regra, encontra óbice na Súmula n. 7/STJ; no entanto, afasta-se o referido óbice em hipóteses excepcionais, quando for verificada a natureza exorbitante ou irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido, destacam-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MORAIS E ESTÉTICOS. REDUÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+4. O valor fixado a título de indenização por danos extrapatrimonias só pode ser revisto em recurso especial quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+5. O STJ firmou entendimento de ser incabível a análise do valor de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características, sempre haverá distinção no aspecto subjetivo.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.991.707/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022 - g. n.)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. USO INDEVIDO DE IMAGEM. PROPAGANDA. OBTENÇÃO DE LUCRO. NÃO CARACTERIZAÇÃO DE BRINDE. REEXAME DE PROVAS. DANO MORAL. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. No que concerne ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 1.855.642/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022 g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. IMPOSSIBILIDADE.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido atendendo às circunstâncias de fato da causa adequadamente ponderadas, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.903.343/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - g. n.)
+No caso, o valor fixado a título de indenização por danos morais - R$ 15.000,00 (quinze mil reais) para cada das três autoras não se mostra exorbitante, nem contrários aos princípios da proporcionalidade e da razoabilidade. Assim sendo, inexistindo a aludida excepcionalidade, o apelo nobre encontra óbice na Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
