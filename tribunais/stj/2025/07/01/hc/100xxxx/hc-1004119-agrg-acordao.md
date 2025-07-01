@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental NO Habeas corpus. TRÁFICO DE DROGAS. violação de domicílio. TRANCAMENTO DA AÇÃO PENAL. prematuridade. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. AGRAVO IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se pleiteava o trancamento da ação penal e a revogação da prisão preventiva do paciente, acusado de tráfico de drogas.
+2. O Tribunal de origem manteve a prisão cautelar, justificando a entrada dos policiais no domicílio pela visualização de drogas através da porta aberta, configurando fundadas suspeitas de flagrante delito.
+3. A defesa sustenta a nulidade da entrada domiciliar, alegando falta de motivação prévia com elementos concretos, e a desproporcionalidade da prisão preventiva.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a entrada dos policiais no domicílio, sem mandado, compromete a legalidade dos atos subsequentes, incluindo a confissão e a apreensão de entorpecentes, e se a prisão preventiva é desproporcional e carece de fundamentação concreta.
+III. Razões de decidir
+5. O trancamento de ação penal por habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação de atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria ou materialidade.
+6. A prisão preventiva está fundamentada na garantia da ordem pública, devido à gravidade concreta da conduta delituosa e ao risco de reiteração delitiva, considerando a reincidência específica do agravante.
+7. A quantidade e a diversidade dos entorpecentes apreendidos justificam a manutenção da prisão preventiva, não sendo cabível a substituição por medidas cautelares alternativas.
+IV. Dispositivo e tese
+8. Agravo im provido.
+Tese de julgamento: "1. O trancamento da ação penal por habeas corpus é medida excepcional, cabível apenas em casos de inequívoca comprovação de atipicidade, extinção da punibilidade ou ausência de indícios de autoria ou materialidade. 2. A prisão preventiva pode ser mantida com base na gravidade concreta da conduta e risco de reiteração delitiva, não sendo cabível a substituição por medidas cautelares alternativas."
+Dispositivos relevantes citados: CR/1988, art. 5º, XI; CPP, arts. 303, 310, II, 312, 313, I e II.
+Jurisprudência relevante citada: STJ, AgRg no HC 814.574/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05.06.2023; STJ, AgRg no RHC 175.548/MA, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 24.04.2023.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por MARCELO SANCHEZ BEZERRA de  decisão  na  qual  indeferi liminarmente o habeas corpus  (e-STJ,  fls.  72-77).
+Nas razões do agravo, a defesa  insiste na tese de que "a entrada domiciliar é nula, pois careceu de motivação prévia com elementos concretos." (e-STJ, fl. 81)
+Aduz que "A entrada sem mandado compromete a legalidade de todos os atos subsequentes, inclusive a confissão e a apreensão de entorpecentes, caracterizando violação à cadeia de custodia e à teoria dos frutos da árvore envenenada." (e-STJ, fl. 85)
+Sustenta que a prisão preventiva é desproporcional e carece de fundamentação concreta.
+Requer  a  reconsideração  da  decisão  agravada  ou  a  submissão  do  feito  ao  colegiado.
+É  o  relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO Habeas corpus. TRÁFICO DE DROGAS. violação de domicílio. TRANCAMENTO DA AÇÃO PENAL. prematuridade. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. AGRAVO IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se pleiteava o trancamento da ação penal e a revogação da prisão preventiva do paciente, acusado de tráfico de drogas.
+2. O Tribunal de origem manteve a prisão cautelar, justificando a entrada dos policiais no domicílio pela visualização de drogas através da porta aberta, configurando fundadas suspeitas de flagrante delito.
+3. A defesa sustenta a nulidade da entrada domiciliar, alegando falta de motivação prévia com elementos concretos, e a desproporcionalidade da prisão preventiva.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a entrada dos policiais no domicílio, sem mandado, compromete a legalidade dos atos subsequentes, incluindo a confissão e a apreensão de entorpecentes, e se a prisão preventiva é desproporcional e carece de fundamentação concreta.
+III. Razões de decidir
+5. O trancamento de ação penal por habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação de atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria ou materialidade.
+6. A prisão preventiva está fundamentada na garantia da ordem pública, devido à gravidade concreta da conduta delituosa e ao risco de reiteração delitiva, considerando a reincidência específica do agravante.
+7. A quantidade e a diversidade dos entorpecentes apreendidos justificam a manutenção da prisão preventiva, não sendo cabível a substituição por medidas cautelares alternativas.
+IV. Dispositivo e tese
+8. Agravo im provido.
+Tese de julgamento: "1. O trancamento da ação penal por habeas corpus é medida excepcional, cabível apenas em casos de inequívoca comprovação de atipicidade, extinção da punibilidade ou ausência de indícios de autoria ou materialidade. 2. A prisão preventiva pode ser mantida com base na gravidade concreta da conduta e risco de reiteração delitiva, não sendo cabível a substituição por medidas cautelares alternativas."
+Dispositivos relevantes citados: CR/1988, art. 5º, XI; CPP, arts. 303, 310, II, 312, 313, I e II.
+Jurisprudência relevante citada: STJ, AgRg no HC 814.574/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05.06.2023; STJ, AgRg no RHC 175.548/MA, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 24.04.2023.
+VOTO
+A decisão agravada merece ser mantida por seus próprios e jurídicos fundamentos, a seguir integralmente reproduzidos:
+"O Tribunal de origem manteve a prisão cautelar do paciente nos seguintes termos:
+" ..
+Vale ressaltar que as situações ensejadoras do trancamento da ação penal devem estar evidentes, sendo incabível a análise aprofundada do conjunto probatório na via eleita.
+ ..
+No caso em testilha, inexiste motivo apto a justificar a medida excepcional do trancamento da ação penal.
+Depreende-se das peças acostadas aos autos que policiais militares receberam informações de que um casal estaria guardando e preparando drogas para venda, razão pela qual se dirigiram até o local informado, momento em que visualizaram, através da porta aberta do apartamento, que havia sobre a estante um grande volume de maconha e uma sacola contendo microtubos utilizados para acondicionamento da droga. Diante disso, ingressaram no imóvel e encontraram o casal em um dos quartos.
+Indagados, os acusados confessaram a prática do tráfico de drogas no local, inclusive, o paciente indicou que o local onde estava o restante das drogas (no interior do guarda- roupas), onde foram encontradas 301 eppendorfs de cocaína, ao passo que a acusada Vivian informou onde estava o dinheiro proveniente da venda de entorpecentes. Os policiais localizaram no apartamento, ainda, diversos objetos utilizados para o preparo das drogas (balança, peneira, colher, prato, com resquícios de drogas), além quatro aparelhos celulares.
+Nesse contexto e, ao menos, nos estreitos limites cognitivos deste "writ", não se constata ilegalidade na busca domiciliar realizada pelos agentes públicos, porquanto, ao que consta, o ingresso dos policiais na residência decorreu de fundadas suspeitas de flagrante delito do crime de tráfico de drogas, subsistindo, ademais, a justa causa exigida para a deflagração da ação penal.
+Nesse sentido:
+ ..
+A par disso, não se pode olvidar que a Constituição Federal, no artigo 5º, inciso XI, dispensa consentimento do morador e ordem judicial para o ingresso em domicílio alheio nos casos de flagrante delito. E o tráfico de drogas, em várias modalidades (inclusive a de "guardar" e "ter em depósito"), é crime permanente e, assim, autoriza a prisão em flagrante até que cesse a permanência, nos termos do artigo 303 do Código de Processo Penal.
+No mais, estão preenchidos os requisitos legais da prisão preventiva.
+Ao contrário do que sustenta a impetrante, a decisão que converteu o flagrante em preventiva (fls. 45/48) está devidamente fundamentada, com base nas circunstâncias concretas do fato, em conformidade com os ditames dos artigos 310, inciso II, 312 e 313, incisos I e II do Código de Processo Penal.
+Destaca-se que se trata de crime doloso cuja pena privativa de liberdade autoriza o decreto da custódia cautelar, nos termos do artigo 313, I, do Código de Processo Penal.
+A prisão preventiva também está autorizada pelo artigo 313, II, do mesmo diploma legal, haja vista que o paciente é reincidente específico (fls. 41/44).
+Outrossim, encontram-se satisfeitos os pressupostos descritos no artigo 312 do Código de Processo Penal.
+O "fumus comissi delicti", consubstanciado na prova da existência do crime e nos indícios suficientes de autoria, é extraído dos elementos informativos, valendo destacar que o paciente admitiu a prática delitiva em solo policial (fls. 20/23, 24, 28/34 destes autos e fls. 36/38 dos autos principais).
+Por sua vez, o "periculum libertatis" decorre da gravidade concreta da conduta delituosa evidenciada pela expressiva quantidade de drogas apreendidas (301 eppendorfs de cocaína, com peso bruto de 359,8 gramas e um tijolo de "maconha", com peso bruto de 356,1 gramas), bem como do risco de reiteração delitiva, já que o paciente é reincidente específico (fls. 41/44), justificando a segregação cautelar para a garantia da ordem pública.
+Entendendo pelo cabimento da prisão preventiva na hipótese de contumácia delitiva, já decidiu o C. Superior Tribunal de Justiça:
+ ..
+É cediço que a prisão preventiva somente deve ser decretada ou mantida quando não for cabível a sua substituição pelas medidas cautelares alternativas previstas no artigo 319 do Código de Processo Penal, porém, na presente hipótese, tais medidas revelam-se notoriamente insuficientes, diante do perigo da liberdade acima explanado." (e-STJ, fls. 24-28; sem grifos no original)
+Inicialmente, consigna-se ser firme o entendimento desta Corte Superior de que o trancamento de ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. Cito precedentes:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DENÚNCIA. ART. 155, § 4.º, INCISO II, DO CÓDIGO PENAL. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICÁVEL. FORMA QUALIFICADA DO DELITO. ACUSADO REINCIDENTE. AGRAVO REGIMENTAL DESPROVIDO. - "O trancamento de ação penal pela via de habeas corpus, ou do recurso que lhe faça as vezes, é medida de exceção, só admissível quando emerge dos autos, sem a necessidade de exame valorativo do conjunto fático ou probatório, a atipicidade do fato, a ausência de indícios que fundamentaram a acusação, a extinção da punibilidade ou a inépcia formal da denúncia" (AgRg no RHC n. 124.325/MG, Rel. Min. LAURITA VAZ, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022).  ..  - Agravo regimental desprovido." (AgRg no HC n. 814.574/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+"AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E CONCUSSÃO. PRETENSÃO DE RECONHECIMENTO DE NULIDADE DA INSTAURAÇÃO DO INQUÉRITO POLICIAL. DENÚNCIA ANÔNIMA. INFORMAÇÕES NOS AUTOS QUE DÃO CONTA DA EXISTÊNCIA DE DILIGÊNCIAS PRELIMINARES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DECISÃO MONOCRÁTICA QUE DEVE SER MANTIDA. 1. O trancamento da investigação ou ação penal pela via eleita é medida excepcional, cabível somente quando manifesta a atipicidade da conduta, causa extintiva de punibilidade ou ausência de indícios de autoria ou de prova sobre a materialidade do delito.  ..  5. Agravo regimental improvido." (AgRg no RHC n. 175.548/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/4/2023, DJe de 2/5/2023.)
+Nesse contexto, é de se constatar que o trancamento da ação penal com base no reconhecimento da nulidade pela busca domiciliar por esta Corte subtrai da ação penal, em última análise, a materialidade do crime, por reconhecer que as provas foram colhidas em desrespeito à Constituição.
+Nesse particular, deve-se reservar tal providência apenas aos casos de inequívoca e irrefutável demonstração, sob pena de usurpação da competência própria das instâncias ordinárias, soberanas que são na análise da prova processual, cujo teor, inclusive, não se revisa pelo Superior Tribunal de Justiça ou pelo Supremo Tribunal Federal.
+Registro, ainda, por dever de cautela, o risco de o trancamento em fase prematura da ação penal produzir cerceamento de acusação, pois pode o Ministério Público, no âmbito da instrução processual, querer evidenciar que a prova foi colhida de forma legal, à luz do que exige a jurisprudência desse Tribunal, providência que restaria obstada se adotado indiscriminadamente esse proceder.
+No caso, o Tribunal de origem afirma que a entrada dos policiais foi justificada pela visualização de drogas através da porta aberta, o que configurou fundadas suspeitas de flagrante delito. A defesa, todavia, sustenta a ilegalidade da medida amparada tão somente em denúncia anônima.
+Concluo, pois, pela impossibilidade de exame, no caso, da alegada nulidade pela busca domiciliar com vistas ao trancamento da ação penal, pois controversa a alegação ora formulada, sendo estritamente necessário que as instâncias ordinárias, à luz do contraditório, delineiem o quadro fático sobre o qual se aponta a nulidade, tanto em sentença quanto em acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre ele se manifeste.
+Quanto ao pedido de revogação da prisão preventiva, também, não assiste razão à defesa.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso em questão, a prisão preventiva do paciente está fundamentada na garantia da ordem pública, devido à gravidade concreta da conduta delitiva, evidenciada pela apreensão de 301 eppendorfs de cocaína (359,8g) e 1 tijolo de maconha (356,1g), além do risco de reiteração delitiva, considerando que o paciente é reincidente específico.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+Pelos mesmos motivos acima delineados, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TUR MA, julgado em 01/06/2017, DJe 09/06/2017." (e-STJ, fls. 72-77)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
