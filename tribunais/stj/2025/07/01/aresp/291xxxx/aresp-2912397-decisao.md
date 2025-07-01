@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RAIMUNDO NETO DE MIRANDA contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, composto pela seguinte ementa (fl. 159):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. COBRANÇA DE DÉBITO ORIUNDO DE ESTELIONATO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA 393/STJ. REJEIÇÃO. DECISÃO MANTIDA.
+1. A teor Súmula 393/STJ, "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+2. Questões relativas à ilegitimidade passiva e nulidade da certidão de dívida ativa (CDA) não dispensam, em regra, dilação probatória, de modo que não é possível reconhecer sua ocorrência por meio de exceção de pré- executividade. Precedentes.
+3. Recurso conhecido e não provido.
+Opostos embargos de declaração, foram eles rejeitados em aresto assim sumariado (fl. 214):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE VÍCIOS NO JULGADO. REJEIÇÃO.
+1. Os embargos de declaração são cabíveis para integrar a decisão, que eventualmente padeça de obscuridade, contradição, omissão ou erro material, mas não se prestam a instaurar uma nova discussão sobre a controvérsia jurídica ou processual já apreciada pelo órgão julgador.
+2. Ausentes os vícios descritos no artigo 1.022 do Código de Processo Civil, rejeitam-se os embargos declaratórios.
+3. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+Em seu recurso especial (fls. 236-252), o recorrente alega violação ao artigo 489, § 1º, inciso IV, e ao artigo 1.022, inciso II, ambos do Código de Processo Civil, argumentando que "a 7ª Turma Cível do TJDFT, mesmo após a oposição de embargos de declaração, se recusou a suprir a omissão quanto aos fundamentos referentes à desnecessidade de dilação probatória para se apreciar questões meramente jurídicas, quais seja, a ilegitimidade passiva e a nulidade da CDA" (fl. 244).
+Outrossim, argumenta que, "ao desconsiderar a alienação - devidamente comprovada nos autos - e imputar ao Recorrente a responsabilidade pelo tributo, o acórdão recorrido violou os arts. 32, 34 e 130 do CTN" (fl. 249).
+O Tribunal de origem inadmitiu o recurso, às fls. 295-297, com base em dois fundamentos distintos e autônomos: (i) - inexistência de ofensa aos artigos 489, § 1º, e 1.022, ambos do Código de Processo Civil, "pois "não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte" (AgInt no AREsp n. 2.629.196/SP, relator Ministro Ricardo Villas Bôas Cueva, D Je de 20/12/2024)" (fl. 296); e (ii) - incidência do enunciado 83 da Súmula do STJ, ao fundamento de que o entendimento adotado pela 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios está em consonância com o desta Corte Superior.
+Em seu agravo, às fls. 358-362, o agravante aduz que:
+16. Diferentemente do que afirma a decisão agravada, o apelo especial demonstrou, sim, que o acórdão proferido pelo TJDFT deixou de prestar a jurisdição adequadamente. Isso porque, mesmo após a oposição de Embargos Declaratórios, permaneceu omisso acerca de questões essenciais para a resolução da controvérsia.
+17. O Agravante demonstrou, nas razões do Recurso Especial, a omissão do Colegiado local acerca da questão por ela invocada quanto à desnecessidade de dilação probatória para apreciar questões que são meramente jurídicas, quais sejam, a ilegitimidade passiva ad causam da empresa e a consequente nulidade da CDA.
+18. Essa conduta do TJDFT claramente configura violação aos arts. 489, §1º, IV e 1.022, II, do CPC.
+(..)
+23. Logo, nas razões do Recurso Especial, o Agravante demonstrou que a questão acima elencada (desnecessidade de dilação probatória para análise de ilegitimidade passiva e de nulidade da CDA nos autos de Execução Fiscal) constitui ponto nodal do debate jurídico instaurado na presente via e, por ter sido deliberadamente ignorada e omitida no acórdão recorrido, este acabou por incorrer em violação aos arts. 489, §1º, IV, e 1.022, II, ambos do CPC.
+(..)
+27. A decisão agravada entendeu pela aplicação do óbice da Súmula 83/STJ ao caso em tela, pois o entendimento do acórdão recorrido supostamente estaria em consonância com a jurisprudência desta Corte.
+28. A Súmula 83/STJ não incide ao caso, porquanto o julgado invocado pela decisão agravada é inaplicável por ausência de similitude fática.
+29. O precedente citado pela decisão ora agravada (AgInt nos EDcl no R Esp n. 2.026.107/SP, relator Ministro Gurgel de Faria, DJe de 26/8/2024) apreciou a exigência de apresentação das certidões de regularidade fiscal como condição para homologação do plano de recuperação judicial. Veja-se o trecho do voto:
+(..)
+30. O caso concreto em análise não analisa essa questão. A matéria em discussão é a possibilidade de apresentação de exceção de pré-executividade para suscitar ilegitimidade passiva ad causam da empresa ora Agravante e a consequente nulidade da CDA que ampara a execução fiscal. Não há qualquer discussão a respeito de certidão de regularidade fiscal no âmbito da recuperação judicial.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que inadmitiu a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos e autônomos: (i) - inexistência de ofensa aos artigos 489, § 1º, e 1.022, ambos do Código de Processo Civil, e de negativa de prestação jurisdicional, uma vez que a Corte de origem manifestou-se sobre todas as questões jurídicas ou fatos relevantes para o julgamento da causa; e (ii) - incidência do enunciado 83 da Súmula do STJ, que impede que recursos especiais sejam analisados quando a decisão recorrida está em sintonia com a jurisprudência do STJ.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, ambos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
