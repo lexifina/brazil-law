@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por José Fernandes Moraes e outros contra decisão que conheceu em parte e, na parte conhecida, negou provimento ao recurso especial, ante a ausência de negativa de prestação jurisdicional e em razão da incidência das Súmulas 283/STF e 7/STJ. (fls. 360/365).
+Em suas razões, a parte embargante sustenta que "os autos do processo no STJ estão corrompidos, não tendo as partes embargantes acesso à maior parte do processo, o que as obrigou a trazerem, como documento anexo a este recurso, um ofício que poderia ser visualizado mediante simples consulta ao feito, Evento 14, OUT3, Página Tornando à questão da omissão em que, com todo o respeito, incorreu a douta decisão embargada, constituindo, pois, fato incontroverso que todos os recorrentes tiveram implantada a gratificação em folha de pagamento entre setembro de 2016 e fevereiro de 2020; e tendo em vista que as questões atinentes ao reconhecimento ou não da prescrição devem ser examinadas de ofício, em qualquer grau de jurisdição, é preciso pronunciar-se sobre a aplicação, ao caso, do Tema 1.311 dos RRC, em que a Primeira Seção do STJ decidirá "se o curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença"." (fl. 375).
+Requer "que conheça e acolha, com efeitos infringentes, os presentes embargos de declaração, para que, suprida a omissão indicada, seja anulada a douta decisão embargada, e suspensa a tramitação do recurso especial, até decisão acerca do Tema 1.311 dos RRC pela Primeira Seção do STJ, conforme decidido pelo Exmo. Min. Gurgel de Faria em precedente idêntico (REsp n. 2.162.712, Ministro Gurgel de Faria, DJEN de 26/03/2025)." (fl. 377).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, a matéria tratada nesse recurso especial não guarda consonância com a matéria afetada ao rito dos recursos especiais repetitivos de Tema 1.311/STJ.
+Ademais, cumpre observar que a análise quanto à prescrição, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas obscuridades do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitos os presentes embargos de declaração.
+Publique-se.
+EMENTA
