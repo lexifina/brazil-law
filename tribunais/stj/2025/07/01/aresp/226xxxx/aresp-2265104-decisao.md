@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONDOMÍNIO PARQUE SHOPPING PRUDENTE (fls. 473-488) contra decisão que inadmitiu o recurso especial, mediante a não demonstração de violação do art. 489, §1º, do CPC; a incidência da Súmula n. 284 do STF; a impossibilidade de conhecimento do especial que tenha por objeto alegação genérica de violação legal e de Súmula de Tribunal (aplicação da Súmula n. 518 do STJ); e, com relação ao art. 24, §1º, da Lei n. 7.661/1945, a incidência da Súmula n. 282 do STF.
+Em suas razões, a parte limitou-se a sustentar que houve violação do art. 489, §1º, do CPC e que ocorreu o prequestionamento ficto do art. 24, §1º, da Lei n. 7.661/1945, ante a oposição dos embargos de declaração na origem. Ao fim, afirma que a decisão agravada padece de excesso de formalismo ao não considerar a interposição do recurso especial pela divergência em decorrência da simples ausência de menção à alínea c do permissivo constitucional.
+Requer, portanto, que se conheça do presente agravo e lhe seja dado provimento, de modo a autorizar a subida do recurso especial a esta Corte.
+É o relatório. Decido.
+O recurso não comporta conhecimento.
+Conforme acima relatado, nas razões do agravo em recurso especial, a parte deixou de impugnar especificamente fundamentos apresentados na decisão que inadmitiu o recurso especial, a saber: a incidência da Súmula n. 284 do STF; o fato de que a alegação genérica de violação de dispositivo infraconstitucional não se presta, por si só, para justificar a interposição do recurso especial; e a incidência da Súmula n. 518 do STJ.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
