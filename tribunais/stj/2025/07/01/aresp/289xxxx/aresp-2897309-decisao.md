@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por ITAÚ UNIBANCO HOLDING S.A. contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO.
+1 . A revogação do benefício da gratuidade de justiça exige a comprovação cabal da capacidade financeira da parte para efetuar o pagamento das custas processuais e dos honorários advocatícios incidentes na ação judicial.
+2. A ação de busca e apreensão tem por pressupostos a demonstração do inadimplemento das prestações ajustadas em contrato de financiamento de veículo com garantia de alienação fiduciária e a da regular constituição do consumidor em mora.
+3. O recebimento de valores pela instituição financeira, correspondentes a parcelas em atraso, após o ajuizamento da ação de busca e apreensão, afasta a caracterização da mora debendi e impede a retomada do bem financiado, em face da proibição de comportamento contraditório (venire contra factum proprium nemo potest).
+4. Ato contínuo, impõe-se o juízo de improcedência da ação de busca e apreensão, restando anódina a discussão a respeito da purga da mora.
+5. Em face do princípio da causalidade, vai mantida a distribuição dos ônus sucumbenciais fixada na sentença, observado o benefício da gratuidade de justiça.
+PRIMEIRA APELAÇÃO (DA INSTITUIÇÃO FINANCEIRA) DESPROVIDA. SEGUNDA APELAÇÃO (DA CONSUMIDORA) PARCIALMENTE PROVIDA.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega violação ao art. 3º, §§ 1º e 2º, do Decreto-Lei 911/69, bem como dissídio jurisprudencial. Sustenta, em síntese, que a purga da mora deve ser compreendida como a quitação integral do débito e não o mero pagamento das parcelas vencidas do contrato de alienação fiduciária.
+É o relatório. Decido.
+Com efeito, a parte recorrente defende o direito de purgar a mora objeto dos autos com o pagamento integral da dívida. Por sua vez, o TJ-RS, à luz das circunstâncias do caso concreto, assim se manifestou (fl. 349):
+Por sua vez, a ação de busca e apreensão tem por pressupostos a comprovação do inadimplemento de contrato de financiamento com garantia de alienação fiduciária e a demonstração da constituição do devedor fiduciante em mora, consoante disposto no artigo 3º do Decreto-Lei n. 911/1969 e na Súmula n. 72 do STJ.
+No caso sob comento, restaram incontroversos o inadimplemento das prestações ajustadas entre os litigantes e a regular constituição da devedora em mora.
+No entanto, observa-se que a instituição financeira, mesmo após o ajuizamento da ação de busca e apreensão, seguiu recebendo o pagamento das parcelas do contrato de financiamento (Evento50, COMP2; e Evento50, COMP11-COMP15).
+Dessa forma, diante do comportamento contraditório da credora, ao ajuizar a ação de busca e apreensão e seguir recebendo as parcelas do contrato de financiamento, resta fragilizada a alegação de mora por parte da consumidora, o que inviabiliza a retomada do bem financiado.
+(..)
+Ato contínuo, impõe-se o reconhecimento do juízo de improcedência da ação de busca e apreensão, restando anódina a discussão a respeito de eventual purga da mora, em face da descaracterização da mora debendi.
+No julgamento proferido em sede de embargos de declaração, reafirmou (fl. 387):
+Por sua vez, destaco que o inadimplemento das prestações inscritas em contrato de financiamento com garantia de alienação fiduciária implica o vencimento antecipado do contrato, autorizando a imediata exigibilidade do saldo devedor existente em nome da parte consumidora.
+Além disso, a purga da mora efetivamente exige o pagamento de todo o débito indicado pela parte credora, no prazo de cinco dias a partir do cumprimento da liminar de busca e apreensão.
+No entanto, tais circunstâncias não afastam o comportamento contraditório da instituição financeira no caso sob comento, em que, apesar do vencimento antecipado e da ausência de purga da mora, aceitou os pagamentos parciais realizados pela parte consumidora após o ajuizamento da ação de busca e apreensão.
+Tal circunstância, como referido no julgamento hostilizado, fragiliza a alegação de mora por parte da consumidora, pois a conduta assumida pela instituição financeira gera a justa expectativa, na parte adversa, de prosseguimento do pacto, o que inviabiliza a retomada, pela credora, do bem objeto do contrato de financiamento.
+A jurisprudência desta Corte firmou-se no sentido de que, após o advento da Lei nº 10.931/2004, que deu nova redação ao art. 3º do Decreto-Lei nº 911/1969, não há que se falar mais em purgação da mora, haja vista que, sob a nova sistemática, após decorrido o prazo de cinco dias contados da execução da liminar, a propriedade do bem fica consolidada com o credor fiduciário, devendo o devedor efetuar o pagamento da integralidade do débito remanescente a fim de obter a restituição do bem livre de ônus.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VERBETE N.º 182 DA SÚMULA DO STJ. AÇÃO DE BUSCA E APREENSÃO. PURGAÇÃO DA MORA. DIVERGÊNCIA JURISPRUDENCIAL NÃO CARACTERIZADA. LEI N.º 10.931/2004. INTEGRALIDADE DA DÍVIDA. VERBETE 284 DA SÚMULA DO STJ SUPERADO. AGRAVO NÃO CONHECIDO.
+1. "É inviável o agravo do art. 545 que deixa de atacar especificamente os fundamentos da decisão agravada". Verbete n.º 182, da Súmula/STJ.
+2. O dissídio jurisprudencial não restou caracterizado, tendo em vista que o acórdão colacionado como paradigma, publicado em 1975, além de não refletir entendimento atual, não está fundamentado nas mesmas premissas que o aresto recorrido; de fato, o Tribunal a quo decidiu a questão sob a ótica da Lei n.º 10.931, de 02 de agosto de 2004, circunstância ausente no julgado paradigma.
+3. Ademais, o entendimento da Corte de origem está em consonância com recente jurisprudência deste Superior Tribunal de Justiça, segundo a qual, na vigência da Lei n.º 10.931/2004, a purgação da mora não está mais condicionada ao pagamento de 40% do valor financiado, uma vez que "sob o novo regime, cinco dias após a execução da liminar, a propriedade do bem fica consolidada com o credor fiduciário. Todavia, no § 2º autorizou a nova redação que o devedor naquele prazo de cinco dias pague a integralidade da dívida, o que quer dizer a dívida segundo os valores apresentados pelo credor fiduciário na inicial, "hipótese na qual o bem lhe será restituído livre do ônus". Ora, com isso, de fato, fica superada a Súmula n.º 284 da Corte alinhada à redação anterior do § 1º do art. 3º" (Resp 767.227, Terceira Turma, Rel. Min. Carlos Alberto Menezes Direito, DJ 13.02.06).
+4. Agravo não conhecido."
+(AgRg no Ag nº 772.797/DF, Rel. Min. HÉLIO QUAGLIA BARBOSA, 4ª Turma, DJ 6/8/2007)
+"Ação de busca e apreensão. Decreto-Lei nº 911/69 com a redação dada pela Lei nº 10.931/04.
+1. Com a nova redação do art. 3º do Decreto-Lei nº 911/69 pela Lei nº 10.931/04, não há mais falar em purgação da mora, podendo o credor, nos termos do respectivo § 2º, "pagar a integralidade da dívida pendente, segundo os valores apresentados pelo credor fiduciário na inicial, hipótese na qual o bem lhe será restituído livre do ônus".
+2. Recurso especial conhecido e provido, em parte."
+(REsp 767.227/SP, Rel. Min. CARLOS ALBERTO MENEZES DIREITO, Terceira Turma, DJ de 13/02/2006)
+Acrescente-se que, perante a Segunda Seção, a matéria foi objeto de enfrentamento pelo rito previsto no art. 543-C do CPC, tendo sido reafirmado esse posicionamento e afastada, inclusive, qualquer incompatibilidade com os princípios previstos no regramento constitucional e com as normas protetivas das relações de consumo. Confira-se:
+"ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO DE BUSCA E APREENSÃO. DECRETO-LEI N. 911/1969. ALTERAÇÃO INTRODUZIDA PELA LEI N. 10.931/2004. PURGAÇÃO DA MORA. IMPOSSIBILIDADE. NECESSIDADE DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA NO PRAZO DE 5 DIAS APÓS A EXECUÇÃO DA LIMINAR.
+1. Para fins do art. 543-C do Código de Processo Civil: "Nos contratos firmados na vigência da Lei n. 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária".
+2. Recurso especial provido."
+(REsp 1.418.593/MS, Rel. Ministro LUIS FELIPE SALOMÃO, unânime, DJe de 27.5.2014)
+Destarte, o aresto recorrido, ao permitir a purgação da mora com base no pagamento das parcelas vencidas, destoa do entendimento desta Corte, porquanto necessário se faz o depósito da integralidade da dívida.
+À luz do exposto, conheço do agravo para dar provimento ao recurso especial para afastar a possibilidade de purgação da mora do devedor fiduciante, com base tão somente nas parcelas vencidas.
+Publique-se.
+EMENTA
