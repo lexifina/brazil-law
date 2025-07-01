@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por ÉDIPO GOLÇALVES DE SOUZA, contra decisão que não admitiu seu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional, o qual foi apresentado em face de acórdão proferido pelo Tribunal do Estado de Rondônia, assim ementado:
+"Agravo interno em agravo interno em apelação cível. Falta de impugnação à motivação declinada na decisão monocrática. Inobservância ao ônus da dialeticidade. Julgamento monocrático (CPC, art. 932, 111). Nulidade não reconhecida." (e-STJ, fl. 773).
+Os embargos de declaração opostos não foram conhecidos em razão de sua inadmissibilidade e ausência de dialeticidade, nos termos da seguinte ementa (e-STJ, fl. 799):
+"EMBARGOS DE DECLARAÇÃO. ARGUMENTOS DISSOCIADOS DOS FUNDAMENTOS DA DECISÃO EMBARGADA. DIALETICIDADE. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS NA DECISÃO RECORRIDA. NÃO CONHECIMENTO.
+Para o cabimento dos embargos de declaração, se mostra imprescindível a indicação de qualquer dos vícios elencados no artigo 1.022, do Código de Processo Civil na decisão embargada.
+A apresentação de argumento dissociado dos fundamentos da decisão a ser aclarada impede o conhecimento do recurso, ante a violação ao princípio da dialeticidade."
+Em suas razões recursais, a parte recorrente sustentou, em suma, que: (a) A decisão recorrida violou o artigo 5º, inciso LXXIV, da Constituição Federal, ao indeferir o pedido de justiça gratuita, que assegura assistência jurídica integral e gratuita àqueles que comprovarem insuficiência de recursos. A parte apresentou declaração de hipossuficiência e documentos financeiros, mas a decisão não considerou esses elementos; (b) A decisão também violou o artigo 98 do Código de Processo Civil, que concede o benefício da gratuidade da justiça mediante declaração de hipossuficiência, salvo prova em contrário. A presunção de veracidade da declaração de hipossuficiência não foi afastada, e a decisão não fundamentou adequadamente a insuficiência dos documentos apresentados; e (c) A decisão incorreu em erro ao declarar deserto o recurso de apelação, ignorando o pedido de concessão dos benefícios da justiça gratuita, que foi tempestivamente formulado e instruído com documentos comprobatórios de hipossuficiência. Apontou, por fim, a existência de divergência jurisprudencial sobre o assunto.
+Contrarrazões às fls. 822-850 (e-STJ).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+O prazo para a interposição do recurso especial é de 15 (quinze) dias, contados em dias úteis, nos termos dos arts. 219, caput, 994 e 1.003, § 5º, todos do Código de Processo Civil de 2015.
+No caso dos autos, o acórdão recorrido foi publicado em 18/09/2024 (e-STJ, fl. 781), ao passo que o recurso especial somente foi interposto em 09/12/2024 (fls. 809-818), quando decorrido o prazo recursal de 15 (quinze) dias úteis. Dessa forma, verifica-se que o recurso especial é manifestamente intempestivo, em razão de ter sido interposto fora do prazo de 15 dias úteis.
+Cumpre esclarecer que a Corte Especial desta Corte Superior já decidiu que a oposição de embargos de declaração não é capaz de interromper o prazo recursal quando os embargos foram intempestivos ou incabíveis e quando deixarem de indicar os vícios próprios do integrativo, quais sejam, omissão, contradição, obscuridade ou erro material.
+Sobre esse ponto, confira-se os fundamentos lançados pelo Tribunal a quo ao não conhecer os aclaratórios (e-STJ, fls. 798-799):
+"Conforme explicitado na decisão embargada, o conhecimento parcial se deu apenas quanto à tese de irregularidade do decisum por ter sido proferido de forma monocrática, uma vez que, quanto à justiça gratuita, o recorrente apenas defendeu a necessidade de obter o benefício, não tendo apresentado argumento capaz de, minimamente, modificar o julgado no que tange à intempestividade do anterior agravo interno e a violação ao princípio da dialeticidade.
+Assim, além de não se ter apontado qualquer das hipóteses elencadas no artigo 1.022, do Código de Processo Civil no que diz respeito à tempestividade do agravo interno julgado pelo acórdão apontado como embargado, ao contrário do alegado pelo embargante, não se considerou o recurso extemporâneo, mostrando-se as razões destes declaratórios, portanto, dissociadas dos fundamentos da decisão a ser aclarada.
+ ..
+No que se refere à omissão e obscuridade, percebe-se que a parte não suscita a existência dos vícios no acórdão de ID n. 25442374, mas em relação ao indeferimento da gratuidade de justiça e reconhecimento da deserção do recurso de apelação, que se deram por meio das decisões de ID"s n. 21560662 e n. 22367811, de cujo teor tomou ciência em 28/09/2023 e 07/12/2023, respectivamente, ou seja, há muito já preclusas, não sendo viável o conhecimento dos embargos de declaração também neste parte.
+Observa-se, portanto, que o embargante, de forma equivocada, demonstra o mero descontentamento com os entendimentos adotados por esta Corte, interpondo sucessivos recursos de modo a obstar o resultado final do processo."
+Dessa forma, tem-se que a decisão que inadmitiu o recurso especial encontra-se alinhada à jurisprudência desta Corte Superior de Justiça. Veja-se, por oportuno, os seguintes precedentes:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. INTEMPESTIVIDADE DE RECURSO ESPECIAL. NÃO INTERRUPÇÃO DO PRAZO POR EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. AGRAVO INTERNO IMPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial, sob o fundamento de intempestividade do recurso especial, em razão de embargos de declaração não conhecidos pelo Tribunal de Justiça.
+2. O prazo recursal iniciou-se em 21/3/2023, findando em 11/4/2023, mas o recurso especial foi interposto apenas em 15/2/2024, sendo considerado intempestivo.
+3. A defesa opôs embargos de declaração, que não foram conhecidos, não interrompendo o prazo para interposição de novos recursos. II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se os embargos de declaração não conhecidos interrompem o prazo para a interposição de recurso especial.
+5. A questão também envolve a análise da tempestividade do recurso especial interposto. III. RAZÕES DE DECIDIR
+6. O recurso especial foi considerado intempestivo, pois foi interposto fora do prazo legal, que se iniciou em 21/3/2023 e terminou em 11/4/2023.
+7. Os embargos de declaração não conhecidos não interrompem o prazo para a interposição de novos recursos, conforme jurisprudência do Superior Tribunal de Justiça.
+8. A parte não demonstrou eventual suspensão do expediente forense no Tribunal de origem, o que poderia justificar a intempestividade.
+IV. AGRAVO INTERNO IMPROVIDO."
+(AgInt no AREsp n. 2.731.604/RS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025, g.n.)
+"Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INTEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VÍCIO NA PRESTAÇÃO JURISDICIONAL. PRECLUSÃO E INEXISTÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática da relatoria do Ministro Marco Aurélio Bellizze, que negou seguimento ao agravo em recurso especial interposto pela parte recorrente, em demanda referente à rejeição de exceção de pré-executividade no âmbito de cumprimento de sentença. A parte agravante sustenta o preenchimento dos requisitos de admissibilidade e o provimento do recurso. A parte agravada, intimada, afirmou a inexistência de fundamentos aptos à reforma da decisão agravada. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:(i) verificar se a decisão agravada incorreu em negativa de prestação jurisdicional por ausência de análise dos dispositivos legais indicados pela parte agravante;(ii) definir se restou configurada a tempestividade do agravo de instrumento interposto contra a decisão que rejeitou a exceção de pré-executividade. III. RAZÕES DE DECIDIR
+3. O Tribunal local consignou fundamentação clara e suficiente para não conhecer do agravo de instrumento, reconhecendo a sua intempestividade em razão da não interrupção do prazo recursal pela interposição de embargos de declaração não conhecidos.
+4. A decisão agravada corretamente aplicou o entendimento pacificado no STJ, segundo o qual, não conhecidos os embargos de declaração, não há interrupção do prazo recursal, tornando intempestivo o agravo de instrumento protocolado fora do prazo legal.
+5. Não houve análise dos dispositivos legais invocados pela parte agravante no acórdão recorrido, o que inviabiliza a apreciação da matéria pelo STJ por ausência de prequestionamento, nos termos da Súmula 211/STJ.
+IV. AGRAVO INTERNO DESPROVIDO."
+(AgInt no AREsp n. 2.667.085/CE, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/5/2025, DJEN de 16/5/2025, g.n.)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. COMPRA E VENDA. VIOLAÇÃO DO ART. 489 DO CPC. PRECEDENTES NÃO VINCULANTES. VÍCIO DE FUNDAMENTAÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO. NÃO CONHECIDOS. INDICAÇÃO DE VÍCIO NA SENTENÇA. INTERRUPÇÃO DO PRAZO RECURSAL. RECURSO ESPECIAL NÃO PROVIDO.
+1. A previsão do art. 489, §1º, VI, do NCPC aplica-se unicamente a precedentes de caráter vinculante.
+2. Não interrompem o prazo para interposição de outros recursos os embargos de declaração intempestivos, manifestamente incabíveis ou quando oferecidos com requerimento de efeitos infringentes, sem que se aponte vício de omissão, contradição, obscuridade ou erro material.
+3.  ..
+5. Recurso especial não provido."
+(REsp n. 2.194.596/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025, g.n .)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE INADMISSÍVEIS E NÃO CONHECIDOS. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência consagrada no âmbito da Corte Especial, a oposição de embargos de declaração não é capaz de interromper o prazo recursal quando os embargos forem intempestivos ou incabíveis ou quando deixarem de indicar os vícios próprios de embargabilidade (omissão, contradição, obscuridade ou erro material). Precedentes.
+2. "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão recorrido" (Súmula 168/STJ).
+3. Agravo regimental desprovido."
+(AgRg nos EDcl nos EREsp n. 1.961.507/PR, relator Ministro RAUL ARAÚJO, Corte Especial, julgado em 24/10/2023, DJe de 31/10/2023, g.n.).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
