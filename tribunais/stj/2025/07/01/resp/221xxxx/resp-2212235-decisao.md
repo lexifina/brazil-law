@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ MANUEL BOUBHOSA PARADA e OUTRO, com arrimo nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. Acolhimento parcial. Insurgência contra a falta de fixação de honorários advocatícios de sucumbência. Descabimento. Ausência de previsão legal para fixação da verba sucumbencial pelo não acolhimento do incidente de desconsideração. Precedentes. Decisão mantida. RECURSO DESPROVIDO. (fl. 9)
+A parte recorrente, em suas razões recursais, aponta ofensa ao art. 85, § 1º, do Código de Processo Civil de 2015, bem como divergência jurisprudencial, sustentando, em resumo, que deixou de arbitrar honorários advocatícios ao reconhecer a improcedência do incidente de desconsideração da personalidade jurídica promovido pelos ora recorridos.
+É o relatório. Decido.
+Com efeito, a questão recursal consiste em saber se incide ou não honorários advocatícios sucumbenciais na decisão que resolve o incidente de desconsideração da personalidade jurídica.
+Eis os fundamentos esgrimidos pela Corte estadual, in verbis:
+Em que pese a combatividade demonstrada, o inconformismo manifestado não comporta provimento.
+Porquanto, respeitados os posicionamentos em sentido diverso, inexiste previsão legal para a fixação de honorários de sucumbência para os casos de não acolhimento do incidente processual de desconsideração da personalidade jurídica.
+A propósito, considerando a pertinência e relevância para o desate da questão, convém reproduzir o que já fora decidido pelo C. STJ: (..)
+A despeito de a questão recursal ter sido veiculada no âmbito dos Embargos de Divergência no REsp 1.925.959/SP, de Relatoria do Ministro Antonio Carlos Ferreira, reconhecendo-se a contrariedade entre os entendimentos das Terceira e Quarta Turmas do STJ acerca de saber se o " indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo", certo é que a Corte Especial do STJ decidiu o tema no sentido de que o indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado que foi indevidamente chamado a litigar em juízo. Confira-se:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NATUREZA JURÍDICA DE DEMANDA INCIDENTAL. LITIGIOSIDADE. EXISTÊNCIA. IMPROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO. CABIMENTO. JURISPRUDÊNCIA DOMINANTE. SUPERAÇÃO.
+1. A controvérsia dos autos está em verificar se é possível a fixação de honorários advocatícios na hipótese de rejeição do pedido formulado em incidente de desconsideração da personalidade jurídica.
+2. Apesar da denominação utilizada pelo legislador, o procedimento de desconsideração da personalidade jurídica tem natureza jurídica de demanda incidental, com partes, causa de pedir e pedido.
+3. O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+4. Recurso especial não provido."
+(REsp n. 2.072.206/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Corte Especial, julgado em 13/2/2025, DJEN de 12/3/2025)
+Desse modo, mostra-se imperiosa a determinação de retorno dos autos ao Tribunal de origem, para que novamente aprecie as razões recursais à luz da jurisprudência da Corte Especial do Superior Tribunal de Justiça e, superada a questão do cabimento, a instância ordinária julgue acerca do critério e da base de cálculo para a fixação de honorários sucumbenciais, no caso.
+Diante do exposto, dou provimento ao recurso especial no sentido de determinar o retorno dos autos ao Tribunal de origem para, em complemento ao julgado recorrido, fixar os honorários advocatícios sucumbenciais, como entender de direito.
+Publique-se.
+EMENTA
