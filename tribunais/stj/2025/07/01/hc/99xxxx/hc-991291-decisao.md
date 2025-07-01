@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO SUSSUMU YOSHIMURA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou improcedente a revisão criminal.
+A defesa informa que o paciente foi condenado à pena de 6 anos de reclusão em regime inicial fechado e ao pagamento de 10 dias-multa, como incurso no art. 17 da Lei n. 10.826/2003 (fls. 246-254). Interposto recurso de apelação, o Tribunal de origem negou provimento ao apelo defensivo, conforme acórdão de fls. 321-336.
+Com o trânsito em julgado do acórdão da apelação, a defesa ajuizou revisão criminal perante a Corte a quo, que julgou improcedente o pleito revisional. O trânsito em julgado do acórdão revisional ocorreu em 14/03/2025.
+No presente writ, a defesa alega que a condenação foi proferida em dissonância com as provas produzidas nos autos, destacando a ausência de elementos que comprovem a habitualidade da conduta imputada, essencial para a subsunção típica prevista no art. 17 da Lei n. 10.826/2003. Afirma que a fixação do regime inicial fechado é ilegal, pois a pena foi estabelecida no mínimo legal, sem circunstâncias judiciais desfavoráveis. Requer a concessão definitiva da ordem para desclassificar a conduta atribuída ao paciente do art. 17 para o art. 12 da Lei n. 10.826/2003, ou, subsidiariamente, para readequar o regime inicial de cumprimento da pena ao semiaberto (fls. 02-18).
+A liminar foi indeferida (fls. 428-429).
+Informações foram prestadas (fls. 434-468).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 474-477).
+É o relatório. DECIDO.
+O presente writ foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, em substituição a recurso próprio. Diante disso, não se deve conhecer do habeas corpus, nos termos da jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. UTILIZAÇÃO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+2. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois o aumento da pena-base considerou a quantidade e lesividade da droga apreendida - 216,6 gramas de crack - e o afastamento da causa de diminuição de pena da forma privilegiada do tráfico ocorreu em razão das circunstâncias em que houve a prisão em flagrante, que indicaram a habitualidade da atividade criminosa.
+3. Agravo regimental improvido.
+(AgRg no HC n. 966.792/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/6/2025, DJEN de 10/6/2025.)
+De toda sorte, não vislumbro nenhuma ilegalidade flagrante que desafie a concessão da ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+O Tribunal de origem julgou improcedente a revisão criminal e afastou a pretensa desclassificação da conduta pelos seguintes motivos (fl. 415):
+"Com efeito, o fato de o réu ser procurado especificamente em seu estabelecimento comercial para a venda de munições demonstra que essa atividade era habitual e amplamente conhecida entre os indivíduos daquela comunidade.
+Essa conclusão é corroborada por sua condenação anterior pelos mesmos atos, evidenciando que o delito era cometido no contexto de uma atividade comercial, a despeito do quanto alegado pelo peticionário.
+Nesse ponto, inclusive, conforme se extrai dos trechos acima transcritos o acusado, ora peticionário, e o corréu sequer se conheciam, o que reforça a ideia de que todos ali sabiam que João vendia munições, pois, de contrário, Rodrigo não o teria procurado.
+Além disso, a alegação de que se tratava de apenas dez munições intactas e de que o acusado, ora peticionário, desconhecia o propósito do comprador para os artefatos não justifica a reclassificação do crime para um tipo penal diverso, como ora se pretende.
+Deste modo, verifica-se que a condenação foi fundamentada em um conjunto probatório suficiente, de modo que deve ser mantida."
+A instância a quo, soberana na análise do conjunto fático-probatório, alicerçou a manutenção da condenação em elementos concretos, cuja revisão demandaria revolvimento aprofundado das provas produzidas, providência indevida na estreita via do habeas corpus.
+Nesse espeque, "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória." (AgRg no HC n. 854.390/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2023, DJe de 29/9/2023.).
+Por sua vez, com relação ao regime inicial de cumprimento de pena, assim fundamentou o Tribunal de origem (fls. 415-416):
+"Com relação ao regime inicial, assim dispôs a r. sentença condenatória: "Nos termos do artigo 33 do Código Penal, fixo o regime inicial fechado para o cumprimento da pena privativa de liberdade de reclusão pelo réu João (..)". (fls 227, dos autos de origem) (sic).
+Na sequência, assim constou de v. Acórdão: "Considerando a reincidência específica de João, o regime fixado foi o fechado, o que não demanda reparos, dada a reprovabilidade de sua conduta em ter sido condenado anos atrás e voltar a comercializar munições, quiçá armas em seu estabelecimento comercial". (fls. 312, dos autos de origem) (sic). (destaquei).
+Com a devida vênia, entendo que o regime inicial fechado restou bem justificado. Isso porque, se trata de indivíduo reincidente específico, condenado a uma pena consideravelmente expressiva  06 anos de reclusão .
+Acrescente-se que, conforme conjunto probatório produzido nos autos originários, o acusado era conhecido na comarca como vendedor de munições. A habitualidade de sua conduta, a gravidade de seu ato e a renitência em comportamentos socialmente inadequados exigem a fixação de um regime inicial mais severo, justamente para coibir o cometimento do delito em questão.
+Sendo assim, em que pesem os argumentos do peticionário, não se vislumbra qualquer hipótese de fixação de regime inicial mais brando."
+Em se tratando de condenação de indivíduo reincidente à pena de 6 anos de reclusão, era mesmo de rigor a fixação do regime inicial fechado, conforme determinam os estritos termos do art. 33 do Código Penal.
+Ademais, o entendimento adotado para fixar o regime fechado encontra respaldo na jurisprudência desta Corte Superior, na medida em que "a reincidência específica do agente justifica a imposição de regime inicial fechado aos condenados ao cumprimento de pena reclusiva, superior a cinco anos" (AgRg no HC n. 984.102/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+Dessa forma, nã o se verifica constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus impetrado.
+Publique-se. Intimem-se.
+EMENTA
