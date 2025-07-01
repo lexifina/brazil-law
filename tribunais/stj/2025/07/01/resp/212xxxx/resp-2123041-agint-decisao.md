@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno (fls. 1.458-1.463) interposto por IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SOROCABA contra decisão (fls. 1.458-1.463), desta relatoria, que conheceu do agravo para negar provimento ao recurso especial, sob os seguintes fundamentos: a) rejeitada a violação ao art. 2º da Lei 14.334/2022, uma vez que o entendimento do eg. Tribunal Estadual coaduna com a jurisprudência do STJ no sentido de que a lei processual somente atingirá os atos processuais posteriores a sua vigência; e b) o apelo nobre encontra óbice na Súmula 83/STJ, a qual é aplicável tanto pela alínea a como pela alínea c do permissivo constitucional.
+Nas razões do agravo interno, IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SOROCABA afirma, em síntese, que "a tese deduzida pela Agravante é de que a norma jurídica prevista no art. 2º da Lei nº 14.334/2022 indicada como violada e que trata da impenhorabilidade tem por bem jurídico tutelado a propriedade privada de Hospitais filantrópicos e Santas Casas de Misericórdia tal como determinadas, o que evidentemente tem conteúdo de direito material, e não processual, como afirmado na decisão agravada" (fl. 1.467 - destaques no original).
+Defende que a decisão agravada "parte da premissa de que há posicionamento pacificado quanto à suposta irretroatividade da norma (ainda que em casos de direito processual, diferente do aqui tratado), ou seja, as decisões supostamente pacificadas não se referem ao mesmo caso objeto dos autos, não julgaram a mesma questão posta pela Agravante e, por isso, não podem ser aplicadas" (fl. 1.468).
+Assevera, ainda, que "como a própria decisão monocrática afirma, a penhora de imóvel desta Agravante jamais se concretizou nos autos, uma vez que não basta o proferimento da decisão, mas sim a efetivação da medida de expropriação do bem, seja pela alienação com a realização de leilão, seja pela adjudicação. O bem continua sob a propriedade desta Agravante até que haja a efetiva expropriação. 7. Logo, o mero deferimento de penhora não impede seu cancelamento (antes da efetivação) pela superveniência de lei que defina a impenhorabilidade, por se tratar de ato processual ainda não concluído - não se tratando de situação jurídica consolidada, ao que se aplica a disposição do art. 14, do CPC" (fl. 1.468).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o recurso levado a julgamento perante a eg. Quarta Turma.
+Sem impugnação, certidão à fl. 1.474.
+É o relatório. Passo a decidir.
+Afiguram-se relevantes os argumentos trazidos no agravo interno.
+Cinge-se a controvérsia em saber se, na hipótese, aplica-se ou não o disposto na Lei n.º 14.334/2022, que instituiu a impenhorabilidade de bens de hospitais filantrópicos e Santas Casas de Misericórdia, tendo em conta a penhora ter sido realizada antes da vigência do referido normativo.
+Da análise dos argumentos expostos pela agravante nas razões do recurso especial, observa-se que não há jurisprudência firmada sobre a tese particularmente tratada nestes autos.
+Desse modo, evidencia-se a necessidade de provimento ao agravo interno e de reconsideração da decisão agravada, para posterior melhor análise da tese e julgamento do processo.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada.
+Publique-se.
+Encaminhem-se os autos ao d. Ministério Público Federal, para parecer de estilo.
+Após, retornem os autos conclusos para novo exame do apelo nobre.
+EMENTA
