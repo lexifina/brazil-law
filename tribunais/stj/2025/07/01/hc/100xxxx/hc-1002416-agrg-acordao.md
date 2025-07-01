@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2025 a 01/07/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Execução penal. Reincidência específica EM CRIME HEDIONDO OU EQUIPARADO. APLICAÇÃO DA FRAÇÃO DE 60% PARA A PROGRESSÃO DE REGIME. Agravo regimental DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, mantendo a aplicação do percentual de 60% para progressão de regime, em razão da reincidência específica do agravante em crime hediondo ou equiparado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a aplicação do percentual de 60% para progressão de regime, em razão da reincidência específica em crime hediondo ou equiparado, é adequada, considerando a alegação de que o agravante não possui condenações anteriores por homicídio qualificado, mas sim por tráfico de drogas, que não possui resultado morte.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça estabelece que deve ser cumprida a fração de 60% da pena para que haja a progressão de regime no caso de reincidente específico na prática de crime hediondo ou equiparado, nos termos do que dispõe o art. 112, VII, da Lei de Execução Penal, não sendo necessário, ainda, que a reincidência seja em razão da prática do mesmo delito.
+IV. Dispositivo e tese
+4. Agravo regimental não provido.
+Tese de julgamento: "1. A reincidência específica em crimes hediondos ou equiparados justifica a aplicação do percentual de 60% para progressão de regime, nos termos do art. 112, VII, da LEP.
+Dispositivos relevantes citados: LEP, art. 112, VII; Lei nº 8.072/90, art. 1º, I.
+Jurisprudência relevante citada: STJ, AgRg no HC 836.863/SC, Rel. Min. Daniela Teixeira, Quinta Turma, j. 11.06.2024; STJ, AgRg no REsp 2.153.502/DF, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 23.10.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RICARDO FERREIRA VIDOTTO DE AZEVEDO contra decisão proferida às fls. 52/56, de minha relatoria, que indeferiu liminarmente o habeas corpus.
+Nas razões recursais, a defesa alega que o agravante não possui condenações anteriores por homicídio qualificado, mas sim por tráfico de drogas, o que afasta a hipótese de reincidência específica em crime com resultado morte, conforme exigido pelo art. 112, VII, da LEP.
+Sustenta que a progressão de regime deve observar as peculiaridades do caso concreto e que a simples unificação de penas não transforma reincidência genérica em específica. Aduz que a aplicação automática do percentual de 60% para a progressão de regime afronta o princípio da individualização da pena.
+Argumenta que, caso de dúvida interpretativa quanto à reincidência específica, deve-se aplicar o entendimento mais benéfico ao réu, ou seja, o percentual de 50% previsto no V do art. 112 da LEP, em homenagem ao princípio da legalidade e da interpretação in bonam partem.
+Requer, assim, a reconsideração da decisão ou o provimento do recurso pelo órgão colegiado para que seja retificado o cálculo de pena do agravante, aplicando-se o percentual de 50% para progressão de regime.
+Os autos foram encaminhados ao Ministério Público Federal - MPF para manifestação, o qual requereu que fosse determinada a intimação do Ministério Público do Estado de Goiás para apresentar contrarrazões ao agravo regimental (fl. 72).
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Execução penal. Reincidência específica EM CRIME HEDIONDO OU EQUIPARADO. APLICAÇÃO DA FRAÇÃO DE 60% PARA A PROGRESSÃO DE REGIME. Agravo regimental DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, mantendo a aplicação do percentual de 60% para progressão de regime, em razão da reincidência específica do agravante em crime hediondo ou equiparado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a aplicação do percentual de 60% para progressão de regime, em razão da reincidência específica em crime hediondo ou equiparado, é adequada, considerando a alegação de que o agravante não possui condenações anteriores por homicídio qualificado, mas sim por tráfico de drogas, que não possui resultado morte.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça estabelece que deve ser cumprida a fração de 60% da pena para que haja a progressão de regime no caso de reincidente específico na prática de crime hediondo ou equiparado, nos termos do que dispõe o art. 112, VII, da Lei de Execução Penal, não sendo necessário, ainda, que a reincidência seja em razão da prática do mesmo delito.
+IV. Dispositivo e tese
+4. Agravo regimental não provido.
+Tese de julgamento: "1. A reincidência específica em crimes hediondos ou equiparados justifica a aplicação do percentual de 60% para progressão de regime, nos termos do art. 112, VII, da LEP.
+Dispositivos relevantes citados: LEP, art. 112, VII; Lei nº 8.072/90, art. 1º, I.
+Jurisprudência relevante citada: STJ, AgRg no HC 836.863/SC, Rel. Min. Daniela Teixeira, Quinta Turma, j. 11.06.2024; STJ, AgRg no REsp 2.153.502/DF, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 23.10.2024.
+VOTO
+Inicialmente, esclareço que, encaminhados os autos ao Ministério Público para manifestação sobre o recurso interposto, o Parquet Federal pediu a intimação do Ministério Público Estadual para contraminutar o agravo regimental.
+Não há previsão legal ou regimental de contrarrazões ao agravo regimental em habeas corpus, sendo prescindível a intimação do Ministério Público Estadual para apresentar resposta ao recurso da defesa.
+A intervenção do Ministério Público, órgão uno e indivisível (CF, art. 127, § 1º), nos procedimentos de habeas corpus nos tribunais, fundada no Decreto-lei n. 552/69, é efetivada pela concessão de oportunidade para manifestação do Subprocurador-Geral da República atuante nesta Corte Superior. É irrelevante, segundo a melhor exegese dos objetivos da norma, ser de custo s legis o perfil dessa atuação.
+No mais, a decisão deve ser mantida por seus próprios fundamentos.
+Extrai-se dos autos que o Juízo das Execuções Penais indeferiu o pedido de retificação do cálculo de penas formulado pelo agravante, conforme decisão de fls. 18/19.
+Irresignada, a defesa interpôs agravo no TJGO, que negou provimento ao recurso nos termos do acórdão de fls. 10/17.
+Na ocasião, o Tribunal a quo entendeu pela aplicação do percentual de 60% para a progressão de regime ao fundamento de ser o ora agravante reincidente específico em crime hediondo/equiparado, conforme se verifica dos seguintes trechos:
+"Dos autos e da consulta ao processo de execução (0282403 -83.2017.8.09.0175), verifica-se que o agravante foi condenado a 25 (vinte e cinco) anos, 9 (nove) meses e 7 (sete) dias de reclusão, em regime fechado, em razão das seguintes condenações:
+- 4 (quatro) anos, 9 (nove) meses e 16 (dezesseis) dias de reclusão pela prática da conduta prevista no art. 33, caput, da Lei 11.343/06 , fato ocorrido em 16/8/2015 e sentença transitada em julgado em 2/5/2016- Ação Penal nº 0000046-27.2120.1.54.0136; - 12 (doze) anos de reclusão pela prática da conduta prevista no art. 121, § 2º e 1 (um) ano e 3 (três) meses de reclusão pela prática do delito previsto no art. 155, todos do Código Penal, fatos ocorridos em 10/2/2017 e sentença transitada em julgado em 16/02/2023 - Ação Penal nº 0178040-45.2017.8.09.0175; - 7 (sete) anos de reclusão pela prática da conduta prevista no art. 33, caput, da Lei 11.343/06, fato ocorrido em 4/10/2013 e sentença transitada em julgado em 30/8/2017 - Ação Penal nº 0003802- 16.2013.8.11.0051.
+Além disso, na movimentação n. 143 do processo de execução, foi registrada nova condenação definitiva no processo nº 0001051-94.2017.8.09.0011, com pena de 1 (um) ano e 6 (seis) meses de reclusão e 60 (sessenta) dias-multa, em regime inicial semiaberto, pelo crime do art. 180, caput, do Código Penal.
+O agravante sustenta que a fração aplicada para progressão de regime deve ser de 2/5 (dois quintos) ou 50% (cinquenta por cento) sobre a pena unificada (mov. 94 - autos de execução).
+ ..
+Nos termos do art. 111 da Lei de Execução Penal (LEP), as penas foram unificadas, prevalecendo o entendimento de que a reincidência deve ser considerada sobre o total das penas resultantes das diversas condenações (STJ, HC 427.803/PR).
+Além disso, conforme entendimento consolidado pelo Superior Tribunal de Justiça, a reincidência é uma circunstância pessoal que, no momento da unificação das penas, incide sobre todos os processos em execução, e não apenas sobre aqueles em que tenha sido expressamente reconhecida. Não há, portanto, ofensa à coisa julgada nesse procedimento (STJ, AgRg no HC n. 836.863/SC, publicado em 5/3/2024).
+O agravante foi condenado pela prática de homicídio qualificado (art. 121, § 2º, do Código Penal), ocorrido em 10/2/2017, crime classificado como hediondo nos termos do art. 1º, inciso I, da Lei nº 8.072/90. Além disso, possui duas condenações anteriores por tráfico de drogas, sendo a primeira no processo nº 0000046- 27.2120.1.54.0136, por fato ocorrido em 4/10/2013, e a segunda no processo nº 0003802-16.2013.8.11.0051, referente a delito praticado em 16/8/2015.
+Diante da reincidência específica em crimes hediondos, impõe-se a aplicação do percentual de 60% (sessenta por cento) para progressão de regime, nos termos do art. 2º, § 2º, da Lei nº 8.072/90, vigente à época dos delitos, percentual correspondente ao previsto no art. 112, inciso VII, da LEP.
+Contrariamente ao alegado pelo agravante, o Superior Tribunal de Justiça tem reiterado, em julgamentos recentes, que a reincidência, uma vez reconhecida, deve incidir sobre todas as penas de mesma natureza, sendo aplicado um percentual único sobre o total das penas unificadas, respeitando-se a distinção entre crimes comuns e crimes hediondos ou equiparados. Nesse sentido:
+ ..
+Por se tratar de reincidente específico em crime hediondo, não há que se cogitar a aplicação retroativa de lei penal mais benéfica, devendo prevalecer a exigência de cumprimento de 3/5 (três quintos) da pena, ou 60% (sessenta por cento), como requisito objetivo para progressão de regime, conforme disposto no art. 112, inciso VII, da Lei de Execução Penal. Nesse sentido, destaca-se o entendimento consolidado pelo Superior Tribunal de Justiça:
+ ..
+O agravante reincidiu especificamente na prática de crime hediondo ou equiparado, pois cometeu novo crime de tráfico de drogas após condenação definitiva anterior pelo mesmo delito, além da condenação por homicídio qualificado. Essa circunstância impede a modificação do percentual fixado pelo Juízo da Execução. Nesse sentido, segue o entendimento deste Tribunal:
+ ..
+Dessa forma, resta evidente que a aplicação da fração de 3/5 (três quintos) ou 60% (sessenta por cento) para progressão de regime deve ser mantida, uma vez que o agravante ostenta reincidência específica em crime hediondo ou equiparado. Conforme pacificado pela jurisprudência do Superior Tribunal de Justiça e deste Tribunal, a reincidência específica se estende a todas as penas unificadas, não sendo cabível a aplicação de percentuais distintos para cada condenação." (fls. 10/15)
+Na hipótese, vê-se que o agravante foi condenado pela prática de homicídio qualificado ocorrido em 10/2/2017, crime classificado como hediondo, nos termos do art. 1º, I, da Lei n. 8.072/90. Além disso, possui duas condenações anteriores por tráfico de drogas, delito equiparado a hediondo, sendo, portanto, reincidente específico em crime hediondo/equiparado.
+Desse modo, a conclusão do Tribunal de origem está em consonância com o entendimento desta Corte Superior, no sentido de que deve ser cumprida a fração de 60% da pena para que haja a progressão de regime no caso de reincidente específico na prática de crime hediondo ou equiparado, nos termos do que dispõe o art. 112, VII, da Lei de Execução Penal - LEP, não sendo necessário, ainda, que a reincidência seja em razão da prática do mesmo delito.
+Assim, é caso de aplicação do percentual de 60% (3/5) da pena, previsto no inciso VII, do art. 112 da LEP, para o cálculo de progressão de regime do paciente.
+No mesmo sentido (grifos nossos):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REINCIDENTE NA PRÁTICA DE CRIME HEDIONDO OU OUTRO A ELE EQUIPARADO. CUMPRIMENTO DE 3/5 DA PENA, OU 60%, COMO REQUISITO PARA PROGRESSÃO DE REGIME. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Mesmo antes das alterações trazidas pelo Pacote Anticrime, no caso de condenado por homicídio e tráfico de drogas, reincidente na prática de crime hediondo ou outro a ele equiparado, já era necessário o cumprimento de 3/5 da pena, ou 60%, para a progressão de regime. Atualmente, persiste a exigência e não é possível discutir a retroatividade de lei penal mais favorável.
+2. Em relação ao art. 112, VII, da LEP, a "Lei 13.914/2019 não exigiu que a reincidência para fins de progressão de regime fosse específica (pela prática do mesmo delito), mas apenas que o condenado fosse reincidente em crime hediondo ou equiparado a hediondo" (AgRg no HC n. 720.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/3/2022, DJe de 25/3/2022).
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.153.502/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO OBJETIVO. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO E/OU EQUIPARADO. APLICAÇÃO DO PERCENTUAL DE 60%. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. DECISÃO MANTIDA.
+1. Conforme orientação jurisprudencial desta Corte, tratando-se de reincidente específico em crime hediondo e/ou equiparado, tal como no caso, em que o agravante possui condenações por homicídio qualificado e tráfico ilícito de entorpecentes, há de se exigir o cumprimento de 60% da pena para a progressão de regime.
+ ..
+3. Agravo regimental não provido. Decisão mantida.
+(AgRg no HC n. 788.210/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CRIME HEDIONDO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE ESPECÍFICO. REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTE ANTICRIME). PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. INAPLICÁVEL. PACIENTE REINCIDENTE ESPECÍFICO. JURISPRUDÊNCIA CONSOLIDADA. AGRAVO DESPROVIDO.
+1. No julgamento do HC 613.268/SP, fixou orientação jurisprudencial no sentido de que não há como aplicar de forma extensiva e prejudicial aos reincidentes genéricos o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+2. No caso, segundo consignado no acórdão impugnado o ora paciente é reincidente específico em crime equiparado a hediondo, conforme destacado no acórdão atacado. Cabe ressaltar que é pacífico o entendimento desta Corte Superior no sentido de que o tráfico de drogas é crime equiparado a hediondo, mesmo após a edição do Lei n. 13.964/2019.
+Desse modo, deve ser mantido o patamar de 60%, nos termos do art. 112, VII, da Lei de Execução Penal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 729.176/SP, de minha Relatoria, Quinta Turma, DJe de 3/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984, COM AS ALTERAÇÕES DA LEI N. 13.964/2019. REQUISITO OBJETIVO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. IMPROCEDÊNCIA. AGRAVO DESPROVIDO.
+1. Antes da vigência da Lei n. 13.964/2019, o art. 112 da Lei de Execução Penal previa como requisito objetivo o cumprimento da fração de 1/6 (um sexto) da pena no regime anterior, para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos, a Lei n. 8.072/1990, em seu art. 2.º, § 2.º, estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+2. Com o advento do mencionado regramento, o sistema progressivo de regime prisional passou a ter critérios diferenciados, sobretudo no que concerne ao requisito objetivo. Assim, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal.
+3. No caso, na situação do Apenado - reincidente específico em crime hediondo - o Reeducando alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 60% (sessenta por cento) da reprimenda, segundo o disposto no art. 112, inciso VII, da Lei n. 7.210/1984.
+4. Agravo regimental desprovido.
+(AgRg no HC 713.494/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 25/2/2022).
+Dessa forma, assim como concluído na decisão agravada, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de habeas corpus de ofício.
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
