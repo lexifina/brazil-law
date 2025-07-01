@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DIEGO RIBEIRO SARTO contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o juízo de primeiro grau condenou o ora paciente como incurso nas sanções do art. 180, § 1º, do Código Penal, à pena de 4 anos de reclusão, no regime inicial fechado, mais 12 dias-multa (fls. 60-86).
+O Tribunal a quo, em decisão unânime, não conheceu do habeas corpus ali impetrado, em acórdão cuja ementa registra (fls. 21/25):
+Habeas corpus Pretensão de reconhecimento de ilicitude da prova obtida por meio de invasão a domicílio, com consequente absolvição por ausência de materialidade Pedido subsidiário de determinação de nova sentença Descabimento Acórdão confirmatório da condenação desta Câmara Criminal Recursos interpostos perante o c. STJ Competência para conhecer de habeas corpus somente da autoridade judiciária hierarquicamente superior àquela de que provier a coação, sendo incompetente a de hierarquia inferior ou, mesmo, igual Impossibilidade de utilização de habeas corpus como sucedânea recursal Precedentes Descabimento de concessão da ordem de ofício Ordem não conhecida, liminarmente.
+A defesa alega, em síntese, ocorrência de constrangimento ilegal, sob o argumento de que "a autorização de ingresso em domicílio deve ocorrer de maneira voluntária pelo investigado, inclusive com declaração assinada pela pessoa que autorizou o ingresso, registrada em áudio- vídeo, bem como que seja tal autorização realizada livre de qualquer coação" (fl. 14).
+Diz, ademais, que "Houve ilicitude na obtenção da prova, e em razão disso, todas as provas obtidas por meio da medida invasiva são ilícitas, bem como todas que dela decorreram (por forçada Teoria dos Frutos da Árvore Envenenada - art. 157, §1º, CPP)" (fl. 18).
+Ao final, requer a concessão da ordem, para "anular o referido processo e absolver o paciente nos termos do art. 386, VII, do Código de Processo Penal" (fl. 19).
+A liminar foi indeferida (fls. 808-809) e as informações foram prestadas (fls. 814-851).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, em parecer assim ementado (fl. 856):
+EMENTA. PENAL. PROCESSUAL PENAL. HABEAS CORPUS. CONDENAÇÃO. TRÂNSITO EM JULGADO DA AÇÃO PENAL. PLEITO. ABSOLVIÇÃO. AFASTAMENTO DA COISA JULGADA. RESCISÃO DA COISA JULGADA NA VIA MANDAMENTAL. INVIABILIDADE. FUNDADA SUSPEITA VERIFICADA. DILIGÊNCIA LASTREADA EM ELEMENTOS OBJETIVOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO NÃO CONHECIMENTO DA ORDEM.
+É o relatório. Decido.
+No caso, verifica-se que o presente writ foi impetrado em 12/5/2025, após o trânsito em julgado da condenação, sendo, pois, substitutivo de revisão criminal.
+Conforme informações prestadas e de acordo com os dados extraídos do site do Tribunal a quo, verifica-se que o Habeas Corpus impetrado na origem não foi conhecido por ser substitutivo de revisão criminal e por não se vislumbrar manifesta ilegalidade.
+Nos autos da ação penal n. 1503179-05.2019.8.26.0032, o ora paciente foi condenado como incurso no art. 180, § 1º, do Código Penal, a 4 anos e 1 mês de reclusão, no regime inicial fechado, e 12 dias-multa. Interposta apelação, o recurso defensivo foi desprovido e os embargos de declaração rejeitados. Na sequência, foi interposto recurso especial, o qual foi inadmitido.
+Em consulta processual nesta Corte Superior, verifica-se que o AREsp n. 2.306.900/SP interposto pela parte não foi conhecido, da mesma forma que o agravo regimental, com o trânsito em julgado certificado em 1/9/2023. O Habeas Corpus n. 851.324/SP também não foi conhecido.
+Nos termos da jurisprudência desta Corte, " n ão deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, D Je de 18/8/2022)" (AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Desse modo, tratando-se de condenação já transitada em julgado, tem-se por inviável o conhecimento do presente writ, diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+Nesse contexto, ainda que relevantes os argumentos deduzidos na inicial, o egrégio STJ não tem competência para o exame da questão ora suscitada, cabendo à parte, se desejar, ajuizar revisão criminal no Tribunal de origem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
