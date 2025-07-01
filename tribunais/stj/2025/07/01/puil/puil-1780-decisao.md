@@ -1,0 +1,38 @@
+DECISÃO
+Em análise, pedido de uniformização de interpretação de lei apresentado pelo MUNICÍPIO DE JARAGUÁ DO SUL contra acórdão da QUINTA TURMA RECURSAL DE JOINVILLE/SC, que manteve sentença mediante a qual o ente público foi condenado a pagar adicional de insalubridade, e seus reflexos, a partir de 31/10/2011.
+Argumenta o ente local a impossibilidade de ser condenado ao pagamento de adicional de insalubridade em período anterior ao do laudo pericial que comprovou as condições de trabalho da parte autora, ponto sobre o qual o acórdão divergiu de Turmas Recursais do Distrito Federal e do Estado de São Paulo.
+Afirma, ainda, haver interpretação divergente do art. 19, §§ 1º e 6º, da Lei 12.153/2009, porquanto a decisão proferida por esta Corte Superior no PUIL 413/RS possui efeito vinculante e, por isso, deveria ter sido obedecida pelas instâncias anteriores.
+Contrarrazões apresentadas (fls. 276-279).
+É o relatório.
+Passo a decidir.
+Acerca da possibilidade de pagamento de adicional de insalubridade em período anterior à confecção do laudo pericial, observo que a parte não indicou o dispositivo da legislação federal interpretado divergentemente (art. 17, §3º, da Lei 12.153/2009), razão pela qual, nesse ponto, o pedido de uniformização de lei não pode ser conhecido.
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DISSENSO INTERPRETATIVO. NÃO DEMONSTRAÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO CONTROVERTIDO. REEXAME DE MATÉRIA FÁTICA. DESCABIMENTO. CORREÇÃO DAS DEFICIÊNCIAS NO RECURSO INTERNO. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. O agravante não indicou qual o dispositivo de lei federal acerca do qual haveria a divergência interpretativa.
+ ..
+4. Pela preclusão consumativa, é inviável a tentativa de corrigir, no agravo interno, as deficiências da petição de interposição do incidente, como no caso concreto, em que, na presente insurgência interna, se indicou o dispositivo cuja interpretação seria controvertida.
+5. Agravo interno desprovido (AgInt no PUIL n. 4.596/SP, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 14/5/2025, DJEN de 20/5/2025 - grifo nosso).
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+VI - Na hipótese dos autos, a parte requerente não apontou qual o dispositivo de lei federal a Terceira Turma Recursal do TJCE teria dado interpretação divergente daquela firmada pelo STJ, circunstância que impede o conhecimento do pedido de uniformização de interpretação de lei. Nesse sentido: AgInt no PUIL n. 2.952/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 14/2/2023, DJe de 8/3/2023; AgInt no PUIL n. 2.672/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 16/8/2022, DJe de 22/8/2022.
+VII - Agravo interno improvido (AgInt no PUIL n. 4.142/CE, relator Ministro Francisco Falcão, Primeira Seção, julgado em 15/10/2024, DJe de 17/10/2024 - grifo nosso).
+De outra parte, o art. 19, §§ 1º e 6º, da Lei 12.153/2009 apenas descreve procedimento para aplicação do mesmo entendimento a processos semelhantes que foram suspensos nas Turmas Recursais vinculadas Turmas de Uniformização de determinado estado ou do DF após a admissão de pedido de uniformização de interpretação de lei por este STJ. In verbis:
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o §1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+§ 1º Eventuais pedidos de uniformização fundados em questões idênticas e recebidos subsequentemente em quaisquer das Turmas Recursais ficarão retidos nos autos, aguardando pronunciamento do Superior Tribunal de Justiça.
+§ 6º Publicado o acórdão respectivo, os pedidos retidos referidos no §1º serão apreciados pelas Turmas Recursais, que poderão exercer juízo de retratação ou os declararão prejudicados, se veicularem tese não acolhida pelo Superior Tribunal de Justiça.
+Dessa forma, esse dispositivo não possui comando normativo apto a sustentar a tese de que decisões proferidas por esta Corte Superior em pedidos de uniformização de interpretação de lei possuem efeito vinculante, razão pela qual se aplica, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. LAUDO PERICIAL. VIA JUDICIAL. TERMO A QUO. PUIL 413/RS. INAPLICABILIDADE. CIRCUNSTÂNCIAS JURÍDICAS E FÁTICAS DIVERSAS. ART. 927, III, DO CPC. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. OFENSA AOS ARTS. 190 E 195 DA CLT. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. No que se refere ao termo a quo para o pagamento de adicional de insalubridade reconhecido a servidor público municipal por laudo pericial produzido judicialmente, o Tribunal de origem afastou o entendimento firmado no julgamento do PUIL 413/RS em face das circunstâncias jurídicas e fáticas dos casos.
+2. O art. 927, III, do Código de Processo Civil (CPC) não contém comando normativo suficiente para infirmar o fundamento do acórdão recorrido, de afastar a incidência do entendimento fixado no PUIL 413/PR no caso concreto, mormente porque esse precedente cuidou de interpretar os arts. 68 e 70 da Lei 8.112/1990 e o art. 6º do Decreto 97.458/1989, base normativa diversa da que foi enfrentada nestes presentes autos, assim como fez distinção entre os laudos produzidos nas vias administrativa e judicial. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+3. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento (AgInt nos EDcl no AgInt no REsp n. 2.001.068/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/8/2024, DJe de 2/9/2024).
+De todo modo, ressalto que esta Corte Superior já afastou o efeito vinculante das decisões proferidas em pedidos de uniformização de interpretação de lei, consoante o seguinte julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA.
+1. Não há violação do art. 1022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente violado ou interpretado de maneira divergente, pelo Tribunal de origem, implica deficiência de fundamentação no recurso especial, hipótese que impõe a incidência do óbice da Súmula 284 do STF.
+3. O Pedido de Uniformização de Jurisprudência (PUIL), para fins de aplicação do CPC/2015, não se enquadra como demanda repetitiva apta a vincular juízes e tribunais no julgamento. O PUIL faz parte de um sistema próprio para solucionar divergência apenas no âmbito dos Juizados Especiais, de acordo com o art. 14 da Lei n. 10.259/2001 e do art. 18 da Lei n. 12.153/2009, não tendo o condão de vincular os demais juízes e tribunais (no procedimento comum).
+4. Agravo interno desprovido (AgInt no AREsp n. 2.700.572/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/3/2025, DJEN de 31/3/2025).
+Isso posto, com fundamento no art. 34, XVIII, a do RISTJ, não conheço do pedido.
+Intimem-se.
+EMENTA
