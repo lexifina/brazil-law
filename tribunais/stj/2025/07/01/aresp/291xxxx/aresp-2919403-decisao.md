@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - PEDIDO DE CONCESSÃO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA À PARTE AUTORA - INDEFERIMENTO NA ORIGEM - INSURGÊNCIA - DESCABIMENTO - O PRESSUPOSTO PARA A CONCESSÃO DA BENESSE É A INSUFICIÊNCIA DE RECURSOS FINANCEIROS (ART. 5O, LXXIV, CF), POIS A PRESUNÇÃO DE NECESSIDADE É RELATIVA - PARTE QUE NÃO PRODUZIU PROVA SATISFATÓRIA QUE CORROBORASSE A ALEGADA FALTA DE RECURSOS PARA ARCAR COM OS CUSTOS DA LIDE - INTELIGÊNCIA DA SÚMULA 481 DO C. SUPERIOR TRIBUNAL DE JUSTIÇA - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 98 do CPC, no que concerne à necessidade de concessão da gratuidade de justiça, considerando a demonstração da condição de hipossuficiência da recorrente, trazendo a seguinte argumentação:
+Comprovada a violação de dispositivo legal - art. 98 do CPC - impõe-se de imediato a reforma do v. acórdão recorrido.
+Reza o art. supra que a gratuidade deve ser deferida às empresas que comprovarem a miserabilidade jurídica, o que se fez com sucesso.
+A apresentação de extratos, "data vênia", é irrelevante e nada acrescentaria. Pior:
+poderia passar a ideia errada, de que há dinheiro em caixa disponível, quando o que lá está permanece integralmente comprometido com o funcionamento da instituição.
+Contabilmente falando, a Recorrente apresentou documentos mais do que suficientes para demonstrar a necessidade de ser beneficiada com a gratuidade.
+É tranquilo dizer que a massiva maioria dos processos em que a Recorrente litiga contam com a gratuidade. Aos poucos que não contam, a demanda nem sempre é levada para frente - tudo depende da solvabilidade da empresa/pessoa devedora, frente ao que pode ser empenhado para manter a ação em andamento.
+Outrossim, a colocação do MM. Juízo de 1º grau é imprecisa; mas, infelizmente, foi mimetizada no v. acórdão recorrido, dando a impressão de que a Recorrente possui ativo invejável, tão grande que torna o passivo irrelevante.
+Isto não é verdade.
+O v. acórdão recorrido, respeitoso que foi, pecou apenas em sua conclusão.
+Não se decide um processo com base no ativo da Santa Casa: decide-se sobre a gratuidade de acordo com aquilo que está no processo. O ativo precisa ser balanceado/contabilizado junto do passivo, os quais, juntos, dão resultado negativo.
+No caso concreto, o valor patrimonial ativo, deduzido do passivo, resulta em milhões de reais negativos. Logo, ao negar a gratuidade à Recorrente, violou-se manifestamente o art. 98 do CPC - que, ao caso, certamente permite o uso da justiça gratuita.
+Em razão de todo o exposto, demonstrados estão os motivos pelo qual o v. acórdão deve ser integralmente reformado, outorgando-se à Recorrente o direito à gratuidade (fls. 70-71).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Nestes termos, considerando-se a ausência de demonstração inequívoca de receitas e patrimônio para fazer jus aos custos da lide, conforme exposto alhures, correto o indeferimento da benesse legal (fl. 58).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
