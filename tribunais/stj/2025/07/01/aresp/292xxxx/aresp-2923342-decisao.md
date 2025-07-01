@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por HÉRICA PRISCILLA DOS SANTOS ARAÚJO MATOS em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"EMENTA: DIREITO CIVIL E DIREITO À SAÚDE. DUPLA APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA CONCEDIDA À PARTE AUTORA. REJEIÇÃO. PRELIMINAR DE SENTENÇA EXTRA PETITA. A F A S T A M E N T O . P L A N O D E S A Ú D E . N E G A T I V A D E A U T O R I Z A Ç Ã O D E C I R U R G I A S P Ó S - B A R I Á T R I C A S . PROCEDIMENTOS DE CARÁTER ESTRITAMENTE REPARADOR. COBERTURA OBRIGATÓRIA. CIRURGIAS ESTÉTICAS. EXCLUSÃO. DANO MORAL. NÃO CONFIGURAÇÃO. SENTENÇA MANTIDA.
+I. CASO EM EXAME: Apelações cíveis interpostas por ambas as partes contra sentença que julgou parcialmente procedentes os pedidos iniciais em ação de obrigação de fazer e responsabilidade civil, condenando a operadora de plano de saúde a autorizar os procedimentos de abdominoplastia e correção de diástase dos músculos retos abdominais.
+Busca a autora a cobertura total dos procedimentos cirúrgicos prescritos e indenização por danos morais, enquanto a operadora pleiteia a improcedência dos pedidos e revogação da gratuidade judiciária concedida à parte contrária.
+II. QUESTÃO EM DISCUSSÃO: Verificar, em sede preliminar:
+(i) se a autora faz jus à gratuidade judiciária, em face da impugnação apresentada pela operadora, e (ii) a ocorrência de julgamento extra petita, diante da inclusão de cobertura de procedimento supostamente não requerido. No mérito, definir: (i) se a demandante tem direito à cobertura integral dos procedimentos pós-bariátricos indicados pelo médico que lhe assiste. e (ii) examinar se a negativa parcial de cobertura configura dano moral indenizável.
+III. RAZÕES DE DECIDIR:
+3.1. A impugnação à gratuidade judiciária deve ser rejeitada, pois a operadora não apresentou prova documental suficiente para desconstituir a hipossuficiência financeira comprovada pela parte autora.
+3.2. A alegação de sentença extra petita também há de ser afastada, visto que o pedido inicial da autora abrangia expressamente o conjunto de procedimentos pós-bariátricos indicados pelo médico assistente, incluindo a abdominoplastia e correção de diástase, o que se alinha aos limites da postulação inicial.
+3.3. Quanto à cobertura dos procedimentos, apenas as cirurgias de caráter reparador ou funcional são de cobertura obrigatória, conforme previsto no rol da ANS, excluindo-se os procedimentos predominantemente estéticos.
+3.4. Em relação ao dano moral, a negativa parcial de cobertura, respaldada por cláusula contratual e normas da ANS, não configura violação a direitos de personalidade, sendo, assim, indevida a indenização.
+IV. DISPOSITIVO E TESE: Recursos conhecidos e desprovidos.
+Teses de julgamento: "1. A cobertura obrigatória pelo plano de saúde limita-se às cirurgias de caráter reparador prescritas pelo médico assistente em conformidade com o rol da ANS. 2. A negativa de cobertura para procedimentos pós-bariátricos de natureza estética, mesmo quando complementares ao tratamento, não configura dano moral, salvo em casos de urgência ou imprescindibilidade comprovada." Dispositivos relevantes citados: CF/1988, art. 5º; CPC, arts. 98, §3º, 141, 492.
+Jurisprudência relevante citada: STJ, REsp nº 1870834/SP, Rel.
+Min. Ricardo Villas Bôas Cueva; TJGO, Apelação Cível nº 24278- 16.2017.8.09.0011." (e-STJ fls. 266/267)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 1.022, I do Código de Processo Civil e 35-F da Lei n. 9.656/1998, bem como divergência jurisprudencial, sustentando, em síntese que: 1) houve negativa de prestação jurisdicional e 2) é dever do recorrido custear as cirurgias plásticas pleiteadas, pois é obrigação do plano de saúde empreender todas as medidas necessárias para a efetiva recuperação do paciente.
+É o relatório. Decido.
+De início, a alegação de afronta ao art. 1.022 do CPC/2015, apresentada nas razões do recurso especial, quando não foram opostos embargos de declaração contra o acórdão recorrido, atrai a Súmula n. 284 do STF.
+Além disso, a recorrente, ao apontar violação do dispositivo acima citado, limitou-se alegar genericamente que o acórdão recorrido possui vícios de fundamentação, sem apontar em relação a qual ponto houve omissão ou a referida carência de fundamentação.
+Tal situação atrai a incidência da Súmula n. 284/STF, segundo a qual é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Neste sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. JUROS REMUNERATÓRIOS. LIMITAÇÃO. POSSIBILIDADE. COMPORTAMENTO CONTRADITÓRIO. VEDAÇÃO LEGAL. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos nos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência, por analogia, da Súmula 284 do STF.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+3. As cédulas de crédito rural, comercial e industrial, quanto aos juros remuneratórios, estão regidas por normas específicas que outorgam ao Conselho Monetário Nacional (CMN) a função de estabelecer a taxa de juros a ser praticada nestas espécies de crédito bancário. Todavia, não havendo deliberação do CMN, incide a limitação de 12% ao ano, conforme previsão do Decreto nº 22.626/33.
+Precedentes.
+4. "É firme, no âmbito do STJ, a compreensão de que é vedado o comportamento contraditório (venire contra factum proprium), a impedir que a parte, após praticar ato em determinado sentido, venha a adotar comportamento posterior contraditório" (AgInt nos EDcl no REsp 1.759.517/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/9/2022, DJe de 12/9/2022).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.624.542/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/3/2024, DJe de 11/3/2024.)
+Quanto à violação do art. 35-F da Lei n. 9.656/1998, o dispositivo invocado não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. DEVEDORA EM RECUPERAÇÃO JUDICIAL. ALEGAÇÃO DE SOLIDARIEDADE SOCIAL. AUSÊNCIA DE EXAME. SÚMULAS N. 282 E 356/STF. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. SÚMULA N. 581/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. "O processamento de pedido de recuperação judicial da empresa que tem a sua personalidade jurídica desconsiderada não impede o prosseguimento da execução redirecionada contra os sócios, visto que eventual constrição dos bens destes não afetará o patrimônio da empresa recuperanda, tampouco a sua capacidade de soerguimento."
+(REsp n. 2.034.442/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2023, DJe de 15/9/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.066.039/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)(grifei)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida em 1% sobre o valor da causa para 11% do respectivo valor, ressalvada eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
