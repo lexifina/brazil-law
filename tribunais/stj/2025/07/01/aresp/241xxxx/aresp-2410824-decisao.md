@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS ALEXANDRE PEREIRA DE SOUZA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO PARÁ que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0801044-38.2022.8.14.0049 (fls. 255/270), com a seguinte ementa:
+APELAÇÃO CRIMINAL. ROUBO QUALIFICADO. RECURSO DEFENSIVO. MERITO. PEDIDO DE AFASTAMENTO DA MAJORANTE DE CONCURSO DE AGENTES E DECLASSIFICAÇÃO PARA ROUBO SIMPES IMPROCEDETE. O contexto probatório confirma a execução do delito através de duas pessoas, que em comunhão de desígnios e divisão de tarefas. Não cabe a desclassificação para o delito de roubo simples, não havendo como enquadrar as ações do apelante neste sentido já que o acervo probatório carreado nos autos, confirmam a ocorrência da causa de aumento de pena dispostas no artigo 157, §1º, inciso II, do CP. Condenação mantida. PEDIDO DE REDUÇÃO DA PENA. IMPROCEDÊNCIA. Correta a exasperação da pena-base realizada na sentença, pelo que a mantenho nem todos os termos. RECURSO CONHECIDO E IMP ROVIDO.
+No recurso especial (fls. 271/286), a defesa requereu, em síntese, a desclassificação da conduta para o roubo simples, com a fixação da pena no mínimo legal.
+Inadmitido o recurso na origem (fls. 297/302), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 304/311).
+O Ministério Público Federal opinou pelo conhecimento e desprovimento do agravo (fls. 331/335), em parecer com a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. CONCURSO DE PESSOAS. DESCLASSIFICAÇÃO DO DELITO PARA ROUBO SIMPLES. CONDENAÇÃO CONFIRMADA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE DESCONSTITUIÇÃO NA VIA ELEITA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONHECIMENTO E NÃO PROVIMENTO DO AGRAVO.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+A defesa pretende a desclassificação para o delito de roubo simples, com o a fixação da pena no mínimo legal.
+De início, cumpre consignar que a majorante do concurso de agentes restou devidamente confirmada pelos elementos de convicção colacionados no curso da instrução, notadamente na prova oral colhida.
+Sendo assim, a reversão do entendimento firmado pelas instâncias ordinárias demanda revolvimento do contexto fático-probatório dos autos, vedado pela Súmula 7/STJ.
+De outra parte, o pedido de fixação da pena-base no mínimo legal não colhe fundamento no contexto dos autos, uma vez que as circunstâncias do crime foram devidamente sopesadas, resultando no acréscimo de 9 meses, em razão de o delito haver sido praticado no interior de uma residência familiar, na presença do filho da vítima, que ficou bastante abalada e traumatizada com a situação, passando dias sem dormir adequadamente (fl. 259). Não sendo a dosimetria uma operação matemática, estando sujeita, ao contrário, à discricionariedade judicial, não se vislumbra nenhuma ilegalidade na exasperação.
+O próprio Tribunal de origem, ao negar provimento ao recurso defensivo, estabeleceu que o Magistrado agiu dentro do critério de discricionariedade, decidindo de acordo com seu entendimento e justificando o aumento da pena conforme a análise do caso concreto e de forma fundamentada, obedecidos os princípios da razoabilidade e proporcionalidade (fl. 260).
+Destarte, o julgado encontra-se em conformidade com o entendimento deste Tribunal Superior acerca da matéria, atraindo o óbice previsto na Súmula 83/STJ.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. ROUBO MAJORADO. DESCLASSIFICAÇÃO PARA ROUBO SIMPLES. PRETENSÃO QUE DEMANDA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DOSIMETRIA. FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. INVIABILIDADE. CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEIS. AUSÊNCIA DE ILEGALIDADE. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTE TRIBUNAL SUPERIOR. SÚMULA 83/STJ.
+Agravo conhecido para não conhecer do recurso especial.
