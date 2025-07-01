@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Joalpar Holding S.A e Joarez Piccinini, desafiando decisão da Vice Presidência do Tribunal Regional Federal da 4ª Região, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) não há violação aos arts. 489 e 1.022 do CPC; e (II) o acórdão está em consonância com o entendimento do Superior Tribunal de Justiça em relação o prazo para a apresentação dos embargos à execução, que se inicia da intimação da primeira penhora, mesmo que seja insuficiente, excessiva ou ilegítima, e não da sua ampliação, redução ou substituição.
+A parte agravante, em suas razões, sustenta, em síntese, que: (I) "se a decisão agravada tivesse examinado a alegação de ofensa aos arts. 489 e 1.022 do CPC, constataria a violação, em tese, a estes dispositivos de lei federal e, por consequência, concluiria pela necessidade de admissão do recurso especial, inclusive afastando o óbice da Súmula 83/STJ" (fl. 475); e (II) "O acórdão embargado vai contra esta jurisprudência pacífica deste E. STJ, haja vista que não houve, no caso em tela, intimação dos Agravantes com expressa advertência do prazo para oposição de embargos à execução fiscal" (fl. 490), repisando as razoes do recurso especial às fls. 423/426.
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões recursais , a insurgente deixou de rebater, de modo específico, o alicerce de incidência da Súmula 83/STJ.
+Com efeito, caberia à parte ora agravante demonstrar, nas razões do agravo em recurso especial, que o entendimento jurisprudencial não está pacificado no mesmo sentido do aresto recorrido, indicando, nesse sentido, julgados contemporâneos ou supervenientes aos referidos no decisório impugnado ou, ainda, que os precedentes citados pela decisão local não se aplicariam ao caso dos autos, providência da qual não se desincumbiu.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
