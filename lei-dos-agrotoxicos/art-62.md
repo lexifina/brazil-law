@@ -1,5 +1,5 @@
 Art. 62. Também poderão constituir recursos do FFAP para a fiscalização e o fomento do desenvolvimento de atividades fitossanitárias e a promoção da inovação tecnológica do setor agrícola em sanidade vegetal:
-I - (VETADO);
+I - valores da arrecadação dos serviços de registro de agrotóxicos a que se refere o art. 60 desta Lei;
 II - recursos orçamentários da União direcionados para a mesma finalidade;
 III - doações de pessoas físicas ou jurídicas, públicas ou privadas, nacionais ou internacionais;
 IV - recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), instituído pela Lei nº 11.540, de 12 de novembro de 2007;

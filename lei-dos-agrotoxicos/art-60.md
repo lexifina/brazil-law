@@ -1,1 +1,1 @@
-Art. 60. (VETADO).
+Art. 60. O produto da arrecadação da Taxa de Avaliação e de Registro, prevista no art. 59 desta Lei, será recolhido ao Fundo Federal Agropecuário (FFAP), criado pela Lei Delegada nº 8, de 11 de outubro de 1962.

@@ -1,1 +1,1 @@
-Art. 61. (VETADO).
+Art. 61. Os recursos arrecadados serão destinados exclusivamente à fiscalização e ao fomento do desenvolvimento de atividades fitossanitárias e à promoção da inovação tecnológica do setor agrícola em sanidade vegetal.
