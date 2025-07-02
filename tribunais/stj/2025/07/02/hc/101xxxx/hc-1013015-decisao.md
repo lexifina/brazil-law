@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL AUGUSTO CASA GRANDE SINOTTI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o paciente foi preso em flagrante em 4/1/2025, posteriormente convertida a custódia em preventiva, pela suposta prática da conduta descrita no art. 33, caput, da Lei n. 11.343/2006.
+A impetrante sustenta que a segregação processual do paciente não apresenta fundamentação idônea e que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Afirma que a instrução criminal já foi encerrada, que o paciente é réu confesso e que a manutenção da prisão preventiva é desnecessária, podendo ser substituída por medidas cautelares diversas.
+Alega haver excesso de prazo na instrução criminal, visto que o paciente está preso há mais de 126 dias, o que configuraria constrangimento ilegal.
+Requer, liminarmente, a expedição de alvará de soltura em favor do paciente. No mérito, pugna pela concessão da ordem em definitivo para confirmar a liminar e trancar a ação penal.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+O pedido não pode ser apreciado.
+A matéria aqui suscitada é também objeto do HC n. 978.411/PR. Embora no referido habeas corpus o acórdão seja diverso do impugnado no presente writ, a questão relativa à ausência de fundamentos da prisão preventiva já foi analisada, não havendo ilegalidade a se reconhecer.
+Nesse sentido (destaquei):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. FUNDAMENTOS DA PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDOS. NÃO CONHECIMENTO DOS ACLARATÓRIOS OPOSTOS NA ORIGEM. DEFESA QUE DEIXOU DE INDICAR O VÍCIO A SER SANADO NO MOMENTO OPORTUNO. PRECLUSÃO. INDEFERIMENTO DE PERÍCIA. AUSÊNCIA DE ILEGALIDADE. MAGISTRADO DESTINATÁRIO DA PROVA. AUSÊNCIA DE CONTEMPORANEIDADE. INOCORRÊNCIA. PRISÃO DOMICILIAR. PAI. NÃO DEMONSTRADA A INDISPENSABILIDADE DO GENITOR. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO.
+1. O presente mandamus, no ponto em que alega ausência de fundamentação da custódia cautelar, traz pedido idêntico ao formulado no HC 788.956/SP, no qual esta Corte Superior de Justiça analisou a existência de motivação idônea e dos requisitos autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal - CPP, e, embora ataquem acórdãos diversos, ambos tratam da prisão preventiva decretada na ação penal n. 1501892-70.2022.8.26.0559. Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento do writ no ponto.
+ ..
+7. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 820.474/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, j. em 6/2/2024, DJe de 15/2/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. REITERAÇÃO DE PEDIDOS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO QUANTO AO ART. 35 DA LEI N. 11.343/2006. SUPERVENIÊNCIA DE EXTINÇÃO DA PUNIBILIDADE PELO JUÍZO DA EXECUÇÃO. PERDA DO OBJETO. APLICAÇÃO DA CAUSA REDUTORA DA LEI DE DROGAS. REPETIÇÃO DE PRETENSÃO ANTERIOR JÁ ANALISADA PELO STJ. INADMISSIBILIDADE. PRECEDENTES.
+Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+(AgRg no HC n. 867.760/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO. POSTULAÇÃO INDEFERIDA NO ÂMBITO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reiteração de pedido veiculado e denegado em impetração anterior torna inviável o conhecimento do habeas corpus. Contra essa decisão, a parte interpôs simultaneamente agravo regimental e impetrou habeas corpus perante o Supremo Tribunal Federal, onde, em espectro mais amplo, o relator assinalou a possibilidade de retroação da norma que altera as condições de procedibilidade da ação penal por crime de estelionato, mas consignou que, pela leitura dos autos, se observava que as vítimas demonstraram inequívoca intenção de ver iniciado o processo, a evidenciar a impropriedade do pedido.
+2. Caracterizada a indevida reiteração do pedido denegado no HC n. 748.052/SP e refutado o argumento de patente ilegalidade perante o Supremo Tribunal Federal (HC n. 228.361/SP), não é possível processar o habeas corpus para empreender outra análise sobre o mesmo tema.
+3. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 819.396/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2023, DJe de 11/12/2023.)
+De outro lado, a prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/4/2021, DJe de 30/4/2021.
+O Tribunal local examinou a questão nos seguintes termos, conforme se observa do voto condutor do acórdão (fls. 35-38):
+No caso em comento, não se verifica qualquer demora que possa ser atribuída ao Poder Judiciário ou a acusação, com a dilação do prazo para prolação da sentença da ação penal escorada na necessidade de juntada do laudo referente à análise do aparelho celular apreendido em posse do acusado, conforme a decisão que manteve a prisão preventiva de mov. 124.1 dos autos de origem.
+Da referida decisão extrai-se o seguinte trecho (mov. 124.1 - 1º grau):
+ ..
+Outrossim, a medida se mostra pertinente, uma vez que nos registros do (s) aparelho(s) apreendido(s) certamente existirão informações capazes de contribuir para a elucidação da(s) infração(ões) penal(is), identificação de outras pessoas envolvidas e até mesmo contribuir para apreensão de eventuais ilícitos.
+Consoante exposto acima, nos dias de hoje grande parte do fluxo de comunicação ocorre de maneira virtual (internet), de modo que o exame das mídias, históricos de mensagens, ligações etc se tornam essenciais para a elucidação correta da prática delitiva (ainda mais se tratando de tráfico de drogas onde, na maioria das vezes, existem negociações através de troca de mensagens via aplicativo).
+Destarte, tem-se que a quebra de sigilo buscada também se revela medida necessária e adequada, para que haja a correta averiguação do (s) ilícito(s) penal(is) potencialmente cometido(s), bem como proporcional, pois o acesso aos dados armazenados não ofende de forma mais gravosa do que o necessário a intimidade e privacidade das pessoas, não acarretando indevida vigilância e nem controle ou desvio de finalidade.
+Outrossim, a medida se mostra imprescindível, até mesmo porque não se vislumbram outras diligências (menos invasivas) capazes de alcançar o mesmo objetivo pretendido (isto é, o conteúdo / material armazenado no telefone apreendido).
+A diligência requerida, portanto, não é só guarda relação com o fato criminoso (tráfico de drogas) como também é fundamental para a comprovação da materialidade e confirmação da autoria delitiva.
+ ..  Não grifado
+Extrai-se dos autos de origem que o aparelho celular em questão já foi remetido ao Instituto de Criminalística para análise (mov. 140.1 - 1º grau).
+Por certo, o tempo de duração da instrução criminal e o andamento do processo não podem ser rigidamente controlados, pois, ao contrário, submetem-se ao postulado da proporcionalidade, de modo a evitar a impunidade em casos de aguda complexidade.
+No caso dos autos, não é ilícita a dilatação do lapso temporal da instrução processual, de modo que a situação se mostra compatível com o princípio da razoável duração do processo, previsto no artigo 5º, inciso LXXVIII, da Constituição Federal, revelando-se a tese de excesso de prazo, ao menos neste momento, manifestamente inoportuna.
+Tampouco é possível aferir o alegado excesso de prazo com base na mera soma aritmética dos prazos processuais, fazendo-se necessário, para aferição da delonga processual desmedida, a utilização de um juízo de razoabilidade a par das peculiaridades que o caso sub judice apresenta.
+Ademais, os prazos para a finalização dos atos processuais não são absolutos, podendo ser flexibilizados diante das peculiaridades do caso concreto, em atenção e dentro dos limites da razoabilidade, e até por isso a mora processual não se confunde com a determinação de diligências imprescindíveis ao deslinde do caso.
+ ..
+Portanto, o acolhimento pelo juízo da manifestação ministerial com a determinação da produção da prova considerada imprescindível, que se revela complexa vez que se trata de processo minucioso, não se confunde com excesso de prazo, vez que, não se está diante de desídia por parte do Poder Judiciário ou, ainda, da acusação, mas, sim, das peculiaridades atinentes ao caso em concreto.
+Assim, considerando que o feito aguarda a elaboração de laudo referente à análise do aparelho celular apreendido em posse do acusado, prova essa considerada imprescindível, e que se revela complexa, não se constata uma demora injustificada para o início da instrução.
+No caso, não se verifica desídia ou mora estatal na açã o penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há falar em ilegalidade por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, j. em 17/5/2022, DJe de 20/5/2022.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. HABEAS CORPUS DENEGADO.
