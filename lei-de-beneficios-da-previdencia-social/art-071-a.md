@@ -1,3 +1,4 @@
 Art. 71-A. Ao segurado ou segurada da Previdência Social que adotar ou obtiver guarda judicial para fins de adoção de criança é devido salário-maternidade pelo período de 120 (cento e vinte) dias.
 § 1º O salário-maternidade de que trata este artigo será pago diretamente pela Previdência Social.
 § 2º Ressalvado o pagamento do salário-maternidade à mãe biológica e o disposto no art. 71-B, não poderá ser concedido o benefício a mais de um segurado, decorrente do mesmo processo de adoção ou guarda, ainda que os cônjuges ou companheiros estejam submetidos a Regime Próprio de Previdência Social.
+§ 3º O salário-maternidade de que trata o caput deste artigo será prorrogado por 60 (sessenta) dias no caso de adoção ou de guarda judicial de criança com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika.
