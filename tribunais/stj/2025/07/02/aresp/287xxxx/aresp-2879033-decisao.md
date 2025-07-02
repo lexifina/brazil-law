@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por: (i) inexistência de negativa de prestação jurisdicional, e (ii) aplicação da Súmula n. 7 do STJ (fls. 989-991).
+O Tribunal de origem negou provimento às apelações, em julgado que recebeu a seguinte ementa (fl. 921):
+APELAÇÕES CÍVEIS - AÇÃO INDENIZATÓRIA - ROMPIMENTO DA BARRAGEM EM BRUMADINHO - PRELIMINAR DE INOVAÇÃO RECURSAL - ACOLHIDA - PRELIMINAR DE COISA JULGADA - REJEITADA - RESPONSABILIDADE OBJETIVA - TEORIA DO RISCO INTEGRAL - DANOS MORAIS - MORADOR RESIDENTE EM LOCAL PRÓXIMO AO RIO PARAOPEBA - ALEGAÇÕES GENÉRICAS - AUSÊNCIA DE PROVA DA OFENSA OU LESÃO À HONRA - RECURSOS NÃO PROVIDOS. I - Configura-se a inovação recursal quando a ré apresenta tese nova em sede de recurso que não havia sido anteriormente apresentada em sua contestação. II - O alegado término das prestações do auxílio emergencial firmado no Termo de Acordo Preliminar (TAP) implica apenas no encerramento dos pagamentos, remanescendo a obrigação em relação às parcelas vencidas durante o período de vigência do ajuste. Logo, não há que se falar em coisa julgada. III - Sobre os danos provocados por rompimento de barragens de mineração, o c. Superior Tribunal de Justiça já consolidou a tese de aplicação da teoria do risco integral. IV - Não obstante a obrigação do poluidor de demonstrar a inexistência de lesão ao meio ambiente ou que a sua atividade não é potencialmente danosa, a configuração do dever de indenizar em sede individual e de responsabilidade civil objetiva na modalidade do risco integral depende da demonstração do dano alegado e do nexo causal. V - Embora seja de notório conhecimento que o rompimento da barragem da ré se trata de fato extremamente grave e de grandes proporções, não acarreta dano moral puro ou "in re ipsa" a todas as pessoas que se sentiram violadas em sua dignidade e honra, pois a ofensa, nesse caso, não se presume, cabendo a quem alega a prova efetiva do prejuízo suportado.
+Os embargos de declaração foram rejeitados (fls. 960-963).
+No recurso especial (fls. 970-979), fundamentado no art. 105, III, "a", da CF, a recorrente apontou:
+(i) violação dos arts. 141, 489, II, e 1.022, II, do CPC, alegando negativa de prestação jurisdicional. Sustentou, em síntese, que, "Embora as questões apontadas, relativas à quitação das obrigações e ausência de responsabilidade pelo fornecimento de cadastro, tenham sido suscitadas desde a contestação, sendo reforçadas no recurso de apelação, elas permaneceram sem o devido exame" (fls.972-973),
+(ii) ofensa aos arts. 485, V, § 3º, e 503 do CPC, tendo em vista a ofensa à coisa julgada, e
+(iii) afronta ao art. 1.026, § 2º, do CPC, argumentando que a imposição da multa em sede de embargos declaratórios foi equivocada.
+Contrarrazões não apresentadas (fl. 988).
+No agravo (fls. 998-1.004), foram refutados os fundamentos da decisão agravada e foi alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta não apresentada (fl. 1.008).
+É o relatório.
+Decido.
+Inicialmente, não há falar em ofensa aos arts. 141, 489 e 1.022 do CPC, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No mais, também não prospera o inconformismo.
+Isso porque a Corte local, com base nos elementos fático-probatórios, concluiu que não houve a perda do objeto da ação em razão do eventual término das prestações do auxílio emergencial firmado no Termo de Acordo Preliminar (TAP). Nesse contexto, consignou que a extinção do TAP apenas implicou no encerramento dos pagamentos, remanescendo a obrigação da ora recorrente em relação às parcelas vencidas durante o período de sua vigência. Seguem trechos do acórdão (fl. 925):
+Da coisa julgada e extinção do pagamento emergencial.
+Preliminarmente, a ré alega a ocorrência de coisa julgada, na medida em que o pagamento emergencial pleiteado pelo autor foi extinto e substituído pelo Programa de Transferência de Renda - PTR, competindo às Instituições de Justiça a operacionalização deste, conforme regras e critérios próprios, sem a participação da ré, a partir de novembro/2021.
+No entanto, razão não lhe assiste.
+O alegado término das prestações do auxílio emergencial firmado no Termo de Acordo Preliminar (TAP) implica apenas no encerramento dos pagamentos, remanescendo a obrigação em relação às parcelas vencidas durante o período de vigência do ajuste.
+Ressalto, inclusive, que o portal eletrônico do Programa de Transferência de Renda (https://ptr.fgv.br/node/295) informa que o pagamento retroativo do PTR somente abrange as parcelas a partir de sua implementação (novembro de 2021).
+Assim, a referida informação reforça a responsabilidade da Vale S/A atinente às parcelas anteriores a novembro de 2021, quando o PTR ainda não havia sido implementado.
+Logo, não há que se falar em coisa julgada.
+A convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Por fim, no que respeita ao pedido de afastamento da multa supostamente aplicada no julgamento dos aclaratórios, cabe observar que não houve condenação à multa prevista no art. 1.026, § 2º, do CPC quando do julgamento do embargos declaratórios opostos (fls. 960-963).
+Assim, fica prejudicada a questão .
+Ante o exposto NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
