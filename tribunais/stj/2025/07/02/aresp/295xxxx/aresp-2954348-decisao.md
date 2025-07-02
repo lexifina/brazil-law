@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por JACKSON JACOB DUARTE DE MEDEIROS e ANA PAOLA BONATTI DUARTE DE MEDEIROS contra decisão que inadmitiu o recurso especial em razão da impossibilidade de apreciar alegação de ofensa a dispositivo constitucional no âmbito do recurso especial e da incidência das Súmulas n. 211 do STJ e 282 e 283 do STF (fls. 489-491).
+O acórdão recorrido encontra-se assim ementado (fl. 280):
+EMBARGOS À EXECUÇÃO. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DOS EMBARGANTES. UTILIZAÇÃO DA FUNDAMENTAÇÃO DO JULGAMENTO DA AÇÃO DE OBRIGAÇÃO DE FAZER CORRELATA. IMPEDIMENTO DO PAGAMENTO DE UMA DAS PARCELAS NOS MOLDES CONTRATADOS OCASIONADO POR IMBRÓGLIOS CRIADOS PELOS PRÓPRIOS VENDEDORES. AUSÊNCIA DE MORA DOS COMPRADORES NESSE PONTO. EM RELAÇÃO A OUTRA PARCELA COBRADA, COM VENCIMENTO CERTO E INDEPENDENTE DA ANTERIOR, PREVISTO EM CONTRATO E NÃO CUMPRIDO, A MORA NÃO PODE SER AFASTADA. MULTA CONTRATUAL QUE DEVE INCIDIR APENAS SOBRE A PARCELA DEVIDA. EMBARGOS PARCIALMENTE ACOLHIDOS PARA READEQUAÇÃO DO VALOR DA EXECUÇÃO. REDISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA. RECURSO PROVIDO EM PARTE.
+Os embargos de declaração foram rejeitados (fls. 358-361 e 364-366).
+Nas razões do recurso especial (fls. 383-395), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(a) arts. 278, § 1º, e 966, § 1º, do CPC, sustentando que a decisão dos embargos à execução é nula, pois se baseou em fato inexistente. Afirma que a Magistrada singular definiu os parâmetros para cálculo do débito após a propositura dos embargos, impossibilitando a insurgência dos recorrentes sobre tal questão (fls. 389-390);
+(b) arts. 93, IX, da CF e 421 do CC, destacando que "a decisão embargada não mencionou expressamente o índice de correção monetária aplicável à parcela remanescente de R$ 500.000,00 (quinhentos mil reais), apesar de o contrato firmado, entre as partes, estipular o índice da poupança. Isso configura omissão, pois, o contrato, em sua cláusula quarta, determina claramente que, caso a parcela não fosse paga até 31/05/2016, deveria incidir a correção pelo índice da poupança" (fls. 389-390).
+Afirmou que "a imposição integral da multa contratual por descumprimento do contrato, apenas aos Embargantes, gera desequilíbrio, pois, os Embargados, também foram responsáveis, pelo descumprimento contratual, como restou decidido" (fl. 391).
+Requereu ainda a concessão de efeito suspensivo ao recurso.
+No agravo (fls. 573-587), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 608-613).
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Com relação ao art. 421 do CC, o Tribunal de origem reconheceu que "os cálculos apresentados pelos exequentes na execução de título extrajudicial n. 0308327- 20.2017.8.24.0033 aplicaram correção monetária e juros de mora, que não foram especificamente impugnados pelos executados nos embargos à execução. Não houve nenhuma menção acerca da aplicação de índice de correção monetária de modo equivocado pelos exequentes, de modo que tanto a sentença recorrida quanto o acórdão ora embargado não analisaram tal questão. Se os embargantes acreditavam que os embargados aplicaram o índice incorreto para a atualização do valor apontado na exordial, deveriam ter postulado a revisão de tal item nos embargos à execução, porém assim não o fizeram" (fl. 364).
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, a Súmula n. 284/STF.
+Além disso, a tese de violação dos arts. 278, § 1º, 421 e 966, § 1º, do CPC não foi analisada pela Corte local. Incidente, portanto, a Súmula n. 211/STJ, por falta de prequestionamento.
+Ante o exposto, NEGO PROVIMENTO ao agravo e JULGO PREJUDICADO o pedido de atribuição de efeito suspensivo ao recurso de JACKSON JACOB DUARTE DE MEDEIROS E ANA PAOLA BONATTI DUARTE DE MEDEIROS .
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
