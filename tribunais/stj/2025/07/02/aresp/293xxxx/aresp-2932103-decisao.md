@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JONAS MIGUEL GRACZCKI contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o recurso especial não deve ser admitido, pois não há demonstração de ofensa à lei federal, além de ser uma tentativa de reanalisar fatos e provas, o que é vedado pelas Súmulas n. 5 e 7 do STJ (fls. 819-821).
+O recurso especial foi interposto, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação nos autos de ação de cobrança securitária. O julgado foi assim ementado (fls. 687-687):
+APELAÇÃO CÍVEL. SEGUROS. AÇÃO DE COBRANÇA SECURITÁRIA. INVALIDEZ PERMANENTE DECORRENTE DE DOENÇA. COBERTURA PARA ACIDENTE PESSOAL. DOENÇAS PROFISSIONAIS. RISCO EXCLUÍDO. AUSÊNCIA DE HIPÓTESE DE COBERTURA. SENTENÇA MANTIDA. - No caso dos autos restou constatado por perícia judicial a existência de invalidez permanente decorrente de doença, tendo o trabalho como concausa. - No entanto, nos termos da apólice, os riscos cobertos estão ligados a acidente pessoal, não havendo dever de cobertura em função de doenças profissionais, risco expressamente excluído nas condições do seguro. - Sentença de improcedência mantida. APELO DESPROVIDO. UNÂNIME.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 720-720):
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO. AUSÊNCIA DE OMISSÃO. DECISÃO MANTIDA. - O acolhimento dos embargos de declaração pressupõe a existência, no acórdão embargado, de um dos vícios previstos no art. 1.022 do CPC. - Restou devidamente esclarecido no julgado as razões de decidir, especialmente no que tange à distinção entre invalidez funcional e laboral e a exclusão de cobertura para doenças ocupacionais prevista na apólice. - A jurisprudência consolidada do STJ foi considerada, afastando abusividade contratual e destacando que a concausa laboral, embora reconhecida, não configura acidente pessoal nos termos contratuais. - Restou reconhecida a validade das cláusulas foi expressamente confirmada, à luz do CDC. - Portanto, não há que se falar na existência das omissões alegadas. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS. UNÂNIME.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 489, § 1º, IV, e 1.022, II, do CPC, pois o acórdão recorrido não enfrentou todos os argumentos deduzidos no processo, especialmente quanto à equiparação da doença ocupacional ao acidente de trabalho e à falha no dever de informação e
+b) 9º, 47, 51 da Lei n. 8.078/1990, porquanto as cláusulas contratuais são abusivas e há falha no dever de informação ao consumidor.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, condenando a recorrida ao pagamento da indenização do capital segurado.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser conhecido, pois não há demonstração de ofensa à lei federal, além de ser uma tentativa de reanalisar fatos e provas, o que é vedado pelas Súmulas n. 5 e 7 do STJ (fls. 761-771).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de cobrança em que a parte autora pleiteou o pagamento de prêmio decorrente de seguro de vida, sob o argumento de que é portadora de doença incapacitante para o exercício laboral, ante a cobertura securitária de invalidez por acidente.
+Na sentença, o Juízo de primeiro grau julgou improcedente a ação de cobrança, condenando a parte autora ao pagamento das custas processuais e honorários advocatícios em favor do patrono da parte adversa, fixados em 10% sobre o valor atribuído à causa. A Corte estadual manteve a sentença de improcedência.
+I - Violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC
+No recurso especial, a parte recorrente alega que o acórdão recorrido não enfrentou todos os argumentos deduzidos no processo, especialmente quanto à equiparação da doença ocupacional ao acidente de trabalho e à falha no dever de informação.
+Entretanto, não há omissão, contradição ou obscuridade no acórdão embargado, pois a matéria foi enfrentada e decidida com clareza, restando especificados e esclarecidos os pontos requeridos pelo recorrente. Confira-se trecho do acórdão recorrido (fl. 719):
+Conforme claramente decidido, o acórdão enfrentou todos os pontos relevantes apresentados, analisando a distinção entre invalidez funcional e laboral e a exclusão de cobertura para doenças ocupacionais prevista na apólice. A jurisprudência consolidada do STJ foi considerada, afastando abusividade contratual e destacando que a concausa laboral, embora reconhecida, não configura acidente pessoal nos termos contratuais. Inexiste omissão quanto à interpretação à luz do CDC, uma vez que a validade das cláusulas foi expressamente confirmada.
+Não se verifica, portanto, vício que possa nulificar o acórdão recorrido.
+II - Violação dos arts. 9º, 47 e 51 da Lei n. 8.078/1990
+A recorrente afirma que as cláusulas contratuais são abusivas e há falha no dever de informação ao consumidor.
+Contudo, essas questões não foram objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
