@@ -22,3 +22,4 @@ II - (VETADO).
 § 12-B. Na impossibilidade de registro biométrico do requerente, ele será obrigatório ao responsável legal.
 § 14. O benefício de prestação continuada ou o benefício previdenciário no valor de até 1 (um) salário-mínimo concedido a idoso acima de 65 (sessenta e cinco) anos de idade ou pessoa com deficiência não será computado, para fins de concessão do benefício de prestação continuada a outro idoso ou pessoa com deficiência da mesma família, no cálculo da renda a que se refere o § 3º deste artigo.
 § 15. O benefício de prestação continuada será devido a mais de um membro da mesma família enquanto atendidos os requisitos exigidos nesta Lei.
+§ 16. Durante a avaliação da deficiência e do grau de impedimento de que trata o § 2º deste artigo, a perícia médica dos requerentes do benefício de prestação continuada com síndrome da imunodeficiência adquirida deverá ter a participação de pelo menos 1 (um) médico especialista em infectologia.
