@@ -1,1 +1,3 @@
-Art. 59. (VETADO).
+Art. 59. É criada a Taxa de Avaliação e de Registro de produtos técnicos, de produtos técnicos equivalentes, de produtos novos, de produtos formulados, de produtos genéricos, de agrotóxicos, de produtos de controle ambiental, de RET, de produto atípico, de produto idêntico e de produto para agricultura orgânica, cujo fato gerador é a efetiva prestação de serviços de avaliação e de registro.
+§ 1º São sujeitos passivos da taxa a que se refere o caput deste artigo as pessoas jurídicas requerentes dos pedidos de registro e de avaliação dos produtos indicados no art. 2º desta Lei, por ocasião do pleito do serviço.
+§ 2º A taxa a que se refere o caput deste artigo será objeto de regulamentação pelo Poder Executivo.
