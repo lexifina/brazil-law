@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por JOSÉ ANTÔNIO BRANDÃO contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 284 do STF (fls. 103-104).
+O Tribunal de origem negou provimento ao recurso, em julgado que recebeu a seguinte ementa (fl. 62):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A EXPEDIÇÃO DE ALVARÁ EM FAVOR DA PARTE AQUI EXECUTADA, EM RAZÃO DA PENHORA NO ROSTO DOS AUTOS DE OUTRA DEMANDA EXECUTIVA EM QUE LITIGAM AS MESMAS PARTES, MAS EM POLOS INVERTIDOS. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO E NÃO SURPRESA. INOCORRÊNCIA. HIPÓTESE DOS AUTOS NA QUAL A PARTE AGRAVANTE FOI DEVIDAMENTE INTIMADA DA DECISÃO QUE DETERMINOU A REALIZAÇÃO DO ATO CONSTRITIVO. PEDIDO DE SUSPENSÃO, COM BASE NA AUSÊNCIA DE JULGAMENTO DA IMPUGNAÇÃO AOS CÁLCULOS OPOSTA PELA PARTE ORA RECORRENTE NOS AUTOS DA OUTRA EXECUÇÃO, CONTRA ELA MOVIDA. INDEFERIMENTO. IMPUGNAÇÃO RECEBIDA SEM ATRIBUIÇÃO DE EFEITO SUSPENSIVO. PEDIDO ALTERNATIVO. DEPÓSITO DO MONTANTE EM CONTA JUDICIAL REMUNERADA. INDEFERIMENTO, PELAS MESMAS MESMAS RAZÕES DA REJEIÇÃO DO PEDIDO PRINCIPAL, EM ESPECIAL PORQUE A IMPUGNAÇÃO AOS CÁLCULOS APRESENTADA NA OUTRA EXECUÇÃO NÃO FOI RECEBIDA NO EFEITO SUSPENSIVO. DECISÃO CONFIRMADA.
+RECURSO DESPROVIDO. UNÂNIME.
+No recurso especial (fls. 67-70), fundamentado no art. 105, III, "a", da CF, o recorrente apontou violação dos arts. 9º, 10, 505, 507, 525, § 6º, e 857 do CPC, sustentando a violação dos princípios da não surpresa, do contraditório e da ampla defesa, tendo em vista que não houve oitiva prévia à ordem de levantamento de quantia depositada pela recorrida. Aduziu a necessidade de suspensão da ordem de levantamento até o julgamento de impugnação ofertada nos autos de outra ação.
+Contrarrazões apresentadas (fls. 78-99).
+No agravo (fls. 110-112), foram refutados os fundamentos da decisão agravada e foi alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (fls. 117-142).
+É o relatório.
+Decido.
+O recorrente aduz que o TJRS não observou os arts. 9º e 10 do CPC, pois não assegurou o contraditório e a ampla defesa, exarando decisão contrária sem a prévia oitiva da parte, o que acarretou em decisão surpresa. Sustenta, nesse contexto, que "A decisão recorrida, ao determinar a expedição de alvará e a liberação dos valores em favor da Recorrida sem que houvesse prévia manifestação do juízo competente no processo de execução (nº 5070753-34.2020.8.21.0001), desrespeitou esses princípios processuais, causando prejuízo ao Recorrente" (fl. 69).
+A Corte estadual consignou que, antes da decisão que determinou a expedição de alvará em favor da parte ora recorrida, o ora recorrente foi devidamente intimado da decisão que deferiu a realização do ato constritivo. Concluiu assim que, no caso concreto, não há falar em nulidade da decisão que expediu o alvará de liberação dos valores em favor da recorrida, porque o recorrente teve ciência inequívoca do ato impugnado. É o que se extrai do acórdão recorrido (fl. 60):
+Primeiramente, analiso a preliminar de nulidade, decorrente da suposta violação aos princípios da não surpresa e contraditório e, adianto, tenho por afastá-la.
+Isso porque, antes da decisão que determinou a expedição de alvará em favor da parte executada (para garantia da satisfação do crédito no processo n.º 5070753-34.2020.8.21.0001), contra a qual se insurge o agravante, foi este intimado da decisão que deferiu a realização do referido ato constritivo, com o seguinte teor (evento 43):
+ ..
+Dessa forma, teve a parte exequente inequívoca ciência do ato impugnado, de sorte que não há razão para o reconhecimento da propalada nulidade.
+Destaco, ainda, que a ausência de intimação acerca da realização de atos processuais, em especial aqueles que dizem respeito ao levantamento de valores e realização de penhora, é matéria repetidamente arguida pela parte ora exequente, inclusive na execução contra ela movida pela ora demandada (n.º 5070753- 34.2020.8.21.0001) e reiteradamente afastada.
+Induvidosamente que, em razão da própria natureza do ato (penhora, por exemplo), não há necessidade do devedor ser intimado previamente à sua realização, sob pena de, em assim ocorrendo, se possibilite que adote medidas para frustrar a diligência. O contraditório e a oportunidade de ampla defesa ocorre depois de realizada a medida, com a intimação da penhora.
+Nas alegações do recurso especial, o recorrente afirma tão somente a nulidade da decisão que expediu o alvará com a liberação dos valores em favor da parte recorrida, tendo em vista que não houve sua prévia oitiva acerca da decisão.
+A discrepância entre as razões recursais e os fundamentos do acórdão recorrido impede o conhecimento do especial, ante a incidência das Súmulas n. 283 e 284 do STF.
+Ademais, para afastar o fundamento de que possível a liberação dos valores em favor da recorrida, seria necessário o reexame da matéria fática, vedado em recurso especial, por força da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
