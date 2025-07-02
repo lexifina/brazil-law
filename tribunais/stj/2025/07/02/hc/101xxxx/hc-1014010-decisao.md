@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de AUGUSTO CESAR DA SILVA, em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que indeferiu o pedido de liminar formulado no HC n. 0000891-80.2025.8.17.9480.
+Consta dos autos que o paciente foi preso em flagrante pelo delito de furto simples, art. 155 do Código Penal. O APF foi homologado e a prisão foi convertida em preventiva na audiência de custódia.
+O impetrante sustenta a ocorrência de constrangimento ilegal, pela manutenção da prisão por mais de 90 (noventa) dias sem o oferecimento da denúncia e pela nulidade da decisão que converteu a prisão em flagrante em preventiva. Sustenta inaplicabilidade da Súmula 691 do STF.
+Requer, liminarmente e no mérito, a concessão da ordem para determinar a revogação da segregação cautelar, com a expedição de alvará de soltura em favor do paciente.
+É o relatório.
+DECIDO
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo, à hipótese o enunciado 691 da Súmula do STF, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Não vislumbro, ainda, em uma análise perfunctória, manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto as decisões de origem não se revelam teratológicas.
+Isso porque se depreende da fundamentação adotada na decisão que indeferiu a liminar que (fls.11-12):
+A concessão de liminar em habeas corpus não está prevista em lei, sendo medida de extrema exceção, criada pela doutrina e jurisprudência como forma de sanar ilegalidades inquestionáveis, nos casos em que reste demonstrada a plausibilidade do direito indicado (fumus boni juris), assim como a probabilidade de lesão grave e irreparável, ou de difícil reparação (periculum in mora). Destarte, compulsando os autos, não constatei a presença dos requisitos autorizadores da medida, sendo necessários, no meu entender, maiores esclarecimentos por parte do Juízo responsável pelo processamento do feito. Oportuno assinalar que o paciente responde à Ação Penal N. 0000640-72.2024.8.17.5220, em que foi concedida liberdade provisória, sem fiança (art. 310, III,CPP), em 22 de novembro de 2024. Assim, não vislumbro, ao menos nesta fase de cognição sumária, a probabilidade de lesão grave e irreparável. Dessa forma, os argumentos trazidos pelo Impetrante somente poderão ser apreciados por ocasião do julgamento definitivo, após as informações do Magistrado a quo e o parecer da Procuradoria de Justiça. Ante o exposto, indefiro o pedido de liminar. Publique-se. Oficie-se à autoridade coatora solicitando o envio, no prazo de 05 dias, de informações pormenorizadas necessárias ao deslinde da causa, inclusive cópia da denúncia e do decreto preventivo, se houver. Com as informações, remetam-se os autos à Douta Procuradoria Geral de Justiça para emissão de parecer.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+ EMENTA
