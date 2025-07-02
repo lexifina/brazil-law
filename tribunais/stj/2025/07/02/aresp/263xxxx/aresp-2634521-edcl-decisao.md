@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MONICA DE OLIVEIRA MARTINS MONTEBRUGNOLI contra decisão monocrática de minha relatoria, por meio da qual neguei provimento ao agravo em recurso especial (fls. 662-664).
+A embargante alega que "a decisão padece de omissão, visto que não se pretende que este C. STJ analise se houve ou não boa-fé no caso, mas sim que esta é presumida e não depende de prova - com situação que é justamente o inverso, com necessidade de prova da má-fé" (fl. 668).
+Requer a reforma da decisão embargada.
+A embargada apresentou impugnação às fls. 673-677.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há omissão na decisão embargada porquanto esclareceu que (fl. 663):
+O Tribunal de origem ratificou a sentença que considerou válida a exclusão da filha da autora do plano de saúde após o casamento, com base no Estatuto da CABESP e dos fatos e provas dos autos. Dessa forma, rever as conclusões do tribunal estadual requer a revisão do referido estatuto, bem como dos fatos e das provas, o que atrai a incidência das Súmulas n. 5 e 7 do STJ.
+O Tribunal de origem expressamente consignou no julgamento dos embargos de declaração opostos contra o acórdão que julgou a apelação (fls. 620-621):
+Nesse contexto, os embargos comportam parcial acolhimento, sem a modificação do julgado pretendida, para expressamente rejeitar a tese da "boa-fé" suscitada pela embargante.
+Ora, a embargante diz que agiu com boa-fé, vez que quando realizado o recadastramento referido pela autora na petição inicial, em dezembro de 2015, apresentou a certidão de casamento de Andressa, de forma que a partir de então a entidade incontroversamente passou a saber da condição de casada de Andressa, permitindo que esta permanecesse a usufruir do plano, com o que teria concordado tacitamente.
+Observa-se que embora a autora diga que a ré não preencheu o formulário e que obteve a certidão pertinente ao casamento da dependente por diligências autônomas, ao passo em que a ré deduz ter anexado o documento quando assim lhe foi requerido, o que comprovou mediante a imagem de tela de fl. 394, é certo o desfecho de tal discussão não tem o condão de imbuir a conduta da ré da propalada "boa-fé".
+Isso porque, em primeiro lugar, como bem destacado no corpo da r. sentença, era dever da beneficiária informar à associação a respeito da mudança do estado civil da dependente tão logo do casamento, realizado em 2012, o que claramente não fez, somente vindo a supostamente apresentar o documento em dezembro de 2015, quando expressamente solicitada, o que, nesses termos, nota-se não ter feito voluntariamente.
+Em segundo lugar, uma vez que a cobrança se limita às despesas médicas e hospital ares computadas de 30/06/2012 a 02/12/2015, ainda que a ré tenha, de fato, comunicado o casamento da filha em dezembro de 2015, não existe fundamento algum para a assertiva de que a autora "concordou tacitamente" com a permanência da dependente em seus quadros, vez que ao que consta, nenhum outro serviço a ela prestou.
+Ressalta-se, por oportuno, que ainda que a tese voltada ao reconhecimento da "boa-fé" da ré não tenha sido expressamente afastada no bojo do julgado, a inadmissão do fundamento era absolutamente presumível na medida em que o Magistrado "a quo" e, por conseguinte, a C. Turma Julgadora ressalvaram ter a ré, ao contrário, "invocado a própria torpeza", na medida em que assumiu ter silenciado a respeito do casamento da filha por mais de 3 anos, nos quais permaneceu a utilizar-se dos serviços da autora, tendo, inclusive, assumido e negociado a dívida no âmbito extrajudicial (conforme emails de fls. 35 e seguintes), circunstâncias incompatíveis com a lealdade e lisura suscitadas.
+Observa-se, portanto, que a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
