@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por FAZENDA NACIONAL, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pelo Tribunal Regional da 3ª Região assim ementado (e-STJ, fl. 470):
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. DEDUÇÃO DE JUROS SOBRE O CAPITAL PRÓPRIO. EXERCÍCIOS ANTERIORES. POSSIBILIDADE. REMESSA NECESSÁRIA E APELAÇÃO DESPROVIDAS.
+1. O art. 9º da Lei nº 9.249/95 estabelece que "a pessoa jurídica poderá deduzir, para efeitos de apuração do lucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou acionistas, a título de remuneração do capital próprio, calculados sobre as contas do patrimônio líquido e limitados à variação, pro rata dia, da taxa de juros de longo prazo - TJLP".
+2. Referido dispositivo não estabelece óbice à distribuição dos juros em questão em exercício diferente daquele em que foi apurado, pois não estabeleceu qualquer periodicidade para tanto.
+3. "Em que pese o ganho sobre o capital próprio utilizado na sociedade empresária ocorrer em cada exercício em que se apura o lucro (regime de competência), para fins de dedução na base de cálculo, utiliza-se o regime de caixa, pois é o momento em que efetivamente ocorreu a devolução dos valores a seus titulares e, portanto, momento oportuno para a melhor verificação da ocorrência de tal fenômeno" (ApCiv 5001340-38.2019.4.03.6100 / TRF3 - TERCEIRA TURMA / JUIZA FED. CONV. DENISE AVELAR / 18.06.20).
+4. Nos termos da sólida orientação jurisprudencial deste Órgão julgador e do STJ, é possível a dedução dos juros sobre o capital próprio da base de cálculo do IRPJ e da CSLL, ainda que seja de exercícios anteriores.
+5. Remessa necessária e apelação desprovidas.
+Em suas razões de recurso especial (e-STJ, fls. 538-550), a recorrente alegou violação aos arts. 489, § 1º, e 1.022, parágrafo único, II, do Código de Processo Civil de 2015; 9º, caput e § 1º, da Lei 9.249/1995; 6º, §§ 1º, 3º, a, 5º 6º e 7º, do Decreto-Lei 1.598/1977; 121, 177 e 132 da Lei 6.404/1976; 41 da Lei 8.981/1995; 247, § 1º e 251 do RIR/99; 111, I, do CTN; e 28, § 4º, da IN 1515/2014.
+Sustentou, em síntese, que o acórdão recorrido incorreu em ausência de fundamentação e negativa de prestação jurisdicional ante a omissão do Tribunal de origem em apreciar os questionamentos deduzidos nos embargos de declaração.
+Ponderou que "a restrição legal à dedução de JCP relativos a exercícios anteriores ao efetivo pagamento possui caráter material, e não temporal" (e-STJ, fl. 542).
+Ressaltou a "necessidade de distinção entre os limites legais de pagamento dos JCP e os limites legais de dedução deles na base de cálculo do IRPJ e da CSLL" (e-STJ, fl. 542).
+Asseverou que "os balanços patrimoniais aprovados nos períodos pretéritos constituem atos jurídicos perfeitos, não havendo como imputar a exercícios passados os efeitos de deliberação societária tomada no presente, salvo se demonstrada a anterior ocorrência de erro, dolo ou simulação, do que, evidentemente, não se trata na presente hipótese" (e-STJ, fl. 548).
+Argumentou sobre a impossibilidade de se deduzir juros sobre capital próprio (JCP) relativos a exercícios anteriores, bem como com a necessária observância do regime de competência.
+Foram apresentadas contrarrazões (e-STJ, fls. 554-597).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo (e-STJ, fls. 623-649).
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsps ns. 2.162.629/PR, 2.162.248/RS, 2.163.735/RS e 2.161.414/PR, relator Ministro Paulo Sérgio Domingues, julgado em 25/3/2025, DJEN de 31/3/2025, delimitaram o Tema 1.319 da seguinte forma: "possibilidade de dedução dos juros sobre capital próprio (JCP) da base de cálculo do IRPJ e da CSLL, quando apurados em exercício anterior ao da decisão assemblear que autoriza o seu pagamento".
+Confira-se a respectiva ementa:
+PROCESSUAL CIVIL. TRIBUTÁRIO. JUROS SOBRE CAPITAL PRÓPRIO. DEDUÇÃO DA BASE DE CÁLCULO DO IRPJ E DA CSLL QUANDO APURADOS EM EXERCÍCIO ANTERIOR AO DA DECISÃO ASSEMBLEAR QUE AUTORIZA O PAGAMENTO. QUESTÃO DE DIREITO. MULTIPLICIDADE DE CAUSAS PARELHAS. RECURSO SELECIONADO COMO REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Controvérsia jurídica submetida ao Superior Tribunal de Justiça:
+"possibilidade de dedução dos juros sobre capital próprio (JCP) da base de cálculo do IRPJ e da CSLL, quando apurados em exercício anterior ao da decisão assemblear que autoriza o seu pagamento".
+2. Recurso especial selecionado que preenche os requisitos de admissibilidade, permitindo o conhecimento da questão de direito controvertida.3. Existência de multiplicidade de causas parelhas a espelhar a mesma controvérsia presente nas amostras selecionadas para julgamento paradigmático.
+4. Necessidade e conveniência da uniformização da jurisprudência do STJ em caráter vinculante, ante a aparente dispersão jurisprudencial que caracteriza o tema; a inexistência de julgados a ele relativos oriundos da Primeira Seção; a natureza infraconstitucional da controvérsia reconhecida como tal pelo STF; e a repercussão econômica da questão tributária em disputa.
+5. Afetação do recurso especial ao regime dos recursos repetitivos.
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.319/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. JUROS SOBRE CAPITAL PRÓPRIO. DEDUÇÃO DA BASE DE CÁLCULO DO IRPJ E DA CSLL. EXERCÍCIOS ANTERIORES. REGIME DE COMPETÊNCIA. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.319 DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
