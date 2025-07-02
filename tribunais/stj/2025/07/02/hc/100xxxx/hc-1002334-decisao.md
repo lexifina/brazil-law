@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WEUDSON QUERINO DA SILVA GUIMARÃES contra acórdão da 6ª Câmara Criminal do Tribunal de Justiça de São Paulo, no HC n. 2089520-63.2025.8.26.0000, assim ementado:
+DIREITO PENAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ORDEM DENEGADA.
+I. Caso em Exame.
+1. Habeas corpus impetrado em favor de réu denunciado por porte ilegal de arma de fogo de uso permitido. A defesa aponta nulidade das diligências policiais em função da ausência de fundada suspeita.
+II. Questão em Discussão.
+2. Dirimir a tese de legalidade das buscas pessoal e veicular efetivadas pelos agentes públicos.
+III. Razões de Decidir.
+3. Os policiais militares deram ordem de parada automóvel que trafegava com a porta amassada. A busca veicular decorreu de fundada suspeita, haja vista que o paciente tentou se passar por guarda municipal, apresentando simulacro de arma de fogo acompanhado de documentação.
+4. A inviolabilidade da vida privada e da intimidade não é absoluta, sujeitando-se às exceções constitucionais, como se verifica no caso concreto.
+IV. Dispositivo e Teses.
+5. Ordem denegada. Teses de julgamento: 1. A abordagem policial e a busca veicular motivadas por fundada suspeita não configura ilegalidade. 2. A inviolabilidade da vida privada e da intimidade admite exceções constitucionais.
+Legislação Citada: CF art. 5º, X. CPP art. 244. Lei nº 10.826/03 art. 14, caput.
+Jurisprudência Citada: STF Tema 280 de Repercussão Geral; RE nº 603.616/RO; HC 231.111 AgR. STJ HC nº 598.051/SP. (e-STJ, fl. 10)
+Em seu arrazoado, o impetrante aponta a ilegalidade da busca pessoal e veicular por ausência por ausência de fundadas razões.
+Alega que, no caso, a abordagem ocorreu tão somente em razão de o carro estar com uma das portas amassada.
+Pugna, liminarmente e no mérito, pelo reconhecimento da ilicitude da prova, com o trancamento da ação penal.
+O pedido liminar foi indeferido (e-STJ, fl. 36).
+Informações prestadas às fls. 42-44 e 45-58, e-STJ.
+O Ministério Público opinou pelo não conhecimento do writ (e-STJ, fls. 62-67).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade que autorize a concessão da ordem de ofício.
+O art. 244 do CPP assevera que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+O § 2º do art. 240 do CPP consagra que é necessária a presença de fundada suspeita para que seja autorizada a medida invasiva, padecendo de razoabilidade e de concretude a abordagem de indivíduo em razão de denúncias anônimas não averiguadas previamente.
+Sobre o tema, esta Corte já decidiu que "há uma necessária referibilidade da medida, vinculada à sua finalidade legal probatória, a fim de que não se converta em salvo-conduto para abordagens e revistas exploratórias (fishing expeditions), baseadas em suspeição genérica existente sobre indivíduos, atitudes ou situações, sem relação específica com a posse de arma proibida ou objeto que constitua corpo de delito de uma infração penal" (HC n. 774.140/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+In casu, o Tribunal de Justiça entendeu que a diligência não foi motivada única e exclusivamente pela impressão subjetiva dos policiais, mas "em razão da porta amassada do veículo que trafegava em via pública" (e-STJ, fl. 12). Apenas após a abordagem é que foi constatado que o paciente se fez passar por guarda municipal, apresentando arma de fogo, que depois se descobriu ser produto de furto.
+Em que pese a conclusão das instâncias ordinárias, observa-se do excerto transcrito que os policiais realizaram a abordagem somente porque o paciente trafegava com veículo em mau estado de conservação.
+Verifica-se, assim, que se trata de abordagem exploratória, desprovida de fundamentação em comportamento que sequer se apresentou suspeito ou furtivo.
+Destarte, não houve a demonstração de qualquer atitude concreta que apontasse estar o paciente na posse de material objeto de ilícito ou na prática de algum crime. A mera situação de estar a bordo de veículo com a porta amassada não constitui, por si só, fundada suspeita, conforme precedentes desta Corte, sendo necessária a presença de elementos concretos para justificar a medida invasiva. Logo, sendo ilegal a atividade policial efetivada sem justo motivo, deve ser reconhecida a nulidade deste ato.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA VEICULAR. ILEGALIDADE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão que negou provimento ao recurso especial, mantendo a absolvição do agravado pela ilegalidade da busca veicular.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a demonstração de espanto ou nervosismo pelo agravado ao avistar a viatura policial constitui fundada suspeita para justificar a busca veicular e pessoal.
+III. Razões de decidir
+3. A decisão de instância anterior reconheceu a ilegalidade da busca veicular, pois a abordagem foi baseada em suposições genéricas e subjetivas, sem elementos concretos que indicassem a prática de tráfico de drogas.
+4. A mera expressão de espanto ou nervosismo não constitui, por si só, fundada suspeita, conforme precedentes do STJ, sendo necessária a presença de elementos concretos para justificar a medida invasiva.
+5. A busca pessoal e veicular sem justa causa é ilegal, e as provas obtidas dessa forma são consideradas ilícitas, afetando a materialidade do delito e impondo a absolvição do agravado.
+IV. Dispositivo e tese
+6. Agravo desprovido.
+Tese de julgamento: "1. A expressão de espanto ou nervosismo não constitui fundada suspeita para justificar busca veicular. 2. A busca pessoal e veicular sem justa causa é ilegal e as provas obtidas são ilícitas."
+Dispositivos relevantes citados: CPP, art. 244; CPP, art. 240, § 2º; CPP, art. 157.
+Jurisprudência relevante citada: STJ, RHC 158.580/BA, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 19.04.2022; STJ, HC 774.140/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 25.10.2022; STJ, RHC 185.767/PB, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 28.11.2023; STJ, AgRg no HC 851.944/GO, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 18.12.2023.
+(AgRg no AREsp n. 2.769.184/RS, deste relator, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025; grifou-se.)
+RECURSO ESPECIAL. NULIDADE. INVASÃO DE DOMICÍLIO. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. INGRESSO POLICIAL APOIADO EM APREENSÃO DE DROGAS COM CORRÉU. AUSÊNCIA DE JUSTA CAUSA. APLICAÇÃO DO ENTENDIMENTO FIRMADO NO HC N. 598.051/SP. RECURSO PROVIDO.
+1. No caso em tela, os policiais, ao perceberem o motorista de um veículo apresentar "nervosismo", realizaram busca pessoal e nada encontraram. Posteriormente, na busca veicular, foram encontrados 81g (oitenta e um gramas) de maconha. Questionado sobre a origem das drogas, o agente alegou ter comprado do corréu, o que motivou o deslocamento de todos à sua residência, onde foram apreendidos mais 309g (trezentos e nove gramas) de maconha e 121g (cento e vinte e um gramas) de cocaína.
+2. Tendo como referência o recente entendimento firmado por esta Corte, nos autos do HC n. 598.051/SP, o ingresso policial forçado em domicílio foi resultante apenas de depoimento de agente flagrado em posse de drogas, circunstância que não justifica a dispensa de investigações prévias ou do mandado judicial para a entrada dos agentes públicos na residência, acarretando a nulidade da diligência policial.
+3. "Não satisfazem a exigência legal, por si sós  para a realização de busca pessoal/veicular , meras informações de fonte não identificada (e.g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP." (RHC n. 158.580/BA, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2022, DJe 25/4/2022.)
+4. Ademais, a própria apreensão de drogas com o corréu foi eivada de ilegalidade, porquanto realizada busca veicular motivada tão somente pelo "nervosismo" do agente, circunstância insuficiente para autorizar a busca pessoal ou veicular, conforme o precedente do parágrafo anterior.
+5. Recurso especial provido para anular as provas decorrentes da invasão ao domicílio e as daí derivadas, com efeitos estendidos ao corréu.
+(REsp n. 1.966.105/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/9/2022, DJe de 21/9/2022; grifou-se.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. BUSCA PESSOAL. ABORDAGEM DESMOTIVADA. AUSÊNCIA DE FUNDADAS RAZÕES. ILEGALIDADE. RECONHECIMENTO DA NULIDADE DAS PROVAS OBTIDAS. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO AO ORA AGRAVADO. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL - MPF DESPROVIDO.
+1. Nos termos do art. 240, § 2º, do Código de Processo Penal - CPP, para a realização de busca pessoal é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito. No caso dos autos, da leitura da sentença de primeiro grau e do acórdão proferido em sede de apelação, é forçoso reconhecer que não existiam fundadas suspeitas para que a autoridade policial realizasse a busca pessoal, na medida em que embasada apenas na alegação vaga de que o réu demonstrou nervosismo e mudou a direção em que estava caminhando ao avistar a polícia.
+2. Consolidou-se nesta Corte orientação jurisprudencial de que uma simples mudança de direção da caminhada, por si só, não preenche o requisito de fundada suspeita de corpo de delito para a realização de uma busca pessoal em via pública, nos termos do art. 244 do CPP. Outrossim, " .. não satisfazem a exigência legal, por si sós para a realização de busca pessoal/veicular , meras informações de fonte não identificada (e. g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP" (RHC n. 158.580/BA, Rel. Min. ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/4/2022, D Je 25/4/2022). Nesse contexto, desautorizada, na hipótese em exame, a atuação policial, verifica-se a nulidade da busca pessoal. Por conseguinte, reconheci da a ilicitude na apreensão da droga, suficiente ao reconhecimento da nulidade de todos os atos a posteriori, pela teoria dos frutos da árvore envenenada.
+3. Agravo regimental do Ministério Público Federal desprovido.
+(AgRg no HC n. 945.461/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025; grifou-se.)
+Diante de todo o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para reconhecer a ilegalidade da busca pessoal e a ilicitude da prova ali obtida, com o consequente trancamento da Ação Penal n. 1504367-17.2025.8.26.0228.
+Publique-se. Intime-se.
+EMENTA
