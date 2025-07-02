@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO. AQUISIÇÃO DE IMÓVEL NOVO CONSTRUÍDO PELA REQUERIDA. IRREGULARIDADES APRESENTADAS POUCO TEMPO DEPOIS DA ENTREGA DO BEM. NULIDADE PROCESSUAL, INÉPCIA INICIAL E CERCEAMENTO DE DEFESA. PRELIMINARES REJEITADAS. MÉRITO. RESPONSABILIDADE DA CONSTRUTORA POR VÍCIOS CONSTRUTIVOS APONTADOS EM PERÍCIA. DANOS MATERIAIS E MORAIS OBSERVADOS. BDI. POSSIBILIDADE DE INCIDÊNCIA. DANO MORAL CONFIGURADO. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. REDISTRIBUIÇÃO DA VERBA SUCUMBENCIAL. APELAÇÃO 1 PROVIDA. APELAÇÃO 2 DESPROVIDA.
+Nas razões de recurso especial, a parte agravante alega violação do art. 944 do Código Civil e à Lei Federal 11.977/2009, além de divergência jurisprudencial. Sustenta que os valores referentes a BDI (benefícios e despesas indiretas) devem ser excluído do montante a ser pago a título de indenização à agravada em razão de defeitos no imóvel a ela vendido.
+Assim posta a questão, verifico que o recurso especial não dispensa o reexame de prova. Com efeito, os valores que a agravante pretende excluir compõem a indenização a fim de que se atinja a reparação integral. Confira-se o seguinte trecho do acórdão recorrido (fl. 513):
+Quanto à inclusão do BDI, entende-se devida, já que, para além dos materiais a serem utilizados nos reparos determinados em sentença e confirmados nesta decisão, necessária será também a contratação de mão-de-obra para sua realização, de modo que seria devido valor maior ao encontrado no orçamento do laudo, o que o percentual do BDI pode suprir.
+Ademais, entende-se que o item deve ser incluído no orçamento geral da indenização material dentro de uma perspectiva de direito da parte autora à reparação integral.
+Ressalte-se que o dispositivo tido por violado preceitua: "A indenização mede-se pela extensão do dano". No caso, o acórdão dispõe que para cobrir a extensão do dano, é necessário que a verba em discussão componha a indenização. Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
