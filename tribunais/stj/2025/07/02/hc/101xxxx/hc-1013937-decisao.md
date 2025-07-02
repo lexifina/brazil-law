@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANTONIO SANTOS RAMOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente teve a prisão preventiva decretada pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que indeferiu o pleito liminar.
+Neste habeas corpus, requer o impetrante, em síntese, a concessão de liberdade provisória, mediante aplicação de medidas cautelares diversas da prisão, diante da ausência de elementos concretos para custódia cautelar, sobretudo quando considerada a primariedade do agente e a ínfima quantidade de entorpecente apreendido.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, consoante os termos da Súmula 691/STF.
+Nesse sentido, confira:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA N. 691/STF. ART. 1º, I, § 1º, DO DECRETO N. 201/1967 (TRÊS VEZES) E ART. 316 DO CP (TRÊS VEZES). DESCUMPRIMENTO DE MEDIDA CAUTELAR. PRISÃO PREVENTIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Caso em que a prisão foi decretada em razão do descumprimento de medida cautelar anteriormente imposta, conforme previsão. Precedentes. Ausência de manifesta ilegalidade, abuso de poder ou teratologia a autorizar a superação do mencionado enunciado.
+3. Agravo regimental a que se nega provimento."
+(AgRg no HC 400.949/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017)
+Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, resguardando a análise mais detalhada da questão ao julgamento do mérito, in verbis:
+"2. Inviável a concessão de liminar.
+Não se vislumbram, na espécie, o fumus boni iuris e o periculum in mora a justificar a concessão da liminar para o fim objetivado pela impetração. A concessão da medida liminar só é cabível quando de plano, numa cognição sumária, constata-se a plausibilidade do direito alegado e, diante dela, o risco de que eventual demora da prestação jurisdicional acabe por inviabilizar a obtenção da providência que se pleiteia, o que não se verifica no caso ora em tela.
+Consta dos autos que, no dia 19 de junho de 2025, por volta das 16h04min, policiais militares realizavam patrulhamento ostensivo no bairro Paraíso, mais precisamente na Rua Seme Jubran, quando visualizaram o paciente saindo de um bar de sua propriedade, situado no número 670 da mencionada via pública. Ao notar a aproximação da viatura, o paciente demonstrou inquietação e nervosismo evidentes, retornando apressadamente ao interior do estabelecimento, conduta que chamou a atenção dos agentes, motivando a abordagem imediata. Durante a revista, os policiais observaram que o abordado tentava ocultar um estojo na região da bermuda que utilizava. Ao ser questionado, afirmou, inicialmente, que se tratava de mercadoria destinada à venda. No curso da busca pessoal, foi encontrado em sua posse um estojo preto contendo 21 porções de cocaína, acondicionadas individualmente em formato de supositório, totalizando peso bruto de 28 gramas. Também foram apreendidos R$ 565,00 (quinhentos e sessenta e cinco reais), em cédulas di versas, e um telefone celular da marca Motorola, cor azul. Indagado quanto à origem dos entorpecentes e do dinheiro, o paciente admitiu, inicialmente, ser o proprietário da droga e afirmou que o valor em espécie derivava da venda dos entorpecentes. Todavia, ao ser cientificado de que seria conduzido à Delegacia, passou a negar envolvimento com os fatos, alegando desconhecer a procedência do material e insinuando que os objetos poderiam ter sido plantados por terceiros.
+Tais elementos encontram base na investigação. Há, pois, indícios de autoria, os quais configuram o fumus boni juris.
+Embora a quantidade de droga apreendida - 21 porções de cocaína, com peso líquido de 7,29 gramas 1 - não seja expressiva, as demais circunstâncias evidenciam a prática habitual do tráfico, especialmente o fato de o paciente ter sido surpreendido em seu estabelecimento comercial com quantia em dinheiro trocado - R$ 565,00 2 - e de ter confessado informalmente aos policiais que o valor era proveniente da venda de entorpecentes no local.
+As circunstâncias do fato permitem prever, prima facie, que o paciente, se desde logo solto, fará uso da liberdade para tornar a delinquir, o que, de si, constitui fundamento suficiente para, ao menos por ora, negar a liberdade provisória pretendida.
+No mais, anota-se que a decisão que converteu a prisão em flagrante em preventiva se apresenta suficientemente fundamentada 3 , destacando que o paciente "ostenta antecedentes criminais, ensejando o reconhecimento de maus antecedentes (fls. 33/36)".
+A reiteração criminosa evidencia a periculosidade e, prima facie, é fundamento suficiente à negativa de liberdade provisória, pois denota a necessidade da prisão para garantia da ordem pública.
+Assim, não se vislumbra desde logo o constrangimento apontado pela impetração.
+Isto posto, indefiro a liminar" (e-STJ, fls. 26-28)
+Assim, da leitura atenta da decisão impugnada, não verifico, por ora, a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
