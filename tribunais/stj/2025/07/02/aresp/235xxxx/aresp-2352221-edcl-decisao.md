@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão (fls. 1.537/1.540) que rejeitou o pedido para que fosse certificado o trânsito em julgado parcial.
+Nas razões dos embargos de declaração, aponta a recorrente omissão no decisum sobre: (i) o fato de que está definitivamente encerrada a discussão material destes autos, ante o pedido de desistência da União Federal dos Recursos Especial e Extraordinário por ela interpostos, os quais tratavam da parcela do ICMS a ser excluída das bases de cálculo do PIS/COFINS e (ii) o precedente da 2ª Turma e sobre os demais mencionados pela Embargante que também reconheceram a possibilidade de certidão de trânsito em julgado parcial.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada indeferiu o pleito da recorrente para que fosse certificado o trânsito em julgado parcial, ao entendimento de que, na linha da jurisprudência colacionada, não há possibilidade de fracionamento da sentença, para que seja certificado o trânsito em julgado parcial, de forma que o trânsito em julgado material somente ocorre quando esgotadas todas as possibilidades de interposição de recurso.
+Ora, nestes aclaratórios, sob alegação de omissão no julgado, o que pretende o embargante é rediscussão da causa, o que não se enquadra nas hipóteses de cabimento de embargos de declaração. Com efeito, "Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi." (AgInt no REsp 1.921.188/DF, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 26/9/2022).
+Ademais, a alegação de que há precedentes nesta Corte Superior em sentido diverso ao adotado no acórdão embargado não justifica o acolhimento dos aclaratórios, visto que eventual "dissenso pretoriano, ainda que ocorrido entre julgados, por representar circunstância externa ao corpo do acórdão embargado, também denominado "contradição externa", não autoriza o acolhimento do recurso integrativo, pois sua motivação denota objetivo exclusivamente infringente" (EDcl no AgInt nos EDcl no AREsp n. 1.871.942/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/12/2021, DJe de 13/12/2021).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
