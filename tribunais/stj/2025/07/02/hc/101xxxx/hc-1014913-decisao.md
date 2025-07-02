@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEVINE RAJA GABAGLIA ARTIAGA, contra ato coator proferido no âmbito da Ação Penal n. 5439405-32.2021.8.09.0000, em trâmite perante o Órgão Especial do Tribunal de Justiça de Goiás.
+Em seu arrazoado, aponta constrangimento ilegal em razão da retomada da instrução criminal sem o enfrentamento das teses suscitadas nas razões do agravo regimental, que questionavam o saneamento do feito e a ratificação dos atos decisórios pelo Relator.
+Requer, liminarmente, a suspensão do ato designado para o dia 4/7/2025.
+No mérito, considerando que as matérias suscitadas no agravo regimental são relevantes para o regular andamento do feito e que a retomada da instrução sem o enfrentamento dos temas suscitados configura cerceamento de defesa, requer seja determinado o julgamento do agravo antes da retomada da instrução.
+Pugna pelo direito de realizar sustentação oral.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, faz-se necessário destacar que "inexistindo constrangimento direto e concreto ao direito de ir e vir do paciente, incabível a utilização do habeas corpus para finalidade outra que não seja remediar a restrição ou ameaça ilegal, concreta e direta, ao direito de locomoção." (AgRg no HC n. 857.496/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024; grifou-se).
+Cumpre ressaltar, ainda, que " a  decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro Felix Fischer, Quinta Turma, DJe 28/3/2019).
+É "plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC 607.055/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 09/12/2020, DJe 16/12/2020).
+Quanto ao mérito da irresignação, observa-se que o impetrante impugna decisão da Juíza Substituta em 2º Grau, que determinou o normal prosseguimento da ação penal pois o agravo regimental interposto pela defesa foi recebido sem atribuição de efeito suspensivo.
+A decisão não foi objeto de deliberação colegiada do Tribunal a quo, o que inviabiliza o seu conhecimento por esta Corte Superior em razão da ausência de exaurimento de instância.
+"Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal)." (AgRg no HC n. 743.582/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022).
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
