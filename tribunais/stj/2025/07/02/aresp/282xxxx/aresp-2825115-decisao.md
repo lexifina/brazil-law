@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 735 do STF (fls. 211-216).
+O acórdão recorrido encontra-se assim ementado (fls. 151-152):
+AGRAVO DE INSTRUMENTO - AÇÃO MANDAMENTAL C/C PEDIDO DE TUTELA DE URGÊNCIA - PRORROGAÇÃO DE DÍVIDA RURAL - CÉDULA DE CRÉDITO BANCÁRIO - MANUAL DE CRÉDITO BANCÁRIO - LAUDO TÉCNICO DE PERDA - SOLICITAÇÃO ADMINISTRATIVA DE ALONGAMENTO - REQUISITOS DEMONSTRADOS - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+A tutela de urgência deve ser deferida quando for demonstrada a "probabilidade do direito" e o "perigo de dano" ou o "risco ao resultado útil do processo" (art. 300 do CPC).
+De acordo com o enunciado nº 298 do STJ, "o alongamento de dívida originada de crédito rural não constitui faculdade da instituição financeira, mas, direito do devedor nos termos da lei".
+Nestes termos, comprovado o preenchimento das condições estabelecidas no Manual de Crédito Rural (MCR) e da prévia postulação administrativa tem o devedor o direito subjetivo ao alongamento da dívida.
+Nas razões do recurso especial (fls. 181-192), fundamentado no art. 105, III, "a", da CF, a parte aponta violação dos arts. 300, 489, §1º, IV, do CPC, .
+Suscita a existência de omissão e falta de fundamentação, pois o Tribunal de origem teria deixado de apreciar questão imprescindível ao deslinde da controvérsia relativamente à alegação de exaurimento liminar da demanda.
+Alega que "INEXISTE NOS AUTOS O REQUISITO DA PROBABILIDADE DO DIREITO. Isso porque, ainda se discutirá acerca da natureza do crédito concedido ao Recorrido" (fl. 191).
+Houve contrarrazões (fls. 202-210).
+No agravo (fls. 221-232), afirma a presença dos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (fls. 242-248).
+Juízo negativo de retratação (fl. 250).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (fls. 159-163):
+ ..  A tutela de urgência foi deferida para permitir a prorrogação da Cédula de Crédito Bancário nº C21530117-6 pelo prazo legal e determinar a renegociação da dívida, além de impedir que a Agravante inscreva o nome do Agravado e do Avalista nos órgãos de proteção ao crédito e de impedir a execução forçada da operação em questão.
+Esta constitui a decisão agravada.
+A controvérsia está em saber se é caso de afastar a tutela de urgência deferida em razão da natureza comercial da cédula de crédito contratada.
+ ..  Além da demonstração da incapacidade de pagamento pelos motivos discriminados no manual, o exercício do direito ao alongamento da dívida pressupõe o prévio requerimento administrativo (Precedentes: Agravo Interno no Agravo em Recurso Especial n. 1.634.989/PR, 3ª T., rel. Min. Marco Aurélio Bellizze, j. 25/5/2020; Agravo em Recurso Especial n. 1.819.252/PR, Min. Maria Isabel Gallotti, j. 24/5/2021; e Agravo em Recurso Especial n. 1.302.150/GO, Min. Marco Buzzi, j. 26/2/2019).
+Na espécie, o autor instruiu a petição inicial com a notificação extrajudicial de pedido de prorrogação de dívida (Id. 138739671 - Origem), enviada pelos Correios com Aviso de Recebimento e entregue em 18.10.2023 ao preposto do banco (Id. 138739673 - Origem), bem como com o relatório detalhado da operação; laudo técnico de capacidade de pagamento e laudo de perda, ambos realizados por engenheiro agrônomo especializado, conclusivos ao afirmar que a parte autora "enfrentou condições desfavoráveis pelas adversidades climáticas da seca e excesso de chuva, custos elevados de produção e desvalorização do preço pago pelos bovinos na pecuária de corte. Nesse viés, esses infortúnios se tornaram preponderantes para gerar um desequilíbrio financeiro ao produtor rural, levando ao decréscimo das margens rentáveis na atividade, configurando impedimento na quitação de seus débitos " (Id. 138739674 e seguintes - Origem).
+Neste contexto, têm-se que, ao menos por ora, o autor logrou êxito em demonstrar o preenchimento dos requisitos legais hábeis a prorrogação da Cédula de Crédito Rural, porquanto demonstrou os prejuízos ocorridos na criação de bovinos decorrentes de problemas climáticos e mercadológicos, bem como a realização de prévio pedido administrativo a cooperativa credora.
+Ademais no que toca a alegação da agravante, de que o Manual de Crédito Rural não se aplica ao presente caso em razão da natureza comercial da cédula de crédito bancário, sem razão ao agravante, eis que demonstrado pelos documentos colacionados a inicial, a finalidade de financiamento da atividade rural.
+ ..  Assim, demonstrados pelo autor o preenchimento dos requisitos legais a prorrogação do débito, é caso de manter a tutela de urgência deferida na origem até que a instrução do feito permita esclarecer, de forma segura, os apontamentos suscitados por ambas as partes.
+Segundo o teor da Súmula n. 735 do STF e a jurisprudência consolidada desta Corte Superior, em regra "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (AgInt no REsp n. 1.179.223/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/3/2017, DJe 15/3/2017). Confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. TUTELA ANTECIPADA. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+(..)
+4. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 770.439/MT, de minha relatoria, QUARTA TURMA, julgado em 21/2/2017, DJe 3/3/2017.)
+Além disso, "em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, a análise desta Corte Superior de Justiça fica limitada à apreciação dos dispositivos relacionados aos requisitos da tutela de urgência, ficando obstado verificar-se a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal" (EDcl no AREsp n. 387.707/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/12/2014, DJe 10/12/2014). No mesmo sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MULTIDISCIPLINAR. IMPOSSIBILIDADE DE ANÁLISE DE TUTELA DE URGÊNCIA POR MEIO DE RECURSO ESPECIAL. SÚMULA N. 735/STF
+1. Esta Corte, em sintonia com o disposto na Súmula n. 735 do STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+2. O STJ admite a mitigação da Súmula 735 do STF apenas quando a própria medida importe em ofensa direta à lei federal que disciplina a tutela provisória (art. 273 do CPC/1973 ou art. 300 do CPC/2015), como, por exemplo, quando houver norma proibitiva da concessão dessa medida, de modo que "apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgInt no REsp n. 1179223/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15/3/2017).
+3. Hipótese em que a parte sequer indicou a violação do art. 300 do CPC/2015 nas razões do apelo nobre, de modo que, sendo a tese referente ao mérito da decisão de antecipação de tutela deferida nos autos, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 17/ 2/2014).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.134.498/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023.)
+Outrossim, ultrapassar os fundamentos do aresto impugnado, a fim de reverter a concessão da tutela de urgência, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA. ART. 300 DO CPC. REQUISITOS. REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. VIOLAÇÃO ART. 54, §4º, DO CDC. INOVAÇÃO NO AGRAVO INTERNO. PRECLUSÃO. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DO AGRAVO INTERNO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. É inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão pela instância de origem a qualquer momento. Incidência, por analogia, da Súmula n. 735 do STF.
+2. Não se admite a revisão do entendimento firmado pela Corte de origem quando a controvérsia demandar a análise fático-probatória dos autos, ante a incidência do óbice da Súmula n. 7 do STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.078.762/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Ante o exposto, NEGO PR OVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
