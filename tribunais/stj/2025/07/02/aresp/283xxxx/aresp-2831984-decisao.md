@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inviabilidade de arguir ofensa a artigo da Constituição e incidência das Súmulas n. 5 e 7 do STJ (fls. 1.045-1.057).
+O acórdão recorrido está assim ementado (fl. 921):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C ANULATÓRIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS - CONCESSÃO DOS EFEITOS DA TUTELA - PERDA DO OBJETO - AFASTADA - POSICIONAMENTO DO STJ SOBRE O TEMA - ACADÊMICA DO CURSO DE MEDICINA BENEFICIÁRIA DO FIES - FINANCIAMENTO ESTUDANTIL - ALTERAÇÕES NO FINANCIAMENTO PROMOVIDAS PELO MEC E PELO FND - IMPOSSIBILIDADE DE COBRANÇA DOS VALORES EXCEDENTES PELA UNIVERSIDADE - CLÁUSULA CONTRATUAL DO FIES QUE PREVÊ AO AGENTE FINANCEIRO A REALIZAÇÃO E EMISSÃO DE COBRANÇAS - INEXISTÊNCIA DO DÉBITO - DANOS MORAIS NÃO CONFIGURADOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 948-990).
+Nas razões do recurso especial (fls. 992-1.022), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos, além de dissídio jurisprudencial:
+(i) arts. 421 e 422 do CC, 1º da Lei n. 9.870/1990, 4º e 4º-B da Lei n. 10.260-2001, alegando que o acórdão não respeitou o pacto inicial firmado entre as partes, que previa a cobrança de valores residuais não cobertos pelo FIES e que "os valores cobrados pela IES nada mais são que valores excedentes do financiamento (FIES), aquela parcela que não foi abarcada pelo financiamento estudantil" (fl. 999), e
+(ii) arts. 207 e 209 da CF, aduzindo que "a afronta ao art. 207 e 209 da CF, vez que qual a serventia da autonomia didática/financeira se não é aplicada, como se sabe, permitiu a Constituição Federal que o ensino fosse ministrado por estabelecimento particular, desde que respeitadas tão só às disposições legais eventualmente existentes, equivalendo tal disposição à assertiva de que a Lei Maior autorizou os particulares a celebrarem com os interessados contratos de prestação de serviços" (fl. 1.005).
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (fls. 1.034-1.043).
+O agravo (fls. 1.059-1.087) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.091-1.096).
+É o relatório.
+Decido.
+No que se refere aos 207 e 209 da CF, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+Extraem-se as seguintes razões de decidir do aresto impugnado com relação a cobrança de eventuais encargos adicionais (fls. 926-927, grifei):
+Inicialmente, verifica-se que a cláusula sexta do contrato do FIES (f.29), prevê que compete exclusivamente ao agente financeiro (CEF) realizar a emissão de boletos da parte não financiada dos encargos educacionais, mediante recursos próprios do estudante financiado.
+ ..
+Deste modo, analisando detidamente os autos, verifica-se que a parte autora é beneficiária de 69,15% do financiamento estudantil, sendo que o valor da semestralidade é de R$ 62.148,02 e o valor coberto pelo FIES é de R$ 42.983,70, entretanto, a requerida lhe cobra o valor de  .. .
+Os valores informados pela apelante (f.54/80) dizem respeito ao cancelamento da parcela de cooparticipação de 15/06/2020 a 15/11/2020, restando devidamente comprovados aos autos que houve a diluição das parcelas, através dos boletos emitidos pela CEF e referentes as parcelas de nº 23 a 30, com referência ao semestre de 2021.2, totalizando o montante de R$ 22.822,32.
+Portanto, considerando o valor coberto pelo FIES (R$ 42.983,70), a autora comprovou que realizou o pagamento das parcelas do saldo remanescente, através dos documentos de f.54/80.
+Outrossim, não compete a requerida realizar a emissão de boletos, com cobrança de eventuais encargos adicionais, pois conforme mencionado alhures, a cláusula sexta prevê que tal obrigação é do agente financiador, ora CEF.
+Nesse sentido, deve ser declarado a inexistência dos débitos lançados no sistema interno da faculdade, sobretudo, do valor de R$ 59.375,75, na medida em que não compete à requerida realizar tais cobranças, mas, sim, ao agente financiador, conforme previsão contratual.
+Com isso, os parâmetros e o raciocínio do magistrado singular, a meu ver, não estão de acordo com as provas produzidas nos autos, devendo, portanto, ser reformada.
+A Corte local entendeu que a parte recorrida teria comprovado que realizou os pagamentos das parcelas do saldo remanescente e que não compete a parte recorrente realizar emissões de boletos, com cobranças de eventuais encargos adicionais, pois , conforme cláusula sexta do contrato, tal obrigação seria do agente financiador.
+R ever tais conclusões demandaria nova interpretação do contrato celebrado entre as partes e incursão no conjunto probatório dos autos, providências vedadas na instância especial, a teor das Súmulas n. 5 e 7 do STJ.
+Com efeito, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
