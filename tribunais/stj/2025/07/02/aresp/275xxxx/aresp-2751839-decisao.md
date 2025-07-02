@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC), interposto por BANCO UNIBANCO S/A, contra decisão que não admitiu recurso especial, ante a aplicação da Súmula 07 do STJ.
+Nas razões de agravo, a insurgente busca o destrancamento do reclamo.
+Sem contraminuta.
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Observa-se das razões do agravo, que a parte recorrente não refutou analiticamente como lhe deveria o fundamento de inadmissão da decisão agravada.
+1.1. A decisão de inadmissibilidade na origem encontra fundamento no acórdão recorrido, que pontuou expressamente sua convicção à luz das provas do autos:
+Com essas considerações, o valor do aluguel arbitrado na sentença deve ser mantido, porque está em consonância com o laudo pericial apresentado.
+Da simples leitura do acórdão recorrido, observa-se que a convicção decisória foi firmada exclusivamente a partir das provas realizadas na instrução probatória da demanda, notadamente: a prova pericial . Logo, a aplicação da Súmula 07 do STJ foi correta e devidamente motivada.
+O recurso almeja apenas o reexame de todo o caderno probatório da demanda, restando, portanto, dissociado da função uniformizadora do recurso especial, a atrair o teor da Súmula 7/STJ. Ressalte-se, ademais, que o recurso especial tem sido reiteradamente desrespeitado quanto à sua função uniformizadora, sendo utilizado como se fosse uma segunda apelação para viabilizar uma terceira revisão do caso individual, como aqui se tem.
+1.2. Como já foi dito, o Tribunal de origem, em juízo de inadmissibilidade, pontuou expressamente que o recurso almeja apenas o reexame de todo o caderno probatório da demanda, restando, portanto, dissociado da função uniformizadora do recurso especial,  a  atrair  o  teor  da  Súmula  7/STJ.  Todavia,  nas  razões  do  agravo,  a  parte  insurgente  repisou  os  argumentos  do  apelo  extremo  e  sustentou  -  apenas com o argumento retórico da revaloração das provas  -  a  inaplicabilidade  da  Súmula  7/STJ,  deixando  de  atender  a  dialeticidade  recursal.
+Massivamente o Superior Tribunal de Justiça tem sido abarrotado de demandas que distorcem a finalidade do recurso especial, em que a revisão casuística de fatos são ventilados com a roupagem de revaloração jurídica para viabilizar um nova reapreciação da lide individual. Não é possível dar guarida a essas pretensões.
+A  propósito,  com  relação  à  Súmula  7/STJ,  esta  eg.  Quarta  Turma,  nos  autos  do  AGInt  no  ARESp  n.  1.490.629/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  DJe  25/08/2021,  firmou  o  entendimento  de  que  "a  alegação  genérica  de  que  o  tema  discutido  no  recurso  especial  representa  matéria  de  direito  (incluídas  aí  as  hipóteses  de  qualificação  jurídica  dos  fatos  e  valoração  jurídica  das  provas),  e  não  fático-probatória,  não  é  apta  a  impugnar,  de  modo  específico,  o  fundamento  da  decisão  atacada.  Ao  revés,  deve  a  parte  agravante  refutar  o  citado  óbice  mediante  a  exposição  da  tese  jurídica  desenvolvida  no  recurso  especial  e  a  demonstração  da  adoção  dos  fatos  tais  quais  postos  nas  instâncias  ordinárias."  (AgInt  no  AREsp  1490629/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  05/08/2021,  DJe  25/08/2021) .
+1.3. Tem-se,  assim,  que  a  recente  jurisprudência  desta  Corte,  à  luz  do  princípio  da  dialeticidade,  que  norteia  os  recursos,  é  no  sentido  de  que  deve  a  parte  recorrente  impugnar  especificamente  o  fundamento  suficiente  para  manter  o  decisum  recorrido,  de  maneira  a  demonstrar  que  o  juízo  de  admissibilidade  do  Tribunal  de  origem  merece  ser  modificado,  ante a sua impropriedade, o  que  não  se  vislumbra  no  recurso  em  questão.
+Desta  forma,  irrefutável  a  incidência  da  Súmula  182  do  STJ,  porquanto  inexistiu  ataque  específico  a  todos  os  fundamentos  da  decisão  que  obstou  a  ascensão  do  recurso  especial  ao  Superior  Tribunal  de  Justiça.
+2.  Ante  o  exposto,  não  conheço  do  reclamo.
+Publique-se. Intimem-se.
+EMENTA
