@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de THIAGO ALEXANDRE DE ALMEIDA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (apelação criminal n. 1500954-96.2024.8.26.0594).
+Consta dos autos que o paciente foi condenado às penas de 05 (cinco) anos e 10 (dez) meses de reclusão, a ser cumprida inicialmente em regime fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, no patamar legal mínimo, como incurso no artigo 33, caput, da Lei nº 11.343/2006.
+Neste writ, a defesa sustenta que o paciente está sofrendo constrangimento ilegal ante a, em tese, ilegalidade da ação policial sofrida.
+Alega a nulidade da busca pessoal, o que confere a ilicitude às provas obtidas e a todos os atos decorrentes, pois a suposta tentativa de fuga só ocorreu em momento posterior à ilegalidade.
+Explica que a quantidade de droga apreendida não é indicativa da mercancia, sendo facilmente possível o seu consumo pessoal por qualquer usuário em pouquíssimo tempo: crack (4,91 g) e cocaína (0,55 g).
+Requer, inclusive liminarmente, "seja reconhecida a nulidade da abordagem policial e de todas as provas produzidas na sequência, com a consequente anulação de todos os atos processuais e absolvição do paciente. Subsidiariamente, requer a desclassificação da conduta do paciente para a prevista no art. 28 da Lei 11.343/06, frente a sua condição de usuário" (fl. 15).
+Petição (fls. 137-139).
+É o breve relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da suposta busca pessoal ilegal. Subsidiariamente, requer a defesa a desclassificação da conduta do paciente para a prevista no art. 28 da Lei n. 11.343/06.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda, também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que (fls. 18-19):
+PENAL. APELAÇÃO. TRÁFICO DE DROGAS. CONDENAÇÃO. RECURSO DA DEFESA.
+Pretendida, preliminarmente, a nulidade de provas em razão da ilegalidade da busca pessoal realizada pelos policiais. No mérito, pugna-se pela absolvição com lastro no artigo 386, inciso VII do Código de Processo Penal. Subsidiariamente, almeja-se a desclassificação para a figura do uso. Descabimento. Preliminar. Nulidade de busca pessoal. Inocorrência. Legitimidade da medida. A partir da análise sistêmica do contexto fático anterior à medida invasiva (fuga, dispensa de volume, local e horário da abordagem), restava clara a existência de fundada suspeita para a busca pessoal efetuada. Jurisprudência do C. STJ e do C. STF. Preliminar afastada. Mérito. Provas. Materialidade cabal ante a apreensão e perícia das drogas. Autoria certa diante das provas orais e documentais. Oitiva de policiais, sob compromisso, em nada desmerecida pela condição funcional deles, testemunhas, cujos depoimentos foram firmes e harmônicos com aquilo efetivamente apurado na fase inquisitiva e em confronto com a própria versão do apelante. Desclassificação para uso próprio. Impossibilidade. Circunstâncias do flagrante a corroborarem a ausência de evidências para uso próprio, levando à conclusão pela prática do tráfico. Condenação integralmente mantida.
+Negado provimento, afastada a preliminar.
+Esses fatores, considerados em conjunto, levaram o Tribunal à conclusão de que o paciente deveria sofrer a reprimenda nos moldes exatos em que fora imposta.
+Com efeito, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+A esse respeito:
+ ..  De tal modo, não é possível na via eleita desconstituir referida conclusão, porquanto demandaria indevido revolvimento de fatos e provas  ..  (AgRg no HC n. 904.707/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+ ..  A reforma das conclusões a que chegaram as instâncias ordinárias constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito  ..  (AgRg no HC n. 903.566/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024)
+Ante o exposto , não conheço do habeas corpus.
+Publique-se. Intimem- se.
+EMENTA
