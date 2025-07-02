@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado por Noel Carlos de Abreu Ribeiro com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 293):
+EMBARGOS DE DECLARAÇÃO. PENSÃO POR MORTE. FILHO MAIOR INVÁLIDO. DEPENDÊNCIA ECONÓMICA. NÃO COMPROVADA.
+1. Nas hipóteses em que o filho inválido é titular de beneficio de aposentadoria por invalidez, sendo o marco inicial anterior ao óbito da instituidora da pensão, a dependência econômica deve ser comprovada, porque a presunção desta acaba sendo afastada diante da percepção de renda própria. Precedentes do STJ.
+2. Embargos acolhidos.
+Opostos embargos declaratórios, foram rejeitados (fls. 335/343).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 16, III, da Lei n. 8.213/1991. Sustenta, em síntese, que a dependência econômica do filho maior inválido é presumida e que, "embora perceba beneficio de aposentadoria por invalidez, ele dependia totalmente de sua genitora, tanto para os atos da vida civil como economicamente, em razão de sua enfermidade" (fl. 300).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Observa-se que as razões do recurso especial contêm discussão acerca da concessão de pensão por morte a filho maior inválido que percebe renda própria, decorrente de benefício previdenciário.
+Sobre o tema, a Primeira Seção do Superior Tribunal de Justiça afetou a matéria ao rito dos Recursos Repetitivos (Tema n. 1.341), nos autos dos REsps 2.168.454/SP e 2.168.455/SP, relatoria do Ministro Afrânio Vilela, que cuida da seguinte controvérsia:
+Definir se o filho maior inválido com renda auferida da concessão de benefício previdenciário pode receber o benefício de pensão por morte.
+Assim, em razão de economia processual e para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que for definitivamente decidido por essa Corte, é conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com o juízo de retratação ou de conformação a ser realizado pela instância ordinária, após o julgamento do recurso especial sobre o mesmo tema afetado, nos moldes dos arts. 1.040 e 1.041 do CPC.
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese no Tema n. 1.341/STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+Por fim, no julgamento da Questão de Ordem no REsp 1.653.884/PR, pela Primeira Turma deste Superior Tribunal de Justiça, ficou assentado que, nos casos de devolução do recurso especial ao Tribunal de origem para se aguardar o desfecho do recurso repetitivo, a Corte recorrida, caso verifique a existência de resíduo não alcançado pela afetação do Superior Tribunal de Justiça, deverá determinar o retorno dos autos a este STJ somente após ter exercido o juízo de conformação ao que decidido pelo Tribunal Superior no julgamento do representativo da controvérsia respectiva (QO no REsp 1.653.884/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/11/2017).
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso especial e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido por este Superior Tribunal de Justiça sobre o Tema 1.341/STJ.
+Publique-se
+EMENTA
