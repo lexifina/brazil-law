@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, embargos de declaração opostos por RAIZEN S.A. contra decisão que indeferiu seu pedido de renúncia ao direito, após ter sido desatendida determinação para que houvesse regularização processual.
+A parte embargante sustenta, em síntese, omissão da decisão uma vez que "o advogado subscritor da petição de e-STJ fls. 1.839/1.840 possui poderes para desistir e renunciar o direito sobre o qual se funda a ação " (fl. 1864); "não se coaduna com o princípio processual aviltado no art. 10 do CPC que houvesse o indeferimento do pedido sem antes oportunizar à parte que, nos exatos moldes exigidos pelo comando judicial, pudesse se manifestar sobre a suposta ausência de poderes para renunciar o direito" (fl. 1866) e que "decisão foi obscura ao determinar que a serventia certifique o trânsito em julgado e a baixa dos autos, haja vista que, em sendo o caso de não se considerar válida a representação para fins de extinção do processo com base no art. 487, III, "c", do CPC, os embargos de declaração no agravo em recurso especial deveriam ter sido apreciados - o que não foi feito, estando a jurisdição precária".
+É o relatório.
+Os embargos de declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Conforme se depreende do art. 1.022 do Código de Processo Civil, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais).
+A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão.
+Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se verifica qualquer vício na decisão embargada, porque a decisão embargada enfrentou de forma clara e objetiva o pedido de renúncia ao direito, que veio desacompanhado da respectiva procuração, tendo a parte intencionalmente desatendido o despacho para que fosse sanado o vício.
+Não há qualquer violação ao princípio da não surpresa, uma vez que a parte, ao invés de trazer nova procuração aos autos, optou por não atender ao despacho de fls. 1845-1846, que determinou expressamente a regularização processual.
+Tampouco há qualquer obscuridade, uma vez que os embargos de declaração em agravo em recurso especial já foram julgados às fls. 1811-1814, não tendo sido interposto qualquer recurso nesse sentido, portanto, correta a determinação de que seja certificado o trânsito em julgado.
+Assim, verifico que o inconformismo da parte embargante busca emprestar-lhes efeitos infringentes, manifestando nítida pretensão de rediscutir a decisão anterior , o que é incabível nesta via recursal.
+Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada.
+Não verifico, na espécie sub judice, nenhuma omissão, contradição, obscuridade ou erro material no acórdão embargado, senão o intuito de rediscutir matéria já decidida, atribuindo aos embargos o efeito infringente.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO NOS AUTOS. SÚMULA Nº 115/STJ. INEXISTÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. CONTRADIÇÃO INEXISTENTE. RECURSO REJEITADO.
+1. Na espécie, não há contradição entre a fundamentação e a conclusão do julgado, nem tampouco se verifica algum dos outros vícios elencados no art. 1022 do Novo Código de Processo Civil. Pretende a parte embargante, na verdade, reverter o resultado que lhe foi desfavorável.
+2. Embargos de declaração rejeitados. (EDcl no AgInt nos EREsp 1591075/AL, Rel. Min. Laurita Vaz, Rel. p/ Acórdão Min. Maria Thereza de Assis Moura, Corte Especial, DJe 11/03/2021)
+Portanto, é inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, principalmente porque os embargos de declaração não são cabíveis para provocar novo julgamento.
+Isso posto, REJEITO os embargos de declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Intimem-se.
+EMENTA
