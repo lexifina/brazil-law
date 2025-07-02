@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manifestado por Multiplike Securitizadora S.A. contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA INVERSA.
+Ausência de comprovação de quaisquer dos requisitos previstos no art. 50 do CC. Pedido fundado na formação de grupo econômico. Não evidenciados atos concretos de fraude ou de confusão patrimonial. Decisão reformada.
+RECURSO PROVIDO.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Confunde a parte agravante, outrossim, ônus da prova com prova do fato.
+Isso porque o Tribunal local concluiu que a desconsideração inversa da personalidade jurídica é permitida:
+"(..) nos termos do § 3º do artigo 50 do Código Civil, desde que verificado, conforme ali previsto, "o abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial".
+Não obstante, na hipótese, tais requisitos não foram efetivamente demonstrados, tendo o pedido sido fundado, em relação à agravante, na sua participação no grupo econômico comandado pelo executado Aderbal Luiz Arantes Junior. A corroborar tal assertiva, apontou a ocupação do mesmo endereço de outras empresas do grupo (Arantes Alimentos, S. Coradi e Arax-8), identidade de objeto social, além de apontar que suas sócias são noras do executado." (e-STJ, fl. 151).
+Isso porque a simples formação de grupo econômico, com a participação de membros da mesma família, "não demonstram desvio de finalidade, entendido como o ato intencional do sócio em fraudar terceiros com abuso da personalidade jurídica, ou confusão patrimonial, que, somente se evidenciados, justificariam a pretendida responsabilização da pessoa jurídica de que é sócio o executado, conforme disposto no art. 50 do Código Civil e no art. 133, §1º, do Código de Processo Civil" (e-STJ, fl. 151).
+É, pois, inequívoca a incidência dos verbetes n. 7 e 83 da Súmula desta Casa.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. FALTA DE PERTINÊNCIA TEMÁTICA. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DOS REQUISITOS LEGAIS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REAPRECIAÇÃO DE PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. É firme a orientação do STJ de que a impertinência temática do dispositivo legal apontado como ofendido resulta na deficiência das razões do recurso especial, fazendo incidir a Súmula n. 284 do STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que a parte não é consumidora, não incidindo as normas do CDC na espécie. Entender de modo contrário demandaria nova análise dos elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+5. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmulas n. 83 e 568 do STJ).
+6. Nos termos da jurisprudência desta Corte, ""a desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de dissolução irregular ou de insolvência" (AgInt no REsp 1.812.292/RO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/05/2020, DJe de 21/05/2020). Em regra, a desconsideração da personalidade jurídica alcança somente os sócios administradores e aqueles que comprovadamente contribuíram para a prática dos atos caracterizadores do abuso ou fraude" (AgInt no AREsp n. 1.735.099/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/4/2023, DJe de 2/5/2023).
+7. Ademais, "a existência de grupo econômico não autoriza, por si só, a solidariedade obrigacional ou a desconsideração da personalidade jurídica" (AgInt no AREsp n. 2.028.471/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/9/2022, DJe de 7/10/2022).
+8. Para alterar o acórdão recorrido quanto à conclusão de que o banco é terceiro estranho à relação jurídica, bem como no referente à ausência de comprovação de abuso da personalidade jurídica, porque não caracterizado o desvio de finalidade ou a confusão patrimonial, seria imprescindível reapreciar as cláusulas contratuais e os elementos fático-probatórios, inviável em recurso especial, a teor das Súmulas n. 5 e 7 do STJ 9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.325.261/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
