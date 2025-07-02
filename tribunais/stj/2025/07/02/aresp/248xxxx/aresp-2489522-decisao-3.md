@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por OSCAR FERNANDO RIBEIRO STRONGREN contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu o recurso especial.
+O recorrente foi conden ado nas instâncias ordinárias como incurso nas sanções do art. 155, §4º, inciso I e IV, do Código Penal, às penas de 02 (dois) anos, 08 (oito) meses e 20 (vinte) dias de reclusão, e 12 (doze) dias-multa, em regime inicial semiaberto.
+Opostos embargos declaratórios, esses foram rejeitados (e-STJ, fls. 2075 - 2105).
+A Defesa interpôs recurso especial com fundamento no art. 105, inciso III, "c", da Constituição, suscitando divergência jurisprudencial (e-STJ, fls. 2108 - 2112).
+Inadmitido o recurso na origem a consideração de: i) deficiência na fundamentação por não demonstração de maneira específica da questão federal controvertida; ii) súmula n. 284/STF; iii) falta de prequestionamento em relação a não desclassificação da conduta; iv) súmulas n. 282 e 256/STF; v) não comprovação do alegado dissídio jurisprudencial; e vii) falta de cotejo analítico (e-STJ, fls. 2199 - 2201), sobreveio o agravo (e-STJ, fls. 2229 - 2232).
+Contraminuta ao agravo (e-STJ, fls. 2244 - 2252).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ, fls. 2288 - 2290).
+É o relatório. DECIDO.
+Inicio destacando:
+"O Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal" (AgRg no AREsp n. 2.409.008/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024)."
+Não obstante os argumentos expendidos pela parte agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada.
+Da minuciosa análise das razões recursais, conclui-se que a parte agravante deixou de apresentar argumentos específicos e detalhados contra a decisão que inadmitiu o recurso especial.
+Nesse sentido, não observou o teor da Súmula 182 do STJ, cuja aplicação se dá analogicamente ao caso em tela, uma vez que se limitou a repisar o seu inconformismo.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, conforme já assentado jurisprudência desta Corte, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial" (AgRg no AREsp n. 2.547.981/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/2/2025, DJEN de 10/2/2025).
+O princípio da dialeticidade recursal exige, portanto, que haja uma confrontação clara, concreta e ampla de todos os fundamentos da decisão.
+Nesse sentido, a jurisprudência consolidada deste Tribunal:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ. 1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+2. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada. 3. a interposição descabida de sucessivos recursos (AgRg no EARESP NO RCD nos EDcl no AgRg nos EDcl no AgRg no ARESP N. 1.870.554 - SP) configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Agravo regimental não conhecido com determinação de certificação do trânsito em julgado e imediata baixa dos autos. (STJ - AgRg nos EAREsp: 1870554 SP 2021/0105834-9, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 07/03/2023, CE - CORTE ESPECIAL, Data de Publicação: DJe 14/03/2023)."
+No tocante à Súmula 7 do STJ, o agravante deixou de apontar, especificamente, como seria possível, no caso concreto, à míngua de uma análise fática, alterar as conclusões da Corte de origem para fins de acolhimento dos pedidos contidos no recurso especial.
+Em relação à Súmula 83 do STJ, não ilustrou, por meio de precedentes desta Corte Superior, a desarmonia do julgado ou a ausência de entendimento pacificado sobre a matéria.
+Ante o exposto, verifico ofensa ao princípio da dialeticidade, bem como deficiência na fundamentação, o que reclama a aplicação, por analogia, do óbice previsto no enunciado da Súmula 182, STJ, razão pela qual, não conheço do agravo em recurso especial, forte no artigo 932, III, do Código de Processo Civil e artigo 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
