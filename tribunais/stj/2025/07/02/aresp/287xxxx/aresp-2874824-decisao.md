@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da Súmula n. 7/STJ (fls. 320-321).
+O acórdão recorrido encontra-se assim ementado (fl. 213):
+APELAÇÃO MATÉRIAS NÃO ARGUIDAS EM PRIMEIRO GRAU IMPOSSIBILIDADE DE ANÁLISE EM SEDE RECURSAL RESCISÃO DO COMPROMISSO DE COMPRA E VENDA APÓS LARGO LAPSO TEMPORAL DA AQUISIÇÃO DO BEM RESCISÃO A PEDIDO DOS CONSUMIDORES RETENÇÃO PERCENTUAL TAXA DE FRUIÇÃO IMPOSSIBILDIADE DE COBRANÇA - As matérias não arguidas em Primeira Instância não podem ser conhecidas por esse Tribunal sob pena de violação ao disposto nos artigos 1013 e 1014, ambos do Código de Processo Civil, visto que se insurge contra os princípios do devido processo legal e estabilização da lide. - Deve ser considerado que quando da formulação do pedido de rescisão contratual o contrato já havia sido firmado há 09 (nove anos), instrumento esse que contava com cláusula específica que previa o valor da retenção que se operaria em caso de desfazimento do negócio jurídico, mormente quando considerado as despesas que serão necessárias para a recolocação do imóvel no mercado, se mostra compatível com o montante fixado, o que, grosso modo, representa cerca de 14% do valor do bem. - Inexistente a efetiva fruição do terreno sem edificação, inviável a cobrança da taxa de fruição. RECURSOS CONHECIDOS EM PARTE E, NA PARTE CONHECIDA, IMPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 230-233).
+Nas razões do recurso especial (fls. 236-262), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais: arts. 402, 403, 421, 422, 475 e 884 do CC/2002.
+Defendeu que "o não arbitramento da taxa de ocupação do bem favorece, indubitavelmente, o enriquecimento sem causa dos Recorridos, violando frontalmente ao disposto nos artigos 402, 475 e 844, todos do Código Civil, bem como, diverge do entendimento fixado notadamente desta Colenda Corte de Justiça" (fl. 242).
+Por fim, aduziu que "não se pode falar em devolução dos valores pagos com retenção de apenas 14% (quatorze por cento), vez que em controvérsia com o constante em contrato firmado entre as partes e, consequentemente, ferindo a legislação vigente" (fl 253). Requereu a retenção de 25% dos valores pagos pelo promitente comprador.
+No agravo (fls. 324-332), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fl. 334).
+É o relatório.
+Decido.
+Relativamente ao não arbitramento da taxa de ocupação, a Corte de origem concluiu que (fl. 417, gn):
+Quanto à taxa de fruição, inviável o acolhimento do pedido formulado pela ré, pois claro se mostra dos autos que apesar de os autores se encontrarem na posse do lote, não usufruíram efetivamente do terreno o qual se encontra sem qualquer edificação, situação essa que impede o acolhimento do pleito.
+O acórdão recorrido decidiu a matéria em conformidade com a jurisprudência do STJ, no sentido de que não cabe o pagamento de taxa de ocupação ou fruição de imóveis não edificados:
+DIREITO CIVIL E BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. TAXA DE FRUIÇÃO. IMÓVEL NÃO EDIFICADO. AGRAVO INTERNO IMPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento. O recurso especial foi interposto por loteadora com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão que tratou de ação de rescisão contratual cumulada com ressarcimento de quantias pagas por benfeitorias em imóvel.
+2. O Tribunal de Justiça de origem deixou de admitir o recurso especial ao argumento de incidência dos enunciados n. 83 da Súmula do STJ e 284 da Súmula do STF. O agravo foi conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a taxa de fruição é devida em contrato de promessa de compra e venda de lote não edificado, e se a existência de benfeitorias no imóvel, alegadamente incontroversa, impacta a decisão sobre a taxa de fruição. III. RAZÕES DE DECIDIR
+4. O Tribunal local manifestou-se satisfatoriamente sobre a questão da prestação jurisdicional, inexistindo omissão quanto à aplicação dos arts. 341 e 374 do CPC/2015.
+5. A decisão recorrida refletiu o entendimento do STJ de que é incabível a cobrança de taxa de fruição em contratos de promessa de compra e venda de lote não edificado, pois a resilição não enseja enriquecimento do comprador ou empobrecimento do vendedor.
+6. A alegação de que a existência de benfeitorias é fato incontroverso não altera o fundamento da decisão, que se baseia na ausência de edificação no terreno para afastar a taxa de fruição.
+IV. AGRAVO INTERNO IMPROVIDO.
+(AgInt no AREsp n. 2.643.764/MT, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. COMPROMISSO DE COMPRA E VENDA. TAXA DE OCUPAÇÃO DO BEM. TERRENO NÃO EDIFICADO. IMPOSSIBILIDADE.
+1. "Consoante entendimento desta Corte, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. Precedente" (AgInt no REsp 1.896.690/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe de 26/08/2021).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.055.223/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Quanto à tese de retenção de 25% dos valores pagos pelo promitente comprador, o acórdão combatido consignou que (fl. 216, grifei ):
+De plano, observo que embora a ré tenha pugnado em suas razões recursais pela majoração do percentual de retenção para 25% do valor das quantias pagas, verifica-se alegação não foi feita no bojo de sua defesa.
+Note-se que naquela oportunidade foi alegado que as partes haviam convencionado contratualmente conforme consignado no parágrafo sexto, que, em caso de rescisão, seria realizado desconto de 2% (dois por cento) sobre o valor total atualizado, a título de cláusula penal pela rescisão do Contrato e, desconto de 12% (doze por cento) sobre o valor efetivamente pago até a data da rescisão, referente a taxas de administração e impostos federais incidentes na venda, e nas custas inerentes ao recebimento do preço, cláusula essa cuja validade foi confirmada pelo R. Juízo a quo.
+Ora, se assim ocorreu, claro se mostra que a ré está buscando inovar em sede recursal, quando, em verdade, sequer teria interesse recursal nesse particular, visto que foi acolhida a tese formulada em sua defesa, razão pela qual, deixa-se de conhecer do recurso da ré nesse particular.
+Modificar o entendimento do acórdão impugnado de que "a ré está buscando inovar em sede recursal, quando, em verdade, sequer teria interesse recursal nesse particular, visto que foi acolhida a tese form ulada em sua defesa" demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Cumpre asseverar que o referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
