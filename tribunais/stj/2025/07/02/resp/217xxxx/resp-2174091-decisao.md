@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. CADASTRO AMBIENTAL RURAL - CAR. DECISÃO INTERLOCUTÓRIA QUE INDEFERIU PEDIDO DE REQUISIÇÃO JUDICIAL DE INFORMAÇÕES. INCONFORMISMO MINISTERIAL. INDEFERIMENTO QUE SE DEU SOB A PERSPECTIVA DA EXCEPCIONALIDADE E NÃO DEMONSTRAÇÃO DA NECESSIDADE DE INVERSÃO DO ÔNUS DA PROVA EM MATÉRIA AMBIENTAL. PEDIDO FORMULADO EM FUNÇÃO DO ÔNUS QUE O JUÍZO ATRIBUIU AO MINISTÉRIO PÚBLICO DE ESPECIFICAR AS PROVAS QUE PRETENDE PRODUZIR PARA DEMONSTRAR A ALEGADA OMISSÃO CONTINUADA DA ADMINISTRAÇÃO NA IMPLEMENTAÇÃO DO CAR. INFORMAÇÕES PERTINENTES E QUE SÃO DE COMPETÊNCIA E POSSE EXCLUSIVA DOS DEMANDADOS. ANTECIPAÇÃO PARCIAL DOS EFEITOS DA TUTELA RECURSAL, AO FUNDAMENTO DO CABIMENTO DO PEDIDO, PARA FINS PROBATÓRIOS, À LUZ DO ART. 438 DO CPC. MEDIDA, ADEMAIS, QUE INTERESSA À BOA SOLUÇÃO DO LITÍGIO E ATENDE À ECONOMIA E CELERIDADE PROCESSUAIS. DEVER LEGAL DE TRANSPARÊNCIA E INFORMAÇÃO DOS DEMANDADOS E DE COOPERAÇÃO DOS AGENTES PROCESSUAIS. TUTELA DE URGÊNCIA RECURSAL CONFIRMADA.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 6º, VIII, da Lei 8.078/1990; art. 21, caput, da Lei n. 7.347/1985; arts. 373, § 1º, 1.022, II, do CPC.
+As razões recursais foram expostas nos termos da seguinte ementa:
+RECURSO ESPECIAL NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO DE SANTA CATARINA EM DESFAVOR DO ESTADO DE SANTA CATARINA E DO INSTITUTO DO MEIO AMBIENTE (IMA), COM O PROPÓSITO DE GARANTIR A IMPLEMENTAÇÃO DE TODAS AS FASES DO CADASTRO AMBIENTAL RURAL (CAR), NA FORMA PREVISTA PELO CÓDIGO FLORESTAL. INDEFERIMENTO DA INVERSÃO DO ÔNUS DA PROVA. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO PELO PARQUET.
+ACÓRDÃO QUE DEU PARCIAL PROVIMENTO AO RECURSO PARA DETERMINAR QUE OS RÉUS COMPROVEM AS PROVIDÊNCIAS QUE ESTÃO ADOTANDO PARA IMPLEMENTAÇÃO DO CAR EM SANTA CATARINA, NOS TERMOS REQUERIDOS PELO MINISTÉRIO PÚBLICO, INDEPENDENTEMENTE DA INVERSÃO DO ÔNUS DA PROVA.
+NECESSIDADE DE OBSERVÂNCIA AO PRINCÍPIO DA PRECAUÇÃO. SIGNIFICATIVO POTENCIAL DANOSO À NATUREZA. AÇÃO DE ORIGEM AJUIZADA COM A FINALIDADE DE, APÓS IMPLEMENTADAS TODAS AS FASES DO CAR, FAZER A INCLUSÃO DESTES EM PROGRAMA DE REGULARIZAÇÃO AMBIENTAL, A FIM DE COMBATER ILÍCITOS AMBIENTAIS E RECUPERAÇÃO DE APPS. ÔNUS PROBATÓRIO QUE DEVE SER INCUMBIDO AOS RÉUS. CONTRARIEDADE QUANTO AO ART. 6º, VIII, DA LEI N. 8.078/90 (CDC), AO ART. 21, CAPUT, DA LEI N. 7.347/85 E AO ART. 373, § 1º, DO CPC.
+EMBARGOS DE DECLARAÇÃO REJEITADOS SEM O EXAME DOS VÍCIOS DENUNCIADOS. CONTRARIEDADE AO ART. 1.022, II, DO CPC.
+RECURSO ESPECIAL QUE MERECE SER ADMITIDO E PROVIDO.
+Tendo em vista o teor do ofício de fls. 188-185, noticiando a prolação de sentença julgando improcedente o pedido formulado na ação civil pública, as partes foram intimadas para manifestarem sobre o interesse no prosseguimento do julgamento deste recurso.
+Em petição apresentada às fls. 202-203, o ESTADO DE SANTA CATARINA "declara que não subsiste interesse no julgamento do presente recurso especial, porquanto a questão nele veiculada restou prejudicada pelo encerramento da fase cognitiva do processo originário, com análise exauriente da matéria em sede de sentença".
+O MINISTÉRIO PÚBLICO DE SANTA CATARINA informa que "in casu, com a superveniência da sentença de improcedência proferida nos autos da Ação Civil Pública de origem, não remanesce interesse de agir" (fl. 209).
+É o relatório.
+Decido.
+Conforme relatado, com a prolação da sentença, julgando improcedente o pedido formulado na ação civil pública por ele ajuizada, houve a perda do objeto do recurso especial, que busca a reforma da decisão interlocutório proferida na referida ação. Nesse sentido: AgInt no REsp n. 1.372.122/PB, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023; DESIS no AREsp n. 1.600.304/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/4/2021, DJe de 19/4/2021.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial, por perda superveniente do seu objeto.
+Intimem-se.
+EMENTA
