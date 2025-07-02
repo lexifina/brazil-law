@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (fls. 313-315).
+O acórdão recorrido está assim ementado (fl. 198):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS (LUCROS CESSANTES) E MORAIS. COLISÃO ENTRE CARROS PARTICULARES. RESPONSABILIDADE EXTRACONTRATUAL SUBJETIVA. ARTIGOS 186 C/C 927, DO CC. SENTENÇA DE IMPROCEDÊNCIA POR AUSÊNCIA DE PROVAS. APELAÇÃO DO AUTOR. PROVAS COLACIONADAS AOS AUTOS QUE DEMONSTRAM O ACIDENTE E A RESPONSABILIDADE (IMPRUDÊNCIA) DO RÉU POR SUA OCORRÊNCIA. LUCROS CESSANTES QUE, APESAR DE DEVIDOS EM CASOS COMO O PRESENTE, NÃO FORAM DEVIDAMENTE MOSTRADOS, JÁ QUE INEXISTEM SUBSÍDIOS APTOS A QUANTIFICÁ-LOS. DANO EXTRAPATRIMONIAL CARACTERIZADO, CONSIDERANDO-SE A LESÃO CORPORAL COMPROVADA PELO ATENDIMENTO MÉDICO, A EVASÃO DO RÉU DO LOCAL DO ACIDENTE E O PERÍODO EM QUE O AUTOR PERMANECEU SEM TRABALHAR COMO TAXISTA. QUANTIA DE R$ 6.000,00 QUE SE AFIGURA SUFICIENTE, CONSIDERANDO-SE AS PARTICULARIDADES DO CASO CONCRETO E AS CONDIÇÕES FINANCEIRAS DAS PARTES. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 244-248).
+Nas razões do recurso especial (fls. 261-287), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos arts. 186, 927 e 944 do CC e 371 do CPC, além de dissídio jurisprudencial, alegando "que o recorrido alegou ter ficado dez meses sem trabalhar em razão de sequelas advindas do acidente. Ocorre que não há nos autos um único documento sequer que ateste atendimento médico após o dia do acidente. E isso é mais que suficiente para derruir tal alegação de incapacidade laborativa" (fl. 265).
+Não foram oferecidas contrarrazões (fl. 311).
+O agravo (fls. 323-350) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fl. 354).
+É o relatório.
+Decido.
+O TJRJ, ao analisar as provas constantes dos autos, entendeu que "merece reforma a sentença quanto ao dever de indenizar pelos danos morais, posto que demonstrada a violação a direitos extrapatrimoniais não apenas em razão das lesões físicas sofridas pelo autor, como pela postura do réu após a ocorrência do acidente". Confira-se o seguinte excerto (fl. 206):
+No que se refere ao quantum, não existem critérios definidos para sua fixação, mas parâmetros que devem ser considerados pelo julgado, como o dúplice aspecto do ressarcimento, que é compensatório para o lesado e punitivo para o agente causador do dano, não podendo ser insignificante e, tampouco, fonte de enriquecimento sem causa, impondo-se observar os princípios da razoabilidade e da proporcionalidade.
+Nesse cenário, tenho que a quantia fixada em R$6.000,00 (seis mil reais) atende aos parâmetros acima mencionados, sendo certo que há que se considerar o poder econômico das partes envolvidas a fim de evitar que o montante compensatório importe em enriquecimento ilícito a quem recebe ou prejuízo excessivo a quem paga.
+Para contestar essa conclusão, seria necessário rever as provas e os fatos, com empecilho da Súmula n. 7 do STJ.
+Com efeito, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC.
+Publique-se e intimem-se.
+EMENTA
