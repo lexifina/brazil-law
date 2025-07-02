@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Ana Cristina Brito contra a decisão de fls. 526-529, que inadmitiu o recurso especial com fundamento nas Súmulas 7 e 83 do STJ.
+Consta dos autos que a recorrente foi condenada pela prática do crime de furto qualificado, previsto no art. 155, §4º, IV, do Código Penal, à pena de 2 anos e 4 meses de reclusão, em regime inicial semiaberto, além do pagamento de 11 dias-multa.
+Houve interposição de recurso de apelação defensivo, o qual foi desprovido, ficando o acórdão assim ementado (fls. 443):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO. FURTO QUALIFICADO. CONCURSO DE AGENTES. TESE DA ATIPICIDADE MATERIAL DA CONDUTA PELA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INCABÍVEL. INAPLICABILIDADE. EXPRESSIVIDADE DA LESÃO AO BEM JURÍDICO TUTELADO, REPROVABILIDADE DA CONDUTA E PERICULOSIDADE SOCIAL DA AÇÃO. REGIME SEMIABERTO. ADEQUAÇÃO. ART. 33, § 2º, DO CP.
+I. CASO EM EXAME:
+1. Apelação interposta contra sentença condenatória por infringência ao art. 155, § 4º, inciso IV, do Código Penal.
+II. QUESTÕES EM DISCUSSÃO:
+2. (i) verificar se é cabível a aplicação do princípio da insignificância; (ii) caso superada a primeira questão, analisar a regularidade do regime inicial fixado em relação à apelante, para início do cumprimento da pena corporal.
+III. RAZÕES DE DECIDIR:
+3. Firmou-se o entendimento do STF no sentido de que " o princípio de insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente, (ii) nenhuma periculosidade social da ação; (iii) grau reduzido de reprovabilidade do comportamento; (iv) inexpressividade da lesão jurídica provocada, ressaltando, ainda, que a contumácia na prática delitiva impede a aplicação do princípio" (HC n. 119.844- AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 6.8.2018).
+4. Demostrada a periculosidade social da ação e a reprovabilidade da conduta, além da expressividade da lesão jurídica, afasta-se o princípio da bagatela.
+5. Não obstante tenha sido fixada pena inferior a 4 anos, tratando-se de reincidente, o regime inicial adequado é o semiaberto, nos termos do art. 33, § 2º, "b", do CP.
+IV. DISPOSITIVO
+6. Recurso conhecido e desprovido.
+No presente recurso especial, a defesa alega que houve violação ao art. 155, §2º, do Código Penal, ao afastar a aplicação do princípio da insignificância, mesmo diante de circunstâncias que recomendariam sua incidência: o valor ínfimo da res furtiva (R$ 162,00, equivalente a cerca de 12% do salário mínimo da época), a ausência de violência ou grave ameaça, a restituição integral do bem, e o reduzido grau de reprovabilidade da conduta.
+Sustenta afronta ao art. 33, §2º, c, do Código Penal, pois a imposição do regime semiaberto exclusivamente com base na reincidência desconsiderou que a pena aplicada é inferior a quatro anos e que não foram expostas circunstâncias concretas que justifiquem a aplicação do regime mais severo. Aponta a infringência ao art. 44, §3º, do Código Penal, ao afastar, sem a devida fundamentação individualizada, a possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos, mesmo quando as condições pessoais da agravante e a natureza do crime permitiam essa substituição.
+Requer o reconhecimento da atipicidade da conduta material da recorrente, absolvendo-a, nos termos do art. 386, inciso III, do CPP, ou, subsidiariamente, o abrandamento do regime prisional e a substituição da pena privativa de liberdade por restritivas de direitos.
+As contrarrazões foram apresentadas pelo recorrido (fls. 517-521).
+Inadmitiu-se o recurso na origem (fls. 526-529), advindo o presente agravo (fls. 538-551), contraminutado às fls. 558-559.
+O Ministério Público Federal apresentou parecer pelo desprovimento do presente agravo em recurso especial, com a seguinte ementa (fls. 580):
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. FURTO QUALIFICADO. VALOR DA RES FURTIVA SUPERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO, CONCURSO DE AGENTES E REINCIDÊNCIA. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. PRECEDENTES. REGIME INICIAL SEMIABERTO. REINCIDÊNCIA E MAUS ANTECEDENTES. SÚMULA 269/STJ. TESES DEFENSIVAS QUE ESBARRAM NO ÓBICE DA SÚMULA 83/STJ. PARECER PELO DESPROVIMENTO DO PRESENTE RECURSO.
+É o relatório.
+Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos recursais, razão pela qual passo à análise do recurso especial.
+De acordo com a denúncia, a recorrente, juntamente com o acusado Tyson, "e em unidade de desígnios, subtraíram, em proveito da dupla, 01 (uma ) caixa de produtos de maquiagem no valor de R$ 162,00 (cento e sessenta e dois reais)" (fl. 184).
+O Tribunal de origem assim decidiu a questão controvertida, referente à aplicação do princípio da insignificância (fls. 444-449):
+Inicialmente, importa destacar que os apelantes não negam a autoria do furto descrito na denúncia. Limitam-se, em verdade, a requerer a absolvição pela aplicação do princípio da insignificância, pois reputam presentes os pressupostos exigidos pelo Supremo Tribunal Federal para o reconhecimento da atipicidade material, notadamente a ausência de lesão ao bem jurídico tutelado.
+Sem razão.
+Compulsando os autos, verifica-se que a materialidade e a autoria do crime de furto qualificado restaram demonstrad as pelos seguintes documentos: Auto de Prisão em Flagrante (ID 66450754 ), Auto de Apresentação e Apreensão (ID 66453061), Termo de restituição (ID 66453062 ), Registro de Ocorrência Policial n.8.357/2023-0 - 12ª DP (ID 66453080) , bem como pela prova oral produzida na fase policial e em Juízo, incluindo a confissão judicial.
+No tocante à aplicação da bagatela/princípio da insignificância , firmou-se o entendimento do Supremo Tribunal Federal no sentido de que "incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente, (ii) nenhuma periculosidade social da ação; (iii) grau reduzido de reprovabilidade do comportamento; (iv) inexpressividade da lesão jurídica provocada, ressaltando, ainda, que a contumácia na prática delitiva impede a aplicação do princípio " (HC n. 119.844- AgR, Relator o Ministro Roberto Barroso, Primeira Turma, D Je 6.8.2018).
+É cediço que a aplicabilidade do princípio da insignificância deve ser analisada a partir do caso concreto, de acordo com o resultado da conduta e lesão ao bem jurídico tutelado. Na espécie, os apelantes foram condenados pela subtração de uma caixa de produtos de maquiagem, avaliada em R$ 162,00 (cento e sessenta e dois reais), conforme orçamento emitido pela empresa vítima (ID 66453074), montante que supera o patamar de 10% do salário-mínimo vigente à época dos fatos (R$ 1.320,00) e afasta, por conseguinte, a inexpressividade da lesão jurídica.
+Na compreensão do Superior Tribunal de Justiça: "incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário-mínimo vigente à época dos fatos" (STJ. AgRg no R Esp 1623610/MG, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2016, D Je 05.12.2016).
+ ..
+Não bastasse, o delito foi cometido mediante concurso de pessoas, havendo condenação anterior de ambos os réus em crimes da mesma espécie (TYSON, nº 20120710145189 - ID 66453086 - Pág. 3; ANA CRISTINA, nº 07088062420228070007 - ID 66453087 - Pág. 3). Assim, resta demonstrada a periculosidade social da ação e a reprovabilidade da conduta, o que enseja a inaplicabilidade do princípio em apreço.
+ ..
+Dessa forma, não se verifica a presença dos requisitos para se reconhecer a atipicidade material da conduta, tornando inviável a aplicação do aludido princípio da insignificância.
+Não há falar, portanto, em absolvição dos acusados com base no art. 386, inciso III, do Código de Processo Penal.
+Consoante a jurisprudência desta Corte Superior, "são requisitos para aplicação do princípio da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada" (AgRg no HC n. 901.549/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+No caso, não há falar em atipicidade da conduta, tendo em vista o valor dos bens subtraídos, que não se mostra irrisório - uma caixa de maquiagem, avaliada em R$ 165,00 (cento e sessenta e cinco reais), cerca de 12% do salário mínimo vigente à época dos fatos -, bem como por se tratar de crime cometido em concurso de agentes, já condenados anteriormente por crime da mesma espécie, fundamentos que impedem a incidência do princípio da insignificância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. VALOR DO BEM SUBTRAÍDO ACIMA DE 10% DO SALÁRIO MÍNIMO À ÉPOCA DOS FATOS. CONCURSO DE PESSOAS. RESTITUIÇÃO. NÃO OBRIGATORIEDADE DE APLICAÇÃO DO PRINCÍPIO. RECURSO DESPROVIDO.
+1. Consoante entendimento da Suprema Corte, são requisitos para aplicação do princípio da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+2. A jurisprudência consolidada do Superior Tribunal de Justiça, para aferir a relevância do dano patrimonial, leva em consideração o salário mínimo vigente à época dos fatos, considerando irrisório o valor inferior a 10% do salário mínimo, independentemente da condição financeira da vítima No caso dos autos, além de os ora agravantes terem praticado o crime mediante o concurso de agentes, o que afasta o reduzido grau de reprovabilidade do comportamento, o furto foi praticado no dia 16/5/2021, quando o salário mínimo estava fixado em R$ 1.100,00 (mil e cem reais). Nesse contexto, seguindo a orientação jurisprudencial desta Corte, a res furtiva, avaliada em R$ 200,00 (duzentos reais), não pode ser considerada de valor ínfimo, por superar 10% do salário mínimo vigente à época dos fatos.
+3. A restituição dos bens subtraídos não conduz, necessariamente, à incidência do princípio da insignificância. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 811.618/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/10/2023, D Je de 4/10/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. FURTO TENTADO QUALIFICADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CRIME PRATICADO EM CONCURSO DE AGENTES, ALÉM DE REITERAÇÃO CRIMINOSA, REINDICÊNCIA E MAUS ANTECEDETNES. PRECEDENTES. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Nesse compasso, é pacífico o entendimento desta Corte no sentido de que a prática do delito de furto qualificado por escalada, por arrombamento ou rompimento de obstáculo, por concurso de agentes, ou por ser o paciente reincidente ou possuidor de maus antecedentes, indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância. (REsp n. 1.678.651/MS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 31/08/2017); (HC n. 385.427/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/3/2017).
+III - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC n. 716.893/SP, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/8/2023, DJe 30/8/2023)
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência desta Corte que indeferiu liminarmente habeas corpus impetrado em favor do agravante, visando à aplicação do princípio da insignificância e ao reconhecimento da atipicidade material da conduta em razão do valor ínfimo do bem furtado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o princípio da insignificância pode ser aplicado em caso de furto de pequeno valor, considerando a reincidência específica e a habitualidade delitiva do acusado.
+III. Razões de decidir
+3. O princípio da insignificância não se aplica em casos de reiteração delitiva, salvo em circunstâncias excepcionais, o que não se verifica no presente caso, dado o histórico de reincidência do agravante.
+4. A reincidência específica do agravante demonstra habitualidade delitiva, afastando a possibilidade de aplicação do princípio da bagatela.
+5. A restituição do bem subtraído à vítima não afasta a consumação do delito nem permite a aplicação do princípio da insignificância.
+IV. Dispositivo e tese
+6. Agravo desprovido. (AgRg no HC n. 953.805/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/2/2025, DJEN de 25/2/2025.)
+O acórdão recorrido se harmoniza com a jurisprudência desta Corte, razão pela qual incide, na hipótese, a Súmula 83/STJ, também aplicável aos recursos especiais interpostos com fulcro na alínea "a" do permissivo constitucional.
+Noutro ponto, nos termos do art. 33, §§ 1º, 2º e 3º, do CP, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a reincidência ou não do agente, e a eventual existência de circunstâncias judiciais desfavoráveis.
+No caso, deve ser mantido o regime semiaberto, pois, apesar de o montante da sanção - inferior a 4 anos de reclusão - admitir, em tese, a fixação do regime inicial aberto, trata-se de ré reincidente e portadora de maus antecedentes (fl. 358), circunstâncias que justificariam até mesmo a imposição do regime fechado.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. DESCABIMENTO. MAUS ANTECEDENTES E REINCIDÊNCIA. FIXAÇÃO DO REGIME PRISIONAL ABERTO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, "a Terceira Seção desta Corte, no julgamento dos EREsp n.221.999/RS, estabeleceu a tese de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, o aplicador do direito verificar que a medida é socialmente recomendável" (RHC n. 118.548/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 13/12/2019).
+III - No presente caso, afere-se do v. acórdão impugnado que na hipótese, o princípio da insignificância foi afastado, em razão do fato de o paciente possuir maus antecedentes e ser reincidente (fl. 182). Assim, não se pode ter como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes.
+IV - De mais a mais, "o reconhecimento de circunstâncias judiciais desfavoráveis e a reincidência justificam até mesmo a fixação do regime inicial fechado, quanto mais o semiaberto para réu que foi condenado à pena inferior a quatro anos de reclusão" (AgRg no HC n. 821.197/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 30/8/2023).
+Agravo regimental desprovido.
+(AgRg no HC n. 854.817/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Por fim, "A reincidência impede a substituição da pena privativa de liberdade por restritivas de direitos, conforme o disposto no art. 44, inciso II, do Código Penal" (AgRg no AREsp 2.699.575/SP, Relator Ministro Messod Azulay Neto, Quinta Turma, Julgado em 6/5/2025, DJEN 13/5/2025).
+Estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
