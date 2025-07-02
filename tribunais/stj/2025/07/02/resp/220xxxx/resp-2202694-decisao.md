@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto por Eduardo Souza Almeida contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, na Apelação Criminal n. 1.0000.23.169039-7/001.
+Consta dos autos que o recorrente foi condenado como incurso nas sanções do art. 33, caput, da Lei n. 11.343/06, à pena total de 6 anos, 9 meses e 20 dias de reclusão e o pagamento de 680 dias-multa, a ser cumprida, inicialmente, no regime fechado (fls. 562-572). Foram opostos os embargos de declaração, os quais foram acolhidos em parte, a fim de reduzir a pena do recorrente para 5 anos e 10 meses de reclusão, a ser cumprido em regime semiaberto (fls. 766-767).
+Houve interposição de recurso de apelação defensivo, ao qual se negou provimento, ficando o acórdão assim ementado (fls. 865):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - PRELIMINAR: AUSÊNCIA DE MANDADO DE BUSCA E APREENSÃO - VIOLAÇÃO DE DOMICÍLIO - TESE INFUNDADA - CRIME PERMANENTE - OBEDIÊNCIA À TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL NO TEMA Nº 280 - PRELIMINAR REJEITADA - MÉRITO: ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - DEPOIMENTOS DOS POLICIAIS EM CONSONÂNCIA COM OS DEMAIS ELEMENTOS DE PROVA - RELEVÂNCIA PROBATÓRIA - DESTINAÇÃO MERCANTIL EVIDENCIADA - CONDENAÇÃO MANTIDA. - A Constituição da República, no art. 5º, inciso XI, dispõe a respeito da proteção constitucional da propriedade privada que, em regra, é inviolável, salvo exceções mencionadas no próprio texto: a) consentimento do morador; b) flagrante delito; c) prestação de socorro; d) em caso de desastre; e) durante o dia, mediante prévia determinação judicial em diligência de busca e apreensão. - Diante da fundada suspeita e indícios prévios da situação de flagrante delito, atendidos os parâmetros fixados pelo Supremo Tribunal Federal no Tema nº 280, não há falar em violação de domicílio na ação policial ao adentrar no imóvel e arrecadar o entorpecente, sendo lícitos, portanto, os resultados probatórios obtidos. - Comprovado nos autos que o acusado incorreu em uma das condutas do art. 33, da Lei 11.343/06, e por ser evidente a destinação mercantil da droga apreendida, não há se falar no acolhimento do pleito absolutório, sendo imperiosa a manutenção da condenação firmada em primeira instância por seus próprios fundamentos. - O entendimento jurisprudencial é no sentido de que os depoimentos dos policiais prestados em juízo merecem credibilidade, principalmente quando corroborados por outros elementos de prova.
+Opostos os embargos de declaração, foram rejeitados (fls. 905-914).
+No presente recurso especial, a defesa alega que houve violação ao art. 157, caput e §1º, do Código de Processo Penal, em razão da nulidade das provas obtidas mediante violação de domicílio, por não haver fundadas razões para o ingresso no domicílio sem mandado judicial (fls. 921-942).
+Pugna pelo reconhecimento da nulidade das provas ilícitas e a consequente anulação do processo, além da reforma da condenação imposta ao recorrente.
+As contrarrazões foram apresentadas pelo Ministério Público do Estado de Minas Gerais (fls. 989-997).
+O recurso foi admitido pelo Tribunal de origem (fls. 1.071-1.072).
+O Ministério Público Federal apresentou parecer pelo não provimento do recurso especial, com a seguinte ementa (fls. 1.085):
+PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADE DAS PROVAS POR VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. DILIGÊNCIA REALIZADA APÓS RECEBIMENTO DE DENÚNCIA ANÔNIMA DE MORADOR DO MESMO CONDOMÍNIO DO RÉU. PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+1 - O ingresso dos policiais no domicílio foi precedido de denúncia anônima de morador do mesmo condomínio do Recorrente, situação que evidencia satisfatoriamente as fundadas razões a justificar a diligência impugnada, não havendo necessidade de prévias diligências complementares para carrear elementos mais robustos da ocorrência de flagrante delito, o que foi efetivamente confirmado a posteriori, com a apreensão de expressiva quantidade de maconha (80 kg);
+PARECER PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+A defesa pleiteia o reconhecimento da nulidade das provas obtidas mediante violação de domicílio, alegando violação ao artigo 157, caput e §1º, do Código de Processo Penal, e ao artigo 5º, inciso XI, da Constituição Federal.
+O Tribunal de origem assim decidiu a questão controvertida (fls. 866-872):
+ ..  Pelo que consta dos autos, a abordagem do acusado ocorreu após o recebimento de informações anônimas no sentido de que ele mantinha em depósito expressiva quantidade de maconha em sua residência. Ressalto que, no decorrer da instrução, revelou-se que o informe, originalmente anônimo, tinha como fonte pessoa fidedigna, pois oriunda de um residente do mesmo condomínio onde ocorreu a incursão policial. Ao diligenciarem até o local, em contato com o morador do apartamento, o ora apelante EDUARDO tomou conhecimento sobre o teor das acusações, autorizando e franqueando a entrada em seu imóvel. No momento em que os militares se aproximavam, notaram forte odor de droga proveniente do apartamento de EDUARDO, fato que motivou a incursão no local, na companhia do próprio réu. Realizadas buscas, no interior de um dos cômodos trancado, foram apreendidos exorbitantes 80,2kg de maconha, acondicionados em 91 (noventa e uma) barras e 17 (dezessete) porções avulsas.
+Não é demais salientar que, segundo prova oral colhida, o apelante foi bastante cooperativo durante as diligências, franqueando a entrada em seu apartamento e fornecendo a chave do cômodo onde estava a droga. Posteriormente, ainda sugeriu de utilizar seu veículo com a finalidade de tentar localizar DOUGLAS, pessoa que seria de alta periculosidade e quem, a todo o momento, dizia ser seu colega de residência, demonstrando, a toda evidência, certo temor em sofrer represálias em decorrências da diligência policial na região.
+Ao que se verifica, portanto, é que restou evidenciada situação de flagrante a justificar a entrada dos policiais no apartamento em questão, vez que informações pretéritas davam conta sobre a utilização do imóvel como depósito de entorpecentes, circunstância essa indubitavelmente atestada pelos policiais no local apontado. Não bastasse, consta do testemunho policial - de forma unânime - que EDUARDO franqueou a entrada da guarnição em sua residência, não havendo, portanto, falar em nulidade da diligência e nos resultados probatórios por ela obtidos.
+Vale dizer que, nos termos da jurisprudência do col. STJ, a autorização de entrada por parte do morador justifica a busca domiciliar e, ausentes provas de coação policial, não implica no reconhecimento da violação. Vejamos:
+ ..
+Ademais, em se tratando de crime permanente, com indícios claros de flagrante delito, sequer seria necessária a apresentação de mandado de busca e apreensão, conforme decidido pelo Supremo Tribunal Federal, no Tema nº 280.
+Por oportuno, cumpre ressaltar que o STF, quando do julgamento do Recurso Extraordinário nº 1.342.077/SP, afastou expressamente a necessidade de documentação audiovisual do ingresso em domicílio ou autorização do morador.
+Dessarte, forçoso convir que não há qualquer ilegalidade na apreensão dos materiais ilícitos e de demais objetos correlatos pelos policiais no imóvel do acusado, motivo pelo qual resta superada a alegada nulidade processual e, por conseguinte, o acolhimento do pleito absolutório com base na tese de ilicitude das provas.
+Por tais razões, REJEITO A PRELIMINAR.
+Conforme o art. 240, §§ 1º e 2º, do CPP, a busca pessoal, veicular ou domiciliar exige a presença de justa causa para autorizar a medida invasiva, sob pena de ilegalidade por ilicitude da prova.
+Consoante julgamento do RE 603.616/RO pelo Supremo Tribunal Federal, não é necessária certeza quanto à ocorrência da prática delitiva para se admitir a entrada em domicílio, bastando que, em compasso com as provas produzidas, seja demonstrada a justa causa na adoção da medida, ante a existência de elementos concretos que apontem para o flagrante delito.
+No caso, dessume-se do acórdão que a busca domiciliar foi precedida de denúncia especificada de morador do condomínio, informando que o paciente armazenava grande quantidade de maconha em sua residência. Além disso, durante a diligência, os agentes policiais verificaram forte odor de droga, o que motivou a incursão no imóvel, da qual sobreveio a apreensão dos entorpecentes, mais de 80 quilos de maconha.
+Assim, consideradas as premissas inequívocas fixadas no acórdão, tem-se que o contexto fático anterior à busca domiciliar permitiu a conclusão, de modo objetivo, quanto à ocorrência de crime no interior da residência, configurada, assim, justa causa para a medida.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA DOMICILIAR. JUSTA CAUSA. CONSENTIMENTO DO MORADOR. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a habeas corpus substitutivo de recurso próprio, impetrado em favor de acusado condenado por tráfico de drogas, alegando ilegalidade das provas colhidas mediante ingresso policial em residência sem mandado judicial.
+2. Os policiais, após denúncia anônima de tráfico de drogas, ingressaram em condomínio com autorização verbal e escrita do morador da primeira residência, onde visualizaram indivíduos usando drogas na área comum e, posteriormente, encontraram grande quantidade de entorpecentes na residência do acusado.
+3. O Tribunal de origem negou provimento ao apelo defensivo, mantendo a condenação do acusado, e a decisão monocrática indeferiu o habeas corpus, considerando a presença de justa causa para o ingresso domiciliar.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o ingresso policial em domicílio, sem mandado judicial, mas com autorização do morador e diante de justa causa, configura violação de domicílio e se as provas obtidas devem ser anuladas.
+III. Razões de decidir
+5. A decisão considerou que a entrada dos policiais foi autorizada pelo morador da primeira casa, conforme termo assinado, tendo sido visualizados três indivíduos usando drogas na área comum do condomínio e odor de maconha advindo da residência do paciente, cujo odor é forte e característico, demonstrando que havia fundadas razões para a realização da busca domiciliar sem mandado judicial.
+6. A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça admite a entrada em domicílio sem mandado em casos de flagrante delito, desde que haja justa causa, como no presente caso.
+7. Constam dos autos autorizações por escrito para o ingresso nas residências, tendo a busca resultado na apreensão de 23,930 kg de maconha, 50g de haxixe, 317 comprimidos de ecstasy, 30g de MDMA, 37 pontos de LSD e 13 pés de maconha, o que deixa evidenciada a justa causa.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A entrada em domicílio sem mandado judicial é lícita em caso de flagrante delito, desde que haja justa causa e autorização do morador. 2. A denúncia anônima, corroborada por observações no local, pode constituir justa causa para ingresso domiciliar sem mandado."
+Dispositivos relevantes citados: CR/1988, art. 5º, XI; Lei nº 11.343/2006, art. 33.Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, julgado em 05.11.2015; STJ, AgRg no REsp 1921191/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 04.05.2021.
+(AgRg no HC n. 943.305/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+Devidamente demonstrado que o contexto fático anterior à medida permitiu a conclusão, de modo objetivo, quanto à ocorrência de flagrante de crime, não se verifica a apontada ilicitude probatória.
+Consigna-se, de modo imprescindível, que a revisão das circunstâncias fáticas que motivaram a busca domiciliar demandaria revolvimento fático-probatória, providência incompatível com a via eleita, ante o enunciado da Súmula 7/STJ.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. ROUBO QUALIFICADO. NULIDADES AFASTADAS. PLEITO ABSOLUTÓRIO. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. TESTEMUNHO POLICIAL. PROVA VÁLIDA. PARCIALIDADE DO DEPOIMENTO. AUSÊCIA DE PREQUESTIONAMENTO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação por roubo e afastando alegações de nulidade por violação de domicílio e de insuficiência de provas.
+2. O Tribunal de Justiça do Estado de Goiás manteve a condenação, considerando que a entrada dos policiais na residência foi consentida e justificada por fundadas suspeitas de crime em flagrante.
+3. A sentença destacou que a autoria delitiva foi comprovada por depoimentos da vítima e de policiais, além de confissão parcial do acusado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve violação ao domicílio sem justa causa e se as provas produzidas são suficientes para a condenação.
+5. Outra questão é a alegação de que o depoimento policial não poderia ser considerado imparcial devido à relação com a vítima.
+III. Razões de decidir
+6. A decisão considerou que a entrada no domicílio foi justificada por fundadas suspeitas, com consentimento da mãe do acusado, não configurando violação de direitos.
+7. O depoimento dos policiais foi considerado idôneo e corroborado por outras provas, não havendo prequestionamento a respeito da sua parcialidade.
+8. A revisão do acervo probatório é inviável em recurso especial, conforme Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido. (AgRg nos EDcl no AREsp 2.407.884/GO, Relator Ministro Joel Ilan Paciornk, Quinta Turma, julgado em 22/10/2024, DJe em 25/10/2024)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
