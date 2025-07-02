@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com base na alínea a do permissivo constitucional, visando a reforma do acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ, fl. 275):
+TRIBUTÁRIO. AGRAVO INTERNO. MOMENTO TRIBUTAÇÃO. IRPJ/CSLL SOBRE OS VALORES PERCEBIDOS A TÍTULO DE SELIC. REPETIÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+-Em relação ao momento da tributação, somente a partir da homologação administrativa está consolidada a certeza e liquidez que permite ao contribuinte realizar financeiramente o rendimento, sujeitando-o, assim, à incidência do IRPJ e da CSLL.
+-Agravo impetrante não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 337-339).
+Nas razões do recurso especial (e-STJ, fls. 347-367 ), a insurgente aponta violação aos arts. 489, § 1º, IV a VI, e 1.022, II, do CPC; 43 e 116 do CTN; 2º da Lei n. 7.689/1977; 6º e 7º do Decreto Lei n. 1.598/1977; 187 da Lei n. 6.404/1976.
+Aponta, preliminarmente, negativa de prestação jurisdicional por parte do acórdão recorrido.
+No mérito, sustenta que "no caso das sentenças ilíquidas, o único elemento pendente para a perfeita incidência tributária é a necessidade de liquidação do crédito, mas tal elemento é atendido quando ocorre a escrituração contábil, momento em que é exteriorizada a liquidez do crédito. A partir do momento em que liquidado o crédito, deixa de existir diferença entre uma sentença líquida e uma ilíquida, de modo que não há fundamento legal que permita concluir que o fato gerador possa ser diferido para o momento da disponibilidade financeira. Esse entendimento se adequa ao conceito de disponibilidade econômica da renda e ao regime de competência" (e-STJ, fl. 357).
+Argumenta que "a partir da escrituração contábil, os montantes envolvidos (receita e despesa) encontram-se devidamente apurados e quantificados. Já está reconhecida e exteriorizada a liquidez do crédito, dando-se a disponibilidade econômica da renda, cuja disponibilidade jurídica ocorreu com a sentença definitiva de mérito. Essa conjunção configura o acréscimo patrimonial da renda da pessoa jurídica, tanto que, a partir da escrituração contábil, é possível a distribuição dessa receita como dividendos aos acionistas ou o pagamento de juros sobre o capital próprio, na forma do estatuto da empresa" (e-STJ, fl. 358).
+Defende que "tanto do ponto de vista da escrita comercial, quanto do ponto de vista fiscal, em relação à pessoa jurídica, a ocorrência do fato gerador se dá pelo reconhecimento e registro contábil do resultado positivo em suas operações. Nesse momento, o contribuinte deve recolher os tributos aos cofres públicos (e-STJ, fl. 359).
+Contrarrazões às fls. 390-406 (e-STJ).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 423-425), ascendendo os autos a esta Corte.
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de proposta de afetação nos autos dos Recursos Especiais ns. 2.172.434/SP, 2.153.547/SP, 2.153.817/SP e 2.153.492/SP, relator Ministro Teodoro Silva Santos, julgadas em 27/5/2025, DJEN de 18/6/2025, delimitaram o Tema 1.362 da seguinte forma: "Definir o momento no qual é verificada a disponibilidade jurídica de renda em repetição de indébito tributário ou em reconhecimento do direito à compensação julgado procedente e já transitado em julgado, para a caracterização do fato gerador do IRPJ e da CSLL, na hipótese de créditos ilíquidos".
+Confira-se a respectiva ementa:
+DIREITO TRIBUTÁRIO. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038, TODOS DO CPC, C.C. O ART. 256-I DO RISTJ. IRPJ E CSLL. DISPONIBILIDADE JURÍDICA DE RENDA. REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. COMPENSAÇÃO DE CRÉDITOS ILÍQUIDOS. MOMENTO DA TRIBUTAÇÃO. RECURSO ESPECIAL AFETADO.
+1. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC: "Definir o momento no qual é verificada a disponibilidade jurídica de renda em repetição de indébito tributário ou em reconhecimento do direito à compensação julgado procedente e já transitado em julgado, para a caracterização do fato gerador do IRPJ e da CSLL, na hipótese de créditos ilíquidos".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC (art. 256-I do RISTJ).
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais
+em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.362/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ E CSLL. DISPONIBILIDADE JURÍDICA DE RENDA. REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. COMPENSAÇÃO DE CRÉDITOS ILÍQUIDOS. MOMENTO DA TRIBUTAÇÃO. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.362 DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
