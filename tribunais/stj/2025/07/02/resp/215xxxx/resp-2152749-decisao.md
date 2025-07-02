@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por NEWTON PAULO TEIXEIRA ANDRADE, NILTON HAERTEL GOMES, NORA BEATRIZ DOS SANTOS DE OLIVEIRA, ODETE TIMOTEO DA COSTA, ORBELIA THEREZINHA TURELLY PIVATTO, PAULO ERNESTO LEAES, ROGERIO LUIS CABRAL, RUTH ROSA MARTINS, SERGIO OCTAVIO SAUER e VLADEMIR FLORIANO PEDROSO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4 ª Região assim ementado (e-STJ fl. 28):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REAJUSTE DE 3,17%. BASE DE CÁLCULO.
+Somente devem ser incluídas na base de cálculo do índice de 3,17% os anuênios que constem nas fichas financeiras da parte exequente. Precedentes.
+Rejeitados os aclaratórios (e-STJ fls. 64/71).
+Nas suas razões, a parte recorrente aponta violação dos arts. 535, II, 489, II, 1.022, II, do CPC.
+Sustenta negativa de prestação jurisdicional, porquanto "A ALEGAÇÃO DE QUE A RECOMPOSIÇÃO DA BASE DE CÁLCULO DOS 3,17% COM O REAJUSTE DOS 28,86% E OS ANUÊNIOS NÃO AMPLIA OS LIMITES DO TÍTULO EXECUTIVO. MUITO ANTES PELO CONTRÁRIO! A PROVIDÊNCIA GARANTE O SEU INTEGRAL E CORRETO CUMPRIMENTO, NA MEDIDA EM QUE A DECISÃO TRANSITADA EM JULGADO ASSEGURA A INCIDÊNCIA DO REAJUSTE DE 3,17% SOBRE A REMUNERAÇÃO DOS SERVIDORES, A QUAL, POR SUA VEZ, DEVE CORRESPONDER AO VALOR QUE LHE ERA EFETIVAMENTE DEVIDO À ÉPOCA, AINDA QUE O PAGAMENTO DAS DIFERENÇAS RETROATIVAS DE 28,86% E ANUÊNIOS TENHA OCORRIDO POSTERIORMENTE, NA VIA JUDICIAL, SOB PENA DE ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO" (e-STJ fls. 89/90).
+Aduz, na sequência, a incidência do reajuste de 3,17% sobre o índice de 28,86%, providência que já teria sido reconhecida na ação que indica.
+Contrarrazões às e-STJ fls. 1.784/1.790.
+Juízo positivo de admissibilidade parcial pelo Tribunal de origem às e-STJ fls. 1.823/1.824, tendo sido negado seguimento no tocante à matéria abrangida pelo Tema 1.102 do STJ.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No que concerne à matéria não abrangida pela inadmissão com fundamento em recurso repetitivo, quanto à alegada ofensa aos arts. 489, II, 1.022, II, do CPC, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há, necessariamente, ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 163.417/AL, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/9/2014.
+In casu, entendeu o aresto hostilizado que " ..  o reajuste anterior de 28,86% deve incidir sobre a base de cálculo do resíduo de 3,17%, mediante as informações constantes nas fichas financeiras" (e-STJ fl. 32). Contudo, registrou que, "no tocante aos anuênios, a inclusão de valores diversos dos constantes nas fichas financeiras, sob o fundamento de que teriam sido reconhecidos em outras ações judiciais (o que não restou comprovado nestes autos) ou administrativas, não está abrangida pelo título que ora se executa" (e-STJ fl. 32).
+Dessa forma, contrariamente ao alegado pela parte recorrente, não há nenhuma vício a ser sanado, uma vez que a Corte de origem, ainda que exarado entendimento conforme a tese apontada pela parte recorrente, não comprovou o reconhecimento judicial ou administrativo do índice que estaria incluído na base de cálculo do percentual discutido.
+Quanto  ao art. 535, II, do CPC, não obstante o recurso tenha sido interposto com base na alínea "a", a parte recorrente não teceu nenhuma fundamentação que justificasse a sua irresignação, não podendo o apelo, portanto, ser conhecido nesse aspecto. Incide na espécie a Súmula 284 do STF.
+Quanto ao mais, não obstante o recurso especial tenha sido interposto com base na alínea "a", não houve a particularização de nenhum dispositivo de lei federal eventualmente violado, não podendo o apelo ser conhecido.
+Incide na espécie a já referida Súmula 284 do STF.
+Ademais, na linha da orientação preconizada por esta Corte Superior, o índice de 3,17% deve incidir não apenas sobre o vencimento básico, mas sobre a totalidade da remuneração do servidor. Nessa perspectiva:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. BASE DE CÁLCULO DO REAJUSTE DE 3,17%. REMUNERAÇÃO. AGRAVO REGIMENTAL DA UNIÃO DESPROVIDO.
+1. O resíduo de 3,17%, oriundo da correta aplicação dos arts. 28 e 29, § 5o. da Lei 8.880/94, incide sobre a remuneração do servidor público e não somente sobre o vencimento-básico. Precedentes desta Corte.
+2. Agravo Regimental da UNIÃO desprovido.
+(AgRg no AREsp 39.365/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/08/2014, DJe 12/09/2014).
+ADMINISTRATIVO. ART. 535 DO CPC. ALEGAÇÃO GENÉRICA DE OMISSÃO NO ACÓRDÃO. SÚMULA 284/STF. REAJUSTE DE 3,17%. BASE DE CÁLCULO. REMUNERAÇÃO. PRECEDENTES. SÚMULA 83/STJ.
+ ..
+2. Esta Corte tem entendimento pacífico no sentido de que, quanto à base de cálculo do percentual de 3,17%, tal índice deve incidir sobre o total da remuneração, e não apenas sobre o vencimento básico. Precedentes. Mesmo entendimento da decisão recorrida. Incidência da Súmula 83/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.259.568/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 11/12/2012, DJe 18/12/2012).
+Dessarte, é de se reputar correta a inclusão do reajuste de 28,86% na base de cálculo do índice de 3,17%. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. LIMITAÇÃO TEMPORAL DO REAJUSTE DE 3,17%. MP N. 2.150-39/2001. REESTRUTURAÇÃO DA CARREIRA. INCIDÊNCIA SOBRE O REAJUSTE DE 28,86%. POSSIBILIDADE. PRECEDENTES. AUSÊNCIA DE FUNDAMENTOS NOVOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+Agravo regimental improvido.
+(AgRg no REsp 982.681/RN, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/06/2013, DJe 1º/08/2013).
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. POLICIAL RODOVIÁRIO FEDERAL. EMBARGOS À EXECUÇÃO. ÍNDICE DE 3,17%. VIOLAÇÃO À COISA JULGADA. INEXISTÊNCIA. BASE DE CÁLCULO: REMUNERAÇÃO. LEI N.º 9.654/98. REESTRUTURAÇÃO DA CARREIRA. EVIDENCIADA. PRECEDENTES. LIMITAÇÃO TEMPORAL. POSSIBILIDADE. BASE DE CÁLCULO DO REAJUSTE. REMUNERAÇÃO. INCIDÊNCIA DO REAJUSTE RESIDUAL DE 3,17% SOBRE O ÍNDICE DE 28,86%. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INCIDÊNCIA DA SÚMULA 07 DO SUPERIOR TRIBUNAL DE JUSTIÇA
+1. Nos termos do art. 469, incisos I, II e III, do Código de Processo Civil, não fazem coisa julgada: (a) os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença; (b) a verdade dos fatos, estabelecida como fundamento da sentença; e (c) a apreciação da questão prejudicial, decidida incidentemente no processo, a não ser, quanto a essa última hipótese, ante a propositura de ação declaratória incidental. Precedentes.
+2. Na parte dispositiva da sentença exequenda, não consta expressa determinação para que seja afastada a reestruturação determinada pela Lei n.º 9.654/98, o que infirma a tese de ofensa à coisa julgada.
+3. O entendimento deste Superior Tribunal de Justiça é no sentido de que a limitação temporal prevista no art. 10 da Medida Provisória n.º 2.225-45/2001, não afronta a coisa julgada.
+4. A entrada em vigor da Lei 9.654/98, conforme disposto no art. 10 da Medida Provisória 2.225-45/01, constitui termo final para a incidência do resíduo de 3,17% aos integrantes da carreira Policial Rodoviário Federal. Precedentes.
+5. A orientação deste Superior Tribunal de Justiça é no sentido de que, quanto à base de incidência do reajuste de 3,17%, o cômputo do aludido percentual deve recair sobre a remuneração do servidor.
+6. O reajuste residual de 3,17% também incide sobre o índice de 28, 86%, bem como sobre as vantagens pagas pelo exercício de cargo em comissão e de função gratificada, além das vantagens pessoais incorporadas a tal título.
+7. Na via especial, a reavaliação da fixação dos honorários advocatícios, feita pela Corte de origem, encontra óbice na Súmula n.º 07 do Superior Tribunal de Justiça.
+8. Agravos regimentais desprovidos.
+(AgRg nos EDcl no REsp 1.118.351/PR, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 06/10/2011, DJe 17/10/2011).
+Acompanhando esse entendimento, confiram-se, também, as seguintes decisões monocráticas: REsp n. 1.542.020, Relator Ministro HERMAN BENJAMIN, DJe 28/8/2015; AREsp n. 723.578, Relator Ministro OG FERNANDES, DJe 24/6/2015; REsp n. 1.533.679, Relator Ministro HUMBERTO MARTINS, DJe 17/6/2015; REsp n. 1.224.634, Relator Ministro ARNALDO ESTEVES LIMA, DJe; REsp n. 1.201.000, Relator Ministro BENEDITO GONÇALVES, DJe 21/9/2010.
+No caso, contudo, como anteriormente visto, entendeu o aresto hostilizado que ausente comprovação do reconhecimento judicial ou administrativo do índice que estaria incluído na base de cálculo do percentual discutido
+Assim, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
