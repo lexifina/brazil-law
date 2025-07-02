@@ -1,0 +1,17 @@
+DECISÃO
+A Primeira Seção do STJ, ao apreciar os Recursos Especiais n. 2150894/SC, 2150848/RS, 2150097/CE e 2151146/RS, decidiu submeter à sistemática dos recursos repetitivos questão jurídica relacionada à apuração de créditos de PIS /COFINS em regime não cumulativo sobre o valor do ICMS incidente sobre a operação de aquisição.
+O julgado produzido na ProAfR no REsp 2150097/CE (Tema 1364), sob a relatoria do Ministro Paulo Sérgio Domingues, foi assim resumido:
+PROCESSUAL CIVIL - TRIBUTÁRIO - CONTROVÉRSIA ACERCA DAS CONTRIBUIÇÕES AO PIS/PASEP E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES AO ICMS PRÓPRIO APÓS A PROMULGAÇÃO DA LEI 14.592/2023 - QUESTÃO DE DIREITO - MULTIPLICIDADE DE CAUSAS PARELHAS - RECURSO SELECIONADO COMO REPRESENTATIVO DE CONTROVÉRSIA - AFETAÇÃO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Delimitação da controvérsia: "possibilidade de apuração de créditos de PIS/COFINS em regime não cumulativo sobre o valor do ICMS incidente sobre a operação de aquisição, à luz do disposto no art. 3º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/2023".
+2. A questão aqui identificada difere daquela que já foi objeto de afetação sob a relatoria do Ministro Mauro Campbell Marques no EREsp 1.959.571/RS e nos REsps 2.075.758/ES e 2.072.621/SC (Tema Repetitivo 1.231/STJ). Nesses casos, cuidava-se de discussão jurídica referente à possibilidade de creditamento, no âmbito do regime não-cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição (ICMS-ST) e aqui, trata-se do creditamento no ICMS próprio após a promulgação da Lei 14.592/2023.
+3. O STF decidiu que a matéria é infraconstitucional. Consequente superação do óbice de admissibilidade do recurso especial pela fundamentação constitucional do acórdão recorrido.
+4. Existência de multiplicidade de causas parelhas a espelhar a mesma controvérsia.
+5. Afetação do recurso especial ao regime dos recursos repetitivos.
+(ProAfR no REsp n. 2.150.097/CE, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 17/6/2025, DJEN de 24/6/2025.)
+Por considerar que a hipótese se amolda ao caso em exame e que o seu debate é prejudicial à análise do recurso especial, sigo a orientação desta Corte no sentido de sobrestar o recurso até o julgamento dos paradigmas e submissão da tese principal ao juízo de conformidade. Nesse sentido: EDcl no AgRg no REsp n. 1.429.700/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/8/2024, DJe de 19/8/2024.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema 1364), realize o juízo de adequação.
+Publique-se.
+Intimem-se.
+EMENTA
+TRIBUTÁRIO.  PIS/COFINS NÃO CUMULATIVO. CREDITAMENTO DO ICMS NA OPERAÇÃO DE AQUISIÇÃO. TEMA 1364. SUSPENSÃO DA TRAMITAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
