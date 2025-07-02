@@ -1,0 +1,22 @@
+DECISÃO
+Em agravo em recurso especial interposto por Luiz Germano da Silva contra decisão do Tribunal de Justiça do Estado do Pará, examina-se a inadmissão do recurso especial, fundada na aplicação das Súmulas n. 7 e 83 do STJ, além da falta de prequestionamento (e-STJ fls. 702-711).
+O agravante foi condenado, em primeiro grau, pelo delito previsto no art. 1º, II, da Lei nº 8.137/90, à pena de 2 anos de reclusão, em regime inicial aberto, além de 100 dias-multa (e-STJ fls. 430-472). A pena privativa de liberdade foi substituída por duas restritivas de direitos: prestação de serviços à comunidade e limitação de fim de semana.
+O Tribunal de Justiça do Estado do Pará redimensionou a pena de multa para 10 dias-multa, mantendo a condenação (e-STJ fls. 628-670). O acórdão fundamentou-se na impossibilidade de aplicação do princípio da insignificância, considerando que o valor do débito fiscal ultrapassava o montante razoavelmente adotado como parâmetro para autorizar a persecução penal do delito de sonegação fiscal.
+O recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, alegou violação ao artigo 386, III, do Código de Processo Penal, e requereu a absolvição do recorrente, sustentando a atipicidade da conduta em razão do princípio da insignificância (e-STJ fls. 675-686).
+O recurso não foi admitido pelo Tribunal de origem porque a decisão da Turma julgadora se encontra em consonância com a jurisprudência do STJ, além de incidir nos enunciados das Súmulas n. 7 e 83 do STJ, e falta de prequestionamento (e-STJ fls. 702-711).
+Na petição de agravo em recurso especial (e-STJ fls. 712-721), o agravante busca infirmar a decisão de inadmissão. Alega, em síntese, que a prescrição da pretensão punitiva na modalidade retroativa pela pena em concreto deveria ser reconhecida, pois entre a consumação do delito e o recebimento da denúncia decorreu lapso temporal superior ao prazo prescricional. Ademais, sustenta que a aplicação do princípio da insignificância foi equivocada, pois o parâmetro adotado pelo Tribunal de origem não respeitou a legislação estadual vigente, que estabelece o limite de 15.000 UPF-PA para a obrigatoriedade de execução fiscal, sendo o valor do débito inferior a esse patamar. Por fim, argumenta que a decisão de inadmissão do recurso especial não considerou adequadamente os precedentes do STJ sobre a matéria, o que afasta a aplicação das Súmulas n. 7 e 83.
+O Ministério Público manifestou-se pelo não conhecimento do agravo. Caso conhecido, o parecer é pelo desprovimento do recurso especial (e-STJ fls. 743-746), em parecer assim ementado:
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. SÚMULA N. 182/STJ. CRIME TRIBUTÁRIO. SONEGAÇÃO FISCAL. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REQUISITOS NÃO PREENCHIDOS. DESPROVIMENTO DO RESP.
+Às fls. 749/750 foi proferido despacho para determinar a remessa dos autos ao Ministério Público para se manifestar sobre a possibilidade de oferecimento do ANPP, sendo requerido pelo Ministério Público a intimação do agravante para manifestação de interesse no acordo (fls. 753/755).
+O agravante requereu o prosseguimento do julgamento do agravo com o consequente reconhecimento da prescrição da pretensão punitiva e extinção da punibilidade do réu (fls. 758/759).
+O Ministério Público se manifestou às fls. 768/769, pelo reconhecimento da prescrição com a extinção da punibilidade do réu, tendo em vista que entre a data do recebimento a denúncia e a data da sentença condenatória, transcorreu prazo de 5 anos e 4 meses.
+É o relatório.
+Decido.
+A condenação do réu à pena de 2 anos de reclusão, já com trânsito em julgado para a acusação, enseja o reconhecimento de causa extintiva da punibilidade, consistente na prescrição da pretensão punitiva da infração prevista no art. 1º, II, da Lei nº 8.137/90.
+Consoante o disposto no art. 109 do CP, o prazo prescricional da pena de 2 anos é de 4 anos.
+Logo, decorrido o aludido lapso entre o recebimento da denúncia (08/10/2008) e a publicação da sentença condenatória (17/03/2022), ainda que considerado o período de suspensão do processo e da prescrição, verifica-se a ocorrência da prescrição retroativa e a consequente extinção da punibilidade.
+Ante o exposto, declaro extinta a punibilidade de Luiz Germano da Silva, na forma do art. 107, IV, do Código Penal.
+Reconhecida a prescrição, prejudicado o agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
