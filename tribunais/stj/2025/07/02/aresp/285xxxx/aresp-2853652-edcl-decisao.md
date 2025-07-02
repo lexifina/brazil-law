@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.080-1.083) opostos à decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (fls. 1.074-1.077).
+A parte embargante sustenta que "a r. decisão é omissa, pois deixou de enfrentar argumento expressamente alegado pela Embargante, no sentido que o art. 37-A da Lei 9.514/97, foi devidamente invocado desde a petição inicial e analisado ao longo de todas as instâncias, inclusive nos embargos de declaração opostos no Tribunal de Justiça" (fl. 1.080).
+Impugnação não apresentada (fl. 1.086).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência no julgado dos vícios mencionados, o que não se evidencia no caso em exame.
+Na verdade, sob o pretexto de que houve ofensa ao art. 1.022 do CPC/2015, pretende a parte embargante nova análise dos argumentos apresentados nos recursos anteriormente interpostos.
+Ocorre que a questão foi devidamente examinada na decisão ora embargada, que afastou as alegações repetidas nas presentes razões, reconhecendo a deficiência na fundamentação recursal, a ausência de prequestionamento, a impossibilidade de reavaliação fático-probatória dos autos e a inexistência de comprovação do dissenso jurisprudencial, conforme se verifica do seguinte excerto (fl . 1.076):
+A insurgência recursal no sentido de que "o v. acórdão ignorou que o pedido de reintegração de posse foi julgado procedente e não foi questionado" (fl. 876), não pode ser sustentada apenas com base no referido dispositivo, o qual não regula a matéria. Incidente, portanto, no caso a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além disso, o TJSP reconheceu que "Demonstrada a aplicabilidade do procedimento de venda forçada e posterior entrega do sobejante ao devedor fiduciante (no caso, o réu reconvinte), readapto o julgamento do presente recurso à luz do entendimento exarado no Tema Repetitivo n. 1.095, a fim de manter a parcial procedência dos pedidos iniciais e, consequentemente, julgar improcedentes os pedidos reconvencionais, por ausência de fundamento legal para a resilição unilateral pugnada pelo réu reconvinte, remanescendo apenas a hipótese de submissão ao regramento dos arts. 26 e 27 da Lei Federal n. 9.514/97. Consequentemente, inviável a resilição do contrato de compra e venda, dada sua coligação com a alienação fiduciária pendente de consolidação de propriedade" (fls. 850-851).
+Portanto, considerando a premissa adota na origem - ausência de fundamento legal para a resilição unilateral - o conteúdo do art. 37-A da Lei n. 9.514 /1997 não foi analisado pela Corte local para a resolução da controvérsia. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Além disso, modificar o entendimento do acórdão impugnado quanto à ausência de consolidação da propriedade, demandaria reexame do conjunto fático- probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
