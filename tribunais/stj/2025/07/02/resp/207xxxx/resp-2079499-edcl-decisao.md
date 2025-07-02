@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo espólio de Gil Galdino e outros à decisão monocrática desta relatoria que deu parcial provimento ao recurso especial do Ministério Público Federal para restabelecer a decisão de primeira instância, mantendo-se a multa derivada do art. 10 da Lei n. 8.429/1992 (e-STJ, fls. 58-62).
+Os embargantes afirmam que a decisão "desprezou o fatos novos supervenientes, que são o Julgamento do Tema 309 de repercusão geral RE 656558 do STF e, no julgamento da questão de ordem da AR 2876, em 24.4.2025, que permitem a a retroatividade da norma da 14.230/2021, e, ainda que não se aplique a retroatividade, devido aos novos entendimento que quebram em parte a higidez da coisa julgada, permitido que a multa aplicada na ação de improbidade, não seja redirecionada aos herdeiros, dado o seu caráter personalíssimo" (e-STJ, fls. 537).
+Impugnação às fls. 661-665 (e-STJ).
+Brevemente relatado, decido.
+O inconformismo não se justifica.
+A decisão embargada assentou que a multa civil derivada do art. 10 da Lei de Improbidade Administrativa é transmissível aos herdeiros até o limite do valor da herança, conforme a redação original do art. 8º da Lei n. 8.429/1992, uma vez que a sentença condenatória transitou em julgado antes das alterações promovidas pela Lei n. 14.230/2021.
+Em suas razões, os embargantes alegam omissão quanto ao fato novo superveniente, especificamente o julgamento do Tema 309 de repercussão geral pelo STF e a questão de ordem na AR 2876 julgada naquela Corte.
+Sustentam que, em respeito ao princípio da individualidade da pena (art. 5º, XLV da CF), a multa não pode ser transferida aos herdeiros, mesmo que fixada com base no art. 10 da LIA, conforme a nova redação do art. 8º dada pela Lei n. 14.230/2021.
+Acrescentam que "o artigo 525, § 15, do Código de Processo Civil admite até mesmo a ação rescisória para desconstituir condenações baseadas em lei posteriormente declarada inconstitucional pelo STF, de modo que, após o trânsito em julgado do acórdão do Tema 309, todos aqueles condenados por ato culposo de improbidade poderão buscar no Poder Judiciário a rescisão das decisões condenatórias. Ou seja, terão tratamento idêntico àqueles que tinham processos em curso" (e-STJ, fl. 538 - sem grifo no original).
+Todavia, estão claras as circunstâncias que motivaram o provimento do recurso especial, com a indicação expressa de que as inovações trazidas pela Lei n. 14.230/2021 não podem retroagir para alcançar a coisa julgada, conforme a jurisprudência desta Corte e do STF sobre o tema.
+Ficou consignado, além do mais, que o desfecho conferido ao caso na origem não se baseou na alegada inovação legislativa. O redirecionamento da execução aos herdeiros para a cobrança da multa fixada com base no art. 10 da Lei n. 8.429/1992 foi considerado inviável, com base na redação original do art. 8º da LIA, restando expressamente registrado nos acórdãos que esse dispositivo não teria sido alterado pela Lei n. 14.230/2021.
+Daí porque é aplicável à interpretação conferida à redação original do art. 8º da LIA, no sentido de permitir a transmissão aos herdeiros da multa fixada com fundamento no art. 10 da Lei nº 8.429/1992.
+Assim, a decisão não possui vício a ser sanado por meio dos embargos.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. IRRETROATIVIDADE DA LEI N. 14.230/2021. MULTA BASEADA EM DANO AO ERÁRIO. TRANSMISSÃO AOS HERDEIROS. ART. 8º DA LEI 8.429/1992. POSSIBILIDADE. PRECEDENTES. VÍCIO DE FUNDAMENTAÇÃO NÃO IDENTIFICADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
