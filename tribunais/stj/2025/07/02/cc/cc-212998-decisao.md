@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de conflito negativo por iniciativa do Juízo Federal da 1ª Vara de Campo Mourão - SJ/PR, em face do Juízo Federal da 4ª Vara do Juizado Especial de São Paulo - SJ/SP, relativamente a execução de título extrajudicial para cobrança de taxa de condomínio ajuizada por BV Garantia S/A em face de Caixa Econômica Federal.
+O Juízo suscitado, da 4ª Vara do Juizado Especial de São Paulo - SJ/SP, declarou de ofício a sua incompetência, determinando a remessa dos autos para uma das Varas de Campo Mourão/PR, sede da parte autora (fl. 143).
+O Juízo Federal da 1ª Vara de Campo Mourão - SJ/PR suscitou o presente conflito ao fundamento de que, in verbis (fl. 154):
+a) a competência de foro é relativa, não pode ser declarada de ofício, o autor optou pelo foro do juízo declinante e não houve oposição a respeito;
+b) a execução pode ser proposta no foro da situação dos bens a ela sujeitos, segundo o artigo 781, I, do CPC, norma expressamente invocada pela parte autora na inicial;
+c) o artigo 4º da Lei 9.099/95 também permite a opção pelo local onde a obrigação deva ser satisfeita, que no caso é o local do imóvel;
+d) trata-se de execução de débitos de condomínio, obrigação "propter rem", que possui natureza híbrida, tanto real quanto pessoal, fazendo incidir assim a regra do artigo 47, caput, do CPC: "Para as ações fundadas em direito real sobre imóveis é competente o foro de situação da coisa."
+Instado a se manifestar, opinou o Ministério Público Federal pela competência do Juízo Federal da 4ª Vara do Juizado Especial de São Paulo - SJ/SP, o suscitado (fls. 104/107).
+Assim delimitada a matéria, necessário consignar que, conforme se colhe dos autos, trata-se de execução de título extrajudicial para cobrança de taxa de condomínio, de forma que a questão orbita em torno da competência territorial, que é relativa, cuja prorrogação se impõe quando não oposta exceção no tempo próprio, devendo ser observada a regra geral.
+Portanto, sem manifestação expressa dos réus em contrariedade ao foro escolhido, não pode o Magistrado a ela se substituir para declarar a própria incompetência para processar e julgar o feito. Nesse sentido, o enunciado da Súmula 33-STJ:
+A incompetência relativa não pode ser declarada de ofício.
+Diversamente do que ocorre quando a competência é absoluta, no caso de competência territorial, decorre da ausência de questionamento a concordância tácita com o foro em que ajuizada a demanda, prorrogando-a. Os seguintes precedentes da Segunda Seção em casos análogos tratam da controvérsia:
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE REINTEGRAÇÃO DE POSSE EM VIRTUDE DO DESCUMPRIMENTO DE CONTRATO DE ARRENDAMENTO MERCANTIL. SUSCITANTE: JUÍZO DE DIREITO DE RECIFE (SEDE DA EMPRESA RÉ) E SUSCITADO: JUÍZO DE DIREITO DE SÃO PAULO (FORO DE ELEIÇÃO). COMPETÊNCIA TERRITORIAL E, PORTANTO, RELATIVA. IMPOSSIBILIDADE DE DECLINAÇÃO DE OFÍCIO. SÚMULA N. 33 DESTA CORTE.
+- Em se tratando de competência territorial, portanto, relativa, não cabe ao juiz declará-la de ofício (verbete nº 33, Súmula STJ). Somente o próprio réu, mediante oposição de exceção na forma do art. 112 do CPC, poderá se insurgir contra o foro escolhido pelo autor, ainda que o juízo reconheça a nulidade da cláusula eletiva do foro.
+- Conflito conhecido e declarada a competência do Juízo de Direito da 15ª Vara Cível de São Paulo, o suscitado.
+(CC 17.037/PE, Rel. Ministro CESAR ASFOR ROCHA, unânime, DJU de 23.9.1996)
+CONFLITO. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. CONTRATO DE ADESÃO. DECLARAÇÃO DE NULIDADE E DECLINAÇÃO DE OFÍCIO PELO JUÍZO. INCOMPETÊNCIA RELATIVA. ENUNCIADO N. 33 DA SUMULA/STJ.
+- A competência concernente à cláusula de eleição de foro é de natureza territorial e, portanto, relativa, não cabendo ao magistrado dela declinar de oficio, ainda que após a declaração de sua nulidade, incidindo, na espécie, o verbete nº 33 da súmula/STJ.
+(CC 14.519/MG, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, unânime, DJU de 4.3.1996)
+A regra geral de competência incide quando não há na lei disciplina que a excepcione, que não é a hipótese presente. Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPETÊNCIA. CONEXÃO ENTRE DEMANDAS. COMPETÊNCIA ABSOLUTA. OBSERVÂNCIA EM DETRIMENTO DA COMPETÊNCIA RELATIVA. AGRAVO DESPROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, "a modificação da competência é exceção à regra geral, admitida apenas quando autorizada em lei, e que, portanto, só encontra terreno fértil no campo da competência relativa, haja vista que nas hipóteses de competência absoluta o legislador fez a opção expressa de imunizá-las de qualquer modificação, sequer por força de conexidade" (REsp n. 1.687.862/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 19/9/2018, DJe 24/9/2018).
+2. Havendo conexão entre as demandas ou uma prejudicialidade externa, impõe-se a reunião dos processos, a qual deverá ocorrer no juízo em que preponderar a competência, que, no caso vertente, será a competência absoluta em detrimento da competência relativa.
+3. Agravo interno desprovido. (destaquei)
+(Terceira Turma, AgInt no REsp 1.655.993/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, unânime, DJe de 30.8.2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INCOMPETÊNCIA RELATIVA. ARGUIÇÃO COMO PRELIMINAR DE CONTESTAÇÃO. POSSIBILIDADE. PRECEDENTES. COMPETÊNCIA TERRITORIAL. PESSOA JURÍDICA. LUGAR ONDE ESTÁ ESTABELECIDA A SEDE. ALEGAÇÃO DE PREJUÍZO QUE NÃO PODE SER OPOSTA CONTRA A LEI PROCESSUAL VIGENTE.
+1. Apesar de se tratar de irregularidade formal, é admissível a alegação de incompetência relativa em preliminar de contestação. Precedentes.
+2. A regra geral é de que o foro competente para o julgamento de ação fundada em direito pessoal é o do domicílio do réu (CPC, art. 94).
+3. A regra especial estabelece que o foro competente para a ação em que a ré for pessoa jurídica é o do lugar onde está a sede (CPC, art. 100, IV, a).
+4. A prorrogação da competência territorial somente é autorizada nas hipóteses em que o réu não opuser exceção declinatória nos casos e prazos legais (art. 114 do CPC), o que não se verifica na hipótese vertente, pois a parte efetivamente arguiu a exceção de incompetência como preliminar de contestação.
+5. Agravo regimental não provido. (destaquei)
+(Terceira Turma, AgRg no REsp 1.283.611/DF, Rel. Ministro MOURA RIBEIRO, unânime, DJe de 15.2.2016)
+Em face do exposto, conheço do conflito para declarar competente o Juízo Federal da 4ª Vara do Juizado Especial de São Paulo - SJ/SP.
+Comunique-se. Intimem-se.
+EMENTA
