@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 480, e-STJ):
+COMPROMISSO DE COMPRA E VENDA - VÍCIOS CONSTRUTIVOS INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS Parcial procedência decretada Inconformismo de ambas as partes - Não acolhimento Cerceamento de defesa/substituição do perito Inocorrência Ausente hipótese de que trata o art. 468 do CPC - Relação de consumo evidenciada Chamamento ao processo da construtora que, por conta disso, encontra óbice na regra do artigo 88 do referido diploma legal Alegação de que se cuida de litisconsórcio necessário Descabimento Hipótese de litisconsórcio facultativo (art. 25, § 1º, também do CDC) Precedentes Mérito: Laudo pericial produzido de acordo com os pontos controvertidos fixados (reconhecendo a existência de vícios construtivos e a condenação estabelecida para a reparação destes, de acordo com o montante também apurado pela perícia) Dano moral Inocorrência - Vícios que não impediram o uso do imóvel, pela autora, tampouco constatado, pela perícia, risco de desmoronamento Precedentes, inclusive desta Câmara, envolvendo demandas idênticas Sentença mantida Recursos improvidos.
+Os embargos declaratórios opostos foram rejeitados (fls. 562-564, e-STJ).
+Nas razões do recurso especial (fls. 490-515, e-STJ), a parte insurgente apontou, além de dissídio jurisprudencial, violação aos seguintes artigos: a) 3º do Código de Defesa do Consumidor, alegando que a CDHU não pode ser considerada fornecedora de produto de consumo; b) 114 do Código de Processo Civil, defendendo a necessidade de inclusão da construtora como litisconsorte passivo necessário; c) 884 e 944 do Código Civil, argumentando que a condenação por danos morais configura enriquecimento sem causa.
+Contrarrazões às fls. 568-579, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 581-583, e-STJ), dando ensejo na interposição do presente agravo (fls. 601-630, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 633-643, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A parte insurgente alega violação aos artigos 3º do CDC, 114 do CPC e 844 e 944 do CC, sustentando que a CDHU não pode ser considerada fornecedora de produto de consumo, bem como a necessidade de inclusão da construtora como litisconsorte necessário.
+Sustenta, em síntese, que a CDHU é uma empresa pública estadual, prestadora de serviços públicos, e que o imóvel deve atender às finalidades do Estado, não se enquadrando como produto de consumo.
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 483-487, e-STJ):
+A alegada ilegitimidade passiva da CDHU, bem como chamamento ou inclusão da construtora no polo passivo, não comportavam mesmo acolhida, haja vista o sedimentado entendimento desta Turma Julgadora, pela aplicabilidade do CDC ao caso concreto, sendo vedada a intervenção de terceiros (art. 88, do mesmo diploma legal).
+Nesse sentido, recente julgado desta Câmara e Relatoria, envolvendo demanda idêntica, movida em face da mesma companhia habitacional:
+"EMENTA COMPROMISSO DE COMPRA E VENDA - VÍCIOS DE CONSTRUÇÃO INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS Demanda ajuizada em face da companhia habitacional - Decisão que rejeitou pleito por ela deduzido, visando o ingresso da construtora no polo passivo - Inconformismo - Não acolhimento - Relação entre mutuária e a companhia habitacional regida pelo CDC - Chamamento ao processo que, por conta disso, encontra óbice na regra do art. 88 do referido diploma legal - Alegação de que se cuida de litisconsórcio necessário - Descabimento - Hipótese de litisconsórcio facultativo (art. 25, § 1º, também do CDC) - Precedentes - Decisão mantida - Recurso improvido. (TJSP; Agravo de Instrumento 2174917-61.2023.8.26.0000; Relator (a): Salles Rossi; Órgão Julgador: 8ª Câmara de Direito Privado; Foro de Osvaldo Cruz - 2ª Vara; Data do Julgamento: 15/8/2023; Data de Registro: 15/8/2023)."
+O Tribunal local, diante das peculiaridades do caso concreto e a partir da análise do conteúdo fático-probatório dos autos, concluiu pela legitimidade passiva da recorrente, afastando a possibilidade de denunciação da lide, em razão de se tratar de relação de consumo.
+Derruir as conclusões contidas no decisum e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONSTRUÇÃO CIVIL. VÍCIO APARENTE. DECADÊNCIA. SÚMULA N. 211 DO STJ. ACÓRDÃO RECORRIDO. FUNDAMENTO SUFICIENTE PARA SUA MANUTENÇÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. PRESCRIÇÃO. ARTS. 205 E 618 DO CÓDIGO CIVIL. SÚMULA N. 83 DO STJ. RESPONSABILIDADE CIVIL. SÚMULAS N. 5 E 7 DO STJ. DANOS MATERIAIS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+4. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+5. É inviável para esta Corte a revisão da responsabilidade das recorrentes pelos vícios construtivos, por envolver ampla análise das provas e do contrato, incidindo as Súmulas n. 5 e 7 do STJ.
+6. A análise das razões apresentadas pelas recorrentes, no que se refere à existência de danos materiais, demandaria o reexame da matéria fática, o que é vedado em recurso especial (Súmula n. 7 do STJ).
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.881.830/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MATERIAIS, MORAIS E LUCROS CESSANTES. VÍCIOS CONSTRUTIVOS. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. VIOLAÇÃO AO ART. 371 DO CPC/2015 NÃO EVIDENCIADA. HIGIDEZ DO LAUDO PERICIAL. DANOS MATERIAIS E MORAIS COMPROVADOS. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. O Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela responsabilidade civil dos agravantes, em razão dos vícios construtivos presentes no imóvel. A pretensão de modificar tal entendimento, considerando as circunstâncias do caso concreto, acerca das provas periciais e da extensão dos danos materiais e morais, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.603.293/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/3/2021, DJe de 13/4/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. VÍCIOS DE CONSTRUÇÃO. DANOS MORAIS COMPROVADOS. SÚMULA 7/STJ. JUROS MORATÓRIOS. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. CITAÇÃO.
+1. O Tribunal de origem concluiu ser devida indenização por danos morais pelos transtornos causados aos agravados em razão dos vícios de construção que impediram a utilização integral do imóvel. A alteração de tal conclusão demanda o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. Nos casos de responsabilidade contratual, os juros moratórios incidem a partir da citação.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.371.045/SP, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 24/4/2018, DJe de 2/5/2018.)
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+Registra-se, ainda , consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Precedentes: AgInt no REsp 1765794/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020; AgInt no REsp 1886167/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 22/10/2020; AgInt no AREsp 1609466/ SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/09/2020, DJe 23/09/2020.
+Quanto ao pedido de denunciação da lide, constata-se que o recorrente limitou-se a reproduzir os argumentos aventados em sua apelação, sem enfrentar pontualmente os fundamentos do acórdão, em especial a inaplicabilidade do instituto às relações de consumo.
+Nos termos da jurisprudência desta Corte, a existência de fundamentos inatacados, aptos à manutenção do aresto recorrido, e a constatação de razões dissociadas do recurso em relação ao acórdão impugnado atraem a incidência das Súmulas 283 e 284 do STF, aplicáveis por analogia.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. INÉRCIA DO EXEQUENTE NA PROPOSITURA DO CUMPRIMENTO DE SENTENÇA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO ATACADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.  ..  4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal. 5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 1680324/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020)
+Inafastáveis, no ponto, os óbices das Súmulas 283/STF e 284/STF.
+2. Em seguida, alega vulneração aos artigos 884 e 944 do Código Civil, argumentando que a condenação por danos morais configura enriquecimento sem causa.
+Sobre o tema, a Corte de origem consignou pela inexistência de danos morais (fls. 483-484 e-STJ):
+De outra parte, tenho que também não assiste razão à autora ao reiterar a existência de dano moral indenizável, eis que, embora constatada pela perícia a ocorrência de diversos vícios construtivos no imóvel, não impediram seu uso (não tendo ainda alertado a "Expert" para o risco de desmoronamento ou comprometimento de sua habitabilidade).
+Destarte, o aborrecimento, que certamente houve, não pode ser convertido em indenização extrapatrimonial, devendo a condenação em desfavor da companhia habitacional, ficar limitada ao valor apurado a título de danos materiais.
+A conclusão do acórdão, conforme o trecho mencionado, foi que não há razão para a autora ao insistir na existência de dano moral indenizável. Apesar de a perícia ter constatado diversos vícios construtivos no imóvel, esses não impediram seu uso, nem alertaram para risco de desmoronamento ou comprometimento da habitabilidade. Portanto, o aborrecimento causado não pode ser convertido em indenização extrapatrimonial, e a condenação contra a companhia habitacional deve ser limitada ao valor apurado a título de danos materiais.
+As razões do apelo extremo, no caso, encontram-se dissociadas do decisum impugnado, revelando-se deficiente a fundamentação recursal.
+Com efeito, nos termos da jurisprudência desta Corte, a existência de fundamentos inatacados, aptos a manutenção do arresto recorrido e as razões de recurso dissociadas do acórdão, atraem a incidência das Súmulas 283 e 284 do STF, por analogia.
+Nesse mesmo sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. OFENSA AO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. VALOR DOS DANOS MORAIS. SÚMULAS 283 E 284 DO STF. AGRAVO NÃO PROVIDO.
+ .. .
+2. Há deficiência na fundamentação no recurso especial, pois as razões nele trazidas estão dissociadas das premissas estabelecidas pela Corte local. Incidência das Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.030.763/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. JUROS MORATÓRIOS. LIMITAÇÃO A 1% AO MÊS. SÚMULA 379/STJ. LEGALIDADE DA COBRANÇA DA TARIFA DE CESTA DE SERVIÇOS. SÚMULAS 283 E 284/STF. AGRAVO DESPROVIDO.
+ ..
+2. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência das Súmulas 283 e 284 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.066.687/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/6/2022, DJe de 1/7/2022.)
+Desta forma, incidem os óbices das Súmulas 283 e 284/STF, aplicáveis por analogia.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
