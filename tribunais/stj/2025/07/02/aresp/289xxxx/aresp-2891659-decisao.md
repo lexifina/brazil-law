@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALVAIR RODRIGUES DOS REIS e OUTRA contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 7 do STJ e 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Const ituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de usucapião. O julgado foi assim ementado (fls. 693-694):
+APELAÇÃO CÍVEL - USUCAPIÃO EXTRAORDINÁRIA - PERÍCIA OFICIAL E PROVA TESTEMUNHAL - PROVA DA POSSE MANSA, PACÍFICA E ININTERRUPTA DE PARTE DA ÁREA DESCRITA - MANUTENÇÃO - ÔNUS SUCUMBENCIAIS - REPARTIÇÃO - APELAÇÃO À QUAL SE DÁ PARCIAL PROVIMENTO. 1 - Verificado pelas provas testemunhal e pericial que a posse mansa, pacífica e ininterrupta, além do ânimo de dono pelo prazo legal, se consolidou apenas sobre parte da área descrita na inicial, deve ser mantida a sentença que reconheceu o direito perseguido sobre área incontroversa. 2 - Sendo a parte autora e parte requerida sucumbente de parte dos pedidos, deve a sentença ser reformada quanto aos ônus sucumbenciais, para reconhecer a sua repartição entre as partes do processo.
+Os embargos de declaração foram opostos e rejeitados (fls. 632-635).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 373, I, do Código de Processo Civil, porquanto o ônus probatório dos fatos constitutivos do direito é ônus exclusivo da parte que ocupa o polo ativo da demanda, sendo que para sua concreção o autor pode-se utilizar de todos os meios probatórios previstos na legislação processual e, ainda, daqueles que são legítimos, mesmo que não especificados; e
+b) 333, II, do Código de Processo Civil, visto que o ônus de desconstituir os fatos provados pelo autor é exclusivo da parte requerida, pois, assim, determina o artigo mencionado; e
+Sustenta que o Tribunal de origem divergiu ao decidir que a produção das provas testemunhal e documental, quando demonstram de forma satisfatória os fatos e o direito do autor, são suficientes para sustentar a procedência da ação proposta, divergindo do entendimento consolidado pelo Tribunal de Justiça do Estado de São Paulo nos autos da Apelação Cível de número 1003710-98.2018.8.26.0642.
+Requer o provimento do recurso para que se reforme o acórdão recorrido e, consequentemente, reconheça e declare o direito dos agravantes em alcançarem a aquisição do domínio sobre a área de 11ha.75ca.75a. descrita na petição inicial.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de usucapião em que a parte autora pleiteou o reconhecimento da posse mansa, pacífica e ininterrupta sobre a área de 11ha.75ca.75a. Na sentença, o Juízo de primeiro grau julgou parcialmente procedente a ação para reconhecer o direito de aquisição do domínio sobre a área de 01 alqueire, equivalente a 48.400 metros quadrados, com fundamento na resposta ofertada pelo perito judicial a quesito que consistiu na elaboração de planta planimétrica descrevendo uma área de 1 alqueire.
+A Corte estadual manteve a sentença, entendendo que a posse mansa, pacífica e ininterrupta, além do ânimo de dono pelo prazo legal, se consolidou apenas sobre parte da área descrita na inicial, devendo ser mantida a sentença que reconheceu o direito perseguido sobre área incontroversa.
+I - Art. 373, I, do CPC
+No recurso especial, a parte agravante alega que o ônus probatório dos fatos constitutivos do direito é ônus exclusivo da parte que ocupa o polo ativo da demanda, sendo que para sua concreção o autor pode-se utilizar de todos os meios probatórios previstos na legislação processual e, ainda, daqueles que são legítimos, mesmo que não especificados.
+A Corte estadual concluiu que foi demonstrado, de forma inequívoca, que os agravantes tomaram posse ininterrupta, mansa, pacífica e com ânimo de dono apenas de parte da área descrita na peça de ingresso.
+Confira-se trecho do acórdão recorrido (fl. 549):
+Notadamente, após perícia oficial e oitiva de testemunhas, certo é que a prova indene de dúvida demonstra que os apelantes tomaram posse ininterrupta, mansa, pacífica e com ânimo de dono apenas de parte da área descrita na peça de ingresso.
+ ..
+No mesmo sentido, as testemunhas ouvidas em juízo afirmaram que a posse exercida pelos recorrentes durante todos os 25 anos foi de aproximadamente 1 alqueire, sendo certo que algumas testemunhas alegaram que a área teria entre 1 e 1,5 alqueires, mas nunca chegando aos pouco mais de 11 hectares sustentados pelos autores/apelantes.
+As informações são compatíveis com a situação local apurada pelo perito, porquanto a área correspondente a 1 alqueire já é bastante suficiente para plantação familiar e criação de poucos animais pelos autores.
+É o que se extrai, inclusive, de todos os conjuntos fotográficos colacionados aos autos, bem como aqueles produzidos pela perícia.
+Destarte, vale ressaltar que o ônus da prova incumbe à parte autora quanto aos atos constitutivos do seu direito, nos termos do art. 373, inciso I, do Código de Processo Civil, o que, no caso, não se deu de forma inconteste em relação a toda a área descrita na inicial, mas, sim, apenas daquela levantada pela prova pericial realizada, corroborada pela prova testemunhal.
+Dessa forma, alterar o entendimento do Tribunal a quo demandaria reexame do acervo probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ. Por conseguinte, é incabível a pretensão recursal que visa rediscutir matéria eminentemente fática já solucionada pelas instâncias ordinárias.
+II - Divergência Jurisprudencial
+Ademais, no que se refere à interposição do recurso pela alínea c do permissivo constitucional, fica prejudicada, tendo em vista os óbice contido na Súmula n. 7 do STJ quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em mais 2% sobre o valor atualizado atribuído à causa, os honorários advocatícios em desfavor da parte ora agravante, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
