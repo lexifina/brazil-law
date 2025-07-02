@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por VITOR HENRIQUE REIS contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão a ssim ementado:
+"APELAÇÃO - Roubo qualificado. Pleito da Defesa para absolvição. Impossibilidade. Suficiência de provas a sustentar a condenação. Inviabilidade do reconhecimento da participação de menor importância. Divisão de tarefas executórias. Configurada coautoria. Condutas essenciais para o sucesso da empreitada criminosa. Penas de Felipe e João adequadas. Penas de Vitor readequadas para fixação da base no mínimo legal. Promoção de único aumento pelas majorantes. Inaplicabilidade. Possibilidade de cumulação das causas de aumento de pena. Regime fechado adequado.
+Recursos de Felipe e João desprovidos. Recurso de Vitor parcialmente provido." (e-STJ, fl. 360).
+A defesa aponta, inicialmente, ofensa ao 386, IV, do Código de Processo Penal, alegando a inexistência de provas para a condenação do recorrente.
+Alternativamente, caso mantida a condenação, alega que deve ser reconhecida a contrariedade ao art. 29, §1º, do Código Penal, pois Vitor não exerceu qualquer controle sobre o desenrolar dos eventos, oferecendo apenas apoio insignificante aos autores principais do crime.
+Por fim, sustenta negativa de vigência ao art. 68, parágrafo único, do Estatuto Repressor, sob o argumento de que a infração não demanda obrigatoriamente um incremento punitivo em duplicidade, exceto quando as circunstâncias adicionais tornam a escolha inevitável e claramente respaldada por um raciocínio jurídico sólido e contextualizado.
+Requer a reforma do acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, para acolhimento das teses defendidas (e-STJ, fls. 398-406).
+Foram apresentadas as contrarrazões (e-STJ, fls. 412-414).
+O recurso foi inadmitido (e-STJ, fls. 417-419). Daí este agravo (e-STJ, fls. 422-428).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial ou, caso conhecido, pelo seu desprovimento (e-STJ, fls. 455-459).
+É o relatório.
+Decido.
+Consoante se verifica dos autos, o réu Vitor Henrique Reis e seus comparsas foram condenados, em segundo grau de jurisdição, pela prática do crime de roubo majorado pelo concurso de agentes e emprego de arma de fogo, tipificado no art. 157, § 2º, II, e § 2º-A, I, do Código Penal. A pena do ora recorrente foi fixada definitivamente em 08 anos, 10 meses e 20 dias de reclusão, no regime inicial fechado, mais 21 dias-multa.
+Inicialmente, cumpre destacar que, de acordo com o que foi apurado nos autos, o recorrente participou ativamente da prática do crime, configurando-se, portanto, a hipótese de coautoria delitiva, na medida em que a função de motorista por ele exercida, dando cobertura aos demais integrantes do grupo, foi fundamental para o sucesso da empreitada criminosa.
+A propósito, confira-se o seguinte trecho do aresto impugnado:
+"O pedido de reconhecimento da participação de menor importância do réu Vitor é inviável, tendo em vista que, tendo sido ele o responsável por conduzir os corréus até o local do assalto e dar-lhes cobertura, sua conduta foi indispensável para o sucesso da empreitada criminosa perpetrada. Assim, inaplicável o disposto no art. 29, §1º, do Código Penal, em favor de Vitor, eis que restou devidamente caracterizada a coautoria e não mera participação de somenos importância, impossibilitando a benesse pretendida pela defesa.
+Nesse sentido:
+(..)
+Desse modo, ainda que não tenha havido reconhecimento, o que é compreensível, pelo fato de que o réu, na divisão de tarefas do grupo, não permaneceu em contato em vítima, tendo sido o responsável por conduzir o veículo e dar cobertura aos comparsas, a prova é suficiente para também sustentar sua condenação.
+Ressalta-se, como bem destacado pela r. sentença, que "os réus Felipe e João Vitor já foram condenados juntos de forma definitiva pela prática de outro crime de roubo, ocorrido no mesmo dia 19/08/2021, conforme se verifica dos autos de nº 1508663-83.2021, dessa mesma Vara e que os três réus juntos também já foram condenados de forma definitiva pelo roubo de um veículo Tiguan, ocorrido em 26 de agosto de 2021, com o mesmo "modus operandi", já que nesse crime eles também se utilizaram do veículo HB20 de Vitor, conforme análise dos autos de nº 1508660-31.2021, dessa mesma vara, o que demostra que eles eram parceiros de crime e se utilizavam do veículo HB20 para cometerem os crimes de roubo." (e-STJ, fls. 368-370, grifou-se).
+Nesse contexto, a alteração do julgado, a fim de absolvê-lo por insuficiência de provas ou reconhecer que sua participação dentro do grupo criminoso seria de menor importância, tal como propugnado pela defesa, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+A corroborar esse entendimento, confiram-se os seguintes julgados:
+" ..
+3. A revisão do entendimento firmado pelas instâncias ordinárias, no sentido de absolver o agravante por insuficiência de provas, demanda, necessariamente, o reexame de provas, providência vedada pela Súmula n. 7/STJ.
+4. "Não há falar em violação do art. 155 do CPP, pois a prova utilizada para a condenação não deriva exclusivamente do inquérito policial, mas das provas que foram ratificadas em juízo sob o crivo do contraditório (AgRg no AREsp n. 917.530/ES, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/12/2017)" (AgRg no REsp 1780991/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/3/2019, DJe 1º/4/2019).
+Omissis.
+7. Agravo regimental desprovido. "(AgRg nos EDcl no AREsp n. 1.667.363/AC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/9/2020, DJe de 9/9/2020.)
+" ..
+1. Rever o entendimento externado pelas instâncias ordinárias para concluir pela insuficiência de provas para a condenação demandaria, necessariamente, o reexame do conjunto fático-probatório, inviável em sede de recurso especial, o que atrai a incidência do óbice da Súmula 7/STJ.
+2. Não é possível ao réu reincidente, mesmo quando favoráveis as circunstâncias judiciais, iniciar o cumprimento da pena privativa de liberdade no regime aberto, sendo hipótese de aplicação da Súmula 269, in verbis: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Omissis.
+4. Agravo regimental improvido." (AgRg no REsp n. 1.499.433/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2015, DJe de 10/9/2015.)
+" ..
+2. Consoante a Corte de origem, o recorrente teve participação fundamental e ativa na ação criminosa, com divisão de tarefas entre o acusado, o adolescente e os demais elementos não identificados, cabendo a cada um a execução de uma atividade importante para a prática do delito. Rever esse entendimento para reconhecer a participação de menor importância, demanda amplo revolvimento do conteúdo fático-probatório dos autos, providência vedada em sede de recurso especial, em razão do óbice do enunciado n. 7 da Súmula desta Corte.
+3. Agravo regimental desprovido."
+(AgRg no AgRg no AREsp n. 2.013.102/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+" ..
+IV. Do mesmo modo, a pretensão de redução da pena pela participação de menor importância encontra óbice no enunciado sumular 7/STJ.
+V. Agravo regimental improvido."
+(AgRg no AREsp 603.158/DF, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO -
+Desembargador convocado do TJ/PE -, QUINTA TURMA, julgado em 17/03/2015, DJe 14/05/2015.)
+Por fim, em relação à alegada negativa de vigência ao art. 68, parágrafo único, do Estatuto Repressor, na terceira fase, verifica-se que a Corte Estadual manteve a aplicação cumulativa das duas frações de aumento previstas no artigo 157, § 2º, II e § 2º-A, I, e exasperou a pena em 1/3 mais 2/3.
+Sobre o tema, a jurisprudência do Supremo Tribunal Federal e desta Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. INTERPRETAÇÃO DO ART. 68, PARÁGRAFO ÚNICO, DO CP. POSSIBILIDADE DE APLICAÇÃO CONCORRENTE DAS CAUSAS DE AUMENTO. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. IMPROCEDÊNCIA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO ABSTRATA. PENA INFERIOR À 8 ANOS. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. APLICAÇÃO DO REGIME SEMIABERTO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A teor do art. 68, parágrafo único, do Código Penal, é possível, de forma concretamente fundamentada, aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais.
+2. Tendo sido o crime de roubo praticado com o efetivo emprego de arma de fogo e ainda mediante concurso de três agentes, correta foi a incidência separada e cumulativa das duas causas de aumento, não havendo manifesta ilegalidade.
+4. Não tendo sido indicado elementos concretos diversos das elementares do delito para a fixação do regime fechado, o agravo deve ser parcialmente provido para a fixação do regime semiaberto, pois a pena-base foi fixada no mínimo legal em face de réu primário e a reprimenda foi definitivamente estabelecida em patamar inferior a oito anos (5 anos e 11 meses e 3 dias de reclusão).
+5. Agravo regimental parcialmente provido, apenas para fixar o regime semiaberto para o cumprimento de pena. " (AgRg no HC 644.572/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 9/3/2021, DJe 15/3/2021, grifou-se);
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES E USO DE ARMA DE FOGO. APLICAÇÃO CUMULATIVA DAS CAUSAS DE AUMENTO DE PENA. CUMULAÇÃO DEVIDAMENTE FUNDAMENTADA. POSSIBILIDADE. ART. 68 DO CÓDIGO PENAL - CP. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A norma penal apontada permite a aplicação cumulativa de causas de aumento de pena previstas na parte especial, desde que o magistrado sentenciante fundamente a necessidade do emprego cumulativo à reprimenda. Precedentes" (AgRg no HC 594.175/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 14/9/2020).
+2. Na hipótese, verifica-se que o Tribunal de origem fundamentou de forma concreta o emprego cumulativo das majorantes previstas no § 2º, inciso II, e no § 2º-A, inciso I, ambos do art. 157 do Código Penal.
+3. Agravo regimental desprovido." (AgRg no HC 558.800/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 2/3/2021, DJe 8/3/2021, grifou- se).
+Conforme se extrai da sentença condenatória, ratificada pela Corte de origem, trata-se de roubo realizado por três indivíduos, e "além deles terem abordado uma mulher, que pela fragilidade, já torna a ação deles mais reprovável, já que além deles serem homens, eles estavam em superioridade numérica, houve o emprego efetivo da arma de fogo, além da ameaça, o que torna a ação do réu ainda mais reprovável" (e- STJ, fl. 293 ).
+Resta justificada, portanto, a aplicação cumulativa das causas de aumento previstas no art. 157, § 2º, II e V e § 2º-A, I, do Código Penal, tendo em vista que as circunstâncias do caso extrapolam a simples descrição das majorantes reconhecidas.
+De fato, as circunstâncias concretas do delito denotam a necessidade de maior resposta penal, em atendimento ao princípio da individualização da pena e, portanto, não se infere ilegalidade no aumento cumulativo aplicado pelas instâncias ordinárias, em razão das duas majorantes do crime de roubo.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo, para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
