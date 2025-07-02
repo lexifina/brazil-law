@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por LUIZ MARCELO DEL NERO PIRES, contra acórdão do Tribunal de Justiça do Estado de São Paulo que não teria cumprido o Tema n. 1.303 do Superior Tribunal de Justiça.
+O reclamante sustenta, em síntese, que o Tema n. 1.303, estabelecido pelo rito dos recursos repetitivos no âmbito deste Tribunal Superior, não teria sido observado pois, embora os autos tenham sido encaminhados ao Ministério Público para o oferecimento de acordo de não persecução penal, este não teria proposto o referido acordo ao argumento de que o réu não confessou o delito (fls. 2-10).
+É o relatório. DECIDO.
+Observo que o reclamante sustenta o descumprimento de tema fixado no rito dos recursos repetitivos. Todavia, o Superior Tribunal de Justiça já consolidou entendimento de que não cabe reclamação para alegar descumprimento de decisões proferidas no âmbito dos recursos especiais submetidos ao rito dos repetitivos. Assim, identifico, de plano, que o pedido não se insere nas hipóteses taxativas de cabimento da reclamação, nos termos do art. 105, inciso I, alínea "f", Constituição Federal, do art. 988 do Código de Processo Civil, e do art. 187, Regimento Interno do Superior Tribunal de Justiça. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. LITISPENDÊNCIA VERIFICADA. IDENTIDADE DE PARTE, CAUSA DE PEDIR E PEDIDO COM A RCL N. 46.920/MT. CONTRARIEDADE A ENTENDIMENTO JURISPRUDENCIAL/TEMA REPETITIVO. HIPÓTESES DE CABIMENTO. AUSÊNCIA. ATUAÇÃO TEMERÁRIA. MANUTENÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. RECURSO NÃO PROVIDO.
+1. Alegação de que não houve litispendência, pois, na primeira reclamação (46.920/MT), o pedido era de aplicação do Tema Repetitivo n. 970; e nesta, de aplicação das teses prolatadas nos apelos nobres que ensejaram o referido tema afastado. Hipótese em que as partes, a causa de pedir e o pedido de ambas as reclamações é igual - aplicação de tese/tema repetitivo ao mesmo caso de origem.
+2. Não é cabível reclamação para compelir os Tribunais de apelação a adequarem decisões judiciais que não tenham seguido o posicionamento majoritário da jurisprudência desta Corte ou tema firmado em julgamento repetitivo. Precedentes.
+3. Cabível a manutenção da multa por litigância de má-fé em virtude da atuação temerária do reclamante, ao manejar duas reclamações idênticas e completamente inadmissíveis, caracterizando abuso do direito de petição.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido." (AgInt na Rcl n. 47.096/MT, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 3/9/2024, DJe de 5/9/2024, grifei)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO DE REPETITIVO. IMPOSSIBILIDADE. RECLAMAÇÃO INDEFERIDA LIMINARMENTE. DECISÃO MANTIDA.
+1. A parte requerente sustenta, em sua reclamação, que a decisão impugnada teria contrariado o Tema Repetitivo n. 525 desta Corte Superior.
+2. A Corte Especial do STJ decidiu que a reclamação constitucional não é "instrumento adequado para o controle da aplicação dos entendimentos firmados pelo STJ em recursos especiais repetitivos" (Rcl 36.476/SP, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 5/2/2020, DJe 6/3/2020).
+3. Agravo interno a que se nega provimento." (AgInt na Rcl n. 47.049/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 18/6/2024, DJe de 21/6/2024.)
+Ante o exposto, indefiro liminarmente a reclamação.
+Publique-se. Intimem-se.
+EMENTA
