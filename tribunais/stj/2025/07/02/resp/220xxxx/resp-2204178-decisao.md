@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por THALES AMBROSIO ARANTES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que, de ofício, alterou a pena restritiva de direitos, substituindo a prestação pecuniária pela prestação de serviços à comunidade, e manteve a condenação do recorrente pelo delito do art. 306 do Código de Trânsito Brasileiro, à pena de 6 (seis) meses de detenção, em regime aberto (fls. 305-309).
+Inconformado, o recorrente interpôs recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação aos arts. 44 e 46 do Código Penal e ao art. 617 do Código de Processo Penal (fls. 316-323).
+Em contrarrazões, o Ministério Público do Estado de Minas Gerais pugna pelo não conhecimento do recurso especial, nos termos da Súmula n. 284, STF (fls. 327-330).
+O Ministério Público Federal opinou pelo desprovimento do recurso especial (fls. 354-356).
+É o relatório. DECIDO.
+A controvérsia reside em determinar se a alteração, de ofício, em recurso exclusivo da defesa, da pena restritiva de direitos acarreta reformatio in pejus.
+Segundo o Tribunal a quo, a prestação pecuniária fixada em sentença, em razão do delito tipificado no art. 306 do Código de Trânsito Brasileiro, deveria ser alterada para prestação de serviços à comunidade, pelos seguintes motivos (fls. 286-288):
+"Não desconheço a previsão do art. 46 do CP, que veda a substituição da pena privativa de liberdade por prestação de serviços à comunidade quando a pena é igual ou inferior a seis meses.
+Ocorre que, em se tratando de sanções restritivas de direitos nos crimes previstos no art. 302 a 312 da Lei nº 9.503/97 (Código de Trânsito Brasileiro), faz-se imperativa a observância ao art. 312-A, do mesmo diploma legal, com redação dada pela Lei nº 13.281/16, segundo o qual, substituída a pena privativa de liberdade, impõe-se a fixação da prestação de serviços à comunidade, inexistindo qualquer restrição ao "quantum" de pena.
+(..)
+Diante disso, com fulcro no princípio da especialidade, de ofício, substituo a pena restritiva de direitos de prestação pecuniária, fixada na r. sentença, pela pena substitutiva de prestação de serviços à comunidade, na forma art. 312-A, do CTB, cujas condições serão fixadas pelo Juiz da Execução.
+Destaco que a referida alteração não enseja em reformatio in pejus, notadamente por se tratar de imposição legal. Ademais, o acusado não possui o direito subjetivo de escolher a pena que lhe convém, cabendo ao julgador, de acordo com sai discricionariedade motivada, eleger a pena substitutiva que melhor se adequa ao caso concreto."
+Com efeito, a definição das penas restritivas de direitos reside no âmbito do poder discricionário do juiz, não sendo facultado ao réu eleger a modalidade que lhe aprouver. Sob essa perspectiva, não houve agravamento da pena imposta ao recorrente, eis que o Tribunal de origem apenas ajustou a sanção em consonância com a legislação de trânsito.
+A propósito:
+"2. O Tribunal de Justiça alterou a pena restritiva de direitos para adequá-la à legislação específica do Código de Trânsito Brasileiro, sem modificar a substituição da pena privativa de liberdade.
+3. A alteração da pena restritiva de direitos não configura reformatio in pejus, pois a substituição da pena privativa de liberdade foi mantida, apenas adequando-se a pena à legislação específica aplicável ao caso. Precedente." (AgRg no HC n. 843.996/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025)
+"4. As penas restritivas de direitos arbitradas em substituição à privativa de liberdade devem ser escolhidas pelo juiz, observado seu poder discricionário, não cabendo ao réu optar por aquela que julgar mais benéfica. Consequentemente, não se vislumbra a ocorrência da reformatio in pejus, uma vez que o Tribunal apenas corrigiu um equívoco na aplicação da pena restritiva de direito, adotando aquela que achou mais adequada à espécie (AgRg no REsp n. 1.792.063/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, DJe 09/04/2019)." (AgRg nos EDcl no AREsp n. 2.111.236/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022)
+Ante o exposto, nos termos do art. 255, § 4º, inciso II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
