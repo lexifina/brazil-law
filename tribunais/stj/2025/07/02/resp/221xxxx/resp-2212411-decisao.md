@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por DINAMARCO, BERALDO & BEDAQUE ADVOCACIA com arrimo nas alíneas "a" e "c" do permissivo constitucional em face de v. acórdão exarado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementado (fls. 889):
+"AGRAVO INTERNO EM APELAÇÃO. SEGUROS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO ACARRETOU EXTINÇÃO DO FEITO EXECUTIVO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. ERRO GROSSEIRO. DECISÃO MONOCRÁTICA.
+1) Trata-se de agravo interno interposto em face da decisão monocrática que não conheceu da apelação da parte autora, forte no art. 932, III, do CPC, por inadmissível, mantendo a r. sentença que acolheu a impugnação ao cumprimento de sentença da parte ré, em que foi reconhecida a possibilidade de cobrança dos valores pagos a menor pelo autor (impugnado).
+2) As razões recursais trazidas no presente agravo interno não trazem argumento novo capaz de modificar o entendimento adotado na decisão agravada, apenas reedita a tese anterior, motivo pelo qual a decisão não merece reparo.
+3) Improcede o recurso interposto.
+AGRAVO INTERNO DESPROVIDO."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 915-919).
+Nas razões do recurso especial (fls. 925-938), DINAMARCO, BERALDO & BEDAQUE ADVOCACIA aponta, preliminarmente, violação ao art. 1.022, do CPC/15, afirmando que o eg. TJ-RS não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a pr eliminar, indica ofensa ao art. 85, § 11, do CPC/15, ao argumento, entre outros, de que o v. acórdão estadual "(..) negou provimento ao agravo interno interposto pelo sr. PAULO SILVEIRA GADRET (sr. PAULO - recorrido), complementado pelo V. acórdão que rejeitou os embargos de declaração opostos pela BRASILSEG e seus patronos (ESCRITÓRIO DINAMARCO - recorrente), os quais deixaram de majorar os honorários recursais advocatícios em favor da ora recorrente" (fls. 927).
+Aduz, também, que "(..) os VV. acórdãos recorridos violaram o § 11º, do art. 85, do Código de Processo Civil, o qual dispõe que o Tribunal majorará os honorários fixados anteriormente na oportunidade do julgamento do recurso. Isto é, a majoração dos honorários não é um poder concedido ao magistrado pela legislação, mas um dever" (fls. 929).
+Não foram apresentadas contrarrazões (vide certidão à fl. 942).
+Admitido o recurso (decisão às fls. 952-954), ascenderam os autos a esta eg. Corte.
+É o relatório. Passo a decidir.
+Com efeito, contra o v. acórdão estadual que negou provimento ao agravo interno, confirmando decisão monocrática que não conheceu da apelação de PAULO SILVEIRA GRADRET, ora Recorrido, o ora Recorrente opôs embargos de declaração, apontando omissão. Das razões postas nos embargos declaratórios, transcreve-se o seguinte trecho (fls. 898-899):
+"No V. acórdão embargado, foi negado provimento ao agravo interno interposto pelo sr. PAULO, para a manutenção do não conhecimento do seu recurso de apelação.
+Contudo, naquela oportunidade, não ho uve a apreciação (omissão) dos embargos de declaração opostos pelo ESCRITÓRIO DINAMARCO no Evento 22, por meio dos quais pleiteou-se o arbitramento de honorários recursais em seu favor, a teor do art. 85, § 11º, do Código de Processo Civil.
+Conforme exposto naqueles primeiros embargos, nos termos da jurisprudência do Col. Superior Tribunal de Justiça e dos EE. Tribunais de Justiça, a majoração dos honorários de sucumbência deve ocorrer mesmo quando o recurso não é conhecido pelo E. Tribunal de Justiça e quando interposto na fase de cumprimento de sentença:
+"Tema n. 1.059: a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento ou limitada a consectários da condenação".1
+"AGRAVO DE INSTRUMENTO - Impugnação ao cumprimento de sentença - Decisão que reconheceu o excesso de execução - Majoração dos honorários advocatícios, em razão da sucumbência recursal, nos termos do art. 85, §11, do CPC - Quantum não fixado - Fixação após o trânsito em julgado - Possibilidade - Inteligência do art. 85, § 18 do CPC - Decisão parcialmente reformada - Recurso parcialmente provido".2
+Assim, pede-se sejam conhecidos e acolhidos estes embargos de declaração, para que sejam devidamente apreciados aqueles opostos no Evento 22 e, por conseguinte, sejam arbitrados honorários recursais em favor do ora embargante." (g. n.)
+Por seu turno, o eg. TJ-RS rejeitou os aclaratórios sem, data venia, se manifestar acerca do pleito de majoração dos honorários advocatícios recursais, como se vislumbra da leitura do acórdão de fls. 915-919.
+Nesse cenário, conclui-se que o eg. Tribunal Estadual não sanou de forma clara e precisa o tema ora destacado, o qual se mostra relevante para a completa prestação jurisdicional e o deslinde do litígio.
+Com efeito, a iterativa jurisprudência desta eg. Corte é no sentido de que fica caracterizada a violação ao art. 1.022 do CPC/15, quando o eg. Tribunal a quo deixa de examinar temas essenciais ao desate da controvérsia, apesar de devidamente provocado em sede de embargos de declaração. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS A ACÓRDÃO PROFERIDO EM APELAÇÃO. OMISSÃO VERIFICADA. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Recurso especial provido."
+(REsp n. 2.005.719/RJ, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 14/2/2023, DJe de 2/3/2023 - g. n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido."
+(AgInt no REsp 1754832/MG, Rel. MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo o recurso especial ser provido para anular o acórdão, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1113795/RS, Rel. MINISTRO ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2018, DJe 15/03/2018 - g. n.)
+Nesse contexto, deve ser reconhecida a violação ao art. 1.022 do CPC/15, o que acarreta a anulação do v. acórdão (fls. 915-919) que julgou os declaratórios (fls. 897-899); e, por consequência, devem os autos retornar ao eg. TJ-SP para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão ora reconhecida.
+Por sua vez, acolhida a alegada ofensa ao art. 1.022 do CPC/15, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+Ante o exposto, com arrimo no art. 255, §4º, III, do RI-STJ, dou parcial provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se.
+EMENTA
