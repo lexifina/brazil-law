@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual SUPORTE SERVIÇOS DE SEGURANÇA LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 245):
+PROCESSUAL CIVIL. DESISTÊNCIA DA AÇÃO. REQUERIMENTO PROTOCOLADO APÓS A CITAÇÃO E A CONTESTAÇÃO. HONORÁRIOS ADVOCATÍCIOS DEVIDOS. APELAÇÃO PROVIDA.
+1. A questão devolvida a esta E. Corte diz respeito à condenação em honorários advocatícios de sucumbência ante a desistência da ação.
+2. O Código de Processo Civil prevê em seu art. 85 que a sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+3. O art. 90, caput, do CPC estabelece que, "proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu".
+4. O Superior Tribunal de Justiça firmou o entendimento de que o autor responde pelo pagamento de honorários advocatícios se o pedido de desistência tiver sido protocolizado após a ocorrência da citação, ainda que em data anterior ao oferecimento da contestação. Precedentes (REsp n. 1.819.876/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 8/10/2021 / AgInt no AREsp n. 1.449.328/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 22/8/2019).
+5. No caso vertente, o pedido de desistência foi protocolado após a citação e ao oferecimento de contestação, de forma que impende condenar a parte autora, ora apelada, em honorários advocatícios de sucumbência.
+6. Sopesados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço no caso dos autos, ficam fixados os honorários devidos nos percentuais mínimos de cada faixa do §3º, respeitado o escalonamento previsto pelo §5º, ambos do art. 85 do CPC.
+7. Apelação provida.
+Os embargos de declaração opostos foram rejeitados (fls. 279/295).
+A parte recorrente alega:
+(i) violação dos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil (CPC), porquanto o acórdão embargado deixou de se manifestar sobre pontos omissos suscitados em embargos de declaração, especificamente quanto aos critérios adotados para fixação dos honorários advocatícios e a ausência dos parâmetros exigidos pelo § 2º e seus incisos do art. 85 do CPC;
+(ii) contrariedade ao princípio da causalidade, pois ambas as partes concordaram com a extinção do feito sem resolução do mérito, sendo que a União Federal manifestou que não necessitava de provimento jurisdicional para resolver a lide, razão pela qual não deveria haver condenação em honorários sucumbenciais;
+(iii) violação do art. 85, § 2º, do CPC, porquanto o resultado da causa trouxe proveito econômico que deveria ter sido considerado como base de cálculo para os honorários advocatícios, ao invés da aplicação de critério inadequado (páginas 14-17);
+(iv) ofensa aos princípios da equidade e proporcionalidade, uma vez que o valor fixado para honorários advocatícios mostra-se excessivo diante das peculiaridades do caso, devendo ser observado o patamar máximo de R$ 2.000,00 considerando a realidade dos autos e eventual dificuldade financeira.
+Requer o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 333/340).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de ação de repetição de indébito proposta por empresa de segurança privada para reaver valores de tributos federais supostamente recolhidos indevidamente. A União foi citada e apresentou contestação. Posteriormente, a autora requereu a desistência da ação. A controvérsia gira em torno da fixação de honorários advocatícios de sucumbência diante da desistência após a contestação. A União apelou para obter a condenação da autora ao pagamento dos honorários.
+O Tribunal de origem, ao debater a questão, decidiu (fls. 238/242):
+A questão devolvida a esta E. Corte diz respeito à condenação em honorários advocatícios de sucumbência ante a desistência da ação.
+O Código de Processo Civil prevê em seu art. 85 que a sentença condenará o vencido a pagar honorários ao advogado do vencedor:
+ ..
+O art. 90, caput, do CPC estabelece que, "proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu".
+O Superior Tribunal de Justiça firmou o entendimento de que o autor responde pelo pagamento de honorários advocatícios se o pedido de desistência tiver sido protocolizado após a ocorrência da citação, ainda que em data anterior ao oferecimento da contestação. Confira-se:
+ ..
+No caso vertente, o pedido de desistência foi protocolado após a citação e ao oferecimento de contestação, de forma que impende condenar a parte autora, ora apelada, em honorários advocatícios de sucumbência.
+Sopesados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço no caso dos autos, fixo os honorários devidos nos percentuais mínimos de cada faixa do §3º, respeitado o escalonamento previsto pelo §5º, ambos do art. 85 do CPC.
+A parte recorrente opôs embargos de declaração na origem alegando omissão quanto:
+(i) ao enfrentamento de todas as teses suscitadas pela embargante em contrarrazões, especificamente sobre o princípio da causalidade e a extinção por comportamento comum aos litigantes, configurando ausência de cumprimento integral da prestação jurisdicional;
+(ii) ao fato de que a União Federal manifestou em contestação seu interesse também pela extinção do processo sem resolução do mérito, consignando que não discordava do pedido de desistência e que não existia pretensão resistida, não necessitando de provimento jurisdicional para a obtenção da repetição tributária;
+(iii) à análise do princípio da causalidade, uma vez que ambas as partes concordaram com a extinção, e a própria União confessou que não ia pagar os valores devidos em razão do fluxo de pagamento de seus débitos, sendo a causação da extinção decorrente de comportamentos comuns aos litigantes;
+(iv) à aplicação do princípio da equidade e proporcionalidade na fixação dos honorários advocatícios, considerando que o processo tramitou por meio eletrônico, não houve audiências nem dilação probatória, devendo ser observados os critérios estabelecidos no art. 85, § 2º e incisos, do Código de Processo Civil (CPC);
+(v) ao patamar mínimo de honorários no valor máximo de R$ 2.000,00, diante da realidade dos autos e da dificuldade financeira da recorrida, questão que havia sido consignada em contrarrazões.
+Ao apreciar o recurso integrativo, o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO decidiu o seguinte (fl. 288):
+A decisão embargada tratou de forma suficientemente clara a matéria suscitada nos presentes embargos de declaração. Reconheceu que "o art. 90, do caput CPC estabelece que, "proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu", que "no caso vertente, o pedido de desistência foi protocolado após a citação e oferecimento de contestação, de forma que impende condenar a parte autora, ora apelada, em honorários advocatícios de sucumbência", nos termos do que prevê a jurisprudência do STJ (itens 3 a 5 da ementa).
+Não se vislumbra, portanto, omissão na decisão embargada, mas mero inconformismo da parte embargante, o que extrapola o escopo dos embargos de declaração.
+Desde logo, cumpre asseverar que o escopo de prequestionar a matéria para efeito de interposição de recurso especial ou extraordinário perde a relevância, em sede de embargos de declaração, se não demonstrada a ocorrência de qualquer das hipóteses previstas no artigo 1.022 do Código de Processo Civil.
+O Tribunal de origem entendeu que não há omissão a ser sanada, pois a decisão embargada tratou de forma clara e suficiente da matéria, fundamentando a condenação em honorários com base n o art. 90 do Código de Processo Civil, em razão de o pedido de desistência ter sido protocolado após a citação e a contestação, conforme jurisprudência do Superior Tribunal de Justiça. Considerou que os embargos revelam apenas inconformismo da parte embargante.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+O Tribunal de origem entendeu, com base nos autos, que, "no caso vertente, o pedido de desistência foi protocolado após a citação e ao oferecimento de contestação, de forma que impende condenar a parte autora, ora apelada, em honorários advocatícios de sucumbência" (fl. 242).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Agravo interno interposto contra decisão que não conheceu de recurso especial, sob o fundamento de que a revisão dos critérios para a fixação, à luz da causalidade, dos honorários advocatícios demandaria o reexame do contexto fático-probatório, inviável em razão da Súmula n. 7 do STJ.
+2. A decisão impugnada deve ser mantida, pois não destoa da jurisprudência do Superior Tribunal de Justiça, no sentido de que a via do recurso especial não se revela adequada à revisão de fatos e provas, não sendo, por isso, própria para a aferição da culpa pelo ajuizamento indevido da ação judicial para o fim de observar o princípio da causalidade. Precedentes da 1ª Seção.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.578.214/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CITAÇÃO E OS EMBARGOS DO RÉU. AÇÃO. DESISTÊNCIA POSTERIOR. REVISÃO. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. SÚMULA Nº 568/STJ.
+1. Na hipótese, rever o entendimento da Corte local, no sentido de que a parte autora desistiu da ação somente após a citação e os embargos do réu demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+2. O autor responde pelo pagamento de honorários advocatícios se o pedido de desistência tiver sido protocolizado após a ocorrência da citação, ainda que em data anterior ao oferecimento da contestação.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.250.636/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Tendo o Tribunal de origem verificado que o pedido de desistência foi protocolado após a citação, concluiu corretamente pela condenação da parte autora ao pagamento de honorários advocatícios de sucumbência, nos termos do art. 90 do Código de Processo Civil. Tal entendimento está em plena consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual é devida a verba honorária nessa hipótese, independentemente de a desistência anteceder a contestação.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE FALÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. HONORÁRIOS SUCUMBENCIAIS. DESISTÊNCIA DA AÇÃO. PRINCÍPIO DA CAUSALIDADE. JURISPRUDÊNCIA DO STJ.
+1. Ação de Falência.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Segundo a jurisprudência do STJ, o autor responde pelo pagamento de honorários advocatícios se o pedido de desistência tiver sido protocolizado após a ocorrência da citação, ainda que em data anterior ao oferecimento da contestação. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.517.198/BA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE REMUNERATÓRIO. DESISTÊNCIA DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+I - Na origem, trata-se de ação ajuizada contra o Estado do Maranhão objetivando reajuste remuneratório com base na Revisão Anual da Remuneração dos Servidores Estaduais.
+II - Na sentença, homologou-se o pedido de desistência da ação, fixando os honorários advocatícios em 20% sobre o valor da causa. No Tribunal a quo, a sentença foi parcialmente reforma, apenas para reduzir o percentual arbitrado a título de honorários advocatícios, para 10% sobre o valor atualizado da causa, a teor do art. 85, § 2º, do CPC. Esta Corte negou provimento ao recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, uma vez angularizada a relação processual, deve incidir os honorários advocatícios, pelo trabalho exercido pelo advogado da parte adversa.
+IV - O acórdão recorrido, que reformou a sentença, expressamente consignou que o pedido de desistência só ocorreu após a juntada da petição de contestação pelo Estado do Maranhão.
+V - Essa foi a conclusão do Tribunal de origem a respeito do momento processual em que foi pedida a desistência: "In casu, tão logo ajuizada a ação, foi proferido despacho suspendendo a tramitação do feito, em razão da decisão emitida nos autos do IRDR n.º 17.015/2016 (Id5593929). Ato contínuo, com o julgamento definitivo do referido incidente, a juíza monocrática ordenou a intimação das partes para manifestação, oportunidade em que, dando-se por citado, o ente federativo acabou apresentando contestação (Id 5593934) e somente quase 01 (um) mês após é que o recorrente peticionou nos autos requerendo a desistência da ação originária (Id5593935)." Nesse sentido: (AgInt no REsp n. 1.937.332/TO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/3/2022, DJe 30/3/2022 e REsp n. 1.819.876/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/10/2021, DJe 8/10/2021).
+VI - Agravo interno improvido.
+(AgInt no AgInt no REsp n. 1.905.541/MA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+Quanto à fixação dos honorários, a Corte Federal assim entendeu (fl. 242):
+Sopesados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço no caso dos autos, fixo os honorários devidos nos percentuais mínimos de cada faixa do §3º, respeitado o escalonamento previsto pelo §5º, ambos do art. 85 do CPC.
+A revisão da fixação dos honorários demandaria o reexame das circunstâncias específicas do caso, como do grau de zelo profissional, da natureza da causa e do trabalho realizado, critérios expressamente analisados pelo Tribunal de origem. Assim, incide o óbice da Súmula 7 do STJ, que veda a rediscussão de matéria fático-probatória em recurso especial.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. OBSERVÂNCIA DOS PARÂMETROS LEGAIS. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. No caso dos autos, a Corte de origem concluiu que a recorrente foi devidamente intimada para a apresentação da impugnação à contestação, bem como para a especificação de provas, na audiência de conciliação, não havendo que se falar em cerceamento de defesa. A modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. O entendimento desta Corte Superior é de que somente se admite o exame do quantum fixado a título de honorários advocatícios, em sede de recurso especial, quando for verificada a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu no caso dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.823.821/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/5/2025, DJEN de 5/6/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. REVISÃO. POSSIBILIDADE.
+1. Em regra, é inviável, em sede de recurso especial, a revisão do critério adotado pelo Tribunal de origem na fixação dos honorários advocatícios, tendo em vista a necessidade de exame de matéria fático-probatória, o que é vedado nos termos da Súmula 7 do STJ.
+2. Somente em hipóteses excepcionais, em que a fixação se mostra irrisória ou exorbitante, é possível a revisão do valor fixado, consoante reiterada jurisprudência desta Corte.
+3. As circunstâncias do caso concreto - o valor atribuído à causa, o tempo de duração do processo, o trabalho efetuado pelo causídico, a natureza e importância da causa - revelam ser irrisória a quantia fixada pelo Tribunal de origem a título de honorários advocatícios, impondo-se a sua majoração.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.156.908/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
