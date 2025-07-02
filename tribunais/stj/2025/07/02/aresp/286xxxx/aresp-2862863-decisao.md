@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KAMILLY KAMIL HAZIME contra decisão exarada pela il. Vice-Presidência do eg. Tribunal de Justiça do Estado de Mato Grosso do Sul (TJ-MS), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão assim ementado (fls. 91):
+"EMENTA - AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - INDEFERIMENTO DA JUSTIÇA GRATUITA - MANTIDO - AUSÊNCIA DE REQUISITOS - ELEMENTOS DOS AUTOS QUE AFASTAM ALEGAÇÃO DE HIPOSSUFICIÊNCIA FINANCEIRA - RECURSO CONHECIDO E DESPROVIDO. 1. Apesar da agravante alegar que a hipossuficiencia do menor de idade é presumida, pelo que consta dos autos a autora já completou a maioridade. 2. Levando-se em conta que a agravante relatou na inicial que estuda em Cambridge Arts, Technology & Science Academy in Boston - Cats Boston e apenas passa férias no Brasil além da situação apresentada envolver a aquisição das passagens aéreas internacionais, não há como presumir a alegada hipossuficiência, de modo que entendimento contrário ensejaria em banalização do instituto da assistência judiciária gratuita, possibilitando que pessoas abastadas financeiramente acabem por usufruir benesse direcionada àqueles que dela realmente necessitam.3. Assim, não preenchidos os requisitos para concessão da justiça gratuita, o indeferimento do benefício deve ser mantido."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 121-125).
+Nas razões do apelo nobre (fls. 131-141), KAMILLY KAMIL HAZIME aponta, além de divergência jurisprudencial, violação ao art. 99, §§ 2º e 6º, do CPC/15, ao argumento, entre outros, de que "(..) a situação econômica do recorrente, não pode ser confundida com a de seus representantes legais. Portanto, sendo demonstrado que o recorrente na data da propositura da ação e do indeferimento da justiça gratuita, era menor sem renda própria, faz jus ao benefício da justiça gratuita, pois o benefício é personalíssimo" (fls. 135).
+Aduz, também, que a "(..) decisão recorrida nega vigência ao artigo 99 do Código de Processo Civil ao deixar de aplicá-lo (s) no caso concreto, ignorando por completo as suas disposições legais na medida que é incontroverso nos autos que a recorrente, na data do indeferimento da justiça gratuita era menor de idade sem renda própria" (fls. 136 - destaques no original).
+Não foram apresentadas contrarrazões (vide certidão à fl. 168).
+O apelo nobre foi inadmitido o apelo (decisão às fls. 170-180), motivando o agravo em recurso especial (fls. 182-188) em testilha.
+Tampouco foi oferecida contraminuta (vide certidão à fl. 192).
+É o relatório. Passo a decidir.
+Sobre o tema, oportuno consignar que em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o singelo requerimento para concessão da assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+No caso em testilha, o eg. TJ-MS, com arrimo no acervo fático-probatório carreado aos autos, concluiu que "(..) havendo nos autos elementos que afastam a alegada hipossuficiência financeira, a manutenção do indeferido da gratuidade é medida que se impõe". A titulo alucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 93-95):
+"Kamilly Kamil Hazime, representada por seu genitor, Kamil Kalil Hazime, interpõe agravo de instrumento em face da decisão que indeferiu o pedido de justiça gratuita e determinou o recolhimento do preparo em 15 dias, sob pena de cancelamento na distribuição, proferida nos autos da Ação de Indenização por Danos Morais que ajuizou em desfavor de Azul Linhas Aéreas Brasileiras S/A, onde alega que a hipossuficiência de menor de idade sem renda é presumida, haja vista o caráter personalíssimo do benefício. Pugna pela concessão de tutela antecipada recursal para a concessão da justiça gratuita e, ao final, o provimento do recurso, com a reforma da decisão agravada.
+Pois bem.
+Dispõe o art. 99 do CPC:
+"Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.
+(..)§ 3º Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural."
+Logo, presume-se verdadeira a declaração de pobreza, no entanto, havendo elementos em contrário e oportunizada a prova, o juízo pode indeferir a gratuidade. Aliás, com base no que dispõe o artigo 5º, inciso LXXIV, da Constituição Federal de 1988, esta Corte também vem admitindo, em inúmeros julgados, que os benefícios da justiça gratuita somente podem ser deferidos àqueles que comprovarem a insuficiência de recursos. Nessa esteira, a simples afirmação da parte, desacompanhada de documento idôneo a comprovar insuficiência de recursos, pode ser insuficiente à concessão do benefício, se houver elementos nos autos a demonstrar o contrário.
+Esse é o entendimento que venho adotando, pois a assistência judiciária só deve ser concedida àqueles que efetivamente fazem jus ao benefício.
+Feitas essas considerações, passo ao exame do pedido postulado no presente recurso agravo de instrumento.
+Ao ser indeferido pedido de gratuidade judicial, o juiz "a quo" destacou:
+"(..) não obstante a solicitação da parte autora, não existem evidências consistentes da sua alegada situação de pobreza, motivo pelo qual indefiro o pedido de justiça gratuita formulado na inicial e determino a intimação da parte demandante, por seu advogado, via D Je, para efetuar o recolhimento das custas iniciais, no prazo de 15 (quinze) dias, sob pena de cancelamento da distribuição, ex vi do artigo 290 do Código de Processo Civil." (f.68 de origem).
+Pelo que se vislumbra dos autos de origem, a agravante ingressou com Ação de Indenização por Danos Morais em face de Azul Linhas Aéreas Brasileiras S/A, em razão de ter sido impedida de viajar para os Estados Unidos mesmo estando com toda documentação necessária. Apesar de alegar que a hipossuficiencia do menor de idade é presumida, pelo que consta dos autos a autora já completou a maioridade (f. 17). Afora isso relatou na inicial que estuda em Cambridge Arts, Technology & Science Academy in Boston - Cats Boston e apenas passa férias no Brasil.
+É bem verdade que o benefício da gratuidade é de natureza pessoal não podendo ser transmitido a terceiro. Todavia, o parágrafo 2º do art. 99, do CPC, faculta a possibilidade do seu indeferimento quando houver elementos que evidenciem que o requerente não faz jus ao benefício.
+Assim, considerando os elementos dos autos, tem-se que o pagamento do preparo recursal, necessariamente não implicará em prejuízo à subsistência da autora e muito menos da sua família.
+Entendimento contrário ensejaria em banalização do instituto da assistência judiciária gratuita, possibilitando que pessoas abastadas financeiramente acabem por usufruir benesse direcionada àqueles que dela realmente necessitam.
+(..)
+Consequentemente, havendo nos autos elementos que afastam a alegada hipossuficiência financeira, a manutenção do indeferido da gratuidade é medida que se impõe
+. Ante o exposto, conheço e nego provimento ao presente recurso de agravo de instrumento, restando mantida a decisão agravada." (g. n.)
+Nesse contexto, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, sob alegada violação ao art. 99, §§ 2º e 6º, do CPC/15, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula n.7/STJ. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. SÚMULAS N. 7 DO STJ.
+1. "O pedido de justiça gratuita pode ser formulado em qualquer momento do processo. Para fins de concessão, há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo sem comprometer o próprio sustento ou de sua família, podendo o magistrado indeferir o pedido apenas se encontrar elementos que infirmem a alegada hipossuficiência (CPC/2015, arts. 98 e 99)" (AgInt no AREsp 1791835/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2021, DJe 18/06/2021).
+2. "Se não verificar a presença dos pressupostos legais, pode o julgador indeferir o pedido de gratuidade, após dispensar à parte oportunidade de apresentação de documentos comprobatórios (art. 99, § 2º, do CPC/15)" (REsp 1837398/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/05/2021, DJe 31/05/2021).
+3. Na hipótese, o magistrado de piso e o Tribunal de origem, com base na análise das circunstâncias do caso, rejeitaram a concessão do benefício da justiça gratuita. Entender de forma diversa demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súm 7 do STJ.
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.610.443/RS, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. REQUISITOS. COMPROVAÇÃO. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. IMPUGNAÇÃO AO BENEFÍCIO. CAPACIDADE. ÔNUS DO IMPUGNANTE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela recorrente quanto à ausência de demonstração pela agravada dos requisitos para a concessão da assistência judiciária gratuita demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+3. "Além disso, na hipótese de impugnação do deferimento da assistência judiciária gratuita, cabe ao impugnante comprovar a ausência dos requisitos legais para a concessão do benefício, ônus do qual não se incumbiu a parte ora agravante, segundo assentado pelo acórdão recorrido. Incidência da Súmula 83 do STJ" (AgInt no AREsp 1023791/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/03/2017, DJe 29/03/2017).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.115.603/RJ, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 10/10/2017, DJe de 17/10/2017 - g. n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nesse sentido, destacam-se :
+"DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA QUESTÃO FEDERAL. SÚMULA 83/STJ. APLICABILIDADE. AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. (..). AGRAVO INTERNO IMPROVIDO.
+(..)
+2. A Súmula 83 do STJ é aplicável ao recurso especial interposto tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Precedentes.
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.798.907/RJ, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 21/10/2024, DJe de 4/11/2024 - g. n.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 2.257.915/CE, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. COTAS CONDOMINIAIS. EXECUÇÃO. NATUREZA PROPTER REM. BEM PENHORADO. POSSIBILIDADE. PROMITENTE-VENDEDOR. TRIBUNAL DE ORIGEM SE FIRMOU NO MESMO SENTIDO. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83 do STJ), entendimento aplicável tanto para a hipótese da alínea "c" do art. 105, III, da Constituição Federal, como da alínea "a" do mesmo dispositivo.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.170.815/PR, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
