@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDVALDO DE JESUS SILVA contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente foi condenado em primeiro grau de jurisdição pelo Tribunal do Júri da Comarca de Santos/SP como incurso no art. 121, § 2º, I e IV, do Código Penal, à pena de 12 anos de reclusão em regime inicial fechado, sendo-lhe concedido o direito de recorrer em liberdade.
+Alega que a decisão monocrática deferiu pedido liminar formulado pelo Ministério Público para decretar a imediata segregação do paciente, iniciando o cumprimento provisório da pena, mesmo sem trânsito em julgado da condenação.
+Sustenta que a aplicação do Tema n. 1.068/STF, que autoriza a execução imediata de condenação imposta pelo Júri, não deve retroagir para prejudicar o paciente, pois os fatos ocorreram em 3 de setembro de 2017, antes do julgamento do referido tema pelo STF.
+Afirma que a prisão decretada configura constrangimento ilegal, uma vez que o paciente sempre respondeu em liberdade e possui endereço fixo e atividade regular, não havendo necessidade de custódia cautelar.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 87-89.
+Informações prestadas às fls. 91-97.
+O Ministério Público Federal em parecer, às fls. 102-105, manifestou-se pela denegação da ordem.
+É  o  relatório. DECIDO.
+Na presente hipótese dos autos, destacou a corte de origem que "a prisão de réu condenado por decisão do Tribunal do Júri, ainda que sujeita a recurso, não viola o princípio constitucional da presunção de inocência ou da não culpabilidade" - fl. 79.
+Com efeito, o Supremo Tribunal Federal, por maioria, apreciando o tema 1.068 de repercussão geral, no RE 1.235.340/SC, Tribunal Pleno, Rel. Min. Luís Roberto Barroso, em 12.09.2024, se posicionou no sentido de que a execução provisória da pena é plenamente constitucional e encontra respaldo na soberania dos veredictos do Tribunal do Júri.
+Por oportuno, trago a ementa do julgado:
+ ..  a) conheceu do recurso extraordinário e deu-lhe provimento para negar provimento ao recurso ordinário em habeas corpus e considerar que, neste caso específico, é possível a prisão imediata do acusado; (b) deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados. Por arrastamento, excluiu do § 4º e do § 5º, inciso II, do mesmo art. 492 do CPP, a referência ao limite de 15 anos; e (c) fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada." ..
+No mesmo sentido, cito os seguintes precedentes desta Corte Superior de Justiça:
+"A execução provisória da pena foi considerada legal, conforme a tese firmada pelo Supremo Tribunal Federal no tema 1.068 de repercussão geral, o que autoriza a imediata execução de condenação imposta pelo Tribunal do Júri" (AgRg no AREsp n. 2.718.332/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 28/4/2025).
+"A execução provisória da pena foi considerada legal, conforme a tese firmada pelo Supremo Tribunal Federal no tema 1.068 de repercussão geral, que autoriza a imediata execução de condenação imposta pelo Tribunal do Júri.
+A revisão do que foi decidido pelas instâncias ordinárias demandaria revolvimento de matéria fático-probatória, o que é vedado na via do habeas corpus" (AgRg no RHC n. 210.905/PE, de minha relatoria, Quinta Turma, DJEN de 2/4/2025.)
+Ademais, é admitida a execução provisória da pena mesmo para fatos anteriores à vigência da Lei n. 13.964/2019, não incidindo violação ao princípio da irretroatividade da lei penal mais gravosa, haja vista, que a ausência de modulação temporal dos efeitos da decisão da Suprema Corte permite a aplicação imediata da execução provisória da pena.
+A propósito, trago os seguintes precedentes:
+"No julgamento do HC n. 930.933/RS, foi consignado que o caso está sujeito à aplicação do Tema n. 1.068, de repercussão geral, que autoriza a execução provisória da pena após condenação pelo Tribunal do Júri.
+Ademais, a alegação de retroatividade de normas penais prejudiciais não se sustenta, pois o STF não fez diferenciação temporal para a aplicação do Tema n. 1.068. Isso porque o caso julgado em repercussão geral pela Suprema Corte referiu-se a crime ocorrido em 11/8/2016, com sentença do Tribunal do Júri datada de 30/11/2018, ou seja, ambos anteriores à Lei n. 13.964/2019, o que indica que a época da ocorrência dos fatos não influencia a execução provisória da sentença condenatória em casos do Tribunal do Júri" (AgRg no HC n. 972.605/RS, relator Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025.)
+"O Supremo Tribunal Federal no julgamento do RE n. 1.235.340/SC, que teve sua repercussão geral reconhecida no Tema n. 1.068 estabeleceu a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada."
+Entendimentos recentes do STF e do STJ admitem a execução provisória da pena mesmo para fatos anteriores à vigência da Lei n. 13.964/2019, sem que isso viole o princípio da irretroatividade da lei penal mais gravosa. Isto porque a ausência de modulação temporal dos efeitos da decisão do STF permite a aplicação imediata da execução provisória da pena" (AgRg no HC n. 985.904/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 20/5/2025.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
