@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PETRONIO FURTADO CLEMENS, em face de decisão monocrática da lavra deste signatário, acostada às fls. 698-704 (e-STJ), que negou provimento ao reclamo em razão da incidência das Súmulas 283 e 284 do STF.
+Irresignado, o ora embargante sustenta, em síntese, omissão quanto à tese de preclusão temporal.
+Sem impugnação.
+É o relatório.
+Decido.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado da decisão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes.
+4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+Com efeito, não há qualquer omissão ou contradição a ser sanada.
+A decisão embargada foi suficientemente clara nas suas razões ao negar provimento ao recurso em razão da incidência das Súmulas 283/STF e 284/STF.
+Assim constou da decisão ora embargada (e-STJ, fl. 698-704):
+2. Consoante se denota das razões recursais, o recorrente sustenta que os embargos de declaração opostos por uma das partes não interrompem ou suspendem o prazo que a outra dispõe para embargar a mesma decisão, pois o prazo para recorrer é comum entre elas.
+Todavia, da leitura do acórdão recorrido, constata-se que o Tribunal de origem asseverou ter havido a oposição de tempestivos embargos de declaração por ambas as partes, de forma sucessiva.
+Assim constou do acórdão (fl. 524-531, e-STJ):
+Outrossim, no tocante à preliminar de não conhecimento do agravo em decorrência da preclusão a acobertar a decisão arrostada, a arguição tampouco comporta acolhida. Quanto ao ponto, arguira o agravado que o agravante não opusera embargos de declaração em face da decisão que almeja ver reformada, somente aviando pretensão aclaratória da decisão posterior, que resolvera os embargos opostos pelo executado, ensejando que a decisão primeiramente embargada estaria preclusa em relação ao ora recorrente. Essa apreensão dissente dos regramentos inerentes ao devido processo legal, pois preclusão somente ocorre quando transcorrido o prazo recursal, por óbvio, para ambos os litigantes.
+(..)
+É que, havendo o agravado oposto tempestivos embargos de declaração em face da decisão originalmente editada, os quais restaram parcialmente acolhidos, sobrevindo, em seguida, atempada interposição de embargos de declaração pelo agravante, deflui inexorável a inocorrência da preclusão aventada, defronte a interrupção de prazo deflagrada por ambos os aclaratórios aviados, na forma da previsão contida no artigo 1.026, caput, do estatuto processual 9 . E preclusão, conforme mencionado, somente ocorreria se decorridos os prazos recursais, jamais em situação em que houvera sua interrupção e, ademais, alteração do provimento originalmente editado.
+(..)
+Dessarte, descabido cogitar-se de preclusão a recobrir a decisão que fixara os parâmetros a serem observados para confecção dos cálculos referentes ao crédito exequendo e, ademais, afastara a incidência dos encargos previstos no artigo 523, § 1º, do estatuto processual, diante da tempestiva oposição de embargos de declaração por ambas as partes de forma sucessiva.
+Ademais, assim constou do acórdão que julgou os embargos de declaração (e-STJ, fl. 595):
+Consoante emerge do alinhado, o embargante, não satisfeito com o provimento do agravo de instrumento que interpusera o embargado, aviara embargos de declaração com o manifesto objetivo de rediscutir a causa, e não de complementar o julgado mediante a eliminação dos vícios que eventualmente o permeariam e são passíveis de serem sanados através da via declaratória. Ora, cotejando-o detidamente infere-se que o julgado cuja declaração é almejada não padece das omissões que lhe foram imputadas.
+Consoante se afere do nele estampado textualmente após detido exame da matéria controvertida, elucidara específica e detalhadamente todas as questões reprisadas e reputadas relevantes para elucidação da matéria controversa, esclarecendo, à luz da legislação e da jurisprudência aplicáveis à espécie e do contexto fático estampado nos autos, a inexistência de preclusão a acobertar a decisão originalmente guerreada, destacando que, em face da decisão primeva que versara aceca dos parâmetros a serem observados para confecção dos cálculos referentes ao crédito exequendo, foram opostos tempestivos embargos de declaração, que restaram acolhidos em parte, seguidos de novos aclaratórios, ensejando a interrupção do prazo para o aviamento do agravo de instrumento.
+Desse modo, a discussão travada no acórdão não perpassa a tese de oposição de embargos por uma parte e interrupção do prazo que a outra dispõe para embargar a mesma decisão. Conforme se extrai do acórdão, o que houve foi a interrupção de prazo deflagrada por ambos os aclaratórios aviados.
+Desse modo, tendo em vista a falta de impugnação específica ao principal fundamento do acórdão e a apresentação de razões dissociadas do que foi decidido pela Corte estadual, a pretensão reformatória encontra obstáculo nas Súmulas n. 283 e 284 do STF.
+Deste modo, não se vislumbrando quaisquer das máculas do artigo 1.022 do CPC/15, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, é de rigor a rejeição do apelo.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
