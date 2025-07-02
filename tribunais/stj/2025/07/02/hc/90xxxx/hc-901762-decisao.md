@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de WLADNILSON DOS SANTOS apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2050947-87.2024.8.26.0000).
+No presente writ, a defesa informa, na exordial, que o ora paciente foi preso preventivamente pela suposta prática das condutas descritas nos arts. 1º e 2º, §2º, ambos da Lei n. 12.850/2013, no bojo da operação "Sicário".
+Alega que, objetivando a anulação das provas, em razão da nulidade da busca e apreensão realizada no endereço do ora paciente, a defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo.
+Afirma que, entretanto, tal habeas corpus não foi julgado pela Corte paulista.
+No mérito, a defesa sustenta a "nulidade da busca domiciliar levada a efeito pela Polícia Militar de Londrina/PR, uma vez que os milicianos realizaram a diligência em endereço não acobertado pelo mandado de busca e apreensão expedido pelo Douto Juízo da 3ª Vara Criminal da Comarca de Londrina/PR (imóvel situado na Rua Cuiabá, nº 631 -Portuguesa -Londrina/PR)" (e-STJ fl. 4).
+Assevera que, dada tal nulidade da diligência de busca, as provas obtidas são ilícitas, assim como tudo o que delas derivaram, razão pela qual deve haver a exclusão de todos os elementos informativos angariados no feito de origem.
+Aduz que o ingresso dos policiais na residência do paciente, sem mandado judicial para o endereço específico, caracteriza verdadeira violação de domicílio, medida ilegal e que contamina, por derivação, todas as provas obtidas a partir de tal procedimento nulo, como a apreensão do aparelho telefônico em que supostamente se encontrou conversas demonstrando a participação do paciente na organização criminosa; bem como a prisão e a eventual condenação levadas a efeito com fundamento em tais provas.
+Conclui que "houve nulidade absoluta ocorrida na busca domiciliar, tendo contaminado TODA a materialidade delitiva (uma vez que o aparelho celular somente foi localizado em decorrência da ilegal busca domiciliar levada a efeito pelos agentes estatais), não havendo qualquer outra prova independente que permita o prosseguimento do feito, sendo de rigor o TRANCAMENTO DA AÇÃO PENAL, haja vista que calcada única e exclusivamente em PROVA ILÍCITA" (e-STJ fl. 22).
+Assim, requereu "a concessão da liminar para SOBRESTAR A AÇÃO PENAL ATÉ O JULGAMENTO DO MÉRITO DA PRESENTE AÇÃO MANDAMENTAL ou, subsidiariamente, para DETERMINAR ao Tribunal de Justiça do Estado de São Paulo que aprecie a matéria ventilada no bojo do habeas corpus de origem (processo nº 2050947-87.2024.8.26.0000), sob pena de vilipêndio ao princípio constitucional da inafastabilidade de jurisdição (ex vi, artigo 5º, inciso XXXV, da Constituição da República)" (e-STJ fls. 23/24).
+Subsidiariamente, caso não se entendesse pelo julgamento in limine do habeas corpus, pugnou "seja DETERMINADA a APRECIAÇÃO do habeas corpus de origem nº 2050947-87.2024.8.26.0000 pela Colenda Corte Paulista, à guisa de sanar o manifesto constrangimento ilegal imposto ao paciente, haja vista o flagrante vilipêndio ao princípio constitucional da inafastabilidade de jurisdição (ex vi, artigo 5º, inciso XXXV, da Constituição da República)" (e-STJ fl. 25).
+O presente habeas corpus foi indeferido liminarmente em razão de sua instrução deficitária, conforme decisão de e-STJ fls. 7818/7821.
+Posteriormente, houve pedido de reconsideração da decisão anterior, que foi indeferido, conforme decisão de e-STJ fls. 7834/7837.
+O pedido de reconsideração foi reiterado pelos impetrantes, obtendo eles êxito, visto que reconsiderei o indeferimento liminar do presente habeas corpus, em decisão de e-STJ fls. 7860/7862. Na mesma oportunidade, indeferi a liminar.
+Parecer do Ministério Público Federal em e-STJ fls. 7932/7936.
+É relatório.
+Decido.
+Este Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando à garantia não apenas do curso natural das ações ou revisões criminais, mas, também, da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção. Tal entendimento deve ser aplicado, inclusive, para as hipóteses de cabimento do recurso ordinário constitucional relacionado ao habeas corpus, privilegiando-se, assim, a sistemática recursal prevista constitucionalmente.
+O artigo 105, II, "a" da Constituição do Brasil prevê as seguintes hipóteses de cabimento do referido recurso ordinário:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+(..)
+II - julgar, em recurso ordinário:
+a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
+(..)
+Assim, quando cabível o mencionado recurso constitucional, a jurisprudência desta Corte Superior não vem aceitando a impetração substitutiva de novo writ, conforme se verifica do precedente abaixo, cujo trecho do inteiro teor do acórdão ora transcrevo:
+(..)
+Conforme exposto, o writ não foi conhecido uma vez que, de acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal. Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+(..)
+(AgRg no HC n. 916.814/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Portanto, considerando que a presente impetração decorre de anterior denegação de ordem em habeas corpus por Tribunal Estadual, qual seja, o Egrégio Tribunal de Justiça do Estado de São Paulo, verifica-se que se trata o presente writ de habeas corpus manejado em substituição ao recurso ordinário constitucional cabível, nos termos do artigo 105, II, "a" da Constituição do Brasil, de maneira que não é passível de ser conhecido, conforme jurisprudência assente neste Superior Tribunal de Justiça.
+Não se desconhece a orientação presente no artigo 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de ordem em habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ, uma vez que não se vislumbra ilegalidade ou abuso de poder aptos a representarem lesão ou ameaça de lesão à liberdade de locomoção do ora paciente. Assim, não há que se falar em concessão da ordem em habeas corpus de ofício.
+Ante o exposto, não conheço da presente impetração.
+Publique-se. Intime-se.
+EMENTA
