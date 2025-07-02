@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por GIRLENE DOS SANTOS SOUSA perante o TRIBUNAL DE ORIGEM e remetido ao Superior Tribunal de Justiça após juízo prévio de admissibilidade.
+Consta dos autos que a recorrente foi condenada às penas definitivas de 3 anos e 6 meses de reclusão e de pagamento de 350 dias-multa, com penas-base de 9 anos reclusão e 900 dias-multa, como incursa nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+A parte recorrente sustenta que houve violação do art. 42 da Lei n. 11.343/2006, argumentando que a análise da quantidade e da natureza da droga deve ser feita de forma conjunta, não se admitindo a exasperação da pena com base apenas na natureza da droga, quando a quantidade apreendida é pequena.
+Aduz que a decisão recorrida não considerou de forma adequada a quantidade de droga apreendida (11,6 g), a qual, por si só, não justifica a exasperação da pena.
+Afirma que a jurisprudência do Superior Tribunal de Justiça não admite a exasperação da pena com base apenas na natureza da droga, quando a quantidade é pequena, e que a decisão deve ser revista para garantir que a sanção seja adequada à gravidade do delito e às suas circunstâncias.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+O parecer do Ministério Público Federal é pelo desprovimento do recurso especial.
+É o relatório.
+Preliminarmente, observo que o recurso especial preenche os requisitos formais de admissibilidade, tendo sido interposto tempestivamente, por parte legítima e com interesse recursal, com fundamento adequado na alínea a do permissivo constitucional.
+No mérito, assiste razão à recorrente.
+Embora o art. 42 da Lei n. 11.343/2006 estabeleça que, na fixação da pena-base, o juiz deve considerar com preponderância a natureza e a quantidade da substância entorpecente, a aplicação deste dispositivo deve observar os princípios da razoabilidade e da proporcionalidade, evitando-se a exasperação desproporcional da reprimenda quando ausentes circunstâncias concretas que justifiquem maior reprovabilidade.
+No caso em análise, a quantidade total de droga apreendida (16,72 g de cocaína na forma de crack) é modesta e não pode, por si só, justificar a majoração da pena-base. O fracionamento em 60 porções, embora indique destinação comercial, é circunstância inerente ao próprio tipo penal de tráfico, não constituindo elemento extraordinário apto a fundamentar maior rigor na dosimetria.
+Ademais, o fato de a droga estar oculta no corpo da acusada não evidencia maior reprovabilidade da conduta. Nesse sentido, esta Corte Superior já decidiu que "esse modus operandi é uma das formas mais comuns utilizadas para levar drogas" e "não demonstra maior grau de reprovabilidade" (REsp n. 1.923.803, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/9/2022).
+A jurisprudência desta Corte Superior tem evoluído no sentido de exigir maior rigor na fundamentação para exasperação da pena-base em crimes de tráfico de drogas, especialmente quando se constata ínfima quantidade de entorpecentes. Nesse contexto, encontra-se em tramitação o Tema n. 1.262 dos recursos repetitivos, que visa "definir se a exasperação da pena na primeira fase da dosimetria, nos casos em que se constata a ínfima quantidade de drogas, independentemente de sua natureza, caracterizaria aumento desproporcional da pena-base".
+A evolução jurisprudencial caminha no sentido de que a simples invocação da natureza da droga e do fracionamento, sem outros elementos concretos que revelem efetiva maior gravidade da conduta, não justifica a majoração da pena-base, sob pena de violação dos princípios constitucionais da individualização da pena e da proporcionalidade.
+Como bem destacado pela defesa, a quantidade de 16,72 g de cocaína, considerada em termos absolutos, situa-se em patamar que não extrapola as circunstâncias comuns ao delito de t ráfico, não justificando, portanto, tratamento mais rigoroso na primeira fase da dosimetria.
+Nesse contexto, impõe-se a reforma da dosimetria da pena a fim de fixar as penas-base no mínimo legal de 5 anos de reclusão e pagamento de 500 dias-multa, mantendo-se inalterados os demais aspectos da condenação.
+Ante o exposto, dou provimento ao recurso especial para que as penas-base calculadas na primeira fase da dosimetria sejam fixadas em 5 anos de reclusão e pagamento de 500 dias-multa, devendo o Tribunal de origem realizar nova nova dosimetria a partir desse parâmetro .
+Anoto, por fim, que após a realização da nova dosimetria deverão ser adotadas, se for o caso, as medidas necessárias ao cumprimento das teses fixadas no Tema n. 1.098 do STJ, relativas à possível discussão de acordo de não persecução penal.
+Publique-se. Intimem-se.
+ EMENTA
