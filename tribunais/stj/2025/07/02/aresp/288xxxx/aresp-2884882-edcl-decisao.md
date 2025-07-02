@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, embargos de declaração opostos por JULIO BIFON contra decisão que não conheceu do agravo em recurso especial haja vista a incidência do óbice da Súmula 182/STJ.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que não apreciou "a abolição da modalidade culposa de improbidade administrativa promovida pela Lei nº 14.230/2021, matéria essa de ordem pública" (fl. 1641).
+Impugnação da parte embargada pela rejeição rejeição dos embargos.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou:
+As alegações deduzidas pela agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência da Súmula 83 deste STJ e pela ausência de violação dos arts. 489 e 1.022 do CPC.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PERSEGUIÇÃO, TORTURA OU PRISÃO DURANTE O REGIME MILITAR. PEDIDOS IMPROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação em que se pleiteia a indenização por danos materiais e morais decorrentes de perseguição, tortura ou prisão durante o regime militar. Na sentença, julgaram-se os pedidos improcedentes pela ocorrência da prescrição. No Tribunal a quo, a sentença foi reformada para afastar a prescrição e julgar os pedidos improcedentes. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 7 /STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido (AgInt no AR Esp n. 2.096.513/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em , DJe 13/3/2023 de 16/3/2023).
+ ..
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial (fls. 1636-1637).
+Cumpre destacar que o não conhecimento do agravo em recurso especial, em razão da aplicação da Súmula 182/STJ, impede a análise das teses a respeito do mérito discutido no apelo nobre, ainda que seja matéria de ordem pública, pois não foi ul trapassada a admissibilidade recursal.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ALEGAÇÃO DE MATÉRIA DE ORDEM PÚBLICA. NÃO SUPERAÇÃO DA INADMISSIBILIDADE RECURSAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do apelo nobre proferida pelo Tribunal de origem, com incidência da Súmula n. 182 do STJ.
+2. A defesa alegou que as matérias do recurso especial seriam de ordem pública e deveriam ser apreciadas por este Sodalício, a despeito da inadmissibilidade recursal.
+II. Questão em discussão3. A questão em discussão consiste em saber se a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade impede o conhecimento do agravo em recurso especial. Também se discute se a mera alegação de veiculação de matérias de ordem pública pode superar a inadmissibilidade do recurso.
+III. Razões de decidir4. A defesa não impugnou concretamente o fundamento de inadmissibilidade referente à indicação de violação de dispositivos constitucionais, limitando-se a contrariar a aplicação da Súmula n. 7 do STJ.
+5. A alegação de veiculação de matérias de ordem pública, por si só, não obriga o Tribunal a se manifestar sobre temas não oportunamente arguidos ou que não preenchem os pressupostos de admissibilidade.
+6. Além disso, a concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando se depara com flagrante ilegalidade, o que não se verifica no caso.
+IV. Dispositivo e tese7. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade impede o conhecimento do agravo em recurso especial. 2. A alegação de matéria de ordem pública, por si só, não obriga a apreciação do mérito recursal quando não preenchidos os pressupostos de admissibilidade.
+3. A concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando se depara com flagrante ilegalidade, o que não se verifica no caso."
+Dispositivos relevantes citados: CPC, art. 932, III; RISTJ, art. 253, parágrafo único, I; CPP, arts. 647-A e 654, § 2º.Jurisprudência relevante citada: STJ, AgRg no HC 835.751/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, j. 09.09.2024; STJ, AgRg no AREsp 2.466.078/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 21.05.2024;
+STJ, AgRg no AREsp 2.217.224/MG, Rel. Min. Laurita Vaz, Sexta Turma, j. 19.09.2023 (AgRg no AREsp n. 2.602.328/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/10/2024, DJe de 25/10/2024).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
