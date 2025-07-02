@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial porque não demonstrada a ofensa aos dispositivos legais indicados, tampouco a divergência jurisprudencial, e em razão da Súmula 7 do STJ (fls. 331-334).
+O acórdão recorrido encontra-se assim ementado (fl. 229):
+RESTITUIÇÃO DE VALORES - Arrendamento Mercantil - Valor Residual Garantido (VRG) - Pretensão da autora quanto à prescrição dos valores que seriam devidos ao banco réu - Descabimento - Prazo prescricional decenal, nos termos do art. 205 do Código Civil - Reconhecimento quanto à restituição da diferença do Valor Residual Garantido (VRG) pago antecipadamente, abatido o montante das prestações vencidas até a data da restituição do veículo - Despesas com apreensão e gastos de leilão do veículo que, de fato, necessitam ser efetivamente comprovadas "Prints" de telas de sistema interno que não autorizam a compensação pretendida pela instituição financeira - Observação de que a correção monetária do valor total de VRG previsto no contrato, assim como do VRG pago antecipadamente, não representa qualquer acréscimo, tendo por objetivo apenas recompor a expressão econômica da moeda, que se perde em decorrência do processo inflacionário - O encargo deve incidir desde a data prevista para o fim da relação contratual, a partir de quando os valores passam a sofrer depreciação - Até então, presume-se que os encargos pré-fixados já foram considerados na formação do VRG - Precedentes jurisprudenciais Sentença mantida Majoração dos honorários sucumbenciais (art. 85, § 11, do CPC) - Recursos improvidos, com observação.
+Os embargos de declaração foram rejeitados (fls. 247-251 e 256-260).
+Nas razões do recurso especial (fls. 262-281), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, a parte recorrente aponta violação do art. 1.022, II e III, do CPC/2015 afirmando existir erro material nos seguintes termos (fl. 267):
+ ..  se o Banco tinha sido condenado em primeira instância e apelou. Tendo sido seu recurso desprovido, os honorários arbitrados anteriormente serão majorados, como o Tribunal fez. Contudo, o erro material está no critério subjetivo que, por um erro, o Tribunal inverteu as verbas da sucumbência.
+Indica afronta aos arts. 190 e 206, § 5º, I, do CC/2002 alegando que (fl. 271):
+A pretensão do banco em receber os valores vencidos em 2010 deveria ter sido alegada pelo banco dentro de 5 anos contados do vencimento de cada uma das parcelas, e não agora em sua defesa no presente feito, eis que, de acordo com o artigo 190 do CC, "a exceção prescreve no mesmo prazo em que a pretensão".
+ ..
+Veja-se que, ao contrário do afirmado pelo TJ-SP, não é possível haver a compensação de um crédito prescrito de um montante ainda plenamente exigível.
+Suscita divergência jurisprudencial e ofensa ao art. 206, § 5º, I, do CC/2002 defendendo que a pretensão da instituição financeira, por ser fundada em contrato de natureza particular, prescreve em cinco anos.
+Aponta dissídio quanto à interpretação dos arts. 368 e 369 do CC/2002 sustentando que, diante da prescrição, não pode haver a compensação porque a dívida perde o atributo da exigibilidade.
+No agravo (fls. 337-346), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 349-352).
+É o relatório.
+Decido.
+Em relação ao art. 1.022 do CPC/2015, o recurso merece prosperar.
+A sentença julgou procedente a ação e condenou a parte ré ao pagamento dos encargos sucumbenciais (fl. 156):
+Em razão do princípio da sucumbência, arcará o réu com o pagamento das custas, despesas processuais e honorários advocatícios dos advogados da autora, ora fixados em 10% sobre o valor da causa.
+Os recursos de apelação interpostos por ambas as partes foram desprovidos e ficou consignado na parte final acórdão recorrido que (fl. 237):
+Por fim, quanto aos honorários sucumbenciais devidos pela parte autora ao réu, em atenção ao parágrafo 11, do art. 85, do CPC, majoro-os para 12% do valor da causa.
+De fato, existente erro material, conhecível de ofício. Ausente condenação da parte autora ao pagamento de honorários sucumbenciais em primeiro grau, não há honorários para serem majorados. Dessa forma, deve ser expurgada tal disposição do acórdão recorrido.
+No mérito, a Corte estadual afastou a alegada prescrição por dois fundamentos: (i) o prazo aplicável é o decenal e (ii) ainda que prescrito, é possível a compensação. Confira-se o seguinte trecho do acórdão recorrido (fls. 232-234):
+ ..  importante salientar que se trata de ação envolvendo pretensão de restituição de valores pagos a título de valor residual garantido (VRG), em razão de contrato de leasing (arrendamento mercantil) entabulado entre as partes.
+Assim, cuidando-se de pedido de restituição de quantias em razão de contrato de leasing, a respectiva natureza contratual basta para conferir caráter pessoal às obrigações dele decorrentes, e, assim, a prescrição para essa ação é a geral, sendo aplicável o prazo decenal, previsto no art. 205 do CC.
+ ..
+Assim, consolidada a posse e propriedade do veículo em nome do banco réu por meio de sentença de procedência de ação de reintegração de posse transitada em julgado em 13.05.2011 (pág. 36) e proposta a presente demanda em 01/09/2020, a pretensão não se encontra atingida pelo lapso prescricional.
+Aliás, mesmo se assim não fosse, eventual prescrição não extinguiria a existência e a validade da obrigação, ou seja, ainda que a prescrição tornasse inviável o ajuizamento da ação para cobrança do crédito prescrito, a obrigação continuaria existindo, podendo ser, de qualquer forma, objeto de compensação.
+Embora, nos termos da jurisprudência desta Corte, o prazo prescricional para a cobrança das parcelas inadimplidas do contrato de arrendamento mercantil seja de cinco anos, o acórdão recorrido fica mantido quanto à possibilidade de compensação.
+Consoante entendimento do STJ, a compensação se opera no momento da coexistência das dívidas. Confira-se:
+DIREITO CIVIL. RECURSO ESPECIAL. ARRENDAMENTO MERCANTIL. RESTITUIÇÃO DE VALOR RESIDUAL GARANTIDO (VRG). PARCELAS INADIMPLIDAS. COMPENSAÇÃO. PRAZO PRESCRICIONAL. MOMENTO DA COEXISTÊNCIA DAS DÍVIDAS. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao recurso de apelação da parte autora, mantendo a possibilidade de compensação das parcelas inadimplidas do contrato de arrendamento mercantil com o valor a ser restituído a título de Valor Residual Garantido (VRG).
+II. Questão em discussão
+2. Consiste em definir: (i) qual o prazo prescricional aplicável às prestações inadimplidas do contrato de arrendamento mercantil; e (ii) se, ainda que eventualmente prescritas para fins de cobrança autônoma, é possível a compensação dessas parcelas com o valor a ser restituído à arrendatária a título de VRG.
+III. Razões de decidir
+3. A pretensão de cobrança das parcelas inadimplidas em contrato de arrendamento mercantil submete-se ao prazo prescricional quinquenal previsto no art. 206, § 5º, I, do Código Civil, por configurarem dívidas líquidas constantes de instrumento particular.
+4. Na rescisão antecipada do contrato de arrendamento mercantil por inadimplemento do arrendatário, com reintegração do bem à posse do arrendador, é necessária apuração do saldo a ser restituído a título de Valor Residual Garantido (VRG), podendo-se deduzir as parcelas vencidas e não pagas, por meio de compensação legal, nos termos dos arts. 368 e 369 do Código Civil.
+5. A compensação opera por força de lei (ipso iure) no exato momento em que coexistem as dívidas compensáveis dotadas dos requisitos de liquidez, exigibilidade e fungibilidade. A sentença que reconhece a compensação tem natureza declaratória, com efeitos ex tunc.
+6. Dívidas prescritas não são compensáveis por falta do requisito da exigibilidade. No entanto, se a prescrição se consumar após o momento da coexistência das dívidas, ela não impedirá o reconhecimento dos efeitos da compensação já operada por força de lei.
+7. No contrato de arrendamento mercantil, o momento da coexistência das dívidas compensáveis ocorre quando da rescisão do contrato e venda do bem, instante em que o arrendatário passa a ter direito à restituição do VRG e o arrendador consolida seu direito ao recebimento das parcelas inadimplidas.
+7.1. No caso presente, o momento da coexistência das dívidas (junho/2010) antecedeu a consumação do prazo prescricional das parcelas inadimplidas (entre dezembro/2014 e abril/2015), sendo legítima a compensação realizada.
+IV. Dispositivo e tese
+8. Recurso desprovido.
+Tese de julgamento: "1. O prazo prescricional para a cobrança das parcelas inadimplidas é quinquenal. 2. A compensação das parcelas inadimplidas com o VRG é possível quando as dívidas coexistem e são exigíveis. 3. A prescrição posterior ao momento da coexistência das dívidas não impede a compensação já operada por força de lei."
+Dispositivos relevantes citados: Código Civil, arts. 205, 206, § 5º, I, 368, 369.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl no AREsp 1.951.664/SP, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 02.05.2022; STJ, REsp 1.099.212/RJ, Rel. Min. Massami Uyeda, Segunda Seção, julgado em 27.02.2013.
+(REsp n. 1.983.238/SP, minha relatoria, Quarta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+Extrai-se da fundamentação de referido julgado:
+O exame sobre a natureza da compensação no âmbito da restituição do VRG passa, necessariamente, pela identificação do momento em que as obrigações recíprocas entre arrendador e arrendatário passam a coexistir e tornam-se compensáveis.
+O instituto da compensação, conforme estabelece o art. 368 do Código Civil, opera quando "duas pessoas forem ao mesmo tempo credor e devedor uma da outra,  caso em que  as duas obrigações extinguem-se, até onde se compensarem". Com isso, ocorre a extinção total ou parcial das obrigações contrapostas.
+Para que a compensação ocorra no ordenamento jurídico brasileiro, é imprescindível a presença simultânea dos requisitos expressos no art. 369 do Código Civil: as dívidas devem ser líquidas, vencidas e de coisas fungíveis.
+Nesse contexto, a compensação não é ato que dependa de constituição judicial, mas se opera por força de lei (ipso iure) no exato momento em que coexistem as dívidas compensáveis com os requisitos legais. A sentença que eventualmente reconheça a compensação tem natureza meramente declaratória, com efeitos ex tunc, retroagindo à data da coexistência dos créditos, inclusive quanto aos acessórios da obrigação. A propósito, cito Gustavo Tepedino e Anderson Schreiber:
+(..)
+Portanto, a relação entre compensação e prescrição resolve-se mediante análise cronológica precisa: a prescrição apenas impedirá a compensação se ela se consumar anteriormente ao momento da coexistência das dívidas. Se, contrariamente, o prazo prescricional completar-se após o momento em que as dívidas tornaram-se compensáveis, a prescrição superveniente não impedirá o reconhecimento dos efeitos da compensação já operada por força de lei.
+Nesse sentido encontra-se o entendimento firmado pela Terceira Turma, segundo a qual "a compensação é direito formativo extintivo e, no direito brasileiro, opera por força de lei no momento da coexistência das dívidas. Para que as dívidas sejam compensáveis, elas devem ser exigíveis, motivo pelo qual dívidas prescritas não são compensáveis.  .. . A prescrição somente obstará a compensação se ela for anterior ao momento da coexistência das dívidas, de modo que, se o prazo prescricional se completou posteriormente a esse fato, a prescrição não constitui empecilho à compensação dos débitos" (REsp n. 2.007.141/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/5/2023, DJe de 25/5/2023).
+No contrato de arrendamento mercantil, o momento da coexistência das dívidas ocorre justamente quando há rescisão do contrato e venda do bem, pois é nesse instante que: (i) o arrendatário deixa de poder exercer a opção de compra e, consequentemente, passa a ter direito à restituição do VRG pago; e (ii) o arrendador consolida seu direito ao recebimento das parcelas inadimplidas até aquele momento.
+Dessa forma, deve ser mantido o acórdão recorrido na parte em que entende ser possível a compensação.
+Ante o exposto, CONHEÇO do agravo, para DAR PARCIAL PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
