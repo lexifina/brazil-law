@@ -1,0 +1,2 @@
+Dispõe sobre o direito a indenização por dano moral e a concessão de pensão especial à pessoa com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 8.742, de 7 de dezembro de 1993, e 8.213, de 24 de julho de 1991.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, a seguinte Lei:
