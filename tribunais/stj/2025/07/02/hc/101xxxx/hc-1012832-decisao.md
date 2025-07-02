@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado de em favor de JORGE FERRAZ MANTOVANI contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais 680 dias-multa, como incurso no art. 33, caput, da Lei de Drogas.
+O Tribunal estadual negou provimento ao apelo defensivo.
+Nesta insurgência, a impetrante busca a reforma da dosimetria, objetivando a redução da pena-base com o afastamento dos maus antecedentes e do art. 42 da Lei de Drogas, bem como o reconhecimento da confissão espontânea, nos termos da Súmula n. 545 desta Corte, com consequente abrandamento do regime prisional.
+Requer, assim, liminarmente e no mérito, a redução da pena-base e o reconhecimento da confissão espontânea e, por conseguinte, reforma da pena.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+Ab initio, consigno que a tese defensiva acerca da confissão espontânea não foi suscitada e, portanto, sequer apreciada pelo Tribunal de origem, de modo que inviável o seu conhecimento diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+No mais, o Juízo a quo julgou procedente a pretensão punitiva, dosando a pena, com os seguintes fundamentos:
+"2.2. Acusado JORGE FERRAZ MANTOVANI.
+Na primeira fase da dosimetria (art. 59 do Código Penal c/c art. 42 da Lei de Drogas), fixo a pena em 5 anos, 10 meses de reclusão e 583 dias-multa, uma vez que o sentenciado possui maus antecedentes (fls. 51/59).
+Na segunda etapa da dosimetria, verifico a presença da reincidência (Art. 6I,I, do CP), já que o acusado ostenta outras condenações transitadas em julgado. Assim, exaspero a pena do réu em 1/6 (um sexto) fixando, nesta fase, em 6 anos, 9 meses e 20 dias de reclusão e 680 dias- multa.
+Na terceira fase, não há causas de aumento ou diminuição de pena. O réu possui extensa ficha criminal (fls. 51/59), sendo incompatível a concessão do tráfico privilegiado, seja pela presença dos maus antecedentes, seja pela prova de que se dedica habitualmente ao tráfico de drogas.
+Assim, fica o réu definitivamente condenado às penas de 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa.
+O regime inicial de cumprimento de pena é o fechado (art. 33,§2º, "a", do CP). O réu é reincidente e demonstra comportamento incompatível com a vontade de retornar ao convívio social sem voltar a delinquir. Portanto, não há justificativa para regime menos gravoso.
+Inviável a conversão da pena em restritiva de direitos e a concessão de sursis em razão da pena fixada." (e-STJ, fl. 30)
+Ao manter a condenação, o Tribunal a quo consignou que:
+"No caso do acusado Jorge, a pena foi corretamente elevada em 1/6 por maus antecedentes (fls.51-59), obtendo-se 5 anos, 10 meses de reclusão e 583 dias-multa. Na segunda fase, por conta da reincidência, foi elevada em mais 1/6, restando como definitiva 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa.
+Saliente-se, referendada pelo Superior Tribunal de Justiça1 a possibilidade de considerar "(..) condenações pretéritas utilizadas tanto para valorar os maus antecedentes na primeira fase, bem como para agravar a pena na segunda fase, a título de reincidência, sem ocorrência de bis in idem, desde que as condenações sejam de fatos diversos.", bem como pelo Supremo Tribunal Federal.
+O regime inicial fechado justificou-se pelos maus antecedentes e pela reincidência." (e-STJ, fl. 20)
+"Nos termos da jurisprudência desta Corte, não se cogita manifesta desproporcionalidade na dosimetria da pena na utilização de condenações, relativas a fatos anteriores, transitadas em julgado, diversas e remanescentes àquela utilizada como fundamento da agravante de reincidência, como reforço ao quantum da agravante de reincidência ou como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos antecedentes, conforme seja necessário e suficiente para a prevenção e reprovação da infração penal, ficando apenas vedado o bis in idem" (AgRg no REsp n. 2.109.722/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024.)
+Na hipótese, as instâncias ordinárias exasperaram a pena-base em 1/6 pela existência de maus antecedentes e, em seguida, na segunda fase, aumentaram a pena em 1/6 pela reincidência e, por fim, a pena ficou quantificada em 6 anos, 9 meses e 20 dias de reclusão, mais 680 dias-multa, o que não configura constrangimento ilegal.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO PRÓPRIO. DOSIMETRIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, no qual foi alegada ilegalidade na manutenção da condenação por tráfico de drogas e pleiteada desclassificação para uso pessoal.
+2. O Tribunal de Justiça de São Paulo manteve a condenação por tráfico de drogas, destacando elementos que suportam a condenação, como a quantidade e a forma de acondicionamento das drogas, além de depoimentos que indicam a destinação mercantil do entorpecente.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível a desclassificação do crime de tráfico de drogas para uso próprio, considerando a quantidade de droga apreendida e os depoimentos que indicam o envolvimento do paciente com o tráfico.
+4. Outra questão é verificar se há flagrante ilegalidade também na dosimetria da pena que justifique a concessão do habeas corpus de ofício.
+III. Razões de decidir
+5. A desclassificação do crime de tráfico para uso próprio não procede, pois a quantidade de droga apreendida e os depoimentos indicam a destinação mercantil do entorpecente.
+6. A dosimetria da pena foi corretamente aplicada, com exasperação da pena-base em 1/6 pelos maus antecedentes e agravante da reincidência na segunda etapa, sem incidência do redutor do tráfico privilegiado devido à reincidência do paciente.
+7. O habeas corpus não é conhecido, pois não se presta à apreciação de alegações que demandam revolvimento do conjunto fático-probatório, salvo em casos de flagrante ilegalidade, o que não se verifica no presente caso.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A desclassificação do crime de tráfico para uso próprio é inviável quando a quantidade de droga e os depoimentos indicam destinação mercantil. 2. O habeas corpus não se presta à revisão de provas, salvo em casos de flagrante ilegalidade.
+3. A dosimetria da pena pode considerar maus antecedentes e reincidência em fases distintas sem configurar bis in idem."
+Dispositivos relevantes citados: Lei 11.343/2006, art. 33; Código Penal, art. 59.Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/06/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/03/2020. (AgRg no HC n. 951.194/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025.)
+HABEAS CORPUS. DOSIMETRIA. TRÁFICO DE DROGAS. SUPOSTA ILEGALIDADE NA FUNDAMENTAÇÃO LANÇAD A NA FIXAÇÃO DA PENA-BASE E NO QUANTUM DE AUMENTO APLICADO. MAUS ANTECEDENTES, QUANTIDADE DE DROGA E NATUREZA DE ALGUMAS DELAS (29,5 G DE COCAÍNA, 9,55 G DE CRACK E 121,29 G DE MACONHA). ELEMENTOS IDÔNEOS. FRAÇÃO DE 1/5. DISCRICIONARIEDADE MOTIVADA. PRESENÇA DE DUAS CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. MAUS ANTECEDENTES E REINCIDÊNCIA. BIS IN IDEM. NÃO OCORRÊNCIA. CONDENAÇÕES ANTERIORES DIVERSAS. SEGUNDA FASE DA DOSIMETRIA. APLICAÇÃO DE FRAÇÃO SUPERIOR A 1/6 EM RAZÃO DA REINCIDÊNCIA ESPECÍFICA. FUNDAMENTAÇÃO INIDÔNEA. PENA REDIMENSIONADA. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS E REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+1. A exasperação da pena-base na fração de 1/5 restou fundamentada nos maus antecedentes e na quantidade de droga apreendida, bem como na natureza de algumas delas (35 pedras de crack, com peso líquido de 9,55 gramas; 40 invólucros de maconha, com peso líquido de 121,29 gramas; e 64 eppendorfs de cocaína, com peso líquido de 29,5 gramas), o que encontra amparo na jurisprudência desta Corte Superior.
+2. Consoante orientação sedimentada nesta Corte Superior, não há óbice em se considerar, na primeira fase da dosimetria, anotações diversas daquelas sopesadas como reincidência, razão pela qual é descabida a alegação de ocorrência de bis in idem, uma vez que os fatos utilizados para a exasperação da pena-base não são os mesmos que autorizaram a majoração na etapa seguinte (AgRg no HC n. 521.476/SP, Ministro Jorge Mussi, Quinta Turma, DJe 15/6/2020).
+3. A Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 365.963/SP, pacificou o entendimento de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito (HC n. 654.120/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 25/5/2021). Dessarte, a especificidade da reincidência constitui fundamento inidôneo para justificar o agravamento da pena superior à fração de 1/6.
+4. Incabível a fixação de regime mais brando, pois inexiste constrangimento ilegal a ser sanado, eis que o paciente detém circunstâncias judiciais desfavoráveis e é reincidente, sendo aplicável, destarte, o regime fechado, nos termos do art. 33, parágrafos 3º e 2º, alínea b, do Código Penal. (HC 669.583/SP, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 1/9/2021).
+5. Ordem concedida parcialmente para reduzir a fração de agravamento na segunda fase da dosimetria e, assim, fixar a pena do paciente em 7 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 700 dias-multa.
+(HC n. 758.154/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022.)
+Nos termos do § 4º do art. 33 da Lei n. 11.343/06, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Nesse contexto, com a configuração dos maus antecedentes e da reincidência é incabível a concessão da minorante do tráfico de drogas, prevista no § 4º do art. 33, da Lei n. 11.343/06.
+A propósito:
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. REINCIDÊNCIA. TRÁFICO PRIVILEGIADO AFASTADO. RECURSO ESPECIAL PROVIDO PARA AFASTAR A CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, §4º, DA LEI N. 11.343/2006 E, POR CONSEQUÊNCIA, REDIMENSIONAR A PENA DO RECORRIDO.
+I. Caso em exame
+1. Recurso especial interposto pelo Ministério Público do Estado de São Paulo contra acórdão do Tribunal de Justiça do Estado de São Paulo que aplicou a causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006 em favor de réu reincidente.
+2. O acórdão recorrido aplicou a redução da pena com base no princípio da proporcionalidade, tendo em vista que a reincidência ocorreu por crime anterior de menor potencial ofensivo.
+II. Questão em discussão
+3. A discussão consiste em saber se a reincidência do réu por crime de menor potencial ofensivo impede a aplicação da causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006.
+III. Razões de decidir
+4. A reincidência do réu, mesmo que por crime de menor potencial ofensivo, impede a aplicação da causa de diminuição de pena do art. 33, §4º, da Lei n. 11.343/2006, conforme a literalidade do dispositivo legal e a jurisprudência consolidada.
+5. A fixação do regime inicial fechado é justificada pela reincidência e pelas circunstâncias desfavoráveis valoradas na primeira fase da dosimetria da pena.
+6. Notadamente pela quantidade, a substituição da pena privativa de liberdade por restritivas de direitos é incabível.
+IV. Dispositivo e tese
+7. Recurso especial provido para afastar a causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006 e, por consequência, redimensionar as penas do recorrido para 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 680 (seiscentos e oitenta) dias-multa.
+Tese de julgamento: 1. A reincidência impede a aplicação da causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006.
+2. A fixação do regime inicial fechado é justificada pela reincidência e pelas circunstâncias desfavoráveis valoradas na primeira fase da dosimetria da pena.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, §4º;
+Código Penal, art. 33, §§ 2º e 3º.Jurisprudência relevante citada:
+STJ, AgRg no REsp 2.116.867/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 12/8/2024, DJe de 14/8/2024; STJ, AgRg no HC 883.601/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.
+(REsp n. 2.140.562/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 4/6/2025, DJEN de 11/6/2025; grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÕES NÃO ANALISADAS QUE CONFIGURAM SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIABILIDADE NA VIA ELEITA. DOSIMETRIA E REGIME INICIAL. REINCIDÊNCIA QUE OBSTA A MINORANTE DO TRÁFICO PRIVILEGIADO E LEGITIMA O REGIME MAIS GRAVOSO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO.
+1. Inviável a análise quanto às alegações de perseguição policial supostamente comprovada por vídeo periciado, uma vez que a Corte de origem não analisou as controvérsias no julgamento da apelação, impedindo este Tribunal de fazê-lo, sob pena de indevida supressão de instância. Precedentes.
+2. É pacífico o entendimento de que a desconstituição das conclusões alcançadas pelas instâncias ordinárias para condenar o agravante por tráfico de drogas demandaria aprofundada dilação probatória, providência que é incompatível na via eleita. Precedentes.
+3. A reincidência do acusado impede a incidência da minorante do tráfico privilegiado e autoriza o regime fechado, notadamente quando a pena definitiva é superior a 4 e inferior a 8 anos de reclusão, conforme art. 33, § 2º, b, do CP. Precedentes.
+4. Agravo regimental desprovido. (AgRg no HC n. 976.999/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+Por fim, conforme o disposto no art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador, ao fixar o regime prisional, deve analisar o quantum da pena, bem como a eventual existência de circunstâncias judiciais desfavoráveis. No caso concreto, o quantitativo de pena e a circunstâncias judicial desfavorável, autorizam a manutenção do sentenciado no regime mais gravoso.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
