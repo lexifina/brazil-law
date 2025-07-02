@@ -1,0 +1,34 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fls. 213/214):
+Cuida-se de recurso em habeas corpus interposto por JÉSSICA CARLA FERMINO JUSTINO em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que, nos autos do HC n. 2015812-77.2025.8.26.0000, julgou prejudicada a impetração e, posteriormente, rejeitou os aclaratórios defensivos.
+Conforme consta dos autos, JÉSSICA C ARLA FERMINO JUSTINO e CLAIK CLEIBON PAIS foram presos em flagrante pela prática de crimes de tráfico ilícito de entorpecentes e associação para o tráfico de drogas (art. 33, caput, e art. 35, caput, ambos da Lei n. 11.343/06), considerada, notadamente, a apreensão de "44 (quarenta e quatro) porções de crack, composto à base de cocaína, num total líquido de 6 gramas, uma porção de crack, composto à base de cocaína, num total líquido de 21 gramas, bem como da quantia de R$ 1.262,65 (um mil duzentos e sessenta e dois reais e sessenta e cinco centavos)" (e-STJ f. 164).
+Ocorre que esse E. Superior Tribunal de Justiça concedeu a ordem no HC 978.350/SP (Rel. Ministro Antonio Saldanha Palheiro, DJEN de 13/02/2025), para substituir a custódia preventiva da paciente, JÉSSICA CARLA FERMINO JUSTINO, por medidas cautelares diversas da prisão, a serem fixadas pelo Juízo de primeiro grau.
+A recorrente alega, no recurso ordinário em habeas corpus, que a impetração visa não somente a revogação da prisão preventiva, mas também o trancamento da ação penal com base no reconhecimento da nulidade das provas.
+Assinala, assim, que, substituída a custódia cautelar por medidas diversas da prisão pelo STJ, a Corte de origem julgou prejudicado o habeas corpus sem a análise do pedido de trancamento da ação penal.
+Sustenta que o argumento que ampara o pedido de trancamento da ação penal diz respeito à existência de provas ilícitas decorrentes de violação de domicílio, considerando que a diligência policial baseou-se em denúncia anônima.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 212/219).
+É o relatório. Decido.
+A justa causa é prevista de forma expressa no Código de Processo Penal e constitui condição da ação punitiva, consubstanciada no lastro probatório mínimo, indicativo da autoria e da materialidade, o que foi demonstrado no processo.
+A profundidade cognitiva para o reconhecimento ou não da justa causa na persecução penal deve se dar de forma não exauriente, superficial, mediante fundada suspeita de materialidade do crime e de sua autoria.
+Com efeito, o trancamento da ação penal somente é permitido - em habeas corpus ou em seu recurso ordinário - quando evidenciada de plano e sem necessidade de dilação probatória a atipicidade da conduta, causa excludente de punibilidade ou a ausência de lastro probatório mínimo.
+Trata-se, desse modo, de medida excepcional, uma vez que impede o regular andamento da ação penal proposta. Não compete ao Poder Judiciário paralisar o exercício regular da atividade policial, tampouco subtrair do Ministério Público, titular da ação pública, a opinio delicti.
+A análise da pretensão da defesa, a toda evidência, reclama o exame aprofundado dos dados coletados no processo originário, intento que não se ajusta aos estreitos limites deste feito, conforme enfatiza reiterada jurisprudência desta Corte:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, HOMICÍDIO QUALIFICADO TENTADO E ROUBO CIRCUNSTANCIADO. TRANCAMENTO. ALEGAÇÃO DE NULIDADE EM RAZÃO DE OBTENÇÃO DE PROVA ILEGAL. PROVAS EXTRAÍDAS DE APARELHOS CELULARES DENTRO DO ESTABELECIMENTO PRISIONAL. PRINCÍPIO DA INTIMIDADE. EXCEPCIONALIDADE DA ADMINISTRAÇÃO PENITENCIÁRIA EM RAZÃO DA SEGURANÇA PÚBLICA, DISCIPLINA PRISIONAL E PRESERVAÇÃO DA ORDEM JURÍDICA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. O trancamento de ação penal por meio da via eleita é providência reservada para casos excepcionais, nos quais é possível, de plano e sem necessidade de exame aprofundado do conjunto fático-probatório, verificar a ausência de justa causa, consubstanciada na inexistência de elementos indiciários demonstrativos da autoria e da materialidade do delito, na atipicidade da conduta e na presença de alguma causa excludente da punibilidade ou, ainda, no caso de inépcia da denúncia.
+2. No presente caso, consta dos autos a informação de que o aparelho celular, do qual se obtiveram as provas que embasaram a decisão que decretou a prisão cautelar dos recorrentes, foi apreendido dentro do estabelecimento prisional.
+ ..
+4. Recurso em habeas corpus improvido. (RHC n. 106.667/MA, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/2/2020, DJe 2/3/2020.)
+No caso, o Tribunal de origem deixou bem registrado (e-STJ fls. 165/166):
+A presente impetração restou prejudicada.
+Importa considerar, de início, que os estreitos limites do HABEAS CORPUS são incompatíveis com a análise aprofundada do mérito.
+Pelo que verte da inicial e dos documentos juntados, o Colendo Superior Tribunal de Justiça, nos autos do Habeas Corpus 978.350- SP (2025/0030305-9), em 11 de fevereiro de 2025, concedeu a ordem para substituir a custódia preventiva da paciente por medidas cautelares diversas da prisão, a serem determinadas em sede de primeiro grau de jurisdição.
+Importa considerar, a propósito, que, em consulta aos autos do processo digital, pelo sistema e-SAJ, verificou-se que o R. Juízo de primeiro grau de jurisdição, em cumprimento à r. decisão do Colendo Superior Tribunal de Justiça, estabeleceu as medidas cautelares diversas da prisão e determinou a expedição de alvará de soltura clausulado em favor da paciente, que já foi cumprido.
+Restou sem objeto, portanto, a presente impetração.
+Assim, a teor do art. 659, do Cód. de Proc. Penal, a inicial deve ser julgada prejudicada.
+Face ao exposto, meu voto dá por prejudicada a presente impetração.
+Verifico que não há como conhecer da irresignação, tendo em vista que a tese deduzida pela defesa não foi debatida pelo Tribunal de origem, o que impede esta Casa de examinar o tema, sob pena de incorrer em indevida supressão de instância.
+Ao discorrer sobre o tema, BRASILEIRO afirma que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4ª ed. rev. ampl. e atual. Salvador: JusPodium, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre as alegações trazidas pela defesa, percebe-se a incompetência desta Corte Superior para seu processamento e julgamento.
+Tal o contexto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
