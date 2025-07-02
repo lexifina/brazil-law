@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por FUNDAÇÃO ASSISTENCIAL DOS SERVIDORES DO MINISTÉRIO DA FAZENDA - ASSEFAZ, contra decisão monocrática, da lavra do Ministro Presidente do STJ (fls. 804-805 e-STJ), que não conheceu do agravo em recurso especial manejado pela parte ora recorrente.
+O apelo nobre, por sua vez, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, foi interposto em desafio a acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fls. 645-646 e-STJ):
+APELAÇÃO. DIREITO PROCESSUAL CIVIL. ENUNCIADO DE SÚMULA Nº 608, DO STJ. ENTIDADE DE AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. PRELIMINAR DE CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. REJEIÇÃO. OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE PRIVADO. INTERNAÇÃO DOMICILIAR (HOME CARE). NEGATIVA DE COBERTURA. ABUSIVIDADE. ROL DA ANS. EXEMPLIFICATIVO. PRECEDENTE DO STJ NÃO VINCULANTE. RECUSA INDEVIDA. DANOS MORAIS. CONFIGURAÇÃO.
+1. Não há que se falar em cerceamento de defesa, em face da negativa de realização de perícia, se tal prova se mostra irrelevante para a solução da causa. Ademais, não merece reparos a decisão se o magistrado, verificando que a prova dos autos já o convenceu, determina o julgamento antecipado da lide.
+2. Os planos de saúde administrados no modelo de autogestão operam em plano fechado, inexistindo a oferta de produto no mercado, um dos elementos fundamentais para a caracterização do serviço de consumo. Nesse sentido, o Enunciado 608, sumulado pelo Superior Tribunal de Justiça, definiu que "aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão".
+3. A restrição da cobertura home care, quando prescrita pelo médico assistente, mostra-se abusiva, pois afronta os direitos fundamentais da pessoa à saúde e à garantia de sua dignidade.
+4. Ainda que o entendimento adotado no julgamento dos EREsp nº 1886929/SP e EREsp nº 1889704/SP, em 08.06.22, pelo colendo STJ, tenha sido no sentido de que o rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo, reconheceu-se a possibilidade de coberturas excepcionais fora da lista. Além disso, o entendimento adotado nos acórdãos referidos tem aplicação restrita às partes envolvidas nos processos julgados, não possuindo, por lei, caráter vinculante, por não terem sido julgados pelo rito dos recursos repetitivos e não terem resultado na edição de enunciado de súmula versando sobre matéria infraconstitucional, nos termos do art. 927, incisos III e IV, do CPC.
+5. Enquanto a matéria não é uniformizada pela Corte Superior, deve prevalecer a jurisprudência deste egrégio Tribunal de Justiça sobre a natureza meramente exemplificativa do rol da ANS, que não impede a cobertura de outros procedimentos.
+6. Demonstrada a conduta ilícita do plano de saúde ao recusar indevidamente o fornecimento de serviço de home care, configurando, por conseguinte, a responsabilidade da parte ré pelos danos causados, surge para esta o dever de indenizar.
+7. Apelo não provido.
+Em suas razões de recurso especial (fls. 731-739 e-STJ), a parte recorrente aponta violação aos 156, 464, 489, § 1º, e 1.022 do CPC/2015, além de dissídio jurisprudencial, sustentando, em suma: a) a ocorrência de omissão no acórdão recorrido acerca da matéria suscitada nos embargos de declaração; b) que o atendimento domiciliar (home care) não possui previsão no contrato; e c) a inexistência de ato ilícito ensejador da condenação ao pagamento de danos morais.
+Contrarrazões às fls. 752-762 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 767-770 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: i) inexistência de violação ao art. 1.022, II, do CPC/2015; e ii) aplicação do óbice das Súmulas 5 e 7 do STJ.
+Dando ensejo a interposição do respectivo agravo (art. 1.042 do CPC/15) às fls. 1.796-1.808 e-STJ.
+Em juízo monocrático (fls. 804-805 e-STJ), o Ministro Presidente do STJ não conheceu do agravo, sob o fundamento da incidência do óbice da Súmula 182/STJ, por ausência de impugnação ao fundamento da decisão agravada.
+Daí o presente agravo interno (fls. 825-829 e-STJ), no qual a parte agravante sustenta a inaplicabilidade do referido óbice.
+Impugnação às fls. 834-838 e-STJ.
+É o relatório.
+Decide-se.
+1. Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsp n. 2.153.093/SP; REsp n. 2.171.577/SP; e REsp n. 2.171.580/MG, de relatoria do Ministro João Otávio de Noronha, DJe de 06/05/2025, delimitaram o Tema 1.340 da seguinte forma: "Definir se é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, à luz da Lei n. 9.656/1998".
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+2. Ante o exposto, reconsidera-se a decisão de fls. 804-805 (e-STJ), julga-se prejudicado o agravo interno de fls. 825-829 (e-STJ) e determina-se a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.340/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
