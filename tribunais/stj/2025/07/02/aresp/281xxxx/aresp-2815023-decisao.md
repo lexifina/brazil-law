@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 284/STF (fls. 8.001-8.003).
+O acórdão recorrido encontra-se assim ementado (fl. 7.849):
+APELAÇÃO CÍVEL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE CESSÃO DE MÃO-DE-OBRA ESPECIALIZADA. PREGÃO ELETRÔNICO. DEMANDAS LABORAIS DE FUNCIONÁRIOS DE EMPRESA CONTRATADA. VERBAS TRABALHISTAS. AUMENTO DE VALE ALIMENTAÇÃO. ACRÉSCIMOS DE CUSTOS. ALTERAÇÃO DO EQUILÍBRIO CONTRATUAL. PAGAMENTO DE TODA E QUALQUER CONDENAÇÃO PROFERIDA NAS AÇÕES TRABALHISTAS. IMPOSSIBILIDADE. INAPLICABILIDADE DA TEORIA DA IMPREVISÃO. AUSÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL OU IMPREVISÍVEL. - A revisão dos contratos com base nas teorias da imprevisão ou da onerosidade excessiva, previstas no Código Civil, exige que o fato superveniente seja imprevisível e extraordinário e que dele, além do desequilíbrio econômico e financeiro, decorra situação de vantagem extrema para uma das partes. - O aumento do pagamento de benefícios relativos ao vale alimentação às telefonistas contratadas, a contar da primeira prorrogação do contrato, não pode ser considerado acontecimento extraordinário e imprevisível por parte da empresa contratada através do processo licitatório, uma vez que deveria ter sido considerado no momento da elaboração da planilha de custos, na medida em que os valores do contrato estavam previstos no Edital e contrato, não verificado o enriquecimento sem causa do contratante.
+Os embargos de declaração foram rejeitados (fls. 7.916-7.921).
+Nas razões do recurso especial (fls. 7.924-7.948), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação do art. 65, II, "d", da Lei n. 8.666/1993.
+Defendeu "a reforma do acórdão para que o desequilíbrio contratual seja reconhecido e o presente processo seja julgado procedente em todos os seus termos" (7.940).
+Assim, requereu que a "ação seja julgada totalmente procedente, não sendo a recorrente responsabilizada pelo pagamento de condenação trabalhista que desequilibra o contrato entabulado" (fl. 7943).
+Requereu, ainda, a exclusão da multa por litigância de má-fé.
+No agravo (fls. 8.006-8.027), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 8.031-8.034).
+É o relatório.
+Decido.
+Relativamente à tese de que não pode ser responsabilizada pelo pagamento de condenação trabalhista que desequilibra o contrato entabulado, a Corte de origem concluiu que (fl. 7.856-7.956, grifei):
+ ..
+Ressalto não ter a recorrente impugnado os termos do Edital de licitação, nem questionado a inexistência de cláusula que estipulasse a possibilidade de repactuação quando da assinatura do contrato.
+Certo é que o aumento de salário e de outros benefícios, na qualidade de direitos trabalhistas reconhecidos judicialmente, não constitui fato imprevisível ou previsível de consequências incalculáveis.
+Portanto, não se revela possível reajustar o preço pactuado pela variação dos componentes dos custos do contrato, na medida em que deixou de fazê-lo no momento oportuno, vindo a aceitar a distribuição do risco, conforme estabelecido no edital e no contrato.
+Não é possível, após englobar os riscos com custos com mão-de-obra e respectivos encargos trabalhistas, a título de promover a recomposição do preço contratado e buscar o reequilíbrio econômico-financeiro, modificar as condições preestabelecidas e com base nas quais venceu o processo licitatório ao oferecer a melhor proposta.
+Em que pese o esforço argumentativo da apelante, não encontro imperatividade para a medida postulada pela ausência de situação caracterizadora de imprevisibilidade ou inevitabilidade para o alcance da finalidade do contrato, visto que a variação de custo de fato ocorrida não está fora do risco do negócio empresarial assumido pela empresa.
+Nesse viés, a majoração de encargos trabalhistas não autoriza o incremento do preço dos serviços, já que se trata de evento previsível de consideração acessível a quem ostenta a condição de sociedade empresária e é especialista no ramo de negócios do serviço prestado.
+Destarte, não há como aplicar à hipótese sub judice a ideia de imprevisibilidade, pela impossibilidade de majoração dos preços com base no pagamento dos valores relativos às condenações na esfera trabalhista, em razão do não pagamento de vale alimentação aos funcionários do contrato nº 2009.7417.2552, visto que não constituem fatos supervenientes à avença, mas, sim, risco previsível e calculado.
+O TJMG concluiu ainda: "não ter a recorrente impugnado os termos do Edital de licitação, nem questionado a inexistência de cláusula que estipulasse a possibilidade de repactuação quando da assinatura do contrato" e que "a majoração de encargos trabalhistas não autoriza o incremento do preço dos serviços, já que se trata de evento previsível de consideração acessível a quem ostenta a condição de sociedade empresária e é especialista no ramo de negócios do serviço prestado". Modificar as conclusões do acórdão recorrido, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por fim, em relação à exclusão da multa por litigância de má-fé, a parte não indica qual dispositivo de lei federal teria sido violado, o que caracteriza deficiência na fundamentação, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
