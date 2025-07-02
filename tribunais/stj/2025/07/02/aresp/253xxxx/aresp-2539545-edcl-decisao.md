@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão da relatoria do Ministro Marco Aurélio Bellizze, assim ementada (e-STJ fls. 1172-1179):
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por JJ HORTO VILLAGIO EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA., com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 877):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO DE CONTRATO DE VENDA E COMPRA C/C REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. Penhora on line. Constrição de quantia constante na conta bancária dos executados, que abrangeu quantia depositada inferior a quarenta salários-mínimos. Impenhorabilidade demonstrada. O STJ consolidou entendimento de que, até o limite de 40 (quarenta) salários- mínimos depositados em qualquer tipo de conta bancária, a impenhorabilidade há de ser respeitada. Decisão mantida. RECURSO DESPROVIDO. AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO DE CONTRATO DE VENDA E COMPRA C/C REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. SISBAJUD - MODALIDADE "TEIMOSINHA". Busca que deve ser limitada ao prazo de 30 (trinta) dias. Inviabilidade de estender a pesquisa por prazo indeterminado. Conselho Nacional de Justiça determina que a busca não deve ultrapassar o prazo máximo de 30 (trinta) dias. Decisão mantida. RECURSO DESPROVIDO.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, a recorrente apontou violação aos arts. 4º, 11, 489, 833, X, 835, I, 854 e 1.022 do CPC/2015.
+Aduziu a ocorrência de negativa de prestação jurisdicional.
+Defendeu a possibilidade de penhora de valores contidos em conta bancária, por não se tratar de caderneta de poupança, além de não ter sido comprovado que o dinheiro ali encontrado seria decorrente apenas de verbas salariais e que seria indispensável ao sustento da parte adversa.
+Alegou que o deferimento da penhora online pelo período de apenas 30 (trinta) dias seria insuficiente à satisfação da execução.
+Contrarrazões às fls. 968-974 (e-STJ).
+O processamento do apelo especial foi inadmitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+De início, verifica-se que a ora agravante não indicou, de forma pormenorizada, os pontos supostamente omitidos pelo Colegiado local, revelando a generalidade da tese de ofensa aos arts. 11, 489 e 1.022 do CPC/2015, o que atrai o entendimento firmado na Súmula 284 do STF, aplicável, por analogia, ao recurso especial, conforme autorizado pela jurisprudência deste Tribunal.
+Veja-se:
+ ..
+Noutro ponto, cumpre registrar que o atual entendimento da Corte Especial do STJ é no sentido de que a impenhorabilidade não se aplica automaticamente aos valores mantidos em conta-corrente, podendo eventualmente haver a extensão de tal garantia caso comprovado, pela parte processual atingida pelo ato constritivo, que o montante depositado em sua conta constitui reserva de patrimônio destinada a assegurar o mínimo existencial.
+Confira-se:
+ ..
+Na hipótese dos autos, verifica-se que o Tribunal de origem entendeu que a quantia, até o limite de 40 salários mínimos, depositada em qualquer tipo de conta bancária, seria impenhorável, o que revela a dissonância do referido posicionamento à recente orientação deste STJ sobre o tema.
+Contudo, a moldura fática presente no aresto recorrido não fornece elementos concretos para saber se houve a comprovação, pela parte recorrida, de que o montante objeto da constrição constitui reserva de patrimônio destinado a assegurar o mínimo existencial.
+Assim, os autos devem retornar à origem para que lá haja o rejulgamento do caso à luz da recente jurisprudência do STJ.
+Por fim, percebe-se que a segunda instância entendeu que o CNJ teria limitado a reiteração das buscas pelo sistema Sisbajud, na modalidade "Teimosinha", ao prazo de 30 (trinta) dias, não havendo impedimento, entretanto, à formulação de novo pedido, futuramente, para a repetição da pesquisa.
+Nas razões do recurso especial, contudo, a parte não se insurgiu especificamente contra os referidos fundamentos, o que enseja a aplicação das Súmulas 283 e 284/STF.
+A título ilustrativo:
+ ..
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento para determinar o retorno dos autos ao Tribunal estadual a fim de que rejulgue o agravo de instrumento, à luz da jurisprudência desta Casa a respeito da possibilidade de penhora de valores mantidos em contacorrente, desde que não destinados a assegurar o mínimo existencial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+Brasília, 24 de outubro de 2024.
+Segundo os embargantes, o julgado padeceria do vício de contradição, vindicando a impenhorabilidade das verbas salariais de um dos embargantes.
+Intimada nos termos do art. 1.023, § 2º, do Código de Processo Civil, a parte embargada deixou de se manifestar.
+Brevemente relatado, decido.
+A contradição apta a ensejar embargos de declaração refere-se a uma incompatibilidade interna na decisão, como quando os fundamentos apontam para uma conclusão, mas o dispositivo apresenta outra. As divergências entre o entendimento do órgão julgador e a tese sustentada pela parte ou entre órgãos julgadores distintos não se confundem com contradição, tratando-se, na verdade, de irresignação recursal incompatível com a via aclaratória. Não há contradição quando os fundamentos e a conclusão do julgado guardam coerência lógica entre si.
+No caso sub judice, não foi feita nenhuma referência à decisão criticada indicativa de incoerência interna entre os elementos textuais do corpo decisório que habilite o manejo do tipo recursal em exame . A jurisprudência desta Corte é firme no sentido de que não carece de fundamentação adequada a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia posta, como ocorreu na espécie" (AgInt no AREsp n. 2.263.229/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/5/2024, DJe de 22/5/2024).
+Pelo contrário, a decisão criticada se fundamentou no entendimento da Corte Especial deste Superior Tribunal de Justiça de que a garantia de impenhorabilidade do montante de até 40 salários mínimos é aplicável de forma automática exclusivamente aos depósitos em caderneta de poupança, e eventualmente aos valores mantidos em conta-corrente ou em qualquer outra aplicação financeira  nessa última hipótese, desde que comprovado, pela parte atingida, que o montante objeto da constrição constitui reserva de patrimônio destinado a assegurar o mínimo existencial.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. BLOQUEIO DE DINHEIRO VIA BACEN JUD. DINHEIRO DISPONÍVEL EM CONTA-CORRENTE, NÃO EM CADERNETA DE POUPANÇA. IMPENHORABILIDADE ABSOLUTA. ART. 833, X, DO CPC/2015. NORMA RESTRITIVA. INTERPRETAÇÃO AMPLIATIVA. IMPOSSIBILIDADE. REEXAME DAS CONCLUSÕES ADOTADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A Corte Especial firmou o entendimento de que, nos termos do art. 833, X, do CPC/2015, a garantia de impenhorabilidade do montante de até 40 salários mínimos é aplicável de forma automática exclusivamente aos depósitos em caderneta de poupança; e eventualmente aos valores mantidos em conta-corrente ou em qualquer outra aplicação financeira. Nessa última hipótese, desde que comprovado, pela parte atingida, que o montante objeto da constrição constitui reserva de patrimônio destinado a assegurar o mínimo existencial (REsps 1.677.144/RS e 1.660.671/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgados em 21/2/2024, DJe de 23/5/2024).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.580.015/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/4/2025, DJEN de 14/4/2025.)
+Observou-se, ainda, que a moldura fática estabilizada no acórdão da Corte local não fornece elementos concretos suficientes para saber se houve efetiva comprovação de que o objeto da constrição patrimonial é destinado a assegurar o mínimo existencial  razão pela qual se entendeu correto conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento para determinar o retorno dos autos ao Tribunal de origem para que se rejulgue o agravo de instrumento à luz da orientação jurisprudencial firmada por esta Corte (e-STJ fls. 1179).
+À luz desses conceitos e dos excertos da decisão embargada aqui transcritos, observa-se que os presentes aclaratórios refletem mera irresignação da parte com o resultado do julgamento, impondo-se sua rejeição.
+Pelo exposto, rejeito os presentes embargos declaratórios, mantendo a decisão atacada na integralidade dos seus termos.
+Publique-se.
+Intimem-se.
+EMENTA
