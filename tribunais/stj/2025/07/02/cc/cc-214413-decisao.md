@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre a Justiça Estadual e a Justiça Federal nos autos de ação ordinária de obrigação de fazer com pedido de tutela de urgência envolvendo direito à saúde, na qual é requerida a internação do autor em sistema home care.
+O feito, ajuizado contra o Município de Caxias do Sul/RS, foi inicialmente proposto perante o Juízo Estadual, o qual declinou da competência para o seu julgamento ao Juízo Federal com a inclusão da União no polo passivo, por entender que "nos casos em que há o atendimento domiciliar no âmbito do Programa Melhor em Casa (P MeC), cujo regulamento se dá por intermédio das Portarias GM/MS n. 3.005/2024 e n. 825/2016, a União figura como principal responsável pelo financiamento do serviço, sendo indispensável sua participação na lide" (e-STJ, fl. 324).
+O Juízo Federal, por sua vez, suscitou o presente conflito negativo de competência, ao fundamento de competir ao Juízo Estadual processar e julgar os feitos concernentes às prestações materiais de saúde alusivas à assistência domiciliar/melhor em casa.
+É o relatório. Decido.
+Cuida-se, originariamente, de ação ordinária na qual paciente com graves sequelas requer internação domiciliar do Sistema Único de Saúde.
+O Juízo Federal declinou da competência ao Juízo Estadual aos seguintes fundamentos (e-STJ, fls. 336-337):
+Na espécie, a parte autora busca prestação de saúde mais ampla do que aquela fornecida pelo SUS, por meio do Serviço de Atenção Domiciliar (SAD) e do Programa Melhor em Casa (P MeC), regulados pela Portaria GM/MS n. 3.005/2024. A normativa deixa também claro que compete aos municípios as prestações materiais de saúde alusivas à assistência domiciliar/melhor em casa:
+Art. 545-B. O P MeC será executado, de modo tripartite, pela União, por intermédio do Ministério da Saúde, pelos estados, pelo Distrito Federal e pelos municípios.
+§ 1º A adesão ao P MeC será realizada pelos municípios, estados ou Distrito Federal interessados mediante solicitação de habilitação e homologação de equipes do SAD.
+§ 2º Para fins do disposto no § 1º, não caberá solicitação para um único município por proponente duplo (município e estado concomitantes). " (NR)
+"Art. 545-C. Cabe às Secretarias Municipais de Saúde e do Distrito Federal:
+I - Planejar, implantar, organizar, gerenciar e executar o SAD no seu território de abrangência;
+II - Garantir a composição da equipe assistencial do SAD/P MeC, bem como o fornecimento de insumos, medicamentos e equipamentos necessários ao atendimento;
+III - Garantir ao usuário, por meio de fluxos locais pactuados na RAS, os serviços de retaguarda, especialmente os de urgência e emergência, internação hospitalar e referência para especialidades e exames complementares disponíveis na RAS;
+IV - Construir com os demais pontos da RAS a regulação do acesso ao SAD/P MeC e os fluxos para os encaminhamentos do SAD aos serviços de referência;
+V - Fiscalizar, controlar, monitorar periodicamente, avaliar e incentivar a atuação das equipes para garantir a assistência prestada ao paciente, família e cuidadores, conforme disposto neste Capítulo;
+VI - Manter capacitações periódicas contínuas internas das equipes EMAD, EMAP e EMAP-R e externas junto à RAS, com disponibilização no SAD de planilha anual de temas que serão abordados; e
+VII - Complementar os recursos financeiros repassados pelo Ministério da Saúde para o custeio mensal do SAD. " (NR)
+"Art. 545-D. Cabe às Secretarias Estaduais de Saúde:
+I - Prestar assessoria técnica aos municípios nos processos de construção de projetos no âmbito do SAD/P MeC, solicitação de habilitação e implementação nos processos assistenciais e de gestão;
+II - Habilitar novas equipes do SAD/P MeC;
+III - Realizar monitoramento periódico em conjunto com o Ministério da Saúde e avaliação dos SAD/P MeC, por meio de visitas remotas ou in loco, pelo menos uma vez ao ano;
+IV - Promover e participar dos processos que envolvam educação permanente e continuada, bem como elaboração de fluxos interestaduais e municipais;
+V - Participar da complementação do financiamento do SAD/P MeC, podendo contemplar recursos destinados à capacitação/formação dos profissionais, aquisição de equipamentos pertinentes a ações assistenciais e de gestão, conforme a Relação Nacional de Equipamentos e Materiais Permanentes Financiáveis para o SUS (RENEM), além de recursos atrelados a indicadores que evidenciem a otimização do uso dos leitos hospitalares simples e de UTI; e
+VI - Criar fluxo com disponibilização de canal de comunicação oficial para recebimento de demandas técnicas e de solicitações de intervenção nos SAD caso necessário. " (NR)
+"Art. 545-E. Cabe ao Ministério da Saúde:
+I - Homologar a habilitação SAD/P MeC feita pelos estados, conforme as regras deste Capítulo;
+II - Fazer a gestão do P MeC em âmbito nacional, incluindo monitoramento e avaliação;
+III - Prestar assessoria técnica aos demais entes;
+IV - Transferir incentivo financeiro aos municípios que tiverem equipes homologadas, para auxílio do custeio do SAD/P MeC; e
+V - Produzir materiais de apoio técnico, promover educação permanente e realizar e fomentar pesquisas para aprimoramento contínuo da AD. " (NR)
+Destaco que a União apenas excepcionalmente presta diretamente serviços em saúde ao usuário, a exemplo da regulação nacional de transplantes ou serviços aos indígenas por meio dos distritos sanitários especiais indígenas (o que inclusive justificou, no tema 1234, que os medicamentos para indígenas, não importa de que grupo, sejam julgados pela JF).
+Portanto, a União não é a responsável pela operacionalização do Serviço de Atenção Domiciliar (SAD) e do Programa Melhor em Casa (P MeC), tarefa que incumbe aos municípios, e sua presença nos autos em nada colabora à solução da demanda, somente gerando uma discussão por quem não é legítimo para a efetiva prestação do serviço e deslocando a competência do juízo natural, que é o estadual.
+Acerca da controvérsia posta, a jurisprudência do Superior Tribunal de Justiça se construiu no sentido de que as ações prestacionais na área de saúde no âmbito do Sistema Único de Saúde podem ser propostas em face de qualquer dos entes federativos, que são solidariamente responsáveis, conforme definido no julgamento do RE n. 855.178/SE (Tema 793/STF). Ressalvam-se as hipóteses de medicamentos ainda não aprovados pela ANVISA, em que a União integrará a lide em litisconsórcio passivo necessário.
+Tendo em vista a relevância e grande repercussão social da matéria, ela foi objeto do Incidente de Assunção de Competência n. 14/STJ e do Tema da Repercussão Geral n. 1.234/STF, assim definido: "Legitimidade passiva da União e competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária - ANVISA, mas não padronizados no Sistema Único de Saúde - SUS" (RE n. 1.366.243/SC, relator Ministro Presidente, Tribunal Pleno, DJe de 13/9/2022).
+Contudo, em se tratando de requerimento de internação no sistema home care, tem-se que a hipótese dos autos não se enquadra nem no IAC 14/STJ, que versou especificamente sobre ações relativas à saúde intentadas com o objetivo de compelir o Poder Público ao cumprimento de obrigação de fazer consistente na dispensação de medicamentos não inseridos na lista do SUS, mas registrado na ANVISA; nem no Tema n. 1.234/STF, em que expressamente ressalvou-se que produtos de interesse para saúde que não sejam caracterizados como medicamentos, tais como órteses, próteses e equipamentos médicos, bem como procedimentos terapêuticos, em regime domiciliar, ambulatorial e hospitalar, não foram debatidos na Comissão Especial e, portanto, não foram contemplados no tema.
+Incide, portanto, o disposto nas Súmulas 150 e 254 desta Corte, in verbis, respectivamente:
+Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.
+Nesse sentido, confiram-se as seguintes decisões desta Corte: CC n. 209.304, Ministro Benedito Gonçalves, DJEN de 25/02/2025; CC n. 211.382, Ministra Maria Thereza de Assis Moura, DJEN de DJEN 19/02/2025; CC n. 209.338, Ministro Teodoro Silva Santos, DJEN de DJEN 18/02/2025; CC n. 210.401, Ministro Paulo Sérgio Domingues, DJEN de DJEN 11/02/2025; CC n. 206.998, Ministra Maria Thereza de Assis Moura, DJEN de DJEN 29/01/2025; CC n. 209.744, Ministro Paulo Sérgio Domingues, DJEN de DJEN 23/12/2024; CC n. 209.404, Ministro Gurgel de Faria, DJEN de DJEN 23/12/2024; CC n. 210.159, Ministro Francisco Falcão, DJEN de DJEN 13/12/2024.
+Ante o exposto, conheço do conflito para declarar competente o Juízo estadual.
+Dê-se ciência aos Juízos envolvidos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E FEDERAL. HOME CARE. JULGAMENTO DO TEMA 1234/STF. INAPLICABILIDADE AO CASO. SÚMULAS 150 E 254/STJ. INTERESSE JURÍDICO DA UNIÃO AFASTADO PELA JUSTIÇA FEDERAL. IMPOSSIBILIDADE DE REEXAME. COMPETÊNCIA DO JUÍZO ESTADUAL.
