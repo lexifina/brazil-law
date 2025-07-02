@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo, interposto por PEDRO WASHINGTON SANTANA DE CARVALHO JUNIOR, em face de decisão que não admitiu recurso especial.
+O apelo extremo, a seu turno, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE CONSÓRCIO. NULIDADE. INEXISTÊNCIA DE CLÁUSULA ABUSIVA. SENTENÇA MANTIDA. 1. No caso, da leitura do contrato de adesão constante no Id.26524895, constato que, logo na cláusula primeira, há discriminação expressa de que referido instrumento trata-se de "Contrato de Participação em Grupo de Consórcio", assim como , nas cláusulas seguintes, a meu sentir, estão claramente dispostas as características da avença, assim como delineados de forma clara os direitos e obrigações concernentes aos contratantes. 2. Ademais, verifico que o contrato juntado nos autos está devidamente assinado pelas partes e h á , d e f o r m a l e g í v e l , i n f o r m a ç ã o d e q u e n ã o h á g a r a n t i a d e d a t a d e contemplação (Id.26524897, pág.12), o que confirma que o negócio se opera com o sorteio de cotas, sem possibilidade de adiantamento de valores de modo diverso, não havendo que prosperar, desse modo, a alegação do apelante ,de nulidade do contrato, ao fundamento de que teria contratado o negócio em virtude de erro e dolo da parte apelada. 3. Recurso desprovido.
+Nas razões de recurso especial, a parte recorrente aponta violação ao art. 4º; art. 20, inciso II; art. 37, §1º; art. 39, inciso IV; art. 51, §1º e 4º e art. 54 do CDC e 138 e 171 do Código Civil. Sustenta, em síntese, invalidade do negócio firmado com base em publicidade enganosa.
+Inadmitido o recurso na origem, foi manejado o agravo de fls. 356/362, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, sobre a validade do contrato entabulado, a Corte local consignou:
+A juíza de primeiro grau, julgou improcedentes os pedidos formulados na inicial, entendimento que, a meu sentir, merece ser mantido. É que, da leitura do contrato de adesão constante no Id.2652 4895, constato que, logo na cláusula primeira, há discriminação expressa de que referido instrumento trata-se de "Contrato de Participação em Grupo de Consórcio", assim como , nas cláusulas seguintes, a meu sentir, estão claramente dispostas as características da avença, assim como delineados de forma clara os direitos e obrigações concernentes aos contratantes. Ademais, verifico que o contrato juntado nos autos está devidamente assinado pelas partes e há, de forma legível, informação de que não há garantia de data de contemplação (Id.26524897, pág.12), o que confirma que o negócio se opera com o sorteio de cotas, sem possibilidade de adiantamento de valores de modo diverso, não havendo que prosperar, desse modo, a alegação do apelante ,de nulidade do contrato, ao fundamento de que teria contratado o negócio em virtude de erro e dolo da parte apelada. A corroborar o dito, registra-se, por oportuno, as conclusões do magistrado sentenciante nos atos de instrução processual realizados na origem:  ..  Nesse contexto, não há que se falar em abusividade de cláusula contratual, não havendo, portanto, como acolher o pleito do apelante.
+Assim, rever o entendimento do acórdão impugnado implicaria o reexame fático-probatório e a interpretação das cláusulas do contrato entabulado entre as partes, procedimento inadmissível no âmbito do recurso especial, por força das Súmulas 5 e 7/STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OBRIGAÇÃO DE FAZER. INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. VALIDADE DO CONTRATO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+ ..
+7. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+8. No caso concreto, o Tribunal local concluiu pela validade do contrato. Entender de modo contrário demandaria reinterpretação das cláusulas contratuais e reexame dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice das referidas súmulas.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.786.557/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/9/2023, DJe de 19/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. O acolhimento da pretensão recursal, no sentido de aferir a validade do contrato firmado entre as partes, exigira derruir a convicção formada na instância ordinária, o que atrai a incidência das Súmulas 5 e 7 do STJ. Precedentes.
+ ..
+(AgInt no AREsp n. 1.842.684/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
