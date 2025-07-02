@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+DIREITO PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. SENTENÇA DE PROCEDÊNCIA QUE EXTINGUIU A EXECUÇÃO POR INEXIGIBILIDADE DO TÍTULO. APELAÇÃO CÍVEL. CÉDULAS DE CRÉDITO BANCÁRIO. DEMONSTRATIVOS BANCÁRIOS PARA EMBASAR A EXECUÇÃO. AUSÊNCIA DE TÍTULO. EXECUÇÃO EXTINTA. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA NÃO SURPRESA E DA COOPERAÇÃO. INOCORRÊNCIA. JUNTADA DOS TÍTULOS EM SEGUNDA INSTÂNCIA. JUNTADA DE DOCUMENTOS EM SEDE RECURSAL. NÃO PREENCHIMENTO DAS HIPÓTESES DO ART. 435, DO CPC. PRECLUSÃO TEMPORAL. TÍTULO EXECUTIVO APRESENTADO EXTEMPORANEAMENTE. IMPOSSIBILIDADE DE APRECIAÇÃO. SENTENÇA MANTIDA. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+Alega-se violação dos artigos 3º, 9º, 10, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil sob os argumentos de que o acórdão local é omisso e houve a chamada decisão surpresa ao se extinguir o feito sem dar oportunidade prévia para se pronunciar sobre o fundamento adotado pelo acórdão de origem.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+O Tribunal local, no mais, consignou que:
+"(..) quando do ajuizamento da Ação de Execução de nº 0700579-70.2016.8.02.0047, impugnada através dos presentes Embargos, o Apelante não juntou a Cédula de Crédito Bancário objeto da Ação e, somente em sede de Apelo, com a relação processual já formada, o Apelante anexou o documento informando " que  à época do ajuizamento ocorreu um desfalque no tamanho do arquivo no sistema ESAJ, que não permitiu a juntada dos documentos, como o título executivo e o demonstrativo de debito atualizado, contudo, o processo teve seu tramite regular diante do juízo de execução, inclusive, com a perfectibilização da comunicação dos executados"" (e-STJ, fl. 332).
+Concluiu, assim, que:
+"(..) no que tange aos escritos anexados às fls. 269/284, por ocasião da interposição do Apelo, consigno que estes não serão apreciados, haja vista não se enquadrarem nas hipóteses autorizativas da juntada posterior de prova documental, previstas no Art. 435, do CPC" (e-STJ, fl. 333).
+O fundamento sobre o qual a parte deve ser intimada antes da decisão é juridicamente qualificado e não ao fundamento legal a ser adotado pelo órgão julgador.
+O Tribunal local, no caso dos autos, confirmou a sentença extintiva por ausência de título com fundamento nos artigos 784, 917 e 798, I, a, do Código de Processo Civil.
+A alegação de que não houve oportunidade de manifestação sobre os fundamentos em questão não é, ademais, o que se colhe dos autos, porquanto a sentença mencionou expressamente que a parte teve a oportunidade de se manifestar nos autos a respeito do ponto.
+A saber:
+"A falta do título executivo é vício sanável que pode ser suprido pela pronta juntada do documento aos autos. No entanto, a parte embargada teve a oportunidade de fazê-lo quando da apresentação da sua impugnação aos embargos, mas assim não proceder, como se observa das peças acostadas a fls.177/186" (e-STJ, fl. 247).
+O mesmo se diz em relação ao acórdão, na medida em que, instadas as partes a dizerem se tinham intenção de realizar acordo (e-STJ, 317), o agravante se manifestou nos seguintes termos:
+"BANCO DO BRASIL S/A, já devidamente qualificado nos autos em epígrafe, por seu advogado infra-assinado, constitui do nos termos do mandato já anexo, vem, à presença de Vossa Excelência, em atenção ao Despacho de fls. 317, informar que não possui interesse na autocomposição, visto que, conforme já disposto na oportunidade de interposição do Recurso de Apelação desta Instituição Financeira, entende ser plenamente viável a juntada posterior do título executivo, respaldando-se, para tanto, na apresentação de justo motivo e no princípio da instrumentalidade das formas" (e-STJ, fl. 319).
+Não se declara a nulidade de ato se não houve prejuízo para parte, como ensina o artigo 282, § 1º, do Código de Processo Civil.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LEILÃO ELETRÔNICO CONCLUÍDO, COM ARREMATAÇÃO DO BEM. POSTERIOR ALEGAÇÃO DE INCAPACIDADE TÉCNICA DO LEILOEIRO E DESCUMPRIMENTO DO TEMPO MÍNIMO DE EXERCÍCIO PROFISSIONAL (CPC/2015, ART. 880, § 3º). NULIDADE. INEXISTÊNCIA. LEILOEIRO PÚBLICO CREDENCIADO PELO TRIBUNAL. AUSÊNCIA DE IMPUGNAÇÃO APÓS NOMEAÇÃO. INEXISTÊNCIA DE PREJUÍZO AO EXECUTADO. PRECLUSÃO (CPC/2015, ARTS. 277 E 282, § 1º). AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "O reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief)" (AgRg no AgRg no AREsp 4.236/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/02/2014, DJe de 02/04/2014).
+2. Cabe à parte, na primeira oportunidade que tiver nos autos, alegar a nulidade absoluta, sob pena de preclusão (CPC/2015, art. 277).
+3. No caso, conforme ressaltado pelas instâncias ordinárias, a incapacidade técnica do leiloeiro deixou de ser arguida no momento oportuno, após sua nomeação pelo juízo, tendo sido apresentada apenas após a conclusão do leilão e a arrematação do bem. Ademais, o leiloeiro nomeado pelo juízo estaria devidamente cadastrado no sistema do Tribunal, não se verificando irregularidade no procedimento ou prejuízo à ampla defesa e ao devido processo legal.
+Nesse contexto, não se justifica a anulação do ato processual.
+4. Agravo interno improvido.
+(AgInt no REsp n. 1.930.980/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe de 1/2/2022.)
+Inequívoca, pois, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, §
+11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
