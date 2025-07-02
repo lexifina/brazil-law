@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Celini Bonzatto da Silva contra decisão que conheceu parcialmente do recurso especial para, nesse extensão, negar-lhe provimento.
+Sustenta a ora embargante que haveria omissão no julgado quanto ao Tema 1.083/STJ (fls. 5.690/5.695):
+Em prol da harmonia jurisprudencial, destaca-se a fundamentação expressa no RECURSO ESPECIAL Nº 2167216, que reconheceu a especialidade das atividades de trabalhador portuário avulso que exerceu as atividades laborais no Porto de Paranaguá e Antonina, ao tutelar que para o reconhecimento da especialidade do tempo de serviço não é necessário que a exposição ao agente nocivo se dê durante toda a jornada de trabalho de forma direta, mas que, durante a atividade laborativa, o segurado esteja em ambiente onde há possibilidade de contaminação e risco à sua saúde. Em outras palavras, o STJ tem entendimento de que a especialidade do trabalho deve ser reconhecida não pela exposição às condições insalubres durante todos os momentos da prática laboral, e, sim, permanência do risco.
+Em relação ao julgamento do Tema 1.083, o STJ concluiu que a exigência legal de habitualidade e permanência não pressupõe a exposição contínua ao agente nocivo durante toda a jornada de trabalho.
+O paradigma em destaque expressou que, embora o segurado esteja exposto ao agente ruído em diferentes níveis de efeitos sonoros, tanto o laudo do OGMO/PR, bem como o laudo do Sindicato, confirmam a exposição a ruídos superiores a 85 dB, entre 2003 a 2021, o que permite a especialidade das atividades.
+A título ilustrativo, colaciona-se a fundamentação da recente decisão proferida pelo STJ:
+ ..
+Ante os fundamentos expostos, em nome da harmonia jurisprudencial, requer-se o reconhecimento da especialidade das atividades exercidas pelo autor, em prol da concessão do benefício previdenciário.
+Por fim, pleiteia (fl. 413):
+a) a intimação do embargado para, querendo, manifestar- se no prazo legal sobre os embargos de declaração opostos, posto que seu acolhimento implicará na modificação da decisão embargada, conforme disciplina o art. 1.023, §2º, do Código de Processo Civil;
+b) que sejam sanadas as omissões apontadas a fim de reconhecer o direito do embargante à averbação da atividade especial desenvolvida, com fundamento no Tema 1.083, do STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Sem razão a embargante.
+A decisão embargada, quanto o Tema 1.083/STJ, foi assim fundamentada (fls. 5.679/5.681):
+Quanto ao Tema 1.083 dos recursos repetitivos, o Tribunal de origem afirmou não se enquadrar o caso concreto na tese firmada por este Superior Tribunal, pois carente de habitualidade e permanência no labor exposto a agentes nocivos, nestes termos (fls. 5.517/5.519):
+Acrescento, ainda, no que se refere à metodologia de medição do ruído, que o Superior Tribunal de Justiça, sob a sistemática dos recursos especiais repetitivos (REsp 1.886.795/RS), fixou no Tema 1083 a seguinte tese:
+"O reconhecimento do exercício de atividade sob condições especiais pela exposição ao agente nocivo ruído, quando constatados diferentes níveis de efeitos sonoros, deve ser aferido por meio do Nível de Exposição Normalizado (NEN). Ausente essa informação, deverá ser adotado como critério o nível máximo de ruído (pico de ruído), desde que perícia técnica judicial comprove a habitualidade e a permanência da exposição ao agente nocivo na produção do bem ou na prestação do serviço.
+O acórdão foi assim ementado:
+ ..
+A partir de 01/01/2004, há formulário PPP detalhado que informa exposição eventual a ruído.
+Nesse contexto, a publicação do Tema 1083/STJ confirma a compreensão já manifestada pela Turma no julgamento de casos similares, pois os documentos técnicos juntados aos autos comprovam exposição eventual ao ruído, enquanto a Tese firmada pelo Superior Tribunal de Justiça no Tema 1083 exige a comprovação da "habitualidade e a permanência da exposição ao agente nocivo".
+Ao assim proceder, o Tribunal de origem pôs-se em harmonia com o entendimento já pacificado neste Superior Tribunal e ratificado no julgamento do Tema 1.083 dos recursos repetitivos. Eis a ementa daquele julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. APOSENTADORIA ESPECIAL. AGENTE NOCIVO RUÍDO. NÍVEL DE INTENSIDADE VARIÁVEL. HABITUALIDADE E PERMANÊNCIA. METODOLOGIA DO NÍVEL DE EXPOSIÇÃO NORMALIZADO - NEN. REGRA. CRITÉRIO DO NÍVEL MÁXIMO DE RUÍDO (PICO DE RUÍDO). AUSÊNCIA DO NEN. ADOÇÃO.
+1. A Lei de Benefícios da Previdência Social, em seu art. 57, § 3º, disciplina que a aposentadoria especial será devida, uma vez cumprida a carência, ao segurado que comprovar tempo de trabalho permanente, não ocasional nem intermitente, em condições especiais que prejudiquem a saúde ou a integridade física, durante o período mínimo fixado em lei, sendo certo que a exigência legal de habitualidade e permanência não pressupõe a exposição contínua ao agente nocivo durante toda a jornada de trabalho.
+2. A questão central objeto deste recurso versa acerca da possibilidade de reconhecimento do exercício de atividade sob condições especiais pela exposição ao agente ruído, quando constatados diferentes níveis de efeitos sonoros, considerando-se apenas o nível máximo aferido (critério "pico de ruído"), a média aritmética simples ou o Nível de Exposição Normalizado (NEN).
+3. A Lei n. 8.213/1991, no § 1º do art. 58, estabelece que a comprovação da efetiva exposição do segurado aos agentes nocivos será feita por formulário com base em Laudo Técnico de Condições Ambientais do Trabalho - LTCAT nos termos da legislação trabalhista.
+4. A partir do Decreto n. 4.882/2003, é que se tornou exigível, no LTCAT e no Perfil Profissiográfico Previdenciário (PPP), a referência ao critério Nível de Exposição Normalizado - NEN (também chamado de média ponderada) em nível superior à pressão sonora de 85 dB, a fim de permitir que a atividade seja computada como especial.
+5. Para os períodos de tempo de serviço especial anteriores à edição do referido Decreto, que alterou o Regulamento da Previdência Social, não há que se requerer a demonstração do NEN, visto que a comprovação do tempo de serviço especial deve observar o regramento legal em vigor por ocasião do desempenho das atividades.
+6. Descabe aferir a especialidade do labor mediante adoção do cálculo pela média aritmética simples dos diferentes níveis de pressão sonora, pois esse critério não leva em consideração o tempo de exposição ao agente nocivo durante a jornada de trabalho.
+7. Se a atividade especial somente for reconhecida na via judicial, e não houver indicação do NEN no PPP, ou no LTCAT, caberá ao julgador solver a controvérsia com base na perícia técnica realizada em juízo, conforme disposto no art. 369 do CPC/2015 e na jurisprudência pátria, consolidada na Súmula 198 do extinto Tribunal Federal de Recursos, observado o critério do pico de ruído.
+8. Para os fins do art. 1.039, CPC/2015, firma-se a seguinte tese:
+"O reconhecimento do exercício de atividade sob condições especiais pela exposição ao agente nocivo ruído, quando constatados diferentes níveis de efeitos sonoros, deve ser aferido por meio do Nível de Exposição Normalizado (NEN). Ausente essa informação, deverá ser adotado como critério o nível máximo de ruído (pico de ruído), desde que perícia técnica judicial comprove a habitualidade e a permanência da exposição ao agente nocivo na produção do bem ou na prestação do serviço."
+9. In casu, o acórdão do Tribunal de origem manteve a sentença que concedeu ao segurado a aposentadoria especial, consignando ser possível o reconhecimento do labor especial por exposição a ruído variável baseado nos picos de maior intensidade, quando não houver informação da média de ruído apurada segundo a metodologia da FUNDACENTRO, motivo pelo qual merece ser mantido.
+10. Recurso da autarquia desprovido.
+(REsp n. 1.886.795/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 25/11/2021.)
+Diante dessa manifestação, não prospera a alegada omissão quanto ao Tema 1.083/STJ.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
