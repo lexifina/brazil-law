@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo, interposto por BANCO PAN S.A., em face de decisão que não admitiu o recurso especial.
+O apelo nobre, a seu turno, com amparo nas alíneas "a" e "c" do permissivo constitucional, foi manejado no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+APELAÇÃO - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MANUTENÇÃO INDEVIDA DA NEGATIVAÇÃO - ILEGITIMIDADE PASSIVA - EMPRESA PERTENCENTE AO MESMO GRUPO ECONÔMICO - APLICAÇÃO DA TEORIA DA APARÊNCIA - PRELIMINAR REJEITADA - FATURA QUITADA NA DATA DE VENCIMENTO - POSTERIOR INCLUSÃO DO NOME DO CONSUMIDOR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - ATO ILÍCITO CONFIGURADO - REPARAÇÃO DEVIDA - VALOR FIXADO COM RAZOABILIDADE NA ORIGEM - MANUTENÇÃO - MAJORAÇÃO DA VERBA HONORÁRIA (ARTIGO 85, §11, DO CPC) - RECURSO NÃO PROVIDO. As empresas que integram o mesmo grupo econômico respondem por eventual obrigação determinada pelo Juízo contra qualquer uma delas. Comprovado o pagamento do débito na data de seu vencimento, a posterior inclusão do nome do consumidor nos órgãos de proteção ao crédito configura ato ilícito e gera direito a dano moral. O valor fixado na sentença para a indenização deve ser mantido quando atende às funções punitiva, compensatória e pedagógica. Ao julgar o Recurso, o Tribunal deverá majorar a verba honorária anteriormente definida, levando em conta o trabalho adicional realizado nessa fase (art. 85, §11, do CPC).
+Nas razões do recurso especial, a insurgente alega violação aos artigos 188, inciso I, do Código Civil e 50, § 4º do Código Civil; aduzindo sua ilegitimidade passiva e ausência do dever de indenizar, pois a negativação foi realizada em exercício regular do direito.
+Após decisão de inadmissibilidade do recurso especial, foi manejado agravo de fls. 323/332, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Quanto à tese de ilegitimidade passiva e ausência de responsabilidade da agravante, restou consignado no acórdão recorrido:
+A apelante argui a sua ilegitimidade passiva, já que o Contrato foi firmado com o Banco Pan S. A., pessoa jurídica distinta. No entanto, como fazem parte do mesmo grupo econômico, a responsabilidade é solidária (Teoria da Aparência).  ..
+Infere-se do extrato apresentado pela autora que a anotação restritiva por suposto inadimplemento de R$4.329,05 foi realizada em 18-1-2022(ID. 226833160), quando na verdade o pagamento já havia sido feito em 16-12-2021, data do vencimento (ID. 226833157 - pág. 3), e a baixa foi providenciada apenas em 23-2-2022 (ID. 226833157 - pág. 5).
+E mais, ainda que a quitação tivesse sido em 29-12-2021, como afirma a apelante, o ato ilícito estaria caracterizado, pois a negativação perdurou até 23-2-2022, e ela não se desincumbiu do ônus probatório imposto no inciso II doartigo 373 do CPC.
+Nesse contexto, a desconstituição das premissas adotadas pelo órgão de origem no ponto esbarra no óbice da Súmula 7 do STJ ante a necessidade de revolvimento dos elementos fático-probatórios dos autos.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. VERIFICAÇÃO DA LEGITIMIDADE DA DÍVIDA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem, com fundamento na prova documental trazida aos autos, concluiu ser devida a indenização por danos morais em razão de inscrição irregular em cadastros de inadimplentes, pois foi comprovado que o contrato de prestação de serviços e o cheque que originaram a dívida não foram firmados pelo autor.
+2. A modificação do entendimento lançado no v. acórdão recorrido, como pleiteada pela recorrente, para reconhecer a legitimidade da dívida e o justo motivo para inclusão do nome do autor nos cadastros de inadimplentes, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.037.690/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2017, DJe de 27/6/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE VIZINHANÇA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CESSÃO PROVISÓRIA DE USO. CARNAVAL DE RUA. RUÍDOS EXCESSIVOS. LEGITIMIDADE PASSIVA E DEVER DE INDENIZAR RECONHECIDOS PELO TRIBUNAL LOCAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. LEGITIMIDADE PASSIVA AD CAUSAM. PROPRIETÁRIO. DIREITO DE VIZINHANÇA. OBRIGAÇÃO PROPTER REM. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem reconheceu a legitimidade passiva do ora agravante para figurar no polo passivo da ação e o seu dever de indenizar. Nesse contexto, verifico que o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1311349/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2018, DJe 25/09/2018)
+Outrossim, "A jurisprudência, aplicando a teoria da aparência, reconhece a legitimidade passiva ad causam de empresas integrantes de um mesmo grupo econômico quando verificada a impossibilidade de se precisar qual delas participou do negócio entabulado entre as partes. Precedentes." REsp n. 1.788.213/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/10/2021, DJe de 15/12/2021.). Incidência, também, no ponto, da Súmula 83 do STJ.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para de plano negar provimento ao recurso especial e, ante o disposto no artigo 85, § 11, do CPC, majoro em 10% (dez por cento) o valor dos honorários de sucumbência arbitrados pelo Tribunal de origem em favor da parte ora agravada.
+Publique-se.
+Intimem-se.
+EMENTA
