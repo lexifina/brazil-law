@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo da 2ª Vara do Trabalho de Gravataí - RS em face do Juízo de Direito da 1ª Vara Cível de Gravataí - RS nos autos de ação ajuizada por CLEUSA BERENICE DA COSTA FAGUNDES contra o SINDICATO NACIONAL DOS APOSENTADOS PENSIONISTAS E IDOSOS DA FORÇA SINDICAL objetivando obter declaração de inexigibilidade de débito relativo a desconto de contribuição cumulado com pedido de indenização por danos materiais e morais.
+Colhe-se do processado que a demanda foi ajuizada perante o Juízo Estadual, afirmando a parte autora que não autorizou a parte ré a efetivar descontos no seu benefício previdenciário a título de "contribuição SINAB".
+O Juízo de Direito da 1ª Vara Cível de Gravataí - RS declinou de sua competência asseverando que "é o caso de reconhecer a incompetência material absoluta deste Juízo, porquanto a ação declaratória movida pela sociedade autora contra o requerido decorre da suposta prática de irregularidades ou atos ilícitos vinculados à contribuição sindical. Tem-se, portanto, a atração da competência da Justiça do Trabalho para julgamento, conforme prevê o art. 114, III, da Constituição Federal".
+O Juízo da 2ª Vara do Trabalho de Gravataí - RS, por sua vez, suscitou este conflito argumentando:
+A ação foi movida em face do SINDICATO NACIONAL DOS APOSENTADOS, PENSIONISTAS E IDOSOS DA FORCA SINDICAL, o qual constitui-se como associação civil, pessoa jurídica de direito privado (estatuto social do pdf de folhas 87), portanto resta evidente que a empresa demandada não se insere nas previsões dos art. 511 e 570 da CLT, pois não representa categoria profissional ou econômica.
+Ademais, a pretensão deduzida na inicial refere-se à Ilegalidade dos descontos realizados a título de contribuição associativa sobre o valor do benefício de aposentadoria, situação que não é englobada no art. 114, III da CF, o qual limita a competência dessa justiça especializada às ações que versem "sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores".
+Ressalto ainda que a parte autora não se enquadra como trabalhadora, sendo aposentada por idade desde 19/10/2018 (folhas 30 do pdf), e que o demandado não representa categoria econômica ou profissional, concluo que a matéria discutida nos presentes autos não se insere na competência material da Justiça do Trabalho (art. 114, III da CF), sendo de competência da Justiça Comum Estadual.
+O Ministério Público Federal manifestou-se pela competência do Juízo suscitado, resumido o parecer nos seguintes termos:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA DO TRABALHO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANO MATERIAL E MORAL. DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM. Parecer pelo conhecimento e procedência do conflito, declarando-se a competência do Juízo de Direito da 1ª Vara Cível de Gravataí/RS, o suscitado.
+É o relatório.
+Com razão o Parquet e o Juízo suscitante.
+Com efeito, consoante relatado, questiona a parte autora descontos efetuados pelo SINDICATO NACIONAL DOS APOSENTADOS PENSIONISTAS E IDOSOS DA FORÇA SINDICAL em seu benefício previdenciário a título de contribuição sindical, buscando declaração de inexigibilidade dessa cobrança, devolução em dobro do valor descontado, bem como indenização por danos materiais e morais.
+Vale dizer, a controvérsia é de natureza civil, sem qualquer relação com a matéria de competência da Justiça do Trabalho.
+Nesse sentido a decisão monocrática nos autos do CC 213040/MA, de Relatoria do Min. Humberto Martins, DJe de 06/06/2025, assim ementada:
+CONFLITO DE COMPETÊNCIA. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. DESCONTO NÃO AUTORIZADO SOBRE BENEFÍCIO PREVIDENCIÁRIO A ENTIDADE REPRESENTATIVA DE CATEGORIA. COMPETÊNCIA DA JUSTIÇA COMUM.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara Cível de Gravataí - RS , o suscitado.
+Dê-se ciência ao Juízo suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. INDENIZAÇÃO POR DANO MATERIAL E MORAL. NATUREZA CIVIL. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL.
