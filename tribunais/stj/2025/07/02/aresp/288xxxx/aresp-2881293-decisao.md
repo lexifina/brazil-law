@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inviabilidade de arguir ofensa a artigo da Constituição e inexistência de violação dos arts. 489 e 1.022, I e II, do CPC (fls. 731-732).
+O acórdão recorrido está assim ementado (fl. 675):
+RESPONSABILIDADE CIVIL - Ação reparatória fundada em aventado erro médico que teria resultado no óbito de seu companheiro - Sentença de parcial procedência para o fim de condenar o hospital demandado ao pagamento de indenização por danos morais no valor de R$ 300.000,00 e de improcedência em relação ao médico corréu - Inconformismo exclusivo do hospital demandado - Falha na prestação do serviço médico prestado pela equipe do hospital requerido configurada - Falecido que em curto período compareceu ao hospital por três vezes com queixa de lombalgia e, na última vez, foi internado em UTI com quadro de infecção generalizado vindo a óbito em poucas horas - Laudo pericial que concluiu que a investigação diagnóstica foi deficiente já que não houve a realização de exames nas idas anteriores ao hospital - Negligência dos prepostos do hospital réu caracterizada - Defeito na prestação de serviço configurado a justificar a obrigação de indenizar por danos morais - Redução do édito condenatório extrapatrimonial para adequação ao critério da razoabilidade - Valor reparatório que deve observar a gravidade das consequências causadas pela ação ilícita e o parâmetro das indenizações fixadas em casos semelhantes - Redução deste para R$ 200.000,00 - Recurso provido em parte.
+Os embargos de declaração foram rejeitados (fls. 724-727).
+Nas razões do recurso especial (fls. 688-713), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, alegando omissões e obscuridades no acórdão, especialmente sobre a fundamentação do quantum indenizatório e a aplicação da Teoria da Perda de uma Chance. Argumentou que o acórdão não enfrentou adequadamente os fundamentos legais e jurisprudenciais apresentados, violando o princípio da fundamentação previstos nos dispositivos.
+Não foram oferecidas contrarrazões (fl. 730).
+O agravo (fls. 735-753) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 756-761).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Houve o enfrentamento de toda a questão posta em discussão na instância a quo, desenvolvida e analisada fundamentadamente, ainda que em sentido contrário à pretensão da parte recorrente. Confira-se o seguinte excerto (fls. 683-685):
+Definida a obrigação de indenizar, resta a questão relacionada ao quantum indenizatório no que tange aos danos morais.
+Como se sabe, inexistem critérios legais e expressos para a quantificação do pretium dolores, sendo que a fixação da indenização é deixada ao prudente arbítrio do juiz, que o utilizará com ampla margem de discricionariedade.
+ ..
+Nesse passo, tendo como parâmetros as indenizações ordinariamente fixadas para casos como o dos autos e consideradas as graves consequências do ilícito praticado, pois a falta de adequada avaliação do quadro clínico do paciente reduziu sua chance de recuperação, permitindo que esse viesse a óbito, sem a oportunidade de um adequado tratamento, resultando em intenso sofrimento à autora, sua companheira, tem-se como adequada ao atendimento dos critérios da razoabilidade e da proporcionalidade a redução da indenização imposta ao demandado a título de dano moral para R$ 200.000,00, com correção e juros de mora nos limites da sentença, já que este tópico não foi objeto de irresignação.
+Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvimento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
