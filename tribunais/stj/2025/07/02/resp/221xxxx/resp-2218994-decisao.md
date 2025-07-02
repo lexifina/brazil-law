@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 415):
+APELAÇÕES. REEXAME NECESSÁRIO. AÇÃO COLETIVA. DIREITO DE GREVE. SERVIDOR PÚBLICO. INSTRUÇÃO NORMATIVA Nº 54/2021. INCOMPETÊNCIA DO TRF PARA JULGAMENTO ORIGINÁRIO. UNIVERSIDADE. LEGITIMIDADE PARA FIGURAR NO POLO PASSIVO. ACORDO PARA COMPENSAÇÃO DOS DIAS DE GREVE. CHANCELA DO SIPEC.
+AUSÊNCIA DE VIOLAÇÃO À AUTONOMIA UNIVERSITÁRIA. DECRETO Nº 67.326/70. INSTRUÇÃO NORMATIVA Nº 49/23. APELAÇÕES E REEXAME PROVIDOS.
+- No julgamento da Reclamação nº 21842 (19/10/2015), o Supremo Tribunal Federal - STF reafirmou a competência originária de Tribunal de Justiça para processar e julgar conflitos decorrentes do exercício do direito de greve de servidores públicos municipais.
+- Assim, até que seja editada legislação específica, nos termos do art. 37, II, da Constituição Federal, o STF estabeleceu parâmetros de competência constitucional para a apreciação do exercício do direito
+de greve de servidores públicos. A depender da abrangência da paralisação dos servidores grevistas, a competência poderá ser do Superior Tribunal de Justiça - STJ, de Tribunais Regionais Federais ou de Tribunais de Justiça.
+- No caso concreto, o sindicato não está discutindo a paralisação dos servidores grevistas de forma concreta, mas sim a declaração de nulidade dos arts. 4º e 5º da Instrução Normativa SGP/SEDGG/ME
+nº 54, de 20/05/2021, da Secretaria de Gestão e Desempenho de Pessoal do Ministério da Economia, por violação aos arts. 9º, 37, VII e 207 da Constituição da República, arts. 54 e 55 da Lei nº 9.394/1996 e art. 1º da Lei nº 7.783/1989.
+- Nos termos do Decreto nº 67.326/70, fazem parte do SIPEC as unidades da Administração Pública Federal que atuam exclusivamente na gestão de pessoas, categorizadas em Órgão Central, Órgãos Setoriais, Órgãos Seccionais e Correlatos da Administração Pública Federal Direta, Autárquica e Fundacional. Cabe ressaltar que a gestão de pessoal da UFRJ e demais autarquias possui representação no SIPEC.
+- O Ministério da Gestão e da Inovação em Serviços Públicos/MGI é Órgão Central do SIPEC, sendo responsável por acompanhar os movimentos grevistas, estabelecer interlocução com servidores, bem como expedir orientações, além de editar atos normativos que versam sobre o tema.
+- A necessidade de anuência do órgão central do SIPEC para elaboração de acordos relativos a movimentos grevistas firmados por servidores da UFRJ não configura violação à autonomia administrativa da Universidade, tanto no texto anterior quanto no novo texto presente na Instrução Normativa nº49/23.
+- Da mesma forma, não há se falar em intromissão na conveniência e oportunidade para definição do momento oportuno para deflagração da greve, porque a Resolução trata tão somente do acordo que deve regular os descontos remuneratórios e a compensação das cargas horárias.
+- Apelação e reexame da UNIÃO providos e apelação e reexame da UFRJ parcialmente providos.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigos 489, §1º, e 1.022, inciso II do CPC; 54 e 55 da Lei 9.394/1996; 1º da Lei 7.783/1989; 3º, 4º, 13, 41 e 62 da Lei 8.112/90 e art. 18 da Lei 11.416/2006.
+Preliminarmente, sustenta a existência de omissão no acórdão recorrido por "ausência de apreciação da pretensão central, especialmente no que tange à violação da autonomia universitária e à interferência indevida do SIPEC, demonstra uma falha na entrega da prestação jurisdicional completa" (fl.487).
+Defende, em síntese, a autonomia das instituições de ensino superior para gerir o seu quadro de pessoal, inclusive obrigando à União a assegurar orçamento suficiente para esses entes, sem que, com isso, a autorize a se imiscuir nas questões internas das universidades (fl.491).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fl. 572.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mérito, não obstante a recorrente tenha indicado a violação dos artigos 54 e 55 da Lei 9.394/1996; 1º da Lei 7.783/1989; 3º, 4º, 13, 41 e 62 da Lei 8.112/90 e art. 18 da Lei 11.416/2006, além de não estarem prequestionados por não terem sido objeto de debate pela Corte Estadual (Súmula 211/STJ), constata-se a deficiência na fundamentação recursal, uma vez que a parte recorrente não desenvolveu argumentação suficiente para demonstrar em que consiste a alegada violação aos dispositivos legais mencionados.
+Conforme a jurisprudência pacífica desta Corte Superior, é imprescindível a demonstração inequívoca da ofensa aos dispositivos apontados nas razões do recurso especial, bem como sua particularização, a fim de viabilizar o exame em conjunto com o decidido nos autos. Tal demonstração não foi realizada na hipótese em apreço, configurando deficiência de fundamentação e ensejando, por analogia, a aplicação da Súmula 284 do STF.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA. RECONHECIMENTO TEMPO ESPECIAL. ARTIGO VIOLADO. AUSÊNCIA DE INDICAÇÃO CLARA, DIRETA E PARTICULARIZADA DA FORMA COMO O ACÓRDÃO RECORRIDO VIOLOU O DISPOSITIVO LEGAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. RECONHECIMENTO DE TEMPO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Limitando-se a parte agravante, em seu recurso especial, a tecer argumentação genérica como se apelação fosse, sem indicar de forma clara, precisa e congruente de que forma os vários dispositivos de lei federal citados teriam sido violados, incide na espécie a Súmula 284/STF, por analogia. Precedente: AgRg no REsp 1.196.326/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 26/09/2014.
+3. Diante do delineamento fático feito pelo Tribunal a quo, é necessário
+reconhecer que o recurso especial esbarra na Súmula 7 do STJ, uma vez que não é possível revisar as conclusões adotadas sem o reexame de fatos e provas.
+4. Segundo entendimento desta Corte, a inadmissão do recurso especial
+interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+5. Agravo interno não provido (AgInt no Aresp 2373867/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, Dje de 07/04/2025- grifo nosso).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRESCRIÇÃO. INOCORRÊNCIA. PRINCÍPIO DA ACTIO NATA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA.
+ ..
+4. Considerado o delineamento fático realizado pelo Tribunal a quo,
+deve-se reconhecer que o recurso especial encontra óbice na Súmula 7 do STJ, porquanto não há como revisar as conclusões adotadas sem o reexame de fatos e provas.
+5. A alegação genérica de ofensa a dispositivo legal desacompanhada de
+causa de pedir suficiente à compreensão da controvérsia e sem a indicação
+precisa de que forma o acórdão recorrido teria transgredido os dispositivos legais relacionados atrai a aplicação da Súmula 284 do STF.
+6. Agravo interno desprovido. (AgInt no AREsp n. 1.849.369/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2022, DJe de10/5/2022.) Ressalta-se que a indicação deve ser clara, precisa e específica, "(..) não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF" (AgInt no AREsp 1.684.101/MA, Rel. Min. Moura Ribeiro, Terceira Turma, DJe de 26/8/2020).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. DIREITO DE GREVE. ACORDO. AUTONOMIA ADMINISTRATIVA. VIOLAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
