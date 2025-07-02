@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADAILZA ALVES DE SOUSA CREPALDI, TYRONE LUIZ PARREIRA FILHO, ADRIANA SOUZA ALVES RODRIGUES, ANA PAULA DANTAS VIANA, ANDREZA MARIA DOS SANTOS, JOÃO PEREIRA NUNES NETO à decisão de minha relatoria que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negou-lhe provimento.
+Sustentam os embargante que a decisão embargada é omissa. Asseveram:
+Na r. decisão deste C. STJ, houve manifestação referente às letras "a" e "b", que tratam da estabilização da decisão saneadora, porém, restou omissa, quanto ao pedido do agravante, referente às letras "c" e "d", que tratam respectivamente, da consulta ao perito nomeado, se há real possibilidade de realização da perícia para apurar os custos da obra (letra "c"), e, que sejam desconsiderados os quesitos formulados pelo MP, devendo se for o caso, serem formulados outros (letra "d").
+ ..
+Entendem os recorrentes, data vênia, uma vez que este C. STJ já manifestou sobre os pedidos relativos às letras "a" e "b" (estabilização da decisão saneadora), resta assim, que haja manifestação quanto aos pedidos referentes às letras "c" e "d", considerando que o juízo de primeiro grau permaneceu omisso quanto aos mencionados pedidos (letras "c" e "d"), estes, devem ser de incumbência do mesmo.
+Ao final postulam (fl. 429):
+Que, no mérito, sejam providos os presentes Embargos de Declaração, já que resta demonstrada a presença de omissão na r. decisão, quanto ao conteúdo das letras "c" e "d", constante dos embargos de declaração (mov. 145), propostos no juízo de primeiro grau, com determinação para que aquele juízo, manifeste sobre os mencionados pedidos.
+Foi apresentada resposta ao recurso integrativo (fls. 436-439).
+É o relatório.
+Decido.
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque a decisão impugnada resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, na decisão embargada foi explicitamente assinalado que o acórdão proferido pelo Tribunal de origem não é omisso, manifestando-se quantos aos aspectos essenciais à solução da controvérsia, e que o julgador não é obrigado a rebater individualmente todos os argumentos suscitados, especialmente quando adotar fundamentação contrária à pretensão da parte e suficiente para solucionar o feito.
+Além disso, a decisão embargada anotou que, quanto à pertinência das provas solicitadas e esclarecimentos pleiteados, deferidos e indeferidos, o Tribunal de origem decidiu o feito com base nas provas constantes dos autos. Diante disso, concluiu que examinar argumentos relativos ao descabimento das provas solicitadas é obstado pelo óbice da Súmula n. 7 do STJ.
+Assim, tendo em vista o mencionado empecilho processual ao conhecimento do recurso especial, insubsistente a alegação de que existem omissões no tocante à análise das matérias de mérito contidas no bojo do apelo nobre, tal como pretendido pela parte embargante.
+Reitere-se que "descabe falar em omissão do julgado sobre argumentos vinculados ao mérito do recurso se este nem mesmo ultrapassou a fase de admissibilidade" (EDcl no AgRg nos EDcl nos EAREsp n. 1.958.942/PR, relator Ministro Og Fernandes, Corte Especial, julgado em 7/3/2023, DJe de 15/3/2023).
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão na decisão embargada, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. PERTINÊNCIA DA REALIZAÇÃO DAS PROVAS PLEITEADAS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
