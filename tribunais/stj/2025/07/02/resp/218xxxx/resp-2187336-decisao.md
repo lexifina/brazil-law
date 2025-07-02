@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 374):
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. TEMPO ESPECIAL. RUÍDO. TÉCNICA UTILIZADA. ELETRICIDADE. RECURSO DO INSS DESPROVIDO.
+1. Considera-se especial a atividade desenvolvida com exposição a ruído superior a 80 dB até 05/03/1997; superior a 90 dB entre 06/03/1997 a 18/11/2003 e superior a 85 dB a partir de 19/11/2003 (REsp 1.398.260).
+2. Não havendo dúvidas de que é insalubre a exposição do trabalhador, de modo habitual e permanente, a ruídos em intensidade de 90 decibéis, inclusive pelo que dispõe o Anexo I da Norma Regulamentadora nº 15, do Ministério do Trabalho e Emprego, deve ser reconhecida como especial a atividade desempenhada em tal condição, durante o período de 05/03/1997 a 28/09/1998 e 04/01/1999 a 18/11/2003, que vigiam as disposições do Decreto 2.172/1997.
+3. Quanto a técnica utilizada no PPP, não se exige que o ruído esteja expresso em seu Nível de Exposição Normalizado (NEN) para fins de reconhecimento da especialidade do labor por exposição ao respectivo agente, bastando que, para sua aferição, sejam utilizadas as metodologias contidas na NHO-01 da FUNDACENTRO ou na NR-15.
+4. Período de 06/01/1992 a 11/09/1995, 02/10/1995 a 28/09/1998, 04/01/1999 a 19/07/2004 e 06/11/2006 a 11/04/2019 corretamente reconhecido como tempo especial pelo juízo, em razão da exposição ao agente ruído em intensidade superior ao limite previsto como tolerável, na forma exigida pela legislação previdenciária.
+5. O conjunto probatório presente nos autos atesta que o autor trabalhou exposto ao fator de risco eletricidade em tensões acima de 250 volts, no período de 06/11/2006 a 11/04/2019, de forma habitual e permanente, justificando o reconhecimento do mesmo como tempo especial.
+6. Recurso do INSS desprovido.
+Os embargos de declaração opostos foram rejeitados (fl. 412).
+Em suas razões recursais, a parte recorrente aponta ofensa ao art. 1.022, II, do Código de Processo Civil (CPC), "pois o acórdão recorrido, ao negar-se a se pronunciar sobre a matéria posta nos embargos de declaração, uma vez que somente decidiu não ser o caso de embargos de declaração, gera violação a disposição legal" (fl. 427), e ao art. 58 da Lei 8.213/1991 e ao art. 6º, da Lei de Introdução às Normas do Direito Brasileiro, porque (fl. 431)
+ ..  o acórdão recorrido, ao enquadrar como especial um período de atividade em que a exposição do segurado ao agente nocivo não excedeu o limite de tolerância contrariou frontalmente o disposto no art. 58 da Lei 8.213/91, e a aplicação retroativa do limite de tolerância surgido somente com o Decreto 4.882/2003 para regência de período anterior ao início de vigência desse decreto contrariou o disposto no art. 6º do Decreto-Lei 4.657/42, que positiva o princípio da irretroatividade da lei, e por isso merece reforma, para que os períodos controvertidos seja computado como de tempo comum, não especial.
+Requer (fls. 431/432)
+ ..  que seja este recurso especial conhecido e provido, para que seja anulado o acórdão recorrido, baixando-se os autos à instância de origem, para que se pronuncie sobre o disposto no art. 58º da Lei 8.213/91 e no art. 6º do Decreto-Lei 4.657/42, ou, sucessivamente, que seja reformado o acórdão recorrido, para declarar-se que os períodos de 5/3/1997 a 28/9/1998 e 4/1/1999 a 18/11/2003 devem ser computados como tempo comum e para julgar-se improcedente o pedido inicial.
+A parte adversa apresentou contrarrazões (fls. 438/441).
+O recurso foi admitido na origem (fl. 447).
+É o relatório.
+A Primeira Seção desta Corte, no julgamento do Recurso Especial 1.398.260/PR, de relatoria do Ministro Herman Benjamin, submetido à sistemática dos recursos especiais repetitivos, decidiu que o limite de tolerância, para configuração da especialidade do tempo de serviço, para o agente ruído, deve ser de 90 (noventa) decibéis no período de 6/3/1997 a 18/11/2003, sendo impossível a aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 (oitenta e cinco) decibéis.
+O julgado em questão restou assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. TEMPO ESPECIAL. RUÍDO. LIMITE DE 90DB NO PERÍODO DE 6.3.1997 A 18.11.2003. DECRETO 4.882/2003. LIMITE DE 85 DB. RETROAÇÃO. IMPOSSIBILIDADE. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA PRESTAÇÃO DO SERVIÇO.
+Controvérsia submetida ao rito do art. 543-C do CPC
+1. Está pacificado no STJ o entendimento de que a lei que rege o tempo de serviço é aquela vigente no momento da prestação do labor. Nessa mesma linha: REsp 1.151.363/MG, Rel. Ministro Jorge Mussi, Terceira Seção, DJe 5.4.2011; REsp 1.310.034/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2012, ambos julgados sob o regime do art. 543-C do CPC.
+2. O limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB (ex-LICC). Precedentes do STJ.
+Caso concreto
+3. Na hipótese dos autos, a redução do tempo de serviço decorrente da supressão do acréscimo da especialidade do período controvertido não prejudica a concessão da aposentadoria integral.
+4. Recurso Especial parcialmente provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008.
+(REsp n. 1.398.260/PR, relator Ministro Herman Benjamin, Primeira Seção, julgado em 14/5/2014, DJe de 5/12/2014, sem grifos no original.)
+Assim, somente é cabível o reconhecimento do tempo de serviço especial, por submissão ao agente ruído, no período de 6/3/1997 a 18/11/2023, por exposição a pressão sonora superior a 90 (noventa) decibéis
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RUÍDO. ÍNDICE DENTRO DO LIMITE LEGAL. ESPECIALIDADE DA ATIVIDADE NÃO RECONHECIDA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A Primeira Seção desta Corte, no julgamento do Tema n. 694/STJ, firmou entendimento no sentido de que o limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999.
+III - No caso dos autos, o Tribunal de origem, com base no conjunto fático-probatório dos autos, consignou que o autor estava submetido a nível de ruído que não extrapola o limite de tolerância (90dB), inviável, portanto, o reconhecimento da especialidade da atividade.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.046.055/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023, sem grifos no original.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. ATIVIDADE ESPECIAL. RUÍDO. AGRAVO CONTRA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO. 1.022, II, DO CPC.
+ ..
+3. A Primeira Seção do Superior Tribunal de Justiça, ao apreciar o REsp 1.398.260, sob o rito do Art. 543-C do CPC/73 (Recursos Repetitivos), decidiu que no período compreendido entre 6.3.1997 e 18.11.2003, considera-se especial a atividade com exposição a ruído superior a 90 dB. nos termos do Anexo IV do Decreto 2.172/97 e do Anexo IV do Decreto 3.048/1999.
+4. Assim sendo, o Tribunal de origem, interpretando o art. 57 e 58 da Lei 8.213/1991 e o citado precedente, assentou que o limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003.
+5. Agravo conhecido, para se conhecer do Recurso Especial e negar-lhe provimento, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ e no art. 1.042 do CPC.
+(AREsp n. 1.887.674/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/9/2021, DJe de 5/11/2021, sem grifos no original.)
+No caso em exame, tendo o Tribunal de origem reconhecido como especial o período de 5/3/1997 a 28/9/1998 e de 4/1/1999 e 18/11/2003, quando o autor trabalhou exposto ao agente ruído em intensidade de 90 (noventa) decibéis, o fez em descompasso com o entendimento firmado no âmbito desta Corte, impondo-se, assim, a sua reforma.
+Ante o exposto, dou p rovimento ao recurso especial, de modo a afastar o reconhecimento do período de 6/3/1997 a 28/9/1998 e de 4/1/1999 a 18/11/2003 como tempo de serviço especial, já que, conforme assentado pelo Tribunal de origem, a parte recorrida não estava exposta ao agente ruído em intensidade superior a 90 (noventa) decibéis.
+Prejudicado o exame da alegada ofensa ao art. 1.022 do Código de Processo Civil (CPC).
+Por ter a parte recorrida decaído de parte mínima do pedido, mantenho a condenação da autarquia previdenciária ao pagamento da verba honorária nos termos fixados na sentença.
+Publique-se. Intimem-se.
+ EMENTA
