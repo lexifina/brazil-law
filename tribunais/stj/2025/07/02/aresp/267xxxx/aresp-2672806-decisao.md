@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NEWE SEGUROS S.A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 7 e 83 do STJ (fls. 605-610).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o recurso especial não merece conhecimento, pois encontra óbice na Súmula n. 7 do STJ, além de não impugnar especificamente os fundamentos da decisão recorrida, configurando litigância de má-fé (fls. 644-655).
+O recurso especial foi interposto, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul em agravo de instrumento nos autos de ação de cobrança. O julgado foi assim ementado (fls. 519-520):
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - PRELIMINAR - NÃO CONHECIMENTO DO RECURSO - ROL TAXATIVO DO ARTIGO 1.015, DO CPC - AFASTADA - MÉRITO - SEGURO RURAL - ALEGAÇÃO DE PERDA DE SAFRA - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E INVERSÃO DO ÔNUS DA PROVA - PRECEDENTES DESTA CORTE - RECURSO CONHECIDO E DESPROVIDO.
+I. Nos termos do artigo 1.015, inciso XI, do CPC, caberá agravo de instrumento contra decisões interlocutórias que versarem sobre redistribuição dos ônus da prova.
+II. Em contrato de seguro agrícola firmado com intuito de proteção do patrimônio do produtor rural, aplicam-se as regras do CDC, invertendo-se o ônus da prova quando identificada a hipossuficiência técnica e econômica da parte autora. Precedentes.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 545-546):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO - INTERPOSIÇÃO COM O OBJETIVO DE OBTER NOVO JULGAMENTO DA QUESTÃO DECIDIDA - INEXISTÊNCIA DOS VÍCIOS INSERTOS NO ARTIGO 1.022, CPC/2015 - EMBARGOS REJEITADOS. Inexistentes os vícios contidos no artigo 1.022, do CPC/2015, quais sejam, omissão, obscuridade, contradição e erro material, rejeitam-se os aclaratórios, mormente quando a intenção da parte embargante restringe-se à rediscussão de matérias já apreciadas pela Corte e a prequestionar com o objetivo de interpor recurso especial, o que é defeso em sede de embargos.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 489, § 1º, II, VI e 1.022, II, do CPC, pois o acórdão recorrido não observou os precedentes colacionados ao não considerar o embargado como grande produtor rural, afastando as regras do CDC;
+b) 2º, 3º, 6º, VIII, do Código de Defesa do Consumidor e 373, I, II, do CPC, pois o Tribunal de origem aplicou indevidamente o CDC à relação jurídica estabelecida entre a Recorrente e a Recorrida, além de inverter o ônus probatório em desfavor da Seguradora.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo a inaplicabilidade do CDC à relação jurídica e a impossibilidade de inversão do ônus probatório.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento, pois encontra óbice na Súmula n. 7 do STJ, além de não impugnar especificamente os fundamentos da decisão recorrida, configurando litigância de má-fé (fls. 588-603).
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento contra decisão interlocutória que determinou a aplicação do Código de Defesa do Consumidor e a inversão do ônus da prova. A Corte estadual manteve a decisão interlocutória, aplicando as normas do CDC e invertendo o ônus da prova, ao reconhecer a hipossuficiência técnica e econômica da parte autora.
+I - Violação dos arts. 489, § 1º, II, VI e 1.022, II, do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, II e IV, e 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Ao contrário do que alega a recorrente, a Corte estadual analisou os precedentes trazidos na apelação, apenas concluiu de forma contrária à sua pretensão. Confira-se trecho do acórdão recorrido (fl. 547):
+No caso, o acórdão negou provimento ao agravo de instrumento mantendo a decisão agravada que determinou a aplicação do Código de Defesa do Consumidor e inverteu o ônus da prova. Na oportunidade, ficou registrado que o STJ vem admitindo a mitigação da teoria finalista nos casos de seguro agrícola contratado por produtor rural, razão pela qual a controvérsia em debate deve ser analisada sob a ótica consumerista.
+Não há falar, portanto, em omissão ou deficiência de fundamentação.
+II - Violação dos arts. 2º, 3º, 6º, VIII, do Código de Defesa do Consumidor e 373, I, II, do CPC
+A recorrente afirma que o seguro agrícola não foi contratado na qualidade de consumidor final, mas como insumo da atividade empresarial rural. A Corte estadual concluiu que a relação securitária é alcançada pela lei consumerista, enquadrando-se a seguradora como fornecedora de serviço e o segurado como consumidor.
+O entendimento adotado no acórdão recorrido encontra amparo na jurisprudência firmada nesta Corte, que admite a aplicação do Código de Defesa do Consumidor aos contratos de seguro agrícola, já que, "no âmbito da contratação securitária, a segurada será destinatária final do seguro e, consequentemente, consumidora, quando o seguro for contratado para a proteção do seu próprio patrimônio, mesmo que vise resguardar insumos utilizados em sua atividade produtiva" (REsp n. 2.165.529/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/10/2024, DJe de 10/10/2024).
+Esta Corte já decidiu que o seguro contratado por empresa "não integra a cadeia produtiva daquela, ou seja, não se torna objeto de revenda ou de transformação por meio de beneficiamento ou montagem, uma vez que a finalidade do ajuste é unicamente de proteção do próprio patrimônio" (REsp n. 1.473.828, Terceira Turma, relator Ministro Moura Ribeiro, DJe de 5/11/2015). Na mesma linha: REsp n. 1.352.419/SP, relator Ministro Ricardo Villas Boas Cueva, Terceira Turma, DJe de 8/9/2014.
+Incide, portanto, na hipótese a Súmula n. 83 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
