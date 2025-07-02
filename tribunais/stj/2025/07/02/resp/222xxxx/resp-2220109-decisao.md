@@ -1,0 +1,95 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DA BAHIA contra acórdão prolatado, por unanimidade, pela 1ª Câmara Cível do Tribunal de Justiça do Estado da Bahia no julgamento de agravo interno, assim ementado (fls. 182/183e):
+AGRAVO INTERNO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AUSÊNCIA DE FIXAÇÃO NA ORIGEM. INVIABILIDADE DE ARBITRAMENTO NA FASE RECURSAL.
+RECURSO DESPROVIDO.
+I. Caso em exame
+1. Trata-se de agravo interno interposto pelo Estado da Bahia contra decisão monocrática proferida no âmbito da Apelação Cível nº 0575132- 61.2018.8.05.0001, que não conheceu o recurso da parte contrária, mas deixou de fixar honorários sucumbenciais. O agravante sustenta que, ainda que o recurso não tenha sido conhecido, haveria a possibilidade de condenação em honorários advocatícios, nos termos do art. 85, § 11, do Código de Processo Civil (CPC) e do art. 55 da Lei nº 9.099/95.
+II. Questão em discussão
+2. A controvérsia reside na possibilidade de fixação de honorários advocatícios recursais na hipótese em que não houve arbitramento de honorários na instância originária.
+III. Razões de decidir
+3. Nos termos do art. 85, § 11, do CPC, a fixação de honorários recursais pressupõe a existência de condenação em honorários na origem, o que não ocorreu no presente caso.
+4. O Superior Tribunal de Justiça (STJ) consolidou o entendimento de que os honorários recursais não possuem autonomia, sendo um acréscimo à sucumbência previamente estabelecida, conforme precedentes do AgInt no AREsp 1347176/SP e do AgInt nos EDcl no RE no AgInt no AREsp 1626251/SP.
+5. A ausência de condenação em honorários na fase inicial do processo inviabiliza sua fixação na instância recursal, conforme entendimento reiterado do STJ e da jurisprudência dos tribunais estaduais.
+IV. Dispositivo e tese
+6. Recurso conhecido e não provido.
+Tese de julgamento: "Os honorários advocatícios recursais somente podem ser arbitrados se houver condenação prévia em honorários na instância originária, nos termos do art. 85, § 11, do CPC/2015."
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Arts. 489, § 1º, e 1.022 do Código de Processo Civil - o tribunal de origem deixou de se manifestar acerca de questões relevantes ao deslinde da controvérsia;
+(ii) Art. 85, caput e § 1º, e 11 do Código de Processo Civil - "No caso em apreço, o direito à percepção da verba sucumbencial surgiu quando, chamada a integrar a lide, o Estado apresentou contrarrazões, expondo sua matéria de defesa. A partir desse momento, o ente estatal passou a integrar a relação processual, que se aperfeiçoou, ou seja, restou perfectibilizada a lide diante da triangulação. Essa é a razão pela qual deve ser fixada a verba honorária em favor do Estado, parte vencedora na demanda" (fls. 221/222e). Aduz, ainda, que é devida a fixação de honorários recursais, levando em conta o trabalho adicional realizado pelo advogado em grau recursal; e
+(iii) Art. 322, § 1º, do Código de Processo Civil - A condenação em honorários constitui pedido implícito prevista em lei, consoante Súmula 256/STF, devendo ser fixada de ofício pelo juiz ou tribunal.
+Sem contrarrazões (fl. 235e), o recurso foi admitido (fls. 236/245e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+De pronto, verifico não ser possível conhecer da suscitada violação aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, porquanto o recurso, nessa extensão, cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o vício integrativo a inquinar o acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, atraindo o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte, como espelham os julgados assim ementados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETENCIA. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE ARGUMENTAÇÃO. NÃO CONHECIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/2015 devem ser exigidos os requisitos de admissibilidade na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Na espécie, verifica-se que o embargante não apontou concretamente quaisquer dos vícios autorizadores da oposição do recurso manejado, tampouco acerca do dever de motivação das decisões judiciais, sem fazer qualquer correlação com o caso concreto, tampouco com o acórdão embargado.
+4. Com efeito, mostra-se deficiente a argumentação recursal em que a alegação de ofensa aos arts. 1.022, II, parágrafo único, II c/c art. 489, § 1º, IV se faz de forma genérica, dissociada dos fundamentos da decisão embargada, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. A ausência de tal demonstração enseja juízo negativo de admissibilidade dos embargos de declaratórios, uma vez desatendido o disposto no art. 1.023 do CPC, além de comprometer a compreensão da exata controvérsia a ser dirimida com o oferecimento dos aclaratórios, o que atrai a incidência da Súmula n. 284 do STF.
+5. Embargos de declaração não conhecidos.
+(EDcl no AgInt no CC n. 187.144/DF, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, j. 12.12.2023, DJe de 15.12.2023 - destaque meu).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUIÇÃO GENÉRICA. ISS. BASE DE CÁLCULO. EXCLUSÃO DE VALORES DESTINADOS A PIS, COFINS, IRPJ E CSSL. FUNDAMENTO CONSTITUCIONAL. CONFRONTO ENTRE LEI LOCAL E LEI FEDERAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia, atrai a aplicação da Súmula 284 do STF.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.333.755/SP, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, j. 18.12.2023, DJe de 21.12.2023 - destaque meu).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.023 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de Declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 1.619.349/RJ, Relator Ministro AFRÂNIO VILELA, SEGUNDA TURMA, j. 04.03.2024, DJe de 06.03.2024 - destaque meu).
+A Corte regional ao analisar a controvérsia, concluiu que os honorários recursais tem como pressuposto a sucumbência fixada na origem, e representam um acréscimo ao ônus previamente estabelecido. Consignou que, no caso, a sentença foi de julgamento antecipado da lide, sem qualquer participação do ente público, e mesmo quando intimado da sentença, não apelou, tampouco interpôs recurso adesivo, razão pela qual não há falar em fixação/majoração de honorários em grau de recurso, nos seguintes termos:
+A parte apelada então opõe o presente agravo interno alegando omissão na decisão, diante da não fixação de honorários na fase recursal.
+Todavia, o § 11º do art. 85 do Código de Processo Civil, que regulamenta os honorários recursais somente autoriza a majoração em caso de improvimento do recurso, pois tem a finalidade de evitar recursos protelatórios, além da remuneração pelo trabalho adicional.
+Tanto assim, que o Superior Tribunal de Justiça (EDcl no AgInt no REsp 1573573/RJ, Rel. ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/04/17, DJe 08/05/17) fixou os requisitos cumulativos para arbitramento de honorários advocatícios recursais previstos no artigo 85, § 11º, do CPC, quais sejam:
+(..)
+Neste sentido, Jurisprudência em teses do STJ, com o tema Honorários Advocatícios (https://scon.stj.jus.br/SCON/jt/toc.jsp), estabelecendo-se as seguintes teses:
+4) A majoração da verba honorária sucumbencial recursal, prevista no art.
+85, § 11, do CPC/2015, pressupõe a existência cumulativa dos seguintes requisitos: a) decisão recorrida publicada a partir de 18.03.2016, data de entrada em vigor do novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+5) O § 11 do art. 85 do CPC/2015, que disciplinou a hipótese de majoração da verba honorária em grau de recurso, tem dupla funcionalidade: atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir o exercício abusivo do direito de recorrer.
+6) Os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou de ausência de fixação anterior, não haverá falar em honorários recursais.
+Assim, como a sentença apelada foi de julgamento antecipado do feito, sem qualquer participação da parte contrária, não restou fixados honorários sucumbenciais, tanto assim, que quando intimada da sentença não apelou, tampouco interpôs recurso adesivo.
+E não havendo fixação de verba honorária na origem, não há falar em fixação/majoração de honorários em grau de recurso, em favor do patrono da parte contrária, pois não se enquadra na hipótese prevista no § 11º do art. 85 do Código de Processo Civil.
+Nesse sentido, a ampla jurisprudência:
+(..)
+Portanto, os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, razão porque na ausência de fixação anterior, não haverá falar em honorários recursais.
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, uma vez que a falta de impugnação a fundamento suficiente à manutenção do acórdão recorrido atrai a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Não se conhece de recurso especial que não rebate fundamento autônomo e suficiente à manutenção do acórdão proferido, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.946.896/SP, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 26.08.2024, DJe de 02.09.2024 - destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO. RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283 DO STF. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O parquet estadual se atém à questão da competência, sem refutar os dois argumentos que têm o condão de, por si sós, manter o teor decidido, porque afastam a materialidade (conforme assevera a Corte Estadual, a conduta imputada ao réu não apresenta indício de favorecimento da empresa) e o elemento anímico (nos termos decididos pelo Tribunal de origem, o autor da Ação não descreve conduta que potencialmente indicaria a presença de dolo dos acusados). Sendo assim, inafastável o Enunciado 283 da Súmula do STF (AgInt no REsp n. 2.005.884/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022).
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.094.865/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 22.08.2024 - destaque meu).
+Acerca da suscitada afronta ao art. 322, § 1º, do Código de Processo Civil, sob a alegação de que a condenação em honorários constitui pedido implícito prevista em lei, verifico que a insurgência carece de prequestionamento, porquanto não analisada pelo tribunal de origem com esse contorno.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos apontados como violados, e, no caso, não foi examinada, ainda que implicitamente, a alegação concernente ao art. 322, § 1º, do Código de Processo Civil.
+Dessarte, aplicável, por analogia, o enunciado da Súmula n. 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. EXPEDIÇÃO DE RPV/PRECATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. Não enfrentada no julgado impugnado tese referente ao artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.144.926/DF, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23.09.2024, DJe de 27.09.2024 - destaque meu).
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. IRPJ. CSLL. APURAÇÃO DE 8% E 12% SOBRE A RECEITA BRUTA. SOCIEDADE MÉDICA. SERVIÇOS HOSPITALARES. SERVIÇOS PRESTADOS EM AMBIENTE DE TERCEIROS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. TEMA N. 217/STJ. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+ ..
+IV - De início, com relação à alegada violação dos arts. 942 e 1.000 do CPC, entendo que a matéria não foi suficientemente debatida no Tribunal de origem, não sendo observado o requisito de prequestionamento na interposição do recurso especial, deficiência recursal que atrai a aplicação das Súmulas n. 211 do STJ e ns. 282 e 356 do STF.
+ ..
+X - Agravo interno improvido.
+(AgInt no REsp n. 2.072.662/SC, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 30.09.2024, DJe de 02.10.2024 - destaque meu).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Impende destacar que a Corte Especial deste Tribunal Superior, na sessão de 9.11.2023, concluiu o julgamento do Tema n. 1.059/STJ (Recursos Especiais ns. 1.864.633/RS, 1.865.223/SC e 1.865.553/PR, acórdãos pendentes de publicação), fixando a tese segundo a qual a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Nessa linha a compreensão da Corte Especial deste Tribunal Superior (v.g.: AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ acórdão Min. Herman Benjamin, DJe 07.03.2019).
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
