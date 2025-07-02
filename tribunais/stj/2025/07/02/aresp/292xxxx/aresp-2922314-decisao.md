@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado por JOSÉ ROBERTO MARTINS contra decisão que inadmitiu apelo nobre, interposto com fundamento no permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 2.015/2.016):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. REMESSA OFICIAL E PRESCRIÇÃO INTERCORRENTES NÃO APLICADAS NAS SENTENÇAS FUNDADAS NA LEI Nº 8.429/1992 - REDAÇÃO DADA PELA LEI Nº 14.230/2021. IMPROBIDADE ADMINISTRATIVA. CUSTEIO DE OBRAS PRIVADAS COM RECURSOS PÚBLICOS COMPROVADO. ARTIGO 10, II, DA LEI Nº 8.429/92 (INCIDÊNCIA DAS ALTERAÇÕES PROMOVIDAS PELAS LEI Nº 14.230/2021).
+- Ressalto, de imediato, que, em 26/10/2021, foi publicada e entrou em vigor a Lei nº 14.230, que alterou diversos dispositivos da Lei nº 8.429/92.
+- A Lei nº 8.429/92 (redação dada pela lei nº 14.230/21), em seu art. 17-C, § 3º, dispõe que "não haverá remessa necessária nas sentenças de que trata esta Lei"
+- Destaco, também, que, em decisão proferida em 18/08/2022, o SUPREMO TRIBUNAL FEDERAL, em sede de repercussão geral (Tema 1199), definiu, entre outras teses, que "o novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da . publicação da lei"
+- Assim, não há que se falar em remessa oficial nas sentenças fundadas na Lei nº 8.429/1992, bem como em prescrição intercorrente com base na redação dada pela Lei nº 14.230/2021.
+- Posto isto, anote-se que, no caso dos autos, o MINISTÉRIO PÚBLICO FEDERAL ajuizou a presente ação civil pública em face de JOSÉ ROBERTO MARTINS, SEBASTIÃO FARIA e da ASSOCIAÇÃO DE DESENVOLVIMENTO URBANO DE PEDRANÓPOLIS - ADUPE por atos de improbidade administrativa.
+- O Órgão Ministerial afirma que JOSÉ ROBERTO MARTINS, então Prefeito Municipal de Pedranópolis/SP, em conluio com SEBASTIÃO FARIA, à época Secretário Municipal e presidente da ADUPE, impuseram à UNIÃO os custos de obras de pavimentação asfáltica e de galerias pluviais em loteamento de responsabilidade da ADUPE, que por esta deveriam ser custeadas, mediante a omissão da informação ao Ministério das Cidades de que as verbas públicas federais repassadas por meio do Contrato de Repasse nº 770208/2012 seriam aplicadas em área de responsabilidade da ADUPE, e com base nas Leis Municipais nº 1.564/12 e nº 1.657/14, viciadas por inconstitucionalidade, editadas com o objeto de conferir aparência de legalidade à aplicação irregular das verbas públicas federais.
+- Segundo o MINISTÉRIO PÚBLICO FEDERAL, os atos cometidos pelo requeridos, também apelantes, estão disciplinados na Lei de Improbidade, em especial, nos artigos 9º, XI e XII; e art. 10, II, VI, VII, IX, XI e XII, todos, da Lei nº 8.429/92 (em sua redação original).
+- Na análise das alegações constantes nos recursos de apelação, observo que o art. 10, II, da Lei nº 8.429/92 permaneceu com a redação original após a publicação da Lei nº 14.230/2021.
+- Além disso, foram acrescentados ao art. 10 os § § 1º e 2º, segundo os quais "nos casos em que a inobservância de formalidades legais ou regulamentares não implicar perda patrimonial efetiva, não ocorrerá imposição de ressarcimento, vedado o enriquecimento sem causa das entidades referidas no art. 1º desta Lei" e "a mera perda patrimonial decorrente da atividade econômica não acarretará improbidade administrativa, salvo se comprovado ato doloso praticado com essa . finalidade"
+- Assim, para a configuração do ato de improbidade baseado no art. 10 da Lei nº 8.429/92 (redação dada pela Lei nº 14.230/21), não basta mais a inobservância das regras que cuidam da contratação direta. Há que se demonstrar efetiva perda patrimonial, a causar prejuízo ao erário público.
+- Considerando o conjunto probatório, constato que as alegações feitas pelo Ministério Público Federal, com relação ao art. 10, II, da Lei nº 8.429/92 (redação dada Lei nº 14.230/2021), restaram, com clareza, comprovadas nos autos.
+- Por outro lado, os incisos X e XI, do art. 9º, da Lei nº 8.429/92, também permaneceram com a redação original após a publicação da Lei nº 14.230/2021.
+- Porém, da mesma forma, também acompanho a r. sentença no sentido de que não há elementos que comprovem o enriquecimento ilícito, o que possibilitaria a aplicação do art. 9º, como pretendido pela UNIÃO e pelo MINISTÉRIO PÚBLICO FEDERAL.
+- Saliento, por oportuno, que as sanções já aplicadas estão em consonância com os princípios da razoabilidade e proporcionalidade, bem como de acordo o art. 12, II, da Lei nº 8.429/92 (redação dada pela Lei nº 14.230/21).
+- Por fim, cumpre salientar que a determinação de sigilo compatível com o feito é a de SIGILO DE DOCUMENTOS. Quanto à fase processual e os demais atos, impera o princípio da publicidade. Portanto, mantenho o sigilo no feito, mas na espécie SIGILO DE DOCUMENTOS.
+- Recursos de apelação não providos.
+Embargos de declaração rejeitados.
+O recorrente aponta negativa de vigência do art. 1.022 do CPC/2015 e do arts. 10 e 12, da Lei n. 8.429/1992.
+Contrarrazões.
+Manifestação ministerial pelo desprovimento do recurso na parte conhecida (e-STJ fls. 2.266/2. 277).
+Passo a decidir.
+De logo, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 1.022 do CPC/2022, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 13/11/2015).
+Acerca do tema, conferir ainda: REsp 1.388.789/RJ, r el. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 04/03/2016; e AgRg no REsp 1.545.862/RJ, rel. Ministro OG FERNANDES, Segunda Turma, DJe 18/11/2015.
+No caso, no julgado recorrido, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado, notadamente a respeito da presença do elemento subjetivo doloso na conduta do recorrente.
+Cumpre ressaltar, ademais, que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; e AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Mediante análise dos autos, verifico que a inadmissão do recurso se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha o agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento à vista da necessidade do exame das provas que repousam nos autos.
+É que, tendo o Tribunal de origem reconhecido a prática do ato ímprobo previsto no art. 10, II, da LIA, com a indicação do elemento doloso (e-STJ fls. 2017/2027), a reforma desse julgado demandaria o reexame fático-probatório dos autos, o que é inviável em sede de recurso especial, diante do que dispõe a Súmula 7 do STJ.
+Nesse sentido:
+PROCESSO CIVIL. RECURSO ESPECIAL. QUESTÕES DE FATO.
+Se a reforma do julgado depende do reexame da prova, o recurso especial não pode prosperar (STJ - Súmula nº 7). Agravo regimental desprovido.
+(AgRg no AREsp 95.063/SP, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 03/12/2013, DJe 18/12/2013).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
