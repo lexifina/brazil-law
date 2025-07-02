@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 489 e 1.022, I e II, do CPC/2015, (b) ausência de ofensa aos artigos de lei apontados e (c) aplicação da Súmula n. 7 do STJ (fls. 442-444).
+O acórdão recorrido está assim ementado (fl. 370):
+Compra e venda. Anúncio de venda de caminhão por estelionatário. Ação de indenização. Autor que, voluntariamente, sem a cautela que rege o homem médio, transferiu para conta indicada por estelionatário o preço da venda do caminhão. Ausente falha na prestação dos serviços bancários. Culpa exclusiva da vítima ou de terceiro. Fortuito externo que exime o réu da responsabilidade pelo evento danoso. Exegese do art. 14, § 3º, II, do CDC. Ademais, o conjunto probatório revela que tanto o réu Weslley, o qual se encontra na posse do caminhão, quanto o autor foram vítimas do golpe, o que impunha a rejeição do pedido também em relação a ele. Sentença mantida.
+Recurso improvido.
+Os embargos de declaração foram rejeitados (fls. 383-387).
+Nas razões do recurso especial (fls. 390-425), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC, alegando que o Tribunal paulista não enfrentou todos os argumentos apresentados, especialmente sobre a inversão do ônus da prova e a participação do recorrido na fraude, e
+(ii) arts. 6º, VIII, 14 e 17 do CDC e 186 e 927, parágrafo único, do CC e Súmulas n. 297 e 479 do STJ, por entender que o Banco teria falhado na prestação de serviço ao permitir abertura de conta com documentos falsos e não garantindo segurança ao consumidor e aduziu que "o Banco tem ligação direta com o fraudador, pois foi a autorização para a abertura da conta corrente mediante a utilização de documentos falsos para a prática exclusiva de crime que se apresentou de forma contributiva e essencial para o cometimento do ilícito (golpe), caracterizando falha na prestação do serviço" (fl. 397).
+Foram oferecidas contrarrazões (fls. 428-440).
+O agravo (fls. 447-478) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 481-493).
+É o relatório.
+Decido.
+A alegada violação das Súmulas n. 297 e 479 do STJ, não comporta análise no recurso, pois, de acordo com a Súmula n. 518/STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O TJSP, ao analisar as provas constantes dos autos, entendeu que "não se vislumbra falha na prestação de serviço. Nem sequer houve permissão pela instituição bancária de acesso por criminosos a dados e à conta de cliente. Desse modo, ela não responde pelo fortuito externo". Confira-se o seguinte excerto (fls. 372-373 ):
+Com efeito, o evento danoso configura excludente de responsabilidade por culpa exclusiva da vítima ou de terceiro, sendo inaplicável ao caso a Súmula nº 479 do C. STJ, por não se tratar de fortuito interno.
+Em verdade, o autor, voluntariamente, sem a cautela necessária, efetivou a transação bancária, transferindo o numerário para a conta da terceira estranha à lide. A instituição bancária atuou como mera depositária do valor transferido espontaneamente pelo autor, não havendo demonstração nos autos de que ela tenha qualquer ligação com o terceiro que praticou o golpe, o que resulta no rompimento do nexo causal.
+Enfim, não se vislumbra falha na prestação de serviço. Nem sequer houve permissão pela instituição bancária de acesso por criminosos a dados e à conta de cliente. Desse modo, ela não responde pelo fortuito externo, incidindo ao caso em exame o art. 14, § 3º, II, do CPC.
+Outrossim, no que se refere à responsabilidade do réu Weslley, razão não assiste ao autor, devendo ser mantida a r. sentença de improcedência por seus próprios e bem deduzidos fundamentos, os quais ficam inteiramente adotados como razão de decidir, nos termos do art. 252 do Regimento Interno deste E. Tribunal de Justiça.
+No ponto, o pedido da parte foi rejeitado aos seguintes fundamentos:
+"De igual modo, não se desincumbiu do ônus da prova em relação a alegada participação na fraude do segundo requerido.
+Evidencia-se da prova produzida que o anúncio foi feito pelo golpista, de nome Cláudio, que pretendia vender um caminhão por preço muito inferior ao valor de veículos similares.
+É certo que o segundo requerido também acreditou que Cláudio fosse pessoa de confiança do autor, tanto que lhe forneceu seu endereço para verificar o caminhão, bem como as fotos e documentos do referido bem móvel. Tanto o é que foi sua a iniciativa de ir até a Delegacia registrar boletim de ocorrência (fls. 89/92).
+Veja, o autor, a pedido do falsário com o qual só teve contato telefônico, fez o depósito no valor de R$ 32.000,00 para conta de titularidade Queren Eduarda, que sequer participou da negociação e não questionou nem mesmo qual a era sua relação com ela.
+Como se vê, em que pese ter sido o autor possivelmente vítima de "golpe", é certo que não agiu com a devida cautela, pois aceitou entregar alto valor em conta de estranhos. Soma-se a isso o fato da intenção de obter vantagem financeira, porquanto pagou menos do valor do bem".
+De fato, como bem decidido na origem, o conjunto probatório, notadamente as conversas via WhatsApp (fls. 51/67), revela que tanto o réu Weslley quanto o autor foram vítimas do golpe, não cometendo aquele qualquer ato ilícito, de modo que outra solução não poderia ter sido dada à lide a não ser a improcedência.
+No caso concreto, o TJSP consignou que a instituição bancária não responde pelo fortuito externo e no que se refere à responsabilidade do recorrido Weslley, razão não assiste a parte recorrente, devendo ser mantida a sentença de improcedência por seus próprios fundamentos. Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvi mento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC.
+Publique-se e intimem-se.
+EMENTA
