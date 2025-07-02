@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE MARCIO DA SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ (Agravo Interno em HC n. 0753177-83.2025.8.18.0000).
+Consta que o paciente teve a prisão preventiva decretada pela suposta prática do delito previsto no art. 121, § 2.º, incisos II e IV, c/c o art. 14, inciso II, ambos do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, tendo o Desembargador Relator do mandamus não conhecido do pedido (fls. 25-28), decisão que foi mantida no julgamento colegiado do respectivo agravo interno (fls. 7-14).
+Neste writ, a parte impetrante sustenta que a segregação foi decretada meses após os fatos, sem qualquer fato superveniente, o que evidencia a total ausência de contemporaneidade, transformando a prisão cautelar em antecipação de pena (fl. 3).
+Alega, ainda, que  o  TJPI recusou-se a conhecer do writ originário sob o fundamento de ausência de requerimento prévio ao juízo de primeiro grau. No entanto, o entendimento consolidado do STJ é de que não há necessidade de provocação prévia ao juízo singular quando o próprio decreto de prisão é o ato coator (fl. 3).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem a aplicação de medidas cautelares diversas. Subsidiariamente, pleiteia seja anulado o acórdão do TJPI que não conheceu do Habeas Corpus, determinando-se o retorno dos autos àquele Tribunal para nova análise do mérito da impetração (precedentes: HC 586.753/CE e RHC 51.932/CE), manifestando- se acerca da tese de ausência de contemporaneidade entre os fatos e o decreto preventivo, suscitada pela defesa no HC 0753177-83.2025.8.18.0000 (fl. 4).
+Memoriais juntados às fls. 44-270.
+É o relatório.
+DECIDO.
+O acórdão impugnado manteve a decisão do Desembargador Relator, que não conheceu do habeas corpus com base na seguinte fundamentação (fls. 11-13):
+No caso em apreço, diferentemente do que pretende o Requerente, não foram verificados elementos suficientes para a concessão de ofício do pleito formulado.
+Pelo o que consta nos autos, não restou evidenciado que o magistrado de primeiro grau apreciou o pedido formulado, motivo pelo qual o writ não foi conhecido monocraticamente.
+Conforme explicitado na decisão constante no Id. 23639575, não havendo pretensão exaurida no 1ª grau de jurisdição, não há como o pedido ser apreciado por este Tribunal de Justiça, sob pena de configurar claro panorama de supressão de instância.
+Acerca do tema:
+ ..
+Nesse sentido, não verifico que deva prosperar o pretendido para fins de juízo de retratação.
+Desse modo, considerando que o Tribunal local não se manifestou acerca da tese deduzida na inicial do habeas corpus, a insurgência não pode ser conhecida, pois matéria que não foi analisada no Tribunal estadual não pode ser objeto de análise desta Corte Superior, sob pena de indevida supressão de instância (AgRg no HC 597.244/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 12/08/2020, DJe de 18/08/2020).
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PRINCÍPIO DA DIALETICIDADE. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ILEGALIDADE DA ABORDAGEM POLICIAL. SUPRESSÃO DE INSTÂNCIA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+(..)
+4. " N ão tendo a tese defensiva atinente à ilicitude das provas existentes em desfavor do acusado sido analisada pela Corte local sob o mesmo enfoque ventilado nas razões iniciais do presente mandamus, não cabe a este Tribunal Superior inaugurar a apreciação do tema, sob pena de incursão em vedada supressão de instância" (AgRg no HC n. 769.880/SP, Rel. Ministro JESUÍNO RISSATO, Desembargador Convocado do TJDFT, SEXTA TURMA, julgado em 7/3/2023, DJe 10/3/2023).
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no HC n. 793.334/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/06/2023; DJe de 15/06/2023).
+Ocorre que, diferentemente do exposto no acórdão impugnado, não há nenhum impedimento ao conhecimento do writ pelo Tribunal a quo quanto à ilegalidade da decretação da prisão preventiva do paciente, tendo em vista que o ato coator indicado foi proferido por Juiz de Direito, sendo certo que o primeiro exame da matéria compete ao Tribunal local, para que, só então, permanecendo eventual constrangimento ilegal, a questão seja passível de conhecimento perante o Superior Tribunal de Justiça.
+Assim, em virtude da omissão decorrente da não apreciação da tese defensiva - na contramão do princípio da inafastabilidade da jurisdição -, impõe-se determinar ao Tribunal estadual que examine o pedido exposto no writ na origem, evidentemente, dentro das balizas de cognição adequadas à via do remédio heroico.
+Nessa linha, mutatis mutiandis:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO, REITERAÇÃO DELITIVA E MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. TESES DE NULIDADE E EXCESSO DE LINGUAGEM. SUPRESSÃO DE INSTÂNCIA. INDEVIDA AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+4. As teses referentes à ilicitude da prova e ao excesso de linguagem não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte local, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+5. Compulsando os autos, contudo, é imperioso consignar que a defesa, de fato, formulou tais pedidos na impetração originária, e que o Tribunal de Justiça não conheceu da impetração, deixando de apreciar o pleito formulado no writ, ao fundamento de que "não admitem a utilização do habeas corpus como sucedâneo do meio processual adequado, exceto quando flagrante a ilegalidade apontada  .. ".
+6. "A não manifestação do eg. Tribunal a quo sobre o mérito da impetração, na hipótese, configurou indevida negativa de prestação jurisdicional. Tratando-se de questão relevante, devidamente suscitada no writ originário, e não apreciada, devem os autos ser remetidos à eg. Corte estadual para que se pronuncie acerca da quaestio" (HC n. 398.690/SC, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 3/8/2017, DJe de 10/8/2017).
+7. Recurso parcialmente conhecido, e, nessa extensão, desprovido. Ordem concedida de ofício para determinar ao Tribunal de Justiça do Estado do Piauí que aprecie o mérito (referentes aos capítulos decisórios remanescentes) do habeas corpus originário como entender de direito.
+(RHC n. 107.237/PI, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/10/2019, DJe de 28/10/2019; grifamos).
+Ante o exposto, indefiro liminarmente a petição inicial, mas concedo a ordem ex officio para determinar o retorno dos autos ao Tribunal de origem a fim de que analise a tese de ilegalidade da decretação da prisão preventiva do paciente, ventilada no mandamus originário, dentro das balizas de cognição próprias à espécie, como entender de direito, afastada a conclusão de que há supressão de instância do tema.
+Publique-se. Intimem-se.
+EMENTA
