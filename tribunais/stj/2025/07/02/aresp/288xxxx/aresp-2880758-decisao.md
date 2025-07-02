@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 282 e 356 do STF (fls. 723-726).
+O acórdão do TJTO traz a seguinte ementa (fls. 313-314):
+EMENTA: APELAÇÃO. AÇÃO DE COBRANÇA. EXPURGOS INFLACIONÁRIOS. PLANO COLLOR I. PRELIMINARES. ILEGITIMIDADE PASSIVA. BANCO BAMERINDUS E HSBC BANK BRASIL S/A. REJEITADA. AUSÊNCIA DE DEMONSTRAÇÃO DA EXISTÊNCIA DE SALDO NA CONTA POUPANÇA. REJEITADA. MÉRITO. RESPONSABILIDADE CONTRATUAL. NEXO DE CAUSALIDADE ENTRE O ATO ILÍCITO E O DANO PRODUZIDO.PAGAMENTO DA CORREÇÃO. CONDENAÇÃO. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. O HSBC Bank Brasil S/A tem legitimidade passiva para responder às ações de cobrança de expurgos inflacionários de poupadores do Banco Bamerindus.
+2. A jurisprudência do Superior Tribunal de Justiça entende que, nas ações em que são discutidos critérios de remuneração de depósitos em caderneta de poupança e postuladas as respectivas diferenças, é cabível a inversão do ônus da prova para determinar à instituição financeira o fornecimento dos extratos, desde que comprovados, com indícios mínimos, a relação jurídica e a existência de saldo nos períodos desejados - Aglnt nos EDcl no REsp 1504079/TJ, Rei. Ministro Marco Buzzi, julgado em 13/06/2017.
+3. No caso concreto os extratos anexados pelo autor, ora apelado, comprovam a relação jurídica existente entre as partes e demonstram existir saldo na conta poupança de titularidade do mesmo em 1990, durante a incidência do Plano Collor I.
+4. Embora o apelante alegue ter atuado no cumprimento do seu dever legal e em subordinação ao Banco Central, observa-se a existência do nexo de causalidade entre o ato ilícito (ignorar o aniversário mensal da caderneta de poupança) e o dano produzido, caracterizando, assim, a responsabilidade civil. Tal medida não observou o direito adquirido dos poupadores, com data de aniversário até o dia 15 de cada mês, em virtude de a poupança ter natureza contratual, bem como os poupadores possuírem direito à correção pela fórmula que estava em vigor no início do período aquisitivo, razão pela qual agiu com acerto o juízo a quo ao condenar o apelante a restituir ao apelado a diferença do expurgo inflacionário relativo ao Plano Collor I.
+5. Recurso conhecido e não provido.
+No recurso especial (fls. 413-428), fundamentado no art. 105, III, alíneas "a" e "c", da CF, o recorrente aduziu dissídio jurisprudencial e ofensa ao art. 406 do CC/2002, pois "a aplicação da Taxa SELIC afasta a aplicação de qualquer outro índice de atualização ou correção monetária, sob pena de enriquecimento sem causa do beneficiário, dado que a Taxa SELIC pela sua natureza e modo de apuração, embute também a variação da moeda não podendo ser cumulada a nenhum outro índice que exprima tais consectários" (fl. 426).
+Foram ofertadas contrarrazões (fls. 533-544).
+No agravo (fls. 735-743), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, requerendo a condenação do agravante ao pagamento de multa por litigância de má-fé (fls. 748-752).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 406 do CC/2002 sob o enfoque pretendido pela parte recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Por fim, rejeito o pedido de condenação do recorrente à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
