@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 138):
+ADMINISTRATIVO E PROCESSO CIVIL. MANDADO DE SEGURANÇA. DEMORA NA APRECIAÇÃO DE REQUERIMENTO ADMINISTRATIVO. DIREITO CONSTITUCIONAL DE DURAÇÃO RAZOÁVEL DO PROCESSO. MANUTENÇÃO DA SENTENÇA.
+1. Diante da inércia da Administração Pública em dar andamento ao recurso administrativo, foi impetrado o presente mandado de segurança.
+2. Consta dos artigos 48 e 49 da Lei nº 9.784/99, que a Administração Pública tem o dever de emitir decisões em processos administrativos no prazo de 30 (trinta) dias, sendo certo que, no caso concreto, mesmo transcorridos cerca de 3 (três) meses desde o pleito administrativo, o INSS ainda não havia apresentado nenhuma resposta ao requerimento.
+3. Resta configurada, portanto, a lesão ao direito do administrado de obter do Estado a devida manifestação acerca de seus requerimentos administrativos, que é consectário do direito de petição previsto no art. 5º, inciso XXXIV, "a", da Constituição Federal, abrangendo o correlato dever do Poder Público de pronunciamento a respeito da postulação apresentada, ainda que para indeferi-la. Resta violado, ainda, o comando constitucional inserto no art. 5º, inciso LXXVIII que consagra o direito de todos à razoável duração dos processos, aplicável tanto aos procedimentos judiciais quanto aos administrativos.
+4. Deve ser prestigiada a sentença que concedeu a pretendida segurança e determinou a apreciação do pedido administrativo.
+5. Remessa necessária e apelação conhecidas e desprovidas.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022 do CPC, ao argumento de que a Corte de origem não se manifestou a respeito das seguintes questões: (a) impossibilidade de cobrança de multa diária por descumprimento de obrigação de fazer sem intimação pessoal do Gerente Executivo do INSS; (b) sentido e alcance do artigo 815 do CPC; e (c) aplicação da Súmula 410 do STJ.
+Quanto às questões de fundo, sustenta as seguintes ofensas: (a) art. 815 do CPC, ao argumento de que a execução de obrigação de fazer requer citação pessoal do executado; (b) art. 927, IV, do CPC, ao argumento de que o acórdão recorrido não observou os enunciados das súmulas do STJ; e (c) Súmula 410 do STJ, ao argumento de que a prévia intimação pessoal do devedor é condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 193.
+O MPF opinou pelo provimento parcial do recurso especial, nos termos da seguinte ementa (fl. 202):
+Recurso especial. Mandado de segurança. INSS. Demora na apreciação de requerimento administrativo. Imposição de multa ao Gerente-Executivo da autarquia. Parecer pelo provimento parcial do recurso especial, com a devolução dos autos ao tribunal de origem, para que aprecie o ponto levantado pelo INSS nos embargos de declaração.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial tem origem em mandado de segurança impetrado por Elizabeth Gonçalves de Oliveira contra o INSS, em razão da demora na apreciação de requerimento administrativo, com imposição de multa ao Gerente-Executivo da autarquia pelo descumprimento de determinação judicial.
+O recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Com efeito, extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da impossibilidade de cobrança de multa diária, por descumprimento de obrigação de fazer, quando não intimado pessoalmente o Gerente Executivo do INSS para a adoção da medida ordenada pelo juízo.
+Evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional. Assim, a falta de manifestação a respeito autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.921.251/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 15/12/2023; AgInt no REsp 2.012.744/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 18/10/2023; AgInt nos EDcl no REsp 2.024.125/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 30/8/2023; AgInt no REsp 2.020.066/RN, relator Ministro Gurgel de Faria, Primeira Turma, DJe 19/5/2023.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
