@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de HERALDO MACHADO PEREIRA e LUCAS WELTON MORAES NOBRE, contra acórdão do Tribunal de Justiça do Estado do Amazonas, que negou provimento ao apelo defensivo e manteve a condenação dos pacientes pelo delito de tráfico de drogas, em acórdão assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. NULIDADE DA PRISÃO EM FLAGRANTE. TORTURA. INSUFICIÊNCIA DE PROVAS. DESCLASSIFICAÇÃO PARA USO PESSOAL. CAUSA DE AUMENTO DE PENA PELO EMPREGO DE ARMA DE FOGO. TRÁFICO PRIVILEGIADO. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação criminal interposta contra sentença condenatória que condenou os Réus à pena de 07 anos de reclusão, em regime inicial fechado, e 700 dias-multa, pela prática do crime de tráfico de drogas (art. 33 da Lei nº 11.343/2006).
+A Defesa alega: (i) nulidade das provas obtidas durante a prisão em flagrante, sob o fundamento de tortura praticada pelos policiais; (ii) insuficiência de provas para comprovar a materialidade do delito, em razão do desentranhamento das evidências nulas dos autos; (iii) desclassificação da conduta do Réu para uso pessoal, devido a quantidade de entorpecentes apreendidos e do histórico de dependência química ; (iv) afastamento da causa de aumento de pena do art. 40, IV da Lei nº 11.343/2006, considerando a ausência de vínculo direto entre os Réus e a arma de fogo apreendida; (v) reconhecimento do tráfico privilegiado, com a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/2006.
+II. QUESTÃO EM DISCUSSÃO
+2. Há cinco questões em discussão: (i) se a prisão em flagrante e as provas subsequentes são nulas em virtude de alegada prática de tortura pelos policiais; (ii) se há elementos suficientes para comprovar a materialidade e autoria do crime de tráfico de drogas, considerando a ilicitude das provas; (iii) se a conduta do Réu deve ser desclassificada para uso pessoal, conforme art. 28 da Lei nº 11.343/2006; (iv) se a causa de aumento pelo emprego de arma de fogo deve ser afastada em relação aos dois réus; (v) se o tráfico privilegiado pode ser reconhecido.
+III. RAZÕES DE DECIDIR
+3. Não há comprovação de nexo causal entre as lesões alegadas pelos Réus e as provas obtidas. Os depoimentos dos policiais, corroborados por outras provas, demonstram a licitude da prisão em flagrante e dos elementos apreendidos.
+4. A materialidade e autoria do delito de tráfico foram confirmadas pelos laudos periciais das substâncias entorpecentes, pela apreensão de balanças de precisão e valores em dinheiro, bem como pelos depoimentos das testemunhas policiais, que foram idôneos e coerentes.
+5. A quantidade e a forma de acondicionamento das drogas apreendidas (12 porções de maconha e cocaína com um autor e pacotes adicionais encontrados com o coautor) indicam destinação comercial. O histórico de dependência química do Acusado, além de não estar objetivamente comprovado, não é suficiente para descaracterizar a traficância, uma vez que a prática do tráfico pode coexistir com o consumo pessoal. 6. A arma de fogo foi apreendida em posse de um dos agentes criminosos, mas utilizada como instrumento de proteção para a atividade ilícita de ambos os Réus. A teoria monista justifica a aplicação da majorante ao coautor, diante da unidade de desígnios no contexto do tráfico.
+7. O Apelante não preenche os requisitos do art. 33, § 4º, da Lei nº 11.343/2006, devido à reincidência em crime da mesma natureza, como comprovado por seus antecedentes criminais. O pedido de redução da pena foi corretamente afastado, e não houve bis in idem na dosimetria.
+IV. DISPOSITIVO E TESE
+8. Recurso conhecido e desprovido.
+Tese de julgamento: 1. A nulidade de provas por alegação de tortura depende da comprovação de nexo direto entre a coação e os elementos probatórios, o que não ocorreu no caso. 2. O crime de tráfico de drogas pode ser comprovado pelos depoimentos de policiais corroborados por outras evidências materiais, como drogas, dinheiro e objetos relacionados à traficância. 3. A desclassificação para uso pessoal exige demonstração inequívoca de que os entorpecentes se destinavam, exclusivamente, ao consumo próprio, fato não comprovado. 4. A causa de aumento de pena pelo emprego de arma de fogo, por apresentar-se como circunstância objetiva, é aplicável aos coautores, mesmo que não sejam os portadores diretos, conforme a teoria monista. 5. A reincidência impede o reconhecimento do tráfico privilegiado, não configurando bis in idem seu uso na dosimetria.
+Nesta Corte, a defesa reitera a nulidade da condenação porque amparada em prova ilicita, obtida em abordagem policial que violou a integridade física dos réus, conforme demonstrado por laudo médico e reconhecido no acórdão impugnado.
+Destaca que a violência policial cometida no momento da prisão em flagrante, em meio as buscas pessoal e domiciliar, foi relatada no interrogatório do paciente Heraldo e está registrada no exame de corpo de delito dos réus, do qual se atesta a presença de hematomas condizentes com disparo de arma de fogo e agressões físicas.
+Argumenta que a manutenção da condenação dos pacientes, embora reconhecidas as agressões por ele sofridas, viola garantias constitucionais e diplomas internacionais sobre direitos humanos.
+Requer, portanto, a declaração de nulidade das provas obtidas da busca pessoal e domiciliar, com a consequente absolvição dos pacientes.
+Ouvido, o MPF manifestou-se pelo não conhecimento do writ (e-STJ, fls. 227-230).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Cumpre, então, avaliar a possibilidade de concessão da ordem de ofício, se presente ilegalidade flagrante.
+No caso, os pacientes foram condenados pela prática do crime do art. 33, caput, da Lei n. 11.343/2006, à pena de 7 anos de reclusão, em regime inicial fechado, bem como ao pagamento de 700 dias-multa.
+Ao analisar a tese de invalidade da prova obtida mediante violência policial, a Corte estadual consignou:
+Isto porque identifico que não consta nos autos qualquer elemento probatório que corrobore a alegação de que os Apelantes foram vítimas de tortura pelos agentes públicos que efetuaram a prisão em flagrante.
+Na audiência de custódia (mov. 1.25) - ocasião em que o MM. Magistrado deve avaliar a legalidade da prisão em flagrante e homologá-la -, observa-se que, ao serem questionados sobre a ocorrência de violência por parte dos policiais, o Réu Lucas afirmou que foi acometido por um tiro de raspão no pé à medida que a narrativa do Réu Heraldo explana agressões físicas como meio de coação .
+Com efeito, nos Laudos do Exame de Corpo de Delito, são vislumbrados hematomas condizentes com disparos de arma de fogo e agressões físicas, a citar, respectivamente, "ferimento contuso, suturado, medindo cerca de 7,0cm, localizado em face plantar medial do pé esquerdo. As características das lesões corporais apresentadas são compatíveis com a ação de instrumento vulnerante contundente. Lesão compatível com disparo de arma de fogo tangencial." (mov. 1.14) e "Escoriações avermelhadas localizadas em região cervical anterior e região esternal (mov. 1.21).
+À vista disso, sobrelevo que a conduta dos policiais de realizar disparos contra o Apelante Lucas e ofensas físicas contra o Apelante Heraldo merece apuração em esfera própria, podendo configurar eventual abuso de autoridade, na forma prevista nos art. 1º e 4º da Lei 13.869/2019, o que, inclusive, já foi diligenciado pelo Magistrado de origem ao determinar o encaminhamento da cópia integral dos autos à PROCEAP, vide comprovante de envio à mov.1.27.
+Entretanto, quanto ao dito comprometimento da lisura dos indícios probatórios, infiro que tal apuração não possui o condão de, isoladamente, invalidar o flagrante ou as provas produzidas, desde que estas sejam autônomas em sua obtenção e admissibilidade.
+Ou seja, de acordo com firmado entendimento do Superior Tribunal de Justiça, eventual ilicitude de um ato processual não compromete automaticamente os demais, salvo se demonstrada a derivação direta.
+No caso concreto, não está comprovado que a apreensão dos objetos incriminadores foi precedida ou condicionada pelos atos de violência imputados aos agentes públicos.
+ ..
+Assim, embora as lesões corporais tenham sido confirmadas nos exames, tal fato não apresenta relação causal direta com a apreensão dos elementos objetivos que fundamentam a acusação, a saber, as substâncias entorpecentes e os demais artifícios relacionados à traficância, restando controversa a dita contaminação das provas pelo uso desproporcional da força.
+Desse modo, assevero que a suscitação da nulidade da prisão em flagrante não encontra suporte fático suficiente para infirmar a legalidade do ato que, por sua vez, se baseia em circunstâncias independentes do comportamento hostil atribuído aos policiais.
+Como se verifica, o Tribunal de origem entendeu que, embora estejam comprovadas as lesões corporais sofridas pelos pacientes durante o flagrante, há provas independentes e não contaminadas pela suposta má atuação policial que subsidiam a condenação. Destacou que "a apreensão dos objetos incriminadores foi precedida ou condicionada pelos atos de violência imputados aos agentes públicos."
+Da leitura dos autos, observa-se que parte da droga e a arma de fogo foram recolhidas com os pacientes na revista pessoal, em momento antecedente à busca domiciliar, onde encontrado o restante dos entorpecentes. Essa versão, inclusive, foi confirmada parcialmente pelo paciente HERALDO que assumiu, tanto na fase policial quanto na judicial, a posse de parte do material.
+Logo, uma vez afirmado que há prova autônoma da prática criminosa pelos agentes, não contaminada ou obtida em decorrência da suposta violência policial, a alteração desse entendimento demandaria o reexame do conjunto fático-probatório, providência inadmissível no habeas corpus.
+Corroboram:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISTA PESSOAL. ATITUDE SUSPEITA DO RÉU. BUSCA DOMICILIAR. INVALIDADE. DESCONSIDERAÇÃO DAS PROVAS ILÍCITAS. CONDENAÇÃO MANTIDA COM BASE EM ELEMENTOS INDEPENDENTES. ALEGAÇÃO DE VIOLÊNCIA POLICIAL. REEXAME DE FATOS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que declarou a invalidade do conjunto probatório recolhido em busca domiciliar, mas manteve a condenação do agravante pelo delito de tráfico de drogas, com base em prova independente.
+2. Durante policiamento ostensivo, policiais foram informados por populares sobre uma pessoa traficando na região. O agravante foi visto fugindo e arremessando um pote de plástico contendo drogas, sendo interceptado e preso com substâncias entorpecentes.
+3. A decisão impugnada refutou a alegação de tortura sofrida pelo réu e manteve a condenação pelo delito de tráfico de drogas, redimensionando a pena para 5 anos e 10 meses de reclusão, mais 583 dias-multa, em regime inicial fechado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condenação do agravante pelo delito de tráfico de drogas pode ser mantida com base em provas obtidas durante abordagem policial em via pública, diante da alegação de tortura sofrida pelo agravante que contaminaria toda a prova obtida.
+III. Razões de decidir
+5. A abordagem policial em via pública foi considerada legítima, pois a denúncia anônima foi qualificada e o agravante apresentou atitude suspeita ao jogar o pote com drogas no chão e empreender fuga, ao notar a aproximação policial.
+6. A busca domiciliar foi considerada inválida por falta de autorização dada pelo morador ou fundadas razões da prática da traficância no local, resultando na declaração de nulidade das provas obtidas dessa diligência.
+7. A alegação de tortura não foi analisada em profundidade pelas instâncias antecedentes, impedindo o enfrentamento da questão por esta Corte, e, ademais, não invalidaria a condenação pelo delito de tráfico de drogas porque, em tese, teria ocorrida após a revista pessoal do agente, quando na posse de entorpecentes, para venda.
+IV. Dispositivo e tese
+8. Agravo improvido.
+Tese de julgamento: "1. A abordagem policial em via pública é legítima quando baseada em denúncia anônima qualificada e atitude suspeita do abordado. 2. A busca domiciliar sem autorização válida ou fundadas razões é inválida, resultando na nulidade das provas obtidas. 3. Alegações de tortura não analisadas em profundidade pelas instâncias antecedentes não invalidam a condenação por tráfico de drogas".
+Dispositivos relevantes citados: CPP, art. 240, § 2º.Jurisprudência relevante citada: STJ, AgRg no RHC 191.141/BA, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 08.04.2024; STJ, AgRg no HC 701.719/RJ, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13.05.2022.
+(AgRg no AgRg no HC n. 961.803/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/3/2025, DJEN de 20/3/2025.)
+DIREITO PROCESSUAL PENAL. ROUBO MAJORADO. CONDENAÇÃO FUNDAMENTADA EM DIVERSAS PROVAS LÍCITAS COLHIDAS DURANTE A INSTRUÇÃO. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso próprio, em razão da ausência de flagrante ilegalidade.
+2. O Tribunal de origem concluiu que a condenação do réu foi embasada em provas independentes, não contaminadas por eventual excesso de força policial.
+3. A defesa alegou ilegalidade na prisão em flagrante devido à violência policial, requerendo a anulação da condenação e o trancamento da ação penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, na ausência de flagrante ilegalidade.
+5. Verificar se as provas utilizadas para a condenação foram contaminadas por suposta violência policial.
+III. Razões de decidir
+6. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+7. As provas que embasaram a condenação foram obtidas de forma independente e não foram contaminadas por eventual excesso policial.
+8. A reanálise do acervo fático-probatório é inviável em sede de habeas corpus.
+IV. Dispositivo e tese
+9. Recurso não provido.
+Tese de julgamento: "1. O habeas corpus não é substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. 2. Provas independentes não são contaminadas por eventual excesso policial.
+"Dispositivos relevantes citados: CPC, art. 1.024, § 3º; CPP, arts.
+621, 647-A, 654, § 2º.Jurisprudência relevante citada: STJ, AgRg no HC 895.777/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024; STJ, AgRg no HC 864.465/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024.
+(EDcl no HC n. 945.569/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+Por fim, anote-se que as medidas cabiveis já foram tomadas pelo Juízo de primeiro grau, uma vez que as supostas agressões perpetradas contra os pacientes já estão sendo objeto de averiguação em procedimento próprio, quando será possível verificar se houve excesso na ação policial a atrair a configuração de algum crime.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
