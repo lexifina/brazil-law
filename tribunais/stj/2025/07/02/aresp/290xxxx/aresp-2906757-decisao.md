@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por RUTE SILVA SANTOS, com fundamento na incidência  da Súmula  7 deste STJ e pela consonância do aresto de origem com precedente proferido em julgado sob o rito dos Recursos Repetitivos (Tema 1.002/STF).
+Em suas razões recursais, a parte agravante sustenta, em síntese, a violação d os arts. 186 e 927 do Código Civil, sustentando que houve dano moral in re ipsa devido à omissão dos entes públicos em fornecer o exame de colonoscopia necessário à sua saúde
+Contraminuta apresentada (fls. 633-634).
+Ressalte-se que, em juízo de retratação, a Corte de origem reformou parcialmente acórdão para adequá-lo ao Tema 1.002/STF, e "condenar Estado do Rio de Janeiro ao pagamento de honorários de sucumbência em favor da Defensoria Pública, no percentual de 12% (doze por cento) sobre o valor atualizado da causa, nos termos do art. 85, §§ 2º e 11 do CPC" (fls. 558-561).
+É o relatório.
+Passo a decidir.
+O recurso especial tem origem em ação de obrigação de fazer c/c compensação por danos morais, na qual a recorrente buscava a transferência para hospital com suporte para exame de colonoscopia e indenização por danos morais. A sentença deferiu parcialmente o pedido, determinando a transferência, mas negou a indenização por danos morais. A apelação foi desprovida, mantendo-se a decisão de primeira instância.
+A Corte local, com base no contexto fático-probatório dos autos, consignou que não ficou configurada a ocorrência de danos morais, sob os seguintes fundamentos:
+Quanto ao dano moral buscado, correta a sentença ao afastá-lo, eis que, na hipótese a decisão judicial que concedeu à autora a tutela antecipada, foi cumprida pelo Município, no exato prazo de 24 horas fixado na decisão que antecipou os efeitos da tutela, conforme fl. 92 (decisão judicial de intimação dos réus), e certidões de fls. 116 e 126, a última apontando que em 09/11, às 17h, a "paciente Rute Silva Santos foi transferida para o Hospital São José em Teresópolis como mandato (sic)".
+Sublinhe-se que a presteza no cumprimento afastou o caráter preventivo-pedagógico que a indenização viria a efetivar, não tendo, por outro lado havido qualquer dano real à autora (fl. 360).
+Assim, para alterar a conclusão do Tribunal de origem, para verificar a ocorrência ou não de danos morais no caso concreto, seria necessário o reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 /STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OMISSÃO NÃO CONFIGURADA. MATRÍCULA DE CRIANÇA EM CRECHE PÚBLICA MUNICIPAL. AUSÊNCIA DE VAGA. DANO MORAL NÃO CONFIGURADO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configurou a afronta ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada.
+2. No mérito, o Tribunal de origem consignou: "Contudo, as dificuldades enfrentadas pela autora em razão da demora na obtenção de vaga em creche municipal próxima à sua residência, não configuram, por si só, dano extrapatrimonial. Como bem ressaltado pelo d. Procurador em seu parecer ministerial, no caso em exame não restou demonstrada qualquer ação ou omissão capaz de causar dor, sofrimento, constrangimento ou violação à dignidade da menor, não havendo falar em reparação pecuniária."
+3. Para modificar o entendimento firmado no acórdão impugnado quanto ao cabimento da indenização por danos morais, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Agravo conhecido para conhecer parcialmente do Recurso Especial, apenas com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento (AREsp n. 1.593.229/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/2/2020, DJe de 12/5/2020).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Deixo de fixar os honorários advocatícios recursais previstos no art. 85, §11, do CPC, em razão da ausência de condenação do agravante, pelas instâncias ordinárias, ao pagamento de honorários sucumbenciais.
+Intimem-se.
+EMENTA
