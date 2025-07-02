@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fl. 81):
+AGRAVO DE INSTRUMENTO - Recurso contra r. decisão de indeferiu a penhora sobre recebíveis de cartão de crédito - Possibilidade de penhora, porquanto esgotados os meios disponíveis para a localização de outros bens penhoráveis - Necessidade, contudo, de limitação a percentual que não inviabilize as atividades empresariais da executada - Penhora de 10% sobre o faturamento das operações de cartões de crédito da empresa executada que se mostra razoável - Decisão reformada - RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 97-102).
+Em suas razões (fls. 105-122), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) art. 805 do CPC, aduzindo ofensa ao princípio da menor onerosidade,
+(ii) art. 833, IV, do CPC, defendendo a "impenhorabilidade de verbas recebíveis quando destinadas ao sustento mínimo da empresa" (fl. 118), e
+(iii) art. 866 do CPC, tendo em vista a ausência de "nomeação de um perito judicial, expert na área, para aferir o percentual passível de penhora que não prejudique a manutenção da atividade empresarial" (fl. 120). Acrescenta que "a empresa não possui condições de suportar uma penhora em seu faturamento, uma vez que a empresa não vem faturando regularmente, e que todo o valor recebido tem sido revertido ao pagamento de fornecedores e despesas básicas para a manutenção da empresa" (fl. 120).
+Contrarrazões apresentadas às fls. 154-176.
+O recurso foi admitido na origem, oportunidade em que foi deferida à parte recorrente a gratuidade da justiça para dispensá-la do recolhimento do preparo.
+É o relatório.
+Decido.
+O Tribunal de origem deu parcial provimento ao agravo de instrumento interposto pela instituição financeira para deferir a penhora sobre recebíveis da empresa ora recorrente, provenientes das operações de cartões de créditos, com base nas seguintes razões (fls. 82-84):
+Trata-se de agravo de instrumento interposto em ação de execução de título extrajudicial, ajuizada por BANCO DAYCOVAL S/A em face dos agravantes CENTRO MÉDICO CAVALCANTE LTDA., ANDERSON CAVALCANTE DE PAIVA E ILZA TENORIO CAVALCANTE, fundamentada em Cédula de Crédito Bancário Fundo Garantidor para Investimentos nº 94263-6, objetivando o pagamento da quantia total originária de R$ 220.984,55 (fls. 2/3 e 35/48, autos de origem).
+E, extrai-se dos autos que os ativos financeiros encontrados por meio do sistema SISBAJUD  ..  restaram insuficientes para a satisfação integral do crédito.
+Nesse contexto, esgotados os meios disponíveis para localização de bens passíveis de penhora, de rigor a constrição dos recebíveis junto às administradoras de cartões de crédito, medida que visa dar efetividade à satisfação da dívida, cuja execução tramita desde 2021  ..
+ ..
+Contudo, considerando-se que aludidos recebíveis se equiparam ao faturamento da empresa, os mesmos devem ser restringidos de forma a viabilizar o regular desempenho da atividade empresarial; afinal, embora a execução se dê no interesse do credor, deve ser processada da forma menos gravosa para o devedor (art. 805, caput, CPC).
+Assim, o percentual de 10% sobre o faturamento das operações de cartões de crédito da executada mostra-se razoável a satisfazer o crédito do exequente, sem obstar o desenvolvimento da respectiva atividade empresarial.
+As teses de impenhorabilidade dos recebíveis (afronta ao art. 833, IV, do CPC) e de violação do art. 866 do CPC em razão da ausência de "nomeação de um perito judicial, expert na área, para aferir o percentual passível de penhora que não prejudique a manutenção da atividade empresarial" (fl. 120) não foram apreciadas pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Entendendo permanecer o vício, caberia à parte alegar, em recurso especial, violação do art. 1.022 do CPC/2015, o que não ocorreu. Dessa forma, pela falta do indispensável prequestionamento das matérias, incide no caso a Súmula n. 211 do STJ.
+Ademais, esta Corte Superior entende que "o objetivo primordial da execução é a satisfação do credor, admitindo-se excepcionalmente a substituição da penhora somente nas hipóteses em que efetivamente demonstrada a necessidade de aplicação do princípio da menor onerosidade ao executado" (AgInt no AREsp n. 1.667.194/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/9/2020, DJe de 1/10/2020). No mesmo sentido: AgInt no AREsp n. 2.299.783/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+Nesse contexto, observada referida premissa pelo acórdão recorrido, a alteração do decidido na instância a quo  acerca (i) do esgotamento dos meios disponíveis para localização de bens passíveis de penhorada, (ii) da necessidade da constrição dos recebíveis junto às administradoras de cartões de crédito para fins de assegurar a satisfação do crédito e (iii) da preservação do regular desempenho da atividade empresarial no caso concreto  demandaria o reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial, por força da Súmula n. 7/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se e intimem-se.
+EMENTA
