@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRE LUIZ ALMEIDA DE JESUS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu recurso especial dirigido contra o acórdão proferido na Apelação Criminal n. 5546242-15.2020.8.09.0011 e embargos de declaração em seguida opostos (fls. 546/555 e 597/607).
+No recurso especial (fls. 614/625), o agravante alega violação dos arts. 386, III, do Código de Processo Penal e 28 da Lei de Drogas, sustentando que a conduta a ele atribuída seria atípica, por se tratar de ato preparatório impunível, uma vez que não houve entrega da substância entorpecente. De forma subsidiária, pleiteia a desclassificação para o art. 28 da Lei n. 11.343/2006, sob o argumento de inexistirem elementos concretos que indiquem a finalidade mercantil da droga.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo (fls. 682/684).
+É o relatório.
+O agravo é admissível, pois foi interposto tempestivamente e impugna adequadamente os fundamentos da decisão de inadmissibilidade.
+O acórdão recorrido consignou (fls. 550/551):
+As testemunhas Agentes Prisionais FELIPE TOLEDO e THALES PAULO, inquiridas em Juízo, foram uníssonos em afirmar que ao receberem os pacotes, observaram que havia um objeto estranho introduzido dentro do tubo de creme dental, o que ensejou a abertura do frasco e consequente identificação de duas porções de cocaína (mov. 134).
+Portanto, a dinâmica dos fatos, associada aos elementos materiais reunidos no momento da realização da prisão em flagrante, não deixam dúvidas quanto à procedência da imputação, inclusive quanto ao direcionamento finalístico da conduta dos agentes, que seria o tráfico de drogas.
+O arcabouço probatório processual não deixa dúvidas de que o primeiro apelante ANDRÉ LUIZ ALMEIDA DE JESUS, de modo não especificado nos autos, adquiriu a mencionada substância entorpecente e, em comunhão de desígnios com sua então companheira, segunda apelante RAYSSA KELLY DA SILVA BRITO, engendrou a entrada da substância ilícita no presídio para difusão ilícita.
+ ..
+Desse modo, não há que se cogitar em atipicidade da conduta, restando amplamente comprovada a autoria delitiva imputada aos apelantes. Ainda, o pedido alternativo de desclassificação para o delito previsto no art. 28 da Lei nº 11.343/2006 também não encontra amparo no arcabouço probatório processual, sobretudo pelo fato de o primeiro apelante ANDRÉ LUIZ ALMEIDA DE JESUS ter afirmado em seu interrogatório policial que não era usuário de drogas (fls. 14/15).
+Todavia, o entendimento adotado pela instância ordinária não deve prevalecer.
+Como se vê, a ação imputada ao agravante consistiu, essencialmente, em ter solicitado à sua companheira que lhe levasse entorpecentes na unidade prisional onde se encontrava recolhido. Não há qualquer comprovação acerca da propriedade da substância apreendida, e os réus, em juízo, negaram a prática delitiva. Ademais, a entrega da droga não se concretizou, pois foi interceptada pelos agentes penitenciários durante a revista.
+Esta Corte tem decidido que a mera solicitação, sem a efetiva entrega do entorpecente ao destinatário recolhido em estabelecimento prisional, configura, no máximo, ato preparatório e, sendo assim, impunível (AgRg no REsp n. 1.999.604/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/3/2023).
+Em outras palavras, a conduta do acusado de solicitar que fossem levadas drogas, cuja propriedade não se conseguiu comprovar, configura, no máximo, ato preparatório e, portanto, impunível, não se enquadrando como ato executório do delito, seja na conduta de "adquirir" ou em qualquer das demais modalidades previstas no art. 33 da Lei n. 11.343/2006. Evidencia-se, assim, a atipicidade da conduta.
+Nesse sentido, colhem-se os seguintes precedentes de ambas as Turmas que compõem a Terceira Seção desta Corte Superior: AgRg no AREsp n. 2.189.239/MG, Ministra Laurita Vaz, Sexta Turma, DJe 23/2/2023; e AgRg no REsp n. 1.922.955/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/5/2021.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de absolver o recorrente da imputação contida na denúncia.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONFIGURAÇÃO. AUSÊNCIA DE ATO DE EXECUÇÃO. ITER CRIMINIS NÃO INICIADO. MERA SOLICITAÇÃO. ATIPICIDADE DA CONDUTA.
+Agravo conhecido para dar provimento ao recurso especial.
