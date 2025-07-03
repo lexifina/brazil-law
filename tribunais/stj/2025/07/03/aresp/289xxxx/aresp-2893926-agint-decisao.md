@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interno interposto por DALVA RORIZ DA CRUZ PEREIRA contra decisão singular da Presidência desta Corte Superior que não conheceu do recurso especial em virtude da ausência de impugnação ao óbice da Súmula 7 do STJ (fls. 321-322).
+Nas razões do seu agravo interno, a parte agravante afirma que impugnou todos os fundamentos da decisão que não admitiu o seu recurso especial, sendo devida a reconsideração da decisão para novo julgamento.
+Verifico que, de fato, o fundamento relativo ao óbice da Súmula 7 do STJ foi devidamente impugnado nas razões do agravo em recurso especial, motivo pelo qual reconsidero a decisão, conheço do agravo e passo à análise do recurso especial.
+Trata-se de recurso especial manejado em face de acórdão assim ementado (fl. 252):
+Agravo de Instrumento - Execução - Gratuidade Judiciária - Deferimento - Limite de Valor Impenhorável - Art. 833, Inciso X do CPC/15 - Proventos Previdenciários - Limitação em 30% do Valor Penhorado - Legalidade - Precedente do STJ - Agravo Provido. Demonstrado que a parte não dispõe de capacidade financeira para custear as despesas do processo, adequado o deferimento dos benefícios da gratuidade de justiça. Para a concessão da tutela provisória de urgência, de natureza antecipada, nos termos do art. 300, do Código de Processo Civil, se mostra indispensável à comprovação de elementos que evidenciem a probabilidade do direito invocado pelo autor, somado ao perigo de dano ou o risco ao resultado útil do processo. Verificada que a quantia bloqueada nas contas poupança e corrente, além de constituírem remuneração previdenciária, é inferior a 40 salários mínimos, o que também garante sua impenhorabilidade, nos termos do art. 833, inciso X do CPC/15. Recurso provido parcialmente.
+Embargos de declaração rejeitados (fls. 266-267).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 833, IV e X, do Código de Processo Civil/2015, sustentando que os valores penhorados são oriundos de benefício previdenciário, depositados em conta poupança, com saldo inferior a 40 salários mínimos, o que garantiria sua impenhorabilidade.
+Argumenta, também, que a decisão contraria a proteção legal da impenhorabilidade de até 40 salários mínimos, conforme art. 833, X, do CPC/2015, que abrange também as reservas depositadas em conta-corrente e outras aplicações financeiras.
+Haveria, por fim, violação ao art. 833, IV e X, do CPC/2015 uma vez que o Tribunal de origem manteve a penhora de parte dos vencimentos, comprometendo a sua subsistência.
+Contrarrazões ao recurso especial não apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de ação de execução de título extrajudicial na qual o recorrido busca o pagamento de valores inadimplidos, decorrentes de cédula de crédito bancário na qual a recorrente figurou como avalista.
+Efetivada a citação, houve o bloqueio de ativos financeiros em conta de titularidade da recorrente, que apresentou impugnação sustentando a impenhorabilidade da verba objeto do bloqueio judicial, porquanto oriunda de seus proventos de aposentadoria, recebidos em conta poupança.
+Na decisão de primeiro grau, o Juiz determinou o bloqueio de apenas 30% do valor bloqueado na conta da devedora, determinando o desbloqueio de 70% do valor constrito.
+A ora agravante interpôs agravo de instrumento sustentando a impenhorabilidade da verba objeto do bloqueio judicial, porquanto oriundas de proventos previdenciários (INSS), recebidos em conta poupança/salário, consoante art. 833, IV e X do Código de Processo Civil/2015..
+O Tribunal de origem deu parcial provimento ao recurso, apenas para conceder o benefício da gratuidade de Justiça, mantendo a decisão singular que limitou a penhora a 30% sobre o valor bloqueado. Confira-se:
+Lado, outro, atento à matéria trazida a debate cinge-se, no juízo singular sobre penhorabilidade de valores referentes aos proventos da parte recorrente, que prejudica sobremaneira a sobrevivência dela até uma decisão de mérito.
+ ..
+Nesse contexto verifica-se do documento colacionado aos autos, que a penhora recaiu sobre os proventos da parte recorrente de natureza salarial, que se enquadra nos ditames legais do artigo 833, IV, do Código de Processo Civil.
+Entretanto, nota-se da decisão objurgada que o culto juiz singular, limitou a penhora ao percentual de 30%, autorizando o levantamento da importância, pela executada/agravante, referente aos outros 70% do valor bloqueado pelo Banco Santander.
+Assim, correta a defesa da parte agravante, quanto a impossibilidade de liberação de 100% do valor bloqueado.
+Com efeito, e observado que no agravo a parte recorrente pugnou apenas pelo benefício da gratuidade judiciária revogo a decisão (doc. ordem 96), que concedia o efeito suspensivo, pena de multa, para manter apenas a gratuidade judiciária ao executado/agravante, bem como ratifico a decisão singular  ..  (fls. 255-256).
+A respeito da possibilidade de penhorar parcela da remuneração do devedor, esse Superior Tribunal de Justiça tem entendimento no sentido de que: "Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (EREsp 1.518.169/DF, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, j. em 3/10/2018, DJe de 27/2/2019).
+Dessa forma, a jurisprudência desta Corte Superior admite a relativização da regra da impenhorabilidade de verbas salariais, a despeito da natureza da dívida e do valor recebido, desde que a medida não comprometa a subsistência do devedor e de sua família.
+Além disso, por se tratar de medida excepcional, deve ser adotada somente quando outros meios executórios forem inviabilizados e não puderem garantir a efetividade da execução, devendo, ainda, ser avaliado o impacto da constrição na vida do devedor e de sua família.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PERCENTUAL DE VERBA SALARIAL. IMPENHORABILIDADE (ART. 833, IV e § 2º, CPC/2015). RELATIVIZAÇÃO. POSSIBILIDADE. CARÁTER EXCEPCIONAL.
+1. O CPC de 2015 trata a impenhorabilidade como relativa, podendo ser mitigada à luz de um julgamento principio lógico, mediante a ponderação dos princípios da menor onerosidade para o devedor e da efetividade da execução para o credor, ambos informados pela dignidade da pessoa humana.
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DÍVIDA NÃO ALIMENTAR. PENHORA DE PERCENTUAL DOS RENDIMENTOS DOS EXECUTADOS INFERIORES A 50 SALÁRIOS MÍNIMOS. RELATIVIZAÇÃO. POSSIBILIDADE. EXCEPCIONALIDADE NÃO DEMONSTRADA, NO CASO. COLIDÊNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DA CORTE ESPECIAL. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PROVIDO.
+1. A relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, reveste-se de caráter excepcional e só deve ser feita quando inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares (EREsp 1.874.222/DF, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 24/5/2023).
+2. Não ficou demonstrada nos autos a excepcionalidade exigida nos termos do precedente fixado pela Corte Especial. Na hipótese, o entendimento adotado no acórdão recorrido está dissonante com a jurisprudência assente da Corte Especial.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, dar provimento ao recurso especial.
+(AgInt no REsp n. 2.067.512/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. SALÁRIO. PENHORA. VERBA DE NATUREZA NÃO ALIMENTAR. MITIGAÇÃO. POSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça encontra-se firmada no sentido de que, excepcionalmente, é possível a mitigação da impenhorabilidade dos salários para a satisfação de crédito não alimentar, sem prejuízo direto à subsistência do devedor ou de sua família, a partir das peculiaridades do caso e dos princípios da proporcionalidade e razoabilidade.
+(..)
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.026.019/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. SÚMULA 568 DO STJ.
+1. Cumprimento de sentença.
+2. A regra geral da impenhorabilidade de salários, prevista no Código de Processo Civil, pode ser excepcionada quando for preservado percentual capaz de dar amparo à dignidade do devedor e de sua família.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.355.787/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Assim, ao decidir pela possibilidade de penhora de 30% do valor relativo ao salário bloqueado na conta da devedor, o acórdão recorrido decidiu em conformidade com a jurisprudência desse STJ, acima demonstrada.
+Por fim, no que se refere ao bloqueio de quantia inferior a 40 salários mínimos, depositados em poupança, de acordo com o art. 833, IV e X, do CPC/2015, a questão não foi objeto de debate no Tribunal local.
+Inequívoca, pois, a incidência dos verbetes n. 282 e 356 da Súmula do Supremo Tribunal Federal e 211 desta Casa.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
