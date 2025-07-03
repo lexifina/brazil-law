@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARAMEPAR INDUSTRIA E COMERCIO DE ARAMES LTDA do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO às fls. 249/251.
+Nas razões de seu recurso, a parte recorrente afirma (fl. 269 ):
+"Frise-se que a MP 1.159/2023 traz que a Recorrente não está autorizada a descontar créditos de PIS e COFINS sobre o valor do ICMS incidentes na etapa anterior, os quais compõem o valor de aquisição dos insumos e das mercadorias, mesmo que os produtos sejam destinados a posterior industrialização e comercialização.
+E é neste ponto que reside a controvérsia, pois, o entendimento vigente é de que o ICMS gera o direito ao crédito do PIS e COFINS ao contribuinte.
+E para tanto, neste regime de apuração, permite-se a apropriação de créditos, sobretudo sobre o custo de aquisição dos bens adquiridos, conforme previsto no art. 3º, incisos I e II, das Leis nº 10.637/02 e nº 10.833/03, implicando em ofensa ao princípio da não cumulatividade e aumento da carga tributária."
+A parte adversa apresentou contrarrazões (fl. 300/309).
+O recurso foi admitido na origem (fl. 315).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.364), e foi assim delimitada:
+"Possibilidade de apuração de créditos de PIS/COFINS em regime não cumulativo sobre o valor do ICMS incidente sobre a operação de aquisição, à luz do disposto no art. 3º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/2023."
+(REsps 2.150.894/SC, 2.150.848/RS, 2.151.146/RS e 2.150.097 /CE relator Ministro Paulo Sérgio Domingues).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
