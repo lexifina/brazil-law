@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu o recurso especial, fundado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto por GENERAL MOTORS DO BRASIL LTDA em face do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+COMPRA E VENDA DE VEÍCULO NOVO. Obrigação de fazer cumulada com indenização por danos morais. Vício de fabricação constatado poucos dias depois da compra do veículo que persistiram após inúmeras tentativas de reparo em concessionária. Sentença de parcial procedência para condenar os réus, solidariamente, na obrigação de reparar o veículo. Preliminar de intempestividade afastada. Legitimidade passiva do comerciante para responder pelo vício do produto (art. 18 do CDC). Responsabilidade pelo vício que não se confunde com responsabilidade pelo fato do produto, impossibilitando o reconhecimento da subsidiariedade prevista no art. 13 do mesmo diploma. Interesse de agir que se confunde com o mérito da demanda. Perícia que confirmou a persistência de vícios no veículo a justificar a pretensão de reparo. Automóvel em ótimo estado de conservação e sem qualquer sinal de mau uso, a confirmar a hipótese de defeito de fabricação. Obrigação de fazer mantida. Recursos desprovidos.
+No recurso especial, alega a agravante que a perícia teria constatado a ausência de vício na fabricação do imóvel, o que excluiria a sua responsabilidade. Aponta, então, violação aos arts. 12, § 3º, inciso II e 18 do Código de Defesa do Consumidor, bem como aos arts. 186, 884, 886, 927 e 944 do Código Civil.
+Contrarrazões apresentadas às fls. 499-508.
+Assim, delimitada a controvérsia, passo a decidir.
+Ao entender pela responsabilidade da fabricante agravante pelos defeitos ocorridos no veículo zero quilômetro adquirido pela agravada, o TJSP fundamentou o seguinte:
+A fim de dirimir a controvérsia, por meio da decisão de fls. 295, foi determinada a realização de perícia no bem para verificar se os reparos foram satisfatórios ou se permanecem os vícios.
+Concluiu o perito que o carro possui evidente problema eletrônico e que a substituição dos módulos relacionados a cada problema será capaz de solucionar definitivamente a questão (fls. 353/363).
+A insurgência da recorrente General Motors quanto às conclusões periciais não pode ser confundida com a inadequação do estudo ou de sua metodologia, já que a parte não trouxe qualquer fundamento concreto que pudesse macular o laudo produzido.
+E, no mais, o problema no termostato, já havia sido denunciada pela autora em sua inicial, de forma que se mostra frágil a alegação de que o erro na medição partiu da fonte comparativa utilizada pelo perito e não do veículo.
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere à responsabilidade pelo vício do produto, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da Justiça gratuita.
+Intimem-se.
+EMENTA
