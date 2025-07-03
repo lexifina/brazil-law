@@ -1,0 +1,47 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 285-286):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DESAFORAMENTO DE JULGAMENTO. IMPARCIALIDADE DO JÚRI. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se pleiteava o desaforamento do julgamento pelo Tribunal do Júri, sob alegação de dúvida quanto à imparcialidade dos jurados devido à comoção social e repercussão midiática dos fatos em cidade pequena.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a alegada parcialidade dos jurados, fundamentada na comoção social e repercussão midiática em cidade de pequeno porte, é suficiente para justificar o desaforamento do julgamento.
+III. RAZÕES DE DECIDIR
+3. A mera presunção de parcialidade dos jurados, sem embasamento empírico, não é suficiente para o desaforamento, conforme entendimento consolidado do Superior Tribunal de Justiça.
+4. A repercussão do crime e a comoção social são comuns em delitos de maior gravidade e não justificam, por si só, o desaforamento.
+5. A decisão do Tribunal de origem, que indeferiu o pedido de desaforamento, está em consonância com a jurisprudência, não havendo elementos concretos que demonstrem o comprometimento da imparcialidade dos jurados.
+IV. DISPOSITIVO E TESE
+6. Agravo desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 316-328).
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXVII, LIII, LIV, LV e LVII, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que a realização do julgamento no foro de origem compromete a imparcialidade, argumentando que a hostilidade social, a recusa de defensores locais e a exposição midiática tornam impossível um julgamento justo, sendo necessário o desaforamento para outra comarca.
+Requer, assim, a concessão de medida liminar para impedir a realização do Júri até o julgamento do mérito do writ e a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 351-355.
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fls. 288-292):
+Conforme preceituam os artigos 69 e 70 do Código de Processo Penal, a competência será, via de regra, determinada pelo lugar em que se consumou a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+Ocorre que, em se tratando dos crimes de competência do Tribunal do Júri, poderá haver a alteração dessa competência inicialmente fixada, ou seja, uma derrogação para outra comarca da mesma região (desaforamento), com previsão nos artigos 427 e 428 do CPP (com redação dada pela Lei n. 11.689/2008) que, respectivamente, preceituam:
+Art. 427. Se o interesse da ordem pública o reclamar ou houver dúvida sobre a imparcialidade do júri ou a segurança pessoal do acusado, o Tribunal, a requerimento do Ministério Público, do assistente, do querelante ou do acusado ou mediante representação do juiz competente, poderá determinar o desaforamento do julgamento para outra comarca da mesma região, onde não existem aqueles motivos, preferindo-se as mais próximas.
+Art. 428. O desaforamento também poderá ser determinado, em razão do comprovado excesso de serviço, ouvidos o juiz-presidente e a parte contrária, se o julgamento não puder ser realizado no prazo de 6 (seis) meses, contado do trânsito em julgado da decisão de pronúncia.
+No caso dos autos, verifica-se que a defesa requereu o desaforamento ao argumento de que há manifesto comprometimento da imparcialidade do Júri da Comarca de Pinheiro Machado, especialmente pela comoção social e repercussão midiática dos fatos na localidade, que é pequena, onde todos seriam supostamente conhecidos entre si.
+Da análise dos autos, entende-se que razão não assiste aos impetrantes, na medida em que não foram demonstrados os requisitos do art. 427 do CPP, pois a mera presunção de parcialidade dos jurados em razão da comoção social e repercussão midiática dos fatos em cidade pequena é insuficiente para o deferimento da medida excepcional do desaforamento da competência. Demais disso, conforme salientado pelo Tribunal de origem, o crime teria ocorrido há mais de 14 anos.
+Consoante entendimento desta Corte Superior de Justiça, "a eventual repercussão do crime na localidade, a costumeira movimentação dos parentes das vítimas e a divulgação dos fatos pela mídia são atitudes corriqueiras em hipóteses de delitos de maior gravidade, de modo que não justificam, per se, o desaforamento da sessão em Plenário" (AgRg no HC n. 627.631/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/8/2021, DJe de 12/8/2021).
+ ..
+Ademais, para rever o entendimento do Tribunal de origem no sentido de que não existem os requisitos que autorizam o desaforamento, seria necessário o exame aprofundado do contexto fático-probatório, o que se sabe, inviável nesta via eleita.
+3. No que se refere à alegada violação ao art. 5º, XXXVII, LIII, e LVII, da CF, verifica-se, conforme o trecho supratranscrito do acórdão recorrido, que a matéria ventilada depende do exame dos arts. 427 e 428 do Código de Processo Penal, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, inviabilizando a admissão do recurso.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso, seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte: "Para simples reexame de prova não cabe recurso extraordinário".
+Em caso semelhante, assim já decidiu o STF:
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. TRIBUNAL DO JÚRI. DESAFORAMENTO. MOTIVOS AUTORIZADORES. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 279/STF. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973.
+1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática e a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, "a", da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+3. Agravo regimental conhecido e não provido.
+(ARE 717518 AgR-segundo, Relator(a): ROSA WEBER, Primeira Turma, julgado em 29-09-2017, PROCESSO ELETRÔNICO DJe-252 DIVULG 06-11-2017 PUBLIC 07-11-2017)
+4. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário, em relação à suscitada ofensa ao art. 5º, LIV e LV, da Constituição Federal, e, quanto às demais alegações, com fundamento no art. 1.030, V, do Código de Processo Civil, não o admito. Prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC. DIREITO PROCESSUAL PENAL. TRIBUNAL DO JÚRI. DESAFORAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
