@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ CORONA NETO em face de decisão assim redigida (fls. 1.159-1.162):
+A súplica merece acolhida.
+Com efeito, o raciocínio utilizado para o IPTU é o mesmo a ser aplicado quanto às taxas de condomínio entre o habite-se e a venda do imóvel a outra pessoa.
+Confira-se a jurisprudência:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. RESCISÃO CONTRATUAL. INADIMPLEMENTO DAS VENDEDORAS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. MORA DAS CONSTRUTORAS. APLICAÇÃO DA LEI N. 9.514/1997. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. VALORES PAGOS. COMISSÃO DE CORRETAGEM. RESTITUIÇÃO INTEGRAL. SÚMULA N. 83/STJ. IPTU. REPASSE À COMPRADORA. AUSÊNCIA DE ENTREGA DAS CHAVES. IMPOSSIBILIDADE. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+1.1. No caso, para descaracterizar o inadimplemento contratual das recorrentes, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+2. Conforme o entendimento desta Corte Superior, aplicam-se as disposições da Lei 9.514/97 quando o "devedor-fiduciante não paga, no todo ou em parte, a dívida, e é constituído em mora, o que não é o caso dos autos" (AgInt no AREsp n. 1.432.046/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019), o que foi observado pela Corte local.
+2.1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor" (Súmula n. 543/STJ), situação idêntica à destes autos. Aplicação da Súmula n. 83/STJ.
+4. De acordo com a jurisprudência do STJ, "no caso de rescisão contratual por culpa da construtora, o comprador deve ser restituído da comissão de corretagem" (AgInt no REsp n. 1.863.961/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/6/2021, DJe 30/6/2021), o que foi seguido pela Corte de apelação.
+Caso de incidência da Súmula n. 83/STJ.
+5. Para a jurisprudência do STJ, "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de o IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse" (AgInt no REsp n. 1.975.034/SP, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 25/9/2023, DJe de 27/9/2023), entendimento aplicado pelo Tribunal a quo. Aplicação da Súmula n. 83/STJ.
+6. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 5, 7 e 83 do STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.368.351/RO, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 20/11/2023, DJe de 28/11/2023)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. DA CULPA PELA RESCISÃO DO CONTRATO E DO PERCENTUAL DE RETENÇÃO DAS PARCELAS PAGAS. SÚMULA Nº 543 DO STJ. ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 83 DO STJ. JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. No caso, para ultrapassar a conclusão do Tribunal estadual, a fim de reconhecer que a rescisão do contrato deu-se por responsabilidade dos compradores, seria necessária a interpretação de cláusulas do contrato, assim como a reincursão no acervo fático-probatório da causa, o que é vedado nesta sede excepcional, ante os óbices das Súmulas nºs. 5 e 7 do STJ.
+3. Em se tratando de rescisão de promessa de compra e venda por culpa do vendedor, deve ser restituída a integralidade dos valores pagos pelo comprador. Súmula nº 543 do STJ. No caso, tendo sido determinada a retenção de 6% dos valores pagos, a fim de compensar os gastos das empresas com administração e propaganda, não poderá a questão ser revista nesta Corte, sob pena de reformatio in peius.
+4. A responsabilidade pelo pagamento de taxa de fruição, IPTU e despesas condominiais incide a partir da efetiva posse do imóvel, sob pena de os adquirentes terem que arcar com tais ônus financeiros enquanto estão impossibilitados de usufruir do imóvel.
+5. Na linha dos precedentes desta Corte, não é devida a retenção de arras confirmatórias pelo promitente-vendedor nas hipóteses de desfazimento do contrato de promessa de compra e venda de imóvel.
+Incidência da Súmula nº 83 do STJ.
+6. Segundo o entendimento do STJ, incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente-vendedora, e correção monetária desde a data do desembolso. Súmula nº 568 do STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.148.949/RJ, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024)
+Deve, portanto, a construtora devolver as taxas de condomínio pagas pelo ora embargante entre o habite-se e a alienação do imóvel a outra pessoa.
+Alega o embargante padecer a decisão de erro material, pois não se trata de determinar a devolução das taxas de condomínio, mas apenas de determinar que não tem direito a construtora a reter o montante referente a taxas de condomínio entre o habite-se e a venda do imóvel a outra pessoa, assim como foi determinado em relação ao IPTU.
+No mesmo sentido é a manifestação da parte contrária (fls. 1.165-1.166).
+É o relatório. Decido.
+Tem razão o embargante. Não se trata, de fato, de determinar a devolução de taxas de condomínio que nunca foram pagas pelo recorrente, conforme, aliás, dito pela própria construtora (fls. 1.165-1.166)
+Aplicando-se raciocínio idêntico ao que valeu para o IPTU (fls. 1.080-10.86), ou seja, de que a construtora não deve reter os valores correspondentes a esse tributo no período entre o habite-se e a venda do imóvel a outra pessoa, também assim deve ocorrer com as taxas de condomínio relativas a esse mesmo período, ou seja, não tem a construtora direito de reter os valores respectivos.
+Repita-se: assim como o IPTU, não tem a construtora direito de reter os valores de taxas de condomínio entre o habite-se e a venda do imóvel a outra pessoa.
+Acolho, portanto, os embargos, para afastar o erro material.
+Publique-se.
+EMENTA
