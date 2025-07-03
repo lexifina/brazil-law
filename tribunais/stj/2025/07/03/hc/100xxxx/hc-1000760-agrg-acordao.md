@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, Carlos Cini Marchionatti (Desembargador Convocado TJRS), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. WRIT NÃO CONHECIDO. AUSENTE HIPÓTESE DE CONCESSÃO DE OFÍCIO. TRÁFICO DE DROGAS. REGIME INICIAL FIXADO COM FUNDAMENTO NA QUANTIDADE DE DROGA APREENDIDA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME INICIAL FECHADO FUNDAMENTADO. AGRAVO DESPROVIDO.
+1. Diante da hipótese de habeas corpus substitutivo de revisão criminal, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Ademais, não se está diante de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+2. Em que pese a pena definitiva tenha sido fixada no patamar de cinco anos de reclusão, foi reconhecida como circunstância judicial desfavorável a elevada quantidade de droga apreendida, justificando o incremento da pena em seu aspecto qualitativo, qual seja, a fixação do regime inicial fechado.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por BRUNO FERREIRA DA SILVA em face da decisão da presidência desta Corte Superior de fls. 673/674 que indeferiu liminarmente a impetração por ser substitutiva de revisão criminal.
+No presente agravo, a defesa sustenta a possibilidade de conhecimento da impetração em razão da existência de flagrante constrangimento ilegal consistente na fixação de regime inicial fechado ao agravante condenado por crime de tráfico de drogas, à pena privativa de liberdade de 5 anos de reclusão.
+Requer, assim, o provimento do recurso e a concessão da ordem nos termos da inicial.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental, conforme parecer de fls. 694/98
+É o breve relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. WRIT NÃO CONHECIDO. AUSENTE HIPÓTESE DE CONCESSÃO DE OFÍCIO. TRÁFICO DE DROGAS. REGIME INICIAL FIXADO COM FUNDAMENTO NA QUANTIDADE DE DROGA APREENDIDA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME INICIAL FECHADO FUNDAMENTADO. AGRAVO DESPROVIDO.
+1. Diante da hipótese de habeas corpus substitutivo de revisão criminal, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Ademais, não se está diante de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+2. Em que pese a pena definitiva tenha sido fixada no patamar de cinco anos de reclusão, foi reconhecida como circunstância judicial desfavorável a elevada quantidade de droga apreendida, justificando o incremento da pena em seu aspecto qualitativo, qual seja, a fixação do regime inicial fechado.
+3. Agravo regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+Com efeito, diante da hipótese de habeas corpus substitutivo de revisão criminal, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, não se está diante de flagrante ilegalidade que justifique a concessão da ordem de ofício. Explico.
+Em que pese a pena definitiva tenha sido fixada no patamar de 5 anos de reclusão, foi reconhecida como circunstância judicial desfavorável a elevada quantidade de droga apreendida, justificando o incremento da pena em seu aspecto qualitativo, qual seja, a fixação do regime inicial fechado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO QUANTO AO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. ESTABILIDADE E PERMANÊNCIA RECONHECIDAS NA ORIGEM, COM BASE EM DADOS CONCRETOS. INVERSÃO DO JULGADO. NECESSIDADE, NA HIPÓTESE, DE AMPLA REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI DE DROGAS. MANUTENÇÃO DA CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE DE SE RECONHECER O TRÁFICO PRIVILEGIADO. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias de origem apontaram elementos concretos suficientes a respaldar os requisitos de estabilidade e de permanência do crime de associação para o tráfico, pois foi ressaltado que o Acusado negociava a venda dos entorpecentes "pelo celular, máquina de cartão, em grupos de WhatsApp e Facebook", bem como conversava "sobre venda de maconha de "qualidade" ("Colômbia") e de dividirem o valor do produto do crime.  ..  Nas demais conversas, os acusados negociam o preço de drogas com os usuários e local para entrega", além do fato da utilização de uma casa somente para armazenar os entorpecentes.
+2. Nessa conjuntura, não é possível afastar a conclusão das instâncias de origem quanto à condenação pelo crime previsto no art. 35, caput, da Lei de Drogas, pois tal providência demandaria aprofundado exame do conjunto fático-probatório dos autos, o que não se mostra possível no âmbito estreito do habeas corpus.
+3. Tendo sido o Réu condenado pelo crime de associação para o tráfico, circunstância que evidencia a dedicação do Agravante às atividades criminosas, é descabido o pleito de aplicação da minorante prevista no art. 33, § 4.º, da Lei de Drogas.
+4. A Corte de origem, ao dar parcial provimento ao apelo do Ministério Público, fixou a pena-base do Agravante acima do mínimo legal, em razão da quantidade da droga apreendida - 2.825,72 de maconha -, de forma que o regime inicial mais gravoso encontra respaldo no art. 33, § 3.º, c.c. o art. 59 do Código Penal.
+5. Agravo regimental desprovido.
+(AgRg no HC 729.190/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/4/2022, DJe 8/4/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. JULGAMENTO MONOCRÁTICO. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. REGIME INICIAL DE CUMPRIMENTO DE PENA. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. QUANTIDADE, NATUREZA E VARIEDADE DAS DROGAS APREENDIDAS UTILIZADAS PARA MODULAR O REDUTOR DE PENA. REGIME PRISIONAL INICIAL SEMIABERTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A prolação de decisão monocrática pelo ministro relator não representa violação ao princípio da colegialidade, como aponta a defesa do agravante, pois está autorizada pelo art. 34, inciso XX, do Regimento Interno desta Corte. Tal entendimento foi consolidado pela jurisprudência deste Tribunal no enunciado n. 568 da Súmula, aplicável ao caso, mutatis mutandis. Ademais, os temas decididos monocraticamente sempre poderão ser levados à análise do Órgão Colegiado por meio do controle recursal, via interposição de agravo regimental, como foi feito na espécie.
+2. Na identificação do regime inicial de cumprimento de pena, o magistrado deve expor motivadamente sua escolha, atento às regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006. Assim, a modulação do redutor do tráfico privilegiado, em razão da diversidade, quantidade e nocividade das drogas apreendidas, justifica o recrudescimento do regime prisional inicial. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 727.832/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 29/3/2022, DJe 31/3/2022).
+Ante o exposto, voto no sentido de negar provimento ao presente agravo regimental no habeas corpus.
