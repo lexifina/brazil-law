@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANA LÚCIA LUCIANO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO CONSIGNADO RELATIVO A BENEFÍCIO PREVIDENCIÁRIO - PROVA PERICIAL - DESNECESSIDADE - TAXA DE JUROS REMUNERATÓRIOS - NECESSIDADE DE OBSERVÂNCIA DO LIMITE PREVISTO EM INSTRUÇÃO NORMATIVA DO INSS - TETO RESPEITADO - IMPROCEDÊNCIA DOS PEDIDOS
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 369 do CPC, no que concerne à configuração de cerceamento de defesa em razão da impossibilidade de produção de prova pericial, trazendo a seguinte argumentação:
+Segundo o artigo supramencionado as partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz.
+Contudo, para a comprovação das alegações trazidas na exordial, referente aos juros cobrados, se faz necessário a concessão da prova pericial contábil, tendo em vista que a ilegalidade só é possível ser demonstrada através de cálculos contábeis, uma vez que a taxa de juros descrita no contrato não espelha a verdade.
+Importante clarificar, que a recorrente cuidou de colacionar aos autos cálculos unilaterais que demonstram a cobrança dos juros remuneratórios superiores daqueles informados no contrato, no qual, com a realização da perícia contábil que fora incorretamente indeferida, comprovaria a correta aplicação dos cálculos unilaterais colacionados pelo recorrente e a consequente ilegalidade dos juros realmente cobrados na prática pelo recorrido, evidenciando que estes estão em desacordo com é determinado pela Instrução Normativa Nº 92 do INSS.
+Portanto, resta clarificado que o referido acórdão violou o artigo 369 do Código de Processo Civil, pois não possibilitou à recorrente o direito de empregar todos os meios de provas legais permitidos, motivo pelo qual deve ser reformado. (fls. 961-962).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Irresignada com o julgamento da lide sem a prova pericial cuja produção pleiteara, a recorrente agita a tese de cerceamento de defesa, que lhe fundamenta a preliminar de nulidade da sentença.
+Para aferir a relevância da aludida prova pericial, é preciso identificar as questões de fato controvertidas, à vista dos limites da demanda fixados no ato postulatório inaugural do processo.
+A causa de pedir fática, afirmada na petição inicial (evento n.
+02), reside na alegação de que os juros remuneratórios cobrados pela ré em relação ao contrato de empréstimo consignado celebrado com o autor excedem o limite estabelecido pela Instrução Normativa INSS/PRES n. 28, de 16 de maio de 2008.
+Todavia, para sustentar sua afirmação, a autora, na inicial, leva em conta não a taxa de juros remuneratórios prevista no contrato, mas o CET (custo efetivo total).
+Ora o limite estabelecido pela Instrução Normativa INSS/PRES n. 28, de 16 de maio de 2008 se aplica aos juros, e não ao CET, que embute, além dos juros, outros encargos, como "tributos, tarifas e seguros" (Resolução 3.517 do Banco Central).
+Para aferir se o limite da referida Resolução foi respeitado no caso, basta compará-lo com a taxa de juros remuneratórios prevista no contrato.
+Não há razão para trabalhar com a improvável hipótese de que os juros efetivamente cobrados pela ré excedem o previsto no contrato.
+Sabe-se, por experiência comum, que as cobranças efetuadas pelas instituições financeiras normalmente respeitam as taxas e demais parâmetros contratualmente estipulados.
+Nesse contexto, em que os dados fáticos necessários ao deslinde da lide podem ser extraídos do instrumento contratual, não se vislumbra a necessidade de produção de prova pericial, a qual apenas oneraria e retardaria o processo.
+Impõe-se, desse modo, a rejeição da preliminar arguida. (fls. 952-953).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
