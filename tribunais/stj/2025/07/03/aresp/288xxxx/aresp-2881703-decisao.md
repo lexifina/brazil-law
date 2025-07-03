@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: revisional de contrato bancário, ajuizada por APPARECIDA LUIZA ALCONCHES DOS SANTOS, em face da agravante, fundada na abusividade contratual.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa (e-STJ fls. 702-716):
+APELAÇÃO CÍVEL. DIREITO BANCÁRIO. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS C/C REPETIÇÃO DE INDÉBITO. EMPRÉSTIMO PESSOAL NÃO CONSIGNADO. SENTENÇA DE PROCEDÊNCIA DA AÇÃO. IRRESIGNAÇÃO DO BANCO RÉU. PRELIMINARES. 1. DOS PEDIDOS DE INTIMAÇÃO PESSOAL DA PARTE AUTORA E DE PROVIDÊNCIAS EM RELAÇÃO AO SEU PATRONO. NÃO ACOLHIMENTO. VÍCIO NA REPRESENTAÇÃO PROCESSUAL E INDÍCIOS DE ADVOCACIA PREDATÓRIA NÃO VISLUMBRADOS NO CASO ESPECÍFICO. EVENTUAL ATUAÇÃO ATENTATÓRIA À JUSTIÇA E VIOLAÇÃO DOS DEVERES DO PROCURADOR E SUAS RESPECTIVAS SANÇÕES QUE DEVEM SER VERIFICADAS E IMPOSTAS PELO ÓRGÃO DE CLASSE. 2. ALEGADA NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. MATÉRIAS CONTROVERTIDAS DEVIDAMENTE ANALISADAS, MEDIANTE EXPOSIÇÃO DOS MOTIVOS PELOS QUAIS O JUÍZO SINGULAR ENTENDEU PELA EXISTÊNCIA DE PROVA DE ABUSIVIDADE NOS CONTRATOS. DECISÃO CONTRÁRIA AO ENTENDIMENTO DA PARTE QUE NÃO SE CONFUNDE COM AUSÊNCIA DE FUNDAMENTAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRELIMINAR REJEITADA. 3. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. MATÉRIA EXCLUSIVAMENTE DE DIREITO. PRODUÇÃO DE PROVA PERICIAL, DOCUMENTAL SUPLEMENTAR E ORAL DESNECESSÁRIAS PARA O DESLINDE DA DEMANDA. MÉRITO 4. INSURGÊNCIA QUANTO À LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. NÃO ACOLHIMENTO. TAXA DE JUROS SUPERIOR AO DOBRO DA MÉDIA DE MERCADO PARA OPERAÇÕES DA MESMA ESPÉCIE, SEM QUALQUER JUSTIFICATIVA CONCRETA. ABUSIVIDADE CONSTATADA. ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP. 1.061.350/RS, SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. 5. REPETIÇÃO DO INDÉBITO DEVIDA, SOB PENA DE ENRIQUECIMENTO ILÍCITO. SENTENÇA MANTIDA, COM A FIXAÇÃO DE HONORÁRIOS RECURSAIS (ART. 85, § 11 DO CPC).
+RECURSO CONHECIDO NÃO PROVIDO.
+Decisão de admissibilidade do TJ/PR: negou seguimento com base no Tema 27 do STJ e inadmitiu o recurso especial em razão dos seguintes fundamentos (e-STJ fls. 906-911):
+i) incidência da Súmula 7/STJ em relação ao cerceamento de defesa (arts. 355, I e II e 356, I e II, do CPC); e
+ii) incidência das Súmulas 5 e 7/STJ em relação à abusividade da taxa de juros remuneratórios (art. 421 do CC); e
+iii) dissídio jurisprudencial prejudicado em razão da incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que (e-STJ fls. 955-964):
+i) não incidem as Súmula 5 e 7/STJ em relação à taxa de juros remuneratórios (art. 421 do CC/02) e pretende a aplicação da tese jurídica apontada.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice:
+i) incidência da Súmula 7/STJ em relação ao cerceamento de defesa (arts. 355, I e II e 356, I e II, do CPC).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fl. 715) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
