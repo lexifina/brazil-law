@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interposto por PETRÓLEO BRASILEIRO S.A. PETROBRAS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE cuja ementa guarda os seguintes termos (fls. 3.574-3.575):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CONTRATO DE FORNECIMENTO DE REFEIÇÕES - PETROBRÁS - AUDITORIA INTERNA QUE CONSTATOU PAGAMENTOS A MAIOR DEVIDO A DOIS EQUÍVOCOS NOS RELATÓRIOS DE MEDIÇÃO: MEDIÇÃO EM DUPLICIDADE DOS QUANTITATIVOS DOS SERVIÇOS DE ALIMENTAÇÃO TRANSPORTADA ENTRE O PERÍODO DE 06/2010 A 05/2011; DIVERGÊNCIA ENTRE A QUANTIDADE DE REFEIÇÕES PAGAS À CONTRATADA E A REGISTRADA NO SISTEMA ELETRÔNICO DE CONTROLE DE ACESSO AO REFEITÓRIO DE CARMÓPOLIS NO PERÍODO DE 26/10/2010 A 25/11/2010 - SISTEMA SECULLUM - AUDITORIA INTERNA AFIRMOU QUE O SISTEMA NÃO APRESENTA CONFIABILIDADE NECESSÁRIA RECOMENDAÇÕES PARA CORRIGIR EVENTUAIS DISTORÇÕES - RELATÓRIOS DE MEDIÇÃO E BOLETINS DE MEDIÇÃO ASSINADOS POR FUNCIONÁRIOS DA REQUERENTE QUE APROVARAM OS PAGAMENTOS IMPUGNADOS APENAS POSTERIORMENTE - NOTAS FISCAIS EMITIDAS DE ACORDO COM OS RELATÓRIOS DE MEDIÇÕES - LAUDO PERICIAL CONTÁBIL QUE NÃO ESTÁ ALINHADO COM AS PROVAS DOS AUTOS - MAGISTRADO NÃO DEVE FICAR ADSTRITO AO LAUDO PERICIAL - LIVRE CONVENCIMENTO DO MAGISTRADO - ART. 479 DO CPC - RECURSO DO AUTOR - PRELIMINAR POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL REJEITADA - MÉRITO: DOCUMENTOS QUE NÃO DEMONSTRAM COMO SE ENCONTROU AS DIFERENÇAS ALEGADAS PELA AUDITORIA INTERNA - SISTEMA NÃO CONFIÁVEL DIVERGÊNCIAS APONTADAS NO TRANSPORTE DE ALIMENTOS: COMPARAÇÃO DO TOTAL DA REGIÃO COM O MUNICÍPIO DE CARMÓPOLIS - IMPOSSIBILIDADE - PARTE APELANTE QUE NÃO SE DESINCUMBIU DO ÔNUS PROBATÓRIO NOS TERMOS DO ART. 373, I DO CPC - MANUTENÇÃO DA SENTENÇA- RECURSO CONHECIDO E NÃO PROVIDO - DECISÃO UNÂNIME.
+Rejeitados os embargos de declaração opostos (fls. 3.595-3.604).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489, §1º, e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos ne cessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 373, II, 378 e 400 do CPC, sustentando a confissão ficta em razão da recusa do recorrido em atender as solicitações do perito para que apresentasse os documentos que estavam em sua posse.
+Foram oferecidas contrarrazões ao recurso especial (fls. 3.637-3.642).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 3.649-3.662), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 3.694-3.699).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade e ante as circunstâncias que envolvem a lide, inclusive o elevado valor da causa, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, conheço do agravo para determinar sua conversão em recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada no momento processual oportuno.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AGRAVO CONHECIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
