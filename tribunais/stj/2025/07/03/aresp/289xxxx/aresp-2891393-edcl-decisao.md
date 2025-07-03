@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CONDOMÍNIO DO EDIFÍCIO DO SHOPPING CENTER DA GÁVEA à decisão de fls. 439/440, que não conheceu do recurso.
+Sustenta a parte embargante:
+8. Através da decisão de fls. 439/440, o nobre Ministro Relator não conheceu o presente Recurso Especial, em suma, por alegar preparo escasso quanto às custas destinadas ao Superior Tribunal de Justiça, uma vez que, o tribunal de origem, em decisão monocrática do Desembargador Relator (fls. 365/366), o inadmitiu ante sua deserção.
+9. De fato, o Embargante cumpriu integralmente o recolhimento das custas devidas a esta egrégia Corte. Como consta do petitório recursal (fls. 346/355), o Condomínio Embargante juntou aos autos os comprovantes de pagamento do preparo, realizado tempestivamente por ocasião da interposição do recurso.
+10. Ademais, corroborando para a constatação do lapso da decisão embargada, impõe- se a análise da decisão às fls. 384, na qual a 3ª Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, verificando o pagamento tempestivo do preparo, reconsiderou a decisão de fls. 366 e determinou o regular prosseguimento do feito. Veja-se:
+ ..
+11. Isto posto, descabe falar em recurso deserto. O juízo a quo, ao detectar o equívoco na inadmissão por suposto vício formal (não recolhimento de custas), reconsiderou sua decisão anterior (fls. 366) e determinou o regular prosseguimento do feito - o que atesta a perfeita regularidade da interposição pelo Embargante (fls. 384) (fls. 447/448).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de Recurso Especial foi protocolada, na origem, sem a comprovação do recolhimento das custas judiciais devidas ao STJ.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22.6.2020; e AgRg no AREsp 570.469/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020.
+Além disso, percebido, no Tribunal a quo, haver irregularidade no recolhimento das custas, a parte foi intimada para regularizar o vício (fls. 358/361). Porém, deixou o prazo transcorrer in albis (fl. 363).
+No entanto, o Tribunal de origem ao proferir decisão de admissibilidade do Recurso Especial, por equívoco, determinou nova intimação da parte nos termos do § 7º do art. 1.007 do Código de Processo Civil (fl. 365).
+Cabe consignar que intimada a parte nos termos do art. 1.007, §§ 2º, 4º ou 7º, do CPC, não há previsão para que uma nova intimação seja realizada. Logo se a parte foi intimada e não providenciou a devida regularização, não há como dar nova oportunidade de sanar o óbice. Correta, portanto, a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Ademais, "Eventual deferimento do pleito de nova intimação, sem previsão legal e após período considerável de inércia, consistiria em tratamento privilegiado à embargante, em detrimento da exequente, violando-se o princípio da isonomia processual, previsto no art. 7º do CPC." (AgInt no REsp 2013924/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJEN 25.03. 2025).
+Veja-se ainda que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n. 2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
