@@ -1,0 +1,13 @@
+DECISÃO
+MÁRIO SÉRGIO CAMPOS MOLINAR interpõe recurso ordinário, fundado no art. 105, II, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região no Habeas Corpus n. 0800417-45.2017.4.05.000.
+Consta dos autos que o recorrente foi denunciado pela suposta prática dos crimes previstos nos arts. 92, parágrafo único, da Lei n. 8.666/1993, 288, 312 e 317, estes do Código Penal.
+A defesa alega, em suma, a ocorrência de cerceamento de defesa, pois, segundo afirma, não foram disponibilizados "os milhares de registros telefônicos captados no curso das investigações policiais, o que permitiu aos advogados do denunciado apenas realizar uma defesa preliminar".
+Nesse sentido, requer a nulidade das interceptações telefônicas que ultrapassaram o prazo de 60 dias e daquelas realizadas depois da terceira prorrogação, ante a ausência de análise da indispensabilidade, bem como a reabertura de prazo para apresentação de resposta à acusação.
+Indeferido o pedido liminar (fls. 1.349-1.352), o Ministério Público Federal se manifestou pelo desprovimento do recurso (fls. 1.416-1.421).
+Decido.
+Em consulta realizada pelo gabinete, foi possível verificar a prolação de sentença condenatória na ação penal da qual se origina a impetração, oportunidade em que as questões processuais veiculadas neste recurso foram detidamente analisadas pelo Juízo singular.
+A defesa interpôs recurso de apelação e, durante o seu processamento na Corte local, houve o reconhecimento da extinção da punibilidade em relação a parte das imputações, de modo que remanesceu em relação ao réu apenas as penas relativas à prática do crime previsto no art. 333, parágrafo único, do CP. Em seguida, a Procuradoria Regional da República ofereceu acordo de não persecução penal, solução com a qual o ora recorrente manifestou concordância.
+Conquanto não seja possível verificar se houve efetiva homologação judicial do ANPP pelo Juízo de primeira instância (autos n. 0801923-95.2025.4.05.8400), é certo que a pretensão recursal tornou-se inócua, pois: a) a fase processual que o recorrente pretendia sobrestar (resposta à acusação) já foi em muito superada; b) a sentença condenatória examinou a questão em cognição exauriente cujos termos foram questionados pela defesa na via recursal apropriada; c) houve a extinção parcial da punibilidade das acusações e d) o réu anuiu com a possibilidade de celebrar ANPP, o que representa postura processual incompatível com o interesse de obter a nulidade das provas produzidas no curso da persecução penal.
+À vista do exposto, julgo prejudicado o recurso.
+Publique-se e intimem-se.
+EMENTA
