@@ -1,0 +1,44 @@
+DECISÃO
+  Trata-se  de  recurso  especial  interposto  por  IVAN ANTONIO LUIZ LEITE  contra  o  acórdão  proferido  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO,  na  Apelação  Criminal  n.  1500087-87.2024.8.26.0567.
+O  Juízo  de  primeiro  grau  condenou  o  recorrente  e seu corréu como incursos no art. 158, § 1º, do Código Penal às seguintes penas: i) Maicon, 08 (oito) anos e 02 (dois) meses de reclusão e ao pagamento de 18 (dezoito) dias-multa, ii) Ivan, 09 (nove) anos e 04 (quatro) meses de reclusão e ao pagamento de 21 (vinte e um) dias-multa - ambos em regime inicial fechado (fls. 551-581).
+A  Corte  de  origem  negou  provimento  ao  apelo  de Maicon e deu parcial provimento ao de Ivan, a fim de reduzir a sua pena a 08 (oito) anos, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão, além de 19 (dezenove) dias-multa, mantido o regime inicial fechado  (fls.  702-726).
+Nas  razões  do  recurso  especial,  interposto  com  fundamento  nas  alíneas  "a"  e "c"  do  permissivo  constitucional,  a  Defesa  alega  violação  do  art.  68,  parágrafo  único,  do  Código  Penal,  argumentando  que  a  aplicação  cumulativa  de  causas  de  aumento  de  pena  do  crime  de  extorsão  exige  fundamentação  específica,  conforme  estabelece  da  Súmula  n.  443  do  STJ.
+Aponta como acórdão paradigma do dissídio jurisprudencial aquele proferido por esta Corte Superior no HC n. 941957/RJ.
+Contrarrazões  às  fls.  782-787.
+O  recurso  especial  foi  parcialmente admitido  (fls.  791-793).
+A  Procuradoria-Geral  da  República  manifestou-se  pelo  não  provimento  do  recurso  especial  (fls.  810-812).
+É  o  relatório.
+DECIDO.
+Presentes  os  requisitos  de  admissibilidade,  conheço  do  recurso  especial.
+O  objeto  recursal  cinge-se  à  dosimetria  da  pena,  mais  especificamente  à  aplicação de fração superior à mínima prevista no  art.  158,  §  1º,  do  Código  Penal pelo reconhecimento de mais de uma causa de aumento do crime de extorsão.
+Nesse  particular,  o magistrado de primeiro grau, após reconhecer a configuração do concurso de agentes e o uso de arma de fogo, majorou a pena na fração de máxima (1/2 - metade), nos seguintes termos (fls. 579-580 - grifamos):
+Na primeira fase, atendendo às disposições constantes do artigo 59 do Código Penal, em especial o mau antecedente, fixo a pena-base em 04 (quatro) anos e 08 (oito) meses de reclusão (aumento de 1/6).
+Na segunda fase, haja vista a multirreincidência por condenações pela prática de crimes diversos, entre eles dois patrimoniais e dois envolvendo posse ou porte de arma de fogo, elevo a pena em 1/3 (um terço), obtendo a pena privativa de liberdade de 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão.
+Na terceira e última fase, aumento a pena em mais 1/2 (metade) em razão da causa de aumento de pena concurso de agentes e emprego de arma, obtendo a pena privativa de liberdade de 09 (nove) anos e 04 (quatro) meses de reclusão.
+Adotando o mesmo critério supra, fixo a pena pecuniária em 21 (vinte e um) dias-multa, no valor unitário mínimo, incidente a atualização monetária.
+O Tribunal a quo, por sua vez, assim se manifestou  (fl. 724 - grifamos):
+Na terceira fase, as penas de ambos os acusados foram elevadas em 1/2, justificada a fração em razão da presença das causas de aumento do concurso de agentes e de emprego de arma, alcançando o montante de oito anos e dois meses de reclusão, e a pagar dezoito dias-multa, no piso, para Maicon, e de oito anos, quatro meses e vinte e quatro dias de reclusão, e a pagar dezenove dias-multa, no piso, para Ivan.
+Como se vê, diante da configuração de duas causas especiais de aumento, entenderam as instâncias ordinárias em aplicá-las cumulativamente, o fazendo unicamente com base no número de majorantes, ou seja, o concurso de agentes e o uso de arma de fogo.
+Ocorre que, para além de não haver fundamentação concreta para o afastamento da regra geral prevista no art. 68, parágrafo único, do Código Penal, a moldura fática apresentada pelas instâncias ordinárias não indica que a conduta perpetrada possua gravidade concreta a justificar a aplicação conjunta das majorantes.
+De fato, o Superior Tribunal de Justiça fixou o entendimento de que o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes (Súmula n. 443/STJ).
+Tal orientação sumular tem aplicação analógica no crime de extorsão, conforme já decidiu esta Corte Superior:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E EXTORSÃO QUALIFICADA. DOSIMETRIA. PRESENÇA DE DUAS CAUSAS DE AUMENTO DE PENA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. AUSÊNCIA DE MOTIVAÇÃO CONCRETA. OFENSA À SÚMULA 443/STJ. FLAGRANTE ILEGALIDADE EVIDENCIADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, como verificado no presente caso.
+2. A pena na terceira etapa da dosimetria foi exasperada em 3/8 pela incidência de duas majorantes (emprego de arma e concurso de agentes), porém sem apoio em elementos concretos do delito. Incide, portanto, à espécie o disposto na Súmula 443 desta Corte.
+3. Agravo regimental não provido. (AgRg no HC 835198/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 02/10/2023, DJe de 05/10/2023 - grifamos)
+Desse  modo,  não  observado  o  dever  de  fundamentação  concreta  e  específica  para  a aplicação de coeficiente maior que o mínimo previsto, qual seja, 1/3 (um terço), o acórdão recorrido merece reforma.
+No mais, encontrando-se o corréu em idêntica situação à do recorrente, é o caso de estender-lhe os efeitos desta decisão, nos termos do art. 580 do Código de Processo Penal.
+Passo  , pois,  à  nova  dosimetria  das  penas:
+I - acusado Maicon Figueiredo Honório
+Primeira  fase  -  reputada  como  negativos apenas os antecedentes do acusado, mantenho a pena-base em 04 (quatro) anos e 08 (oito) meses de reclusão e 11 (onze) dias-multa.
+Segunda  fase  -  não incidem atenuantes. Presente a agravante da reincidência, majoro as penas em 1/6 (um sexto), passando-as a 05 (cinco) anos, 05 (cinco) meses e 10 (dez) dias de reclusão, além de 12 (doze) dias-multa.
+Terceira  f ase  -  não havendo as instâncias ordinárias apresentado fundamentação concreta para a aplicação conjunta das majorantes  do  concurso de agentes e do uso de arma de fogo,  faço incidir a regra do art. 68, parágrafo único, do Código Penal, motivo pelo qual majoro as penas na fração de 1/3  (um  terço),  tornando-as definitivas em 07 (sete)  anos, 03 (três) meses e 03 (três) dias de reclusão, além de 16 (dezesseis) dias-multa.
+II - acusado Ivan Antônio Luiz Leite
+Primeira  fase  -  reputada  como  negativos apenas os antecedentes do acusado, mantenho a pena-base em 04 (quatro) anos e 08 (oito) meses de reclusão e 11 (onze) dias-multa.
+Segunda  fase  -  não incidem atenuantes e, tratando-se de acusado multirreincidente, mantenho a fração de aumento aplicada pela Corte a quo, do que resultam o acréscimo das penas em 1/5 (um quinto), passando-as a 05 (cinco) anos, 07 (sete) meses e 06 (seis) dias de reclusão, além de 13 (treze) dias-multa.
+Terceira  fase  -  não havendo as instâncias ordinárias apresentado fundamentação concreta para a aplicação conjunta das majorantes  do  concurso de agentes e do uso de arma de fogo,  faço incidir a regra do art. 68, parágrafo único, do Código Penal, motivo pelo qual majoro as penas na fração de 1/3  (um  terço),  tornando-as definitivas em 07 (sete)  anos, 05 (cinco) meses e 18 (dezoito) dias de reclusão, além de 17 (dezessete) dias-multa.
+Dian  te  do  quantum  da  pena  imposta  e  da  reincidência  de ambos os  acusados,  mantenho  o  regime  inicial  fechado,  ex  vi  do  art.  33,  §§  2º  e  3º,  do  Código  Penal.
+Ante  o  exposto,  dou  provimento  ao  recurso  especial  e, com fundamento no art. 580 do CPP, estendo os efeitos desta decisão ao corréu do recorrente, a fim de mitigar-lhes as reprimendas aos seguintes patamares: i) Maicon Figueiredo Honório, 07 (sete)  anos, 03 (três) meses e 03 (três) dias de reclusão, além de 16 (dezesseis) dias-multa; ii) Ivan Antônio Luiz Leite, 07 (sete)  anos, 05 (cinco) meses e 18 (dezoito) dias de reclusão, além de 17 (dezessete) dias-multa, ambos em regime inicial fechado.
+Informe-se o juízo das execuções penais.
+Publique-se.  Intimem-se.
+EMENTA
