@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED GRANDE FLORIANÓPOLIS - COOPERATIVA DE TRABALHO MÉDICO, contra decisão que inadmitiu recurso especial, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/9/2024.
+Concluso ao gabinete em: 23/12/2024.
+Ação: de obrigação de fazer c/c compensação por dano moral, ajuizada por JOSE SALVADOR em face de UNIMED GRANDE FLORIANÓPOLIS - COOPERATIVA DE TRABALHO MÉDICO, alegando indevida negativa de cobertura de procedimento (oclusão de leak paravalvar) prescrito pelo médico assistente, para tratamento de cardiopatia grave.
+Sentença: julgou improcedente os pedidos.
+Acórdão: o TJ/SC, por maioria, deu provimento à apelação interposta por JOSE SALVADOR - ESPOLIO para "reconhecer, em relação ao tratamento perseguido, a perda superveniente do objeto, a impor a extinção do feito sem resolução do mérito no ponto e, prosseguindo, condenar a apelada ao pagamento de indenização por danos morais de R$ 15.000,00, acrescida de juros de mora a contar da citação e correção monetária desde o arbitramento" (e-STJ fl. 599). Eis a ementa do acórdão:
+APELAÇÃO CÍVEL EM AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA.
+DEMANDA EM QUE SE DISCUTE A OBRIGAÇÃO DA OPERADORA DO PLANO DE SAÚDE EM FORNECER TRATAMENTO NÃO PREVISTO NA DIRETRIZ DE UTILIZAÇÃO CONSTANTE NO ROL DA AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS. DOCUMENTO QUE DELIMITA A COBERTURA BÁSICA DOS PLANOS DE REFÊNCIA. INTELIGÊNCIA DO CAPUT E DO § 4º DO ART. 10 DA LEI N. 9.656/1998. MITIGAÇÃO DO ROL POSSÍVEL, DE ACORDO COM OS CRITÉRIOS ESTABELECIDOS NOS EMBARGOS DE DIVERGÊNCIA NOS RECURSOS ESPECIAIS NS. 1.886.929/SP E 1.889.704/SP, BEM COMO NA LEI N. 14.454/2022. LEGISLAÇÃO INOVADORA QUE NÃO PODE RETROAGIR PARA COMPREENDER OS REQUERIMENTOS FORMULADOS ANTERIORMENTE À SUA VIGÊNCIA, RESSALVADA A HIPÓTESE DE TRATAMENTO DE CARÁTER CONTINUADO EM RELAÇÃO AOS FATOS OCORRIDOS APÓS SUA ENTRADA EM VIGOR. TESE ASSENTADA PELA CORTE SUPERIOR NOS REFERIDOS PRECEDENTES QUE É APLICÁVEL AOS FATOS OCORRIDOS ANTERIORMENTE À VIGÊNCIA DA LEI N. 14.454/2022.
+CASO CONCRETO EM QUE O AUTOR FOI DIAGNOSTICADO COM DOENÇA VALVAR MITRAL. PRESCRIÇÃO DO PROCEDIMENTO DE OCLUSÃO DE LEAK PARAVALVAR POR VIA PERCUTÂNEA. PARECER DO NATJUS EM CASO SEMELHANTE INDICANDO A REALIZAÇÃO DO PROCEDIMENTO. RELATÓRIO MÉDICO ATESTANDO QUE O QUADRO CLÍNICO DO PACIENTE NÃO PERMITE A ABORDAGEM CIRÚRGIA PELO MÉTODO PREVISTO NO ROL DE COBERTURA DO ROL DA ANS. IMPUGNAÇÃO GENÉRICA DA OPERADORA DO PLANO DE SAÚDE. PRESSUPOSTOS PARA A FLEXIBILIZAÇÃO DO ROL DE COBERTURA OBRIGATÓRIA DA ANS PREENCHIDOS. EXTINÇÃO DO FEITO NO PONTO, CONTUDO, HAJA VISTA O FALECIMENTO DA PARTE AUTORA. SUCUMBÊNCIA A CARGO DA PARTE RÉ, POR FORÇA DO PRINCÍPIO DA CAUSALIDADE.
+DANOS MORAIS. DOCUMENTOS MÉDICOS INDICANDO QUE O PACIENTE NECESSITOU PERMANECER INTERNADO ATÉ A REALIZAÇÃO DO PROCEDIMENTO CIRÚRGICO INTERVALO ENTRE O REQUERIMENTO DO TRATAMENTO E SUA REALIZAÇÃO QUE OCASIONOU PIORA NO QUADRO CLÍNICO. REQUISITOS DA RESPONSABILIDADE CIVIL SATISFEITOS. DEVER DE INDENIZAR CONFIGURADO. QUANTUM INDENIZATÓRIO ARBITRADO EM CONSONÂNCIA COM OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE.
+SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Embargos de Declaração: opostos por JOSE SALVADOR - ESPOLIO, foram rejeitados.
+Recurso especial de UNIMED GRANDE FLORIANÓPOLIS - COOPERATIVA DE TRABALHO MÉDICO (e-STJ fls. 683-706): aponta violação dos arts. 186, 188, I, 927, do CC. Alega que, "à luz das cláusulas contratuais firmadas e pela legislação aplicada ao julgamento do caso, inexiste qualquer ilicitude na recusa de cobertura feita pela Unimed que enseje danos morais" (e-STJ fl. 694). Sustenta que não "há obrigatoriedade de cobertura do procedimento pugnado na origem, pois não previsto no contrato e tampouco no rol da ANS" (e-STJ fl. 695).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou os fundamentos utilizados pelo TJ/SC acerca da comprovação, pelo autor, do preenchimento dos requisitos estabelecidos pelo STJ, no julgamento do EREsps 1.886.929/SP e 1.889.704/SP, para obrigar a operadora à cobertura de procedimentos não listados no rol da ANS, bem como acerca da inércia da operadora em demonstrar o contrário, razão pela qual deve ser mantido o acórdão recorrido.
+Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao preenchimento dos requisitos estabelecidos pelo STJ, no julgamento do EREsps 1.886.929/SP e 1.889.704/SP, para obrigar a operadora à cobertura do procedimento não listado no rol da ANS, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (quinze por cento - e-STJ fl. 599) para 17% (dezessete por cento) sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c compensação por dano moral.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
