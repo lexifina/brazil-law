@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual PEDRO SÉRGIO CREODOLPHO se insurgira contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 346):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL RECONHECIDA. CALDEIREIRO. RUÍDO. TRANSPORTE DE PRODUTOS INFLAMÁVEIS. REQUISITOS PARA A APOSENTAÇÃO PREENCHIDOS. REAFIRMAÇÃO DA DER. EC 103/2019. TERMO INICIAL. JUROS DE MORA. CORREÇÃO MONETÁRIA. CUSTAS. VERBA HONORÁRIA. MAJORAÇÃO. SUCUMBÊNCIA RECURSAL.
+- Foram contempladas três hipóteses distintas à concessão da aposentadoria por tempo de contribuição: segurados que cumpriram os requisitos necessários à concessão do benefício até a data da publicação da EC n. 20/98 (16/12/1998); segurados que, embora filiados, não preencheram os requisitos até o mesmo prazo e, por fim, segurados filiados após a vigência daquelas novas disposições legais.
+- Tempo de serviço especial reconhecido, em parte.
+- In casu, preenchidos os requisitos para a concessão da aposentadoria por tempo de contribuição, com a reafirmação da DER. - Os juros de mora são devidos a partir da citação na ordem de 6% (seis por cento) ao ano, até a entrada em vigor da Lei nº 10.406/02, após, à razão de 1% ao mês, consonante com o art. 406 do Código Civil e, a partir da vigência da Lei nº 11.960/2009 (art. 1º-F da Lei 9.494/1997), calculados nos termos deste diploma legal.
+- A incidência do consectário terá início apenas 45 (quarenta e cinco) dias, contados da publicação da decisão que determinar a implantação do benefício, após o INSS não efetivar tal medida, na forma acima disposta.
+- A correção monetária deve ser aplicada em conformidade com a Lei n. 6.899/81 e legislação superveniente (conforme o Manual de Cálculos da Justiça Federal), observados os termos da decisão final no julgamento do RE n. 870.947, Rel. Min. Luiz Fux.
+- Desde o mês de promulgação da Emenda Constitucional n. 113, de 08/12/21, a apuração do débito se dará- unicamente pela taxa SELIC, mensalmente e de forma simples, nos termos do disposto em seu artigo 3º, ficando vedada a incidência da taxa SELIC cumulada com juros e correção monetária.
+- A isenção de custas, pela Autarquia Federal, não abrange as despesas processuais que houver efetuado, bem como, aquelas devidas a título de reembolso à parte contrária, por força da sucumbência.
+- Inviável a condenação do INSS ao pagamento dos honorários advocatícios, nos termos do julgado do C. STJ acerca da reafirmação da DER.
+- Apelação da Autarquia Federal parcialmente provida.
+- Apelação da parte autora parcialmente provida.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.307), e foi assim delimitada:
+" Definir se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995 " (REsp 2.166.208/RS e REsp 2.164.724/RS, relator Ministro Gurgel de Faria).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
