@@ -1,0 +1,82 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo o indeferimento dos embargos de divergência em razão do óbice da Súmula n. 315 do STJ.
+O julgado recorrido recebeu a seguinte ementa (fl. 690):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ÓRGÃO COLEGIADO NÃO CONHECEU DO AGRAVO INTERNO. SÚMULA N. 182 DO STJ. DESCABIMENTO DA VIA UNIFORMIZADORA. SÚMULA N. 315 DO STJ.
+1. Não cabe embargos de divergência quando o acórdão embargado não examinou o mérito do recurso especial, limitando-se a não conhecer do agravo interno por entender que, no caso concreto, não houve a impugnação dos fundamentos da decisão agravada. Inteligência da Súmula n. 315 do STJ.
+2. A ausência de juízo de mérito pelo órgão colegiado a respeito da questão da gratuidade judiciária impossibilita o manejo dos embargos de divergência.
+3. Agravo interno improvido.
+Os dois embargos de declaração opostos na sequência foram rejeitados, com aplicação de multa no último recurso (fls. 740-745 e 784-793).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, caput, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Sustenta a negativa de prestação jurisdicional, pois, enquanto não ocorre o trânsito em julgado, é dever de ofício o enfrentamento da ilegitimidade ativa e passiva, matéria de ordem pública. Aduz decisão genérica e que não se aplica a Súmula n. 182 do STJ no agravo interno, o que torna inadmissível a manutenção da aplicação da Súmula 315 do STJ, devendo incidir a Súmula 316 do STJ. Afirma inexistir fundamento válido para a manutenção da negativa da gratuidade de justiça.
+Assevera, também, a ilegalidade em negar a concessão da assistência judiciária gratuita e o descumprimento da suspensão dos processos em razão da afetação do Tema n. 1.178, violando a autoridade de precedente vinculante e em desconformidade com o entendimento dos julgados do STF.
+Defende o cabimento dos embargos de divergência em virtude d a Súmula n. 316 do STJ, arguindo que (fl. 819):
+ ..  a imposição da Súmula 182 do STJ ao Agravo Interno em Agravo em Recurso Especial, apenas acarreta a preclusão da matéria eventualmente não impugnada, portanto, não cabe a utilização de referida decisão como passível de inviabilização de Embargos de Divergência em questões que foram impugnadas expressamente, passíveis de dar-se conhecimento em Embargos de Divergência, a autorizar a procedência do presente Recurso Extraordinário, para que seja revisto o V. Acórdão recorrido, determinando-se que o C. STJ conheça e julgue os Embargos de Divergência, para enfrentar e declarar as ilegitimidades ativas e passivas, com afastamento da multa processual abusivamente imposta em recurso que não tem efeito suspensivo ao qual os recorrentes não tem interesse de procrastinação, pois urge seja reconhecida as ilegitimidades de parte.
+Salienta que foi demonstrado que houve impugnação específica das decisões denegatórias, demonstrando que o STJ decidira o mérito, quando expressamente negou provimento ao agravo em recurso especial em relação à chancela da negativa da gratuidade de justiça, demonstrando que não cabe a incidência das Súmulas 315 e 182 do STJ.
+Aponta violação ao contraditório, à ampla defesa, ao devido processo legal e à inafastabilidade da jurisdição.
+Argui a ilegitimidade ativa do recorrido e a ilegitimidade passiva dos recorrentes.
+Pleiteia, ainda, ao afastamento da multa aplicada nos embargos de declaração em afronta as Súmulas 98 do STJ, 282 e 356 do STF.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Inicialmente, cumpre destacar que a jurisprudência desta Corte Superior consolidou-se no sentido de que "é desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita" (AgRg nos EREsp n. 1.222.355/MG, relator Ministro Raul Araújo, Corte Especial, julgado em 4/11/2015, DJe de 25/11/2015).
+3. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 693-696):
+Não se admite a interposição de embargos de divergência quando não houver sido apreciado o mérito do recurso especial pelo órgão colegiado, como ocorreu no caso dos autos, em que a Turma concluiu que não houve impugnação dos fundamentos da decisão agravada, não conhecendo do agravo interno ante o óbice da Súmula n. 182 do STJ.
+Confira-se, no ponto, a seguinte transcrição do acórdão embargado (fl. 498):
+ ..
+Como se observa, não houve juízo de mérito pelo órgão colegiado a respeito da questão impugnada nos embargos de divergência (gratuidade judiciária), o que impossibilita o manejo do recurso uniformizador, consoante a inteligência da Súmula n. 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial", não se podendo admitir o recurso uniformizador.
+Esclareça-se, a propósito, que a divergência processual capaz de ensejar a interposição de embargos de divergência, conforme o § 2º do art. 1.043 do CPC, exige a contraposição de teses jurídicas abstratas, ou seja, a existência de conclusões sobre a aplicação do direito, material ou processual, em que um acórdão afirme o direito em um sentido e outro o faça de modo diverso, adotando conclusões abstratamente discrepantes.
+Dito de outro modo, a incidência de óbices processuais no caso dos autos não resultou na definição de uma tese jurídica que espelhe entendimento diverso da aplicação da mesma tese em outro processo, tratando-se de mera concretização de determinada regra de direito com base nas particularidades do recurso examinado.
+ ..
+A pretensão de revisão da conclusão que resultou no não conhecimento do agravo interno pelo órgão fracionário competente é intento para o qual não se pode utilizar os embargos de divergência, devendo ser mantido o não conhecimento do recurso de uniformização, nos termos da decisão agravada.
+Quanto à pleiteada suspensão do feito para se aguardar o julgamento do Tema n. 1.178, submetido ao rito dos recursos repetitivos, tal alegação não merece acolhida, uma vez que o STJ possui o entendimento de que, não tendo o recurso ultrapassado o juízo de admissibilidade, como no caso dos autos, não pode a matéria de mérito ser apreciada, mesmo que a controvérsia seja objeto de recurso repetitivo.
+ ..
+Ante o exposto, nego provimento ao agravo interno.
+Do mesmo modo, foi devidamente motivada a rejeição dos dois embargos de declaração, nos seguintes termos, respectivamente (fls. 744-745 e 788-793):
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, a Turma julgadora não conheceu do agravo interno em razão da ausência de impugnação dos fundamentos da decisão agravada, tendo aplicado o óbice da Súmula n. 182 do STJ.
+Dessa feita, como o mérito da questão impugnada nos embargos de divergência não foi apreciado pelo órgão colegiado, aplicou-se a orientação firmada na Súmula n. 315 do STJ.
+Observa-se, no ponto, a seguinte transcrição do acórdão ora impugnado (fls. 693-694):
+ ..
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é rediscutir os fundamentos do acórdão, propósito inviável no recurso em apreço.
+Quanto ao pedido de exame da alegada ofensa a dispositivo constitucional, ainda que sob o pretexto de se obter o prequestionamento, trata- se de pretensão incabível em embargos de divergência, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme pacífica jurisprudência. Confiram-se (destaque acrescido):
+ ..
+Ante o exposto, rejeito os embargos de declaração.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que as partes recorrentes reiteram a argumentação que já foi devidamente analisada e afastada pelo acórdão impugnado.
+Como foi salientado no julgamento anterior, os embargos de divergência não foram admitidos em virtude do óbice contido na Súmula n. 315 do STJ, haja vista que a Turma julgadora não conheceu do agravo interno por ausência de impugnação dos fundamentos da decisão agravada, tendo sido aplicada a Súmula n. 182 do STJ.
+O argumento de que o mérito da irresignação recursal teria sido apreciado na decisão monocrática exarada pelo relator é insuficiente para ensejar a interposição dos embargos de divergência. O cabimento do recurso previsto no art. 1.043 do CPC exige a demonstração da existência de dissídio interpretativo entre órgãos colegiados do tribunal. Não se admite a interposição de embargos de divergência contra decisão monocrática.
+Desse modo, considerando-se que o órgão turmário do agravo interno não conheceu - em virtude da aplicação da orientação firmada na Súmula n. 182 do STJ - não é possível rediscutir a questão da gratuidade judiciária nos estreitos limites dos embargos de divergência, justamente porque inexistente, no caso concreto, manifestação divergente entre órgãos colegiados a respeito da matéria controvertida.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é rediscutir os fundamentos do acórdão, propósito inviável no recurso em apreço, cujo caráter é meramente protelatório.
+Registre-se, por oportuno, que a Corte Especial já rechaçou a argumentação trazida pelas partes embargantes no julgamento dos primeiros embargos de declaração, consoante se observa na seguinte transcrição (fl. 744):
+ ..
+A reiteração de embargos declaratórios descabidos enseja a aplicação da multa prevista no art. 1.026, § 2º, do CPC, nos termos da jurisprudência desta Corte Superior que, no presente caso, deve ser estipulado em 2% sobre o valor atualizado da causa. Ademais, as partes embargantes já haviam sido alertadas a respeito da incidência da referida sanção processual e, mesmo assim, manejaram novos aclaratórios.
+ ..
+Por fim, cumpre salientar o entendimento do STJ de que não há sobrestamento do feito para aguardar o julgamento de tema submetido ao rito dos recursos repetitivos quando a irresignação recursal não ultrapassa os requisitos de admissibilidade, como se observou no presente caso.
+ ..
+Ante o exposto, rejeito os embargos de declaração, com aplicação de multa no percentual de 2% sobre o valor atualizado da causa, nos termos previstos no art. 1.026, § 2º, do CPC.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+4. Segundo decidido pelo STF em repercussão geral (Tema n. 197), "não alcança estatura constitucional a questão relativa à aplicação de multa em julgamento de embargos de declaração tidos por protelatórios, que se restringe ao plano processual" (AI n. 752.633/SP, relator Ministro Cézar Peluso, Plenário Virtual, DJe de 18/12/2009).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. VIOLAÇÃO DOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339). INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DE MULTA EM EMBARGOS DE DECLARAÇÃO TIDOS POR PROTELATÓRIOS (TEMA 197). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+IV - A aplicação de multa pela oposição de embargos de declaração julgados protelatórios, por se tratar de matéria infraconstitucional, é matéria destituída de repercussão geral.
+V - Agravo regimental, a que se nega provimento.
+(ARE n. 1.387.215-AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 29/8/2022, DJe de 1º/9/2022.)
+Dessa forma, tendo a alegada violação constitucional ocorrido em decorrência da aplicação de multa processual pela interposição de recurso inadmissível ou protelatório, como no caso dos autos, não há repercussão geral.
+5. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+6. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. DIREITO PROCESSUAL CIVIL. MULTA EM RAZÃO DE RECURSO PROTELATÓRIO. MATÉRIA DE NATUREZA PROCESSUAL. TEMA N. 197 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
