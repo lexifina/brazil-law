@@ -1,0 +1,42 @@
+DECISÃO
+ROBERTO PADILHA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa informa que o reeducando teve o seu pedido de comutação de penas indeferido, sob o fundamento de vedação do benefício a quem já foi alcançado por decretos anteriores, conforme o art. 4º do Decreto Presidencial n. 11.846/2023. Todavia, a impetrante sustenta a possibilidade de perdão sucessivo de penas, conforme interpretação dos arts. 3º e 4º do Decreto n. 11.846/2023.
+Requer a concessão do benefício.
+Decido.
+Apesar das considerações da defesa, a execução penal também é orientada pelo princípio da legalidade e, conforme o art. 4º do Decreto n. 11.846/2023 (grifei):
+ ..  Concede-se comutação às pessoas condenadas a pena privativa de liberdade  ..  que não tenham, até 25 de dezembro de 2023, obtido as comutações por meio de Decretos anteriores, independentemente de pedido anterior. Parágrafo único. Não é possível utilizar de forma cumulativa o tempo de pena para as hipóteses de comutação de que tratam os art. 3º e art. 4º  .. .
+O art. 3º e seguintes do decreto de regência estão relacionados a condenações inéditas, ainda não favorecidas por decretos anteriores, pois a norma não permite considerar o tempo de pena que em que já houve algum tipo de perdão para fins de preenchimento do requisito objetivo necessário a nova comutação, de forma cumulativa. Isso visa evitar sucessivas reduções de pena da mesma condenação, anualmente.
+Aplica-se ao caso o entendimento de que a "concessão de indulto ou comutação da pena é ato de indulgência do Presidente da República, condicionado ao cumprimento, pelo apenado, das exigências taxativas previstas no decreto de regência" (AgRg no HC n. 714.744/PR, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022).
+No caso, é possível o avanço para a pronta solução do habeas corpus, com fundamento da jurisprudência desta Corte, pois o colegiado já decidiu:
+ ..
+1. Habeas corpus impetrado com o objetivo de obter a concessão de comutação de pena ao paciente, com fundamento no Decreto Presidencial n. 11.846/2023. A Corte de origem indeferiu o pedido, fundamentando que o paciente já havia sido contemplado com comutações por decretos anteriores, sendo essa circunstância impeditiva da concessão da nova comutação, conforme disposto no art. 4º do referido Decreto.
+II. QUESTÃO EM DISCUSSÃO
+ ..  (ii) estabelecer se a vedação expressa do Decreto n. 11.846/2023 impede a concessão de comutação de pena a apenados que já tenham sido beneficiados por decretos anteriores.
+III. RAZÕES DE DECIDIR
+ ..
+4. O Decreto Presidencial n. 11.846/2023, em seu art. 4º, condiciona a concessão de comutação de pena à inexistência de benefício anterior concedido por meio de decretos passados, estabelecendo vedação expressa à cumulação de comutações.
+ ..
+6. A jurisprudência desta Corte e do STF reconhece que a comutação de pena possui caráter restritivo e não pode ser cumulada com comutações anteriores, em respeito à literalidade dos decretos presidenciais que disciplinam essa matéria.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 932.280/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+ ..  5. O Decreto Presidencial n. 11.846/2023, em seu art. 4º, condiciona a concessão de comutação de pena à inexistência de benefício anterior concedido por meio de decretos passados, estabelecendo vedação expressa à cumulação de comutações.
+6. No caso, comprovou-se que o paciente já havia sido beneficiado por comutações anteriores, inviabilizando o deferimento da nova comutação nos termos do Decreto n. 11.846/2023.
+7. A jurisprudência desta Corte e do STF reconhece que a comutação de pena possui caráter restritivo e não pode ser cumulada com comutações anteriores, em respeito à literalidade dos decretos presidenciais que disciplinam essa matéria.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: 1. O Decreto n. 11.846/2023 veda a concessão de nova comutação de pena a apenados já beneficiados por decretos anteriores. 2. O habeas corpus não pode ser utilizado como substitutivo de recurso ou revisão criminal, salvo em casos de flagrante ilegalidade.
+Dispositivos relevantes citados: Decreto n. 11.846/2023, art. 4º.
+Jurisprudência relevante citada: HC n. 932.280/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.
+(AgRg no HC n. 955.721/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 6/5/2025, DJEN de 13/5/2025).
+ ..
+3. A interpretação do Decreto n. 11.846/2023, conforme entendimento consolidado do Superior Tribunal de Justiça, veda a concessão de comutação de pena a quem já tenha sido beneficiado por igual benesse em decretos anteriores.
+4. A restrição imposta pelo decreto presidencial não viola o princípio da legalidade, pois se trata de norma específica que regula a concessão de benefícios no âmbito da execução penal.
+IV. Dispositivo e tese
+5. Agravo desprovido.
+Tese de julgamento: "O Decreto nº 11.846/2023 veda a concessão de comutação de pena a apenados que já tenham sido beneficiados com comutações anteriores".
+Dispositivos relevantes citados: Decreto nº 11.846/2023, art. 4º, parágrafo único. Jurisprudência relevante citada: STJ, AgRg no HC 891.745/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j.
+19.03.2024; STJ, HC 959.159, Rel. Min. Ribeiro Dantas, DJe 11.11.2024.
+(AgRg no HC n. 989.850/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/5/2025, DJEN de 19/5/2025).
+No mesmo sentido, cito o AgRg no HC n. 979.263/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.
+À vista do exposto, denego o habeas corpus, in limine.
+EMENTA
