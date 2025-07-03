@@ -1,0 +1,45 @@
+DECISÃO
+Examina-se recurso especial interposto por ROSANA CRISTINA ALVES MARTINS TAVEIRA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 4/12/2024.
+Concluso ao gabinete em: 6/6/2025.
+Ação: de revisional de contrato bancário c/c exibição incidental de documento, ajuizada pela recorrente em desfavor do BANCO BMG S/A, fundada em suposta abusividade de cláusulas contratuais.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, reconhecendo a abusividade da cobrança da taxa de juros do contrato de empréstimo nº 6262373 (fls. 131/151) e determinando sua adequação, para que seja observado o patamar de 5,67% ao mês, de acordo com a taxa média do mercado, e condenou o réu, ainda, a restituir à autora os valores pagos em excesso, de forma simples.
+Acórdão: deu provimento ao recurso de apelação interposto pelo recorrido e julgou prejudicado o recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO - AÇÃO REVISIONAL - CONTRATO BANCÁRIO - Empréstimo pessoal não consignado - Sentença de procedência Insurgência recursal das partes - Não vislumbrada excessiva disparidade entre a taxa de juros remuneratórios prevista no contrato objeto dos autos e a média de mercado - Inexistência de abusividade - Percentuais livremente pactuados pelas partes - Taxas de juros remuneratórios que não comportam redução - Contrato que não ostenta abusividade - Sentença reformada para julgar improcedente a ação - RECURSO DO RÉU PROVIDO, PREJUDICADO O APELO DA AUTORA.
+Recurso especial: aponta violação aos arts. 6º, III, IV e VIII, e 51, IV, do CDC, bem como dissídio jurisprudencial.
+Sustenta, em síntese, a abusividade da taxa de juros remuneratório cobrada no contrato celebrado entre as partes, requerendo a sua redução ao patamar médio divulgado pelo Banco Central à época da contratação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 6º, III, IV e VIII, e 51, IV, do CDC, indicados como violados, não tendo a parte recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal estadual, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 282/STF.
+- Dos juros remuneratórios (Súmula 568/STJ)
+A Segunda Seção do STJ, no REsp 1.061.530/RS, DJe de 10/3/2009, julgado sob o rito dos recursos repetitivos, entende que é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil.
+Cumpre ressaltar que no referido julgamento, quanto à análise da abusividade dos juros remuneratórios e da taxa média divulgada pelo Banco Central, a Segunda Seção consignou que "a taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos".
+As duas Turmas de Direito Privado desta Corte Superior, nos termos do que restou consolidado no referido precedente, entendem que o simples fato de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média de mercado divulgada pelo Banco Central do Brasil, por si só, não indica abusividade, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras (REsp 2.009.614/SC, 3ª Turma, DJe de 30/09/2022). No mesmo sentido: REsp 1.821.182/RS, 4ª Turma, DJe de 29/06/2022; e AgInt no REsp 1.977.593/SP, 3ª Turma, DJe de 22/06/2022.
+No julgamento do mencionado REsp 2.009.614/SC restou consignado que devem ser observados os seguintes requisitos para a revisão das taxas de juros remuneratórios: a) a caracterização de relação de consumo; b) a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada; e c) a demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade verificada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas, revelando-se insuficiente, portanto, (I) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente -, (II) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e (III) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual.
+Na hipótese sob julgamento, o TJ/SP analisou a questão relativa à ausência de abusividade dos juros remuneratórios à luz do mesmo entendimento perfilhado por este STJ, senão veja-se:
+"Quanto ao percentual da taxa de juros, pontua-se que a fixação em valor superior à taxa média aplicada pelo mercado por si só, não tem o condão de macular a referida taxa, sendo caso de reduzi-la apenas quando não houver sua previsão contratual ou quando for muito discrepante, em relação à taxa de mercado, o que deve ser analisado em cada caso.
+Neste sentido:
+(..)
+A propósito, nos autos do AgRg no R Esp 1256894, segundo o Rel. Ministro Marco Buzzi:
+(..)
+Com efeito, conforme informações obtidas no sítio eletrônico do Banco Central do Brasil (a saber: www. bcb. gov. br / Estatísticas / Séries temporais SGS / Estatísticas de crédito / Taxas de juros / Taxas de juros - % / Taxas de juros com recursos livres / Taxa média de juros - Pessoas físicas - Crédito pessoal não consignado), as taxas médias dos juros remuneratórios para operações da modalidade contratada (séries nº 25464 e 20742), ao tempo da celebração do contrato objeto dos autos, são de 5,67% a. m. e 93,92% a. a.
+Dessa forma, verifica-se que as taxas de juros remuneratórias praticadas no contrato em questão (17% a. m. e 575,48% a. a.), efetivamente não se mostraram abusivas.
+Portanto, sem confirmação de alegada disparidade excessiva com a taxa média de juros praticada pelo mercado, de rigor a improcedência do pleito revisional.
+No mesmo sentido, julgados desta Câmara:
+(..)
+Com efeito, verifica-se inexistir quaisquer abusividades no contrato impugnado.
+Em suma, examinadas as peculiaridades do caso em tela, aliadas ao conjunto probatório, reformo a r. sentença para julgar improcedente a ação; prejudicado, por consequência, o apelo da autora." (e-STJ fls. 258/261)
+Verifica-se que a conclusão do T/SP considerou as particularidades da situação concreta apresentada, em consonância com o entendimento dominante sobre o tema nesta Corte Superior.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão de que a taxa de juros cobrada não deve ser considerada abusiva, tal como pretendido pela recorrente, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados a esta Corte Superior em razão da aplicação das Súmulas 5 e 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte recorrente, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISIONAL DE CONTRATO BANCÁRIO C/C EXIBIÇÃO INCIDENTAL DE DOCUMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. JUROS REMUNERATÓRIOS. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de revisional de contrato bancário c/c exibição incidental de documento.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. Precedentes.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Recurso especial parcialmente conhecido e, nessa parte, não provido.
