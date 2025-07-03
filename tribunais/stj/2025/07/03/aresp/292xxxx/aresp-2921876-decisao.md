@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JULIANA DE OLIVEIRA SOUSA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO. BLOQUEIO SISBAJUD. POUPANÇA. EXTRATOS BANCÁRIOS. AUSÊNCIA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 833, X, 854, § 3º, I, do CPC, no que concerne à impenhorabilidade de montante de até 40 salários mínimos, independentemente se depositados em conta poupança, conta corrente ou fundos de investimento, trazendo a seguinte argumentação:
+Assim, a decisão vergastada desprezou a vedação legal, tratando-se de norma restritiva que não admite interpretação ampliativa, a uma, porque a mera movimentação de maior ou menor intensidade dos valores presentes em conta-poupança não é motivo suficiente para descaracterizar a proteção conferida a estes bens e nem para configurar a má-fé do seu proprietário, e; a duas, pois a abrangência do benefício cobre não só contas poupanças, como também, inclusive, contas correntes, de investimentos, fundos, etc, independentemente da natureza das mesmas, sendo esse o entendimento assentado nesse E. Superior Tribunal de Justiça.
+ ..
+Ademais, é equivocada a hermenêutica que transfere para a parte Executada o ônus de comprovar a intenção de poupar, sem o que não se poderia falar em proteção legal do montante encontrado, criando-se exigência onde a lei não prevê.
+ ..
+Trata-se de uma aferição objetiva, qual seja: se o valor - encontrado em conta poupança, conta corrente ou outro fundo de investimento - é inferior a 40 (quarenta) salários mínimos. Irrelevante se poupado ou mantido, posto que esse patamar é presumido como necessário à subsistência com dignidade do devedor.
+Logo, a regra é a impenhorabilidade de valores encontrados na conta corrente do devedor (ou em outros meios de poupança destinados à sua subsistência); a exceção, a penhora - desde que não comprometa a subsistência do devedor (fls. 458-460)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso em comento, como pontuado no indeferimento do pedido liminar, verifica-se que a executada não logrou êxito em comprovar que os recursos financeiros, bloqueados em conta corrente, por decorrência de ordem judicial, abarcou bens qualificados como impenhoráveis. Sequer colacionou aos autos extrato bancário da conta do BRB, conta na qual teriam sido realizadas as transferências via PIX para o NUBANK (fl. 428).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
