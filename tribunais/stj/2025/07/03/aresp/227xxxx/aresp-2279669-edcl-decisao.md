@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo ESTADO DE SÃO PAULO à decisão proferida pelo Ministro Mauro Campbell Marques, nos termos da seguinte ementa (fl. 1.159, e-STJ):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PAGAMENTO POR MEIO DE REQUISIÇÃO DE PEQUENO VALOR. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (fls. 1.167-1.172, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, ao argumento de que deveria ser determinada a suspensão do recurso até o julgamento do Tema 1.190/STJ.
+Impugnação às fls. 1.175-1.179 (e-STJ).
+Despacho que determinou o sobrestamento do feito, em razão da afetação do referido tema repetitivo (fls. 1.182-1.183, e-STJ).
+É o relatório.
+Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, apenas têm cabimento quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situação que não se observa na espécie.
+A decisão embargada decidiu a controvérsia com base em fundamentação sólida, sem omissões, contradições ou obscuridades.
+Trata-se, na origem, de agravo de instrumento em sede de cumprimento de sentença, cujo pagamento se dará por intermédio de RPV, que não foi impugnado.
+Os particulares pretendiam o arbitramento da verba honorária advocatícia, o que foi provido na decisão monocrática de fls. 1.158-1.161 (e-STJ) sob o argumento de que o Tribunal de origem se distanciou do posicionamento do STJ no sentido de que "cabem honorários advocatícios nas execuções contra a Fazenda Pública quando o pagamento é realizado por meio de requisição de pequeno valor, ainda que não haja apresentação de embargos".
+Cumpre destacar que o Tema 1190/STJ: "Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV", teve os efeitos modulados para a tese repetitiva seja aplicada apenas nos cumprimentos de sentença iniciados após a publicação do acórdão (01/07/2024).
+Na hipótese, o agravo de instrumento - que é posterior ao próprio cumprimento de sentença - foi protocolado em 14/02/2022. Portanto, aplicável a referida modulação.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO. EXECUÇÃO. HONORÁRIOS. TEMA 1190. MODULAÇÃO DE EFEITOS. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento. Cumpre ressaltar que o Tema 1190/STJ: "Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV", teve os efeitos modulados para a tese repetitiva seja aplicada apenas nos cumprimentos de sentença iniciados após a publicação do acórdão (1.7.2024).
+II - Correta, portanto, a decisão, mantida no julgamento do agravo interno, que deu provimento ao recurso especial do ente estadual para afastar a condenação em honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 2.166.566/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITO À EXPEDIÇÃO DE RPV. IMPUGNAÇÃO NÃO APRESENTADA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. APLICAÇÃO DA MODULAÇÃO DOS EFEITOS DO TEMA 1.190/STJ. PROVIMENTO NEGADO.
+1. A Primeira Seção do Superior Tribunal de Justiça (STJ), ao julgar os Recursos Especiais 2.031.118/SP, 2.029.675/SP e 2.029.636/SP, de relatoria do Ministro Herman Benjamin, mediante o rito dos recursos repetitivos, fixou a seguinte tese: "Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV" (Tema 1.190). Todavia, modulou os efeitos da tese repetitiva a fim de que ela fosse aplicada apenas nos cumprimentos de sentença iniciados após a publicação do acórdão.
+2. No presente caso, tendo em vista a aplicação da modulação dos efeitos, deve ser mantida a decisão agravada que entendeu pelo cabimento da verba honorária de sucumbência na execução de sentença contra a Fazenda Pública sujeita à expedição de RPV, ainda que não embargada.
+3. Verifica-se que até o presente momento não há decisão conferindo efeito suspensivo aos embargos de declaração ajuizados no Recurso Especial 2.029.636/SP, de relatoria do Ministro Herman Benjamin, Primeira Seção, julgado em 20/6/2024, DJe de 1º/7/2024, sendo possível, portanto, a imediata aplicação da modulação emanada do Tema 1.190/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.205.724/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Logo, ausentes pontos omissos, contraditórios ou outros vícios processuais, não cabe falar em provimento destes embargos de declaração.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO. EXECUÇÃO. HONORÁRIOS. TEMA 1190. MODULAÇÃO DE EFEITOS. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento. Cumpre ressaltar que o Tema 1190/STJ: "Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV", teve os efeitos modulados para a tese repetitiva seja aplicada apenas nos cumprimentos de sentença iniciados após a publicação do acórdão (1.7.2024).
+II - Correta, portanto, a decisão, mantida no julgamento do agravo interno, que deu provimento ao recurso especial do ente estadual para afastar a condenação em honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 2.166.566/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. A prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. A questão não foi decidida como objetivava a parte agravante, uma vez que foi aplicado entendimento diverso. É cediço no STJ que o órgão julgador não fica obrigado a se manifestar sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que, no presente caso, de fato ocorreu.
+3. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+4. Honorários advocatícios majorados em virtude da sucumbência recursal. Nos termos do § 11 do art. 85 do CPC/2015: "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal".
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 1.661.808/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023.)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA NÃO IMPUGNADA. PAGAMENTO POR MEIO DE REQUISIÇÃO DE PEQUENO VALOR. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. TEMA 1.190/STJ. MODULAÇÃO DOS EFEITOS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
