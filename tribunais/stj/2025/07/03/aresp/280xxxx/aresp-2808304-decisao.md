@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Edson Batista dos Santos, contra a decisão do Tribunal de Justiça de Goiás que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal n. 5672245-10.2023.8.09.0011 (fls. 527/539).
+No recurso especial, fls. 544/550, o agravante requer o conhecimento e provimento do presente Recurso Especial, para reformar o v. acórdão recorrido, reconhecendo-se a violação do art. 369 do CPC e o cerceamento de defesa, a nulidade da sentença proferida, com a reabertura da instrução probatória, permitindo-se a oitiva da testemunha arrolada pela defesa, como forma de garantir o a aplicação da lei federal, art. 369, CPC exercício pleno da ampla defesa e contraditório.
+Oferecidas contrarrazões (fls. 590/598), o Tribunal de origem não admitiu o recurso pela impossibilidade de exame de matéria constitucional em sede de recurso especial e por incidência do óbice da Súmula 7/STJ (fls. 602/604).
+Contra essa decisão a defesa interpôs o presente agravo (fls. 610/617).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 646/655).
+É o relatório.
+O agravo não preenche os requisitos de admissibilidade.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luís Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No sentido da incindibilidade dos fundamentos da decisão de inadmissão, destaco o seguinte precedente da Corte Especial: EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.
+Quando a inadmissão se dá em razão de óbices como - Súmula 518/STJ, Súmula 283/STF, Súmula 284/STF, Súmula 7/STJ, falta de prequestionamento (Súmulas 282/STF, 356/STF e 211/STJ), ausência de cotejo analítico e impossibilidade de exame de matéria constitucional em sede de recurso especial -, a orientação desta Corte é no sentido da insuficiência da impugnação genérica do fundamento da decisão de inadmissão.
+Assim, nesses casos, cabe ao agravante impugnar, de forma suficiente, o fundamento da decisão de inadmissão, deduzindo argumentos concretos e aptos a demonstrar a inaplicabilidade dos referidos óbices, inclusive transcrevendo as razões do recurso especial quando necessário.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+Cabe ao agravante o ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido.
+No caso, o recurso especial foi inadmitido pelo fato de ter sido constatado: o óbice da Súmula 7/STJ e a impossibilidade de exame de matéria constitucional em sede de recurso especial. Caberia, então, ao agravante, nas razões do agravo em recurso especial, de forma específica, demonstrar a inaplicabilidade dos apontados óbices.
+Dessa forma, a insurgência não merece prosperar, haja vista o agravante não ter atacado, de forma específica, os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+A corroborar: AgRg no AREsp n. 2.857.832/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025; e AgRg no AREsp n. 2.589.677/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E DE ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. INSURGÊNCIA NÃO CONHECIDA POR INCIDÊNCIA DA SÚMULA 7/STJ E PELA IMPOSSIBILIDADE DE EXAME DE MATÉRIA CONSTITUCIONAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+Agravo em recurso especial não conhecido.
