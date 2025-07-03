@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por NATHANAEL GOMES DOS SANTOS contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Informam os autos que a defesa interpôs agravo em execução contra decisão proferida pelo Juízo da Vara de Execuções Penais que indeferiu o pedido de retificação do Relatório da Situação Processual Executória, mediante a exclusão da alcunha ou apelido ali anotado consistente do vocábulo "pivete", que acompanha a qualificação do apenado (fls. 6-17).
+O Tribunal de origem, por unanimidade, negou provimento ao recurso (fls. 496-506).
+Nas razões do recurso especial, a parte recorrente sustenta violação aos artigos 41, inciso XI, da Lei n. 7.210/1984 e 11 do Código Civil, ao argumento de que "a inserção de alcunha do apenado (pivete) no Relatório da Situação Processual Executória - RSPE e em todos os demais bancos de dados e assentamentos sob a custódia do Juízo da Execução implica na sua estigmatização, em nítida violação ao seu direito ao nome e ao chamamento nominal" (fls. 531-548).
+Apresentadas as contrarrazões (fls.554-556), o recurso foi admitido na origem (fls. 564-565) e os autos encaminhados a esta Corte Superior.
+O Ministério Público Federal apresentou parecer pelo provimento do recurso (fls. 579-585).
+É o relatório. DECIDO.
+A controvérsia reside em definir se a inserção de nome secundário/alcunha do apenado ("pivete") no Relatório da Situação Processual Executória - RSPE e demais bancos de dados e assentamentos sob a custódia do Juízo da Execução importa em violação a direito da personalidade do sentenciado - notadamente ao direito ao nome - e ao direito ao chamamento nominal (artigos 11 do Código Civil e 41, inciso XI, da Lei n. 7.210/1984).
+No caso, a Corte local concluiu não haver violação ao direito do preso ao chamamento nominal previsto no art. 41, inciso XI, da LEP, pois a mera anotação da alcunha no Relatório não induziria à conclusão de que o apenado será assim chamado no Judiciário, afastando-se qualquer alegação de violação ao direito subjetivo de ser tratado pelo nome, uma vez que esse não foi omitido da qualificação do recorrente.
+Nas razões do apelo especial, a combativa defesa afirma que "não se reputa necessário o registro de alcunhas na qualificação do apenado como meio de identificação criminal, especialmente em razão dos avanços científicos que permitem a individualização da pessoa pela impressão digital, pelo reconhecimento facial, pelo padrão genético, ou mesmo pelo controle da tecnologia da informação".
+Ressalta que "O Estado estigmatiza o recorrente ao identificá-lo como "pivete" cuja semântica refere-se a menino-ladrão".
+De acordo com o voto condutor do acórdão:
+(..) mesmo inexistindo prova de que o apelido foi fornecido pelo próprio agravante, certo é que não foi dado pelo Estado, mas obtido por meio de informações durante as investigações extrajudiciais ou mesmo quando da instrução processual, servindo tão somente para auxiliar na individualização e correta identificação do réu, não podendo, por isso, ser ignorado quando da sua qualificação. Dessa forma, também não merece acolhida a alegação de violação à integridade moral do preso, assegurada pelo art. 5º, XLIX da Constituição Federal.
+O órgão colegiado também considerou que "a defesa não apontou qualquer fato concreto que evidencie eventual tratamento desrespeitoso dirigido ao agravante no ambiente carcerário, em razão da anotação da alcunha em seu Relatório da Situação Processual Executória que justifique a exclusão do apelido".
+De fato, observa-se que a defesa não noticiou fato concreto que tenha importado em situação de violação ou prejuízo aos direitos supostamente violados - direito ao nome e chamamento nominal do sentenciado.
+Assim, verifica-se que os fundamentos acima destacados, que, por si próprios, sustentam o acórdão recorrido, não foram especificamente atacados pelo recorrente, motivo pelo qual o recurso não pode ser conhecido, em aplicação, por analogia, do Enunciado n. 283 da Súmula do c. Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+2. Dessume-se do aresto vergastado que os fundamentos suficientes à manutenção do acórdão recorrido não foram impugnados, de forma específica, nas razões recursais, o que atrai, por analogia, a incidência do verbete n. 283 da Súmula do STF, quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+(AgRg no AREsp n. 2.373.797/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2025, DJEN de 25/3/2025.)
+7. A argumentação recursal apresentou deficiência ao não impugnar de forma específica os fundamentos do acórdão recorrido, atraindo a aplicação das Súmulas 283 e 284/STF.
+(AgRg no REsp n. 2.103.480/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025.)
+Ante o exposto, com fulcro no art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
