@@ -1,0 +1,14 @@
+DECISÃO
+VALTER VIEIRA, VALTER VIEIRA FILHO e ROSIANE CRISTINA MARCELINO opõem embargos declaratórios contra a decisão monocrática de fls. 938-939, por meio do qual não conheci do agravo em recurso especial.
+Em suas razões, os embargantes aduzem que o recurso anteriormente interposto é tempestivo, uma vez que não houve expediente forense no Tribunal de origem durante o curso do referido prazo processual.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, noto que a irresignação dos embargantes se resume ao seu mero inconformismo com o resultado do julgado, que lhes foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+É importante anotar que o agravo em recurso especial foi interposto sob a égide do CPC/1973, motivo pelo qual devem ser exigidos os requisitos de admissibilidade elencados naquele diploma legal, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, nos termos do enunciado administrativo n. 2 desta Corte.
+Assim, a recente alteração implementada pela Lei n. 14.939/2024, que flexibilizou a comprovação pela parte do feriado local no ato da interposição do recurso, e a interpretação ampliativa conferida a essa norma reformadora pelo recente pronunciamento da Corte Especial (QO no AREsp n. 2.638.376/MG, relator Ministro Antônio Carlos Ferreira, Corte Especial, julgado em 5/2/2025, DJEN de 27/3/2025) não devem ser aplicáveis ao caso vertente.
+Fixadas essas premissas, destaco que o entendimento jurisprudencial então vigente neste Superior Tribunal segundo as regras dispostas no CPC/1973 era de que:
+ ..  a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental (AgRg no AREsp 137.141/SE, Rel. Ministro Antônio Carlos Ferreira, Corte Especial, DJe de 15/10/2012).
+No caso, os recorrentes, mesmo cientes da intempestividade recursal declarada por este relator, não juntaram aos autos a efetiva comprovação de causas de suspensão do prazo processual no Tribunal de origem. Logo, na linha do raciocínio ora defendido, é forçoso concluir pela impossibilidade de revisão do entendimento adotado na decisão embargada.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
