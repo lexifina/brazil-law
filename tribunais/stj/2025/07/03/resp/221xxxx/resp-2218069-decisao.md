@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado por Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 351):
+PREVIDENCIÁRIO. PENSÃO POR MORTE DE GENITORA. FILHO MAIOR. INVALIDEZ ANTERIOR AO ÓBITO. QUALIDADE DE SEGURADO. PRORROGAÇÃO DO PERÍODO DE GRAÇA. DESEMPREGO INVOLUNTÁRIO. TERMO INICIAL DO BENEFÍCIO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+1. A concessão de pensão por morte, a par da comprovação documental do evento que pode lhe dar origem, exige também a demonstração da qualidade de segurado do de cujus e a condição de dependente de quem pretende obter o benefício.
+2. A manifestação da invalidez ao filho, ainda que posterior à sua maioridade, não possui relevância desde que seja preexistente ao óbito do instituidor.
+3. A extensão do período de graça decorrente do art. 15, §2º, da Lei 8.213, somente ocorre em caso de desemprego involuntário, cuja comprovação pode ocorrer por outros meios de prova, a despeito da ausência do respectivo registro em órgão do Ministério do Trabalho.
+4. Para os dependentes absolutamente incapazes o termo inicial do benefício deve ser estabelecido na data do óbito.
+5. Honorários advocatícios majorados para o fim de adequação ao que está disposto no art. 85, §11, do Código de Processo Civil.
+Opostos embargos declaratórios, foram rejeitados (fls. 374/377).
+A parte recorrente aponta violação aos arts. 74, I e II, da Lei n. 8.213/1991, 3º, 189, 195 e 198, I, do Código Civil, 2º e 6º da LINDB. Sustenta, em síntese, (fl. 389):
+Impossibilidade de fixação do termo inicial do benefício de pensão por morte para pessoa com deficiência intelectual na data do óbito, quando requerido depois do prazo do art. 74, I, da Lei nº 8.213/91, após a vigência da Lei nº 13.146/15, que não mais inclui a pessoa com deficiência entre os absolutamente incapazes.
+Sem contrarrazões (fl. 398).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Observa-se que as razões do recurso especial contêm discussão acerca da incapacidade da pessoa com deficiência intelectual, após a vigência da Lei n. 13.146/2015.
+Sobre o tema, a Corte Especial do Superior Tribunal de Justiça afetou a matéria ao rito dos Recursos Repetitivos (Tema n. 1.32 1), nos autos dos REsps 2.163.797/RJ e 2.165.073/PE, relatoria do Ministro Raul Araújo, que cuida da seguinte controvérsia:
+Incidência de prescrição contra pessoa com deficiência mental ou intelectual, após a vigência da Lei 13.146/2015, que não mais inclui entre os absolutamente incapazes a pessoa que, por enfermidade ou deficiência, não tiver o necessário discernimento para a prática dos atos da vida civil.
+Assim, em razão de economia processual e para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que for definitivamente decidido por essa Corte, é conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com o juízo de retratação ou de conformação a ser realizado pela instância ordinária, após o julgamento do recurso especial sobre o mesmo tema afetado, nos moldes dos arts. 1.040 e 1.041 do CPC.
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese no Tema n. 1.341/STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+Por fim, no julgamento da Questão de Ordem no REsp 1.653.884/PR, pela Primeira Turma deste Superior Tribunal de Justiça, ficou assentado que, nos casos de devolução do recurso especial ao Tribunal de origem para se aguardar o desfecho do recurso repetitivo, a Corte recorrida, caso verifique a existência de resíduo não alcançado pela afetação do Superior Tribunal de Justiça, deverá determinar o retorno dos autos a este STJ somente após ter exercido o juízo de conformação ao que decidido pelo Tribunal Superior no julgamento do representativo da controvérsia respectiva (QO no REsp 1.653.884/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/11/2017).
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso especial e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido por este Superior Tribunal de Justiça sobre o Tema 1.321/STJ.
+Publique-se
+EMENTA
