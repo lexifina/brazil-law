@@ -1,0 +1,22 @@
+DECISÃO
+JOSE GABRIEL FAY NEVES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5040120-87.2020.8.24.0023.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime semiaberto, mais multa.
+A defesa pleiteia, por meio deste writ, seja reconhecida a ilegalidade da busca domiciliar, com a consequente absolvição do paciente. Alternativamente, requer a aplicação da maior fração prevista no § 4º, do art. 33, da Lei de Drogas e o reconhecimento da atenuante da confissão.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, no mérito, pela denegação da ordem (fls. 116-124).
+Decido.
+Este habeas corpus foi impetrado em 14/5/2025 e se insurge contra acórdão de apelação proferido em 18/11/2021. A decisão transitou em julgado em 30/3/2022 e, pelos documentos constantes dos autos, não se verifica o ajuizamento de revisão criminal.
+Além disso, verifico que a pretensão foi parcialmente analisada no HC n. 804.028, em que deneguei a ordem, nos seguintes fundamentos:
+Conforme se depreende dos excertos acima, além de receber denúncia anônima da ocorrência de tráfico, os policiais realizaram campana para monitorar as atividades e verificaram que outro indivíduo, investigado por tráfico, frequentemente entrava e saía da casa do acusado. Em dado momento, os agentes foram interpelados pelo paciente no portão da residência e avistaram, pela porta entreaberta, algumas mudas de maconha e perceberam cheiro característico desse entorpecente . Diante disso, entraram no domicílio e localizaram a droga apreendida (840 pés da planta Cannabis Sativa).
+Verifico, portanto, que, antes mesmo de ingressarem no imóvel, os agentes estatais puderam angariar elementos suficientes o bastante, externalizados em atos concretos, que fizeram surgir a desconfiança de que, naquele lugar, estaria havendo a possível prática do delito de tráfico de drogas, tudo a demonstrar que estava presente o elemento "fundadas razões", a autorizar o ingresso no domicílio.
+Havia, frise-se, elementos objetivos e racionais que justificaram o ingresso no domicílio, motivo pelo qual são lícitos todos os elementos de informação obtidos, bem como todos os que deles decorreram, porquanto a referida medida foi adotada em estrita consonância com a norma constitucional.
+Enfim, esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do habeas corpus, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+O impetrante deve apresentar o pedido de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+No caso em apreço, a defesa deixou de solicitar ao Tribunal de Justiça a revisão de condenação.
+Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..
+(AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
