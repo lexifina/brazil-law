@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o Instituto Educacional do Estado de São Paulo (IESP) e o Instituto de Ensino de Rio Claro e Representações Ltda (IERC) se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 1.068):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença de Ação coletiva. Espécies de títulos de crédito. Decisões agravadas que não extinguiram o título executivo e determinaram que as Execuções sejam individuais, além de manterem a multa fixada. Pretensão dos Institutos Agravantes de unilateralmente imporem o procedimento de Execução e afastar a multa cominatória. Multa confirmada, pois se mostra razoável e proporcional. As demais questões requerem instrução probatória para melhor análise e final convicção. Decisões mantidas. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 1.119/1.123).
+A parte recorrente alega violação dos arts. 1.022, II, parágrafo único, II, c/c o art. 489, § 1º, IV e V, ambos do Código de Processo Civil (CPC), sustentando que houve negativa de prestação jurisdicional por não terem sido apreciados os pedidos e argumentos importantes.
+Aponta violação dos arts. 509, I e II, e 783 do CPC, sustentando que a sentença coletiva é ilíquida, motivo pelo qual entende ser imprescindível a liquidação individual por cada estudante, oportunidade em que - complementa - deverão demonstrar documentalmente que participaram do programa "Uniesp Pode Pagar" e que tiveram o nome indevidamente negativado, e não em execução individual diretamente.
+Afirma também ter havido a violação ao art. 884 do Código Civil e ao art. 537, § 1º, do CPC, além de dissídio jurisprudencial, pedindo o afastamento ou a redução da multa diária.
+Por fim, defende a ocorrência de violação ao art. 85, § 1º, do CPC, requerendo condenação da parte recorrida ao pagamento de honorários advocatícios de sucumbência.
+Não foram apresentadas contrarrazões (fl. 1.185).
+O recurso não foi admitido na origem, razão pela qual foi interposto o agravo ora examinado (fls. 1.169/1.173).
+É o relatório.
+Uma das questões debatidas nos autos foi afetada à Corte Especial do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.169), e foi assim delimitada:
+"Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos."
+(ProAfR no REsp n. 1.978.629/RJ, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 11/10/2022, DJe de 18/10/2022.)
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
