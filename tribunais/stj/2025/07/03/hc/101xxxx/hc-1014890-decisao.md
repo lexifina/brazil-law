@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Gildasio Moreira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0001376-69.2018.8.26.0655 - fls. 12/28).
+Narram os autos que o paciente foi condenado como incurso no art. 121, § 2º, II e IV, c/c o art. 14, II, todos do Código Penal, à pena de 7 anos de reclusão. O Tribunal de origem negou provimento ao recurso da defesa, mantendo integralmente a sentença condenatória proferida pelo Tribunal do Júri (fls. 12/28).
+Aqui, a defesa sustenta, em breve síntese, a nulidade por deficiência da defesa técnica, alegando que o primeiro advogado renunciou na fase preparatória do Júri e que o defensor dativo atuou de forma genérica, sem interposição de recursos excepcionais (fls. 2/3).
+Argumenta que houve inegável prejuízo, não apenas potencial, mas concreto e consumado, representado na pena de reclusão imposta ao paciente em regime privativo de liberdade (fl. 8).
+Aduz, ainda, que não foi sequer formulado quesito referente à eventual tese de homicídio privilegiado, nos termos do art. 121, § 1º, do Código Penal (fl. 8).
+Requer, em liminar, o sobrestamento do mandado de prisão expedido nos autos da Execução Penal n. 0010369-65.2024.8.26.0502, a fim de resguardar a liberdade do paciente até o julgamento final deste writ (fl. 11). No mérito, postula a concessão definitiva da ordem, com a consequente anulação do julgamento realizado pelo Tribunal do Júri da Comarca de Várzea Paulista/SP, determinando-se a realização de novo julgamento com garantia de defesa técnica efetiva (fl. 11).
+É o relatório.
+Este writ é manifestamente inadmissível.
+Com efeito, o habeas corpus foi manejado como sucedâneo de revisão criminal e como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Ademais, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 11/12/2023).
+Afora isso, a tese de nulidade por deficiência da defesa técnica não foi nem sequer debatida no Tribunal a quo, circunstância que, por si só, obsta o exame do tema por esta Corte, ante a supressão de instância verificada.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO TENTADO . WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CÓDIGO DE PROCESSO PENAL. TEMA NÃO DEBATIDO NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
