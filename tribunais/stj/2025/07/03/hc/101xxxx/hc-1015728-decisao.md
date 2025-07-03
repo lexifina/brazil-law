@@ -1,0 +1,16 @@
+DECISÃO
+O presente habeas corpus , impetrado em nome de RENATO CARNEIRO ROGERIO - condenado por homicídio qualificado a 10 anos e 6 dias de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Goiás (fls. 16/20), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria - imposta na Ação Penal n. 5180349-25.2023.8.09.0051 (fls. 1.195/1.199, da 2ª Vara Criminal dos Crimes Dolosos contra a Vida e Tribunal do Júri da comarca de Goiânia/GO) -, com:
+a) o afastamento da negativação das circunstâncias do crime, alegando bis in idem com a elementar do crime (fls. 6/8);
+b) o afastamento das agravantes do meio cruel e recurso que impossibilitou a defesa do ofendido, por já qualificarem o crime (fls. 8/10); e
+c) a alteração da fração de redução pela semi-imputabilidade, aduzindo que a perícia reconheceu a presença de ambas as limitações previstas em lei para a semi-imputabilidade, considerando que o réu possuía limitação da capacidade de compreensão e também limitação da capacidade de autodeterminação (fl. 12).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) a negativação do vetor circunstâncias do crime está devidamente fundamentada em elementos concretos dos autos - uma vez que a vítima foi atingida em sua residência, em seu quarto, um local que teoricamente deveria lhe trazer segurança (fl. 16) -, evidenciando circunstâncias que extrapolam os elementos do tipo penal imputado;
+b) a utilização das qualificadoras sobejantes como agravantes é legítima, conforme jurisprudência desta Corte (AgRg nos EDcl no AREsp n. 2.730.704/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025); e
+c) concretamente fundamentada a fração de 1/3 pela causa de diminuição da penal da semi-imputabilidade - a perícia oficial avaliou que Renato Carneiro Rogério era, ao tempo da ação, parcialmente incapaz de entender o caráter ilícito do fato e parcialmente incapaz de determinar-se de acordo com esse entendimento, e que o juiz-presidente, durante as oitivas em juízo e em plenário (eventos 319 e 491) constatou que o recorrente apresentava boa capacidade cognitiva, de compreensão e de resposta, tem-se por sensato e adequado à hipótese dos autos a incidência da minorante do artigo 26, parágrafo único, do Código Penal no índice mínimo de 1/3 (fl. 18) -, rever tal conclusão demandaria reexame probatório, inviável na via eleita.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
