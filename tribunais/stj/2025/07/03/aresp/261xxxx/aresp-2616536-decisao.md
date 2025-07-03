@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED DE FRANCA SOC COOPDE SERVIÇOS MED E HOSPITALARES contra decisão que não admitiu recurso especial com fundamento na incidência da Súmula 735/STJ e ausência de negativa da prestação jurisdicional.
+Alega a agravante que, de acordo com a jurisprudência, esta Corte Superior pode analisar o recurso especial que tenha como objetivo discutir ofensa aos requisitos dispostos no art. 300 do Código de Processo Civil/2015, bem como a demonstração da violação aos arts. 489 e 1.022 do CPC/2015.
+Contraminuta não apresentada.
+Assim delimitada a controvérsia, passo a decidir.
+Em consulta ao processo originário, verifica-se que foi proferida sentença confirmando a tutela antecipada concedida, conforme segue:
+Ante o exposto e mais do que dos autos consta, JULGO PROCEDENTE esta ação, com resolução de mérito, nos termos do artigo 487, I, do Código de Processo Civil e o faço para, confirmando a tutela de urgência deferida às fls. 45/48 e 235, condenar a requerida ao fornecimento dos tratamentos prescritos, a saber: "home care", fornecimento do medicamento "Mevatyl, Solução oral (3un de 10mL) Ipsen" e da "Órtese Suropodalica Articulada Sob Medida". Pela sucumbência, condeno a parte ré ao pagamento das custas, despesas processuais e honorários advocatícios que fixo em 10% sobre o valor da causa. Anote-se que a interposição de embargos de declaração manifestamente protelatórios (inclusive voltados à mera rediscussão do julgado) poderá dar ensejo à aplicação da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil. Interposto recurso de apelação, dê-se vista à(s) parte(s) recorrida(s) para contrarrazões. Certifiquem, se necessário, a respeito do valor do preparo e da quantia efetivamente recolhida (NSCGJ., art. 102, VI), observado o valor da causa como base de cálculo. Procedam à vinculação do uso do documento ao número do processo (NSCGJ. art.1093, parágrafo 6º), reservada à instância superior a apreciação de eventuais irregularidades. Após, independente de juízo de admissibilidade, remetam-se os autos ao Tribunal de Justiça do Estado de São Paulo, nos termos do art. 1.010, § 3º, do Código de Processo Civil.
+Deste modo, houve a perda do objeto, de acordo com o entendimento firmado por esta Corte Superior. C onfira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE DECISÃO DE MÉRITO. PERDA DE OBJETO DO RECURSO. RECURSO ESPECIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Em recurso especial, insurge-se a Associação dos Amigos de Itatiaia contra acórdão do Tribunal Regional da 2ª Região, que, em análise de agravo de instrumento, manteve a decisão de 1º grau que negou deferimento a tutela de urgência.
+3. Compulsando a movimentação dos autos na origem, verificou-se que, após a publicação da decisão agravada, houve prolação de sentença de mérito.
+4. Consoante a jurisprudência do Superior Tribunal de Justiça, a prolação de sentença de mérito nos autos principais, enseja, como regra, a absorção dos efeitos das decisões que a antecederam, prejudicando o exame do recurso especial interposto contra decisões interlocutórias. Precedentes.
+5. Agravo interno e recurso especial prejudicados.
+(AgInt no AREsp n. 2.420.033/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/6/2024, DJe de 1/7/2024.)
+Em face do exposto, julgo prejudicado o recurso, por perda superveniente do objeto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça.
+Intimem-se.
+ EMENTA
