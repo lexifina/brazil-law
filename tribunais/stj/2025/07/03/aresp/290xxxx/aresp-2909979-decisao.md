@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer com pedido de tutela de urgência, ajuizada por GABRIEL DE ALENCAR ARAUJO, em face da agravante, em razão de alegada negativa indevida de cobertura do exame "pet interin" após a realização do segundo ciclo de quimioterapia (para tratamento de "Linfoma de Hodgkin"), a fim de observar o avanço da doença ou resultado positivo do tratamento (e-STJ fls. 09-28).
+Decisão unipessoal do Des. Relator: negou provimento à apelação interposta pela agravante (e-STJ fls. 434-482).
+Acórdão recorrido: negou provimento ao agravo interno interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO. ADOÇÃO DA SÚMULA 568 do STJ. JULGAMENTO PELO RELATOR. MONOCRÁTICA. DESENVOLVIMENTO E DISPOSITIVO. RAZÕES DO AGRAVO INTERNO. MERA REPRODUÇÃO DOS ARGUMENTOS ANTERIORES. JULGADOS DO STF E STJ. ADOÇÃO DA SÚMULA 568 DO STJ. EM VIGOR.
+I - Não se pode dar provimento ao recurso em que a parte pede a reforma do decisum com base em argumentos que consistem em mera reprodução da peça recursal sem qualquer referência aos fundamentos da sentença e seus supostos desacertos.
+II - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao julgar monocraticamente o recurso de apelação, impõe o desprovimento do recurso.
+III - Agravo interno desprovido. (e-STJ fl. 620)
+Decisão de admissibilidade do TJ/MA: inadmitiu o recurso especial, em razão da ausência de prequestionamento (Súmula 282/STF), em relação aos demais dispositivos tidos por violados - arts. 10, VII, § 4º, e art. 16, VI, ambos da Lei 9.656/1998; 3º e 4º, III, ambos da Lei 9.961/2000; 14, §§ 1º e 3º, 51 e 54, § 4º, todos do CDC; 485, IV e VI, do CPC; e 104, 186, 187, 188, 422, 927 e 944, todos do CC (e-STJ fls. 772-776).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz a não incidência da Súmula 282/STF, pois "(..) o recurso constitucional interposto levantou os temas relativos aos arts. 10, VII, § 4º e o art. 16, VI, da Lei nº 9.656/1998; os arts. 3º e 4º, III, da Lei Federal nº 9.961/2000; os arts. 14, §§ 1º e 3º, 51 e 54, § 4º, do CDC; o art. 485, IV e VI, do CPC; e os arts. 104, 186, 187, 188, 422, 927 e 944, todos do CPC15, que traz questões de direito, com aplicação da referida norma federal." (e-STJ, fl. 782).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: ausência de prequestionamento (Súmula 282/STF), em relação aos demais dispositivos tidos por violados (arts. 10, VII, § 4º, e art. 16, VI, ambos da Lei 9.656/1998; 3º e 4º, III, ambos da Lei 9.961/2000; 14, §§ 1º e 3º, 51 e 54, § 4º, todos do CDC; 485, IV e VI, do CPC; e 104, 186, 187, 188, 422, 927 e 944, todos do CC).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Juízo de 2º grau de jurisdição . Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
