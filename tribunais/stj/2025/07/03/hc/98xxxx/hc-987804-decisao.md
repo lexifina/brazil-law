@@ -1,0 +1,26 @@
+DECISÃO
+MARIA  DE  LOURDES  ÂNGELO  DA  SILVA  alega  ser  vítima  de  coação  ilegal  em  decorrência  de  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Alagoas  no  Recurso  em  Sentido  Estrito  n.  0700297-16.2023.8.02.0070.
+Consta  dos  autos  que  a  paciente  foi  denunciada  pela  prática  do  crime  previsto  no  art.  129,  §  9º,  do  Código  Penal. O  Juízo  de  primeiro  grau  proferiu  sentença  que extinguiu  a  punibilidade  pela  decadência  do  direito  de  representação,  e  foi  reformada  pela  Corte  estadual  para  determinar  o  retorno  do processo à  origem  para  novo  julgamento.
+A  defesa  aduz,  em  síntese,  que  não  houve  manifestação  inequívoca  do  interesse  da  vítima  em  representar  contra  a  paciente,  a configurar  ausência  de  condição  de  procedibilidade,  o  que  resultaria  na  decadência  do  direito  de  representação  e  consequente  extinção  da  punibilidade.
+Não  requerida  liminar,  o  Ministério  Público  Federal  opinou  pelo  não  conhecimento  do  habeas  corpus  ou,  se  conhecido,  pela sua denegação,  no  mérito.
+Decido.
+I.  Contextualização
+A  controvérsia  reside  na  validade  da  representação  da  vítima,  condição  necessária  para  o  prosseguimento  da  ação  penal  pública  condicionada  relacionada  ao  crime  de  lesão  corporal  previsto  no  art.  129,  §  9º,  do  Código  Penal.
+O  Tribunal  de  origem  reformou  a  sentença  de  primeira  instância,  pois entendeu  demonstrado  o  interesse  inequívoco  da  vítima  em  representar. Destacou  que  o  acionamento  da  polícia,  com  a  elaboração  de  boletim  de  ocorrência  e  a  realização  do  exame  de  corpo  de  delito  configuraram  representação  suficiente.
+II.  Representação  e  ausência  de  formalidades
+Com  efeito,  o  Superior Tribunal de Justiça  entende  que  a  representação  da  vítima,  nos  casos  de  ação  penal  pública  condicionada,  não  exige  formalidade  excessiva.  É  suficiente ato  inequívoco  de  interesse  na  persecução  penal.
+Nesse  sentido:
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  RECURSO  EM  HABEAS  CORPUS.  LESÃO  CORPORAL  CULPOSA  NO  TRÂNSITO.  AUSÊNCIA  DE  REPRESENTAÇÃO  EXPRESSA  DA  VÍTIMA.  PRESCINDIBILIDADE.  ATO  QUE  DISPENSA  FORMALIDADES.  AGRAVO  DESPROVIDO.
+Nos  termos  do  entendimento  desta  Corte  Superior,  tem-se  que,  quando  a  ação  penal  pública  depender  de  representação  do  ofendido  ou  de  seu  representante  legal,  tal  manifestação  de  vontade,  condição  específica  de  procedibilidade  sem  a  qual  é  inviável  a  propositura  do  processo  criminal  pelo  dominus  litis,  não  exige  maiores  formalidades,  sendo  desnecessário  que  haja  uma  peça  escrita  nos  autos  do  inquérito  ou  da  ação  penal  com  nomen  iuris  de  representação,  bastando  que  reste  inequívoco  o  seu  interesse  na  persecução  penal.
+No  caso,  as  instâncias  ordinárias  esclareceram  que  a  vítima  sobrevivente,  não  obstante  a  ausência  de  peça  formalizada  nos  autos,  demonstrou  de  forma  tácita  e  clara  a  intenção  de  ver  a  suposta  autora  do  fato  delituoso  processada  criminalmente,  tendo  comparecido  à  delegacia  para  prestar  declarações  minuciosas  sobre  o  acidente,  além  de  ter  realizado  o  exame  de  corpo  de  delito.
+"Não  se  mostra  possível  modificar  o  que  ficou  estabelecido  pelas  instâncias  de  origem  sem  que  se  faça  necessário  um  amplo  e  aprofundado  reexame  do  acervo  probatório,  procedimento  vedado  na  via  eleita."  (AgRg  no  HC  233.479/MG,  Rel.  Ministro  ANTONIO  SALDANHA  PALHEIRO,  SEXTA  TURMA,  julgado  em  15/12/2016,  DJe  2/2/2017).
+Agravo  regimental  desprovido
+(AgRg  no  RHC  n.  118.489/BA,  Rel.  Ministro  Ribeiro  Dantas,  5ª  T.,  DJe  25/11/2019).
+  Na  hipótese,  a  ofendida  compareceu  ao  Instituto  Médico  Legal  para  realização  de  exame  de  corpo  de  delito  logo  após  os  fatos,  ocorridos  em  22  /10/2023,  e ainda compareceu à  Delegacia  de  Polícia  no  mesmo  dia  para  registrar  a  ocorrência,  ocasião  em  que  prestou  declarações  detalhadas  acerca  das  circunstâncias  do  crime.  Esses  atos  evidenciam  de  maneira  inequívoca  seu  interesse  em  representar  contra  a  autora  do  delito.
+De  fato,  o  Tribunal  de  Justiça  de  Alagoas  explicitou  em  seu  acórdão  que  tais  ações  são  suficientes  para  caracterizar  o  interesse  da  vítima  na  persecução  criminal  (fl.53):
+No  caso  dos  autos,  a  lavratura  do  Termo  de  Declarações,  bem  como  a  realização  de  Boletim  de  Ocorrência,  na  data  do  fato,  evidenciam  a  intenção  do  ofendido  em  autorizar  a  persecução  criminal,  não  tendo  o  que  se  falar  em  decadência  do  direito  de  representação  da  vítima  em  desfavor  da  apelada.  Prescindibilidade  de  formalidade  especial  para  a  representação,  sendo  suficiente  o  registro  de  Boletim  de  Ocorrência  na  Delegacia  de  Polícia.
+Dessa  maneira,  resulta  claro  que  a  conduta  da  ofendida  não  deixa  dúvida  quanto  ao  seu  interesse  em  promover  a  ação  penal,  configurando,  assim,  manifestação  válida  e  suficiente  para  afastar  a  alegada  decadência.
+III.  Dispositivo
+À  vista  do  exposto,  denego a ordem de habeas corpus.
+Publique-se e intimem-se
+EMENTA
