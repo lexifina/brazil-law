@@ -1,0 +1,19 @@
+DECISÃO
+RUI FRANCISCO DAMAS JÚNIOR alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no Recurso em Sentido Estrito n. 0091811-56.2019.8.09.0064.
+Consta dos autos que o paciente foi pronunciado pela prática, em tese, do crime previsto no art. 121, § 2º, II e IV, do Código Penal.
+Pretende a defesa, em síntese, a despronúncia do paciente.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do writ (fls. 1.092-1.096).
+Decido.
+Observa-se que a defesa se insurge contra acórdão proferido no julgamento de recurso em sentido estrito. No entanto, em pesquisa no sistema eletrônico, nota-se que contra o mesmo acórdão foi interposto recurso especial que, inadmitido, deu ensejo ao agravo em recurso especial, ainda em tramitação (AREsp 2545354 / GO).
+Diante de tal cenário, constata-se a impossibilidade de conhecimento deste mandamus.
+Conforme decidido pela Terceira Seção desta Corte no julgamento do HC n. 482.549/SP, de minha relatoria, em caso de interposição do recurso cabível contra o ato impugnado e contemporânea impetração de habeas corpus para igual pretensão, somente será permitido o exame do writ se for este destinado à tutela direta da liberdade de locomoção do acusado ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e refletir mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para o caso, ainda que a matéria discutida resvale, por via transversa, na liberdade individual. Confira-se:
+ ..
+1. A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção.
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão.
+3. Sob essa perspectiva, a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.
+ .. .
+(HC n. 482.549/SP, relator Ministro Rogerio Schietti, Terceira Seção, DJe de 3/4/2020, grifei).
+Finalmente, em relação ao resultado da perícia de confronto de tintas, deve-se frisar que a Corte de origem não se debruçou sobre a referida matéria. Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica, também por esta razão, inviabilizado o conhecimento deste mandamus neste aspecto.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
