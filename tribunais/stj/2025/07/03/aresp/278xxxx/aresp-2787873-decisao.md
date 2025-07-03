@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED EXTREMO OESTE CATARINENSE COOPERATIVA DE TRABALHO MEDICO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 537):
+AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE TUTELA DE URGÊNCIA OU EVIDÊNCIA E REPARAÇÃO DE DANOS. PEDIDO DE COBERTURA CONTRATUAL PARA CIRURGIAS REPARADORAS DECORRENTES DA BARIÁTRICA, FISIOTERAPIA, MATERIAIS E CONDENAÇÃO EM DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DAS PARTES. DECISÃO MONOCRÁTICA QUE CONHECEU DOS RECURSOS E NEGOU-LHES PROVIMENTO. AGRAVO DA RÉ. PLEITO DE RECONHECIMENTO DA NATUREZA ESTÉTICA DOS PROCEDIMENTOS. TESE AFASTADA. APLICAÇÃO DA TESE ESTABELECIDA PELO STJ NO JULGAMENTO DOS LEADING CASES EDV NO RESP N. 1.886.929/SP E 1.889.704/SP E DO TEMA 1.069 DO STJ. PRESCRIÇÃO DO MÉDICO ASSISTENTE PARA (A) DERMOLIPECTOMIA ABDOMINAL COM PLICATURA DOS MÚSCULOS RETO-ABDOMINAL, (B) RECONSTRUÇÃO MAMÁRIA ASSOCIADA A IMPLANTE (PRÓTESE) DE SILICONE E (C) TRATAMENTO CIRÚRGICO DA LIPODISTROFIA EM BRAÇOS E COXAS. PROCEDIMENTO DO ITEM "A" PREVISTO NA RESOLUÇÃO NORMATIVA N. 425/2021. DEMAIS PROCEDIMENTOS COM EVIDÊNCIA CIENTÍFICA E AVALIAÇÃO DO NATJUS FAVORÁVEIS PARA REPARAÇÃO DA BARIÁTRICA. JURISPRUDÊNCIA DO STJ E DESTE TRIBUNAL. LAUDO DOS PROFISSIONAIS MÉDICO E PSICÓLOGA QUE ATESTAM AS VULNERABILIDADE FÍSICA E PSICOLÓGICA DA AGRAVADA. MANUTENÇÃO DA DECISÃO. RECURSO CONHECIDO E DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 12, § 13, da Lei n. 9.656/98, 10, §4º, da Lei n. 9.656/98, 35-F da Lei n. 9.656/1998, e 188, I, do Código Civil. Argumenta que o rol da ANS é taxativo e que as instâncias inferiores ignoraram a jurisprudência do STJ sobre a matéria, que não permite a cobertura de procedimentos não listados no rol. Argumenta que o caráter estético dos procedimentos não foi devidamente avaliado.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 675 - 684).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 687 - 690), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 715 - 724).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 12, § 13, da Lei n. 9.656/98, 10, §4º, da Lei n. 9.656/98, 35-F da Lei n. 9.656/1998, e 188, I, do Código Civil, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A proposito, cito o seguinte precedente:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. CUSTEIO DE CIRURGIA PLÁSTICA EM PACIENTE PÓS-BARIÁTRICA. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO FIRMADO PELO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Consoante Tema 1.069 STJ "É de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida".
+2. Agravo conhecido. Recurso especial não provido.
+(AREsp n. 2.702.279/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à necessidade das cirurgias em decorrência do tratamento de obesidade mórbida, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA. SUPREMO TRIBUNAL FEDERAL. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. PROCEDIMENTO CIRÚRGICO. NATUREZA ESTÉTICA. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DANOS MORAIS. NEGATIVA DE COBERTURA. PREVISÃO CONTRATUAL. DÚVIDA RAZOÁVEL. ASTREINTES. INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF.
+1. Nos termos do art. 105, inciso III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+2. A revisão das conclusões da Corte de origem quanto à natureza estética das intervenções cirúrgicas pleiteadas demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.3. A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+4. Há configuração de danos morais indenizáveis pela recusa indevida de cobertura médico-assistencial pela operadora de plano de saúde às situações de emergência, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde.
+5. Há situações, tal como na espécie vertente, em que existe dúvida jurídica razoável na interpretação de cláusula contratual, de forma que a conduta da operadora, ao optar pela restrição da cobertura sem ofender os deveres anexos do contrato - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, a afastar qualquer pretensão de compensação por danos morais.
+6. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284 do Supremo Tribunal Federal.
+7. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 2.203.470/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/5/2025, DJEN de 9/5/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro para R$ 1.800 os honorários fixados em desfavor da parte recorrente.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. PROCEDIMENTO CIRÚRGICO. NECESSIDADE DE COBERTURA. SÚMULA N. 83/STJ. REEXAME. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
