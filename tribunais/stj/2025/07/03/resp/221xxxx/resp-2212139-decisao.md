@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por SERVICO AUTONOMO DE AGUA E ESGOTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento do Recurso de Apelação n. 1005959-51.2021.8.26.0566.
+Na origem, cuida-se de ação de cobrança proposta pela parte recorrida, objetivando ressarcimento de importâncias recolhidas indevidamente (fls. 27-28).
+Foi proferida sentença para julgar parcialmente procedente o pedido (fl. 176).
+O Tribunal de Justiça do Estado de São Paulo, no julgamento do recurso de apelação, o desproveu em acórdão cuja ementa é a seguir transcrita (fl. 221):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - FORNECIMENTO DE ÁGUA - ECONOMIA - Entendimento jurisprudencial sedimentado na impossibilidade de não considerar o consumo de cada unidade -- Rejeição - Decisão que se afina a entendimento jurisprudencial - Apelo improvido.
+Embargos de declaração rejeitados (fls. 233-235).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alíneas a e c da Constituição Federal, a parte recorrente aponta ofensa ao art. 489, §1º do Código de Processo Civil e divergência jurisprudencial, pois a Corte local teria julgado parcialmente procedente o pedido exordial como se o faturamento com base no volume medido pelo único hidrômetro fosse incorreto, apesar de expressa previsão legal no sentido de que o faturamento deve ser feito com base no volume medido, premissa diferente da que é adotada pela jurisprudência deste STJ.
+Ao final, requer o provimento do recurso especial para "o provimento do presente Recurso Especial, para o fim de anular o julgamento precedente, reconhecendo que o Tribunal a quo não demonstrou a existência de distinção do caso em julgamento com os precedentes jurisprudenciais do egrégio SUPERIOR TRIBUNAL DE JUSTIÇA e nem demonstrou a superação do entendimento consolidado pelo entendimento aplicado na decisão recorrida" (fl. 244).
+Contrrarrazões às fls. 247-249.
+Submetido à reapreciação, o acórdão foi mantido às fls. 265-269.
+Recurso especial admitido às fls. 271-273.
+É o relatório.
+Decido.
+O Tribunal de origem não apreciou a tese de que haveria deficiência na fundamentação do acórdão recorrido, e a parte recorrente não suscitou a questão em seus embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada") e 356 do STF ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento").
+Ressalta-se que mesmo nos casos em que a suposta ofensa à lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que a Corte de origem se manifeste sobre o tema a ser veiculado no recurso especial, ainda que se cuide matéria de ordem pública. Nesse sentido: AgInt no AREsp n. 1.064.207/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023; AgInt no REsp n. 2.024.868/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/8/2023, DJe de 31/8/2023.
+Conforme jurisprudência desta Corte Superior, a existência de óbice processual, impedindo o conhecimento de questão suscitada com base na alínea a do permissivo constitucional, prejudica a análise da alegada divergência jurisprudencial acerca do mesmo tema. Nesse sentido: AgInt no AREsp n. 2.370.268/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023; AgInt no REsp n. 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, NÃO CONHEÇO do Recurso Especial. Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 225), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE COBRANÇA. ART. 489, §1º DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
