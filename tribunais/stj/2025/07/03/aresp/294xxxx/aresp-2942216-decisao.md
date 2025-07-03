@@ -1,0 +1,20 @@
+DECISÃO
+IVAN DA SILVA, MAICON DA SILVA E THUANE MASUTI CAMPOS agravam de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5024450- 49.2023.8.24.0008.
+Os agravantes foram condenados, pelo crime tipificado no art. 157, §§ 2º, II e V, e 2º-A, I, do Código Penal, a 10 anos, 4 meses e 13 dias de reclusão e 25 dias-multa - Maicon da Silva e Ivan da Silva - e a 8 anos, 10 meses e 20 dias de reclusão e 21 dias-multa - Thuane Masuti Campos -, todos em regime fechado.
+No especial, a defesa indicou violação dos arts. 157, 240 e 386, V e VII, do Código de Processo Penal e pediu a absolvição dos réus. Afirmou ilegalidade da busca domiciliar em desfavor de Thuane Masuti Campos. Argumentou ausência ou insuficiência de provas para a condenação dos acusados.
+Apresentadas as contrarrazões e inadmitido o recurso na origem, o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Januário Paludo, opinou pelo não conhecimento ou pelo não provimento do agravo em recurso especial (fls. 1.815-1.821).
+Decido.
+O agravo é tempestivo, atacou os fundamentos da decisão agravada e, por isso, deve ser conhecido. Passo ao exame do especial.
+O Tribunal de origem manteve a condenação dos acusados, sob os seguintes fundamentos (fls. 1.566-1.578, grifei):
+Acerca da prova oral, colhem-se as transcrições da sentença que retratam de forma fidedignas as informações prestadas pelas testemunhas e apelantes no formato audiovisual:
+ ..
+Como se observa, a sentença expôs de forma detalhada todo o arcabouço probatório que conduz à certeza da união de desígnios e esforços dos apelantes, com divisão de tarefas e ações coordenadas, para a prática do crime de roubo majorado em desfavor da Cooperativa de Crédito Viacredi, oportunidade na qual foram subtraídos do local R$ 26.890,31 em espécie; R$ 3.572,00 em cheques; um revólver calibre .38, marca Taurus, registrado sob o n. BP27962, avaliado em R$ 3.800,00, de propriedade da empresa Segura Segurança Privada Ltda.; cinco munições, calibre .38, marca CBC, avaliadas em R$ 30,00, de propriedade da empresa Segura Segurança Privada Ltda.; e um relógio de pulso, avaliado em R$ 300,00 (trezentos reais), de propriedade de Silvio Selenko.
+Destaca-se que, ao contrário do que foi levantado pelas defesas, as imagens das câmeras de monitoramento, tanto da Cooperativa vitimada como do itinerário da fuga, permitem extrair com clareza algumas características essenciais dos agentes envolvidos com a prática do crime.
+ ..
+Além disso, as imagens não se tratam de prova isolada e foram corroborada pelos demais elementos colhidos, notadamente porque todos os agentes foram surpreendidos na posse de proveitos ou de instrumentos do crime, ou, ainda, de documentos que os relacionam aos demais agentes envolvidos.
+Com base nas provas dos autos - prova testemunhais, imagens das câmeras de segurança e produtos do crime apreendidos com os agentes -, o Tribunal local concluiu que os réus, em comunhão de esforços com outros agentes, cometeram roubo armado contra cooperativa de crédito, ocasião em que subtraíram elevado numerário em dinheiro, armas, munições e pertences das vítimas.
+Para alterar a conclusão da Corte de origem, com o intuito de absolver os recorrentes, em virtude de violação do art. 386, V e VII, do CPP, seria necessária a incursão no conjunto de fatos e provas dos autos, procedimento vedado segundo o teor da Súmula n. 7 do STJ.
+A tese de ilegalidade da busca domiciliar em desfavor de Thuane Masuti Campos (arts. 157 e 240 do CPP) não está prequestionada, pois não foi debatida no acórdão recorrido, tampouco foram opostos embargos de declaração para sanar eventual omissão quanto à análise desse tema, circunstância que atrai a aplicação, por analogia, das Súmulas n. 282 e 356 do STF.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se, inclusive as vítimas, para ciência do resultado do julgamento.
+EMENTA
