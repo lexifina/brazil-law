@@ -1,0 +1,40 @@
+DECISÃO
+eTrata-se de recurso especial interposto por ISAIAS DUARTE, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, que, ao não conhecer dos embargos de declaração, manteve a decisão que negara provimento ao seu agravo em execução penal.
+O recorrente sustenta, em síntese, a violação do artigo 619 do Código de Processo Penal (CPP), por omissão do Tribunal a quo em analisar teses defensivas cruciais. Argumenta que o acórdão recorrido não se manifestou sobre: a ausência de previsão legal para a utilização do trânsito em julgado do processo administrativo disciplinar como marco interruptivo da prescrição da falta grave; a atipicidade da conduta por ausência de dolo (elemento subjetivo); o pedido subsidiário de desclassificação da falta para média ou leve.
+Requer, assim, a anulação do acórdão dos embargos de declaração para que o Tribunal de origem se pronuncie sobre as matérias omitidas ou, alternativamente, que esta Corte reconheça de imediato a prescrição da pretensão punitiva disciplinar.
+Foram apresentadas contrarrazões ao recurso especial (e-STJ fls. 469-474).
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Roberto Luís Oppermann Thomé, opinou pelo conhecimento e provimento do recurso especial. Ressaltou a violação ao artigo 619 do CPP, afirmando que o Tribunal a quo "omitiu-se não se manifestando sobre a tese defensiva apresentada", notadamente quanto à ausência de marco interruptivo legal para a prescrição (e-STJ fls. 503-507).
+É o relatório.
+Decido.
+O recurso é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF), e apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+No que tange à alegação de contrariedade aos dispositivos legais indicados, por se tratar de matérias de direito, conheço do recurso e passo à análise.
+O recurso justifica seu provimento.
+A controvérsia central reside na situação segundo a qual o Tribunal Regional Federal da 5ª Região, instado por meio de embargos de declaração, deixou de analisar questões fundamentais para o deslinde da causa, como exige o art. 619 do CPP.
+Segundo consta, o apenado, ora recorrente, foi punido por falta grave cometida em 24/11/2020. O Tribunal de origem afastou a tese de prescrição sob o argumento de que o prazo trienal não havia transcorrido entre a data do fato (24/11/2020) e o trânsito em julgado da decisão administrativa (15/05/2023).
+A defesa, contudo, desde o agravo em execução, sustenta tese juridicamente relevante e que demanda enfrentamento explícito: a inexistência, no ordenamento jurídico, de previsão que estabeleça o "trânsito em julgado administrativo" como marco interruptivo da prescrição da falta grave. Argumenta-se que a aplicação analógica de marcos interruptivos não previstos em lei configura analogia in malam partem, vedada em Direito Penal.
+Ao que consta, o acórdão que julgou o agravo em execução, ao fixar o trânsito em julgado administrativo como termo final do prazo prescricional, o fez sem refutar o argumento central da defesa: a ausência de base legal para tal marco. Limitou-se a constatar que, entre as datas, não transcorreu o lapso de três anos.
+Diante dessa omissão, a defesa opôs embargos de declaração, apontando expressamente os pontos que necessitavam de análise: (a) o marco interruptivo da prescrição; (b) o elemento subjetivo da conduta; e (c) a desclassificação da falta.
+Contudo, o Tribunal a quo não conheceu dos embargos, sob o fundamento de que se tratava de "tentativa de reexame das matérias" e que o embargante sequer "indicou em qual das hipóteses do art. 619 do CPP a decisão incidiria". Tal fundamentação deixa de ser a melhor. Como bem demonstrado nas razões do Recurso Especial, os embargos de declaração foram explícitos ao indicar a existência de omissões, uma das hipóteses taxativas do art. 619 do CPP. Não se tratava de mero inconformismo, mas da busca legítima por uma prestação jurisdicional completa, que esgotasse a análise das teses defensivas. Tenham, ou não, razão tais alegações.
+Esta colenda Corte Superior possui entendimento consolidado de que o julgador não é obrigado a responder a todos os argumentos das partes, desde que encontre motivo suficiente para fundamentar sua decisão. No entanto, a recusa em analisar uma tese central, que poderia alterar substancialmente o resultado do julgamento  como a prescrição  , distingue-se da prerrogativa de fundamentação sucinta. Neste sentido:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO NO EXAME DA ALEGAÇÃO DE BIS IN IDEM. VIOLAÇÃO DO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. ORDEM CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra acórdão do TJES que rejeitou embargos de declaração opostos, sem análise da alegação de bis in idem na dosimetria da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se houve omissão no acórdão de apelação quanto à análise de bis in idem , e avaliar se a omissão configurou negativa de prestação jurisdicional.
+III. RAZÕES DE DECIDIR
+3. A dosimetria da pena deve observar critérios de proporcionalidade e da discricionariedade para sopesar as circunstâncias judiciais.
+4. A negativa de prestação jurisdicional ocorre quando o tribunal não se manifesta sobre matéria essencial, violando o dever de fundamentação das decisões judiciais. No caso, o Tribunal de origem rejeita os embargos de declaração sob o argumento de que não se prestam ao reexame de mérito, sem, contudo, analisar a alegada ocorrência de bis in idem.
+5. A ausência de manifestação sobre matéria essencial justifica a concessão do habeas corpus para que o tribunal de origem examine o mérito do pleito.
+IV. HABEAS CORPUS CONCEDIDO.
+(HC n. 849.125/ES, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025.)"
+No caso, a questão do marco interruptivo da prescrição em sede de execução penal é complexa e vem sendo objeto de maturação na jurisprudência. Deixar de analisá-la, sob a consideração de que a matéria já fora analisada quando, na verdade, não o foi sob o prisma invocado pela defesa, justifica complementação do julgado.
+As demais omissões apontadas  ausência de análise do dolo e do pedido de desclassificação  também são relevantes. O acórdão objetivou-se a afirmar que a conduta se amolda ao tipo objetivo e que não há prova de inimputabilidade, sem, contudo, adentrar na discussão sobre o elemento subjetivo específico ou na proporcionalidade da sanção, teses expressamente levantadas pela defesa.
+Assim, justifica-se a restituição dos autos à origem para que se aperfeiçoe julgado com sua complementação, adstrito aos requerimentos da defesa.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao Recurso Especial para anular o acórdão proferido no julgamento dos embargos de declaração (id. 4050000.47898256) e determinar que o Tribunal Regional Federal da 5ª Região proceda a novo julgamento, manifestando-se expressamente sobre as teses defensivas como criteriosamente entender , notadamente:
+a) A ausência de previsão legal para considerar o trânsito em julgado do procedimento administrativo como marco interruptivo da prescrição;
+b) A alegação de atipicidade da conduta por ausência do elemento subjetivo do tipo (dolo);
+c) O pedido subsidiário de desclassificação da falta para média ou leve.
+Comunique-se, com urgência, o Tribunal de Origem.
+Publique-se. Intimem-se.
+EMENTA
