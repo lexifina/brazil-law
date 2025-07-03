@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. PROCESSO CIVIL. PRELIMINAR. CERCEAMENTO DE DEFESA. REJEITADA. ANULAÇÃO DE NEGÓCIO JURÍDICO. DESCABIMENTO. HONORÁRIOS SUCUMBENCIAIS. CONTESTAÇÃO E A RECONVENÇÃO. MESMO OBJETO. RECURSO DOS RÉUS DESPROVIDO. RECURSO DOS AUTORES PARCIALMENTE PROVIDO.
+1. Afasta-se a preliminar de cerceamento de defesa pela não produção de prova oral se o contrato celebrado entre as partes fez previsão expressa sobre a existência de processos judiciais que pendiam sobre o imóvel transacionado, tornando dispensável a oitiva de testemunhas para provar o mesmo fato.
+2. Confirma-se a sentença que rejeita a pretensão de anulação de negócio jurídico se o principal fundamento para o pedido de anulação é a alegação de que o bem transacionado tinha processos pendentes, mas o contrato menciona expressamente a existência dos litígios.
+3. A fixação de honorários dentro dos percentuais mínimo e máximo previstos no CPC, na prática, tem acarretado situações bastante complexas em que a verba honorária acaba superdimensionada em relação ao próprio bem da vida perseguido na lide. Se a contestação e a reconvenção têm o mesmo objeto e se confundem, admite-se a fixação da verba sucumbencial contra os réus-reconvintes apenas com base no valor da causa, dentro dos percentuais previstos pelo CPC.
+4. Recurso dos réus improvido. Recurso dos autores parcialmente provido.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 112, 113 e 140 do Código de Processo Civil de 2015, além de divergência jurisprudencial. Sustenta cerceamento de defesa, pois indeferida a prova com a qual pretendia demonstrar divergência entre os termos do contrato e a real vontade das partes contratantes.
+Assim posta a questão, observo não ser possível acolher a tese de cerceamento de defesa. Com efeito, cumpre esclarecer que o magistrado é o destinatário das provas e, em virtude de seu livre convencimento motivado, decide se há necessidade ou não de maior dilação probatória, podendo o julgador, mesmo de forma antecipada, ante o seu poder geral de cautela, proferir sentença.
+No caso em exame, foi requerida prova oral a fim de que se demonstrasse que os bens objeto do contrato em discussão estavam em litígio, o que caracterizaria inadimplemento. Ocorre que, segundo o acórdão recorrido, o próprio instrumento contratual era expresso no sentido de que havia processos judiciais pendentes a respeito dos imóveis negociados. Veja-se, a propósito, o que consta do acórdão recorrido (fl. 1442):
+( ) conforme observado na sentença e reconhecido pelos apelantes, toda a fundamentação do julgamento baseou-se no contrato escrito, que contém previsões explícitas quanto às pendências judiciais sobre o bem negociado.
+( )
+No contrato celebrado entre as partes, houve previsão expressa sobre processos judiciais que pendiam direta ou indiretamente sobre o imóvel. O juiz salienta as cláusulas expressas que, se cumpridas, evidenciariam a dispensa de oitiva de testemunhas.
+( )
+A cessionária declara expressamente que, além de vistoriar completamente o imóvel, "conheceu e analisou toda a documentação originária, os processos judiciais, os registros e averbações existentes em sua matrícula que foram registrados pelo 3º Cartório do Registro de Imóveis de Taguatinga- DF".
+Diante da clara exposição sobre o prévio conhecimento da existência de processos judiciais que poderiam, em tese, ameaçar a aquisição, a prova testemunhal que se pudesse produzir nã o teria a mesma equivalência probatória do contrato escrito. A previsão contratual descarta a ocorrência de vícios que seriam aferíveis em prova testemunhal, pois
+mencionou-se a existência de processos judiciais e litígios.
+Vê-se, portanto, que o indeferimento da prova foi justificado e, com base no princípio da duração razoável do processo, era dever do juiz indeferir a prova inútil.
+Ademais, a alegação de que a prova era necessária, a despeito dos trechos acima citados, não dispensa a interpretação de cláusulas contratuais e o reexame de prova, o que faz aplicáveis as Súmulas 5 e 7/STJ. Ressalte-se que a afirmação de que a prova serviria para demonstrar descompasso entre o que pactuado por escrito e a real vontade das partes, além de não superar as Súmulas citadas, não condiz com o objetivo da prova tal como descrito no acórdão recorrido.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
