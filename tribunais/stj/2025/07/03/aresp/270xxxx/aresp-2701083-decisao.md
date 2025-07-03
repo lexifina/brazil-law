@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DO RIO DE JANEIRO contra inadmissão, na origem, de recurso especial fundamentado no art. 105, inciso III, alínea "a", da Lei Maior, manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, resumido na seguinte ementa (fl. 31):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO DE PRIMEIRO GRAU QUE DETERMINOU A BAIXA E ARQUIVAMENTO DA EXECUÇÃO, TENDO EM VISTA A EXPEDIÇÃO DE CERTIDÃO DE CRÉDITO E PROTESTO DO TÍTULO JUDICIAL. O ATO EXECUTIVO CONJUNTO TJ/CGJ Nº 07/2014 ADMITIU EXPRESSAMENTE O PROTESTO DE TÍTULOS E OUTROS DOCUMENTOS DE DÍVIDA, OBJETIVANDO CONTRIBUIR PARA O CUMPRIMENTO DE OBRIGAÇÃO IMPOSTA EM SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO E PARA A REDUÇÃO DO ACERVO DE PROCESSOS. A EXPEDIÇÃO DE CERTIDÃO DE CRÉDITO PARA FINS DE PROTESTO IMPÕE NOVO MEIO DE COAÇÃO PARA PAGAMENTO DA DÍVIDA, NÃO SE FAZENDO NECESSÁRIA A TRAMITAÇÃO DO PROCESSO DE EXECUÇÃO. A DECISÃO RECORRIDA FOI PROFERIDA DE ACORDO COM O DISPOSTO NO ATO EXECUTIVO CONJUNTO TJ/CGJ Nº 07/2014. RECURSO DESPROVIDO.
+Opostos embargos de declaração pelo Estado agravante (fls. 49-54), eles foram rejeitados (fls. 65-68), consoante a ementa abaixo transcrita (fl. 66):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. INEXISTÊNCIA DOS REQUISITOS JUSTIFICADORES DOS EMBARGOS. MERA DISCORDÂNCIA COM O CONTEÚDO DO ACORDÃO, QUE É CONTRÁRIO AOS SEUS INTERESSES, AO ARGUMENTO DA NECESSIDADE DE PREQUESTIONAMENTO PARA ACESSO ÀS INSTÂNCIAS EXTRAORDINÁRIAS. DESNECESSIDADE DE ESPECIFICAÇÃO OBRIGATÓRIA E EXPRESSA DE TODOS OS DISPOSITIVOS LEGAIS QUE FUNDARAM O CONVENCIMENTO DO ÓRGÃO JULGADOR, DESDE QUE TENHA ENFRENTADO TODOS OS ASPECTOS JURÍDICOS RELEVANTES QUE FORAM SUBMETIDOS À SUA COGNIÇÃO. INADIMISSIBILIDADE DE UTILIZAÇÃO DE EMBARGOS DE DECLARAÇÃO COMO INSTRUMENTO DE REVISÃO DO JULGADO. RECURSO DESPROVIDO.
+Em seu recurso especial de fls. 77-90, o ente federativo aduz que o acórdão recorrido viola os arts. 921, §3º, e 924 do Código de Processo Civil.
+Destaca que a obrigação objeto da presente demanda não foi satisfeita, não houve renúncia ao crédito, tampouco a recorrida obteve a quitação de sua dívida.
+Frisa que a decisão destoa do conteúdo normativo do art. 921, §3º, do CPC, que determina o prosseguimento da execução a qualquer tempo, quando encontrados bens penhoráveis, ao negar diligência requerida pelo Estado, sem apresentar fundamento razoável ou legítimo.
+Alega, ainda, que o juízo primevo indeferiu a realização de inúmeras diligências que seriam relevantes para atestar o estado patrimonial da devedora.
+Pontua que o art. 517, §§1º e 2º, do Diploma Processual Civil, embora permita o protesto da decisão judicial tão logo escoe o prazo do pagamento voluntário, não quis dizer que, uma vez exercida a faculdade dada ao credor, essa escolha resulte na impossibilidade de prosseguimento da execução.
+Ao final, postula o provimento do recurso.
+O Tribunal de origem, às fls. 106-112, inadmitiu o recurso especial, pelo fundamento infracitado:
+As alegações trazidas pelo recorrente a fundamentar a pretensa violação possuem caráter genérico, dificultando a inteligência do recurso, já que não indica quais seriam especificamente as reais violações a normas legais, o que atrai a aplicação, por analogia, do verbete nº 284 da Súmula do e. STF, verbis: (..)
+Em seu agravo (fls. 138-146), o recorrente argumenta que a decisão de inadmissão não explica o porquê de a fundamentação do recurso ser considerada sucinta ou insuficiente, tendo se limitado a tecer considerações de cunho genérico.
+Considera que o juízo de origem exerceu uma análise propriamente do mérito recursal, em patente invasão da competência do Superior Tribunal de Justiça.
+Replica as teses apresentadas no recurso especial.
+Requer que seja provido o agravo.
+Mantida a decisão em sede de juízo de retratação (fl. 196).
+É o relatório.
+Decido.
+A insurgência não pode ser conhecida.
+De plano, verifica-se que não é adequada a impugnação da fundamentação da decisão agravada, porquanto o agravante não infirmou o fundamento utilizado para a inadmissão de seu recurso especial.
+A decisão de inadmissão do apelo raro pautou-se na incidência, por analogia, da Súmula nº 284 do STF, porque "as alegações trazidas pelo recorrente a fundamentar a pretensa violação possuem caráter genérico, dificultando a inteligência do recurso, já que não indica quais seriam especificamente as reais violações a normas legais" (fl. 107).
+Na decisão objurgada, entendeu-se que o recurso especial estava deficientemente fundamentado por não ter especificado as violações a normas infraconstitucionais, o que de fato ocorreu, porquanto, em nenhum momento, o recorrente enfrentou a fundamentação do acórdão impugnado, baseado principalmente nas disposições do Ato Executivo Conjunto TJ/CGJ nº 7/2014.
+De outra banda, no agravo, o Estado resume-se a insistir na tese de que o Tribunal a quo teria exercido análise propriamente do mérito recursal, em patente invasão da competência do Superior Tribunal de Justiça, bem como repete os mesmos argumentos apresentados no seu recurso especial.
+Vê-se que o recorrente não infirma o fundamento da decisão de inadmissão do recurso especial. Dessa forma, à míngua de impugnação específica e pormenorizada, o fundamento da decisão de inadmissão permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Por conseguinte, ao deixar de rechaçar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade, atraindo a incidência da previsão contida nos arts. 932, inciso III, do Estatuto Processual Civil, e 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Do mesmo modo, incide, no caso em apreço, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido, vejamos o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. AUSÊNCIA DE ATAQUE AO TEOR DA DECISÃO AGRAVADA. INAPLICABILIADADE DO PRINCÍPIO DA DIALETICIDADE RECURSAL. CARÊNCIA DE APONTAMENTO DE DISPOSITIVO DE LEI FEDERAL OBJETO DE DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o STJ, "em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ". (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024).
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.735.121/MS, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 26/2/2025, DJEN de 6/3/2025, negritei)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATE O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, PARÁGRAFO ÚNICO, DO RISTJ, E ENUNCIADO DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
