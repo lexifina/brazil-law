@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 627/628):
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE APLICOU TESE FIRMADA EM SEDE DE INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. TARIFAS. UTILIZAÇÃO DOS SERVIÇOS BANCÁRIOS. MANUTENÇÃO. PEDIDO APARTADO DE INSTAURAÇÃO DE NOVO IRDR. ART. 977, II, DO CPC. PLEITO NÃO CONHECIDO. RECURSO DESPROVIDO.
+1. No caso em comento, a parte agravante busca reforma do entendimento anteriormente manifestado, a fim de que seja reconhecida a inexistência do negócio jurídico, ao argumento de que não houve a manifestação de vontade.
+2. Como bem consignado na decisão ora agravada, "a conta bancária da parte autora, aqui apelante, não é utilizada exclusivamente para recebimento e saque de benefício, possuindo movimentações típicas de uma conta-corrente, como, por exemplo, utilização de cheque especial, prática que se enquadra como serviços prioritários, passíveis de cobrança de tarifas e, portanto, não fazem parte do pacote gratuito de serviços essenciais, de acordo com o art. 3º da Resolução 3.919 do BACEN".
+3. Os argumentos apresentados pela parte recorrente são insuficientes para desconstituir os fundamentos que embasam a decisão atacada, devendo, portanto, ser mantida, especialmente por se tratar de entendimento já firmado em sede do Incidente de Resolução de Demandas Repetitivas n.º 3.043/2017.
+4. Sobre o pedido de instauração de incidente de resolução de demandas repetitivas, o art.
+977, II, do CPC, estabelece que o pleito formulado pelas partes será dirigido diretamente ao Presidente do Tribunal.
+5. Não conhecido o pleito.
+6. Agravo interno conhecido e desprovido.
+Opostos os embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. II, 489, § 1º, VI, 927, III, 976, 978, parágrafo único, 1.021, § 3º, 1.022, I e II, parágrafo único, II, do Código de Processo Civil; ao art.104, III, do Código Civil; e, aos arts. 6º, III, 14, § 3º, l e II, 39, III, do Código de Defesa do Consumidor.
+Sustenta que houve negativa de prestação jurisdicional em razão do erro de premissa fática, pois concluiu que a parte contrária fez prova extintiva do direito do autor, quando inexiste contrato de requisição do pacote padronizado de tarifa bancária, para fins de comprovação da manifestação de vontade.
+Afirma que foi enviado ao consumidor, sem solicitação prévia, o pacote padronizado de tarifa bancária.
+Alega que houve violação ao dever de informação e ausência de manifestação de vontade na contratação do negócio jurídico.
+Defendeu a condenação do banco ao pagamento de indenização, tendo em vista os prejuízos sofridos em razão da cobrança indevida de pacote padronizado de tarifas bancárias sem a expressa pactuação.
+Aduz que o acórdão conferiu interpretação divergente à tese firmada em sede de IRDR 3.043/2017.
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a Corte local manteve sentença de improcedência considerando que o recorrente utilizou efetivamente dos serviços bancários, de forma que aderiu ao pacote de serviços, conforme se depreende do trecho do acórdão abaixo transcrito (e-STJ, fl. 640):
+MÉRITO DO RECURSO  No caso em comento, a parte agravante busca reforma do entendimento anteriormente manifestado, a fim de que seja reconhecida a inexistência do negócio jurídico, ao argumento de que não houve a manifestação de vontade.
+Embora tenha a parte recorrente impugnado, especificamente, os fundamentos da decisão monocrática, nos termos do art. 1.021, § 1º, do CPC, não encontro fundamentos, além daqueles já expostos, a ensejar o provimento do agravo interno.
+Como bem consignado na decisão ora agravada "a conta bancária da parte autora, aqui apelante, não é utilizada exclusivamente para recebimento e saque de benefício, possuindo movimentações típicas de uma conta - corrente, como, por exemplo, utilização de cheque especial, prática que se enquadra como serviços prioritários, passíveis de cobrança de tarifas e, portanto, não fazem parte do pacote gratuito de serviços essenciais, de acordo com o art. 3º da Resolução 3.919 do BACEN".
+Desse modo, compreendo que os argumentos apresentados pela parte agravante são insuficientes para desconstituir os fundamentos que embasam a decisão atacada, devendo, portanto, ser mantida, especialmente por se tratar de entendimento já firmado em sede do Incidente de Resolução de Demandas Repetitivas n.º 3.043/2017.
+DO PEDIDO DE INSTAURAÇÃO DE INCIDENTE DE DEMANDAS REPETITIVAS  Nos termos do art. 977, II, do CPC, o pleito de instauração de incidente de resolução de demandas repetitivas formulado pelas partes será dirigido diretamente ao Presidente do Tribunal.
+Desse modo, não conheço do pedido.
+No que se refere à alegada negativa de prestação jurisdicional, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos.
+No caso em exame, a Corte local afastou as alegações do recorrente ao argumento de que este utilizava a conta bancária não apenas para recebimento de benefício previdenciário, possuindo movimentações típicas de uma conta - corrente, o que demonstra a concordância na utilização das vantagens exclusivas da conta remunerada.
+Com efeito, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes a fim de expressar o seu convencimento. Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, Página 3 de 4DJe de 1/12/2022).
+Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+No tocante ao mérito, a Corte de origem dispôs que "a conta bancária da parte autora, aqui apelante, não é utilizada exclusivamente para recebimento e saque de benefício, possuindo movimentações típicas de uma conta-corrente, como, por exemplo, utilização de cheque especial, prática que se enquadra como serviços prioritários, passíveis de cobrança de tarifas e, portanto, não fazem parte do pacote gratuito de serviços essenciais, de acordo com o art. 3º da Resolução 3.919 do BACEN".
+Assim, da leitura do acórdão verifica-se que o comportamento do autor evidencia a concordância na utilização das vantagens exclusivas de conta remunerada.
+A revisão das premissas adotadas no acórdão recorrido quanto à ausência de abusividade das cobranças de tarifas realizadas na conta bancária demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) aquantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiária da justiça gratuita.
+Intimem-se.
+EMENTA
