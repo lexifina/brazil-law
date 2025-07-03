@@ -1,0 +1,15 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça, assim ementado (fl. 58):
+AGRAVO REGIMENTAL MINISTERIAL NO HABEAS CORPUS CONCESSÃO LIMINAR DA ORDEM PELO RELATOR. AUSÊNCIA DE PRÉVIA OITIVA DO MINISTÉRIO PÚBLICO FEDERAL. POSSIBILIDADE. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N.14.843/2024. APLICAÇÃO IMEDIATA. IMPOSSIBILIDADE. NORMA DE CONTEÚDO MATERIAL MAIS GRAVOSA. IRRETROATIVIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA NA DETERMINAÇÃO DO EXAME. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONCESSÃO DE ORDEM DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurara viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica". (AgRg no HC n. 514.048/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 06/08/2019, DJe 13/08/2019).
+2. A Lei n. 14.843/2024, ao alterar o § 1º do art. 112 da Lei de Execuções Penais, instituiu requisito novo para a progressão de regime, de conteúdo material mais gravoso, razão pela qual não pode ser aplicada retroativamente, em respeito ao art. 5º, XL, da Constituição Federal, e ao art. 2º do Código Penal.
+3. A exigência do exame criminológico somente pode ser imposta caso fundamentada em elementos concretos que demonstrem sua necessidade para a aferição dos requisitos subjetivos da progressão de regime, nos termos da Súmula 439 do STJ.
+4. No caso, a decisão que condicionou a progressão ao exame criminológico baseou-se unicamente na gravidade abstrata do crime praticado, sem indicar elementos concretos ocorridos no curso da execução penal, o que configura flagrante constrangimento ilegal sanável por meio de habeas corpus.
+5. Agravo regimental não provido.
+Às fls. 91-94, o recorrido informou que foi submetido a exame criminológico, tendo o Juízo da Execução proferido nova decisão autorizando a progressão de regime, razão pela qual afirma ter havido a perda superveniente do objeto do presente recurso extraordinário.
+Intimado a se manifestar, o Ministério Público Federal opinou pelo reconhecimento da "perda de interesse do julgamento do recurso extraordinário  ..  interposto às fls. 75/84 e-STJ, em razão da perda superveniente do seu objeto" (fl. 102).
+É o relatório.
+2. Com efeito, já tendo sido realizado o exame criminológico do recorrido e deferida a progressão de regime pleiteada, verifica-se o esvaziamento do interesse no julgamento do recurso extraordinário, diante da perda superveniente do seu objeto.
+3. Ante o exposto, julgo prejudicado o recurso extraordinário de fls. 75-84, devendo ser cert ificado o trânsito em julgado, com posterior baixa dos autos.
+Publique-se. Intimem-se.
+EMENTA
