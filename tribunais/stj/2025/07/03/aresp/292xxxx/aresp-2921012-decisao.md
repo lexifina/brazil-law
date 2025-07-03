@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 7 do STJ e 284 do STF (fls. 2.340-2.342).
+O acórdão recorrido encontra-se assim ementado (fl. 2.251):
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA. AVENTADA PRELIMINAR DE INÉPCIA DA INICIAL. DESACOLHIMENTO. PETIÇÃO INICIAL QUE NÃO DEVE SER CONSIDERADA INEPTA, PORQUANTO AUSENTE QUALQUER HIPÓTESE PREVISTA NO ART. 330, § 1º, DO CPC. MÉRITO. ALEGAÇÃO DE QUE NÃO HÁ COMPROVAÇÃO DOS LUCROS CESSANTES. INSUBSISTÊNCIA. COMPROVAÇÃO PELA PARTE AUTORA DO QUE DEIXOU DE AUFERIR EM RAZÃO DA RESCISÃO CONTRATUAL. PRETENSÃO DE RECONHECIMENTO DE SENTENÇA ULTRA PETITA. TESE RECHAÇADA. PERÍODO DE PAGAMENTO DOS LUCROS CESSANTES QUE SE COADUNA COM O PEDIDO INICIAL. RECLAMO DA ILIQUIDEZ DA SENTENÇA. SEM RAZÃO. IMPORTE QUE DEVE SER APURADO EM LIQUIDAÇÃO DE SENTENÇA. IRRESIGNAÇÃO DA PARTE RÉ. PRETENSÃO DE AMPLIAÇÃO DO CÁLCULO PARA A MÉDIA DE FATURAMENTO DOS ÚLTIMOS DOZE MESES DA EMPRESA. DESACOLHIMENTO. PERÍODO CALCULADO CONFORME O PEDIDO FORMULADO NA EXORDIAL. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS MAJORADOS. RECURSOS CONHECIDOS E DESPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 2.283-2.285).
+Nas razões do recurso especial (fls. 2.299/2.309), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(a) arts. 489, § 1º, IV e 1.022, II, do CPC, por negativa de prestação jurisdicional, e
+(b) art. 373, I do CPC e 720 do CC, ao não exigir prova suficiente dos lucros cessantes e ao estender indevidamente o prazo de aviso prévio.
+Argumenta que a sentença e o acórdão reconheceram a falta de provas documentais e periciais que demonstrassem os valores devidos a título de lucros cessantes, o que, segundo a Recorrente, deveria ter levado à manutenção do prazo legal de 90 dias.
+No agravo (fls. 2.352-2.356), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 2.361-2.366).
+É o relatório.
+Decido.
+Na origem, trata-se de uma ação de indenização por danos materiais e morais ajuizada por ENFOQUEZ COMÉRCIO LTDA. e QHEOUNE"Z COMÉRCIO LTDA. contra BONYPLUS INDÚSTRIA E COMÉRCIO, IMPORTADORA E EXPORTADORA DE COSMÉTICOS LTDA. As autoras buscam reparação por danos alegadamente sofridos devido à interrupção de um contrato entre as partes, pleiteando o pagamento de danos morais, danos emergentes e lucros cessantes (fls. 2.299-2.300).
+A sentença de primeira instância foi de parcial procedência, reconhecendo a existência de lucros cessantes decorrentes da rescisão contratual unilateral realizada pela ré. A decisão determinou a elaboração do cálculo com base na média dos últimos três meses de vigência do contrato de distribuição, apurando-se o montante equivalente ao lucro líquido de oito meses (fls. 2.247-2.248).
+O acórdão do Tribunal de Justiça de Santa Catarina, ao julgar as apelações interpostas, manteve a sentença de parcial procedência. A corte estadual rejeitou a alegação de inépcia da inicial e a tese de ausência de comprovação dos lucros cessantes, afirmando que a parte autora demonstrou o montante investido para auferir lucro, justificando a condenação da ré ao pagamento dos lucros cessantes. Além disso, o acórdão negou provimento ao recurso da ré que pretendia ampliar o cálculo para a média de faturamento dos últimos doze meses, mantendo o período calculado conforme o pedido inicial (fls. 2.246-2.250).
+A BONYPLUS, inconformada com a decisão, interpôs Recurso Especial, alegando violação de dispositivos de lei federal, especialmente no que tange à extensão do prazo de aviso prévio para além dos 90 dias previstos no art. 720 do CC, sem provas suficientes dos lucros cessantes. A recorrente busca a reforma do acórdão para restaurar a vigência dos dispositivos legais mencionados (fls. 2.299-2.309).
+Não há falar em afronta aos arts. 489 e 1.022 do CPC/2015, pois a agravante limitou-se a apontar violação do referido artigo, não especificando, de forma clara e precisa, como e em que medida o acórdão recorrid o o teria afrontado. Portanto, incide no caso, por analogia, a Súmula n. 284 do STF.
+Além disso, modificar o entendimento do acórdão impugnado quanto à comprovação dos lucros cessantes, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
