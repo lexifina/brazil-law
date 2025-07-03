@@ -1,0 +1,23 @@
+DECISÃO
+ESTER KESIA DOS SANTOS VASCONCELOS interpõe agravo regimental contra decisão de fls. 609-610, proferida pela Presidência desta Corte Superior de Justiça, que não conheceu do agravo em recurso especial, em razão do enunciado na Súmula n. 182 do STJ.
+A defesa alega que, "diferentemente do que consta na r. decisão atacada, a parte agravante impugnou os fundamentos da decisão atacada" (fl. 619).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que sejam, em síntese, acolhidas as teses aventadas no recurso especial.
+Decido.
+De fato, entendo que assiste razão à agravante quando afirma que a decisão de fls. 609-610 se equivocou ao aplicar a Súmula n. 182 do STJ.
+O Tribunal a quo obstou o prosseguimento do recurso especial pelo seguinte fundamento: Súmula n. 83 do STJ.
+A agravante, nas razões do agravo em recurso especial, impugnou o argumento invocado pela Corte de origem, motivo pelo qual afasto a incidência do enunciado na Súmula n. 182 do STJ e, dentro do juízo de retratação inerente ao agravo regimental, reconsidero a decisão de fls. 609-610, na extensão e nos termos a seguir aduzidos.
+Consequentemente, uma vez que o agravo é tempestivo e infirmou os fundamentos da decisão agravada, passo à nova análise do recurso especial, por meio do qual a defesa aponta violação dos arts. 33, § 4º, e 42, da Lei n. 11.343/2006 e pretende, em síntese, a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas no patamar máximo de 2/3.
+No tocante ao patamar de redução de pena efetivada em decorrência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, constato que o Tribunal de origem entendeu devida a incidência da fração de 1/6, com base nos seguintes fundamentos (fl. 473):
+E, diferentemente do que pretende a Defesa, não há que se cogitar na aplicação da fração máxima de diminuição de 2/3 (dois terços) pela referida minorante.
+Embora o legislador não tenha estabelecido os critérios utilizados para aplicação da minorante na terceira fase de dosimetria da pena, a doutrina e jurisprudência têm adotado as balizas do art. 59 do Código Penal e as diretrizes do art. 42 da Lei n. 11.343/2006.
+Na situação em tela, a apelante foi detida transportando expressiva quantidade de maconha, mais precisamente 31,804 kg (trinta e um quilos e oitocentos e quatro gramas). Apesar da natureza da droga não ser tão nociva, a vultosa quantidade justifica maior rigor na dosagem da pena.
+Avaliando a operação dosimétrica realizada pelo juiz singular na sentença guerreada (doc. 103), verifica-se que a pena-base foi corretamente fixada no patamar mínimo legal, sendo o critério da quantidade de droga utilizada na 3ª fase, para adotar a fração mínima de 1/6 (um sexto).
+O critério da fração de diminuição é discricionário e, no caso em tela, ao revés do alegado, observa-se que o sentenciante adotou o patamar de redução de forma escorreita, fundamentando de forma clara a fração mínima diante da abundante quantidade de droga apreendida.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Uma vez que, no caso, a instância de origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6 (grande quantidade de drogas apreendidas), não identifico a apontada violação legal.
+Relembro, por fim, que o juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso.
+Fica, então, mantida inalterada a reprimenda aplicada à ré.
+À vista do exposto, reconsidero a decisão de fls. 609-610, apenas a fim de, com fundamento no art. 932, V, "b", do CPC, c/c o art. 3º do CPP, e no art. 253, parágrafo único, II, "b", parte final, do RISTJ, conhecer do agravo e negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
