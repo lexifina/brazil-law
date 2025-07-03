@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS À DEFENSORIA PÚBLICA ESTADUAL - TEMA 1002, DO STF - NÃO CABIMENTO - HONORÁRIOS ARBITRADOS DE FORMA EQUITATIVA, NOS TERMOS DO ART. 85, § 8.º, DO CPC - PREQUESTIONAMENTO - REMESSA NECESSÁRIA NÃO CONHECIDA - RECURSO CONHECIDO E NÃO PROVIDO .
+O julgamento do Tema 1002, pelo Supremo Tribunal Federal, reconheceu o direito de a Defensoria Pública receber honorários advocatícios de sucumbência contra qualquer ente público, inclusive aquele ao qual a instituição está vinculada.
+Diante da impossibilidade de estimar o proveito econômico da parte, visto que a propositura de ação de obrigação de fazer importou em amparo de um direito fundamental, por expressa previsão legal (artigo 85, § 8.º, do CPC), os honorários advocatícios devem ser fixados por apreciação equitativa do juiz.
+Recurso conhecido e não provido (fl. 324).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 85, §§ 3º, 4º, III e 6º-A, todos do CPC, no que concerne à necessidade de que os honorários advocatícios sejam arbitrados com base em percentual sobre o proveito econômico obtido pela parte vencedora, descabendo-se a utilização do critério da equitatividade, pois a causa possui valor definido, além disso, a fazenda pública figura no polo passivo da demanda. Argumenta:
+Pois bem. O Acórdão recorrido negou vigência ao art. 85, §§ 2º, 3º e 6º-A do Código de Processo quando manteve os honorários de sucumbência fixados na Sentença nos termos do art. 85, §8 do Código de Processo Civil, desconsiderando que a causa tinha valor definido. E mais, que a parte devedora é a Fazenda Pública.
+Neste contexto, considerando que o bem da vida tem valor aferível, que a parte vencida é a Fazenda Pública Estadual, que para a presente hipótese há previsão legal no Código de Processo Civil com critérios para a fixação dos honorários de sucumbência, não há dúvidas e, nem eventual margem de interpretação quanto a devida e coerente aplicação do art. 85, §§2º, 3º e 6º-A no tocante a fixação da verba honorária de sucumbência.
+ ..
+Extrai-se que o v. Acórdão recorrido utiliza a apreciação equitativa para fixação dos honorários em demanda cujo proveito econômico é certo e determinado, de modo a violar e negar vigência aos critérios e parâmetros estabelecidos pelo art. 85, §3º, inciso I do Código de Processo Civil de 2015.
+Nesse sentido, é mister a incidência dos limites e critérios previstos no §3º do artigo 85 do Código de Processo Civil de 2015, na fixação dos honorários de sucumbência, uma vez que a incidência do §8º (arbitramento por equidade) se dá apenas e tão somente quando o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou o valor da causa for muito baixo, o que não é o caso dos autos (fl. 346).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sen tido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" ;(AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
