@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Agravo apresentado por GUSTAVO MARCATTO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - INDEFERIMENTO DE ARRESTO CAUTELAR DE BENS PERTENCENTES AOS EXECUTADOS - INCONFORMISMO DO EXEQUENTE - ALEGADA POSSIBILIDADE DE EFETIVAÇÃO DO ARRESTO COM NATUREZA CAUTELAR - IMPROCEDÊNCIA DA INSURGÊNCIA - AUSÊNCIA DE ELEMENTOS COMPROBATÓRIOS, AO MENOS NO EXAME PREFACIAL TÍPICO DAS LIMINARES, DO PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO - NECESSIDADE DE AGUARDO DO CONTRADITÓRIO PARA EVENTUAL REEXAME DA QUESTÃO - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 300 e 301 do CPC, no que concerne à possibilidade de realização do arresto cautelar, eis que presentes os requisitos legalmente exigidos, trazendo a seguinte argumentação:
+Deve-se ressaltar que todas as tentativas de citação do Recorrido resultaram, até o momento, infrutíferas, indicando claramente sua ocultação. Este fato é corroborado pela impossibilidade de localizá-lo mesmo no endereço por ele próprio indicado no "Termo de Confissão e Assunção de Dívida".
+A providência pleiteada pelo Recorrente visa salvaguardar a eficácia do processo, garantindo, assim, a satisfação do crédito perseguido.
+ ..
+Assim, Eminentes Ministros, resta evidenciado que todos os requisitos para o deferimento do arresto cautelar encontram-se preenchidos no presente caso. Deixar de aplicá-los seria esvaziar a eficácia dos artigos 300 e 301, ferindo o direito processual do Recorrente (fl. 100).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Este não é o caso dos autos, não restando devidamente comprovado o perigo de dano ou risco ao resultado útil do processo se não concedida a antecipação da tutela postulada.
+Efetivamente, conquanto não se vislumbrem elementos para descartar de pronto a probabilidade do direito invocado, não se mostra, em sede de cognição sumária, típica das liminares, possível inferir, com base na documentação acostada pelo exequente, o perigo de dano e risco ao resultado útil do processo com o aguardo, ao menos, da vinda do contraditório.
+Com efeito, não se evidenciam manobras maliciosas para ocultação de patrimônio visando à frustação de credores, não havendo prova de que eventuais manobras evasivas já estariam ocorrendo. As arguições das presentes razões recursais, portanto, podem indicar e justificar eventual deferimento oportuno da pretensão, mas não, desde logo, a concessão da liminar pretendida.
+Sendo assim, a pretensão exige análise mais aprofundada, o que escapa dos limites do exame superficial típico das tutelas de urgência (fl. 74).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
