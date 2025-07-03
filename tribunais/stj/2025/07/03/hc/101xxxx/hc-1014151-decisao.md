@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Matheus Correia Borges, em que se aponta como autoridade coatora a 1ª CÂMARA CRIMINAL DA COMARCA DE GOIÂNIA - GO (HC n.º 5479145-96.2025.8.09.0051).
+Consta dos autos que o paciente foi preso em flagrante no dia 17 de junho de 2025, sob a acusação de estar, juntamente com outros dois indivíduos, desmontando um veículo TOYOTA/HILUX com registro de furto no Estado de São Paulo. Segundo o relato policial, o grupo foi surpreendido no interior de um galpão, onde desobedeceram inicialmente à ordem de abertura do local, sendo posteriormente presos.
+O Tribunal de origem manteve a prisão preventiva do paciente. O juízo de primeira instância entendeu pela legalidade da custódia cautelar, que posteriormente teve indeferida liminar em habeas corpus impetrado no Tribunal competente.
+Neste writ , o impetrante sustenta a ilegalidade da prisão preventiva, destacando que o paciente é primário, possui residência fixa e que o crime imputado não envolve violência ou grave ameaça, sendo possível a imposição de medidas cautelares diversas da prisão, conforme previsto no artigo 319 do Código de Processo Penal. Aduz que a pena máxima cominada ao delito não ultrapassa 8 (oito) anos, o que não justificaria a imposição de regime fechado, conforme artigo 33, §2º, alínea c, do Código Penal.
+Acrescenta que não há contemporaneidade nos fundamentos da prisão cautelar, tampouco presença dos requisitos do periculum libertatis, sendo ausentes elementos que demonstrem risco à ordem pública, à instrução criminal ou à aplicação da lei penal. Ressalta que a manutenção da prisão se revela desproporcional e em desconformidade com os princípios da dignidade da pessoa humana e da intervenção mínima.
+Requer, liminarmente, a suspensão dos efeitos da prisão preventiva, com a consequente colocação do paciente em liberdade até o julgamento final do presente writ, com aplicação de medidas cautelares que se entenderem adequadas.
+No mérito, pleiteia que seja concedida a ordem de habeas corpus para substituir a prisão preventiva por medidas cautelares diversas, nos termos do artigo 319 do Código de Processo Penal, restabelecendo-se, assim, a legalidade e a ordem jurídica violadas.
+É o relatório.
+De início, ressalto que, na via do habeas corpus, faz-se necessário que a prova se constitua previamente, devendo a impetração vir instruída de toda a documentação necessária para a análise do pleito.
+No caso em tela, todavia, constata-se que a parte impetrante não juntou aos autos a cópia da decisão que decretou a prisão preventiva, tampouco a íntegra da decisão impugnada, peças que se revelam essenciais para a devida compreensão da controvérsia. Ressalta-se que a decisão de fls. 12/14 não se refere ao paciente, mas a outro corréu.
+Dessa forma, a pretensão ora formulada não pode ser conhecida, porque a Defesa não se desincumbiu do seu ônus de instruir devidamente o feito.
+Nesse sentido: RCD no HC n. 860.640/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023, DJe de 29/11/2023; AgRg no HC n. 837.638/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023; e AgRg no HC n. 827.576/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
