@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por RONEY CHARLES GOMES DA SILVA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (e-STJ fl. 41):
+EMENTA: PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO CRIMINAL. DECISÃO QUE HOMOLOGOU FALTA GRAVE POR PRÁTICA DE NOVO CRIME, DECRETOU A REGRESSÃO DEFINITIVA DE REGIME PARA O FECHADO, SEM A PERDA DE DIAS REMIDOS. INVIABILIDADE. INTERPRETAÇÃO DO ART. 127, DA LEP. PODER-DEVER DO JUIZ DE REVOGAR ATÉ 1/3 (UM TERÇO) DOS DIAS REMIDOS. APLICAÇÃO DA SANÇÃO. DISCRICIONARIEDADE DO JULGADOR SOMENTE QUANTO À FRAÇÃO DA PERDA. CONSEQUÊNCIA IMPOSTA POR LEI. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO REFORMADA. AGRAVO CONHECIDO E PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 50/63), fundado na alínea a do permissivo constitucional, alega a parte recorrente violação do artigo 127 da Lei n. 7.210/84. Requer a reforma da decisão que determinou a perda dos dias remidos em virtude do cometimento de falta grave, ao argumento de que se trata de uma faculdade do Magistrado, e não uma obrigatoriedade, como afirmou o Tribunal de Justiça local.
+Invoca a jurisprudência do STJ e a decisão do Juízo de primeiro grau que entendeu, diante da precariedade da situação carcerária do Estado do Rio Grande do Norte, pela desnecessidade de decretação da perda parcial dos dias remidos.
+Apresentadas contrarrazões (e-STJ fls. 87/94), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 75/78), tendo sido interposto o presente agravo (e-STJ fls. 87/94).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do agravo (e-STJ fls. 112/115).
+É o relatório. Decido.
+Presentes os pressupostos de admissibilidade e impugnados os fundamentos da decisão agravada, conheço do agravo.
+O recurso especial, entretanto, não merece ser conhecido.
+A Corte local deu provimento ao recurso do Ministério Público Estadual para declarar a perda dos dias remidos pelo recorrente, em patamar a ser fixado pelo Magistrado de primeiro grau, tudo em virtude do cometimento de falta grave. Destacou-se, no acórdão recorrido, que o Superior Tribunal de Justiça permanece com o posicionamento de que é obrigatória a perda de dias remidos quando cometida falta grave, cabendo ao juiz atuação discricionária no que se refere à aplicação da fração prevista (e-STJ fl. 43).
+De fato, A jurisprudência do STJ estabelece que a prática de falta grave durante a execução penal implica em regressão de regime, perda de dias remidos e alteração da data-base para concessão de benefícios (salvo o livramento condicional, a comutação de pena e o indulto), não cabendo invocar o princípio da proporcionalidade para afastar tais consequências, (AgRg no HC n. 957.330/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/4/2025, DJEN de 14/4/2025, g.n.).
+Como o entendimento adotado no acórdão recorrido está de acordo com a jurisprudência desta Corte Superior, o seguimento do presente recurso esbarra no óbice da Súmula n. 83/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL. NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. PRINCÍPIO DA COLEGIALIDADE. OFENSA NÃO CONFIGURADA. PRÁTICA DE CRIME DOLOSO NO CURSO DA EXECUÇÃO. FALTA GRAVE. REGRESSÃO DE REGIME. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus que discutiu a regressão de regime prisional e a perda de dias remidos em razão de cometimento de crime doloso no curso da execução penal.
+2. O Juízo da Execução Penal homologou a prática de falta grave.
+3. O Tribunal de origem não conheceu do habeas corpus impetrado pela Defesa, que alegava nulidade pela não realização de audiência de justificação e pela regressão de regime sem o trânsito em julgado do novo delito.
+II. Questão em discussão
+4. A discussão consiste em saber se a prática de novo delito durante a execução da pena, sem o trânsito em julgado da condenação, pode ser considerada falta grave, ensejando a regressão de regime e a perda de dias remidos.
+III. Razões de decidir
+5. A decisão monocrática do Relator do habeas corpus não afronta o princípio da colegialidade, tampouco configura cerceamento de defesa, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão permite que a matéria seja apreciada pela Turma.
+6. O reconhecimento de falta grave decorrente de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória, conforme entendimento consolidado na Súmula n. 526/STJ.
+7. A decisão de regressão de regime e perda de dias remidos está em consonância com a jurisprudência do STJ, que admite tais medidas diante da prática de novo delito durante a execução da pena.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória. 2. A decisão de regressão de regime e perda de dias remidos é válida diante da prática de novo delito durante a execução da pena. Dispositivos relevantes citados: LEP, arts. 52, 118, I; CP, art. 33, §2º, "a".Jurisprudência relevante citada: STJ, AgRg no HC n. 954.214/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/2/2025, DJEN de 18/2/2025; AREsp n. 2.459.633/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025; AgRg no HC n. 888.874/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024; STJ, Súmula n. 526.
+(AgRg no RHC n. 206.735/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025, g.n.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECUSO ESPECIAL. EXECUÇÃO PENAL. ROMPIMENTO DE TORNOZELEIRA ELETRÔNICA. FUGA. FALTA GRAVE. REGRESSÃO DE REGIME. CONSEQUÊNCIA LEGAL. PRECEDENTES. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior de Justiça de Justiça é pacífica quanto às consequências do reconhecimento de falta disciplinar de natureza grave praticada pelo apenado no curso da execução penal: (i) regressão de regime prisional; (ii) perda de dias remidos; (iii) alteração da data-base para a concessão de benefícios da execução (salvo o livramento condicional, a comutação de pena e o indulto).
+2. Nos termos do art. 118, I, da LEP, a execução da pena privativa de liberdade fica sujeita à forma regressiva, podendo ocorrer para qualquer dos regimes mais rigorosos, sendo certo que não cabe ao magistrado proceder à análise do conteúdo da falta disciplinar para verificar a possibilidade de regressão, já que o dispositivo em comento não concede essa margem de discricionariedade ao julgador (HC 210.062/SC, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julga do em 19/03/2015, DJe 06/04/2015).
+3. Deve ser restabelecida a decisão que reconheceu a falta grave (rompimento de tornozeleira eletrônica e fuga) e, por consequência, determinou a regressão do apenado ao regime mais gravoso, sendo incabível invocar o princípio da proporcionalidade.
+4. Agravo regimental não p rovido.
+(AgRg no AREsp n. 2.298.821/GO, minha relatoria, Quinta Turma, julgado em 8/8/2023, DJe de 14/8/2023, g.n.)
+Ante o exposto, com fundamento no art. 932, inciso VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, inciso II, alínea a do RISTJ, e na Súmula n. 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
