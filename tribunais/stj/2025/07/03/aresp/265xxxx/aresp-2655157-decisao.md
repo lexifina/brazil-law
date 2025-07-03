@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MINISTÉRIO PÚBLICO FEDERAL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fls. 1.618/1.619):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. LEI 8.429/1992 ALTERADA PELA 14.230/2021. INDISPONIBILIDADE DE BENS. REQUISITOS PARA DECRETAÇÃO DA MEDIDA CONSTRITIVA NÃO DEMONSTRADOS. IMPOSSIBILIDADE. AGRAVO PROVIDO.
+1. As alterações promovidas pela Lei 14.230/2021 têm aplicação imediata aos feitos em andamento.
+2. A indisponibilidade de bens somente será deferida após a oitiva do réu e desde que demonstrado o perigo de dano irreparável ou o risco ao resultado útil do processo.
+3. A oitiva poderá ser dispensada sempre que o contraditório prévio puder, comprovadamente, frustrar a efetividade ou houver outras circunstâncias que recomendem a proteção liminar, não podendo a urgência ser presumida.
+4. Ausentes os requisitos para decretação da constrição, pois não demonstrada dilapidação do patrimônio pelo requerido.
+5. Agravo de instrumento a que se dá provimento.
+Os embargos de declaração opostos foram rejeitados (fls. 338/344).
+Nas razões do recurso especial, o MPF alega violado o art. 1.022 do Código de Processo Civil (CPC), pois omisso o acórdão acerca da inaplicabilidade da lei atual em relação a ato processual realizado sob a égide da lei anterior e contraditório acerca da inexistência de demonstração do dano, havendo "provas robustas dos atos de improbidade cometidos pelos requeridos, que resultaram no dano ao Erário, de R$ 3.353.869,98" (fl. 329).
+Aduz ofendido o art. 14 do CPC, pois sendo a decisão de bloqueio um ato processual praticado e consolidado sob a lei anterior, não poderia vir a ser regido pela legislação processual atual.
+Enfatiza violado o art. 16 da Lei 8.429/92, na sua redação original, devendo ser presumido o perigo de dano em ação por ato de improbidade, bastando a demonstração de fortes indícios do ato ímprobo (fumus boni iuris).
+Cita a tese firmada pelo Supremo Tribunal Federal no Tema 1.199 a estabelecer a irretroatividade das novas disposições da Lei de Improbidade.
+O recurso não foi admitido na origem, razão da interposição do presente agravo.
+O Ministério Público opinou pela devolução dos autos ao Tribunal a quo para aguardar o julgamento do Tema 1.257/STJ (fls. 411/414).
+É o relatório.
+A controvérsia trazida no recurso especial inadmitido diz com a retroatividade das normas presentes na Lei 14.230/2021 no tocante aos requisitos para a concessão da indisponibilidade de bens e, ainda, a negativa de prestação jurisdicional.
+Os óbices identificados na decisão agravada não se sustentam, razão por que conheço do agravo e passo ao exame do recurso especial.
+O acórdão recorrido aplicou a Lei 14.230/2021, indeferindo o pedido de indisponibilidade de bens, pois ausente a demonstração de atos tendentes à frustração do resultado útil do processo e, ainda, por inexistirem indícios de ausência de prestação de contas pelo agravante, como ex-prefeito do Município e Barras/PI, relativamente aos recursos repassados pelo FNDE, ou mesmo do dano ao erário.
+A propósito (fl. 302):
+No caso dos autos, não ficou demonstrada a ocorrência de dano ao erário ou de risco ao resultado útil do processo, ante a inexistência de indícios de ausência de prestação de contas pelo agravante, como ex-prefeito do Município e Barras/PI, relativamente aos recursos repassados pelo FNDE, razão pela qual não é possível extrair a razoabilidade da concessão do pedido de indisponibilidade dos seus bens , sem a regular instrução processual. Ausentes, portanto, os requisitos para sua concessão, nos termos do art. 16, §§3º e 4º, da Lei 8.429/1992 (incluídos pela Lei 14.230/2021), verbis:
+ ..
+A intenção da norma foi tornar, em caso de improbidade administrativa, efetivo o ressarcimento ao patrimônio público, finalidade que é viabilizada por meio da medida cautelar de indisponibilidade dos bens (art. 7º, parágrafo único, da Lei 8.429/1992).
+A indisponibilidade de bens, de acordo com a novel legislação, somente será deferida após a oitiva do réu e desde que demonstrado no caso concreto o perigo de dano irreparável ou o risco ao resultado útil do processo.
+A oitiva poderá ser dispensada sempre que o contraditório prévio puder, comprovadamente, frustrar a efetividade da medida ou houver outras circunstâncias que recomendem a proteção liminar, não podendo a urgência ser presumida.
+No caso vertente, não demonstrado o dano causado ao erário em razão da suposta fraude imposta ao réu, ora agravante, como ex-gestor do Município de Barras/PI, relativamente aos recursos repassados pelo FNDE, incabível a medida de indisponibilidade de bens.
+No tocante à negativa de prestação jurisdicional, razão não assiste ao recorrente.
+Não se pode dizer omisso o acórdão acerca da aplicação retroativa da Lei 14.230/2021, pois ele é claro ao analisar a questão e ao concluir pela sua aplicabilidade, não consubstanciando omissão a ausência de análise da questão sob os influxos do art. 14 do CPC, senão pretensão de reforma da conclusão a que chegou o órgão julgador.
+À mesma conclusão se chega em relação à sustentada contradição. Os julgadores hão de ter considerado as provas até então acostadas para concluir pela inexistência de demonstração do dano efetivo ao erário.
+Portanto, inexiste a alegada violação do art. 1.022 do Código de Processo Civil, tendo, o Tribunal de origem, apreciada fundamentadamente a controvérsia, sem que nos seus fundamentos se identifique erro material, omissão, contradição ou obscuridade.
+Por outro lado, o recorrente sustenta ter errado o órgão julgador local ao retroagir as regras constantes na Lei 14.230/2021.
+Bem analisados os fundamentos do acórdão recorrido, a tão só ausência de retroatividade das normas constantes nessa lei não alcançaria o efeito pretendido pelo recorrente.
+É que o acórdão pautou-se, não só na aplicação da atual necessidade de demonstração do perigo de dano irreparável ou do risco ao resultado útil do processo, incluída pela Lei 14.230/2021, mas, também, no fato de não se ter evidenciado o fumus boni iuris, requisito exigido para a concessão da indisponibilidade antes e depois da relevante reforma levada a efeito em 2021.
+Por isso, careceria o recurso especial da devida impugnação de um dos fundamentos essenciais formulados no acórdão no sentido do indeferimento da indisponibilidade de bens, razão da atração da Súmula 283/STF, por analogia.
+Por outro lado, razão não acompanha o Ministério Público no tocante à alegação impossibilidade de aplicação das novéis regras previstas no §3º do art. 16 da LIA, incluídas pela Lei 14.230/2021.
+O entendimento manifestado no acórdão recorrido está em estreita sintonia com o quanto pacificado por esta Corte Superior quando do julgamento do Tema 1.257, ocasião em que a Primeira Seção do Superior Tribunal de Justiça firmou a seguinte tese: "As disposições da Lei 14.230/2021 são aplicáveis aos processos em curso, para regular o procedimento da tutela provisória de indisponibilidade de bens, de modo que as medidas já deferidas poderão ser reapreciadas para fins de adequação à atual redação dada à Lei 8.429/1992".
+Naquele precedente qualificado, ponderou-se o quanto disposto no art. 296 do CPC, no sentido de que "a tutela provisória conserva sua eficácia na pendência do processo, mas pode, a qualquer tempo, ser revogada ou modificada" e, ainda, o quanto previsto no art. 493 do CPC, a determinar que, "se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão", concluindo-se, dada a possibilidade de modificação ou revogação da tutela provisória de indisponibilidade de bens a qualquer tempo, que devem ser aplicadas as novas regras trazidas na Lei 14.230/2021 aos processos em curso.
+Relembro, ainda, que os Temas Repetitivos 701 e 1.055 foram cancelados porque não mais encontram amparo na Lei de Improbidade Administrativa .
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
