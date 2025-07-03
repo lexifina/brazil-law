@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RENATO LIMA DO ESPIRITO SANTO contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que, nos autos do Agravo em Execução n. 5002037-88.2025.8.19.0500, negou provimento à insurgência defensiva, mantendo o indeferimento das saídas temporárias (Execução n. 0198646-94.2013.8.19.0001, Vara de Execuções Penais do Rio de Janeiro Cartório Final RG 5 e 6).
+A defesa alega, em síntese, que é incabível e ilegal exigir o cumprimento de maior lapso temporal, não previsto em lei, vez que tal constitui flagrante ofensa ao princípio da legalidade estrita, em detrimento do apenado, o que, evidentemente, é inaceitável (fl. 10).
+Sustenta que o paciente faz jus ao deferimento de saída temporária para Visita Periódica à Família, sendo um direito subjetivo, já que se encontra cumprindo pena no regime semiaberto, possui excepcional comportamento carcerário, bem como está em compatibilidade com os objetivos da pena, ou seja, reintegração do preso à sociedade (fl. 22).
+Pede, em caráter liminar e no mérito, a concessão da visita periódica ao lar (fls. 2/23).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+A progressão ao regime semiaberto não traz como consequência automática o deferimento da benesse relativa às saídas temporárias, a qual necessita que o apenado satisfaça requisitos específicos elencados no art. 123 da Lei de Execução Penal.
+Nesse sentido, entre outros, da minha relatoria, o AgRg no AREsp n. 683.107/RJ, Sexta Turma, DJe 4/8/2015; e o HC n. 241.411/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/11/2012. Da Quinta Turma, o HC n. 241.780/RJ, Ministra Laurita Vaz, DJe 24/10/2012.
+Na hipótese, o Juízo da execução asseverou que o apenado não possui comportamento satisfatório, tendo histórico de falta grave no curso da execução. Além disso, possui índice de periculosidade alta no SIPEN, conforme consulta ora juntada, o que não pode deixar de ser observado por este juízo, especialmente no presente caso em que o apenado é reincidente em crime praticado com violência e/ou grave ameaça à pessoa. Nesse sentido, embora o apenado tenha resgatado o mérito carcerário, ainda não preencheu o requisito subjetivo como um todo (fl. 51).
+O Tribunal a quo afirmou que se mostra patente ser prematura a concessão da aludida benesse, pois ausente de comprovação o requisito subjetivo, a impossibilitar ao julgador a imprescindível avaliação de tais circunstâncias, a fim de verificar se a concessão do beneplácito pretendido, pelo menos neste momento, é adequada aos fins ressocializador e retributivo da pena (fl. 36).
+Com efeito, é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para a concessão de benefícios da execução penal, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita (HC n. 551.536/MG, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 26/2/2020).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. SAÍDAS TEMPORÁRIAS. INDEFERIMENTO. FALTA DO PRESSUPOSTO LEGAL. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PRECEDENTES.
+Petição inicial indeferida liminarmente.
