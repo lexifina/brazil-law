@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por BEATRIZ FRANCISCA FERREIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento da apelação n. 1.0000.17.089407-5/001, assim ementado (fl. 1682):
+APELAÇÃO CÍVEL - JUÍZO DE RETRATAÇÃO - CPC, ART. 1.030, II - JULGAMENTO DE RECURSO ESPECIAL SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS - PROFESSORA DESIGNADA - SERVIÇO PÚBLICO ESTADUAL - EFETIVAÇÃO PELA LEI COMPLEMENTAR 100/2007 - DECLARAÇÃO DE INCONSTITUCIONALIDADE NA ADI 4.876 - FGTS - TEMA 1.020 DO STJ - VERBA DEVIDA - PRESCRIÇÃO - PRAZO QUINQUENAL - DECRETO 20.910/1932 - NORMA ESPECIAL - MODIFICAÇÃO PARCIAL DO JULGADO, EM JUÍZO DE RETRATAÇÃO
+1. O Superior Tribunal de Justiça reconheceu que "os servidores efetivados pelo Estado de Minas Gerais submetidos ao regime estatutário, por meio de dispositivo da LCE n. 100/2007, declarado posteriormente inconstitucional pelo STF na ADI 4.876/DF, têm direito aos depósitos no FGTS referentes ao período irregular de serviço prestado" (Tema 1.020).
+2. Tendo sido, a autora, efetivada no cargo de Professora da Educação Básica pela Lei Complementar 100/2007, impõe-se a reforma parcial do acórdão, em juízo de retratação, para julgar procedente o pedido inicial referente ao FGTS.
+3. Aos depósitos de FGTS reconhecidos pelo c. Superior Tribunal de Justiça como devidos aos servidores efetivados pela Lei Complementar 100/2007, deve-se observar o prazo prescricional quinquenal previsto no Decreto 20.910/1932, por se tratar de disposição específica a reger a prescrição das ações em face da Fazenda Pública.
+4. Acórdão reformado em parte, em juízo de retratação.
+Nas razões do recurso especial, a parte recorrente alega (fls. 1802-1803):
+ ..
+o marco inicial de fixação da prescrição deve ser determinado como sendo a data do julgamento da ADI 4.876, compreendendo todo o período em que o servidor esteve vinculado ao Estado de Minas Gerais, por meio da LCE 100/2007, pois pretensão somente nasceu em abril de 2014, a partir da declaração de inconstitucionalidade;
+ ..
+Consequentemente, considerando que a demanda teve início em novembro de 2015, não há que se falar em direito ao recebimento somente dos 05 (cinco) anos anteriores a propositura da demanda, pelo fato de que a pretensão nasceu em abril de 2014, com o julgamento da ADI 4.876, devendo ser determinado o pagamento do FGTS sobre todo o período trabalhado, aplicando-se ao caso concreto a prescrição trintenária.
+Contrarrazões às fls. 1807-1816.
+O recurso foi admitido na origem (fl. 1820-1823).
+É o relatório.
+Decido.
+Sobre a pretensão recursal, o Supremo Tribunal Federal decidiu a controvérsia nos autos do ARE n. 709212, relator Ministro Gilmar Mendes, julgado em 13/11/2014, DJEN de 19/02/2015, sob a sistemática da repercussão geral (Tema n. 608), fixando a seguinte tese vinculante: "O prazo prescricional aplicável à cobrança de valores não depositados no Fundo de Garantia por Tempo de Serviço (FGTS) é quinquenal, nos termos do art. 7º, XXIX, da Constituição Federal. "
+Ademais, foram modulados os efeitos da decisão, determinando-se que a mesma produziria efeitos não retroativos.
+Nesse contexto, impõe-se a remessa dos autos à origem, para que, depois de realizado o juízo de conformação, o recurso especial, se for o caso, seja encaminhado a esta Corte Superior, para que, aqui, possam ser analisadas eventuais questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+A propósito:
+ ..
+III - Dos dispositivos, arts. 1.030, 1.040, II, e 1.041 do CPC/2015, denota-se que cabe ao Ministro Relator, com o julgamento do paradigma, determinar a devolução dos autos ao Tribunal de origem, para que seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial, uma vez que, ao que se tem dos presentes autos, não houve qualquer manifestação de juízo de retratação negativa ou positiva quanto ao ponto.
+IV - Desse modo, prestigia-se o propósito racionalizador da sistemática dos recursos representativos de controvérsia que estabelece ser de competência dos Tribunais de origem, de forma exclusiva e definitiva, a adequação do caso em análise à tese firmada no julgamento de recurso repetitivo, de modo a inviabilizar a interposição de qualquer outro recurso subsequente a esta Corte que trate da mesma matéria.
+V - O referido entendimento restou assentado no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, com a atribuição de competência ao relator para "determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis". Nesse sentido: AgInt no AREsp 729.327/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 05/02/2018 e AgInt no AREsp 523.985/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018.
+VI - Correta a decisão que determinou o retorno dos autos ao Tribunal de origem, com a devida baixa nesta Corte, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015.
+VII - Agravo interno improvido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.461.494/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024; sem grifos no original.)
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 608 do STF, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FGTS. PRESCRIÇÃO TRIENÁRIA OU QUINQUENAL. TEMA N. 608 DO STF. MODULAÇÃO DE EFEITOS. NECESSIDADE DE REALIZAÇÃO DO JUÍZO DE CONFORMAÇÃO. PREJUDICADA A ANÁLISE DO RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
