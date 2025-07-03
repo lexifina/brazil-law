@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por PROMED - ASSISTÊNCIA MÉDICA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO - OBRIGAÇÃO DE FAZER - RESTABELECIMENTO - PLANO DE SAÚDE - ILEGITIMIDADE PASSIVA - PRELIMINAR - REJEITADA - RESPONSABILIDADE CIVIL - CANCELAMENTO INDEVIDO - DANOS MORAIS - CONFIGURADOS - RESSARCIMENTO DEVIDO. NEGAR PROVIMENTO AO RECURSO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne a não ocorrência de danos morais, tendo em vista que atendeu a uma solicitação de cancelamento do contrato feita pela administradora do plano Qualicorp, em razão de inadimplência da recorrida, trazendo a seguinte argumentação:
+A Recorrente foi condenada a pagar a quantia de R$ 5.000,00 (cinco mil reais) por danos morais à Recorrida sem que tenha praticado ato ilícito, havido falha na prestação de serviços ou causado danos a sua usuária.
+Porém, conforme comprovado a QUALICORP ADM DE BENFÍCICIOS SA. é a empresa responsável pela administração do plano de saúde contratado pela Recorrida, recebendo todos os valores à título de mensalidade e todos os valores diretamente do beneficiário e quem determina a inclusão ou exclusão de beneficiários, bem como cancelamento do plano, não havendo que se falar em ato ilícito por parte da Recorrente capaz de gerar indenização por dano moral.
+Ora, é evidente que a Recorrente não cometeu ato ilícito algum, não podendo, portanto, ser lhe imposta a obrigação de indenizar algo que não deu causa, e principalmente, de um dano que não existiu, ou seja, a Recorrente apenas seguiu a disposição contratual e ao que foi solicitado pela administradora do plano.
+Assim, a solicitação de cancelamento do contrato feita pela administradora do plano Qualicorp, em razão da inadimplência da Recorrida, jamais pode ser entendida como ato ilícito da Recorrente, vez que decorre do estrito exercício regular de direito da operadora de planos de saúde, o que evidencia a inexistência de ato ilícito o que denota a completa ausência do dever de reparação civil.
+Logo, não há como prosperar a condenação ao pagamento de indenização por danos morais quando o pressuposto indissociável do ato ilícito não se encontra presente.
+Ademais, no caso em tela, não foi violada a intimidade e a honra da Recorrida, se tratando de estrito cumprimento do contrato e mero dissabor da beneficiária do plano de saúde (fls. 416/422).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Por conseguinte, e tendo em vista que as regras da legislação consumerista se aplicam aos contratos de plano de saúde, evidente a ilicitude da conduta da ré, que rescindiu, de modo unilateral e injustificado, o contrato de prestação de saúde, deixando a autora sem cobertura contratual.
+Assim, comprovada a conduta ilícita da ré, não há dúvida acerca do nexo de causalidade entre sua conduta e o dano causado à parte autora, não havendo que se cogitar de mero descumprimento contratual.
+ ..
+No caso em apreço, tendo em vista o abalo ao qual a autora foi submetida pelo indevido cancelamento do plano de saúde e negativa de atendimento de urgência, resta caracterizados os danos morais indenizáveis.
+ ..
+Assim, comprovada a responsabilidade civil do demandado, devida a obrigação de indenizar a requerente pelos danos morais suportados (fls. 369/371).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido: "A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior" (AgInt no AREsp n. 2.616.315/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 16/10/2024).
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.754.542/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.511.934/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024; AgInt no AREsp n. 2.426.291/RJ, relator Ministro Humberto Martins, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.057.498/TO, relator Ministro Humberto Martins, Segunda Turma, DJe de 30/3/2023; AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022; AgInt no AREsp n. 1.966.714/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 21/11/2022; AgInt no AREsp n. 2.031.975/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
