@@ -1,0 +1,2 @@
+Modifica os arts. 65 e 115 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para alterar circunstância atenuante e vedar a redução do prazo de prescrição para os crimes que envolvam violência sexual contra a mulher, quando o agente for, na data do fato, menor de 21 (vinte e um) anos ou, na data da sentença, maior de 70 (setenta) anos de idade.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
