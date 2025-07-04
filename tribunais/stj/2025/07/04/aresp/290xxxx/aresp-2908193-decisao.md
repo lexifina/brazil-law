@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial, interposto por SYLVIA LANDESMANN FREY contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 50, e-STJ):
+AGRAVO INTERNO Interposição contra decisão que julga intempestivo o recurso de agravo de instrumento Inconformismo da parte Não cabimento Ausência de demonstração em sentido contrário "Decisum" mantido Recurso improvido.
+Em suas razões de recurso especial (fls. 54-69, e-STJ), a insurgente aponta, além de dissídio jurisprudencial, violação aos artigos 1.003, §5º, do Código de Processo Civil, 1º da Lei nº 8.009/1990 e 6º da Constituição Federal. Aduz, em suma, que: a) o agravo interno é tempestivo, pois a impenhorabilidade do bem de família é matéria de ordem pública, arguível a qualquer tempo, não sujeita a preclusão; b) a aplicação da multa prevista no art. 1021, § 4º, do CPC, foi indevida, já que o recurso não foi protelatório, visando apenas garantir a devida apreciação de questão de ordem pública. Pede a atribuição de efeito suspensivo ao reclamo e o sobrestamento do feito para aguardar o julgamento do Tema 1183/STJ.
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dada a ausência de recolhimento da multa imposta no acórdão recorrido (fls. 95-96, e-STJ), o que justificou a interposição do presente agravo (fls. 99-108, e-STJ).
+Apresentada contraminuta às fls. 111-119, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Inicialmente, é descabida a pretensão de sobrestamento do recurso para aguardar o julgamento do Tema 1183/STJ.
+Isso porque não há coincidência entre a matéria que será dirimida no aludido repetitivo ("Definir qual a natureza do crédito oriundo do rateio de despesas e cobrado por associações de moradores, se propter rem ou pessoal, a fim de viabilizar, ou não, a penhora do bem de família.") e o objeto do presente agravo - exigibilidade do recolhimento da multa prevista no art. 1.021, §4º, do CPC, como condição de admissibilidade do reclamo -, tampouco com a temática tratada no acórdão recorrido, o qual se limitou a não conhecer do agravo de instrumento em razão de sua intempestividade, não adentrando na controvérsia de mérito atinente à penhorabilidade do bem.
+2. O Tribunal de origem, na decisão agravada (fls. 95-96, e-STJ), constatou que, no julgamento do agravo interno, a recorrente foi condenada ao pagamento da multa prevista no artigo 1021, § 4º, do CPC, não tendo sido efetuado o pagamento da referida penalidade aplicada no acórdão.
+Diante da ausência do pressuposto recursal objetivo de admissibilidade, qual seja, o recolhimento prévio da multa aplicada no aresto recorrido, a Corte Estadual negou seguimento ao recurso especial.
+Nas razões do presente agravo, a parte insurgente alega que a exigência do prévio recolhimento da penalidade afigura-se indevida, pois não há conduta abusiva de sua parte, de modo que representaria obstáculo ao acesso ao duplo grau de jurisdição e ofensa ao direito à ampla defesa.
+Não obstante as razões declinadas pela insurgente, esta Corte Superior possui orientação no sentido de que o prévio recolhimento da multa processual prevista no artigo 1021, § 4º, do CPC, imposta ao litigante, constitui pressuposto recursal objetivo de admissibilidade, de maneira que a ausência de comprovante de seu depósito obsta o conhecimento do recurso interposto posteriormente à condenação.
+Nesse sentido, citam-se os seguintes precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, §4º, DO CPC APLICADA. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA. DECISÃO MANTIDA.
+1. Ação de cobrança.
+2. Nos termos do §5º do art. 1021, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no §4º, à exceção da Fazenda Pública e ao beneficiário da justiça gratuita que farão o pagamento ao final.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.668.624/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)  grifou-se
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO PELO TRIBUNAL DE ORIGEM DA MULTA DO ART. 1.021, § 4º, DO CPC/2015. NECESSIDADE DE RECOLHIMENTO PRÉVIO. AUSÊNCIA. ARESP NÃO CONHECIDO.
+1. Nos termos do § 5º do art. 1.021 do CPC/2015, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, exceção feita à Fazenda Pública e ao beneficiário da justiça gratuita, que farão o pagamento ao final.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1613280/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/11/2020, DJe 27/11/2020)  grifou-se
+PROCESSUAL CIVIL. CIVIL. AÇÃO INDENIZATÓRIA. INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. PRESCRIÇÃO. OCORRÊNCIA. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE RECOLHIMENTO PRÉVIO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015, NOS TERMOS DO § 5º DO MESMO DISPOSITIVO LEGAL. RECURSO NÃO CONHECIDO ALEGAÇÕES DE VÍCIOS. INEXISTENTES.
+I - Na origem, trata-se de ação indenizatória por danos materiais, em razão da movimentação indevida da conta-corrente da autora, por pessoa já excluída do seu quadro societário, acarretando-lhe prejuízo financeiro, em decorrência da falha na prestação de serviço pela instituição financeira.
+II - Na sentença, julgou-se exinto o feito, por ocorrência da prescrição, sendo fixados honorários advocatícios em 15% sobre o valor da causa. Condenou, ainda, o litisdenunciante ao pagamento de honorários advocatícios arbitrados em 10% do valor da causa, em razão da extinção da lide secundária. No Tribunal a quo, a sentença foi anulada, determinando-se o retorno dos autos ao Juízo de origem, para a instrução probatória. Nesta Corte, deu-se provimento ao recurso especial para reconhecer a ocorrência da prescrição, restabelecendo-se a sentença do Juízo de origem. Interposto agravo interno, negou-se provimento ao recurso com aplicação de multa de 3% sobre o valor atualizado da causa. Em decisão monocrática não se conheceu dos embargos de divergência.
+III - Considerando que houve o decurso do prazo para a parte apresentar o comprovante de pagamento, e que a parte embargante não providenciou o recolhimento da multa indicada no acórdão objeto dos embargos de divergência, como condição para a interposição do recurso, os embargos de divergência não devem ser conhecidos, nos termos do art. 1.021, §5º do CPC/2015, segundo o qual: "A interposição de qualquer outro recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final". Nesse sentido: EDcl no AgInt no AREsp n. 1.386.541/RJ, Rel. Ministro Mauro Campbell marques, segunda turma, julgado em 13/8/2019, DJe 19/8/2019 e AgInt no AREsp n. 1.240.613/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 29/4/2019, DJe 2/5/2019).
+IV - Agravo interno improvido.
+(AgInt nos EAREsp 1136518/BA, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 22/09/2020, DJe 29/09/2020)  grifou-se
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. FALTA DE RECOLHIMENTO. NÃO CONHECIMENTO DO RECURSO. INTIMAÇÃO. DESCABIMENTO. PRECEDENTES DO STJ. DECISÃO MANTIDA.
+1. "Segundo a clara dicção do artigo 1.021, § 5º, do Código de Processo Civil de 2015, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento" (EDcl no AgInt no AREsp n. 859.529/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/8/2016, DJe 29/8/2016), o que ocorreu.
+2. "Como o pressuposto objetivo de admissibilidade do recurso diz respeito ao prévio depósito do valor da multa, não há que se cogitar da necessidade de concessão de prazo para que o vício seja sanado, sendo o pagamento posterior da penalidade admitido apenas nas hipóteses legalmente previstas" (AgInt no AREsp n. 1.149.021/SE, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/5/2018, DJe de 21/5/2018), daí por que não há falar em intimação da parte para recolher tal encargo, ao invés de negar conhecimento de plano ao recurso.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1658762/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 31/08/2020, DJe 08/09/2020)  grifou-se
+Ademais, mesmo na hipótese de o objeto recursal versar sobre a legalidade da sanção aplicada, como é o caso dos autos, o recolhimento prévio da multa é medida que se impõe, como pressuposto objetivo de admissibilidade do recurso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AINDA QUE O OBJETO DO RECURSO ESTEJA RELACIONADO COM A LEGALIDADE D A MULTA APLICADA. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE. LITIGÂNCIA DE MÁ-FÉ DA PARTE AGRAVANTE.
+INEXISTÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos do art. 1.021, § 5º, do NCPC, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+ ..  3. Agravo interno improvido.
+(AgInt no AREsp 1.669.718/SC, rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/08/2020.)  grifou-se
+Desse modo, não tendo a parte agravante comprovado o recolhimento do valor da multa aplicada pelo Tribunal de origem, impõe-se o não conhecimento do recurso especial.
+3. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Diante do não conhecimento do recurso, fica prejudicado o exame do pedido de efeito suspensivo.
+Publique-se.
+Intimem-se.
+EMENTA
