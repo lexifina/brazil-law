@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de LUCAS DA SILVA MOREIRA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0077449-26.2023.8.19.0001.
+Na inicial, a Defesa informa que o paciente foi condenado à pena de 35 (trinta e cinco) anos, 2 (dois) meses e 7 (sete) dias de reclusão, como incurso nos artigos 157, § 2º, II e V, § 2º-A, I, e 158, §§ 1º e 3º, c.c. o artigo 69, todos do Código Penal (fl. 2).
+Sustenta que o paciente sofre constrangimento ilegal, pois a condenação ofende o artigo 386, V, do Código de Processo Penal e a jurisprudência do Superior Tribunal de Justiça (fl. 3).
+Afirma que a condenação está lastreada única e exclusivamente em reconhecimentos faciais e delações de corréus, elementos que, segundo a defesa, não se prestam a justificar um decreto condenatório devido à sua fragilidade epistêmica (fls. 5-9).
+Alega que o reconhecimento facial realizado ao longo da persecução penal não se presta a demonstrar, com certeza, a autoria delitiva, especialmente devido ao lapso temporal de quase três meses entre o fato e o reconhecimento, e ao "efeito foco na arma" (fls. 7-8).
+Argumenta, também, que as delações de corréus não foram corroboradas por outras provas que confirmem seu conteúdo, o que não ocorreu na espécie (fl. 9).
+No mérito, requer a absolvição do paciente, com fundamento no artigo 386, V, do Código de Processo Penal (fl. 9).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De todo modo, cotejando as alegações deduzidas na inicial, não verifico a presença de coação ilegal que desafie a concessão da ordem, de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal, conforme percuciente fundamentação do acórdão impugnado. Confiram-se os seguintes trechos do julgado (fls. 19-25 - grifei):
+"O pleito absolutório dos apelantes pelo delito de extorsão não merece acolhimento.
+ ..
+Outrossim, como bem exposto pela d. Procuradora de Justiça (ID 45955306) "JHONATA, por sua vez, não traz aos autos nenhuma prova substancial da não participação na ação criminosa, apenas negou a autoria e o conhecimento sobre os outros denunciados. No entanto, em seu interrogatório em sede policial no id. 31355228 - pág. 7-9, este afirma que conhece todos os envolvidos no crime, inclusive, que a quadrilha é liderada por EDSON FERNANDO, tendo nomeado os corréus que teriam sido os autores do crime que vitimou o vice-prefeito de Olinda/PE, à época. Acrescentou, em sede policial, informações importantes sobre a propriedade do carro utilizado para o roubo, bem como informações precisas sobre toda a empreitada criminosa".
+Vê-se, ainda, que a vítima reconheceu fotograficamente Jhonata Freitas Queiroz em sede policial como um dos autores dos crimes (ID 31355228, pg. 27), apontando- como o indivíduo que se posicionou no banco traseira do veículo Flat/Toro, sentando ao lado da vítima, tendo inclusive o agredido, e que seguiu juntamente com os demais comparsas até o ponto onde a vítima foi libertada.
+Sabe-se que em crimes contra o patrimônio, a palavra da vítima assume especial relevo, se em consonância com o conjunto probatório, consoante previsto na súmula nº 88 desta Corte, inexistindo nos autos em análise qualquer motivo para que a vítima acusasse indevidamente os apelantes.
+ ..
+Entendo, portanto, que o acervo probatório é firme no sentido de que Jhonata Freitas Queiroz e David Rosendo do Nascimento também praticaram o crime de roubo em face de Marcio Antony Domingos Botelho não merecendo acolhida o pleito absolutório.
+O acusado Edson Fernando Silva, em seu apelo também pleiteia a absolvição pelo delito de roubo afirmando que a sentença ignora a existência de dúvida fundada em seu favor.
+No entanto, vê-se nos autos que a vítima reconheceu Edson Fernando Silva dos Santos como um dos autores dos delitos tanto em sede policial (ID 31355213) como em juízo, consoante termo de ID 31355277.
+Observo, ainda, que os acusados João Felipe Oliveira Lopes e Caio Fernando da Silva Feitosa, confessaram a autoria do crime de roubo majorado praticado juntamente com Edson, consoante consta nos seguintes trechos dos interrogatórios judiciais, respectivamente:
+ ..
+Desse modo, entendo que o pleito absolutório do apelante Edson também não merece acolhida."
+Diante das premissas fáticas estabelecidas pela Corte estadual, apesar de a Defesa alegar a necessidade de absolvição das condutas delitivas, fato é que o paciente e os demais corréus foram con denados com amparo em provas de autoria e materialidade amplamente debatidas nos autos principais.
+Resta claro, do que se depreende dos excertos acima colacionados, que a condenação imposta não se baseia, apenas, de forma isolada, nas delações dos corréus ou no reconhecimento pessoal do acusado pela vítima, mas pela ponderação do conjunto de todos esses elementos de prova produzidos.
+Impossível, assim, revolver o contexto fático-probatório original, de maneira a se afastar a condenação imposta, em não se identificando qualquer flagrante ilegalidade prima facie.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus ou do seu recurso ordinário para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Desta forma, o referido pedido trazido nesta impetração não comporta guarida sob nenhuma vertente.
+Ante todo o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
