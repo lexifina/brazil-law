@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por MATHEUS RAFAEL DOS SANTOS RAMOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 5111490-74.2023.8.21.0001.
+No recurso especial (fls. 196/200), a defesa requereu, em síntese, a reforma do acórdão recorrido para redimensionar a pena do recorrente, alegando que, no caso dos autos, apesar do potencial lesivo do entorpecente (cocaína) a quantidade da droga apreendida (4,5 g no total) não foi significativa, tratando-se, assim, de circunstância que não justifica a exasperação da pena base (fl. 198).
+Inadmitido o recurso na origem por falta de prequestionamento (fls. 212/213), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 221/224).
+O Ministério Público Federal opinou pelo não conhecimento ou, caso conhecido, pelo desprovimento do agravo (fls. 246/247).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+De fato, em que pese a decisão recorrida afirme que o tema não foi prequestionado, houve, no acórdão de origem, expressa referência ao art. 42 da Lei n. 11.343/2006, tendo sido utilizada a natureza da droga para majorar a pena-base.
+No mérito o recurso comporta provimento.
+Conforme jurisprudência do Superior Tribunal de Justiça, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+Dessa forma, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena (AgRg no HC n. 863.894/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/2/2024).
+O Tribunal de origem, ao fixar a pena-base, fundamentou o seguinte (fls. 186):
+Quanto à quantidade e a natureza das substâncias, que a teor do disposto no art. 42 da Lei nº 11.343/06 devem ser analisadas neste momento, tenho que a vetorial merece ser negativada em desfavor do réu em razão da natureza altamente nociva da droga apreendida (cocaína).
+Considerando a moldura fática do acórdão recorrido, conclui-se que, de fato, merece acolhimento o recurso ante a ausência de fundamentação idônea para o aumento da pena-base com base na natureza da droga apreendida. Não pode ser considerada elevada a quantidade de 4,5 g de cocaína a ensejar a incidência de circunstância judicial negativa na primeira fase da fixação da pena. Tratando-se de quantidade reduzida de entorpecente apreendido e, ainda que a cocaína seja substância mais nociva, não cabe o aumento da pena-base aplicado apenas em decorrência da natureza do entorpecente, visto que, no caso, a censurabilidade não pode ultrapassar a intrínseca do tipo penal ante o pouco volume de droga apreendida.
+Nesse sentido: AgRg no AREsp n. 1.948.506/TO, da minha relatoria, Sexta Turma, DJe 18/8/2023; AgRg no AREsp n. 1.764.934/CE, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2021; e AgRg no AREsp n. 1.888.406/AL, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 4/11/2021.
+Analisando o acórdão recorrido, verifica-se que não há outros fundamentos específicos para o aumento da pena-base além da natureza da droga, que ora se afasta. A reincidência, conforme consta da certidão de antecedentes criminais, foi corretamente aplicada na segunda fase da dosimetria como agravante.
+Fixadas essas premissas e obedecidas as demais diretrizes estabelecidas pela instância de origem, passo a redimensionar a pena do recorrente. Excluída a natureza da droga apreendida como causa de aumento da pena-base, esta deve ficar no mínimo legal de 5 anos de reclusão e 500 dias-multa.
+Na segunda fase, como bem registrado no acórdão recorrido, o recorrente é reincidente (fls. 75/82), sendo aplicável a agravante do art. 61, inciso I, do Código Penal, majorando-se a pena em 1/6, resultando em 5 anos e 10 meses de reclusão, e 583 dias-multa.
+Na terceira fase, inexistem atenuantes e o recorrente ostenta reincidência, sendo inviável o reconhecimento do tráfico privilegiado.
+Não havendo causas de aumento ou diminuição na terceira fase, fica a pena definitivamente fixada em 5 anos e 10 meses de reclusão, e 583 dias-multa.
+Persiste o cumprimento da pena em regime fechado fixado na sentença e mantido no acórdão em razão da reincidência, nos termos do art. 33, § 2º, a, do Código Penal.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e, excluindo a natureza da droga co mo fator negativo para o aumento da pena-base, redimensiono a pena, tornando-a definitiva em 5 anos e 10 meses de reclusão, e 583 dias-multa, mantido o regime inicial fechado de cumprimento da pena.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA CONSIDERAR COMO CIRCUNSTÂNCIA JUDICIAL NEGATIVA A NATUREZA DA DROGA APREENDIDA (4,5 G DE COCAÍNA). REDIMENSIONAMENTO DA PENA APENAS COM RELAÇÃO A ESSA CIRCUNSTÂNCIA.
+Agravo conhecido para dar provimento ao recurso especial.
