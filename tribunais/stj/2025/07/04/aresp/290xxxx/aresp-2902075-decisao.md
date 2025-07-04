@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOSÉ DA SILVA, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 6/2/2025
+Concluso ao gabinete em: 23/6/2025.
+Ação: de revisão contratual c/c pedido de consignação em pagamento, tutela antecipada e pedido de danos morais ajuizada por JOSÉ DA SILVA em face de UNIMED DE BRUSQUE - COOPERATIVA DE TRABALHO MÉDICO LTDA., visando a revisão de reajustes aplicados ao plano de saúde, alegando abusividade nas cobranças em razão da idade do autor.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, declarando a invalidade do reajuste realizado em 2014, em relação ao requerente, e condenando as partes ao pagamento proporcional das despesas processuais e honorários sucumbenciais.
+Acórdão: negou provimento ao recurso do autor e deu provimento ao recurso da ré para julgar improcedente o pedido inicial, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL C/C PEDIDO DE CONSIGNAÇÃO EM PAGAMENTO, TUTELA ANTECIPADA E PEDIDO DE DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSOS DAS PARTES. PRELIMINAR DO AUTOR. NULIDADE DA SENTENÇA EXTRA PETITA. INACOLHIMENTO. CAUSA QUE VERSA SOBRE O REAJUSTE CORRENTE NO ANO DE 2014 E SEUS EFEITOS PARA OS DEMAIS ANOS. MÉRITO DOS RECURSOS. PLEITO DA RÉ PELA IMPROCEDÊNCIA DOS PEDIDOS EXORDIAIS. LICITUDE DO REAJUSTE POR SINISTRALIDADE EM 35,85%. AUMENTO JUSTIFICADO. TESES ACOLHIDAS. CONJUNTO PROBATÓRIO QUE APONTA AS DESPESAS DA VARIAÇÃO DOS CUSTOS MÉDICOS HOSPITALARES E LABORATORIAIS - VCMHL. SINISTRALIDADE ACIMA DA MÉDIA ACEITÁVEL PELAS OPERADORAS. DÉFICIT. NECESSÁRIO PROMOVER O REEQUILÍBRIO CONTRATUAL. ÍNDICES EM CONSONÂNCIA COM OS VALORES PRATICADOS NO MERCADO. AUSÊNCIA DE ABUSIVIDADE. OBSERVÂNCIA AO PACTA SUNT SERVANDA E À CONTINUIDADE DA PRESTAÇÃO DO SERVIÇO. PREJUDICADOS OS DEMAIS REQUERIMENTOS RECURSAIS DAS PARTES. REFORMA DA SENTENÇA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. HONORÁRIOS RECURSAIS. RECURSOS CONHECIDOS, SENDO O DO AUTOR DESPROVIDO E DA RÉ PROVIDO."
+Embargos de Declaração: opostos por José da Silva foram rejeitados.
+Recurso especial: alega violação dos artigos 492, 434, caput, e 435, parágrafo único do Código de Processo Civil. Sustenta que houve decisão extra petita pois o juiz de primeiro grau limitou a invalidade do reajuste apenas ao ano de 2014, quando o recorrente alegou que os reajustes ao longo dos anos foram abusivos e confessados pela recorrida, bem como, no tribunal a quo foram considerados e validados documentos que foram reconhecidos como preclusos sem qualquer pedido específico ou discussão nos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à tempestividade na juntada de documentos hábeis a comprovar a regularidade e necessidade do reajuste perpetrado, considerando que "a fase instrutória não havia se encerrado, quanto menos saneado o processo acerca da matéria" (e-STJ fl. 1508), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do julgamento extra petita
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 141 e 492 do CPC.
+Com efeito, no caso dos autos, não se verifica a ocorrência de julgamento fora do pedido, pois a lide foi decidida nos exatos termos em que foi proposta, havendo plena congruência entre a decisão, o pedido e a causa de pedir. Isso porque o reconhecimento da limitação do pedido ao reajuste realizado no ano de 2014 deveu-se ao fato gerador ocorrido neste ano, sobre o qual recaiu a lide que apontava a irregularidade de reajustes quanto aos cálculos realizados naquele tempo, uma vez que os posteriores não foram objeto de insurgência.
+Salienta-se, ainda, que o STJ firmou entendimento no sentido de que cabe ao julgador a interpretação lógico-sistemática do pedido formulado na petição inicial a partir de uma análise de todo o seu conteúdo, e não apenas da parte da petição destinada aos requerimentos finais. Nesse sentido: REsp 1.639.016/RJ, 3ª Turma, DJe de 04/04/2017; EDcl no REsp 1.331.100/BA, 4ª Turma, DJe de 10/08/2016; AgRg no Ag 886.219/RS, 3ª Turma, DJe de 07/05/2008 e REsp 440.221/ES, 4ª Turma, DJ de 11/10/2004.
+Ademais, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL C/C CONSIGNAÇÃO EM PAGAMENTO E DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DECISÃO EXTRA PETITA. NÃO CARACTERIZAÇÃO.
+1. Ação de revisão contratual c/c consignação em pagamento e compensação por danos morais
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Não implica julgamento extra petita a concessão de tutela jurisdicional que se encontra, ainda que implicitamente, abrangida no pedido formulado na petição recursal, extraída mediante sua interpretação lógico-sistemática.
+4. Agravo conhecido. Recurso especial não conhecido.
