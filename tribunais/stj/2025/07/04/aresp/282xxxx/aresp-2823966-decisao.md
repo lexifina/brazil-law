@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por SANTANA INSTITUTO DE EDUCACAO SUPERIOR LTDA, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 9/9/2024.
+Concluso ao Gabinete em: 20/ 3/2025.
+Ação: de execução de título extrajudicial, ajuizada por BANCO VOTORANTIM S.A. em desfavor da parte agravante, em fase de constrição de bens, fundada em cédula de crédito bancário firmada entre as partes.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos das seguinte ementa:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. LIMINAR INDEFERIDA. AGRAVO INTERNO PREJUDICADO. EXECUÇÃO. PENHORA DE ATIVOS FINANCEIROS. VIABILIDADE. VALORES DESTINADOS AO PAGAMENTO DE ENCARGOS TRABALHISTAS E À SUBSISTÊNCIA DA EMPRESA. NÃO COMPROVAÇÃO. RECURSO DESPROVIDO.
+I. Prejudicado o agravo interno contra a decisão desta Relatoria que apreciou a medida liminar, conforme preconizam os princípios da celeridade, da economia e da efetividade processuais, em virtude do julgamento do recurso principal.
+II. Conforme entendimento perfilhado pelo Superior Tribunal de Justiça, a regra da impenhorabilidade absoluta de recursos contidos em meios de reserva deve ser relativizada em caso de abuso, fraude ou má-fé. Ou, ainda, na hipótese de ausência de comprovação de que as verbas ali guardadas se equiparam à caderneta de poupança e se destinam à subsistência do devedor e de sua família (STJ, AgInt- AREsp 2.152.036; AgInt-AREsp 2.191.093; AgInt-AREsp 2.218.855; Resp 1.658.069).
+III. No caso concreto, os extratos bancários apresentados pela agravante não comprovam que o montante bloqueado seria destinado exclusivamente ao pagamento dos encargos trabalhistas e à manutenção da sua atividade de prestação de serviços educacionais, uma vez que, além de as despesas não terem sido pormenorizadas, foram constatadas outras movimentações financeiras.
+IV. Ademais, a não cooperação da parte devedora em oferecer propostas e meios eficazes para pagamento do débito exequendo (em torno de R$ 780.000,00) caracteriza, aparentemente, violação ao princípio da boa-fé objetiva (e, por conseguinte, abuso de direito, nos moldes do artigo 186 do Código Civil).
+V. Assim, na linha do princípio da predominância do interesse do exequente (art. 797, Código de Processo Civil), aliado ao princípio da prioridade da penhora em dinheiro para satisfação da dívida exequenda (Código de Processo Civil, artigo 835, inciso I), a manutenção da penhora dos ativos financeiros da instituição devedora é medida que se impõe.
+VI. Agravo conhecido e desprovido.
+(e-STJ Fls. 255-256)
+Embargos de declaração: opostos pelo agravado, foram rejeitados.
+Decisão de admissibilidade do TJDFT: inadmitiu o recurso especial do agravante em razão dos seguintes fundamentos:
+i) incidência da Súmula 7/STJ quanto aos arts. 805, 832, 833, IV e V, e 866, §1º, do CPC e ao dissídio correlato, considerando as particularidades citadas à e-STJ Fls. 429-430 e ao fato de que "os extratos bancários apresentados pela agravante não comprovam que o montante bloqueado seria destinado exclusivamente ao pagamento dos encargos trabalhistas e à manutenção da sua atividade de prestação de serviços educacionais", em atenção ao entendimento desta Corte;
+ii) incidência da Súmula 83/STJ, igualmente considerando as particularidades e julgado de e-STJ Fls. 429-430;
+iii) incidência da Súmula 13/STJ; e
+iv) não correspondência do Tema 1230/STJ à espécie.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega que:
+i) foram preenchidos os requisitos de admissibilidade recursal, sendo inaplicável a incidência da Súmula 7/STJ em hipótese em que as matérias controvertidas são exclusivamente de direito;
+ii) aplica-se o art. 833, IV, do CPC ao caso concreto, pois os valores existentes na conta corrente da empresa se equiparam às verbas salariais dos seus empregados, havendo contrariedade ao princípio da menor onerosidade da execução e da preservação da continuidade da atividade empresarial;
+iii) é igualmente inaplicável a incidência da Súmula 7/STJ quanto ao dissídio alegado;
+iv) é de ser afastada a incidência da Súmula 83/STJ, pois a hipótese dos autos não se amolda aos precedentes citados na decisão recorrida, bem como o STJ tem admitido a "impenhorabilidade de valores depositados em conta corrente de titularidade da empresa que sejam comprovadamente destinados ao pagamento de salário dos funcionários" (e-STJ Fl. 447);
+v) não se aplica a Súmula 13/STJ no caso concreto, porquanto foram indicados paradigmas do STJ e outros Tribunais para fins de comprovação do dissídio jurisprudencial arguido; e
+vi) é cabível a suspensão do processo em virtude do Tema 1230/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) incidência da Súmula 7/STJ quanto aos arts. 805, 832, 833, IV e V, e 866, §1º, do CPC e ao dissídio correlato, considerando as particularidades citadas à e-STJ Fls. 429-430 e ao fato de que "os extratos bancários apresentados pela agravante não comprovam que o montante bloqueado seria destinado exclusivamente ao pagamento dos encargos trabalhistas e à manutenção da sua atividade de prestação de serviços educacionais", em atenção ao entendimento desta Corte; e
+ii) incidência da Súmula 83/STJ, igualmente considerando as particularidades e julgado de e-STJ Fls. 429-430;
+Nesse passo, o agravante limitou-se a tecer alegações meramente genéricas acerca de tais óbices e a reprisar a sua argumentação de mérito, deixando, pois, de demonstrar o efetivo desacerto da decisão.
+Especificamente quanto à Súmula 83/STJ, a sua impugnação deve ser demonstrada com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie.
+Ademais, é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Por fim, cumpre esclarecer que a matéria arguida não guarda relação com o Tema 1230/STJ, inexistindo qualquer risco de decisões conflitantes, sendo inviável a suspensão do processo nesta sede de jurisdição.
+Outrossim, ainda quanto à suscitada necessidade de sobrestamento do feito, o entendimento desta Casa é no sentido de que "diante da impossibilidade de conhecimento do Recurso Especial, mostra-se irrelevante aguardar o julgamento de Recursos Especiais afetados ao rito dos recursos repetitivos, haja vista que as questões ali discutidas são de mérito, não havendo falar em sobrestamento de recurso que não ultrapassara o juízo de admissibilidade".
+Nesse sentido: AgRg no RE nos EDcl no AgRg no AREsp 572.146/PR, Corte Especial, DJe de 27/04/2015; e AgRg nos EAREsp 84.719/PR, Corte Especial, DJe de 18/06/2014. Ainda nesse sentido: AgInt no AREsp n. 1.713.349/PE, 4ª Turma, DJe de 19/4/2022; EDcl no AgInt no AREsp n. 1.937.568/PR, 3ª Turma, DJe de 22/9/2022; AgInt nos EDcl no REsp 1934729/SP, 4ª Turma, DJe de 26/11/2021; e AgInt no AREsp 1692058/PE, 3ª Turma, DJe de 16/11/2020.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados à agravante no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
