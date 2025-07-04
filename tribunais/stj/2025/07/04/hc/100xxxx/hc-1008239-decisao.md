@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de EDVAN FERREIRA DA SILVA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Consta nos autos que o paciente se encontra preso, preventivamente, tendo sido denunciado pela suposta prática dos crimes capitulados nos art. 2º, §2º da Lei 12850/2013 - integrar organização criminosa armada; art. 180, §1º do Código Penal Brasileiro - receptação qualificada; e a rt. 17 da Lei 10826/2003 - comércio ilegal de arma de fogo- (fl. 35).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 15-21.
+Neste writ, o impetrante sustenta, em suma, a ausência de fundamentação da decisão que decretou a prisão preventiva do paciente.
+Defende as condições pessoais favoráveis do paciente.
+Aduz ausência de contemporaneidade entre os fatos e a segregação cautelar.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida, às fls. 752-754.
+Informações prestadas, às fls. 761-766.
+O Ministério Público Federal em parecer, às fls. 770-773, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, diante da gravidade concreta da conduta, haja vista que, em tese, o paciente integraria organização criminosa voltada à prática de diversos delitos, tais como furto e roubo de veículos; comércio ilegal de arma de fogo e receptação, constando nos autos que ele, supostamente, teria intermediado a venda de motocicletas roubadas/furtadas, além de ofertar armas de fogo para comercialização; não se olvidando o risco de reiteração criminosa, na medida em que ele ostenta outras passagens criminais.
+Tais circunstâncias demonstram a periculosidade do paciente, justificando a segregação cautelar em seu desfavor.
+Sobre o tema:
+"A prisão preventiva foi considerada necessária para garantir a ordem pública, devido à gravidade concreta do delito e ao risco de reiteração delitiva, com base em elementos concretos que indicam a participação do agravante na organização criminosa" (AgRg no RHC n. 202.750/CE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.).
+"Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024).
+Ademais, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso. Nesse sentido, confiram-se alguns precedentes: (AgRg no HC n. 948.505/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/12/2024, DJEN de 18/12/2024.)(AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023); (AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023); (AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022); (AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022);(AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022); (RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022); (AgRg no RHC n. 187.597/ MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a sua custódia cautelar.
+No pertinente à alegação de ausência de contemporaneidade como justificativa hábil a infirmar a necessidade de manutenção da prisão preventiva, vale lembrar que:
+" a  contemporaneidade diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal" (STF, HC 185.893 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 26/04/2021; sem grifos no original)" (EDcl no HC n. 940.596/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2024, DJe de 14/10/2024.).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
