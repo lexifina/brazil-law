@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por JAIME RODRIGUES contra o acórdão da Terceira Turma assim ementado (fl. 2.546):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. INOVAÇÃO RECURSAL. PRECLUSÃO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. A impugnação tardia dos fundamentos da decisão combatida, somente quando da interposição de agravo interno, além de caracterizar inovação recursal, vedada pela preclusão, não tem a capacidade de afastar a aplicação do entendimento consolidado na Súmula nº 182/STJ.
+3. Agravo interno não provido.
+Aduz o embargante que há divergência com acórdão paradigma da Corte Especial (EDcl no AgInt nos EDv nos EAREsp n. 1.632.679/PR) relativamente à tese de que a ausência de impugnação específica de capítulos autônomos da decisão recorrida conduz à preclusão apenas das matérias não impugnadas, sem obstar o conhecimento do recurso quanto aos fundamentos devidamente atacados.
+Pondera que a jurisprudência do STJ permite o conhecimento do recurso quanto aos fundamentos atacados, mesmo que haja preclusão das matérias não impugnadas, conforme acórdão paradigma da Corte Especial.
+É o relatório. Decido.
+Não obstante a argumentação desenvolvida na peça recursal, a parte embargante não conseguiu demonstrar os pontos de similitude e de divergência entre os acórdãos embargado e paradigma, porquanto: a) no acórdão embargado, decidiu-se que a ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial acarreta o não conhecimento do agravo em recurso especial, não podendo a parte impugnar fundamentos em agravo interno por constituir inovação recursal, vedada pela preclusão consumativa; e b) no acórdão paradigma (EDcl no AgInt nos EDv nos EAREsp n. 1.632.679/PR) , decidiu-se pelo processamento de embargos de divergência em que se verifica a divergência entre órgãos julgadores desta Corte em caso de impugnação parcial, em agravo interno, de capítulos autônomos, o que não impediria o conhecimento do recurso, mas apenas ensejaria a preclusão das matérias não impugnadas.
+Assim, ausente a demonstração da similitude fática e jurídica entre os arestos confrontados, não há como dar trânsito aos presentes embargos de divergência, conforme já assentado na jurisprudência do STJ. A propósito: AgRg nos EAREsp n. 1.685.360/SC, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 10/5/2022, DJe de 12/5/2022; e AgInt nos EREsp n. 1.639.267/RS, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 3/5/2022, DJe de 5/5/2022.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
