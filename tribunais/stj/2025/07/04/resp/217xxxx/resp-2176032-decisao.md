@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO RAFAEL FERREIRA LIMA contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao agravo em execução penal defensivo e manteve a decisão que indeferiu o pedido de extinção da punibilidade sem o adimplemento da pena de multa (fls. 92-109).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 927, inciso I, do Código de Processo Civil, em razão do decurso do prazo de 90 dias para o Ministério Público iniciar a execução da multa penal, conforme decidido pelo STF na ADI 3150 (fls. 117-123).
+Em contrarrazões, o Ministério Público do Estado de São Paulo pugna pelo não provimento do recurso especial, ao argumento de que a legitimidade do Ministério Público para a execução da pena de multa é prioritária e não exclusiva, podendo ser exercida a qualquer tempo (fls. 128-132).
+O Ministério Público Federal opinou pelo não provimento do recurso especial (fls. 144-146).
+É o relatório. DECIDO.
+No julgamento da ADI 3150, o Supremo Tribunal Federal definiu que a Lei n. 9.268/1996 considerou que a multa penal é dívida de valor, mas não retirou dela o caráter de sanção criminal, que lhe é inerente por força do art. 5º, XLVI, alínea "c", da Constituição Federal. Naquela oportunidade, firmou-se o entendimento de que compete ao Ministério Público promover a execução da multa perante a Vara de Execução Criminal, seguindo o rito processual delineado nos artigos 164 e seguintes da Lei de Execução Penal.
+Caso o Ministério Público, devidamente intimado, não inicie a execução da multa no prazo de 90 dias, o Juiz da Execução Criminal comunicará o fato ao órgão competente da Fazenda Pública para que realize a cobrança na própria Vara de Execução Fiscal, observando o procedimento estabelecido pela Lei n. 6.830/1980.
+Nesse sentido, conquanto a defesa alegue a falta de legitimidade do Ministério Público devido ao transcurso do prazo de 90 dias (fls. 120-123), esta Corte entende que a eventual omissão do Ministério Público, cuja legitimidade é prioritária, mas não exclusiva, não resulta na preclusão ou prescrição da execução da pena. A inércia apenas impõe ao Juiz da Execução Penal a obrigação de comunicar o fato ao órgão competente da Fazenda Pública, para que a multa seja cobrada na Vara de Execução Fiscal correspondente.
+A propósito:
+"4. O entendimento do STF na ADI 3.150 estabelece que o Ministério Público tem legitimidade prioritária para a execução da pena de multa, e a Fazenda Pública pode atuar de forma subsidiária após 90 dias, sem que isso implique em perda da legitimidade do Ministério Público.
+5. A jurisprudência desta Corte não reconhece prazo decadencial para o Ministério Público propor a execução da pena de multa, mantendo seu interesse de agir mesmo após o prazo de 90 dias."(REsp n. 2.121.415/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025)
+Desse modo, inexistindo prazo decadencial para que o Ministério Público inicie a execução da pena de multa, persiste seu interesse processual, conforme reconhecido pelo Tribunal a quo (fls. 108-109).
+Ante o exposto, nos termos do art. 255, § 4º, inciso II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
