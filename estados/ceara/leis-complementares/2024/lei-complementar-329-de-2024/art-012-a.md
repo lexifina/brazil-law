@@ -1,0 +1,1 @@
+Art. 12-A. A implantação dos valores previstos nos Anexos I e II desta Lei Complementar ocorrerá sem prejuízo da aplicação, nos períodos correspondentes, dos índices de revisão geral remuneratória porventura concedida aos agentes públicos estaduais.
