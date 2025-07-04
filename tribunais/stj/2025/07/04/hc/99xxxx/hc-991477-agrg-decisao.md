@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão, às fls. 390-392, na qual não conheci do habeas corpus impetrado em favor de CARLOS EDUARDO DE JEZUS LINHARES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que o agravante encontra-se preso preventivamente desde 06/11/2024, por transgressão aos termos do art. 33 da Lei n. 11.343/2006, em razão de sua suposta participação como "batedor" em ação criminosa envolvendo o transporte de entorpecentes.
+No presente agravo, o agravante pleiteia a retratação alegando que colacionou o acórdão proferido pela 2ª Câmara Criminal do Tribunal de justiça do Estado do Espírito Santo.
+Alega que a decisão que converteu a prisão em flagrante em preventiva é inidônea, pois se baseia exclusivamente na quantidade de drogas apreendidas, sem fundamentação específica sobre o risco que a sua liberdade representaria à sociedade ou ao processo.
+Afirma que possui condições pessoais favoráveis, sendo primário, de bons antecedentes, empresário, pai de duas filhas menores, com residência fixa, e que nunca pisou numa delegacia.
+Sustenta que a prisão preventiva é desproporcional e que há possibilidade de substituição por medidas cautelares alternativas, conforme art. 319 do Código de Processo Penal.
+Invoca, ainda, o princípio da isonomia, destacando que corréus em situação semelhante estão em liberdade provisória ou prisão domiciliar, e requer a extensão da liberdade provisória concedida a JANAINA SIQUEIRA MURTA.
+Requer, ao final, a reconsideração da decisão.
+É o relatório. DECIDO.
+Tendo em vista a pertinência das alegações, reconsidero a decisão proferida às fls. 390-392 e passo à análise do habeas corpus.
+A custódia prisional, como sabemos, é providência extrema que deve ser determinada quando demonstrados o fumus comissi delicti e o periculum libertatis, na forma do art. 312 do CPP. Em razão de seu caráter excepcional, somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do CPP (RHC n. 117.739/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/12/2019).
+Colhe-se dos autos que o principal fundamento para decretação da prisão preventiva foi a gravidade da conduta, diante da necessidade de garantir a ordem pública.
+Registre-se que, conquanto o Juízo de primeiro grau tenha feito apontamentos quanto à necessidade da prisão para garantir a ordem pública, não demonstrou, suficientemente, em elementos concretos a periculosidade do Paciente, a gravidade da conduta, nem o risco de reiteração criminosa. Tais circunstâncias, embora não garantam eventual direito à soltura, devem ser valoradas, quando não demonstrada a indispensabilidade do decreto prisional.
+Com efeito, a prisão não se mostra necessária, em juízo de proporcionalidade, para embasar a segregação corpórea. Ressalte-se que trata-se de paciente primário, com 41 anos de idade e de bons antecedentes. Logo, a imposição de medidas cautelares alternativas à prisão preventiva são as mais indicadas ao caso ora em análise.
+Em hipóteses como a destes autos, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Neste aspecto, é firme a jurisprudência do STJ:
+" .. de acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e com os princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do CPP), provisionalidade (art. 316 do CPP) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do CPP), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do CPP, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade." (AgRg no HC n. 803.633/SP,Sexta turma, relatora Ministra Laurita Vaz, DJe de 28/3/2023)
+Por óbvio, não se está a minimizar a gravidade da conduta imputada ao paciente, porém há que se reconhecer que, uma vez ausentes os requisitos necessários para a prisão preventiva,sua manutenção caracterizaria verdadeira antecipação de pena.
+Diante disso, considerando as peculiaridades do caso, entendo possível o resguardo da ordem pública e a garantia da aplicação da lei penal por medidas cautelares diversas, previstas no art. 319 do CPP. Nesse sentido, por exemplo, a jurisprudência do STJ: HC n. 663.365/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/8/2021.
+Ante o exposto, concedo a ordem para substituir a prisão preventiva imposta ao Paciente por medidas cautelares diversas previstas no art. 319 do CPP, a serem estabelecidas pelo Juízo a quo.
+Comunique-se a paciente que, em caso de injustificado descumprimento de quaisquer das obrigações impostas por força das cautelares, a prisão poderá ser restabelecida.
+Comunique-se para cumprimento.
+Publique-se. Intimem -se.
+EMENTA
