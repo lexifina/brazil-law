@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VIVER INCORPORADORA E CONSTRUTORA S.A. (em recuperação judicial) à decisão de fls. 800-807, que conheceu em parte do recurso especial e, nessa parte, deu-lhe provimento para determinar que o cumprimento de sentença prossiga, porém com acerto do débito, nos termos do que dispõe o plano de recuperação judicial.
+Em suas razões, a parte embargante sustenta que a decisão embargada padece de vícios de obscuridade e omissão.
+Alega que houve excesso de execução no montante cobrado pela embargada nos autos do cumprimento de sentença originário, mas a decisão embargada não dispôs acerca desse excesso, configurando omissão (fls. 810-812).
+Afirma que, devido à concursalidade e novação do crédito, o cumprimento de sentença originário não deve prosseguir, devendo ser extinto, o que não foi abordado na decisão embargada, caracterizando obscuridade (fls. 810-812).
+Requer o acolhimento dos embargos de declaração para suprir os vícios de obscuridade e omissão, aplicando-se o efeito modificativo no que couber.
+As contrarrazões não foram apresentadas, conforme a certidão de fl. 819.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Quanto à alegada omissão sobre o excesso de execução, a decisão de fls. 800-807 expressamente determinou o acerto do débito nos termos do plano de recuperação judicial. Tal comando, ao exigir a readequação dos valores, implicitamente resolve a questão do excesso, fornecendo a diretriz para a solução do montante devido.
+No que tange à suposta obscuridade e omissão por determinar o prosseguimento do cumprimento de sentença em vez de sua extinção, a decisão embargada fundamentou-se no entendimento desta Corte acerca da concursalidade dos créditos e dos efeitos da novação operada pela recuperação judicial.
+A decisão acolheu o entendimento do Superior Tribunal de Justiça no REsp n. 1.655.705/SP (relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 27/4/2022, DJe de 25/5/2022), no qual se estabeleceu que o credor não indicado na relação inicial não é obrigado a se habilitar, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento da recuperação, torna obrigatória sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei n. 11.101/2005.
+A novação operada pela concessão da recuperação judicial atinge todos os créditos concursais, indistintamente, tenham sido eles habilitados ou não, extinguindo a obrigação originária e criando uma nova, devidamente delineada no plano homologado judicialmente.
+A despeito de a jurisprudência indicar a extinção da execução individual em razão da novação, a decisão embargada, no caso concreto, ponderou que, como a recuperação judicial ainda não havia sido encerrada por sentença transitada em julgado, facultava-se à recorrida (ALUBEL ALUMÍNIO BELO HORIZONTE LTDA.) promover a habilitação de seu crédito na recuperação judicial, se assim desejasse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, devendo levar em consideração, no entanto, que seu crédito sofre os efeitos do plano de recuperação aprovado, tendo em vista a novação ope legis (art. 59 da LREF).
+O dispositivo foi categórico ao determinar que "o prosseguimento da execução seja feito consoante as condições previstas no plano de recuperação judicial" (fl. 806).
+Assim, a decisão não foi omissa, obscura ou contraditória. Abordou a submissão do crédito aos efeitos da recuperação judicial e da novação, aplicou o entendimento consolidado do STJ e ofereceu a solução jurídica cabível para o caso, direcionando o futuro da execução.
+Os embargos de declaração configuram, portanto, mera tentativa de rediscutir o mérito da decisão, o que não se coaduna com a finalidade integrativa e aclaratória do recurso, nos termos do art. 1.022 do Código de Processo Civil.
+O mero descontentamento com o resultado não tem o condão de configurar vício sanável pela via declaratória.
+Ante o exposto, nego provimento aos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
