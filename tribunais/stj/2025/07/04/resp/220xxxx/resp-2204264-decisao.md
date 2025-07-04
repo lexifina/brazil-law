@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por DOMINGOS MAMEDIO ALVES DOS SANTOS, com fundamento na alíneas "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (e-STJ, fls. 307-319):
+"AGRAVO INTERNO EM APELAÇÃO CRIMINAL. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA QUE NÃO CONHECEU O APELO POR INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO RECORRIDA. DEFESA QUE DEIXOU TRANSCORRER IN ALBIS O PRAZO PARA INTERPOSIÇÃO DO RECURSO DE APELAÇÃO. DESNECESSIDADE DE DUPLA INTIMAÇÃO. RÉU EM LIBERDADE. SUFICIÊNCIA DA INTIMAÇÃO DO D E F E N S O R CONSTITUÍDO. PRECEDENTES JURISPRUDENCIAIS. RECURSO CONHECIDO E DESPROVIDO"
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 392, 577 e 578 do Código de Processo Penal. Aduz para tanto, em síntese, que havendo dupla intimação, ainda que se trate de processo envolvendo réu solto, o prazo recursal só teria início a partir da última intimação, o que no caso teria se dado em 09/09/2024. Defende assim a tempestividade do recurso de apelação.
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fls. 347-349).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento e provimento do recurso especial (e-STJ, fls. 440-443).
+É o relatório.
+Decido.
+A respeito da tese defensiva, o tribunal de origem assim se manifestou (e-STJ, fls. 311- 317):
+"Decido. Observa-se, de logo, que o recurso interposto não merece ser conhecido, diante da sua intempestividade.
+Conforme disposto no art. 392, inciso II, do Código de Processo Penal, tratando-se de réu solto, como é o caso dos autos, mostra-se suficiente a intimação do defensor constituído da r. sentença condenatória, sendo desnecessária a intimação pessoal do sentenciado.
+ ..
+In casu, vê-se que o réu constituiu a advogada Joanete Santos de Andrade (OAB/SE 12570), conforme procuração juntada em 12/12/2023. A advogada patrocinou a causa desde o início da ação penal, apresentando, inclusive, alegações finais, motivo pelo qual despicienda a dupla intimação do comando sentencial.
+Frise-se que, a teor do disposto no art. 370, §1º do CPP, a intimação da sentença condenatória ao defensor constituído será feita mediante publicação no órgão incumbido da publicidade dos atos judiciais.
+Assim, o prazo recursal (05 dias) começa a correr da publicação no Diário de Justiça da sentença, oportunidade em que o defensor constituído fora intimado.
+No presente caso, percebe-se que a sentença foi disponibilizada no Diário de Justiça eletrônico em 13/06/2024 (quinta-feira), tendo sido considerada publicada em 14/06/2024, sexta-feira, primeiro dia útil seguinte, à luz do CPP e da Lei 11.419/2006, de sorte que, excluindo-se tal dia para o início da contagem do prazo, nos termos do art. 798, §1º do CPP, a contagem se iniciou em 17/06/2024, segunda-feira, primeiro dia útil seguinte.
+Assim, considerando o quinquídio legal previsto para a interposição do recurso de Apelação Criminal, previsto no art. 593 do CPP, o término do interregno temporal se deu em 21/06/2024, sendo que a Apelação foi interposta em 11/06/2024, razão pela qual constatada está a sua intempestividade."
+Com efeito, o Tribunal de origem consignou ser desnecessária a dupla intimação estando o réu solto. Não obstante, quando intimados o acusado e seu defensor constituído, por ato voluntário do juízo de origem, o entendimento desta Corte é que o prazo recursal terá início a partir da data da última intimação.
+Efetivamente, observa-se que, além da publicação oficial, foi posteriormente determinada a intimação pessoal da parte a respeito da sentença condenatória (e-STJ, fls. 240 e 246).
+Destaco:
+"HABEAS CORPUS. PROCESSO PENAL. RÉU SOLTO. DUPLA INTIMAÇÃO DA SENTENÇA CONDENATÓRIA. ATO VOLUNTÁRIO DO JUÍZO DE PRIMEIRA INSTÂNCIA. TERMO INICIAL DO PRAZO RECURSAL A PARTIR DA ÚLTIMA INTIMAÇÃO. APELAÇÃO TEMPESTIVA. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Não se desconhece o entendimento desta Corte Superior no sentido de que " n os termos do art. 392, inciso II, do Código de Processo Penal, tratando-se de réu solto, é suficiente a intimação do seu causídico da sentença condenatória proferida em primeiro grau, não se exigindo a intimação pessoal do acusado quando o advogado já teve ciência da prolação do édito" (HC 417.633/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 08/02/2018, DJe 26/02/2018.).
+2. No caso, apesar de se tratar de Réu solto, o que, em tese, justificaria a aplicação do precedente acima citado, verifica-se que - por ato voluntário do Juízo de Direito da 1.ª Vara Criminal da Comarca de Colorado do Oeste/RO - foram intimados dos termos da sentença condenatória não só o advogado, mas também o Sentenciado, de modo que, efetivada dupla intimação, deverá prevalecer a data da última para o início do prazo recursal.
+3. Ordem concedida para cassar a decisão da Corte de origem que inadmitiu a apelação por intempestividade, determinando que prossiga na análise do aludido recurso."
+(HC n. 493.221/RO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/3/2019, DJe de 10/4/2019.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ATENTADO VIOLENTO AO PUDOR. ADVOGADO CONSTITUÍDO. INTIMAÇÃO DA SENTENÇA CONDENATÓRIA PELA IMPRENSA OFICIAL. NULIDADE. NÃO OCORRÊNCIA. DECISÃO MONOCRÁTICA MANTIDA.
+1. A teor do disposto nos arts. 370, § 1º, e 392, II, do Código de Processo Penal, a intimação da sentença condenatória, ao defensor constituído, será feita mediante publicação no órgão incumbido da publicidade dos atos judiciais da Comarca. Ademais, quando intimados o acusado e seu defensor constituído, o prazo recursal terá início a partir da data da última intimação.
+2. Extrai-se do acórdão que o advogado do recorrente foi intimado da sentença, pela imprensa oficial, em 23/10/2008, e a intimação pessoal do acusado ocorreu em 3/11/2008. Desse modo, considerando a data da interposição da apelação criminal (17/11/2008), apresenta-se correta a conclusão do Tribunal de origem pela intempestividade daquele recurso.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp n. 1.281.492/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/9/2016, DJe de 21/9/2016.)
+O acusado foi pessoalmente intimado da sentença condenatória em 09/09/2024 (e-STJ, fl. 249). A apelação foi interposta no dia 11/09/2024 (e-STJ, fl.251), mostrando-se, portanto, tempestiva.
+Corrobora a conclusão o parecer da Procuradoria-Geral da República (e-STJ, fls. 442-443):
+"No caso, apesar de se tratar de réu solto, o que, em tese, justificaria a aplicação do precedente acima, verifica-se que, por ato voluntário do Juiz, foram intimados dos termos da sentença condenatória não só o advogado, mas também o sentenciado, conforme se depreende da fl. 250.
+Em decorrência da realização de dupla intimação - do advogado e do Réu -, deverá ser aplicada a compreensão desta Corte de que " ..  quando intimados o acusado e seu defensor constituído, o prazo recursal terá início a partir da data da última intimação" (AgRg no R Esp 1.281.492/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 01/09/2016, D Je 21/09/2016; sem grifos no original.)"
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para cassar a decisão da Corte de origem que não conheceu da apelação interposta, determinando-se que se prossiga a análise do recurso.
+Publique-se. Intimem-se.
+ EMENTA
