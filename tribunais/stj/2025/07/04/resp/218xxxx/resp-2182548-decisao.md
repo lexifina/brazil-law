@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO DE GESTÃO PREVIDENCIÁRIA E PROTEÇÃO SOCIAL DO ESTADO DO PARÁ com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará, que manteve decisão de concessão do benefício previdenciário de pensão por morte ao autor, mesmo recebendo outro benefício assistencial de pessoa com deficiência, nos termos da seguinte ementa (fl. 255):
+EMENTA: AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE CONCESSÃO DE PENSÃO POR MORTE. PREVIDENCIÁRIO. FILHO MAIOR INVÁLIDO. SEN TENÇA DE IMPROCEDÊNCIA. RECURSO DO MINISTÉRIO PÚBLICO E DA PARTE AUTORA. PEDIDO DE REFORMA. SENTENÇA REFORMADA. COMPROVAÇÃO DOS REQUISITOS LEGAIS AO RECEBIMENTO DA PENSÃO POR MORTE DE FILHO MAIOR INVÁLIDO. CASAMENTO NÃO É ÓBICE AO BENEFÍCIO. LEI COMPLEMENTAR 39/2002 NÃO PREVALECE PARA ESTABELECER REGRA RESTRITIVA. OBSERVÂNCIA DA LEI FEDERAL Nº 8.213/1991. POSSIBILIDADE DE CUMULAÇÃO DE BENEFÍCIOS. RECEBIMENTO DE BENEFÍCIO ASSISTENCIAL A PESSOA COM DEFICIÊNCIA PELO INSS. FATOS GERADORES E FONTES PAGADORAS DIFERENTES . INEXISTÊNCIA DE VEDAÇÃO LEGAL. REGIMES PREVIDENCIÁRIOS DISTINTOS. ENTENDIMENTO DO C. STJ E JURISPRUDÊNCIA DO TJPA. RECURSO CONHECIDO E IMPROVIDO.
+Em seu recurso especial (fls. 266/276), sustenta o recorrente violação do artigo 20, § 4º, da Lei n. 8.742/93, que "deia claro que a cumulação é proibida para qualquer outro benefício da seguridade social, não só da assistência social".
+As contrarrazões foram apresentadas às fls. 278/285 e 286/296.
+O recurso especial foi admitido na origem.
+É o relatório.
+De acordo com entendimento consolidado do Superior Tribunal de Justiça, é indispensável o efetivo exame da matéria objeto do recurso especial pelo acórdão recorrido, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, que exige o prequestionamento por meio da apreciação da questão federal pelo tribunal a quo, de modo a se evitar a supressão de instância.
+Na espécie, contudo, a tese suscitada pelo recorrente, de violação do artigo 20, § 4º, da Lei n. 8.742/93, não foi analisada pela Corte de origem, a indicar a ausência de prequestionamento da questão, nos termos das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido, confiram-se, dentre muitos, os seguintes precedentes desta Corte:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PENHORA. IMPENHORABILIDADE DE VALORES INFERIORES A 40 SALÁRIOS MÍNIMOS. ART. 833, X, DO CPC. CONTAS CORRENTES DIVERSAS. INTERPRETAÇÃO EXTENSIVA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. FALTA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 E 356 DO STF. AGRAVO INTERNO IMPROVIDO
+1. É inadmissível o recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não combate todos eles, nos termos da súmula 283/STF.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido, por incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.821.351/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ATRASO EM VOO. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A responsabilidade objetiva da companhia aérea, prevista no art. 14 do Código de Defesa do Consumidor, não é absoluta, cabendo a ela responder somente pelos danos efetivamente comprovados nos autos em decorrência de defeito no serviço, nos termos da jurisprudência deste Tribunal Superior.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.744.506/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO DEMONSTRADA. FALTA DE PREQUESTIONAMENTO. ENTENDIMENTO DAS SÚMULAS 282 E 356 DO STF E 211 DO STJ.
+1. Não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia.
+2. A parte insurgente defende, no Recurso Especial, possível violação da regra do § 1º do art. 87 do CPC, apontando-se suposto desrespeito à norma de distribuição dos ônus sucumbenciais entre os litisconsortes.
+3. A tese apresentada no Apelo não foi analisada pela Corte de origem, à luz dos dispositivos legais invocados. Perquirir nesta via estreita ofensa à referida norma, sem que se tenha explicitado a tese jurídica que ora se controverte, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados sumulares 211 do STJ e 356 do STF. É assente nesta Corte o entendimento de que é condição sine qua non para que se conheça do Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como malferidos.
+4. Em relação ao pedido de suspensão do processo em razão do Tema 1.255/STF, ao presente processo não deve ser aplicado o que for definido no referido tema de Repercussão Geral, pois, conforme entendimento desta Corte, "não tendo o recurso ultrapassado o juízo de admissibilidade, não pode a matéria de mérito ser objeto de exame, mesmo que a controvérsia seja objeto de Recurso Repetitivo" (STJ, AgInt no REsp 1.814.371/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 11/09/2020).
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.119.905/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. RECURSO ESPECIAL NÃO CONHECIDO.
