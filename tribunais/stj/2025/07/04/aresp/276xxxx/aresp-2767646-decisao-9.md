@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado por SINVALDO MARTINS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, alínea "a", da CR, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Opostos embargos declaratórios, foram rejeitados.
+No recurso especial inadmitido, apontou violação aos artigos 59 e 68 do Código Penal.
+Pleiteou o reconhecimento da nulidade das provas obtidas a partir das interceptações telefônicas, o reconhecimento da causa especial de diminuição de pena prevista no art. 33, §4º, da Lei de Drogas, fixação do regime aberto e substituição da pena privativa de liberdade por restritivas de direitos, além da concessão da gratuidade da justiça (fls. 6661/6662).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 6677), ao que se seguiu a interposição de agravo (e-STJ, fls. 7271).
+O agravante alega que a matéria revolvida pelo recurso foi expressamente prequestionada pelo acórdão proferido no julgamento da apelação e que não se está promovendo o reexame do quadro probatório dos presentes autos, mas tão somente a revaloração dos critérios jurídicos utilizados na apreciação dos fatos (fls. 7274/7275).
+Remetidos os autos a esta Corte Superior, o MPF (e-STJ, fls. 7524-7537).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No caso, a instância anterior analisou a dosimetria da forma como segue:
+" ..
+Pois bem.
+A culpabilidade do réu, entendida aqui como o grau de reprovação e censurabilidade de sua conduta, com base nas provas dos autos, deve ser compreendida como normal.
+Quanto a conduta social, entendo que não existem, nestes autos, elementos necessários à sua verificação, já que esta deve ser analisada sob o prisma de seu comportamento na comunidade, seja na sua família, escola, vizinhança, trabalho, locais que costuma frequentar, dentre outros.
+A personalidade, por ser o conjunto dos atributos psicológicos que determinam o caráter e a postura social da pessoa, deve ser considerada favorável ao apelante, pois, para sua real aferição, necessário se mostraria um estudo técnico-científico mais apurado que, nas palavras de Paganella Boschi, compreenderia "o mergulho na história pessoal e familiar do acusado". Tal estudo, entretanto, não ocorreu no presente caso.
+Portanto, os crimes cometidos pelo recorrente, isoladamente, não traduzem sua conduta social e, assim, referida circunstância judicial não pode embasar um aumento na pena-base.
+Quanto aos motivos do crime, estes são próprios aos delitos de jaez.
+As consequências são inerentes ao presente delito, não devendo ser analisados de forma desfavorável.
+Quanto a sua situação econômica do apelante esta é circunstância a ser analisada quando da fixação da pena de multa, não tendo qualquer efeito em face da pena-base. Por fim, a grande quantidade e qualidade da droga apreendida deve ser valorada de forma negativa quando da aplicação da pena-base, devendo a mesma seja fixada acima do mínimo legal.
+Pena do tráfico de drogas
+Na primeira fase, diante de todo o acima analisado, levando-se em consideração a quantidade e qualidade da droga apreendida (700kg de maconha), fixo a pena-base em 10 (dez) anos de reclusão e pagamento de 1.000 (mil) dias-multa.
+Na segunda fase, diante da atenuante da confissão espontânea, reduzo sua pena em 1/6 (um sexto) perfazendo um total de 08 (oito) anos e 04 (quatro) meses de reclusão e pagamento de 833 (oitocentos e trinta e três) dias-multa.
+Na terceira fase, ante o reconhecimento da causa de diminuição de pena, e tendo em vista a utilização da quantidade da droga para fixar a pena-base e, assim, a impossibilidade de novamente empregá-la nesta terceira fase, sob pena de bis in idem, reduzo sua pena em 2/3 (dois terços), restando fixada em 02 (dois) anos, 09 (nove) meses e 10 (dez) dias de reclusão e pagamento de 277 (duzentos e setenta e sete) dias- multa.
+Tendo em vista o quantum da pena e a primariedade do apelante, fixo o regime aberto para início de cumprimento da pena, em conformidade com o art. 33, §2º, "b" do CP. Tendo em vista que o apelante preenche os requisitos do art. 44 do CP, substituo sua pena privativa de liberdade por duas restritivas de direitos, consistente em prestação pecuniária no valor de 01 (um) salário mínimo, vigente à época dos fatos, e prestação de serviços à comunidade, nas condições que deverão ser estabelecidas pelo juízo da execução." (e-STJ, fls. 6274-6276).
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Ademais, diante do silêncio do legislador, a jurisprudência e a doutrina passaram a reconhecer como critérios ideais para individualização da reprimenda- base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador, ou de 1/6, a incidir sobre a pena mínima.
+Deveras, tratando-se de patamares meramente norteadores, que buscam apenas garantir a segurança jurídica e a proporcionalidade do aumento da pena, é facultado ao juiz, no exercício de sua discricionariedade motivada, adotar quantum de incremento diverso diante das peculiaridades do caso concreto e do maior desvalor do agir do réu. Isso significa que não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1 /8 do intervalo supracitado ou mesmo outro valor.
+Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias.
+Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, conforme se observa, a quantidade da droga é extremamente relevante - 700 kg de maconha - , justificando a aplicação do aumento em 5 anos da pena-base ao crime de tráfico drogas.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO TRANSNACIONAL DE DROGAS. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO COM FUNDAMENTO NA QUANTIDADE DE ENTORPECENTE APREENDIDO. DESPROPORCIONALIDADE NÃO CONSTATADA. REDUTOR PREVISTO NO § 4.º DO ART. 33 DA LEI N. 11.343 /2006. INDEFERIMENTO COM BASE NO MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme orientação do Superior Tribunal de Justiça, "não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial, seja ela de 1 /6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor" (AgRg no HC n. 787.967/RJ, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em , DJe de ).
+2. Hipótese em que o aumento de 2 (dois) anos e 11 22/05/2023 25/05/2023 (onze) meses efetivado na primeira fase da dosimetria do crime de tráfico de drogas revela-se proporcional e fundamentado, considerandose a motivação apresentada - grande quantidade de entorpecente apreendido - e a pena abstratamente cominada para o crime: cinco a quinze anos de reclusão.
+3. No mais, as instâncias ordinárias ressaltaram as circunstâncias do caso para concluir pela dedicação do Réu à atividade delitiva, notadamente o modus operandi utilizado no transporte internacional de expressiva quantidade de droga, que envolveu o concurso de pessoas.
+4. Nesse contexto, não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do Agravante à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+5. Agravo regimental desprovido." (AgRg no HC n. 778.266/MS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em , DJe de .) 12/3/2024 21/3/2024.)
+Destarte, nada a reparar.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
+ EMENTA
