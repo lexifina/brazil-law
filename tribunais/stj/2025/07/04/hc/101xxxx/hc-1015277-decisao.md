@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de SIDINEI DE ALMEIDA LOPES, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"EMENTA: AGRAVO DE EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL DESFAVORÁVEL. INCOMPATIBILIDADE COM OS OBJETIVOS DA PENA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo de execução interposto contra decisão que indeferiu o pedido de livramento condicional formulado por apenado condenado a 68 anos de reclusão, por dois homicídios qualificados e uma ameaça, sob o fundamento de ausência de requisito subjetivo.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravante preenche os requisitos subjetivos exigidos para a concessão do livramento condicional, à luz do histórico prisional e dos objetivos da execução penal.
+III. Razões de decidir
+3. Embora preenchido o requisito objetivo (lapso temporal), o agravante possui histórico prisional com 12 faltas disciplinares, sendo 3 de natureza grave, o que compromete a avaliação positiva de sua conduta.
+4. O remanescente de pena é superior a 30 anos, e o ingresso no regime aberto (PAD) é recente, não sendo suficiente para demonstrar senso de responsabilidade e autodisciplina.
+5. A jurisprudência do STJ (Tema 1161) admite a análise do comportamento prisional ao longo de toda a execução, e não apenas nos últimos 12 meses.
+6. A concessão do benefício exige prognóstico favorável de reintegração social, o que não se verifica no caso concreto.
+7. A decisão de primeiro grau está devidamente fundamentada e em consonância com os princípios da individualização da pena e da segurança pública.
+IV. Dispositivo
+8. Recurso conhecido e desprovido.
+Dispositivos relevantes citados: CP, art. 83, caput e parágrafo único; LEP, arts. 112 e 131.
+Jurisprudência relevante citada: STJ, Tema Repetitivo nº 1161; TJRJ, AgExec 5012290- 43.2022.8.19.0500, Rel. Des. Luiz Zveiter, j. 28.11.2023." (e-STJ, fls. 8-9).
+Neste writ, a Defensoria Pública alega flagrante ilegalidade suportada pelo paciente em decorrência do indeferimento do pedido de livramento condicional, não obstante tenham sido preenchidos os requisitos legais para a concessão do benefício.
+Assevera que a gravidade dos delitos e a longa pena a cumprir não são fundamentos idôneos para a negativa do benefício, de acordo com a jurisprudência desta Corte Superior.
+Requer, inclusive liminarmente, que seja reconhecido o direito do paciente ao livramento condicional.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No tocante ao livramento condicional, nos termos dos arts. 83 do Código Penal, 112 e 131 da Lei de Execuções Penais, para a concessão do benefício, deve o apenado preencher os requisitos de natureza objetiva (fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover ao próprio sustento de maneira lícita).
+Sobre os requisitos subjetivos, a jurisprudência deste Superior Tribunal de Justiça entende que são fundamentos inidôneos ao indeferimento do benefício a gravidade abstrata do delito praticado, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional. Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. HISTÓRICO PRISIONAL CONTURBADO. DECISÃO DEVIDAMENTE FUNDAMENTADA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que a gravidade do delito, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não são fundamentos idôneos para o indeferimento do livramento condicional.
+2. No entanto, o Tribunal Estadual concluiu que o preso apresenta histórico prisional conturbado, com a prática de faltas disciplinares de natureza grave, situação, pois, que demonstra a sua inaptidão para a benesse.
+3. O "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 2/6/2020, DJe 10/6/2020).
+4. De acordo com o entendimento assente nesta Corte Superior, "as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo", bem como, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+5. Agravo regimental não provido." (AgRg no HC n. 780.731/SP, de minha relatoria, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023.)
+No caso dos autos, todavia, verifica-se que as instâncias originárias indeferiram a benesse com base em fundamento idôneo: a ausência do requisito subjetivo, evidenciada pela prática de 12 (doze) faltas disciplinares no histórico prisional do reeducando, sendo 3 (três) delas de natureza grave. Ta l circunstância enseja mais cautela na concessão do livramento condicional.
+Embora o paciente tenha cumprido o requisito temporal para o benefício, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o histórico prisional desfavorável do apenado.
+Ademais, o "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC n. 572.409/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/6/2020, DJe de 10/6/2020).
+Vale sublinhar que a Terceira Seção desta Corte Superior, na sessão do dia 24/5/2023, firmou tese no sentido de que " a  valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal." (Tema n. 1.161).
+Oportunamente, confira-se a ementa desse julgado:
+"PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO.
+1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ.
+2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso).
+3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+4. No caso concreto, o recorrido não preenche os requisitos para a obtenção do livramento condicional, diante da prática de falta grave, considerada pelo juízo da execução como demonstrativa de irresponsabilidade e indisciplina no cumprimento de pena.
+5. Recurso especial provido." (REsp n. 1.970.217/MG, de minha relatoria, Terceira Seção, julgado em 24/5/2023, DJe de 1/6/2023.)
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
