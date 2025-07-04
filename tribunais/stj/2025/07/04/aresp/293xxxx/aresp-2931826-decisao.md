@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com apoio na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fl. 56):
+"EMENTA: AGRAVO EM EXECUÇÃO - EXECUÇÃO DA PENA DE MULTA - PESQUISA DE BENS - EXPEDIÇÃO DE OFÍCIO AO CARTÓRIO DE IMÓVEIS - NÃO CABIMENTO - DILIGÊNCIA QUE COMPETE AO MINISTÉRIO PÚBLICO - 1. Compete ao exequente diligenciar acerca da existência de patrimônio em nome do executado, especialmente quando a informação puder ser obtida extrajudicialmente pela própria parte interessada. - 2. A realização de diligências pelo Juízo da execução penal - na condução do processo de execução da sanção pecuniária - deve se restringir aos casos em que a informação não puder ser obtida sem a determinação judicial. "
+O caso envolve um agravo em execução penal relacionado à pena de multa imposta a Denilson Jerônimo da Silva. O Ministério Público havia solicitado ao juízo de primeira instância que expedisse um ofício ao Cartório de Registro de Imóveis para localizar bens do sentenciado, mas o pedido foi negado com base no argumento de que o Ministério Público tem poder requisitório e que as informações são de livre acesso.
+No recurso especial, a parte recorrente aponta existência de violação do art. 68, II, "a", da Lei de Execução Penal. Alega que o poder de requisição do Ministério Público é destinado a atividades pré-processuais e a procedimentos administrativos. Aduz que cabe ao magistrado realizar diligências necessárias para descobrir a verdade real.
+O recurso especial foi inadmitido na origem (e-STJ, fls. 96-97), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo e provimento do recurso especial (e-STJ, fls. 149-154).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+A controvérsia cinge-se a determinar se é dever do Poder Judiciário o envio de ofícios, durante a execução penal, especialmente para obter informações perante cartórios extrajudiciais, mesmo com o Ministério Público possuindo poder requisitório.
+Apesar do entendimento do recorrente, no sentido de que o poder requisitório do Ministério Público é destinado a atividades pré-processuais e a procedimentos administrativos, a jurisprudência desta Corte firmou-se em sentido contrário.
+De acordo com os precedentes abaixo colacionados, não há justificativa para a intervenção do Poder Judiciário quando o Ministério Público tem a prerrogativa de obter diretamente a informação desejada. A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. INEXISTÊNCIA DE ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. CERTIDÃO DE ANTECEDENTES CRIMINAIS. INDEFERIMENTO PELO JUIZ. POSSIBILIDADE DE REQUISIÇÃO PELO PRÓPRIO MINISTÉRIO PÚBLICO.
+1. O Ministério Público, conforme determina a Constituição da República, possui o poder-dever de, diretamente, diligenciar para a produção de provas e a obtenção de quaisquer informações que visem o cumprimento de suas atribuições institucionais, como a obtenção de certidão de antecedentes criminais.
+2. Conforme os precedentes desta Corte Superior, é possível o Ministério Público requerer ao Judiciário a realização de diligências, desde que demonstre a impossibilidade de executá-las por meio próprio - ônus do qual o agravante não se desincumbiu, seja ao peticionar às instâncias a quo, seja ao interpor o presente recurso ordinário.
+3. Agravo regimental improvido.
+(AgRg no RMS n. 68.838/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. CERTIDÃO DE ANTECEDENTES CRIMINAIS. INDEFERIMENTO PELO JUIZ. POSSIBILIDADE DE REQUISIÇÃO PELO MINISTÉRIO PÚBLICO. INCAPACIDADE DE REALIZAR A DILIGÊNCIA NÃO DEMONSTRADA PELO ÓRGÃO ACUSATÓRIO. FATO CONTROVERTIDO. INADEQUAÇÃO DA VIA ELEITA. REGIMENTAL DESPROVIDO.
+ ..
+3. O requerimento, das folhas de antecedentes criminais dos réus, pelo Parquet ao Poder Judiciário, só se justifica quando comprovada a real necessidade da intervenção judicial decorrente da inviabilidade de acesso do órgão ministerial por meios próprios.
+Precedentes.
+4. Pela ótica das instâncias ordinárias não se demonstrou a existência de efetivo obstáculo para a obtenção, por própria atuação do Ministério Público, das certidões de antecedentes criminais dos acusados, sendo inviável, por meio da via processual eleita, conforme consabido, alterar tal premissa fática. O mandado de segurança somente terá cabimento para a proteção de direito líquido e certo, compreendendo-se tal expressão, em sentido processual, como "direito comprovável documentalmente, sem necessidade de instrução dilatória" (GRINOVER, Ada Pelegrini, 7ª ed. pág. 310).
+5. Agravo regimental desprovido.
+(AgRg no RMS n. 59.990/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/5/2019, DJe de 10/6/2019).
+AGRAVO REGIMENTAL. PROCESSO PENAL. ERRO MATERIAL NO RELATÓRIO. EXISTENTE. REQUISIÇÃO DE CERTIDÃO DE ANTECEDENTES CRIMINAIS PELO JUÍZO DE 1º GRAU. INEXISTÊNCIA DE ÔNUS EXCLUSIVO. POSSIBILIDADE DO MINISTÉRIO DILIGENCIAR PARA A PRODUÇÃO DA PROVA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Verificada a existência de erro material no relatório da decisão agravado, deve ser corrigido para constar que o Ministério Público se manifestou pelo provimento do recurso em mandado de segurança.
+2. Entende este Superior Tribunal que, em razão de preceito constitucional, o Ministério Público possui o poder/dever de diretamente diligenciar para a produção de provas e a obtenção de quaisquer informações que visem o cumprimento de suas atribuições institucionais, como a obtenção de certidão de antecedentes criminais.
+3. Agravo regimental improvido.
+(AgRg no RMS n. 61.748/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 18/2/2020, DJe de 27/2/2020).
+Ademais, o entendimento deste Superior Tribunal de Justiça é no sentido da legitimidade do Ministério Público para execução da pena de multa, o qual, atento às disposições contidas nos arts. 164 e seguintes da Lei de Execução Penal, deverá promovê-la. Dessa forma, afigura-se evidente a responsabilidade do Ministério Público para, utilizando as prerrogativas institucionais que detém, diligenciar de forma a viabilizar a cobrança da multa.
+Ante o exposto, nos termos do disposto no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provim ento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
