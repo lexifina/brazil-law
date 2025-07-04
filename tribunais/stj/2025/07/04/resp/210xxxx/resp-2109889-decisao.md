@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIS VAGNER SILVA DOS SANTOS contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que manteve a condenação pelo art. 155, § 4º, inciso I, do Código Penal, à pena de 3 (três) anos, 1 (um) mês e 10 (dez) dias de reclusão e 20 (vinte) dias-multa (fls. 243-248).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 59 do Código Penal (fls. 210-217).
+Em contrarrazões, o Ministério Público do Estado do Rio Grande do Sul pugna pela inadmissão do recurso especial, nos termos da Súmula n. 7 do STJ, e, no mérito, pelo seu desprovimento (fls. 222-225).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 278-281).
+É o relatório. DECIDO.
+A controvérsia versa sobre utilização de condenações por fatos posteriores ao crime em julgamento para negativar a personalidade do agente na primeira fase da dosimetria da pena.
+Segundo o Tribunal a quo, condenações transitadas em julgado por fatos posteriores demonstram que a personalidade do agente é voltada para o crime (fls. 244-246):
+"Mantenho, no entanto, específico no que tange ao Tema Repetitivo nº 1.077/STJ, minha posição quanto à viabilidade do uso de condenações transitadas em julgado por fatos posteriores3 ao então analisado a fim de avaliar personalidade voltada à prática delitiva, sobretudo considerando que a mencionada Corte Superior registra recentes precedentes manifestando entendimento contrário à Súmula e ao Tema Repetitivo supracitados, refletindo a possibilidade de relativização da matéria, in verbis:
+(..)
+Feito o registro, na medida em que o acusado registra condenações definitivas por fatos anteriores (processos nº 034/2.03.0000587-0, 034/2.16.0003307-9 e 034/2.06.0000091-1) e posteriores (feitos nº 034/2.17.0004830-2, 034/2.18.0000980-5 e 034/2.18.0001998-3), cabível a manutenção da vetorial personalidade, inviabilizado o redimensionamento da basilar nos moldes pretendidos pela defesa."
+A decisão está em desacordo com a jurisprudência desta Corte, pois as condenações com trânsito em julgado e referentes a fatos posteriores ao delito em julgamento não podem ser utilizadas para desabonar a personalidade do agente, sob pena de vulnerar o princípio constitucional da presunção de não culpabilidade.
+A propósito:
+"3. Outrossim, condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ, verbis: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base". (AgRg no AREsp n. 894.405/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 24/5/2016, DJe de 13/6/2016.). (..)" (AgRg no HC n. 866.362/AL, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024)
+"1. A jurisprudência deste Tribunal Superior pacificou entendimento no sentido de que nem mesmo condenações transitadas em julgado, por fatos posteriores ao delito em exame, podem ser consideradas reveladoras de má conduta social ou personalidade desajustada e servir como supedâneo a fim de justificar o afastamento da reprimenda básica do mínimo legalmente previsto em lei, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Inteligência da Súmula n. 444/STJ." (AgRg no HC n. 550.993/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/8/2020, DJe de 31/8/2020)
+Dessa forma, procedo ao redimensionamento da pena.
+Na primeira fase, fixo a pena em 2 (dois) anos e 4 (quatro) meses de reclusão e 12 (doze) dias-multa, haja vista os maus antecedentes.
+Na segunda fase, presente a agravante da reincidência, elevo a pena para 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão e 14 (catorze) dias-multa, a qual torno definitiva ante a inexistência de causas de aumento ou diminuição de pena.
+Ademais, mantenho inalterado o regime inicial semiaberto, nos termos do art. 33, §§ 2º, alínea "b", e 3º, do Código Penal.
+Ante o exposto, dou provimento ao recurso especial, nos termos do art. 255, § 4º, inciso III, do RISTJ, para afastar a valoração da personalidade na primeira fase da pena, redimensionando a pena, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
