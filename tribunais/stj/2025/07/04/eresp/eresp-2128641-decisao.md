@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por JESUS PERES a acórdão prolatado pela Terceira Turma, assim ementado (fl. 851):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ.
+1. É inviável rever o entendimento firmado pelas instâncias ordinárias quanto à sucumbência recíproca sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+2. Agravo interno não provido.
+O embargante suscita divergência sobre a fixação dos honorários advocatícios sucumbenciais em casos de valores elevados de condenação, causa ou proveito econômico, indicando o Tema Repetitivo n. 1.076 como paradigma para fins de confronto analítico.
+Argumenta que o acórdão embargado, ao fixar os honorários sucumbenciais em apenas 1,5% do valor da causa, contraria a tese firmada no Tema Repetitivo n. 1.076, que exige a aplicação dos percentuais de 10% a 20%, previstos no § 2º do art. 85 do CPC/2015 para causas de elevado valor econômico. Alega que o valor da causa, fixado em R$ 207.182,64, não pode ser considerado baixo ou irrisório, não sendo permitida a apreciação equitativa da verba honorária.
+É o relatório. Decido.
+Os presentes embargos de divergência não reúnem condições de admissibilidade.
+Observa-se que o acórdão embargado não conheceu do recurso especial quanto à alegada ofensa ao art. 85, § 2º, do CPC, assentando a necessidade de reexame de matéria fática, ante as circunstâncias destacadas na origem, in verbis:
+Conforme anotado na decisão ora agravada, no tocante à fixação dos honorários, registra-se, por oportuno, o disposto na decisão de primeira instância:
+"(..) Diante da sucumbência recíproca e observando a decisão de fls. 508/509 (que acolheu a impugnação e reduziu o valor da causa para R$ 207.182,64), os orçamentos de fls. 475 e 483/488 e o proveito econômico obtido pelo Autor, condeno:
+a) o Autor ao pagamento de 85% das custas e despesas processuais, bem como honorários advocatícios em favor do patrono da Requerida, os quais fixo em 10% de 85% do valor atribuído à causa, que representa 8,5% do valor atualizado da causa (fl. 508), compreendendo apenas atualização monetária pela Tabela Prática do TJSP desde o ajuizamento da demanda e juros moratórios simples de 1% ao mês desde o trânsito em julgado desta sentença, contudo observo que ele é beneficiário da gratuidade da justiça (fl. 99/100) e o disposto no artigo 98, § 2º e § 3º, do CPC, fincando suspensa eventual execução ou cobrança;
+b) a Requerida ao pagamento de 15% das custas e despesas processuais, bem como honorários advocatícios em favor do patrono do Autor, os quais fixo em 10% de 15% do valor atribuído à causa, que representa 1,5% do valor atualizado da causa (fl. 508), compreendendo apenas atualização monetária pela Tabela Prática do TJSP desde o ajuizamento da demanda e juros moratórios simples de 1% ao mês desde o trânsito em julgado desta sentença (registre-se que a maior parte do pedido foi improcedente, inclusive, dos valores mais altos, de modo que a sucumbência foi dividida proporcionalmente)" (e-STJ fl. 573 - grifou-se).
+Anota-se, ainda, os esclarecimentos do acórdão dos embargos declaratórios:
+"(..) com relação aos honorários de sucumbência, que, apesar de não ter constado expressamente na sentença, foram fixados com base no § 16º, do art. 85 do CPC, observado o novo valor atribuído à causa" (e-STJ fl. 755).
+Esta Corte entende que
+"(..) A análise do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula nº 7/STJ" (AgInt no REsp 1.878.824/DF, Relator Ministro Ricardo Villas Bôas Cueva, DJe 14/8/2024).
+A propósito:
+Portanto, o acórdão embargado não fixou tese a respeito da verba honorária fixada, atraindo a incidência da Súmula n. 315 do STJ ("Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial").
+Ainda que assim não fosse, o embargante não demonstrou a divergência nos termos legais e regimentais. Com efeito, na linha da iterativa jurisprudência desta Corte, os embargos de divergência são recurso de fundamentação vinculada, cujas razões devem, necessariamente, demonstrar a similitude fática e jurídica entre o acórdão embargado e os arestos paradigmas, mediante o devido cotejo analítico. Nesse sentido, dentre muitos: AgInt nos EAREsp n. 2.196.956/SP, Corte Especial, relator Ministro Francisco Falcão, julgado em 27/5/2025, DJEN de 30/5/2025; AgInt nos EDcl nos EREsp n. 2.132.716/SP, Segunda Seção, relatora Ministra Nancy Andrighi, julgado em 8/5/2025, DJEN de 20/5/2025; e AgRg nos EAREsp n. 2.460.025/SP, Terceira Seção, relator Ministro Otávio de Almeida Toledo, julgado em 14/5/2025, DJEN de 20/5/205.
+O embargante, contudo, limitou-se a alegar divergência com a tese fixada no Tema n. 1.076, deixando de indicar "as circunstâncias que identificam ou assemelham os casos confrontados". Assim, deixou de atender às exigências atinentes à fundamentação vinculada exigida para o recurso de embargos de divergência.
+Ante o exposto, inadmito os embargos de divergência .
+Nos termos do art. 85, § 11 do CPC, majoro os honorários advocatícios fixados na origem em 2%.
+Publique-se. Intimem-se.
+EMENTA
