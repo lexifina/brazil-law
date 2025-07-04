@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por JULIANA MIGUEL ZERBINI e OUTRO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurgem contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 70):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. FALECIMENTO DO ADVOGADO. HERDEIROS. CESSÃO DE CRÉDITOS. LEVANTAMENTO DE VALORES. JUÍZO DO INVENTÁRIO. DECISÃO RECORRIDA MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1. O artigo 24, § 2º, do Estatuto da Advocacia, estabelece que na hipótese de falecimento ou incapacidade civil do advogado, os honorários de sucumbência, proporcionais ao trabalho realizado, são recebidos por seus sucessores ou representantes legais.
+2. Pelo princípio da saisine (artigo 1784 do CC), princípio fundamental do direito sucessório, com a morte se opera a imediata transferência da herança aos seus sucessores legítimos e testamentários. É dizer, ocorre a transmissão de direitos e obrigações das quais anteriormente era o de cujus titular, aos seus herdeiros.
+3. Para transmissão de direitos e obrigações é indispensável o procedimento do inventário e partilha, com a enumeração e descrição dos bens e das obrigações que integram a herança. Todos os direitos, bens e obrigações serão incluídos no inventário, integrando o chamado "monte-mor".
+4. Agravo interno improvido.
+Os embargos de declaração opostos foram rejeitados (fl. 105).
+Em suas razões recursais, os recorrentes apontam, além do dissídio jurisprudencial, ofensa ao art. 1.022 do Código de Processo Civil (CPC), "diante da omissão do E. Tribunal em analisar, efetivamente, as questões levantadas pelo recorrente em sede de embargos de declaração" (fl. 112), bem como ao art. 24, § 2º, da Lei 8.906/1994, diante da validade da cessão de crédito relativo à verba honorária, de modo que o montante deve ser destinado aos cessionários (novos titulares do direito de crédito) e não ao juízo do inventário do falecido patrono (fls. 107/119).
+Não foram apresentadas contrarrazões.
+O recurso foi admitido (fls. 132/133).
+É o relatório.
+De início, observo que, nas razões do recurso especial, relativamente à violação ao art. 1.022 do Código de Processo Civil, a parte recorrente alegou o seguinte (fls. 110/112):
+VI - DA CONTRARIEDADE AO ARTIGO 1.022, II, CPC
+A recorrente opôs embargos de declaração, pois entendeu que o v. Acórdão deixou de se manifestar sobre todos os temas do recurso. A despeito da oposição dos embargos de declaração, o E. Tribunal a quo rechaçou os embargos, nos seguintes termos:
+ ..
+Pode-se verificar que, de fato, o E. Tribunal nega-se, de forma expressa, a se pronunciar acerca do tema, contrariando, de forma clara, o artigo 1.022, do Código de Processo Civil, em especial, seu inciso II, como segue:
+ ..
+A negativa em prestar a função jurisdicional é ato eivado de inconstitucionalidade e não pode ser albergado pelo sistema. É cediço que o Tribunal a quo não precisa explicitar o dispositivo legal que aplicou ou violou, mas deve ser expresso quanto à tese jurídica, que deve ser explicitada, em especial em sede de Recurso Especial para esta Colenda Corte.
+ ..
+Neste diapasão, diante da negativa do E. Tribunal em sanar tal omissão, não restou outra opção senão utilizar o presente meio para que esta Colenda Corte determine ao E. Tribunal a quo à análise expressa das teses jurídicas lá apresentadas.
+O presente recurso, se conhecido e provido apenas nesta parte, ensejará a possibilidade de irresignação futura de outros pontos importantes na presente demanda, pois o requisito de admissibilidade (prequestionamento e decisão acerca de matéria infraconstitucional) será preenchido.
+ ..
+Deste modo, diante da omissão do E. Tribunal em analisar, efetivamente, as questões levantadas pelo recorrente em sede de embargos de declaração, o presente recurso deve ser conhecido e provido, AO MENOS NESTE PONTO, para suprir, nesta Corte, a omissão do E. Tribunal a quo, em aplicação elástica do artigo 1013, §3º, CPC, e julgar o presente Recurso Especial em todos os seus termos.
+Ou, caso Vossas Excelências entendam não ser possível a aplicação do art. 1013, § 3º, CPC, que determine a remessa dos autos ao E. TRF3, para que se pronuncie acerca da tese levantada em sede de embargos de declaração, a fim de sanar a omissão lá apontada, para, após, oportunizar ao recorrente a possibilidade de recorrer acerca daquele ponto e outros que entender possíveis.
+Por conseguinte, o recorrente, por precaução e economia processual, passa a aduzir, a despeito da contradição do v. Acórdão, suas razões de inconformismo, para que, caso esta Colenda Corte entenda possível julgar a demanda em todos os seus termos, já tenha instrumentos para fazê-lo.
+Caso entenda não ser possível analisar as razões a seguir discorridas, pede que conheça o presente recurso apenas no que tange a violação ao artigo 1022, CPC e remeta os autos ao Tribunal de origem, para que sane o vício apontado.
+Constata-se que foram feitas alegações genéricas, que se deixou de indicar especificamente os pontos sobre os quais o julgador deveria ter se manifestado. O recurso especial é deficiente, o que inviabiliza a compreensão da controvérsia.
+Incide no caso em questão, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Quanto à questão de fundo, observo que a parte recorrente alegou violação ao art. 24, § 2º, da Lei 8.906/1994, que possui a seguinte redação:
+Art. 24. A decisão judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos e constituem crédito privilegiado na falência, concordata, concurso de credores, insolvência civil e liquidação extrajudicial.
+ ..
+§ 2º Na hipótese de falecimento ou incapacidade civil do advogado, os honorários de sucumbência, proporcionais ao trabalho realizado, são recebidos por seus sucessores ou representantes legais.
+Não é possível conhecer do recurso porque o dispositivo em questão não contém, por si só, comando normativo capaz de infirmar as conclusões do acórdão recorrido, acerca da necessidade do juízo universal para a correta identificação dos sucessores e a repartição dos bens e valores pertencentes ao autor da herança.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Nesse sentido, em feito análogo ao presente, assim já decidiu a Primeira Turma do STJ:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA À NORMA CONSTITUCIONAL. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a analisar tema eminentemente constitucional, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 2.150.354/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/2/2025, DJEN de 14/2/2025, sem grifos no original.)
+No mesmo sentido: (1) AgInt no REsp 2.105.038/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/4/2024, DJe de 25/4/2024; e (2) AgInt no REsp n. 2.106.255/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.
+Além disso, no acórdão recorrido, o Tribunal de origem negou provimento ao agravo interno interposto pelos agravantes, mantendo a decisão que negou provimento ao agravo de instrumento, ao fundamento de que o art. 24, § 2º, do Estatuto da Advocacia, que determina que os honorários de sucumbência, em caso de falecimento do advogado, sejam recebidos por seus sucessores ou representantes legais, não dispensa o procedimento de inventário e partilha, necessário para a transmissão de direitos e obrigações, conforme o princípio da saisine (art. 1.784 do Código Civil), de modo que a distribuição do patrimônio do falecido deve ocorrer no juízo do inventário, sendo indispensável para a correta identificação dos sucessores e repartição dos bens e valores pertencentes ao autor da herança (fls. 65/68).
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, relativo à necessidade do juízo universal para a correta identificação dos sucessores e a repartição dos bens e valores pertencentes ao autor da herança, limitando-se a afirmar apenas a validade e a eficácia da cessão de crédito realizada pelos herdeiros do patrono falecido, uma vez que preenche todos os requisitos formais e materiais, e que os valores devem ser liberados aos cessionários, não sendo necessário aguardar a conclusão do inventário (fls. 108/118).
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito, confiram-se os seguintes julgados desta Corte Superior, também em feitos análogos ao presente:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HERDEIROS DO FALECIDO ADVOGADO. DIREITO AO RECEBIMENTO DOS HONORÁRIOS ADVOCATÍCIOS SEM A NECESSIDADE DE INVENTÁRIO E PARTILHA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF.
+1. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+2. Agravo interno não provido. (AgInt no REsp n. 2.037.224/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Por fim, em relação ao dissídio jurisprudencial, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
