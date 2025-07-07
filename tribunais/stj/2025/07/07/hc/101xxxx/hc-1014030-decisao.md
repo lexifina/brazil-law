@@ -1,0 +1,8 @@
+DECISÃO
+RE NALDO GOMES MARTINS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 0107184-95.2009.8.19.0001, em que foi mantida a sentença que "condenou Reinaldo pelo crime previsto nos artigos 121, §2º, inciso IV, na forma do 14, II, ambos do Código Penal, aplicando a pena de 10 anos de reclusão, em regime fechado, ao acusado" (fl. 16).
+A esse respeito, releva salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Na hipótese, verifica-se, em consulta ao sítio eletrônico do Tribunal a quo, que a sentença condenatória transitou em julgado, de modo que o writ constitui substitutivo de revisão criminal, a obstar, assim, seu conhecimento.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus. Dessarte, mostra-se indevida a subversão do sistema recursal.
+À vista do exposto, nos termos do art. 210, do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
