@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA VARA CRIMINAL DE PARAGOMINAS - PA, o suscitante, e o JUÍZO DE DIREITO DA 12ª VARA CRIMINAL DOS CRIMES PUNIDOS COM RECLUSÃO DE GOIÂNIA - GO, o suscitado, no âmbito de inquérito policial instaurado para apurar a prática do delito tipificado no art. 171 do Código Penal (estelionato).
+O Juízo suscitante declinou da competência, nos seguintes termos:
+"Como bem colocado pelo Ministério Público do Estado do Pará, a competência para julgar os crimes previstos no art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, foi alterada somente em 2021 e o crime ocorreu em 2016, sendo, por isso, a competência determinada de acordo com as regras da época dos fatos, ou seja, a competência para julgar este fato é do Juízo da Comarca de Goiânia/GO.
+A Lei Processual Penal, ao contrário da Lei Penal, não retroage, sendo aplicada aos fatos realizados em sua vigência, não havendo que se alterar a competência em razão de uma modificação Legal posterior ao crime, pois isso causaria grande insegurança jurídica.
+Desta forma, entendo que a competência para julgar o feito é da Comarca de Goiânia/GO e, por isso, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA perante o Superior Tribunal de Justiça, com fundamento no artigo 115, inciso III, do CPP e no art. 105, I, "d" da CF, para onde os autos deverão ser remetidos." (fls. 76/77).
+O Ministério Público Federal elaborou parecer recebeu o seguinte sumário:
+"CONFLITO DE COMPETÊNCIA. ESTELIONATO. OBTENÇÃO DE VANTAGEM INDEVIDA MEDIANTE DEPÓSITO BANCÁRIO. COMPETÊNCIA DO JUÍZO DO LOCAL DE DOMICÍLIO DA VÍTIMA. ART. 70, §4º, DO CPP. APLICAÇÃO IMEDIATA DA LEI PROCESSUAL AOS PROCESSOS EM CURSO. PRECEDENTE DO STJ. PARECER PELO CONHECIMENTO DO CONFLITO PARA DECLARAR COMPETENTE O JUÍZO SUSCITANTE." (fl. 87).
+É o relatório.
+Decido.
+Conheço do conflito, considerando cuidar-se de juízos vinculados a Tribunais diversos, conforme determina o art. 105, inciso I, alínea "d", da Constituição Federal.
+O núcleo da controvérsia consiste em identificar a competência para a apuração de delito tipificado no art. 171 do Código Penal, praticado mediante depósito bancário realizado pela vítima no local da sua residência e antes da entrada em vigor da nova legislação, que modificou a competência.
+Conforme disposição do § 4º do art. 70 do Código Penal, acrescentado pela Lei n. 14.155/2021, a competência para o processamento e o julgamento dos crimes de estelionato, quando praticados mediante depósito, emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, será definida pelo local do domicílio da vítima.
+Ressalta-se, ainda, que essa norma possui aplicação imediata mesmo para os fatos praticados antes da sua vigência.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. DENÚNCIA DE PRÁTICA DE ESTELIONATO. TRANSFERÊNCIA BANCÁRIA FRUSTRADA E EMISSÃO DE CHEQUE SEM SUFICIENTE PROVISÃO DE FUNDO. ART. 70, § 4º, DO CPP. COMPETÊNCIA DO DOMICÍLIO DA VÍTIMA. APLICAÇÃO IMEDIATA DA LEI PROCESSUAL AOS PROCESSOS EM CURSO. COMPETÊNCIA DE TERCEIRO JUÍZO. AGRAVO REGMENTAL PARCIALMENTE PROVIDO.
+1. Nos termos do § 4º do art. 70 do Código Penal, acrescentado pela Lei n. 14.155/2021, a competência para o processamento e o julgamento dos crimes de estelionato, quando praticados mediante depósito, emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, será definida pelo local do domicílio da vítima.
+2. Conforme orientação jurisprudencial desta Corte Superior, a lei processual tem aplicação imediata, mesmo que os fatos tenham ocorrido antes da lei nova, motivo pelo qual, diante da alteração legislativa que criou hipótese específica de competência no caso de crime de estelionato, deve ser reconhecida a competência do Juízo do domicílio da vítima.
+3. Agravo regimental parcialmente provido para declarar a competência de uma das Varas Criminais da Circunscrição Judiciária do Riacho Fundo/DF, juízo não envolvido no presente conflito.
+(AgRg no CC n. 196.475/SP, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 14/6/2023, DJe de 21/6/2023.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL PENAL. ESTELIONATO. CRIME QUE SE UTILIZOU DE IMAGENS DE DOCUMENTOS FEDERAIS PARA INDUZIR A VÍTIMA EM ERRO. INEXISTÊNCIA DE PREJUÍZO A INTERESSES, SERVIÇOS OU BENS DA UNIÃO. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL. CRIME PRATICADO MEDIANTE DEPÓSITO BANCÁRIO. SUPERVENIÊNCIA DA LEI N. 14.155/2021. PERSECUÇÃO PENAL EM FASE DE INQUÉRITO POLICIAL. NORMA PROCESSUAL. APLICAÇÃO IMEDIATA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DO DOMICÍLIO DA VÍTIMA.
+ ..
+4. Afastada a competência da Justiça Federal, urge fixar o Juízo Estadual competente para processar o feito. Nos termos do art. 70, § 4.º, do Código de Processo Penal, com a redação atribuída pela Lei n. 14.155/2021, a competência será definida pelo local do domicílio da vítima no caso de crime de estelionato praticado mediante depósito, transferência de valores ou cheque sem provisão de fundos em poder do sacado ou com o pagamento frustrado.
+5. Conflito conhecido para declarar competente o Juízo Estadual da Comarca de Guararapes - PE, onde se situa a representação da Empresa Vítima no Brasil.
+(CC n. 178.697/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 22/6/2022, DJe de 27/6/2022.)
+Na espécie, a vítima é domiciliada em Paragominas/PA e o crime ocorreu mediante depósito bancário realizado no seu domicílio, sendo competente, portanto, o Juízo de Direito dessa localidade.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA VARA CRIMINAL DE PARAGOMINAS - PA, o suscitante.
+Publique-se.
+Intimem-se.
+EMENTA
