@@ -1,0 +1,8 @@
+DECISÃO
+ROSIMEIRE SALVADOR DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 1.0145.06.341888-61007, em que foi mantida a sentença que a condenou, "perante o Tribunal do Júri, como incursa nas sanções do art. 121, § 2º, inciso III c/c art. 61, inciso li, alínea "e", todos do Código Penal e fixou pena de 16 (dezesseis) anos de reclusão, inicialmente no regime fechado, sendo-lhe concedido o direito de recorrer em liberdade" (fl. 1.392).
+Consoante assere a defesa, "tendo em vista a) a inexistência de indícios suficientes de autoria; b) o embasamento da decisão em prova indireta (testemunho de "ouvi dizer") e; c) a prevalência, no processo penal democrático, da presunção de inocência, fato é que a recorrente sequer deveria ter sido pronunciada pela prática do crime de homicídio qualificado, sendo submetida, ao longo de todos esses anos, a flagrante constrangimento ilegal" (fl. 45).
+Entretanto, a própria defesa salienta que "o processo aguarda decisão de recurso especial interposto pela defesa (REsp 2128724)" (fls. 3-4).
+Sobre o tema, urge consignar que " a  impetração concomitante a recurso especial subverte o sistema recursal não é admitida pela jurisprudência consolidada desta Corte.  ..  A admissão de habeas corpus e recurso especial simultaneamente permite à parte escolher a matéria a ser deduzida em cada via, o que é incompatível com o sistema recursal vigente" (EDcl no AgRg nos EDcl no HC n. 952.040/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 17/6/2025, grifei.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
