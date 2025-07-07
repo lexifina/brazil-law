@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por SAMPAIO GOUVEIA ADVOGADOS ASSOCIADOS contra o acórdão assim ementado (fl. 2.049):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. EXCEÇÃO DE INCOMPETÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMPETÊNCIA. FORO DO LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO. ART. 100, IV, "D", DO CPC/1973. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. LOCAL DA PRESTAÇÃO DE SERVIÇOS. REEXAME DE PROVAS E DO CONTRATO FIRMADO. SÚMULAS 5 E 7 DO STJ. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem analisou detidamente todas as questões suficientes ao deslinde da controvérsia, reconhecendo que o contrato firmado entre as partes estabelecia que a prestação de serviços advocatícios deveria ser realizada na cidade de Londrina/PR, o que justificava a competência deste foro. Não há se falar, portanto, em negativa de prestação jurisdicional.
+2. O acórdão recorrido está em harmonia com a jurisprudência desta Corte no sentido de que, ausente cláusula de eleição de foro, a ação de arbitramento de honorários deve ser proposta no local onde a obrigação deve ou devesse ser cumprida. Súmula 83/STJ.
+3. Para infirmar as conclusões da Corte estadual acerca da previsão contratual de prestação de serviços na Comarca de Londrina seria imprescindível analisar as provas dos autos, além do próprio contrato firmado, o que é inadmissível na via do recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 2.085-2.092 e 2.121-2.130).
+Aduz a parte embargante que há divergência com acórdão paradigma da Segunda Seção (CC n. 151.295/RJ) relativamente à tese de que compete ao Juízo de Direito da Comarca de São Paulo processar e julgar a demanda, considerando que, tratando-se de ré pessoa jurídica, o foro competente é aquele em que se localiza sua sede.
+É o relatório. Decido.
+Os embargos não reúnem condições de processamento.
+O STJ consolidou entendimento quanto à impossibilidade de se utilizar como paradigma, no âmbito dos embargos de divergência, acórdão proferido em conflito de competência, como é o presente caso.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PARADIGMA PROVENIENTE DE CONFLITO DE COMPETÊNCIA. NÃO CABIMENTO. PRECEDENTES. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. É pacífico o entendimento desta Corte no sentido de que "Não se presta como paradigma apto a ensejar a interposição de embargos de divergência acórdão proferido em conflito de competência" (AgRg nos EREsp n. 904.813/PR, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 5/6/2013, DJe de 7/8/2013). No mesmo sentido: AgInt nos EREsp n. 1.991.989/MA, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 29/11/2022, DJe de 2/12/2022; AgInt nos EREsp n. 1.514.121/DF, relator Ministro Marco Buzzi, Segunda Seção, julgado em 29/11/2022, DJe de 2/12/2022; AgInt nos EAREsp n. 1.086.606/PR, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/8/2022, DJe de 30/8/2022; AgInt nos EAREsp n. 666.671/RS, relator Ministro Raul Araújo, Corte Especial, julgado em 25/5/2021, DJe de 2/6/2021.
+2. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça. Agravo interno improvido. (AgInt nos EREsp n. 1.684.586/RS, relator Ministro Humberto Martins, Segunda Seção, julgado em 15/8/2023, DJe de 18/8/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - DISSÍDIO JURISPRUDENCIAL - ACÓRDÃO PARADIGMA PROFERIDO EM CONFLITO DE COMPETÊNCIA - INADMISSIBILIDADE INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA - INSURGÊNCIA DA EMBARGANTE.
+1. Para fins de demonstração da divergência, devem ser trazidos a confronto acórdãos que tenham decidido o mérito de recurso especial ou extraordinário, nos termos do art. 1.043 do CPC.
+1.1 . No caso dos autos, a embargante trouxe para confronto acórdão proferido em Conflito de Competência, em desconformidade com a disciplina legal dos embargos de divergência, no que tange à comprovação do dissídio jurisprudencial. Precedentes.
+2. Agravo interno desprovido. (AgInt nos EAREsp n. 1.741.376/RS, relator Ministro Marco Buzzi, Segunda Seção, julgado em 30/5/2023, DJe de 1º/6/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO IMPROVIDO.
+1. Os embargos de divergência foram opostos sob a égide do CPC de 1973, sendo, pois, aplicáveis as regras de admissibilidade recursal então vigentes.
+2. Nesse contexto, a jurisprudência desta Corte Superior firmara orientação de, em sede de embargos de divergência em recurso especial, não ser possível indicar como paradigma acórdão proferido em conflito de competência, tampouco aresto prolatado em ação penal originária, pois contrariaria expressamente o disposto nos arts. 546, I, do CPC/1973 e 266 do RISTJ.
+3. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica.
+4. Agravo interno a que se nega provimento. (AgInt nos EAREsp n. 666.671/RS, relator Ministro Raul Araújo, Corte Especial, julgado em 25/5/2021, DJe de 2/6/2021.)
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem .
+Publique-se. Intimem-se.
+EMENTA
