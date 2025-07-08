@@ -1,0 +1,3 @@
+# LEI Nº 23.559, DE 8 DE JULHO DE 2025
+Altera a Lei nº 21.162, de 16 de novembro de 2021, que institui o Programa Bolsa Estudo no âmbito da Secretaria de Estado da Educação e dá outras providências, e revoga dispositivo da Lei nº 23.167, de 20 de dezembro de 2024, que dispõe sobre a organização administrativa do Agrocolégio Estadual Maguito Vilela, altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:
