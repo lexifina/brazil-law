@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se reclamação, com pedido liminar, ajuizada por ZUBAIDA ASSRAUY contra o Juízo da Fazenda Pública Estadual de Belo Horizonte/MG (CENTRASE), com fundamento no art. 988, II, do CPC.
+Reclamação: sustenta, em síntese, que o Juízo reclamado afrontou acórdão proferido pela Terceira Turma do STJ no julgamento do AgInt no AREsp 2.330.052/MG, que não conheceu do agravo interno interposto contra decisão que, por sua vez, não conheceu do agravo em recurso especial interposto pelo Estado de Minas Gerais, em processo envolvendo as mesmas partes.
+Alega que, por meio da referida decisão, o STJ "confirmou definitivamente que a discussão sobre os cálculos da execução estava encerrada, reconhecendo implicitamente a correção dos valores apresentados pela exequente e o caráter protelatório da conduta processual do Estado executado" (e-STJ fl. 4).
+Por sua vez, afirma que, "em flagrante descumprimento à autoridade dessas decisões, o MM. Juízo da CENTRASE proferiu decisão interlocutória em 12/06/2025, conforme documento ID 10370674694 - Decisão e ID 10470646756 - ED, determinando a remessa dos autos à Contadoria Judicial para elaboração de novo cálculo do débito, reabrindo discussão definitivamente sepultada por este Tribunal Superior" (e-STJ fl. 4).
+É O RELATÓRIO. DECIDE-SE.
+1. Do não cabimento da reclamação
+Nos termos dos arts. 105, inciso I, alínea "f", da Constituição Federal, e 988, I e II, do CPC, compete ao STJ processar e julgar originariamente a reclamação para a preservação de sua competência ou para a garantia da autoridade de seus julgados apenas quando objetivamente violados.
+Quanto ao cabimento para garantir a autoridade de suas decisões, segundo a jurisprudência do STJ, pressupõe-se, nessa hipótese, a existência de um comando positivo desta Corte cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida (AgInt na Rcl 38.236/SP, Primeira Seção, DJe 28/10/2019; AgRg na Rcl 33.823/SP, Terceira Seção, DJe 1/8/2017; AgInt na Rcl 28.688/RJ, Segunda Seção, DJe 29/8/2016).
+Nessa situação, o instrumento da reclamação tem por objetivo assegurar que ordens diretas emanadas do STJ não sejam descumpridas nas instâncias ordinárias, não servindo para a preservação da jurisprudência desta Corte ou como sucedâneo recursal (AgRg na Rcl 29.329/MS, Corte Especial, DJe 3/8/2016; AgInt na Rcl 36.756/MG, Segunda Seção, DJe 23/8/2019; AgInt na Rcl 37.890/MT, Segunda Seção, DJe 8/10/2019).
+No particular, verifica-se não ser hipótese de descumprimento de ordem direta emanada pelo STJ, tendo em vista que o acórdão apontado como descumprido se limitou a manter decisão monocrática que não conheceu do agravo em recurso especial.
+Nesse sentido, em hipótese similar: AgInt na Rcl 46.337/BA, Segunda Seção, DJe 6/11/2023.
+Assim, evidencia-se, no particular, a ausência de interesse processual da parte reclamante, diante da inadequação da via eleita, a justificar o indeferimento da petição inicial, na forma do art. 330, III, do CPC, com a consequente extinção do processo sem resolução de mérito (art. 485, I, do CPC).
+Forte nessas razões, INDEFIRO a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem resolução de mérito, com fundamento nos arts. 34, XVIII, "a", do RISTJ, e 485, I, do CPC.
+Deixo de fixar honorários advocatícios de sucumbência, diante da ausência de contestação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. OFENSA OBJETIVA A DECISÃO EMANADA PELO STJ. AUSÊNCIA. NÃO CABIMENTO DE RECLAMAÇÃO. INADEQUAÇÃO DA VIA ELEITA. INDEFERIMENTO DA PETIÇÃO INICIAL.
+1. Reclamação ajuizada contra o Juízo da Fazenda Pública Estadual de Belo Horizonte/MG (CENTRASE).
+2. Segundo a jurisprudência desta Corte, o cabimento de reclamação para garantir a autoridade de suas decisões pressupõe a existência de um comando positivo desta Corte cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida.
+3. No particular, não se trata de descumprimento de ordem direta emanada pelo STJ, tendo em vista que o acórdão apontado como descumprido se limitou a manter decisão monocrática que não conheceu do agravo em recurso especial.
+4. Petição inicial indeferida. Reclamação extinta sem resolução de mérito.
