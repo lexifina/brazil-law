@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DABESA INDÚSTRIA E COMÉRCIO DE METAIS E LIGAS LTDA. e OUTRAS, em recuperação judicial, contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 6º, § 4º, e 56, § 9º, da Lei n. 11.101/2005 (fls. 2.713-2.714).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso especial perdeu seu objeto, pois o plano de recuperação judicial foi aprovado, bem como que o recurso não merece conhecimento em razão da Súmula n. 7 do STJ (fls. 2.732-2.739).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de recuperação judicial.
+O julgado foi assim ementado (fls. 2.622-2.629):
+Recuperação judicial. Decisão que concedeu prorrogação de "stay period" por 90 dias. Agravo de instrumento das recuperandas, pela prorrogação por 180 dias. Possibilidade de prorrogação do prazo estabelecido pelo § 4º do art. 6º da Lei 11.101/2005 (redação da Lei 14.112/2020) por uma única vez, em circunstâncias excepcionais, observadas as particularidades do caso concreto e desde que a recuperanda não tenha contribuído, direta ou indiretamente, para a demora. Caso em que se pode afirmar a inexistência de culpa da recuperanda e a razoabilidade da extensão, diante das circunstâncias da causa. Razoável, "in casu" a extensão para 120 dias, que, para o Tribunal, será prazo suficiente para as recuperandas providenciarem o quanto necessário à apresentação de plano em assembleia de credores. Reforma parcial da decisão agravada. Agravo de Instrumento parcialmente provido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 6º, § 4º, da Lei n. 11.101/2005, pois o acórdão recorrido não respeitou o prazo de prorrogação por igual período de 180 dias;
+b) 56, § 9º, da Lei n. 11.101/2005, visto que não foi permitida a utilização do prazo de encerramento da assembleia geral de credores.
+Sustenta que o Tribunal de origem divergiu da jurisprudeência ao não aplicar corretamente os dispositivos legais mencionados, prejudicando o processo de recuperação judicial.
+Requer o provimento do recurso para que se conceda a prorrogação do prazo do stay period por igual período de 180 dias.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial perdeu seu objeto, pois o plano de recuperação judicial foi aprovado, bem como que o recurso não merece conhecimento em razão da Súmula n. 7 do STJ (fls. 2.654-2.663).
+É o relatório. Decido.
+A controvérsia diz respeito a ação de recuperação judicial em que a parte autora pleiteou a prorrogação do prazo do stay period por 180 dias.
+Em decisão interlocutória, o Juízo de primeiro grau deferiu a prorrogação do stay period por 90 dias.
+O Tribunal de origem, por sua vez, reformou parcialmente a decisão, prorrogando o stay period por 120 dias, por entender que o prazo de 90 dias era insuficiente em razão de a assembleia geral de credores, realizada em segunda convocação, em 14/4/2022, ter sido suspensa a pedido das recuperandas, pelo prazo de 30 dias, o que os credores (que representavam mais da metade do valor total dos créditos) aprovaram, sendo o prazo concedido suficiente até a data prevista para a referida assembleia, agendada para 16/5/2022.
+I - Arts. 6º, § 4º, e 56, § 9º, da Lei n. 11.101/2005
+A questão referente à violação do art. 56, § 9º, da Lei n. 11.101/2005 não foi objeto de debate no acórdão recorrido - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Nessa hipótese, para viabilizar o conhecimento do recurso especial, caberia à parte recorrente alegar ofensa ao art. 1.022 do CPC, o que não ocorreu.
+No que se refere ao art. 6º, § 4º, da Lei n. 11.101/2005, não assiste razão à parte recorrente.
+O Tribunal de origem concluiu que a prorrogação por 120 dias seria suficiente, considerando as circunstâncias do caso concreto e a ausência de culpa das recuperandas. Observe-se (fl. 2.628):
+In casu, ainda que prorrogado o período de suspensão pelo Juízo a quo, o prazo de 90 dias parece insuficiente, mormente pelo fato de a Assembleia Geral de Credores realizada em 2ª convocação - 14/4/2022 - ter sido suspensa, a pedido das recuperandas, pelo prazo de 30 dias, o que os credores (que representavam mais da metade do valor total dos créditos presentes no conclave) aprovaram, como se vê a fls. 2.809/2.812 dos autos de origem.
+Razoável, porém, limitar-se a prorrogação ao período deferido inicialmente, afastados os 180 dias requeridos pelas recuperandas. Com efeito, 120 dias serão suficientes para garantir os efeitos da recuperação, até data prevista para a assembleia, agendada para 16/5/2022.
+Já as recorrentes, em suas razões recursais, alegam que o acórdão recorrido não respeitou o prazo de prorrogação por igual período de 180 dias, conforme previsto na Lei n. 11.101/2005.
+Não obstante as alegações das recorrentes, a conclusão da Corte estadual pela prorrogação por 120 dias levou em conta as circunstâncias do caso concreto e a ausência de culpa das recuperandas. Logo, para afastar a conclusão do acórdão recorrido a respeito do prazo de stay period concedido, seria preciso analisar o acervo probatório dos autos e os fatos trazidos, o que é vedado em recurso especial, por incidência da Súmula n. 7 do STJ.
+Registre-se que "o recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/2/2019, DJe de 7/3/2019).
+A propósito: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2019, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/2/2019, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2018, DJe de 8/3/2019.
+No tocante ao apontado dissídio, a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
