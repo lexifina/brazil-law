@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por JELSON IZIDORIO DE SOUZA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 5312317-56.2021.8.09.0082 (fls. 742/755).
+No recurso especial, o agravante requer o reconhecimento da nulidade de prova, em razão da ilegalidade da busca pessoal e domiciliar e, consequentemente, sua absolvição. Em tese subsidiária, requer pela desclassificação do delito de tráfico para posse de drogas para uso pessoal (fls. 760/771).
+Apresentadas as contrarrazões (fls. 778/794), o Tribunal de origem não admitiu o recurso, com suporte no óbice das Súmulas 7/STJ e 282/STF (fls. 798/800).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo e, caso conhecido, pelo seu desprovimento (fls. 1.657/1.658).
+É o relatório.
+O agravo preenche as condições de admissibilidade. Quanto ao recurso especial em si, tenho que prospera o argumento apresentado pelo agravante.
+Quanto a tese da nulidade da prova, baseada na ausência de justa causa para a busca pessoal e consequente ingresso domiciliar, assim se manifestou a instância ordinária (fl. 746 - grifos nossos):
+ ..
+Dos autos extrai-se que, quando estavam em patrulhamento, os militares receberam uma denúncia anônima, na qual informava sobre um ponto de vendas de entorpecente no endereço conhecido como Lava jato do Pelé.
+Diante da denúncia, os policiais deslocaram-se até o referido estabelecimento e realizaram a abordagem dos denunciados, sendo que após autorização, a equipe iniciou uma busca no local, oportunidade em que encontraram 06 (seis) porções de crack e 07 (sete) porções de maconha.
+Na sequência, a guarnição se deslocou até a residência do denunciado Ailton José de Sousa, instante em que localizaram mais 02 (duas) porções de maconha na gaveta do guarda-roupas.
+Evidenciado, pois, que os militares agiram, objetivando investigar fatos criminosos, os quais foram devidamente comprovados com a apreensão das drogas.
+Assim, conforme se observa no presente caso, existiam fundadas razões, e não só devido à denúncia anônima, para os policias adentrarem na residência do apelante, o que foi feito com o seu consentimento, uma vez que existiam fortes indícios de que ele guardava droga no imóvel, para fins de iatrográfica, o que foi constatado. Logo, no presente caso foi licita a entrada dos policias a residência do apelante, sendo que não sendo constatada causa de nulidade.
+
+Do trecho acima transcrito, tem-se que a ação policial não estava legitimada pela existência de fundadas razões, ausente a justa causa para a busca pessoal. Percebe-se que não há indicação de diligência investigatória preliminar que demonstrasse a existência de elementos mais robustos da ocorrência de tráfico de drogas, não se verificando, ainda, nenhuma informação se, antes da tomada de decisão de realizar a abordagem, os policiais flagraram qualquer tipo de negociação de entorpecentes ou outra atitude ilícita por parte do agravante ou do correu, a exemplo da dispensa de qualquer objeto ou tentativa de se evadir do local, se sorte que nem mesmo a alegação de suposta atitude suspeita do agravante foi mencionada.
+No caso, policiais receberam denúncia anônima, informava sobre um ponto de vendas de entorpecente no endereço conhecido como Lava jato do Pelé. No local indicado, os policiais realizaram a abordagem dos denunciados, nada sendo apreendido.
+Após esta primeira diligência, a equipe iniciou uma busca no local, oportunidade em que encontraram seis porções de crack e sete porções de maconha. Com a apreensão da droga, a polícia se deslocou até a casa do correu, encontrando outras duas porção de maconha em uma gaveta.
+O exame dos autos ainda revela que o ingresso dos agentes públicos na casa do correu decorreu unicamente da apreensão prévia de entorpecente por ocasião da realizada busca pessoal, de modo que a apreensão de outras drogas naquela oportunidade também foi ilícita e não consubstancia fator a justificar o prosseguimento da diligência.
+Diante disso, tem-se que a entrada na residência do correu também ocorreu de forma ilegal, haja vista que, além de ter sido desencadeada por ação originariamente ilícita, está dissociada de justa causa, o que caracteriza a apreensão da droga, como evidente prova também ilícita.
+Conforme entendimento firmado por esta Corte, portanto, a mera denúncia anônima, desacompanhada de outros elementos preliminares indicativos de crime, não legitima a busca pessoal, e o ingresso de policiais no domicílio sem autorização judicial, pois ausente, nessas situações, justa causa para a medida.
+A propósito: HC 512.418/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 3/12/2019; RHC n. 158.580/BA, Rel. Ministro Rogégio Schietti Cruz, Sexta Turma, DJe de 25/4/2022.
+Com o reconhecimento do pleito de nulidade, fica prejudicado o requerimento subsidiário.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, para reconhecer a nulidade das provas obtidas na busca pessoal e domiciliar, bem como as delas derivadas, absolvendo o agravante da prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, com extensão de efeitos ao corréu Ailton Jose de Sousa.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO PRIVILEGIADO DE DROGAS. TESE DE NULIDADE. PROVAS ILÍCITAS. BUSCA PESSOAL E DOMICILIAR. INFUNDADAS RAZÕES. AUSÊNCIA DE DILIGÊNCIAS PRELIMINARES. MANIFESTA ILEGALIDADE. JUSTA CAUSA NÃO DEMONSTRADA PELA INSTÂNCIA ORDINÁRIA. PLEITO PARA DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO PARA POSSE DE DROGAS PARA USO PRÓPRIO. ABSOLVIÇÃO QUE SE IMPÕE. JURISPRUDÊNCIA DO STJ. EXTENSÃO DOS EFEITOS DA DECISÃO AO CORRÉU. ART. 580 DO CPP.
+Agravo conhecido para dar provimento ao recurso especial, com extensão de efeitos ao corréu, nos termos do dispositivo.
