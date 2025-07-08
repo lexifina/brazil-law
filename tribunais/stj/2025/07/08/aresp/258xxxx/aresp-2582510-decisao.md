@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS JOSE DOS SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0019050-33.2022.8.12.0001 (fls. 606/615).
+No recurso especial, o agravante requer a absolvição em razão da insuficiência da prova, apontando a violação do art. 386, VII do Código de Processo Penal e, em tese subsidiária, o reconhecimento da causa de diminuição de pena, em seu patamar máximo, conforme previsão do art. 33, § 4º, da Lei n. 11.343/2006. (fls. 621/641).
+Apresentadas as contrarrazões (fls. 648/658), o Tribunal de origem não admitiu o recurso, com suporte no óbice da Súmula 7/STJ (fls. 660/665).
+O Ministério Público Federal apresentou parecer opinando pela inadmissibilidade do agravo em recurso especial e, sendo o caso de enfrentar o mérito, pelo não provimento (fls. 803/809).
+É o relatório.
+O agravo não possui condições de admissibilidade.
+Verifica-se que a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade, atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ainda que assim não o fosse, no tocante à absolvição por insuficiência de provas, tendo como tese a ausência de prova contundente e inequívoca para condenação e, ainda que tenha o agravante alegado a violação das regras definidoras da antijuricidade da conduta no sistema penal, o Tribunal de origem concluiu pela regularidade da instrução e legalidade das provas, bastante a definir a materialidade e a autoria para o crime de tráfico de drogas.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, para revisar o aferido pela Corte de origem, seria necessária a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante da Súmula 7/STJ.
+Nesse sentido: AgRg no AREsp n. 2.843.764/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/4/2025, DJEN de 11/4/2025; REsp n. 2.053.110/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025.
+O pedido de reconhecimento do privilégio não merece conhecimento, ante a carência de prequestionamento.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (2.020 G DE COCAÍNA). FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 182/STJ. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO PARA MODIFICAR O ENTENDIMENTO DE ORIGEM. PROVIDÊNCIA INCABÍVEL NA VIA ELEITA. SÚMULA 7/STJ. PLEITO DE RECONHECIMENTO DO REDUTOR PREVISTO NO ART. 33, § 4º DA LEI 11.343/2006. INVIABILIDADE. CARÊNCIA DE PREQUESTIONAMENTO.
+Agravo em recurso especial não conhecido.
