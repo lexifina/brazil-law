@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, contra inadmissão, na origem, do recurso especial fundamentado no art. 105, a, III, da CF, manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.450):
+EMENTA: REEXAME NECESSÁRIO - APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - AMBIENTAL E URBANÍSTICO -IRREGULARIDADES NO PROJETO OPERAÇÃO URBANA - DANOS NÃO COMPROVADOS - MANUTENÇÃO DA SENTENÇA.
+- Em observância ao Princípio da Confiança no Juiz Monocrático, este por estar mais próximo dos fatos da causa, merece toda credibilidade, pois possui melhores condições de avaliar as circunstâncias fáticas que envolvem o caso.
+- Ausente comprovação dos danos causados em razão das irregularidades na aprovação e execução do projeto urbanístico, não há que se falar em responsabilidade civil.
+Em seu recurso especial de fls. 1.501-1.513, sustenta a parte recorrente suposta violação, pelo Tribunal de origem, aos arts. 489, §1º, IV; e 1.022, II, ambos do CPC, ao alegar que:
+" ..  Na petição dos aclaratórios (ato 01 - seq. 002), o recorrente apontou omissão no aresto quanto a apreciação das seguintes questões: a ausência de equipe multidisciplinar no Estudo de Impacto de Vizinhança e revogação da Lei Municipal nº 12.124/2010 afronta a Deliberação Normativa do CODEMA nº 37/2009, art. 2º, inciso V; a ausência de projeto específico para "Binário Dom Silvério" e de definição da compensação ambiental inerente ao dano afrontam a Deliberação Normativa COMDEMA nº 37/2009; a autorização de intervenção ambiental por órgão incompetente afronta a Lei 11.428/2006, art. 30, inciso I, que define, em se tratando de área de Mata Atlântica, ser competente o órgão ambiental do Estado aptas a demonstrar a irregularidade da intervenção ambiental, indispensáveis à solução da controvérsia.  ..  tais pontos permaneceram sem resposta, conforme se infere da leitura do acórdão proferido no julgamento dos aclaratórios, que sem adentrar na discussão posta no recurso, reproduzindo o julgado, limitou-se a afirmar que, verbis:  ..  Caso os pontos trazidos nos aclaratórios tivessem sido efetivamente apreciados pela colenda Turma Julgadora a quo, outro seria o desfecho do recurso de apelação.  ..  Não prestada de forma integral a prestação jurisdicional, uma vez que o Tribunal a quo não trouxe fundamentação clara acerca das questões trazidas nos aclaratórios, caracterizada está a violação aos arts. 489, § 1º, IV e 1.022, II, do CPC." (fls. 1.504-1.513).
+O Tribunal de origem, às fls. 1.519-1.524, inadmitiu o recurso especial sob o seguinte fundamento:
+"O recurso é inviável.
+A alegação de negativa de prestação jurisdicional afigura-se desprovida de razoabilidade, tendo em vista que a Turma Julgadora decidiu, fundamentadamente, sobre todas as questões que lhe foram trazidas, conforme se observa do seguinte trecho do acórdão recorrido:
+ ..
+Ante o exposto, inadmite-se o recurso com fundamento no art. 1.030, V, do CPC. "
+Em seu agravo, às fls. 1.532-1.545, a parte agravante reitera os argumentos apresentados quando da interposição do recurso especial ante a suposta violação aos arts. 489, §1º, IV; e 1.022, II, ambos do CPC.
+Requer, ao fim, que seja conhecido do agravo em recurso especial para conhecer do recurso especial e, no mérito, provê-lo.
+Transcorrido in albis o prazo para manifestação das partes agravadas (fl. 1.549).
+Parecer do Ministério Público Federal pelo conhecimento do agravo para prover o recurso especial (fls. 1.571-1. 576).
+É o relatório.
+De pronto, verifico a existência dos requisitos extrínsecos de admissibilidade relativos à regularidade formal do agravo em recurso especial interposto e à tempestividade.
+No entanto, quanto aos requisitos intrínsecos, entendo que não houve ataque específico no tocante ao fundamento apresentado na decisão de inadmissibilidade do recurso especial, qual seja:
+I) "A alegação de negativa de prestação jurisdicional afigura-se desprovida de razoabilidade, tendo em vista que a Turma Julgadora decidiu, fundamentadamente, sobre todas as questões que lhe foram trazidas, conforme se observa do seguinte trecho do acórdão recorrido:  .. ." (fl. 1.520 ).
+Tem-se que não houve a demonstração de forma clara e precisa, no referido agravo, de que a indicação dos supostos pontos omissos, contraditórios ou obscuros no acórdão recorrido teriam sido de dispositivo de lei e que a importância deles teria sido crucial para o deslinde da controvérsia.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos arts. 932, III, do CPC, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide, à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, PARÁGRAFO ÚNICO, DO RISTJ, E ENUNCIADO DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
