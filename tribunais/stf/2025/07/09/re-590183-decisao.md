@@ -1,0 +1,68 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. APLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 741 DO CÓDIGO DE PROCESSO CIVIL DE 1973 ÀS SENTENÇAS TRANSITADAS EM JULGADO ANTES DA VIGÊNCIA DA MEDIDA PROVISÓRIA N. 2.180/2001. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Sétima Turma do Tribunal Regional Federal da Quinta Região, que, instado ao exercício do juízo de retratação em relação ao Tema 360 da repercussão geral, manteve o julgado anteriormente proferido. Confira-se a ementa:
+
+    “PROCESSUAL CIVIL. AUTOS QUE RETORNAM DA PRESIDÊNCIA DESTA CORTE PARA EVENTUAL JUÍZO DE RETRATAÇÃO. STF. RE 611.503 (TEMA 360/STF). SENTENÇA TRANSITADA EM JULGADO ANTERIORMENTE AO JULGAMENTO DO ALUDIDO TEMA. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+
+    1. Autos que retornam da Presidência para fins de eventual juízo de retratação, caso o entenda cabível, nos termos do art. 1.040, II, do CPC, no que tange à aplicabilidade do RE 611.503 (Tema 360/STF), que fixou a tese de que ‘São constitucionais as disposições normativas do parágrafo único do art. 741 do CPC, do § 1º do art. 475-L, ambos do CPC/73, bem como os correspondentes dispositivos do CPC/15, o art. 525, § 1º, III e §§ 12 e 14, o art. 535, § 5º. São dispositivos que, buscando harmonizar a garantia da coisa julgada com o primado da Constituição, vieram agregar ao sistema processual brasileiro um mecanismo com eficácia rescisória de sentenças revestidas de vício de inconstitucionalidade qualificado, assim caracterizado nas hipóteses em que (a) a sentença exequenda esteja fundada em norma reconhecidamente inconstitucional, seja por aplicar norma inconstitucional, seja por aplicar norma em situação ou com um sentido inconstitucionais; ou (b) a sentença exequenda tenha deixado de aplicar norma reconhecidamente constitucional; e (c) desde que, em qualquer dos casos, o reconhecimento dessa constitucionalidade ou a inconstitucionalidade tenha decorrido de julgamento do STF realizado em data anterior ao trânsito em julgado da sentença exequenda’.
+
+    2. Na origem, trata-se de embargos à execução opostos pela FUNASA que foram julgados procedentes para fixar o valor da execução em R$ 1.236.804,42 (um milhão, duzentos e trinta e seis mil, oitocentos e quatro reais e quarenta e dois centavos), extinguindo o processo com julgamento do mérito, nos termos do art. 269, II, do CPC/73, além de condenar a embargante ao pagamento de honorários sucumbenciais no percentual de 5% (cinco por cento) sobre o valor do excesso da execução. Todavia, a fundação pública interpôs recurso de apelação, alegando, em síntese, que ‘o título executivo é inexigível, nos termos do Parágrafo Único, do art. 741 do CPC, com a redação dada pela Medida Provisória nº 2.180-35/2001, porquanto o Supremo Tribunal Federal pacificou a questão versada nos autos, concluindo que os servidores públicos federais não fariam jus ao referido percentual de 47,94%’. Registre-se que o TRF5 negou provimento ao apelo, bem como o STJ negou seguimento ao recurso especial da FUNASA. Por fim, decisão proferida no STF determinou a devolução do processo ao Tribunal a quo até o julgamento do Tema 100/STF, tendo o presente feito ficado sobrestado por decisão proferida em dez/2008.
+
+    3. Neste contexto, tendo em vista a devolução dos autos para que seja realizado o juízo de conformação acerca da aplicabilidade do RE 611.503 (Tema 360/STF), reproduzo excerto do acórdão que negou provimento à apelação, que adoto como razão de decidir: ‘de acordo com o sistema informatizado de acompanhamento processual deste Tribunal Regional Federal, a decisão exequenda foi prolatada em 17/06/1999, tendo os autos sido devolvidos à Primeira Instância em 26/11/1999, muito antes, portanto, da entrada em vigor da modificação levada a efeito no referido art. 741 do Código de Processo Civil. Destarte, antes de se tratar da constitucionalidade ou não da mencionada alteração legislativa, tendo em conta toda a polêmica acerca da violação ou não da coisa julgada, tem-se que a norma em questão não se aplica à hipótese dos autos, porque a decisão que se busca executar transitou em julgado antes da inovação legal’.
+
+    4. Diante do exposto, depreende-se inaplicável tese fixada no aludido Tema 360/STF, visto que o reconhecimento da inconstitucionalidade ocorreu posteriormente ao trânsito em julgado no caso em questão, sob pena de ofensa à coisa julgada . Logo, impõe-se a manutenção do acórdão proferido em jun/2006.
+
+    5. Juízo de retratação não exercido” (fls. 7-8, e-doc. 24).
+
+    2. A recorrente afirma ter o Tribunal de origem contrariado o inc. XXXVI do art. 5º e o caput do art. 37 da Constituição da República, bem assim o decidido no julgamento das Ações Diretas de Inconstitucionalidade ns. 1.603-2, 1.612-1. 1.613-0 e 1.614-8.
+
+    Assevera, “como demonstrado desde a petição de embargos à execução, como também na Apelação, a inexigibilidade do título executivo, calçado exatamente na concessão do inconstitucional reajuste de 47,94%”, e sustenta que o acórdão recorrido contraria o entendimento do Supremo Tribunal Federal firmado “no sentido de que os servidores públicos federais não possuem direito ao reajuste de 47,94%, a título de IRSM” (fls. 10 e 12, e-doc. 16).
+
+    Ressalta que, além “da argumentação concernente à inexigibilidade do título executivo, o r. acórdão deve ser reformado, em razão de ter afrontado a força vinculante das ações diretas de inconstitucionalidade” (fl. 14, e-doc. 16).
+
+    Explica que “as Ações Diretas de Inconstitucionalidade de nº 1.603-2 (liminar concedida publicada em 14/08/97); 1.612-1 (liminar concedida publicada em 06/06/97); 1.613-0 (liminar concedida publicada em 13/06/97) e 1.614-8 (liminar concedida publicada em 01/08/97), todas questionando a concessão do reajuste de 47,94%, pela possibilidade de reedição da Medida Provisória nº 434/94, tiveram liminares concedidas para suspender o pagamento da vantagem. Observe-se que as ADIN de nºs 1.612-1 e 1.614-8 já transitaram em julgado, com confirmação das liminares em julgamento definitivo“. Alega serem essas “decisões, que animam a inexigibilidade do título executivo, como se postula nos embargos à execução” (fl. 15, e-doc. 16).
+
+    Quanto à necessidade de irrestrito respeito à coisa julgada, argumenta que “não poderia haver coisa julgada, imutável, quando ela for distorcida, ou seja, contrária à própria Constituição. Isso porque o princípio da constitucionalidade impõe força vinculativa da lei e ato normativo à Constituição, enquanto Lei Fundamental da ordem jurídica. Impõe-se invocar a prevalência da Constituição, porquanto se se entender que uma regra processual afasta a Constituição, o nosso sistema jurídico estará todo destruído”. Desse modo, “a coisa julgada não pode sobrepujar a lei, em se tratando de inconstitucionalidade, sob pena de torna-se instituto de maior valor que a própria Constituição” (fl. 25, e-doc. 16).
+
+    Conclui que “deve ser rejeitada a execução do crédito em voga, posto que, o próprio Supremo Tribunal Federal já declarou a inconstitucionalidade dos valores pretendidos. Ademais, o interesse social sobrepõe-se sempre ao interesse individual e, portanto, a sociedade não pode arcar com o ônus do caso em questão”, e que “a lei ou ato normativo declarado inconstitucional não pode e, não deve, produzir efeito jurídico algum” (fl. 32, e-doc. 16).
+
+    Pede “que o presente Recurso Extraordinário seja recebido e devidamente processado, a fim de que lhe seja dado provimento, em razão de o v. Acórdão, ora recorrido, ter negado vigência aos dispositivos constitucionais mencionados” (fl. 33, e-doc. 16).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    3. Razão jurídica não assiste à recorrente.
+
+    4. O acórdão recorrido está fundamentado nos seguintes termos:
+
+    “(...) tendo em vista a devolução dos autos para que seja realizado o juízo de conformação acerca da aplicabilidade do RE 611.503 (Tema 360/STF), reproduzo excerto do acórdão que negou provimento à apelação, que adoto como razão de decidir: ‘de acordo com o sistema informatizado de acompanhamento processual deste Tribunal Regional Federal, a decisão exequenda foi prolatada em 17/06/1999, tendo os autos sido devolvidos à Primeira Instância em 26/11/1999, muito antes, portanto, da entrada em vigor da modificação levada a efeito no referido art. 741 do Código de Processo Civil. Destarte, antes de se tratar da constitucionalidade ou não da mencionada alteração legislativa, tendo em conta toda a polêmica acerca da violação ou não da coisa julgada, tem-se que a norma em questão não se aplica à hipótese dos autos, porque a decisão que se busca executar transitou em julgado antes da inovação legal’.
+
+    Diante do exposto, depreende-se inaplicável tese fixada no aludido Tema 360/STF, visto que o reconhecimento da inconstitucionalidade ocorreu posteriormente ao trânsito em julgado no caso em questão, sob pena de ofensa à coisa julgada” (fl. 3, e-doc. 24).
+
+    O entendimento deste Supremo Tribunal é no sentido de que a controvérsia relativa à aplicabilidade do parágrafo único do art. 741 do Código de Processo Civil de 1973 às sentenças transitadas em julgado antes da data de vigência da Medida Provisória n. 2.180/2001 é de natureza infraconstitucional. Assim, por exemplo:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Aplicação do art. 741 paragrafo único do CPC/73 às decisões transitadas em julgado antes da edição da MP nº 2.180/01. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE n. 1.228.300-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 27.4.2020).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ART. 741, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. 1. O Supremo Tribunal Federal decidiu que a controvérsia sobre a aplicabilidade do parágrafo único do art. 741 do CPC a títulos judiciais transitados em julgado antes da vigência da MP 2.180-35/2001 possui natureza infraconstitucional. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento” (ARE n. 1.228.735-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 23.6.2020).
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO – DIREITO PROCESSUAL CIVIL – APLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 741 DO CPC/73 ÀS SENTENÇAS CUJO TRÂNSITO EM JULGADO TENHA OCORRIDO EM MOMENTO ANTERIOR À EDIÇÃO DA MP Nº 2.180/2001 – CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL – OFENSA REFLEXA – PRECEDENTES – AO AMPARO DO § 11 DO ART. 85 DO CPC, MAJORADA EM 10% A VERBA HONORÁRIA ANTERIORMENTE FIXADA PELAS INSTÂNCIAS DE ORIGEM – AGRAVO INTERNO DESPROVIDO” (RE n. 601.808-AgR-segundo, Relator o Ministro Nunes Marques, Segunda Turma, DJe 2.3.2021).
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. INEXIGIBILIDADE, OU NÃO, DE TÍTULO JUDICIAL. DECISÃO TRANSITADA EM JULGADO EM DATA ANTERIOR À REDAÇÃO DADA AO ART. 741 DO CÓDIGO DE PROCESSO CIVIL DE 1973 PELA MEDIDA
+PROVISÓRIA N. 2.180/2001. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA. REEXAME DE FATOS E PROVAS. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. 1. A discussão acerca da inexigibilidade, ou não, de título judicial constituído em data anterior à regra introduzida, pela Medida Provisória n. 2.180/2001, no parágrafo único do art. 741 do Código de Processo Civil de 1973 exige a prévia análise de legislação infraconstitucional e o reexame de fatos e provas, o que faz caracterizar-se como indireta ou reflexa a suposta ofensa ao Texto Constitucional, bem assim incidir, na espécie, o óbice do enunciado n. 279 da Súmula do Supremo. Precedentes. 2. Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente. Na hipótese de descabimento ou de ausência de fixação anterior – como na espécie dos autos –, a sua incidência é indevida. 3. Recurso extraordinário com agravo desprovido” (ARE n. 1.189.467, Relator o Ministro Nunes Marques, Segunda Turma, DJe 2.12.2021).
+
+    Nada há a prover quanto às alegações da recorrente.
+
+    5. Pelo exposto, nego provimento ao recurso extraordinário (al. a do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se
+
+    Brasília, 9 de julho de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
