@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por LUIZ MARIA DA CONCEIÇÃO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Consta dos autos que o recorrente foi preso em flagrante em 29/3/2025, posteriormente convertida a custódia, pela suposta prática da conduta descrita no art. 121, caput, c/c o art. 14, II, do Código Penal.
+A defesa sustenta que a decisão que decretou a prisão preventiva carece de fundamentação concreta e idônea, não demonstrando a imprescindibilidade da prisão para o desenvolvimento regular do processo.
+Alega que os fundamentos utilizados para manter a prisão preventiva visam antecipar a sanção penal, em violação ao princípio constitucional da presunção de inocência.
+Afirma que a indicação de que o recorrente é reincidente não pode ser fundamento válido para justificar a segregação cautelar.
+Entende adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código Penal.
+Requer o relaxamento da prisão cautelar decretada na origem, expedindo-se o competente alvará de soltura.
+É o relatório.
+A prisão cautelar foi assim fundamentada (fl. 28 - grifei):
+No caso em análise, restaram presentes os elementos que justificam a prisão em flagrante do autuado, notadamente o fumus commissi delicti, evidenciado por meio dos depoimentos colhidos, os quais apontam indícios suficientes de autoria e materialidade do delito.
+Quanto ao periculum libertatis, verifica-se a necessidade da segregação cautelar para resguardar a ordem pública e prevenir novos riscos à vítima ou a terceiros. Ademais, fatores como reincidência, histórico de violência ou indícios de tentativa de evasão reforçam a imprescindibilidade da prisão, a fim de garantir a aplicação da lei penal. Dessa forma, não se mostram adequadas ou suficientes, no presente caso, medidas cautelares diversas da prisão, conforme previsto no artigo 319 do Código de Processo Penal.
+O acórdão recorrido restou assim consignado (fl. 61-62, grifei):
+12. Compulsando os autos, particularmente auto de prisão em flagrante às fls. 1/21 do processo de primeiro grau, verifica-se que, no dia 28 de março de 2025, o paciente, supostamente, praticado o delito de tentativa de homicídio contra a vítima Sandriel Quirino da Silva, o qual, no momento da chegada da guarnição policial responsável pela operação, se encontrava com três ferimentos de faca.
+13. Pois bem.
+Depreende-se que a decisão, de fls. 23/24 dos autos de origem, a qual decretou a prisão preventiva do paciente, pautou-se na presença dos elementos autorizadores da custódia cautelar, ante a presença de indícios suficientes de autoria e de materialidade, bem como em decorrência da necessidade de garantia da ordem pública, a fim de garantir a aplicação da lei penal e para evitar a reiteração criminosa.
+ ..
+16. Demais disso, de acordo com certidão de fl. 22 do processo de primeira instância, constata-se que possui o paciente diversas ações penais em andamento no seu nome, de modo a configurar explícito risco de reiteração delitiva.
+17. Assim sendo, a existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso são suficientes para caracterizar o risco de reiteração delitiva, o qual constitui fundamento suficiente para garantir a ordem pública e, consequentemente, ensejar a aplicação da medida cautelar mais gravosa, nos termos de entendimento proferido pelo Superior Tribunal de Justiça. Senão, vejamos:
+ ..
+A leitura dos excertos revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, em razão do risco concreto de reiteração delitiva, pois o recorrente tem diversas ações penais em andamento.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, segundo a qual a periculosidade do acusado, evidenciada pela reiteração de condutas delitivas, constitui fundamento idôneo para a decretação da prisão cautelar, visando à garantia da ordem pública, como ocorre no caso em questão. Nesse sentido: AgRg no HC n. 837.919/TO, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; e AgRg no HC n. 856.044/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+Nesse contexto, esta Corte Superior de Justiça tem, reiteradamente, decidido, por ambas as Turmas que compõem a Terceira Seção, que "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superi or Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
