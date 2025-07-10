@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por VALENCIA CONSTRUTORA E INCORPORADORA LTDA e FERNANDO GERALDI, contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 13/12/2024.
+Concluso ao Gabinete em: 26/ 3/2025.
+Ação: de rescisão contratual c/c reparação por perdas e danos, ajuizada por IDELFONSO KNABBEN DA SILVA e SONIA MARIA SPINELLI DA SILVA em desfavor dos agravantes, em virtude contrato de permuta de bens imóveis firmado entre as partes.
+Acórdão: negou provimento à apelação interposta pelos agravantes e deu provimento à apelação adesiva dos agravados, nos termos das seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL - CONTRATOS - PERMUTA DE IMÓVEIS COM TORNA - AÇÃO DE RESCISÃO DE CONTRATO COM PERDAS E DANOS - INADIMPLEMENTO CONTRATUAL - OBRA NÃO INICIADA - SENTENÇA DE PARCIAL PROCEDÊNCIA - INSURGÊNCIA DOS RÉUS - 1. CULPA EXCLUSIVA PELO INADIMPLEMENTO - PLEITO DE AFASTAMENTO - INSUBSISTÊNCIA - OBRA NÃO INICIADA - CRISE NO MERCADO IMOBILIÁRIO, BAIXA VENDA DE UNIDADES AUTÔNOMAS E DESAVENÇAS ENTRE OS SÓCIOS E ÓBICES ADMINISTRATIVOS - PERCALÇOS INERENTES À CONSTRUÇÃO CIVIL OS QUAIS NÃO PODEM SER TRANSFERIDOS - CULPA EXCLUSIVA DOS RÉUS EVIDENCIADA - RESCISÃO MANTIDA - 2. REINTEGRAÇÃO - AUSÊNCIA DE TRANSFERÊNCIA DA POSSE - JULGAMENTO EXTRA PETITA - CONTRATO QUE PREVIA A TRANSFERÊNCIA DA POSSE NO PRAZO DE 60 DIAS APÓS A ASSINATURA - RÉUS QUE INGRESSARAM NO IMÓVEL, DEMOLIRAM A RESIDÊNCIA, COLOCARAM TAPUMES PARA DAR INÍCIO À EXECUÇÃO DA OBRA - TRANSMISSÃO DA POSSE EVIDENCIADA - 3. PERDAS E DANOS - PLEITO DE AFASTAMENTO OU OBSERVÂNCIA À CLÁUSULA DO CONTRATO - IMPOSSIBILIDADE - CLÁUSULA QUE PREVÊ LIMITAÇÃO DE INDENIZAÇÃO EM VALOR ÍNFIMO QUE NÃO CORRESPONDE AOS PREJUÍZOS QUE OS AUTORES TIVERAM COM O INADIMPLEMENTO - NECESSIDADE DE RECOMPOSIÇÃO INTEGRAL DOS PREJUÍZOS - 4. CLÁUSULA NULA - PLEITO DE RECONHECIMENTO EXPRESSO NA DECISÃO PELOS AUTORES - PEDIDO ACOLHIDO - RECURSO DOS RÉUS CONHECIDO E IMPROVIDO E CONHECIDO E PROVIDO O DOS AUTORES.
+1. Reconhece-se a culpa exclusiva da construtora pelo inadimplemento do contrato, porquanto os riscos inerentes à construção civil e imbróglios internos envolvendo os sócios da construtora não podem ser transferidos aos adquirentes e não são suficientes para excluir a responsabilidade de entregar o imóvel.
+2. Confirma-se a transferência da posse do empreendimento pelos autores, seja por ocasião de previsão contratual, seja em decorrência dos atos praticados pela construtora para dar início ao empreendimento.
+3. Deve ser reconhecida a nulidade da cláusula que prevê indenização limitada a valor que não corresponde às perdas e danos tidas pelos autores em razão do inadimplemento do contrato, porquanto, além de abusiva, implica enriquecimento sem causa dos réus.
+4. Necessária a inclusão no dispositivo da decisão o reconhecimento de nulidade de cláusula do contrato.
+(e-STJ Fl. 1035)
+Decisão de admissibilidade do TJ/SC: inadmitiu o recurso especial dos agravantes em razão dos seguintes fundamentos:
+i) incidência das Súmulas 5 e 7/STJ, considerando as particularidades citadas à e-STJ Fls. 1093-1095 e, bem assim, o reconhecimento da responsabilidade pela rescisão do contrato e da abusividade da cláusula de limitação da indenização no caso concreto.
+Agravo em recurso especial: nas razões do presente recurso, os agravantes alegam que:
+i) foi desconsiderada a boa-fé objetiva dos contratantes e a função social do contrato a par da autonomia da vontade das partes ao ser afastada a cláusula limitadora de indenização;
+ii) dever ser reconhecida a existência de força maior como excludente de responsabilidade na hipótese;
+iii) houve ofensa ao duplo grau de jurisdição e ao contraditório, reiterando-se, assim, as suas razões de mérito; e
+iv) "a decisão judicial desconsiderou a necessidade de um exame mais aprofundado das cláusulas contratuais e das provas apresentadas, o que é essencial para uma decisão justa e equânime" (e-STJ Fl. 1111).
+RELATADO O PROCESSO, DECIDE-SE.
+Preliminarmente, aponto que, contra a decisão de inadmissão (e-STJ Fls. 1093-1095), foram interpostos dois agravos em recurso especial, em 13/12/2024, pelas partes agravantes (e-STJ Fls. 1104-1113 e 1115-1124).
+A interposição do segundo recurso especial revela-se manifestamente incabível, porquanto, no momento de sua interposição, já ocorrera o fenômeno da preclusão consumativa, pela anterior interposição de recurso com idêntico teor.
+Nesse sentido: AI 629.337 AgR, STF, Primeira Turma, DJe de 30/4/2009; e AgRg nos EREsp 983.690/SP, Corte Especial, DJe de 3/2/2014.
+Verificada, assim, a duplicidade de recursos interpostos pela mesma parte agravante, ante a incidência da preclusão consumativa, impõe-se o não conhecimento daquele que foi protocolizado por último.
+De toda sorte, quanto ao primeiro agravo em recurso especial interposto, verifica-se, da sua análise, que os agravantes não demonstraram, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) incidência das Súmulas 5 e 7/STJ, considerando as particularidades citadas à e-STJ Fls. 1093-1095 e, bem assim, o reconhecimento da responsabilidade pela rescisão do contrato e da abusividade da cláusula de limitação da indenização no caso concreto.
+Nesse passo, os agravantes limitaram-se a tecer alegações meramente genéricas e a meramente reprisar a sua argumentação de mérito, deixando, pois, de demonstrar o efetivo desacerto da decisão.
+É firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteri ormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
