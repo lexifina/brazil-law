@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ITAMAR RODRIGUES DA SILVA contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 283 do STF (fls. 713-718).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o recurso especial não merece ser admitido (fls. 702-709).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de Mato Grosso em apelação cível nos autos de ação de cobrança de seguro obrigatório DPVAT. O julgado foi assim ementado (fls. 646-647):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO - DPVAT - NÃO COMPARECIMENTO EM PERÍCIA MÉDICA AGENDADA PELO JUÍZO - EFETIVA INTIMAÇÃO PESSOAL DA PARTE AUTORA QUANTO A DATA, LOCAL E HORÁRIO DO EXAME - MUDANÇA DE ENDEREÇO - NÃO COMUNICAÇÃO AO JUÍZO - INTELIGÊNCIA DO ART. 274, PARÁGRAFO ÚNICO, DO CPC - PERDA DA PROVA - AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO - JULGAMENTO DE IMPROCEDÊNCIA DA DEMANDA - RECURSO CONHECIDO E DESPROVIDO. Mostra-se necessária a graduação da invalidez para fins de cobrança do seguro obrigatório DPVAT, cuja questão foi pacificada em razão do julgamento do REsp 1.246.432, submetido ao regime dos Recursos Repetitivos (art. 1.036 do CPC) e Súmula 474 do STJ.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 9, 10, 242, 269 e 369 do CPC, porquanto não houve intimação pessoal da parte autora para a realização de ato judicial que somente esta poderia fazer, configurando cerceamento de defesa;
+b) 274, parágrafo único, do CPC, visto que a intimação enviada ao endereço antigo não afasta a garantia constitucional de ampla defesa e contraditório;
+c) 373, I, do CPC, pois a parte autora não foi devidamente intimada para a perícia médica, o que impediu a comprovação do fato constitutivo do direito.
+Ao final, requer o provimento do recurso para que seja anulada a sentença e determinada a intimação pessoal da parte autora para a realização da perícia médica.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece ser admitido por ausência de prequestionamento, reexame de prova e falta de demonstração de divergência jurisprudencial (fls. 702-709).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de cobrança de seguro obrigatório DPVAT em que a parte autora pleiteou a realização de perícia médica para comprovação de invalidez permanente decorrente de acidente de trânsito. Na sentença, o Juízo de primeiro grau julgou improcedente o pedido inicial por ausência de comprovação dos danos alegados, visto que a parte autora não compareceu à perícia médica designada, sendo condenada às custas e aos honorários sucumbenciais arbitrados em R$1.000,00, com valor da causa de R$13.500,00. A Corte estadual manteve integralmente a sentença.
+No recurso especial, a parte recorrente alega que houve cerceamento de defesa, pois não foi realizada a intimação pessoal da parte autora para a perícia médica, ato judicial que somente esta poderia fazer. A Corte estadual concluiu que a intimação enviada ao endereço antigo é válida, nos termos do art. 274, parágrafo único, do CPC, e que a parte autora não comprovou a invalidez, ônus que lhe incumbia.
+Contudo, nas razões do recurso especial, a parte limitou-se a alegar que não houve a intimação pessoal para a realização de ato judicial que somente esta poderia fazer, não refutando o fundamento do Tribunal a quo referente à presunção de validade das intimações dirigidas ao endereço constante dos autos. É caso de aplicação da Súmula n. 284 do STF.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
