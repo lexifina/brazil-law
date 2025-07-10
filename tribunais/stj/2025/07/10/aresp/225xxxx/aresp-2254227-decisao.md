@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALVARO GOULART DE SOUSA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489, 1.022, 141, 1.025, 371, 373, II, do CPC e na incidência das Súmulas n. 284 do STF e 7 do STJ (fls. 400-403).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o agravo deve ser desprovido, pois o recurso especial não reúne condições de admissibilidade, e requer a condenação do agravante por litigância de má-fé (fls. 425-430).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação regressiva. O julgado foi assim ementado (fls. 336-337):
+SEGURO FACULTATIVO DE VEÍCULO. Contrato equiparado. Proteção veicular ou patrimonial oferecida por associação ou cooperativa. Regresso por sub-rogação. Acidente de trânsito. Danos suficientemente demonstrados. Perda total caracterizada. Ressarcimento devido pelo causador do sinistro limitado ao valor efetivamente pago pela seguradora ao segurado, nos limites da apólice. Inteligência do art. 786 do CC e da Súm. 188 do STF. Abatimento, ainda, do valor recuperado pela seguradora com a venda do salvado. Inteligência dos arts. 422 e 884 do CC. Sentença reformada. Recurso provido em parte.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 21-25):
+EMBARGOS DE DECLARAÇÃO. Seguro facultativo de veículo. Contrato equiparado. Proteção veicular ou patrimonial oferecida por associação ou cooperativa. Regresso por sub-rogação. Acidente de trânsito. Danos suficientemente demonstrados. Perda total caracterizada. Ressarcimento devido pelo causador do sinistro limitado ao valor efetivamente pago pela seguradora ao segurado, nos limites da apólice. Inteligência do art. 786 do CC e da Súm. 188 do STF. Abatimento, ainda, do valor recuperado pela seguradora com a venda do salvado. Inteligência dos arts. 422 e 884 do CC. Sentença reformada. Apelação provida em parte. Ausência de omissão, contradição, obscuridade ou erro material. Requisitos do art. 1.022 do CPC não preenchidos. Embargos rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 1.022, II, e 1.025 do CPC, porquanto o Tribunal a quo não apreciou tese levantada pelo recorrente acerca da interpretação do art. 373, II, do CPC;
+b) 373, II, do CPC, visto que a recorrida não provou a extensão dos danos, pois alienou o automóvel no curso do processo, inviabilizando a prova pericial;
+c) 489, §1º, IV, do CPC, pois o acórdão não enfrentou todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Requer o provimento do recurso para que se anule o acórdão recorrido por ofensa aos artigos mencionados.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser admitido, pois não há prequestionamento e a pretensão recursal encontra óbice na Súmula n. 7 do STJ (fls. 389-399).
+É o relatório. Decido.
+A controvérsia diz respeito à ação regressiva em que a parte autora pleiteou o ressarcimento de valores pagos a título de indenização por danos causados em acidente de trânsito.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido de ressarcimento, entendendo que a produção de prova pericial era imprescindível para o deslinde do feito, e fixou honorários advocatícios em 15% sobre o valor da causa.
+A Corte estadual reformou a sentença, reconhecendo a perda total do veículo e limitando o ressarcimento ao valor efetivamente pago pela seguradora ao segurado, com abatimento do valor recuperado pela venda do salvado.
+I - Violação dos arts. 1.022, II, e 1.025 do CPC
+No recurso especial, o recorrente afirma que o Tribunal a quo não apreciou tese levantada pelo recorrente acerca da interpretação do art. 373, II, do CPC.
+Não se verifica a alegada ofensa ao artigo, pois a tese levantada pelo recorrente foi devidamente analisada pela Corte estadual, que concluiu que (fl. 338): "a existência do sinistro, a dinâmica do acidente e a culpa dos apelados pela sua ocorrência, como reconhecido às expressas na contestação (fls. 201), são fatos incontroversos nos autos, não dependendo de prova (artigo 374, inciso II, do Código de Processo Civil)".
+II - Violação do art. 373, II do CPC
+No recurso especial, o recorrente afirma que o acórdão guerreado nega vigência ao artigo ao condenar os recorrentes a indenizar o recorrido por danos que não foram seguramente comprovados. O Tribunal de origem, analisando o acervo probatório dos autos, concluiu que "não há impugnação específica a respeito do reconhecimento de perda total do veículo nem do pagamento de indenização integral à "associada" (segurada) da apelante" (fl. 338). Ademais, asseverou que (fl. 338):
+E ainda que assim não fosse, os danos verificados nas fotos de fls. 77/93 não são incompatíveis com os reparos apontados no orçamento de fls. 94/95, de valor quase idêntico ao preço médio apurado pela FIPE na consulta de fls. 96, e nenhuma das suspeitas e ilações que possam ter sido extraídas das entrelinhas do processo é capaz de convencer do contrário.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na análise dos elementos probatórios dos autos, razão pela qual rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Violação do art. 489, §1º, IV do CPC
+No recurso especial, a parte recorrente alega que o acórdão recorrido não enfrentou os argumentos capazes de infirmar a conclusão adotada pelo julgador, violando o dever de fundamentação.
+Entretanto, a parte não se desincumbiu de demonstrar, de forma concreta e específica, em que consistiu a deficiência de fundamentação do acórdão recorrido, o que atrai a aplicação, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia".
+IV- Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
