@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DPVAT - SEGURADORA LÍDER DOS CONSÓRCIOS DO SEGURO DPVAT contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ (fls. 861-862).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não deve ser recebido e, subsidiariamente, que seja desprovido, além de requerer a condenação da agravante em honorários advocatícios sucumbenciais no patamar de 20% sobre o valor da causa (fls. 884).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia em apelação nos autos de ação de cobrança de seguro obrigatório - DPVAT. O julgado foi assim ementado (fls. 800-801):
+Apelação cível. Cobrança. Seguro DPVAT. Coisa julgada. Afastamento. Sentença anulada. Nos termos do §2º do art. 337 do CPC, para a admissão da existência de coisa julgada é necessário que entre uma e outra demanda haja identidade de partes, de pedido e de causa de pedir, a alteração de um destes elementos afasta a coisa julgada. O DPVAT é um seguro de caráter social, que visa a indenizar as vítimas de acidente de trânsito, por isso ganha um viés constitucional, como nos casos de demandas previdenciárias, em que a jurisprudência atual aplica a relativização da coisa julgada. Sentença anulada com o retorno dos autos à origem para prosseguimento do feito.
+Os embargos de declaração foram rejeitados (fl. 831):
+Embargos de declaração em apelação cível. Vícios na decisão. Inexistência. Prequestionamento. Não podem ser acolhidos embargos declaratórios que, a pretexto de sanar omissão, traduzem, na verdade, apenas o inconformismo da parte com a decisão colegiada. O provimento do recurso para fins de prequestionamento condiciona-se à existência efetiva dos defeitos previstos na legislação processual. De acordo com o novo código de processo civil, ainda que rejeitados os embargos de declaração, consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 502 do CPC, porquanto a decisão recorrida não reconheceu a coisa julgada entre as demandas, mesmo havendo identidade de partes, pedido e causa de pedir;
+b) 485, V do CPC, visto que a sentença de improcedência transitada em julgado impede nova demanda com mesma causa de pedir e pedido; e
+c) 337, § 2º, do CPC, pois a decisão recorrida afastou indevidamente a coisa julgada ao considerar alteração na causa de pedir.
+Requer o provimento do recurso para que se reconheça a existência de coisa julgada e se determine a extinção do feito.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser recebido, pois não atende aos pressupostos processuais necessários, e, se for o caso do recebimento, que seja desprovido, além de requerer a fixação de honorários advocatícios sucumbenciais no patamar de 20% sobre o valor da causa (fls. 856-860).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de cobrança de seguro obrigatório - DPVAT em que a parte autora pleiteou o pagamento de indenização referente à invalidez permanente, em razão de acidente de trânsito ocorrido em 12/12/2015. Na sentença, o Juízo de primeiro grau extinguiu o feito sem resolução de mérito, nos termos do art. 485, V, do CPC, ante o reconhecimento de coisa julgada.
+A Corte estadual reformou a sentença, afastando a coisa julgada e determinando o retorno dos autos à origem para prosseguimento do feito.
+No recurso especial, a parte recorrente alega que a decisão recorrida não reconheceu a coisa julgada entre as demandas, mesmo havendo identidade de partes, pedido e causa de pedir.
+A Corte estadual, no acórdão recorrido, concluiu que a causa de pedir da primeira ação foram as sequelas do acidente, enquanto na segunda ação foi a ciência inequívoca da invalidez/incapacidade parcial e permanente, comprovada por laudo médico, afastando, assim, a coisa julgada. Confira-se trecho do acórdão recorrido (fl. 798, destaquei):
+Diante das informações prestadas no atual laudo médico pericial (ID 18184690), a requerente procedeu ao tratamento cirúrgico com evolução do quadro à osteomielite crônica, tratada ao longo dos seis anos seguintes e ao todo foi submetida a 12 intervenções cirúrgicas, procedendo com tratamento fisioterapêutico que se encerrou no ano de 2021.
+Certo é que a prova da invalidez ou incapacidade só pode ser atestada por meio de um laudo médico; e estando a pessoa em tratamento, não há como identificá-la ou, se parcial, como graduá-la.
+O art. 3º da Lei 6.194/74 prevê que: "Os danos pessoais cobertos pelo seguro estabelecido no art. 2º desta Lei compreendem as indenizações por morte, por invalidez permanente, total ou parcial, e por despesas de assistência médica e suplementares  .. .
+Ou seja, faz-se necessária a constatação da invalidez, seja ela total ou parcial, e, na primeira ação, tornou-se inviável a conclusão do laudo pericial, impossibilitando caracterizá-la.
+Com essas considerações, entendo que a causa de pedir da primeira ação foram as sequelas do grave acidente que sofreu e, nesta, a causa de pedir é a ciência inequívoca da invalidez/incapacidade parcial e permanente, comprovada por meio de laudo de médico ortopedista (ID 18184385).
+E assim, em sendo a causa de pedir desta demanda diversa da levada na primeira ação, não vislumbro a ocorrência da coisa julgada.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na ausência de identidade da causa de pedir desta demanda com a da ação anterior. Assim, para rever tal entendimento, seria necessário o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
