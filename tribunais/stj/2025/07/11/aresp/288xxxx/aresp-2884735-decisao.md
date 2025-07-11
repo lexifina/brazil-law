@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 28/2/2025.
+Concluso ao Gabinete em: 15/4/2025.
+Ação: revisional, ajuizada por JORGE DILAMAR GOULART RODRIGUES em desfavor da agravante, em virtude de instrumentos de empréstimos pessoais firmados entre as partes.
+Acórdão: negou provimento à apelação interposta pela agravante e à apelação interposta pelo agravado, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO. ENTIDADE DE PREVIDÊNCIA PRIVADA. JUROS REMUNERATÓRIOS PACTUADOS ACIMA DO PERMITIDO NO ORDENAMENTO LEGAL. CAPITALIZAÇÃO MENSAL AFASTADA. TAXA DE ADMINISTRAÇÃO. ALEGAÇÃO DE DESEQUILÍBRIO ATUARIAL DO PLANO DE BENEFÍCIOS DESACOLHIDA. SENTENÇA MANTIDA.
+Juros remuneratórios: Os juros remuneratórios dos contratos perfectibilizados com entidade de previdência privada fechada não podem superar o percentual de 12% ao ano, de modo que devem respeitar o limite legal disposto no Decreto nº 22.626/1933 (Lei de Usura), uma vez que a Lei Complementar nº 109/2001 estabeleceu que as entidades fechadas de previdência privada e as a instituições financeiras não são equiparáveis, não incidindo as regras do mercado financeiro.
+Capitalização mensal: A Quarta Turma do Superior Tribunal de Justiça (STJ), no julgamento do REsp 1.854.818/DF, firmou o entendimento de que as entidades fechadas de previdência privada não se equiparam a instituições financeiras, estabelecendo que ao conceder empréstimos não podem cobrar juros capitalizados, exceto se expressamente acordado entre as partes, após a entrada em vigor do Código Civil de 2002, e limitados à periodicidade anual. Afastada a capitalização dos contratos.
+Taxa de administração: Os contratos firmados entre as partes consistem em uma série de renegociações de dívida, o montante total de cada pactuação compreende o valor destinado para liquidar a dívida anterior, somado à quantia solicitada pela autora e creditada em seu favor. Nessa seara, não deve haver nova incidência de taxa de administração sobre o valor renegociado, sendo permitida apenas sobre os novos montantes mutuados para evitar duplicidade de cobrança (bis in idem), razão pela qual vai mantida a sentença no ponto.
+Repetição do indébito: Reconhecida a abusividade dos juros remuneratórios pactuados no contrato, é possível a compensação e devolução de valores pagos a maior, nos termos dos artigos 876 e 884, caput, ambos do Código Civil.
+Alegação de desequilíbrio atuarial do plano de benefícios: A mera readequação das cláusulas contratuais quanto aos juros remuneratórios não enseja qualquer prejuízo, nem ao menos apresenta potencial lesivo capaz de resultar em desequilíbrio atuarial do plano de benefícios, porquanto sequer há nos autos provas que evidenciem o contrário e, ainda que houvesse, tal situação não possui o condão de justificar a prática de cobrar juros acima do limite legal.
+APELO DA PARTE RÉ DESPROVIDO.
+APELO DA PARTE AUTORA DESPROVIDO.
+(e-STJ Fl. 374)
+Embargos de declaração: opostos pela agravante, foram parcialmente acolhidos, com efeitos infringentes, no seguinte sentido:
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO. ENTIDADE DE PREVIDÊNCIA PRIVADA. JUROS REMUNERATÓRIOS PACTUADOS ACIMA DO PERMITIDO NO ORDENAMENTO LEGAL. CAPITALIZAÇÃO MENSAL AFASTADA. TAXA DE ADMINISTRAÇÃO. ALEGAÇÃO DE DESEQUILÍBRIO ATUARIAL DO PLANO DE BENEFÍCIOS DESACOLHIDA. RECONHECIDO O ERRO MATERIAL QUANTO AOS CONTRATOS QUE NÃO INTEGRAM O PEDIDO INICIAL, OS QUAIS DEVERÃO SER DECOTADOS DA DECISÃO, NÃO INTEGRANDO EVENTUAL CUMPRIMENTO DE SENTENÇA. AUSENTE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO E ERRO MATERIAL QUANTO À DEMAIS INSURGÊNCIAS. SENTENÇA REFORMADA EM PARTE.
+- O acolhimento dos embargos de declaração pressupõe a existência, no julgamento impugnado, de um dos vícios previstos no art. 1.022 do Código de Processo Civil. Verificada omissão no julgado.
+Na análise dos autos, necessário reconhecer a ocorrência do erro material apontado, no que tange à revisão dos instrumentos contratuais de ns. 00088381/2001, 00064011/2000, 00046201/2000 e 00030411/2000, ocasionando o afastamento da análise de cunho revisional relativa aos instrumentos ora apontados, os quais não encontram-se abarcados dentre aqueles cuja revisão foi requerida
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE, COM EFEITOS INFRINGENTES.
+(e-STJ Fl. 435)
+Decisão de admissibilidade do TJ/RS: inadmitiu o recurso especial da agravante em razão dos seguintes fundamentos:
+i) ausência de negativa de prestação jurisdicional (art. 1.022 do CPC), considerando as particularidades citadas à e-STJ Fls. 462-466;
+ii) incidência das Súmulas 5 e 7 do STJ, "embora a recorrente alegue violação ao artigo 1.022 do CPC, mostra-se evidente que sua inconformidade se dirige contra o mérito da questão" (e-STJ Fl. 470), quanto à abusividade da avença;
+iii) ainda quanto aos juros remuneratórios, consonância com o julgado citado desta Corte à e-STJ Fl. 470; e
+iv) igual incidência da Súmula 7/STJ quanto à ausência de comprovação autoral da alegada capitalização e erro material no que tange ao teor da cláusula da taxa de administração.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega que:
+i) houve efetiva negativa de prestação jurisdicional, reiterando-se as razões de mérito quanto à capitalização, taxa de administração e normas aplicáveis, a par do equilíbrio atuarial;
+ii) é inaplicável a incidência das Súmulas 5 e 7/STJ, tendo em vista que a matéria arguida é apenas a ofensa ao art. 1.022 do CPC; e
+iii) deve ser afastada a incidência da Súmula 83/STJ à espécie, igualmente, considerando a mera arguição de ofensa ao art. 1.022 do CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) ausência de negativa de prestação jurisdicional (art. 1.022 do CPC), considerando as particularidades citadas à e-STJ Fls. 462-466;
+ii) incidência das Súmulas 5 e 7 do STJ, "embora a recorrente alegue violação ao artigo 1.022 do CPC, mostra-se evidente que sua inconformidade se dirige contra o mérito da questão" (e-STJ Fl. 470), quanto à abusividade da avença;
+iii) ainda quanto aos juros remuneratórios, consonância com o julgado citado desta Corte à e-STJ Fl. 470; e
+iv) igual incidência da Súmula 7/STJ quanto à ausência de comprovação autoral da alegada capitalização e erro material no que tange ao teor da cláusula da taxa de administração.
+Nesse passo, a agravante limitou-se a tecer alegações meramente genéricas e a reprisar as razões de seu recurso especial, deixando, pois, de demonstrar o efetivo desacerto da decisão.
+Saliente-se que é imprescindível, para que seja configurada e demonstrada a negativa de prestação jurisdicional (art. 1.022 do CPC), a explanação acerca da relevância da apreciação da questão tida por omissa e do modo em que ela repercutiria no resultado do julgamento.
+Especificamente quanto à consonância ao entendimento desta Corte (Súmula 83/STJ), a sua impugnação deve ser demonstrada com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie.
+Ademais, cumpre consignar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando os agravantes genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente à agravante em 1% sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
