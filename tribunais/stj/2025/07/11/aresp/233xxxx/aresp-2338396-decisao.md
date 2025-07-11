@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por RODRIGO DE SOUZA ANTUNES contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 5005948-03.2021.8.24.0018 (fls. 799/818).
+No recurso especial, o agravante pleiteia por sua absolvição quanto ao delito de associação para o tráfico, aduzindo a violação do art. 35 da lei 11.343/2006, diante insuficiência de provas da existência de vínculo subjetivo em caráter de estabilidade, insurgindo-se, ainda contra a exasperada pena fixada, ao argumento de que os fundamentos que alicerçam o aumento da pena base na primeira fase da dosimetria da pena em 1/6 são os mesmos utilizados com fulcro no art. 40, inciso IV, da lei n. 11.3436/2006 como causa especial de aumento de pena na terceira fase da dosimetria da pena. (fls. 857/869).
+Apresentadas as contrarrazões (fls. 891/895), o Tribunal de origem não admitiu o recurso, com suporte no óbice da Súmula 284/STF (fls. 902/903).
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo (fls. 999/1.007).
+É o relatório.
+O agravo não comporta conhecimento.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando a Súmula 284/STF, porquanto o pleito recursal não veio acompanhado da indicação clara e objetiva dos fundamentos do apelo nobre, não permitindo a exata compreensão da controvérsia. Dessa forma, o dispositivo legal apontado pelo agravante (art. 35 da Lei n. 11.343/2006) não guarda qualquer relação com a insurgência, de modo que não foi possível extrair, com a exatidão necessária, quais teses jurídicas seriam veiculadas, o que impediu o conhecimento e a compreensão clara da controvérsia ante a fundamentação deficiente.
+No agravo em recurso especial, o agravante não afastou o óbice contido e não realizou o devido cotejo analítico.
+A propósito: AgRg no AREsp n.2.374.068/DF, relator Ministro JoelIlan Paciornik, Quinta Turma, julgado em 2/4/2024, DJe de 5/4/2024.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida. Caberia, então, ao agravante atacar de forma específica os fundamentos da decisão agravada (óbice da Súmula 182/STJ) e indicar de maneira clara e objetiva a indicação dos dispositivos de lei federal violados para afastar o óbice da Súmula 284/STF.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publiq ue-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. 79,3 KG DE MACONHA. TESE PARA ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PLEITO PARA REDUÇÃO DE PENA. INSURGÊNCIA GENÉRICA. FALTA DE INDICAÇÃO CLARA E OBJETIVA DOS DISPOSITIVOS FEDERAIS VIOLADOS. ÓBICE SÚMULA 284/STF. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
