@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL contra a decisão do Tribunal de origem em que, no exame prévio de admissibilidade, se inadmitiu o recurso especial pelos seguintes fundamentos (fls. 96-97):
+A despeito da relevância da argumentação apresentada pela parte recorrente quanto à violação do art. 56 da Lei n.º 6.001/73, em que alega que o recorrido é indígena já integrado à sociedade, tem-se que a súplica não comporta admissibilidade, pois rever o posicionamento do acórdão objurgado, para averiguar se o recorrido está ou não integrado à sociedade, bem como os requisitos para a prisão domiciliar, implicaria, necessariamente, no reexame do conjunto fático-probatório, o que é vedado, no âmbito de recurso especial, por força da Súmula 7 1 do Tribunal da Cidadania.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido visto que, "ao contrário do que consignou a decisão agravada, o questionamento suscitado no bojo do recurso especial refoge à seara fática, não requerendo o reexame do acervo probatório" (fl. 111).
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada às fls. 124-131.
+Parecer do Ministério Público Federal opinando pelo provimento do agravo e do recurso especial, nos termos da seguinte ementa (fl. 148):
+I. AGRAVO VISANDO A SUBIDA DE RECURSO ESPECIAL. TESE QUE DISPENSA REVOLVIMENTO FÁTICO-PROBATÓRIO. MERA REVALORAÇÃO. PREMISSAS FÁTICAS ASSENTADAS NO ACÓRDÃO RECORRIDO. NÃO APLICAÇÃO DA SÚMULA 7/STJ. PROVIMENTO DO AGRAVO.
+II. RECURSO ESPECIAL. EXECUÇÃO PENAL. ESTATUTO DO ÍNDIO. IMPOSSIBILIDADE DE CONCESSÃO DE REGIME DIFERENCIADO DE CUMPRIMENTO DE PENA PELO SIMPLES FATO DE O APENADO SER INDÍGENA. NECESSÁRIA ANÁLISE DAS CONDIÇÕES DE ACULTURAMENTO DO REEDUCANDO. ART. 56 DA LEI Nº 6.001/1973. RESOLUÇÃO 287/2019 DO CNJ. PRECEDENTES DO STJ. PROVIMENTO DO RECURSO ESPECIAL.
+- Parecer pelo provimento do agravo e do recurso especial, para que o recorrido cumpra a pena privativa de liberdade no regime semiaberto em igualdade de condições com os demais internos
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo a aplicação correta do regime prisional conforme o art. 56 da Lei 6.001/1973 (Estatuto do Índio).
+A respeito da controvérsia, consta do acórdão recorrido (fls. 58-60):
+Em que pesem as alegações do Ministério Público, vislumbro que a decisão está sobejamente fundamentada no tratamento jurídico conferido à pessoa indígena pelo ordenamento jurídico pátrio (Estatuto do Índio, Resolução n.º 387/2019, do CNJ, etc) e por tratado internacional internalizado pela República Federativa do Brasil (Convenção n.º 169 da OIT), devendo ser mantidas as adequações no cumprimento de pena. A propósito, não se descura da finalidade ressocializadora da sanção penal, para além do fim repressivo, coadunando-se a decisão, na hipótese, com os objetivos de reintegração social do sentenciado em seu contexto, ou seja, no convívio com seus pares, pertencentes a grupo étnico com características culturais, sociais e econômicas próprias, independentemente se "integrado" ou não.
+ ..
+Como se vê, o magistrado, pautado nas normativas nacionais e internacionais, agiu corretamente ao aplicar um "regime especial diferenciado", com as adaptações indicadas, tendo, ainda, determinado com acerto a realização de exame antropológico para melhor compreensão das circunstâncias pessoais do sentenciado.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de reexame do conjunto fático-probatório.
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se
+EMENTA
