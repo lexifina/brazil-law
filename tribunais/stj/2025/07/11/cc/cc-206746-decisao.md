@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 11ª VARA CÍVEL DE PORTO ALEGRE (RS), nos termos do art. 66, parágrafo único, do Código de Processo Civil, e o Juízo de Direito da 8ª Vara Cível e de Acidentes de Trabalho de Manaus (AM), nos autos da ação de obrigação de fazer c/c indenização por danos morais ajuizada por BTM Comércio de Frios e Serviços de Catering Ltda. em desfavor de Baumgartner Spier Gastronomia e Eventos Ltda. (Platter Adventures), registrada sob o n. 0607685-23.2020.8.04.0001.
+Na origem, sustenta a autora que foi alvo de ataques difamatórios em redes sociais por sócias da empresa ré, sediada em Porto Alegre, com o intuito de abalar sua reputação empresarial e desestabilizar sua atuação no mercado manauara. O pedido compreende obrigação de fazer  consistente na abstenção de novas postagens ofensivas  e compensação por danos morais no valor de R$ 50.000,00.
+O Juízo de Manaus, inicialmente competente, acolheu a preliminar de incompetência territorial arguida pela parte ré, com base no art. 46 do CPC, por se tratar de ação fundada em direito pessoal, determinando a remessa dos autos ao Juízo de Porto Alegre.
+Contudo, o Juízo gaúcho recusou-se a exercer a jurisdição, invocando o art. 53, V, do CPC e o entendimento jurisprudencial de que, nas ações de reparação por ato ilícito, admite-se a escolha pelo foro do domicílio do autor ou do local do fato.
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito e no mérito, pela competência do Juízo de Direito da 8ª Vara Cível e de Acidentes de Trabalho de Manaus (fls. 296-299).
+É o relatório. Decido.
+A competência desta Corte para dirimir o presente conflito está amparada no art. 105, I, d, da Constituição Federal, pois envolve Juízos vinculados a Tribunais distintos.
+A controvérsia é definir se é competente o foro do domicílio da parte ré (Porto Alegre) ou se é admissível a eleição do foro do domicílio da parte autora (Manaus) na hipótese de ações indenizatórias por dano moral decorrente de publicações ofensivas na internet.
+Na linha do parecer do MPF, é pacífico nesta Corte o entendimento de que, em ações de reparação por ato ilícito, a parte autora pode optar pelo foro de seu domicílio ou pelo local onde ocorreu o fato, nos termos do art. 53, V, do CPC.
+Nessa linha:
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS CUMULADA COM OBRIGAÇÃO DE FAZER E NÃO FAZER DECORRENTE DA VIOLAÇÃO DE DIREITO AUTORAL.COMPETÊNCIA. DOMICÍLIO DO AUTOR OU LOCAL DO FATO.
+1. Cinge-se a controvérsia em definir o juízo competente para apreciar ação de indenização por danos materiais e morais, decorrente da utilização desautorizada de direito autoral cumulada com obrigação de fazer e não fazer.
+2. O autor da ação que objetiva a reparação dos danos sofridos em virtude de violação a direito autoral possui a faculdade de escolher o foro de seu domicílio ou o do local do fato (REsp 1685558/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/10/2017, DJe 09/10/2017).
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Cível de Campo Grande/RJ. (CC 163.323/SP, relator Ministro Luis Felipe Salomão, julgado em 29/8/2019, DJe de 2/9/2019.)
+RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO COMINATÓRIA E INDENIZATÓRIA. REPARAÇÃO DE DANOS FUNDAMENTADA EM VIOLAÇÃO DE DIREITO AUTORAL OCORRIDA PELA INTERNET. COMPETÊNCIA. DOMICÍLIO DO AUTOR OU LOCAL DO FATO. DANO DE ABRANGÊNCIA NACIONAL. OPÇÃO DO AUTOR. ART. 100, PARÁGRAFO ÚNICO, DO CPC/1973.
+1- Ação distribuída em 17/12/2014. Recurso especial interposto em 12/11/2015 e atribuído à Relatora em 25/8/2016.
+2- O propósito recursal é definir o juízo competente para processar e julgar ação cominatória e de reparação por danos materiais fundamentada em violação de direitos autorais.
+3- Hipótese concreta em que a pretensão deduzida em juízo fundamenta-se na ocorrência de violação de direito autoral causada em razão do envio, por meio da internet, de material didático voltado à preparação de candidatos para obtenção da certificação de planejador financeiro (CFP - Certified Financial Planner).
+4- O autor da ação que objetiva a reparação dos danos sofridos em virtude de violação a direito autoral possui a faculdade de escolher o foro de seu domicílio ou o do local do fato.
+5- Recurso especial não provido. (REsp n. 1.685.558/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2017, DJe de 9/10/2017.)
+No caso em exame, trata-se de demanda que visa à reparação de danos morais causados por postagens ofensivas feitas nas redes sociais por pessoa jurídica sediada em outra unidade da Federação.
+A causa de pedir está alicerçada na prática de ato ilícito (art. 186 do CC), atraindo, portanto, a regra do art. 53, V, do CPC.
+É irrelevante, para fins de fixação da competência, o fato de serem ambas as partes pessoas jurídicas, pois a exceção prevista no art. 53, V, do CPC não se restringe às relações de consumo.
+Esta Corte reconhece a aplicação do referido dispositivo também em litígios entre empresas, quando verificada a natureza ilícita do ato lesivo, bem como o impacto no âmbito da honra ou imagem do autor.
+Nesse contexto, ao escolher ajuizar a ação no foro de seu domicílio, a autora exerceu faculdade que lhe é assegurada por lei. A recusa do Juízo local em reconhecer sua competência afronta o critério legal e a jurisprudencial consolidada, o que configura conflito negativo, apto a ensejar a intervenção desta Corte.
+Ante o exposto, conheço do presente conflito negativo de competência para declarar competente o Juízo de Direito da 8ª Vara Cível e de Acidentes de Trabalho de Manaus (AM) , onde a demanda foi originalmente proposta, com fundamento no art. 53, V, do CPC, reconhecendo a validade da escolha do foro do domicílio da autora em ações de reparação por ato ilícito.
+Publique-se. Intimem-se.
+EMENTA
