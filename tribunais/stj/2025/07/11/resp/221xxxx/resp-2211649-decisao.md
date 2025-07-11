@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PIAUÍ, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, nos autos do Agravo Interno no Agravo de Instrumento n. 0764540-38.2023.8.18.000.
+Na origem, o Estado do Piauí interpôs agravo de instrumento contra decisão que homologou os cálculos do credor e determinou a expedição de precatório, alegando que tal decisão não extinguiu a execução, devendo ser impugnada por agravo de instrumento e não por apelação (fls. 30-32).
+O Tribunal de Justiça do Estado do Piauí negou provimento ao agravo interno, mantendo a decisão de não conhecimento do agravo de instrumento, por entender que a expedição de precatório encerra a fase executória, sendo cabível apelação (fls. 30-34), em acórdão assim ementado (fl. 30):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO DO AGRAVO DE INSTRUMENTO. INADMISSÍVEL. CUMPRIMENTO DE SENTENÇA. DECISÃO JUDICIAL QUE HOMOLOGOU OS CÁLCULOS DO CREDOR E ORDENOU A EXPEDIÇÃO DE PRECATÓRIO. ENCERRAMENTO DA FASE EXECUTÓRIA. CARÁTER TERMINATIVO. APELAÇÃO. RECURSO CABÍVEL. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 62-65).
+No recurso especial, a parte recorrente alega violação dos arts. 203, §1º, e 924 do CPC, sustentando que a decisão que homologa os cálculos e determina a expedição de precatório é interlocutória e deve ser impugnada por agravo de instrumento, conforme o art. 1.015, parágrafo único, do CPC.
+Admitido o recurso especial (fls. 106-109).
+É o relatório. Decido.
+A natureza da decisão que homologa os cálculos do credor e ordena a expedição de precatório constitui o cerne do recurso especial.
+O Tribunal de origem assim decidiu a questão controvertida (fls. 31-34):
+O cerne da questão reside na análise da possibilidade de reconsiderar decisão proferida nos autos do Agravo de Instrumento nº 0760125-46.2022.8.18.0000, por esta relatoria, que não conheceu do recurso por ser manifestamente inadmissível, nos termos do art. 932, inciso III, do CPC.
+O Estado agravante aduz que a sentença nos autos do cumprimento de sentença nº 0806147- 38.2019.8.18.0000, proposto por Joselio Taileres, que homologou os cálculos e determinou a expedição de precatórios, não teve o condão de extinguir a execução, podendo ela ser prosseguida.
+Aduziu que na fase de cumprimento, só há sentença quando a pretensão executiva é rejeitada por inteiro, extinguindo a execução em alguma das estritas hipóteses do art. 924 do CPC.
+Entende o Estado agravante que é interlocutória qualquer decisão da fase de cumprimento de sentença que mantém, total ou parcialmente, a pretensão executiva e a correspondente obrigação de pagar. E foi exatamente o que se deu com a decisão atacada pelo agravo de instrumento do Estado do Piauí, que, na realidade, não extinguiu o cumprimento de sentença, tendo, por consequência, a natureza de interlocutória.
+Ocorre que, contrário às alegações arguidas pelo entre estatal, afirmo que o entendimento adotado pela decisão guerreada não é isolada e nem minoritária, visto que a expedição de precatório encerra a fase executória, dando início à fase administrativa no âmbito do tribunal apenas para fins de pagamento do que for devido.
+Todos os termos arguidos em sede de execução quando da determinação de expedição de RVP ou precatório já foram analisados, discutidos e julgados. Nesse sentido, versam os julgados abaixo colacionados:
+ ..
+Assim, tenho que, diante do quadro que se coloca neste feito, não vislumbro a verossimilhança nas alegações do agravante, a justificar o que fora postulado nesta sede.
+Diante do exposto, CONHEÇO do AGRAVO INTERNO, mas para NEGAR-LHE PROVIMENTO, consoante os argumentos suso expendidos, mantendo-se a decisão agravada nos seus termos por seus próprios fundamentos.
+É o voto.
+Consoante se denota, o Tribunal de origem, ao concluir pela natureza de sentença a decisão que homologa cálculos e determina a expedição de precatório, de modo que deve ser impugnada por apelação, trilhou em harmonia com o entendimento desta Corte Superior. Confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÕES. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DOS CÁLCULOS. ORDEM DE EXPEDIÇÃO DE RPV. RECURSO CABÍVEL: APELAÇÃO.
+1. É deficiente a assertiva genérica de violação do art. 1.022 do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal a quo e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF
+2. O recurso cabível contra a decisão que homologa os cálculos e determina a expedição de requisição de pequeno valor ou precatório, declarando extinta a execução, é o de apelação. Precedentes.
+3. Recurso especial provido.
+(REsp n. 1.902.533/PA, relator Ministro Og Fernandes, Segunda Turma, julgado em 18/5/2021, DJe de 24/5/2021.)
+PROCESSUAL CIVIL. DECISÃO QUE DETERMINA A EXPEDIÇÃO DE OFÍCIOS REQUISITÓRIOS E ENCERRA A FASE DE CUMPRIMENTO DE SENTENÇA. PRONUNCIAMENTO QUE CONSUBSTANCIA SENTENÇA IMPUGNÁVEL POR APELAÇÃO. RECURSO ESPECIAL PROVIDO.
+1. O Tribunal de origem entendeu que a determinação de expedição de ofício requisitório, na modalidade Requisição de Pequeno Valor, consubstancia decisão impugnável por Agravo de Instrumento, caracterizando como erro grosseiro o manejo de Apelação.
+2. Não houve ofensa ao art. 1.022, II, do CPC/2015, uma vez que o Tribunal de origem deixou de apreciar a alegação de inconstitucionalidade, que tem natureza meritória, por entender que o recurso aviado não era cabível.
+3. A controvérsia se refere a uma decisão, proferida na fase de cumprimento de sentença, por meio da qual o Juízo de primeiro grau ordenou a expedição de Requisição de Pequeno Valor (RPV), sob o entendimento de que seria "de ordem acolher a livre manifestação das partes, haja vista a inexistência de vícios e nulidades, e proceder à competente homologação de valores, encerrando com isso, a presente execução contra a Fazenda Pública" (fl. 267, e-STJ).
+4. Se houve homologação dos cálculos, ordem para expedição dos ofícios requisitórios e expresso encerramento da fase de cumprimento de sentença, proferiu-se sentença. O art. 203, § 1º, do CPC/2015, caracteriza essa decisão como o "pronunciamento por meio do qual o juiz  ..  põe fim à fase cognitiva do procedimento comum, bem como extingue a execução". E, se é de sentença que se trata, o recurso cabível é a Apelação (art. 1.009 do CPC//2015).
+5. "Conforme a jurisprudência do Superior Tribunal de Justiça, o recurso cabível contra decisão que homologa os cálculos apresentados e determina a expedição de RPV ou precatório, declarando extinta a execução, é o de apelação" (AgInt no REsp 1.783.844/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 26.11.2019). No mesmo sentido: AgInt no REsp 1.760.663/MS, Rel. Ministro Raul Araújo, Quarta Turma, DJe DJe 23.10.2019; AgInt no REsp 1.593.809/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 12.9.2016.
+6. Recurso Especial provido.
+(REsp n. 1.855.034/PA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/3/2020, DJe de 18/5/2020.)
+Incide, portanto, sobre a espécie, o verbete da Súmula n. 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre anotar que o referido enunciado aplica-se também aos recursos interpostos com base na alínea a do permissivo constitucional (v.g.: AgRg no AREsp n. 354.886/PI, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/4/2016, DJe de 11/5/2016; AgInt no AREsp n. 2.453.438/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/2024, DJe de 7/5/2024; AgInt no AREsp n. 2.354.829/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 3/6/2024, DJe de 6/6/2024).
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO JUDICIAL QUE HOMOLOGOU OS CÁLCULOS DO CREDOR E ORDENOU A EXPEDIÇÃO DE PRECATÓRIO. ENCERRAMENTO DA FASE EXECUTÓRIA. CARÁTER TERMINATIVO. APELAÇÃO. RECURSO CABÍVEL. CONSONÂNCIA DO ACÓRDÃO COM ENTENDIMENTO DESTA CORTE SUPERIOR. RECURSO DESPROVIDO
