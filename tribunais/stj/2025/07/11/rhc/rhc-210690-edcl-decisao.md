@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Armando Franchini Filho e Armando Franchini Júnior contra decisão monocrática que não conheceu do recurso ordinário constitucional.
+Alegam erro de premissa fática, pois o relator teria desconsiderado a existência de procuração regularmente juntada aos autos, o que motivou a aplicação equivocada da Súmula 115/STJ. Sustentam que, mesmo na ausência do mandato, seria desnecessária a exigência de sua apresentação para a interposição de recurso ordinário em habeas corpus, conforme jurisprudência do STF, ou ao menos deveria ter sido oportunizada sua regularização, nos termos do art. 932, parágrafo único, do CPC.
+Aduzem, ainda, contradição quanto à fundamentação que afastou o reconhecimento da litispendência entre as ações penais, uma vez que a decisão reconheceu que os crimes tributários são praticados por autolançamento mensal, mas desconsiderou a identidade entre os fatos típicos imputados. Apontam, por fim, três omissões: (i) ausência de enfrentamento da tese de identidade da causa de pedir entre as ações penais, (ii) falta de análise sobre os períodos de lançamento do ICMS como momento de realização do crime e (iii) ausência de valoração jurídica quanto ao momento consumativo do delito tributário, à luz do art. 4º do Código Penal e da Súmula 24 do STF.
+Diante disso, requerem a reforma da decisão para que sejam conhecidas e apreciadas tais teses (e-STJ, fls. 197-202).
+É o relatório.
+Decido.
+Conheço dos embargos de declaração, porque tempestivos.
+Contudo, mantenho a decisão embargada pelos seus próprios fundamentos.
+Inicialmente, destaco que o julgamento monocrático do recurso especial é permitido pelo art. 255, § 4º, incisos II e III, do RISTJ e pela Súmula n. 568/STJ, quando o recurso especial ou o acórdão recorrido forem contrários à jurisprudência dominante do e. Supremo Tribunal Federal ou deste Superior Tribunal de Justiça.
+Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do Código de Processo Penal - ambiguidade, obscuridade, contradição ou omissão -, hipóteses inexistentes no julgado recorrido. Também não se apresenta a hipótese de erro material (art. 1.002 , III, do CPC).
+No caso em tela, a alegação de existência de procuração nos autos não se sustenta, pois, conforme já demonstrado, no momento da interposição do recurso ordinário, não havia instrumento de mandato regular que conferisse poderes aos subscritores para atuar em nome dos pacientes.
+Ademais, não vislumbro contradição na decisão embargada. Reconheceu-se que, embora as condutas imputadas aos embargantes sejam formalmente similares, elas se referem a fatos distintos no tempo, valores diversos e diferentes estabelecimentos comerciais, apurados em autos fiscais autônomos.
+Também não se verifica qualquer omissão. A decisão embargada apreciou o objeto do recurso dentro dos limites estabelecidos pela admissibilidade recursal. Considerando que a irresignação não foi conhecida por ausência de capacidade postulatória, eventual exame de mérito, realizado apenas em caráter subsidiário e por cautela, não exige enfrentamento exauriente de todas as teses defensivas, sobretudo aquelas que exigiriam dilação probatória ou juízo fático que escapa à estreita via do habeas corpus.
+Como cediço, a egrégia Primeira Seção deste colendo Tribunal Superior entende que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 08/06/2016, DJe 15/06/2016).
+A obrigatoriedade de fundamentação das decisões judiciais não impõe ao julgador a obrigação de resolver a todas as alegações das partes, nem tampouco de utilizar-se dos fundamentos que elas entendem serem os mais adequados para solucionar a causa posta em apreciação, bastando a fundamentação suficiente ao deslinde das questões suscitadas (EDcl no CC 109723 / PB, relatora Ministra Assusete Magalhães, Terceira Seção, julgado em 10/10/2012, DJe 31/10/2012).
+Ressalte-se que não está o magistrado obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte, configurando-se a omissão somente nos casos em que se deixa de emitir posicionamento acerca de matéria essencial, o que não ocorreu na espécie. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. OMISSÃO NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica a alegada omissão jurisdicional, mas apenas a ocorrência de um julgamento cujo resultado o Recorrente discorda, o que, todavia, não caracteriza omissão no acórdão recorrido ou ausência de fundamentação da decisão.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no REsp 1960789/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 07/12/2021, DJe 16/12/2021.)
+Observa-se, portanto, que o embargante pretende apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
