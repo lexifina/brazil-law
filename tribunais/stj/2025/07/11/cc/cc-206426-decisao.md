@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Comarca de Porto da Folha (SE) nos autos do processo de Inventário n. 0001215-12.2024.8.25.0062, instaurado por GABRIEL HENRIQUE ANDRADE PINHEIRO e JÉSSICA NUNES SANTOS em razão do óbito de EDILENO PINHEIRO DOS SANTOS, ocorrido em 28 de janeiro de 2021.
+A controvérsia teve origem na tramitação de inventário inicialmente processado no Juízo da Comarca de Porto da Folha. Após análise dos autos, especialmente da certidão de óbito e da ausência de bens no Estado de Sergipe, o Juízo estadual suscitou o presente conflito negativo de competência, alegando que o de cujus era domiciliado em Cabreúva (SP), local de seu falecimento e sepultamento, sendo essa, portanto, a comarca competente para o processamento do feito, nos termos dos arts. 48 do CPC e 1.785 do CC.
+O Juízo da Vara Única de Cabreúva (SP), no entanto, também se recusou a exercer jurisdição sob o fundamento de que os herdeiros e meeira residem em Porto da Folha, de modo que a competência seria do Juízo dessa localidade.
+O Ministério Público Federa manifestou-se no sentido de inexistir interesse na causa (fls. 476-479).
+É o relatório. Decido.
+Compete ao Superior Tribunal de Justiça dirimir conflitos de competência entre juízos vinculados a tribunais diversos (CF, art. 105, I, d), como na espécie, em que se contrapõem Juízo estadual do Estado de Sergipe e Juízo estadual do Estado de São Paulo.
+A controvérsia refere-se à definição do juízo competente para processar o inventário de Edileno Pinheiro dos Santos, diante do conflito instaurado entre o Juízo da Vara de Porto da Folha  onde a ação foi inicialmente proposta com base na residência dos herdeiros e da companheira sobrevivente  e o da Vara Única de Cabreúva, local onde o falecido veio a óbito e foi sepultado, conforme consta da certidão de óbito.
+Nos termos do art. 48 do Código de Processo Civil, é competente para o inventário o foro do último domicílio do autor da herança, regra que encontra correspondência no art. 1.785 do Código Civil. No entanto, trata-se de norma de competência territorial, cuja natureza é inequivocamente relativa.
+Sobre o tema, a jurisprudência desta Corte é clara ao afirmar que a competência territorial prevista no art. 48 do CPC é relativa e, portanto, não pode ser reconhecida ou modificada de ofício pelo juízo, nos termos da Súmula n. 33 do STJ: "A incompetência relativa não pode ser declarada de ofício."
+Esse entendimento foi reafirmado no recente julgado:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. INVENTÁRIO. COMPETÊNCIA TERRITORIAL. NATUREZA RELATIVA. SÚMULA 33/STJ.
+1. A competência para o processo sucessório, definida no art. 48 do CPC/15, é relativa.
+2. A incompetência relativa não pode ser declarada de ofício, segundo enuncia a Súmula 33 do STJ.
+3. Agravo interno não provido. (AgInt no CC n. 191.197/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/4/2023, DJe de 25/4/2023.)
+No caso concreto, embora a certidão de óbito mencione como local de falecimento e sepultamento o Município de Cabreúva  sendo esse, presumivelmente, o local de residência habitual do de cujus à época do óbito  , não há nos autos outros elementos de prova que demonstrem, de modo inequívoco, tratar-se de seu último domicílio civil, tampouco foram apresentadas certidões ou documentos que atestem a existência de bens naquela localidade.
+Diante disso, considerando que a competência é de natureza relativa, não poderia o Juízo da Comarca de Porto da Folha ter declinado da competência de ofício, especialmente na ausência de provocação das partes, em violação da Súmula n. 33 do STJ.
+Assim, a permanência da ação no Juízo sergipano, local de domicílio da companheira e dos herdeiros, é juridicamente admissível, não sendo legítimo o deslocamento da competência sem a observância do contraditório e da preclusão, nos moldes do procedimento previsto nos arts. 64 e seguintes do CPC.
+Ante o exposto, conheço do presente conflito negativo de competência para declarar competente o Juízo da Comarca de Porto da Folha (SE) para o processamento e julgamento do i nventário dos bens deixados por Edileno Pinheiro dos Santos.
+Publique-se. Intimem-se.
+EMENTA
