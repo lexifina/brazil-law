@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por BIOCAPITAL PARTICIPAÇÕES S.A. (em recuperação judicial) com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de impugnação de crédito. O julgado foi assim ementado (fl. 100):
+IMPUGNAÇÃO AO EDITAL DE CREDORES Credor que ao requerer a inclusão de seu crédito apresenta montante nominal, não incluindo todos os consectários legais previstos no art. 9, II Cálculo apresentado pela Administradora Judicial que inclui juros, correção monetária e multa contratual, constantes das faturas juntadas pelo impugnante Decisão que acolhe o parecer do auxiliar do Juízo Recurso da devedora pretendendo a correção de equívocos nos cálculos, para afastar a aplicação de multa de 2% e juros de 1% ao mês às faturas inadimplidas Desacolhimento Função do Administrador Judicial que atende ao art. 9º, II da LREF Cálculo realizado em obediência ao caput do art. 7º da LREF Cabe ao auxiliar do Juízo Recuperatório a tarefa de proceder com lisura, utilizando a mesma régua e, assim, analisando o valor do crédito, sua atualização até a data do pedido de recuperação, sua origem e classificação, indicando as provas que sustentam seu parecer Recurso não provido.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 49, §§ 1º e 2º, da Lei n. 11.101/2005, pois as obrigações anteriores à recuperação judicial devem observar as condições originalmente contratadas; e
+b) 9º, II, da Lei n. 11.101/2005, visto que o crédito deve ser atualizado até a data do pedido de recuperação judicial.
+Sustenta que o Tribunal de origem, ao aplicar multa e juros sobre o crédito habilitado, contrariou o entendimento do STJ no AgRg no AREsp n. 514.801/RS (fls. 109-110).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, majorando-se o crédito para R$ 25.401,76 e afastando-se a aplicação de juros e multa.
+Nas contrarrazões, a parte recorrida aduz que não há comprovação de hipossuficiência por parte da recorrente e que a atualização do crédito está em conformidade com a legislação aplicável (fls. 123-137).
+O recurso especial foi admitido (fls. 144-145).
+É o relatório. Decido.
+O TJSP assim se pronunciou sobre a questão da incidência da multa e dos juros de mora (fls. 103-104):
+A credora impugnou a lista de credores apresentada pela devedora e requereu a inclusão do valor de R$ 25.401,76, juntando os documentos correspondentes a faturas vencidas e inadimplidas antes do pedido recuperatório.
+Ao verificar o crédito, a zelosa Administradora Judicial, em obediência ao que dispõe o art. 9º, II da LREF observou que o crédito não estava atualizado até a data do pedido recuperatório e, assim, realizou cálculo nos termos do disposto no art. 7º da LREF e, com base nos documentos que lhe foram apresentados, chegou ao valor de R$ 40.146,72, somando as rubricas "principal, atualização monetária e juros" e a elas adicionou a multa de 2%, constante das faturas.
+A Administradora Judicial, portanto, cumpriu sua função de calcular corretamente todos os créditos com um único critério, para o fim de, ao final, consolidar o quadro geral de credores nos termos do art. 18 da LREF, conforme determina a alínea f do inciso I, art. 22 da LREF, aplicando corretamente o princípio da pars conditio creditorum.
+Cabe ao auxiliar do Juízo Recuperatório a tarefa de proceder com lisura e utilizar a mesma régua para todos os credores, e, assim, analisar o valor do crédito, sua atualização até a data do pedido de recuperação, sua origem e classificação, indicando as provas que sustentam seu parecer.
+E, obviamente, pouco valeria afastar a inclusão de algumas verbas neste momento porque ao credor sempre se abre a possibilidade de requerer a inclusão de parcelas que não tenham sido consideradas no presente exame, apresentando impugnação retardatária ou promovendo procedimento ordinário, se já publicado o quadro geral de credores.
+Se os valores impugnados se referem a verbas realmente devidas, não há razão para afastar sua incidência, nos termos do manifestado pela Administradora Judicial que é o responsável pela consolidação do quadro geral de credores.
+Em razão do exposto, nega-se provimento ao recurso.
+Portanto, para infirmar a conclusão do Tribunal de origem a respeito da aplicação de multa e juros até a data do pedido de recuperação judicial, bem a alegação de que não há pagamento em atraso, seria necessário o reexame do conjunto fático-probatório dos autos, o que não se admite em razão do disposto na Súmula n. 7 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
