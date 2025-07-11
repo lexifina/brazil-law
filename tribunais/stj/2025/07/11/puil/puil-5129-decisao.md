@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal interposto por CRISTINA JULIANA OLIVEIRA SOLER CARLOTTI contra acórdão proferido pela 6ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado Paraná que, nos autos do processo n. 0001375-19.2023.8.16.0128, negou provimento ao recurso inominado, consoante a seguinte ementa (fl. 179-180):
+RECURSO INOMINADO. AÇÃO INDENIZATÓRIA. SERVIDORA PÚBLICA DO MUNICÍPIO DE PARANACITY. PROFESSORA. SENTENÇA PROCEDÊNCIA. INSURGÊNCIA RECURSAL DO MUNICÍPIO. PRELIMINARES AFASTADAS. BASE DE CÁLCULO DO TERÇO DE FÉRIAS. ARTIGO 38 DA LEI COMPLEMENTAR Nº 1630 /2008 QUE É EXPRESSO AO CONCEDER 45 DIAS DE FÉRIAS. BASE DE CÁLCULO DO TERÇO DE FÉRIAS QUE DEVE INCIDIR SOBRE A TOTALIDADE DO PERÍODO. IRDR 25 DO TJPR. TEMA 1241 DO STF. PRECEDENTES DESTA TURMA RECURSAL. CORREÇÃO MONETÁRIA. EMENDA CONSTITUCIONAL Nº 113/2021. INCIDÊNCIA DA PRESCRIÇÃO QUINQUENAL NAS PARCELAS A SEREM ADIMPLIDAS PELO MUNICÍPIO. SENTENÇA PARCIALMENTE REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso inominado interposto pelo município contra1. sentença que julgou procedentes os pedidos iniciais.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a base de cálculo2. do terço de férias da parte autora.
+III. RAZÕES DE DECIDIR
+3. A preliminar de ausência de dialeticidade recursal, interposta3. pela parte autora foi afastada, uma vez que o recurso atacou diretamente os fundamentos da sentença; A alegação de iliquidez da sentença também não se sustenta, considerando que o valor da condenação pode ser apurado mediante cálculos aritméticos simples. Preliminares afastadas.
+4. O art. 38, inciso I, da Lei Municipal nº 1.630/2008 é expresso4. ao prever 45 dias de férias anuais para servidores que exercem função docente.
+5. A base de cálculo do terço de férias deve incidir sobre a totalidade do período de férias, conforme o entendimento consolidado no IRDR nº 25 do TJPR e no Tema 1241 do STF.
+6. Em relação à prescrição, nos termos do art. 11 do Decreto nº 20.910/1932, aplicável à Administração Pública, há incidência de prescrição quinquenal. Assim, o direito da autora limita-se às parcelas vencidas nos cinco anos anteriores ao ajuizamento da ação.
+7. A correção monetária e os juros moratórios devem observar os critérios estabelecidos pela EC nº 113/2021 e precedentes dos tribunais superiores:
+(i) até julho/2001: IPCA-E e juros de mora de 1% ao mês;
+(ii) de agosto/2001 a junho/2009: IPCA-E e juros de mora de 0,5% ao mês;
+(iii) de julho/2009 a 08/12/2021: IPCA-E e juros de mora conforme remuneração da poupança;
+(iv) a partir de 09/12/2021: taxa Selic para correção monetária e juros.
+IV. DISPOSITIVO E TESE
+8. Recurso conhecido e parcialmente provido para determinar:
+(i) o reconhecimento da prescrição quinquenal, limitando as parcelas devidas aos cinco anos anteriores ao ajuizamento da ação;
+(ii) a aplicação da correção monetária e dos juros de mora conforme a EC nº 113/2021.
+9. Mantida a condenação ao pagamento do terço de férias calculado sobre 45 dias de férias, nos termos do art. 38, inciso I, da Lei Municipal nº 1.630/2008.
+Tese de julgamento:
+1. O terço constitucional de férias deve incidir sobre a totalidade do período de férias anuais legalmente previsto, conforme o IRDR nº 25 do TJPR e o Tema 1241 do STF.
+2. Aplica-se a prescrição quinquenal às parcelas devidas por entes públicos, nos termos do art. 11 do Decreto nº 20.910/1932.
+3. A taxa Selic deve ser aplicada como critério de correção monetária e juros de mora a partir de 09/12/2021, conforme a EC nº 113/2021.
+Sustenta o requerente que o acórdão impugnado divergiu de julgados de Turmas Recursais de outros Estados em relação à aplicação art. 1º do Decreto n. 20.910/1932, "especificamente quanto ao termo inicial da prescrição em casos de verbas como férias e adicionais devidos a servidores públicos" (fl. 195). Alega que "enquanto o acórdão recorrido da 6ª Turma Recursal do Paraná fixa o termo inicial da prescrição como sendo a data do ajuizamento da ação, limitando o direito às parcelas vencidas nos cinco anos anteriores, as decisões paradigmas adotam interpretação diversa, estabelecendo que o prazo prescricional somente começa a fluir a partir do término do vínculo funcional do servidor com a Administração" (fl. 202).
+Requer, pois, o acolhimento do pedido.
+É o relatório.
+Decido.
+O pedido de uniformização de interpretação de lei federal não merece ser conhecido, uma vez que não foi comprovada a alegada divergência jurisprudencial nos termos legais e regimentais, vício substancial insanável.
+Com efeito, compulsando os autos, verifica-se que o requerente não comprovou o alegado dissídio interpretativo consoante o disposto no art. 1.029, § 1º, do Código de Processo Civil e no art. 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça - aplicável ao PUIL, por analogia -, na medida em que não procedeu ao necessário cotejo analítico dos casos comparados, limitando-se a colacionar as ementas dos julgados paradigmas. A propósito:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIVERGÊNCIA. REQUISITOS. AUSÊNCIA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+1. O incidente de uniformização dirigido ao STJ, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, é cabível quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+2. Segundo o disposto no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ, aplicáveis por analogia, a parte requerente deve comprovar a divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que, in casu, não ocorreu.
+3. Não cabe a esta Corte Superior se manifestar, em sede de pedido de uniformização de interpretação de lei federal, acerca de legislação local.
+4. Agravo interno desprovido. (AgInt no PUIL 2750/SP, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 21/11/2022; sem grifo no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE COTEJO ANALÍTICO. PEDIDO NÃO CONHECIDO.
+1. Nos termos do art. 14, § 4º, da 10.259/2001, o cabimento do incidente perante o STJ se dará nas hipóteses de decisão colegiada que examina questão de direito material, a qual esteja em confronto com súmula ou jurisprudência dominante do STJ. Para tanto, faz-se necessária a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, com a realização do cotejo analítico entre eles (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).
+2. Na espécie, a requerente não procedeu ao cotejo analítico entre os acórdãos confrontados. Também não fez prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, requisitos indispensáveis para o processamento e conhecimento do referido incidente de uniformização.
+3. Agravo interno não provido. (AgInt no PUIL n. 760/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 31/3/2020, DJe de 2/4/2020; sem grifo no original.)
+Cumpre observar que "a ausência de demonstração da divergência alegada no recurso uniformizador constitui claramente vício substancial resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC/2015 para complementação da fundamentação, possível apenas em relação a vício estritamente formal, nos termos do Enunciado Administrativo 6/STJ" (AgRg nos EREsp n. 1.743.945/PR, relator Ministro Herman Benjamin, Corte Especial, DJe de 20/11/2019).
+No mesmo diapasão, ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE DEMONSTRAÇÃO E COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. INOBSERVÂNCIA DOS REQUISITOS LEGAIS E REGIMENTAIS. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão, publicada na vigência do CPC/2015, que não conheceu do Pedido de Uniformização de Interpretação de Lei.
+II. Na forma da jurisprudência do STJ, o Incidente de Uniformização dirigido a esta Corte Superior é cabível contra decisão colegiada da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ, exigindo-se a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelo art. 1.029, § 1º, do CPC/2015 e do 255, § 1º, do RISTJ, aplicáveis, por analogia. Precedentes do STJ.
+III. A Corte Especial desta Corte já decidiu que "a ausência de demonstração da divergência alegada no recurso uniformizador constitui claramente vício substancial resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC/2015 para complementação da fundamentação, possível apenas em relação a vício estritamente formal, nos termos do Enunciado Administrativo 6/STJ" (STJ, AgRg nos EREsp 1.743.945/PR, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 20/11/2019). Em igual sentido: STJ, Ag Int nos EAREsp 419.394/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 14/06/2019; AgInt nos EREsp 1.455.459/SC, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, DJe de 09/12/2019.
+IV. Agravo interno improvido. (AgInt no PUIL 889/RS, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 03/11/2022; sem grifo no original.)
+Ante o exposto, NÃO CONHEÇO do pedido.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DE DEMONSTRAÇÃO E COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. INOBSERVÂNCIA DOS REQUISITOS LEGAIS E REGIMENTAIS. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. PRECEDENTES DO STJ. PEDIDO NÃO CONHECIDO.
