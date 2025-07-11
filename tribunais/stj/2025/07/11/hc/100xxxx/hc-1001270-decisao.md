@@ -1,0 +1,38 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar, impetrado em favor de Juliete Reis de Souza, alega-se coação ilegal em relação ao acórdão de Agravo de Execução Penal n. 2000091-22.2025.8.05.0113, prolatado pelo Tribunal de Justiça do Estado da Bahia.
+O juízo de primeiro grau indeferiu o pedido de reconhecimento da remição ficta à paciente referente ao período que esteve internada para tratamento de saúde (fls. 52-55). Contra essa decisão o Ministério Público interpôs agravo em execução, o qual foi desprovido (fls. 12-22).
+A petição expõe a existência de constrangimento ilegal sob o argumento de que as instâncias ordinárias não concederam a remição ficta à paciente com base em "uma interpretação estritamente literal da norma, sem considerar os princípios que regem a execução penal e as particularidades do caso concreto" (fls. 5).
+Argumenta-se que "a Paciente realizava atividades laborais regularmente no Conjunto Penal de Itabuna/BA, para efeito de remição da pena, até que em fevereiro de 2024 precisou ser transferida para a unidade prisional de Salvador/BA para a realização de tratamento oncológico" (fls. 5), tendo enfrentado diversas complicações no período pós-operatório.
+Alega-se ainda a possibilidade de aplicação, por analogia, do Tema 1.120 do STJ à espécie. Além disso, a Resolução n. 391/2021 do CNJ estabelece o cabimento da remição ficta em casos em que o reeducando não esteja em condições de saúde para a atividade laboral.
+Assim, o pedido especifica-se no reconhecimento do direito da paciente à remição ficta de 56 dias pelo período de afastamento citado, com a consequente atualização do atestado de pena (fls. 2-10).
+A decisão de fls. 68-69 indeferiu o pedido de liminar.
+O Juízo da Execução Penal e o Tribunal de Justiça do Estado da Bahia prestaram as informações que lhe foram requisitadas (fls. 76-78 e 79-86).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus, ou, alternativamente, pela denegação da ordem, em parecer que recebeu a seguinte ementa (e-STJ fls. 91-96):
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO HC. NÃO CONHECIMENTO. EXECUÇÃO PENAL. PRETENSÃO DE REMIÇÃO FICTA, POR MOTIVO DE SAÚDE. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. INTERPRETAÇÃO RESTRITIVA QUE DEVE SER CONFERIDA AO ART. 126, §4º, DA LEP. PRECEDENTE DO STJ. INAPLICABILIDADE DO TEMA 1120/STJ. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS; SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM."
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+No entanto, é entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+No caso, seria cabível, em tese, a interposição de recurso especial, razão pela qual não há possibilidade de impetração de habeas corpus.
+Por outro lado, a concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+No caso concreto, não vislumbro constrangimento ilegal, uma vez que o acordão impugnado está em linha com a jurisprudência do Superior Tribunal de Justiça no sentido de que o art. 126, § 4º, da Lei de Execução Penal deve ser interpretado restritivamente.
+Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REMIÇÃO DA PENA PELO TRABALHO. REMIÇÃO FICTA DEVIDO À FALTA DE MATÉRIA PRIMA. INVIABILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. REMIÇÃO DAS HORAS TRABALHADAS QUE EXCEDAM A JORNADA MÍNIMA DE 6 HORAS. DESCABIMENTO. PRECEDENTES.
+I. A jurisprudência do Superior Tribunal é sedimentada no sentido de que apenas as horas trabalhadas que excedam a jornada máxima de 8 (oito) horas diárias podem ser computadas para fins de remição de mais um dia da pena. Precedentes.
+II. O trabalho ou estudo durante o cumprimento da pena destina-se a contribuir para a ressocialização do apenado, de modo que as hipóteses de remição ficta da pena são aquelas previstas no art. 126, §4º, da Lei de Execução Penal, quais sejam, impossibilidade de trabalho ou estudo devido a acidente do apenado. Ao dispositivo em questão deve ser conferida interpretação restritiva. Precedentes.
+III. A omissão do Estado em fornecer matéria prima para o trabalho da reeducanda não constitui situação excepcionalíssima a admitir a remição ficta fora das hipóteses legais.
+Agravo regimental desprovido.
+(AgRg nos EDcl no REsp n. 1.893.570/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/9/2024, DJe de 19/9/2024, grifou-se.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO. REMIÇÃO. PERÍODO EM QUE O APENADO PODERIA ESTAR TRABALHANDO PARA REMIR A PENA. SUSPENSÃO DAS ATIVIDADES EM RAZÃO DA PANDEMIA DO COVID-19. PEDIDO DEFENSIVO DE RECONHECIMENTO DA REMIÇÃO FICTA. INTERPRETAÇÃO EXTENSIVA DO ART. 126, § 4º, DA LEI DE EXECUÇÃO PENAL - LEP. INEXISTÊNCIA DE RECOMENDAÇÃO OU DE PREVISÃO LEGAL NESSE SENTIDO. ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Verifica-se a inexistência de previsão legal para a remição ficta, em virtude da suspensão das atividades laborativas e educacionais decorrentes da emergência causada pela pandemia do novo Coronavírus, pois a remição não pode ser aplicada fora das hipóteses elencadas no art. 126 da Lei de Execução Penal. Precedentes.
+2. Incabível o reconhecimento da remição ficta em situação de impedimento coletivo ao trabalho, haja vista que a benesse é aplicada em hipótese específica e individual, prevista em lei, ou seja, em caso de acidente que impossibilite o reeducando de exercer suas atividades laborativas e educacionais.
+3. Esta Corte Superior somente admite a remição decorrente do labor ou atividade educacional efetivamente realizados, como é possível constatar de reiterados julgados nesse sentido. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 146.758/MA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/11/2021, DJe de 16/11/2021, grifou-se.)
+Logo, o período em que a paciente ficou hospitalizada, por razões alheias ao trabalho, não lhe confere o direito à remição ficta.
+Em razão da necessidade de interpretação restritiva, não se aplica ao caso o Tema 1120, que tratou apenas da situação excepcionalíssima da pandemia de covid-19.
+O zeloso parecer do Ministério Público Federal compartilha desse raciocínio:
+"No caso, a impossibilidade de trabalhar não decorreu de acidente de trabalho, nem mesmo da pandemia pelo coronavírus, não sendo caso, portanto, de aplicação do art. 126, § 4º, da LEP ou da tese do Tema 1120. A pretendida interpretação extensiva do art. 126 da LEP em favor da reeducanda incorreria em violação ao princípio da legalidade.
+O acórdão de origem não destoa da jurisprudência deste Superior Tribunal de Justiça quanto à interpretação restritiva que deve ser conferida ao art. 126, §4º, da LEP." (e-STJ fls. 95)
+Por esses fundamentos, deixo de conhecer do habeas corpus substitutivo e não concedo habeas corpus de ofício.
+Publique-se. Intime-se.
+EMENTA
