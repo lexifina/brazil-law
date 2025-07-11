@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de ag ravo em recurso especial interposto por ROGERIO JOSE HOFFMANN, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 61):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TEMPO DE SERVIÇO RURAL. COISA JULGADA. TEMA 629 DO STF.
+- A coisa julgada é qualidade que se agrega aos efeitos da sentença, tornando indiscutível a decisão não mais sujeita a recurso (CPC, art. 502), impedindo o reexame da causa no mesmo processo (coisa julgada formal) ou em outra demanda judicial (coisa julgada material). Tal eficácia preclusiva - que visa a salvaguardar a segurança nas relações sociais e jurídicas, conferindo-lhes estabilidade - projeta-se para além do conteúdo explícito do julgado, alcançando todas as alegações e defesas que poderiam ter sido suscitadas e não o foram pelas partes, nos termos do art. 508 do CPC.
+- No caso dos autos, o Juízo a quo extinguiu o processo, sem resolução de mérito, quanto ao pedido de reconhecimento da atividade rural no período de 24/11/1973 a 19/06/1986, em razão da ocorrência de coisa julgada diante do decidido da ação nº 5020560-22.2012.4.04.7108, que tramitou pelo Procedimento do Juizado Especial Federal. A sentença, prolatada no referido processo 5020560- 22.2012.4.04.7108 em 05/02/2013, julgou parcialmente procedente o pedido (evento 10, SENT1), não reconhecendo o exercício de labor rural no período de 01/01/1974 a 31/05/1986 ante a total ausência de prova material.
+- Nos termos da tese estabelecida pelo Superior Tribunal de Justiça no Tema 629: A ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo sua extinção sem o julgamento do mérito (art. 267, IV do CPC) e a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários à tal iniciativa.
+- O precedente do Superior Tribunal de Justiça, contudo, não abre oportunidade para rediscussão, na seara do processo judicial previdenciário, de qualquer matéria que já tenha sido já apreciada em caráter definitivo pelo Judiciário, pois deve ser respeitada a formação da coisa julgada, a qual, se for o caso, somente pode ser desconstituída mediante uso dos meios processuais adequados.
+- Agravo de instrumento provido em parte para reconhecer a coisa julgada em relação aos período de labor rural de 01/01/1974 a 31/05/1986, admitido o prosseguimento do feito quanto aos períodos de 24/11/1973 a 31/12/1973 e 01/06/1986 a 19/06/1986.
+Opostos embargos declaratórios, o Tribunal a quo proferiu acórdão, conforme ementa in verbis (fl. 106):
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. INEXISTÊNCIA DAS HIPÓTESES ENSEJADORAS DO RECURSO. PREQUESTIONAMENTO.
+- São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do CPC.
+- A modificação do julgado é admitida apenas excepcionalmente e após o devido contraditório (artigo 1.023, § 2º, do CPC).
+- Não há a necessidade do julgador mencionar os dispositivos legais e constitucionais em que fundamenta sua decisão, tampouco todos os citados pelas partes.
+- Embargos acolhidos tão somente para efeitos de prequestionamento.
+No recurso especial (fls. 113-135), o recorrente alega "afronta aos arts. 55, § 3º, da Lei 8.213/1991; 320, 485, IV, 486 do CPC/2015, todos problematizados no Tema Repetitivo 629/STJ" (fl. 135), razão pela qual requer "a (re)afetação do Tema Repetitivo 629/STJ, a fim de tornar claro que o precedente pode ser aplicado à situação em que houve anterior julgamento de improcedência" (fl. 135).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 142-144):
+A pretensão recursal não merece trânsito, porquanto a questão suscitada implica revolvimento do conjunto probatório, vedado em sede de recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+(..)
+Ante o exposto, não admito o recurso especial.
+Em seu agravo, às fls. 152-161, o agravante aduz que:
+Porém, os argumentos que ampararam à negativa se mostram injustos e ilegais, não tendo que se falar em ofensa a Súmula nº. 7 do Superior Tribunal de Justiça, uma vez que o objeto recursal se limita em abordar apenas e tão-somente questões de direito que estão dissociadas do plano fático, razão pela qual se impõe a intervenção desta Egrégia Corte.
+O que se discute, de forma muito clara e objetiva, é a possibilidade de aplicação da orientação firmada no julgamento do REsp 1.352.721/SP à situação em que houve anterior julgamento de improcedência, conforme art. 55, § 3º, da Lei 8.213/1991, bem assim arts. 320, 485, IV e 486 do CPC.
+(..)
+Desta forma, o Colendo Superior Tribunal de Justiça não deve avaliar a questão probatória, mas apenas e tão somente se há ou não possibilidade de aplicação do Tema Repetitivo ao caso dos autos, questão que tem relevância no âmbito infraconstitucional, ao passo que depois de reconhecida tal circunstância, deve ser dado baixa no feito para que a Corte de origem avalie as provas constantes nos autos para aplicação do entendimento definido pelo STJ.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
