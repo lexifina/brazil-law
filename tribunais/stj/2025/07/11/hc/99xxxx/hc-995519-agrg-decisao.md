@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo regimental, interposto por DIEGO LIMA PADILHA, RONES GONÇALVES LIMA e KAIO FERREIRA NARDI, contra a decisão de fls. 140/141, na qual não conheci do habeas corpus, em virtude da falta da juntada do voto condutor do julgado prolatado na origem.
+Todavia, como a parte colacionou a peça faltante ao manejar o presente agravo, supero a falha referente à instrução deficiente do remédio constitucional e passo a apreciá-lo.
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de DIEGO LIMA PADILHA, RONES GONÇALVES LIMA e KAIO FERREIRA NARDI, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO proferido no julgamento da APELAÇÃO CRIMINAL n. 0000192-28.2021.8.08.0056.
+Extrai-se dos autos que os pacientes foram condenados às penas de 7 anos, 3 meses e 15 dias de reclusão, no regime inicial semiaberto, além do pagamento de 625 dias-multa, pela prática do delito tipificado no art. 33, c/c o art. 40, inciso IV, ambos da Lei n. 11.343/2006 (tráfico de drogas majorado pelo emprego de arma de fogo).
+O Tribunal de origem negou provimento às apelações interpostas pela defesa e pelo Parquet estadual, por maioria de votos, nos termos do acórdão assim ementado:
+"APELAÇÕES CRIMINAIS. ARTIGO 33, CAPUT, DA LEI 11.343/06. RECURSOS MINISTERIAL E DEFENSIVO. A) PRELIMINAR DE NULIDADE DA PROVA. REJEITADA. B) MÉRITO. B.1) RECURSO MINISTERIAL. CONDENAÇÃO DOS RÉUS NO CRIME DO ARTIGO 35, DA LEI 11.343/06. INCABÍVEL. B.2) RECURSO DA DEFESA. ABSOLVIÇÃO DO CRIME DE TRÁFICO DE DROGAS. DESCABIMENTO. REDUÇÃO DA PENA-BASE. DESCABIMENTO. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. ELEMENTOS CONCRETOS APONTANDO A DEDICAÇÃO A ATIVIDADES ILÍCITAS. DECOTE DA CAUSA DE AUMENTO DE PENA PREVISTA NO ARTIGO 40, INCISO IV, DA LEI 11.343/06. INVIÁVEL. COMPROVAÇÃO DO EMPREGO DE ARMA DE FOGO. PEDIDO DE GRATUIDADE DA JUSTIÇA. INCABÍVEL. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. DETRAÇÃO. ARTIGO 42, DO CÓDIGO PENAL. DESCABIDO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. REVOGAÇÃO PRISÃO PREVENTIVA. IMPOSSIBILIDADE. RECURSOS CONHECIDOS E DESPROVIDOS.
+Preliminar de Nulidade da Prova:
+1. Restando demonstrado que a prova produzida não é capaz de demonstrar que a prova colhida na esfera policial foi obtida, através de tortura e/ou violência policial, incabível a possibilidade de reconhecimento da nulidade da mesma.
+2. Preliminar rejeitada.
+b) Mérito:
+b.1) Recurso do Ministério Público Estadual:
+1. A caracterização do delito previsto no artigo 35 da Lei de Drogas pressupõe a demonstração inequívoca da estabilidade e permanência do vínculo entre os acusados. Assim, não basta que duas pessoas eventualmente pratiquem os crimes alhures declinados para consumação da associação para o tráfico de drogas, sendo necessário que o vínculo associativo seja duradouro e prévio.
+2. In casu, a prova amealhada não implica em certeza de vínculo associativo estável para a prática do tráfico de drogas por parte dos réus, sendo imperiosa, portanto, a manutenção da absolvição dos mesmos.
+3. Recurso ministerial conhecido e desprovido.
+b.2) Recursos das defesas:
+1. O delito do artigo 33, caput, da Lei 11.343/06, é crime de perigo presumido, não se restringindo ao ato de comercializar entorpecentes, configurando-se, tão somente, com a prática de uma das condutas descritas no caput do artigo 33, da Lei de Drogas.
+2. Tendo em vista que os elementos probatórios constantes nos autos, consubstanciados nas provas testemunhais e periciais, evidenciam a materialidade e a autoria do delito de tráfico de drogas, incabível a absolvição do réu.
+3. A dosimetria da pena é atividade discricionária do magistrado, que não se limita a fórmulas matemáticas pré-fixadas, devendo ser realizada conforme o caso concreto em atenção aos ditames da legislação criminal.
+4. Restando demonstrado que a fundamentação utilizada para majoração da pena basilar é idônea, incabível a redução da pena-base aplicada.
+5. De acordo com a jurisprudência do Superior Tribunal de Justiça, o magistrado, dentro da discricionariedade que lhe é conferida, pode adotar um dos critérios matemáticos previstos pela jurisprudência do Superior Tribunal de Justiça, ou mesmo nenhum deles, desde que o faça mediante fundamentação idônea e satisfatória, através da análise das peculiaridades de cada caso concreto, ajustando a pena ao seu destinatário e fim social, e de acordo com os princípios da razoabilidade e proporcionalidade.
+6. No caso em tela, a majoração da pena basilar não e mostra desproporcional, além do que, encontra-se devidamente fundamentada nos termos do artigo 59, do Código Penal, e do artigo 42, da Lei de Drogas.
+7. Para aplicação da causa de diminuição de pena do artigo 33, § 4º, da Lei no 11.343/06, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa.
+8. Há elementos concretos nos autos, que apontam a dedicação a atividades ilícitas, e ainda, que os réus não são traficantes iniciantes, ou eventuais, mas que, fazem do tráfico, meio de vida, sendo incabível a aplicação da benesse do art. 33, § 4º, da Lei de Drogas.
+9. Restando demonstrado que o tráfico desenvolvido pelos acusados era praticado com emprego de arma de fogo, tendo em vista a apreensão de arma e munições no mesmo local aonde foram arrecadadas as substâncias entorpecentes, inviável o decote da causa de aumento de pena prevista no artigo 40, inciso IV, da Lei de Drogas.
+10. Cabe ao magistrado responsável pela execução da pena a análise do pleito concernente à isenção/suspensão do pagamento de custas referentes tanto ao processo executivo, quanto ao de conhecimento, pois é na fase de execução do julgado que se tem condições de aferir a real situação financeira da apelante, sem que isto implique em qualquer afronta aos artigos 98, caput e § 1º, do Código de Processo Penal.
+11. O pedido de detração penal, nos termos do artigo 42, do Código Penal, deve ser analisado pelo Juízo da Execução, por expressa previsão contida no artigo 66, inciso III, alínea "c", da Lei 7.210/84.
+12. Não há constrangimento ilegal na negativa do direito de recorrer em liberdade, por ocasião da sentença, daquele que foi preso preventivamente e nessa condição permaneceu durante a instrução criminal. Segundo entendimento jurisprudencial sedimentado no STJ, não se concede o direito ao apelo em liberdade a réu que permaneceu preso durante a instrução do processo, pois a manutenção na prisão constitui-se em um dos efeitos da respectiva condenação. Precedente do STJ.
+13. Recursos conhecidos e desprovidos" (fls. 13/14).
+No presente writ, a impetrante sustenta que os pacientes fazem jus à incidência do redutor do § 4º do art. 33 da Lei n. 11.343/2006, uma vez que são primários, de bons antecedentes e não possuem envolvimento com organização criminosa, tampouco se dedicam a atividades ilícitas.
+Pondera que ações penais em andamento e a quantidade de drogas apreendidas não seriam elementos hábeis a afastar o tráfico privilegiado.
+Requer, assim, a concessão da ordem para que sejam reduzidas as penas.
+A liminar foi indeferida por decisão de fls. 128/129.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"Habeas Corpus. Tráfico de drogas. Causa de diminuição de pena. Inaplicabilidade. Dedicação à atividade criminosa. Entendimento diverso que demandaria o reexame fático-probatório. Constrangimento ilegal não evidenciado. Precedentes do STJ.
+Parecer pelo não conhecimento do writ" (fl. 136).
+É o relatório.
+Decido.
+Diante do novel posicionamento jurisprudencial do Supremo Tribunal Federal e desta Corte, não deve ser conhecido o habeas corpus substitutivo de recurso próprio.
+Ademais, não se verifica a existência de constrangimento ilegal a autorizar a concessão da ordem de ofício.
+Com efeito, mostra-se correto o indeferimento da aplicação da causa especial de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006, considerando que os pacientes se dedicavam às atividades criminosas - notadamente em razão da apreensão de duas armas de fogo e munições.
+Neste sentido confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS, PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E PORTE ILEGAL DE ARMA DE FOGO E DE MUNIÇÕES DE USO PERMITIDO. DOSIMETRIA. WRIT IMPETRADO CONTRA O ACÓRDÃO QUE JULGOU A REVISÃO CRIMINAL. AUSÊNCIA DE HIPÓTESE DO ART. 621 DO CPP. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DE DROGA APREENDIDA (2.753,7 G DE COCAÍNA). APLICAÇÃO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DA CONDUTA CRIMINOSA QUE, SOB A PERSPECTIVA DO JULGADOR ORDINÁRIO, INDICAVAM DEDICAÇÃO AO CRIME. IDONEIDADE. PRECEDENTES DESTA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A tese veiculada pela defesa não guarda correspondência com nenhuma das hipóteses previstas, criteriosamente, no art. 621 do Código de Processo Penal, consubstanciando mera rediscussão de matéria decidida nos autos.
+2. Não há ilegalidade no incremento da pena-base em 1/6, pela quantidade de entorpecente apreendido (2.753,7 g de cocaína).
+3. O Tribunal de origem afastou a causa de diminuição de pena do art. 33, § 4º, da Lei de Drogas, entendendo que o agravante se dedicava ao tráfico de forma habitual, com base nos elementos fático-probatórios dos autos, pois além da grande quantidade de droga apreendida, armas de fogo e munições, o agravante foi preso após longa investigação criminal, na qual foi apontado como responsável pelo transporte de drogas. Logo, não há falar em ilegalidade na vedação do redutor especial da pena, ao contrário, os fundamentos lançados no acórdão guardam perfeita harmonia com a jurisprudência consolidada nesta Corte. Precedentes.
+4. Uma vez afastado o redutor, ao argumento de que o agravante se dedicava a atividades criminosas, não se mostra possível rever tal entendimento, porquanto demandaria revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus (HC n. 683.182/SP, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Quinta Turma, DJe 5/10/2021).
+5. Agravo regimental improvido.
+(AgRg no HC n. 880.248/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E POSSE IRREGULAR DE ARMA DE FOGO. AUSÊNCIA DE MATERIALIDADE. INOVAÇÃO RECURSAL. INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PLEITO DE APLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS DEMONSTRADA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto à falta de materialidade delitiva pela ausência do laudo toxicológico definitivo, "É vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente" (EDcl no AgRg no REsp 1660712/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 8/6/2018).
+2. A revisão do entendimento firmado pelo Tribunal a quo, no sentido de absolver o agravante por insuficiência de provas, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do Superior Tribunal de Justiça.
+3. A jurisprudência desta Corte é firme no sentido de que a apreensão de armas, munições e petrechos para mercancia indica que o agente não é traficante eventual e permite o afastamento do redutor do tráfico privilegiado por demonstrar à dedicação a atividades criminosas.
+4. No caso dos autos, além da condenação pelo crime de tráfico de drogas, o acusado foi condenado pelo crime do art. 12 da Lei n. 10.826/2003 devido à apreensão de arma de fogo de uso permitido.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.337.750/ES, de minha relatoria, Quinta Turma, julgado em 27/2/2024, DJe de 1º/3/2024.)
+Nesse contexto, não se vislumbra flagrante ilegalidade apta a ensejar a concessão da ordem de ofício.
+Por tais razões, com fulcro no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
