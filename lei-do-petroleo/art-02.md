@@ -16,6 +16,7 @@ XIV - estabelecer diretrizes para o suprimento de gás natural nas situações c
 XV - estabelecer diretrizes para a regulação e a fiscalização da captura e da estocagem geológica de dióxido de carbono; e;
 XVI - definir índices mínimos de conteúdo local em navios-tanque novos produzidos no Brasil destinados ao ativo imobilizado e empregados, exclusivamente, em atividade de cabotagem de petróleo e seus derivados, a serem beneficiados por quotas diferenciadas de depreciação acelerada de que trata a Lei nº 14.871, de 28 de maio de 2024.
 XVII - estabelecer diretrizes para o desenvolvimento da indústria do hidrogênio de baixa emissão de carbono.
+XVIII - determinar as condições de acesso, inclusive em relação ao seu valor, aos sistemas integrados de escoamento, de processamento e de transporte para a comercialização do gás natural da União.
 § 1º Para o exercício de suas atribuições, o CNPE contará com o apoio técnico dos órgãos reguladores do setor energético.
 § 2º O CNPE será regulamentado por decreto do Presidente da República, que determinará sua composição e a forma de seu funcionamento.
 § 2º-A Com vistas ao cumprimento dos objetivos de que tratam os incisos III, IV e XVIII do caput do art. 1º deste artigo, o CNPE poderá estender a aplicação do sistema de rastreabilidade de que trata o § 3º do art. 1º da Lei nº 13.033, de 24 de setembro de 2014, para as demais fontes de energia de que trata esta Lei.
