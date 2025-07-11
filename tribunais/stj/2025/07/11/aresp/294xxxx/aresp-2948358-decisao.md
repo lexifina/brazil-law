@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ da decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5022668-05.2022.4.04.7001, assim ementado (fl. 113):
+ADMINISTRATIVO. PROCESSO CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO. RESOLUÇÃO CNJ Nº 547/2024. INTERESSE PROCESSUAL. RETROATIVIDADE. PRINCÍPIO DA ESPECIALIDADE.
+1. Com a finalidade de aclarar a orientação vinculante do Tema STF 1184, o CNJ estabeleceu medidas de tratamento racional e eficiente na tramitação das execuções fiscais pendentes no Poder Judiciário, editando a Resolução nº 547/2024, de 22/02/2024.
+2. É legítima a extinção da execução fiscal, por falta de interesse processual, quando o valor do débito na data do ajuizamento da execução, sem atualização posterior, for inferior a dez mil reais, e se fizer presente uma das seguintes hipóteses: (i) ausência de movimentação útil há mais de um ano e ausência de citação do devedor ou (ii) ausência de movimentação útil há mais de um ano e ausência de bens penhoráveis no caso de devedor citado.
+3. É legítima a extinção da execução fiscal por falta de interesse processual com base no Tema nº 1184 do STF e na Resolução CNJ nº 547/2024, quando a parte for instada a adotar as medidas preventivas, ainda no curso da ação, e permanecer inerte, em interpretação teleológica e em obediência ao princípio constitucional da eficiência administrativa.
+4. Não viola o princípio da especialidade a aplicação dos comandos normativos constantes da Resolução CNJ n.º 547/2024 e do tema 1184 do STF aos processos em que figura como uma das partes um Conselho de Fiscalização Profissional.
+Tendo em vista que a ementa findou-se no ponto 4 supracitado, sem conclusão acerca da decisão do recurso, segue a transcrição do acórdão (fl. 113):
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, a Egrégia 12ª Turma do Tribunal Regional Federal da 4ª Região decidiu, por unanimidade, negar provimento à apelação do CREA, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea c, da Constituição Federal, a parte recorrente alega afronta ao seguinte dispositivo (fls. 118-130):
+a) art. 8º da Lei n. 12.514/2011, sustentando que "conforme o Princípio da Especialidade, pontua-se a inaplicabilidade da decisão do STF e da Resolução do CNJ aos débitos dos Conselhos Profissionais, visto que há regulamentação do valor dos débitos a serem cobrados judicialmente por meio da Lei 12.514/2011, alterada pela Lei 14.195/2021, que fixa o valor mínimo para a cobrança judicial" (fl. 125).
+b) acerca do Tema n. 1.184 do STF, afirma que "é inaplicável às execuções fiscais movidas pelos Conselhos de Fiscalização Profissional, uma vez que a cobrança administrativa e judicial de débitos por essas autarquias corporativas obedece a regramento específico (Lei 12.514/2011), ressaltando que citado diploma legal não foi objeto de análise pelo STF na ação que deu origem ao tema, que versou especificamente sobre execuções fiscais de municípios" (fl. 125).
+Ao final, requer o provimento do recurso especial para que seja reformado o acórdão recorrido e " reconhecer que a Resolução 547 de 2024 do CNJ (art. 1º, §1º) não se aplica a Conselhos Profissionais, regidos pela Lei 12.514 de 2011, em especial, pelo art. 8º da referida Lei Federal, permitido prosseguimento de feito" (fl. 130).
+Sem contrarrazões ao recurso especial.
+Não admitido o recurso especial pelo Tribunal de origem (fls. 175-179), seguiu-se o presente agravo em recurso especial (fls. 184-191).
+Sem contrarrazões ao agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem, quanto à tese de que é legítima a extinção de execução fiscal de baixo valor pela ausência de interesse de agir tendo em vista o princípio constitucional da eficiência administrativa, respeitada a competência constitucional de cada ente federado, negou seguimento ao recurso especial, conforme o Tema n. 1184 do STF.
+Contudo, da decisão que nega seguimento a recurso especial com esteio em temas exarados sob as sistemáticas da Repercussão Geral ou dos Recursos Especiais Repetitivos, o único recurso cabível é o agravo interno ou regimental, dirigido ao próprio Tribunal de origem, segundo previsão expressa do art. 1.030, § 2.º, do Código de Processo Civil.
+Ressalte-se que, nos termos da jurisprudência do Superior Tribunal de Justiça, é inviável a aplicação do princípio da fungibilidade, pois, diante da clareza da norma processual, não há dúvida objetiva acerca do recurso cabível, constituindo erro grosseiro a interposição do recurso inadequado. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO QUE MANTÉM NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE RECURSO ESPECIAL. NÃO CABIMENTO.
+ ..
+2. Consoante pacífico o entendimento deste Tribunal Superior, o agravo interno é o único recurso cabível contra a decisão que nega seguimento aos recursos especial e extraordinário, em razão de o acórdão recorrido estar em conformidade com tese definida na sistemática dos recursos repetitivos ou da repercussão geral. Precedentes.
+3. No caso dos autos, o Agravo em Recurso Especial e o recurso especial não podem ser conhecidos porque incabíveis contra acórdão que nega provimento a agravo interno, com a manutenção de decisão negatória de seguimento a recurso extraordinário, proferida nos termos dos arts. 1.030, inc. I, "a", e 1.035, § 8º, do CPC/2015.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.265.656/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. ÚNICO RECURSO CABÍVEL. AGRAVO INTERNO PREVISTO NO ART. 1.030, § 2º, DO CPC. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO CABIMENTO
+1. O único recurso cabível da decisão que nega seguimento aos recursos às instâncias superiores (STJ e STF), em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos ou da repercussão geral, é o agravo interno, a teor do expressamente previsto no art. 1.030, § 2º, do CPC.
+2. A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o que inviabiliza a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.148.444/PB, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+No mais, embora a Corte de origem tenha inadmitido o apelo nobre pelo seguinte fundamento: "o recurso não merece prosseguir pela alínea c, pois o dissídio não preenche os requisitos do artigo 1.029, § 1º, do Novo Código de Processo Civil, restringindo-se a parte recorrente a indicar julgados, sem, contudo, proceder ao necessário cotejo analítico demonstrador da similitude fática entre a decisão impugnada" (fl. 176), torna-se irrelevante a análise do dissídio, uma vez que a questão de fundo está relacionada ao Tema n. 1184 do STF, conforme explicado anteriormente e demonstrado no precedente supracitado.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. VIA RECURSAL INADEQUADA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. QUESTÃO DE FUNDO RELACIONADA COM O TEMA N. 1184 DO STF. AGRAVO NÃO CONHECIDO.
