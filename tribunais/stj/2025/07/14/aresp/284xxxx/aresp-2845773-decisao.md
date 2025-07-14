@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOIR MOREIRA SILVA contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ (fls. 811-816).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o recurso não merece que dele se conheça, pois há tentativa de reexame fático-probatório (fls. 839-845).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação nos autos de ação de cobrança de indenização securitária. O julgado foi assim ementado (fls. 775-777):
+Apelação. Direito do consumidor. Contratos coletivos de seguro de vida e acidentes pessoais. Incapacidade parcial permanente. Laudo pericial. Lesão por esforços repetitivos (LER). Exclusão de cobertura. Dever de informação. Estipulante. Tema Repetitivo nº 1.112-STJ. Cláusula restritiva grafada em destaque. Nos termos do laudo pericial, "o autor apresenta uma incapacidade parcial e permanente, considerou a profissão de bancário, que acolhe outras atividades além daquela de gerente, e que este poderia desenvolver após passar por um programa de reabilitação profissional, se necessário e do seu desejo." Trata-se, pois, de doença profissional que o Superior Tribunal de Justiça reconhece estar incluído no conceito de acidente para fins de cobertura securitária. Entretanto, que as condições gerais excluem expressamente do conceito de acidente pessoal as lesões por esforços repetitivos, tendo o Superior Tribunal de Justiça, em sede de recurso repetitivo (Tema Repetitivo 1112), firmado o entendimento de que é do estipulante o dever de prestar informações prévias ao segurado, sendo irrelevante que seguradora e estipulante sejam parceiros comerciais ou integrem o mesmo grupo econômico. Desprovimento ao recurso.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 6º, III e V, 14, 31, 46, 47, 51, IV, e 54, § 4º, do Código de Defesa do Consumidor, 373, II, do CPC, 759 e 801, caput e § 1º, do Código Civil, pois a seguradora não comprovou que deu ciência ao autor das condições gerais da apólice de seguro;
+b) 19, 20 e 21 da Lei n. 8.213/1991, por não ter sido reconhecida a equiparação da doença ocupacional ao acidente de trabalho.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, a fim de julgar procedentes os pedidos formulados na exordial.
+Nas contrarrazões, a parte recorrida aduz que o recurso não merece que dele se conheça, pois há tentativa de reexame fático-probatório, incidência das Súmulas n. 5 e 7 do STJ e ausência de demonstração de violação à lei federal, além de deficiência na fundamentação (fls. 804-810).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de cobrança de indenização securitária em que a parte autora pleiteou a condenação da seguradora ao pagamento de indenizações em razão de alegada invalidez decorrente de acidente. Na sentença, o Juízo de primeiro grau julgou improcedente a ação, fixando honorários advocatícios em 10% sobre o valor da causa. A Corte estadual manteve integralmente a sentença.
+I - Violação dos arts. 6º, III e V, 14, 31, 46, 47, 51, IV e 54, § 4º, do Código de Defesa do Consumidor, 373, II, do CPC, 759 e 801, caput e § 1º, do Código Civil
+No recurso especial, a parte recorrente alega que a seguradora não comprovou que deu ciência ao autor do teor do contrato, não precedendo de proposta escrita com a declaração dos elementos essenciais do interesse a ser garantido e do risco.
+A Corte estadual concluiu que as condições gerais do contrato excluem expressamente do conceito de acidente pessoal as lesões por esforços repetitivos, sendo do estipulante o dever de prestar informações prévias ao segurado.
+O acórdão recorrido está de acordo com o entendimento do STJ sobre a matéria, fixado pela Segunda Seção sob o rito dos recursos repetitivos (Tema n. 1.112):
+Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre.
+Incide, pois, no caso, o óbice da Súmula n. 83 do STJ.
+II - Violação dos arts. 19, 20 e 21 da Lei n. 8.213/1991
+No recurso especial, a parte recorrente alega que a doença ocupacional é equiparada a acidente de trabalho e que o acórdão recorrido negou vigência a esses dispositivos legais.
+Entretanto, o acórdão recorrido consignou que "as condições gerais excluem expressamente do conceito de acidente pessoal as lesões por esforços repetitivos, conforme se vê da cláusula 7.2, "c" (e-fls. 185), grafada em destaque no contrato" (fl. 780).
+De fato, o entendimento desta Corte é de que o contrato de seguro deve ser interpretado restritivamente, assegurando apenas os riscos nele predeterminados, não sendo possível ampliar a cobertura com base na Lei 8.213/1991, que trata das relações jurídicas no âmbito da previdência social.
+III- Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
