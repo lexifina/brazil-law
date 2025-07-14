@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ZURICH SANTANDER BRASIL SEGUROS E PREVIDÊNCIA S.A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração de violação dos arts. 405 e 884 do CC e na incidência das Súmulas n. 7 e 5 do STJ (fls. 363-366).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso não merece prosperar, devendo o acórdão e a decisão questionadas serem mantidas, e requer a aplicação das Súmulas n. 5 e 7 do STJ (fls. 382-385).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de obrigação de fazer. O julgado foi assim ementado (fls. 268-274):
+AÇÃO DE OBRIGAÇÃO DE FAZER SEGURO DE VIDA EMPRESARIAL SENTENÇA DE PROCEDÊNCIA APELAÇÃO DA RÉ - Cerceamento de defesa que não se verifica.- Seguradora que não solicitou preenchimento de questionário de saúde na contratação, descabendo a pretensão de perícia indireta para verificar eventual doença preexistente. Preliminar afastada. - Pedido de improcedência da ação. Não acolhimento. Seguro empresarial para duas vidas (um sócio e um funcionário). Recusa ao pagamento da indenização em razão da inexistência de funcionários. Seguradora que recebeu o prêmio equivalente a duas vidas por quinze meses, optando por realizar a verificação de quantidade de vidas somente na ocorrência do sinistro para recusar a indenização. Inexistência de aumento do risco. Segurado que pagou prêmio superior (duas vidas) ao risco real coberto, não se verificando má-fé do segurado. Seguradora que aceitou a contratação e recebeu o prêmio correspondente a duas vidas por quinze meses. Recusa da seguradora que afronta a boa-fé objetiva. Indenização securitária devida. Precedente desta Corte. Sentença mantida.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 283-285):
+AÇÃO DE OBRIGAÇÃO DE FAZER. SEGURO DE VIDA EMPRESARIAL. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO DA RÉ. RECURSO NÃO PROVIDO. EMBARGOS DE DECLARAÇÃO. - Acórdão que negou provimento à apelação da ré, mantendo a sentença que julgou a ação de obrigação de fazer procedente. Alegação de ocorrência de contradição, porque a correção monetária deve incidir a partir do ajuizamento da ação, e não a partir da data da contratação. Não acolhimento. Aplicação da Súmula 632 do C. STJ. Inexistência dos vícios elencados nos incisos I, II e III do art. 1.022 do CPC.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.022, II, do CPC, porquanto o acórdão recorrido não enfrentou a tese da recorrente sobre a existência de enriquecimento ilícito com a incidência da correção monetária desde a contratação;
+b) 405 do CC, visto que a correção monetária deveria incidir a partir do ajuizamento da ação, não desde a contratação;
+c) 884 do CC, pois a manutenção da correção monetária desde a contratação gera enriquecimento sem causa.
+Sustenta que o Tribunal de origem divergiu de precedentes ao decidir que a correção monetária deve incidir desde a contratação, enquanto o acórdão paradigma determinou que a incidência fosse a partir do pagamento administrativo (fls. 300-318). Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando a incidência da correção monetária a partir do ajuizamento da ação.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece prosperar, devendo o acórdão recorrido ser mantido, e requer a aplicação das Súmulas n. 5 e 7 do STJ (fls. 356-362).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer em que a parte autora pleiteou o cumprimento do contrato de seguro de vida e o pagamento da indenização securitária. Na sentença, o Juízo de primeiro grau julgou procedente a ação, condenando a ré ao pagamento da quantia de R$ 221.000,00, corrigida monetariamente desde a data da contratação, acrescida de juros moratórios de 1% ao mês, a contar da citação, além de ressarcimento de custas, despesas processuais e honorários advocatícios fixados em 10% do valor atualizado da condenação. A Corte estadual manteve integralmente a sentença.
+I - Art. 1.022, II, do CPC
+No recurso especial, a parte recorrente alega que o acórdão recorrido não enfrentou a tese da recorrente sobre a correção monetária desde a contratação, acarretando enriquecimento ilícito.
+Não há falar em omissão, pois o acórdão dos embargos de declaração consignou expressamente que a correção monetária deve incidir desde a contratação, conforme a Súmula n. 632 do STJ.
+Assim, não há vício que possa nulificar o acórdão recorrido.
+II - Arts. 405 e 884 do CC
+A recorrente afirma que a correção monetária deveria incidir a partir do ajuizamento da ação, não desde a contratação, pois se trata de contrato renovado sucessivamente.
+A Corte estadual concluiu que a correção monetária deve incidir desde a contratação, conforme a Súmula n. 632 do STJ, fundamentando-se na boa-fé objetiva e na ausência de má-fé do segurado.
+Entretanto, nas razões do recurso especial, em momento algum a parte rebateu o fundamento do acórdão recorrido, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+III - Divergência Jurisprudencial
+Sustenta que o Tribunal de origem divergiu de precedentes ao decidir que a correção monetária deve incidir desde a contratação, enquanto o acórdão paradigma determinou que a incidência fosse a partir do pagamento administrativo.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso. Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplic áveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
