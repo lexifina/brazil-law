@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. ABSOLVIÇÃO. INSUFICIÊNCIA DA PROVA E ATIPICIDADE DA CONDUTA. SÚMULA N. 7 DO STJ. CONTINUIDADE DELITIVA. NÃO CABIMENTO. HABITUALIDADE DELITIVA. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A análise da pretensão absolutória - insuficiência da prova e atipicidade da conduta - implicaria revolvimento fático-probatório, vedado, em recurso especial, segundo entendimento da Súmula n. 7 do STJ.
+2. A orientação jurisprudencial desta Corte Superior é de que a habitualidade delitiva é incompatível com a continuidade delitiva. A instância antecedente asseverou se tratar da hipótese de "reiteração criminosa e habitualidade delitiva" (fl. 1.530). Assim, nesse ponto, o recurso especial é inadmissível conforme o disposto na Súmula n. 83 do STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+DANIELE SANTOS DE ALMEIDA agrava de decisão de minha relatoria na qual conheci do AREsp para não conhecer do recurso especial e, dessa forma, foi mantida integralmente sua condenação pelo crime previsto no art. 171 do Código Penal.
+A defesa aponta que "a pretensão recursal não se dirige à simples reapreciação de fatos, mas à correção de vícios jurídicos graves, que comprometem a validade da condenação" (fl. 1.763). Assevera, ainda, que "ao afastar a continuidade delitiva com base exclusiva na habitualidade delitiva, a decisão agravada incorreu em error in judicando" (fl. 1.765).
+Pleiteia a reconsideração da decisão agravada ou o julgamento do agravo regimental pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. ABSOLVIÇÃO. INSUFICIÊNCIA DA PROVA E ATIPICIDADE DA CONDUTA. SÚMULA N. 7 DO STJ. CONTINUIDADE DELITIVA. NÃO CABIMENTO. HABITUALIDADE DELITIVA. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A análise da pretensão absolutória - insuficiência da prova e atipicidade da conduta - implicaria revolvimento fático-probatório, vedado, em recurso especial, segundo entendimento da Súmula n. 7 do STJ.
+2. A orientação jurisprudencial desta Corte Superior é de que a habitualidade delitiva é incompatível com a continuidade delitiva. A instância antecedente asseverou se tratar da hipótese de "reiteração criminosa e habitualidade delitiva" (fl. 1.530). Assim, nesse ponto, o recurso especial é inadmissível conforme o disposto na Súmula n. 83 do STJ.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A decisão agravada apresentou os fundamentos a seguir (fls. 1.743-1.751):
+ ..
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou sobre a autoria e a materialidade delitiva (fls. 1.500-1.532):
+ ..
+TESE. Absolvição com base na atipicidade formal da conduta e Absolvição da ré Daniele Santos de Almeida por inexistência de prova da autoria.
+A Defesa, em razões recursais, requer a absolvição das rés, sob os diversos fundamentos acima. Os pedidos de absolvição não merecem acolhimento.
+A materialidade delitiva foi demonstrada nos autos pelos seguintes documentos: Auto de Prisão em Flagrante id. 52175155 - Pág. 2/104; Auto de exibição e apreensão id. 52175155 - Pág 19; Autos de restituição id. 52175155 - Pág 24, 26, 59, 63, 65, 67, 73 e 96); Autos de reconhecimento e pela prova ora colhida durante a instrução criminal.
+Quanto à autoria, esta restou demonstrada pelos documentos acostados aos autos e pela prova oral colhida durante a instrução criminal, havendo nos autos lastro probatório suficiente a autorizar a condenação.
+A seguir, passo ao exame da prova oral colhida em juízo, para uma melhor análise dos fatos.
+ ..
+Ao seu turno, interrogado em juízo, a corréu Camila optou por exercer o direito constitucional de permanecer em silêncio, enquanto a corré Daniele negou a prática do crime.
+A palavra da vítima sempre foi reputada relevante na apuração dessa espécie de crime, sendo considerada apta a embasar condenação, especialmente quando se apresenta lógica, consistente e com um mínimo de respaldo em outras provas produzidas nos autos.
+O delito de estelionato exige para a sua configuração que o agente obtenha proveito indevido, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil ou qualquer outro meio fraudulento, nos termos ao artigo 171 do Código Penal, vejamos:
+ ..
+No caso concreto, o dolo específico emerge do fato de que as recorrentes tiveram a intenção de obter, pelo menos por 15 (quinze) vezes, vantagem ilícita para si, em prejuízo alheio, mantendo as vítimas em erro mediante o ardil de fazer com que elas acreditassem que fossem ser contratadas por empresas parceiras, mesmo as Apelantes sabendo que essa negociação seria impossível acontecer, pois tratava-se de uma fraude.
+Aqui deve ser ressalvado que DANIELE SANTOS DE ALMEIDA é reincidente e responde a dezoito ações penais na capital e no interior de São Paulo por crimes semelhantes e CAMILA DOS SANTOS BISPO, embora não seja reincidente, responde a seis outras ações penais na mesma capital paulista e no interior do referido estado também por crimes semelhantes.
+Destarte, na época, as apelantes se utilizaram do know-how (conhecimento) adquirido pelas diversas práticas de crime para aplicar os diversos golpes. As requerentes alugaram na Comarca de Feira de Santana, salas em um prédio voltado a seleção /contratação de pessoas visando ganhar a credibilidade das vítimas, anunciaram na rede a oferta de vagas de emprego (vagas já garantidas).
+Nesse passo, observa-se que as vítimas destacadas narraram de forma detalhada o modo de atuação das incriminadas, por meio de declarações firmes e coesas, prestadas em Juízo, sob o crivo do contraditório e da ampla defesa.
+A obtenção da vantagem ilícita ocorreu quando as vítimas prejudicadas efetivamente realizaram os pagamentos para as sentenciadas, em troca das falsas vagas de emprego, justificando- se, assim, a condenação por crime de estelionato.
+O ato de manter as vítimas em erro mediante ardil configurou-se no momento em que utilizaram vários mecanismos, tais como angariar vários documentos pessoais das vítimas e valores.
+Portanto, diversamente do alegado nas razões recursais, presente o elemento subjetivo apto a configurar o delito, eis que demonstrado o propósito firme e deliberado das apelantes de obter proveito ilícito em prejuízo das vítimas.
+Conforme ensina Cezar Roberto Bitencourt:
+ ..
+Desse modo, para a configuração do referido ilícito penal é imprescindível: o "1) emprego de artifício, ardil, ou qualquer outro meio fraudulento; 2) induzimento ou manutenção da vítima em erro: 3) obtenção de vantagem patrimonial ilícita em prejuízo alheio (do enganado ou de terceiro) (BITENCOURT, Cezar Roberto. p. 772). E, à evidência, a conduta das apelantes se subsume exatamente aos elementos fornecidos pelo citado doutrinador, eis que demonstrado o dolo em suas condutas ao induzirem as vítimas em erro. É o quanto basta para caracterizar o delito de estelionato. Registre-se, pela pertinência:
+"O inadimplemento contratual é sempre motivado por algum acontecimento futuro que impede o contratante de cumprir as obrigações assumidas; entretanto, se a aquisição é realizada sem nenhum pagamento e a promessa de realizá- los no futuro e descumprida sem qualquer justificativa, após condutas continuadas, sempre semelhantes, chegando a adquirente a mudar-se de cidade sem nenhuma explicação, é certo que agiu, desde o princípio, com a intenção fraudulenta de causar prejuízo econômico pelas vantagens obtidas, caracterizando o dolo e tipificando-se o estelionato" (RJDTACRIM 28/100).
+Portanto, por qualquer ângulo de observação, emerge do quadro probante a necessária certeza da responsabilidade penal das autoras pelo cometimento do crime de estelionato.
+Caso semelhante ao dos autos foi julgado por este Egrégio Tribunal. Vejamos:
+ ..
+Comprovado o dolo que reveste a conduta dos rés que oferecem vagas de emprego inexistentes mediante pagamento de valor em dinheiro ou débito em cartão, para realização de cursos, obtendo para si vantagem ilícita em prejuízo alheio, mantendo as vítimas em erro mediante ardil, o que configura o crime de estelionato.
+Nesta oportunidade, importante ressaltar que as recorrentes, durante seus interrogatórios na fase de investigação, confessaram que aplicaram o golpe e que não fora a primeira vez que se utilizaram deste modus operandi (modo de operação) para obter vantagens ilícita de terceiros.
+Em juízo, Camila optou por exercer o direito constitucional de permanecer em silêncio e Daniele negou a prática do crime, sem que a Defesa trouxesse aos autos probatórios acerca de suas inocências.
+Assim, o conjunto probatório demonstra que as acusadas, obtiveram para si, vantagem ilícita, com prejuízo em desfavor de pelo menos 15 (quinze) vítima, havendo 11 (onze) crimes consumados e 04 (quatro) crimes tentados, tendo infringido, respectivamente, o disposto no artigo 171, caput, do Código Penal (11 vezes) e o disposto no artigo 171, caput, c/c o artigo 14, inciso II, ambos do Código Penal (04 vezes).
+Dessa forma, em virtude dos documentos juntados aos autos e dos depoimentos coesos e harmônicos, não prosperam as alegações das Defesas.
+Frise-se que a devolução dos valores arrecadados ilegalmente não é suficiente para invalidar a obtenção de vantagem ilícita, essencialmente para caracterizar o crime de estelionato, uma vez que a vantagem foi obtida quando os valores foram recebidos pelas rés sob falsas promessas, ressalvado que em momento algum os valores foram ressarcidos pelas requerentes, diversos não foram recuperados e outros foram estornados pelas operadoras de cartão, após muita luta por parte das vítimas.
+Cumpre-nos averbar que se trata, o estelionato, de um crime instantâneo que, a depender da modalidade em que praticado, poderá, ou não, ter efeitos permanentes, porém com momento consumativo bem delineado, que é o instante em que a fraude surte o efeito desejado pelo agente delitivo e a vantagem patrimonial é auferida, implicando, naquele instante, o prejuízo da vítima, ainda que seja revertida a desvantagem experimentada pelo ofendido, por ação policial, como na hipótese em análise.
+Nessa linha de cognição, e ao contrário do quanto aventado pela Defesa, verifica-se que, para além de típica, a conduta imputada as acusadas restaram consumadas. Em caso assaz semelhante, o Superior Tribunal de Justiça adotou o seguinte posicionamento acerca da consumação do estelionato:
+ ..
+Diante destas provas conclusivas, impõe-se a confirmação do decreto condenatório nos termos da sentença, pela prática de crimes de estelionato, não sendo possível a absolvição.
+Não vislumbro nos autos qualquer circunstância que exclua a ilicitude do fato ou que exclua ou diminua a culpabilidade das acusadas, CAMILA e DANIELE, pois eram imputáveis, tinha plena consciência do atos delituosos que praticaram era exigível que se comportasse em conformidade com as regras do direito, até porque respondem a outras diversas ações penais pela prática do mesmo delito, inclusive debochando das vítimas, chamando-as de "otárias".
+Digno que nota que, a despeito da teses absolutória das Defesas das rés, CAMILA e DANIELE, sustentando que os ofendidos Rafael de Lima e Joseane da Silva Santos, não tiveram prejuízo não deve prosperar, haja vista que, em juízo, Joseane afirmou que não lhe foi devolvido os valores pagos no cartão de crédito, bem como o ofendido Rafael somente conseguiu o estorno dos valores pagos à empresa de cartão de crédito após seu esforço, em ligações para a citada empresa, bem como após apresentar boletim de ocorrência.
+Outrossim, não se olvide que as ações das rés não foram apenas meros atos preparatórios, pois apenas não se consumaram devido à descoberta do golpe e intervenção policial.
+Portanto, evidente que houve material comprobatório suficiente para a condenação das recorrentes pela prática do crime de estelionato (art. 171, por onze vezes, na forma do art. 69), e do art.
+171, CC art. 14, II, do Código Penal, por quatro vezes, na forma do art. 69, todos do Código Penal.
+Em relação a tese de absolvição da ré DANIELE sob tese de insuficiência probatória quanto à autoria delitiva, do mesmo modo, não merece prosperar, haja vista o vasto material probatório em sentido contrário.
+Pontue-se que além de ser reconhecida, em Delegacia e em juízo, pelas vítimas, estas detalharam os fatos delituosos, inclusive alguns ofendidos se recordaram, em audiência de instrução e julgamento, que no momento do crime, a ré DANIELE se encontrava com os cabelos pintados de outra cor (vermelha), fato que não as impediu de reconhecê-la.
+TESE. Absolvição acerca da imputação da tentativa contra as vítimas Cristiane Oliveira dos Santos, Dionísia Neri Rosa, Vanessa de Jesus Santos e Janaína Moura Ribeiro No tocante a absolvição das recorrentes em face do crime de estelionato, na forma tentada em relação as vítimas Cristiane Oliveira dos Santos, Dionísia Neri Rosa, Vanessa de Jesus Santos e Janaína Moura Ribeiro, verifica-se que as ações das rés não foram apenas meros atos preparatórios, pois apenas não se consumaram devido à descoberta do golpe e intervenção policial.
+Denota-se que, na sua forma fundamental, o crime de estelionato se consuma com a obtenção da vantagem ilícita indevida, em prejuízo alheio, numa relação de causa e efeito, como exaustivamente demonstrado acima. Em outras palavras, para a consumação do delito em estudo exige-se o chamado duplo resultado: a obtenção da vantagem ilícita pelo estelionatário e o prejuízo alheio. Com a ausência desse binômio "proveito ilícito" e "prejuízo alheio", não se pode falar em consumação do crime em estudo.
+Tratando-se de crime material, que admite seu fracionamento, é cediço que é perfeitamente admissível a tentativa, uma vez que o iter criminis (caminho do crime) pode ser interrompido, por causas alheias à vontade do estelionatário. Assim, nos valemos das lições de Cléber Masson que assevera o seguinte:
+ ..
+Por fim, não se deve confundir o crime de estelionato do crime de furto qualificado pela fraude (art. 155, § 4º, II). No furto mediante fraude, a mentira ou engodo tem como objetivo afastar a vigilância da vítima, facilitando a subtração. No estelionato, a mentida ilude a vítima que entrega a coisa acreditando ser a ação correta, ou seja, dispõe da coisa deliberadamente.
+Feitas essas considerações doutrinárias que reputo necessárias, passo à análise do caso sub judice (sob o juiz).
+A materialidade do delito, bem como sua autoria restaram comprovadas, revelando o envolvimento concreto das acusadas no episódio factual criminoso, havendo nos autos lastro probatório suficiente a autorizar a condenação, consoante já exposto neste voto, em linhas anteriores.
+De acordo com o artigo 14, II, do Código Penal, um crime é considerado tentado quando, embora iniciada a execução, não se consuma devido a circunstâncias alheias à vontade do agente.
+Nessa senda, vejam-se nos depoimentos das vítimas que sofreram a tentativa (acima transcritos - Cristiane Oliveira dos Santos;
+Dionísia Neri Rosa; Vanessa de Jesus Santos; e Janaína Moura Ribeiro), todas narram que retornariam ao local novamente.
+No entanto, por circunstâncias alheias à vontade das apelantes, o crime não chegou à fase da consumação, tão só por conta da intervenção policial.
+Nesse contexto, observa-se que os atos executórios já haviam sido iniciados, o que refuta a alegação defensiva de que se tratava apenas de atos meramente preparatórios.
+ ..
+Pedido de reconhecimento do crime continuado Analisando detidamente a questão, entendo não ter razão a Defesa das recorrentes.
+Salienta-se que o art. 71, do Código Penal, assim estabelece:
+ ..
+Como se vê, para a caracterização do instituto, é necessário o preenchimento, cumulativamente, dos requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e de ordem subjetiva (unidade de desígnios ou vínculo subjetivo) e de ordem subjetiva (unidade de desígnios ou vínculo subjetivo entre os eventos delituosos).
+Outrossim, este é o entendimento do Superior Tribunal de Justiça:
+ ..
+No caso, não se encontram presentes as condições necessárias à caracterização do aludido instituto penal, haja vista a reiteração criminosa e a habitualidade delitiva das rés, CAMILA e DANIELE; bem como ausente o liame subjetivo entre os delitos, os quais resultaram de objetivos distintos ou projetos criminosos diversos, ou seja, ausente o elemento subjetivo a unir os diversos crimes, logo, a sequência de eventos não passa de mera reiteração criminosa, conforme posicionamento jurisprudencial adotado pelo Supremo Tribunal Federal, em suas duas turmas, e pelo Superior Tribunal de Justiça, como bem asseverou a Douta Procuradoria de Justiça, fundamentos ao quais adiro.
+Neste sentido, cumpre trazer à lume o acerto da sentença condenatória ao analisar e rechaçar o pedido de reconhecimento do crime continuado. vejamos:
+ ..
+Logo, em face a argumentação exposta, restando caracterizada a reiteração delitiva das acusadas, seja pela reincidência específica, seja pelas diversas condenações e ações penais por crimes idênticos, vedada a implementação do requisito subjetivo da continuidade delitiva, consistente na unidade de desígnios.
+Portanto, não admitido o pleito das rés para o reconhecimento do crime continuado.
+A análise da pretensão absolutória - por insuficiência da prova da autoria e atipicidade da conduta - implicaria a necessidade de revolvimento fático- probatório, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+O acórdão recorrido destacou que a acusada, "além de ser reconhecida, em Delegacia e em juízo, pelas vítimas, estas detalharam os fatos delituosos, inclusive alguns ofendidos se recordaram, em audiência de instrução e julgamento, que no momento do crime, a ré DANIELE se encontrava com os cabelos pintados de outra cor (vermelha), fato que não as impediu de reconhecê-la" (fl. 1.524). A modificação dessas premissas implicaria a incursão no acervo fático-probatório, procedimento vedado, conforme o óbice já referenciado.
+A orientação jurisprudencial desta Corte Superior é de que a habitualidade delitiva é incompatível com a continuidade delitiva. A instância antecedente asseverou se tratar da hipótese de "reiteração criminosa e habitualidade delitiva" (fl. 1.530). Assim, nesse ponto, o recurso especial é inadmissível pelo disposto na Súmula n. 83 do STJ.
+Ilustrativamente:
+ ..
+3. O acórdão impugnado se firmou no mesmo sentido da orientação deste Superior Tribunal, de que não é possível o reconhecimento da continuidade delitiva na hipótese em que o agente faz da prática criminosa uma habitualidade.
+4. Agravo regimental parcialmente provido a fim de reconhecer a atenuante da confissão espontânea e, em consequência, reduzir as reprimendas para 8 anos e 2 meses de reclusão e 82 dias-multa.
+(AgRg no HC n. 441.147/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2019)
+ ..
+- A instância a quo, com base no acervo fático-probatório, firmou a compreensão no sentido de que os requisitos para o reconhecimento da continuidade delitiva não foram atendidos, tendo em vista que os crimes denotam habitualidade. Assim, não foi implementado o requisito subjetivo do instituto, consistente na unidade de desígnios, mas ficou caracterizada a reiteração delitiva do agravante, que é reincidente específico e foi condenado nas Ações Penais n. 0008329-34.2019.8.24.0020 e 0005054- 77.2019.8.24.0020, por crimes patrimoniais.
+- "A reiteração criminosa e a habitualidade delitiva afastam a possibilidade de reconhecimento do crime continuado" (REsp n. 1.501.855/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em , DJe ). 16/5/2017 30/5/2017 - Agravo regimental desprovido.
+(AgRg no HC n. 751.000/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 26/8/2022.)
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Cumpre reiterar a inadmissibilidade da pretensão.
+Com efeito, a análise da pretensão absolutória - insuficiência da prova e atipicidade da conduta - implicaria revolvimento fático-probatório, vedado, em recurso especial, segundo entendimento da Súmula n. 7 do STJ.
+A orientação jurisprudencial desta Corte Superior é de que a habitualidade delitiva é incompatível com a continuidade delitiva. A instância antecedente asseverou se tratar da hipótese de "reiteração criminosa e habitualidade delitiva" (fl. 1.530). Assim, nesse ponto, o recurso especial é inadmissível conforme o disposto na Súmula n. 83 do STJ.
+À v ista do exposto, nego provimento ao agravo regimental.
