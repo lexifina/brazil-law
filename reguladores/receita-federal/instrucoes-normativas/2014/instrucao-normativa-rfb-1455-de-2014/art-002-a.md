@@ -1,0 +1,1 @@
+Art. 2º-A O disposto neste Capítulo não se aplica à hipótese de pagamento, crédito, entrega, emprego ou remessa a título de contraprestação de contrato de arrendamento de aeronave ou dos motores a ela destinados, efetuado por empresa de transporte aéreo público regular, de passageiros ou cargas, devendo ser observado o disposto no § 3º do art. 6º.

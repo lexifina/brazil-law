@@ -1,0 +1,8 @@
+Art. 4º-B O sujeito passivo que realizar o registro das operações de que trata o art. 4º-Acom incorreções ou omissões será intimado para prestar esclarecimentos nos prazos estipulados pela Secretaria Especial da Receita Federal do Brasil e sujeitar-se-á às seguintes multas:
+I - por não cumprimento à intimação da Secretaria Especial da Receita Federal do Brasil para para prestar esclarecimentos nos prazos estipulados pela autoridade fiscal: R$ 500,00 (quinhentos reais) por mês-calendário;
+II - por cumprimento da obrigação acessória com informações inexatas, incompletas ou omitidas:
+a) 3% (três por cento), não inferior a R$ 100,00 (cem reais), do valor das transações comerciais ou das operações financeiras, próprias da pessoa jurídica ou de terceiros em relação aos quais seja responsável tributário, no caso de informação omitida, inexata ou incompleta;
+b) 1,5% (um inteiro e cinco décimos por cento), não inferior a R$ 50,00 (cinquenta reais), do valor das transações comerciais ou das operações financeiras, próprias da pessoa física ou de terceiros em relação aos quais seja responsável tributário, no caso de informação omitida, inexata ou incompleta.
+Parágrafo único. Na hipótese de pessoa jurídica optante pelo Simples Nacional, os valores e o percentual referidos nos incisos I e II deste artigo serão reduzidos em 70% (setenta por cento).
+Capítulo IV
+Das Operações de cobertura de riscos de variações
