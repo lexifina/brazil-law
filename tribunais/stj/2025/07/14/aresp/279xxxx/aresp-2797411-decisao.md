@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por PRECIDIO DE SOUZA RIBEIRO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0002582-57.2020.8.27.2713/TO (fls. 395/396).
+No recurso especial, a defesa alega, em síntese, negativa de vigência à lei federal: violação ao artigo 303, §2º, do Código de Trânsito Brasileiro e artigo 386, inciso VII do Código de Processo Penal (fl. 409).
+Inadmitido o recurso na origem (fls. 433/435), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 444/457).
+O Ministério Público Federal manifesta-se pelo desprovimento do agravo (fls. 485/494).
+É o relatório.
+O agravo comporta conhecimento, porquanto houve a devida impugnação dos fundamentos da decisão agravada. O recurso especial, contudo, é inadmissível.
+A pretensão absolutória do recorrente funda-se na tese de ausência de prova da materialidade do crime de lesão corporal. O Tribunal de Justiça, contudo, ao dar provimento ao apelo ministerial para condenar o réu, concluiu pela existência de provas suficientes, conforme se extrai do voto condutor do acórdão (fls. 387/388):
+ ..
+A priori verifica-se que a materialidade delitiva em relação ao delito descrito no artigo 303, §2º, do CTB, restou demonstrada nos autos através de prova documental, em especial no Auto de Prisão em Flagrante, Boletim de Ocorrência, Termo de Declarações, Guia de Procedimento Ambulatorial, informando a lesão sofrida pela vítima luxação total do ombro esquerdo, e formulário de Sinais de Alteração da Capacidade Psicomotora do Condutor.
+As provas orais produzidas em juízo não deixam dúvidas quanto a comprovação da autoria delitiva. Na audiência de instrução e julgamento (evento 129), a vítima descreveu o acidente, e informou que teve seu ombro deslocado; o PM Aleixo Pereira de Sousa, que atendeu a ocorrência, confirmou que o apelante estava em visível estado de embriaguez; que o apresentou na delegacia, e que a vítima foi levada pelos bombeiros ao hospital.
+Conforme se depreende da prova dos autos, não há dúvida que o recorrido, com sua conduta, provocou uma colisão com a motocicleta da vítima, o que lhe causou as lesões em seu ombro
+ ..
+Por fim, com razão ponderou a zelosa Procuradora de Justiça, no sentido de que "Como é cediço, "o exame de corpo de delito é prescindível para fins de comprovar a materialidade delitiva do delito de lesão corporal, sendo perfeitamente possível a demonstração da ocorrência do crime por intermédio de fotos, laudos ou prontuários médicos, bem como através da prova oral" (TJTO - Apelação Criminal 0000437-84.2019.8.27.2738 - , Rel. HELVÉCIO DE BRITO MAIA NETO - 06/07/2022).
+Nesse sentido, "mutatis mutandis":
+"(..) 2. A ausência de laudo de exame de corpo de delito da vítima não tem o condão de conduzir à conclusão de inexistência de provas da materialidade do crime, devendo, assim, ser flexibilizada a norma do art. 158 do CPP, quando existem nos autos outros meios de prova capazes de convencer o julgador quanto à efetiva ocorrência do delito, como na hipótese dos autos. Precedentes do STJ. (..)" (TJTO, Apelação Criminal 0011834- 46.2019.8.27.2737, Rel. ADOLFO AMARO MENDES, julgado em 16/04/2024, juntado aos autos em 25/04/2024 09:45:03) (grifei)
+(..) 1.1. É prescindível o exame de corpo de delito para fins de configuração do delito de lesão corporal, podendo a materialidade ser comprovada por outros meios tais como laudos médicos subscritos por profissional de saúde. (..)" (TJTO, Apelação Criminal 5000514- 72.2013.8.27.2720, Rel. MARCO ANTHONY STEVESON VILLAS BOAS, julgado em 08/02/2022, juntado aos autos em 17/02/2022 18:00:11)"
+ ..
+Como se vê, a Corte de origem, soberana na análise dos fatos e provas, concluiu que a materialidade do delito estava comprovada não apenas por prova testemunhal, mas também por prova documental, notadamente a Guia de Procedimento Ambulatorial, que descrevia a lesão sofrida pela vítima.
+Nesse contexto, para acolher a tese defensiva de que não há prova da materialidade, seria necessário reex aminar o valor probante de tal documento em conjunto com os depoimentos colhidos em juízo. Tal procedimento, que visa desconstituir a conclusão fática alcançada pelo Tribunal a quo, implica, inevitavelmente, o revolvimento do acervo probatório, providência vedada em sede de recurso especial, a teor do que dispõe a Súmula 7 desta Corte.
+Embora o agravante intitule sua pretensão de revaloração da prova, o que se busca, em essência, é a modificação do quadro fático delimitado pelas instâncias ordinárias, o que não se admite na via eleita.
+A propósito: Cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação. (Súmula 7/STJ) (AgRg no REsp n. 1.716.998/RN, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 8/5/2018, DJe de 16/5/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. LESÃO CORPORAL CULPOSA NO TRÂNSITO. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. MATERIALIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
