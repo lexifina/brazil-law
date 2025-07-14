@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE SÃO PAULO, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 54):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Honorários advocatícios em favor da Fazenda do Estado. Compensação com o crédito a ser recebido por terceiro, via precatório. Possibilidade. Código de Processo Civil, artigo 85, § 19, e Lei Complementar Estadual 93/1974, artigo 55. Precedentes - Recurso provido.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 72):
+EMBARGOS DE DECLARAÇÃO - Caráter infringente, visando à modificação de entendimento - Argumentos que, sob alegação de vício no julgado, traduzem mera discordância com o resultado - Inexistência de cabimento à luz do disposto no artigo 1.022 do Código de Processo Civil - RECURSO DESPROVIDO.
+Em seu recurso especial, às fls. 80-90, o recorrente sustenta violação aos arts. 23 da Lei n. 8.906/1994, 368 do Código Civil e 85, §§ 14 e 19, do Código de Processo Civil, argumentando, para tanto, que "a legislação federal é clara ao prever que a titularidade da verba honorária pertence ao advogado, seja este do âmbito público ou privado" (fl. 88), e não ao estado.
+Afirma que, "no caso concreto, não há identidade entre os titulares dos honorários advocatícios objeto do cumprimento aqui analisado (ou seja, os Procuradores do Estado de São Paulo) e a executada (que pretende a compensação de créditos constituídos em face do Estado de São Paulo)" (fl. 87), logo, não há que se falar em compensação entre os honorários advocatícios em favor da Fazenda Pública e o crédito a ser recebido por terceiro, via precatório.
+Requer, em suma, "que haja a reforma integral do acórdão proferido, impedindo-se a compensação, com a condenação da recorrida em custas judiciais e honorários advocatícios sucumbenciais" (fl. 90).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 106-107):
+Os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido, que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça.
+Ademais, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local. Atuante a Súmula 280 do Col. Supremo Tribunal Federal, adotada pela Corte Superior (AREsp 751.903, Rel. Min. HUMBERTO MARTINS, DJe 04/09/2015; AgInt no AREsp 1479758/AL, Rel. Min. FRANCISCO FALCÃO, 2ª Turma, DJe 26/09/2019 e AREsp 1.761.931/PR, Rel. Min. HUMBERTO MARTINS, DJe de 13/01/2021).
+Em seu agravo, às fls. 112-123, o agravante alega que "para a análise do recurso especial basta o exame dos pressupostos fáticos colocados no acórdão do Tribunal Paulista, sendo absolutamente desnecessária a análise de outros documentos juntados aos autos. A controvérsia é eminentemente jurídica" (fls. 119-120). "Desse modo, é insubsistente o fundamento de incidência da Súmula 7 do STJ trazido pela decisão agravada" (fls. 121-122).
+No mais, aduz que (fl. 122):
+(..) como demonstrado pela Fazenda do Estado, ora agravante, a questão objeto da lide versa sobre a negativa de vigência de norma federal, qual seja, o art. 23, da Lei Federal nº 8.906/1994 (Estatuto da Ordem dos Advogados do Brasil), artigo 368, do Código Civil e artigo 85, §§ 14 e 19, do CPC.
+Portanto, a matéria objeto da lide não se trata de interpretação de direito local (norma estadual), mas sim de negativa de vigência de lei federal, razão pela qual perfeitamente cabível o recurso extravagante.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório e (ii) - incidência do enunciado 280 da Súmula do STF, em razão do não cabimento, por analogia, de recurso especial por ofensa à direito local.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, todos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
