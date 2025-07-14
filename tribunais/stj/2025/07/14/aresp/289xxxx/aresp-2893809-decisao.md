@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JAIR VALENTIM ECCEL contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu recurso especial apresentado na Apelação Criminal n. 0003157-63.2011.8.24.0062/SC (fls. 761/763).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para negar seguimento ao recurso especial (fls. 846/852).
+É o relatório.
+O agravo é inadmissível.
+A decisão que inadmitiu o recurso especial na origem (fls. 298/301) fundamentou-se nos seguintes pontos: a) inadequação da via eleita para analisar ofensa a dispositivo constitucional; b) incidência da Súmula 284 do Supremo Tribunal Federal, por deficiência na fundamentação quanto à violação do art. 59 do Código Penal; e c) aplicação da Súmula 7 do Superior Tribunal de Justiça, no que tange à alegada ofensa ao art. 38 da Lei n. 9.605/1998 e ao art. 18, II, do Código Penal.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+A parte agravante, nas razões do agravo em recurso especial, quanto à incidência da Súmula 7, restringiu-se a sustentar genericamente que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+No tocante à suposta violação do art. 59 do Código Penal, o recurso padece de fundamentação deficiente, pois o recorrente apenas suscitou genericamente violação desses preceitos, mas não demonstrou, no arrazoado, de que forma o acórdão atacado violou cada um deles, de modo que, em relação a esses dispositivos, incide o óbice da Súmula 284/STF.
+Nesse sentido: AgRg nos EDcl no AREsp 2754830/ES, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 19/5/2025.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
