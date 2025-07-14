@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2268, de 26 de junho de 2025
+Altera a Instrução Normativa RFB nº 1.986, de 29 de outubro de 2020, que dispõe sobre o procedimento de fiscalização utilizado no combate às fraudes aduaneiras.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 107, caput, inciso IV, alínea "c", do Decreto-Lei n° 37, de 18 de novembro de 1966, e nos arts. 793 a 795 do Decreto n° 6.759, de 5 de fevereiro de 2009, resolve:
