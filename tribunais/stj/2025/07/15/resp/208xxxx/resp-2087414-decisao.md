@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela CAIXA ECONÔMICA FEDERAL, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 131/132):
+CONSTITUCIONAL. ADMINISTRATIVO. CONSUMIDOR. PROCON. APLICAÇÃO DE MULTA À INSTITUIÇÃO BANCÁRIA. TEMPO DE ESPERA NA FILA. REDUÇÃO DO VALOR DA PENALIDADE. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. APLICAÇÃO.
+ ..
+7. Apelação parcialmente provida, para reduzir a multa aplicada para R$3.000,00. Honorários advocatícios fixados em R$ 3.000,00, nos termos do art. 85, §8º, do CPC, em favor da Caixa Econômica Federal.
+Nas razões de seu recurso (fls. 195/209), a parte recorrente impugna unicamente o arbitramento dos honorários advocatícios com base no critério da equidade. Sustenta que o acórdão recorrido violou o art. 85, § 2º, do Código de Processo Civil (CPC). Alega, ainda, divergência jurisprudencial pela não aplicação do Tema 1.076 do Superior Tribunal de Justiça.
+O recurso foi admitido (fls. 241/242 ).
+É o relatório.
+Na origem, cuida-se de ação de procedimento comum na qual a parte autora pleiteia a decretação da nulidade de auto de infração lavrado pelo PROCON/CG, no valor de R$ 200.000, 00 (duzentos mil reais) ou, alternativamente, a revisão da sanção aplicada.
+O Juízo de primeiro grau julgou improcedente o pedido (fls. 84/88). Interposta apelação pela parte autora, ora recorrente, o Tribunal a quo deu parcial provimento ao recurso para reduzir a penalidade aplicada para o montante de R$ 3.000,00 (três mil reais). Os honorários advocatícios em favor da parte apelante foram fixados em R$ 3.000,00 (três mil reais). Em relação à última verba, foram opostos embargos de declaração, os quais foram rejeitados com a seguinte fundamentação:
+De fato, a despeito do zelo dos causídicos que atuaram na demanda, a lide em questão, com jurisprudência já pacificada, não demanda trabalho excessivo que justifique o arbitramento de verba honorária sobre o proveito econômico obtido com a redução da multa (R$197.000,00).
+É verdade que o dispositivo do CPC estabelece a fixação dos honorários em função do valor da causa ou do conteúdo econômico da demanda. Contudo, o mesmo Código estabelece que a fixação deve ser feita considerando o trabalho desenvolvido pelo advogado, afinal os honorários se propõem a remunerá-los.
+A diferença básica entre a norma inscrita na lei e a sentença é que a primeira é geral e abstrata, orientando a decisão concreta. Mas a sentença, rente aos fatos, deve considerar a exata circunstância fática para transfundir para o caso o espírito verdadeiro da norma.
+Não é justo, não é jurídico e nem é admissível que se estipendie o trabalho em comento em percentual sobre o proveito econômico obtido, porquanto os honorários seriam exorbitantes e desproporcionais.
+Daí que deve ser mantido o acórdão embargado que fixou os honorários advocatícios em R$ 3.000,00 (três mil reais), nos termos do art. 85, § 8º, do CPC, considerando a proporcionalidade.
+A Corte Especial do Superior Tribunal de Justiça, nos autos dos Recursos Especiais 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP, sob o rito dos recursos repetitivos (Tema 1.076), firmou este entendimento:
+"(i) a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou do proveito econômico forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC/2015 - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor (a) da condenação, (b) do proveito econômico obtido ou (c) do valor atualizado da causa;
+(ii) apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação, (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou (b) o valor da causa for muito baixo" (relator Ministro Og Fernandes, DJe de 31/5/2022).
+A conclusão veiculada no acórdão destoa da orientação do Superior Tribunal de Justiça sobre o tema, motivo pelo qual merece acolhimento a pretensão recursal, para o fim de fixar os honorários advocatícios em 10% (dez por cento) sobre o valor do proveito econômico obtido, observados os percentuais mínimos previstos no § 3º do art. 85 do CPC, com o escalonamento do § 5º do mesmo dispositivo legal.
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
