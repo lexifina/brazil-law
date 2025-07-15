@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICIPIO DE CATALAO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 188):
+E M E N T A : A P E L A Ç Ã O C Í V E L . A Ç Ã O D E C O B R A N Ç A . SERVIDOR PÚBLICO MUNICIPAL APOSENTADO. DESVIO DE FUNÇÃO CARACTERIZADO. LICENÇA-PRÊMIO NÃO GOZADA CONVERSÃO EM PECÚNIA. TAXA SELIC. JUROS DE MORA. 1. O servidor público desviado de suas funções, não pode ser reenquadrado, mas tem direito ao recebimento, como indenização, da diferença remuneratória entre os vencimentos do cargo efetivo e os daquele exercido de fato. 2. O servidor público que, em atividade, não usufruiu do benefício da licença-prêmio, tampouco obteve o cômputo do período em dobro para efeito de aposentadoria, tem direito à sua conversão em pecúnia, independentemente de previsão na legislação, sob pena de enriquecimento sem causa da Administração Pública. Precedentes do STJ e do TJGO. 3. Versando a condenação em desfavor da Fazenda Pública sobre verbas salarias devidas a servidor público, os valores a serem apurados em fase de liquidação de sentença deverão ser corrigidos monetariamente, pelo IPCA-E, desde a data em que se tornaram d e v i d o s ( a p o s e n t a d o r i a ) , e n q u a n t o o s j u r o s d e m o r a , correspondentes aos índices oficiais de remuneração básica da caderneta de poupança, incidirão a partir da citação válida, nos termos do artigo 405 do Código Civil. A partir de 09/12/2021, t o d a v i a , p o r f o r ç a d o d i s p o s t o n o a r t i g o 3 º d a E m e n d a Constitucional n. 113/2021, deverá incidir somente a taxa Selic, uma única vez, em acumulação mensal, até o efetivo pagamento. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados (fls. 352/363).
+Nas razões de seu recurso especial, a parte recorrente alega violação aos arts. 373, I, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil (CPC).
+Argumenta que:
+(1) o Tribunal foi omisso quanto à matéria discutida;
+(2) "mesmo a prova testemunhal colhida no curso do processo, à míngua de, pelo menos um início de prova documental, não tem eficácia capaz para motivar a procedência dos pedidos" (fl. 381).
+Requer o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 516/526).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos:
+(1) "no caso sob análise à embargada cabia a prova dos fatos constitutivos do direito que alega, em especial quanto ao desvio de função para gerar os reflexos trabalhistas decorrentes desse fato, o que, todavia, não ocorreu" (fl. 207);
+(2) "não existindo lei municipal que autorize a compensação pleiteada e equivocadamente concedida, não pode o Poder Judiciário se atribuir competência legislativa de que não dispõe para determinar pagamento que a lei não prevê" (fl. 210); e
+(3) "não cabe ao Judiciário realizar interpretação extensiva da lei para extrapolar seus limites, a fim de impor obrigação ao Município no sentido de compensar valores de licença-prêmio, mudando-lhe a destinação de melhora na prestação dos serviços públicos em injustificado incremento do custo do serviço público" (fl. 211).
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS decidiu o seguinte (fls. 359/360):
+Na hipótese, sabe-se que a demandante é servidora pública, investida no cargo de escriturária, cargo bem distinto do de Técnica de Enfermagem.
+Denota-se dos autos que o crachá apresentado e das provas testemunhais que a autora exercia o cargo de Técnica de Enfermagem, não desincumbindo o Município em provar fato modificativo ou extintivo do direito da autora.
+Quanto ao pagamento da licença prêmio, o voto também não encontra-se omisso e nem legislando, conforme aduz o embargante.
+Denota-se do voto embargado, fundamentou sobre o direito da servidora sobre a licença prêmio, bem como demonstrou que o Município tem legislação que autoriza o pagamento em pecúnia da licença não gozada e não utilizada para o computo do tempo de serviço. Vejamos:
+Constato ainda que o artigo 1º, §2º, da Lei Municipal n. 2.598/2008, do Município de Catalão, preceitua, ainda, que: "o servidor que vier a se aposentar sem gozar nem utilizar para cômputo do tempo de serviço as licenças-prêmio a que tem direito, serão indenizados em espécie, inclusive, proporcionalmente, bem como os que vierem a falecer, ficam permitidos que tal retribuição seja paga aos seus herdeiros".
+Conforme muito bem fundamentado no voto embargado, o Município tem previsão legal para a conversão da licença-prêmio em pecúnia, entretanto, ainda que não tivesse previsão legal, o STJ tem entendimento pacificado que as licenças-prêmio não usufruídas em atividade e não utilizadas para a contagem do tempo em dobro para a aposentadoria devem ser convertidas em pecúnia, independentemente de previsão legal.
+O Tribunal de origem consignou que o Município tem previsão legal para a conversão da licença-prêmio em pecúnia e que a parte não se desincumbiu de provar fato modificativo ou extintivo do direito da agravada.
+Vê-se que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Nas razões de seu recurso especial, relativamente ao argumento de que o servidor faz jus às diferenças salariais, o Município sustenta que não há provas de que a parte recorrida exercia a função de técnica de enfermagem.
+Quanto ao ponto, no acórdão recorrido, o Tribunal de origem decidiu nestes termos (fl. 192):
+No presente caso, a Autora juntou aos autos o seu crachá funcional (mov. 1, arq. 7), contendo seus dados pessoais, endereço onde labora e o cargo que ocupa.
+Constato ainda que conforme depoimento das testemunhas arroladas pelas partes as mesmas declaram em juízo que a Apelada exercia há vários anos os serviços de técnica de enfermagem, exercendo a função até a sua aposentadoria.
+Assim, denota-se que o Município não se desincumbiu do ônus de provar que a servidora não estava em desvio de função.
+Nesse sentido, é pacífico o entendimento de que o servidor público desviado de sua função, embora não tenha direito ao reenquadramento, deve receber as diferenças remuneratórias correspondes.
+Como se observa, o Tribunal de origem, após a análise das circunstâncias fáticas da causa, concluiu que a parte agravante não se desincumbiu do ônus de provar que a servidora não estava em desvio de função.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
