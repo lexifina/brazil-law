@@ -2,8 +2,9 @@ Art. 20. Fica a União autorizada a participar, observadas suas disponibilidades
 I - garantir o pagamento aos agentes financeiros de prestação mensal de financiamento habitacional, no âmbito do Sistema Financeiro da Habitação, devida por mutuário final, em caso de desemprego e redução temporária da capacidade de pagamento, para famílias com renda mensal de até R$ 4.650,00 (quatro mil seiscentos e cinquenta reais);
 II - assumir o saldo devedor do financiamento imobiliário, em caso de morte ou invalidez permanente, e as despesas de recuperação relativas a danos físicos ao imóvel para mutuários com renda familiar mensal de até R$ 4.650,00 (quatro mil seiscentos e cinquenta reais); e
 III - garantir, direta ou indiretamente, parte do risco em operações de financiamento habitacional, no âmbito do Sistema Financeiro da Habitação, contratadas a partir de 1º de junho de 2022, para famílias com a renda mensal de que trata o inciso III do § 6º do art. 3º desta Lei, no âmbito dos programas habitacionais do governo federal estabelecidos em lei.
+IV - garantir, direta ou indiretamente, parte do risco em operações de crédito para melhorias habitacionais em áreas urbanas, com mutuários com a renda familiar mensal de que tratam as alíneas "a" e "b" do inciso I do caput do art. 5º da Lei nº 14.620, de 13 de julho de 2023.
 § 1º As condições e os limites das coberturas de que tratam os incisos I e II deste artigo serão definidos no estatuto do FGHab, que poderá estabelecer os casos em que será oferecida somente a cobertura de que trata o inciso II.
-§ 1º-A. As contratações realizadas a partir de 1º de junho de 2022 somente poderão contar com as coberturas de que tratam os incisos I e III do caput deste artigo para as quais as condições e os limites tenham sido estabelecidos no estatuto do FGHab.
+§ 1º-A. As contratações realizadas a partir de 1º de junho de 2022 somente poderão contar com as coberturas de que tratam os incisos I, III e IV do caput deste artigo para as quais as condições e os limites tenham sido estabelecidos no estatuto do FGHab.
 § 1º-B. (Revogado).
 § 2º O FGHab terá natureza privada e patrimônio próprio dividido em cotas, separado do patrimônio dos cotistas.
 § 3º Constituem patrimônio do FGHab:
@@ -12,7 +13,7 @@ II - os rendimentos obtidos com a aplicação das disponibilidades financeiras e
 III - os recursos provenientes da recuperação de prestações honradas com recursos do FGHab;
 IV - as comissões cobradas com fundamento no caput deste artigo; e
 V - outras fontes de recursos definidas no estatuto do Fundo.
-§ 4º Os agentes financeiros que optarem por aderir à cobertura do FGHab deverão integralizar cotas proporcionais ao valor do financiamento para o mutuário final, na forma definida pelo estatuto.
+§ 4º Os agentes financeiros que optarem por aderir à cobertura do FGHab deverão integralizar cotas proporcionais ao valor do financiamento para o mutuário final, na forma definida pelo estatuto, podendo ser dispensados dessa obrigação nos casos de operações de crédito para melhorias habitacionais.
 § 5º A integralização de cotas pela União será autorizada por decreto e poderá ser realizada, a critério do Ministério da Fazenda:
 I - em moeda corrente;
 II - em títulos públicos;
