@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALLAN GUSTAVO FREIRE DA SILVA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 2.417/2.418):
+CONSTITUCIONAL E ADMINISTRATIVO. ENSINO SUPERIOR. PROCESSO SELETIVO. PROGRAMA DE EDUCAÇÃO TUTORIAL - PET. PONTUAÇÃO DO CURRÍCULO LATTES. REVISÃO NA ANÁLISE DA PONTUAÇÃO ATRIBU ÍDA. NÃO DEMONSTRAÇÃO DO SUPOSTO ERRO. MANUTENÇÃO DA SENTENÇA.
+1. Cuida-se de apelação interposta em face de sentença que denegou a segurança, em ação mandamental impetrada contra ato da Comissão de Seleção do Programa de Educação Tutorial da UNIVERSIDADE FEDERAL DE CAMPINA GRANDE - UFCG, objetivando a suspensão da nomeação de candidato aprovado na seleção de Programa de Educação Tutorial - PET.
+2. Destacou o MM. Juízo sentenciante que o impetrante pretende obter a revisão da análise da pontuação atribuída ao primeiro lugar no processo de seleção para de Programa de Educação Tutorial - PET, de modo que, após a repontuação, seja ele considerado o primeiro colocado do concurso, e nomeado como Tutor Bolsista junto à UFCG;
+3. Entendeu que as alegações do impetrante referem-se à forma de valoração dos títulos apresentados pelos candidatos, tratando-se, portanto, de análise feita no âmbito do mérito administrativo, não podendo haver a intervenção do Judiciário, ressaltando, ainda, que o impetrante teria colacionado aos autos a cópia integral do processo administrativo, contendo a análise da pontuação atribuída a cada título por candidato, não sendo possível aferir se houve, efetivamente, pontuações atribuídas em desacordo com o edital. Assinalou, ainda, que a análise da banca examinadora se mostrou razoável, e que o caso do impetrante não se enquadraria na excepcionalidade prevista no RE 632.853/CE, qual seja, a compatibilidade entre o conteúdo das questões com o previsto no edital do concurso, razão pela qual denegou a segurança;
+4. Tratando-se de questão objetiva (suposta análise indevida do currículo lattes), caberia ao impetrante demonstrar objetivamente a existência dos alegados erros na avaliação dos títulos, seja com relação à sua prova, à do outro candidato, ou de ambos, o que, ao final, não logrou fazer;
+5. Não sendo possível anular um concurso sem a efetiva demonstração da ocorrência dos alegados erros avaliativos, é de ser mantida a sentença denegatória da segurança;
+6. Apelação improvida.
+Os embargos de declaração opostos foram rejeitados (fls. 2.477/2.482).
+Nas razões de seu recurso, a parte recorrente sustenta, além de dissídio jurisprudencial, a violação aos arts. 389, 390, § 1º, e 391 do Código de Processo Civil (CPC). Alega o seguinte (fls. 2.507):
+O vídeo anexado no id nº 4058201.11055702 é muito claro quanto a confissão de erro dos membros da banca examinadora, sendo prova inconteste dos fatos narrados pelo recorrente.
+Outrossim, com a nova pontuação, conforme apresentado pelo membro da banca examinadora, Sr. LUIZ ANTONIO COELHO DA SILVA, em declaração anexada no id nº 4058201.11241522 conclui-se, indubitavelmente, que o recorrente ficaria em primeiro lugar no concurso público contestado.
+Assim, a avaliação das confissões dos dois membros da banca examinadora, serve, sem sombras de dúvida, como prova cabal dos fatos alegados pelo recorrente.
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 2.514/2.516).
+O recurso foi admitido (fls. 2.518/2.519).
+É o relatório.
+Conforme se extrai dos autos, cuida-se de mandado de segurança impetrado pela parte recorrente objetivando a suspensão da nomeação de aprovado na seleção de Programa de Educação Tutorial - PET, porquanto "observou que a comissão julgadora valorou e pontuou de forma totalmente equivocada o  ..  currículo lattes  do Sr. Fabiano Custódio de Oliveira  .. , tendo gerado uma pontuação maior para este, tendo acolhido diversos documentos indevidos apresentados pelo primeiro colocado, de modo a favorecê-lo na pontuação, prejudicando o impetrante" (fl. 2.336).
+Nos exatos termos do acórdão recorrido, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim se manifestou (fl. 2.411):
+Tratando-se de questão objetiva (suposta análise indevida do currículo lattes), caberia ao impetrante demonstrar objetivamente a existência dos alegados erros na avaliação dos títulos, seja com relação à sua prova, à do outro candidato, ou de ambos, o que, ao final, não logrou fazer.
+Não sendo po ssível anular um concurso sem a efetiva demonstração da ocorrência dos alegados erros avaliativos, é de ser mantida a sentença denegatória da segurança.
+O Tribunal de origem concluiu que a parte recorrente não se desincumbiu do ônus de comprovar o fato constitutivo do direito alegado, não demonstrando a existência dos erros avaliativos suscitados.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
