@@ -1,0 +1,2 @@
+Art. 46-D. Excepcionalmente, o CNPE poderá prever a aplicação do disposto neste Capítulo a determinados contratos de partilha de produção, com vistas à alienação do direito à apropriação do excedente em óleo da União, mediante licitação na modalidade leilão.
+Parágrafo único. As prerrogativas exclusivas da PPSA, decorrentes de sua condição de representante da União, não serão transferidas aos vencedores da licitação de que trata o caput deste artigo.
