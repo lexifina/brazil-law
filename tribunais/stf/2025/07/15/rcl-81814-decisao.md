@@ -1,0 +1,89 @@
+DECISÃO:
+
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada pelo Ministério Público do Estado do Rio Grande do Sul contra acórdão da Câmara da Função Delegada dos Tribunais Superiores do Tribunal de Justiça do Estado do Rio Grande do Sul, no Recurso em Sentido Estrito nº 5098740-40.2023.8.21.0001/RS, sob o fundamento de má aplicação do Tema 154 da Repercussão Geral.
+
+    O reclamante alega, em síntese, que a Segunda Vice-Presidência do Tribunal de Justiça do Rio Grande do Sul concluiu que o acórdão recorrido estaria de acordo com o entendimento do Supremo Tribunal Federal no Recurso Extraordinário nº 593.443/SP (Tema 154), julgado pelo rito da repercussão geral, culminando por negar seguimento à irresignação extraordinária manejada pelo Ministério Público.
+
+    A Câmara da Função Delegada dos Tribunais Superiores, por seu turno, negou provimento ao agravo interno interposto contra tal decisão, confirmando a incidência do Tema 154.
+
+    Anota que
+
+    “não se discute o instrumento utilizado para afastar a competência constitucional do júri (habeas corpus), mas, ao revés, o próprio descabimento de tal subtração de competência por questão jurídica vinculada à tarifação probatória que tem sido observada para fins de avaliação da pronúncia, somente admitida em caso de produção de prova oral judicializada, desprezando-se hipóteses que contam com confirmação em juízo dos elementos de convicção da fase pré-processual (por exemplo, pelos agentes policiais responsáveis pela investigação), indicativos de que testemunhas e vítimas foram submetidas a ameaças, depoimentos indiretos, bem como provas irrepetíveis, cautelares e antecipadas, etc”.
+
+    Diz da
+
+    “possibilidade de utilização dos elementos informativos referendados por prova colhida sob o crivo do contraditório, da ampla defesa e do devido processo legal, em atenção à plenitude de defesa, na linha do que recentemente decidiu a Corte Cidadã, pela qual não há falar em sentença de pronúncia calcada exclusivamente em elementos colhidos em sede inquisitiva quando confirmados por outras provas angariadas em sede judicial.”
+
+    Ao final, requer,
+
+    “a) seja concedida a liminar, com a suspensão da decisão da Câmara da Função Delegada dos Tribunais Superiores do Tribunal de Justiça do Estado do Rio Grande do Sul, remetendo-se o recurso extraordinário ao Supremo Tribunal Federal para análise de admissibilidade e consequente julgamento do mérito recursal;
+
+    b) requisição de informações da autoridade que prolatou o decisum impugnado;
+
+    c) a citação dos beneficiários da decisão para apresentarem contestação; e
+
+    d) ao final, seja julgada procedente a presente reclamação para que seja conhecido e provido o agravo interno ministerial.”
+
+    É o relatório.
+
+    Decido.
+
+    O julgamento de matéria constitucional pela sistemática da repercussão geral tem por finalidade conferir maior efetividade à atuação da Corte Constitucional - antes prejudicada pela subida de inúmeros recursos com fundamento em idêntica controvérsia - demandando decisões caso a caso mesmo não sendo possível em sede excepcional reanalisar fatos e provas do caso concreto (Súmula STF nº 279) ou avançar sobre matéria infraconstitucional sedimentada nas instâncias ordinária e especial (Súmulas STF nºs 280 e 636).
+
+    Assim, conforme mencionado, ao se fixar a tese de observância obrigatória pelos demais órgãos do Poder Judiciário, a última palavra em matéria constitucional com repercussão permanece com a Suprema Corte.
+
+    Nos processos de matéria constitucional idêntica ou quando o debate tratar de tema infraconstitucional ou desprovido de repercussão geral, sendo o órgão de origem responsável pela concretização do precedente, procedendo à adequação da ratio decidendi do paradigma aos novos casos de acordo com os elementos e as provas dos autos.
+
+    Nessa medida, a reclamatória como instrumento de promoção do diálogo, nesta Suprema Corte, entre a decisão no caso concreto e os seus precedentes obrigatórios tem cabimento excepcional, estando sua admissibilidade condicionada à efetiva demonstração, além do esgotamento de instância (CPC, art. 988, §5º, II), de:
+
+    a) desrespeito à autoridade da decisão do STF, porquanto configurada erronia na aplicação do entendimento vinculante a evidenciar teratologia da decisão reclamada ou
+
+    b) usurpação da competência do STF, pois existente, i) no caso concreto, peculiaridades que impossibilitam a aplicação adequada da norma de interpretação extraída do precedente (distinguishing) a demandar pronunciamento desta Suprema Corte acerca da matéria constitucional no caso concreto, acaso verificada repercussão geral, ou, ii) a necessidade de revisitação dos fundamentos do precedente, tendo em vista a alteração do ordenamento jurídico vigente ao tempo do julgamento ou das circunstâncias fáticas históricas que impactaram a interpretação da norma, com possibilidade de sua superação (overruling).
+
+    Vejamos. O Plenário desta Corte, em 23/2/17, no julgamento do RE nº 593.443/SP em sede de repercussão geral (Tema 154), de  relatoria do Ministro Marco Aurélio, fixou a seguinte tese acerca da matéria:
+
+    “Qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de “habeas corpus”, de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, “c”).” (grifo nosso)
+
+    O acórdão recebeu a seguinte ementa:
+
+    ”RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. PRELIMINAR DE NÃO CONHECIMENTO DO RE. QUESTÃO SUPERADA. HABEAS CORPUS. CONCESSÃO DA ORDEM PELO SUPERIOR TRIBUNAL DE JUSTIÇA PARA TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA. ALEGAÇÃO DE TOLHIMENTO DE PRERROGATIVA EXCLUSIVA DO MINISTÉRIO PÚBLICO PARA PROVAR A ACUSAÇÃO, MEDIANTE AJUIZAMENTO DE AÇÃO PENAL. ABSOLVIÇÃO SUMÁRIA PROCEDIDA POR TRIBUNAL SUPERIOR, EM DETRIMENTO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. OFENSA AOS ARTS. 5º, XXXVIII, E 129, I, AMBOS DA CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO. I – Havendo a Corte, por meio de seu Plenário Virtual, reconhecido a repercussão geral do tema constitucional debatido nos autos, deve prosseguir no julgamento de mérito da causa. II – Para se chegar à conclusão contrária à do acórdão recorrido seria necessário reexaminar o conjunto fático-probatório dos autos. Incidência da Súmula 279 do STF. III – Decisão judicial de rejeição de denúncia, impronúncia de réu, de absolvição sumária ou de trancamento de ação penal por falta de justa causa, não viola a cláusula constitucional de monopólio do poder de iniciativa do Ministério Público em matéria de persecução penal e tampouco transgride o postulado do juiz natural nos procedimentos penais inerentes ao Tribunal do Júri. III – Recurso extraordinário não provido” (RE 593443, Relator o Ministro Marco Aurélio, Relator p/ Acórdão o Ministro Ricardo Lewandowski, Tribunal Pleno, DJ 22/5/2014).
+
+    No caso em análise, o Tribunal de Justiça do Estado do Rio Grande do Sul, Recurso em Sentido Estrito nº 5098740-40.2023.8.21.0001/RS (edoc. 2, p.40), no enquadramento do caso concreto ao precedente firmado por esta Suprema Corte, sob o Tema 154, assim se manifestou ao negar provimento ao agravo:
+
+    “O acórdão que, ao fim e ao cabo, impronunciou os recorridos, portanto, está de acordo com o aludido paradigma qualificado, não havendo, dessa forma, na espécie, afronta ao artigo 5º, inciso XXXVIII, alínea d, da Constituição Federal.
+
+    De consignar, dada a pertinência, que a discussão da matéria pelo Supremo Tribunal Federal, no referido precedente qualificado, deu-se à luz do artigo 129, inciso I, e do artigo 5º, inciso XXXVIII, alínea d, da Constituição Federal, consoante se extrai da descrição do Tema 154:
+
+    Recurso extraordinário em que se discute, à luz dos artigos 5º, XXXVIII, d; e 129, I, da Constituição Federal, a possibilidade ou não, do trancamento de ação penal, em habeas corpus, por falta de justa causa, sem submissão de acusados de crime doloso contra a vida ao Tribunal do Júri.
+
+    Aliás, em caso símile ao em foco, ao apreciar, 21 de setembro de 2022, ARE 1.404.501/RS, interposto pelo Ministério Público do Estado Rio Grande do Sul contra decisão deste Tribunal de Justiça que inadmitira, por falta de prequestionamento, recurso extraordinário, no qual o Parquet suscitara afronta ao artigo 5º, inciso XXXVIII, alínea d, da Constituição Federal, por violação à competência constitucional do Tribunal do Júri, ante a impronúncia do réu, a ínclita Presidência do Supremo Tribunal Federal, identificando a incidência, na espécie, da tese objeto do Tema 154, determinou "a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal)".
+
+    Nessa senda, quando do julgamento monocrático do RE 1.389.916/RJ, em 26/07/2022, DJe 28/07/2022, em que foi alegada violação ao artigo 5º, inciso XXXVIII, alíneas c e d, da Constituição Federal, Ministro Ricardo Lewandowski elencou, dentre outros fundamentos para a negativa de seguimento do recurso, a incidência da tese objeto do Tema 154 do Supremo Tribunal Federal.
+
+    (...)
+
+    Ou seja, na linha desses precedentes, a tese objeto do Tema 154 do Supremo Tribunal Federal, no que interessa o deslinde da questão posta, abarca tanto a alínea c quanto a alínea d do inciso XXXVIII do artigo 5º da Constituição Federal, para a hipótese também de impronúncia, diferentemente do suscitado no agravo em epígrafe.
+
+    No mais, ante o arguido pelo agravante quanto à Rcl 59371/RS e ao consequente ARE 1441874/RS, julgados, respectivamente, pela Ministra Cármem Lúcia, em 07 de maio de 2023 (DJe 08/5/2023) e 30 de junho de 2023 (DJe 10/7/2023), cumpre assentar que a apreciação das alegações do recorrente no recurso extraordinário, a fim de alterar a conclusão do Órgão Julgador quanto à impronúncia do recorrido, exige, no caso em foco, o reexame do contexto fático-probatório, o que esbarra na Súmula 279 do Supremo Tribunal Federal”. (edoc. 2, p. 470-472, grifamos)
+
+    No caso, não há teratologia quanto à aplicação do paradigma julgado na sistemática da repercussão geral consubstanciado no RE nº 593.443/SP (Tema 154), ou peculiaridade que justifique nova apreciação do tema pela Suprema Corte.
+
+    De fato, a temática proposta pela reclamante consiste na tentativa de reanálise da demanda originária, impossível na via da reclamatória.
+
+    No sentido do caráter estrito da competência do STF no conhecimento das reclamações e na inadmissibilidade do uso desse instituto como sucedâneo recursal ou para o reexame do mérito da demanda originária, vide precedentes:
+
+    “O instituto da reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo” (Rcl nº 5.703/SP-AgR, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe de 16/10/09).
+
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. A RECLAMAÇÃO NÃO É SUCEDÂNEO DE RECURSO PRÓPRIO. RECURSO IMPROVIDO. I - A reclamação constitucional não pode ser utilizada como sucedâneo de recurso próprio para conferir eficácia à jurisdição invocada nos autos da decisão de mérito. II - Não impugnação de todos os fundamentos da decisão agravada. Fundamentação recursal deficiente (Súmula 287). III - Reclamação improcedente. IV - Agravo regimental improvido” (Rcl nº 5.684/PE-AgR, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski, DJe de 15/8/08).
+
+    Ante o exposto, nego seguimento à presente reclamação constitucional, nos termos do artigo 21, § 1º, do RISTF, ficando prejudicado o pedido liminar.
+
+    Publique-se.
+
+    Brasília, 15 de julho de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
