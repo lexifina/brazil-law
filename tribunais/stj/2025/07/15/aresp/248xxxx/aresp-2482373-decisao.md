@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE JOSIVALDO SOUZA COLARES contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO PIAUÍ que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0016845-54.2010.8.18.0140 que deu parcial provimento ao recurso defensivo, reduzindo a pena-base aplicada na origem e redimensionando a pena final para 11 anos, 1 mês e 10 dias de reclusão, e 43 dias-multa, pela prática do crime previsto no art. 157, § 2º, I, II, IV e V do Código Penal.
+Foram opostos embargos de declaração (fls. 452/459), rejeitados às fls. 480/486.
+No recurso especial (fls. 490/504), a defesa requereu, em síntese, o redimensionamento da pena-base, com a exclusão da vetorial consequências do crime, ou, subsidiariamente, a redução da fração adotada, bem como a redução da pena de multa, em razão da hipossuficiência do acusado.
+Inadmitido o recurso na origem (fls. 525/527), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 531/538).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 570/576).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Todavia, o recurso especial não comporta conhecimento.
+Com relação à exclusão da valoração negativa das consequências do crime, o Tribunal de origem entendeu que além do prejuízo financeiro causado à vítima, é certo que a ação delitiva causou traumas às crianças, que a tudo presenciaram, o que não pode ser considerado como circunstância ínsita ao delito (fl. 437).
+Este Tribunal Superior vem entendendo que quando as consequências do roubo extrapolam os limites normais do tipo penal, quando há abalo psicológico nas vítimas, especialmente crianças, justifica-se o incremento da pena-base a tal título. Neste sentido: AgRg no HC 720497/SC, Rel. Min. Antônio Saldanha Palheiro, Sexta Turma, DJe 30/03/2023; HC 843929/SP, Rel. Min. Daniela Teixeira, Quinta Turma, DJe 11/11/2024).
+Da mesma forma, não colhem os fundamentos relativos à redução da fração adotada (1/6).
+Esta Corte tem entendimento pacífico de que não existe critério matemático na dosimetria da pena, estando a operação sujeita à discricionariedade judicial, que somente poderá sofrer controle em caso de manifesta ilegalidade. Em sendo utilizada fundamentação idônea (baseada no caso concreto), há de ser esta mantida. Em razão dessa discricionariedade motivada, não existe direito subjetivo do acusado à fração de 1/6 sobre a pena mínima para cada circunstância judicial valorada negativamente (AgRg nos EDcl na PET no REsp 185289/RS, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 29/3/2021).
+Relativamente ao pedido de redimensionamento e parcelamento da pena de multa, melhor sorte não lhe assiste. A pena de multa foi fixada de forma proporcional à pena corporal, sendo que o valor do dia-multa (sobre o qual se observará a capacidade econômica do condenado) já foi fixado no mínimo legal. Eventual impossibilidade de inadimplemento deve ser suscitada perante o Juízo da Execução (REsp 711049/RS, Rel. Min. Laurita Vaz, Quinta Turma, DJ 5/9/2005)
+Sendo assim, o acórdão de origem encontra-se em conformidade com o entendimento desta Corte, atraindo o óbice da Súmula 83/STJ.
+Pelo exposto, conheço do agravo, para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PENA-BASE. REDIMENSIONAMENTO. CONSEQUÊNCIAS DO DELITO. TRAUMA CAUSADO ÀS VÍTIMAS, CRIANÇAS. ANÁLISE DESFAVORÁVEL MANTIDA. FRAÇÃO ADOTADA. PRETENSÃO DE REDUÇÃO. DOSIMETRIA DA PENA. DISCRICIONARIEDADE VINCULADA. AUSÊNCIA DE DIREITO SUBJETIVO À FRAÇÃO DE 1/6 SOBRE A PENA MÍNIMA. PENA DE MULTA. IMPOSSIBILIDADE DE PAGAMENTO. HIPOSSUFICIÊNCIA. QUESTÃO A SER SUSCITADA PERANTE O JUÍZO DA EXECUÇÃO. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTE TRIBUNAL. SÚMULA 83/STJ.
+Agravo conhecido para não conhecer do recurso especial.
