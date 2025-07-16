@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso especial interposto por F B PAIVA FILMES LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fls. 169/170):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. PEDIDO GENÉRICO. INEXISTÊNCIA. DECADÊNCIA. AFASTADA. ISS. INCIDÊNCIA. PRODUÇÃO DE SERVIÇOS DE VÍDEOS. CINEMATOGRAFIA. EQUIPARAÇÃO. LEI COMPLEMENTAR Nº 116/2003. LISTA DE SERVIÇOS. ITEM 17.06. PRODUÇÃO DE MATERIAL PUBLICITÁRIO. INTERPRETAÇÃO EXTENSIVA. INEXISTÊNCIA. DIREITO LÍQUIDO E CERTO. AUSÊNCIA. SENTENÇA CASSADA. SEGURANÇA DENEGADA.
+ ..
+5. A jurisprudência reiterada do c. Superior Tribunal de Justiça consolidou-se em harmonia com o julgamento do REsp nº 1308628/RS, de 26/6/2012, da relatoria do e. Ministro Benedito Gonçalves, no qual se firmou a tese de que a partir da vigência da Lei Complementar nº 116/03, em face de veto presidencial quanto ao item 13.01, não mais existe previsão legal que ampare a incidência do ISS sobre a atividade de produção,gravação e distribuição de filmes para usuários específicos,seja destinada ao comércio em geral ou ao atendimento de encomenda de terceiro.
+6. O e. Supremo Tribunal Federal, no julgamento do Tema de Repercussão Geral nº 296, firmou a seguinte tese: "É taxativa a lista de serviços sujeitos ao ISS a que se refere o art. 156, III, da Constituição Federal, admitindo-se, contudo, a incidência do tributo sobre as atividades inerentes aos serviços elencados em lei em razão da interpretação extensiva.".
+7. No caso em comento, contudo, a despeito da não incidência do ISS sobre as atividades de produção, gravação, edição e distribuição de filmes institucionais sob encomenda, a atividade principal da Impetrante é a "Produção de filmes para publicidade", a qual, em tese, é tributável pelo ISS, nos termos do subitem 17.06 da Lista de Serviços do imposto: "17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais publicitários.".
+8. Inexiste o direito líquido e certo a ensejar a concessão da segurança para afastar a incidência do ISS, de forma irrestrita, nas atividades desenvolvidas pela Impetrante.
+9. Apelação conhecida e não provida. Preliminar acolhida. Decadência afastada. Sentença cassada. Segurança denegada.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso, a parte recorrente alega violação aos arts. 97, inciso I, e 108 do Código Tributário Nacional (CTN). Argumenta que não há previsão legal para a cobrança do Imposto sobre Serviços (ISS) sobre quaisquer de suas atividades de produção, gravação e distribuição de filmes sob encomenda (fls. 211/216).
+A recorrente cita precedentes do Superior Tribunal de Justiça (STJ) que reconhecem a ilegalidade da cobrança do ISS sobre a produção de suas obras audiovisuais (fls. 216/ 222).
+Requer o conhecimento e o provimento do recurso especial para que seja reconhecida a não incidência do ISS sobre suas atividades empresariais (fl. 223).
+A parte adversa apresentou contrarrazões (fls. 231/243).
+O recurso foi admitido (fls. 246/248).
+É o relatório.
+O recurso especial tem origem no mandado de segurança preventivo impetrado por FB PAIVA FILMES EIRELI contra o DISTRITO FEDERAL objetivando afastar a cobrança de Imposto Sobre Serviços (ISS).
+O Juízo de primeiro grau reconheceu a decadência do direito à impetração do mandado de segurança e, em consequência, extinguiu o processo, com resolução de mérito, nos termos dos arts. 487, II, do CPC e 23 da Lei 12.016/2016.
+O Tribunal de origem, ao julgar o recurso de apelação, afastou a prejudicial de decadência e, no mérito, denegou a segurança sob os seguintes fundamentos (fls. 177/187, sem destaques no original):
+O objeto da impetração é afastar a incidência do ISS sobre as atividades de produção, gravação, edição e distribuição de filmes institucionais sob encomenda.
+A LC nº 116/2003, dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza (ISSQN), de competência dos municípios e do Distrito Federal, cujo fato gerador é a prestação de serviços constantes da lista anexa à mencionada lei, ainda que esses não se constituam como atividade preponderante do prestador.
+ ..
+Ressalte-se que a jurisprudência reiterada do c. Superior Tribunal de Justiça se consolidou em harmonia com o julgamento do REsp nº 1.308.628/RS, de 26/6/2012, da relatoria do e. Ministro Benedito Gonçalves, no qual se firmou a tese de que a partir da vigência da Lei Complementar nº 116/2003, em face de veto presidencial quanto ao item 13.01, não mais existe previsão legal que ampare a incidência do ISS sobre a atividade de produção, gravação e distribuição de filmes para usuários específicos, seja destinada ao comércio em geral ou ao atendimento de encomenda de terceiro.
+ ..
+No caso em comento, contudo, a despeito da não incidência do ISS sobre as atividades de produção, gravação, edição e distribuição de filmes institucionais sob encomenda, quando equiparada à cinematografia, a atividade principal da Impetrante é a "Produção de filmes para publicidade", cuja atividade, em tese, é tributável pelo ISS, nos termos do subitem 17.06 da Lista de Serviços do imposto: "17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais publicitários."
+O e. Supremo Tribunal Federal, no julgamento do Tema de Repercussão Geral nº 296, firmou a seguinte tese: "É taxativa a lista de serviços sujeitos ao ISS a que se refere o art. 156, III, da Constituição Federal, admitindo-se, contudo, a incidência do tributo sobre as atividades inerentes aos serviços elencados em lei em razão da interpretação extensiva.".
+ ..
+Tampouco se ignora que esta eg. 8ª Turma Cível já apreciou em diversas oportunidades matéria semelhante à ora discutida, ou seja, a incidência do ISS quando se equipara a produção de vídeo por encomenda à cinematografia.
+ ..
+Entretanto, o presente caso apresenta peculiaridades que impedem a aplicação dos referidos julgados.
+Há diferenças entre (i) a produção, gravação e distribuição de filmes para o comércio em geral (ex: vídeo sobre regras de segurança do trabalho para empresas do ramo de conserto de eletrônicos, ou um vídeo educacional); (ii) a produção de filmes para o atendimento de encomenda específica de terceiro (ex: vídeo de cerimônias e eventos para cliente específico), e (iii) a produção de filmes como atividade de produção de material publicitário.
+Também não se pode confundir a atividade de lançamento que, na definição do fato gerador, equipara a produção de filmes por encomenda à cinematografia, incluindo-a no item 13.03 da lista de serviços anexa à LC nº 116/2003, com a incidência do ISS em decorrência da prestação de serviços constantes do item 17.06 da referida lista.
+O Decreto nº 25.508, de 19 de janeiro de 2005, que regulamentou o ISSQN no Distrito Federal, ao disciplinar a incidência do imposto nos serviços de propaganda e publicidade, assim dispõe:
+ ..
+Frise-se não ser possível igualar a produção de vídeo por encomenda (item 13.03, que não se equipara a cinematografia) à produção de filmes como atividade de produção de material publicitário (item 17.03).
+A c. Primeira Seção do Superior Tribunal de Justiça, quando do julgamento do REsp nº 1.111.234/PR, submetido ao rito dos recursos repetitivos, em harmonia com o entendimento do e. STF, firmou o precedente de que "é taxativa a Lista de Serviços anexa ao Decreto-lei 406/68, para efeito de incidência de ISS, admitindo-se, aos já existentes apresentados com outra nomenclatura, o emprego da interpretação extensiva para serviços congêneres".
+ ..
+Assim, sem que implique interpretação extensiva, a produção de filmes publicitários por encomenda se enquadra na atividade de produção de material publicitário.
+Nada impede que a Impetrante, na via ordinária e após perícia técnica e análise de documentos, demonstre, caso a caso, a ausência de fato gerador do ISSQN, ou seja, que a atividade por ele desenvolvida não se enquadra na lista anexa à Lei Complementar nº 116/2003.
+Portanto, inexiste o direito líquido e certo a ensejar a concessão da segurança para afastar a incidência do ISS, de forma irrestrita, nas atividades desenvolvidas pela Impetrante.
+O posicionamento adotado pelo Tribunal de origem merece reparos.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido d a impossibilidade de interpretação extensiva das atividades de produção, gravação e distribuição de filmes sob encomenda, previstas no item 13.01 da lista anexa à Lei Complementar 116/2003, como atividades de cinematografia, previstas no item 13.03 da mesma lista, considerando que, após o veto presidencial, não existe mais essa previsão legal.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ISSQN. PRODUÇÃO DE FILMES POR ENCOMENDA. INTERPRETAÇÃO EXTENSIVA PELA FAZENDA PÚBLICA ESTADUAL. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A partir da vigência da Lei Complementar 116/2003, à vista do veto presidencial referente ao item 13.01, não mais existe previsão legal que ampare a incidência do ISS sobre a atividade de produção, gravação e distribuição de filmes, seja destinada ao comércio em geral ou ao atendimento de encomenda específica de terceiro. O item 13.03 da lista anexa à apontada norma não autoriza a tributação pelo ISSQN do serviço de produção de filmes/vídeos por encomenda, porquanto essa atividade não se equipara aos serviços de cinematografia. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 1.994.233/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+TRIBUTÁRIO. ISS. PRODUÇÃO DE FILMES SOB ENCOMENDA. NÃO INCIDÊNCIA. VETO PRESIDENCIAL. EQUIPARAÇÃO À CINEMATOGRAFIA. IMPOSSIBILIDADE.
+1. A produção de filmes, ainda que sob encomenda, não está sujeita à incidência do ISS, em virtude de veto da Presidência da República ao item da lista anexa em que está prevista tal tributação (item 13.01), sendo inadequada a equiparação dessa atividade ao específico serviço de cinematografia para o fim de justificar essa cobrança.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.785.434/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/10/2020, DJe de 23/10/2020.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ISS. PRODUÇÃO DE FILMES E VÍDEOS CINEMATOGRÁFICOS PARA TERCEIROS. ITEM 13 DA LISTA ANEXA À LEI COMPLEMENTAR 116/03. ATIVIDADE NÃO ENQUADRADA. OMISSÃO INEXISTENTE. PRECEDENTES DO STJ.
+1. Inexistente a ofensa ao art. 1.022, II, do CPC/2015, pois o Tribunal de origem rejeitou expressamente a tese de necessidade de repasse do ônus tributário em questão, além de subsumir a atividade da recorrente na lista em que incide o ISS.
+2. O Tribunal estadual consignou no acórdão que as atividades empresariais da recorrente configuram a produção de vídeos e filmes sob encomenda, sendo evidente que, para a consecução do produto final, diversas fases do processo criativo são necessárias.
+3. Assim, a Corte de origem equivocadamente aplicou interpretação extensiva ao fato gerador do ISS para declarar sua incidência no presente caso, reiterando, para justificar seu entendimento, o fato de haver encomenda do serviço.
+4. O STJ possui jurisprudência sólida que entende ser inadequada tal hermenêutica, o que foi observado na decisão de admissibilidade do apelo nobre.
+5. O item 13.03 da lista anexa à LC 116/2003, portanto, não autoriza a tributação pelo ISSQN do serviço de produção de filmes/vídeos por encomenda, porquanto essa atividade não se equipara aos serviços de cinematografia.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 1.862.604/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 31/8/2020, DJe de 9/9/2020.)
+TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA. PRODUÇÃO DE VÍDEOS POR ENCOMENDA. VETO PRESIDENCIAL. INTERPRETAÇÃO EXTENSIVA. PROIBIÇÃO.
+1. O item 13.03 da lista anexa à LC n. 116/2003 não autoriza a tributação pelo ISSQN do serviço de produção de filmes/vídeos por encomenda, porquanto essa atividade não se equipara aos serviços de cinematografia.
+2. Não é adequada a interpretação extensiva de item da referida lista, tendo em vista a existência de veto presidencial ao item 13.01, referente especificamente à "produção, gravação, edição, legendagem e distribuição de filmes, videotapes, discos, fitas cassete, compact disc, digital video disc e congêneres", de modo que não mais é adequado o raciocínio segundo o qual a encomenda do serviço de produção de vídeos atrairia a incidência do ISSQN (em vez do ICMS).
+3. Ressalvada a situação em que o próprio veto é objeto de questionamento judicial, haveria atuação indevida do Poder Judiciário caso se decidisse pela incidência tributária em hipótese vetada pelo Presidente da República.
+4. Caso em que o Tribunal de Justiça procedeu à interpretação extensiva de dispositivo que não a permite, porquanto, vetada a hipótese de incidência, o enquadramento do serviço correlato em outro item equivaleria à derrubada do veto, competência exclusiva do Congresso Nacional, o qual, caso assim entendesse, deveria ter agido em tempo próprio.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.627.818/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/3/2017, DJe de 6/4/2017.)
+Ante o exposto, dou provimento ao recurso especial para afastar a incidência do Imposto sobre Serviços (ISS) sobre as atividades da parte recorrente.
+Publique-se. Intimem-se.
+ EMENTA
