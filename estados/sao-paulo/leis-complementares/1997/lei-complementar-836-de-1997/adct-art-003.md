@@ -1,0 +1,1 @@
+Artigo 3° - Os atuais professores incluídos na Jornada Parcial de Trabalho Docente e na Jornada Completa de Trabalho Docente ficam enquadrados na Jornada Inicial de Trabalho Docente e os atuais professores incluídos em Jornada Integral de Trabalho Docente ficam enquadrados na Jornada Básica de Trabalho Docente.

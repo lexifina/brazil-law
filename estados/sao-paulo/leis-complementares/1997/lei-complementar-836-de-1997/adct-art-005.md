@@ -1,0 +1,5 @@
+Artigo 5° - Fica assegurado, pelo prazo de 5 (cinco) anos, a contar da data da vigência desta lei complementar, ao atual docente titular de cargo, o direito de optar, por ocasião da aposentadoria, pelo cálculo das horas de carga suplementar de trabalho no período anterior à vigência desta lei complementar, correspondente a:
+I - durante os últimos 60 (sessenta) meses imediatamente anteriores ao pedido da aposentadoria, efetuada a devida equivalência entre horas e horas-aula;
+II - durante qualquer período de 84 (oitenta e quatro) meses ininterruptos em que prestou serviços contínuos, sujeito à mesma jornada de trabalho docente, efetuada a devida equivalência entre horas e horas-aula; e
+III - durante qualquer período de 120 (cento e vinte) meses intercalados e de sua opção, em que prestou serviços, sujeito à mesma jornada de trabalho docente, efetuada a devida equivalência entre horas e horas-aula.
+Parágrafo único - A opção de que trata este artigo se refere, exclusivamente, ao cálculo das horas de carga suplementar de trabalho que compõem a carga horária prevista no artigo 39 desta lei complementar.

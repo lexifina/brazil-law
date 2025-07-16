@@ -1,0 +1,5 @@
+## Disposições transitórias
+Artigo 1° - Os atuais integrantes do Quadro do Magistério terão o cargo ou a função-atividade enquadrados de conformidade com o Anexo VII desta lei complementar.
+§ 1° - O integrante do Quadro do Magistério que, em 31 de janeiro de 1998, estiver enquadrado em padrão superior aos indicados no Anexo a que se refere este artigo, ficará enquadrado no último Nível da Faixa correspondente à sua classe.
+§ 2° - Se, em decorrência do disposto neste artigo, resultar enquadramento do cargo ou da função-atividade em nível cujo valor seja inferior à quantia resultante da soma do vencimento ou salário-base, da Gratificação Extra, da Gratificação de Magistério, da Complementação do Piso e da Gratificação da função, efetivamente percebidos pelo servidor, no cargo do qual é titular, este fará jus ao recebimento da diferença, a título de vantagem pessoal. (NR)
+§ 3° - O valor da vantagem a que se refere o § 2° deste artigo será atualizado na mesma proporção que corresponder à Escala de Vencimentos aplicável à respectiva classe. (NR)

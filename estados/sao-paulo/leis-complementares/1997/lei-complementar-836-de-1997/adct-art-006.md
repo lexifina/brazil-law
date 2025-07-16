@@ -1,0 +1,1 @@
+Artigo 6° - Fica assegurado ao docente que, admitido em caráter temporário tenha sido dispensado de sua função por desnecessidade de serviço, no momento de sua nova admissão, o automático enquadramento de sua função no nível que ocupava quando de seu desligamento do serviço público.
