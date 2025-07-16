@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual a CASA DE SAUDE SAO LUCAS SA se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (fls. 150/151):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FICAL. ISSQN. INEXISTÊNCIA DE VÍCIOS INSANÁVEIS NO TÍTULO EXECUTIVO (CDA - CERTIDÃO DE DÍVIDA ATIVA).
+1. Trata-se de agravo contra decisão que rejeitou a exceção de pré-executividade da ora agravante com a qual buscava imputar uma série de vícios à CDA.
+2. Não há falar em nulidade da decisão agravada por ausência de fundamentação. Trata-se do típico caso em que a parte não se mostra satisfeita com a resposta dada pelo julgador de piso.
+3. Se forem identificadas cada uma das dívidas com termos de inscrição distintos, competências diferentes e exercícios diferentes, nada impede que uma mesma CDA (título executivo) instrua mais de uma execução fiscal, contanto que não seja cobrada a mesma dívida.
+4. Não há falar em carência de fundamentação legal uma vez que a CDA retificadora - acompanhada que foi do processo administrativo e do auto de infração - supre com substância a ausência que existia na CDA originária que instruiu a execução fiscal.
+5. Não é nula uma CDA que não traz discriminado cada um dos serviços que ensejaram a incidência de ISSQN. Eventual contraditório em que se queira essa impugnação (discutir a pertinência de cada exação) é obra que tem nos Embargos à Execução sede própria e adequada; e não a exceção de pré-executividade. A indicação de que se trata de ISSQN é suficiente para atendem a lei que determina a indicação da origem e natureza do crédito.
+6. A rigor, a verdade é que não passa de um grande equívoco a alegação da agravante de que não existem as indicações - necessárias à sua defesa técnica que, repita-se, deve ser veiculada em sede de Embargos à Execução Fiscal - de alíquota, multa fiscal, processo administrativo (que envolveu a constituição do crédito realizada a partir de um procedimento de fiscalização) e índice de correção monetária, assim como juros de mora; e período de apuração mensal do ISSQN.
+7. A indicação do livro e da folha da inscrição são os únicos dados que não foram trazidos, mas isso não é o bastante para a imediata extinção da execução fiscal, até porque é uma omissão que pode ser suprida e que não prejudica em nada a defesa do contribuinte.
+8. Aliás, bem diferente do que sustenta a agravante, não existe vício insanável referente às informações do Termo de Inscrição e na CDA, pois a própria lei prevê a possibilidade de substituição em razão de omissão e erro. O que é insanável é aquele vício que exige uma modificação do lançamento para ser superado; sendo certo que na espécie não existe prova inequívoca, que é um ônus da agravante, desse tipo de vício.
+9. NEGADO PROVIMENTO AO RECURSO.
+Nas razões de seu recurso especial, a parte ora agravante alega:
+Preliminarmente, importante destacar que o v. acórdão recorrido, com todas as vênias, divergiu do entendimento fixado pelo E. Superior Tribunal de Justiça nos autos do R Esp nº 1.045.472/BA, submetido ao regime de recursos repetitivos, no sentido de que a errônea fundamentação legal da CDA é vício insanável, pois diretamente relacionado ao próprio lançamento do crédito tributário e/ou inscrição em dívida ativa, e impassível de ser corrigido mediante a substituição da CDA:
+ ..  (fls. 286).
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.350), e foi assim delimitada:
+"Definir se, até a prolação da sentença nos embargos, é possível que a Fazenda Pública substitua ou emende a Certidão de Dívida Ativa (CDA), para incluir, complementar ou modificar o fundamento legal do crédito tributário". (REsp 2194708/SC, REsp 2194734/SC, REsp 2194706/SC, relator Ministro Gurgel Farias)
+Segue a ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO FISCAL. CDA. FUNDAMENTAÇÃO LEGAL. AUSÊNCIA OU DEFICIÊNCIA. DISCUSSÃO SOBRE A POSSIBILIDADE DE SUBSTITUIÇÃO. AFETAÇÃO.
+1. A questão jurídica a ser solucionada envolve o alcance do Tema Repetitivo 166 do STJ ("A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução") em relação à possibilidade de a Fazenda Pública substituir ou emendar a Certidão de Dívida Ativa (CDA), até a prolação da sentença nos embargos, para incluir, complementar ou modificar o fundamento legal do crédito tributário.
+2. Tese controvertida: Definir se, até a prolação da sentença nos embargos, é possível que a Fazenda Pública substitua ou emende a Certidão de Dívida Ativa (CDA), para incluir, complementar ou modificar o fundamento legal do crédito tributário.
+3. Afetação do recurso especial como representativo da controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.194.706/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 20/5/2025, DJEN de 26/5/2025.)
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
