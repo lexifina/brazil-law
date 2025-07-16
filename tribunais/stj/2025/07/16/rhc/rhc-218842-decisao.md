@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por BRUNO DE ALMEIDA MARTINS contra acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Estado do Espírito Santo, no julgamento do Agravo Regimental no HC n. 5001163-57.2025.8.08.0000.
+Em 30 de novembro de 2019, Bruno de Almeida Martins tentou matar José Carlos de Oliveira, mediante disparos de arma de fogo. De acordo com os autos, o acusado se dirigiu até uma loja chamada Rosinalva Modas e efetuou três disparos de arma de fogo. O acusado foi preso em flagrante no local dos fatos. O crime teria sido motivado por desavenças entre o autor e a vítima por causa de um apartamento de propriedade da vítima e alugado ao recorrente.
+A denúncia foi recebia e, em 21 de março de 2023, o juízo de primeiro grau pronunciou o recorrente pelo crime previsto no art. 121, § 2º, incisos II e IV, na forma do art. 14, inciso II, do Código Penal.
+Contra essa decisão, a defesa impetrou habeas corpus aduzindo, em síntese, a nulidade da sentença que determinou a submissão do réu a julgamento perante o Tribunal do Júri, pois a decisão se lastreou em prova imprestável. Na mesma oportunidade, postulou-se a desclassificação da conduta para lesão corporal.
+O Tribunal de Justiça não conheceu do writ (e-STJ, fls. 1471-1497). A defesa interpôs agravo regimental, desprovido pelo Tribunal de Justiça (e-STJ, fls. 1497-1507).
+Neste recurso ordinário, a defesa reitera a alegação de imprestabilidade da prova de autoria, pois o pen drive contendo os arquivos de vídeo do momento do crime somente foi apreendido quatro dias após a prisão do recorrente. O pen drive não teria sido submetido a perícia técnica para atestar a veracidade das informações nele contidas.
+Quanto ao pedido de readequação típica da conduta, a defesa argumenta que em momento algum restou demonstrada pela acusação a presença de animus necandi na conduta do recorrente.
+Diante disso, requer o provimento do recurso para declarar ilícita a prova referenciada, bem como a reforma da sentença de pronúncia para desclassificar a conduta.
+Não há pedido liminar.
+Os autos foram remetidos ao Ministério Público Federal, que se manifestou pelo não conhecimento do recurso (e-STJ, fls. 1543-1546).
+É o relatório. Decido.
+Este recurso não comporta conhecimento.
+As questões apresentadas pelo recorrente em suas razões não foram apreciadas pelo Tribunal de Justiça, que afirmou não ser cabível a impetração de habeas corpus para discutir as teses aqui expostas, destacando, ainda, que, contra a decisão de pronúncia, houve interposição de recurso em sentido estrito, apreciado e desprovido pela Corte capixaba.
+Com efeito, é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República) (EDcl no HC n. 609.741/MG, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO. ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido. (AgRg no HC n. 837.966/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Não se pode descurar, por fim, que admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir.
+Diante do exposto, nos termos do art. 34, inciso XVIII, alínea "a" do Regimento Interno do Superior Tribunal de Justiça, não conheço deste recurso ordinário.
+Publique-se.
+EMENTA
