@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por IVONE HANNA DOS SANTOS e OUTROS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurgem contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 335):
+AGRAVO DE INSTRUMENTO. DIREITO PREVIDENCIÁRIO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. IMPUGNAÇÃO ACOLHIDA, QUE CONTOU COM EXPRESSA CONCORDÂNCIA DO EXEQUENTE. HONORÁRIOS APENAS SOBRE A PARCELA CONTROVERTIDA. PRECEDENTES DO STJ E DESTA CORTE.
+- O art. 85, §7º, do CPC, ao contrário do que afirmam os agravantes, não aponta qual deve ser a base de cálculo dos honorários no caso de impugnação parcial da Fazenda Pública, o que afasta a alegação de que está sendo contrariada a literalidade do dispositivo.
+- Interpretação em sentido contrário possibilitaria aos credores criar excesso de execução de forma intencional, tão somente para forçar a Fazenda Pública a apresentar contradita e, com isso, serem favorecidos com honorários sobre todo o valor executado, ainda que a parcela controvertida seja ínfima.
+- Com isso, seria criado, nessas hipóteses, um esdrúxulo dilema aos devedores sujeitos ao regime de precatórios: refutar uma execução excessiva com o propósito de evitar dano aos cofres públicos, mas sofrer um prejuízo maior a título de honorários; ou simplesmente deixar de contestar execução manifestamente excessiva a fim de impedir um prejuízo maior com a verba sucumbencial (Segunda Turma do STJ no AgInt nos E Dcl no R Esp 1885625/RS, Rel. Ministro OG FERNANDES, julgado em 19/04/2021, D Je 01/06/2021).
+AGRAVO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial de fls. 379/415, a parte recorrente sustentou, além de dissídio jurisprudencial, a violação do art. 85, § 7º, do Código de Processo Civil (CPC). Alegou o seguinte (fls. 395/399):
+ ..  diversamente do que alegado no acórdão recorrido, no sentido de que ausente um cotejo dos artigos de lei em voga atinentes à matéria, tanto a interpretação literal do dispositivo quanto uma análise lato sensu indicam que é cabível a fixação de honorários no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório para os casos em que houve a apresentação de impugnação/embargos, porquanto o disposto no artigo trata da positivação, no Diploma de Processo Civil, daquilo já previsto na Lei nº. 9.494 de 1997, modo a contemplar a causalidade e a remuneração devida ao profissional atuante na causa.
+ ..
+ ..  O Superior Tribunal de Justiça assentou o entendimento de que os Embargos do Devedor constituem verdadeira ação de conhecimento, autônoma em relação à ação de execução, motivo pelo qual é cabível a fixação de honorários advocatícios nas duas ações, desde que a soma das condenações sob tal rubrica não ultrapasse o limite máximo previsto no CPC.
+Requereu o provimento de seu recurso "para que venha deferido e fixados os honorários executivos postulados, a teor do Art. 85, §7º, do CPC" (fl. 414).
+A parte adversa apresentou contrarrazões (fls. 485/501).
+O recurso foi admitido (fls. 537/541).
+A decisão de fls. 557/560 de relatoria do Ministro Manoel Erhardt (Desembargador convocado do TRF5) deu provimento ao recurso especial dos particulares para determinar que os honorários sucumbenciais no cumprimento de sentença fossem fixados pela Corte de origem.
+Os embargos de declaração opostos no Tribunal de origem foram rejeitados (fls. 682/696).
+Nas razões do recurso especial de fls. 715/729, a parte recorrente sustenta ter ocorrido violação dos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil (CPC). Alega a existência de negativa de prestação jurisdicional diante da falta de exame de argumentação no sentido de que, "diante da ausência de recurso por parte do executado, o cabimento da verba honorária executiva fez coisa julgada, restando pendente tão somente a fixação do percentual a ela referente" (fl. 721).
+A parte adversa apresentou contrarrazões (fls. 744/761).
+O recurso foi admitido (fls. 766/781).
+É o relatório.
+A alegada ofensa ao art. 1.022 do CPC tem por base suposta omissão do acórdão recorrido quanto à seguinte questão: "diante da ausência de recurso por parte do executado, o cabimento da verba honorária executiva fez coisa julgada, restando pendente tão somente a fixação do percentual a ela referente" (fl. 721).
+Extrai-se do acórdão recorrido que (fls. 341/344):
+O art. 85, §7º, do CPC, ao dispor que "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada", não afasta o cabimento de honorários da fase executiva, somente restringe o cabimento às ações de cumprimento impugnadas, como é o caso dos autos.
+Importante registrar que os honorários da fase executiva não se confundem com dos embargos à execução. Ambos remuneram o advogado pelo trabalho exercido, mas em fases diversas.
+O caso dos autos, contudo, comporta solução diversa, tendo em vista que a impugnação apresentada pela Fazenda Pública não só foi parcialmente acolhida pelo juízo a quo.
+ ..
+A vingar a tese do agravante, criar-se-ia hipótese em que, mesmo diante de excesso de execução, razão pela qual deveria a Fazenda Pública apresentar impugnação, sob pena de verdadeira malversação de recursos públicos, ainda assim haveria penalização, mediante a fixação de honorários sucumbenciais em decorrência de oposição eventualmente acolhida.
+A decisão de fls. 557/560 de relatoria do Ministro Manoel Erhardt (Desembargador convocado do TRF5) deu provimento ao recurso especial dos particulares para determinar que os honorários sucumbenciais no cumprimento de sentença fossem fixados pela Corte de origem.
+Nos embargos de declaração (fls. 628/649), a parte ora recorrente sustenta: "A teor do que se verifica da decisão ora embargada, resta totalmente OMISSA, haja vista que INOBSERVOU o julgamento definitivo do Recurso Especial nº 2.031.254/RS, interposto pela agravante, acerca da fixação de honorários advocatícios na fase de execução, nos termos do Art. 85, § 7º, do CPC/15, o qual fora provido, perante o Superior Tribunal de Justiça - STJ, cujo trânsito em julgado ocorreu em 20/04/2023" (fl. 629).
+Entretanto, o Tribunal de origem rejeitou os embargos de declaração sem o exame da quaestio iuris à luz da decisão de fls. 557/560 de relatoria do Ministro Manoel Erhardt (Desembargador convocado do TRF5) , limitando-se a reprisar as razões do acórdão de fls. 335/347.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Ante o exposto, dou provimento ao recurso especial para, reconhecendo o vício de omissão, anular o acórdão recorrido; determino o retorno dos autos à origem para novo exame dos embargos de declaração nos termos do entendimento fixado na decisão de fls. 557/560 de relatoria do Ministro Manoel Erhardt (Desembargador convocado do TRF5).
+Publique-se. Intimem-se.
+EMENTA
