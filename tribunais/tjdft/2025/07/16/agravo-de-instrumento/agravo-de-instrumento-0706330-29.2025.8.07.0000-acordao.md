@@ -1,0 +1,324 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0706330-29.2025.8.07.0000AGRAVANTE(S)SAGA SOCIEDADE ANONIMA GOIAS DE AUTOMOVEISAGRAVADO(S)SANTA FE CONSTRUCOES E INCORPORACOES LTDARelatoraDesembargadora SANDRA REVES
+Relator Designado Desembargador MAURICIO SILVA MIRANDA Acórdão Nº2019097
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO POR ACESSÃO EM IMÓVEL LOCADO. LITISPENDÊNCIA. INEXISTÊNCIA. PREJUDICIALIDADE EXTERNA. REJEIÇÃO. DECISÃO REFORMADA.
+
+1. No presente processo, a ex-locatária busca indenização pelo acréscimo ao imóvel locado, resultante da edificação que realizou no curso do contrato de locação. No processo movido pela ex-locadora, esta busca indenização por danos materiais pelos reparos necessários à restituição do imóvel, ao final da locação, “no estado em que o recebeu” (art. 23, III, Lei 8.245/91).
+
+2. Não conflita com a presente demanda (indenização por acessão), a discussão em processo diverso, entre as mesmas partes, sobre a natureza jurídica do acréscimo ao imóvel – se benfeitorias ou acessão – que visa definir se a obrigação do locatário em restaurar o imóvel para restituí-lo “no estado em que o recebeu” (art. 23, III, Lei 8.245/91), alcança, ou não, a edificação acrescida. Não há prejudicialidade externa que justifique a suspensão do presente feito (art. 313, V, CPC).
+
+3. Se não há identidade de demandas, não há que se falar em litispendência (art. 337, §2º, CPC).
+
+4. Recurso conhecido e provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, SANDRA REVES - Relatora, MAURICIO SILVA MIRANDA - Relator Designado e 1º Vogal e FABRÍCIO FONTOURA BEZERRA - 2º Vogal, sob a Presidência do Senhor Desembargador MAURICIO SILVA MIRANDA, em proferir a seguinte decisão: RECURSO CONHECIDO E PROVIDO. MAIORIA. VENCIDA A RELATORA, REDIGIRÁ O ACÓRDÃO O 1º VOGAL, DESEMBARGADOR MAURÍCIO SILVA MIRANDA., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 16 de Julho de 2025
+
+Desembargador MAURICIO SILVA MIRANDAPresidente e Relator Designado
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto por Saga Sociedade Anônima Goiás de Automóveis contra decisão proferida pelo Juízo da 18ª Vara Cível de Brasília, nos autos da ação de conhecimento n. 0733741-78.2024.8.07.0001 ajuizada pela agravante contra a agravada, em decisão de saneamento, rejeitou as preliminares de inépcia da petição inicial, de ilegitimidade passiva, de coisa julgada e de litispendência, bem como a prejudicial da prescrição e determinou a suspensão do processo por haver risco de decisões conflitantes decorrentes do processo n. 0727270- 51.2021.8.07.0000.
+
+Em suas razões recursais, alega que a “ação n 0733741-78.2024.8.07.0001 (autos de origem) discute exclusivamente a indenização pela acessão construída no imóvel, enquanto o recurso em grau de agravo em recurso especial n. 0727270-51.2021.8.07.000 se refere à rescisão do contrato de locação, encargos de reforma e a responsabilidade da locatária em relação à entrega do imóvel. Tais matérias são distintas e não possuem vínculo necessário entre si, razão pela qual não há justificativa para a suspensão do processo que visa a discussão de indenização por acessão”.
+
+Articula não ter a decisão agravada observado “o princípio da eficiência e celeridade processual, previstos no artigo 4º, caput, do Código de Processo Civil, que exige a condução do processo de forma célere, a fim de garantir a resolução do mérito sem demora indevida”.
+
+Pontua que o art. 55, § 1º, do CPC preconiza a necessidade de conexão entre as demandas para a suspensão do curso processual de um dos processos.
+
+Insiste, “o recurso interposto em outro processo visa discutir cláusulas contratuais e questões relacionadas ao cumprimento de obrigações pelo locatário, enquanto o processo onde foi proferida a decisão agravada discute apenas o direito de indenização pela acessão construída no imóvel. São questões independentes e, portanto, a suspensão do processo não é razoável nem justificada”.
+
+Menciona os princípios da eficiência processual, da razoabilidade, da celeridade processual, da ampla defesa e do contraditório para ser determinado o prosseguimento da ação de conhecimento n. 0733741-78.2024.8.07.0001.
+
+Requer, portanto, o provimento do recurso “para que seja revista a decisão interlocutória que determinou a suspensão do andamento do processo principal, permitindo o regular prosseguimento da Ação que visa o recebimento de acessão”.
+
+Preparo ao ID 69084960.
+
+O recurso foi inicialmente distribuído à eminente Desa. Carmen Bittencourt, que determinou a intimação da agravada para, querendo, apresentar contrarrazões (ID 69117876).
+
+Certidão ao ID 69728345 atesta ter decorrido o prazo assinado na decisão acima sem manifestação da agravada.
+
+Por meio da decisão ao ID 70393195, a eminente Desa. Carmen Bittencourt determinou a redistribuição do presente agravo de instrumento, bem como do agravo de instrumento n. 0733741-78.2024.8.07.0001 (interposto pela Santa Fé Construções contra a mesma decisão ora recorrida), a esta relatoria, considerando a prevenção decorrente do julgamento da apelação cível n. 0727270-51.2021.8.07.0001, por esta 7ª Turma Cível.
+
+Acolho a competência declinada.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora SANDRA REVES - Relatora
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Na ação de declaração do direito e de cobrança de Indenização por acessão n. 0733741-78.2024.8.07.0001, pretende a Saga o recebimento de indenização por acessão erigida no imóvel locado perante a Santa Fé Construções, situado no SGCV SUL, LOTE 12 – Brasília/DF, registrado sob a matrícula n. R.19-26754, do 4º Ofício de Registro de Imóveis do Guará/DF – CEP 71.215-620, por força de contrato iniciado em janeiro de 2000 e que perdurou até janeiro/2023.
+
+Por sua vez, a Santa Fé Construções ajuizou a ação de conhecimento n. 0727270-51.2021.8.07.0001 contra a Saga, e o Juízo de origem (7ª Vara Cível de Brasília), condenou a ré ao pagamento de R$2.245.000,00 (dois milhões, duzentos e quarenta e cinco mil reais), a título de indenização por danos materiais, corrigidos monetariamente pelo INPC e acrescidos de juros de mora de 1% (um por cento) ao mês desde o efetivo prejuízo.
+
+Na contestação apresentada pela Saga ao ID 107012039 (autos n. 0727270-51.2021.8.07.0001) a própria reconheceu ter realizado benfeitorias no imóvel, e não acessão, como matéria defensiva.
+
+Em síntese, alegou a Saga que não deveria ser obrigada a reparar os danos nas benfeitorias erigidas. Confira-se excerto de interesse:
+
+3.1 Relação contratual Entre as Partes – Benfeitorias Construídas – Imóvel Locado Não Era Novo
+
+(...)
+
+Antes de adentrar ao mérito das alegações formuladas pela autora, é importante salientar que a demandante promove a presente ação cobrando exclusivamente reparos do imóvel locado. O imóvel foi ocupado por mais de 20 anos, não está sendo pleiteado pela parte autora nesta demanda nenhuma verba de inadimplência, o que confirma a extrema boa-fé da locatária que cumpriu com todas as obrigações e encargos durante décadas de locação.
+
+Outro ponto que merece destaque, é o fato de ser impossível desconsiderar que a parte ré tenha usufruído do imóvel por 20 anos sem ter realizado nenhuma benfeitoria. A concessionária iniciou suas atividades em um imóvel muito menor que as proporções do imóvel atual.
+
+No curso da citada ação n. 0002929-41.2017.8.07.0001 (Ação de Despejo) fora produzido laudo pericial judicial (anexo) onde é possível notar que a certidão de matrícula do imóvel em discussão com data de 09/03/2000 (próximo ao início da locação) apresenta um imóvel com área total construída de 5.627,57 metros quadrados:
+
+(...)
+
+Já no laudo pericial produzido por perito nomeado em juízo no ano de 2018 é possível perceber que o mesmo imóvel ocupado pela parte ré durante todo tempo por meio de contrato de locação apresenta quase o dobro de área construída, veja as características apresentadas pelo perito:
+
+(...)
+
+Veja Excelência, durante o curso do contrato de locação a parte ré realizou benfeitorias que praticamente dobraram o tamanho da área construída no imóvel, por outro lado, a parte autora na exordial não demonstra nenhuma construção no imóvel durante todo o contrato de locação, já a parte ré ampliou consideravelmente a estrutura do imóvel, gastou milhões em benfeitorias para proporcionar aos clientes melhor atendimento, além de buscar o aumento do número de vendas ampliando as marcas a serem comercializadas. Obviamente que o contrato não perdurou por 20 anos com imóvel intacto, com as mesmas características de início.
+
+A questão foi decidida na sentença proferida nos autos n. 0727270-51.2021.8.07.0001, ao se reconhecer a existência de benfeitorias no imóvel e subsequente renúncia da locatária (Saga) à eventual indenização, ante expressa previsão contratual, além de responsabilizá-las pelos reparos necessários, ante a incorporação ao imóvel, in verbis:
+
+Em que pese a alegação da ré no sentido de que realizou benfeitorias no imóvel, o artigo 35, da Lei nº 8.245/91 ressalva a obrigação do locador de indenizar o locatário, salvo expressa disposição contratual, pelas benfeitorias necessárias e úteis erigidas no imóvel objeto da locação, vejamos:
+
+Art. 35. Salvo expressa disposição contratual em contrário, as benfeitorias necessárias introduzidas pelo locatário, ainda que não autorizadas pelo locador, bem como as úteis, desde que autorizadas, serão indenizáveis e permitem o exercício do direito de retenção.
+
+O enunciado de n. 335 do Superior Tribunal de Justiça estabelece que: “Nos contratos de locação, é válida a cláusula de renúncia a indenização das benfeitorias e ao direito de retenção”.
+
+Na mesma linha, orienta o aresto desta Corte de Justiça:
+
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONTRATO DE LOCAÇÃO. FALTA DE DIALETICIDADE. INÉPCIA DA PETIÇÃO INICIAL. CERCEAMENTO DE DEFESA. PRELIMINARES AFASTADAS. CLÁUSULA PENAL. COBRANÇA DE VALORES NÃO PREVISTOS NO CONTRATO. IMPOSSIBILIDADE. INDENIZAÇÃO POR BENFEITORIAS. DISPOSIÇÃO CONTRATUAL EXPRESSA EM CONTRÁRIO. DANOS MORAIS. NÃO OCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO. 1. A finalidade do princípio da dialeticidade é impelir o recorrente a estabelecer um diálogo com a decisão. Não há ofensa ao princípio da dialeticidade quando as razões recursais, ainda que minimamente, atacam os fundamentos da recorrida. 2. Não há que falar em inépcia da petição inicial quando não estiver presente nenhum dos casos previstos no art. 330, § 1°, do Código de Processo Civil: i) lhe faltar pedido ou causa de pedir; ii) o pedido for indeterminado; iii) da narração dos fatos não decorrer logicamente a conclusão; iv) contiver pedidos incompatíveis entre si. 3. O magistrado é o destinatário da instrução probatória, de modo que a ele cabe determinar as providências indispensáveis à instrução do feito e aferir a necessidade de formação de outros elementos para apreciação da demanda. 4. A multa cobrada pelo locador em desacordo com a estipulação contratual é indevida. 5. As benfeitorias necessárias introduzidas pelo locatário, ainda que não autorizadas pelo locador, bem como as úteis, desde que autorizadas, serão indenizáveis, salvo expressa disposição contratual em contrário. 6. É válida a cláusula contratual que estabelece renúncia à indenização por benfeitorias. Súmula 335 do Superior Tribunal de Justiça. 7. O dano moral decorre de uma violação de direitos da personalidade, atingindo, em última análise, o sentimento de dignidade da vítima. Pode ser definido como a privação ou lesão de direito da personalidade, independentemente de repercussão patrimonial direta, desconsiderando-se o mero mal-estar, dissabor ou vicissitude do cotidiano, sendo que a sanção consiste na imposição de uma indenização, cujo valor é fixado judicialmente, com a finalidade de compensar a vítima, punir o infrator e prevenir fatos semelhantes que provocam insegurança jurídica. 8. Ausente violação dos direitos de personalidade, não está configurado o dano moral. 9. Não verificada a prática de quaisquer das condutas enumeradas nos incisos do art. 80 do Código de Processo Civil, mostra-se incabível a condenação da parte por litigância de má-fé. 10. Apelação parcialmente provida. (APC 07139371-92.018.8.07.0007, Rel. Desembargador: Hector Valverde, 5ª Turma Cível, julgado em: 26/8/2020, DJE: 10/9/2020)
+
+No caso em questão, o contrato de locação entabulado entre as partes (ID Num. 62267803 - Pág. 6), na Cláusula IX, estabelece que:
+
+(...)
+
+Do exposto, a tese da ré de que não poderia arcar com os custos dos reparos das benfeitorias realizadas no imóvel restou expressamente afastada, amoldando-se à ressalva contida na lei de locações.
+
+Contra a sentença, a Saga interpôs apelação, mas sequer questionou a natureza jurídica das obras realizadas. Ao revés, insistiu na impossibilidade de reparo nas benfeitorias realizadas, consoante trecho a seguir reproduzido:
+
+4.3.3 Ad Argumentandum - Reforma da Sentença – Benfeitorias Não Indenizáveis Incluídas na Reforma do Imóvel
+
+Conforme demonstrado pela parte recorrente, o imóvel foi inicialmente locado com área total construída de 5.627,57 metros quadrados. No curso da locação a parte recorrente construiu, ou seja, ampliou o imóvel com mais de 5 mil metros quadros de construção.
+
+É certo que o contrato de locação prevê que benfeitorias não serão indenizáveis, a recorrente não solicitou, em nenhum momento, ser indenizada por benfeitorias realizadas.
+
+Porém, o que se constata nos autos é que a sentença está determinando a reforma da totalidade do imóvel, conforme orçamento elaborado pelo perito no laudo pericial, indenizando todos os módulos orçados.
+
+Verifica-se que o próprio perito não conseguiu distinguir o que foi dano causado em decorrência de desgaste natural ou dano causado pela recorrente no curso da locação, além disso, o próprio perito afirmou que a ausência de cotejo entre vistoria inicial e final prejudica impossibilita o cotejo de danos. Evidente que a ausência destas provas fez com que o perito elaborasse um laudo pericial estimando reparos na totalidade do imóvel objeto de discussão nos autos.
+
+Entretanto, em que pese constar no contrato que as benfeitorias não serão indenizáveis, não consta no contrato e nem mesmo na lei de locação a exigência de que a locatária deve fazer reparos em benfeitorias para entregar o imóvel locado.
+
+Repisa-se, restou demonstrado que a locatária ampliou, ou seja, construiu mais de 5 mil metros quadrados o que configura benfeitoria.
+
+(...)
+
+A recorrente arguiu em defesa e embargos de declaração a necessidade de se decotar, ou seja, retirar do orçamento da perícia a reforma de benfeitorias, pois não é obrigação da recorrente, como locatária, reformar benfeitoria para entrega do imóvel, aqui é uma interpretação extensiva e prejudicial para uma das partes, especificamente a recorrente.
+
+(...)
+
+Não é crível imaginar que, além de ter que indenizar a recorrida na totalidade do imóvel, sem qualquer ata de vistoria inicial para cotejo com vistoria final que comprove que a recorrente causou danos no imóvel, a recorrente ainda tenha que suportar as despesas de reparos em benfeitorias, sem qualquer previsão legal que a obrigue.
+
+Neste ponto, caso seja mantida a sentença condenatória, deve ocorrer a reforma para determinar a exclusão da necessidade de reforma de benfeitorias realizadas no imóvel, não cabendo a recorrida ser condenada a reformar a totalidade do imóvel, excluindo da necessidade de reparos os mais de 5 mil metros quadros construídos.
+
+Ao julgar a apelação da Saga, bem como recurso da Santa Fé Construções, a e. 7ª Turma Cível também se debruçou sobre o tema, prevalecendo o entendimento de que as obras erigidas ostentam natureza jurídica de benfeitorias e que foram incorporadas ao imóvel para todos os efeitos contratuais, sem direito de retenção/indenização, nos termos do voto vencedor, desta Relatoria, ad litteris (excerto):
+
+Em caráter subsidiário, assevera que o imóvel foi inicialmente locado com área total construída de 5.627,57 m² (cinco mil seiscentos e vinte e sete vírgula cinquenta e sete metros quadrados), mas ampliou o imóvel em mais de 5.000 m² (cinco mil metros quadrados).
+
+Muito embora conste do contrato que as benfeitorias construídas não sejam indenizáveis, entende que a condenação não deve alcançar o acréscimo realizado, por ausência de previsão legal. Consequentemente, defende o decote da quantia, para a reforma, correspondente às benfeitorias que erigiu.
+
+Quanto ao ponto, não há hesitação que a Saga ampliou a área construída no curso da locação, conforme vaticina o perito judicial (ID 52960666, p. 35):
+
+Quesito 01: Considerando a documentação apresentada, especialmente laudo pericial id’s n. 107012044 e 107015198 onde contém escritura pública do imóvel, queira o Sr. Perito informar qual era o tamanho da área construída em metros quadrados em março de 2000? E qual tamanho da área construída na data de desocupação do imóvel? Resposta 01: De acordo com o que consta na Escritura Pública do imóvel objeto desta perícia, a área construída ali informada é de 5.627,57m², na data de 09 de março de 2000. Porém, verifica-se que mais adiante, neste mesmo documento ID 107015198, consta o IPTU emitido pela Secretaria de Fazenda do Distrito Federal, onde a área ali registrada é de 11.127,66m², referente ao exercício do ano de 2018.
+
+Quesito 02: Queira o Dr. Perito informar qual tamanho da área construída exclusivamente pela parte ré durante o contrato de locação? Essa área construída pela parte ré pode ser considerada uma benfeitoria? Valorizou o imóvel? Resposta 02: De acordo com as informações constantes da resposta ao quesito anterior, a área construída exclusivamente pela parte ré durante o contrato de locação é de 5.500,09m² (resultado da subtração entre as áreas informadas na resposta ao quesito nº 01, acima). Considerando a localização do imóvel, bem como a sua destinação, pode se dizer que este acréscimo de área valorizou o imóvel em tela.
+
+Porém, conforme Cláusula IX – Benfeitorias do contrato celebrado entre as partes, in verbis:
+
+A LOCATÓRIA não poderá exigir indenização pelas benfeitorias que fizer no imóvel, sejam voluptuárias, úteis ou necessárias, e caso realizadas, não lhe autorizarão o exercício do direito de retenção (art. 578 do Código Civil), ficando desde logo incorporadas ao imóvel. Todas as instalações e benfeitorias realizadas na área ora locada serão a ela incorporadas, para todos os efeitos contratuais, inclusive para efeito de avaliação do aluguel, no caso de renovação da locação.
+
+A Saga sequer pleiteia indenização pelas benfeitorias construídas, reconhecendo a validade da cláusula contratual destacada.
+
+Precisamente quanto à indenização para reparo das benfeitorias realizadas, a cláusula contratual acima estipula que as benfeitorias realizadas foram incorporadas ao imóvel “para todos os efeitos contratuais”.
+
+Em face da sua incorporação ao imóvel, sem direito ao exercício do direito de retenção, não se identifica motivo hábil para afastar a necessidade de repará-las.
+
+Complementarmente, mister registrar que, segundo o laudo pericial, a Saga não apresentou provas em que constituiu as benfeitorias realizadas (a exemplo de projetos de arquitetura e de execução), não sendo possível individualizá-las. Significa dizer, induvidosa a realização das benfeitorias, mas não é possível identificá-las, ad litteris (ID 52960686, p. 3/4):
+
+QUESTIONAMENTO 03: Em relação a resposta formulada no quesito 8 (Num. 131125454 - Pág. 38), o Perito afirma que ao fazer a análise do imóvel, os danos constatados são "existentes como decorrentes tanto do desgaste natural como de mau uso da parte ré. Considerando que a parte ré não está obrigada a reparar itens de desgaste natural, requer ao Douto perito que descreva com exatidão aquilo que é item de desgaste natural não reparável e que retire tais itens das planilhas orçamentárias. Resposta 03: Conforme já informado nas respostas anteriores, o Perito não tem condições de orçar ou mesmo estimar o valor gasto na construção das benfeitorias construídas exclusivamente pela Saga, uma vez que não existem projetos que permitam separar tais benfeitorias do restante do prédio e assim levantar essas informações.
+
+(...)
+
+QUESTIONAMENTO 06: Por fim, requer que o perito informe o valor estimado que foi gasto com a construção no 5.500,09m2 (benfeitorias) que foram construídos exclusivamente pela Saga. Resposta 06: Conforme já informado nas respostas anteriores, o Perito não tem condições de orçar ou mesmo estimar o valor gasto na construção das benfeitorias construídas exclusivamente pela Saga, uma vez que não existem projetos que permitam separar tais benfeitorias do restante do prédio e assim levantar essas informações.
+
+Essa condição reforça o desfecho pela necessidade de reparar todo o imóvel, sem distinção da área que edificou.
+
+Não se desconhece que os eminentes Desembargadores Maurício Silva Miranda (1º Vogal) e Fabrício Fontoura Bezerra (2º Vogal) adotaram o entendimento de que as obras realizadas possuem a natureza jurídica de acessões. Porém, prevaleceu a compreensão de serem benfeitorias, haja vista os eminentes Desembargadores Getúlio Moraes Oliveira e Robson Barbosa de Azevedo terem proferidos votos acompanhando a Relatora.
+
+Por pertinente, o Acórdão 1809282 (autos n. 0727270-51.2021.8.07.0001) foi assim ementado:
+
+APELAÇÃO. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PRELIMINARES DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE REJEITADAS. PRELIMINAES DE NULIDADE DA SENTENÇA POR INÉPCIA DA PETIÇÃO INICIAL E CERCEAMENTO DE DEFESA REJEITADAS. RELAÇÃO LOCATÍCIA. NECESSIDADE DE REPAROS NO IMÓVEL. INDENIZAÇÃO. PREVALÊNCIA DO LAUDO OFICIAL. SUCUMBÊNCIA RECÍPROCA. APLICAÇÃO DO ART. 86, CAPUT, DO CPC. RECURSO DA AUTORA CONHEDIDO E DESPROVIDO. RECURSDO DA RÉ CONHECIDO E PARCIALMENTE PROVIDO. 1. Se da leitura integral das razões recursais é possível compreender, com clareza, que o recurso questiona o conteúdo e fundamentos da sentença, visando demonstrar a necessidade de reforma do julgamento, inexiste afronta ao princípio da dialeticidade. Preliminares de não conhecimento dos recursos rejeitadas. As duas partes suscitaram a preliminar. 2. A teor do art. 320 do CPC, o laudo de vistoria inicial não deve ser considerado como documento indispensável ao ajuizamento da ação indenizatória, decorrente de relação locatícia não residencial, quando possível aquilatar os danos por outros meios probatórios, e há declaração expressa da locatária que alugou o imóvel em bom estado de conservação. Preliminar de inépcia da petição inicial, suscitada pela ré/locatária, rejeitada. 3.  Instada a se manifestar sobre especificação de provas, a locatária pleiteou apenas realização de prova pericial. O Juízo deferiu o pedido, e o laudo foi confeccionado por profissional habilitado no CREA/DF, bem como prestou esclarecimentos em duas oportunidades. Logo, não há falar em cerceamento de defesa por ausência de audiência de instrução para oitiva do perito (art. 477, § 3º, do CPC), a qual, inclusive, o próprio locatório entendeu ser facultativa a sua designação após a manifestação final do auxiliar do juízo. Preliminar de nulidade da sentença por cerceamento de defesa, suscitada pela locatária, rejeitada. 4. Se há divergência entre as partes quanto ao valor necessário para os reparos do imóvel objeto do contrato, deve prevalecer o laudo elaborado pelo perito judicial, dotado de isenção e imparcialidade, mormente ante a inexistência de fundamentos hábeis a refutar a conclusão do profissional habilitado. Recurso da locadora desprovido. 5. A locatária realizou benfeitorias no imóvel que foram incorporadas ao imóvel, conforme previsão contratual, e não são passíveis de individualização, inclusive por falta de projetos de arquitetura/engenharia e de execução do que foi erigido. Assim, escorreito o laudo pericial, bem como a sentença, ao considerar que os reparos devem alcançar todo o imóvel (arts. 944 e 927 do Código Civil). Recurso da ré/locatária desprovido, neste ponto. 6. O Juízo de origem adotou os parâmetros indenizatórios indicados pelo laudo pericial, mas referentes às primeiras planilhas apresentadas. Porém, após impugnação da locatária, o perito judicial as retificou, decotando alguns itens do orçamento. Assim, para evitar enriquecimento sem causa (art. 844 do Código Civil), reforma-se parcialmente a sentença para adequação do quantum indenizatório indicado pelo perito ao final do seu trabalho. Recurso da ré/locatária provido, neste ponto. 7. Reconhecida a sucumbência recíproca e equivalente, ante a condenação ao pagamento de indenização em montante correspondente, aproximadamente, à metade do valor pleiteado, deve o ônus de sucumbência ser repartido, no patamar de 50% (cinquenta por cento) para cada parte, na forma do art. 86, caput, do CPC, mantido o parâmetro adotado na sentença, qual seja, 10% (dez por cento) sobre o valor da condenação, na forma do art. 85, § 2º, do CPC. Recurso da ré/locatária provido, neste ponto. 8. Recurso da locatária conhecido e parcialmente provido. Recurso da locadora conhecido e desprovido. (Acórdão 1809282, 0727270-51.2021.8.07.0001, Relator(a): SANDRA REVES, 7ª TURMA CÍVEL, data de julgamento: 07/02/2024, publicado no DJe: 29/02/2024.)
+
+Contra o reportado acórdão, a Saga interpôs Recurso Especial, quando então começou a alegar a ter realizado acessão no imóvel locado, e não benfeitoria, fazendo remissão ao voto do eminente Des. Fabrício Fontoura Bezerra. Confira-se (ID 59909377 – autos n. 0727270-51.2021.8.07.0001):
+
+26. Não obstante, veja-se que o e. Tribunal, ao proferir a decisão recorrida, determinou a reforma integral do imóvel. Quer dizer, deixou de limitar a responsabilidade da locatária, proferindo interpretação divergente do art. 23, inc. III, da Lei do Inquilinato, que determina que o locatário deve restituir o imóvel, finda a locação, no estado em que o recebeu.
+
+27. Importante ressaltar, conforme bem esclarece o Ilustre desembargador Fabrício Fontoura no voto de divergência do acórdão recorrido, a construção promovida pela recorrente caracteriza verdadeira acessão, podendo, inclusive, ser objeto de pedido indenizatório, nos termos do artigo 1.255 do CC.
+
+28. Portanto, o acórdão ao tratar o caso como benfeitoria e não acessão, feriu diretamente a correta interpretação que deve se extrair dos termos do artigo 1.248 c/c 1.255 do CC.
+
+29. Ademais, a edificação valorizou o imóvel locado, conforme esclarece o laudo pericial que faz parte dos autos.
+
+30. Deveras, se a edificação promovida pela Recorrente, em uma área total de 5.627,57 metros quadrados, durante o curso do contrato de locação caracteriza acessão, é evidentemente errôneo, determinar a reforma integral do imóvel, deixando de limitar a responsabilidade do locatário, ao contrário do que ensina o art. 23, inc. III, da Lei do Inquilinato.
+
+31. Ou seja, o acórdão atacado determina que a locatária reforme integralmente aquilo que ela própria edificou, área de 5.627,57 metros quadrados que não fazia parte do contrato de locação quando locou.
+
+32. Em recente decisão proferida pelo Superior Tribunal de Justiça, no REsp 1.931.087 restou reconhecido a locatária o direito de ser indenizada por obras que caracterizem acessão. 17
+
+33. Portanto, uma vez reconhecida a existência de acessão, d.m.v, foi desacertado o v. acórdão recorrido ao estabelecer a obrigação da recorrente de promover reforma do que edificou.
+
+34. Não obstante, ainda que não se reconheça a existência de acessão, mesmo que a edificação promovida pela Recorrente, em uma área total de 5.627,57 metros quadrados, durante o curso do contrato de locação, seja caracterizada como benfeitoria, ainda sim, equivocou-se o acórdão, eis que a locatária não está obrigada a reformar benfeitorias, a obrigação da recorrente é limitada, nos termos do art. 23, inc. III, da Lei do Inquilinato, o locatário deve restituir o imóvel, finda a locação, no estado em que o recebeu.
+
+35. Portanto, em nenhum dos casos, seja no caso de acessão ou no caso de benfeitorias, há expressa determinação legal para que a locatária realize reformas na integralidade do imóvel, ou seja, determinação para que reforme aquilo que ela própria construiu.
+
+36. O acórdão proferido precisa ser revisto, primeiro porque a Ilustre relatoria trata a matéria como que a construção realizada pela Recorrente fosse benfeitoria, o que ficou demonstrado que não é, portando, o v. acórdão recorrido fere os termos dos arts. 1248 c/c 1255 do CC.
+
+37. Além disso, fere diretamente os termos do artigo 23, inc. III, da Lei do Inquilinato, haja vista a interpretação ampla e prejudicial em face da locatária que ficou obrigada a reformar edificação que construiu, interpretação que fere o supracitado dispositivo legal, deixando de limitar a responsabilidade da locatária.
+
+A Santa Fé Construções interpôs Recurso Especial Adesivo, para majoração dos honorários recursais (ID 62824469 - autos n. 0727270-51.2021.8.07.0001).
+
+O Recuso Especial interposto pela Saga foi inadmitido e o Recurso Especial Adesivo da Santa Fé não foi conhecido, consoante decisões da d. Presidência aos ID’s 63389231 e 63389238, respectivamente (autos n. 0727270-51.2021.8.07.0001).
+
+O agravo interposto pela Saga foi remetido ao Superior Tribunal de Justiça (ID 65617657) e o agravo interposto pela Santa Fé não foi conhecido (ID 65618883 - n. 0727270-51.2021.8.07.0001).
+
+No Agravo em Recurso Especial n. 2809318/DF, interposto pela Saga, a eminente Ministra Nancy Andrighi assim decidiu (trecho), em 2/4/2025:
+
+- Do reexame de fatos e provas Alterar o decidido no acórdão impugnado, para acolher as alegações da parte agravante que vão no sentido de que (i) a construção realizada em área total superior à originalmente locada caracteriza verdadeira acessão, não sendo caso de benfeitoria; (ii) a ata notarial não é válida para comprovar dos danos, uma vez que feita unilateralmente e (iii) necessidade do laudo de vistoria inicial para comprovação dos danos ao imóvel, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+
+(...)
+
+Modificar a conclusão do Tribunal de origem no sentido de que é desnecessária a produção de outras provas para o julgamento da lide implica reexame de fatos e provas. Incide a Súmula 7 do STJ quanto ao tema.
+
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+
+Diante da ausência de trânsito em julgado o Acórdão n. 1809282, despiciendo o exame se há coisa julgada material, para possível aplicação do art. 508 do CPC.
+
+Entretanto, necessária a análise se o fenômeno processual da litispendência, matéria de ordem pública, deve ser aplicado à hipótese.
+
+Nesse sentido:
+
+APELAÇÃO. EMBARGOS À EXECUÇÃO. LITISPENDÊNCIA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. I – Ocorre a litispendência quando há reprodução de ação anteriormente ajuizada, com identidade de partes, causa de pedir e pedido, art. 337, §§ 1º, 2º e 3º, do CPC. II – A existência de litispendência leva à extinção do processo sem exame do mérito, com fundamento no art. 485, inc. V, do CPC. III - Apelação conhecida, litispendência reconhecida de ofício, processo extinto sem exame do mérito. (Acórdão 1863743, 0735133-24.2022.8.07.0001, Relator(a): VERA ANDRIGHI, 6ª TURMA CÍVEL, data de julgamento: 15/05/2024, publicado no DJe: 29/05/2024.)
+
+Dito isso, em conformidade com o art. 337, §§ 1º e 2º, do CPC[1], ocorre litispendência se reproduz ação anteriormente ajuizada e “uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido”.
+
+Tem-se, pois, que o diploma processual civil, que incorporou a teoria da tríplice identidade, registra haver litispendência na reprodução de ação idêntica, com as mesmas partes, pedido e causa de pedir, que já foi decidida por decisão transitada em julgado. Nesse ínterim, havendo convergência no tocante a estes três elementos de identificação, configura-se a litispendência.
+
+Todavia, tendo em vista que o critério da tripla identidade, em uma exegese restritiva, é incapaz de solucionar todas as contendas que exponham eventuais conflitos entre pronunciamentos judiciais diferentes, tem-se adotado, para análise do fenômeno da litispendência, assim como da coisa julgada, a teoria da identidade da relação jurídica. Por esta, "o que importa é a identificação da relação jurídica discutida nas demandas, se é essencialmente a mesma, conquanto existam diferenças em relação a alguns elementos, ou seja, a litispendência deve sobrepujar a análise meramente literal dos elementos da ação, pois seu objetivo é evitar, de forma efetiva, que sejam movidos, concomitantemente, diversos processos que tenham o mesmo resultado prático". (Acórdão n.1072131, 20150110867294APC, Relator: ALFEU MACHADO 6 TURMA CÍVEL, Data de Julgamento: 31/01/2018, Publicado no DJE: 06/02/2018. Pág.: 538/563)
+
+Acerca da teoria da identidade da relação jurídica, pertinente o escólio do Professor da UERJ, André Vasconcelos Roque (in Comentários ao código de processo civil. Fernando da Fonseca Gajardoni et al. 5ª ed. Rio de Janeiro: Forense, 2022, p. 535):
+
+O CPC segue a concepção tradicionalíssima da tríplice identidade (tria eadem). Duas demandas são idênticas quando possuem as mesmas partes, causa de pedir e pedido. (...) Por vezes, haverá litispendência mesmo não preenchido o critério da tríplice identidade, se a pretensão for substancialmente a mesma, ainda que por meios processuais distintos. (...) Tais circunstâncias evidenciam a insuficiência do critério da tríplice identidade, que pode funcionar como um bom ponto de partida, mas não resolve todos os casos. Por vezes, é necessário recorrer a critério complementar, que se soma à tríplice identidade, qual seja, o da identidade da relação jurídica. De acordo com tal critério, se duas ações se pautarem em situação jurídica material de mesmo conteúdo, haverá identidade de demanda.
+
+O mesmo defende Marinoni[2]:
+
+Embora o critério da tríplice identidade tenha sido positivado entre nós, é possível ainda cotejar ações pelo critério da relação jurídica base para chegar-se à conclusão de que há litispendência ou coisa julgada entre ações sem que essas tenham as mesmas partes, causa de pedir e pedido. Isso porque o critério fornecido pelo tria eadem pode ser insuficiente para resolver problemas atinentes à identificação e semelhança entre as ações em determinadas situações. Nesses casos, além de empregar-se o critério da tríplice identidade, pode-se recorrer subsidiariamente ao critério da relação jurídica base a fim de se saber se há ou não ação repetida em determinado contexto litigioso.
+
+Da análise dos autos, incontroversa a identidade de partes.
+
+Em relação à causa de pedir dos autos n. 0733741-78.2024.8.07.0001, a autora/agravante defende ter realizado acessão no imóvel locado (art. 1.225 do Código Civil) e, quanto ao pedido, pretende o recebimento de indenização pela mencionada acessão.
+
+Todavia, em consonância com o exposto linhas acima, nos autos n. 0727270-51.2021.8.07.0001, a questão já foi dirimida, concluindo-se que as obras realizadas possuem natureza jurídica de benfeitorias, com respectiva incorporação ao imóvel e sem direito à indenização, mediante aplicação do art. 578 do Código Civil e da Cláusula IX do contrato celebrado entre as partes.
+
+Verifica-se, assim, identidade entre a causa de pedir e pedido nas demandas, consubstanciada na pretensão de considerar acessão as obras erguidas, com subsequente direito à indenização. Logo, configurada a hipótese de litispendência, disciplinada no art. 337, § 3º, do CPC.
+
+Essa também é interpretação exarada pela eminente Desa. Carmen Bittencourt na decisão que declinou da competência (ID 70393195), in verbis:
+
+De fato, há de se concluir que a matéria analisada pela 7ª Turma Cível na ação indenizatória n. 0727270-51.2021.8.07.0001, ainda que tenha sido suscitada como defesa pelo réu, ensejou o entrelaçamento das análises relativas à natureza jurídica das construções, que foram classificadas como benfeitorias, cuja discussão fora rica e minudente - acórdão de ID. 55688584 da APC n. 0727270-51.2021.8.07.0001 -, e que inclusive resultou na adoção da estratégia jurídico-processual pela SAGA em seus embargos de declaração, REsp interposto ao c. STJ, e em ação judicial autônoma.
+
+A existência, portanto, da ação de reconhecimento de acessão originária destes recursos, de n. 0733741-78.2024.8.07.0001, detém vínculo decorrente do julgamento da APC 0727270-51.2021.8.07.0001, uma vez que busca a reclassificação jurídica de bens imóveis em relação aos quais a 7ª Turma Cível já se manifestou.
+
+De mais a mais, não se pode olvidar que a classificação das construções na ação indenizatória n. 0727270-51.2021.8.07.0001, muito embora tenha decorrido de matéria suscitada pela defesa, fora objeto apreciado e decidido expressamente na sentença proferida naqueles autos (ID. 52960852 daqueles autos), matéria que sequer fora objeto de impugnação expressa da SAGA na sua apelação (ID. 52960865, daqueles autos), mas que precisava ser analisada e resolvida pela Eg. 7ª Turma Cível como premissa para a solução do pedido de redução da base de cálculo da indenização.
+
+Incontestável, portanto, que a classificação, e análise, das construções como instalações e benfeitorias, na forma que ocorrera pela 7ª Turma Cível, decorre do princípio Iura novit curia.
+
+Nesse contexto, tem-se que o fenômeno da litispendência obsta que as partes renovem as mesmas situações jurídicas à apreciação do Poder Judiciário de forma infindável, em afronta à segurança jurídica e retardando a prestação jurisdicional. No caso, ainda que o pedido da ação ajuizada pela Santa Fé Construções não seja totalmente idêntico ao da ação ajuizada pela Saga, verifica-se o óbice da litispendência, porquanto a questão debatida na segunda demanda já foi decidida na primeira, ainda que alguns elementos identificadores da ação sejam distintos.
+
+Nessa linha de raciocínio, confiram-se julgados desta e. Corte de Justiça, ad litteris:
+
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. LITISPENDÊNCIA. EXISTÊNCIA. PARCELAS SUCESSIVAS DECORRENTES DO MESMO CRÉDITO. SENTENÇA MANTIDA. 1. Segundo a teoria da identidade da relação jurídica material, a litispendência deve ser reconhecida a partir da essência da relação jurídica, não se restringindo à mera análise literal dos elementos da ação.  2. Tratando-se de parcelas sucessivas decorrentes do mesmo crédito, aplica-se o art. 541 do CPC, que disciplina que: “Tratando-se de prestações sucessivas, consignada uma delas, pode o devedor continuar a depositar, no mesmo processo e sem mais formalidades, as que se forem vencendo, desde que o faça em até 5 (cinco) dias contados da data do respectivo vencimento.” 3. Recursos desprovidos. (Acórdão 1906289, 0741098-80.2022.8.07.0001, Relator(a): GETÚLIO DE MORAES OLIVEIRA, 7ª TURMA CÍVEL, data de julgamento: 21/08/2024, publicado no DJe: 29/08/2024.)
+
+PROCESSUAL CIVIL. AÇÃO MONITÓRIA. OBJETO. DÉBITO REFERENTE A CÁRTULAS DE CHEQUE DADAS EM GARANTIA EM TERMO DE CONFISSÃO DE DÍVIDA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TÍTULO EXEQUENDO. TERMO DE CONFISSÃO DE DÍVIDA. CRÉDITO CUJA SATISFAÇÃO É PERSEGUIDA. DEMANDAS. OBJETO.  IDENTIDADE. LITISPENDÊNCIA. CONFIGURAÇÃO. IDENTIFICAÇÃO DA CAUSA DE PEDIR E DO PEDIDO. TEORIA DA TRÍPLICE IDENTIDADE. MITIGAÇÃO. APLICAÇÃO DA TEORIA DA RELAÇÃO JURÍDICA. POSSIBILIDADE DE PAGAMENTO EM DUPLICIDADE. DECISÕES CONFLITANTES. PREJUÍZO. LITISPENDÊNCIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO DA AÇÃO PROMOVIDA POR DERRADEIRO. APELO DESPROVIDO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. MAJORAÇÃO DA VERBA ORIGINALMENTE FIXADA. SENTENÇA E APELO FORMULADOS SOB A ÉGIDE DA NOVA CODIFICAÇÃO PROCESSUAL CIVIL (CPC, ART. 85, §§ 2º E 11). 1.    Como regra geral adotada pelo ordenamento jurídico e acompanhada pela doutrina e jurisprudência, o reconhecimento da litispendência reclama a existência de juízo de identidade entre as ações replicadas, consubstanciada a identificação na simetria entre as partes, a causa de pedir e o pedido (CPC, art. 337, §§2º e 3º), ensejando que, em não ocorrendo a completa identificação entre as lides, não se descortina a litispendência como corolário do direito subjetivo de ação que é resguardado a todos. 2.    Como critério de exceção, germinado de circunstâncias pragmáticas em que, nada obstante a inexistência de identidade entre as partes, mas que o objeto perseguido e a causa de pedir são idênticas, numa estrita relação de prejudicialidade, passível não só de gerar decisões dissonantes, mas de beneficiar indevidamente o credor pelo possível pagamento em duplicidade, entre outras hipóteses casuisticamente apreensíveis, revelando a insuficiência do critério positivado, a doutrina e jurisprudência passaram a reconhecer circunstâncias pontuais nas quais o critério legal da tria eadem deve sofrer mitigação, incorporando Teoria da Identidade da Relação Jurídica. 3.    Tratando-se de hipótese em que a obrigação jurídica é una, tendo sido objeto de ações diversas visando a alcançar o devedor principal numa e os devedores subsidiários (garantes) noutra, ressai hialina a caracterização do instituto processual da litispendência, devendo a ação superveniente ser extinta sem apreciação do mérito, porquanto sobeja impassível que a relação substancial existente e que dera origem à obrigação perseguida em ambas as ações é a mesma, bem como que o objeto das demandas detém relação de perfeita identidade, ainda que a estrita natureza e a peculiar qualidade de cada um dos devedores - principal e garantidores (subsidiários) - seja diversa, tendo a parte autora se valido de instrumentos diversos para alcançar o mesmo fim, consoante a Teoria da Identidade da Relação Jurídica.   4.    O desprovimento do recurso implica a majoração dos honorários advocatícios originalmente imputados à parte recorrente, porquanto o novo estatuto processual contemplara o instituto dos honorários recursais, devendo a majoração ser levada a efeito mediante ponderação dos serviços executados na fase recursal pelos patronos da parte exitosa e guardar observância à limitação da verba honorária estabelecida para a fase de conhecimento (NCPC, arts. 85, §§ 2º e 11). 5.    Conquanto o preceptivo inserto no §11 do artigo 85 do novo estatuto processual somente se reporte à majoração dos honorários originalmente fixados na hipótese de desprovimento do recurso, a interpretação lógico-sistemática da regulação em ponderação com os princípios da igualdade e isonomia processuais que também encontra ressonância legal (CPC, art. 7º) enseja a constatação de que, desprovido o apelo, ainda que a parte recorrida não houvesse sido sujeitada a cominação sucumbencial originalmente, deve necessariamente ser sujeitada a honorários de sucumbência recursal, porquanto a gênese e destinação da cominação é a remuneração dos serviços realizados pelos patronos da parte que se sagra vencedora após a prolação da sentença. 6.    Recurso conhecido e desprovido. Sentença mantida. Honorários recursais fixados. Unânime. (Acórdão 1334913, 07086599520188070020, Relator: TEÓFILO CAETANO, 1ª Turma Cível, data de julgamento: 22/4/2021, publicado no DJE: 5/5/2021. Pág.: Sem Página Cadastrada.)
+
+CIVIL. PROCESSUAL CIVIL. RESSARCITÓRIA. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. RESTITUIÇÃO DE PARCELAS PAGAS E LUCROS CESSANTES. COISA JULGADA. AÇÃO AJUIZADA PARA COMPROVAR PAGAMENTOS. PRINCÍPIO DA EVENTUALIDADE. ÔNUS DA IMPUGNAÇÃO ESPECÍFICA EM CONTESTAÇÃO. EFICÁCIA PRECLUSIVA DA COISA JULGADA MATERIAL. TRÍPLICE IDENTIDADE. TEORIA DA IDENTIDADE DA RELAÇÃO JURÍDICA. NOVA OPORTUNIDADE DE PRODUÇÃO DE PROVAS. IMPOSSIBILIDADE. SENTENÇA MANTIDA. 1. Trata-se de apelação interposta em face de sentença que extinguiu o processo, nos termos do artigo 485, incisos V e VI, do CPC, ao acolher a preliminar de coisa julgada.  2. "O art. 508 do Novo CPC prevê que com o trânsito em julgado considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia ter levado ao processo para fundamentar tanto o acolhimento como a rejeição do pedido. Trata-se de eficácia preclusiva da coisa julgada" (NEVES, Daniel Amorim Assumpção. MANUAL DE DIREITO PROCESSUAL CIVIL - Volume único. 9 ed. - Salvador: Ed. JusPodivm, 2017; pg. 894). 3. Nos termos do artigo 341 do CPC, presumem-se verdadeiros os fatos não impugnados especificamente pelo réu em sua contestação, sendo, portanto, um ônus atribuído à parte requerida rebater pontualmente os argumentos trazidos pela parte autora, sob pena de preclusão consumativa. 4. Aplica-se ao caso concreto o princípio da eventualidade, consagrado nos artigos 336 e 342, ambos do CPC, exigindo-se do réu, na contestação, a exposição de todas as matérias de defesa, cumulativa e alternativamente, ainda que, por vezes, configurem defesas incompatíveis entre si. As únicas exceções à obrigatoriedade da concentração das defesas são aquelas trazidas pelo artigo 342 do diploma processual, o que não se amolda à hipótese dos autos. 5. Não obstante positivada no ordenamento pátrio, e malgrado sirva de parâmetro fundamental para o reconhecimento dos casos de litispendência e coisa julgada, a regra da Tríplice Identidade, em determinadas situações, pode se revelar insuficiente ao propósito que se destina: aferir a similitude entre as demandas, evitando o reexame de questão coincidente.  Haverá casos em que, mesmo diante da ausência de absoluta identidade dos elementos da ação, o magistrado deve examinar se a relação jurídica é a mesma (Teoria da Identidade da Relação Jurídica). 6. Possibilitar a análise dos documentos acostados pelo autor, representativos dos pagamentos efetuados, implicaria, a toda evidência, em nova oportunidade de produção probatória, o que não pode ser admitido, sob pena de clara violação das normas processuais civis. 7. Recurso conhecido e desprovido. (Acórdão 1280203, 07356247020188070001, Relator: SANDOVAL OLIVEIRA, 2ª Turma Cível, data de julgamento: 9/9/2020, publicado no DJE: 16/9/2020. Pág.: Sem Página Cadastrada.)
+
+No âmbito do Superior Tribunal de Justiça, colhem os seguintes precedentes, comungando da mesma acepção:
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LITISPENDÊNCIA. IDENTIDADE JURÍDICA. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO IMPROVIDO. 1. No caso em análise, o Tribunal de origem reconheceu a ocorrência de litispendência em relação a alguns dos autores, por haver processos pendentes que detêm o mesmo objeto jurídico, apesar de possuírem parcial diferença em relação ao polo passivo. 2. A posição firmada no acórdão recorrido está em consonância com a jurisprudência desta Corte de que o fenômeno da litispendência se caracteriza quando há identidade jurídica, ou seja, quando as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas. Precedentes. 3. Nesse sentido, para se verificar a existência de litispendência, seria necessário o cotejo entre as demandas, a fim de se analisar a identidade jurídica entre elas, o que é vedado na via especial, em face do óbice da Súmula n. 7/STJ. 4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.851.059/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/3/2022, DJe de 7/4/2022.)
+
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. ANULAÇÃO DA PORTARIA. REINTEGRAÇÃO. LITISPENDÊNCIA. AÇÃO DE RITO ORDINÁRIO. PROCESSO EXTINTO. SEGURANÇA DENEGADA. 1. Conforme se depreende da síntese dos fundamentos da impetração, o requerente serve-se da expedita via do mandamus para anular a Portaria 360/2011, do Ministro de Estado do Meio Ambiente, que o demitiu do cargo de Técnico Ambiental do Quadro de Pessoal do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama. 2. A Portaria 360 de 9 de setembro de 2011, à fl. 453, demitiu o impetrante com fundamento nos termos dos artigos 136 e 137, parágrafo único, da Lei 8.112/1990. 3. O impetrante foi demitido por improbidade administrativa, por lesão aos cofres públicos e por dilapidação do patrimônio nacional. 4. Contudo, verifica-se que há litispendência com relação à Ação Ordinária mencionada no ofício SECVA 98/2015, de 23.1.2015, do Juiz Federal da 2ª Vara Federal da Subseção Judiciária de Sinop, às fls. 632-642. 5. "Ressalte-se que o fenômeno da litispendência se caracteriza quando há identidade jurídica, ou seja, quando as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas; em um pedido mandamental, a autoridade administrativa, e, no outro, a própria entidade de Direito Público." (AgRg no MS 18.759/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 10/5/2016). Nesse sentido: MS 21.734/DF, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 9/12/2016. 6. In casu, constata-se que, não obstante a diversidade de partes, a causa de pedir e o pedido são idênticos entre o presente Mandado de Segurança e a Ação Ordinária da 2ª Vara Federal, e que ambas convergem para o mesmo resultado prático pretendido, qual seja: a anulação da Portaria e a reintegração do ora impetrante ao cargo. 7. Uma vez reconhecida a litispendência, deve ser extinto o presente writ. 8. Segurança denegada. (MS n. 17.859/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 22/2/2017, DJe de 17/4/2017.)
+
+Com estas razões, conheço do recurso e reformo a decisão agravada para extinguir a ação de conhecimento n. 0733741-78.2024.8.07.0001 sem exame do mérito, com fundamento no art. 485, V, do CPC.
+
+Anota-se, ainda, que a litispendência também foi reconhecida no agravo de instrumento n. 0706330-29.2025.8.07.0000, associado a estes autos.
+
+Em razão da sucumbência, condeno a agravante/autora ao pagamento das custas processuais e dos honorários sucumbenciais, que fixo em 10% do valor da causa (R$100.000,00 – cem mil reais).
+
+É como voto.
+
+[1] Art. 337. Incumbe ao réu, antes de discutir o mérito, alegar:
+
+(...)
+
+VI - litispendência;
+
+(...)
+
+§ 1º Verifica-se a litispendência ou a coisa julgada quando se reproduz ação anteriormente ajuizada.
+
+§ 2º Uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido.
+
+§ 3º Há litispendência quando se repete ação que está em curso.
+
+[2] MARINONI, Luiz Guilherme. Arenhart, Sérgio Cruz. Mitidiero, Daniel. Código de processo civil comentado. 3ª ed. São Paulo: Thomson Reuters Brasil, 2018, p. 469.
+
+O Senhor Desembargador MAURICIO SILVA MIRANDA - Relator Designado e 1º Vogal p{text-align: justify;}Peço vênia para divergir da conclusão da eminente Relatora, passando a fundamentar meu voto dissidente.
+Como relatado, cuida-se de agravo de instrumento interposto por SAGA SOCIEDADE ANONIMA GOIAS DE AUTOMOVEIS contra decisão que, nos autos de ação de indenização por acessão ajuizada em desfavor de SANTA FE CONSTRUCOES E INCORPORACOES LTDA, rejeitou as preliminares de inépcia da petição inicial, ilegitimidade passiva, coisa julgada e litispendência, assim como a prejudicial da prescrição e, sob o fundamento de risco de decisões conflitantes (art. 313, V, CPC), determinou a suspensão do processo até o julgamento definitivo do processo n. 0727270- 51.2021.8.07.0000.
+A agravante se insurge contra a determinação de suspensão do processo, exarada sob o fundamento de prejudicialidade externa, em face do processo n. 0727270- 51.2021.8.07.0000.
+Contudo, não há elementos de identidade entre as referidas ações que caracterizem a prejudicialidade externa (art. 313, V, CPC).
+No presente processo (n. 0733741-78.2024.8.07.0001), a SAGA, na condição de ex-locatária, busca indenização em face da ex-locadora SANTA FE, pela acessão resultante da edificação que, realizada pela então locatária no curso do contrato de locação, ampliou o imóvel locado em mais de cinco mil metros quadrados.
+No primevo processo n.  0727270-51.2021.8.07.0001, a SANTA FE postulou indenização por danos materiais de reforma/reparos necessária para restituição do imóvel ao estado em que fora entregue para locação à SAGA.
+A discussão sobre a natureza das obras inaugurada nos autos do processo n. 0727270-51.2021.8.07.0001 teve por finalidade definir a extensão da obrigação da SAGA quanto à restauração do imóvel locado, isto é, se a obrigação do locatário em restituir o imóvel, ao final da locação, “no estado em que o recebeu” (art. 23, III, da Lei 8.245/91), alcança, ou não, a edificação acrescida.
+Nesse aspecto, sobreleva elucidar que a argumentação integrante das razões de decidir não é protegida pela imutabilidade da coisa julgada (art. 504 do CPC).
+Por conseguinte, com compreensão diversa da eminente Relatora, impõe asseverar que a definição, nos autos do processo n. 0727270-51.2021.8.07.0001, sobre a natureza jurídica da edificação (se benfeitorias ou acessões) realizada pela SAGA no curso da locação, não importa prejudicialidade externa à presente demanda.
+Com efeito, a discussão nos autos do processo n. 0727270-51.2021.8.07.0001, inobstante tangenciar a natureza da edificação acrescida, visa definir os contornos da obrigação da locatária em reparar o imóvel locado, ou melhor, em restituir o imóvel, ao final da locação, “no estado em que o recebeu” (art. 23, III, da Lei 8.245/91), de modo que não repercute no presente feito que busca indenização pela edificação acrescida.
+Logo, não ocorre na espécie quaisquer das hipóteses de prejudicialidade externa previstas no art. 313, V, “a”, do CPC, razão pela qual não se justifica a suspensão do presente feito em face do processo n. 0727270-51.2021.8.07.0001.
+Ante o exposto, renovando “vênias” à eminente Relatora, DOU PROVIMENTO ao recurso para, reformando em parte a decisão agravada, afastar a suspensão e determinar o prosseguimento regular do processo.
+É como voto.
+O Senhor Desembargador FABRÍCIO FONTOURA BEZERRA - 2º Vogal p{text-align: justify;}Senhor Presidente,
+Peço vênia a Vossa Excelência para apresentar voto divergente ao lançado no bojo deste Agravo de Instrumento, por entender que não é a hipótese de extinção do feito por litispendência, tampouco a hipótese de suspensão por prejudicialidade externa.
+Conheço do recurso, eis que presentes os seus pressupostos de admissibilidade.
+Adoto integralmente o relatório lançado pela eminente relatora.
+O Juízo a quo, nos autos da ação de cobrança de indenização de acessões (autos n. 0733741-78.2024.8.07.0001), nos quais se pretende a cobrança de valores correspondentes as acessões erigidas no imóvel locado sito no SGCV Sul, Lote 12, Brasília/DF, por entender que há prejudicialidade externa com a ação de rescisão de contrato de locação cumulada com indenização envolvendo as mesmas partes (autos n. 0727270-51.2021.8.07.0000 – rescisão de contrato para entrega de imóvel e cobrança de custos com reforma), determinou, em decisão saneadora, a suspensão dos autos de referência até seja julgado em definitivo a ação de rescisão de contrato citada, além de ter rejeitado as preliminares de inépcia da inicial, de ilegitimidade passiva, de coisa julgada e litispendência.
+A agravante insurge-se contra a decisão de suspensão do feito com o argumento de que o processo de referência discute indenização por acessão erigida no imóvel e o processo de rescisão de contrato envolve custos com eventual reforma, de modo que não há identidade de causa de pedir, o que afasta a possibilidade de decisões conflitantes, por isso, não há prejudicialidade externa.
+A eminente relatora, por outro lado, entende que há litispendência entre os autos de referência e o processo n.  0727270-51.2021.8.07.0001, uma vez que naquela ação teria se decidido a natureza das construções realizadas no imóvel, as quais seriam benfeitorias e não acessão, de modo que haveria identidade dos elementos da ação a caracterizar  litispendência, com o registro de que ação de rescisão de contrato se encontra em grau recursal, em trâmite, portanto.
+Esse é o ponto da divergência, pois entendo que não há identidade de causa de pedir e pedido entre as demandas; primeiro, por entender que o processo de referência discute acessão, pois foram construídos dois blocos no imóvel, o que soma mais de 5.000m2 de construção, o que não se confunde com simples benfeitorias, fato que inclusive foi objeto de voto vencido deste magistrado no julgamento da apelação na ação de rescisão de contrato; em segundo, por verificar que a questão de ser ou não benfeitoria foi tratada de forma incidental no processo de ação de rescisão de contrato, pois o pedido da referida demanda foi apurar o valor que seria necessário para reformar o imóvel sob fundamento de danos ao imóvel em decorrência de mau uso pela locatária, ora agravante, de modo que não há identidade de causa de pedir e pedido entre as demandas, enquanto na ação de cobrança discute-se a construção de dois blocos (acessão).
+Se não há identidade de demandas, não se fala em litispendência, como exige o art. 337, §2º, do CPC.
+O próprio juízo a quo, ao afastar a preliminar de litispendência, ressaltou acertadamente quanto ao caráter incidental da discussão acerca de ser ou não benfeitoria a construção de dois blocos que correspondem a uma área total de mais de 5.627,57m2 no imóvel, o que não se confunde com a identidade de pedido e causa de pedir.
+Desse modo, não se configura a litispendência a fundamentar a extinção prematura do feito.
+Quanto especificamente ao pleito do agravo, entendo que não é a hipótese de suspensão, pois não há receio de decisões conflitantes, pois, como visto, o processo de rescisão de contrato tem como objeto a indenização de eventuais danos que a locatária, ora agravante, teria causado no imóvel, o qual foi locado por mais de 20 anos, com a discussão incidental de possibilidade de indenizar as benfeitorias realizadas, enquanto o presente discute-se a construção de dois blocos, com mais de 5.000m2 de área construída, acessões que não se confundem com a mera melhoria de utilidade e espaço, como caracteriza a benfeitoria.
+Com efeito, entendo que não seja a hipótese de prejudicialidade externa, prevista no art. 313, V, “a”, do CPC, pois não há a dependência do julgamento da ação de rescisão de contrato (0727270-51) ou a necessidade de declaração de existência ou inexistência de relação jurídica que constitua o objeto do feito em análise (0733741-78 – ação de cobrança de indenização por acessão).
+Por isso, sem o risco de decisão conflitante, não há fundamento para a suspensão do feito.
+Ante o exposto, DOU PROVIMENTO ao agravo para reformar a decisão agravada e determinar a retomada do curso regular do feito até julgamento final.
+É como voto.
+
+DECISÃO
+
+RECURSO CONHECIDO E PROVIDO. MAIORIA. VENCIDA A RELATORA, REDIGIRÁ O ACÓRDÃO O 1º VOGAL, DESEMBARGADOR MAURÍCIO SILVA MIRANDA.
