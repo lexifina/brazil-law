@@ -1,0 +1,5 @@
+Artigo 7°-A - Poderá ser instituída avaliação de desempenho dos servidores temporários, que será considerada para eventual prorrogação ou extinção do contrato antes do término da sua vigência. (NR)
+§ 1° - A avaliação a que se refere o 'caput' deste artigo deverá ser vinculada a métricas de desempenho, de produtividade, competências e habilidades do contratado. (NR)
+§ 2° - O Poder Executivo estabelecerá por meio de decreto normas gerais de avaliação de desempenho de servidores. (NR)
+§ 3° - Os Secretários de Estado, o Procurador Geral do Estado e os Dirigentes das Autarquias e das Instituições Públicas Estaduais de Ensino Superior poderão editar normas complementares para regulamentar a avaliação de desempenho de que trata o 'caput' deste artigo. (NR)
+§ 4° - A duração total da contratação, computada sua eventual prorrogação, respeitará os prazos máximos previstos no artigo 7° desta lei complementar. (NR)

@@ -1,0 +1,5 @@
+Artigo 5° - Os contratados para o exercício de função docente nos termos desta lei complementar poderão celebrar novo contrato de trabalho, cuja vigência fica limitada ao período correspondente ao ano letivo de 2012, desde que atendidos os seguintes requisitos: (NR)
+I - aprovação em processo seletivo simplificado; (NR)
+II - decurso do prazo de 40 (quarenta) dias, contados do término do contrato anteriormente celebrado; (NR)
+III - ato específico da autoridade contratante que justifique a urgência e a inadiabilidade da adoção da medida. (NR)
+Parágrafo único - Em caso de absoluta necessidade, devidamente justificada pela autoridade contratante, o disposto neste artigo poderá ser aplicado para o ano letivo de 2013, limitado o número máximo de contratações a até 50% (cinquenta por cento) das que houverem sido celebradas para o ano letivo de 2012. (NR)
