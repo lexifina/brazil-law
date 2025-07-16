@@ -1,0 +1,1 @@
+Artigo 3° - Aos docentes abrangidos pelo disposto no parágrafo único do artigo 25 desta lei complementar serão atribuídas classes ou aulas disponíveis, conforme condições e limites estabelecidos pela Secretaria da Educação, observados os incisos I e III do artigo 1° destas Disposições Transitórias.

@@ -1,0 +1,1 @@
+Artigo 2° - Aplica-se o disposto no inciso V do artigo 1° destas Disposições Transitórias aos docentes que não possuam a habilitação mínima exigida para atribuição de classes ou aulas nos respectivos campos de atuação, estabelecido o prazo de 1 (um) ano, contado da data da vigência desta lei complementar, para obtenção da referida habilitação.

@@ -1,0 +1,1 @@
+Artigo 4° - Os docentes abrangidos por estas Disposições Transitórias serão dispensados, caso não se inscrevam ou imotivadamente não participem do processo de avaliação previsto no inciso I de seu artigo 1°, sem prejuízo do disposto no artigo 35, IV, da Lei n° 500, de 13 de novembro de 1974.
