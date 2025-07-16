@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Avelino Gonçalves Lima contra a decisão monocrática de minha lavra que, liminarmente, não conheceu do habeas corpus (fls. 294-296).
+Nas razões do presente regimental, em suma, o agravante alega que a decisão monocrática baseia-se na premissa de que o quadro clínico do paciente permanece inalterado, o que é contradito por laudos médicos que indicam piora grave e progressão galopante da doença e que ignorar essas evidências configura tratamento cruel e degradante, atraindo a incidência de normas nacionais e internacionais de proteção aos direitos humanos. Aduz que a decisão valida a supervisão da SEAP e a atenção primária prisional como suficientes, apesar de provas documentais que demonstram a incapacidade do sistema em prover o tratamento necessário. Afirma que a persistência em validar essa política omissiva transcende o erro judiciário, exigindo a aplicação do Art. 40 do CPP para apuração de crimes de tortura por omissão e crimes contra a humanidade. A decisão monocrática ignora seu dever de agir frente a indícios criminosos. Sustenta, ainda, que a decisão utiliza a ausência de justificativa clínica e a periculosidade do paciente como pretextos para negar a transferência, ignorando laudos médicos que atestam risco de morte. Argumenta, também, que a conclusão de que não há teratologia ou ilegalidade manifesta é um erro que ignora a soma dos absurdos anteriores. A decisão perpetua um ato de injustiça manifesta, exigindo sua reforma e a apuração de responsabilidade criminal.
+Requer o conhecimento e provimento do agravo para cassar a decisão monocrática, deferir medida liminar para transferência do paciente a unidade hospitalar adequada, vedar remoção para unidades inadequadas, conceder prisão domiciliar humanitária e remeter cópias dos autos à Procuradoria-Geral da República para apuração de crimes.
+É o relatório .
+Decido.
+Após consulta ao sitio do Tribunal de Justiça do Estado do Rio de Janeiro, constata-se que, em razão de litispendência reconhecida na origem, o processo do habeas corpus originário foi extinto sem julgamento de mérito. Desse modo, vislumbra-se a perda do objeto da presente ação.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se.
+Intime-se.
+EMENTA
