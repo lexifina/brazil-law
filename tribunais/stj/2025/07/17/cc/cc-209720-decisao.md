@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 15ª Vara Criminal de Brasília - SJ/DF, o suscitante, e o Juízo de Direito da 1ª Vara Criminal de Ceilândia/DF, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Juízo suscitante (fls. 227/230):
+Trata-se de inquérito policial instaurado pela Polícia Civil do Distrito Federal, para apurar os crimes de dano ambiental e parcelamento irregular do solo urbano, em razão da existência de um condomínio irregular na chácara 10 do Núcleo Rural Monjolinho, Ceilândia/DF, área inserida na Área de Proteção Ambiental do Planalto Central.
+O Juízo da 1ª Vara Criminal de Ceilândia declinou da competência em favor da Justiça Federal ao argumento de que os crimes ocorreram em unidade de conservação instituída pela União.
+Com vista dos autos, o Ministério Público Federal requereu que fosse suscitado conflito negativo de competência (Id 2153764587).
+Decido.
+O presente procedimento investigatório apura a suposta ocorrência de crimes ambientais na chácara 10 do Núcleo Rural Monjolinho, Ceilândia/DF.
+Consta dos autos que a referida área compõe a Macrozona Rural e Macroárea Zona Rural de Uso Controlado ZRUC-1 (Laudo de Perícia Criminal 9.017/2021).
+O art. 109, IV, da Constituição Federal estabelece a competência da Justiça Federal para processar e julgar as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, o que não é o caso em tela.
+O fato de o imóvel estar situado em área de preservação ambiental, criada por decreto federal, não atrai a competência da Justiça Federal, pois o interesse da União é apenas reflexo.
+Isso porque, o parcelamento irregular da referida área urbana e os desajustes ambientais dele decorrentes resultam em dano direto ao Distrito Federal, o que atrai o interesse do referido ente federativo no caso de eventual ocupação sem a devida autorização.
+Ademais, conforme dispõe o art. 7º, XIV, "d", da Lei Complementar nº 140/2011, não é competência da União promover o licenciamento ambiental em empreendimentos e atividades localizados em Áreas de Proteção Ambiental, sendo o Instituto Brasília Ambiental - IBRAM o órgão responsável por promover o licenciamento na área em questão.
+Convém ressaltar que as áreas de conservação ambiental, juntamente com a APA do Planalto Central e outras poucas unidades de conservação, sobrepondo-se sobre o mapa do Distrito Federal, abarca mais de 90% de todo o território do DF.
+Diante dessa realidade, a vingar o entendimento de que há interesse direto da União em toda a área, todo o território deveria estar sob o controle desta, questionando-se a própria autonomia do Distrito Federal sobre seu território.
+A rigor, o deslocamento do interesse penal exclusivamente para a União pode vir a colocar em xeque, inclusive, a própria necessidade da existência de órgãos de natureza ambiental no DF.
+Considerando a residualidade territorial da União, em relação aos estados e municípios, em regra a competência de julgamento há que ser a da Justiça Estadual, pois, o simples interesse genérico e indireto da União na proteção do meio ambiente não é suficiente para atrair a competência da Justiça Federal.
+Além disso, as áreas em desenvolvimento urbanístico, via de regra, estão mais adstritas aos interesses imediatos dos estados e municípios, sendo regidas por legislação própria, mormente pelos seus planos diretores e, no caso do DF, pelo seu Plano Diretor de Ordenamento Territorial (PDOT).
+Finalmente, destaco que, apesar de a gestão da APA do Planalto Central ser incumbência do ICM Bio, o licenciamento da área cabe aos órgãos ambientais estaduais (IBRAM- DF e SEMARH-GO), conforme dispõe o art. 5º do Decreto Federal s/n de 29 de abril de 2009 c/c art. 10 da Lei n. 6938/1981, não havendo, portanto, atuação de licenciamento e fiscalização diretamente por entidades e órgãos federais.
+Assim, não se vislumbra interesse direto da União a justificar competência da Justiça Federal para processar e julgar o feito.
+Nesse sentido, trago a lume decisões do Colendo Superior Tribunal de Justiça:
+ ..
+Ante o exposto, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA, a ser dirimido pelo Superior Tribunal de Justiça, com base no art. 105, I, "d", Constituição Federal e 116 do CPP.
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pela competência do Juízo suscitado (fls. 241/242):
+ ..
+Considerando a residualidade territorial da União em relação aos estados e municípios, a competência para o julgamento de casos como este é, em regra, da Justiça Estadual. O simples interesse genérico e indireto da União na proteção do meio ambiente não é suficiente para atrair a competência da Justiça Federal.
+No caso em análise, não se verifica interesse direto da União que justifique a atração da competência da Justiça Federal para processar e julgar o feito. Tal entendimento está alinhado com a jurisprudência do Superior Tribunal de Justiça, que reconhece que, embora a competência seja da Justiça Federal quando os danos ambientais ocorrem em área criada por Decreto Federal, a delegação da fiscalização a outro ente federativo é indicativo da ausência de interesse direto da União, justificando o deslocamento da competência criminal para a Justiça do ente federativo responsável pela fiscalização, consoante se verifica do teor do julgado cuja ementa segue abaixo transcrita:
+ ..
+Ante o exposto, o Ministério Público Federal opina pelo conhecimento do conflito, a fim de que seja declarado competente o Juízo de Direito da 1ª Vara Criminal da Comarca de Ceilândia/DF, o suscitado.
+É o relatório.
+No  julgamento  do  CC  n.  158.747/DF,  a  Terceira  Seção  desta  Corte  concluiu  pela  competência  da  Justiça  do  Distrito  Federal  para  processar  inquérito  policial  no  qual  se  apurava  dano  ambiental  e  parcelamento  irregular  urbano,  perpetrados  na  Área  de  Proteção  Ambiental  (APA)  da  Bacia  do  Rio  São  Bartolomeu.
+Da  leitura  da  ementa  daquele  julgado  é  possível  extrair  a  ratio  decidendi,  consubstanciada  no  fato  de  que,  embora  a  APA  em  questão  tenha  sido  criada  pelo  Decreto  Federal  n.  88.940/1993,  a  fiscalização  e  a  administração  foi  objeto  de  delegação  para  o  Distrito  Federal  (art.  1º  da  Lei  n.  9.262/1996):
+CONFLITO  NEGATIVO  DE  COMPETÊNCIA.  INQUÉRITO  POLICIAL.  JUSTIÇA  FEDERAL  E  JUSTIÇA  DO  DISTRITO  FEDERAL.  PARCELAMENTO  IRREGULAR  URBANO  E  DANO  AMBIENTAL.  LOCAL  INSERIDO  EM  ÁREA  DE  PROTEÇÃO  AMBIENTAL  (APA)  DA  BACIA  DO  RIO  SÃO  BARTOLOMEU,  CRIADA  POR  DECRETO  FEDERAL.  LEI  SUBSEQUENTE  QUE  DELEGOU  A  ADMINISTRAÇÃO  E  FISCALIZAÇÃO  AO  PODER  EXECUTIVO  DO  DISTRITO  FEDERAL.  CIRCUNSTÂNCIA  QUE  EXCLUI  O  INTERESSE  FEDERAL.  COMPETÊNCIA  DA  JUSTIÇA  DO  DISTRITO  FEDERAL.
+1.  A  orientação  jurisprudencial  desta  Corte  é  de  que  se  o  crime  ambiental  for  cometido  em  unidade  de  conservação  criada  por  decreto  federal,  evidencia-se  o  interesse  federal  na  manutenção  e  preservação  da  região,  ante  a  possível  lesão  a  bens,  serviços  ou  interesses  da  União,  nos  termos  do  art.  109,  IV,  da  Constituição  Federal.  Precedentes  da  Terceira  Seção.
+2.  No  caso,  embora  o  local  do  dano  ambiental  esteja  inserido  na  Área  de  Proteção  Ambiental  da  Bacia  do  Rio  São  Bartolomeu,  criada  pelo  Decreto  Federal  n.  88.940/1993,  não  há  falar  em  interesse  da  União  no  crime  ambiental  sob  apuração,  já  que  lei  federal  subsequente  delegou  a  fiscalização  e  administração  da  APA  para  o  Distrito  Federal  (art.  1º  da  Lei  n.  9.262/1996).
+3.  Conflito  conhecido  para  declarar  a  competência  do  Juízo  de  Direito  da  Vara  Criminal  e  Tribunal  do  Júri  de  São  Sebastião/DF,  o  suscitado.
+(CC  n.  158.747/DF,  de  minha  relatoria,  DJe  19/6/2018  -  grifo  nosso).
+No  mesmo  sentido,  confira-se:
+AGRAVO  REGIMENTAL  NO  CONFLITO  DE  COMPETÊNCIA.  PARCELAMENTO  IRREGULAR  DE  SOLO  URBANO  E  DANO  AMBIENTAL  EM  UNIDADE  DE  CONSERVAÇÃO  INSTITUÍDA  POR  DECRETO  FEDERAL.  LEI  FEDERAL  POSTERIOR  DELEGANDO  A  ADMINISTRAÇÃO  E  FISCALIZAÇÃO  DA  ÁREA  PARA  O  DISTRITO  FEDERAL.  AUSÊNCIA  DE  INTERESSE  DIRETO  DA  UNIÃO  EVIDENCIADO.  COMPETÊNCIA  DA  JUSTIÇA  DO  DISTRITO  FEDERAL  E  DOS  TERRITÓRIOS.  INSURGÊNCIA  DESPROVIDA.
+1.  A  jurisprudência  deste  Sodalício  é  assente  no  sentido  da  competência  da  Justiça  Federal  para  o  julgamento  de  crimes  ambientais  ocorridos  em  área  abrangida  por  unidade  de  conservação  instituída  por  meio  de  ato  normativo  federal,  já  que,  nesse  caso,  fica  evidenciado  o  interesse  da  União  na  manutenção  e  na  preservação  da  região,  conforme  a  dicção  do  art.  109,  inciso  IV,  da  Constituição  Federal.
+2.  Na  hipótese,  embora  os  delitos  tenham  supostamente  ocorrido  em  unidade  de  conservação  criada  por  decreto  presidencial,  a  Lei  Federal  n.  9.262/1992  transferiu  ao  Distrito  Federal  a  administração  e  a  fiscalização  da  Área  de  Proteção  Ambiental  da  Bacia  dos  Rios  São  Bartolomeu  e  Descoberto,  o  que  denota  a  ausência  de  interesse  direto  da  União  na  preservação  do  local,  de  modo  que  deve  ser  mantida  a  competência  da  Justiça  do  Distrito  Federal  e  dos  Territórios.
+3.  "No  caso,  embora  o  local  do  dano  ambiental  esteja  inserido  na  Área  de  Proteção  Ambiental  da  Bacia  do  Rio  São  Bartolomeu,  criada  pelo  Decreto  Federal  n.  88.940/1993,  não  há  falar  em  interesse  da  União  no  crime  ambiental  sob  apuração,  já  que  lei  federal  subsequente  delegou  a  fiscalização  e  administração  da  APA  para  o  Distrito  Federal  (art.  1º  da  Lei  n.  9.262/1996)"  (CC  158.747/DF,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  TERCEIRA  SEÇÃO,  julgado  em  13/06/2018,  DJe  19/06/2018).
+4.  Agravo  regimental  desprovido.
+(AgInt  no  CC  n.  163.409/DF,  Ministro  Jorge  Mussi,  Terceira  Seção,  DJe  6/9/2019).
+O  caso  dos  autos,  no  entanto,  ostenta  contornos  distintos,  pois  o  que  se  verifica  é  que  o dano atingiu  Área  de  Proteção  Ambiental  (APA)  do  Planalto  Central  (cf.  laudo  pericial  -  fls. 55/59 - grifo nosso):
+ ..
+4.1.2 Aspectos Fundiários, Urbanísticos e Ambientais
+Conforme acervo cartográfico do Instituto de Criminalística (IC/PCDF), do Sistema Geoportal - Infraestrutura de Dados Espaciais - IDE/DF e da Plataforma Terrageo (TERRACAP), o local examinado:
+a) situa-se na Região Administrativa de Ceilândia do Distrito Federal;
+b) conforme situação fundiária da região (Terrageo), situa-se em imóvel não pertencente ao patrimônio da Terracap, referente à Fazenda Guariroba (979 ha);
+c) localiza-se na Área de Proteção Ambiental (APA) do Planalto Central, em Zona de Uso Sustentável (ZUS);
+d) de acordo com o PDOT (Plano Diretor de Ocupação Territorial) 2012, encontra- se em Macrozona Rural e Macroárea Zona Rural de Uso Controlado ZRUC-1; e
+e) de acordo com o SICAR, não possui poligonal registrada no referido sistema.
+ ..
+6 ANÁLISE
+Conforme evidenciado nos exames, a área examinada apresenta fracionamento interno possuindo dois arruamentos e subdividida em diversos lotes, com metragem característica às urbanas, processo que teve início no segundo semestre de 2014, caracterizando-se como um parcelamento de solo para fins urbanos.
+O parcelamento do solo para fins urbanos causa danos ao meio ambiente natural, diretos e indiretos, conforme disposto a seguir:
+a) Danos Diretos: supressão da cobertura vegetal, impermeabilização do solo mediante edificação e impedimento da regeneração da vegetação;
+b) Danos Indiretos: aumento do escoamento superficial das águas pluviais, exposição do solo a processos erosivos mais intensos, alteração da recarga e contribuição para o assoreamento das coleções hídricas a jusante, afastamento da fauna nativa e proliferação de espécies ruderais.
+Nesse sentido, as antropias assinaladas não se coadunam com os objetivos e normas das Unidades de Conservação em que a área examinada se insere (APA do Planalto Central), conforme exposto no item 5.
+Os danos verificados podem ser revertidos a estados admissíveis; contudo, a ausência de providências saneadoras poderá trazer, por consequência, a intensificação destes impactos.
+ ..
+A  referida  APA  foi  criada  por  Decreto  Federal  de  10/1/2002  e  ainda  é  supervisionada  e  administrada  pela  autarquia  federal  (Instituto  Chico  Mendes  de  Conservação  da  Biodiversidade  -  ICMBio):
+Art. 7º A APA do Planalto Central será supervisionada e administrada pelo Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes em articulação com os demais órgãos federais, estaduais, do governo distrital, municipais e organizações não-governamentais, sendo adotadas as seguintes medidas:
+I - elaboração do zoneamento ecológico-econômico, a ser regulamentado por instrução normativa do IBAMA, definindo as atividades a serem permitidas ou incentivadas em cada zona e as que deverão ser restringidas e proibidas;
+II - utilização dos instrumentos legais e dos incentivos financeiros governamentais, para assegurar a proteção da biota, o uso racional do solo e outras medidas que visem salvaguardar os recursos ambientais;
+III - adoção de medidas legais destinadas a impedir ou evitar o exercício de atividades causadoras de degradação da qualidade ambiental;
+IV - divulgação deste Decreto, objetivando o esclarecimento da comunidade local e suas finalidades;
+V - incentivo à criação e reconhecimento de Reservas Particulares do Patrimônio Natural-RPPN, instituída pelo Decreto no 1.922, de 5 de junho de 1996, em propriedades inseridas, no todo ou em parte, nos limites da APA do Planalto Central.
+Parágrafo único. O IBAMA, nos termos do § 1o do art. 9o da Lei no 6.902, de 27 de abril de 1981, poderá firmar convênios e acordos com órgãos e entidades públicas ou privadas, sem prejuízo de sua competência, para gestão da APA do Planalto Central.
+Cumpre  destacar,  ainda,  que  o  decreto  federal,  datado  de  29/4/2009,  reforçou  que  a  gestão  da  referida  APA  ainda  é  de  competência  federal,  ante  a  revogação  expressa  do  art.  11  do  Decreto  Federal  de  10/1/2002,  que  previa  a  possibilidade  de  concessão  de  licença  ambiental  pelos  órgãos  ambientais  do  Distrito  Federal  e  do  Estado  de  Goiás.
+Nesse  sentido,  destaco  o  seguinte  precedente  que  guarda  perfeita  similitude  com  o  caso  sob  exame:
+AGRAVO  REGIMENTAL  NO  CONFLITO  DE  COMPETÊNCIA.  CRIME  AMBIENTAL.  ÁREA  DE  PROTEÇÃO  AMBIENTAL  CRIADA  POR  DECRETO  FEDERAL  E  GERIDA  POR  ÓRGÃO  FEDERAL.  INTERESSE  DA  UNIÃO.  COMPETÊNCIA  DA  JUSTIÇA  FEDERAL.
+1.  Sendo  a  Área  de  Proteção  Ambiental  (APA)  do  Planalto  Central  criada  por  Decreto  Federal  de  10/1/2002  e  supervisionada  e  fiscalizada  pela  Autarquia  Federal  Instituto  Chico  Mendes  de  Conservação  da  Biodiversidade  -  ICMBio,  denota-se  o  interesse  federal  no  crime  sob  apuração,  tanto  mais  porque  o  Decreto  Federal  de  29/4/2009  reforçou  que  a  gestão  da  referida  APA  é  de  competência  federal,  ante  a  revogação  expressa  do  art.  11  do  Decreto  Federal  de  10/1/2002,  que  previa  a  possibilidade  de  concessão  de  licença  ambiental  pelos  órgãos  ambientais  do  Distrito  Federal  e  do  Estado  de  Goiás.
+2.  Agravo  regimental  improvido.
+(AgRg  no  CC  n.  179.427/DF,  Ministro  Olindo  Menezes,  Desembargador  convocado  do  TRF/1ª  Região,  Terceira  Seção,  DJe  27/8/2021  -  grifo  nosso)
+Ante  o  e xposto,  conheço  do  conflito  para  declarar  a  competência  do  Juízo Federal da 15ª Vara Criminal de Brasília - SJ/DF, o suscitante.
+Dê-se  ciência  aos  Juízes  envolvidos.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA DO DISTRITO FEDERAL. CRIME AMBIENTAL. INDÍCIOS DE QUE O DELITO ATINGIU ÁREA DE PROTEÇÃO AMBIENTA L (APA) DO PLANALTO CENTRAL. APA INSTITUÍDA POR DECRETO FEDERAL. FISCALIZAÇÃO E GESTÃO PELA AUTARQUIA FEDERAL (ICMBIO). INTERESSE FEDERAL CARACTERIZADO. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTE DA TERCEIRA SEÇÃO.
+Conflito conhecido para declarar a competência do Juízo Federal da 15ª Vara Criminal de Brasília - SJ/DF, o suscitante.
