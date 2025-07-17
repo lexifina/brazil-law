@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ALESSON EDUARDO FERREIRA SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0002113-66.2018.8.16.0165.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo (fls. 26.119/26.151).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: inexistência de violação dos arts. 619 e 620 do CPP; Súmulas 283/STF e 83/STJ.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente a incidência da Súmula 83/STJ.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+Vale ressaltar que esta Corte Superior de Justiça possui entendimento no sentido de que a Súmula n. 83 do STJ se aplica tanto ao recurso especial fundado na alínea "c" quanto na "a", ambas do permissivo constitucional (AgRg no AgRg no AREsp n. 1.600.882/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/5/2023).
+Ademais, a parte agravante, nas razões do agravo em recurso especial, não impugnou suficientemente o fundamento da inadmissão no que se refere a tese de violação dos art. 619 e 620, ambos do CPP, quanto a lide ter sido julgada em sua integralidade, considerando que deixou de apontar, concretamente, qual tese defensiva não foi analisada pela Corte de origem.
+Quanto à Súmula 283/STF, não demonstrou em suas razões do agravo que teria atacado o seguinte fundamento do acórdão recorrido (fl. 23.748 - grifo nosso):
+Todavia, como o importe cominado em primeira instância se afigurava inferior, subsistiu para que o Réu - já favorecido por erro material e pelo garantismo penal - não se submetesse a agravamento em sua situação. Isso posto, calha gizar que a vedação à reformatio in pejus somente redunda na impossibilidade de acrescer à pena previamente definida, sem que signifique necessária redução em contextos de correção de enganos atinentes ao respectivo cômputo. Por isso, como elucidado brevemente no Acórdão em liça, as consunções dos crimes de falso pelos de fraude fazem com que não se proceda à aplicação das correlatas sanções; no entanto, não impede que, contabilizadas, de forma precisa, as penas dos ilícitos penais persistentes, alcance-se quantum equivalente ao que previamente estipulado" (p.11) (fl. 23.748).
+Na hipótese, deixou de elencar os trechos do recurso especial em que apresentou tais fundamentos do Tribunal de origem acerca da questão controvertida acima indicada, e a respectiva argumentação recursal que expressamente se insurgiu quanto aos citados fundamentos.
+Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre. A propósito: AgRg no AREsp n. 2.253.769/PR, de minha lavra, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
