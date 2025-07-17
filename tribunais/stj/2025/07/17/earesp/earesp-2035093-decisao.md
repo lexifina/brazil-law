@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por DENIS DIAS ALVES a acórdão prolatado pela Terceira Turma, assim ementado (fl. 1.684):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. PEDIDO DE GRATUIDADE. NÃO APRECIAÇÃO PELA INSTÂNCIA ORDINÁRIA. INEXISTÊNCIA DE DEFERIMENTO TÁCITO. INOVAÇÃO RECURSAL. AGRAVO INTERNO. INVIABILIDADE.
+1. Deve ser reconhecida a deserção do recurso especial se, após a intimação, nos termos do art. 1.007, § 4º do CPC/15, a parte não comprovar o pagamento ou não o efetuar em dobro. Precedentes.
+2. A não apreciação de pedido de gratuidade da justiça pelo acórdão recorrido não significa deferimento tácito. Precedentes.
+3. Fica inviabilizado o conhecimento de matéria suscitada somente no agravo interno, por se tratar de indevida inovação recursal. Precedentes.
+4. Agravo interno não provido.
+A parte embargante suscita divergência sobre a concessão da gratuidade de justiça, alegando que o acórdão embargado diverge do entendimento firmado no AgRg nos EAREsp n. 86.915/SP, que estabelece que a assistência judiciária gratuita, uma vez concedida, prevalece em todas as instâncias e para todos os atos do processo, sem necessidade de renovação do pedido.
+Argumenta que o direito à gratuidade da justiça lhe foi garantido desde o processo originário, sem que tenha havido qualquer modificação na sua situação econômica e que a decisão embargada não faz valer o precedente fixado pela Corte Especial, violando o princípio da primazia da decisão de mérito.
+Os embargos foram admitidos em juízo sumário, de modo a oportunizar o contraditório, porém não houve impugnação, conforme certidões de fls. 1.727-1.728.
+É o relatório. Decido.
+Melhor analisando os autos, entendo que os presentes embargos de divergência não logram ultrapassar o juízo de admissibilidade.
+Saliente-se, desde logo, que a admissibilidade do processamento dos embargos de divergência não obsta a que, em juízo definitivo, conclua-se pelo seu não cabimento, inexistindo preclusão pro judicato. Nesse sentido: EREsp n. 1.163.020/RS, Primeira Seção, rel. Ministro Herman Benjamin, DJe de 29.05.2024; EDcl no AgRg nos EREsp n. 1.173.287/SP, Segunda Seção, rel. Ministro Moura Ribeiro, DJe de 30.10.2024; AgInt nos EAREsp n. 600.103/RS, Corte Especial, rel. Ministro Jorge Mussi, DJe de 21.11.2018.
+A tese objeto de divergência consiste em que, uma vez deferida a assistência judiciária gratuita, deve prevalecer em todas as instâncias e para todos os atos do processo, sem necessidade de renovação do pedido.
+O embargante alega que litiga na presente ação de oposição sob o pálio da gratuidade, que lhe fora deferida em ação originária de reintegração de posse. Afirma que, à luz da legislação vigente na época da propositura da presente ação, a oposição era considerada espécie de intervenção de terceiros, de modo que se trata de mero incidente, sendo mantida a gratuidade já deferida. Aduz que, em que pese desnecessário, efetuou pedido de gratuidade na apelação, que não foi apreciado pelo Tribunal de origem, nada obstante tenha julgado o recurso sem o recolhimento do preparo respectivo.
+Ocorre que, quando da interposição do recurso especial, o embargante foi intimado para realizar o recolhimento em dobro do preparo recursal, oportunidade em que ofereceu embargos de declaração para sustentar que seria beneficiário da gratuidade de justiça, mas os declaratórios não foram conhecidos por serem incabíveis contra despacho e o recurso especial restou inadmitido por deserção.
+Seguiu-se a interposição de agravo em recurso especial, conhecido por decisão monocrática do relator para não conhecer do recurso especial, por aplicação do art. 1.007, § 4º do CPC/2015 e por entender que "a não apreciação de pedido de gratuidade da justiça pelo acórdão recorrido não significa deferimento tácito".
+A decisão foi mantida em sede de agravo interno, com o acréscimo no sentido de que a tese da desnecessidade de renovação do pedido de gratuidade quando já deferida na instância de origem configuraria inovação recursal, ficando inviabilizado seu enfrentamento.
+Diante desse contexto, não se configura a divergência suscitada, na medida em que o acórdão embargado não analisou a tese apontada como divergente pela parte embargante. Incide, na hipótese, o óbice da Súmula n. 315 do STJ ("Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial").
+Ante o exposto, inadmito os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
