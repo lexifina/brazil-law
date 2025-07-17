@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE (fls. 720-746).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 302 e 303 do CTB. Aduz para tanto, em síntese, que seria necessário condenar o réu, pois estaria suficientemente demonstrada a culpa em sua conduta, diversamente do que entenderam o juízo de primeira instância e a Corte local. Alega que o acusado teria conduzido o veículo sob a influência de medicação para insônia, capaz de provocar sonolência e perda de reflexos como efeitos adversos, o que violaria o dever objetivo de cuidado.
+Com contrarrazões (fls. 780-792), o recurso especial foi inadmitido na origem (fls. 794-806), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (fls. 845-848).
+É o relatório.
+Decido.
+A decisão que inadmitiu o recurso especial na origem pautou-se na incidência da Súmula 7/STJ; no agravo, todavia, a parte ora agravante não combateu especificamente este fundamento da decisão agravada.
+Afinal, sobre a aplicação da Súmula 7/STJ, a parte agravante trouxe apenas razões genéricas de inconformismo (aduzindo que não seria necessário reexaminar as provas dos autos), o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local. Nesse sentido:
+" ..
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.789.363/SP, relator Ministra Laurita Vaz, Sexta Turma, julgado em 2/2/2021, DJe de 17/2/2021.)
+" ..
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..
+11. Agravo regimental não conhecido".
+(AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+Para além dessas considerações genéricas, o agravante basicamente repetiu os argumentos do recurso especial, o que viola o princípio da dialeticidade e torna inadmissível o agravo do art. 1.042 do CPC, nos termos da Súmula 182/STJ. A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. PRELIMINAR DE PRESCRIÇÃO. EXAME DE OFÍCIO. ART. 61 DO CPP. NÃO IMPLEMENTO DO PRAZO PRESCRICIONAL ENTRE OS MARCOS INTERRUPTIVOS. 2. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. TESE FIRMADA PELO PLENÁRIO DO STF. HC 176.473/STF. 3. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO NÃO CONHECIDO. TRÂNSITO EM JULGADO QUE RETROAGE. ARESP 386.266/SP. 4. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS FUNDAMENTOS DA DECISÃO. CORRETA INCIDÊNCIA DA SÚMULA 182/STJ. 5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. A decisão agravada não conheceu do agravo em recurso especial, porque o recorrente se limitou a repetir, na íntegra, os termos do recurso especial. Como é de conhecimento, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão que não admite o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessa forma, mostra-se correta a incidência do enunciado n. 182 da Súmula desta Corte, o que impede o provimento ao presente agravo regimental.
+5. Agravo regimental a que se nega provimento".
+(AgRg no AREsp n. 1.260.918/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/5/2020, DJe de 19/5/2020.)
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo em recurso especial, o qual não supera o juízo de admissibilidade.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
