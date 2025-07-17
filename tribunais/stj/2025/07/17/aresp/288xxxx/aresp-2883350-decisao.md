@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial, interp osto pelo BANCO DO BRASIL SA, contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 7/2/2025.
+Concluso ao Gabinete em: 6/6/2025.
+Ação: civil pública, em fase de cumprimento individual provisório de sentença coletiva, ajuizado por DARCI LUIZ BORTOLAZZO VENDRUSCOLO, em face do agravante.
+Acórdão: negou provimento ao agravo interno no agravo de instrumento interposto pelo agravante, nos termos das seguinte ementa:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA Nº 94.008514-1. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. CÉDULA DE CRÉDITO RURAL. INCOMPETÊNCIA DA JUSTIÇA FEDERAL.
+- Já existe um pacífico entendimento formado no Superior Tribunal de Justiça no sentido de que a competência da Justiça Federal é ratione personae, a qual deve prevalecer à competência funcional, pois inserida em norma hierarquicamente superior (art. 109, I, da Constituição Federal). Ainda que se trate de cumprimento individual de título formado em ação civil pública que tramitou na Justiça Federal, sendo ele deflagrado contra pessoa jurídica que não está contemplada no artigo 109, inciso I, da Constituição Federal, a competência é da Justiça Estadual.
+- Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários, sendo perfeitamente possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União. (AgInt no AR Esp 1309643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, D Je 02/05/2019).
+- Não figura no polo passivo do cumprimento de sentença qualquer dos entes previstos no art. 109, I, da Constituição Federal, pois a parte exequente optou pela propositura em face exclusivamente do Banco do Brasil S/A, o qual possui natureza jurídica de sociedade de economia mista, sendo competente a Justiça Estadual para julgar o cumprimento de sentença, ainda que a Ação Civil Pública tenha tramitado perante a Justiça Federal.
+- Embora se trate de cumprimento individual de sentença proferida no âmbito da Ação Civil Pública nº 94.008514-1, que tramitou perante o Juízo da 3ª Vara Federal do Distrito Federal, a competência é da Justiça Estadual, haja vista ter sido direcionado o cumprimento individual de sentença somente contra o Banco do Brasil.
+(e-STJ Fl. 55)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Decisão de admissibilidade do TRF-4ª Região: inadmitiu o recurso especial do agravante em razão dos seguintes fundamentos:
+i) ausência de negativa de prestação jurisdicional (art. 1.022 do CPC); e
+ii) incidência da Súmula 83/STJ quanto à competência, chamamento ao processo e litisconsórcio necessário, em atenção aos julgados colacionados à e-STJ Fls. 161-165.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega, em síntese, que:
+i) preliminarmente, é necessária a suspensão do processo ante ao Tema 1290 do STF, considerando a repercussão geral do debate relativo ao critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança;
+ii) houve efetiva ofensa aos arts. 489, 1.022 e 1.025 do CPC, de sorte que configurada a negativa de prestação jurisdicional em relação à possibilidade de chamamento ao processo dos demais devedores solidários (União e BACEN) e consequente deslocamento da competência para a Justiça Federal; e
+iii) é inaplicável a Súmula 83/STJ à espécie, tendo em vista que os precedentes citados não se adequam à hipótese, em que o chamamento ao processo da União e do BACEN é plenamente admissível.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que o agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte fundamento:
+i) incidência da Súmula 83/STJ quanto à competência, chamamento ao processo e litisconsórcio necessário, em atenção aos julgados colacionados à e-STJ Fls. 161-165.
+Cumpre consignar, nesse passo, no que tange à Súmula 83/STJ, que o agravante limitou-se a tecer alegações genéricas, deixando de comprovar, tendo em vista a hipótese específica dos autos, a desarmonia do julgado em análise com o entendimento pacificado sobre a matéria.
+Especificamente, ainda, quanto à Súmula 83/STJ, a sua impugnação deve ser demonstrada com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Por fim, cumpre esclarecer que a matéria relativa ao cabimento do chamamento ao processo na espécie não guarda relação com o Tema 1290/STF, inexistindo qualquer risco de decisões conflitantes, sendo inviável a suspensão do processo nesta sede de jurisdição.
+Outrossim, ainda quanto à suscitada necessidade de sobrestamento do feito, o entendimento desta Casa é no sentido de que "diante da impossibilidade de conhecimento do Recurso Especial, mostra-se irrelevante aguardar o julgamento de Recursos Especiais afetados ao rito dos recursos repetitivos, haja vista que as questões ali discutidas são de mérito, não havendo falar em sobrestamento de recurso que não ultrapassara o juízo de admissibilidade".
+Nesse sentido: AgRg no RE nos EDcl no AgRg no AREsp 572.146/PR, Corte Especial, DJe de 27/04/2015; e AgRg nos EAREsp 84.719/PR, Corte Especial, DJe de 18/06/2014. Ainda nesse sentido: AgInt no AREsp n. 1.713.349/PE, 4ª Turma, DJe de 19/4/2022; EDcl no AgInt no AREsp n. 1.937.568/PR, 3ª Turma, DJe de 22/9/2022; AgInt nos EDcl no REsp 1934729/SP, 4ª Turma, DJe de 26/11/2021; e AgInt no AREsp 1692058/PE, 3ª Turma, DJe de 16/11/2020.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
