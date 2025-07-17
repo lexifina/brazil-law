@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO PAN S.A contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 735 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 705-724.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia em agravo de instrumento nos autos de ação indenizatória.
+O julgado foi assim ementado (fls. 437-439):
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. PRELIMINARES DE CERCEAMENTO DE DEFESA, VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE, DESERÇÃO E VÍCIO NA REPRESENTAÇÃO PROCESSUAL. REJEIÇÃO. PRETENSÃO AUTORAL DE RESCISÃO CONTRATUAL PELO ATRASO NA ENTREGA DO IMÓVEL. TUTELA ANTECIPADA. PRESENÇA DOS REQUISITOS DO ART. 300 DO CPC. DEPÓSITO EM JUÍZO DAS PARCELAS PAGAS. ABSTENÇÃO DE INSCRIÇÃO DO NOME DOS PROMITENTES COMPRADORES NOS ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO. SUSPENSÃO DA COBRANÇA DE ENCARGOS SOBRE O IMÓVEL. POSSIBILIDADE. MULTA DIÁRIA. VIABILIDADE, INCLUSIVE SOBRE OBRIGAÇÃO DE PAGAR. MONTANTE FIXADO DE R$ 300,00 (TREZENTOS REAIS). RAZOABILIDADE. NECESSIDADE, CONTUDO, DE LIMITAÇÃO AO VALOR DE R$ 20.000,00 (VINTE MIL REAIS). DECISÃO LIMINAR PARCIALMENTE REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos restaram assim ementados (fls. 645-646):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NO ACÓRDÃO EMBARGADO. TENTATIVA DE REDISCUSSÃO DA MATÉRIA NO TOCANTE À CONCESSÃO DA TUTELA DE URGÊNCIA NA AÇÃO ORIGINÁRIA. INEXISTÊNCIA DE VÍCIOS NO JULGADO NESTE PARTICULAR. IMPOSIÇÃO DE MULTA DIÁRIA PARA O CASO DE DESCUMPRIMENTO DE OBRIGAÇÃO DE PAGAR. IMPOSSIBILIDADE. DETERMINAÇÃO CONTRÁRIA À JURISPRUDÊNCIA CONSOLIDADA NO SUPERIOR TRIBUNAL DE JUSTIÇA. MODIFICAÇÃO DO ACÓRDÃO EMBARGADO PARA ALINHÁ-LO AO ENTENDIMENTO DA CORTE CIDADÃ. INAPLICABILIDADE DE MULTA PROCESSUAL AO EMBARGANTE. NÃO CONFIGURADA A LITIGÂNCIA DE MÁ-FÉ TAMPOUCO O CARÁTER PROTELATÓRIO DO RECURSO. EMBARGOS CONHECIDOS E ACOLHIDOS EM PARTE.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 297, § único, 300, 514, 489, § 1º, I a IV, 520 c/c 536 e 537, § 3º, 1.022, todos do CPC/2015, 19, IV e 31-A, § 12, ambos da Lei n. 4.591/1964, 265 do CC/2002, porque a decisão violou o devido processo legal e impôs obrigação impossível de ser cumprida; e
+b) 1.022, I e II, do CPC/2015, porquanto houve omissão e contradição na análise dos embargos de declaração.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando a incidência da multa e declarando que o recorrente não é responsável pelo cumprimento da tutela.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser conhecido por violação ao princípio da dialeticidade recursal e, por extrema cautela, caso não acolhida a preliminar, requer o desprovimento do recurso especial, indeferindo o pleito de revogação da tutela provisória de urgência (fls. 586-602).
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que deferiu, parcialmente, o pedido de antecipação de tutela em ação indenizatória.
+A Corte estadual reformou, parcialmente, a decisão de primeiro grau, apenas, para fixar a limitação de multa diária.
+E m razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Em suma, é incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+Dessa forma, constata-se que, em razão da natureza instável da decisão, a qual pode ser ou não confirmada em julgado definitivo, mostra-se correta a aplicação, por analogia, da Súmula n. 735 do STF ao caso.
+A propósito, vejam-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. AUSÊNCIA DE DECISÃO PAUTADA EM ELEMENTOS EXAURIENTES. INCIDÊNCIA DO ENUNCIADO 735/STF. REQUISITOS DO ART. 300 DO CPC. REEXAME DE PROVAS E DE CLÁUSULAS. ENUNCIADOS Nº 5 E 7 DO STJ. AUSENCIA DE DEVIDA IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+AGRAVO INTERNO NÃO CONHECIDO. (AgInt no REsp n. 2.005.273/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE PROCESSUAL. SUSTENTAÇÃO ORAL NÃO REALIZADA. RESPONSABILIDADE DO DEFENSOR. REVISÃO. SÚMULA 7/STJ. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. TUTELA DE URGÊNCIA. DEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. SÚMULA 735/STF. PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA MEDIDA REQUERIDA. SÚMULA 7/STJ. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não é possível, em julgamento de recurso especial, examinar supostos prejuízos oriundos da falta de sustentação oral em julgamento de agravo de instrumento quando constatado pelo Tribunal de origem que o ato não foi praticado por culpa do defensor da parte, uma vez que a análise exigiria a imersão no conjunto fático-probatório dos autos.
+2. É incabível falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não pode ser considerado como deficiência na prestação jurisdicional.
+3. A jurisprudência desta Corte Superior, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, a Súmula 735/STF.
+4. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria necessariamente o revolvimento do acervo fático-probatório dos autos, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015, quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6 . Agravo interno desprovido. (AgInt no REsp n. 1.982.124/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CLÁUSULA COMPROMISSÓRIA. JUÍZO ARBITRAL. INCOMPETÊNCIA. LEGITIMIDADE. REEXAME. SÚMULA N. 7/STJ. TUTELA DE URGÊNCIA. SÚMULAS N. 7/STJ E 735/STF. NÃO PROVIMENTO.
+1. Mesmo em contrato que preveja a arbitragem, é possível a execução judicial de confissão de dívida certa, líquida e exigível que constitua título executivo nos termos do art. 585, inciso II, do Código de Processo Civil, haja vista que o juízo arbitral é desprovido de poderes coercitivos. Precedente do STJ. (REsp n. 1.373.710/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe de 27/4/2015.)
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
