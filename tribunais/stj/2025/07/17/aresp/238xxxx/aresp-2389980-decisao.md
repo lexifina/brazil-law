@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por INCORPOL INDÚSTRIA E COMÉRCIO DE POLTRONAS LTDA. (EM RECUPERAÇÃO JUDICIAL) contra decisão que inadmitiu o recurso especial ante a incidência das Súmulas n. 7 e 83 do STJ.
+Em suas razões, a agravante informou que os bens que garantem os contratos Finame Empresarial PSI n. 4001438 (operação 40/01438-X) e Finame Empresarial PSI n. 4001664 (operação 40/01664-1) são infungíveis, motivo pelo qual, seria imprescindível a constituição da garantia fiduciária junto ao cartório de títulos e documentos, consoante disposto no art. 1.361, § 1º, do CC.
+Dessa forma, como os créditos não foram registrados pelo Banco credor, devem ser classificados como quirografários, mantendo-se na recuperação judicial em curso em primeiro grau.
+Requer, portanto, seja conhecido o agravo para se conhecer e dar provimento ao recurso especial.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na incidência das Súmulas n. 7 e 83 do STJ.
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente os referidos óbices sumulares, limitando-se a reiterar as razões do especial acerca da violação do art. 1.361, § 1º, do Código Civil.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ainda que assim não o fosse, à título de reforço argumentativo, é preciso ressaltar que consoante o entendimento deste STJ, " a efetivação da transferência da titularidade dos direitos dados em garantia ao credor fiduciário ocorre a partir da contratação da cessão de créditos ou de títulos de créditos, estando os bens correlatos excluídos do plano de recuperação judicial do devedor cedente, independentemente de seu registro no Cartório de Títulos e Documentos." (AgInt no AREsp 1552342/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/4/2020, DJe 27/4/2020)" (AgInt no AREsp n. 638.252/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/5/2025, DJEN de 23/5/2025).
+Por tais motivos, ainda que superado o óbice da Súmula n. 182 do STJ, é de se concluir que o acórdão recorrido está em consonância com a jurisprudência deste STJ acerca da controvérsia posta em juízo, o que também atrairia a aplicação da Súmula n. 83 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
