@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de reclamação com pedido de liminar ajuizada por FERNANDA LAVEZZO DE MELO contra decisão proferida pela Vice-Presidência do Tribunal de Justiça do Estado de Mato Grosso do Sul, em que se alega a incompatibilidade entre o que ficou decidido no ato reclamado e a jurisprudência do Superior Tribunal de Justiça, notadamente os Temas n. 1.042, 1.178 e 1.267 do STJ.
+Tece diversas digressões sobre o mérito da causa, afirmando, com o intuito de justificar o cabimento da reclamação, que (fls. 5-8):
+A decisao reclamada negou o pedido de justiça gratuita sem apresentar qualquer prova concreta da capacidade da reclamante, o que contraria frontalmente o entendimento pacificado do STJ.
+ ..
+No caso sub judice, da análise dos documentos colacionados aos autos, constata-se que a parte reclamante logrou demonstrar que faz jus ao benefício da gratuidade judiciária.
+ ..
+A jurisprudencia dominante da Corte afirma que a declaraçao de hipossuficiencia goaza de presunçao de veracidade, so podendo ser afastada por prova inequivoca em sentido contrario.
+ ..
+A negativa generica fundada apenas em suspeita ou aparencia de capacidade financeira, fere o direito de acesso a justiça previsto no artigo 5º. Inciso XXXV da Constituiçao Federal.
+ ..
+Alem disso esta pendente de julgamento a ratio do Tema Repetitivo 1178/STJ, segundo o qual " que discute a legalidade de se adotar criterios objetivos rigidos( como renda) para negar a gratuidade, " o que torna ainda mais grave a postura do Tribunal de origem, que antecipou um julgamento que ainda esta em analise pela Corte Superior.
+ ..
+Portanto, ao negar a tramitaçao do recurso especial por ausencia de preparo, mesmo diante do pedido de gratuidade a autoridade reclamada usurpou a compentencia da instancia superior e impediu o exercicio da ampla defesa, razao pela qual a presente reclamaçao é plenamente cabivel.
+É o relatório.
+Decido.
+Segundo o art. 98, § 5º, do Código de Processo Civil, "a gratuidade poderá ser concedida em relação a algum ou a todos os atos processuais, ou consistir na redução percentual de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento".
+Assim, defiro a gratuidade de justiça tão somente para afastar a exigibilidade das custas referente ao ajuizamento desta Reclamação, ficando incólume a questão objeto da presente ação, que é a obtenção do benefício na instância ordinária.
+A reclamação que é da atribuição desta Corte Superior está prevista no art. 105, I, f, da Constituição Federal e constitui garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou à garantia da autoridade de suas decisões, em caso de descumprimento de seus julgados.
+Nota-se que a parte reclamante alega que a decisão reclamada afronta decisões do STJ, bem como os Temas 1.042, 1.178 e 1.267 do STJ. Salienta-se que o Tema 1.042 do STJ foi cancelado, sendo desafetado como repetitivo. Já o Tema 1.178 do STJ está afetado como repetitivo, pendente de julgamento final. E o Tema 1.267 do STJ encontra-se transitado em julgado.
+Nesse contexto, observa-se que, no tocante à alegação de descumprimento de julgado deste Tribunal Superior, o cabimento da reclamação exige a demonstração de que há aderência estrita entre o objeto do ato reclamado e o conteúdo do provimento jurisdicional especificamente proferido pelo STJ para a relação processual originária.
+A propósito do tema, veja-se o que dispõe o artigo 187 do Regimento Interno do STJ:
+Art. 187. Para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária.
+No caso dos autos, os atos reclamados não desrespeitaram decisão ou ordem do STJ que tenha sido vertida em caso relacionado ao da Reclamante, sendo pacífico o entendimento de que não se admite o ajuizamento de reclamação como sucedâneo recursal, isto é, para dirimir divergência jurisprudencial entre o provimento reclamado e precedentes desta Corte Superior.
+A propósito (destaques acrescidos):
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE CONTRARIEDADE AO JULGAMENTO PROFERIDO PELO STJ NOS CONFLITOS DE COMPETÊNCIA N. 170.247/SC, 170.252/SC, 170.253/SC E 170.258/SC. PRETENSÃO DE AMPLIAÇÃO DA EXTENSÃO DO JULGADO. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. A reclamação é medida excepcional, cabível no âmbito desta Corte exclusivamente nas seguintes hipóteses: (a) preservação da competência constitucional do Superior Tribunal de Justiça; e (b) manutenção da autoridade de decisão proferida nesta Corte Superior na análise do caso concreto (envolvendo as mesmas partes da decisão reclamada).
+2. In casu, o reclamante alega que houve desrespeito à decisão proferida por este Tribunal Superior no julgamento dos Conflitos de Competência n. 170.247/SC, 170.252/SC, 170.253/SC e 170.258/SC, em que se reconheceu a competência do Juízo Federal da 5ª Vara de Santos - SJ/SP para processar o inquérito policial n. 5004098-41.2020.4.03.6104 e os seus associados, em que se apura a prática do crime de lavagem de capitais. A conclusão foi tomada com base nos arts. 76, II e III, e 78, II, a, do Código de Processo Penal e no fato de que os delitos que antecederiam o crime de lavagem de capitais seriam o de tráfico internacional de entorpecentes e o de associação para o mesmo fim, que foram objeto do processo de n. 0000334-69.2019.403.6104 (Operação Alba Vírus) perante o Juízo Federal da 5ª Vara de Santos - SJ/SP.
+3. A presente reclamação tem por objeto os autos 50144781420224047208/SC, os quais não foram motivo de análise por esta Corte e cujos investigados são diversos daqueles denunciados nas ações penais que tramitaram perante o Juízo Federal paulista.
+4. O reclamante, ao alegar que os fatos teriam relação direta com aqueles processados em Santos/SP, pretende dar ao julgado desta Corte extensão maior do que a que efetivamente tem, o que desautoriza o manejo da reclamação.
+5. Agravo regimental desprovido.
+(AgRg na Rcl n. 45.646/SC, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 18/6/2024, DJe de 21/6/2024.)
+AGRAVO INTERNO NA RECLAMAÇÃO. DECISÃO QUE NEGOU SEGUIMENTO À RECLAMAÇÃO.
+1. A presente reclamação não foi conhecida ao fundamento de que a alegação de violação de Súmula do STJ e de julgados desta Corte não proferidos no caso concreto, envolvendo as mesmas partes e a mesma demanda, não se enquadra nas hipóteses de cabimento da reclamação.
+2. Inconformada, a reclamante interpõe agravo interno aduzindo, em síntese, que os precedentes por ela indicados se encaixam no art. 927 do CPC, e, portanto, devem ser aplicados com força vinculante para o caso em questão.
+3. "A reclamação, em razão de sua natureza incidental e excepcional, destina-se a preservação da competência e garantia da autoridade dos julgados somente quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada" (AgRg na Rcl n. 6.199/SP, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 19/12/2011).
+4. A alegação de violação de súmula e de julgados proferidos em casos genéricos não se enquadram nas hipóteses de cabimento da reclamação, nos termos da jurisprudência pacificada desta Corte superior.
+5. Não verificada, no momento, a presença dos requisitos autorizadores para condenação em litigância de má-fé.
+Agravo interno improvido.
+(AgInt na Rcl n. 46.219/AP, relator Ministro Humberto Martins, Segunda Seção, julgado em 5/3/2024, DJe de 8/3/2024.)
+Em relação ao Tema n. 1.178 do STJ, afetado como repetitivo, sem julgamento final, observa-se que a reclamação não é via adequada para combater decisão que supostamente descumpre ordem de sobrestamento dos processos em razão de afetação de matérias sob o rito dos Recursos Repetitivos, em face da ausência de expressa previsão legal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. RECLAMAÇÃO CONSTITUCIONAL. DISCUSSÃO QUANTO AO SOBRESTAMENTO DO RECURSO NA ORIGEM. NÃO CABÍVIMENTO.
+(..)
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser incabível o ajuizamento de reclamação contra decisão que defere ou indefere o sobrestamento de feito em razão de recurso especial repetitivo. Precedentes.
+4. Agravo interno desprovido.
+(AgInt na Rcl n. 45.481/SP, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe de 5/10/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SOBRESTAMENTO DO PROCESSO NA ORIGEM. AFETAÇÃO DE TEMA AO RITO DOS RECURSOS REPETITIVOS. TEMA N. 1.085. DESCUMPRIMENTO. AUSÊNCIA DE PREVISÃO LEGAL EXPRESSA. INADEQUAÇÃO DA VIA ELEITA. INICIAL INDEFERIDA. ENTENDIMENTO JURISPRUDENCIAL DO STJ.
+1. A jurisprudência do STJ é pacífica no sentido de que é incabível a propositura de reclamação constitucional contra decisão que descumpre ordem de sobrestamento dos processos em razão de afetação de matérias sob o rito dos recursos repetitivos, face a ausência de expressa previsão legal.
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 44.234/SP, Rel. Min. João Otávio de Noronha, Segunda Seção, DJe de 19/10/2023)
+Por fim, quanto à alegada afronta ao Tema repetitivo n. 1.267 do STJ, a Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento da Rcl n. 36.476/SP, de relatoria da Ministra Nancy Andrighi, firmou a orientação de que não cabe o ajuizamento de reclamação para se aferir o acerto de aplicação, na origem, de tese firmada sob a sistemática dos recursos repetitivos.
+Na oportunidade, prevaleceu o entendimento segundo o qual a admissão da reclamação, em casos tais, atentaria contra a finalidade da instituição do regime dos recursos especiais repetitivos, que surgiu como mecanismo de racionalização da prestação jurisdicional do STJ.
+Nesse sentido, concluiu-se que, uma vez uniformizado o direito por esta Corte, é dos juízes e tribunais locais a incumbência de aplicação individualizada da tese jurídica em cada caso concreto.
+Confira-se, por oportuno, a ementa do aresto:
+RECLAMAÇÃO. RECURSO ESPECIAL AO QUAL O TRIBUNAL DE ORIGEM NEGOU SEGUIMENTO, COM FUNDAMENTO NA CONFORMIDADE ENTRE O ACÓRDÃO RECORRIDO E A ORIENTAÇÃO FIRMADA PELO STJ EM RECURSO ESPECIAL REPETITIVO (RESP 1.301.989/RS - TEMA 658). INTERPOSIÇÃO DE AGRAVO INTERNO NO TRIBUNAL LOCAL. DESPROVIMENTO. RECLAMAÇÃO QUE SUSTENTA A INDEVIDA APLICAÇÃO DA TESE, POR SE TRATAR DE HIPÓTESE FÁTICA DISTINTA. DESCABIMENTO. PETIÇÃO INICIAL. INDEFERIMENTO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Cuida-se de reclamação ajuizada contra acórdão do TJ/SP que, em sede de agravo interno, manteve a decisão que negou seguimento ao recurso especial interposto pelos reclamantes, em razão da conformidade do acórdão recorrido com o entendimento firmado pelo STJ no REsp 1.301.989/RS, julgado sob o regime dos recursos especiais repetitivos (Tema 658).
+2. Em sua redação original, o art. 988, IV, do CPC/2015 previa o cabimento de reclamação para garantir a observância de precedente proferido em julgamento de "casos repetitivos", os quais, conforme o disposto no art. 928 do Código, abrangem o incidente de resolução de demandas repetitivas (IRDR) e os recursos especial e extraordinário repetitivos.
+3. Todavia, ainda no período de vacatio legis do CPC/15, o art. 988, IV, foi modificado pela Lei 13.256/2016: a anterior previsão de reclamação para garantir a observância de precedente oriundo de "casos repetitivos" foi excluída, passando a constar, nas hipóteses de cabimento, apenas o precedente oriundo de IRDR, que é espécie daquele.
+4. Houve, portanto, a supressão do cabimento da reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos, em que pese a mesma Lei 13.256/2016, paradoxalmente, tenha acrescentado um pressuposto de admissibilidade - consistente no esgotamento das instâncias ordinárias - à hipótese que acabara de excluir.
+5. Sob um aspecto topológico, à luz do disposto no art. 11 da LC 95/98, não há coerência e lógica em se afirmar que o parágrafo 5º, II, do art. 988 do CPC, com a redação dada pela Lei 13.256/2016, veicularia uma nova hipótese de cabimento da reclamação. Estas hipóteses foram elencadas pelos incisos do caput, sendo que, por outro lado, o parágrafo se inicia, ele próprio, anunciando que trataria de situações de inadmissibilidade da reclamação.
+6. De outro turno, a investigação do contexto jurídico-político em que editada a Lei 13.256/2016 revela que, dentre outras questões, a norma efetivamente visou ao fim da reclamação dirigida ao STJ e ao STF para o controle da aplicação dos acórdãos sobre questões repetitivas, tratando-se de opção de política judiciária para desafogar os trabalhos nas Cortes de superposição.
+7. Outrossim, a admissão da reclamação na hipótese em comento atenta contra a finalidade da instituição do regime dos recursos especiais repetitivos, que surgiu como mecanismo de racionalização da prestação jurisdicional do STJ, perante o fenômeno social da massificação dos litígios.
+8. Nesse regime, o STJ se desincumbe de seu múnus constitucional definindo, por uma vez, mediante julgamento por amostragem, a interpretação da Lei federal que deve ser obrigatoriamente observada pelas instâncias ordinárias. Uma vez uniformizado o direito, é dos juízes e Tribunais locais a incumbência de aplicação individualizada da tese jurídica em cada caso concreto.
+9. Em tal sistemática, a aplicação em concreto do precedente não está imune à revisão, que se dá na via recursal ordinária, até eventualmente culminar no julgamento, no âmbito do Tribunal local, do agravo interno de que trata o art. 1.030, § 2º, do CPC/15.
+10. Petição inicial da reclamação indeferida, com a extinção do processo sem resolução do mérito.
+(Rcl n. 36.476/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/2/2020, DJe de 6/3/2020.)
+Ante o exposto, indefiro liminarmente a reclamação, prejudicado o pedido liminar.
+Publique-se. Intimem-se.
+ EMENTA
