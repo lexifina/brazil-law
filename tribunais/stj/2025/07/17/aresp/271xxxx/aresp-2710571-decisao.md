@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMARO LTDA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do art. 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fl. 698):
+AGRAVO INTERNO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO DE APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - SENTENÇA QUE DENEGOU A SEGURANÇA - DIFERENCIAL DE ALÍQUOTA DO ICMS (DIFAL) -- TEMA 1.093 DE REPERCUSSÃO GERAL DO STF (RE NO 1.287.019/DF), COM EFEITO VINCULANTE E MODULAÇÃO DE EFEITOS - NÃO APLICAÇÃO À HIPÓTESE DOS AUTOS - MANDAMUS IMPETRADO APÓS A CONCLUSÃO DO JULGAMENTO PELO STF - FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - LEGALIDADE DA COBRANÇA - RECURSO DESPROVIDO.
+1. De acordo com o Tema 1093 do STF (RE 1287019), para a cobrança da diferença de alíquotas do ICMS (DIFAL) nas operações interestaduais envolvendo consumidores finais não contribuintes, há necessidade de edição de lei complementar, nos termos da Emenda Constitucional nº 87/2015.
+2. O Supremo Tribunal Federal, embora tenha modulado os efeitos da referida decisão, estabelecendo que somente a partir do exercício financeiro seguinte à conclusão do julgamento irá produzir efeitos, expressamente excepcionou da modulação as "ações judiciais em curso", o que não é o caso dos autos.
+3. Não obstante a alegação da recorrente no sentido de que seria incompatível sustentar a validade da exigência do FECP diante do afastamento do substrato legal para cobrança do DIFAL/ICMS, verifica-se que não houve discussão a respeito do Fundo de Combate à Pobreza (FECP) no julgamento do Tema nº 1.093/STF, razão pela qual sua exigência merece ser mantida.
+4. Ainda, para o caso de se entender pela acessoriedade do FECP em relação ao DIFAL-ICMS, é certo que se o Estado pode exigir o Diferencial de Alíquota - DIFAL, pode igualmente exigir acréscimo na alíquota destinado ao mencionado Fundo (ADCT-CF, art. 82, § 1º).
+Opostos embargos de declaração, foram estes rejeitados, em aresto assim ementado (fl. 772):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO - MANDADO DE SEGURANÇA - TEMA 1.093 DE REPERCUSSÃO GERAL DO STF (RE NO 1.287.019/DF), COM EFEITO VINCULANTE E MODULAÇÃO DE EFEITOS - NÃO APLICAÇÃO À HIPÓTESE DOS AUTOS - MANDAMUS IMPETRADO APÓS A CONCLUSÃO DO JULGAMENTO PELO STF - FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - LEGALIDADE DA COBRANÇA - ALEGADOS VÍCIOS DE OMISSÃO E CONTRADIÇÃO - VÍCIOS INEXISTENTES - INTENÇÃO DA EMBARGANTE DE REDISCUTIR A MATÉRIA - MERO INCONFORMISMO - VIA INADEQUADA - PREQUESTIONAMENTO - IMPERTINÊNCIA - DESNECESSIDADE DE MENÇÃO EXPRESSA NO ACÓRDÃO AOS ARTIGOS SUPOSTAMENTE VIOLADOS - ACÓRDÃO MANTIDO - EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis para sanar omissão, obscuridade ou contradição contida no julgado, ou, ainda, para sanar erro material, conforme o artigo 1.022 do Código de Processo Civil, vícios estes não identificados no acórdão embargado.
+2. Ao contrário do entendimento defendido pela embargante, o julgado analisou adequadamente os fatos e fundamentos jurídicos, sendo evidente que a embargante não está de acordo com o entendimento adotado e se utiliza da via inadequada para se insurgir.
+3. Desnecessária a menção categórica aos artigos constitucionais e legais para o acesso às instâncias extraordinárias, quando apreciada a matéria pelo Tribunal a quo.
+Em seu recurso especial, às fls. 799-808, a recorrente sustenta violação ao art. 927, I e III, do Código de Processo Civil (CPC), argumentando que o Tribunal de origem teria aplicado de forma equivocada a tese fixada no julgamento do Tema 1.093/STF de repercussão geral, pois a modulação dos efeitos da referida tese não deveria alcançar o caso em apreço, o qual estaria incluído na ressalva relativa às "ações judiciais em curso".
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 856-865):
+Violação da Constituição Federal - Via inadequada
+Nos termos dos artigos 102, III e 105, III, ambos da Constituição Federal, é patente que a afronta à dispositivo constitucional não pode ser objeto de análise nesta via, sob pena de usurpação de competência do STF, uma vez que ao STJ cabe apenas pacificar a interpretação de dispositivo referente a lei federal.
+No caso em concreto, a parte recorrente alega violação ao art. 927, I e III, do CPC, ante a inobservância do ADI 5.469 que afastou a exigibilidade da cobrança da alíquota principal (DIFAL), bem como do acessório, Fundo Estadual de Combate e Erradicação à Pobreza (FECP), argumentando que:
+Por meio do julgamento de ambos os precedentes, foi afastada a cobrança do DIFAL antes da edição de lei complementar nacional regulamentando as normas gerais da exação. Os efeitos dos precedentes foram modulados para valerem a partir de 2022, com ressalva das ações em curso na data do julgamento.
+Dito julgamento ocorreu em 24/02/2021, ao passo que a presente ação foi aforada no MESMO DIA, revelando, portanto, estar ressalvada da modulação de efeitos dos paradigmas o que conduziria à imediata produção de efeitos desses precedentes no caso concreto, afastando-se, portanto, a cobrança do tributo em debate. (..)
+Note-se a definição cristalina de "ações em curso", à luz do precedente vinculante aplicável ao caso concreto: as ações que foram PROPOSTAS até a data de julgamento (24/02/2021) estão ressalvadas da modulação de efeitos.
+Vale ressaltar que, no dia 18/12/2021, foi finalizado o julgamento dos segundos embargos de declaração opostos no Tema 1093 e na ADI 5469, em que o Ministro Toffoli, Relator, deixou mais claro esse marco temporal (ver voto anexo)
+(..)
+Conforme já ressaltado, a presente ação individual foi efetivamente proposta até a data de julgamento, pois aforada também em 24/02/2021, conforme inequivocamente reconhece o acordão recorrido, conforme demonstrado. O colegiado local está objetivamente vinculado a esse entendimento por força do art. 927, I e III, do CPC, e, apesar disso, decidiu de forma frontalmente contrária ao que foi definido pelo STF na questão.
+Entretanto, constata-se que o aresto impugnado, analisou o caso em concreto e consignou as seguintes ponderações nas razões de decidir:
+No caso dos autos, o protocolo da ação originária (24/02/2021) se deu na mesma data da sessão de julgamento do Tema 1.093, contudo, às 21h, ou seja, após a conclusão do julgamento pelo Supremo Tribunal Federal. Assim, o ajuizamento do mandamus se deu somente após a parte ter conhecimento do resultado julgamento do Tema Repetitivo pela Suprema Corte.
+Portanto, a hipótese ora em estima se encontra abarcada pela modulação de efeitos realizada pela Suprema Corte, de modo que somente observará os efeitos do paradigma invocado a partir do ano de 2022, já que o writ não estava em curso quando da conclusão do julgamento pela Suprema Corte.
+(..)
+Como já mencionado, o Supremo Tribunal Federal, embora Ademais, não obstante a alegação da agravante no sentido de que seria incompatível sustentar a validade da exigência do FECP diante do afastamento do substrato legal para cobrança do DIFAL/ICMS, verifica-se que não houve discussão a respeito do Fundo de Combate à Pobreza (FECP) no julgamento do Tema nº 1.093/STF, razão pela qual sua exigência merece ser mantida.
+Ainda, para o caso de se entender pela acessoriedade do FECP em relação ao DIFAL-ICMS, é certo que se o Estado pode exigir o Diferencial de Alíquota - DIFAL, pode igualmente exigir acréscimo na alíquota destinado ao mencionado Fundo (ADCT-CF, art. 82, § 1º).
+Em que pese os argumentos da parte recorrente e citação de dispositivo infraconstitucional, constata-se que a controvérsia envolve matéria eminentemente constitucional, vez que se trata de inconstitucionalidade de regulamentação do Adicional ao FECP, o que afasta a competência do STJ examinar a questão apresentada, em observância da competência inserida no art. 102 da Constituição Federal, porquanto, o Recurso Especial não merece admissão.
+A propósito:
+(..)
+III. O Tribunal de origem decidiu a causa com base em fundamento eminentemente constitucional - além da constitucionalidade do diferencial de alíquotas em operações interestaduais, a observância aos princípios da anterioridade plena e da anterioridade nonagesimal -, de modo que é inviável a apreciação da matéria, em sede de Recurso Especial, sob pena de usurpação de competência do STF. Precedentes
+(..)
+V. Agravo interno improvido. (AgInt no REsp n. 1.876.748/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por fim, inviável a admissão do Recurso Especial, ante a via inadequada.
+(..)
+Ante o exposto:
+ i  inadmito o Recurso Especial, nos termos do art. 1.030, inciso V, do CPC;
+(..).
+Em seu agravo, às fls. 874-876, a agravante alega, em síntese, que "a decisão não está levando em consideração a tese fixada pelo STF (Tema 1.093 e ADI 5469), para julgar a inexigibilidade do tributo, portanto incorrendo na concreta violação do art. 927, I e III do CPC. Assim, esse artigo sendo retirado do Código de Processo Civil, é clara matéria infraconstitucional, cabendo análise meritória pelo E. STJ do recurso especial interposto pela agravante" (fl. 876).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a agravante não infirmou suficientemente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento de que o Tribunal de origem decidiu a causa com base em matéria eminentemente constitucional, de modo que é inviável a análise da tese veiculada em sede de recurso especial, em razão de se tratar de matéria reservada à competência do Supremo Tribunal Federal.
+Entretanto, em sede de agravo em recurso especial, a recorrente deixou de infirmar a contento o fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, a agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos arts. 932, inciso III, do CPC, e 253, parágrafo único, inciso I, do Regimento Interno do STJ (RISTJ), no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, PARÁGRAFO ÚNICO, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
