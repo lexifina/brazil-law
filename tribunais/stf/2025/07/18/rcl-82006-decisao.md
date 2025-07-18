@@ -1,0 +1,78 @@
+DECISÃO
+
+RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DE ORDEM DE SOBRESTAMENTO DOS PROCESSOS NO ÂMBITO DO RE Nº 1.276.977/DF (TEMA RG Nº 1.102): OCORRÊNCIA. ATO IMPUGNADO FUNDADO NO JULGAMENTO DAS ADIS Nº 2.110/DF E Nº 2.111/DF. PROCEDÊNCIA.
+
+    1. Trata-se de reclamação formalizada por Alcides Dorneles Severo, contra decisão proferida pela 2ª Turma Recursal da Seção Judiciária do Rio Grande do Sul, no Processo nº 5014603-49.2021.4.04.7100, mediante a qual o Órgão reclamado teria deixado de observar a suspensão dos processos na origem, determinada no âmbito do Recurso Extraordinário nº 1.276.977/DF (Tema nº 1.102 do ementário da Repercussão Geral).
+
+    2. O reclamante narra que ajuizou ação de revisão de benefício previdenciário contra o INSS, a qual foi julgada improcedente pelo Juízo reclamado, descumprindo, conforme alega, a determinação emanada desta Suprema Corte no julgamento do Tema nº 1.102 do ementário da Repercussão Geral.
+    3. Evoca a decisão liminar proferida pelo eminente Ministro Alexandre de Moraes no âmbito do RE nº 1.276.977-RG/DF, em 28/07/2023, por meio da qual ordenou a suspensão de todos os processos que versem sobre a matéria julgada no Tema RG nº 1.102.
+
+    4. Sustenta, em suma, que, em que pese a decretação do sobrestamento, ainda vigente em todo o território nacional, a autoridade reclamada levantou a suspensão do feito em questão e procedeu seu julgamento.
+
+    5. Em vista disso, requer “seja cassada a decisão reclamada, para que os autos retornem ao sobrestamento, até o julgamento final dos embargos de declaração do RE 1.276.977/DF (Tema 1.102 da Repercussão Geral)”. Pugna pelo deferimento da assistência judiciária gratuita.
+
+É o relatório.
+Decido.
+
+    6. Inicialmente, defiro os benefícios da assistência judiciária gratuita.
+
+    7. A reclamação, inicialmente concebida como construção jurisprudencial, reveste-se de natureza constitucional, tendo como finalidades a preservação da competência do Supremo Tribunal Federal, a garantia da autoridade de suas decisões (art. 102, inc. I, al. “l”, da CRFB), bem como a observância a enunciado da Súmula Vinculante do STF (art. 103-A, § 3º, da CRFB).
+
+    8. Em sede infraconstitucional, encontra regulação nos arts. 988 a 993 do Código de Processo Civil e, especificamente no âmbito do Supremo Tribunal Federal, nos arts. 156 a 162 do respectivo Regimento Interno.
+
+    9. Observo que, nos termos do parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal (RISTF), “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, o que se apresenta na espécie.
+
+    10. Aponta-se, como ato impugnado, na presente reclamação,  acórdão proferido nos seguintes termos (e-doc. 7):
+
+“Trata-se de recurso interposto pela parte autora contra sentença que julgou improcedente o pedido.
+Em seu recurso, a parte autora pretende a revisão da RMI do benefício desde a DER, mediante a aplicação da regra definitiva prevista no art. 29, I da Lei 8.213/1991, na apuração do salário de benefício, calculada de acordo com a regra de transição contida no art. 3º. da Lei 9.876/1999, considerando todo o período de contribuição anteriores a julho de 1994.
+Apresentadas as contrarrazões, vieram conclusos os autos.
+Passo à analise do feito.
+O STF julgou, em repercussão geral, o mérito da matéria objeto do Tema 1102 ("Possibilidade de revisão de benefício previdenciário mediante a aplicação da regra definitiva do artigo 29, incisos I e II, da Lei nº 8.213/91, quando mais favorável do que a regra de transição contida no artigo 3º da Lei nº 9.876/99, aos segurados que ingressaram no Regime Geral de Previdência Social antes da publicação da referida Lei nº 9.876/99, ocorrida em 26/11/99"), firmando a seguinte tese:
+(...)
+No entanto, ressalvado meu posicionamento pessoal, de acordo com o julgamento da ADI 2110 e da ADI 2111, por maioria, o Plenário definiu que a regra de transição, utilizada para o cálculo do benefício dos segurados filiados antes da edição da Lei 9.876/1999, é de aplicação obrigatória. Prevaleceu o entendimento de que, como a Constituição Federal veda a aplicação de critérios diferenciados para a concessão de benefícios, não é possível que o segurado escolha uma forma de cálculo que lhe seja mais benéfica.
+(...)
+Desta forma, a tese fixada de aplicação imediata foi no sentido de que “a declaração de constitucionalidade do art. 3º da Lei 9.876/1999 impõe que o dispositivo legal seja observado de forma cogente pelos demais órgãos do Poder Judiciário e pela administração pública, em sua interpretação textual, que não permite exceção. O segurado do INSS que se enquadre no dispositivo não pode optar pela regra definitiva prevista no artigo 29, incisos I e II, da Lei nº 8.213/91, independentemente de lhe ser mais favorável.”
+Dessa forma, a sentença é de ser confirmada pelos seus próprios fundamentos, nos termos do art. 46 da Lei n.º 9.099/1995, combinado com art. 1º da Lei n.º 10.259/2001. Os fundamentos do acórdão, pois, são os mesmos fundamentos da sentença, onde todas as alegações já foram analisadas.”
+
+    11. No caso, a alegação é a de que o Tribunal reclamado não observou a ordem proferida, em 28/07/2023, pelo Ministro Alexandre de Moraes, no RE nº 1.276.977-RG/DF, leading case do Tema nº 1.102 do ementário da Repercussão Geral, de seguinte teor:
+
+“(...) O Plenário desta CORTE definiu que a suspensão nacional dos processos não é automática, cabendo ao Relator ponderar a conveniência da medida (RE 966177 RG-QO, Min. LUIZ FUX, Tribunal Pleno, DJe 01- 02-2019).
+De fato, o INSS, em 5/5/2023, opôs Embargos de Declaração (doc. 194 – Petição 45.556/2023), apontando omissões no julgado do Tema 1102 e postulou a modulação dos efeitos da decisão.
+Desse modo, é prudente que seja determinada a suspensão dos processos que tramitam nas instância de origem até a decisão definitiva destes declaratórios (doc. 194), haja vista que tramitam nas instâncias inferiores processos versando sobre a matéria analisada no precedente, inclusive com acórdão proferido pelos Tribunais Regionais Federais, o que permitirá a execução provisória dos julgados, até porque alguns tribunais têm determinado a implantação imediata da revisão sem aguardar o trânsito em julgado deste precedente.
+Por outro lado, o relevante impacto social impõe que a tese de repercussão geral seja aplicada sob condições claras e definidas.
+Assim, acolho o pedido do INSS para determinar a suspensão de todos os processos que versem sobre a matéria julgada no Tema 1102, até a data da publicação da ata de julgamento dos Embargos de Declaração (doc. 194) opostos pela autarquia. O julgamento está previsto para a Sessão Virtual do Plenário de 11 a 21 de agosto de 2023.”
+
+    12. Em consulta ao andamento processual do referenciado paradigma, verifico que o julgamento dos embargos de declaração foi agendado, de fato, para a sessão virtual que ocorre entre os dias 06/06/2025 e 13/06/2025. Entretanto, em 10/06/2025, a eminente Ministra Cármen Lúcia pediu vista dos autos, suspendendo-se, assim, o julgamento. Por conseguinte, formalmente, está pendente a condição suspensiva fixada pelo Relator Ministro Alexandre de Moraes na decisão proferida  em 28/07/2023.
+
+    13. Inicialmente, em feitos anteriores, entendi pela superação da ordem de suspensão nacional a partir do julgamento das ADIs nº 2.110/DF e nº 2.111/DF. O exame mais detido da questão me levou a modificar esse entendimento inicial, pelas razões que passo a expor.
+
+    14. Assim, em julgamentos anteriores, como na Rcl nº 75.562-AgR/DF (Rel. Min. Dias Toffoli, j. 28/02/2025, p. 20/03/2025); na Rcl nº 75.953-AgR/DF (Rel. Min. Gilmar Mendes, j. 17/03/2025, p. 02/04/2025); na Rcl nº 75.381-AgR/RJ (Rel. Min. Nunes Marques, j. 17/03/2025, p. 02/04/2025), acompanhei o entendimento firmado, por maioria, no âmbito da Segunda Turma, no sentido de negar seguimento às reclamações de objeto idêntico ao destes autos. Segui essa mesma linha de compreensão nos feitos de minha relatoria, do que são exemplos as decisões monocráticas proferidas na Rcl nº 75.624/DF (j. 03/02/2025, p. 04/02/2025); na Rcl nº 75.765/CE (j. 05/02/2025, p. 06/02/2025); na Rcl nº 76.137/RJ (j. 19/02/2025, p. 20/02/2025); na Rcl nº 76.209/DF (j. 21/02/2025, p. 24/02/2025), entre outras.
+
+    15. Registro que, já no julgamento da Rcl nº 75.562-AgR/DF (acima citada), o eminente Ministro Edson Fachin fez estampar sua divergência. Passei a reanalisar a quaestio, em decorrência da percuciência dos argumentos apresentados por Sua Excelência, os quais, a meu sentir, muito bem descortinaram as efetivas consequências das decisões que entendem pela insubsistência da ordem de suspensão proferida pelo Relator do Tema RG nº 1.102, ante o julgamento das ADIs nº 2.110/DF e nº 2.111/DF, ao pontuar que, “o julgamento de mérito das ADIs nº 2.110 e nº 2.111, Rel. Min. Nunes Marques, ainda que tangencie a discussão contida na tese de repercussão geral de que ora se cuida, não influi automaticamente na referida determinação de suspensão nacional dos processos, que deve ser analisada e ponderada, a tempo e modo, nos autos do respectivo Recurso Extraordinário".
+
+    16. Em minhas apreciações, inclusive, pude sopesar a evolução do entendimento sobre a matéria entre os Ministros da Primeira Turma, os quais, atualmente, vêm julgando procedentes reclamações desta temática, ressalvada a compreensão do e. Ministro Luiz Fux. Corroboram essa afirmação, as decisões proferidas nos seguintes feitos: Rcl nº 75.242/PE, Rel. Min. Flávio Dino, j. 21/01/2025, p. 22/01/2025; Rcl nº 75.506/DF, Rel. Min. Alexandre de Moraes, j. 27/01/2025, p. 29/01/2025; Rcl nº 75.489/RJ, Rel. Min. Cármen Lúcia, j. 28/01/2025, p. 29/01/2025; Rcl nº 75.209/SC, Rel. Min. Cristiano Zanin, j. 01/02/2025, p. 03/02/2025.
+
+    17. Evidentemente, não desconheço a conclusão adotada pelo Plenário desta Corte no julgamento dos embargos de declaração opostos no âmbito da ADI nº 2.111/DF, quando, por maioria, entendeu-se superado o Tema RG nº 1.102 a partir do julgado proferido em controle concentrado. Inclusive, naquela oportunidade, fiquei vencido quanto a essa temática, por considerar estar-se diante de controvérsias distintas. Transcrevo, por oportuno, o teor da respectiva decisão de julgamento:
+
+"Decisão: O Tribunal, por unanimidade, não conheceu dos embargos de declaração opostos pelo Instituto de Estudos Previdenciários (Ieprev) na ADI 2.110. Na sequência, por maioria, conheceu dos embargos de declaração opostos pela Confederação Nacional dos Trabalhadores Metalúrgicos (CNTM) na ADI 2.111 e negou-lhes provimento, tendo em vista a ausência de vícios na decisão embargada, tudo nos termos do voto do Relator. Ficaram vencidos: (i) o Ministro Luís Roberto Barroso (Presidente), apenas no ponto em que entendia desnecessária a restituição dos valores recebidos pelos segurados; (ii) o Ministro Dias Toffoli, apenas no ponto em que modulava, ex officio, o acórdão proferido nas ADIs 2.110 e 2.111; e (iii) os Ministros Alexandre de Moraes, Edson Fachin e André Mendonça, que davam provimento aos embargos opostos pela CNTM e, vencidos quanto à manutenção da tese fixada para o Tema 1.102 da Repercussão Geral, aderiam à modulação proposta pelo Ministro Dias Toffoli. Plenário, Sessão Virtual de 20.9.2024 a 27.9.2024.”
+
+    18. Para além dessa circunstância e, a meu ver, com ainda maior peso argumentativo, fato é que a ordem proferida pelo Relator do Tema RG nº 1.102, Ministro Alexandre de Moraes, de suspensão de todos os processos que versem sobre a matéria controvertida naquele paradigma até a data da publicação da ata de julgamento dos embargos de declaração opostos pelo INSS, está em pleno vigor. A uma, pois não consta daqueles autos qualquer decisão do eminente Relator no sentido de revogá-la e, frisa-se, somente Sua Excelência, enquanto prolator da ordem, teria competência para fazê-lo. A duas, pois os embargos de declaração que poderão colocar termo  ao comando suspensivo ainda não foram julgados (sequer incluídos em pauta de julgamento).
+
+    19. Diante de todas essas especificidades que tangenciam a quaestioem análise, pareceu-me acertada a visão preconizada pelo eminente Ministro Edson Fachin, que é a mesma atualmente prevalente entre os Ministros da Primeira Turma deste Supremo Tribunal Federal, a qual aponta para a higidez da ordem de suspensão proferida no âmbito do RE nº 1.276.977/DF.
+
+    20. Em vista disso, passei a comungar do entendimento de que julgar, em sede reclamatória, a alegada superação do Tema RG nº 1.102, pela decisão proferida na ADI nº 2.110/DF e nº 2.111/DF, constituiria subversão à sistemática da repercussão geral, limitando-me, na espécie, ao exame da derrogação ou não da ordem de suspensão, em vias de promover a prestação da tutela jurisdicional pretendida.
+
+    21. Realço, em repetição, que, na particular hipótese destes autos e, em respeito ao postulado da adstrição, não se está a discutir, aprioristicamente,a superação ou não da questão de mérito controvertida no âmbito do Tema RG nº 1.102. Discute-se, em dimensão compatível com o estreito escopo do pleito reclamatório, a ocorrência ou não de violação à ordem de suspensão nacional dos processos proferida no referido paradigma. E, nesse contexto, certo é que — até o momento — não houve revogação da ordem de suspensão pelo Relator daquele feito, a quem competiria tal proceder, sendo certo, também, que o próprio Relator vem assentando a vigência do efeito suspensivo ora cotejado.
+
+    22. Desse modo e, a par dos argumentos delineados, entendo que na decisão reclamada não foi observada adequadamente a ordem de suspensão nacional dos processos vigente no RE nº 1.276.977/DF (Tema nº 1.102 do ementário da Repercussão Geral).
+
+    23. Ante o exposto, julgo procedente o pedido, para cassar a decisão reclamada e determinar a suspensão do Processo nº 5014603-49.2021.4.04.7100, até a publicação da ata de julgamento dos embargos de declaração pendentes no RE nº 1.276.977/DF (Tema nº 1.102 do ementário da Repercussão Geral). Sem honorários, de acordo com o entendimento prevalente da Segunda Turma do Supremo Tribunal Federal.
+
+Publique-se.
+
+Brasília, 18 de julho de 2025.
+
+Ministro ANDRÉ MENDONÇA
+Relator
+Documento assinado digitalmente
