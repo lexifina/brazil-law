@@ -1,0 +1,2 @@
+Dispõe sobre a destinação para as áreas de educação e saúde de parcela da participação no resultado ou da compensação financeira pela exploração de petróleo e gás natural, com a finalidade de cumprimento da meta prevista no inciso VI do caput do art. 214 e no art. 196 da Constituição Federal; altera a Lei nº 7.990, de 28 de dezembro de 1989; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
