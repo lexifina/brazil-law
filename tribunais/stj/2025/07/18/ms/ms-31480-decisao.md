@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de mandado de segurança impetrado por JOÃO FERREIRA em face de ato, supostamente ilegal e abusivo, praticado pelo Ministro de Estado da Economia, consubstanciado na "omissão continuada do Poder Público em implementar um benefício previdenciário  aposentadoria especial  cujo direito já foi reconhecido de forma definitiva" pela 11ª Junta de Recursos da Previdência Social (CRPS), em sessão realizada em 28/11/2024, "conforme Acórdão n. 11ª JR/16988/2024".
+Segundo o impetrante:
+A referida decisão, que constitui a última instância administrativa ordinária, deveria ter sido cumprida de ofício pelo INSS, com a imediata implantação do benefício. Contudo, em flagrante desrespeito à ordem e ao direito do cidadão, a autarquia permaneceu inerte.
+Diante da omissão, o Impetrante viu-se forçado a ajuizar o Mandado de Segurança n. 6014344-47.2025.4.06.3800/MG, direcionado ao Gerente Executivo do INSS em Santa Luzia/MG.
+Ocorre que, em uma manobra de má-fé e com o claro intuito de procrastinar o feito e criar um embaraço processual, o INSS, somente em 09 de junho de 2025 - ou seja, mais de 6 (seis) meses após a decisão da Junta -, interpôs um Recurso Especial manifestamente intempestivo. Com base nesse ato, a autoridade impetrada no primeiro mandamus alegou sua ilegitimidade, e o D. Juízo da 13ª Vara Federal Cível de Belo Horizonte, em sentença, denegou a segurança, consignando que "o processo administrativo não tramita no INSS" e sim no CRPS, não lhe cabendo "analisar a tempestividade de recurso administrativo".
+O ato ilegal que agora se combate é duplo: (i) a omissão do CRPS em dar efetividade à sua própria decisão final e vinculante e (ii) o ato comissivo ilegal de processar um Recurso Especial absolutamente intempestivo, violando a preclusão temporal e a segurança jurídica, e utilizando-o como pretexto para não cumprir a decisão favorável ao segurado.
+ ..
+O ato coator é a omissão continuada do Poder Público em implementar um benefício previdenciário cujo direito já foi reconhecido de forma definitiva na esfera administrativa. A responsabilidade pela efetivação da decisão do Acórdão n. 11ª JR/16988/2024 é do CRPS, que, em vez de determinar seu cumprimento, aceitou e está processando um recurso ilegal e extemporâneo.
+O Ministro de Estado da Economia, a quem o CRPS é vinculado, é, portanto, a autoridade que, por ação (processar o recurso) e omissão (não determinar a implantação), viola o direito líquido e certo do Impetrante.
+Liminarmente, o impetrante requer que seja determinado ao Ministro de Estado da Economia que obrigue o INSS à "imediata implantação do benefício de aposentadoria especial" em seu favor, sob pena de multa diária. Para tanto, alega que: (i) "a plausibilidade do direito é incontestável, comprovada pelo próprio acórdão do CRPS e pela flagrante intempestividade do recurso interposto pelo INSS, que viola as normas do processo administrativo"; e (ii) "o risco de dano é evidente e grave", tendo em vista o caráter alimentar do benefício de aposentadoria, essencial a sua subsistência.
+Ao final, pleiteia seja concedida a segurança em definitivo, reconhecendo-se o seu direito líquido e certo à "implantação e manutenção" do benefício previdenciário.
+É o relatório. Decido.
+Defiro o pedido de gratuidade de justiça.
+Nada obstante, a inicial deve ser liminarmente indeferida.
+Nos termos do artigo 105, I, b, da Constituição Federal, o STJ é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de Ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Consoante o disposto no § 3º do artigo 6º da Lei n. 12.016/2009, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+No caso, o impetrante não apontou qualquer ato ou omissão que possa ser imputada ao Ministro de Estado da Economia, que nem sequer tem vinculação com o Conselho de Recursos da Previdência Social (CRPS), órgão colegiado responsável por processar e julgar recursos relacionados a decisões do Instituto Nacional do Seguro Social (INSS) em processos de interesse de seus beneficiários e contribuintes.
+Como o próprio nome indica, o CRPS integra a estrutura do Ministério da Previdência Social.
+Logo, a ação mandamental deve ser extinta, sem resolução do mérito, haja vista a indicação errônea da autoridade coatora, não remanescendo no polo passivo da demanda outra autoridade a ser processada pelas demais instâncias judiciárias.
+Ante o exposto, com amparo nos artigos 10 da Lei n. 12.016/2009 e 212 do RISTJ , indefiro liminarmente a inicial e julgo extinto o feito, sem resolução do mérito. Prejudicado o exame do pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
