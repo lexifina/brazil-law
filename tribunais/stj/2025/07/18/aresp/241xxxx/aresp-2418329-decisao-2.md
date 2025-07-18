@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IGOR BEN HUR REIS E SOUZA contra a decisão do Tribunal de Justiça de Minas Gerais que inadmitiu recurso especial, apresentado na Apelação Criminal n. 0017559-16.2014.8.13.0236.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do recurso (fls. 3.652/3.657).
+É o relatório.
+O agravo é inadmissível.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) ausência de prequestionamento (Súmulas 282/STF e 356/STF); e b) reexame de provas (Súmula 7/STJ).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira suficiente, a fundamentação atinente ao óbice referente ao prequestionamento.
+Com efeito, cabia à parte agravante demonstrar, concretamente, que a matéria objeto do apelo nobre foi debatida pelo Tribunal local, transcrevendo os trechos do acórdão atacado em que foi debatida a controvérsia jurídica constante do recurso especial e tida como não prequestionada.
+Ressalto, também nesse particular, que o excerto transcrito pelo agravante não infirma tal conclusão, notadamente porque os argumentos de reforço  obter dictum  não se enquadram no conceito de causa decidida do art. 105, inciso III, da Constituição Federal (AgRg no AREsp n. 2.260.751/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 11/10/2023), hipótese dos autos.
+Ademais, as simples considerações feitas de passagem pelo Tribunal de origem, a título de obiter dictum, não revelam uma tese jurídica oportunamente suscitada e devidamente resolvida no acórdão a quo, na forma como exigido pelo conceito de causa decidida presente no art. 105, III, da Constituição da República, para autorizar a revisão da matéria por este Superior Tribunal (EDcl no AgRg no REsp n. 1.442.224/SP, de minha relatoria, Sexta Turma, DJe 22/9/2016).
+No mesmo sentido: AgRg no AREsp n. 1.905.436/SC, Ministro Ribeiro Dantas, Quinta Turma, D Je 4/10/2021.
+Ademais, ao que se observa, o Tribunal de origem não acolheu os embargos de declaração defensivos, por se tratar de matéria não abordada anteriormente, nem sequer a título subsidiário, já que, no caso em exame, não consta das alegações finais, tampouco das razões recursais.
+Dessa forma, como a tese de reconhecimento da modalidade tentada do delito de embaraço às investigações somente foi levantada por ocasião dos embargos de declaração, a hipótese é de evidente inovação recursal, conduta vedada pela preclusão consumativa.
+No ponto, a jurisprudência deste Tribunal é no sentido de que a inovação recursal impede o conhecimento do recurso, tanto em decorrência da preclusão consumativa quanto na ausência de prequestionamento, ainda que se trate de questão de ordem pública.
+Portanto, também não é possível reconhecer o prequestionamento ficto à espécie (1.025 do CPC) ante a inovação recursal verificada, circunstância que afasta a existência de vício no pronunciamento exarado em segundo grau, pressuposto indispensável para incidência da norma em comento. Confira-se: AgInt no AREsp n. 2.080.529/ES, Ministra Assusete Magalhães, Segunda Turma, julgado em 12/6/2023, DJe 19/6/2023.
+Dessa forma, verifica-se que a parte agravante não se desincumbiu de infirmar o referido óbice aplicado pelo Tribunal local.
+No que se refere a incidência da Súmula 7/STJ, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada. Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+Ante o exposto, não conheço do agravo em recurso especial .
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
