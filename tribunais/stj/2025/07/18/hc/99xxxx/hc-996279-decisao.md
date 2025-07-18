@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ANA WILMA PENIDO MARTINS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do Habeas Corpus Criminal n. 1.0000.24.534530-1/000.
+A paciente foi denunciada como incursa nas sanções do art. 121, § 3º, do Código Penal - CP. Oferecida à paciente a suspensão condicional do processo, mediante a fixação de prestação pecuniária, entre outras medidas, a defesa formulou pedido de retirada da prestação pecuniária da proposta, o que foi indeferido pelo juízo de primeiro grau.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - HOMICÍDIO CULPOSO - OFERECIMENTO DE SUSPENSÃO CONDICIONAL DO PROCESSO - RECONHECIMENTO DA ILEGALIDADE DA CONDIÇÃO DE PRESTAÇÃO PECUNIÁRIA - IMPOSSIBILIDADE - MEDIDA IMPOSTA COM BASE NO ARTIGO 89, § 2º, DA LEI Nº 9.099/95. Não há óbice legal ou prático para que, além das condições previstas em lei, seja celebrado um acordo no qual, conforme o artigo 89, § 2º, da Lei nº 9.099/1995, o acusado assuma obrigações que, na prática, correspondam a penas restritivas de direitos, como a prestação de serviços comunitários, a doação de cestas básicas a instituições filantrópicas ou o pagamento de prestação pecuniária à vítima. Isso porque tais exigências são meramente condições para a efetivação do acordo e, como tais, são cumpridas voluntariamente pelo acusado." (fl. 17)
+No presente writ, a defesa sustenta que a prestação pecuniária é uma pena restritiva de direitos, nos moldes do art. 43 do CP, e que sua imposição em sede de suspensão condicional do processo é ilegal, pois não há previsão legal para tal medida no art. 89 da Lei n. 9.099/1995, argumentando que a aplicação de sanção penal sem previsão legal expressa é uma afronta aos princípios penais basilares.
+Requer, em liminar, a suspensão do feito até o julgamento do presente writ e, no mérito, a concessão da ordem para que seja excluída a prestação pecuniária da proposta de suspensão condicional do processo, mantendo-se as demais condições.
+Liminar indeferida (fls. 43/44).
+Informações prestadas (fls. 47/52).
+Parecer do Ministério Público Federal MPF (fls. 78/82).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração nem sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O Tribunal de origem elucidou que a prestação pecuniária seria destinada à esposa da vítima, mas que o entrave da prestação pecuniária já tinha sido superado na segunda audiência, ocorrida em 29/01/2025:
+"A audiência ocorreu no dia 22 de julho de 2024, sendo que a paciente aceitou parcialmente as condições estabelecidas, pugnando para retirar a obrigação acerca do pagamento referente a prestação pecuniária destinada a esposa e filho da vítima. O pedido para retirar o pagamento da prestação pecuniária foi indeferido, conforme consta em decisão de ID nº 10320585220. Na mesma decisão, foi determinada a intimação da paciente para manifestar seu interesse na proposta formulada pelo Ministério Público. A paciente manifestou aceite, conforme consta na petição de ID nº. 10330481223.
+Assim, foi designada nova audiência para o dia 29/01/2025, data em que efetivamente ocorreu. Contudo, a paciente não aceitou a proposta de SUSPRO, ao argumento de que uma das condições, qual seja, proibição de se frequentar bares, casas noturnas ou estabelecimentos similares (art. 89, §º1, inciso II, da lei 9.099/95), alegando ser a mesma inadequada e desproporcional ao fato.
+ ..
+O artigo 89, §2º, da Lei nº 9.099/95, dispõe que "o juiz poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do acusado".
+No presente caso, a "prestação pecuniária" à qual os impetrantes se referem consiste em uma indenização destinada à esposa da vítima, retomando o artigo 62 da Lei nº 9.099/95, que prevê a reparação dos danos sofridos pela vítima. Ressalte-se, inclusive, que a reparação de dano também é prevista pelo artigo 89, § 1º, I, do mesmo dispositivo.
+Não existe impedimento legal ou prático para que, além das condições previstas em lei, seja celebrado um acordo no qual, conforme o artigo 89, § 2º, da Lei nº 9.099/1995, a paciente assuma obrigações que, na prática, correspondam à indenização ex delicto. Isso porque tais exigências são meramente condições para a efetivação do acordo e, como tais, são cumpridas voluntariamente pelo acusado."
+Embora tenha sido exposto que a paciente havia concordado com prestação pecuniária, esta impetração, ajuizada em 14/04/2025, é posterior a tal audiência.
+A pretensão da defesa é contrária à jurisprudência do STJ elucidada no Tema Repetitivo n. 930:
+"Não há óbice a que se estabeleçam, no prudente uso da faculdade judicial disposta no art. 89, § 2º, da Lei n. 9.099/1995, obrigações equivalentes, do ponto de vista prático, a sanções penais (tais como a prestação de serviços comunitários ou a prestação pecuniária), mas que, para os fins do sursis processual, se apresentam tão somente como condições para sua incidência."
+Ademais, conforme consulta no portal do Judiciário (www.jus.br), em 09/06/2025, a paciente aceitou a proposta de suspensão condicional do processo na Ação Penal n. 0015160-51.2021.8.13.0694, que incluiu pagamento de prestação pecuniária em favor da esposa da vítima.
+Isso posto, nos termos do art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
