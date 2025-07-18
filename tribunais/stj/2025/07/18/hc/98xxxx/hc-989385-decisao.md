@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JEFFERSON NERY DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Agravo em Execução n. 0002097-48.2025.8.26.0502).
+Com efeito, busca a impetração, em síntese, a concessão ao paciente do benefício da remição pelo estudo, em razão de aprovação em 4 áreas de conhecimento no ENEM 2023.
+Sustenta haver ilegalidade na decisão, pois a conclusão do Ensino Médio antes da execução da pena não obsta a remição, conforme entendimento consolidado pelo Superior Tribunal de Justiça.
+Pede, assim, a concessão da ordem para conceder a remição da pena pelo estudo.
+Liminar indeferida às fls. 71/72.
+Informações prestadas às fls. 77/80.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 84/89).
+É o relatório.
+Em que pese o writ tenha sido impetrado como substitutivo de recurso especial - o que é inadmissível (AgRg no HC n. 990.585/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 15/4/2025) -, do atento exame dos autos, observo a ocorrência do ilegal constrangimento.
+Isso porque, ao manter a decisão de indeferimento do pedido de remição, proferida pelo juízo primevo, o Tribunal de origem asseverou que (fls. 27/28):
+  não houve demonstração de que o agravante tenha estudado, ainda que por conta própria, antes de realizar a prova do ENEM, ou seja, o sentenciado trouxe aos autos somente um extrato com as notas obtidas na prova e não comprovou que ele tenha se engajado para obter a aprovação no referido exame, exigência contida no artigo 3º, parágrafo único, da Resolução nº 391/2021, do CNJ, que revogou a Resolução nº 44/2013, do CNJ e que regulamenta os casos em que o estudo não está vinculado à atividade regular de ensino
+
+Em outras palavras, a simples demonstração de participação no exame do ENEM PPL 2023, com aprovação parcial, à míngua de quaisquer planilhas de frequência, indicação de carga horária cumprida ou outro elemento que comprove que o agravante tenha, realmente, se envolvido com as atividades autorizadoras da remição, o indeferimento do pedido de remição da pena deve ser mantido.  ..
+Verifico que a fundamentação adotada pelo Tribunal a quo se encontra em desconformidade com a jurisprudência do Superior Tribunal de Justiça, que admite a remição de pena pela aprovação no ENEM, mesmo para aqueles que já concluíram o ensino médio, pois a aprovação no exame demanda estudos por conta própria, incentivando a ressocialização. 5. A remição de pena por estudo visa fomentar a aquisição de novos conhecimentos e facilitar a reintegração social do apenado, não se limitando àqueles que ainda não concluíram o ensino médio (HC n. 927.806/ES, Ministra Daniela Teixeira, Quinta Turma, DJEN de 18/12/2024).
+Por sinal, é possível a remição de pena pela aprovação no ENEM, independentemente de vínculo com atividades educacionais formais, desde que haja comprovação de aprovação no exame, nos termos da Resolução nº 391/2021 do Conselho Nacional de Justiça (CNJ) e do art. 126 da Lei de Execução Penal (LEP) -(HC n. 949.887/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024).
+Assim, deve a matéria ser reanalisada, com base na documentação fornecida pela defesa do paciente, considerando, ainda, que a aprovação parcial no ENEM garante a remição, não sendo necessária prova do tempo de estudo.
+Na espécie, consoante se extrai dos autos, o paciente pleiteou a remição por ter sido aprovado em 4 áreas de conhecimento no ENEM/2023 (fl. 37). Dessa forma, faz ele jus à remição de pena, contudo, apenas no montante de 80 dias, sem o acréscimo de 1/3, uma vez que ele obteve aprovação parcial no ENEM (4 áreas do conhecimento) e já havia concluído o referido nível escolar antes de iniciar o cumprimento da pena.
+A propósito: AgRg no HC n. 934.530/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 24/2/2025; AgRg no HC n. 792.658/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/8/2024; AgRg no HC n. 858.917/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2023.
+Ante o exposto, concedo a ordem para determinar o reconhecimento de remição de pena ao paciente, pela aprovação no ENEM/2023, no montante de 80 dias (sem o acréscimo de 1/3), incumbindo a o Juízo da execução efetuar o respectivo cálculo (Processo n. 0002533-70.75.2023.8.26.0502, em curso na Unidade Regional do Departamento Estadual de Execução Criminal de Campinas/SP).
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXISTÊNCIA, ENTRETANTO, DE COAÇÃO ILEGAL MANIFESTA. REMIÇÃO PELO ESTUDO. APROVAÇÃO PARCIAL NO ENEM. CONCLUSÃO DO NÍVEL MÉDIO DE ESCOLARIDADE ANTES DO INÍCIO DO CUMPRIMENTO DA PENA. IRRELEVÂNCIA. COMPROVAÇÃO DE ESTUDO NO INTERIOR DA UNIDADE PRISIONAL. DESNECESSIDADE. DIREITO À REMIÇÃO SEM O ACRÉSCIMO DE 1/3 PREVISTO NO ART. 126, § 5º, DA LEI DE EXECUÇÕES PENAIS. PRECEDENTES.
+Ordem concedida nos termos do dispositivo.
