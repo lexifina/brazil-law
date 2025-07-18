@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de pedido de tutela cautelar antecipada, apresentado por Carlos Henrique Torquato Frota, no qual pede a atribuição de efeito suspensivo ao seu recurso especial.
+Narra o requerente que ingressou com ação anulatória de cláusula de garantia de imóvel em alienação fiduciária em face de Caixa Econômica Federal. Alega que o bem imóvel é bem de família (art. 1º, da Lei 8.009/90) e que não integrava o quadro societário quando da contratação da dívida, o que só ocorreu quatro anos depois. Aduz que deve ser aplicado o entendimento do STJ consolidado no Tema n. 1.261.
+O juízo de primeiro grau julgou a demanda improcedente e a apelação do requerente não foi provida pela primeira turma do TRF5. A parte interpôs recurso especial, no qual aponta violação aos arts. 1º, 3º, V, da Lei 8.009/90, bem como descumprimento do tema n. 1.261 do STJ (REsp n. 2.093.929 e REsp 2.105.326). Reitera os argumentos de que o imóvel se constitui como bem de família e que não integrava o quadro societário à época da contratação da dívida, cabendo o ônus da prova de comprovar que o débito da pessoa jurídica se reverteu em benefício da entidade familiar à Caixa Econômica Federal, nos termos do tema n. 1.261 do STJ.
+Como pedido liminar pede a suspensão dos efeitos do acórdão proferido pelo TRF5, suspendendo-se o leilão da venda do imóvel em questão.
+É o relatório. Decido.
+Preliminarmente, releva salientar que a concessão de eficácia suspensiva ao recurso especial, para legitimar-se, pressupõe: a) existência de juízo positivo de admissibilidade, proferida pelo Presidente do Tribunal de origem; b) viabilidade processual do Recurso Especial; c) plausibilidade jurídica do direito invocado e d) periculum in mora.
+Nessa diretriz, a lição do Supremo Tribunal Federal:
+A concessão de eficácia suspensiva ao apelo extremo, para legitimar-se, supõe a conjugação necessária dos seguintes requisitos: (a) que tenha sido instaurada a jurisdição cautelar do Supremo Tribunal Federal (existência de juízo positivo de admissibilidade do recurso extraordinário, consubstanciado em decisão proferida pelo Presidente do Tribunal de origem), (b) que o recurso extraordinário interposto possua viabilidade processual, caracterizada, dentre outras, pelas notas da tempestividade, do prequestionamento explícito da matéria constitucional e da ocorrência de ofensa direta e imediata ao texto da Constituição, (c) que a postulação de direito material deduzida pela parte recorrente tenha plausibilidade jurídica e (d) que se demonstre, objetivamente, a ocorrência de situação configuradora do periculum in mora. Precedentes. (Pet. n. 1859 (Agrg), Rel. Min. Celso de Mello, 2ª Turma, DJ de 28/4/2000, p. 090).
+Nos termos do art. 1.029, §5º, III, do CPC/15 (grifei):
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+No caso dos autos, o recorrente, por meio da presente tutela cautelar antecipada, apresentou pedido de atribuição de efeito suspensivo ao seu recurso especial (fls. 17-25), o qual ainda não foi objeto de juízo de admissibilidade pela Corte a quo.
+Ausente, assim, o juízo positivo de admissibilidade do recurso especial, o qual é necessário para inaugurar a competência desta Corte Superior para atribuir efeito suspensivo ao Recurso Especial.
+Pelo exposto, rejeito liminarmente a tutela cautelar antecipada, ficando prejudicado o pedido liminar.
+Publique-se.
+Intimem-se.
+EMENTA
