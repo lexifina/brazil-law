@@ -1,0 +1,308 @@
+DECISÃO:
+
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Maria da Conceição Hauser contra decisão do Tribunal Regional Federal da 4ª Região, proferida nos autos do Processo nº 5005011-33.2024.4.04.0000/PR, que teria desrespeitado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido no RE nº 564.354 (Tema nº 76 da repercussão geral).
+
+    Narra a parte reclamante que, no processo em referência, objetivou a revisão de benefício previdenciário concedido anteriormente à vigência da CF/88 em decorrência “da majoração dos tetos previdenciários promovida pelas Emendas Constitucionais nº 20/1998 e 41/2003”
+
+    Aduz que a autoridade reclamada “aplicou o entendimento de que, aos benefícios concedidos antes da Constituição Federal de 1988, os limitadores chamados de menor e maior valor-teto não se constituem em limitadores externos”
+
+    Nessa perspectiva, defende que houve erronia na aplicação do Tema nº 76 da repercussão geral para negar seguimento ao recurso extraordinário por si interposto, “sob o fundamento de que o benefício do autor, à época de sua concessão, estaria limitado ao chamado “menor valor-teto”, aplicando de forma isolada a tese firmada no Tema 1140 do Superior Tribunal de Justiça.”
+
+    Conclui que a autoridade reclamada
+
+    “afronta a autoridade do Supremo Tribunal Federal, que, no julgamento do RE 564.354/SE, deixou assentado que o teto previdenciário — independentemente de sua denominação como maior ou menor valor-teto antes da CF/88 — é elemento externo à apuração do salário de benefício e, portanto, deve ser revisto quando da elevação dos tetos constitucionais, em respeito ao patrimônio jurídico do segurado.”
+
+    Como reforço de suas alegações, assevera que, em
+
+    “[p]recedente recente deste Supremo Tribunal Federal, proferido no RE 1253374/RS, reconheceu expressamente a aplicabilidade da tese do Tema 76 aos benefícios concedidos antes da CF/88, esclarecendo que os limitadores legais (incluindo o menor valor-teto) também constituem elementos externos à apuração do salário de benefício e, por consequência, devem ser compatibilizados com os novos tetos estabelecidos pelas Emendas Constitucionais, sem que isso implique reabertura da apuração da renda mensal inicial”
+
+    Requer
+
+    “1. A concessão de medida liminar para suspender os efeitos da decisão reclamada até o julgamento final desta reclamação constitucional;
+
+    2. Ao final, o acolhimento definitivo da presente reclamação, para cassar o acórdão proferido pelo Tribunal Regional Federal da 4ª Região, determinando-se a observância da tese firmada pelo Supremo Tribunal Federal no julgamento do Tema 76, com o consequente provimento do recurso extraordinário ou o retorno dos autos à origem para novo julgamento, em consonância com o entendimento vinculante desta Corte.”
+
+    Pugna, ainda, pela concessão dos benefícios da justiça gratuita.
+
+    É o relatório. Decido.
+
+    Preliminarmente, defiro o pedido de justiça gratuita à reclamante, nos termos do art. 98 e ss. do CPC c/c o art. 62 do RI/STF.
+
+    O julgamento de matéria constitucional pela sistemática da repercussão geral tem por finalidade conferir maior efetividade à atuação do STF como Corte Constitucional - antes prejudicada pela subida de inúmeros recursos com fundamento em idêntica controvérsia, demandando decisões caso a caso mesmo não sendo possível ao STF reanalisar fatos e provas do caso concreto (Súmula STF nº 279) ou avançar sobre matéria infraconstitucional sedimentada nas instâncias ordinária e especial (Súmulas STF nºs 280 e 636).
+
+    Assim, ao se fixar a tese de observância obrigatória pelos demais órgãos do Poder Judiciário, a última palavra em matéria constitucional com repercussão permanece com o STF, encerrando-se a jurisdição na Corte de origem ou na instância especial, conforme o caso, nos processos de matéria constitucional idêntica ou quando o debate tratar de tema infraconstitucional ou desprovido de repercussão geral, sendo o órgão de origem responsável pela concretização do precedente, procedendo à adequação da ratio decidendi do STF aos novos casos de acordo com as provas dos autos.
+
+    Nessa medida, a reclamatória como instrumento de promoção do diálogo, nesta Suprema Corte, entre a decisão no caso concreto e os precedentes obrigatórios do STF tem cabimento excepcional, estando sua admissibilidade condicionada à efetiva demonstração, além do esgotamento de instância (CPC, art. 988, §5º, II), de:
+
+    a) desrespeito à autoridade da decisão do STF, porquanto configurada erronia na aplicação do entendimento vinculante a evidenciar teratologia da decisão reclamada ou
+
+    b) usurpação da competência do STF, pois existente, i) no caso concreto, peculiaridades que impossibilitam a aplicação adequada da norma de interpretação extraída do precedente (distinguishing) a demandar pronunciamento desta Suprema Corte acerca da matéria constitucional no caso concreto, acaso verificada repercussão geral, ou, ii) a necessidade de revisitação dos fundamentos do precedente, tendo em vista a alteração do ordenamento jurídico vigente ao tempo do julgamento ou das circunstâncias fáticas históricas que impactaram a interpretação da norma, com possibilidade de sua superação (overruling).
+
+    Em consulta a Apelação Cível nº 5015678-74.2017.4.04.7000 no sítio eletrônico do TRF 4, observo que a parte reclamante, na origem, ajuizou ação previdenciária revisional, objetivando a recomposição da renda mensal, concedida em momento anterior à CF/88, aos novos tetos dos salários de contribuição previstos nas ECs nºs 20/98 e 41/03, cujo o pleito fora acolhido pela autoridade reclamada em sede de apelação pelo seguinte fundamento:
+
+    “REVISÃO COM BASE NOS NOVOS TETOS DAS EMENDAS CONSTITUCIONAIS NºS 20/98 E 41/03
+
+    A questão submete-se ao decidido pelo Supremo Tribunal Federal, nos autos do RE nº 564354, que pacificou o tema para reconhecer que só após a definição do valor do benefício é que se aplica o limitador (teto). Ele não faz parte do cálculo do benefício a ser pago. Assim, se esse limite for alterado, ele é aplicado ao valor inicialmente calculado. In verbis:
+
+    DIREITOS CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. DIREITO INTERTEMPORAL: ATO JURÍDICO PERFEITO. NECESSIDADE DE INTERPRETAÇÃO DA LEI INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DAS LEIS. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO. 1. Há pelo menos duas situações jurídicas em que a atuação do Supremo Tribunal Federal como guardião da Constituição da República demanda interpretação da legislação infraconstitucional: a primeira respeita ao exercício do controle de constitucionalidade das normas, pois não se declara a constitucionalidade ou inconstitucionalidade de uma lei sem antes entendê-la; a segunda, que se dá na espécie, decorre da garantia constitucional da proteção ao ato jurídico perfeito contra lei superveniente, pois a solução de controvérsia sob essa perspectiva pressupõe sejam interpretadas as leis postas em conflito e determinados os seus alcances para se dizer da existência ou ausência da retroatividade constitucionalmente vedada. 2. Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional. 3. Negado provimento ao recurso extraordinário.
+
+    (RE 564354, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 8-9-2010, REPERCUSSÃO GERAL - MÉRITO DJe-030 DIVULG 14-2-2011 PUBLIC 15-2-2011 EMENT VOL-02464-03 PP-00487)
+
+    Consoante definiu o STF, considera-se que o salário de benefício é a média corrigida dos salários de contribuição dentro do período básico de cálculo, preservando a incidência do fator previdenciário, quando cabível. Ocorre que, para apuração da renda mensal inicial, o salário de benefício sofre uma limitação ao valor máximo do salário de contribuição vigente, recebendo o coeficiente de cálculo respectivo quanto ao tempo de serviço/contribuição.
+
+    Entende-se, assim, que o salário de benefício é parcela existente previamente à limitação imposta pela legislação previdenciária, refletindo o histórico de contribuições do segurado.
+
+    Por questões afetas ao equilíbrio do sistema de seguridade social, a legislação previdenciária prevê, a observância a tetos máximos de contribuição (art. 28, § 5º, da Lei nº 8.212/91) e de benefício devido pela Previdência Social (artigos 29, § 2º, 33 e 41-A, § 1º, todos da Lei nº 8.213/91), afastando-se a percepção de excedentes.
+
+    Identificada a limitação do benefício ao teto vigente à época da concessão, em tese, há direito à revisão com base nos novos tetos das Emendas Constitucionais nºs 20/98 e 41/03, de acordo com o decidido pelo Supremo Tribunal Federal em repercussão geral da matéria (RE nº 564.354).
+
+    Pontua-se que o STF esclareceu que a limitação legal é apenas imposta para fins de pagamento, de modo que não importa em redução do salário de benefício, que sempre será a base de cálculo da renda mensal do segurado.
+
+    A questão não demanda maiores digressões, estando decidida em precedente de observância obrigatória, que assegurou o reajuste do salário de benefício sempre que elevado o teto da previdência, como ocorreu nas Emendas Constitucionais nºs 20/1998 e 41/2003.
+
+    Ressalta-se a inexistência de autorização para modificação dos critérios de cálculo originais dos benefícios, ante a ausência de lei expressa nesse sentido, nos termos do voto da Ministra Carmen Lúcia, exarado nos autos do RE nº 564.354.
+
+    O que ocorre, todavia, é a necessidade de readequação de acordo com o decidido no precedente indicado.
+
+    Cabe acrescentar o trecho do voto do Ministro Gilmar Mendes que bem esclareceu a questão:
+
+    Com o objetivo de contextualizar as questões constitucionais incidentes, consideremos a seguinte cronologia legislativa relativa ao tema central do Recurso Extraordinário:
+
+    - Julho/1991 - Lei nº 8.213/91: "o benefício não poderá ser superior ao limite máximo do salário de contribuição".
+
+    - 16/12/1998 - EC 20/98: fixa o limite em R$ 1.200,00.
+
+    - 31/12/2003 - EC 41/03: fixa o limite em R$ 2.400,00.
+
+    Os valores mencionados sofriam atualizações periódicas. Assim, por ocasião da superveniência da EC 20/98, o valor do limitador de benefícios previdenciários era de R$ 1.081,50 (mil e oitenta e um reais e cinquenta centavos) - valor estabelecido em junho de 1998; na superveniência da EC 41/03, o valor correspondia a R$ 1.869,34 (mil oitocentos e sessenta e nove reais e trinta e quatro centavos) - valor fixado em junho de 2003.
+
+    Presente essa cronologia, pode-se concluir que as contribuições e os benefícios previdenciários encontravam-se sujeitos a dois limitadores distintos: a) limite máximo do salário de contribuição; b) teto máximo do salário de benefício.
+
+    Partindo-se do pressuposto de que o segurado é obrigado a respeitar o limite do salário de contribuição mensal, uma primeira indagação deve ser enfrentada: como é possível a consolidação de um salário de benefício superior ao teto? A resposta pode ser buscada nos diferentes índices utilizados para corrigir as contribuições pagas pelos segurados (salário de contribuição) e o valor nominal do limitador dos benefícios, fenômeno que perdurou até 2/2004, quando os índices foram uniformizados, conforme se demonstra a seguir:
+
+    (...) omissis [tabelas com os índices mencionados]
+
+    Assim, e apenas para exemplificar, no período de 12/1998 a 11/2003, o salário de contribuição recebeu uma atualização monetária acumulada de 98,43%. Nesse mesmo período o limitador previdenciário sofreu uma atualização acumulada de somente 55,77%, ou seja, o segurado contribuiu dentro do limite legalmente permitido, e da atualização dos salários de contribuição (um índice específico - maior) decorreu um salário de benefício que superou o teto em vigor na época da concessão, cujo valor é atualizado por outro índice (menor).
+
+    Esclarecida a origem meramente contábil da discrepância entre valor máximo do salário de contribuição e o valor do limitador previdenciário ("teto previdenciário"), a questão central do debate reside na elucidação da natureza jurídica do limitador previdenciário. Tenho que o limitador previdenciário, a partir de sua construção constitucional, é elemento externo à estrutura jurídica do benefício previdenciário, que não o integra. O salário de benefício resulta da atualização dos salários de contribuição. A incidência do limitador previdenciário pressupõe a perfectibilização do direito, sendo-lhe, pois, posterior e incidindo como elemento redutor do valor final do benefício.
+
+    Dessa forma, sempre que alterado o valor do limitador previdenciário, haverá a possibilidade de o segurado adequar o valor de seu benefício ao novo teto constitucional, recuperando o valor perdido em virtude do limitador anterior, "pois coerente com as contribuições efetivamente pagas". ( CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. Manual de Direito Previdenciário. 12 ed. Florianópolis: Conceito Editorial. 2010. p. 557/558)
+
+    Conclui-se que, sendo o teto limitador elemento externo à estrutura jurídica do benefício, o valor decorrente da apuração do salário de benefício faz parte do patrimônio jurídico do segurado, a fim de que o excedente ao teto possa ser utilizado toda vez que estabelecidos novos limites.
+
+    A questão central consiste, portanto, em identificar se o salário de benefício da parte autora sofreu limitação do teto da previdência social na data de concessão do benefício.
+
+    BENEFÍCIOS CONCEDIDOS ANTES DA CONSTITUIÇÃO FEDERAL DE 1988
+
+    Em recente decisão tomada pelo Plenário Virtual do STF no RE 937.595, em sede de repercussão geral, restou afirmado que a readequação/recomposição dos tetos pelas Emendas Constitucionais nºs 20/98 e 41/03 deve ser realizada de acordo com o caso concreto, de modo a não excluir benefícios deferidos no período do buraco negro, in verbis:
+
+    Direito previdenciário. Recurso extraordinário. Readequação de benefício concedido entre 05.10.1988 e 05.04.1991 (buraco negro). Aplicação imediata dos tetos instituídos pelas EC´s nº 20/1998 e 41/2003. Repercussão geral. Reafirmação de jurisprudência. 1. Não ofende o ato jurídico perfeito a aplicação imediata dos novos tetos instituídos pelo art. 14 da EC nº 20/1998 e do art. 5º da EC nº 41/2003 no âmbito do regime geral de previdência social (RE 564.354, Rel. Min. Cármen Lúcia, julgado em regime de repercussão geral). 2. Não foi determinado nenhum limite temporal no julgamento do RE 564.354. Assim, os benefícios concedidos entre 05.10.1988 e 05.04.1991 (buraco negro) não estão, em tese, excluídos da possibilidade de readequação, segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003. O eventual direito a diferenças deve ser aferido caso a caso, conforme os parâmetros já definidos no julgamento do RE 564.354. 3. Repercussão geral reconhecida, com reafirmação de jurisprudência, para assentar a seguinte tese: "os benefícios concedidos entre 05.10.1988 e 05.04.1991 (período do buraco negro) não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral".
+
+    (RE 937595 RG, Relator(a): Min. ROBERTO BARROSO, julgado em 02/02/2017, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-101 DIVULG 15-5-2017 PUBLIC 16-5-2017)
+
+    Nos termos da decisão à epígrafe, esta Turma entende que a mesma lógica aplica-se aos benefícios concedidos antes da Constituição Federal de 1988, in verbis:
+
+    PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. TETOS. EMENDAS CONSTITUCIONAIS N.° 20/1998 E N.° 41/2003. PRECEDENTE STF. REPERCUSSÃO GERAL. BENEFÍCIOS CONCEDIDOS ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. DECADÊNCIA. PRESCRIÇÃO. CONSECTÁRIOS LEGAIS. HONORÁRIOS. 1. O art. 103 da Lei n.° 8.213/91 não se aplica ao pedido de revisão do benefício com base nos valores dos tetos estabelecidos pelas Emendas Constitucionais n.° 20/1998 e 41/2003, porquanto não se pretende alterar os critérios de cálculo do benefício. Ao invés, trata-se de pretensão de readequação do valor da prestação a partir da entrada em vigor dos novos tetos, a fim de que seja recuperado o excedente do salário de benefício que fora desprezado administrativamente quando da fixação da renda mensal. 2. É pacífica a orientação das Turmas Previdenciárias deste Regional no sentido de que o efeito interruptivo da prescrição deve ser contado da data do ajuizamento da ação civil pública n.° 0004911-28.2011.4.03.6183, ajuizada na Justiça Federal de São Paulo em 05/05/2011. 3. Restou fixado pelo Supremo Tribunal Federal, em regime de repercussão geral, no bojo do RE n.° 564354, que o teto do salário de contribuição é elemento externo à estrutura jurídica dos benefícios previdenciários, razão pela qual o excesso não aproveitado em razão da aplicação do limitador sobre o salário de benefício poderá ser novamente utilizado sempre que alterado o teto do salário de contribuição. 4. O salário de benefício, por ser expressão do aporte contributivo do segurado, será sempre a base de cálculo da renda mensal a ser percebida em cada competência, integrando-se, por conseguinte, ao patrimônio jurídico do beneficiário. 5. O teto do salário de contribuição visa a limitar o valor da prestação no momento do seu pagamento. Não tem, pois, o condão de impedir que o valor desprezado em razão da sua incidência venha a ser novamente considerado quando do aumento real do valor do teto, consoante ocorreu com as Emendas constitucionais n.° 20/1998 e n.° 41/2003. 6. O entendimento exarado pelo STF no RE 564354 também é aplicável aos benefícios concedidos antes da vigência da Constituição Federal de 1988, porque, tanto na legislação anterior à Constituição Federal de 1988 como no regramento posterior, há clara distinção entre salário de benefício e valor do benefício, os quais possuem métodos de cálculo próprios e divergentes. 7. A diferença entre o cálculo da renda mensal inicial na legislação anterior e a atual é que a apuração do limitador, no regime anterior, é mais complexa, mas, ainda assim, aplicando-se o entendimento do STF, a restrição deve existir apenas para fins de pagamento, não havendo redução do salário de benefício. 8. O fato de a média dos salários de contribuição não ter sofrido limitação na data da concessão (por ter ficado abaixo do menor valor-teto) não impede que possa atingir valor superior ao teto do salário de contribuição em dezembro/91, o que geralmente ocorre quando o salário mínimo utilizado como divisor na aplicação do art. 58 do ADCT está defasado (em competências que antecedem mês de reajuste), acarretando uma elevação da média, se considerada sua expressão em número de salários mínimos. 9. A existência de crédito em favor do segurado, decorrente do reconhecimento do direito à aplicação dos tetos da Previdência vigentes no momento do pagamento, será averiguada quando da fase de execução do julgado, onde se dará a escorreita apuração da evolução histórica do salário de benefício. 10. Em consonância com o entendimento fixado pelo Plenário do STF no Tema 810, oriundo do RE 870947, a correção monetária incidirá a contar do vencimento de cada prestação e será calculada pelos índices oficiais e aceitos na jurisprudência, quais sejam: a) INPC (de 04/2006 a 29/06/2009, conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06, precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A à Lei n.º 8.213/91); b) IPCA-E (a partir de 30/06/2009, conforme RE 870.947, j. 20/09/2017). Já os juros de mora serão de 1% (um por cento) ao mês, aplicados a contar da citação (Súmula 204 do STJ), até 29/06/2009. A partir de 30/06/2009, segundo os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, conforme art. 5º da Lei 11.960/09, que deu nova redação ao art. 1º-F da Lei nº 9.494/97. 11. Em razão do improvimento do recurso do INSS, a verba honorária deve ser majorada em favor do patrono da parte vencedora.
+
+    (TRF4, AC 5062979-51.2016.4.04.7000, TURMA REGIONAL SUPLEMENTAR DO PR, Relator AMAURY CHAVES DE ATHAYDE, juntado aos autos em 16-11-2017)
+
+    Ainda:
+
+    PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. TETO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. 1. Nos termos do art. 496, §4º, II, do CPC, não há reexame necessário no caso, pois se trata de matéria decidida pelo Plenário do Supremo Tribunal Federal no julgamento do Recurso Extraordinário nº 564.354. 2. Na hipótese não incide a decadência ou a prescrição de fundo do direito, pois a discussão da aplicação dos limites das ECs n. 20/98 e n. 41/2003 diz respeito ao estabelecimento de critérios de evolução da renda mensal e não ao recálculo da renda mensal inicial ou de qualquer critério pertinente ao ato de concessão do benefício. 3. Consoante orientação do Supremo Tribunal Federal, o teto tem por função apenas limitar o valor do benefício previdenciário no momento de seu pagamento, não impedindo que o valor eventualmente glosado em virtude de sua incidência venha a ser, total ou parcialmente, considerado por ocasião de um aumento real do valor do teto, pois o valor do salário de benefício é o verdadeiro patrimônio jurídico do segurado, tradução, segundo a lei vigente, da sua vida contributiva. 4. O entendimento adotado pelo Supremo Tribunal Federal também se aplica aos benefícios concedidos antes da Constituição Federal de 1988, época em que a legislação previdenciária estabelecia tetos a serem respeitados (no caso o menor e o maior valor teto). 5. Tendo presente o pressuposto de que o salário de benefício é patrimônio jurídico do segurado, resultado da média legal dos salários de contribuição, o menor e o maior valor-teto, aplicáveis aos benefícios anteriores à Constituição, já se configuravam como limitadores externos. Integravam o mecanismo de cálculo da renda mensal inicial, em etapa posterior à apuração do salário de benefício, mas não definiam o salário de benefício. 6. Em tais condições, se esses limites se alteram, tanto em termos de valor como na forma de incidência, o núcleo essencial do direito já incorporado ao patrimônio jurídico do segurado (expresso na média atualizada dos salários de contribuição, reflexo de seu histórico contributivo) deve ser preservado, de forma que, em havendo elevação dos tetos, é no cotejo do salário de benefício com os novos limitadores, que se deve avaliar se há diferenças a serem recuperadas pelo segurado. 7. O ajuizamento da Ação Civil Pública nº 0004911-28.2011.4.03.6183, em 05-05-2011, promoveu a interrupção da prescrição quinquenal, que perdura até a decisão proferida naquele feito transitar em julgado. Portanto, a prescrição quinquenal, no caso, conta-se retroativamente daquela data. 8. O Supremo Tribunal Federal reconheceu no RE 870947, com repercussão geral, a inconstitucionalidade do uso da TR, determinando a adoção do IPCA-E para o cálculo da correção monetária nas dívidas não-tributárias da Fazenda Pública, 9. Os juros de mora, a contar da citação, devem incidir à taxa de 1% ao mês, até 29-06-2009. A partir de então, incidem uma única vez, até o efetivo pagamento do débito, segundo o índice oficial de remuneração básica aplicado à caderneta de poupança.
+
+    (TRF4, AC 5080777-16.2016.4.04.7100, SEXTA TURMA, Relatora TAÍS SCHILLING FERRAZ, juntado aos autos em 6-3-2018)
+
+    Inclusive, o STF assegurou a aplicabilidade da decisão do RE 564.354 aos benefícios deferidos em data anterior à CF/1988:
+
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. RGPS. REVISÃO DE BENEFÍCIO. TEMA 76 DA REPERCUSSÃO GERAL. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL. IRRELEVÂNCIA. 1. Verifico que a tese do apelo extremo se conforma adequadamente com o que restou julgado no RE-RG 564.354, Rel. Min. Cármen Lúcia, DJe 15.02.2011, não havendo que se falar em limites temporais relacionados à data de início do benefício. 2. Agravo regimental a que se nega provimento.
+
+    (RE 959061 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, julgado em 30-9-2016, PROCESSO ELETRÔNICO DJe-220 DIVULG 14-10-2016 PUBLIC 17-10-2016)
+
+    Diante do exposto, passo ao exame da limitação do benefício concedido antes da CF/1988 ao teto da previdência.
+
+    Em casos como o presente, a jurisprudência desta Corte possui entendimento consolidado no sentido de que tanto o menor como o maior valor-teto são caracterizados como limitadores externos, de acordo com a legislação vigente à época da concessão.
+
+    Eis o teor dos arts. 26 e 28 do Decreto nº 77.077/1976 (com redação semelhante nos arts. 21 e 23 do Decreto nº 89.312/1984):
+
+    Art. 26 - O benefício de prestação continuada, inclusive o regido por normas especiais, terá seu valor calculado tomando-se por base o salário-de-benefício, assim entendido:
+
+    I - para o auxílio-doença, a aposentadoria por invalidez, a pensão e o auxílio-reclusão, 1/12 (um doze avos) da soma dos salários-de-contribuição imediatamente anteriores ao mês do afastamento da atividade, até o máximo de 12 (doze), apurados em período não superior a 18 (dezoito) meses;
+
+    II - para as demais espécies de aposentadoria, 1/36 (um trinta e seis avos) da soma dos salários-de-contribuição imediatamente anteriores ao mês do afastamento da atividade, até o máximo de 36 (trinta e seis), apurados em período não superior a 48 (quarenta e oito) meses;
+
+    III - para o abono de permanência em serviço, 1/36 (um trinta e seis avos) da soma dos salários-de-contribuição imediatamente anteriores ao mês da entrada do requerimento, até o máximo de 36 (trinta e seis ), apurados em período não superior a 48 (quarenta e oito) meses.
+
+    § 1º - Nos casos dos itens II e III, os salários-de-contribuição anteriores aos 12 (doze) últimos meses serão previamente corrigidos de acordo com coeficientes de reajustamento a serem periodicamente estabelecidos pelo Ministério da Previdência e Assistência Social.
+
+    Art. 28 - O valor do benefício de prestação continuada será calculado da seguinte forma:
+
+    I - quando o salário-de-benefício for igual ou inferior ao menor valor-teto (artigo 225, § 3º), serão aplicados os coeficientes previstos nesta Consolidação;
+
+    II - quando for superior ao menor valor-teto, o salário-de-benefício será dividido em duas parcelas, a primeira igual ao menor valor-teto e a segunda correspondente ao que exceder o valor da primeira, aplicando-se:
+
+    a) à primeira parcela os coeficientes previstos no item I;
+
+    b) à segunda um coeficiente igual a tantos 1/30 (um trinta avos) quantos forem os grupos de 12 (doze) contribuições acima do menor valor-teto, respeitado, em cada caso, o limite máximo de 80% (oitenta por cento) do valor dessa parcela;
+
+    III - na hipótese do item II o valor da renda mensal será a soma das parcelas calculadas na forma das letras a e b , não podendo ultrapassar 90% (noventa por cento) do maior valor-teto (artigo 225, § 3º).
+
+    § 1º - O valor obtido será arredondado, se for o caso, para a unidade de cruzeiro imediatamente superior.
+
+    § 2º - O valor mensal das aposentadorias de que trata o item II do artigo 26 não poderá exceder 95% (noventa e cinco por cento) do salário-de-benefício.
+
+    § 3º - O valor mensal do benefício de prestação continuada não poderá ser inferior aos seguintes percentuais, em relação ao valor do salário-mínimo mensal de adulto da localidade trabalho do segurado:
+
+    a) a 90% (noventa por cento), para as aposentadorias;
+
+    b) a 75% (setenta e cinco por cento), para o auxílio-doença;
+
+    c) a 60% (sessenta por cento), para a pensão.
+
+    § 4º - Para o segurado aeronauta os percentuais do § 3º serão aplicados ao valor do maior salário-mínimo vigente no País.
+
+    Observa-se que a legislação anterior à CF/1988 estabelecia as figuras do menor e maior valor-teto, sendo o cálculo da renda inicial realizado pelo coeficiente relativo à espécie e a integralidade/proporcionalidade do benefício.
+
+    Benefícios iguais ou inferiores ao menor valor-teto na data da concessão não fazem jus à revisão dos tetos, posto que inexiste excedente a considerar.
+
+    Para os benefícios que superavam o menor valor-teto, a renda mensal era calculada em duas parcelas, dividindo-se o salário de benefício em duas partes. A primeira correspondia ao citado menor valor-teto, já a segunda utilizava o excedente ao menor valor-teto até o máximo de 80%, calculando-se o adicional mediante multiplicação por 1/30 de cada grupo superior a 12 contribuições.
+
+    Logo, a renda mensal do segurado correspondia à soma das duas parcelas (básica e adicional), as quais não poderiam ultrapassar 90% do maior valor-teto, nem 95% do salário de benefício para as espécies de aposentadoria tratadas no item II do art. 26 citado à epígrafe.
+
+    Nesses termos, repisando a orientação do Supremo Tribunal Federal, no sentido de que o salário de benefício é patrimônio jurídico do segurado, razão porque deve ser calculado de acordo com os elementos obtidos durante a vida contributiva, a jurisprudência majoritária desta Corte alinha-se para caracterizar o menor e maior valor-teto como elementos externos, na medida em que implicam em limitação ao valor global calculado, incidindo diretamente na renda mensal inicial, como etapa posterior à apuração do salário de benefício.
+
+    De modo, porém, que não se alterem os critérios de cálculo originais dos benefícios, ante a ausência de lei expressa nesse sentido, devem ser observados os coeficientes de cálculo incidentes em cada espécie de benefício, nos termos do art. 35 e seguintes do Decreto nº 77.077/1976, bem como os percentuais elencados no regulamento.
+
+    Esclareço:
+
+    1) Aposentadoria por invalidez - deve ser calculada de acordo com o Decreto nº 77.077/1976, utilizando-se a fórmula do art. 26, I (1/12 (um doze avos) da soma dos salários-de-contribuição imediatamente anteriores ao mês do afastamento da atividade, até o máximo de 12 (doze), apurados em período não superior a 18 (dezoito) meses), sendo a renda mensal correspondente a 70% do salário de benefício, mais 1% por ano completo de atividade ou contribuição recolhida, até o máximo de 30%;
+
+    2) Demais espécies de aposentadoria - devem ser calculadas de acordo com o Decreto nº 77.077/1976, utilizando-se a fórmula do art. 26, II (1/36 (um trinta e seis avos) da soma dos salários-de-contribuição imediatamente anteriores ao mês do afastamento da atividade, até o máximo de 36 (trinta e seis), apurados em período não superior a 48 (quarenta e oito) meses), sendo a renda mensal calculada de acordo com a espécie de aposentadoria, não podendo ultrapassar 95% do salário de benefício e, quando superior ao menor valor-teto, dividida em duas parcelas, cuja soma não poderá ultrapassar 90% do maior valor-teto;
+
+    2.a) Aposentadoria por velhice - calculada nos mesmos termos da aposentadoria por invalidez (art. 37);
+
+    2.b) Aposentadoria especiais - calculada de acordo com o Capítulo V do Decreto nº 77.077/1976;
+
+    2.c) Aposentadoria por tempo de serviço - art. 41 - quando o salário de benefício for superior ao menor valor-teto: a renda mensal será calculada em duas etapas, aplicando-se à parcela excedente ao menor valor-teto o coeficiente de 80%, não podendo exceder 90% do maior valor-teto.
+
+    Consigna-se que o menor valor-teto era equivalente a 50% do maior valor-teto/teto do salário de contribuição.
+
+    Além disso, considera-se que os percentuais descritos integravam o mecanismo de cálculo da renda mensal inicial, consoante o coeficiente relacionado ao tempo de serviço de cada segurado.
+
+    Portanto, em sede de execução, o salário de benefício deve ser evoluído, observado-se os coeficientes determinados na legislação vigente à época da concessão do benefício de cada espécie de benefício, em especial, não podendo a renda mensal ultrapassar 95% do salário de benefício e, quando superior ao menor valor-teto, dividida em duas parcelas, cuja soma não poderá ultrapassar 90% do maior valor-teto.
+
+    A limitação deve ocorrer apenas para fins de pagamento.
+
+    Ressalta-se que os critérios de concessão originais dos benefícios iniciados antes da Constituição Federal de 1988 jamais foram declarados inconstitucionais, impondo-se sua manutenção, considerando o princípio tempus regit actum, reconhecidamente aplicável.
+
+    Assim, quando ultrapassado o menor valor-teto, cabível assegurar aos segurados aposentados antes da Constituição Federal de 1988 a revisão com base nas Emendas Constitucionais supervenientes, que majoraram o teto da Previdência Social, mantidos os critérios de concessão originais.
+
+    Ressalta-se que a posterior extinção das figuras do menor e maior valor-teto com o advento da Lei nº 8.213/1991 não inviabiliza a revisão pretendida, tampouco a revisão prevista no art. 58 do ADCT retira o direito da parte de ver o valor de seu rendimento recomposto com base nos novos tetos.
+
+    Acrescenta-se que somente haverá direito à incidência dos novos tetos se a renda mensal tiver sofrido redução em decorrência da aplicação do limitador vigente na data da concessão.
+
+    Nesse sentido, o entendimento da 5ª Turma:
+
+    PREVIDENCIÁRIO. RENDA MENSAL INICIAL. READEQUAÇÃO DO LIMITE DE PAGAMENTO. RECUPERAÇÃO DOS EXCESSOS DESPREZADOS NA ELEVAÇÃO DO TETO DAS ECS 20/1998 E 41/2003. IMPOSSIBILIDADE. caso concreto não atrai a hipótese de incidência do re 564.354/se. 1. O Pleno do STF, por ocasião do julgamento do RE 564.354/SE, em 08/09/2010, em sede de repercussão geral, decidiu que a aplicação imediata do artigo 14 da EC nº 20/98 e do artigo 5º da EC nº 41/03 aos benefícios previdenciários limitados a teto de pagamento do Regime Geral de Previdência Social e concedidos antes da vigência dessas normas, de modo a que passem a observar os novos tetos constitucionais, não representa aumento ou reajuste, não ofende a garantia do ato jurídico perfeito e apenas garante readequação dos valores de pagamento aos novos tetos. A mera limitação de pagamento de um benefício previdenciário a um teto previdenciário constitui elemento condicionante externo e posterior ao cálculo da renda mensal, não envolvendo os elementos internos ao ato de concessão. 2. Entretanto, no caso concreto, restou demonstrado nos autos que o benefício não sofreu limitação ao teto para fins de pagamento, sendo a confirmação da sentença de improcedência a medida que se impõe.
+
+    (TRF4, AC 5001405-58.2016.4.04.7119, QUINTA TURMA, Relatora ANA PAULA DE BORTOLI, juntado aos autos em 20-4-2018)
+
+    agrAVO DE INSTRUMENTO. PREVIDENCIÁRIO. EXECUÇÃO. EXCESSO DE EXECUÇÃO. TETOS. EC Nº 20/98 E EC Nº 41/2003.CABIMENTO. 1.Não se evidenciando a base sobre a qual deverão incidir os novos tetos,  inexistem diferenças a ser pagas, porque o benefício não sofreu limitação em seu valor inicial, pela incidência do teto. 2. Hipótese em que o autor não demonstra ter havido, após a concessão do benefício, qualquer revisão dos critérios de cálculos da RMI que pudesse tê-la elevado ao nível dos novos tetos.
+
+    (TRF4, AG 5040802-44.2016.4.04.0000, QUINTA TURMA, Relatora GISELE LEMKE, juntado aos autos em 4-12-2017)
+
+    Nos mesmos termos, o seguinte precedente desta Turma:
+
+    PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. LIMITAÇÃO AO TETO. INEXISTÊNCIA DE EXCEDENTES A SEREM CONSIDERADOS. 1. Identificada a limitação do benefício ao teto vigente à época da concessão, em tese, há direito à revisão com base nos novos tetos das Emendas Constitucionais nºs 20/98 e 41/03, de acordo com o decidido pelo Supremo Tribunal Federal em repercussão geral da matéria (RE nº 564.354). 2. Não encontrando o valor do salário de benefício devido limitação no teto vigente à época da concessão, não há excedentes a serem considerados, para fins de incidência dos novos tetos das Emendas Constitucionais nºs 20/98 e 41/03.
+
+    (TRF4, AC 5004071-55.2013.4.04.7016, TURMA REGIONAL SUPLEMENTAR DO PR, Relator FERNANDO QUADROS DA SILVA, juntado aos autos em 28-11-2017)
+
+    Consigno que tal entendimento fundamenta-se nos julgamentos do Supremo Tribunal Federal, especialmente na decisão do Ministro Teori Zavascki ao complementar o RE 564354, estendendo os efeitos da decisão também para os benefícios concedidos no período do buraco negro, in verbis:
+
+    (...) Na verdade, o único requisito para a aplicação dos novos tetos aos benefícios concedidos anteriormente à sua vigência é que o salário de benefício tenha sofrido, à época de sua concessão, diminuição em razão da incidência do limitador previdenciário então vigente. A questão foi bem explicitada pelo voto do Min. Gilmar Mendes: (…) o limitador previdenciário, a partir de sua construção constitucional, é elemento externo à estrutura jurídica do benefício previdenciário, que não o integra. O salário de benefício resulta da atualização dos salários de contribuição. A incidência do limitador previdenciário pressupõe a perfectibilização do direito, sendo-lhe, pois, posterior e incidindo como elemento redutor do valor final do benefício. Dessa forma, sempre que alterado o valor do limitador previdenciário, haverá possibilidade de o segurado adequar o valor de seu benefício ao novo teto constitucional, recuperando o valor perdido em virtude do limitador anterior, “pois coerente com as contribuições efetivamente pagas.” (CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. Manual de Direito Previdenciário. 12 ed. Florianópolis: Conceito Editorial. 2010. p. 557/558). No caso em exame, o benefício previdenciário do recorrido foi concedido em 7 de junho de 1990, no período do denominado “buraco negro”, em que o cálculo dos benefícios pelo INSS não observou as regras estabelecidas no art. 202 da CF/88. Para a correção desse equívoco, o art. 144 da Lei 8.213/91 determinou que, até 1º de julho de 1992, todos os benefícios de prestação continuada concedidos pela Previdência Social, entre 5 de outubro de 1988 e 5 de abril de 1991, deveriam ter sua renda mensal inicial recalculada e reajustada, de acordo com as regras estabelecidas naquele diploma legal. Ora, se (a) a renda mensal inicial dos benefícios concedidos entre 5 de outubro de 1988 e 5 de abril de 1991 foi erroneamente calculada e (b) esse equívoco só foi corrigido com o advento da Lei 8.213/91, conclui-se que fará jus à incidência dos tetos das ECs 20/98 e 41/03 o segurado (I) cujo benefício houver sido instituído durante o “buraco negro”; e (II) cuja renda mensal recalculada nos termos do art. 144 da Lei 8.213/91 tiver sofrido redução em razão da incidência do limitador então vigente (o limite máximo do salário de contribuição na data de início do benefício, nos termos do art. 29, § 2º, da Lei 8.213/91). 3. Diante do exposto, nego seguimento ao recurso extraordinário. Publique-se. Intime-se. Brasília, 3 de fevereiro de 2016. Ministro Teori Zavascki Relator Documento assinado digitalmente
+(RE 932835, Relator(a): Min. TEORI ZAVASCKI, julgado em 3-2-2016, publicado em DJe-027 DIVULG 12-2-2016 PUBLIC 15-2-2016)
+
+    Desse modo, inexistem dúvidas de que o critério objetivo a ser adotado é que o salário de benefício tenha sofrido limitação na data da concessão, razão porque não é possível evoluir a RMI no tempo para apurar se ocorre eventual limitação futura, considerando que o Supremo Tribunal Federal expressamente refuta a tese de que se trata de reajuste dos benefícios, o que, inclusive, poderia atrair o prazo de decadência do direito.
+
+    De outro lado, ainda que o benefício tenha sofrido limitação ao teto quando da concessão, caso posteriormente tenha ocorrido a recomposição do salário, de forma a não alcançar mais os valores dos tetos, inexiste excedente a ser considerado, consoante o entendimento desta Corte:
+
+    APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE SENTENÇA. DIFERENÇAS DECORRENTES DA RECOMPOSIÇÃO DE VALORES EXPURGADOS POR OCASIÃO DA APLICAÇÃO DOS TETOS ESTABELECIDOS PELAS EC 20/98 E 41/03. INEXISTÊNCIA. 1. Em que pese o acórdão proferido nos autos da ação de conhecimento tenha assegurado à parte exequente a recomposição, no cálculo da renda mensal de seu benefício, de valores eventualmente glosados quando da aplicação dos tetos previstos nas Emendas Constitucionais 20/1998 e 41/2003, o fato é que o benefício em questão não sofreu qualquer decote pela aplicação de tais limitadores. 2. In casu, o salário de benefício da parte autora sofreu limitação pelo teto vigente no momento da concessão da aposentadoria, mas houve a recomposição desta limitação quando aplicado o primeiro reajustamento do benefício, juntamente com o índice extrateto, na forma do disposto no art. 21, da Lei 8880/94, de tal forma que o resultado apurado naquela oportunidade restou inferior ao teto da época e, desde então, com a aplicação dos reajustes anuais, a renda mensal da aposentadoria do exequente não mais atingiu valor superior ao teto de pagamento dos benefícios previdenciários, razão pela qual não se cogita da existência de expurgos a serem recompostos.
+
+    (TRF4, AC 5050919-85.2012.4.04.7000, SEXTA TURMA, Relatora VÂNIA HACK DE ALMEIDA, juntado aos autos em 25-11-2016)
+
+    PREVIDENCIÁRIO. REVISÃO. NOVOS TETOS. SALÁRIO-DE-BENEFÍCIO INFERIOR AO TETO. ART. 26 DA LEI Nº 8.870/94. No presente caso, não há diferenças em favor da parte autora, uma vez que o benefício da parte autora limitado na concessão do benefício foi recuperado em 04/1994 quando da aplicação do índice disposto no art. 26 da lei 8.870/94. Assim, o valor apurado foi inferior ao teto e sua evolução não alcançou os valores do teto nas demais competências posteriores.
+
+    (TRF4, AC 5033237-15.2015.4.04.7000, SEXTA TURMA, Relator HERMES SIEDLER DA CONCEIÇÃO JÚNIOR, juntado aos autos em 5-5-2016) (grifei)
+
+    Por fim, como não se mostra possível afirmar categoricamente, na atual fase processual, que o benefício sofreu limitação no teto quando da concessão, cabível remeter a identificação de eventual excedente à fase de execução.
+
+    Nesse sentido:
+
+    PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. ARTIGOS 543-B, § 3º E 543-C, § 7º, II, DO CPC. REVISÃO DE BENEFÍCIO CONCEDIDO. DECADÊNCIA. ARTIGO 103 DA LEI Nº 8.213/91. RECURSO ESPECIAL REPETITIVO E REPERCUSSÃO GERAL. RECONHECIMENTO. LIMITAÇÃO DO SALÁRIO-DE-BENEFÍCIO AO TETO DO SALÁRIO DE CONTRIBUIÇÃO. PEDIDO AUTÔNOMO. INTERESSE PROCESSUAL. 1. No REsp 1.309.529, admitido como representativo de controvérsia, o STJ entendeu que incide o prazo de decadência do art. 103 da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997, convertida na Lei 9.528/1997, no direito de revisão dos benefícios concedidos ou indeferidos anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência (28-06-1997). 2. Definiu o Supremo Tribunal Federal (RE 626.489) que a norma processual de decadência decenal incide a todos benefícios previdenciários concedidos, desde o dia primeiro do mês seguinte ao do recebimento da primeira prestação a partir de 01/08/97, após não sendo possível revisar a RMI pela inclusão de tempo, sua classificação como especial, ou por erros de cálculo do PBC. 3. A pretensão da parte autora no tocante à incorporação do excedente ao teto no primeiro reajuste, constitui na verdade, pedido diverso daquele relativo à retroação do período básico de cálculo do benefício, sendo, na verdade, um pedido autônomo, razão pela qual não resta prejudicado o seu exame em razão do reconhecimento da decadência de revisão da renda mensal inicial. 4. Tendo em vista que o pedido relativo à forma de cálculo dos reajustes não envolve a revisão do ato de concessão, não existe, neste caso, limite decadencial para que revise seu benefício. 5. A recuperação das diferenças desconsideradas pela limitação do salário de benefício ao teto do salário de contribuição podem ser feitas já desde o primeiro reajuste do benefício (art. 26 da Lei n.º 8.870/94, art. 21, §3º, da Lei n.º 8.880/94, e art. 35, § 3º, do Decreto n.º 3.048/99) e, inclusive, nos subseqüentes, bem como por ocasião da alteração do valor máximo do salário de contribuição. 6. A existência de prejuízos pela limitação aos tetos não é casuisticamente calculada, o que se dará na competente fase da execução, inclusive porque possível é a existência de correlato pleito (na via administrativa ou judicial) de elevação do salário-de-benefício do(a) autor (a).
+
+    (TRF4, AC 5018550-29.2012.4.04.7100, SEXTA TURMA, Relator CELSO KIPPER, juntado aos autos em 19-2-2016) (grifei)
+
+    Nesses termos, julgo procedente o recurso, para reconhecer o direito da parte autora à revisão com base nos novos tetos das ECs 20/98 e EC 41/03, mantidos os critérios originários da concessão.”
+
+    Depreende-se, ainda, da consulta dos andamentos processuais, que esse acórdão transitou em julgado em 17/10/19, bem como que, na fase do Cumprimento de Sentença nº 5015678-74.2017.4.04.7000, foi rejeitada a impugnação apresentada pelo INSS, sob o fundamento de que, no caso, ofenderia a coisa julgada a aplicação da tese do IAC nº 6 do TRF 4, na qual disciplinou, a partir do que decidido no Tema nº 76 da repercussão geral, a forma de cálculo inicidentes aos benefícios previdenciários concedidos anteriormente à CF/88 e limitados pelos tetos previstos na legislação vigente no respectivo período.
+
+    Contra essa decisão foi dado provimento ao Agravo de Instrumento nº 5005011-33.2024.4.04.0000 “ para acolher a impugnação do INSS no sentido de que a aplicação do IAC 6 do TRF4 ofende a coisa julgada, devendo ser realizados os cálculos pela contadoria com base nos critérios definidos no título executivo”.
+
+    A parte ora reclamante, por sua vez, interpôs recurso extraordinário, com fundamento no art. 102, III, alínea "a", da CF/88, no qual apresentou, dentre outras alegações, violação ao Tema nº 76 da repercussão geral, requerendo que fosse
+
+    “fixada tese estabelecendo que menor e maior valor-teto consistem em elementos externos ao benefício e, por isso, devem ser desprezados na atualização do salário de benefício para fins de readequação ao teto vigente na competência do respectivo pagamento; seja ao final julgado integralmente procedente o recurso extraordinário interposto a fim de se impedir a aplicação de qualquer outro teto limitador de pagamentos aos benefícios da parte recorrente, que, sob o falso pretexto de atender regra de cálculo que vigorava antes da CF/88 e que fora modificada pelo art. 58 do ADTC, cria uma limitação temporal para a aplicação dos tetos previstos nas Emendas Constitucionais 20/98 e 41/03 em afronta ao tema Tema 76 do STF.”
+
+    Negado seguimento ao apelo extremo, ante a compreensão de que a decisão recorrida estaria em conformidade com o Tema nº 76 da repercussão geral, a parte reclamante interpôs agravo interno, sustentando que
+
+    “o Tema 1140 do STJ, que fora aplicado no acórdão recorrido, está em contradição com o Tema 76 do STF, uma vez que apenas autoriza a aplicação dos tetos das emendas constitucionais n° 20/98 e 41/2003 para os benefícios previdenciários anteriores à Constituição Federal de 1998 e que foram “submetidos a limitadores”, porém sem considerar o menor valor-teto como limitador, ou seja, criando uma limitação temporal para aplicação do Tema 76/STF.”
+
+    A autoridade reclamada manteve a decisão agravada em acórdão assim ementado:
+
+    “AGRAVO INTERNO. DECISÃO DA VICE-PRESIDÊNCIA. RECURSO EXTRAORDINÁRIO. TEMA STf 76. NEGATIVA DE SEGUIMENTO. REVISÃO. IMPOSSIBILIDADE.
+
+    1. Há previsão no artigo 1.040, I, do CPC/15 de que, uma vez publicado o acórdão paradigma, o Presidente ou o Vice-Presidente do tribunal de origem negará seguimento ao recurso especial ou extraordinário, se o acórdão recorrido coincidir com a orientação do tribunal superior.
+
+    2. A decisão alinha-se com o entendimento do STF na análise do paradigma relativo ao Tema 76, inexistindo, pois, motivo para a pretendida reforma.”
+
+    Extrai-se da exordial reclamatória, que a parte reclamante pretende a readequação do valor do benefício previdenciário concedido em momento anterior à CF/88 aos tetos previsto nas ECs nºs 20/98 e 41/03, sem que haja reabertura da apuração da renda mensal inicial nos moldes da tese firmada no Tema Repetitivo nº 1140/STJ, que possui o seguinte teor:
+
+    “ Para efeito de adequação dos benefícios previdenciários concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais n. 20/1998 e 41/2003, no cálculo devem-se aplicar os limitadores vigentes à época de sua concessão (menor e maior valor teto), utilizando-se o teto do salário de contribuição estabelecido em cada uma das emendas constitucionais como maior valor teto, e o equivalente à metade daquele salário de contribuição como menor valor teto.”.
+
+    Delineada a moldura fático-jurídica subjacente à reclamação, não vislumbro ocorrência de teratologia na decisão denegatória de seguimento do recurso extraordinário com fundamento no Tema nº 76 da repercussão geral, por meio do qual reconheceu a aplicabilidade do artigo 14 da Emenda Constitucional nº 20/98 e do artigo 5º da Emenda Constitucional nº 41/03 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+
+    Isso porque, para fins de adequação ao Tema nº 76 RG aos casos como o presente, o STJ definiu a tese do Tema Repetitivo nº 1140, a partir da interpretação de normas infraconstitucionais vigentes à época, no sentido de que aos benefícios concedidos antes da CF/88, devem ser respeitados os limitadores — menor e maior valor teto —ao tempo da concessão, empregando os tetos das emendas como maior valor teto e seus respectivos valores reduzidos como menor valor teto.
+
+    Para melhor compreensão, transcrevo a ementa do recurso especial vinculado ao Tema Repetitivo nº 1140:
+
+    “PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. ADEQUAÇÃO AOS TETOS DAS EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. FORMA DE CÁLCULO. MENOR E MAIOR VALOR TETO. OBSERVÂNCIA.
+
+    1. A controvérsia delimitada no presente recurso especial cinge-se à definição da forma de cálculo da renda mensal dos benefícios previdenciários concedidos antes da Constituição Federal para efeito de adequação aos tetos das Emendas Constitucionais n. 20/1998 e 41/2003, em face da aplicação, ou não, dos limitadores vigentes à época de sua concessão, chamados de menor e maior valor teto (mvt e Mvt).
+
+     2. O direito do segurado à adequação dos tetos da Previdência Social estabelecidos pelas ECs n. 20/1998 e 41/2003 aos benefícios previdenciários em manutenção foi reconhecido pelo Supremo Tribunal Federal no julgamento do RE 564.354/SE (Tema 76 do STF), consignando a Corte Suprema que o teto da Previdência Social é elemento externo ao cálculo do benefício e, portanto, a adoção do limitador majorado pelas emendas constitucionais aos benefícios anteriores não demandaria o refazimento do ato administrativo que deu ensejo à Renda Mensal Inicial - RMI, pois já consolidado como ato jurídico perfeito.
+
+    3. Segundo a norma em vigor ao tempo do deferimento do benefício, o menor e o maior valor teto, juntamente com os coeficientes de cálculo, embora constituíssem elementos externos ao salário de benefício, eram partes integrantes do cálculo original, de modo que não podem ser desprezados no momento da readequação aos tetos trazidos pelas ECs n. 20/1998 e 41/2003, sob pena de alterar a sistemática de obtenção da RMI, em descumprimento ao comando normativo do julgamento no precedente qualificado (Tema 76 do STF), que entendeu que o cálculo original deveria permanecer íntegro.
+
+    4. Entendimento contrário, no sentido de excluir o maior valor teto e o menor valor teto do cálculo, equivaleria à aplicação das regras da Lei n. 8.213/1991 a benefício constituído sob ordem legal anterior, o que afrontaria tanto o caput do art. 103 da Lei n. 8.213/1991, pois incidiria in casu o instituto da decadência, quanto o princípio tempus regit actum, que norteia a concessão de benefícios previdenciários, expresso na jurisprudência das Cortes Superiores resumida nas Súmulas 340 do STJ e 359 do STF.
+
+    5. Tese repetitiva: Para efeito de adequação dos benefícios previdenciários concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais n. 20/1998 e 41/2003, no cálculo devem-se aplicar os limitadores vigentes à época de sua concessão (menor e maior valor teto), utilizando-se o teto do salário de contribuição estabelecido em cada uma das emendas constitucionais como maior valor teto, e o equivalente à metade daquele salário de contribuição como menor valor teto. 6. Recurso especial da autarquia provido.
+
+    Com efeito, as instâncias de origem atuaram dentro dos limites de sua competência, não havendo qualquer excepcionalidade que justifique o cabimento da reclamação por suposta má aplicação do Tema nº 76 da sistemática da repercussão geral quando da análise do recurso extraordinário e do agravo interno.
+
+    Outrossim, conclusão diversa da assentada na decisão reclamada com fundamento na tese suscitada pelo reclamante demanda instaurar o debate infraconstitucional e o revolvimento e reexame de fatos e provas do caso concreto, incompatível com a via reclamatória, conforme iterativa jurisprudência do STF:
+
+    “Agravo regimental em reclamação. Tributário. IPTU. Lei Municipal nº 580/66, com a redação dada pelo art. 3º da Lei Municipal nº 2.096/93. Aplicação na origem do Tema nº 523 da Repercussão Geral. Afronta ao que foi decidido no Tema nº 115 da Repercussão Geral. Teratologia. Inexistência. Reexame do conteúdo do ato reclamado. Matéria infraconstitucional local. Impossibilidade. Agravo regimental não provido, com aplicação de multa. 1. A reclamação constitucional com fundamento na repercussão geral não pode ser usada como instrumento para a parte se furtar à sistemática dos recursos excepcionais, trazendo à Suprema Corte matéria de índole infraconstitucional. 2. Essa conclusão é reforçada por reiterada jurisprudência do STF de que a reclamatória constitucional não se “configura instrumento viabilizador do reexame do conteúdo do ato reclamado” (Rcl nº 6.534/MA-AgR, Tribunal Pleno, Rel. Min. Celso de Mello, DJe de 17/10/08). 3. Agravo regimental não provido, com aplicação da multa prevista no § 4º do art. 1.021 do CPC.” (RCL nº 57.915-AgR, Primeira Turma, de minha relatoria, , DJe de 20/4/23)
+
+    “Agravo regimental nos embargos de declaração na reclamação. 2. Penal. Constitucional, Civil e Administrativo. 3. Ausência de violação ao enunciado da Súmula Vinculante 14. 4. Impossibilidade de aplicação da Súmula em procedimentos de natureza cível. 5. Impossibilidade de exame de fatos e provas em sede de reclamação. 5. Agravo regimental não provido.” (Rcl nº 49456 ED-EgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 3/3/22)
+
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF. Prejudicada a apreciação do pedido liminar.
+
+    Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, a reclamante fica também advertida, na hipótese de recurso dessa decisão, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+
+    Publique-se.
+
+    Brasília, 21 de julho de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
