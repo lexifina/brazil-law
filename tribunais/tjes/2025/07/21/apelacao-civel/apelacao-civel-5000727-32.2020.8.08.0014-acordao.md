@@ -1,0 +1,278 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000727-32.2020.8.08.0014
+
+APELAÇÃO CÍVEL (198)
+
+APELANTE: MUNICIPIO DE COLATINA
+
+APELADO: ANDRE STOCCO LAURETH
+
+RELATOR(A):
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXTINÇÃO DE EXECUÇÃO FISCAL DE PEQUENO VALOR SEM OPORTUNIZAR MANIFESTAÇÃO DA FAZENDA PÚBLICA. SENTENÇA ANULADA. RECURSO CONHECIDO E PROVIDO.
+
+I. CASO EM EXAME
+
+1. Apelação cível interposta pelo Município de Colatina contra sentença que extinguiu execução fiscal, com fulcro no art. 485, VI, do CPC, sob fundamento de que o crédito exequendo era inferior a R$ 10.000,00, em consonância com o art. 1º, § 1º, da Resolução CNJ nº 30/2024 e o Tema 1.184 do STF.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em saber se é legítima a extinção de ofício de execução fiscal de pequeno valor sem prévia manifestação da Fazenda Pública, à luz da legislação municipal e dos precedentes vinculantes do STF e STJ.
+
+III. RAZÕES DE DECIDIR
+
+3. A extinção da execução fiscal sem oportunizar manifestação da Fazenda Pública viola os princípios do contraditório e da não surpresa, sendo nula a sentença prolatada.
+
+4. A Lei Municipal nº 2.805/1977, art. 218, apenas confere ao Município a prerrogativa de não ajuizar execuções fiscais abaixo de determinado valor, mas não impede seu ajuizamento, tampouco autoriza o Poder Judiciário a extingui-las de ofício.
+
+5. Conforme jurisprudência do STF (Tema 109 e Tema 1.184) e do STJ, a extinção de ações fiscais por valor irrisório depende de previsão legal específica e da adoção de medidas administrativas prévias pela Administração Fazendária, sendo vedada atuação judicial de ofício que implique renúncia fiscal.
+6. A jurisprudência consolidada desta Corte reconhece a nulidade de sentença que extingue execução de pequeno valor sem facultar à Fazenda Pública a adoção de medidas previstas nos precedentes obrigatórios.
+
+IV. DISPOSITIVO E TESE
+
+7. Recurso conhecido e provido.
+
+Tese de julgamento:
+“1. A extinção de execução fiscal de pequeno valor somente é legítima se houver legislação específica da entidade tributante e após adoção de medidas administrativas pelo ente federado. 2. A extinção judicial de ofício, sem prévia manifestação da Fazenda Pública, viola os princípios do contraditório e da não surpresa.”
+
+_________
+
+Dispositivos relevantes citados:
+CF/1988, art. 150, § 6º; CTN, arts. 141 e 172; CPC, art. 485, VI.
+
+Jurisprudência relevante citada:
+STF, RE nº 591.033, Rel. Min. Ellen Gracie, Plenário, j. 17.11.2010; STF, RE nº 1.403.805, Tema 1.184, j. 04.08.2023; STJ, REsp nº 999.639/PR, Rel. Min. Luiz Fux, Primeira Turma, j. 18.06.2008; STJ, REsp nº 1.223.032/PE, Rel. Min. Mauro Campbell Marques, Segunda Turma, j. 24.05.2011; TJES, Apelação nº 5001240-36.2020.8.08.0002, Rel. Des. Raphael Americano Camara, j. 22.08.2024; TJES, Apelação nº 5000011-67.2015.8.08.0050, Rel. Des. Robson Luiz Albanez, j. 15.07.2024.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: Gabinete Des. ROBSON LUIZ ALBANEZ
+
+Composição de julgamento: Gabinete Des. ROBSON LUIZ ALBANEZ - ROBSON LUIZ ALBANEZ - Relator / Gabinete Des. ARTHUR JOSÉ NEIVA DE ALMEIDA - ARTHUR JOSE NEIVA DE ALMEIDA - Vogal / Gabinete Des. DAIR JOSÉ BREGUNCE DE OLIVEIRA - DAIR JOSE BREGUNCE DE OLIVEIRA - Vogal
+VOTOS VOGAIS
+Gabinete Des. ARTHUR JOSÉ NEIVA DE ALMEIDA - ARTHUR JOSE NEIVA DE ALMEIDA (Vogal)
+Acompanhar
+Gabinete Des. DAIR JOSÉ BREGUNCE DE OLIVEIRA - DAIR JOSE BREGUNCE DE OLIVEIRA (Vogal)
+Proferir voto escrito para acompanhar
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+APELAÇÃO CÍVEL Nº 5000727-32.2020.8.08.0014
+
+A
+PTE
+:
+M
+UNICÍPIO DE
+COLATINA
+
+A
+PD
+O
+:
+ANDRÉ STOCCO LAURETH
+
+RELATOR:
+DES. ROBSON LUIZ ALBANEZ
+
+VOTO
+
+Conforme anteriormente relatado, trata-se de Apelação Cível interposta pelo MUNICÍPIO DE COLATINA em face da sentença que julgou extinta a execução fiscal, na forma da art. 485, inciso VI, do Código de Processo Civil.
+
+Para tanto, entendeu
+o magistrado
+q
+ue
+
+o crédito perquirido na demanda era inferior a
+R$ 10.000,00 (dez mil reais)
+,
+autorizando
+, assim, na forma
+do
+art.1º, §1º da Resolução 30/2024 do CNJ, bem como do Tema 1.184 do STF
+,
+a extinção anômala da
+execução fiscal pelo Município.
+
+I
+nco
+nformado, apela o exequente sustentando que
+a
+extinção do processo, além de ferir o princípio do contraditório e da vedação a decisão surpresa
+,
+dissona
+da
+conclusão
+externada no Tema 1.184
+.
+
+Não se descura que o
+Superior Tribunal de Justiça tem posicionamento de que a extinção da ação de execução fiscal é legítima se h
+ou
+ver previsão legal estatuída em lei municipal sobre a estipulação de valor mínimo para ser ajuizada cobrança judicial.
+
+Confira-se
+:
+
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL DE BAIXO VALOR. IMPOSTO MUNICIPAL. NECESSIDADE DE LEGISLAÇÃO ESPECÍFICA.
+1. Para que a execução fiscal ajuizada pelo município seja arquivada, ao fundamento de que o valor da dívida é pequeno ou irrisório, é necessário previsão em legislação específica da entidade tributante estipulando o valor consolidado que torne a cobrança judicial antieconômica. 2. " A extinção da execução fiscal, sem resolução de mérito, fundada no valor irrisório do crédito tributário, é admissível quando prevista em legislação específica da entidade tributante. O crédito tributário regularmente lançado é indisponível (art. 141, do CTN), somente podendo ser remitido à vista de lei expressa do próprio ente tributante (art. 150, § 6º, da CF/1988 e art. 172, do CTN)". (REsp 999639/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 18/06/2008) 3. No presente caso, o Tribunal a quo consignou que "o Município apelante promulgou a Lei Complementar Municipal nº 004/2008, que estipulou como valor antieconômico para a interposição de recursos a importância de R$ 200,00 (duzentos reais), sob o entendimento de que os créditos tributários do município 'têm valoração econômica pequena'" (fls. 52). Dessa forma, verifica-se que existe legislação específica aplicável ao Município no sentido de que o valor executado não seria irrisório - R$ 831,04 (oitocentos e trinta e um reais e quatro centavos).
+4. Recurso especial provido. (REsp n. 1.223.032/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/5/2011, DJe de 31/5/2011.)
+
+No caso dos autos, com relação ao tema em debate, assim é previsão do art. 218 do Código Tributário Municipal de Colatina (Lei Municipal nº 2.805/1977), que dispõe:
+
+Art. 218 - Fica fixado valor mínimo, para fins de cobrança judicial, relativo a crédito fiscal, tributário ou não, de qualquer espécie, inscrito em Dívida Ativa, no montante total de 08 (oito) Unidade Padrão Fiscal do Município Colatina - UPFMC, em consonância com o inciso II, § 3º do artigo 14, da Lei Complementar nº 101, de 04 de maio de 2000 - Lei de Responsabilidade Fiscal.
+
+Verifica-se do normativo acima que é atribuída ao Município a prerrogativa de ajuizar ou não execuções fiscais com valores inferiores ao parâmetro estabelecido, não havendo vedação para a propositura.
+
+O que se extrai dessas disposições é que incumbe à Administração verificar seu interesse em executar tais valores, vedada a atuação do Poder Judiciário, ressalvados os casos em que há previsão específica no sentido de extinguir ações executivas supostamente irrisórias, o que não se verifica nos autos.
+
+Ademais, a extinção do feito como laborada nesta demanda, por via transversa, implica em verdadeira remissão da dívida, matéria de exclusiva competência administrativa e legiferante do Poder Executivo tributante, a teor do 150, §6º da Constituição Federal, bem como do art.172 do CTN.
+
+A corroborar, nos termos de
+Súmula n.º 452
+do STJ, de aplicação também para os créditos fiscais municipais
+,
+“
+a extinção das ações de pequeno valor é faculdade da Administração Federal, vedada a atuação judicial de ofício
+”.
+
+Adicione-se que
+o Supremo Tribunal Federal, em sede de repercussão geral, no julgamento do RE nº 591.033 (Tema 109), consolidou entendimento no sentido da impossibilidade de extinção da pretensão executiva da Fazenda Pública, de ofício, por ausência de interesse de agir, ao fundamento de ser o valor ínfimo a não compensar as despesas processuais, por tratar-se de prerrogativa exclusiva da Administração quanto à disposição, ou não, dos seus créditos e, quando lançados, somente poderiam ser remitidos por legislação autorizativa específica do órgão tributante.
+
+A propósito:
+
+TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO FISCAL. MUNICÍPIO. VALOR DIMINUTO. INTERESSE DE AGIR. SENTENÇA DE EXTINÇÃO ANULADA. APLICAÇÃO DA ORIENTAÇÃO AOS DEMAIS RECURSOS FUNDADOS EM IDÊNTICA CONTROVÉRSIA.
+
+[...].
+. 5. Negar ao Município a possibilidade de executar seus créditos de pequeno valor sob o fundamento da falta de interesse econômico viola o direito de acesso à justiça. 6. Sentença de extinção anulada. 7. Orientação a ser aplicada aos recursos idênticos, conforme o disposto no art. 543-B, § 3º, do CPC.
+(RE 591033, Relator(a): ELLEN GRACIE, Tribunal Pleno, julgado em 17/11/2010, REPERCUSSÃO GERAL - MÉRITO DJe-038 DIVULG 24-02-2011 PUBLIC 25-02-2011 EMENT VOL-02471-01 PP-00175 RTJ VOL-00228-01 PP-00652)
+
+No mesmo sentido é a jurisprudência deste Tribunal, inclusive em caso
+s
+análogos:
+
+APELAÇÃO CÍVEL. EXTINÇÃO DE EXECUÇÃO FISCAL DE PEQUENO VALOR. TEMA N. 1.184 DA REPERCUSSÃO GERAL DO STF. AUSÊNCIA DE INTIMAÇÃO DA FAZENDA PÚBLICA. POSSIBILIDADE DE ADOÇÃO DAS MEDIDAS QUE CARACTERIZAM O INTERESSE DE AGIR NAS DEMANDAS EM CURSO. NULIDADE DA SENTENÇA. RECURSO CONHECIDO E PROVIDO.
+1. Ao apreciar o tema n. 1.184 da repercussão geral, o Supremo Tribunal Federal decidiu que é possível extinguir execuções fiscais de baixo valor por ausência do interesse de agir, condicionando a propositura de tais demandas à prévia tentativa de conciliação na esfera administrativa e ao protesto do título, salvo por motivo de eficiência administrativa. 2. Também se pode depreender do precedente que, com relação às ações em curso, o Pretório Excelso resguardou a possibilidade do Fisco de requerer a suspensão do processo para que fossem implementadas tais medidas, vide item 3. 3. A sentença incorreu em equívoco ao extinguir de plano a demanda, sem a prévia manifestação do Fisco, isto é, sem que fosse dada a oportunidade à Fazenda Pública de diligenciar a tentativa de conciliação ou o protesto do título, com o fito de demonstrar seu interesse processual. 4. Recurso de apelação conhecido e provido
+. (TJES,
+A
+pelação nº 5001240-36.2020.8.08.0002,
+Segunda
+Câmara Cível,
+Relator: Desembargador RAPHAEL AMERICANO CAMARA,
+Data: 22/08/2024
+)
+
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO NA FORMA DO ART. 924, IV, CPC. PROVIDÊNCIA DE DESISTIR OU NÃO DA EXECUÇÃO FISCAL COMPETE AO MUNICÍPIO. EXERCÍCIO DO PODER DISCRICIONÁRIO. AGRAVO INTERNO PROVIDO PARA, ALTERANDO A DECISÃO MONOCRÁTICA, DAR PROVIMENTO AO RECURSO DE APELAÇÃO. SENTENÇA ANULADA. RETORNO DOS AUTOS À ORIGEM.
+1. Art. 2º, da Lei 2.952/2018, do Município de Viana, que prevê que “fica autorizada a desistência das ações de execução fiscal e seu respectivo recurso, cujo valor seja inferior ao estabelecido no art. 1º desta Lei.”. 2. A providência de desistir ou não da execução fiscal compete ao próprio Município, no exercício do seu poder discricionário, após análise de conveniência e oportunidade. 3. Não caberia ao Poder Judiciário adotar tal providência de ofício, sem provocação da parte interessada, incorrendo, destarte, em error in procedendo, passível de anulação por parte deste Juízo ad quem
+. 4. Agravo interno provido, por maioria de votos, para, reformando a decisão monocrática, dar provimento à apelação e, consequentemente, anular a sentença e determinar o retorno dos autos à origem para regular prosseguimento. (TJES,
+A
+pelação nº 5000257-92.2017.8.08.0050,
+Primeira
+Câmara Cível,
+Relator: Desembargador EWERTON SCHWAB PINTO JUNIOR,
+Data: 06/06/2024
+)
+
+No mesmo sentido:
+A
+pelação nº 0005147-33.2015.8.08.0050
+,
+Primeira Câmara Cível,
+Relatora Desembargadora Janete Vargas Simões,
+julgado em 15/03/2023
+;
+Apelação nº 0005619-34.2015.8.08.0050, Primeira Câmara Cível, Relator Desembargador Annibal de Rezende Lima, julgado em 18/04/2023;
+Apelação Cível nº
+0008212-42.2013.8.08.0006; Segunda Câmara Cível; Rel. Des. Fernando Estevam Bravin Ruy; Julg. 09/11/2021; DJES 22/11/2021;
+
+Assim, jamais poderia o Poder Judiciário, principalmente em interpretação equivocada da Lei Municipal, presumir a
+ausência de interesse de agir do Município
+,
+motivo pelo qual é caso de declaração de nulidade da sentença recorrida.
+
+Registro, por fim, o Tema 1.184, fixado em sede de Repercussão Geral pelo STF, no sentido de que
+"
+1.
+É legítima a extinção de execução fiscal de baixo valor pela ausência de interesse de agir tendo em vista o princípio constitucional da eficiência administrativa, respeitada a competência constitucional de cada ente federado
+. 2. O ajuizamento da execução fiscal dependerá da prévia adoção das seguintes providências: a) tentativa de conciliação ou adoção de solução administrativa; e b) protesto do título, salvo por motivo de eficiência administrativa, comprovando-se a inadequação da medida. 3.
+O trâmite de ações de execução fiscal não impede os entes federados de pedirem a suspensão do processo para a adoção das medidas previstas no item 2, devendo, nesse caso, o juiz ser comunicado do prazo para as providências cabíveis
+"
+(grifei).
+
+Com efeito, considerando
+que o juízo proferiu a sentença em dissonância
+ao contraditório, é dizer, sem oportuniza
+r a manifestação da
+Fazenda Pública,
+violando, outrossim,
+o princípio da não surpresa
+, conclui-se pelo
+acolhimento das razões
+do recurso
+para que
+os autos retornem
+à origem,
+onde deverá o Apelante
+adotar as medidas constantes do "item 3" do precedente compulsório acima.
+
+Nesse sentido,
+já me manifestei
+:
+
+APELAÇÃO CÍVEL. TRIBUTÁRIO E PROCESSO CIVIL. CUSTAS. PERDA SUPERVENIENTE DO INTERESSE. LEI MUNICIPAL DISPENSANDO O AJUIZAMENTO E/OU AUTORIZANDO A DESISTÊNCIA DE EXECUÇÕES FISCAIS. FACULDADE DO CREDOR. EXTINÇÃO DE OFÍCIO. RENÚNCIA. IMPOSSIBILIDADE. TEMA 1.184, STF. CRÉDITO FISCAL JUDICIALIZADO. RECURSO PARCIALMENTE CONHECIDO E PROVIDO. SENTENÇA ANULADA.
+[...].
+2. A existência de Lei Municipal que dispõe sobre valores mínimos para o ajuizamento de execuções fiscais não legitima, em absoluto, o Poder Judiciário a decretar, de ofício, a extinção anômala do processo por ausência de interesse de agir. Conveniência da pretensão que cabe ao exequente. Inteligência do art. 150, §6º da Constituição Federal, do art. 172 do CTN, bem como da Súmula 452 do STJ e do Tema 109 do STF. 3. Ausente expressa disposição acerca da sua retroatividade, inaplicável a Lei Municipal nº 2.952/2018, com redação alterada pela Lei nº 3.190/2021, as execuções fiscais judicializadas antes de sua vigência.
+4. Judicializado o crédito fiscal, com o retorno dos autos à origem, deverá a Fazenda Municipal adotar as medidas constantes do "item 3" fixado no Tema 1.182 do STF.
+5. Recurso parcialmente conhecido e provido. Sentença anulada.
+(TJES,
+A
+pelação nº 5000011-67.2015.8.08.0050,
+Quarta
+Câmara Cível,
+Relator: Desembargador ROBSON LUIZ ALBANEZ,
+Data:
+15/07/2024
+)
+
+Por todo o exposto,
+conheço
+do recurso e
+DOU-
+LHE
+PROVIMENTO
+para anular a sentença objurgada, determinando, com isso, o prosseguimento da execução fiscal,
+com a adoção das medidas fixadas no Tema 1.184, do STF, pelo exequente.
+
+É como voto.
+
+DES. ROBSON LUIZ ALBANEZ
+
+RELATOR
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+(EXCETO VOTO VENCEDOR)
+
+Acompanho o respeitável voto de relatoria para, de igual modo,
+dar provimento
+ao recurso de
+apelação
+.
