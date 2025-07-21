@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Habeas Corpus com pedido de liminar impetrado em favor de NATIELI GOMES, no qual se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2215009-13.2025.8.26.0000.
+Colhe-se do ato apontado como coator que a paciente está cumprindo pena total de 9 anos, 3 meses e 3 dias de reclusão, pelo delito de roubo qualificado.
+Alega o impetrante que a apenada atingiu o lapso temporal para progressão ao regime aberto em 22/1/2025 e para livramento condicional em 7/2/2025, mas não teve seu pedido analisado devido à exigência de exame criminológico, que não foi realizado até o momento, não obstante diversas solicitações.
+Sustenta que a exigência do exame criminológico é ilegal, pois o crime praticado pela paciente ocorreu antes da vigência da Lei n. 14.843/2024, que alterou o art. 112, § 1º, da Lei de Execução Penal, de modo que tal exigência constitui novatio legis in pejus, defendendo, ademais, o excesso de prazo para a realização do mencionado exame.
+Assevera que a paciente possui bom comportamento carcerário, não tendo respondido a nenhum procedimento disciplinar durante o cumprimento da pena.
+Requer, liminarmente e no mérito, a superação do óbice contido na Súmula n. 691 do STF, o reconhecimento da ilegalidade na exigência do exame criminológico, ou, caso se entenda necessária a realização do citado exame, que seja determinada a implementação em caráter de urgência.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado n. 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Confira-se, a propósito, o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE DROGAS (18 TABLETES, PESANDO 11,3KG DE MACONHA). PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+ ..
+8. Ausência de flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF.
+9. Agravo regimental desprovido.
+(AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024; grifos acrescidos.)
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
