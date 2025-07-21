@@ -1,0 +1,105 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+A impetrante relata que Dionatan Nogueira Pereira foi preso em flagrante em 26/03/2025 pela suposta prática dos crimes previstos nos arts. 33 e 35, da Lei n. 11.343/2006, sendo a prisão em flagrante convertida em prisão preventiva.
+Sustenta que a prisão preventiva se baseia exclusivamente na quantidade de droga apreendida, sem considerar as circunstâncias pessoais favoráveis do paciente, tais como primariedade, residência fixa e ocupação lícita como pedreiro. Alega que há excesso na medida e a prisão preventiva não pode ser utilizada como antecipação de pena, sendo possível a aplicação de medidas cautelares diversas, conforme dispõe o art. 319 do Código de Processo Penal.
+Requer a concessão da ordem para revogação da prisão preventiva, com ou sem aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP (e-STJ fls. 2-16).
+Consta dos autos que o Tribunal de Justiça do Estado do Rio Grande do Sul, ao apreciar o habeas corpus impetrado pela defesa, denegou a ordem, mantendo a prisão preventiva do paciente. A decisão fundamentou-se na gravidade concreta do delito de tráfico de drogas e nas circunstâncias com que o fato ocorreu, em especial a grande quantidade e variedade de drogas apreendidas (109 comprimidos de ecstasy e 07 porções de maconha, pesando aproximadamente 668g), além de balanças de precisão, celulares e dinheiro em espécie, o que indicaria organização e revelaria que a droga destinava-se à comercialização (e-STJ fls. 17-24).
+A liminar foi indeferida (e-STJ fls. 51-55).
+O Ministério Público Federal opinou pela concessão da ordem para substituir a prisão preventiva do paciente por medidas cautelares, em parecer assim ementado (e-STJ fls. 85-92):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DOS REQUISITOS LEGAIS. APLICAÇÃO DE CAUTELARES ALTERNATIVAS PELA CONCESSÃO.
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+A denegação da medida liminar por este Relator, conforme decisão proferida anteriormente nos autos, decorreu da ausência de elementos que evidenciassem, em um juízo de cognição sumária, o alegado constrangimento ilegal.
+O exame aprofundado da matéria, agora possível com as informações adicionais e o parecer ministerial, ratifica a inexistência da coação ilegal sustentada pela impetrante.
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/03/2025, DJEN de 26/03/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/03/2025, DJEN de 26/03/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/03/2025, DJEN de 24/03/2025).
+Na hipótese, seria cabível, em tese, a interposição de recurso ordinário constitucional, razão pela qual não há possibilidade de impetração de habeas corpus. A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+O Tribunal de Justiça do Estado do Rio Grande do Sul, ao julgar o habeas corpus impetrado pela defesa, denegou a ordem para manter a prisão preventiva do paciente, com base em elementos concretos dos autos. Concluiu, como referido, que a quantidade e variedade de material entorpecente apreendido (109 comprimidos de ecstasy e 07 porções de maconha, pesando aproximadamente 668g), além de balanças de precisão, celulares e dinheiro em espécie, indicariam que o acusado se dedicava à atividade de traficância, representando risco à ordem pública.
+Tal conclusão está em consonância com a jurisprudência desta Corte Superior, que admite a decretação da prisão preventiva quando há elementos concretos que indiquem a periculosidade do agente e o risco à ordem pública. Confira-se:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA. QUANTIDADE, VARIEDADE E NOCIVIDADE. PRISÃO DOMICILIAR HUMANITÁRIA. INADIMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. In casu aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas. Isso porque, compulsando os autos, verifica-se que a prisão tem por base elementos concretos que indicam a gravidade do crime tendo em vista ter sido apreendida a considerável quantidade de aproximadamente 67g (sessenta e sete gramas) de cocaína e 3g (três gramas) de maconha (fl. 95/97). Em relação ao pedido de prisão domiciliar humanitária, não há flagrante ilegalidade a permitir a substituição.
+3. Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular. Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado. Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+4. Agravo regimental improvido.
+(AgRg no HC n. 998.325/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2025, DJEN de 27/6/2025.Grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. MANUTENÇÃO DA DECISÃO. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus interposto pelo Agravante, condenado a sete anos e seis meses de reclusão em regime inicial fechado pela prática do delito de tráfico de drogas, com negativa do direito de recorrer em liberdade.
+2. A decisão agravada fundamentou a manutenção da prisão preventiva na gravidade concreta da conduta, evidenciada pela quantidade e variedade das drogas apreendidas, além de petrechos utilizados na mercancia ilícita de entorpecentes.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do Agravante está devidamente fundamentada em elementos concretos que justifiquem a necessidade de sua manutenção para garantia da ordem pública.
+III. Razões de decidir
+4. A prisão preventiva foi considerada devidamente fundamentada em dados concretos que evidenciam a necessidade de encarceramento provisório, devido à gravidade concreta da conduta e à quantidade e variedade das drogas apreendidas.
+5. A manutenção da prisão cautelar é justificada pela periculosidade social do Agravante e pela necessidade de resguardar a ordem pública, não sendo suficientes medidas cautelares alternativas.
+IV. Dispositivo e tese
+6. Agravo improvido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em elementos concretos que evidenciem a necessidade de encarceramento provisório para garantia da ordem pública. 2. A gravidade concreta da conduta e a quantidade e variedade das drogas apreendidas justificam a manutenção da prisão cautelar".
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citada: STF, HC 93.498/MS, Rel. Min. Celso de Mello, Segunda Turma, DJe 18/10/2012; STJ, AgRg no HC 828.927/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 13/9/2023; STJ, AgRg no HC 751.585/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe 30/9/2022.
+(AgRg no RHC n. 215.539/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2025, DJEN de 2/7/2025.Grifei.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. VARIEDADE E RAZOÁVEL QUANTIDADE DAS DROGAS APREENDIDAS. CIRCUNSTÂNCIAS DO DELITO. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO. ANOTAÇÕES COM VALORES EXPRESSIVOS. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+1. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+2. A prisão em flagrante foi adequadamente convertida em preventiva, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta, evidenciada pelo cumprimento de mandado de busca e apreensão em endereço relacionado ao recorrente, a fim de averiguar a procedência de informações acerca do comércio ilícito de entorpecentes. Na ocasião foram localizadas razoável quantidade e variedade de drogas - 192,27g de maconha, 11,66g de cocaína e 18,84g de crack -, circunstância que, somadas à menção acerca da existência de valores expressivos nas anotações possivelmente relacionadas à mercancia ilícita, demonstram o maior envolvimento com o narcotráfico e o risco ao meio social, evidenciando a necessidade de manutenção da custódia preventiva a bem da ordem pública.
+3. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+4. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 213.746/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.Grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. MANUTENÇÃO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante, condenado a 8 anos e 6 meses de reclusão por tráfico de drogas, porte ilegal de arma de fogo e receptação.
+2. O agravante alega constrangimento ilegal pela falta de fundamentação para a manutenção da prisão preventiva e ausência dos requisitos para tal medida, defendendo condições pessoais favoráveis e a possibilidade de aplicação de medidas cautelares diversas da prisão.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a manutenção da prisão preventiva do agravante é justificada, considerando a grande quantidade de droga apreendida e a jurisprudência que sustenta a necessidade de garantia da ordem pública.
+4. Outra questão é se as condições pessoais favoráveis do agravante são suficientes para revogar a prisão preventiva ou aplicar medidas cautelares diversas.
+III. Razões de decidir
+5. A prisão preventiva foi mantida com base em dados concretos que evidenciam a necessidade de garantia da ordem pública, em razão da grande quantidade de droga apreendida (64 kg), conforme jurisprudência desta Corte.
+6. A jurisprudência consolidada indica que, na ausência de alterações fáticas relevantes, não há ilegalidade na negativa de apelar em liberdade, especialmente quando o réu permaneceu preso durante toda a instrução criminal.
+7. Condições pessoais favoráveis, como primariedade e residência fixa, não garantem a revogação da prisão preventiva se há elementos que recomendam a manutenção da custódia cautelar.
+IV. Dispositivo e tese
+8. Recurso desprovido.
+Tese de julgamento: "1. A manutenção da prisão preventiva é justificada pela grande quantidade de droga apreendida, evidenciando a necessidade de garantia da ordem pública. 2. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva se há elementos que recomendam a manutenção da custódia cautelar".
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33; Lei nº 10.826/2003, art. 14; Código Penal, art. 180.Jurisprudência relevante citada: STJ, RHC 192.177/PR, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 05.11.2024; STJ, AgRg no RHC 200.130/MG, Rel. Min. Og Fernandes, Sexta Turma, julgado em 27.11.2024.
+(AgRg no RHC n. 213.762/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.Grifei.)"
+No caso concreto, reitero que a manutenção da prisão preventiva se deu com base em elementos concretos dos autos, notadamente a quantidade e variedade de droga apreendida (109 comprimidos de ecstasy e 07 porções de maconha, pesando aproximadamente 668g), além de balanças de precisão, celulares e dinheiro em espécie, o que indicaria que o paciente se dedicava à atividade de traficância, representando risco à ordem pública.
+Oportuno citar a manifestação do Tribunal de origem (e-STJ fls. 22-24):
+"Nesse ponto, necessária a segregação cautelar do acusado para salvaguardar a ordem pública, dada a gravidade concreta do delito de tráfico de drogas e as circunstâncias com que o fato ocorreu, em especial a grande quantidade e variedade de drogas apreendidas (109 comprimidos de ecstasy e 07 porções de maconha, pesando aproximadamente 668g), além de balanças de precisão, celulares e dinheiro em espécie, o que indica organização e revela que a droga destinava-se à comercialização.
+Ainda quanto ao periculum libertatis, acrescento que o delito de tráfico é grave e merece resposta estatal severa, na medida em que, além de ser considerado crime hediondo, é responsável por desencadear uma gama de outras infrações."
+Embora o Ministério Público Federal tenha opinado pela concessão da ordem por meio da substituição da prisão por medidas alternativas, penso que a discordância quanto à valoração dos elementos probatórios não autoriza, por si, a intervenção desta Corte via habeas corpus, sob pena de indevida supressão de instância e reexame probatório. A quantidade de entorpecente apreendido é relevante e a decisão considerou, ainda, a variedade de drogas e a apreensão de outros objetos que indicam a possível prática organizada do crime, a indicar o risco à ordem pública. Fundamentação idônea, portanto.
+Também não se caracteriza ausência de justa causa ou constrangimento evidente, uma vez que a prisão preventiva se deu com base em farta documentação (auto de prisão em flagrante, registro de ocorrência, auto de apreensão de drogas e objetos, laudos de constatação de substância entorpecente e depoimentos dos policiais).
+Quanto às condições pessoais favoráveis do paciente, como primariedade, residência fixa e trabalho lícito, ainda que verdadeiras, não possuem força isolada para afastar a prisão preventiva, quando presentes os demais requisitos legais. A jurisprudência consolidada do egrégio Superior Tribunal de Justiça é firme no sentido de que predicados pessoais favoráveis não impedem a decretação ou manutenção da custódia cautelar, quando demonstrados os pressupostos e fundamentos do art. 312 do CPP. A propósito:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus e manteve a prisão cautelar do agravante pelo delito de tráfico de drogas.
+2. O Tribunal estadual decretou a prisão cautelar do paciente com base na gravidade concreta da conduta e na possibilidade de reiteração delitiva, considerando o histórico criminal do réu.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante é justificada pela gravidade concreta do delito de tráfico de drogas e pela possibilidade de reiteração delitiva, mesmo diante de condições pessoais favoráveis.
+III. Razões de decidir
+4. A prisão preventiva está suficientemente motivada na garantia da ordem pública, considerando a reiterada conduta delitiva do agravante, que possui condenação definitiva por crime contra o patrimônio e foi preso em flagrante transportando 2.200g de maconha.
+5. A persistência do agente na prática criminosa e a expressiva quantidade de droga apreendida justificam a decretação da prisão preventiva, conforme jurisprudência do Superior Tribunal de Justiça, que considera a periculosidade social e o comprometimento da ordem pública.
+6. O fato de o réu possuir condições pessoais favoráveis não impede a decretação de sua prisão preventiva, quando comprovada sua imprescindibilidade nos termos do art. 312 do CPP.
+IV. Dispositivo e tese
+7. Recurso improvido.
+Tese de julgamento: "1. A prisão preventiva é justificada pela gravidade concreta do delito e pela possibilidade de reiteração delitiva. 2. Condições pessoais favoráveis não impedem a decretação da prisão preventiva quando comprovada sua imprescindibilidade".
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citada: STJ, RHC 118.027/AL, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08.10.2019; STJ, AgRg no RHC 202.811/CE, Rel. Min. Og Fernandes, Sexta Turma, julgado em 05.03.2025; STJ, AgRg no RHC 204.865/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJEN de 19.02.2025.
+(AgRg no HC n. 1.003.146/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.Grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus impetrado em favor do Agravante, cuja prisão preventiva foi decretada pela suposta prática de tráfico de drogas.
+2. A decisão agravada fundamentou a prisão preventiva em dados concretos, como a quantidade de droga apreendida, evidenciando a necessidade de encarceramento provisório para garantia da ordem pública.
+3. O Tribunal de origem denegou a ordem de habeas corpus, mantendo a prisão preventiva com base na gravidade concreta da conduta e na periculosidade do agente.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do Agravante está devidamente fundamentada em elementos concretos que justifiquem a necessidade de sua manutenção para garantia da ordem pública.
+III. Razões de decidir
+5. A prisão preventiva do Agravante se encontra devidamente fundamentada em dados concretos, considerando a quantidade de droga apreendida em seu poder, consistente em 1.700 (um quilo e setecentos gramas) de maconha, a indicar a gravidade da conduta e a periculosidade do agente.
+6. Condições pessoais favoráveis, como ocupação lícita e residência fixa, não são suficientes para revogar a prisão preventiva quando há elementos que recomendam a manutenção da custódia cautelar.
+7. Não foram apresentados novos argumentos no agravo regimental que pudessem alterar o entendimento anteriormente firmado.
+IV. Dispositivo e tese
+8. Agravo não provido.
+Tese de julgamento: "A prisão preventiva pode ser mantida quando fundamentada em dados concretos que evidenciam a gravidade da conduta e a periculosidade do agente, mesmo diante de condições pessoais favoráveis".
+Dispositivos relevantes citados: Código de Processo Penal, art. 312.Jurisprudência relevante citada: STF, HC 93.498/MS, Rel. Min. Celso de Mello, Segunda Turma, DJe 18.10.2012; STJ, AgRg no HC 751.585/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, j.
+27.09.2022; STJ, AgRg no RHC 143.129/SP, Rel. Min. Felix Fischer, Quinta Turma, j. 01.06.2021.
+(AgRg no HC n. 981.821/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.Grifei.)
+O habeas corpus, como remédio constitucional voltado à tutela da liberdade de locomoção diante de ilegalidade evidente, não se presta à rediscussão de matéria processual recursal quando inexistente qualquer teratologia ou nulidade patente.
+Assim, considerando que a impetração se apresenta como sucedâneo recursal e que não se vislumbra, de plano, flagrante ilegalidade a amparar a concessão da ordem de ofício, impõe-se o não conhecimento da impetração.
+Ante o exposto, com fulcro no art. 34, inciso XX, do Regimento Interno do egrégio Superior Tribunal de Justiça, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
