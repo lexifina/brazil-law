@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado para WEVERTON RIBEIRO DE OLIVEIRA, em que consta como autoridade coatora o Tribunal de Justiça do Espírito Santo, no julgamento de apelação criminal.
+Na petição inicial, a defesa informa que o paciente foi condenado às penas de 7 anos de reclusão em regime inicial semiaberto e 700 dias-multa como incurso no art. 33, caput, da Lei n. 11.343/2006. A apelação interposta foi desprovida.
+Alega que houve indevida exasperação da pena-base em razão da quantidade e natureza das drogas apreendidas, que consistem em 5,2 gramas de crack, 40,6 gramas de maconha e 183,9 gramas de cocaína. A quantidade de drogas não é expressiva o suficiente para justificar o aumento da pena-base, conforme o art. 42 da Lei n. 11.343/2006, e que a jurisprudência considera desproporcional aumento superior a 1/6 em casos onde não exista fundamentação que o justifique.
+Assim, requer a fixação da pena-base no mínimo legal ou, subsidiariamente, que a pena-base seja exasperada apenas ao limite de 1/6.
+Sem pedido de medida liminar, as informações foram prestadas.
+O Ministério Público Federal opinou pelo não conhecimento do pedido.
+É o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder"
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica, de plano, nenhuma violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente.
+Isso porque a pena-base foi aumentada não apenas com base na natureza e variedade das drogas apreendidas, mas também tendo em vista os antecedentes criminais do paciente, sendo que o acréscimo de dois anos está dentro da discricionariedade do magistrado na fixação da individualização da resposta penal e não ofende o princípio da proporcionalidade.
+Quanto ao mais, razão assiste ao Ministério Público Federal, porque "a presença de duas drogas altamente deletérias e a quantidade apreendida (229,7g de drogas - crack, cocaína e maconha), representa maior reprovabilidade na conduta e, nesse contexto, enseja a fixação da pena-base acima do mínimo legal, por força do art. 42 da Lei 11.343/2006" (fl. 71).
+De acordo com a jurisprudência desta colenda Corte Superior:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. TRÁFICO. PENA-BASE. EXASPERAÇÃO. QUANTIDADE E VARIEDADE DAS DROGAS. FUNDAMENTAÇÃO IDÔEA. CIRCUNSTÂNCIAS DO CRIME. SÚMULA 284/STF. INCIDÊNCIA DO ARTIGO 33, §4º, DA LEI N. 11.343/06. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+2. No crime de tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Na hipótese em análise, a quantidade e a variedade das drogas apreendidas (19,47g de maconha, 4,76g de cocaína e 50g de crack), sendo duas de natureza altamente deletéria (cocaína e crack), justificam a majoração da pena-base, por extrapolar o tipo penal, devendo ser mantido tal fundamento.
+3. Em relação à alegada ausência de fundamentação para a negativação das circunstâncias do crime, verifica-se que a parte agravante limitou-se a afirmar que fosse neutralizada tal vetorial, sem desenvolver argumentos para demonstrar de que forma houve ilegalidade pelo Tribunal de origem. Incidência da Súmula n. 284/STF.
+4. A questão acerca da incidência do benefício do tráfico privilegiado, tendo em vista a extinção da pretensão punitiva em relação ao processo utilizado para negar a aplicação da minorante do § 4º do art. 33 da lei 11.343/06, não foi objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas n. 211/STJ e 282/STF.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.876.106/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
