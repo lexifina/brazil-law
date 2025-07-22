@@ -1,0 +1,87 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+8ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0714709-56.2025.8.07.0000AGRAVANTE(S)BANCO BRADESCO SAAGRAVADO(S)SATURNINO E YAMAGUTY DISTRIBUIDORA DE VIDROS LTDA e ANTONIO SATURNINO DA SILVARelatorDesembargador EUSTAQUIO DE CASTRO
+ Acórdão Nº2024552
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PESQUISA NOS SISTEMAS INFORMATIZADOS. RENOVAÇÃO. SISBAJUD. BUSCA DE ATIVOS. RAZOABILIDADE. ÚLTIMA PESQUISA HÁ MAIS DE UM ANO. DECISÃO REFORMADA.
+
+1. Conforme delineado pelo Conselho Nacional de Justiça, o Sistema de Busca de Ativos do Poder Judiciário - SISBAJUD - foi desenvolvido devido à necessidade de renovação tecnológica da ferramenta, para permitir inclusão de novas e importantes funcionalidades, a fim de aumentar a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional, conferindo maior celeridade processual.
+
+2. É dever do juiz adotar as medidas cabíveis para localização de bens passíveis de penhora, inclusive com a realização de consulta a todos os sistemas informatizados disponíveis ao juízo. Princípio da colaboração.
+
+3. Não existe qualquer limite legal ao número de pesquisas realizadas nos sistemas informatizados. Nesse sentido, a jurisprudência assentou-se pela possibilidade de reiteração da constrição on-line, desde que a medida seja pautada pelos princípios da proporcionalidade e da razoabilidade, ou seja, se o quadro fático-probatório dos autos apresentar indícios de alteração da condição financeira do devedor, apta a justificar a repetição da medida, ou, ainda, se houver transcorrido um lapso temporal razoável desde a última consulta.
+
+4. A alegação de que a ferramenta pode gerar eventual comprometimento da rotina cartorária não pode ser utilizada para inviabilizar o direito do credor à satisfação do seu crédito.
+
+5. Recurso conhecido e provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, EUSTAQUIO DE CASTRO - Relator, ROBSON TEIXEIRA DE FREITAS - 1º Vogal e CARMEN BITTENCOURT - 2º Vogal, sob a Presidência do Senhor Desembargador ROBSON TEIXEIRA DE FREITAS, em proferir a seguinte decisão: Recurso conhecido e provido. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 29 de Julho de 2025
+
+Desembargador EUSTAQUIO DE CASTRORelator
+
+RELATÓRIO
+
+Trata-se de Agravo de Instrumento interposto por BANCO BRADESCO S.A. contra decisão proferida pelo juízo da Vara de Execução de Títulos Extrajudiciais e Conflitos Arbitrais da Circunscrição Judiciária de Taguatinga que, nos autos da Ação de Execução de Título Extrajudicial proposto em desfavor de SATURNINO E YAMAGUTY DISTRIBUIDORA DE VIDROS LTDA, ANTONIO SATURNINO DA SILVA, indeferiu pedido de pesquisas de bens e de valores do devedor para a satisfação da obrigação, mediante consulta de valores junto à ferramenta SISBAJUD.
+
+Em suas razões (ID 70855039), o agravante alega que em razão do período de tempo desde a última pesquisa realizada ao sistema SISBAJUD, possível a reiteração da referida diligência para busca de bens penhoráveis em nome da parte agravada. Ao final, requer a reforma da decisão agravada e o deferimento do pedido de realização de uma nova pesquisa de ativos financeiros intermediada pelo sistema SISBAJUD, em nome dos agravados.
+
+Preparo regular (ID 70855043).
+
+Não houve pedido de efeito suspensivo.
+
+O prazo para que a parte agravada apresentasse contrarrazões decorreu sem que houvesse manifestação (ID 71802228).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador EUSTAQUIO DE CASTRO - Relator
+
+Conheço do Agravo de Instrumento, porquanto presentes os pressupostos de admissibilidade.
+
+1. Controvérsia Recursal
+
+Cinge-se a controvérsia recursal acerca da possibilidade de reiterar consulta de ativos financeiros em nome dos agravados, por meio do sistema SISBAJUD.
+
+2. Mérito
+
+Cediço ser ônus do credor a indicação de bens passíveis de penhora, assim o exequente deve diligenciar a fim de encontrar bens passíveis de penhora da parte agravada, adotando todos os meios possíveis, para ter por satisfeito o crédito perseguido e não simplesmente lançar a sua responsabilidade para o Poder Judiciário, utilizando-se do princípio da cooperação, previsto no art. 6º do Código de Processo Civil, sem observar o disposto no art. 798, inciso II, do Código de Processo Civil.
+
+No entanto, convém destacar que o princípio da cooperação ou colaboração, previsto no art. 6º do Código de Processo Civil, todos os sujeitos processuais, inclusive o magistrado, devem cooperar entre si na busca pela efetiva prestação jurisdicional. Deve, pois, o juiz adotar as medidas cabíveis para localização de bens passíveis de penhora, inclusive com a realização de consulta a todos os sistemas informatizados disponíveis ao juízo a fim de garantir a satisfação do crédito do exequente.
+
+Com efeito, a reiteração automática da pesquisa por meio do SISBAJUD é ferramenta disponível ao Judiciário para auxiliar a localização de bens do devedor passíveis de penhora. Logo, referida ferramenta visa aumentar a efetividade das decisões judiciais e atender os comandos constitucionais da celeridade e efetividade dos processos de execução, assegurando o direito do credor na satisfação do débito.
+
+Outrossim, não existe qualquer limite legal ao número de pesquisas realizadas nos sistemas informatizados. Nesse sentido, a jurisprudência assentou-se pela possibilidade de reiteração da constrição on-line, desde que a medida seja pautada pelos princípios da proporcionalidade e da razoabilidade, ou seja, se o quadro fático-probatório dos autos apresentar indícios de alteração da condição financeira do devedor, apta a justificar a repetição da medida, ou, ainda, se houver transcorrido um lapso temporal razoável desde a última consulta.
+
+Sobre essa questão, a jurisprudência converge na possibilidade de reiteração da constrição on-line, desde que a medida seja pautada pelos princípios da proporcionalidade e da razoabilidade, ou seja, se o quadro fático-probatório dos autos apresentar indícios de alteração da condição financeira do devedor, apta a justificar a repetição da medida, ou, ainda, se houver transcorrido um lapso temporal razoável desde a última consulta.
+
+Segundo a orientação do Superior Tribunal de Justiça "Não há óbice à renovação do pedido de penhora on line via SISBAJUD, considerando-se que a execução, não obstante o princípio da menor onerosidade ao devedor, é realizada no interesse do credor, conforme dispõe o art. 797 do CPC.” (REsp n. 2.186.874, Ministro Sérgio Kukina, DJEN de 15/05/2025.)
+
+Diante da análise da realidade processual, apesar de ter transcorrido prazo de um ano desde a última pesquisa realizada no SISBAJUD, vislumbro a probabilidade de êxito da satisfação do crédito por meio da reiteração automática da pesquisa no sistema SISBAJUD.
+
+Por oportuno, sobre o tema colaciono jurisprudência deste egrégio Tribunal de Justiça:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RENOVAÇÃO DA PESQUISA DE BENS E ATIVOS. ÚLTIMA PESQUISA DE ATIVOS. TRANSCURSO DE MAIS DE 1 (UM) ANO. LAPSO TEMPORAL SUFICIENTE. CONSULTA AO SISBAJUD NA MODALIDADE REPETIÇÃO PROGRAMADA (TEIMOSINHA). RAZOABILIDADE. DECISÃO REFORMADA.  1. É possível a reiteração da consulta de bens em nome do devedor por meio dos sistemas disponíveis ao Juízo, desde que observado o princípio da razoabilidade, a ser aferido no caso concreto. Precedentes do c. STJ e do eg. TJDFT. 2. Cabe ao julgador considerar se houve demonstração de mudança na capacidade financeira do Executado ou se transcorreu tempo considerável desde a realização da última consulta. 3. Constatado o transcurso de mais de 1 (um) ano desde a última pesquisa de ativos, bem como a realização de várias diligências infrutíferas para a localização de bens penhoráveis do executado, é razoável a reiteração da consulta, com utilização de ferramenta que permite a reiteração automática da busca (teimosinha), pelo prazo de 30 (trinta) dias consecutivos, a fim de conferir à Execução a máxima eficácia. 4. Agravo de Instrumento conhecido e provido." (Acórdão 1937482, 0732744-98.2024.8.07.0000, Relator(a): ROBSON TEIXEIRA DE FREITAS, 8ª TURMA CÍVEL, data de julgamento: 22/10/2024, publicado no DJe: 06/11/2024.)
+
+Por fim, sobre a questão em debate, o egrégio Superior Tribunal de Justiça tem se pronunciado no sentido de que: “(...)  é possível a reiteração automática de ordens de bloqueio de bens, conhecida como "Teimosinha", mediante utilização do Sistema de Busca de Ativos do Poder Judiciário (SisbaJud), desde que a medida seja adequada à situação examinada, conforme os elementos concretos apresentados pelos litigantes.” (AgInt no REsp n. 2.153.854/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+
+3. Dispositivo
+
+Diante do exposto, CONHEÇO do recurso e DOU-LHE PROVIMENTO para reformar a decisão recorrida e determinar a realização de pesquisa de bens passíveis de penhora dos devedores, via sistema SISBAJUD.
+
+Advirto às partes que a oposição de Embargos de Declaração visando rediscutir as questões ora analisadas, sem apontar concretamente qualquer vício a ser sanado, incidirá na penalidade prevista no art. 1.026, § 2º, do Código de Processo Civil, aplicável até mesmo aos beneficiários da justiça gratuita, nos termos do § 4º do art. 98 do mesmo Código.
+
+É como voto.
+O Senhor Desembargador ROBSON TEIXEIRA DE FREITAS - 1º Vogal Com o relatorA Senhora Desembargadora CARMEN BITTENCOURT - 2º Vogal Com o relator
+
+DECISÃO
+
+Recurso conhecido e provido. Unânime
