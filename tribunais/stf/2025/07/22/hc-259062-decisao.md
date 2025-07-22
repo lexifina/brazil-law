@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de habeas corpus impetrado por Rodrigo Corrêa Godoy (e outros), em favor de Robson Guimarães da Silva, contra acórdão do Superior Tribunal de Justiça no AgRg no HC 983.148/SP, assim ementado:
+
+    “DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, POSSE DE ARMA DE FOGO E CORRUPÇÃO ATIVA. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. RAZOABILIDADE. AGRAVO IMPROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se alegava excesso de prazo na instrução criminal e se pleiteava o relaxamento da custódia ou sua substituição por medidas cautelares alternativas. 2. O Tribunal de origem destacou que o trâmite processual está dentro de limites razoáveis de tempo, considerando que não houve inércia ou desídia do magistrado na condução do feito, e que a demora no oferecimento da defesa prévia é atribuível à defesa. II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em saber se há excesso de prazo na instrução criminal, considerando as peculiaridades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. III. RAZÕES DE DECIDIR 4. A análise do excesso de prazo na instrução criminal deve ser feita à luz dos princípios da razoabilidade e da proporcionalidade, considerando as particularidades do caso concreto. 5. A mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado. 6. No caso, não se verifica inércia ou desídia do magistrado na condução do feito, pois trata-se de processo complexo com pluralidade de agentes, apuração de crimes graves e houve contribui ção da defesa no retardo do trâmite processual. IV. DISPOSITIVO E TESE 7. Agravo improvido. Tese de julgamento: "1. A análise do excesso de prazo na instrução criminal deve considerar as peculiaridades do caso concreto e a atuação das partes. 2. A mera extrapolação dos prazos processuais não acarreta automaticamente o relaxamento da prisão preventiva.”. (eDOC 13, p. 1-2)
+
+    Consta dos autos que o paciente foi preso em flagrante pela suposta prática dos crimes do art. 33, caput, e 35, ambos da Lei 11.343/2006; art. 16 da Lei 10.826/2003; e art. 333 do Código Penal, após ter sido flagrado na posse de câmeras de monitoramento, de duas armas de fogo, além de 145 porções de cocaína (53,70g), 20 porções de cocaína (20g), 213 porções de maconha (200,07g), 90 porções de maconha (91,60g), 839 porções de crack (96,20g), 02 tijolos de maconha (1495,50g) e 01 tijolo de maconha (243,10g).
+
+    Os impetrantes alegam (eDOC 1) excesso de prazo na prisão preventiva, haja vista que na data da audiência de instrução, designada para 5.9.2025, o paciente estará preso há mais de 1 ano, não obstante seja réu primário e ostente bons antecedentes.
+
+    Argumentam que o excesso de prazo na prisão preventiva deve ser atribuído exclusivamente ao Ministério Público que, não obstante determinação judicial, demorou para disponibilizar as imagens da diligência policial.
+
+    Requerem a concessão da ordem de habeas corpus para que seja revogada a prisão preventiva, com a substituição por cautelares alternativas.
+
+    É o relatório.
+
+    Decido.
+
+    Colho do ato apontado como coator:
+
+    “O acórdão impugnado encontra-se fundamentado nos seguintes termos:
+
+    "Outrossim, não há falar em relaxamento da prisão por excesso de prazo, porquanto, de acordo com as informações prestadas pela autoridade apontada coatora e em consulta ao SAJ (Sistema de Automação da Justiça), verifica-se que o paciente e o corréu foram presos em flagrante no dia 29/08/2024 (fls. 01/03 dos autos de origem), por conseguinte, a denúncia foi oferecida em 13/09/2024 (fls. 266/273 dos autos de origem) e, após, determinada a notificação dos denunciados, em 23/09/2024 (fls. 289 /290 dos autos de origem). O paciente e o corréu Sidenor foram notificados, respectivamente, em 14/10/2024 e 01/10/2024 (fls. 375 e 333 dos autos de origem), sendo que os corréus Lucas e Marcela apresentaram defesa prévia, respectivamente, em 07/10/2024 e 11/11/2024 (fls. 334/362 e fls. 431/435 dos autos de origem). Em 13/11/24, o MM. Juízo de primeiro grau ordenou a produção da prova requerida pelas partes e deferiu pedido formulado pela defesa do paciente e do corréu Sidenor (fls. 370/371 dos autos de origem) de devolução do prazo para defesa prévia, para depois que o órgão acusatório viabilizasse o acesso ao teor das gravações existentes nos equipamentos eletrônicos de monitoramento, apreendidos na casa do paciente e seu pai Sidenor em cumprimento da autorização judicial, no dia da prisão em flagrante (fls. 445/448 dos autos de origem). Ocorre que, malgrado as referidas gravações já tenham sido disponibilizadas a todas as partes (fls. 472/502 e 528/530 dos autos de origem), no momento, ainda se aguarda a apresentação da defesa prévia do paciente e do corréu Sidenor, para posterior recebimento da denúncia e designação da audiência de instrução e julgamento (fls. 491/492). Deste modo, como pontou o douto Procurador de Justiça em preciso parecer “como se verifica de fls. 472/502 e 528/530 da origem, a providência ordenatória do material apreendido, a cargo do órgão acusatório, já foi cumprida e agora nada impede que a defesa complemente a resposta à acusação. Assim, se houvesse demora injustificada quanto ao ponto específico, já estaria superada, esvaziando- se a reclamação da impetração. Mas não houve demora injustificada na implementação da providência pelo órgão acusatório, que presidiu o procedimento de investigação criminal que instrui a denúncia e no curso do qual se realizou a busca e apreensão judicialmente autorizada.” (sic fl. 502 grifou-se). Com efeito, ao contrário do que sustentam os impetrantes, verifica-se que eventual demora no oferecimento da defesa prévia do paciente é atribuível unicamente aos interesses da defesa, a qual “deverá arcar com o ônus de eventual excesso de prazo decorrente de sua ação no presente feito, conforme bem asseverou o douto magistrado de primeiro grau (fls. 445/448 dos autos de origem). Como se vê, no caso em tela, o trâmite processual se apresenta dentro de limites razoáveis de tempo, porque há muito as decisões de nossos Tribunais estão afastando a alegação de ilegalidade, quando eventual excesso de prazo se mostra justificado, em razão de peculiaridades da causa ou quando comprovado inexistir inércia ou desídia do magistrado na condução do feito, hipótese dos autos, pois, como visto, existem quatro réus no polo passivo, com representantes diversos.
+
+    De início, em consulta na base de dados desta Corte, verifica-se que o pedido de substituição da prisão preventiva por medidas cautelares diversas já foi objeto de análise no julgamento do HC nº 965.749/SP, de minha relatoria, julgado pela Quinta Turma desta Corte Superior de Justiça, em 5/3/2025. Logo, no ponto, este habeas corpus trata-se de mera reiteração de outro feito, razão pela qual não merece conhecimento. Confira-se:
+
+    [...]
+
+    Quanto ao pedido de relaxamento da prisão, cumpre anotar que, segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+
+    Na hipótese, o Tribunal de origem destacou que o trâmite processual está dentro de limites razoáveis de tempo, considerando que não houve inércia ou desídia do magistrado na condução do feito. Anotou que a demora no oferecimento da defesa prévia de Robson deve ser atribuível à defesa, pois, uma vez disponibilidade pelo MP as imagens captadas pelo sistema de monitoramento apreendido na residência do paciente, houve um decurso de tempo significativo para a apresentação da referida peça. Ressaltou, ainda, as peculiaridades do caso, que envolve múltiplos réus e representantes diversos, o que naturalmente demanda mais tempo para a tramitação processual.
+
+    Em consulta realizada no site do Tribunal a quo, verifica-se que, no dia 8/5/2025, foi designada a audiência de instrução e julgamento, para 4/9/2025." (e-STJ, fls. 649-654). Nesse contexto, não se identifica, por ora, falta de razoabilidade na condução do feito”. (eDOC 13)
+
+    Apenas em hipóteses excepcionais esta Corte tem deferido ordem de habeas corpus pelo excesso de prazo de prisão cautelar, quando a mora processual seja decorrência a) exclusivamente de diligências suscitadas pela acusação; b) da desídia do juízo processante; ou comprometa gravemente o princípio da razoável duração do processo, nos termos do art. 5º, LXXVIII, segundo o consignado no RHC 241.218 AgR, rel. Min. Cristiano Zanin, Primeira Turma, DJe 17.6.2024, e no HC 23.5060 AgR-AgR, rel. Min. Nunes Marques, Segunda Turma, DJe 14.5.2024.
+
+    Essas hipóteses são a decorrência do firme entendimento deste Supremo Tribunal Federal no sentido de que o excesso de prazo apenas se caracteriza a partir da deficiente atuação das instituições jurídicas, que torna evidente o desprezo estatal pela liberdade (HC 240.270 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe 28.6.2024).
+
+    No caso concreto, todavia, conforme demonstrado pelo Juízo de origem, as gravações requeridas pela defesa foram disponibilizadas pelo Ministério Público e eventual demora no oferecimento da defesa prévia deve ser atribuído apenas à defesa do paciente.
+
+    Além do mais, considerando a complexidade do caso que conta com multiplicidade de réus, entendo que o processo segue seu curso regular não tendo a defesa demonstrado o excesso de prazo da preventiva.
+
+    Por fim, reitero os argumentos desenvolvidos nos autos do HC 253094, de minha relatoria, no qual enfatizei que a prisão cautelar do paciente “justifica-se pelo risco de reiteração delitiva e garantia da ordem pública, pois consta dos autos que as investigações concluíram que o paciente utilizava seu imóvel como ponto de tráfico de drogas. Concluídas as investigações e expedido mandado de busca e apreensão, foram encontradas no imóvel diversas câmeras de monitoramento, duas armas de fogo e grande variedade e quantidade de drogas. Acresça-se que os agentes que atuaram nas diligências informaram que o paciente ainda teria cometido o crime de corrupção ativa, oferecendo-lhes um veículo no valor de 200 mil e mais 100 mil reais, a serem pagos posteriormente, caso o paciente e seu genitor fossem liberados”.
+
+    Logo, reputo inexistente ilegalidade manifesta ou constrangimento ilegal passível de correção pela via estreita do mandamus.
+
+    Ante o exposto, denego a ordem de habeas corpus (RISTF, art. 192).
+
+    Publique-se.
+
+    Brasília, 22 de julho de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
