@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADELIA SILVA E OUTROS, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 113-120):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA - OBRIGAÇÕES DE FAZER E DE PAGAR - PRETENSÕES EXECUTÓRIAS DISTINTAS - INEXISTÊNCIA DE RELAÇÃO ENTRE ELAS - PRAZO PRESCRICIONAL - FLUÊNCIA CONJUNTA E CONCOMITANTE A PARTIR DO TRÂNSITO EM JULGADO DA DECISÃO EXEQUENDA - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA - PEDIDO DE PAGAMENTO DA QUANTIA DEVIDA DAS PRESTAÇÕES ANTERIORES FORMULADO SOMENTE DEPOIS DE UM QUINQUÊNIO - INEXISTÊNCIA DE CAUSA INTERRUPTIVA OU SUSPENSIVA DESSE LAPSO TEMPORAL (DECRETO N. 20.910/1.932 E SÚMULA N. 150, STF) - PRESCRIÇÃO EXECUTÓRIA OCORRIDA - DECISÃO MODIFICADA.
+Tratando-se nitidamente de pretensões executórias (fazer e pagar) distintas e sem nenhuma interferência de uma na outra - motivo também porque não se aplica a modulação dos efeitos atribuída pela Corte Superior acerca desse Tema n. 880, certo, ainda, não se ter demonstrado, em nenhum momento, a necessidade de, antes, haver o fornecimento de documentos ou fichas financeiras pelos Executados, denota-se que, justamente em razão de ter sido o cumprimento de sentença da obrigação de pagar manejado (30/11/2020) depois de um quinquênio do trânsito em julgado (10/09/2012) ocorreu a prescrição.
+RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos pelos recorrentes (fls. 126-149 e 173-175) foram rejeitados (fls. 150-155 e 185-189, respectivamente), porquanto o Tribunal de origem não verificou a existência de omissão ou contradição no acórdão embargado.
+Por sua vez, o Estado do Paraná, ora recorrido, opôs embargos de declaração, às fls. 160-161, que foram acolhidos (fls. 162-166), "para o fim de, sanando a omissão apontada, condenar a parte exequente/embargada ao pagamento integral das custas e despesas processuais, além dos honorários advocatícios devidos aos patronos da parte executada/embargante, no montante equivalente a 10% (dez por cento) sobre o valor da causa atualizado, nos termos do art. 85, §2º, do Código de Processo Civil." (fl. 165).
+No recurso especial, às fls. 197-224, os recorrentes alegam violação dos arts. 927, III, 1.036, 1.039, 1.040, II, do CPC. Sustentam, em síntese, que:
+(i) o cumprimento da sentença de obrigação de pagar dependia do fornecimento das fichas comprobatórias de que houve implantação em folha de pagamento das verbas e a apresentação das respectivas fichas financeiras;
+(ii) há evidente relação de dependência entre as obrigações reconhecidas no título executivo; e
+(iii) considerando que o trânsito em julgado se deu na vigência do CPC/73, aplica-se a modulação de efeitos do Tema n. 880/STJ e a exceção estabelecida pela Corte Especial do STJ no REsp n. 1.340.444/RS. (fl. 203)
+Pugnam pelo provimento do recurso especial, sendo afastada a prescrição da pretensão executória e invertendo-se o ônus de sucumbência.
+A parte recorrida apresentou contrarrazões, às fls. 239-244, pelo não conhecimento do recurso especial.
+O Tribunal de origem não admitiu o recurso especial, porquanto, in verbis:
+Destarte, denota-se que a Câmara Julgadora, sopesando o contexto fático-probatório dos autos, concluiu que não se aplica a modulação da tese firmada pelo Superior Tribunal de Justiça quando do julgamento do Recurso Especial nº 1.336.026/PE (Tema nº 880/STJ), de maneira que a pretendida revisão do julgado não é cabível na via especial, pois demandaria necessariamente a incursão no contexto fático e probatório dos autos, aplicando-se a Súmula 7 do Superior Tribunal de Justiça. (fls. 282-284)
+No agravo em recurso especial (fls. 101-113), os agravantes afirmam, em suma, que buscam analisar questão "exclusivamente de direito, tendo os acórdãos recorridos delineado a moldura fática e transcrito as datas pertinentes à análise da prescrição."(fl. 299).
+Contraminuta, às fls. 323-325, pugnando pela não admissão do agravo em recurso especial.
+É o relatório.
+Decido.
+Com efeito, a Primeira Seção deste Tribunal Superior, sob a sistemática dos recursos especiais repetitivos, julgou os recursos especiais n. 2.057.984/CE e n. 2.139.074/PE, ambos de minha relatoria, firmando a seguinte tese: "O curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública não é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença" ( Tema 1.131 ).
+Confira-se, a propósito, a ementa do julgado:
+Administrativo e processo civil. Tema 1.311. Recurso especial representativo de controvérsia. Cumprimento de sentença contra a fazenda pública. Ordem de implantar em folha de pagamento (obrigação de fazer) e condenação a pagar os valores até a implantação (obrigação de pagar quantia certa). Prescrição. Influência da obrigação de fazer na obrigação de pagar.
+I. Caso em exame
+1. Tema 1.311: recursos especiais (REsp ns. 2.057.984 e 2.139.074) afetados ao rito dos recursos repetitivos, relativos à prescrição das obrigações de pagar quantia certa pela fazenda pública, quando há determinação, no mesmo título executivo judicial, de implantar parcelas vincendas em folha de pagamento.
+II. Questão em discussão
+2. Saber se o curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença.
+III. Razões de decidir
+3. O cumprimento de sentença quanto à implantação em folha de pagamento não suspende ou interrompe a prescrição da obrigação de pagar quantia certa (REsp n. 1.340.444, Rel. Min. Humberto Martins, redator para o acórdão Min. Herman Benjamin, Corte Especial, julgado em 14/3/2019; EREsp n. 1.169.126, Rel. Min. Og Fernandes, Corte Especial, julgado 20/3/2019). As obrigações têm suficiente independência, de forma que o curso do prazo prescricional não é suspenso na pendência da implantação em folha de pagamento.
+IV. Dispositivo e tese
+4. Tese: O curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública não é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença.
+5. Caso concreto: dado provimento ao recurso especial, para extinguir o cumprimento de sentença.
+______
+Dispositivos relevantes citados: arts. 1º, 2º, 3º, 8º e 9º, do Decreto n. 20.910/1932; art. 100, caput e § 3º, da Constituição Federal; arts. 534 e 535 do CPC; art. 17 da Lei n. 10.259/2001 e art. 13 da Lei n. 12.153/2009.
+Jurisprudência relevante citada: STJ, REsp n. 1.340.444, Rel. Min. Humberto Martins, Redator para o acórdão Min. Herman Benjamin, Corte Especial, julgado em 14/3/2019; EREsp n. 1.169.126, Rel. Min. Og Fernandes, Corte Especial, julgado 20/3/2019.
+(REsp n. 2.057.984/CE, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 11/6/2025, DJEN de 16/6/2025.)
+Nesses caso, tendo em vista os arts. 1.040 e 1.041 do CPC, que dispõem sobre atuação do Tribunal de origem após o julgamento do recurso especial submetido ao regime dos recursos repetitivos, é necessária a remessa destes autos ao Tribunal de Justiça do Estado do Paraná, para juízo de adequação do caso concreto ao precedente formado pelo Superior Tribunal de Justiça.
+Somente depois de realizada tal providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+No mesmo sentido, em hipóteses semelhantes ao presente caso, menciono as seguintes decisões monocráticas: AREsp n. 2.868.515, Ministro Benedito Gonçalves, DJe de 30/06/2025; REsp n. 2.022.112/RS, Min. Teodoro Silva Santos, DJe de 26/04/2024; REsp n. 2.054.880/AM, Min. Afrânio Vilela, DJe de 16/04/2024; REsp n. 2.129.768/AM, Min. Regina Helena Costa, DJe de 09/05/2024;
+Ante o exposto, julgo prejudicada a análise do recurso e determino a devolução dos autos à origem, com a devida baixa nesta Corte Superior, a fim de que, o Tribunal e stadual, nos termos dos arts. 1.040 e 1.041 do CPC, realize o juízo de conformação frente ao que foi decidido pelo Superior Tribunal de Justiça quanto ao Tema 1.131.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 927, III, 1.036, 1.039, 1.040, II, DO CPC. PRESCRIÇÃO. OBRIGAÇÃO DE PAGAR. FAZENDA PÚBLICA. TEMA 1.131/STJ. DEVOLUÇÃO DO FEITO À ORIGEM PARA JUÍZO DE CONFORMAÇÃO.
