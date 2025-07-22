@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de reclamação constitucional proposta por EDMILZA FERNANDES DE SENA, com fulcro no art. 988 e seguintes do Código de Processo Civil, ajuizada em face de acórdão proferido pela 1ª Turma Recursal da Seção Judiciária do Estado do Tocantins, nos autos do processo n. 1006424-08.2022.4.01.4300.
+A parte reclamante ajuizou ação originária visando, cumulativamente:
+a) a declaração de inexistência de débito relacionado a cartão de crédito quitado mediante campanha promocional;
+b) o cancelamento de restrições e cobranças indevidas lançadas em seu nome; e
+c) a condenação da instituição financeira ao pagamento de indenização por danos morais.
+A decisão de primeiro grau julgou parcialmente procedentes os pedidos, rejeitando o pleito indenizatório por danos morais.
+A autora interpôs recurso, reiterando a existência de dano moral, destacando que, mesmo após a quitação do débito com base em proposta de desconto feita pela própria instituição, seu crédito permaneceu restrito por suposto prejuízo causado à instituição. Alegou ainda ausência de informação prévia sobre a manutenção da restrição interna e apontou desvio produtivo decorrente da situação experimentada.
+A Turma Recursal manteve a sentença quanto à negativa de danos morais, reformando-a apenas para deferir o pedido de justiça gratuita. No tocante ao pleito indenizatório, entendeu que a situação vivenciada pela autora não configurava dano moral, por se tratar de mero dissabor, e que as provas constantes dos autos não justificavam a realização de audiência de instrução.
+Assim, na presente reclamação, sustenta a parte autora que a decisão impugnada diverge frontalmente da jurisprudência consolidada deste Superior Tribunal, no sentido de que a inscrição ou manutenção indevida em cadastro de inadimplentes configura dano moral presumido (in re ipsa).
+Para ilustrar a divergência, apresenta como paradigma acórdão proferido pela 5ª Turma Recursal do Rio Grande do Sul, em situação fática similar, no qual foi reconhecida a existência de dano moral em favor de consumidor que também quitara débito mediante campanha promocional, mas teve seu nome restrito indevidamente.
+Aduz ainda que a controvérsia envolve matéria exclusivamente de direito, não sendo necessário o reexame de provas, mas sim a correta valoração dos fatos incontroversos já delineados nos autos. Com isso, afasta a aplicação da Súmula n. 42 da TNU.
+Sustenta a existência de divergência jurisprudencial entre a decisão impugnada e julgados do Superior Tribunal de Justiça e de outros tribunais, especialmente no tocante ao reconhecimento do dano moral in re ipsa em hipóteses de cobrança indevida.
+Requer, ao final, o provimento da reclamação, com a cassação do acórdão impugnado, a fim de que seja reconhecido o direito à indenização por danos morais.
+É o relatório.
+Cuida-se de reclamação constitucional ajuizada com fundamento no art. 988 e seguintes do Código de Processo Civil, por meio da qual a parte reclamante busca a cassação de acórdão proferido por Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Tocantins, que manteve a sentença de improcedência do pedido de indenização por danos morais decorrentes de suposta conduta abusiva de instituição financeira.
+Não lhe assiste razão.
+Nos termos do art. 988 do Código de Processo Civil, a reclamação destina-se a preservar a competência do tribunal, garantir a autoridade de suas decisões e assegurar a observância de enunciado de súmula vinculante, de acórdão proferido em julgamento de recurso repetitivo ou de incidente de assunção de competência. Trata-se, portanto, de medida excepcional, voltada à defesa da jurisdição do tribunal e à preservação da integridade do sistema de precedentes qualificados.
+Não se presta, entretanto, à rediscussão de decisão judicial com a qual a parte não se conforma. A reclamação constitucional não é sucedâneo recursal nem meio de revisão de decisões judiciais em razão de suposta injustiça ou erro de julgamento.
+No caso dos autos, a insurgência da parte reclamante volta-se, em verdade, contra o mérito da decisão proferida pela Turma Recursal, a qual analisou os fatos da causa e concluiu, com base no conjunto probatório, pela inexistência de pressupostos para a indenização pleiteada. Ainda que a parte alegue dissídio jurisprudencial, a simples existência de julgados em sentido diverso não autoriza o uso da reclamação como via recursal atípica.
+Ademais, a reclamação também não se destina à uniformização de jurisprudência entre Turmas Recursais dos Juizados Especiais. Para esse fim, a legislação prevê mecanismos próprios, para tal desiderato.
+Assim, não estando demonstrada nenhuma das hipóteses legais que autorizam o manejo da reclamação, impõe-se o indeferimento liminar da petição inicial, nos termos do art. 988, § 5º, inciso I, do CPC.
+Ante o exposto, indefiro liminarmente a petição inicial.
+EMENTA
