@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio da qual a Justiça colombiana (Centro de Servicios Judiciales Sede Paloquemao Sistema Penal Acusatorio Bogotá D. C.) solicita que se proceda à notificação de Thiago Tavares de Paiva Martins dos Santos, Eduardo Costa Texeira, Leonardo Rabelo de Matos Silva, Gustavo Mantovani Ruggiero, Francisco Verissimo de Mello Filho, Rosana Cardozo Valencia e Angelina Sá do Nascimento para tomarem conhecimento das audiências relativas ao Processo n. CUI: 11001 60 00 000 2018 02416 00 - NI: 339959, designadas para os dias 26 de junho de 2025 e 3 de julho de 2025, ambas às 8h (hora colombiana), as quais serão realizadas por videoconferência.
+Tendo em vista o decurso das datas acima mencionadas, julgo prejudicada a comissão e determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central, independentemente do trânsito em julgado e sem prejuízo de eventual reapresentação com nova da ta de audiência.
+Publique-se.
+EMENTA
