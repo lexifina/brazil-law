@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCIA CRISTINA FERNANDEZ PHILIPOVSKY contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 154.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios em agravo de instrumento nos autos de cumprimento de sentença.
+O julgado foi assim ementado (fls. 72-73):
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. LOCALIZAÇÃO DE BENS PASSÍVEIS DE PENHORA. NOVAS DILIGÊNCIAS. RAZOABILIDADE E PROPORCIONALIDADE. CONSULTA AO CADASTRO DE CLIENTES DO SISTEMA FINANCEIRO NACIONAL - CCS BACEN. NÃO CABIMENTO. REQUISIÇÕES DE INFORMAÇÕES À CENSEC. INTERVENÇÃO DO PODER JUDICIÁRIO. DESNECESSIDADE.
+1. Novos pedidos de diligência devem se pautar em juízo de razoabilidade e proporcionalidade, levando-se em conta as dificuldades concretas do credor para a localizar bens do devedor, as ações por ele realizadas com essa finalidade e as chances de resultado útil da nova pesquisa.
+2. A Central Notarial de Serviços Eletrônicos Compartilhados - CENSEC, criada pelo Provimento 18/2012, da Corregedoria Nacional de Justiça, com o objetivo implantar um sistema de gerenciamento de dados relativos a testamentos, procurações e escrituras lavradas em serventias extrajudiciais, não se confunde nem se equipara a uma ferramenta de consulta de bens móveis ou imóveis para passíveis de constrição.
+3. O Cadastro de Clientes do Sistema Financeiro - CCS, previsto no artigo 10-A da Lei 9.613/1998 e regulamentado pela Circular BACEN 3.347/2007, serve para registrar as relações envolvendo as instituições financeiras e as demais entidades autorizadas pelo Banco Central, com quem o cliente tenha algum vínculo (como conta corrente, poupança e investimento), não dispondo de informações sobre ativos financeiros passiveis de interesse à execução. Se já consta nos autos a realização de pesquisa via Sisbajud, não há necessidade ou utilidade na requisição judicial de informações do CCS, pois ambos os utilizam a mesma base de dados.
+4. Agravo de instrumento não provido. Agravo interno julgado prejudicado.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 4º, porque as partes têm o direito de obter em prazo razoável a solução integral do mérito, incluída a atividade satisfativa;
+b) 6º, pois todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva;
+c) 139, IV, porquanto o juiz deve determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial; e
+d) 797, visto que a execução deve ser realizada no interesse do exequente que adquire, pela penhora, o direito de preferência sobre os bens penhorados.
+Sustenta que o Tribunal de origem divergiu ao decidir que não há necessidade de requisição judicial de pesquisa via CCS-Bacen e Censec, enquanto o Tribunal de Justiça do Mato Grosso entendeu pela possibilidade de utilização dessas ferramentas em casos similares.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando a realização de pesquisas mediante utilização dos mecanismos CCS-Bacen e Censec.
+Não foram apresentadas contrarrazões, conforme certidão às fls. 128-129.
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento contra decisão que, em sede de cumprimento de sentença, indeferiu pleito concernente à realização de medidas atípicas de execução. A Corte estadual manteve a decisão monocrática por seus fundamentos.
+No recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 4º, 6º, 139, IV e 797 do CPC, pois o pedido de realização de pesquisas nos sistemas CCS-Bacen e Censec foi indeferido sob fundamentação genérica.
+A Corte estadual concluiu que não há necessidade ou utilidade da requisição judicial de pesquisa via CCS-Bacen e Censec, pois ambos os sistemas utilizam a mesma base de dados do Sisbajud, e a Central Notarial de Serviços Eletrônicos do Brasil - CENSEC 2.0 é acessível à parte credora extrajudicialmente, sendo desnecessária a intervenção do Poder Judiciário.
+Confira-se trecho do acórdão recorrido (fls. 81-83):
+O Cadastro de Clientes do Sistema Financeiro- CCS, previsto no artigo 10-A da Lei 9.613/1998 e regulamentado pela Circular BACEN3.347/2007, serve para registrar as relações envolvendo as instituições financeiras e as demais entidades autorizadas pelo Banco Central, com quem o cliente tenha algum vínculo (como conta corrente, poupança e investimento).
+Não dispondo de informações sobre ativos financeiros passiveis de interesse à execução. Além disso, o referido cadastro se baseia na mesma base de dados do Sisbajud, e consta nos autos que já foram realizadas pesquisas via Sisbajud (ID nº 189172463 - processo de origem).
+Portanto, inexiste necessidade ou mesmo utilidade da requisição judicial de pesquisa via Cadastro de Clientes do Sistema Financeiro (CCS), no caso em tela.
+ ..
+Por sua vez, a Central Notarial de Serviços Eletrônicos Compartilhados - CENSEC, criada pelo Provimento 18/2012, da Corregedoria Nacional de Justiça, com o objetivo implantar um sistema de gerenciamento de dados relativos a testamentos, procurações e escrituras lavradas em serventias extrajudiciais, não se confunde nem se equipara a uma ferramenta de consulta de bens móveis ou imóveis passíveis de constrição. Ademais, a Central Notarial de Serviços Eletrônicos do Brasil - CENSEC 2.0, por se tratar de sistema acessível à parte credora extrajudicialmente, é possível a realização de pesquisas pelo interessado, sendo desnecessária, portanto, a intervenção do Poder Judiciário.
+Dentro desse contexto, não cabe a esta Corte modificar tal entendimento, notadamente no que diz respeito à desnecessidade de deferimento de pesquisas nos sistemas CCS-Bacen e Censec, com vistas a efetivar a presente execução, por demandar o reexame de matéria fático-probatória, o que é vedado ante o óbice sumular n. 7 do STJ.
+No tocante ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJ e de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
