@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SILVIO NEGHERBON contra decisão monocrática, por mim proferida, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 1.178/1.181).
+Sustenta o embargante, em suma, que a decisão foi omissa, pois, embora tenha reconhecido que a análise do documento EV209, INF106 somente ocorreu no último julgamento de embargos na origem, não se manifestou sobre a tese de violação do art. 1.026, § 4º, do Código de Processo Civil, arguida no recurso especial. Afirma que, se os embargos foram necessários para sanar a omissão, não poderiam ter sido considerados protelatórios pelo Tribunal de origem.
+É o relatório.
+Com parcial razão o embargante.
+De fato, a decisão embargada deixou de se manifestar expressamente sobre a tese de violação do art. 1.026, § 4º, do Código de Processo Civil, referente à impossibilidade de se classificar como protelatório o recurso que visava sanar vício de omissão. Passo, pois, a sanar o vício, sem, contudo, atribuir efeitos infringentes ao julgado.
+A defesa alega que o Tribunal de Justiça, ao considerar protelatórios os embargos de declaração opostos na origem, violou o referido dispositivo legal.
+Contudo, a análise da pretensão recursal, neste ponto, encontra óbice no enunciado da Súmula 7 do STJ.
+A Corte de origem, ao analisar o contexto processual, concluiu pelo caráter protelatório do recurso integrativo. Assim, por entender o Tribunal a quo que os Embargos de Declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese da recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+Nesse sentido: Assim, por entender o Tribunal a quo que os Embargos de Declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese da recorrente demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ. A propósito: AgInt no REsp 1.920.415/SE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 7.10.2021; AgInt no AREsp 1.617.337/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13.5.2021; AgInt no AREsp 1.740.475/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28.4.2021; AgInt no REsp 1.851.731/AL, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 22.9.2021; e AgInt no AREsp 1.441.228/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17.3.2020 (AREsp n. 2.765.943, Ministro Paulo Sérgio Domingues, DJe de 16/7/2025).
+Dessa forma, a pretensão de afastar o caráter protelatório dos embargos de declaração, reconhecido na origem, não pode ser conhecida.
+Ante o exposto, acolho parcialmente os embargos de declaração, apenas para suprir a omissão apontada, sem, contudo, atribuir-lhes efeitos infringentes, mantendo-se inalterado o resultado da decisão embargada.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. OMISSÃO QUANTO À ALEGADA VIOLAÇÃO DO ART. 1.026, § 4º, DO CPC. CARÁTER PROTELATÓRIO DOS ACLARATÓRIOS NA ORIGEM. REVISÃO. SÚMULA 7/STJ.
+Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
