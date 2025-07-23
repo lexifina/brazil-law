@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por DIEGO BARCE DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que denegou a ordem impetrada perante aquela Corte estadual (HC n. 5035182-45.2025.8.24.0000).
+Consta dos autos que o recorrente foi preso em flagrante no dia 27/02/2025, pela suposta prática dos crimes previstos nos arts. 16, § 1º, inciso IV, e 14, ambos da Lei n. 10.826/2003, consistentes na posse de revólver calibre .38 com numeração suprimida e seis munições intactas, sem autorização legal, em local dominado por facção criminosa.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem, nos termos da seguinte ementa (e-STJ fl. 46):
+HABEAS CORPUS. AÇÃO PENAL. APURAÇÃO DO CRIME DE POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. MANUTENÇÃO DA PRISÃO PREVENTIVA E DESIGNAÇÃO DE SOLENIDADE INSTRUTÓRIA.
+ADMISSIBILIDADE. REVOGAÇÃO DA SEGREGAÇÃO CAUTELAR. NÃO CONHECIMENTO. REITERAÇÃO DE TESES JÁ APRECIADA EM IMPETRAÇÃO ANTERIOR RECENTEMENTE JULGADA NESTE ÓRGÃO FRACIONÁRIO.
+MÉRITO. EXCESSO DE PRAZO NA MANUTENÇÃO DA PRISÃO PREVENTIVA. NÃO ACOLHIMENTO. OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. TRAMITAÇÃO REGULAR CONSTATADA. AUSÊNCIA DE MOROSIDADE ESTATAL INJUSTIFICADA APONTADA PELA DEFESA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+AÇÃO CONHECIDA EM PARTE. ORDEM DENEGADA.
+No presente recurso, alega que o recorrente se encontra submetido à prisão cautelar por prazo excessivo, sendo desproporcional a manutenção da custódia, sobretudo diante da ausência de violência no delito imputado, da primariedade, residência fixa e bons antecedentes do recorrente, e da baixa pena mínima cominada ao tipo penal.
+Sustenta que a audiência de instrução foi marcada para mais de três meses após o oferecimento da denúncia, sem justificativa plausível para a demora, e que não há nos autos elementos concretos que apontem risco à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Aduz, ainda, que não foi ofertada à defesa qualquer alternativa à prisão preventiva, sendo cabível a substituição da medida extrema por cautelares diversas, nos termos do art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem imposição de medida substitutiva, como o monitoramento eletrônico.
+Indeferida a liminar (e-STJ fls. 74/76) e prestadas as informações (e-STJ fls. 79/86 e 90/188), o Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 191/197).
+É o relatório. Decido.
+Busca-se no presente recurso a revogação ou o relaxamento da prisão preventiva sob as alegações de excesso de prazo para a formação da culpa e ausência de fundamentação idônea no decreto prisional.
+Inicialmente, em relação à alegada ausência de fundamentação, cumpre salientar que, nos termos da jurisprudência desta Corte, o Superior Tribunal de Justiça não pode examinar, originariamente, a legalidade da prisão cautelar quando a instância antecedente sequer analisou o mérito da impetração. Trata-se de óbice processual que impede a atuação desta Corte, ainda que se trate de matéria constitucionalmente afeta ao habeas corpus.
+Na hipótese dos autos, verifica-se que o Tribunal de origem não conheceu, no referido ponto, da impetração por entender que se tratava de mera reiteração de habeas corpus anteriormente impetrado, destacando que "Essas matérias foram replicadas nesta impetração, razão pela qual desmerecem a reanálise, sobretudo quando não demonstrada pela defesa alteração importante no quadro fático-probatório apresentado." (e-STJ fl. 43).
+Com efeito, não houve análise dos fundamentos do decreto prisional expostos no presente recurso ordinário. Nessa situação, esta Corte Superior encontra-se impossibilitada de conhecer do habeas corpus, ante a ausência de pronunciamento da instância antecedente sobre as teses deduzidas na presente impetração, sob pena de supressão de instância.
+De outro vértice, o Tribunal a quo, ao não conhecer do writ originário por não verificar inovação de fato ou de direito na segunda impetração, está em consonância como o entendimento jurisprudencial das Cortes Superiores.
+Com efeito, " ..  a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus" (AgRg no HC n. 190.293, Rel. Ministro CELSO DE MELLO, julgado em 20/10/2020, DJe 19/11/2020).
+Em relação ao alegado excesso de prazo, por sua vez, verifica-se a prejudicialidade do p resente recurso, diante da superveniência da sentença condenatória, conforme alertado pelo Ministério Público Federal às e-STJ fls. 191/197.
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
