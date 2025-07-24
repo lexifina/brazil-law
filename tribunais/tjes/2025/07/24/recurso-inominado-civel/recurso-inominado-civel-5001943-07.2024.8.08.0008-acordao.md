@@ -1,0 +1,133 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001943-07.2024.8.08.0008
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ANTONIO ALVES FILHO
+RECORRIDO: BANCO PAN S.A.
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS C/C PEDIDO LIMINAR. DIREITO DO CONSUMIDOR.
+CARTÃO DE CRÉDITO CONSIGNADO COM NATUREZA DE EMPRÉSTIMO CONSIGNÁVEL. VÍCIO DE CONSENTIMENTO. FALHA NOS SERVIÇOS PRESTADOS. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+PRETENSÃO RECURSAL DE MAJORAÇÃO DO
+QUANTUM
+. VALOR FIXADO PELO JUÍZO DE ORIGEM EM OBSERVÂNCIA À RAZOABILIDADE, PROPORCIONALIDADE, EXTENSÃO DO DANO E CONDIÇÕES DAS PARTES. CONSIDERAÇÃO DO FRACIONAMENTO DAS DEMANDAS. AUSÊNCIA DE EXCESSO OU IRRISORIEDADE. VALOR MANTIDO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA. CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS. SUSPENSÃO DA EXIGIBILIDADE EM RAZÃO DA GRATUIDADE DE JUSTIÇA.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n.º 5001943-07.2024.8.08.0008
+
+Recorrente: ANTONIO ALVES FILHO
+
+Recorrido: BANCO PAN S/A
+
+Relator: DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTOS
+
+DR. DOUGLAS DEMONER FIGUEIREDO – RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro ao recorrente os benefícios da gratuidade de justiça, nos termos do art. 98 do CPC/15.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS C/C PEDIDO LIMINAR. DIREITO DO CONSUMIDOR.
+CARTÃO DE CRÉDITO CONSIGNADO COM NATUREZA DE EMPRÉSTIMO CONSIGNÁVEL. VÍCIO DE CONSENTIMENTO. FALHA NOS SERVIÇOS PRESTADOS. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+PRETENSÃO RECURSAL DE MAJORAÇÃO DO
+QUANTUM
+. VALOR FIXADO PELO JUÍZO DE ORIGEM EM OBSERVÂNCIA À RAZOABILIDADE, PROPORCIONALIDADE, EXTENSÃO DO DANO E CONDIÇÕES DAS PARTES. CONSIDERAÇÃO DO FRACIONAMENTO DAS DEMANDAS. AUSÊNCIA DE EXCESSO OU IRRISORIEDADE. VALOR MANTIDO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA. CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS. SUSPENSÃO DA EXIGIBILIDADE EM RAZÃO DA GRATUIDADE DE JUSTIÇA. (1). TESE AUTORAL.
+RELATA O DEMANDANTE QUE APÓS RETIRAR EXTRATO DETALHADO DE SUA CONTA, OBSERVOU DESCONTOS INDEVIDOS EM SEU BENEFÍCIO PREVIDENCIÁRIO, SOB O N° 771963085-2. AFIRMA O AUTOR QUE NUNCA SOLICITOU ESSE EMPRÉSTIMO, TAMPOUCO AUTORIZOU O LANÇAMENTO DE QUALQUER DESCONTO. DIANTE DE TAIS FATOS PROPÔS A PRESENTE AÇÃO, PUGNANDO PELA DECLARAÇÃO DE INEXISTÊNCIA DA CONTRATAÇÃO, RECONHECENDO O VÍCIO DE CONSENTIMENTO, E AINDA NA CONDENAÇÃO DO REQUERIDO A INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.
+(2). ANTÍTESE.
+CITADO, O REQUERIDO APRESENTOU CONTESTAÇÃO SUSTENTANDO A VALIDADE DO NEGÓCIO JURÍDICO, PUGNANDO PELA IMPROCEDÊNCIA DOS PEDIDOS AUTORAIS.
+(3). DISPOSITIVO DA SENTENÇA.
+“Ante o exposto,
+JULGO PROCEDENTE
+, EM PARTE, os pedidos constantes da exordial para:
+A)
+DECLARAR
+
+inexistente a adesão ao cartão de crédito consignado, o qual deverá ser cancelado;
+B)
+RECONHECER
+
+a abusividade do empréstimo pactuado e, por conseguinte, considerando que a Autora já quitou todo o valor do empréstimo,
+DECLARAR EXTINTA
+sua dívida perante o Requerido, devendo este último cancelar todos os débitos havidos em desfavor da Autora em seus sistemas, referentes ao contrato discutido nos autos, a fim de evitar futuras cobranças, descontos e negativações indevidas do nome.
+C)
+CONDENAR
+
+o suplicado à devolução de R$ 1.154,96 (mil, cento e cinquenta e quatro reais e noventa e seis centavos),
+já em dobro
+, referente aos valores descontados em razão do contrato de cartão de crédito objurgado, acrescido de eventual desconto ocorrido após o pagamento de 27/05/2024 (competência 05/2024), também em dobro, nos termos do art. 323 do Código de Processo Civil, com correção monetária pelo IPCA/IBGE a partir do último desconto/desembolso, até a data citação, termo a partir do qual incidirá a SELIC (índice que já contempla a correção monetária);
+D) CONDENAR
+a parte suplicada ao pagamento da quantia de R$ 1.500,00 (mil e quinhentos reais) a título de d
+anos morais mitigado, em razão do fracionamento das demandas (5001943-07.2024.8.08.0008 e 5001941-37.2024.8.08.0008).
+Referida importância essa que deverá ser corrigida monetariamente, a partir desta sentença (Súmula 362 do Col. STJ), e acrescida de juros moratórios, a partir do ato citatório; e
+E) AUTORIZAR
+, desde já, a compensação da obrigação de pagamento imposta à parte suplicada com o crédito de sua titularidade (R$ 1.201,67 – mil, duzentos e cinquenta e oito reais e sessenta e seis centavos), em consonância com o art. 368 do CCB/02. Por oportuno,
+declaro extinta a presente relação jurídica processual
+, com resolução do mérito, na forma do artigo 487, inciso I do Código de Processo Civil. Sem custas processuais e sem honorários advocatícios nesta fase, conforme art. 55 da Lei nº 9.099/95.”
+(4). RECURSO DA PARTE AUTORA.
+EM SÍNTESE, PUGNA PELA REFORMA DA R. SENTENÇA PROFERIDA NOS AUTOS, PARA MAJORAÇÃO DO
+QUANTUM
+INDENIZATÓRIO ARBITRADO A TÍTULO DE DANOS MORAIS PARA O IMPORTE DE R$ 10.000,00 (DEZ MIL REAIS).
+(5). CONTRARRAZÕES DA PARTE RÉ.
+ALMEJA, EM SUMA, O IMPROVIMENTO DO RECURSO MANEJADO PELO REQUERENTE.
+(6). DO MÉRITO RECURSAL.
+RELAÇÃO DE CONSUMO
+.
+PRETENSÃO RECURSAL DE MAJORAÇÃO DO
+QUANTUM
+INDENIZATÓRIO ARBITRADO EM SENTENÇA. POIS BEM, NO QUE TANGE AO DANO MORAL, SUA OCORRÊNCIA OU NÃO, NÃO FOI OBJETO DE DEVOLUÇÃO AO EXAME DESSA TURMA RECURSAL, LIMITANDO-ME APENAS A VERIFICAÇÃO DE SEU
+QUANTUM.
+POIS BEM.
+IN CASU
+, MELHOR SORTE NÃO ALCANÇA À PARTE RECORRENTE. AO REVER OS ELEMENTOS DE INFORMAÇÃO QUE FORAM APRESENTADOS NOS AUTOS, A MEU SENTIR, NÃO VISLUMBRO HIPÓTESE CAPAZ DE ENSEJAR A MAJORAÇÃO DA REPARAÇÃO EXTRAPATRIMONIAL PUGNADA, POSTO QUE, O JUÍZO
+A QUO
+AO FIXAR O
+QUANTUM
+INDENIZATÓRIO, OBSERVOU A PROVA DA OCORRÊNCIA DO FATO OFENSIVO E OBEDECEU: A RAZOABILIDADE; A PROPORCIONALIDADE; A EXTENSÃO DO DANO; O GRAU DA CULPA; E A CAPACIDADE FINANCEIRA DO OFENSOR E DO OFENDIDO; DE FORMA QUE O MONTANTE ARBITRADO NÃO FORA IRRISÓRIO E NEM IMPORTOU EM ENRIQUECIMENTO DA VÍTIMA, NÃO HAVENDO, PORTANTO, QUE SE FALAR EM MAJORAÇÃO DA INDENIZAÇÃO. ADEMAIS, MERECE DESTAQUE O FATO DE QUE O JUÍZO DE ORIGEM EXPRESSAMENTE CONSIDEROU O FRACIONAMENTO DAS DEMANDAS AJUIZADAS PELO AUTOR (PROCESSOS Nº 5001943-07.2024.8.08.0008 E Nº 5001941-37.2024.8.08.0008), COMO CRITÉRIO DE MODERAÇÃO NA FIXAÇÃO DO MONTANTE INDENIZATÓRIO. EMBORA OS NEGÓCIOS JURÍDICOS DISCUTIDOS NÃO SEJAM IDÊNTICOS, AMBOS DECORREM DE RELAÇÃO DE CONSUMO COM A MESMA INSTITUIÇÃO FINANCEIRA. NESSE CONTEXTO, A FIXAÇÃO DE INDENIZAÇÕES ELEVADAS EM CADA UMA DAS DEMANDAS PODERIA CONDUZIR A UMA DUPLICIDADE PUNITIVO-PEDAGÓGICA. A MODERAÇÃO ADOTADA, PORTANTO, ENCONTRA RESPALDO NA PRUDÊNCIA JUDICIAL E NOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+QUANTUM
+MANTIDO, EM ATENÇÃO ÀS PECULIARIDADES DO CASO E AO CARÁTER PUNITIVO PEDAGÓGICO DA REPRIMENDA.
+
+VALOR ARBITRADO DE ACORDO COM A RAZOABILIDADE E PROPORCIONALIDADE QUE DEVE SER MANTIDO
+, PORQUANTO, ENCONTRA-SE EM CONSONÂNCIA COM AS ESPECIFICIDADES DO CASO E EXTENSÃO DO DANO. PRECEDENTES DESTA TURMA RECURSAL. SENTENÇA PROFERIDA PELO COLEGA DE PISO QUE NÃO MERECE QUALQUER RETOQUE.
+(7).
+
+RECURSO CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+
+POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LJE),
+CUSTAS PROCESSUAIS DEVIDAS, ASSIM COMO HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE 10% SOBRE O VALOR ATUALIZADO DA CAUSA, TODAVIA, SUSPENDO A EXIGIBILIDADE DA CONDENAÇÃO, POR DEFERIR À PARTE RECORRENTE A JUSTIÇA GRATUITA.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator
+Dr.
+DOUGLAS DEMONER FIGUEIREDO
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
