@@ -1,0 +1,7 @@
+DECISÃO
+Encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.209), os Recursos Especiais 2.039.132/SP, 2.013.920/RJ, 2.035.296/SP, 1.971.965/SP e 1.843.631/PE, de relatoria do Min. Francisco Falcão, a questão debatida nos autos, qual seja, "definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório".
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se.
+Intimem-se.
+EMENTA
