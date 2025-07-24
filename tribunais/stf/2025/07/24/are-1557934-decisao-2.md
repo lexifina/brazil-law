@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Município de São Paulo em face do acórdão do Tribunal de Justiça estadual, assim ementado:
+
+    “Apelação. Legitimidade processual. Aferição segundo a teoria da asserção. Preliminar corretamente rejeitada pela r. sentença recorrida. Cerceamento de defesa. Prescindibilidade da apuração do valor da regularização do loteamento, bem como do valor do projeto que norteará a regularização. Apuração de valores desnecessária para a definição da responsabilidade pela regularização. Valores que devem ser apurados em execução de sentença. Cerceamento de defesa inocorrente. Ação civil pública. Regularização de loteamentos clandestinos. Regularização que compete à proprietária do imóvel e a quem contribuiu para o parcelamento irregular do solo. Responsabilidade da proprietária e da empresa por ela contratada para a regularização reconhecida, pois a empresa contratada, ao invés de promover a regularização, intermediou a venda de lotes, contribuindo para a manutenção da irregularidade do loteamento. Remoção de ocupantes de área de risco do loteamento irregular e respectivo alojamento. Ônus que compete à Municipalidade, assegurado o direito de regresso pelas despesas suportadas contra os responsáveis pelo loteamento irregular. Sucumbência recíproca. Impossibilidade de compensação da verba honorária. Necessidade de arbitramento proporcionalmente à sucumbência de cada parte. Recurso da autora parcialmente provido. Recurso das rés improvido.” (Apelação Cível n° 0033680-60.2013.8.26.0053, 6ª Câmara de Direito Privado, Rel. Des. Ademir Modesto de Souza, j. 28.4.2022)
+
+    Na minuta, sustenta-se violação dos arts. 2º, 5º, II, 30, VIII, e 37, caput, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Analisados os autos, verifica-se que a Corte de origem decidiu a controvérsia com base nos seguintes fundamentos:
+
+    “Ora, a r. sentença recorrida não determina às rés a regularização de qualquer loteamento ou de loteamento desconhecido, mas a regularização de loteamentos certos e determinados, vale dizer, os loteamentos clandestinos denominados Vila Celina e Vila Pierre. E mais, delimitou o âmbito dessa obrigação, vinculando-a à observância do programa RENOVA SP para o Perímetro da Ação Integrada — Cabuçu de Cima — 10, que é de conhecimento das rés, tanto que com base nesse programa celebraram, mas não cumpriram, um Termo de Compromisso e Responsabilidade.
+
+    [...]
+
+    No que se refere à responsabilidade da Irmandade Santa Casa de São Paulo, ela decorre de sua condição de proprietária do terreno onde foram construídos 2 (dois) loteamentos irregulares, o que, aliás, não é por ela negado.
+
+    Na condição de proprietária do imóvel, a corré Irmandade Santa Casa não adotou as cautelas devidas para evitar que parte dele fosse ocupado por invasores, tanto que não logrou a retomada da posse em nenhuma das ações possessória que ajuizou, permitindo que as ocupações, em função de seu volume, se tornassem irreversíveis, obrigando a Municipalidade a adotar providências visando à regularização da ocupação, nos moldes exigidos pela Lei de Parcelamento do Solo Urbano. Tanto a retomada da posse após as ocupações se tornou irreversível que a proprietária do imóvel não nega a alegação inicial, no sentido de que ela própria passou a negociar com os ocupantes a venda dos lotes ocupados, desistindo implicitamente de sua propriedade e contribuindo para a instalação de um loteamento clandestino, visando a minorar seu prejuízo com a perda de sua propriedade.
+
+    É certo que, após as ocupações se tornarem irreversíveis, a Municipalidade procurou adotar providências visando à melhoria das condições de habitação dos ocupantes, procurando urbanizar a área e diminuir os danos ao meio ambiente. Essas providências, longe de importar incentivo às ocupações, porque elas já existiam e eram irreversíveis, certamente visou a evitar maiores danos, seja ao meio ambiente, seja à própria população local, daí porque não excluem a responsabilidade da proprietária do imóvel.
+
+    [...]
+
+    Assim como a Irmandade Santa Casa de Misericórdia de São Paulo, a Pethra - Planejamento Incorporação e Desenvolvimento de Negócios Imobiliários Ltda. por ela contratada para promover regularização do loteamento, ao invés de fazê-lo negociou lotes em nome da proprietária com os ocupantes, inclusive com aqueles que estão em área de risco, permitindo a manutenção da irregularidade do loteamento, equiparando-se, com essa conduta, ao loteador, daí se submeter às obrigações que foram impostas à Irmandade Santa Casa de Misericórdia, independentemente de não mais manter relação contratual com ela, já que contribuiu decisivamente para o irregular parcelamento do solo urbano.
+
+    Quanto à responsabilidade pela remoção e realojamento dos ocupantes para efetivação da regularização do loteamento, não pode a Municipalidade de São Paulo fugir às suas responsabilidades. Como lhe compete fiscalizar o uso e a ocupação do solo, compete-lhe promover a remoção dos ocupantes das áreas de risco e alojá-los em locais salubres e sem risco, já que compete ao Poder Público o dever de efetivar o direito fundamental de moradia de pessoas carentes, mormente quando sé encontram em áreas de risco. Aliás, quanto à essa questão, a obrigação dá Municipalidade já foi reconhecida nos autos dos agravos 2008245-78.2014 e 1012258-12.2013. Confira-se:”
+
+    Portanto, a revisão das premissas adotadas pelo Tribunal de origem demandaria o exame da moldura fática delineada, bem como da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 454/STF: “para simples reexame de prova não cabe recurso extraordinário” e “simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Ação civil pública. Loteamento clandestino. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF), bem como a análise da legislação infraconstitucional. 2. Agravo regimental não provido.” (ARE 1184140 AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 31-07-2019)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 1º.08.2024. AÇÃO CIVIL PÚBLICA. LOTEAMENTO CLANDESTINO. IRREGULARIDADE. DANO AMBIENTAL. FISCALIZAÇÃO. RECONHECIMENTO DE OMISSÃO DO ENTE PÚBLICO. DETERMINAÇÃO DE OBRIGAÇÃO DE FAZER. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO LOCAL. SÚMULAS 279 E 280 DO STF. 1. Eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos e o exame da legislação local aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento, com aplicação da multa do art. 1.021, §4º, do CPC. Sem honorários, por se tratar de ação civil pública (art. 18 da Lei 7.347/1985).” (ARE 1497005 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 26-11-2024)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OCUPAÇÃO IRREGULAR EM ÁREA DE PRESERVAÇÃO AMBIENTAL. DANO AMBIENTAL. OMISSÃO DO PODER PÚBLICO MUNICIPAL. INTERVENÇÃO EXCEPCIONAL DO PODER JUDICIÁRIO. TEMA N. 698 DA REPERCUSSÃO GERAL. OBRIGAÇÃO DE FAZER: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 1495011 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 27-08-2024)
+
+    Por fim, quanto à alegada violação do art. 2º da Lei Fundamental, a jurisprudência do Supremo Tribunal Federal é no sentido de que o exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido, cito o RE 417.408-AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma, DJEde 26.4.2012; e o ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJE de 09.9.2012, assim ementado:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao princípio da separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas Súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.”
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 24 de julho de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
