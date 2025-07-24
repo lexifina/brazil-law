@@ -1,0 +1,80 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000844-27.2024.8.08.0032
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ASSOCIACAO BRASILEIRA DOS SERVIDORES PUBLICOS - ABSP
+RECORRIDO: JUSSARA SOUZA FERREIRA
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, VENDA CASADA, C/C COM REPETIÇÃO DE INDÉBITO C/C DANOS MORAIS E MATERIAIS. DIREITO DO CONSUMIDOR. DESCONTOS INDEVIDOS. AUSÊNCIA DE COMPROVAÇÃO DE FILIAÇÃO À ASSOCIAÇÃO. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO.
+QUANTUM
+INDENIZATÓRIO MANTIDO. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n.° 5000844-27.2024.8.08.0032
+Recorrente: AAPEN - ASSOCIAÇÃO DE APOSENTADOS E PENSIONISTAS NACIONAL
+
+Recorrida: JUSSARA SOUZA FERREIRA
+Relator: DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, VENDA CASADA, C/C COM REPETIÇÃO DE INDÉBITO C/C DANOS MORAIS E MATERIAIS. DIREITO DO CONSUMIDOR. DESCONTOS INDEVIDOS. AUSÊNCIA DE COMPROVAÇÃO DE FILIAÇÃO À ASSOCIAÇÃO. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO.
+QUANTUM
+INDENIZATÓRIO MANTIDO. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO. (1). TESE AUTORAL.
+CUIDA-SE DE AÇÃO SUMARÍSSIMA AFORADA POR JUSSARA SOUZA FERREIRA EM FACE DE AAPEN - ASSOCIAÇÃO DE APOSENTADOS E PENSIONISTAS NACIONAL, OBJETIVANDO A DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO, EM DECORRÊNCIA DOS FATOS ARTICULADOS NA EXORDIAL. A AUTORA, APOSENTADA, RECENTEMENTE IDENTIFICOU DESCONTOS NÃO RECONHECIDOS EM SEU EXTRATO PREVIDENCIÁRIO REFERENTE A UMA CONTRIBUIÇÃO RELACIONADA À ENTIDADE DEMANDADA. ADUZ QUE
+“percebeu em seu extrato de pagamento disponibilizado pelo INNS, se trata de parcelas mensais a título de “Contribuição AAPEN”, que foi realizado do mês de abril a outubro de 2019, no valor de R$ 29,94 (vinte e nove reais e noventa e quatro centavos)”.
+DIANTE DE TAIS FATOS, PUGNA PELA CESSAÇÃO DOS DESCONTOS, COM A CONSEQUENTE CONDENAÇÃO DA REQUERIDA AO PAGAMENTO DO INDÉBITO EM DOBRO, EM RAZÃO DOS VALORES DESCONTADOS INDEVIDAMENTE, ALÉM DE COMPENSAÇÃO POR DANOS MORAIS.
+(2). DISPOSITIVO DA SENTENÇA. “Ante o exposto, com fundamento no art. 487, inc. I, do CPC, julgo extinta a fase cognitivado processo e acol pedidos para: a) declarar a inexistência de relação jurídica de débito/crédito entre as partes tocantemente ao contrato/filiação identificado(a) na inicial, ratificando a decisão que deferiu a tutela de urgência; b) condenar a requerida à restituição/estorno em dobro dos valores debitados sobre o benefício previdenciário da parte autora, devidamente atualizado, nos termos da fundamentação supra; c) condenar a requerida ao pagamento da quantia de R$6.000,00 (seis mil reais), a título de indenização por danos morais, atualizados conforme fundamentação.
+Conforme dispõem os artigos 54 e 55 da Lei 9.099/1995, não há que se falar em pagamento de custas processuais, bem como em condenação da parte sucumbente nas verbas de honorários advocatícios”.
+(3). RECURSO DA PARTE RÉ.
+EM SÍNTESE, PUGNA PELA REFORMA DA R. SENTENÇA PARA QUE SEJA JULGADO IMPROCEDENTE O PEDIDO DA PARTE RECORRIDA QUANTO À INDENIZAÇÃO POR DANOS MORAIS. REQUER SUBSIDIARIAMENTE QUE O VALOR DA INDENIZAÇÃO SEJA FIXADO DE MANEIRA RACIONAL, EM CONFORMIDADE COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+(4). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA, EM SUMA, A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(5). MÉRITO RECURSAL.
+DA ANÁLISE DOS AUTOS, VERIFICO QUE A INSURGÊNCIA RECURSAL SE LIMITA À CONDENAÇÃO EM DANOS MORAIS, MOTIVO PELO QUAL OS DEMAIS PONTOS DA SENTENÇA NÃO SERÃO OBJETO DE REANÁLISE. NO MÉRITO, NÃO ASSISTE RAZÃO À PARTE RECORRENTE. ISSO PORQUE, CONSOANTE SE EXTRAI DOS AUTOS, A PARTE REQUERIDA NÃO LOGROU ÊXITO EM DEMONSTRAR A REGULARIDADE DA ASSOCIAÇÃO DA PARTE AUTORA À ENTIDADE “AAPEN”, TAMPOUCO ACOSTOU AOS AUTOS QUALQUER DOCUMENTO QUE PUDESSE EVIDENCIAR A ANUÊNCIA LIVRE E INEQUÍVOCA DA DEMANDANTE À FORMALIZAÇÃO DE VÍNCULO ASSOCIATIVO. A FORMALIZAÇÃO DE FILIAÇÃO À ASSOCIAÇÃO NÃO AUTORIZADA PELA PARTE REQUERENTE, COM OS CONSEQUENTES E SUCESSIVOS DESCONTOS LANÇADOS SOBRE SEUS PROVENTOS PREVIDENCIÁRIOS, REVELA, POR SI SÓ, SITUAÇÃO APTA A ENSEJAR ABALO MORAL, NA MEDIDA EM QUE LHE ACARRETA ANGÚSTIA, INSEGURANÇA E TRANSTORNOS QUE EXCEDEM OS MEROS ABORRECIMENTOS COTIDIANOS. DIANTE DE TODO O EXPOSTO, MANTENHO A CONDENAÇÃO DA PARTE RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS, CONFORME FIXADO NA SENTENÇA, POR SE MOSTRAR ADEQUADA E SUFICIENTE PARA REPARAR O ABALO EXPERIMENTADO, BEM COMO PARA ATENDER AOS VETORES DE PROPORCIONALIDADE, RAZOABILIDADE E AO CARÁTER PEDAGÓGICO DA MEDIDA. NESTA ESTEIRA, ENTENDO QUE A SENTENÇA IMPUGNADA DEVE SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ENUNCIADO NÚMERO 11 DAS TURMAS RECURSAIS.
+(6).
+DIANTE DO EXPOSTO,
+CONHEÇO
+DO RECURSO INOMINADO E, NO MÉRITO
+NEGO-LHE PROVIMENTO
+, MANTENDO INCÓLUME A SENTENÇA PROFERIDA PELO JUÍZO
+A QUO
+. CONDENO O RECORRENTE EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE 20% SOBRE O VALOR DA CONDENAÇÃO, NA FORMA DO ART. 85, §2º DO CÓDIGO DE PROCESSO CIVIL E ART. 55 DA LEI Nº. 9.099/95.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
