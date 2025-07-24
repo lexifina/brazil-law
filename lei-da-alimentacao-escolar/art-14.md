@@ -5,3 +5,4 @@ I - impossibilidade de emissão do documento fiscal correspondente;
 II - inviabilidade de fornecimento regular e constante dos gêneros alimentícios;
 III - condições higiênico-sanitárias inadequadas.
 § 3º A aquisição dos gêneros alimentícios de que trata o caput deste artigo, quando comprados de família rural individual, será feita no nome da mulher, em no mínimo 50% (cinquenta por cento) do valor adquirido.
+§ 4º Aplica-se a priorização a que se refere o caput deste artigo também a grupos formais e informais de jovens agricultores.

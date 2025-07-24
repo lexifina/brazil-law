@@ -17,3 +17,5 @@ VII - apoio ao jovem trabalhador com deficiência, por meio das seguintes açõe
 a) estímulo à formação e à qualificação profissional em ambiente inclusivo;
 b) oferta de condições especiais de jornada de trabalho;
 c) estímulo à inserção no mercado de trabalho por meio da condição de aprendiz.
+VIII - fomento a atividades econômicas no campo vinculadas aos setores da cultura e do turismo;
+IX - promoção de programas que favoreçam a formação e a profissionalização de agentes culturais no campo.
