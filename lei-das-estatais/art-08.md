@@ -8,6 +8,11 @@ VI - divulgação, em nota explicativa às demonstrações financeiras, dos dado
 VII - elaboração e divulgação da política de transações com partes relacionadas, em conformidade com os requisitos de competitividade, conformidade, transparência, equidade e comutatividade, que deverá ser revista, no mínimo, anualmente e aprovada pelo Conselho de Administração;
 VIII - ampla divulgação, ao público em geral, de carta anual de governança corporativa, que consolide em um único documento escrito, em linguagem clara e direta, as informações de que trata o inciso III;
 IX - divulgação anual de relatório integrado ou de sustentabilidade.
+X - divulgação anual da política de igualdade entre homens e mulheres adotada, que deverá conter, entre outras informações relevantes:
+a) a quantidade e a proporção de mulheres empregadas, por níveis hierárquicos;
+b) a quantidade e a proporção de mulheres que ocupam cargos na administração;
+c) o demonstrativo da remuneração fixa, variável e eventual, segregada por sexo, relativa a cargos ou funções similares;
+d) a evolução comparativa dos indicadores previstos nas alíneas 'a', 'b' e 'c' deste inciso entre o exercício findo e o exercício anterior, especialmente na alta gestão.
 § 1º O interesse público da empresa pública e da sociedade de economia mista, respeitadas as razões que motivaram a autorização legislativa, manifesta-se por meio do alinhamento entre seus objetivos e aqueles de políticas públicas, na forma explicitada na carta anual a que se refere o inciso I do caput.
 § 2º Quaisquer obrigações e responsabilidades que a empresa pública e a sociedade de economia mista que explorem atividade econômica assumam em condições distintas às de qualquer outra empresa do setor privado em que atuam deverão:
 I - estar claramente definidas em lei ou regulamento, bem como previstas em contrato, convênio ou ajuste celebrado com o ente público competente para estabelecê-las, observada a ampla publicidade desses instrumentos;
