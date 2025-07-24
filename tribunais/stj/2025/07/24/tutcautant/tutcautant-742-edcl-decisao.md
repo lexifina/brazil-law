@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão da relatoria do Ministro Marco Aurélio Bellizze que indeferiu o pedido de tutela provisória negou a atribuição de efeitos suspensivos ao recurso especial interposto pela embargante. A decisão restou assim fundamentada (e-STJ fls. 265):
+Para o deferimento de tutela provisória, a fim de conceder efeito suspensivo a recurso especial, a parte requerente deve demonstrar a presença dos requisitos do fumus boni iuris, caracterizado pela probabilidade de êxito do recurso, e do periculum in mora, que consiste no risco de dano grave com a eventual demora do provimento jurisdicional almejado.
+Na hipótese, independentemente da análise da plausibilidade do direito alegado (fumus boni iuris), o requerente não comprovou a presença do periculum in mora, pois se limitou a alegar que houve o início do cumprimento provisório de sentença.
+Ocorre que, sem a ocorrência de algum ato concreto que possa, de fato, causar risco de dano grave e irreversível para as partes, não há como conceder o efeito suspensivo pleiteado. Ante o exposto, indefiro o pedido de tutela provisória.
+Publique-se.
+Brasília, 18 de novembro de 2024.
+Segundo a parte embargante, o julgado padeceria de omissão quanto a fato processual que comprovaria o periculum in mora, aduzindo ainda novos fatos que comprovariam o perigo de dano: a saber, a determinação de bloqueio de ativos financeiros do embargante pelo juízo singular (e-STJ fls. 269).
+Intimada nos termos do art. 1.023, § 2º, do Código de Processo Civil, a parte embargada requereu a rejeição dos presentes embargos.
+Brevemente relatado, decido.
+Observa-se nos autos a interposição de agravo em recurso especial pela parte embargante (e-STJ fls. 152-161) diante do juízo de inadmissibilidade do recurso especial proferido pelo Tribunal de origem, circunstância que reforça ainda mais a excepcionalidade da atribuição de efeitos suspensivos ao recurso. Nesses casos, esta Corte superior tem decidido que a atribuição de efeito suspensivo a recurso especial inadmitido na origem pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos de viabilidade do próprio recurso especial interposto, além ainda dos predicados típicos de cautelaridade, quais sejam a plausibilidade do direito invocado e o perigo na demora da prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. SITUAÇÃO EXCEPCIONAL NÃO VERIFICADA. MANUTENÇÃO DO INDEFERIMENTO.
+1. A atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora, o que não restou demonstrado nos autos.
+2. Agravo interno não provido.
+(AgInt na TutCautAnt n. 816/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025.)
+Na espécie, a análise do periculum in mora, predicado de cautelaridade que se reputou ausente pela decisão embargada, foi o principal fundamento para não se atribuírem efeitos suspensivos ao recurso, de modo que se mostra insubsistente o argumento aclaratório de omissão nesse aspecto (e-STJ fls. 265):
+Na hipótese, independentemente da análise da plausibilidade do direito alegado (fumus boni iuris), o requerente não comprovou a presença do periculum in mora, pois se limitou a alegar que houve o início do cumprimento provisório de sentença.
+Ocorre que, sem a ocorrência de algum ato concreto que possa, de fato, causar risco de dano grave e irreversível para as partes, não há como conceder o efeito suspensivo pleiteado.
+Além disso, o embargante não demonstrou nenhum dos demais requisitos necessários à concessão de tutela de urgência para atribuição de efeitos suspensivos ao recurso especial, ancorando sua argumentação recursal unicamente no periculum in mora. Não se demonstrou a teratologia do acórdão recorrido ou sua orientação manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, nem os requisitos de admissibilidade do recurso especial, inadmitido pela Corte local, e tampouco a plausibilidade do direito invocado.
+Noutro vértice de análise, mostra-se incabível o conhecimento de fato novo sob a premissa de vício de omissão. Não é possível que uma decisão padeça de omissão sobre fato posterior à formação do juízo decisório, por uma simples razão cronológica.
+Ante a ausência da totalidade dos requisitos necessários à excepcional atribuição de efeito suspensivo ao recurso especial em juízo de cognição sumária, não resta alternativa senão rejeitar os presentes embargos declaratórios.
+Publique-se.
+Intimem-se.
+EMENTA
