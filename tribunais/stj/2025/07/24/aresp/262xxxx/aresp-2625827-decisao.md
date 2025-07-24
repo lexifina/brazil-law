@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra a decisão do Tribunal de origem em que se inadmitiu o recurso especial com base na ausência de prequestionamento (Súmula n. 211 do STJ).
+Nas razões do presente agravo em recurso especial, o recorrente sustenta que a matéria foi devidamente enfrentada pelo Tribunal de origem, sendo desnecessária menção expressa aos dispositivos legais para o reconhecimento do prequestionamento.
+A parte recorrente aborda, ainda, aspectos relacionados ao mérito da causa e reitera questões deduzidas no recurso especial, argumentando que a jurisprudência do STJ admite o deslocamento de causas de aumento sobejantes para a primeira fase da dosimetria da pena, não havendo afronta ao critério trifásico.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Parecer do Ministério Público Federal opinando pelo conhecimento do agravo e pelo provimento do recurso especial, nos termos da seguinte ementa (fls. 410-416):
+AGRAVO EM RECURSO ESPECIAL. ROUBO DUPLAMENTE QUALIFICADO (ART. 157, § 2º, II E § 2º-A, I, DO CP).
+RECURSO ESPECIAL MINISTERIAL FUNDADO NO ART. 105, III, "A", DA CF. PLEITO DE DESLOCAMENTO, PARA VALORAÇÃO NA PRIMEIRA FASE, DE CAUSA DE AUMENTO DE PENA NÃO UTILIZADA NA TERCEIRA FASE DA DOSIMETRIA (CONCURSO DE AGENTES). CABIMENTO. ALTERAÇÃO DA FUNDAMENTAÇÃO REFERENTE ÀS CIRCUNSTÂNCIAS JUDICIAIS, EM RECURSO EXCLUSIVO DA DEFESA, QUE NÃO CONFIGURA REFORMATIO IN PEJUS, SE NÃO AGRAVAR A PENA FINAL DO RÉU. PRECEDENTE DO STJ.
+PARECER PELO CONHECIMENTO DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL E DESLOCAR A CAUSA DE AUMENTO DE PENA REFERENTE AO CONCURSO DE AGENTES DA TERCEIRA PARA A PRIMEIRA ETAPA DOSIMÉTRICA.
+É o relatório.
+A conclusão sobre a inadmissibilidade do recurso deve ser mantida, como se passa a explicar.
+O prequestionamento é um dos requisitos de admissibilidade do recurso especial e consiste na necessidade de a questão alegada no recurso ter sido expressamente apreciada pelo Tribunal de origem.
+Com efeito, a tese relativa à possibilidade de valoração do concurso de pessoas como circunstância judicial negativa não foi objeto da apelação, tampouco do acórdão recorrido. Somente tendo sido suscitada nos embargos de declaração opostos pelo Ministério Público, os quais foram rejeitados pela Corte local por configurarem inovação recursal e por ausência de omissão.
+Ainda que a matéria tenha sido referida nos embargos de declaração, não houve decisão explícita da Corte estadual sobre os dispositivos legais invocados, tampouco alegação de ofensa ao art. 619 do CPP que pudesse viabilizar o reconhecimento de prequestionamento ficto.
+A jurisprudência desta Corte é pacífica ao estabelecer que o prequestionamento pressupõe o efetivo enfrentamento da matéria jurídica impugnada pelo acórdão recorrido, o que não se verifica no presente caso.
+Nesse sentido, confiram-se as seguintes súmulas:
+Súmula n. 282 do STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula n. 356 do STF: O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Súmula n. 211 do STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A propósito, é pacífico o entendimento do Superior Tribunal de Justiça de que "para atender ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado" (REsp n. 1.998.033/PB, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2024, DJe de 14/10/2024).
+Ademais, mesmo quando a questão apresentada no recurso especial - e não analisada no acórdão recorrido - envolver matéria de ordem pública, o prequestionamento é essencial para a apreciação do ponto pelas instâncias superiores. Por outro lado, não basta que a menção à matéria que se pretende controverter tenha sido mencionada em obiter dictum, ou seja, sem que tenha servido efetivamente de fundamento do acórdão (AgRg no AREsp n. 2.487.930/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024; AgRg no AREsp n. 2.613.339/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024).
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intim em-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. CONCURSO DE AGENTES. DESLOCAMENTO DE MAJORANTE PARA A PRIMEIRA FASE DA DOSIMETRIA. INOVAÇÃO RECURSAL. DEBATE DA MATÉRIA PELA INSTÂNCIA DE ORIGEM. AUSÊNCIA. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
