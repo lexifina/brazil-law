@@ -1,0 +1,11 @@
+DECISÃO
+NATHALIA ALVES RIBEIRO opõe embargos de divergência contra o acórdão proferido pela Quinta Turma desta Corte, que conheceu negou provimento ao agravo regimental e manteve, com isso, o não conhecimento do recurso especial.
+Em suas razões, afirma o embargante, com o objetivo de ver processado o recurso, em síntese, que o referido acórdão divergiu do aresto proferido no REsp 1.689.173/SC, no qual foi afastado o dolo eventual em suposto homicídio na condução de veículo automotor.
+Decido.
+Em relação ao dissenso jurisprudencial indicado pelo embargante, em que pesem os argumentos externados, além da incidência da Súmula 315 do STJ (o recurso especial não foi conhecido), não identifico a necessária similitude entre o acórdão recorrido e o acórdão paradigma apresentado.
+Deveras, no acórdão paradigma ficou devidamente delineado que "muito embora as instâncias de origem apontem, em tese, para o dolo eventual, devido ao possível estado de embriaguez da ré, ora recorrente, não vejo suficiência em tal condição para gerar a presunção, diante da inexistência de outros elementos delineados nos autos, de que ela estivesse dirigindo de forma a assumir o risco de provocar acidente sem se importar com eventual resultado fatal de seu comportamento" (fl. 1.498, destaquei).
+No acórdão embargado, contudo, ficou consignado que "o Tribunal estadual manteve a pronúncia da recorrente porque além da embriaguez, foram apontados outros elementos nos autos, a indicar a possibilidade de sua atuação ter sido imbuída com dolo eventual, sobretudo porque "conduziu seu veículo, em horário noturno, na contramão direcional de rodovia federal, cuja pista era duplicada e separada por canteiro central e defensa metálica" (fl. 1.468, grifei).
+Observe-se que o acórdão impugnado se lastreou na existência de outros elementos nos autos para afirmar a impossibilidade de reexame de provas, entre os quais destacou a condução de veículo na contramão. Vale dizer, dirigir o veículo na contramão não foi o único elemento aferido pelo acórdão, mas um dos elementos de prova existentes.
+À vista do exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente estes embargos de divergência.
+Publique-se e intimem-se.
+EMENTA
