@@ -1,0 +1,21 @@
+DECISÃO
+ANTONIO DOS SANTOS FILHO agrava de decisão que não admitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe na Apelação Criminal n. 202300331509.
+No recurso especial, a defesa aponta contrariedade ao art. 386, V e VII, do Código de Processo Penal, ao argumento de que o acórdão condenatório não considerou "a necessidade de comprovação de um vínculo associativo estável e duradouro entre os acusados" (fl. 6.233) para justificar a condenação pelo crime de associação para o tráfico de drogas.
+Assevera que também há fragilidade do conjunto probatório a amparar a condenação do réu pelo delito do art. 33 da Lei n. 11.343/2006.
+Afirma, ainda, que "o Acusado é primário, não tem antecedentes criminais, nunca havia sido ou processado, além de trabalhar como motorista da Coopertalse de 04:00 hrs até às 19:00, logo, deverá ser beneficiado com a redução da sua penal ou a conversão de sua pena privativa de liberdade em restritiva de direitos" (fl. 6.243).
+A Corte estadual inadmitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou não provimento do agravo.
+Decido.
+O agravo em recurso especial tem como objetivo atacar todos os óbices apontados pelo Tribunal a quo ao inadmitir o recurso especial. Em obediência ao princípio da dialeticidade, a impugnação não pode ser genérica.
+Ademais, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (AgRg nos EDcl no AREsp n. 1.785.474/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/5/2021, grifei).
+Na hipótese, a inadmissão do recurso, em juízo prévio de admissibilidade realizado pela Corte local, foi baseada nas Súmulas n. 7 e 83 do STJ.
+Todavia, como bem ressaltado pelo Subprocurador-Geral da República Ronaldo Meira de Vasconcellos Albo (fls. 6.477-6.482), o óbice à admissão do especial não foi impugnado, de modo concreto, pela defesa.
+No agravo interposto, a defesa afirma que o conhecimento do recurso especial "se justifica pela necessidade de reexame de questões de direito, tendo em vista que o acórdão recorrido violou normas infraconstitucionais ao manter a condenação de Antônio sem que houvesse provas suficientes para tanto" (fl. 6.419). A seguir, reitera as alegações veiculadas no recurso especial e postula seu provimento.
+Todavia, o agra vante deixou de evidenciar qual seria a moldura incontroversa, extraída do acórdão recorrido, que deveria receber solução jurídica distinta.
+No ponto, a jurisprudência desta Corte Superior é firme ao asseverar que "a mera afirmação de que se busca a revaloração e não o reexame fático-probatório é insuficiente para afastar o óbice da Súmula n. 7 do STJ. Necessidade de demonstração clara, fundamentada e específica de que a análise pretendida não atrai o revolvimento do acervo de provas" (AgRg no AREsp n. 2.552.450/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/6/2025, DJEN de 9/6/2025).
+Ademais, embora cite julgados deste Tribunal Superior, não demonstra de que modo o acórdão proferido pela Corte local destoa dos entendimentos ali fixados.
+Por fim, noto que o agravo não guarda relação, em parte, com as razões do recurso especial. Isso porque a defesa afirma haver suscitado dissídio jurisprudencial "quanto à aplicação da causa especial de diminuição de pena" (fl. 6.418), mas a simples leitura de sua petição evidencia que o recurso foi lastreado, unicamente, na alínea "a" do permissivo constitucional.
+Portanto, a parte não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
