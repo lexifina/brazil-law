@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por THIAGO DE MOURA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do Habeas Corpus Criminal n. 5086571-05.2025.8.21.7000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 23/3/2025, posteriormente convertido em prisão preventiva, e foi denunciado como incurso nas sanções do art. 33, c/c o art. 40, IV, da Lei n. 11.343/2006 e do art. 180 do Código Penal - CP.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 55):
+"HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS MAJORADO. RECEPTAÇÃO. APREENSÃO DE EXPRESSIVA QUANTIDADE DE ENTORPECENTES, ARMAS DE FOGO E MUNIÇÕES. GRAVIDADE DA CONDUTA. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS EVIDENCIADOS. FUNDAMENTAÇÃO SUFICIENTE. ILEGALIDADE FLAGRANTE QUE NÃO SE VERIFICA. ORDEM DENEGADA.
+Hipótese em que a decretação da prisão preventiva do paciente foi devidamente fundamentada, em conformidade com o Art. 312 do Código de Processo Penal, tendo em vista a gravidade concreta da conduta, evidenciada pela apreensão de expressiva quantidade de drogas, munições e armas de fogo, uma delas com numeração suprimida e outra objeto de furto. A abordagem policial deu-se no âmbito de operação ostensiva para combate ao roubo e furto de fios, não se constatando, em sede de Habeas Corpus, ilegalidade flagrante na atuação policial. Evidenciados o fumus comissi delicti e o periculum libertatis, é adequada a manutenção da prisão, sendo incabível, neste momento, a substituição da cautela máxima por medidas cautelares diversas.
+ORDEM DENEGADA."
+Nas razões do presente recurso, sustenta a ausência de fundamentação do decreto preventivo, que se limitou a afirmar genericamente o preenchimento dos requisitos previstos no art. 312 do Código de Processo Penal - CPP.
+Alega que a abordagem policial foi realizada sem qualquer suspeita fundamentada, tornando a apreensão de drogas e armas ilícita.
+Afirma que o recorrente é primário, possui residência fixa e ocupação lícita, e defende a suficiência das medidas cautelares diversas previstas no art. 319 do CPP, cuja inaplicabilidade não teria sido devidamente fundamentada.
+Requer, em liminar e no mérito, o provimento do recurso para que seja expedido alvará de soltura.
+Foram apresentadas contrarrazões pelo Ministério Público do Rio Grande do Sula, oportunidade em que foi requerido o conhecimento e improvimento do recurso ordinário constitucional. (fls. 85/89)
+A liminar foi indeferida (fls. 94/95). As informações foram prestadas (fls. 101/117 e 119/121). O Ministério Público opinou pelo não conhecimento da pretensão, ante a perda superveniente do objeto. (fls. 123/124).
+É o relatório.
+Decido.
+A pretensão versava sobre a revogação da prisão preventiva do ora recorrente pela prática dos crimes de tráfico de drogas e receptação.
+Ocorre que, às fls. 119/121 dos autos, o juízo monocrático prestou informações nos seguintes termos: "Em 02/07/2025, foi encerrada a instrução e revogada a prisão preventiva do paciente, conforme processo 5121527-92.2025.8.21.0001/RS, evento 40, TERMOAUD1. Atualmente, aguardam os autos o oferecimento de memoriais escritos pelo Ministério Público".
+Em consulta aos autos da Ação Penal nº 5121527-92.2025.8.21.0001/RS, constata-se realmente que, em audiência realizada em 02/07/2025, às 14h05, os policiais foram ouvidos, o réu utilizou o seu direito constitucional de permanecer em silêncio durante o interrogatório, a instrução foi encerrada e o juízo, acatando o pedido da defesa, revogou a prisão, in verbis:
+"A defesa requereu a liberdade provisória do acusado conforme consta em mídia. Houve parecer do Ministério Público contrário ao pleito defensivo, também gravado em mídia. Pelo juiz foi dito que o acusado encontra-se preso há mais de 90 dias e conforme se verifica na sua certidão de antecedentes criminais, não registra qualquer fato pretérito. Outrossim, os policiais inquiridos não relatam qualquer vínculo do réu com facções criminosas. Ademais, mesmo com a incidência do art. 40 da lei de drogas não se percebe que eventual apenamento aplicado atingirá o regime fechado. Por essas razões, REVOGO a prisão preventiva do acusado, com o compromisso de manter o endereço atualizado. Expeça-se alvará de soltura. No mais, não havendo outros requerimentos, declaro encerrada a instrução e substituo o debate oral por memorais escritos com prazo sucessivo de 15 (quinze) dias. O MP juntará os laudos referentes às drogas junto com os memoriais, com a concordância da defesa, o que é deferido. Atualizem-se os antecedentes. Presentes e intimados". (https://eproc1g.tjrs.jus.br/eproc/controlador.php acao=acessar_documento_publico&doc=11751469258497928636560742979&evento=40400313&key=939908838d663a9d88313083e61e07b89a44f1300b5a201cdeab80f863d8c94d&hash=240e3ba814ab7ddd6f5e1759a39d0243, acesso em 23/07/2025, às 04h02).
+Dessa forma, não mais persistindo a custódia cautelar ora debatida, vislumbra-se a perda de objeto superveniente e a consequente prejudicialidade do presente recurso.
+Neste sentido, cito precedentes desta Corte Superior de Justiça:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA REVOGADA. PERDA DE OBJETO. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que julgou prejudicado o habeas corpus impetrado em favor de paciente, em razão da perda de objeto, após a revogação da prisão preventiva pelo juiz de primeiro grau.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a concessão de liberdade ao paciente, por força de decisão judicial, prejudica a impetração do habeas corpus que questiona a ilegalidade do decreto de prisão preventiva.
+III. Razões de decidir
+3. A revogação da prisão preventiva pelo juiz de primeiro grau e o cumprimento do alvará de soltura implicam na perda de objeto do habeas corpus, uma vez que o pedido formulado era exclusivamente a revogação da prisão preventiva.
+4. O habeas corpus visa a tutela da liberdade de locomoção, e, com a liberdade já concedida, não há mais interesse processual na análise do pedido.
+IV. Dispositivo e tese
+5. Agravo não provido.
+Tese de julgamento: "A revogação da prisão preventiva e o cumprimento do alvará de soltura acarretam a perda de objeto do habeas corpus que visa exclusivamente a revogação da prisão preventiva". (AgRg no HC 929663 / PE, AGRAVO REGIMENTAL NO HABEAS CORPUS, 2024/0260415-4, Relator Ministro MESSOD AZULAY NETO (1184), Órgão Julgador T5 - QUINTA TURMA, Data do Julgamento 22/04/2025, Data da Publicação/Fonte, DJEN 28/04/2025). (grifos nossos).
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PERDA SUPERVENIENTE DO OBJETO. NULIDADE DA SENTENÇA DE PRONÚNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Embargos de declaração opostos por André Luiz Silva Carvalho em habeas corpus, em face de decisão de minha relatoria que julgou prejudicado o habeas corpus. Os embargos foram recebidos como agravo regimental, e a parte recorrente pleiteava a revogação da prisão preventiva e a nulidade da sentença de pronúncia. Verificou-se que o alvará de soltura em favor do recorrente foi cumprido, caracterizando a perda de objeto em relação à prisão preventiva.
+Quanto ao pedido de nulidade da sentença de pronúncia, a questão não foi analisada pelo tribunal de origem, impedindo a apreciação pelo STJ sob pena de supressão de instância.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se houve perda de objeto do recurso após o cumprimento do alvará de soltura; (ii) verificar se o STJ pode examinar o pedido de nulidade da sentença de pronúncia, não analisado pelo tribunal de origem, sem incorrer em supressão de instância.
+III. RAZÕES DE DECIDIR
+3. O cumprimento do alvará de soltura configura perda superveniente do objeto do habeas corpus, pois o pedido de revogação da prisão preventiva se torna irrelevante.
+4. A análise da nulidade da sentença de pronúncia pelo STJ não é possível, visto que a questão não foi examinada pelo tribunal de origem. Proceder à análise diretamente nesta Corte configuraria supressão de instância, em desacordo com o entendimento consolidado.
+5. A jurisprudência desta Corte é firme ao não admitir a análise de matérias não debatidas no tribunal de origem, em respeito ao princípio do duplo grau de jurisdição e à proibição de supressão de instância. IV. DISPOSITIVO
+6. Agravo regimental desprovido. (EDcl no RHC 187900 / ES, EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS 2023/0351143-1, Relatora Ministra DANIELA TEIXEIRA (1188), Órgão Julgador T5 - QUINTA TURMA, Data do Julgamento 27/11/2024, Data da Publicação/Fonte DJEN 02/12/2024). (grifos nossos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. FUNDAMENTOS DA PRISÃO PREVENTIVA. SUPERVENIENTE REVOGAÇÃO DA CUSTÓDIA CAUTELAR. QUESTÃO SUPERADA. PERDA DO OBJETO DO WRIT. AGRAVO PREJUDICADO.
+1. O Supremo Tribunal Federal concedeu a ordem pretendida no HC 206.685/SP, tendo sido expedido alvará de soltura em favor do ora agravante. Dessa forma, não mais persistindo a segregação cautelar ora debatida, vislumbra-se a perda de objeto do presente agravo.
+2. Agravo Regimental prejudicado. (AgRg no HC 677211 / SP, AGRAVO REGIMENTAL NO HABEAS CORPUS 2021/0202951-7, Relator Ministro JOEL ILAN PACIORNIK (1183), Órgão Julgador T5 - QUINTA TURMA Data do Julgamento 05/10/2021 Data da Publicação/Fonte DJe 08/10/2021). (grifos nossos).
+Pelo exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
