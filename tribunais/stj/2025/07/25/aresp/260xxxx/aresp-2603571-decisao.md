@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo i nterposto por GISLAINE MESSIAS DA SILVA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1500709-91.2022.8.26.0453 (fls. 354/361).
+No recurso especial, a parte agravante alegou, em síntese, ofensa aos arts. 157, 156, 386, II e VII, todos do Código de Processo Penal, e ao art. 17 do Código Penal, sustentando a nulidade das provas obtidas por meio de busca pessoal ilícita, a atipicidade da conduta por ausência de prova da materialidade e a ocorrência de crime impossível (fls. 367/388).
+Inadmitido o recurso na origem (fls. 401/403), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 406/412).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 433/434).
+É o relatório.
+O agravo comporta conhecimento, porquanto houve a devida impugnação dos fundamentos da decisão agravada. O recurso, contudo, não merece prosperar.
+No que tange às teses de nulidade da prova obtida mediante revista pessoal e de ocorrência de crime impossível, o acórdão recorrido está em consonância com a jurisprudência consolidada deste Tribunal.
+Sobre a matéria, o Tribunal de origem assim entendeu (fls. 356 e 359 - grifo nosso):
+ ..
+Como se verá adiante, o procedimento de revista foi devidamente realizado em estrito cumprimento do dever legal e de acordo com a legislação pertinente, na medida em que, quando a ré foi submetida ao aparelho de scanner corporal, notou-se um volume anormal em suas vestes, o que incutiu fundada suspeita nas agentes penitenciárias.
+Assim, não há que se falar em ilicitude da prova obtida em decorrência da violação ao princípio da dignidade da pessoa humana.
+ ..
+No tocante à tese de crime impossível, melhor sorte não assiste à Defesa. O simples fato de os visitantes passarem por rigoroso procedimento com o fito de evitar a entrada de itens ilícitos nos presídios não torna o crime impossível, já que os referidos objetos podem não ser detectados.
+Além disso, é de conhecimento geral que o delito de tráfico de drogas se consuma com a prática de qualquer das condutas identificadas no núcleo do tipo, todas de natureza permanente, sendo desnecessária a mercancia da droga em si para a sua caracterização.
+ ..
+Com efeito, o entendimento do Tribunal local alinha-se à orientação desta Corte Superior. A existência de fundada suspeita, como a identificação de volume atípico por meio de scanner corporal, legitima a realização de revista pessoal para fins de segurança do estabelecimento prisional, não havendo falar em ilicitude da prova.
+Ademais, o crime de tráfico de drogas é de ação múltipla e se consuma com a prática de qualquer um dos verbos nucleares descritos no art. 33 da Lei n. 11.343/2006, como trazer consigo ou transportar. Desse modo, o delito já se encontrava consumado antes mesmo da submissão da agravante aos procedimentos de revista, o que afasta a tese de crime impossível.
+Nesse sentido, o seguinte precedente:
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. CRIME IMPOSSÍVEL. IMPOSSIBILIDADE. DELITO UNISSUBSISTENTE. REVISTA ÍNTIMA. LICITUDE DAS PROVAS OBTIDAS. RECURSO PROVIDO.
+1. O crime descrito no art. 33, caput, da Lei n. 11.343/2006 é unissubsistente, de maneira que a realização da conduta esgota a concretização do delito. Inconcebível, por isso mesmo, a sua ocorrência na modalidade tentada.
+2. É desnecessária, para a configuração do delito previsto no art. 33, caput, da Lei n. 11.343/2006, a efetiva tradição ou entrega da substância entorpecente ao seu destinatário final. Basta a prática de uma das dezoito condutas relacionadas a drogas para que haja a consumação do ilícito penal. Precedentes.
+3. Em razão da multiplicidade de verbos nucleares previstos no art. 33, caput, da Lei n. 11.343/2006 (crime de ação múltipla ou de conteúdo variado), inequívoca a conclusão de que o delito ocorreu em sua forma consumada, na modalidade "trazer consigo" ou "transportar". Vale dizer, antes mesmo da abordagem da acusada pelos agentes penitenciários, o delito já havia se consumado com o "trazer consigo" ou "transportar" drogas, sem autorização ou em desacordo com determinação legal ou regulamentar. Inviável, por conseguinte, a aplicação do instituto do crime impossível.
+4. Conquanto seja possível inferir que a revista pessoal tenha por objetivo evitar a entrada de armas, explosivos, drogas, aparelhos celulares e outros similares em estabelecimentos prisionais, sua existência apenas minimiza o ingresso desses itens no presídio.
+5. Embora a acusada tivesse o direito de se recusar a ser revistada intimamente, submeteu-se, de maneira voluntária, ao procedimento adotado no presídio, o qual resultou na localização, no interior de sua vagina, de cocaína e crack acondicionados dentro de um preservativo, os quais seriam entregues a seu companheiro, que estava preso no local. Assim, não houve ato ofensivo à honra da acusada, tampouco dano à sua integridade física ou moral.
+6. As pessoas que se dirigem ao presídio sabem, previamente, que podem ser submetidas à revista pessoal e minuciosa. Trata-se. tal procedimento (quando realizado com estrita observância a procedimento legal e com respeito aos princípios e às garantias constitucionais), de legítimo exercício do poder de polícia do Estado, de cunho preventivo, o qual objetiva garantir a segurança social e os interesses públicos.
+7. Caso haja fundadas suspeitas de o visitante do presídio estar portando material ilícito, é possível a realização de revista íntima, com fins de segurança, o que, por si só, não ofende a dignidade da pessoa humana, notadamente se for feita dentro dos parâmetros legais e constitucionais, sem nenhum procedimento invasivo, tal como ocorreu nos autos. Precedentes.
+8. Recurso especial provido, nos termos do voto do relator.
+(REsp n. 1.578.060/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2019, DJe de 26/3/2019 - grifo nosso).
+Por fim, quanto à alegada violação dos arts. 156 e 386, II e VII, do Código de Proc esso Penal, sob o argumento de que o laudo pericial não seria hábil a comprovar a materialidade do delito, a pretensão recursal não pode ser conhecida.
+As instâncias ordinárias, soberanas na análise do conjunto fático-probatório, concluíram, com base não apenas no laudo, mas em todos os elementos de prova coligidos, que a materialidade do crime de tráfico de drogas restou devidamente comprovada. Alterar essa conclusão, para aferir se o laudo era ou não conclusivo acerca da quantidade de entorpecente, demandaria, inevitavelmente, o reexame de provas, providência vedada em sede de recurso especial, conforme o enunciado da Súmula 7/STJ. A propósito: AgRg no AREsp n. 372.961/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2014, DJe de 25/9/2014.
+Em razão do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. NULIDADE DA PROVA. REVISTA PESSOAL. FUNDADA SUSPEITA. LEGALIDADE. CRIME IMPOSSÍVEL. NÃO CONFIGURAÇÃO. CRIME DE AÇÃO MÚLTIPLA. MATERIALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
