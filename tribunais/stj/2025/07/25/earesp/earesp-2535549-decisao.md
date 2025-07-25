@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por ELIAS OLIVEIRA DA SILVA com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em virtude da divergência com o MS n. 18.804/DF, proferido pela Primeira Seção.
+Requer, desse modo, o provimento dos Embargos de Divergência.
+É o relatório.
+Decido.
+Por meio da análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial em razão da incidência das Súmulas 07/STJ e 283 e 284/STF. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, a teor da Súmula n. 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS E MBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ARTS. 1.043, § 4º, DO CPC/2015 E 266, § 4º, DO RISTJ. DESCUMPRIMENTO. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ACÓRDÃO EMBARGADO. SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A não demonstração do dissídio alegado, nos moldes exigidos pelos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, constitui vício substancial, diante do rigor técnico exigido na interposição dos Embargos de Divergência, sendo descabida a concessão de prazo para complementação de fundamentação. Precedentes.
+2. Consoante a jurisprudência sedimentada deste Tribunal, não se admite a oposição dos embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, em razão do disposto na Súmula 315 do STJ, em consonância, ainda, com a redação do art. 1.043, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.969.968/RJ, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 1.6.2023.)
+Ademais, vê-se que a parte embargante apresenta como paradigma julgado proferido em sede de mandado de segurança.
+Com efeito, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de Embargos de Divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como Habeas Corpus, Recurso Ordinário em Habeas Corpus, Mandado de Segurança, Recurso Ordinário em Mandado de Segurança, Habeas Data e Mandado de Injunção.
+Ressalte-se que mesmo sob a vigência do novo Código de Processo Civil, os arts. 1043, § 1º, do CPC e 266, § 1º, do Regimento Interno do Superior Tribunal de Justiça delimitaram o confronto de teses jurídicas objeto dos Embargos de Divergência àquelas decorrentes do julgamento de recursos e ações de competência originária. Não podem, pois, servir como paradigma, os julgados relativos a ações constitucionais.
+A propósito:
+AGRAVO REGIMENTAL NA PETIÇÃO. EMBARGOS DE DIVERGÊNCIA OPOSTOS CONTRA ACÓRDÃO PROLATADO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. INDEFERIMENTO LIMINAR PELA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PARADIGMAS PROLATADOS EM AÇÕES QUE TÊM NATUREZA JURÍDICA DE GARANTIA CONSTITUCIONAL NÃO SE PRESTAM A DEMOSTRAR SUPOSTO DISSÍDIO. PRECEDENTES. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. A Corte Especial do Superior Tribunal de justiça firmou a compreensão de que "mesmo na égide do novo CPC, o § 1º do art. 1.043 restringe os julgados que podem ser objetos de comparação, em sede de embargos de divergência, a recursos e ações de competência originária, não podendo, portanto, funcionar como paradigma acórdãos proferidos em ações que têm natureza jurídica de garantia constitucional, como os habeas corpus, mandado de segurança, habeas data e mandado de injunção" (AgInt nos EAREsp 474.423/RS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 10/5/2018). No mesmo sentido: AgInt nos EAREsp n. 642.451/SC, relator Ministro Felix Fischer, Corte Especial, DJe 14/9/2020.
+2. É firme a jurisprudência desta Corte Superior no sentido de que acórdãos proferidos no âmbito de habeas corpus não são admitidos como paradigmas para a comprovação de dissídio jurisprudencial, aplicando-se o mesmo raciocínio quanto ao recurso ordinário em habeas corpus. Precedentes da Terceira Seção do STJ: AgRg nos EAREsp n. 1.884.233/SC, relator Ministro Messod Azulay Neto, DJe 13/3/2023; AgRg nos EAREsp n. 2.075.914/SC, relator Ministro Sebastião Reis Júnior, DJe 13/2/2023 e AgRg nos EDcl na Pet n. 14.852/SP, relatora Ministra Laurita Vaz, DJe 25/2/2022.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg na Pet n. 15.433/SP, Rel. Ministro Joel Ilan Paciornik, Terceira Seção, DJe de 26.5.2023)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os Embargos de Divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+ EMENTA
