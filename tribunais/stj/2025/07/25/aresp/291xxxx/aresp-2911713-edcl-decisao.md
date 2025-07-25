@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA COELBA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  A COELBA:  Apontou expressamente a ocorrência de prequestionamento, inclusive com a interposição de embargos declaratórios no Tribunal de origem e invocação do art. 1.025 do CPC;  Demonstrou que não havia reexame de matéria fática, mas sim interpretação jurídica dos fatos incontroversos, afastando a incidência da Súmula 7/STJ;  Enfrentou todos os dispositivos legais violados, com indicação precisa, incluindo: arts. 373, I e 489, §1º, I a V, do CPC; arts. 186, 927 e 944 do CC; art. 10, parágrafo único, do Decreto-Lei nº 3.365/41; art. 21, XII, b e art. 5º, XXIV, da CF; além da Resolução ANEEL nº 414/2010 e Súmulas 415 e 652 do STF; Rechaçou a aplicação da Súmula 518/STJ (que trata de vício de fundamentação em primeiro grau), apontando que as matérias foram devidamente enfrentadas no acórdão recorrido. Logo, há erro material na decisão ao afirmar que não houve impugnação específica, e omissão quanto à análise concreta da petição de agravo, que efetivamente enfrentou todos os fundamentos.  ..  (fls. 784/785)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente in timada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 518/STJ, ausência de prequestionamento, ausência de afronta a dispositivo legal e súmula 7/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26.8.2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24.8.2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
