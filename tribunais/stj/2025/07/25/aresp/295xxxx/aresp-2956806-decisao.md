@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de Agravo interposto por ANA MARIA BARBEIRO BARBOSA DE SOUZA e OUTRO, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de ANA MARIA BARBEIRO BARBOSA DE SOUZA e OUTRO, verifica-se que a petição de Recurso Especial foi protocolada, na origem, sem o comprovante de pagamento das custas, em razão do pedido de gratuidade de justiça realizado à fl. 154.
+O Tribunal a quo determinou, então, a intimação da parte para comprovar o preenchimento dos requisitos para concessão do beneficio ou recolher as custas nos termos do art. 99, §§ 2 e 7 do CPC (fl. 178), porém de maneira equivocada.
+Registre-se que conforme art. 99, § 2º do CPC, a parte deve ser intimada para comprovar a hipossuficiência, e só após, indeferida a gratuidade, se for o caso, deve ser dada a oportunidade de regularização do preparo em observância ao disposto no art. 99, § 7º e art. 101, § 2º, do CPC, ou seja, recolhimento das custas de forma simples.
+No caso, veja que às fls. 179/180, em 18.12/2023, a parte se manifesta e junta alguns documentos, e em seguida, no mesmo dia, apresenta outra petição às fls. 201/206, juntando o comprovante de recolhimento das custas (fls. 202/205).
+Assim, quando a parte opta pelo recolhimento das custas, há a renúncia ao pedido de gratuidade. Nesse contexto, em que as custas não foram recolhidas no ato da interposição do Recurso Especial, bem como a renúncia ao pedido da benesse, imperiosa a observância do art. 1.007, § 4º do CPC, com o recolhimento em dobro.
+Por isso, este Tribunal Superior deu nova oportunidade de regularização do óbice, de modo que a parte complementasse as custas (fl. 250 - art. 1.007, § 2º do CPC), já que devidas em dobro. Porém, como se vê às fls. 254/257, apesar da manifestação, não houve a devida regularização.
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
