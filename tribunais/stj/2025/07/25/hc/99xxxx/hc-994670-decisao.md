@@ -1,0 +1,21 @@
+DECISÃO
+DANILO FELIPE JIMENEZ alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Revisão Criminal n. 0028330-70.2024.8.26.0000.
+Consta dos autos que o paciente foi condenado pela prática do crime do art. 33, caput, da Lei n. 11.343/2006, às penas de 7 anos, 11 meses e 8 dias de reclusão, em regime inicial fechado, e de 793 dias-multa, na unidade mínima legal. O TJSP deu parcial provimento à apelação defensiva para estabelecer a pena em 5 anos de reclusão e 500 dias-multa, mantendo-se no mais a sentença, in clusive quanto ao regime inicial de cumprimento de pena.
+Nesta impetração, requer: a) o reconhecimento da nulidade da ação penal, por violação da cadeia de custódia do entorpecentes; b) subsidiariamente, pede o reconhecimento da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006; e c) a alteração do regime inicial de cumprimento de pena.
+Oferecidas as informações, o Ministério Público Federal opinou pelo não conhecimento ou pela denegação do habeas corpus.
+Decido.
+Este habeas corpus foi impetrado em 07/04/2025, contra acórdão que transitado em julgado.
+Este writ é, portanto, substitutivo de revisão criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" ( AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Ainda, menciono:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO TRIPLAMENTE MAJORADO. AUSÊNCIA DE AJUIZAMENTO DE RECURSO ESPECIAL E/OU DE REVISÃO CRIMINAL NA ORIGEM. IMPOSSIBILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Este habeas corpus foi impetrado em 14/6/2022 e se insurge contra acórdão de apelação proferido em 25/5/2009, portanto mais de 13 anos antes. A decisão transitou em julgado, com a baixa definitiva dos autos em 17/9/2009; e, em consulta processual realizada na página eletrônica do TJSP, não se verifica o ajuizamento de revisão criminal.
+2. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+3. No caso, a defesa, além de não haver interposto recurso especial, deixou de solicitar ao Tribunal de Justiça a revisão de condenação. Assim, não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP), circunstância que obsta o conhecimento do habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 749.695/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 15/8/2024)
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
