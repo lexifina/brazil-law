@@ -1,0 +1,3 @@
+Art. 2º-H. O Poder Executivo federal fomentará, em cooperação com as instituições consignatárias habilitadas e os agentes operadores públicos, ações de educação financeira direcionadas aos trabalhadores elegíveis às operações de crédito consignado de que trata esta Lei, conforme disponibilidade financeira-orçamentária.
+§ 1º Ato do Poder Executivo federal definirá parâmetros e diretrizes das formas de disponibilização das ações de que trata este artigo.
+§ 2º A adesão do trabalhador às ações de educação financeira será facultativa, assegurado seu acesso gratuito, em linguagem acessível e compatível com a legislação de proteção de dados pessoais.

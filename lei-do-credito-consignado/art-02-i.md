@@ -1,0 +1,9 @@
+Art. 2º-I. As instituições consignatárias habilitadas e os agentes operadores públicos deverão adotar mecanismos de verificação biométrica da identidade do trabalhador nas operações de crédito consignado realizadas por meio dos sistemas ou das plataformas digitais conforme ato do Poder Executivo federal.
+§ 1º O consentimento do trabalhador quanto à coleta e ao tratamento de dados biométricos será obrigatório, nos termos da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).
+§ 2º Os atos de contratação de operações de empréstimo consignado efetivados por meio dos sistemas e das plataformas digitais para operacionalização das operações de crédito deverão ser firmados por meio de:
+I - assinaturas eletrônicas qualificadas, baseadas em certificado digital emitido pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil); ou
+II - assinaturas eletrônicas avançadas que assegurem a autoria e a integridade de documentos eletrônicos, nos termos da legislação aplicável e das normas regulamentares vigentes.
+§ 3º As assinaturas eletrônicas avançadas referidas no inciso II do § 2º deste artigo deverão atender, cumulativamente, aos requisitos do inciso II do caput do art. 4º da Lei nº 14.063, de 23 de setembro de 2020, e aos seguintes:
+I - autenticação biométrica que assegure alto nível de segurança, com prova de vida, no ato da assinatura;
+II - geração de evidências técnicas que comprovem a autenticação e a integridade do ato, utilizáveis em procedimentos administrativos ou judiciais.
+§ 4º Para fins do disposto neste artigo, consideram-se adequadas às exigências desta Lei as assinaturas eletrônicas avançadas já homologadas pelo Poder Executivo federal ou pelo Poder Judiciário na data de entrada em vigor deste artigo, bem como as assinaturas digitais, nos termos de regulamentação do Poder Executivo, que poderá atualizar os parâmetros de segurança aplicáveis.
