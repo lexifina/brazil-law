@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por FORTUNATO MARIO GUERRA, GIOVANNI GUERRA e MARIA RITA GUERRA DE MEDEIROS com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão proferido pela Quarta Turma, requerendo o provimento dos presentes Embargos de Divergência a fim de que prevaleça o entendimento firmado nos acórdãos paradigmas.
+É o relatório.
+Decido.
+Os Embargos não reúnem condições de serem processados.
+A interposição de dois recursos pela mesma parte contra o mesmo decisum enseja a aplicação do princípio da unicidade recursal culminando com o conhecimento e julgamento do primeiro recurso e a consequente preclusão consumativa do segundo.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRESENTAÇÃO DE DOIS RECURSOS SIMULTÂNEOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. NÃO CONHECIMENTO DO SEGUNDO RECURSO. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRETENSÃO DE APLICAR A SÚMULA N. 579/STJ. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO ESPECIAL APRESENTADOS PELA MESMA PARTE. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O agravante opôs embargos de declaração e interpôs recurso especial desafiando o acórdão proferido pelo Tribunal de origem no julgamento do recurso em sentido estrito, sendo o primeiro os aclaratórios, e, posteriormente, o recurso especial.
+2. No caso de interposição de 2 (dois) recursos pela mesma parte e contra o mesmo decisum, apenas o primeiro - na espécie, os aclaratórios - poderá ser conhecido, em virtude da preclusão consumativa e do princípio da unirrecorribilidade, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial, ressalvada a interposição de recursos especial e extraordinário.
+3. Na espécie, o recurso especial protocolizado é manifestamente inadmissível, em razão da prévia interposição de outro recurso pela mesma parte, contra o mesmo acórdão.
+4. Não há falar na aplicação do enunciado 579 desta Corte, segundo o qual "não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior", pois, na hipótese, ambos os recursos interpostos contra o acórdão proferido no julgamento do recurso em sentido estrito foram apresentados pela mesma parte.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.174.878/CE, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 24.4.2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRESENTAÇÃO DE DOIS RECURSOS SIMULTÂNEOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRETENSÃO DE APLICAÇÃO DA SÚMULA N. 579/STJ. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO ESPECIAL APRESENTADOS PELA MESMA PARTE. TRÁFICO DE DROGAS. PRETENSÃO DE RECONHECIMENTO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. MATÉRIA ANTERIORMENTE APRECIADA PELA CORTE SUPERIOR EM HABEAS CORPUS CONEXO. REITERAÇÃO COM IDÊNTICOS FUNDAMENTOS E PEDIDO NO RECURSO ESPECIAL. PREJUDICIALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, o agravante apresentou dois recursos desafiando o mesmo decisum, no caso, o acórdão proferido pelo Tribunal de origem no julgamento da apelação (e-STJ fls. 212/227). Primeiramente, os embargos de declaração (e-STJ fls. 229/237) e, em seguida, o recurso especial (e-STJ fls. 249/259).
+2. Como é cediço, no caso de interposição de dois recursos pela mesma parte e contra o mesmo decisum, apenas o primeiro - na hipótese dos autos, os aclaratórios de e-STJ fls. 229/237 - poderá ser conhecido, em face da preclusão consumativa e do princípio da unicidade recursal, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial, ressalvada a interposição de recursos especial e extraordinário. Precedentes.
+3. Ademais, inviável, na hipótese vertente, a aduzida aplicação da Súmula n. 579/STJ, segundo a qual "não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior", haja vista que, na espécie, ambos os recursos interpostos contra o acórdão proferido no julgamento da apelação foram apresentados pela mesma parte, isto é, os aclaratórios que se encontravam pendentes de julgamento no momento da interposição do recurso especial foram opostos pelo próprio réu, e não pela parte contrária.
+4. Outrossim, ainda que superado o óbice da unirrecorribilidade, é cediço na jurisprudência desta Corte Superior que a análise anterior das matérias objeto do recurso especial nos autos de habeas corpus impetrado com idênticos fundamentos e pedidos implica perda de interesse recursal e prejudicialidade da pretensão recursal.
+Precedentes.
+5. Na espécie, o pleito atinente à aplicação da minorante do tráfico privilegiado foi anteriormente apreciado por este Superior Tribunal de Justiça, no julgamento do Habeas Corpus n. 680.005/SP, impetrado pela mesma parte, contra o mesmo acórdão, sob os mesmos fundamentos e com idêntico pedido. Assim, inafastável o reconhecimento da prejudicialidade do recurso especial.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.027.015/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 18.3.2022.)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DOIS RECURSOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNICIDADE RECURSAL. DECISÃO AGRAVADA.
+AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182/STJ.
+1. A interposição de mais de um recurso pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser submetido à análise, em face da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial. (AgInt no REsp n. 1.820.624/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020).
+2. É inviável o conhecimento do agravo regimental que não impugna, especificamente, todos os fundamentos da decisão agravada.
+Agravos não conhecidos.
+(AgInt no RE nos EDcl nos EREsp 1768552/PE, Rel. Ministro Humberto Martins, Corte Especial, Dje de 03.05.2021).
+Da análise dos autos verifica-se que contra uma mesma decisão, a parte apresentou Embargos de Declaração, fls. 510/526 (e-STJ); e, posteriormente, Embargos de Divergência. fls. 537/724 (e-STJ), tendo sido os Embargos de Declaração julgados, consoante fls. 728/730 (e-STJ), e certidão de publicação à fl. 732 (e-STJ).
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, não conheço dos Embargos de Divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+ EMENTA
