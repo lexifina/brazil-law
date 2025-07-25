@@ -1,0 +1,13 @@
+DECISÃO
+JHONATAN WILLYAN LEITE alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Habeas Corpus n. 5011332-64.2022.8.24.0000.
+Consta dos autos que o paciente foi condenado à pena de 18 anos e 8 meses de reclusão, em regime inicial fechado, pela prática do crime de homicídio qualificado (art. 121, §2º, I e IV do Código Penal).
+A defesa aduz, em síntese: a) nulidade da decisão que decretou a quebra de sigilo telefônico por ausência de elementos de convicção que indicassem sua necessidade; b) nulidade do laudo pericial dos aparelhos celulares, requisitados diretamente pela autoridade policial sem autorização judicial; c) nulidade da decisão de autorização da interceptação telefônica e telemática por ausência de fundamentação. Requer a concessão da ordem para decretar a nulidade das provas produzidas e o consequente desentranhamento dos autos.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 327-331).
+Decido.
+Este habeas corpus se insurge contra acórdão em habeas corpus que transitou em julgado em 24/5/2022 (fl. 234)  com o registro que o acórdão da apelação criminal transitou em julgado em 16/3/2022 (fl. 241). A defesa impetrou o HC em 17/4/2023, depois do trânsito em julgado da condenação, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
