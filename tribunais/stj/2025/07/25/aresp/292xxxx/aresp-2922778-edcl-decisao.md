@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por NGN ENGENHARIA E CONSTRUCOES LTDA à decisão de fls. 613/614, que não conheceu do recurso.
+Sustenta a parte embargante:
+Conforme consta dos autos, os embargos de declaração opostos às fls. 567/569 visaram sanar nulidade absoluta decorrente de violação ao § 2º do art. 99 do CPC, tendo em vista a ausência de intimação da parte recorrente para comprovação dos pressupostos da gratuidade de justiça antes de se declarar a deserção do recurso especial (fls. 559/560).
+Portanto, não se tratou de embargos protelatórios ou impertinentes, mas sim de impugnação fundada em matéria de ordem pública, cuja omissão comprometeria a validade da própria marcha processual.
+Nesse sentido, a jurisprudência do próprio STJ admite, em hipóteses excepcionais, a interrupção do prazo recursal mesmo quando os embargos forem posteriormente rejeitados, desde que destinados a sanar vício relevante, como no caso de nulidade processual:
+ ..
+A Embargante opôs dois Embargos de Declaração distintos perante a Presidência da Seção de Direito Privado do E. Tribunal de Justiça do Estado de São Paulo, ambos direcionados a decisões que determinaram o recolhimento das custas processuais em dobro com fundamento no art. 1.007, § 4º, do CPC.
+Nos referidos embargos, a ora Embargante alegou a existência de nulidade processual decorrente da inobservância do procedimento legal previsto no art. 99, §§ 2º e 7º, do CPC, que impõe ao julgador o dever de intimar a parte para comprovação da hipossuficiência antes de indeferir a gratuidade de justiça. Demonstrou, ainda, que:
+ ..
+Apesar da relevância e da fundamentação técnica apresentada, os referidos embargos foram inadmitidos, o que culminou na interposição de Agravo em Recurso Especial  considerado intempestivo pelo E. Superior Tribunal de Justiça, por reputar os embargos manifestamente incabíveis e, portanto, inaptos a interromper o prazo recursal.
+Contudo, como demonstrado, os embargos se destinaram a sanar vício de natureza processual grave, estando em consonância com precedentes do próprio STJ que reconhecem, em tais hipóteses, a interrupção do prazo recursal mesmo quando os embargos não são acolhidos.
+ ..
+Ainda que Vossa Excelência entenda não ser cabível a via dos embargos, requer-se, subsidiariamente, a aplicação do princípio da fungibilidade recursal, para que os presentes embargos sejam recebidos como pedido de reconsideração (fls. 620/623).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O STJ pacificou o entendimento de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal.
+Na espécie, os Embargos de Declaração (fls. 567/569) opostos à decisão que inadmitiu o Recurso Especial não são o recurso adequado, ou seja, não interrompem o prazo para a interposição do Agravo em Recurso Especial, único recurso cabível no caso.
+Confiram-se os seguintes precedentes aplicados, inclusive, a Agravos interpostos já na vigência do novo CPC:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO ORDINÁRIA. BASE DE CÁLCULO DO PIS E DA COFINS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de procedimento comum, objetivando provimento judicial no sentido da declaração judicial de inexistência de relação jurídica tributária tendente a excluir das bases de cálculo do PIS e da COFINS, o ICMS destacado das notas fiscais. Na sentença o pedido foi julgado parcialmente procedente.
+No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise do recurso de REPLASTIL COMERCIO ATACADISTA DE PLASTICOS LTDA, a parte recorrente foi intimada da decisão agravada em 21/07/2022, sendo o agravo somente interposto em 10/11/2022. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+III - Segundo a orientação jurisprudencial desta Corte Superior, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os embargos de declaração opostos em face da decisão que inadmitiu o recurso especial não são o recurso adequado ou cabível à espécie. Os embargos de declaração opostos à decisão de admissibilidade do recurso especial não interrompem o prazo para interposição do agravo previsto no art. 1.042 do CPC/2015, exceto quando o decisum for tão genérico que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, o que não se verifica na espécie (AgInt nos EAREsp n. 1.653.277/RJ, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 26/4/2022, DJe de 3/5/2022). Nesse sentido, o AgInt no AREsp 1526806/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020.
+IV - Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.292.220/PB, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 19/10/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DE ADMISSIBILIDADE. ERRO GROSSEIRO. NÃO INTERRUPÇÃO DO PRAZO.
+1. A intempestividade do agravo foi bem anotada no decisum impugnado, pois, como cediço, o agravo previsto no art. 1.042 do CPC/2015 (art. 544 do CPC/73) é o único recurso possível contra a decisão que não admite recurso especial na origem. Dessa forma, a oposição de embargos de declaração caracteriza erro grosseiro, daí porque não há falar em interrupção do prazo para a interposição do recurso cabível.
+2. A aplicação desse posicionamento tem sido afastada apenas em casos excepcionais, assim caracterizadas as hipóteses de erro material ou as situações em que a fundamentação da decisão atacada é tão genérica que a utilização do agravo fica inviabilizada. Não é o caso dos presentes autos.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.288.692/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 28.9.2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO CONTRA PRIMEIRO JUÍZO DE ADMISSIBILIDADE. DESCABIMENTO. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE RECURSO CABÍVEL. CPC DE 2015. AUSÊNCIA DE ALTERAÇÃO SUBSTANCIAL EM RELAÇÃO AO SISTEMA ANTERIOR. PRECEDENTES DO STJ E DO STF.
+1. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal firmou-se no sentido de que o agravo é o único recurso cabível contra decisão que nega seguimento a recursos de natureza extraordinária, de modo que os embargos de declaração opostos contra decisão de admissibilidade do Tribunal de origem não interrompem o prazo para a interposição do agravo, uma vez que manifestamente incabíveis. Manutenção desse entendimento após a entrada em vigor do Código de Processo Civil de 2015.
+2. Hipótese dos autos em que, ademais, a decisão denegatória de trânsito do recurso especial está suficientemente fundamentada, não se demonstrando genérica a ponto de inviabilizar a impugnação ao seu conteúdo, de forma que inaplicável a ressalva a que alude o acórdão da Corte Especial nos EAREsp. 275.615/SP.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp n. 1.737.166/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22.3.2022.)
+Ademais, o princípio recursal da fungibilidade consiste na possibilidade de admissão de um recurso interposto por outro, que seria o cabível, na hipótese de existir dúvida objetiva sobre a modalidade de recurso adequada, o que não é o caso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Quanto ao pleito de tutela provisória, a admissibilidade da concessão de efeito suspensivo a Recurso Especial está intrinsecamente vinculada à possibilidade do seu êxito. No caso, considerando a rejeição destes Embargos Declaratórios, permanecendo o não conhecimento recurso, julgo prejudicada a concessão do efeito suspensivo.
+Publique-se.
+Intimem-se.
+ EMENTA
