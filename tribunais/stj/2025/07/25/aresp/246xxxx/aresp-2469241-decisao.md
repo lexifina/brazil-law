@@ -1,0 +1,20 @@
+DECISÃO
+RAFAEL ALAGA CASTELUBER RENGER agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 0003283-56.2015.8.26.0244, que manteve a condenação do réu pelo crime de tortura.
+Nas razões do especial, a defesa apontou a violação do art. 387, § 2º, do Código de Processo Penal e da Súmula n. 716 do STF, ao argumento de que o réu faz jus à detração. Afirmou que, descontado o tempo em que esteve preso preventivamente, o modo inicial de cumprimento de pena deve ser o aberto.
+Requereu, ao fim, o abrandamento do regime prisional.
+A Corte local não admitiu o recurso em virtude da Súmula n. 7 do STJ, o que ensejou esta interposição.
+O Ministério Público Federal opinou pelo não conhecimento do agravo ou pelo seu não provimento (fls. 2.499-2.506).
+Decido.
+O agravo é tempestivo e impugna adequadamente os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+O recurso é tempestivo, mas não deve ser conhecido, por não preencher os demais requisitos de admissibilidade, notadamente pela ausência de prequestionamento e pela sua fundamentação insuficiente, conforme evidenciado a seguir.
+Em relação à alegada violação da Súmula n. 716 do STF, incide o óbice da Súmula n. 518 do STJ, a qual dispõe: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+De plano, verifico que a matéria não foi examinada pelo Tribunal de origem sob o viés pretendido no recurso especial, a evidenciar a ausência de prequestionamento. A Corte estadual apreciou o pleito de detração formulado tão somente pelo corréu (em tópico intitulado "Da detração requerida por Humberto", fl. 2.357) e não analisou a situação do ora agravante.
+Aplicam-se, portanto, as Súmulas n. 282 do STF e 211 do STJ, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ainda que assim não fosse, o recurso especial tem fundamentação insuficiente, por não impugnar todas as razões de decidir do acórdão recorrido, o que enseja a aplicação da Súmula n. 283 do STF.
+Deveras, o réu foi condenado a 5 anos, 1 mês e 20 dias de reclusão, em regime inicial semiaberto, pelo crime previsto no art. 1º, II e § 2º, da Lei n. 9.455/1997, em continuidade delitiva. A respeito do modo inicial de cumprimento de pena, a Corte local assim se manifestou: "No tocante ao regime, mantenho o regime inicial de cumprimento da pena o semiaberto, por extremamente desfavoráveis as circunstâncias, bem como o quantum da pena" (fl. 2.356).
+Assim, mesmo se descontado o período de prisão preventiva do réu, o regime inicial continuaria sendo o semiaberto, porque fixado com base na existência de circunstâncias judiciais - e não apenas no quantum de pena aplicado. Esse fundamento, suficiente, por si só, para manter o modo intermediário de cumprimento de pena, não foi impugnado pelo recorrente.
+Aplica-se, portanto, o entendimento deste Tribunal Superior de que, "não tendo sido o único fundamento do acórdão recorrido atacado pela parte recorrente, o qual é apto, por si só, para manter o decisum combatido, aplicam-se na espécie, por analogia, os óbices das Súmulas n. 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo" (AgInt no AREsp n. 2.653.449/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/12/2024, DJe de 5/12/2024, grifei).
+Registro, por fim, que, com a expedição da guia para recolhimento do condenado e remessa do caso ao Juízo da Execução Criminal, haverá a adequação das particularidades do sentenciado, inclusive a detração penal e a progressão de regime, nos termos do art. 66, VI, d a Lei n. 7.210/1984.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
