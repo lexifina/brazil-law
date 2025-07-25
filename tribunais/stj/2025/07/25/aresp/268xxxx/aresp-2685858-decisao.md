@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ROGERIO DONIZETI SIQUEIRA LEITE se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 374):
+APELAÇÃO CÍVEL - Ação acidentária - Sentença de extinção, sem julgamento do mérito - Apelação do autor.
+Demanda anterior ajuizada perante o Juizado Especial Federal relativa às mesmas moléstias - Homologação de acordo naquela seara de concessão de benefício previdenciário - Caráter previdenciário das moléstias incapacitantes que não foi deduzido pela parte na demanda Federal - Coisa julgada - Princípio do deduzido e dedutível.
+Sentença de extinção mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 391/396).
+Nas razões de seu recurso especial, a parte recorrente aponta, além do dissídio jurisprudencial, a violação dos arts. 337, § 2º, e 505, I, do Código de Processo Civil (CPC). Alega que é possível a flexibilização da coisa julgada em demandas previdenciárias, especialmente nos casos de agravamento da moléstia incapacitante, como foi o caso dos autos.
+A parte adversa não apresentou contrarrazões (fl. 447).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O Tribunal de origem concluiu que deve ser mantida a sentença que extinguiu o feito sem exame do mérito, em razão da ocorrência da coisa julgada, adotando a seguinte fundamentação (fls. 375/377):
+Relata o autor em sua inicial que é técnico de enfermagem e, no exercício de suas funções, sempre empregava grandes esforços físicos, sem que fossem observados os cuidados ergonômicos necessários. Em decorrência de tal situação desenvolveu moléstias na coluna lombossacra, tendo se submetido a diversos tratamentos, inclusive cirúrgico, sendo afastado de suas atividades desde 2016, por diversos períodos. Os benefícios concedidos pela autarquia, todavia foram todos previdenciários, não sendo reconhecido, portanto, o caráter laboral da doença. Pugna pela conversão dos benefícios previdenciários em seu homônimo acidentário.
+Consta dos autos relação de benefícios concedido (CNIS) de fls. 68, dos quais referem-se à enfermidades na coluna lombossacra:
+ ..
+Ademais, no relatório médico de perícia administrativa relativo ao último benefício concedido (NB 620.521.500-8), apontado pelo apelante como o benefício que pretende ver convertido em seu homônimo acidentário, relatou o obreiro que os males incapacitantes já teriam se iniciado anos antes, em 2014:
+ ..
+Assim, a alegação de que a pretensão desta demanda é a conversão tão somente do benefício 620.521.500-8 não socorre o autor, porquanto aquele benefício diz respeito às mesmas moléstias que acometem o obreiro desde 2014, quando concedido os benefícios 607.741.060-1 e 613.742.077-2.
+Dito isso, tem-se que o autor ajuizou a demanda nº 0044554-51.2016.4.03.6301 perante o Juizado Especial Federal, requerendo naquele feito o restabelecimento do benefício do benefício nº 613.742.077-2 (fls. 92/94), inicialmente concedido ao autor em razão de dor lombar baixa, M545, conforme perícia administrativa a fls. 85.
+As partes celebraram acordo naqueles autos, ficando prorrogado aquele benefício previdenciário até 01/08/2017, conforme termo copiado a fls. 139 e sentença homologatória a fls. 99.
+Não cabe, portanto, discussão com relação ao caráter das moléstias colunares que atingem o autor, porquanto a argumentação infortunística não foi deduzida naquela ocasião, transacionando as partes para que fosse prorrogado o benefício previdenciário. Ademais, consta dos termos do acordo homologado: "6. A parte autora renuncia a eventuais direitos decorrentes do mesmo fato ou fundamento jurídico que deu origem à presente demanda." (fls. 139).
+Destarte, a apreciação da pretensão deduzida nestes autos está prejudicada pela existência de coisa julgada, uma vez que reconhecido pelas partes em demanda anterior que as moléstias incapacitantes relacionadas tem caráter previdenciário e não acidentário.
+No acórdão que rejeitou os embargos de declaração, foi esclarecido o seguinte (fl. 394):
+Vale lembrar que o fato de agora relacionar as doenças às atividades profissionais não afasta os efeitos da coisa julgada, não havendo qualquer referência, ademais, a suposto agravamento das moléstias em razão das condições de trabalho no lapso temporal compreendido entre aquela e esta demanda.
+Aliás, ao que consta, o segurado permaneceu afastado de suas atividades profissionais por praticamente todo o período desde o ajuizamento da ação anterior em setembro de 2016 (fls. 94), recebendo o auxílio-doença nº 31/613.742.077-2, de 10 de março de 2016 a 1º de agosto de 2017, e o nº 31/620.521.500-8, entre 23 de outubro de 2017 e 11 de setembro de 2021 (fls. 68).
+Dessa forma, não se trata de modificação no estado de fato ou de direito capaz de ensejar a revisão do que já foi decidido, como agora alega o recorrente.
+Como se observa, o Tribunal de origem, após a análise das circunstâncias fáticas da causa, entendeu que a parte agravante repetiu demanda anteriormente ajuizada, requerendo auxílio-acidente sem relacionar a incapacidade ao agravamento da moléstia. As instâncias ordinárias verificaram que a parte limitou-se a defender que faz jus ao auxílio-acidente (já que a incapacidade decorreria de sua atividade profissional), embora tenha sido reconhecido, em ação anterior, o caráter previdenciário da controvérsia, com a concessão do auxílio-doença.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
