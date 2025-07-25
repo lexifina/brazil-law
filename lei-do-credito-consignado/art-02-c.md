@@ -1,1 +1,2 @@
-Art. 2º-C Os órgãos e as entidades federais compartilharão com os agentes operadores públicos de que trata o art. 2º-A e com as instituições consignatárias dados e informações necessários à operacionalização dos sistemas ou das plataformas digitais, observados os sigilos legais e o disposto na Lei nº 13.709, de 14 de agosto de 2018.
+Art. 2º-C. Os órgãos e as entidades federais compartilharão com os agentes operadores públicos a que se refere o art. 2º-A desta Lei e com as instituições consignatárias dados e informações necessários à operacionalização dos sistemas ou das plataformas digitais, observados o sigilo legal e o disposto na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).
+Parágrafo único. (VETADO).

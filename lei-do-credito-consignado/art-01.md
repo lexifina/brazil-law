@@ -9,9 +9,10 @@ II - (revogado).
 I - até 10% (dez por cento) do saldo de sua conta vinculada no Fundo de Garantia do Tempo de Serviço - FGTS;
 II - até 100% (cem por cento) do valor da multa paga pelo empregador, em caso de despedida sem justa causa ou de despedida por culpa recíproca ou força maior, nos termos dos §§ 1º e 2º do art. 18 da Lei nº 8.036, de 11 de maio de 1990.
 § 6º A garantia de que trata o § 5º só poderá ser acionada na ocorrência de despedida sem justa causa, inclusive a indireta, ou de despedida por culpa recíproca ou força maior, não se aplicando, em relação à referida garantia, o disposto no § 2º do art. 2º da Lei nº 8.036, de 11 de maio de 1990.
+§ 7º (Revogado).
 § 8º Cabe ao agente operador do FGTS definir os procedimentos operacionais necessários à execução do disposto nos §§ 5º e 6º deste artigo, nos termos do inciso II do caput do art. 7º da Lei nº 8.036, de 11 de maio de 1990.
-§ 9º A consignação voluntária mencionada no caput será aplicável a todos os vínculos empregatícios ativos no momento da contratação do crédito que se fizerem necessários ao adimplemento das obrigações assumidas, e será autorizado, em caso de rescisão ou de suspensão do contrato de trabalho, o seu redirecionamento para:
-I - outros vínculos de emprego ativos no momento da contratação do crédito, mas inicialmente não alcançados pela consignação; ou
+§ 9º A consignação voluntária prevista no caput deste artigo será aplicável a todos os vínculos empregatícios ativos no momento da contratação do crédito que se fizerem necessários ao adimplemento das obrigações assumidas, e, em caso de rescisão ou de suspensão do contrato de trabalho, o seu redirecionamento será automático, independentemente de consentimento adicional do devedor, para:
+I - outros vínculos de emprego ativos no momento da contratação do crédito, mas inicialmente não alcançados pela consignação; e
 II - vínculos empregatícios que surjam posteriormente à contratação da operação de crédito.
-§ 10. Para fins do disposto no caput, ato do Poder Executivo federal disporá sobre as formalidades para a habilitação das instituições consignatárias.
-§ 11. O disposto neste artigo se aplica aos empregados de que tratam a Lei nº 5.889, de 8 de junho de 1973, e a Lei Complementar nº 150, de 1º de junho de 2015, e aos diretores não empregados com direito ao FGTS.
+§ 10. Para fins do disposto no caput deste artigo, ato do Poder Executivo federal disporá sobre as formalidades para a habilitação das instituições consignatárias.
+§ 11. O disposto neste artigo aplica-se aos empregados de que tratam a Lei nº 5.889, de 8 de junho de 1973 (Lei do Trabalho Rural), e a Lei Complementar nº 150, de 1º de junho de 2015, e aos diretores não empregados com direito ao FGTS.
