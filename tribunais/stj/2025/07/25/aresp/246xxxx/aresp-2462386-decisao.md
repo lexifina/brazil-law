@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual ALCYR ALVES se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 243):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - Ex- funcionário da CEAESP - Pretensão de condenação da Fazenda do Estado ao pagamento da complementação de pensão integral - Impossibilidade - Complementação de aposentadoria/pensão paga pela Fazenda Estadual nos termos da Lei nº 4.819/1958 - Emenda Constitucional nº 103/2019 que vedou a concessão de complementação de aposentadorias ou pensões - Precedentes deste Tribunal - No mais, ocorrência da prescrição que restou verificada nos autos, uma vez que o impetrante aposentou-se em 2009 - Sentença de improcedência mantida - Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 257/263).
+Nas razões de seu recurso especial, a parte recorrente alega que houve violação aos arts. 489, II e III, e 1.022 do Código de Processo Civil (CPC), sustentando que o Tribunal de origem incorreu em negativa de prestação jurisdicional, porquanto não foram sanados os vícios apontados nos embargos de declaração.
+Aponta, ainda, que
+ ..  os v. acórdãos recorridos divergiram de julgado relativamente à questão prescricional suscitada no apelo, merecendo por mais essa razão ser reformadas as decisões regionais, para afastamento da prescrição indevidamente lá reconhecida e concessão da segurança perseguida (fl. 291).
+Requer que seja dado provimento ao recurso.
+A parte adversa apresentou contrarrazões (fls. 323/338).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fls. 255/256):
+Com efeito, se o direito do autor a "complementação da aposentadoria a ser paga pela Fazenda do Estado se originou do ato de concessão da aposentadoria pelo INSS, que ocorreu em 14.09.2009", conforme constou do v. acórdão, os efeitos da Emenda Constitucional n. 103/2019 não poderia lhe alcançar, ante a garantia constitucional ao direito prevista no artigo 5º, XXXVI, da Constituição Federal de 1988.
+Aliás, o artigo 7º da Emenda Constitucional n. 103/2019 assegura o direito adquirido às complementações cujo fato gerador tenha ocorrido até a entrada em vigor da emenda, conforme reconhecido pela própria Fazenda do Estado de São Paulo, consoante seu Parecer 45/2020 anexado às fls. 29/53.
+Desta forma, entende o embargante ser contraditório o v. acórdão na parte que reconhece prescrição da pretensão do impetrante por direito que teria nascido em 2009, ao mesmo tempo que afasta esse mesmo direito diante Emenda Constitucional 103/19, muito posterior a origem do direito.
+Assim, requer o embargante a expressa manifestação do E. Tribunal a respeito dessas questão, inclusive frente a garantia constitucional ao direito adquirido, o que possibilitaria inclusive a modificação da r. decisão embargada para que seja afastada a aplicação ao caso presente da EC o § 15º do artigo 37 da CF, com redação dada pela EC nº 103, de 12 de novembro de 2019.
+Também entende o ora embargante que essa C. Câmara Julgadora não apreciou todos os pedidos e argumentos suscitados na apelação, notadamente aquele formulado no item "11", relativo a aplicação ao caso presente do princípio da isonomia e da igualdade, consagrado no artigo 5º, e seu inciso I, da CF.
+Com efeito, arguiu o impetrante que o entendimento de que a EC n. 103/19 seria obstativa ao seu direto à complementação de sua aposentadoria ora pretendida, como consignando na r. sentença, fere princípio norteador da CF, que é o da isonomia ou igualdade (art. 5º, I, CF), pois Fazenda do Estado estaria agindo desigualmente entre os próprios empregados celetista admitidos ante da Lei Estadual 200/74 e que foram contratados sob o mesmo regramento, beneficiando somente aqueles que rescindiram seu contrato antes da entrada em vigor de referida emenda, inclusive descumprindo as normas de empresas e as leis estaduais aplicáveis, em detrimento daqueles que permaneceram trabalhando por mais tempo, como o impetrante, o que não merece prevalecer e também é situação que enseja a reforma da sentença e concessão da segurança perseguida, como pretendido no apelo.
+Esse pedido do apelo não restou apreciado no v. acórdão, requerendo o embargante que o Egrégio Tribunal expressamente se manifeste a esse respeito sobre ele, o qual, acolhido, possibilitaria inclusive a modificação da decisão para que seja provido o recurso, nos termos nele pleiteados.
+Também suscitou o impetrante no recurso, mais precisamente no item "9", que a Emenda Constitucional n. 103/2019 versa sobre previdência relativa à área de competência da União, não atingindo às aposentadorias dos servidores dos Estados, do Distrito Federal e dos Municípios, não se aplicando à Fazenda do Estado de São Paulo, arguição essa que não restou expressamente enfrentanda no v. acórdão, importando em omissão do julgado que merece ser sanada por ocasião do julgamento dos embargos de declaração, o que se pleiteia.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu o seguinte (fls. 260/263):
+Ao contrário do que alega o embargante, não há contradição no v. acórdão, visto que restou devidamente acentuado que:
+ ..
+Por outro lado, não há que se falar em contradição ao considerar que o direito à complementação da aposentadoria teria se originado no momento em que o embargante se aposentou (14.09.2009). Apenas se analisa a questão por outro ângulo, defendido pelo ora embargante em suas razões. E, também neste caso, conclui-se pelo desprovimento do pedido, conforme segue:
+ ..
+Em verdade, os presentes aclaratórios correspondem ao mero inconformismo da parte embargante, não podendo ser acolhidos para este fim:
+ ..
+Ante a ausência de obscuridade, contradição ou omissão no julgado, devem ser rejeitados os presentes embargos declaratórios.
+Dessa forma, a Corte local expressamente se manifestou a respeito da alegada contradição suscitada no recurso integrativo, afastando-a, na hipótese. Isso porque somente teria considerado que o direito à complementação da aposentadoria se originara no momento da aposentadoria como forma de analisar a questão pelo ângulo então defendido pelo recorrente - e, mesmo nesse cenário, o pedido não comportaria provimento.
+Nada obstante, constato que, apesar de provocado por meio dos embargos de declaração às fls. 254/256, o Tribunal de origem manteve-se silente sobre as seguintes alegações:
+(1) aplicação do princípio da isonomia, pois haveria tratamento desigual para aqueles que rescindiram seus contratos antes da entrada em vigor da Emenda Constitucional 103/2019; e
+(2) a Emenda Constitucional 103/2019 versaria sobre a previdência da União, não se aplicando à Fazenda do Estado de São Paulo.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Ante o exposto, conheço agravo para conhecer do recurso especial e a ele dar provimento a fim de reconhecer o vício de omissão e, assim, anular o acórdão recorrido; determino o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
