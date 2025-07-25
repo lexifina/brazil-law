@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual MARCOS CORREIA DA SILVA se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 315):
+AÇÃO RESCISÓRIA - Servidor Público Municipal - Vínculo Estatutário - Sentença que condenou o Município a elevar o adicional de insalubridade de 20% para 40%, incidindo sobre o salário base, quinquênio e sexta-parte; a apostilar a majoração; a recalcular o benefício segundo os mesmos parâmetros e ao pagamento das diferenças devidas - Pretensa rescisão com fundamento nos incisos IV e V do art. 966 do CPC - Julgado que manteve a mesma base de cálculo para cômputo de adicional de insalubridade estabelecida definitivamente em processo anterior - Inexistência de violação à coisa julgada - Sentença que também reconheceu direito ao pagamento do benefício no percentual máximo previsto para empregados contratados pelo regime CLT (40%) - Hipótese que versa sobre o direito de servidor estatutário, regido por Lei Municipal, não se aplicando, por isso, as regras de trabalho dos celetistas - Violação à norma jurídica configurada - Circunstância que qualifica a rescisão do julgado.
+Sentença rescindida para julgar improcedente o pedido de majoração do adicional de insalubridade e de pagamento das respectivas diferenças, reconhecida a ofensa literal ao § 3º do art. 73 da Lei Municipal nº 806/93, nos termos dos incisos V do art. 966 do CPC.
+Ação rescisória julgada procedente.
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 410/412).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem inadmitiu o recurso especial com os seguintes fundamentos:
+(1) "O recurso não merece trânsito pela alínea "a".
+Isto porque o posicionamento alcançado pelos doutos Julgadores, embora contrário às pretensões do recorrente, não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior.
+Anote-se, por oportuno, o entendimento da Corte Superior, verbis:  .. " (fl. 374);
+(2) "No que se refere à Lei Municipal nº 806/93, em que pese sua respeitabilidade, trata-se de norma infralegal, descabendo sua utilização como alicerce da interposição do recurso sob exame, por fugir às hipóteses versadas no art. 105, inc. III, e respectivas alíneas, da Constituição Federal" (fl. 375); e
+(3) "Quanto à letra "c" do permissivo constitucional, deixou o recorrente de atender suficientemente ao requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ.
+Cumpre ressaltar, por oportuno, o entendimento da Corte Superior, verbis:
+ ..
+No mesmo sentido: AgInt nos EDcl no AREsp 1095391/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe de 28.05.2019; AgInt nos EDcl nos EDcl nos EDcl no AREsp 1535106/RJ, Rel. Min. MOURA RIBEIRO, DJe de 23.04.2020" (fls. 375/376).
+Nas razões do agravo em recurso especial, consta o seguinte:
+(1) " ..  a discussão do recurso especial não está sobre a matéria de lei municipal, como equivocadamente interpretou o Douto Presidente, mas em matéria de lei federal (Código de Processo Civil)" (fl. 383);
+(2) " ..  a transcrição de ementas é suficiente para comprovação do dissenso jurisprudencial, tendo em vista que pela leitura das mesmas é possível conhecer a questão d a qual se discute, a respeito do não cabimento da Ação Rescisória, uma vez que foi utilizada pelo recorrido como sucedâneo recursal de matéria não apreciada pela decisão rescidenda, violando o entendimento do Colendo STJ.
+ ..
+Ademais, as ementas colacionadas no Recurso possibilitam o conhecimento da divergência jurisprudencial entre os tribunais, bem como foi informada o sítio eletrônico oficial do respectivo tribunal de onde foram retiradas.
+Além disso, verifica-se que outros tribunais têm sedimentado o entendimento favorável à pretensão do recorrente, demonstrando a intepretação divergente de Lei Federal:
+ ..
+Também está evidenciado o cotejo analítico entre as decisões invocadas como parâmetros e a decisão recorrida, cuja interpretação da Lei Federal é justamente em sentido oposto. " (fls. 383/388);
+(3) " ..  o v. acórdão foi violou Lei Federal, ao não se atentar ao descabimento da ação rescisória pelo, do qual não se refere ao exaurimento da instância, mas sim utilização da presente ação rescisória como recurso, o que não é possível, conforme entendimento pacífico deste Egrégio Superior Tribunal de Justiça e de vários outros tribunais pátrios" (fl. 390);
+(4) "A Municipalidade deseja discutir sobre interpretação de lei e não sobre a violação, não havendo violação manifesta  teratológica  de norma jurídica, de modo que não é cabível a rediscussão da matéria em ação rescisória" (fl. 406); e
+(5) " ..  ao presente recurso não deve ser aplicada a súmula 7, já que aqui apenas se busca dar o correto valor as provas colhidas nos presentes autos, com a consequente concessão da segurança, reconhecendo a o descabimento da Ação Rescisória, e não o mero exame ao conteúdo fático-probatório, o que é, inclusive, medida da mais clara Justiça" (fl. 407).
+Constata-se que a parte agravante não impugnou efetivamente o terceiro fundamento adotado pelo Tribunal de origem para inadmitir o seu recurso especial.
+Isso porque deixou de demonstrar como foram atendidos os requisitos legais e regimentais para demonstração da divergência jurisprudencial suscitada (art. 1.029, § 1º, do Código de Processo Civil e art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça), limitando-se a colacionar as ementas dos julgados tidos por confrontados.
+Alegou, ainda, que "a transcrição de ementas é suficiente para comprovação do dissenso jurisprudencial" (fl. 383), e concluiu que "está evidenciado o cotejo analítico entre as decisões invocadas como parâmetros e a decisão recorrida" (fl. 388).
+O objetivo do agravo em recurso especial é o desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Confiram-se os seguintes julgados deste Tribunal sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
