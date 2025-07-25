@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por FEDOSIA RIJKOFF e OUTROS à decisão de fls. 175/176, que não conheceu do recurso.
+Sustenta a parte embargante:
+Data máxima vênia, mas na certidão para saneamento de óbices de fl. 168, a ordem foi para juntar procuração ou substabelecimento para o subscritor da peça do recurso especial e seu respectivo agravo, e não da cadeia completa de procurações!!
+Quem subscreveu as peças recursais mencionadas, foi apenas o Dr. Fernando Martins Almeida, e não o Dr. Dorival Rossato Junior!!
+Assim, em virtude do art. 6º que estabeleceu o princípio da cooperação entre os sujeitos do processo, a fim de se atingir os princípios da celeridade e economia processuais, ainda, dispondo o art. 321, caput, ambos do CPC, de que a determinação de emenda, deve indicar com "PRECISÃO" o que deve ser feito para a regular tramitação do feito, em virtude da parte ter cumprido a determinação nos exatos termos emanados, requer seja dado regular prosseguimento ao feito, juntando para tanto a cadeia completa de procurações, que não foi solicitada anteriormente, por isso descumprida!! (fls. 177/178).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. FERNANDO MARTINS ALMEIDA.
+Apesar de devidamente intimada para regularizar a representação, a parte não o fez.
+Observe-se que não há a procuração originária da parte ora embargante, conferindo poderes a Dr. DORIVAL ROSSATO JUNIOR, OAB/MT n. 10.933-A, o causídico que substabeleceu à fl. 172.
+Dessa forma, o instrumento de substabelecimento ao Dr. FERNANDO MARTINS ALMEIDA não tem eficácia, pois o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Neste sentido, o AgInt no AREsp n. 2.028.800/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 25.8.2022; AgInt no AREsp n. 1.946.028/MS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 24.3.2022; AgInt no REsp n. 1.945.390/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 16.2.2022.
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30.6.2020; AgInt no REsp 1788526/TO, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; e AgInt no REsp 1830797/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 18.3.2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
