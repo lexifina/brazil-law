@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado contra decisão do Tribunal de Justiça do Estado de São Paulo.
+A defesa do paciente relata que Victor Molinari Taverna da Silva foi condenado pela prática dos crimes de roubo majorado, adulteração de sinal de veículo automotor e receptação, com pena de 13 anos, 4 meses e 13 dias de reclusão, em regime inicial fechado. Alega constrangimento ilegal na dosimetria da pena, especialmente na cumulação de causas de aumento sem fundamentação idônea, e pleiteia a aplicação do parágrafo único do art. 68 do Código Penal para limitar a um só aumento. Além disso, busca a fixação do regime inicial semiaberto, argumentando que a gravidade do delito e o concurso de agentes não são fundamentos idôneos para o regime mais severo (e-STJ, fls. 2-14).
+Consta dos autos que o acórdão recorrido manteve a condenação do paciente, destacando a autoria e materialidade dos crimes, o reconhecimento em juízo, e a aplicação cumulativa das causas de aumento de pena devido ao concurso de agentes e emprego de arma de fogo. O acórdão justificou a escolha das frações de aumento com base na gravidade concreta dos delitos e na necessidade de reprovação e ressocialização do réu (e-STJ, fls. 403-431).
+Decisão monocrática indeferiu o pedido de liminar, considerando que os pedidos confundem-se com o mérito do habeas corpus e que não há evidente constrangimento ilegal que justifique a concessão da liminar. Solicitou informações ao Tribunal de origem e ao Ministério Público Federal (e-STJ, fls. 985-987).
+O Tribunal de Justiça do Estado de São Paulo, em resposta ao pedido de informações, confirmou a condenação do paciente e o não provimento do recurso de apelação. Informou que a defesa ingressou com recurso especial, não admitido, e apresentou agravo nos próprios autos, que está em processamento (e-STJ, fls. 992-993).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus, argumentando que não se admite habeas corpus substitutivo de recurso especial ou ordinário, salvo em casos de manifesta ilegalidade. Destacou que a dosimetria da pena foi devidamente fundamentada e que não há ilegalidade manifesta que justifique a concessão da ordem (e-STJ, fls. 1050-1060), nos termos da ementa a seguir:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL E PROCESSUAL PENAL. ROUBO MAJORADO, ADULTERAÇÃO DE SINAL DE VEÍCULO AUTOMOTOR E RECEPTAÇÃO (ART. 157, §2º, II E §2ºA, I, POR DUAS VEZES, NA FORMA DO ART. 70, E ART. 311, §2º, III, C/C. ART. 180, CAPUT, NA FORMA DOS ARTS. 69 E 70, AMBOS DO CÓDIGO PENAL). CONDENAÇÃO À PENA DE 13 ANOS, 04 MESES E 13 DIAS DE RECLUSÃO, EM REGIME FECHADO, MAIS 34 DIAS-MULTA. DOSIMETRIA. 3ª FASE. CAUSAS DE AUMENTO. EXASPERAÇÃO DE FORMA CUMULADA (1/3  2/3). POSSIBILIDADE DESDE QUE FUNDAMENTADA. MAIOR GRAVIDADE DA CONDUTA REALIZADA EM CONCURSO DE AGENTES E COM EMPREGO DE ARMA DE FOGO. CUMULAÇÃO JUSTIFICADA. FUNDAMENTAÇÃO IDÔNEA. JURISPRUDÊNCIA DO STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA PENA. INVIABILIDADE NO CASO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO, PRATICADO COM EMPREGO DE ARMA DE FOGO E EM CONCURSO DE AGENTES. MAIOR REPROVABILIDADE E PERICULOSIDADE DA CONDUTA E DO RÉU. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025). Assim, o presente writ não deve ser conhecido.
+Com efeito, nos termos da jurisprudência consolidada deste Tribunal, não se conhece do habeas corpus quando impetrado contra acórdão que trata de questão passível de impugnação por recurso próprio, especialmente quando ausente flagrante ilegalidade ou teratologia. Todavia, nada impede que, verificada a existência de constrangimento ilegal, a ordem seja concedida de ofício, com fundamento no art. 654, § 2º, do Código de Processo Penal.
+No presente caso, não assiste razão ao impetrante. No tocante à alegação de ilegalidade na aplicação cumulativa das causas de aumento da pena, o pleito não merece prosperar. A jurisprudência desta colenda Corte é firme no sentido de que o parágrafo único do art. 68 do Código Penal confere ao julgador discricionariedade para, presentes diversas causas de aumento previstas na Parte Especial, aplicar apenas uma ou todas, desde que devidamente motivado, o que se verifica no caso.
+Com efeito, o acórdão recorrido consignou expressamente que a majoração pela coautoria decorreu da efetiva divisão de tarefas entre os agentes, com a atuação de ambos de forma coordenada, enquanto a causa de aumento relativa ao uso de arma de fogo foi aplicada diante da presença de elemento armado, que intimidou diretamente as vítimas e contribuiu para o sucesso da empreitada criminosa. Demonstrada, portanto, a presença de circunstâncias distintas e autônomas, bem como a devida motivação, não há ilegalidade na aplicação cumulativa das majorantes.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. DOSIMETRIA DA PENA. PENA BASE. CAUSAS DE AUMENTO. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor do paciente condenado por roubo majorado, com alegação de inidoneidade na fundamentação para a exasperação da pena-base e pleito de redução das frações de aumento aplicadas.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se a fundamentação utilizada para a exasperação da pena-base é idônea, especialmente quanto à valoração da personalidade e conduta social do agente.
+3. Outra questão em discussão é definir se a fração de aumento aplicada à pena-base é adequada, considerando a valoração negativa das circunstâncias judiciais.
+III. Razões de decidir
+4. A fundamentação para a exasperação da pena-base está em consonância com o entendimento jurisprudencial, que admite a consideração de fatores como a personalidade e conduta social do réu, desde que fundamentadas em elementos concretos dos autos.
+5. A valoração negativa das circunstâncias judiciais baseou-se em elementos como a reincidência do paciente e o fato de o crime ter sido praticado durante o cumprimento de pena anterior.
+6. A jurisprudência permite a aplicação cumulativa das causas de aumento de pena, desde que haja fundamentação concreta, o que foi observado no caso em questão.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A fundamentação para a exasperação da pena-base deve estar baseada em elementos concretos dos autos. 2. É permitida a aplicação cumulativa das causas de aumento de pena, desde que haja fundamentação concreta.".
+Dispositivos relevantes citados: CP, art. 68, parágrafo único; CP, art. 157, § 2º, II e V, e § 2º-A, I. Jurisprudência relevante citada: STJ, AgRg no AREsp 2.398.304/DF, Min. Ribeiro Dantas, Quinta Turma, julgado em 20.02.2024; STJ, AgRg no HC 761.777/SP, Min. Daniela Teixeira, Quinta Turma, julgado em 04.11.2024.
+(AgRg no HC n. 978.793/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. ROUBO MAJORADO E EXTORSÃO. USO DE ARMA DE FOGO. DESNECESSIDADE DE APREENSÃO. CÚMULO DE CAUSAS DE AUMENTO. FUNDAMENTAÇÃO ADEQUADA. INCIDÊNCIA DO §1º, DO ART. 158 DO CP À FORMA QUALIFICADA. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação por roubo majorado com emprego de arma de fogo, privação da liberdade da vítima e concurso de agentes.
+2. A defesa alega violação dos arts. 33 e 157, § 2º-A, I, do Código Penal, sustentando o afastamento da majorante do emprego de arma de fogo, devido à ausência de apreensão e perícia; afastamento do cúmulo das frações majorantes e das causas de aumento do § 1º, do art. 158 do CP.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de apreensão e perícia da arma de fogo impede a aplicação da majorante prevista no art. 157, § 2º-A, I, do Código Penal.
+4. Outras questões em discussão é saber se há ausência de fundamentação concreta para o cúmulo de majorantes e se é aplicável a causa de aumento do §1º, do art. 158 do CP ao delito na sua forma qualificada.
+III. Razões de decidir
+5. A jurisprudência do Superior Tribunal de Justiça dispensa a apreensão e perícia da arma de fogo para a incidência da majorante, quando outros elementos probatórios, como relatos de vítimas e testemunhas, comprovam seu uso.
+6. O número de agentes, quando superior ao mínimo para a configuração do concurso de agentes, além da longa duração da restrição da liberdade da vítima, servem como fundamento apto a manter a incidência cumulativa das causas de aumento referentes à comparsaria, ao emprego de arma de fogo e à restrição da liberdade da vítima.
+7. A teor dos precedentes deste Superior Tribunal, ante a interpretação sistemática do art. 158 do CP, é possível a incidência das causas especiais de aumento de pena do § 1º (concurso de agentes e emprego de arma) tanto na extorsão simples (caput) quanto na qualificada pela restrição da liberdade da vítima (§ 3º).
+IV. Dispositivo e tese
+8. Agravo não provido.
+Teses de julgamento: "1. A apreensão e perícia da arma de fogo não são necessárias para a aplicação da majorante do art. 157, § 2º-A, I, do Código Penal, quando comprovada sua utilização por outros meios de prova. 2. É possível a incidência cumulativa das causas de aumento referentes à comparsaria, ao emprego de arma de fogo e à restrição da liberdade da vítima, desde que justificada. 3. É possível a incidência das causas especiais de aumento de pena do § 1º (concurso de agentes e emprego de arma) tanto na extorsão simples (caput) quanto na qualificada pela restrição da liberdade da vítima (§ 3º)."
+Dispositivos relevantes citados: CP, art. 157, § 2º-A, I; CP, art. 33; CP, art. 59.Jurisprudência relevante citada: STJ, AREsp n. 2.851.782/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 21/5/2025; STJ, AgRg no HC n. 731.544/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe de 2/3/2023; STJ, AgInt no HC n. 439.716/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe de 1/8/2018.
+(AgRg no REsp n. 2.140.011/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)
+Quanto à fixação do regime inicial fechado, também não se constata ilegalidade. Embora o paciente seja tecnicamente primário, o acórdão apontou a gravidade concreta do delito, praticado com emprego de arma de fogo, mediante divisão de tarefas entre os agentes, em plena madrugada, contra vítima mulher, havendo tentativa de fuga, como fundamentos idôneos a justificar a imposição do regime mais gravoso.
+A jurisprudência do egrégio Superior Tribunal de Justiça reconhece que, mesmo diante de réu primário, a imposição do regime fechado é admissível quando demonstradas circunstâncias concretas que recomendem maior rigor na execução da pena.
+Assim, entre inumeráveis julgados, os seguintes de ambas das egrégias Turmas da colenda Terceira Seção:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. DOSIMETRIA. INCIDÊNCIA DA ATENUANTE DA MENORIDADE RELATIVA. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA 231/STJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, alegando constrangimento ilegal pela não aplicação do regime semiaberto para o início do cumprimento da pena, bem como pela falta da aplicação da atenuante da menoridade relativa. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a incidência da atenuante da menoridade relativa pode ser aplicada para reduzir a pena aquém do mínimo legal ou ser compensada com a majorante do concurso de agentes.
+3. A questão também envolve a análise da adequação do regime inicial fechado para o cumprimento da pena, considerando a gravidade concreta do delito e a participação do agravante. III. RAZÕES DE DECIDIR
+4. A decisão agravada acertadamente considerou que a incidência da atenuante da menoridade relativa vai de encontro à Súmula 231/STJ, carecendo de plausibilidade jurídica a sua aplicação na terceira etapa, para compensar com a majorante do concurso de agentes.
+5. O regime inicial fechado foi mantido com base na gravidade concreta do delito, praticado em concurso de agentes, dentre eles um adolescente, mediante o emprego de violência real contra a vítima, justificando a maior reprovabilidade da conduta. IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. Carece de plausibilidade jurídica a aplicação da atenuante da menoridade relativa na terceira etapa da dosimetria para compensar com a majorante do concurso de agentes. 2.
+A gravidade concreta do delito pode justificar a fixação de regime inicial mais rigoroso, mesmo para réu primário."
+Dispositivos relevantes citados: CP, art. 33, §§ 2º e 3º.
+Jurisprudência relevante citada: STJ, AgRg no HC 807.526/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/5/2023;
+STJ, AgRg no AREsp 1.792.589/RJ, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe de 15/12/2021.
+(AgRg no HC n. 978.694/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL EM PETIÇÃO EM RECURSO ESPECIAL. ROUBO MAJORADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que conheceu do agravo para dar provimento ao recurso especial do Ministério Público, estabelecendo regime inicial fechado para cumprimento de pena em caso de roubo majorado, em razão de circunstância judicial desfavorável.
+2. O Tribunal de origem havia fixado o regime inicial semiaberto, considerando a pena inferior a 8 anos e a primariedade do réu, apesar da utilização de arma branca no delito.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a presença de uma única circunstância judicial desfavorável, como o uso de arma branca, justifica a imposição de regime inicial fechado, mesmo quando a pena é inferior a 8 anos e o réu é primário.
+III. Razões de decidir
+4. A jurisprudência desta Corte Superior entende que a presença de uma única circunstância judicial desfavorável é suficiente para justificar a imposição de regime carcerário mais gravoso.
+5. A gravidade concreta do delito, evidenciada pelo uso de arma branca, indica a necessidade de maior rigor no regime inicial de execução da pena.
+6. A fixação do regime inicial deve considerar o disposto no art. 33, §§ 2º e 3º, do Código Penal, e a Súmula 269 do STJ, que permitem a imposição de regime mais severo em casos de circunstâncias judiciais desfavoráveis.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A presença de uma única circunstância judicial desfavorável é suficiente para justificar a imposição de regime inicial fechado. 2. A gravidade concreta do delito, como o uso de arma branca, pode recrudescer o regime prisional, mesmo com pena inferior a 8 anos e réu pri mário".
+Dispositivos relevantes citados: Código Penal, art. 33, §§ 2º e 3º.
+Jurisprudência relevante citada: STJ, AgRg no HC 766.713/SP, Min. Jesuíno Rissato, Sexta Turma, DJe 16/3/2023; STJ, AgRg no HC 799.710/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/3/2023.
+(AgRg na PET no REsp n. 2.149.179/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/3/2025, DJEN de 20/3/2025.)
+Assim, considerando que a impetração se apresenta como sucedâneo recursal e que não se vislumbra, de plano, flagrante ilegalidade a amparar a concessão da ordem de ofício, impõe-se o não conhecimento da impetração.
+Ante o exposto, com fulcro no art. 34, inciso XX, do Regimento Interno do egrégio Superior Tribunal de Justiça , denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
