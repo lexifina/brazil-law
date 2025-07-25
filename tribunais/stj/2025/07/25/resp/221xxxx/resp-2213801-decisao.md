@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se recurso especial interposto por DEBORA BOBCO FERNANDES DE VERGAS, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SC.
+Recurso especial interposto em: 10/12/2024.
+Concluso ao Gabinete em: 20/05/2025.
+Ação: de resolução contratual c/c perdas e danos, ajuizada por AO OESTE CONSTRUTORA E INCORPORADORA SPE LTDA, em desfavor da recorrente, em virtude de inadimplemento de contrato de compra e venda de imóvel firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos, a fim de declarar a resolução do contrato por culpa da adquirente, autorizando a retenção, pela recorrida, do valor recebido a título de arras confirmatórias, qual seja, R$ 45.745,52 (quarenta e cinco mil, setecentos e quarenta e cinco reais e cinquenta e dois centavos).
+Acórdão: deu parcial provimento à apelação interposta pela recorrente, apenas para readequar os honorários sucumbenciais devidos aos procuradores das partes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C PERDAS E DANOS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA RÉ. ALEGADA IMPOSSIBILIDADE DE RETENÇÃO DE ARRAS CONFIRMATÓRIAS. INSUBSISTÊNCIA. RESOLUÇÃO CONTRATUAL INCONTROVERSAMENTE IMPUTÁVEL À DEMANDADA, INADIMPLENTE COM RELAÇÃO AO PREÇO PACTUADO. CIRCUNSTÂNCIA QUE AUTORIZA A RETENÇÃO DAS ARRAS RECEBIDAS PELA VENDEDORA. EXEGESE DO ART. 418 DO CC. PRECEDENTES DESTE TRIBUNAL. PRETENDIDA A ALTERAÇÃO DA BASE DE CÁLCULO DOS HONORÁRIOS SUCUMBENCIAIS. CABIMENTO. PROVEITO ECONÔMICO OBTIDO PELAS PARTES QUE NÃO SE REVELA IRRISÓRIO OU INESTIMÁVEL. PREFERÊNCIA SOBRE VALOR ATRIBUÍDO À CAUSA, NA FORMA DO ART. 85, § 2º, DO CPC. SENTENÇA REFORMADA NO PONTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ fl. 281).
+Embargos de declaração: opostos pela recorrida, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 418 e 419 do CC; e 6º, IV, do CDC, bem como dissídio jurisprudencial. Insurge-se contra a retenção integral das arras confirmatórias na hipótese de resolução contratual por inadimplemento da compradora, pois as mesmas servem como garantia do negócio e início de pagamento. No mais, defende a possibilidade de correção monetária das parcelas pagas para efeitos de restituição dos valores pagos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do argumento invocado pela recorrente em seu recurso especial de que deve haver a correção monetária dos valores pagos a serem restituídos, tampouco acerca da alegada violação do art. 6º, IV, do CDC, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+A recorrente, em relação à retenção das arras confirmatórias, não impugnou o seguinte fundamento utilizado pelo TJ/SC:
+De acordo com o que foi narrado na inicial, a ré tornou-se inadimplente a partir de dezembro de 2022, tendo somente adimplido o valor de R$ 45.745,52 (quarenta e cinco mil setecentos e quarenta e cinco reais e cinquenta e dois centavos), circunstância essa que deu ensejo à pretensão de resolução do contrato celebrado entre as partes, com a retenção da quantia já paga. Ao oferecer sua defesa (Evento 27), a demandada afirmou não se opor ao pleito resolutório, nem tampouco negou seu inadimplemento contratual nos termos informados pela demandante, limitando- se a discorrer sobre a impossibilidade de retenção dos valores já pagos.
+Como se pode observar, é matéria incontroversa que a resolução contratual é imputável ao inadimplemento da ré, e que o valor por ela pago deu-se no montante de R$ 45.745,52 (quarenta e cinco mil setecentos e quarenta e cinco reais e cinquenta e dois centavos). Assim, cinge-se a controvérsia em averiguar se socorre à requerente o direito de reter a quantia despendida pela requerida.
+(..)
+Isso estabelecido, extrai-se do contrato de promessa de compra e venda que o preço total para aquisição do bem foi acordado em RS 449.000,00 (quatrocentos e quarenta e nove mil reais), e que, dessa quantia, o valor de R$ 112.250,00 (cento e doze mil duzentos e cinquenta reais) seria pago a título de arras confirmatórias ("Item IV - Valor total e forma de pagamento", p. 1-2).
+(..)
+Observa-se, então, que o direito de devolução não abrangia os valores pagos a título de arras confirmatórias, mas tão somente a quantia resultante entre a diferença daquilo que foi efetivamente adimplido e das demais penalidades (corretagem, pena convencional e honorários), as quais, diga-se, não estão sendo objeto de cobrança. Sucede que, no caso, a demandada nem sequer chegou a pagar a totalidade das arras confirmatórias (R$ 112.250,00), tendo adimplido unicamente a quantia de R$ 45.745,52 (quarenta e cinco mil setecentos e quarenta e cinco reais e cinquenta e dois centavos).
+Nesse contexto, a previsão de devolução estipulada no instrumento contratual e suscitada pela ré não possui aplicabilidade à controvérsia ora analisada, porquanto limitada à hipótese em que o adimplemento da parte compradora é superior ao valor estipulado a título de arras confirmatórias, o que não ocorreu (e-STJ fls. 277-278) (grifos acrescentados).
+Assim, não impugnado esse fundamento, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor do proveito econômico obtido (e-STJ fl. 280) para 12% (doze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C PERDAS E DANOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de resolução contratual c/c perdas e danos.
+2. A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Recurso especial não conhecido.
