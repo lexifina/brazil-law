@@ -1,0 +1,25 @@
+DECISÃO
+ANDRÉ MORAES DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502412-18.2023.8.26.0099.
+Consta dos autos que o paciente foi condenado, pela prática do crime de furto duplamente qualificado, à pena de 2 anos e 4 meses de reclusão, no regime fechado, além do pagamento de 24 dias-multa, à razão mínima - art. 155, § 4º, II e IV, do Código Penal.
+A defesa pleiteia, por meio deste writ, nova dosimetria da pena-base, pois reputa o quantum imposto como desproporcional e ausente de fundamentação concreta .
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+Este habeas corpus foi impetrado em 2/6/2025 e se insurge contra acórdão de apelação que foi julgada em 14/4/2025. Em consulta realizada no sítio eletrônico do TJSP, a movimentação processual afirma que o trânsito em julgado dessa decisão ocorreu em 5/6/2025 (para a defesa). Não constam a interposição de recurso especial em nome do paciente ou o ajuizamento da revisão criminal na origem.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe 15/3/2024).
+Apesar da ampliação do uso do writ, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações prejudica as funções constitucionais desta Corte, pois as matérias de que são objeto deveriam ser antes examinadas em instâncias diversas.
+É notável o excessivo volume de habeas corpus em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para a uniformidade e previsibilidade ao sistema jurídico.
+Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+No caso em apreço, a defesa, não comprovou a interposição de recurso especial, tampouco o ajuizamento, no Tribunal de Justiça local, de revisão da condenação.
+Assim, não está em curso processo do qual o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a eventualidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP).
+Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..  (AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+A despeito disso, o Superior Tribunal de Justiça entende que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleita a quantidade de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o magistrado, com amparo na discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto.
+Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Ademais, é necessário que, no estrito âmbito do habeas corpus, deve ser evitada a modificação da sanção penal imposta pelas instâncias ordinárias, que estão mais próximas dos fatos e são soberanas na análise das provas contidas nos autos, devendo a revisão da pena fixada ser efetivada somente nos casos de flagrante ilegalidade ou teratologia no seu cálculo, o que não se observa na hipótese em apreço. Nesse sentido: HC 365.271/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 5/10/2016).
+Nessa perspectiva, é a compreensão da Subprocuradora-Geral Sônia Maria de Assunção Macieira nos autos (fls. 123-125).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
