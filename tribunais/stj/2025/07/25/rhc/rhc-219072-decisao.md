@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JOAO FELIPE CARVALHO MORAIS contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Infere-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada (e-STJ, fls. 40-42).
+Nesta Corte, a defesa alega, em suma, ausência de motivação concreta para a prisão cautelar. Destaca que o recorrente ostenta condições pessoais favoráveis, é primário e a quantidade de droga apreendida é ínfima, o que torna desproporcional o encarceramento cautelar.
+Requer seja revogada a prisão preventiva, com ou sem a fixação de medidas cautelares diversas.
+Indeferida a medida liminar (e-STJ, fls. 84-85), o Ministério Público Federal opinou pelo provimento do recurso (e-STJ, fls. 116-124).
+É o relatório.
+Decido.
+Consta do acórdao imougnado, que manteve a prisão preventiva:
+"Como bem exposto pela Magistrada singular, e de acordo com a narrativa da exordial acusatória, o acusado, em tese, praticou o crime de tráfico de drogas na cidade de Cachoeira do Sul, tendo dito, na audiência de custódia, "o flagrado alegou estar desempregado como justificativa para comércio de 15 pedras de crack próximo a uma escola". Essas circunstâncias, por si só, já revelam a periclitância do agir do acusado, principalmente pelo desdém frente ao fato de a sua delinquência estar a atingir adolescentes, ou jovens estudantes.
+ ..
+Vale gizar, acerca do periculum libertatis, resta bem evidenciado no caso em tela, diante das circunstâncias do delito, sobretudo a quantidade de drogas e a proximidade de uma escola no cometimento do ilícito, sendo o tráfico de drogas situação que causa revolta e insegurança aos lesados e à sociedade e demanda atitudes enérgicas por parte do Poder Judiciário, de modo a demonstrar respeito aos anseios e temores sociais. Ademais, o comportamento do paciente, conforme as informações contidas nos autos da investigação policial e bem explicitados em audiência de custódia (evento 24 - TERMOAUD1), indicam a elevada probabilidade de risco para o processo penal de conhecimento, caso a ordem seja concedida, principalmente diante da grande probabilidade de reiteração delitiva.
+Por todo o exposto, entendo por preenchidos os requisitos ensejadores da prisão cautelar, de modo que o estado de liberdade do imputado, neste momento, acarretará sérios danos à ordem pública." (e-STJ, fls. 40-41)
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+Na hipótese, observa-se que o decreto constritivo ressaltou a gravidade concreta da conduta, "a quantidade de drogas e a proximidade de uma escola no cometimento do ilícito", para justificar a necessidade do acautelamento social.
+Entretanto, ao recorrente foi atribuída a posse de 15 porções de crack (3,2g), trata-se de acusado primário e não há, por ora, indícios de que pertença a algum grupo criminoso. Nesse contexto, entendo suficiente, ao caso, a substituição da prisão preventiva por outras medidas cautelares do art. 319 do Código de Processo Penal.
+Sobre o tema, cito os seguintes julgados:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. AUSÊNCIA DE DADOS CONCRETOS A JUSTIFICAR A CONSTRIÇÃO CAUTELAR. DESPROPORCIONALIDADE DA CUSTÓDIA. QUANTIDADE DE DROGA APREENDIDA QUE NÃO SE MOSTRA ELEVADA. RÉU PRIMÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+1. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Viabiliza-se, assim, a medida extrema quando demonstrada sua real indispensabilidade para assegurar a ordem pública ou econômica, a instrução criminal ou a aplicação da lei penal, e, ainda, quando não for cabível a sua substituição por outra medida cautelar (art. 319 do CPP), conforme disciplina expressamente o art. 282, § 6º, do CPP.
+2. No caso, foi apreendida pequena quantidade de entorpecentes - trinta porções de crack pesando 7,88g e seis porções de cocaína pesando 3,95g. Além disso, foi apontada a primariedade do réu, a denotar a desproporcionalidade do encarceramento em detrimento das cautelares diversas.
+3. Agravo regimental do Ministério Público Federal - MPF desprovido.
+(AgRg no HC n. 879.389/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/8/2024, DJe de 27/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRIMARIEDADE DA ACUSADA. POUCA QUANTIDADE DE DROGAS. SUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+2. Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. Na hipótese, a despeito da reprovabilidade social do comportamento atribuído à acusada - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sancionamento penal -, é suficiente e adequada, por ora, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas, notadamente em razão da primariedade da acusada e da diminuta quantidade de drogas apreendida (108,9 g de maconha).
+4. Agravo regimental não provido.
+(AgRg no HC n. 890.802/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Ante o exposto, dou provimento ao recurso para revogar a prisão preventiva imposta ao recorrente, mediante a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal, a critério do Juízo de primeiro grau.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado do Rio Grande do Sul e ao Juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
