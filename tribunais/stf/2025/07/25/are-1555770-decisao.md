@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Estado do Piauí, em face do acórdão do Tribunal de Justiça estadual, assim ementado:
+
+    “MANDADO DE SEGURANÇA. PARCELA AUTÔNOMA DE EQUIVALÊNCIA – PAE. MEMBRO INATIVO DO MINISTÉRIO PUBLICO. SEGURANÇA CONCEDIDA.” (MANDADO DE SEGURANÇA CÍVEL Nº 0007214-84.2011.8.18.0000, Tribunal Pleno do Tribunal de Justiça do Estado do Piauí, Rel. Des. Hilo de Almeida Sousa, j. 08.4.2022)
+
+    Os embargos de declaração opostos foram rejeitados, nos termos da ementa abaixo citada:
+
+    “PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA C/C PEDIDO DE LIMINAR - OMISSÃO/CONTRADIÇÃO NO JULGADO - INEXISTÊNCIA - REDISCUSSÃO DA MATÉRIA - IMPOSSIBILIDADE - EMBARGOS CONHECIDOS E REJEITADOS. 1-Consoante disposto no art. 1.022, I, II e III, do CPC c/c o art. 368 do RITJPI, são cabíveis embargos de declaração quando houver na sentença ou acórdão ambiguidade, obscuridade, contradição ou omissão, o que não se verificou na espécie. 2-Da leitura do acórdão, constata-se que os temas relacionados no recurso foram debatidos em toda a sua extensão, não havendo omissão/contradição no julgado. 3-Destarte, o Embargante não pretende sanar o vício apontado, mas tão-somente rediscutir matéria anteriormente examinada, o que se mostra inviável na via eleita dos aclaratórios. Precedentes; 4-Embargos conhecidos e rejeitados.” (EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA CÍVEL (120) Nº 0007214- 84.2011.8.18.0000, Tribunal Pleno do Tribunal de Justiça do Estado do Piauí, Rel. Des. José Ribamar Oliveira, j. 11.10.2023)
+
+    Na minuta, sustenta-se violação do art. 100 da Constituição da República. Assevera-se que “o acórdão recorrido determinou à autoridade impetrada que proceda ao pagamento das diferenças remuneratórias decorrentes do Recálculo da Parcela Autônoma de Equivalência – PAE, desconsiderando-se, a um só tempo, a necessidade de trânsito em julgado do feito e a sistemática de processamento dos pagamentos da Fazenda Pública por precatório, em inequívoca afronta ao art. 100 da CF/88”.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso comporta provimento.
+
+    A jurisprudência desta Suprema Corte é firme no sentido de que o pagamento dos valores devidos pela Fazenda Pública deve observar o regime de precatórios previsto no artigo 100 da Constituição Federal e, tratando-se de mandado de segurança, deve se restringir à quantia apurada entre a data da impetração e a efetiva implementação da ordem concessiva (Tema 831 da repercussão geral). Nesse sentido:
+
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL. MANDADO DE SEGURANÇA. VALORES DEVIDOS ENTRE A DATA DA IMPETRAÇÃO E A IMPLEMENTAÇÃO DA ORDEM CONCESSIVA. SUBMISSÃO AO REGIME DE PRECATÓRIOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.” (RE 889173 RG, Relator(a): Luiz Fux, Tribunal Pleno, Repercussão Geral - Mérito DJe 17-08-2015)
+
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. RESTITUIÇÃO DO INDÉBITO TRIBUTÁRIO RECONHECIDO EM SEDE DE MANDADO DE SEGURANÇA POR MEIO DE PRECATÓRIO. POSSIBILIDADE, UNICAMENTE EM RELAÇÃO AOS VALORES DEVIDOS A CONTAR DA IMPETRAÇÃO. [...] 2. No Tema 1262 da repercussão geral, o PLENÁRIO do SUPREMO TRIBUNAL FEDERAL fixou a seguinte tese: “Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal”. 3. O ora embargante sustenta que, a partir desse precedente, o SUPREMO passou a admitir a restituição, por precatório, de valores anteriores à impetração do mandado de segurança. 4. No tema 1262, discutiu-se essencialmente a compatibilidade da restituição administrativa com o art. 100 da Constituição, entendendo-se pela inconstitucionalidade de tal modo de adimplemento dos débitos da Fazenda Pública. 5. Em nenhum momento o precedente do Tema 1262 revoga as clássicas orientações das Súmulas 269 e 271 do SUPREMO TRIBUNAL FEDERAL. 6. A restituição por precatório no âmbito de mandado de segurança já foi expressamente admitida por esta CORTE no Tema 831 da repercussão geral, apenas quanto aos valores entre a data da impetração e a efetiva implementação da ordem concessiva. 7. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento.” (RE 1480775 ED, Relator(a): Alexandre de Moraes, Primeira Turma, DJe 12-06-2024)
+
+    Na mesma linha a Súmula nº 271/STF “Concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria”. Nesse sentido:
+
+    “EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITO FUNDAMENTAL. LIBERDADE RELIGIOSA. OBJEÇÃO DE CONSCIÊNCIA. DEVER DO ADMINISTRADOR DE OFERECER OBRIGAÇÃO ALTERNATIVA PARA CUMPRIMENTO DE DEVERES FUNCIONAIS. JULGAMENTO SOB O RITO DA REPERCUSSÃO GERAL. TEMA 1021. RECURSO PROVIDO. ALEGADA OMISSÃO QUANTO AO PLEITO DE RECEBIMENTO DE SALÁRIOS E REFLEXOS DESDE A EXONERAÇÃO ATÉ A EFETIVA REINTEGRAÇÃO. IMPOSSIBILIDADE. MANDADO DE SEGURANÇA. SÚMULAS 271 E 269 DO STF. EMBARGOS ACOLHIDOS, EM PARTE, APENAS PARA PRESTAR ESCLARECIMENTOS. 1. O Plenário do Supremo Tribunal Federal, por maioria de votos, na Sessão Virtual realizada em 26.11.2020, DJe 12.04.2021, de minha relatoria, fixou a seguinte tese: “Nos termos do art. 5º, VIII, da CF, é possível a Administração Pública, inclusive em estágio probatório, estabelecer critérios alternativos para o regular exercício dos deveres funcionais inerentes aos cargos públicos, em face de servidores que invocam escusa de consciência por motivos de crença religiosa, desde que presente a razoabilidade da alteração, não se caracterize o desvirtuamento no exercício de suas funções e não acarrete ônus desproporcional à Administração Pública, que deverá decidir de maneira fundamentada". 2. No que tange ao pagamento de salários e reflexos postulados no apelo extremo, a partir da exoneração da Recorrente até a sua reintegração, ressalte-se que o mandado de segurança não é a via adequada para a percepção de valores retroativos anteriores à impetração, por não ser sucedâneo de ação de cobrança (Súmulas 269 e 271 do STF). 3. O julgador não é obrigado a responder a todos os pontos suscitados no recurso, caso encontre motivos suficientes para fundamentar a decisão. Precedentes. 4. Embargos de declaração acolhidos, em parte, apenas para prestar esclarecimentos quanto ao pedido do recurso extraordinário, referente aos valores retroativos de salários e reflexos desde o ato de exoneração, sem atribuição de efeitos infringentes.” (ARE 1099099 ED, Rel. Min. Edson Fachin, Tribunal Pleno, DJe-s/n 08-02-2023)
+
+    “SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MAGISTRATURA. QUINTOS. RECEBIMENTO. VALORES ANTERIORES. MANDADO DE SEGURANÇA. AGRAVO A QUE SE NEGA PROVIMENTO. I - Impossibilidade de pagamento de quantias referentes ao recebimento de quintos anteriores à impetração de mandado de segurança. II - Agravo regimental a que se nega provimento.” (ARE 1078282 AgR-segundo, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe-200 13-09-2019)
+
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do RISTF, dou provimento ao recurso extraordinário para determinar que o pagamento das diferenças remuneratórias decorrentes do recálculo da Parcela Autônoma de Equivalência – PAE seja submetido ao regime de precatórios, após eventual trânsito um julgado, e se restrinja aos valores vencidos entre a data da impetração e a efetiva implementação da ordem concessiva (também após o trânsito em julgado).
+
+    Publique-se.
+
+    Brasília, 25 de julho de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
