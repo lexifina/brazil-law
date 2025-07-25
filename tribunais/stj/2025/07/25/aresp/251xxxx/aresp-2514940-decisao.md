@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por MANOEL LOPES DOS SANTOS contra decisão proferida pelo Tribunal de Justiça do Estado do Piauí, que não admitiu o recurso especial manejado com apoio no artigo 105, III, "a", da Constituição da República.
+Nas razões recursais, aduz a defesa violação do artigo 386, V e VII do Código de Processo Penal.
+O recorrente pleiteia a absolvição quanto aos crimes de tráfico de drogas e associação para o tráfico, previstos, respectivamente, nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+Aduz que a condenação não se baseou em provas contundentes, mas apenas em elementos indiretos, como interceptações telefônicas e captações ambientais, que não teriam demonstrado de forma clara a efetiva participação do réu nas condutas delituosas. Alega que a suposta droga não foi apreendida em poder do agravante, tampouco foram encontrados com ele instrumentos comumente utilizados na atividade de tráfico, como balança de precisão ou utensílios para preparo e fracionamento de entorpecentes.
+Pontua, ainda, que a quantidade de droga supostamente apreendida é reduzida e incompatível com a alegada estrutura de tráfico imputada ao recorrente. Ressalta que a existência de uma balança mencionada em interceptação telefônica não é elemento probatório suficiente para justificar a condenação, sendo tal referência, por si só, incapaz de demonstrar vínculo direto entre o agravante e a mercancia ilícita.
+No tocante ao crime de associação para o tráfico, alega que não ficou demonstrado o animus associativo necessário à configuração do delito previsto no art. 35 da Lei de Drogas. Defende que a atuação do réu, se existente, teria ocorrido de forma isolada e episódica, sem demonstração de vínculo estável e permanente com outros agentes voltado à prática do tráfico.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido.
+Contrarrazões às fls. 3781-3792 (e-STJ).
+O recurso foi inadmitido (e-STJ, fls. 3801-3805). Daí este agravo (e-STJ, fls. 3832-3839).
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 3889-3892).
+É o relatório.
+Decido.
+A condenação do recorrente pelos delitos de tráfico de drogas e associação para o tráfico foi mantida pela Corte local mediante a seguinte fundamentação (e-STJ, fls. 3651-3666, grifou-se):
+"MÉRITO ABSOLVIÇÃO e DESCLASSIFICAÇÃO
+Os Apelantes vindicam a absolvição dos crimes de tráfico e/ou associação para o tráfico, nos termos do art. 386 do CPP, diante da insuficiência das provas. Os réus MILTON PEREIRA DE SOUSA e ADRIANO PEREIRA DA SILVA pugnam ainda pela desclassificação do crime para o art. 28 da Lei de Drogas.
+O exame dos autos, ao contrário do alegado, comprova tanto a materialidade quanto a autoria dos delitos de tráfico de drogas e associação para o tráfico. Senão vejamos:
+A materialidade está evidenciada nos registros de ocorrência, relatórios de missão policial, auto de apreensão, laudo de constatação preliminar, fotografias, interceptações telefônicas e laudo definitivo, dando conta que foram apreendidos 1,30g (um grama e trinta centigramas) de substância sólida, cor amarela, acondicionada em 5 (cinco) invólucros em papel alumínio, atestando positivo para cocaína. Por sua vez, a autoria restou demonstrada nos depoimentos das testemunhas, prestados na fase inquisitorial e judicial.
+ ..
+Restou comprovado nos autos que o apelante MANOEL possuía residência na zona rural de Currais/PI e na maioria das vezes o trajeto da droga vinda de São Paulo era diretamente levada ao acusado, por Vando Lúcio ou Vilma, e a partir daí distribuída entre os traficantes locais.
+ ..
+In casu, verifico a nítida ocorrência de tráfico de entorpecentes pela análise das circunstâncias em que se deu a prisão em flagrante dos acusados. A análise dos depoimentos dos policiais colhidos em sede judicial, associados à apreensão da droga e às interceptações telefônicas, comprovam o crime de tráfico de drogas.
+Assim, ponderando a forma como se desenvolveu a ação policial, com a apreensão da droga fracionada no ponto da mercancia, entendo que não há que se cogitar em desclassificação para porte de entorpecentes para uso próprio. A condição de usuário não autoriza, por si só, a desclassificação para o delito menos grave, muito menos quando, observando os parâmetros contidos no §2º do art. 28 da Lei nº 11.343/2006, deduz-se que a droga seria destinada à comercialização.
+Portanto, após tais considerações, está cabalmente demonstrado que os elementos probatórios dos autos apontam a autoria e materialidade do delito de tráfico, sendo correto manter a condenação dos apelantes pela prática do crime previsto no art. 33 da Lei nº 11.343/2006.
+ ..
+In casu, o conjunto probatório carreado nos autos, mais precisamente os elementos trazidos na denúncia, bem como as diversas interceptações telefônicas, registros de ocorrência policial, autos de apreensão e fotografias do material apreendido, laudo de constatação preliminar, laudo definitivo e os depoimentos das testemunhas relacionadas, comprovam que os acusados constituíram sociedade estável e duradoura com o intuito de comercializar entorpecentes, não havendo que se cogitar, portanto, em absolvição, devendo ser mantida a condenação bem lançada em primeira instância."
+Como se vê, as instâncias ordinárias concluíram que as provas constantes dos autos foram suficientes para comprovação da materialidade e autoria dos crimes imputados ao réu, conforme registros da ocorrência, relatórios da missão policial, Autos de apreensão, Laudos preliminares e definitivos, fotografias e diversas interceptações telefônicas autorizadas judicialmente, além da apreensão de cinco porções de cocaína.
+A autoria delitiva também foi confirmada por testemunhos, tanto na fase de investigação quanto no processo judicial, destacando-se que o recorrente possuía residência na zona rural de Currais/PI e na maioria das vezes o trajeto da droga vinda de São Paulo era diretamente levada ao acusado, por Vando Lúcio ou Vilma, e a partir daí distribuída entre os traficantes locais.
+Por sua vez, quanto à condenação por associação para o tráfico (art. 35 da Lei de Drogas), o Tribunal de origem entendeu que há provas suficientes de que os acusados mantinham uma relação estável e permanente com o objetivo de vender entorpecentes, afastando a possibilidade de simples cooperação eventual.
+Diante do quadro fático acima delineado, para a alteração do julgado, a fim de absolver o recorrente por insuficiência de provas, ou mesmo verificar se não foram preenchidos os requisitos que caracterizam o delito de associação para o tráfico - quais sejam, o acordo de vontades e a estabilidade e permanência dessa atuação conjunta - seria necessário o revolvimento do suporte fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. INCIDÊNCIA DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ENTENDIMENTO DOMINANTE ACERCA DO TEMA. POSSIBILIDADE. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. A revisão do entendimento firmado pelas instâncias ordinárias, no sentido de absolver o agravante da prática criminosa descrita no art. 33, caput, da Lei n. 11.343/06, demanda, necessariamente, o reexame de provas dos autos, providência vedada pela Súmula n. 7 do STJ.
+4. Do mesmo modo, a instância ordinária, com base no acervo probatório, apontou elementos que evidenciam a estabilidade e a permanência exigidas para a configuração do crime de associação para o tráfico. Assim, a desconstituição do aludido entendimento exigiria a reanálise do conjunto fático-probatório dos autos, inviável em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.116.199/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. OPERAÇÃO ARQUIPÉLAGO. PLEITO ABSOLUTÓRIO. DESCABIMENTO. SÚMULA 7/STJ.
+1. O Tribunal de origem, alicerçado no contexto fático-probatório, expressamente consignou que ficou plenamente comprovado que a ora agravante praticou os crimes de tráfico de drogas e associação para o tráfico, não havendo falar em absolvição ou desclassificação para o crime de favorecimento pessoal.
+2. Desse modo, a pretensão absolutória, tal como veiculada no especial, em contraposição à fundamentação adotada pelo Tribunal de origem, demandaria o reexame da matéria fático-probatória dos autos, procedimento vedado nesta sede, a teor da Súmula 7/STJ, e não apenas a sua valoração.
+3. Agravo regimental improvido."
+(AgRg no AREsp n. 1.850.770/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/5/2022, DJe de 9/5/2022.)
+Ante o exposto, Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
