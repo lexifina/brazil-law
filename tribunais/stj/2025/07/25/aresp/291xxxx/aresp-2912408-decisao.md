@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo, interposto por DISTRITO FEDERAL, da decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação n. 0738109-56.2022.8.07.0016/DF, em acórdão cuja ementa é a seguir transcrita:
+APELAÇÃO. PROCESSO CIVIL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CRÉDITOS DE NATUREZA TRIBUTÁRIA E NÃO TRIBUTÁRIA. REPOSIÇÕES E INDENIZAÇÕES. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES (IPVA). PRESCRIÇÃO E DECADÊNCIA. SENTENÇA MANTIDA.
+1. Nos termos art. 173, I do CTN: "o direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados: I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado". No caso em exame, em consonância com o que preconiza referido artigo, se depreende que a constituição dos créditos tributários ocorreu dentro do prazo de cinco anos que o Distrito Federal dispunha para efetuar o lançamento.
+2. Conforme a disposição do art. 174 do CTN: "a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva". Ajuizada a execução fiscal depois de transcorrido o prazo prescricional, estabelecido no mencionado artigo, deve ser extinto o crédito pela prescrição.
+3. Recurso conhecido e não provido.
+Os embargos de declaração foram rejeitados (fls. 382-395).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega violação do art. 210 do Código Civil e dos arts. 10, 332, § 1º e 487, parágrafo único, do CPC (fl. 247), pois a Corte local não teria se manifestado sobre a ocorrência de interrupção da prescrição, por meio do parcelamento tributário. Deduz os seguintes argumentos (fls. 424-433):
+ ..  de fato há interrupção do prazo prescricional dos créditos considerados prescritos pelo Juízo, em razão do parcelamento administrativo, o que pode ser constatado nos históricos (ID 180618800).
+ ..  o parcelamento é ato próprio do executado, não podendo esse invocar inovação recursal sobre questão que conhece e decorreu de sua vontade  ..  a prescrição é matéria de ordem pública e que, portanto, poderia e, verdadeiramente, deveria ser apreciada de ofício, em qualquer grau de jurisdição  ..
+Por esse motivo, o recurso especial deve ser conhecido e provido para se declarar a ofensa ao art. 210 do Código Civil e dos arts. 332, §1º c/c 487, parágrafo único, c/c art. 10, todos do CPC e, por seu turno, dar provimento ao recurso de apelação, julgando-se improcedentes os embargos à execução fiscal.
+Contrarrazões às fls. 444-453.
+O Tribunal a quo não admitiu o recurso especial, por considerar não haver afrontas aos dispositivos legais; acrescentou que infirmar os fundamentos do acórdão recorrido é providência que encontra óbice na Súmula n. 7 do STJ.
+Agravo em recurso especial às fls. 367-375.
+É o relatório. Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial. Ao decidir sobre a ocorrência da prescrição dos créditos tributários, a Corte a quo, com base no acervo fático-probatório dos autos, adotou os seguintes fundamentos (fls. 334-347):
+ ..  O cerne da questão visa aferir o acerto da r. sentença recorrida quando da declaração de prescrição e decadência de parte dos créditos tributários, impugnados nos autos dos embargos à execução em epígrafe.
+ ..
+Acrescentou que "o primeiro parcelamento ocorreu em 04/01/2019, antes da consumação da prescrição ordinária nas CD As mencionadas. Desta feita, o parcelamento interrompeu a prescrição ordinária e sua contagem foi reiniciada. Observa-se que o parcelamento foi firmado 3 vezes. Em todas essas oportunidades, houve a interrupção e reinício de contagem da prescrição."
+Concluiu, pois, que não houve o transcurso do prazo quinquenal entre a data da constituição definitiva e o ajuizamento da ação.
+Ocorre que tal alegação é tardia, porquanto não deduzida em sede de impugnação.
+Constata-se que a tese foi trazida apenas nas razões recursais dos embargos de declaração (ID 63810522), após a prolação da sentença. Na oportunidade, acostou os documentos aos IDs 63810523 e 63810524, este último, não apresentado anteriormente.
+Como se sabe, o momento apropriado para a produção da prova documental é aquele da propositura da ação ou da resposta à ação proposta pelo adversário, sob pena de preclusão, consoante a dicção do art. 434, caput, do CPC, segundo o qual:
+"Art. 434. Incumbe à parte instruir a petição inicial ou a contestação com os documentos destinados a provar suas alegações."
+Conquanto seja possível a excepcional produção de provas em outras fases processuais, se trata de hipótese restrita aos denominados "documentos novos", assim entendidos como aqueles destinados a fazer prova de fatos supervenientes, ocorridos após a apresentação da exordial ou da defesa, e aos documentos que só se tornaram conhecidos, acessíveis ou disponíveis após a fase postulatória do procedimento, o que não é o caso dos autos.
+Consabido que é defeso ao Tribunal conhecer de teses não apresentadas ao Juízo de Primeiro Grau. A colação de argumentos invocados tão somente em apelação, com vistas a propulsionar a transmutação do provimento jurisdicional proferido na origem, viola o princípio do duplo grau de jurisdição, em verdadeira supressão de instância.
+ ..
+Portanto, por se tratar de matéria nova que não foi objeto de discussão na instância inferior, deixo de analisar as razões recursais do embargado apelante, no particular.
+Ultrapassado o ponto, se extrai dos autos que o Distrito Federal moveu execução fiscal em desfavor do Espólio de Josemar Ferreira da Silva (Proc. 0728982-94.2022.8.07.0016 - 1ª Vara de Execução Fiscal do DF, distribuído em 27/05/2022), visando o recebimento de R$ 8.156,01, referentes a crédito tributário (IPVA), assim como crédito de natureza não tributária (reposições e indenizações) e multas moratórias, materializados na Certidão de nº 8567824 (ID 63809698 - p ág. 4).
+No caso em exame, em consonância com o que preconiza o art. 173 do Código Tributário Nacional (CTN), se depreende que a constituição dos créditos tributários ocorreu dentro do prazo de cinco anos que o Distrito Federal dispunha para efetuar o lançamento.
+Como se nota, Josemar Ferreira da Silva consta como proprietário desde 15/05/2012 (ID 63809692), ao passo que os mencionados créditos foram constituídos em 07/03/2015, 20/02/2017, 13/03/2016 e 19/02/2018 (este referente ao fato gerador de 2017).
+Outrossim, o prazo prescricional para a Fazenda Pública cobrar judicialmente seus créditos é de cinco anos, conforme o art. 174 do Código Tributário Nacional (CTN).
+No que atine à ausência de prescrição ordinária das CD As nº. 0175423806, nº. 0189416955 e nº. 0189935200, convém pontuar que:
+CDA nº 0175423806: O crédito foi constituído em 07/03/2015 , mas a execução fiscal foi ajuizada apenas em 27/05/2022, resultando no decurso de mais de sete anos.
+CDA nº 0189416955: O crédito foi constituído em 20/02/2017, e a execução foi ajuizada em 27/05/2022, o que ultrapassou o prazo de cinco anos.
+CDA nº 0189935200: O crédito foi constituído em 13/03/2016, e, novamente, a execução só foi ajuizada em 27/05/2022, resultando na prescrição.
+Em todos esses casos, se verifica que o intervalo entre a constituição dos créditos e o ajuizamento da execução ultrapassou o prazo de cinco anos, configurando a prescrição, extinguindo o direito de cobrança desses créditos.
+De outro lado, a tese da interrupção da prescrição em razão do parcelamento, como dito alhures, foi aventada apenas na fase recursal, configurando inovação recursal, o que é vedado.
+Nesse cenário, não há como afastar o reconhecimento da prescrição das Certidões de Dívida Ativa (CDAs) nº 0175423806, nº 0189416955 e nº 0189935200, não merecendo reparo a sentença, no aspecto.
+Como se observa, o Tribunal de origem não analisou a tese de interrupção do prazo prescricional, em razão do parcelamento administrativo, por considerar que que a matéria não foi objeto de discussão na instância inferior e "viola o princípio do duplo grau de jurisdição, em verdadeira supressão de instância".
+A ausência de apreciação dessa tese resulta na falta de prequestionamento necessário, conforme a Súmula n. 211 do STJ, que estabelece a inadmissibilidade do recurso especial quando a questão não é apreciada pelo Tribunal a quo, mesmo após a oposição de embargos de declaração.
+Além disso, o recurso especial não incluiu a alegação de afronta ao art. 1.022 do Código de Processo Civil, que seria essencial para identificar qualquer omissão por parte da Corte de origem. Tal alegação é indispensável para configurar o prequestionamento ficto de matéria de direito, conforme o art. 1.025 do CPC. Decisões como as proferidas no AgInt no REsp n. 2.076.255/RJ e no AgInt no REsp n. 2.049.701/SP reforçam a necessidade de tal alegação para a configuração do prequestionamento ficto.
+No mais, considerando a fundamentação do acórdão recorrido, os argumentos utilizados pela parte recorrente - no sentido de que houve a interrupção do prazo prescricional dos créditos tributários, não ocorrendo a prescrição tributária - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatório. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO.  ..  REANÁLISE QUE DEMANDA O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ALEGAÇÃO DE PRESCRIÇÃO.  ..  AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Aplicação do óbice da Súmula 7/STJ quando, para o acolhimento da tese versada no recurso especial, é necessário proceder à análise dos elementos probatórios produzidos ao longo da demanda.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.682.571/SC, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 19/2/2025, DJEN de 26/2/2025.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ACÓRDÃO DO TCU. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMETO. MATÉRIA FÁTICA. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+4. Embora a prescrição seja matéria de ordem pública, o STJ entende que a matéria precisa cumprir o requisito do prequestionamento, o que não houve no caso em tela. Nesse sentido: AgInt no AREsp n. 2.479.837/PB, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 12/6/2024 e AgInt no AREsp n. 2.347.621/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 18/12/2023.
+5. Ademais, a análise da ocorrência ou não da prescrição demanda o revolvimento da matéria probatória, o que não é possível em Recurso Especial, pois incide a Súmula 7 do STJ. A propósito: AgInt no AREsp n. 2.557.913/DF, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 27/6/2024 e AgInt no AREsp n. 2.406.752/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/12/2023.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.142.794/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (d ez por cento) sobre o valor já arbitrado (fl. 326), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO TRIBUTÁRIA. VIOLAÇÃO DO ART. 210 DO CÓDIGO CIVIL E DOS ARTS. 10, 332, E 487, DO CÓDIGO DE PROCESSO CIVIL. PARCELAMENTO ADMINISTRATIVO. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
