@@ -1,0 +1,20 @@
+DECISÃO
+BORGES CONTABILIDADE E SERVIÇOS LTDA. agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de Santa Catarina, na Apelação Criminal n. 5003237-56.2024.8.24.0006.
+Consta dos autos que o Tribunal de origem indeferiu pedido de restituição de veículo apreendido em contexto de crime de tráfico de drogas.
+A defesa aponta violação dos arts. 119 e 120 do CPP e 1.267 do Código Civil. Aduz que a) o veículo permanece registrado em nome da recorrente, o que confere presunção legal de propriedade; b) a recorrente arcou com tributos e encargos do bem durante todo o período em que esteve apreendido; c) o bem não foi identificado como instrumento ou produto de crime; d) a mera tradição não é suficiente para afastar a propriedade registral, sendo necessária a formalização da transferência junto ao órgão de trânsito competente. Requer a restituição do veículo.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que motivou a interposição deste agravo.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso (fls. 275-279).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou adequadamente os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+II. Restituição de bem apreendido
+A restituição de bem apreendido no processo penal é condicionada à inexistência de dúvida quanto ao direito do reclamante sobre o bem (CPP, art. 120).
+No caso, o pedido de restituição foi indeferido nos seguintes termos (fl. 117):
+Sabe-se que, nos termos do art. 1267, do Código Civil, a transferência da propriedade de bem móvel se dá por meio da tradição. Flávio Tartuce, aliás, leciona que: Consoante antes exposto, a tradição (traditio rei) é a entrega da coisa ao adquirente, com a intenção de lhe transferir a sua propriedade ou a posse. Consoante determina o caput do art. 1.267 do CC/2002, "a propriedade das coisas não se transfere pelos negócios jurídicos antes da tradição". Assim, repise-se que contratos como a compra e venda e a doação, por si só, não têm o condão de gerar a aquisição da propriedade móvel, o que somente ocorre com a entrega da coisa. (Manual de direito civil: volume único - 10ª edição - Rio de Janeiro: Forense, 2020, p. 937) Nota-se, pois, que, a priori, no presente caso, a propriedade (e não apenas a posse) do veículo Ford/Focus SE, placas IWBOB04, ano 2014/2015, cor branca, cuja restituição ora se pretende, foi transferida a Dener José de Lima (de cujus) por meio da tradição. Assim é que as teses apresentadas pela Defesa, em especial no que tange ao descumprimento das condições pactuadas quando do negócio jurídico, além de não restarem minimamente comprovadas, devem ser enfrentadas perante o Juízo competente, em eventual ação cível a ser proposta pela ora Apelante. Mutatis mutandis, esta Câmara já se manifestou no sentido de que "É mantido o perdimento do veículo, em favor da União, se o detentor da posse o empregava no cometimento do crime de tráfico de entorpecentes e remanesce dúvida sobre a propriedade que, inclusive, é objeto de discussão na esfera cível" (Apelação Criminal n. 5002416-57.2021.8.24.0103, rel. Des. Sérgio Rizelo, j. 07/05/2024).
+Com efeito, ao contrário dos bens imóveis, cuja propriedade é transferida por meio do registro (CC, art. 1.245), a propriedade de bens móveis é transferida mediante tradição (CC, art. 1.267).
+No caso ora em apreço, o Tribunal de origem considerou que houve tradição do veículo automotor, razão pela qual a ora agravante não é mais proprietária do bem.
+Nesse cenário, infirmar a conclusão a que chegaram as instâncias ordinárias dependeria do revolvimento do conjunto fático-probatório a fim de afirmar que não ocorreu tradição, o que é vedado nesta via, nos termos da Súmula n. 7 do STJ.
+III. Dispositivo
+À vista do exposto, conheço do agravo a fim de não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
