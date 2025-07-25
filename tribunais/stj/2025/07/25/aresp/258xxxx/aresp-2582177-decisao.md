@@ -1,0 +1,16 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção de Turma (fl. 412).
+Trata-se de agravo em recurso especial interposto por MATHEUS AZEVEDO LEMOS contra a d ecisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial apresentado na Apelação Criminal n. 1511988-15.2022.8.26.0602 (fls. 269/282).
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial (fls. 414/419).
+É o relatório.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) deficiência na fundamentação, pois não foram devidamente atacados os argumentos do aresto (Súmula 283/STF); b) ausência de prequestionamento da matéria (Súmulas 282 e 356/STF); e c) impossibilidade de reexame de provas (Súmula 7/STJ). Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, nenhum dos fundamentos constantes da decisão agravada.
+Quanto à deficiência de fundamentação (Súmula 283/STF), caberia ao agravante demonstrar, de forma analítica, como as razões do recurso especial teriam enfrentado todos os fundamentos suficientes do acórdão recorrido. Contudo, limitou-se a reiterar as teses do apelo nobre, sem estabelecer a devida correlação entre sua argumentação e os pilares da decisão colegiada. Nesse sentido: REsp n. 2.101.268/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.
+No que concerne à ausência de prequestionamento (Súmulas 282 e 356/STF), o agravante afirmou genericamente que a matéria teria sido debatida. No entanto, não apontou o trecho específico do acórdão em que a tese de violação dos arts. 186 e 198 do Código de Processo Penal foi efetivamente analisada pelo Tribunal de origem, o que torna a sua impugnação ineficaz. A propósito: AgRg no AREsp n. 2.488.493/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024.
+Por fim, no tocante à necessidade de reexame de provas (Súmula 7/STJ), a defesa argumentou se tratar de revaloração, e não reexame. Todavia, para afastar o referido óbice, era imperioso que o agravante, partindo do quadro fático soberanamente delimitado pela Corte estadual, demonstrasse que a controvérsia seria puramente de direito. Ao não fazê-lo, deixou de impugnar especificamente o fundamento. Precedente relevante: AgRg no AREsp n. 2.664.398/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.068.764/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 12/9/2022.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. RECURSO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
