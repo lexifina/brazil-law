@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por COOPERATIVA DE CREDITO AGROCREDI LTDA. - SICOOB AGROCREDI à decisão de fl. 245, que não conheceu do recurso.
+Sustenta a parte embargante:
+Ao menos, revendo a Fl. 241, se a parte recorrente foi mesmo intimada, havendo uma certidão de Publicação, assim: "Disponibilizada no Diário da Justiça Eletrônico Nacional CNJ(DJEN), em 14/04/2025, VISTA à(s) partes(s) recorrente(s) para manifestação de vício certificado nos autos, e considerada publicada em 15/04/2025, nos termos da Lei 11.419, art. 4º, 3º."
+Para checar tal publicação, o advogado da recorrente acessou o DJEN, entre os dias 14 e 15/04/2025, cuja resposta da pesquisa, todavia, não retornou com resultado. Logo, no Diário da Justiça Eletrônico Nacional, inexistindo intimação para manifestação do vício certificado nos autos.
+Então, com toda presteza, diligentemente, para alicerce documental do presente recurso, a parte recorrente anexa Ata Notarial, prevista no art. 384/CPC, com o fito de constatar a inexistência de tal intimação no DJEN e lograr o inexorável reflexo jurídico, a saber, a revogação da decisão que não conheceu o Recurso Especial, pois baseada em certidão absolutamente equivocada.
+Espera-se que V.Exa reporte-se à Ata Notarial, dando-lhe curial valorização, em que ficou constatado e registrado o erro do Tribunal, no ponto segue:
+ ..
+Diante do exposto, requer o recebimento, admissão e provimento dos presentes Embargos de Declaração, e pede a revogação da Decisão que não conheceu o Recurso Especial.
+No ensejo, para regularizar a representação da parte recorrente, segue a procuração do Advogado ora signatário, com amplos poderes, inclusive, para ratificar os atos anteriores nos autos (fls. 248/249).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do Recurso Especial, Dr. LUCAS RICARDO RIBEIRO.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18.3.2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto deixou o prazo transcorrer in albis.
+Ademais, ao contrário do alegado pela parte embargante, em consulta ao Diário de Justiça Eletrônico Nacional (comunica.pje.jus.br), meio oficial pelo qual esta Corte veicula seus atos judiciais (desde 28/11/2024), verificou-se que não houve qualquer irregularidade na publicação.
+Na referida edição foram apresentadas todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+Na espécie , constou ainda da publicação o título "VISTA À(S) PARTE(S) RECORRENTE(S) PARA MANIFESTAÇÃO ACERCA DE VÍCIO CERTIFICADO NOS AUTOS". Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da Certidão para Saneamento de Óbice e cumprir a determinação de regularização do vício.
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30.6.2020; AgInt no REsp 1788526/TO, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; e AgInt no REsp 1830797/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 18.3.2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
