@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por MARCELO DETONI e MAURICIO DETONI contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO  TRF6 no julgamento do Habeas Corpus n. 6003717-69.2024.4.06.0000.
+Na Ação Penal n. 1020836-57.2020.4.01.3800, ao avaliar as respostas à acusação (crimes do art. 1º, I, da Lei n. 8137/90 e art. 299 do Código Penal), o Juízo da 4ª Vara Federal de Juiz de Fora não acolheu a alegação de falta de constituição definitiva do crédito tributário que subsidia a denúncia.
+A defesa interpôs habeas corpus no TRF6 visando trancar a ação penal, mas a ordem foi negada, conforme esta ementa (e-STJ fl. 4.217):
+"EMENTA PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. DELITO TRIBUTÁRIO. PENDÊNCIA DE JULGAMENTO DE PROCESSO ADMINISTRATIVO FISCAL. CRÉDITO TRIBUTÁRIO DEFINITIVAMENTE CONSTITUÍDO. JUSTA CAUSA PARA AÇÃO PENAL. MEDIDA EXCEPCIONAL NÃO JUSTIFICADA. AUSÊNCIA DOS REQUISITOS QUE MOTIVAM O TRANCAMENTO DA AÇÃO PENAL. FALSIDADE IDEOLÓGICA. CONTRATO SOCIAL DA EMPRESA. PRESCRIÇÃO. OCORRÊNCIA
+1. Conforme farta jurisprudência das cortes superiores, "o trancamento da ação penal, em habeas corpus, constitui medida excepcional que só deve ser aplicada nos casos (i) de manifesta atipicidade da conduta; (ii) de presença de causa de extinção da punibilidade do paciente; ou (iii) de ausência de indícios mínimos de autoria e materialidade delitivas".
+2. No caso em tela, não se verificam válidos os argumentos da defesa objetivando o trancamento da ação penal, na medida em que demonstrada a constituição definitiva do crédito em nome da empresa e a descrição da conduta dos proprietários de fato do empreendimento, caracterizando a prática de ilícito indicada na denúncia.
+3. A pendência de recurso administrativo fiscal em que se discute o direcionamento do débito diretamente aos pacientes, como sujeitos passivos solidários, não influi no prosseguimento do julgamento da causa na seara penal. A existência de crédito definitivamente constituído em nome da empresa, cuja responsabilidade de fato foi atribuída aos réus em procedimento investigatório fiscal, é suficiente para subsidiar a ação penal.
+4. A persecução penal dos pacientes em relação ao delito do art.299 do CP encontra-se fulminada pela prescrição, na medida em que consta dos autos contrato social da empresa (cujos dados supostamente são falsos) datado de 07/2008 e o recebimento da denúncia só ocorreu em 08/2021.
+5. Conhece-se do habeas corpus e denega-se a ordem para trancamento da ação penal, restando reconhecida a prescrição da pretensão punitiva estatal em relação ao delito do art.299 do CP.
+Os recorrentes sustentam que a sua responsabilidade pelo débito fiscal em questão ainda seria objeto de discussão em processo administrativo fiscal, não tendo sido definitivamente constituído o crédito tributário, o que obstaria o início da persecução criminal.
+Esclarecem que a mesma autuação fiscal gerou dois procedimentos administrativos fiscais  PAFs (desmembramento), um direcionado aos sócios, por responsabilidade tributária solidária (PAF n. 10640.722197/2013), e outro direcionado ao contribuinte Ide Carnes e Frios Ltda. (PAF n. 10640.721754/2015). Alegam que, não obstante o crédito tributário esteja com exigibilidade suspensa durante a discussão administrativa travada no PAF n. 10640.722197/2013, a Representação Fiscal para Fins Penais  RFFP teve seguimento atrelado ao PAF n. 10640.721754/2015.
+Requerem, liminarmente, o sobrestamento da ação penal até o julgamento final deste recurso. No mérito, pugnam pelo trancamento do feito.
+Liminar indeferida (fls. 4251/4253).
+Informações prestadas (fls. 4258/4263 e 4291/4297).
+Determinada redistribuição por averbação de suspeição do relator (fl. 4274).
+Parecer do Ministério Público Federal pelo não provimento do recurso (fls. 4299/4305).
+É o relatório.
+Decido.
+Conforme consulta no portal do Judiciário, no dia 17/03/2025, a Ação Penal n. 1020836-57.2020.4.01.3800 foi julgada procedente para condenar os réus, ora pacientes, pela prática do crime do art. 1º, I, da Lei n. 8.137/90.
+A defesa interpôs apelação e o processo está em fase recursal no TRF6.
+O caso reclama aplicação do enunciado da Súmula n. 648 do Superior Tribunal de Justiça STJ:
+"A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. JUSTA CAUSA. INÉPCIA DA INICIAL. REQUISITOS DO ART. 41 DO CPP. SUPOSTOS CRIMES CONTRA A ORDEM TRIBUTÁRIA. ESTORNOS DE CRÉDITOS TRIBUTÁRIOS. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ACÓRDÃO DO TRIBUNAL ADMINISTRATIVO-TRIBUTÁRIO ESTADUAL (TATE). TEMAS NÃO DEBATIDOS NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PROVA PERICIAL. INDEFERIMENTO MOTIVADO NA ORIGEM. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte Superior, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, conforme assentado pelo Em. Relator à época da decisão, há indícios mínimos necessários para a persecução penal, pois o d. Ministério Público, na narrativa constante da inicial acusatória, asseverou estar presente a justa causa à ação penal, de forma também a cumprir os requisitos do art. 41 do Código de Processo Penal, não sendo, portanto, o caso de trancamento prematuro da ação penal.
+III - Esta Corte Superior entende que "o trancamento da ação penal em sede de habeas corpus é medida excepcional, somente se justificando se demonstrada, inequivocamente, a ausência de autoria ou materialidade, a atipicidade da conduta, a absoluta falta de provas, a ocorrência de causa extintiva da punibilidade ou a violação dos requisitos legais exigidos para a exordial acusatória, o que não se verificou na espécie" (HC n. 359.990/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 16/9/2016).
+IV - In casu, a r. denúncia de fls. 28-30 bem descreveu a data e o local dos fatos, assim como a qualificação do agravante, de forma a imputá-lo como incurso nos crimes previstos no art. 1º, I, da Lei n. 8.137/90, na forma do art. 71 do Código Penal. Assim, a exordial bem delineou todo o modus operandi do agravante, inclusive com referência ao procedimento administrativo-fiscal como elemento probatório, de modo que não há falar em inépcia da denúncia sob nenhuma vertente.
+ ..
+VI - Não obstante, a ação penal de n. 0061417-782015.8.17.0001 já foi julgada em segundo grau (inclusive seus embargos de declaração), embora pendente de trânsito em julgado. Diante disso, esta Corte Superior tem posicionamento firme no sentido de que "a superveniência de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia, haja vista a insubsistência do exame de cognição sumária, relativo ao recebimento da denúncia, em face da posterior sentença de cognição exauriente" (HC 384.302/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/6/2017). Não por outro motivo, foi aprovada a Súmula n. 648 pela Terceira Seção deste Tribunal Superior: "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus."
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 631.070/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023, grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE NULIDADE DA PROVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DO OBJETO DO WRIT. TESE NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE JULGAMENTO PER SALTUM. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso em habeas corpus, no qual se pleiteava o trancamento da ação penal, ante a nulidade da ação penal decorrente da nulidade da prova em que se baseou a denúncia e por ausência de justa causa, em razão da superveniência de sentença condenatória.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a superveniência de sentença condenatória prejudica o pedido de trancamento da ação penal, e se é possível a concessão da ordem de habeas corpus de ofício.
+III. RAZÕES DE DECIDIR
+3. "A superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de provas" (AgRg no HC n. 663.708/SP, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 31/8/2021)" (AgRg no HC 896988 / SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe 5/9/2024) e por ausência de justa causa.
+4. A alegação de nulidade da quebra dos sigilos bancário e fiscal não foi efetivamente enfrentada pelo Tribunal de origem, impedindo a apreciação pelo STJ, sob pena de supressão de instância.
+5. A concessão de habeas corpus de ofício não prescinde da devida instrução processual e da análise da matéria pela Corte local, sendo vedada a apreciação per saltum. I
+V. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg na PET no RHC n. 170.805/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 14/5/2025, DJEN de 21/5/2025, grifei)
+Isso posto, na forma do art. 34, XI, do Regimento Interno do STJ, julgo prejudicado o recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
