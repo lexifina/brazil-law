@@ -1,0 +1,10 @@
+DECISÃO
+GENIVALDO MARQUES DOS SANTOS opõe embargos de declaração contra a decisão e fls. 23.189-23.190, ao argumento de que houve obscuridade, já que o exame do seu recurso também caberia a Corte Especial, considerando o evidente liame entre os denunciados, bem como que houve omissão relação ao dissenso sobre o acesso às inteceptações telefônicas.
+De início, registro que foram opostos três embargos de divergência distintos, com partes e procuradores diversos, de modo que o exame de cada um deles deve ser feito em consonância com as razões e objeto específicos vinculados a cada um.
+Como salientado pela decisão embargada, no caso dos dois embargos de fls. de fls. 22.830-23.035 e 23.036-23.126 foram indicados arestos paradigmas proferidos por Turmas de Seções diversas, situação que determina a competência da Corte Especial para a apreciação do recurso, diversamente do caso apresentado pelo embargante.
+No que tange ao dissenso interpretativo relacionado ao acesso às interceptações telefônicas, os embargos tem procedência quando afirma a omissão. No particular, contudo, também não verifico a necessária similitude fática entre os acórdãos paradigmas apresentados e o aresto proferido pela Quinta Turma.
+De fato, no caso dos autos, o acórdão destacou a inexistência de obrigatoriedade de degravação integral de todos os áudios, apoiando-se em jurisprudência desta Corte, diversamente do ocorreu com os paradigmas, que trataram da degração de diálogos utilizados na denúncia.
+Faço lembrar que nos embargos de divergência não é possível rejulgar o recurso analisado pela Quinta Turma, para que se possa inferir se a jurisprudência aplicada no exame do caso é ou não adequada à espécie ou se o caso também diz respeito aos diálogos utilizados na denúncia, como afirma o embargante. A premissa de análise da divergência é a tese conclusiva veiculada no recurso.
+Ante o expsoto, acolho os embargos de declaração apenas para sanar a omissão apontada, sem efeitos modificativos.
+Pubnlique-se e intimem-se.
+EMENTA
