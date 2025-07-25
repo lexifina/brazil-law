@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PRICE WATER HOUSE COOPERS AUDITORES INDEPENDENTES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que inadmitiu o recurso especial manejado contra acórdão prolatado no julgamento da Apelação Cível n. 0429335-33.2016.8.21.7000.
+No referido acórdão recorrido, a Corte de origem, por unanimidade dos integrantes de sua Segunda Câmara Cível, ao negar provimento ao apelo intentado pela ora agravante, terminou por manter íntegra a sentença que do Juízo de primeiro grau que julgou improcedentes os embargos por ela opostos por à execução fiscal de n. 2496751-75.2010.8.21.0001 promovida pelo Município de Porto Alegre.
+Por decisão monocrática da Presidência desta Corte Superior, proferida com esteio no art. 21-E, inciso V, do RISTJ, negou-se conhecimento ao presente recurso de agravo (fls. 2.247-2.248).
+Interposto agravo interno contra a referida decisão (fls. 2.258-2.269), foram os autos distribuídos, por força do art. 21-E, § 2º, do RISTJ, em 6/12/2018, à e. Ministra Assusete Magalhães.
+Em 7/10/2021, a parte agravante protocolizou a petição de fls. 2.369-2.377, por meio da qual informou a esta Corte Superior que "aderiu aderiu ao Programa de Parcelamento especial - Recupera Poá, conforme Termo Consolidado nº 5539/2021 (Doc. 01), cujo valor após as reduções, já inclusos os honorários advocatícios devidos, foram fixados em R$ 1.295.566,85, quitado em parcela única, conforme guia e respectivo comprovante de pagamento anexos (doc. 02)" (fl. 2.369).
+Por tal razão requereu, na mesma petição, "a extinção destes Embargos à execução fiscal, com fulcro no artigo 156, I do Código Tributário Nacional, e artigo 924, II do Código de Processo Civil" (fl. 2.370).
+Em 15/3/2024, foram os presentes autos atribuídos a este Relator, que prontamente determinou, por despacho, a intimação da municipalidade agravada para o fim de apresentar manifestação a respeito do conteúdo da petição supra mencionada.
+Regularmente intimado, o Município de Porto Alegre veio aos autos para "CONFIRMAR a informação prestada pela parte contrária na petição da folha e-STJ 2369, no sentido de ter aderido ao RECUPERAPOA-2024, nisto já incluídos os honorários de sucumbência em favor do MPOA (docs. em anexo), nada obstando, portanto, a EXTINÇÃO do presente feito" (fl. 2.394).
+É o relatório.
+Decido.
+Encontra-se prejudicado, pela superveniente perda de seu objeto, o presente agravo em recurso especial e, consequentemente, o agravo interno de fls. 2.258-2.269, que ainda pendia de julgamento nesta Corte Superior.
+Isso porque, consoante o noticiado pela parte agravante às fls. 2.369-2.377 - e que foi corroborado integralmente pela manifestação apresentada pela parte agravada à fl. 2.394 -, restou promovida a quitação integral da dívida objeto da execução fiscal objeto dos embargos que deram origem aos presentes autos.
+Tanto é assim que, em consulta realizada no site do Tribunal de Justiça do Estado do Rio Grande do Sul, constatou-se que a execução em tela encontra-se extinta desde 18/10/2022, tendo seus respectivos autos sido definitivamente arquivados em 1º/12/2022.
+Oportuno, destacar que a extinção da execução fiscal pela quitação integral da dívida tributária nela perseguida, seja através da adesão da parte executada a um programa de recuperação fiscal (como ocorrido na hipótese vertente) ou de outro meio, elimina a necessidade de se levar a termo o julgamento dos embargos à ela eventualmente opostos.
+Afinal, a superveniente quitação da dívida faz desaparecer o interesse de agir do executado nos embargos, pois o propósito da própria execução já se encontra plenamente satisfeito.
+Ante o exposto, JULGO PREJUDICADO o presente agravo em recurso especial bem como o agravo interno de fls. 2.258-2.269.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ADESÃO DA EMBARGANTE À PROGRAMA DE RECUPERAÇÃO FISCAL. QUITAÇÃO INTEGRAL DO DÉBITO. AQUIESCÊNCIA DA MUNICIPALIDADE EXEQUENTE. EXTINÇÃO DA EXECUÇÃO FISCAL NA ORIGEM. PREJUDICIALIDADE. AGRAVO EM RECURSO ESPECIAL E AGRAVO INTERNO PENDENTE DE EXAME JULGADOS PREJUDICADOS.
