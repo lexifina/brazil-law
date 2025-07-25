@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL interpostos por ANDRE DE SOUZA LIMA com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em virtude da divergência com os seguintes julgados:
+a) AgRg no AgRg no AREsp n. 1.600.819/MS, proferido pela Quinta Turma;
+b) AgInt no HC n545.926/SP, proferido pela Sexta Turma;
+c) ARE n. 666334, HC n. 141420, AgR no HC n. 148333 e HC n. 145.362, julgados pelo C. STF.
+Requer, desse modo, o provimento dos embargos de divergência.
+É o relatório.
+Decido.
+Inicialmente, tendo em vista a juntada correta do comprovante de recolhimento das custas processuais, prossigo na análise dos demais pressupostos e constato que os Embargos não reúnem condições de serem processados.
+Os Embargos não reúnem condições de serem processados.
+A jurisprudência desta Corte, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de Embargos de Divergência, deve proceder à juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas. " ..  A Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento. Assim, a não apresentação de algum desses elementos na interposição do recurso caracteriza desrespeito à regra técnica para o seu conhecimento, o que constitui vício substancial insanável." (AgInt nos EAREsp n. 1.950.564/MS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe de 16.6.2023.).
+No mesmo sentido: AgInt nos EAREsp n. 1.760.860/PR, Rel. Ministro Humberto Martins, Segunda Seção, DJe de 18.8.2023, e; AgInt nos EDcl nos EREsp n. 1.803.803/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 6.10.2023.
+Por meio da análise dos autos, verifica-se que a parte, no momento da interposição do recurso, não juntou aos autos o inteiro teor do acórdão paradigma. Dessa forma, não cumpriu regra técnica do presente recurso, o que constitui vício substancial insanável.
+Com efeito, a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão. No mesmo sentido: AgRg nos EAREsp n. 1.399.185/SP, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 26.5.2023.
+Ademais, ressalte-se que a hipótese dos autos não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, porquanto nos termos do Enunciado Normativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO CONHECIMENTO. ACÓRDÃO PARADIGMA. JUNTADA DE INTEIRO TEOR. AUSÊNCIA DA CERTIDÃO DE JULGAMENTO. VÍCIO SUBSTANCIAL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC DE 2015. PRECEDENTES.
+1. Ostentando os embargos de divergência característica de recurso de fundamentação vinculada, é imperativo que a demonstração do dissenso jurisprudencial se faça nos exatos termos estabelecidos pelo art. 1.043, § 4º, do CPC de 2015 e pelo art. 266, § 4º, do RISTJ.
+2. A juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicabilidade do parágrafo único do art. 932 do CPC de 2015.
+3. Agravo interno desprovido.
+(AgInt nos EREsp 1617799/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe 25.08.2022)
+Como se vê, não é admissível o recurso de Embargos de Divergência quando o recorrente não comprova a divergência nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+Ademais, vê que a parte embargante apresenta como um dos paradigmas julgado proferido em sede de habeas corpus.
+Com efeito, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de Embargos de Divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como Habeas Corpus, Recurso Ordinário em Habeas Corpus, Mandado de Segurança, Recurso Ordinário em Mandado de Segurança, Habeas Data e Mandado de Injunção.
+Ressalte-se que mesmo sob a vigência do novo Código de Processo Civil, os arts. 1043, § 1º, do CPC e 266, § 1º, do Regimento Interno do Superior Tribunal de Justiça delimitaram o confronto de teses jurídicas objeto dos Embargos de Divergência àquelas decorrentes do julgamento de recursos e ações de competência originária. Não podem, pois, servir como paradigma, os julgados relativos a ações constitucionais.
+A propósito:
+AGRAVO REGIMENTAL NA PETIÇÃO. EMBARGOS DE DIVERGÊNCIA OPOSTOS CONTRA ACÓRDÃO PROLATADO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. INDEFERIMENTO LIMINAR PELA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PARADIGMAS PROLATADOS EM AÇÕES QUE TÊM NATUREZA JURÍDICA DE GARANTIA CONSTITUCIONAL NÃO SE PRESTAM A DEMOSTRAR SUPOSTO DISSÍDIO. PRECEDENTES. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. A Corte Especial do Superior Tribunal de justiça firmou a compreensão de que "mesmo na égide do novo CPC, o § 1º do art. 1.043 restringe os julgados que podem ser objetos de comparação, em sede de embargos de divergência, a recursos e ações de competência originária, não podendo, portanto, funcionar como paradigma acórdãos proferidos em ações que têm natureza jurídica de garantia constitucional, como os habeas corpus, mandado de segurança, habeas data e mandado de injunção" (AgInt nos EAREsp 474.423/RS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 10/5/2018). No mesmo sentido: AgInt nos EAREsp n. 642.451/SC, relator Ministro Felix Fischer, Corte Especial, DJe 14/9/2020.
+2. É firme a jurisprudência desta Corte Superior no sentido de que acórdãos proferidos no âmbito de habeas corpus não são admitidos como paradigmas para a comprovação de dissídio jurisprudencial, aplicando-se o mesmo raciocínio quanto ao recurso ordinário em habeas corpus. Precedentes da Terceira Seção do STJ: AgRg nos EAREsp n. 1.884.233/SC, relator Ministro Messod Azulay Neto, DJe 13/3/2023; AgRg nos EAREsp n. 2.075.914/SC, relator Ministro Sebastião Reis Júnior, DJe 13/2/2023 e AgRg nos EDcl na Pet n. 14.852/SP, relatora Ministra Laurita Vaz, DJe 25/2/2022.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg na Pet n. 15.433/SP, Rel. Ministro Joel Ilan Paciornik, Terceira Seção, DJe de 26.5.2023.)
+Por fim, dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça que " ..  cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal".
+Também os incisos I e II do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, ".. em Recurso Extraordinário ou em Recurso Especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal".
+Conforme transcrito nos dispositivos acima, os Embargos de Divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de acórdãos de outros tribunais como paradigmas.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ARESTO PARADIGMA PROFERIDO POR OUTRO TRIBUNAL. IMPOSSIBILIDADE. FIXAÇÃO DA PENA. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a pacífica orientação deste Superior Tribunal, firmada inclusive no âmbito da Corte Especial, os embargos de divergência têm como escopo a uniformização interna da jurisprudência do Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de acórdãos paradigmas de outros Tribunais.
+2. Como cediço, a demonstração da divergência pressupõe a existência de similitude entre as situações fáticas examinadas. Na espécie, a fixação da pena levou em consideração aspecto específico do caso, apto a exacerbar a culpabilidade, situação que não se assemelha ao aresto indicado como paradigma.
+3. Agravo regimental não provido.
+(AgRg nos EREsp 1530264/SP, Rel. Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 12.11.2020)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os Embargos de Divergência.
+Publique-se.
+Intimem-se.
+ EMENTA
