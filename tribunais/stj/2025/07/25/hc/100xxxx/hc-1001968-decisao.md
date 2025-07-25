@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CHRISTIAN RANIERI DE LIMA SOUZA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"DIREITO PENAL. AGRAVO EM EXECUÇÃO. COMUTAÇÃO DE PENAS. AGRAVO IMPROVIDO.
+I. Caso em Exame:
+1. Agravo em execução interposto por Christian Raniere de Lima Souza contra decisão que indeferiu pedido de comutação de penas com base no Decreto nº 11.846/2023. O agravante alega omissão da magistrada quanto ao pedido de comutação e sustenta cumprimento de 1/4 da pena para o crime de roubo e crimes de trânsito até 25.12.2023, além de argumentar que o crime de tráfico de drogas não foi cometido em concurso com os demais, de modo que não há se falar em impedimento de concessão da comutação das penas pela regra do parágrafo único, do art. 9º do Decreto n. 11.846/2023.
+II. Questão em Discussão:
+2. A questão em discussão consiste em verificar se o agravante preenche os requisitos para concessão da comutação de penas, considerando a existência de crime impeditivo e o cumprimento da fração de pena exigida.
+III. Razões de Decidir:
+3. A decisão agravada não se omitiu quanto à comutação de penas, destacando que há condenação por crime impeditivo à concessão do benefício, conforme o Decreto nº 11.846/2023.
+4. Requisito objetivo não preenchido. Sentenciado que não cumpriu o tempo de pena exigido pelo decreto em relação ao delito impeditivo.
+IV. Dispositivo e Tese:
+5. Agravo improvido.
+Tese de julgamento: 1. Decisão agravada que não se omitiu quanto à comutação de penas, destacando que há condenação por crime impeditivo à concessão do benefício, conforme o Decreto nº 11.846/2023. 2. A comutação de penas não pode ser concedida uma vez que não foi cumprida a fração de pena atinente ao delito impeditivo, mais a fração dos delitos não impeditivos.
+Legislação Citada:
+Decreto nº 11.846/2023, art. 1º, art. 3º, art. 9º, parágrafo único." (e-STJ, fls. 13-14).
+Neste writ, os impetrantes alegam que, embora o Juízo de primeiro grau tenha sido omisso quanto ao pedido de comutação, "o Tribunal estadual enfrentou os reclamos acerca da possibilidade de comutação da pena, o que se faz superada a tese de omissão" (e-STJ, fl. 6).
+Sustentam que o art. 9º, parágrafo único, do Decreto n. 11.846/2023 "se refere expressamente a concurso de crimes, e não à mera soma de penas" (e-STJ, fl. 7). Asseveram, nessa linha, que "o termo "concurso de crimes" utilizado pelo Decreto 11.846/2023 não pode ser interpretado de forma ampla, para abranger meramente a existência de múltiplos processos ou penas unificadas em execução" (e-STJ, fl. 8).
+Afirmam, nesse contexto, que "as condenações pelos crimes de roubo, de trânsito e de tráfico derivam de processos distintos, fatos distintos, em momentos distintos, sem qualquer relação de concurso, razão pela qual não incide o óbice previsto no art. 9º, parágrafo único, do Decreto 11.846/2023" (e-STJ, fl. 8).
+Requerem, ao final, seja concedida a comutação das penas relacionadas aos delitos de roubo e de trânsito.
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC n. 725.534/SP, da minha relatoria, Terceira Seção, julgado em 27/4/2022, DJe de 1º/6/2022 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Com efeito, a Terceira Seção deste Tribunal Superior, alinhando-se ao entendimento firmado pela Suprema Corte, consolidou o entendimento de que a restrição prevista no art. 11, parágrafo único, do Decreto n. 11.302/2022 - que impede o indulto de crime não impeditivo enquanto não cumprida integralmente a pena de crime impeditivo - deve ser aplicada não só quando os crimes (não impeditivo e impeditivo) se deram em efetivo concurso de crimes, numa mesma condenação, como, também, quando os delitos se uniram mediante unificação de penas, a partir de guias diferentes numa mesma execução.
+Confira-se:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. RECEPTAÇÃO SIMPLES. INDULTO (DECRETO N. 11.302/2022). DEFERIMENTO PELO JUÍZO E CASSAÇÃO PELO TRIBUNAL. CRIME IMPEDITIVO NÃO PRATICADO EM CONCURSO (ROUBO MAJORADO). ENTENDIMENTO DA TERCEIRA SEÇÃO NO HC 856.053/SC. NECESSIDADE DE O CRIME IMPEDITIVO TER SIDO PRATICADO EM CONCURSO. IMPERIOSA ALTERAÇÃO. ADEQUAÇÃO À ORIENTAÇÃO MAIS ATUAL DO STF. CONSIDERAÇÃO DO CRIME IMPEDITIVO COMO ÓBICE À CONCESSÃO DO BENEFÍCIO, AINDA QUE O CRIME IMPEDITIVO CUJO CUMPRIMENTO DA PENA NÃO TENHA SIDO PRATICADO EM CONCURSO, MAS REMANESCENTE DE UNIFICAÇÃO DE PENAS.
+1. Com a finalidade de uniformizar o entendimento desta Corte com o do Supremo Tribunal Federal, deve o julgamento do presente agravo ser afetado à Terceira Seção.
+2. No julgamento do AgRg no HC n. 856.053/SC, a Terceira Seção desta Corte, em acórdão da minha lavra, firmou orientação de que, para a concessão do benefício de indulto, fundamentado no Decreto Presidencial n. 11.302/2022, dever-se-ia considerar como crime impeditivo do benefício apenas o cometido em concurso com crime não impeditivo. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não haveria de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Sobreveio a apreciação do tema pelo Supremo Tribunal Federal, ocasião na qual o Pleno da Corte, em sessão de julgamento realizada em 21/2/2024, referendou medida cautelar deferida pelo Ministro Luís Roberto Barroso, firmando orientação de que o crime impeditivo do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser considerado tanto no concurso de crimes quanto em razão da unificação de penas. Precedente.
+4. A fim de prezar pela segurança jurídica, deve este Superior Tribunal se curvar ao referido entendimento e modificar sua convicção, a fim de considerar que o crime impeditivo do benefício do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser tanto o praticado em concurso como o remanescente em razão da unificação de penas.
+5. No caso, trata-se de apenado que cumpre pena por crime de associação criminosa e roubo majorado, praticados em concurso e receptação simples em ação penal diversa. A ordem foi liminarmente concedida para restabelecer a decisão que concedeu o indulto em relação ao crime de receptação simples. No entanto, a aplicação do atual entendimento do STF impõe que seja modificada a decisão, a fim de manter o indeferimento do benefício em relação ao citado delito.
+6. Agravo regimental provido para cassar a decisão na qual se concedeu liminarmente a ordem, restabelecendo-se o acórdão do Tribunal de Justiça de Sergipe que, no julgamento do Agravo de Execução Penal n. 202300361180, cassou a decisão do Juízo da 7ª Vara Criminal da comarca de Aracajú/SE que concedeu o benefício ao agravado."
+(AgRg no HC n. 890.929/SE, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 24/4/2024, DJe de 29/4/2024).
+Do mesmo modo, a restrição prevista no art. 9º, parágrafo único, do Decreto n. 11.846/2023 - que impede o indulto ou a comutação de pena de crime não impeditivo enquanto não cumpridos dois terços da pena correspondente ao crime impeditivo - deve ser aplicada no caso em que os delitos (não impeditivo e impeditivo) apenas se somaram quando da unificação de penas.
+No mesmo sentido, existem julgados mais recentes de ambas as Turmas as quais compõem a Terceira Seção deste Tribunal:
+"DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INDULTO NATALINO. CRIME IMPEDITIVO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, utilizado como substituto de recurso próprio, e negou a concessão de indulto natalino ao agravante, em razão da existência de crime impeditivo e da não unificação das penas.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substituto de recurso próprio e se o indulto natalino pode ser concedido quando há crime impeditivo, mesmo em condenações distintas e processadas separadamente.
+3. A questão também envolve a análise da necessidade de unificação das penas e se esta impede a concessão do indulto enquanto não cumprida a pena do crime impeditivo.
+III. Razões de decidir
+4. O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.
+5. O Decreto n. 11.846/2023 estabelece que o indulto não será concedido enquanto o condenado não cumprir integralmente a pena relativa a crime impeditivo, mesmo em casos de unificação de penas por condenações distintas.
+6. A jurisprudência do STF e do STJ alinha-se no sentido de que o crime impeditivo deve ser considerado tanto nos casos de concurso de crimes quanto em unificação de penas por condenações diversas, impedindo a concessão do indulto antes do cumprimento da pena do crime impeditivo.
+7. A decisão do juízo de execução penal, que indeferiu o indulto com base no não cumprimento da pena pelo crime impeditivo, está correta e em consonância com a legislação e o entendimento mais recente do STF.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade. 2. O indulto natalino não será concedido enquanto o condenado não cumprir integralmente a pena relativa a crime impeditivo, mesmo em casos de unificação de penas por condenações distintas.".
+Dispositivos relevantes citados: CF/1988, art. 84, XII; Decreto Presidencial nº 11.846/2023, arts. 2º, I e 9º.
+Jurisprudência relevante citada: STJ, AgRg no HC 535.063/SP, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365/PB, Rel. Min. Rosa Weber, julgado em 27.03.2020."
+(AgRg no HC n. 917.505/GO, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 11.846/2023. NÃO CUMPRIMENTO DA PENA CORRESPONDENTE AO DELITO IMPEDITIVO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O agravante não cumpriu integralmente a pena correspondente a crime impeditivo (tráfico de drogas), consoante o disposto nos arts. 1º, incisos I e XVII, e 9º, parágrafo único, do Decreto n. 11.846/2023.
+2. A expressão "concurso de crimes", contida no parágrafo único do art. 9º do referido decreto, não diz respeito ao concurso de crimes previsto nos arts. 69, 70 e 71 do Código Penal, mas a condenações diversas cujas penas são somadas para fins de verificação de eventual direito ao benefício aqui pleiteado. Nessa linha, analisando dispositivo semelhante referente ao Decreto n. 11.302/2022, a Terceira Seção desta Corte Superior, alinhando seu posicionamento ao do Supremo Tribunal Federal, decidiu que "o crime impeditivo do benefício do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser tanto o praticado em concurso como o remanescente em razão da unificação de penas", entendimento aplicável à espécie.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 916.517/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024, DJe de 5/9/2024).
+No caso em exame, as instâncias ordinárias indeferiram o pedido de comutação de pena relacionado ao s delitos não impeditivos (roubo majorado e crimes de trânsito) com fundamento na incidência do art. 9º, parágrafo único, do Decreto n. 11.846/2023, visto que, com a unificação das penas - a partir da junção de guias diferentes numa mesma execução -, observou-se a existência de crime impeditivo (tráfico ilícito de drogas) cuja pena ainda não foi cumprida em fração equivalente a dois terços.
+Aplicou-se, assim, o entendimento atualmente consolidado no âmbito deste Tribunal Superior, de modo que não há ilegalidade flagrante apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
