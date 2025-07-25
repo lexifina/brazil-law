@@ -1,0 +1,22 @@
+DECISÃO
+EDSON BRUNO IDELFONSO BISTAFFA, acusado por homicídio qualificado, sequestro, cárcere privado e ocultação de cadáver, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+De início, observo que o caso comporta o julgamento antecipado do habeas corpus, visto que se adequa a pacífica orientação desta Corte aplicada em casos similares, os quais são desfavoráveis à pretensão defensiva.
+Deveras, extrai-se dos autos que o paciente foi preso preventivamente pela suposta prática de crimes graves (homicídio qualificado, sequestro, cárcere privado e ocultação de cadáver), em circunstâncias que recomendam a manutenção da constrição.
+Conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts.
+312, 313 e 282, I e II, do Código de Processo Penal.
+Deveras, no caso, extrai-se do acórdão impugnado a existência de indicação não só da gravidade concreta dos fatos que lhes são imputados, mas também (e principalmente) pela possibilidade de reiteração delitiva, nestes termos (fls. 55-56, destaquei):
+ ..
+No caso, o periculum libertatis está devidamente demonstrado, notadamente para resguardar a ordem pública, ante a gravidade concreta dos delitos e periculosidade social do acusado revelada pelo modus operandi empregado e seu prévio envolvimento criminal, em conformidade com a jurisprudência desta Primeira Câmara Criminal.
+ ..
+A gravidade concreta do delito, a agressividade extrema da ação e o absoluto menoscabo com a paz social, traduzem a nocividade do paciente e, como consequência, a necessidade da segregação provisória como instrumento legal assecuratório da ordem pública.
+ ..
+Como se não bastasse, o paciente conta com condenações pela prática de porte ilegal de arma de fogo e embriaguez ao volante, além de medidas protetivas de urgência deferidas em seu desfavor. Ambas as condenações com extinção das penas, respectivamente, em 30.11.2016 e 05.02.2019 (cf. Oráculo - IP, mov. 9.1), servindo, assim, para caracterizar maus antecedentes e justificar a decretação da medida extrema.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que a existência de registros criminais (inquéritos policiais, ações penais em andamento ou condenação com trânsito em julgado) denota o risco de reiteração delitiva e, por isso mesmo, é fundamento idôneo para a custódia provisória.
+De fato, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Nessa direção também é a orientação desta Corte quanto à gravidade concreta dos fatos imputados ao acusado: "a gravidade concreta do delito, à luz de seu modus operandi, evidencia a periculosidade do suspeito e o interesse cautelar de evitar a reiteração delitiva" (HC n. 615.256/PR, relator Ministro Rogerio Schietti, DJe 29/3/2021).
+Em razão dessas circunstâncias que foram devidamente indicadas, que justificam a constrição, repita-se, verifica-se que as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+Vale dizer, "as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 789.592/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/2/2023).
+Ante o exposto, com fundamento nos arts. 34, XX c/c 246, ambos do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
