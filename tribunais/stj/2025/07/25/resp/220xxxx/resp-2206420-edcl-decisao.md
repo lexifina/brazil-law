@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por A P DE VASCONCELOS COMBUSTIVEIS LTDA à decisão de fl. 402, que não conheceu do recurso.
+Sustenta a parte embargante:
+Isso porque, os artigos 937 e 1.021 do Código de Processo Civil informam que é de 15 dias o prazo para interposição de Recurso Especial. O referido diploma também aduz em seu artigo 220 que os prazos serão suspensos durante o recesso do judiciário, o qual assim dispõe:
+ ..
+Logo, verifica-se que o Acórdão recorrido foi proferido pelo Tribunal Regional Federal da 5ª Região aos 20 de dezembro de 2024, e que a intimação da Recorrente se deu, por leitura automática, aos 30 de dezembro de 2024.
+Contudo, uma vez que a data da leitura automática da intimação não se dá em um dia útil, in casu pela suspensão dos prazos processuais prevista pelo artigo 220 do CPC, deve o recorrente ser considerado por intimado, para fins de contagem de prazo, no primeiro dia útil seguinte à data da intimação. Assim está previsto no art. 5º da Lei nº 11.419, a qual dispõe sobre a informatização do processo judicial, na seguinte redação:
+ ..
+Portanto, em consonância com o artigo 220 do Código de Processo Civil, e o art. 5º da Lei nº 11.419, a intimação foi considerada como realizada no dia 21 de janeiro de 2025, e o prazo para interposição de recurso iniciou-se no dia 22 de janeiro de 2025.
+Alinhado a legislação aplicável, verifica-se que o sistema PJE do TRF5 registrou corretamente o termo inicial e final do prazo, veja-se:
+ ..
+Imagem retirada da aba de expedientes do sistema PJE do TRF5.
+Isso considerado, aferiu positivamente a admissibilidade do recurso o Tribunal de Origem, em Decisão de nº FI 378, qual seja:
+ ..
+Posto isto, e verificando que o escoamento do prazo para a interposição do recurso apenas se daria no dia 11 de fevereiro de 2025, constata-se a sua tempestividade (fl. 404/406).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+De fato, houve equívoco na decisão ora embargada, no sentido de que a parte foi intimada em 31.12.2024, circunstância que será devidamente corrigida na fundamentação abaixo.
+Na verdade, como se trata de período de recesso forense (dia não útil, nos termos da Lei n. 5.010/66), a leitura do acórdão recorrido foi no dia 7.1.2025 e a intimação no primeiro dia útil seguinte, ou seja, no dia 8.1.2025 (§ 2º do art. 224 do CPC), e não no dia 31.12.2024 como informado anteriormente.
+No entanto, o recurso permanece intempestivo.
+Impende trazer à fundamentação quatro diferentes pontos que envolvem a verificação da tempestividade em processos durante o período de 20.12 a 20.1, período previsto no art. 220 do CPC.
+O primeiro diz respeito ao que se entende por dia útil. É certo que, com a novel legislação processual, nos termos do art. 219, "na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis".
+Por sua vez, o art. 216 do CPC dispõe que, "além dos declarados em lei, são feriados, para efeito forense, os sábados, os domingos e os dias em que não haja expediente forense, os sábados, os domingos e os dias em que não haja expediente forense".
+Conclui-se, portanto, que, para fins de contagem dos prazos processuais (art. 216 do CPC), somente serão considerados os dias da semana (de segunda a sexta-feira), desde que não sejam feriados e desde que tenha havido expediente forense. Assim, de outra forma, se durante a semana houver algum dia que seja feriado ou que não tenha havido expediente forense, ele se torna um dia "não-útil", para fins de contagem de prazo processual, sendo excluído da respectiva contagem, se devidamente comprovado.
+O segundo ponto diz respeito à suspensão do prazo prevista no art. 220 do CPC. Veja que a redação do referido artigo deixa claro que se trata de suspensão da contagem do prazo, e não que serão considerados dias não úteis. Ou seja, na suspensão do art. 220 do CPC não se aplica o conceito de dia não útil trazido pelo art. 216 do CPC. Essa visão é corroborada pela redação do § 1º do art. 220, o qual diz que " ..  auxiliares da Justiça exercerão suas atribuições durante o período previsto no caput".
+Essa posição está sedimentada nesta Corte no sentido de que "o art. 220 do NCPC apenas suspende o curso dos prazos processuais no período de 20 de dezembro a 20 de janeiro, mas não suspende a prática dos atos, que poderá ser realizada em qualquer dia útil, nos termos dos arts. 212 e 216 do NCPC, não havendo assim, impedimento para a realização da publicação". (AgInt nos EDcl no AREsp 1604573/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 3.9.2020.)
+O terceiro ponto diz respeito ao recesso do final do ano. Para o TJDFT e para os TRFs, o período de 20 de dezembro a 6 de janeiro é feriado previsto em lei federal, ou seja, enquadram-se no conceito de dia não útil previsto no art. 216 do CPC, não podendo, por essa razão, haver publicação/intimação.
+Porém, paras os tribunais estaduais, se houve recesso de final do ano (20/12 a 6/1), tal fato deve ser comprovado nos autos para que esse período deixe de ser de dias úteis para se tornar de dias não úteis.
+Por fim, o último ponto que merece ser esclarecido diz respeito ao período compreendido entre 7 e 20 de janeiro. O CNJ, interpretando o art. 220 do CPC/2015, editou a Resolução n. 244/2016, a qual aduz que, do dia 7 ao dia 20 de janeiro, o expediente forense será executado normalmente (dia útil para todos os efeitos), ou seja, haverá expediente forense e que poderão ser praticados atos não urgentes, assim como a publicação/intimação. A única diferença é que a contagem dos prazos ficará suspensa.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECESSO FORENSE. SUSPENSÃO DOS PRAZOS NO PERÍODO DE 20 DE DEZEMBRO A 20 DE JANEIRO. ATO DE PUBLICAÇÃO OCORRIDA DURANTE O RECESSO FORENSE. NÃO SUSPENSO. DECISÃO MANTIDA. MULTA PREVISTA NO ART. 1.021, § 4º, do CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+2. A jurisprudência desta Corte firmou-se no sentido de que os atos processuais como publicações ocorrem normalmente no período de recesso forense, uma vez que o art. 220 do CPC apenas suspende o curso dos prazos processuais no período de 20 de dezembro a 20 de janeiro, mas não impede a prática dos atos previstos nos arts. 212 e 216 do Código de Processo Civil.
+ ..  4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.285.202/BA, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7/6/2023.)
+EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. ARTS. 219, 1.003, § 5º, E 1.070 DO CÓDIGO DE PROCESSO CIVIL DE 2015. FERIADO LOCAL. COMPROVAÇÃO EM MOMENTO POSTERIOR À INTERPOSIÇÃO. IMPOSSIBILIDADE. ART. 1.003, § 6º DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRECEDENTES. INAPLICABILIDADE DA EXCEÇÃO ESTABELECIDA PELA CORTE ESPECIAL DESTE TRIBUNAL SUPERIOR. PÚBLICAÇÃO OCORRIDA DURANTE O RECESSO FORENSE. POSSIBILIDADE. PRECEDENTES. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO INTERNO CONTRA DECISÃO A QUAL RECONHECEU A INTEMPESTIVIDADE RECURSAL. MANIFESTA INADMISSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É intempestivo o Agravo em Recurso Especial interposto fora do prazo de quinze dias, previsto nos arts. 219, 1.003, § 5º, e 1.070 do estatuto processual civil de 2015.
+III - Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, não se admitindo a comprovação posterior. Precedentes da Corte Especial e das Turmas componentes da 1ª e 2ª Seção.
+ ..  V - A suspensão dos prazos processuais em decorrência de feriado local deve ser comprovada mediante documento idôneo, sendo insuficiente, para tanto, a mera referência, nas razões do recurso, à existência do ato normativo do tribunal de origem. Precedentes.
+VI - Nos termos dos arts. 212 e 216 do CPC/2015 a publicação pode ocorrer no período de recesso forense, porquanto o art. 220 do referido codex apenas suspende o curso dos prazos processuais no período de 20 de dezembro a 20 de janeiro, mas não impede a prática dos atos. Precedentes da 1ª, 2ª e 3ª Turmas desta Corte.
+ ..  X - Agravo Interno improvido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(AgInt no AREsp n. 2.098.990/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 23.9.2022.)
+Sendo assim, voltando para o caso concreto, tendo em vista o período de recesso forense entre os dias 20.12 a 6.1 (dia não útil, nos termos da Lei n. 5.010/66), considera-se que a leitura da intimação ocorreu em 7.1.2025 (fl. 326). Desta forma, a intimação ocorreu no primeiro dia útil seguinte, ou seja, em dia 8 .1.2025.
+Entretanto, conforme ditame do art. 220 do CPC, a contagem dos prazos fica suspensa até o dia 20.1.2025. Dessa forma, o primeiro dia da contagem do prazo se deu no dia 21.1.2025, tendo como o 15º dia útil o dia 10.2.2025, não o dia 11.2.2025, conforme defende o embargante.
+Outrossim, "a sugestão do sistema eletrônico não exonera o Recorrente do seu dever de conhecer e aplicar corretamente a legislação relativa à contagem dos prazos processuais" (AgRg nos EREsp n. 2.067.353/PB, Rel. Ministra Maria Isabel Gallotti, Corte Especial, DJe de 13.9.2024.)
+Veja que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n. 2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+Ante o exposto, acolho os Embargos de Declaração para corrigir o equívoco verificado na decisão de fl. 402, nos termos acima expostos, mantendo, porém, o não conhecimento do recurso (art. 21-E do RISTJ).
+Publique-se.
+Intimem-se.
+ EMENTA
