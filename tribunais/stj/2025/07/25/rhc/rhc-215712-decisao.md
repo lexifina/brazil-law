@@ -1,0 +1,96 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus interposto por PAULO HENRIQUE REIS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG, proferido no julgamento do Habeas Corpus n. 1.000.25.072381-4/00.
+Extrai-se dos autos que o recorrente foi denunciado pela suposta prática dos crimes previstos nos arts. 89 e 90 da Lei n. 8.666/1993 e art. 337-E, CP, tendo a denúncia sido recebida.
+Irresignado, o recorrente impetrou habeas corpus perante o Tribunal de origem, o qual não foi conhecido nos termos do acórdão que restou assim ementado:
+"EMENTA: HABEAS CORPUS - DELITOS PREVISTOS NOS ARTS. 89 E 90, AMBOS DA LEI Nº 8.666/93 - CONTRATAÇÃO DIRETA ILEGAL - INÉPCIA DA DENÚNCIA - CASSAÇÃO DA DECISÃO QUE A RECEBEU - VIA INADEQUADA - ORDEM NÃO CONHECIDA. - A via estreita do habeas corpus, de cognição e de instrução sumárias, não é meio processual idôneo para a análise de matérias processuais. - A decisão que recebe a denúncia não necessita de fundamentação exauriente quanto aos motivos do seu recebimento, uma vez que, tratando-se de declaração positiva do juiz, no sentido de que estão presentes os requisitos fundamentais previstos no art. 41, e ausentes quaisquer hipóteses elencadas no art. 395, ambos do Código de Processo Penal, não há, por conseguinte, falar em violação ao art. 93, IX, da Constituição da República." (fl. 2000)
+No presente recurso, a defesa alega a nulidade do acórdão do TJMG, considerando a insuficiência da sua fundamentação, pois não abordou os temas suscitados no habeas corpus, especialmente sobre a necessidade da demonstração do dolo específico e do prejuízo causado.
+Renova a alegação de inépcia da denúncia pela não delimitação do fato delituoso atribuído ao recorrente.
+Ainda suscita a atipicidade das condutas atribuídas ao recorrente , o que exige o trancamento da ação penal, considerando não ter sido apontada a existência do dolo específico, exigido para os tipos penais indicados.
+Alega, portanto, a ausência de justa causa para o prosseguimento da ação penal.
+Requer o reconhecimento da nulidade o acórdão, com determinação de novo julgamento do HC com apreciação dos temas apontados pela defesa, e, subsidiariamente, pugna pela concessão da ordem de ofício, para rejeitar a denúncia.
+Parecer do MPF opinando pelo não provimento do recurso às fls. 2047/2053.
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente recurso, a declaração de nulidade do acórdão do TJMG e, subsidiariamente, a rejeição da denúncia
+O Tribunal de origem, ao não conhecer o habeas corpus, lançou a seguinte fundamentação:
+"Passa-se à decisão:
+Pois bem, como cediço, o remédio constitucional tem por objetivo impedir violência ou coação, referente ao direito do indivíduo de ir, vir e permanecer, não se prestando para análise de matérias processuais.
+ .. .
+Ademais, importante destacar que a decisão que recebe a inicial acusatória possui natureza interlocutória, motivo pelo qual prescinde de fundamentação aprofundada, conforme exigência do art. 93, inciso IX, da Constituição Federal. Assim, o ato judicial pode ser breve e sucinto, visto que se trata de declaração positiva do Juiz, quanto à presença dos requisitos previstos no art. 41, e de ausência de quaisquer hipóteses elencadas no art. 395, ambos do Código de Processo Penal, havendo precedente do Colendo Superior Tribunal de Justiça neste sentido (AgRg no RHC 121.340/GO, Relator: Min. Reynaldo Soares Da Fonseca, 5ª Turma, D Je 27.50.2020).
+Por fim, registra-se que, in casu, pelo que se depreende dos autos, não há notícia, neste momento, de que o direito de locomoção do paciente se encontra ameaçado, estando, ao que tudo indica, em liberdade." (fl. 2.002)
+No tocante à alegação de nulidade do acórdão pela alegada não manifestação sobre os pontos arguidos no habeas corpus, observo que o acórdão fez abordagem adequada sobre o tema, tendo deixado de conhecer do writ pela inexistência de ameaça ao direito de locomoção do recorrente, como também entende esta Corte:
+AGRAVO INTERNO. HABEAS CORPUS. AUSÊNCIA DE AMEAÇA AO DIREITO DE IR E VIR. NÃO CABIMENTO DA AÇÃO.
+1. O habeas corpus, previsto no art. 5º, inciso LXVIII, da Constituição Federal, é um remédio constitucional de aplicação restrita, destinado à proteção da liberdade de locomoção contra ameaças ou restrições ilegais ou abusivas. Sua finalidade é assegurar o direito de ir e vir, sendo inaplicável à revisão de questões patrimoniais ou processuais desvinculadas de privação de liberdade, em razão de seu caráter excepcional e objetivo.
+2. Agravo interno a que se nega provimento." (AgInt no HC 964736/SP, rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJEN 04/04/2025)(grifei)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PRECEDENTES DO STF E STJ. ENFRENTAMENTO DE QUESTÃO PROCESSUAL NO DECORRER DA AÇÃO PENAL.
+AUSÊNCIA DE RISCO CONCRETO E IMINENTE À LIBERDADE DE LOCOMOÇÃO. INADMISSIBILIDADE DO REMÉDIO CONSTITUCIONAL. NULIDADES JÁ APRECIADAS EM ANTERIOR IMPETRAÇÃO. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo- se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Nos termos do art. 5º, LXVIII, da Constituição da República, a utilização do habeas corpus deve estar atrelada à demonstração, no caso concreto, de ato coator que possa ao menos vir a causar ameaça à liberdade de locomoção do paciente, por ilegalidade ou abuso de poder.
+3. Não se destina o remédio constitucional, como regra, ao enfrentamento de questões processuais examinadas no curso da ação penal, impugnáveis através de instrumentos recursais expressamente previstos em lei, ressalvado, por óbvio, a hipótese em que haja concreto e iminente risco à liberdade de locomoção do indivíduo.
+4. No caso dos autos, não se verifica hipótese de cabimento do habeas corpus, inexistindo evidência de risco iminente ao direito de locomoção do paciente, que, nada obstante condenado por sentença confirmada pela Corte de origem, continua a responder ao processo em liberdade, aguardando o julgamento de recursos especial e extraordinário interpostos por ele e corréus.
+5. Nulidades processuais já afastadas por ocasião do julgamento do HC n. 888.715/SP, impetrado em favor de corréu.
+6. Desprovimento do agravo regimental. (AgRg no HC 874713/SP, rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 20/08/2024)(grifei)
+HABEAS CORPUS. AMEAÇA, DANO QUALIFICADO, ROUBO CIRCUNSTANCIADO, FORMAÇÃO DE QUADRILHA ARMADA E USURPAÇÃO DE ÁGUAS. WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. CONHECIMENTO. IMPOSSIBILIDADE. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. INICIAL QUE DESCREVE SATISFATORIAMENTE A CONDUTA CRIMINOSA ATRIBUÍDA AOS PACIENTES E AOS CORRÉUS. FLAGRANTE CONSTRANGIMENTO À
+LIBERDADE DE LOCOMOÇÃO. INEXISTÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTOS DA CUSTÓDIA CAUTELAR. INFORMAÇÃO NOS AUTOS DANDO CONTA DE QUE TODOS OS ACUSADOS SE ENCONTRAM SOLTOS. PLEITO PREJUDICADO. FLAGRANTE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+1. É imperiosa a necessidade de racionalização do habeas corpus, a fim de preservar a coerência do sistema recursal e a própria função constitucional do writ, de prevenir ou remediar ilegalidade ou abuso de poder contra a liberdade de locomoção.
+2. O remédio constitucional tem suas hipóteses de cabimento restritas, não podendo ser utilizado em substituição a recursos processuais penais, a fim de discutir, na via estreita, temas afetos a apelação criminal, recurso especial, agravo em execução, tampouco em substituição a revisão criminal, de cognição mais ampla. A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão no acervo probatório constante de ação penal.
+3. Busca a impetração o trancamento da ação penal proposta contra os pacientes, ao argumento de inépcia da denúncia, bem como a revogação da prisão cautelar decretada pelo Juízo de primeiro grau, sob a alegação de ausência de fundamentação da custódia.
+4. Cumpre salientar que esta Corte pacificou o entendimento segundo o qual o trancamento de ação penal pela via do habeas corpus é cabível apenas quando demonstrada a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de provas da existência do crime e de indícios de autoria (HC n. 69.718/TO, Ministro Og Fernandes, Sexta Turma, DJe 11/4/2012;
+RHC n. 26.168/MG, Ministra Laurita Vaz, Quinta Turma, DJe 21/11/2011).
+5. Conforme se observa da inicial acusatória formulada pelo Parquet, foram pormenorizadas e atribuídas as mesmas condutas delituosas aos seis denunciados da ação penal.
+6. A situação dos autos trata de nítida hipótese de denúncia geral, pois foram detalhadas e imputadas aos pacientes as mesmas práticas criminosas. Tal possibilidade decorre da inviabilidade de se individualizar a conduta de cada acusado que invadiu, depredou, subtraiu e saqueou as propriedades, bem como ameaçou e expulsou os proprietários e funcionários que ali habitavam.
+7. O mínimo necessário ao exercício do contraditório e ampla defesa encontra-se delineado, uma vez que o Ministério Público estadual, consubstanciado nos depoimentos e no reconhecimento realizado por testemunhas, logrou demonstrar a existência de indícios de serem os pacientes alguns dos supostos autores dos crimes imputados. Se os acusados participaram ou não da empreitada criminosa descrita, ou se participaram do mesmo modo, são questões a serem averiguadas no decorrer da instrução criminal.
+8. O pleito de revogação da custódia cautelar imposta aos pacientes pelo Juízo de primeiro grau, por outro lado, encontra-se prejudicado, ante a notícia nos autos de que todos os acusados se encontram soltos desde agosto de 2009, com alvará de soltura expedido.
+9. Habeas corpus não conhecido. (HC 166730/PA, rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 15/10/2013.)(grifei)
+Destaco, ainda, que o acórdão impugnado brevemente expôs que a decisão que recebe a denúncia pode ser breve e sucinta, sem aprofundamento nas matérias atinentes ao mérito, como também entende esta Corte:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS.
+RECEBIMENTO DA DENÚNCIA. AUSÊNCIA DE OFERTA DE ACORDO DE NÃO PERSECUÇÃO PENAL. RECUSA FUNDAMENTADA PELA ACUSAÇÃO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, alegando ausência de ilegalidade para concessão da ordem de ofício. A defesa busca a reforma da decisão para reconhecer nulidade na decisão de recebimento da denúncia e o oferecimento de acordo de não persecução penal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a decisão de recebimento da denúncia é nula por ausência de análise da intempestividade da representação e se é cabível a determinação judicial para oferta de acordo de não persecução penal.
+III. Razões de decidir
+3. A fundamentação sucinta na decisão de recebimento da denúncia é permitida, não configurando nulidade, pois a análise aprofundada das teses defensivas deve ocorrer durante a instrução processual.
+4. O acordo de não persecução penal não constitui direito subjetivo do investigado e a recusa da propositura pelo Ministério Público, quando fundamentada, não configura ilegalidade.
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: "1. A fundamentação sucinta na decisão de recebimento da denúncia é permitida, não configurando nulidade. 2. A representação da vítima em crimes de ação penal pública condicionada não exige formalidades específicas. 3. O acordo de não persecução penal não constitui direito subjetivo do investigado".
+Dispositivos relevantes citados: CPP, art. 396; CPP, art. 397;
+CF/1988, art. 5º, LV; Lei nº 7.492/1986, arts. 4º, 6º e 10.
+Jurisprudência relevante citada: STJ, AgRg no RHC 163.419/BA, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23.08.2022; STJ, RHC 106.733/RN, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 06.08.2019. (AgRg no HC 952486/SP, rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 02/06/2025.)(grifei)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS
+CORPUS. RECEBIMENTO DE DENÚNCIA. FUNDAMENTAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, no qual se alegava ausência de fundamentação idônea na decisão de recebimento da denúncia, por ser genérica e padronizada.
+2. O agravante sustenta que a decisão de primeiro grau não observou o disposto no artigo 315, § 2º, inciso III, do Código de Processo Penal, utilizando-se de termos idênticos a outros casos, sem análise individualizada.
+II. Questão em discussão
+3. A discussão consiste em saber se a decisão que recebe a denúncia deve conter fundamentação exauriente ou se a fundamentação sucinta é suficiente, considerando a natureza interlocutória do ato.
+4. Outra questão é verificar se a celeridade na análise da resposta à acusação, sem despacho com o magistrado, configura cerceamento de defesa.
+III. Razões de decidir
+5. A decisão que recebe a denúncia possui natureza interlocutória simples e não demanda fundamentação exauriente, evitando a antecipação do mérito, que será apreciado após a instrução criminal.
+6. O Juízo de admissibilidade da acusação requer apenas a verificação de justa causa mínima, consubstanciada em indícios suficientes de autoria e prova da materialidade.
+7. A celeridade na prolação da decisão atende ao princípio da razoável duração do processo, não havendo ilegalidade flagrante a ser corrigida.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: 1. A decisão que recebe a denúncia não exige fundamentação exauriente, dada sua natureza interlocutória. 2. A celeridade na análise da resposta à acusação não configura cerceamento de defesa, desde que respeitados os direitos processuais.
+Dispositivos relevantes citados: CPP, art. 41; CPP, art. 315, § 2º, III; CPP, art. 396; CF/1988, art. 5º, LXXVIII. Jurisprudência relevante citada: STJ, HC n. 320.452/MS, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 17/08/2017. (AgRg no RHC 197261 / SP, rel. Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, DJEN 09/05/2025)
+Desse modo, uma vez que o Tribunal de origem não se debruçou sobre os demais temas abordados pelo recorrente, resta afastada a competência desta Corte Superior para conhecimento as matérias trazidas no recurso, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)(grifei)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)(grifei)
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao presente recurso ordinário.
+Publique-se.
+Intimem-se.
+EMENTA
