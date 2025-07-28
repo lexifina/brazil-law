@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA, com respaldo no permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA local assim ementado (e-STJ fl. 208):
+AGRAVO INTERNO. EXECUÇÃO FISCAL FORÇADA. INÉRCIA DO EXEQUENTE POR PRAZO SUPERIOR A CINCO ANOS. CARACTERIZAÇÃO DA PRESCRIÇÃO INTERCORRENTE. SENTENÇA MANTIDA. INTIMAÇÃO DA FAZENDA PÚBLICA. OBSERVÂNCIA. AUSÊNCIA DE APRESENTAÇÃO DE CAUSA SUSPENSIVA OU INTERRUPTIVA DA PRESCRIÇÃO. MERA REPETIÇÃO DA TESE INSURGENCIAL ANTERIORMENTE REJEITADA. MANUTENÇÃO DA DECISÃO AGRAVADA PELOS SEUS PRÓPRIOS TERMOS. RECURSO DESPROVIDO.
+"Conforme cediço, a prescrição intercorrente configura-se com a falta de interesse do exequente/credor em dar prosseguimento ao feito executivo, permanecendo inerte por lapso temporal, superior àquele previsto em lei para o exercício da cobrança"
+Em suas razões, a parte recorrente aponta violação dos art. 1º e 40º, § 4º, da LEF, além da negativa de vigência aos artigos 921, III, §§ 1º a 5º, e art. 924, V, todos do Código de Processo Civil.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 248/251.
+Passo a decidir.
+Compulsando os autos, verifico que a pretensão recursal não ultrapassa a esfera do conhecimento.
+Ao examinar a suposta inércia da parte exequente, o TJ/PB assentou:
+Destarte, como se observa da decisão acima colacionada, a matéria foi julgada considerando a atual orientação do STJ, conforme entendimento consolidado pela Segunda Seção por ocasião do julgamento do Incidente de Assunção de Competência no REsp n. 1.604.412/SC, que o prazo de prescrição intercorrente, nos processos regidos pelo Código de Processo Civil de 1973, incidirá quando o exequente permanecer inerte por prazo superior ao de prescrição do direito vindicado, devendo o Juiz antes de pronunciá-la, intimar o credor a fim de que possa opor algum fato impeditivo à incidência da prescrição, como nos caso dos presentes autos. (..)
+No caso em disceptação, restando ausente a efetiva citação do devedor e não encontrados bens sobre os quais poderia recair a penhora, os autos foram suspensos na data de 14/01/2015, ficando provisoriamente arquivados até o dia 13/01/2016 (considerado o início do prazo prescricional), tendo o feito ficado paralisado por mais de cinco anos, sem haver sido localizado o executado e, consequentemente, sem satisfação do débito, demonstrando total inércia da parte exequente no que concerne ao andamento processual, mesmo havendo sido oportunizada a manifestação da parte exequente, ocasionando, consequentemente, a consumação da prescrição intercorrente em 12/01/2021.
+Logo, transcorrido o prazo de suspensão, e automaticamente após o lustro prescricional e não demonstrada a ocorrência de qualquer causa interruptiva ou suspensiva da prescrição, a extinção do executivo fiscal não se ressente de qualquer equívoco ou nulidade.
+A prescrição intercorrente se inicia após um ano da suspensão da execução fiscal quando não localizados bens penhoráveis do devedor, de modo que o arquivamento do feito se opera de forma automática após o transcurso de um ano.
+Dessa forma, não há dúvidas da ocorrência da prescrição intercorrente, porquanto verificado que o processo permaneceu paralisado por mais de cinco anos sem qualquer diligência útil por parte da Fazenda Pública para satisfazer seu crédito. (e-STJ fls. 215/218).
+Nesse passo, a modificação do julgado, de modo a afastar o reconhecimento do transcurso do lapso prescricional, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+A propósito do tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ABANDONO PROCESSUAL. EXTINÇÃO. ACÓRDÃO RECORRIDO PELA LEGALIDADE. REVISÃO. EXAME DE PROVA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do art. 485, inc. III, § 1º, do CPC/2015, o magistrado pode extinguir a execução fiscal, na hipótese em que a parte exequente permanece inerte por mais de 30 dias, após a intimação para tomar as providencias necessárias à regular tramitação do processo executivo fiscal. Precedentes.
+3. No caso dos autos, sem reexame fático-probatório, não há como se proceder à revisão do acórdão recorrido, pois o contexto descrito pelo órgão julgador a quo não é suficiente à eventual conclusão pela ilegalidade do ato de extinção do processo executivo. O conhecimento do recurso, portanto, encontra óbice na Súmula 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.771.198/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/2/2025, DJEN de 21/2/2025.)
+(Grifos acrescidos).
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
