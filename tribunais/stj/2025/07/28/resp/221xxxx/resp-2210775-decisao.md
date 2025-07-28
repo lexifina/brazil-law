@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROSENILDO GAZZIERO e ROSIMERE HILARIO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (e-STJ fl. 422):
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO - ILEGITIMIDADE PASSIVA - NÃO DEMONSTRADA - CESSÃO E TRANSFERÊNCIA DAS COTAS DA EMPRESA, PROVAVELMENTE OCORRIDA APÓS A DATA DO AUTO DE INFRAÇÃO - FATOS NÃO DEMONSTRAM COMPROVAÇÃO DE PLANO - AUSÊNCIA DE ELEMENTOS NOVOS A AUTORIZAR A REFORMA DO DECISUM- MERO INCONFORMISMO-AGRAVO INTERNO DESPROVIDO. LIMITANDO-SE A AGRAVANTE A DEMONSTRAR MERO INCONFORMISMO COM A CONCLUSÃO ADOTADA NO DECISUM, SEM APRESENTAR NENHUM FUNDAMENTO NOVO QUE JUSTIFIQUE SUA REFORMA, O NÃO PROVIMENTO DO REGIMENTAL É MEDIDA QUE SE IMPÕE.
+Embargos de declaração rejeitados (e-STJ fls. 450/456).
+Em suas razões, os recorrentes apontam violação dos arts. 17, 339, 355, I, 356, II, 405 e 406, todos do CPC/2015, além dos arts. 2º, 3º e 4º, da Lei n. 9.605/1998, argumentando, em suma, que o contrato social, como documento público, tem força probante suficiente para afastar a necessidade de dilação probatória para atestar que não integravam (os recorrentes) o quadro societário da empresa autuada por infração ambiental, pelo que sua ilegitimidade passiva deve ser reconhecida, afastando-se, por conseguinte, eventual responsabilidade pela reparação do dano ambiental (e-STJ fls. 465/484).
+Contrarrazões às e-STJ fls. 499/504.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 505/508.
+Passo a decidir.
+Em relação à alegada ofensa aos arts. 355, I, 356, II, 405 e 406, todos do CPC/2015 (força probante dos documentos públicos), observa-se, da leitura do acórdão recorrido, que o Tribunal de origem não emitiu juízo de valor sobre o tema que tampouco foi invocado, à luz daqueles preceitos, nos embargos de declaração ali opostos, de modo que, no ponto, o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente.
+Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF, respectivamente:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Quanto à ilegitimidade passiva, o Tribunal estadual entendeu que a matéria reclamava dilação probatória, pois, ainda que o ingresso dos recorrentes no quadro societário tenha ocorrido em 31/ 3/2010, em data posterior aos fatos (julho de 2004), "existem outros documentos nos autos de origem, trazidos à lume pelo Ministério Público que demonstrariam o contrário, sendo indene de dúvidas que esta análise deverá ser feita pelo juízo de origem, com melhores condições para tal mister." (e-STJ fl. 426).
+No aresto integrativo, destacou, ainda, "que, só o fato do documento de 2ª alteração contratual aportado aos autos ter sido confeccionado no ano de 2001 e o reconhecimento de firma ter se dado apenas no ano de 2004, já não há certeza absoluta da não participação dos recorrentes nos fatos descritos como ilícitos." (e-STJ fl. 462).
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEGRADAÇÃO DE ÁREA DE PROTEÇÃO AMBIENTAL. AÇÃO RESCISÓRIA. OFENSA A LITERAL DISPOSITIVO DE LEI. LITISCONSÓRIO PASSIVO NECESSÁRIO. DESNECESSIDADE. NEXO CAUSAL. PRETENSÃO DE MERO REJULGAMENTO DA CAUSA. ILEGITIMIDADE ATIVA AD CAUSAM DA ASSOCIAÇÃO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em demanda objetivando a reparação e a prevenção ambiental, a responsabilidade é solidária e a formação do litisconsórcio passivo é facultativa. Precedentes.
+2. A parte agravante não infirmou, de forma específica, os fundamentos utilizados pelo Tribunal de origem, no sentido de que a irresignação recursal diz respeito ao próprio mérito e execução da ação a respeito da qual se pretende a rescisão, não constituindo tal item requisito inerente aos termos do art. 485 e seus incisos, do CPC/1973. Incide, portanto, a Súmula n. 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+3. Ademais, a modificação das conclusões adotadas pelo Tribunal de origem, de que inexiste qualquer violação a literal dispositivo de lei, a justificar a propositura da presente ação rescisória, ensejaria, inevitavelmente, o reexame fático-probatório dos autos, procedimento vedado, pela Súmula n. 7 desta Corte.
+4. A reversão do entendimento adotado pelo acórdão recorrido sobre a legitimidade ativa da associação demandaria a análise do referido estatuto social, bem como a incursão no conteúdo fático-probatório dos autos, o que é vedado, em sede de recurso especial, em razão dos óbices das Súmulas n. 5/STJ e 7/STJ, respectivamente.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.204.892/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE RECURSAL. INEXISTÊNCIA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Consoante o disposto no art. 966, parágrafo único, do CPC, não se pode conhecer de recurso interposto por quem não seja parte vencida e que não demonstre sua condição de terceiro prejudicado.
+2. A alteração das premissas adotadas pela Corte de origem a respeito da ausência de legitimidade recursal da parte ora agravante demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.140.674/AL, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
