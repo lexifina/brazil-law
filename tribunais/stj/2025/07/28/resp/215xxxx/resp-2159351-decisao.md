@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por F. AB. ZONA OESTE S.A., com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (e-STJ fl. 701):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. FORNECIMENTO DE ÁGUA. TARIFA MÍNIMA MULTIPLICADA POR NÚMERO DE ECONOMIAS. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELO DAS RÉS. A única condenação imposta na sentença foi a obrigação de fazer de instalar o hidrômetro. Contrato de concessão celebrado pelo Município do Rio de Janeiro com a FAB Zona Oeste em 2012, ficando esta responsável pela realização das atividades relativas à gestão comercial, como pelo serviço de abastecimento de água. Reforma da sentença quanto a condenação da CEDAE em relação a obrigação de fazer, que deve ser cumprida pela FAB Zona Oeste. Impugnação da FAB Zona Oeste que deve ser rejeitada, uma vez que não ficou comprovada a impossibilidade técnica de instalação do hidrômetro. Recursos conhecidos, provido o primeiro apelo e improvido o segundo, nos termos do voto do Desembargador Relator.
+Embargos de declaração rejeitados (e-STJ fls. 727/730).
+Em suas razões, a parte recorrente aponta violação dos arts. 489 e 1.022, II, do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, alega vulneração do art. 6º, caput e §1º, da Lei n. 8.987/95, aduzindo, em suma, a impossibilidade técnica de cumprir a obrigação de fazer a qual foi condenada na sentença (instalação de hidrômetro individualizado).
+Sem contrarrazões (e-STJ. fl. 762).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 764/766.
+Passo a decidir.
+Em relação à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, cumpre destacar que a arguição da questão reputada omissa (cerceamento de defesa), apenas nos embargos de declaração e não na apelação (e-STJ fls. 644/648), manifesta inovação recursal, situação em que o Superior Tribunal de Justiça entende não haver violação do citado preceito do CPC/2015 (AgInt no REsp n. 1.426.096/SP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/10/2016, DJe 22/11/2016, e AgRg no Ag n. 1.421.653/AL, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 20/9/2011, DJe 26/9/2011).
+No mérito, observa-se que o comando normativo do art. 6º, caput e §1º, da Lei n. 8.987/95 não serve para respaldar a tese do recorrente e infirmar o fundamento do acórdão atacado, o que atrai a incidência da Súmula 284 do STF.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - É entendimento pacífico dessa Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, ante a ausência de similitude fática entre os julgados confrontados.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido. (AgInt no AREsp 355.507/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/10/2016, DJe 24/11/2016)
+De todo modo , o Tribunal de origem assentou o seguinte sobre o cumprimento da obrigação constante da sentença (e-STJ fl. 705):
+Quanto à impugnação da ré FAB Zona Oeste a mesma não merece acolhida, uma vez que não restou provado a impossibilidade técnica de cumprimento da obrigação.
+Caberia a ré o ônus de comprovar fato modificativo, impeditivo ou extintivo do direito do autor, ônus do qual não se desincumbiu. Destaca-se que a ré informou às fls. 513 que não tinha mais provas a produzir.
+Assim, a condenação imposta à FAB Zona Oeste deve ser mantida.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
