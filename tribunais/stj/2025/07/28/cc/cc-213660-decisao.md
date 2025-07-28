@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 28ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO (SP) e o JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE FORTALEZA (CE), para definir a competência para processamento e julgamento de ação declaratória de nulidade contratual c/c obrigação de não fazer ajuizada por J3 INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE PESCADOS LTDA. e OUTROS, em desfavor de JOSSI RICHARD MORAN e OUTRO.
+O JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE FORTALEZA (CE), no qual a ação foi proposta, declinou de sua competência, de ofício, ao fundamento de que, "analisando os autos, verifico que a parte requerente firmou contrato no qual restou estabelecido o foro de eleição, a Comarca de São Paulo/SP, local onde foi assinado" (fl. 25). Determinou, assim, a remessa dos autos à uma das varas da Comarca de São Paulo (SP), foro de eleição.
+O JUÍZO DE DIREITO DA 28ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO (SP), além de reconhecer que os autores são todos domiciliados em Fortaleza (CE) e que os réus residem em Israel e na França, entendeu que os contratos firmados entre as partes não contêm a referida cláusula de eleição de foro, ao contrário, contêm cláusula elegendo o foro de Fortaleza (CE) e, assim, suscitou o presente conflito (fls. 3-4).
+O  Ministério  Público  Federal  manifestou-se  pelo  conhecimento  e  provimento  do  conflito e pela  declaração da  competência do  Juízo  de  Direito  da  23ª Vara Cível de Fortaleza (CE)  (fls.  44-47).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+A controvérsia cinge-se a definir qual o juízo competente para processar e julgar a ação declaratória de nulidade contratual c/c obrigação de não fazer, considerando a existência de cláusula de eleição de foro nos contratos celebrados entre as partes.
+O Juízo suscitado declinou de sua competência, de ofício, ao fundamento de que havia cláusula de eleição de foro.
+Verifica-se que, no presente caso, não houve uma escolha aleatória do foro, uma vez que, nos termos do art. 53, III, a, do Código de Processo Civil, os autores escolheram a sede de seus domicílios como foro para o ajuizamento da ação.
+Assim, tratando-se de competência relativa, o juízo processante não pode declinar da competência de ofício, a qual somente poderá ser modificada por arguição de incompetência, nos termos do art. 64 do CPC e da Súmula n. 33 do STJ ("A incompetência relativa não pode ser declarada de ofício").
+Nesse sentido, o seguinte precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. ELEIÇÃO DO FORO. COMPETÊNCIA TERRITORIAL. COMPETÊNCIA RELATIVA. DECLÍNIO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33 DO STJ. CONFLITO CONHECIDO PARA DECLARAR O JUIZ DE DIREITO SUSCITADO COMPETENTE PARA O PROCESSAMENTO DO FEITO.
+1. A jurisprudência deste Superior Tribunal de Justiça pacificou que a competência territorial é relativa, sendo restrito às partes a possibilidade de questionamento acerca da (in)competência do juízo onde for proposta a ação, descabendo ser declarada de ofício.
+2. Ainda que assim não o fosse, o autor da ação tem a discricionariedade de eleger, dentro das limitações legais, o foro que melhor atender seus interesses, motivo pelo qual, no caso dos autos, tendo a parte escolhido a sede da pessoa jurídica demandada como foro para o ajuizamento da ação - art. 53, III, a, do Código de Processo Civil - não há que falar em escolha aleatória de foro que justifique o declínio de ofício pelo magistrado, cabendo ao réu, caso entenda ser o caso, apresentar exceção de incompetência.
+3. Conflito conhecido para declarar o Juiz de Direito da 3ª Vara Cível de Brasília - DF, ora suscitado, competente para o processamento do feito. (CC n. 194.898/TO, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 24/4/2024, DJe de 26/4/2024.)
+Ante o exposto, conheço do conflito para declarar competente o Juízo  de  Direito  da  23ª Vara Cível de Fortaleza (CE), o suscitado.
+Comunique-se aos Juízos envolvidos o teor desta decisão.
+Publique-se. Intimem-se.
+EMENTA
