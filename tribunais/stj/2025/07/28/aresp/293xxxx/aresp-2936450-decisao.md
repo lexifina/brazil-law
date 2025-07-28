@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DE MINAS GERAIS e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO-CUMPRIMENTO DE SENTENÇA - AÇÃO DE CONCESSÃO DE PENSÃO POR MORTE - EXCESSO DE EXECUÇÃO - INÉRCIA DO EXECUTADO - PRECLUSÂO CONSUMAT1VA - CONFIGURAÇÃO - REMESSA DOS AUTOS À CONTADORIA - DESNECESSIDADE - RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 535, IV e § 3º, I, do CPC, no que concerne à inocorrência da preclusão, quando demonstrado que o cumprimento de sentença se fez de forma equivocada em relação ao título executivo judicial, ainda que tal demonstração se dê após o prazo do art. 535 do CPC, em conformidade com o princípio da vedação ao enriquecimento sem causa e o princípio da prevalência da coisa julgada, trazendo a seguinte argumentação:
+Entendeu o acórdão recorrido que as normas do art. 535 e seu inciso IV devem ser interpretadas de forma restritiva e isolada, de modo a concluir pela preclusão em face da Fazenda Pública no caso de impugnação além do prazo de 30 dias.
+Em contraposição ao entendimento que prevaleceu no acórdão, entendem os recorrentes que não há falar em preclusão, quando evidenciada e fundamentada a demonstração de que o cumprimento de sentença se fez de forma equivocada em relação ao título executivo judicial, ainda que tal demonstração se dê após o prazo do art. 535 do CPC.
+Com efeito, ao contrário do que entendeu o Tribunal , na verdade, nos termos de orientação pacífica deste Colendo Superior Tribunal de Justiça, O ART. 535 do CPC e seu inciso IV devem ser interpretados não de forma isolada como, data vênia, fez o Tribunal, mas sim no âmbito de uma interpretação sistemática com os princípios e valore que orientam o processo judicial, dentre eles, notadamente, o princípio da vedação ao enriquecimento sem causa e o princípio da prevalência da coisa julgada.
+Fato é que o cumprimento de sentença que eventualmente se faça fora dos limites objetivos do próprio título executivo exequendo implica em violação à coisa julgada, não existindo nas normas do art. 535 e seu inciso IV qualquer orientação ou justificativa para a aplicação do instituto da preclusão em prevalência sobre o instituto da coisa julgada.
+ ..
+Se assim não fosse, toda a fase processual de conhecimento juntamente com o próprio instituto da coisa julgada seriam totalmente vilipendiados e transformados, na prática, em fatos processuais insignificantes diante da aplicação descontextualizada e isolada do art. 535 e seu inciso IV do CPC (fl. 350).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
