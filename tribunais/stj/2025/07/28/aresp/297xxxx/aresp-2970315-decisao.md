@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+DIREITO PROCESSUAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO POR ARBITRAMENTO. RECURSO NÃO PROVIDO. I. CASO EM EXAME . AGRAVO DE INSTRUMENTO INTERPOSTO EM FACE DE DECISÃO QUE INDEFERIU PEDIDO DE1 CONVERSÃO DE CUMPRIMENTO DE SENTENÇA EM LIQUIDAÇÃO POR ARBITRAMENTO. II. QUESTÕES EM DISCUSSÃO 2. NECESSIDADE DA LIQUIDAÇÃO POR ARBITRAMENTO III. RAZÕES DE DECIDIR 3. A CONVERSÃO PRETENDIDA É DESNECESSÁRIA, UMA VEZ QUE A SENTENÇA QUE SE ENCONTRA EM FASE DE CUMPRIMENTO VERSOU UNICAMENTE SOBRE ABUSIVIDADE DE JUROS, E A APURAÇÃO DO MONTANTE A SER RESTITUÍDO PODE SER AFERIDA MEDIANTE CÁLCULOS ARITMÉTICOS. 4. OS TERMOS EM QUE O PEDIDO FOI APRESENTADO SÃO GENÉRICOS, NÃO TENDO SIDO A ELE JUNTADAS PLANILHAS OU CÁLCULOS. IV. DISPOSITIVO 5. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação ao art. 509 do CPC, no que concerne à necessidade de liquidação da sentença, tendo em vista a impossibilidade de apuração do quantum devido por simples realização de cálculos aritméticos, trazendo a seguinte argumentação:
+De pronto, necessário consignar que, diversamente do entendimento exarado pelo Tribunal a quo, a decisão proferida nos autos de origem se trata de decisão ilíquida, visto que foi determinada a revisão da taxa de juros remuneratórios fixada originalmente e a restituição de valores, sendo, portanto, necessária a realização de cálculos complexos para liquidação.
+Por esta razão, ao negar a conversão do cumprimento de sentença em liquidação por arbitramento, entende a Recorrente que houve flagrante violação ao disposto no art. 509 do Código Civil, visto que ao indeferir o pedido de alteração da fase processual de cumprimento de sentença para liquidação de sentença, o Tribunal a quo, com a devida vênia, não se atentou as peculiaridades do caso concreto, mais precisamente a incontroversa necessidade de elaboração dos cálculos por profissional especializado.
+ ..
+Cabe ressaltar que não se trata de simples cálculos aritméticos e que a Recorrente não possui conhecimento técnico ou meios suficientes para realização da referida liquidação conforme sentença (fls. 76-77).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Em casos tais, a jurisprudência desta Câmara tem entendimento no sentido de que a liquidação por arbitramento é desnecessária, já que o valor a ser pago pela executada - bem como eventuais deduções decorrentes de compensação - pode ser aferido a partir de cálculos aritméticos simples (fl. 49).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
