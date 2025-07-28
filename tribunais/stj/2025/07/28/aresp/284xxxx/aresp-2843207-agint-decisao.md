@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão de fls. 691-692 que não conheceu do agravo, porquanto a agravante deixou de impugnar especificamente a aplicação da Súmula n. 83 do STJ, utilizada como fundamento da decisão que inadmitiu o recurso especial.
+O acórdão recorrido foi assim ementado (fl.395):
+APELAÇÃO CÍVEL. TRANSPORTE. AÇÃO DE INDENIZAÇÃO. VALE-PEDÁGIO. 1. Em se tratando de pretensão indenizatória amparada no art. 8º da Lei 10.209/2001, aplicável à espécie o prazo decenal previsto no art. 205 do Código Civil, conforme reconhecido por este órgão fracionário. Sentença desconstituída. Julgamento na forma do art. 1.013 do CPC. 2. Conforme disposições da Lei n. 10.209/2001, a responsabilidade pelo adiantamento do vale-pedágio é do embarcador, isto é, do proprietário originário da carga ou, por equiparação, da empresa de transportes subcontratante. De acordo com a mais recente jurisprudência do Superior Tribunal de Justiça, imperiosa a comprovação, pelo transportador, da existência de praças de pedágio nos percursos relativos aos fretes, além da demonstração da contratação do transporte de carga, de modo a evidenciar a obrigação de antecipação do vale pedágio pelo embarcador, em observância ao ônus probatório previsto no art. 373, I, do Código de Processo. 3. Caso em que a empresa de transporte de cargas, ao comprovar a contratação dos fretes, evidenciou que os terceirizou, tornando-se também responsável pelo adiantamento do vale-pedágio aos subcontratados. Responsabilidade solidária à da embarcadora/contratante que afasta o direito à indenização. No mérito, de rigor a improcedência da pretensão. APELAÇÃO PROVIDA EM PARTE.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte recorrente sustenta a violação dos arts. 3º, §§ 2º e 3º, e 8º, da Lei n.º 10.209/2001.
+Requer que o recurso seja admitido e provido.
+É o relatório. Decido.
+A incidência da Súmula n. 83 do STJ, que serviu de fundamento da decisão que inadmitiu o recurso especial, foi devidamente impugnada, afastando-se, assim, a aplicação da Súmula n. 182 do STJ.
+Constata-se que estão presentes os requisitos de admissibilidade do agravo em recurso especial. Assim, considerando as circunstâncias do caso e a necessidade de uma análise mais detalhada do objeto do recurso especial, é necessário proceder à reautuação do feito.
+Ante o exposto, devidamente impugnada a decisão que inadmitiu o apelo extremo, com fundamento no art. 253, parágrafo único, II, d, do RISTJ, reconsidero a decisão agravada para conhecer do agravo a fim de determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
