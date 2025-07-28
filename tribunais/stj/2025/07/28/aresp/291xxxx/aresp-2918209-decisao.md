@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARCOS RAMOS PACHECO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, a parte recorrente aduz interpretação divergente ao 193, II, da CLT e NR-16, anexo 3, do MTE, no que concerne à possibilidade de pagamento do adicional de periculosidade pelo ente público do Estado ao servidor público estatutário.
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal.
+Confiram-se ainda os seguintes precedentes: AgInt no REsp n. 2.126.160/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 4/9/2024; ;AgInt no AgInt no AREsp n. 2.518.816/DF, relator Ministro Humberto Martins, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.461.770/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 29/2/2024; AgInt no AREsp n. 1.565.020/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 14/8/2020; AgInt no REsp n. 1.832.794/RO, relator Ministra Regina Helena Costa, Primeira Turma, DJe de 27/11/2019; AgInt no AREsp n. 1.425.911/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15/10/2019; AgInt no REsp n. 1.864.804/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7/6/2021.
+Ademais, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática e/ou identidade jurídica entre o acórdão recorrido e aquele(s) apontado(s) como paradigma(s), tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: ;"Ausência de demonstração de dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele apontado como paradigma, já que são diversas as circunstâncias concretas neles delineadas e o direito aplicado" (EDcl no AgInt no AREsp n. 2.256.359/MS, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 21/2/2025).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp n. 1.960.085/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJEN de 21/2/2025; AgInt no AREsp n. 2.679.777/RS, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 12/12/2024; AgInt no AREsp n. 2.562.285/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 29/11/2024; AgInt no AREsp n. 2.666.114/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 30/10/2024; AgRg no AREsp n. 2.047.136/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 3/10/2024; AgInt no AREsp n. 2.451.924/MA, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 5/9/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
