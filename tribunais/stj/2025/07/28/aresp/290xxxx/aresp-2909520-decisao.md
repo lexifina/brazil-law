@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por WASHINGTON LADEIA PRATES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - NOTA PROMISSÓRIA - SÚMULA 387 DO STF. A NOTA PROMISSÓRIA EMITIDA SEM DATA DE VENCIMENTO PODE TER ESSE REQUISITO PREENCHIDO POSTERIORMENTE PELO PORTADOR DE BOA-FÉ, SITUAÇÃO QUE ENSEJA A APLICAÇÃO DO ENTENDIMENTO CONTIDO NA SÚMULA 387 DO STF.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 489, § 1º, IV e VI, do CPC, no que concerne à negativa de prestação jurisdicional, tendo em vista a ausência de manifestação do acórdão recorrido quanto à tese apresentada, trazendo a seguinte argumentação:
+Tratam os autos de Recuso Especial em Apelação Cível por negativa de prestação jurisdicional, não conhecimento de tese, bem como de negativa de demonstração de distinção da tese com jurisprudência apresentada. Trata-se de execução baseada em Nota Promissória preenchida após aproximadamente 10 anos e que a Exequente cobrou valores sabidamente pagos e reconhecidos quitados judicialmente. Por esse motivo, por ter realizado cobrança abusiva, entendeu o Recorrente que não havia boa-fé da Exequente para preencher a Nota Promissória com a data que melhor lhe aprouvesse. Em detida leitura dos Acórdãos percebe-se que não foi analisado esse tema, mas apenas entendido que não haveria prova de má-fé. Ora, a prova da má-fé é exatamente a cobrança de valores que já haviam sido pagos pelo Executado. Valores esses reconhecidos pela r. Sentença de primeiro grau de jurisdição, vejamos (Acórdão Apelação):
+ ..
+Neste sentido ainda, deixaram os r. Acórdão de se manifestar sobre a jurisprudência apresentada, como demonstrado no trecho acima. Ressaltamos que houve um erro material, pois a jurisprudência é do próprio Tribunal Recorrido:
+ ..
+A má-fé reconhecida no precedente é da dilação temporal excessiva, o que também foi alegada e demonstrada nos presente autos. Por isso, entende como diretamente violado o art. 489, § 1º, IV e VI7, do Código de Processo Civil (fls. 147/155).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento do art. 489, § 1º, IV e VI, do CPC, apontado como violado, porquanto não houve o devido e necessário debate a respeito deste(s) dispositivo(s) no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual "ausente o prequestionamento de dispositivos apontados como violados no recurso especial, nem sequer de modo implícito, incide o disposto na Súmula nº 282/STF" (REsp n. 2.002.429/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025).
+Confiram-se ainda os seguintes prec edentes: REsp n. 1.837.090/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 21/3/2025; REsp n. 1.879.371/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgRg no REsp n. 2.103.480/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 7/3/2025; AgRg no AREsp n. 2.491.927/PA, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.112.937/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/2/2025; AgInt no AgInt nos EDcl no REsp n. 1.522.805/RS, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 16/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
