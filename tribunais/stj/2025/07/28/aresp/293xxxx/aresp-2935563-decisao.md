@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FRUTEB S/A EM RECUPERACAO JUDICIAL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. Execução. Repetição dos termos deduzidos na petição que ensejou a decisão agravada, na mesma ordem, com as mesmas palavras e com os mesmos destaques. Falta de impugnação específica.Violação ao princípio da dialeticidade. Inteligência do art. 1.016, inc. II e III, do CPC. Precedentes do C. STJ.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 489, § 1º, II, do CPC, no que concerne à negativa de prestação jurisdicional diante de vícios na fundamentação, trazendo a seguinte argumentação:
+3.2. Nos Embargos de Declaração em Agravo de Instrumento que ensejou a interposição deste Recurso Especial, a ora Recorrente arguiu que o v. Acórdão que inadmitiu o Agravo de Instrumento não explica o motivo concreto da incidência de conceitos jurídicos relativos ao princípio da dialeticidade e à impugnação específica ao caso concreto, o que configura ausência de fundamentação, nos termos do art. 489, §1º, II, do CPC.
+ ..
+3.4. Ocorre, todavia, que muito embora, em geral, a repetição, nas razões recursais, dos termos da petição que ensejou a r. decisão recorrida caracterize falta de impugnação específica, no caso em tela, com a devida vênia, isto não ocorreu, conforme foi demonstrado na Petição de fls. 30/32, cujos argumentos, capazes de infirmar a conclusão do v. Acórdão, não foram enfrentados, mesmo após a oposição de Embargos de Declaração, o que configura falta de fundamentação nos termos do art. 489, §1º, IV, do CPC.
+ ..
+3.16. Diante da peculiaridade do caso em tela, em que a Recorrente se antecipou ao possível fundamento do MM Juízo de 1º grau, demonstrando seu descabimento, o v. Acórdão não poderia alegar ausência de impugnação específica pelo simples fato das razões do Agravo de Instrumento repetir os fundamentos da petição que ensejou a r. Decisão agravada. Era preciso o v. Acórdão explicar o motivo pelo qual teria havido ofensa ao princípio da dialeticidade e/ou ausência de impugnação específica, sob pena de nulidade por ausência de fundamentação, haja vista a aplicabilidade, ao caso em tela, do disposto no art. 489, §1º, II, do CPC (fls. 57/60).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento do art. 489, § 1º, II, do CPC, apontado como violado, porquanto não houve o devido e necessário debate a respeito deste dispositivo no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual "ausente o prequestionamento de dispositivos apontados como violados no recurso especial, nem sequer de modo implícito, incide o disposto na Súmula nº 282/STF" (REsp n. 2.002.429/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.837.090/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 21/3/2025; REsp n. 1.879.371/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgRg no REsp n. 2.103.480/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 7/3/2025; AgRg no AREsp n. 2.491.927/PA, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.112.937/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/2/2025; AgInt no AgInt nos EDcl no REsp n. 1.522.805/RS, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 16/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
