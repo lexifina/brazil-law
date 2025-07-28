@@ -1,0 +1,37 @@
+Decisão: 1. Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça assim ementado (eDOC 4, p. 41-42):
+
+    DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. MANUTENÇÃO. RECURSO DESPROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo a prisão preventiva do agravante, policial civil, acusado de corrupção passiva majorada e lavagem de capitais. 2. Fato relevante. O agravante foi preso em flagrante com considerável quantia em dinheiro, incompatível com seus rendimentos, e é investigado por integrar organização criminosa e praticar corrupção. 3. As decisões anteriores. O Tribunal de origem denegou a ordem de habeas corpus, fundamentando a necessidade de custódia cautelar na garantia da ordem pública e na periculosidade do agravante. II. QUESTÃO EM DISCUSSÃO 4. A questão em discussão consiste em saber se a prisão preventiva do agravante foi decretada com fundamentação idônea, considerando a apreensão de dinheiro e a alegação de condições pessoais favoráveis. III. RAZÕES DE DECIDIR 5. A decisão que decretou a prisão preventiva está devidamente fundamentada na garantia da ordem pública, considerando a periculosidade concreta do agravante e a gravidade das condutas apuradas. 6. Condições pessoais favoráveis, como ocupação lícita e residência fixa, não garantem a revogação da prisão preventiva se há elementos que recomendam a manutenção da custódia cautelar. 7. Não foram apresentados novos argumentos capazes de alterar o entendimento anteriormente firmado, devendo a decisão ser mantida por seus próprios fundamentos. IV. DISPOSITIVO E TESE 8. Agravo regimental desprovido. Tese de julgamento: "A prisão preventiva pode ser mantida quando fundamentada na garantia da ordem pública e na periculosidade do agente, mesmo diante de condições pessoais favoráveis".
+
+    Busca-se, em suma, a revogação da prisão preventiva do paciente – decretada em razão de suposta prática de corrupção passiva, lavagem de capitais e organização criminosa – ou, ao menos, a sua substituição por medidas cautelares menos gravosas, sob o argumento de que, (i) a prisão foi decretada com base na gravidade abstrata do delito de lavagem de capitais; e (ii) a medida cautelar de suspensão do exercício da função pública supostamente evitaria a prática de novos delitos.
+
+    É o relatório. Decido.
+
+    2. O writ não merece prosseguimento, pois, no caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+
+    2.1. Registro já estar assentado na jurisprudência desta Suprema Corte que “Se as circunstâncias concretas da prática do delito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP”(HC 190.028 AgR, Primeira Turma, Relator(a) Min. Rosa Weber, DJe 11.02.2021).
+
+    No mesmo caminho, menciono o HC 204865 AgR, Primeira Turma, Relator(a) Min. Roberto Barroso, DJe 01.12.2021; o HC 206147 AgR, Segunda Turma, Relator(a): Min. Ricardo Lewandowski, DJe 25.10.2021; o HC 202742 AgR, Segunda Turma, Relator(a): Min. Gilmar Mendes, DJe 31.08.2021; e o HC 200927, Primeira Turma, Relator(a): Min. Marco Aurélio, DJe 28.06.2021.
+
+    Nessa quadra, pela documentação que instrui o presente mandamus, nota-se que a custódia prisional foi mantida porque compreendida, à luz das peculiaridades que permeiam o caso concreto, a subsistência dos fundamentos anteriormente exarados para sua imposição – consistente na gravidade concreta do crime, em tese, perpetrado, extraída, sobretudo, do modus operandi aplicado -, a revelar tamanha a periculosidade social do paciente, que inviabilizada a sua resposta em liberdade à persecutio criminis, ao menos nessa fase inicial. É o que se infere do seguinte excerto do ato combatido (eDOC 4, p. 43):
+
+    In casu, verifica-se que a decisão que decretou a segregação cautelar, bem como o acórdão impugnado estão devidamente fundamentados na garantia da ordem pública, notadamente se considerada a periculosidade concreta do agravante "haja vista a apreensão de considerável quantia em dinheiro na residência do autuado, o qual é investigador de polícia e que, portanto, não se coaduna com seus rendimentos mensais. Ademais, verte dos autos que "o autuado é investigado por integrar organização criminosa e pela prática de corrupção"- fl. 173. Consta dos autos que o agravante, na condição de policial civil, teria obtido indevida vantagem econômica cobrando propina, além de supostamente lavar dinheiro, com vinculação com facção criminosa, com apreensão de vultosa quantia em reais e moedas estrangeiras em fundo falso de uma cama- fl. 138.
+
+    Tal como o Superior Tribunal de Justiça, a jurisprudência desta Corte também reconhece tais fundamentos como aptos a justificar, em tese, a medida gravosa, independentemente de juízo preditivo a respeito de eventual reviravolta do caso, que possa vir a fazer instância outra que não as instâncias ordinárias. Assim também, os seguintes julgados: HC 180623, Relator(a) Min. Marco Aurélio, Primeira Turma, DJe 15.05.2020; HC 169014 AgR, Relator(a) Min. Cármen Lúcia, Segunda Turma, DJe 14.06.2019; RHC 146.329 AgR, Relator(a) Min. Roberto Barroso, Primeira Turma, DJe 19.02.2018; RHC 193153 AgR, Relator(a) Min. Ricardo Lewandowski, Segunda Turma, DJe 28.01.2021; HC 172103 AgR, Relator(a) Min. Gilmar Mendes, Segunda Turma, julgado em 25.10.2019; HC 173042 AgR, Relator(a) Min. Cármen Lúcia, Segunda Turma, julgado em 04.10.2019; HC 169311 AgR, Relator(a) Min. Roberto Barroso, Primeira Turma, julgado em 27.09.2019 e HC 174140 AgR, Relator(a) Min. Alexandre de Moraes, Primeira Turma, julgado em 06.09.2019.
+
+    Imperioso destacar ao impetrante que, igualmente, “de acordo com a jurisprudência do Supremo Tribunal Federal, é inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que ampararam a conclusão das instâncias ordinárias” (HC 137695, Relator(a): Min. DIAS TOFFOLI, julgado em 10/10/2016). Nessa linha: RHC 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+
+    Outrossim, a jurisprudência do Supremo Tribunal Federal também é remansosa no sentido de que “Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese” (HC 161960 AgR, Relator(a): Min. Gilmar Mendes, Segunda Turma, julgado em 05.04.2019).
+
+    Atento, pois, aos limites cognitivos do mandamus, verifico que a persistência da ordem de custódia prisional do paciente não se trata de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, de modo que não era mesmo o caso de concessão da ordem.
+
+    3. Diante do exposto, com fulcro no § 1º do art. 21 do RISTF, nego seguimento ao presente habeas corpus.
+
+    Publique-se. Intime-se.
+
+    Brasília, 28 de julho de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
