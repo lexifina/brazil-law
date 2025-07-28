@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por DIEGO GUSTAVO GOMES contra a decisão proferida pelo Tribunal de Justiça de São Paulo que inadmitiu o recurso especial por ele apresentado contra o acórdão prolatado nos autos da Apelação Criminal n. 1502322-67.2022.8.26.0544.
+No recurso especial, a defesa apontou violação dos arts. 155, 156, 157 e 386, VII, e 619, todos do CPP, e 59 do CP (fls. 307/324).
+Inadmitido o recurso na origem (fls. 360/361), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 366/382).
+O Ministério Público Federal opinou pelo conhecimento do agravo para conhecer do recurso especial e dar-lhe provimento (fls. 403/412).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: incidência das Súmulas 7/STJ e 284/STF. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica e clara, a fundamentação atinente à Súmula 7/STJ, limitando-se a afirmar que sua condenação foi mantida com a utilização de suposta confissão informal e divergência no depoimento dos policiais. Assim, não demonstrou de que forma seria possível o acolhimento da defesa, sem importar uma conclusão inversa ao fato de que inexistem indícios de que os policiais tivessem interesse em incriminar o agravante de maneira falsa.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+De ofício, verifico que há ilegalidade na dosimetria. A pena-base foi elevada em razão do art. 42 da Lei de Drogas e pelos maus antecedentes, para 5 anos e 10 meses de reclusão, e 583 dias-multa. Entretanto, a quantidade de drogas, 59 g de crack e 248 g de maconha, não se mostra excessiva a ponto de elevar a pena-base além do piso mínimo, que já foi previsto pelo legislador. Já quanto aos antecedentes, devem ser mantidos, já que a jurisprudência do STJ considera que condenações anteriores transitadas em julgado, mesmo após cinco anos, podem configurar maus antecedentes, não havendo ilegalidade na decisão das instâncias ordinárias que aumentaram a pena-base e negaram o privilégio ao agravante (AgRg no HC n. 993.220/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 4/7/2025).
+Assim, com o afastamento do art. 42 da Lei de Drogas, deverá a pena-base ser redimensionada para 5 anos e 5 meses de reclusão, e 541 dias-multa, mantendo-se a proporcionalidade.
+Na segunda fase, ausentes circunstâncias atenuantes ou agravantes.
+Por fim, na terceira fase, foi reconhecido o privilégio, na fração de 1/2, chegando a pena final a 2 anos, 8 meses e 15 dias de reclusão, e 270 dias-multa.
+Ante o exposto, não conheço do agravo em recurso especial. Concedo ordem de ofício, para redimensionar a pena final do agravante para 2 anos, 8 meses e 15 dias de reclusão, e 270 dias-multa, mantidos os demais termos do acórdão hostilizado.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido. Ordem concedida de ofício, para redimensionar a pena final do agravante.
