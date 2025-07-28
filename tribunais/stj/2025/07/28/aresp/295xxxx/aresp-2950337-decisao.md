@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ITAU UNIBANCO S/A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APRENSÃO - CAPITALIZAÇÃO DIÁRIA DE JUROS - ABUSIVIDADE - DESCARACTERIZAÇÃO DA MORA - SENTENÇA MANTIDA.
+Quanto à controvérsia, a parte recorrente alega violação e divergência de interpretação jurisprudencial do art. 28, § 1º, da Lei n. 10.931/2004, no que concerne à possibilidade de capitalização de juros em periodicidade inferior à anual nos contratos bancários, trazendo a seguinte argumentação:
+O presente recurso insurge-se contra o acórdão recorrido pela alínea a do inciso III do art. 105, CF, por entender que foi violado o seguinte dispositivo de lei federal:
+- Arts. 28, §1º da Lei 10.931/04, por afastar a capitalização de juros em periodicidade inferior à anual prevista em contrato de Cédula de Crédito Bancário.
+O recurso também se insurge em face do acórdão recorrido com fulcro no art. 105, inciso III, alínea c da CF, por divergência com relação às jurisprudências veiculadas no seguinte precedente paradigmático:
+- Recurso Repetitivo REsp nº 973.827/RS, Rel. Min. Maria Isabel Gallotti, 2ª Seção, que assentou ser lícita a incidência de capitalização em periodicidade inferior à anual nos contratos bancários.
+ ..
+Ao assim decidir, o egrégio tribunal de origem violou o art. 28, § 1º da Lei 10.931/04, pois a Cédula de Crédito Bancário é título executivo extrajudicial representativo de dívida em dinheiro, certa, líquida e exigível, na qual poderão ser pactuados os juros sobre a dívida, capitalizados ou não, os critérios de sua incidência e, se for o caso, a periodicidade de sua capitalização.
+ ..
+Como se infere do quadro acima, o acórdão recorrido, embora reconhecendo a expressa pactuação da capitalização mensal e anual, o Tribunal local afastou a capitalização pactuada por ausência de fixação da taxa diária no contrato, e determinou a descaracterização da mora.
+Já no paradigma repetitivo, essa C. Corte reconheceu que o intervalo da capitalização poderá ser expressamente definido pelas partes, que podem convencionar a capitalização semestral, mensal, diária, desde que expressamente pactuada conforme se infere das teses definidas (fls. 153156).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 284/STF, tendo em vista que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do Recurso Especial não se particularizou o inciso sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas.
+Nesse mesmo sentido: "Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois, nas razões do recurso especial, não se particularizou o parágrafo/inciso/alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 1.558.460/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 11.3.2020.)
+De igual sorte: "A ausência de particularização dos incisos do artigo supostamente violado, inviabilizam a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro" (AgRg no AREsp n. 522.621/PR, Rel. ;Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 12.12.2014.)
+Confiram-se também os seguintes julgados: AgInt no AREsp n. 1.229.292/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4.9.2018; AgInt no AgRg no AREsp n. 801.901/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 1º.12.2017; AgInt nos EDcl no AREsp n. 875.399/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º.8.2017; AgInt no REsp n. 1.679.614/PE, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 18.9.2017; e AgRg no REsp n. 695.304/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJ de 5.9.2005; EDcl no AgRg no AREsp n. 1.962.212/PA, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15.2.2022.
+No mais, o Tribunal a quo se manifestou nos seguintes termos:
+Dessa feita, no caso em comento, a capitalização em periodicidade inferior a mensal é permitida e devida, desde que pactuada, em razão das disposições legais acima transcritas.
+No caso dos autos, extrai-se do contrato firmado entre as partes a contratação da capitalização de juros na periodicidade diária, senão vejamos:
+ ..
+Contudo, em que pese previsão contratual, o contrato não dispôs a indicação da taxa diária de juros, o que configura a abusividade da cobrança, uma vez que da forma como redigida, não se faz possível que o consumidor saiba qual a taxa de juros diária efetivamente aplicada no contrato.
+ ..
+Assim, uma vez reconhecida a abusividade em encargo cobrado no período da normalidade, há a descaracterização da mora do devedor, conforme entendimento firmado pelo C. STJ no julgamento do REsp nº 1.061.530-RS, in verbis:
+ ..
+Por conseguinte, em sendo a mora pressuposto de constituição e desenvolvimento válido e regular da ação de busca e apreensão, sua descaracterização impede a reforma da sentença almejada pela parte autora (fls. 144/149)
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 9.10.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3.10.2019; AgInt no AREsp 1.165.518/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.10.2019; AgInt no AREsp 481.971/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25.9.2019; AgInt no REsp 1.815.585/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 23.9.2019; e AgInt no AREsp 1.480.197/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 25.9.2019.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.5.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19.12.2019; AgInt no AgInt no REsp 1.731.585/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 26.9.2018; e AgInt no AREsp 1.149.255/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 13.4.2018.
+Ante o exposto, com base no art. 2 1-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
