@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DALILA DOS SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO DE REINTEGRAÇÃO DE POSSE - GRATUIDADE PROCESSUAL - ART. 5º,LXXI " DA CONSTITUIÇÃO FEDERAL - ARTS. 98 E 99 "CAPUT" E §3º DO CÓDIGO DE PROCESSO CIVIL - ELEMENTOS QUE INFIRMAM A DECLARAÇÃO DE PENÚRIA APRESENTADA - AUSÊNCIA DE PROVAS DA SUPOSTA IMPOSSIBILIDADE FINANCEIRA - RECURSO IMPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne à necessidade de deferimento da benesse da gratuidade de justiça à parte recorrente, porquanto, conforme comprovado nos autos, não possui condições de arcar com as despesas decorrentes do processo, além de a declaração de hipossuficiência contar com presunção relativa de veracidade, não havendo prova em contrário, trazendo a seguinte argumentação:
+Conforme se extrai do texto da lei, a alegação de insuficiência deduzida por pessoa natural é presumidamente verdadeira, cuja qual só pode ser elidida em contrário pelo Juiz, quando houver elementos nos autos que evidenciem a falta dos pressupostos legais.
+Sendo assim, o Juiz não pode, de ofício, requerer que a recorrente comprove sua situação econômica, sendo que sua própria alegação já basta como comprovação.
+Por outro lado, caso a recorrida ti vesse anexado nos autos qualquer elemento que evidenciasse condição econômica diversa da alegada pela recorrente, justificaria o requerimento de comprovação da justiça gratuita realizado pelo Magistrado, contudo, não foi o caso dos autos.
+Sendo assim, todos os atos praticados inerentes a comprovação da situação econômica da recorrente são nulos, uma vez que precedidos de ofensa legal a Lei Federal.
+Entretanto, se assim não fosse, ficou comprovado nos autos a situação econômica à qual a recorrente se encontra.
+Isto porque foi juntado sob fls. 60/71 dos autos, o RG dos seus dependentes: Arthur dos Santos Oliveira (filho) e Leticia Regina dos Santos que se encontra sob sua guarda conforme documento de fls. 35.
+ ..
+Assim, não havendo prova em contrário da alegada hipossuficiência o comando do art. 99 do CPC, é de que de ofício será deferida a assistência judiciária.
+Dessa forma, restou amplamente demonstrada a necessidade de concessão do benefício da assistência judiciária ao Recorrente, uma vez que a lei prevê devidamente sua concessão, além desta ter devidamente comprovado que está passando por serias dificuldades (fl . 125).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Não obstante, os documentos juntados no presente agravo e nos autos de origem não refletem a insuficiência da renda alegada.
+As presentes razões recursais não infirmam a r. decisão agravada, considerando que, tanto no presente recurso de agravo, quanto nos autos de origem, não há documentação suficiente a comprovar a hipossuficiência.
+Frise-se que naquela origem há unicamente a declaração de pobreza (fls. 53), a declaração de patrocínio pro bono da causa (fls. 54), além de cópia digital da CTPS da agravante, recebendo a remuneração de R$ 3.399,22 (três mil trezentos e noventa e nove reais e vinte e dois centavos).
+Afastada por auxílio-doença pelo INSS, a agravante recebe benefício no valor de R$ 5.663,88 (cinco mil seiscentos e sessenta e três reais e oitenta e oito centavos (fls. 59/62). Considerando, ainda, que o referido auxílio acidentário é pago no percentual de 91% da remuneração, percebe-se que os vencimentos reais da agravante, que não apresentou seu holerite, chegam a quase R$ 6.000,00 (seis mil reais) mensais.
+Assim, efetivamente, a agravante não muniu os autos de origem nem este recurso com dados concretos acerca da privação de condições de recolher as custas processuais, sem lhe ceifar recursos indispensáveis à subsistência digna, não obstante o valor da causa ter sido emendado para aproximadamente R$ 70.000,00 (setenta mil reais) (fls. 324).
+ ..
+Assim, há ausência, nos autos, de elementos que evidenciem, o pressuposto legal para a concessão da benesse que exige, repita-se, "insuficiência de recursos".
+ ..
+Há que se ter presente que o incômodo financeiro não se confunde com a hipossuficiência alegada, não demonstrada com êxito pela agravante (fls. 114-115).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
