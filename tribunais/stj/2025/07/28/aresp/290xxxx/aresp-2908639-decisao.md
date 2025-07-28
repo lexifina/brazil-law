@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por TIAGO JOSE DE OLIVEIRA GOMES e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. RESCISÃO CONTRATUAL UNILATERAL. MULTA CONTRATUAL. ALEGAÇÃO DE NULIDADE NA CITAÇÃO POR EDITAL. IMPOSSIBILIDADE. ESGOTAMENTO DOS MEIOS DISPONÍVEIS DE LOCALIZAÇÃO DO ENDEREÇO DO RÉU. OBSERVÂNCIA DA REGRA PREVISTA NO ARTIGO 231, II, DO CÓDIGO DE PROCESSO CIVIL ENTÃO VIGENTE. AUSÊNCIA DE NULIDADE DA CITAÇÃO. DISPENSA DE RECOLHIMENTO DO PREPARO PELA DEFENSORIA PÚBLICA, NO EXERCÍCIO DA CURADORIA ESPECIAL. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 256, § 3º do CPC/15 e art. 231 do CPC/73, no que concerne à nulidade da citação por edital, tendo em vista que não foram esgotados todos os meios de sua localização, trazendo a seguinte argumentação:
+Em verdade, busca-se assegurar a nulidade da citação por edital, porquanto ausente a comprovação do esgotamento das tentativas de citação previstas nos dispositivos tidos por violados, tendo em vista que se trata de defesa apresentada por meio de curadoria especial. Em síntese, este E. Tribunal não reconheceu a nulidade absoluta da citação por edital por entender que, os requisitos ensejadores da citação por edital apresentam-se configurados, não sendo hipótese de erro de procedimento na forma sustentada no recurso. Contudo, tais razões não merecem prosperar.
+ ..
+Assim, considerando que restou impossibilitada a citação pessoal do requerido, entendeu ser viável a citação por edital. Contudo, deixou de observar o comando estabelecido no art. 256, §3º do CPC/15.
+ ..
+A citação por edital realizada no presente caso está eivada de nulidade, afinal foi realizada sem que se fizesse o esforço necessário na tentativa de localizar o atual endereço da pessoa jurídica.
+ ..
+Assim, é nula a citação por edital por não ter sido ao menos buscada a localização do atual endereço da parte requerida para fins de sua citação pessoal.
+ ..
+Nesse sentido, o Código de Processo Civil é claro em seu artigo 256, §3º, quando determina, mediante o uso da palavra "inclusive", que a requisição e expedição de ofícios aos órgãos públicos e concessionárias de serviços públicos, com o intuito de obter informações sobre o endereço da parte requerida, é medida necessária/obrigatória antes de conceber a citação por edital, o que não aconteceu no caso em testilha.
+ ..
+Nessa hipótese, a Lei Processual vigente expõe de forma categórica quanto à responsabilidade do recorrido no empenho de requerer ao juízo a expedição de ofícios aos órgãos públicos e concessionárias de serviços públicos com a finalidade de se obter informações sobre o endereço da parte ré, ora recorrente.
+Portanto, não houve esgotamento de todas as diligências possíveis para localização da parte, ao arrepio do que determina o §3º do artigo 256 do Código de Processo Civil: (fls. 163/172).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O chamamento do réu ao processo se dava por diversas modalidades, como pelos Correios, oficial de justiça, edital e, também, através de meio eletrônico, nos termos do art. 221 do CPC/73. No caso concreto, a citação foi efetivada por edital, uma vez que o réu não logrou ser localizado no endereço fornecido pela parte autora.
+Contudo, deve-se observar que um dos integrantes da Comissão de Formatura, Guilherme Barreto de O. Ribeiro, conforme consta às fls. 68/69 dos autos, foi devidamente citado.
+Ademais, em relação à outra integrante da Comissão de Formatura, Hélvia Madeiro Fontes Galvão, consta na certidão do Oficial de Justiça (fl. 74), que foi atestada por sua própria genitora que, em vez de declinar seu endereço, declarou que a filha se encontrava na cidade de São Paulo/SP fazendo residência médica.
+ ..
+Contudo, adotado como parâmetro o CPC de 1973 ou o de 2015, tem-se que, no caso em tela, é notória a tentativa de localização do endereço do réu, devendo também levar em consideração as informações prestadas presencialmente ao Oficial de Justiça, não sendo razoável que a parte exija a consulta a todos os sistemas existentes para, que só então, se proceda à citação por edital.
+Frise-se, ainda, que a regular citação da parte ré interessava, muito mais, à própria demandante, que tem como pretensão não apenas que se decl are o débito, mas que seja possível efetivamente executá-lo (fls. 156/158).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
