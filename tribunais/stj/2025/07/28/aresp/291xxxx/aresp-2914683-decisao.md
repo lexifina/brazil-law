@@ -1,0 +1,79 @@
+DECISÃO
+Cuida-se de Agravo apresentado por OTAVIO AUGUSTO MACIEL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - REVOGAÇÃO JUSTIÇA GRATUITA - PESSOA JURÍDICA - IMPRESCINDIBILIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA - COMPRA E VENDA DE IMÓVEL - APLICAÇÃO CDC - ATRASO NA ENTREGA DA OBRA - VÍCIOS DA CONSTRUÇÃO - DESCUMPRIMENTO CONTRATUAL - MERO DISSABOR CONSTATADO - ABALO PSÍQUICO OU DE OUTRA ORDEM MORAL NÃO - DANOS MORAIS NÃO CARACTERIZADOS
+"FAZ JUS AO BENEFÍCIO DA JUSTIÇA GRATUITA A PESSOA JURÍDICA COM OU SEM FINS LUCRATIVOS QUE DEMONSTRAR SUA IMPOSSIBILIDADE DE ARCAR COM OS ENCARGOS PROCESSUAIS". CONFORME A JURISPRUDÊNCIA DO STJ, A CONCESSÃO DO BENEFÍCIO DE GRATUIDADE DA JUSTIÇA A PESSOA JURÍDICA SOMENTE É POSSÍVEL QUANDO COMPROVADA A PRECARIEDADE DE SUA SITUAÇÃO FINANCEIRA, INEXISTINDO, EM SEU FAVOR, PRESUNÇÃO DE INSUFICIÊNCIA DE RECURSOS. A RESPONSABILIDADE DA CONSTRUTORA É OBJETIVA. PARA QUE SEJA DEFERIDA INDENIZAÇÃO POR DANOS MORAIS É NECESSÁRIA DEMONSTRAÇÃO DE QUE A SITUAÇÃO EXPERIMENTADA CAUSOU DOR, VEXAME, SOFRIMENTO OU CONSTRANGIMENTO PERANTE TERCEIROS. - OS ALEGADOS VÍCIOS NA CONSTRUÇÃO, NÃO GERAM, POR SI SÓ, OFENSA AOS DIREITOS DA PERSONALIDADE. - OS MEROS E PASSAGEIROS ABORRECIMENTOS COTIDIANOS, QUE NÃO CAUSEM MAIORES CONSEQUÊNCIAS AO POSTULANTE, SEM DOR, OFENSA À PERSONALIDADE, HONRA OU BENS JURÍDICOS EQUIVALENTES, NÃO CONFIGURAM DANO PASSÍVEL DE INDENIZAÇÃO (fl. 2.384).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 4º, II, d, 6º, III e VI, e 54 do CDC, no que concerne ao direito à indenização por danos morais em razão de atraso em entrega de obra, cuja data de início não possui clareza no contrato de adesão e deve ter interpretação mais favorável ao aderente, e em face da existência de diversos vícios na construção, trazendo a seguinte argumentação:
+A questão da entrega da unidade habitacional foi expressamente prevista na cláusula 10 do contrato entabulado entre as partes - "DO PRAZO PARA CONCLUSÃO DA OBRA E ENTREGA DA UNIDADE HABITACIONAL", na qual se estipulou o prazo de 48 meses a contar a partir do início da obra, com um período de carência de mais 06 (seis) meses, conforme prerrogativa legal - não incluindo neste período os atrasos decorrentes de caso fortuito ou força maior.
+ ..
+Nesta toada, diante da falta de clareza e objetividade, há de se aplicar o princípio da interpretação mais favorável ao aderente, consistindo em norma de ordem pública, que não pode ser afastada.
+Se no contrato não havia estipulação da data ou do evento específico em que a obra teria seu início, para, a partir daí, iniciar-se o prazo de contagem, a melhor interpretação é aquela no sentido de que a seria a data de obtenção do primeiro alvará.
+Por conseguinte, se a obra teve seu início quando da expedição do primeiro alvará (julho/2014) e as chaves da unidade habitacional somente foram entregues em 11.02.2019, resta demonstrado o atraso na entrega do apartamento ao Recorrente.
+ ..
+Ora, ao se considerar data outra, em especial, a data mencionada pela Recorrida ou por seus prepostos, estar-se-á permitindo à Construtora postergar e definir, a seu talante e indefinidamente, a data de início da obra, deixando ao seu livre arbítrio o prazo para entrega da unidade habitacional - o que nem de longe se admite.
+ ..
+E, em sendo aplicável a data do primeiro alvará apontado pelo consumidor/Recorrente, por óbvio, resta demonstrado o atraso na entrega da unidade imobiliária pela construtora. Por conseguinte, cabível a reparação dos danos morais suportados pelo adquirente.
+ ..
+É de se ver, pois, o Recorrente demonstrou satisfatoriamente ao menos alguns dos vícios por ele apontados, comprovação essa admitida expressamente no acórdão ora recorrido.
+Por conseguinte, teria então o consumidor/adquirente direito à efetiva prevenção e reparação de danos patrimoniais e morais, nos moldes previstos nos dispositivos supra mencionados - o que não obteve com o decisum. Caracterizada, pois, a evidente violação ao dispositivo legal (fls. 2.418/2.422).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Na solução do caso em julgamento, interessa destacar os princípios a vulnerabilidade do consumidor (art. 4º, I) e a garantia dos produtos e serviços com padrões adequados de qualidade, segurança, durabilidade e desempenho (art. 4º, II, d), sendo reconhecidos em favor do consumidor direitos básicos: proteção à segurança (art. 6º, I), informação (art. 6º, III) e efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos (art. 6º, VI).
+A pretensão da reparação civil ao argumento do requerente ter sofrido danos materiais devido ao descumprimento contratual pela requerida e ainda, à sua integridade física, honra e imagem em decorrência desta conduta, somada ao atraso na entrega da obra.
+A responsabilidade civil traduz o de ver de reparar o prejuízo em consequência de ofensa causada a um direito alheio. Os requisitos para que o causador do dano seja responsabilizado estão expressos no Código Civil que assim estabelece:
+
+Destarte, aquele que causar dano a outrem tem dever de repará-lo.
+ ..
+Afirma o apelante a ocorrência do atraso na entrega da obra causando transtornos e despesas porque entregou o apartamento em que residia na cidade de São Paulo na data prevista de entrega da obra, conforme afirmado pela requerida, qual seja, abril de 2019. Mas somente recebeu as chaves de seu imóvel em fevereiro de 2020.
+Percebe-se que a grande divergência dos autos consiste na data que se iniciou a obra para calcular se houve ou não descumprimento do prazo previsto no contrato de 48 (quarenta e oito) meses mais 6 (seis) meses.
+O requerente afirma que a obra iniciou em junho de 2014 após a concessão pela Prefeitura de autorização para remoção de terra do terreno e alvará de construção, já a requerida afirma ter sido em junho de 2015, após a desocupação do imóvel por terceiro (conforme acordo acostado aos autos na ação de despejo ajuizada contra o locatário do terreno) e expedição de novo alvará de construção pela Prefeitura.
+Oportuno salientar ainda que, consoante distribuição do ônus da prova prevista no artigo 373 do Código de Processo Civil, cabe ao autor a prova dos fatos constitutivos do direito invocado e para a ré, dos fatos extintivos, impeditivos ou modificados do direito do demandante.
+ ..
+Todavia, o autor não conseguiu fazer prova de suas alegações de que a obra tenha iniciado em 2014.
+A testemunha João Admilson Garcia Corini, primeiro comprador do imóvel em questão, afirma que: "o dia de assinar o contrato não recorda, mas que foi final de novembro de 2015 por aí, perto do seu aniversário; que quando foi oferecido o negócio ele costuma ir visitar o local e viu que tinha uns tapumes que estavam sendo colocados, e algumas estacas, a obra estava se iniciando, quando assinou o contrato."
+Além disso, não está evidenciado que o embargo da obra após a ocorrência do acidente de trabalho tenha afetado a entrega do imóvel.
+Ainda que a prova testemunhal não seja robusta, foi a única de fato que conseguiu demonstrar, ainda que de forma parcial, um período para o início das obras.
+Do contrato (cláusula) 10 infere-se que o prazo para a conclusão da obra era de 48 meses a contar do início da obra, com uma carência de seis meses, conforme prerrogativa legal.
+Considerando que a obra teve início em novembro de 2015, o prazo de 48 (quarenta e oito) meses encerrou-se em novembro de 2019. Acrescentando seis meses de tolerância a essa data, o termo final seria maio de 2020.
+Uma vez que o termo de vistoria (doc. Ordem 77) foi assinado em fevereiro de 2020, não há se falar em atraso.
+Indemonstrado o alegado atraso na entrega da obra, não há se falar em dano a ser reparado.
+Importa mencionar que o fato de o promitente vendedor ter descumprido o prazo previsto no contrato para a entrega do imóvel não acarreta, por si só, danos morais.
+O entendimento tem sido no sentido de para que seja consumada condenação por danos morais em caso de atraso na entrega do imóvel é necessária a ocorrência de uma significativa e anormal violação a direito da personalidade do adquirente.
+No caso, além de o autor não ter comprovado a data de início da obra, de forma a comprovar o atraso alegado, também deixou de indicar circunstâncias excepcionais que importassem violação ao direito da personalidade apta a ensejar a indenização pretendida.
+Para que seja consumada condenação por danos morais em caso de atraso na entrega do imóvel é necessária a ocorrência de uma significativa e anormal violação a direito da personalidade do adquirente, o que não ocorreu. Pelo menos, não se provou. Posto isso, não há que ser indenizado por esse motivo. Ausente dano moral. Ademais, a Justiça há de estar atenta para não macular ou enfraquecer o instituto dando guarida a pretensões oportunistas.
+ ..
+No tocante aos vícios de construção alegado, ainda que alguns deles estejam comprovados, não vislumbro ato ensejador de indenização por danos morais. Vejamos:
+O requerente afirma que a rampa de acesso à garagem apresenta inclinação excessiva, dificuldade de estacionar em razão da faixa de circulação, imóvel sem instalação completa de equipamentos de combate a incêndio, alarme disparando, quinas de pastilhas defeituosas, vazamento de sifão, entupimento de vaso sanitário, dificuldade de abrir e fechar janela/porta, folga na porta do banheiro; maçaneta frouxa; rachaduras e infiltrações na garagem;
+Infere-se que quando da primeira vistoria o requerente apenas apontou vícios quanto ao rejunte das quinas, conferência do sifão, retoque da mureta e observações quanto ao forro e a pintura (doc. Ordem 77)
+ ..
+O síndico declara, à ordem 81, que as solicitações relacionadas às trincas na garagem do G2 e G3, disparo no alarme de incêndio, no 7º andar, desagregação de concreto em alguns elementos estruturais, tubulação amarrada com arame, iluminação da garagem, permanência de luzes acessas sem a presença de pessoas foram sanadas.
+O documento de ordem 82 também demonstra que a construtora está tem atuado na solução
+O orçamento de ordem 157 e a ação de ordem 161 a 165 não são suficientes para comprovar os vícios alegados.
+Importa mencionar que o imóvel foi entregue em 2019 e que os orçamentos são de 2024. Logo, não é possível, sem a devida dilação probatória, inferir que os vícios são de construção e por falha na prestação de serviço da recorrida.
+Assim, ausente prova do vício alegado quando da entrega do imóvel, não há como reconhecer falha na prestação de serviço da construtora.
+Quanto ao sistema de fornecimento de aquecimento de água observa-se pelo contrato de ordem 32 que o autor não contratou esse serviço.
+ ..
+No item B, da cláusula 3, nominada do objeto, inclusive consta a seguinte observação:
+ ..
+Logo, não há se falar em descumprimento contratual ou indenização por danos morais.
+Por fim, quanto à diferença da metragem do apartamento, tampouco há prova suficiente nesse sentido.
+A cláusula 02 do referido contrato dispõe o seguinte:
+ ..
+O recorrente apresentou um laudo elaborado por um arquiteto contratado particularmente, em que relata ter o imóvel 66,11m2 (doc. Ordem 53). Esse laudo não foi produzido sob o crivo do contraditório. Por sua vez, o apelado, em contraposição ao alegado pelo recorrente apresentou, à ordem 84, avaliação de apartamento equivalente, no mesmo edifício, comprovando que o imóvel apresenta a metragem apontada no contrato.
+Assim, nos termos do art. 373 do CPC caberia ao autor comprovar as suas alegações. Todavia, , instado sobre a produção de outras provas quedou-se inerte. Deixou de produzir prova no sentido de comprovar a alegada diferença na metragem.
+No caso, não emergem razões para reconhecer ofensa à esfera extrapatrimonial do requerente e deferir a pretensão de compensação por danos morais. A situação narrada não apresenta perspectiva de dano aos direitos da personalidade do autor merecedor da almejada reparação pecuniária, notadamente porque não está comprovado que houve ofensa à honra, reputação ou dignidade do apelante.
+Nada se demonstra como efeito que implicasse em dano moral efetivamente. Nada de palpável há no sentido de abrigar a pretensão exordial no que tange ao dano moral. A sensibilidade subjetiva do postulante não se adequa aos requisitos sociais que consumam um dano moral reparável.
+Ademais, não se pode afirmar que os danos morais são presumidos. Analisando o caso concreto, verifico eventualmente singelo aborrecimento, nada além do comum na vida cotidiana.
+Com efeito. Não é qualquer fato contrário à vontade da pessoa que se concretiza como dano moral. Dano moral tem no cerne a palavra dano. E há de ser considerado pelo contexto geral. A intensa sensibilidade subjetiva de uma pessoa que alega "abalos psíquicos e morais" não pode ser considerada senão em termos sociais de convivência, sob pena de qualquer contraposição à vontade ser intimamente tachada de abalo psíquico e moral indenizável. Não se pode, por outro lado, alimentar aventuras jurídicas ou impossibilidade de convivência social serena , ao ponto de que qualquer descontentamento, mínimo que seja, gere uma demanda.
+Por outro lado, é de se destacar. Ainda que se considere inobservância de disposição presente no pacto, o STJ já deixa claro que o simples inadimplemento contratual, desacompanhado de prova de efetiva lesão a qualquer projeção da personalidade, não configura dano moral:
+ ..
+Portanto, a sentença não merece reforma, devendo permanecer como lançada (fls. 2.393/2.406).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido: "A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior" (AgInt no AREsp n. 2.616.315/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 16/10/2024).
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.754.542/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.511.934/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024; AgInt no AREsp n. 2.426.291/RJ, relator Ministro Humberto Martins, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.057.498/TO, relator Ministro Humberto Martins, Segunda Turma, DJe de 30/3/2023; AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022; AgInt no AREsp n. 1.966.714/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 21/11/2022; AgInt no AREsp n. 2.031.975/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
