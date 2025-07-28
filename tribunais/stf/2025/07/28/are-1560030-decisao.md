@@ -1,0 +1,57 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Elza Peres Cruz, em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, conforme a seguinte súmula de julgamento:
+
+    “Acordam os Juízes que compõem a Segunda Turma Recursal Fazendária, por unanimidade, em conhecer do recurso e dar-lhe provimento, para cassar a decisão concessiva da tutela provisória de urgência e determinar o retorno dos autos ao JEFAZ de origem para que extinga o processo sem resolução do mérito, face à incompetência absoluta do JEFAZ em razão do valor da causa, à conta dos seguintes fundamentos:
+
+    1) conforme pesquisa na internet, a caixa do medicamento com sessenta cápsulas, o que, de acordo com a prescrição médica do agravado, é o suficiente para um mês, custa, em média, mais de quinze mil reais, como se observa nos links
+
+    https://www.drogariasaopaulo.com.br/ofev-150mg-boehringer-60-capsulas-moles/p,
+
+    https://www.drogariaspacheco.com.br/ofev-150mg-boehringer-60-capsulas-moles/p, e
+
+    https://www.panvel.com/panvel/ofev-150mg-60-capsulas/p-469590, apenas a título de exemplo;
+
+    2) considerando-se o critério previsto no art. 292, § 2º, do CPC, tem-se que o valor da causa deve ser o duodécuplo do valor de cada caixa do medicamento, já que, consoante a prescrição médica, o autor deve fazer uso do medicamento para o resto da vida, o que ultrapassa, em muito, o valor equivalente a sessenta salários mínimos;
+
+    3) o Enunciado nº 47 das Jornadas de Direito da Saúde do Conselho Nacional de Justiça prevê que "não estão incluídos na competência dos juizados especiais os casos em que se pretende o fornecimento de medicamento e/ou tratamento cujo custo total, quando passível de estimação, e anual, em tratamentos continuados por tempo indeterminado, supere o limite da competência dos referidos juizados. (Redação dada pela III Jornada de Direito da Saúde - 18.03.2019)";
+
+    4) a jurisprudência do Superior Tribunal de Justiça é firme no mesmo sentido, como se observa nos seguintes julgados: "Nos termos da jurisprudência do Superior Tribunal de Justiça (a) "as causas relacionadas a fornecimento de medicamentos ATÉ 60 SALÁRIOS MÍNIMOS submetem-se ao rito dos Juizados Especiais, não sendo a necessidade de perícia argumento hábil a afastar a referida competência" (STJ, AgRg no REsp 1.469.836/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/03/2015)" (AgRg no REsp nº 1.354.068/RS, Relatora Ministra Assusete Magalhães, Segunda Turma, data do julgamento: 18/06/2015, DJe 01/07/2015); "É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual é possível submeter ao rito dos Juizados Especiais, as causas que envolvem fornecimento de medicamentos, CUJO VALOR SEJA DE ATÉ 60 SALÁRIOS MÍNIMOS, ajuizadas pelo Ministério Público em favor de pessoa determinada" (AgRg no AREsp nº 374.299/MG, Relatora Ministra Regina Helena Costa, Primeira Turma, data do julgamento: 27/10/2016, DJe 21/11/2016); "A jurisprudência desta Corte firmou-se no sentido de que, nas ações de fornecimento de medicamentos CUJO VALOR SEJA INFERIOR AO LIMITE DE SESSENTA SALÁRIOS MÍNIMOS previsto no art. 3º da Lei n. 10.259/2001, aliado à circunstância de a demanda não se encontrar no rol das exceções a essa regra, deve ser reconhecida a competência do Juizado Especial, sendo desinfluente o grau de complexidade da demanda ou o fato de ser necessária a realização de perícia técnica" (AgRg no REsp nº 1.214.479/SC, Relator Ministro Og Fernandes, Segunda Turma, data do julgamento: 17/10/2013, DJe 06/11/2013). Vale esta súmula como acórdão, nos termos do art. 46 da Lei nº 9.099/95, aplicada tal norma aos Juizados Fazendários, por força do disposto no art. 27 da Lei nº 12.153/2009. Sem custas.” (Agravo de Instrumento nº 0001470-90.2024.8.19.9000, Segunda Turma Recursal Fazendária, Rel. Fabiano Reis dos Santos, j. 22.07.2024)
+
+    Na minuta, sustenta-se violação dos arts. 1º, III, 5º, XXXV, 6º, caput, 93, IX, 194, 196, 197, 198, 200, 230 da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, verifica-se a deficiência na fundamentação preliminar da repercussão geral. Não basta a simples afirmação genérica de que o tema possui repercussão geral ou a indicação de tema ou precedente desta Suprema Corte; faz-se necessária a fundamentação adequada que supra as exigências do disposto nos artigos 1.035, §§ 1º e 2º, do Código de Processo Civil e 327, § 1º, do Regimento Interno do STF.
+
+    Na presente hipótese, a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo, limitando-se a afirmar o que segue:
+
+    “A questão constitucional discutida no presente caso concreto possui GRANDE RELEVÂNCIA CONSTITUCIONAL que oferece REPERCUSSÃO GERAL, que ultrapassam os interesses subjetivos do caso concreto certo que a Suprema Corte deve fazer prevalecer os princípios constitucionais consagrados nos arts. 1º inciso III; 5º, incisos XXXV, 93, IX, 6º (caput), 194, 196, 197, 198, 200 e 230 da Constituição Federal.
+
+    Assim, certo é que o presente caso se reveste da relevância social e jurídica, que extrapola os interesses das partes, preconizada pelo constituinte como hábil a justificar a apreciação pela mais alta Corte de Justiça do país, tendo em vista a magnitude dos princípios constitucionais envolvidos, em especial, o DIREITO À DIGNIDADE DA PESSOA HUMANA, o DIREITO À SAÚDE, a INAFASTABILIDADE DO CONTROLE JURISDICIONAL, e ao DEVIDO PROCESSO LEGAL e a aptidão do tema para figurar em uma multiplicidade de demandas idênticas.”
+
+    A jurisprudência desta Corte é firme no sentido de que deficiência de fundamentação da preliminar acarreta a inadmissibilidade do recurso extraordinário, mesmo nos casos de repercussão geral presumida ou reconhecida em outro processo. Nesse sentido: ARE 834.512-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.4.2016; ARE 820.902- AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014; ARE 663.637-AgR-QO, Rel. Min. Ayres Britto, Pleno, DJe, 06.5.2013; RE 930.889-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 02.5.2017; e RE 1.298.416-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 19.3.2021, cuja ementa transcrevo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. A reversão do acórdão passa necessariamente pela revisão das provas constantes dos autos. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta Corte. 4. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)”.
+
+    Ainda que superado tal óbice, para modificar o entendimento formulado no Juízo de origem seria necessária a revisão do conjunto fático-probatório dos autos, incidindo, na espécie, o óbice da Súmula 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Assim, por exemplo:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. COMPETÊNCIA DOS JUIZADOS ESPECIAIS. COMPLEXIDADE DA MATÉRIA. VALOR DA CAUSA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1374189 AgR, Relator(a): Min. LUIZ FUX (Presidente), Tribunal Pleno, Dje de 2/6/2022)
+
+    “EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. OPOSIÇÃO EM 22.11.2022. JUIZADO ESPECIAL. COMPETÊNCIA. COMPLEXIDADE DA MATÉRIA. VALOR DA CAUSA. LEI 12.153/2009. REEXAME DE FATOS E PROVAS. OFENSA REFLEXA À CONSTITUIÇÃO. SÚMULA 279 DO STF. TEMA 213. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS. 1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material. 2. A parte Embargante busca rediscutir a matéria, com objetivo de obter excepcionais efeitos infringentes. 3. Não ostenta repercussão geral discussão acerca da competência dos juizados especiais em razão do valor da causa ou mesmo de sua complexidade. AI 768.339-RG, de relatoria do Ministro Ricardo Lewandowski, DJe 19.11.2009. Tema 213. 4. Embargos de declaração rejeitados.” (ARE 1286446 AgR-ED, Relator(a): Min. EDSON FACHIN, Segunda Turma, Dje de Publicação: 16/03/2023)
+
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FORNECIMENTO DE MEDICAMENTOS. PRODUÇÃO DE PROVA PERICIAL. JUIZADO ESPECIAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Fornecimento de medicamentos. Impossibilidade do reexame de provas (Súmula 279). 2. Competência dos Juizados Especiais. Complexidade da matéria. Controvérsia infraconstitucional. Precedentes. (AI 691906 AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, DJe 08-05-2009)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 28 de julho de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
