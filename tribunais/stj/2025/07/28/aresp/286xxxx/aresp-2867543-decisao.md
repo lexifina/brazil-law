@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por FELIPE MOROSINI SANT ANNA, que objetiva admissão de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 622):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. AGENTE PENITENCIÁRIO. PROMOÇÃO POR MERECIMENTO. AFERIÇÃO DE TÍTULOS. APROVEITAMENTO DAS LISTAS HOMOLOGADAS ATÉ APROVAÇÃO DE NOVA LISTAGEM. INCLUSÃO DE PONTUAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. 1. Caso em que o mandado de segurança fora impetrado por Agente Penitenciário sob a alegação de que títulos apresentados não foram computados na lista de promoção por merecimento. 2. Segundo o art. 9º do Decreto Estadual nº 55.755/2021, "As listas homologadas serão utilizadas para todas as promoções efetivadas até a homologação correspondente ao período avaliado subsequente". 3. Situação em que para as promoções realizadas em 01/07/2022 foram reutilizadas as listas homologadas em 23/04/2021, pois ainda não haviam sido geradas listas de períodos avaliativos posteriores a 30/04/2020, conforme informação prestada pela autoridade coatora, razão pela qual aplicado o art. 9º do Decreto Estadual nº 55.755/2021 ao caso em tela. 4. Sentença denegatória da segurança na origem. APELO DESPROVIDO.
+No especial obstaculizado, a parte recorrente aponta ofensa dos arts. 15, caput, da Lei Federal n. 13.019/2014 e 11, V, da Lei n. 8.428/1992, pois o acórdão atacado violou os princípios da legalidade, da moralidade e da impessoalidade, porquanto (e-STJ fls. 644/645):
+ ..  muito embora não se discorde do Relator quanto à necessidade de análise conjunta dos referidos dispositivos, também se impõe que eles sejam interpretados em conjunto com o art. 7º, segundo os qual AS PROMOÇÕES DEVERÃO SER OPERADAS EM OBSERVÂNCIA AO INTERVALO COMPREENDIDO ENTRE OS DIAS 1º DE MAIO DO ANO ANTERIOR E 30 DE ABRIL DO ANO VIGENTE, in verbis:
+ ..
+Veja-se que apesar do art. 9º deixar margem para a possibilidade de reaproveitamento de lista pela não homologação da relação mais atualizada "as listas homologadas serão utilizadas para todas as promoções efetivadas até a homologação correspondente ao período avaliado subsequente", o art. 7º deixa clara a necessidade de aferição dos pontos acrescidos no ano vigente ao da efetivação das promoções.
+ ..
+Isso importar dizer que as progressões ocorreram dois meses após o fechamento do período concedido para a anexação dos referidos documentos, motivo pelo qual impor-se-ia a utilização dos mesmos para a aferição da pontuação considerada para o deferimento da lista homologada, conforme interpretação conjunta dada aos arts. 7º, 8º e 9º do Decreto Estadual nº 55.755/2021.
+ ..
+Ademais, importa ressaltar que ao revés do que asseverou o Exímio Desembargador, o art. 18, da Lei no 13.259/09, impõe que sejam feitas avaliações anuais como requisito para verificar a aptidão do servidor capacitado, já que veda a promoção por merecimento daquele que tenha sofrido punição disciplinar no interstício de 12 meses anterior ao ato, conforme abaixo se transcreve:
+Contrarrazões apresentadas
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial.
+Passo a decidir.
+A irresignação não merece prosperar.
+Verifica-se, das razões da parte recorrente, que, não obstante aponte ofensa à legislação federal, toda a argumentação está calcada em regramento local - LCE n. 13.259/2009 e Decreto Estadual n. 55.755/2021 -, revelando-se incabível a via recursal especial para rediscussão da matéria, ante a incidência da Súmula 280 do STF.
+Da mesa forma, infirmar os fundamentos do aresto combatido -alicerçados em interpretação de legislação local - , a fim de acolher os argumentos da parte recorrente, encontra óbice na aludido enunciado sumular.
+Noutro giro, acolher a tese de que "Depreende-se, então, das provas constantes nos autos que a conduta dos Impetrados afronta" os dispositivos supostamente violados, encontra vedação na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
