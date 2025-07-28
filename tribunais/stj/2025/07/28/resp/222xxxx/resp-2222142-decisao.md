@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO EDIFÍCIO ANTONIO ALVES CUNHA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ fl. 274):
+APELAÇÃO - DEVOLUÇÃO DOS AUTOS À TURMA JULGADORA PARA NOVO EXAME DA MATÉRIA RECURSAL, NOS TERMOS DO ARTIGO 1.030, II, DO CÓDIGO DE PROCESSO CIVIL - REVISÃO DA TESE FIXADA NO RECURSO ESPECIAL 1.166.561/RJ, TEMA Nº 414 - - NECESSIDADE DE OBSERVÂNCIA - ALTERAÇÃO DO JULGADO, PARA DAR PROVIMENTO AO RECURSO DE APELAÇÃO, E PARA JULGAR IMPROCEDENTE A DEMANDA - ACÓRDÃO ADEQUADO.
+Embargos de declaração rejeitados (e-STJ fls. 307/311).
+Em suas razões, a parte recorrente alega que a forma de cálculo da tarifa pelo SAAE encontra-se em dissonância com a nova tese do Tema 414 do STJ, ao argumento de que os direitos do consumidor foram violados quando "a Autarquia Recorrida tratou os condôminos de forma totalmente desigual em relação aos demais usuários consumidores dos seus serviços, cobrando por valores muito superiores aos devidos " (e-STJ fl. 336).
+Contrarrazões às e-STJ fls. 342/347.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 348/349.
+Passo a decidir.
+Em primeiro lugar, convém assinalar que a indicação de violação genérica de lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284 do STF.
+Além disso, esta Corte entende que " a  citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade de lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF" (AgInt no REsp 1.958.451/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022.).
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. SÚMULA N. 284/STF. ACÓRDÃO APOIADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da sua violação, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - In casu, rever o posicionamento do tribunal de origem, com o objetivo de acolher a pretensão recursal de afastar o dano moral, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido. (AgInt no REsp 1.853.118/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
