@@ -1,0 +1,2 @@
+Institui a Política Nacional de Incentivo à Visitação a Unidades de Conservação e autoriza o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) e os órgãos estaduais e municipais executores do Sistema Nacional de Unidades de Conservação da Natureza (SNUC) a contratar instituição financeira oficial para criar e gerir fundo privado com os objetivos de financiar e de apoiar a visitação a unidades de conservação.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
