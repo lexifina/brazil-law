@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BANCO DO BRASIL SA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+DIREITO CIVIL E CONSUMIDOR. AGRAVO INTERNO EM DECISÃO MONOCRÁTICA. INSCRIÇÃO EM CADASTRO RESTRITIVO DE CRÉDITO. RECURSO DESPROVIDO.
+I. CASO EM EXAME 1. AGRAVO INTERNO INTERPOSTO EM FACE DE DECISÃO MONOCRÁTICA QUE DECLAROU A INEXISTÊNCIA DA RELAÇÃO CONTRATUAL E CONDENOU A PARTE RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS EM VIRTUDE DE INDEVIDA INSCRIÇÃO DO NOME DA PARTE AUTORA EM CADASTRO RESTRITIVO DE CRÉDITO.
+II. QUESTÃO EM DISCUSSÃO 2. A QUESTÃO EM DISCUSSÃO CONSISTE EM SABER SE (I) HÁ RELAÇÃO CONTRATUAL ENTRE AS PARTES, (II) SE FOI DEVIDA A INSCRIÇÃO DO NOME DA PARTE AUTORA EM ÓRGÃO RESTRITIVO DE CRÉDITO, E (III) SE CABE A INDENIZAÇÃO POR DANOS MORAIS NO CASO DE SER INDEVIDA A INSCRIÇÃO NEGATIVA REALIZADA DO NOME DA PARTE AUTORA.
+III. RAZÕES DE DECIDIR 3. A PARTE RÉ NÃO JUNTA QUALQUER CONTRATO ENTABULADO ENTRE AS PARTES, NEM MESMO CÓPIA DE DOCUMENTO DE IDENTIFICAÇÃO DA PARTE AUTORA, VINDO A SOMENTE A ANEXAR TELAS SISTÊMICAS PRODUZIDAS UNILATERALMENTE, NÃO RESTANDO DEMONSTRADA A CONTRATAÇÃO E, CONSEQUENTEMENTE, A ORIGEM DO DÉBITO QUE DEU ENSEJO À INSCRIÇÃO NEGATIVA DO NOME DA PARTE AUTORA, CABENDO, PORTANTO, A DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO.
+4. A MERA INCLUSÃO DO NOME DE ALGUÉM JUNTO AOS CADASTROS DE MAUS PAGADORES, SEM QUE A PESSOA CADASTRADA TENHA CONTRIBUÍDO, SEQUER MINIMANTE, PARA TANTO, CONSTITUI, "PER SI", MOTIVO BASTANTE À CONCESSÃO DE INDENIZAÇÃO, POR SE TRATAR DE DANO MORAL PURO - "IN RE IPSA".
+5. SOPESANDO A SITUAÇÃO CONCRETA, A REPERCUSSÃO SOCIAL DO DANO, O SOFRIMENTO CAUSADO E AS CIRCUNSTÂNCIAS FÁTICAS DO EVENTO GERADOR, TENHO QUE O VALOR DEVE SER MANTIDO EM R$ 6.000,00, QUANTIA QUE SE APRESENTA SUFICIENTE E RAZOÁVEL PARA INDENIZAR O DANO MORAL QUE SE EVIDENCIOU, INCLUSIVE ESTANDO AQUÉM COM OS PARÂMETROS ATUALMENTE ADOTADOS EM CASOS ANÁLOGOS.
+IV. DISPOSITIVO E TESE 6. AGRAVO INTERNO DESPROVIDO.
+TESE DE JULGAMENTO : "1. A PARTE RÉ NÃO JUNTA QUALQUER CONTRATO ENTABULADO ENTRE AS PARTES, CABENDO, PORTANTO, A DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO.
+2. A INCLUSÃO DO NOME DE ALGUÉM JUNTO AOS CADASTROS DE MAUS PAGADORES, SEM QUE A PESSOA CADASTRADA TENHA CONTRIBUÍDO, CONSTITUI DANO MORAL PURO."
+JURISPRUDÊNCIA RELEVANTE CITADA: AC 50035021420118210001, 9ª CÂMARA CÍVEL, TJRS, REL. EDUARDO KRAEMER, JULGADO EM: 29-11-2023.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 14, § 3º, II, do CDC, no que concerne à ausência de responsabilidade das instituições financeiras por fraudes realizadas por terceiros por se tratar de fortuito externo, trazendo a seguinte argumentação:
+Toda a discussão cinge-se na verificação da responsabilização da instituição financeira em reparar os supostos danos sofridos pela parte recorrida e caracterização de fortuito interno, sendo que a sua manutenção viola os artigos 14, §3º, II da lei federal nº 8.078/90 (CDC).
+ ..
+Conforme pode-se extrair em trechos do acórdão recorrido, exclui-se a responsabilização da instituição financeira, por dano causado por terceiro sem a participação desta, o que configura tal situação como fortuito externo, e traz o caráter de regularidade às transações realizadas, o que diverge o acórdão recorrido, vejamos:
+ ..
+Neste sentido, ao contrário do que versa o acórdão recorrido, a parte recorrente não poderia prever a fragilização dos dados por terceiros, facilitados pela parte recorrida, agindo de forma legítima com a negativação realizada.
+Neste sentido, no que tange a guarda da senha pessoal e intransferível, em casos análogos a jurisprudência pátria vem manifestando-se no sentido de que estes são de total responsabilidade do correntista, o que exclui a responsabilização da instituição quando o proprietário vem a fragilizá-los, vejamos (fls. 290/292).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Contudo, os documentos trazidos pela parte ré são insuficientes à demonstração da origem do débito.
+Veja-se que, a parte ré não junta qualquer contrato entabulado entre as partes, nem mesmo cópia de documento de identi cação da parte autora, vindo a somente a anexar telas sistêmicas produzidas unilateralmente (evento 11, OUT2, origem).
+Assim, não restou demonstrada a contratação e, consequentemente, a origem do débito que deu ensejo à inscrição do nome da parte autora, cabendo, portanto, a declaração de inexistência do débito, bem como a determinação da sua exclusão do apontamento negativo.
+Assim, a mera inclusão do nome de alguém junto aos cadastros de maus pagadores, sem que a pessoa cadastrada tenha contribuído, sequer minimante, para tanto, constitui, "per si", motivo bastante à concessão de indenização, por se tratar de dano moral puro - "in re ipsa" (fls. 272).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
