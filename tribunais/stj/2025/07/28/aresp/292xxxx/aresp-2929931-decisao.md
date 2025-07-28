@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BANCO LUSO BRASILEIRO S/A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. DECISÃO QUE INDEFERIU A TUTELA CAUTELAR DE ARRESTO. INCONFORMISMO. NÃO ACOLHIMENTO. INEXISTEM INDÍCIOS DE DILAPIDAÇÃO DE PATRIMÔNIO DOS EXECUTADOS. ARRESTO CONDICIONADO À PROVA CABAL DA DILAPIDAÇÃO DO PATRIMÔNIO. CONJUNTO PROBATÓRIO INSUFICIENTE. AUSÊNCIA DOS REQUISITOS AUTORIZADORES PARA CONCESSÃO DA TUTELA PRETENDIDA. MEDIDA QUE REQUER CUIDADOSA ANÁLISE PELO JUÍZO "A QUO", AO CRIVO DO CONTRADITÓRIO. AUSENTES OS REQUISITOS DO ARTIGO 300 DO CÓDIGO DE PROCESSO CIVIL. DECISÃO MANTIDA. RECURSO NÃOPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 300, 301 e 799, VIII, do CPC, no que concerne à concessão do arresto cautelar, eis que presentes a probabilidade do direito e o risco de dano irreparável ou ao resultado útil do processo, sob pena de não restar assegurado o resultado útil da execução, trazendo a seguinte argumentação:
+24. O v. acórdão acabou por violar os artigos 799, inc. VIII, 300 e 301 do CPC, ao manter a decisão de primeiro grau que indeferiu o arresto cautelar em contas bancárias dos Recorridos, mesmo diante da manifesta insolvabilidade destes e do sério risco de que venha a perecer o crédito do Luso.
+ ..
+26. Pois bem. No caso em apreço, os Recorridos possuem uma dívida com o Luso de R$ 1.136.610,73, e possuem diversas ações de execuções ajuizadas contra si, que somam o valor de aproximadamente R$ 3.300.460,60 (três milhões, trezentos mil, quatrocentos e sessenta reais e setenta e nove centavos) 5 , as quais tramitam no Estado de São Paulo - essas questões não dependem de nova valoração de provas, estão postas no caso em questão.
+27. Com isso, não é difícil perceber a frágil e delicada situação a que estão acometidos os Recorridos neste momento, a qual justifica a medida de arresto abaixo postulada, até mesmo porque a existência de apontamentos no Serasa já é motivo suficiente para efetivação desta medida de urgência, como há muito já decidiu a jurisprudência:
+ ..
+32. Neste sentido, no caso em comento é latente a presença do periculum in mora , visto que evidente estado de insolvência dos Recorridos demonstra a grande chance do Recorrente não reaver o seu crédito.
+33. Já no que diz respeito ao fumus boni iuris , maiores esclarecimentos não se fazem mais necessários, pois, tal qual exposto, o Luso possui título executivo extrajudicial em face dos Recorridos, que por sua vez possuem obrigações certa, líquidas e exigíveis perante a instituição financeira que não foi cumprida (fls. 114-117).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A espécie não autoriza o deferimento da antecipação dos efeitos da tutela final pretend ida.
+Isto porque o Banco Agravante apresenta alegações insuficientes, o que não enseja de forma robusta a existência de prova inequívoca que permitisse, ao menos em fase de cognição sumária, verificar que os Agravados estão dilapidando o seu patrimônio.
+O Banco Agravante faz meras conjecturas no sentido de que os devedores estariam em rápida degradação financeira e que nunca chegaria a ver seu crédito satisfeito.
+Portanto, o fato de os devedores estarem ou não dilapidando o seu patrimônio somente poderá ser efetivamente apreciado após a instauração do devido contraditório.
+Portanto, enquanto a "Execução de Título Extrajudicial" não for julgada procedente com a eventual condenação ao pagamento, prematura a medida de arresto de Bens (fls. 104-105).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame dos elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido: "Rever as conclusões adotadas pelo Tribunal estadual quanto ao não preenchimento dos requisitos para a concessão da tutela de urgência demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula nº 7 do STJ". (AgInt no AREsp n. 2.622.409/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025.)
+Na mesma linha: "A discussão acerca da presença ou não dos elementos autorizadores da tutela de urgência exigiria amplo reexame das provas presentes nos autos, o que encontra óbice na Súmula n. 7 do STJ". (AgInt no AREsp n. 2.633.539/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 2/12/2024.)
+Ainda: "É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF". (AgInt no AREsp n. 1.992.209/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/6/2023.)
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.663.721/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 4/11/2024; AgInt no AREsp n. 2.175.538/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 22/6/2023; AgInt no AREsp n. 2.120.332/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15/6/2023; e AgInt no AREsp n. 2.234.684/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10/3/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
