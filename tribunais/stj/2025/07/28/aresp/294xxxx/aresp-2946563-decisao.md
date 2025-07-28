@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CSO EMPREENDIMENTOS IMOBILIARIOS SPE LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÕES CÍVEIS - AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES PAGOS E INDENIZAÇÃO POR DANOS MORAIS - ATRASO ENTREGA IMÓVEL - DEMONSTRAÇÃO - INVERSÃO DA CLÁUSULA PENAL - INOVAÇÃO RECURSAL - DANOS MORAIS - CABIMENTO - OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDAD. Comprovado o atraso na entrega do imóvel que ultrapassa, inclusive, o prazo de 180 dias, de se manter a sentença de procedência do pedido inicial. Afasta-se o pedido de inversão de multa contratual quando reconhecida inovação recursal por parte dos autores/apelantes. O atraso devidamente demonstrado para entrega de imóvel enseja indenização pelo dano moral suportado pelo consumidor, tendo em vista que extrapola o aborrecimento comum, pela frustração de legítima expectativa criada por disposição contratual. A indenização por dano moral deve ser justa e digna para os fins a que se destina, não podendo ser fonte de enriquecimento, mas também não podendo ser irrisória ou simbólica.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 944 do CC, no que concerne à exorbitância do montante arbitrado a título de compensação por danos morais indo de encontro com a razoabilidade e proporcionalidade, trazendo a seguinte argumentação:
+Buscar-se-á evidenciar que a condenação ao pagamento de danos morais no importe de R$ 15.000,00 (quinze mil reais) não se amolda à proporcionalidade que reclama a norma do art. 944 do Código Civil, logo, deve ser reduzida equitativamente. A esse respeito, inclusive, a jurisprudência do STJ é pacífica:
+ ..
+Verifica-se da síntese dos fatos que o acórdão deve ser reformado pelo exorbitante montante fixado a título de danos morais em afronta direta ao dever do julgador de sintonizar o quantum em conformidade à proporcionalidade e razoabilidade exigidas na norma do art. 944 do Código Civil.
+ ..
+Como anteriormente consignado, em primeiro grau, o julgador NÃO vislumbrou elementos ao arbitramento de compensação pelos alegados abalos psicológicos.
+Apenas em segundo grau é que os Recorridos alcançaram o dano moral almejado, frisa-se, no altíssimo valor de R$ 15.000,00 (quinze mil reais).
+Todavia, conforme reza o art. 944 do Código Civil, faz-se indispensável mensurar o quantum indenizatório de maneira condizente à regra da proporcionalidade, sob pena de redução do importe fixado.
+ ..
+Ao comentar a previsão do dispositivo supracitado, dentre os critérios da justa regulação do quantum , Giselda Hironaka destaca que verificar as peculiaridades do caso concreto, o caráter antissocial da conduta danosa, o grau de culpa ou dolo do lesante e o real valor do prejuízo sofrido pela vítima e sua situação socioeconômica 4 , constituem medidas de observância imperiosa.
+Na situação de que ora se trata, desde o primeiro momento, apontou-se que sequer os elementos caracterizadores do dever de indenizar estavam presentes.
+Em sede de contrarrazões ao recurso de apelação dos Recorridos, provido para estabelecer o dano moral enfrentado com o presente, a Recorrente assentou que não houve especificação ou provas do extenso abalo psicológico sofrido, somente a apresentação de conjecturas pautadas na jurisprudência e no numerário indicado em meras alegações de dano baseadas em ações outras.
+Retomando as lições de Hironaka, a mensuração do dano moral deve se pautar no caso concreto! Diversamente desta ampla posição acolhida pela doutrina, ao condenar a Recorrente em 15 MIL REAIS de prejuízo extrapatrimonial, o i. Des.
+Newton Teixeira Carvalho, data venia, violou a razoabilidade das indenizações uma vez que se baseou nas decisões de outros casos. Vejamos: (fls. 453/456).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A indenização por dano moral deve ser justa e digna para os fins a que se destina, não podendo ser fonte de enriquecimento, mas também não podendo ser irrisória ou simbólica.
+ ..
+Assim, temos que a quantia de R$15.000,00 (quinze mil reais) atende aos parâmetros da razoabilidade e proporcionalidade, sendo certo que tal valor, inclusive, vem sendo fixado por esta Câmara em casos análogos.
+Por todo o exposto, NEGAMOS PROVIMENTO À PRIMEIRA APELAÇÃO E DAMOS PARCIAL PROVIMENTO AO SEGUNDO RECURSO, tão somente para condenar a parte ré/apelada ao pagamento de indenização por danos morais no montante de R$15.000,00 (quinze mil reais), devidamente corrigido a partir desta decisão, acrescido de juros de mora de 1% ao mês desde o evento danoso (fls. 358/359).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial" (AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 9/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.718.125/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.582.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.685.985/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.632.436/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgInt no AREsp n. 2.315.287/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/11/2024; AgInt no REsp n. 1.860.301/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
