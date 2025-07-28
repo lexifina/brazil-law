@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual GILSON RODRIGUES SANTOS se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 128):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. REGIME DE ECONOMIA FAMILIAR. DESCARACTERIZAÇÃO DA QUALIDADE DE SEGURADO ESPECIAL. VÍNCULOS URBANOS. APELAÇÃO DA PARTE AUTORA NÃO PROVIDA.
+1. São requisitos para a aposentadoria de trabalhador(a) rural: contar com 55 (cinquenta e cinco) anos de idade, se mulher, e 60 (sessenta) anos, se homem, e efetivo exercício de atividade rural, ainda que de forma descontínua, por tempo igual ao número de meses de contribuição correspondentes à carência do benefício pretendido (art. 48, §§ 1º e 2º, da Lei 8.213/91).
+2. No caso do trabalhador rural, o exercício de curtos períodos de trabalho urbano, intercalados com o serviço campesino, não descaracteriza sua condição, isso porque desde a promulgação da Lei 11.718/2008, passou-se a permitir literalmente que durante a entressafra o segurado especial possa trabalhar em outra atividade por até 120 dias por ano.
+3. Ocorre, todavia, que no CNIS da parte autora consta registro de vínculo empregatício urbano por longo período, dentro do período de carência, o que afasta a condição de segurado especial (art. 11, § 9º, III, da Lei n. 8.213/91).
+4. Apelação a que se nega provimento.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente aponta, além do dissídio jurisprudencial, a violação dos arts. 11, VII, 39, I, 48, §§ 1º e 2º, e 143 da Lei 8.213/1991. Alega ter preenchido todos os requisitos para a concessão da aposentadoria por idade rural, pois demonstrou o exercício do trabalho rural em regime de economia familiar mediante início de prova material corroborado pela prova testemunhal.
+A parte adversa não apresentou contrarrazões (fl. 155).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O Tribunal de origem manteve a sentença de improcedência, pois não foi comprovada a qualidade de segurado especial do ora agravante, adotando a seguinte fundamentação (fls. 126/127):
+A parte autora, nascida em 15/04/1959, implementou o requisito etário em 15/04/2019 (60 anos), tendo formulado o seu requerimento administrativo em 15/05/2019.
+Para a comprovação da qualidade de segurado e do período de carência, foram apresentados os seguintes documentos: a) Certidão de casamento, registrado em 1982, constando o autor como lavrador (fl. 77); b) Extrato do MPAS/INSS, informando que a esposa do requerente é aposentada como segurada especial (fl.106); e c) Declaração do trabalhador rural (fls. 79 e 80).
+Embora a parte demandante tenha juntado documento comprobatório de que um dia esteve na lida campesina, a sentença recorrida não merece ser reformada, já que o autor possuiu vínculos duradouros como contribuinte individual durante o período de carência que se pretende provar.
+Vale ressaltar que, para a concessão do benefício de aposentadoria rural, por idade, como segurado especial, o recorrente necessita comprovar, ainda que de forma descontínua, o labor rural pelo período de meses idênticos ao da carência, no momento em que preencher o requisito etário ou quando der entrada no requerimento administrativo, ou seja, de 2004 a 2019.
+No caso do trabalhador rural, o exercício de curtos períodos de trabalho urbano, intercalados com o serviço campesino, não descaracteriza sua condição, isso porque desde a promulgação da Lei 11.718/2008, passou-se a permitir literalmente que durante a entressafra o segurado especial possa trabalhar em outra atividade por até 120 dias por ano.
+Ocorre, todavia, que no caso dos autos os vínculos do apelante ultrapassam em muito o limite de dias permitido em lei. Com efeito, o extrato previdenciário do CNIS, emitido pelo INSS, revela que o autor esteve filiado à Previdência como contribuinte individual entre 01/07/2010 e 31/05/2018.
+Assim sendo, restou descaracterizado o trabalho rural em regime de economia familiar durante o período de carência.
+Como se observa, o Tribunal de origem, após a análise das circunstâncias fáticas da causa, concluiu que a parte agravante não havia comprovado o exercício da atividade rural em regime de economia familiar, em razão da existência de longo período de filiação à Previdência como contribuinte individual.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
