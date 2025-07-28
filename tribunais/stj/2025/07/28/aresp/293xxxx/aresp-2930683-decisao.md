@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VIACAO JACAREI LIMITADA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTE DO TRABALHO - L.E.R./D.O.R.T. - COLUNA - SENTENÇA DE PROCEDÊNCIA - APELAÇÃO EXCLUSIVA DA ASSISTENTE SIMPLES DA AUTARQUIA - NÃO CONHECIMENTO - A ATUAÇÃO DO ASSISTENTE SIMPLES ESTÁ SUBORDINADA AO INTERESSE DO ASSISTIDO  DILAÇÀO DO PROCESSO QUE PREJUDICARÁ A PRÓPRIA AUTARQUIA ASSISTIDA, QUE ARCARÁ COM OS CONSECTÁRIOS DA DEMORA  SENTENÇA MANTIDA _ RECURSO NÃO CONHECIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 121, caput e parágrafo único, e 122 do CPC, no que concerne ao conhecimento do recurso de apelação interposto perante o tribunal a quo em virtude de seu legítimo interesse jurídico na demanda, a despeito de não ter havido expressa renúncia do direito de recorrer pela autarquia assistida. Argumenta:
+Conforme se extrai da r. decisão recorrida, é incontroversa a condição da recorrente de assistente simples do INSS e de seu interesse jurídico na causa (fls. 318 e 365/369), bem como de que não há expressa renúncia do assistido ao direito de recorrer (fls. 422/424), tendo o E. Tribunal a quo, por iniciativa própria concluído que o INSS deve ter deixado de recorrer "com base em algum fundamento de interesse da União", ainda que tenha reconhecido o dever da União justificar sua abstenção
+ ..
+Além disso, nem de longe pode-se concluir que o apelo interposto pela assistente simples, ora recorrente, é contrário ao interesse do assistido, posto que se discute com muita propriedade a invalidade da prova pericial realizada pelo r. Juízo a quo que concluiu pela incapacidade do recorrido e que, uma vez afastada a conclusão quanto a incapacidade do recorrido, será assegurado ao assistido evidente benefício com a improcedência da pretensão autoral, ou seja, não se constata o caráter prejudicial do apelo ao interesse direto do assistido.
+ ..
+Veja que a doutrina e a jurisprudência são unanimes em reconhecer legitimidade recursal ao terceiro prejudicado na hipótese de a parte principal não ter recorrido e que poderia ter figurado como assistente simples por interesse jurídico demonstrado, bastando-lhe comprovar que pode ser atingido, reflexa ou indiretamente, pela decisão proferida (fls. 472-476).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+O recurso da empregadora também não merece conhecimento.
+Com efeito, "o assistente simples atuará como auxiliar da parte principal" (Artigo 121 do C.P.C. destaquei em negrito), de modo que "não obsta a que a parte principal reconheça a procedência do pedido, desista da ação, renuncie ao direito sobre o que se funda a ação ou transija sobre direitos controvertidos.
+(Artigo 122 do C.P.C.).
+Depreende-se das normas que regulamentam a assistência simples que o assistente atua no interesse do assistido, não podendo contrariar a sua vontade.
+ ..
+Como consequência, se a parte manifesta desinteresse em recorrer, não pode o assistido interpor recurso.
+ ..
+Nem se argumente que, no caso, não teria havido expressa renúncia ao direito de recorrer e que, por isso, poderia a assistente simples interpor o apelo.
+Isso porque, tratando-se de Autarquia Federal representada judicialmente pela Advocacia Geral da União, aplicam-se, ao caso, as normas específicas daquele órgão, dentre as quais destaca-se o Artigo 4º, inciso VI, da Lei Complementar nº 73, que prevê ser do Advogado-Geral da União as condutas processuais de disposição de direitos, nos termos da lei, permitindo-o delegar:
+ ..
+Nesse contexto, sobreveio a Portaria A.G.U. nº 488/16 (a qual estabelece procedimentos a serem adotados, entre outras coisas, para a abstenção recursal) que, em seu artigo 13, impõe o dever de fundamentar, ainda que internamente, a não interposição de recursos:
+ ..
+Assim, se o Procurador Federal entendeu pela desnecessidade de recorrer o fez com base em algum fundamento de interesse da União, sempre atendendo a "critérios de racionalidade, de economicidade e de eficiência, nos termos dos artigos 19-C e 19-D da Lei nº 10.522, de 19 de julho de 2002" (artigo 9º da Portaria A.G.U. nº 488/16), tendo o dever de justificar sua abstenção.
+Destaca-se, ainda, a Portaria nº 258/16 da Procuradoria-Geral Federal, a qual, no seu artigo 3º, prevê a dispensa de recursos em casos, como o dos autos, em que a sentença for no mesmo sentido do laudo pericial:
+ ..
+Infere-se desse conjunto normativo e da análise dos autos que o prolongamento do processo é contrário ao interesse da própria autarquia, que, sucumbente, deverá arcar com os consectários da condenação, os quais só aumentam em razão da dilação do processo ocasionada pelo recurso da assistente.
+Assim, não há como se admitir o recurso exclusivo da assistente simples, mormente no caso, como o destes autos, em que sequer há reexame necessário.
+ ..
+Desse modo, havendo condenação ao pagamento de benefício por período determinado de tempo, não se conhece do reexame necessário (item 2.1); e ausente recurso da autarquia, evidenciando seu desinteresse no prolongamento do processo, que apenas oneraria seus cofres, não se conhece do recurso da assistente simples (item 2.2) (fls. 454-458).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que a tese recursal está fundada em premissa fática totalmente dissociada daquela fixada no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que: "A tese recursal está fundada em premissa fática totalmente dissociada daquela estabelecida no aresto impugnado, o que atrai a aplicação do óbice da súmula 284/STF" (AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022).
+Confiram-se ainda os seguintes julgados: REsp n. 1.690.156/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10.2017; AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/4/2021; AgInt no AREsp n. 1.815.228/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 17/8/2021; AgInt no AREsp n. 931.169/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/4/2017; AgRg no REsp n. 1.015.938/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/9/2014.
+Por fim, considerando os supracitados trechos do aresto objurgado, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Em consonância: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
