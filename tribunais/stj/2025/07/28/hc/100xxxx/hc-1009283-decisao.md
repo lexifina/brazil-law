@@ -1,0 +1,90 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Danilo da Silva Schettini contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n.º 000366-91.2025.8.26.0154), assim ementado:
+DIREITO PENAL. AGRAVO EM EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DEFERIMENTO. DECISÃO REFORMADA.
+I. Caso em Exame
+1. Decisão que em processo de execução penal deferiu livramento condicional a sentenciado reincidente, condenado por roubo majorado e receptação. Ministério Público recorre, alegando necessidade de exame criminológico devido à reincidência e gravidade dos crimes.
+II. Questão em Discussão
+2. A questão em discussão consiste em determinar se a concessão do livramento condicional sem exame criminológico é adequada, considerando a reincidência e a natureza dos crimes cometidos pelo sentenciado.
+III. Razões de Decidir
+3. A decisão de concessão do livramento condicional carece de demonstração de mérito, sendo necessário exame criminológico para aferir a periculosidade do sentenciado.
+4. O exame criminológico é essencial para verificar a cessação ou atenuação da periculosidade, especialmente em casos de crimes cometidos com violência ou grave ameaça.
+IV. Dispositivo e Tese
+5. Recurso provido. Livramento condicional cassado, com determinação de regressão ao regime fechado e exigência de exame criminológico para futuros pleitos.
+Tese de julgamento:
+1. A concessão de livramento condicional requer prévia comprovação da falta de periculosidade.
+2. Exame criminológico é necessário para sentenciados reincidentes em crimes graves. Legislação Citada: CP, art. 83, parágrafo único; CPC, art. 370; CPP, art. 156.
+Consta dos autos que o Juízo da execução penal deferiu o pedido de livramento condicional da pena ao paciente (fls. 34-36). Entretanto, o Tribunal de Justiça de São Paulo, ao julgar o agravo em execução interposto pelo Ministério Público, reformou a decisão para determinar o retorno do cumprimento da pena no regime fechado, determinando ainda a realização de exame criminológico para futuros pleitos (fls. 15-22).
+Neste writ, a parte impetrante sustenta que a fundamentação apresentada para cassar o benefício e determinar a realização de exame criminológico não se mostra adequada, porque foi baseada na reincide ncia e na pra"tica de crime grave (fl. 4).
+Requer, liminarmente e no mérito, que seja restabelecida a decisa o que deferiu ao paciente o livramento condicional da pena, independentemente, de realizaça o de exame criminolo"gico, ou, subsidiariamente, que seja determinado que o paciente realize o exame criminolo"gico em liberdade (fl. 14).
+O pedido de liminar foi indeferido, as informações foram prestadas pela autoridade coatora, e o parecer do Ministério Público foi pela concessão do habeas corpus (fl. 125):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA. IMPOSSIBILIDADE. PARECER PELA CONCESSÃO DA ORDEM.
+Excelentíssimo (a) Senhor (a) Ministro (a) Relator (a), Trata-se de habeas corpus, com pedido liminar, substitutivo de recurso próprio, impetrado contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo em execução penal interposto pelo Ministério Público.
+Colhe-se dos autos que o Juízo da Execução deferiu o pedido de livramento condicional ao paciente. O Tribunal de origem deu provimento ao recurso ministerial, exigindo a realização de exame criminológico para a concessão do benefício.
+No presente mandamus, o impetrante sustenta que a fundamentação apresentada para cassar o benefício e determinar a realização de exame criminológico não se mostra idônea.
+Indeferida a liminar (e-STJ, fl. 88/89), e após as informações serem prestadas, vieram os autos para parecer.
+É o relatório.
+A ordem deve ser concedida.
+De fato, o Tribunal de origem consignou que, "no caso concreto, o exame criminológico era necessário porque o sentenciado ostenta claríssima periculosidade. Verifica-se que ele foi condenado pela prática de crimes de roubo majorado, delito cometido com grave ameaça ou violência contra pessoa, e de receptação, que estimula a prática de crimes patrimoniais antecedentes" (e-STJ, fl. 20).
+Entretanto, a jurisprudência dessa egrégia Corte de Justiça é no sentido de que "a exigência de exame criminológico deve ser fundamentada em elementos concretos extraídos da execução penal. A gravidade abstrata do crime não justifica a negativa de progressão de regime ou livramento condicional sem fatos concretos ocorridos durante a execução" (AgRg no RHC n. 211.687/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/4/2025, DJEN de 28/4/2025.).
+Ante o exposto, manifesta-se o Ministério Público Federal pela concessão do habeas corpus.
+É o relatório. Decido.
+O Juiz de primeiro grau concedeu o livramento condicional da pena, conforme a seguinte decisão (fls. 34-36):
+ ..
+Em que pese a argumentação do Ministério Público de que o sentenciado foi condenado por crime com violência contra pessoa, a natureza do crime, por si só, não é requisito impeditivo da progressão, salvo se capitulado o crime como hediondo, por exemplo, para acentuar percentual diferenciado de tempo. Fora isso, não pode o juiz instituir um impeditivo de progressão, ainda que gravado na natureza do delito, pois tal procedimento não está previsto em lei.
+Ademais, o caso concreto não exprime gravidade singular, daquelas a serem observadas com atenção na execução penal, que podem refletir aspecto subjetivo perigoso do sentenciado.
+Limitando adequadamente o conteúdo do bom comportamento, leciona Mirabete:
+"A aferição do mérito porém se refere à conduta global do preso e dela faz parte um acréscimo na confiança depositada no mesmo e a possibilidade de atribuição de maiores responsabilidades para o regime de mais liberdade". 1 Neste caso, conforme cálculo às fls. 397/398, o sentenciado alcançou, objetivamente, direito ao livramento condicional, e conforme boletim informativo, há atestado comprobatório de comportamento carcerário e atestado firmado, em especial, pelo diretor da unidade, dando conta de boa conduta carcerária.
+Por fim, quanto ao exame criminológico, considerando o disposto na Lei 14.483/24, em compatibilidade com o princípio constitucional da individualização da pena (CF, art. 5.º, XLVI), não sendo esta execução de crime hediondo, a considerar, ainda, que a avaliação do diretor da unidade prisional é ampla e envolve vários setores como segurança, saúde, educação, disciplina, comportamento, entre outros, não é indispensável o exame criminológico, à luz das avaliações de caráter subjetivo já realizadas.
+ ..
+Ante o exposto, presentes os requisitos legais, DEFIRO o pedido de LIVRAMENTO CONDICIONAL a(o) sentenciado(a) DANILO DA SILVA SCHETTINI, MTR:
+984992, RG: 38662710, RJI: 170514366-71, CDP "ASP Valdecir Fabiano" de Riolândia, mediante as condições abaixo.
+Como se vê, o Juiz da execução entendeu que o caso concreto não exprime gravidade singular, daquelas a serem observadas com atenção na execução penal, que podem refletir aspecto subjetivo perigoso do sentenciado. Destacou ainda que a avaliação do diretor da unidade prisional é ampla e envolve vários setores como segurança, saúde, educação, disciplina, comportamento, entre outros, não é indispensável o exame criminológico, à luz das avaliações de caráter subjetivo já realizadas.
+Contudo, o Tribunal de origem reformou a decisão, para determinar a restituição do paciente ao cumprimento da pena no regime fechado pelos seguintes fundamentos (fls. 18-22):
+ ..
+É o relatório.
+O sentenciado, conforme se depreende da ficha do réu, cumpria pena de 6 anos e 4 meses de reclusão, em regime inicial fechado, pela prática de roubo majorado e receptação, com término de cumprimento previsto para 4 de fevereiro de 2028 (páginas 10/11).
+Pleiteou, então, a concessão do livramento condicional (página 441 dos autos principais), deferido pelo magistrado (páginas 12/15), razão do inconformismo.
+Penso que a decisão deve ser revista, em razão da falta de demonstração de mérito.
+Lapso temporal há (página 11).
+O merecimento do sentenciado, no entanto, para o livramento condicional, não foi devidamente apurado, sendo caso de realização de prévio exame criminológico. Quanto a este ponto, entendo que o procedimento para aferição do requisito subjetivo, por mera declaração da direção do estabelecimento penitenciário e pelo boletim informativo, não é hábil ao fim colimado.
+É regra geral de processo que o Juiz pode, de ofício ou a requerimento das partes, seja no processo ordinário, seja no processo de execução, determinar a produção de provas e indeferir diligências impertinentes e protelatórias. O artigo 370, do Código de Processo Civil (Lei nº 13.105/15), que consagra o princípio e pode ser aplicado subsidiariamente ao processo penal, assegura o poder instrutório do Juiz. O artigo 156, do Código de Processo Penal, também. E é justamente disso que se cuida.
+Portanto, o Juiz não só pode como deve determinar provas, em qualquer procedimento e em qualquer fase dele, a fim de que possa decidir adequadamente. Deve, contudo, justificar.
+E em se tratando da concessão de benefício liberatório, envolvendo sentenciado já considerado não apto à vida livre em sociedade, com mais razão é importante que o faça, pena de figurar como mero expectador do processo.
+De outra parte, a prévia submissão do sentenciado a exames busca a comprovação da cessação ou atenuação de periculosidade. É medida de bom senso, ainda que a legislação fosse omissa, porque ninguém irá colocar na sociedade indivíduo perigoso, apenas porque tem bom comportamento no estabelecimento prisional.
+E, no caso concreto, o exame criminológico era necessário porque o sentenciado ostenta claríssima periculosidade. Verifica-se que ele foi condenado pela prática de crimes de roubo majorado, delito cometido com grave ameaça ou violência contra pessoa, e de receptação, que estimula a prática de crimes patrimoniais antecedentes.
+Daí porque era necessário saber, ao menos, se estava apto a ser colocado em liberdade condicional. O juiz necessita de elementos hábeis, objetivos e concretos, para decidir acerca da conveniência do abrandamento do regime, porque, ao deferir o livramento condicional sem eles, poderá pôr em risco a sociedade, desconsiderando, inclusive, os limites da sentença condenatória. É verdade que a decisão sempre terá muito de subjetivo, até porque ninguém pode entrar na mente do ser humano e há sempre a possibilidade de ele ocultar seus sentimentos ou desígnios. Mas é preciso que o processo traga ao julgador um mínimo de segurança, porque a decisão irá flexibilizar o regime da pena, colocando o sentenciado autor de delito grave em situação de quase liberdade. E no caso, data venia, não há segurança.
+Frise-se, ainda, que a condenação de DANILO pelo crime de roubo majorado é circunstância que impõe maior rigor quanto à aferição do requisito subjetivo para fins de livramento condicional, conforme, aliás, os exatos termos do comando inserto no artigo 83, parágrafo único, do Código Penal, in verbis: "Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir", tudo a justificar, reafirmo, a submissão do agravado a exame criminológico.
+O deferimento do livramento, nunca é demais insistir, demanda a prévia comprovação da falta de periculosidade. No caso, o fato é que não há como reconhecer presente e satisfeito o requisito subjetivo para o livramento, com a nota de que a pedra de toque é a demonstração da falta ou atenuação da periculosidade, não verificada.
+O quadro posto nos autos, assim, demonstra que o agravado não pode ser colocado em liberdade no momento.
+Pelo meu voto, pois, DOU PROVIMENTO ao recurso, para cassar o livramento condicional, determinando-se a imediata regressão do sentenciado ao regime fechado, com a nota de que o exame criminológico deve ser realizado, decidindo o Magistrado, a seguir, como entender de direito. Oficie-se com urgência.
+Como se vê, o Tribunal de origem entendeu que, mesmo tendo satisfeito o requisito objetivo temporal e havendo parecer do diretor do presídio favorável, houve "falta de demonstração de mérito", porque não foi devidamente apurado, sendo caso de realização de prévio exame criminológico.
+O único motivo apontado para a realização do exame criminológico foi a gravidade abstrata do crime pelo qual o paciente foi condenado, destacando que referido exame era necessário porque o sentenciado ostenta claríssima periculosidade, porque foi condenado pela prática de crimes de roubo majorado, "delito cometido com grave ameaça ou violência contra pessoa, e de receptação, que estimula a prática de crimes patrimoniais antecedentes".
+Como conta no parecer do Ministério Público, a jurisprudência do egrégio STJ é no sentido de que "a exigência de exame criminológico deve ser fundamentada em elementos concretos extraídos da execução penal. A gravidade abstrata do crime não justifica a negativa de progressão de regime ou livramento condicional sem fatos concretos ocorridos durante a execução" (AgRg no RHC n. 211.687/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/4/2025, DJEN de 28/4/2025).
+Destacam-se ainda os seguintes julgados desta corte:
+AGRAVO REGIMENTAL MINISTERIAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO ABSTRATA. GRAVIDADE DOS DELITOS, LONGA PENA A CUMPRIR E REINCIDÊNCIA. FUNDAMENTOS INIDÔNEOS. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A submissão do apenado a exame criminológico para concessão de benefícios na execução penal deve estar fundamentada em elementos concretos, ocorridos no curso da própria execução, em consonância com o enunciado 439 da Súmula do Superior Tribunal de Justiça.
+2. A gravidade abstrata dos crimes praticados, o tempo de pena a cumprir e a mera reincidência não constituem, por si sós, justificativas idôneas para a exigência do exame criminológico, pois tais fatores já foram sopesados no momento da fixação da pena. Precedentes.
+3. No caso concreto, a única falta grave registrada pelo agravado data de 2018, tendo sido reabilitada em 2019, há quase 6 anos. Além disso, não há registro de novas infrações disciplinares ao longo da execução da pena, conforme boletim informativo atualizado. Dessa forma, a exigência de exame criminológico fundamentada exclusivamente nessa ocorrência pretérita revela-se desproporcional e dissociada dos critérios fixados pela jurisprudência desta Corte, que exige a consideração de elementos concretos e atuais do comportamento do apenado para a aferição do requisito subjetivo.
+4. O entendimento desta Corte Superior é pacífico no sentido de que a avaliação do requisito subjetivo para a progressão de regime deve se basear em fatos concretos e atuais da execução penal, não em elementos inerentes ao delito praticado.
+5. Agravo regimental não provido.
+(AgRg no HC n. 983.784/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)  g.n.
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. APLICAÇÃO DA LEI NO TEMPO. IMPOSSIBILIDADE DE RETROATIVIDADE DE NORMA PENAL MAIS GRAVOSA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão que não conheceu do habeas corpus substitutivo, mas concedeu a ordem de ofício para determinar que o Juízo de execução analise o pedido de livramento condicional independentemente da realização do exame criminológico. O agravante sustenta a necessidade do exame criminológico, nos termos do art. 112, §1º, da Lei de Execução Penal (LEP), com a redação dada pela Lei nº 14.843/2024.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a exigência de exame criminológico para concessão de livramento condicional deve observar a nova redação do art. 112, §1º, da LEP, dada pela Lei nº 14.843/2024; e (ii) analisar se a fundamentação adotada pelo Juízo de execução para condicionar o benefício à realização do exame criminológico foi idônea.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substituto de recurso próprio, salvo em casos de flagrante ilegalidade.
+4. As normas relacionadas à execução penal possuem natureza penal e somente podem retroagir se forem mais benéficas ao condenado, conforme o art. 5º, XL, da Constituição Federal e o art. 2º, parágrafo único, do Código Penal.
+5. A nova redação do art. 112, §1º, da LEP, que exige a realização do exame criminológico, não se aplica retroativamente a fatos ocorridos antes de sua vigência, pois configura novatio legis in pejus.
+6. A exigência do exame criminológico deve estar fundamentada em peculiaridades concretas do caso, nos termos da Súmula nº 439 do STJ, não sendo suficiente a gravidade abstrata do crime ou a longa pena a cumprir.
+7. No caso concreto, a decisão que impôs o exame criminológico baseou-se apenas na gravidade abstrata do delito e no tempo restante de pena, sem indicar elementos concretos que justificassem a exigência, o que configura ilegalidade.
+8. Precedentes do STJ e do STF confirmam a impossibilidade de condicionar o livramento condicional ao exame criminológico sem fundamentação específica.
+IV. DISPOSITIVO
+9. Agravo regimental desprovido.
+(AgRg no HC n. 961.606/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+Ante o exposto, com fulcro no art. 34, inciso XX, do Regimento Interno do egrégio Superior Tribunal de Justiça, concedo o habeas corpus, para restabelecer a decisão do Juiz da execução penal de fls. 34-36 que deferiu o pedido de livramento condicional da pena ao paciente Danilo da Silva Schettini .
+Comunique-se com urgência.
+Publique-se.
+Intimem-se.
+EMENTA
