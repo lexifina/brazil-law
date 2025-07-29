@@ -1,0 +1,57 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 358, p. 1-3):
+
+    “EMENTA: TRÁFICO DE DROGAS - APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4° DA LEI 11.343/06 – IMPOSSIBILIDADE – REQUISITOS NÃO PREENCHIDOS. Para a concessão da benesse prevista no art. 33, § 4º da Lei Antidrogas, o legislador elencou requisitos que devem ser preenchidos cumulativamente e, em havendo provas de que a ré se dedicava a atividades criminosas, não há falar-se na aplicação da mencionada causa de diminuição no caso em concreto. (DES. EDISON FEITAL LEITE – REVISOR) V.V. APELAÇÃO CRIMINAL – CRIME DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (ARTS. 33, CAPUT, E 35, AMBOS DA LEI 11.343/06) – SENTENÇA CONDENATÓRIA – RECURSOS DEFENSIVOS E MINISTERIAL – QUESTÃO DE ORDEM - DIREITO DE RECORRER EM LIBERDADE – REJEIÇÃO - PRELIMINARES DE NULIDADE – VIOLAÇÃO DE DOMICÍLIO – QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA – NULIDADE DE BUSCAS NO VEÍCULO - REJEIÇÃO - PLEITO DE ABSOLVIÇÃO POR FALTA DE PROVAS – IMPOSSIBILIDADE – AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS – ERRO DE TIPO – INOCORRÊNCIA - INEXIGIBILIDADE DE CONDUTA DIVERSA NÃO EVIDENCIADA - DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO DE DROGAS PARA O DELITO PREVISTO NO ART. 28 DA LEI DE TÓXICOS – INADMISSIBILIDADE - CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO §4º DO ART. 33 DA LEI 11.343/06 – RECONHECIMENTO A APENAS UM DOS ACUSADOS - ASSOCIAÇÃO PARA O TRÁFICO (ART. 35, LEI 11.343/06) – PROVA DO VÍNCULO ESTÁVEL E PERMANENTE – ELEMENTO SUBJETIVO ESPECIAL INEXISTENTE – ISENÇÃO DA PENA DE MULTA – IMPOSSIBILIDADE - REGIME DE CUMPRIMENTO DE PENA – ABRANDAMENTO – INVIABILIDADE - SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS – REQUISITOS NÃO PREENCHIDOS - DETRAÇÃO PENAL – MATÉRIA ATINENTE AO JUÍZO DE EXECUÇÃO – REVERÊNCIA AO PRINCÍPIO DA SEGURANÇA JURÍDICA E INTELIGÊNCIA DO ART. 66 DA LEP - SENTENÇA REFORMADA PARCIALMENTE. -O acusado que permaneceu segregado todo o processo e não logrou êxito em demonstrar que ocorreram modificações em sua situação de fato e de direito que pudessem autorizar a revogação da prisão preventiva por ocasião da prolação da sentença condenatória não faz jus ao direito de recorrer em liberdade -O crime de tráfico de drogas possui caráter permanente, e sua consumação se estende pelo tempo, de modo que o estado de flagrância perdura enquanto não cessar a conduta delitiva. Uma vez comprovado o estado de flagrância, descabido o pleito de nulidade das provas obtidas, por suposta inviolabilidade do domicílio. -Consoante o brocardo francês “pas de nullité sans grief”, somente será reconhecida a nulidade processual se dela resultar prejuízo a um dos litigantes, circunstância que não se verificou no caso dos autos. -Havendo prova da autoria e materialidade do delito de tráfico ilícito de entorpecentes, deve ser mantida a condenação dos réus, sendo inviável o pretendido pleito absolutório. -O valor do depoimento testemunhal dos policiais militares - especialmente quando prestado em juízo, sob a garantia do contraditório -Reveste-se de inquestionável eficácia probatória, não se podendo desqualificá-lo pelo só fato de emanar de agentes estatais incumbidos, por dever de ofício, da repressão penal. -Afasta-se a alegada atipicidade da conduta por erro de tipo, se não pairam dúvidas de que o apelante sabia que estava vendendo substância psicotrópica sem autorização e em desacordo com determinação legal e regulamentar. -O reconhecimento da inexigibilidade de conduta diversa demanda uma situação concreta de emergência, em que o autor se vê compelido a delinquir sob pena de sofrer um mal maior, o que não restou comprovado nos autos. -Não procede o pleito de desclassificação da conduta tipificada no artigo 33, caput, da Lei de Tóxicos para aquela prevista no artigo 28 da mesma Lei, se a prova dos autos demonstra que o réu praticava o tráfico de drogas e não era mero usuário. -Incide, para o réu primário e que não ostenta maus antecedentes, a causa de diminuição do art. 33, § 4º, da Lei nº 11.343/2006, desde que o acusado não integre organização criminosa ou se dedique às atividades criminosas. -No que tange ao delito de associação para o tráfico, para emissão de um juízo condenatório é necessária a demonstração plena do vínculo estável e de caráter permanente, especificamente orientado à comercialização de drogas. -Impossível o afastamento da pena de multa quando o artigo legal infringido cumula, expressamente, reprimenda corporal e multa. -Incabível a substituição da pena privativa de liberdade por restritivas de direitos, quando não preenchidos os requisitos do art. 44 do CP semiaberto para o cumprimento da reprimenda, nos termos do art. 33, §2º,”b”, do CP. -Em reverência ao Princípio da Segurança Jurídica e inteligência do art. 66, III da Lei de Execuções Penais, não se mostra viável a análise da detração penal em sede de apelação, eis que referida matéria é de competência do Juízo da Execução, o qual detém maior abrangência para análise e cálculo. ”
+
+     No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XI, da Constituição Federal.
+
+    Nas razões recursais, sustenta-se que, no caso concreto, não estavam presentes circunstâncias aptas a autorizar a entrada dos policias no domicílio da recorrente, de modo que o acórdão recorrido encontra-se em dissonância com entendimento proferido no bojo do Tema 280 da repercussão geral.
+
+    Nessa linha, assevera que “a violação de domicílio teve como justificativa o comportamento suspeito da Recorrente – que supostamente empreendeu fuga ao avistar a viatura policial -, circunstância fática que não autoriza a dispensa de investigações prévias ou do mandado judicial para a entrada dos agentes públicos na residência, acarretando a nulidade da diligência policial” (eDOC 411, p. 12).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Inicialmente, verifica-se que o Supremo Tribunal Federal reconheceu a existência de repercussão geral do tema sobre “provas obtidas mediante invasão de domicílio por policiais sem mandado de busca e apreensão” no julgamento do RE 603.616 (Relatoria do Ministro Gilmar Mendes, Pleno, DJe 08.10.2010, Tema 280).
+
+    O Tribunal assentou que a entrada forçada em domicílio, sem mandado judicial, na situação de flagrante delito deve ser amparada por fundadas razões, motivadas a posteriori, sob pena de nulidade dos atos praticados e responsabilidade do agente. Nas oportunidade, foi fixada a seguinte tese:
+
+    “A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.” (grifei)
+
+    Com efeito, observa-se que a presente controvérsia não destoa do quanto decido no referido tema de repercussão geral, tendo em vista que esta Corte, no julgamento do RE-RG 603.616, assentou só ser lícita a entrada forçada em domicílio, sem mandado judicial, quando amparada em fundadas razões, o que se verifica na espécie, na medida em que o Tribunal de Justiça estadual asseverou que
+
+    “Pelos contornos fáticos que permeiam o presente processado, constata-se que o ingresso na residência dos acusados Cleiton e Lorena resultou de uma sequência lógica de atos, ante a clarividente suspeita de que os denunciados estariam praticando um dos núcleos do tipo penal previsto no art.33 da Lei de Tóxicos. Ao que consta, os acusados Cleiton e Lorena se mudaram para um barracão na Rua Pará de Minas nesta cidade e montaram um entreposto de drogas, armazenavam grande quantidade de droga e, com a ajuda de diversos intermediários, repassava os entorpecentes para outros traficantes e intermediários. Essa situação chamou a atenção de moradores da localidade, que acionaram a Polícia Militar. Consoante se vê, as circunstâncias que antecederam a entrada dos policiais na residência dos réus evidenciam as fundadas razões que justificaram tal diligência. Dessa forma, patente a situação flagrancial que ensejou a entrada dos militares no domicílio, não há que se falar em nulidade.” (eDOC 358, p. 16).
+
+    Feita essa observação, verifico que eventual divergência em relação ao entendimento adotado pelo Tribunal de origem, notadamente no que se refere à análise das fundadas suspeitas que estariam a autorizar a entrada dos policiais, demandaria, necessariamente, o reexame dos fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista o óbice contido na Súmula 279 do STF.
+
+    Nesse sentido:
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ALEGADA VIOLAÇÃO DE DOMICÍLIO. TEMA N. 280 DA REPERCUSSÃO GERAL. ACÓRDÃO EM CONFORMIDADE COM O DECIDIDO NO RE 603.616. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO.
+
+    1. Nos crimes de natureza permanente – tráfico de entorpecentes, na espécie –, cuja situação de flagrância se protrai no tempo, é dispensável a apresentação de mandado judicial para o ingresso forçado na residência do acusado desde que a medida esteja amparada em fundadas razões (Tema n. 280/RG).
+
+    2. Dissentir da conclusão alcançada pelo Colegiado de origem – ausência de fundadas razões para o ingresso no domicílio – demandaria revolvimento dos elementos fático-probatórios. Incidência do enunciado n. 279 da Súmula do Supremo.
+
+    3. Agravo interno desprovido.” (RE 1346806-AgR, Rel. NUNES MARQUES, Segunda Turma, DJe 02.06.2022 - grifei)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. TRÁFICO ILÍCITO DE DROGAS. INVIOLABILIDADE DE DOMICÍLIO. ART. 5°, XI, DA CONSTITUIÇÃO FEDERAL. FLAGRANTE DELITO. TEMA 280 DA REPERCUSSÃO GERAL. RE 603.616-AgR/RO. IMPOSSIBILIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. OFENSA REFLEXA. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+    I - As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+
+    II - Nos termos da Constituição Federal, a inviolabilidade de domicílio não é um direito absoluto, comportando exceção em caso de, por exemplo, flagrante delito. Ao julgar o RE 603.616-AgR/RO, de relatoria do Ministro Gilmar Mendes, esta Suprema Corte decidiu, sob o regime de repercussão geral, que a entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa há situação de flagrante delito. É o que enuncia o Tema 280.
+
+    III - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+
+    IV - Agravo regimental a que se nega provimento.” (ARE 1281760-AgR, Rel. RICARDO LEWANDOWSKI, Segunda Turma, DJe 02.10.2020 - grifei)
+
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, do RI/STF.
+
+    Publique-se.
+
+    Brasília, 29 de julho de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
