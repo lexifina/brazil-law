@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por WANDERSON RIDINO MOREIRA NEVES contra decisão que inadmitiu recurso especial no qual se objetivava a reforma de acórdão do Tribunal de Justiça do Estado de Goiás, que recebeu a seguinte ementa (e-STJ fls. 454/455):
+Ementa: DIREITO PENAL. PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. PRONÚNCIA. INDÍCIOS DE AUTORIA. MANUTENÇÃO DA DECISÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de Recurso em Sentido Estrito (RESE) interposto contra decisão de pronúncia em processo por Homicídio Qualificado. O recorrente busca a impronúncia, alegando ausência de indícios suficientes de autoria. A decisão recorrida acolheu a denúncia e pronunciou o réu para julgamento pelo Tribunal do Júri.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a existência de indícios suficientes de autoria para manter a pronúncia, diante da tese da defesa de ausência de provas.
+III. RAZÕES DE DECIDIR
+3. A materialidade do crime está comprovada por meio da Certidão de Óbito, Registro de Atendimento Integrado, Laudo de Exame Cadavérico e Laudo Pericial em local de morte violenta. 4. Os depoimentos testemunhais demonstram indícios da autoria, apontando para a motivação do crime e para a conduta do réu no dia dos fatos, incluindo ameaças prévias e a situação da abordagem da vítima. Embora existam divergências em alguns depoimentos, o conjunto probatório indica a razoável pertinência da responsabilidade do réu de forma que se aplica nessa fase procedimental o princípio do in dubio pro societate reservando-se ao Conselho dos Sete a deliberação sobre a tese defensiva da negativa da autoria.
+IV. DISPOSITIVO E TESE
+5. Recurso desprovido.
+A decisão de pronúncia é mantida.
+"1. A materialidade do crime está cabalmente demonstrada. 2. Existem indícios suficientes de autoria que justificam a manutenção da pronúncia."
+Dispositivos relevantes citados: Art. 121, §2º, incisos I, IV e VI e §2º-A, inciso I, todos do CPB.
+Jurisprudências relevantes citadas: TJGO, 1ª Câmara Criminal, Recurso em Sentido Estrito n. 5334824- 02.2023.8.09.0127, Relator Desembargador ITANEY FRANCISCO CAMPOS, publicado em 13/03/2024; TJGO, 4ª Câmara Criminal, Recurso em Sentido Estrito n. 5779698- 25.2022.8.09.0100, Relator Desembargador ADEGMAR JOSÉ FERREIRA, publicado em 08/07/2024.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, fundado na alínea "c" do permissivo constitucional, alega a parte recorrente negativa de vigência dos artigos 413 e 414, ambos do Código de Processo Penal. Sustenta ausência de indícios suficientes de autoria suficientes para justificar a pronúncia. Aponta divergência jurisprudencial com outros tribunais.
+Apresentadas as contrarrazões, o Tribunal a quo inadmitiu o recurso especial (e-STJ, fls. 538/541), dando ensejo à interposição do agravo ora apreciado.
+O Ministério Público Federal, nesta instância opinou pelo não conhecimento do agravo (e-STJ fls. 276/279).
+É o relatório. Decido.
+O agravo não merece ser conhecido.
+Isso porque, da leitura do despacho de inadmissibilidade, observo que o recurso especial foi obstado na origem por incidência dos óbices da Súmula 284/STF e da Súmula 7/STJ.
+Nas razões do agravo, contudo, limitou-se o agravante a afirmar a presença dos pressupostos de admissibilidade do recurso especial, impugnando de forma geral os fundamentos da decisão agravada.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Conforme orienta a jurisprudência desta Corte Superior que ""para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgRg no AREsp n. 2.060.997/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE ABSOLVIÇÃO. SÚMULA 7/STJ. REVALORAÇÃO JURÍDICA DOS FATOS. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DECISÃO DE INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. APLICAÇÃO DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, tendo o recurso especial sido inadmitido na origem com amparo na Súmula n. 7 do Superior Tribunal de Justiça e na Súmula n. 284 do Supremo Tribunal Federal, em caso no qual o agravante buscava sua absolvição, alegando que a questão jurídica posta em análise não demandaria simples reexame de prova, mas revaloração dos critérios jurídicos.
+II. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em verificar se o agravo em recurso especial impugnou adequadamente os fundamentos da decisão que inadmitiu o recurso especial na origem, especialmente quanto aos óbices das Súmulas 7/STJ e 284/STF, e se a análise da pretensão absolutória dependeria, de fato, de mera revaloração jurídica dos critérios utilizados ou de reexame de matéria fático-probatória, inadmissível na via do recurso especial.
+III. RAZÕES DE DECIDIR
+A decisão que inadmite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal, devendo ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais, não sendo suficiente a mera repetição dos argumentos do recurso especial.
+A falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+Para superar o óbice da Súmula 7/STJ, exige-se a demonstração clara e objetiva de que a solução da controvérsia e a alegada violação de lei federal independem do reexame do conjunto fático-probatório dos autos, não bastando a mera afirmação genérica de que o caso demandaria apenas revaloração jurídica.
+A superação do óbice da Súmula 284/STF exige que o recorrente realize o cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal, não bastando a menção superficial a leis federais ou a exposição do tratamento jurídico da matéria que o recorrente entende correto.
+No caso concreto, a análise das razões recursais indica que, embora afirme a adequada superação dos óbices apontados, o agravante limitou-se a declarar genericamente que "não visa o reexame de provas, o que inclusive é vedado pela Súmula 07 do C. STJ, mas tão somente a reanálise do direito respaldado em lei federal", sem demonstrar efetivamente de que forma a análise de sua pretensão absolutória não demandaria o reexame do arcabouço fático-probatório dos autos.
+IV. DISPOSITIVO E TESE
+Agravo regimental desprovido.
+Tese de julgamento: 1. A ausência de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo, conforme a Súmula 182/STJ. 2. Para afastar a incidência da Súmula 7/STJ, exige-se a demonstração clara e objetiva de que a solução da controvérsia independe do reexame do conjunto fático-probatório, não bastando a mera afirmação genérica de que o caso demandaria apenas revaloração jurídica. 3. A superação do óbice da Súmula 284/STF requer o cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, demonstrando a correlação jurídica entre o fato e o mandamento legal supostamente violado.
+Dispositivos relevantes citados: CPC, art. 932, III; RISTJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, EAREsp 746.775/PR, Rel. p/ acórdão Min. Luis Felipe Salomão, Corte Especial, j. 19/9/2018; STJ, AgRg no AREsp 2.225.453/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 7/3/2023; STJ, AgRg no AREsp 1.871.630/SP, Rel. Min. Laurita Vaz, Sexta Turma, j. 14/2/2023; STJ, AgRg no AREsp 2.549.078/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 4/6/2024; STJ, AgRg no AREsp 2.509.469/MS, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 19/3/2024; STJ, AgRg no AREsp 2.517.591/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 16/4/2024; STJ, AgRg no AREsp 2.577.743/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 20/5/2025; STJ, Súmulas 7 e 182; STF, Súmula 284. (AgRg no AREsp n. 2.772.038/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.)
+Desta forma, no caso, a falta de impugnação concreta aos fundamentos da decisão agravada atrai a incidência do enunciado n. 182 da Súmula do STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
