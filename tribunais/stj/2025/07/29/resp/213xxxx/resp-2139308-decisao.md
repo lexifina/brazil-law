@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE RONDÔNIA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia assim ementado:
+Agravo em execução penal. Irresignação ministerial. Progressão de regime. Pena de multa imposta de forma cumulativa a reprimenda privativa de liberdade. Intimação do apenado para justificar o inadimplemento. Tema Repetitivo nº 931 do STJ. Modulação dos efeitos. Necessidade. Garantia da segurança jurídica. Agravo não provido.
+O apenado que foi condenado a pena de multa imposta de forma cumulativa a reprimenda privativa de liberdade deve ser intimado, antes da concessão da progressão de regime, livramento condicional ou extinção da punibilidade, para comprovação do seu adimplemento ou eventual impossibilidade financeira de fazê-lo.
+Entendimento alterado após a revisitação do Tema Repetitivo nº 931 do STJ, o qual exige modulação dos efeitos, em viés da garantia da segurança jurídica.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, o Ministério Público do Estado de Rondônia alega violação dos arts. 32, III, 49 e 50 do Código Penal e 489, § 1º, IV, 926 e 927, III, do Código de Processo Civil. Sustenta, em síntese, que o inadimplemento da pena de multa pelo condenado impede a progressão de regime, exceto quando comprovada a impossibilidade de pagamento, nos termos do entendimento do Superior Tribunal de Justiça, esposado no Tema n. 931 do STJ.
+Contrarrazões apresentadas pelo recorrido às fls. 150-155, pugnando pelo não conhecimento ou pelo não provimento do recurso.
+A Corte de origem determinou a baixa dos autos para aguardar o julgamento do Tema n. 1.152 do STJ, decisão impugnada via agravo interno, ao qual foi dado provimento.
+O recurso especial foi admitido na origem.
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Paulo Thadeu Gomes da Silva, manifestou-se pelo não provimento do recurso especial.
+É o relatório.
+A controvérsia cinge-se a verificar se a progressão de regime prisional pode ser condicionada ao pagamento da pena de multa, ressalvada a comprovação da impossibilidade de fazê-lo.
+O Tribunal de origem entendeu pela manutenção da progressão de regime concedida ao recorrido, consignando que:
+Outrossim, não obstante a alteração de entendimento há de se pontuar que a decisão vinculante do Superior Tribunal de Justiça nos Recursos Especiais Representativos da Controvérsia n. 1.785.383/SP e 1.785.861/SP foi proferida em 24/11/2021, com publicação em 30/11/2021, sendo que este Tribunal foi formalmente notificado apenas em 03/12/2021, com publicação do precedente no site do NUGEPNAC/TJRO em 06/12/2021.
+Logo, em viés de garantia da segurança jurídica, afere-se necessária a modulação dos efeitos em relação a tese do Tema Repetitivo nº 931, de modo a manterem-se hígidas, sem a necessidade de comprovação da hipossuficiência financeira, as decisões anteriores a 06/12/2021 (como é o caso dos autos), e aplicando às decisões subsequentes o novo entendimento.
+O acórdão recorrido não merece reforma, por estar em consonância com a jurisprudência desta Corte Superior.
+Com efeito, o Superior Tribunal de Justiça tem se manifestado no sentido de que o inadimplemento da pena de multa, aplicada cumulativamente à pena privativa de liberdade, impede a progressão de regime, salvo quando comprovada a impossibilidade de fazê-lo. Contudo, ressalva-se a necessidade de intimação prévia do reeducando para que lhe seja dada oportunidade de comprovar a impossibilidade de pagamento.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INADIMPLEMENTO DA PENA DE MULTA CUMULATIVAMENTE APLICADA. VEDAÇÃO AO DEFERIMENTO DA BENESSE DO ART. 112 DA LEP. POSSIBILIDADE. HIPOSSUFICIÊNCIA DO APENADO PRESUMIDA PELAS INSTÂNCIAS ORDINÁRIAS. REEDUCANDO ASSISTIDO PELA DEFENSORIA PÚBLICA. PRESUNÇÃO INDEVIDA. AUSÊNCIA DE INTIMAÇÃO DO APENADO PARA O PAGAMENTO DA MULTA. AUSÊNCIA DE COMPROVAÇÃO DA ABSOLUTA INCAPACIDADE ECONÔMICA DE ARCAR COM A SANÇÃO PECUNIÁRIA. POSSIBILIDADE DE ADIMPLEMENTO PARCELADO. ART. 50, CAPUT, DO CP. PRETENSÃO DE RESTABELECIMENTO DA PROGRESSÃO DE REGIME INDEPENDENTEMENTE DO PAGAMENTO DA PENA DE MULTA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+7. Desse modo, constatado o inadimplemento da pena de multa aplicada cumulativamente à privativa de liberdade, o Juízo da Execução Criminal deverá, antes de deliberar acerca da progressão de regime, intimar o reeducando para efetuar o pagamento, ressaltando a possibilidade de parcelamento, a pedido e conforme as circunstâncias do caso concreto (art. 50, caput, do CP), bem como oportunizando ao condenado comprovar, se for o caso, a absoluta impossibilidade econômica de arcar com seu valor sem prejuízo do mínimo vital para a sua subsistência e de seus familiares.
+(AgRg no REsp n. 1.990.425/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+No caso, o recorrido é representado pela Defensoria Pública do Estado de Rondônia, gozando de presunção de veracidade sua declaração de hipossuficiência, com base no art. 99, § 3º, do Código de Processo Civil, não tendo sido apresentada prova em sentido contrário pela parte adversa.
+Sobre o tema, é o entendimento desta Corte Superior:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. COMPROVAÇÃO DE HIPOSSUFICIÊNCIA DO APENADO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+ ..
+2. No caso dos autos, a Corte de origem, após a análise acurada dos elementos probatórios, presumiu que o sentenciado não possui recursos para a quitação da multa que lhe foi imposta.
+3. Alterar a conclusão a que chegaram as instâncias ordinárias, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "a pretensão de simples reexame de prova não enseja recurso especial.
+(AgRg no REsp n. 1.900.858/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/2/2021, DJe de 8/2/2021.)
+Ademais, o posicionamento do Tribunal de origem encontra amparo na interpretação do Superior Tribunal de Justiça acerca do Tema Repetitivo n. 931, que versa sobre a problemática do adimplemento da pena de multa como requisito para a extinção da punibilidade. Nele, esta Corte Superior fixou a tese de que: "Na hipótese de condenação concomitante à pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade."
+Sendo o condenado assistido pela Defensoria P ública, temos, certamente, uma presunção de sua hipossuficiência, ensejando a adequação do acórdão recorrido à jurisprudência desta Corte Superior de Justiça.
+Nesse contexto, válido destacar a modulação de efeitos feita pelo Tribunal de origem no sentido de manter as decisões proferidas antes da publicação formal do precedente repetitivo, em consonância com o princípio da segurança jurídica.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
