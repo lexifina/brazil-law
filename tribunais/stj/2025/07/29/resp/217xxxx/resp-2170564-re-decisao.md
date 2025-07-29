@@ -1,0 +1,55 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental, mantendo a decisão que conheceu em parte do recurso especial, em razão da incidência da Súmula n. 7 do STJ, e, nessa extensão, negou-lhe provimento.
+O julgado recorrido recebeu a seguinte ementa (fl. 952):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. VIOLAÇÃO DOS ARTS. 371 E 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de usucapião.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art.
+489 do CPC.
+3. No sistema da persuasão racional, adotado pelo art. 371 do CPC, o julgador é livre para examinar as provas dos autos, formando com base nelas a sua convicção, desde que indique de forma fundamentada os elementos de seu convencimento. Precedentes.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 974-978).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que a conclusão alcançada nesta Corte Superior careceria de fundamentação idônea, porquanto teria confirmado a existência de motivação suficiente n o julgado do Tribunal de origem sem valorar o contexto probatório de maneira efetiva.
+Pondera que haveria omissão na análise de declarações testemunhais confirmatórias da usucapião, apontando a inaplicabilidade da Súmula n. 7 do STJ ao caso concreto.
+Enfatiza que (fl. 990):
+ ..  reiterou, inclusive em Embargos de Declaração, a existência de um erro material no voto do Tribunal de origem, que afirmou que ela havia assinado uma escritura de dação em pagamento, quando, na verdade, foi a atual companheira do recorrido quem o fez.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 955-956):
+Com efeito, constata-se que os arts. 371 e 489 do CPC realmente não foram violados, pois analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+Além disso, consoante destacado na decisão agravada, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016). No mesmo sentido: AgInt nos EDcl no AREsp 1.547.208/SP, 3ª Turma, DJe 19/12/2019 e AgInt no AREsp 1.480.314/RJ, 4ª Turma, DJe 19/12/2019.
+Ainda, como registrado na decisão ora impugnada, entende esse Superior Tribunal de Justiça que, "segundo o sistema da persuasão racional, adotado pela legislação processual civil (artigos 130 e 131 do CPC/1973 e 371 do CPC/2015), o magistrado é livre para examinar as provas dos autos, formando com base nelas a sua convicção, desde que indique de forma fundamentada os elementos de seu convencimento" (AgInt no AREsp 1.360.491/SP, 4ª Turma, DJe 1/12/2021), como ocorreu no particular. No mesmo sentido: AgInt no AREsp 2.034.835/PR, 3ª Turma, DJe de 6/4/2022.
+Outrossim, a despeito das alegações ora aduzidas pela agravante, conforme consignado na decisão agravada, a reforma do acórdão recorrido, para alterar o decido pelo Tribunal de origem, tal como pretendida pela referida parte, realmente exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa à referida Súmula.
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração, nos seguintes termos (fls. 976-977):
+Com efeito, o que se verifica é que o acórdão embargado, de forma clara e fundamentada, negou provimento ao agravo interno interposto pela parte embargante, em razão da incidência do óbice da Súmula 7do STJ e da ausência de violação dos arts. 371 e 489 do CPC, in litteris (e-STJ fls. 955/956):
+ ..
+Convém reiterar que, na hipótese dos autos, constatou-se que a questão controvertida foi devidamente analisada e discutida pelas instâncias ordinárias, com ampla fundamentação nas provas dos autos, embora delas retirando conclusões distintas daquelas que pretendia a parte ora embargante, assim como consignou-se que alterar o decidido exigiria, desta Corte, a análise do contexto fático-probatório, o que é vedado.
+Nesse contexto, salienta-se que o vício da contradição ocorrerá quando no bojo da mesma decisão ou acórdão existirem argumentos que não sejam conciliáveis entre si, isto é, um capaz de superar o outro, o que não se verifica na espécie. Nesse sentido: EDcl no AgInt nos EAREsp 1.125.072/RJ, Corte Especial, DJe 2/4/2019.
+Sobre o tema, a propósito, a doutrina capitaneada por RODRIGO MAZZEI (em obra coordenada por Teresa Arruda Alvim Wanbier, Freddie Diddier Jr., Eduardo Talamini e Bruno Dantas), dispõe que:
+A função saneadora dos embargos de declaração - em caso de contradição - se finca em atuação de profilaxia para desintoxicar a decisão embargada, já que esta se encontra instável pela coexistência interna de duas (ou mais) proposições conflitantes. (Breves comentários ao novo código de processo civil: de acordo com as alterações da Lei 13.256/16. 2 ed. São Paulo: RT, 2016, pág. 2.376).
+Na verdade, a pretexto de omissão e contradição, revela-se nítida a pretensão da parte embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento quanto ao ponto, intuito esse incompatível com a natureza desse recurso.
+Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto erro de julgamento, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Logo, considerando que o presente recurso não reúne os pressupostos específicos para o seu acolhimento, nos termos do art. 1.022 do CPC, não merece prosperar a irresignação da parte embargante.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
