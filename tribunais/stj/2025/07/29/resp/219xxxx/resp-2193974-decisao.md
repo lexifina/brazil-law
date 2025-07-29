@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCAS PEYERL, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ na Apelação Criminal n. 001081-20.2024.8.16.0196.
+No recurso especial, a defesa aponta a violação dos arts. 240, § 2º, e 244, do Código de Processo Penal, postulando, assim, pelo reconhecimento da ilicitude das provas obtidas através de revista pessoal, bem como todas as que dela decorreram (fls. 797/835).
+O recurso especial foi admitido na origem (fls. 860/862).
+O Ministério Público Federal opina pelo não provimento do recurso especial (fls. 878/882).
+É o relatório.
+O acórdão originário assim enfrentou o tema (fl. 771 - grifo nosso):
+Conforme se depreende dos depoimentos supra, os agentes públicos, que estavam em patrulhamento de rotina, avistaram o veículo conduzido pelo ora apelante que, por sua vez, mudou repentinamente sua direção assim que percebeu a presença da equipe, dando seta para um lado e virando para outro, o que causou estranheza e ensejou o início do seu acompanhamento pela Polícia.
+Os policiais narraram ainda que presenciaram o ora apelante, na condição de condutor do veículo, virar outras ruas para tentar desviar do caminho da viatura.
+Ademais, conforme disposto pela PGJ "é duvidosa a alegação de que as várias manobras realizadas pelo acusado tiveram por único intento estacionar o seu veículo, haja vista ter ele mudado de direção justamente quando se deparava com a viatura policial, conduta essa por ele repetida até o momento em que foi abordado ".
+Com efeito, tais elementos indicam a existência de fundadas razões de que o réu portava elementos de corpo de delito (substâncias entorpecentes), situação que se confirmou no decorrer da diligência policial, com a apreensão de 900g (novecentos gramas) da substância entorpecente análoga a maconha (cf. auto de exibição e apreensão de mov. 1.7).
+De fato, o Superior Tribunal de Justiça, ao analisar os arts. 240, § 2º, e 244, ambos do Código de Processo Penal, vem firmando o entendimento de que a busca pessoal somente será válida se: i) a justa causa for baseada em um juízo de probabilidade descrito com a maior precisão possível, aferido de modo objetivo e devidamente justificado pelos indícios e circunstâncias do caso concreto; ii) a fundada suspeita for relacionada à posse de corpo de delito, devendo haver uma necessária referibilidade da medida à sua finalidade legal probatória; e iii) se a fundada suspeita não se basear em informações de fonte não identificada ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, ante a ausência de descrição concreta e precisa, pautada em elementos objetivos.
+O Supremo Tribunal Federal, acerca deste tema, consignou que o comportamento evasivo do agente, ao avistar guarnição policial em via pública, constitui elemento mínimo a caracterizar fundadas razões (justa causa) para legitimar a prisão em flagrante (HC n. 244.768 AgR, Ministro Cristiano Zanin, Primeira Turma, DJe 4/9/2024).
+Esta Corte também tem afirmado que se evadir do local repentinamente ao avistar uma guarnição policial configura motivo idôneo para autorizar uma busca pessoal em via pública. A propósito: HC n. 877.943/MS, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 15/5/2024.
+Neste sentido, considerando-se a moldura fática ora delineada, verifica-se que a atuação policial se mostra em consonância com a orientação emanada por este Superior Tribunal. As circunstâncias do caso concreto (carro com insulfilme e alternando a direção sem justificativa após visualizar os policiais) configuram elementos objetivos suficientes para caracterizar a fundada suspeita exigida pelo art. 244 do CPP.
+Conforme orientação desta Corte e do Supremo Tribunal Federal, o comportamento evasivo do agente ao avistar a guarnição policial, especialmente quando conjugado com outros elementos objetivos do caso concreto, preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP.
+É o caso, pois, de incidir a Súmula 568/STJ.
+Em face do exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA. COMPORTAMENTO EVASIVO. ELEMENTOS OBJETIVOS CONFIGURADOS. ABORDAGEM POLICIAL LEGÍTIMA. NULIDADE AFASTADA. PRECEDENTES.
+Recurso especial improvido.
