@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WILLIAM LOPES PEIXOTO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que inadmitiu o recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 7 anos de reclusão no regime fechado e 610 dias-multa, como incurso nas sanções do art. 33, c/c o art. 40, VI, da Lei 11.343/2006 e 180 do CP.
+O Tribunal de origem negou provimento ao recurso, mantendo a condenação.
+O agravante interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal.
+Nas razões, a defesa alegou que o acórdão recorrido violou o § 4º do art. 33 da Lei n. 11.343/2006, ao não reconhecer a minorante do tráfico privilegiado, e o art. 33, § 2º, do Código Penal, ao não alterar o regime inicial de cumprimento da pena.
+Argumentou que o réu é primário, de bons antecedentes, e que não há prova idônea de que se dedica a atividades criminosas ou integra organização criminosa.
+Requereu o provimento do recurso especial para reformar o acórdão recorrido, reconhecendo a benesse do tráfico privilegiado e afastando a hediondez do delito, com a fixação do regime inicial aberto para cumprimento da reprimenda (fls. 410-430).
+O recurso especial foi inadmitido (fls. 447-451).
+Diante da decisão de inadmissibilidade, o agravante interpôs agravo em recurso especial, impugnando os fundamentos da decisão agravada nos seguintes termos: o Tribunal de origem indevidamente afastou a violação d o § 4º do art. 33 da Lei n. 11.343/2006, uma vez que a questão debatida é eminentemente jurídica, envolvendo a correta aplicação das normas que disciplinam o tráfico privilegiado.
+Requereu, assim, o provimento do agravo para determinar o processamento do recurso especial (fls. 460-471).
+Impugnação apresentada às fls. 478-484.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso, com parecer assim ementado (fl. 506):
+Processo penal. ARESP da defesa. Decisão que não admitiu RESP. Acórdão que manteve condenação por tráfico de drogas. Pleito de reconhecimento do tráfico privilegiado e de abrandamento do regime prisional inicial. Do ARESP: pretensão recursal que demanda dilação probatória. Pelo desprovimento. Do REsp: valorada a quantidade de maconha apenas na 1a fase da dosimetria da pena, o modus operandi da conduta - transporte de droga em veículo objeto de crime - denota a dedicação a atividades criminosas; tanto é assim que a condenação por tráfico de drogas foi em concurso material com o crime de receptação, pelo que de Lei o afastamento do tráfico privilegiado. Apreendida mais de meia tonelada de maconha - 717,600 Kgs - , essa circunstância é de relevo, foi valorada na dosimetria da pena, e assim fundamenta o regime prisional inicial fechado, não obstante a pena inferior a 8 anos de reclusão, nos termos do art. 42 da Lei 11.343/06 c.c. p. 3º do art. 33 e art. 59, ambos do CP. Pelo desprovimento, ausente flagrante ilegalidade que determine a concessão, de ofício, de ordem de HC.
+É o relatório.
+Considerando que o agravo em recurso especial enfrenta de maneira suficiente os fundamentos da decisão que inadmitiu o recurso especial no Tribunal de origem, passo ao exame do recurso especial.
+Quanto à incidência da minorante do tráfico, assim constou do acórdão (fl. 401):
+Melhor sorte não assiste ao recorrente quanto à possibilidade de incidência da causa de diminuição do § 4º, do art. 33, da Lei n. 11.343/2006.
+Embora o réu seja primário, os elementos acostados demonstram que se dedicava às atividades criminosas.
+Como bem fundamentou o magistrado, as circunstâncias da prisão indicam que o mesmo não preenche os requisitos para obter o reconhecimento da eventualidade. Pondero apenas que ainda que não se possa falar em organização criminosa, porquanto nem mesmo houve denúncia por tal delito (art. 1º, § 1º, da Lei n. 12.850/2013), o réu não preenche os demais requisitos para aplicação do § 4º, do art. 33, da Lei n. 11.343/2006.
+Sua colaboração com associação criminosa atuante no tráfico de elevada quantidade de droga (717 tabçletes de maconha totalizando 717Kg600g de entorpecente), ante o modus operandi para a prática do crime, com envolvimento de adolescente, e a utilização de veículo objeto de crime (furto/roubo), demonstram sua dedicação à atividade criminosa.
+No caso dos autos, o Tribunal de origem não aplicou a redução de pena do art. 33, § 4º, da Lei n. 11.343/2006, justificando a decisão pela participação do agravante em associação criminosa. Além da grande quantidade de droga, considerou também o modus operandi, que incluiu o envolvimento de um menor e o uso de um veículo roubado, o que resultou na sua condenação por receptação.
+Tais circunstâncias, nos termos do entendimento desta Corte Superior, são aptas a evidenciar a dedicação a atividades criminosas. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. RECURSO NÃO PROVIDO.
+1. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Hipótese em que a Corte de origem manteve afastada a minorante, por entender que a expressiva quantidade da droga apreendida - 99 porções de maconha (86,65kg ) - e o modus operandi do delito são elementos que, notadamente, evidenciam a dedicação do agente à atividade criminosa, bem como a colaboração com o grupo criminoso.
+Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+Precedentes.
+3. Agravo regimental não provido.
+(AgRg no HC n. 936.213/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ROUBO MAJORADO. CRIME CONTINUADO. REQUISITOS NÃO PREENCHIDOS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça exige, para a configuração da continuidade delitiva, a concomitância de exigências de ordem objetiva, considerando as mesmas condições de tempo, espaço e modus operandi, e de ordem subjetiva, configurada na unidade de desígnios.
+2. O Tribunal de origem registrou que os delitos foram cometidos em circunstâncias incomuns, de forma que os desígnios se apresentam como manifestamente autônomos, o que obsta o reconhecimento da continuidade delitiva, consoante o entendimento adotado por este Superior Tribunal.
+3. Quanto à minorante do art. 33, § 4º, da Lei de Drogas, ficou demonstrado que as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+4. Além disso, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o recorrente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático- probatório amealhado durante a instrução criminal, providência inviável em recurso especial, a teor da Súmula n. 7 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.397.617/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/8/2024, DJe de 30/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO. GRANDE QUANTIDADE DE COCAÍNA. INDICAÇÃO DE ELEMENTOS CONCRETOS ADICIONAIS. MODO DE EXECUÇÃO DO DELITO. VEÍCULO PREPARADO. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. Nos termos da orientação jurisprudencial desta Corte, "elementos tais quais petrechos e anotações típicos de tráfico, balança de precisão, ponto habitual de venda, forma de acondicionamento da droga, entre outros, somados à quantidade e à variedade de entorpecentes, são idôneos para afastar a benesse do tráfico privilegiado, pois indicam a dedicação do acusado a atividades ilícitas" (AgRg no AREsp n. 2.181.966/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/3/2023, DJe de 10/3/2023).
+2. Tendo as instâncias ordinárias afastado a minorante fundamentadamente, com base em elementos concretos extraídos dos autos, como o transporte de expressiva quantidade de droga cuidadosamente escondida nos pneus do caminhão, a evidenciar a dedicação à atividade criminosa, a pretendida revisão do julgado, com vistas à concessão da minorante, não se coaduna com a estreita via do writ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 885.520/MS, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Inalterada a pena, fica prejudicado o pedido de fixação de regime aberto.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
