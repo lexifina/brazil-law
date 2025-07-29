@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a UNIVERSIDADE DE SÃO PAULO (USP) se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 170):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - Mandado de Segurança - Contrato de estágio Aluno do Instituto de Matemática e Estatística (IME-USP) - Recusa da instituição de ensino à assinatura do Termo de Estágio em virtude do impetrante não ter concluído um percentual mínimo de créditos necessários à integralização do curso, conforme determina o "item 8", das normas baixadas pela Comissão de Estágios do IME - Impossibilidade - Restrição imposta pela Comissão de Estágio não prevista na Lei Federal n. 11.788/08 - Violação ao princípio da legalidade Precedentes desta E. Corte de Justiça e desta C. Câmara de Direito Público - Sentença reformada - Recurso de apelação do impetrante provido e recurso de apelação da impetrada não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 241/244).
+A parte recorrente alega ofensa ao art. 1.022, II, do Código de Processo Civil (CPC) por omissão do acórdão recorrido em relação ao disposto nos arts. 1º, §§ 1º e 2º, e 7º, VI, da Lei 11.788/2008.
+Aponta violação dos arts. 1º, §§ 1º e 2º, e 7º, VI, da Lei 11.788/2008, sustentando a legalidade da exigência de créditos mínimos para estágio, diante da autonomia universitária e da possibilidade de elaboração de normas complementares.
+Argumenta que a correta interpretação da Lei de Estágio permite que a instituição de ensino, por meio de suas normas dotadas de autonomia didático-científica, estabeleça normas complementares para a conveniente adequação do estágio à estrutura pedagógica do curso.
+Ao final, requer o conhecimento e o provimento do recurso especial.
+Não foram apresentadas contrarrazões (fl. 248).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 249/250).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de mandado de segurança impetrado por Lucas Domingues Zampol, aluno do Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP), pleiteando a assinatura de Termo de Compromisso de Estágio, indeferido pelo instituto com base em norma interna que exigiria 40 créditos/aula para autorização de estágio.
+O acórdão recorrido reformou a sentença, que havia denegado a segurança, reconhecendo a ilegalidade da exigência de créditos mínimos, por não estar prevista na Lei 11.788/2008.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fl. 232):
+Seguindo a consonância e harmonização dos julgados da r. Primeira Instância com os do E. Tribunal de Justiça de São Paulo, é extremamente necessário que esta C. Câmara supra a omissão do julgado embargado no sentido de pronunciar-se sobre a aplicação dos artigos 1ª, §§ 1º e 2º e art. 7º, inciso VI da Lei Federal 11.788/08.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu o seguinte (fls. 243/244):
+Incabível é, em embargos declaratórios, rever a decisão anterior, reexaminando questões sobre as quais já houve pronunciamento, com inversão do resultado final. Impossível alterá-la a pretexto de esclarecê-la ou completá-la.
+Mesmo quando o recurso tem por fim o prequestionamento deve ser observado os lindes traçados no artigo 1.022 do Código de Processo Civil.
+E, no caso, inexistem vícios a serem sanados, não cabendo à embargante, evidentemente, profligar através do meio utilizado o que considera injustiça decorrente do decisum.
+De tudo resulta, pois, inexistir qualquer vício a tisnar a decisão embargada, nada mais havendo a lhe acrescentar ou esclarecer.
+Sobre a ilegalidade da exigência de créditos mínimos para a assinatura do Termo de Compromisso (contrato de estágio), por falta de previsão da Lei 11.788/2008, a Corte de origem decidiu nos seguintes termos (fls. 173/176):
+A Lei Federal nº 11.788/08, concernente ao caso, disciplina as regras concernentes ao estágio de estudantes, nos seguintes termos:
+Art. 1º - Estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.
+§ 1º - O estágio faz parte do projeto pedagógico do curso, além de integrar o itinerário formativo do educando.
+§ 2º - O estágio visa ao aprendizado de competências próprias da atividade profissional e à contextualização curricular, objetivando o desenvolvimento do educando para a vida cidadã e para o trabalho.
+Art. 2º - O estágio poderá ser obrigatório ou não obrigatório, conforme determinação das diretrizes curriculares da etapa, modalidade e área de ensino e do projeto pedagógico do curso.
+§ 1º - Estágio obrigatório é aquele definido como tal no projeto do curso, cuja carga horária é requisito para aprovação e obtenção de diploma.
+§ 2º - Estágio não-obrigatório é aquele desenvolvido como atividade opcional, acrescida à carga horária regular e obrigatória.
+§ 3º - As atividades de extensão, de monitorias e de iniciação científica na educação superior, desenvolvidas pelo estudante, somente poderão ser equiparadas ao estágio em caso de previsão no projeto pedagógico do curso.
+Artigo 3º - O estágio, tanto na hipótese do § 1º do art. 2º desta Lei quanto na prevista no § 2º do mesmo dispositivo, não cria vínculo empregatício de qualquer natureza, observados os seguintes requisitos:
+I - matrícula e frequência regular do educando em curso de educação superior, de educação profissional, de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos e atestados pela instituição de ensino;
+II. celebração de termo de compromisso entre o educando, a parte concedente do estágio e a instituição de ensino;
+III. compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso.
+§ 1º - O estágio, como ato educativo escolar supervisionado, deverá ter acompanhamento efetivo pelo professor orientador da instituição de ensino e por supervisor da parte concedente, comprovado por vistos nos relatórios referidos no inciso IV do caput do art. 7º desta Lei e por menção de aprovação final.
+§ 2º - O descumprimento de qualquer dos incisos deste artigo ou de qualquer obrigação contida no termo de compromisso caracteriza vínculo de emprego do educando com a parte concedente do estágio para todos os fins da legislação trabalhista e previdenciária.
+Pela leitura dos dispositivos legais, vê-se que a lei não estabelece um limite mínimo ou máximo de curso ou de cumprimento de créditos pelo estudante, como requisito para a realização de estágio, de modo que não há como reconhecer a regularidade da limitação imposta pela autoridade coatora.
+Como se sabe, a Administração Pública Direta e Indireta está sujeita ao princípio da legalidade, de forma que somente a lei poderá criar direitos, obrigações e restrições que regulam a ordem jurídica.
+Assim, não obstante a autonomia das Universidades para regulamentar seus cursos e respectivos estágios (artigo 207 da Constituição Federal), considerando que a Lei Federal nº 11.788/2008 relaciona os requisitos necessários à realização dos contratos de estágio sem qualquer limitação de ordem temporal, não cabe à Portaria ou a qualquer norma infraconstitucional fazê-lo.
+Não é demais acrescentar que a autorização legislativa para a disciplina de normas complementares, não permite às Universidades estabelecerem limitação inexistente na norma federal.
+Logo, o "item 8", das normas baixadas pela Comissão de Estágios do IME, que assim dispõe: "8. Só serão aceitos contratos de alunos que tiverem obtido aprovações em, no mínimo, 40 créditos/aula.", ou seja, que exige o cumprimento de 40 créditos/aula para que o impetrante possa estagiar (fls. 66), viola o seu direito líquido e certo de poder assinar o Termo de Compromisso de Estágio com o "BANCO J. SAFRA S/A".
+De se destacar, ainda, que a autoridade impetrada ainda relata que do histórico escolar do impetrante se colhe que ingressou no Bacharelado em Matemática Aplicada e Computacional em fevereiro de 2018 e que realizou apenas 28 (vinte e oito) créditos, até aquele momento e, que, por conseguinte, possuindo 28 créditos cumpridos, não estaria apto a estagiar. Não há falar em violação à autonomia da instituição porquanto, aparentemente, a norma acadêmica que limita o exercício do estágio exorbita os limites da discricionariedade da instituição. Nesse quadro, o impedimento para a realização do estágio em questão parece violar o direito constitucional à educação e criar óbice ao acesso ao mercado de trabalho.
+Verifico que a Corte de origem decidiu a controvérsia mediante a análise expressa do disposto nos arts. 1º, 2º e 3º da Lei 11.788/2008, não havendo falar em omissão.
+Inexiste a alegada violação do art. 1.022, II, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+A parte recorrente alega violação dos arts. 1º, §§ 1º e 2º, e 7º, VI, da Lei 11.788/2008, que assim dispõem:
+Art. 1º. Estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam freqüentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.
+§ 1º. O estágio faz parte do projeto pedagógico do curso, além de integrar o itinerário formativo do educando.
+§ 2º. O estágio visa ao aprendizado de competências próprias da atividade profissional e à contextualização curricular, objetivando o desenvolvimento do educando para a vida cidadã e para o trabalho.
+ ..
+Art. 7º. São obrigações das instituições de ensino, em relação aos estágios de seus educandos:
+ ..
+VI - elaborar normas complementares e instrumentos de avaliação dos estágios de seus educandos;
+Verifico que, não obstante a lei não preveja diretamente limite mínimo ou máximo de curso ou de cumprimento de créditos pelo estudante como requisito para a realização de estágio, a conduta da Universidade ocorreu em observância ao art. 7º, VI, da Lei 11.788/2008, quanto à possibilidade de elaboração de normas complementares e instrumentos de avaliação dos estágios de seus educandos, não havendo que se falar em ilegalidade quanto às normas internas que definem a política de concessão de estágios para os alunos do Instituto de Matemática e Estatística da Universidade de São Paulo.
+Além do respaldo legal, cumpre destacar que a conduta da Universidade de São Paulo decorre das autonomias didático-científica e administrativa que lhes é conferida pelo art. 207 da Constituição Federal.
+Não há falar, portanto, em ato abusivo e ilegal praticado pela autoridade coatora e, portanto, em violação de direito líquido e certo, impondo-se a reforma do acórdão recorrido e a denegação da ordem.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, denegando a segurança.
+Publique-se. Intimem-se.
+EMENTA
