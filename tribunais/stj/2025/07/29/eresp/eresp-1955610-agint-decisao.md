@@ -1,0 +1,18 @@
+DECISÃO
+1. Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 2.798):
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
+Os agravantes defendem a inapli cabilidade do Tema n. 181/STF ao caso, aduzindo que, embora os embargos de divergência opostos não tenham sido conhecidos, o que se discute não seriam os pressupostos de admissibilidade dos embargos de divergência ou do recurso especial, mas hipótese objetiva e insanável de conhecimento do recurso especial.
+Requerem a reconsideração da decisão agravada ou o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 2.815.2.828.
+É o relatório.
+2. O reexame dos autos permite constatar que a negativa de seguimento da insurgência deve ser reconsiderada, motivo pelo qual torno sem efeito a decisão agravada e realizo novo juízo de admissibilidade do recurso extraordinário.
+Isso porque, consoante consignado nas razões recursais, os recorrentes insurgem-se contra o conhecimento do recurso especial interposto pela parte recorrida, sob o argumento de que o reclamo não poderia ter sido apreciado em razão do pagamento errôneo da multa fixada pelo Tribunal de origem, e em decorrência da aplicação das Súmulas n. 7/STJ e 283/STF.
+3. Nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal, no julgamento do paradigma vinculado ao Tema n. 181, afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Desse modo, a controvérsia suscitada no presente recurso extraordinário, segundo a qual o recurso especial interposto pela parte ora recorrida não seria passível de conhecimento, por não preencher os seus pressupostos de admissibilidade, demandaria a apreciação dos dispositivos infraconstitucionais que versam sobre tais requisitos, o que inviabiliza o seguimento da insurgência.
+Destaca-se, por oportuno, que a Suprema Corte consolidou o entendimento de que o recurso extraordinário deve ter o seu seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República, como no caso dos presentes autos (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, reconsidero a decisão agravada e, em novo juízo de admissibilidade, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO. DECISÃO DE NEGATIVA DE SEGUIMENTO. RECONSIDERAÇÃO. NOVO JUÍZO DE ADMISSIBILIDADE. CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC.
