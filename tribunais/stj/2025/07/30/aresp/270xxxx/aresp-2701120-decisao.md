@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo de THOMAS EDSON MARTINS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 0008748-81.2019.8.16.0083.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no artigo 157, caput do Código Penal (roubo), à pena de 4 anos, 9 meses de reclusão, em regime inicial semiaberto, e 54 dias-multa (fl. 259).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 349/353). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL ROUBO - ART 157, CAPUT DO CÓDIGO PENAL. SENTENÇA CONDENATÓRIA. INSURGÊNCIA DEFENSIVA. MÉRITO - PEDIDO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. SEM RAZÃO. CONJUNTO PROBATÓRIO FIRME E HARMÔNICO COM A PALAVRA DA VÍTIMA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO." (fl. 11)
+Em sede de recurso especial (fls. 365/375), a defesa apontou violação ao artigo 386, inciso VII, do CPP, porque o TJ manteve a condenação.
+Requer a absolvição.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ (fls. 391/395).
+O recurso especial foi inadmitido no TJ em razão de óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 399/400).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 409/412).
+Contraminuta do Ministério Público (fls. 426/428).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso (fls. 448/450).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao artigo 386, inciso VII, do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ manteve a condenação nos seguintes termos do voto do relator:
+"Pois bem, analisando os autos depreende-se de que de fato o apelante cometeu o crime imputado, a vítima foi enfática em depoimento alegando que o apelante subtraiu os bens ainda com emprego de arma branca, o que restou demonstrada pela sua apreensão (mov. 131.1). Ademais, nota-se que o acusado, ao ver que seu cartão não passava, optou pela violência para permanecer com o bem, que sequer tinha sido pago, o que, dessa forma afasta a alegação defensiva de inexistir elementos de convicção para condenar o réu, não há nos autos elementos que afastam deste a intenção em jogar uma faca e assustar o ofendido para se apossar dos bens em questão. Desta forma, não se mostra plausível a alegação do apelante de que não há provas que demonstrem a prática delitiva, pois todo o conjunto probatório aliados aos depoimentos prestados corroboram em juízo, sendo a autoria suficiente para embasar a sentença condenatória. Destarte, por tudo o que aqui restou exposto, bem é de ver que inexiste autorização à reforma do decisum singular, afigurando-se absolutamente descabida a aplicação do princípio in dubio na espécie, assim como o disposto no art. 386, em quaisquer de seus incisos, do CPP. pro reo Logo, entendo que deve ser mantida a condenação do apelante em relação ao crime imputado, não devendo prosperar o pleito absolutório." (fl. 352).
+Extrai-se do trecho acima que o Tribunal de Justiça analisou os autos e as provas nele contidas, sobretudo a palavra da vítima, para concluir pela autoria e materialidade do crime de roubo em questão. Tanto acórdão quanto a sentença bem indicaram as provas que levaram à conclusão pela condenação, sendo que para se chegar ao requerido pela defesa (insuficiência probatória) necessário seria nova incursão na análise das provas o que não se permite nesta fase recursal.
+Tal entendimento encontra amparo na jurisprudência desta Corte, pois de fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça. No mesmo sentido, citam-se precedentes (grifos nossos):
+PENAL. PROCESSO PENAL AGRAVOREGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.TRÁFICO DE DROGAS. VIOLAÇÃO AOS ARTIGOS 156 E 386, VII, DO CÓDIGO DE PROCESSO PENAL - CPP. PLEITO DE DESCLASSIFICAÇÃO PARA ACONDUTADO ART. 28 DA LEI N. 11.343/06. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL -STF. AGRAVO REGIMENTAL DESPROVIDO. (AgRg noAREsp 2316455 /SP Ministro JOEL ILAN PACIORNIK QUINTA TURMA DJe 29/11/2023)
+"Nos termos da Súmula 7 do STJ, não se conhece do recurso especial na hipótese em que a pretensão recursal é dependente do reexame de provas" (AgInt nos E Dcl no R Esp n.º 1.904.313-SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/5/2021, D Je de 19/5/2021.).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
