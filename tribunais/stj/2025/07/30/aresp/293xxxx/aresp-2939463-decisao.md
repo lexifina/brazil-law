@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CAROLINA AMALIA WURZIUS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DISCUSSÃO SOBRE IMPENHORABILIDADE, EXCESSO DE EXECUÇÃO E ILIQUIDEZ DA DÍVIDA. EXTINÇÃO PARCIAL SEM RESOLUÇÃO DE MÉRITO. MANUTENÇÃO. PROVAS INSUFICIENTES PARA RECONHECIMENTO DA IMPENHORABILIDADE DA PEQUENA PROPRIEDADE RURAL. PENHORA MANTIDA. APELAÇÃO DESPROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao arts. 373, I, e 833, VIII, do CPC, no que concerne à impenhorabilidade da pequena propriedade rural quando demonstrado que o cultivo é destinado ao consumo familiar, trazendo a seguinte argumentação:
+11. Nessa esteira, importante repisar que as provas produzidas pela Recorrente e analisadas pelo acórdão recorrido são suficientes para a incidência da norma restritiva em questão, já que restou incontroverso que se trata de pequena(mini)propriedade rural, cultivada pela família cuja produção é majoritariamente voltada ao consumo familiar; há compra de adubo para plantação e o CAR confirma a destinação rural do imóvel.
+ ..
+12. Assim, restaram provados, à luz do artigo 373, I do CPC, os requisitos exigidos pelo artigo 833, inciso VIII do CPC para que seja reconhecida a impenhorabilidade do bem e afastada a penhora concretizada sobre o mesmo, eis que atendido o consolidado no Tema Repetitivo 1234-STJ (fls. 257/258).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Dessa forma, a fragilidade do conjunto probatório inviabiliza o reconhecimento da impenhorabilidade do imóvel. Não se trata de afastar, de plano, a proteção constitucional, mas de enfatizar que tal reconhecimento exige o preenchimento inequívoco dos requisitos legais, o que não foi demonstrado na presente hipótese (fls. 243).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
