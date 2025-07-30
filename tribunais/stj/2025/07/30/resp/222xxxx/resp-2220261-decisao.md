@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se recurso especial interposto por ANA LUCIA LOPES DA SILVA BIDOIA, fundamentado nas alíneas "a" e "c"do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 6/12/2024.
+Concluso ao Gabinete em: 27/6/2025.
+Ação: de reparação de danos materiais e compensação de danos morais, já em fase de cumprimento de sentença, ajuizada pelos recorrentes, em desfavor de EVANIR VILHENA DE SOUZA, em virtude de acidente de trânsito provocado por preposto desta e que ocasionou a morte do marido/pai daqueles.
+Sentença: julgou extinto o processo, ante o reconhecimento da ocorrência de prescrição intercorrente.
+Acórdão: negou provimento à apelação interposta pelos recorrentes, nos termos da seguinte ementa:
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Acidente de trânsito. Fase de cumprimento do julgado. SENTENÇA de extinção do processo, pelo pronunciamento da prescrição intercorrente, nos termos do artigo 924, inciso V, do Código de Processo Civil. APELAÇÃO do exequente, que pede a anulação da sentença, sob a argumentação de que não restou configurada a prescrição. EXAME: execução que se submete ao prazo prescricional de três (3) anos, previsto no artigo 206, § 3º, inciso V, do Código Civil, "ex vi" da Súmula 150 do C. Supremo Tribunal Federal. Processo que tramita há mais de vinte e cinco (25) anos, tendo permanecido no Arquivo por cerca de sete (7) anos. Prazo prescricional que transcorreu ainda sob a égide do Código de Processo Civil de 1973. Observância do entendimento consolidado pelo C. Superior Tribunal de Justiça no Resp 1.604.412/SC, no sentido de que incide a prescrição intercorrente nas causas regidas pelo Código de Processo Civil de 1973, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material, e de que o termo inicial da prescrição é a data do fim do prazo jud icial de suspensão do andamento do processo ou, caso não fixado, do transcurso de um (1) ano. Prescrição intercorrente bem reconhecida. Sentença mantida. RECURSO NÃO PROVIDO (e-STJ fls. 861).
+Embargos de declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: apontam a violação dos arts. 269, 272, § 2º, 487, II, 921, III, 924, V, 927 e 1.022 do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisidiconal, sustentam que o processo de execução ficou parado por desídia do Poder Judiciário, e não dos exequentes, razão pela qual não ocorreu a prescrição intercorrente. Aduzem, ainda, que não houve a intimação pessoal do credor que, embora efetivada a penhora do imóvel, os autos foram remetidos ao arquivo sem que houvesse a intimação da executada, bem como posterior designação de praça e leilão.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+No tópico atinente à negativa de prestação jurisdicional, em seu recurso especial, constata-se que os recorrentes apontam que "mesmo questionado não decidiu quanto às infringências apontadas, que não houve a fixação do inicio da fluência do prazo da prescrição intercorrente, bem como não houve a intimação pessoal do credor, além de ter arquivado os autos, como se vê das fls. 710, 717 e 738, do pdf, constata-se determinação judicial para a ocorrência da penhora, porém não foi feita pelo Poder Judiciário. E pelo fato de não fazendo-o não pode o credor/exequente ser penalizado, rejeitando os embargos de declaração, mantendo o Acórdão ora recorrido, sendo omisso aos pontos que foram arguidos" (e-STJ fl. 885).
+Contudo, compulsando detidamente as razões dos embargos de declaração opostos pelos recorrentes às fls. 870-873 (e-STJ), constata-se não houve o apontamento às referidas omissões indicadas nas razões do recurso especial, fazendo incidir, dada a deficiência de fundamentação, a Súmula 284/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pelos recorrentes não demonstram como o acórdão recorrido violou os arts. 269, 272, § 2º, 487, II, e 924, V, do CPC, uma vez que apenas genericamente indicados nas razões do recurso especial.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelo agravante em seu recurso especial quanto aos arts. 921, III, e 927 do CPC, tampouco acerca do argumento de envio dos autos ao arquivo posteriormente à efetivação da penhora, a despeito da ausência de intimação da executada e designação de praça e leilão, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados em desfavor dos recorrentes na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de reparação de danos materiais e compensação de danos morais, já em fase de cumprimento de sentença.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos argumentos invocados pelos recorrentes em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial não conhecido.
