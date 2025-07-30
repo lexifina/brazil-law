@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se recurso especial interposto por IRACEMA BEZERRA DE MELO, fundamentado exclusivamente na alínea "c" do permissivo constitucional, contra acórdão proferido pelo TJ/AL.
+Recurso especial interposto em: 22/1/2024.
+Concluso ao Gabinete em: 9/6/2025.
+Ação: revisional de contrato bancário, ajuizada pela recorrente, em desfavor do BANCO ITAUCARD S.A.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: conheceu parcialmente da apelação interposta pela recorrente e, nesta extensão, negou-lhe provimento, nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL EM "AÇÃO REVISIONAL DE CONTRATO COM PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA". SENTENÇA CUJO TEOR JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS. APELO DA CONSUMIDORA REQUERENDO, INICIALMENTE, A CONCESSÃO DOS BENEPLÁCITOS DA GRATUIDADE DA JUSTIÇA. NO MÉRITO, ALEGA A ABUSIVIDADE NAS CLÁUSULAS CONTRATUAIS QUE PREVEEM A COBRANÇA DE (I) CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS; (II) COMISSÃO DE PERMANÊNCIA; (III) JUROS REMUNERATÓRIOS; E (IV) "ACESSÓRIOS" E IOF. EM CONSEQUÊNCIA, REQUER A DESCARACTERIZAÇÃO DA MORA. RECURSO NÃO CONHECIDO QUANTO AO PEDIDO DE CONCESSÃO DOS BENEFÍCIOS DA GRATUIDADE DA JUSTIÇA, POR AUSÊNCIA DE INTERESSE RECURSAL, UMA VEZ QUE A BENESSE JÁ FOI CONCEDIDA PELO JUÍZO SINGULAR; BEM COMO, QUANTO À TESE DE CAPITALIZAÇÃO DIÁRIA DE JUROS, EM VIRTUDE DA OCORRÊNCIA DE INOVAÇÃO RECURSAL. IMPUGNAÇÃO AO BENEFÍCIO DA JUSTIÇA GRATUITA CONCEDIDO EM FAVOR DA DEMANDANTE APRESENTADA PELO BANCO DEMANDADO EM SEDE DE CONTRARRAZÕES. NÃO ACOLHIDA. PRESUNÇÃO DE HIPOSSUFICIÊNCIA DA AUTORA. AUSÊNCIA DE ELEMENTOS NOS AUTOS CAPAZES DE AFASTAR A ALUDIDA PRESUNÇÃO. NO MÉRITO, NÃO ACOLHIMENTO DAS TESES RECURSAIS. AUSÊNCIA DE ABUSIVIDADE NA TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. PERCENTUAL FIXADO DENTRO DA MÉDIA DE MERCADO PREVISTA PELO BANCO CENTRAL DO BRASIL. AUSÊNCIA DE PREVISÃO DE COBRANÇA DE COMISSÃO DE PERMANÊNCIA. IOF CONTRATADO CONFORME ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. RETIFICAÇÃO, EX OFFICIO, DA SENTENÇA PARA FIXAR OS HONORÁRIOS SUCUMBENCIAIS EM 10% (DEZ POR CENTO) SOBRE O VALOR ATUALIZADO DA CAUSA. MAJORAÇÃO DA VERBA HONORÁRIA RECURSAL PARA 11% (ONZE POR CENTO) SOBRE A MESMA BASE DE CÁLCULO, NOS MOLDES DO ART. 85, §§1º, 2º e 3º, I, e §11, DO CPC, CONFORME A ORIENTAÇÃO FIRMADA PELO STJ NO RESP Nº 1.573.573/RJ, FRISANDO, CONTUDO, A SUSPENSÃO DA EXIGIBILIDADE DAS VERBAS SUCUMBENCIAIS, NOS TERMOS DO ART. 98, §3º, DO CPC/2015. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO. DECISÃO UNÂNIME (e-STJ fl. 366).
+Embargos de declaração: opostos pela recorrente, foram parcialmente acolhidos, sem efeitos infringentes.
+Recurso especial: com base em dissídio jurisprudencial, sustenta que é vedada a capitalização diária de juros ante a ausência de previsão contratual.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A recorrente, em relação à sua insurgência relativa à capitalização diária de juros, não impugnou o fundamento de inovação recursal utilizado pelo TJ/AL:
+34 Pois bem. Da leitura das razões recursais, exsurge a necessidade de não conhecimento do capítulo do apelo que versa sobre capitalização diária de juros. Isso porque, o aludido pedido jamais foi formulado em qualquer momento durante o curso do presente processo, perante a instância singela e antes da prolação da sentença, apenas tendo sido postulado por ocasião do apelo que ora se julga.
+35 Nesse ponto, trago à baila os pedidos formulados na petição inicial de fls. 1/30, verbo ad verbum:
+" ..  - Que seja julgado procedente a ação, declarando a nulidade dos valores e cláusulas contratuais abusivos e/ou ilegais indicados superficialmente na exordial (por exemplo, capitalização mensal de juros) e que serão apontados precisamente na primeira oportunidade que tiver conhecimento do contrato, o que não faz neste momento por culpa exclusiva do Réu em não ter entregue, previamente, uma via do contrato à parte autora .. " (sic, fl. 29, grifos no original).
+36 Vê-se, portanto, que inexiste qualquer pedido de declaração de abusividade da cláusula que prevê a capitalização diária de juros remuneratórios.
+37 Ora, é cediço que o efeito devolutivo de que é dotado o presente recurso consiste em apreciar o que já foi discutido nos autos, salvo matérias de ordem pública, não sendo permitido à apelante inovar em sua tese recursal, sob pena de incorrer em supressão de instância.
+38 O ordenamento jurídico brasileiro veda o ius novorum em sede recursal. Isso quer dizer que a parte recorrente não pode, quando da interposição de eventual apelo, trazer matérias não suscitadas na instância inferior.
+39 Nesse sentido, é evidente, portanto, que, no ponto em que traz tese não discutida perante o Juízo a quo, o recurso em testilha não pode ser conhecido, sob pena de supressão de instância (e-STJ fls. 373-374).
+Assim, não impugnado esse fundamento, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% (onze por cento) sobre o valor da causa (e-STJ fl. 379) para 13% (treze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação revisional de contrato bancário.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Recurso especial não conhecido.
