@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por MIKE DOUGLAS JESUS DE OLIVEIRA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0032411-20.2022.8.12.0001 (fls. 322/326), que negou provimento ao recurso defensivo, mantendo a condenação do acusado nas penas de 4 anos de reclusão, em regime inicial fechado, e 40 dias-multa, pela prática do crime de furto (art. 155, caput, do CP).
+No recurso especial (fls. 334/345), a defesa requereu, em síntese, o redimensionamento da pena, com a redução das frações adotadas na primeira fase (antecedentes) e na segunda fase (reincidência).
+Inadmitido o recurso na origem (fls. 360/362), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 371/382).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 422/423).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Todavia, não assiste razão à defesa.
+Pretende a defesa o redimensionamento da pena imposta, argumentando com a desproporcionalidade das frações adotadas na dosimetria, tanto na primeira fase (com relação aos antecedentes) quanto na segunda fase (com relação à reincidência).
+O Juízo sentenciante, na dosimetria (fl. 265), exasperou a pena-base em 1 ano de reclusão, considerando nada menos que seis anotações relativas aos maus antecedentes. Levando-se em consideração os parâmetros adotados por este Tribunal Superior, tem-se que para cada anotação desfavorável o Juiz elevou a pena-base em 1/6 da pena mínima prevista no tipo penal (2 meses), o que se encontra dentro do juízo de discricionariedade do julgador, não se vislumbrando nenhuma ilegalidade no critério adotado.
+Já na segunda fase de dosimetria, o Juízo sentenciante considerou a atenuante da confissão espontânea e procedeu à sua compensação com uma anotação relativa à reincidência, seguindo orientação desta Corte Superior (Tema Repetitivo 585/STJ), sobejando nada menos que seis anotações, que resultaram na exasperação da pena em mais 2 anos.
+Todavia, neste caso, verifica-se que o Juízo sentenciante não guardou uma razão de proporcionalidade entre a operação realizada na primeira fase (atribuindo o fator de exasperação da pena em 1/6 da pena mínima para cada vetorial), com a segunda fase, em que deveria atribuir a mesma razão de exasperação, para cada anotação relativa à reincidência, mormente quando não houve, neste particular, motivação concreta pela qual se atribuía peso maior para cada anotação, nesta fase, diferentemente do patamar adotado na primeira fase dosimétrica.
+Sendo assim, em razão da proporcionalidade, há que ser readequada a pena, reduzindo-se a fração para a mesma adotada na primeira fase, para cada anotação relativa à reincidência, resultando no incremento de 1 ano de reclusão. Nesse sentido: REsp n. 2.052.375/MG, Rel. Min. Daniela Teixeira, Quinta Turma, DJEN 23/12/2024.
+Pelo exposto, conheço do agravo para dar provimento ao recurso especial, redimensionando a pena para 3 anos de reclusão, mantendo os demais aspectos do acórdão recorrido.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. DOSIMETRIA. DISCRICIONARIEDADE VINCULADA. DESPROPORCIONALIDADE DA FRAÇÃO ADOTADA NA SEGUNDA FASE DE DOSIMETRIA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA EXASPERAÇÃO EM PATAMAR DIVERSO DO OPERADO NA PRIMEIRA FASE DE DOSIMETRIA. REDUÇÃO DA FRAÇÃO ADOTADA.
+Agravo conhecido para dar provimento ao recurso especial nos termos do dispositivo.
