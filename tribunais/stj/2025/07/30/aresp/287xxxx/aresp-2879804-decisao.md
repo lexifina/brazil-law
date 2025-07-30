@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VIA BARRA RIO VEICULOS LTDA., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: indenizatória, ajuizada por CASTELIANO PESCADOS LTDA., em face da agravante e de HOUSE DISTRIBUIDORA DE MADEIRAS EIRELI, em razão de danos decorrentes da instalação de baú em caminhão.
+Acórdão: negou provimento às apelações interpostas pela agravante e por HOUSE DISTRIBUIDORA DE MADEIRAS EIRELI, nos termos da seguinte ementa (e-STJ fls. 462-483):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. AUTOR QUE ADQUIRIU CAMINHÃO JUNTO AO SEGUNDO RECORRENTE, QUE OFERECEU A INSTALAÇÃO DE BAÚ NA CARROCERIA, A SER FORNECIDA PELO PRIMEIRO RECORRENTE. INTENÇÃO DO AUTOR PARA O TRANSPORTE DE PESCADO. BAÚ QUE NÃO SE DESTINAVA À FINALIDADE PRETENDIDA PELO AUTOR. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DOS RÉUS QUE NÃO MERECE PROSPERAR. RELAÇÃO DE CONSUMO EVIDENCIADA. APLICAÇÃO DA TEORIA FINALISTA. AUTOR, PESSOA JURÍDICA, QUE SÓ ATUA NO RAMO DE PISCICULTURA, SEM QUALQUER EXPERTISE QUANTO À VEÍCULOS AUTOMOTORES. HIPOSSUFICIÊNCIA TÉCNICA DEMONSTRADA. AUSÊNCIA DA OCORRÊNCIA DE DECADÊNCIA. AUTOR QUE NÃO PRETENDE A TROCA OU REPARO DO VEÍCULO OU DO BAÚ, MAS SIM A REPARAÇÃO CIVIL PELA INUTILIDADE DO EQUIPAMENTO PARA O FIM A QUE SE DESTINA. INAPLICABILIDADE DO PRAZO DECADÊNCIA DO ART. 26, II, DO CDC. LEGITIMIDADE PASSIVA DA CONCESSIONÁRIA SEGUNDA RÉ. INFORMAÇÃO FORNECIDA DENTRO DO ESTABELECIMENTO SOBRE A POSSIBILIDADE DE INSTALAÇÃO DE BAÚ, POR EMPRESA POR ELA INDICADA. RÉ QUE FAZ PARTE DA CADEIA DE CONSUMO. ART. 7º, PARÁGRAFO ÚNICO, DO CDC. FALHA NO DEVER DE INFORMAÇÃO POR AMBAS AS RÉS, AS QUAIS TINHAM CONDIÇÕES DE SABER QUAL O RAMO EXPLORADO PELA PARTE AUTORA. NOME FANTASIA DA EMPRESA QUE TRAZ O TERMO "PESCADO", O QUE POSSIBILITA PRESUMIR SEU RAMO. BAÚ INSTALADO NO VEÍCULO QUE NÃO SE DESTINA AO TRANSPORTE DE PEIXES OU DE PRODUTOS MOLHADOS. LAUDO PERICIAL QUE ATESTA A INEFICÁCIA DO EQUIPAMENTO PARA O FIM BUSCADO PELO AUTOR. INOBSERVÂNCIA DO ART. 6º, IIIº, DO CDC. DEVER DE REPARAR DEMONSTRADO. DANO MORAL A PESSOA JURÍDICA QUE SE EVIDENCIA NA HIPÓTESE. SÚMULA 227 DO STJ. VEÍCULO QUE FOI APELIDADO DE "CARRO DE CACHORRO-QUENTE" ANTE SUA DESPROPORCIONALIDADE. AUTOR QUE TEVE QUE BUSCAR EMPRÉSTIMOS DE OUTROS VEÍCULOS PARA O TRANSPORTE DO PESCADO. DANO À HONRA OBJETIVA EVIDENCIADO. VALOR DE R$ 25.000,00 QUE DE MOSTRA ADEQUADO. APLICAÇÃO DA S ÚMULA 343 DESSE E. TJRJ. PERCENTUAL FIXADO EM 12% A TÍTULO DE HONORÁRIOS DE SUCUMBÊNCIA QUE NÃO SE MOSTRA EXCESSIVO. ART. 85, §2º, DO CPC. RECURSOS CONHECIDOS E, NO MÉRITO, DESPROVIDOS.
+Decisão de admissibilidade do TJ/RJ: inadmitiu o recurso especial em razão dos seguintes fundamentos (e-STJ fls. 589-604):
+i) incidência da Súmula 83/STJ;
+ii) incidência das Súmulas 282 e 356/STF; e
+iii) incidência da Súmula 284/STF.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que (e-STJ fls. 622-627):
+i) não incide a Súmula 83/STJ, visto que não requer o reexame dos fatos, bem como que "ainda que a matéria recorrida tenha seu entendimento consolidado por esta Corte, não houve a devida aplicação de tal entendimento ao contexto dos autos" (e-STJ fls. 625-626).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) Súmula 83/STJ;
+ii) Súmulas 282 e 356/STF; e
+iii) Súmula 284/STF.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (quinze por cento) do valor da condenação (e-STJ fl. 483) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
