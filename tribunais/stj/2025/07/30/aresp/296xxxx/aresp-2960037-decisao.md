@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ZAYDE DE JESUS RADICHESKI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+DIREITO DAS SUCESSÕES. DIREITO PROCESSUAL CIVIL. AÇÃO DE INVENTÁRIO. HERANÇA. BENS PARTICULARES. CONCORRÊNCIA ENTRE CÔNJUGE SOBREVIVENTE E ASCENDENTE. AUSÊNCIA DE DESCENDENTES. RECURSO CONHECIDO E NÀO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1.641, I, do CC, no que concerne à indevida concorrência do cônjuge na sucessão, porquanto o regime de separação legal de bens impede sua participação na herança, trazendo a seguinte argumentação:
+A decisão ora recorrida afirma que "estamos tratando de direito à herança, não à meação - sendo irrelevante, portanto, o regime de bens. "
+Ocorre Excelência que o regime de casamento da de cujus seja o regime do artigo 1641, inciso I do Código Civil em separação legal de bens afasta a concorrência do cônjuge nos bens deixado em herança, conforme interpretação do artigo 1641 feita por várias decisões deste Tribunal.
+ ..
+Veja Excelência que o regime de separação legal de bens "o cônjuge" não é herdeiro necessário não podendo participar da meação dos bens da de cujus.
+Veja Excelência que aplicabilidade à norma infraconstitucional insculpida no artigo 1.641, Inciso I do CC é interpetada no sentido de que "No regime de separação legal de bens, comunicam-se os adquiridos na constância do casamento, desde que comprovado o esforço comum para sua aquisição".
+Pois bem Excelência os imóveis em que foram partilhados não poderiam ser divididos em face ao regime de casamento da de cujus com o recorrido o cônjuge pois à norma infraconstitucional insculpida no artigo 1.641, Inciso I do CC, sendo o regime de separação legal de bens afasta a concorrência do cônjuge nos bens deixado em herança.
+ ..
+Excelência equivocada a decisão agravada do tribunal a quo pois importa sim o regime de casamento em inventario visto que o regime de separação legal de bens afasta a concorrência do cônjuge nos bens deixado em herança.
+ ..
+Diante de todo o exposto, requer o recorrente o provimento do presente recurso para o fim de reformar a decisão recorrida, alterando-se o teor o decisum e, por consequência, deverá fazer parte do quinhão da ascendente Z. o percentual de 100% do imóvel de matrícula nº 56.622 da 6ª Circunscrição de Curitiba e imóvel matricula nº 118.992 da 6º Circunscrição de Curitiba com endereço Rua Ana Tosin, sendo que deve ficar com 100% a inventariante a Sr Z. (fls. 48-51).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Ademais, acerca da hipótese de concorrência de ascendente do com o cônjuge de cujus sobrevivente em matéria sucessória, trata o artigo 1.837 do Código Civil:
+ ..
+De acordo com Nelson Rosenvald e Felipe Braga Netto, é importante diferenciar o direito do cônjuge à herança e o direito do cônjuge à meação (o direito do cônjuge à herança decorre do falecimento do outro cônjuge; o direito do cônjuge à meação decorre da separação):
+ ..
+Nessa hipótese de concorrência, a operação matemática é bem mais simples do que na concorrência com os descendentes. Aqui, o cônjuge sobrevivente retira a sua meação, a depender do regime de bens do casamento. Depois disso, divide com o ascendente (pai, mãe, avós..) todo o patrimônio deixado pelo finado, abrangendo tanto os bens comuns, quanto os particulares, sem qualquer restrição ao estatuto patrimonial do casal.
+(..)
+Esta é, sem dúvida, a grande idiossincrasia da concorrência sucessória do cônjuge com os ascendentes: o direito hereditário do viúvo ou viúva incide sobre todo o patrimônio transmitido, somando os bens particulares e a meação do extinto sobre os bens comuns.
+Aliás, é bem por isso que essa concorrência do cônjuge com o ascendente independe do regime de bens do casamento. Seja casado em comunhão universal, seja em separação absoluta de bens, o consorte supérstite terá direito . - sucessório, em concorrência com o ascendente, além de eventual meação Grifei.
+ ..
+In casu, trata-se de hipótese de cônjuge sobrevivente concorrendo com os ascendentes.
+ ..
+Reitera-se que, de acordo com o Código Civil, na ausência de descendentes, o cônjuge sobrevivente concorre com os ascendentes do falecido, independentemente do regime de bens (fls. 39-42, grifo meu).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 2.604.183/PR, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 2/12/2024).
+Confiram-se ainda os seguintes julgados:AgInt no AREsp n. 2.734.491/SP, relator Ministro Raul Araújo, Quarta Turma, DJEN de 25/3/2025; AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.638.758/RJ, relator Ministro Afrânio Vilela, Segunda Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.722.719/PE, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.787.231/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, DJEN de 28/2/2025; AgRg no AREsp n. 2.722.720/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; AgInt no AREsp n. 2.751.983/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 21/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no AREsp n. 2.256.940/SP, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgRg no AREsp n. 2.689.934/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 9/12/2024; AgInt nos EDcl no AREsp n. 2.421.997/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 19/11/2024; EDcl no AgRg nos EDcl no AREsp n. 2.563.576/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 7/11/2024; AgInt no AREsp n. 2.612.555/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/11/2024; AgInt nos EDcl no AREsp n. 2.489.961/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 28/10/2024; AgInt no AREsp n. 2.555.469/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 20/8/2024; AgInt no AREsp n. 2.377.269/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 7/3/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
