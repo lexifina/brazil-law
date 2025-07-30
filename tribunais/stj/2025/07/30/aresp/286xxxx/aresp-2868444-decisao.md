@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TRENDBANK BANCO DE FOMENTO - MULTISETORIAL, contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/1/2025.
+Concluso ao gabinete em: 4/4/2025.
+Ação: ordinária proposta pelo agravante em face do INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE JUNDIAÍ, com o objetivo de compelir a autarquia a aportar os recursos necessários ao custeio das despesas ordinárias do Fundo.
+Decisão interlocutória: acolheu a arguição de incompetência formulada na contestação, determinando a redistribuição dos autos para a Comarca de Jundiaí, sob o fundamento de que a cláusula de eleição de foro é abusiva, uma vez que não há vínculo entre a Comarca escolhida e as partes ou as obrigações discutidas na ação, evitando-se, assim, o direcionamento indevido da demanda.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+PROCESSUAL CIVIL - Fundo de Investimento - Ação de cobrança - Cláusula de eleição de foro - Abusividade reconhecida - Decisão de primeiro grau que declina da competência e determina a remessa dos autos para o foro do domicílio do réu - Agravo interposto pelo autor - Ação proposta contra autarquia municipal - Competência determinada em razão da pessoa e, portanto, inderrogável por convenção das partes - Competência das ações integradas pelo réu disciplinada pelos artigos 36, inciso I e 48 do Código Judiciário do Estado de São Paulo - Competência da Vara da Fazenda Pública de Jundiaí - Recurso desprovido, com observação. (e-STTJ Fl. 573)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 62, 63, caput, §§ 3º e 4º, 489, § 1º, IV e VI, e 1.022, I e II, do CPC. Além de negativa de prestação jurisdicional, sustenta a validade da cláusula de eleição de foro, a qual somente pode ser afastada em caso de comprovada abusividade, o que não se verifica na presente hipótese. Argumenta que o acórdão recorrido violou os artigos 62, 63, caput, §§ 3º e 4º do CPC ao afastar a cláusula de eleição de foro sem reconhecer abusividade, criando um foro privilegiado para a autarquia municipal, o que não encontra respaldo legal.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+Na hipótese em análise, verifica-se que o acórdão recorrido enfrentou de forma expressa e fundamentada a questão da competência, ressaltando que esta é fixada em razão da qualidade da parte (ratione personae), independentemente da natureza da relação jurídica subjacente. Considerou que o réu, INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE JUNDIAÍ, por se tratar de autarquia municipal, aplica-se a competência absoluta prevista nos artigos 36, inciso I, e 48 do Decreto-lei Complementar nº 3, de 27 de agosto de 1969 (Código Judiciário do Estado de São Paulo), sendo, portanto, inderrogável por convenção das partes.
+Nesse contexto, os embargos de declaração opostos pela parte agravante não mereciam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado. No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da Súmula 280/STF
+Constata-se que o acórdão recorrido firmou entendimento no sentido de que a competência, por ser determinada em razão da qualidade da parte (ratione personae), possui natureza absoluta e, portanto, é inderrogável por convenção entre as partes, a partir da interpretação de legislação local (artigos 36, inciso I, e 48 do Código Judiciário do Estado de São Paulo) e, dessa forma, não enseja a interposição do recurso especial, ante a incidência da Súmula 280/STF. Nesse sentido: EREsp n. 604.314/SP, Corte Especial, DJe de 19/8/2010; AgInt no AREsp n. 1.534.050/RJ, 3ª Turma, DJe de 18/3/2022; AgInt no AREsp n. 2.141.094/SP, 3ª Turma, DJe de 5/10/2022; AgInt no AREsp n. 2.507.694/SP, 3ª Turma, DJe de 25/9/2024; AgInt no AREsp n. 2.623.712/SP, 4ª Turma, DJe de 14/11/2024.
+- Da Súmula 7 do STJ
+Ainda, a modificação do entendimento firmado no acórdão recorrido, no tocante à abusividade da cláusula de eleição de foro, demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ. Nesse sentido: AgInt no AREsp n. 2.369.326/SP, Terceira Turma, DJe de 27/6/2024; AgInt no AREsp n. 1.000.382/RS, Quarta Turma, DJe de 5/3/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. VIOLAÇÃO À LEGISLAÇÃO LOCAL. INVIABILIDADE. SÚMULA 280/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação ordinária.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. É inviável o recurso especial para análise de legislação local (Súmula 280 do STF).
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
