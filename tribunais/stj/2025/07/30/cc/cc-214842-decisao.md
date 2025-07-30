@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre a DÉCIMA OITAVA CÂMARA CÍVEL DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, suscitante, e o JUÍZO FEDERAL DA 1ª VARA DE IJUÍ - SJ/RS e TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, suscitados.
+Ação: reintegração de posse ajuizada por RUMO MALHA SUL S/A em face de JANAINA DA SILVA DOS SANTOS, que foi julgada procedente, o que ensejou a interposição de recurso de apelação. O TRF da 4ª Região acolheu questão de ordem e anulou a sentença, determinando a remessa dos autos para a Justiça Estadual (e-STJ fls. 471-476). Contra tal julgado foi interposto recurso especial.
+Manifestação da Justiça Federal: declarou-se incompetente para a admissibilidade ou não do recurso especial interposto (e-STJ fls. 551-553).
+Manifestação da Justiça Estadual: suscitou o presente conflito de competência, argumentando a necessidade de esgotamento da discussão no juízo que se declarou incompetente.
+Parecer do MPF: opinou pela competência da Justiça Federal.
+RELATADO O PROCESSO. DECIDE-SE.
+A controvérsia a ser dirimida se restringe em definir qual o Tribunal competente para realizar o juízo de admissibilidade de recurso especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+Consoante o disposto nos arts. 1.029 e 1.030 do CPC, o recurso especial, nas hipóteses previstas na Constituição Federal, será interposto perante o presidente ou o vice-presidente do tribunal recorrido, de modo que, "recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:  ..  realizar o juízo de admissibilidade".
+Assim, compete ao Tribunal Regional Federal da 4ª Região realizar o exame de admissibilidade do recurso excepcional interposto em face de seu próprio julgado, ainda que discuta a competência para o processo e julgamento da ação originária.
+Com efeito, com razão o juízo suscitante, ao ponderar que "independentemente do desfecho dado pelo Tribunal Regional Federal da 4ª Região à questão jurídica de fundo - reconhecimento da competência da Justiça Estadual para o processamento do feito -, não há como impor ao Tribunal de Justiça do RS a realização do exame de admissibilidade de recursos especiais interpostos em face de julgados proferidos por Turma do TRF4, por manifesta ausência de competência", sendo necessária a "observância, na esfera federal, de todo o trâmite processual legalmente exigido, até o derradeiro trânsito em julgado" (e-STJ, fl. 562; ambas as citações).
+Forte nessas razões, CONHEÇO do conflito e declaro competente o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO para a análise de admissibilidade do recurso especial de que tratam os autos.
+Retifique-se a autuação para fazer constar também como suscitado o Tribunal Regional Federal da 4ª Região.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E ESTADUAL. AÇÃO DE REINTEGRAÇÃO DE POSSE JULGADA PROCEDENTE PELA JUSTIÇA FEDERAL. INTERPOSIÇÃO DE APELAÇÃO E, POSTERIORMENTE, DE RECURSO ESPECIAL. EXAME DE ADMISSIBILIDADE RECURSAL. COMPETÊNCIA DO TRIBUNAL EM QUE PROFERIDA A DECISÃO OBJETO DE RECURSO. ARTS. 1.029 E 1.030 DO CPC. INCIDÊNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Consoante o disposto nos arts. 1.029 e 1.030 do CPC, compete ao Tribunal Regional Federal da 4ª Região realizar o juízo de admissibilidade do recurso excepcional interposto em face de seu próprio julgado.
+2. Conflito conhecido. Declarada a competência do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
