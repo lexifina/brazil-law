@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GABRIEL GERCINO DE CARVALHO contra a decisão do Tribunal de origem em que se inadmitiu o recurso especial pelos seguintes fundamentos (fls. 422-424):
+Verifico que o reclamo é inadmissível diante da existência de óbice processual.
+Com efeito, o recurso especial foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, pois não foram devidamente atacados todos os argumentos do aresto.
+ ..
+Por outro lado, em relação à alegada violação ao princípio do bis in idem, não foi observado o prequestionamento da matéria sob o enfoque desejado pelo recorrente, conforme exigência da Corte Superior:
+ ..
+Finalmente, incide ao caso a Súmula nº 7 do Superior Tribunal de Justiça, que dispõe: A pretensão de simples reexame de prova não enseja recurso especial, ou seja, não é possível emitir um juízo de valor sobre a questão de direito federal sem antes apurar os elementos de fato.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido (fl. 438):
+A alusão genérica de suposta violação à Súmula 7 desta Egrégia Corte não deve prevalecer.
+O recurso versa exclusivamente sobre questões de direito, não havendo que se falar em pleito pelo reexame do conjunto probatório.
+Inicialmente, mister se faz destacar que o presente recurso não tem a finalidade de discutir o teor das provas juntadas aos autos, ante a vedação expressa na Súmula 7 dessa Corte Especial, mas tão somente a validade da conclusão jurídica que chegou o Tribunal a quo.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Contrarrazões nas fls. 463-466.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 496):
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. ROUBO MAJORADO. DOSIMETRIA DA PENA. IMPUGNAÇÃO DAS RAZÕES DA DECISÃO AGRAVADA. INOBSERVÂNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. UTILIZAÇÃO DE CIRCUNSTÂNCIA MAJORANTE PARA EXASPERAR A PENA-BASE. POSSIBILIDADE. ENTENDIMENTO DO STJ. VALORAÇÃO DOS ANTECEDENTES PENAIS NA PRIMEIRA E NA SEGUNDA FASE DO CÁLCULO DOSIMÉTRICO. AU- SÊNCIA DE PREQUESTIONAMENTO. NÃO CONHECIMENTO DO RECURSO.
+1. Não é possível apreciar agravo em recurso especial na hipótese de falta de impugnação de todas as razões da decisão agravada, por caracterizar deficiência em sua fundamentação, nos termos da Súmula n. 182 do STJ.
+2. Não é possível o conhecimento da tese de ofensa ao art. 93, IX, da CF, pois o recurso especial não se presta ao exame de eventual contrariedade a dispositivo da Constituição Federal.
+3. O STJ possui firme entendimento de que compete à parte recorrente "apontar, nas razões recursais, fundamentação adequada e suficiente para contextualizar o porquê de o Tribunal de origem ter ofendido a legislação infraconstitucional indicada, de forma a permitir a exata compreensão da controvérsia" (AgRg no AREsp n. 1.683.914/ ES, rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 9/9/2020).
+4. No roubo majorado, havendo mais de uma causa especial de aumento, é possível utilizar uma delas para exasperar a pena-base e a outra para fundamentar o aumento da reprimenda na terceira etapa. Entendimento do STJ.
+5. Parecer pelo não conhecimento dos agravos em re- curso especial.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação dos seguintes fundamentos: (i) ausência de impugnação a todos fundamentos do acórdão recorrido (Súmula n. 283 do STF); (ii) ausência de prequestionamento (Súmulas n. 282 e 356 do STF e 211 do STJ) ; e (iii) análise pretendida exigiria o reexame de fatos e provas, atraindo o óbice da Súmula n. 7 do STJ.
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, todos os fundamentos referidos, tendo em vista que o agravo impugna apenas um dos fundamentos de inadmissão, qual seja, o óbice da Súmula n. 7 do STJ, deixando de se manifestar acerca da ausência de prequestionamento e da não impugnação de todos os fundamentos do acórdão recorrido.
+Sabe-se que, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+O prequestionamento é um requisito de admissibilidade do recurso especial, traduzindo-se na necessidade de que tenha havido expresso debate, pelo tribunal de origem, da matéria que se pretende submeter ao tribunal superior, conforme elucidam as Súmulas n. 282 e 356 do STF e 211 do STJ. Por isso, não tendo sido tratada a questão relacionada ao bis in idem no acórdão recorrido e não provocado o pronunciamento daquela Corte em embargos de declaração, do recurso especial não se poderia, de fato, conhecer, mesmo que a matéria seja considerada de ordem pública (AgRg no AREsp n. 2.487.930/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024).
+Além disso, a Súmula n. 283 do STF, aplicada por analogia aos recursos especiais, impede a admissão do recurso quando a decisão recorrida tem mais de um fundamento suficiente e o recurso não os contesta integralmente.
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigiri a o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada, conforme relatado.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
