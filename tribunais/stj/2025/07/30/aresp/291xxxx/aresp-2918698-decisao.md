@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por K M B DOS S, contra decisão que negou seguimento a recurso especial fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/8/2024.
+Concluso ao gabinete em: 2/6/2025.
+Ação: de compensação por danos morais, ajuizada por K M B DOS S em face de BRASKEM S/A.
+Decisão interlocutória: extinguiu o processo sem resolução de mérito (art. 485, VI, do CPC), em razão da perda do objeto da ação, sob o fundamento de que o autor celebrou acordo, através do Programa de Compensação Financeira, nos autos da ação civil pública n. 0803836-61.2019.4.05.8000, em curso perante o Juízo da 3ª Vara Federal da Seção Judiciária de Alagoas.
+Acórdão: negou provimento ao recurso interposto pela parte agravante, nos termos assim ementados:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR DANOS MORAIS. DECISÃO QUE EXTINGUIU PARCIALMENTE O FEITO EM RELAÇÃO À ORA AGRAVANTE, QUE TERIA ADERIDO AO PROGRAMA DE COMPENSAÇÃO FINANCEIRA. INSURGÊNCIA RECURSAL DE PARTE DOS COAUTORES. ALEGAÇÕES DE QUE O ACORDO CELEBRADO NA JUSTIÇA FEDERAL POSSUIRIA OBJETO DISTINTO DAQUELE DEBATIDO NO FEITO E QUE CONTERIA CLÁUSULA LEONINA. REJEITADAS. CERTIDÕES INDICAM QUE O ACORDO ACEITO PELAS PARTES NA JUSTIÇA FEDERAL ABRANGEU A INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS EM RAZÃO DOS MESMOS FATOS DEBATIDOS NA PRESENTE AÇÃO. COMPETÊNCIA PARA A REVISÃO DAS CLÁUSULAS DO ACORDO QUE É DA JUSTIÇA FEDERAL. PEDIDO SUBSIDIÁRIO DE RESGUARDO DOS HONORÁRIOS ADVOCATÍCIOS. NÃO ACOLHIDO. PRETENSÃO DE COBRANÇA DE HONORÁRIOS QUE CONSTITUI DIREITO AUTÔNOMO DO PATRONO, A SER VEICULADA PERANTE O JUÍZO NO QUAL O ACORDO FOI HOMOLOGADO. PRECEDENTES DO STJ. DECISÃO DE PRIMEIRO GRAU MANTIDA. PEDIDO CONTRARRECURSAL DE CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. NÃO ACOLHIDO. INEXISTÊNCIA DE ELEMENTOS QUE DEMONSTREM A VIOLAÇÃO DOS DEVERES PROCESSUAIS PELA PARTE AGRAVANTE. DESNECESSIDADE DE REMESSA DE OFÍCIO PARA A ORDEM DOS ADVOGADOS POR ESTE JUÍZO. INOBSERVÂNCIA DE RECURSO COM CARÁTER PROTELATÓRIO. CONFIRMAÇÃO DO ANTERIOR PRONUNCIAMENTO MONOCRÁTICO DESTA RELATORIA. RECURSO CONHECIDO E NÃO PROVIDO. (e-STJ fls. 249)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, §14º, 90 e 1.022 do CPC; art. 14, § 1º da Lei n.º 6.938/91; arts. 186, 421, 424 e 927, do CC; arts. 51, I, IV e §1º do CDC; e arts. 22, caput, e 34, VIII da Lei 8.906/94.
+Alega que o acórdão recorrido foi omisso, pois não decidiu acerca de questões essenciais para o deslinde da controvérsia.
+Argumenta que o acordo celebrado entre as partes se refere exclusivamente à indenização por danos materiais, não abrangendo a indenização por danos morais pleiteada na presente ação.
+Sustenta que se configura como cláusula leonina a previsão do acordo que obriga as vítimas a renunciarem a quaisquer outros valores a título de indenização pelos prejuízos causados pelo agravado.
+Aduz que não foram respeitados os contratos celebrados entre o signatário e a parte recorrente, devendo ser retido 20% (vinte por cento) sobre o valor da causa em favor de cada morador envolvido.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+A partir da leitura das razões recursais, extrai-se que a alegação de contrariedade ao art. 1.022, II, do CPC não está devidamente fundamentada, porquanto a parte agravante não indicou com clareza e exatidão o ponto omisso, obscuro ou contraditório do acórdão recorrido, tampouco apresentou argumentação que permita a identificação da eventual ofensa.
+Não demonstrada em que consistiu a violação do mencionado artigo, incide a Súmula 284/STF. Nesse sentido: AgInt no AREsp n. 2.536.904/RO, Quarta Turma, julgado em 17/6/2024, DJe de 20/6/2024; AgInt no AREsp n. 2.479.721/GO, Terceira Turma, julgado em 10/6/2024, DJe de 12/6/2024.
+-Do reexame de fatos e provas
+Da análise dos autos, depreende-se que o Tribunal de origem apreciou a regularidade da formalização e a abrangência do acordo de forma fundamentada e, com respaldo nas peculiaridades dos autos, conforme cita-se:
+Desse modo, verifica-se que o acordo firmado e homologado perante a Justiça Federal, contempla os danos materiais e morais, direta ou indiretamente relacionados à desocupação de imóveis, em razão do fenômeno geológico. Diante disso, a conduta adotada pelo juízo a quo, de extinção do feito sem análise do mérito, não merece reforma, notadamente pela existência das cláusulas de renuncia e de desistência, na hipótese de eventuais direitos remanescentes.
+ ..
+No entanto, da análise dos autos, afere-se que os questionamentos das partes recorrentes atingem a regularidade do acordo firmado perante a Justiça Federal, motivo pelo qual se entende que o presente recurso não se constitui como via adequada para viabilizar esta discussão. Diz-se isso pois, caberia às partes, primeiramente, questionar a avença junto à Justiça Federal, visto que o acordo teria sido homologado pelo juízo da 3ª Vara Federal onde foi realizado o acordo, para só então pleitear o direito que entende devido perante a Justiça Estadual. (e-STJ fls. 253)
+Assim, alterar este entendimento demandaria o reexame fático-probatório, bem como a interpretação das cláusulas fixadas no acordo firmado nos autos de ação civil pública, o que é vedado em recurso especial em razão das Súmulas 5 e 7 do STJ.
+-Da existência de cláusula leonina
+A alegação de que existe cláusula leonina no acordo pactuado nos autos da ação civil pública foi devidamente refutada no acórdão recorrido:
+No entanto, da análise dos autos, afere-se que os questionamentos das partes recorrentes atingem a regularidade do acordo firmado perante a Justiça Federal, motivo pelo qual se entende que o presente recurso não se constitui como via adequada para viabilizar esta discussão. Diz-se isso pois, caberia às partes, primeiramente, questionar a avença junto à Justiça Federal, visto que o acordo teria sido homologado pelo juízo da 3ª Vara Federal onde foi realizado o acordo, para só então pleitear o direito que entende devido perante a Justiça Estadual. (e-STJ fls. 254)
+Inexiste razão para reforma do aresto impugnado, uma vez que, segundo a jurisprudência do STJ, eventual alegação de vício em acordo homologado judicialmente deve ser deduzida por meio de ação própria.
+Cita-se: REsp n. 2.157.064/AL, Segunda Seção, julgado em 13/11/2024, DJe de 27/11/2024; AgInt no AREsp n. 2.431.438/AL, Quarta Turma, julgado em 13/5/2024, DJe de 16/5/2024; AgInt no AREsp n. 1.806.022/RJ, Terceira Turma, julgado em 26/2/2024, DJe de 12/3/2024; AgInt no REsp n. 1.926.701/MG, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021; REsp n. 1.558.015/PR, Quarta Turma, julgado em 12/9/2017, DJe de 23/10/2017.
+-Dos honorários advocatícios
+Alterar o decidido no acórdão impugnado, no que se refere à incompetência para apreciar o pedido referente aos honorários advocatícios, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar honorários advocatícios, em virtude da ausência de condenação na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ACORDO HOMOLOGADO PELA JUSTIÇA FEDERAL. SÚMULAS 5 E 7/STJ. DISCUSSÃO ACERCA DA EXISTÊNCIA DE VÍCIO EM ACORDO HOMOLOGADO JUDICIALMENTE. AÇÃO ANULATÓRIA. COBRANÇA DE HONORÁRIOS CONTRATUAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Ação de compensação por danos morais.
+2. A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Eventual alegação de vício em acordo homologado judicialmente deve ser deduzida por meio de ação anulatória. Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
