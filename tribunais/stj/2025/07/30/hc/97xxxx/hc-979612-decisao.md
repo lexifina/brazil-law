@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em benefício de CHRISTIAN WILLIAN PEREIRA, que aponta como autoridade coatora a 9ª Câmara de Direito Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG nos autos do "Agravo de Execução Criminal no Processo Origem nº 4400537- 53.2020.8.13.0702" (fl. 2).
+Infere-se dos autos que o Juízo da Execução indeferiu pedido formulado em favor do paciente de retificação de cálculo e, por consequência, de progressão de regime (fl. 16).
+No habeas corpus, em síntese, a defesa argumenta que a despeito do entendimento do Juízo da Execução, a incursão do agente na conduta prevista no art. 28 da Lei de Drogas não configura infração penal, conforme entendimento do STF, de forma que não pode configurar falta disciplinar no curso da execução penal. Nesses termos, aduz que o paciente faz jus à retificação dos cálculos de pena.
+Alega que "o Agravo em Execução seria a via processual adequada para deduzir questões próprias do processo de execução criminal, como está aqui apresentada e sanar qualquer distonia das decisões na execução, perante a legislação em vigor. Sabendo disse a defesa aviou tal pedido. Contudo, já se vão meses e até a presente data sequer teve qualquer análise do relator" (fl. 3).
+Pugna pela "concessão da presente ordem liminar de Habeas Corpus, determinando a imediata retificação do atestado de pena do paciente e consequentemente a sua progressão para regime menos gravoso. Caso não seja esse o entendido desse Emérito julgador, o que não se espera somente se cogita, requer seja, determinado ao Egrégio Tribunal Mineiro, faça a imediata analise do pleito defensivo, apresentado através de agravo de execução penal, que se encontra inerte naquele tribunal a meses. Outrossim, seja o presente pedido de habeas corpus julgado procedente ao final, confirmando-se a decisão liminar, determinando a retificação do cálculo penal do paciente e consequentemente sua devida e esperada progressão de regime" (fl. 15).
+O pedido liminar foi indeferido nas fls. 55/56, sendo requisitadas informações às instâncias ordinárias, prestadas às fls. 99/101 pelo Juízo local.
+O Ministério Público Federal pediu pela requisição de informações sobre o julgamento do Agravo em Execução (fls. 135/136).
+O pedido foi acolhido nas fls. 138.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 237-238).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração nem sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ, assim como destacado na decisão que indeferiu a liminar.
+Todavia, considerando as alegações expostas na inicial, mostra-se razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de oficio, como asseverou a decisão que indeferiu a medida liminar.
+Conforme relatado, busca-se, no presente writ, a alteração da data-base do paciente para fins de progressão do regime prisional.
+Entretanto, conforme informações apresentadas na fl. 231, o recurso interposto perante o Tribunal de Justiça do Estado de Minas Gerais, ainda não foi julgado, inclusive a informação que consta no processo é de que o julgamento está previsto para 17/09/2025.
+Conforme parecer do Ministério Público Federal foi deferido o pedido defensivo de revogação da decisão que havia reconhecida a falta grave praticada anteriormente, sendo que a progressão para o regime menos gravoso foi indeferida em razão de o paciente não ter atingindo o lapso temporal necessário, tendo em vista que ele cumpre penal total de 19 anos, 10 meses e 19 dias de reclusão, pela prática dos crimes de homicídio qualificado, lesão corporal e tráfico drogas, tendo cumprindo apenas 06 anos, 06 meses e 15 dias de pena até o dia 13/03/2025 (fl. 238).
+Como se sabe, é inviável a análise das teses trazidas no habeas corpus que não foram apreciadas pelo Tribunal a quo, impedindo este Superior Tribunal de Justiça de analisá-las, sob pena de incorrer em indevida supressão de instância.
+Não se pode perder de vista, ainda, que ante o princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus concomitantemente com a interposição de agravo em execução.
+Ilustrativamente:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ATIPICIDADE DA CONDUTA. ILEGALIDADE DO RECONHECIMENTO DA REINCIDÊNCIA. INEXISTÊNCIA DE ESTABELECIMENTO PRISIONAL ADEQUADO PARA O CUMPRIMENTO DA PENA COMINADA AO RÉU. MATÉRIAS NÃO APRECIADAS NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. PENDÊNCIA DE JULGAMENTO DO MÉRITO DE REVISÃO CRIMINAL AJUIZADA NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. COAÇÃO ILEGAL INEXISTENTE.
+1. As ilegalidades suscitadas pela defesa não foram alvo de deliberação no acórdão impugnado, circunstância que impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Não se vislumbra qualquer irregularidade no não conhecimento do mandamus originário, pois, como bem consignado pela instância de origem, a via eleita não é adequada para o julgamento antecipado de matéria, que foi objeto de revisão criminal. Precedentes.
+3. Em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus concomitantemente com o ajuizamento de revisão criminal. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no RHC 126.456/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 9/6/2020, DJe 17/6/2020).
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO EM EXECUÇÃO. INTERPOSIÇÃO CONCOMITANTE. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. COAÇÃO ILEGAL INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+2. Inviável a análise das teses trazidas no recurso ordinário em habeas corpus quenão foram apreciadas pelo Tribunal a quo, o que impede este Superior Tribunal de Justiça de analisá-las, sob pena de incorrer em indevida supressão de instância.
+3. Ex vi do princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus concomitantemente com a interposição de agravo em execução. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 137.600/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/2/2021, DJe de 1/3/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. AÇÃO CONSTITUCIONAL CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. IMPETRAÇÃO CONCOMITANTE A AGRAVO EM EXECUÇÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Writ manejado contra decisão singular de Desembargador Relator do Tribunal de origem sem a interposição de agravo com a finalidade de obter manifestação do Órgão Colegiado. Assim, impetrada antes do exaurimento da instância antecedente, impõe-se o não conhecimento da ação constitucional.
+2. No caso, a Desembargadora Relatora explicitou que, contra a decisão de primeiro grau, foram simultaneamente manejados o writ originário, ora impugnado, e o agravo em execução penal. Desse modo, decidiu pela impossibilidade de conhecimento do habeas corpus, destacando que a questão seria melhor examinada e pormenorizada por ocasião do julgamento do recurso próprio.
+3. Não padece de ilegalidade a decisão recorrida que deixa de conhecer de habeas corpus concomitante a agravo em execução pendente de julgamento pelo Tribunal de Justiça.
+4. O ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial caracteriza indevida subversão do sistema recursal e violação do princípio da unirrecorribilidade. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no HC n. 915.427/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+A propósito: "Não debatida a questão pela Corte de origem, é firme o entendimento de que fica obstada sua análise, em princípio, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal" (AgRg no HC n. 967.923/GO, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/3/2025, DJEN de 12/3/2025)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente mandamus.
+Publique-se.
+Intimem-se.
+EMENTA
