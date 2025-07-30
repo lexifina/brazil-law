@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS e pelo INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS - IPSEMG, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL  EMBARGOS À EXECUÇÃO - JUROS DE MORA E CORREÇÃO MONETÁRIA  MATÉRIA JÁ DECIDIDA POR SENTENÇA TRANSITADA EM JULGADO E NÃO INSERIDA NO ROL PREVISTO NO ART. 741 DO CÓDIGO DE PROCESSO CIVIL  IMPOSSIBILIDADE DE NOVA DISCUSSÃO A RESPEITO. Se a sentença executada decide a forma de atualização da dívida, disciplinando a incidência de juros de mora e correção monetária, descabe a rediscussão da matéria em sede de execução, uma vez que os embargos à execução de sentença não se prestam à rediscussão de questões já apreciadas e decididas na ação em que foi proferido o título executivo judicial, sob pena de ofensa à garantia constitucional da coisa julgada, devendo o embargante respeitar os limites delineados no art. 741 do Códiqo de Processo Civil. Não provido.
+Os embargos de declaração foram rejeitados, com imposição de multa.
+Nas razões recursais, os recorrentes apontam violação ao art. 538, § 2º, do CPC/1973, e ao art. 1º-F da Lei n. 9.494/1997, esse último com a redação conferida pela Lei n. 11.960/2009.
+Sustentam: (i) a inaplicabilidade da multa processual, ante a inexistência de caráter protelatório nos embargos de declaração opostos na origem; e (ii) a necessidade de atualização do crédito exequendo com base nos índices de correção monetária e de juros de mora aplicáveis à caderneta de poupança.
+Contrarrazões foram apresentadas.
+Em sede de juízo de conformação com o precedente que julgou o Tema 905 do STJ, o Colegiado local não se retratou, mas, de ofício, determinou a aplicação da Taxa Selic a partir da entrada em vigor da EC n. 113/2021.
+Na sequência, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+No tocante à atualização do crédito exequendo, assim se manifestou o acórdão recorrido:
+Em relação ao tema central, insurgem-se os apelantes contra a execução, ao argumento de que na planilha lançada, haveria excessos, na medida em que os consectários da condenação deveriam obedecer à nova redação dada pela Lei Federal 11.960/2009 ao art. 1 º-F da Lei Federal 9.494/97.
+Esqueceram-se, entretanto, que a matéria aqui trazida encontra-se alcançada pela coisa julgada material, já que a sentença produzida (fls. 29137) estabelece a imposição de correção monetária pela Tabela da Corregedoria do Tribunal de Justiça de Minas Gerais, desde a data de cada desconto, bem como juros de mora de 1% (um por cento) ao mês, a partir do trânsito em julgado da decisão.
+Com efeito, sabe-se que os embargos à execução por título judicial encontram limites no art. 741 do Código de Processo Civil, que estabelece o rol taxativo de matérias que poderão ser discutidas em sede de embargos, vedando, por conseguinte, que seja reaberto o rebate de matérias que já foram, ou deveriam ter sido, decididas no processo de conhecimento e sobre as quais já se configurou a preclusão.
+Este Tribunal é unânime no entendimento de que os embargos à execução não se prestam à rediscussão de questões já apreciadas e decididas na ação em que foi proferida o título executivo judicial, sob pena de ofensa à garantia constitucional da coisa julgada:
+ ..
+Lado outro, ao contrário do que sustentam os apelantes, tratando-se de repetição do indébito, não há que se falar na aplicação da Lei Federal 9.494197, com a redação dada pela Lei Federal 11.96012009, na forma delimitada pelo art. 167, § único, do Código Tributário Nacional, por estar em posição hierarquicamente superior á limitação contida na aludida legislação, o que, de resto, já foi objeto de decisão vinculante do Supremo Tribunal Federal e de pacificação no Superior Tribunal de Justiça. Neste contexto, não vejo como dar azo à pretensão recursal dos apelantes, já que a matéria ora arguida, não se insere em nenhuma das hipóteses arroladas no art. 741 do Código de Processo Civil, encontrando acobertada pelo manto da coisa julgada.
+Diante do exposto, nego provimento ao recurso interposto.
+Custas recursais imunes.
+Do que se extrai dos autos, o acórdão recorrido rejeitou a pretensão dos recorrentes com base em dois fundamentos autônomos: (i) ocorrência de coisa julgada; e (ii) inaplicabilidade do art. 1º-F da Lei n. 9.494/1997 à atualização de indébito tributário.
+Pois bem.
+Não obstante o debate existente quanto à aplicação imediata da Lei n. 11.960/2009 aos processos em curso, o entendimento firmado pelo Tribunal de origem  no sentido de que os índices de correção monetária e de juros moratórios nela previstos não se aplicam às condenações impostas à Fazenda Pública em matéria tributária  encontra-se em harmonia com o precedente vinculante firmado no julgamento do Tema 905 do Superior Tribunal de Justiça, segundo o qual:
+1. Correção monetária: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+ ..
+2. Juros de mora: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), na parte em que estabelece a incidência de juros de mora nos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, aplica-se às condenações impostas à Fazenda Pública, excepcionadas as condenações oriundas de relação jurídico-tributária.
+(Grifos acrescidos)
+Incide, no ponto, o óbice de conhecimento estampado na Súmula 83 do STJ.
+Entretanto, no que se refere à insurgência contra a sanção processual aplicada, constata-se a deficiência da fundamentação recursal, nos termos da Súmula 284 do STF, uma vez que, enquanto o acórdão recorrido se fundamentou no art. 1.026, § 2º, do CPC/2015, os recorrentes indicaram, como norma violada, o revogado art. 538, § 2º, do CPC/1973.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS NO AGRAVO INTERNO. PRECLUSÃO. ALEGAÇÃO DE AFRONTA A DISPOSITIVOS LEGAIS JÁ REVOGADOS OU SEM CONTEÚDOS NORMATIVOS APTOS A SUSTENTAR AS TESES NELES ALICERÇADAS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. SUPOSTA NULIDADE EM RAZÃO DE O AGRAVO DE INSTRUMENTO TER SIDO JULGADO POR MEIO DE DECISÃO MONOCRÁTICA. SUPERADA EM RAZÃO DO POSTERIOR JULGAMENTO DO AGRAVO INTERNO PELO ÓRGÃO COLEGIADO. INCIDÊNCIA DA SÚMULA N. 399 DO STF. REPRODUÇÃO DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA NO JULGAMENTO DO AGRAVO INTERNO. POSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A alegação de afronta a dispositivos do Código de Processo Civil de 1973 - arts. 3º, 267, inciso VI e § 3º, 355, 844, 914, inciso I, do CPC/1973 (fl. 391) -, os quais já se encontravam revogados quando da publicação do acórdão recorrido e da interposição do recurso especial, configura deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+ ..  (AgInt no AREsp n. 2.075.758/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025.)
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. PREQUESTIONAMENTO. MOTIVOS. IMPUGNAÇÃO. AUSÊNCIA. VÍCIO DE INTEGRAÇÃO. INOCORRÊNCIA. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. INEXISTÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+ ..
+5. A indicação de dispositivo de lei processual não mais vigente ao tempo da publicação do aresto recorrido caracteriza deficiência do apelo nobre a atrair o óbice de conhecimento estampado na Súmula 284 do STF.
+ ..  (AgInt no REsp n. 1.686.353/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/4/2022, DJe de 12/4/2022.)
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
