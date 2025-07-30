@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO PAULO PEREIRA DO CARMO DO VALLE contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ e pelo óbice da Súmula n. 83 do STJ.
+Nas razões do agravo, a defesa argumenta a inexistência do óbice da Súmula n. 7 do STJ (fls. 982-983):
+Inicialmente, destaca-se que não há que se falar em reexame dos fatos. A dinâmica dos fatos não é objeto de controvérsia no ora recurso excepcional interposto.
+Alega que não há falar em jurisprudência pacífica a respeito do recurso interposto. Ness e sentido, teceu breves apontamentos sobre cada um dos julgados colacionados na decisão de não admissão.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Parecer do Ministério Público Federal opinando pelo não provimento do agravo em recurso especial ou, subsidiariamente, pelo não provimento do recurso especial (fls. 1.012-1.023).
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo obter a modificação da decisão do Tribunal de origem.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de reexame do conjunto fático-probatório dos autos.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Na mesma direção, em situação semelhante ao do presente feito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PLEITO DE REANÁLISE DO MÉRITO DA DECISÃO QUESTIONADA. MERO INCONFORMISMO. MANUTENÇÃO DA DECISÃO PELOS PRÓPRIOS FUNDAMENTOS.
+1. Os embargos de declaração opostos com mero propósito infringente - o que não é admitido pela Jurisprudência - devem ser conhecidos como agravo regimental, com fundamento no princípio da fungibilidade (EDcl no HC n. 609.741/MG, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2020).
+2. Esta Corte já sedimentou o entendimento de que os crimes de posse e de porte de arma de fogo ou munição são de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta, porquanto o objeto jurídico tutelado não é a incolumidade física e sim a segurança pública e a paz social, colocadas em risco pelo porte/posse de arma de fogo ou munição, revelando-se despicienda a comprovação do potencial ofensivo do artefato através de laudo pericial (HC n. 529.963/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+3. Não há como se acolher a alegação de ausência de prequestionamento quando o próprio recorrente, expressamente, reconhece que a matéria foi debatida e decidida. Além disso, a não especificação sobre qual matéria estaria carente de prequestionamento, implica deficiência de fundamentação que inviabiliza a compreensão da controvérsia.
+4. A pretensão de desclassificar a conduta de porte ilegal de arma de fogo para posse exige o reexame do contexto fático-probatório, vedado em recurso especial, a teor do enunciado n. 7 da Súmula do Superior Tribunal de Justiça (AgRg no AREsp n. 403.471/SP, Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 4/11/2013).
+5. É incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal (AgRg no REsp n. 1.156.971/RS, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 19/2/2015).
+6. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento.
+(EDcl no AREsp n. 1.616.809/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/11/2020, DJe de 17/11/2020.)
+Ainda, segundo a orientação do Superior Tribunal de Justiça, "a superação da Súmula n. 83, STJ, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar  ..  o julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos" (AgRg no AREsp n. 2.543.587/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+Não demonstrada tal circunstância nas razões do agravo em recurso especial, constata-se o acerto da decisão de inadmissão proferida na origem. Nesse sentido (destaquei):
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+3. Para infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese. Precedentes.
+4. Agravo regimental não conhecido.
+(AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. DECISÃO DE ADMISSIBILIDADE FUNDADA NA SÚMULA N. 83/STJ. INDICAÇÃO DE PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+3. Na hipótese dos autos, o agravante, de fato, deixou de impugnar especificamente, de forma efetiva e pormenorizada, nas razões do agravo em recurso especial, o entrave atinente à incidência da Súmula n. 83/STJ, apontado pelo Tribunal de origem como um dos fundamentos para inadmitir o recurso.
+4. Nos termos da orientação jurisprudencial desta Corte Superior, inadmitido o recurso especial com fundamento na Súmula n. 83/STJ óbice que também se aplica aos recursos especiais manejados com fundamento na alínea "a" do permissivo constitucional, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, com vistas a demonstrar que outro é o entendimento jurisprudencial desta Corte sobre o tema, o que não ocorreu na hipótese dos autos. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.649.953/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024.)
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
