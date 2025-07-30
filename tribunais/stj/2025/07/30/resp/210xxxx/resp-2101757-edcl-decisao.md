@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IGNEZ MARTINS PIMENTA contra decisão da minha lavra em que dei provimento ao recurso da parte adversa, "a fim de afastar a necessidade de prévio registro do processo de demarcação no Cartório de Registro de Imóveis como requisito para cobrança de encargos relativos à qualidade do imóvel como terreno de marinha, que podem ser cobrados, a partir do momento em que comprovado o conhecimento inequívoco do ocupante quanto a esta qualidade do imóvel" (e-STJ fl. 707).
+Sustenta a parte embargante que o julgado padece de omissão, porque não houve manifestação sobre questão que vem suscitando em suas contrarrazões referente à nulidade do processo demarcatório, notadamente por ausência de notificação pessoal dos interessados certos, além de implicitamente ter sido reconhecido o seu direito, pois só teve conhecimento inequívoco da condição do imóvel em 2021.
+Decorrido o prazo legal sem impugnação (e-STJ fl. 723).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver o bscuridade, contradição, omissão e erro material na decisão.
+No caso, não se verifica a existência de omissão com reconhecimento implícito da tese da ora embargante, uma vez que a decisão agravada limitou-se a afirmar que, nos termos da jurisprudência, os terrenos de marinha são imóveis originalmente pertencentes à União e antes de proceder a cobrança de encargos sobre eles, a União deve realizar sua demarcação e cientificar o ocupante dessa situação (à época da demarcação ou de algum daqueles que vierem a lhe suceder), não havendo qualquer apreciação sobre a questão específica dos autos.
+Quanto à alegação de omissão em relação a existência de outras irregularidades no processo demarcatório, de fato ocorreu vício de integração.
+Com efeito, a decisão embargada afastou o único fundamento utilizado pelo acórdão recorrido (necessidade de registro na matrícula do imóvel para a conclusão do processo de demarcação), entretanto, a ora embargante, tanto nas razões de apelação como do apelo nobre reiterou argumentos subsidiários quanto à existência de outros vícios no processo demarcatório e que, em tese, poderiam manter o provimento conferido pela sentença.
+Entretanto, considerando que a questão demanda a apreciação de elementos probatórios, é imperioso o retorno nos autos ao Tribunal de origem para que, uma vez afastado o único fundamento utilizado no acórdão, as demais questões suscitadas pelas partes e que podem alterar o julgado sejam apreciadas por aquele Colegiado como entender de direito.
+Assim, deve ser incluída à parte dispositiva a seguinte determinação:
+DETERMINO o retorno dos autos ao Tribunal de origem para apreciação das demais questões suscitadas pelas partes, como entender de direito.
+Com essas considerações. ACOLHO PARCIALMENTE os embargos de declaração para acrescentar à parte dispositiva a determinação do retorno dos autos ao Tribunal de origem a fim de que sejam apreciadas as demais questões suscitadas pelas partes, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
