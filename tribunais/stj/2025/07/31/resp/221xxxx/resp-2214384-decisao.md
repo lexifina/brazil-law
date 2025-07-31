@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional da 4ª Região, cuja ementa é a seguinte (e-STJ fl. 56):
+PENAL E PROCESSUAL PENAL. MANDADO DE SEGURANÇA. EXECUÇÃO DA PENA DE MULTA. JUÍZO COMPETENTE. ART. 51 DO CÓDIGO PENAL. ADI Nº 3.150/DF. LEGITIMIDADE. PRIORITÁRIA DO MINISTÉRIO PÚBLICO. SUBSIDIÁRIA DA FAZENDA PÚBLICA. PRAZO DE 90 DIAS. CONCESSÃO PARCIAL DA SEGURANÇA.
+1. O Supremo Tribunal Federal, ao julgar a ADI nº 3.150/DF, conferindo interpretação conforme a Constituição ao art. 51 do Código Penal, assentou a natureza penal da pena de multa, não alterada pela Lei nº 9.268/96, e reconheceu a legitimidade prioritária do Ministério Público para sua cobrança, perante a Vara de Execução Penal, ressalvando a legitimidade subsidiária da Fazenda Pública para fazê-la em caso de inércia do órgão ministerial.
+2. A alteração feita no art. 51 do Código Penal, pela Lei nº 13.964/2019, circunscreve-se à modificação da competência, agora atribuída expressamente à Vara de Execução Penal, sem reflexos sobre a legitimidade para o ajuizamento da execução da multa penal.
+3. Não pode a dita legitimidade prioritária, ao cabo, apenas servir como prerrogativa para o Ministério Público adotar como regra a recusa em assumir atribuição que lhe foi conferida, sob pena de configurar-se a legitimação exclusiva da Procuradoria Geral da Fazenda Nacional para a execução da multa penal.
+4. É fundamental que, ao menos, seja respeitado o prazo de 90 dias - estabelecido pelo STF na ADI 1.350/DF - para que o Ministério Público exerça os atos executórios relativos à multa penal, e, apenas se transcorrido esse período com a inércia do órgão ministerial, que se cogite a necessidade de invocar o legitimado subsidiário para a consecução da tarefa.
+5. Concessão parcial da segurança, para o fim de tornar sem efeito a decisão impetrada, e determinar ao juiz a quo que abra novo prazo (de 90 dias) para oportunizar ao Ministério Público Federal, na condição de legitimado prioritário, que promova a cobrança da multa penal.
+Nas razões do recurso especial (e-STJ fls. 112/121), alega a parte recorrente violação do artigo 51 do CP. Sustenta que, a partir da vigência da Lei n. 13.964/2019 (Pacote Anticrime), que é posterior à decisão do STF na ADI 3.150, sendo agora a competência exclusiva do Ministério Público, na medida em que a execução penal deverá ser feita, necessariamente, perante o Juízo das Execuções Penais. Não há mais como fazer a alternativa de execução na seara fiscal, se não promovida a execução no âmbito criminal (e-STJ fl. 78).
+Acrescenta que mesmo sendo a multa "dívida de valor", depois da alteração promovida pela Lei n. 13.964/2019 não pode mais ser cobrada em sede de execução fiscal, sendo, portanto, do Ministério Público, de modo exclusivo, a legitimidade para a execução da pena de multa, o que se dará perante o Juízo da execução penal (e-STJ fl. 87).
+Requer, assim, o provimento do presente recurso a fim de que seja reformado o v. acórdão do TRF4, firmando-se a legitimidade exclusiva do Ministério Público Federal para a execução da pena de multa (e-STJ fl. 87).
+Apresentadas contrarrazões (e-STJ fls. 116/121 e 125/127), o Tribunal a quo admitiu o recurso especial (e-STJ fls. 163), manifestando-se o Ministério Público Federal pelo conhecimento e desprovimento do recurso especial (e-STJ fl. 174/180).
+É o relatório. Decido.
+O recurso especial é manifestamente incabível.
+Conforme art. 105, inciso II, alínea b, da Constituição da República, o recurso cabível contra acórdão que denega mandado de segurança decidido em única instância por Tribunal de Justiça ou por Tribunal Regional Federal é o recurso ordinário.
+O mesmo entendimento é o da pacífica jurisprudência desta Corte Superior no sentido de que a interposição de recurso especial contra acórdão denegatório de mandado de segurança constitui erro grosseiro, o que implica o não conhecimento do recurso e impede a aplicação do princípio da fungibilidade.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. MANDADO DE SEGURANÇA. ACÓRDÃO DENEGATÓRIO. INTERPOSIÇÃO DE RECURSO ESPECIAL. NÃO CABIMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 105, inciso II, alínea b, da Constituição da República, o recurso cabível contra acórdão denegatório proferido em mandado de segurança julgado em única instância por Tribunal de Justiça ou por Tribunal Regional Federal é o recurso ordinário.
+2. A interposição de recurso especial contra acórdão denegatório de mandado de segurança constitui erro grosseiro, o que implica o não conhecimento do recurso e impede a aplicação do princípio da fungibilidade.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.344.824/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/9/2023, DJe de 11/9/2023.)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ACÓRDÃO DENEGATÓRIO. ERRO GROSSEIRO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Configura-se erro grosseiro a interposição de recurso especial contra decisão denegatória em mandado de segurança decidido em única instância por Tribunal Regional Federal ou Tribunal de Justiça.
+3. Agravo interno desprovido." (AgInt no REsp n. 1.884.077/GO, Relator Ministro GURGEL DE FARIA, Primeira Turma, julgado em 26/10/2020, DJe de 26/11/2020)
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ORDEM DENEGADA PELO TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO. INTERPOSIÇÃO DE RECURSO ESPECIAL. NÃO CABIMENTO. VIA ADEQUADA: RECURSO ORDINÁRIO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. PRECEDENTES.
+1. Conforme expressa previsão constitucional (art. 105, inciso II, alínea "b", da Constituição Federal), compete ao Superior Tribunal de Justiça julgar, em recurso ordinário, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais e pelos Tribunais dos Estados e do Distrito Federal e Territórios, quando denegatória a decisão.
+2. A interposição de recurso especial em face de acórdão que denegou a segurança impetrada na origem configura erro grosseiro, apto a afastar a aplicação do princípio da fungibilidade. Precedentes.
+3. Agravo regimental improvido." (AgRg no REsp n. 1.731.699/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 14/8/2018, DJe de 23/8/2018)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Intimem-se.
+EMENTA
