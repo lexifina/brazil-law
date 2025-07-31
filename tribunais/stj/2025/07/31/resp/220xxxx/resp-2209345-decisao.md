@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por VERA LUCIA ARGOLO VICENTE, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER E CONDENATÓRIA POR INDENIZAÇÃO POR DANOS MORAIS C/C PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA DE URGÊNCIA - SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE, CONDENANDO O PLANO DE SAÚDE PROCEDER A AUTORIZAÇÃO, CUSTEIO E REALIZAÇÃO DO PROCEDIMENTO CIRÚRGICO PLEITEADO, ASSIM COMO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE R$ 3.000,00.
+- PRELIMINAR DE INOVAÇÃO RECURSAL SUSCITADA PELA PARTE AUTORA EM CONTRARRAZÕES - INSURGÊNCIA DO PLANO DE SAÚDE, NA SRAZÕES DE APELAÇÃO, EM RELAÇÃO AO CUSTEIO DOS HONORÁRIOS MÉDICOS - MATÉRIA NÃO SUSCITADA EM CONSTESTAÇÃO E QUE TAMBPEM NÃO SE TRATA DE ORDEM PÚBLICA - INOVAÇÃO RECURSAL CONFIGURADA - NÃO ATENDIMENTO AO ART. 1.013, §1º, E 1.014, DO CPC - NÃO CONHECIMENTO DO APELO NESTE PONTO.
+- MÉRITO - RECUSA DO PLANO DE SAÚDE EM REALIZAR CIRURGIA NA COLUNA VERTEBRAL COM OS MATERIAIS SOLICITADO POR MÉDICO ESPECIALISTA - PACIENTE É PORTADORA DE FRATURA NA VÉRTEBRA T7, COM ALTERAÇÕES DEGENERATIVAS DIFUSAS NA COLUNA VERTEBRAL E RAFERAÇÃO ÓSSEA DIFUSA - CONSUMIDORA POSSUI MIELOMA MÚLTIPLO, TIPO DE CÂNCER QUE AFETA AS CÉLULAS DA MEDULA ÓSSEA - DOCUMENTOS ACOSTADOS QUE SÃO SUFICIENTES PARA DEMONSTRAR O ESTADO CLÍNICO DO PACIENTE E A PRESCRIÇÃO DO TRATAMENTO POR ESPECIALISTA (FLS. 30/114). - NEGATIVA SOB FUNDAMENTO DESNECESSIDADE DOS EQUIPAMENTOS SOLICITADOS PELO MÉDICO CIRURGIÃO - IMPOSSIBILIDADE DO PLANO DE SAÚDE ELEGER O MELHOR TRATAMENTO A SER DISPENSADO AO BENEFICIÁRIO - DEVER DO PLANO EM AUTORIZAR E REALIZAR O PROCEDIMENTO CIRÚRGICO MANTIDO. -
+DANO MORAL NÃO CONFIGURADO - PRECEDENTES DESSA TURMA - REFORMA DA SENTENÇA - TENDO EM VISTA QUE HOUVE SUCUMBÊNCIA RECÍPROCA, CONDENO AMBAS AS PARTES AO PAGAMENTO DAS CUSTAS PROCESSUAIS, NO PERCENTUAL DE 50% (CINQUENTA POR CENTO) PARA CADA PARTE, E CONDENO AINDA AS PARTES AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO ADVOGADO EX ADVERSA, QUE ARBITRO EM 10% (DEZ POR CENTO) SOB O PROVEITO ECONÔMICO, FICANDO SUSPENSA A EXIGIBILIDADE DAS REFERIDAS VERBAS EM RELAÇÃO A PARTE CONSUMIDORA EM RAZÃO DE SER BENEFICIÁRIA DA JUSTIÇA GRATUITA. - RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO" (e-STJ fls. 664/665).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 682/683).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 186, 187 e 927 do Código Civil, pois patente a configuração de danos morais, ante a recusa indevida de cobertura da cirurgia pleiteada pela paciente; e,
+(ii) art. 85, §2º, do Código de Processo Civil, ao argumento de que os honorários sucumbenciais devem ser fixados sobre o valor da condenação.
+Contrarrazões apresentadas às e-STJ fls. 730/736.
+É o relatório.
+DECIDO.
+A questão de direito tratada no presente recurso especial foi afetada pela Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos - Tema 1.365 -, conforme previsão dos arts. 1.036 e 1.037 do Código de Processo Civil.
+Com efeito, a decisão de afetação conjunta foi proferida nos REsp 2.165.670/SP e 2.197.574/SP, desta relatoria, nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. PLANO DE SAÚDE. TRATAMENTO. RECUSA INDEVIDA. DANOS MORAIS PRESUMIDOS. DAMNUM IN RE IPSA.
+1. Delimitação da controvérsia: "definir se há configuração de danos morais in re ipsa nas hipóteses de recusa indevida de cobertura médico-assistencial pela operadora de plano de saúde".
+2. Recurso especial afetado ao rito dos artigos 1.036 e seguintes do CPC.
+(ProAfR no REsp 2.165.670/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 10/6/2025, DJEN de 24/6/2025)
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental nº 24/2016, devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Logo, imperativa a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local em relação ao que vier a ser decidido pelo Superior Tribunal de Justiça sobre o Tema 1.365.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
