@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal n. 0715108-81.2022.8.07.0003) que manteve a sentença que condenou MARCO ANTONIO DE MELO MENDONCA como incurso no crime de estelionato.
+Nas razões do recurso especial, o agravante alega, em síntese, violação dos arts. 386, VII, do Código de Processo Penal e 59 do Código Penal.
+Aduz que, no caso em concreto, não restou comprovada vantagem ilícita em prejuízo alheio mediante meio fraudulento. Na hipótese dos autos, o veículo não foi dado em garantia para obtenção de vantagem ilícita em prejuízo alheio e, sim, para não pagar as despesas com a diária e refeição no Hotel (situação já concretizada). O que ocorreu, portanto, foi mero inadimplemento de relação consumerista (fl. 556).
+Acrescenta, a esse respeito, que, no mesmo contexto, ao contrário do alegado no acórdão recorrido, também não está comprovada a prática de atos premeditados pelo acusado e tampouco que o acusado " jamais teve a intenção de realizar" o pagamento, trata-se, na realidade, de meras suposições. Ainda nesse sentido, também não está provado que houve " simulação da propriedade do veículo, mediante acionamento do alarme perante a recepcionista", tanto que o acusado não foi condenado por roubo/furto, nem por receptação (fls. 556/557).
+Subsidiariamente, alega que, na primeira fase de fixação da reprimenda, a pena-base foi elevada pela negativação dos maus antecedentes e da conduta social, em fração superior a 1/6, sem que fosse demonstrado que a conduta do agente extrapolou a gravidade inerente ao teor das circunstâncias judiciais, o que se afigura ilegal.
+Requer, assim, a absolvição do réu ou a redução da pena.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugna o fundamento da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+Ocorre que, como bem asseverou o Tribunal a quo, o pleito absolutório encontra óbice na Súmula 7/STJ.
+Ora, como é cediço, a absolvição do recorrente, com fundamento na fragilidade das provas, implicaria o reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, conforme Súmula n. 7/STJ (AgRg nos EDcl no AREsp n. 2.712.225/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+No mesmo sentido: AgRg no AREsp n. 1.917.828/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.
+Por outro lado, quanto à fração de aumento da pena adotada para cada circunstância judicial negativa, o recurso padece de fundamentação deficiente, pois o referido preceito (art. 59 do Código Penal), por si só, não ostenta comando normativo para respaldar a tese defensiva e reformar o acórdão atacado.
+Logo, considerando a natureza vinculada do recurso especial e o fato de que o dispositivo indicado, nesse tópico, não ampara, por si só, a tese deduzida, é de rigor a incidência da Súmula 284/STF. Nesse sentido: AgRg no AREsp n. 2.842.334/SP, Ministro Otavio de Almeida Toledo (Desembargador convocado do TJ/SP), Sexta Turma, DJEN 27/5/2025.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. VIOLAÇÃO DO ART. 386, VII, DO CPP. PLEITO DE ABSOLVIÇÃO. REVISÃO DA CONVICÇÃO ESTABELECIDA A PARTIR DO EXAME DAS PROVAS COLIGIDAS. INADMISSIBILIDADE. SÚMULA 7/STJ. FRAÇÃO ADOTADA PARA A ELEVAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+Agravo conhecido para não conhecer do recurso especial.
