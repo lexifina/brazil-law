@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ASSOCIACAO DOS MORADORES VILLAGE BEIRA MAR e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - POSSE - INTERDITO PROIBITÓRIO - SENTENÇA DE PROCEDÊNCLA - ABERTURA REALIZADA NO MURO DIVISÓRIO ENTRE AS PROPRIEDADES - CIRCUNSTÂNCIAS DO CASO CONCRETO QUE PERMITEM AFERIR QUE A ABERTURA. FOI FEITA PELAS APELANTES - TUTELA DO DIREITO DE POSSE QUE INDEPENDE DO DIREITO DE PROPRIEDADE - CABIMENTO DA FIXAÇÃO DE PENALIDADE PECUNIÁRIA EM SEDE DE INTERDITO PROIBITÓRIO, CONFORME A LETRA DA LEI - MULTA MANTIDA - IMPOSSIBILIDADE DE SE PROFERIR SENTENÇA CONDICIONAL - SENTENÇA MANTIDA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1.210 do CC, no que concerne ao necessário afastamento da aplicação de multa na hipótese de deferimento da servidão de passagem, trazendo a seguinte argumentação:
+- Considerando que o apelante estar a mais de 20 anos na posse mansa e pacífica. ( documentos em anexo).
+- Considerando que a tramitação da AÇÃO DE REABERTURA DE PASSAGEM DE SERVIDÃO - Processo nº1000613- 06.2022.8.26.0075. Cuja servidão estar entre a posse do apelado e do apelante. E caso seja deferido o presente pedido, o muro deverá ser demolido na parte dos fundos.
+- Considerando que a inicial é completamente sem nexo e confusa, visto que o boletim de ocorrência juntado fls.48, "ALEGA QUE ELEMENTOS NÃO IDENTIFICADOS FIZERAM UM BURACO NO MURO". Não foi comprovado nenhuma conduta de esbulho ou tentativa por parte do apelante.
+- Considerando que a posse do apelante corresponde a 250 metros de fundo conforme escritura de posse em anexo e planta em anexo, e a alegação de suposto esbulho alegado não prevalece, visto que o próprio muro estar dentro da posse do apelante e por isso inexiste esbulho, visto que a posse já é do apelante.
+Por estes motivos requer que o acordão seja reformado a fim de que não seja aplicada a multa na hipótese de deferimento da servidão de passagem, vez que não faz sentido o apelante ser penalizado em caso da abertura do muro para que seja realizada a servidão de passagem.
+SALIENTE QUE TODAS AS PROVAS DAS ALEGAÇÕES DO RECORRENTE JÁ CONSTA NOS AUTOS.
+Por estes motivos requer que o acordão seja reformado a fim de que não seja aplicada a multa na hipótese de deferimento da servidão de passagem e no reajuste da metragem pelo fato do muro estar na divisa errada do terreno (fls. 275-276).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamentos autônomos e suficientes para manter o julgado, quais sejam:
+Além disso, tampouco merece prosperar o pedido de que a multa imposta na sentença seja afastada em caso de procedência da ação de instituição de servidão. Em primeiro lugar, a imposição de multa se justifica, uma vez que a finalidade do interdito proibitório é justamente a emissão de "mandado proibitório em que se comine ao réu determinada pena pecuniária caso transgrida o preceito", conforme o artigo 567 do CPC.
+Em segundo lugar, nos termos do artigo 492, parágrafo único, do CPC, não é possível proferir um provimento jurisdicional condicional, que dependa do resultado de outra demanda. Dispõe a lei: "a decisão deve ser certa, ainda que resolva relação jurídica condicional" (fl. 263).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
