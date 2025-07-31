@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Pedido de Uniformização de Interpretação de Lei contra acórdão da Terceira Turma Recursal Cível do Tribunal de Justiça do Estado de São Paulo, que foi assim ementado:
+RECURSO INOMINADO. DIREITO CIVIL. AÇÃO POSSESSÓRIA. TURBAÇÃO - Requerente alega que seus inquilinos estão impedindo obras em seu terreno, vizinho à casa locada, vandalizando, ameaçando e chamando a polícia constantemente. SENTENÇA PROCEDÊNCIA EM PARTE - Condenação da requerida Samara a se abster de qualquer ato de destruição e invasão ao imóvel do autor - Ausência de comprovação dos fatos alegados pelo locador em relação ao réu Fábio. RECURSO DOS REQUERIDOS - Preliminar de conexão - Incompetência do Juizado Especial - Reconhecimento da posse do bem em favor da requerida - Legalidade da remoção das câmeras - Pedido contraposto de Fábio - Indenização por danos morais por acusações falsas. IRRESIGNAÇÃO DA REQUERIDA ACOLHIDA E DO RÉU NÃO ACOLHIDA - Conexão afastada - Reunião dos processos não é adequada no momento - Rejeição da preliminar de incompetência do Juizado Especial - Deslinde da causa não depende da produção de prova complexa - Contrato de locação do imóvel sito à Rua César Muzzio, nº 55 - Casa e terreno que constam de uma mesma matrícula - Terreno que não apresenta número distinto da casa - Impossibilidade de se restringir a locação apenas à parte construída do imóvel - Inquilina que pode defender a sua posse contra o locador - Provas corroboram invasão do autor e instalação de câmeras por ele - No entanto, remoção das câmeras por Samara foi legítima defesa da sua posse e intimidade - Alegações de calúnia e falsa denunciação contra o requerido não comprovadas. Sentença reformada. RECURSO DA RÉ PROVIDO E DO REQUERIDO NÃO PROVIDO.
+Os requerentes apontam divergência entre o acórdão da Turma Recursal e a jurisprudência do STJ sobre a interpretação do art. 55, parágrafo único, da Lei 9.099/1995. Afirmam ser obrigatória a fixação de honorários advocatícios sucumbenciais em Recurso Inominado que reformou a sentença de procedência proferida pelo Juizado Especial Cível.
+É o relatório.
+Decido.
+O presente pedido deve ser liminarmente indeferido.
+Isso porque o Pedido de Uniformização de Interpretação de Lei federal previsto no art. 14 da Lei n. 10.259/2001 restringe-se aos Juizados Especiais Federais. De outro lado, o PUIL da Lei n. 12.153/2009 diz respeito aos Juizados Especiais da Fazenda Pública.
+A Lei n. 9.099/1995, por sua vez, não prevê mecanismo processual semelhante no âmbito do sistema dos Juizados Especiais Cíveis. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ACÓRDÃO DE TURMA RECURSAL CÍVEL. INAPLICABILIDADE DA LEI N. 12.153/2009.
+1. Pedido de uniformização de interpretação de lei que não encontra amparo nas regras da Lei n. 12.153/2009, tendo em vista que o acórdão impugnado não foi proferido no âmbito dos Juizados Especiais da Fazenda Pública estaduais, distritais ou municipais, mas de Juizado Especial Cível.
+2. Agravo interno a que se nega provimento. (AgInt no PUIL n. 4.129/PR, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 13/11/2024, DJe de 18/11/2024)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PROCESSUAL CIVIL. CABIMENTO PARA AS HIPÓTESES PREVISTAS NOS ARTS. 14, § 4º, DA LEI N. 10.259/2001 E 18, § 3º, E 19, CAPUT, DA LEI N. 12.153/2009. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO PEDIDO.
+1. O Pedido de Uniformização de Interpretação de Lei somente é cabível no âmbito de processos de competência dos Juizados Especiais da Fazenda Pública dos Estados, do Distrito Federal, dos Territórios e dos Municípios, os quais são regulados pela Lei n. 12.153/09, e aqueles relacionados aos Juizados Especiais Federais, regidos pela Lei n. 10.259/01. Precedentes.
+2. Na hipótese, o pedido foi manejado em demanda ajuizada, pelo procedimento definido pela Lei n. 9.099/95, tendo o acórdão impugnado sido proferido pela Terceira Turma Recursal Mista do Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Agravo interno improvido.
+(AgInt nos EDcl no PUIL n. 4.016/MS, relator Ministro Humberto Martins, Segunda Seção, julgado em 3/9/2024, DJe de 5/9/2024)
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PROCESSUAL CIVIL. CABIMENTO PARA AS HIPÓTESES PREVISTAS NOS ARTIGOS 14, § 4º, DA LEI 10.259/2001 E 18, § 3º, E 19, CAPUT, DA LEI 12.153/2009. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO PEDIDO.
+1. O Pedido de Uniformização de Interpretação de Lei somente é cabível no âmbito de processos de competência dos Juizados Especiais da Fazenda Pública dos Estados, do Distrito Federal, dos Territórios e dos Municípios, os quais são regulados pela Lei 12.153/09, e aqueles relacionados aos Juizados Especiais Federais, regidos pela Lei 10.259/01. Precedentes.
+2. Na hipótese, o pedido foi manejado em demanda ajuizada com esteio no procedimento definido pela Lei 9.099/95, tendo o acórdão impugnado sido proferido pela Turma Recursal do Grupo Jurisdicional de Itajubá - MG.
+3. Agravo Interno a que se nega provimento.
+(AgInt no PUIL n. 3.272/MG, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14/3/2023, DJe de 16/3/2023)
+No caso, a pretensão dos requerentes envolve a interpretação da legislação federal em julgado proferido no âmbito do sistema dos Juizados Especiais Cíveis, o que inviabiliza o conhecimento do pedido.
+Ante o exposto, indefiro liminarmente o Pedido de Uniformização de Interpretação de Lei Federal .
+Publique-se.
+Intimem-se.
+EMENTA
