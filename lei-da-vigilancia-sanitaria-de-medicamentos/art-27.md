@@ -1,4 +1,5 @@
 Art. 27 - Além de sujeito, às exigências regulamentares próprias, o registro dos cosméticos, dos produtos destinados à higiene pessoal, dos perfumes e demais, de finalidade congênere, dependerá da satisfação das seguintes exigências:
 I - enquadrar-se na relação de substâncias declaradas inócuas, elaborada pelo órgão competente do Ministério da Saúde e publicada no "Diário Oficial" da União, a qual conterá as especificações pertinentes a cada categoria bem como às drogas, aos insumos, às matérias-primas, aos corantes, aos solventes e aos demais permitidos em sua fabricação;
 II - não se enquadrando na relação referida no inciso anterior, terem reconhecida a inocuidade das respectivas fórmulas, em pareceres conclusivos, emitidos pelos órgãos competentes, de análise e técnico, do Ministério da Saúde.
+III - cumprir as regras relativas à testagem em animais estabelecidas na Lei nº 11.794, de 8 de outubro de 2008.
 Parágrafo único. A relação de substância a que se refere o inciso I deste artigo poderá ser alterada para exclusão de substâncias que venham a ser julgadas nocivas à saúde, ou para inclusão de outras, que venham a ser aprovadas.
