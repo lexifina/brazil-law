@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE CURITIBA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+RECURSO DE APELAÇÃO CÍVEL. TRIBUTÁRIO. AÇÃO DECLARATÓRIA C/C PEDIDO LIMINAR. SENTENÇA DE IMPROCEDÊNCIA. PRETENSÃO DE RECONHECIMENTO DA IMUNIDADE TRIBUTÁRIA PRE TSTA NO ART. 156, § 2º, INCISO I, DA CF. IMPOSTO SOBRE A TRANSMISSÃO DE BENS IMÓVEIS (ITBI). TRANSFERÊNCIA DE BEM IMÓVEL DA PESSOA JURÍDICA EXTINTA PARA OS SÓCIOS. RECONHECIMENTO DA IMUNIDADE TRIBUTÁRLA. DO ITBI NA DESINCORPORAÇÃO DO IMÓVEL DO CAPITAL SOCIAL POR OCASIÃO DA EXTINÇÃO DA SOCIEDADE. PRECEDENTES. REFORMA DA SENTENÇA INVERSÃO DO ÔNUS DE SUCUMBÊNCLA. RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 37, § 2º, do CTN, no que concerne à impossibilidade de reconhecimento da imunidade do ITBI na operação de desincorporação de imóveis, porquanto a pessoa jurídica permaneceu inativa nos três anos subsequentes à aquisição do imóvel, de modo a incorporação correspondeu a mais de 50% da receita operacional da empresa. Argumenta:
+No caso em tela, é fato incontroverso - reconhecido pelos recorridos na apelação e constante do acórdão prolatado na apelação - que a pessoa jurídica não auferiu receita nos 3 (três) anos subsequentes à data da aquisição do imóvel, de forma que a incorporação correspondeu a mais de 50% da receita operacional da empresa.
+ ..
+Com o devido respeito, a conclusão do acórdão está equivocada. O fato de a pessoa jurídica ter ficado inativa nos três anos subsequentes à incorporação do imóvel em seu patrimônio, de forma que a incorporação dele correspondeu a mais de 50% da receita operacional da empresa, impede o reconhecimento da imunidade na operação de desincorporação de imóveis da pessoa jurídica para seus sócios (fls. 405 - 406).
+É o relatório.
+Decido.
+Quanto à controvérsia, é incabível o Recurso Especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "O Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial. Precedentes" ;(AgInt no AREsp n. 2.416.042/AM, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 26/2/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.824.215/RS, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 21/3/2025; AgInt no REsp n. 2.168.140/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.623.773/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgInt nos EDcl no AREsp n. 2.650.082/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 5/3/2025; AgInt no REsp n. 1.874.657/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 27/2/2025; AgInt no REsp n. 2.157.169/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 20/2/2025; AgInt no REsp n. 1.694.319/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
