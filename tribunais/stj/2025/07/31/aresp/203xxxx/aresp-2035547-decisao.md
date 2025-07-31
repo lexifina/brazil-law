@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANRISUL S.A. - CORRETORA DE VALORES MOBILIÁRIOS E CÂMBIO contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489 e 1.022 do CPC e na incidência das Súmulas n. 83 e 211 do STJ e 283 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de ação de indenização por danos materiais e morais.
+O julgado foi assim ementado (fl. 124):
+AGRAVO DE INSTRUMENTO. GESTÃO DE NEGÓCIOS. AÇÃO INDENIZATÓRIA. FASE DE CUMPRIMENTO. PRETENSÃO DE APROVEITAR O RECONHECIMENTO DA ILEGITIMIDADE PASSIVA ALEGADA PELO CORRÉU. INVIABILIDADE. ARTIGO 1.005 DO CPC APLICÁVEL EM CASO DE LITISCONSÓRCIO NECESSÁRIO. PRECEDENTES. RELAÇÕES DIFERENTES ENTRE OS ENVOLVIDOS. NECESSIDADE DE OBSERVAR OS LIMITES OBJETIVOS DO TÍTULO. COISA JULGADA. HONORÁRIOS ADVOCATÍCIOS. IMPUGNAÇÃO. FIXAÇÃO CABÍVEL APENAS EM CASO DE ACOLHIMENTO, AINDA QUE PARCIAL. READEQUAÇÃO DA DECISÃO, NO PONTO.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 149-151).
+No recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 17, 337, XI, 494, VI, 485, I, § 3º, 502, 525, § 1º, II, 1.008 do Código de Processo Civil e 884 do Código Civil, porquanto a decisão recorrida desconsiderou o efeito translativo dos recursos, que permite o reconhecimento da ilegitimidade das partes ex officio;
+b) 489, § 1º, IV e VI, e 1.022, II, do Código de Processo Civil, visto que o acórdão recorrido foi omisso ao não enfrentar todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada pelo julgador, bem como ao não suprir omissão do ponto ou da questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento.
+Sustenta que o Tribunal de origem divergiu ao decidir que a ilegitimidade passiva da Banrisul Corretora não poderia ser reconhecida por força do efeito translativo dos recursos, divergindo do entendimento do Tribunal de Justiça do Estado do Estado do Paraná no Recurso de Apelação n. 1.297.090-4.
+Requer o provimento do recurso para que se reconheça a ilegitimidade passiva da Banrisul Corretora e se extinga o feito executivo.
+Não foram apresentadas contrarrazões, conforme certidão de fl. 229.
+É o relatório. Decido.
+I - Da alegada violação dos arts. 489, § 1º, IV e VI, 1.022, II, do CPC
+Afasta-se a alegada ofensa aos artigos supramencionados, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No caso, o Tribunal a quo expôs, de forma explícita, que a tese de ilegitimidade passiva não deve ser acolhida, porquanto o recurso interposto na fase de conhecimento estava restrito ao BANRISUL e apenas o dispositivo da decisão faz coisa julgada e não os seus fundamentos.
+Além disso, a Corte de origem asseverou que o recurso que aproveita ao litisconsorte é aquele aviado em caso de litisconsórcio necessário e unitário. Ademais, consignou que a relação entre as partes é distinta, razão pela qual não caberia a extensão dos efeitos da decisão proferida pelo Tribunal.
+Assim, o Tribunal local afastou a tese de erro material no dispositivo da decisão do tribunal e afirmou que, se a parte recorrente pretendia ver reconhecida sua ilegitimidade passiva, deveria interpor o recurso competente.
+A propósito, confira-se trecho do acórdão recorrido (fls. 121-122):
+No que diz com a ilegitimidade passiva, sem razão a parte recorrente.
+O recurso interposto na fase cognitiva estava restrito ao Banrisul, sendo certo que somente o dispositivo da decisão faz coisa julgada, não seus fundamentos.
+Além disso, nada obstante o esforço argumentativo da recorrente, é certo que o recurso que aproveita ao litisconsorte é aquele aviado em caso de litisconsórcio necessário e unitário.
+ ..
+Na espécie, o litisconsórcio é facultativo e as relações entre as partes são diferentes, descabendo falar em extensão dos efeitos da decisão proferida pelo Tribunal, até porque é forçosa a tese de erro material no dispositivo.
+Ora, a análise se limitou ao recorrente e, se pretendia ver reconhecida sua ilegitimidade, cabia à corretora interpor o recurso competente, modo a evitar discussões futuras e que não levam a lugar algum.
+O certo é que há coisa julgada, inviabilizando a alteração do título executivo, de modo que a decisão atacada está correta ao rechaçar a tese de ilegitimidade da agravante.
+Dessa forma, "não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+II - Da alegada violação dos arts. 17, 337, XI, 494, VI, 485, I, § 3º, 502, 525, § 1º, II, 1.008 do Código de Processo Civil e 884 do Código Civil
+Neste ponto, cumpre asseverar que a questão referente à violação dos artigos acima identificados não foi objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Ressalta-se que, consoante entendimento jurisprudencial do STJ, não há incompatibilidade entre a inexistência de ofensa aos arts. 489 e 1.022 do CPC e a ausência de prequestionamento com a incidência da Súmulas n. 211 do STJ e 282 do STF, em relação às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pela Corte a quo, por concluir serem suficientes, para a solução da controvérsia, outros argumentos utilizados pelo colegiado.
+Nesse sentido: AgInt no REsp n. 1.371.104/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/11/2021, DJe de 24/11/2021; AgInt no AREsp n. 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; e AgInt no AREsp n. 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+III - Do alegado dissídio jurisprudencial
+No que tange à aduzida divergência jurisprudencial, a irresignação da parte recorrente não merece prosperar.
+A parte recorrente limitou-se, no apelo extremo, a defender que o Tribunal local divergiu do entendimento do Tribunal de Justiça do Estado do Paraná quanto à possibilidade de reconhecimento da ilegitimidade passiva a qualquer tempo e grau de jurisdição, inclusive de ofício, tanto na ação de conhecimento quanto na execução, por se tratar de decisão transrecisória.
+No entanto, não foi indicado quais os dispositivos legais que tiveram interpretação divergente nos arestos comparados, o que caracteriza deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+Registre-se que "o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão" (AgInt no AREsp n. 2.120.664/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022).
+Desse modo, a ausência de indicação do(s) dispositivo(s) que teria(m) sido objeto de eventual divergência jurisprudencial (alínea c) inviabiliza o conhecimento do recurso especial. É caso, pois, de aplicação, por analogia, da Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito, confira-se precedente do STJ:
+DIREITO IMOBILIÁRIO. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. INDICAÇÃO DA NORMA FEDERAL VIOLADA. AUSENTE. SÚMULA 284 DO STF. APLICAÇÃO POR ANALOGIA. CASO CONCRETO. CASOS PARADIGMA. AUSÊNCIA DE SIMILITUDE FÁTICA. PROXIMIDADE FÁTICA E CONTEXTUAL. NÃO DEMONSTRADA. FUNDAMENTO AUTÔNOMO E SUFICINENTE. NÃO IMPUGNAÇÃO. SÚMULA 283 DO STF. APLICAÇÃO POR ANALOGIA. RECURSO NÃO CONHECIDO.
+1. A ausência de indicação do dispositivo de lei com interpretação divergente por outros tribunais inviabiliza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal. Incidência da Súmula 284 do STF, por analogia.
+2. Para a caracterização do dissídio jurisprudencial, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Caso concreto em que a proximidade fática e contextual entre os arrestos paradigma e a decisão impugnada não restou demonstrada.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamentos autônomos e suficientes à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. Recurso especial não conhecido. (REsp n. 1.880.850/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/4/2025, DJEN de 6/5/2025, destaquei.)
+Além do mais, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial, ante a incidência da Súmula n. 284 do STF e a não realização do devi do cotejo analítico.
+IV - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
