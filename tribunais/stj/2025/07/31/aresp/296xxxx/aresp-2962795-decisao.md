@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. RECURSO DA DEFESA. PRELIMINAR. ILEGALIDADE DA BUSCA PESSOAL. REJEIÇÃO. MÉRITO. ABSOLVIÇÃO. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+1. Nas hipóteses em que o contexto fático anterior à busca pessoal gera a suspeita de possível flagrante de conduta ilícita, está preenchido o standard probatório da fundada suspeita, exigida pelo art. 244 do CPP, o que afasta a tese de nulidade do procedimento investigativo.
+2. Imperiosa a manutenção da condenação pela prática do crime de tráfico de drogas, porquanto as provas dos autos evidenciam o envolvimento da ré na venda dos entorpecentes, destacando-se as informações recebidas pelos comerciantes acerca do tráfico, a prisão em flagrante, com drogas e dinheiro em espécie, e os depoimentos dos policiais que efetuaram o flagrante.
+3. O depoimento do agente de polícia, no exercício da função, possui valor probatório suficiente para respaldar a condenação, uma vez que é revestido de presunção de legitimidade e veracidade, somente afastadas por contraprova capaz de desmerecer o relato.
+4. Preliminar rejeitada. Recurso desprovido. (e-STJ fl. 1.036)
+A defesa aponta a violação dos arts. 240, § 2º, e 244, ambos do Código de Processo Penal, alegando, em síntese, que os policiais não apresentaram justificativa concreta para a abordagem pessoal, salientando que a busca sem autorização judicial pressupõe que a pessoa abordada esteja envolvida em alguma atividade ilícita ou na posse de objetos proibidos ou perigosos, como armas ou drogas (e-STJ fl. 10.090).
+Contrarrazões às e-STJ fls. 1103/1106.
+Manifestação do Ministério Público Federal às e-STJ fls. 1161/1168.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que a recorrente foi condenado à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pelo cometimento do crime do art. 33, caput, c/c 40, VI, ambos da Lei n. 11.343/2006.
+A defesa alega que os policiais não apresentaram justificativa concreta para a abordagem pessoal, salientando que a busca sem autorização judicial pressupõe que a pessoa abordada esteja envolvida em alguma atividade ilícita ou na posse de objetos proibidos ou perigosos, como armas ou drogas
+Sem razão, porquanto de acordo com o acórdão recorrido, a abordagem decorreu após denúncias dos comerciantes da rodoviária do Plano Piloto que noticiaram o crime, indicando, inclusive a vestimenta dos acusados (e-STJ fl. 1.043).
+Antes de mais nada, registra-se que a busca pessoal é legítima quando realizada com base em denúncia anônima especificada e fundada suspeita, como in casu. A propósito: HC n. 928.155/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/4/2025, DJEN de 7/5/2025.
+Além disso, esta Corte entende que não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso (ut, AgRg no HC n. 822.922/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/8/2023).
+Em igual sentido, destacou o Ministro Gilmar Mendes no julgamento do RHC n. 229.514/PE, julgado em 2/10/203, que se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos já conhecidos pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública (RHC n. 229.514/PE, Segunda Turma, relator Gilmar Mendes, julgado em 2/10/2023).
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
