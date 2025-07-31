@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DENISE GONÇALVES DA CRUZ ROCHA contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ, prejudicada a análise da divergência jurisprudencial (fls. 598-600).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 623.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia em apelação cível nos autos de embargos de terceiro.
+O julgado foi assim ementado (fls. 436-440):
+Embargos de terceiro. Penhora de bem de família. Sentença penal condenatória. Inexistência. Exceção. Inocorrência. Único imóvel. Bem de família. Comprovação. Impenhorabilidade. Considerando que na hipótese inexiste sentença penal condenatória, não se torna possível a aplicação da exceção prevista no art. 3.º, VI, da Lei 8.009/90. Uma vez comprovado que o imóvel em discussão serve de moradia da embargante, sendo seu único imóvel, impõe-se a manutenção da decisão que reconheceu sua impenhorabilidade.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 482-485):
+Embargos de declaração. Omissão. Honorários de sucumbência. Majoração. Fase recursal. Exceção de bem de família. Inaplicabilidade. Rediscussão. Constatada a ocorrência de omissão no que se refere à majoração dos honorários advocatícios na fase recursal, deve-se acolher os embargos de declaração a fim de sanar o vício.
+Revelam-se impertinentes os embargos de declaração, ainda que para fins de prequestionamento, quando têm por objeto rediscutir a matéria analisada no acórdão, sobretudo porque o julgador não está adstrito a todos os argumentos das partes, bastando que motive sua convicção, como o autoriza a lei processual civil.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do art. 3º, VI, da Lei n. 8.009/1990, pois a sentença cível executada decorre dos mesmos fatos da sentença criminal.
+Sustenta que o Tribunal de origem divergiu de precedentes ao decidir que não seria possível a penhora de bem de família, uma vez que o título executado é decorrente de sentença judicial cível, pois, segundo entendimento do relator, não existe uma sentença penal condenatória, embora a recorrente por diversas vezes tenha demonstrado no processo a existência da sentença penal que condenou o ex-esposo da recorrida com os fundamentos de fatos da sentença cível.
+Requer o provimento do recurso para que se reconheça a exceção à regra da impenhorabilidade contida no art. 3º, VI, da Lei n. 8.099/1990, determinando-se a penhora do imóvel localizado na Rua Boemundo Afonso, n. 3.728, São João Bosco, Porto Velho/RO, de propriedade do executado Antônio Sivaldo Canhin.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 589. Parecer do Ministério Público Federal pelo não provimento do recurso (fls. 638-643).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de embargos de terceiro em que a parte autora pleiteou a insubsistência da penhora de imóvel por se tratar de bem de família.
+Na sentença, o Juízo de primeiro grau julgou procedentes os pedidos iniciais, tornando insubsistente a penhora que recaiu sobre o imóvel localizado na Rua Boemundo Afonso, n. 3.728, Bairro São João Bosco, Porto Velho/RO, registrado sob matrícula n. 15.193.
+A Corte estadual manteve a sentença, reconhecendo a impenhorabilidade do bem de família.
+Inicialmente, observe-se a ausência de interposição de recurso extraordinário para impugnar fundamento constitucional suficiente para manter o entendimento do acórdão recorrido obsta o conhecimento do recurso especial diante da incidência da Súmula n. 126 do STJ.
+No mais, não merece ser acolhida a irresignação da parte.
+Quanto à alegada violação do art. 3º, VI, da Lei n. 8.009/1990, verifica-se que, no recurso especial, a parte recorrente alega que a sentença cível executada decorre dos mesmos fatos da sentença criminal, sendo aplicável a exceção à impenhorabilidade do bem de família prevista no art. 3º, VI, da Lei n. 8.009/1990.
+A Corte estadual concluiu que não há como considerar a sentença proferida em uma ação de reparação civil como uma sentença penal condenatória, além de ser comprovado que o imóvel é o único bem da apelada, no qual reside.
+A propósito, assim decidiu o Tribunal (fls.437-440):
+A apelante é exequente da quantia de R$45.898,40, atualizada até 13/06/2019, cujo crédito teve origem na sentença que reconheceu e julgou procedentes os pedidos de indenização por danos morais movido contra Antônio Sivaldo Canhin.
+Em concomitância com a ação de reparação civil em que a apelante pleiteou ser indenizada pelos danos morais sofrido por ter o falecido ex-esposo da apelada, ora executado, ter-lhe imputado crime de prevaricação e outros fatos que maculou sua honra, tramitou no Juízo Criminal ação penal de injúria, difamação e calúnia, tendo a apelante como vítima (processo n. 0005645-52.2012.822.0501) no qual o executado fora condenado pela prática de crime de calúnia (vinte vezes), crime de difamação (vinte vezes) e crime de injúria (vinte vezes), em concurso material, entre esses crimes.
+Vejamos a parte dispositiva da sentença.
+ ..
+Como se vê, não houve imposição de ressarcimento, indenização ou perdimento de bens na sentença penal a qual o executado fora condenado. Resta incontroverso, diante da documentação acostada, que a apelante é credora do falecido ex-esposo da apelada, em sede de ação indenizatória cível, não se tratando de condenação penal condenatória.
+ ..
+In casu, alega a apelante que a situação se enquadra no art. 3º, inc. VI, da Lei nº. 8009/90, uma vez que a sentença executada tem a mesma identidade de fatos e fundamentos existente na sentença criminal.
+Sobre o tema vale ressaltar que as hipóteses de inoponibilidade da exceção de bem de família são taxativas e estão elencadas em numerus clausus na própria Lei 8.009/1990.
+Assim e por serem taxativas e restritas, devem ser interpretadas restritivamente, de modo que não podem ser ampliadas por construção analógica, jurisprudencial ou doutrinária, sob pena de violar o inc. II do art. 5º da CF.
+Portanto, ao contrário do que pretende a apelante, não há como considerar a sentença proferida em uma ação de reparação civil (indenizatória por danos morais), uma sentença penal condenatória.
+Além disso, no caso em epígrafe, os elementos constantes dos autos demonstram que o imóvel que se pretende penhorar, de fato, é o único bem da apelada, no qual a mesma reside, conforme se infere da documentação juntada no ID n. 11788506 - Pág. 1 - 5.
+Observa-se ainda que fora adquirido em 1997, ou seja, antes mesmo dos atos imputados ao executado.
+Com efeito, tenho por impossível, portanto, ampliar-se a exceção prevista no art. 3.º, VI, da Lei 8.009/90, de modo a afastar a regra da impenhorabilidade do bem de família, quando não houver expressamente uma sentença penal condenatória.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na ausência de sentença penal condenatória e na comprovação de que o imóvel é o único bem de família da embargante.
+Nesse contexto, rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Quanto à divergência jurisprudencial, sustenta que o Tribunal de origem divergiu de precedentes ao decidir que não seria possível a penhora de bem de família, uma vez que o título executado é decorrente de sentença judicial cível, pois, segundo entendimento do relator, não existe uma sentença penal condenatória, embora a recorrente por diversas vezes tenha demonstrado no processo a existência da sentença penal que condenou o ex-esposo da recorrida com os fundamentos de fatos da sentença cível.
+No tocante ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
