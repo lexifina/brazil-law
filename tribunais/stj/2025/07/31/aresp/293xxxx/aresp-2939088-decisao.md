@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DO RIO GRANDE DO NORTE e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. SERVIDOR PÚBLICO ESTADUAL. CARGO DE ASSISTENTE TÉCNICO EM SAÚDE. APOSENTADORIA ESPECIAL POR EXERCÍCIO DE ATIVIDADE INSALUBRE. SENTENÇA DE IMPROCEDÊNCIA. PROVA DOCUMENTAL QUE COMPROVA O EXERCÍCIO DE TRABALHO PERMANENTE, NÃO OCASIONAL E NEM INTERMITENTE, POR MAIS DE 25 ANOS, SOB CONDIÇÕES INSALUBRES. FICHAS FINANCEIRAS DEMONSTRANDO O RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE DURANTE TODO O PERÍODO LABORADO. PRESCINDIBILIDADE DO LAUDO PERICIAL. PRECEDENTES. INCIDÊNCIA DA SÚMULA VINCULANTE 33. REFORMA DA SENTENÇA QUE SE IMPÕE. CONHECIMENTO E PROVIMENTO DO RECURSO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 57 e 58 da Lei n. 8.213/1991, no que concerne à impossibilidade de reconhecimento da especialidade do trabalho exercido pela parte recorrente, porquanto não foram carreadas aos autos próprias idôneas de que o servidor público desenvolveu atividade insalubre. Argumenta:
+4. O recurso ora aviado se volta contra o acórdão estadual no que tange à concessão de aposentadoria especial de servidor público ocupante de cargo de Assistente Técnico em Saúde.
+ ..
+6. No caso vertente, inexiste nos autos qualquer prova técnica capaz de comprovar o trabalho insalubre exercido pela parte apelante, não sendo meios de prova idôneos os contracheques apresentados, deixando, assim, de preencher os requisitos que ensejam a concessão de aposentadoria especial, conforme exigido pelos §§ 3º e 4º do art. 57 e §§ 1º e 2º do art. 58, todos da Lei federal nº 8.213/91, "verbis":
+ ..
+7. A comprovação efetiva e permanente da atividade insalubre dar-se-ia por meio de documento pericial ou laudo técnico e, de acordo com as exigências contidas no normativo, a referida documentação só é obtida mediante prévio processo administrativo com parecer específico, no caso, da junta médica estadual, atestando e delimitando a especificidade de cada servidor, não sendo o caso da presente ação.
+ ..
+8. Desse modo, ao julgar como julgou, a e. Corte potiguar violou os arts. 57 e 58 da referida Lei 8.213/91 (fls. 240-242).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Assim, subsumindo o entendimento acima exposto ao caso concreto, temos que a documentação trazida pela parte autora é suficiente para demonstrar que esteve submetida a agentes insalubres de forma , em período superior ao exigido em lei para a concessão dopermanente, não ocasional nem intermitente benefício.
+ ..
+Logo, sem maiores delongas, tem-se que restou comprovado nos autos o preenchimento de todos os requisitos pela parte demandante para a concessão de sua aposentadoria especial, eis que à época do requerimento administrativo de aposentadoria, formulado em 07.03.2018 (Id. 9005512), contava com mais de 29 (vinte e nove) anos de exercício de atividade insalubre ininterrupta (fl. 233).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
