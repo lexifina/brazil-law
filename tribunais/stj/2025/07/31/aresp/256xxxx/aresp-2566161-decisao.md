@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 735 do STF.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que não merece reparos a decisão monocrática que inadmitiu o recurso especial, ratificando as contrarrazões ofertadas em impugnação ao recurso especial inadmitido, e pede que seja negado conhecimento ao recurso e, no mérito, seja desprovido este agravo, bem como o recurso especial interposto (fls. 203-207).
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de obrigação de fazer c/c pedido de tutela antecipada e indenização por danos morais.
+O julgado foi assim ementado (fl. 135):
+AGRAVO DE INSTRUMENTO. Plano de saúde. Insurgência contra a decisão que deferiu tutela para determinar que a ré forneça todo o tratamento e medicamentos prescritos pelo médico que assiste a autora, portadora de doença grave (câncer de ovário com metástases em reto, fígado e linfonodos axilares), com evidente risco de morte. Presentes os requisitos do artigo 300 do CPC. Decisão mantida. Recurso a que se nega provimento.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação do art. 10, § 4º, da Lei n. 9.656/1998, pois não há obrigatoriedade de custeio de tratamento não constante do rol da ANS.
+Requer o provimento do recurso para que se reconheça a violação ao art. 10, § 4º, da Lei n. 9.656/1998, e seja cassada a decisão que julgou o agravo de instrumento interposto.
+Nas contrarrazões, a parte recorrida aduz que não merece reparos a decisão monocrática que inadmitiu o recurso especial, ratificando as contrarrazões ofertadas em impugnação ao recurso especial inadmitido, e pede que seja negado conhecimento ao recurso e, no mérito, seja desprovido este agravo, bem como o recurso especial interposto (fls. 178-189).
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento contra decisão que deferiu tutela para determinar que a ré forneça todo o tratamento e medicamentos prescritos pelo médico que assiste a autora, portadora de doença grave (câncer de ovário com metástases em reto, fígado e linfonodos axilares), com evidente risco de morte.
+A Corte estadual manteve integralmente a decisão monocrática.
+I - Art. 10, § 4º, da Lei n. 9.656/1998
+A Corte estadual concluiu que a tutela de urgência fora corretamente concedida, pois a recorrente ofertou outro medicamento como alternativa, sem comprovar que seria eficaz e adequado para tratamento da beneficiária do plano. Afirmou que a agravada padece de neoplasia de ovário, com metástases no reto, fígado e linfonodos axilares, sendo medicamentos quimioterápicos pleiteados necessários para o tratamento de sua saúde.
+Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Em suma, é incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+Dessa forma, constata-se que, em razão da natureza instável da decisão, a qual pode ser ou não confirmada em julgado definitivo, mostra-se correta a aplicação, por analogia, da Súmula n. 735 do STF ao caso.
+A propósito, vejam-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ E DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula nº 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. O Tribunal de Justiça firmou que não estão presentes os requisitos para o deferimento da tutela antecipada, quais sejam, a fumaça do bom direito e o perigo da demora. Essas ponderações foram fundadas na apreciação de fatos, atraindo a incidência da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido. (AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CLÁUSULA COMPROMISSÓRIA. JUÍZO ARBITRAL. INCOMPETÊNCIA. LEGITIMIDADE. REEXAME. SÚMULA N. 7/STJ. TUTELA DE URGÊNCIA. SÚMULAS N. 7/STJ E 735/STF. NÃO PROVIMENTO.
+1. Mesmo em contrato que preveja a arbitragem, é possível a execução judicial de confissão de dívida certa, líquida e exigível que constitua título executivo nos termos do art. 585, inciso II, do Código de Processo Civil, haja vista que o juízo arbitral é desprovido de poderes coercitivos. Precedente do STJ.(REsp n. 1.373.710/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe de 27/4/2015.)
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Ademais, conforme já relatado, o Tribunal de origem, ao analisar os elementos fáticos dos autos, concluiu pela concessão da tutela por estarem comprovados a probabilidade do direito e o risco à saúde do paciente, advertindo o relatório médico que "deve ser realizada a aplicação sistêmica dos medicamentos, "o mais rápido possível", ante a gravidade e avanço da doença (câncer)" (fl.136).
+Nesse contexto, rever as conclusões do acórdão impugnado demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Nessa linha: AgInt no AREsp n. 1.826.601/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022; AgInt no AREsp n. 1.919.487/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/202; e AgInt nos EDcl no AREsp n. 1.558.047/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
