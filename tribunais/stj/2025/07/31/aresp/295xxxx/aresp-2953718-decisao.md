@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SEBASTIAO FAUSTINO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PROCESSO CIVIL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. VIZIVALI. ART. 28 DO CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. ART. 50 DO CÓDIGO CIVIL. REQUISITOS NÃO PREENCHIDOS.
+1. Não se aplica o art. 28 do Código de Defesa do Consumidor ao caso em tela em razão da natureza de fundação de direito privado da Vizivali, que não possui, portanto, sócios, mas instituidores fundadores, o que inviabiliza a responsabilização destes pela insolvência da executada na forma da legislação consumerista. 2. Os pressupostos para a desconsideração da personalidade jurídica, em casos como o presente, são aqueles previstos no art. 50 do Código Civil, de modo que deve restar configurado o abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial. 3. No caso concreto, não há elementos que permitam concluir pela ocorrência de desvio de finalidade ou de confusão patrimonial. 4. Agravo de instrumento desprovido (fl. 254).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente aduz ofensa e divergência jurisprudencial em relação ao art. 28, § 5º, do CDC, no que concerne à necessidade de se reconhecer a possibilidade de aplicação do instituto da desconsideração da personalidade jurídica às instituições privadas sem fins lucrativos, sustentando o cabimento do referido instituto à faculdade recorrida e a responsabilização de suas administradoras. Traz a seguinte argumentação:
+O presente caso configura evidente relação de consumo, como reconhecido pelo próprio juízo de origem, tendo em vista que a Fundação Vizivali, ainda que na qualidade de fundação de direito privado, oferecia serviços educacionais mediante contraprestação financeira.
+Os serviços prestados se inserem no conceito de "produto" nos termos do artigo 3º do CDC, e os alunos da instituição são consumidores, conforme artigo 2º do mesmo diploma legal.
+No caso concreto, não foram encontrados bens da executada, pessoa jurídica nos autos.
+A personalidade jurídica desta é um óbice à satisfação do crédito do Consumidor, motivo pelo qual deve ser aplicado o Código de Defesa do Consumidor, mais especificamente, seu artigo 28, §5º:
+ ..
+Desta forma, a jurisprudência se consolida na aplicabilidade do artigo 28, §5º do Código de Defesa do Consumidor, para desconsideração da personalidade jurídica de Fundações Privadas, sem fins lucrativos, quando a respectiva personalidade jurídica se trata de óbice ao ressarcimento dos consumidores.
+Sendo assim, não restam dúvidas de que o acórdão proferido pela 12ª Turma do TRF-4, merece reforma ante a interpretação divergente da lei federal supracitada (fls. 283- 285).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Para que seja possível a desconsideração da personalidade jurídica no caso, devem estar presentes os requisitos do art. 50 do CC. Assim, sem a presença de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou confusão patrimonial, não há como acolher o pleito do agravante (fl. 252).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido (Súmula 283/STF).
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
