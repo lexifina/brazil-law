@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por Victor da Costa Silva contra a decisão proferida pelo Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu o recurso especial (fundamentado na alínea a do permissivo constitucional) por ele interposto contra o acórdão prolatado nos autos da Revisão Criminal n. 0721087-62.2024.8.07.0000.
+No recurso especial, a defesa sustenta, em síntese, violação do art. 621, I, do Código de Processo Penal e dos arts. 59 e 61, I, ambos do Código Penal, pleiteando seja fixada, na primeira fase, a fração de 1/6 sobre a pena mínima para cada circunstância judicial negativada e, na segunda fase, também a fração de 1/6 pelo reconhecimento da agravante da reincidência.
+Inadmitido o recurso na origem (fls. 393/396), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 405/413).
+O Ministério Público Federal opinou pelo conhecimento do agravo e pelo parcial provimento do recurso especial (fls. 453/458).
+É o relatório.
+No tocante à suposta violação do art. 621 do Código de Processo Penal, o recurso padece de fundamentação deficiente, pois o recorrente apenas suscitou genericamente violação do referido dispositivo legal, mas não demonstrou, no arrazoado, de que forma o acórdão atacado o violou, de modo que, em relação a esse dispositivo, incide o óbice da Súmula 284/STF.
+Nesse sentido: AgRg nos EDcl no AREsp n. 2.754.830/ES, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 19/5/2025.
+Ocorre que foi sob o enfoque do art. 621, I, do Código de Processo Penal, que a revisão criminal foi ajuizada e, ainda, foi sob esse prisma que o pleito foi indeferido.
+Consequentemente, eventuais ilegalidades no julgamento da ação revisional devem ser analisadas sob esse mesmo enfoque, sendo certo que, sem a indicação clara e específica, de como o referido dispositivo foi violado, fica esta Corte impedida de verificar o preenchimento dos pressupostos para acolhimento do pleito revisional, notadamente em se tratando de recurso de fundamentação vinculada.
+No mesmo sentido, destaco ainda os seguintes precedentes: AgRg no AREsp n. 1.917.920/SC, de minha relatoria, Sexta Turma, DJe 15/3/2022; AgRg no AREsp n. 1.947.310/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/10/2021; e AgRg no AREsp n. 1.926.664/MG, de minha relatoria, Sexta Turma, DJe 22/10/2021.
+Cumpre registrar, ainda, que, ao rechaçar o pleito revisional, o Tribunal a quo consignou que, no presente caso, o requerente busca, na verdade, revisitar e rediscutir questões já decididas nos autos originários, utilizando-se da Revisão Criminal como se fosse um recurso. Tal prática, no entanto, é expressamente vedada pelo ordenamento jurídico, que não permite a utilização desta ação para reanálise de matéria já apreciada, a menos que se configurem as situações específicas que autorizem a revisão, o que, neste caso, não ocorreu (fl. 315).
+Nesse contexto, não impugnado tal fundamento nas razões do recurso especial, verifica-se a não observância do princípio da dialeticidade recursal (art. 932, III, do CPC, c/c o art. 3º do CPP), atraindo, ainda, a incidência da Súmula 283/STF.
+Nesse sentido, confiram-se: AgRg no AREsp n. 2.409.545/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 28/4/2025; e AgRg nos EDcl no REsp n. 2.149.330/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 19/2/2025.
+Ante o exposto, conheço do ag ravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DAS RAZÕES DA ARGUIDA VIOLAÇÃO DO ART. 621, I, DO CPP. IMPOSSIBILIDADE DE VERIFICAÇÃO DOS PRESSUPOSTOS PARA ACOLHIMENTO DO PLEITO REVISIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PRECEDENTES DESTA CORTE. NÃO IMPUGNADOS TODOS OS FUNDAMENTOS PARA A IMPROCEDÊNCIA DO PLEITO REVISIONAL. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 283/STF.
+Agravo conhecido para não conhecer do recurso especial.
