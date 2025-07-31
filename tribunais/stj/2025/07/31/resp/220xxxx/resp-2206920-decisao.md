@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARIANA MATTOS DE SOUZA FERREIRA, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão da 26ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado (fl. 72):
+TELEFONIA. Produção antecipada de provas. Serasa Limpa Nome. Sentença que julgou extinta a ação sem resolução de mérito. Apelo da autora. Determinação de juntada pela autora de procuração com firma reconhecida por autenticidade. Razoável a diligência determinada pelo r. Juízo a quo. Atendimento dos Comunicados CG nº 02/2017 e CG nº 424/2024 da E. Corregedoria Geral da Justiça desta Corte. Questão já submetida a julgamento de recurso repetitivo junto ao C. Superior Tribunal de Justiça. Tema 1.198. Precedentes. Embora tenha sido concedida oportunidade, a autora deixou de cumprir a determinação, de forma injustificada. Sentença mantida. Apelo desprovido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 81-96), a recorrente aponta, além de divergência jurisprudencial, violação dos artigos 105, § 1º, e 425, IV, do CPC; 5º, §§ 1º, 2º e 3º, da Lei nº 8.906/94; 2º, § 2º, 3º e 10º, § 2º, da Lei nº 11.419/06.
+Alega que o disposto no art. 5º, §§ 1º, 2º e 3º, da Lei nº 8.906/94 "não excepciona em momento algum, em qualquer âmbito de atuação, em extensão ou profundidade, a necessidade do reconhecimento de firma na procuração" (fls. 85-86).
+Em relação aos arts. 105, § 1º, e 425, IV, do CPC, sustenta que "a lei não estabelece a obrigatoriedade de firma reconhecida em procuração e, por essa razão o advogado, não está vinculado a essa exigência" (fls. 86-87). Acrescenta que, "nos termos do art. 425, IV, do Código de Processo Civil, são declarados autênticos, quaisquer documentos apresentados por advogado, uma vez que gozam de fé pública" (fl. 86).
+Assevera que "a exigência e imposição de assinatura digital de plataforma vinculada à Autoridade Certificadora viola os artigos 105, § 1º, e 425, IV, do CPC; art. 5º, § 1º, § 2º e § 3º, da Lei 8.906/94 (Estatuto da Advocacia); Lei 13.726/18 (Lei da Desburocratização); arts. 2º, § 2º, 3º e 10º, § 2º da Lei 11.419/2006 (informatização do processo judicial)" (fl. 87).
+Requer, ao final, o provimento do recurso.
+Não foram apresentadas contrarrazões ao recurso (Certidão de fl. 108).
+O Recurso Especial foi admitido na origem (fls. 109-111).
+É o relatório.
+A insurgência não deve ser conhecida.
+Em primeira instância, o feito foi extinto sem resolução do mérito, com fundamento no art. 485, IV, do CPC, porque a parte autora, embora regularmente intimada, deixou de exibir nova procuração, com reconhecimento de firma, por autenticidade.
+O tribunal de origem, ao manter a r. sentença, consignou o seguinte (fls. 73-77):
+Consigne-se que a análise do presente recurso não afronta a ordem de suspensão proferida no IRDR 51 deste E. TJSP e no Tema repetitivo 1.264 do C. STJ em razão de não envolver decisão de mérito sobre a inscrição de dívida prescrita em plataformas de renegociação de débitos ou cobrança extrajudicial de tais débitos.
+A autora ajuizou ação de produção antecipada de provas alegando que tem sido cobrada por dívidas cadastradas no Serasa Limpa Nome que desconhece e não conseguiu obter informações da ré.
+ ..
+Com efeito, a decisão a fls. 40 determinou que a autora emendasse da inicial apresentando procuração com firma reconhecida por autenticidade.
+Inobstante a autora tenha apresentado procuração assinada digitalmente por meio da utilização da ferramenta fornecida pela AASP (Associação dos Advogados de São Paulo) (fls. 07/09) e o ordenamento jurídico não exija expressamente apresentação de procuração com firma reconhecida por autenticidade, tal determinação atende ao princípio do impulso oficial e à recomendação do NUMOPEDE, não se tratando a referida providência de formalismo exagerado diante da excepcional situação bem tratada no Comunicado 02/2017 e nos enunciados publicados no Comunicado nº 424/2024.
+O Comunicado CG nº 02/2017 informa que o Núcleo de Monitoramento de Perfis de Demanda NUMOPEDE, da Corregedoria Geral da Justiça deste E. TJSP, "Constatou a existência de diversos expedientes em trâmite nesta Corregedoria Geral da Justiça em que se apreciavam notícias de uso abusivo do Poder Judiciário por partes e advogados, observadas especialmente em ações com pedidos de exibição de documentos, de declaração de inexistência de débito, de consignação em pagamento ou atinentes ao dever de informar", e que "Em diversos casos, após a oitiva dos autores em juízo verificava-se que estes não tinham conhecimento ou interesse na distribuição da ação".
+No mesmo sentido, a Corregedoria Geral da Justiça desta Corte, em recente Comunicado CG nº 424/2024, publicou enunciados aprovados no Curso "Poderes do Juiz em face da Litigância Predatória" realizado pela Escola Paulista da Magistratura EPM.
+Ressalte-se que a litigância predatória é matéria objeto de recurso repetitivo perante ao Colendo Superior Tribunal de Justiça, tendo sido submetido a julgamento a seguinte questão: "Possibilidade de o juiz, vislumbrando a ocorrência de litigância predatória, exigir que a parte autora emende a petição inicial com apresentação de documentos capazes de lastrear minimamente as pretensões deduzidas em juízo, como procuração atualizada, declaração de pobreza e de residência, cópias do contrato e dos extratos bancários" (Tema 1.198).
+No caso fluente, há indícios de advocacia predatória em razão das milhares de ações propostas neste E. Tribunal de Justiça similares à presente, nas quais, afirma-se genericamente o desconhecimento da origem e/ou prescrição da dívida cobrada e se reivindica indenização por dano moral in re ipsa, pretendendo também à elevação dos ganhos como honorários de sucumbência.
+Não se ignora as prerrogativas do advogado, entretanto, não podem se contrapor ao dever do julgador em velar pela prestação jurisdicional adequada, sendo de sua incumbência "prevenir ou reprimir qualquer ato contrário à dignidade da justiça e indeferir postulações meramente protelatórias", nos termos previstos no art. 139, inciso III, do Código de Processo Civil.
+ ..
+Embora tenha sido concedida oportunidade, a autora deixou de cumprir a determinação, de forma injustificada, devendo ser mantida a r. sentença de extinção.
+Pelo excerto do voto transcrito, tem-se que o tribunal de origem, ao apreciar a questão, não abordou o disposto nos artigos 105, § 1º, e 425, IV, do CPC; 5º, §§ 1º, 2º e 3º, da Lei nº 8.906/94; 2º, § 2º, 3º e 10º, § 2º, da Lei nº 11.419/06.
+Incide, na espécie, o enunciado n. 282 da súmula de jurisprudência do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Como cediço, "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE OBRIGAÇÃO DE NÃO UTILIZAR EXPRESSÃO EM NOME COMERCIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE CONFUSÃO DE MARCA. REEXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ABSTENÇÃO DE USO DE MARCA. COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL. TEMA N. 950 STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+5. A falta de prequestionamento dos dispositivos legais tidos por violados inviabiliza o seu reconhecimento nesta instância extraordinária por falta de prequestionamento. Incidência da Súmula n. 282 do STF.
+(..)
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 1.367.288/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+Por fim, deve-se salientar que, em havendo óbices impostos à admissão do recurso especial pela alínea "a" do permissivo constitucional, impede-se também a análise recursal pela alínea "c" , restando prejudicada a apreciação do dissídio jurisprudencial referente aos mesmos dispositivos de lei federal apontados como violados ou à tese jurídica. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PIS E COFINS. TAXAS DE ADMINISTRAÇÃO DE CARTÕES DE CRÉDITO E DÉBITO. EXCLUSÃO DA BASE DE CÁLCULO. IMPOSSIBILIDADE. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. COMPETÊNCIA DO STF. CONCEITO DE INSUMO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. É pacífico o entendimento do STJ de que a existência de óbice que impede o conhecimento do recurso especial pela alínea a do art. 105, inciso III, da Constituição Federal, inviabiliza, por consequência, a análise da divergência jurisprudencial suscitada com base na alínea c.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.714.534/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/6/2025, DJEN de 25/6/2025.)
+Pelo exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
+Intimem -se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. PRODUÇÃO ANTECIPADA DE PROVAS. REGULARIZAÇÃO DA PROCURAÇÃO. AUSÊNCIA. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. VIOLAÇÃO DOS ARTS. 105, § 1º, E 425, IV, DO CPC; 5º, §§ 1º, 2º E 3º, DA LEI Nº 8.906/94; 2º, § 2º, 3º E 10º, § 2º, DA LEI Nº 11.419/06. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
