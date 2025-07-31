@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA EXCELSIOR DE SEGUROS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 412 do CC, pela incidência das Súmulas n. 5 e 7 do STJ, e pela aplicação da Súmula n. 211 do STJ (fls. 776-777).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o recurso é manifestamente inadmissível, requerendo a negativa de seguimento e, no mérito, o desprovimento do agravo (fls. 787-790).
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de cumprimento provisório de sentença. O julgado foi assim ementado (fl. 737):
+AGRAVO DE INSTRUMENTO. Cumprimento provisório de sentença. Insurgência contra decisão que rejeitou a impugnação apresentada e homologou os cálculos apresentados pela Contadoria Judicial. Manutenção. Discussão preclusa, cálculos que já foram suficientemente comprovados, sem constatação de excessos. Incabível a determinação de novo cálculo, uma vez que os atuais estão corretos e de acordo com as determinações da sentença. Litigância de má-fé. Afastada. Argumentos externados pelo recorrido que implicam em efetiva materialização dos princípios da inafastabilidade jurisdicional, contraditório e ampla defesa. Decisão mantida. Adoção do art. 252 do RITJ. RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos: a) 412 do CC, pois a multa decendial não pode sofrer a incidência de juros moratórios; b) 389, 395, 404, 407, 772 do CC, porquanto os juros moratórios são devidos sobre todas as verbas indenizatórias; c) 322, § 1º, do CPC/2015, visto que compreendem-se no principal os juros, a correção monetária e as verbas de sucumbência; e, ao final, requer o provimento do recurso para que se reforme o acórdão recorrido.
+Nas contrarrazões, a parte recorrida aduz que o recurso é inadmissível, requerendo o improvimento do recurso especial (fls. 771-775).
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento contra decisão de cumprimento provisório de sentença. A Corte estadual manteve a decisão monocrática por seus fundamentos.
+No recurso especial, a parte recorrente alega que a multa decendial não pode sofrer a incidência de juros moratórios. O acórdão recorrido asseverou que a discussão sobre a conformidade dos cálculos já está preclusa e os cálculos homologados estão corretos e de acordo com as determinações da sentença, não havendo excesso de execução. Nesse contexto, rever tal entendimento encontra óbice na incidência da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
