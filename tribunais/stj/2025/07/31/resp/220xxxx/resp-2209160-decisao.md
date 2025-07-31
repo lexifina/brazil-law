@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DANIELA SOUZA AGUIAR, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão da 33ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado (fl. 201):
+PRESTAÇÃO DE SERVIÇOS TELEFONIA - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS - NÃO CUMPRIDA A ORDEM DE EMENDA PARA REGULARIZAÇÃO DA PROCURAÇÃO - EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO COM FUNDAMENTO NO ART. 485, INCISO I, DO CPC SENTENÇA MANTIDA - APELAÇÃO NÃO PROVIDA.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a recorrente alega violação ao disposto nos artigos 105, 99 e 77, § 6º, do Código de Processo Civil.
+Alega que o art. 105 do CPC "não determina a formalidade do reconhecimento de firma para a concessão de poderes a advogado" (fl. 213). Acrescenta que "nenhuma irregularidade foi observada na procuração assinada pessoalmente pela recorrente" e que, "desde a sentença o entendimento é que a procuração acostada aos autos não serve, exclusivamente, em razão de haver outras ações similares patrocinadas pela causídica, e não em eventual ineficácia ou irregularidade da própria procuração" (fl. 217).
+Em relação ao art. 99 do CPC, sustenta que a declaração de insuficiência é suficiente para a concessão da gratuidade de justiça e que, "ao indeferir os benefícios da justiça gratuita à recorrente, sem oportunizar a parte maiores esclarecimento sobre o requerimento, ou complementar a documentação comprobatória, negando o direito constitucional de acesso à justiça, o magistrado de origem não cumpriu com seu dever de atuar em conjunto com as partes para se chegar a um resultado justo e célere com entrega efetiva da tutela jurisdicional" (fl. 219).
+Quanto ao art. 77, § 6º, do CPC, caso seja mantido o r. acórdão, defende o afastamento da "condenação imposta à advogada da parte autora, visto que o patrono não é parte no processo, não teve oportunidade de se defender e deve ter eventual responsabilidade apurada pelo órgão de classe" (fl. 226).
+Requer, ao final, o provimento do recurso.
+Contrarrazões às fls. 230-240.
+O Recurso Especial foi admitido na origem (fls. 2141-243).
+É o relatório.
+A insurgência não deve ser conhecida.
+Em primeira instância, o feito foi extinto sem resolução do mérito (CPC, art. 76, § 1º, I, 330, IV, e 485, IV), porque a parte autora não procedeu à regularização do mandato da advogado no prazo assinalado, mediante: "(i) apresentação de procuração com firma reconhecida por autenticidade ou semelhança; ou, (ii) apresentação de procuração assinada por entidade certificadora ICP ou GOV. BR, acompanhada de prova da autenticidade, sem ônus financeiro para a parte; ou (iii) comparecimento da parte nesta UPJ para ratificação do mandato". Nessa mesma assentada, o Juiz indeferiu os benefícios da gratuidade de justiça à parte autora e condenou a advogado ao pagamento das despesas processuais - custas iniciais (CPC, art. 104, § 2º, e art. 82).
+O tribunal de origem, ao manter a r. sentença, consignou o seguinte (fls. 201-203):
+Instada a parte autora a comprovar a hipossuficiência econômica, esta não produziu a prova necessária, sendo indeferido o pedido de gratuidade judiciária (fls.139).
+Concedo à Apelante os benefícios da gratuidade da Justiça, somente para fins de conhecimento do recurso de apelação, evitando eventual alegação de cerceamento de defesa (artigo 98, 5º, do CPC).
+Trata-se de ação declaratória de inexistência de débito cumulada com indenização por danos morais, decorrente de cobrança de dívida de prestação de serviços de telefonia, extinta pelo juízo monocrático.
+A fls. 63 consta decisão que determinou a juntada de procuração com firma reconhecida nos seguintes termos:
+"(..) Vistos. Em consulta ao e-SAJ, constatei que a advogada que representa a parte autora, Dra. Camila de Nicola OAB/SP nº 21.03.2024, em curtíssimo espaço de tempo distribuiu mais de 2000 ações semelhantes à presente. Além disso, a procuração de fl. 36 foi assinada em junho/2023, ao passo que a presente demanda foi distribuída em abril/2024, ou seja, mais de 10 meses depois, havendo, assim, indícios da prática de advocacia predatória. Por esses motivos, com esteio no Comunicado CG 02/2017, determino que, no prazo de 10 (dez) dias, a parte autora junte procuração com firma reconhecida, sob pena de extinção do processo sem análise do mérito, nos termos do art. 485, IV, do Código de Processo Civil1".
+A autora requereu a dilação do prazo para cumprimento da ordem e às fls. 62 foi deferido o prazo de 15 dias para juntada do documento solicitado, sob pena de extinção.
+Sobreveio petição da autora aduzindo que não há necessidade de juntada de procuração com firma reconhecida, requerendo regular prosseguimento da demanda, diante da inexistência de irregularidades e pedindo as benesses da gratuidade da Justiça, pela vasta demonstração de insuficiência de recursos (fls.129/134).
+Após, foi proferida a sentença de fls.135/140, que indeferiu a inicial e julgou extinto o processo sem resolução de mérito, nos termos do artigo 76, § 1º e 1, arts. 330, I e 485, inciso IV, do mesmo diploma legal, sem honorários advocatícios pela não instauração do contraditório.
+Portanto, decorrido o prazo sem manifestação da autora, de rigor o indeferimento da inicial e extinção do feito.
+E não há o que se falar em ausência de intimação pessoal da autora, pois se tratando de indeferimento da petição inicial, tal intimação é desnecessária, uma vez que a exigibilidade da condição prevista no parágrafo 1º do artigo 485 do Código de Processo Civil só é aplicável nas hipóteses descritas nos seus incisos II e III, o que não é o caso.
+Concedida oportunidade para a regularização, o não atendimento em prazo razoável induz a compreensão de que o ajuizamento da ação não foi ratificado.
+Sendo assim, correta a sentença que extinguiu o feito, sem resolução do mérito Pelo exposto, nego provimento ao apelo da autora, com a fixação dos honorários recursais em R$500,00 devidos em favor do advogado da ré, pelo trabalho em grau de recurso.
+Pelo excerto do voto transcrito, tem-se que o tribunal de origem, ao apreciar a questão, não abordou o disposto nos artigos 77, § 6º, 99 e 105 do CPC.
+Incide, na espécie, o enunciado n. 282 da súmula de jurisprudência do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Como cediço, "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE OBRIGAÇÃO DE NÃO UTILIZAR EXPRESSÃO EM NOME COMERCIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE CONFUSÃO DE MARCA. REEXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ABSTENÇÃO DE USO DE MARCA. COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL. TEMA N. 950 STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+5. A falta de prequestionamento dos dispositivos legais tidos por violados inviabiliza o seu reconhecimento nesta instância extraordinária por falta de prequestionamento. Incidência da Súmula n. 282 do STF.
+(..)
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 1.367.288/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+Pelo exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites perc entuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem -se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. REGULARIZAÇÃO DA PROCURAÇÃO. AUSÊNCIA. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. CONDENAÇÃO DO ADVOGADO AO PAGAMENTO DAS CUSTAS INICIAIS. VIOLAÇÃO DOS ARTS. 105 E 77, § 6º, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. JUSTIÇA GRATUITA. INDEFERIMENTO. OFENSA AO ART. 99 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
