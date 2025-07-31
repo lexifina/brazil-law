@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por BRUNO FELIPE DE OLIVEIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1.0000.23.342365-6/001 e embargos de declaração em seguida opostos (fls. 354/362 e 386/389).
+No recurso especial (fls. 397/414), o agravante sustenta violação do art. 386, II, V e VII, do Código de Processo Penal, sob alegação de ausência de provas que evidenciem a prática do crime previsto no art. 33 da Lei n. 11.343/2006, e, subsidiariamente, pleiteia a desclassificação para o art. 28 da mesma lei, por ausência de finalidade mercantil do entorpecente apreendido.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo (fls. 473/475).
+É o relatório.
+O agravo é admissível e deve ser conhecido, porquanto impugna adequadamente os fundamentos da decisão recorrida. No entanto, não é possível conhecer do recurso especial, haja vista o óbice da Súmula 7/STJ.
+A Corte local, soberana na análise das provas, afastou a pretensão recursal, por considerar comprovado o crime de tráfico (fls. 356/361 - grifo nosso):
+Segundo consta da peça de ingresso:
+Consta, no incluso Inquérito Policial, que, no dia 11 de março de 2023, por volta das 20h00min., na rua Rita Umbelina de Jesus, na altura do no 251/182, bairro Centro, neste município, o denunciado, voluntária e conscientemente, trazia consigo e vendia 20 (vinte) pedras de crack, pensando, ao todo, 4 g (quatro gramas e cinco centigramas), sem autorização e em desacordo com determinação legal ou regulamentar.
+ ..
+Efetuada busca pessoal no denunciado, foram encontradas, no bolso dianteiro de sua calça, 20 (vinte) pedras de crack, a quantia de R$ 20,00 (vinte reais) em dinheiro e um aparelho celular da marca Alcatel.
+ ..
+Em juízo, os três policiais que participaram das diligências narraram os fatos de forma bastante semelhante, com riqueza de detalhes, o que confere verossimilhança a tais declarações.
+O Policial Matheus Baroni confirmou o recebimento de denúncias que um indivíduo estaria realizando o comércio de drogas em uma região já conhecida pelo tráfico. Contou sobre o monitoramento prévio que realizaram, onde foi possível identificar a pessoa indicada na denúncia. Disse que era o motorista da viatura e os seus colegas, que incursionaram a pé, que o viram realizando a mercancia de drogas. Esclareceu, por fim, que presenciou a apreensão de drogas e dinheiro no bolso da calça do réu (pje.mídias).
+O seu colega Warlei Silva dos Santos, em juízo, também ratificou o recebimento das referidas denúncias anônimas. Contou que incursionou ao local de forma estratégica, conseguindo visualizar que usuários chegavam à rua e assoviavam; momento em que o réu saía do meio de um matagal e entregava algo a estes. Disse que então chamaram a viatura, porém, o acusado ao perceber a presença do veículo tentou evadir, mas, acabou se dirigindo ao local em que estavam, oportunidade em que realizaram a sua abordagem. Destacou inclusive que foi quem realizou a busca e localizou os entorpecentes e o dinheiro no bolso do acusado (pje. mídias).
+ ..
+Diante desse contexto, não vejo como acolher a versão apresentada pelo acusado, estando evidenciado, de forma inconteste, o seu vínculo com a droga apreendida.
+A finalidade mercantil do entorpecente também é induvidosa. Atento a tais circunstâncias, entendo que várias são as evidências a corroborar o entendimento do nobre Sentenciante de que as substâncias ilícitas arrecadadas eram destinadas à mercancia.
+A começar pelo fato de que a operação policial não foi aleatória, mas, realizada em decorrência recebimento de denúncias anônimas quanto ao tráfico de drogas, que indicavam as características do autor, que coincidam com a do acusado.
+E como visto, a conduta do réu foi monitorada e ele foi visto em típica atividade de traficância.
+Embora não tenha sido arrecadada uma quantidade elevada de drogas, as porções de crack estavam embaladas de forma individual, prontas para o comércio.
+Ademais, a douta Defesa deixou de comprovar a alegada condição de usuário de drogas do acusado; valendo destacar que sequer as testemunhas arroladas pela defesa destacaram essa condição. Todas essas circunstâncias autorizam concluir pela destinação comercial das drogas, razão pela qual sustento a condenação de ambos os acusados pelo crime tipificado no artigo 33, caput, da Lei nº 11.343/06.
+No caso, o Tribunal de origem, ao analisar o acervo probatório, consignou que o agravante foi preso em flagrante em local reconhecido como ponto de tráfico de drogas, portando vinte pedras de crack e a quantia de R$ 20,00 (vinte reais). Destacou, ainda, que a abordagem foi precedida de denúncias anônimas e monitoramento policial, ocasião em que os agentes teriam visualizado o agravante praticando a mercancia de drogas com usuários que se aproximavam do local. Ressaltou, também, que as porções estavam individualmente embaladas, prontas para a comercialização, e que não houve comprovação da condição de usuário de entorpecentes.
+Diante desse conjunto de elementos, o acórdão entendeu configurada a prática do tráfico ilícito de entorpecentes, afastando a tese defensiva de desclassificação para o delito do art. 28 da Lei n. 11.343/20 06, por reputar demonstrada a destinação mercantil da substância apreendida.
+A jurisprudência desta Corte é firme no sentido de que os depoimentos prestados por agentes estatais, quando harmônicos e em consonância com os demais elementos constantes dos autos, são aptos a fundamentar a condenação penal, especialmente na ausência de prova concreta que lhes infirme a credibilidade (AgRg no AREsp n. 2.482.572/PI, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 19/8/2024).
+Assim, a pretensão recursal, voltada à desclassificação da conduta, demandaria reexame do conjunto fático-probatório dos autos, providência inviável na estreita via do recurso especial, em razão do óbice da Súmula 7/STJ.
+Em sentido análogo: AgRg no AREsp n. 2.565.912/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 23/4/2024.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DELITUOSA. INVIABILIDADE. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. VALIDADE DOS FUNDAMENTOS APRESENTADOS PELA CORTE DE ORIGEM. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
