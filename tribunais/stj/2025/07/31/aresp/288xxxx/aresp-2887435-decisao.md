@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALME MARTINS DA SILVEIRA (ESPÓLIO) e OUTRAS contra decisão que inadmitiu recurso especial com fundamento na incidência das Súmulas n. 283 do STF e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação nos autos da ação de cobrança de quotas condominiais.
+O julgado foi assim ementado (fl. 437):
+APELAÇÃO CÍVEL. CONDOMÍNIO. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. NULIDADE DE INTIMAÇÃO DA SENTENÇA. ALTERAÇÃO DE INVENTARIANTE DOS ESPÓLIOS RÉUS. INTIMAÇÃO DIRECIONADA AO PROCURADOR CONSTITUÍDO PELA INVENTARIANTE SUBSTITUÍDA. INCAPACIDADE PROCESSUAL VERIFICADA. NECESSIDADE DE SUSPENSÃO DO FEITO PARA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL, NOS TERMOS DO ARTIGO 76 DO CPC. PEDIDO DE REABERTURA DO PRAZO INDEFERIDO, EMBORA ALEGADA A NULIDADE NO PRIMEIRO MOMENTO QUE A NOVA INVENTARIANTE SE MANIFESTOU NOS AUTOS. TEMPESTIVIDADE DO APELO. MÉRITO. REGULARIDADE DA REPRESENTAÇÃO DO CONDOMÍNIO. ATA DE ELEIÇÃO DA SÍNDICA QUE OUTORGOU A PROCURAÇÃO. CÓPIA DOS BOLETOS INADIMPLIDOS QUE SE MOSTRA SUFICIENTE. DEVER DO CONDÔMINO. ARTIGO 1.336, I, DO CC. PRETENSÃO DE DISCUTIR A ORIGEM DO DÉBITO APONTADO NOS BOLETOS OU EXIGIR PRESTAÇÃO DE CONTAS NO SEIO DA AÇÃO DE COBRANÇA QUE DESBORDA DOS LIMITES DA LIDE. PRECEDENTES JURISPRUDENCIAIS. PREVISÃO DA COBRANÇA DE JUROS MORATÓRIOS E MULTA NA CONVENÇÃO CONDOMINIAL. CÁLCULOS APRESENTADOS PELO CONDOMÍNIO APELADO QUE LIMITAM A MULTA AO PATAMAR LEGAL (2% SOBRE O VALOR DO DÉBITO). ARTIGO 1.336, §1º, DO CC. SENTENÇA DE PROCEDÊNCIA MANTIDA. AFASTAMENTO DO PEDIDO DE APLICAÇÃO DA PENALIDADE DE LITIGÂNCIA DE MÁ-FÉ FORMULADO EM CONTRARRAZÓES. AUSÊNCIA DE INCURSÃO DOS APELANTES NAS HIPÓTESES DO ARTIGO 80 DO CPC. SUCUMBÊNCIA INALTERADA. HONORÁRIOS MAJORADOS EM GRAU RECURSAL. APELAÇÃO DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados (fls. 460-463).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.336, I, do Código Civil, pois a ausência de documentos comprobatórios, como atas de assembleias ou convenção condominial, viola o direito do recorrente de contestar a origem e a legitimidade dos valores cobrados; e
+b) 373, I, do Código de Processo Civil, porquanto o acórdão inverteu o ônus da prova ao atribuir ao recorrente a responsabilidade por demonstrar a inexistência da dívida, mesmo diante da ausência de documentos que comprovassem a origem e a regularidade das cotas condominiais cobradas pelo recorrido.
+Sustenta que o Tribunal de origem divergiu de decisões do Superior Tribunal de Justiça, que exigem a apresentação de documentos comprobatórios das despesas condominiais para legitimar a cobrança.
+Requer o conhecimento e o provimento do recurso para que se reforme o acórdão recorrido, declarando a necessidade de comprovação documental das despesas condominiais cobradas, com a consequente improcedência da ação de cobrança.
+Nas contrarrazões (fls. 479-491), a parte recorrida aduz que o recurso especial não reúne condições de trânsito, pois não houve impugnação específica e suficiente para afastar todos os fundamentos da decisão agravada, requerendo que a decisão do acórdão seja mantida, bem como, a condenação parte recorrente ao pagamento de honorários em favor dos procuradores da parte recorrida.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito à ação de cobrança de despesas condominiais em que a parte autora pleiteou o pagamento das cotas condominiais vencidas e das que se vencerem no curso da lide, com valor da causa de R$ 2.721,65.
+Na sentença, o Juízo de primeiro grau julgou procedente o pedido, condenando os réus ao pagamento das cotas condominiais vencidas e vincendas.
+A Corte estadual manteve integr almente a sentença.
+I - Art. 1.336, I, do CC
+A recorrente aponta violação do art. 1.336, I do CC, que disciplina o dever do condômino, salvo disposição em contrário na convenção, de contribuir para as despesas do condomínio, argumentando que não há documentos comprovatórios do direito do requerente.
+Ocorre que referido artigo de lei não têm comando normativo para amparar a tese recursal desenvolvida, o que atrai a incidência, por analogia, da Súmula n. 284 do STF, assim expressa: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL E NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+2. Na forma da jurisprudência pacificada por esta Corte Superior, a cobrança de juros capitalizados em periodicidade anual ou inferior à anual nos contratos de mútuo não é permitida quando não houver expressa pactuação.
+3. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Confiram-se ainda estes julgados: AgInt no REsp n. 1.409.884/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/8/2022, DJe de 12/8/2022; AgInt no AREsp n. 2.013.867/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/9/2022, DJe de 9/9/2022; EDcl no AgInt no REsp n. 1.581.336/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/3/2022, DJe de 31/3/2022.
+Mesmo que fosse possível superar esse óbice, melhor sorte não assistiria ao recorrente, na medida em que a Corte de origem, soberana na análise dos fatos e provas dos autos, concluiu que "os documentos carreados com a inicial são suficientes para ancorar a cobrança das cotas inadimplidas" (fl. 435).
+Desse modo, para rever a conclusão adotada na origem e acatar a tese recursal de que ausentes documentos comprobatórios do direito do condomínio autor, seria imprescindível o reexame do conjunto fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+II - Art. 373, I, do CPC
+O Tribunal de origem, ao analisar o acervo probatório dos autos, concluiu que os documentos apresentados pelo condomínio autor eram suficientes para embasar a cobrança das cotas inadimplidas, cumprindo o ônus probatório que lhe incumbia .
+A revisão desse entendimento demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, conforme o óbice da Súmula n. 7 do STJ.
+Registre-se que a "Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos" (REsp n. 1.665.411/MT, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe de 13/9/2017).
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PRELIMINAR DE USURPAÇÃO DE COMPETÊNCIA. SÚMULA N. 123 DO STJ. OFENSA AO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS PROBATÓRIO. VIOLAÇÃO DO ART. 373, I, DO CPC. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nulidade na decisão do tribunal a quo que, de forma fundamentada, examina os pressupostos específicos e constitucionais de admissibilidade do recurso especial, na forma da Súmula n. 123 do STJ e do art. 1.030 do CPC.
+2. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+3. Rever a convicção formada pelo tribunal de origem acerca da inversão do ônus probatório demanda reexame do conjunto fático- probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.839.271/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+III - Dissídio jurisprudencial:
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não foi minimamente atendido na hipótese, uma vez que sequer se colacionou julgado paradigma.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
