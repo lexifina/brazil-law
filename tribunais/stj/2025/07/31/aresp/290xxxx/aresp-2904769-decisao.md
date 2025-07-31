@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EXPRESSO SÃO FRANCISCO LTDA. contra a decisão que inadmitiu o recurso especial com fundamento no óbice da Súmula n. 7 do STJ.
+Alega a parte agravante agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo em recurso especial não deve ser provido, pois a recorrente busca a reanálise de provas, o que é vedado pela Súmula n. 7 do STJ, e não demonstrou a similitude fática entre os acórdãos confrontados (fls. 963-966).
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação nos autos de ação de cobrança.
+O julgado foi assim ementado (fls. 818-819):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA.TARIFA DE EMBARQUE EM TERMINAIS (TET). SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DA RÉ. DESNECESSIDADE DE FORMALIZAÇÃO DE CONTRATO PARA CONSOLIDAR A OBRIGAÇÃO DA DEMANDADA DE REPASSE À AUTORA DA TET. EMPRESA RÉ QUE SE UTILIZOU DOS TERMINAIS RODOVIÁRIOS DE NILÓPOLIS E NOVA IGUAÇU, NO PERÍODO COMPREENDIDO ENTRE 30 DE JANEIRO DE 2005 E 30 DE JANEIRO DE 2008, SEM REALIZAR O REPASSE DA TET À CODERTE. LAUDO PERICIAL QUE APUROU CORRETAMENTE O VALOR DO DÉBITO. MERO INCONFORMISMO COM O RESULTADO DA PERÍCIA QUE NÃO AUTORIZA A REPETIÇÃO DA PROVA. INTELIGÊNCIA DO ART. 480 DO CPC E VERBETE SUMULAR 155 DESTE TRIBUNAL DE JUSTIÇA. DEMANDADA QUE NÃO SE DESINCUMBIU DE SEU ÔNUS PROCESSUAL (ART. 373, II DA LEI DOS RITOS). SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 856-857):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA.TARIFA DE EMBARQUE EM TERMINAIS (TET). SENTENÇA DE PROCEDÊNCIA QUE FOI MANTIDA POR ESTA CÂMARA. ALEGAÇÃO DA EMBARGANTE DE OMISSÃO QUE NÃO MERECE PROSPERAR. NÃO HÁ NO DECISUM ALVEJADO QUALQUER DEFEITO A SER SUPRIDO ATRAVÉS DOS EMBARGOS, JÁ QUE SE MANIFESTOU A RESPEITO DE TODAS AS QUESTÕES VENTILADAS NO RECURSO E SUFICIENTES PARA A COMPOSIÇÃO DO LITÍGIO. INCIDÊNCIA DO ENUNCIADO SUMULAR 52 DESTA CORTE DE JUSTIÇA. PRETENSÃO DA EMBARGANTE DE REDISCUTIR MATÉRIA JÁ ANALISADA PELO COLEGIADO. ACLARATÓRIOS OFERTADOS COM INTUITO INFRINGENTE. MANUTENÇÃO DO ACÓRDÃO. EMBARGOS NÃO PROVIDOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos: a) 175, parágrafo único, I, II e III, da Constituição Federal, porquanto a recorrida não comprovou sua autorização para exploração dos terminais rodoviários; b) 373, II, do Código de Processo Civil, visto que a recorrida não se desincumbiu do ônus de provar o uso dos terminais pela recorrente; c) 480 do Código de Processo Civil, pois o laudo pericial foi realizado com base em documentos unilaterais, sem validade contábil; e, ao final, requer o provimento do recurso para que se reforme o acórdão recorrido e julgue improcedente o pedido de cobrança.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser provido, pois a recorrente busca a reanálise de provas, o que é vedado pela Súmula n. 7 do STJ, e não demonstrou a similitude fática entre os acórdãos confrontados (fls. 917-920).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de cobrança em que a parte autora pleiteou o pagamento de tarifas de embarque vencidas e vincendas, acrescidas de juros e correção, referentes aos débitos pela utilização dos Terminais Rodoviários de Nova Iguaçu e Nilópolis. Na sentença, o Juízo de primeiro grau julgou procedente o pedido, condenando a ré ao pagamento do valor apurado em laudo pericial, acrescido de correção monetária e juros legais de 1% ao mês, a contar da citação, e fixou honorários advocatícios de 20% sobre o valor do débito, estimando à causa o valor de R$ 315.538,28.
+A Corte estadual manteve integralmente a sentença.
+I - Arts. 175, parágrafo único, I, II e III, da Constituição Federal e 373, II, do Código de Processo Civil
+No recurso especial, a parte recorrente alega que a recorrida não comprovou sua autorização para exploração dos terminais rodoviários e não se desincumbiu do ônus de provar o uso dos terminais pela recorrente.
+O acórdão recorrido concluiu que a cobrança da tarifa de embarque não está condicionada a um contrato formalmente firmado entre a CODERTE e o réu, sendo a relação contratual de adesão pela mera utilização dos terminais, e que a parte ré não se desincumbiu de seu ônus processual, deixando de fazer prova quanto à existência de fato impeditivo, modificativo ou extintivo do direito autoral.
+Refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+II - Art. 480 do Código de Processo Civil
+A recorrente afirma que o laudo pericial foi realizado com base em documentos unilaterais, sem validade contábil.
+O Tribunal de origem, analisando o acervo probatório dos autos, concluiu que o laudo pericial foi escorreito e embasado pela robusta prova documental adunada ao feito, não havendo máculas na perícia realizada.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na regularidade do laudo pericial.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Divergência Jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
