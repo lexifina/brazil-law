@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de reclamação ajuizada por LE CARAVELLE DESENVOLVIMENTO IMOBILIÁRIO LTDA. e OUTRA contra decisão do TJGO que não conheceu do seu agravo em recurso especial.
+Informa que interpôs recurso especial não admitido na origem. Em razão de tal fato, aviou o agravo em recurso especial, mas acabou por nominar tal recurso de "agravo de instrumento". Por tal motivo, o recurso não fora conhecido.
+Sustenta que, segundo o CPC de 2015, que consagra a primazia da decisão de mérito e a instrumentalidade das formas, o nome do recurso não é determinante para sua admissibilidade, desde que o conteúdo e os pedidos estejam claros e adequados ao direito postulado. Defende que o art. 283 do CPC estabelece que apenas os erros que não possam ser aproveitados ou que causem prejuízo processual justificam a anulação do ato processual.
+Afirma que houve excesso do formalismo pelo Tribunal de Justiça do Estado de Goiás ao impedir o conhecimento do seu recurso especial apenas com base na nomenclatura do agravo e pela suposta ausência de comprovação de feriado nacional.
+Aduz que:
+A jurisprudência pacífica do STJ reconhece que, em casos de erro justificado na denominação do recurso, mas com atendimento aos pressupostos legais e intenção inequívoca de impugnar decisão que inadmitiu recurso especial, deve-se aplicar o princípio da instrumentalidade das formas, sem prejuízo ao direito da parte. A Terceira Turma do STJ admite que a identificação equivocada do recurso não impede sua tramitação se houver compatibilidade de conteúdo e finalidade.
+Requer, ao final, o processamento e o conhecimento da presente Reclamação para que seja cassada a decisão do TJGO e encaminhado o recurso ao STJ para exame de admissibilidade.
+É o relatório. Decido.
+A reclamação está embasada em que a competência desta Corte estaria sendo usurpada, já que tendo o reclamante aviado o agravo em recurso especial junto ao Tribunal de origem, mesmo que, com a nomenclatura equivocada, é o STJ que deve decidir o referido recurso.
+Para se admitir que houve a usurpação de competência deste Tribunal - já que o recurso de agravo em recurso especial está submetido a juízo de retratação pela Corte a quo, mas não a juízo de admissibilidade, conforme § 4º do art. 1.042 do CPC/2015 - , é necessário que o reclamante realmente tenha aviado o recurso corretamente, residindo o equívoco apenas na nomenclatura.
+Nesta circunstância, o Superior Tribunal de Justiça tem admitido o conhecimento do recurso nominado incorretamente, quando a peça recursal é esteja adequada em conteúdo e prazo, não haja dúvida sobre a intenção recursal, e estejam presentes os demais pressupostos recursais. Essa orientação se ancora na prevalência da intenção sobre a forma.
+No caso, nada obstante as assertivas da reclamante, não se observa claramente tal intenção. Basta ver os pedidos formulados na peça de fls. 186-195, que não são típicos do agravo em recurso especial. Observa-se:
+Ante o exposto, requer:
+a) O reconhecimento da aptidão dos embargos declaratórios para correção de erros materiais, o que abarca questões relativas à contagem de prazo recursal e cassada a decisão agravada, por violação ao art. 1.022, III do CPC;
+b) O reconhecimento da nulidade da decisão e violação aos arts. 11, 216, 422 e 426 do CPC, na medida em que ignorou documento anexado ao Recurso Especial no ato de interposição sem apresentação de fundamentação para a sua recusa;
+c) O reconhecimento do caráter federal/nacional do feriado de carnaval, porquanto previsto em lei federal, o que por si só é suficiente para atender o texto da lei, sob pena de violação à isonomia entre cortes e instâncias do judiciário nacional;
+d) O reconhecimento da desnecessidade de comprovação relativa ao feriado de Corpus Christi, já que de conhecimento geral, público e notório, o seu caráter nacional.
+Apenas no final é que requereu "o provimento do presente Agravo e o recebimento, processamento e posterior provimento do Recurso Especial".
+O princípio da fungibilidade recursal não socorre a parte para o fim de autorizar o conhecimento de recurso, porquanto tal princípio tem lugar apenas nos casos de interposição de um recurso pelo outro de forma equivocada, desde esteja presente dúvida objetiva e razoável quanto à via recursal adequada, e desde que não configurado erro grosseiro. No caso, não se verifica nada disso, pois inexiste controvérsia sobre a questão de que, para superar a admissibilidade do recurso especial, deve-se interpor o agravo em recurso especial.
+Não fosse por isso, verifica-se que, da decisão que inadmitiu o recurso especial, a parte reclamante opôs embargos de declaração, conforme fls. 162-165, requerendo o efeito infringente com o fim de se reconhecer que o recurso especial estava tempestivo.
+Os embargos não foram conhecidos pelo Tribunal a quo, fls. 180-182, ao fundamento de que, na forma do artigo 1.042 do CPC, "a decisão que inadmite recurso extraordinário ou especial desafia, a priori sensu, agravo para o Supremo Tribunal Federal ou para o Superior Tribunal de Justiça, de modo que os embargos de declaração, em casos tais, só são aceitos em caráter excepcional para combater decisões com fundamentação genérica".
+Somente após tal decisão é que o reclamante aviou "Agravo de Instrumento em Recurso Especial, o que, segundo entendimento desta Corte, se afigura erro grosseiro".
+Observa-se entendimento desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO.
+SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO DE INADMISSIBILIDADE DO APELO NOBRE. RECURSO INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO NOS PRÓPRIOS AUTOS.
+AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. É pacífica a jurisprudência desta Corte no sentido de que os embargos de declaração, quando opostos contra decisão de inadmissão do apelo nobre, não interrompem o prazo para interposição do agravo em recurso especial, excetuando-se os casos em que referida decisão for tão genérica que impossibilite a interposição do respectivo agravo, o que não ocorre no caso.
+3. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 2.584.643/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Fato é que o acolhimento da presente reclamação não traz ao reclamante qualquer utilidade, pois sua situação, do ponto de vista prático, não se tornaria melhor com a subida do agravo em recurso especial. Ao contrário, pois isso implicaria apenas na desnecessária movimentação do aparelho judiciário do Estado, além de imprópria postergação da solução definitiva da questão, em violação dos princípios da economia e celeridade processual.
+Portanto, ausente a utilidade no provimento jurisdicional pleiteado, evidencia-se a ausência de interesse de agir do reclamante.
+Ante o exposto, indefiro da petição inicial.
+Publique-se. Intimem-se.
+EMENTA
