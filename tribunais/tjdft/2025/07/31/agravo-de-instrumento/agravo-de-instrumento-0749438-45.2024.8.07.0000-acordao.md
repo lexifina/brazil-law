@@ -1,0 +1,182 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0749438-45.2024.8.07.0000AGRAVANTE(S)DISTRITO FEDERALAGRAVADO(S)JAQUELINE OLIVEIRA LIMA SANTANARelatoraDesembargadora LEONOR AGUENA
+ Acórdão Nº2025066
+
+EMENTA
+
+ EMENTA: DIREITO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE PREJUDICIALIDADE EXTERNA. INEXIGIBILIDADE DO TÍTULO EXECUTIVO. TEMA 864 DO STF. PRELIMINAR REJEITADA. DESPROVIMENTO DO RECURSO.
+
+I. CASO EM EXAME
+
+1. Agravo de instrumento interposto pelo Distrito Federal contra decisão que rejeitou impugnação ao cumprimento de sentença relativa à última parcela de reajuste previsto na Lei Distrital nº 5.184/2013, destinada a servidores da assistência social e da cultura, referente ao mês de novembro de 2015. A sentença executada foi proferida em ação coletiva com trânsito em julgado.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. Há duas questões em discussão: (i) saber se a existência de ação rescisória justifica a suspensão do cumprimento de sentença; (ii) saber se há inexigibilidade do título judicial com base em tese de “coisa julgada inconstitucional”.
+
+III. RAZÕES DE DECIDIR
+
+3. A existência de ação rescisória não suspende o cumprimento da decisão rescindenda, salvo se concedida tutela provisória, o que não ocorreu no caso concreto. A ação rescisória, inclusive, não foi conhecida pelo colegiado competente. Preliminar rejeitada.
+
+4. A inexigibilidade do título, sob a alegação de “coisa julgada inconstitucional”, não pode ser reconhecida em sede de cumprimento de sentença. A matéria foi devidamente analisada no processo de conhecimento e transitou em julgado.
+
+IV. DISPOSITIVO E TESE
+
+5. Preliminar rejeitada, recurso conhecido e desprovido.
+
+Tese de julgamento: “1. A propositura de ação rescisória sem efeito suspensivo não impede o cumprimento da decisão rescindenda. 2. A inexigibilidade do título judicial por alegada inconstitucionalidade não pode ser declarada em cumprimento de sentença uma vez que as teses levantes já foram reiteradamente analisadas.”
+
+Dispositivos relevantes citados: CF/1988, art. 169, § 1º; CPC, arts. 535, 966, 969; LRF, arts. 16, 17 e 21.
+
+Jurisprudência relevante citada:
+
+STF, RE 905.357/RR, Rel. Alexandre de Moraes, Tribunal Pleno, j. 29.11.2019; STF, ADI 7391/AgR, Rel. Min. Cármen Lúcia, Tribunal Pleno, j. 13.05.2024.
+
+TJDFT, AR, Acórdão 1951904, 0723087-35.2024.8.07.0000, Relator(a): ROBSON BARBOSA DE AZEVEDO, 1ª CÂMARA CÍVEL, data de julgamento: 09/12/2024, publicado no DJe: 20/12/2024.
+
+TJDFT, APC, Acórdão 1316826, 07021959520178070018, Relator(a): MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 10/2/2021, publicado no DJE: 24/2/2021. Pág.: Sem Página Cadastrada.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LEONOR AGUENA - Relatora, ANA CANTARINO - 1º Vogal e MARIA IVATÔNIA - 2º Vogal, sob a Presidência do Senhor Desembargador FÁBIO EDUARDO MARQUES, em proferir a seguinte decisão: CONHECER. REJEITAR A PRELIMINAR. NEGAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 31 de Julho de 2025
+
+Desembargadora LEONOR AGUENARelatora
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto por DISTRITO FEDERAL, parte ré, contra a r. decisão (ID 212137227) proferida pela 8ª Vara da Fazenda Pública do DF, que, no cumprimento de sentença de contra a Fazenda Pública (processo n. 0713884-92.2024.8.07.0018), rejeitou a impugnação ao cumprimento de sentença.
+
+A parte agravante (ID 66408524) alega prejudicialidade externa em razão do ajuizamento de ação rescisória perante o Tribunal de Justiça do Distrito Federal e dos Territórios, protocolada sob o n. 0723087-35.2024.8.07.0000, tendo em vista a patente transgressão jurídica do acórdão que julgou procedente a ação coletiva n. 0702195-95.2017.8.07.0018, que originou o título ora executado.
+
+Defende que a inexigibilidade do título executivo judicial indicado pela parte exequente constitui a chamada “coisa julgada inconstitucional”, cuja obrigação é inexigível perante o Poder Público, nos termos do artigo 535, inciso III, e §§ 5º e 7º, do CPC.
+
+Sustenta que na correta interpretação da Constituição Federal conferida pelo STF no julgamento do RE n. 905.357/RR, foi prestigiado o mandamento constitucional que visa à manutenção do equilíbrio fiscal dos entes públicos, afastando a validade de reajustes (em geral) concedidos a servidores públicos sem a integral observância dos requisitos constitucionais (artigo 169, § 1º, da CF) e legais (artigos 16, 17 e 21 da LRF), consubstanciados na existência dos dois requisitos cumulativos constitucionais e legais, quais sejam, de existência de prévia dotação na Lei Orçamentária Anual e também na Lei de Diretrizes Orçamentárias.
+
+Afirma que o título executivo judicial em execução considerou tão somente a rubrica presente na Lei de Diretrizes Orçamentárias para considerar a procedência do pleito, mas olvidou a necessidade dotação na Lei Orçamentária Anual para tanto.
+
+Aduz que a tese que assenta que a ausência de dotação orçamentária apenas prorroga a eficácia da norma por 1 ano torna as normas de responsabilidade fiscal letra morta. A solução, além de ser criativa, viola frontalmente a opção legislativa pela nulidade da norma (art. 21, §1º, LRF). Fato é que o Tribunal se apoiou sobre precedente que não se confunde com o que está sendo ora julgado. Não se trata apenas de indisponibilidade jurídica da verba, mas de incapacidade orçamentária.
+
+Ao final, requer a suspensão do cumprimento de sentença coletiva, dada a questão da prejudicialidade externa e a extinção do cumprimento pela inexigibilidade da obrigação.
+
+Indeferida a concessão de efeito suspensivo (ID 66497528).
+
+Contrarrazões apresentadas (ID 66814840). Requer a aplicação de multa processual ao Distrito Federal, em razão dos desrespeitos aos princípios da boa-fé e lealdade processual.
+
+Ausência de preparo por se tratar de recurso interposto pelo Distrito Federal.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora LEONOR AGUENA - RelatoraPresentes os pressupostos formais de admissibilidade, conheço do recurso de agravo de instrumento.
+
+Conforme relatado, a origem dos autos está em cumprimento de sentença contra a Fazenda Pública proposta por JAQUELINE OLIVEIRA LIMA SANTANA, ora agravada, contra o DISTRITO FEDERAL. A execução tem por objeto o pagamento da terceira e última parcela do reajuste concedido pela Lei Distrital nº 5.184/2013, destinada aos servidores da assistência social e da cultura do Distrito Federal, relativa ao mês de novembro de 2015, que não foi adimplida.
+
+Na decisão recorrida, rejeitou-se a impugnação ao cumprimento de sentença. Posteriormente, os autos foram encaminhados à Contadoria Judicial (ID 218404575) para que realizassem os cálculos do valor devido (ID 221903147).
+
+Diante dessas considerações, a controvérsia recursal restringe-se à análise das seguintes questões: prejudicialidade externa; e inexigibilidade da obrigação.
+
+1) Da preliminar de prejudicialidade externa
+
+Preliminarmente, a parte agravante alega que ajuizou ação rescisória perante o Tribunal de Justiça do Distrito Federal e dos Territórios, protocolada sob o n. 0723087-35.2024.8.07.0000, tendo em vista a patente transgressão jurídica do acórdão que julgou procedente a ação coletiva n. 0702195-95.2017.8.07.0018.
+
+A ação coletiva em referência foi julgada, havendo trânsito em julgado, sendo assim exigível. Há, portanto, fundamento válido para o cumprimento de sentença.
+
+Ao consultar ao Pje deste Tribunal, observo que o colegiado da 1ª Câmara Cível decidiu pelo não cabimento da ação rescisória, estando pendente de julgamento os Embargos de Declaração. Vejamos a ementa do acórdão n. 1951904:
+
+AÇÃO RESCISÓRIA E AGRAVO INTERNO. JULGAMENTO SIMULTÂNEO. AGRAVO INTERNO PREJUDICADO. RESCISÓRIA APTA PARA JULGAMENTO. VIOLAÇÃO À NORMA JURÍDICA. ERRO DE FATO. VÍCIOS NÃO EVIDENCIADOS. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DAS HIPÓTESES DE CABIMENTO. PETIÇÃO INICIAL INDEFERIDA. AGRAVO INTERNO PREJUDICADO. AÇÃO RESCISÓRIA NÃO CONHECIDA.
+
+1. O acórdão que já julga a ação rescisória tem uma cognição mais ampla do que o simples exame do agravo interno contra decisão que indeferiu o pedido liminar, de modo que se julga prejudicado o agravo interno, mormente se a ação rescisória está apta para julgamento.
+
+2. A ação rescisória não é recurso e não se presta a reavaliação do que já transitou em julgado se não demonstrada uma das hipóteses legais de cabimento. Ademais, esse meio impugnativo também não visa sequer à correção de suposta injustiça.
+
+3. As hipóteses de cabimento da ação rescisória são taxativas e, caso não evidenciadas, levam à não admissão do meio impugnativo, de modo que não é terceira via recursal e nem se presta a reexaminar o que já foi devidamente julgado.
+
+4. Não é cabível ação rescisória quando o julgado combatido avalia as normas aplicáveis à espécie, o que pode ser percebido, inclusive, com base na respectiva ementa do acórdão transitado em julgado. Assim, não se fala em violação à norma jurídica capaz de resultar no conhecimento do pedido.
+
+5. Para a caracterização de erro de fato é necessário que não tenha havido controvérsia sobre o fato nos autos, ou seja, o fato que gerou o erro não foi objeto de debate entre as partes no processo original; ou que o juiz tenha decidido com base em um fato inexistente ou considerado inexistente um fato que realmente ocorreu. Portanto, o erro se caracteriza quando o juiz forma sua convicção baseando-se em uma premissa fática errada, ou ignora um fato que, na verdade, estava comprovado nos autos.
+
+6. A falta de cabimento do meio impugnativo leva à não admissão da ação, indeferindo-se a petição inicial.
+
+7. AGRAVO INTERNO PREJUDICADO. AÇÃO RESCISÓRIA NÃO CONHECIDA. (Acórdão 1951904, 0723087-35.2024.8.07.0000, Relator(a): ROBSON BARBOSA DE AZEVEDO, 1ª CÂMARA CÍVEL, data de julgamento: 09/12/2024, publicado no DJe: 20/12/2024.) (Grifei)
+
+No julgamento destacou-se que as hipóteses de cabimento da ação rescisória são taxativas, conforme prevê o art. 966 do Código de Processo Civil. A ausência de enquadramento em uma dessas hipóteses impede o conhecimento do meio autônomo de impugnação, razão pela qual se reconheceu a inadmissibilidade da ação rescisória no caso.
+
+Nos termos do art. 969 do CPC, a propositura da ação rescisória não obsta o cumprimento da decisão rescindenda, salvo se houver concessão de tutela provisória. No presente caso, observo que foi indeferido o pedido de efeito suspensivo na ação rescisória nº 0723087-35.2024.8.07.0000, motivo pelo qual não se justifica a suspensão do presente cumprimento de sentença.
+
+Dessa forma, indefiro a preliminar de prejudicialidade externa.
+
+2) Da inexigibilidade da obrigação
+
+O Distrito Federal alega que o título exequendo está fundamentado em interpretação tida pelo Supremo Tribunal Federal como incompatível com a Constituição Federal (artigo 169, § 1º, da CF), com a Tese firmada no Tema 864 e com a ratio decidendi do respectivo acórdão (RE n. 905.357/RR) e descumprimento do art. 21 da Lei de Responsabilidade Fiscal. Por isso, seria o caso de “coisa julgada inconstitucional”, cuja obrigação é inexigível perante o Poder Público, nos termos do artigo 535, inciso III, e §§ 5º e 7º, do CPC.
+
+Em primeiro lugar, observo que em sede de cumprimento de sentença não cabe a rediscussão do mérito da ação de conhecimento principal. As teses apresentadas pelo exequente já foram debatidas durante o julgamento do título em execução. Vejamos a ementa do Acórdão de nº 1316826, julgado pela 3ª Turma Cível:
+
+“ADMINISTRATIVO. CONSTITUCIONAL. LEI DISTRITAL N. 5.105/13. CARREIRA. MAGISTÉRIO PÚBLICO. REAJUSTE ESCALONADO. VENCIMENTOS. ÚLTIMA PARCELA. NÃO IMPLEMENTADA. AUSÊNCIA DE DOTAÇÃO ORÇAMENTÁRIA. FALTA DE PROVAS. LEI DE RESPONSABILIDADE FISCAL. VIOLAÇÃO NÃO DEMONSTRADA. CONDENAÇÃO JUDICIAL IMPOSTA À FAZENDA PÚBLICA. JUROS DE MORA. TAXA REFERENCIAL (TR). CORREÇÃO MONETÁRIA. ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR AMPLO (IPCA-E) TEMAS 810/STF E 905/STJ.
+
+1. A Lei nº 5.184/2013 reestruturou a carreira de assistência social do Quadro de Pessoal do Distrito Federal. Conforme artigo 18 e anexos II, III e IV da lei distrital, as tabelas de vencimentos previram o cronograma de reajustes salariais a serem realizados a partir de 01/11/2013 até 01/11/2015.
+
+2. Observado o não cumprimento da Lei 5.184/2013, quanto à implementação da última parcela do reajuste, configurada está a ilegalidade da Administração Pública, que deve ser afastada pelo Poder Judiciário.
+
+3. Conforme entendimento do Supremo Tribunal Federal, albergado pela Corte Especial do TJDFT quando do julgamento da ADI n. 2015.00.2.005517-6, a falta de dotação orçamentária somente enseja a suspensão da eficácia da lei para o exercício em que ela é promulgada.
+
+4. Com efeito, o simples argumento, desprovido de provas robustas, de ausência de dotação orçamentária para o exercício de 2015, não se sustenta, uma vez que os exercícios financeiros posteriores à publicação da lei são disciplinados por orçamentos próprios, os quais deveriam contemplar os recursos para o gasto previsto na lei já em vigor.
+
+5. Inexiste ofensa à Lei de Responsabilidade Fiscal, visto que o procedimento de aprovação, publicação e promulgação da lei distrital nº 5.184/2013 contou com a participação do Distrito Federal, através de sanção do Chefe do Poder Executivo, além de ter sido o texto legal objeto de discussão e análise técnica perante o Poder Legislativo.
+
+6. A situação sub judice não se amolda nos parâmetros de incidência do precedente vinculante do Recurso Extraordinário n.º 905.357/RR, que trata da revisão anual da remuneração dos servidores públicos, uma vez que o presente recurso versa, exclusivamente, sobre o descumprimento das determinações legais relativas ao pagamento escalonado de reajustes salariais da Carreira Pública de Assistência Social do Distrito Federal, previstos na Lei n.º 5.184/2013.
+
+7. O artigo 1º-F da Lei n.º 9.494/97, com a redação dada pela Lei n.º 11.960/09, fora declarado inconstitucional pelo Supremo Tribunal Federal especificamente na parte em que estabelece a aplicação do índice oficial da caderneta de poupança (Taxa Referencial - TR) para a correção monetária dos débitos impostos à Fazenda Pública (ADIs 4.357 e 4.425), matéria também posteriormente submetida ao regime da repercussão geral (Tema n.º 810 afetado ao julgamento pelo paradigma do RE n.º 870/947/SE), onde restou decidido pela aplicação do IPCA-E, em substituição à TR, como o índice de correção monetária que melhor representa a atualização monetária dos valores dos débitos da Fazenda Pública.
+
+8. A temática também encontrou o enfrentamento posterior do Superior Tribunal de Justiça pela sistemática dos recursos repetitivos (Tema 905/STJ), que alinhada ao entendimento sufragado pela Corte Suprema, definiu, dentre outras diversas teses jurídicas, a aplicação para as condenações judiciais, a partir de julho de 2009, referentes a servidores e empregados públicos, a aplicação dos juros de mora pela remuneração oficial da caderneta de poupança e a correção monetária pelo IPCA-E ("Tema 905/STJ - Tese Jurídica 3.1.1 - item (c)".
+
+9. Na espécie, o artigo 1º-F é aplicável no que tange aos juros de mora e sua remuneração pelo índice oficial da caderneta de poupança (TR) e, quanto à correção monetária, o reconhecimento da inconstitucionalidade no ponto direciona à incidência do IPCA-E (Temas 810/STF e 905/STJ).
+
+10. Recurso do réu conhecido e desprovido
+
+11. Recurso do autor conhecido e provido. (Acórdão 1316826, 07021959520178070018, Relator(a): MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 10/2/2021, publicado no DJE: 24/2/2021. Pág.: Sem Página Cadastrada.).” (Grifei)
+
+Nos termos do Tema 864 do Supremo Tribunal Federal: “A revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias.”
+
+Contudo, verifica-se que a decisão proferida no processo coletivo que originou o presente cumprimento de sentença não trata de revisão geral anual, mas de reajuste remuneratório escalonado concedido por lei específica (Lei Distrital nº 5.184/2013) direcionado a um grupo determinado de servidores. Portanto, trata-se de hipótese distinta da prevista no Tema 864, não havendo identidade fática ou normativa entre os casos. Essa distinção configura distinguishing, apto a justificar a inaplicabilidade do referido precedente vinculante ao presente caso.
+
+Sobre o tema, oportuno destacar o Enunciado nº 306 do Fórum Permanente de Processualistas Civis – FPPC: “O precedente vinculante não será seguido quando o juiz ou tribunal distinguir o caso sob julgamento, demonstrando, fundamentalmente, tratar-se de situação particularizada por hipótese fática distinta, a impor solução jurídica diversa.”
+
+Ademais, a Lei Distrital nº 5.184/2013 foi objeto da Ação Direta de Inconstitucionalidade nº 7391, proposta pelo agravante, a qual sequer foi conhecida pelo colegiado. Ainda assim, ao analisar o mérito da controvérsia, em caráter subsidiário, a eminente relatora afastou a tese de que a concessão do reajuste violaria o art. 169, § 1º, inciso I, da Constituição Federal, bem como o art. 21, inciso I, da Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal).
+
+Segundo consignado, a norma impugnada foi acompanhada de estimativa do impacto financeiro e orçamentário, além da existência de prévia dotação orçamentária para os exercícios de 2013 a 2015. Ressaltou-se, ainda, que, mesmo nas hipóteses em que se exigiria dotação orçamentária prévia, a eventual ausência de recursos para pagamento futuro não configura, por si só, a inconstitucionalidade da norma, implicando tão somente a suspensão de sua eficácia durante o exercício financeiro correspondente.
+
+Confira-se a ementa:
+
+EMENTA: AGRAVO REGIMENTAL NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 18 E ANEXOS II, III E IV DA LEI DISTRITAL N. 5.184/2013. REAJUSTE SALARIAL DE SERVIDORES DA ASSISTÊNCIA SOCIAL DO DISTRITO FEDERAL. ALEGADA OFENSA AO CAPUT E § 1º DO ART. 169 DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA REFLEXA À CONSTITUIÇÃO. PRECEDENTES ESPECÍFICOS. AGRAVO DESPROVIDO.
+
+SE SUPERADO O DESPROVIMENTO DO AGRAVO, AÇÃO DIRETA JULGADA IMPROCEDENTE. IMPEDIMENTO DE APLICAÇÃO DA LEI CONCESSIVA DE VANTAGEM OU AUMENTO DE REMUNERAÇÃO A SERVIDORES PÚBLICOS NO RESPECTIVO EXERCÍCIO FINANCEIRO. 1. A alegação de ofensa ao art. 169 da Constituição da República pela ausência de dotação orçamentária ou autorização específica na lei de diretrizes orçamentárias do Distrito Federal, depende do cotejo da norma impugnada com normas infraconstitucionais e do reexame de fatos e provas. Precedentes. 2. Pela exposição de motivos que deu origem à legislação que veicula a norma questionada, há indicação da devida estimativa do impacto financeiro e orçamentário e existência de prévia dotação orçamentária para os anos de 2013, 2014 e 2015 referente à realização das despesas decorrentes das vantagens e aumentos remuneratórios contemplados na proposição legislativa. 3. Em situação de concessão de aumentos escalonados, a insuficiência de dotação orçamentária futura para pagamento do aumento não importa na inconstitucionalidade do reajuste, sendo caso apenas de ter a sua aplicação suspensa no exercício financeiro vigente. Precedentes. 4. Tema diverso daquele constante e julgado no Recurso Extraordinário n. 905.357, Tema 864 da repercussão geral, pois não se trata de pedido de revisão geral de remuneração, mas de norma concessiva de aumento remuneratório de forma escalonada aos servidores públicos de assistência social do Distrito Federal. Precedentes. 5. Voto no sentido de manter a decisão agravada para não conhecer da presente ação direta de inconstitucionalidade nos termos dos precedentes do Supremo Tribunal Federal sobre a matéria. Se superada a questão relativa ao não conhecimento da ação, voto, no mérito, pela improcedência do pedido formulado nos termos dos precedentes específicos do Plenário deste Supremo Tribunal Federal na matéria.” (ADI 7391 AgR, Relator(a): CÁRMEN LÚCIA, Tribunal Pleno, julgado em 13-05-2024, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 13-05-2024  PUBLIC 14-05-2024) (Grifei)
+
+Dessa forma, não procede a alegação do DISTRITO FEDERAL de que haveria ilegalidade ou inconstitucionalidade na decisão exequenda. Trata-se de título executivo judicial confirmado em grau de apelação e mantido pelas instâncias superiores. Ademais, em sede de ação rescisória, foi indeferido o pedido liminar, ante a ausência dos requisitos legais, inclusive quanto à demonstração de violação à matéria constitucional. Assim, não se trata de decisão fundada em norma tida pelo STF como incompatível com a Constituição Federal.
+
+Assim, o título executivo é exigível, devendo o cumprimento individual de sentença prosseguir.
+
+Por fim, em relação ao pedido de aplicação de multa formulado pela parte agravada, entendo que a configuração de ato atentatório à dignidade da justiça exige a demonstração de dolo voltado a prejudicar o exercício da atividade jurisdicional.
+
+O requerimento de suspensão do processo configura exercício legítimo do direito de defesa e não caracteriza abuso, pois a tese jurídica apresentada não altera a verdade dos fatos nem visa a induzir o julgador em erro.
+
+Diante disso, indefiro o pedido de aplicação de multa ao agravante por ato atentatório à dignidade da justiça.
+
+ Portanto, a despeito da impugnação apresentada pelo agravante, não se pode ignorar que os interessados objetivam o recebimento de verba alimentar, aprovada em lei e com direito assegurado em decisão de mérito transitada em julgado e, nessa medida, não merecem ser acolhidas as teses levantes no recurso.
+
+ Ante o exposto, CONHEÇO E NEGO PROVIMENTO ao agravo de instrumento.
+
+ Sem honorários.
+
+ É como voto.
+
+A Senhora Desembargadora ANA CANTARINO - 1º Vogal Com o relatorA Senhora Desembargadora MARIA IVATÔNIA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER. REJEITAR A PRELIMINAR. NEGAR PROVIMENTO AO RECURSO. UNÂNIME
