@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DANIELA DE CASSIA MACHADO e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS  TRANSPORTE DE PESSOAS  AUSÊNCIA DE NEXO CAUSAI - MAGISTRADO DE PRIMEIRO GRAU PROLATOR DE DECISÃO FUNDAMENTADA CONSIDERANDO DESNECESSÁRIA A PRODUÇÃO DE PROVA ORAL  CERCEAMENTO DE DEFESA NÃO CARACTERIZADO - AUTORAS, HERDEIRAS DA VÍTIMA, APONTARAM TER ELA SOFRIDO LESÕES EM RAZÃO DE CONDUTA DE MOTORISTA DA EMPRESA DE ÔNIBUS, O QUAL TERIA FREADO BRUSCAMENTE  DOCUMENTAÇÃO E LAUDO PERICIAL INAPTOS A DEMONSTRAR NEXO CAUSAI ENTRE O ACIDENTE E AS SUPOSTAS LESÕES PROVOCADAS NA VÍTIMA  ALEGAÇÃO DE ACORDO COM A QUAL A VÍTIMA TERIA SE AFASTADO DE SUAS ATIVIDADES LABORAIS IGUALMENTE NÃO COMPROVADA  IMPROCEDÊNCIA QUE ERA DE RIGOR  PRECEDENTES DESTA COLENDA CÂMARA. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 186 do CC, no que concerne à ocorrência de dano moral, em razão dos prejuízos psicológicos sofridos pelo acidente. Sustenta que os danos decorrentes do trauma e abalo do acidente são indenizáveis independente de prova, trazendo a seguinte argumentação:
+O V. Acórdão guerreado refere não ter sido identificada com precisão a forma como ocorreu o aludido infortúnio e que era ônus do Recorrente a comprovação de que em virtude do acidente, de fato tenha sofrido seqüelas e que estas embasariam seu pedido de indenização imaterial.
+ ..
+Claro está que ao entender não ser indenizável o sofrimento e dissabores impostos a Autora da ação, o acórdão recorrido negou vigência ao artigo 186 do Código Civil, conforme se exporá a seguir.
+ ..
+Foi negada vigência ao dispositivo legal por entender o Tribunal que, mesmo sendo a Ré responsável pelo acidente noticiado na inaugural, não é obrigada a reparar o dano porque a Autora não fez a prova de suas lesões e que as normas que disciplinam o dano imaterial, não contemplam ambiciosos estados fictícios frente aos percalços obrigacionais do cotidiano, mas tão-somente, violações injustas, que venham a ferir a dignidade pessoal, o que no caso não ocorreu.
+Ora, D. Ministro Relator, não diga que o dano imposto a Autora não tenha violado a norma infraconstitucional acima referendada.
+Com efeito, pouco não foram os dissabores suportados pela Autora desta ação em razão do acidente ocorrido.  ..
+ ..
+O acidente de ônibus não é um fato corriqueiro na vida do Recorrente, que não viu o contrato de transporte cumprido, isto porque não foi conduzida ao seu destino final. Ao contrário, foi mandado para um hospital, o que não era a sua intenção.
+ ..
+Ainda, mesmo que admitamos que não se deve conceder a indenização por dano moral em razão de qualquer contrariedade, não menos certo é que não se pode deixar de atribuir à Empresa-Ré o mau serviço prestado e o descaso e negligência com que houve, em total desrespeito ao direito dos que com ela contrataram, no caso a Autora desta ação indenizatória.
+ ..
+A vulneração da norma legal se deu porque o acórdão entendeu que não houveram prejuízos indenizáveis, que não restaram seqüelas psicológicas em razão do acidente e que não geram prejuízos indenizáveis, como está capitulado no artigo 186 do Código Civil, fato esse que deverá ser seguramente apreciado por esse Colendo Superior Corte de Justiça (fls. 609/619).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+No que tange ao mérito, trata-se de ação indenizatória por danos materiais e morais ajuizada originalmente por Roseli Camargo em face da Empresa de Transporte e Turismo Carapicuíba Eireli, alegando que, em 21.09.2015, era transportada por ônibus pertencente à requerida quando sofreu uma queda, em razão da conduta do motorista, que teria freado bruscamente o coletivo.
+Nesse passo, sempre segundo a narrativa, a autora teria lesionado a cabeça, a face e o nariz, e, após atendimento médico, fora obrigada a ficar afastada de suas atividades por dois dias.
+Deste modo, requer a condenação da empresa ao pagamento de indenização por danos materiais, no valor "equivalente a 300 (trezentas) vezes o valor da passagem à época do acidente" (fl. 6), nos termos do art. 733, § 1º, do Código Civil, bem por danos morais, em montante não inferior a 50 (cinquenta) salários-mínimos.
+Neste contexto, de acordo com os artigos 734 e seguintes do Código Civil, que regulamentam o transporte de pessoas, a empresa possui responsabilidade objetiva, bastando, para o dever de reparação de danos, somente a comprovação do dano e do respectivo nexo causal.
+Ocorre que, in casu, aludido nexo não foi demonstrado. De fato, embora a autora, à época do ajuizamento da ação, tenha apresentado boletim de ocorrência (fls. 16/17), bem como uma receita médica (fl. 18) do dia do acidente e um prontuário datado de 16.10.2015, cerca de um mês após o evento (fl. 19), não há qualquer evidência de que a queda tenha provocado lesões à requerente, e nem prova de que tenha sido afastada de sua atividade laboral.
+Esta, aliás, foi a conclusão do laudo de perícia indireta, realizada em 04.04.2023, após o falecimento da autora, no ano de 2022:
+ ..
+Em adição, em resposta ao pedido de esclarecimentos por parte das autoras (fls. 486/488), apontou a expert que os documentos apresentados nos autos eram insuficientes para a demonstração do nexo de causalidade:
+ ..
+Deste modo, era mesmo de rigor a improcedência da ação(fls. 596/594, grifo meu).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
