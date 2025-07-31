@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por NOVA DISTRIBUIDORA DE VEICULOS LIMITADA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+INDENIZAÇÃO POR DANOS MATERIAIS. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO SECURITÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS. CONTRARRAZÕES. PEDIDO DE REFORMA DA SENTENÇA. NÃO CONHECIMENTO. VIA ELEITA INADEQUADA. PEDIDO QUE DEVE SER FORMULADO POR MEIO DE RECURSO PRÓPRIO (ART. 1.009, DO CPC). RECURSO DA AUTORA. INDENIZAÇÃO POR DANOS MATERIAIS DEVIDA SOLIDARIAMENTE PELAS RÉS. OFICINA CORRÉ QUE REALIZOU PARCIALMENTE OS REPAROS DE FORMA INCORRETA, SEGUNDO O LAUDO PERICIAL. SENTENÇA PARCIALMENTE REFORMADA. RECURSO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne à inexistência de comprovação da culpa e do nexo de causalidade a ensejar sua responsabilidade, trazendo a seguinte argumentação:
+No presente caso, a Recorrente atuou estritamente dentro dos limites estabelecidos pela seguradora Liberty Seguros S/A, executando os serviços conforme especificações técnicas determinadas. Não há nos autos qualquer evidência de que a Recorrente tenha agido com negligência, imprudência ou imperícia na realização dos reparos.
+ ..
+O laudo pericial juntado aos autos, embora descreva as condições do veículo, não estabelece nexo causal entre a atuação da Recorrente e os supostos danos alegados. A mera constatação de problemas técnicos não é suficiente para caracterizar a culpa da oficina, especialmente quando esta seguiu rigorosamente as orientações da seguradora.
+A relação jurídica estabelecida entre a recorrente e a Liberty Seguros S/A é de natureza contratual, sendo que a Recorrente atuou como prestadora de serviços credenciada, seguindo os procedimentos e especificações determinados pela seguradora.
+ ..
+A prestação de serviços mecânicos, quando realizada dentro dos padrões técnicos estabelecidos e sob orientação da seguradora, não pode gerar responsabilização automática da oficina por eventuais problemas posteriores no veículo.
+ ..
+A responsabilidade pela avaliação dos danos e definição dos reparos necessários era exclusivamente da seguradora, que optou por não considerar o veículo como perda total, determinando a realização dos reparos pela oficina credenciada.
+ ..
+A ausência de comprovação de culpa da Recorrente impede sua responsabilização pelos danos alegados, sendo necessária a reforma do acórdão recorrido para adequá-lo aos preceitos legais vigentes.
+O princípio da reparação integral do dano, embora relevante, não pode se sobrepor à necessidade de comprovação dos elementos essenciais da responsabilidade civil subjetiva, sob pena de violação ao sistema jurídico vigente.
+A mera existência de danos no veículo não autoriza a responsabilização automática da oficina mecânica, sendo imprescindível a demonstração de que esta agiu com culpa na execução dos serviços.
+Portanto, resta evidenciada a violação aos artigos 186 e 927 do Código Civil pelo acórdão recorrido, que impôs responsabilidade solidária à recorrente sem a devida comprovação de culpa, elemento essencial para a caracterização da responsabilidade civil subjetiva (fls. 480/490).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A questão principal cinge-se na responsabilidade solidária das rés quanto indenização por danos materiais.
+Ressalta-se que, segundo consta dos autos, o veículo foi enviado para reparo na corré Nova Distribuidora, contudo voltou a apresentar problemas, tendo que ser novamente reparado, sofrendo deterioração.
+O laudo pericial constatou (fls. 325) que: "Os reparos executados no veículo, objeto da lide, relacionados ao sinistro narrado na inicial foram efetuados parcialmente de forma incorreta pela empresa ré - NOVA DISTRIBUIDORA DE VEÍCULOS LTDA."
+E ainda: "De acordo com os danos ocorridos à época do sinistro narrado nos autos no objeto da lide, verificados através das fotos 13 a 15 deste Laudo Pericial, em concomitância com a nota fiscal nº 780.161 (fls. 72 e 73 dos autos), não foram substituídos a lateral posterior (ambos os lados) no corte determinado pela engenharia do fabricante do veículo o qual compreende a coluna D, e o assoalho do compartimento de bagagem (porta-malas), itens considerados estruturais da carroceria de um veículo automotor." (fls. 325)
+Denota-se pela prova dos autos que os reparos no veículo da autora foram executados de forma parcial e incorreta e, devolvido nestas condições o veículo a apresentar problemas que geraram riscos à sua utilização.
+Neste ínterim, verifica-se a responsabilidade solidária da corré Nova Distribuidora, que deve arcar com os danos materiais juntamente com a seguradora, corrigidos monetariamente a partir deste arbitramento.
+Assim, o recurso deve ser provido para condenar a corré Nova Distribuidora a pagar pelos danos causados solidariamente com a seguradora, devendo ser reformada a sentença (fl. 436).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
