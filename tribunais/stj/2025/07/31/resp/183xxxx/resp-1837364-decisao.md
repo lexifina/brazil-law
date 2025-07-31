@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por VOLPATO ADMINISTRAÇÃO E PARTICIPAÇÕES S.A. e Outra, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. VOTAÇÃO DO PLANO ALTERNATIVO. AUSÊNCIA DE NULIDADE. DESÁGIO. PRAZO DE CARÊNCIA. LIMITAÇÃO. 1. Decisão que tem por finalidade assegurar a possibilidade de superação da situação de crise econômico-financeira da agravada, permitindo a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica.
+2. Ausência de nulidade do plano alternativo apresentado pelas devedoras, eis que restou aprovado por todas as classes de credores, inclusive os quirografários.
+3. A previsão de deságio sobre os créditos sujeitos à recuperação judicial, bem como o período de carência para incidência de juros, não importa em qualquer irregularidade, pois está de acordo com o disposto no art. 50, incisos I, IX e XII, da Lei n. 11.101/2005, sendo, juridicamente possível tanto a concessão de prazos para pagamento do débito como a novação objetiva com deságio da dívida. Da mesma forma, viável a equalização de juros com a redução e mesmo carência para satisfação destes, podendo o plano conter estas e outras condições para equacionar o passivo da empresa recuperanda, dando prosseguimento à sua atividade empresarial. 4. O prazo de carência de 36 meses para início do pagamento dos créditos, a contar da concessão da recuperação judicial, merece ser reformulado, porquanto supera o período previsto no artigo 61 da LRF, retirando dos credores quirografários a possibilidade de fiscalização judicial do cumprimento do plano de recuperação.
+5. Manutenção da homologação do plano, expurgadas as cláusulas ilegais. RECURSO PARCIALMENTE PROVIDO, POR MAIORIA" (e-STJ fl. 235).
+Os embargos de declaração foram rejeitados (e-STJ fls. 275/279).
+No recurso especial, as recorrentes apontam, além de dissídio jurisprudencial, violação dos artigos 50 e 61 da Lei nº 11.101/2005.
+Afirmam que não há óbice para que o plano de recuperação judicial preveja prazo de carência superior a 2 (dois) anos. Destacam que entre os meios de recuperação judicial consta a concessão de prazos e condições especiais de pagamento. Defendem que o prazo de carência e o de fiscalização são totalmente distintos. Frisam que não cabe ao Judiciário exercer o controle de legalidade do plano.
+Apontam como paradigma acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos, também, agravo interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS IBIRAIARAS - SICREDI IBIRAIARAS contra decisão que inadmitiu recur so especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Em suas razões aponta violação dos seguintes dispositivos com as respectivas teses:
+(i) artigos 141, 489, § 1º, 492, 1.013 e 1.022 do Código de Processo Civil - porque haveria clara omissão no julgado, tendo a Corte de origem deixado de se manifestar acerca das ilegalidades formais na convocação da assembleia de credores, bem como sobre as alterações surpresa prejudiciais aos credores, impondo-lhes desvantagem excessiva.
+(ii) artigo 36, II e III, da Lei nº 11.101/2005 - porque o modificativo apresentado na véspera da assembleia consistia em um verdadeiro novo plano, pois veiculava modificações nos principais aspectos da minuta original: o deságio e o prazo de pagamento, de modo que deveria ter sido indicado na ordem do dia a nova versão que seria votada, ficando à disposição dos credores para consulta, permitindo sua análise, o que não ocorreu. Menciona o parecer do Ministério Público em primeiro grau. Cita como paradigma acórdão do Tribunal de Justiça do Estado de São Paulo.
+(iii) artigos 35, I, 53 e 56 da Lei nº 11.101/2005 - porque na versão surpresa do plano de recuperação apresentado, o deságio foi modificado de 40 para 70% (setenta por cento), além de ser previsto o prazo de 18 (dezoito) anos para pagamento, tendo os credores ficado sabendo dessa condição apenas às vésperas da assembleia. Entende que os votos proferidos foram dados com vício de consentimento, pois os credores não tiveram tempo para analisar as condições do plano. Lembra que o deságio é o principal aspecto do plano.
+(iv) artigos 187, 421 e 422 do Código Civil - porque ofende a boa-fé objetiva as alterações surpresas feitas no plano de recuperação judicial. Lembra que o plano é um contrato que vincula as partes do negócio e a alteração de seus termos sem possibilidade de análise implica desvantagem excessiva imposta aos credores e configura abuso de direito. Aponta como paradigma acórdão do Tribunal de Justiça do Estado de São Paulo - AI nº 493696792018260000.
+Argumenta que
+"(..) A discussão se limita à excessividade da vantagem pretendida pela Recuperanda, pois não se pode considerar com necessário ao preenchimento da função social, boa-fé e até mesmo bons costumes que o credor precise abrir mão de 70% do seu crédito e, ainda, precisar aguardar 18 anos para receber o saldo dos 30% restantes" (e-STJ fl. 381).
+Requer o provimento do recurso especial para que seja anulado o aresto estadual e, caso superada essa preliminar, para que seja declarada nula a deliberação tomada em assembleia que não observou os requisitos legais para sua validade, reconhecendo a ilicitude as alterações surpresas por serem excessivamente onerosas.
+Contrarrazões às e-STJ fls. 432/441 .
+As recuperandas afirmam que a aprovação do plano reflete a aceitação dos credores às condições previstas no plano de recuperação, não sendo cabível a revisão de suas cláusulas em razão do óbice da Súmula nº 7/STJ.
+Lembram que o plano pode sofrer modificações na própria assembleia de credores. Ressaltam que a situação do plano se agravou porque a crise da empresa também se aprofundou.
+Defendem que a concessão de maior prazo à recorrente não alteraria sua posição de rejeição ao plano.
+É o relatório.
+DECIDO.
+Em consulta ao andamento do processo, verificou-se que no dia 3.7.2023 foi decretada a falência das empresas em recuperação.
+Nesse contexto, como o recurso especial e o agravo em recurso especial questionavam aspectos do plano de recuperação judicial, perderam seu objeto.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM QUESTIONANDO A ELABORAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. SUPERVENIÊNCIA DE SENTENÇA DECRETANDO A FALÊNCIA DAS EMPRESAS RECORRIDAS. RECURSO PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decretação de falência torna prejudicado o recurso que objetiva questionar a legalidade da decisão homologatória do plano de recuperação judicial.
+2. Agravo regimental improvido".
+(AgRg no REsp nº 1.432.355/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/2/2016, DJe de 11/3/2016)
+Ante o exposto, com fundamento no artigo 34, XI, do RISTJ, julgo prejudicados o recurso especial de e-STJ fls. 290/304 e o agravo em recurso especial de e-STJ fls. 470/525.
+Publique-se.
+Intimem-se.
+EMENTA
