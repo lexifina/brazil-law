@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FREDSON ANTONIO DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+APELAÇÃO CÍVEL. SENTENÇA QUE ACOLHEU EM PARTE OS EMBARGOS À EXECUÇÃO. APELO DA PARTE EMBARGADA. PEDIDO DE CONCESSÃO DA JUSTIÇA GRATUITA ACOLHIDO COM EFEITOS PROSPECTIVOS. ALEGAÇÃO DE AUSÊNCIA DE SUCUMBÊNCIA RECÍPROCA. REJEITADA. RECONHECIMENTO PELO JUÍZO DE PEQUENO EXCESSO DE EXECUÇÃO. RETIFICAÇÃO DA PROPORÇÃO ATRIBUÍDA A CADA UMA DAS PARTES. ART. 86 DO CPC. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. UNANIMIDADE.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 86, parágrafo único, do CPC, no que concerne à necessidade de condenação da parte recorrida ao pagamento total das custas e dos honorários advocatícios, porquanto a parte recorrente sucumbiu em parte mínima do pedido, trazendo a seguinte argumentação:
+Analisemos que a letra da lei expõe que o que sucumbir em "parte mínima" ficará isento do ônus de arcar com despesas e honorários advocatícios de sucumbência.
+O que dizer do Recorrente, que sucumbiu em parte insignificante, tendo isto sido explicitado no acórdão recorrido, conforme trecho prequestionado a seguir exposto:
+ ..
+Eminentes Ministros, não há o que se comentar em reciprocidade neste caso em que a perda do Recorrente beira à insignificância!
+A melhor Doutrina dos ilustres processualistas Nelson Nery e Jr. e Rosa Maria de Andrade Nery trouxeram em sua obra o seguinte conceito de vencido:
+"Os honorários de advogado e as despesas do processo deverão ser pagas, a final, pelo perdedor da demanda. Vencido é o que deixou de obter do processo tudo o que poderia ter conseguido. Se pediu x, y e z, mas conseguiu somente x e y, é sucumbente quanto a z" .
+Conectando a supracitada conceituação com o caso em comento, tem-se que a Recorrida foi a vencida, pois em seus embargos à execução alegou excesso na execução, por ter o Recorrente utilizado como termo inicial de atualização dos cálculos a data da sentença (22/11/2011), enquanto a Recorrida abordou como correto em seus embargos o dia 04/02/2014.
+Na r. sentença executória de fls. 44/47, o Douto Juízo a quo determinou que o marco inicial de atualização do débito seria a data da PUBLICAÇÃO DA SENTENÇA EM CARTÓRIO, que se deu em 24/11/2011, ou seja, APENAS DOIS DIAS APÓS O MARCO INICIAL UTILIZADO PELO RECORRENTE!
+Sucede que, mesmo diante da ínfima diferença de apenas DOIS DIAS do pleiteado pelo Recorrente, em detrimento da diferença de DOIS ANOS, DOIS MESES E ONZE DIAS pugnada pela Recorrida, o Egrégio Tribunal de Justiça do Estado de Alagoas manteve a sucumbência recíproca, apenas alterando os percentuais, o que, indubitavelmente contraria frontalmente o art. 86, parágrafo único do CPC.
+ ..
+Considerando que, como o próprio Juiz de primeira instância declarou, houve PEQUENO excesso, sendo a diferença da data atribuída pelo Recorrente de apenas 02 (dois dias), enquanto a diferença da data atribuída pela Recorrida foi de VULTUOSOS 02 (DOIS) ANOS, 02 (DOIS) MESES E 11 (ONZE) DIAS, resta evidente que a Recorrida foi totalmente vencida no presente caso.
+Quando existe decaimento mínimo, diga-se insignificante, de uma das partes, como se observa no caso do Recorrente, NÃO PODE SE OPERAR A SUCUMBÊNCIA RECÍPROCA.
+LOGO, O ACÓRDÃO DO E. TJ-AL QUE MANTEVE A SUCUMBÊNCIA RECÍPROCA MESMO DIANTE DA EVIDENTE E RECONHECIDA SUCUMBÊNCIA MÍNIMA DO RECORRENTE, INEQUIVOCADAMENTE, CONTRARIA DISPOSITIVO DE LEI FEDERAL, TAL QUAL, O ART. 86, PARÁGRAFO ÚNICO DO CÓDIGO DE PROCESSO CIVIL. (fls. 102-104).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Cinge-se a controvérsia em verificar a ocorrência de sucumbência recíproca entre as partes.
+De acordo com o art. 86 do Código de Processo Civil CPC, "se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas". O parágrafo único do mesmo artigo, por sua vez, destaca que "se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários".
+Dito isso, no caso dos autos, o juízo a quo julgou parcialmente procedentes os embargos à execução, determinando como termo inicial de atualização do débito a data da publicação da sentença em cartório (24/11/2011).
+Conforme destacado, a planilha apresentada pelo embargante indicava como data inicial 04/02/2014, ao tempo em que o embargado indicou a data de 22/11/2011, tendo o juízo reco nhecido que houve "pequeno excesso na execução".
+Assim, entende-se que foi correta a sentença que reconheceu a sucumbência recíproca entre as partes.
+Todavia, em relação à proporção atribuída a cada um dos litigantes, entende- se que deve ser retificada para condenar ambos embargante e embargado ao pagamento do ônus da sucumbência, todavia respectivamente nos percentuais de 70% e 30% cada, de modo que o recurso merece parcial provimento. (fls. 95).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A avaliação da proporção em que os litigantes se sagraram vencedores, com o propósito de declarar a sucumbência recíproca ou de reformular a distribuição dos ônus sucumbenciais no caso concreto, é providência que não pode ser adotada no âmbito de recurso especial, por demandar o reexame de matéria fática" (AgInt no REsp n. 2.070.108/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.597.051/GO, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024; AgInt no AREsp n. 2.525.987/PE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/10/2024; AgInt no AREsp n. 2.007.911/PR, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 28/8/2024; AgInt no REsp n. 2.133.772/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.536.652/GO, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 22/8/2024; AgInt no AgInt no AREsp n. 2.175.977/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 5/6/2024; EDcl no AgInt no REsp n. 1.780.421/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 13/11/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
