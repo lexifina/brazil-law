@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEXANDRE DE OLIVEIRA BASTOS JUNIOR, BRAHMAN COMERCIAL DE ALIMENTOS E AGRONEGÓCIOS LTDA. e NARA LUCIA DA SILVA BARROS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Apelação n. 0005013-67.2012.8.07.0008), nos autos de ação de execução de título extrajudicial, com valor da causa de R$ 176.228,19.
+O julgado foi assim ementado (fl. 489):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO COMERCIAL. AUSÊNCIA DE BENS PENHORÁVEIS. PRESCRIÇÃO INTERCORRENTE. DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. ÔNUS DA PARTE EXECUTADA. I - Após a fluência da suspensão da execução pelo período de um ano, ante a ausência de bens penhoráveis, iniciou-se o prazo da prescrição intercorrente, que já se consumou, art. 921, §§ 4º e 5º do CPC. O simples pedido de busca de ativos financeiros formulado pelo credor, sem a mínima demonstração da existência de patrimônio penhorável, não constitui causa interruptiva ou suspensiva da prescrição. Mantida a extinção da execução, com base no art. 924, inc. V, do CPC. II - Na extinção da execução pelo reconhecimento da prescrição intercorrente, as custas e os honorários advocatícios serão arcados pelo devedor, observado o princípio da causalidade. Sentença parcialmente reformada. III - Apelação parcialmente provida.
+Os embargos de declaração opostos foram decididos nos seguintes termos (fl. 527):
+EMBARGOS DE DECLARAÇÃO. VÍCIOS. ART. 1.022 DO CPC. PREQUESTIONAMENTO. I - O acórdão não contém nenhum dos vícios previstos no art. 1.022 do CPC, e os embargos de declaração não se prestam para o reexame de matéria julgada. II - Para fins de prequestionamento, basta que a matéria seja efetivamente examinada no Tribunal de origem, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, art. 1.025 do CPC. III - Embargos de declaração desprovidos.
+Em suas razões, a parte recorrente aponta violação do art. 85, § 11, do Código de Processo Civil. Alega que houve equívoco do Tribunal de origem ao majorar os honorários sucumbenciais em sede recursal sem que antes tenham sido fixados honorários pelo Juízo de primeiro grau.
+Admitido o apelo extremo (fls. 578-579), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+I - Contextualização
+A controvérsia diz respeito à ação de execução de título extrajudicial em que o exequente pleiteou o recebimento do valor devido em razão de inadimplência de Cédula de Crédito Comercial. O Juízo de primeiro grau extinguiu a execução em razão do reconhecimento de prescrição intercorrente. A Corte estadual deu parcial provimento à apelação apenas para condenar os executados ao pagamento das custas processuais e dos honorários advocatícios sucumbenciais, fixados em 10% do valor da execução, mantendo a extinção pela prescrição.
+II - Art. 85, § 11, do CPC
+A parte recorrente alega que não poderia o Tribunal a quo majorar os honorários sucumbenciais em julgamento de apelação, visto que não foi condenado em ao pelo juízo primeiro grau pagamento de honorários.
+Ocorre que, conforme se extrai do acórdão, houve recurso da parte recorrida justamente visando a condenação dos executados - ora recorrentes - ao pagamento de honorários, por ter sido extinta a execução em razão da prescrição intercorrente.
+Assim, tendo provid o o recurso neste ponto, o Tribunal inverteu a sucumbência e fixou os honorários em 10% sobr e o valor da execução, não tendo realizado nenhuma majoração. Confira-se (fls. 496-500, destaquei):
+Na presente demanda, a r. sentença decidiu: " ..  Dado o princípio da causalidade, deixo de condenar a parte sucumbente em pagamento de honorários e a exequente em custas processuais." Assim, a r. sentença deve ser reformada quanto ao pagamento das verbas em questão.
+ ..
+Desse modo, nas hipóteses de provimento ou parcial provimento do recurso, em que haverá alteração da sucumbência, o Tribunal procederá à inversão, novo arbitramento ou redistribuição da verba honorária, razão pela qual não será admitida também, no mesmo grau de jurisdição, a majoração.
+Isso posto, conheço da apelação do exequente e dou parcial provimento para reformar parcialmente a r. sentença e condenar os executados ao pagamento das custas processuais e dos honorários advocatícios sucumbenciais, os quais fixo em 10% do valor da execução (R$ 176.228,19, em 30/07/12, id.17757743).
+Sem majoração de honorários, art. 85, §11, do CPC.
+Verifica-se que a tese jurídica apresentada pela recorrente com relação à majoração de honorários encontra-se dissociada dos fundamentos do acórdão recorrido, o que, nos termos da jurisprudência desta Corte, atrai a aplicação da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+III - Conclusão
+Ante o exposto, não conheço do recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
