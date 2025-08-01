@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por PAULA TALINE DIAS DE QUEIROZ à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Existem como exposto questões omissas, contraditórias e / ou obscuras a serem esclarecidas na r. decisão. Não existe clareza na decisão judicial, que ao mesmo tempo determina que cabe ao inventariante representar o espólio e seus direitos em juízo, e por outro lado deixa claro que a viúva prejudicada precisaria ajuizar ação própria para buscar os bens e direitos que entende devidos, isto, sabendo-se porém que qualquer ação própria ajuizada nestes termos seria extinta, por falta de possibilidade da mesma viúva de representar os bens do espólio em juízo.
+Fato é que o espólio está sendo desfalcado pela desídia do próprio inventariante e causando prejuízos à viúva, que não tem meios nem na ação de inventário, nem por ação própria, de defender tais direitos, motivos pelos quais a decisão merece esclarecimento.
+Por tais motivos requereu o explícito prequestionamento do contido no CPC, ART. 75, INC. vii, que neste caso entende-se violado vez que coloca para a viúva a responsabilidade de ajuizar ação própria quando tal responsabilidade para a representação do espólio e de seus bens é, obrigatoriamente, do inventariante. Requer, portanto, o esclarecimento da decisão, principalmente considerando os questionamentos acima, para que a viúva possa melhor compreender a decisão judicial e buscar o melhor caminho para evitar a dilapidação patrimonial diante da desídia do inventariante, e, no demais, ainda, que seja mantido anotado o nome e endereço do DR. ENIO RODRIGUES DE LIMA, OAB/SP 51.302 para intimações. (fls. 186/187).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Além disso, a omissão/contradição que dá ensejo à oposição de embargos declaratórios é a contradição interna, entre as proposições do próprio julgado impugnado, e não entre sua fundamentação e os argumentos das partes ou outras decisões constantes dos autos, tal como o acórdão do tribunal de origem.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
