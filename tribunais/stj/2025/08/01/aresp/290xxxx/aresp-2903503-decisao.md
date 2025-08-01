@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RAUL HERALDO GADELHA DA TRINDADE, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/12/2024.
+Concluso ao gabinete em: 26/6/2025.
+Ação: declaratória de inexistência de débito c/c obrigação de fazer e compensatória por danos morais, ajuizada pela parte ora agravante, em face de ITAU UNIBANCO S.A, parte ora agravada.
+Sentença: julgou procedentes os pedidos "para condenar a ré a pagar à parte autora, a título de indenização por danos morais, a importância de R$ 7.000,00 (sete mil reais), acrescida de juros de mora no percentual de 1% (um por cento) ao mês, a contar do fato lesivo, e de correção monetária, pelo INPC, a contar da presente data" (e-STJ fl. 239).
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa (e-STJ fls. 289-290):
+EMENTA: PROCESSUAL CIVIL E CONSUMIDOR. CESSÃO DE CRÉDITO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANO MORAL DECORRENTE DE INSCRIÇÃO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. SENTENÇA DE PROCEDÊNCIA. DESCONSTITUIÇÃO DO DÉBITO E REPARAÇÃO MORAL. APELAÇÃO DA ALEGAÇÃO DE QUE NÃO FOIINSTITUIÇÃO FINANCEIRA DEMANDADA: INFORMADO PELO CEDENTE DA QUITAÇÃO DO DÉBITO. RESPONSABILIDADE SOLIDÁRIA DO CEDENTE E CESSIONÁRIO. COBRANÇA INDEVIDA. DANO MORAL CONFIGURADO. NEGATIVAÇÃO ILEGÍTIMA. DEVER DE INDENIZAR QUE SE IMPÕE. VALOR FIXADO EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. OMISSÃO NAAPELAÇÃO DO DEMANDANTE: SENTENÇA QUE NÃO DECLAROU A INEXISTÊNCIA DO DÉBITO. INOCORRÊNCIA. PLEITO PARA FIXAÇÃO DOS HONORÁRIOS SOBRE O PROVEITO ECONÔMICO. IMPOSSIBILIDADE. SENTENÇA COM EXPRESSO VALOR DA CONDENAÇÃO. CONHECIMENTO E DESPROVIMENTO DE AMBOS OS RECURSOS. PRECEDENTES.
+Recurso especial: a lega a existência de dissídio jurisprudencial em relação ao art. 85, §2º, do CPC, sustentando, em síntese, que jurisprudência consolidada do STJ e de outros tribunais determina que os honorários devem ser calculados sobre o somatório do valor da condenação pela compensação por danos morais e do proveito econômico obtido com a declaração de inexistência de dívida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER E COMPENSATÓRIA POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA.
+1. Ação declaratória de inexistência de débito c/c obrigação de fazer e compensatória por danos morais.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. Agravo conhecido. Recurso especial não conhecido.
