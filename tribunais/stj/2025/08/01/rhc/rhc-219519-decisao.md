@@ -1,0 +1,25 @@
+DECISÃO
+ANTHONY GUILHERME GOMES DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça de Pernambuco no Habeas Corpus n. 0004681-57.2025.8.17.9000.
+A defesa aduz, em síntese, a) nulidade da decisão por ausência de fundamentação escrita e idônea para a segregação cautelar; b) condições pessoais favoráveis do recorrente; c) direito à imposição de medidas cautelares diversas da prisão. Requer a revogação da prisão preventiva com aplicação de medidas cautelares diversas.
+O Ministério Público Federal manifestou-se pelo conhecimento e provimento do recurso, para revogar a prisão preventiva , aplicando-se medidas cautelares diversas da prisão (fls. 235-240).
+Decido.
+I. Prisão preventiva
+A instância de origem, por maioria de votos, denegou o habeas corpus e manteve a segregação cautelar do recorrente em decisão assim ementada (fls. 195-196):
+PENAL E PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI Nº 11.343/06). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA POR OCASIÃO DA AUDIÊNCIA DE CUSTÓDIA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA E DOS REQUISITOS AUTORIZADORES DA MEDIDA EXTREMA. INOCORRÊNCIA. GRAVIDADE CONCRETA DA CONDUTA DEMONSTRADA POR PROVAS CONSTANTE DOS AUTOS. PRESENÇA DOS REQUISITOS DO ART. 312, DO CPP. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. ORDEM DENEGADA. DECISÃO POR MAIORIA.
+I - A prisão preventiva está devidamente fundamentada na garantia da ordem pública, com base em elementos concretos extraídos dos autos, notadamente a quantidade significativa da droga apreendida - 500 (quinhentos) gramas de maconha -, associada à apreensão de balança de precisão, dinheiro em espécie e às circunstâncias da prisão em flagrante, ocorrida em praça pública após denúncias da comunidade. Os referidos fatores revelam a gravidade concreta da conduta, justificando a necessidade de salvaguardar a ordem pública.
+II - A prisão preventiva, portanto, não se ressente de motivação, mas está respaldada em justificativas e fundamentos idôneos e suficientes, considerando as circunstâncias concretas que envolvem o ilícito penal, fazendo-se imprescindível, haja vista que preenchidos os pressupostos do art. 312, do CPP.
+III - Eventuais condições pessoais favoráveis não são suficientes, por si sós, para afastar a necessidade da prisão preventiva quando presentes os requisitos legais para sua decretação, especialmente diante da gravidade concreta do delito.
+IV - Ordem denegada. Decisão por maioria.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao acusado - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+Conforme sólida orientação desta Corte em casos similares, o fato do paciente ser tecnicamente primário, sem notícias concretas de envolvimento com organizações criminosas, possibilita a adoção de medidas cautelares alternativas, sobretudo se levado em consideração que a quantidade de droga apreendida no caso, embora não seja ínfima, também não é exacerbada.
+Faço lembrar a nova redação dada ao art. 282, § 6º do CPP, pela Lei n. 13.964/2019, verbis: "A prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar, observado o art. 319 deste Código, e o não cabimento da substituição por outra medida cautelar deverá ser justificado de forma fundamentada nos elementos presentes do caso concreto, de forma individualizada".
+Sob tal perspectiva, e em juízo de proporcionalidade, reputo que outras medidas do art. 319 do CPP, na espécie, são igualmente idôneas e suficientes a garantir a ordem pública, invocada como fundamento judicial para impor a cautela extrema. Assim, a aplicação do art. 319 do CPP é cabível no caso sob exame. Aliás, a linha do Colegiado sempre foi a de prestigiar a excepcionalidade da prisão ante tempus, principalmente aos presos primários.
+II. Dispositivo
+À vista do exposto, dou provimento ao recurso, a fim de substituir a prisão preventiva do paciente pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades;
+b) proibição de ausentar-se da Comarca, sem autorização judicial;
+Alerte-se ao paciente que o descumprimento injustificado das referidas medidas poderá importar no imediato restabelecimento da prisão preventiva, como também poderá ser esta novamente decretada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+As medidas cautelares ora impostas poderão ser, a qualquer tempo, modificadas ou adaptadas, justificadamente, pela autoridade judiciária responsável pelo processo em curso no primeiro grau de jurisdição.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo de primeiro grau e ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
