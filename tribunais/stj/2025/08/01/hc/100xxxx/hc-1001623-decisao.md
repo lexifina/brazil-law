@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ALDAIR JOSÉ DE LIMA DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Na peça, a Defesa informa que o paciente foi condenado às penas de 8 anos e 2 meses de reclusão em regime inicial fechado e ao pagamento de 816 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (fl. 3).
+Alega que houve indevida exasperação da pena-base em razão da fundamentação genérica e desproporcional quanto à quantidade e natureza da droga apreendida, que foi de apenas 35g de cocaína (fls. 3-6).
+Sustenta que a quantidade não expressiva da droga apreendida não justifica a majoração da pena-base, conforme entendimento do Superior Tribunal de Justiça (fls. 6-7).
+No mérito, a Defesa requer a concessão da ordem de habeas corpus para promover o decote do vetor NATUREZA E QUANTIDADE DE DROGA, em relação ao delito descrito no art. 33, caput, da Lei n. 11.343/2006 (fls. 8-9).
+Liminar indeferida (e-STJ, fls. 116-117).
+Informações prestadas (e-STJ, fls. 120-134).
+O Ministério Público Federal opinou pela concessão da ordem de ofício (e-STJ, fls. 137-141).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+Assim ficou estabelecida a dosimetria da pena-base:
+" ..  Em exame atento da sentença vergastada, verifica-se que a pena-base foi exasperada em 2 (dois) anos de reclusão e 200 (duzentos) dias-multa, em decorrência da negativação dos vetores relativos à natureza e quantidade das drogas - considerando-se a apreensão de 35 (trinta e cinco) gramas de cocaína - bem como dos maus antecedentes, evidenciados por 3 (três) condenações criminais transitadas em julgado anteriores ao crime em questão. Conforme art. 42 da Lei nº 11.343/06, na primeira fase da dosimetria, a natureza e quantidade da droga permite a exasperação da pena-base, sobretudo se a substância é altamente danosa ao organismo e de grande poder destrutivo à saúde física e mental do usuário.
+ ..
+Quanto ao vetor relacionado à natureza e à quantidade da droga, não há qualquer fundamento para questionamento, pois as circunstâncias do crime foram adequadamente justificadas com base em elementos sólidos, uma vez que, conforme consta no Auto de Apresentação e Apreensão de fl. 7, o apelante foi flagrado com substância de alta periculosidade e apreendida em quantidade considerável (35g de cocaína), o que legitima a majoração da pena-base." (e-STJ, fls. 77-79).
+As instâncias ordinárias utilizaram-se de fundamentos concretos para justificar o recrudescimento da pena-base quanto aos maus antecedentes (3 registros), mas, considerando a quantidade de droga apreendida (35g de cocaína), desproporcional o aumento promovido, o qual deve ser decotado. Vejamos:
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PROVAS SUFICIENTES. DOSIMETRIA DA PENA. HABEAS CORPUS DE OFÍCIO CONCEDIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, que manteve a condenação dos agravantes pela prática do delito previsto no art. 33, caput, da Lei 11.343/2006.
+2. O Tribunal a quo concluiu pela comprovação da materialidade e autoria delitivas, com base em provas documentais e testemunhais, destacando o depoimento de um policial militar da reserva, atual vereador, que observou a venda de drogas.
+3. A defesa alegou violação do art. 155 do Código de Processo Penal, sustentando que a condenação se baseou exclusivamente em depoimento contraditório, sem outras provas suficientes, pleiteando a absolvição por insuficiência probatória.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condenação dos réus pelo crime de tráfico de entorpecentes pode ser mantida com base em depoimentos testemunhais, especialmente o de um policial militar reformado, sem que haja outras provas suficientes.
+5. Outra questão é a possibilidade de revisão da dosimetria da pena diante de flagrante ilegalidade.
+III. Razões de decidir
+6. A Corte de origem considerou que o conjunto probatório, incluindo depoimentos testemunhais e documentos, é suficiente para comprovar a materialidade e autoria do delito, afastando a alegação de insuficiência de provas.
+7. A análise de provas e fatos realizada pela instância inferior não pode ser revista em recurso especial, em razão do óbice da Súmula 7 do STJ, que veda o reexame de matéria fático-probatória.
+8. A dosimetria da pena deve observar o art. 42 da Lei 11.343/2006, considerando a natureza e quantidade da substância, bem como a personalidade e conduta social do agente.
+9. A quantidade de 7g de crack não justifica a majoração da pena-base acima do mínimo legal, devendo ser afastado tal fundamento.
+10. A majoração da pena-base em razão dos antecedentes criminais deve ser proporcional e fundamentada, não podendo exceder os patamares estabelecidos pela jurisprudência.
+11. A aplicação da causa especial de diminuição de pena do tráfico privilegiado deve considerar a quantidade e natureza do entorpecente, sendo cabível a redução no máximo legal na ausência de circunstâncias adicionais.
+IV. Dispositivo e tese
+10. Agravo conhecido para não conhecer do recurso especial. Ordem de habeas corpus concedida de ofício para redimensionar a pena dos agravantes.
+Tese de julgamento: "1. A condenação por tráfico de entorpecentes pode ser mantida com base em depoimentos testemunhais corroborados por outras provas documentais. 2. O reexame de provas é vedado em sede de recurso especial, conforme a Súmula 7 do STJ. 3. A quantidade de droga apreendida deve ser considerada na dosimetria da pena, mas não justifica majoração acima do mínimo legal sem fundamentação adequada. 4. A majoração da pena-base por antecedentes criminais deve ser proporcional e fundamentada. 5. A causa especial de diminuição de pena do tráfico privilegiado pode ser aplicada no máximo legal na ausência de circunstâncias adicionais."
+Dispositivos relevantes citados: Lei 11.343/2006, art. 33, caput e § 4º; CPP, art. 155.Jurisprudência relevante citada: Súmula 7, STJ, HC 272.126/MG, Min. Ribeiro Dantas, Quinta Turma, julgado em 08.03.2016; STJ, AgRg no HC 750.163/RJ, Min. Jesuíno Rissato, Sexta Turma, julgado em 14.02.2023. (AREsp n. 2.935.762/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXISTÊNCIA, ENTRETANTO, DE COAÇÃO ILEGAL MANIFESTA. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. AFASTAMENTO DA EXASPERAÇÃO BASEADA NA QUANTIDADE E NATUREZA DO ENTORPECENTE. QUANTIDADE INEXPRESSIVA. FUNDAMENTO INIDÔNEO. PENA REDIMENSIONADA. CRITÉRIO PARA ELEIÇÃO DO PERCENTUAL DE AUMENTO COM BASE NA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. DISCRICIONARIEDADE DO JULGADOR. MAJORAÇÃO PROPORCIONAL À GRAVIDADE DO INJUSTO. SEGUNDA FASE DA DOSIMETRIA. MULTIRREINCIDÊNCIA. FRAÇÃO SUPERIOR A 1/6. POSSIBILIDADE. PRECEDENTES. MANUTENÇÃO DO REGIME FECHADO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO OU DE CONCESSÃO DA SUSPENSÃO CONDICIONAL DA PENA.
+Ordem parcialmente concedida, a fim de afastar a valoração negativa da circunstância judicial referente à natureza e quantidade da droga apreendida e, por consequência, redimensionar a reprimenda imposta ao paciente, a qual fica estabelecida em 7 anos de reclusão, em regime inicial fechado, além do pagamento de 699 dias-multa, mantidos os demais termos do acórdão. (HC n. 929.208/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+Passo à nova dosimetria da pena imposta.
+Fixo a pena-base em 6 anos e 6 meses de reclusão e 660 dias-multa, pelos 3 registros de antecedentes criminais. Presente, na segunda fase, a agravante da reincidência, elevo a pena em 1/6 para 7 anos e 7 meses de reclusão, a qual se torna definitiva à míngua de causas de diminuição e aumento de pena.
+Reajusto, proporcionalmente, a pena de multa para 770 dias-multa.
+Mantém-se o regime inicial fechado, ante a reincidência, a qual também impede a substituição por penas restritivas de direito.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, a fim de redimensionar a pena do paciente para 7 anos e 7 meses de reclusão, em regime inicial fechado, mais o pagamento de 770 dias-multa.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado do Ceará, bem como à 4ª Vara de Delitos de Tráfico de Drogas da Comarca de Fortaleza/CE.
+Publique-se. Intimem-se.
+EMENTA
