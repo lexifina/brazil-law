@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROBERTO GUILHEM, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 774):
+PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO POR ILEGITIMIDADE ATIVA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. AÇÃO COLETIVA QUE NÃO APROVEITA À EXEQUENTE. RESPEITO À COISA JULGADA.
+1. Cuida-se de recurso de apelação interposto por Roberto Guilhem em face de sentença terminativa que julgou extinto cumprimento individual de sentença coletiva vocacionado à revisão da Renda Mensal Inicial para incluir o índice IRSM na atualização do salário de contribuição de fevereiro de 1994 no percentual de 39,67% e seus reflexos.
+2. Consoante narra a inicial, o apelante tem o benefício nº 106.542.818-6 (DIB: 15.07.1997), que jamais teve a referida revisão. Sustenta, ainda, que foi proposta ação civil pública pelo Ministério Público Federal em Sergipe (processo nº 0006907-21.2003.4.05.8500), da qual pretende se socorrer para fins de obtenção de ordem judicial favorável.
+3. Sobreveio sentença extinguindo o feito sem resolução de mérito por ilegitimidade ativa do recorrente, uma vez que se encontra domiciliado no Estado de São Paulo, sendo localidade distinta daquela inscrita na sentença coletiva tida como referência para cumprimento. Irresignado, insurge-se o apelante, alegando, em síntese, que o processo não fez limitação territorial ao Estado de Sergipe e deve ter eficácia erga omnes.
+4. Considerando que a ação civil pública originária limita expressamente sua eficácia territorial ao Estado de Sergipe por expresso pedido autoral (pois se pediu "a extensão do decisum a todos os beneficiários circunscritos no Estado de Sergipe"), não pode o particular residente no Estado de São Paulo se valer de tal ato judicial para fins de cumprimento individual de sentença coletiva, até mesmo em homenagem à congruência.
+5. Tal compreensão não destoa da jurisprudência do STF, pois se deve ter em vista que a ação civil pública objeto do feito foi proposta pelo MPF apenas com vista à revisão administrativa da RMI dos segurados vinculados àquela região do território brasileiro. Desse modo, o título executivo perfectibilizado não é dotado de generalidade o bastante para que autorize o cumprimento individual daqueles cuja situação fática divirja daquela descrita no processo usado como referência. Precedentes desta Corte Regional, inclusive da 6ª Turma.
+6. Não provimento do apelo.
+7. Honorários recursais em 2% (dois por cento), nos moldes do art. 85, §11, do CPC. Exigibilidade das parcelas decorrentes da sucumbência submetida à condição suspensiva do art. 98, §3º, do mesmo diploma legal, por se tratar de parte beneficiária da gratuidade judiciária.
+Os embargos de declaração opostos foram rejeitados nestes termos (fl. 1.081):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. REITERAÇÃO DOS ARGUMENTOS LANÇADOS NO JULGAMENTO DA APELAÇÃO. PRETENSÃO DE REJULGAMENTO DA MATÉRIA POR ESTA VIA RECURSAL. IMPOSSIBILIDADE. INSURGÊNCIA NÃO ACOLHIDA.
+1. Cuidam-se de embargos de declaração opostos pelo particular em face de acórdão desta 6ª Turma, alegando a existência de omissões no aresto, em especial quanto ao(à): legitimidade do recorrente; ii) o pedido formulado na ACP, no tocante ao recálculo dos benefícios para correção pelo valor integral do IRSM de fevereiro de 1994, se aplicar não somente aos residentes no Estado de Sergipe; iii) viabilidade do processamento do cumprimento individual da sentença coletiva; iv) não observância do Tema nº 1.075/STF e necessária reconsideração; e v) dissonância do entendimento das demais Turmas desta Corte Regional.
+2. O acórdão combatido não padece de vícios de omissão, contradição ou obscuridade neste ponto, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos fático-jurídicos anteriormente debatidos.
+3. Não se deve confundir acórdão omisso, obscuro ou contraditório com prestação jurisdicional contrária à tese de interesse do embargante. No caso, da leitura dos embargos de declaração, percebe-se, por ser evidente, a pretensão de rediscussão material da causa, finalidade para qual não se prestam os embargos de declaração.
+4. Não há reparo a ser feito quanto à matéria de fundo. Tais pontos foram minudentemente analisados na decisão hostilizada, não havendo que se falar em modificação autorizada pela via recursal acionada, mormente porque tais elementos foram expressamente avaliados.
+5. Consignou-se no acórdão que a ação civil pública tida como referência tem expressa limitação territorial ao estado de Sergipe, enquanto o embargante reside em São Paulo. Ademais, registrou-se que "o título executivo perfectibilizado não é dotado de generalidade o bastante para que autorize o cumprimento individual daqueles cuja situação fática divirja daquela descrita no processo usado como referência", sendo este entendimento pacífico não só na 6ª Turma, mas em outros órgãos colegiados deste Tribunal. Não existe, por conseguinte, violação à jurisprudência do STF formalizada no Tema nº 1.075/STF.
+6. Não acolhimento dos embargos.
+Do agravo interno interposto (fls. 1.091/1.097) não se conheceu nestes termos (fl. 1.120):
+PROCESSUAL CIVIL. AGRAVO INTERNO. ACÓRDÃO DESAFIADO. FUNGIBILIDADE RECURSAL NÃO APLICÁVEL. ERRO INESCUSÁVEL. NÃO CABIMENTO. INSURGÊNCIA NÃO CONHECIDA.
+1. Cuida-se de agravo interno interposto em face de acórdão desta 6ª Turma, que não acolheu embargos de declaração por ele opostos, alegando a necessidade de sua reforma.
+2. Embora o recurso da parte se refira a uma suposta decisão monocrática, é visível que o ato decisório recorrido tem a natureza de acórdão.
+3. Conforme dispõe o art. 1.021 do CPC, o agravo interno é recurso cabível para desafiar decisão do relator e não acórdão do Tribunal, de modo que se trata de hipótese de manifesto não cabimento da espécie.
+4. A utilização do agravo interno para recorrer de decisão colegiada constitui erro inescusável e obsta a aplicação do princípio da fungibilidade recursal. Precedente: Processo nº 08034081320234058300, Apelação Cível, rel. Des. Fed. SEBASTIÃO JOSÉ VASQUES DE MORAES, 6ª Turma, julgado em 30.01.2024.
+5. Recurso não conhecido.
+Nas razões de seu recurso especial, a parte recorrente aponta, além do dissídio jurisprudencial, ofensa aos arts. 1.037, 1.039 e 1.040, II, do Código de Processo Civil (CPC), ao art. 28 da Lei 9.868/1999, à Nota Técnica 5/2022 do Tribunal de origem e ao art. 16 da Lei 7.347/1995, ao argumento de que, reconhecida pelo Supremo Tribunal Federal a inconstitucionalidade do art. 16 da Lei 7.347/1995, com redação dada pela Lei 9.494/1997, a qual impunha limitação geográfica à coisa julgada coletiva, foi repristinada a sua redação original, ou seja, sem a limitação e com efeito erga omnes (fls. 1.129/1.198).
+A parte adversa não apresentou contrarrazões (fl. 1.843).
+O recurso foi admitido (fl. 1.844).
+É o relatório.
+A parte ora recorrente foi intimada do acórdão recorrido, proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, em 15/3/2024 (fl. 1.090), todavia o recurso especial somente foi interposto em 26/5/2024 (fl. 1.128), quando já esgotado o prazo recursal de 15 dias úteis, o qual findou em 8/4/2024, segunda-feira.
+Registre-se que é firme o entendimento no âmbito do Supremo Tribunal Federal (STF) e desta Corte de que a interposição de recurso considerado incabível - como é o caso do agravo interno interposto de decisão colegiada - não interrompe o prazo recursal.
+Confira-se esta decisão do STF:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTEMPESTIVIDADE DO RECURSO EXTRAORDINÁRIO. RECURSO INCABÍVEL NA ORIGEM. AUSÊNCIA DE INTERRUPÇÃO DA FLUÊNCIA DO PRAZO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. O recurso extraordinário interposto deve observar as prescrições legais, sendo, como regra, de 15 (quinze) dias úteis o prazo de interposição, ex vi dos artigos art. 1.003, § 5º, e 219 do Código de Processo Civil.
+2. O recurso incabível na origem é insuscetível de ensejar a interrupção da fluência do prazo recursal. Precedentes: ARE 738.488-AgR, Tribunal Pleno, Rel. Min. Joaquim Barbosa, DJe de 24/3/2014; ARE 1.107.739-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 7/5/2019; ARE 738.488-AgR, Tribunal Pleno, Rel. Min. Joaquim Barbosa, DJe de 24/3/2014; RE 943.198-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 20/4/2016; e ARE 1.277.245-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 16/9/2020.
+ ..
+(ARE 1317171 AgR, Relator(a): LUIZ FUX (Presidente), Tribunal Pleno, julgado em 31-05-2021, PROCESSO ELETRÔNICO DJe-111 DIVULG 9-6-2021 PUBLIC 10-6-2021, sem grifos no original.)
+Na mesma linha, vem decidindo esta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA FIRMANDO A INTEMPESTIVIDADE DO PRÓPRIO AGRAVO E TAMBÉM DO ESPECIAL. FUNDAMENTO QUANTO À INTEMPESTIVIDADE DO AGRAVO NÃO IMPUGNADO NO PRESENTE RECURSO. MANUTENÇÃO DA DECISÃO AGRAVADA QUANTO AO MAIS. AGRAVO INTERNO CONTRA ACÓRDÃO. MANIFESTO DESCABIMENTO. NÃO CONHECIMENTO DOS SUBSEQUENTES EMBARGOS DE DECLARAÇÃO POR SEREM INTEMPESTIVOS. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DO ESPECIAL. CONHECIMENTO PARCIAL DO AGRAVO INTERNO E, NA PARTE CONHECIDA, NÃO PROVIDO.
+ ..
+2. Segundo iterativa jurisprudência desta Corte, é manifestamente incabível agravo interno contra acórdão (decisão colegiada).
+2.1. Não tendo sido conhecido o agravo interno interposto contra o acórdão da apelação, tampouco os subsequentes embargos de declaração, não foi interrompido, no caso concreto, o prazo para a interposição do recurso especial, estando, portanto, correta a decisão agravada que concluiu pela sua intempestividade.
+3. Agravo interno parcialmente conhecido e, na parte conhecida, não provido.
+(AgInt no AREsp n. 2.061.368/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/5/2022, DJe de 11/5/2022, sem grifos no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. INTEMPESTIVIDADE. AGRAVO INTERNO INTERPOSTO EM FACE DE ACÓRDÃO NA ORIGEM. ERRO GROSSEIRO. RECURSO MANIFESTAMENTE INCABÍVEL. INTEMPESTIVIDADE DO RECURSO ESPECIAL.
+1. Ação revisional de contrato cumulada com consignação em pagamento.
+2. É intempestivo o recurso interposto fora do prazo de 15 dias úteis, nos termos do art. 1.003, § 3º, c/c o art. 219, caput, do CPC/2015.
+3. Na hipótese, o acórdão recorrido foi publicado no Diário de Justiça Eletrônico em 13/10/2017, tendo início o prazo para interposição do recurso especial no primeiro dia útil subseqüente, ou seja, 16/10/2017, mostrando-se intempestivo o reclamo protocolado somente em 27/11/2017.
+4. A interposição de agravo interno contra acórdão na origem, porquanto manifestamente incabível, não interrompe o prazo para a interposição do recurso especial.
+5. Impossibilidade de aplicação do princípio da fungibilidade recursal por consistir em erro grosseiro. Precedentes do STJ.
+6. Agravo interno nos embargos de declaração no agravo em recurso especial não provido.
+(AgInt nos EDcl no AREsp n. 1.400.062/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/10/2019, DJe de 16/10/2019, sem grifos no original.)
+PROCESSUAL CIVIL. INTERPOSIÇÃO DE AGRAVO INTERNO CONTRA O ACÓRDÃO RECORRIDO. RECURSO MANIFESTAMENTE INCABÍVEL. PRAZO RECURSAL NÃO INTERROMPIDO. APELO NOBRE. INTEMPESTIVIDADE.
+1. A interposição de recurso manifestamente inadmissível não interrompe o prazo recursal. Precedentes.
+2. A tempestividade do recurso especial é matéria inerente ao exame de sua admissibilidade, devendo ser conhecida de ofício pelo relator, não comportando a aplicação da tese de preclusão deduzida pelo agravante, notadamente no caso dos autos, em que a parte adversa falou acerca do não cabimento do recurso manejado na origem na primeira oportunidade que surgiu no processo, por ocasião do oferecimento das contrarrazões, já que, antes disso, por não ostentar a situação de vencida na lide, não tinha interesse de se pronunciar.
+3. Hipótese em que, contra o acórdão que julgou o agravo de instrumento, o recorrente interpôs agravo interno, recurso manifestamente incabível contra decisão colegiada, sendo inviável aplicar o princípio da fungibilidade para recebê-lo como embargos de declaração, por representar erro grosseiro. Precedentes.
+4. Interposto o recurso especial seis meses depois de a recorrente ter ciência do julgamento colegiado do agravo de instrumento, é de se reconhecer a intempestividade do apelo nobre.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 731.758/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/6/2017, DJe de 10/8/2017, sem grifos no original.)
+Assim, é manifesta a intempestividade do recurso segundo disposição contida no art. 1.003, § 5º, c/c os arts. 994, VI, 219 e 224, todos do Código de Processo Civil (CPC).
+Por fim, registro que é firme o entendimento nesta Corte segundo o qual o juízo de admissibilidade do recurso especial realizado na origem não vincula esta Corte.
+A propósito, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/2015. INTEMPESTIVIDADE. ADMISSIBILIDADE DO RECURSO ESPECIAL. SISTEMA BIFÁSICO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+III. No caso, a parte recorrente foi intimada do acórdão recorrido em 04/05/2020, segunda-feira, iniciando-se a contagem do prazo recursal em 05/05/2020, terça-feira, sendo o Recurso Especial interposto somente em 26/05/2020, terça-feira, após o transcurso do prazo recursal de 15 dias úteis.
+IV. Segundo entendimento desta Corte, a certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito, pelo STJ. Nesse sentido: STJ, AgRg no REsp 770.786/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 08/03/2010; AgRg no AREsp 703.592/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/08/2015.
+V. Agravo interno improvido.
+(AgInt no AREsp n. 1.752.536/MT, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/3/2022, DJe de 30/3/2022, sem grifos no original.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. JUÍZO PRÉVIO DE ADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. NÃO VINCULAÇÃO A ESTA CORTE. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO NA ORIGEM. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ART. 85, § 8º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 282/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - É pacífica a jurisprudência do Superior Tribunal de Justiça segundo a qual o juízo prévio de admissibilidade do recurso especial realizado na instância de origem não vincula esta Corte.
+ ..
+VI - Agravo Interno desprovido.
+(AgInt no REsp n. 1.963.131/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/2/2022, DJe de 17/2/2022, sem grifos no original.)
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
