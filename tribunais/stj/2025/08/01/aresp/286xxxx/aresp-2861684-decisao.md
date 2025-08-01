@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARIA CRISTINA BITTAR BERNARDINO DA COSTA, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/12/2024.
+Concluso ao gabinete em: 4/4/2025.
+Ação: de execução de título extrajudicial, ajuizada por IVONE SUBTIL DE OLIVEIRA CASTRO, em face da agravante.
+Decisão interlocutória: julgou parcialmente procedente a impugnação ao cumprimento de sentença (e-STJ fls. 1006-1008).
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela agravada, nos termos da seguinte ementa (e-STJ fls. 74-85):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. NECESSIDADE LIQUIDAÇÃO. EXTINÇÃO CUMPRIMENTO DE SENTENÇA. INEXIGIBILIDADE DO TÍTULO EXECUTIVO. RENÚNCIA. INTERPRETAÇÃO EXTENSIVA. INCORRÊNCIA. DATA DE VENCIMENTO. HONORÁRIOS ADVOCATÍCIOS. ACOLHIMENTO IMPUGNAÇÃO. I - Verificado pelo magistrado a ausência dos parâmetros necessários à elaboração dos cálculos do débito exequendo, incumbe a ele, na condição de dirigente processual, suprir a lacuna existente em sentença e traçar as diretrizes, independentemente de prévio requerimento das partes, o que não configura decisão ultra petita. II - A instauração da fase de liquidação se revela desnecessária, quando a apuração do valor do débito exequendo depende de meros cálculos aritméticos, sobretudo porque a decisão agravada tão somente definiu os critérios de atualização dos valores devidos e termo inicial dos juros de mora. III - É cediço que o processo de execução necessita da existência de título revestido dos requisitos de certeza, exigibilidade e liquidez, sendo certo que a ausência de qualquer desses elementos leva à nulidade da execução e, consequentemente, à sua extinção. IV - Nos termos do acordo entabulado entre as partes, os honorários serão devidos finda a partilha dos bens ou, em havendo acordo, com a celebração do respectivo. V. Considerando-se que restou comprovado que houve um acordo entre os herdeiros, no momento em que perfectibilizada a renúncia de todos à herança, para dar fim ao processo de inventário, não há se falar em inexigibilidade do título, porquanto os honorários passaram a ser devidos a partir do "acordo", ainda que informal. VI - Inexiste interpretação extensiva do instituto da renúncia, porquanto essa foi considerada apenas como consequência e marco temporal do acordo informal firmado entre as partes. VII- A jurisprudência do Superior Tribunal de Justiça, firmada no julgamento do R Esp nº 1.134.186/RS sob o rito dos recursos repetitivos, estabelece que no caso de acolhimento da impugnação do cumprimento de sentença, ainda que parcial, é cabível o arbitramento de honorários advocatícios em benefício do executado. AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO.
+Recurso especial: alega violação dos arts. 409, caput, I e II, §2º, e 523, do CPC.
+Requer que seja declarada a improcedência do cumprimento de sentença, considerada a iliquidez do título e que a apuração do valor não depende exclusivamente de simples cálculos aritméticos (e-STJ fls. 89-102).
+É O RELATÓRIO. DECIDO.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da desnecessidade de liquidação, considerado que a apuração do valor do débito dependeria de meros cálculos aritméticos, bem como que apenas houve a definição dos critérios de atualização e termo inicial dos juros de mora, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de execução de título extrajudicial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo em recurso especial conhecido. Recurso especial não conhecido.
