@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por RAFAEL PRATES DE SOUZA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1503690-64.2022.8.26.0495 (fls. 282/288).
+No recurso especial, o agravante requer o reconhecimento do tráfico privilegiado, apontando a violação do art. 33, § 4º, da Lei n. 11.343/2006, ao argumento da insuficiência de prova que comprove a sua dedicação a atividades criminosas, bem como a violação do art. 119 do Código de Processo Penal, rogando a restituição do bem apreendido ao seu legítimo proprietário (fls. 295/305).
+O Tribunal de origem não admitiu o recurso com suporte no óbice das Súmulas 7/STJ e 283/STF (fls. 337/338).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para não conhecer do recurso especial (fls. 442/445).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Todavia, idônea a incidência das Súmulas 7/STJ e 283/STF ao caso.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando referidos óbices, porquanto a parte agravante deixou de impugnar especificamente todos os fundamentos da decisão recorrida, o que impede o seu conhecimento, por ausência de requisito de admissibilidade.
+Ademais, quando a insurgência para o alcance do benefício do tráfico privilegiado, ao argumento da ausência de provas para o reconhecimento da sua dedicação a atividades criminosas, tem-se que, para desconstituir a fundamentação do acórdão atacado, seria mesmo necessário o revolvimento probatório, vedado pela Súmula 7 /STJ.
+Por outro lado, o recorrente deixou de impugnar a fundamentação do Tribunal de origem, no sentido de que é incabível a restituição do veículo antes do encerramento da instrução processual, por não existir prova inequívoca de que ele não estava sendo usado para a prática delitiva, argumento que, de fato, revela-se autônomo e suficiente para manter o que fora decidido. Em sua minuta, no entanto, o agravante cinge-se a rebater genericamente o óbice sumular apontado, que seu genitor é o real proprietário do veículo, devendo ser a ele restituído (fl. 346).
+Destarte, há de se reconhecer, portanto, o óbice da Súmula 7/STJ, no sentido de que a modificação da decisão disposta no acórdão atacado ensejaria o revolvimento fático-probatório e o óbice da Súmula 283/STF, sendo inadmissível o recurso extraordinário quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, também aplicado por analogia em sede de recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (5.060,00 G DE MACONHA, 600 G DE CRACK E 3.400,00 G DE COCAÍNA). PLEITO PARA RECONHECIMENTO DE TRÁFICO PRIVILEGIADO. TESE DE INSUFICIÊNCIA DE PROVAS QUE ATESTE DEDICAÇÃO CRIMINOSA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. VIOLAÇÃO DO ART. 119 DO CPP. PLEITO DE RESTITUIÇÃO DE VEÍCULO APREENDIDO. RECURSO ESPECIAL QUE NÃO IMPUGNOU FUNDAMENTO AUTÔNOMO. INCIDÊNCIA DAS SÚMULAS 7/STJ E 283/STF.
+Agravo conhecido para não conhecer do recurso especial.
