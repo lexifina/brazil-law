@@ -1,0 +1,16 @@
+DECISÃO
+EZEQUIAS BATISTA DA SILVA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas (Apelação Criminal n. 0700176-16.2022.8.02.0072).
+Consta dos autos que o recorrente foi condenado à pena de 7 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática dos crimes de tráfico de drogas e de porte ilegal de arma de fogo de uso permitido.
+Nas razões do recurso especial, a defesa aponta violação do art. 33, § 4º, da Lei n. 11.343/2006 e requer, em síntese, a aplicação do redutor previsto nesse dispositivo legal.
+Decisão de admissibilidade às fls. 315-316.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (AgRg no AgRg no AREsp n. 2.458.375/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/11/2023).
+No caso, a instância de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+Para tanto, salientou a Corte estadual que "não merece acolhida o pleito para reconhecimento da figura privilegiada do delito, nos termos do art. 33, §4º, da Lei nº 11.343/2006, considerando o contexto flagrancial em que detido o recorrente, na posse de objetos que indicam traficância, como dinheiro, embalagens, triturador e balança de precisão, assim como de uma significativa quantidade de droga (263 g de maconha), pronta para comercialização" (fl. 291).
+Com efeito, consta do acórdão recorrido que, "além de ter empreendido atitude suspeita ao tentar fugir quando avistou os policiais, o apelante foi encontrado em circunstâncias de traficância, vez que, como consta no auto de exibição e apreensão (pág. 9), ele estava com uma arma, uma balança de precisão, embalagens plásticas, dinheiro (cento e trinta e nove reais), triturador de drogas e uma quantidade de 263g de maconha, atestada em laudo pericial" (fl. 291).
+Assim, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que o acusado não se dedicaria a atividades delituosas e/ou integrante de organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como é cediço, vedada em recurso especial, a teor do enunciado na Súmula n. 7 do STJ.
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
