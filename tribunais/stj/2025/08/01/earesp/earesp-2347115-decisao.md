@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por PEDRO AFFONSO FERREIRA DENENO contra o acórdão da Terceira Turma assim ementado (fl. 351):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA N. 284/STF.
+1. A ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência, por analogia, da Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Precedentes.
+2. A jurisprudência desta corte orienta-se no sentido de que a falta de particularização do dispositivo de lei federal a que os acórdãos recorrido e paradigma tenham dado interpretação discrepante constitui óbice ao exame do recurso especial fundado no permissivo constitucional da alínea "c". Inteligência da Súmula n. 284 do Supremo Tribunal Federal. Agravo interno improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 389-394).
+Aduz a parte embargante que há divergência com acórdãos paradigma da Quarta Turma (AgInt no REsp n. 1.552.880/SP e AgInt no AREsp n. 2.159.270/MT) relativamente à tese de não incidência da Súmula n. 7 do STJ quanto à verificação da ocorrência ou não de fraude à execução e relativamente à tese de que a simples existência de ação em curso no momento da alienação do bem não é suficiente para ilidir a presunção de boa-fé do terceiro adquirente, sendo necessário que se prove a má-fé pelo adquirente, especialmente nas hipóteses em que não haja penhora anteriormente registrada.
+É o relatório. Decido.
+Aduz o embargante que há divergência entre a decisão embargada e acórdão paradigma da Quarta Turma (AgInt no AREsp n. 2.159.270/MT) quanto à tese de que o reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente (Súmula n. 375 do STJ).
+Ocorre que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 7 do STJ.
+Tal situação impede, por si só, que se conheça desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter havido análise do mérito do recurso especial com base na Súmula n. 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido, a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EDcl nos EDv nos EREsp n. 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020.
+Ademais, os embargos não podem ter trânsito, porquanto não há similitude entre os arestos confrontados.
+Note-se que o acórdão embargado concluiu pela incidência da Súmula n. 7 do STJ, pois, para rever o entendimento adotado na origem acerca da não ocorrência de fraude à execução e da comprovação da boa-fé do embargante, seria necessário o reexame fático-probatório dos autos, medida vedada em recurso especial.
+Já o acórdão paradigma (AgInt no REsp n. 1.552.880/SP) versa sobre hipótese em que, a despeito de ter sido afastada a aplicação da Súmula n. 7 do STJ, reconheceu-se que não havia comprovação de ciência da parte compradora de que tramitava, ao tempo da aquisição, processo de execução em desfavor do vendedor que poderia reduzi-lo à insolvência.
+Verifica-se que os arestos confrontados analisaram contextos fáticos totalmente distintos e cercados de peculiaridades próprias.
+Para que se viabilizem os embargos de divergência, é necessária a demonstração da similitude das circunstâncias fáticas em face das quais se deu o julgamento e de soluções jurídicas diversas.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem , os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
