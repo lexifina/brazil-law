@@ -1,0 +1,15 @@
+DECISÃO
+FÁBIO DIAS DOS SANTOS opõe embargos de declaração contra a decisão de fls. 3.855-3.857, na qual não conheci do agravo em recurso especial interposto contra o acórdão do Tribunal Regional Federal da 3ª Região.
+O embargante alega que a decisão foi omissa ao deixar de analisar adequadamente a contraposição realizada aos fundamentos da decisão monocrática que inadmitiu o recurso especial. Alega que, diferentemente do afirmado na decisão embargada, os termos das decisões responsáveis por não conhecer dos recursos foram devidamente contrapostos no agravo em recurso especial, em conformidade com as exigências da Súmula n. 182 do STJ.
+Requer sejam acolhidos os embargos declaratórios para sanar a omissão demonstrada, atribuindo, caso se entenda pertinente, efeitos modificativos ao julgado.
+Decido.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Na hipótese, considero que a irresignação da embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+A alegada omissão não se verifica. A decisão embargada analisou detidamente os requisitos de admissibilidade do agravo em recurso especial e fundamentou adequadamente o não conhecimento do recurso. Verificou-se que os demais pontos suscitados no recurso especial  redução da pena-base aplicada pelo crime de tráfico de drogas para o mínimo legal, limitação do aumento em razão da quantidade de entorpecentes apreendidos à fração de 1/6, bem como análise dos laudos técnicos elaborados e apresentados por corréus  não foram objeto de impugnação específica no agravo.
+A Súmula 182 do STJ estabelece que "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". No caso, a decisão embargada examinou precisamente esse aspecto e concluiu pela ausência de contraposição específica aos fundamentos denegatórios, o que inviabilizou o conhecimento do recurso.
+Com efeito, a decisão não padece de qualquer vício que justifique sua complementação ou modificação. Todas as questões relevantes foram adequadamente enfrentadas, não existindo omissão, contradição ou obscuridade a ser sanada. O embargante pretende, na realidade, o reexame do mérito da decisão, o que não se coaduna com a natureza dos embargos declaratórios.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
