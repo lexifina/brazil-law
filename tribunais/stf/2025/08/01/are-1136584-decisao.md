@@ -1,0 +1,27 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+
+    APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO. CAPITALIZAÇÃO DE JUROS. TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. PREVISÃO CONTRATUAL QUE POSSIBILITA SUA COBRANÇA. RESP N° 973.827-RS. SÚMULA 539 DO STJ. APLICABILIDADE DO CDC E EXPURGO DA COBRANÇA DE COMISSÃO DE PERMANÊNCIA C/C DEMAIS ENCARGOS. AUSÊNCIA DE INTERESSE RECURSAL. TAXAS/TARIFAS. RAZÕES RECURSAIS GENÉRICAS. AUSÊNCIA DE INDICAÇÃO DA ALEGADA ABUSIVIDADE. VEDAÇÃO DE CONHECIMENTO DE OFÍCIO, CONSOANTE SÚMULA 381 DO STJ. CLÁUSULA AUTORIZANDO A COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS. ABUSIVIDADE. ART. 51, XII, DO CDC. AFASTADA COM EFEITO MERAMENTE DECLARATÓRIO, EM RAZÃO DA AUSÊNCIA DE PROVA DA RESPECTIVA COBRANÇA. MATÉRIA PREQUESTIONADA. SENTENÇA REFORMADA EM PARTE. RECURSO DE APELAÇÃO CONHECIDO PARCIALMENTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO (doc. 3, p. 17).
+
+    Os recorrentes, fundados no art. 102, III, a, da Constituição Federal, alegam, em suma, a inconstitucionalidade do art. 5° da Medida Provisória 2.170-36/2001, que autoriza a capitalização de juros em periodicidade inferior a um ano pelas instituições financeiras.
+
+    Em 14/3/2022, o Ministro Ricardo Lewandowski, então relator, determinou o sobrestamento destes autos no Juízo de origem até o exame da ADI 2.316/DF, que trata da mesma matéria ora em análise. Em razão do julgamento definitivo da referida ação direta de inconstitucionalidade, este processo foi remetido a esta Suprema Corte para apreciação do recurso extraordinário.
+
+    É o relatório. Decido.
+
+    A pretensão recursal não merece acolhida.
+
+    Isso porque o acórdão recorrido está em consonância com o entendimento do Supremo Tribunal Federal firmado no julgamento da ADI 2.316/DF, da relatoria do Ministro Nunes Marques, ocasião em que foi declarada a constitucionalidade do art. 5° da Medida Provisória 2.170-36/2001 em acórdão assim ementado:
+
+    CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. JULGAMENTO DEFINITIVO. PREJUÍZO DO EXAME DA MEDIDA CAUTELAR. CELERIDADE E ECONOMIA PROCESSUAIS. MEDIDA PROVISÓRIA N. 2.170-36/2001, ART. 5º. CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO, JUROS SOBRE JUROS OU ANATOCISMO. INCOMPETÊNCIA DO PODER JUDICIÁRIO PARA SINDICAR OS PRESSUPOSTOS DE RELEVÂNCIA E URGÊNCIA NA EDIÇÃO DE MEDIDA PROVISÓRIA. DESVIO DE FINALIDADE OU ABUSO DO PODER POLÍTICO DO PRESIDENTE DA REPÚBLICA. INEXISTÊNCIA. PREVISÃO DE LEI COMPLEMENTAR LIMITADA À ESTRUTURA DO SISTEMA FINANCEIRO NACIONAL, E NÃO A NEGÓCIOS JURÍDICOS CELEBRADOS ENTRE AS INSTITUIÇÕES INTEGRANTES E SEUS CLIENTES (CF, ART. 192). LEGISLAÇÃO INFRACONSTITUCIONAL NÃO REVESTIDA DE PARAMETRICIDADE EM SEDE DE CONTROLE ABSTRATO (LINDB, ART. 2º). MATÉRIA ESTRANHA AO OBJETO DO DIPLOMA LEGISLATIVO. ATECNIA. AUSÊNCIA DE VIOLAÇÃO AO TEXTO CONSTITUCIONAL. INOCORRÊNCIA DE NULIDADE DA NORMA, POR FORÇA DO ART. 18 DA LEI COMPLEMENTAR N. 95/1998. 1. Transcorridos 23 anos desde o ajuizamento da ação e aparelhado o processo para análise definitiva da controvérsia – presentes as informações, a manifestação da Advocacia-Geral da União e o parecer da Procuradoria-Geral da República –, não subsiste utilidade em ultimar o exame da medida cautelar iniciado. Em observância dos imperativos constitucionais da celeridade e economia processuais, cumpre providenciar-se a apreciação do mérito. Precedentes. 2. O Poder Judiciário deve abster-se de emitir juízo sobre a presença dos pressupostos de relevância e urgência na edição de medida provisória (CF, art. 62, caput), limitando-se a fazê-lo nas hipóteses marcadas por desvio de finalidade ou por abuso do poder político do Chefe do Executivo, o que não ocorre na espécie. 3. A regulação por meio de lei complementar prevista no art. 192 da Constituição Federal se refere à estrutura do Sistema Financeiro Nacional (SFN), e não aos negócios jurídicos celebrados nesse ambiente. Aludida exigência formal não se aplica, portanto, à periodicidade de capitalização dos juros contratados nos empréstimos concedidos pelas instituições integrantes do SFN. 4. A norma do art. 4º da Decreto n. 22.626/1933, por ter estatura infraconstitucional, expõe-se sem maior dificuldade a supervenientes modificações ou revogações (LINDB, art. 2º). As leis posteriores que assim fizeram não são, apenas por isso, incompatíveis com a Constituição Federal. 5. Eventual discrepância entre certa norma e o objeto do diploma legislativo que a abriga revela atecnia insuficiente para provocar nulidade, nos termos do art. 18 da Lei Complementar n. 95/1998, não havendo falar em violação à Carta da República. 6. Para que a declaração de constitucionalidade de uma norma alcance eficácia erga omnes e efeitos vinculantes, inclusive em face dos órgãos da Administração Pública, é necessário que o pronunciamento ocorra em sede de controle abstrato. 7. Pedido julgado improcedente, para declarar a constitucionalidade do art. 5º da Medida Provisória n. 2.170-36/2001, ficando prejudicado o exame da medida cautelar (Tribunal Pleno, DJe 22/8/2024).
+
+    No mesmo sentido, cito ainda as seguintes decisões: ARE 1.550.609/RN, Rel. Min. Cármen Lúcia, DJe 2/6/2025; ARE 1.545.087/GO, Rel. Min. Nunes Marques, DJe 24/4/2025; e ARE 1.524.238/MA, Rel. Min. Dias Toffoli, DJe 18/11/2024.
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 1º de agosto de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
