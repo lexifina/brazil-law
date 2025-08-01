@@ -1,0 +1,107 @@
+RECLAMAÇÃO. CONSTITUCIONAL. PREVIDENCIÁRIO. AGENTE PÚBLICO NÃO REMUNERADO PELOS COFRES PÚBLICOS. PENSÃO POR MORTE. ALEGAÇÃO DE AFRONTA AO ACÓRDÃO DO PLENÁRIO DO STF PROFERIDO NO JULGAMENTO DA ADI 4.639. OCORRÊNCIA. MODULAÇÃO DOS EFEITOS QUE NÃO ALCANÇA O CASO CONCRETO. ÓBITO DO INSTITUIDOR DA PENSÃO POSTERIOR AO MARCO TEMPORAL. RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+
+    DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Estado de Goiás contra decisão da 4ª Turma Recursal dos Juizados Especiais de Goiás, nos autos do Processo nº 5720435-15.2022.8.09.0051, sob a alegação de inobservância da decisão vinculante proferida pelo Plenário deste Supremo Tribunal Federal no julgamento da ADI 4.639.
+
+    Em síntese, sustenta a reclamante que o a autoridade reclamada concedeu pensão por morte à ora beneficiária, com base na Lei Estadual nº 15.150/2005 do Estado de Goiás, a qual foi declarada inconstitucional pelo Supremo Tribunal Federal no julgamento da ADI 4.639.
+
+    Afirma que no referido julgamento houve modulação dos efeitos da decisão, para preservar o direito daqueles que já detinham todos os requisitos para aposentadoria ou pensão até a data de publicação da ata de julgamento, em 08/04/2015.
+
+    Sustenta que, no caso concreto, o óbito do instituidor da pensão ocorreu apenas em 10/01/2022, “quase sete anos após o marco temporal estabelecido pelo STF no julgamento da ADI 4.639/GO” (doc. 1, p.2). Alega que, ao conceder o benefício da pensão por morte, o juízo reclamado conferiu interpretação equivocada à decisão desta Suprema Corte, “ao equiparar direito adquirido à aposentadoria (constituído em 1998) com expectativa de direito à pensão por morte (dependente do evento futuro do óbito)” (doc. 1, p. 4).
+
+    Argumenta, ainda, que, conforme o princípio tempus regit actum, as regras aplicáveis para a concessão da pensão por morte são aquelas vigentes à época do óbito do instituidor da pensão, sendo que em 10/01/22 inexistia lei válida a amparar a pretensão da autora, haja vista que a Lei Estadual 15.150/2005 foi declarada inconstitucional em abril de 2015.
+
+    Requer, liminarmente, a suspensão dos efeitos do acórdão reclamado. No mérito, pugna pela procedência da reclamação, para cassar o acórdão proferido nos autos do Processo nº 5720435- 15.2022.8.09.0051, “DETERMINANDO à 4ª Turma Recursal que profira nova decisão em estrita conformidade com a jurisprudência do STF, e REAFIRMANDO que a modulação de efeitos da ADI 4.639/GO NÃO se aplica aos casos em que o óbito do instituidor ocorreu após 08 de abril de 2015” (doc. 1, p. 5)
+
+    Devidamente citada, a parte beneficiária apresentou contestação, alegando, em síntese, que, ainda que o óbito tenha ocorrido após a publicação da decisão na ADI 4.639, o de cujus já teria preenchido os requisitos para a obtenção da aposentadoria em 07/04/1998, “razão pela qual faz ela jus ao pensionamento por morte, uma vez que esse benefício possui relação de dependência com a aposentadoria que lhe dá fundamento” (doc. 11, p. 2).
+
+    A Procuradoria-Geral da República se manifestou pela procedência da reclamação, em parecer que porta a seguinte ementa, in verbis:
+
+    “RECLAMAÇÃO CONSTITUCIONAL. DIREITO PREVIDENCIÁRIO. ADI 4639/GO. MODULAÇÃO DOS EFEITOS. DECISÃO QUE CONCEDEU PENSÃO POR MORTE A CÔNJUGE DE SEGURADO OCORRIDA APÓS A DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI ESTADUAL Nº 15.150/05. - Parecer pela procedência da Reclamação.”
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido.” (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022 - grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento.” (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022 - grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento.” (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022 - grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de ofensa ao que decidido pelo Plenário do Supremo Tribunal Federal no julgamento da ADI 4.639, Rel. Min. Teori Zavascki, que porta a seguinte ementa:
+
+    “PREVIDENCIÁRIO E CONSTITUCIONAL. LEI 15.150/05, DO ESTADO DE GOIÁS. CRIAÇÃO DE REGIME DE PREVIDÊNCIA ALTERNATIVO EM BENEFÍCIO DE CATEGORIAS DE AGENTES PÚBLICOS NÃO REMUNERADOS PELOS COFRES PÚBLICOS. INADMISSIBILIDADE. CONTRASTE COM OS MODELOS DE PREVIDÊNCIA PREVISTOS NOS ARTS. 40 (RPPS) E 201 (RGPS) DA CF.
+
+    1. A Lei estadual 15.150/05 estabeleceu regime previdenciário específico para três classes de agentes colaboradores do Estado de Goiás, a saber: (a) os delegatários de serviço notarial e registral, que tiveram seus direitos assegurados pelo art. 51 da Lei federal 8.935, de 18 de novembro de 1994; (b) os serventuários do foro judicial, admitidos antes da vigência da Lei federal 8.935, de 18 de novembro de 1994; e (c) os antigos segurados facultativos com contribuição em dobro, filiados ao regime próprio de previdência estadual antes da publicação da Lei 12.964, de 19 de novembro de 1996.
+
+    2. No julgamento da ADI 3106, Rel. Min. Eros Grau, DJe de 29/9/10, o Plenário invalidou norma que autorizava Estado-membro a criar sistema previdenciário especial para amparar agentes públicos não efetivos, por entender que, além de atentatória ao conteúdo do art. 40, § 13, da Constituição Federal, tal medida estaria além da competência legislativa garantida ao ente federativo pelo art. 24, XII, do texto constitucional.
+
+    3. Presente situação análoga, é irrecusável a conclusão de que, ao criar, no Estado de Goiás, um modelo de previdência extravagante – destinado a beneficiar agentes não remunerados pelos cofres públicos, cujo formato não é compatível com os fundamentos constitucionais do RPPS (art. 40), do RGPS (art. 201) e nem mesmo da previdência complementar (art. 202) – o poder legislativo local desviou-se do desenho institucional que deveria observar e, além disso, incorreu em episódio de usurpação de competência, atuando para além do que lhe cabia nos termos do art. 24, XII, da CF, o que resulta na invalidade de todo o conteúdo da Lei 15.150/05.
+
+    4. Ação direta de inconstitucionalidade julgada procedente, com modulação de efeitos, para declarar a inconstitucionalidade integral da Lei 15.150/2005, do Estado de Goiás, ressalvados os direitos dos agentes que, até a data da publicação da ata deste julgamento, já houvessem reunido os requisitos necessários para obter os correspondentes benefícios de aposentadoria ou pensão.” (ADI 4.639, Rel. Min. Teori Zavascki, Tribunal Pleno, DJe de 08/04/2015, grifei)
+
+    Na ocasião, o Plenário desta Corte, ao julgar procedente a ação, declarou a inconstitucionalidade da Lei 15.150/2005 do Estado de Goiás e conferiu efeito ex nunc a essa declaração no sentido de garantir os direitos dos agentes que, até a data da publicação do acórdão (08/04/2015), já tivessem preenchido os requisitos necessários para a obtenção dos benefícios de aposentadoria ou pensão.
+
+    Nesse cenário, o cotejo analítico entre a decisão reclamada e o paradigma invocado revela ter havido a inobservância da autoridade da decisão deste Supremo Tribunal Federal. Isso porque, no caso sub examine, embora tivesse preenchido os requisitos para a aposentadoria desde 07/04/1998, o instituidor da pensão em questão faleceu em 10/01/2022, posteriormente à publicação da ata de julgamento da Ação Direta de Inconstitucionalidade 4.639, ocorrida em 08/04/2015, conforme se verifica da leitura da ementa do acórdão ora reclamado, in verbis (doc. 2, p. 285-286):
+
+    “EMENTA: RECURSO INOMINADO. AÇÃO PREVIDENCIÁRIA PARA CONCESSÃO DE PENSÃO POR MORTE. AUTORA DEPENDENTE DE PARTICIPANTE DO SERVIÇO NOTARIAL E REGISTRAL. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI N° 15.150/2005 NA ADI 4.639. MODULAÇÃO DOS EFEITOS DA DECISÃO. SENTENÇA MANTIDA.
+
+    1. Trata-se de recurso interposto pelo Estado de Goiás em face da sentença proferida pelo juízo do 1º Juízo do Núcleo de Justiça 4.especializado em matéria de Juizado Especial da Fazenda Pública da Comarca de Goiânia que condenou o ente público a conceder, de forma definitiva, o benefício de pensão por morte à autora, bem como pagar as parcelas retroativas vencidas, desde a data do requerimento administrativo, observada a prescrição e o teto dos juizados fazendários.
+
+    2. O recorrente impugna o mérito da decisão por considerar que a modulação de efeitos na ADI n° 4.639/GO apenas ressalvou os benefícios já concedidos até a data da ata da publicação de seu julgamento (26/03/2015). Dessa forma, como o óbito ocorreu apenas em 2022, defende a negativa do benefício previdenciário requerido, utilizando fundamentos de direito privado, como a Súmula 340 do STJ.
+
+    3. O Supremo Tribunal Federal, quando do julgamento da ADI n° 4.639, reconheceu a inconstitucionalidade integral da Lei Estadual nº 15150/2005. No entanto, seus efeitos foram modulados, ressalvando os direitos dos agentes que, até a data da publicação da decisão, já houvessem reunido os requisitos necessários para obter os benefícios da aposentadoria ou pensão.
+
+    4. Ainda que o óbito do cônjuge da impetrante tenha ocorrido após a publicação da decisão na ADI nº 4.639, o de cujus já havia preenchido os requisitos para a obtenção do benefício de aposentadoria (07/04/1998). Consequentemente, a autora faz jus ao pensionamento por morte, uma vez que esse benefício possui relação de dependência com a aposentadoria que lhe dá fundamento
+
+    5. O benefício de pensão por morte possui estreita relação de dependência com a aposentadoria que lhe confere fundamento e, uma vez que a aposentadoria se encaixa na modulação dos efeitos operada pelo Supremo Tribunal Federal, a mesma condição deve ser conferida ao benefício da pensão que lhe é consequente (relação de continuidade). Neste sentido, dispõe o art. 8º da Lei 15.150/2005, que a pensão por morte é devida para os dependentes dos participantes dos serviços notarial e registral.
+
+    6. Precedentes do Egrégio Tribunal de Justiça de Goiás (TJGO, Apelação/Remessa Necessária 5279236-09.2019.8.09.0011, Rel. Dr. Altamiro Garcia Filho, 3ª Câmara Cível, DJe de 12/12/2022; TJGO, Apelação Cível 5218976-83.2020.8.09.0090, Rel. Des. Kisleu Dias Maciel Filho, 5ª Câmara Cível, DJe de 21/11/2022;TJGO, PROCESSO CÍVEL E DO TRABALHO- Recursos - Apelação / Remessa Necessária 5566048-86.2018.8.09.0017, Rel. Dr. Leobino Valente Chaves, 2ª Câmara Cível, julgado em 18/08/2022, DJe de 18/08/2022).
+
+    7. RECURSO CONHECIDO E DESPROVIDO, mantendo-se a íntegra a decisão recorrida.
+
+    8. Fica o recorrente ao pagamento de honorários advocatícios sucumbenciais, devendo a verba honorária ser fixada pelo juízo a quo após a liquidação da sentença, com observância do artigo 85, §3º, do Código de Processo Civil, tudo conforme o artigo 55 da Lei n. 9.099/95, artigo 85, §4º, II, do CPC e artigo 27 da Lei n. 12.153/09. Sem custas.” (grifei)
+
+    Destarte, uma vez que as regras aplicáveis para a concessão de pensão por morte são aquelas vigentes à época do óbito do instituidor, tem-se que a modulação de efeitos fixada no julgamento da Ação Direta de Inconstitucionalidade 4.639 não se aplica à espécie. Nesse sentido foram, à guisa de exemplo, os seguintes acórdãos proferidos por ambas as Turmas e pelo Plenário desta Suprema Corte:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. PREVIDENCIÁRIO. SERVENTUÁRIO DE JUSTIÇA NÃO REMUNERADO PELOS COFRES PÚBLICOS. PENSÃO POR MORTE. AÇÃO DIRETA DE INCONSTITUCIONALIDADE 4.639. LEI 15.150/2005 DO ESTADO DE GOIÁS DECLARADA INCONSTITUCIONAL COM MODULAÇÃO DOS EFEITOS PARA RESSALVAR OS DIREITOS DOS AGENTES QUE, ATÉ A DATA DA PUBLICAÇÃO DA ATA DESSE JULGAMENTO, JÁ HOUVESSEM REUNIDO OS REQUISITOS NECESSÁRIOS PARA OBTER OS CORRESPONDENTES BENEFÍCIOS DE APOSENTADORIA OU PENSÃO. CASO CONCRETO EM QUE O ÓBITO DO INSTITUIDOR DA PENSÃO OCORREU EM DATA POSTERIOR AO DIA 8 DE ABRIL DE 2015. INAPLICABILIDADE DA MODULAÇÃO DOS EFEITOS À ESPÉCIE. AGRAVO INTERNO DESPROVIDO." (ARE 1.530.768, Rel. Min. Luiz Fux, Primeira Turma, DJe de 27/03/2025, grifei)
+
+    “DIREITO PREVIDENCIÁRIO. PENSÃO POR MORTE. INCONSTITUCIONALIDADE DA LEI Nº 15.150/2005 DE GOIÁS. ADI Nº 4.639. MODULAÇÃO DE EFEITOS INAPLICÁVEL AO CASO CONCRETO. REGÊNCIA DA LEI VIGENTE AO TEMPO DO ÓBITO DO INSTITUIDOR DA PENSÃO. ACÓRDÃO NÃO ALINHADO COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. AGRAVO NÃO PROVIDO.
+
+    1. O entendimento acolhido no acórdão impugnado não está alinhado à jurisprudência desta Suprema Corte, no sentido de que as pensões por morte regem-se pela legislação vigente ao tempo em que ocorreu o óbito do instituidor do benefício. Depreende-se dos autos que o óbito do instituidor do benefício, fato gerador da pensão por morte, ocorreu em 19 de julho de 2021, o que afasta a incidência da modulação dos efeitos fixada no julgamento da ADI 4.639. Precedentes.
+
+    2. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    3. Agravo interno conhecido e não provido.” (ARE 1.508.656-AgR, Rel. Min Flávio Dino, Primeira Turma, DJe de 19/12/2024, grifei)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. PENSÃO POR MORTE. INCONSTITUCIONALIDADE DA LEI N. 15.150/2005 DE GOIÁS. ADI 4.639/15. MODULAÇÃO DE EFEITOS: INAPLICABILIDADE AO CASO CONCRETO. REGÊNCIA DA LEI VIGENTE AO TEMPO DO ÓBITO DO INSTITUIDOR DA PENSÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.151.103-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 11/09/2019, grifei)
+
+    “Embargos de divergência em agravo regimental em recurso extraordinário com agravo. Direito constitucional e previdenciário. Pensão por morte. Inconstitucionalidade da Lei nº 15.150/05 do Estado de Goiás. ADI nº 4.639/15. Modulação de efeitos. Inaplicabilidade ao caso concreto. Regência da lei vigente ao tempo do óbito do instituidor da pensão. Precedentes. Conhecimento e rejeição dos embargos de divergência.
+
+    1. O Plenário do Tribunal, no exame da ADI nº 4.639/GO, Rel. Min. Teori Zavascki, declarou a inconstitucionalidade da Lei nº 15.150/05 do Estado de Goiás e modulou os efeitos da decisão para ressalvar o direito dos agentes que, até a data da publicação da ata do julgamento, já houvessem reunido os requisitos necessários para obter os correspondentes benefícios de aposentadoria ou pensão.
+
+    2. O benefício previdenciário de pensão por morte rege-se pelas normas vigentes à data do óbito do instituidor do benefício.
+
+    3. Conforme incontroverso nos autos, o óbito do cônjuge da impetrante, fato gerador da pensão pleiteada, ocorreu em 19 de fevereiro de 2019, o que afasta a possibilidade de incidência das normas da Lei nº 15.150/05. Precedentes.
+
+    4. Conhecimento e rejeição dos embargos de divergência.” (ARE 1.410.079-AgR-EDv, Rel. Min. Dias Toffoli, Plenário, DJe de 06/03/2024, grifei)
+
+    Ex positis, com fundamento nos artigos 992 do CPC e 161 do RISTF, JULGO PROCEDENTE a presente reclamação para cassar o acórdão proferido pela 4ª Turma Recursal dos Juizados Especiais de Goiás, nos autos do Processo nº 5720435-15.2022.8.09.0051, e determinar que outro seja proferido, observando-se a jurisprudência vinculante deste Supremo Tribunal Federal sobre o tema.
+
+    Comunique-se esta decisão à autoridade reclamada.
+
+    Publique-se.
+
+    Brasília, 1º de agosto de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
