@@ -1,0 +1,16 @@
+DECISÃO
+ICOBIT IMPERMEABILIZANTES LTDA interpõe recurso em mandado de segurança contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem impetrada naquela Corte, na qual pretendia o insurgente fosse cassada a decisão de primeiro grau, que acolheu o pedido do Ministério Público e determinou o arquivamento de inquérito policial.
+Em suas razões, afirma o recorrente, com o objetivo de ver cassada a referida decisão, que há claro interesse de que os fatos ocorridos (possível crime de estelionato) sejam esclarecidos e que não foram realizadas diligências efetivas com o intuito de investigar os fatos.
+O Ministério Público Federal opinou pelo não provimento do recurso ordinário (fls. 373-381).
+Decido.
+Ao denegar o mandado de segurança impetrado na origem, o Tribunal de origem consignou o seguinte (fls. 336-337, destaquei):
+ ..
+No caso dos autos, o Ministério Público Estadual, fundamentadamente, concluiu que o inquérito policial deveria ser arquivado, diante da atipicidade da conduta, não estando evidenciada a ocorrência do crime de estelionato, mas, tão-somente, "um desacordo comercial, sem qualquer indício de crime, tornando-se passível de ser resolvido no juízo cível" (fls. 249/253).
+Diante disso, o MM. Juiz de Direito da Vara Criminal de Mogi Guaçu determinou o arquivamento do inquérito policial (fl. 255), o que ensejou pedido de revisão pela impetrante, mas a Procuradoria-Geral de Justiça, também fundamentadamente, reiterou a promoção de arquivamento (fls. 256/262), que, então, foi mantido pelo MM. Juiz, com a ressalva do disposto no artigo 18 do CPP (fl. 263).
+E o caso é mesmo de arquivamento, porque a análise do que consta dos autos corrobora a conclusão do Ministério Público, no sentido de ter havido apenas descumprimento contratual, que se resolve na esfera cível, não ilícito criminal, não se verificando ilegalidade ou teratologia na promoção de arquivamento nem na decisão que o determinou, donde nada justifica o pretendido prosseguimento da persecução penal.
+Em suma, sendo irrecusável a promoção de arquivamento deduzida pelo Ministério Público e reiterada pelo Procurador-Geral de Justiça, não há violação a direito líquido e certo da impetrante, de modo que a ordem deve ser denegada.
+Tal compreensão se harmoniza com a pacífica orientação desta Corte, segundo a qual "nos crimes de ação penal pública incondicionada, quando o próprio Ministério Público promover o arquivamento do procedimento investigatório, como na hipótese dos autos, é irrecorrível a decisão do Juiz que acolhe a manifestação ministerial" (AgRg no AREsp n. 1.049.105/DF, Rel. Ministro Rogerio Schietti, DJe 19/11/2018).
+Além disso, também é da jurisprudência deste Superior Tribunal que "é incabível mandado de segurança insurgindo-se contra decisão que determinou o arquivamento de inquérito policial (ou que indeferiu o desarquivamento), seja devido ao fato de ela não possuir natureza jurisdicional, seja devido ao fato de que o titular da ação penal pública incondicional é o Ministério Público" (AgRg nos EDcl no RMS n. 51.560/SC, Rel. Ministro Joel Ilan Paciornik , DJe 11/10/2018).
+À vista do exposto, com fundamento no art. 34, XVIII, "b", do RISTJ, nego provimento ao recurso em mandado de segurança.
+Publique-se e intimem-se.
+EMENTA
