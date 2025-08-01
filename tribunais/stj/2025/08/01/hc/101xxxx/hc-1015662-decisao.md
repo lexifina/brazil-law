@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DOUGLAS HENRIQUE OLIVEIRA SILVA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática das condutas previstas nos arts. 157, § 2º, II, c/c o § 2º-A, I, e 157, § 3º, II, do Código Penal.
+O impetrante pleiteia o trancamento da ação penal, afirmando que o paciente teria sido torturado por policiais e que a ação penal bem como a sua prisão preventiva estariam baseadas em uma confissão obtida mediante tortura, que seria uma prova ilícita.
+Requer, liminarmente e no mérito, o relaxamento da prisão imposta ou, alternativamente, o trancamento da ação penal originária.
+A liminar foi indeferida às fls. 51-53 e as informações foram prestadas às fls. 59-103.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, no parecer de fls. 106-110.
+É o relatório.
+O Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observam-se, a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024.
+Ademais, no caso em exame, não se verifica a ocorrência de ilegalidade flagrante, como referido a seguir.
+Ao apreciar a controvérsia, o Tribunal de origem assim se manifestou (fls. 33-36, grifo próprio):
+Diante da ausência de efetiva comprovação de que as agressões teriam sido provocadas pelos militares e de que houve coação do investigado a prestar as declarações durante o interrogatório policial, incabível, neste momento, o relaxamento da prisão preventiva.
+Ressalte-se, ainda, que quaisquer documentos comprobatórios das supostas agressões podem e devem ser encaminhados pelo impetrante aos órgãos responsáveis pela apuração da alegada violência e maus tratos envolvendo policiais militares.
+Além do mais, pontua-se que a análise da alegada tortura policial depende de análise aprofundada dos elementos probatórios, que venham a ser produzidos em juízo no curso da instrução do processo principal. O habeas corpus exige prova pré-constituída como condição essencial à verificação do direito líquido e certo, de modo que, se a questão discutida se mostra controvertida, necessitando de dilação probatória, é a mesma incompatível com a natureza dessa ação constitucional.
+Como visto, a Corte estadual concluiu pela ausência de efetiva comprovação de que as agressões teriam sido provocadas pelos policiais e de que houve coação do acusado a prestar declarações durante o interrogatório policial. Ressaltou, ainda, que a análise da alegada tortura policial dependeria de análise aprofundada dos elementos probatórios, que venham a ser produzidos em juízo no curso da instrução processual.
+Assim, a desconstituição da conclusão alcançada pelo Tribunal local, buscando reconhecer a suposta ocorrência de tortura policial, implicaria necessariamente em um amplo revolvimento de matéria fático-probatória, o que não se coaduna com a estreita via cognitiva do habeas corpus.
+Nessa direção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DO INQUÉRITO POLICIAL. FALTA DE JUSTA CAUSA. ANÁLISE FÁTICO-PROBATÓRIA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Está consolidado na jurisprudência desta Casa o entendimento de que o trancamento de ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+2. Se as instâncias ordinárias, com fundamento em elementos de convicção colhidos nos autos, reconheceram a presença de justa causa para as investigações, para afastar tal conclusão seria necessário revolver o contexto fático-probatório, providência que não se coaduna, a toda evidência, com a via estreita do habeas corpus.
+3. "É inadmissível, na via estreita do habeas corpus, o enfrentamento da tese de prática de tortura pelos policiais que efetuaram a prisão em flagrante, tendo em vista a necessária incursão probatória. Ademais, o acórdão do Tribunal de origem está em consonância com a jurisprudência deste Superior Tribunal de Justiça no sentido de que a homologação da prisão em flagrante e sua conversão em preventiva tornam superado o argumento de irregularidades na prisão em flagrante, diante da produção de novo título a justificar a segregação." (AgRg no HC n. 654.422/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/12/2021, DJe de 16/12/2021).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 871.434/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024, grifo próprio.)
+Ademais, é inviável a análise da questão na via estreita do habeas corpus pelo Superior Tribunal de Justiça, tendo em vista a prematura fase processual em que se encontra a ação penal originária. Nesse sentido: AgRg no RHC n. 210.073/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025 e AgRg no RHC n. 212.539/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.
+Diante de tais considerações, portanto, não se constata a existência de nenhuma flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
