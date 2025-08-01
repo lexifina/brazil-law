@@ -1,0 +1,89 @@
+DECISÃO
+Trata-se de recurso especial interposto por HOJE PARTICIPAÇÕES LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fl. 124):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. DIREITO TRIBUTÁRIO. ITBI. IMUNIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. QUESTÕES CONTROVERTIDAS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+Os embargos de declaração opostos foram rejeitados (fl. 145):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. ALEGAÇÃO DE ERRO MATERIAL E OMISSÃO. AUSÊNCIA DE CONFIGURAÇÃO DE QUAISQUER DAS HIPÓTESES PREVISTAS NO ART. 1.022 E INCISOS, DO CPC/2015. PROPÓSITO DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DIANTE DA INEXISTÊNCIA DE VÍCIOS. ACLARATÓRIOS INTERPOSTOS COM A ÚNICA FINALIDADE DE OBTER REEXAME DA CONTROVÉRSIA JÁ APRECIADA. INCIDÊNCIA DA SÚMULA Nº 18, DO TJCE. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Nas razões de seu recurso, a parte recorrente alega violação ao art. 1.022, I e II, do Código de Processo Civil (CPC). Argumenta que o Tribunal de origem não se manifestou quanto às alegações de: a) erro material em relação à não ocorrência de receita operacional e; b) critério temporal da incidência do Imposto sobre Transmissão de Bens Imóveis (ITBI) (fls. 192/194).
+Aponta contrariedade ao art. 37 do Código Tributário Nacional (CTN). Contesta a interpretação do Tribunal de origem de que a ausência de receita operacional inviabiliza a concessão da imunidade tributária. Argumenta que o dispositivo não prevê tal limitação e que a verificação da atividade preponderante é ônus do Fisco, não podendo ser presumida pela inatividade da empresa (fls. 194/197).
+Indica a existência de ofensa ao art. 36 do CTN e sustenta que a imunidade do Imposto sobre Transmissão de Bens Imóveis (ITBI) deve ser aplicada ao valor total dos imóveis integralizados ao capital social, sem limitação (fls. 198/199).
+Afirma que houve violação ao art. 926 do Código de Processo Civil (CPC) e observa que há falta de uniformidade nas decisões do Tribunal de origem gerando insegurança jurídica (fls. 198/199).
+Alega negada vigência ao art. 35 do Código Tributário Nacional (CTN). Expõe que o fato gerador do ITBI é a transmissão da propriedade, que só ocorre com o registro no Cartório de Registro de Imóveis, e que a alíquota de 3% (três por cento) aplicada pelo Município de Fortaleza é indevida, pois o imposto deveria ser calculado a 2% (dois por cento) antes da ocorrência do fato gerador (fls. 201/202).
+Aduz que houve dissídio jurisprudencial. Anota que o acórdão recorrido baseou-se na premissa de que a ausência de receita operacional impede o reconhecimento da imunidade tributária, considerando que a empresa não demonstrou atividade econômica que justificasse a imunidade. Entretanto, o Tribunal de Justiça do Estado do Rio Grande do Sul reconheceu a imunidade tributária mesmo na ausência de receita operacional, argumentando que a falta de atividade econômica não constitui, por si só, um impedimento para a concessão da imunidade, desde que não se verifique a atividade preponderante de compra e venda de imóveis (fls. 203/205).
+Requer o conhecimento e o provimento do recurso especial.
+A parte adversa apresentou contrarrazões (fls. 208/227).
+O recurso foi admitido (fls. 250/252).
+É o relatório.
+O recurso especial tem origem no mandado de segurança, com pedido liminar, impetrado por HOJE PARTICIPAÇÕES LTDA, contra ato do Coordenador de Administração Tributária da Secretária de Finanças do Município de Fortaleza/CE, objetivando afastar a incidência do ITBI sobre operações de integralização de capital mediante incorporação de bens imóveis.
+O Juízo de primeiro grau, diante da ausência da prova pré-constituída a legitimar o uso da via mandamental, denegou a segurança (fls. 62/65).
+O Tribunal de origem conheceu parcialmente do recurso de apelação e, na parte conhecida, negou provimento, ante a ausência de comprovação dos requisitos para concessão da imunidade requestada, mantendo a sentença fustigada (fls. 124/136).
+Passo ao exame do recurso especial.
+Quanto à negativa de prestação jurisdicional, o recurso especial tem como uma de suas características a fundamentação vinculada, sendo imprescindível que em suas razões sejam apontados os dispositivos de lei que teriam sido violados pelo acórdão recorrido, com a indicação, de forma clara e direta, da interpretação que se entende deva ser dada à norma, não bastando a mera citação dos dispositivos de lei.
+Neste caso, no que tange à alegação de violação do art. 1.022 do CPC, a parte recorrente não fez sua indicação acompanhada de argumentação específica sobre o modo como o artigo foi violado, assim, há deficiência de fundamentação, razão pela qual incide no ponto a Súmula 284/STF e dessa parte do recurso não é possível conhecer.
+A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. IMPENHORABILIDADE. VIOLAÇÃO À LEI FEDERAL NÃO DEMONSTRADA. SÚMULA N. 284/STF. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - In casu, os argumentos sobre violação à legislação federal, apresentados nas razões do recurso especial, são insuficientes para afastar a conclusão da Corte de origem acerca da penhorabilidade de imóvel, cuja matrícula é constituída pela incorporação de outros, quando há determinação judicial de inalienabilidade apenas sobre a área de um desses imóveis originais, sendo viável a determinação de reavaliação do bem, de modo a manter a penhora sobre a área remanescente.
+III - Revela-se deficiente o recurso quando a parte recorrente apresenta arguição genérica de ofensa à lei, sem demonstrar a efetiva contrariedade, indicando dispositivos legais os quais não têm comando normativo suficiente para infirmar os fundamentos do julgado impugnado. Inteligência da Súmula n. 284 do STF.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.193.650/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/6/2025, DJEN de 23/6/2025.)
+Quanto ao mérito, o Tribunal de origem, ao julgar o recurso de apelação, destacou o seguinte quanto à impossibilidade de concessão da imunidade tributária requerida (fls. 129/133, sem destaques no original):
+III - DO MÉRITO
+In casu, o juízo de origem extinguiu o feito e denegou a segurança, pois entendeu que a presente ação mandamental não foi instruída satisfatoriamente, mormente quando a impetrante não comprovou estar inserida na condição trazida pela legislação, sendo impossibilitada de fruir da imunidade tributária requestada.
+III.1 - QUANTO A AUSÊNCIA DE RECEITA OPERACIONAL
+De saída, registra-se que a (1) ausência de receita operacional da pessoa jurídica no período analisado é fato incontroverso nestes autos.
+Outrossim, (2) não fora acostado o Contrato Social, o que consta nos aditivos de nºs 4º (p.41/51) e 5º(p.52/60).
+Verifica-se que do 3º para o 4º aditivo o (3) capital social passou de R$ 120.000,00 (cento e vinte mil reais) para R$ 4.265.000,00 (quarto milhões duzentos e sessenta e cinco mil reais), assim como, (4) houve alteração do objeto social que passou a ser exclusivamente a participação em outras sociedade como sócia ou acionista, conforme cláusula segunda do referido aditivo (p.41).
+Do 4º para o 5º aditivo, (5) o capital social passou para R$ 9.252.080,00 (nove milhões duzentos e cinquenta e dois mil e oitenta reais)
+(6) Constata-se que o valor do aumento do capital social declarado do 3º ao 5º aditivo, em valores indicados na integralização, representou R$ 9.132.080,00 (nove milhões cento e trinta e dois mil e oitenta reais), enquanto o valor venal destes, segundo dados do fisco, representam R$ 120.247.867,60 (cento e vinte milhões, duzentos e quarenta e sete mil, oitocentos e sessenta e sete reais e sessenta centavos).
+(7) O sócio que integraliza o Capital, Nelson Otoch, é esposo de uma das sócia Cláudia Pessoa Otoch, que são genitores dos outros dois sócios, ou seja, todos são do mesmo núcleo familiar.
+(8) O valor contábil dos imóveis que se busca integralizar tanto é inferior ao valor de venal do IPTU, como, do valor de avaliação do fisco municipal, consoante se observa pela documentação.
+Feitas essas considerações, entendo, assim como, o juízo de origem que não há elementos suficientes para permitir a tramitação deste remédio constitucional, em especial, quando não se admite dilação probatória. Explico.
+Em primeiro, constata-se a ausência do contrato social, pelo que, este é o primeiro fundamento para manutenção da sentença.
+Em segundo, a alteração do objeto social realizada pelo 4º aditivo, demonstra que a sociedade fora convertida em uma holding patrimonial familiar, em especial, quando se verificam que os seus sócios são todos do mesmo núcleo familiar (pais e filhos) e o aumento desproporcional do capital social pelo 4º e 5º aditivos que passou de cento e vinte mil reais para mais de cento e vinte milhões de reais (considerando o valor venal dos imóveis apontado pelo fisco).
+Essa modalidade de sociedade é constituída com o objetivo de administrar os próprios bens integralizados no capital social e, não raras as vezes, com estratégias para reduzir custos e a carga tributária incidente sobre o patrimônio administrado, mediante prática de elisão fiscal.
+Em terceiro, percebe-se que a intenção do Constituinte ao conceder a imunidade do ITBI (art. 156, inciso II, § 2o, inciso I, da CF) foi estimular as atividades empresariais e, assim, proporcionar o crescimento econômico-financeiro das pessoas jurídicas que não tem como atividade-fim a realização de negócios com imóveis.
+Neste termos, não havendo atividade em exercício, demonstrada pela ausência de receita operacional e pelas considerações supracitadas, convirjo com o juízo de origem, pois não é razoável conceder imunidade à pessoa jurídica constituída sob forma de holding patrimonial familiar, cujo intuito é apenas facilitar a administração dos bens tributados que compõem o patrimônio familiar, sem propósito negocial.
+ ..
+Desta forma, ante a todas estas considerações, entendo que não há indicios suficientes (prova pré-constituída) para concessão da imunidade requerida, pelo que, há prevalência da presunção de legalidade do ato administrativo de lançamento.
+ ..
+Portanto, caso o Estado-juiz seguisse a síntese da parte demandante, estar-se-ia desvirtuando a finalidade por detrás da norma imunizante, que é o de estimular a atividade econômica, e não possíveis planejamentos tributários de sócios e ou de sociedades empresárias, bem como malferindo a veracidade das informações societárias presentes no estatuto/contrato social e na JUCEC.
+Neste termos, entendo que inexiste direito líquido e certo à ser albergado por este remédio constitucional, pelo que se faz necessária a confirmação da sentença vergastada.
+No que tange à receita operacional, da leitura do excerto, verifico que o Tribunal de origem decidiu a controvérsia à luz de fundamentos preponderantemente constitucionais, matéria insuscetível de ser examinada em recurso especial.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITBI. AQUISIÇÃO DE IMÓVEL. COMPOSIÇÃO DE FUNDO DE INVESTIMENTO IMOBILIÁRIO. IMUNIDADE. MATÉRIA CONSTITUCIONAL. EXAME. INADEQUAÇÃO. TRANSFERÊNCIA DE PROPRIEDADE. EXISTÊNCIA. FATO GERADOR. CONFIGURAÇÃO.
+1.A fundamentação empregada no acórdão recorrido para não reconhecer a imunidade tem natureza constitucional, sendo, pois, insuscetível de exame em sede de recurso especial.
+2. A aquisição de imóvel para a composição do patrimônio de fundo de investimento imobiliário efetivada mediante emissão de novas quotas em favor dos alienantes configura transferência a título oneroso de propriedade de imóvel para fins de incidência do ITBI, na forma dos arts. 35 do CTN e 156, II, da CF/1988, ocorrendo o fato gerador no momento da averbação da propriedade fiduciária em nome da administradora (do fundo) no cartório de registro imobiliário.
+3.Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 1.492.971/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/2/2023, DJe de 31/3/2023.)
+No que tange à existência de prova pré-constituída, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+DIREITO TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA N. 7/STJ. DECADÊNCIA E PRESCRIÇÃO. FALTA DE PREQUESTIONAMENTO. PRESCRIÇÃO INTERCORRENTE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+2. Consoante jurisprudência desta Corte, "a análise em torno da necessidade de dilação probatória ou existência de prova pré-constituída é inviável nesta instância superior, por demandar reapreciação do conjunto fático nos termos da Súmula n. 7/STJ" (AgRg no AREsp n. 841.849/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/5/2016, DJe de 9/5/2016).
+ ..
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.758.766/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 14/5/2025, DJEN de 20/5/2025.)
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. AVERBAÇÃO DE TEMPO DE SERVIÇO PRESTADO NA QUALIDADE DE ALUNO-APRENDIZ PARA FINS DE APOSENTADORIA. NÃO CUMPRIMENTO DOS REQUISITOS EXIGIDOS - SÚMULA N. 96 DO TCU. AUSÊNCIA DE COMPROVAÇÃO DE CONTRAPRESTAÇÃO À CONTA DO ORÇAMENTO PÚBLICO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. DIREITO LÍQUIDO E CERTO. NÃO CONFIGURAÇÃO.
+ ..
+4. Inafastável a conclusão de que, na ausência de prova pré-constituída adequada, não há direito líquido e certo a ser amparado por meio da ação mandamental.
+5. Agravo interno não provido.
+(AgInt no RMS n. 71.705/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/3/2024, DJe de 2/4/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. LEI EM TESE. SÚMULA 266/STF. ATO ÚNICO, DE EFEITOS CONCRETOS E PERMANENTES. DECADÊNCIA DA IMPETRAÇÃO.
+1. Trata-se de Agravo Interno contra a decisão em que não se conheceu do Agravo em Recurso Especial. No decisum de fls. 1.997-1.99, e-STJ, destacou-se a impossibilidade de apreciação da incidência da Súmula 266/STF por envolver reanálise de matéria de fato. Ratificou-se o entendimento posto no Juízo prelibador sobre a incidência da Súmula 7/STJ.
+2. No acórdão combatido foi afirmado que o writ, além de não ter sido instruído com prova pré-constituída, ainda se insurge contra ato genérico e abstrato, consubstanciado no Ato Cotepe.
+3. Não tendo o Mandado de Segurança sido instruído com prova pré-constituída e ainda se insurgindo contra ato genérico e abstrato, o Recurso Especial não transpôs o juízo prelibador, por incidência da Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.481.438/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+Quanto ao dissídio jurisprudencial, o recurso especial não merece melhor sorte. A análise da divergência se encontra prejudicada, tendo em vista que o óbice aplicado ao recurso especial pela alínea a prejudica o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO DOS ARTS. 9º E 10 DO CPC. SÚMULA N. 282/STF. EXECUÇAÕ FISCAL. PENHORA. NOMEAÇÃO DE BENS. OBSERVÂNCIA DA ORDEM LEGAL. TEMA N. 578/STJ. OFENSA AO PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DE MATÉRIA FÁTICA. INCABÍVEL EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+ ..
+IV - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional quando não apontado o dispositivo de lei federal interpretado de forma divergente entre os julgados confrontados e o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial, uma vez que, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+ ..
+VI - Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 2.188.989/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
