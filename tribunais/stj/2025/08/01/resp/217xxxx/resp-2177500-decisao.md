@@ -1,0 +1,50 @@
+DECISÃO
+EMERSON RICARDO CÂNDIDO DE MORAIS interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região no Agravo em Execução n. 0810696-80.2023.4.05.0000.
+A defesa aponta a violação do art. 10, § 1º, da Lei nº 11.671/2008. Argumenta que "a justificativa da renovação da permanência da custódia no presídio federal é a periculosidade do preso, verificada nos processos que ensejaram sua prisão, e o fato de ser identificado como membro de conhecida organização criminosa" (fl. 405). No entanto, aduz que não há contemporaneidade para justificar a renovação da permanência do custodiado no Sistema Penitenciário Federal.
+Assim, requer o provimento do recurso para reforma do acórdão recorrido.
+O Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+O recurso é tempestivo e foi admitido na origem, todavia, não comporta provimento.
+O Tribunal de origem negou provimento ao recurso da defesa, com base nos seguintes fundamentos (fls. 240-246, grifei):
+ ..
+Pois bem. Feitas tais considerações a respeito do prazo de permanência, verifica-se que é o caso de deferimento de renovação da permanência do preso em custódia federal pelo período de 03 (três) anos, pois, conforme consta nos autos, o preso é apontado como integrante de organização criminosa, exercendo nela posição de destaque, nos moldes discorridos anteriormente." (grifei)
+Em sede recursal, o Agravante não apresentou elementos factuais e jurídicos que infirmam a Sentença recorrida, no tocante à presença dos requisitos legais e regulamentares (Lei nº 11.671/2008 e Decreto nº 6.877/2009) para a renovação de sua Permanência, em caráter emergencial e excepcional, em Presídio Federal, notadamente em face dos dados indiciários sobre a sua alta periculosidade e o seu envolvimento na Organização Criminosa "Sindicado do Crime".
+Por sua vez, a Secretaria de Administração Penitenciária do Estado do Rio Grande do Norte manifestou-se no sentido de que " apresentamos receio do retorno do preso em comento ao Sistema Penitenciário estadual , diante do risco de nova onda de ataques no Estado do Rio Grande do Norte , inclusive já difundido via Relatório de Inteligência entre as agências de inteligência, onde se avalia que, eventual retorno de membros de cúpulas de organizações criminosas , ampliará risco de orquestração de mais ataques, além de danos patrimoniais e atentados à agentes de segurança pública " (id. 4058401.13279591).
+A sua manutenção em Presídio Federal poderá prevenir ou diminuir a conturbação do ambiente em Presídio(s) Estadual(is) ou mesmo a prática de Crimes relacionados à Organização Criminosa da qual participaria, não tendo espaço, por outro lado, para efeito de internamento em Penitenciária Federal, a discussão sobre Presunção de Inocência.
+Acresço as Contrarrazões do Ministério Público Federal enfocando, entre outros, o envolvimento com Organização Criminosa e o preenchimento dos requisitos para permanência em Penitenciária Federal:
+"No caso, a transferência do preso, ora agravante, com a sua consequente permanência no estabelecimento penitenciário federal de Mossoró/RN, deu-se na estrita legalidade, ante evidências concretas de seu alto grau de periculosidade, obedecendo aos critérios da legislação de regência. Vejamos.
+Como se percebe da documentação aposta a estes autos, EMERSON RICARDO CÂNDIDO MORAIS, vulgo "MAGÃO", é proveniente do Sistema Penitenciário do Estado do Rio Grande do Norte, sendo ainda integrante da organização criminosa "Sindicato do Crime - SDC" e apresentando um perfil de alta periculosidade. Consoante informações prestadas pelo DEPEN, constam de sua ficha criminal os crimes de homicídio qualificado, roubo, tráfico de drogas, ocultação de cadáver, latrocínio e associação criminosa.
+Na mesma manifestação, de id. 4058401.13174096 destes autos, percebe-se haver o ora agravante sido condenado à pena definitiva de 32 (trinta e dois) anos e 03 (três) meses de reclusão e 2 (dois) anos e 03 (três) meses de detenção, nos autos da Ação Penal nº 0001882-81.2013.4.05.8401, a qual tramitou na 8ª Vara Federal de Mossoró/RN, pela participação direta no homicídio do Agente Penitenciário Federal Lucas Barbosa, tendo o crime sido caracterizado por requintes de crueldade.
+No mais, conforme as mesmas informações prestadas pelo DEPEN, o incluso apresenta comportamento carcerário reprovável, já tendo figurado como réu em, ao menos, quatro procedimentos disciplinares desde o ano de 2019, com reabilitação em um (PAD nº 50/2019) e condenação em outro (PAD nº 02/2022). Sobre isso, a certidão de id. 4058401.13174097, trazida por aquele órgão federal, bem demonstra o comportamento do agravante e recomenda a manutenção da medida (..)
+Oficiada, a Secretaria de Estado da Administração Penitenciária do Rio Grande do Norte informou, mediante o Ofício nº 902/2023/SEAP - APOIO GABINETE/SEAP - CHEFIA DE GABINETE/SEAP - SEC ADJUNTO/SEAP - SECRETARIO-SEAP, acostado ao id. 4058401.13279591, ser favorável à permanência do réu no Sistema Penitenciário Federal, ante sua grave periculosidade e os elementos indicativos de sua integração na organização criminosa de nome "Sindicato do Crime". Na mesma resposta, consta informação sobre o comportamento de fuga do agravante, considerando já haver ele se evadido, ao menos por três vezes, da Delegacia Municipal de Assu/RN e da Cadeia Pública de Caraúbas/RN.
+Como se percebe, ainda se tem motivos para a permanência do ora agravante no Sistema Penitenciário Federal, mesmo tendo sido ali incluso em agosto de 2013. Sobre isso, além de a jurisprudência, acima destacada, consignar a inexistência de prazo final para a permanência de preso em Penitenciária Federal, o entendimento do Superior Tribunal de Justiça considera prescindível a existência de fatos novos a fim de justificar eventuais prorrogações de permanência do interno naquele sistema, bastando apenas a manifestação das autoridades competentes em segurança pública, com base em dados colhidos por serviços de inteligência, sobre a subsistência dos motivos que ensejaram o ingresso inicial.
+A Lei n. 11.672/2008 dispõe, nos seus arts. 3º e 10, § 1º, que a inclusão do preso no sistema penitenciário federal é medida excepcional, justificada em casos de interesses de segurança pública ou da integridade do preso.
+No caso, está justificada a prorrogação da permanência em presídio federal, no interesse da segurança pública e da sua própria integridade, visto que persiste a elevada periculosidade do recorrente.
+Ressalte-se que, para a dilatação do prazo de permanência no sistema federal de segurança máxima, não é imprescindível a ocorrência de fato novo, consoante a Súmula n. 662 do STJ.
+Dessa forma, é suficiente a persistência dos motivos que ensejaram a transferência inicial do preso.
+Deveras: "Para a prorrogação do prazo de permanência no sistema federal de segurança máxima, não é imprescindível a ocorrência de fato novo. Esta Corte Superior entende que, na hipótese de persistência dos motivos que ensejaram a transferência inicial do preso, é possível manter a providência excepcional" (AgRg no HC n. 612.263/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/2/2021, DJe de 18/2/2021).
+No mesmo sentido, veja-se a jurisprudência desta Corte:
+ ..
+2. Persistindo as razões que ensejaram a transferência do preso para o presídio federal de segurança máxima, a renovação da permanência do apenado é providência indeclinável, como medida excepcional e adequada para resguardar a ordem pública. Incidência do art. 3º do Decreto 6.877/2009, que regulamenta a Lei supramencionada.
+ ..
+(AgRg no CC n. 169.736/RJ, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/2/2020, DJe de 17/2/2020.)
+ ..
+7. Consoante a jurisprudência desta Corte Superior, a continuação dos motivos e fundamentos que levaram à transferência do apenado ao Sistema Penitenciário Federal é suficiente para ensejar a renovação do período.
+ ..
+(AgRg no RHC n. 147.174/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/9/2021, DJe de 27/9/2021.)
+Destaca-se que, a teor do art. 10, § 1º, da Lei n. 11.671/2008, o período de conservação será de até 3 anos, renovável por iguais períodos. A lei não dispõe sobre o limite máximo da medida.
+Nesse sentido:
+ ..
+1.1. "A Lei n. 11.671/2008 não estabeleceu qualquer limite temporal para a renovação de permanência do preso em estabelecimento penal federal de segurança máxima"  .. . Tal entendimento não foi alterado pela superveniência da Lei n. 13.964/2019, em vigor desde 23 de janeiro de 2020, na medida em que ao modificar a redação do art. 10 da Lei 11.671/2008, estendeu o prazo inicial de permanência do preso em presídio federal de 360 (trezentos e sessenta) dias para 3 (três) anos, sem, contudo, estipular limite de renovação, pois fala em possibilidade de renovação "por iguais períodos", no plural" (RHC 130.518/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 4/8/2020, DJe 12/8/2020).
+ ..
+(AgRg no AREsp n. 1.808.669/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/3/2021, DJe de 5/4/2021).
+Explicitados os motivos para a continuação do preso no Sistema Penitenciário Federal (alta periculosidade e condição de membro de organização criminosa), não se verifica a violação federal apontada pela defesa.
+Ademais, a desconstituição do acórdão recorrido demandaria exame de provas, o que atrai o óbice da Súmula n. 7 do STJ.
+Ilustrativamente:
+ ..
+1. Encontrando-se o acórdão devidamente fundamentado, com base nas peculiaridades do caso concreto, acerca da necessidade da permanência do apenado em presídio federal, mostra-se indevida a revisão do entendimento adotado pelas instâncias de origem, nos termos da Súmula 7/STJ.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 1.176.661/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/5/2018, DJe de 15/5/2018.)
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
