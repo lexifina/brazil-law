@@ -1,0 +1,29 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO interpõe recur so especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, na Revisão Criminal n. 0048022-50.2024.8.19.0000.
+Consta dos autos que o Tribunal de origem julgou procedente pedido de revisão criminal para absolver o recorrido das imputações dos crimes de tráfico de drogas e associação para o tráfico de drogas, em virtude da ilicitude da prova derivada de busca pessoal.
+A defesa aponta violação dos arts. 240, § 2º, 244 e 621, inciso I, todos do CPP. Aduz que: a) a revisão criminal foi indevidamente utilizada como segunda apelação; b) a busca pessoal foi lícita. Requer o restabelecimento da condenação fixada pelo acórdão que julgou a apelação.
+O Ministério Público Federal apresentou parecer pelo parcial provimento do recurso (fls. 191-195).
+Decido.
+I. Admissibilidade
+De início, constato a tempestividade do recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, e verifico o preenchimento dos requisitos constitucionais, legais e regimentais para seu processamento.
+Houve prequestionamento do tema objeto da impugnação e exposição dos dispositivos de lei presumidamente contrariados, além dos fatos e do direito, de modo a permitir o exame da aventada questão jurídica controversa.
+II. Cabimento da revisão criminal
+A pretensão revisional reveste-se de excepcionalidade e cinge-se às hipóteses do art. 621 do CPP:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Nessa perspectiva, o "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando situação de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/2/2016).
+No caso, verifico que a revisão criminal foi fundada na contrariedade ao texto expresso da lei penal e à evidência dos autos, o que autoriza o conhecimento da revisão, independentemente da apresentação de novas provas. Verificar, por sua vez, se a referida contrariedade foi demonstrada equivale ao próprio mérito do pedido revisional. Logo, não se verifica violação do art. 621, I, do CPP na espécie.
+III. Busca pessoal
+Segundo o disposto no art. 244 do Código de Processo Penal, "A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+No caso, a Corte estadual considerou inválida a medida com base nos fundamentos a seguir (fls. 50-51):
+Já a busca pessoal ao acusado careceu de embasamento apropriado, porquanto não explicitadas pelos policiais as circunstâncias objetivas que justificariam a fundada suspeita da prática delitiva, conforme disciplina dos artigos 240 e 244 do Código de Processo Penal. Os Tribunais Superiores, de modo reiterado, têm afirmado que a busca pessoal necessita ser realizada através de critérios objetivos, mas jamais por impressões subjetivas dos policiais, até porque, no processo de seletividade penal, é sempre o jovem, preto e pobre que é abordado, porque a "presunção policial" é sempre desfavorável a ele. Colaciona-se, por absoluta pertinência, precedente do Superior Tribunal de Justiça em que, de maneira didática, foram tracejados parâmetros para identificação de justa causa que autorizem a busca pessoal sem mandado judicial:  ..
+A despeito dos fundamentos lançados pelo recorrente, noto que, neste caso, a absolvição não foi fundamentada exclusivamente na ilicitude da busca pessoal, mas também em fundamentos independentes, por si só, para lastrear a absolvição, e que não foram impugnados no recurso especial.
+Com efeito, quanto à associação para o tráfico o Tribunal de origem considerou que " não houve qualquer prova atinente à estabilidade e à permanência (societas sceleris) para a prática do delito de tráfico ilícito de substâncias entorpecentes" (fl. 42) e que a denúncia anônima não pode ser usada " como fundamento válido para uma condenação, como equivocadamente ocorrido no feito matriz" (fl. 45). Já quanto ao tráfico de drogas, o Tribunal de origem observou que "os policiais prestaram relatos desarmônicos e imprecisos acerca da dinâmica dos fatos" (fl. 48); que " a "denúncia anônima" não foi seguida de diligências aptas a lhe corroborar, a prisão do acusado" (fl. 50); e que "  n ão bastasse, ainda que admitida como válida a prova supra  busca pessoal, tem- se que a conclusão pela responsabilização penal do requerente in casu foi de frontal encontro à evidência dos autos" (fl. 57).
+Nenhum desses fundamentos independentes por si só para lastrear a conclusão do acórdão recorrido pela absolvição foi impugnado no recurso especial, em que o Ministério Público se limitou a impugnar o cabimento da revisão criminal (tese de violação do art. 621, I, do CPP) e a ilicitude da busca pessoal (tese de violação dos arts. 240, § 2º, e 244 do CPP).
+Assim, inviável o conhecimento do recurso especial no ponto (Súmula n. 283 do STF).
+IV. Dispositivo
+À vista do exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
