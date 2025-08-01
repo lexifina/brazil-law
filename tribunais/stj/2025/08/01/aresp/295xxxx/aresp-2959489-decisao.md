@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Agravo apresentado por INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO ESTADO DO ESPIRITO SANTO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+AGRAVO DE INSTRUMENTO - CUSTAS - SERVENTIA NÃO OFICIALIZADA - PAGAMENTO DEVIDO - INEXISTÊNCIA DE CONFUSÃO - NÃO SUBSUNÇÃO AO TETO CONSTITUCIONAL - RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 534 do CPC, no que concerne ao reconhecimento da ilegalidade da expedição de ofício requisitório para pagamento de custas de cartório não oficializado sem qualquer requerimento da parte credora, o que afronta o devido processo legal, trazendo a seguinte argumentação:
+Conforme exposto alhures, o Juízo de origem determinou o pagamento das custas processuais pelo IPAJM, o que ensejou a expedição de RPV em favor da Sra. Escrivã Inês Neves da Silva Santos, haja vista a prática de atos quando a Serventia ainda se tratava de serventia não-oficializada.
+Entretanto, compulsando os autos, verifica-se que NÃO HOUVE REGULAR FORMULAÇÃO DO PEDIDO DE CUMPRIMENTO DE SENTENÇA PELA SRA. ESCRIVÃ, na forma do art.534 do Código de Processo Civil, tendo o ofício requisitório sido expedido de ofício pelo Juízo de Origem, EM VIOLAÇÃO À GARANTIA CONSTITUCIONAL DO DEVIDO PROCESSO LEGAL E SONEGANDO-SE DO IPAJM O DIREITO DE IMPUGNAR A PRESENTE EXECUÇÃO NA FORMA ESTABELECIDA PELO CPC.
+ ..
+Vê-se, assim, que o cumprimento de sentença deverá se dar por iniciativa da credora, não sendo admitida execução de ofício (fl. 293).
+Nesse contexto, diante da impossibilidade de execução e expedição de RPV de ofício, sem a correspondente formulação do pedido de cumprimento de sentença pela pretensa credora, pugna-se seja reconhecida reformado o v. acórdão e determinado ao Juízo de Origem que se abstenha de expedir ofício requisitório expedido para pagamento das custas processuais sem a regular apresentação de cumprimento de sentença e intimação do IPAJM para eventual impugnação após manifestação expressa da suposta credora (fl . 295).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, a Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17.10.2019.)
+Confiram-se ainda os seguintes precedentes: ;AgInt no AREsp n. 2.593.766/RS, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 24/2/2025; AgInt no AREsp n. 2.583.702/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 16/12/2024; AgInt no REsp n. 2.165.402/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 12/12/2024; AgInt no AREsp n. 2.709.248/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024; AgInt no REsp n. 2.149.165/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 3/10/2024; AgInt no AREsp n. 2.507.694/SP, relator Ministro Humberto Martins, Terceira Turma, DJe de 25/9/2024; AgInt no AREsp n. 2.278.229/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2023; AgInt no AREsp n. 2.277.943/RN, relator Ministro Humberto Martins, Terceira Turma, DJe de 25/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
