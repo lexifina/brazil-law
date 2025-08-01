@@ -1,0 +1,14 @@
+DECISÃO
+Inviável conhecer do agravo interposto por LEONARDO ROBERTO KLEIN.
+Conforme orientação jurisprudencial sedimentada nesta Corte, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a Corte de origem inadmitiu o recurso especial do agravante com base na Súmula 83/STJ (fls. 1.121/1.127).
+O agravante, no entanto, não impugnou suficientemente o fundamento da decisão recorrida. Explico.
+Ora, no tocante ao óbice da Súmula 83/STJ, é pacífica a orientação jurisprudencial desta Corte de que o referido enunciado sumular incide não só quanto ao recurso fundado em dissídio jurisprudencial, mas também ao reclamo fundado na alínea a do permissivo constitucional (AgInt no AREsp n. 2.427.049/RS, Ministro Herman Benjamin, Segunda Turma, DJe 28/6/2024), de modo que, inadmitido o recurso especial com base no entendimento de que o acórdão atacado guarda harmonia com a orientação jurisprudencial consolidada nesta Corte, incumbe ao agravante o ônus de demonstrar que a orientação deste Tribunal Superior é diversa daquela extraída dos precedentes indicados na decisão de inadmissão ou que o caso dos autos ostenta alguma peculiaridade apta a afastar a aplicação dos precedentes indicados na decisão de inadmissão.
+Sobre o tema, confira-se: AgInt no AREsp n. 1.505.281/RJ, Ministro Herman Benjamin, Segunda Turma, julgado em 12/11/2019, DJe 19/12/2019.
+No caso, ao obstar o recurso especial com base nesse fundamento, em relação a ambos os argumentos apresentados, a saber, afronta ao art. 212, do SPP e à negativa de incidência do art. 33, § 4º, da Lei n. 11.343/2006, a Corte de origem indicou diversos precedentes desta Corte para concluir que o acórdão atacado está alinhado com a jurisprudência desta Corte (fls. 1.121/1.127). No entanto, o agravante não efetivou um cotejo mínimo entre os precedentes indicados e o caso dos autos, condição necessária para afastar a incidência da Súmula 83/STJ; aliás, nem sequer mencionou os precedentes citados.
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Ante o exposto, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+Agravo não conhecido.
