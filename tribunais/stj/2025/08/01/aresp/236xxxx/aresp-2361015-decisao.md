@@ -1,0 +1,23 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE agrava da decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte no Agravo em Execução Penal n. 0806940-47.2022.8.20.0001.
+O agravante requereu a reforma do acórdão que determinou a aplicação de frações distintas para fins de progressão de regime, com base no art. 112 da Lei de Execução Penal, argumentando que deveria incidir a fração de 60% sobre toda a pena unificada, em razão da reincidência em crime hediondo. O Juízo da execução havia aplicado a fração de 60% a todos os delitos, inclusive aos crimes comuns, por entender que a unificação da pena exigiria o emprego do maior percentual (fls. 126-134).
+O Tribunal de origem negou provimento ao recurso do Ministério Público, em acórdão assim ementado (fls. 69-77):
+EMENTA: PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. DECISÃO RECORRIDA QUE DETERMINOU A APLICAÇÃO DE PATAMAR ÚNICO SOBRE TODA A PENA PARA O CÁLCULO DA PROGRESSÃO DE REGIME. PRETENSA INDIVIDUALIZAÇÃO ENTRE CRIME COMUM E REINCIDENTE. POSSIBILIDADE. INEXISTÊNCIA DE PREVISÃO LEGAL. INCIDÊNCIA DA LEGISLAÇÃO MAIS BENÉFICA. APLICAÇÃO DE PERCENTUAIS DISTINTOS. REINCIDENTE EM HEDIONDO (60%), HEDIONDO ENQUANTO PRIMÁRIO (40%) E COMUM QUANDO REINCIDENTE (20%). PRECEDENTES DO STJ. CONHECIMENTO E PROVIMENTO DO AGRAVO. DISSONÂNCIA COM A 1ª PROCURADORIA DE JUSTIÇA.
+Interposto recurso especial, com fulcro no art. 105, III, alínea "a", da Constituição Federal, o agravante alegou violação aos arts. 111, caput e parágrafo único, e 112 da Lei n. 7.210/1984, sustentando a necessidade de aplicação de fração única de 60% à totalidade da pena, unificada nos autos da execução penal (fls. 96-106).
+O recurso especial foi inadmitido na origem, ao argumento de incidência da Súmula 83 do Superior Tribunal de Justiça (fls. 118-124), o que ensejou a interposição do presente agravo (fls. 126-134).
+Contraminuta apresentada às fls. 138-145.
+O Ministério Público Federal opinou pelo conhecimento e não provimento do agravo (fls. 160-165).
+Decido.
+O agravo é tempestivo e foi impugnado o fundamento da decisão de inadmissibilidade.
+Passo a analisar o recurso especial.
+Insurge-se o agravante contra acórdão que, reformando decisão de primeira instância, reconheceu a possibilidade de aplicação de frações distintas para fins de progressão de regime, conforme a natureza dos crimes praticados - hediondos e comuns - afastando a adoção da fração única de 60%, imposta pelo Juízo da execução com base na unificação das penas.
+Conforme a jurisprudência desta Corte superior, nos casos de múltiplas condenações, cada uma delas conserva sua natureza jurídica na fase de execução, com seu respectivo percentual para progressão.
+Nesse sentido:
+ ..  Na hipótese de múltiplos crimes praticados pelo sentenciado, cada um mantém sua natureza na fase da execução da pena. Por isso, a incidência retroativa do art. 112 da LEP, somente em relação a incisos mais benéficos à progressão de regime, não significa cumulação de leis. Além de diferenciados, são distintos os cálculos para a concessão de benefícios, a depender das particularidades de cada condenação, e não se está criando uma terceira regra, não prevista na atual ou na antiga legislação, para o mesmo ilícito.
+3. O que ocorre é que o legislador, na atual redação do art. 112 da LEP, elencou várias frações aplicáveis a delitos comuns ou hediondos, violentos ou com resultado morte, praticados por réus primários ou reincidentes etc. O regramento próprio deve ser observado para cada crime, em atividade inerente à individualização da pena. A execução continua una (art. 111 da LEP) e, por isso, será obrigatório resgatar os percentuais relacionados a cada ilícito para a transferência a regime mais brando. O que há de ser observado, sob pena de incidir na vedada combinação de leis penais no tempo, é a incidência, na íntegra, de um ou outro inciso do art. 112 da LEP, sem possibilidade de seccionar o texto legal para aproveitar somente a parte favorável ao apenado.
+(AgRg no HC n. 707.263/SC, relator Ministro Rogerio Schietti Cruz, 6ª T., DJe 21/2/2022)
+Desse modo, correta a manutenção do critério individualizado para o cômputo do tempo necessário à progressão, devendo ser preservado o acórdão impugnado em sua integralidade, porque não destoa da jurisprudência.
+De fato, como pontuado pelo Ministério Público Federal, "o recurso não comporta provimento, pois pretende desconstituir entendimento em harmonia com a jurisprudência do Superior Tribunal de Justiça" (fls. 164).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
