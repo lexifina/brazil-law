@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de recurso especial interp osto pelo Ministério Público, com fulcro no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o Juízo da execução concedeu a remição de 133 dias de pena pela conclusão do ensino médio, por meio do ENCCEJA (fls. 10-13).
+Irresignado, o Ministério Público interpôs agravo de execução penal à Corte de origem, que negou provimento ao recurso, nos termos do acórdão juntado às fls. 89-96, com a seguinte ementa:
+AGRAVO EM EXECUÇÃO - REMIÇÃO DE PENA - ESTUDO POR CONTA PRÓPRIA - CONCLUSÃO DO ENSINO MÉDIO - APROVAÇÃO NO ENCCEJA - POSSIBILIDADE - 1. É possível a remição da pena pelo estudo por conta própria, nos moldes do artigo 126, § 5º, da Lei de Execução Penal (LEP), desde que o reeducando obtenha aprovação no ensino fundamental, médio ou superior, na forma do artigo 3º, parágrafo único, da Resolução CNJ nº 391/2021. - 2. O incentivo ao estudo, para as pessoas privadas de liberdade, fortalece a preparação do reeducando para que haja um retorno saudável ao convívio social e favorece a oportunidade de conseguir trabalho que assegure a manutenção própria e da família.
+Opostos os embargos de declaração, estes foram rejeitos pelo Tribunal de origem, nos termos do acórdão juntado às fls. 120-125, com a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - CONTRADIÇÃO - INOCORRÊNCIA - EXAME COMPLETO - 1. Os embargos de declaração destinam-se à correção de ambiguidade, obscuridade, contradição, omissão ou erro material. - 2. Não devem ser acolhidos embargos de declaração interpostos com o único objetivo de rediscutir matéria integralmente analisada na decisão embargada.
+Daí o presente recurso especial, interposto com fulcro no art. 105, III, a, do permissivo constitucional, em que sustenta a violação ao art. 126, caput, e §§ 1º e 2º, da Lei de Execução Penal, sob a premissa de que a remição de pena pelo estudo por contra própria foi indevida em razão da mera apresentação de certificado pela proficiência em um exame acadêmico (ENCCEJA), sem, todavia, comprovar os demais requisitos.
+O recorrente requer o provimento do recurso especial "para reformar a decisão do Tribunal a quo, condicionando a concessão da remição do apenado à comprovação de que não detinha prévia conclusão do grau de ensino respectivo." (fl. 146).
+Foram apresentadas contrarrazões (fls. 151-158).
+O recurso especial foi admitido (fls. 162-164).
+O Ministério Público Federal, às fls. 177-185, opinou nos termos da seguinte ementa:
+RECURSO ESPECIAL. EXECUÇÃO DA PENA. REMIÇÃO DA PENA PELO ESTUDO POR CONTA PRÓPRIA E CONCLUSÃO DO ENSINO FUNDAMENTAL PELO ENCCEJA. POSSIBILIDADE. HISTÓRICO ESCOLAR. PRESCINDIBILIDADE. PARECER PELO CONHECIMENTO E NÃO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+Conforme relatado, sustenta a violação ao art. 126, caput, e §§ 1º e 2º, da Lei de Execução Penal, sob a premissa de que a remição de pena pelo estudo por contra própria foi indevida em razão da mera apresentação de certificado pela proficiência em um exame acadêmico (ENCCEJA), sem, todavia, comprovar os demais requisitos.
+Sobre o tema, assim se pronunciou o Tribunal de origem (fls. 90-96):
+Presentes os requisitos legais de admissibilidade, deve ser conhecido o recurso.
+Inexistindo preliminares suscitadas pelas partes ou que devam ser declaradas de ofício, passa-se ao exame do mérito.
+O reeducando cumpre a pena total de 9 (nove) anos e 9 (nove) meses, atualmente em regime semiaberto, pela prática do crime previsto no artigo 33, "caput", da Lei n.º 11.343/06 (atestado de pena - evento 9).
+A controvérsia recursal cinge-se ao exame da possibilidade de se conceder a remição de dias de pena em razão do estudo realizado pelo reeducando, por conta própria, que ensejou a sua aprovação no ENCCEJA e consequente conclusão do ensino médio.
+Irresignado, o Ministério Público se insurgiu contra a referida decisão, pugnando pela revogação da remição concedida. Sustenta, para tanto, que o estudo por contra própria, sem acompanhamento ou comprovação das horas estudadas, se equipararia à remição ficta.
+Todavia, razão não assiste ao agravante.
+O estudo, como possibilidade de remição, está previsto no § 2º do artigo 126 da Lei de Execução Penal (LEP), e apenas disciplina a obrigatoriedade de certificação da atividade eventualmente desenvolvida pela autoridade educacional responsável.
+A Lei de Execução Penal preconiza, para plena aplicação do direito fundamental à educação, e como política de incentivo ao estudo para aqueles que cumprem pena, a remição de 01 (um) dia de pena a cada 12 (doze) horas de frequência escolar (artigo 126, § 1º, inciso I, da LEP).
+O reconhecimento do direito de remição do tempo dedicado aos estudos durante o cumprimento de pena alinha-se ao dever estatal de promoção de ações de incentivo à participação dos reeducandos em atividades educacionais, as quais propiciam a reintegração e inclusão social na medida em que contribuem para a restauração da autoestima das pessoas privadas de liberdade.
+Nessa linha, no ano de 2021, o Conselho Nacional de Justiça (CNJ) editou a Resolução nº 391, a qual estabelece os procedimentos para o reconhecimento da remição de pena por meio de práticas sociais educativas em unidades de privação de liberdade.
+O parágrafo único do artigo 3º da mencionada Resolução indica a possibilidade de remição do tempo dedicado aos estudos nos casos de obtenção de aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (ENCCEJA ou outros) e aprovação no Exame Nacional do Ensino Médio (ENEM). Isso, segundo ressalva do próprio texto normativo, nos casos em que o reeducando não estiver vinculado a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar.
+Essa é exatamente a situação tratada nos autos.
+Confira-se, por oportuno, a redação do artigo 3º da Resolução nº 391 do Conselho Nacional de Justiça:
+ ..
+Em se tratando de conclusão do ensino fundamental, médio ou superior, nos termos do artigo 126, § 5º, da Lei de Execução Penal, a quantidade de pena a ser remida será acrescentada de 1/3 (um terço), "desde que certificada pelo órgão competente do sistema de educação".
+Não se verifica, na norma em referência, vedação ao reconhecimento da remição por estudos, mesmo nos casos em que o reeducando tenha formação de nível escolar anterior ao cumprimento da pena e venha a obter certificação de aproveitamento por estudos realizados no curso da execução.
+O que se constata da mencionada regra, a "contrario sensu", é a impossibilidade de concessão do acréscimo de 1/3 (um terço) no tempo a remir em função das horas de estudo, tendo em consideração que a benesse é destinada - tão somente - àqueles reeducandos que lograram concluir nível de ensino durante o cumprimento da pena.
+No caso em apreciação, o agravado juntou aos autos o certificado emitido que comprova a sua aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) e, consequentemente, atesta a conclusão do ensino médio (sequencial 177.1 do Sistema Eletrônico de Execução Unificado - SEEU).
+Portanto, ao contrário do que aduz o Ministério Público, a remição de pena pelos estudos deve ser concedida, considerando que o reeducando comprovou sua aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos, por meio de estudo por conta própria, durante a execução da sua pena.
+Nesse sentido, colhe-se o seguinte precedente do Superior Tribunal de Justiça:
+ ..
+Quanto ao cálculo dos dias a serem remidos, nos termos do artigo 126, § 1º, inciso I, da Lei de Execução Penal, o reeducando faz jus à redução de 01 (um) dia da pena para cada 12 (doze) horas de estudo. Para tanto, deve-se observar o regramento estipulado na Resolução nº 391/21 do CNJ, o qual prevê base de cálculo 1.200 (mil e duzentas) horas para o cômputo da remição, em caso de conclusão do ensino médio.
+O referido valor já leva em consideração o desconto de 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino.
+Nesse sentido, confira-se o seguinte precedente deste egrégio Tribunal de Justiça:
+ ..
+Assim sendo, no caso, tem-se que as 1.200 (mil e duzentas) horas divididas por 12 (doze) horas, resultam em 100 (cem) dias de pena a remir.
+Em outro prumo, registre-se que, em se tratando de conclusão do ensino fundamental, médio ou superior, nos termos do artigo 126, § 5º, da LEP, a quantidade de pena a ser remida será acrescentada de 1/3 (um terço), "desde que certificada pelo órgão competente do sistema de educação".
+Não se verifica, na norma em referência, vedação ao reconhecimento da remição por estudos, mesmo nos casos em que o reeducando tenha formação de nível escolar anterior ao cumprimento da pena e venha a obter certificação de aproveitamento por estudos realizados no curso da execução.
+O que se constata da mencionada regra, a "contrario sensu", é a impossibilidade de concessão do acréscimo de 1/3 (um terço) no tempo a remir em função das horas de estudo, tendo em consideração que a benesse é destinada - tão somente - àqueles reeducandos que lograram concluir nível de ensino durante o cumprimento da pena.
+Embora a exigência de apresentação de histórico escolar completo não seja requisito legal para a concessão de remição por estudos, nesse caso, é esse documento que permite verificar se o reeducando concluiu ensino regular (fundamental, médio ou superior) depois do início do cumprimento da pena.
+Em regra, a verificação da referida circunstância, por meio de histórico escolar completo, é necessária, tendo em consideração que o acréscimo de 1/3 (um terço) no tempo a remir em função das horas de estudo é destinado, exclusivamente, àqueles reeducandos que logram concluir um dos níveis de ensino durante o cumprimento da pena.
+Ocorre que, no caso em apreciação, o Juízo de origem já deferiu o acréscimo de 1/3 (um terço) sobre os dias remidos em razão da conclusão do ensino médio. Desse modo, não há se falar em decote do referido acréscimo, uma vez que o recurso do Ministério Público não mencionou especificamente essa questão.
+Nesse quadro, considerando-se a remição de 100 (cem) dias em razão da conclusão do ensino médio, o acréscimo de 1/3 (um terço) corresponde a 33 (trinta e três) dias de pena.
+Conclui-se, então, que a decisão agravada deve ser mantida, pois se encontra em conformidade com os precedentes dos tribunais superiores e deste egrégio Tribunal de Justiça.
+Isso posto, vota-se pelo não provimento ao recurso.
+Sem custas, por ausência de previsão legal.
+Como cediço, o artigo 126, §§1º, I, e 2º, da Lei de Execução Penal estabelece que "a contagem de tempo referida no caput será feita à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias" e "as atividades de estudo a que se refere o §1º deste artigo poderão ser desenvolvidas de forma presencial ou por metodologia de ensino a distância e deverão ser certificadas pelas autoridades educacionais competentes dos cursos frequentados".
+No caso dos autos, o Tribunal de origem negou provimento ao agravo em execução e destacou que o recorrido concluiu o ensino médio e obteve aprovação em todas as áreas de conhecimento do ENCCEJA, razão pela qual teria direito à remição da pena.
+Ao contrário do que pretende o Ministério Público estadual, o Superior Tribunal de Justiça passou a adotar o entendimento de que não há como exigir do preso o encargo de juntar seu histórico escolar, sob pena de exigir documento não previsto em lei para o deferimento da remição pelo estudo.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA. ESTUDO POR CONTA PRÓPRIA. APROVAÇÃO NO ENCCEJA E NO ENEM. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão que negou provimento a recurso especial, mantendo a remição de pena por estudo, sem exigência de histórico escolar, para apenado aprovado no ENCCEJA e ENEM.
+II. Questão em discussão2. A questão em discussão consiste na possibilidade de remição de pena por estudo realizado por conta própria, com aprovação no ENCCEJA e ENEM, sem a necessidade de apresentação de histórico escolar.
+III. Razões de decidir
+3. A Resolução do CNJ n. 391/2021 prevê a remição de pena para apenados que estudam por conta própria e são aprovados em exames nacionais, sem exigir histórico escolar.
+4. A jurisprudência desta Corte admite a remição de pena por aprovação no ENCCEJA e ENEM, mesmo sem vínculo a atividades regulares de ensino, considerando a prescindibilidade do histórico escolar.
+5. A aprovação em exames como ENCCEJA - ensino médio - e ENEM, que possuem diferentes graus de complexidade, não configura bis in idem, permitindo remição por eventos distintos.
+IV. Dispositivo e tese6. Recurso desprovido.
+Tese de julgamento: "1. A remição de pena por estudo realizado por conta própria é possível sem a exigência de histórico escolar nos casos de aprovação dos exames nacionais ENCCEJA e ENEM. 2. A aprovação em ENCCEJA - ensino médio - e ENEM constitui eventos distintos para fins de remição de pena, não configurando bis in idem."
+Dispositivos relevantes citados: LEP, art. 126; Resolução CNJ n. 391/2021.Jurisprudência relevante citada: STJ, AgRg no HC n. 867.521/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; STJ, AgRg no HC n. 932.067/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/9/2024, DJe de 1/10/2024.
+(AgRg no REsp n. 2.070.298/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFASTAMENTO DA REMIÇÃO PELO ESTUDO. APROVAÇÃO NO ENCCEJA. AUSÊNCIA DE HISTÓRICO ESCOLAR A COMPROVAR EVENTUAL CONCLUSÃO DO ENSINO MÉDIO ANTERIOR. POSSIBILIDADE DE REMIÇÃO PELO ESTUDO. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+II- A pretensão ministerial esbarra no entendimento deste Superior Tribunal de Justiça, no sentido de ser possível a remição da pena quando o reeducando obtiver certificação de aproveitamento por estudos realizados durante a sua execução, mesmo nos casos em que já tenha formação de nível escolar anterior ao seu cumprimento, o que torna desnecessária a apresentação de histórico escolar.
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.070.286/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Ademais, a exigência do histórico escolar é desnecessária, pois, conforme consta do acórdão, "o agravado juntou aos autos o certificado emitido que comprova a sua aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) e, consequentemente, atesta a conclusão do ensino médio (sequencial 177.1 do Sistema Eletrônico de Execução Unificado - SEEU).".
+Assim, não subsiste o pleito ministerial, pois "Exigir do preso a prova de fato negativo (inexistência de estudo anterior ao encarceramento) seria o mesmo que criar entrave, não previsto em lei, para o direito de reduzir parte da pena. Além das dificuldades de obter e solicitar documentos, a má-fé não se presume, deve ser comprovada por quem a alega" (AgRg no REsp n. 2.096.687/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 20/12/2023.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
