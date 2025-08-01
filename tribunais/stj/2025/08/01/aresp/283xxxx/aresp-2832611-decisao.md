@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO NEY PEDERNEIRAS DE URURAHY contra a decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu recurso especial dirigido contra os acórdãos prolatados na Apelação Criminal n. 0727840-37.2021.8.07.0001 e nos Embargos de Declaração subsequentes (fls. 676/695 e 771/778 ).
+No recurso especial, a parte agravante alegou, em síntese, violação de dispositivos de lei federal, pleiteando: a) o reconhecimento de sua inimputabilidade ou, subsidiariamente, semi-imputabilidade (arts. 26 e 28 do CP); b) sua absolvição por atipicidade da conduta, ante a ausência de dolo específico (art. 386, III, do CPP); c) o afastamento da condenação à reparação por danos morais, por ausência de pedido específico na denúncia (art. 387, IV, do CPP); e d) a aplicação da atenuante inominada (art. 66 do CP) - (fls. 798/819).
+Inadmitido o recurso na origem (fls. 835/837) com base na Súmula 7/STJ, subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 854/869).
+O Ministério Público Federal opinou pelo conhecimento e parcial provimento do agravo, para que o recurso especial seja provido apenas para afastar a indenização a título de danos morais (fls. 903/921).
+É o relatório.
+O agravo comporta conhecimento, porquanto houve a devida impugnação dos fundamentos da decisão agravada.
+No que tange às teses de inimputabilidade (art. 26 do CP), semi-imputabilidade (art. 28, § 2º, do CP), ausência de dolo específico (art. 386, III, do CPP) e incidência da atenuante inominada (art. 66 do CP), o recurso não merece prosperar.
+O Tribunal de origem, após detida análise do acervo fático-probatório, concluiu pela plena capacidade de entendimento e autodeterminação do agente à época dos fatos, pela presença do dolo específico de of ender a honra da vítima e pela ausência de circunstâncias que justificassem a aplicação da atenuante inominada. Rever tais conclusões demandaria o reexame de provas, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Contudo, no que concerne à reparação por danos morais, a insurgência merece acolhida.
+A controvérsia, neste ponto, cinge-se à correta interpretação do art. 387, IV, do Código de Processo Penal, não havendo necessidade de reexame probatório.
+A jurisprudência desta Corte Superior, em evolução sobre o tema, consolidou o entendimento de que a fixação de valor mínimo para reparação dos danos causados pela infração penal exige não apenas o pedido expresso na peça acusatória, mas também a indicação do montante pretendido, a fim de garantir ao réu o pleno exercício do contraditório e da ampla defesa sobre a pretensão indenizatória.
+Conforme bem salientado pelo Ministério Público Federal em seu parecer, embora conste da denúncia pedido indenizatório (fl. 87/88 e-STJ), não houve indicação expressa do valor mínimo a ser fixado a título de reparação do dano moral com fundamento no art. 387, IV, do CPP, circunstância que impede a manutenção da indenização na esfera penal (fl. 920). Nesse sentido: REsp n. 2.046.451/MG, de minha relatoria, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.
+Em razão do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento para afastar a condenação ao pagamento de indenização por danos morais, mantido, no mais, o acórdão recorrido (art. 253, parágrafo único, II, c, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. INJÚRIA RACIAL. DANOS MORAIS. VIOLAÇÃO DO ART. 387, IV, DO CPP. AUSÊNCIA DE INDICAÇÃO DE VALOR NA DENÚNCIA. INIMPUTABILIDADE, DOLO E DOSIMETRIA. SÚMULA 7/STJ.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento.
