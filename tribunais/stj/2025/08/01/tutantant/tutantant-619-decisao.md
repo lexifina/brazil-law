@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Pedido de Tutela Antecipada Antecedente em favor de Associação Santa Saúde com a finalidade de atribuir efeito suspensivo ao Recurso Especial por ela interposto.
+Narra a requerente que figura como ré em demanda promovida por Eliane Regina Athanazio Cruz, na qual foi deferida tutela de urgência para obrigá-la a custear o fornecimento de medicamento ("Bisaliv Power Full") à autora. Inconformada, a requerente interpôs Agravo de Instrumento, o qual foi improvido no Tribunal de origem, tendo então sido interposto Recurso Especial para demonstrar o dissídio jurisprudencial, a violação do art. 10, VI, da Lei 9.656/1998 e o desrespeito à orientação fixada no julgamento do Tema Repetitivo 990/STJ.
+Informa, ainda, que o pedido de efeito suspensivo apresentado nas instâncias de origem foi indeferido mediante decisão que qualifica como teratológica, pois a fundamentação utilizada (de que a requerente não especificou devidamente qual o perigo de dano e apresentou pedido inteiramente genérico) para justificar o indeferimento é frágil.
+Sustenta que há probabilidade de êxito da pretensão recursal porque, o art. 10, VI, da Lei 9.656/1998 excetua do plano-referência, expressamente, o fornecimento de medicamento para tratamento domiciliar, de modo que a construção argumentativa do Tribunal de origem - de que a necessidade de importação descaracteriza o uso domiciliar - "é uma inovação hermenêutica sem qualquer amparo legal" (fl. 5). Ademais, sustenta ser fato incontroverso e documentalmente comprovado que o medicamento em tela não possui registro sanitário na agência reguladora brasileira, de modo que houve frontal inobservância do Tema Repetitivo 990/STJ, segundo o qual "as operadoras de planos de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA".
+O perigo da demora decorre do desequilíbrio financeiro ao fluxo de caixa e à gestão da entidade, tendo em vista o elevado custo do medicamento.
+Requer, então, a atribuição de efeito suspensivo ao Recurso Especial para sustar a obrigação do fornecimento do medicamento à base de Canabidiol até o julgamento do mérito do Recurso Especial.
+É o relatório.
+Decido.
+Em que pese o esforço da requerente, não se mostra presente na hipótese dos autos a situação de "manifesta ilegalidade" ou de "teratologia", de modo que, não realizado o exame de admissibilidade do Recurso Especial nas instâncias de origem, não está aberta a competência do STJ para apreciar o pedido de atribuição de efeito suspensivo ao Recurso Especial (art. 1.029, § 5º, I, do CPC).
+Com efeito, o acórdão hostilizado deferiu a tutela de urgência ao argumento de que o medicamento pleiteado é passível de importação com regime de autorização especial da ANVISA, decisão essa que não apresenta ilegalidade ou teratologia manifesta, pelo contrário, há precedentes do STJ que, em contexto assemelhado, identificam distinção que autoriza o afastamento da aplicação do Tema 990/STJ. Nesse sentido: AgInt no REsp 2.107.501/SP, relator Ministro Humberto Martins, DJe de 17/10/2024 e REsp 2.209.728/RJ, relatora Ministra Daniela Teixeira, DJEN de 3/7/2025.
+Ausente, portanto, a presença de situação excepcional que justifique a inaplicabilidade do art. 1.029, § 5º, I, do CPC.
+Diante do exposto, não conheço do pedido.
+Publique-se.
+Intimem-se.
+EMENTA
