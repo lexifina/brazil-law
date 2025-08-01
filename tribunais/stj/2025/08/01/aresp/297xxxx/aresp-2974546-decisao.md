@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por HUGO SIQUEIRA SILVA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado (fls. 1.503-1.521):
+"APELAÇÃO CRIMINAL. RECEPTAÇÃO. ADULTERAÇÃO DE VEÍCULO AUTOMOTOR. VIOLAÇÃO DE DOMICÍLIO. ESTABELECIMENTO COMERCIAL. IMPOSSIBILIDADE. ABSOLVIÇÃO. FALTA DE PROVA. IMPROVIDO. BENEFÍCIOS JUSTIÇA GRATUITA. REDUZ PENA".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 71, 180, § 1º, e 311, do Código Penal. Aduz para tanto, em síntese, que: (I) as provas seriam ilícitas pois decorreram de atos de investigação realizados pela polícia militar; (II) não há prova suficiente para sustentar a condenação; (III) deve ser reconhecida a continuidade delitiva; (IV) deve ser facultado ao réu responder ao processo em liberdade.
+Com contrarrazões (fls. 1.600-1.605), o recurso especial foi inadmitido na origem (fls. 1.634-1.636), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 1.709-1.715).
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+A decisão que inadmitiu o recurso especial na origem foi pautada na incidência da Súmula 284/STF (fls. 1.634-1.636). No agravo, todavia, a parte recorrente limitou-se a reiterar seus argumentos de mérito recursal e a discorrer acerca da Súmula 7/STJ, olvidando-se de impugnar o único fundamento que ensejou a inadmissão de seu recurso especial.
+Por ocasião do julgamento dos EAREsp 746.775/PR, datado de 19/09/2018 e publicado em 30/11/2018, a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/ STJ. Eis a ementa do aresto:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Por conseguinte, não tendo o recorrente impugnado todos os fundamentos que ensejaram a inadmissão do recurso especial, a Súmula 182/STJ impede que se passe ao mérito do agravo, o qual não supera o juízo de admissibilidade.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Fica prejudicado o pedido de efeito suspensivo ao recurso (fls. 1.653-1.655)
+P ublique-se. Intimem-se.
+ EMENTA
