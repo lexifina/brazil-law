@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de GIOVANI FONSECA, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (RESE n. 5002787-77.2024.8.21.0045 - fls. 8-22).
+Consta dos autos que o paciente foi pronunciado pela prática do fato tipificado no art. 121, § 2º, I, II, IV e VI do Código Penal (fls. 336-344).
+No presente writ, a defesa sustenta que não pode ser mantida a qualificadora do inciso III (meio cruel), pois não haveria prova mínima de que fosse a intenção do autor "infligir tal sofrimento irrazoável e prolongado, por puro sadismo" (fl. 6).
+Requer-se, pois, o reconhecimento da insuficiência da fundamentação que admitiu a qualificadora do meio cruel, excluindo-a da pronúncia.
+Indeferida a medida liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, na forma da seguinte ementa (fl. 412):
+HABEAS CORPUS SUBSTITUTIVO. NÃO CONHECIMENTO. HOMICÍDIO QUALIFICADO. PRONÚNCIA. QUALIFICADORA. MEIO CRUEL. EXCLUSÃO. IMPOSSIBILIDADE. COMPETÊNCIA DO CONSELHO DE SENTENÇA.
+- Habeas corpus substitutivo. Não conhecimento.
+- Nos termos do art. 413, § 1º, do Código de Processo Penal, a decisão de pronúncia tem como pressuposto a configuração de crime doloso contra a vida com indícios suficientes de autoria e materialidade contra o pronunciado.
+- As qualificadoras do delito de homicídio somente devem ser excluídas da sentença de pronúncia quando manifestamente improcedentes ou sem qualquer amparo nos elementos dos autos, sob pena de usurpação da competência do Tribunal Popular, hipótese não retratada nos autos.
+- Cabe ao Tribunal do Júri aferir as circunstâncias da conduta do agente para julgar se se amolda ou não à figura da qualificadora mencionada (inciso II do § 2º do art. 121 do Código Penal).
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+De acordo com a jurisprudência do egrégio Superior Tribunal de Justiça, "A decisão de pronúncia não pode se aprofundar nos aspectos fáticos e jurídicos dos autos, devendo se limitar aos elementos mínimos e necessários à deliberação do Conselho de Sentença, juízo natural para o julgamento dos crimes dolosos contra a vida. Assim, apenas em situações excepcionais se admite a exclusão de qualificadoras pela pronúncia." (AgRg no AREsp n. 2.433.266/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+Nesse contexto, a exclusão de qualificadoras nessa fase processual somente pode ocorrer quando manifestamente improcedentes, sob pena de usurpação da competência do Tribunal do Júri.
+Sobre a controvérsia, assim dispôs o acórdão impugnado (fls. 19-20):
+No caso em questão, conforme descrito na denúncia:
+O crime foi perpetrado com emprego de meio cruel, uma vez que o denunciado desferiu contra a vitima pelo menos 18 golpes de instrumento pérfuro-cortante, causando- lhe, assim, intenso e desnecessário sofrimento físico antes de sua morte.
+Da mesma forma, não há como se afastar a qualificadora do meio cruel, considerando a prova analisada, em especial o laudo pericial, onde menciona "Apresenta múltiplas lesões perfurocortantes em "casa de botão" com diâmetro entre 6x22mm e 22x6mm localizadas em: uma em região glútea esquerda, uma em região escapular esquerda, uma em região deltóidea esquerda, duas em região deltóidea direita, uma em região cervical posterior em linha mediana, duas em região occipital esquerda, uma em orelha direita, uma em região cervicoantero-lateral esquerda, uma em região clavicular esquerda, duas em região esternal, uma em região mamária direita, uma em região periumbilical direita e uma em região de hipocôndrio esquerdo", o que demonstra que o réu teria submetido a vítima a intenso e inútil sofrimento, culminando com a sua morte.
+No caso em apreço, as qualificadoras não devem ser afastadas na pronúncia, pois, caso os jurados venham a acolher a versão dos fatos sustentada pela acusação, há margem probatória para considerar que a vítima foi submetida "a intenso e inútil sofrimento". Com efeito, consignou-se que o laudo pericial atestou que ela apresentou múltiplas lesões "em "casa de botão"" (tipo de ferimento causado por instrumento perfurante de médio calibre) em diversas regiões do corpo: pescoço, ombros, nuca, clavícula, costas, mamas, tórax, abdome e glúteos.
+Neste sentido:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE DA PRONÚNCIA. MATÉRIA AVENTADA EM APELAÇÃO. PRECLUSÃO. DOSIMETRIA. QUAFIICADORA DO MEIO CRUEL. PLURALIDADE DE GOLPES DE ARMA BRANCA. MOTIVAÇÃO CONCRETA DECLINADA. SOBERANIA DOS VEREDICTOS. PENA MANTIDA. AGRAVO DESPROVIDO.
+1. Eventual nulidade da sentença de pronúncia deveria ser sido objeto de recurso em sentido estrito, não sendo possível a dedução de tal matéria diretamente em sede de apelação, restando configurada a preclusão da matéria. Com efeito, "é pacífico nesta Corte o entendimento de que "eventual nulidade da sentença de pronúncia deve ser argüida no momento oportuno e pelo meio adequado - qual seja: o recurso em sentido estrito -, sob pena de preclusão" (AgRg no RHC 163.683/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 28/6/2022, DJe 1º/7/2022).
+2. Conforme o reconhecido no decisum ora agravado, a individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+3. No caso, o crime foi perpetrado com extrema violência, tendo o réu desferido reiterados golpes de arma branca em regiões vitais do corpo da vítima, o que lhe causou sofrimento físico intenso, atroz e desnecessário até a sua perda de consciência e consequente morte, o que não pode ser tido como fundamento insuficiente para a mantença da qualificadora do meio cruel.
+4. Segundo narram os autos, os laudos atestam que a vítima foi atingida diversas vezes com um canivete, atingindo o pescoço, costas, mãos e braços, conforme as fotografias, não sendo possível falar em carência de básica fática para o reconhecimento da referida qualificadora.
+5. Nos termos da jurisprudência desta Corte, para excluir a qualificadora seria necessário revolver o acervo fático-probatório delineado nos autos, procedimento que não coaduna com a via do writ, máxime na hipótese dos autos, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para os crimes dolosos contra a vida.
+6. Descabido o decote da qualificadora do meio cruel, pois sua incidência encontra amparo em elementos de convicção amealhados nos autos, deve ser reconhecida, por consectário, a desnecessidade da revisão da dosimetria da pena e do estabelecimento de regime prisional menos gravoso ao ora agravante.
+7. Agravo desprovido.
+(AgRg no HC n. 807.393/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)  grifei
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
