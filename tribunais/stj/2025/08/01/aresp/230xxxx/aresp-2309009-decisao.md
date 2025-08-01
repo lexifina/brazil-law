@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FILIPE GIOVANETTI FERREIRA contra a decisão que inadmitiu o recurso especial, ante a ausência de demonstração de violação dos dispositivos infraconstitucionais arrolados e a incidência da Súmula n. 7 do STJ.
+Em suas razões, o agravante sustenta a inaplicabilidade dos referidos óbices de admissibilidade.
+O recurso especial, por sua vez, foi interposto com fundamento na alínea a do permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 187-188):
+AÇÃO DE RESPONSABILIDADE PESSOAL DOS SÓCIOS - ART. 82, LRJ - INCLUSÃO DE EMPRESAS E PESSOAS FÍSICAS NO POLO PASSIVO DA DEMANDA, COM DETERMINAÇÃO DE ARRESTO DE BENS DOS RÉUS - CABIMENTO - DECISÃO MANTIDA. O presente caso refere-se à ação de responsabilização dos sócios (art. 82, LRJ), e não ao Incidente de Desconsideração da Personalidade Jurídica. Ordem de arresto que deve ser mantida, diante do risco de grave dano aos credores, à luz do considerando o âmbito do poder geral de cautela. Contraditório que pode ser diferido para momento posterior (arts. 139, 297, 300, 314 e 526, CPC). Indícios de formação de grupo econômico entre a empresa falida PREMIER INTELIGÊNCIA FINANCEIRA LTDA. com outras empresas coligadas, dentre elas a empresa da qual o agravante é sócio, PREMIER ASSET MANAGEMENT - GESTAO DE ATIVOS LTDA. - Desvio de recursos investidos na empresa falida, que apresentou desfalque de aproximadamente R$ 17 milhões - Além disso, a própria lei (art. 82, § 2º, LRJ) autoriza o juiz a ordenar, de ofício ou a requerimento, a indisponibilidade de bens dos réus, independentemente de prévio contraditório. Portanto, fica mantida a ordem de arresto dos bens para garantir a preservação patrimonial da massa falida e os interesses da coletividade de credores - RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados nos termos do acórdão de fls. 261-266.
+No recurso especial, a parte agravante sustenta a ocorrência de violação do art. 82 da Lei n. 11.101/2005, na medida em que o Tribunal de origem transformou uma execução individual em coletiva sem a participação de todos os credores. No caso, a eventual responsabilização dos sócios deveria ter ocorrido no bojo do procedimento falimentar, não podendo prevalecer o entendimento firmado no acórdão, que atraiu tal responsabilidade para os autos da ação condenatória em curso na origem.
+Alega a violação dos arts. 133, §§ 1º e 2º, do CPC e 50 do CC, tendo em vista que não foi instaurado o incidente da desconsideração de personalidade jurídica nem observados os requisitos necessários ao descortinamento promovido pelo Juízo de primeiro grau.
+Afirma a violação do disposto no art. 833, I, IV e X, do CPC, pois, além de promover a inclusão indevida do recorrente no polo passivo da ação originária, determinou o arresto da totalidade dos seus bens, sem qualquer ressalva quanto aos valores necessários a sua subsistência ou aos seus, abarcados pela proteção do bem de família.
+Requer, portanto, que se conheça do presente agravo para se conhecer e prover o recurso especial, a fim de reformar o acórdão, excluindo o recorrente do polo passivo da demanda. Subsidiariamente, que seja determinado o desbloqueio de valores até 40 salários mínimos para que se assegure a sua subsistência.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+O caso dos autos tem origem em agravo de instrumento interposto pelo recorrente contra decisão proferida nos autos de ação condenatória, na qual foi determinado arresto de bens de todos os envolvidos, bem como a inclusão, no polo passivo da demanda de sócios, ex-sócios, administradores e coligados que atuaram, ocasionando um "golpe no mercado de bitcoins" (fl. 192).
+A referida decisão teve por base manifestação da administradora judicial da massa falida acerca da gestão fraudulenta dos ativos por ela administrados.
+O agravo foi desprovido, dando origem ao presente recurso especial que passo a analisar.
+I - Da violação dos arts. 82 da Lei n. 11.101/2005, 133, §§ 1º e 2º, do CPC e 50 do CC
+Neste ponto, o agravante informa que o Tribunal de origem agiu equivocadamente ao transformar uma execução individual em coletiva, bem como que a situação acerca da responsabilidade dos sócios estaria preclusa, posto que pertencente ao procedimento falimentar.
+Razão não lhe assiste.
+Isso porque o relator, ao tratar do assunto, expôs que a situação dos autos não retrata preclusão pro judicato ou coisa julgada, na medida em que não houve qualquer decisão sobre a responsabilidade dos sócios, dos controladores e dos administradores da massa.
+Acrescentou que houve mera pesquisa acerca dos bens, em nome das referidas pessoas, a fim de apurar os desvios de recursos narrados.
+Dessa maneira, não há como rever o entendimento acima sem que a situação esbarre no óbice da Súmula n. 7 do STJ.
+Ademais, concluiu-se que o Juízo de primeiro grau recebeu o pedido inicial como ação de responsabilização, tal qual previsto no art. 82 da Lei n. 11.101/2005. Por esse motivo, a situação dos autos não se enquadra na hipótese do incidente da desconsideração de personalidade jurídica, mas, sim, da extensão dos efeitos da falência sobre aqueles que exerceram atividade empresarial.
+Nesse contexto, afasta-se a violação dos arts. 133 do CPC e 50 do CC.
+O relator ainda ressaltou que o incidente foi instaurado no procedimento falimentar. Contudo, o Juízo competente extinguiu o feito em razão de já ter sido deferido o pedido de arresto dos bens dos réus nos autos em apreço.
+Observa-se que a parte não rebateu os referidos fundamentos, limitando-se a afirmar que a extensão da responsabilidade aos demais sócios somente ocorreria com a instauração do incidente de desconsideração da personalidade jurídica, o que atrai a incidência das Súmulas n. 283 e 284 do STF sobre este ponto.
+II - Da violação do art. 833, I, IV e X, do CPC
+O recorrente afirma que a violação do referido dispositivo infraconstitucional se deu pelo fato de não ter sido assegurado o mínimo de bens para a manutenção de sua subsistência.
+Razão também não lhe assiste.
+Conforme disposto no acórdão recorrido, a medida extrema de arresto de bens do recorrente, assim como a inclusão no polo passivo da demanda, se deu a partir da análise de documentos e de provas que denotam o "desvio de recursos investidos na empresa falida PREMIER INTELIGÊNCIA FINANCEIRA LTDA., que apresentou desfalque de aproximadamente R$ 17 milhões, tudo a justificar a inclusão das empresas do grupo e seus respectivos sócios no polo passivo da demanda" (fl. 199).
+O relator ainda acrescentou que "não comporta guarida o pleito de desbloqueio de bens fundado na impenhorabilidade de possível bem de família ou de salário, vez que as razões recursais encerram meras conjecturas" (fl. 200), bem como que o recorrente não comprovou "que houve efetiva constrição, muito menos que tenha recaído sobre verba alimentar ou sobre imóvel que constitua bem de família" (fl. 200).
+Inviável, portanto, rever o entendimento alcançado, sob pena de violar o disposto na Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
