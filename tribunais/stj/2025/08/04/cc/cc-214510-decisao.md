@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se conflito negativo de competência entre o JUÍZO DE DIREITO DA 2ª VARA EMPRESARIAL E CONFLITOS DE ARBITRAGEM DE SÃO PAULO - SP, suscitante, e o JUÍZO DE DIREITO DA 1ª VARA EMPRESARIAL DE SALVADOR - BA, suscitado.
+Ação: apuração de haveres ajuizada por NATAN MATILDES DE CERQUEIRA em desfavor de HABIL SERVIÇOS DE APOIO OPERACIONAL LTDA. A ação foi inicialmente proposta perante o juízo de Mundo Novo - BA, que acolheu preliminar de incompetência formulada em contestação e determinou a remessa dos autos para a Comarca de Salvador - BA.
+Manifestação do Juízo de Salvador - BA: reconheceu a abusividade da cláusula de eleição de foro, por não guardar pertinência com o domicílio das partes ou com o local da obrigação, e declinou da competência em favor do foro de domicílio do réu, situado em São Paulo - SP, nos termos do art. 63 §§1º e 5º, do CPC.
+Manifestação do Juízo de São Paulo - SP: suscitou o presente conflito de competência, argumentando a inaplicabilidade da Lei 14.879/2024.
+Parecer do MPF: deixou de opinar.
+RELATADO O PROCESSO, DECIDO.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+Consoante assentado no julgamento do CC 206.933/SP (Segunda Seção, DJe 13/2/2025), aplica-se a nova redação do art. 63, §§ 1º e 5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024 (art. 2º). O estabelecimento desse marco temporal decorre da interpretação conjugada do art. 14 do CPC, que estabelece a Teoria do Isolamento dos Atos Processuais, e do art. 43 do CPC, segundo o qual a competência será determinada no momento do registro ou da distribuição da petição inicial.
+Na hipótese, a ação que deu azo ao presente conflito foi ajuizada em 27/9/2023 (e-STJ fl. 79), portanto, previamente à entrada em vigor da Lei 14.879/2024, sendo descabida a declinação de ofício da competência pelo juízo suscitado, com fundamento na nova redação do art. 63 do CPC.
+Assim, com razão o juízo suscitante ao afirmar a inaplicabilidade da nova legislação, de modo que sobressai a competência do juízo suscitado para o julgamento da demanda.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA EMPRESARIAL DE SALVADOR - BA.
+Publique-se. Intime-se. Oficiem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA NEGATIVO. AÇÃO DE APURAÇÃO DE HAVERES. ART. 63, §§ 1º e 5º do CPC. ALTERAÇÃO DADA PELA LEI 14.879/2024. CLÁUSULA DE ELEIÇÃO DE FORO. AUSÊNCIA DE PERTINÊNCIA COM O DOMICÍLIO OU RESIDÊNCIA DAS PARTES OU COM O NEGÓCIO JURÍDICO. PRÁTICA ABUSIVA. DEMANDA AJUIZADA ANTES VIGÊNCIA DA NOVA LEI. IMPOSSIBILIDADE DE INCIDÊNCIA. ARTS. 14 E 43 DO CPC. APLICAÇÃO. DECLÍNIO DE OFÍCIO DA COMPETÊNCIA. INVIABILIDADE.
+1. Consoante a jurisprudência da Segunda Seção do STJ, aplica-se a nova redação do art. 63, §§ 1º e 5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024. O estabelecimento desse marco temporal decorre da interpretação conjugada do art. 14 do CPC, que estabelece a Teoria do Isolamento dos Atos Processuais, e do art. 43 do CPC, segundo o qual a competência será determinada no momento do registro ou da distribuição da petição inicial. (CC 206.933/SP, DJe 13/2/2025)
+2. A ação que deu azo ao conflito foi ajuizada previamente à entrada em vigor da Lei 14.879/2024, circunstância que invalida o declínio de ofício da competência, pelo juízo suscitado, com fundamento na nova redação do art. 63 do CPC, tendo em vista que inaplicável à espécie.
+3. Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 1ª VARA EMPRESARIAL DE SALVADOR - BA.
