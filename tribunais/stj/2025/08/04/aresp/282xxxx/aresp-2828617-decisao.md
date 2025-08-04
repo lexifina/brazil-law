@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KENNEDY AZEVEDO SILVA JUNIOR contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO que inadmitiu recurso especial apresentado na Apelação Criminal n. 0012522-29.2020.8.08.0012.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento e, no mérito, pelo desprovimento do agravo (fls. 1.268/1.281).
+É o relatório.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos (grifo nosso):
+- quebra da cadeia de custódia: Súmulas 283 e 284 do STF;
+- art. 35 da Lei n. 11.343/2006: Súmulas 283 e 284 do STF;
+- conexão e continência: Súmula 7/STJ e
+- art. 155 do CPP (perda da chance probatória): Súmula 83/STJ.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira suficiente, os referidos fundamentos, limitando-se a argumentar genericamente o descabimento dos verbetes sumulares elencados.
+No tocante à falta de impugnação dos fundamentos do acórdão, limitou-se a argumentar de maneira genérica que os teria atacado. Contudo, não demonstrou em suas razões do agravo que o teria feito, deixando de elencar os trechos do recurso especial em que apresentou os fundamentos do Tribunal de origem acerca da questão controvertida, e a respectiva argumentação recursal que expressamente se insurgiu quanto aos citados fundamentos.
+Em relação à Súmula 7/STJ, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Quanto à Súmula 83/STJ, nas razões do agravo em recurso especial, não cuidou de trazer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência do Superior Tribunal de Justiça.
+Com efeito, a par da descabida utilização de paradigma oriundo de habeas corpus para afastar o mencionado verbete sumular, a defesa lançou mão do aresto proferido no REsp n. 2.090.160/RS, cujas circunstâncias fáticas não se aproximam ou se assemelham ao caso dos autos, inexistindo similitude fática que permita a aplicação do entendimento do STJ nele adotado, pois a condenação estava amparada em testemunho de "ouvir dizer", diferentemente do presente caso.
+Tal o contexto, ressalto que o Superior Tribunal de Justiça tem entendimento consolidado no sentido de que não se admite como paradigma, para comprovação do dissenso interpretativo, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência (AgRg nos EDcl no AREsp n. 2.509.472/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2024, DJe de 18/9/2024 - grifo nosso).
+Ademais, não comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. A orientação sedimentada é de que cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre. A propósito: AgRg no AREsp n. 2.253.769/PR, de minha relatoria, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
