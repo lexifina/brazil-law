@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão monocrática da minha lavra, que, acolhendo o pedido de reconsideração, não conheceu do habeas corpus impetrado em favor de GERALDO VIEIRA, porém concedeu a ordem, de ofício, para aplicar a atenuante da confissão espontânea em relação ao primeiro fato - homicídio praticado contra a vítima ELIAS DA LUZ LIMA.
+Nesta oportunidade, a agravante insurge-se contra a reprimenda final, relatando que, ao fazer incidir a referida atenuante, considerou-se, na r. decisão ora agravada, a sanção aplicada na sentença condenatória, ignorando-se a redução de pena procedida no v. acórdão proferido pelo Tribunal de origem, o que resultou na inusitada situação da pena aplicada nesta Superior Instância ter sido exasperada - em sede de habeas corpus - em relação a que havia sido estabelecida pelo Tribunal de origem (e-STJ fl. 106).
+Pleiteia, ao final, a reconsideração da r. decisão ora agravada para que a redução de 1/12 (um doze avos) referente à atenuante da confissão espontânea reconhecida nesta Superior Instância incida sobre as penas-base de 7 anos de reclusão fixada aos homicídios em exame, de modo a reduzi-las para 6 anos e 5 meses de reclusão, mantendo-se as subsequentes reduções de pena decorrentes da tentativa e do privilégio reconhecidos relativamente ao segundo fato descrito na denúncia, nas respectivas frações de  e 1/3 estabelecidas pelas instâncias ordinárias, fixando-se em 2 anos, 1 mês e 20 dias a pena corporal ao referido fato, chegando-se a sanção final, depois de somados os 6 anos e 5 meses do homicídio consumado, na pena de 8 anos, 6 meses e 20 dias de reclusão (e-STJ fl. 107).
+É o relatório. Decido .
+A argumentação trazida pelo representante ministerial no presente agravo merece prosperar parcialmente.
+De fato, o cálculo dosimétrico relativo ao primeiro crime foi realizado sem considerar que a pena-base havia sido reduzida para 7 anos na primeira instância, motivo pelo qual merece reparo, para que a atenuante da confissão espontânea seja aplicada na fração de 1/12 sobre a pena-base de 7 anos.
+No entanto, não merece prosperar a pretensão de que a confissão incida sobre o segundo fato, já que, conforme se extrai dos autos, tal pedido não foi apreciado no acórdão (e-STJ fl. 18). A propósito, confira-se o trecho seguinte, extraído do relatório da apelação, no qual consta, expressamente, que o pedido de aplicação da atenuante se refere exclusivamente ao primeiro homicídio (e-STJ fl. 14):
+ ..
+Com relação ao 1º fato, requereu a aplicação da atenuante da confissão espontânea e, na última etapa dosimétrica do 2º fato que lhe foi imputado, postulou o emprego da fração de 2/3 de redução da pena em razão da tentativa. Por fim, prequestionou os artigos de lei.
+ ..
+Ademais, a própria sentença condenatória asseverou que, quanto ao segundo fato, não há atenuantes ou agravantes a serem reconhecidas na 2 ª fase dosimétrica (e-STJ fl. 85).
+Assim, segue inalterada a pena do segundo homicídio, estabilizada em 2 (dois) anos e 4 (quatro) meses de reclusão.
+Passo, portanto, ao novo cálculo dosimétrico.
+Em relação ao primeiro fato, mantida a pena-base fixada na origem em 7 anos de reclusão, reconheço a atenuante da confissão espontânea, razão pela qual reduzo a pena em 1/12, a qual alcança 6 anos e 5 meses de reclusão, tornando-se definitiva, diante da inexistência de outras causas modificadoras.
+Em razão do concurso material com o crime de homicídio privilegiado tentado, que teve a reprimenda fixada em 2 anos e 4 meses de reclusão, somo as penas aplicadas, fixando a sanção definitiva em 8 anos e 9 meses de reclusão.
+Ante o exposto, reconsidero a decisão às e-STJ fls. 90/97, para, conforme fundamentação supra, corrigir erro material no cálculo da pena relativa ao primeiro fato. Com isso, ficam as penas do paciente fixadas em 8 (oito) anos e 9 (nove) meses de reclusão, devendo ser mantidos os demais termos da condenação.
+Publique-se.
+EMENTA
