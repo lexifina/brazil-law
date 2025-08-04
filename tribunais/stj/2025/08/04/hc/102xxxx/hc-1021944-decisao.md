@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Habeas Corpus com pedido de liminar impetrado em favor de MARIA ANGELICA COSTA JACINTHO, no qual se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que indeferiu o pedido de liminar formulado no HC n. 1024753-50.2025.8.11.0000.
+Consta dos autos que a paciente foi presa preventivamente em 15/7/2025, nos autos de procedimento investigatório em que se apura a suposta prática dos delitos descritos nos arts. 171 do Código Penal, 1º da Lei n. 9.613/1998 e 2º da Lei n. 12.850/2013.
+A defesa alega que as condições pessoais da paciente não teriam sido devidamente consideradas na decisão que decretou a custódia cautelar, salientando que ela tem 72 anos, seria primária, com residência fixa há mais de 30 anos e economicamente humilde, sustentando-se apenas com o Benefício de Prestação Continuada de Assistência Social (BPC).
+Afirma que, por se tratar de investigação de crimes praticados sem violência, a segregação antecipada seria desnecessária, sendo suficientes e adequadas as medidas cautelares diversas da prisão.
+Aduz a existência de constrangimento ilegal devido ao excesso de prazo, pois já teriam se passado 10 (dez) dias desde a prisão da paciente sem que tenha havido manifestação do Ministério Público ou apresentação de denúncia, violando o art. 46 do Código de Processo Penal.
+Argumenta que não haveria contemporaneidade na decretação da prisão preventiva, pois os fatos teriam ocorrido em janeiro de 2024, sem justificativa para a medida extrema.
+Cita jurisprudência dos Tribunais Superiores que reconheceria a possibilidade de substituição da custódia por medidas cautelares em casos de crimes sem violência ou grave ameaça, destacando decisões que consideraram a gravidade concreta das condutas e a adequação de medidas menos severas.
+Defende a superação da Súmula n. 691/STF, argumentando que haveria flagrante ilegalidade na imposição da segregação cautelar, considerando as condições pessoais da paciente e a natureza dos crimes a ela imputados.
+Requer, liminarmente, a revogação da prisão preventiva da paciente, expedindo-se o competente alvará de soltura e aplicando, se necessário, medidas cautelares previstas no art. 319 do Código de Processo Penal. No mérito, pugna pela conversão da prisão preventiva em prisão domiciliar, devido à idade avançada da paciente.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Confira-se, a propósito, o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE DROGAS (18 TABLETES, PESANDO 11,3KG DE MACONHA). PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+ ..
+8. Ausência de flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF.
+9. Agravo regimental desprovido.
+(AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024; grifos acrescidos.)
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior, porquanto a autoridade apontada como coatora justificou, suficientemente, a manutenção da prisão preventiva da paciente, nos seguintes termos (fls. 14-15):
+Assentadas tais premissas, em um juízo de cognição sumária, não constato, prima facie, manifesta ilegalidade apta a ensejar a extravagante concessão liminar do writ, muito menos em sede de Plantão Judiciário.
+Com efeito, ao menos a princípio, a segregação cautelar do paciente se mostra idoneamente fundamentada, em observância ao art. 93, IX, da CF, pois a decisão constritiva expõe a contento a presença dos requisitos que condicionam a medida extremada, especificamente o fumus comissi delicti (indícios suficientes de autoria delitiva) e o periculum libertatis (perigo gerado pelo estado de liberdade da paciente), nos exatos moldes do art. 312 do CPP, inexistindo assim ilegalidade patente a se r sanada de plano.
+No que tange ao fumus comissi delicti, o decreto prisional detalha que a paciente teria sido destinatária de transferências bancárias que somam mais de R$ 13.000,00, valores provenientes de fraude previamente articulada, tendo, em seguida, repassado montantes relevantes a outros investigados, o que indicaria aderência consciente ao esquema criminoso e atuação no núcleo financeiro da organização criminosa voltada ao cometimento de crimes patrimoniais, como estelionato mediante fraude eletrônica (art. 171, §2º-A, I, do CP) e lavagem de capitais (Lei 9.613/1998).
+Quanto ao periculum libertatis, o juízo apontado como coator fundamentou que a prisão preventiva é necessária para garantia da ordem pública e da instrução criminal, em razão da gravidade concreta dos crimes, do sofisticado modus operandi empregado pelo grupo, da divisão de tarefas entre os envolvidos e da capilaridade interestadual das transferências bancárias realizadas. A decisão registra, ainda, que a liberdade dos investigados, incluindo a paciente, representaria risco real de reiteração delitiva e de interferência na colheita da prova, circunstâncias que evidenciam a necessidade da medida extrema e afastam a suficiência das cautelares do art. 319 do CPP. A atuação coordenada e pulverizada do grupo criminoso revelaria estrutura duradoura e funcional, cujo desmantelamento - segundo a autoridade indigitada coatora - requer a segregação cautelar dos envolvidos, inclusive daqueles vinculados ao núcleo financeiro, como seria o caso da paciente.
+Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
