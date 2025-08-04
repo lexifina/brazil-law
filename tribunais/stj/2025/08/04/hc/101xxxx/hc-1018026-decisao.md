@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALISSON KAUE MORAES DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1501215-86.2023.8.26.0306).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 1 ano e 4 meses de reclusão, em regime aberto, e 6 dias-multa, com substituição da pena privativa de liberdade por restritivas de direitos, pela prática do crime previsto no art. 155, § 4º, inciso I, c/c o 14, inciso II, ambos do Código Penal (e-STJ fls. 15/19).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido, com o redimensionamento das penas do paciente, de ofício, para 2 anos e 8 meses de reclusão e 13 dias-multa (e-STJ fls. 8/14).
+No presente mandamus (e-STJ fls. 2/7), o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois aumentou a sua pena, em recurso exclusivo da defesa, o que traduz indevida reformatio in pejus.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que seja afastado o aumento de pena realizado pelo Tribunal a quo no julgamento da apelação interposta pela defesa.
+O pedido liminar foi indeferido (e-STJ fls. 34/35).
+As informações foram prestadas às e-STJ fls. 39/43 e 47/61.
+O Ministério Público Federal, por meio do parecer exarado à e-STJ fl. 64/67, opinou pela concessão da ordem, conforme a seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DOSIMETRIA DA PENA. OCORRÊNCIA DE REFORMATIO IN PEJUS. RECURSO EXCLUSIVO DA DEFESA. FLAGRANTE ILEGALIDADE. FRAÇÃO A TÍTULO DE TENTATIVA DEVIDAMENTE FUNDAMENTADA.
+- Parecer pela concessão da ordem de ofício para reestabelecer a dosimetria original.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/ 9/2014.
+Na espécie, embora o impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+E, compulsando os autos, verifico presente constrangimento ilegal apto a justificar a concessão da ordem, de ofício.
+Afinal, o Tribunal a quo, em recurso exclusivo da defesa, sem nenhuma justificativa, elevou a pena do paciente, fixada na sentença em 1 ano e 4 meses de reclusão e 6 dias-multa, para 2 anos e 8 meses de reclusão e 13 dias-multa.
+Entretanto, a coisa julgada somente pode ser mitigada, no processo penal, em favor dos réus, não sendo possível o agravamento da sua situação em recurso exclusivo da defesa, ainda que sob a premissa de corrigir erro material, sob pena de violação ao princípio do non reformatio in pejus.
+Nesse sentido, segue a jurisprudência desta Corte:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALTERAÇÃO DA PENA DE MULTA FIXADA NA SENTENÇA CONDENATÓRIA. CORREÇÃO DE OFÍCIO PELO JUÍZO APÓS TRÂNSITO EM JULGADO. ERRO MATERIAL. REFORMATIO IN PEJUS. OCORRÊNCIA.
+1. A jurisprudência deste Sodalício é no sentido de que não é devido, à Corte estadual, a correção de erro material, de ofício, para agravar a situação do acusado, após o trânsito em julgado para a acusação, por caracterizar ofensa ao princípio que veda o reformatio in pejus (AgRg no AREsp 649.360/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/09/2017, DJe 19/09/2017).
+2. Com o trânsito em julgado da condenação, os autos retornaram à origem, tendo o Juízo, de ofício, corrigido erro material, modificando o dispositivo da sentença condenatória, para alterar a pena de multa de 11 para 501 dias-multa, o que revela reformatio in pejus, não aceitável por este Corte Superior.
+3. Agravo regimental não provido. (AgRg no REsp 1757018/MG, de minha relatoria, Quinta Turma, DJe 1º/10/2018)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. RECURSO EXCLUSIVO DA DEFESA. CORREÇÃO DE ERRO MATERIAL PARA APLICAR O AUMENTO PELA MAJORANTE. REFORMATIO IN PEJUS. CONFIGURAÇÃO. HC NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Hipótese em que o Juízo de primeiro grau, ao condenar o réu por roubo majorado pelo emprego de arma, deixou de computar a fração de aumento da dosimetria da pena, o que foi feito apenas em segundo grau, em recurso exclusivo da defesa, como correção de erro material.
+3. A coisa julgada, no processo penal, só é flexibilizada a favor do réu, não podendo haver, em recurso exclusivo da defesa, agravamento da situação do condenado, ainda que a título de correção de erro material, sob pena de violação do princípio do non reformatio in pejus.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena do paciente para 4 (quatro) anos de reclusão, a ser cumprida inicialmente em regime aberto, e 10 dias-multa. (HC 285.871/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 2/2/2017)
+ ..  LATROCÍNIO TENTADO. SENTENÇA CONDENATÓRIA. DOSIMETRIA. ERRO MATERIAL CORRIGIDO PELO TRIBUNAL NO JULGAMENTO DE APELO EXCLUSIVO DA DEFESA. IMPOSSIBILIDADE. REFORMATIO IN PEJUS. INDEVIDA REVISÃO CRIMINAL PRO SOCIETATE. ORDEM CONCEDIDA.
+1. Tratando-se, como se trata, de Direito Penal adjetivo, não se pode falar em correção ex officio de "erro material", mormente em detrimento do réu.
+2. Na esfera penal prevalece o princípio do non reformatio in pejus que impede o agravamento da situação do réu sem uma manifestação formal e tempestiva da acusação nesse sentido.
+3. "Trata-se da cabal confirmação do entendimento de que neste, como noutros temas, o processo penal não é estruturado por princípios comuns ao processo civil, senão por regras próprias, em razão da prevalência dos interesses públicos que constituem a substância e o objeto permanente do conflito jurídico típico que se presta a decidir e, sobretudo, por força do valor supremo do jus libertatis, do qual o processo é concebido e disciplinado como instrumento de tutela" (STF, HC 83.545/SP, Rel. Ministro CESAR PELUSO, Primeira Turma, DJ 3.6.2006).
+4. Nesse viés, seja por nulidade absoluta, seja por erro material, não se pode agravar (quantitativamente ou qualitativamente) a situação do réu sem recurso próprio do acusador, sob pena de configurar indevida revisão criminal pro societate. Precedentes do STJ.
+5. Habeas corpus não conhecido. Ordem concedida de ofício para restabelecer a sentença condenatória no tocante ao quantum da pena privativa de liberdade. (HC 257.376/PB, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 26/3/2013)
+Portanto, constatada a ocorrência de indevida reformatio in pejus, a pena aplicada na sentença deve ser restabelecida em favor do paciente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus, mas concedo a ordem, de ofício, para restabelecer as penas fixadas na sentença.
+Intimem-se.
+EMENTA
