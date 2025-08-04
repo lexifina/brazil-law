@@ -1,0 +1,32 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção de Turma (fl. 2.254).
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0002601-69.2018.4.03.6000 (fls. 2.096/2.123).
+O Tribunal de origem, por maioria, manteve a sentença que absolveu CLAUDIO CARDOSO DA SILVA, CRISTAINI CHAVES CARDOSO, FERNANDA KYANN ALEXANDRE CARNEIRO, OLDACK ALEXANDRE CARNEIRO e ROSYMEIRE ALEXANDRE ZORZI da imputação da prática dos crimes de evasão de divisas, lavagem de capitais e associação criminosa.
+No recurso especial, fundado na alínea a do permissivo constitucional, o Parquet alegou, em síntese, violação do art. 22, parágrafo único, da Lei n. 7.492/1986, sustentando que a reiteração da conduta de remeter valores ao exterior de forma fracionada, com o intuito de burlar a fiscalização, tipifica o delito de evasão de divisas (fls. 2.157/2.174).
+Inadmitido o recurso na origem, com base na Súmula 7/STJ (fls. 2.198/2.201), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 2.203/2.216).
+O Ministério Público Federal, nesta instância, opinou pelo conhecimento do agravo para dar provimento ao recurso especial (fls. 2.257/2.265).
+É o relatório.
+O agravo comporta conhecimento, porquanto houve a devida impugnação dos fundamentos da decisão agravada, notadamente o óbice da Súmula 7/STJ. Contudo, melhor analisando a controvérsia, verifica-se que o recurso especial não merece prosperar.
+O Tribunal de origem, soberano na análise das provas, manteve a absolvição dos réus por entender que a conduta perpetrada - saída física de moeda para o exterior em valores sempre inferiores a R$ 10.000,00 (dez mil reais) - não se amolda ao tipo penal de evasão de divisas. Extrai-se do voto condutor do acórdão recorrido (fls. 2.100/2.101):
+ ..
+No caso concreto, a investigação revelou que a saída dos valores se deu em espécie e de forma física, ou seja, os réus Claudio Cardoso da Silva e Cristaini Chaves Cardoso atravessavam a fronteira pessoalmente com a quantia em moeda em mãos, a qual era sempre inferior ao montante de R$ 10.000,00 (dez mil reais).
+É dizer, os réus ao praticarem a conduta delimitada pela denúncia e verificada durante o procedimento investigatório, não incidiram na norma incriminadora, já que existe lei que excetua a conduta executada por eles.
+Na verdade, no caso em particular, as saídas das divisas estavam legalmente autorizadas (artigo 65, parágrafo 1º, inciso II, da Lei 9069/95 c. c. o artigo 1º da Resolução do Banco Central do Brasil 2524/98) e não podem levar à tipificação do parágrafo único, do artigo 22 da Lei 7.492/86.
+ ..
+Com efeito, para divergir da conclusão do Tribunal de origem - de que a conduta dos réus correspondeu a saídas físicas de moeda, individualmente autorizadas por lei, e não a crime único fracionado - seria indispensável a incursão no acervo fático-probatório dos autos para reavaliar a intenção dos agentes e a conexão entre os diversos atos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+A jurisprudência desta Corte Superior, embora reconheça a tipicidade em casos de remessas fracionadas, o faz em contexto fático diverso, qual seja, o de transferências eletrônicas clandestinas, conhecidas como operações dólar-cabo, para as quais não há a exceção legal invocada pelo Tribunal a quo. A distinção é relevante, como assentado por esta Corte Superior:
+RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. VIOLAÇÃO DO ART. 381, II E III, DO CPP NÃO CONFIGURADA. PENA DE MULTA. FALTA DE FUNDAMENTAÇÃO QUANTO À CONCRETA SITUAÇÃO ECONÔMICA DO RÉU. FIXAÇÃO DO DIA-MULTA NO VALOR MÍNIMO. EVASÃO DE DIVISAS. DIVERSAS OPERAÇÕES "DÓLAR-CABO" EM VALORES INFERIORES A R$ 10 MIL. TIPICIDADE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO DELITO EM RAZÃO DA COMPLEXIDADE DO ESQUEMA DE REMESSA DE VALORES. ADMISSIBILIDADE. RECURSO PARCIALMENTE PROVIDO.
+ ..
+4. A legislação autoriza, em relação ao valor inferior a R$ 10.000,00 (ou seu equivalente em moeda estrangeira), apenas a saída física de moeda sem comunicação às autoridades brasileiras. No caso de transferência eletrônica, saída meramente escritural da moeda, a lei exige, de forma exclusiva, o processamento através do sistema bancário, com perfeita identificação do cliente ou beneficiário (Lei nº 9.069/1995, art. 65, caput).
+5. No caso das operações "dólar-cabo" existe uma grande facilidade na realização de centenas ou até milhares de operações fragmentadas seqüenciais. É muito mais simples do que a transposição física, por diversas vezes, das fronteiras do país com valores inferiores a R$ 10.000,00. Admitir a atipicidade das operações do tipo "dólar-cabo" com valores inferiores a R$ 10.000,00 é fechar a janela, mas deixar a porta aberta para a saída clandestina de divisas.
+6. A evasão de divisas pode ser praticada de diversas formas, desde meios muito rudimentares - como a simples saída do país com porte de dinheiro em valor superior a dez mil reais sem comunicação às autoridades brasileiras - até a utilização de complexos esquemas de remessas clandestinas.
+7. Não se mostra justo punir da mesma forma condutas tão distintas como a mera saída física do país na posse de valores não declarados e um sofisticado esquema de remessa ilícita de valores como o demonstrado no caso concreto.
+8. Recurso parcialmente provido, apenas no que se refere à fixação do valor do dia-multa.
+( REsp n. 1.535.956/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 1/3/2016, DJe de 9/3/2016 - grifo nosso).
+No mesmo sentido: AgRg no REsp n. 1.320.262/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2018, DJe de 20/6/2018.
+Assim, tendo o acórdão recorrido, com base nas provas dos autos, firmado que a conduta se limitou ao transporte físico de numerário em valores permitidos por lei a cada viagem, a revisão desse entendimento para caracterizar delito único encontra óbice na Súmula 7/STJ.
+Em razão do exposto, conheço do agravo para não conhecer do recurso especial (art. 253, parágrafo único, II, a, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. EVASÃO DE DIVISAS, LAVAGEM DE CAPITAIS E ASSOCIAÇÃO CRIMINOSA. REITERAÇÃO DE CONDUTAS INDIVIDUALMENTE ATÍPICAS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
