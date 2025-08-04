@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Adaí José Rosário Santos e Ivanildo Costa dos Santos contra a decisão de fls. 1.106, que inadmitiu o recurso especial com fundamento nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+Consta dos autos que os recorrentes foram condenados pela prática do crime tipificado no art. 33, caput, da Lei n.º 11.343/06, sendo imposta a Adaí José Rosário Santos a pena de 5 anos de reclusão, em regime inicial semiaberto, além de 500 dias-multa, e a Ivanildo Costa dos Santos, a pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, acrescida de 580 dias-multa.
+O recurso de apelação interposto pela defesa resul tou desprovido, nos termos da seguinte ementa (fls. 1.026-1.029):
+APELAÇÃO CRIME. CONDENAÇÃO. ART. 33, CAPUT, DA LEI Nº 11.343/06. PENAS DE 05 (CINCO) ANOS DE RECLUSÃO, EM REGIME INICIAL SEMIABERTO, E 500 (QUINHENTOS) DIAS-MULTA, EM RELAÇÃO A ADAÍ JOSÉ ROSÁRIO SANTOS E 05 (CINCO) ANOS E 10 (DEZ) MESES DE RECLUSÃO, EM REGIME INICIAL FECHADO, E 580 (QUINHENTOS E OITENTA) DIAS-MULTA, QUANTO A IVANILDO COSTA DOS SANTOS. APELO ARGUINDO NULIDADE DA PROVA POR AUSÊNCIA DE PERÍCIA NO VEÍCULO E, NO MÉRITO, PRETENDENDO A ABSOLVIÇÃO. PARECER DA DOUTA PROCURADORIA DE JUSTIÇA NO SENTIDO DE NÃO PROVIMENTO DO APELO.
+VISTORIA MINUCIOSA REALIZADA NOS VEÍCULOS APREENDIDOS, TENDO SIDO ENCONTRADA A DROGA ILÍCITA EM UMA CAIXA DE PAPELÃO ABAIXO DO PAINEL DO CARRO, SEM NECESSIDADE DE DESMONTE DO VEÍCULO. POLICIAIS AGIRAM DE ACORDO COM O ART. 6º, III, DO CPP. FUNDADAS SUSPEITAS QUE AUTORIZAM A BUSCA SEM A NECESSIDADE DE MANDADO, CONFORME O ART. 244 DO CPP. INEXISTÊNCIA DE NULIDADE. PRELIMINAR REJEITADA.
+MÉRITO. DEMONSTRAM OS AUTOS QUE, NO DIA 04.04.2013, POR VOLTA DAS 02:00H, DURANTE RONDA OSTENSIVA, A POLÍCIA MILITAR IDENTIFICOU SITUAÇÃO SUSPEITA ENVOLVENDO DOIS VEÍCULOS. UM VW GOL POWER 1.6, DE COR BRANCA, SEM PLACA, E UM VW VOYAGE, DE COR PRATA E PLACA NYK 6011. A CONDUTA SUSPEITA DOS VEÍCULOS LEVOU À ABORDAGEM POLICIAL, E DURANTE A VISTORIA NO AUTOMÓVEL GOL, FORAM ENCONTRADOS 793,50 G (SETECENTOS E NOVENTA E TRÊS GRAMAS E CINQUENTA CENTIGRAMAS) DE MACONHA.
+MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS PELA FARTA PROVA MATERIAL, BEM COMO PELA SÓLIDA PROVA TESTEMUNHAL PRODUZIDA EM JUÍZO, COM ESPECIAL ATENÇÃO AO LÍCITO DEPOIMENTO DOS POLICIAIS CIVIS QUE PARTICIPARAM DA PRISÃO EM FLAGRANTE. IMPOSSIBILIDADE DE ABSOLVIÇÃO.
+NÃO CONHECIMENTO DO PEDIDO DE RESTITUIÇÃO DO VEÍCULO VW/GOL 1.6 POWER G6, ANO 2013/2013, CUJO DECRETO DE PERDIMENTO FOI DETERMINADO NA SENTENÇA, NA FORMA DOS ARTS. 62 E 63, CAPUT, DA LEI Nº 11.343/06, C/C. ART. 91, II, ALÍNEAS "A" E "B", DO CP, EM RAZÃO DA MANUTENÇÃO DAS CONDENAÇÕES.
+DOSIMETRIA, ANALISADA DE OFÍCIO, QUE NÃO MERECE REPAROS. NÃO SE ADMITE A ISENÇÃO DA PENA DE MULTA PREVISTA NO PRECEITO SECUNDÁRIO DA NORMA PENAL INCRIMINADORA, POR FALTA DE PREVISÃO LEGAL. PRECEDENTES DO STJ.
+APELO PARCIALMENTE CONHECIDO. NA PARTE CONHECIDA, REJEITA-SE A PRELIMINAR E, EM MÉRITO, NEGA-SE PROVIMENTO AO APELO.
+No recurso especial, a defesa sustenta a ocorrência de violação ao art. 386, incisos VI e VII, do Código de Processo Penal, pleiteando a absolvição dos recorrentes por insuficiência de provas. Alega, ainda, a nulidade da prova produzida, em razão da ausência de perícia no veículo apreendido. Além disso, aponta ofensa ao art. 33, § 4º, da Lei n.º 11.343/2006, requerendo, de forma subsidiária, o reconhecimento da minorante do tráfico privilegiado em favor do acusado Adaí José Rosário Santos.
+As contrarrazões foram apresentadas pelo recorrido (fls. 1088-1.105).
+Inadmitiu-se o recurso na origem (fls. 1.106-1.27), advindo o presente agravo (fls. 1.130-1.144), contraminutado às fls. 1.146-1.151.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso, com a seguinte ementa (fl. 1.177):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PRETENSÃO DE REEXAME PURO E SIMPLES DE PROVA PARA ABSOLVER O CONDENADO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PARECER PELO CONHECIMENTO PARCIAL E DESPROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+O agravo não reúne condições para ser conhecido.
+De fato, v erifica-se que o Tribunal de origem deixou de admitir o recurso especial em razão da incidência das Súmulas 7 e 83/STJ, pois, além de a análise da controvérsia demandar reexame das provas dos autos, o acórdão recorrido, ao afastar a aplicação da causa de diminuição referente ao tráfico privilegiado com fundamento nas circunstâncias que indicam dedicação à atividades criminosas, estaria em conformidade com a jurisprudência desta Corte.
+Ocorre que, nas razões do agravo em recurso especial, a defesa nada aduziu acerca do óbice consubstanciado na Súmula 83/STJ, limitando-se a reeditar as razões de mérito trazidas no recurso especial.
+Com efeito, para afastar o impedimento imposto pela Súmula nº 83 do STJ, caberia à parte recorrente demonstrar, no recurso, que a jurisprudência não está pacificada, seja pela existência de decisões divergentes, seja comprovando que os precedentes mencionados na decisão agravada tratavam de caso diferente do dos autos, o que não ocorreu.
+A ausência de impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
