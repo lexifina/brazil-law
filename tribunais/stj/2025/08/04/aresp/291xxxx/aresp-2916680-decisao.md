@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LOPES ARANDA & CIA LTDA, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/3/2025.
+Concluso ao gabinete em: 28/5/2025.
+Ação: revisional de contrato bancário, ajuizada pela parte ora agravante, em face de ITAU UNIBANCO S.A, parte ora agravada, em fase de cumprimento de sentença.
+Decisão interlocutória: "acolheu a impugnação, reconhecendo o excesso de execução, concluindo-se por um saldo em favor da parte exequente/impugnada no importe de R$74.990,28 (setenta e quatro mil, novecentos e noventa reais e vinte e oito centavos), atualizado em maio de 2021, sendo R$68.186,24 (sessenta e oito mil, cento e oitenta e seis reais e vinte e quatro centavos) referente a restituição de juros capitalizados e lançamentos indevidos e R$5.454,90 (cinco mil, quatrocentos e cinquenta e quatro reais e noventa centavos) referente a honorários sucumbenciais, além de R$1.349,14 (mil, trezentos e quarenta e nove reais e quatorze centavos) referente às custas (mov. 563.1)" (e-STJ fls. 285-286).
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte ora agravante, nos termos da seguinte ementa (e-STJ fls. 285):
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AÇÃO REVISIONAL. CONTA CORRENTE. DECISÃO QUE ACOLHE A IMPUGNAÇÃO. RECURSO DO EXEQUENTE. PLEITO PELA ELABORAÇÃO DE NOVOS CÁLCULOS. NÃO CABIMENTO. DETERMINAÇÃO DE REPETIÇÃO DE TARIFAS E EXCLUSÃO DE CAPITALIZAÇÃO SEM A INCIDÊNCIA DE REFLEXOS. ENCARGOS REFLEXOS. AUSÊNCIA DE PREVISÃO NAS DECISÕES JUDICIAIS TRANSITADAS EM JULGADO. COISA JULGADA. IMPOSSIBILIDADE DE ALTERAÇÃO EM SEDE DE CUMPRIMENTO DE SENTENÇA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega, além da existência de dissídio jurisprudencial, violação dos arts. 502, 505 e 508 do CPC; 92, 184, 422, 884 e 885 do CC; e 25, 47 e 51 do Código de Defesa do Consumidor, sustentando, em síntese, que: (i) o Tribunal recorrido desconsiderou o laudo pericial complementar que retificou os cálculos iniciais e que estaria em conformidade com a sentença e o acórdão transitados em julgado - havendo, portanto, violação à coisa julgada -; (ii) a exclusão das tarifas e juros capitalizados implica também na exclusão dos reflexos (acessórios) - regra que foi ignorada, resultando em enriquecimento ilícito à instituição bancária ora agravada -; (iii) o acórdão recorrido viola os princípios da boa-fé e da vedação ao enriquecimento ilícito; (iv) a decisão favorece indevidamente o banco, permitindo que este retenha os frutos de sua conduta ilegal.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 92, 184, 422, 884 e 885 do CC; e 25, 47 e 51 do Código de Defesa do Consumidor, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/PR, no sentido de que "o Perito apurou de forma equivocada os reflexos na conta, pois não houve expressa determinação judicial nesse sentido, que se ateve a determinar a exclusão dos lançamentos indevidos, com a restituição de forma simples, não havendo determinação para apuração dos reflexos" (e-STJ fl. 289).
+Ademais, igualmente, não foi impugnado o fundamento de que, "em que pese a argumentação dos embargantes, fato é que o pedido para inclusão dos reflexos nos cálculos deveria ter sido feita no processo de conhecimento, previamente à sentença exequenda" (e-STJ fl. 671).
+Desse modo, se a parte agravante não apresentar argumentos para refutar o fundamento usado pelo tribunal, o acórdão recorrido deve ser mantido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA.
+1. Ação revisional de contrato bancário.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
