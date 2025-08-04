@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por Chá Prenda do Brasil Indústria e Comércio Ltda. - em recuperação judicial contra decisão monocrática de fls. 63-64, proferida pelo Ministro Vice-Presidente do STJ, Luis Felipe Salomão, no exercício da Presidência, que não conheceu do Conflito de Competência, pois o Juízo trabalhista (29ª Vara do Trabalho de Porto Alegre) efetuou bloqueio de valores pertencentes a empresas que não fazem parte da recuperação judicial deferida pelo Juízo de Direito da Vara Regional Empresarial de Santa Rosa - RS.
+A embargante aduz que houve omissão na decisão recorrida. Sustenta que, "diante da necessidade de gerar caixa a curto prazo para viabilizar a continuidade da atividade empresarial, realiza a antecipação de recebíveis junto a fundos de investimentos ("FIDIC")", de modo que "os títulos (recebíveis) com previsão de pagamento futuro, são cedidos a fundos de investimentos que antecipam os valores à Recuperanda, permitindo assim que a empresa tenha caixa para manter a operação em funcionamento" (fl. 69) - esses fundos são constituídos por empresas com números de inscrição diferentes no CNPJ que não integraram a recuperação judicial.
+Pede o suprimento do vício para que se conheça do Conflito de Competência, com o deferimento da liminar requerida.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos p rocessuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado - o que não se verifica na hipótese.
+Não há omissão, pois, ainda que a suscitante (empresa em recuperação judicial) alegue a necessidade de utilização dos Fundos de Investimento em Direitos Creditórios (FIDIC), a Lei 11.101/2005 não prevê que, caso o deferimento da recuperação judicial não mencione tais fundos, a eles seriam automaticamente expandidos os efeitos da recuperação judicial, como parece defender o requerente, o qual nem sequer citou fundamentos legais para embasar sua tese.
+A decisão embargada apreciou toda a matéria posta em questão ao pontuar que "o conflito de competência poderia estar caracterizado, nas circunstâncias acima, apenas se o juízo trabalhista, verificando a inclusão do grupo empresarial no processo de recuperação judicial, ainda assim afirmasse possuir competência para ordenar a prática de atos de constrição. A hipótese, porém, conforme acima demonstrado, é diversa, pois o indeferimento do pedido de liberação do bloqueio de dinheiro é motivado na circunstância de não se tratar de bens de propriedade da empresa em favor da qual foi deferida a recuperação judicial, mas sim de interpostas pessoas, que gozam de autonomia patrimonial" (fl. 64, grifos acrescidos).
+Dessa forma, não há vício a ser suprido.
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+EMENTA
