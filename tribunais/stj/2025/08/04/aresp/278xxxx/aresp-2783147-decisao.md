@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por MARLUCIO GALVAO DA SILVA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu recurso especial dirigido contra o acórdão prolatado nos Embargos Infringentes n. 1.0000.23.124624-0/002 (fls. 372/379).
+No recurso especial (fls. 387/395), o agravante sustenta violação do art. 59 do Código Penal, sob o argumento de que o acórdão recorrido exasperou a pena-base com fundamento em circunstância judicial (circunstâncias do crime) que já estaria abrangida pela agravante da reincidência, caracterizando bis in idem.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para dar parcial provimento ao recurso especial (fls. 455/473).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+No julgamento da apelação, o Tribunal de origem decidiu nos seguintes termos (fls. 340/341 ):
+Na primeira etapa dosimétrica, a douta Juíza a quo fixou corretamente a pena-base um pouco acima do mínimo legal, em 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa, considerando desfavorável ao acusado a circunstância judicial relativa às circunstâncias do crime, uma vez que ele se encontrava em gozo do benefício de saída temporária, "demonstrando completa desídia na execução da pena".
+No que se refere à dosimetria da pena, cumpre destacar que, conforme entendimento consolidado do Superior Tribunal de Justiça, a fixação da pena-base situa-se no campo da discricionariedade do julgador, devendo observar as particularidades do caso concreto e as circunstâncias pessoais do réu, sendo passível de revisão por esta Corte apenas quando constatada violação dos parâmetros legais ou evidente desproporcionalidade (AgRg no HC n. 710.060/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2021).
+No caso concreto, as instâncias ordinárias majoraram a pena-base ao reconhecerem como desfavorável a circunstância judicial relativa às circunstâncias do crime, tendo em vista que o réu se encontrava em gozo do benefício da saída temporária quando praticou o novo delito, o que evidencia maior censurabilidade da conduta.
+Conforme jurisprudência firmada nesta Corte Superior, a prática de infração penal durante o cumprimento de pena revela desprezo pela sanção penal imposta anteriormente e autoriza, de forma autônoma, a valoração negativa das circunstâncias judiciais (AgRg no REsp n. 2.103.310/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/6/2024).
+A conduta do réu, ao delinquir durante a saída temporária, demonstra acentuado desvalor, ultrapassando os limites da simples reincidência e configurando fator autônomo de reprovabilidade, apto a justificar a exasperação da pena-base.
+Não cabe, portanto, a alegação de ocorrência de bis in idem, pois a exasperação da reprimenda não decorreu da mera existência de condenações anteriores - que já foram valoradas na segunda fase da dosimetria -, mas, sim, da prática de novo crime durante a execução da pena, em especial durante saída temporária, o que constitui fundamento legítimo e autônomo para negativação da referida vetorial. Nesse sentido: AgRg no HC n. 757.635/SC, Ministro Teodoro Silva Santos, Sexta Turma, DJe 15/3/2024.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE EXASPERADA. CIRCUNSTÂNCIAS DO CRIME. PRÁTICA DELITIVA DURANTE SAÍDA TEMPORÁRIA. FUNDAMENTO AUTÔNOMO. VALORAÇÃO NEGATIVA IDÔNEA. BIS IN IDEM. NÃO CONFIGURAÇÃO.
+Agravo conhecido para negar provimento ao recurso especial.
