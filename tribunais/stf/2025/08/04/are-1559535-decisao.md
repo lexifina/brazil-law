@@ -1,0 +1,77 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (eDOC 21, p. 1):
+
+    “APELAÇÃO CÍVEL. CONSTITUCIONAL. MANDADO DE SEGURANÇA. ICMS/DIFAL. COBRANÇA SEM FUNDAMENTO EM LEI COMPLEMENTAR. ADI 5469/DF. MODULAÇÃO DOS EFEITOS DE DECLARAÇÃO DE INCONSTITUCIONALIDADE. EXCEÇÃO ESTATUIDA. TERMO FINAL. DATA DO JULGAMENTO.
+
+    1. No julgamento da ADI 5469/DF, embora tenha declarado a inconstitucionalidade da cobrança do ICMS/DIFAL por ausência de amparo em lei complementar federal, o excelso STF modulou os efeitos de tal declaração, a fim de permitir a incidência do tributo sem que seja editada a lei complementar regulatória até o exercício de 2022. Ressalvou, no entanto, de tal modulação, as demandas judiciais em curso até a data do referido julgamento, realizado em 24/2/21. Por sua vez, opostos embargos de declaração objetivando o esclarecimento sobre o citado termo final, se a data do julgamento ou de sua publicação, referidos embargos foram rejeitados, esclarecendo o excelentíssimo Relator Ministro Dias Toffoli que o acórdão foi claro ao consignar que o termo limite seria o dia do julgamento.
+
+    2. Impetrado o mandado de segurança em 2/3/21, a pretensão submete-se à modulação dos efeitos realizada na ADI 3489/DF.
+
+    3. Apelação não provida.”
+
+    No recurso extraordinário, interposto com base no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos arts. 1º, IV, 5º, caput, 37, 145, §1º, 146, I, III, a, 150, I, II e IV, 155, § 2º, VII, VIII, b, XII, a, c, d e i, da Constituição Federal.
+
+    Nas razões recursais, alega-se, em síntese, que (eDOC 28, p. 8-9):
+
+    “a) Art. 155, § 2º, inciso VII e alínea b do inciso VIII, da CRFB/1988, com a redação dada pela EC nº 87/2015: Institui a atual sistemática do diferencial de alíquota, cuja responsabilidade pelo pagamento nas operações e prestações que destinem bens e serviços a consumidor final, não contribuinte do imposto recai ao remetente da mercadoria; Justificativa de violação: A cobrança do ICMS-Difal exige a edição de Lei Complementar para regular as disposições gerais do imposto;
+
+    b) Art. 145, §1º da CRFB/88: trata do princípio da capacidade contributiva que, conforme exposto anteriormente, não se aplica somente aos impostos. Justificativa de violação: A violação, neste caso, consiste na indevida cobrança do ICMS-Difal que a Recorrente tem suportado, o que transborda à sua capacidade contributiva, tendo em vista que recolhe sem amparo legal. Por via de consequência, tal exação resulta em ofensa à proibição de utilizar tributo com efeito confiscatório, garantia defendida pelo art. 150, IV da CRFB/88, ofendendo de forma reflexa os direitos à propriedade (art. 5º, caput, da CRFB/88) e livre iniciativa (art. 1º, IV da CRFB/88);
+
+    c) Art. 150, II da CRFB/88: diz respeito ao princípio da isonomia tributária, cuja violação se verifica na medida em que tratamento desigual é dado aos contribuintes que se encontram em situação de equivalência, tendo em vista que são tratados de maneira desigual, contribuintes com a mesma capacidade econômica e em situação equivalente.
+
+    d) Art. 110 do CTN: Trata da vedação à alteração de definição, conteúdo e alcance de conceitos de direito privado, para definir ou limitar competências tributárias. A Recorrente alega violação a tal dispositivo em seu recurso, vez que a Fazenda Pública aplica o conceito do ICMS-Difal sem que haja a devida regulamentação legislativa;
+
+    e) Art. 146, I, III, alínea “a” da CRFB/88: Trata da necessidade de edição de lei complementar para normas gerais em matéria de legislação tributária. Justificativa de violação: A cobrança do ICMS-Difal foi regulamentada apenas por Convênio do CONFAZ, sem observar a edição de Lei Complementar Federal para regulamentar as regras gerais do imposto;
+
+    f) Art. 155, § 2º, XII, alíneas “a”, “c”, “d” e “i”, da CRFB/88: Estabelece a necessidade de lei complementar para regulamentação da hipótese de incidência do ICMS, cuja violação se identifica pela ausência de Lei Complementar regulamentando a cobrança do ICMS-Difal nas operações com consumidores finais, não contribuintes do imposto;
+
+    g) Arts. 165 e 170 do CTN: Menciona que tem direito à repetição do indébito aquele que fez pagamento a maior de tributos e Trata da possibilidade de criação de lei que autorize a compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda Pública. Justificativa de violação: Ao realizar a cobrança indevida do ICMSDifal nestas operações, a Recorrente não deve ser impedida de repetir o indébito tributário pagos indevidamente nos últimos cinco anos, inclusive mediante compensação tributária;
+
+    h) Art. 150, IV da CRFB/88: Trata sobre a proibição de utilizar tributo com efeito confiscatório, o qual possui conexão com os direitos à propriedade (art. 5º, caput, da CRFB/88) e livre iniciativa (art. 1º, IV da CRFB/88) e com os princípios da razoabilidade e proporcionalidade. A violação destes dispositivos se idêntica ao passo que a Recorrente é compelida a pagar tributos indevidos aos Estados nas operações que realiza.
+
+    i) Art. 150, I da CRFB/88 e art. 97 do CTN: Trata do princípio da legalidade tributária, violado pela Recorrida ao cobrar imposto sem lei que o ampare;”
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    A decisão recorrida, inclusive quanto a aplicação da modulação dos efeitos, está de acordo com a orientação fixada pelo Plenário no julgamento do RE 1.287.019, tema 1093 da repercussão geral, de relatoria do Min. Marco Aurélio, com acórdão redigido pelo Min. Dias Toffoli, cuja ementa foi publicada no DJe de 25.05.2021 e segue transcrita:
+
+    “Recurso extraordinário. Repercussão geral. Direito tributário. Emenda Constitucional nº 87/2015. ICMS. Operações e prestações em que haja a destinação de bens e serviços a consumidor final não contribuinte do ICMS localizado em estado distinto daquele do remetente. Inovação constitucional. Matéria reservada a lei complementar (art. 146, I e III, a e b; e art. 155, § 2º, XII, a, b, c, d e i, da CF/88). Cláusulas primeira, segunda, terceira e sexta do Convênio ICMS nº 93/15. Inconstitucionalidade. Tratamento tributário diferenciado e favorecido destinado a microempresas e empresas de pequeno porte. Simples Nacional. Matéria reservada a lei complementar (art. 146, III, d, e parágrafo único, da CF/88). Cláusula nona do Convênio ICMS nº 93/15. Inconstitucionalidade.
+
+    1. A EC nº 87/15 criou nova relação jurídico-tributária entre o remetente do bem ou serviço (contribuinte) e o estado de destino nas operações com bens e serviços destinados a consumidor final não contribuinte do ICMS. O imposto incidente nessas operações e prestações, que antes era devido totalmente ao estado de origem, passou a ser dividido entre dois sujeitos ativos, cabendo ao estado de origem o ICMS calculado com base na alíquota interestadual e ao estado de destino, o diferencial entre a alíquota interestadual e sua alíquota interna.
+
+    2. Convênio interestadual não pode suprir a ausência de lei complementar dispondo sobre obrigação tributária, contribuintes, bases de cálculo/alíquotas e créditos de ICMS nas operações ou prestações interestaduais com consumidor final não contribuinte do imposto, como fizeram as cláusulas primeira, segunda, terceira e sexta do Convênio ICMS nº 93/15.
+
+    3. A cláusula nona do Convênio ICMS nº 93/15, ao determinar a extensão da sistemática da EC nº 87/2015 aos optantes do Simples Nacional, adentra no campo material de incidência da LC nº 123/06, que estabelece normas gerais relativas ao tratamento diferenciado e favorecido a ser dispensado às microempresas e às empresas de pequeno porte, à luz do art. 146, inciso III, d, e parágrafo único, da Constituição Federal.
+
+    4. Tese fixada para o Tema nº 1.093: “A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais”.
+
+    5. Recurso extraordinário provido, assentando-se a invalidade da cobrança do diferencial de alíquota do ICMS, na forma do Convênio nº 93/1, em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte.
+
+    6. Modulação dos efeitos da declaração de inconstitucionalidade das cláusulas primeira, segunda, terceira, sexta e nona do convênio questionado, de modo que a decisão produza efeitos, quanto à cláusula nona, desde a data da concessão da medida cautelar nos autos da ADI nº 5.464/DF e, quanto às cláusulas primeira, segunda, terceira e sexta, a partir do exercício financeiro seguinte à conclusão deste julgamento (2022), aplicando-se a mesma solução em relação às respectivas leis dos estados e do Distrito Federal, para as quais a decisão deverá produzir efeitos a partir do exercício financeiro seguinte à conclusão deste julgamento (2022), exceto no que diz respeito às normas legais que versarem sobre a cláusula nona do Convênio ICMS nº 93/15, cujos efeitos deverão retroagir à data da concessão da medida cautelar nos autos da ADI nº 5.464/DF. Ficam ressalvadas da modulação as ações judiciais em curso.”
+
+    Ressalte-se, inclusive, que esta Corte, ao analisar os embargos de declaração opostos do julgamento da ADI 5.469, apreciada em conjunto com o RE 1.287.019, Tema 1093 da repercussão geral, deixou claro que o marco temporal para excluir as ações judiciais em curso da modulação dos efeitos em relação ao entendimento fixado nesses precedentes é a data da sessão de julgamento e não o da publicação das respectivas atas.
+
+    Nesse sentido, confira-se com os seguintes precedentes:
+
+    “ Agravo regimental em reclamação. ICMS. Diferença de alíquota. ADI nº 5.469/DF. Declaração de inconstitucionalidade. Modulação dos efeitos. Data do julgamento. Ausência de aderência estrita. Agravo regimental não provido. 1. A Corte Suprema, na apreciação da ADI nº 5.469/DF, julgada em conjunto com o Tema nº 1.093, RE nº 1.287.019/DF, sessão de 24/2/21, declarou a inconstitucionalidade formal das cláusulas primeira, segunda, terceira, sexta e nona do Convênio ICMS nº 93/15, o qual dispôs sobre “procedimentos a serem observados nas operações e prestações que destinem bens e serviços a consumidor final não contribuinte do ICMS localizado em outra unidade federada”. 2. No julgamento dos embargos declaratórios ficou consignado não ter havido omissão, contradição, obscuridade ou erro material quanto ao estabelecimento, no julgamento do mérito da ação direta, de que as ações ressalvadas da modulação dos efeitos da decisão seriam aquelas propostas até 24/2/21. 3. Há necessidade de aderência estrita do objeto do ato reclamado ao conteúdo da decisão do STF dotada de efeito vinculante e eficácia erga omnes para que seja admitida a reclamatória constitucional. Precedentes. 4. Segundo a firme jurisprudência do STF, a reclamação não pode ser usada como sucedâneo de recurso ou ação própria, a fim de provocar o exame per saltum de questão a ser desenvolvida nas instâncias ou pelos meios ordinários colocados à disposição do jurisdicionado para fazer prevalecer sua tese, em respeito ao corolário do devido processo legal e aos postulados do contraditório e da ampla defesa. 5. Agravo regimental não provido, com aplicação da multa do § 4º do art. 1.021 do CPC, a qual fixo em 5% (cinco por cento) do valor atualizado da causa, cuja execução deverá ser realizada no juízo de origem.” (Rcl 51.6289-AgR, Primeira Turma, DJe de 8.8.2022)
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. TEMA 1.093. ADI 5.469/DF. MODULAÇÃO DOS EFEITOS. DATA DO JULGAMENTO. INCONSTITUCIONALIDADE DE NORMA ESTADUAL. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II – Não se desconhece a jurisprudência deste Tribunal no sentido de que a decisão na ação direta de inconstitucionalidade em regra produz efeitos a partir da publicação da ata de julgamento. Todavia, no caso da ADI 5.469/DF, há disposição expressa fixando um outro marco temporal, a data do julgamento. III – Quanto ao pedido de declaração de inconstitucionalidade da norma estadual que impõe a cobrança do Difal pela Fazenda Pública do Estado do Rio Grande do Sul, observo que esse tema não chegou a ser examinado pelo Tribunal de origem, tratando-se de inadequação da via eleita. IV – Agravo regimental a que se nega provimento.” (Rcl 51.282-AgR, de relatoria do Min. Ricardo Lewandowski, Segunda Turma, DJe 17.05.2022)
+
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À DECISÃO PROFERIDA NA ADI 5.469. 1. Agravo interno em reclamação ajuizada sob a alegação de afronta à decisão proferida pelo Supremo Tribunal Federal (STF) na ADI 5.469 e à modulação de efeitos do julgado. 2. No julgamento conjunto da ADI 5.469 e do RE 1.287.019 (paradigma do Tema 1.093-RG), em 24.02.2021, o STF declarou a inconstitucionalidade formal das cláusulas primeira, segunda, terceira, sexta e nona do Convênio ICMS nº 93, de 17 de setembro de 2015, do Conselho Nacional de Política Fazendária (CONFAZ) e fixou a seguinte tese de repercussão geral: “A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais”. 3. Foram modulados os efeitos da decisão, para que, quanto às cláusulas primeira, segunda, terceira e sexta, a decisão produzisse efeito a partir do exercício financeiro seguinte à conclusão do julgamento (2022), ficando ressalvadas da modulação as ações judiciais em curso. No julgamento dos embargos de declaração opostos na ADI 5.469, o Min. Dias Toffoli, Relator, esclareceu que o marco temporal para as ações judiciais em curso é a data do referido julgamento. Precedentes. 4. Não está inserida na ressalva da modulação a ação ajuizada na origem pela parte ora reclamante, tendo em conta que proposta apenas em 25.02.2021 — posteriormente à data de julgamento da ADI 5.469, em 24.02.2021. 5. O juízo reclamado, ao indeferir a tutela de urgência de suspensão da exigibilidade da cobrança do DIFAL, consignou que “o crédito discutido nos autos é devido até 31.12.2021”, tendo em vista que “houve a modulação dos efeitos da referida decisão, no sentido de que produzirá efeitos a partir do exercício financeiro seguinte à conclusão do julgamento, ou seja, em 2022”. A decisão reclamada encontra-se, assim, em conformidade com o entendimento firmado na ADI 5.469 e com a modulação de efeitos realizada na ocasião. 6. Agravo interno a que se nega provimento.” (Rcl 51.287-AgR, de relatoria do Min. Roberto Barroso, Primeira Turma, DJe 20.04.2022)
+
+    No caso em questão, a ação inicial do mandado de segurança foi impetrado em 02.03.2021, ou seja, após a referida data de sessão de julgamento (24.2.2021).
+
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, a e b, do Código de Processo Civil e art. 21, §1º, do RISTF.
+
+    Sem honorários, por se tratar de mandado de segurança (Súmula 512/STF e art. 25 da Lei 12.016/2009).
+
+    Publique-se.
+
+    Brasília, 4 de agosto de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
