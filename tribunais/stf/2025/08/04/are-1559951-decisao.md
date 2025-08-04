@@ -1,0 +1,67 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão mediante a qual não foi admitido Recurso Extraordinário interposto em face de acórdão da 3ª Turma Recursal do Tribunal de Justiça do Estado do Ceará, assim ementado (eDOC 13, p. 2):
+
+    “RECURSO INOMINADO. CONCURSO PÚBLICO. SOLDADO DA POLÍCIA MILITAR. CANDIDATO. CONCORRÊNCIA. COTA RACIAL (NEGROS/PARDO). EXAME DE HETEROIDENTIFICAÇÃO. REPROVAÇÃO. RECURSO ADMINISTRATIVO. AUSÊNCIA DE FUNDAMENTAÇÃO. MOTIVAÇÃO GENÉRICA E IMPRECISA. VIOLAÇÃO AO ART. 93, IX, CF/88. SÚMULA Nº 684 DO STF. PRECEDENTES DESTA CORTE ESTADUAL. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.”
+
+    Opostos Embargos de Declaração, foram rejeitados (eDOC 16).
+
+    Com fulcro na alínea a do permissivo constitucional, aponta-se ofensa aos arts. 2º, 5º, caput,  22, XXVII, 24, §§ 1º e 2º, e 25, §1º, da Constituição da República, bem como violação ao decidido por este Supremo Tribunal Federal, no julgamento dos Temas nº 485 e nº 1.009 da repercussão geral, bem como o precedente firmado na ADC nº 41, sustentando-se, em síntese, verbis (eDOC 17, p. 3):
+
+          “O Acórdão local anulou a decisão administrativa que culminou na eliminação do candidato por entender que a banca não a fundamentou suficientemente.
+
+    No entanto, deixou de determinar nova avaliação, considerando o candidato apto para prosseguir nas demais etapas do certame, pois no seu entendimento, a lei estadual que prevê a eliminação do candidato reprovado na heteroidentificação é formal e materialmente inconstitucional. Substituiu, pois a banca examinadora.
+
+    Ao fazê-lo, violou direta e literalmente os artigos 2º, 5º, caput, 22, XXVII e 24, §§ 1º, 2º e 25, § 1º, da Constituição Federal, além de afrontar o decidido pelo Supremo Tribunal Federal na ADC 41 e no RE 632.853, Tema 485 da Tabela de Repercussão Geral.”
+
+    O recurso foi inadmitido na origem, sob o fundamento de incidência, na hipótese, dos óbices constantes das Súmulas nº 279 e nº 454 desta Corte (eDOC 19).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Com efeito, o tribunal de origem, ao analisar o ato administrativo concernente à heteroidentificação do candidato, ora parte recorrida, no certame para provimento de cargos públicos do quadro funcional da Polícia Militar do Estado do Ceará, à vista do detido exame de fatos e provas constantes dos autos, assim consignou (eDOC 13, p. 4-7):
+
+    Consoante relatado, a comissão de heteroidentificação do concurso público destinado ao cargo de soldado da PMCE retirou a parte autora da lista dos candidatos que concorrem às vagas reservadas às cotas raciais, cor parda mediante autodeclaração, consequentemente fora eliminado do processo seletivo, buscando o recorrente o prosseguimento no certame nessa condição.
+
+    No Edital nº 01/2021, o qual regeu referido concurso público, prevê o seguinte para os candidatos os quais concorrem às vagas destinadas às cotas raciais:
+
+    [...]
+
+    Normatizando essa relevante política pública de inclusão social, o Estado do Ceará editou a Lei Estadual nº 17.432, de 25.03.2021, a qual dispõe sobre a reserva de vagas para concursos públicos destinados a negros, estabelecendo o seguinte, ao que interessa ao caso vertente:
+
+    [...]
+
+    Na hipótese vertente, compulsando a decisão proferida pela Comissão Especial de Heteroidentificação no recurso administrativo (ID 4872429), denota-se que essa se resumiu única e exclusivamente a mencionar os itens do edital.
+
+    Percebe-se inexistir motivação do ato administrativo que examinou o recurso do candidato recorrente, infringindo, assim, o direito ao contraditório e à ampla defesa (grifei).
+
+    Nesse cenário, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, bem como das normas editalícias aplicadas ao concurso, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas nº 279 e nº 454 deste Supremo Tribunal Federal.
+
+    Nesse sentido:
+
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. VAGAS DESTINADAS A CANDIDATOS NEGROS E PARDOS. AUTODECLARAÇÃO. INDEFERIMENTO. ANULAÇÃO DO ATO DE ELIMINAÇÃO DO CANDIDATO. AUSÊNCIA DE CRITÉRIOS OBJETIVOS DE AVALIAÇÃO. COMPREENSÃO DIVERSA. SÚMULAS Nº 279 E 454 DO STF. VIOLAÇÃO AO ART. 2º DA CF/88 E AOS TEMAS Nº 405 E 1.009 DA REPERCUSSÃO GERAL. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, está restrita à análise de fatos e provas e das cláusulas do edital, cuja análise ou revisão são vedadas em sede de recurso extraordinário, a teor das Súmulas nº 279 e 454/STF. Não há falar, portanto, em afronta aos preceitos constitucionais indicados nas razões recursais. 2. É assente na jurisprudência desta Suprema Corte o entendimento de que a análise da legalidade dos atos administrativos pelo Poder Judiciário não configura afronta ao princípio da separação dos Poderes. 3. Não há identidade entre o presente caso, que trata de procedimento de heteroidentificação para concorrer a cotas raciais, e o Tema nº 1.009, que versa sobre a realização de novo exame psicotécnico em candidato que teve o primeiro teste anulado por ausência de objetividade dos critérios de correção estabelecidos no edital, tampouco com o Tema nº 485, em que se controverte acerca do controle jurisdicional do ato administrativo que avalia questões em concurso público. 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 5. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.” (ARE 1.532.552-AgR, Rel. Min. Flávio Dino, Primeira Turma,  DJe 29.05.2025)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO. COTAS RACIAIS. EXCLUSÃO DE CANDIDATO. VERACIDADE DA AUTODECLARAÇÃO. REEXAME DE FATOS E PROVAS E DE NORMAS EDITALÍCIAS. SÚMULAS 279 E 454 DO STF. TEMAS 485 E 1.009 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. ALEGADA AFRONTA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. IMPROCEDÊNCIA. I. Caso em exame 1. Agravo Interno em face de decisão monocrática, na qual foi negado provimento ao recurso com base nas Súmulas 279 e 454 do STF, por se cuidar, no caso, de ofensa indireta à Constituição Federal e porque os Temas 485 e 1.009 da repercussão geral, suscitados pelo Recorrente, não guardam pertinência com a controvérsia tratada nos autos. Além disso, afastou-se a alegada afronta ao princípio da separação dos poderes. II. Questão em discussão 2. A questão em discussão consiste em saber se o acórdão da Turma Recursal de origem, ao concluir pela nulidade de ato administrativo que excluiu do concurso público candidato por não considerá-lo cotista racial, contrariou os referidos Temas 485 e 1.009 da repercussão geral. III. Razões de decidir 3. Eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto à veracidade da autodeclaração, demandaria o reexame das circunstâncias fático-probatórias constante dos autos, bem como a análise das normas editalícias aplicadas ao concurso público, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF. 4. Inaplicáveis, ao caso, o Tema 485 da repercussão geral, ocasião em que esta Suprema Corte firmou a orientação no sentido de não competir ao Poder Judiciário, no controle da legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas, bem como o Tema 1.009, oportunidade em que esta Corte, fixou a tese segundo a qual: ”No caso de declaração de nulidade de exame psicotécnico previsto em lei e em edital, é indispensável a realização de nova avaliação, com critérios objetivos, para prosseguimento no certame”,pois a matéria ora em exame é diversa daquelas discutidas nos referidos paradigmas. 5. Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não viola o princípio da separação dos poderes o exame da legalidade e abusividade dos atos administrativos pelo Poder Judiciário. 6. Mantidos, portanto, os fundamentos adotados na decisão recorrida. IV. Dispositivo 7. Agravo regimental a que se nega provimento. Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pela Turma de origem. (ARE 1.534.962-AgR, de minha lavra, Segunda Turma,  DJe 26.05.2025).
+
+    Quanto à alegação de contrariedade ao art. 2º da Constituição Federal, a jurisprudência deste Supremo Tribunal Federal é pacífica no sentido de que o controle judicial da legalidade dos atos administrativos, não representa, por si só, ofensa ao princípio da separação dos poderes, como espelham os julgados assim ementados:
+
+    “Direito Constitucional e civil. Agravo regimental no recurso extraordinário com agravo. Ausência Prequestionamento. Dano moral. Nexo causal. Condições prisionais. Intervenção judicial em políticas públicas. Violação à Separação de poderes. Não configurada. Reexame fatos e provas. Súmula 279. Agravo interno não provido. [...] 6. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o controle da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. [...] IV. Dispositivo 9. Agravo interno desprovido.
+
+    (ARE 1.495.415 AgR, Relator(a): FLÁVIO DINO, Primeira Turma, j. 01.07.2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 07.07.2025 PUBLIC 08.07.2025; grifei).
+
+    EMENTA: DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. COTAS RACIAIS. EXCLUSÃO DE CANDIDATO. AUSÊNCIA DE CRITÉRIOS OBJETIVOS DE AVALIAÇÃO. VERACIDADE DA AUTODECLARAÇÃO. REEXAME DE FATOS E PROVAS E DE NORMAS EDITALÍCIAS. SÚMULAS 279 E 454 DO STF. TEMAS 485 E 1.009 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. ALEGADA AFRONTA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. IMPROCEDÊNCIA. I. Caso em exame 1. Agravo Interno em face de decisão monocrática, na qual foi negado provimento ao recurso com base nas Súmulas 279 e 454 do STF e porque os Temas 485 e 1.009 da repercussão geral, suscitados pelo Recorrente, não guardam pertinência com a controvérsia tratada nos autos. II. Questão em discussão 2. A questão em discussão consiste em saber se o acórdão do Tribunal de origem, ao concluir pela nulidade de ato administrativo que, utilizando-se de critério subjetivo de avaliação, excluiu do concurso público candidato por não considerá-lo cotista racial, contrariou os referidos Temas 485 e 1.009 da repercussão geral. III. Razões de decidir 3. Eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto à veracidade da autodeclaração, demandaria o reexame das circunstâncias fático-probatórias constante dos autos, bem como a análise das normas editalícias aplicadas ao concurso público, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF. 4. Inaplicáveis, ao caso, o Tema 485 da repercussão geral, ocasião em que esta Suprema Corte firmou a orientação no sentido de não competir ao Poder Judiciário, no controle da legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas, bem como o Tema 1.009, oportunidade em que esta Corte, fixou a tese segundo a qual: ”No caso de declaração de nulidade de exame psicotécnico previsto em lei e em edital, é indispensável a realização de nova avaliação, com critérios objetivos, para prosseguimento no certame”, pois a matéria ora em exame é diversa daquelas discutidas nos referidos paradigmas. 5. Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não viola o princípio da separação dos poderes o exame da legalidade e abusividade dos atos administrativos pelo Poder Judiciário. 6. Mantidos, portanto, os fundamentos da decisão recorrida. IV. Dispositivo e tese 7. Agravo regimental a que se nega provimento. Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pela instância a quo.
+
+    (ARE 1.504.143 AgR, Relator(a): EDSON FACHIN, Segunda Turma, j. 24.02.2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 17.03.2025 PUBLIC 18.03.2025; grifei).
+
+    Além disso, impende sublinhar que as teses firmadas por esta Corte Constitucional, sob a sistemática da repercussão geral, no julgamento dos Temas nº 485 e nº 1.009 – respectivamente, “Controle jurisdicional do ato administrativo que avalia questões em concurso público”, e “Realização de novo exame psicotécnico em candidato que teve o primeiro teste anulado por ausência de objetividade dos critérios de correção estabelecidos no edital” –, não guardam pertinência com a controvérsia tratada nos autos, a qual cinge-se, em síntese, à discussão da legalidade do ato administrativo que, em procedimento de heteroidentificação, excluiu candidato cotista de certame público.
+
+    Ante o exposto, com fundamento no art. 932, III e IV, do Código de Processo Civil, conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+
+    Publique-se.
+
+    Brasília, 4 de agosto de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
