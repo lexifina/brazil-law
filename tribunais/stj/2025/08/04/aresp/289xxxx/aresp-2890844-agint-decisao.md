@@ -1,0 +1,50 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de e-STJ fls. 459-463 passo a novo exame do agravo em recurso especial interposto por EDINA MARIA MISSIO GOBATTO e VILNA MARIA MISSIO CARDOSO contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/2/2025.
+Concluso ao gabinete em: 29/7/2025.
+Ação: de cobrança de indenização securitária c/c compensação por danos morais ajuizada por EDINA MARIA MISSIO GOBATTO e VILNA MARIA MISSIO CARDOSO em face de HDI SEGUROS S/A.
+Sentença: julgou parcialmente procedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta por VILNA MARIA MISSIO CARDOSO e negou provimento à apelação interposta por HDI SEGUROS S/A, nos termos da seguinte ementa:
+Seguro facultativo Ação de cobrança de indenização securitária c.c. indenização por danos morais julgada parcialmente procedente Apelos de ambas as partes Cerceamento de defesa Inocorrência Não constitui cerceamento de defesa o julgamento antecipado com base nos elementos dos autos, quando as demais provas requeridas se afiguram impertinentes ao caso concreto, máxime considerando o fato de que a prova é dirigida ao juiz. Tese jurídica defendida pela seguradora ré que, mesmo que comprovada pelos meios de prova pleiteados, não teria o condão de resultar na improcedência da ação de cobrança Mérito Mesmo que demonstrado que a segurada autorizou o uso do veículo sinistrado a pessoa de seu círculo de amizade, não é possível enquadrar tal situação como agravamento do risco contratado. De fato, posto que a hipótese de agravamento consistia na utilização do veículo por dependentes ou pessoa do convívio doméstico da segurada, com idade entre 17 e 24 anos, situação bem diversa da hipótese aventada pela seguradora. Destarte, inadmissíveis as alegações utilizadas pela seguradora como razão para a negativa do pagamento da indenização securitária. Dano moral não configurado Mero inadimplemento contratual Agravamento do risco segurado, mesmo que intencional, não caracteriza fraude na contratação do seguro, mas tão somente hipótese de inexigibildidade da indenização securitária. E tal situação, em absoluto, implica em ofensa a qualquer direito da personalidade do segurado, mas mero cumprimento de cláusulas contratuais Seguradora que ficou em mora com o cumprimento de sua obrigação contratual. Portanto, de rigor concluir que a seguradora ré é responsável por todos os encargos, impostos e custos incidentes sobre os salvados verificados após a data do sinistro. Inteligência do art. 395 do CC Recurso da ré improvido. Recurso da autora parcialmente provido. (e-STJ fl. 328).
+Acórdão: em reexame da questão repetitiva relativa à possibilidade de majoração dos honorários sucumbenciais, nos termos do art. 85, § 11, do CPC, o TJ/SP majorou a verba honorária de sucumbência devida ao patrono da parte autora, haja vista o não provimento da apelação interposta por HDI SEGUROS S/A, nos termos da ementa abaixo:
+Seguro facultativo. Ação de cobrança de indenização securitária c.c. indenização por danos morais. Apelação. Acórdão que negou provimento ao recurso da seguradora ré e deu parcial provimento ao recurso da parte autora. Recurso Especial. Reapreciação determinada pela C. Presidência da Seção de Direito Privado deste E. Tribunal de Justiça, nos termos do art. 1.040, II, do CPC/15. REsp nº 1865553/PR, 1865223/SC e 1864633/RS. "É pressuposto da majoração da verba honorária sucumbencial em grau recursal, tal como estabelecido no art. 85, § 11, do CPC, que o recurso interposto tenha sido infrutífero, assim considerado aquele que em nada altera o resultado do julgamento proferido na instância de origem. 2. "Fincada a premissa, não faz diferença alguma, para fins de aplicação da regra legal de majoração dos honorários em grau recursal, se o recurso foi declarado incognoscível ou integralmente desprovido: ambas as hipóteses se equivalem juridicamente para efeito de majoração da verba honorária prefixada, já que nenhuma delas possui aptidão para alterar o resultado do julgamento, e o recurso interposto, ao fim e ao cabo, em nada beneficiou o recorrente". Reexaminada, pois, a pretensão recursal em razão do que dispõe o art. 1040, II, de rigor a integração do acórdão, fazendo constar que, nos termos do art. 85, §11º, do CPC/2015, os honorários de sucumbência devidos ao patrono da parte autora devem ser majorados para 12% sobre o valor da condenação, tendo em vista o trabalho adicional realizado em grau recursal. (e-STJ fl. 404).
+Recurso especial: alega violação dos arts. 85, § 2º, I e IV, do CPC e 6º, VI, do CDC, sustentando, em síntese, i) a majoração dos honorários advocatícios sucumbenciais e ii) a configuração de danos morais à recorrente VILNA MARIA MISSIO CARDOSO.
+Decisão da Presidência do STJ : não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ.
+Agravo Interno: a parte agravante aduz que impugnou todos os fundamentos da decisão agravada e requer a reconsideração.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+No tocante à alegação de majoração dos honorários advocatícios sucumbenciais, o acórdão recorrido assim se pronunciou:
+In casu, de rigor observar que o recurso da parte autora foi parcialmente provido "para declarar que os custos incidentes sobre o bem segurado após a data do sinistro, cabem à seguradora ré." (fls. 339).
+Todavia, é certo que o recurso de apelação da seguradora ré, que objetivava a anulação ou reforma da sentença, foi totalmente desprovido.
+Com efeito, forçoso convir que o entendimento consolidado pelo C.
+Superior Tribunal de Justiça sob a sistemática dos recursos representativos de controvérsia tem aplicação no caso concreto, relativamente ao recurso da seguradora ré/apelante.
+De fato, em sendo totalmente desprovida a pretensão recursal da requerida, de rigor a majoração da honorária de sucumbência devida ao patrono da parte autora.
+Com efeito, de rigor a integração do acórdão de fls. 327/340, para que passe a constar que, nos termos do art. 85, §11º, do CPC/2015, os honorários de sucumbência devidos ao patrono da parte autora devem ser majorados para 12% sobre o valor da condenação, tendo em vista o trabalho adicional realizado em grau recursal (fls. 282/286).
+Por tais motivos, a integração do v. acórdão proferido por esta C. 29ª de Direito Privado é medida que se impõe. (e-STJ fl. 409).
+Quanto à razão recursal atinente à configuração de danos morais à recorrente VILNA MARIA MISSIO CARDOSO, o TJ/SP assentiu o que segue:
+Partindo-se de tal premissa, forçoso convir que não há que se cogitar de dano moral decorrente do inadimplemento ou demora no pagamento de indenização securitária.
+Tampouco há que se falar em dano moral decorrente da recusa ao pagamento da indenização.
+Conquanto se cuide de situação desagradável, que cause aborrecimento, certamente não configura violação dos direitos da personalidade do autor ou ainda abalo psíquico significativo.
+Em outras palavras, não enseja "dor", no seu sentido jurídico, na medida em que não implica em desvalorização "da pessoa no meio em que vive e atua".
+Nesse aspecto, nunca é demais lembrar que o inadimplemento contratual por si só não enseja o dano moral.
+(..)
+No mais, a tese de que a seguradora teria atingido a honra e a imagem da segurada ao acusá-la de agir de forma fraudulenta não se sustenta.
+Com efeito, a parte autora, ao sustentar referida tese, parte da premissa de que a negativa do pagamento da indenização por agravamento intencional de risco equivale a tentativa de crime.
+Contudo, a premissa é equivocada pois se vale de uma falsa equivalência.
+Isto porque o agravamento do risco segurado, mesmo que intencional, não caracteriza fraude na contratação do seguro, mas tão somente hipótese de inexigibildidade da indenização securitária.
+E tal situação, em absoluto, implica em ofensa a qualquer direito da personalidade do segurado, mas mero cumprimento de cláusulas contratuais.
+Em verdade, observo que foi a parte autora quem alegou, em sua inicial, que a indenização securitária teria sido recusada por suspeita de fraude.
+Todavia, não foi esse o motivo alegado pela seguradora ré em defesa.
+Por sua vez, não logrou a parte autora demonstrar que a negativa do pagamento se deu pelos motivos alegados na exordial.
+Com efeito, forçoso convir que não restou demonstrada a falsa imputação de crime capaz de violar a honra subjetiva da segurada.
+Ante o exposto, era mesmo de rigor a improcedência do pedido de indenização por danos morais. (e-STJ fls. 336-338).
+Alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Forte nessas razões, reconsidero a decisão de e-STJ fls. 454-455, e, por conseguinte, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados em mais 2% (dois por cento) "da indenização pretendida a título de danos morais" (e-STJ fl. 210), devidos pelas recorrentes, observada eventual concessão de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA C/C COMPENSAÇÃO POR DANOS MORAIS. DECISÃO MONOCRÁTICA RECONSIDERADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de cobrança de indenização securitária c/c compensação por danos morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Reconsiderada a decisão de e-STJ fls. 454-455. Agravo em recurso especial conhecido. Recurso especial não conhecido.
