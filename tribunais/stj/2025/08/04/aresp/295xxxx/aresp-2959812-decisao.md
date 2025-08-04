@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DA PARAÍBA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+AGRAVO INTERNO. EXECUÇÃO FISCAL. COBRANÇA DE TAXA DE COLETA DE RESÍDUOS DO EXERCÍCIO DE 20 . IMÓVEL 13/2016 PÚBLICO ESTADUAL SITUADO NO MUNICÍPIO DE JOÃO PESSOA. PREVISÃO TRIBUTÁRIA A PARTIR DA LEI COMPLEMENTAR 41/2006. LEGALIDADE DA COBRANÇA. SÚMULA 46 DO TJPB. MANUTENÇÃO DA DECISÃO. DESPROVIMENTO.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 2º, § 5º, III, da Lei n. 6.830/1980 e art. 202, III, do CTN, no que concerne à necessidade de reconhecimento da nulidade da CDA, pois houve a indicação de fundamentação legal equivocada, trazendo a seguinte argumentação:
+Como sabido, quanto à cobrança da TCR pelo Município de João Pessoa, para as Certidões de Dívida ativa com fundamento legal na LC 41/2006, não se aplica à Súmula nº 46, de 2014, deste TJPB, que diz: "É ilegal a cobrança da TCR-Taxa de Coleta de Resíduos sobre imóveis públicos situados no município de João Pessoa relativa período anterior à vigência da LC Municipal nº 41/2006, por ausência de previsão legal." PORÉM, não é o que acontece no presente caso, pois, como dito, as Certidões ora cobradas possuem Fundamento Legal na LC nº 16/98, que, repita-se, não previa a cobrança da TCR em prédios Públicos. Vide como consta na Certidão a parte denominada de "DEMONSTRATIVO DA ORIGEM, NATUREZA E FUNDAMENTO DA DÍVIDA":
+ ..
+Conclui-se: apesar de os fatos geradores terem sido entre 2012 a 2015, posteriores ao ano de 2006 (LC 41/2006), a CDA resta nula, pois está com vício de fundamentação, foi gerada com base em Lei que não previa a incidência da TCR em relação a prédios. Ressalta-se: não se trata de fundamentação incompleta, mas de fundamentação equivocada.
+Porém, vê-se que o Juízo a quo entendeu se tratar de "erro material". Contudo, a fundamentação legal equivocada torna nulo o título executivo. Vejamos o que dispõem o art. 2º, §5º, III, da Lei nº 6830/80, e o art. 202, III, do CTN, e entendimento jurisprudencial pátrio:
+ ..
+Por tudo, tendo em vista nulidade da CDA por fundamentação legal equivocada, não podendo a execução fiscal prosseguir (com a extinção da cobrança), resta clarividente a necessidade de reforma da decisão ora agravada (fl. 153).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, a Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17.10.2019.)
+Confiram-se ainda os seguintes precedentes: ;AgInt no AREsp n. 2.593.766/RS, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 24/2/2025; AgInt no AREsp n. 2.583.702/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 16/12/2024; AgInt no REsp n. 2.165.402/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 12/12/2024; AgInt no AREsp n. 2.709.248/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024; AgInt no REsp n. 2.149.165/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 3/10/2024; AgInt no AREsp n. 2.507.694/SP, relator Ministro Humberto Martins, Terceira Turma, DJe de 25/9/2024; AgInt no AREsp n. 2.278.229/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2023; AgInt no AREsp n. 2.277.943/RN, relator Ministro Humberto Martins, Terceira Turma, DJe de 25/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
