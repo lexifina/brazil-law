@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GERSON FISCHMANN e HACKMANN & COSTA ADVOGADOS ASSOCIADOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal.
+Agravo em recurso especial interposto em: 10/3/2025.
+Concluso ao gabinete em: 13/5/2025.
+Ação: de arbitramento de honorários proposta por GERSON FISCHMANN e HACKMANN & COSTA ADVOGADOS ASSOCIADOS contra WOLF GRUENBERG.
+Decisão interlocutória: revogou o benefício da gratuidade da justiça.
+Acórdão: deu provimento ao agravo de instrumento interposto pela parte agravada, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. AÇÃO DECLARATÓRIA DE ARBITRAMENTO DE HONORÁRIOS.
+1. Preliminar. Princípio da não surpresa. Caso concreto que a decisão proferida pelo juízo a quo está aapoiada no princípio do livre convencimento motivado, nos termos do art. 371 do CPC. AgInt no AR Esp n.º 992.525/SP do STJ. No caso em questão, diante da impugnação apresentada, a AJG foi revogada, decisão que não infringe a disposição do art. 10 do CPC. Preliminar rejeitada.
+2. Impugnação a gratuidade Judiciária. Revogação. A revogação da Assistência Judiciária Gratuita, quando a impugnação é rejeitada, exige evidências de alteração na situação econômica do beneficiário. Caso dos autos que, considerando a ausência de mudança na situação econômica do beneficiário, não há justificativa para revogar o benefício. Decisão foi reformada para manter a gratuidade.
+PRELIMINAR REJEITADA. RECURSO PROVIDO. (e-STJ Fls. 162)
+Embargos de Declaração: opostos pela parte agravante, foram desacolhidos. (e-STJ Fls. 184)
+Recurso especial: alega violação dos arts. 1.022, I e II, 100 do CPC. A parte agravante sustenta em seu recurso especial que o acórdão dos embargos de declaração não sanou a obscuridade nem as omissões apontadas. Sustenta que o Tribunal deixou de enfrentar argumentos essenciais, como os indícios de ocultação de patrimônio pelo recorrido e sua residência em imóvel de alto padrão no exterior, fatos que demonstrariam ausência de hipossuficiência econômica desde o início, e não decorrência de evento superveniente. Afirma ainda que o acórdão da apelação contrariou o artigo 100 do CPC ao exigir, indevidamente, prova de alteração posterior da situação econômica para admitir a impugnação à gratuidade judiciária, quando a lei não impõe tal condição. (e-STJ Fls. 193-198)
+RELATADO O PROCESSO, DECIDE-SE.
+-Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de que (i) as alegações da parte agravante não são suficientes para justificar a revogação do benefício, uma vez que o fato da parte agravada ter sofrido um infarto em Punta Del Leste e ser transferida de avião para São Paulo não caracteriza um evento superveniente à concessão da benesse, nos termos do art. 100 do CPC (e-STJ Fls. 160); (ii) ao contrário do que sustentam os agravantes nos embargos de declaração opostos na origem, o acórdão embargado foi claro ao referir-se aos fatos ocorridos nos autos, ou seja, que o benefício da gratuidade foi revogado em face da impugnação por eles apresentada (e-STJ Fl. 182) e que (iii) a revogação do benefício dar-se-á se for comprovada a mudança das condições de insuficiência que levaram à sua concessão, o que não ocorreu no caso dos autos. (e-STJ Fl. 182)
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos arts. 489 e 1.022 do CPC.
+- Do reexame de fatos e provas
+A jurisprudência do STJ se firmou no sentido de que o pedido pode ser indeferido ou revogado quando o juiz tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado.
+Nesse sentido: AgInt no AREsp 1.395.383/SP, 4ª Turma, DJe de 8/4/2019; e AgInt no AREsp 1.311.620/RS, 3ª Turma, DJe de 14/12/2018).
+Na hipótese dos autos, o Tribunal de origem consignou que as alegações da agravada não são suficientes para justificar a revogação do benefício, uma vez que o fato da parte ter sofrido um infarto em Punta Del Leste e ser transferida de avião para São Paulo não caracteriza um evento superveniente à concessão da benesse, nos termos do art. 100 do CPC, consubstanciado na falta de evidências que comprovem a modificação da situação econômica da parte agravada (e-STJ fl. 161), de modo que, admitidos os fatos exarados no acórdão, o entendimento não destoa da jurisprudência do STJ, sendo vedada a incursão no acervo fático probatório dos autos para modificação do entendimento em face à Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PEDIDO DE REVOGAÇÃO DE GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE MODIFICAÇÃO DA SITUAÇÃO FINANCEIRA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de arbitramento de honorários.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O pedido de gratuidade da justiça pode ser indeferido ou revogado quando o juiz tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado. Precedentes.
+5. Alterar o decidido no acórdão impugnado, no que se refere à ausência de modificação da condição financeira que deu azo à concessão do pedido de justiça gratuita da parte contrária, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
