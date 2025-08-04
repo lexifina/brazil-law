@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARIA ZILAIR ALVES MEIRELES, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: declaratória c/c reparação de danos ajuizada pela agravante, em face do BANCO PAN S.A., em virtude de descontos indevidos em sua conta bancária.
+Sentença: julgou improcedentes os pedidos.
+Decisão monocrática: não conheceu da apelação interposta pela agravante.
+Acórdão: manteve decisão do Relator que não conheceu da apelação interposta, nos termos da seguinte ementa:
+DIREITO PRIVADO. AGRAVO INTERNO. NÃO CONHECIMENTO DE RECURSO PRINCIPAL. SUM 43 DO TJCE. AUSÊNCIA DE DIALETICIDADE. ÔNUS DA IMPUGNAÇÃO ESPECÍFICA. ART. 932, INC. III, DO CPC/15. AGRAVO CONHECIDO E DESPROVIDO.
+1. Cuidam-se os presentes autos de Agravo Interno interposto contra decisão monocrática que não conheceu do recurso principal por ausência de dialeticidade.
+2. Nas razões recursais não se vê impugnação específica à decisão vergastada, se não, mera repetição dos argumentos do recurso de Agravo de Instrumento, limitando-se o recorrente a postular a reforma da sentença por argumentos já refutados ao longo do processo, configurando desrespeito ao princípio da dialeticidade, perfectibilizado pelo ônus do recorrente de impugnar todos os fundamentos que justificariam a reforma da sentença.
+3. Quando se observa o presente Agravo Interno, constata-se sem dificuldade que, em comparação com o recurso antecedente, o agravante limitou-se a reproduzir trechos do recurso primevo, sem desafiar os fundamentos da decisão monocrática, o que por si só, vilipendia o princípio da dialeticidade recursal.
+4. No presente agravo interno o instituto apelante se limita a repetir os poucos argumentos expostos no recurso de apelação, novamente recaindo na falta processual de evasividade sobre os termos da decisão que busca reforma.
+5. Conforme se depreende das razões expostas, a parte recorrente não impugna a decisão monocrática ou seus fundamentos determinantes.
+6. Trata-se de ônus processual a impugnação específica dos termos decisórios, sendo desprovido de dialeticidade o recurso que não ataca os motivos de decidir postos no julgamento. É previsão sumular a respeito do tema: Súmula nº. 43 do repositório de jurisprudência deste Egrégio Tribunal, assim editada: Não se conhece de recurso quando não é feita a exposição do direito e das razões do pedido de nova decisão.
+7. Recurso conhecido e desprovido. Decisão mantida. (e-STJ fls. 246/247)
+Decisão de admissibilidade do TJ/CE: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de prequestionamento (Súmula 282/STF); ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ); iii) ausência de violação ao art. 489 do CPC.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "é imperioso esclarecer que a matéria invocada no recurso especial foi devidamente suscitada ao longo do processo, estando intrinsecamente ligada à controvérsia decidida"; ii) "A agravante apresentou razões recursais claras e fundamentadas, diretamente voltadas a impugnar os fundamentos da sentença, abordando questões centrais relacionadas à interpretação e aplicação da legislação"; iii) "A interpretação da decisão agravada no sentido de que houve análise adequada do caso não encontra respaldo nos autos, pois questões essenciais foram ignoradas, o que inviabiliza a plena defesa da parte."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) ausência de prequestionamento (Súmula 282/STF); ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ); iii) ausência de violação ao art. 489 do CPC.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 15 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
