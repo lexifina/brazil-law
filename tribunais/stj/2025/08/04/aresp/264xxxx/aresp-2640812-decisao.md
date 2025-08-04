@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRE AUGUSTO SILVA CARVALHO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na apelação criminal n. 1501116-49.2021.8.26.0545 (fls. 406/418).
+No recurso especial, o agravante postula: a) o reconhecimento da causa especial de redução de pena, prevista no art. 33, § 4º, da Lei n. 11.343/2006, no seu grau máximo; e b) o abrandamento de regime de pena (fls. 437/469).
+O Tribunal de origem não admitiu o recurso com suporte no óbice das Súmulas 7/STJ e 283/STF (fls. 495/498).
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo (fls. 554/557).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade.
+Acerca da não aplicação da causa de redução da pena benefício prevista no art. 33, § 4º, da Lei n. 11.343/2006, assim se manifestou o Tribunal de origem (fls. 415/417 - grifo nosso):
+
+Melhor sorte não assiste à Defesa, quanto ao pedido de reconhecimento da figura do tráfico privilegiado, em relação ao apelante André.
+O artigo 33, § 4º, da Lei nº 11.343/06, estabelece que a minoração da pena em decorrência do tráfico privilegiado está condicionada à primariedade e aos bons antecedentes do agente e à inexistência de indicativos de que ele se dedique a atividades criminosas ou integre organização criminosa.
+No caso em apreço, embora o apelante André seja tecnicamente primário e não ostente antecedentes criminais, há indícios de que ele realmente se dedique à atividade criminosa.
+Isso porque, primeiramente, ele ostenta histórico de atos infracionais (fl. 41), pela prática de atos análogos ao crime de receptação e de posse de drogas para consumo pessoal, praticados nos anos de 2020 e 2019, respectivamente. Frise-se que, em processo de execução de medidas socioeducativas, de nº 0004096-57.2020.8.26.0099, consta o descumprimento das medidas impostas ao ora apelante André, gerando a revogação da remissão que lhe havia sido concedida. Verifica-se, assim, sua dedicação à atividade criminosa, justificando o afastamento da benesse prevista no artigo 33, § 4º, da Lei nº 11.343/06
+
+Além disso, foi o apelante André flagrado em local conhecido pela mercancia de entorpecentes, em posse de 46 papelotes de cocaína, a denotar reiteração da conduta ilícita além de organização da prática delitiva, vez que os entorpecentes estavam já divididos e acondicionados para a venda.
+ ..
+No presente caso, verifica-se que os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação do agravante a atividades criminosas.
+Observa-se que os fundamentos para afastar a causa redução de pena, assenta-se no fato de o agravante ostentar registro de atos infracionais anteriores, dentre os quais, o delito análogo à receptação, além das circunstâncias relativas ao local da apreensão da droga, conhecido pela mercancia de entorpecentes. Assim, para se acolher a tese de que ele não se dedica a atividades criminosas, para fazer incidir o art. 33, § 4º, da Lei 11.343/2006, como deseja, imprescindível seria necessária a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante na Súmula 7/STJ.
+Cito: AgRg no HC n. 936.592/SP, de minha relatoria, Sexta Turma, DJe de 23/10/2024.
+Quanto ao pleito para fixação de regime mais brando, assiste razão ao agravante. Observa-se que ele fora condenado à pena de 5 anos de reclusão pela prática de crime de tráfico, havendo o recrudescimento do regime inicial de pena, ao argumento da hediondez e das graves consequências do delito, da dedicação do agravante a atividades criminosas, aliado à previsão do art. 42 da Lei n. 11.343/2006.
+A jurisprudência desta Corte Superior é pacífica no sentido de que não há condições aptas a recrudescer o regime prisional, em detrimento do quantum de pena imposta diante da ausência de qualquer consideração realizada na primeira fase da dosimetria, sobre a existência de circunstâncias judiciais desfavoráveis, nos termos do art. 59 do Código penal ou ainda de outra situação que demonstre a gravidade concreta do delito perpetrado, ensejando a necessidade de correção, com a imposição do regime semiaberto, notadamente, em sendo o agravante primário e de bons antecedentes, aliada à pequena quantidade da droga apreendia, a afastar, inclusive, a previsão do art. 42 da Lei n. 11.343/2006.
+Confiram-se: AgRg no HC n. 593.052/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 2/9/2020; e AgRg no HC n. 587.594/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2020.
+Em face do exposto, conheço do agravo para dar parcial provimento ao recurso especial, com abrandamento de regime de pena para o semiaberto, nos termos da presente decisão, ausentes outras circunstâncias negativas, ficando preservados os demais termos do combatido acórdão.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (1,3 G DE CRACK, 36,1 G DE COCAÍNA E 8,2 G DE MACONHA). PLEITO PARA APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. PEDIDO PARA FIXAÇÃO DE REGIME PRISIONAL MAIS BRANDO. PROVIMENTO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PRIMARIEDADE E BONS ANTECEDENTES. JURISPRUDÊNCIA DO STJ.
+Agravo conhecido para dar parcial provimento ao recurso especial.
