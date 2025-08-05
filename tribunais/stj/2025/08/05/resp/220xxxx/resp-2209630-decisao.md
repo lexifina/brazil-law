@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto por AXUR SEGURANCA E DEFESA CIBERNETICA LTDA. contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 299-302):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. SALÁRIO-EDUCAÇÃO. INCRA. LIMITAÇÃO. 20 SALÁRIOS-MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. TEMA 1.079/STJ.
+1. A limitação da base de cálculo das contribuições a terceiros em 20 salários-mínimos, prevista no parágrafo único do art. 4º da Lei n. 6.950/81, foi revogada pelo Decreto-Lei n. 2.318/86 juntamente com o caput do mesmo artigo, porquanto não é possível que remanesça em vigência parágrafo de lei estando revogado o artigo correspondente.
+2. Ao julgar o Tema 1.079 dos recursos repetitivos, o STJ decidiu que "a partir da entrada em vigor do art. 1º, I, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários".
+3. O salário-educação é regido por legislação específica, em razão do que também a ele não se aplica o teto de 20 salários-mínimos.
+Os embargos de declaração foram rejeitados (fls. 337-340).
+Nas razões recursais, Axur Segurança e Defesa Cibernética Ltda. sustenta, em síntese, violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta aos arts.  dispositivos , sustentando que, "48. Em verdade, ao limitar-se a aplicar o entendimento fixado pelo Tema 1079/STJ no presente caso, o i. relator restou omisso quanto a limitação da base de cálculo a 20 salários-mínimos, com fulcro no art. 4º, parágrafo único, da Lei nº 6.950/81, das seguintes contribuições devidas a entidades terceiras: Salário Educação, Sebrae e Incra."
+Não foram apresentadas contrarrazões ao recurso.
+No juízo de adequação não houve retratação. Afirmou-se a "consonância com a tese firmada em julgamento de recursos repetitivos, de maneira que a aplicação do Tema 1079 do STJ é medida que se impõe".
+É o relatório.
+Passo a decidir.
+Com relação à alegada violação aos arts. 489 e 1.022, I e II, do CPC/2015, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, faz incidir a Súmula 284/STF, o que impede o conhecimento do recurso especial, ante a deficiência na fundamentação. Nesse sentido: AgInt no AREsp 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023.
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284/STF, aplicável, por analogia, no âmbito desta Corte.
+Destaco do acórdão integrativo à fl. 338:
+De outra banda, a decisão embargada consignou expressamente que "a jurisprudência desta Corte é iterativa no sentido de que a limitação de 20 salários-mínimos, prevista no parágrafo único do art. 4º da Lei n.º 6.950/81, foi revogada juntamente com o caput do referido art. 4º, pelo Decreto-Lei n.º 2.318/86, por não ser possível subsistir em vigor o parágrafo estando revogado o artigo correspondente".
+Com efeito, analisou-se a controvérsia em relação a todas as contribuições parafiscais.
+O precedente do STJ sobreveio tão somente para corroborar o entendimento desta Turma quanto aos tributos nele discutidos, não redundando em qualquer restrição à conclusão que vinha sendo adotada.
+Na espécie, a parte embargante pretende, em verdade, a rediscussão dos fundamentos da decisão, com a alteração do julgado, detendo o presente recurso caráter meramente infringente, que se mostra incabível nesta via processual.
+Nas razões do recurso especial, a parte recorrente não impugnou a fundamentação apresentada pela Corte regional, segundo a qual:
+- a limitação de 20 salários-mínimos, prevista no parágrafo único do art. 4º da Lei n.º 6.950/81, foi revogada juntamente com o caput do referido art. 4º, pelo Decreto-Lei n.º 2.318/86, por não ser possível subsistir em vigor o parágrafo estando revogado o artigo correspondente.
+- Com efeito, analisou-se a controvérsia em relação a todas as co ntribuições parafiscais.
+Portanto, incide o óbice da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Ainda que assim não fosse, em síntese, o teto limite de 20 (vinte) vezes o maior salário mínimo vigente no país previsto no art. 4º, parágrafo único, da Lei 6.950/1981, não se aplica tanto para as bases de cálculo das contribuições ao SESI, SENAI, SESC e SENAC quanto para as bases de cálculo das contribuições ao salário-educação, INCRA, DPC, FAER, SEBRAE, SENAR, SEST, SENAT, SESCOOP, APEX-Brasil, ABDI e a todas as contribuições parafiscais das empresas de cuja base de cálculo não participe o conceito de "salário de contribuição".
+Conforme a tese firmada por este STJ, resultou definido que a edição do Decreto-Lei 2.318/1986 afastou o teto de vinte salários mínimos para a base de cálculo não apenas das contribuições previdenciárias, mas também das contribuições parafiscais voltadas ao custeio do Sistema S (SESI, SENAI, SESC e SENAC), com modulação dos efeitos da decisão em alguns casos.
+No que tange ao salário-educação, essa contribuição possui regras próprias de incidência (art. 15 da Lei 9.424/1996), ou seja, alíquota de 2,5% sobre o total de remunerações pagas ou creditadas, a qualquer título, aos segurados empregados. Com efeito, regulada por lei especial (específica) e posterior a limitação disciplinada pela Lei 6.950/1981, inaplicável à base de cálculo o teto de 20 salários mínimos.
+Por óbvio, a tese também deve ser aplicada em relação às contribuições destinadas ao salário-educação, ao INCRA, ao SEBRAE e às outras contribuições parafiscais arrecadadas por conta de terceiros.
+Isso posto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
