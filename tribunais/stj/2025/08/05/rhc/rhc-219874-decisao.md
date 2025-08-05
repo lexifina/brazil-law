@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, impetrado em favor de RAISSA FERNANDA DE LIMA SOUZA e JOSÉ ROBERTO SILVA ROCHA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5292828-46.2025.8.09.0000).
+Consta dos autos que os recorrentes foram denunciados pela prática do delito previsto no art. 33 da Lei de Drogas.
+Nesta insurgência, requerem o provimento do recurso ordinário para conceder a ordem de Habeas Corpus, reconhecendo-se a ilicitude das provas colhidas mediante abordagem e ingresso domiciliar ilegais e determinando-se o trancamento da ação penal e, subsidiariamente, a revogação da prisão preventiva, com a aplicação de medidas cautelares diversas.
+Parecer ministerial de fls. 191/197 opinando pelo improvimento do recurso.
+É o relatório.
+DECIDO.
+O recurso comporta parcial conhecimento.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente, ressaltou o seguinte (fls. 29/32; grifamos):
+No tocante à autuada Raissa, verifica-se a existência de antecedente criminal por homicídio qualificado, não havendo, contudo, execução penal em curso em seu desfavor até o presente momento. Assim, do exame dos autos, tenho que os flagrados, em liberdade, apresentam um risco à ordem pública, em razão dos fatos que lhe são atribuídos e da possibilidade de reiteração delitiva. A expressiva quantidade de drogas reforça a gravidade concreta da conduta e o potencial lesivo à ordem pública, demonstrando a necessidade da custódia para interromper a atividade criminosa e resguardar a sociedade. Ademais, suas prisões também são necessárias para assegurar a aplicação da lei penal, visto que o fato novo precisa ser apurado pelo Juízo da execução da pena.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar (fls. 113/135; grifamos):
+O writ, por sua natureza sumária e que não comporta dilação probatória, não se mostra adequado para a análise aprofundada dessas questões, que demandam exame minucioso de provas e contraprovas, com o devido contraditório. A análise da tese de ilegalidade da busca pessoal e invasão de domicílio, por exemplo, somente se mostraria compatível com o habeas corpus em situações excepcionais, quando houvesse prova pré-constituída suficientemente clara a indicar, de plano, situação de abuso ou erro flagrante na ação policial, hipótese que não se verifica nos presentes autos, ao menos neste juízo preliminar.
+No mesmo sentido, a alegação de violação ao aviso de Miranda exigiria uma avaliação contextualizada de todas as circunstâncias que envolveram o interrogatório informal, análise está incompatível com a natureza do presente remédio constitucional, sem olvidar o entendimento predominante acerca de sua inexistência na legislação pátria.
+(..)
+De fato, as circunstâncias fáticas do suposto crime, a natureza da droga (cocaína) bem como a suspeita da existência de um local de refino e adulteração da substância para a ulterior venda, recomendam a custódia para acautelar o meio social, já que sinalizam, a princípio, a finalidade de difusão ilícita e apontam para o envolvimento dos pacientes com a traficância estruturada.
+Além disso, a circunstância de ter sido encontrado na residência dos pacientes um possível laboratório de refino e adulteração de cocaína, com prensas hidráulicas, balanças eletrônicas, liquidificador industrial, embalagens e insumos compatíveis com a prática delitiva, revela, em tese, a propensão à prática de ilícitos penais dessa natureza, a habitualidade delitiva e a periculosidade social dos agentes, reforçando a necessidade da custódia, notadamente para inibir a reiteração delitiva.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir da quantidade e variedade da droga apreendida em poder dos recorrentes, além de de ter sido encontrado na residência dos envolvidos um possível laboratório de refino e adulteração de cocaína, com prensas hidráulicas, balanças eletrônicas, liquidificador industrial, embalagens e insumos compatíveis com a prática delitiva, revelando, em tese, a propensão à prática de ilícitos penais dessa natureza.
+Tal circunstância demonstra a periculosidade dos agentes e é apta a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..)
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+A tese da ilicitude das provas em decorrência da suposta invasão de domicílio não foi avaliada pelo Tribunal de origem, motivo pelo qual esta Corte de Justiça não pode sobre ela deliberar, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+ ..  (AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, conheço parcialmente do recurso e, nesta extensão, lhe nego provimento.
+Publique-se. Intimem-se.
+EMENTA
