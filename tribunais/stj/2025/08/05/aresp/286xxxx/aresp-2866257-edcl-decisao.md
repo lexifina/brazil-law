@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BRIDGESTONE DO BRASIL INDÚSTRIA E COMÉRCIO LTDA. contra decisão monocrática de fl. 628 que conheceu do agravo para não conhecer do recurso especial anteriormente interposto.
+Alega a embargante omissão da decisão apontada em virtude de não ter analisado a petição de fls. 596-619, por meio da qual a sociedade empresária informara a perda de objeto dos autos, em virtude do trânsito em julgado do Mandado de Segurança nº 0059547-19.1999.4.03.6100, cuja conclusão, segundo afirma, torna prejudicada, por completo, a controvérsia debatida nestes autos.
+A Fazenda Nacional manteve-se inerte no prazo processual para impugnação aos embargos.
+Intimada para que se manifestasse especificamente quanto à PET 00242284/2025, Fazenda Nacional permaneceu omissa quanto mérito do que requerido, relatando os embargos de declaração e requerendo a certificação do trânsito em julgado do feito.
+É o relatório. Decido.
+Acolho os embargos de declaração, na medida em que, de fato, a decisão embargada foi omissa quanto à informação anterior de perda de objeto recursal, para analisar o conteúdo da PET 00242284/2025.
+A questão relativa à total perda de objeto do feito em decorrência do trânsito em julgado do Mandado de Segurança nº 0059547-19.1999.4.03.6100 não é incontroversa nos autos, na medida em que não houve manifestação da recorrida quanto ao tema e sua verificação dependeria, na hipótese, do reexame de fatos e provas produzidos nos autos, bem como do teor do título judicial transitado em julgado na ação mandamental. Trata-se de questões cuja análise no âmbito do Superior Tribunal de Justiça, pela via estreita do recurso especial, encontra-se obstaculizada pela Súmula n. 7/STJ.
+Por outro lado, verifica-se que por meio da PET 00242284/2025, a sociedade empresária recorrente comunicou a perda de objeto, requerendo o não conhecimento do agravo em recurso especial. A decisão embargada conheceu do agravo para não conhecer do recurso especial.
+O agravo em recurso especial é opção recursal de fundamentação vinculada cujo mérito diz respeito à impugnação específica e suficiente dos óbices de admissibilidade ao recurso especial reconhecidos pelo Tribunal de origem, para que referido recurso seja analisado pelo Superior Tribunal de Justiça. Seu objeto, na hipótese, se exauriu com o conhecimento e a subsequente análise do recurso especial, que não foi conhecido, produzindo resultado prático equivalente, não se verificando - porque não demonstrado - qualquer prejuízo à embargante.
+Observa-se que não houve pedido alternativo ou subsidiário de desistência recursal na PET 00242284/2025, que deixou de ser analisada em momento oportuno.
+Em razão do exposto, acolho os embargos de declaração, para sanar as omissões apontadas, sem efeitos infringentes contudo.
+Publique-se. Intimem-se.
+EMENTA
