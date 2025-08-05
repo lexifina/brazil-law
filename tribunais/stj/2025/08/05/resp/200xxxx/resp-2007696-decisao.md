@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por TELPO HENRIQUE PENTEADO MONTAGNANI, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado (fls. 1861/1869 e-STJ):
+AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE INDEFERIU A CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Necessidade de intimação da parte agravante anteriormente ao indeferimento da justiça gratuita para comprovar o preenchimento dos pressupostos - Discussão incólume, tendo em vista que o agravante apresentou os documentos que entende necessários juntamente com o recurso de Agravo Interno.
+2. Justiça gratuita - Manutenção do indeferimento - Provas carreadas nos autos que não são suficientes para demonstrar a hipossuficiência econômica da parte agravante, principalmente diante do quadro fático de que o agravante é credor por cessão onerosa de direitos sobre expurgos inflacionários em contas de poupança - Não concessão da assistência judiciária gratuita.
+3. Impossibilidade de falar sobre deferimento tácito da justiça gratuita -Entendimento do Superior Tribunal de Justiça.
+RECURSO NÃO PROVIDO.
+Nas razões do especial (fls. 1875/1936 e-STJ), o insurgente alega, além de dissídio jurisprudencial, violação aos artigos 98 e 99, caput e §§ 2º e 3º, do Código de Processo Civil e artigos 4º, caput (vigente na época da propositura da ação) e 5º, caput, da Lei 1.060/1950.
+Aduz, em suma, que: i) a ausência de indeferimento expresso e fundamentado sobre pedido de gratuita de justiça implica no reconhecimento de seu deferimento tácito; ii) a gratuidade de justiça foi indeferida sem se oportunizar ao recorrente a prova complementar de seu direito; iii) comprovou suficientemente a hipossuficiência, fazendo jus ao benefício pleiteado, inclusive porque foi demitido de seu emprego; iv) o Tribunal não analisou todas as provas juntadas aos autos. Pediu a atribuição de efeito suspensivo ao reclamo.
+Contrarrazões às fls. 2223/2239 e-STJ.
+Após juízo de admissibilidade positivo, com atribuição de efeito suspensivo ao recurso (fls. 2244/2247 e-STJ), ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Segundo a orientação prevalente nesta Corte Superior, presume-se "o deferimento do pedido de assistência judiciária gratuita não expressamente indeferido por decisão fundamentada (..)" (AgRg nos EAREsp 440.971/RS, Rel. Ministro Raul Araújo, Corte Especial, julgado em 3/2/2016, DJe 17/3/2016).
+No caso em exame, todavia, mesmo que se considere ter havido o deferimento tácito da gratuidade de justiça em virtude da não apreciação do pedido formulado perante o juízo de primeiro grau, há de se ter em vista que, quando da interposição da apelação, o pedido foi apreciado de forma expressa pelo Tribunal e indeferido de modo fundamentado.
+Esse indeferimento equiparou-se à revogação expressa da concessão do benefício, o qual cessou a partir daquele momento, ainda que não se possa atribuir efeitos retroativos à deliberação. A propósito, "A jurisprudência deste Superior Tribunal dispõe no sentido de que, uma vez concedida a gratuidade da justiça, tal benesse conserva-se em todas as instâncias e para todos os atos do processo, salvo se expressamente revogada." (AgInt no AREsp n. 1.137.758/SP, Relator. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/5/2020, DJe 8/5/2020).
+1.1. Quanto à alegada inobservância do disposto no art. 99, § 2º, do CPC, a Corte local assentou o seguinte:
+(..) mesmo diante da necessidade de intimação da parte para que haja a negativa na concessão do benefício da assistência judiciária gratuita, no caso em apreço tal discussão se mostra inócua, afinal, com a interposição do presente agravo interno o agravante colacionou as provas que entende necessárias para demonstrar a esta Corte de Justiça o preenchimento dos pressupostos para concessão da benesse, de modo que passo a análise do pedido acerca do deferimento da justiça gratuita. O indeferimento da benesse deve ser mantido.
+Entendeu-se que, embora o recorrente não tenha sido intimado para comprovar a insuficiência financeira antes do indeferimento por decisão monocrática do relator, ele apresentou as provas pertinentes ao interpor o agravo interno, com base nas quais o Tribunal entendeu por manter o indeferimento do benefício.
+Ressalte-se que esse fundamento não foi rechaçado pelo recorrente, sendo certo que, em conformidade com a jurisprudência desta Corte, ausente a demonstração de efetivo prejuízo, não há que se falar em nulidade do ato processual (v. AREsp n. 2.544.747/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/4/2025, DJEN de 6/5/2025; AREsp n. 2.400.501/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+1.2. Por fim, o acórdão encontra-se em consonância com o entendimento este STJ segundo o qual "A presunção prevista no art. 99, § 3º, do CPC/2015 quanto à assistência judiciária gratuita é relativa e poderá ser afastada se o magistrado encontrar elementos que coloquem em dúvida a hipossuficiência declarada pelo peticionário." (HDE n. 6.660/EX, relator Ministro Francisco Falcão, Corte Especial, julgado em 15/5/2024, DJe de 23/5/2024). Confiram-se, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior estabelece que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. O benefício, todavia, pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+2. Tendo o Tribunal de origem entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada depende do reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.481.355/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024.)  grifou-se
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA. NÃO COMPROVAÇÃO DOS REQUISITOS. REEXAME DE PROVAS. SÚMULA N. 7/STJ. PRINCÍPIO DA DIALETICIDADE. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. A declaração/afirmação de pobreza (hipossuficiência financeira) tem presunção relativa, podendo o pedido de gratuidade de justiça ser indeferido quando não demonstrados os requisitos necessários.
+Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.380.201/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)  grifou-se
+Aplica-se, assim, o teor da Súmula 83/STJ.
+Ademais, uma vez que o Tribunal constatou, à luz dos documentos constantes dos autos, que a parte recorrente não comprovou a hipossuficiência, derruir essa conclusão, verificando o preenchimento dos requisitos legais para o deferimento da justiça gratuita, demandaria reexame de fatos e provas, o que é vedado pelo enunciado da Súmula 7 do STJ.
+Nesse sentido: AgInt no REsp n. 2.157.566/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgad o em 14/10/2024, DJe de 16/10/2024; AgInt no AgInt no AREsp n. 1.916.722/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022; AgInt no AREsp n. 1.115.603/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/10/2017, DJe de 17/10/2017.
+2. Do exposto, com fulcro no artigo 932 do CPC c/c Súmula 568 do STJ, nego provimento ao recurso especial.
+Não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
