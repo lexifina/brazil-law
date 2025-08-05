@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADRIANA SANTANA DA SILVA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de prequestionamento, violação da Constituição Federal -via inadequada, reexame de matéria fática e interpretação de cláusula contratual, e prejudicada a análise do dissídio jurisprudencial (fls. 2.154-2.159).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso não merece prosperar, pois a decisão recorrida está de acordo com a jurisprudência do STJ, e requer a majoração da condenação em litigância de má fé (fls. 2.175-2.182).
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso em apelação nos autos de ação revisional de contrato c/c indenização por danos morais.
+O julgado foi assim ementado (fls. 2.076-2.077):
+APELAÇÕES CÍVEIS - AÇÃO REVISIONAL DE CONTRATO C/C INDENIZAÇÃO POR DANOS MORAIS - RESCISÃO CONTRATUAL CULPA COMPRADOR - INADIMPLÊNCIA CONTRATUAL - PRELIMINAR DE CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - PEDIDO DE EFEITO SUSPENSIVO NA APELAÇÃO - NECESSIDADE DE REQUERIMENTO AUTÔNOMO - MÉRITO - COMPROMISSO DE COMPRA E VENDA - REAJUSTE - INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS REMUNERATÓRIOS - CUMULAÇÃO - POSSIBILIDADE - FUNÇÕES DISTINTAS - RECOMPOSIÇÃO DA MOEDA E REMUNERAÇÃO DO CAPITAL EMPREGADO - INDENIZAÇÃO POR FRUIÇÃO DO IMÓVEL - DEVIDA - ACESSÃO NO LOTE URBANO - DIREITO DA PRIMEIRA APELANTE EM SER INDENIZADA - BOA-FÉ PRESUMIDA - REGRA DO ART. 1.255 DO CPC - COMPENSAÇÃO - CONFIRMADA - JULGAMENTO EXTRA PETITA - NÃO OCORRÊNCIA - DISTRATO POR PARTE DA PROMITENTE COMPRADORA - SÚMULA 543 STJ - RETENÇÃO DE 10% DOS VALORES PAGOS - INCABÍVEL MAJORAÇÃO - INTERESSE DA EMPRESA NA APLICAÇÃO DA LEI Nº 13.786/2018 - INADMISSIBILIDADE - CONTRATO FIRMADO ANTERIORMENTE À VIGÊNCIA DA LEI - HONORÁRIOS ADVOCATÍCIOS - BASE DE CÁLCULO - ALTERAÇÃO PARA O VALOR DA CONDENAÇÃO - ART. 85, § 2º, DO CPC - SENTENÇA MODIFICADA NO PONTO - RECURSO DA AUTORA DESPROVIDO - RECURSO DA REQUERIDA PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 6º, VIII, do Código de Defesa do Consumidor, porque não foi efetivamente assegurada a inversão do ônus da prova;
+b) 51, IV, do Código de Defesa do Consumidor, porque o contrato impôs encargos financeiros abusivos, especialmente a capitalização de juros;
+c) 53 do Código de Defesa do Consumidor, porque a retenção de 10% dos valores pagos seria contrária ao artigo 53 do Código de Defesa do Consumidor e à Súmula n. 543 do STJ;
+d) 186 e 927 do Código Civil, porque a conduta da parte recorrida causou danos à recorrente;
+e) 4º do Decreto n. 22.626/1933 e Súmula n. 121 do STF, porque houve cobrança de juros compostos, o que é vedado pela legislação.
+Sustenta que o Tribunal de origem divergiu ao decidir que a retenção de 10% dos valores pagos pela recorrente é legítima, indicando precedentes que reconhecem a nulidade de cláusulas contratuais abusivas e o direito do consumidor à devolução integral em situações semelhantes.
+Requer o provimento do recurso para que seja anulada a decisão com retorno dos autos para produção de prova pericial requerida, ou, caso não seja este o entendimento, reformando o acórdão recorrido para declarar a nulidade das cláusulas contratuais abusivas e determinar a revisão do contrato, excluindo a aplicação de juros compostos, determinar a devolução integral dos valores pagos pela recorrente, afastar a taxa de fruição e determinar a inversão do ônus sucumbenciais.
+Nas contrarrazões, a parte recorrida aduz que o recurso não merece prosperar, pois a decisão da Corte Estadual está de acordo com a jurisprudência do STJ (fls. 2.134-2.153).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de revisão contratual c/c indenização de danos morais com pedido de tutela de urgência em que a parte autora pleiteou a nulidade das cláusulas abusivas, a renegociação da dívida sem juros abusivos, a condenação ao pagamento de dano moral e a repetição de indébito na forma dobrada das parcelas pagas.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido formulado na petição inicial, declarando encerrada a atividade cognitiva e resolvendo o mérito do feito, condenando a autora ao pagamento de custas judiciais e honorários de advogado, fixados em 10% sobre o valor atualizado da causa, considerando-se o trabalho desenvolvido por parte do advogado, a natureza da demanda e o intervalo de tempo que o processo tramitou, ficando suspensa a exigibilidade do pagamento das custas judiciais e dos honorários de advogado devido à concessão do benefício da assistência judiciária gratuita, sendo o valor da causa de R$ 245.916,03.
+A Corte estadual manteve a sentença, reformando apenas a base de cálculo dos honorários advocatícios, fixando-os sobre o valor da condenação.
+I - Arts. 6º, VIII, 51, IV, e 53 do Código de Defesa do Consumidor
+No recurso especial, a recorrente alega que o acórdão violou os artigos 6º, VIII, 51, IV, e 53 do Código de Defesa do Consumidor ao não assegurar de forma efetiva a inversão do ônus da prova, ao ignorar a manifesta abusividade das cláusulas contratuais que impuseram juros capitalizados, e ao autorizar a retenção de 10% dos valores pagos pela recorrente.
+A Corte estadual concluiu que não havia necessidade de outras provas além daquelas já existentes nos autos, que não há abusividade na cumulação de juros remuneratórios e correção monetária, e que a retenção de 10% dos valores pagos está plenamente respaldada pela legislação vigente e pela jurisprudência consolidada do STJ.
+A questão relativa à alegada abusividade das cláusulas contratuais foi decidida pelo Tribunal a quo com fundamento na análise da legalidade da cláusula de retenção, rever tal entendimento encontra óbice na incidência da Súmula n. 5 do STJ.
+II - Arts. 186 e 927 do Código Civil
+A recorrente afirma que a conduta da parte recorrida causou danos à recorrente, devendo ser responsabilizada pelos excessos cometidos.
+A Corte estadual concluiu que não há comprovação de qualquer desequilíbrio contratual, ônus do qual a recorrente não se desincumbiu.
+A questão relativa à alegada responsabilidade da parte recorrida foi decidida pelo Tribunal a quo com fundamento na análise da suficiência das provas documentais constantes nos autos, rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Art. 4º do Decreto n. 22.626/1933 e Súmula n. 121 do STF
+A recorrente sustenta que houve cobrança de juros compostos, o que é vedado pela legislação.
+A Corte estadual concluiu que a capitalização de juros não ocorreu de forma ilegal, pois está expressamente prevista no instrumento contratual e encontra respaldo na legislação vigente.
+A questão relativa à alegada cobrança de juros compostos foi decidida pelo Tribunal a quo com fundamento na análise da regularidade dos encargos financeiros pactuados, rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+IV - Divergência Jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
