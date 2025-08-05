@@ -1,0 +1,71 @@
+DECISÃO
+Consta dos autos que COTRIPAL AGROPECUÁRIA COOPERATIVA (COTRIPAL) promoveu cumprimento individual de sentença coletiva contra BANCO DO BRASIL S.A. (BANCO DO BRASIL), pretendendo receber diferenças devidas em razão da incidência de planos econômicos em saldos de caderneta de poupança.
+O BANCO DO BRASIL apresentou impugnação, alegando excesso de execução pela inclusão indevida de juros remuneratórios, a qual foi rejeitada por sentença transitada em julgado.
+Inconformado, o BANCO DO BRASIL ajuizou ação rescisória, buscando desconstituir referida sentença, sob a alegação de que o título executivo formado jamais contemplou juros remuneratórios, pelo que estaria configurada ofensa à coisa julgada (e-STJ, fls. 4/26).
+O Tribunal de Justiça do Rio Grande do Sul indeferiu a petição inicial e extinguiu o processo sem julgamento de mérito, por falta de interesse de agir, uma vez que a sentença rescindenda não determinava a incidência de juros remuneratórios.
+Referido acórdão ficou assim ementado:
+AÇÃO RESCISÓRIA. AUSÊNCIA DE INTERESSE DE AGIR. INDEFERIMENTO DA PETIÇÃO INICIAL. ART. 330, III, DO CÓDIGO DE PROCESSO CIVIL.
+1. Em se tratando de cumprimento de sentença, a execução deve observar estritamente o que foi delineado no título executivo. Caso em que o executado refere ter sido condenado, pelo Juízo a quo, ao pagamento de juros remuneratórios a despeito de tal verba não ter constado na sentença da ação civil pública que embasa a presente execução, qual seja, a ACP nº 1998.01.1.016798-9/DF, referente a expurgos inflacionários. Alegada ofensa à coisa julgada. Art. 966, inciso IV, do CPC.
+2. Nada obstante, no caso em questão, a parte dispositiva da decisão rescindenda não contém comando de inclusão dos juros remuneratórios, tampouco a verba consta nos cálculos anexados ao feito. Apenas há menção à verba no corpo da fundamentação. E, de acordo com o disposto no artigo 504, inciso I, do Código de Processo Civil, os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença, não fazem coisa julgada.
+3. Falta de interesse de agir do proponente da ação rescisória por ausência de utilidade na modificação de trecho dos fundamentos da decisão que não fez coisa julgada e não repercutiu, de forma prática, no valor devido pelo executado. Caso em que deve ser indeferida a inicial. Inteligência do art. 330, inciso III, do Código de Processo Civil.
+PETIÇÃO INICIAL INDEFERIDA (e-STJ, fl. 714).
+Em seguida, o BANCO DO BRASIL opôs dois embargos de declaração, os quais foram rejeitados (e-STJ, fls. 749/752 e 778/783).
+Ainda irresignada, aquela instituição financeira interpôs recurso especial com fundamento no art. 105, III, alínea a da CF, alegando ofensa aos arts. (1) 1.022 do CPC, porque o TJRS (1.1) teria incorrido em omissões e contradições acerca das premissas utilizadas pelo órgão julgador acerca da não caracterização das hipóteses de cabimento da ação rescisória, ausência de interesse processual e violação à coisa julgada (e-STJ, fl. 797) e (1.2) não promoveu o prequestionamento dos artigos 1º, 10, 17, 330, inciso III e parágrafos,489, inciso IV, 783, 966, incisos V e VIII e 1.022, inciso III do Código de Processo Civil (e-STJ, fl. 797); e (2) 17; 330, III e parágrafos; 783; 966, V e VIII CPC, pois, ao contrário do que consignado no acórdão recorrido, haveria sim interesse de agir na propositura da ação rescisória, uma vez que a decisão rescindenda efetivamente aplicou juros remuneratórios à condenação, sem que a sentença havida na ação coletiva assim autorizasse (e-STJ, fls. 790/813).
+recurso especial não foi admitido na origem (e-STJ, fls. 845/851) e o agravo em recurso especial que se seguiu (e-STJ, fls. 862/886) foi conhecido para negar-lhe provimento, consoante decisão monocrática de minha lavra assim resumida:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. O ACÓRDÃO RECORRIDO AFIRMOU QUE OS JUROS REMUNERATÓRIOS NÃO FORAM INCLUÍDOS NO CÁLCULO DA DÍVIDA, RAZÃO PELA QUAL NÃO HAVERIA INTERESSE DE AGIR. IMPOSSÍVEL REVER ESSA CIRCUNSTÂNCIA FÁTICA SEM ESBARRAR NA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 927)
+Contra essa decisão, COTRIPAL opôs embargos de declaração, suscitando omissão no tocante aos honorários advocatícios sucumbenciais que lhe seriam devidos (e-STJ, fls. 932/936).
+Paralelamente, o BANCO DO BRASIL interpôs agravo interno, afirmando que (i) estaria efetivamente caracterizada a negativa de prestação jurisdicional, e (ii) a alegação de ofensa aos arts. 17; 330, III e parágrafos; 783 do CPC não esbarraria na Súmula nº 284 do STF ou 7 do STJ.
+Os embargos de declaração opostos pela COTRIPAL foram rejeitados em decisão com a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. QUESTÃO QUE DEVERIA TER SIDO VEICULADA EM RECURSO ESPECIAL PRÓPRIO. OMISSÃO NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS (e-STJ, fl. 980)
+Ela inda opôs novos embargos, agitando a mesma questão (e-STJ, fls. 985/991), que foram igualmente rejeitados (e-STJ, fls. 1.002/1.004).
+Dessa forma é que interpôs agravo interno, com o objetivo de obter honorários advocatícios sucumbenciais, alegando, em síntese, que a relação jurídica somente foi angularizada com sua intimação para apresentar contrarrazões ao recurso especial do BANCO DO BTRASIL, razão pela qual somente a partir do julgamento desse recurso é que se viabilizou a fixação de honorários em seu benefício (e-STJ, fls. 1.008/1.016).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Conforme relatado, cuida-se, na origem, de ação rescisória proposta pelo BANCO DO BRASIL contra a COTRIPAL (e-STJ, fls. 4/26).
+O TJRS indeferiu de plano a petição inicial, extinguindo o processo sem fixar honorários advocatícios sucumbenciais em desfavor daquela instituição financeira autora (e-STJ, fls. 714/720).
+Contra esse acórdão, o BANCO DO BRASIL interpôs dois embargos de declaração, os quais foram rejeitados (e-STJ, fls. 749/752 e 778/783) e, em seguida, recurso especial (e-STJ, fls. 790/813).
+Intimada, a COTRIPAL não apresentou contrarrazões ao recurso especial (e-STJ, fls. 826 e 830).
+O apelo nobre não foi admitido na origem (e-STJ, fls. 845/851), seguindo-se o competente agravo em recurso especial (e-STJ, fls. 862/886).
+A COTRIPAL apresentou impugnação ao agravo, pleiteando que fosse mantida a inadmissibilidade do recurso ou, eventualmente, desprovida aquela irresignação, mas não pediu que fossem fixados honorários advocatícios sucumbenciais em seu favor (e-STJ, fls. 902/914).
+Em seguida, proferi decisão monocrática negando provimento ao especial (e-STJ, fls. 927/930).
+Apenas na sequência é que a COTRIPAL apresentou embargos de declaração pleiteando, pela primeira vez, a fixação de honorários sucumbenciais em seu benefício. Segundo alegado, teria havido omissão com relação à verba honorária devida ao seu patrono na forma do art. 85,§ 2º, do CPC.
+Confira-se:
+Assim sendo, vez que houve a integração do executado à relação processual com a apresentação de contrarrazões, restou omissa a decisão em fixar honorários sucumbenciais no presente processo.
+Portanto, requer o acolhimento dos presentes embargos de declaração, para que seja sanada omissão apontada coma fixação de honorários nos termos do art. 85, § 2º do CPC (e-STJ, fl. 935)
+É essa mesma pretensão se apresenta neste agravo interno: a de que sejam fixados honorários advocatícios sucumbenciais em favor da COTRIPAL. Segundo alegado, a relação processual somente foi angularizada com sua intimação para apresentar contrarrazões ao recurso especial do BANCO DO BTRASIL, razão pela qual somente a partir do julgamento desse recurso é que ela pode pleitear a fixação de honorários sucumbenciais em seu benefício.
+A pretensão encontra amparo na orientação jurisprudencial desta Corte Superior.
+Nesse sentido, por exemplo:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO VERIFICADA. COMPARECIMENTO ESPONTÂNEO DO RÉU. APRESENTAÇÃO DE DEFESA MEDIANTE IMPUGNAÇÃO RECURSAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+ ..
+3. Inadmitida, liminarmente, a ação rescisória, o comparecimento espontâneo do réu para se defender mediante impugnação ao agravo interno, resulta na angularização da relação processual (art. 239, § 1º, do CPC/2015), devendo ser arbitrados honorários em favor da parte agravada, ora embargante e vencedora na lide.
+4. Embargos de declaração acolhidos.
+(EDcl no AgInt na AR n. 6.364/DF, relator Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, julgado em 11/5/2022, DJe de 16/5/2022.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA. DECISÃO AGRAVADA. RECONSIDERAÇÃO. ART. 932 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INAPLICABILIDADE. HONORÁRIOS SUCUMBENCIAIS. CABIMENTO.
+ ..
+4. Citado o réu para responder a apelação e apresentadas as contrarrazões, cabe a fixação de honorários advocatícios sucumbenciais se o referido recurso não for provido .
+(EDcl nos EDcl no AgInt no AREsp n. 1.549.240/MS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO ESPECIAL. PASEP. INDEFERIMENTO DA INICIAL. INTIMAÇÃO DA UNIÃO EM APELAÇÃO. VERBA HONORÁRIA. CABIMENTO. ART. 85 DO CPC/2015.
+1. Na hipótese dos autos, a requerente propôs ação ordinária contra a União. A Sentença determinou a extinção do processo sem resolução de mérito sem prévia citação do Ente Público. Contudo, a requerente interpôs apelação, o que ensejou a intimação (e-STJ fl. 141) da União para apresentação de contrarrazões.
+2. Conforme jurisprudência do STJ, o não provimento da apelação deve ensejar a condenação da parte apelante ao pagamento de honorários advocatícios sucumbenciais, pois, além de integralizar a relação processual, confirmou a extinção do processo determinada pela sentença. Precedentes.
+3. Recurso especial provido.
+(REsp n. 1.962.588/RN, relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 7/12/2021, DJe de 14/12/2021.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECLAMAÇÃO. OMISSÃO NA FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. ANGULARIZAÇÃO DA RELAÇÃO PROCESSUAL APÓS A INTERPOSIÇÃO DO AGRAVO INTERNO. HONORÁRIOS. POSSIBILIDADE. ACOLHIMENTO.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar os seguintes vícios: obscuridade, contradição, omissão ou erro material.
+2. De acordo com a jurisprudência desta Corte, "apresentada impugnação ao agravo interno interposto contra decisão que indeferiu liminarmente a reclamação, houve o aperfeiçoamento da relação processual, o que enseja a fixação da verba honorária em favor dos advogados do ora agravado" (AgInt na Rcl n. 46.269/SP, Segunda Seção, DJe 6/5/2024).
+3. Embargos de declaração acolhidos, sem efeitos infringentes, apenas para condenar a parte vencida a arcar com as custas processuais e os honorários advocatícios.
+(EDcl no AgInt na Rcl n. 47.116/GO, relatora Ministra NANCY ANDRIGHI, Segunda Seção, julgado em 15/10/2024, DJe de 21/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO LIMINAR DE MÉRITO. APELAÇÃO. SUCUMBÊNCIA DO AUTOR. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Cinge-se a controvérsia dos autos em definir se é cabível a condenação da parte ora agravada ao pagamento de honorários sucumbenciais ao patrono da parte agravante, diante do não provimento do recurso de apelação da parte autora.
+3. O Tribunal estadual concluiu pelo não cabimento da condenação ao pagamento de honorários sucumbenciais, porquanto não angularizada a relação processual na lide principal, onde a agravante não foi citada. Ocorre que contra a sentença que julgou improcedente a ação, com fundamento no artigo 285-A do CPC/1973, a parte autora (agravado) interpôs recurso de apelação, vindo a agravante, após citação, apresentar contrarrazões ao referido recurso interposto.
+4. Na hipótese de interposição de apelação em face de sentença de improcedência do pedido, proferida com base no artigo 285-A do CPC/1973, vindo a agravante apresentar contrarrazões ao recurso, enseja a condenação em honorários de sucumbência, nos termos do artigo 20 do CPC/1973, porquanto angularizada a relação processual.
+Precedentes.
+5. Agravo interno da União provido para condenar a parte autora ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa, com base no art. 20, § 4º, do CPC.
+(AgInt no REsp n. 1.664.667/RS, relator Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+No caso dos autos, é bem verdade, a CONTRIPAL, deixou de apresentar contrarrazões ao recurso especial e, muito embora tenha impugnado o agravo em recurso especial que se seguiu, nada falou sobre honorários advocatícios, naquela oportunidade.
+Apesar disso, é preciso reconhecer que ela veio a integrar a lide, tendo assim, angularizando a relação processual e fazendo jus, portanto, ao recebimento de honorários advocatícios sucumbenciais.
+Nessas condições, RECONSIDERO PARCIALMENTE a decisão agravada para fixar honorários advocatícios sucumbenciais em benefício do patrono da CONTRIPAL em montante equivalente a 10% do valor da causa, na forma do art. 85, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. RECURSO ESPECIAL. PARTE RÉ QUE VEIO A APRESENTAR DEFESA. ANGULARIZAÇÃO DA RELAÇÃO PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS DEVIDOS. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR PARCIALMENTE A DECISÃO AGRAVADA .
