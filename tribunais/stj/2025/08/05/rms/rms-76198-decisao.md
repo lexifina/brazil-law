@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança, interposto por Marconi Gonzaga Tavares contra acórdão às fls. 574/587, proferido por maioria de votos dos integrantes da Segunda Câmara Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. NÃO ATRIBUIÇÃO DA DEVIDA PONTUAÇÃO EM PROVA DE TÍTULOS PARA A SELEÇÃO DE PRECEPTOR. LEGITIMIDADE DO SECRETÁRIO DE ESTADO DE SAÚDE DO DISTRITO FEDERAL. ADMITIDO O DISTRITO FEDERAL COMO LITISCONSORTE PASSIVO. AUSENTE PROVA PRÉ-CONSTITUÍDA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO DO IMPETRANTE.
+I. O Secretário de Estado de Saúde do Distrito Federal é parte legítima para figurar no polo passivo do mandado de segurança em que se sustenta a ilegalidade do ato da banca examinadora do processo seletivo regular para preceptores de ensino dos programas de residência em área profissional de saúde, uma vez que "é sua a responsabilidade final pelos atos que permeiam o certame, visto ser a autoridade com competência para ordenar a sua realização", além do que a pretensão do "writ" demandaria ato desta autoridade para eventual reclassificação do impetrante. Rejeitada a preliminar de ilegitimidade passiva.
+II. O Distrito Federal detém interesse jurídico no presente mandado de segurança impetrado contra o ato atribuído à Secretário de Estado da Saúde do Distrito Federal, tendo em vista ser o ente público representado pela autoridade apontada como coatora. Admitida a inclusão do ente federativo como litisconsorte passivo.
+III. O mandado de segurança configura remédio jurídico constitucional (art. 5º, incisos LXIX e LXX) para a defesa do direito líquido e certo contra ato ilegal praticado por autoridade pública não amparável por habeas corpus ou habeas data.
+IV. A respectiva tutela específica exige a demonstração, desde o início, dos elementos de prova suficientes e necessários a respeito da violação da esfera jurídica do impetrante, ilegalmente ou com abuso de poder (Lei 12.016/2009, art. 1º), por parte do Poder Público, seja por suas respectivas autoridades ou mesmo por agentes de pessoa jurídica de direito privado que exerça funções delegadas.
+V. No caso concreto, não demonstrada, de plano, a ilegalidade (e/ou erro material) na atribuição da pontuação na avaliação de títulos, aferida de acordo com a documentação então apresentada e que teria instruído o pedido de inscrição e o procedimento administrativo, notadamente a declaração com a especificação das horas, conforme item 5.3.7.1 do edital.
+VI. A prova pré-constituída não se revela suficiente à comprovação de violação a direito líquido e certo, consubstanciada em patente ilegalidade ou abuso de poder para, assim, legitimar a intervenção do Poder Judiciário na seara administrativa distrital.
+VII. E eventual decisão favorável poderia afetar a esfera jurídica de terceiro já designado para o exercício da atividade de preceptoria (não incluído na demanda).
+VIII. Rejeitada a preliminar. Admitido o Distrito Federal como litisconsorte passivo.
+Denegada a segurança. (fls. 575/576).
+Nas razões recursais, fls. 694/706, o autor argumenta que "o v. Acórdão se mostra equivocado no tocante a motivação da banca examinadora que considerou que o recorrente laborava 1 (uma), vez por semana nos períodos matutino e vespertino, sendo que resta mais do que comprovado que laborava 2 (duas), vezes por semana com escala fixa" (fl. 704). No mais, requer que o recurso seja provido, para que o acórdão seja reformado.
+Em contrarrazões, às fls. 718/725, o Estado do Distrito Federal requer a manutenção do acórdão recorrido. Alega a inexistência de direito líquido e certo à pontuação máxima. Acrescenta que "o que o acórdão evidencia é justamente a falta de clareza e precisão nos documentos apresentados pelo Recorrente, que inviabiliza o controle de legalidade da pontuação atribuída" (fl. 428).
+O Ministério Público Federal, pela Subprocuradora-Geral da República Darcy Santana Vitobello manifestou-se pelo não conhecimento do recurso, pelos fundamentos do parecer às fls. 439/445, assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROCESSO SELETIVO. PRECEPTOR DE ENSINO. PROVA DE TÍTULOS. PONTUAÇÃO. ARESTO FUNDAMENTADO NA AUSÊNCIA DE CLAREZA DA ESCALA E FUNÇÕES, CARGA HORÁRIA NÃO FIXA, IMPOSSIBILIDADE DE JUNTADA DE DOCUMENTO NOVO EM EMBARGOS DECLARATÓRIOS E QUE EVENTUAL DECISÃO FAVORÁVEL AFETARIA O 1º COLOCADO QUE NÃO INTEGRA A DEMANDA. RAZÕES RECURSAIS QUE NÃO ATACAM FUNDA- MENTO RELEVANTE DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF.
+PELO NÃO CONHECIMENTO. (fl. 735).
+Custas recolhidas . (fl. 708).
+Representação regular (fl. 19).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Assim, o presente apelo não merece avançar para além da barreira do juízo de admissibilidade recursal. Com efeito, na hipótese que ora se apresenta ao exame desta Corte Superior, o Tribunal denegou a ordem, à unanimidade, por entender que não houve a comprovação de direito líquido e certo (fl.582) e que decisão favorável poderia prejudicar terceiro já designado (fl. 586).
+Segundo a Corte brasiliense :
+V. No caso concreto, não demonstrada, de plano, a ilegalidade (e/ou erro material) na atribuição da pontuação na avaliação de títulos, aferida de acordo com a documentação então apresentada e que teria instruído o pedido de inscrição e o procedimento administrativo, notadamente a declaração com a especificação das horas, conforme item 5.3.7.1 do edital.
+VI. A prova pré-constituída não se revela suficiente à comprovação de violação a direito líquido e certo, consubstanciada em patente ilegalidade ou abuso de poder para, assim, legitimar a intervenção do Poder Judiciário na seara administrativa distrital.
+VII. E eventual decisão favorável poderia afetar a esfera jurídica de terceiro já designado para o exercício da atividade de preceptoria (não incluído na demanda). (fl. 576).
+Todavia, nas razões recursais, o recorrente restringe-se a impugnar o primeiro fundamento do acórdão, deixando de combater o segundo (fl. 586), o qual, só por si, tem força para sustentar o julgado.
+Mas, com isso, negligencia o recorrente a necessária observância do princípio da dialeticidade recursal, não cumprido o ônus (que lhe cabia) da impugnação específica e integral aos fundamentos do aresto combatido.
+Essa irregularidade, porque violadora do princípio da dialeticidade, como dito, impede o conhecimento do recurso. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetração.
+4. Agravo interno não provido.
+(AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/10/2021).
+Eis porque o presente recurso ordinário não reúne condições de avançar para além do juízo de admissibilidade.
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário.
+Publique-se.
+EMENTA
