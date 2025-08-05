@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JHONATHAN SOUZA VERGARA e MAURICIO MACEDO DA SILVA contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Consta dos autos que, na origem, foi impetrado habeas corpus em favor dos recorrentes contra ato do Juízo Federal da 2ª Vara Federal de Santa Maria, que decretou a prisão preventiva dos pacientes pela suposta prática do crime previsto nos art. 33, cc/ art. 40, I, da Lei n. 11.343/2006, em razão de terem sido flagrados portando mais de 35 quilos de skunk. O Tribunal Regional Federal da 4ª Região denegou a ordem, ao fundamento de que a quantidade e natureza da droga e modus operandi são indicativos de atuação nos moldes de organização criminosa, devendo ser mantida a prisão cautelar para garantia da ordem pública.
+Em suas razões recursais, o recorrentes sustentam que, como são primários, com ocupação lítica e moradia fixa, a prisão cautelar é desproporcional e que está embasada em meras presunções acerca da gravidade abstrata do suposto delito.
+Ponderam que o delito não envolve violência ou grave ameaça, cabendo a substituição da prisão preventiva por medidas menos gravosas, como monitoramento eletrônica e proibição de ausentar-se da comarca.
+Requerem a concessão da ordem para a revogação da prisão preventiva, com a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 56-57.
+Informações prestadas às fls. 60-66 e 67-75.
+O Ministério Público Federal em parecer, às fls. 80-84, opinou pelo desprovimento do recurso.
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a grande quantidade de droga apreendida no contexto da traficância; nesse sentido, consta nos autos que durante abordagem realizada em região de fronteira, sentido Uruguai-Brasil, foram encontrados no interior do porta-malas do veículo, em que se encontravam os recorrentes, 35 (trinta e cinco quilos) de maconha, do tipo skunk.
+Tais circunstâncias demonstram a gravidade concreta da conduta e a periculosidade dos agentes, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+"A prisão cautelar está fundamentada na necessidade de garantia da ordem pública, haja vista a gravidade concreta da conduta, diante da apreensão de 347 kg de maconha e 9,2 kg de skunk, havendo indicativo de que o agravante teria contratado o corréu para transportar as drogas para outro Estado da Federação, comunicando-se por meio de walkie talkies, que ambos portavam dentro de cada veículo" (AgRg no HC n. 900.609/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+"No caso dos autos, a custódia do agravante foi adequadamente motivada para garantia da ordem pública, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta do delito e a periculosidade do acusado, diante da apreensão de grande quantidade de drogas - onze porções de maconha pesando aproximadamente 9kg e 146,80g de skunk -, bem como pelas circunstâncias do flagrante, em que foi descumprida ordem dos policiais de parada veicular, a qual se deu somente após perseguição na rodovia, além da quebra do celular pelo paciente" (AgRg no HC n. 984.241/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
