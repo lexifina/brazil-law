@@ -1,0 +1,44 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 495/500 , in verbis:
+1. Trata-se de recurso especial interposto por EDILSON DOS SANTOS contra acórdãos proferidos pela Décima Primeira Turma do Tribunal Regional Federal da 3ª Região, assim resumidos:
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CONTRABANDO. PRINCÍPIO DA INSIGNIFICÂNCIA. DOSIMETRIA DA PENA. INABILITAÇÃO PARA DIRIGIR VEÍCULO.
+1. O princípio da insignificância não se aplica ao crime de contrabando. Sentença reformada.
+2. Dosimetria da pena. Pena-base fixada acima do mínimo legal (maus antecedentes e culpabilidade). Compensação da agravante da reincidência com a atenuante da confissão espontânea.
+3. Fixado o regime semiaberto para início do cumprimento da pena privativa de liberdade, dados os maus antecedentes do réu e a reincidência, não sendo possível a substituição dessa pena por restritivas de direitos.
+4. Como os fatos narrados na denúncia ocorreram em 19 de setembro de 2019, quando já estava em vigor o art. 278-A do Código de Trânsito Brasileiro, que foi introduzido pela Lei nº Lei nº 13.804, de 10.01.2019, aplica-se ao caso essa norma, sendo aplicada ao réu, como efeito da sentença condenatória, a inabilitação para dirigir veículo pelo prazo de cinco anos.
+5. Apelação provida.
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. APELAÇÃO CRIMINAL. OMISSÃO. REINCIDÊNCIA. PROCESSOS CONSIDERADOS NA SEGUNDA FASE. DOSIMETRIA DA PENA.
+1. O art. 619 do Código de Processo Penal admite embargos de declaração quando, no acórdão, houver ambiguidade, obscuridade, contradição ou omissão. No caso, todas as teses de defesa veiculadas nas razões de apelação foram enfrentadas.
+2. Tendo em vista que não houve indicação dos processos considerados para fins de agravamento da pena em razão da reincidência, na segunda fase da dosimetria da pena (CP, art. 61, I), deve ser suprida a omissão apontada para que conste do acórdão a fundamentação a respeito.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+PENAL. PROCESSUAL. PENAL. EMBARGOS INFRINGENTES E DE NULIDADE. CONTRABANDO, INABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR. ARTIGO 278-A DO CÓDIGO DE TRÂNSITO BRASILEIRO. ARTIGO 92, INCISO III, DO CÓDIGO PENAL. PRAZO DE DURAÇÃO.
+1. A norma do artigo 278-A do Código de Trânsito Brasileiro destina-se à autoridade de trânsito, descreve medida administrativa que depende de prévia sentença transitada em julgado e não pode ser aplicada no processo penal, uma vez que compete ao juízo criminal cominar, tão somente, as penas descritas no artigo 32 do Código Penal.
+2. A inabilitação para dirigir veículo prevista no artigo 92, inciso III, do Código Penal constitui efeito secundário extrapenal administrativo da condenação, ou seja, da sentença condenatória (e não pena).
+3. Como efeito decorrente da condenação, o prazo de duração da inabilitação para dirigir veículo automotor não pode exceder a pena privativa de liberdade aplicada em concreto.
+4. Embargos infringentes e de nulidade da Defensoria Pública da União acolhidos.
+2. No recurso especial manejado com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, o recorrente aponta violação ao art. 59, do Código Penal. Sustenta que "a pena-base foi fixada acima do mínimo legal devido a duas circunstâncias consideradas desfavoráveis, a quantidade de cigarros apreendidos e os supostos maus antecedentes; a quantidade de cigarros, esta não pode ser considerada como justificativa para o aumento da pena-base; as condenações existentes contra o Recorrente transitaram em julgado entre 2002 e 2009, sendo que o acórdão condenatório foi proferido em 21.10.2021, ou seja, decorreu mais de 10 anos da data dos fatos, a qual foi, supostamente, considerada para fins de maus antecedentes" (fl. 476).
+3. Contrarrazões ofertadas às fls. 462/473.
+4. Admitido o recurso às fls. 475/481, os autos foram encaminhados ao Superior Tribunal de Justiça e vieram os autos com vista ao Ministério Público Federal.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Inicialmente, no que diz respeito às alegações referentes à impossibilidade de se considerar os maus antecedentes do recorrente para fins de exasperação da pena, verifico que não se pode conhecer do recurso, tendo em vista que a matéria não foi objeto de debate pela Corte de origem.
+Sendo assim, aplicável o disposto no enunciado 211 da Súmula desta Casa, segundo o qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. NOVAS TESES TRAZIDAS NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Este Tribunal Superior possui entendimento pacificado no sentido de que a alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 6/5/2014).
+2. Os embargos de declaração interpostos após a formação do acórdão, com o escopo de prequestionar tema não veiculado anteriormente no processo, não caracterizam prequestionamento, mas pós-questionamento. Incidência da Súmula nº 211 do STJ. (AgRg no Ag n. 705.169/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 21/09/2009).
+3. Agravo regimental improvido. (AgRg no AREsp 982.366/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/3/2018, DJe 12/3/2018.)
+Ademais, na linha da jurisprudência deste Tribunal Superior, "a expressiva quantidade de cigarros apreendidos constitui fundamento idôneo a justificar a exasperação da pena-base" (AgRg no HC n. 729.305/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 9/8/2022, DJe de 18/8/2022).
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. PENA-BASE. AVALIAÇÃO NEGATIVA DE CIRCUNSTÂNCIAS JUDICIAIS. FUNDAMENTAÇÃO ADEQUADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, " a  prática de novo delito no curso de liberdade provisória concedida em outro processo demonstra a elevada culpabilidade da conduta do Agente e autoriza a elevação da pena-base" (AgRg no AREsp n. 1.938.422/RS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 19/12/2022.)
+2. Esta Corte Superior também já entendeu válida, "para os crimes de contrabando, a valoração negativa das circunstâncias  ..  com apoio na quantidade de cigarros contrabandeado, sendo o desvalor das consequências alicerçado no significativo valor dos tributos elididos" (AgRg nos EDcl no REsp n. 1.922.866/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/12/2022.)
+3. No que tange à exasperação da pena-base, "a jurisprudência desta Corte Superior não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa de circunstâncias judiciais" (AgRg no HC n. 718.764/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 14/3/2023.)
+4. No caso, verifica-se que " a  Corte de origem decidiu a lide em sintonia com a jurisprudência desta Corte Superior, firmada no sentido de que é admitida a aplicação da pena acessória de inabilitação para dirigir veículo, quando demonstrada, de forma concreta, a imprescindibilidade da medida, haja vista a necessidade de inibir a prática do delito de contrabando de cigarros" (AgRg no AREsp n. 1.713.978/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/3/2021.)
+5. Por fim, percebe-se que o acórdão vergastado indicou o caráter pedagógico da pena restritiva de direitos e a condição econômica do agravante para manter a prestação pecuniária, de modo que " a  pretensão de rediscutir a pena substitutiva encontra óbice na Súmula n. 7 do STJ. Ademais, é do Juízo da Execução a competência para parcelar ou substituir a prestação pecuniária (art. 169, § 1º, da LEP) se demonstrada, inequivocamente, a alteração da condição financeira da recorrente" (REsp n. 1.385.911/RS, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 28/11/2017.)
+6. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 2.283.166/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/6/2023, DJe de 15/6/2023.)
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
