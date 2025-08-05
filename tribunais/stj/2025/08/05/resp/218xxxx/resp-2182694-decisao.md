@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDERSON APARECIDO ADORNO contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve o indeferimento do pedido de indulto da pena de multa, com fundamento no Decreto Presidencial n. 11.846/2023 (fls. 51-56).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação aos arts. 2º, inciso X, e 8º do Decreto Presidencial n. 11.846/2023 (fls. 62-72).
+Em contrarrazões, o Ministério Público do Estado de São Paulo sustenta a inadmissibilidade do recurso especial, ao argumento de que a fundamentação é deficiente, nos termos do art. 1.029 do CPC. No mérito, sustenta que a pena de multa não perdeu seu caráter penal, o que inviabiliza o reconhecimento do indulto de forma isolada. Por fim, ressalta a impossibilidade de concessão do indulto aos condenados por tráfico de drogas (fls. 82-94).
+O Ministério Público Federal opinou pelo não provimento do recurso especial (fls. 108-111).
+É o relatório. DECIDO.
+A controvérsia versa sobre a possibilidade de concessão do indulto natalino previsto no artigo 2º, inciso X, do Decreto n. 11.846/2023, em relação à pena de multa.
+No caso concreto, o recorrente foi condenado ao pagamento da multa de R$ 18.209,93 (dezoito mil duzentos e nove reais e noventa três centavos) em virtude da condenação pelo crime do art. 33, caput, da Lei n. 11.343/2006 (fl. 17).
+Segundo o Tribunal a quo, o indulto é inviável diante da presença de crime impeditivo, o tráfico de drogas, sendo que a proibição prevista no Decreto n. 11.846/2023 contempla tanto a pena privativa de liberdade quanto a multa (fls. 51-56).
+Com efeito, o art. 1º, inciso XVII, do Decreto n. 11.846/2023 prevê que o indulto natalino não alcançará as pessoas condenadas por tráfico de drogas, não havendo qualquer indicativo de que o impedimento não se aplique igualmente à pena de multa e à pena corporal. Ademais, na análise do pedido de indulto, Poder Judiciário deve se ater à verificação do cumprimento dos requisitos estabelecidos no decreto presidencial, sem distorcer o escopo inicialmente pretendido pela norma.
+Sobre o tema:
+"3. O Decreto nº 11.846/2023 veda expressamente a concessão do indulto para condenados por tráfico de drogas, tanto para penas privativas de liberdade quanto para a pena de multa, conforme interpretação sistemática do art. 1º, incisos I e XVII, que não limita a vedação às penas privativas de liberdade.
+4. A interpretação sistemática do Decreto exige que todos os dispositivos sejam aplicados de forma conjunta e harmônica, não permitindo extensão do benefício a penas de multa para crimes excluídos do indulto, como o tráfico de drogas." (REsp n. 2.165.758/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 6/1/2025)
+"(..) Tese de julgamento: 1. A ausência de impugnação específica dos fundamentos da decisão agravada configura ofensa ao princípio da dialeticidade. 2. Não cabe a concessão de indulto ao condenado por crime impeditivo enquanto não cumprida a fração mínima correspondente, conforme o Decreto n. 11.846/2023. 3. A pena de multa não deve ser analisada separadamente da pena privativa de liberdade para fins de concessão de indulto." (AgRg no HC n. 942.629/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025.)
+Ante o exposto, nos termos do art. 255, § 4º, inciso II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
