@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso em Habeas Corpus com pedido de liminar interposto por PHILIPE GABRIEL DA ROCHA CRUZ contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+A defesa sustenta que o paciente está preso preventivamente desde 3/1/2025, em razão de suposta prática de roubo majorado (art. 157, § 2º-A, I, do Código Penal), consistente em subtração de um celular, dinheiro e maços de cigarro mediante emprego de arma de fogo. Narra que, após a prisão, o paciente  jovem trabalhador, primário, analfabeto e em situação de vulnerabilidade social  teria prestado confissão na delegacia sem assistência de advogado ou familiar, o que, segundo a defesa, macula a prova colhida. Alega que a decisão de manutenção da prisão preventiva carece de fundamentação concreta, valendo-se de atos infracionais praticados na menoridade como justificativa para risco de reiteração delitiva, em violação ao princípio da não culpabilidade. Argumenta, ainda, ausência de contemporaneidade dos fundamentos, uma vez que a instrução processual já se encerrou, a vítima reside em outro estado e não há risco à aplicação da lei penal. Aponta também a fragilidade das provas de autoria, uma vez que o reconhecimento fotográfico não teria observado as formalidades do art. 226 do CPP e não haveria outros elementos robustos que confirmem a participação do paciente.
+Em sede liminar, requer a expedição imediata de alvará de soltura, diante do alegado constrangimento ilegal. No mérito, busca a concessão definitiva da ordem.
+Decisão pelo indeferimento do pedido liminar às fls. 649-650.
+Informações prestadas às fls. 656-685.
+Parecer do Ministério Público Federal, às fls. 687-689, pela perda do objeto do presente recurso.
+É o relatório.
+DECIDO.
+Conforme as informações prestadas à fl. 656:
+Consta da ação penal nº 202520400020 que, em 25/06/2025, o (a) paciente foi condenado (a) pela prática do delito previsto no art. 157, §2º-A, inciso I, c/c art. 70 do CP, a uma pena definitiva de 07 (sete)anos, 09 (nove) meses e 10 (dez)dias de reclusão, a ser cumprida em regime inicial SEMIABERTO, nos termos do art. 33, §§2º e 3º do CPB.
+Assim, a prisão cautelar da parte ré, atualmente, decorre de novo título judicial, motivo pelo qual fica prejudicada a análise do anterior decreto prisional impugnado na impetração.
+A propósito, o Supremo Tribunal Federal, por maioria de votos, assentou o entendimento de que
+a sentença condenatória superveniente, ainda que não lance mão de fundamentos induvidosamente autônomos e diversos da ordem prisional originária, prejudica a impetração voltada à impugnação do decreto segregatório inicialmente atacado, a ensejar o não conhecimento da impetração. Tal cenário, contudo, não impede o exame da excepcional concessão da ordem de ofício, o que exige configuração de ilegalidade flagrante ou manifesta teratologia (STF, HC n. 143.333, Relator EDSON FACHIN, Tribunal Pleno, julgado em 12/04/2018, DJe de 21/03/2019; grifamos).
+No mesmo sentido:
+A superveniência de sentença condenatória que mantém a custódia cautelar, prejudica o exame do mérito do presente writ, em razão da substituição do título judicial impugnado perante esta Corte. Precedentes: HC 216.414-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 22/8/2022; HC 210.532-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 8/3/2022; HC 197.582-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 10/5/2021 (STF, HC n. 221.130 AgR, Relator LUIZ FUX, Primeira Turma, julgado em 10/11/2022, DJe de 18/11/2022; grifamos).
+E, no âmbito de Superior Tribunal de Justiça, destacam-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA. INSURGÊNCIA CONTRA ATOS JUDICIAIS ANTERIORES PREJUDICADA. AFIRMAÇÃO DE LEGALIDADE DA MEDIDA DE COAÇÃO NESTE ÂMBITO SUPERIOR. INDEFERIMENTO LIMINAR DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O superveniente julgamento da ação penal, com prolação de sentença que observa o art. 387, § 1º, do CPP, prejudica a insurgência contra decisões anteriores, que decretaram e mantiveram a prisão preventiva do réu durante a instrução criminal.
+2. As razões de pedir do writ estão dissociadas do quanto decidido no acórdão apontado como coator, prolatado anteriormente à condenação, pois o Tribunal de Justiça não foi instado a deliberar sobre eventual alteração de situação fática a justificar o apelo em liberdade. Assim, nos termos do art. 105 da CF, não pode esta Corte, em indevida supressão de instância, deliberar sobre a matéria não decidida em segundo grau.
+(..)
+4. Agravo regimental não provido (AgRg no HC n. 846.404/MG, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/11/2023, DJe de 01/12/2023; grifamos).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. CRIME DE HOMICÍDIO TRIPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE NOVO TÍTULO. SENTENÇA DE PRONÚNCIA. PREJUDICIALIDADE DO RECURSO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO STJ.
+1. A superveniência de novo título, no caso, a sentença de pronúncia, torna prejudicado o recurso em habeas corpus que busca a revogação da prisão preventiva por ausência dos requisitos autorizadores da medida. Jurisprudência do STJ.
+2. Conforme jurisprudência desta Corte Superior, "é vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso, inovando questões não suscitadas anteriormente (AgRg no REsp 1.592.657/AM, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 13/9/2016, DJe 21/9/2016)" (AgRg no HC n. 605.999/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021).
+3. Agravo regimental improvido (AgRg nos EDcl no RHC n. 176.184/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023; grifamos).
+Ante o exposto, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
