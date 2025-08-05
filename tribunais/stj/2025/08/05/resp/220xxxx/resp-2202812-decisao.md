@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, recurso especial interposto por MARIA REGINA DA COSTA DUARTE contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. DECISÃO NÃO AGRAVADA OPORTUNAMENTE. PEDIDO DE RECONSIDERAÇÃO QUE NÃO SUSPENDE NEM INTERROMPE PRAZO. INTEMPESTIVIDADE.
+Não deve ser conhecido o agravo de instrumento interposto após o término do prazo legal previsto no art. 1.003, §5º, do CPC. Falta de requisito objetivo de admissibilidade. Agravo de instrumento não conhecido.
+Os embargos de declaração foram rejeitados nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ARTIGO 1.022 DO CPC. REDISCUSSÃO DA MATÉRIA.
+Embargos que pretendem discutir o julgado em suas premissas e fundamentos. Os embargos não se prestam a provocar o Colegiado a repetir em outras palavras o que está expressamente assentado, ou a modificar o aresto nas suas premissas explicitamente destacadas. Ademais, hoje nem há mais necessidade de embargos visando ao prequestionamento, diante do teor do art. 1.025 do CPC. Embargos declaratórios desprovidos.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 1.003, § 5º, 1.022 do CPC, a parte recorrente alega, em síntese, que "o acórdão recorrido incorreu em grave erro ao considerar intempestivo o agravo de instrumento interposto pela Recorrente. Tal entendimento desconsidera o fato de que a decisão agravada foi proferida após a rejeição do pedido de reconsideração, o que reiniciou o prazo recursal" (fl. 162).
+Alega, quanto à violação ao art. 1.022 do CPC, omissão do acórdão recorrido nos pontos destacados nos declaratórios, quais sejam: "1. O pedido de reconsideração foi apresentado dentro do prazo e visava corrigir erros na decisão anterior; 2. A decisão de rejeição do pedido de reconsideração é que deveria ser considerada como o marco inicial para contagem do prazo recursal; 3. A omissão quanto à análise dessa questão prejudica o direito de defesa da Recorrente" (fls. 163-164).
+É o relatório.
+Decido.
+Quanto à apontada violação ao art. 1.022 do CPC, não há vício a ser sanado.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+A agravante apresentou nova impugnação em 20/4/2023 (ela já tinha apresentado anterior impugnação ao cumprimento de sentença em 15/7/2020 - evento 507 dos autos originários -, que fora considerada intempestiva - evento 513 dos mesmos autos). Essa segunda impugnação teve seus requerimentos indeferidos em 27/11/2023 (evento 644 dos autos originários).
+A agravante teria até o dia 1/2/2024 para interpor agravo de instrumento (evento 645 dos mesmos autos), mas nesta data (1/2/2024) ela apresentou simples pedido de reconsideração ao Juízo de 1º grau (evento 652 dos mesmos autos).
+Tal pedido de reconsideração redundou na decisão ora agravada, cujo teor é o seguinte:
+"Evento 652: A executada requer reconsideração da decisão constante do evento 644, alegando excesso de execução.
+Contudo, pela análise dos autos verifica-se que razão não assiste à mesma, estando os cálculos de acordo com o título exequendo. Todas as questões ventiladas em sede de pedido de reconsideração já foram objeto de análise pretérita por este Juízo, razão pela qual mantenho a decisão constante do evento 644 na sua integralidade e determino o prosseguimento da presente execução com a determinação da ordem de penhora pelo sistema SIBAJUD e RENAJUD, em busca de ativos e/ou veículos automotores em nome dos executados, com esteio no art. 835, IV, do CPC." (evento 654 dos autos originários).
+Ou seja, a decisão agravada nada mais fez do que manter a decisão anterior, rejeitando a reconsideração. O mero pedido de reconsideração não suspende nem interrompe prazo.
+O presente agravo de instrumento somente foi interposto no dia 3/6/2024, em vez de o ser até o dia 1/2/2024.
+Assim, tendo em vista que a interposição do presente recurso extrapolou o prazo legal fixado pelo art. 1.003, §5º, do CPC, flagrante está a sua intempestividade, de modo que falece requisito objetivo de admissibilidade ao recurso (fl. 93).
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem reiterou o fundamento precípuo do julgado, segundo o qual "não deve ser conhecido o agravo de instrumento interposto após o término do prazo legal previsto no art. 1.003, §5º, do CPC" (fl. 137).
+Portanto, "não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1022 do CPC/2015" (AgInt no AREsp n. 2.528.396/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Quanto à matéria de fundo, este Superior Tribunal possui jurisprudência no sentido de que "o pedido de reconsideração não interrompe ou suspende o prazo recursal" (EDcl no AREsp n. 96.699/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/10/2012, DJe de 16/10/2012). Nesse sentido: AgInt no AREsp n. 613.641/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/9/2018, DJe de 3/10/2018; AgRg no REsp n. 1.281.763/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/9/2013, DJe de 24/9/2013.
+Ademais, este Superior Tribunal admite o princípio da fungibilidade, desde que o pedido de reconsideração não tenha sido utilizado com má-fé, não decorra de erro grosseiro e tenha sido apresentado dentro do prazo legal. Todavia, conforme se vê, no caso destes autos o pedido não foi tempestivo.
+A propósito:
+PROCESSUAL CIVIL. PEDIDOS DE RECONSIDERAÇÃO NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA NO RECURSO ESPECIAL. ACOLHIMENTO COMO AGRAVO INTERNO. INTERPOSIÇÃO DE DOIS RECURSOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA E VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO, E, COMO TAL, NÃO CONHECIDO.
+I - Pedidos de reconsideração formulados contra decisão de minha lavra que não conhecera do pedido de assunção de competência em recurso especial.
+II - No que tange ao pedido de reconsideração contra decisão monocrática, apesar de não possuir previsão normativa - seja à luz do CPC/1973 ou do CPC vigente -, tem sido admitida pelo Superior Tribunal de Justiça a sua conversão em agravo regimental ou interno, desde que não tenha sido utilizada com má-fé, não decorra de erro grosseiro e tenha sido apresentada dentro do prazo legal.
+ ..
+V - Pedido de reconsideração, de fls. 1.311-1.314, recebido como agravo interno, e, como tal, não conhecido (RCD no REsp n. 2.060.495/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/2/2025, DJEN de 17/2/2025).
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
