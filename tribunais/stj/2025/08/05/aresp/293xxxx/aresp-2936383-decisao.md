@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado por Coopercarga S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 52):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO. NÃO OCORRÊNCIA. UTILIZAÇÃO DA FERRAMENTA DE REITERAÇÃO AUTOMÁTICA DA ORDEM DE BLOQUEIO VIA SISTEMA SISBAJUD. TEIMOSINHA. POSSIBILIDADE.
+1. A suspensão da exigibilidade do crédito tributário está limitada às hipóteses do art. 151 do CTN, nenhuma das quais verificada no caso dos autos.
+2. Não há óbice operacional à utilização da reiteração automática de ordens de bloqueio, conhecida como "teimosinha".
+3. Eventual impenhorabilidade - de modo a não inviabilizar a atividade econômica do devedor - deve ser aferida após a utilização da ferramenta, por provocação do executado e com base em elementos concretos (artigo 854, § 3º, do CPC). Precedentes do STJ e de ambas as Turmas da 1ª Seção desta Corte.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 70/72).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 223, 313, V, 489, § 1º, IV, 502, 505, caput, 507, 1.000, caput, 1.022, I e II, do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca das "teses relacionadas aos arts. 223, 502, 505, caput, 507, 313, inciso V e 1.000, caput, todos do CPC  .. " (fl. 95); e (II) "não há lugar para a determinação de prosseguimento da Execução Fiscal, quando já havia se decidido que o feito ficaria suspenso até decisão definitiva nos autos da Ação Anulatória que discute o crédito tributário exequendo, sem qualquer objeção por parte da Recorrida (evento 11 dos autos originários)" (fl. 93).
+Contrarrazões ofertadas às fls. 104/113.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Ressalte-se, por oportuno, que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo relativa aos arts. 223, 313, V, 502, 505, caput, 507, 1.000, caput, do CPC, porquanto remanesce ausente o indispensável prequestionamento.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
