@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ANTONIA CAMPOS DE SOUSA, com fundamento na incidência das Súmulas 7 do STJ e, por analogia, das Súmulas 284 do STF, quanto a ofensa ao 1.022 do CPC.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois foi devidamente demonstrada a omissão do Tribunal e que não se trata de reexame fático.
+Assevera, ainda, que:
+A título de reforço, pertinente demonstrar que a vulneração aos dispositivos legais indicados, além das consequentes transgressões ao direito à educação, bem como a direitos fundamentais do agravante, acarretados por ato deliberado, ilegal e arbitrário do agravado, que teve objetivos e plano de vida profissional interrompidos no último semestre do curso de graduação em medicina veterinária. Incontestável, pois, reconhecer que a tese aqui tratada foi devidamente fundamentada, não se podendo invocar o óbice da Súmula 284/STF (fl. 479).
+ ..
+Portanto, a base empírica para o julgamento do recurso especial é o fato de que a inadimplência da agravante era de conhecimento da agravada e esta, em patente omissão ao cumprimento da lei (artigo 5º da Lei Federal nº 9.870/1999), consentiu que a recorrente prosseguisse com o curso até o nono semestre. E a recorrida, laconicamente, faz uso do mesmo diploma legal (artigo 5º da Lei Federal nº 9.870/99), que descumpriu por nove semestres, ao permitir que aluna inadimplente renovasse a matrícula, para exigir que a agravante, repita-se, aluna inadimplente, conclua o curso mediante o pagamento. Dessa forma, a afirmação de que a agravada não cometeu ato ilegal é contraditória e obscura, razão pela qual houve violação ao artigo 1.022, II, CPC, não sanado pelo tribunal recorrido. A recorrida faz uso da própria lei para adotar um comportamento contraditório (venire contra factum proprium), inadmitido nas relações contratuais (fl. 481).
+Contraminuta apresentada (fls. 487-492).
+É o relatório.
+Passo a decidir.
+De início, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da proibição da agravante de assistir as aulas, violando os arts. 5º e 6º da lei 9.870/99, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
