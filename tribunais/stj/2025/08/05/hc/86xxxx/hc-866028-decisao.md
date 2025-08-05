@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de JOSE CARLOS BRAZ contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL proferido no julgamento do Conflito de Competência n. 0072707-58.2020.8.21.7000, assim ementado:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. ORGANIZAÇÃO CRIMINOSA. DELITOS DE ROUBO E RECEPTAÇÃO PRATICADOS EM DIVERSAS COMARCAS. PREVENÇÃO.
+Nos termos do art. 71 do CPP, em se tratando de crimes permanentes ou continuados, praticados em território de duas ou mais jurisdições, a competência firmar-se-á pela prevenção. Maior número de delitos que se constitui em um dos critérios utilizados para fixação da competência nos casos de conexão ou continência - art. 78 do CPP. Hipótese na qual os indiciados são suspeitos de integrarem organização criminosa responsável, em tese, pela prática de outras condutas ilícitas - roubos, em sua maioria, além de receptações. Juízo suscitado que, conquanto possa não ser do local onde praticado o maior número de infrações, foi quem deferiu mandado de busca e apreensão e quebra de sigilo telefônico, já com denúncia recebida, firmando sua competência, em face da prevenção. Art. 83 do CPP. Conflito negativo de competência julgado procedente.
+CONFLITO NEGATIVO DE COMPETÊNCIA JULGADOPROCEDENTE. COMPETÊNCIA DO JUÍZO DAVARA CRIMINAL DA COMARCA DE IJUÍFIXADA PARAPROCESSAR E JULGAR O FEITO." (fl. 20).
+Extrai-se dos autos que a Polícia Civil do Estado do Rio Grande do Sul, há pelo menos 5 anos, investiga a autoria de diversos roubos e receptações de cargas, figurando o paciente como investigado no IP90/2018/700440/A e como partícipe direto no IP 05/2019/7000440/A (fl. 44).
+Verifica-se, outrossim, que o Juízo de Direito da 2ª Vara Criminal da Comarca de Ijuí/RS determinou a prisão preventiva de pessoas supostamente integrantes de organização criminosa, dentre elas o paciente, com fulcro no art. 312 do Código de Processo Penal - CPP. O referido magistrado fundamentou haver prova da materialidade e indícios de autoria de que os investigados fazem do crime seu meio de vida, com hierarquia e divisão de tarefas, dedicando-se ao roubo de cargas do estado do Rio Grande do Sul com envio de mercadorias subtraídas, via de regra, para o estado de Santa Catarina.
+No presente mandamus, a defesa do paciente insurge-se contra o acórdão do Sodalício local, que reconheceu a competência do Juízo de Ijuí/RS para o feito, argumentando não ser possível afirmar que foi o referido magistrado quem executou o primeiro ato decisório em comparação com as Comarcas de Torres/RS e Uruguaiana/RS (fl. 15). Sustenta que o Juízo da 1ª Vara Criminal de Uruguaiana foi quem executou o primeiro ato judicial impulsionando as investigações, quando autorizou medida cautelar de interceptações telefônicas e quebra de sigilo de dados, tendo ainda deferido mandados de prisão preventiva, bem como autorizado buscas domiciliares (fl. 16).
+Aduz, em suma, que "a organização criminosa já havia sido identificada pelos Juízos de Torres/RS e Uruguaiana/RS, bem como monitorada pelas Delegacias Especializadas" (fl. 17).
+Assim, requer a concessão de medida liminar para suspender o decreto prisional do Processo Crime n. 50095915620218210016 e revogar o mandado de prisão, até que seja julgado o mérito do presente writ. Pede que o paciente responda ao processo em liberdade, com ou sem aplicação de medidas cautelares menos gravosas previstas no art. 319 do CPP. Alega estar configurado o fumus boni iuris e periculum in mora, tendo em vista que o paciente se encontra foragido "por conta de mandado de prisão preventiva expedido por Juízo incompetente a exercer jurisdição sobre o caso" (fls. 17/18).
+No mérito, requer "a concessão da ordem de habeas corpus, para reconhecer o constrangimento ilegal, com a declaração da incompetência e a anulação de todos os atos decisórios (art. 567, do CPP)" (fl. 18).
+A liminar foi indeferida por decisão de fls. 3.107/3.110.
+As informações foram prestadas às fls. 3.115/3.234 e 3.253/3.256.
+O Ministério Público Federal opinou pelo não conhecimento do mandamus ou pela denegação da ordem, em parecer de fls. 3.238/3.243.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, não se verifica a existência de constrangimento ilegal a justificar a concessão da ordem de ofício.
+De início, registra-se que "a jurisprudência desta Corte Superior firmou-se no sentido de que a competência será, em regra, determinada pelo juízo do lugar no qual se consumar a infração, conforme disposto no art. 70, caput, do CPP. Tratando-se, contudo, de crime continuado ou permanente, praticado no território de duas ou mais jurisdições, a competência será fixada pela prevenção, nos termos dos arts. 71 e 83 do CPP. Precedentes" (AgRg no RHC n. 185.622/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 18/3/2024).
+No caso dos autos, a Corte Estadual reconheceu "que, em se tratando de crime permanente, praticado em territórios de diferentes jurisdições, o magistrado que primeiro determinou providências no processo, no caso, ordenou a expedição de mandados de busca e apreensão (Juízo da Vara Criminal de Ijuí), tornou-se prevento para a apreciação da questão" (fl. 26).
+Desse modo, para se modificar essa conclusão no sentido de que não teria sido o Juízo de Ijuí/RS quem teria prolatado o primeiro ato decisório e tornado prevento para o julgamento do caso, mostra-se necessário o exame aprofundado de provas, providência incabível na via eleita.
+A propósito, confira-se o seguinte precedente:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE INCOMPETÊNCIA TERRITORIAL. TRÁFICO DE DROGAS. APREENSÃO DE DROGAS EM MUNICÍPIO, SEGUIDA DA LOCALIZAÇÃO DE MAIS ENTORPECENTES EM OUTRA CIDADE . COMPETÊNCIA FIRMADA PELA PREVENÇÃO. ART. 71, DO CPP. REANÁLISE DOCUMENTAL. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento. A parte agravante busca a anulação da ação penal, ante a incompetência territorial do juízo processante.
+2. A prisão em flagrante do réu ocorreu em Aracaju/SE, onde foram encontradas porções de maconha em sua posse. Posteriormente, mais entorpecentes foram localizados em sua residência em Nossa Senhora do Socorro/SE.
+3. O Tribunal de origem e o juízo de primeiro grau concluíram pela competência do juízo de Aracaju/SE, com base no art. 70 do CPP, considerando a natureza permanente do delito de tráfico de drogas e a apreensão inicial ocorrida em Aracaju/SE.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível a declaração de incompetência territorial com base em reanálise da documentação da ação penal em sede de recurso especial.
+III. Razões de decidir
+5. No caso dos autos, a competência territorial para o processamento do delito de tráfico de drogas, sendo de natureza permanente, deve ser firmada pela prevenção, conforme o art. 71 do CPP.
+6. O juízo de Aracaju/SE é competente, pois foi responsável pelos atos decisórios anteriores ao oferecimento da denúncia, configurando a prevenção.
+7. A análise dos documentos apontados pelo agravante não é adequada para afastar a conclusão das instâncias ordinárias, pois ela está baseada em outros elementos de prova dos autos e não se mostra cabível o reexame de fatos e provas em sede de recurso especial (Súmula 7/STJ).
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. No caso dos autos, a competência territorial para o delito de tráfico de drogas, de natureza permanente, deve ser firmada pela prevenção. 2. O juízo que realizou atos decisórios anteriores ao oferecimento da denúncia é prevento para processar e julgar a ação penal. 3. Inviável superar a conclusão das instâncias ordinárias quanto à competência territorial com base em documentos apontados pelo agravante, uma vez que não há possibilidade de reexame de fatos e provas em sede de recurso especial".
+Dispositivos relevantes citados: CPP, arts. 70 e 71.
+Jurisprudência relevante citada: STJ, CC 136.326/SP, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11.11.2015.
+(AgRg no AREsp n. 2.449.656/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
