@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOSÉ MONTEIRO JÚNIOR, MARCO ANTONIO DE PAULA MONTEIRO e ZORAIDE IZABEL MONTEIRO, contra decisão que inadmitiu recurso especial fundamentado na(s) alínea(s) "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/03/2025.
+Concluso ao gabinete em: 25/07/2025.
+Ação: liquidação de sentença por arbitramento, ajuizada pelos agravantes, em face de BANCO BRADESCO S/A.
+Decisão: homologou laudo pericial e extinguiu o incidente.
+Acórdão: manteve a decisão unipessoal do Relator que não conheceu da apelação interposta pelos agravantes, nos termos da seguinte ementa:
+Agravo Interno - Interposição contra decisão que não conheceu do recurso de apelação interposto pelos agravantes - Pretensão à reforma da decisão - Descabimento - Assertivas dos recorrentes que não têm o condão de modificar a decisão - Não conhecimento do recurso mantido - Recurso improvido.
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 489, §1º, IV e VI, 927, III e IV, e 1.021, §3º, do CPC, bem como dissídio jurisprudencial. Sustentam que: i) houve total ausência de apreciação jurisdicional (omissão) das razões de agravo interno atinentes à questão da natureza jurídica da decisão que encerra a fase de liquidação; ii) inexiste qualquer cumprimento de sentença em andamento na instância originária; iii) há evidente dúvida objetiva acerca do recurso cabível à presente hipótese, o que permite a aplicação do princípio da fungibilidade recursal.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+O TJ/SP foi claro ao concluir pela inadmissibilidade do recurso de apelação interposto pelos agravantes. Fundamentou que: i) em que pese o juiz ter utilizado o termo "julgo extinto" incidente de liquidação de sentença, o recurso cabível é o agravo de instrumento, porquanto não extinguiu o processo de execução, mas sim a liquidação de sentença; ii) tratando-se de decisão interlocutória, o recurso cabível é o agravo de instrumento; iii) em face da expressa disposição legal (art. 1.015, parágrafo único, do CPC), não se pode admitir a aplicação da fungibilidade recursal, pois este exige a presença de requisito não preenchido pelos agravantes, qual seja, a dúvida objetiva sobre qual o recurso cabível; iv) não tendo a decisão extinguido a execução, resolvendo apenas incidente durante o seu processamento, manifesta a inadmissibilidade do recurso de apelação; v) não há de se falar em apontamento do processo de execução, tendo em vista que a questão discutida é acerca da decisão que apenas extinguiu o incidente de liquidação de sentença por arbitramento, tratando-se apenas de decisão interlocutória; vi) consta no próprio cabeçalho que se trata de "decisão", o que corrobora com o agravo de instrumento como recurso cabível.
+Dessa maneira, foram devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+É firme a jurisprudência do STJ no sentido de que inexiste afronta ao art. 489 do CPC quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica (AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/2/2018; e AgInt no REsp 1.683.290/RO, 3ª Turma, DJe de 23/2/2018).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 489 do CPC, incidindo a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 927, III e IV, e 1.021, §3º, do CPC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da Súmula 568/STJ
+Ao decidir pela inadmissibilidade do recurso de apelação, o TJ/SP aplicou corretamente a jurisprudência do STJ no sentido de que o recurso cabível contra decisão que não põe fim ao processo, homologando cálculos na fase de liquidação de sentença, é o agravo de instrumento; a interposição de apelação constitui erro grosseiro, o que impede a aplicação do princípio da fungibilidade (AgInt no AREsp n. 2.595.343/SP, Quarta Turma, DJEN de 9/12/2024; e AgInt no AREsp n. 2.505.966/SP, Terceira Turma, DJEN de 14/2/2025).
+Logo, o recurso especial não merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. DECISÃO QUE HOMOLOGOU LAUDO PERICIAL E EXTINGUIU O INCIDENTE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INTERPOSIÇÃO DE APELAÇÃO CONTRA ATO DECISÓRIO QUE NÃO PÔS FIM AO PROCESSO. ERRO GROSSEIRO QUE IMPEDE A APLICAÇÃO DA FUNGIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Liquidação de sentença por arbitramento em que foi proferida decisão homologando laudo pericial e extinguindo o incidente.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O recurso cabível contra decisão que não põe fim ao processo, homologando cálculos na fase de liquidação de sentença, é o agravo de instrumento; a interposição de apelação constitui erro grosseiro, o que impede a aplicação do princípio da fungibilidade. Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
