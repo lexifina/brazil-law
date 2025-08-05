@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS DANIEL FERREIRA NEVES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta nos autos que o paciente foi preso em flagrante pela suposta prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006 e no art. 12 da Lei n. 10.826/2003, em 25 de abril de 2023.
+Sustenta que "o processo foi remetido para o segundo grau em 8 de abril de 2024 e distribuído naquele tribunal no dia 11 do mesmo mês" (fl. 3).
+Afirma que "malgrados decorridos mais de dois anos da prisão e mais de um ano da subida do recurso ao tribunal mineiro, não se há qualquer previsão para o julgamento do feito, cujas movimentações restaram estagnadas por meses, sem qualquer interferência da defesa do Paciente, o que configura flagrante excesso de prazo" (fl. 3).
+Alega que "a prisão processual, como medida de natureza excepcional, deve estar necessariamente condicionada ao respeito aos direitos e garantias fundamentais, entre os quais se destaca a duração razoável do processo e a celeridade da marcha processual" (fl. 4).
+Afirma que "o paciente encontra-se preso em caráter preventivo por mais de 365 dias sem que houvesse a devida revisão nonagesimal" (fl. 4).
+Alega que "a prisão não pode perdurar infinitamente, devendo ser revista a cada 90 dias e, se mantida, deve ser devidamente motivada por decisão fundamentada" (fl. 5).
+Requer o relaxamento da prisão preventiva do paciente pelo excesso de prazo e, subsidiariamente, pleiteia a revogação da prisão preventiva, ainda que com a fixação das medidas alternativas diversas à prisão, previstas no art. 319 do Código de Processo Penal.
+Liminar indeferida às fls. 199-201.
+Informações prestadas às fls. 207-299.
+O Ministério Público Federal em parecer, às fls. 304-307, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Ressalta-se que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Quanto ao excesso de prazo para o julgamento do recurso de apelação contra sentença condenatória prolatada, em 11/12/2023; tenho que, por ora, não está configurado o alegado excesso de prazo para a análise do referido recurso.
+Segundo as informações prestadas pela corte de origem, o paciente interpôs o recurso de apelação em 21/10/2022, sendo os autos remetidos ao tribunal em 08/04/2024 e distribuído em 11/4/2024 - fl. 262.
+Não se pode olvidar, a gravidade concreta da conduta, tendo sido aplicada ao ora paciente substancial reprimenda de 06 anos e 07 meses de reclusão e 03 anos de detenção, não apresentando qualquer irregularidade capaz de justificar o relaxamento da prisão cautelar sob o fundamento de excesso de prazo - fl. 31.
+No ponto, cumpre registrar que, de acordo com a jurisprudência desta Corte, o excesso de prazo para o julgamento da apelação deve levar em consideração o quantum da pena aplicada pela sentença condenatória.
+Sobre o tema, colaciono o seguinte precedente desta Corte Superior de Justiça:
+"A configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida consoante os critérios de razoabilidade, em razão das peculiaridades do caso concreto.
+Ademais, eventual excesso de prazo deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória"(AgRg no RHC n. 197.741/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/8/2024).
+No mesmo sentido: AgRg no HC n. 901.672/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/8/2024; AgRg no HC n. 882.771/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/8/2024; AgRg no HC n. 904.049/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/7/2024 e AgRg no HC n. 896.082/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 19/6/2024.
+Quanto à ausência de fundamentação do decreto prisional, a análise da decisão que decretou a prisão preventiva, bem como da sentença condenatória ao negar o direito de recorrer em liberdade, evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o paciente é reincidente - fl. 31.
+A propósito:
+"Justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública"(AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido: AgRg no HC n. 917.567/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024; AgRg no AREsp n. 2.451.465/PR, de minha relatoria, Quinta Turma, DJe de 13/8/2024 e AgRg no RHC n. 194.155/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/7/2024.
+Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+De mais a mais, salienta-se que a mera extrapolação do prazo nonagesimal não torna ilegal a custódia provisória, não se tratando de um termo peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade. Nesse sentido: AgRg no RHC n. 212.630/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 19/5/2025 e AgRg no HC n. 821.443/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/6/2023.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem. Todavia, determino ao Tribunal local que imprima a máxima celeridade, a fim de possibilitar a apreciação do recurso.
+Publique-se. Intimem-se.
+EMENTA
