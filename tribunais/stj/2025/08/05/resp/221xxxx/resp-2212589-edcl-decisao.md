@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Sulmed Assistência Médica Ltda. contra decisão de fls. 659/660, que conheceu em parte do recurso especial e, na parte conhecida, negou provimento ao agravo em recurso especial sob os seguintes fundamentos: (I) não houve negativa de prestação jurisdicional; (II) aplicação da Súmula 282/STF, pois a matéria pertinente aos arts. 492, 927, III, § 1º, 928, II, do CPC não foram apreciada pela instância judicante de origem; e (III) os arts. 4º, parágrafo único, da Lei 6.950/81 e 3º do Decreto-Lei 2.318/86 não contêm comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido no sentido de que "a limitação do salário-de- contribuição a vinte salários mínimos, prevista no parágrafo único do art. 4º da L 6.950/1981, foi revogada pelo art. 3º do DL 2.318 /1986 junto com limitação estabelecida na cabeça do mesmo artigo" (fl. 517), de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+A parte embargante, em suas razões, sustenta, em resumo: (I) erro material quanto à ausência de violação ao art. 1.022 do CPC; (II) omissão quanto ao prequestionamento dos arts. 492 e 927, III e § 1º e 928, II, do CPC; e (III) contradição quanto ao apontado óbice da Súmula 284/STF.
+Requer o acolhimento dos presentes embargos para que sejam sanados os vícios apontados.
+Impugnação apresentada às fls. 683.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Importante esclarecer que a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado -, por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão, o que não se verificou no caso concreto.
+Com efeito, ficaram devidamente consignadas no aresto hostilizado a ausência de negativa de prestação jurisdicional relativamente à limitação da base de cálculo das contribuições sociais destinadas a terceiros, bem como a ausência de prequestionamento dos arts. 927, III e § 1º e 928, II, do CPC quanto à aplicação do tema repetitivo à presente demanda que alegamente não possui por objeto a mesma questão jurídica. Por fim, incidência da Súmula 284/STF uma vez que os arts. 4º, parágrafo único, da Lei 6.950/81 e 3º do DL 2.318/86 não infirmam o juízo formulado pelo acórdão recorrido quanto à revogação do parágrafo em razão da limitação estabelecida na cabeça do mesmo artigo.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fls. 659/660):
+Verifica-se,  inicialmente,  não  ter  ocorrido  ofensa  ao  art.1.022,  II,  do  CPC,  na  medida  em  que  o  Tribunal  de  origem  dirimiu,  fundamentadamente,  as  questões  que  lhe  foram  submetidas  e  apreciou  integralmente  a  controvérsia  posta  nos  autos;  não  se  pode,  ademais,  confundir  julgamento  desfavorável  ao  interesse  da  parte  com  negativa  ou  ausência  de  prestação  jurisdicional.
+Por outro lado, a matéria pertinente aos arts.  492,  927,  III,  §  1º,  928,  II,  do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Por fim, com  relação  aos  arts.  4º, parágrafo único, da Lei 6.950/81 e 3º do Decreto-Lei 2.318/86  ,  nota-se  que  os  referidos  dispositivos  legais  não  contêm  comando  capaz  de  sustentar  a  tese  recursal  e  infirmar  o  juízo  formulado  pelo  acórdão  recorrido no sentido de que "a limitação do salário-de- contribuição a vinte salários mínimos, prevista no parágrafo único do art. 4º da L 6.950/1981, foi revogada pelo art. 3º do DL 2.318/1986 junto com limitação estabelecida na cabeça do mesmo artigo" (fl. 517),  de  maneira  que  se  impõe  ao  caso  concreto  a  incidência  da  Súmula  284/STF  ("É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.").  Por  oportuno,  destacam-se  os  seguintes  precedentes:  AgInt  no  REsp  n.  2.154.627/PE,  relatora  Ministra  Regina  Helena  Costa,  Primeira  Turma,  julgado  em  30/9/2024,  DJe  de  3/10/2024;  AgInt  no  AREsp  n.  2.288.113/DF,  relator  Ministro  Gurgel  de  Faria,  Primeira  Turma,  julgado  em  23/9/2024,  DJe  de  27/9/2024;  AgInt  no  AREsp  n.  2.524.167/RJ,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  julgado  em  12/8/2024,  DJe  de  15/8/2024.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no
+mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se
+ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES,
+PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+Publique-se.
+EMENTA
