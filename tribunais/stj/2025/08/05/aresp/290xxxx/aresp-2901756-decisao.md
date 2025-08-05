@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por Rogério da Silva contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 948):
+APELAÇÃO CÍVEL. Servidor público. Ação em que visa sua progressão funcional. Alegação de que alteração da legislação municipal acerca dos requisitos para progressão representa modificação do contrato do trabalho em prejuízo do empregado, em descompasso com o que estabelece o art. 468 da CLT. Não acolhimento. Embora o recorrente tenha ingressado na administração sob o regime celetista, a vantagem em discussão é regulamentada pela legislação municipal, e não pela CLT, possuindo, assim, natureza administrativa. Inexistência de direito adquirido a regime jurídico. Legislação municipal que prevê requisitos específicos para a promoção funcional. Inexistência de previsão legal de ascensão funcional automática. Necessidade, porém, de o Município realizar avaliação periódica de desempenho, inclusive como concretização do princípio da eficiência. Pedido subsidiário acolhido para determinar que a Municipalidade implemente comissão de avaliação funcional. Sentença reformada em parte. Recurso parcialmente provido.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 22 e 37 da Constituição Federal, 2º do Decreto 9.963/12, 374 do CPC, 122 e 129 do Código Civil e 468 da CLT. Sustenta, em síntese, que "  ..  seja aplicada a CLT ao contrato de trabalho do Autor, contratado pelo regime celetista, em especial, aplicando o artigo 468 da CLT e reconhecendo lesiva a alteração legislativa trazida pela Lei 7.842/2012 e determinar a aplicabilidade da Lei 7.557/2011, que previa triênios." (fl. 979).
+Transcorrido in albis o prazo para contrarrazões (fl. 995).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhimento.
+Inicialmente, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 22 e 37 da Constituição Federal.
+A matéria pertinente aos arts. 2º do Decreto 9.963/12, 374 do CPC e 122 e 129 do Código Civil não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 949/959 g.n):
+A controvérsia dos autos diz respeito às alterações promovidas Município de Araraquara quanto à promoção funcional de seus servidores. Alega o autor, ocupante do cargo de auxiliar de serviços públicos, que as modificações violam o artigo 468 da CLT, na medida em que representam alteração do contrato do trabalho em prejuízo do empregado. Sustenta, no entanto, que preenche todos os requisitos da avaliação de desempenho, possuindo direito à promoção funcional.
+Acerca da promoção funcional, a Lei Municipal nº 6.251/2005 que dispõe sobre o Plano de Carreiras, Cargos e Vencimentos da Prefeitura de Araraquara, previa em sua redação original:
+ ..
+O artigo 43 foi modificado pela Lei nº 7.557/2011:
+ ..
+A Lei nº 7.842/2012, por seu turno, conferiu nova redação aos artigos 43 e 44:
+ ..
+Em 2019, o Município aprovou a Lei nº 9.800, que institui novo plano de cargos, carreiras e vencimentos (PCCV) dos servidores municipais , revogando a Lei 6.255/2005. A nova lei estabelece que a evolução funcional ocorrerá mediante progressão por antiguidade e promoção por titulação e por merecimento:
+ ..
+Nota-se que a promoção por titulação exige, além da obtenção de escolaridade, o aproveitamento mínimo de 60% em avaliação de desempenho, a observância do máximo de ausências injustificadas, a não incidência em sanção administrativa, bem como estabilidade no emprego público e ausência de suspenção do contrato de trabalho.
+A promoção por merecimento, por outro lado, demanda além de frequência em curso de qualificação profissional, a estabilidade no emprego público, o aproveitamento mínimo de 60% em avaliação de desempenho, a observância do número máximo de ausências injustificadas e a não incidência em sanção administrativa.
+Esclareça-se que não se aplica ao caso o artigo 468 da CLT, haja vista que, embora o recorrente tenha ingressado na administração sob o regime celetista, a vantagem em discussão é regulamentada pela legislação municipal, e não pela CLT, possuindo, assim, natureza administrativa. Por essa razão, aliás, a competência para julgamento da presente demanda não é atribuída à Justiça do Trabalho. De acordo com o Tema 1.443/STF, "A Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa".
+ ..
+Estabelecida essa premissa, não encontra amparo a pretensão do autor de concessão automática da ascensão funcional. A promoção prevista na legislação municipal, tanto por titulação quanto por merecimento, exige a observância de critérios específicos.
+Assim, não há previsão legal de ascensão funcional automática, exigindo-se a observância dos requisitos legais. No entanto, não há discricionariedade da Administração Pública quanto à realização de avaliação periódica de desempenho, que encontra previsão no artigo 41 da Constituição Federal, como concretização do princípio da eficiência. O artigo 54 e seguintes Lei nº 9.800/2019 dispõe, nesse sentido, acerca do sistema de avaliação de desempenho, que deve ser instituído pelo Município.
+A propósito:
+ ..
+Dessa forma, merece acolhimento o pedido subsidiário do autor para determinar que a Municipalidade, em 60 dias, implemente comissão de avaliação funcional prevista no artigo 54 e seguintes Lei nº 9.800/2019, observados os requisitos legais e regulamentares.
+Diante desse contexto, a alteração das premissas adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o Enunciado Sumular 7 do STJ, e exigiria interpretação da legislação local, o que é obstado por esta Corte em virtude da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário").
+Por fim, pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
