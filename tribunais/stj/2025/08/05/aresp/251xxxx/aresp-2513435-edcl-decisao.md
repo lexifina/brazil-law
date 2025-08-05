@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, embargos de declaração opostos por JOSÉ CARLOS CREMA RODRIGUES e MARIA BEATRIZ BUCCHIANERI RUSSO RODRIGUES contra decisão que conheceu do agravo para não conhecer do recurso especial, haja vista a incidência do óbice da Súmula 7/STJ.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida. Sustenta que a decisão não analisou o fato de que os recorrentes jamais concordaram com os valores emitidos pelo INCRA, e que a renúncia expressa na petição de 13/2/2012 se referia unicamente à multa por atraso, não implicando preclusão lógica quanto aos consectários legais. Aduz, ainda, que a pretensão não é de reexame de provas, mas de revaloração jurídica dos fatos, o que afastaria a aplicação da Súmula 7/STJ.
+Impugnação nas 718-720.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes.
+No caso, a decisão embargada não padece dos vícios apontados. A questão da preclusão lógica foi expressamente analisada, tendo a decisão se fundamentado no acórdão recorrido, que foi claro ao assentar que a conduta processual dos exequentes configurou a preclusão.
+A decisão embargada consignou, de forma explícita, que o Tribunal de origem concluiu pela ocorrência de preclusão com base na "manifestação dos próprios exequentes, após a emissão dos TDAs, requerendo seu levantamento sem opor qualquer ressalva quanto aos valores". Ademais, transcreveu o trecho pertinente do acórdão que evidencia a análise do comportamento processual dos embargantes:
+ ..  Os exequentes, na verdade, insurgem-se contra os valores dos TDAs emitidos pelo INCRA em 12/2011, alegando que os títulos foram lançados com valores defasados, sem que eles tivessem, no tempo oportuno, impugnado os respectivos valores. Ao contrário, em 13/02/2012, manifestaram-se expressamente pela liberação dos TDAs referentes ao valor da terra, sem nada opor quanto ao valor dos títulos emitidos renunciando, inclusive, à multa pelo eventual atraso no pagamento, não podendo, depois de aproximadamente um ano, insurgirem-se quanto aos títulos emitidos pela autarquia federal, dada a ocorrência da preclusão lógica.
+A decisão embargada também foi clara ao estabelecer que a revisão dessa conclusão - para acatar a tese dos embargantes de que a renúncia se limitava à multa e não havia concordância tácita com os valores - demandaria, inevitavelmente, o reexame do conjunto fático-probatório, em especial da petição protocolada em 13/02/2012. Tal procedimento é vedado em recurso especial, conforme o óbice da Súmula 7/STJ.
+O que se percebe é o mero inconformismo da parte embargante com o resultado do julgamento que lhe foi desfavorável, pretendendo, por via transversa, a rediscussão do mérito. Conforme jurisprudência pacífica do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Assim, não há vício formal no decisum.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
