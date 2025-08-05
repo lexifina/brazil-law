@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSE WELLINGTON DE AMORIM FLORIANO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Depreende-se dos autos que o paciente foi preso em flagrante no dia 1º de abril de 2025, sob a acusação da suposta prática do crime de tráfico de entorpecentes, com a prisão em flagrante convertida em preventiva.
+Alega a Defesa que a prisão preventiva foi mantida com base em fundamentos como a gravidade concreta da conduta, a existência de inquérito em andamento por homicídio, a apreensão de drogas e arma de fogo, e a potencial reiteração delitiva.
+Sustenta que houve falta de fundamentação idônea em relação à prisão preventiva, afirmando que os fundamentos não demonstram a imprescindibilidade da prisão para o desenvolvimento regular do processo.
+Afirma que o corréu, preso em flagrante juntamente com o paciente, obteve liberdade provisória mediante aplicação de medidas cautelares diversas da prisão, o que torna desproporcional a manutenção da custódia do paciente.
+Alega que as condições pessoais do paciente são favoráveis, sendo ele primário, com residência fixa, possui emprego regular e reside no distrito da culpa.
+Defende que a prisão preventiva deve ser substituída por medidas cautelares diversas, conforme o art. 319 do Código de Processo Penal, dado o caráter excepcional da prisão preventiva.
+Requer a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas, com a consequente expedição de alvará de soltura.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o "custodiado é investigado por um crime de homicídio ocorrido em 28 de fevereiro de 2025, com testemunhas oculares. No caso concreto, foi preso em flagrante com drogas e comum a arma de fogo que, suspeita-se, seja a mesma arma utilizada na prática do homicídio " (fl. 20), circunstâncias ap tas a justificar a segregação cautelar.
+Sobre o tema: "Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024).
+Nesse sentido: AgRg no HC n. 880.186/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 26/6/2024; AgRg no HC n. 895.229/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), julgado em 17/6/2024, DJe de 21/6/2024; RHC n. 198.399/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/6/2024 e AgRg no HC n. 908.662/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2024 e AgRg no RHC n. 190.541/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 11/12/2023.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
