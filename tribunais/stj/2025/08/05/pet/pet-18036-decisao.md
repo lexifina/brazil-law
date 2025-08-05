@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional interposto por MIKAEL HOLANDA CORDEIRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE que não conheceu de recurso em sentido estrito manejado em oposição a decisão que o pronunciou pelo crime de homicídio duplamente qualificado.
+O recorrente requer "1. O conhecimento e provimento do presente Recurso Ordinário Constitucional; 2. A reforma do acórdão da Câmara Criminal do TJRN, com consequente conhecimento do Recurso em Sentido Estrito interposto; 3. O reexame do mérito do recurso originário, para que seja afastada a pronúncia ao menos quanto ao crime de homicídio tentado e/ou determinadas qualificadoras sem lastro probatório mínimo" (e-STJ fls. 366-370).
+Decido.
+De acordo com o art. 105, II, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, em recurso ordinário: a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória; b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão; c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País.
+Considerando que o presente recurso não se amolda a nenhuma das hipóteses previstas para o manejo do recurso ordinário constitucional, é manifesto o seu descabimento, devendo a petição de e-STJ fls. 366-370 ser indeferida de plano.
+Ante o exposto, não conheço do recurso, com base no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
