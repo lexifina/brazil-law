@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se, na origem, de agravo de instrumento interposto pela Fazenda Nacional contra decisão de indeferimento de pedido de transformação em pagamento definitivo de depósito judicial promovido com a finalidade de suspender a exigibilidade de tributo.
+Em síntese, relata a Fazenda Nacional, ora recorrente, que após o trânsito em julgado em sede de discussão tributária, teve indeferido o seu pedido de transformação de depósito judicial em pagamento definitivo, sob a justificativa de que os valores deveriam ficar à disposição do juízo para utilização nas hipóteses de descumprimento de decisão judicial pela União Federal, nas causas envolvendo fornecimento de medicamentos.
+O Tribunal Regional Federal da 4ª Região negou provimento ao agravo de instrumento por meio de acórdão assim ementado:
+TRIBUTÁRIO. CUMPRIMENTO DE SENTENÇA. DEPÓSITOS JUDICIAIS. TRANSFORMAÇÃO EM PAGAMENTO DEFINITIVO. SEQUESTRO DE VALORES. POSSIBILIDADE.
+1. A jurisprudência do STJ, amparada em julgado proferido na sistemática de recursos repetitivos, é no sentido de que, tratando-se de fornecimento de medicamentos, cabe ao Juiz adotar medidas eficazes à efetivação de suas decisões, podendo, se necessário, determinar o sequestro de valores do devedor.
+2. A utilização de valores destinados à União em outra ação para fins de aquisição de medicamento é viável porque não se trata de recursos orçamentários vinculados a um órgão. Considerando que o numerário não está, a princípio, destinado a um fim específico previsto na legislação orçamentária, não subsiste óbice ao seu aproveitamento justamente para o cumprimento de decisão judicial que visa a concretizar o direito fundamental à saúde.
+Os embargos de declaração opostos às fls. 25-29 foram assim rejeitados:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO CONFIGURAÇÃO. PREQUESTIONAMENTO.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material. Embargos de declaração rejeitados, porquanto não configurada omissão no voto condutor do acórdão embargado.
+2. O enfrentamento das questões suscitadas em grau recursal, assim como a análise da legislação aplicável, são suficientes para prequestionar junto às instâncias superiores os dispositivos que as fundamentam.
+Inconformada, a Fazenda Nacional interpôs recurso especial, com fundamento no art. 105, III, a, CF, alegando que o acórdão de origem violou o art. 1º, §3º, II, da Lei n. 9.703/1998.
+Defende que, na hipótese de improcedência da decisão judicial, os valores depositados em juízo necessariamente devem se transformados em pagamento definitivo em favor da União Federal. Aponta, ainda, que o Tema 84/STJ não autoriza a formação de um fundo com recursos públicos.
+É o relatório. Decido.
+O recurso especial merece provimento.
+O Superior Tribunal de Justiça, ao apreciar o Tema 84/STJ, sedimentou o entendimento no sentido de que, em se tratando de fornecimento de medicamentos, pode o Juiz adotar as medidas necessárias à efetividade de suas decisões, inclusive o bloqueio de valores. O acórdão foi assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ADOÇÃO DE MEDIDA NECESSÁRIA À EFETIVAÇÃO DA TUTELA ESPECÍFICA OU À OBTENÇÃO DO RESULTADO PRÁTICO EQUIVALENTE. ART. 461, § 5o. DO CPC. BLOQUEIO DE VERBAS PÚBLICAS. POSSIBILIDADE CONFERIDA AO JULGADOR, DE OFÍCIO OU A REQUERIMENTO DA PARTE. RECURSO ESPECIAL PROVIDO. ACÓRDÃO SUBMETIDO AO RITO DO ART. 543-C DO CPC E DA RESOLUÇÃO 08/2008 DO STJ.
+1. Tratando-se de fornecimento de medicamentos, cabe ao Juiz adotar medidas eficazes à efetivação de suas decisões, podendo, se necessário, determinar até mesmo, o sequestro de valores do devedor (bloqueio), segundo o seu prudente arbítrio, e sempre com adequada fundamentação.
+2. Recurso Especial provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 08/2008 do STJ.
+(REsp n. 1.069.810/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 23/10/2013, DJe de 6/11/2013.)
+Entretanto, o entendimento alcançado pelo Superior Tribunal de Justiça parte do pressuposto lógico de que a providência necessária à efetividade da decisão judicial seja consequência do descumprimento pelo Estado. Com efeito, o Tema 84/STJ não autoriza providência prévia para fazer frente a hipotéticos descumprimentos de decisões judiciais, a exemplo da formação de fundo ou reserva mediante a indisponibilidade de recursos financeiros relacionados a outras ações.
+Sob outra perspectiva, conforme apontado pela Fazenda Nacional, o art. 1º, §3º, II, da Lei n. 9.703/1998, vigente à época dos fatos, determina a transformação em pagamento definitivo dos valores depositados quando do trânsito em julgado de decisão desfavorável ao contribuinte. Nesse diapasão, os valores devem ser direcionados de acordo com o pedido formulado pela Fazenda Nacional perante o Juízo de origem.
+Ante o exposto, com fundamento no art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial da Fazenda Nacional.
+Publique-se. Intimem-se.
+EMENTA
