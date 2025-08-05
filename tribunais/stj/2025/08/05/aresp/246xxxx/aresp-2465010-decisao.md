@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo interposto por RUI MANUEL FERREIRA PINTO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 374-387):
+APELAÇÃO CÍVEL. AÇÃO DE IMISSÃO NA POSSE. CONTRATO DE FINANCIAMENTO PARA AQUISIÇÃO DE BEM IMÓVEL COM ALIENAÇÃO DA PROPRIEDADE EM FIDÚCIA. Autores ingressaram em Juízo buscando a imissão na posse de imóvel adquirido em leilão extrajudicial, eis que o Réu se recusa a desocupá-lo. Sentença de procedência que é alvejada pelo Demandado, fundamentando seu pedido com base na alegação de nulidade do leilão. Contudo, nos autos do processo em anexo nº 0028016-19.2020.8.19.0208, este Colegiado entendeu pela legalidade do leilão. Autores que trouxeram aos autos o título de aquisição registrado em cartório imobiliário, bem como a notificação extrajudicial do Réu para desocupação do bem, em observância ao disposto no artigo 373, inciso I, do Código de Processo Civil. Incidência do artigo 1228 do Código Civil que prevê que "o proprietário tem a faculdade de usar, gozar e dispor da coisa, e o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha". Correta a sentença, pois, ao determinar a imissão na posse dos Demandantes. Ausência de impugnação específica acerca do pagamento da taxa de ocupação mensal no valor de R$ 1.000,00. E, como se sabe, o princípio da dialeticidade, materializado no artigo 1.010, inciso II, do Código de Processo Civil, impõe ao Recorrente a obrigação de impugnar os fundamentos da decisão atacada, de modo a demonstrar as razões pelas quais entende que o julgamento mereça ser reformado, o que, no caso em tela, não ocorreu quanto à referida condenação. Manutenção da sentença que é medida que se impõe. Precedentes jurisprudenciais. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, o Tribunal de origem os rejeitou (fls. 411-417).
+No recurso especial, a parte recorrente aduz, no mérito, que houve violação dos arts. 26 e 27, § 2º, da Lei n. 9.514/1997, sustentando a nulidade do leilão judicial ante a ausência de notificação pessoal do devedor.
+Foram oferecidas contrarrazões ao recurso especial (fls. 468-478).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 483-487), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 511-516).
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+De início, não merece conhecimento o apelo nobre quanto à suscitada ofensa aos arts. 26 e 27, § 2º, da Lei n. 9.514/1997, uma vez que a alteração das conclusões adotadas pelo Tribunal de origem acerca da regular notificação do recorrente e da sua constituição em mora demandaria reexame de fatos e provas, esbarrando-se no óbice da Súmula 7/STJ.
+A propósito, destaco:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEILÃO EXTRAJUDICIAL. CONTRATO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. NOTIFICAÇÃO ENVIADA PARA O ENDEREÇO DO CONTRATO. REVISÃO. SÚMULA N. 7/STJ.
+1. A questão consiste em saber se houve nulidade no procedimento de leilão extrajudicial por ausência de intimação pessoal da devedora fiduciária, impedindo-a de exercer o direito de preferência.
+Hipótese em que o contrato de financiamento imobiliário foi firmado em 5/4/2011.
+2. O preceito contido no § 2º-A do art. 27 da Lei n. 9.514/1997, com a redação conferida pela Lei n. 13.465/2017, dispõe expressamente que a comunicação ao devedor deve ser realizada "mediante correspondência endereçada aos endereços constantes do contrato, inclusive ao endereço eletrônico", razão pela qual não se exige a intimação pessoal.
+3. No caso dos autos, trata-se de contrato firmado antes de 12/7/2017, quando entrou em vigor a Lei n. 13.465/2017, não sendo necessária a intimação do devedor fiduciante da data da realização do leilão, haja vista que, no momento da realização do ato, o bem já não mais lhe pertencia.
+4. Ademais, o Tribunal de origem, considerando a particularidade do caso concreto, concluiu pela regularidade do procedimento da intimação tanto para purgação da mora quanto para a data da realização do leilão. Desse modo, elidir a conclusão da Corte a quo, com o fim de acolher a pretensão da recorrente de nulidade do procedimento em razão da ausência de intimação dos leilões, demandaria a análise do conteúdo fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante a Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.383.447/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONSTITUIÇÃO DO DEVEDOR EM MORA. VALIDADE DA NOTIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO .
