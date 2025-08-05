@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Indústria Química Anastácio S.A., desafiando decisão da Primeira Vice- Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) há aplicação da Súmula 07/STJ, pois alterar as premissas da Corte de origem demanda reexame de matéria fático probatória; e II) incidência da Súmula 280/STF .
+A parte agravante, em suas razões, sustenta, em síntese, que: (I) "embora a Agravante tenha apresentado de forma clara e legítima a inobservância ao art. 489, §1º, IV, do CPC, a r. Decisão não apreciou a questão" (fl. 669); (II) "o v. Acórdão infringiu os arts. 202 e 203 do CTN e o art. 2º, §5º, da Lei nº 6.830/1980, argumento que também não encontra óbice na Súmula 7 desta e. Corte. Isto porque, o desrespeito aos citados artigos resume-se no fato de que o Estado do RS não informou corretamente os valores executados, conforme os termos da legislação. Assim, os requisitos de certeza e liquidez da CDA não estão presentes, o que enseja a nulidade da CDA e, por conseguinte e extinção da Execução Fiscal" (fl. 672); e (III) "Ora, não se está alegando, in casu, violação a "direito local", como entendeu a r. Decisão agravada, pois não se trata de discutir lei local, mas sim desrespeito direto ao texto positivado na forma de Lei Federal" (fl. 673).
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões de agravo, a insurgente deixou de rebater, de modo específico, súmula 280/STF.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 280/STF.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
