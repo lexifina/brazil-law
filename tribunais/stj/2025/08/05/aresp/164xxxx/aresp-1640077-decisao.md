@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo manejado pelo Ministério Público Federal contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 5ª Região, de cujo voto condutor extraio a seguinte passagem (fls. 1.840/1.842):
+ ..
+Da analise da prova documental juntada aos autos, em especial o Relatório de Fiscalização/CGU nº 26, cf fis. 38/293, e de acordo com demais elementos trazidos pelo Município de Baía da Traição/PB, cf. fis. 343/456, assim como o Inquérito Policial/IPL nº 06/07 - SR/DPF/PB, cf. fis. 461/564, 661/730 e 743, resta incontroverso que houve um conluio entre os réus, ora recorrentes, com o escopo de fraudar os procedimentos licitatórios referenciados na inicial da presente ação.
+As provas documentais foram corroboradas pela prova testemunhal, que também é bastante incisiva ao confirmar as fraudes apontadas pelo MPF.
+ ..
+Portanto, de acordo com o acervo probatório constante dos autos, não se desincumbindo os réus de desconstituir tais provas, é a hipótese de se manter no capítulo da sentença que concluiu pela afronta à Lei de Improbidade, em seu artigo art. 11, 1 e V.
+ ..
+Nas razões do apelo especial, a parte agravante aponta ofensa ao art. 10, VIII, da Lei nº 8.429/92. Sustenta, em síntese, que "o entendimento adotado pela Quarta Turma do TRF5 não se mostra consentâneo com o direcionamento da jurisprudência mais recente desse Tribunal Superior quanto à desnecessidade de quantificação de dano/prejuízo ao erário para a configuração dos atos improbos previstos no art. 10 da Lei 8.429/92" (fl. 1.881).
+Recebidos os autos nesta Corte, o Parquet Federal, como fiscal do ordenamento jurídico e em parecer de lavra da Subprocuradora-Geral da República Maria Soares Camelo Cordioli, opinou pelo conhecimento do agravo para dar provimento ao recurso especial (fls. 1.933/1.941).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Em 25/10/2021, foi publicada a Lei n. 14.230, que promoveu significativas alterações na Lei n. 8.429/92.
+Ora, o Supremo Tribunal Federal, ao apreciar o ARE 843.989/PR, assentou a presença de repercussão geral na questão alusiva à retroatividade das disposições da mencionada Lei n. 14.230/2021 (Tema 1.199, acórdão publicado no DJe 4/3/2022).
+Em 18/8/2022, a Suprema Corte concluiu o julgamento daquele recurso extraordinário com agravo, fixando as seguintes teses de repercussão geral:
+"1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa -, é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente;
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei".
+É possível inferir, portanto, que a Excelsa Corte, no julgamento do Tema 1.199, não chegou a examinar e, logicamente, não determinou a aplicação retroativa do novo rol taxativo das condutas ímprobas que atentam contra princípios da Administração, na redação dada pela Lei n. 14.230/2021.
+Ocorre que, em momento posterior, o Plenário do STF assentou que as "alterações promovidas pela Lei 14.231/2021 ao art. 11 da Lei 8.249/1992 aplicam-se aos atos de improbidade administrativa praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado" (ARE 803568 AgR-segundo-EDv-ED, Relator: Ministro Luiz Fux, Relator p/ Acórdão Ministro Gilmar Mendes, Tribunal Pleno, julgado em 22/8/2023, DJe 6/9/2023).
+Essa mesma diretriz foi aplicada pela Primeira Turma deste Tribunal Superior no que respeita à ausência de comprovação do dano efetivo ao erário (tratava-se de condenação anterior à Lei n. 14.230/2021, fundamentada tão somente na existência do chamado dano in re ipsa). Refiro-me ao REsp n. 2.061.719/TO (acórdão publicado no DJe de 2/9/2024), Relator Ministro Paulo Sérgio Domingues, que redigiu a ementa da seguinte maneira:
+RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AOS PRINCÍPIOS REITORES DA ADMINISTRAÇÃO. MÁCULA À IMPESSOALIDADE E À MORALIDADE MEDIANTE A FRUSTAÇÃO DE PROCEDIMENTO LICITATÓRIO. RECONHECIMENTO DA PRESENÇA DE DOLO ESPECÍFICO NA ORIGEM. ATRAÇÃO DA SÚMULA 7/STJ. CONDENAÇÃO COM BASE NO CAPUT DO ART. 11 DA LIA. PRINCÍPIO DA CONTINUIDADE TÍPICONORMATIVA. TIPIFICAÇÃO DA CONDUTA NO ATUAL INCISO V DO ART. 11 DA LIA. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+1. A imputação aos réus de fraude para viabilizar a celebração de contratos de fornecimento de produtos por intermédio de empresas fantasmas, ocultando supermercado de propriedade da ex-Prefeita e do ex-Secretário de Finanças do Município de Talismã/TO consubstancia dolo específico e a revisão desta conclusão implica reexame do contexto fático-probatório, providência vedada pela Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. Alteração do caput do art. 11 da Lei de Improbidade Administrativa (LIA) pela Lei 14.230/2021, afastando-se a hipótese de responsabilização por violação genérica aos princípios administrativos. Incidência do princípio da continuidade típiconormativa. A conduta cristalizada no acórdão recorrido vem tipificada no atual inciso V do art. 11 da Lei de Improbidade Administrativa. Condenação mantida.
+3. Adequação das penalidades aplicadas aos termos do inciso III do art. 12 da Lei 8.429/1992. Necessidade de retorno dos autos à Corte de origem para nova dosimetria das penas. Impossibilidade de aplicação de sanções mais gravosas aos demandados diante da retroação apenas da lei mais benigna e do princípio da vedação da reformatio in pejus.
+DANO AO ERÁRIO. PRESUNÇÃO DO PREJUÍZO PELO ACÓRDÃO RECORRIDO. ALTERAÇÃO DO ART. 10, "CAPUT" E INCISO VIII, DA LIA. NECESSIDADE DE COMPROVAÇÃO DA PERDA PATRIMONIAL EFETIVA. INTERPRETAÇÃO DAS TESES FIXADAS NO TEMA 1.199. RETROAÇÃO DAS ALTERAÇÕES LEGAIS EM RELAÇÃO, TAMBÉM, AO ELEMENTO OBJETIVONORMATIVO: DANO.
+4. A atual redação do art. 10 da LIA, com as alterações advindas da Lei 14.230/2021, passou a exigir a comprovação da perda patrimonial efetiva para a configuração da improbidade administrativa. O Supremo Tribunal Federal, quando do exame do Tema 1.199, pacificou a orientação de que " a  nova Lei 14.230/2021 aplicase aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente". O silogismo aplicável ao elemento subjetivo da conduta em tudo se aplica ao elemento objetivo-normativo considerando-se a máxima "Ubi eadem ratio, ibi idem jus".
+5. Recurso especial em parte conhecido e parcialmente provido para determinar o retorno dos autos para a realização da nova dosimetria das penas.
+Nessa mesma linha de percepção, sobressaem os seguintes julgados, de ambas as Turmas que compõem a Primeira Seção do STJ:
+ADMINISTRATIVO. ATO ÍMPROBO. DANO PRESUMIDO. ALTERAÇÃO LEGAL EXPRESSA. NECESSIDADE DE EFETIVO PREJUÍZO. RESPONSABILIZAÇÃO POR DOLO GENÉRICO. REVOGAÇÃO. APLICAÇÃO IMEDIATA.
+1. A Lei n. 14.230/2021, que alterou profundamente a Lei n. 8.429/1992, passou a prever, como condição à configuração do ato de improbidade administrativa que causa lesão ao erário, o efetivo e comprovado prejuízo ao patrimônio público.
+2. A Primeira Turma, por ocasião do julgamento do REsp 1.929.685/TO, consolidou o entendimento de que os processos ainda em curso, versando sobre a mesma questão, devem ser solucionados com a posição externada na nova lei, que reclama o dano efetivo, hipótese inocorrente no caso dos autos.
+3. A conduta ímproba amparada em dolo genérico foi revogada pelo novo diploma legal que alterou a LIA, passando a exigir o dolo específico.
+4. No caso, o Tribunal de origem asseverou que o Ministério Público não comprovou a existência do dolo específico na conduta imputada aos réus, porquanto não houve a clara intenção em ofender os princípios administrativos.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.728.544/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/4/2025, DJEN de 6/5/2025)
+DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FRAUDE EM LICITAÇÃO. DANO PRESUMIDO. RETROATIVIDADE DA LEI N. 14.230/2021. RECURSO PROVIDO.
+I. Caso em exame
+1. Ação civil pública por ato de improbidade administrativa ajuizada pelo Ministério Público do Paraná contra réus acusados de fraudar licitação para aquisição de trator, no valor de R$ 12.000,00. O juízo de primeiro grau condenou os réus Wilson Soares da Silva e o espólio de Francisco Andreoli Gonçalves, mas afastou a condenação de Elias Demétrio da Silva.
+2. O Tribunal de origem deu provimento ao recurso do Ministério Público para condenar Elias Demétrio da Silva e reconheceu a prescrição das sanções, exceto o ressarcimento ao erário, por ser imprescritível.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível a condenação por ato de improbidade administrativa, consistente em fraudar licitação, com base na presunção de dano ao erário.
+4. A análise da retroatividade da Lei n. 14.230/2021, que alterou a Lei de Improbidade Administrativa, exigindo a comprovação de dano efetivo ao erário para a configuração de improbidade administrativa.
+III. Razões de decidir
+5. A Lei n. 14.230/2021 alterou a redação do art. 10, VIII, da Lei de Improbidade Administrativa, exigindo a comprovação de dano patrimonial efetivo para a configuração de improbidade administrativa.
+6. A presunção de dano ao erário não é mais suficiente para a condenação por improbidade administrativa, sendo necessário demonstrar o dano efetivo.
+7. No caso concreto, não houve comprovação de que o valor pago pelo trator foi superior ao praticado no mercado ou que a aquisição era desnecessária, afastando a possibilidade de condenação com base em dano presumido.
+IV. Dispositivo e tese
+8. Recurso provido para julgar improcedente a ação civil pública em relação a todos os demandados.
+Tese de julgamento: "1. A condenação por improbidade administrativa exige a comprovação de dano patrimonial efetivo ao erário. 2. A presunção de dano não é suficiente para a configuração de improbidade administrativa após a Lei n. 14.230/2021".
+Dispositivos relevantes citados: Lei n. 8.429/1992, art. 10, VIII;
+Lei n. 14.230/2021.Jurisprudência relevante citada: STF, ARE 843.989/PR, Rel. Min. Alexandre de Moraes; STJ, AgInt no REsp 1737731/SC, Rel. Min. Gurgel de Faria.
+(REsp n. 1.941.255/PR, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 18/3/2025, DJEN de 25/3/2025)
+Nesse contexto, tendo em conta as alterações promovidas pela multicitada Lei n. 14.230/21, a pretensão do recorrente não pode ser acolhida.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
