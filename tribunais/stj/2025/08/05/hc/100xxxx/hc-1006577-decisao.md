@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de WILKER SOUZA SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1527804- 92.2022.8.26.0228).
+Consta dos autos que o paciente foi condenado à pena de 05 (cinco) anos de reclusão, em regime inicial semiaberto, além de 500 (quinhentos) dias multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+A impetrante sustenta a existência de constrangimento ilegal, em razão do indevido afastamento da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, fundamentado exclusivamente na quantidade de entorpecentes apreendidos.
+Alega que o paciente preenche todos os requisitos legais para o reconhecimento da causa de diminuição de pena, por ser primário, possuir bons antecedentes, não se dedicar a atividades criminosas, tampouco integrar organização criminosa.
+Argumenta que o acórdão impugnado padece de falta de fundamentação idônea, apoiando-se em meras presunções e conjecturas, em ofensa aos princípios constitucionais da presunção de inocência e da individualização da pena .
+Requer, liminarmente e no mérito, a concessão da ordem para aplicar a minorante prevista no § 4º do art. 33 da Lei de Drogas, no patamar máximo de 2/3, com a consequente adequação da pena e do regime inicial de cumprimento inicial diverso do fechado, inclusive com a possibilidade de substituição por penas restritivas de direitos.
+O pedido liminar foi negado às fls. 66/67.
+Informações foram prestadas às fls. 71/106 e 110/130.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 134/140).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento da Primeira Turma do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel.ª Ministra Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Ministro Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Em que pese tal orientação, é da jurisprudência desta Corte proceder-se, de ofício, à concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia (HC 260.651-RO, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 20/6/2014).
+No caso, não se verifica manifesto constrangimento ilegal apto a justificar a concessão da ordem de ofício.
+No que tange ao não reconhecimento da causa de diminuição de pena prevista no § 4º do artigo 33 da Lei n. 11.343/06, assim fundamentou o acórdão recorrido (fl. 18):
+As penas não comportam reparo. Fixadas as básicas no mínimo legal, não houve modificações posteriores, anotando-se que, em razão da apreensão de alta quantidade de tóxicos variados, todas separadas e embaladas, prontas para comercialização, além de dinheiro, em cédulas diversas, está clara a dedicação do réu a atividades criminosas mais precisamente, à traficância , constatação que obsta, idoneamente, a incidência do redutor previsto no § 4º do art. 33 da Lei 11.343/06, consoante remansoso entendimento desta C. Câmara Criminal.
+Verifica-se ainda que o Tribunal a quo deixou de aplicar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, não apenas em função da quantidade de droga apreendida, mas também em razão de que o réu se dedica se dedica a atividade criminosa (fl. 18).
+Sendo assim, para se acolher a tese de que o paciente não se dedica às atividades criminosas, seria necessário o reexame aprofundado das provas, inviável em sede de habeas corpus (AgRg no HC n. 901.809/SC, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/9/2024, DJe de 3/10/2024).
+Em caso análogo:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI 11 .343/2006. REQUISITOS NÃO PREENCHIDOS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. RECURSO NÃO PROVIDO. 1. A negativa de aplicação do redutor do tráfico privilegiado foi fundamentada na grande quantidade de drogas e no acervo de fotografias obtidas através de laudo pericial do aparelho celular do agravante, referentes à prática delitivas, com imagens de joias, cheques, drogas e grandes quantias em dinheiro, bem como anotações de contabilidade da mercancia, a evidenciar a dedicação do agravante a atividades criminosas. 2. Constatada pelas instâncias ordinárias a ausência dos requisitos para a aplicação da causa de diminuição de pena do tráfico privilegiado, a modificação desse entendimento exigiria, no caso, aprofundado reexame do conjunto fático-probatório, o que não é possível na via do habeas corpus. 3. Agravo regimental não provido.
+(STJ, AgRg no HC 808125 SP 2023/0079356-9, Rel.ª Ministra Daniela Teixeira, data de julgamento 21/05/2024, Quinta Turma, data de publicação DJe 28/05/2024, grifamos)
+Por fim, não identifico flagrante ilegalidade ou teratologia na dosimetria da pena que justifique sua revisão, eis que corretamente fixado o regime semiaberto ao início do cumprimento da reprimenda.
+Ante  o  exposto,  denego a ordem em  habeas  corpus.
+Publique-se.  Intimem-se.
+Cientifique-se o Ministério Público Federal.
+EMENTA
