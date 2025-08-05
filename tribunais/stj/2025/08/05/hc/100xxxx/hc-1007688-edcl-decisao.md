@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CLERYSON LUCAS PEREIRA ROSA DA COSTA em face da decisão monocrática que denegou o habeas corpus (fls. 76-78).
+O embargante requer o conhecimento e o provimento dos presentes embargos, seus efeitos infringentes, revogando a sua prisão preventiva ao fundamento de que "foram utilizados para denegar a ordem anotações criminais que não pertencem ao embargante"- fl. 92.
+É o relatório. DECIDO.
+Os presentes embargos não reúnem condições de prosperar.
+Os embargos de declaração são admitidos nas hipóteses de ambiguidade, obscuridade, contradição ou omissão, nos termos dos artigos 619 e 620 do Código de Processo Penal.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+Na espécie, o que se verifica é a irresignação do embargante com a decisão embargada que denegou o habeas corpus, notadamente porque no decreto preventivo consta que "a Folha de Antecedentes Criminais do custodiado, acostadas nesta oportunidade, atesta que o flagranteado tem reiterado na prática criminosa"- fl. 31, e, ainda que alegue que não há decisões com trânsito em julgado, o certo é que na farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Os argumentos apresentados não demonstram a busca por qualquer saneamento, mas sim o reexame da matéria já decidida, o que não se mostra possível na via eleita.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
