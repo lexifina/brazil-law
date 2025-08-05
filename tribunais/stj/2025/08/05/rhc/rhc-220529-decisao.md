@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por ANDERSON FLAVIO PEREIRA (preso preventivamente pelo delito de tráfico de drogas, com apreensão de 14,95 kg de maconha e 2 kg de cocaína), no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Habeas Corpus n. 1408117-14.2025.8.12.0000).
+Alega-se, aqui, constrangimento ilegal decorrente da ausência de fundamentação idônea no decreto prisional, que seria baseado apenas na gravidade abstrata do crime.
+Sustenta-se, ainda, que a decisão combatida negligenciou os princípios da proporcionalidade, homogeneidade e da última ratio da prisão cautelar, desconsiderando o fato de que o paciente é primário, confessou o delito, colabora com a Justiça, possui residência fixa e ocupação lícita (fl. 73).
+Requer-se, no âmbito liminar e no mérito, a revogação da prisão preventiva e, subsidiariamente, a concessão de medidas cautelares alternativas.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar se encontra fundamentada na gravidade concreta e no modus operandi do delito. De acordo com os autos, o acusado estava conduzindo um veículo e foi abordado por uma equipe do Grupo de Patrulhamento Tático da Polícia Rodoviária Federal de Paranaíba/MS, ocasião em que localizaram no porta-malas do carro uma caixa contendo 14,95 kg de maconha e 2 kg de cocaína, sendo que na oportunidade o Autuado confessou que foi contratado pelo valor de R$ 3.000,00 para levar o entorpecente da cidade de Campo Grande/MS até Cassilândia/MS (fl. 54).
+In casu, foram apreendidos 14,95 kg de maconha e 2 kg de cocaína.
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Por fim, a defesa alega violação do princípio da homogeneidade, já que, na hipótese de condenação, dificilmente cumprirá pena no regime mais gravoso.
+Ora, não há que se cogitar, por outro lado, de ofensa ao princípio da homogeneidade ou da proporcionalidade da prisão preventiva em relação à eventual condenação do réu ao cumprimento de pena menos gravosa, pois referida análise deve ficar sujeita ao Juízo de origem, que realizará cognição exauriente dos fatos e provas apresentados no caso concreto. Não sendo possível, assim, concluir, na via eleita, a quantidade de pena que poderá ser imposta (AgRg no RHC n. 155.071/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 21/3/2022).
+Em face do exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso não conhecido.
