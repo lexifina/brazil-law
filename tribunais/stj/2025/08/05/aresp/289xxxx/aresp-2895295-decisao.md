@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por TELEFÔNICA BRASIL S.A, com fundamento na incidência  da Súmula  7 do STJ e ausência de violação dos arts. 489 e 1.022 do CPC.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois não se trata de revalidação ou reanálise de prova, além de que o Tribunal foi omisso.
+Assevera, ainda, que:
+Todavia, apesar das omissões acima apontadas terem sido devidamente explicitadas às fls. 423-429, o v. acórdão deixou de sanar os vícios no pronunciamento judicial sobre a aplicação dos artigos 248 e 476, CC, passou a violar os artigos 489, parágrafo primeiro, IV e 1.022, inciso II, do Código de Processo Civil (fl. 521).
+ ..
+Diante da conclusão acima explicitada, a respeito da expressa violação do quanto disposto nos artigos 248 e 476, do Código Civil, ficou evidenciado que a obrigação imposta pela r. sentença de primeiro grau é de impossível cumprimento (razão pela qual se viola o artigo 248 do Código Civil) dado o confesso não adimplemento de uma obrigação pretérita pela Eixo (razão pela qual resta violado o artigo 476 do Código Civil) (fl. 523).
+Contraminuta apresentada (fls. 535-546).
+É o relatório.
+Passo a decidir.
+De início, q uanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, a agravante alega que o Tribunal foi omisso sobre a obrigação do agravado em disponibilizar uma área para que a mesma pudesse remanejas a infraestrutura indicada e a multa determinada sobre a obrigação de cumprimento notoriamente impossível que depende de concretização de fatos e execução de terceiro e da própria agravada, porém, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 412-413):
+Embora não se desconheça a necessidade da realização de tais procedimentos, em exame das peças contidas nos autos, constata-se que a apelante teve tempo hábil para a feitura do remanejamento, já que foi informada a esse respeito em dezembro de 2022.
+ ..
+A demora para a realização do remanejamento, ao contrário do que quer fazer crer a apelante, não pode ser atribuída à apelada, tendo em vista que a responsabilidade, como dito anteriormente, pelo remanejamento é da apelante, sendo dela também os conhecimentos necessários para fazer o procedimento e definir a área para a qual as instalações serão realocadas. No que toca à alegação de impossibilidade de cumprimento da obrigação em razão da pendência de ação de desapropriação, melhor sorte não detém a apelante. Isso porque, detendo a responsabilidade pelo remanejamento, cabia à apelante negociar com os proprietários a fim de obter autorização para ocupação ou, ainda, escolher outro local para utilizar.
+ ..
+Logo, em análise detida dos autos, entende-se que foi configurada a inércia da apelante, tendo agido com acerto o juiz ao julgar o pedido procedente.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da obrigação ser de impossível cumprimento e por esse motivo, impossibilidade de fixação de multa, visto que não poderá cumprir a obrigação imposta, violando os arts. 248 e 476 do CC,ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Por fim, cumpre registrar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 541, parágrafo único, do CPC/1973; e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
