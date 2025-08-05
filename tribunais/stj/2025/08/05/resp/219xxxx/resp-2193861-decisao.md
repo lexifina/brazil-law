@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOAO CARLOS DA SILVA DE BARROS contra acórdão do Tribunal de Justiça do Estado de Santa Catarina que manteve a decisão que indeferiu a remição de pena pela aprovação parcial no ENEM de 2023, em virtude de já ter sido concedida remição pela aprovação total no ENCCEJA do mesmo ano (fls. 41).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, para alegar violação ao art. 126 da Lei n. 7.210/1984 e à Resolução CNJ n. 391/2021(fls. 48-64).
+Em contrarrazões, o Ministério Público do Estado de Santa Catarina pugna pela não admissão do recurso especial (fls. 147-154).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 173-179).
+É o relatório. DECIDO.
+A controvérsia versa sobre a possibilidade de concessão de remição por aprovação parcial no ENEM nas hipóteses em que houve aprovação prévia no ENCCEJA.
+O Tribunal de origem negou a remição porque "(..) a realização de novo exame de certificação do ensino médio (ENEM/2023) não pode ser contabilizado para fins de remição, uma vez que o apenado já foi aprovado em exame anterior (ENCCEJA/2023 - Ensino médio), sob pena de estar beneficiando o apenado por conteúdo que já havia por ele sido assimilado (..) " (fls. 38-39).
+Ocorre que a aprovação no ENEM ou ENCCEJA pode resultar em remição da pena, inclusive para apenados que já concluíram o ensino médio por qualquer outra forma, contudo sem o acréscimo de 1/3 pela conclusão de grau.
+"3. A jurisprudência desta Corte reconhece que a aprovação no ENEM, mesmo após a conclusão do ensino médio, demanda esforço adicional e não configura duplicidade de benefício.
+4. O ENEM possui grau de complexidade superior ao ENCCEJA, justificando a remição de pena pela aprovação parcial.
+5. A Resolução n. 391/2021 do Conselho Nacional de Justiça (CNJ) permite a remição de pena por aprovação no ENEM, reforçando a legalidade do benefício." (AgRg no HC n. 973.911/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/4/2025, DJEN de 25/4/2025)
+"3. O entendimento jurisprudencial vigente estabelece que a aprovação parcial ou total no ENEM não configura o mesmo "fato gerador" da aprovação no ENCCEJA, sendo possível a concessão de remição em ambos os casos, uma vez que envolvem níveis de complexidade e finalidades distintas.
+4. O propósito da remição é recompensar o esforço do apenado por adquirir novo conhecimento, o que não pode ser negado pela aprovação parcial no ENEM, mesmo após a conclusão do ensino médio via ENCCEJA, pois a exigência de estudos no ENEM é maior.
+5. A jurisprudência consolidada tanto no Superior Tribunal de Justiça (STJ) quanto no Supremo Tribunal Federal (STF) reconhece que o ENEM e o ENCCEJA possuem graus de dificuldade e objetivos diferentes, o que justifica a concessão de remição por ambos os exames, desde que atendidos os requisitos legais." (AgRg no HC n. 939.330/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024)
+No que concerne à aprovação parcial no ENEM, foi decidido, no julgamento do EREsp n. 1.979.591/SP, que a aprovação em cada uma das cinco áreas de conhecimento avaliadas equivale a 20 (vinte) dias de remição.
+Confira-se:
+"I - A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP, fixou o entendimento de que é possível a remição da pena, mesmo nos casos de aprovação parcial no Enem ou em caso de anterior aprovação no grau de ensino.
+II - No que se refere à base de cálculo a ser utilizada, a Resolução n. 391/2021/CNJ determina que, para a remição decorrente do estudo individual com a aprovação total no Enem ou no Encceja, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, o que corresponde o montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio.
+III - Firmou-se, ainda, o entendimento de que o total de 1.200 horas, pela aprovação em exame que certifica a conclusão do ensino médio deve incidir na proporção de 1 dia de pena para cada 12 horas de estudo, resultando em 100 dias de remição, o que equivale a 20 dias de remição para cada uma das cinco áreas de conhecimento avaliadas no exame.
+IV - No caso concreto, o apenado obteve aprovação parcial, ou seja, em 3 (três) das 5 (cinco) áreas de conhecimento no ENCCEJA 2022, o que corresponde a 60 dias de remição.
+V - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos." (AgRg no HC n. 872.350/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/10/2024, DJe de 29/10/2024)
+Assim, considerando que o recorrente logrou aprovação em 4 (quatro) áreas do conhecimento (fl. 39), deve ser reconhecida o direito de 80 (oitenta) dias de remição.
+Ante o exposto, dou provimento ao recurso especial, nos termos do art. 255, § 4º, inciso III, do RISTJ, para conceder ao recorrente 80 (oitenta) dias de remição por aprovação parcial no ENEM.
+Publique-se. Intimem-se.
+EMENTA
