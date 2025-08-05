@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por IRMANDADE DA SANTA CASA DE SÃO JOSÉ DOS CAMPOS contra decisão monocrática de fls. 810-817 e-STJ, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 603 e-STJ):
+PLANO DE SAÚDE - Carência - Recusa do custeio das despesas de tratamento e internação de menor, com 2 anos de idade, diagnosticado com infecção do trato urinário, ainda que prescrita internação clínica de emergência, sob alegação de prazo de carência - Situação de emergência que importa no afastamento do prazo de carência Inteligência do art. 35-C da Lei n. 9.656/98 e das Súmulas 103 do TJSP e 597 do STJ - Dano moral caracterizado em relação ao menor e seu genitor - Dano moral in re ipsa - Exigência de caução que nas circunstâncias configurou prática abusiva, nos termos do art. 51, IV, do CDC, devendo ser restituído o valor e compensado o dano moral, pelo agravamento no estado psicológico do menor e seu genitor - Recursos desprovidos.
+Opostos embargos de declaração, esses foram rejeitados (fls. 681-684 e-STJ).
+Nas razões do recurso especial (fls. 616-629 e-STJ), a parte insurgente apontou violação aos artigos 186, 927 do Código Civil; e 1º da Resolução Normativa n. 44/2003, sob os seguintes argumentos, em suma: a) "no momento em que a recorrente recebeu a negativa da Unimed para recepcionar seu beneficiário em internação, em razão dos prazos de carência ainda em curso, não atuava mais na condição de prestadora credenciada"; e b) que não estão presentes os requisitos que imputam à recorrente a reponsabilidade civil pelos supostos danos sofridos pelo segurado.
+Contrarrazões às fls. 707-713 e-STJ.
+Manifestação do Ministério Público às fls. 726-730 e-STJ.
+Em juízo de admissibilidade (fls. 731-733 e-STJ), negou-se o processamento do recurso especial, sob o fundamento da aplicação do óbice da Súmula 7 do STJ.
+Em desfavor da referida decisão, interpôs a parte recorrente o respectivo agravo (art. 1.042 do CPC/15), em cujas razões pugnou pelo processamento de seu recurso especial.
+Em decisão monocrática (fls. 810-817 e-STJ), este signatário conheceu do agravo para negar provimento ao recurso especial, sob os seguintes fundamentos: (i) não cabimento da alegação de afronta a Resolução Normativa, porquanto tal norma não se enquadra no conceito de lei federal, previsto no art. 105, III, "a", da CF; (ii) incidência do óbice da Súmula 83/STJ; e (iii) aplicação do óbice da Súmula 7/STJ.
+Inconformada, no presente agravo interno (fls. 825-831 e-STJ), a parte recorrente insurge-se contra a negativa de seguimento ao recurso especial, combatendo a aplicação dos óbices das Súmulas 7 e 83 do STJ, sob os argumentos, respectivamente, que o presente caso não envolve reexame de matéria fático-probatória, mas sim, qualificação jurídica dos fatos, e que a pretensão recursal está de acordo com a jurisprudência do STJ. Requer, ao final, a reforma da decisão agravada.
+Impugnação às fls. 835-840 e-STJ.
+É o relatório.
+Decide-se.
+1. Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão de afetação nos autos do REsp n. 2.190.337-DF, de relatoria do Ministro Antônio Carlos Ferreira, DJe de 10/03/2025, delimitou as questões jurídicas controvertidas da seguinte forma: "I) abusividade da cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência se ultrapassado o prazo máximo de 24 horas contado da data da contratação; e II) abusividade da cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado".
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+2. Do exposto, torna-se sem efeito as decisões de fls. 802-809 e fls. 810-817 (e-STJ), julga-se prejudicado o agravo interno de fls. 825-831 (e-STJ) e determina-se a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
