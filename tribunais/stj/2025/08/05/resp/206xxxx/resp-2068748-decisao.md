@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão assim ementado (fl. 334):
+Ação ordinária. Servidores públicos pertencentes ao quadro da Secretaria da Saúde. Recálculo de adicionais quinquenais por tempo de serviço. Pretensão de incidência sobre vencimentos ou proventos integrais. Possibilidade, exceto sobre vantagens eventuais. Cálculo conforme decisão do STF na ADI n. 4357/DF. Juros de 6% ao ano, art. 1-F da Lei 9494/97. Sentença reformada. Ação procedente. Sucumbência invertida. Recurso provido.
+Em juízo de retratação, o TJSP proferiu acórdão nestes termos (fl. 417):
+Ação ordinária. Servidores públicos pertencentes ao quadro da Secretaria da Saúde. Recálculo de adicionais quinquenais por tempo de serviço. Pretensão de incidência sobre vencimentos ou proventos integrais. Possibilidade, exceto sobre vantagens eventuais. Cálculo conforme decisão do STF na ADI n. 4357/DF. Juros de 6% ao ano, art. 1-F da Lei 9494/97. Recurso provido. Devolução dos autos à vista do Tema 810 do STF e do Tema 905 do STJ. Readequação.
+No recurso especial, a recorrente aponta violação dos arts. 535 do CPC; 26 e 27 da Lei 9.868/1999 e 1º-F da Lei 9.494/1997 (com redação dada pelo art. 5º da 11.960/2009), defendendo "a aplicação, uma única vez, para fins de correção monetária, remuneração do capital e compensação da mora, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança" (fl. 348).
+Proferido juízo positivo de admissibilidade pelo TJSP, os autos foram remetidos ao STJ.
+É o relatório.
+No tocante à violação do art. 535 do CPC/1973, por ser omisso o acórdão recorrido, no caso dos autos, não se constata a existência de vícios, pois o Tribunal de origem analisou fundamentadamente as questões apresentadas pela recorrente, revelando-se, em verdade, mero inconformismo da parte.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/05/2020.
+No mérito, o entendimento adotado pela Corte de origem destoa da orientação do Superior Tribunal de Justiça sobre o tema, consolidada no julgamento do REsp 1.495.146/MG (Rel. Min. Mauro Campbell Marques, DJe de 2/3/2018), segundo a qual, nas condenações judiciais referentes a Servidores e Empregados Públicos serão observados os seguintes consectários legais:
+(a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001;
+(b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E;
+(c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+Destaque-se, por oportuno, que a jurisprudência do STF, firmada em sede de repercussão geral, é no sentido de que:
+ ..  é aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecidos no art. 1º-F da Lei n. 9494/97, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado (Tema 1170/STF).
+Isso posto , conheço do recurso e special e dou-lhe provimento, a fim de que a correção monetária seja fixada nos termos da fundamentação.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial foi interposto contra acórdão publicado na vigência do CPC/1973, como dispõe o Enunciado administrativo 7/STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais rec ursais, na forma do art. 85, § 11, do novo CPC".
+Intimem-se.
+EMENTA
