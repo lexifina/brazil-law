@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por JANE ROCHA ABDO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 1.179):
+APELAÇÃO CÍVEL - AÇÃO DE EXTINÇÃO DE CONDOMÍNIO - JULGAMENTO ULTRA PETITA - PRESENÇA - DECOTE DO EXCESSO - NECESSIDADE - LIDE RECONVENCIONAL - INDENIZAÇÃO DE BENFEITORIAS - GASTOS COM MANUTENÇÃO DO BEM - IMPOSSIBILIDADE - CORREÇÃO MONETÁRIA - MARCO INICIAL - DATA BASE DOS VALORES APURADOS - JUROS DE MORA - TRÂNSITO EM JULGADO.
+- Ao juiz cabe compor a lide "nos limites do pedido do autor e da resposta do réu", sendo-lhe defeso o julgamento citra petita (aquém do pedido), ultra petita (além do pedido) e extra petita (diferente do pedido).
+- Ausente pedido de abatimento de valores perseguidos pelos autores, em sede de cumprimento de sentença, que fixou alugueis e inexistindo conexão entre os feitos, a determinação nesse sentido imposta na sentença extrapola os limites do libelo, atraindo decote.
+- Nos termos do art. 1.219 do Código Civil, o possuidor de boa-fé tem direito a indenização das benfeitorias necessárias e úteis, aí não incluídas as despesas inerentes à fruição, relativas à sua conservação e manutenção, quando expressamente declaradas pelo perito como incapazes de agregar valor do imóvel.
+- A correção monetária visa apenas recompor o valor da moeda, em razão da depreciação advinda do tempo, daí porque deve incidir, desde a data em que os valores das benfeitorias foram apurados pelo "expert".
+- Juros de mora afetos à indenização pelas benfeitorias, por seu turno, incidem desde a sentença por perfazer ato de efetiva constituição em mora do devedor.
+Rejeitados os embargos de declaração opostos (fls. 1.217-1.222).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489 e 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 455, 1.219 e 1.315, do Código Civil.
+Aponta omissão da Corte de origem ao não apreciar adequadamente as teses ligadas aos juros de mora e aos gastos com a conservação do imóvel.
+Argumenta que o Tribunal de Justiça de Minas Gerais acrescentou um requisito inexistente na lei ao decidir que não seria cabível a indenização pelos gastos com a conservação do imóvel, sob o argumento de que eles não teriam agregado valor ao bem.
+Alega que o acórdão fixou inadequadamente o termo inicial dos juros de mora referentes à obrigação de indenizar pelas benfeitorias implementadas no imóvel.
+Sustenta que, considerando a natureza indenizatória da condenação, os juros de mora deveriam incidir desde a data do evento danoso ou, eventualmente, desde a intimação das autoras-reconvindas sobre a reconvenção
+Aponta divergência jurisprudencial, afirmando que a jurisprudência deste STJ reforça que a responsabilidade pela conservação é inerente à condição de condômino.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.266-1.278).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.290-1.293), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo, conforme certificado (fl. 1.320).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A controvérsia discutida nos autos, reside em três pontos principais, quais sejam: a) O julgamento extra petita; b) a inclusão dos gastos para a manutenção do imóvel, além das benfeitorias e c) o termo inicial dos juros de mora.
+O Juízo de primeiro grau, julgou procedente o pedido principal decretando a extinção do condomínio existente sobre o imóvel e parcialmente procedente o pedido reconvencional para condenar as autoras, ora agravadas, ao pagamento de indenização pelas benfeitorias realizadas no imóvel.
+O Tribunal de origem, deu parcial provimento à apelação afastando a autorização para compensação de crédito relativo à outra demanda judicial e alterando o marco inicial para incidência da correção monetária do valor afeto à indenização pelas benfeitorias.
+A recorrente busca a ampliação da indenização para incluir os gastos para a manutenção do imóvel, além das benfeitorias indenizáveis já reconhecidas, para mais, também contesta o termo inicial dos juros de mora.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento à apelação, fundamentou o acórdão nos seguintes termos (fls. 1.188-1.191):
+ ..  diferentemente do que afirma a reconvinte, ora recorrente, nos cálculos periciais foram incluídas todas as benfeitorias promovidas no bem comum, sendo certo que apenas não foram consideradas as despesas inerentes à sua utilização, tais como limpeza diária, manutenção de rede elétrica, jardinagem entre outros serviços dessa natureza..
+Saliente-se, por oportuno, que o i. perito afirmou de forma categórica que tais investimentos não agregam valor ao imóvel e, bem por isso, a argumentação em contrário trazida pela recorrente em suas razoes recursais não tem o condão de conduzir à compreensão diversa daquela lançada na sentença atacada, porquanto proferida em estrita observância ao parecer técnico. Pelo mesmo motivo nenhum efeito produz a argumentação lançada no sentido de que as reconvindas já percebem valor relativo à fruição, fixado em sede de ação de arbitramento de aluguéis.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+No que tange à indenização pelos gastos de conservação do imóvel, a decisão da Corte de origem baseou-se no laudo pericial que concluiu que os gastos com a conservação do imóvel não agregaram valor ao bem. Para modificar essa conclusão, seria necessário reavaliar o laudo pericial e os elementos fáticos que sustentam a decisão sobre a não indenização desses gastos.
+No que respeita ao termo inicial dos juros de mora, o Tribunal fundamentou o acórdão na interpretação do momento de constituição da mora, fixado com sendo o trânsito em julgado da sentença. Vejamos o excerto do acórdão:
+TERMO INICIAL DOS JUROS DE MORA E DA CORREÇAO MONETÁRIA
+Por fim, quanto ao termo inicial dos encargos legais, razão parcial assiste à apelante. Isto quando considerado que a correção monetária não representa um plus, mas apenas recompõe o valor da moeda frente ao tempo. Bem por isso, sua incidência deve corresponder ao momento em que valor foi apurado, no caso, a data base indicada pelo perito oficial, a saber dezembro de 2020, confira-se:
+ ..
+Portanto, considerando que o valor devido a título de indenização pelas benfeitorias foi realizado em dezembro de 2020, este deve ser o marco inicial para a atualização monetária do valor de R$ 420.759,59.
+De outro lado, e agora no que pertine aos juros de mora, ainda que a apelante sustente o contrário, sua incidência ocorre a partir do trânsito em julgado da sentença que reconheceu o direito à indenização, porquanto ato de efetiva constituição em mora.
+Alterar o decidido no acórdão impugnado, no que se refere aos fatos relacionados à implementação das benfeitorias e à intimação das autoras-reconvindas sobre a reconvenção, para verificar se houve constituição em mora em momento anterior exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação, divididos na proporção determinada à fl. 1.089, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intime-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXTINÇÃO DE CONDOMÍNIO E RECONVENÇÃO PARA INDENIZAÇÃO POR BENFEITORIAS. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. INDENIZAÇÃO POR GASTOS DE CONSERVAÇÃO. LAUDO PERICIAL. REEXAME DOS FATOS E PROVAS. SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA. FIXAÇÃO A PARTIR DO TRÂNSITO EM JULGADO DA SETENÇA QUE RECONHECEU O DIREITO À INDENIZAÇÃO PELAS BENFEITORIAS. ALTERAÇÃO DO MARCO INCIAL DEMANDA. AFERIR CONSTIUTIÇÃO EM MORA EM MOMENTO ANTERIOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
