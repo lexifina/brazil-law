@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por JACKSON PEREIRA DA SIVLA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no HC n. 042647-18.2025.8.16.0000.
+Consta dos autos que o recorrente foi preso em flagrante no dia 27/3/2025, custódia posteriormente convertida em preventiva, em razão da suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, pelo qual foi denunciado.
+Neste recurso, a Defesa sustenta a ausência de fundamentação concreta, pois a segregação cautelar do recorrente estaria baseada na gravidade abstrata do delito imputado e existência de antecedentes criminais.
+Aduz que é ínfima a quantidade de droga apreendida, o que atrairia, no máximo, a conduta de posse para uso própria ou situação de dependência química do acusado.
+Assevera que o caso dos autos é de substituição obrigatória da prisão por medidas cautelares diversas, conforme dispõe o §6º, do art. 282, do CPP.
+Defende que a reincidência e antecedentes não é fundamento apto a legitimar a prisão processual do réu e que a sua manutenção representa violação dos princípios da individualização da pena, da presunção de inocência e da excepcionalidade da custódia cautelar.
+Salienta ser suficiente e adequada a aplicação de medidas cautelares diversas, considerando que o crime não foi cometido com violência ou grave ameaça.
+Aduz que manutenção da prisão viola os princípios da legalidade, necessidade e proporcionalidade.
+Requer, assim, a revogação da prisão preventiva do recorrente ou a sua substituição por medidas cautelares diversas da prisão.
+O Ministério Público Federal, às fls. 276/279, opinou pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+O recurso não comporta provimento.
+No caso, o Juízo de primeiro grau, ao converter a prisão em flagrante em preventiva do ora recorrente, registrou os seguintes fundamentos (fls. 125/126; grifamos):
+De igual modo, existem pressupostos suficientes para a decretação da prisão preventiva, extraindo-se dos elementos colhidos no inquérito policial o fumus comissi delicti, ou seja, presentes prova da existência do crime e indícios suficientes de autoria, ante a prisão em flagrante (mov. 1.2), boletim de ocorrência nº 2025/388947 (mov. 1.3), termos de depoimento (mov. 1.5 e 1.7), auto de exibição e apreensão (mov. 1.8), auto de constatação provisória de droga (mov. 1.10), termo de declaração (mov. 1.12, 1.14 e 1.16), auto de interrogatório, qualificação e vida pregressa (mov. 1.18), nota de culpa (mov. 1.19), fotografias (mov. 1.21 a 1.23) e vídeos (mov. 1.24 a 1.28).
+De outra parte, a manutenção do autuado em custódia cautelar revela-se necessária para garantia da ordem pública (art. 312, CPP).
+Com efeito, a conduta de vender crack, sendo apreendido o valor R$2982,00, em várias cédulas e em locais escondidos, sendo localizada uma central de monitoramento, cujas câmeras de segurança encontravam-se propositalmente direcionadas para a rua de entrada que dariam acesso à residência, fazem indicar a gravidade em concreto da conduta praticada e, desta circunstância, a periculosidade social do flagrado, circunstância que recomenda a sua custódia cautelar para fins de acautelamento da ordem pública.
+Note-se ainda, que o autuado é reincidente específico, eis que foi condenado nos autos nº 0001046-70.2022.8.16.0086 e 0000507-41.2021.8.16.0086 pela prática do crime de tráfico de drogas, estando cumprindo pena na execução penal nº 4000123-39.2023.8.16.0086, o que não lhe impediu de voltar a delinquir.
+Logo, vê-se que, solto, é acentuado o risco de reiteração criminosa por parte do increpado, tendo em conta o seu histórico de vida, ligado à prática de crime, a gravidade em concreto do delito e a gravidade da droga apreendida.
+Existindo sérias e fundadas razões para se acreditar que o autuado possa voltar a delinquir, necessária a prisão para fins de acautelamento da ordem pública.
+(..)
+Logo, a preservação da ordem pública exige a custódia preventiva do flagrado, não se revelando suficientes, no caso, quaisquer das cautelares do art. 319 do CPP, as quais não seriam adequadas e pertinentes para neutralizar o risco concreto de reiteração criminosa.
+Diante do exposto, CONVERTO a prisão em flagrante de JACKSON PEREIRA DA SILVA em preventiva, para fins de garantia da ordem pública, o que faço com fundamento no artigo 312 do Código de Processo Penal.
+O Tribunal local, por sua vez, ratificando a decisão de primeira instância, consignou o que segue (fls. 232/233; grifamos):
+Compulsando dos autos, infere-se que o Paciente foi flagrado portando três pedras de crack envoltas em papel alumínio, pesando aproximadamente uma grama, bem como com R$ 2.982,00 (dois mil, novecentos e oitenta e dois reais) em espécie.
+No que diz respeito à quantidade de drogas, por mais que não seja expressiva, a custodia é necessária para evitar a reiteração delitiva, tendo em vista que o Paciente é reincidente especifico, tendo condenações nos autos de nº 0001046-70.2022.8.16.0086 e 0000507-41.2021.8.16.0086.
+Destaca-se, ainda, que a pratica, em tese, do delito de tráfico de drogas se deu enquanto o Paciente estava cumprindo pena na execução penal de nº 4000123-39.2023.8.16.0086. Além do mais, o Réu é amplamente conhecido pelo meio policial, uma vez que já foi alvo de prisões e cumprimentos de mandados judiciais, o que evidencia seu envolvimento reiterado com as atividades criminosas.
+(..)
+Comprovada a periculosidade da ação praticada pelo Réu, é importante salientar que, em que pese a quantidade de entorpecentes não fosse expressiva, trata-se de substância de elevado potencial deletério (crack), o que agrava a periculosidade de sua conduta.
+Diante disso, o pleito de revogação de prisão preventiva para concessão de medidas cautelares diversas não se mostra adequada para o presente caso, tendo em vista a evidenciada periculosidade do agente pelas circunstancias concretas do caso.
+Para o Superior Tribunal de Justiça, o modus operandi, as circunstâncias concretas do delito que evidenciam a periculosidade do agente e a reiteração delitiva configuram fundamentos suficientes para o decreto preventivo (STJ - HC 288.373/SP- Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 07/04/2015, DJe 17/04/2015).
+Desse modo, presentes os requisitos dos artigos 312 e 313 do Código de Processo Penal, inviável a revogação da segregação ou a sua substituição por cautelares diversas, devido à ineficácia destas ao caso em voga (STJ - RHC: 194257/SC, Rel. Jesuíno Rissato, 05.03.2024).
+Portanto, ante a ausência de constrangimento ilegal a ser sando pela presente via, denega-se a ordem de habeas corpus.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em virtude do risco concreto de reiteração delitiva, o que demonstra a potencial periculosidade dos agente e é apta a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(c )onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. MANUTENÇÃO DA CUSTÓDIA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO SUCINTA. ILEGALIDADE. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a inicial da impetração, porque não evidenciado constrangimento ilegal na imposição da segregação cautelar do ora agravante pelo Juízo de primeiro grau.
+2. Hipótese em que a prisão cautelar do acusado, imposta pela prática do crime de roubo circunstanciado e ratificada na sentença condenatória, encontra-se fundamentada no receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando-se a gravidade concreta, periculosidade e probabilidade de reiteração delitiva.
+3. Agravo regimental improvido (AgRg no HC n. 914.377/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO, FALSIFICAÇÃO DE DOCUMENTO PARTICULAR E USO DE DOCUMENTO FALSO. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. PRISÃO PREVENTIVA. MODUS OPERANDI E REITERAÇÃO DELITIVA. PACIENTE QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO PROCESSUAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA. DECISÃO MANTIDA.
+(..)
+2. No caso, não se verifica o apontado constrangimento ilegal, pois a prisão preventiva do paciente foi decretada a bem da ordem pública, dada a gravidade da conduta praticada, evidenciada no modus operandi e na reiteração delitiva, circunstâncias que justificam a manutenção da prisão preventiva e afastam a possibilidade de substituição por medidas cautelares de natureza diversa.
+3. Agravo regimental desprovido (AgRg no RHC n. 193.394/MT, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+De outra parte, esclareço que a prisão preventiva não caracteriza antecipação de pena e não viola a presunção de inocência, por não constituir reconhecimento definitivo de culpabilidade (AgRg no HC n. 873.162/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Por último, registro que, conforme o entendimento desta Corte, (a) aplicação do princípio da homogeneidade mostra-se inviável por demandar realização de juízo de previsão que só será confirmado após o término do julgamento da ação penal (AgRg no HC n. 799.358/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024).
+Ante o exposto, nego provimento ao r ecurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
