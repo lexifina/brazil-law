@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interposto por DALTRON VILAS BOAS ROCHA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 598-599):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO JURÍDICO C/C INDENIZAÇÃO DE DANOS MATERIAIS. CONTRATO PARTICULAR E ESCRITURA PÚBLICA DENOMINADOS COMO SENDO DE CESSÃO DE DIREITOS DE OCUPAÇÃO COM TEMPO COMPARTILHADO NA MODALIDADE DE MULTIPROPRIEDADE ( ). VÍCIO DE CONSENTIMENTO DOS ADQUIRENTES CONSTATADOTIMESHARE NA SENTENÇA, QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO INICIAL POR ELES FORMULADO NA AÇÃO, MAS AFASTOU A RESPONSABILIDADE SOLIDÁRIA DO TABELIÃO E CORRÉU QUE LAVROU A ESCRITURA. INSURGÊNCIA RECURSAL DOS AUTORES VISANDO A REFORMA DO JULGADO NESSA ÚLTIMA PARTE. ACOLHIMENTOA QUO PARCIAL. RESPONSABILIDADE DO TABELIÃO QUE É OBJETIVA, POR FORÇA DO ARTIGO 22 DA LEI Nº 8.935/1994, EM SUA REDAÇÃO ORIGINAL, ANTERIORMENTE ÀS ALTERAÇÕES PROMOVIDAS PELA LEI Nº 13.286/2016, CONSIDERADA A DATA DE LAVRATURA DA ESCRITURA. TEMPUS REGIT . ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. FALHAACTUM CONSTATADA DO NOTÁRIO NOS DEVERES DE OFÍCIO EMANADOS DOS ARTIGOS 1º, 4º E 6º, INCISOS I E II, DA LEI Nº 8.935/1994, QUANTO À CONFERÊNCIA DOS REQUISITOS DE VALIDADE DO NEGÓCIO JURÍDICO E DA EFETIVA VONTADE DOS OUTORGADOS COMPRADORES OU CESSIONÁRIOS. ALIENAÇÃO DE DIREITOS SOBRE ÁREA ENCRAVADA EM LOTE RURAL SEM QUE EXISTISSE LOTEAMENTO OU CONDOMÍNIO REGULAR. FRAÇÃO PEQUENA E MUITO AQUÉM DO LIMITE MÍNIMO PARA FRACIONAMENTO. LAVRATURA DA ESCRITURA PÚBLICA QUE NÃO OBSERVOU PRESCRIÇÕES LEGAIS, COMO DO ESTATUTO DA TERRA (LEI Nº 4.504/1964), DO SISTEMA NACIONAL DE CADASTRO RURAL (LEI Nº 5.868 /1972), DO PARCELAMENTO DO SOLO URBANO (LEI Nº 6.766/1979), ALÉM DE NORMATIVAS DO CÓDIGO DE NORMAS DO FORO EXTRAJUDICIAL DESTE TRIBUNAL DE JUSTIÇA. ATUAÇÃO DO TABELIÃO QUE DENOTA IMPERÍCIA AO DAR FORMA SOLENE A NEGÓCIO NULO. ESCRITURA PÚBLICA, ENTRETANTO, QUE SERVIU PARA RATIFICAR NEGÓCIO JÁ CELEBRADO PELAS PARTES POR MEIO DE INSTRUMENTO PARTICULAR DE CONTRATO, E APÓS O PAGAMENTO DO SINAL DO NEGÓCIO. PARTE DO DANO MATERIAL SOFRIDO QUE PRECEDE À ATUAÇÃO DO TABELIÃO. NEXO DE CAUSALIDADE ENTRE O ATO NOTARIAL E OS DANOS SOFRIDOS PELOS AUTORES QUE É RESTRITO AOS PAGAMENTOS E GASTOS QUE FIZERAM APÓS A CHANCELA CARTORIAL AO NEGÓCIO ANULADO PELA SENTENÇA.
+RESPONSABILIDADE CIVIL DO TABELIÃO DE NOTAS À INDENIZAÇÃO DE TAIS PREJUÍZOS QUE SE INICIA NESTE MARCO TEMPORAL. INTELIGÊNCIA DOS ARTIGOS 265 E 944 DO CÓDIGO CIVIL. SENTENÇA PARCIALMENTE REFORMADA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA REDISTRIBUÍDOS PROPORCIONALMENTE (ARTIGO 86, CAPUT, DO CÓDIGO DE PROCESSO CIVIL). HONORÁRIOS RECURSAIS INDEVIDOS.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 7º e 22 da Lei 8.935/1994, além do art. 65 da Lei 4.504/1964 (Estatuto da Terra) e art. 8º da Lei 5.868/1972.
+Argumenta que sua atuação se limitou à formalização da vontade das partes, conforme previsto na Lei 8.935/1994, e que não houve negligência, imprudência ou imperícia de sua parte.
+Assevera que a responsabilidade objetiva deve ser afastada pela ausência de nexo causal entre sua conduta e o dano, que já havia se concretizado antes da lavratura da escritura.
+Aponta divergência jurisprudencial sobre a aplicação da responsabilidade objetiva dos notários, citando decisões de outras câmaras que reconhecem a excludente de responsabilidade por fato de terceiro, já que o dano precedeu a atuação do tabelião.
+Foram oferecidas contrarrazões ao recurso especial (fls. 702-709).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls.710-716), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 742-747).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 7º e 22 da Lei 8.935/1994, art. 65 da Lei 4.504/1964 (Estatuto da Terra) e art. 8º da Lei 5.868/1972., e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+O acórdão recorrido baseia-se em elementos fáticos, como depoimentos, documentos relacionados ao negócio jurídico, e a análise da responsabilidade do tabelião.
+Destaca a responsabilidade objetiva do tabelião, conforme o artigo 22 da Lei 8.935/1994, na redação anterior à Lei 13.286/2016, e a falha nos deveres de ofício ao não conferir a validade do negócio jurídico e a efetiva vontade dos outorgados.
+Além disso, menciona a necessidade de verificar a regularidade do loteamento e a conformidade com diversas legislações, como o Estatuto da Terra e o Sistema Nacional de Cadastro Rural.
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ESCRITURA EMITIDA POR FALSO PROPRIETÁRIO. LEGITIMIDADE PASSIVA DO DELEGATÁRIO. RESPONSABILIDADE OBJETIVA DOS TABELIÃES PELOS ATOS PRATICADOS ANTES DA LEI N. 13.286/2016. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a recurso.
+II. Questão em discussão
+2. Controvérsia acerca da legitimidade passiva do tabelionato para responder pelas consequências dos serviços notariais, bem como da possibilidade de alteração do polo passivo da demanda de ofício pelo juízo.
+III. Razões de decidir
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. O tabelionato é ente despersonalizado, e a responsabilidade pelos atos notariais recai sobre o tabelião, nos termos da Lei nº 8.935/94, não havendo ilegalidade na interpretação da petição inicial para identificar corretamente o sujeito passivo.
+6. A determinação de quem deve figurar no polo passivo decorreu da própria redação da inicial e das razões apresentadas, não configurando decisão surpresa ou cerceamento de defesa.
+7. O reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas pas de nullité sans grief.
+8. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a responsabilidade civil dos tabeliães e registradores por atos praticados sob a vigência do art. 22 da Lei nº 8.935/94, em sua redação original, é direta e objetiva, dispensando a demonstração de culpa ou dolo, passando a ser subjetiva apenas com o advento da Lei nº 13.286/2016.
+9. No caso concreto, restou demonstrado que a parte autora foi vítima de fraude na aquisição de imóvel residencial, em razão da confirmação de idoneidade documental pelo tabelião, configurando-se a responsabilidade objetiva.
+IV. Dispositivo e tese
+10. Recurso especial desprovido.
+Tese de julgamento: O tabelião é pessoalmente responsável pelos atos notariais praticados antes da vigência da Lei nº 13.286/2016, nos termos da responsabilidade objetiva prevista no art. 22 da Lei nº 8.935/94, em sua redação original.
+Dispositivos relevantes citados: Art. 22 da Lei n. 8.935/94; Lei n. 13.286/2016; Arts. 108, 329, II, 17, 70, 75, 108, 139, I, 238, 239, §1º, 276 e 492 do CPC/2015.
+Jurisprudência relevante citada: STJ, AgInt no REsp n. 1.829.793/SE, Rel. Min. Marco Buzzi, Quarta Turma, j. 21/10/2019;
+STJ, AgInt no AREsp n. 202.180/DF, Rel. Min. Maria Isabel Gallotti, Quarta Turma, j. 29/8/2017; STJ, AgInt nos EDcl no REsp n. 1.596.025/SC, Rel. Min. Moura Ribeiro, Terceira Turma, j. 14/8/2018;
+STJ, AgInt no AgInt no REsp n. 1.600.098/DF, Rel. Min. Maria Isabel Gallotti, Quarta Turma, j. 4/12/2023; STJ, AgInt no REsp n. 2.054.274/SP, Rel. Min. Regina Helena Costa, Primeira Turma, j.
+15/5/2023; STJ, AgInt no AREsp n. 1.924.855/MG, Rel. Min. Mauro Campbell Marques, Segunda Turma, j. 15/12/2022; STF, RE n. 842.846, Rel. Min. Luiz Fux, Tribunal Pleno, j. 27/2/2019; STJ, REsp n. 1.849.994/DF, Rel. Min. Moura Ribeiro, Terceira Turma, j. 21/3/2023.
+(REsp n. 2.186.036/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/3/2025, DJEN de 25/3/2025.)
+CONSTITUCIONAL E PROCESSUAL CIVIL. SERVIÇO NOTARIAL. FALHA. RESPONSABILIDADE CIVIL. JULGAMENTO CITRA PETITA. ART. 460 CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NEXO CAUSAL. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO NOTÓRIO. OCORRÊNCIA.
+1. Na origem, o Estado de Pernambuco foi condenado (responsabilidade objetiva) a indenizar danos experimentados por adquirente de imóvel vitimado por operação fraudulenta que contou com a colaboração do Cartório de Imóveis de São Lourenço da Mata, o qual emitiu declaração inverídica quanto à propriedade do lote adquirido pelo demandante.
+2. O Tribunal de origem em nenhum momento se debruçou sobre a tese de julgamento citra petita (art. 460 do CPC), em relação à qual incide a Súmula 211/STJ. Ademais, o Estado não acenou com pedido de anulação do julgado a quo por violação ao art. 535 do CPC.
+3. O nexo de causalidade vincula-se a pressupostos fáticos cujo revolvimento está proibido nessa via recursal, ex vi do enunciado da Súmula 7/STJ 4. No tocante ao dissídio jurisprudencial, é manifesta a divergência do pensamento seguido pela Corte regional em relação aos precedentes do Superior Tribunal de Justiça, pois mesmo registrando tratar-se de tabelionato não oficializado, optou por responsabilizar, única e exclusivamente, o Estado de Pernambuco.
+5. A jurisprudência do Superior Tribunal de Justiça tem assentado que o exercício de atividade notarial delegada (art. 236, § 1º, da CF/88) deve se dar por conta e risco do delegatário, de modo que é do notário a responsabilidade objetiva por danos resultantes dessa atividade delegada (art. 22 da Lei 8.935/1994), cabendo ao Estado apenas a responsabilidade subsidiária. Precedentes do STJ e do STF.
+6. Agravo Regimental provido.
+(AgRg no AREsp n. 474.524/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/5/2014, DJe de 18/6/2014.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado do proveito econômico, conforme fixado às fls. 609-610, observada eventual concessão de gratuidade judiciária.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO DE LEIS FEDERAIS. ATIVIDADE NOTARIAL. RESPONSABILIDADE OBJETIVA. NEXO CAUSAL. EXCLUDENTE POR FATO DE TERCEIRO.ACÓRDÃO DA ORIGEM BASEADO EM ELEMENTOS FÁTICOS. INADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM, MANUTENÇÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
