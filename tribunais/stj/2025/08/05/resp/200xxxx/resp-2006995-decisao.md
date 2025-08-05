@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIZ CARLOS DA SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 875/880, in verbis:
+Trata-se de recurso especial interposto com fulcro na alínea "a" do permissivo constitucional por LUIZ CARLOS DA SILVA, contra acórdão do Tribunal de Justiça Militar do Estado de São Paulo que, por maioria, desproveu os Embargos Infringentes, assim ementado (e-STJ Fl. 769):
+"Penal e Processual Penal Militar. Embargos Infringentes e de Nulidade opostos pela Defesa com base no voto vencido proferido no julgamento de Apelação. Aplicação imediata da Lei nº 13.491/2017. Não aplicação da regra da perpetuati o jurisdictionis. Competência material (absoluta). Crime militar caracterizado (art. 9º, II, e, CPM).
+1. No momento em que a Lei nº 13.491/2017 entrou em vigor, ainda não havia sido proferida sentença de mérito no processo-crime a que o embargante respondia.
+2. Como referida lei alterou de modo substancial a competência material criminal da Justiça Militar, os inquéritos e processos que tramitavam na Justiça Comum foram remetidos para esta Especializada. Por se tratar de competência absoluta (ratione materiae), não se aplica a regra da perpetuação da jurisdição.
+3. A ampliação de competência decorrente das alterações havidas no art. 9º do Código Penal Militar deve ser respeitada desde o início da vigência da Lei nº 13.491/2017. Normas de natureza processual têm aplicação imediata, inclusive nos processos pendentes (art. 5º, CPPM), em observância ao princípio do tempus regit actum.
+4. Crime militar caracterizado (art. 9º, II, e, CPM). Tudo ocorreu em razão da atividade policial militar, inclusive o "coleguismo exagerado" entre o embargante e o Soldado PM.
+5. Embora o Soldado PM estivesse de folga, em trajes civis e dirigindo veículo próprio, aparentemente embriagado, quando se envolveu em acidente de trânsito, o embargante estava fardado não só no momento em que colheu sangue no lugar do Soldado PM, como durante todo o desenrolar da ocorrência. Inclusive no momento em que o Soldado PM afrontou o graduado e o Oficial que compareceram à Delegacia de Polícia para lhe entregar a autuação por condução de veículo automotor sob a influência de álcool.
+6. Embargos improvidos".
+Nesta sede, o recorrente defende a ocorrência da prescrição da pretensão punitiva quanto ao crime de fraude processual, portanto a sentença condenatória teria sido proferida em janeiro de 2019, de forma que, aplicada a pena de 6 meses de detenção, já teria transcorrido o prazo de 2 anos exigidos pelo art. 125, VII, do Código Penal Militar.
+Alternativamente, defende da incompetência da justiça castrense para a ação penal por considerar, em apertada síntese, que "o fato do ora recorrente estar de serviço e fardado, durante a autuação do Sd PM Fernando, não confere competência à Justiça Militar, quando a suposta fraude colimava fazer prova em processo da alçada da Justiça Comum, na espécie, competente para apuração do crime de trânsito". (e-STJ Fl. 793)
+Ao final, requer o acolhimento da preliminar de prescrição, ou a anulação do processo por vício de competência, conforme reconhecido no voto vencido dos embargos infringentes.
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Há de ser reconhecida a prescrição da pretensão punitiva.
+Com efeito, o último marco interruptivo da prescrição ocorreu em 2020, ocasião em que desprovido o recurso de apelação interposto pela defesa. Assim, considerado o quantum de apenamento de 6 meses de detenção, bem como o lapso prescricional de 2 anos (antiga redação dada ao inciso VII do art. 125 do Código Penal Militar), tem-se que entre o julgamento do acórdão de apelação (28/4/2020) e a presente data já foi ultrapassado o lapso pertinente ao reconhecimento da extinção de punibilidade do recorrente. Frise-se que, ainda que considerado como marco interruptivo o julgamento dos embargos infringentes e de nulidade, ocorrido em 9/8/2021, também seria de rigor o reconhecimento da extinção de punibilidade do recorrente.
+Ante o exposto, julgo prejudicado o recurso especial, contudo declaro extinta a punibilidade do recorrente pela superveniência da prescrição da pretensão punitiva, com fundamento no art. 123, IV, do Código Penal Militar.
+Publique-se. Intimem-se.
+EMENTA
