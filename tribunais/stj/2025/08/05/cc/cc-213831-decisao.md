@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, conflito de competência suscitado pelo MM. JUIZ DA 74A VARA DO TRABALHO DO RIO DE JANEIRO - RJ.
+O MM. JUIZ DE DIREITO DA 4A VARA DE FAZENDA PÚBLICA DO RIO DE JANEIRO - RJ declinou da competência para a Justiça do Trabalho aduzindo que "pretende a autora verbas rescisórias relativas a contrato de trabalho pelo regime celetista e dano moral por assédio sofrido na relação trabalhista".
+O Suscitante defendeu, em síntese, que "a contratação da demandante se caracteriza como contrato de natureza administrativa para exercício de cargo em caráter emergencial, devidamente autorizado por legislação federal".
+O Ministério Público Federal, em seu parecer, opinou pelo conhecimento do conflito, com declaração de competência do juízo estadual, ora suscitado (fls. 475-478).
+É o relatório.
+Decido.
+O Tribunal Pleno do Supremo Tribunal Federal, na ocasião do julgamento do RE 573.202/AM (rel. Ministro RICARDO LEWANDOWSKI, DJe05/12/2008), sob a sistemática da repercussão geral (art. 543-B, do CPC/73), firmou orientação no sentido de que é da Justiça Comum a competência para processar e julgar as ações cujo objeto é a relação jurídica estabelecida entre o poder público e seus servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público, haja vista que as prorrogações do prazo de vigência do contrato temporário não alteram a natureza do vínculo jurídico-administrativo originalmente estabelecido entre as partes.
+Verifique-se a ementa do referido julgado:
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REGIME ESPECIAL.CONTRATAÇÃO TEMPORÁRIA REGIDA POR LEGISLAÇÃO LOCAL ANTERIOR À CONSTITUIÇÃODE 1988, EDITADA COM BASE NO ART. 106 DA CONSTITUIÇÃO DE 1967. ACÓRDÃO QUERECONHECEU A COMPETÊNCIA DA JUSTIÇA DO TRABALHO. RECURSO CONHECIDO EPROVIDO.
+I - Ao reconhecer a competência da Justiça do Trabalho para processar e julgar a reclamação trabalhista, o acórdão recorrido divergiu de pacífica orientação jurisprudencial deste Supremo Tribunal Federal.
+II - Compete à Justiça Comum processar e julgar causas instauradas entre o Poder Público e seus servidores submetidos a regime especial disciplinado por lei local editada antes da Constituição Republicana de 1988, com fundamento no art. 106 da Constituição de 1967, na redação que lhe deu a Emenda Constitucional no 1/69, ou no art. 37, IX, da Constituição de 1988.
+III - Recurso Extraordinário conhecido e provido" (STF, RE 573.202, rel. Ministro RICARDO LEWANDOWSKI, TRIBUNAL PLENO, DJe 05/12/2008).
+A compreensão que restou firmada neste Superior Tribunal de Justiça é a de que a contratação de servidor temporário, amparada no art. 37, IX, da Constituição Federal, possui natureza jurídico-administrativa, o que atrai a competência da Justiça Comum para solucionar as controvérsias originárias da referida modalidade de contratação, sendo certo, ainda, que a mera prorrogação do contrato não descaracteriza o vínculo originário.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVODE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA TRABALHISTA. CONTRATO TEMPORÁRIODE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL DOPARTICULAR DESPROVIDO.
+1. A competência para processar e julgar ações cujo objeto é a relação jurídica estabelecida entre o Poder Público e seus Servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público, é da Justiça Comum.
+2. Agravo Regimental do Particular desprovido (STJ, AgRg no CC140.643/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe de 28/03/2019).
+PROCESSUAL CIVIL. SERVIDOR PUBLICO. AGRAVO INTERNO NOS EMBARGOSDECLARATÓRIOS NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE2015. APLICABILIDADE. DEMANDA ENVOLVENDO EMPREGADO CONTRATADOTEMPORARIAMENTE SOB O REGIME CELETISTA. ART 37, IX, DA CONSTITUIÇÃOFEDERAL. COMPETÊNCIA DA JUSTIÇA COMUM. ARGUMENTOS INSUFICIENTES PARADESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DOCÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou orientação segundo a qual compete à Justiça Comum processar e julgar as causas com origem nos contratos temporários firmados entre a Administração Pública e seus agentes, com fundamento no art. 37,IX, da Constituição Federal, para a satisfação de necessidade transitória de excepcional interesse público, ainda que o instrumento de contrato ou a legislação local façam remissão ao regime da CLT (1ª S., AgRg no CC138.953/RS, Rel. Min. Sérgio Kukina, DJe de 18.11.2016).
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido (STJ, AgInt nos EDcl no CC 184.362/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 23/09/2022).
+O presente caso é análogo, devendo-se estabelecer a mesma solução jurídica acerca da fixação do juízo competente para o julgamento da presente demanda.
+Isso posto, conheço do presente conflito de competência para declarar competente o MM. JUIZ DE DIREITO DA 4A VARA DE FAZENDA PÚBLICA DO RIO DE JANEIRO - RJ, suscitado.
+Intimem-se.
+EMENTA
