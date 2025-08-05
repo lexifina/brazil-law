@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pela DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL contra acórdão que, em juízo de retratação, deu provimento à apelação da Defensoria Pública do Estado do Mato Grosso do Sul para condenar o Estado do Mato Grosso do Sul ao pagamento de honorários advocatícios, em acórdão assim ementado:
+EMENTA - APELAÇÃO CÍVEL DA DEFENSORIA PÚBLICA - RETORNO DA VICE-PRESIDÊNCIA - REAPRECIAÇÃO DA MATÉRIA NOS TERMOS DO ART. 1.030, INC. II, DO CPC/15 - TEMA 1002/STF - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DEVIDOS PELO ESTADO À DEFENSORIA PÚBLICA ESTADUAL - POSSIBILIDADE - TESE FIRMADA EM REPERCUSSÃO GERAL - JUÍZO DE RETRATAÇÃO EXERCIDO - ACÓRDÃO PARCIALMENTE RETIFICADO - RECURSO CONHECIDO E PROVIDO - SENTENÇA PARCIALMENTE REFORMADA EM REEXAME NECESSÁRIO.
+1. Discute-se a necessidade, ou não, de adequação do Acórdão recorrido em relação ao Tema 1.002, do Supremo Tribunal Federal (RE 1140005).
+2. O Supremo Tribunal Federal apreciando o Tema 1.002, da repercussão geral, fixou tese vinculante no sentido de que "é devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra" (RE nº 1140005, Relator Ministro Roberto Barroso, julgado em 26/06/2023).
+3. Considerando o recente entendimento do Supremo Tribunal Federal (Tema 1.002), tem-se que a Defensoria Pública Estadual faz jus aos honorários sucumbenciais quando representa a parte vencedora da demanda, contra qualquer ente público, mesmo aquele ao qual está vinculada.
+4. Juízo de retratação exercido. Apelação Cível conhecida e provida. Sentença reformada em Remessa Necessária (fl. 210).
+Inconformada, a Defensoria Pública opôs embargos de declaração que restaram rejeitados (fls. 274-282).
+No recurso especial, a agravante apontou ofensa aos arts. 85, 117 e 1.022, II, do CPC, sustentando, em síntese, que houve negativa de prestação jurisdicional e que o Estado de Mato Grosso do Sul deve ser condenado, autonomamente, em honorários sucumbenciais em favor da Defensoria Pública Estadual.
+Contraminuta apresentada (fls. 325-329).
+É o relatório.
+Passo a decidir.
+Com relação à alegada violação ao art. 1.022, II, do CPC, considero a matéria prequestionada, pelo que passo à análise do mérito.
+No caso, o Tribunal de origem condenou o Estado de Mato Grosso do Sul ao pagamento dos honorários advocatícios sucumbenciais devidos à Defensoria Pública, já fixados na sentença, considerando que o valor deveria ser divido à metade por cada um dos entes vencidos. Esclareceu, no julgamento dos embargos de declaração, que:
+Lembrando que a questão da solidariedade entre os entes públicos já havia sido decidida no acórdão de f. 188-197, e que a vinda dos autos para readequação perante esta Câmara guarda relação apenas com os honorários devidos pelo Estado à Defensoria (Tema 1002 do STF), não havendo motivos para revolver à discussão pretérita já travada e resolvida por esta Corte, devendo haver o rateio dos honorários entre os réus, dividos pela metade, tal como decidido no acórdão embargado.
+Assim, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Ainda que assim não fosse, relativamente à distribuição dos ônus de sucumbência entre os litisconsortes passivos, a conclusão do acórdão recorrido, ao determinar a distribuição pro rata, encontra-se em conformidade com a jurisprudência deste STJ.
+A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA. PLURALIDADE DE VENCIDOS. RATEIO DA VERBA HONORÁRIA. ART. 87 DO CPC. MAJORAÇÃO DA VERBA HONORÁRIA EM GRAU DE RECURSO. NÃO CABIMENTO ANTE O PARCIAL PROVIMENTO DO RECURSO. NÃO PROVIMENTO. 1. Conforme entendimento desta Corte Superior, "a regra do rateio na distribuição dos ônus sucumbenciais se aplica tanto à pluralidade de autores quanto à de réus, tendo em vista que tal verba é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos" (EDcl nos EDcl na DESIS no AgInt na Rcl n. 37.445/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 18/5/2021, DJe de 25/5/2021).
+ ..
+3. Agravo interno a que se nega provimento (AgInt no REsp 2.081.746/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 3/7/2024).
+Portanto, deve ser desprovido o recurso especial, com fundamento na orientação contida na Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável também para interposição de recurso pela alínea a do permissivo constitucional.
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários sucumbenciais, na origem, em favor da parte agravada.
+Intimem-se.
+EMENTA
