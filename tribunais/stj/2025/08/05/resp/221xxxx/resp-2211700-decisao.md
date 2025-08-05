@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 2247e):
+PROCESSO CIVIL. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. AUXÍLIO - CRECHE. HORA-EXTRA. TRABALHO NOTURNO. ADICIONAL DE INSALUBRIDADE. FÉRIAS. SALÁRIO- MATERNIDADE. ADICIONAL POR TEMPO DE SERVIÇO. COMISSÃO POR PRODUTIVIDADE. ADICIONAL DE REPRESENTAÇÃO. COMPENSAÇÃO. CRITÉRIOS.
+Opostos embargos de declaração, foram rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese: nulidade no acórdão recorrido e legitimidade da incidência da contribuição previdenciária sobre o adicional por tempo de serviço.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Observo que o recurso especial foi interposto na vigência do CPC/1973.
+A Recorrente sustenta a existência de omissão no acórdão recorrido, não suprida no julgamento dos embargos de declaração.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+A controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1.431.157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 1.104.181/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1.334.203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+No mais, esta Corte tem posicionamento consolidado segundo o qual incide a contribuição previdenciária cota patronal sobre o adicional por tempo de serviço.
+Nessa linha:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL VIOLAÇÃO DO ARTIGO 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE ADICIONAL DE CARÁTER PERMANENTE. ABONO PECUNIÁRIO E ADICIONAL POR TEMPO DE SERVIÇO. RECURSO ESPECIAL. SÚMULA N. 83/STJ.
+I - A jurisprudência deste colendo Tribunal é firme na compreensão de não serem cabíveis os declaratórios somente para fins de prequestionamento, devendo antes haver, de fato, questão relevante para o julgamento da controvérsia, sobre a qual se omitiu o acórdão embargado. In casu, sequer demonstrou a recorrente em que consistiria a relevante omissão a justificar o cabimento dos declaratórios, na origem, tendo-se restringido em dizer que alegara a violação do art. 535 porque não houve juízo de valor sobre certos dispositivos legais. (Súmula n. 284/STF).
+II - Segundo se extrai da jurisprudência desta colenda Corte, a contribuição previdenciária incide sobre o abono pecuniário e o adicional por tempo de serviço, por se constituírem adicionais de caráter permanente (Precedente citado: AgRg no REsp 966456/SC, Rel. Min. Luiz Fux, DJ de 26.11.2007).
+III - Enfim, também não é cognoscível o recurso especial no tocante à alegada violação do §3º do artigo 20 do Código de Processo Civil, haja vista que a jurisprudência deste eg. Tribunal é firme na compreensão de que nas causas em que vencida a Fazenda Pública deve-se aplicar o §4º seguinte, não sendo observável o limite percentual do parágrafo anterior (Cf: REsp 741776/RS, Rel. Min. José Delgado, DJ de 05/12/2005).
+IV - Agravo regimental improvido.
+(AgRg no REsp n. 1.030.955/RS, relator Ministro Francisco Falcão, Primeira Turma, julgado em 27/5/2008, DJe de 18/6/2008.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. CONTRIBUIÇÃO PREVIDENCIÁRIA. REPOUSO SEMANAL REMUNERADO. ADICIONAL DE TEMPO DE SERVIÇO E SOBREAVISO. INCIDÊNCIA. PRECEDENTES.
+1. Esta Corte já se manifestou no que concerne ao descanso semanal remunerado (REsp 1.444.203/SC, Segunda Turma, Rel. Min. Humberto Martins, DJe de 24.6.2014) no sentido de que tal verba sujeita-se à incidência de contribuição previdenciária. Por outro lado, na linha da jurisprudência deste Tribunal Superior, configurado o caráter permanente ou a habitualidade da verba recebida, bem como a natureza remuneratória da rubrica, incide contribuição previdenciária sobre adicional de sobreaviso, prêmios, gratificações, ai incluído adicional de tempo de serviço (EDcl no AgRg no REsp 1481469/PR, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 24/02/2015, DJe 03/03/2015).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.380.226/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/4/2019, DJe de 16/4/2019.)
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Posto isso, com fundamento no art. 557, § 1º-A do CPC/1973 e art. 34, XVIII, a e b, do Regimento Interno desta Corte, DOU PROVIMENTO AO RECURSO ESPECIAL para, reformando o acórdão recorrido, declarar legítima a incidência da contribuição previdenciária cota patronal sobre o adicional por tempo de serviço.
+Publique-se e intimem-se.
+EMENTA
