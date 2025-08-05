@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto por ESTADO DO RIO GRANDE DO SUL contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 298):
+APELAÇÃO CÍVEL EXECUÇÃO FISCAL INFRAÇÃO POR DEPÓSITO DE AGROTÓXICOS DE USO PROIBIDO RESPONSABIZAÇÃO DO G ENRO DO PROPRIETÁRIO DA FAZENDA INEXISTÊNCIA DE PROVA DE SER EM ALGUMA MEDIDA RESPONSAVEL O FATO DE TER ASSINADO OS AUTOS DE INFRAÇÃO E DE DEPÓSITO POR SE ENCONTRAR NO LOCAL NÃO SIGNIFICA RECONHECIMENTO DE RESPONSABILIDADE SOB PENA DE FICAR SEM SENTIDO O PRÓPRIO DIREITO DE DEFESA APELAÇÃO PROVIDA
+Nas razões recursais, a parte recorrente sustenta, em síntese, violação ao art. 85, § 11 do CPC, além de divergência jurisprudencial (AgInt no REsp n. 1.745.134/MS).
+Expõe que a sentença havia sido de improcedência, com fixação de sucumbência, contudo, o recurso de apelação do autor foi provido, com inversão da sucumbência e a elevação dos honorários para 20% sobre o valor da causa.
+Requer a reforma do acórdão para afastar os honorários recursais, mantendo apenas a inversão da sucumbência, conforme entendimento deste STJ.
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+O Tribunal de origem, ao dar provimento ao recurso de apelação interposto pelo autor, ora recorrido, inverteu os ônus sucumbenciais e elevou os honorários fixados na sentença, com base no art. 85, §11 do CPC, nos seguintes termos (fls. 299-301):
+ADEMIR NÉLSON ARENDT apela da sentença que desacolheu embargos à execução fiscal opostos contra o ESTADO DO RIO GRANDE DO SUL., condenando o embargante ao pagamento das custas processuais e honorários advocatícios fixados em 15% sobre o valor da causa, atualizados pelo IGP-M desde a publicação da sentença, e acrescido de juros moratórios de 1% ao mês, capitalizados anualmente, a partir do trânsito em julgado, suspensa a exigibilidade em razão da gratuidade judiciária deferida (fls. 248-51).
+ ..
+Alfim, a verdade processual é que, face ao embargante- recorrente, não há prova de ser, em alguma medida, responsável.
+Nesses termos, provejo, a fim de acolher os embargos, restando extinta a execução, invertida a sucumbência, com elevação dos honorários para 20% sobre o valor da causa (fl. 10; CPC, art. 85, § 11), atualizado pelo IGP-M desde a oposição dos embargos.
+Do exposto, é possível constatar que a conclusão a que chegou o Tribunal de origem ao elevar os honorários com base no art. 85, §11 do CPC, está em dissonância do entendimento firmado nesta Corte Superior, segundo o qual é devida a majoração de verba honorária sucumbencial, nos termos do art. 85, §11 do CPC, quando presentes os seguintes requisitos de forma simultânea: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Nessa linha de compreensão:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. RECURSO DE APELAÇÃO PROVIDO. NÃO CABIMENTO. VERBA HONORÁRIA SUCUMBENCIAL ARBITRADA POR APRECIAÇÃO EQUITATIVA REVISÃO EM RECURSO ESPECIAL QUE NÃO INDICA O DISPOSTIVO LEGAL VIOLADO. IMPOSSIBILIDADE. SÚMULAS N. 7/STJ E 284 DO STF. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - É indevida a condenação em honorários recursais, previstos no art. 85, § 11, do CPC/2015, no recurso de apelação provido, ainda que parcialmente. Precedentes.
+III - A revisão da condenação em honorários advocatícios sucumbenciais arbitrados por apreciação equitativa, em recurso especial cujas razões recursais não apontam o dispositivo de lei federal violado, esbarra nos óbices das Súmulas n. 7/STJ e 284 do STF, esta aplicável por analogia.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido (AgInt no REsp n. 2.167.521/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/2/2025, DJEN de 14/2/2025, grifo nosso).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MAJORAÇÃO HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. A orientação jurisprudencial desta corte superior é no sentido de que é devida a majoração dos honorários recursais, na forma do §11 do art. 85 do CPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+2. No presente caso, tendo em vista que a agravante teve seu recurso de apelação provido em parte, não se justifica a pretendida majoração dos honorários recursais, nos termos do §11 do art. 85 do CPC.
+Agravo interno improvido (AgInt no AREsp n. 2.194.582/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023, grifo nosso).
+Assim, deve ser mantida a inversão dos ônus sucumbenciais, porém afastada a elevação dos honorários prevista no art. 85, §11, do CPC, diante da procedência do recurso de apelação.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial apenas para afastar a elevação dos honorários sucumbenciais.
+Intimem-se.
+ EMENTA
