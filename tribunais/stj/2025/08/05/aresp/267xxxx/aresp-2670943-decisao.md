@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por FRANCISCO DAS CHAGAS DE SIQUEIRA JUNIOR contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL cuja ementa guarda os seguintes termos (fl. 482):
+"APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - PRELIMINAR DE CERCEAMENTO DE DEFESA - REJEITADA - REVISÃO DOS ENCARGOS CONTRATUAIS - JUROS REMUNERATÓRIOS - AUSÊNCIA DE ABUSIVIDADE - CAPITALIZAÇÃO DE JUROS - PREVISÃO EXPRESSA EM CONTRATO - COMISSÃO DE PERMANÊNCIA - NÃO INCIDÊNCIA NO CASO - RECURSO CONHECIDO E DESPROVIDO. Rejeita-se a preliminar de cerceamento de defesa se a parte não demonstra a imprescindibilidade da perícia técnica para a deslinde da causa. No julgamento do Recurso Especial nº 1.061.530-RS, que seguiu o rito para processos repetitivos, restaram fixadas as seguintes orientações quanto à aplicação de juros remuneratórios: a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura; b) A estipulação de juros remuneratórios superiores a 12% ao ano por si só, não indica abusividade; c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do Código Civil; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e demonstrada a abusividade. Não há falar em abusividade dos juros remuneratórios quando demonstrado que foram estabelecidos em patamares adequados, conforme precedente do Superior Tribunal de Justiça. Em havendo previsão expressa no contrato e sendo este firmado após 30.03.2000, permitida a capitalização de juros remuneratórios em periodicidade abaixo da anual. A comissão de permanência é válida e pode ser prevista nos contratos, desde que calculada pela taxa média de mercado apurada pelo Banco Central do Brasil e limitada à taxa do contrato, sendo vedada a cumulação com a correção monetária, juros remuneratórios, juros moratórios ou multa contratual. Na hipótese, não há provas de incidência cumulada, mas apenas da cobrança dos juros remuneratórios, moratórios e multa, o que é possível, conforme dispõe a Súmula nº 296 do STJ. Recurso conhecido e desprovido."
+Rejeitados os embargos de declaração opostos (fls. 534/538).
+No recurso especial, a parte recorrente alega violação dos arts. 369, 370, parágrafo único, 371, 355, I, do CPC; e artigo 6º, VIII, do CDC, sustentando a ocorrência de cerceamento de defesa.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 668/692).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 694/706), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 786/808).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 371, 355, I, do CPC; e artigo 6º, VIII, do CDC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à inocorrência do cerceamento de defesa, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+"AGRAVO EM RECURSO ESPECIAL. CHAMAMENTO DO FEITO À ORDEM. JULGAMENTO NA SESSÃO VIRTUAL DA TERCEIRA TURMA CANCELADO. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PROVAS. SUFICIÊNCIA. SÚMULA Nº 7/STJ. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. DIREITO DO CONSUMIDOR. CORPO ESTRANHO. GÊNERO ALIMENTÍCIO. AQUISIÇÃO. RESPONSABILIDADE CIVIL. DANOS MATERIAIS. CARACTERIZAÇÃO. SÚMULA Nº 7/STJ.
+1. Chamamento do feito à ordem para cancelar o julgamento ocorrido na sessão virtual da 3ª Turma de 12/11/2024 a 18/11/2024.
+2. Deve ser respeitado o princípio do livre convencimento do juiz que permite que o Tribunal de origem firme sua convicção à luz do acervo probatório dos autos fundamentando os motivos que levaram à condenação.
+3. Alterar a conclusão da Corte local sobre a suficiência de provas e a inexistência de cerceamento de defesa demandaria o revolvimento do acervo fático-probatório dos autos, obstado no recurso especial pela Súmula nº 7/STJ.
+4. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+5. Para rever o entendimento firmado pelas instâncias ordinárias, acerca da a responsabilidade civil da ora recorrente em relação aos danos materiais decorrentes da aquisição pela recorrida de produto contendo corpo estranho, seria necessária a incursão em fatos e em provas dos autos, o que recai no óbice da Súmula nº 7/STJ.
+6. Cancelado o julgamento ocorrido na sessão virtual da 3ª Turma de 12/11/2024 a 18/11/2024. Conheço o agravo para não conhecer do recurso especial.
+(AREsp n. 2.634.122/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, §11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CERCEAMENTO DE DEFESA. OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
