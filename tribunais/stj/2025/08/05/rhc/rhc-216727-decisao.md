@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em favor de CARMELITA ALVES DE ABREU OLIVEIRA em face do acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, que denegou o habeas corpus lá impetrado (HC n. 0752305-68.2025.8.18.0000)
+Consta dos autos que a recorrente é investigada em razão da prática, em tese, dos crimes de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), associação para o tráfico (art. 35 da Lei n. 11.343/2006) e posse ilegal de arma de fogo, acessório ou munição de uso restrito (art. 16, caput, da Lei n. 10.826/2003).
+Neste recurso, sustenta a ocorrência de nulidade da busca e apreensão, considerando que teria sido realizada exclusivamente em razão de denúncias anônimas.
+Alega que não foram realizadas diligências investigativas que confirmassem as denúncias anônimas.
+Aduz que a autoridade policial se limitou a reproduzir o conteúdo de informações apócrifas, coletar fotografias externas dos imóveis dos investigados e reunir dados meramente cadastrais e, ainda assim, a busca e apreensão foi deferida judicialmente.
+Requer, assim, o provimento do recurso, para que seja anulada a decisão que deferiu a busca e apreensão domiciliar, com o consequentemente trancamento do procedimento de busca e apreensão domiciliar, bem como do procedimento n. 0808758-51.2025.8.18.0140 (Auto de Prisão em Flagrante).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso ordinário em habeas corpus (fls. 286-292).
+É o relatório.
+DECIDO.
+Inicialmente, verifico que há procedimento conexo ao presente.
+Trata-se do HC n. 1004640/PI, que ataca o mesmo acórdão e trata da mesma matéria objeto deste recurso ordinário em habeas corpus.
+Compulsando tal procedimento, verifico que foi anteriormente distribuído e, ademais, já foi prolatada decisão, indeferindo o pedido liminar.
+Dentro desse cenário, considerando que a matéria suscitada já está sendo analisada por esta Corte em procedimento precedente, tratando-se, portanto, de mera reiteração de pedido, inadmissível a tramitação do novo feito.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. REITERAÇÃO DE PEDIDO JÁ ANALISADO EM HABEAS CORPUS ANTERIOR. IMPOSSIBILIDADE. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu habeas corpus, impetrado contra decisão singular de desembargador no tribunal de origem. O agravante busca reconsideração ou provimento do recurso para análise do mérito do pedido pelo colegiado, sustentando constrangimento ilegal. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se é cabível habeas corpus contra decisão monocrática de desembargador, sem que haja deliberação pelo colegiado do tribunal de origem, e (ii) se a reiteração de pedido já analisado em habeas corpus anterior é admissível. III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica ao vedar a impetração de habeas corpus contra decisão monocrática de desembargador quando não há exaurimento de instância, ou seja, sem a prévia submissão do decisum ao colegiado do tribunal de origem. O princípio da unirrecorribilidade impede que o habeas corpus seja utilizado como substitutivo de recurso próprio, exceto em casos de flagrante ilegalidade.
+4. Constatou-se que a matéria ora suscitada já foi objeto de análise em habeas corpus anterior (RHC nº 205788/SP), sendo inadmissível a reiteração de pedido idêntico em novo writ. Segundo o entendimento consolidado, a repetição de pedidos já apreciados e decididos inviabiliza a admissão do habeas corpus, configurando situação de coisa julgada material quanto à mesma causa de pedir.
+IV. AGRAVO DESPROVIDO. (AgRg no n. HC 925286/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJEN de 2/12/2024, grifamos).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MATÉRIA JÁ SUSCITADA EM HABEAS CORPUS IMPETRADO ANTERIORMENTE. MERA REITERAÇÃO DE PEDIDO. AGRAVO NÃO PROVIDO. 1. A simples leitura da decisão combatida deixa claro que este recurso foi interposto em favor do mesmo paciente do HC n. 746.321/SC, questiona o mesmo acórdão proferido pelo Tribunal de origem e apresenta pedido idêntico - revogação da prisão preventiva por ser incompatível com o regime fixado na sentença para início do cumprimento da pena (semiaberto). 2. A análise do decisum proferido naqueles autos evidencia que, ao contrário do afirmado neste agravo, houve exame do mérito lá suscitado, tanto que foi denegada a ordem. 3. Agravo não provido. (AgRg no RHC n. 166.833/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022, grifamos).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. DEFICIÊNCIA DA INSTRUÇÃO. REITERAÇÃO PARCIAL DE PEDIDO. INDEFERIMENTO LIMINAR DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e, dada sua natureza urgente, exige prova pré-constituída das alegações. Não admite, pois, dilação probatória.
+2. A defesa não instruiu o pedido com cópia de documentos do inquérito policial, nos quais, segundo a Corte de origem, haveria requerimento de decretação da custódia preventiva do recorrente, de modo que persiste a impossibilidade de exame do constrangimento ilegal suscitado.
+3. O recurso cujo objeto é parcialmente idêntico ao de anterior habeas corpus, já julgado por esta Corte Superior de Justiça, caracteriza indevida reiteração de pedido e, portanto, autoriza o indeferimento liminar do writ.
+4. Agravo regimental não provido. (AgR g no RHC n. 137686/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/11/2020, DJe de 16/12/2020, grifamos).
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
+EMENTA
