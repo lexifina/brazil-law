@@ -1,0 +1,39 @@
+DECISÃO
+Cuid a-se de habeas corpus, com pedido de liminar, impetrado em favor de PAULO RICARDO NUNES PEREIRA, alegando constrangimento ilegal por parte do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na apelação criminal n. 1507386-56.2021.8.26.0071, com acórdão assim ementado (fl. 210):
+Roubo - Inépcia da denúncia Ausência de descrição da conduta criminosa imputada à acusada Falta de justa causa para a ação penal
+- Nulidade - Não ocorrência Denúncia formalmente em ordem Requisitos do art. 41, do Código de Processo Penal Garantia de exercício do contraditório e ampla defesa Questões arguidas pela Defesa que se confundem com o mérito Preliminares afastadas;
+Roubo qualificado tentado Palavras da vítima Depoimentos das testemunhas de acusação Exames periciais que atestam a existência de lesão compatível com o relato do ofendido e desmentem a justificativa apresentada pelos réus Prova suficiente para a condenação Penas corretas Gravidade concreta do delito Circunstâncias judiciais desfavoráveis Regime fechado Cabimento Recurso da Defesa não provido Recurso do Ministério Público provido.
+Consta dos autos que o paciente foi condenado à pena de 04 (quatro) anos, 05 (cinco) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, e a pagar dez dias-multa, no valor unitário mínimo, por infração ao art. 157, § 2º-A, I do Código Penal.
+Em recurso apresentado pelo órgão ministerial, o Tribunal de Justiça alterou o regime de cumprimento para o fechado.
+O impetrante sustenta a ocorrência de constrangimento ilegal e pleiteia a redução da tentativa no patamar máximo e o retorno do cumprimento de pena no regime semiaberto.
+Pretenede, liminarmente, suspender a determinação do Tribunal de Justiça do Estado de São Paulo, até a apreciação do mérito deste writ, no que tange à expedição do mandado de prisão em desfavor do paciente. No mérito, a concessão da ordem para reconhecer, na terceira fase, a diminuição de pena em virtude da tentativa em seu grau máximo, bem como o direito a iniciar a execução da pena em regime aberto ou semiaberto, ou a fixação de medidas restritivas de direitos, restabelecendo-se a sentença de primeiro grau.
+O pedido liminar foi indeferido nas fls. 228-229.
+Foram apresentadas informações pelo Juízo de primeiro grau (fls. 235-236).
+O Tribunal de origem também apresentou as informações requisitadas (fls. 239-240).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do writ (fls. 262-264).
+É o relatório.
+DECIDO.
+A impetração não pode ser conhecida.
+De acordo com as informações prestadas às fls. 239-240, foi ajuizado pedido revisional ainda pendente de julgamento perante a Corte local.
+Nessa hipótese, diante da incidência do postulado da unirrecorribilidade, é inadmissível a tramitação simultânea de recursos (ou ações autônomas de impugnação) e de habeas corpus manejados contra o mesmo édito condenatório.
+Firme a jurisprudência deste Sodalício na matéria:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONCOMITANTE COM REVISÃO CRIMINAL. REITERAÇÃO DE PEDIDO. PRINCÍPIO DA UNIRRECORRIBILIDADE. INDEFERIMENTO LIMINAR. RECURSO DESPROVIDO. I. CASO EM EXAME 1
+. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente o habeas corpus, impetrado para a revisão de condenação criminal já transitada em julgado. A defesa pleiteia a concessão de habeas corpus para discutir matéria idêntica à de revisão criminal em trâmite no Tribunal de Justiça de São Paulo, com o objetivo de obter a redução da pena-base e a aplicação de benefícios legais. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar a admissibilidade do habeas corpus concomitante com a revisão criminal para discutir matéria idêntica; e (ii) estabelecer se a reiteração do pedido anteriormente indeferido caracteriza hipótese de inadmissibilidade do habeas corpus. III. RAZÕES DE DECIDIR
+3. O princípio da unirrecorribilidade impede o uso simultâneo de habeas corpus e revisão criminal com o mesmo objeto, pois isso geraria tumulto processual e risco de decisões conflitantes entre os órgãos jurisdicionais.
+4. A jurisprudência do Superior Tribunal de Justiça não admite o uso de habeas corpus para discutir matéria já abordada em revisão criminal em tramitação, uma vez que isso subverte o sistema recursal e compromete a racionalidade do processo.
+5. A repetição de pedido já analisado e indeferido por esta Corte caracteriza reiteração, justificando o indeferimento liminar do habeas corpus, conforme art. 210 do RISTJ. IV. RECURSO DESPROVIDO.
+(AgRg no HC n. 810.842/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/12/2024, DJEN de 26/12/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO NA ORIGEM CONCOMITANTEMENTE COM A IMPETRAÇÃO DE HABEAS CORPUS NESTA CORTE SUPERIOR. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. PRINCÍPIO DA UNIRRECORRIBILIDADE. OFENSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Este habeas corpus foi impetrado em 19/3/2024 e se insurge contra acórdão de apelação julgado em 14/9/2023. Em consulta processual realizada na página eletrônica do TJSP, verifica-se que houve a oposição de aclaratórios contra o mencionado acórdão em 19/2/2024.
+2. Em diversas ocasiões, este Tribunal reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal. A crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico. Ademais, a hipótese não comporta concessão da ordem de ofício, uma vez que se requer a absolvição.
+3. A violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato. À exceção da interposição conjunta de recurso especial e extraordinário, que obedece a regramento próprio, verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas, seja pela utilização da via recursal concomitantemente ao ajuizamento de ação autônoma de impugnação, seja pela impugnação do mesmo ato em duas vias autônomas diferentes, como é o caso de impetração simultânea de habeas corpus e oposição de embargos de declaração, como na espécie.
+4. Agravo regimental não provido.
+(AgRg no HC n. 899.454/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL E NA PENDÊNCIA DO JULGAMENTO DO PEDIDO REVISIONAL. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A jurisprudência das Cortes Superiores admite a impetração do remédio constitucional em substituição ao recurso adequado, para correção de flagrante ilegalidade que repercuta no direito de locomoção. Todavia, uma vez transitada em julgado a condenação e aviada revisão criminal, que está em processamento, a impetração simultânea do habeas corpus com o mesmo objetivo de reformar o decreto condenatório fere o princípio da unirrecorribilidade e causa verdadeiro tumulto processual, inclusive com risco de decisões conflitantes e de burla ao critério funcional de fixação de competência entre os diversos órgãos fracionários do Tribunal." (AgRg no HC n. 674.869/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/5/2022, DJe de 30/5/2022, grifei.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 782.869/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/3/2023, DJe de 30/3/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
