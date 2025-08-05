@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de conflito negativo de competência estabelecido entre o Juízo da 2ª Vara Federal de Palmas - SJ/TO e o Juízo da 9ª Vara Federal de São Paulo - SJ/SP, em ação proposta pela Gente Seguradora S/A contra o DNIT, visando ressarcimento de danos causados a veí culo automotor segurado pela parte autora.
+A demanda foi proposta perante a 9ª Vara Federal de São Paulo, a qual declinou de sua competência por compreender que a seguradora não pode se valer da eleição de foro para os casos de demandas indenizatórias. Acrescentou que "a competência é do foro do local do fato danoso, em razão da maior facilidade à apuração dos fatos e à produção de provas" (fl.215).
+Ao receber os autos, o Juízo federal de Palmas - TO, suscitou o conflito apontando que a decisão de declínio reconheceu incompetência relativa em desacordo com a Súmula 33/STJ (fl. 223).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O DNIT, em sua contestação, não alegou a incompetência do Juízo da Vara Federal de São Paulo (fls. 77-115).
+Como diz o juízo suscitante, a questão foi conhecida de ofício pelo juízo suscitado, na perspectiva do art. 53, V do CPC, pois a regra não conferiria a faculdade de escolha para a seguradora em ação regressiva contra o causador do dano, neste caso, uma autarquia federal.
+As regras prevendo opção de foro do mencionado dispositivo do CPC não estabelecem critério de definição de jurisdição por razões de ordem pública. A questão não poderia ser reconhecida sem a provocação da parte interessada, seja com base no aludido dispositivo, seja em relação ao art. 109 §2º da CF. É o que diz a Súmula 33/STJ: "A incompetência relativa não pode ser declarada de ofício". Sobre o tema, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. ELEIÇÃO DO FORO. COMPETÊNCIA TERRITORIAL. COMPETÊNCIA RELATIVA. DECLÍNIO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33 DO STJ. CONFLITO CONHECIDO PARA DECLARAR O JUIZ DE DIREITO SUSCITADO COMPETENTE PARA O PROCESSAMENTO DO FEITO.
+1. A jurisprudência deste Superior Tribunal de Justiça pacificou que a competência territorial é relativa, sendo restrito às partes a possibilidade de questionamento acerca da (in)competência do juízo onde for proposta a ação, descabendo ser declarada de ofício.
+2. Ainda que assim não o fosse, o autor da ação tem a discricionariedade de eleger, dentro das limitações legais, o foro que melhor atender seus interesses, motivo pelo qual, no caso dos autos, tendo a parte escolhido a sede da pessoa jurídica demandada como foro para o ajuizamento da ação - art. 53, III, a, do Código de Processo Civil - não há que falar em escolha aleatória de foro que justifique o declínio de ofício pelo magistrado, cabendo ao réu, caso entenda ser o caso, apresentar exceção de incompetência.
+3. Conflito conhecido para declarar o Juiz de Direito da 3ª Vara Cível de Brasília - DF, ora suscitado, competente para o processamento do feito.
+(CC n. 194.898/TO, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 24/4/2024, DJe de 26/4/2024.)
+Não arguída a preliminar pela parte demandada, indevido o declínio de ofício realizado pelo Juízo suscitado. Nesse mesmo sentido, confiram-se, ainda: CC 210.645/SP, Ministro Teodoro Silva Santos, DJr 7/2/2025; e CC 208.661/RJ, Ministra Maria Thereza de Assis Moura, DJe 28/10/2024.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar a demanda o Juízo Federal Suscitado.
+Dê-se ciência aos Juízos envolvidos. Publique-se.
+EMENTA
