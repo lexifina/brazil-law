@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra acórdão do Tribunal de Justiça que redimensionou a pena da recorrida para 01 (um) ano e 02 (dois) meses de reclusão, em regime inicial semiaberto, e 11 (onze) dias-multa, em razão da prática do delito previsto no art. 180, caput, do Código Penal (fls. 298-304 e 355-356).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, para alegar contrariedade aos arts. 59, 61, inciso I, 64, inciso I, 68 e 33, § 3º, do Código Penal, além de divergência jurisprudencial (fls. 319-341).
+Em contrarrazões, a recorrida pugna pelo não conhecimento do recurso especial, ante a ausência de prequestionamento e de demonstração do dissídio jurisprudencial, nos termos das Súmulas n. 282 e 356, STF (fls. 370-383).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 397-401).
+É o relatório. DECIDO.
+A acusação busca a reforma do acórdão ao argumento de que não há bis in idem na valoração dos maus antecedentes e da reincidência decorrentes de condenações distintas. Além disso, afirma que o regime inicial deveria ser o fechado, haja vista a presença de circunstâncias judiciais desfavoráveis.
+Inicialmente, observo que a matéria foi prequestionada, pois o Tribunal de origem afastou expressamente a valoração dos maus antecedentes, por entender que "o Magistrado os fundamentou com base em condenação comprobatória de reincidência" (fl. 303).
+Todavia, consoante consta à fl. 236 da sentença, o magistrado singular fez uso de condenações distintas para justificar o aumento da pena na primeira fase (maus antecedentes) e na segunda fase (reincidência).
+Veja-se:
+"Verificando as diretrizes do art. 59 do Código Penal, considerando os péssimos antecedentes da acusada, já condenada por roubo qualificado (certidão de fls. 226/227), além de sua personalidade deformada, que a leva a reiteradamente violar a lei, fixo a pena base além do mínimo legal para o crime previsto no art. 180, "caput" do Código Penal, totalizando 02 anos de reclusão e pagamento de 20 dias-multa.
+Tendo em vista a agravante da reincidência em crime doloso grave, equiparado a hediondo (tráfico de drogas, certidão de fls. 225/226 não considerada na primeira fase da dosimetria), aumento a pena pela metade, totalizando 03 anos."
+Considerando a existência de duas condenações (roubo qualificado e tráfico de drogas), é permitida a valoração de uma como maus antecedentes e da outra como reincidência, sem incorrer em bis in idem, consoante jurisprudência desta Corte:
+"6. A consideração de outras três condenações para agravar a pena na segunda fase da dosimetria descaracteriza bis in idem, uma vez que as condenações utilizadas como maus antecedentes deixaram de ser computadas novamente como reincidência." (AgRg no AREsp n. 2.822.320/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025)
+"4. O acusado possui em seu desfavor 2 condenações transitadas em julgado pela prática dos crimes de apropriação indébita e roubo qualificado, sendo reincidente específico e portador de maus antecedentes, sendo descabido falar em bis in idem na dosimetria da pena." (AgRg no HC n. 986.858/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/5/2025, DJEN de 12/5/2025)
+Assim, passo à revisão da pena.
+Na primeira fase, restabeleço os maus antecedentes e conduzo a pena para 1 (um) ano e 2 (dois) meses de reclusão e 11 (onze) dias-multa.
+Na segunda fase, elevo a pena para 1 (um) ano e 4 (quatro) meses de reclusão, e 12 (doze) dias-multa, haja vista a reincidência, e torno a sanção definitiva diante da ausência de causas de aumento e diminuição de pena.
+Em relação ao regime inicial, observo que, embora a pena aplicada seja inferior a 4 anos de reclusão, a reincidência e os maus antecedentes justificam a fixação do regime inicial fechado, em consonância com o art. 33, § 2º, "c" e § 3º do Código Penal.
+Sobre o tema:
+"9. A fixação de regime inicial fechado é justificada pela reincidência e pelos maus antecedentes do paciente, mesmo com pena inferior a quatro anos." (HC n. 893.778/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025)
+"5. A fixação do regime inicial fechado é justificada pela presença de circunstâncias judiciais desfavoráveis, como maus antecedentes, além da reincidência, mesmo tendo a pena sido estabelecida patamar inferior a quatro anos." (AgRg no HC n. 986.858/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/5/2025, DJEN de 12/5/2025)
+"2. Embora a pena final imposta ao ora agravante tenha sido inferior a 4 anos de reclusão, sua reincidência, somada à análise desfavorável de circunstância judicial, justifica a imposição do regime inicial fechado para o início do desconto da pena reclusiva, nos termos do art. 33, §§ 2º e 3º, do Código Penal." (AgRg no AREsp n. 2.773.465/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024)
+Ante o exposto, dou provimento ao recurso especial, nos termos do art. 255, § 4º, inciso III, do RISTJ, para redimensionar a pena, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
