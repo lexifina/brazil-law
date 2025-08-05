@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de embargos de divergência manejados por BURITIRAMA MINERAÇÃO S/A - MASSA FALIDA contra acórdão proferido pela Terceira Turma, de Relatoria do e. Min. Ricardo Villas Bôas Cueva, cuja ementa está assim redigida:
+RECURSO ESPECIAL. EMPRESARIAL. FALÊNCIA. PEDIDO. ABUSIVIDADE. AUSÊNCIA. INSOLVÊNCIA JURÍDICA. IMPONTUALIDADE. RECONHECIMENTO. PROTESTO. EDITAL. LEGALIDADE. EXECUÇÃO. MEIO MENOS GRAVOSO. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIOJURISPRUDENCIAL. DEMONSTRAÇÃO. NÃO OCORRÊNCIA.
+1. A controvérsia dos autos resume-se em definir: (i) se o pedido de falência foi utilizado de forma abusiva; (ii) se é possível o decreto de falência de empresa solvente; (iii) se o protesto foi regular, e (iv) se era o caso de se utilizar meio menos gravoso para a devedora.
+2. A Lei nº 11.101/2005 estabeleceu um valor mínimo para os pedidos de falência por impontualidade. Superado o valor de 40 (quarenta) salários-mínimos, o pedido não pode ser considerado abusivo. Precedentes.
+3. O pedido de falência não tem como fundamento a insolvência econômica mas, sim, a insolvência jurídica, que se perfectibiliza com o enquadramento em uma das situações descritas no artigo 94 da Lei nº11.101/2005: (i) impontualidade (sem relevante razão de direito, não paga, no vencimento, obrigação líquida materializada em título ou títulos executivos protestados, cuja soma ultrapasse o equivalente a 40 (quarenta) salários-mínimos na data do pedido de falência; (ii) execução frustrada, ou (iii) pratica atos de falência.
+4. Na hipótese, a devedora foi procurada por duas vezes em seu endereço, não havendo ninguém para receber a intimação, ficando consignado no aviso de recebimento que a empresa estaria em "home office". Essa situação se equipara ao caso em que ninguém se dispõe a receber a intimação, sendo permitida, então, a intimação por edital. Inteligência do artigo 15 da Lei nº 9.492/1997.
+5. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+6. O Superior Tribunal de Justiça entende que a falta de prequestionamento obsta o conhecimento do recurso por qualquer das alíneas do permissivo constitucional.
+7. Recurso especial conhecido em parte e não provido.
+Nas razões dos presentes embargos de divergência, a insurgente indica, para demonstrar o alegado dissídio jurisprudencial, o acórdão exarado nos autos do AgRg no ARESP 589.602/AC, Rel. Min. Antonio Carlos Ferreira, Dje de 11/12/2014 e REsp 472.801/SP, Rel. Min. Aldir Passarinho Junior, DJe de 17/3/2008.
+Argumenta, em síntese, que antes da intimação por edital, impõe-se "(..) esgotarem as tentativas de localização e de intimação pessoal do devedor, com a identificação de quem recebeu a respectiva intimação."
+Pede, assim, a reforma do julgado. (fls. 2991/3063)
+As impugnações estão juntadas às fls. 3074/3099, 3100/3124 e 3125/3141.
+O MPF ofertou parecer no sentido do não conhecimento da insurgência. (fls. 3144/3147)
+É o relatório.
+Decisão.
+A insurgência não merece prosperar.
+1. É cediço que os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas ou Seções distintas desta Corte Superior, configurada a diversidade de tratamento jurídico a situações fáticas semelhantes.
+A sua finalidade é, pois, dirimir eventual entendimento jurisprudencial conflitante sobre teses de mérito adotado por julgados desta Corte Superior em recurso especial. Entretanto, é indispensável haver identidade ou similitude fática e jurídica entre o acórdão embargado e o aresto paradigma, cabendo ao embargante demonstrar que houve interpretação divergente.
+Em idêntica linha, a Corte Especial possui orientação segundo a qual no exame de admissibilidade do referido apelo recursal cumpre apreciar se o acórdão embargado atrita, na esfera jurídica, com a tese do acórdão paradigma trazida a confronto. (ut. EDcl nos EREsp n. 17.646/RJ, Rel. Min. Sálvio de Figueiredo Teixeira, Corte Especial, Dj de 25/3/1993), dentre inúmeros outros julgados.
+A corroborar essa conclusão, seguem os seguintes estudos doutrinários: DIDIER JR., Fredie e CARNEIRO, Leonardo da Cunha. Curso de Direito Processual Civil: meios de impugnação às decisões judiciais e processo nos tribunais. 14ª ed. Salvador: Juspodivm. 2017, vol. 3, p. 447; Nelson Nery Junior. Embargos de Divergência e identidade entre as hipóteses confrontadas. Soluções Práticas, vol. II, p. 610; Eduardo Ribeiro de Oliveira. Embargos de Divergência. Volume Único. Comentários ao CPC, p. 349, Ed. RT.
+Com esse norte hermenêutico, como bem destacou o parecer ministerial, os acórdãos colacionados pela insurgente exarados nos nos autos do AgRg no ARESP 589.602/AC, Rel. Min. Antonio Carlos Ferreira, Dje de 11/12/2014 e REsp 472.801/SP, Rel. Min. Aldir Passarinho Junior, DJe de 17/3/2008 foram proferidos em 2014 e 2008, respectivamente, e não servem para demonstrar divergência atual e contemporânea ao julgamento ora questionado, consoante indicam os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE ANÁLISE MERITÓRIA DO RECURSO ESPECIAL. ART. 1.043, I E III, DO CPC/2015. SÚMULA 315/STJ. DISCUSSÃO ACERCA DA PRESTAÇÃO JURISDICIONAL APLICADA AO CASO CONCRETO. ART. 535 DO CPC DE 1973. IMPOSSIBILIDADE. DIVERGÊNCIA NÃO CONFIGURADA.
+1. (..)
+3. Nos termos do art. 1.043, I, III e § 4º, do CPC/2015, para que os Embargos de Divergência sejam admitidos, faz-se necessária a demonstração, entre outros requisitos: a) que os acórdãos embargado e paradigma sejam de mérito, ou se um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia; b) que a divergência seja atual; c) que haja similitude entre as premissas fáticas que envolvem os casos enfrentados no acórdão embargado e no paradigma; c) que as soluções jurídicas conferidas a esses casos sejam distintas.
+4. (..)
+6. Agravo Regimental não provido.
+AgRg nos EREsp 1803437/SC, Rel. Min. Herman Benjamin, Corte Especial, DJe de 17/06/2020. (grifos nossos)
+E ainda: AgRg nos EREsp 1734799/SP, Rel. Min. Sebastião Reis Júnior, Dje de 01/08/2019; AgRg nos EREsp 1447334/SP, Rel. Min. Herman Benjamin, DJe de 10/02/2016; AgInt nos EREsp 1923468/SP, Rel. Min. Maria Isabel Gallotti, DJe de 03/07/2023; EREsp 1559348/DF, Rel. Min. Moura Ribeiro, DJe de 06/06/2023; AgInt nos EAREsp 751567/MT, Rel. Min. Paulo de Tarso Sanseverino, DJe de 06/10/2022.
+2. Do exposto, com fundamento nos arts. 34, inc. XVIII e 266-C, ambos do RISTJ, nega-se provimento aos presentes embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
