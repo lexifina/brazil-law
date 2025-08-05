@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público, com fulcro no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o Juízo da execução indeferiu o pedido de remição formulado pela defesa com base no certificado expedido pela CENED na modalidade de ensino à distância (fl. 10).
+Irresignada, a defesa interpôs agravo em execução à Corte de origem, que deu provimento ao recurso, nos termos do acórdão juntado às fls. 39-45, com a seguinte ementa:
+AGRAVO EM EXECUÇÃO PENAL - RECURSO DEFENSIVO - REMIÇÃO DA PENA PELO ESTUDO POR METODOLOGIA À DISTÂNCIA - POSSIBILIDADE - COMPROVAÇÃO POR CERTIFICADO - RECURSO PROVIDO.
+- A Lei de Execuções Penais exige tão somente a certificação dos cursos frequentados, pela autoridade educacional competente, para fins de remição da pena, não havendo nenhuma exigência quanto à fiscalização das atividades por parte do estabelecimento prisional nem tampouco a necessidade de convênio entre a instituição educacional e o presídio.
+- Comprovado a conclusão em curso à distância, por meio de certificação, o deferimento da remição da pena é medida que se impõe
+Daí o presente recurso especial, interposto com fulcro no art. 105, III, a, do permissivo constitucional, em que sustenta a violação ao art. 126, §1º, inciso I e §2º, da Lei de Execução Penal, sob a premissa de que a remição da pena se deu sem comprovação por documento idôneo de instituição de ensino que tenha convênio com a Unidade Prisional, o que impossibilita a fiscalização e torna inviável a aferição da carga horária efetivamente cumprida pelo condenado.
+O recorrente requer o provimento do recurso especial para afastar a remição indevidamente deferida ao sentenciado.
+Não foram apresentadas contrarrazões.
+O recurso especial foi admitido (fls. 68-70).
+O Ministério Público Federal, às fls. 79-83, opinou nos termos da seguinte ementa:
+EXECUÇÃO PENAL. RECURSO ESPECIAL. REMIÇÃO DA PENA PELO ESTUDO. ENSINO À DISTÂNCIA. INSTITUIÇÃO DE ENSINO NÃO AUTORIZADA OU CONVENIADA COM O PODER PÚBLICO. IMPOSSIBILIDADE DE FISCALIZAÇÃO. INVIABILIDADE DE DEFERIMENTO DO BENEFÍCIO. PRECEDENTES DO STJ.
+PARECER PELO CONHECIMENTO E PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+Conforme relatado, sustenta a violação ao art. 126, §1º, inciso I e §2º, da Lei de Execução Penal, sob a premissa de que a remição da pena se deu sem comprovação por documento idôneo de instituição de ensino que tenha convênio com a unidade prisional, o que impossibilita a fiscalização e torna inviável a aferição da carga horária efetivamente cumprida pelo condenado.
+Na origem, o juízo da execução decidiu da seguinte forma (fl. 10):
+Trata-se de pedido do sentenciado de remição pela realização do curso Direção Defensiva, pela Instituição CENED, na modalidade EAD.
+Conforme pesquisa pelo site, observa-se que referida Instituição possui RECONHECIMENTO PELO MEC.
+Foi oficiado à Direção do Presídio para que esclarecesse se referido Instituto é autorizado ou conveniado com o Poder Público para fins de remição de pena, sendo informado que referidos cursos não dispõem de profissional para suporte pedagógico para realização e acompanhamento do ensino, não sendo dever ou função do servidor público atuar nessas atividades para o setor privado (evento 1372.1).
+Passo analisar.
+Em que pese o louvável esforço empreendido pelo sentenciado para obtenção de qualificação profissional, referida Instituição não está incluída em projeto pedagógico da unidade prisional.
+Há de se ressaltar, ainda, que este tipo de curso (EAD), pode ser realizada por qualquer pessoa portadora da senha de acesso ao curso, portanto, não há como comprovar se realmente o sentenciado realizou o curso, sem o acompanhamento de um profissional pedagógico da unidade prisional.
+Assim, tendo em vista que o pedido não atende aos requisitos previstos no art. 126, § 1º da LEP e a Recomendação 44/2013 do CNJ, INDEFIRO o pedido de remição.
+Ao reformar a decisão, assim se pronunciou o Tribunal de origem (fls. 40-44):
+Conforme adiantado alhures, a Defesa pretende a concessão da remição da pena pelo estudo realizado pelo apenado, ao argumento que preenchido os requisitos previstos no art. 126 da LEP (ordem n.º 08).
+A meu ver, com razão.
+Analisando detidamente os autos, nota-se que o sentenciado concluiu o curso de "Direção Defensiva", realizado no período de 14.09.2023 a 24.11.2023, por metodologia de ensino à distância, ministrado pela Escola Centro de Educação Profissional - CENED, com carga horária de com carga horária de 180 (cento e oitenta) horas (ordem n.º 03).
+Pois bem.
+Com efeito, o art. 126 da Lei de Execuções Penais dispõe sobre a remição de pena por estudo:
+ ..
+Sobre o tema, o Conselho Nacional de Justiça, ao editar a Resolução n.º 391/2021, que revogou a Recomendação n.º 44/2013, buscou estabelecer procedimentos e diretrizes para a remição por estudo, nos seguintes termos:
+ ..
+Nesse cenário, nota-se dos dispositivos colacionados alhures que a intenção da legislação é, além de incentivar o bom comportamento carcerário, abreviar parte do tempo da condenação do apenado por intermédio do estudo e, assim, proporcionar a reinserção social do reeducando com mais rapidez.
+Importa salientar, ainda, que a Lei de Execução Penal exige tão somente a certificação, pela autoridade educacional competente, dos cursos frequentados - tanto aqueles desenvolvidos de forma presencial quanto a distância -, não havendo nenhuma exigência no tocante a fiscalização das atividades por parte do estabelecimento prisional.
+De mais a mais, a legislação nem mesmo estabelece a exigência de que a instituição de ensino, onde o reeducando realizou o curso profissionalizante, esteja conveniada com a unidade prisional.
+Salienta-se, ainda, que Escola Centro de Educação Profissional - CENED é uma instituição educacional privada que integra o sistema de ensino do Distrito Federal, na modalidade de Educação Profissional Técnica de Nível Médio, credenciada na Secretaria de Estado de Educação do DF (Portaria 27/2014-SEDF, DODF 30, de 10/02/2014), e oferta também cursos de Formação Inicial e Continuada ou de Qualificação Profissional.
+Aliado a isso, o STJ já decidiu que "a norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado encorajando  .. , sendo possível o uso da analogia in bonam partem, que admita o benefício em comento em razão de atividades que não estejam expressas no texto legal, nos termos da Recomendação n. 44/2013 do Conselho Nacional de Justiça buscando, primordialmente, a readaptação do apenado ao convívio social." (AgRg no HC 416.050/SC, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 06/02/2018, D Je 19/02/2018).
+ ..
+Na espécie, comprovada e certificada a atividade educacional à distância, com carga horária de 180 (cento e oitenta) horas, ministrada pela Escola CENED, o sentenciado faz jus à remição de pena pelo período correspondente à carga horária do curso realizado.
+Isso posto, tendo em vista que o sentenciado preenche as normas do ordenamento jurídico, bem como as diretrizes da Resolução n.º 391/2021 do CNJ, a remição é medida que se impõe, nos moldes do art. 126 da LEP.
+DISPOSITIVO
+Diante do exposto, DOU PROVIMENTO AO RECURSO, para conceder a remição da pena pelo estudo ao sentenciado.
+O tema trazido à discussão nesta oportunidade, foi afetado para julgamento repetitivo, sem a suspensão dos casos em andamento, com a seguinte delimitação da controvérsia:
+Definir se, para obtenção da remição da pena pela conclusão de curso na modalidade a distância, a instituição de ensino deve ser credenciada junto à unidade prisional em que o reeducando cumpre pena para permitir a fiscalização das atividades e da carga horária efetivamente cumprida pelo condenado. (TEMA REPETITIVO N. 1236 - Relatoria M. Og Fernandes, REsp 2085556/MG, REsp 2086269/MG e REsp 2087212/MG).
+Como cediço, o artigo 126, §§1º, I, e 2º da Lei de Execução Penal estabelece que "a contagem de tempo referida no caput será feita à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias" e "as atividades de estudo a que se refere o §1º deste artigo poderão ser desenvolvidas de forma presencial ou por metodologia de ensino a distância e deverão ser certificadas pelas autoridades educacionais competentes dos cursos frequentados".
+A Recomendação nº 391/2021 do Conselho Nacional de Justiça, por sua vez, indica que as atividades escolares e práticas sociais educativas não-escolares, para fins de remição, devem estar integradas ao projeto político-pedagógico da unidade ou do sistema prisional.
+No caso, o Tribunal de origem, ao conceder a remição de pena, consignou que "a Lei de Execução Penal exige tão somente a certificação, pela autoridade educacional competente, dos cursos frequentados - tanto aqueles desenvolvidos de forma presencial quanto a distância -, não havendo nenhuma exigência no tocante a fiscalização das atividades por parte do estabelecimento prisional." e "a legislação nem mesmo estabelece a exigência de que a instituição de ensino, onde o reeducando realizou o curso profissionalizante, esteja conveniada com a unidade prisional.".
+Dessa forma, o acordão do Tribunal de Justiça não se alinha à consolidada jurisprudência desta Corte Superior, que entende que a remição de pena por estudo à distância exige certificação pelas autoridades educacionais competentes e comprovação das horas de estudo. Além disso, a documentação apresentada deve demonstrar a integração do curso ao projeto político-pedagógico da unidade prisional.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. REMIÇÃO DE PENA POR ESTUDO. ENSINO A DISTÂNCIA. REQUISITOS NÃO COMPROVADOS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a decisão de primeiro grau indeferindo pedido de remição de pena por estudo.
+2. O pedido de remição foi baseado na conclusão de cursos profissionalizantes na modalidade de ensino à distância, com apresentação de certificados que indicavam a carga horária total, mas sem comprovação da frequência efetiva e do cumprimento das horas diárias exigidas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a apresentação de certificados de conclusão de cursos à distância, sem comprovação da frequência efetiva e do cumprimento das horas diárias exigidas, é suficiente para a concessão da remição de pena por estudo, conforme o art. 126 da Lei de Execução Penal.
+III. Razões de decidir
+4. A decisão singular foi mantida, pois os certificados apresentados não comprovaram a frequência efetiva do apenado nos cursos, nem o cumprimento das horas diárias exigidas para a remição de pena.
+5. A jurisprudência desta Corte exige a comprovação da frequência e do cumprimento das horas de estudo, para a concessão da remição de pena por estudo.
+6. A ausência de fiscalização das horas de estudo realizadas à distância inviabiliza a remição pretendida, conforme entendimento consolidado do STJ.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A remição de pena por estudo exige a comprovação da frequência efetiva e do cumprimento das horas diárias exigidas, conforme o art. 126 da Lei de Execução Penal. 2. A ausência de fiscalização das horas de estudo realizadas à distância inviabiliza a remição pretendida."
+Dispositivos relevantes citados: LEP, art. 126; Resolução nº 391/2021 do CNJ. Jurisprudência relevante citada: STJ, AgRg no HC 640.074/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/05/2021; STJ, AgRg no HC 643.088/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 15/03/2021; STJ, HC 462.379/MG, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 28/03/2019.
+(AgRg no HC n. 970.371/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. ESTUDO À DISTÂNCIA. FISCALIZAÇÃO. INEXISTÊNCIA. RESOLUÇÃO N. 391/2021 DO CNJ. NÃO OBSERVÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor do art. 126, § 2º, da LEP, o estudo desenvolvido por metodologia do ensino à distância é passível de remição e deverá ser certificado pelas autoridades competentes. Consoante o art. 4º da Resolução n. 391/2021 do Conselho Nacional de Justiça, as atividades de educação não escolar, como cursos profissionalizantes, devem ser integradas ao projeto político-pedagógico da unidade prisional e realizadas por instituições de ensino autorizadas ou conveniadas com o poder público para esse propósito.
+2. Na hipótese, o reeducando apresentou certificado de conclusão e conteúdo programático referente a dois cursos - Direção Defensiva e Auxiliar de Oficina Mecânica -, na modalidade de ensino à distância, com carga horária de 180 horas, cada, disponibilizada em instituição denominada Escola CENED. A realização do EAD não foi informada ou fiscalizada pela unidade prisional, ou pelo Juiz da Execução. Segundo o Magistrado, "não há comprovação de que tal instituição e respectivos cursos oferecidos possuem convênio com o Poder Público e estão incluídas em projeto pedagógico da unidade prisional", assim como "não houve comprovação de controle de frequência, aproveitamento e acompanhamento realizados pela unidade prisional".
+3. A negativa da remição encontra amparo na jurisprudência desta Corte Superior, de que "a remição de pena pelo estudo somente é possível quando devidamente acompanhados de dados a respeito de carga diária de estudos, frequência escolar e métodos de avaliação empregados, além de haver habilitação da instituição para ministrar os cursos, nos termos do art. 126, §§ 1.º e 2.º, da Lei de Execução Penal - LEP" (AgRg no HC n. 887.730/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024).
+4. Agravo regimental não provido. (AgRg no HC n. 935.994/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. CURSO PROFISSIONALIZANTE À DISTÂNCIA. AUSÊNCIA DE INFORMAÇÕES ACERCA DA FREQUÊNCIA ESCOLAR, METODO DE AVALIAÇÃO E CARGA HORÁRIA DE ESTUDO. REVOLVIMENTO FÁTICO-PROBATÓRIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Conforme orientação jurisprudencial desta Corte, a remição de pena pelo estudo somente é possível quando devidamente acompanhados de dados a respeito de carga diária de estudos, frequência escolar e métodos de avaliação empregados, além de haver habilitação da instituição para ministrar os cursos, nos termos do art. 126, §§ 1.º e 2.º, da Lei de Execução Penal - LEP.
+3. No caso, o certificado acostado aos autos não consta informações acerca da frequência e do método avaliativo, contexto em que a alteração do julgado, com vistas à remição da pena, demandaria dilação probatória, incabível na via estreita do habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 887.730/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.)
+Além disso, se instituição responsável pela certificação dos cursos realizados pelo apenado (Centro de Educação Profissional - Escola CENED) apresenta credenciamento, na modalidade de ensino a distância, apenas para a oferta de dois cursos (Técnico em Secretaria Escolar e Técnico em Transações Imobiliárias), que não coincidem com aquele realizado pelo reeducando, inviável a remição. Nesse sentido: AgRg no HC 821778 / PR, Relator Ministro Reynaldo Soares Da Fonseca, Quinta Turma, julgado em 30/05/2023, DJe 05/06/2023.
+Ante o exposto, dou provimento ao recurso especial para afastar a remição deferida ao recorrido.
+Publique-se.
+Intimem-se.
+EMENTA
