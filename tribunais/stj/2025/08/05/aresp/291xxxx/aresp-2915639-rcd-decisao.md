@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de petição apresentada por CHANCELLER CONSULTORIA E NEGOCIOS EM EVENTOS LTDA E CHANCELLER PRODUÇÕES E EVENTOS LTDA, por meio da qual postula a reconsideração da decisão que determinou a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema 1306) e eventual retratação prevista nos arts. 1.040, inc. II, e 1.041, ambos do CPC/15.
+Sustenta, em suma, que o objeto do presente recurso diverge daquele submetido a julgamento sob o rito dos recursos repetitivos - Tema 1306, pois a Turma julgadora apresentou as razões pelas quais negou provimento aos recursos das partes em sede de embargos de declaração.
+É o relatório.
+Decido.
+Não merece acolhida o pedido ora formulado.
+1. Conforme asseverado na decisão de fls. 1717/1718 (e-STJ), restou afetada para o julgamento sob o rito dos recursos repetitivos - Tema 1306 - a seguinte tese:
+"Definir se a fundamentação por referência ( ou por remissão) - naper relationem qual são reproduzidas as motivações contidas em decisão judicial anterior como razões de decidir - resulta na nulidade do ato decisório, à luz do disposto nos artigos 489, § 1º, e 1.022, parágrafo único, inciso II, do CPC de 2015."
+No caso dos autos, foi exatamente o que ocorreu, pois o acórdão recorrido cingiu-se a transcrever os fundamentos da sentença, consignando expressamente que estava a se valer da técnica de motivação "per relationem".
+Com efeito, o fato do Tribunal a quo, quando do julgamento dos embargos de declaração, ter tecido três parágrafos de comentários sobre o conteúdo da sentença, não é suficiente, a meu ver, por ora, para afastar a aplicação do tema repetitivo ao caso em comento, haja vista que, somente com seu julgamento, serão estabelecidas as balizas para aplicação da tese fixada e, aí assim, será possível dizer com convicção sobre a aplicação, ou não, da tese assentada na espécie, considerando a peculiaridade apontada pela parte recorrida.
+De rigor, portanto, a manutenção da decisão ora atacada, sendo oportuno a advertência de que eventual recurso protelatório será, na próxima vez, apenado com multa.
+Por fim, reitera-se o registro de que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Sobre o tema: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2. Ante o exposto, indefiro o pedido ora formulado, confirmando, portanto, o comando exarado na decisão de fls. 1717/1718 (e-STJ), que determinou a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema 1306) e eventual retratação prevista nos arts. 1.040, inc. II, e 1.041, ambos do CPC/15.
+Publique-se.
+Intimem-se.
+EMENTA
