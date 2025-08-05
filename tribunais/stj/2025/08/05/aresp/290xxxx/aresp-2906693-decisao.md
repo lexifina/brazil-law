@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por ITAÚ SEGUROS S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 312 e-STJ):
+Ação de cobrança c/c danos morais. Seguro prestamista vinculado a contrato de empréstimo. Morte da segurada. Negativa de cobertura do seguro, sob alegação de possível doença preexistente. Sentença de procedência. Pretensão de reforma. Descabimento. Ausência de exigência de exames prévios ou de demonstração de má-fé do segurado. Verbete nº 609 da Súmula de Jurisprudência do STJ. É de rigor a condenação do réu à quitação do saldo devedor do financiamento e à restituição do valor pago após o falecimento. Sentença mantida. Recurso desprovido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 345-349 e-STJ).
+Em suas razões de recurso especial (fls. 352-369 e-STJ), a parte recorrente aponta violação aos seguintes dispositivos legais:
+(i) artigos 489, § 1º, IV, e 1.022 do Código de Processo Civil, sob a alegação da existência de omissão e negativa de prestação jurisdicional no acórdão recorrido acerca da matéria suscitada nos embargos de declaração; e
+(ii) artigos 422, 757, 760, 765, 766 do Código Civil; e 927, IV, do CPC, além de divergência jurisprudencial, sustentando, em suma, a ocorrência de má-fé do segurado em ocultar doença preexistente a contratação do seguro de vida, não sendo devida o pagamento de indenização.
+Não foram apresentadas contrarrazões.
+Em sede de juízo provisório de admissibilidade (fls. 385-388 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação aos arts. 489 e 1.022 do CPC; b) aplicação dos óbices das Súmulas 282/STF e 7/STJ; e c) não comprovação do dissídio jurisprudencial.
+Daí o agravo (fls. 391-406 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa aos artigos 489 e 1022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Alegou a parte recorrente que o acórdão impugnado restou omisso quanto à alegação de "que, à época da contratação, a segurada tinha ciência do diagnóstico hipertensão arterial sistêmica e adenocarcinoma de pulmão, tendo agido de má-fé ao omitir a doença preexistente no momento da contratação do seguro".
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente acerca das questões essenciais ao deslinde da controvérsia. Confira-se (fls. 315- e-STJ):
+Ressalta-se que a juntada aos autos do prontuário médico e a apresentação de documentos médicos pelos autores não teriam o condão de demonstrar que o segurado, intencionalmente, prestou informações inverídicas ao réu. Não é possível presumir a má-fé do segurado pela simples existência de doença preexistente quando a seguradora não exigiu exames médicos prévios. A seguradora, ao aceitar a contratação do seguro sem tomar as cautelas cabíveis, assumiu o risco do negócio. (..).
+Dessa forma, em razão do falecimento da segurada, e nos termos do contrato firmado entre as partes, cabe ao réu a quitação do saldo devedor do financiamento e a devolução do valor total já pago após o falecimento.
+E quando do julgamento dos embargos de declaração, o órgão julgador complementou que (fls. 347-348 e-STJ):
+Constou do v. acórdão que, nos termos do verbete nº 609 da Súmula de Jurisprudência do STJ, a recusa da cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houver exigência de exames prévios à contratação ou demonstração de má-fé do segurado. Trata-se de relação de consumo e, com a reversão do ônus da prova decorrente do art. 14 do CDC, incumbiria ao réu provar que exigiu exames médicos prévios ou que houve má-fé do segurado, ônus do qual não se desincumbiu.
+Ressaltou-se que a juntada aos autos do prontuário médico e a apresentação de documentos médicos pelos autores não teriam o condão de demonstrar que o segurado, intencionalmente, prestou informações inverídicas ao réu. Não é possível presumir a má-fé do segurado pela simples existência de doença preexistente quando a seguradora não exigiu exames médicos prévios. A seguradora, ao aceitar a contratação do seguro sem tomar as cautelas cabíveis, assumiu o risco do negócio.
+Concluiu-se que, em razão do falecimento da segurada, e nos termos do contrato firmado entre as partes, cabe ao réu a quitação do saldo devedor do financiamento e a devolução do valor total já pago após o falecimento. Verifica-se, assim, que o v. acórdão apreciou de forma adequada e objetiva a matéria apontada pela parte recorrente, de modo que não há o que se declarar.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação aos artigos 489 e 1.022 do CPC/15.
+2. No mérito, cinge-se a pretensão recursal à verificação acerca da legalidade da negativa de cobertura securitária no caso dos autos.
+Com efeito, prevalece nesta Corte Superior o entendimento segundo o qual a seguradora, para se valer da alegação de doença preexistente à assinatura do contrato com vistas a eximir-se do pagamento da indenização securitária, há de exigir a realização de exames prévios ou, não sendo estes realizados, comprovar a má-fé do segurado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESCISÃO UNILATERAL. IMPOSSIBILIDADE. SÚMULA Nº 568/STJ. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O entendimento jurisprudencial do Superior Tribunal de Justiça é firme no sentido de que, sem a exigência de exames prévios e não provada a má-fé do segurado, é ilícita a recusa da cobertura securitária sob a alegação de doença preexistente à contratação do seguro.
+4. Quando as conclusões da Corte de origem resultam da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda, não há como infirmar tal posicionamento em virtude da incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1817514/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2021, DJe 16/12/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. DOENÇA PREEXISTENTE DO SEGURADO. AUSÊNCIA DE EXAMES PRÉVIOS À CONTRATAÇÃO. NEGATIVA DE COBERTURA. IMPOSSIBILIDADE. SÚMULA 609/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, nos termos da Súmula 609 do STJ, não é possível à seguradora recusar a cobertura securitária alegando a existência de doença preexistente se deixou de exigir, antes da contratação, a realização de exames médicos pela parte segurada.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1919305/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2021, DJe 26/11/2021)  grifou-se
+Ressalta-se que o referido entendimento jurisprudencial restou sumulado por esta Corte Superior, nos termos do enunciado da Súmula 609 do STJ:
+A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado
+No caso em tela, consoante se depreende dos autos, não houve a realização de qualquer exame prévio que constatasse, à época da assinatura do contrato, o real estado de saúde do de cujus.
+2.1. Ademais, para derruir a conclusão a que chegou a Corte local sobre fato da recorrente não ter exigido qualquer exame prévio de saúde do de cujus antes de celebrar o contrato de seguro, bem como de não ter havido má-fé por parte deste, seria imperioso o revolvimento do contexto fático e probatório dos autos.
+À vista disso, impõe-se reconhecer, na hipótese, a incidência da Súmula 7/STJ, a qual veda o manejo de recurso especial que visa, tão somente, o reexame de provas.
+Nesse sentido, citam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. FALECIMENTO DA SEGURADA CORRELACIONADO A DOENÇA PREEXISTENTE NÃO INFORMADA NA PROPOSTA DE ADESÃO AO CONTRATO DE SEGURO. RECUSA DE COBERTURA DA SEGURADORA. SÚMULA 609 DO STJ. PECULIARIDADES DO CASO CONCRETO. PREMISSAS FIXADAS PELO TRIBUNAL DE ORIGEM ACERCA DA DEMONSTRAÇÃO DA MÁ-FÉ DA SEGURADA, PORTADORA DE DOENÇA GRAVE INCURÁVEL CONHECIDA DESDE A INFÂNCIA E QUE LHE CAUSOU INÚMERAS COMPLICAÇÕES AO LONGO DA VIDA. PRETENSÃO DE REVISÃO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1794996/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. NÃO CABIMENTO DA RECUSA DE COBERTURA. DOENÇA PREEXISTENTE. MÁ-FÉ DO SEGURADO QUE NÃO DECORRE DA SIMPLES OMISSÃO. INTENÇÃO MALICIOSA NÃO DEMONSTRADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Segundo orientação jurisprudencial desta Corte, a recusa da seguradora ao pagamento da indenização contratada, sob a alegação de doença preexistente, pressupõe a realização de exame médico antes da contratação ou a comprovação de que o contrato de seguro foi celebrado pelo segurado com má-fé.
+2. Acrescente-se que a jurisprudência do Superior Tribunal de Justiça tem reiteradamente afastado a má-fé do contratante de seguro de vida que omite, no questionário integrante da proposta, a preexistência de moléstias graves e até mesmo incuráveis quando este sobrevive por vários anos, aparentando estado de saúde e de vida praticamente normais (AgInt no AREsp 1.355.356/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/8/2019, DJe 27/8/2019).
+3. Para concluir que o segurado teria agido de má-fé, seria indispensável o reexame fático-probatório, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1788274/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/05/2021, DJe 13/05/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA. SEGURO DE VIDA. DOENÇA PRE-EXISTENTE. ALEGADA MÁ-FÉ DO SEGURADO. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal da alegada má-fé do segurado demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. O acórdão estadual está em harmonia com o entendimento adotado neste Sodalício, no sentido de que a doença preexistente só pode ser oposta pela seguradora ao segurado mediante a realização de prévio exame médico ou prova inequívoca de sua má-fé o que, na espécie, não ocorreu. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1622988/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 03/03/2021)  grifou-se
+Inviável, portanto, o provimento do recurso especial, ante a incidência dos óbices das Súmulas 7 e 83 do STJ.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
