@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DE INTIMAÇÃO. IMPOSSIBILIDADE. FALÊNCIA E EXTINÇÃO DAS OBRIGAÇÕES DO DEVEDOR. EXTINÇÃO DA EXECUÇÃO. CABIMENTO.
+1. Trata-se de apelação interposta pela Fazenda Nacional em face de sentença que extinguiu a execução fiscal sem resolução do mérito em razão de sentença, já transitada em julgado, que decretou a falência da empresa executada e declarou extintas as obrigações da devedora. Sem honorários advocatícios.
+2. Em suas razões recursais, a apelante defende a nulidade da sentença recorrida por cerceamento de defesa (nulidade de intimação por ofensa ao disposto no art. 25, parágrafo único, da LEF, bem como do art. 38 da Lei Complementar nº 73/93 e parágrafo 1º, do art. 6º, da Lei 9.028/95 e do novel at. 183 do CPC) e desobediência ao princípio da não-surpresa. Relata que o feito tramitou na comarca de Paracuru, não tendo a recorrente acesso aos autos (processo físico), pois a representação da PFN no Ceará se localiza na comarca de Fortaleza. Afirma que sua intimação ocorreu por simples carta (ficta) e não por remessa dos autos com vista. Alega que foi forçada a interpor o recurso de apelação adotando como termo inicial para contagem do prazo a data do recebimento da carta de intimação da decisão que indeferiu o pedido de nulidade. Por fim, aduz que a sentença de encerramento da falência não pode ser proferida sem a apresentação de certidão de quitação das dívidas tributárias. Pugna pelo prosseguimento do feito.
+3. Não merece prosperar a alegação de nulidade da sentença recorrida por cerceamento de defesa. Foi oportunizado o contraditório e a ampla defesa, visto que o prazo para recorrer foi renovado e a Fazenda Nacional apresentou seu recurso (Id. 30950753 - p. 12).
+4. Conforme o princípio pas de nullité sans grief não se declara a nulidade processual sem que haja prejuízo para as partes. Como a apelação da Fazenda foi recebida, não há que se falar em nulidade da intimação.
+5. Consta nos autos sentença que declarou a extinção das obrigações do devedor, a teor do artigo 155 do Decreto-Lei 7.661/45, com trânsito em julgado (Id. 30950756 - p. 28).
+6. Como o processo falimentar foi encerrado e não há razões para o redirecionamento da execução fiscal, deve ser mantida a extinção do processo sem exame do mérito, nos termos do artigo 485, inciso IV, do CPC, não se aplicando a regra prevista no artigo 40 da LEF.
+7. Apelação improvida. (fl. 94)
+Embargos de declaratórios rejeitados (fls. 113/116).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta ofensa aos arts. 485, 489, II, § 1º, IV, e 1.022, II, do CPC; e 155 do Decreto-Lei 7.661/1945.
+Sem contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+Não merece prosperar a alegação de nulidade da sentença recorrida por cerceamento de defesa. Foi oportunizado o contraditório e a ampla defesa, visto que o prazo para recorrer foi renovado e a Fazenda Nacional apresentou seu recurso (Id. 30950753 - p. 12).
+Conforme o princípio pas de nullité sans grief, não se declara a nulidade processual sem que haja prejuízo para as partes. Como a apelação da Fazenda foi recebida, não há que se falar em nulidade da intimação.
+Consta nos autos sentença que declarou a extinção das obrigações do devedor, a teor do artigo 155 do Decreto-Lei 7.661/45, com trânsito em julgado (Id. 30950756 - p. 28).
+Como o processo falimentar foi encerrado e não há razões para o redirecionamento da execução fiscal, deve ser mantida a extinção do processo sem exame do mérito, nos termos do artigo 485, inciso IV, do CPC, não se aplicando a regra prevista no artigo 40 da LEF. (fls. 99/100 - Grifo nosso)
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Por outro lado, observo que o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente que:
+Consta nos autos sentença que declarou a extinção das obrigações do devedor, a teor do artigo 155 do Decreto-Lei 7.661/45, com trânsito em julgado (Id. 30950756 - p. 28).
+Como o processo falimentar foi encerrado e não há razões para o redirecionamento da execução fiscal, deve ser mantida a extinção do processo sem exame do mérito, nos termos do artigo 485, inciso IV, do CPC, não se aplicando a regra prevista no artigo 40 da LEF. (fls. 99/100 - Grifo nosso)
+No presente caso, a parte recorrente alega a convolação de concordata suspensiva, não havendo se falar em encerramento da falência.
+Nesta circunstância, ilidir o afirmado pelas instâncias ordinárias, acatando toda a linha argumentativa da recorrente, para fins de reconhecer a inexistência de falência empresarial apta a promover o encerramento das obrigações da parte executada e possibilitar o redirecionamento do feito, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. FGTS. DÍVIDA NÃO TRIBUTÁRIA. PEDIDO DE REDIRECIONAMENTO COM BASE NA LEGISLAÇÃO CIVIL. POSSIBILIDADE. RESP 1.371.128/RS, REL. MIN. MAURO CAMPBELL MARQUES, DJE 17.9.2014, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. REGULAR PROCESSO DE FALÊNCIA. DISSOLUÇÃO IRREGULAR DA EMPRESA NÃO VERIFICADA. DESCABE REDIRECIONAR A EXECUÇÃO QUANDO NÃO HOUVE COMPROVAÇÃO DE EXCESSO DE MANDATO OU INFRINGÊNCIA À LEI, AO CONTRATO SOCIAL OU AO ESTATUTO. JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. O encerramento da empresa executada, mediante regular processo de falência, devidamente registrado perante a Junta Comercial, não legitima o redirecionamento da Execução Fiscal, acaso não comprovado comportamento fraudulento, a prática de atos com excesso de poder, violação à lei, ao contrato ou ao estatutos sociais. Precedentes: REsp. 1.470.840/SP, Rel. Min. HUMBERTO MARTINS, DJe 12.12.2014; AgRg no AREsp. 435.125/SP, Rel. Min. SÉRGIO KUKINA, DJe 19.3.2014.
+5. In casu, o acórdão recorrido está em sintonia com atual orientação do STJ, motivo pelo qual não merece prosperar a irresignação, nos termos da Súmula 83/STJ, cuja incidência também pode ocorrer nas hipóteses de interposição de Recurso Especial pela alínea a do permissivo constitucional.
+6. Agravo Regimental da FAZENDA NACIONAL a que se nega provimento. (AgRg no AREsp n. 524.935/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/5/2016, DJe de 27/5/2016).
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PROCESSO FALIMENTAR. SÓCIO. REDIRECIONAMENTO. COMPROVAÇÃO DE ENQUADRAMENTO NAS HIPÓTESES DO ART. 135 DO CTN. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Na hipótese de processo falimentar, este STJ possui compreensão firmada no sentido de que, esgotados os bens da sociedade empresária falida, a execução somente pode ser redirecionada para o patrimônio dos sócios gerentes quando comprovada a prática de atos com excesso de poderes ou infração à lei. A propósito: AgRg no AREsp 128.924/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/08/2012, DJe 03/09/2012 e AgRg no REsp 1.160.981/MG, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 04/03/2010, DJe 22/03/2010.
+2. A alteração das conclusões adotadas pela Corte de origem, quanto à demonstração de que o sócio agiu com excesso de poderes ou infração à lei, contrato social ou estatutos, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 435.125/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/3/2014, DJe de 19/3/2014 - Grifo nosso)
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
