@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo interposto por DESIGN SOLIDO-COMERCIO DE MOVEIS LTDA., RODRIGO BARROS BARRETO MARTINS e SANDRA MAIA HERZ contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 76):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORAS REALIZADAS SOBRE IMÓVEIS. BEM REGISTRADO NO NOME DA EXECUTADA NO CARTÓRIO DE REGISTRO DE IMÓVEIS. ALEGAÇÃO DE VENDA DE COTA-PARTE. ART. 624 DO CPC. PENHORA ANTERIOR. USUFRUTO VITALÍCIO. CONSTRIÇÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. O imóvel penhorado encontra-se registrado no Cartório de Registro de Imóveis em nome da executada, devendo subsistir o ato constritivo.
+1.1. O pedido de desconstituição da penhora do imóvel que se encontra registrado em nome da executada ao argumento de que houve venda de cota-parte a terceiro encontra óbice no artigo 18 do Código de Processo Civil, que prescreve: "ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico".
+1.2. Por conseguinte, quem for o atual proprietário, pode utilizar-se de ação própria para defesa de interesse de terceiro não participante dos autos nos termos do art. 674 do CPC.
+2. Inexiste óbice ao registro de nova penhora sobre o imóvel, observados o direito de preferência e anterioridade da constrição.
+3. É certo que "O direito do nu-proprietário pode ser alienado ou constrito, e, por conseguinte, pode ser objeto de penhora a nua-propriedade de imóvel com usufruto vitalício, ficando resguardado o direito real de usufruto até sua extinção" (Acórdão 1159174, 07204269320188070000, Relator: ANA CANTARINO, 8ª Turma Cível, data de julgamento: 13/3/2019, publicado no DJE: 25/3/2019. Pág.: Sem Página Cadastrada.). 3.1. E, no caso, nenhum óbice à penhora, já que eventual dificuldade de eventual alienação não constitui impedimento à constrição.
+4. Os princípios da menor onerosidade e da economicidade mencionados pelos executados devem ser observados considerando também que a execução se realiza no interesse do credor, que, em resposta à impugnação à penhora, reafirmou o interesse na manutenção das constrições ainda que eventual alienação possa ser dificultada
+5. Agravo de instrumento conhecido e não provido.
+Sem embargos de declaração.
+No recurso especial, alegam os recorrentes violação dos arts. 9º e 18 do CPC.
+Asseveram a possibilidade de desconstituição da penhora sobre o imóvel alienado sem a necessidade de oposição de embargos de terceiro, em atenção à primazia do julgamento de mérito e da economia processual.
+Aduzem que o imóvel de matrícula 61.442 teve quota-parte alienada anteriormente e que a penhora seria inócua devido ao registro de penhora anterior em outro processo.
+Requerem o provimento do recurso especial para reconhecer que a quota-parte do imóvel não integra a esfera patrimonial da recorrente, ou, alternativamente, que a questão seja devolvida ao Tribunal de origem para julgamento.
+Foram oferecidas contrarrazões ao recurso especial (fls.135-147).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 150-152), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 165-175).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Na origem, cuida-se de execução de título extrajudicial, apoiada em contrato de aluguel inadimplido.
+O Tribunal de origem, analisando o agravo de instrumento interposto contra a decisão do Juízo de primeiro grau, que manteve a penhora dos imóveis de matrícula n. 61.442 e 43.156, fundamentou o acórdão nos seguintes termos (fls. 79-81):
+Quanto ao primeiro imóvel, situado à SHCGN 703, Bloco B, Casa 04, Asa Norte, Brasília/DF (endereço atualizado), aduzem os agravantes que a penhora seria ineficaz porque: a) houve venda da cota-parte; b) há penhora anterior registrada na matrícula do imóvel.
+Em que pese a argumentação desenvolvida, sem razão aos recorrentes.
+O referido imóvel penhorado encontra-se registrado no Cartório do 2º Ofício de Registro de Imóveis do DF em nome da executada SANDRA MAIA HERZ, casada sob o regime de comunhão parcial de bens com o executado RODRIGO BARROS BARRETO MARTINS, consoante demonstra o registro da matrícula do imóvel, à qual compete 1/48 (um quarenta e oito avos) do bem (ID 115674560).
+Embora haja indícios de venda da cota-parte a terceiros, importa destacar que o artigo 18 do Código de Processo Civil prescreve que "ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico".
+Assim, eventual questionamento da penhora realizada deve ser aduzido em ação própria para defesa de interesse de terceiro não participante dos autos, nos termos do art. 674 do CPC.
+O fato é que, no momento, o bem está registrado em nome da referida executada na proporção acima mencionada, e pode responder pelos débitos ora cobrados. E, como bem observado pelo juízo a quo, nada obsta o registro de nova penhora sobre o imóvel, observados o direito de preferência e anterioridade da constrição.
+ ..
+Quanto à penhora de 50% do segundo imóvel, situado na SQN 307, Bloco A, Apartamento 505, registrado perante o 2º Ofício de Registro de Imóveis do Distrito Federal sob a matrícula 43.156, também não assiste razão aos recorrentes.
+Aduzem, em suma, que o imóvel está gravado por usufruto vitalício em favor de IONISE MAIA HERZ, e que tal circunstância, apesar de não impedir a constrição, significaria "dificuldade na alienação em razão da impossibilidade de exercer a posse, domínio, a propriedade dos frutos do imóvel até que seja extinto o usufruto" (ID 53124558).
+É certo que "O direito do nu-proprietário pode ser alienado ou constrito, e, por conseguinte, pode ser objeto de penhora a nua-propriedade de imóvel com usufruto vitalício, ficando resguardado o direito real de usufruto até sua extinção" (Acórdão 1159174, 07204269320188070000, Relator: ANA CANTARINO, 8ª Turma Cível, data de julgamento: 13/3/2019, publicado no DJE: 25/3/2019. Pág.: Sem Página Cadastrada.).
+E, no caso, nenhum óbice à penhora, já que eventual dificuldade de alienação não constitui impedimento à constrição.
+ ..
+Os princípios da menor onerosidade e da economicidade, mencionados pelos executados, devem ser observados considerando também que a execução se realiza no interesse do credor, que, em resposta à impugnação à penhora, reafirmou o interesse na manutenção das constrições ainda que eventual alienação possa ser dificultada.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PARCELAMENTO. VEDAÇÃO SOB A ÉGIDE DO CPC/2015. SÚMULA 83/STJ. MENOR ONEROSIDADE. VIOLAÇÃO. INEXISTÊNCIA. SÚMULA 83/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça, formada à luz do diploma processual revogado, admitia a realização, no cumprimento de sentença, do parcelamento do valor da execução pelo devedor previsto apenas para a execução de título executivo extrajudicial (art. 745-A do CPC/1973), em virtude da incidência das regras desta espécie executiva subsidiariamente àquela, conforme dispunha o art. 475-R do CPC/1973" (REsp 1.891.577/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/5/2022, DJe de 14/6/2022).
+2. "Embora deva a execução ser processada do modo menos gravoso ao devedor, ela há de realizar-se no interesse do credor, que busca, pela penhora, a satisfação da dívida inadimplida" (AgInt no AREsp 956.931/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/3/2017, DJe de 10/4/2017).
+3. O Tribunal de origem, mediante o exame dos elementos informativos da demanda, concluiu que a penhora das contas da empresa não implicou forma mais gravosa de execução.
+4. Infirmar as conclusões do julgado demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.245.108/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/8/2023, DJe de 25/8/2023, g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA JULGADO PROCEDENTE. ALEGADA VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DISCUSSÃO ACERCA DA LEGALIDADE DO CONTRATO DE MÚTUO. MANUTENÇÃO DA SÚMULA 7/STJ. SUFICIÊNCIA DA PENHORA. MANUTENÇÃO DA SÚMULA 7/STJ. ADEQUAÇÃO DA VIA ELEITA. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. Acerca da legalidade do contrato de mútuo, o Tribunal a quo não presumiu a fraude na celebração do contrato de mútuo porque celebrado por prazo indeterminado e sem encargos remuneratórios. Demonstrou que firmou sua convicção, para negar provimento ao agravo de instrumento, com base nas provas documentais fartas produzidas no processo principal. Assim, inviável a pretensão recursal, posto que exige revolvimento fático-probatório, vedado pela Súmula 7/STJ.
+3. No caso, perscrutar a suficiência do valor penhorado em cotejo com o débito perseguido na exordial implica reexame probatório, vedado pela Súmula 7/STJ.
+4. No que concerne ao instrumento processual, para a desconsideração da personalidade jurídica, o Tribunal a quo entendeu pelo acolhimento do incidente, pois não seria o caso de ação pauliana, na medida em que caracterizar-se-ia a fraude contra credores se as alegações fossem de alienação fraudulenta de bens a verdadeiros terceiros, sem relação empresarial e sem vínculos indiretos com o débito, o que não se enquadra no caso dos autos. Acórdão recorrido em sintonia com a jurisprudência do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.971.280/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022, g.n.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE BENS MÓVEIS. EQUIPAMENTOS MEDICOS. EXECUÇÃO DE TITULO EXTRAJUDICIAL. PEDIDO DE PREFERÊNCIA DE PENHORA. MATÉRIA PRELIMINAR SUSCITADA EM SEDE DE CONTRAMINUTA. PEDIDO DE PREFERÊNCIA DE PENHORA. INEXISTÊNCIA DE CRÉDITO PENHORADO NO ROSTO DOS AUTOS. INEXISTÊNCIA DE CONCURSO DE PENHORAS. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria foi objeto de exame em decisão exarada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O exame da pretensão recursal de reforma do acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, reinterpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.909.828/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022, g.n.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE QUOTA-PARTE. ALIENAÇÃO A TERCEIRO. NÃO COMPROVADA. ALTERAÇÃO DAS CONCLUSÕES DA CORTE DE ORIGEM. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
