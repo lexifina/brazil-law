@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DANIELA DE MELLO SILVA, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/ES.
+Agravo em Recurso especial interposto em: 5/12/2025.
+Concluso ao gabinete em: 7/11/2024.
+Ação: mandado de segurança impetrado por METRON ENGENHARIA LTDA contra ato atribuído ao juízo da Primeira Turma do Colegiado Recursal da Capital do Espírito Santo.
+Acórdão: o TJ/ES concedeu parcialmente os pedidos realizados no mandado de segurança impetrado por METRON ENGENHARIA LTDA, nos termos da seguinte ementa:
+MANDADO DE SEGURANÇA - DEMANDA QUE TRAMITOU NO JUIZADO ESPECIAL CÍVEL INCOMPETÊNCIA ABSOLUTA - NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL COMPLEXA - NULIDADE DOS ATOS DECISÓRIOS - REMESSA DOS AUTOS AO JUÍZO COMPETENTE - SEGURANÇA PARCIALMENTE
+1. "É admitida a impetração de mandado de segurança perante os Tribunais de Justiça dos Estados para o exercício do controle de competência dos juizados especiais, ficando a cargo das Turmas Recursais, a teor do que dispõe a Súmula 376/ST , apreciar os mandados de segurança que tenham por objetivo o controle de mérito dos atos de juizado especial." (Aglnt no RMS 57.285/DF, Rei. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/09/2019, DJe 18/09/2019)
+2. O artigo 3 , da Lei nº 9.099/95 estabelece que o "o Juizado Especial Cível tem competência para conciliação, processo e julgamento das causas cíveis de menor complexidade".
+3. A mera necessidade de produção de prova pericial, de forma isolada, não ensejaria, necessariamente, a incompetência dos Juizados Especiais, uma vez que o art. 35, da Lei n  9.099/95 admite a produção de prova técnica, inclusive com apresentação de parecer.
+4. No âmbito do processo Originário restou sedimentado o entendimento de que a prova pericial seria desnecessária naqueles autos - em trâmite no Juizado Especial uma vez que os elementos probatórios eram suficientes à formação da convicção do julgador, mormente por existir laudo pericial já produzido no bojo da ação ajuizada pelo Condomínio do Ed. Privilege em face da impetrante.
+5. Porém, o laudo apresentado no bojo daquela ação que tramitou perante a 5ª Vara Cível de Vitória (nº 0018268-12.2015.8.08.0024) cuidava de análise preliminar que, embora produzido por perito a conclusão adotada em caráter inicial. Documento recebido eletronicamente da origem judicial, necessitava de posterior complementação e aprofundamento das questões com a finalidade de ratificar ou não a conclusão adotada em caráter inicial.
+6. A verificação ou não do abalo extrapatrimonial - para fins de indenização por danos morais pretendida pela autora na demanda de origem - perpassa pela análise acerca da existência ou não de ato ilícito (vício na construção) praticado pela impetrante.
+7. O direito líquido e certo da impetrante restou devidamente comprovado, na medida em que a prova a ser produzida acerca do suposto ato ilícito cometido é complexa, demandando uma análise técnica exauriente a qual ainda poderá ser complementada caso haja necessidade.
+8. A complexidade da prova a ser produzida afasta a competência dos Juizados Especiais Cíveis para processar e julgar a lide, devendo ser reconhecida a competência absoluta do Juízo Cível para tanto.
+9. A incompetência absoluta, por si só, não enseja a extinção do feito sem resolução do mérito, tal como pleiteado pela impetrante, na medida em que não se afigura como hipótese em que o juiz não resolverá o mérito (art. 485, CPC).
+10. Sendo reconhecida a incompetência absoluta do 4º Juizado Especial Cível de Vitória e da 1ª Turma do Colegiado Recursal da Capital, para processar e julgar o processo nº 01843673.2019.8.08.0347, revela-se necessário anular a sentença proferida naqueles autos, e todos os atos subsequentes, por se tratar de ato decisório proferido por juízo absolutamente incompetente, procedendo-se, em seguida, com a distribuição e remessa dos autos a uma das Varas Cíveis do Juízo de Vitória - Comarca da Capital, juízo esse que será competente para apreciar a demanda e, eventualmente, aproveitar os atos já praticados.
+11. Segurança concedida em parte.
+(e-STJ fl. 714)
+Embargos de declaração: opostos por DANIELA DE MELLO SILVA, foram rejeitados.
+Recurso especial: alega violação dos arts. 370, 371, 372, 489, § I o, IV, e 1.022 do CPC; art. 12 do CDC; art. 3º, I da Lei 9.099/95, além de dissídio jurisprudencial, sustentando que: (I) omissão do acórdão acerca de questões suscitadas nos embargos de declaração; (II) descabimento da solução adotada pelo Tribunal, diante da indevida reanálise do mérito da causa subjacente, bem como da (III) ausência de pedido de produção de prova pericial no processo de origem.
+Juízo prévio de admissibilidade: o TJ/ES inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+É O RELATÓRIO. DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Conforme a jurisprudência desta Corte, "não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (REsp 1.995.565/SP, Terceira Turma, DJe 24/11/2022).
+No particular, o acórdão recorrido decidiu, fundamentada e expressamente, acerca da (I) competência do juizado especial civil; (II) da complexidade de prova pericial técnica exigida na especificidade da demanda; (III) e da possibilidade de o Juízo competente aproveitar ou não os atos proferidos; de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, ausente omissão, contradição, obscuridade ou erro material e devidamente analisadas as questões de mérito, estando suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não se verifica violação aos arts. 489, § 1º, e 1.022 do CPC.
+- Do reexame de fatos e provas
+No particular, ainda, alterar o decidido no acórdão recorrido quanto à conclusão acerca da necessidade de produção de prova pericial técnica e sua repercussão na complexidade da causa, exige o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, por força da Súmula 7 do STJ.
+- Da divergência jurisprudencial
+Conforme a jurisprudência desta Corte, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a comprovação da divergência, mediante o cotejo analítico entre o acórdão recorrido e os acórdãos paradigmas, de modo a demonstrar as circunstâncias que assemelham os julgados confrontados, não bastando a simples transcrição de ementas (AgInt no AREsp 2.071.619/SC, Terceira Turma, DJe 12/9/2023; AgInt no AREsp 2.083.107/RS, Quarta Turma, DJe 12/5/2023; AgInt no REsp 2.012.583/PR, Terceira Turma, DJe de 15/3/2023).
+Na espécie, a recorrente não fez o devido cotejo analítico, de modo que o recurso não merece ser conhecido quanto ao ponto.
+Ademais, a incidência da Súmula 7/STJ acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da CRFB. Nesse sentido: AgInt no AREsp 2.137.752/SP, Terceira Turma, DJe 16/8/2023 ; AgInt no AREsp 821.337/SP, Terceira Turma, DJe 13/3/2017; AgInt no REsp 2.043.288/PE, Quarta Turma, DJe 19/6/2023; AgInt no AREsp 1.306.436/RJ, Primeira Turma, DJe 2/5/2019.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento nos arts. 932, III, do CPC e 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do recurso especial.
+Deixo de majorar honorários advocatícios, em virtude da ausência de condenação na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTROLE DA COMPETÊNCIA DO JUIZADO ESPECIAL CÍVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. INADMISSIBILIDADE.
+1. Mandado de segurança.
+2. Não há ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível, por força da Súmula 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7/STJ em relação ao tema que se supõe divergente também impede o conhecimento do recurso interposto pela alínea "c" do permissivo constitucional.
+6. Agravo conhecido. Recurso especial não conhecido.
