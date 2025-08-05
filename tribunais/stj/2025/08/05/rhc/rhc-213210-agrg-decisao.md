@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ELLEN JULIANA DE SOUZA DA SILVA contra decisão de e-STJ fls. 227/233, na qual neguei provimento ao recurso ordinário de sua autoria.
+Depreende-se dos autos que a agravante encontra-se presa preventivamente pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 191):
+Habeas corpus Imputação de tráfico de drogas e associação ao tráfico Adequação da prisão preventiva Decisão fundamentada Presentes os requisitos autorizadores da custódia cautelar, inexistente violação à presunção de inocência Impossibilidade de substituição da custódia cautelar por prisão domiciliar Decisão devidamente fundamentada na gravidade concreta dos delitos (equiparado a hediondo, praticados durante cumprimento de pena em regime aberto) Inexistência de comprovação de que o menor depende de cuidados exclusivos da mãe Constrangimento ilegal não evidenciado Ordem denegada.
+Nesse recurso, a defesa alegou a ausência de fundamentação idônea das decisões que indeferiram o pleito de concessão da prisão domiciliar, apesar de a acusada ser mãe de um menino de 9 anos de idade.
+Ressaltou que a criança está sob os cuidados da avó, "que não detém qualquer condição física e financial de arcar com esta incumbência" (e-STJ fl. 206).
+Dessa forma, requereu, liminarmente e no mérito, a concessão da prisão domiciliar à acusada.
+Foi negado provimento ao recurso ordinário, sob o argumento de a agravante ter sido presa, na companhia de corréu, com 86,66g (oitenta e seis gramas e sessenta e seis centigramas) de cocaína e 83,53g (oitenta e três gramas e cinquenta e três centigramas) de maconha, além de um revólver, calíbre.32, com numeração suprimida e com 6 munições, e, além dela ser reincidente específica, estava em cumprimento de pena no regime aberto quando cometeu os delitos em tela. Quanto à prisão domiciliar, foi destacado que seu filho, de nove anos de idade, encontrava-se sob os cuidados da avó, uma vez que a acusada estava encarcerada por cumprimento de pena no Processo de Execução n. 0004918-87.2020.8.26.034 (e-STJ fls. 227/233).
+No presente agravo regimental, a defesa pontua que " ..  a agravante Ellen Juliana foi detida no interior do veículo de seu companheiro, onde foram encontrados entorpecentes e um revólver. Contudo, ainda que a Polícia Militar tenha registrado tal fato, inexiste qualquer elemento probatório que demonstre o conhecimento da Agravante acerca da presença dos ilícitos no automóvel" (e-STJ fl. 239).
+Afirma, assim, que "a manutenção de sua prisão preventiva não se justifica, especialmente quando fundada na mera necessidade de apuração posterior de sua eventual participação. Assim, impõe- se a substituição da prisão cautelar pelo regime domiciliar" (e-STJ fl. 239).
+Assere que, "no que tange à alegação de reincidência específica e ao suposto risco de reiteração delitiva, além da argumentação de que sua liberdade colocaria em perigo sua prole, tais fundamentos não se sustentam. Embora a Agravante tenha sido condenada anteriormente pelo delito de tráfico de drogas, inexiste qualquer indício, investigação ou fato concreto que indique a prática de novos crimes" (e-STJ fl. 240).
+Por fim, ressalta que "a argumentação de que sua prole estaria sob os cui- dados da avó e, portanto, sua presença na criação dos filhos não seria imprescindível é manifestamente infundada. Restou devida- mente comprovado nos autos que a avó da Agravante não dispõe de condições financeiras e de saúde para arcar com os cuidados das crianças (trabalha recolhendo reciclagem)", e-STJ fl. 240.
+Diante disso, postula a (e-STJ fl. 240):
+a) pela reconsideração da decisão agravada que negou provimento ao Recurso em Habeas Corpus;
+b) subsidiariamente, que seja o presente Agravo Regi- mental submetido ao julgamento da Colenda Turma, nos ter- mos dos artigos 258 e 259, ambos do Regimento Interno da Colendo Superior Tribunal de Justiça, para que o RHC seja provido.
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça, verifica-se que a acusada foi condenada à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, além do pagamento de 583 dias-multa, pela prática do delito tipificado no art. 33 caput, da Lei n. 11.343/2006, sendo-lhe negado o direito de recorrer em liberdade.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia imposta à agravante, a qual, agora, decorre de novo título, a ser submetido à apreciação do Tribunal estadual.
+Ante o exposto, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+EMENTA
