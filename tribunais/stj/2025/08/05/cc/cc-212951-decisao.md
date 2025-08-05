@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito entre o e. juízo da 1ª Vara do Trabalho de Jaraguá do Sul/SC e o r. juízo da Vara Regional de Falências, Recuperação Judicial e Extrajudicial de Jaraguá do Sul/SC acerca da competência para a execução de crédito extraconcursal.
+O MPF ofertou parecer no sentido da declaração da competência do r. juízo laboral. (fls. 385/388)
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568 /STJ e a possibilidade do exame unipessoal da questão. (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020)
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Não se desconhece a orientação jurisprudencial da Casa segundo a qual é do Juízo onde se processa a recuperação judicial a competência para examinar a manutenção e/ou eventual prosseguimento de atos de constrição/expropriação que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+A propósito, confiram-se julgados proferidos pelos membros deste órgão colegiado, a saber: AgInt no CC 147.485/SP, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 18/02/2020; CC 131.894/SP, Rel. Min. RAUL ARAÚJO, DJe de 31/03/2014; AgInt nos EDcl no CC Nº 145525/GO, Rel. Min. MARCO BUZZI, Dje de 02/06/2020; CC 146.657/SP, Rel. Min. MOURA RIBEIRO, DJe de 07/12/2016; AgRg nos EDcl no CC 136.571/MG, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe de 31/05/2017; CC 145.027 /SC, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 31/08/2016; AgInt no CC 145.402/GO, Rel. Min. MARIA ISABEL GALLOTTI, Dje de 29/06/2018; AgRg no CC 129.290/PE, Rel. Min. ANTONIO CARLOS FERREIRA, DJe de 15/12/2015; AgInt no CC 150597/SP, Rel. Min. PAULO DE TARSO SANSEVERINO, DJe de 01/02/2019 ; AgInt no CC 164.903/PR, Rel. Min. NANCY ANDRIGHI, Dje de 05/05/2020; AgRg no CC 136130/SP, Rel. Min. ANTONIO CARLOS FERREIRA, Dje de 22/06/2015.
+Contudo, essa não é hipótese dos autos, porquanto o crédito ora perseguido - consoante expressamente fundamentado pelo r. juízo recuperacional - não se submete aos efeitos do processo de soerguimento.
+Para esses casos , a teor da orientação da Segunda Seção, aplica-se a previsão da Lei n. 14.112/202, no sentido de que, nas execuções de crédito extraconcursal, o juízo recuperacional tem a competência específica para determinar o sobrestamento dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial, e desde que ainda esteja vigente o período de blindagem (suspensão), circunstâncias inexistentes no caso sob foco.
+Nessa linha, confira-se o julgado líder: CC 191.533/MT, Rel. Min. Marco Aurélio Bellizze, DJe de 26/4/2024.
+E ainda: CC 210996/PE, Rel. Min. João Otávio de Noronha, DJe de 22/7/2025.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da 1ª Vara do Trabalho de Jaraguá do Sul/SC, nos termos da fundamentação supracitada.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos.
+EMENTA
