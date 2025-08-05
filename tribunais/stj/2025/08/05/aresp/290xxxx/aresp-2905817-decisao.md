@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MATHEUS MESSIAS FERREIRA MACIEL, contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, que não admitiu o recurso especial.
+Consoante se extrai dos autos, a parte agravante foi condenada pela prática do delito previsto no art. 157, § 2º, incisos II e V, do Código Penal, às penas de 5 (cinco) anos e 4 (quatro) meses, em regime inicial semiaberto, e ao pagamento de 13 (treze) dias-multa.
+O Tribunal de origem, em decisão unânime, negou provimento ao apelo defensivo.
+No recurso especial, interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, o insurgente alega violação ao art. 93, inciso IV, da Constituição Federal, c/c art. 315, inciso V, do Código de Processo Penal. Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula n. 83, STJ.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+Foram apresentadas contrarrazões e o Ministério Público Federal apresentou parecer pelo não conhecimento do agravo.
+É o relatório. DECIDO.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo em razão da aplicação da Súmulas n. 83, STJ, ante a consonância da decisão recorrida com a jurisprudência firmada nesta Corte.
+No caso, porém, a parte agravante deixou de infirmar, de maneira adequada e suficiente, os fundamentos da negativa de admissibilidade do recurso, limitando-se a asseverar que o recurso não foi interposto com fulcro no art. 105, inciso III, alínea "c", da Constituição Federal, razão pela qual não poderia ser aplicada a Súmula n. 83,S STJ, e afirmar que o recurso não esbarra na Súmula 7, STJ, que sequer foi utilizada como fundamento da decisão que negou a admissibilidade ao apelo nobre.
+De plano, saliento que a "jurisprudência do STJ admite a aplicação da Súmula 83 tanto nos recursos especiais interpostos com base na alínea "a" quanto na alínea "c" do art. 105, inciso III, da Constituição Federal." (AgRg no AREsp n. 2.753.431/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/2/2025, DJEN de 18/2/2025.).
+Assim, para efetivamente impugnar a decisão agravada, caberia ao agravante demonstrar que os precedentes citados na decisão recorrida não se aplicam à situação dos autos, ou, ainda, indicar precedentes contemporâneos ou supervenientes que demonstrem, após devido cotejo analítico, o desacerto da inadmissão do recurso interposto.
+A propósito:
+" ..  7. Inadmitido o recurso especial com base na incidência da Súmula 83 do STJ, incumbe à parte interessada apontar julgados deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pacificada. Pode ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie."
+(AgInt nos EDcl no AREsp 1.842.229/PR, Primeira Turma, relator Ministro Paulo Sérgio Domingues, DJe de 11/5/2023).
+Desse modo, a ausência de impugnação adequada de todos os fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do Código de Processo Civil, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe 23/06/2020.
+Assim, o presente agravo encontra óbice na Súmula 182 desta Corte, não superando o juízo de admissibilidade.
+Diante do exposto, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
