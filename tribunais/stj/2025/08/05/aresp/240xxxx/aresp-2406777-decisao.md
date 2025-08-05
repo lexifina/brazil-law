@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por GILDO MOTTA DA SILVA e LEANDRO MOTTA DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fls. 597-598):
+APELAÇÃO CÍVEL E ADESIVA - AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE RELAÇÃO JURÍDICA - PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS -- CONTRATO ESCRITO NÃO ASSINADO - CONTRATO VERBAL - ALEGAÇÃO DE INEXISTÊNCIA DE RELAÇÃO - REALIZAÇÃO DE ESTUDO PRELIMINAR - PROVAS QUE COMPROVAM A CELEBRAÇÃO DO CONTRATO E PRESTAÇÃO DOS SERVIÇOS - RESCISÃO DO CONTRATO - PREVISÃO DE PAGAMENTO DO RESTANTE DOS HONORÁRIOS ADVOCATÍCIOS E DE ÊXITO - SENTENÇA MANTIDA - OBRIGAÇÃO LÍQUIDA COM DATA CERTA PARA PAGAMENTO - MORA DECORRE DO VENCIMENTO - TERMO "A QUO" DE INCIDÊNCIA DOS JUROS E CORREÇÃO MONETÁRIA - A PARTIR DO RESCISÃO CONTRATUAL - RECURSO DE APELAÇÃO DESPROVIDO - RECURSO ADESIVO, PARCIALMENTE PROVIDO.
+Embora a parte ré defenda a tese de que só foi realizado estudo preliminar pelo Escritório de Advocacia e que não houve contratação dos serviços, o conjunto probatório é suficiente para demonstrar a relação jurídica estabelecida entre as partes, a prestação dos serviços advocatícios e os valores acordados. Observando-se que há repetição de sanção decorrente do mesmo fato gerador (infringência ao contrato), sua incidência deve ser afastada, sob pena de bis in idem e enriquecimento ilícito. Tem-se que na obrigação positiva e líquida com data certa para pagamento, a mora decorre do vencimento, o que constitui o termo inicial de incidência da atualização monetária e juros (art. 397 do Código Civil).
+Rejeitados os embargos de declaração opostos (fls. 649-653).
+No recurso especial, alega a parte recorrente que o acórdão violou os arts. 304 e 391 do CC/2002 e os arts. 341, 373 e 389 do CPC.
+Foram oferecidas contrarrazões ao recurso especial (fls. 681-691).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 695-700), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 724-730).
+Decisão da Presidência não conhecendo do agravo por ser intempestivo (fls. 737-738). Opostos embargos de declaração, foram acolhidos pela própria Presidência do STJ (fls. 758-759).
+Distribuídos os autos, os recorrentes interpuseram pedido de tutela provisória para conferir efeito suspensivo, o qual foi indeferido por este relator às fls. 843-848.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A controvérsia gira em torno da existência e validade de um contrato verbal de prestação de serviços advocatícios. A parte ré alegava que não houve contratação, apenas estudo preliminar, mas o tribunal reconheceu, com base nas provas, que houve vínculo contratual, prestação efetiva dos serviços e acordo quanto aos honorários. Decidiu-se que a mora e os encargos financeiros incidem a partir da rescisão do contrato, e afastou-se a aplicação de sanções em duplicidade para evitar bis in idem e enriquecimento ilícito.
+Inicialmente, não conheço do recurso pela alínea "c", visto que os recorrentes não indicaram o acórdão paradigma objeto da divergência jurisprudencial.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais os recorrentes não se desincumbiram.
+No mérito, o acórdão recorrido, com base nos elementos fáticos e probatórios dos autos, afirmou (fl. 606):
+Primeiramente, não há falar em ilegitimidade passiva do apelante Leandro Motta da Silva, pois a legitimidade passiva decorre do fato de se indicar aquele que, em sendo procedente o pleito, deve suportar os efeitos oriundos da sentença.
+Verifico que foi ele, Leandro Motta da Silva, filho do apelante Gilson Motta da Silva, que realizou o pagamento ao Escritório (id. 129595174 - Pág. 1 e 129595176 - Pág. 1) e relativo à reunião em outra Cidade. Portanto, o fato de não estar tão presente quanto o pai nas tratativas, não o exime do envolvimento no contrato.
+Com efeito, os fundamentos adotados pelo acórdão recorrido estão ancorados na valoração das provas produzidas nos autos, especialmente no que tange à configuração da relação jurídica objeto da controvérsia e à participação efetiva da parte recorrente na formação da obrigação discutida.
+A pretensão recursal, ao buscar infirmar as conclusões da Corte de origem, impõe necessariamente uma reapreciação das circunstâncias fáticas e probatórias que deram suporte à decisão, o que, em recurso especial, encontra óbice na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado do proveito econômico.
+Prejudicados os embargos de declaração de fls. 858-854.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE RELAÇÃO JURÍDICA. CONTRATO VERBAL DE SERVIÇOS ADVOCATÍCIOS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. ACÓRDÃO QUE AFIRMA A EFETIVA PRESTAÇÃO DOS SERVIÇOS. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
