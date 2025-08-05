@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo de JERRY BRUNO DA SILVA MOURA (fls. 2459/2464) contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0431.12.002624-71001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, § 4º, I e IV, do Código Penal - CP (furto qualificado pelo rompimento de obstáculo e concurso de pessoas), à pena de 3 anos de reclusão, no regime inicial aberto, e ao pagamento de 20 dias multa no valor unitário mínimo legal (fl. 1459).
+Recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"APELAÇÕES - FURTO QUALIFICADO - PRELIMÍNAR: PRESCRIÇÃO DA PRETENSÃO PUNITIVA - INOCORRÉNCIA. MÉRITO: MATERIALIDADE E AUTORIA - ABSOLVIÇÃO-IMPOSSIBILIDADE - PRINCÍPIO DA INSIGNIFICÂNCIA - INAPLICABILIDADE - DESCLASSIFICAÇÃO PARA FURTO SIMPLES - DECOTE DAS QUALIFICADORAS DO ROMPIMENTO DEOBSTÁCULO E DÕ CONCURSO DE PESSOAS - IMPOSSIBILIDADE - PRIVILÉGIO (ART. 155, § 2ºDO CP)- REQUISITOS LEGAIS NÃO PREENCHIDOS - PENA-BASE MANUTENÇÃO - PENA DE MULTA - PROPORCIONALIDADE COM A PENA CORPORAL - DEFENSOR DATIVO - ARBITRAMENTO DE HONORÁRIOS.
+1 - Se não transcorrer o prazo prescricional entre a data do Recebimento da Denúncia e a data da Publicação da Sentença condenatórla, deve ser afastada a Prescrição da pretensão punitiva.
+2 - A autoria e a materialidade, se comprovadas, através das provas orais e documentais, não há se acolher o pleito Absolutório.
+3 - Para que seja reconhecida a atipicidade da conduta pela aplicação do Princípio da Insignificância é necessário que se verifique, no caso em exame, as diretrizes estipuladas pelos Tribunais Superiores. O elevado grau de reprovabilidade da conduta obsta a aplicação do referido Principio.
+4 - A Qualificadora do Rompimento de Obstáculo (inciso I do § 4º do art. 155 do CP) deve ser mantida se comprovada pelas provas orais e documentais.
+5 - Ao crime de Furto praticado em concurso de pessoas deve incidir a Qualificadora do inciso IV do § 4º do art. 155 do CP.
+6 - O Privilégio (§ 2º do art. 155 do CP) não é concedido nos casos em que não há reduzida gravidade do fato.
+7 - Se as circunstâncias judiciais do art; 59 do CP foram fundamentadas a contento, impõe-se a manutenção das penas-base.
+8 - A pena de multa deve guardar proporcionalidade com a pena privativa de liberdade, utilizando-se o Julgador do mesmo critério de flxação " (fl. 1816).
+Em sede de recurso especial (fls. 2397/2405), a defesa alega violação ao art. 109, III ou VI, do CP porque o Tribunal a quo não reconheceu a ocorrência de prescrição.
+Requer a reforma do acórdão recorrido.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS - MPMG às fls. 2415/2417.
+O recurso especial foi inadmitido no TJMG por incidência da Súmula n. 7 do STJ (fls. 2420/2422).
+Em agravo em recurso especial, a defesa de JERRY BRUNO DA SILVA MOURA impugnou o óbice da Súmula 7 do STJ (fls. 2459/2464).
+Contraminuta do Ministério Público (fls. 2471/2473).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do agravo.
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao art. 109, III ou VI, do CP, o TJMG deixou de reconhecer a prescrição da pretensão punitiva, nos seguintes termos do voto do relator:
+"PRELIMINAR
+Da Prescrição da Pretensão Punitiva (1º e 2º Apelantes)
+Os Apelantes Jerrv Bruno e Villander pleitearam a extinção da punibilidade pela Prescrição da Pretensão Punitiva, ao argumento de que decorreu o prazo prescricional entre a data do Recebimento da Denúncia e a data da Publicação da r. Sentença condenatória.
+Sem razão.
+A Prescrição da Pretensão Punitiva, in casu, regula-se pela pena in concreto aplicada aos Apelantes, conforme prévisto no ad. 110, §1º, do Código Penal.
+Extrai-se da r. Sentença que os Apelantes Jerry Bruno e Viliander foram condenados às penas iguais de 03 (três) anos d  reclusão, em regime aberto, e 20 (vinte) dias-multa.
+Acerca dos prazos prescricionais, regula o ad. 109,1V, dõ CP, que prescreve em 08 (oito) anos o crime cuja pena cominada é superior a dois anos e não excede a quatro.
+Entre a data do Recebimento da Denúncia (11/07/2013 - fi. 524) e a data da Publicação da r. Sentença Condenatória (08/08/2017 - fI. 1157), não transcorreu lapso temporal suficiente ao determinado pela Lei Penal para a pena em concreto.
+Ademais, entre a data da Publicação da r. Sentença Condenatária (08/08/2017 - fi. 1157) e a presente data (julho de 2023) não transcorreu o lapso temporal. Sendo assim, não há que se falar em reconhecimento da Prescrição da Pretensão Punitiva do Estado."
+Com efeito, não se identifica a perda do jus puniendi estatal apontada pelo ora agravante, porquanto não transcorreu o interregno de 8 anos entre os marcos interruptivos da prescrição. Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 1º DA LEI N. 8.137/1990. APLICAÇÃO DA SÚMULA VINCULANTE N. 24/STF A FATOS ANTERIORES À SUA EDIÇÃO. POSSIBILIDADE. NÃO OCORRÊNCIA DA PRESCRIÇÃO PRETENDIDA. ENTENDIMENTO CONSOLIDADO NESTA CORTE. VERIFICADO DOLO DO AGENTE PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO EM SENTIDO DIVERSO. SÚMULAS N. 83 E 7/STJ.
+1. O Pleno da Corte máxima do país admite "a aplicação da Súmula Vinculante 24 a fatos anteriores à sua edição, porquanto o respectivo enunciado apenas sintetiza a jurisprudência dominante desta Corte e, dessa forma, não pode ser considerada como retroação de norma mais gravosa ao réu" (ARE 1053709 AgR-ED-EDv-AgR, Relator(a): RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 30-11-2018, PROCESSO ELETRÔNICO DJe-263 DIVULG 06-12-2018 PUBLIC 07-12-2018).
+2. Em sintonia com a Suprema Corte, o Superior Tribunal de Justiça compreende que " a  Súmula Vinculante n. 24 do STF foi editada há mais de dez anos, como resultado da compreensão de que os crimes contra a ordem tributária, notadamente os previstos no art. 1º da Lei n. 8.137/1990, são materiais, cuja consumação se dá com a constituição definitiva do crédito tributário, que somente ocorre com o término do procedimento administrativo fiscal." (RHC n. 143.516/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/6/2021, DJe de 28/6/2021.)
+3. Diante dos marcos apontados no acórdão combatido, bem como que entre eles não decorreu o prazo prescricional de 8 anos (pois a pena em concreto aplicada foi inferior a 4 anos - art. 110 do CP), afasta-se a pretendida prescrição e conclui-se pela incidência do óbice da Súmula n. 83/STJ.
+4. As instâncias pretéritas entenderam pela presença de dolo específico no caso concreto, pois verificada não só a condição do recorrente de sócio administrador da empresa Petrosul (ou seja, o responsável pelas decisões da empresa), como também se obteve de testemunhos que a emissão de notas fiscais "frias" se deu de maneira continuada e com o objetivo de lesão ao Fisco, razão pela qual rever tal entendimento redundaria em incursão profunda nos fatos e provas dos autos, providência incabível pela via do apelo nobre, nos termos da Súmula n. 7/STJ.
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 2.138.533/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.)
+Ademais, impende registrar que, nos termos do Tema Repetitivo 1100, o acórdão confirmatório da sentença condenatória é causa interruptiva da prescrição. Por oportuno, confira-se ementa do julgado da Terceira Seção desta Corte Superior de Justiça:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. DIREITO PENAL. PRESCRIÇÃO. SENTENÇA CONDENATÓRIA. RECURSO DE APELAÇÃO. ACÓRDÃO CONDENATÓRIO. MARCO INTERRUPTIVO DO PRAZO PRESCRICIONAL. ALTERAÇÃO PROMOVIDA NO ART. 117, IV, DO CP PELA LEI N. 11.596/2007. INTERPRETAÇÃO GRAMATICAL, HISTÓRICA, SISTEMÁTICA E FINALÍSTICA. LEGALIDADE. CASO CONCRETO. OBSERVÂNCIA DA PRESCRIÇÃO SUPERVENIENTE.
+1. Não se vê impropriedade, sob o prisma da interpretação gramatical, na conclusão de que as disposições normativas do art. 117, IV, do CP objetivam que o acórdão condenatório proferido na primeira instância recursal em apelação interposta contra a sentença condenatória seja causa interruptiva da prescrição.
+2. Segundo interpretação de lei pelo método histórico, é idôneo o entendimento de que a alteração promovida no art. 117, IV, do CP pela Lei n. 11.596/2007 visou adicionar nova causa de interrupção da prescrição superveniente, a saber, a publicação do acórdão condenatório em primeira instância recursal, e, desse modo, evitar que recursos meramente protelatórios alcançassem o lapso prescricional.
+3. A alta carga de substitutividade, translatividade e devolutividade inerente ao recurso de apelação propicia que o acórdão condenatório resultante de seu julgamento, ainda que confirmatório de sentença condenatória, seja hábil para sucedê-la, de modo que, sob o aspecto sistemático-processual, não se percebe incompatibilidade sistêmica que impossibilite que ele constitua marco interruptivo prescricional, nem mesmo sob o aspecto de postulados inerentes ao Direito Penal relacionados à obrigatoriedade de clareza e precisão de uma norma penal.
+4. Em notório cenário em que o sistema recursal propicia elevada recorribilidade com fins procrastinatórios, de modo a ensejar a não punibilidade do acusado, é legítimo, segundo interpretação finalística, instituir como marco prescricional a data de publicação de acórdão condenatório resultante da interposição de apelação contra sentença condenatória, visto que impede o fomento da impunibilidade e, por conseguinte, o descrédito do Poder Judiciário.
+5. Na resolução do caso concreto, embora se deva observar a interrupção do prazo prescricional pelo acórdão que confirmou a sentença condenatória, deve o órgão julgador observar a possibilidade de incidência da prescrição intercorrente.
+6. Tese jurídica: O acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta.
+7. Recurso especial provido para fixar o entendimento de que também o acórdão confirmatório de sentença condenatória constitui marco interruptivo do lapso prescricional.
+(REsp n. 1.920.091/RJ, relator Ministro João Otávio de No ronha, Terceira Seção, julgado em 10/8/2022, DJe de 22/8/2022.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial de JERRY BRUNO DA SILVA MOURA e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
