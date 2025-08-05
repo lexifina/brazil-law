@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interposto por BRASIL SECURITIZADORA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 135-136):
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. REJEITADOS LIMINARMENTE. AUSÊNCIA DE MEMÓRIA DE CÁLCULO E VALOR DE EXCESSO. ALEGAÇÃO DE INAPLICABILIDADE DA PENALIDADE PREVISTA NO ART. 917, §3º E 4º DO CPC. POSSIBILIDADE NO CASO CONCRETO. INEXISTÊNCIA DE DÚVIDA ACERCA DOS VALORES ENTENDIDOS COMO ILEGAIS. EXCESSO QUE SE RESTRINGE ÀPENAS A COBRANÇA DA CLÁUSULA DE MULTA CONTRATUAL E HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS, DEVIDAMENTE. INDIVIDUALIZADOS NA PEÇA INICIAL. INEXISTÊNCIA DE DIFICULDADE NA DEFESA DO EXEQUENTE/EMBARGADO. PRECEDENTES. CASSAÇÃO DA SENTENÇA, PARA CONTINUIDADE DOS FEITO. RECURSO PROVIDO.
+" ..  1. A jurisprudência consolidada deste Superior Tribunal de Justiça afirma que, na forma do art. 739-A, § 5º, do CPC/1973 (art. 917, § 4º, do CPC/2015), os embargos à execução em que se alega a existência de excesso à execução devem ser rejeitados liminarmente desde que desacompanhados da memória de cálculos e da indicação do valor que o embargante entende devido. 2. Esse entendimento é mitigado quando houver outros elementos nos autos que possibilitem o correto entendimento da insurgência e possibilitem aferir o valor do excesso apontado. Precedentes (REsp 1622707/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08 /02/2018, DJe 20/03/2018);
+" ..  Divisão de responsabilidades entre as partes, decorrente da tônica legislativa que pautou a reforma do processo de execução, segundo a qual, de forma paritária, equilibram-se e equanimemente distribuem-se os ônus processuais entre credor e devedor. 6. Recurso especial conhecido em parte e, nesta parte, provido." (REsp n. 1.365.596/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/9 /2013, DJe de 23/9/2013)"
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão contrariou a disposição contida no artigo 917, §§ 3º e 4º, do Código de Processo Civil, ao permitir o processamento dos embargos à execução sem a juntada de memorial de cálculo, mesmo quando o excesso de execução é o único fundamento dos embargos
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 174-181).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 188-190), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 205-209).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Em relação à apontada ofensa ao artigo 917, §§ 3º e 4º, do Código de Processo Civil e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, ao mitigar a exigência do art. 739-A, § 5º, do CPC/1973 (art. 917, § 4º, do CPC /2015), "quando houver outros elementos nos autos que possibilitem o correto entendimento da insurgência e possibilitem aferir o valor do excesso apontado" (REsp n. 1.622.707/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/2/2018, DJe de 20/3/2018).
+No mesmo sentido, cito: AgInt no AREsp n. 2.402.839/SC, Rel. Min. João Otávio de Noronha, DJe de 13/5/2024.
+Por fim, o recorrente pleiteia que que se analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. INEXISTÊNCIA DE DÚVIDA ACERCA DOS VALORES ENTENDIDOS COMO ILEGAIS. ARTIGO 917, § 4º, DO CPC. CASO CONCRETO. INAPLICABILIDADE. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
