@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, recurso especial interposto por INSTITUTO DE PREVIDENCIA E ASSISTENCIA ODONTOLOGICA LTDA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 1506-1513):
+PROCESSUAL CIVIL E ADMINISTRATIVO MANDADO DE SEGURANÇA LICITAÇÃO PREGÃO PRESENCIAL - EDITAL VÍCIO INSANÁVEL - INEXISTÊNCIA.
+1. O mandado de segurança se destina à correção de ato ou omissão de autoridade, desde que ilegal e ofensivo a direito individual, líquido e certo do impetrante (art. 5º, LXIX, CF).
+2. Direito líquido e certo é o que se apresenta manifesto na sua existência, incontestável, manifesto, pré-constituído, delimitado na sua extensão e apto a ser exercitado no momento da impetração.
+3. Pretensão à anulação do edital do Pregão Presencial nº 02/2017. Contratação de empresa operadora de serviços odontológicos. Ausência de ilegalidade ou vício do edital. Contratante é autarquia municipal criada para fins de prestação de assistência médica aos servidores públicos municipais e autárquicos do Município de São Bernardo do Campo. Inexistência de ofensa a direito líquido e certo da impetrante. Segurança denegada. Sentença mantida. Recurso desprovido.
+Não consta a interposição de embargos de declaração.
+No recurso especial, a parte recorrente sustenta, em síntese, violação ao art.1.022, I e II, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta ao art. 1º da Lei 12.016/2009, sustentando que "recorrente interpôs, tempestivamente, o recurso de embargos de declaração, face a r. sentença de (fls. 1452/1454), reiterando os Embargos de Declaração nas razões de apelação (fls. 1466/1486) vez que o decisum, era - e continua sendo - omisso e contraditório, no que tange à apreciação dos pedidos, uma vez que nem o douto juízo, quiçá a Colenda 09ª Câmara de Direito Público, manifestaram-se explicitamente sobre todos os fatos e fundamentos aduzidos nos presentes autos tanto, os quais foram suscitados em Embargos de Declaração, tendo o recorrente demonstrado que a concessão da segurança era necessária, ante a evidente violação do direito líquido e certo do recorrente".
+Na origem, o recurso foi inadmitido (fls. 1561-1562).
+Contrarrazões apresentadas às fls. 1533-1539 e 1691-1694.
+Parecer do Ministério Público Federal às fls. 1741-1748.
+É o relatório.
+Passo a decidir.
+Ressalto que a "não interposição de Embargos de Declaração perante a Corte de origem obsta o reconhecimento da suposta afronta ao art. 1.022 do CPC/2015" (REsp 1.797.477/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/3/2019, DJe de 22/4/2019).
+Portanto, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ademais, no que se refere à violação do art. 1º da Lei 12.016/2009, verificar a alteração da conclusão do Tribunal a quo, acerca da inexistência de ilegalidade ou abuso de poder no ato administrativo impugnado "capaz de invalidar o certame", porque "o edital previa expressamente que o ingresso no Plano Básico Odontológico deveria se dar através de Contrato de Adesão, tipo empresarial, sendo certo que inexiste qualquer contrariedade às normas contidas nos artigos 5º e 9º da Resolução Normativa nº 195/2009 da Agência Nacional de Saúde" ou das cláusulas da proposta feita pela parte em relação ao regime de coparticipação, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, não conheço do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
