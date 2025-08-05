@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de KAUA SOUZA FONTENELE - preso em flagrante em 22/5/2025, sob a acusação de envolvimento nos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006, a Lei de Drogas (fls. 4/5) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO PIAUÍ (fl. 2).
+Alega-se, na impetração, que a quantidade de droga apreendida com o paciente foi de apenas 5 g, enquanto com seu genitor foram encontrados 55 g, totalizando 60 g de maconha (fl. 5).
+Sustenta-se que a prisão preventiva é desproporcional e contrária aos princípios constitucionais da presunção de inocência e da individualização da pena, uma vez que não há comprovação da participação do paciente nos crimes imputados (fl. 6).
+Afirma-se que a prisão em flagrante é ilegal, pois a quantidade de droga apreendida é ínfima e destinada ao consumo pessoal, devendo ser desclassificada para a conduta prevista no art. 28 da Lei n. 11.343/2006 (fls. 6/7).
+Destaca-se que o paciente é réu primário, menor de 21 anos, possui residência fixa e emprego lícito, o que afasta o risco à ordem pública (fls. 4 e 8/9).
+No mérito, requer-se o relaxamento da prisão em flagrante por ausência de fundamentação idônea e ilegalidade da prisão, a concessão de liminar em habeas corpus, e a aplicação de medidas cautelares diversas da prisão corporal elencadas no art. 319 do Código de Processo Penal (fl. 10).
+É o relatório.
+No caso, o Tribunal de Justiça local fundamentou a prisão preventiva em elementos concretos, como a apreensão de 62 g de maconha, dinheiro em espécie, balança de precisão e apetrechos típicos de traficância, indicando atividade ilícita diversa do mero consumo pessoal (fls. 12/19).
+Com efeito, o acórdão impugnado destaca que a quantidade de droga apreendida supera o limite de 40 g fixado pelo Supremo Tribunal Federal, afastando a presunção de uso próprio e reforçando a plausibilidade da acusação de tráfico. Além disso, a prática de novo crime da mesma natureza durante o gozo de liberdade provisória por fato anterior revela reiteração delitiva e a insuficiência de medidas cautelares diversas da prisão, legitimando a segregação cautelar para proteção da ordem pública. O Tribunal também considera os antecedentes criminais do paciente e o fato de responder a outros processos, o que, nos termos do Enunciado n. 3 do GMF/TJPI, justifica a prisão preventiva (fls. 12/19).
+Diante desse cenário, de maneira fundamentada, o Tribunal conclui que, embora o paciente possua residência fixa, profissão definida e primariedade, esses fatores não são suficientes para afastar a necessidade da prisão preventiva quando presentes fundamentos concretos e contemporâneos da medida extrema. Assim, a ordem é denegada, não se verificando constrangimento ilegal a que se encontre submetido o réu (fls. 12/19).
+Registre-se, ainda, que a presente via não se mostra adequada para o amplo reexame de fatos e provas, notadamente no que se refere à análise do pedido de desclassificação do delito. Ademais, não se constata qualquer ilegalidade manifesta que justifique a concessão de habeas corpus de ofício.
+Nesse sentido: AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. PLEITO DE DESCLASSIFICAÇÃO DO DELITO PARA POSSE DE DROGAS PARA CONSUMO PESSOAL. REVOLVIMENTO FÁTICO-PROBATÓRIO INDEVIDO NA VIA DO WRIT. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
