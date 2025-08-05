@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, embargos de declaração opostos por SERGIO ROQUE DA SILVA contra decisão que não conheceu do agravo em recurso especial haja vista a incidência do óbice da Súmula 182/STJ.
+A parte embargante alega, em síntese, a existência de vício na decisão recorrida, uma vez que "o recurso especial foi interposto somente com base no art. 105, inciso III, alínea a, da CF. Ou seja, o recorrente não fundamentou a insurgência recursal na alínea c. Assim, o ora Embargante, ao apresentar seu agravo em recurso especial, impugnou específica e concretamente a decisão que inadmitiu o recurso especial com relação a não incidência da Súmula n. 07" (fl. 961).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou expressamente a impossibilidade de conhecimento do agravo em recurso especial interposto pois "as alegações deduzidas pela agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência da Súmula 7/STJ no que tange ao cabimento do recurso especial com fundamento na alínea "c" do permissivo constitucional, por divergência jurisprudencial, vez que a parte agravante nada mencionou em relação ao ponto".
+Ademais, "a argumentação trazida somente por ocasião do manejo dos embargos de declaração caracteriza indevida inovação recursal e impede o conhecimento da insurgência, tendo em vista a ocorrência da preclusão consumativa"(EDcl no AgInt no AREsp n. 1.388.645/AP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/10/2021, DJe de 28/10/2021).
+Nesse sentido:
+PROCESSUAL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. IMPUGNAÇÃO EXTEMPORÂNEA. INOVAÇÃO RECURSAL. PRECLUSÃO. AGRAVO INTERNO DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+3. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+4. A infirmação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, sob pena de preclusão consumativa, sendo incabível a impugnação somente nas razões de agravo interno.
+5. Agravo interno de fls. 580-587 não conhecido. Agravo interno de fls. 588-595 desprovido (AgInt nos EDcl no AREsp n. 2.086.418/MA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
