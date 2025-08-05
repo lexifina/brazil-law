@@ -1,0 +1,32 @@
+DECISÃO
+Às fls. 517-520, Maria Alice Ramalho de Oliveira Tenorio, opõe embargos declaratórios alegando, em síntese, que "interpôs recurso especial indicando duas violações autônomas: (a) violação dos artigos 489, § 1º, IV, e 1.022, II, do CPC/2015, relacionada ao pedido de nulidade do acórdão recorrido e (b) violação ao art. 833, IV, do CPC/2015 e ao art. 46 da Lei 8.112/90, relacionada ao pedido de restituição dos valores descontados dos contracheques da servidora a título de reposição ao Erário. Sobreveio decisão que não conheceu o excepcional, analisando apenas a violação aos arts. 489 e 1.022 do CPC/2015. (..) Diante disso, tendo em vista que a decisão embargada não se manifestou quanto ao requerimento de que "seja determinado que a União Federal devolva os valores indevidamente descontados dos contracheques da recorrente a título de reposição ao Erário, já que recebidos de boa-fé" (requerimento formulado na alínea "b" do tópico VI do recurso especial), a embargante insiste no acolhimento dos presentes aclaratórios, para que seja sanada a omissão apontada, sob pena de negativa de prestação jurisdicional".
+Intimada, a parte embargada deixou transcorrer in albis o prazo para manifestação.
+É o relatório. Decido.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+Constata-se, na espécie, a presença de omissão na decisão agravada, a qual deve ser prontamente sanada nesta oportunidade.
+No caso, com razão a parte embargante, motivo pelo qual passo à análise do tópico apontado como não enfrentado pelas decisões de fls. 491-494 e 510-512.
+Com efeito, quanto a devolução dos valores indevidamente descontados dos contracheques da recorrente, verifica-se que a orientação desta Corte é no sentido de que a restituição dos valores que porventura já tenham sido descontados é decorrência lógica do reconhecimento de que o desconto é indevido.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. RESTITUIÇÃO AO ERÁRIO PROMOVIDO PELA ADMINISTRAÇÃO. RECONHECIMENTO DA ILEGITIMIDADE DO DESCONTO. DEVOLUÇÃO. DECORRÊNCIA LÓGICA. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência desta Corte orienta-se no sentido de que a restituição dos valores eventualmente já descontados pela Administração, a título de restituição ao erário, configura decorrência lógica do reconhecimento da ilegitimidade do desconto.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.046.813/AP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RESTITUIÇÃO DE VALORES DESCONTADOS INDEVIDAMENTE DO SERVIDOR. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte possui orientação segundo a qual, nos casos em que descabe a reposição ao erário, a determinação de restituição dos valores porventura já descontados do servidor "é decorrência lógica do reconhecimento de que o desconto é indevido" (2ª T., REsp 1.758.037/CE, Rel. Min. Francisco Falcão, DJe de 27.032019).
+III - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 1.948.323/AP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/3/2022, DJe de 21/3/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. RESTITUIÇÃO AO ERÁRIO. DESCONTOS INDEVIDOS. DEVOLUÇÃO DOS VALORES. DIREITO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. É firme a orientação jurisprudencial das duas Turmas de Direito Público desta Corte de que, nos casos em que descabe a reposição ao erário, a determinação de restituição dos valores porventura já descontados do servidor "é decorrência lógica do reconhecimento de que o desconto é indevido" (REsp 1758037/CE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 21/03/2019, DJe 27/03/2019).
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.780.439/AP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/12/2019, DJe de 12/12/2019.)
+No mesmo sentido, as seguintes decisões: STJ, REsp 2.114.906/AP, relator Ministro Herman Benjamin, DJe de 21/2/2024; REsp 2.056.852/AP, relatora Ministra Assusete Magalhães, DJe de 17/5/2023; REsp 2.040.234/AP, relator Ministro Gurgel de Faria, DJe de 27/4/2023; REsp 1.979.272/AP, relator Ministro Manoel Erhardt (Desembargador convocado do TRF5), DJe de 3/11/2022.
+Tendo o Tribunal de origem consignado que o pagamento indevido se deu por erro da administração, é de rigor o reconhecimento da inviabilidade do ressarcimento pelo servidor e consequente restituição dos valores eventualmente já descontados.
+Ante o ex posto, acolho os embargos de declaração para, sanando a omissão apontada, integrar a decisão embargada, fazendo constar o parcial conhecimento do recurso especial para, nessa extensão, dar-lhe provimento, para restabelecer o teor da sentença de primeiro grau e determinar a devolução dos valores eventualmente descontados sob este título.
+Publique-se. Intimem-se.
+EMENTA
