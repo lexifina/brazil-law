@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ADILSON DE PAULA TOBIAS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 3006423-51.2025.8.26.0000).
+A controvérsia tratada nos autos foi devidamente sintetizada na decisão na qual a Presidência desta Corte Superior indeferiu o pedido de liminar, cujo relatório ora transcrevo (e-STJ fl. 42):
+Trata-se de com pedido de liminar impetrado em favor Habeas Corpus de ADILSON DE PAULA TOBIAS, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que foi indeferido o pedido de livramento condicional.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto o requisito temporal objetivo para o livramento condicional foi devidamente cumprido, e o paciente apresenta bom comportamento atual, conforme relatório informativo.
+Alega que as infrações disciplinares registradas são antigas e já reabilitadas, não podendo ser consideradas para prejudicar o reconhecimento do direito ao livramento condicional.
+Argumenta que o exame criminológico foi favorável ao paciente, destacando sua aptidão para o exercício de trabalho lícito, requisito fundamental para a concessão do benefício.
+Expõe que a negativa do livramento condicional afronta os princípios constitucionais da Legalidade Estrita e da Individualização da Pena, pois carece de fundamento legal e adia o reconhecimento do direito para um momento incerto.
+Defende que a superlotação carcerária no estabelecimento prisional onde o paciente se encontra impõe uma reflexão sobre a efetividade da pena privativa de liberdade, violando os direitos fundamentais dos apenados.
+Requer, liminarmente e no mérito, a concessão do livramento condicional.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (e-STJ fls. 90/94).
+É o relatório.
+Decido.
+Conforme registrado no acórdão de e-STJ fls. 8/14, a defesa interpôs, agravo em execução contra a decisão impugnada na origem por meio de habeas corpus , cujo julgamento deu origem ao presente writ.
+A pacífica jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus impetrados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO MANEJADA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. AGRAVO EM EXECUÇÃO INTERPOSTO CONTRA O DECISUM DE PRIMEIRO GRAU. PRINCÍPIO DA UNIRRECORRIBILIDADE. QUESTÃO DE FUNDO NÃO APRECIADA PELO COLEGIADO DE SEGUNDO GRAU. IMPOSSIBILIDADE DE ESTA CORTE EXAMINAR A CONTROVÉRSIA PER SALTUM. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A inicial deste feito foi impetrada contra decisão singular de Desembargador Relator do Tribunal de origem, a qual não foi impugnada por agravo interno/regimental. Assim, ausente o exaurimento da instância ordinária, impõe-se o não conhecimento da ação mandamental. De fato, o entendimento desta Corte Superior é firme no sentido de que " n ão se submete à competência do Superior Tribunal de Justiça o exame de habeas corpus impetrado contra decisão singular de desembargador. Precedentes" (AgRg no HC 746.912/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/08/2022, DJe 08/08/2022).
+2. Ademais, ao interpor, contemporaneamente ao mandamus originário, agravo em execução na origem, a Defesa violou o princípio da unirrecorribilidade, segundo o qual, contra uma única decisão judicial admite-se, ordinariamente, apenas uma via de impugnação.
+Lado outro, a Corte estadual não analisou o mérito da controvérsia principal, em razão da inadequação do habeas corpus para a discussão de matéria afeta à execução penal, o que impede o exame da aduzida inidoneidade da motivação lançada na decisão que indeferiu a prisão domiciliar ao Apenado, de forma originária, por este Sodalício, sob pena de indevida supressão de instância.
+3. Embora o art. 654, § 2.º, do Código de Processo Penal preveja a possibilidade de concessão de habeas corpus, de ofício, " t al providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 15/03/2022, DJe 22/03/2022).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 884.680/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO MANTIDA EM APELAÇÃO. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE VIOLAÇÃO. MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO DA IMPETRAÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em violação ao princípio da colegialidade na decisão proferida nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça - RISTJ que dispõe que cabe ao relator, em decisão monocrática, "não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida", lembrando, ainda, a possibilidade de apreciação pelo órgão colegiado por meio da interposição do agravo regimental.
+2. Não se mostra adequada a possibilidade de análise da matéria para eventual concessão da ordem de ofício, haja vista a interposição concomitante de recurso especial perante o Tribunal de origem . Com efeito, nos termos da jurisprudência consolidada nesta Corte Superior, inviável o conhecimento de habeas corpus impetrado concomitantemente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+3 . Agravo regimental desprovido.
+(AgRg no HC n. 809.553/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Portanto, constatada a tramitação concomitante de agravo em execução e habeas corpus, o rito de cognição sumária não pode subsistir, conforme destacado pela Corte estadual, ao indeferir liminarmente o writ originário.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
