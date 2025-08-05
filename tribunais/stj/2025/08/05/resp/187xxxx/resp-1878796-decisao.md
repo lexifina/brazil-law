@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por IGO SALIGNAC DE SA, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS.
+Consta dos autos que o ora recorrente foi condenado, em primeiro grau de jurisdição, à pena de 17 anos e 8 meses de reclusão, em regime fechado, pela prática dos crimes dos arts. 157, §2º, II e V, c/c art. 70; e 157, § 2º, II, todos do Código Penal, e ao pagamento de 20 dias-multa.
+Em sede de apelação, houve, apenas, a correção de erro material por ocasião do cálculo das sanções penais.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação aos artigos 7º, inciso XXI, da Lei nº 8.806/94 (nova redação dada pela Lei nº 13.245/2016); 6º, inciso VII; 226; 386, inciso VII, todos do Código de Processo Penal.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+É o relatório. DECIDO.
+O recurso ora em análise não preenche requisito indispensável de admissibilidade recursal.
+Constata-se, quanto à suposta violação ao art. 7º, inciso XXI, da Lei nº 8.806/94 (nova redação dada pela Lei nº 13.245/2016), ante a ausência de defesa técnica na fase inquisitorial, que o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte Superior, pois "inexiste nulidade do interrogatório policial por ausência do acompanhamento do paciente por um advogado, sendo que esta Corte acumula julgados no sentido da prescindibilidade da presença de um defensor por ocasião do interrogatório havido na esfera policial, por se tratar o inquérito de procedimento administrativo, de cunho eminentemente inquisitivo, distinto dos atos processuais praticados em juízo". (HC 162.149/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 24/4/2018, D Je 10/5/2018).
+Deve incidir, portanto, a Súmula n. 83 do Superior Tribunal de Justiça.
+Por sua vez, em relação à alegada violação ao art. 226 do CPP, vê-se que o reconhecimento pessoal do recorrente pela vítima não foi a única prova sobre a autoria, a qual foi amparada em outras provas constantes do caderno processual e não impugnadas pela defesa, o que atrai a aplicação, por analogia, da Súmula 283 do Supremo Tribunal Federal, ao dispor que é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Por fim, para infirmar as conclusões adotadas pelo acórdão recorrido, no sentido de que não há elementos probatórios que apontem que o recorrente foi torturado, seria necessário proceder à incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Ante o exposto, não conheço do recurso especial, nos termos do art. 255, §4º, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
