@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido de liminar, interposto por CRISTIELE TRINDADE PANTOJA e NELSON DA TRINDADE contra o acórdão proferido pelo Tribunal de Justiça do Estado do Amapá no HC n. 6001454-78.2025.8.03.0000.
+Nas razões do recurso, a Defesa alega constrangimento ilegal em virtude da execução provisória da pena imposta aos recorrentes após condenação pelo Tribunal do Júri da Comarca de Macapá/AP.
+Insurge contra a decisão do Juízo da Vara do Tribunal do Júri, que determinou a execução imediata da pena com base no artigo 492, I, "e", do Código de Processo Penal - CPP, conforme alterado pela Lei n. 13.964/2019, e busca garantir a observância ao princípio da presunção de inocência, previsto no artigo 5º, LVII, da Constituição Federal, que impede a execução provisória da pena sem o trânsito em julgado da condenação (fls. 91-95).
+Argumenta que a execução antecipada da pena viola o princípio constitucional da presunção de inocência e que tal medida só se justifica nas hipóteses expressamente previstas em lei, como a prisão preventiva, que exige análise individualizada e fundamentada dos requisitos autorizadores previstos nos artigos 312 e 313 do CPP (fls. 94-96).
+Destaca que a decisão recorrida carece de fundamentação individualizada, limitando-se a determinar a execução penal com base genérica na condenação pelo Tribunal do Júri, sem realizar análise concreta dos elementos do caso (fls. 99-100).
+Sustenta que a imposição da execução penal provisória com base exclusiva na condenação pelo Tribunal do Júri configura indevida antecipação do cumprimento da pena, violando a presunção de inocência, o devido processo legal e o princípio da motivação das decisões judiciais (fls. 99-100).
+Requer seja dado provimento ao recurso, suspendendo a execução da pena até o trânsito em julgado da condenação, e que, caso presentes os requisitos legais para prisão cautelar, esta seja decretada mediante fundamentação concreta e individualizada (fl . 102).
+Intimado, o Ministério Público Federal manifestou-se pelo desprovimento do recurso ordinário em habeas corpus (fls. 108-114).
+É o relatório. DECIDO.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, XVIII, "b", dispõe que o relator pode decidir monocraticamente para "negar provimento ao recurso ou pedido que for contrário a tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante sobre o tema".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Pois bem.
+Para melhor delimitação da controvérsia trazida neste recurso, transcrevo trechos do acórdão ora recorrido (fls. 77-78 - grifei):
+"MÉRITO
+O Excelentíssimo Senhor Desembargador CARMO ANTÔNIO (Relator) - O Supremo Tribunal Federal - STF fixou a tese de repercussão geral, Tema 1068, nos seguintes termos: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada". O Superior Tribunal de Justiça - STJ, por sua vez, acompanhando a Suprema Corte, decidiu que é devida a imediata execução da condenação imposta pelo Tribunal do Júri, independentemente do total da pena aplicada.
+ ..
+Veja que a interpretação do Supremo Tribunal Federal é clara no sentido de que a prisão dos pacientes configura mera consequência legal da condenação, efetivando o princípio da soberania dos vereditos. Assim, a decisão de imediato cumprimento da pena deve ser observada,
+Ademais, o entendimento do STF, em sede de repercussão geral, possui força vinculante, nos termos do art. 927, III, CPC. Esse dispositivo impõe a obrigatoriedade de observância das decisões do Supremo Tribunal Federal, conferindo uniformidade às decisões judiciais, especialmente nas instâncias ordinárias. Portanto, a tese firmada pelo STF no Tema 1068 deve ser seguida por todos os juízos e tribunais, sendo inaplicável qualquer distinção, tal qual sugerida pelo impetrante.
+Dessa forma, inexiste constrangimento ilegal decorrente da determinação de execução provisória no caso de condenação no âmbito do Tribunal do Júri, sendo idônea a fundamentação apresentada na decisão referenciada, pois em consonância com a tese de julgamento no tema de repercussão geral n.º 1.068.
+Diante do exposto, DENEGO a ordem, e julgo prejudicado o agravo interno."
+Conforme se depreende dos excertos acima colacionados, na hipótese vertente, aplicou-se, ipsis litteris, o atual entendimento jurisprudencial dos Tribunais Superiores sobre o tema, não havendo que se falar em qualquer flagrante ilegalidade.
+A propósito:
+" ..
+1. Conforme entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema 1.068 da repercussão geral, "a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+2. O art. 492, I, "e", do Código de Processo Penal, na redação dada pela Lei n. 13.964/2019, prevê a execução provisória da pena como medida decorrente da condenação proferida pelo Tribunal do Júri, não estando condicionada à presença dos requisitos da prisão preventiva (art. 312 do CPP).
+3. A decisão agravada, ao restabelecer a ordem de prisão com base em referida norma processual, alinha-se à orientação fixada pelo Supremo Tribunal Federal, não implicando afronta ao princípio da presunção de inocência.
+4. Agravo regimental não provido." (AgRg no REsp n. 2.197.745/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2025, DJEN de 27/6/2025.)
+" ..
+1. O agravante busca o direito de recorrer em liberdade após condenação pelo Tribunal do Júri.
+2. A questão em discussão consiste em determinar se há constrangimento ilegal na execução provisória da pena após condenação pelo Tribunal do Júri, considerando a decisão do Supremo Tribunal Federal sobre a soberania dos veredictos.
+3. A execução provisória da pena é fundamentada no princípio da soberania dos veredictos do Tribunal do Júri, conforme entendimento da Suprema Corte no Tema n. 1.068 de repercussão geral.
+4. A norma processual do art. 492, I, e, do CPP, que autoriza a execução imediata da pena, é aplicável independentemente da data dos fatos, não configurando retroatividade prejudicial.
+5. O STF não modulou a eficácia ou a vigência da tese contida no precedente qualificado, não fazendo diferenciação temporal para a aplicação do referido tema de repercussão geral. Ainda, ressalte-se que o caso julgado em repercussão geral pela Suprema Corte referiu-se a crime ocorrido em 11/8/2016, com sentença do Tribunal do Júri datada de 30/11/2018, ou seja, ambos anteriores à Lei n. 13.964/2019, o que indica que a época da ocorrência dos fatos não influencia a execução provisória da sentença condenatória em casos do Tribunal do Júri.
+6. Agravo regimental improvido." (AgRg no RHC n. 214.334/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
+Assim sendo, considerando que a conclusão proferida pela instância ordinária no aresto recorrido está em consonância com o entendimento jurisprudencial deste Superior Tribunal de Justiça, não se vislumbra, no caso, a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício.
+Ante todo o exposto, com fulcro no artigo 34, inciso XVIII, alínea "b" do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
