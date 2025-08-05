@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por JANGA INDUSTRIA E COMERCIO DE MATERIAIS DOMESTICOS LTDA, desafiando decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) não houve negativa de prestação jurisdicional; (II) ausente prequestionamento, com a incidência da Súmula 282/STF, porquanto "aplicabilidade da Taxa Selic, o Artigo 39, §4º, da Lei Federal nº 9.250/95 não foi objeto de debate e deliberação pelo órgão colegiado deste Tribunal" (fl. 642); e (III) incidente da Súmula 280/STF, pois "a análise do mérito do presente Recurso Especial demandaria a apreciação das normas locais que tratam dos consectários legais no âmbito estadual (Lei nº. 16.226/2017 e Lei nº.10.654/91)" (fl. 643).
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, a saber, a incidência das Súmulas 282/STF e 280/STF.
+A esse respeito, é imperioso frisar que, negado o processamento do recurso especial ante a ausência de prequestionamento da matéria veiculada no apelo raro, é essencial que as razões do agravo demonstrem o seu efetivo debate pelo acórdão recorrido. De fato, "Para impugnar a falta de prequestionamento, deveria ter se remetido à ratio decidendi a fim de especificar em que trechos haveria debate judicial suficiente acerca do conteúdo de cada um dos dispositivos que o recorrente julga violados." (AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024).
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
