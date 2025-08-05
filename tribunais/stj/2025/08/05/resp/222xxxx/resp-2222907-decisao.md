@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA DO SOCORRO PAZ DE SOUSA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim ementado:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE RESTABELECIMENTO DE BENEFÍCIO PREVIDENCIÁRIO PENSÃO POR MORTE. SENTENÇA DE IMPROCEDÊNCIA. PRESCRIÇÃO DO DIREITO DE AÇÃO DE OBTER O RESTABELECIMENTO DO BENEFÍCIO. POSSIBILIDADE DE FORMULAR NOVO PEDIDO DE BENEFÍCIO. DESPROVIMENTO.
+- Se a parte, durante os próximos 5 anos seguintes da cessação, não promover a ação para restabelecimento do benefício, ou sua conversão em aposentadoria, deve ser reconhecida a ocorrência da prescrição quinquenal. No entanto, nada impede que ela faça novo requerimento para a concessão de novo benefício, onde a autarquia terá direito de impugná-lo, onde será respeitado o contraditório e a ampla defesa no procedimento administrativo.
+- Apelo desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, a recorrente aponta como violado o art. 103 da Lei n. 8.213/91. Sustenta, em síntese, que o prazo decadencial não se aplica às questões não apreciadas por ocasião do ato de concessão. Indica divergência jurisprudencial com julgados do STJ.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Para reconhecer a prescrição, o acórdão recorrido assim restou fundamentado (fls. 216-218):
+Extrai-se dos autos que efetivamente a apelante fora acobertada pelo benefício do "pensão por morte", e cessado seu pagamento em março de 2009. O julgador , por sua vez, entendeu que como a ação foraa quo proposta em 02/12/2020, teria se operado a prescrição.
+Pois bem.
+Acerca da ocorrência da prescrição, o Superior Tribunal de Justiça tem posicionamento firme no sentido de que transcorrido o prazo de 05 (cinco) anos entre a data do indeferimento ou cessação do benefício previdenciário o reconhecimento da prescrição é de rigor.
+Desta feita, decorridos mais de cinco anos da negativa, pela cessação do referido benefício, ocorre , sema prescrição do direito de ação de obter o restabelecimento daquele específico benefício prejuízo, todavia, de que o segurado possa formular novo pedido de benefício.
+(..)
+Portanto, se a parte, durante os próximos 5 anos seguintes da cessação, não promover a ação para restabelecimento do benefício, ou sua conversão em aposentadoria, deve ser reconhecida a ocorrência da prescrição quinquenal. No entanto, nada impede que ela faça novo requerimento para a concessão de novo benefício, onde a autarquia terá direito de impugná-lo, onde será respeitado o contraditório e a ampla defesa no procedimento administrativo.
+(..)
+Portanto, resta prescrito o direito da apelante em relação à pensão por morte cessada há mais de 5 (cinco) anos, sem que haja prescrição do fundo de direito, devendo a autora/apelante, no entanto, efetuar novo pedido de auxílio doença diretamente na autarquia.
+A pretensão recursal de rever o posicionamento adotado no acórdão recorrido quanto a prescrição teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. INTERRUPÇÃO DA PRESCRIÇÃO. ART. 240 DO CÓDIGO CIVIL. PROTESTO REALIZADO. PRESCRIÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. DISTRATO. MATÉRIA CONTROVERTIDA NOS AUTOS. DISCUSSÃO SOBRE VALIDADE. DECISÃO CONDICIONAL IMPOSSIBILITADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A prescrição se interrompe com a citação (art. 240 do CPC) e a interrupção retroage à data da propositura da ação, se o autor cuidar de promover a citação nos dez dias seguintes (art. 240, § 2º, do CPC), não prejudicando a demora imputável, exclusivamente, ao serviço judiciário.
+2. No caso, o Tribunal de origem afirmou que não se configurou a prescrição, em razão de sua interrupção efetivada por protesto judicial. Concluir em sentido diverso, verificando se efetivamente houve protesto apto a interromper a prescrição mencionada, demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.164.056/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. CONFISSÃO DE DÍVIDA. COMPRA E VENDA DE MÁQUINAS. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO ANTECIPADO. ÚLTIMA PRESTAÇÃO. PRESCRIÇÃO INTERCORRENTE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA.
+1. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato. Precedentes.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da prescrição intercorrente demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+3. A Segunda Seção desta Corte já decidiu que a aplicação da multa por litigância de má-fé não é automática, visto não se tratar de mera decorrência lógica da rejeição do agravo interno.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.946.428/MA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA CONTRA EMPRESA PÚBLICA FEDERAL (CORREIOS/ECT). INÉPCIA DA INICIAL. VERIFICAÇÃO DEPENDENTE DO EXAME DE PROVAS. MINISTÉRIO PÚBLICO. INTIMAÇÃO. AUSÊNCIA. INEXISTÊNCIA DE PREJUÍZO. NULIDADE. NÃO OCORRÊNCIA. PRESCRIÇÃO. ACÓRDÃO PELO AFASTAMENTO. RAZÕES RECURSAIS NÃO REVELADORAS DE ILEGALIDADE. REVISÃO. EXAME DE PROVA.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Não se conhece do recurso especial, na parte relacionada à inépcia da petição inicial, porque a revisão do acórdão recorrido dependeria do reexame de provas. Observância da Súmula 7 do STJ.
+3. Não se conhece do recurso especial, quanto à tese de nulidade decorrente da ausência de intimação do Ministério Público, porque a parte não infirma a conclusão de que não se declara nulidade sem prejuízo, ao tempo em que ignorou o fato de ter sido apresentado parecer no âmbito do tribunal de origem. Além disso, é pacífica a orientação jurisprudencial segundo a qual não se declara nulidade sem prejuízo, além de a só presença de empresa pública não ensejar intervenção obrigatória do Parquet, notadamente quando não comprovado o interesse público. Observância das Súmulas 83 do STJ e 283 do STF.
+4. Com relação à prescrição, o conhecimento do recurso encontra óbice nas Súmulas 7 do STJ e 284 do STJ, uma vez que, além de as razões recursais não conseguirem explicitar o porquê de o acórdão recorrido estar violando o art. 1º do Decreto n. 20.910/1932, eventual conclusão pela prescrição de toda a pretensão autoral dependeria do reexame de provas.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no AREsp n. 2.021.087/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/5/2023, DJe de 4/5/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE COBRANÇA. CRECHES DA REDE MUNICIPAL. EXAME DE OBRAS. ADITIVOS CONTRATUAIS. PRESCRIÇÃO DA PRETENSÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ.
+1. Cuida-se de Agravo Interno contra decisum que conheceu do Agravo para não conhecer do Recurso Especial.
+2. Na origem, cuida-se de inconformismo contra decisum do Tribunal de origem que não admitiu o Recurso Especial, sob o fundamento de ausência de omissão no julgado recorrido; de impossibilidade de reapreciação do conjunto probatório dos autos quanto à análise da ocorrência ou não de prescrição; e, ainda, de incidência da Súmula 83/STJ, no tocante à causa interruptiva e reinício do lapso prescricional.
+3. No tocante à alegada ofensa ao art. 1º do Decreto 20.910/1932, o Superior Tribunal de Justiça firmou entendimento no sentido de que a análise da ocorrência ou não da prescrição demanda incursão na seara fática dos autos, medida vedada na via eleita, conforme Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Precedentes do STJ.
+4. Quanto à interrupção da prescrição, o acórdão adotou entendimento alinhado ao do STJ. Veja-se: AgInt no AREsp 1.786.762/DF, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 7/10/2021; AgInt no REs 1.612.708/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe de 13/4/2018. Portanto, diante das razões acima expendidas, verifica-se que a instância a quo decidiu de acordo com a jurisprudência do STJ, de modo que se aplica o enunciado da Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.100.183/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/10/2022, DJe de 4/11/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
