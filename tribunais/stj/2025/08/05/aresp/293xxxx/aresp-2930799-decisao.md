@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por Unilever Brasil Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 490):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. ICMS. COMPENSAÇÃO DE CRÉDITO TRIBUTÁRIO. ART. 34, DA LEI 1.423/89. MULTA ADMINISTRATIVA. Apelante que se insurge contra sentença que julgou improcedente o pedido nos embargos à execução, sob o fundamento de que a Embargante não logrou êxito em constituir prova de seu direito. INEXISTÊNCIA DE COMPROVAÇÃO DA REGULARIDADE DOS CRÉDITOS. Embargante que, em sede administrativa ou judicial, não traz aos autos a documentação necessária para comprovar a regularidade da compensação de crédito de ICMS. INTELIGÊNCIA DO ART. 35 DA LEI 1.423/89. NÃO OBSERVÂNCIA DO ART. 38 DO DECRETO 8.050/1985 - RICM, em vigência à época da aplicação da multa. REGULARIDADE DA CDA. SENTENÇA QUE NÃO MERECE REFORMA. RECURSO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 522/528).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1.022, II, do CPC, ao argumento de que, a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca das questões neles suscitadas, a saber, sobre a alegação de que "deixou de analisar a documentação apresentada no processo administrativo, que estava de acordo com os requisitos estabelecidos no artigo 107 do Livro 2 do RICMS, bem como não se pronunciou sobre as alegações relativas aos demais períodos" (fl. 540).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, acerca da questão tida por omissa, a saber, a alegação de que "deixou de analisar a documentação apresentada no processo administrativo, que estava de acordo com os requisitos estabelecidos no artigo 107 do Livro 2 do RICMS, bem como não se pronunciou sobre as alegações relativas aos demais períodos" (fl. 540), assim se manifestou o Tribunal de origem em sede de acórdão integrativo (fls. 523/527):
+A Embargante suscita omissão do acórdão referente à análise da documentação que alega comprovar seus créditos tributários e dos documentos exigidos pelo art. 107 do Livro 2 do RICMS.
+5. Os supracitados documentos referem-se às seguintes datas e períodos:
+Período de 02/06/1993 a 01/02/1994
+a) os valores de R$ 175.592,72 e R$ 45.400,54 não se referem a estornos, mas sim a cancelamentos de saída de mercadoria do estabelecimento. Ressaltando que, nos termos do art. 107, do Livro 02 do RICMS, o contribuinte deveria observar que os requisitos de (i) indicação no verso da 1ª via da Nota Fiscal, as razões determinantes do não recebimento da mercadoria; (ii) emissão de Nota Fiscal de Entrada, lançando-a na coluna "Operações com Crédito do imposto", do Livro Registro de Entrada; e, (iii) anotação da ocorrência da via presa ao bloco.
+Quanto à data 28/05/1995
+b) o valor de R$ 660,00 se refere ao DIFAL pela transferência de veículo automotor para filial localizada fora do Estado, com lançamento realizado na Livro de registro de Apuração, no campo 007 "Outros créditos" e Nota Fiscal de entrada n.º 00155.
+Quanto à data 25/10/1996
+c) o valor de R$220,54 tem relação com entrada de produtos para amostra transferidas do estabelecimento situado em São Paulo, através de Notas Fiscais n.º 005210 e 005211, série 2.
+Quanto à data 10/11/1996
+d) o valor de R$ 45.064,28, relaciona-se com ICMS de serviço de teleprocessamento de dados concernentes aos 5 (cinco) anos anteriores à autuação.
+Quanto à data 25/12/1996
+e) o valor de R$ 413,22 se refere ao crédito efetuado posteriormente à entrada, em razão da saída tributada, nos termos do art. 25, § 2º, do Código Tributário Nacional, de Notas Fiscais n.º 13480, 13730 e 13753.
+Quanto à data 10/01/1997
+f) o valor de R$ 990,04 tem relação a "Outros Créditos", lançado no Livro de Registro de Apuração n.º 05, de Nota Fiscal n.º 1537, tratando-se de diferença de alíquota relativa à entrada de bens do ativo no estabelecimento, proveniente de outro Estado.
+6. Os Embargos de Declaração têm por finalidade sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (ut EDcl no AgInt no REsp 1825554 / RS, DJe 05/03/2021). Trata-se de um recurso de fundamentação vinculada (in Mozart Borba, Diálogos sobre o CPC - 8. ed. rev., ampl. e atual. - Salvador: Ed. Juspodivm, 2021, p. 798). Porém, a hipótese dos autos não se subsome a nenhum dos vícios apontados pela lei processual. Vejamos:
+7. Conforme fundamentado na decisão colegiada embargada, a Embargante não se desincumbiu de realizar as comprovações dos fatos que justifiquem a escrituração referentes às datas e períodos acima discriminados. Na verdade, a Apelante afirma que as escriturações sem a devida comprovação dos fatos que as originou, deve ser o bastante para afastar a incidência da multa que lhe foi imposta. Ao contrário da dedução lógica utilizada pela Embargante nos aclaratórios, a ausência de comprovação se refere à idoneidade da origem dos créditos e não à escrituração propriamente dita.
+8. Os recorrentes não apontaram qualquer fato que pudesse afastar a racionalidade jurídica da decisão que negou provimento ao seu recurso. Daí porque, no caso em julgamento, se conclui pela ausência de comprovação do direito à utilização dos créditos, sendo esta a motivação da aplicação da multa, contra a qual se insurge a Embargante.
+ ..
+13. Como explicitado na decisão colegiada: "por reiteradas vezes, foi indicada no Processo Administrativo a ausência de comprovação de documentos para justificar os créditos escriturados no Livro de Regulamento do ICMS - RICMS, mas a Apelante optou pela não produção desta prova, que fulminaria a pretensão da cobrança da multa pela Administração Pública no Processo Administrativo".
+14. Analisando as peças processuais, impõe-se reconhecer que não merecem prosperar quaisquer das alegações da Embargante, pelos motivos relatados.
+Afastam-se, assim, as alegadas omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
