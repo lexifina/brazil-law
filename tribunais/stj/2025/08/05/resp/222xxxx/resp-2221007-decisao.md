@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial, interposto por JUCENIR LINHARES LOPES, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado (fl. 544):
+APELAÇÃO CRIMINAL - SENTENÇA CONDENATÓRIA - FURTO SIMPLES - INSURGÊNCIA DA ACUSAÇÃO. PLEITO DE QUALIFICAÇÃO DOS CRIMES PELA ESCALADA E ROMPIMENTO DE OBSTÁCULO - PROVIMENTO - FALTA DA PERÍCIA PODE SER SUPRIDA POR OUTROS ELEMENTOS PROBATÓRIOS. ESCALADA COMPROVADA - DEPOIMENTO DA VÍTIMA, LEVANTAMENTO DIRETO DO LOCAL DO CRIME, FOTOS DO LOCAL. ROMPIMENTO DE OBSTÁCULO COMPROVADO - DEPOIMENTO DAS VÍTIMAS, LEVANTAMENTO DIREITO DO LOCAL DO CRIME, FOTOS DO LOCAL E TESTEMUNHO DA POLICIAL QUE ATENDEU A OCORRÊNCIA - CONDENAÇÃO DO RÉU NAS SANÇÕES DO ARTIGO 155, §4º INCISOS I, E II, DO CÓDIGO PENAL, BEM ASSIM AO PAGAMENTO DAS CUSTAS DO PROCESSO - DOSIMETRIA DA PENA - CONCURSO DE QUALIFICADORAS DA ESCALADA E DO ROMPIMENTO DE OBSTÁCULO - DESLOCAMENTO DE UMA DAS QUALIFICADORAS PARA A PRIMEIRA FASE, PARA VALORAÇÃO NEGATIVA DE CIRCUNSTÂNCIA JUDICIAL - PENA FIXADA EM 5 ANOS, 6 MESES E 15 DIAS DE RECLUSÃO, E 12 DIAS-MULTA - FIXAÇÃO DO REGIME INICIAL SEMIABERTO.
+Consta dos autos que o recorrente foi condenado pela prática de furto simples, com pena de 1 ano e 2 meses de reclusão em regime aberto e multa de 10 dias-multa.
+O Tribunal de origem, ao julgar o recurso de apelação interposto pelo Ministério Público, deu provimento, reconhecendo as qualificadoras de escalada e rompimento de obstáculo, redimensionando a pena em 5 anos, 6 meses e 15 dias de reclusão, em regime semiaberto.
+No recurso especial, a defesa sustenta violação ao art. 158 do Código de Processo Penal, argumentando que não houve exame pericial para constatar o rompimento de obstáculo e a escalada, sendo imprescindível a demonstração pelo magistrado de que não foi possível sua realização para fins de dispensa da prova pericial.
+Requer, assim, o provimento do recurso para desclassificar a conduta do furto qualificado para o crime de furto simples, previsto no art. 155, caput, do Código Penal.
+O recurso foi admitido pela Corte de origem (fls. 598-599).
+As contrarrazões foram apresentadas (fls. 591-594).
+O Ministério Público Federal manifestou-se, às fls. 614-619, pelo desprovimento do recurso, nos termos da seguinte ementa:
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO E ESCALADA. NÃO REALIZAÇÃO DE PERÍCIA. POSSIBILIDADE DE SUPRIMENTO DA PROVA TÉCNICA POR OUTROS MEIOS PROBATÓRIOS. PRECEDENTES. SÚMULA Nº 83/ STJ. TEMA REPETITIVO Nº 1107/STJ. PARECER PELO DESPROVIMENTO DO RECURSO ESPECIAL.
+É o relatório. Decido.
+O recurso é tempestivo e o recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação.
+No que tange à alegação de contrariedade ao artigo elencado pelo recorrente, por se tratar de matéria de direito, conheço do recurso e passo à análise.
+A controvérsia trazida no recurso cinge-se à necessidade de realização de exame pericial para comprovar as qualificadoras de rompimento de obstáculo e escalada no crime de furto.
+No caso, tem-se que o Tribunal de Justiça do Estado do Paraná entendeu pela manutenção das qualificadoras sob o argumento de que, apesar de ausência de laudo pericial, este é prescindível quando há outros meios de prova. Constou da fundamentação do acórdão recorrido (fls. 547-549):
+b.1) DA QUALIFICADORA DA ESCALADA
+Objetiva o apelante o reconhecimento da qualificadora da escalada, porquanto além da prova testemunhal, tem-se a prova documental (Relatório de Diligências do mov. 45.1).
+Ainda que não se tenha realizado perícia para o reconhecimento da qualificadora da escalada, esta pode ser substituída por outros meios probatórios, e no caso o depoimento da vítima Ana Maria Portella (147.3), no sentido de que: ".. no momento em que cheguei no portão, uma vizinha minha saiu correndo pedindo se era da minha casa que tinha sido o furto. Eu falei que sim. Daí ela falou que tinha visto ele sair pelo muro da minha casa com a da vizinha ..", o levantamento direto (45.1) esclarecendo que: "Quanto ao levantamento do local dos fatos, para verificação de materialidade de qualificadora foi constatado o que segue: o autor escalou o muro da frente da residência, pulando no pátio da mesma, logo após foi até os fundos e arrombou uma porta de madeira, adentrando na residência e cometendo o furto", estando o Relatório do dia 4/07/2023 acompanhado de fotos do espaço em que se deu a escalada e da porta que havia sido arrombada (já substituída quando a diligência foi realizada), demonstrando que, embora Ana Maria Portella tenha dito que os policiais não foram a sua residência, a inspeção efetivamente ocorreu.
+ ..
+Da foto do mov. 45.2, do local em que o acusado foi visto saindo, pela vizinha de frente (depoimento da vítima - minuto 6:11), é possível se extrair a necessidade do uso da escalada para o acesso ao local, uma vez que o desnível da casa vizinha não tem influência para o ingresso da residência furtada a partir do nível da rua, ou na saída, quando deve ser considerada a altura do muro a partir do terreno da vítima, estando sobejamente demonstrada a qualificadora do art. 155, § 4º, II, do CP.
+b.2) DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO
+Busca o recorrente ver aplicada a qualificadora do rompimento de obstáculo, defendendo que o fato está demonstrado pela prova testemunhal dos policiais que atenderam a ocorrência, pelas declarações das vítimas em juízo, e pelo Relatório de Inspeção do Local do Crime do mov. 45).
+Conforme já referido, assim como a qualificadora da escalada, a do rompimento de obstáculo pode ser suprida por outros elementos de prova.
+Além das vítimas terem esclarecido em seus depoimentos, tanto Ana Maria como João Alberto, a porta dos fundos foi quebrada na sua parte de baixo, por onde o acusado acessou a residência, tendo havido a necessidade de sua substituição. O relatório do levantamento do local do crime esclarece que houve o rompimento de obstáculo, mas que no momento da inspeção não havia vestígios, porque a vítima já havia feito o reparo. E, sobre o rompimento de obstáculo a policial que atendeu a ocorrência e esteve na residência testemunhou (mov. 175.1 - min. 1:56 e 3:00) que a porta foi arrombada por meio de chutes e empurrões.
+Desse modo, não remanesce dúvida de que houve o rompimento de obstáculo, pelo arrombamento da porta dos fundos da residência.
+Como se observa, a Corte de origem reconheceu a escalada e o rompimento de obstáculo com base em provas testemunhais (vítima, vizinha e policiais), levantamento do local do crime, relatório de diligências e fotografias, suprindo a ausência de laudo pericial.
+Com efeito, a decisão recorrida coaduna-se com o entendimento jurisprudencial do e grégio Superior Tribunal de Justiça que admite a possibilidade de suprimento da perícia nos crimes que deixam vestígios, desde que haja outros elementos de prova suficientemente aptos a comprovar a materialidade da qualificadora, conforme previsão do art. 167 do CPP. Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. PERÍCIA PRESCINDÍVEL NO CASO. PENA-BASE. PERSONALIDADE. VALORAÇÃO NEGATIVA AFASTADA. DEMAIS VETORES JUSTIFICADOS. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que manteve a qualificadora de rompimento de obstáculo no crime de furto, bem como a exasperação da pena-base.
+II. Questão em discussão
+2. Há quatro questões em discussão: a) saber se a qualificadora de rompimento de obstáculo pode ser mantida sem a realização de exame pericial; b) saber se a qualificadora do concurso de agentes pode ser considerada na primeira fase da dosimetria; c) saber se o prejuízo da vítima justifica de forma idônea a exasperação da pena-base; e d) saber se a personalidade dos agentes pode ser justificada por outros delitos cometidos posteriormente ao fato denunciado.
+III. Razões de decidir
+3. Embora a incidência das qualificadoras previstas no art. 155, § 4º, I e II, do Código Penal dependa, em regra, da confecção de laudo pericial, em situações excepcionais, é possível reconhecê-las, mesmo sem a produção da prova técnica, se cabalmente demonstrada a escalada ou o rompimento de obstáculo por meio de outras provas.
+4. Quanto à personalidade dos agentes, o cometimento de posteriores delitos enquanto cumpriam pena e quando agraciados com liberdade provisória não podem ser considerados.
+5. Quanto à valoração negativa das consequências do crime, o telefone celular de valor expressivo subtraído no caso concreto e o vidro quebrado do veículo demonstram prejuízo não inerente ao tipo penal. Conclusão diversa que esbarra no óbice da Súmula n. 7 desta Corte.
+6. Existente duas qualificadoras, a utilização de uma delas na primeira fase da dosimetria da pena é admitida por esta Corte.
+IV. Dispositivo e tese
+7. Agravo regimental parcialmente provido para afastar a valoração negativa da personalidade, com readequação da pena.
+Tese de julgamento: "1. A qualificadora de rompimento de obstáculo pode ser mantida sem exame pericial, quando comprovada por outros meios de prova. 2. A personalidade dos agentes não pode ser avaliada pelo cometimento de posteriores delitos enquanto cumpriam pena e quando agraciados com liberdade provisória não podem ser considerados."
+(AgRg no AREsp n. 2.836.123/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025.) (grifei)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. ACORDO DE NÃO PERSECUÇÃO PENAL. DOSIMETRIA DA PENA. QUALIFICADORA DE ESCALADA. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+1. Deve ser denegada a ordem quando a impetração busca indevidamente revisar a condenação por furto qualificado, utilizando o habeas corpus como uma espécie de "segunda apelação", o que desvirtua a finalidade do writ. Precedentes.
+2. Hipótese em que a alegação acerca do oferecimento da acordo de não persecução penal está preclusa, pois não foi abordada no recurso de apelação. Precedente.
+3. A revisão da conclusão do acórdão hostilizado quanto à ausência de confissão demandaria reexame probatório, inviável na via eleita.
+4. Não há ilegalidade na conclusão acerca da qualificadora de escalada, pois o furto mediante escalada não deixou vestígios, tornando prescindível o laudo pericial.
+5. Ordem denegada.
+(HC n. 930.147/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.) (grifei)
+Desse modo, o recorrente não apresentou argumentos capazes de infirmar o acórdão recorrido, motivo pelo qual a decisão não merece reparos, devendo ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se
+EMENTA
