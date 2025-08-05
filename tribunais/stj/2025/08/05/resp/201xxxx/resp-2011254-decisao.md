@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por THIAGO ALVES GONÇALVES e DOUGLAS ALVES GONÇALVES, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que os recorrentes THIAGO ALVES GONÇALVES e DOUGLAS ALVES GONÇALVES foram condenados, em primeiro grau de jurisdição, respectivamente, às penas de 13 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado e 16 anos e 4 meses de reclusão, em regime inicial fechado, pela prática do crime descrito no art. 121, §2º, incisos II e IV, c/c o art. 14, II, do Código Penal.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação ao artigo 59, caput, do Código Penal, e divergência jurisprudencial.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+É o relatório. DECIDO.
+O recurso ora em análise não preenche requisito indispensável de admissibilidade recursal. Explico.
+A defesa pleiteou a adequação da pena-base, para afastar os vetores negativos na primeira fase da dosimetria; na segunda fase, buscou-se a compensação das agravantes e atenuantes; e na terceira fase da dosimetria da pena, requereu-se seja aplicada a redução da pena na fração máxima.
+Contudo, o Tribunal de origem asseverou que o pedido da defesa foi genérico, afirmando que "tal pleito não merece conhecimento, tendo em vista que não apresenta mínima fundamentação, atentando claramente à dialeticidade recursal. (..) Deixo, portanto, de conhecer do pedido de redução das penas impostas" (e-STJ fls. 862).
+Com efeito, verifica-se que as referidas teses não foram apreciadas pelo Tribunal de origem. Sendo assim, o conhecimento pelo Superior Tribunal de Justiça implicaria em supressão de instância, o que não pode ser admitido, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+Nesse sentido, "fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF." (AgInt no ARESP 2018844/RJ, Ministro RAUL ARAUJO, Quarta Turma, Data de Julgamento 12/09/2022, D Je 22/09/2022).
+Ademais, a título de argumento de reforço, para infirmar as conclusões adotadas pelo acórdão recorrido seria necessário proceder à incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Ante o exposto, não conheço do recurso especial, nos termos do art. 255, §4º, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
