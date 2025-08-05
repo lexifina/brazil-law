@@ -1,0 +1,132 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de MANUEL AV ELINO DE SOUSA JUNIOR, alegando constrangimento ilegal por parte do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO na apelação criminal n. 0101971-59.2019.8.19.0001, com acórdão assim ementado (fls. 13/14):
+DIREITO PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO, DESTRUIÇÃO E OCULTAÇÃO DE CADÁVER. PRELIMINAR. AVISO DE MIRANDA. PRECLUSÃO. MATÉRIA JÁ DECIDIDA POR ESTE TRIBUNAL. MOTIVO TORPE. PROVAS. RECONHECIMENTO PELO JÚRI. VALIDADE. DOSIMETRIA. MANUTENÇÃO. RECURSO DA DEFESA TÉCNICA NÃO PROVIDO.
+I. CASO EM EXAME
+1. Apelação Criminal interposta contra a sentença que condenou o acusado pelo crime de homicídio qualificado por motivo torpe e destruição e ocultação de cadáver, que fixou uma pena privativa de liberdade em desfavor dele no montante de 18 anos e 04 meses de reclusão, a ser cumprido no regime fechado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber (i) se houve nulidade decorrente da utilização da confissão sem observância do Aviso de Miranda; e, no mérito, (ii) se a decisão do Júri quanto à qualificadora do motivo torpe foi manifestamente contrária à prova dos autos, e, finalmente, (iii) se a dosimetria da pena foi corretamente aplicada.
+III. RAZÕES DE DECIDIR
+3. Rejeita-se a preliminar de nulidade quanto à utilização da confissão, pois a questão já foi objeto de apreciação jurisdicional, havendo preclusão processual.
+4. A decisão do Júri quanto ao reconhecimento da qualificadora de motivo torpe está adequadamente embasada no conjunto probatório produzido, inexistindo manifesta contrariedade à prova dos autos.
+5. Dosimetria corretamente aplicada, com adequada valoração negativa das circunstâncias judiciais vislumbrada no caso, observados, com clareza, os princípios constitucionais da razoabilidade e proporcionalidade.
+IV. DISPOSITIVO E TESE
+6. Recurso da defesa técnica não provido.
+Tese de julgamento: "1. A decisão proferida pelo Tribunal do Júri, que reconheceu a qualificadora de motivo torpe, amparada em provas coligidas na fase instrutória, se afigura suficiente e não se valora como manifestamente contrária à prova dos autos."
+Dispositivos relevantes citadas: CP, arts. 59, 68, 69, 121, §2º, incs. I e IV, e 211. CPP, art. 593, inc. III, alíneas "a" e "d". CF/1988, art. 5º, inc. XLVI.
+Jurisprudência relevante citada: Agravo em Recurso Especial nº 2572671 - TO, Rel. Ministra Daniela Teixeira - Quinta Turma, j. 05/12/2024; AgRg no HC 696947/SP. Rel. Ministro Reynaldo S. da Fonseca - 5ª Turma - Julg. 25/10/2021.
+Consta dos autos que o paciente foi condenado à pena de 18 (dezoito) anos e 04 (quatro) meses de reclusão e 12 (doze) dias-multa, a ser cumprida em regime inicial fechado, pela prática dos crimes previstos nos arts. 121, § 2º, I c/c 211, caput, ambos do Código Penal, na forma do art. 69 do mesmo Códex.
+Inconformada, a defesa interpôs recurso de apelação, mas o Tribunal de origem negou provimento ao recurso.
+Neste writ, a impetrante pretende o redimensionamento da pena aplicada ao paciente, ao argumento de que foi utilizada fundamentação inidônea na fixação da pena-base.
+Salienta que o acórdão se valeu
+basicamente da suposta participação do Paciente à facção criminosa que domina a região para justificar o aumento da pena base no que concerne à culpabilidade e a conduta social, aduzindo que o Paciente ocupa função de relevância na facção, possuindo considerável notoriedade negativa no âmbito local. Todavia, tal afirmação não encontra respaldo nos autos, sendo certo que de sua FAC, acostada ao index. 656, se extrai apenas ser o Paciente um Réu PRIMÁRIO. Desse modo, como poderia uma FAC de um "traficante de alto nível de inserção dentro da ADA" não conter nenhuma condenação  (fl. 8).
+Argumenta que o aumento da pena, em razão da valoração negativa das circunstâncias do crime, também não está correto, pois considerado o estado psíquico da vítima, mas está claro nos autos que a conduta do acusado em nada contribuiu para que a vítima andasse despida pela rua proferindo frases desconexas e completamente descontrolada.
+Sustenta que a pena não deveria ter sido exasperada, em razão das consequências do crime, apenas com fundamento de que a perda da vítima foi considerável para a família e que a ocultação do cadáver impediu a realização dos atos fúnebres, considerando que a morte da vítima é consequência direta e elementar do crime.
+Ao final, requer
+seja concedida a ordem para que seja excluída das penas base dos crimes previstos nos artigos 121, § 2º , I c/c art. 211, caput, ambos do Código Penal, a valoração negativa da culpabilidade conduta social, circunstâncias e consequências dos crimes, reduzindo-as ao mínimo legal ou ao menos aplicando uma majoração à razão de 1/8 (um oitavo) por circunstâncias a ambos os crimes, como medida de JUSTIÇA! (fl. 12).
+O Tribunal de origem também apresentou as informações requisitadas (fls. 157-159).
+Foram apresentadas informações pelo Juízo de primeiro grau (fls. 189-190).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do writ (fls. 194-200).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, cumpre analisar a existência de eventual ameaça ou coação à liberdade de locomoção do paciente, a fim de evitar prejuízo à sua defesa.
+Passarei, assim, ao exame das razões deste writ.
+Sobre o pedido de revisão da dosimetria da pena, a jurisprudência do STJ é pacífica quanto ao entendimento de que a fixação da pena-base deve ser definida discricionariamente pelo julgador, em observância às peculiaridades do caso concreto e aos princípios da razoabilidade e da proporcionalidade. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. DISCRICIONARIEDADE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o índice de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+2. Uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, com fundamento nas circunstâncias do crime, nos maus antecedentes do acusado e na relevante quantidade de drogas - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo discricionário feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+3. Agravo regimental não provido.
+(AgRg no HC n. 898.677/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024).
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. DOSIMETRIA DA PENA. NÃO HÁ FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de ordem de habeas corpus, na qual se pleiteava a exclusão da valoração negativa dos vetores dos antecedentes e das circunstâncias do crime, em condenação por roubo majorado.
+2. O agravante foi condenado a 8 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e 21 dias-multa, como incurso no art. 157, § 2º-A, I, do Código Penal.
+3. A Defesa alegou que a exasperação da pena-base pela negativação de circunstância inerente ao tipo penal e o reconhecimento de maus antecedentes pautados em condenações extintas violam o princípio da proporcionalidade e o direito ao esquecimento.
+II. Questão em discussão
+4. A discussão envolve a análise da legalidade da exasperação da pena-base em razão da negativação dos antecedentes e circunstâncias do crime.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça pacificou o entendimento de que não cabe habeas corpus substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+6. A valoração de maus antecedentes é válida quando a condenação anterior foi extinta em período inferior a 10 anos antes do novo delito.
+7. A dosimetria da pena insere-se no juízo de discricionariedade do julgador, sendo passível de revisão apenas em caso de inobservância dos parâmetros legais ou flagrante desproporcionalidade.
+8. A exasperação da pena-base em razão da negativação das circunstâncias do crime está fundamentada no contexto em que o delito foi praticado, não havendo flagrante ilegalidade.
+IV. Dispositivo e tese
+10. Agravo regimental não provido.
+Tese de julgamento: 1. A valoração de maus antecedentes é válida quando a condenação anterior foi extinta em período inferior a 10 anos antes do novo delito. 2. A dosimetria da pena é discricionária e revisável apenas em caso de inobservância dos parâmetros legais ou flagrante desproporcionalidade.
+Dispositivos relevantes citados: Código Penal, art. 157, § 2º-A, I.
+Jurisprudência relevante citada: STF, AgRg no HC 180.365, Min. Rosa Weber, Primeira Turma, julgado em 27.03.2020; STF, AgR no HC 147.210, Min. Edson Fachin, Segunda Turma, julgado em 30.10.2018;
+STJ, HC 535.063/SP, Min. Sebastião Reis Junior, Terceira Seção, julgado em 10.06.2020; STJ, AgRg no HC 710.060/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14.12.2021.
+(AgRg no HC n. 959.552/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.)
+Na aplicação da pena-base, assim decidiu o Tribunal local (fls. 27-30 - grifamos):
+De se consignar, inicialmente, que o artigo 59 do Código Penal, ao tratar da individualização da pena, extrai do texto penal a maneira que o julgador tem de aplicar a pena adotando critérios capazes de delinear uma sanção justa, dentro dos princípios constitucionais da razoabilidade e da proporcionalidade.
+Deverá, porém, o julgador se pautar pela denominada discricionariedade regrada no momento da fixação da pena base.
+As regras delineadas no referido dispositivo é que vão nortear o julgador na concretização do princípio constitucional da individualização da pena, insculpido no inciso XLVI, do artigo 5º da Constituição Federal.
+O douto magistrado de piso, ao proferir sentença, valorou negativamente as circunstâncias judiciais quanto à culpabilidade do agente, a conduta social, as circunstâncias do crime e as consequências do crime, quanto aos crimes de homicídio qualificado consumado, e o crime previsto no artigo 211 do CP.
+Quanto à culpabilidade do agente, em ambos os crimes imputados, foi a mesma valorada negativamente por ser o acusado considerado como "indivíduo com alto nível de inserção dentro da facção criminosa ADA - Amigos dos Amigos, atuando sob ordens diretas do tráfico de drogas que, à época, comandava a região do Morro do Dezoito."
+Decerto que, nesse aspecto, as provas elencaram essa realidade.
+A culpabilidade do acusado, pelo que se extraiu desses autos, se mostrou acentuada em virtude do grau expressivo de sua participação dentro da estrutura hierárquica da organização criminosa identificada como ADA - Amigos dos Amigos.
+A conduta delituosa se desenvolveu mediante estrito alinhamento às diretrizes impostas pela liderança do tráfico de entorpecentes que, à época dos fatos, detinha domínio ostensivo sobre a localidade conhecida como Morro do Dezoito.
+Essa circunstância demonstrou não apenas a adesão consciente às atividades ilícitas, mas também o elevado grau de reprovabilidade ético-social de sua conduta praticada, configurando significativo dano à ordem pública e à segurança coletiva, fatores que reforçam a necessidade da devida responsabilização penal a ser mensurada na fase dosimétrica, tal como fez o sentenciante, para ambos os crimes imputados.
+No tocante à análise da conduta social do acusado, o juízo de primeiro grau, acertadamente, promoveu a elevação da pena-base dos delitos que lhe foram imputados, após constatar, mediante a análise do conjunto probatório, colacionado aos autos, especialmente das informações constantes no Relatório de Inteligência produzido pela Polícia Civil (e-doc. 000264), que o acusado detinha considerável notoriedade negativa no âmbito comunitário local.
+De fato, apurou-se que o acusado era reconhecido pela alcunha depreciativa de "cão açougueiro", denominação indicativa das funções criminosas por ele desempenhadas na hierarquia da organização voltada para o narcotráfico na região e, segundo evidenciado nos autos, esse apelido decorreu, especificamente, da atribuição que lhe cabia dentro da estrutura delitiva, consistente na eliminação clandestina e violenta dos corpos de vítimas executadas pela referida facção criminosa, valendo-se, para tanto, de práticas bárbaras como esquartejamentos e subsequente ocultação ou destruição dos restos mortais.
+Essa circunstância concreta, portanto, além de revelar elevada periculosidade social, agrava substancialmente a reprovação jurídica e moral dos atos praticados pelo acusado, justificando, desse modo, a exasperação da pena-base.
+No que concerne à análise das circunstâncias do crime, impõe-se a manutenção de sua valoração desfavorável ao acusado, atribuída ao crime de homicídio qualificado, haja vista que, segundo se constatou da apreciação dos elementos probatórios, ficou demonstrado que a vítima, no momento em que se deram os fatos, apresentava-se fragilizada emocionalmente, indicando um comportamento anormal, traduzido pela exposição indevida de sua intimidade ao transitar despida pela via pública, em visível estado de desorientação psíquica e proferindo expressões desconexas.
+Esse contexto fático, acima mencionado, descreveu uma condição especial de vulnerabilidade, que, sob a perspectiva do juízo de reprovação, agrava sobremaneira a culpabilidade do agente, posto que este, diante da flagrante ausência de capacidade da vítima de compreender ou resistir eficazmente à ação delitiva, tinha condições de avaliar e evitar a conduta ilícita perpetrada.
+Assim, ponderando esses elementos, naturalmente que se exibem no sentido de autorizar e justificar a manutenção da referida valoração negativa quanto às circunstâncias do crime.
+Outrossim, quanto à valoração negativa das circunstâncias do crime quanto ao crime previsto no artigo 211 do CP, tem-se que o magistrado primevo reconheceu em sentença, que a vítima fora brutalmente esquartejada e posteriormente queimada em tonéis exclusivamente utilizados pelo tráfico de drogas local para tal intento, de forma a justificar o incremento da pena-base.
+Por fim, tem-se que deva ser mantida a exasperação da pena-base diante da negativação do vetor consequências do crime.
+Cumpre destacar que os reflexos decorrentes da conduta criminosa praticada pelo acusado, ao que tudo foi pontuado, se revelaram sobremaneira gravosos, produzindo efeitos profundamente desfavoráveis e ultrapassando o plano meramente individual, alcançando diversas esferas sociais e econômicas.
+A morte da vítima Matheusa não apenas ocasionou a perda irreparável de uma vida humana, mas também impôs prejuízos concretos à estrutura familiar, privando-a do suporte econômico e gerando impactos negativos no seio social em que estava inserida.
+Ademais, é de se registrar que os danos oriundos da ação delitiva transcendem o âmbito material e se projetam de forma intensa na esfera moral e psicológica daqueles que, afetivamente vinculados à vítima, suportam as agruras emocionais inerentes à privação violenta e precoce de um ente querido.
+Essa circunstância se agrava de forma muito expressiva ao se considerar que, até o presente momento em que se realizou o julgamento em Plenário, não foi facultado aos familiares da vítima o direito fundamental de acessar os seus restos mortais, impedindo-lhes, portanto, a realização de atos fúnebres condizentes com os seus preceitos religiosos, culturais e sociais.
+Destarte, essa realidade configura evidentemente uma circunstância judicial desfavorável ao acusado, devendo ser considerado com a relevância que lhe é própria no momento da individualização e aplicação da pena.
+Quanto a ambos os crimes imputados, destacou o magistrado primevo, que a família da vítima, após o seu desaparecimento, passou por um verdadeiro périplo atrás de informações acerca do seu paradeiro, inclusive, vindo a procurar e interpelar traficantes da localidade onde os fatos se deram, passando a sofrer diversas ameaças para que as investigações fossem findadas, e, além disso, obstar a repercussão que o caso gerou na época.
+Relativamente ao crime de homicídio, sopesou ainda o Magistrado Presidente do Júri, que o crime em questão, consubstanciou a retirada da vida de uma pessoa integrante da comunidade LGBTQIAPN , que sofre diuturnamente violação a seus direitos fundamentais, em especial, aos direitos constitucionais à vida, à dignidade e à igualdade.
+Nessa linha de percepção, deve ser mantida a fundamentação posta em sentença, quanto aos referidos incrementos, em ambos os crimes imputados, não havendo qualquer reparo a ser procedido.
+Quanto à questão da fixação da pena, na fase primária, ou mesmo na segunda fase dosimétrica, com viés de se apontar a adoção da fração de 1/8 (um oitavo) para cada circunstância judicial reputada como reprovável, apesar do esforço empreendido, pela defesa técnica, a questão não merece acolhida, tendo em vista que a jurisprudência pátria, já afirmou, de forma veemente, a liberalidade da dosagem da pena, pelo juiz, desde que observada a ocorrência de fundamentação correlacionada aos fatos do processo crime.
+Observa-se que, diferentemente do que aventado pela defesa, a fundamentação utilizada para a fixação da pena é idônea, não havendo qualquer ilegalidade a ser sanada na via estreita do presente writ, inclusive por se alinhar com o entendimento desta Corte. Veja-se:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÂNSITO EM JULGADO. AGRAVO
+REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado como substitutivo de revisão criminal, após trânsito em julgado de acórdão do Tribunal de Justiça do Estado de São Paulo.
+2. O agravante foi condenado pelo crime de tráfico de drogas (art.
+33 da Lei n. 11.343/2006) à pena de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa. O Tribunal local negou provimento à apelação defensiva.
+II. Questão em discussão
+3. A discussão consiste em saber se é possível conhecer de habeas corpus impetrado como substitutivo de revisão criminal após o trânsito em julgado do acórdão e se há ilegalidade flagrante na dosimetria que justifique a concessão de habeas corpus de ofício.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça possui entendimento consolidado de que o advento do trânsito em julgado impossibilita a admissão do habeas corpus como substitutivo de revisão criminal, subvertendo o sistema de competências constitucionais.
+5. Não há ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, pois a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, somente passível de revisão em caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+6. A jurisprudência pacífica do Superior Tribunal de Justiça admite o afastamento da minorante do tráfico privilegiado com base em registros de atos infracionais que apresentem conexão temporal com o delito praticado.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. O habeas corpus não pode ser conhecido como substitutivo de revisão criminal após o trânsito em julgado do acórdão. 2. A dosimetria da pena é discricionária e só pode ser revista em caso de inobservância dos parâmetros legais ou flagrante desproporcionalidade. 3. Registros de atos infracionais com conexão temporal ao delito podem afastar a minorante do tráfico privilegiado.
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; Lei nº 11.343/2006, art. 33, § 4º.Jurisprudência relevante citada: STJ, AgRg no HC 573.735/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 27.04.2021; STJ, AgRg no HC 610.106/PR, Rel. Min. Felix Fischer, Quinta Turma, j. 23.02.2021; STJ, AgRg no HC 789.984/GO, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 17.04.2023; STJ, AgRg no HC 710.060/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j.
+14.12.2021; STJ, AgRg no HC 799.162/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 28.02.2023.
+(AgRg no HC n. 970.644/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.) (grifamos)
+Além disso, esta Corte possui entendimento de que a revisão da dosimetria da pena, em âmbito de habeas corpus é medida excepcional, apenas quando demonstrada flagrante ilegalidade, o que não é o caso dos autos.
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. PECULATO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. FLAGRANTE ILEGALIDADE RECONHECIDA DE OFÍCIO. AFASTAMENTO DA REINCIDÊNCIA. FATO ANTERIOR COM TRÂNSITO EM JULGADO POSTERIOR AO CRIME OBJETO DESTE PROCESSO. NÃO CABIMENTO. AGRAVANTE AFASTADA. REDIMENSIONADA A PENA E FIXADO O REGIME SEMIABERTO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL AO QUAL SE DÁ PROVIMENTO PARCIAL. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que rejeitou recurso em habeas corpus utilizado como substitutivo de recurso próprio para afastar a condenação transitada em julgado. O recorrente busca a desconsideração da reincidência e a revisão de atos processuais alegadamente mal conduzidos na fase criminal. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o recurso em habeas corpus pode ser utilizado para reanálise de provas ou desconstituição de coisa julgada; (ii) determinar se o reconhecimento da reincidência, com base em condenação cujo trânsito em julgado foi posterior ao fato criminoso, é válido. III. RAZÕES DE DECIDIR
+3. O habeas corpus, por sua natureza célere e sumária, não é via adequada para análise de provas ou para reverter sentença com trânsito em julgado, devendo ser reservado para a proteção da liberdade de locomoção diante de ilegalidades flagrantes.
+4. A jurisprudência consolidada do STJ e do STF estabelece que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+5. A reincidência não pode ser reconhecida quando a condenação utilizada como fundamento transitou em julgado após a data do fato criminoso em julgamento. No entanto, tal condenação pode caracterizar maus antecedentes, os quais influenciam na fixação da pena-base.
+6. A revisão da dosimetria da pena, no âmbito do habeas corpus, é admitida apenas em casos excepcionais de flagrante ilegalidade, sendo esse o caso ao se verificar que a condenação anterior não configura reincidência, mas pode ensejar maus antecedentes.
+7. Pena redimensionada para 2 anos e 4 meses de reclusão e 11 dias-multa, com a fixação do regime semiaberto para o cumprimento da pena. IV. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL AO QUAL
+SE DÁ PARCIAL PROVIMENTO PARA AFASTAR A AGRAVANTE DA REINCIDÊNCIA E
+REDIMENSIONAR A PENA DO RECORRENTE.
+(AgRg no RHC n. 183.484/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+DIREITO PENAL. HABEAS CORPUS. ESTELIONATO. DOSIMETRIA. PENA-BASE. FUNDAMENTOS CONCRETOS. QUANTUM PROPORCIONAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado por estelionato, com causa de aumento por se tratar de vítima idosa ou vulnerável, visando à revisão da dosimetria da pena.
+2. A defesa alega erro na dosimetria da pena e requer a redução da pena. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é cabível o habeas corpus para revisar a dosimetria da pena imposta, quando não há flagrante ilegalidade ou desproporcionalidade evidente. III. RAZÕES DE DECIDIR
+4. O habeas corpus não é substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade que cause constrangimento ilegal.
+5. A dosimetria da pena, quando fundamentada em elementos concretos e dentro dos limites da discricionariedade do magistrado, não justifica revisão por meio de habeas corpus.
+6. No caso, as instâncias de origem valoraram negativamente as circunstâncias judiciais com base em elementos concretos, não havendo desproporção que justifique a concessão da ordem.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 954.367/PE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+Rever as conclusões adotadas pelas instâncias ordinárias demanda reexame do contexto fático probatório, inviável na via estreita do habeas corpus.
+Ressalta-se, ao final, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação dos arts. 59 e 68 do Código Penal e 42 da Lei de Drogas, reduzir a reprimenda-base estabelecida ao acusado (AgRg no AREsp n. 2.482.217/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/5/2024, DJe de 23/5/2024.).
+Assim, deve ser mantida inalterada a pena imposta ao paciente, assim como o regime aplicado pelos próprios fundamentos utilizados pelo Tribunal impetrado.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
