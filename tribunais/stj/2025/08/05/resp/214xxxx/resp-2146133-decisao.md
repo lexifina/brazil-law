@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por THIAGO ANTONIO DE CAMARGO contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve a decisão que indeferiu o pedido de retificação do cálculo de penas e concluiu pela impossibilidade de precedência no cumprimento da pena do crime hediondo em relação ao crime comum (fls. 52-58).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, para alegar violação ao art. 76 do Código Penal (fls. 62-69).
+Em contrarrazões, o Ministério Público do Estado de São Paulo pugna pelo não processamento do recurso especial devido à necessidade de reexame de provas, nos termos da Súmula n. 7, STJ, e pela deficiência na fundamentação, conforme o art. 1.029 do CPC (fls. 75-79).
+O Ministério Público Federal opinou pelo não provimento do recurso especial (fls. 93-97).
+É o relatório. DECIDO.
+A despeito dos argumentos defensivos, tenho por escorreito o acórdão do Tribunal a quo, que concluiu pela impossibilidade de cumprimento prioritário da pena do crime hediondo, conforme fls. 54-55:
+"A discussão no presente recurso cinge-se tão somente à possibilidade, ou não, de cumprimento prioritário e exclusivo das penas inerentes aos crimes equiparados a hediondo (tráfico ilegal de drogas) e, depois, da reprimenda definitiva do delito comum, em interpretação ao art. 76 do Código Penal.
+Todavia, conforme é sabido, o aludido dispositivo legal faz referência à prioridade de execução de "penas mais graves", mas não de delitos mais graves, como hediondos, ao contrário do alegado pela defesa do condenado. Assim, por exemplo, a pena de reclusão deverá ser cumprida antes da pena de detenção, por força do disposto no art. 76 do Código Penal, inexistindo qualquer relação, nesse ponto, com a natureza ou a gravidade do crime praticado pelo agente."
+A referida decisão se ampara na jurisprudência consolidada desta Corte Superior, no sentido de que o art. 76 do Código Penal versa sobre o concurso de infrações punidas com detenção e reclusão, e não sobre a gravidade em abstrato dos delitos hediondos e comuns.
+A propósito:
+"2. "A despeito do delito hediondo ser considerado mais grave em relação ao crime comum, se a reprimenda privativa de liberdade aplicada para ambos for de reclusão, não há falar em pena mais grave em razão da natureza do crime praticado e, pois, em incidência da regra do art. 76 do CP. Precedentes" (AgRg no HC n. 406.980/SC, relator o Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 27/3/2018, grifei)." (AgRg no HC n. 577.548/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/3/2021, DJe de 10/3/2021)
+"1. O critério expressamente adotado pelo art. 76 do Código Penal refere-se à gravidade das penas privativas de liberdade, a saber, reclusão e detenção. Assim, havendo mais de uma condenação, com penas diversas, executa-se primeiro a pena de reclusão com precedência sobre a detenção, em ordem cronológica, sendo irrelevante se o delito é comum ou hediondo (HC 325.645/MS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 1º/9/2016, DJe 29/9/2016)."(AgRg no HC n. 522.195/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2019, DJe de 8/10/2019)
+Por conseguinte, a pretensão esbarra na Súmula n. 83, STJ.
+Diante do exposto, e nos termos do art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
