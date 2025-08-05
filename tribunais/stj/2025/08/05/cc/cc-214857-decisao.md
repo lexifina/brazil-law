@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de conflito negativo de competência estabelecido entre o Juízo da 9ª Vara Federal de Campina Grande - SJPB e o Juízo de Direito da 9ª Vara Cível de Campina Grande - PB, no âmbito de ação movida por Eveline Rodrigues Araújo Guedes de Freitas contra a Fundação de Apoio ao Ensino a Pesquisa e Extensão - FURNE e Educacional Acadêmico LTDA - ME, visando indenização por danos materiais e morais conforme pedidos que constam de fl. 35,
+A inicial foi distribuída perante o Juízo estadual, o qual pronunciou sua incompetência para apreciar o feito diante do Tema 1.154/STF.
+Recebendo os autos, o Juízo federal também se reputou incompetente, observando que o pleito da requerente limita-se ao pedido de indenizações, sem tangenciar a expedição em si de diploma do ensino superior.
+É RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O STF definiu no Tema 1.154 da Repercussão Geral que "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+O julgamento que deu origem à tese recebeu a seguinte ementa:
+RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL. COMPETÊNCIA. INSTITUIÇÃO DE ENSINO SUPERIOR. SISTEMA FEDERAL DE ENSINO. CONTROVÉRSIA RELATIVA À EXPEDIÇÃO DE DIPLOMA DE CONCLUSÃO DE CURSO SUPERIOR. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ARTIGO 109, I, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. ACÓRDÃO RECORRIDO DIVERGE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+(RE 1304964 RG, Relator Luiz Fux, Tribunal Pleno, DJe 20-08-2021)
+Sobre a amplitude da Jurisdição federal, na linha da Repercussão Geral, este STJ já decidiu:
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. INSTITUIÇÃO DE ENSINO SUPERIOR. SISTEMA FEDERAL DE ENSINO. CONTROVÉRSIA RELATIVA À EXPEDIÇÃO DE HISTÓRICO ESCOLAR DE CURSO SUPERIOR. INTERESSE DA UNIÃO. TEMA 1.154/STF. COMPETÊNCIA DA JUSTIÇA FEDERAL. PROVIMENTO NEGADO.
+1. O Supremo Tribunal Federal, em 25/6/2021, ao apreciar o Recurso Extraordinário 1.304.964, julgou o mérito do Tema 1.154, estabelecendo a seguinte tese: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão limite-se ao pagamento de indenização".
+2. O que atrai a competência da Justiça Federal é a sujeição das instituições privadas de ensino superior ao Sistema Federal de Ensino (SFE), com regulação pela Lei de Diretrizes e Bases da Educação (Lei 9.394/1996). Nas hipóteses de negativa de expedição de diploma, de atraso na entrega do diploma ou, como neste caso, de apreciação do pedido de colação antecipada de grau, a conduta da instituição de ensino estará sujeita ao interesse da União, responsável pela fiscalização e pelo cumprimento das orientações do SFE, e, por isso, a Justiça Federal é competente.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC n. 200.751/RN, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 8/5/2025, DJEN de 13/5/2025.)
+Na petição inicial, fl. 28, a parte autora expõe a situação fática que motiva seu pedido de indenização:
+"Findadas as etapas para conclusão do respectivo curso de mestrado, a promovente surpreendeu-se ao descobrir que não seria possível receber o certificado, uma vez que o curso não era reconhecido pelo MEC (Ministério da Educação).
+Contudo, no contrato educacional firmado entre as partes e vários documentos emitidos pela promovida durante o curso, consta a portaria de autorização pelo MEC".
+Portanto, mesmo que o pedido seja meramente indenizatório, há, segundo o STF, em precedente vinculante, interesse da União, pois o ato ilícito discutido tem relação com o cadastramento perante o MEC.
+ANTE O EXPOSTO, nos termos do art. 34, XXII do RISTJ, conheço do conflito para declarar a competência do Juízo federal suscitante , ao qual caberá avaliar a melhor posição processual para atuação da União no feito.
+EMENTA
