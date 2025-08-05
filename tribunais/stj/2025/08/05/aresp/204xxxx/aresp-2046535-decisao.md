@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por TRANSPORTES AMÉRICA LTDA , com fundamento na incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois não se trata de reexame de provas.
+Assevera, ainda, que (fls. 1.437-1.438):
+(a) deixou de enfrentar o argumento trazido pelo recorrente de ausência de manifestação do Parquet no prazo legal - (preclusão), uma vez que o Ministério Público foi intimado para se manifestar do ato ordinatório de fl. 169, com remessa/intimação pessoal em 12/04/2016 (fls. 173/177) e, de forma absolutamente preclusa, só veio a se manifestar às fls. 188/189 em petição datada de 20/07/2016, ou seja mais de 3 (três) meses após a intimação de fls. 173/177. Destaque-se que a petição do órgão ministerial competente de fls. 180/1881, datada de 28/04/2016 versa sobre tema diverso, não tendo se manifestado o autor sobre o teor de fl. 169;
+(b) nada disse acerca do argumento trazido pelo recorrente de necessidade fixação de limites para as astreintes, permitindo que o Ministério Público prosseguisse com uma execução provisória de multa de valor estratosférico;
+(c) manteve a omissão apontada pelo recorrente- embargante de ausência de fundamentação do acórdão com relação ao pagamento de danos materiais, impossibilitando, inclusive a sua recorribilidade adequada, sequer tendo como ser cotejada a presença dos seus pressupostos de configuração.
+ ..
+Evidencia-se, pois, de forma absolutamente clara que, em havendo omissão sobre o tema, não há que se falar em incidência da Súmula 07/STJ quanto à matéria em testilha.
+Em seu parecer, o MPF argumenta que (fls. 1.563-1.564):
+Contudo, nos agravos em recursos especiais, as partes ora agravantes apenas repetiram os argumentos genéricos lançados quando da interposição dos recursos especiais, deixando de impugnar especificamente os fundamentos relacionados à Súmula 7/STJ.
+No caso, o combate genérico e não específico da questão legal ou a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões dos agravos em recursos especiais, inviabiliza o conhecimento dos apelos.
+ ..
+Ante o exposto, o Ministério Público Federal opina pelo não conhecimento dos agravos em recursos especiais.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+De início, quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, o agravante ela preclusão do MP, a fixação de limites para a astreintes e a execução do valor da multa e ainda se manteve omisso sobre o pagamento de danos materiais, porém, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls.845-847):
+A alegação de preclusão suscitada pela segunda apelante em relação ao Ministério Público também deve ser rechaçada. Verifica-se que após o despacho ordinatório de fl. 169 (indexador 169), os autos foram remetidos à 2ª Promotoria de Justiça de Tutela Coletiva de Defesa do Consumidor e do Contribuinte, diversa da que atuava no feito (indexador 174/6). Assim, somente após a manifestação do Parquet que informou a remessa indevida (indexador 179), os autos foram remetidos ao órgão correto, que se manifestou tempestivamente em fl. 180 (indexador 180). Não há, portanto, que se falar em preclusão e extinção do feito sem exame de mérito.
+ ..
+No tocante à multa cominatória fixada na antecipação de tutela (R$ 10.000,00 de multa diária) e reduzida na Sentença para R$ 5.000,00, deve se salientar que a obrigação de fazer imposta era e continua sendo realizável e possível, sendo certo que inexiste qualquer fundamento plausível para sua redução, tratando-se de multa decorrente de obrigação de fazer, com previsão legal no artigo 11 da Lei nº 7.357/85, não se confundindo com a multa administrativa imposta pela autoridade de fiscalização municipal.
+ ..
+No entanto, o valor fixado pelo juízo a quo não se afigura excessivo e deve ser mantido, diante das circunstâncias do caso, salientando-se que não se trata aqui de bis in idem, uma vez que as multas aplicadas pelo Município tem evidente natureza administrativa, distinta das astreintes, repita-se.
+ ..
+A fixação dos danos moral e material coletivos deve levar em conta sua repercussão social e patrimonial, a duração da lesão, o potencial ofensivo e a capacidade econômica dos réus, sopesados os critérios de razoabilidade e de proporcionalidade. No caso, as provas demonstraram que usuários e trabalhadores foram prejudicados pelo defeito na prestação de serviço dos demandados, pois necessitam utilizar os coletivos, inclusive no período noturno, para se deslocarem para seus locais de trabalho e demais tarefas rotineiras.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da ilegitimidade ativa do MP, a responsabilidade de indenizar moralmente e materialmente, além da alegação de preclusão do MP e a multa excessiva, desproporcional e incompatível com a obrigação, violando os art. 3º, 7º, 10, 139, I, 180, 218, 3º, 223, 473, §1º e 485 do CPC; art. 11 da Lei 7.347/85 e art. 56, I da Lei 8.078/90, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Por fim, cumpre registrar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 541, parágrafo único, do CPC/1973; e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se
+EMENTA
