@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+"APELAÇÃO CRIMINAL - RECURSOS DEFENSIVOS - ESTATUTO DO IDOSO - SENTENÇA ANULADA - PRAZO RECURSAL NÃO INTERROMPIDO - NOVO JULGAMENTO - PENAS APLICADAS - PRESCRIÇÃO DA PRETENSÃO PUNITIVA - MODALIDADE RETROATIVA - PUNIBILIDADES EXTINTAS. 1. A Prescrição, depois de transitar em julgado a Sentença condenatória para o Ministério Público, regula-se pela pena aplicada e ocorre nos prazos estabelecidos no art. 109 do Código Penal. 2. A sentença condenatória anulada não interrompe a prescrição. 3. A Prescrição consiste em matéria de ordem pública, cujo reconhecimento pode se dar a qualquer tempo, mediante provocação das Partes ou mesmo de ofício por ato do Julgador."
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 998-1005).
+Contraminuta apresentada (e-STJ fls. 1012-1017).
+O Ministério Público Federal opinou pelo "conhecimento do agravo, mas pelo desprovimento do recurso especial" (e-STJ fls. 1038-1043).
+É o relatório.
+Decido.
+O agravo preenche os requisitos de admissibilidade e dele se deve conhecer, porquanto impugnou especificamente o fundamento da decisão de inadmissibilidade, não havendo falar em reexame de provas, mas sim em revaloração jurídica de fatos incontroversos, o que afasta o óbice da Súmula n. 7/STJ.
+Assim, conheço do agravo para analisar o recurso especial.
+No mérito, contudo, a pretensão recursal não merece prosperar.
+O cerne da questão é saber se a sentença proferida em 2013 que condenou os réus pelo crime do art. 148, §1º, I, do Código Penal pode ser considerada marco interruptivo da prescrição para os crimes conexos previstos no Estatuto do Idoso.
+Embora o art. 117, § 1º, do Código Penal preveja a comunicabilidade das causas interruptivas aos crimes conexos, a sua aplicação no presente caso encontra óbice intransponível na preclusão e na própria dinâmica dos atos processuais.
+Conforme se extrai dos autos, a sentença de 2013, embora tenha condenado o recorrente pelo crime de cárcere privado, foi sucedida por um primeiro acórdão, proferido em 2014, que declarou a prescrição da pretensão punitiva justamente em relação a esse delito. Ao fazê-lo, e sem que houvesse recurso do Ministério Público nesse ponto, o Tribunal de origem, na prática, esvaziou a eficácia da sentença condenatória de 2013 como marco interruptivo para o crime do art. 148 do CP.
+Operou-se, portanto, a preclusão para a acusação. Não se pode agora, em momento processual posterior, pretender que um marco interruptivo, já neutralizado para o crime ao qual se referia a condenação, irradie efeitos para os delitos conexos. A extensão prevista no art. 117, § 1º, do CP pressupõe a subsistência e a eficácia do próprio ato interruptivo, o que não ocorre no caso, dada a superveniência do acórdão de 2014 que declarou a prescrição e não foi objeto de impugnação pelo Parquet.
+Ademais, o acórdão recorrido alinha-se ao entendimento de que a anulação de parte da sentença impede a produção de efeitos jurídicos no que tange à fração invalidada. A pretensão de estender um efeito da parte válida (condenação por crime conexo) à parte que foi expressamente anulada (reconhecimento de prescrição dos crimes do Estatuto do Idoso) viola a lógica do sistema de nulidades e a regra de que a prescrição é analisada de forma individual para cada crime, conforme o art. 119 do Código Penal.
+Esta Corte já decidiu que, "no caso de concurso de crimes, a extinção da punibilidade incidirá sobre a pena de cada um, isoladamente (art. 119, do Código Penal)" (HC n. 478.748/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/9/2019, DJe de 4/10/2019 ).
+Correta, portanto, a conclusão do Tribunal de origem, que, ao não considerar a sentença de 2013 como marco interruptivo, reconheceu o transcurso do prazo prescricional de 8 (oito) anos entre o recebimento da denúncia (29/10/2009) e a publicação da segunda sentença condenatória (12/03/2018).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
