@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo da Vara Única da Comarca de Ipaumirim - CE, em ação movida por Jucileide Santana Josué contra o Município de Ipaumirim, na qual se pleiteia o pagamento de valores do FGTS entre os anos de 2016 e 2017.
+A ação foi ajuizada perante a Justiça do Trabalho, mas o TRT da 7ª Região reconheceu a incompetência absoluta da Justiça obreira por entender que a relação jurídica celetista seria controvertida, porquanto a requerente já havia sido transposta para o regime estatutário no intervalo no qual requer o pagamento do FGTS. Nessa linha, sendo o regime administrativo controvertido, caberia ao Juízo comum decidir a questão, nos termos da jurisprudência do STF (fls. 422-432).
+O Juízo estadual, ao suscitar o conflito, compreendeu de modo diferente. Enfatizou que "apensa em 2017, por intermédio da Lei Municipal nº 299/2017 é que oi instituído o Regime Jurídico Único dos Servidores de Ipaumirim, os quais eram, até entao regidos pela CLT". Nessa linha, suscitou este incidente (fls. 218-221).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Como se vê do teor da contestação do próprio município, o ente público diz ser devedor do FGTS no período reclamado pela parte autora, tanto que diz ter feito o parcelamento do débito na esfera administrativa, visando com isso obstar a cobrança individual.
+Ademais, a Lei que realmente instituiu o regime jurídico estatutário é de 2017. Não faria sentido a edição da mesma Lei em 2017, se o vínculo realmente fosse estatutário desde 2015. Isso é confirmado pelas fichas financeiras de fls. 290-293, apontando, inequivocamente, o regime celetista antes de 2017.
+Então, não vinga a premissa do e. TRT da 7ª Região, no sentido de que o regime estatuário estaria em vigor no intervalo no qual se pleiteia o pagamento do FGTS, afinal, o réu diz que parcelou o débito e as fichas financeiras apontam o regime contratual.
+Com isso, a parte autora realmente era submetida ao regime celetista no período controvertido, antes da instituição e mudança para o regime estatutário pela Lei local, tal como foi apontado pelo juízo estadual ao suscitar o conflito.
+A competência é definida segundo o Tema 928 da Repercussão Geral:
+Recurso extraordinário. Repercussão geral. 2. Competência da Justiça do Trabalho. Mudança de regime jurídico. Transposição para o regime estatutário. Verbas trabalhistas concernentes ao período anterior. 3. Compete à Justiça do Trabalho processar e julgar ações relativas às verbas trabalhistas referentes ao período em que o servidor mantinha vínculo celetista com a Administração, antes da transposição para o regime estatutário. 4. Recurso não provido. Reafirmação de jurisprudência.
+(ARE 1001075 RG, Relator Ministro Gilmar Mendes,Tribunal Pleno, DJe 01/02/2017)
+ANTE O EXPOSTO, nos termos do art. 34, XXII do RISTJ e art. 955, parágrafo único, II do CPC, conheço do conflito para declarar a competência da vara Única da Justiça do Trabalho de Iguatu - CE . Oficiem-se os juízos envolvidos.
+Publique-se.
+EMENTA
