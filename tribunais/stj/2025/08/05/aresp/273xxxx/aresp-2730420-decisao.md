@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por IVO WALMOR MORTARI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 1.268):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS INICIAIS. INSURGÊNCIA DA PARTE REQUERIDA. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEIÇÃO. PRELIMINAR DE ILEGITIMIDADE PASSIVA. QUESTÃO QUE SE CONFUNDE COM O MÉRITO DA DEMANDA E COM ELE SERÁ ANALISADA. PRELIMINARES REJEITADAS. GARANTIA PRESTADA. ALEGADA IRREGULARIDADE DO AVAL PRESTADO. IRRELEVÂNCIA DO ARGUMENTO. INTELIGÊNCIA DO ARTIGO 112 DO CÓDIGO CIVIL. DISPENSA DE SOLIDARIEDADE. ALEGADO PREJUÍZO AO ORA APELANTE. INOCORRÊNCIA. SUSPOSTA PRESENÇA DE ABUSIVIDADES NO CONTRATO DE GESTÃO FIRMADO ENTRE AS PARTES. IRREGULARIDADES NÃO APONTADAS DE FORMA CLARA. ALEGAÇÃO AFASTADA. IMPUGNAÇÃO AO VALOR E À VALIDADE DA CONFISSÃO DA DÍVIDA. DOCUMENTAÇÃO CARREADA AOS AUTOS QUE PERMITE CONCLUIR O MONTANTE DEVIDO E OS PODERES CONFERIDOS AOS ADMINISTRADORES DA PESSOA JURÍDICA DEMANDADA. ALEGADA PRÁTICA DE USURA. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE A RECORRIDA APLICOU À DÍVIDA JUROS DE MORA ACIMA DO PERCENTUAL LEGALMENTE PERMITIDO. PEDIDO DE REDUÇÃO DO VALOR ARBITRADO A TÍTULO DE HONORÁRIOS. IMPOSSIBILIDADE. MONTANTE EM CONSONÂNCIA COM O ARTIGO 85, § 2º DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E DESPROVIDO. HONORÁRIOS RECURSAIS. NECESSIDADE DE MAJORAÇÃO.
+Rejeitados os embargos de declaração opostos, com aplicação de multa (fls. 1.306-1.310).
+No recurso especial, a parte recorrente alega ofensa aos arts. 819, 821, 829, 830, 837 e 838, II, do CCB e 7º, 369 e 1.026, § 2º, do CPC.
+Sustenta, em síntese: cerceamento de defesa; desoneração do fiador em decorrência de alteração de responsabilidade à qual não anuiu; descabimento da ampliação dos limites da fiança; e afastamento da multa do art. 1.026, § 2º, do CPC.
+Foram oferecidas ao recurso especial (fls. 1.345-1.352).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.355-1.359), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.383-1.387).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O acórdão recorrido não se manifestou acerca das teses recursais (desoneração do fiador em decorrência de alteração de responsabilidade à qual não anuiu e descabimento da ampliação dos limites da fiança). Também os embargos de declaração não objetivaram tais manifestações.
+Por isso, o julgamento do recurso especial é inadmissível, aplicando-se, na hipótese, as Súmulas 282 e 356/STF.
+Nesse sentido, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. NULIDADE DA INTIMAÇÃO. ANTECIPAÇÃO DO ATO PRETENDIDO. NÃO OCORRÊNCIA. PRECLUSÃO. INÉPCIA DA INICIAL. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. JULGAMENTO "ULTRA/EXTRA PETITA". INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir 2. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+3. "Nos termos do art. 272, § 8º, do CPC/2015, a parte deve alegar a nulidade da intimação em preliminar da própria peça que pretendia apresentar" (AgInt no AREsp n. 1.644.197/PR, de minha relatoria, QUARTA TURMA, julgado em 3/5/2021, DJe de 6/5/2021.)
+4. "Não é inepta a inicial que descreve os fatos e os fundamentos do pedido, possibilitando ao réu exercitar o direito de defesa e do contraditório" (AgInt no AREsp n. 2.211.247/MG, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/9/2023, DJe de 8/9/2023).
+5. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+6. No caso concreto, o Tribunal de origem concluiu (i) pela existência de notificação extrajudicial, (ii) pela ciência inequívoca da intenção de retomada do imóvel, (iii) pelo preenchimento dos requisitos para a tutela possessória e (iv) pela desnecessidade de nova instrução probatória. Alterar esse entendimento demandaria o reexame das provas, vedado em recurso especial.
+7. "A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que basta a ciência inequívoca da ocupação indevida para que haja o prosseguimento do feito, no caso de contrato verbal de locação. Precedentes" (AgInt no AREsp n. 2.011.699/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+8. A apreciação do pleito, dentro dos limites apresentados pelas partes, na petição inicial ou nas razões recursais, mesmo que não tenha havido requerimento expresso na parte relativa aos pedidos, não revela julgamento ultra ou extra petita 9. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+10. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+III. Dispositivo 11. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.648.370/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/6/2025, DJEN de 3/7/2025.)
+Por fim, alterar o decidido no acórdão impugnado, no que se refere à não ocorrência de cerceamento de defesa e cabimento da multa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+A propósito, cito os precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO SUFICIENTE. INEXISTÊNCIA DE OFENSA AO ART. 489 DO CPC. CERCEAMENTO DE DEFESA NÃO DEMONSTRADO. USUCAPIÃO. REQUISITOS. VERIFICAÇÃO QUE DESAFIARIA O REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MULTA DO ART. 1.026, § 2º, DO CPC. CABIMENTO. EMBARGOS PROTELATÓRIOS. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, NÃO PROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito e fundamentada corretamente a decisão recorrida, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+2. Conforme a jurisprudência deste STJ, o Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC.
+3. Hipótese em que o TJSP afastou o alegado cerceamento de defesa por entender que as provas constantes nos autos são suficientes para o julgamento da lide. Reversão do julgado que demandaria o reexame de provas, atraindo o óbice da Súmula n. 7 do STJ.
+4. Rever as conclusões quanto aos requisitos autorizadores da usucapião demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+5. Correta a aplicação da penalidade prevista no art. 1.026, § 2º, do CPC quando as questões tratadas foram devidamente fundamentadas na decisão embargada e ficou evidenciado o caráter manifestamente protelatório dos segundos embargos de declaração.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(AREsp n. 2.883.650/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CERCEAMENTO DE DEFESA E AFASTAMENTO DA MULTA. INCIDÊNCIA DA SÚMULA 7/STJ. DESONERAÇÃO DO FIADOR EM DECORRÊNCIA DE ALTERAÇÃO DE RESPONSABILIDADE À QUAL NÃO ANUIU E DESCABIMENTO DA AMPLIAÇÃO DOS LIMITES DA FIANÇA. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO
