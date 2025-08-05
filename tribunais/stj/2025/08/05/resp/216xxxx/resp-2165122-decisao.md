@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIZ PAULO DE LARA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal n. 0009550-65.2024.8.16.0031).
+Consta dos autos que o recorrente foi condenado, em primeira instância, à pena de 11 anos, 9 meses e 15 dias de reclusão, a ser cumprida em regime fechado, pela prática dos crimes tipificados nos arts. 33 da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2023.
+O Tribunal de origem deu parcial provimento ao recurso de apelação, por unanimidade, conforme ementa do acórdão (e-STJ fls. 369/370):
+APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES (ART. 33, CAPUT, DA LEI N. 11.343/06) E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (ART. 16 DA LEI N. 10.826/03) - INSURGÊNCIA DEFENSIVA - PLEITO ABSOLUTÓRIO QUANTO A AMBOS OS CRIMES- INVIABILIDADE- AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS - PALAVRA DOS POLICIAIS QUE POSSUI ELEVADO VALOR PROBANTE, MORMENTE SE EM CONFORMIDADE COM OS DEMAIS ELEMENTOS DE CONVICÇÃO, COMO NO PRESENTE CASO - IMPOSSIBILIDADE DA DESCLASSIFICAÇÃO PARA O ART. - MANUTENÇÃO28 DA LEI N. 11.343/06 TESE DA DEFESA NÃO EVIDENCIADA - DAS CONDENAÇÕES QUE SE IMPÕE - REDUÇÃO, EX OFFICIO, DA CARGA - AFASTAMENTO DOS MAUS ANTECEDENTES E DA REINCIDÊNCIA -PENAL CONSEQUENTE ALTERAÇÃO DO REGIME DE CUMPRIMENTO DE PENA PARA O SEMIABERTO - RECURSO DESPROVIDO, COM MEDIDA DE OFÍCIO.
+Neste recurso especial, a defesa alegou violação ao art. 386 do Código de Processo Penal. Pleiteia a absolvição do recorrente por insuficiência probatória em relação aos crimes previstos nos arts. 33 da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2023. Subsidiariamente, objetiva a desclassificação do crime de tráfico de drogas para o delito previsto no art. 28 da Lei n. 11.343/2006. Por fim, ataca a dosimetria da pena do delito tipificado no art. 33 da Lei n. 11.343/2006 (e-STJ fls. 561/589).
+Apresentadas contrarrazões (e-STJ fls. 592/595).
+O recurso foi parcialmente admitido (e-STJ fls. 597/600).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial e, em sendo conhecido, pelo não provimento (e-STJ fls. 612/618).
+É o relatório.
+Decido.
+De antemão, ressalto que, por força da aplicação analógica das Súmulas n. 292 e 528 do Supremo Tribunal Federal (STF), com a admissão parcial do recurso especial, as outras questões, ainda que expressamente não admitidas na instância local, serão devolvidas para apreciação desta Corte Superior.
+Estabelecida tal premissa, entendo que o recurso não preenche os requisitos de admissibilidade, pelo que não pode ser conhecido.
+Como relatado, embora a defesa sustente três teses recursais, apontou como violado o art. 386 do Código de Processo Penal, sem ao menos especificar quais dos desd obramentos do mencionado dispositivo foram violados pelo acórdão hostilizado.
+Como se sabe, é assente na jurisprudência desta Corte que a menção genérica a dispositivos de lei, feita de maneira esparsa nas razões do recurso, não supre a necessidade de argumentação adequada à correta caracterização da controvérsia. Em outras palavras, incumbe ao recorrente indicar o dispositivo violado e caracterizar como o citado dispositivo foi violado em suas razões recursais. A não satisfação da citada exigência caracteriza deficiência de fundamentação que induz a incidência da Súmula n. 284/STF.
+Além disso, a indicação de dispositivo legal supostamente violado, que não possui conteúdo jurídico suficiente para amparar a tese defensiva, ou a ausência de tal indicação, também configura deficiência de fundamentação inescapável , que resulta na aplicação do entendimento consolidado na Súmula n. 284/STF
+Assim, caracterizada a deficiência de fundamentação, impõe-se o não conhecimento do recurso especial por força da aplicação analógica da Súmula n. 284/STF.
+Nesse sentido, cito os seguintes precedentes:
+DIREITO PROCESSUAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SÚMULA N. 284 DO STF. AUSÊNCIA DE DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL. REPRESENTAÇÃO POR ADVOGADO SEM PROCURAÇÃO. SÚMULA N. 523 DO STF. ART. 563 DO CPP. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu apenas parcialmente recurso especial, pela ausência da demonstração de dissídio jurisprudencial e por incidência da Súmula n. 284 do STF, e negou provimento ao apelo nobre, de maneira a manter afastada alegação de nulidade processual por representação da parte ré por advogado sem procuração nos autos de origem.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se: (i) é possível o conhecimento do recurso especial a partir da mera indicação genérica e isolada de artigos legais violados, sem a demonstração de correlação entre os eles e os fundamentos recursais;
+(ii) é possível o conhecimento do recurso especial interposto pela alínea "c" do art. 105, III, da Constituição Federal, a partir da identificação de existência de divergência jurisprudencial pela análise da alegada similitude fática entre os acórdãos paradigmas e o caso concreto; (iii) é cabível a declaração de nulidade processual oriunda da representação da parte ré por advogado sem procuração, a partir da análise da existência de prejuízo suportado pela defesa.
+III. Razões de decidir
+3. O recurso especial não demonstrou a correlação entre todos os dispositivos legais apontados como violados e os fundamentos recursais, atraindo o óbice da Súmula n. 284 do STF, não bastando que a parte faça uma indicação genérica de artigos legais, sem que seja demonstrada claramente a ligação entre os acontecimentos do caso concreto, os pleitos recursais, as afrontas aos direitos e comandos legais supostamente ocorridos e o teor dos dispositivos legais.
+4. Nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, para viabilizar o conhecimento do recurso especial interposto pela hipótese da alínea "c" do permissivo constitucional, necessária a realização de cotejo analítico entre os julgados paradigmas e o acórdão recorrido. Não se considera comprovado o dissídio jurisprudencial com mera transcrição e grifo de ementa ou trecho esparso de acórdão paradigma, sem que se permita a constatação da similitude fática entre as decisões.
+5. O antigo advogado do agravante atuou em sua defesa, tendo estado presente em audiências, incluindo o interrogatório, se manifestado oralmente em prol dos interesses do réu, juntado documentos e apresentado resposta à acusação. Dessa forma, não se constata a alegada imparcialidade do advogado no feito nem prejuízo concreto suportado pela defesa que leve à declaração de nulidade processual, quando identificada a garantia do exercício do contraditório e da ampla defesa ao agravante.
+6. A ausência de procuração do advogado representante, por si só, não gera nulidade processual se não houver demonstração de prejuízo efetivo, aplicando-se o princípio "pas de nullité sans grief" inscrito no art. 563 do CPP e a inteligência da Súmula n. 523 do STF.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de demonstração de correlação entre dispositivos legais indicados e fundamentos recursais impede o conhecimento do recurso especial, por incidência da Súmula n. 284 do STF. 2. O conhecimento do recurso especial interposto pela alínea "c" do art. 105, III, da CF só é cabível quando demonstrada a similitude fática entre julgados a partir do cotejo analítico entre eles. 3. A nulidade processual por ausência de procuração do advogado representante só se configura com a demonstração de prejuízo efetivo ao réu, em conformidade com o princípio "pas de nullité sans grief" inscrito no art. 563 do CPP e a Súmula n. 523 do STF".
+Dispositivos relevantes citados: CPC, arts. 76, §1º, 105, 272, §2º, 278, 280 e 281; CPP, arts. 563 e 266.Jurisprudência relevante citada: STF, Súmula 284; STJ, AgRg no AREsp 2.495.213/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 6/8/2024; STJ, AREsp 2.319.383, Rel. Min. Maria Thereza de Assis Moura, DJe de 10/5/2023.
+(AgRg no AREsp n. 2.684.007/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025, grifei)
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. SÚMULA 284/STF. REGIME INICIAL DE CUMPRIMENTO DE PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu em parte de recurso especial e, nessa extensão, negou-lhe provimento. O recurso especial foi interposto contra acórdão do Tribunal de Justiça do Estado do Paraná que manteve a condenação por tráfico de drogas, fixando o regime inicial fechado para cumprimento da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em saber 1) se é possível a análise de teses relacionadas à terceira fase da dosimetria da pena;
+e 2) se a fixação do regime inicial fechado para cumprimento da pena foi devidamente fundamentada.
+III. Razões de decidir
+3. Não é possível o conhecimento do recurso no tocante à terceira fase da dosimetria da pena, diante da fundamentação genérica e sem indicação precisa dos supostos dispositivos federais violados, o que faz incidir a Súmula n. 284 do STF, aplicada por analogia.
+4. Verifica-se motivação idônea da decisão que fixou o regime inicial fechado diante do quantum da pena, superior a quatro anos, e da circunstância judicial desfavorável, considerando a grande quantidade de droga apreendida (45,380 kg de maconha).
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: "1. É possível a fixação de regime fechado diante da pena superior a quatro anos e de circunstância judicial negativa. 2. A fundamentação genérica e sem indicação precisa dos supostos dispositivos federais violados impede o conhecimento do recurso especial.".
+Dispositivos relevantes citados: Código Penal, arts. 33, §§ 2º e 3º e 55; Lei n. 11.343/2006, art. 42.Jurisprudência relevante citada:
+STJ, AgRg no HC 833.799/SP, Relª. Minª. Laurita Vaz, Sexta Turma, DJe 30/8/2023; STJ, AgRg no HC 852.424/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe 28/11/2023.
+(AgRg no REsp n. 2.095.749/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025, grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. PEDIDO GENÉRICO DE ABSOLVIÇÃO. AUSÊNCIA DE INDICAÇÃO PRECISA DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. ENVOLVIMENTO DE ADOLESCENTE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. ART. 33, § 4.º, DA LEI N. 11.343/06. QUANTIDADE E NATUREZA DAS DROGAS. CIRCUNSTÂNCIAS QUE PERMITEM A MODULAÇÃO DA FRAÇÃO DE REDUÇÃO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Defesa formulou pedido genérico de absolvição, sem indicar, de forma clara e precisa, qual o dispositivo de lei federal eventualmente violado. Desse modo, quanto a este ponto, a ausência de delimitação do dispositivo legal sob o qual se funda a controvérsia caracteriza deficiência na fundamentação e impede o conhecimento do recurso, nos termos da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.968.386/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023, grifei)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
