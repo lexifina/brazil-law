@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por IGOR DOS SANTOS DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Depreende-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva em 21/01/2024 pela suposta prática dos crimes capitulados nos artigos 35 da Lei 11.343/06 e 329 do Código Penal- fl. 124.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 42-48.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado no excesso de prazo para a formação da culpa.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar indeferida às fls. 113-114.
+As informações foram prestadas às fls. 124-128. O Ministério Público Federal, às fls.130-136, manifestou pelo desprovimento do recurso ordinário.
+É o relatório. DECIDO.
+No que tange ao excesso de prazo na formação da culpa, in casu, constata-se das informações acostadas ao autos que o recorrente teve a prisão em flagrante convertida em preventiva em 21/01/2024 pela suposta prática dos crimes capitulados nos artigos 35 da Lei 11.343/06 e 329 do Código Penal- fl. 124, e o feito sob análise apresenta relevante complexidade, por se tratar de responsabilização por crime grave (associação para o tráfico e resistência e, segundo informações do juízo de origem, aguarda-se da manifestação acerca da juntada do auto de apreensão requerido, bem como da apresentação de alegações finais por parte da acusação, o que foi solicitado com a devida urgência, fatos que demonstram que não há que se falar em desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Na linha dos precedentes desta Corte, outra não é a conclusão a que se chega senão a de que o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+Nesse sentido, os seguintes precedentes: (AgRg no HC n. 934.983/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.) ;(AgRg no HC n. 737.315/ES, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 15/12/2022,), (AgRg no RHC n. 158.368/SP, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 22/12/2022), (AgRg no RHC n. 176.377/SE, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 13/3/2023). (AgRg no HC n. 908.776/PB, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pelo provimento do presente recurso.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus. Expeça-se, contudo, recomendação para que o Juízo de origem imprima maior celeridade no julgamento da Ação Penal.
+Publique-se. Intimem-se.
+EMENTA
