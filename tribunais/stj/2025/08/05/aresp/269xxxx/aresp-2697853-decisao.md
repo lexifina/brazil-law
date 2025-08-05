@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSE SANTANA, NILZA LAUDANO GUIMARAES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fl. 328):
+APELAÇÃO. CIVIL E PROCESSO CIVIL. AÇÃO DE RESCISÃO DE CONTRATO COM MANUTENÇÃO DE POSSE JULGADA IMPROCEDENTE. CONTRATO DE PROMESSA DE COMPRA E VENDA. PERDA DE OBJETO DO AGRAVO RETIDO. PRELIMINAR DE NULIDADE PROCESSUAL POR AUSÊNCIA DE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO E DE PROVA PERÍCIA NÃO ACOLHIDA. FATO DE TERCEIRO. AUSÊNCIA DE PROVA CONSTITUTIVA DO DIREITO DO AUTOR. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Sem embargos de declaração opostos.
+No recurso especial, alega violação dos arts. 93, IX, da Constituição Federal, 344, 357 do CPC e 476 do Código Civil.
+Argumenta nulidade processual em razão de cerceamento de defesa e violação do devido processo legal, pois não foi realizada audiência de instrução e julgamento, nem foi deferida a produção de prova pericial para comprovar a invasão do terreno.
+Sustenta que a revelia da ré deveria ter sido declarada, aplicando-se a confissão ficta sobre os fatos descritos na inicial, conforme o art. 344 do CPC.
+Alega que o contrato de compra e venda não pode ser cumprido devido a fato de terceiro, já que o Banco Real não outorgou escritura pública, e houve invasão do terreno por um vizinho.
+Aponta divergência jurisprudencial.
+Requer a concessão de justiça gratuita.
+Sem contrarrazões ao recurso especial, conforme certificado (fl. 426).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 428-435), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo, conforme certificado (fl. 472).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia em ação de rescisão de contrato de compra e venda de imóvel, no qual os recorrentes alegam que o terreno vendido não pode ser objeto de escrituração, pois o Banco Real não assinou o contrato de compra e venda e ajuizou ação de reintegração de posse, além de alegarem que o lote teve 2 metros usurpados pelo vizinho, tornando-o imprestável para o fim destinado pela legislação municipal. Também afirmam que a quitação do terreno foi feita com joias falsas, o que justificaria a designação de audiência de instrução e julgamento para a oitiva de testemunhas e realização de perícia técnica.
+O Juízo de primeiro grau julgou improcedentes os pedidos formulados.
+O Tribunal de Justiça da Bahia negou provimento ao recurso de apelação interposto, fundamentando o acórdão nos seguintes termos (fls. 340-341):
+No mérito, os apelantes requerem a reforma da sentença que julgou improcedente a pretensão autoral de rescindir o contrato de promessa de compra e venda, em razão da impossibilidade de entregar o que foi prometido por fato de terceiro (Banco Real), que não outorgou nem contrato de compra e venda, muito menos escritura pública; ademais, alegam a invasão de 2 metros do terreno pelo vizinho. Nos ids. 47606744 e seguintes, é possível observar o contrato de compra e venda entre o primeiro apelante e a apelada, tendo como objeto o imóvel descrito na inicial, datado em 19/06/1990, pelo valor de CR$610.000,00, assinado pelas partes. Ademais, nos ids. 47606735 e seguintes, observa-se os comprovantes das parcelas pagas.
+Contudo, não se pode admitir que os apelantes, por mera liberalidade, sem demonstrar abusividade que torne o negócio realizado entre as partes impossível de ser realizado, requeiram a rescisão contratual apenas por supostos problemas entre os apelantes e terceiros. Ademais, a apelada afirma não haver qualquer interesse de rescisão contratual.
+Assim, diante da ausência de comprovação da alegação dos apelantes, não apresentando prova a embasar suas alegações (art. 373, I, do CPC), não há como alterar a sentença recorrida.
+O acórdão do TJBA está fundamentado na análise das provas documentais presentes nos autos, asseverando que não há comprovação suficiente das alegações dos ora requerentes, como a impossibilidade da entrega do imóvel por fato de terceiro e a invasão do terreno por vizinho.
+Com efeito, verifica-se no acórdão que a questão de mérito confirmou-se provada exclusivamente por meio de prova documental, conforme disposto no art. 355, I, do CPC e que não ficou demonstrado o alegado cerceamento de defesa.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, procedimento vedado em sede de recurso especial pelo óbice da Súmula 7/STJ.
+No que tange à alegada violação do art. 93, IX, da Constituição Federal, descabe ao Superior Tribunal de Justiça examinar a suposta violação de matéria constitucional, porquanto enfrentá-la significaria usurpar competência que, por expressa determinação da Constituição Federal, pertence ao Supremo Tribunal Federal.
+Quanto ao pedido de concessão da gratuidade de justiça, extrai-se da sistemática do CPC/2015, que é apropriado deferir o benefício em razão da presunção de insuficiência de recursos decorrente de sua alegação (§ 3º, do art. 99).
+O Código de processo civil/2015, no art. 98 traz expressamente a possibilidade de concessão da gratuidade da justiça à pessoa física ou jurídica que não puder arcar com os ônus do processo, senão vejamos: "Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios, tem direito à gratuidade da justiça, na forma da lei."
+Segundo a jurisprudência desta Corte Superior, a presunção de hipossuficiência é relativa, de tal modo que o pedido pode ser indeferido se houver elementos que infirmem a alegada hipossuficiência.
+No presente caso, o Tribunal de origem não se manifestou expressamente sobre o pedido formulado em sede de apelação.
+Sobre o tema, a Corte Especial do Superior Tribunal de Justiça sedimentou que a ausência de manifestação do Judiciário quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo (AgRg nos EAREsp n. 440.971/RS, Ministro Raul Araújo, Corte Especial, DJe 17/3/2016 - grifo nosso).
+Nesse caso, defiro o pedido de gratuidade formulado nas razões do recurso especial.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, dar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18%, sobre o valor fixado à fl. 342, observada a concessão de gratuidade de justiça.
+Publique-se. Intime-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ALEGAÇÃO DE IMPOSSIBILIDADE DE ESCRITURAÇÃO E INVASÃO DE TERRENO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. MATÉRIA CONSTITUCIONAL. INVIABILIDADE DE EXAME EM SEDE DE RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA NATURAL. PRESUNÇÃO DE HIPOSSUFICIÊNCIA. DEFERIMENTO TÁCITO. ART. 99, § 3º, DO CPC/2015. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA PARTE, PROVIDO.
