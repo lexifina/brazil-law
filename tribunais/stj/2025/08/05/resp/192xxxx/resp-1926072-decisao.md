@@ -1,0 +1,58 @@
+DECISÃO
+Em análise, recurso especial interposto com fulcro no art. 105, III, a, da Constituição Federal, por GILBERTO VIEIRA ROGGERO E OUTROS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 140):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.
+I- Hipótese em que o recorrente não impugnou fundamento específico da decisão agravada.
+II- Recurso não conhecido.
+Embargos de declaração rejeitados (fls. 154-161).
+Nas razões recursais, a parte recorrente alega violação do art. 13 da Lei 8.620/1993. Afirma que "é imperioso se reconhecer a ilegitimidade dos Recorrentes no polo passivo daquela Execução Fiscal, posto que iniurídica, inclusive considerando que possui base no expresso reconhecimento do Excelso Supremo Tribunal Federal, quanto à inconstitucionalidade do artigo 13, da Lei Federal nº 8.620/93, no julgamento do Recurso Extraordinário 562.276/RS" (fl. 171). Requer seja reformado o acórdão "com fito de se declarar a ilegitimidade ad causam dos Recorrentes, excluindo-os do polo passivo da ação executiva fiscal de origem, julgando extinto o referido feito em referência a estes, consubstanciado especialmente na inconstitucionalidade do artigo 13, da Lei Federal nº 8.620/93, conforme expressamente já reconhecida pelo Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 562.276/RS, conforme demonstrado neste feito, por sua injuridicidade, medida de irrefutável JUSTIÇA!" (fl. 178).
+Contrarrazões apresentadas (fls. 238-244).
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+A Corte de origem, no julgamento da apelação, consignou (fls. 136-139):
+Versa o recurso interposto matéria de responsabilização de sócio para figurar no polo passivo da demanda.
+O juiz de primeiro grau decidiu a questão sob os seguintes fundamentos:
+"1) Fls. 29.1/315: verifico que a alegação de ilegitimidade passiva suscitada nos autos pelos coexecutados já foi objeto de decisão proferida ás fls. 223/231, que indeferiu o pedido feito em sede de objeção de pré-executividade oposta à fls. 156/186.
+Irresignados, os coexecutados impugnaram o conteúdo da decisão, via recurso de agravo de instrumento (fls. 235/262), tendo sido negado provimento ao recurso, conforme se vê às fls. 268/274, razão pela qual a matéria encontra-se preclusa.
+Portanto eventual inconformismo por parte dos coexecutados quanto ao conteúdo da decisão proferida nos autos deveria ter sido discutido na sede recursal própria, motivo pelo qual o pedido deve ser rejeitado.
+Diante do exposto, REJEITO A OBJEÇÃO DE PRÉ-EXECUTIVIDADE.
+Prossiga-se na execução.
+2) Abra-se nova vista à parte exeqüente para que apresente sua manifestação conclusiva.
+3) Em seguida, tornem os autos conclusos.
+4) Publique-se, intimem-se e cumpra-se."
+ ..
+No presente recurso, sustenta o recorrente sua ilegitimidade por não ter agido com excesso de poderes ou infração legal ou ao contrato social, sustentando a inexistência de causa para o redirecionamento da execução aos sócios e administradores, bem como a declaração de inconstitucionalidade do art. 13 da Lei nº 8.620/91, nada dizendo acerca do fundamento da decisão recorrida de "que a alegação de ilegitimidade passiva suscitada nos autos pelos coexecutados já foi objeto de decisão proferida ás fls. 223/231, que indeferiu o pedido feito em sede de objeção de pré-executividade oposta às fls.156/186. Irresignados, os coexecutados impugnaram o conteúdo da decisão, via recurso de agravo de instrumento (fls. 235/262), tendo sido negado provimento ao recurso, conforme se vê às fls. 268/274, razão pela qual a matéria encontra-se preclusa". (grifei)
+Dessa forma, não impugnou o fundamento específico da decisão, que, nesta situação, de antemão não pode ser afastado.
+ ..
+Por estes fundamentos, não conheço do recurso.
+Verifica-se que a parte ora recorrente não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo, também, a aplicação do óbice da Súmula 284/STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023 , DJe de 19/5/2023).
+Constata-se, ainda, a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SENTENÇA QUE DECLAROU A EXTINÇÃO DA EXECUÇÃO. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONDENAÇÃO DA UNIÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 85, § 7º, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, ao decidir a controvérsia, o Tribunal a quo estabeleceu que "não merece reparo a sentença declaratória de extinção da execução, ora guerreada, não havendo que se falar na alvitrada necessidade de intimação "para comprovar a implantação da revisão objeto do pedido exordial, antes da extinção da execução", por tratar-se de matéria superada pela preclusão consumativa, à míngua de manifestação oportuna da parte interessada a esse respeito, por ocasião do despacho do evento 348, DESPADEC96/JFRJ".
+2. A recorrente, por sua vez, deixou de impugnar tal fundamento, que é apto, por si só, para manter o acórdão recorrido. Aplica-se à espécie, por analogia, o óbice do enunciado n. 283 da Súmula do STF.
+3. Segundo a jurisprudência desta Corte, "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada" (AgInt no REsp n. 2.062.255/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/4/2024, DJe de 26/4/2024).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.132.773/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO ANULATÓRIA DE REGISTRO IMOBILIÁRIO CUMULADA COM PERDAS E DANOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INDEFERIMENTO DE PROVA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRINCÍPIOS DA LIVRE ADMISSIBILIDADE DA PROVA E DA PERSUASÃO RACIONAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INEXISTÊNCIA DE PRECLUSÃO PRO JUDICATO EM MATÉRIA PROBATÓRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. ENUNCIADO 284/STF. INATACADO FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. VERBETE 283/STF.
+1. Afasta-se a alegada ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, "os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp 1.911.181/SP, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/2/2022, DJe de 15/3/2022).
+3. A alteração das premissas adotadas pela Corte de origem quanto à não ocorrência de cerceamento de defensa demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. A jurisprudência deste Tribunal Superior assevera que "não há falar em preclusão pro judicato em matéria de instrução probatória, não havendo preclusão para o Magistrado nos casos em que é indeferida a produção de prova que foi anteriormente autorizada" (AgInt no AREsp 118.934/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/11/2016, DJe de 6/12/2016).
+5. O apelo nobre deixou de impugnar fundamento basilar que ampara o acórdão recorrido e, portanto, a irresignação esbarra no obstáculo do Enunciado 283/STF.
+6. A ausência de indicação do dispositivo legal tido por violado revela a deficiência de fundamentação da insurgência especial, atraindo o impedimento da Súmula 284/STF.
+7. O Tribunal a quo, com arrimo no acervo probatórios dos autos, consignou que "de forma alguma poderia se dizer que existiria a propriedade dos autores sobre o imóvel ou direitos possessórios passíveis de ser indenizados" (fl. 2.939). Nesse contexto, a alteração de tais circunstâncias na atual quadra processual se revela inviável, nos termos do Verbete 7/STJ.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.796.195/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/20 15.
+Intimem-se.
+EMENTA
