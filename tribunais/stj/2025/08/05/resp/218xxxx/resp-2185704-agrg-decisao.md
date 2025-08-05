@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo regimental interposto por WANDRIANE DE SOUZA VICENTE contra decisão proferida por esta Relatoria, que deu provimento ao recurso especial da acusação para cassar a absolvição da ré pela atipicidade material da conduta e restabelecer a condenação de fls. 144-146 (fls. 325-328).
+Nas razões do regimental, a defesa requer, em suma, sejam devolvidos os autos à Corte de justiça de origem para que aprecie os pedidos constantes do recurso de apelação, os quais não foram decididos por ocasião do julgamento do apelo defensivo em razão de o Tribunal de justiça ter absolvido a ré pelo reconhecimento do princípio da insignificância. Como este Tribunal cassou a mencionada absolvição, cabia ter determinado a remessa dos autos a Corte de justiça estadual para que tivesse a oportunidade de apreciar os pedidos relativos a) à readequação da pena-base pelo decote da negativação da vetorial culpabilidade, b) ao reconhecimento da confissão espontânea e sua compensação com a reincidência; e c) à fixação do regime aberto (fls. 338-339).
+Requer, assim, o provimento do regimental apenas para determinar o retorno dos autos ao Tribunal de justiça de origem para que se manifeste acerca das demais alegações postas no recurso de apelação, uma vez que a condenação da ré foi restabelecida pela decisão de fls. 325-328.
+É o relatório. Decido.
+Com razão a agravante.
+De fato, além do pleito de reconhecimento da atipicidade material da conduta, constam da petição do recurso de apelação da defesa as teses de decote da negativação da vetorial culpabilidade com a consequente adequação da pena-base (fls. 202-205); de reconhecimento da confissão espontânea e sua compensação com a reincidência (fls. 205) e de fixação do regime aberto (fls. 205).
+Assim, restabelecida a condenação da ré, por esta Relatoria, pela inaplicabilidade do princípio da insignificância, os autos devem retornar ao Tribunal de justiça de origem para que possa apreciar as demais alegações defensivas, postas no recurso de apelação.
+Ante o exposto, reconsidero a decisão agravada tão somente para determinar o retorno dos autos ao Tribunal de Justiça de origem para q ue se manifeste acerca das demais alegações defensivas, arguidas nas razões da apelação de fls. 198-208.
+Publique-se. Intimem-se.
+EMENTA
