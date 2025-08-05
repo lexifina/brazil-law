@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, recurso especial interposto por RAUL FIGUEIREDO OTERO, com fulcro no art. 105, III, a, da CF/88, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado:
+CIVIL. RESPONSABILIDADE CIVIL. DANO MORAL. FUNDAÇÃO NACIONAL DE SAÚDE (FUNASA). EXPOSIÇÃO DE OCUPANTE DO CARGO DE MOTORISTA AO DICLORO-DIFENIL- TRICLOROETANO (DDT) SEM O FORNECIMENTO DE EQUIPAMENTOS DE PROTEÇÃO. NECESSIDADE DE PRODUÇÃO MÍNIMA DE PROVA. NÃO OBSERVÂNCIA DO DISPOSTO NO ART. 373, INCISO I, DO CÓDIGO DE PROCESSO CIVIL (CPC). APELAÇÃO DA FUNASA PROVIDA. PEDIDO INDENIZATÓRIO QUE SE JULGA IMPROCEDENTE. APELO DO AUTOR PREJUDICADO.
+1. Em diversas oportunidades, este Tribunal já manifestou entendimento, segundo o qual, relativamente ao pleito indenizatório vinculado ao contato com o DDT, é certo que, se já se poderia cogitar de dano moral pelo simples conhecimento de que esteve exposto a produto nocivo, o sofrimento psíquico surge induvidosamente a partir do momento em que se tem laudo laboratorial apontando a efetiva contaminação do próprio corpo pela substância." (REsp n. 1.684.797/RO, Relator Ministro Herman Benjamin, DJe de 11/10/2017).
+2. No caso em apreço, não há nos autos nenhum documento apto a confirmar que, de fato, o autor é portador de resíduos da substância tóxica em seu organismo ou mesmo que, na qualidade de Condutor Motorista, esteve em campo manuseando o DDT.
+3. É necessária a produção mínima de prova que, na espécie, poderia ser satisfeita mediante a análise laboratorial do postulante ou a trazida aos autos do seu histórico funcional para que se pudesse constatar a efetiva manipulação da substância tóxica.
+4. Na hipótese, não se pode sequer falar em cerceamento de defesa, porquanto a parte autora teve a oportunidade de especificar as provas que entendessem necessárias à solução do entrevero. O autor, contudo, limitou-se a requerer o julgamento antecipado da lide.
+5. Ao assim proceder, descumpriu os ditames do art. 373, inciso I, do CPC, que estabelece incumbir ao autor o ônus da prova quanto ao fato constitutivo do seu direito.
+6. A apelação da Funasa, provida. Pedido julgado improcedente.
+7. Apelo do autor prejudicado.
+8. Condena-se o demandante ao pagamento das custas e de honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor da causa, com a ressalva do art. 98, § 3º, do CPC.
+9. Arcará, também, com os honorários advocatícios recursais fixados em R$ 600,00 (seiscentos reais), conforme determina o art. 85, § 11, do CPC, tudo com a já mencionada ressalva do art. 98, § 3º (fls. 237-238).
+Nas razões recursais, a parte recorrente aponta a violação ao art. 927 do Código Civil, alegando, em síntese, que "deve ser reconhecida a responsabilidade objetiva da FUNASA, pelo simples fato de ter submetido servidor sem treinamento e equipamento adequado, bem como sem as informações necessárias, à possibilidade de contaminação por pesticida cuja toxicidade é comprovada pela literatura médica, assumindo o risco que este poderia desenvolver diversas enfermidades, de diferentes graus de gravidade" (fl. 267).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O cerne do apelo especial consiste na reforma do aresto que não reconheceu a responsabilidade da Fundação Nacional de Saúde ao pagamento de indenização pela suposta exposição do recorrido à pesticida (DDT).
+Não se desconhece o entendimento firmado por esta Corte no julgamento do Tema 1.023/STJ, in verbis:
+Nas ações de indenização por danos morais, em razão de sofrimento ou angústia experimentados pelos agentes de combate a endemias decorrentes da exposição desprotegida e sem orientação ao dicloro-difenil-tricloroetano - DDT, o termo inicial do prazo prescricional é o momento em que o servidor tem ciência dos malefícios que podem surgir da exposição, não devendo ser adotado como marco inicial a vigência da Lei nº 11.936/09, cujo texto não apresentou justificativa para a proibição da substância e nem descreveu eventuais malefícios causados pela exposição ao produto químico.
+Todavia, no caso, o Tribunal de origem asseverou a existência de peculiaridades suficientes a afastar a responsabilidade civil do Estado, in verbis:
+No caso em apreço, não há nos autos nenhum documento apto a confirmar que, de fato, o autor é portador de resíduos da substância tóxica em seu organismo ou mesmo que, na qualidade de Guarda de Endemias, esteve em campo manuseando o DDT e os demais pesticidas aos quais faz menção.
+A instrução processual é constituída de documentos produzidos com base em declarações unilaterais fornecidas pelo próprio autor (fls. 38-46), sendo relevante anotar que declaração emitida pela Superintendência de Campanha de Saúde Pública (Sucam) no ano de 1978 registra que o autor exercia a função de Condutor Motorista (fl. 50).
+Ademais, ao ser instado a especificar as provas que entendesse necessárias, o autor limitou-se a requerer o julgamento antecipado da lide (fl. 140).
+Reputo necessária a produção mínima de prova que poderia ter sido atendida mediante a análise laboratorial do postulante ou a trazida aos autos do seu histórico funcional para que se pudesse constatar a efetiva manipulação da substância tóxica.
+ ..
+Assim também compreendo a questão. No caso em apreço, não se pode sequer falar em cerceamento de defesa, porquanto a parte teve a oportunidade de especificar as provas que entendesse necessárias à solução do entrevero. O autor, contudo, limitou-se a requerer o julgamento antecipado da lide, conforme já foi assinalado linhas atrás (fl. 140).
+Logo, deixou de atender aos ditames do art. 373, inciso I, do Código de Processo Civil (CPC), segundo o qual incumbe ao autor o ônus da prova quanto ao fato constitutivo do seu direito (fls. 226-233).
+Nesse contexto, a alteração da conclusão do Tribunal a quo, acerca da ausência de comprovação de que o recorrente, na qualidade de motorista, esteve em campo manuseando o DDT, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Além disso, as razões recursais estão dissociadas dos fundamentos utilizados pelo aresto recorrido, uma vez que não impugnaram o fundamento de que o recorrente teria descumprido o disposto no art. 373, I, do CPC.
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 1% (um por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
