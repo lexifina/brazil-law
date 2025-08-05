@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. MECÂNICO. RECONHECIMENTO. CONVERSÃO. CUSTEIO. REAFIRMAÇÃO DA DER. REAFIRMAÇÃO DA DER ANTERIOR AO AJUIZAMENTO DA AÇÃO.
+A lei em vigor ao tempo do exercício da atividade laboral define a configuração do tempo como especial ou comum, o qual integra o patrimônio jurídico do trabalhador, como direito adquirido. Até 28.4.1995 é admissível o reconhecimento da especialidade do trabalho por categoria profissional; a partir de 29.4.1995 é necessária a demonstração da efetiva exposição, de forma não ocasional nem intermitente, a agentes prejudiciais à saúde, por qualquer meio de prova; a contar de 06.5.1997 a comprovação deve ser feita por formulário-padrão embasado em laudo técnico ou por perícia técnica. A ausência de recolhimento de contribuição adicional pelo empregador não obsta o reconhecimento do direito do segurado.
+A atividade do trabalhador empregado em atividade de mecânico pode ser considerada especial por enquadramento profissional até 28.4.1995, por equiparação aos trabalhadores de indústrias metalúrgicas e mecânicas, com base no Anexo do Decreto nº 53.831/64 (item 2.5.3) e Anexo do Decreto nº 83.080/79 (item 2.5.1), e, no período posterior, mediante comprovação da exposição a agentes nocivos nos termos previstos da legislação previdenciária.
+Demonstrado o preenchimento dos requisitos, o segurado tem direito à concessão da aposentadoria por tempo de contribuição.
+Conforme o Tema 995/STJ, "É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir."
+Havendo a reafirmação da DER (Data de Entrada do Requerimento) para data anterior ao ajuizamento da ação, não se aplicam as disposições contidas no Tema 995/STJ (fl. 348).
+Opostos embargos de declaração (fls. 350-351), foram rejeitados pelo aresto de fls. 353-355.
+No recurso especial, a autarquia recorrente aponta violação aos seguintes dispositivos: a) art. 1.022, II, do CPC/2015, vez que "os nobres julgadores, ao julgarem os embargos declaratórios, limitaram-se a apontar que o acórdão embargado abordou todas as questões suscitadas pelo embargante, não apreciando a questão jurídica levantada pela autarquia previdenciária acerca inexigibilidade de juros de mora sobre as parcelas vencidas, os quais somente poderão ser aplicados após 45 dias caso o INSS não efetive a implantação do benefício" (fl. 359); b) arts. 389, 394, 395 e 396 do Código Civil e 927,III, do CPC, po rquanto "os juros de mora só incidem após o INSS intimado para o cumprimento da obrigação, consistente na implantação do benefício reconhecido pela reafirmação da DER, não o faz no prazo de 45 dias, contando-se os juros a partir daí  .. " (fl. 359).
+Requer, ao final, o provimento do recurso.
+Não apresentadas as contrarrazões, o recurso especial foi admitido pelo Tribunal de origem (fls. 368-369).
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 1.022, I e II, do CPC/2015, o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+No que diz respeito ao mérito, o Tribunal de origem concluiu pela não aplicação do Tema 995/STJ, pois, no presente caso, a DER foi reafirmada antes da propositura do feito, razão pela qual entendeu devidos juros de mora a contar da citação.
+Veja-se:
+Agrego apenas, à título de esclarecimento, que reafirmada a DER para data anterior ao ajuizamento da ação, (DER em 19/02/2022, no caso destes autos) não se aplica o disposto no Tema 995/STJ, que se refere à reafirmação da DER para data posterior ao ajuizamento da ação (fl. 354).
+Por sua vez, no recurso especial, constata-se a ausência de impugnação do referido fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
