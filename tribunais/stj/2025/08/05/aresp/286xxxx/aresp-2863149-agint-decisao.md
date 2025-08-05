@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, agravo interno interposto por BATI BRASIL RESTAURANTES LTDA contra decisão que não conheceu do recurso, por incidência da Súmula 281 do STF.
+Argumenta a parte agravante que "apresentou requerimento para o sobrestamento deste feito até decisão final desse E. STJ acerca do Tema nº 1.283 - pedido que foi indeferido pelo E. TRF3 sob o argumento de que "o C. STJ determinou o sobrestamento tão-somente dos processos em que tenha sido interpostos recurso especial ou agravo em recurso especial"" (fl. 566).
+Ao final, requer a reconsideração da decisão agravada ou o provimento do recurso.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Considerando a relevância dos argumentos esposados pela parte agravante, reconsidero a decisão agravada e passo a nova análise do recurso.
+Inicialmente, verifico que a controvérsia devolvida ao conhecimento desta Corte Superior, mediante o agravo em recurso especial em epígrafe, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, Tema 1.283/STJ, cuja questão submetida a julgamento é: 1) se é necessário (ou não) que o contribuinte esteja previamente inscrito no CADASTUR, conforme previsto na Lei 11.771/2008, para que possa usufruir dos benefícios previstos no Programa Emergencial de Retomada do Setor de Eventos (PERSE), instituído pela Lei 14.148/2021; 2) se o contribuinte optante pelo SIMPLES Nacional pode (ou não) beneficiar-se da alíquota zero relativa ao PIS/COFINS, à CSLL e ao IRPJ, prevista no PERSE, considerando a vedação legal inserta no art. 24, 1º, da LC 123/2006.
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, reconsidero a decisão de fls. 558-559 e determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se ..
+ EMENTA
