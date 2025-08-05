@@ -1,0 +1,24 @@
+DECISÃO
+Em  análise,  agravo  interno  interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra  a  decisão  que  julgou prejudicado o recurso especial.
+Argumenta  a  parte agravante, em síntese, que, "sendo o caso de o recurso especial não abranger a matéria afetada pelo STF no tema 810, cabe o julgamento por essa e. Corte, pois não é o caso de aplicação do referido precedente do STF ao caso" (fl. 503).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC/2015 e art. 259 do RISTJ e, considerando os relevantes argumentos suscitados pela parte agravante, reconsidero a decisão agravada e passo a novo exame do recurso especial.
+Nas razões do recurso especial, o recorrente alega, preliminarmente, ofensa ao art. 535, II, do CPC/73, pois, "embora opostos os competentes aclaratórios, estes restaram improvidos, persistindo, pois, a omissão ali aventada. Como não acolhida a omissão, forçoso é concluir que o v. acórdão guerreado vulnerou, permissa venia, o disposto no art. 1.022, II, do CPC, pois se negou o Tribunal a acolher os embargos de declaração quando eram nitidamente cabíveis" (fl. 352).
+Alega, ainda, que, "quando os juros moratórios não forem convencionados, ou o forem sem taxa estipulada, ou quando provierem de determinação legal, serão fixados segundo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional, consoante a inteligência do art. 406, do Código Civil vigente" (fl. 353).
+Requer, ao final, o provimento do recurso.
+A irresignação não merece acolhida.
+Quanto à apontada violação ao art. 535, II, do CPC/73, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso dos autos, o Tribunal de origem resolveu a questão com base nos seguintes fundamentos:
+Em relação ao pedido do INSS de que deve ser utilizada a taxa SELIC, tal argumento não procede, pois no caso dos autos, cuida-se de um suposto crédito decorrente de ato ilícito (fraude). Trata-se de um nítido caso de responsabilidade civil, não se enquadrando no conceito de dívida ativa não tributária por falta do requisito da certeza (fl. 287).
+Dessa forma, inexiste a alegada ofensa ao art. 535 do CPC/73. Conforme transcrições supra, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material.
+Destaque-se, ainda, que, na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp n. 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp n. 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+No mérito , cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a, quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+Nas razões do recurso especial, de fato, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido violados, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia.
+Nesse sentido: "O recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão" (AgInt no AREsp n. 2.372.506/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023).
+Cumpre destacar, ainda, que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial" (AgInt no AREsp n. 1.738.090/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021). Nesse sentido: REsp n. 775.021/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2009, DJe de 27/8/2009.
+Isso posto, em juízo de retratação, reconsidero a decisão agravada e conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
