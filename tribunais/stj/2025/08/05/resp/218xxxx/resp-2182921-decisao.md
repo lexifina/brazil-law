@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, recurso especial interposto por NILDA MARTINS BEZERRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado (fls. 358-373):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUSPENSÃO DE ENERGIA ELÉTRICA. NOTIFICAÇÃO PRÉVIA REALIZADA. PAGAMENTO DO DÉBITO REALIZADO NO FINAL DE SEMANA APÓS DATA INFORMADA DO POSSÍVEL CORTE. PRAZO PARA COMPENSAÇÃO DO PAGAMENTO. CORTE REALIZADO NA SEGUNDA-FEIRA. AUSÊNCIA DE COMPROVAÇÃO DE COMUNICAÇÃO DE PAGAMENTO POR PARTE DA AUTORA NOS MEIOS DISPONÍVEIS. EXERCÍCIO REGULAR DE DIREITO DA CONCESSIONÁRIA. INADIMPLÊNCIA CONTRATUAL. DANO MORAL NÃO EVIDENCIADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Consta dos autos que a suspensão no fornecimento de energia elétrica ocorreu dia 02/05/2022, em razão da fatura vencida em 23/03/2022, quitada somente dia 30/04/2022 (sábado), com reaviso de corte a partir de 28/04/2022.
+2. É possível afirmar que a autora/recorrente efetuou o pagamento do débito no final de semana, após o prazo constante na notificação/reaviso, sendo o corte no fornecimento de energia legítimo, uma vez que diante da ausência de prazo hábil a compensação bancária, cabia à autora informar a requerida a realização do pagamento para que a mesma pudesse suspender o corte.
+3. Não há que se falar em conduta abusiva e nem em má prestação dos serviços pela demandada a ensejar indenização por danos morais, já que a autora quitou o débito no sábado, após a data prevista para suspensão do serviço e, pelo que consta dos autos, não contatou a demandada para informar o pagamento e suspender à ordem de corte.
+4. Recurso conhecido e não provido. Sentença mantida.
+Os embargos de declaração foram rejeitados (fls. 397-415).
+Nas razões recursais, Nilda Martins Bezerra, sustenta, em síntese, violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC, alegando negativa de prestação jurisdicional e sustentando que "as matérias objeto deste recurso  negativa de prestação jurisdicional (art. 1.022, CPC) e o direito do consumidor à efetiva reparação por danos morais, de forma in re ipsa, em decorrência de suspensão dos serviços de energia elétrica por débito pretérito e não atual, e quitado antes do ato de corte, consubstanciando em ato ilícito praticado pela concessionária de energia (arts. 8º, Código de Defesa do Consumidor, CPC e arts. 186 e 927 do Código Civil CC  encontram-se devidamente pré-questionadas, cumprindo ao disposto na súmula 211 deste c. STJ, por meio da interposição dos embargos de declaração, ao final rejeitados, no evento 16".
+Contrarrazões apresentadas fls. 440-447.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fl. 407):
+Apesar da embargante alegar a existência de omissão no acórdão analisado, cabe observar que a decisão foi clara ao definir que inexiste elementos nos autos que possam configurar conduta abusiva, muito menos, má prestação do serviço, com capacidade de gerar indenização por danos morais.
+ ..
+Portanto, o que se constata é que as alegações da embargante acerca da necessidade de reconhecimento do ilícito civil constituem mero inconformismo com a manutenção da sentença de origem, pretensão esta que não merece acolhimento, uma vez que os embargos de declaração não devem ser utilizados como instrumento para reexame de matéria já apreciada.
+Como se vê, a negativa de prestação jurisdicional não restou configurada. Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+O Tribunal local concluiu pela ausência de responsabilidade da concessionária de energia elétrica, por inexistir "elementos nos autos que possam configurar conduta abusiva, muito menos, má prestação do serviço". Afirmou ser o corte no fornecimento de energia legítimo, pois a concessionária ré agiu dentro do exercício regular de direito.
+A questão, assim como posta, perpassa pela valoração da prova.
+Não havia inadimplemento no momento do corte de energia elétrica, o que afasta a sua legitimidade. Assim a intolerância dos funcionários de concessionária em não aguardar a busca pelo comprovante de pagamento, expôs a autora ao corte ilegítimo devendo arcar com as consequências advindas de suas atitudes. A ré não agiu dentro do exercício regular de direito, tanto que se obrigou a restabelecer a ligação pelos mesmos fatos.
+A prova é no sentido de uma interrupção indevida do fornecimento de energia. O vínculo estabelecido entre as partes constitui inegável relação de consumo. A hipótese é reconhecida por este STJ como causa de dano moral in re ipsa.
+Veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA DEMANDADA.
+1. Incidência do óbice da Súmula 7/STJ no tocante à tese de afastamento da responsabilidade civil. Impossibilidade de reexame de fatos e provas. Hipótese em que o Tribunal de origem, com base nos elementos de convicção dos autos, concluiu que houve falha na prestação do serviço público, porquanto a recorrente demorou excessivamente para restabelecer o fornecimento de energia elétrica na unidade da consumidora, motivo pelo qual a condenou ao pagamento de danos morais.
+2. Esta Corte firmou o entendimento de que, "o dano moral decorrente de falha na prestação de serviço público essencial prescinde de prova, configurando-se in re ipsa, visto que é presumido e decorre da própria ilicitude do fato". Precedentes.
+3. Agravo interno desprovido (AgInt no REsp 1.797.271/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2019, DJe de 3/6/2019).
+A situação ofende os valores éticos fundamentais da coletividade, revelando-se fato reprovável, porém causou incômodo equivalente a mero aborrecimento, incapaz de gerar abalo moral, sendo, portanto, não indenizável.
+A parte autora não "deduziu pretensão que sabia infundada, violando, assim, os deveres insculpidos no art. 77, I e II, do novo Código de Processo Civil, e incidindo nas hipóteses do art. 80, II, do aludido diploma instrumental", conforme apontado pela sentença de fls. 321-324, não devendo ser condenada pela litigância de má-fé.
+Isto posto conheço do recurso e dou-lhe parcial provimento para afastar a multa imposta.
+Inverto os ônus sucumbenciais de fl. 323, entretanto, afasto a majoração de fl. 367.
+Intimem-se.
+EMENTA
