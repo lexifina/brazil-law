@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo interposto por SARAIVA E SICILIANO S.A. FALIDO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS fundamentado nos seguintes termos (fls. 1.167-1.168):
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. A ÇÃ O DE DESPEJO. A ÇÃ O REVISIONAL. CONTRATO DE LOCA ÇÃ O. DESOCUPA ÇÃ O VOLUNT Á RIA DO IM Ó VEL. ENTREGA DAS CHAVES. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. HONOR Á RIOS ADVOCAT Í CIOS. Ó NUS DA SUCUMB Ê NCIA. PRINC Í PIO DA CAUSALIDADE. ART. 85, § 10 DO CPC. APRECIA ÇÃ O E Q UITATIVA. IMPOSSIBILIDADE. INCID Ê NCIA DO § 2º, ART. 85 DO CPC. VALOR DA CAUSA. SENTEN Ç A MANTIDA.
+1. Inexiste interesse recursal em relação ao pedido de despejo, bem como a revisão contratual, em razão de ter ocorrido a desocupação voluntária do imóvel e, por consequência, extinção do contrato de locação.
+2. Em face da superveniente perda do interesse recursal, é certo que a condenação ao pagamento das custas e honorários advocatícios será analisada em face do princípio da causalidade, o qual foi consagrado no novo CPC em pelo menos duas situações: (i) no § 10 do art. 85 do CPC, nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo, ou seja, havendo carência superveniente por falta de interesse recursal superveniente, não importará para fixação dos honorários quem sucumbiu, mas quem deu causa ao processo e (ii) nos termos do art. 90, caput, do CPC, na hipótese de extinção do processo por decisão homologatória de desistência, renúncia ou reconhecimento jurídico do pedido, em que cabe o pagamento à parte que praticou o ato que levou a extinção.
+3. À vista dos eventos indicados nos autos, resta incontroverso que o ajuizamento das ações fora empreendido por fatos imputáveis à recorrente, sendo pertinente atentar que, se não fosse o inadimplemento contratual, não haveria razão para o ajuizamento da demanda em exame.
+4. No que se refere aos honorários sucumbenciais, o art. 85, § 2º do CPC, estabeleceu que os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a importância da causa; e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+5. O art. 85, § 8º do CPC, reservou o arbitramento de honorários por equidade somente a duas hipóteses, a saber: (i) nas causas em que for inestimável ou irrisório o proveito econômico; ou (ii) nas causas em que o valor da causa for muito baixo.
+6. A situação dos autos não autoriza a aplicação do § 8º, do art. 85, do CPC.
+7. Apelação conhecida e desprovida. Sentença mantida.
+Sem embargos de declaração opostos.
+No recurso especial, alega a parte recorrente violação dos arts. 1.010, 1.013 e 85, § 8º, do CPC.
+Sustenta, em síntese, que o Tribunal a quo não conheceu do seu recurso de apelação, tampouco o julgou adequadamente, especialmente no que se refere à ordem de despejo, apesar de a apelação conter todos os requisitos necessários.
+Alega que o Tribunal concluiu que a recorrente deu causa ao ajuizamento da demanda sem enfrentar as razões de apelação, violando assim os artigos mencionados.
+Argumenta que, em ações de despejo sem cumulação com cobrança, o valor do proveito econômico é inestimável, pois busca apenas a retomada do imóvel, portanto os honorários sucumbenciais deveriam ser fixados por equidade, conforme o art. 85, § 8º, do CPC, e não com base no valor da causa.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.213-1.227).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.230-1.232), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.258-1.264).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Verifica-se, inicialmente, que a decisão ora agravada obstou o trânsito do recurso especial, por dois fundamentos: negou seguimento ao recurso especial, com fundamento no art. 1.030, I, "b", do CPC, em razão da incidência da tese fixada no Temas n. 1.076 do STJ, e, ao mesmo tempo, deixou de admiti-lo devido à incidência das Súmulas 211/STJ, 282 e 356/STF.
+Confira-se:
+Analisando os pressupostos constitucionais de admissibilidade, constata-se que o recurso especial não deve ser admitido quanto às indicadas ofensas aos artigos 1.010 e 1.013, ambos do CPC.
+Isso porque, além de a parte recorrente não ter apontado em sua apelação a suposta afronta aos citados preceitos, a turma julgadora também não realizou nenhuma consideração a esse respeito.
+Diante disso, deve ser reconhecida a vedada inovação recursal, e, por consequência, a ausência de prequestionamento, nos termos dos vetos contidos nos verbetes sumulares 211 do STJ, e 282 e 356, ambos do STF (AgInt no AR Esp n. 2.004.758/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/3/2023, D Je de 16/3/2023).
+Com relação à suposta violação ao artigo 85, §8º, do CPC, o Superior Tribunal de Justiça, na oportunidade do julgamento do R Esp 1850512/SP (Tema 1.076), concluiu que "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo." (g. n.).
+Assim, estando o acórdão recorrido em consonância com o referido paradigma, quanto a esse aspecto, nego seguimento ao recurso especial, nos termos do artigo 1.030, inciso I, alínea "b", do Código de Processo Civil.
+Em razão da decisão híbrida que tanto inadmitiu como negou seguimento ao recurso especial, cabe ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma em recurso repetitivo, a ser exercido por meio de agravo interno dirigido àquela Corte a quo, faculdade essa, inclusive, já exercida pelo recorrente.
+Nesse sentido, cito:
+2. À questão da legitimidade/interesse da CEF foi negado seguimento ao recurso especial em razão de aplicação dos Temas n. 50/STJ e 51/STJ, enquanto à alegação de afronta aos arts. 489 e 1.022 do CPC o apelo nobre foi inadmitido.
+3. Nos casos em que a admissibilidade tem híbrida fundamentação, com aplicação de entendimento firmado em recurso repetitivo latu sensu a um dos pontos do recurso, cabe às Cortes Superiores apenas a análise da questão remanescente (que não teve aplicado o precedente paradigma vinculante), porquanto de competência da Corte de origem eventual análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma, por meio de agravo interno dirigido àquela corte, não cabendo ao Tribunal Superior a análise da referida questão. Precedentes.
+(AgInt no AREsp n. 1.840.822/MT, relator Ministro Humberto Martins, Terceira Turma, DJe de 3/11/2023.)
+II - É cabível a interposição simultânea, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021 do CPC); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal.
+(AgInt no AgInt no AgInt no REsp n. 1.907.400/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/8/2022.)
+Portanto, passo à análise do fundamento inadmitido, qual seja, a incidência das Súmulas 211/STJ, 282 e 356/STF.
+Da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, tratou principalmente da questão da perda superveniente do interesse recursal devido à desocupação voluntária do imóvel.
+Com efeito, verifica-se que a Corte de origem não analisou, sequer implicitamente, os artigos 1.010 e 1.013 do CPC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 211 do Superior Tribunal de Justiça, 282 e 356 do Supremo Tribunal Federal.
+Súmula 211: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, transcrevo:
+2. A Corte a quo não analisou a controvérsia à luz do dispositivo legal apontado como violado. Há, portanto, manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, visto que os conteúdos dos preceitos legais tidos por violados não foram examinados na origem, mesmo após a oposição de embargos de declaração.
+ ..
+Agravo interno improvido.
+(AgInt no AREsp n. 2.510.695/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/3/2025, DJEN de 28/3/2025.)
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+(AgInt nos EDcl no AREsp n. 2.611.383/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 28/2/2025.)
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF, aplicada por analogia.
+(AgInt no AgInt no AREsp n. 2.604.963/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais. Caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 1.022 do CPC, quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+A propósito, cito:
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento dos dispositivos legais mencionados (artigos 47 e 54 do CDC, artigo 129 do Código Civil). O acórdão recorrido não analisou explicitamente tais dispositivos, e os agravantes não indicaram violação do art. 1.022 do CPC, o que inviabiliza o conhecimento do recurso especial, aplicando-se as Súmulas n. 211 do STJ e 282 do STF.
+(AgInt no REsp n. 2.114.449/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024.)
+2. A questão referente à ofensa ao princípio do devido processo legal não foi debatida pelas instâncias ordinárias, não havendo, portanto, o devido prequestionamento, tampouco arguiu-se ofensa ao art. 1.022 do CPC/2015, o que atrai o óbice das Súmulas 282/STF e 211/STJ.
+(REsp n. 1.931.087/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 26/10/2023.)
+2. A matéria referente à impenhorabilidade do valor poupado até o total de 40 salários mínimos não foi apreciada pelo Tribunal de origem, sendo certo que a parte agravante não apontou violação ao art. 1.022 do CPC nas razões do recurso especial. Assim, não houve o devido prequestionamento da matéria, ensejando o não conhecimento do recurso, no ponto, por força das Súmulas 282 e 356 do STF.
+(AgInt no REsp n. 2.061.290/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 23/8/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282 E 356/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
