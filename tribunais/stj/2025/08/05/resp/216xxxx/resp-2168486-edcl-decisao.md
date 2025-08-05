@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, embargos de declaração opostos por OSÉAS MORAES DA SILVA FILHO contra decisão que não conheceu do recurso especial, haja vista a aplicação das Súmulas 282 e 283 do STF, a impossibilidade de exame de ato normativo infralegal no âmbito do apelo especial e a prejudicialidade da análise do dissídio jurisprudencial decorrente dos óbices sumulares.
+A parte embargante, em síntese, infirma a incidência dos óbices que fundamentaram o não conhecimento do recurso.
+Alega que, "ao não enfrentar a impugnação específica, a decisão embargada incorre em omissão relevante, pois deixa de se manifestar sobre ponto decisivo ao deslinde da controvérsia, frustrando a efetiva prestação jurisdicional e violando o disposto no artigo 1.022, inciso II, do Código de Processo Civil" (fl. 619).
+Impugnação da parte embargada pela rejeição rejeição dos embargos.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou que:
+ ..  o art. 11 do Decreto-lei 9.760/1946 não foi objeto de apreciação pelo Tribunal de origem, o que faz incidir o teor da Súmula 282 /STF  ..
+Ademais, "a inadmissão ou o não provimento do especial interposto com fundamento no art. 105, III, "a", da Constituição Federal prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou à mesma tese jurídica, como na espécie.
+O apelo especial também esbarra no óbice da Súmula 283/STF. Isso porque deixou o recorrente de impugnar todos os fundamentos do acórdão recorrido. Confira:
+Não vislumbro razão ao apelante, nesse particular. Foi realizada a notificação do auto de infração. É certo que tal ocorreu na pessoa de Werika Crislayne de Lima, que se encontrava trabalhando no interior do imóvel e identificou-se como estando a serviço da residência, tendo sido informada sobre o conteúdo das irregularidades.
+Mesmo que se aponte que tal endereço do autor não seria o que consta dos assentamentos da SPU, é de se observar que a autora pôde postular a vista dos autos, bem assim não há que se falar que não teve vista dos autos, para o fim de apresentar defesa administrativa. É que o apelante somente formulou requerimento de vista dos autos no dia 11-03-2022, às , data final para a apresentação de defesa,11:18 ficando a SPU sem tempo hábil para a disponibilização do processo.
+ ..  Quanto ao mérito, principio pelo argumento da inexistência de procedimento regular de fixação da linha de preamar média de 1831, razão pela qual é inválida a penalidade que lhe foi imposta, ao menos sob a consideração de ocupar indevidamente bem da apelada.
+À primeira vista sedutor, o fundamento elencado pelo apelante perde em relevo à medida que, no caso dos autos, observa-se que o lote ocupado por aquele resultou de parcelamento do solo urbano, para fins de implantação do Loteamento Prive Praia dos Carneiros, até porque, se assim não fosse, o empreendimento como um todo não poderia resultar em favor dos proprietários dos demais lotes.
+ ..
+De maneira idêntica, melhor sorte não aguarda o apelante com a invocação do julgamento do Superior Tribunal de Justiça (RES 1470490, rel. Min. Assusete Magalhães), no qual restou mantida sentença prolatada pela Justiça Federal pernambucana, declarando a invalidade do procedimento da fixação de linha de preamar determinada, cuja área de terra se encontrava compreendida entre a margem direita do Rio Jaboatão até a divisa dos Estados de Pernambuco e Alagoas, o que inclui a Praia de Tamandaré.
+Não se nega que tal ocorreu, mas há que se frisar que se cuida de julgamento versando caso concreto específico, decorrente de pretensão ajuizada por José Câmara de Macedo Filho, cuja eficácia não repercute além das partes (fls. 488-489).
+Por fim, apesar de constar nas razões do recurso especial a indicação de ofensa a dispositivos legais, verifico que parte da análise da controvérsia foi dirimida com base na Nota Técnica 18264/2022, ato normativo que não se equipara à lei federal.
+ ..
+Quanto à alínea c, "resta prejudicado o exame do alegado dissídio jurisprudencial, por tratar da mesma matéria objeto da irresignação pela alínea a do art. 105, III da CF/1988 - a qual, como visto, não pode ser conhecida" (AgInt no R Esp n. 1.664.206/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 30/11/2020, DJe de 3/12/2020) (fls. 610-611).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
