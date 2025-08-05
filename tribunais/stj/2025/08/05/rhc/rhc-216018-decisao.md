@@ -1,0 +1,32 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fls.162 - 166):
+Trata-se de Recurso em Habeas Corpus, com pedido liminar, interposto por CARLOS MURIEL CANDIDO MENDONCA E OUTROS. contra decisão proferida pela 3ª Câmara Criminal do Egrégio Tribunal de Justiça do Estado de Goiás que, nos autos d o Habeas Corpus nº 5166769-14.2025.8.09.0032, denegou a ordem, mantendo o prosseguimento da ação penal.
+No presente recurso, a defesa sustenta, em síntese, às fls. 106/125, a nulidade da denúncia diante da ausência de menção ao acordo de colaboração premiada. Requer, ainda, o relaxamento da prisão preventiva. Liminar indeferida às fls. 146/147.
+O Ministério Público Federal manifestou-se pelo "não provimento do recurso". (e-STJ fls. 166).
+É o relatório.
+Decido.
+A justa causa é prevista de forma expressa no Código de Processo Penal e constitui condição da ação punitiva, consubstanciada no lastro probatório mínimo, indicativo da autoria e da materialidade, o que foi demonstrado no processo.
+A profundidade cognitiva para o reconhecimento ou não da justa causa na persecução penal deve se dar de forma não exauriente, superficial, mediante fundada suspeita de materialidade do crime e de sua autoria.
+Com efeito, o trancamento da ação penal somente é permitido - em habeas corpus ou em seu recurso ordinário - quando evidenciada de plano e sem necessidade de dilação probatória a atipicidade da conduta, causa excludente de punibilidade ou a ausência de lastro probatório mínimo.
+Trata-se, desse modo, de medida excepcional, uma vez que impede o regular andamento da ação penal proposta. Não compete ao Poder Judiciário paralisar o exercício regular da atividade policial, tampouco subtrair do Ministério Público, titular da ação pública, a opinio delicti.
+A análise da pretensão da defesa, a toda evidência, reclama o exame aprofundado dos dados coletados no processo originário, intento que não se ajusta aos estreitos limites deste feito, conforme enfatiza reiterada jurisprudência desta Corte:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, HOMICÍDIO QUALIFICADO TENTADO E ROUBO CIRCUNSTANCIADO. TRANCAMENTO. ALEGAÇÃO DE NULIDADE EM RAZÃO DE OBTENÇÃO DE PROVA ILEGAL. PROVAS EXTRAÍDAS DE APARELHOS CELULARES DENTRO DO ESTABELECIMENTO PRISIONAL. PRINCÍPIO DA INTIMIDADE. EXCEPCIONALIDADE DA ADMINISTRAÇÃO PENITENCIÁRIA EM RAZÃO DA SEGURANÇA PÚBLICA, DISCIPLINA PRISIONAL E PRESERVAÇÃO DA ORDEM JURÍDICA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. O trancamento de ação penal por meio da via eleita é providência reservada para casos excepcionais, nos quais é possível, de plano e sem necessidade de exame aprofundado do conjunto fático-probatório, verificar a ausência de justa causa, consubstanciada na inexistência de elementos indiciários demonstrativos da autoria e da materialidade do delito, na atipicidade da conduta e na presença de alguma causa excludente da punibilidade ou, ainda, no caso de inépcia da denúncia.
+2. No presente caso, consta dos autos a informação de que o aparelho celular, do qual se obtiveram as provas que embasaram a decisão que decretou a prisão cautelar dos recorrentes, foi apreendido dentro do estabelecimento prisional.
+ ..
+4. Recurso em habeas corpus improvido. (RHC n. 106.667/MA, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/2/2020, DJe 2/3/2020.)
+No caso, o Tribunal de origem deixou bem registrado (e-STJ fls. 95 - 105):
+ ..
+Analisando a exordial acusatória, observo que as condutas atribuídas aos pacientes fo ram detalhadamente narradas na peça inicial, tendo a representante do Ministério Público descrito com clareza a atuação dos agentes e a correlação entre os fatos e os tipos penais transgredidos.
+ ..
+Verifica-se, ainda, que, ao contrário do que alegam as impetrantes, a denúncia não se baseou exclusivamente na delação do corréu Antônio, uma vez que foram produzidas outras provas como o Laudo de exame Cadavérico, os depoimentos prestados em sede administrativa, bem ainda relatórios de investigações policiais.
+Destarte, verifico que se fazem presentes os requisitos elencados no artigo 41 do Código de Processo Penal, não havendo falar em trancamento da ação por inépcia da denúncia ou sequer em relaxamento das prisões preventivas dos pacientes.
+ ..
+Lado outro, prejudicada a tese de nulidade em virtude da omissão da prova consistente no acordo de colaboração premiada e sua tramitação de forma sigilosa num segundo momento, uma vez que já sanada pela autoridade coatora quando decretou a nulidade dos atos posteriores ao recebimento da denúncia (mov. 291 da ação penal), momento em que foi possibilitado aos pacientes tomarem ciência do Termo de Acordo de Delação Premiada, exercitando, assim, o contrário e ampla defesa.
+ ..
+Portanto, no caso em análise, a denúncia não se baseou exclusivamente na colaboração premiada do corréu, tendo sido instruída com outras provas, conforme destacado pela Corte de origem, que incluem laudo de exame cadavérico, depoimentos prestados em sede administrativa e relatórios de investigações policiais. A existência desse conjunto probatório mínimo demonstra a presença de justa causa para a persecução penal, afastando a pretensão de trancamento da ação. Quanto à alegada nulidade decorrente da omissão da colaboração premiada na denúncia, verifica-se que tal questão foi adequadamente sanada pela autoridade coatora, que declarou nulos os atos processuais posteriores ao recebimento da denúncia, assegurando o pleno conhecimento do conteúdo da colaboração premiada e possibilitando o exercício do contraditório e da ampla defesa.
+A análise da pretensão da defesa, a toda evidência, reclama o exame aprofundado dos dados coletados no processo originário, intento que não se ajusta aos estreitos limites deste feito, conforme enfatiza reiterada jurisprudência desta Corte: O habeas corpus constitui remédio constitucional de cognição limitada, não se prestando ao revolvimento de questões fático-probatórias que demandem análise pormenorizada do conjunto probatório.
+No que tange ao pedido de relaxamento da prisão preventiva, não se vislumbra a alegada ilegalidade, encontrando-se a custódia cautelar devidamente fundamentada. A correção do vício procedimental não afeta os pressupostos da prisão preventiva, que devem ser analisados conforme os requisitos do art. 312 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
