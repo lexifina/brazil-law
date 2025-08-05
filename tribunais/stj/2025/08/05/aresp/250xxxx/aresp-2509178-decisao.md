@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ANDERSON CARNEIRO FERNANDES, ATAUL MACIEL FERNANDES, com fundamento na incidência das Súmulas 7 do STJ e, por analogia, das Súmulas 283 do STF.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois não se trata de reexame de provas, além do erro na decisão que fundamentou que os agravantes não impugnaram a conclusão do acórdão.
+Assevera, ainda, que:
+Logo, não se trata de reexame de fatos, mas de analisar se os Agravantes tem ou não direito a participação, exercendo direito de defesa, no procedimento que afetou sem bem a inventário de bem cultural, o que afasta a aplicação da Súmula 283 do STF e Súmula 7 do STJ (fl. 387).
+Ora Ministros, o acórdão recorrido ratifica a nulidade da sentença, negando prestação jurisdicional aos agravantes, posto que a tese de ausência de contraditório e ampla defesa no procedimento administrativo do inventário de bem cultural é a tese central da defesa, posto que uma vez decretada a nulidade do procedimento, torna-se ineficaz o ato de afetação do bem e, por conseguinte, deixa de existir o óbice para demolição de sua propriedade. Outro erro da decisão agravada é de que os agravantes não impugnaram a conclusão do acórdão recorrido quanto a importância da tese recursal (fl. 390).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+De início, quanto à apontada violação ao art. 489, § 1º, IV, do CPC, em com alegação de fundamentação e omissão sobre o procedimento de inventário de bem cultural, por não respeitar o princípio do contraditório e ampla defesa, porém, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 272-278):
+E, diferentemente do sustentado na peça recursal, a decisão administrativa que determinou o embargo da obra demolitória foi tomada por autoridade competente no exercício do poder de polícia administrativa, amparando-se na legislação municipal, e não em mera percepção pessoal. Conforme se vislumbra da notificação em questão, a demolição teve início sem prévia autorização da Prefeitura Municipal, em descumprimento ao disposto no art. 73 da Lei 712/88 e ao art. 27 da Lei 1.432/2010, que assim dispõem:
+ ..
+Ao contrário da principal tese deduzida no presente mandado de segurança, a proteção jurisdicional dos bens de valor cultural independe do seu prévio tombamento, conforme interpretação autorizada do § 1º do 216 da Constituição Federal.
+ ..
+No que concerne às alegações de que haveria irregularidade no processo que identificou e cadastrou o imóvel como bem cultural do Município de Piranga, por inobservância do contraditório e da ampla defesa, verifica-se que, por se tratar de "procedimento administrativo pelo qual o poder público identifica e cadastra os bens culturais do Município, com o objetivo de subsidiar as ações administrativas e legais de preservação" (ex vi art. 7º da Lei municipal 1.432/2010), o inventário, a princípio, prescinde da participação do proprietário do imóvel no seu desenvolvimento. É certo que, por se tratar de medida restritiva do direito de propriedade, é recomendável assegurar-se ao proprietário a plena participação no procedimento de inventário a que alude a Lei 1.432/2010, possibilitando-lhe as garantias constitucionais da ampla defesa, do contraditório e do devido processo legal previamente ao ato de afetação. Nada obstante, ainda que se conclua pela existência do vício formal arguido, tal reconhecimento não seria hábil a desconstituir a decisão da Administração municipal, porquanto incontroverso que os impetrantes não detêm autorização para demolir o prédio inventariado, cuja ausência ensejou o ato administrativo objurgado no presente mandamus - reconhecidamente legítimo, como acima fundamentado.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação ao art. 489, § 1º, IV, do CPC.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
