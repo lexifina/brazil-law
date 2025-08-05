@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JUAN GOMES VITORIO onde aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO na apelação criminal nº 0284961-13.2022.8.19.0001.
+Narram os autos que o paciente foi condenado à pena de 09 anos e 04 meses de reclusão, em regime fechado, como incurso nos artigos 33 e 35 da Lei n. 11.343/06.
+Neste habeas corpus, a Defesa alega que a condenaç ão foi indevida, em razão do não atingimento do standard probatório suficiente para demonstrar o cometimento do delito.
+Sustenta que o delito previsto no art. 35 da lei nº 11.343/06 é de concurso necessário, de modo que a condenação se mostra indevida eis que direcionada a somente um infrator.
+Salienta, ainda, a inexistência de comprovação dos requisitos da estabilidade e permanência.
+Requer, no mérito, seja concedida a ordem para absolver o paciente pelo delito do art. 35 da lei nº 11.343/06.
+Acórdão impetrado às fls. 35/57.
+Decisão que indeferiu a liminar requerida às fls. 217/219.
+Informações prestadas pelo Tribunal impetrado às fls. 222/224.
+Parecer do MPF às fls. 306/312 onde se manifesta pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Acerca dos elementos indicativos do cometimento do delito previsto no art. 35 da lei nº 11.343/06, assim se manifestou o Tribunal de origem:
+"Quanto ao crime previsto no artigo 35 caput da Lei 11.343/06, sustenta a Defesa Técnica que não restou comprovado o animus associativo, figura integrante do tipo e indispensável à sua caracterização. De se rejeitar referida tese defensiva. E assim se faz por cediço que nos dias atuais, com a "evolução" das ORCRIM em geral e das facções de traficantes em particular, é humanamente impossível a qualquer um que pretenda adentrar área dominada por esta ou por aquela facção criminosa para a prática de delito de tráfico de entorpecente, sem contar com prévia aquiescência dos "donos" da localidade. Verdadeiramente, é impensável e inadmissível qualquer argumento de que seja possível "comércio autônomo" de drogas no local, sem autorização, comando ou integração à organização criminosa ali dominante, pena de sanções imediatas, violentas e terminativas. É o que decorre do fenômeno do "encastelamento" das ORCRIM em áreas determinadas, usualmente periféricas ou em favelas, passando a representar "um estado dentro de outro estado" em relação a estes microterritórios. Essa é a realidade local e isso é o que demonstra o dia a dia das comunidades dominadas pela diversidade das ORCRIM (facções) existentes e atuantes. Assim, sendo certo que o acusado foi flagrado em posse de material entorpecente, e uma granada em área conhecida por se ponto de venda de drogas, resta inviável não se concluir ser o mesmo associado à facção criminosa "Comando Vermelho, atuante no local, segundo informações dos policiais militares."
+Os trechos em destaque deixam claro que a improvável desconstituição da conclusão à qual chegou o Tribunal impetrado apenas seria possível mediante o aprofundamento da análise do acervo probatório colhido durante a instrução do feito, medida inviável na via estreita do habeas corpus.
+Acresça-se que há elementos de convicção cuidadosamente mencionados que permitem a convicção pelo cometimento dos delitos, em especial os firmes depoimentos dos policiais no sentido de que o paciente se encontrava em ponto conhecido pela venda de drogas e munido de uma granada voltada ao combate contra as unidades policiais em local dominado pela organização criminosa conhecida como "Comando Vermelho".
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
