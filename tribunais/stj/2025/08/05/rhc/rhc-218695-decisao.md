@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por RICARDO KOGLIN JUNIOR contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, no julgamento do HC n. 0007844-09.2025.8.16.0000.
+Consta dos autos que o recorrente foi condenado, inicialmente, pelo Juízo do Juizado Especial Criminal de Arapongas, na ação penal n. 0012596-25.2021.8.16.0045, como incurso nas sanções do artigo 349-A c/c art. 14, II, ambos do Código Penal, à pena de 3 (três) meses e 6 (seis) dias de detenção, a ser cumprida em regime inicial semiaberto. A pena privativa de liberdade foi substituída por uma restritiva de direitos (fls. 13-27).
+A defesa interpôs apelação à TURMA RECURSAL DO ESTADO DO PARANÁ, que negou provimento ao recurso, mantendo os demais termos da condenação (fls. 30-35).
+Posteriormente, foi impetrado o HC n. 0116384-88.2024.8.16.0000 perante o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, o qual não foi conhecido por decisão monocrática da relatora (fls. 54-56). Interposto agravo interno, este também foi desprovido (fls. 82-86).
+No presente recurso em habeas corpus, busca-se o provimento para revisão dos critérios adotados na dosimetria da pena. Alega-se que a fundamentação utilizada para aplicar fração diversa da mínima legal prevista no art. 14, II, do Código Penal é inidônea.
+É o relatório. DECIDO.
+A competência do Superior Tribunal de Justiça é taxativamente estabelecida no artigo 105, II, alínea "a", da Constituição Federal, que lhe confere a atribuição de julgar, em recurso ordinário, os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e dos Territórios, quando a decisão for denegatória.
+No caso concreto, o habeas corpus não foi conhecido, uma vez que foi impetrado como substitutivo de recurso próprio, conforme restou ementado no acórdão impugnado (fl. 82 ):
+AGRAVO INTERNO CRIME - INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO HABEAS CORPUS POR INADEQUAÇÃO DA VIA ELEITA - WRIT IMPETRADO VISANDO À REFORMA DE ACORDÃO PROFERIDO PELA 4ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS DESTE E. TRIBUNAL DE JUSTIÇA, QUE MANTEVE A CONDENAÇÃO DO AGRAVAMTE - TEMÁTICA DEVE SER ENFRENTADA POR APELAÇÃO CRIMINAL, A QUAL JÁ FOI INTERPOSTA E DESPROVIDA - IMPOSSIBILIDADE DE ANÁLISE NA VIA ESTREITA DO - AUSÊNCIA DE ILEGALIDADE, ABUSO DEWRIT PODER OU TERATOLOGIA A JUSTIFICAR O CONHECIMENTO EXCEPCIONAL DO . MANDAMUS RECURSO DESPROVIDO.
+VISTOS, relatados e discutidos estes autos de Agravo Interno nº 0007844-09.2025.8.16.0000, do Juizado Especial Criminal da Comarca de Arapongas/PR, em que é agravante Ricardo Koglin Júnior e agravado Ministério Público do Estado do Paraná.
+Também não verifico, de plano, a presença de coação ilegal ou teratologia que justifique a concessão da ordem na forma do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do recurso em habeas corpus, com fundamento nos artigos 210 e 246 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
