@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por EDP Espirito Santo Distribuição de Energia S.A, desafiando decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que:
+Ab initio, conclusos os autos a esta Egrégia Vice-Presidência, foi q determinada a intimação da Recorrente para regularizar a representação processual (fl. 299), haja vista a existência de assinatura digitalizada ou escaneada no substabelecimento de fls. 276/277-verso, que outorga poderes à signatária do Recurso Especial, Dr. Thiago Bragança - OAB/ES 14.863.
+No intuito de cumprir a aludida determinação, a Recorrente acostou a Petição de fls. 301/304, na qual consta Substabelecimento por meio da qual Dr. Marco Aloysio Picanço Netto substabelece, com reservas, os poderes que lhe foram outorgados ao Dr. Thiago Bragança. Contudo, o aludido documento possui data de 28.04.2023, a qual é posterior à da interposição Apelo Nobre, que ocorreu em 01.02.2023 (fl. 266).
+Como cediço, "para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso . Precedentes." (STJ - Aglnt no REsp n. 2.091.118/RS, relator Ministro. Humberto Martins, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões de agravo, a insurgente deixou de rebater, de modo específico, o entendimento de que "para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Precedentes." (STJ - Aglnt no REsp n. 2.091.118/RS, relator Ministro. Humberto Martins, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+ EMENTA
