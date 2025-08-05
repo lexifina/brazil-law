@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que substituiu a prisão preventiva de Marcial David Murara por medidas cautelares do artigo 319 do Código de Processo Penal, consistentes em comparecimento a todos os atos dos processos da Operação Terra Nostra, manter endereço atualizado em Juízo e abster-se de manter contato com qualquer testemunha ou denunciado.
+O agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, argumentando que a análise da pretensão não demanda reexame probatório, mas apenas revaloração jurídica de premissas fáticas incontroversa. Alega ainda violação ao artigo 312 do Código de Processo Penal e requer o conhecimento e provimento do recurso especial interposto (e-STJ fls. 2789 - 2799).
+Contraminuta apresentada pela defesa do agravado, sustentando a manutenção da decisão de inadmissibilidade e a adequação das medidas cautelares aplicadas (e-STJ fls.2803 - 2810).
+O Ministério Público Federal manifestou-se pelo "provimento do Agravo e, desde logo, do Recurso Especial subjacente" (e-STJ fls.2833 - 2835).
+É o relatório.
+Decido.
+Do agravo se deve conhecer, uma vez que presentes os pressupostos de admissibilidade. A insurgência foi interposta tempestivamente, encontra-se devidamente fundamentada e ataca especificamente a decisão que inadmitiu o recurso especial.
+No entanto, quanto à pretensão de reforma do acórdão que substituiu a prisão preventiva por medidas cautelares diversas, o recurso especial esbarra no óbice da Súmula 7 desta Corte, que veda o reexame de matéria fático-probatória em recurso especial.
+O acórdão recorrido analisou detidamente as circunstâncias concretas do caso para fundamentar a substituição da prisão preventiva.
+Após detalhada análise do caso concreto, o Tribunal de origem especificamente consignou sobre MARCIAL DAVID MURARA (e-STJ fls. 2261 - 2262):
+Já para Marcial David Murara a situação é diferente.
+Quanto ao fumus comissi delicti, todo o acima citado apenas corrobora indícios das práticas criminosas contra si imputadas.
+Entretanto, a situação do investigado é um pouco diferente e já permite a aplicação de medidas menos gravosas, pela ausência de periculum libertatis.
+Prima facie, quando de sua prisão preventiva, o indiciado já havia sido exonerado de seu cargo público e não mais residia em Urussanga.
+Além disso, não teria participação na suposta viagem a Cocal do Sul para a negociação de ilicitudes, diferentemente de todos os outros presos preventivos.
+Outrossim, não há elementos, por ora, de que expressamente tenha angariado vantagem indevida com as condutas ilícitas apuradas, mas tão somente de que tenha concorrido, em atendimento aos interesses do prefeito municipal Luis Gustavo Cancellier.
+Ademais, de todos os presos preventivos, é o único que não mais possui cargo público e tampouco ostenta cargo eletivo, não havendo elementos de que possua notório poderio político e econômico para obstar a instrução criminal.
+Também, diferentemente de Elson Roberto Ramos e Luis Gustavo Cancellier, não há elementos por ora de que tenha ido atrás de testemunhas ou supostos coautores para atrapalhar as investigações após a deflagração da 1ª fase.
+De mais a mais, o denunciado possui predicados pessoais favoráveis, não havendo notícias de que responda outros processos, nas mais diversas searas.
+Com tais considerações, possível a substituição da prisão preventiva de Marcial David Murara pelas medidas cautelares de proibição de contato com qualquer testemunha ou denunciado arrolado no ev. 1 do conexo n. 5025856-95.2024.8.24.0000, comparecer a todos os atos dos processos da Operação Terra Nostra e manter endereço sempre atualizado em Juízo.
+O Tribunal a quo registrou que Marcial David Murara já havia sido exonerado de seu cargo público quando da deflagração da operação policial e que não mais residia no Município de Urussanga. Verificou ainda que o denunciado não teve participação na suposta viagem a Cocal do Sul para negociação de ilicitudes, diferentemente dos demais presos preventivos.
+Ademais, o Tribunal de origem consignou que não há elementos concretos de que o agravado tenha expressamente angariado vantagem indevida com as condutas ilícitas apuradas, mas tão somente de que tenha concorrido para os fatos em atendimento aos interesses do então prefeito municipal. Destacou que o denunciado possui predicados pessoais inteiramente favoráveis, sendo primário e sem antecedentes criminais, não havendo notícias de que responda a outros processos nas mais diversas searas.
+O Tribunal estadual ponderou especificamente sobre a menor relevância e inferior gravidade das condutas imputadas a Marcial David Murara, se comparadas aos demais investigados da Operação Terra Nostra. Considerou que sua situação era diferenciada em relação aos outros denunciados, permitindo a aplicação de medidas menos gravosas pela ausência de periculum libertatis na intensidade necessária para justificar a manutenção da segregação cautelar.
+A Corte de origem avaliou ainda que não havia elementos demonstrando que o agravado tivesse procurado outros indiciados ou testemunhas após a deflagração da primeira fase da operação, diferentemente do que ocorreu com outros codenunciados. Verificou que as medidas cautelares impostas se mostravam adequadas e suficientes para atender às finalidades do artigo 312 do Código de Processo Penal, considerando as particularidades do caso concreto.
+A pretensão do agravante de ver restabelecida a prisão preventiva implica necessariamente nova valoração do conjunto fático-probatório que fundamentou a decisão colegiada, especialmente quanto à análise da gravidade concreta da conduta, do risco de reiteração delitiva e da suficiência das medidas cautelares aplicadas. Para alcançar conclusão diversa daquela adotada pelo Tribunal de origem, seria imprescindível reexaminar as circunstâncias específicas que levaram à substituição da medida extrema, providência vedada pela natureza estrita do recurso especial.
+A jurisprudência desta Corte é pacífica no sentido de que a prisão preventiva constitui medida excepcional, justificada apenas quando demonstrada sua real necessidade para garantir a ordem pública, a instrução criminal ou a aplicação da lei penal, nos termos do artigo 312 do Código de Processo Penal. O Tribunal de origem fundamentou adequadamente a revogação da prisão preventiva, destacando que além do réu ser primário, sem antecedentes criminais, as medidas alternativas se mostram idôneas, adequadas e suficientes para as finalidades da tutela cautelar.
+A decisão agravada encontra-se em perfeita consonância com a jurisprudência desta Corte que se firmou no sentido de que a análise sobre a necessidade de manutenção da prisão preventiva ou sua substituição por medidas cautelares alternativas demanda inevitavelmente o exame das circunstâncias fáticas específicas do caso concreto. Sendo assim, a pretensão de revisão do julgado esbarra inexoravelmente no óbice da Súmula 7 desta Corte.
+NesSe sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS.
+PROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que negou provimento ao agravo em recurso especial, mantendo a inadmissão do recurso especial com fundamento na Súmula n. 7/STJ. O recurso especial impugnava acórdão do Tribunal de origem que substituiu a prisão preventiva do agravado por medidas cautelares diversas, nos termos do art. 319 do CPP.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) verificar se a decisão que substituiu a prisão preventiva por medidas cautelares diversas encontra-se devidamente fundamentada e em conformidade com o art. 312 do CPP e (ii) definir se a análise da insurgência ministerial demanda o reexame do acervo fático-probatório, hipótese vedada em sede de recurso especial.
+III. Razões de decidir
+3. A jurisprudência do STJ é pacífica no sentido de que a prisão preventiva constitui medida excepcional, justificada apenas quando demonstrada sua real necessidade para garantir a ordem pública, a instrução criminal ou a aplicação da lei penal, nos termos do art. 312 do CPP.
+4. O Tribunal de origem fundamentou adequadamente a revogação da prisão preventiva, destacando que além do réu ser primário, sem antecedentes criminais, as medidas alternativas se mostram idôneas, adequadas e suficientes.
+5. A pretensão ministerial de restabelecimento da prisão preventiva exige a reavaliação dos fatos e provas, providência incabível na via do recurso especial, conforme dispõe a Súmula n. 7/STJ.
+6. Não foram apresentados fatos novos ou elementos que justifiquem a reconsideração da decisão impugnada.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. A prisão preventiva deve ser medida excepcional, justificada apenas quando indispensável para resguardar a ordem pública, a instrução criminal ou a aplicação da lei penal.
+2. A substituição da prisão preventiva por medidas cautelares diversas é adequada quando estas se mostram suficientes para os fins previstos no art. 319 do CPP. 3. O reexame de fatos e provas é incabível em sede de recurso especial, conforme a Súmula n. 7/STJ.
+Dispositivos relevantes citados: CPP, arts. 312, 319, 282, § 6º.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.347.822/PI, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 18/2/2025; STJ, AgRg nos EDcl no REsp 2.112.871/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19/8/2024.
+(AgRg no AREsp n. 2.891.371/PI, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP , Sexta Turma, julgado em 10/6/2025, DJEN de 16/6/2025. grifei. )
+Ante o exposto, com fundamento no art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
