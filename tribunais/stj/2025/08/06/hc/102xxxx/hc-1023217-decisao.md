@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL MARCOS BRAGA DOS SANTOS contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que, nos autos do Agravo em Execução n. 5003690-28.2025.8.19.0500, negou provimento à insurgência, mantendo a negativa de comutação, progressão de regime e livramento condicional (Execução n. 5090980-57.2020.8.19.0500, Vara de Execuções Penais do Rio de Janeiro Cartório Final RG 3 e 4).
+Aqui, a defesa alega que o ato coator que mantém o indeferimento da comutação é manifestamente ilegal, pois se fundamenta em uma aplicação retroativa de lei penal mais gravosa, o que é expressamente vedado pela ordem constitucional e pela jurisprudência atual e consolidada das Cortes Superiores (fl. 5).
+Aduz que o ponto central da ilegalidade, contudo, reside na tentativa de usar o laudo para fazer um prognóstico sobre a vida futura do apenado. Este Egrégio Tribunal, em inúmeros julgados, já assentou que o exame criminológico é apenas um dos elementos de análise, não podendo servir como um veto absoluto, especialmente quando suas conclusões são genéricas e contraditadas por outros elementos concretos (fl. 6).
+Pede a concessão da ordem reconhecendo o direito do Paciente à análise da comutação sem a pecha de crime hediondo e à avaliação do requisito subjetivo com base em elementos concretos, determinando-se ao Juízo da Execução que defira os benefícios (fl. 8).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+Nos termos da jurisprudência deste Tribunal Superior, a análise dos requisitos para obtenção do indulto ou comutação é feita com base nos parâmetros fixados na data do decreto presidencial, não se aplicando o regime típico das normas penais de retroatividade e ultratividade da lei mais benéfica (AgRg no HC n. 955.700/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025). Ainda nesse sentido: AgRg no HC n. 991.855/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+No caso, o Tribunal local considerou a data da publicação do decreto de comutação para fins de aferição dos requisitos, o que está de acordo com a jurisprudência deste Tribunal Superior.
+No mais, o Tribunal a quo manteve o indeferimento dos benefícios afirmando que (fl. 17):
+ ..
+Para além da longa pena remanescente a ser cumprida - 10 (dez) anos - , vislumbra-se, com base nos elementos concretos extraídos da execução penal, que não estão presentes os requisitos subjetivos para a obtenção dos benefícios em questão, haja vista os relatórios de exames criminológicos apresentam resultados incompatíveis com a concessão da benesse ora pleiteada, fato que demonstra se tratar de apenado que, por ora, não possui senso de responsabilidade pessoal e social, não estando apto para permanecer em regime de liberdade não vigiada.
+ ..
+Pois bem, as instâncias ordinárias entenderam pela ausência do requisito subjetivo para o deferimento da progressão de regime e livramento condicional com base na indicação de fundamentos idôneos, quais sejam, os aspectos negativos do exame criminológico, não havendo, assim, nenhuma ilegalidade a ser sanada por esta Corte.
+Sobre o tema: AgRg no HC n. 901.759/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 3/9/2024, DJe de 6/9/2024; e AgRg no AREsp n. 2.366.664/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023.
+Apesar disso, adotar conclusão diversa, no sentido de que o apenado preenche o requisito subjetivo, demandaria a incursão em aspectos fático-probatórios, providência essa incabível na via estreita do habeas corpus.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique- se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO. HEDIONDEZ. APLICAÇÃO ULTRATIVA DA LEI MAIS BENÉFICA. IMPOSSIBILIDADE. PRECEDENTES. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. INDEFERIMENTO MOTIVADO. DADOS NEGATIVOS DO EXAME CRIMINOLÓGICO. AUSÊNCIA DO REQUISITO SUBJETIVO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. PRECEDENTES DESTA CORTE SUPERIOR.
+Petição inicial indeferida liminarmente.
