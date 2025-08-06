@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, III, alínea "a", da Constituição Federal, interposto por MARCELO SILVA DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. COMPRA E VENDA DE BEM IMÓVEL. AUSÊNCIA DE NOTIFICAÇÃO EXTRAJUDICIAL. NULIDADE DO TÍTULO. ILIQUIDEZ. PRECLUSÃO. As partes celebraram contrato de compra e venda em que a última parcela foi inadimplida pelo comprador. Ajuizada ação de execução de título extrajudicial pelo credor e vendedor, o executado opôs embargos à execução alegando que deveria haver o apensamento da ação com ação revisional de contrato de compra e venda e levantamento da penhora de veículo de sua titularidade. Apos trânsito em julgado da ação revisional que condenou o vendedor ao pagamento de quantia de valores referentes a adequações para concessão da carta de habite-se, foi proferida sentença nos embargos à execução em que os pedidos do embargante foram julgados improcedentes. Em apelação, alega o embargante matérias acobertadas pela preclusão, pois nenhuma delas foi alegada na petição dos embargos à execução, tais como inexistência de matrícula à época da assinatura do contrato, ausência de notificação e iliquidez do título, quanto a esta inexistindo fundamentos que a justifiquem, o que torna inviável sua apreciação em grau recursal ou haveria supressão de instância, com o que se justifica reafirmar a sentença de improcedência. APELAÇÃO CÍVEL DESPROVIDA" (fl. 412).
+Nas razões do recurso especial, o agravante aponta violação aos artigos 17, 18, 474, 485 inciso VI e § 3º, do Código de Processo Civil, sustentando, em síntese, que "a notificação subscrita pelo advogado do Recorrido, indicando desacompanhada de procuração, configura verdadeira notificação inidônea" (fl. 421).
+Não foram apresentadas contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Com efeito, a tese de inidoneidade da notificação subscrita por advogado desacompanhada de procuração não foi apreciada pelo Tribunal de origem, nem sequer foram opostos embargos declaratórios para corrigir eventual omissão. Assim, à falta do imprescindível prequestionamento, incide o impedimento dos verbetes 282 e 356 do STF. A propósito:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. DEVEDORA EM RECUPERAÇÃO JUDICIAL. ALEGAÇÃO DE SOLIDARIEDADE SOCIAL. AUSÊNCIA DE EXAME. SÚMULAS N. 282 E 356/STF. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. SÚMULA N. 581/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. "O processamento de pedido de recuperação judicial da empresa que tem a sua personalidade jurídica desconsiderada não impede o prosseguimento da execução redirecionada contra os sócios, visto que eventual constrição dos bens destes não afetará o patrimônio da empresa recuperanda, tampouco a sua capacidade de soerguimento."
+(REsp n. 2.034.442/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2023, DJe de 15/9/2023).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.066.039/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
