@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por CRISTIAN MARTIN ECHENIQUE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 63):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DESPROVIMENTO MONOCRÁTICO DO RECURSO PRINCIPAL. MÉRITO. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE HONORÁRIOS SUCUMBENCIAIS. DECISÃO DO JUÍZO DE ORIGEM REJEITANDO A IMPUGNAÇÃO. INCONFORMISMO DO EXECUTADO. INSISTÊNCIA NA TESE DE QUE OS JUROS MORATÓRIOS DA VERBA DEVEM FLUIR APENAS A PARTIR DO TRÂNSITO EM JULGADO DA SENTENÇA QUE FIXOU O ENCARGO. NÃO ACOLHIMENTO. AUSÊNCIA DE ARBITRAMENTO DE HONORÁRIOS EM QUANTIA CERTA. INAPLICABILIDADE AO CASO DO DISPOSTO NO § 16 DO ART. 85 DO CPC. FIXAÇÃO SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO. NECESSIDADE DE ACOMPANHAR A ATUALIZAÇÃO DO MONTANTE PRINCIPAL. INTELECÇÃO, NA REALIDADE, DO § 2º DO PROPALADO DISPOSITIVO. RAZÕES RECURSAIS QUE NÃO TRAZEM ARGUMENTO CAPAZ DE ALTERAR A CONCLUSÃO DA DECISÃO RECORRIDA E NÃO SE INSURGEM ESPECIFICAMENTE CONTRA A MODALIDADE DE JULGAMENTO  UNIPESSOAL . DECISÃO MONOCRÁTICA CONFIRMADA, POIS AMPARADA EM JURISPRUDÊNCIA DOMINANTE DESTA CORTE. RECURSO DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega ofensa ao art. 85, §§ 2º e 16, do CPC/2015.
+Sustenta, em síntese, que o termo inicial dos juros de mora sobre o valor dos honorários advocatícios é a data do trânsito em julgado da decisão.
+Aponta divergência jurisprudencial com aresto desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 93-98).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 101-104), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 151-154).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa ao art. 85, §§ 2º e 16, do CPC/2015, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ.
+A propósito, cito o seguinte precedente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚM. 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. SÚM. 7/STJ. VIOLAÇÃO DA COISA JULGADA. INEXISTÊNCIA. FIDELIDADE AO TÍTULO EXECUTIVO JUDICIAL. PRESERVADA. DECISÃO MANTIDA.
+1. Não há falar em negativa de prestação jurisdicional quando o Tribunal deixa de examinar tese jurídica suscitada pelo recorrente porque prejudicada em razão do provimento do recurso interposto por sua contraparte.
+1.1. No caso concreto, o TJ local esclareceu que a argumentação dos recorrentes sobre a impossibilidade de se incluir no valor do cálculo as tampas de caixas d"água e produtos devolvidos estava prejudicada em razão da adoção - por força do quanto decidido em outro recurso - da capacidade produtiva da empresa para a apuração do faturamento líquido, base de cálculo da condenação. Tem-se, assim, motivação suficiente e adequada para que não fosse analisada a tese jurídica suscitada pelos ora agravantes.
+2. O recurso especial não comporta o exame de questões que exijam o revolvimento do acervo fático-probatório dos autos. Incidência da Súmula n. 7/STJ.2.1. Em fundamentação adicional, o TJ local afirmou que a condenação abarcava os acessórios do produto comercializado (tampas), e que não houve no título judicial a determinação para se excluir do cálculo o valor correspondente aos produtos devolvidos. A revisão dessa premissa exige incursão sobre elementos fático-probatórios dos autos, inviável na instância excepcional.
+3. Não há ofensa ao princípio da fidelidade da execução ao título judicial na hipótese em que o provimento de outro recurso prejudica o exame da tese jurídica suscitada pelo recorrente.
+3.1. É desnecessário o exame sobre a inclusão supostamente indevida de determinadas parcelas para a apuração do faturamento líquido da empresa devedora quando a metodologia de cálculo fixada no julgamento de outro recurso despreza esses elementos.
+3.2. O Tribunal local não modificou o título judicial passado em julgado. O valor da condenação deve ser calculado a partir do faturamento líquido da empresa devedora, e desse comando não se distanciou o aresto. Somente o modo como deve ser apurada a base de cálculo é que foi determinado pelo TJPR - assim o fazendo com a inequívoca finalidade de ensejar maior conformação do resultado com o título liquidando e diante da recalcitrância da devedora, que sonegou e destruiu documentos necessários à apuração contábil. A irresignação dos recorrentes, em verdade, volta-se contra o critério eleito pela Corte estadual para a definição do faturamento líquido da devedora.
+4. É firme a jurisprudência desta Corte Superior no sentido de que a inclusão dos juros de mora e da correção monetária no valor da obrigação objeto de liquidação independe de pedido expresso e de expressa previsão no título judicial, eis que implicitamente compreendidos esses encargos na condenação, não implicando violação da coisa julgada.
+5. O termo inicial dos juros moratórios de obrigações ilíquidas é a data da citação judicial. Precedentes do STJ.
+6. Incidindo o percentual de honorários advocatícios sobre o valor total da condenação, incluem-se na base de cálculo da verba sucumbencial os juros moratórios da dívida. Precedentes do STJ.
+7. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido (Súm. n. 283/STF).
+7.1. O TJ local esclareceu o motivo pelo qual a perícia estipulou os tributos com base em alíquota linear, também atribuindo esse procedimento à indevida resistência da parte recorrente, que sonegou documentos e informações, impedindo a realização de cálculos precisos, agora pretendendo beneficiar-se dessa conduta, o que não se admite. Essa fundamentação restou inatacada nas razões do especial.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.264.514/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/12/2024, DJEN de 11/12/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, §11, do CPC/2015, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE HONORÁRIOS SUCUMBENCIAIS. INAPLICABILIDADE DO § 16 DO ART. 85 DO CPC AO CASO CONCRETO. FIXAÇÃO DOS HONORÁRIOS SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO. NECESSIDADE DE ACOMPANHAMENTO DA ATUALIZAÇÃO DO MONTANTE PRINCIPAL. CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. MANUTENÇÃO DA DECISÃO RECORRIDA. AGRAVO IMPROVIDO.
