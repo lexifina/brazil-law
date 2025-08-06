@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por ESPÓLIO DE DALTRO IBIAPINA OLIVEIRA, representado por MARCELO IBIAPINA OLIVEIRA E RICARDO IBIAPINA OLIVEIRA, contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 77-78):
+Agravo de Instrumento. Inventário e Partilha. Sucessões. Decisão que autorizou a venda de um único imóvel inventariado. Recurso pleiteando autorização para venda de um segundo imóvel sem a anuência da herdeira Agravada. Subsidiariamente, pede-se a correção de erro material na decisão que autorizou a expedição de alvará de venda. Requerem, ainda, a reforma da decisão agravada para consignar que os bens anteriores ao casamento entre a Agravada e o autor da herança são bens particulares do inventariado. Subsidiariamente, em caso do não provimento do pedido anterior, pedem que seja expressamente consignado que a questão acerca da natureza dos bens do acervo hereditário poderá ser reapreciada no momento da partilha. Por fim, requerem a reforma da decisão agravada para permitir que, na forma do art. 647, parágrafo único do CPC, possam ocupar e utilizar os imóveis/apartamentos indicados nas primeiras declarações. Com razão os Agravantes apenas para corrigir o erro material acerca da correta indicação do bem autorizado para venda. Sobre a autorização de alienação de um segundo bem, esclarece-se que para haver a venda de um bem imóvel que faz parte de espólio que figura em processo de inventário judicial ainda não finalizado, deve haver autorização do Juízo, com a expedição de alvará judicial, que será requerido pela parte inventariante, com a anuência de todos os demais herdeiros. Entendimento dos artigos 1.791 e 1.793 do CC/02 e do artigo 619 do CPC. Impossibilidade de se nomear bens particulares. Os bens que integram a herança antes da partilha são considerados um todo unitário, de natureza indivisível, conforme dispõe o caput e o parágrafo único do artigo 1.791 do CC/02. Pedido para permitir que os herdeiros Agravantes ocupem e utilizem determinados bens não possui relação com a decisão agravada. Não conhecimento do recurso neste ponto. Recurso parcialmente conhecido e parcialmente provido somente para corrigir erro material na decisão que autorizou a expedição de alvará de venda.
+Rejeitados os embargos de declaração opostos (fls. 141-148).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos artigos 1022 e 489, § 1º, incisos IV, V e VI, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem apresentou vícios no julgado.
+Aduz, no mérito, violação dos artigos 131, II, 189 e 192 do Código Tributário Nacional, pois o Tribunal de origem condicionou a autorização para venda judicial de segundo imóvel do acervo hereditário à anuência da interessada, mesmo diante da necessidade de quitação de despesas tributárias e judiciais inerentes ao inventário judicial em curso.
+Aponta divergência jurisprudencial com arestos de outros Tribunais.
+Sem contrarrazões.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 203-213), o que ensejou a interposição do presente agravo.
+Sem contraminuta.
+É, no essencial, o relatório.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+De início, em relação à apontada violação dos artigos 1022 e 489 do CPC, observa-se que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+Em relação à apontada ofensa aos arts. 131, II, 189 e 192 do Código Tributário Nacional, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Alterar o decidido no acórdão impugnado, no que se refere à autorização para venda de imóvel do acervo hereditário, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC. INEXISTÊNCIA. PARTILHA. IMÓVEL. ALIENAÇÃO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO IMPROVIDO.
