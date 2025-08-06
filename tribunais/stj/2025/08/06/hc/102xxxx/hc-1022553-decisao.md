@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WELERSON FERNANDO DE SOUZA TRINDADE - preso preventivamente pela suposta prática do delito de tráfico de drogas -, no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Recurso em Sentido Estrito n. 0038023-78.2025.8.16.0014).
+Narram os autos que o Juízo da Central de Audiência de Custódia da comarca de Londrina, por ocasião da homologação da prisão em flagrante, deferiu a liberdade provisória ao paciente mediante o cumprimento de medidas cautelares alternativas (fls. 202/205). Após o descumprimento da medida de monitoração eletrônica, o Ministério Público estadual requereu a decretação da prisão preventiva, sendo indeferido o pedido pelo Juízo de primeiro grau (fls. 78/82).
+Irresignado, o Parquet estadual interpôs recurso em sentido estrito perante o Tribunal de origem, o qual deu provimento ao recurso para o fim de decretar a custódia cautelar do paciente (fls. 11/38).
+Busca a impetração a revogação da segregação cautelar imposta ao paciente, sob o argumento de erro de tipo decorrente de falha técnica no equipamento de monitoração eletrônica. Isso porque, embora o dispositivo emitisse sinais luminosos e sonoros ao réu, para a Central de Monitoramento constava como se houvesse perda de sinal. Informa que, tão logo tomou ciência da situação, o paciente constituiu advogada, apresentou justificativa formal e colocou à disposição do Juízo para a reinstalação da tornozeleira eletrônica.
+Sustenta, ainda, que o fundamento usado para a imposição da prisão preventiva neste momento é o suposto descumprimento do uso regular do aparelho de monitoramento e da reincidência do paciente, sendo que este último requisito já havia sido sopesado quando da primeira análise em audiência de custódia e que não deveria, neste momento, ser sopesado novamente (fl. 8).
+Foram apreendidos 1,77 kg de maconha (fl. 40).
+É o relatório.
+Quanto ao ponto, o Tribunal estadual decretou a medida constritiva extrema, nestes termos (fls. 24/37 - grifo no original):
+ ..
+Logo, há lesão à ordem pública diante do descumprimento das medidas impostas pelo magistrado singular, quando da concessão da liberdade provisória, mesmo estando ciente das condições impostas em razão da assinatura no momento do cumprimento do Alvará de Soltura (mov. 35.1).
+Como visto, o recorrido foi preso em flagrante no dia 05.12.2024 e, no dia seguinte, foi agraciado com o benefício da liberdade provisória mediante cumprimento de medidas cautelares, dentre elas a monitoração eletrônica. Conforme consta nos autos, o recorrido comprometeu-se a: "I - Não retirar ou permitir que retirem a tornozeleira eletrônica; II - Não danificar ou permitir que danifiquem a tornozeleira eletrônica ou qualquer acessório que a acompanhe; III - Recarregar todos os dias de forma integral o aparelho; IV - Comparecer ao CRESLON para manutenção do aparelho sempre que solicitado; V - Dirigir-se em local aberto, sempre que o sistema informar alerta luminoso de cor azul; VI - Obedecer a todas as orientações da Central de Monitoramento, devendo entrar em contato com os telefones 0800 643 5513, em caso de dúvida sobre o alerta". Ainda, o acusado foi advertido de que o descumprimento de qualquer uma das condições impostas implicaria na revogação do benefício e consequente decretação da prisão preventiva, com fulcro nos artigos 282, § 4º, e 310, ambos do Código de Processo Penal.
+E, mesmo assim, o recorrido incidiu em infrações da monitoração, tendo ficado sem sinal do dia 09 de janeiro até 03 de abril de 2025, sendo que três meses depois WELERSON compareceu ao DEPEN para retirada do equipamento. Ainda, o contato com a central foi perdido dois dias após a instalação do equipamento e as tentativas de comunicação telefônica foram infrutíferas.
+Além do mais, o recorrido foi pessoalmente intimado em 27.02.2025 (mov. 97.1) para justificar as violações da monitoração eletrônica, ocasião em que foi cientificado sobre a perda de sinal do equipamento, bem como da necessidade de comparecimento para regularização da tornozeleira, o que somente foi realizado por ele em 03 de abril de 2025, data em que o mandado de monitoração já havia expirado.
+Assim, a medida excepcional se revela imprescindível a partir do descumprimento deliberado pelo paciente de condição imposta quando da concessão da liberdade provisória, nos termos do artigo 312, §1º, do Código de Processo Penal i , eis que demonstrado o seu descaso com o Poder Judiciário e a quebra da confiança que lhe foi conferida no momento em que foi agraciado com o benefício.
+ ..
+Outrossim, entendo evidente a presença da contemporaneidade dos motivos da medida extrema, pois o descumprimento das condições foi suficientemente demonstrado nos autos, sendo ainda informado pelo DEPEN (mov. 34.1) que o equipamento de monitoração eletrônica estava sem comunicação desde 09 de janeiro de 2025, sendo que as tentativas de comunicação telefônica foram infrutíferas, violando reiteradamente a obrigação assumida.
+ ..
+No caso em tela, portanto, asuperveniência de fato novo, provocado pelo acusado, que se encontrava em liberdade por força de anterior decisão, com imposição de medidas cautelares diversas da prisão, legitima a cassação da liberdade concedida, com a consequente decretação de segregação cautelar, mormente porque evidenciado o descumprimento das medidas cautelares alternativas à prisão.
+Assim, em virtude do descumprimento das medidas cautelares impostas pelo magistrado de origem ao réu, afigura-se legítima a decretação da prisão preventiva do paciente como garantia da ordem pública, neste momento.
+ ..
+Com efeito, consta expressamente da decisão que concedeu a liberdade provisória ao paciente que fica o apresentado advertido que o descumprimento de qualquer das condições acima e o cometimento de novo delito poderá ensejar a imediata revogação do benefício e a decretação de sua prisão preventiva (artigo 282, § 4º, do Código de Processo Penal), bem como o juiz competente para a ação penal poderá alterar ou fixar novas medidas cautelares (fl. 205).
+O Tribunal de origem consignou que o paciente permaneceu sob monitoração eletrônica entre os dias 9/1/2025 e 3/4/2025 e, embora intimado pessoalmente em 27/2/2025 para apresentar justificativa pelas supostas violações do monitoramento, compareceu apenas em 3/4/2025, quando o mandado de monitoração já havia expirado.
+Como se vê, presente na decisão guerreada fundamentação idônea suficiente a manter a prisão cautelar para garantia da ordem pública, sobretudo, em razão do descumprimento das medidas cautelares alternativas anteriormente fixadas.
+Em tais casos, esta Corte Superior vem reiteradamente decidindo pela idoneidade da constrição cautelar, consoante se verifica dos julgados infracitado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. RISCO DE REITERAÇÃO DELITIVA E DESCUMPRIMENTO DE MEDIDAS CAUTELARES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Na hipótese, são idôneos os motivos elencados para justificar a decretação da prisão preventiva, pois além de destacar o risco de reiteração delitiva - ao fazer referência à existência do registro de atos infracionais e de anterior condenação criminal - evidenciam a sua necessidade para resguardar a instrução processual, diante das notícias de descumprimento de medida cautelar anteriormente imposta.
+3. É incontroverso o descumprimento de medida cautelar alternativa, tendo em vista que o paciente infringiu as regras atinentes ao uso de tornozeleira eletrônica, ao violar reiteradas vezes a área de inclusão estabelecida.
+4. Agravo regimental não provido.
+(AgRg no HC n. 913.655/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/6/2024 - grifo nosso).
+DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES. AGRAVO DESPROVIDO. I. CASO EM EXAME
+ ..
+2. A questão em discussão consiste em verificar a legalidade da prisão preventiva decretada com base no descumprimento de medidas cautelares e a possibilidade de concessão de habeas corpus em substituição a recurso próprio. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+4. Não se verificou flagrante ilegalidade ou constrangimento ilegal que justificasse a concessão de habeas corpus de ofício.
+5. O descumprimento de medidas cautelares impostas justifica a manutenção da prisão preventiva.
+6. A análise do acervo fático-probatório é vedada na via do habeas corpus.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 918.418/SP, Ministra Daniela Teixeira, Quinta Turma,DJe 23/10/2024 - grifo nosso).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESCUMPRIMENTO DE MEDIDAS ALTERNATIVAS ANTERIORMENTE FIXADAS. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Inicial indeferida liminarmente.
