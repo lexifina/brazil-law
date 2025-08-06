@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ESTADO DO AMAZONAS, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado (e-STJ, fl. 454):
+APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE ATENTADO. NATUREZA INCIDENTAL . FALTA DE RELAÇÃO COM AÇÃO PRINCIPAL. SENTENÇA MANTIDA . RECURSO DESPROVIDO . - Merece ser desprovido o presente apelo, tendo em vista que a antiga ação cautelar de atentado, apesar da natureza incidental, necessitaria de uma ação principal em curso de relação cognitiva semelhante; - Sucede que o objeto da presente da demanda mostra-se diverso do tratado na ação de desapropriação indireta (001.07.003911-0), pois nesta última discutia-se acerca de valores a serem indenizados ao passo que na presente cautelar discute-se anulação de ato jurídico; - RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 484-490).
+Nas razões do recurso especial (e-STJ, fls. 495-508), a parte agravante apontou violação aos arts. 489, II, § 1º, III e 1.022, II, do CPC/2015; e ao art. 879 do CPC/1973.
+De início, alegou negativa de prestação jurisdicional, pois "não havia no CPC/1973 o comando de que a ação de atentado deveria que ter alguma relação de semelhança com o objeto da demanda principal, e a de que a extinção do feito estaria perpetuando uma crassa ilegalidade, uma vez que, com o apossamento administrativo, não poderia a COPERE alienar um imóvel que já era de propriedade do Estado do Amazonas" (e-STJ, fl. 501).
+Defendeu que a "ação de atentado é medida necessária e exata para a defesa dos interesses do ente público estadual, não havendo razão para se extinguir o processo sem resolução do mérito, muito menos ao argumento de que o atentado exigiria identidade de objeto com a ação principal" (e-STJ, fl. 505).
+Contrarrazões apresentadas (e-STJ, fls. 527-545).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 559-567).
+Contraminuta apresentada (e-STJ, fls. 570-592).
+Brevemente relatado, decido.
+Preliminarmente, verifica-se que a apontada violação aos arts. 489 e 1.022 do CPC/2015 não se sustenta, uma vez que o TJAM examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+Confira-se elucidativo trecho do acórdão que julgou a demanda (e-STJ, fl. 455 - sem destaque no original):
+O Estado do Amazonas sustenta que a antiga ação de atentado teria natureza incidental, conforme art. 879 do CPC/1973, e não se aplicariam os arts. 806 e 808 do CPC/1973.
+Amparo não lhe assiste eis que na vigência do CPC/1973 a ação cautelar em comento, apesar incidental, necessitaria de uma ação principal em curso de relaçaõ cognitiva semelhante.
+Assim, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na espécie, o acórdão recorrido chegou à conclusão de "que na vigência do CPC/1973 a ação cautelar em comento, apesar incidental, necessitaria de uma ação principal em curso de relação cognitiva semelhante" (e-STJ, fl. 455).
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Veja-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. TRATAMENTO MÉDICO. ARTS. 489, § 1º, E 1.022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. HONORÁRIOS SUCUMBENCIAIS. TESE DE NECESSIDADE DE RATEIO ENTRE OS RÉUS. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REDIMENSIONAMENTO DO PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na origem, cuida-se de ação de procedimento ordinário ajuizada em face do Estado do Rio de Janeiro e da Clínica Bela Vista Ltda. com o fim de reparar os alegados danos morais que decorreriam da conduta dos réus no tratamento médico a que fora submetida a genitora do autor.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. No que concerne à verba sucumbencial, o Sodalício de origem não se manifestou sobre a alegação de que "considerada a existência de dois réus vencedores, importa a fixação no percentual total de 20% (vinte por cento) sobre o valor da causa, sem que nada possa justificar tão pesada condenação" (fl. 825), tampouco a questão foi suscitada nos embargos declaratórios opostos pela parte agravante para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+4. Ademais, a Corte estadual manteve os honorários sucumbenciais fixados no juízo de piso, em virtude de terem sido "arbitrados nos limites estabelecidos pelo artigo 85, §2º do CPC, além de não se revelarem excessivo, diante do grande lapso temporal de tramitação da ação" (fl. 705). Assim, eventual acolhimento da insurgência recursal demandaria a incursão encontra óbice na Súmula 7/STJ, por demandar o reexame de matéria fático-probatória.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.490.793/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024 - sem destaque no original)
+Assim, não há ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto a controvérsia foi suficientemente apreciada pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+Ademais, quanto à conexão entre as demandas, o Tribunal de origem consignou que (e-STJ, fls. 455-456 - sem destaque no original):
+Sucede que o objeto da presente demanda mostra-se diverso do tratado na ação de desapropriação indireta (001.07.003911-0), pois nesta última discutia-se acerca de valores a serem indenizados ao passo que na presente cautelar discute-se anulação de ato jurídico.
+Vale salientar que a ação cautelar de atentado pressupunha alteração na situação de fato que pudesse acarretar algum prejuízo para a apuração da verdade dos fatos no curso da instrução do processo principal
+(..)
+Em não havendo conexão entre os objetos discutidos nesta demanda e o do processo principal, tem-se como inviável sua pretensão formulada nesta para fins de influir naquela.
+Ademais, a apreciação da tese recursal exige a acurada análise dos elementos das duas ações com mais aprofundamento, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido (sem destaque no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE ENTENDEU PELA AUSÊNCIA DE CONEXÃO E LITISCONSÓRCIO PASSIVO NECESSÁRIO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ART. 9º DA LEI 8.429/92. ACÓRDÃO QUE CONSIGNOU O ELEMENTO SUBJETIVO APTO A CARACTERIZAR O ATO ÍMPROBO QUE CAUSA ENRIQUECIMENTO ILÍCITO. REVISÃO DAS SANÇÕES. PROPORCIONALIDADE. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A revisão da conclusão a que chegou o Tribunal a quo sobre a não caracterização de hipótese de conexão demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ. Precedentes: AgRg no AREsp 647.642/MG, Rel. Min. Sergio Kukina, Primeira Turma, Dje 15/5/2018; AgInt no REsp 1.496.382/PE, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 21/2/2017.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.448.317/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/9/2019, DJe de 3/10/2019.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE CONEXÃO ENTRE AS AÇÕES DE DESAPROPRIAÇÃO E DE USUCAPIÃO. OBJETOS DIVERSOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever o entendimento do Tribunal de origem, que consignou estarem ausentes os elementos configuradores da conexão entre ações, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+(AgInt no REsp 1496382/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 14/02/2017, DJe 21/02/2017).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO AUSENTE. FUNDAMENTAÇÃO SUFICIENTE. CONEXÃO. OBJETOS DIVERSOS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
