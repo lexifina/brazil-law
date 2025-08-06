@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por VIBRA ENERGIA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 311):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE EXTINÇÃO DE HIPOTECA - CONTRATO GARANTIDO - FINALIZADO - AUSÊNCIA DE DÉBITOS - PROCEDÊNCIA DOS PEDIDOS - MANTIDA. 1. Demonstrada a extinção do contrato garantido, sem qualquer inadimplemento, é de rigor o reconhecimento da extinção da hipoteca, nos termos do art. 1499, inc. I, do CC. 2. Não há como se acolher, por ausência de amparo legal, a tese defendida pelo apelante no sentido de que a hipoteca garantiria todo e qualquer inadimplemento do apelado, ainda que não oriundo do contrato mercantil.
+Rejeitados os embargos de declaração opostos (fls. 416-422).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 489, § 1º, IV, e 1.022, I, II e III, do CPC/2015, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 85, § 8º, do CPC/2015 e 476 e 1.499, I, do CCB.
+Sustenta, em síntese, a manutenção da hipoteca e o arbitramento dos honorários advocatícios por equidade.
+Foram oferecidas contrarrazões ao recurso especial (fls. 508-520).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 553-555), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 599).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489, § 1º, IV, e 1.022, I, II e III, do CPC/2015, uma vez que o Tribunal de origem, ao negar provimento à apelação, deixou claro tanto a inexistência de débitos oriundos do contrato garantido pela hipoteca quanto a adoção do valor da causa como base de cálculo dos honorários advocatícios de sucumbência (fls. 314-316).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Alterar o decidido no acórdão impugnado, no que se refere à inexistência de débitos oriundos do contrato garantido, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Por fim, a decisão recorrida se mostra em sintonia com a jurisprudência desta Corte, no sentido de que o arbitramento dos honorários por equidade é subsidiário, cabendo apenas quando, havendo ou não condenação, o proveito econômico foi irrisório e o valor da causa for muito baixo.
+A propósito, cito:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REMÉDIOS DE USO DOMICILIAR. EXCLUSÃO. VERBA HONORÁRIA. BASE DE CÁLCULO. JUÍZO AGRAVADO CONFORME A JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que deu provimento ao recurso especial da agravante, excluindo seu dever de custeio de medicamentos de uso domiciliar e julgando improcedente a demanda autoral.
+2. A agravante alega que a verba honorária de seus advogados deveria ser arbitrada sobre o proveito econômico, e não com base no valor da causa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a verba honorária deve ser fixada com base no proveito econômico obtido ou no valor da causa.
+III. Razões de decidir
+4. Sobre os critérios de arbitramento da verba honorária sucumbencial, a Segunda Seção do STJ, no julgamento do REsp n. 1.746.072/PR, Relator p/ Acórdão Ministro RAUL ARAÚJO, ocorrido em 13/2/2019, acórdão publicado em 29/3/2019, entendeu que "o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria. 4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). 5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo".
+5. A decisão agravada não divergiu de tal orientação, visto que, após reformar o acórdão recorrido para excluir o custeio dos medicamentos de uso domiciliar descritos na inicial, julgando, por conseguinte, a demanda autoral improcedente, arbitrou a verba honorária sucumbencial em 10% (dez por cento) do valor da causa, considerando a inexistência de conteúdo condenatório em favor da agravante e a impossibilidade de averiguar na instância especial, sem incorrer na vedação da Súmula n. 7/STJ, o montante do proveito econômico da empresa com a exclusão da cobertura do tratamento - seguindo portanto a ordem de vocação indicada no precedente aqui transcrito (art. 85, § 2º, do CPC/2015).
+IV. Dispositivo e tese
+6. Agravo interno não provido.
+Tese de julgamento: "1. Na ausência de condenação ou quando não é possível mensurar o proveito econômico, os honorários advocatícios devem ser fixados entre 10% e 20% sobre o valor da causa. 2. A decisão que fixa honorários com base no valor da causa, em tais circunstâncias, está em conformidade com a jurisprudência do STJ.
+"Dispositivos relevantes citados: CPC/2015, art. 85, §§ 2º e 8º.
+Jurisprudência relevante citada: STJ, REsp 1.746.072/PR, Rel. Min. Raul Araújo, Segunda Seção, julgado em 13.02.2019.
+(AgInt nos EDcl no REsp n. 2.163.020/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+Não sendo o caso dos autos, uma vez que o valor da causa não é muito baixo, não merece reparos a decisão recorrida.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar -lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intime-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE EXTINÇÃO DE HIPOTECA. CONTRATO GARANTIDO FINALIZADO. AUSÊNCIA DE DÉBITOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. ARBITRAMENTO DOS HONORÁRIOS POR EQUIDADE. IMPROCEDÊNCIA. MANUTENÇÃO DA HIPOTECA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
