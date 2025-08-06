@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por BRENO COELHO LOPES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do HC n. 0094480-28.2024.8.19.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante, em 5/11/2024, posteriormente convertida em prisão preventiva, pela suposta prática do crime tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas).
+Irresignada, a defesa impetrou mandamus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. Artigo 33, caput, da Lei n.º 11.343/06. Prisão em flagrante convertida em preventiva. Alegam os impetrantes que o paciente é tecnicamente primário, e que o delito imputado ao paciente não foi cometido com violência ou grave ameaça, nem foi demonstrado que ele integre organização criminosa. Não estando demonstrados os requisitos autorizadores da custódia cautelar. Em caso de eventual condenação o paciente fará jus ao redutor e a manutenção da custódia fere o princípio da homogeneidade. Requerem a revogação da prisão. Pretensões que não merecem prosperar. Constrangimento ilegal não configurado. Prisão em flagrante convertida em preventiva. Decisão fundamentada nos requisitos da prisão cautelar - artigos 93, inciso IX, da Constituição Federal e 315 do Código de Processo Penal. Demonstradas a necessidade e contemporaneidade da segregação cautelar, exigidos pelo art. 282, I e II, da Lei de Ritos. Prova da materialidade e indícios de autoria, conforme auto de prisão em flagrante e depoimentos das testemunhas. O paciente, em tese, apresentar condições pessoais favoráveis, primário e de bons antecedentes não servem como fundamentos isolados para revogação da prisão cautelar, eis que preenchidos os requisitos do art. 312 do Código de Processo Penal. Quanto ao princípio da homogeneidade, não é cabível a discussão sobre a desproporcionalidade entre a prisão preventiva e eventual condenação, a antecipação da quantidade de pena que eventualmente poderá ser imposta. Medidas cautelares previstas no art. 319 do Código de Processo Penal que se mostram insuficientes. ORDEM DENEGADA." (fl. 99).
+Nas razões do presente recurso, sustenta que não estão presentes os requisitos estabelecidos no art. 312 do Código de Processo Penal - CPP para a decretação da prisão preventiva.
+Afirma que o recorrente é primário, possui bons antecedentes, residência fixa e não há provas de que se dedique a atividades delitivas ou integre organização criminosa.
+Sustenta, ainda, a violação do princípio da homogeneidade, já que a prisão representa medida mais gravosa se comparada ao regime de cumprimento da pena em eventual condenação, com potencial incidência da minorante relativa ao tráfico privilegiado.
+Requer, assim, o provimento do recurso para que seja revogada a prisão preventiva.
+As contrarrazões do Ministério Público do Estado do Rio de Janeiro foram apresentadas às fls. 159/168.
+Indeferida a liminar (fls. 211/213) e prestadas as informações (fls. 222/229), o Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 231/232).
+É o relatório.
+Decido.
+O recurso ordinário em habeas corpus perdeu o objeto.
+Conforme as instruções prestadas pelo Juízo da 2º Vara da Comarca de Valença - RJ, em 28/3/2025, foi revogada a prisão preventiva do recorrente, mediante a aplicação de medidas cautelares diversas, e determinada a expedição de alvará de soltura em seu favor, acarretando a prejudicialidade do presente recurso ordinário, pela perda superveniente de seu objeto.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
