@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por TEREZA PASSAES DA SILVA - ESPÓLIO contra decisão que inadmitiu recurso especial (e-STJ, fls. 187-189) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 102):
+EXECUÇÃO FISCAL. EMBARGOS A EXECUÇÃO. MUNICÍPIO DE PIRAI. IPTU. EXERCÍCIOS DE 2010 e 2012. SENTENÇA QUE APESAR DE JULGAR IMPROCEDENTES OS EMBARGOS, EXTINGUIU DE OFÍCIO A EXECUÇÃO FISCAL COM BASE NA AUSÊNCIA DE LIQUIDEZ DA CDA. IRRESIGNAÇÃO. Possibilidade de substituição da CDA. Súmula 392 do STJ. Do exame dos autos, extrai-se que a presente execução fiscal está lastreada em CDA embasada unicamente em crédito tributário relativo ao IPTU, devidamente descrito. Portanto, a fundamentação utilizada mostra-se dissociada da realidade dos autos, uma vez que menciona expressamente a ausência de liquidez da CDA, em razão de não ter indicado "natureza da dívida das taxas e impostos de forma individualizada". Determinação de prosseguimento da execução fiscal. RECURSO PROVIDO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fls. 138-142):
+EMBARGOS DE DECLARAÇÃO. EXECUÇÃO FSICAL. EMBARGOS A EXECUÇÃO. MUNICÍPIO DE PIRAÍ. IPTU. EXERCÍCIOS DE 2010 E 2012. SENTENÇA QUE APESAR DE JULGAR IMPROCEDENTE OS EMBARGOS, EXTINGUIU DE OFÍCIO A EXECUÇÃO FISCAL COM BASE NA AUSÊNCIA DE LIQUIDEZ DA CDA. IRRESIGNAÇÃO RECURSAL ACOLHIDA PELO COLEGIADO. ACLARATÓRIOS. OMISSÃO. QUESTIONAMENTOS DEVIDAMENTE ENFRENTADOS. REJEIÇÃO.
+Nas razões do recurso especial, o recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 489, § 1º, III, IV, V e VI, 784, IX, e 1.022, I e II, do CPC/2015; 202 e 203 do CTN; e 2º, § 5º, e 3º da Lei 6.830/1980.
+Apontou omissão e deficiência na fundamentação do aresto recorrido.
+Sustentou a impossibilidade de modificação ou substituição da CDA, pois ausente erro material ou formal.
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 187-189).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 198-216).
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos Recursos Especiais n. 2.194.708/SC, 2.194.734/SC e 2.194.706/SC, relator Ministro Gurgel de Faria, julgadas em 20/5/2025, DJEN de 26/5/2025, delimitaram o Tema 1.350 da seguinte forma: "Definir se, até a prolação da sentença nos embargos, é possível que a Fazenda Pública substitua ou emende a Certidão de Dívida Ativa (CDA), para incluir, complementar ou modificar o fundamento legal do crédito tributário".
+Confira-se a respectiva ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO FISCAL. CDA. FUNDAMENTAÇÃO LEGAL. AUSÊNCIA OU DEFICIÊNCIA. DISCUSSÃO SOBRE A POSSIBILIDADE DE SUBSTITUIÇÃO. AFETAÇÃO.
+1. A questão jurídica a ser solucionada envolve o alcance do Tema Repetitivo 166 do STJ ("A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução") em relação à possibilidade de a Fazenda Pública substituir ou emendar a Certidão de Dívida Ativa (CDA), até a prolação da sentença nos embargos, para incluir, complementar ou modificar o fundamento legal do crédito tributário.
+2. Tese controvertida: Definir se, até a prolação da sentença nos embargos, é possível que a Fazenda Pública substitua ou emende a Certidão de Dívida Ativa (CDA), para incluir, complementar ou modificar o fundamento legal do crédito tributário.
+3. Afetação do recurso especial como representativo da controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.350/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA (CDA). VALIDADE. DISCUSSÃO SOBRE A POSSIBILIDADE DE SUBSTITUIÇÃO. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.350/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
