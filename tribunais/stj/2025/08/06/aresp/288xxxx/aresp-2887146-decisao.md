@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no
+art. 105, III, alíneas "a" e "c", da Constituição Federal, interposto por COOPERATIVA DE CRÉDITO CREDISETE LTDA - SICOOB CREDISETE contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE MANUTENÇÃO DE POSSE - FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA SENTENÇA - INOCORRÊNCIA - VALOR DA CAUSA - TURBAÇÃO - COISA JULGADA. I. A apelação conterá a exposição do fato e do direito com motivação suficiente para contrariar os fundamentos da sentença. II. O valor da causa nas ações possessórias deve ser correspondente ao valor do imóvel objeto da lide. III. Uma vez reconhecida a ocorrência da turbação da posse, por acórdão transitado em julgado, opera-se a coisa julgada, não sendo admissível rediscutir essa questão acobertada pela imutabilidade" (fl. 551).
+Nas razões do recurso especial, a recorrente alega, além de divergência jurisprudencial, violação ao art. 291 do Código de Processo Civil.
+Argumenta, em síntese, que "o valor pelo qual o imóvel foi dado em pagamento não deve ser utilizado como referência para a fixação do valor da causa, mas sim o benefício patrimonial obtido com a manutenção da locação, consubstanciado no valor do aluguel" (fl. 578).
+Não foram apresentadas contrarrazões.
+Assim delimitada a questão, passo a decidir.
+A controvérsia cinge-se à definição dos parâmetros para fixação do valor da causa em ação de manutenção de posse.
+O Tribunal de origem concluiu que, em ações possessórias, o valor atribuído à causa deve ser o valor do bem que se pretende retomar, conforme se depreende do seguinte trecho do acórdão local (fl. 557):
+"A apelante argui a incorreção do valor da causa, pontuando que em ação possessória, este deve corresponder ao benefício patrimonial pretendido pelo autor, devendo observar no caso dos autos o valor do contrato de locação que deu origem a posse dos apelados, e não o valor do imóvel. Todavia, razão não lhe assiste. Isso porque nas demandas possessórias, a jurisprudência tem adotado o parâmetro patrimonial ligado ao benefício pretendido, isto é, o valor do bem que se pretende retomar. Como bem assinalado na decisão de ordem 86, "não há entre as partes uma relação locatícia, fato que obsta, a meu sentir, a aplicação da Lei do Inquilinato ou soma dos aluguéis supostamente remanescentes - até porque não se sabe se a locação findaria no prazo previsto no contrato de locação. Como a posse direta do imóvel encontra-se com as autoras, tenho que o valor da causa deve ser de R$ 1.442.007,28, montante atribuído ao bem na dação em pagamento".
+O Superior Tribunal de Justiça possui o entendimento de que, em razão da ausência de previsão expressa no Código de Processo Civil, o valor da causa nas ações possessórias deve corresponder ao benefício patrimonial vindicado pelo autor.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VALOR DA CAUSA. BENEFÍCIO ECONÔMICO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. 1. Nos termos da jurisprudência desta Corte, nas ações possessórias, ainda que sem proveito econômico imediato, o valor da causa deve corresponder ao benefício patrimonial pretendido pelo autor.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no REsp n. 1.772.169/AM, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 19/10/2020, DJe de 26/10/2020.)
+"Processual civil. Recurso especial. Ação de imissão na posse. Valor da causa. Peculiaridades da situação fática concreta. - À falta de disposição legal específica no CPC acerca do valor da causa nas ações possessórias, entende a jurisprudência assente no STJ que tal valor deve corresponder ao benefício patrimonial pretendido pelo autor com a imissão, a reintegração ou a manutenção na posse. - Ainda que não se vislumbre proveito econômico imediato na ação de imissão na posse, não se pode desconsiderar a natureza patrimonial da demanda. - Assim sendo, à causa deve ser dado o valor despendido pelo autor para aquisição da posse, que, na situação fática específica dos autos, corresponde ao valor da adjudicação do imóvel sobre o qual o autor pretende exercê-la."
+(REsp n. 490.089/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/5/2003, DJ 9/6/2003, p. 272.)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INTERDITO POSSESSÓRIO. ART. 535, II, DO CPC. AUSÊNCIA DE OFENSA. VALOR DA CAUSA. BENEFÍCIO PATRIMONIAL PRETENDIDO. SÚMULA N. 83 DO STJ. DECISÃO AGRAVADA MANTIDA.
+1. Improcede a arguição de ofensa ao art. 535, II, do CPC quando o Tribunal a quo se pronuncia, de forma motivada e suficiente, sobre as questões fático-jurídicas que delimitam a controvérsia.
+2. A jurisprudência do Superior Tribunal de Justiça tem admitido que o arbitramento do valor da causa nas ações possessórias, ainda que a pretensão formulada na demanda não tenha imediato proveito econômico, deve corresponder ao benefício patrimonial pretendido pelo autor. Precedente: REsp n. 490.089-RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 9/6/2003.
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" Súmula n. 83 do STJ 4. Decisão agravada mantida por seus próprios fundamentos.
+5. Agravo regimental desprovido. (AgRg no REsp 612.033/SP,
+Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 3/9/2009, DJe 14/9/2009)
+No caso, deve-se considerar, como já mencionado, o efetivo benefício patrimonial buscado pelo autor na ação de manutenção de posse, ou seja, pode-se concluir que, no caso, a ação de manutenção de posse deve ser valorada de acordo com o valor do imóvel.
+Assim, encontrando-se o acórdão local em sintonia com a juri sprudência do STJ, imperiosa a incidência do enunciado 83 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a
+quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
