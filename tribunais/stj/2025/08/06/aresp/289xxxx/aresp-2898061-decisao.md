@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado por Baguari I Geração de Energia Elétrica S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.243):
+APELAÇÃO CÍVEL - AÇÃO DE CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA - PRELIMINAR - OFENSA À DIALETICIDADE - REJEIÇÃO - INSTITUIÇÃO DE ÁREA DE PRESERVAÇÃO PERMANENTE - INDENIZAÇÃO - NECESSIDADE - PARÂMETROS - LAUDO PERICIAL - ÔNUS SUCUMBENCIAIS - RESPONSABILIDADE DO AUTOR - RECURSO PARCIALMENTE PROVIDO.
+1. Não há falar-se em ofensa ao princípio da dialeticidade quando as razões recursais se contrapõem adequadamente aos fundamentos da sentença.
+2. Demonstrado que a restrição decorrente de servidão administrativa prejudica a utilização do imóvel pelo proprietário, deve ser reconhecido o direito à indenização correspondente, em conformidade aos parâmetros identificados em laudo pericial de engenharia.
+3. Em se tratando de ação de instituição de servidão administrativa, a responsabilidade pelos ônus sucumbenciais é definida pela aceitação ou não do preço ofertado, de forma que, caso fixada indenização em valor superior à oferta, o autor será condenado ao pagamento das custas, despesas processuais e honorários advocatícios (art. 27, § 1º e 30 do Decreto-lei nº 3.365/1941).
+Opostos embargos declaratórios, foram rejeitados (fls. 1.275/1.281).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos de lei federal:
+(I) arts. 489, § 1º, e 1.022, II, do CPC ao argumento de que o Tribunal de origem não enfrentou "os fatos alegados e comprovados nos autos relativos a coincidência da calha do Rio Doce e o reservatório, bem como a sobreposição dos limites da APP do reservatório à APP legal." (fl. 1.291);
+e (II) arts. 884 e 944 do CC; e 4º da Lei n. 4.771/65, porquanto a existência prévia de Área de Preservação Permanente coincidente com a área em abrangida pela servidão administrativa implica a necessidade de se afastar a indenização, "sob pena de vedado enriquecimento sem causa" (fl. 1.297). Aduz, em acréscimo, que "Com a instituição da servidão administrativa, não serão acrescidas novas limitações ao direito de uso da propriedade dos Recorridos, já que elas se impunham mesmo antes do empreendimento, em decorrência da legislação ambiental." (fl. 1.296).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, sobre o tema tido como olvidado, a Corte Estadual consignou (fls. 1.249/1.251):
+In casu, a despeito da conclusão alcançada pela magistrada de origem, verifica-se a necessidade de reparação dos proprietários pela limitação imposta ao seu imóvel.
+Isso porque não se trata de área previamente sujeita à instituição de área de preservação permanente por força de lei. A necessidade da limitação surgiu apenas após a construção da usina hidrelétrica, conforme se depreende de excerto da própria petição inicial:
+ ..
+A indispensabilidade da indenização, além de ter sido reconhecida pela parte autora na petição inicial, foi confirmada em laudo pericial de engenharia, que constatou a perda da capacidade produtiva da propriedade pela instituição da servidão (doc. de ordem nº 141). Por essa razão, é cabível a reparação pecuniária pela limitação do imóvel.
+Lado outro, não se justifica a indenização dos proprietários pelos valores pleiteados em suas razões recursais (R$638.250,34 ou, subsidiariamente, R$319.125,17).
+Além de não ter havido completa expropriação do imóvel, o perito concluiu que o prejuízo estimado dos apelantes seria de R$169.136,33, após avaliação minuciosa da terra nua, das benfeitorias e do potencial produtivo prejudicado pela servidão (doc. de ordem nº 141):
+ ..
+Saliente-se, por oportuno, que o trabalho técnico foi realizado por profissional habilitado, sob o crivo do contraditório e da ampla defesa, sem que existam quaisquer incorreções que desabonem as suas conclusões, devendo, portanto, prevalecer para fins de delimitação da indenização.
+E no julgamento dos embargos de declaração, reforçou-se (fls. 1.278/1.280)):
+No que tange a suposta omissão, em relação à legislação ambiental aplicável à espécie e à sobreposição da APP sobre a área da servidão administrativa, esclareço que não há qualquer vício no julgado. Isso porque o acórdão foi cristalino no sentido de que a própria parte autora, na petição inicial, consignou que a delimitação da APP decorreu da instituição do reservatório artificial, e que a constatação de valores a serem indenizados decorreu de análise de profissional especializado, observe:
+ ..
+Assim, não há falar-se em enriquecimento sem causa dos embargados, considerando que a delimitação da indenização observou o conteúdo de laudo pericial produzido sob o crivo do contraditório.
+Não ficou configurada, pois, a alegada omissão.
+De outro turno, a instância a quo, com base nos elementos probatórios da lide, concluiu pela necessidade de indenização do proprietário asseverando que "não se trata de área previamente sujeita à instituição de área de preservação permanente por força de lei. A necessidade da limitação surgiu apenas após a construção da usina hidrelétrica" (fl. 1.249).
+Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir a ocorrência de enriquecimento sem causa da parte recorrida, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito do tema, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EXTINÇÃO DA CARTEIRA DE PREVIDÊNCIA DOS ADVOGADOS DE SÃO PAULO - CPA. AGRAVO CONHECIDO POR DECISÃO MONOCRÁTICA. RECURSO ESPECIAL NÃO CONHECIDO. INCIDÊNCIA DAS SÚMULAS 280/STF; E 7/STJ. ÓBICES MANTIDOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de agravo interno interposto contra decisão monocrática que conheceu do agravo em recurso especial e inadmitiu o recurso especial com base nas Súmulas 280/STF; e 7/STJ. O recurso especial visava o reconhecimento do direito à indenização por danos morais, perda de uma chance e restituição integral de valores (taxa de mandato e rendimentos financeiros) em decorrência da extinção da Carteira de Previdência dos Advogados de São Paulo - CPA.
+2. A decisão de inadmissibilidade do recurso especial na origem aplicou os óbices das Súmulas 280/STF (análise de direito local); e 7/STJ (reexame fático-probatório). A decisão monocrática agravada manteve esses fundamentos para não conhecer do recurso especial.
+3. O acórdão recorrido fundamentou o afastamento do dever de indenizar e da restituição integral na interpretação de legislação estadual (Leis estaduais 13.549/2009 e 16.877/2018) e no alcance da ADI 4.429/SP. A análise da suposta violação à legislação federal (Código Civil) demandaria, inevitavelmente, a interpretação dessas normas locais, o que é vedado pela Súmula 280/STF. Precedente: AgInt no AREsp 1.117.993/SP.
+4. O Tribunal de origem concluiu pela regularidade da atuação administrativa na extinção da CPA e pela ausência de ato ilícito indenizável, com base na análise das circunstâncias fáticas (déficit atuarial) e provas dos autos. Rever essa conclusão para reconhecer a existência de ato ilícito, dano moral, perda de chance ou enriquecimento sem causa exigiria o reexame do conjunto fático-probatório, vedado pela Súmula 7/STJ. Precedente.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.531.915/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
