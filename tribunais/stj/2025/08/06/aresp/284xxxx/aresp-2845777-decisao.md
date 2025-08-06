@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por MGCF Engenharia Ltda. contra decisão que não admitiu o recurso especial manejado, com fulcro na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 587):
+APELAÇÃO. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS. INSURGÊNCIA DA RÉ.
+PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO. PLEITO PREJUDICADO, ANTE O JULGAMENTO DO MÉRITO.
+ALEGADA AUSÊNCIA DE ACEITE NAS NOTAS FISCAIS EMITIDAS PELA AUTORA. PRESTAÇÃO DE SERVIÇOS DEMONSTRADAS PELAS DEMAIS PROVAS DOS AUTOS. RELAÇÃO JURÍDICA CONFIGURADA. SENTENÇA MANTIDA.
+HONORÁRIOS RECURSAIS. CRITÉRIOS CUMULATIVOS ESTABELECIDOS PELO STJ ATENDIDOS (AGINT NOS ERESP N. 1539725/DF). NECESSIDADE DE MAJORAÇÃO. SUSPENSA A EXIGIBILIDADE EM RAZÃO DA CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA (ART. 98, § 3º, DO CPC).
+RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, o recorrente alega que o acórdão recorrido violou o art. 373, inciso I, do Código de Processo Civil, eis que a parte agravada não teria se desincumbido de seu ônus de provar os fatos constitutivos de seu direito, notadamente a ocorrência da prestação de serviços (fls. 593-614).
+Não foram apresentadas contrarrazões (fl. 620).
+O recurso especial não foi admitido em virtude da incidência da Súmula 7 do STJ, fundamento rejeitado nas razões do agravo (fls. 629-637). Não foi apresentada contraminuta (fl. 641).
+Assim delimitada a controvérsia, passo à análise do recurso.
+O recurso não preenche as condições de admissibilidade em razão da incidência da Súmula 7 do STJ, nos termos que seguem.
+Trata-se de ação de cobrança proposta pela agravada contra a agravante pretendendo a condenação desta ao pagamento de débitos oriundos de fornecimento de alimentos para a agravante.
+A tese do recurso consiste na afirmação de que a parte agravada não se desincumbiu de seu ônus probatório, ou seja, não comprovou os fatos constitutivos de seu direito, eis que as notas fiscais que embasam a cobrança estão sem aceite, portanto não existiria prova da existência da dívida.
+Assim foram formulados os argumentos do recurso especial (fls. 609-610):
+41. Ao contrário do entendimento da r. sentença, e confirmado no v. acórdão, deve ser sopesado o fato de que as notas fiscais que fundamentam a presente ação estão sem aceite, não sendo reconhecidas, nem aceitas pela Recorrente. Da forma como apresentadas (sem qualquer documento que comprove a data do recebimento, identificação e/ou assinatura do recebedor por parte da Recorrente), os referidos títulos não são suficientes para comprovar a existência da dívida cobrada pela Recorrida nestes autos.
+42. Impugnou-se, também, especificamente os documentos acostados às fls. 26/27 e 29/32 (extratos e termos de encerramento de conta), de fls. 33/38 (notas fiscais - sem assinaturas ou "aceites" da Recorrente), de fls. 39/50 (extratos e histórico bancários), de fls. 53/58 (pagamentos efetuados pela Recorrente) e nos de fls. 59/63 (boletins de medição - sem assinaturas, sem datas e/ou aprovação da Recorrente), igualmente, não carregam a certeza da existência da alegada dívida pela Recorrida; não possuindo, portanto, a força probante que se pretende
+(..)
+45. Nitidamente a Recorrida não provou o direito perquirido ou, em outras palavras, não juntou documento essencial à propositura da ação , ao contrário do entendimento esposado no v. acórdão. (grifou-se)
+Apesar de a parte afirmar que pretende novo enquadramento jurídico para os fatos, verifica-se que a análise da tese do recurso exige o reexame das provas dos autos. Isso, porque o Tribunal de origem concluiu pela existência da dívida justamente a partir da análise de outros elementos de prova, que prevaleceram sobre as notas fiscais sem aceite e foram consideradas suficientes para comprovar a existência da dívida.
+Quanto ao ponto, assim se manifestou o acórdão (fls. 583-584):
+Inicialmente, nota-se que pela parte ré em nenhum momento é negada a relação tida com a autora, mas se atém a impugnar a dívida. Houve reconhecimento, inclusive, que alguns valores foram adimplidos: "O que existe, na verdade, são comprovantes de alguns valores pagos. Mas, não a comprovação de quaisquer valores devidos! Motivo pelo qual ficam todos os citados documentos expressamente impugnados" (Evento 32, CONT63).
+No caso dos autos, demonstra a parte autora os débitos por meio dos documentos acostados nos Evento 1, INF14/15 c/c Evento 1, INF28/29, sendo representados por nota fiscal de venda em nome da parte ré, com data, quantidade de refeições e cafés da manhã. Os pagamentos do réu à parte autora de significantes quantias também corroboram para a relação tida entre as partes e pagamentos parciais dos débitos (Evento 1, INF26).
+No mais, foi afirmado, e não impugnado especificamente pelo réu, o fato de a parte autora ter-lhe entregado planilha com assinatura dos funcionários atestando a entrega da refeição, o que gera presunção de veracidade do fato narrado na petição inicial.
+Desse modo, as provas extraídas da inicial constituem prova suficiente a demonstrar a existência da relação jurídica entre as partes, servindo de lastro para a presente ação de cobrança, de modo que eventual dúvida sobre a quitação dos valores acaba por ser resolvida em favor da parte autora, uma vez que a parte ré nada comprovou nos autos, o que permite que se entenda que o alegado na exordial é verdadeiro.
+(..)
+De fato, pela análise dos documentos que acompanham a inicial, há demonstração de entregas de refeições e de cafés da manhã por parte da apelada (evento 1, notas fiscais de pp. 14- 15), transferências bancárias feitas pela apelante à apelada (evento citado, pp. 26-27) e boletins de medição de serviços confeccionados pela apelante tratando da quantidade de refeições e respectivos valores (evento citado, pp. 28-29).
+Há, pois, demonstração da prestação dos serviços, de modo que a cobrança dos valores inadimplidos é mesmo devida.
+Alterar a conclusão do acórdão recorrido, que asseverou expressamente que foi comprovada a prestação de serviços e que a dívida é legítima, demandaria reexame de fatos e provas dos autos, providência vedada em recurso especial, ante o teor da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários de recurso, pois a condenação a respeito já alcança o teto legal (fl. 586), vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do art. 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
