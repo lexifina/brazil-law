@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Juvenal Patrício, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 566):
+Apelações. Responsabilidade civil. Agente público. Acidente do trabalho. Cegueira parcial do olho esquerdo. Indenização. Cabimento. Provas que constataram omissão da Municipalidade na prevenção do acidente ante o não fornecimento de EPIs que poderiam evitar o evento danoso. Danos morais e estéticos configurados. Responsabilidade objetiva do ente estatal, nos termos do art. 37. §6º. da Constituição Federal. Pleito de majoração do quantum indenizatório parcialmente acolhido, em respeito ao princípio da proporcionalidade e razoabilidade, em se tratando de sequela física e estética permanente na vida do autor. Pensão mensal vitalícia. Descabimento. Servidor que pode ser reaproveitado para outras funções que permitam visão monocular. Correção monetária e juros de mora. De rigor a observância do decidido pelo STJ no tema 905. bem como a EC nº 113/2021, a partir de sua entrada em vigor. Honorários advocatícios. Afastamento da sucumbência recíproca. Município que decaiu na maior parte dos pedidos (indenização por danos morais e estéticos) devendo arcar integralmente com o ônus de sucumbência. Sentença parcialmente reformada. Recurso do autor parcialmente provido. Recurso do réu minimamente provido, apenas para correção dos índices dos consectários legais.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente apontou divergência jurisprudencial e violação ao art . 950 do Código Civil.
+Argumentou que, comprovada a redução na sua capacidade de trabalho, foi readaptado para outra função, sem a perspectiva de recebimento de horas extras e outros adicionais que costumava perceber, nem de ascensão profissional, o que ensejaria o pensionamento vitalício, ainda que a incapacidade seja parcial.
+Contrarrazões às fls. 662-668 (e-STJ).
+Decisão de admissibilidade às fls. 672-673 (e-STJ).
+Agravo em recurso especial apresentado às fls. 676-697 (e-STJ).
+Brevemente relatado, decido.
+Considerando os fundamentos trazidos no recurso, dou provimento ao agravo para determinar a sua conversão em recurso especial, sem prejuízo de nova análise dos requisitos de admissibilidade, a fim de que a matéria seja melhor examinada, com fulcro no art. 34, XVI, do RISTJ.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL. SERVIDOR PÚBLICO. ACIDENTE DE TRABALHO. INCAPACIDADE PARCIAL PERMANENTE. READAPTAÇÃO PARA O EXERCÍCIO DE ATIVIDADES COMPATÍVEIS COM A LIMITAÇÃO SOFRIDA, SEM REDUÇÃO DE VENCIMENTOS. CONTROVÉRSIA ACERCA DO CABIMENTO DE PENSIONAMENTO VITALÍCIO. NECESSIDADE DE MELHOR EXAME DA MATÉRIA. AGRAVO PROVIDO PARA DETERMINAR A SUA CONVERSÃO EM RECURSO ESPECIAL.
