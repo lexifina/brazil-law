@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por ELIAS EID GEDEON contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 765):
+"APELAÇÃO. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. Proprietário de veículo que sofreu perda auditiva devido à abertura indevida do "airbag". Pretensão voltada à responsabilização da montadora do carro. Sentença de improcedência. REQUISITOS DA RESPONSABILIDADE CIVIL. Perícia de engenharia mecânica concluiu estar justificado o acionamento do sistema de segurança do veículo. Perícia médica que concluiu inexistir nexo de causalidade entre a surdez do autor e o ruído decorrente da expansão dos gases na bolsa do airbag. Observância de melhora no estado do autor, comparado a exames realizados, situação que não ocorreria em caso de perda auditiva causada por ruído, que seria irreversível. Inexistência de vícios nos laudos periciais. Ausência de ilicitude da conduta da montadora e de nexo de causalidade. Desnecessidade de produção de novas provas. Sentença mantida. Majoração de honorários. RECURSO NÃO PROVIDO."
+Rejeitados os embargos de declaração opostos (fls. 776/780).
+No recurso especial, a parte recorrente alega violação dos arts. 465 e 473, IV, e §3º, do CPC, sustentando: i) que o julgamento deve ser anulado e convertido em diligência, para a realização das novas perícias (médica e de engenharia), a serem realizadas segundo as normas estabelecidas pela ABNT; ii) que a "perícia médica, em particular, deve ser realizada especificamente por perito especializado na área de otorrinolaringologia, se possível com experiência em redução da capacidade auditiva causados por ruído, que é justamente o caso do r ecorrente.
+Foram oferecidas contrarrazões ao recurso especial (fls. 813/822).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 823/824), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 857/869).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 465 e 473, IV, e §3º, do CPC, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à à validade das perícias realizadas por profissional com experiência técnica para tanto, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. PROVA PERICIAL. BENEFÍCIO ACIDENTÁRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 465 DO CPC/2015. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação previdenciária objetivando a concessão do benefício de acidente de trabalho. Por sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial, não foi conhecido.
+II - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "Com efeito, não se afigura necessária a realização de nova perícia por médico especialista em ortopedia, uma vez que o subscritor do laudo de fls. 169/79 possui formação médica abrangente, o que basta ao exercício da medicina e à realização de perícias na respectiva área. Ademais, sendo o Magistrado o destinatário da prova, pois ela se destina à formação de sua convicção para análise dos pontos controvertidos da demanda, a ele cabe avaliar a pertinência ou não da realização da prova, bem como de seu refazimento."
+III - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Ademais, caso assim não fosse, observa-se que a jurisprudência desta Corte está consolidada no sentido de se admitir perito com habilitação diversa da pretendida pela parte, bem assim, de ser desnecessária a comprovação da especialização do perito. Por oportuno, vejamos: AgRg no REsp 1230624/PR, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 15/10/2015, DJe 21/10/2015 e AgRg no REsp 1395776/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/10/2013, DJe 21/10/2013.
+V - Agravo interno improvido." (AgInt nos EDcl no AREsp 1.689.091/SP, SEGUNDA TURMA, Rel. Min. FRANCISCO FALCÃO, Julgamento em 22/03/2021, Dje de 26/03/2021).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, §11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 16% do valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. PERÍCIA MÉDICA. VALIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
