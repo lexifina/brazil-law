@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 686):
+Apelação. Ação de execução de título extrajudicial. Sentença que extinguiu o feito sem julgamento do mérito. Pleito recursal que não merece prosperar. Condomínio- exequente que não promoveu os atos e as diligências que lhe incumbia, abandonando a causa por mais de 30 (trinta) dias. Intimado pessoalmente para suprir a falta em 5 dias, o Apelante quedou-se inerte. Artigo 485, inciso III, e § 1º, do Código de Processo Civil, que se aplica tanto ao processo de conhecimento quanto ao processo de execução. Precedentes do C. STJ e desta D. 34ª Câmara de Direito Privado. Sentença mantida. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos artigos 485, 771, 921 e 924 do Código de Processo Civil.
+Sustenta que "não há que se falar na ausência de disposição normativa no processo de execução quanto a situações de abandono de causa frente à positivação, no artigo 924 do CPC, do instituto da prescrição intercorrente" (fl. 734).
+Aduz que "não faz sentido lógico, com o devido respeito a qualquer entendimento diverso, a aplicação do artigo 485, III do CPC, quando a intenção do legislador no artigo 921 do CPC é a de que, em não se localizando - por ação ou omissão - patrimônio do devedor, a extinção da obrigação se dê pela prescrição do título. E por prescrição, não se olvide, pela ausência de atos do credor da obrigação frente a um certo e determinado período de tempo. Exatamente por isso que, ao consagrar a prescrição intercorrente no artigo 924 do CPC, o legislador processual expressamente previu o efeito jurídico do abandono de causa no processo de execução. O que afasta a possibilidade de aplicação subsidiária do artigo 485 do CPC pela hipótese do parágrafo único do artigo 771 do CPC" (fls. 737/738).
+Contrarrazões foram apresentadas às fls. 751/758.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 762/764.
+Assim delimitada a controvérsia, passo a decidir.
+No que se refere à alegação de ofensa aos artigos 485, 771, 921 e 924 do CPC e a tese acerca da ocorrência da prescrição intercorrente, ressalte-se que é imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados e as teses a eles vinculadas, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Frise-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+Assim, em virtude da falta de prequestionamento da tese apresentada, não há como se conhecer d o recurso especial, a teor da Súmula 211 do STJ.
+Cumpre destacar, ainda, que o prequestionamento ficto é admitido somente nas hipóteses em que, não sanada a omissão no julgamento dos embargos de declaração, a parte suscita a ofensa ao art. 1.022 do CPC no recurso especial, o que não se verificou no caso dos autos. Nesse sentido, confiram-se: AgInt no AREsp n. 2.116.675/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/4/2024, DJe de 2/5/2024; AgInt no AREsp n. 997.707/BA, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
