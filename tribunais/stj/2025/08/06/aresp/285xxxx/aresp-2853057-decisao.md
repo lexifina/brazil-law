@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado, com fulcro na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 54):
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. CONTRATAÇÃO ENTRE PARTICULARES. PEDIDO INDENIZATÓRIO. AUSÊNCIA DE PRETENSÃO REDIBITÓRIA. DECADÊNCIA. INOCORRÊNCIA. NÃO HÁ PEDIDO DE DESFAZIMENTO DO NEGÓCIO OU DE ABATIMENTO NO PREÇO PAGO EM RAZÃO DE ALEGADO VÍCIO OCULTO, OU SEJA, NÃO INVOCADOS OS DIREITOS POTESTATIVOS PREVISTOS NO ART. 445 DO CÓDIGO CIVIL. PRETENSÃO INDENIZATÓRIA POR DANOS MATERIAIS QUANTO AOS DISPÊNDIOS COM O CONSERTO DE DEFEITOS MECÂNICOS, LUCROS CESSANTES PELO PERÍODO EM QUE IMPEDIDO DE TRABALHAR E DANOS MORAIS. RELAÇÃO CONTRATUAL ENTRE PARTICULARES EM QUE APLICÁVEL O PRAZO PRESCRICIONAL DECENAL PREVISTO NO ARTIGO 205 DO CÓDIGO CIVIL. MANTIDA DECISÃO QUE RECHAÇOU A PREJUDICIAL DE DECADÊNCIA. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+Nas razões do recurso especial, o agravante alega que o acórdão recorrido violou o art. 445, caput, e § 1º, do Código Civil.
+Segundo o recurso especial, tal violação se verificou porque o acórdão não acolheu a alegação de decadência com base no dispositivo legal indicado, apesar de a causa de pedir estar relacionada a vício redibitório.
+Em contrarrazões, o agravado defende o não cabimento de recurso especial com origem em acórdão que mantém decisão interlocutória e, no mérito, pede a manutenção do acórdão.
+O recurso especial não foi admitido por incidência das Súmulas 283 do STF e 7 do STJ. Nas razões de seu agravo, o agravante nega a incidência dos óbices, ao passo que, em contraminuta, a parte agravada afirma que o acórdão está em conformidade com a jurisprudência do STJ.
+Assim delimitada a controvérsia, passo à análise do recurso.
+Trata-se de ação proposta pelo agravado contra o agravante, pretendendo a condenação deste ao pagamento de reparação por danos materiais, morais e lucros cessantes. A rigor o agravado pleiteia "o ressarcimento do montante gasto com o conserto de defeitos mecânicos detectados em 11/07/2021 que alega terem o impossibilitado de trabalhar" (fl. 51).
+De fato, a causa de pedir está ligada a "vício oculto em trator usado" (fl. 51), que o agravante vendeu ao agravado, porém o agravado não formulou pedido de redibição do negócio jurídico nem de abatimento no preço, que são pretensões constitutivas negativas sujeitas ao prazo decadencial do art. 445, do Código Civil.
+Em verdade, a pretensão do agravado possui natureza condenatória, pois visa a reparação de danos suportados por ele como decorrência do negócio jurídico celebrado entre as partes, de modo que está sujeita a prazo prescricional, na forma dos arts. 205 e 206 do CC.
+Nesse sentido, o acórdão recorrido, ao concluir que o prazo decadencial não se aplica à hipótese dos autos, o fez em sintonia com a jurisprudência do STJ, motivo pelo qual incide o óbice da Súmula 83 do STJ no caso dos autos. A propósito, veja-se julgado nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. RESTITUIÇÃO DE CONTRIBUIÇÕES INDEVIDAS. PRESCRIÇÃO DECENAL. SÚMULA 168 DO STJ.
+1. A jurisprudência desta Corte firmou o entendimento de que, tratando-se de responsabilidade contratual, incide o prazo geral de 10 anos previsto no art. 205 do Código Civil de 2002, aplicando-se a prescrição trienal do art. 206, § 3º, V, do mesmo estatuto, aos casos de responsabilidade extracontratual.
+2. Não se admite a oposição de embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado (Súmula n. 168/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.685.808/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 29/10/2024, DJe de 7/11/2024 - grifou-se)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de estabelecer os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
