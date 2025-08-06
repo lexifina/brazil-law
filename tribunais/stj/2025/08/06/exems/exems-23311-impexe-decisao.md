@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO, ao cumprimento de sentença, iniciado por BILMAR MARTINEZ, referente a mandado de segurança no qual foi concedida a ordem para restabelecer a validade da Portaria anistiadora do Ministério da Justiça nº. 2.561, de 13 de setembro de 2004, publicada em 14 de setembro de 2004. Como reflexo financeiro da aludida decisão, o impetrante promoveu a execução do pagamento do valor relativo aos efeitos financeiros retroativos da reparação econômica, pedindo a expedição de precatório, nos termos do art. 100, da CF/88.
+A UNIÃO apontou excesso de execução, aduzindo que: a) o título é inexigível, em razão da possibilidade de anulação da portaria anistiadora, e b) deve ser pago apenas o valor nominal que consta na portaria anistiadora, conforme título executivo judicial. Pediu a procedência da impugnação.
+Em resposta, o exequente, às fls. 383-389, alegou que não há necessidade de suspensão do feito, bem como que a portaria anistiadora não foi anulada e permanece em vigor. Pediu o julgamento de improcedência da impugnação.
+A decisão de fls. 636-637 julgou procedente a impugnação oposta pela UNIÃO para extinguir o feito em razão do reconhecimento da inexigibilidade do título. Contudo, os embargos de declaração do exequente foram acolhidos com efeitos modificativos para restabelecer o andamento do feito, conforme decisão de fls. 791-792.
+É o relatório. Decido.
+Considerando que a decisão de fls. 791-792 apenas restabeleceu o andamento do processo, passo a apreciar a impugnação ao cumprimento da UNIÃO de fls. 372-377.
+O ente público apresentou dois fundamentos em sua impugnação.
+O primeiro, de que o título executivo é inexigível, já foi afastado, conforme decisão fls. 791-792.
+O segundo, por sua vez, de que deve ser pago apenas o valor nominal que consta na portaria anistiadora, não destoa da quantia que é requerida para pagamento na petição de execução de fls. 329-364. Isso porque na parte reservada aos pedidos, o autor, à fl. 333, solicitou que "seja determinada a formação do necessário Precatório, para o pagamento do valor de R$ 235.998,63 (duzentos e trinta e cinco mil, novecentos e nove n ta e oito reais e sessenta e tres centavos), na forma prevista no art.100 da Constituição Federal", exatamente o mesmo valor que consta na portaria anistiadora de fl. 337.
+Como se observa, a insurgência da UNIÃO, de que deve ser pago apenas o valor nominal que consta na portaria de anistia, já foi observada na petição de execução do requerente, não havendo, portanto, mais pontos controvertidos.
+Pelo exposto, julgo improcedente a impugnação à execução oposta pela UNIÃO e determino a expedição do requisitório, com destaque de honorários advocatícios, se for o caso.
+EMENTA
