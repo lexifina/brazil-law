@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO SILVA DIAS contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 100):
+Agravo de Instrumento. Insurgência contra decisão que rejeitou a alegação de impenhorabilidade de imóvel. Alegação de tratar-se de bem de família. Descabimento. Ausência de provas de que o imóvel seja utilizado para moradia da família. Decisão mantida. Recurso improvido.
+Embargos de declaração foram opostos contra o acórdão recorrido, sendo rejeitados (fls. 121-122).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 1.022, II, do Código de Processo Civil/2015, sustentando que o Tribunal de origem não se manifestou sobre as últimas declarações de bens e rendimentos apresentadas, assim como as contas de consumo e de IPTU do imóvel, para comprovar que o bem objeto da penhora seria o único imóvel de sua propriedade, configurando bem de família, protegido pela Lei nº 8.009/90.
+Argumenta, também, que o indeferimento do pedido de nulidade da penhora se deu com base no entendimento de que não teria sido juntado nenhum elemento de prova de que no imóvel estaria instalada uma unidade familiar, embora constem dos autos as contas de consumo e de IPTU do imóvel, todas em nome do recorrente.
+Alega que a proteção legal prevista na Lei nº 8.009/90 foi demonstrada, no caso, por meio das declarações de bens e rendimentos e contas de consumo e de IPTU e que o Tribunal de origem não analisou adequadamente a documentação apresentada, configurando omissão.
+O recurso especial não foi admitido sob o fundamento de que não se verifica a pretendida ofensa ao art. 1.022 do CPC/2015, pois as questões foram apreciadas pelo acórdão atacado (fls. 137-138).
+Nas razões do seu agravo, a parte agravante impugna os fundamentos da decisão de admissibilidade, alegando que não se trata de reanálise de provas, mas sim do reconhecimento da documentação apresentada.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de ação de execução requerida por BANCO BRADESCO S/A, com base em Cédula de Crédito Bancário, visando à penhora de imóvel de propriedade do agravante, que alega ser bem de família e, portanto, impenhorável.
+O pedido de impenhorabilidade foi indeferido por falta de comprovação de que o imóvel é utilizado como moradia da família.
+O Tribunal de origem negou provimento ao recurso de agravo de instrumento, mantendo a decisão de penhora do imóvel, sob os seguintes fundamentos:
+As declarações de imposto de renda juntadas aos autos são antigas, relativas aos anos de 2018 e 2019 (fls. 55/59 e 62/71). Não bastasse isso, consta nelas que o endereço do agravante a Rua Ivo Cavalcante, nº 219, Jd. Panamericano, na cidade de São Paulo.
+Além disso, tanto a notificação de lançamento de IPTU (fls. 72/73) quanto a conta de energia elétrica (fls. 74) são do ano de 2020.
+Assim, não há qualquer elemento que corrobore a alegação de que o imóvel penhorado constitua bem de família, razão pela qual a manutenção da penhora é medida que se impõe  ..  (fl. 101).
+Quanto ao mais, no julgamento dos embargos de declaração, o Tribunal de origem consignou que era "descabida a alegação de omissão quanto a análise dos documentos de fls. 55/74, visto que tais provas forma individualmente analisadas e mencionadas as fls. 101 do v. acórdão" (fl. 121).
+Como se vê, quanto à suposta violação do art. 1.022, II, do CPC/2015, sob o fundamento de que o Tribunal de origem não se manifestou sobre as últimas declarações de bens e rendimentos apresentadas, assim como as contas de consumo e de IPTU , para comprovar que o imóvel objeto da penhora seria o único bem de sua propriedade, não merece prosperar o recurso especial, uma vez que, no caso, a questão relativa à ausência de comprovação da impenhorabilidade do bem foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão do agravante.
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
