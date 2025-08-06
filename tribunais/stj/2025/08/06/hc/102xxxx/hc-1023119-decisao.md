@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de GUILHERME BORGES FERREIRA, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que deu provimento ao recurso da acusação para condenar o réu por ofensa ao art. 157, § 2º, II, e § 2º-A, I, do Código Penal, à pena de 10 anos, 10 meses e 19 dias de reclusão, em regime inicial fechado, e ao pagamento de 2 dias-multa (Apelação n. 1506462-85.2020.8.26.0554).
+Sustenta-se, em síntese, a injustiça da condenação, devido à ausência de provas concretas, uma vez que o único elemento incriminador, o reconhecimento fotográfico, é viciado, pois foi realizado sem observância ao art. 226 do Código de Processo Penal, com indução da vítima e contradições relevantes, como a inexistência de tatuagens no autor do fato, ao passo que o paciente possui tatuagens visíveis nas mãos.
+Requer-se, inclusive em caráter liminar, a declaração de nulidade do reconhecimento fotográfico, com a consequente absolvição do paciente.
+A condenação do paciente transitou em julgado no dia 18/6/2024, conforme se depreende do AREsp n. 2.621.470/SP, não conhecido pela Presidência desta Corte.
+É o relatório.
+De plano, verifico que a presente impetração foi ajuizada após o trânsito em julgado da condenação, sendo, pois, substitutiva de pedido revisional e, portanto, incabível (AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/2/2024).
+Além disso, não há ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+No caso, o Tribunal paulista concluiu que há elementos probatórios consistentes a comprovar a autoria do crime imputado ao acusado, pois a vítima, motorista de aplicativo, reconheceu os envolvidos como autores do roubo, tanto por meio de reconhecimento fotográfico quanto pessoal, após descrever características físicas e o modus operandi do crime, cometido com grave ameaça e uso de arma de fogo. Segundo o acórdão, policiais civis confirmaram o reconhecimento e relataram a semelhança do crime com outros praticados contra motoristas (fls. 19/24).
+Dessa forma, apesar do questionamento acerca da validade do procedimento de reconhecimento de pessoas, consta dos autos que a vítima conseguiu individualizar o autor do delito com a indicação de traços distintivos, confirmando isso em juízo. A propósito do que aqui se discute, o AgRg no REsp n. 2.104.223/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/3/2024.
+Ademais, para concluir pela insuficiência probatória e absolver o paciente, é indispensável o revolvimento de fatos e de provas da ação penal. Neste âmbito, não há como afastar o entendimento do Tribunal de origem. Nesse sentido, o AgRg no HC n. 840.374/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 6/3/2024; e o AgRg no HC n. 618.233/RS, Ministra Laurita Vaz, Sexta Turma, DJe 27/11/2020.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO DO WRIT. ROUBO MAJORADO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO E FRAGILIDADE PROBATÓRIA. REEXAME DE FATOS E DE PROVAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Petição inicial indeferida liminarmente.
