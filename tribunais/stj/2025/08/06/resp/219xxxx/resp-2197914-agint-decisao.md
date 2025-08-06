@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interno interposto por LBG BRASIL ADMINISTRAÇÃO LTDA, contra decisão da Presidência do STJ que não conheceu do recurso especial, por entender que não foram particularizados nas razões do recurso especial os dispositivos de lei federal supostamente contrariados (fls. 907-908).
+Em suas razões, a agravante afirma que deve ser afastado o óbice do enunciado n. 284 da Súmula do STF, uma vez que indicou de forma clara os dispositivos de lei federal que foram violados.
+Requer a reforma da decisão agravada e o consequente provimento do recurso especial.
+O prazo para contrarrazões transcorreu in albis (fl. 937).
+É o relatório.
+Decido.
+Inicialmente, acolho a insurgência do agravo interno, notadamente porque se observa que, de fato, os dispositivos legais supostamente violados foram devidamente indicados nas razões do recurso especial.
+Desse modo, reconsidera-se a decisão monocrática de fls. 907-908, a fim de analisar os tópicos recursais do apelo especial.
+No recurso especial, menciona-se ofensa aos artigos 489, § 1º, incisos IV e VI e 1.022, inciso II, ambos do Código de Processo Civil, sustentando que o acórdão recorrido deixou de se manifestar sobre a tese do cabimento da condenação em honorários sucumbenciais, nos autos da ação cautelar, para os casos em que tenha havido resistência da Fazenda Nacional.
+Ademais, aponta negativa de vigência ao artigo 85, § 10, do Código de Processo Civil, ao argumento de que tendo a Fazenda Nacional dado causa ao ajuizamento da ação, deve ser condenada ao pagamento da verba honorária, já que "a jurisprudência do STJ se consolidou no sentido de que mesmo nos casos de medida cautelar, é possível a fixação de honorários sucumbenciais, em observância ao art. 85, §10 do CPC, quando há litigiosidade da parte sucumbente" (fl. 838).
+Requer o provimento do recurso especial para que seja reconhecida a nulidade do acórdão recorrido, determinando-se o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração. Alternativamente, pleiteia a reforma do acórdão combatido para que a Fazenda Pública seja condenada ao pagamento das custas e honorários sucumbenciais nos autos da ação cautelar, em razão de sua litigiosidade.
+Da análise dos autos, verifica-se que a Corte local extinguiu a ação cautelar sem resolução de mérito e julgou prejudicada a apelação interposta, em razão do julgamento da ação principal. Na ocasião, deixou de condenar a Fazenda Pública em custas e honorários sucumbenciais (fls. 718-720).
+A ora recorrente opôs embargos de declaração (fls. 813-826), pleiteando que o Tribunal a quo se manifestasse sobre o fato de a Fazenda Pública ter apresentado resistência ao pedido formulado na cautelar, fato que autorizaria a sua condenação ao pagamento de honorários de sucumbência.
+O Tribunal Regional rejeitou os embargos de declaração opostos, nos seguintes termos (fl. 821):
+Assim, o v. acórdão foi explícito quanto à inexistência de condenação em custas e arbitramento de honorários advocatícios.
+Ressalto que, conforme pacificado em reiterada jurisprudência, a medida cautelar antecipatória não comporta fixação de sucumbência, tendo em vista seu caráter instrumental, além da inexistência de conflito a ser resolvido, o qual será solucionado na ação principal (TRF 3ª Região, ApelReex 2005.61.26.000094-1, Terceira Turma, Relator Juiz Federal Convocado Claudio Santos, j. 07/05/09, DJe 19/05/2009; TRF 3ª Região, AC 0000194-67.2007.4.03.6100, Quinta Turma, Relator Desembargador Federal Paulo Fontes, j. 17/03/2014, e-DJF3 21/03/2014).
+Desse modo, não há que se falar em sucumbência de nenhuma das partes, não sendo o caso de condenação em honorários advocatícios, ou aplicação do princípio da causalidade.
+Ademais, desconstituir os fundamentos da decisão embargada implicaria, in casu, em inevitável reexame da matéria, incompatível com a natureza dos embargos declaratórios.
+É preciso, portanto, ressaltar que o v. acórdão embargado abordou todas as questões apontadas pela embargante, inexistindo nela, pois, qualquer contradição, obscuridade ou omissão.
+Assiste razão à parte recorrente quanto à apontada omissão do tribunal de origem em examinar, de forma específica e fundamentada, a alegação de que se houve resistência da Fazenda Pública ao pedido formulado na ação cautelar seria cabível sua condenação em honorários advocatícios.
+A omissão foi suscitada nos embargos de declaração opostos e, a despeito disso, o tribunal local permaneceu silente, quando deveria ter se pronunciado sobre a existência ou não de resistência da Fazenda ao pedido formulado.
+Deve-se, portanto, ser reconhecida a violação ao disposto no artigo 1.022, inciso II, do CPC, com a determinação do retorno dos auto à origem para que renove o julgamento dos embargos de declaração, de modo a suprir a omissão apontada.
+Ante o exposto, reconsidero a decisão de fls. 907-908 e, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração, por violação ao art. 1.022, II, do Código de Processo Civil, e determinar o retorno dos autos ao tribunal de origem para que outro seja proferido, de modo a suprir a omissão, nos termos expostos.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CAUTELAR EXTINTA SEM JULGAMENTO DE MÉRITO EM RAZÃO DO JULGAMENTO DA AÇÃO PRINCIPAL. APELAÇÃO PREJUDICADA. HONORÁRIOS ADVOCATÍCIOS. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022, AMBOS DO CPC. OMISSÃO. OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PROVIDO.
