@@ -1,0 +1,26 @@
+DECISÃO
+O retrospecto foi bem delineado no parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 153/156):
+Trata-se de Recurso Ordinário em Habeas Corpus, interposto por RAIMUNDO JOSÉ DOS REIS FILHO, contra acórdão proferido pelo Tribunal Regional Federal da 6ª Região (f. 109), que julgou prejudicado o Habeas Corpus em razão da perda superveniente do objeto, nos termos a seguir ementados:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. SENTENÇA CONDENATÓRIA SUPERVENIENTE. PERDA DE OBJETO. IMPROCEDÊNCIA DO AGRAVO INTERPOSTO.
+I. Caso em exame
+1. Habeas corpus impetrado para trancamento da ação penal nº 6004820-54.2024.4.06.3802, sob alegação de nulidade processual, cerceamento de defesa e ausência de justa causa para persecução penal.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se a superveniência de sentença condenatória prejudica o habeas corpus, originalmente impetrado para o trancamento da ação penal.
+III. Razões de decidir
+3. A superveniência de sentença condenatória constitui novo título judicial, substituindo o anterior e prejudicando o pedido de trancamento da ação penal, conforme dispõe a Súmula 648/STJ.
+4. Questões relativas à legalidade ou nulidade processual devem ser examinadas no recurso cabível contra a sentença condenatória, com efeito devolutivo amplo.
+5. O agravo interposto contra a decisão que indeferiu liminarmente o habeas corpus também perde objeto diante da sentença condenatória.
+IV. Dispositivo
+6. Habeas corpus julgado prejudicado por perda superveniente de objeto.
+7. Agravo improvido.
+Sustenta o recorrente, em apertada síntese, a necessidade de trancamento da ação penal, ao argumento de que "o caso em apreço, está (ou pelo menos "deveria" estar..) sob "Correição" conforme DETERMINADO pelo Conselho Nacional de Justiça por causa das ".. violações dos DIREITOS e GARANTIAS deste Advogado..", ora Recorrente, Ressalta - se, que o este Superior Tribunal de Justiça, JÁ RECONHECEU que o Tribunal Regional Federal, não toma qualquer providencias contra os ABUSOS do referido Magistrado, ora Recorrido; "Verifica-se, portanto, que a ausência de manifestação do eg. Tribunal a quo configurou indevida negativa de prestação jurisdicional". (HC 177017 / MG - Min. Messod Azulay Neto) Se não bastasse, verifica - se que o Juiz Federal, ora Recorrido, está respondendo Processos (CRIMINAIS, movidos por este Advogado, ora Recorrente..), acusado de responsabilidade pelas TORTURAS sofridas por este Advogado, ora Recorrente;" (f. 109)
+Aduz, ainda, "no campo das "preliminares" observa-se que o Feito (original..) corre em DESACORDO com o disposto na Sumula 43 do STJ Desta forma, deve ser "liminarmente" reconhecido a SUSPEIÇÃO do referido Juiz Federal, ora Recorrido; a INOBSERVANCIA da Sumula 643 deste Superior Tribunal; a FALTA DE JUSTA CAUSA para a presente persecução; o CERCEAMENTO DE DEFESA do Impetrante; as TORTURAS sofridas pelos Recorrente; e os ABUSOS do Impetrado, vez que, o Tribunal Regional Federal, apesar de regularmente provocado, RECUSOU a faze - lo (sic)" (f. 110) Não constam, nos autos, contrarrazões ministeriais. Vieram os autos a esta Procuradoria-Geral da República, para parecer.
+Ao final, opinou o Parquet pelo não conhecimento do recurso, mas pelo encaminhamento de cópia "dos presentes autos, bem como de todos aqueles envolvendo o magistrado e o recorrente, à Corregedoria do Conselho Nacional de Justiça e ao Conselho Federal da OAB, para as devidas apurações e, se for o caso, responsabilizações" (e-STJ fl. 156).
+É o relatório. Decido.
+Consta dos autos que o recorrente foi denunciado pela prática do delito previsto no art. 359 do Código Penal, por duas vezes, sobrevindo condenação, nos autos do Processo n. 6004820-54.2024.4.06.3802/MG, às penas de 3 anos, 9 meses e 15 dias de detenção, em regime semiaberto, substituída por duas restritivas de direitos (e-STJ fls. 104/106).
+Nesse contexto, consoante bem pontuou o Tribunal de origem, fica prejudicado o habeas corpus que visa ao trancamento da ação penal por alegada ausência de justa causa, nos termos do que dispõe a Súmula n. 648/STJ, segundo a qual " a  superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus" (Súmula 648, Terceira Seção, julgado em 14/4/2021, DJe 19/4/2021).
+Além disso, a leitura do acórdão aqui recorrido demonstra que as alegações de suspeição do Juiz de primeira instância, de cerceamento de defesa, de torturas sofridas pelo recorrente e de abusos cometidos pelo Juízo de piso, não foram apreciadas pelo Tribunal a quo, nem sequer foram alvo de eventual recurso de embargos de declaração por suposta omissão do julgado, não podendo por tal motivo serem analisadas por esta Corte, sob pena de indevida supressão de instância.
+De toda forma, compreendo que tais alegações refogem aos limites de cognição da via eleita, razão pela qual não se pode cogitar de indevida negativa de prestação jurisdicional porventura perpetrada pela instância antecedente, não se podendo olvidar que tais questionamentos poderão ser alvo de irresignação por meio de recurso de apelação.
+Ant e o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
