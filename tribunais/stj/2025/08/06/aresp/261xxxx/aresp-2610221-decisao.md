@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA AGRÁRIA XANXERÊ - COOPERXANXERÊ contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 730):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS. MANUTENÇÃO DA REJEIÇÃO DO PEDIDO DE JUSTIÇA GRATUITA E DEFERIMENTO DO PEDIDO DE PENHORA DE IMÓVEIS. INSURGÊNCIA DA PARTE EXECUTADA. JUÍZO DE ADMISSIBILIDADE. TESE DE EXCESSO DE PENHORA NO BOJO DO AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE AFERIR O ACERTO OU DESACERTO DA DECISÃO. INVIABILIDADE DE ANÁLISE NESTA INSTÂNCIA, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. PLEITO NÃO CONHECIDO. AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA DE SEGUNDO GRAU. JULGAMENTO DO AGRAVO DE INSTRUMENTO. PERDA DO OBJETO CARACTERIZADA. RECURSO NÃO CONHECIDO. MÉRITO. PENHORA DE BENS IMÓVEIS. ALEGADA OFENSA A ORDEM DO ARTIGO 835 DA LEI PROCESSUAL E AO PRINCÍPIO DA MENOR ONEROSIDADE DO DEVEDOR. INOCORRÊNCIA. ESGOTAMENTO DE OUTROS MEIOS DESNECESSÁRIA. GRADAÇÃO LEGAL DE BENS PASSÍVEIS DE PENHORA (ART. 835, CPC). FLEXIBILIZAÇÃO POSSÍVEL. NORMA QUE DISPÕE SOBRE MERA ORDEM DE PREFERÊNCIA. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO CONHECIDO EM PARTE E NÃO PROVIDO. AGRAVO INTERNO NÃO CONHECIDO.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o princípio da menor onerosidade e os arts. 805 e 835 do Código de Processo Civil/2015.
+Quanto à suposta ofensa ao art. 805 do CPC/2015, sustenta que a execução deve ser conduzida da forma menos onerosa para o executado, o que não foi observado na decisão recorrida.
+Argumenta, também, que a ordem de penhora estabelecida no art. 835 do CPC/2015 foi violada, pois não houve esgotamento das vias ordinárias para localização de bens passíveis de penhora.
+Alega que a execução movida pela parte contrária é baseada em um cheque sem garantia, o que torna a penhora dos imóveis excessivamente onerosa, o que teria sido demonstrado, no caso, por elementos probatórios.
+Contrarrazões ao recurso especial às fls. 769-777.
+O recurso especial não foi admitido com base nos enunciados das Súmulas 7 e 83 do Superior Tribunal de Justiça, por encontrar impedimento na jurisprudência da Corte Superior e pela necessidade de reexame de fatos e provas (fls. 780-783).
+Nas razões do seu agravo, a parte agravante impugna os fundamentos da decisão de admissibilidade, alegando que não busca o reexame fático-probatório, mas sim a correta aplicação dos artigos 805 e 835 do CPC.
+Foi apresentada contraminuta às fls. 769-777 na qual a parte agravada alega que o recurso especial não preencheu os requisitos essenciais para análise das questões de mérito, sustentando que não houve demonstração de contrariedade à lei federal.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de ação de execução de título extrajudicial ajuizada pela agravada em face da ora agravante, alegando ser credora da executada da importância corrigida e atualizada no valor de R$ 29.666,41 (vinte e nove mil, seiscentos e sessenta e seis reais e quarenta e um centavos), representado por cheque.
+O Juiz de primeira instância deferiu o pedido de penhora dos imóveis matriculados sob o nºs. 11.634, 9.149 e 68.733 (todos do CRI de Xanxerê) e registrados em nome da parte executada.
+A agravante interpôs recurso de agravo de instrumento contra essa decisão afirmando, que a penhora dos imóveis é nula, porque feriu a ordem do art. 835 do CPC/2015, bem como não observa o princípio da menor onerosidade para o devedor.
+O Tribunal de origem negou provimento ao agravo de instrumento, mantendo a decisão de penhora dos imóveis, sustentando que: (i) a gradação legal dos bens passíveis de penhora estabelecida no artigo 835 do Código de Processo Civil não é impositiva, mas sim, preferencial, de modo que a penhora dos imóveis não exige o esgotamento de outras vias; e (ii) é necessário destacar que aludido princípio, positivado no art. 805 da Lei Processual impõe sua análise em conjunto com o art. 6º, do mesmo Diploma Legal (princípio da cooperação), de modo que, se a parte sustenta existir outro meio de satisfazer o débito, deve, no mínimo, indicá-lo, sob pena de transparecer que seu comportamento não observa a boa-fé (CPC, art. 5º). Confira-se:
+É cediço que a gradação legal dos bens passíveis de penhora estabelecida no artigo 835 do Código de Processo Civil, "estruturada de acordo com o grau de aptidão satisfativa do bem penhorável, embora seja a regra, não tem caráter absoluto, podendo ser flexibilizada, em atenção às particularidades do caso concreto, sopesando-se, necessariamente, a potencialidade de satisfação do crédito, na medida em que a execução se processa segundo os interesses do credor (art. 797 do CPC/2015), bem como a forma menos gravosa ao devedor (art. 805 do CPC/2015)" (STJ, AgInt no AR Esp 1.532.932/DF, rel. Min. Marco Aurélio Bellizze, Terceira Turma, j. 23.3.2020).
+ ..
+Portanto, a gradação legal dos bens passíveis de penhora estabelecida no artigo 835 do Código de Processo Civil não é impositiva, mas sim, preferencial, de modo que a penhora dos imóveis não exige o esgotamento de outras vias.
+ ..
+Também, é necessário destacar que aludido princípio, positivado no art. 805 da Lei Processual impõe sua análise em conjunto com o art. 6º, do mesmo Diploma Legal (princípio da cooperação), de modo que se a parte sustenta existir outro meio de satisfazer o débito deve, no mínimo, indicá-lo, sob pena de transparecer que seu comportamento não observa a boa-fé (CPC, art. 5º)  ..  (fls. 727-729).
+Como se vê, o acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte no sentido de que a preferência do art. 835, § 3º, do CPC/2015 é relativa e pode ser mitigada em situações excepcionais, incidindo, portanto, o óbice da Súmula 83 do STJ. A saber:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PENHORA DE DIREITOS AQUISITIVOS. BENS DADO COMO GARANTIA REAL. REEXAME DE MATÉRIA FÁTICA-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, em desfavor de acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a penhora sobre direitos aquisitivos de imóveis.
+2. O Tribunal de origem rejeitou a impugnação à penhora, considerando a possibilidade de penhora de direitos aquisitivos de imóveis derivados de alienação fiduciária em garantia, conforme o artigo 835, XII, do CPC, e a jurisprudência do STJ.
+3. A decisão agravada considerou que a penhora não desrespeitou a ordem de preferência e que o princípio da menor onerosidade não afasta a necessidade de a execução atender ao interesse do credor.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a penhora de direitos aquisitivos de imóveis alienados fiduciariamente é desproporcional e se a ordem de preferência de penhora foi respeitada.
+5. A questão também envolve a análise da possibilidade de revisão do quadro fático-probatório em sede de recurso especial, à luz das Súmulas 7 e a incidência da Súmula 83 do STJ.
+III. Razões de decidir
+6. A jurisprudência do STJ estabelece que a preferência do art. 835, § 3º, do CPC/2015 é relativa e pode ser mitigada em situações excepcionais, o que foi demonstrado no caso concreto.
+7. A análise do conteúdo fático-probatório dos autos é inviável em recurso especial, conforme a Súmula 7 do STJ, que veda o reexame de provas.
+8. A decisão agravada está em consonância com a jurisprudência do STJ, conforme a Súmula 83, que impede o conhecimento do recurso especial quando o acórdão recorrido está alinhado com a orientação do Tribunal.
+IV. Dispositivo 9. Agravo interno não provido.
+(AgInt no AREsp n. 2.741.856/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 19/5/2025, DJEN de 26/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO APELO NOBRE - INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. O Tribunal de origem não enfrentou a questão atinente à desnecessidade da concordância do credor para a substituição da penhora, tampouco foram opostos embargos de declaração para esse fim, caracterizando-se a ausência de prequestionamento sobre o tema.
+Incidência das Súmulas 282 e 356 do STF.
+2. Segundo a orientação jurisprudencial desta Corte, "o princípio da menor onerosidade ao devedor não se sobrepõe à efetividade da tutela executiva e, portanto, é legitima a recusa do credor ao pedido de substituição do bem penhorado com preferência legal na ordem de penhora."(AgInt no AREsp n. 2.732.989/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/12/2024, DJEN de 19/12/2024). Aplicação da Súmula 83/STJ.
+3. Entendendo as instâncias de origem que não estão presentes circunstâncias aptas a justificarem a prevalência do princípio da menor onerosidade ao executado, inclusive porque não foi comprovado que a penhora dos veículos será de fato mais onerosa à executada, a revisão dessa conclusão é inviável, dado o óbice da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.755.830/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere à ausência de onerosidade na penhora dos bens, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
