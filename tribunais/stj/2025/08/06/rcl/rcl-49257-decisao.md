@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de reclamação ajuizada por FABRICIO FREIRE DA SILVA CEZARIO apontando o descumprimento, pelo JUIZ DE DIREITO DA 19ª VARA CRIMINAL DO FORO CENTRAL CRIMINAL DA BARRA FUNDA - SP , de julgado desta Corte (AREsp n. 2.861.110/SP) que declarou "a nulidade das provas obtidas mediante busca pessoal, bem como as delas decorrentes, e determinar o retorno dos autos ao Juízo de primeiro grau, para que profira novo julgamento, como entender de direito".
+O reclamante alega que " o Juízo Singular, em nova sentença, desrespeita, enfraquece e dá de ombros para a decisão de Vossa Excelência, pois utiliza como fundamento para ingresso na residência a suspeita gerada no ato da abordagem que se origem na via pública e, repito e repto, já reconhecida como ilegal. Em decorrência disso, o Juízo Singular está desrespeitando a decisão de Vossa Excelência, na medida em que em nova decisão justifica o ingresso dos milicianos na residência, sendo que foi decorrente da abordagem na via pública" (e-STJ fls. 2-5).
+A liminar foi indeferida (e-STJ fls. 24-25).
+As informações foram prestadas (e-STJ fls. 31-34).
+O Ministério Público Federal manifestou-se "pela procedência da reclamação, para anular a sentença proferida pelo juízo reclamado e determinar que outra seja prolatada, sem a consideração das provas obtidas mediante busca pessoal, bem como as delas decorrentes, como decidido no ARESP n. 2.861.110/SP" (e-STJ fls. 38-42).
+É o relatório.
+Decido.
+Conforme os artigos 105, I, f, da Constituição Federal e 187 do Regimento Interno do Superior Tribunal de Justiça, cabe reclamação, da parte interessada ou do Ministério Público, para preservar a competência deste Tribunal ou para garantir a autoridade de suas decisões.
+O Código de Processo Civil, em seu artigo 988, disciplinou o instituto de forma pormenorizada nos seguintes termos:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+§ 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+§ 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+§ 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+§ 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+§ 5º É inadmissível a reclamação:
+I - proposta após o trânsito em julgado da decisão reclamada;
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+§ 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+A Terceira Seção desta Corte, ao interpretar o § 5º do art. 988, II, do CPC, entendia também ser admissível a reclamação quando a decisão contrariasse acórdão proferido em julgamento de recurso especial repetitivo, desde que esgotada a instância ordinária.
+Ocorre que a Corte Especial, nos autos da Reclamação n. 36.476/SP (relatora Ministra Nancy Andrighi, julgado em 5/2/2020), decidiu, por maioria, não ser cabível reclamação para discutir a observância de precedente proferido em julgamento de recurso especial repetitivo
+Diante disso, conclui-se que a reclamação é medida excepcional, cabível no âmbito desta Corte exclusivamente nas seguintes hipóteses: (a) preservação da competência constitucional do Superior Tribunal de Justiça; e (b) manutenção da autoridade de decisão proferida nesta Corte Superior na análise do caso concreto (envolvendo as mesmas partes da decisão reclamada).
+No caso, a controvérsia foi muito bem analisada no parecer do Ministério Público Federal, cujos fundamentos adoto integralmente como razões de decidir (e-STJ fl. 42):
+Entende o STJ que a ilicitude da busca pessoal contamina as provas subsequentes, incluindo as drogas encontradas na residência do réu (AgRg no AREsp n. 2.352.878/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025). Assim, não se trata, aqui, de discutir a legalidade da entrada dos policiais no domicílio do reclamante, mas de constatar que só houve a entrada na residência porque encontrada droga durante a busca pessoal realizada previamente e anulada por essa Colenda Corte.
+Nesse sentido, já se decidiu no STJ, que "considerada nula a busca pessoal que precedeu a busca domiciliar, esta última é nula em virtude da Teoria dos Frutos da Árvore Envenenada (nulidade por derivação), e não em virtude da ausência de fundadas razões para a entrada no domicílio do réu sem mandado judicial" (AgRg no HC n. 781.451/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+(..)
+Contudo, o caso não é de verificar a licitude da prova obtida no apartamento do reclamante, mas de reconhecer que, na hipótese, se o STJ reconheceu a nulidade da busca pessoal, que foi a causa motivadora para a entrada dos policiais na residência, há evidente descumprimento da decisão proferida por essa Corte, porque toda a prova derivada da busca pessoal está contaminada por derivação.
+O Juízo reclamado consignou na nova sentença proferida que "o ingresso lícito na residência do réu, devidamente autorizado por escrito e consoante câmeras corporais e relatos testemunhais, permitiu o encontro de variedade e quantidade de drogas incompatíveis com o uso, de propriedade do denunciado. Há outras provas que arrimam a condenação, excluindo-se do acervo probatório a prova declarada nula pelo E. Superior Tribunal de Justiça" (e-STJ fl. 17).
+Ocorre que, como bem salientado pelo Ministério Público Federal em seu parecer, este Superior Tribunal de Justiça entende que "considerada nula a busca pessoal que precedeu a busca domiciliar, esta última é nula em virtude da Teoria dos Frutos da Árvore Envenenada (nulidade por derivação), e não em virtude da ausência de fundadas razões para a entrada no domicílio do réu sem mandado judicial" (AgRg no HC n. 781.451/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+No caso, portanto, as provas encontradas quando do ingresso (ainda que autorizado) no domicílio do réu são ilícitas por derivação, já que essa busca domiciliar, de acordo com os depoimentos prestados pelos dois policiais militares referidos na sentença (e-STJ fls. 15-16), foi motivada pela prévia abordagem de busca pessoal e pelo forte odor de maconha vindo da caixa encontrada na posse do acusado.
+Ante o exposto, julgo procedente o pedido formulado na presente reclamação , para anular a sentença proferida pelo Juízo reclamado e determinar que outra seja proferida, sem levar em consideração as provas obtidas mediante busca pessoal e as delas decorrentes, como decidido no ARESP n. 2.861.110/SP.
+Publique-se. Intimem-se.
+EMENTA
