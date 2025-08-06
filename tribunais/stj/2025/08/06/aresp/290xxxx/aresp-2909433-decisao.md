@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por Associação dos Advogados do Banco do Brasil - ASABB contra decisão que não admitiu o recurso especial manejado, com fulcro na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl . 576):
+EXECUÇÃO FUNDADA EM TÍTULO EXTRAJUDICIAL - PROCESSO EXTINTO EM RELAÇÃO A UM DOS COEXECUTADOS - Apelação interposta contra decisão que julgou extinto o processo em relação a um dos coexecutados, mas determinou o seu prosseguimento em relação aos demais - Decisão que não pôs termo ao processo - Incabível a interposição de apelação contra decisão interlocutória, sendo inaplicável, a este caso, o princípio da fungibilidade recursal, por se tratar de erro inescusável - O recurso cabível contra decisão que julga impugnação e não extingue a execução, é o agravo de instrumento - Artigo 1.015, parágrafo único, do CPC - Precedentes jurisprudenciais - RECURSO NÃO CONHECIDO.
+Os embargos de declaração opostos pela parte agravante foram rejeitados (fls. 612-617).
+Nas razões do recurso especial, a agravante alega que o acórdão recorrido violou os arts. 485, § 1º, do art. 203 e 1.009 do Código de Processo Civil, porque o julgado considerou inadequada a interposição de apelação contra o pronunciamento judicial proferido na origem, que extinguiu a execução em relação a um dos executados.
+O recurso especial não foi admitido por ausência de demonstração de vulneração aos dispositivos mencionados, bem como por incidência da Súmula 7/STJ.
+Após, a parte agravante interpôs agravo, reafirmando a violação à legislação e negando a incidência da Súmula 7/STJ. Não foram apresentadas contrarrazões ao recurso especial nem contraminuta ao agravo.
+Assim delimitada a controvérsia, passo à análise do recurso.
+Conforme delimitação fática contida no acórdão, na primeira instância tramita ação de execução fundada em título extrajudicial, em que foi extinto o processo em relação à parte agravada, com fundamento no art. 485, inciso IV, do CPC. O processo de execução, entretanto, prosseguiu em face de outros executados.
+Contra este pronunciamento, a parte agravante interpôs recurso de apelação, pleiteando a fixação de honorários advocatícios, todavia este recurso não foi conhecido pelo TJSP, por considerar que a natureza jurídica do pronunciamento é de decisão interlocutória, de modo que o recurso correto seria o agravo de instrumento. Além disso, não se aplicou o princípio da fungibilidade recursal sob o argumento de que se trata de erro inescusável.
+No caso dos autos, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência do STJ. De fato, o pronunciamento judicial que exclui um dos executados da relação processual, determinando o prosseguimento do feito em relação aos demais, possui natureza jurídica de decisão interlocutória, impugnável por meio do recurso de agravo de instrumento.
+O recurso de apelação somente teria cabimento na hipótese de ocorrer a extinção total da execução. Nesse sentido é a pacífica jurisprudência do STJ:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. ACOLHIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCLUSÃO DE LITISCONSORTE. CONTINUIDADE DA EXECUÇÃO. APELAÇÃO. INADEQUAÇÃO. AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE. ERRO GROSSEIRO.
+1. A decisão que acolhe exceção de pré-executividade para extinguir o processo quanto a alguns do executados, sem por fim à execução, deve ser desafiada por agravo de instrumento, caracterizando erro grosseiro a interposição de apelação.
+2. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp n. 1.260.926/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/3/2016, DJe de 22/3/2016.)
+Estando o acórdão recorrido em consonância com a orientação que se firmou na jurisprudência desta Corte , incide o óbice da Súmula 83/ STJ.
+Em face do exposto, nego provimento ao agravo.
+Por fim, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, quando o recurso é interposto contra decisão interlocutória em que não houve a fixação desses honorários (AgInt no AREsp n. 2.390.718/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023).
+Intimem-se.
+EMENTA
