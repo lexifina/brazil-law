@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2274, de 4 de agosto de 2025
+Altera a Instrução Normativa RFB nº 1.781, de 29 de dezembro de 2017, que dispõe sobre o regime tributário e aduaneiro especial de utilização econômica de bens destinados às atividades de exploração, desenvolvimento e produção das jazidas de petróleo e de gás natural - Repetro-Sped.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. da Lei nº 13.586, de 28 de dezembro de 2017, e na Lei nº 14.134, de 8 de abril de 2021, resolve:
