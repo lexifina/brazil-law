@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo interposto por LEONARDO PASCHOAL BRAGA DIAS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 68-69):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. DESCUMPRIMENTO DE CONTRATO DE ARQUITETURA. Agravo de instrumento interposto pelo 2º réu. A parte ré apresentou exceção de pré-executividade, aduzindo nulidade da citação, bem como ser parte ilegítima para figurar no polo passivo da presente demanda. A exceção de pré-executividade é medida excepcional, cujo cabimento condiciona-se estritamente aos casos em que se tratar de matéria de ordem pública e nulidade absoluta, onde os vícios alegados possam ser analisados ex officio pelo julgador, e que, igualmente, prescindam de dilação probatória. Citação por edital determinada após diligência de citação pessoal da parte ré no endereço indicado pelos sistemas conveniados ao TJRJ. Não há dúvidas de que houve diversas tentativas de localização de endereços nos meios disponíveis a época, pelo que resultaram esgotados, satisfatoriamente, os métodos de localização do 2º réu. Parte autora não fundamentou sua pretensão em relação ao agravante em razão de se tratar de sócio da empresa. Alegação de conluio do agravante com a empresa ré. Documentos juntados aos autos pela parte autora na inicial, em que se verifica que o agravante foi um dos responsáveis pela elaboração de projetos e estudo de viabilidade, bem como foi um dos responsáveis pela elaboração das plantas do projeto. Os elementos constantes dos autos não são suficientes a demonstrar com clareza alegada ausência de responsabilidade pelos danos suportados pela parte autora. As alegações ventiladas no recurso carecem de dilação probatória. Decisão mantida. DESPROVIMENTO DO RECURSO.
+Rejeitados os embargos de declaração opostos (fls. 131-134).
+No recurso especial, a parte recorrente alega violação dos arts. 256, inciso II e §3º, 373, inciso I, 485, inciso VI, e 17, todos do CPC.
+Sustenta, em síntese, que a citação por edital foi prematura e indevida, sem o esgotamento das tentativas de localização do recorrente.
+Argumenta que não tem nenhuma ligação com a relação contratual que deu origem à demanda, sendo ilegítimo para figurar no polo passivo.
+Requer efeito suspensivo.
+Foram oferecidas contrarrazões ao recurso especial (fls. 215-223; 224-237).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 239-243), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 291-294).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 256, inciso II e §3º, 373, inciso I, 485, inciso VI, e 17, todos do CPC, o recurso especial não merece prosperar, porquanto encontra óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO DE INSTRUMENTO. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. CITAÇÃO POR EDITAL. NULIDADE. NÃO OCORRÊNCIA. ESGOTAMENTO DAS TENTATIVAS DE LOCALIZAÇÃO DA PARTE RECONHECIDO. REFORMA DO JULGADO. REANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA PARTE, NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça de São Paulo decidiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. A jurisprudência desta Corte Superior entende que a citação por edital pressupõe o esgotamento dos meios de localização da parte, sob pena de nulidade.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+4. A não observância dos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.826.176/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CITAÇÃO POR EDITAL DECLARADA NULA. AUSÊNCIA DE ESGOTAMENTO DOS MEIOS PARA LOCALIZAÇÃO DO RÉU. TENTATIVA POR OFICIAL DE JUSTIÇA NÃO REALIZADA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência desta Corte se firmou no sentido de que a citação por edital, por ser medida excepcional, somente é admitida depois de esgotadas as tentativas de localização do endereço do devedor, para fins de citação pessoal, pelos correios ou por oficial de justiça. Precedentes.
+2. Hipótese em que o Tribunal de Justiça declarou a nulidade da citação por edital, haja vista não ter havido tentativa de citação por oficial de justiça, o que demonstra a ausência de esgotamento dos meios apta a ensejar a medida excepcional de citação por edital.
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.777.084/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva, pois os documentos juntados aos autos indicam que o agravante foi responsável pela elaboração de projetos e estudo de viabilidade e que houve esgotamento dos meios razoáveis de localização do endereço do réu antes da citação por edital exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO DE INSTRUMENTO. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. CITAÇÃO POR EDITAL. NULIDADE. NÃO OCORRÊNCIA. ESGOTAMENTO DAS TENTATIVAS DE LOCALIZAÇÃO DA PARTE RECONHECIDO. REFORMA DO JULGADO. REANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA PARTE, NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça de São Paulo decidiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. A jurisprudência desta Corte Superior entende que a citação por edital pressupõe o esgotamento dos meios de localização da parte, sob pena de nulidade.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+4. A não observância dos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.826.176/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Rever o entendimento do acórdão recorrido acerca da legitimidade passiva da recorrente ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial ante a Súmula 7 do STJ.
+2. "É ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019). Incidência da Súmula 83 do STJ.
+3. Alterar a conclusão acerca da configuração dos danos morais demandaria o necessário revolvimento dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial ante o óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.827.030/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. DESCUMPRIMENTO CONTRATO. CITAÇÃO EDITAL. ESGOTAMENTO DAS VIAS. SÚMULA 83/STJ. LEGITIMIDADE PASSIVA. REVISÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
