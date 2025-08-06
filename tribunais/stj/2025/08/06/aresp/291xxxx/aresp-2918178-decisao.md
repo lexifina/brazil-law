@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interposto por RAFAEL DE AZEVEDO BORGES DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Const ituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL cuja ementa guarda os seguintes termos (fl. 164):
+AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZAÇÃO POR DANOS MORAIS - CONSERTO DE APARELHO DE TELEVISÃO - OXIDAÇÃO NA PARTE INTERNA - INVERSÃO DO ÔNUS DA PROVA - REQUERIDA NÃO COMPROVOU O MAU USO DO APARELHO PELO AUTOR. VÍCIO OCULTO - RECLAMAÇÃO DO CONSUMIDOR DENTRO DO PRAZO DECADENCIAL DE 90 DIAS. DANO MATERIAL - COMPROVADO. DANO MORAL NÃO CONFIGURADO - MERO DISSABOR. RECURSO PARCIALMENTE PROVIDO. Aplica-se no caso a inversão do ônus da prova, haja vista a verosimilhança das alegações do autor, cabendo à requerida comprovar que o defeito constatado se deu em razão do mau uso pelo consumidor, ora apelante, o que não ocorreu. Não há falar em ausência de cobertura pela garantia do fabricante, pois, tratando-se de vício oculto - oxidação na parte interna de componentes do aparelho - em bem durável - aparelho de televisão, o direito decai em 90 (noventa) dias, iniciando-se a contagem a partir do momento em que evidenciado o defeito, nos termos do artigo 26, II, §3º, do CDC. Considerando o prejuízo suportado pelo autor para o conserto do aparelho de televisão, configurada está a responsabilização da requerida a restituir os valores pagos a título de dano material. Por outro lado, ausente a comprovação de que os fatos transbordam o mero dissabor, não há se falar em condenação por danos morais.
+Rejeitados os embargos de declaração opostos (fls. 199-207).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 141 e 492 do CPC; 18, §1º, II, do CDC; e 186 e 927 do Código Civil, sustentando: i) que não solicitou o recebimento de valor para conserto, o que diminui o valor do aparelho, devendo ser ressarcido pelo valor do aparelho novo; ii) que ocorreu julgamento extra petita, na medida em que o pedido inicial foi para recebimento de indenização no valor de um aparelho novo mas a condenação foi no sentido diverso do solicitado, ao determinar apenas do recebimento de valor relativo ao conserto do aparelho, o que ultrapassa os limites do pedido e fere o princípio da congruência; iii) alega fazer jus ao recebimento de indenização por danos morais.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 244-250).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 252-254), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 269-271).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, verifico que as razões veiculadas pela parte agravante mostram-se relevantes, razão pela qual o presente agravo deve ser convertido em recurso especial, a fim de possibilitar um melhor exame da controvérsia.
+Ante o exposto, dou provimento ao agravo para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIO OCULTO . AGRAVO CONHECIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
