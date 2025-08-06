@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por POTTENCIAL SEGURADORA S.A. em que aponta como suscitados o JUÍZO DE DIREITO DA 2A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP e o JUÍZO DA 10A VARA DO TRABALHO DE GUARULHOS - SP.
+Alega a suscitante a existência de conflito de competência em razão dos seguintes fundamentos (fls. 3-14):
+1. Embora a Pottencial Seguradora S/A, ora suscitante, não figure como parte na Reclamação Trabalhista nº 1000692-44.2022.5.02.0320, em fase de Execução, sua legitimidade para propor o presente Conflito Positivo de Competência é patente, haja que está sujeita diretamente à eficácia da ordem exarada do Juízo da 10ª Vara do Trabalho de Guarulhos (Docs. 3 e 5), que determinou o pagamento da indenização securitária no valor de R$ 9.100,00 (nove mil e cem reais), correspondente ao Limite Máximo de Garantia (LMG) da Apólice de Seguro Garantia nº 0306920239907750832761000, contratada pela Reclamada - Gocil Serviços Gerais Ltda. - Em Recuperação Judicial, para garantia do Recurso Ordinário interposto nos autos supracitados.
+ ..
+3. Primeiramente, insta salientar que o sinistro restou caracterizado em 11/10/2023, com o trânsito em julgado do recurso garantido, conforme previsto no item 5.1. das Condições Contratuais da Apólice.
+ ..
+5. O pedido de Recuperação Judicial ocorreu em 29/09/2023, data anterior à ocorrência do sinistro (Doc. 7), com prorrogação do stay period em decisão proferida em 13/05/2024 (Doc. 8).
+6. Tem-se, portanto, que o sinistro restou caracterizado em momento posterior ao pedido de Recuperação Judicial. Tal controvérsia resta pacificada no âmbito deste Egrégio Superior Tribunal de Justiça, que reconhece ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas que estejam envolvidos os interesses e bens da recuperanda, bem como para deliberar acerca da caracterização do sinistro e liberação do seguro-garantia judicial, que somente poderá ser exigido da Seguradora caso tenha ficado caracterizado em momento anterior ao do pedido de recuperação.
+ ..
+20. Conforme visto, ao determinar que a Suscitante realizasse o pagamento da indenização securitária no valor de R$ 9.100,00 (nove mil e cem reais) correspondente ao valor garantido, o Juízo Trabalhista - 10ª Vara do Trabalho de Guarulhos, data venia, extrapolou os limites da jurisdição trabalhista, cuja competência, ante o deferimento da Recuperação Judicial.
+ ..
+32. Isto posto, dúvida não resta que o juiz Trabalhista, ao determinar o pagamento da indenização securitária, violou os limites da competência da Justiça Trabalhista, motivo pelo qual, far-se-á necessário que este Colendo Tribunal de Justiça, conheça do presente Conflito de Competência, declarando-se a competência exclusiva do Juízo da Recuperação Judicial (2ª Vara de Falências e Recuperações Judiciais da Comarca de São Paulo), para decidir acerca da sujeição do crédito do Exequente, à Recuperação Judicial da Recuperanda.
+Por meio da decisão de fls. 92-94, a Vice-Presidência desta Corte deferiu o pedido de liminar para suspender a determinação de pagamento da indenização securitária até o julgamento deste conflito, designando o Juízo da 2ª Vara de Falências e Recuperações Judiciais da Comarca de São Paulo para resolver, em caráter provisório, as questões urgentes.
+Informações prestadas pelo JUÍZO DA 10A VARA DO TRABALHO DE GUARULHOS - SP às fls. 97-107 e pelo JUÍZO DE DIREITO DA 2A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP às fls. 110-113.
+Parecer do MPF, às fls. 115-119, opinando pelo não conhecimento do conflito de competência.
+É, no essencial, o relatório.
+Em atenção às alterações promovidas pela Lei n. 14.112/20, em especial a previsão do art. 6º, § 7º-B, da Lei n. 11.101/2005, é firme a jurisprudência desta Corte no sentido de que para a caracterização do conflito de competência perante o STJ é necessária a materialização da oposição concreta do Juízo da execução à efetiva deliberação do Juízo recuperacional a respeito do ato constritivo (CC 181.190, Segunda Seção, DJe 7/12/2021).
+Da análise dos autos, observa-se que o Juízo trabalhista determinou o pagamento de indenização securitária, conforme previsto na apólice do seguro garantia contratado pela empresa recuperanda, com a finalidade de assegurar o recurso ordinário interposto na reclamação trabalhista.
+Ademais, percebe-se que o próprio Juízo universal reconhece a legitimidade do pagamento da indenização securitária, inexistindo oposição concreta à determinação do Juízo trabalhista. Vejamos (fl. 111):
+5) Não é caso, contudo, de acolhimento da pretensão da seguradora. O pagamento da indenização é devido pois a obrigação da seguradora perante o credor é distinta daquela da recuperanda perante o trabalhador.
+Na forma do §1º do art. 49 da lei 11.101/05, Os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso. Assim, ainda que o devedor esteja em recuperação, a seguradora responde perante o beneficiário do seguro.
+Nem se alegue o trânsito em julgado após a data do pedido de recuperação exoneraria a seguradora do pagamento. A finalidade econômica do seguro estaria frustrada se houvesse tal possibilidade de negativa perante o beneficiário. Foi exatamente para isso que o seguro foi contratado: beneficiar o trabalhador de uma inadimplência do empregador.
+6) Portanto, a indenização deve ser paga, sub-rogando-se a seguradora nos direitos do trabalhador habilitado perante a recuperação, conforme dispõem os arts. 349 e 786, CC.
+Desse modo, a inexistência de decisões contraditórias entre o Juízo do trabalho e o Juízo da recuperação judicial demonstra a ausência de conflito de competência a ser resolvido. A propósito, cito:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NÃO OPOSIÇÃO DO JUÍZO DA FALÊNCIA. CONFLITO NÃO CARACTERIZADO. AGRAVO INTERNO DESPROVIDO.
+1. Não se caracteriza conflito de competência quando inexiste oposição do juízo da recuperação a ato constritivo determinado pelo juízo da execução. Precedentes.
+2. Não caracteriza conflito de competência a instauração de incidente de desconsideração da personalidade jurídica da empresa em recuperação judicial ou falida feita pela Justiça do Trabalho, direcionando os atos de execução provisória para os sócios da falida. Isso porque, em princípio, salvo decisão do Juízo universal em sentido contrário, os bens dos sócios ou de outras sociedades do mesmo grupo econômico da devedora não estão sujeitos à recuperação judicial ou à falência. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no CC n. 196.577/SC, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 14/8/2024, DJe de 30/8/2024.)
+PEDIDO DE RECONSIDERAÇÃO. CONFLITO DE COMPETÊNCIA. RECEBIMENTO COMO AGRAVO INTERNO. JUSTIÇA TRABALHISTA E FALÊNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. Conforme entendimento da Segunda Seção do STJ, em hipóteses envolvendo execuções contra empresas em recuperação judicial ou em processo de falência, a caracterização do conflito de competência ocorre quando houver decisões conflitantes proferidas pelos juízos apontados como suscitados, situação não verificada na hipótese.
+2. Agravo interno não provido.
+(RCD no CC n. 200.551/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 5/3/2024, DJe de 7/3/2024.)
+Ante o exposto, não conheço do conflito de competência, bem como revogo a liminar deferida.
+Comunique-se o teor da presente decisão aos juízos suscitados.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E EXECUÇÃO TRABALHISTA. INDENIZAÇÃO SECURITÁRIA. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
