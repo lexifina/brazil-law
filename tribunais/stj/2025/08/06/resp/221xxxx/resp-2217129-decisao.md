@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se agravo interposto por ANDERSON LIRMAN ANTUNES contra decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial aviado com fundamento na alínea "a" do permissivo constitucional contra acórdão proferido na Revisão Criminal n. 41507-80.2024.8.16.0000.
+A controvérsia foi bem delineada no parecer ministerial, in verbis (e-STJ fls. 204/205):
+ ..  contra v. Acórdão proferido pelo Tribunal de Justiça daquele Estado que deu parcial provimento à revisão criminal nº 41507-80.2024.8.16.0000, reduzindo a pena do réu para 21 anos, 10 meses e 15 dias, restando assim ementado (fl. 98):
+"REVISÃO CRIMINAL - JÚRI - HOMICÍDIO TRIPLAMENTE QUALIFICADO - VEREDITO CONDENATÓRIO - PRETENDIDA REDUÇÃO DA RESPOSTA PENAL:
+I. PENA-BASE - AVALIAÇÃO NEGATIVA DA CULPABILIDADE - MOTIVAÇÃO IDÔNEA - MANUTENÇÃO. II. CONFISSÃO ESPONTÂNEA (PARCIAL) - RECONHECIMENTO - REDUÇÃO DA PENA. PEDIDO PARCIALMENTE PROCEDENTE".
+Ofertados embargos de declaração, foram rejeitados com a seguinte ementa (fl. 69):
+"EMBARGOS DE DECLARAÇÃO - ALEGADA OMISSÃO - VÍCIO INEXISTENTE - PRETENDIDO REEXAME DA MATÉRIA DECIDIDA - INVIABILIDADE - REJEIÇÃO. Desatendem aos seus fins embargos de declaração opostos com o indevido propósito de infringir julgado que não se ressente dos defeitos relacionados no art. 619 do Código de Processo Penal".
+Trata-se, ainda, de agravo em recurso especial interposto por ANDERSON LIRMAN ANTUNES contra decisão da 1ª Vice-Presidência do Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial em razão da fundamentação deficiente no que concerne à violação ao artigo 621 do Código de Processo Penal, incidindo o teor da Súmula 284/STF; bem como encontra-se a decisão recorrido em conformidade com a jurisprudência do Superior Tribunal de Justiça no que diz respeito à utilização da revisão criminal como substituta de apelação ou recurso especial; e ausência de interesse recursal em relação a confissão espontânea, atraindo a Súmula 284/STF (fls. 118/123). Nas razões de seu agravo em recurso especial a defesa alega "não há que se falar em incompatibilidade entre a tese recursal e o dispositivo legal indicado, razão pela qual é incabível a incidência da Súmula 284/STF. A controvérsia foi devidamente delimitada e compreensível, e a ausência de maiores considerações técnicas na decisão agravada apenas reforça a necessidade de sua reforma" (fls. 174/181).
+Requer o processamento do recurso especial. Contraminuta apresentada às fls. 184/185.
+Opinou, então, o órgão ministerial pelo não conhecimento do recurso.
+Decido.
+Preliminarmente, para que o recurso especial seja considerado admissível, é necessária a indicação dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão recorrido teria afrontado cada um deles, providência da qual não se desincumbiu a defesa do ora recorrente.
+Nas razões do recurso especial, a defesa se volta contra a elevação da pena básica mantida pela Corte de origem, nos seguintes termos (e-STJ fl. 48, grifei):
+Conforme se apurou, Anderson fez uso de excessiva violência contra a própria Tia, pessoa com quem habitou dias antes do homicídio, tudo a denotar o elevado grau censurabilidade de de sua conduta, justificando-se, por efeito, a exasperação da pena-base.
+ ..
+2.2. Não se verifica, outrossim, nenhum "erro" no acréscimo realizado: partindo-se da sanção mínima (12 anos) em abstrato, empregou-se, para cada vetorial negativa, o aumento de 2 anos e 3 meses (equivalente a 1/8 do intervalo das penas mínima e máxima cominadas no preceito secundário do art. 121-§2º da Lei Penal), alcançando-se 18 anos e 9 meses de reclusão.
+Tal proceder, aliás, encontra conforto na jurisprudência da e. CORTE DE UNIFORMIZAÇÃO: "Considerando o silêncio do legislador, a doutrina e a jurisprudência e passaram a reconhecer como critérios ideais para a individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo pena abstratamente estabelecida preceito secundário do tipo penal incriminador"  3 .
+Pois bem, sobre tais pontos, a defesa alega que (e-STJ flS. 89/90, grifei):
+Deste modo a pena base é de 12 anos, com o acréscimo de duas circunstâncias - (12 anos  2 x 1/8 = 14 anos, 11 meses e 24 dias). Porém foi aplicado no final desta fase (em 18 anos e 9 meses de reclusão). O que não corresponde ao cálculo matemático seguindo a própria fração utilizada já que 1/8 corresponde a 12.5% que de 12 anos, corresponde 547 dias correspondente a 1 ano, 5 meses e 27 dias e não 2 anos e 3 meses conforme o acréscimo aplicado.
+ ..
+Além do mais, verifica-se que a culpabilidade ficou dentro da própria normativa do tipo penal. Atualmente, não há nenhum entendimento jurisprudencial pacificado que, provocar dor na morte de alguém, eleva a culpabilidade do agente, uma vez que não há morte sem dor. Umas mais, outras menos é claro.
+Contrariando o explanado na sentença, a lesão provocada pelo réu foi a causa da morte. E não se lesionou para matar. Indiferente se o réu queria ou não matar, como o conselho de sentença entendeu assim, o estrangulamento e a asfixia foi o método utilizado para matar. Assim, já está qualificado como o tipo penal do artigo 121 § 2oinciso III do CPP.
+A meu ver, as razões defensivas utilizadas para informar o aumento da pena na primeira fase são truncadas e confusas.
+De fato, os fundamentos do acórdão para manter a elevação da pena básica foram uso de excessiva violência contra a própria tia, pessoa com quem o réu habitou dias antes do homicídio e não a dor.
+Ainda, a defesa cita que o estrangulamento/asfixia foi o método utilizado para matar, o que foi corroborado pelo acórdão, de modo que não se apontou meio diverso.
+Ora, o inconformismo apresenta fundamentação dissociada das razões expostas no acórdão recorrido, impedindo, assim, a exata compreensão da controvérsia (Súmula n. 284/STF).
+No mais, a defesa alega que o acórdão recorrido "merece reparo pelo não reconhecimento da atenuante pela confissão do réu nos termos que estabelece o artigo 65, III, d, do Código Penal" (e-STJ fl. 92).
+Todavia, no ponto, como bem assentado na decisão que inadmitiu o recurso especial, verifica-se a falta de interesse recursal do ora recorrente, tendo em vista que a irresignação exposta no apelo extremo foi integralmente provida pelo Tribunal de origem.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OPERAÇÃO PUBLICANO XIII. NULIDADE DA BUSCA E APREENSÃO. AUSÊNCIA DE INTERESSE RECURSAL. DESENTRANHAMENTO DE PROVAS. SUPRESSÃO DE INSTÂNCIA. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. NÃO CONFIGURAÇÃO. AGRAVO NÃO PROVIDO.
+1. O acórdão combatido foi expresso ao reconhecer a nulidade da diligência de busca e apreensão considerada ilícita pelo Supremo Tribunal Federal, o que denota a ausência de interesse recursal no ponto.
+2. O desentranhamento do resultado da diligência em questão não foi objeto de manifestação da Corte estadual, o que inviabiliza o acolhimento do pleito nesta oportunidade, por configurar supressão de instância.
+3. A denúncia é formalmente apta e está lastreada em outros elementos, além das declarações de corréu colaborador, tais como resultado de diligências de quebra de sigilo bancário e fiscal e provas colhidas durante a instrução processual em outras ações penais vinculadas à Operação Publicano, como bem delineando na decisão agravada.
+4. Agravo não provido. (AgRg no RHC n. 132.337/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
