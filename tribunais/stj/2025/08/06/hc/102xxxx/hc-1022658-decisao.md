@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habe as corpus, com pedido liminar, impetrado em favor de JOAO RAFAEL BULGACOW contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que, nos autos do Agravo em Execução n. 8001019-16.2025.8.24.0023, negou provimento, mantendo a negativa da continuidade delitiva (Execução n. 9001457-87.2023.4.04.7200, Vara de Execuções Penais da Capital - Meio Fechado e Semiaberto - Florianópolis/SC).
+A defesa alega, em síntese, que a defesa informa que o paciente foi condenado às penas de 5 anos, 3 meses e 22 dias de reclusão pela prática do crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006), 8 anos, 1 mês e 15 dias de reclusão pela prática do crime de tráfico internacional de drogas (art. 33, c/c o art. 40, I, da Lei n. 11.343/2006) e 5 anos e 6 meses de reclusão pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), totalizando 18 anos, 11 meses e 7 dias de pena privativa de liberdade.
+Alega que há flagrante ilegalidade na decisão que indeferiu o pedido de reconhecimento da continuidade delitiva entre os fatos 2 e 3 da ação penal, ambos tipificados como tráfico de drogas, argumentando que as condutas guardam vínculo temporal, espacial e finalístico suficiente para autorizar o reconhecimento da continuidade delitiva, nos moldes do art. 71 do Código Penal.
+Sustenta que a decisão violou o direito fundamental de acesso à jurisdição, consagrado no art. 5º, inciso XXXV, da Constituição da República, ao deixar de apreciar o mérito da postulação.
+Pede, em caráter liminar e no mérito, o reconhecimento da continuidade delitiva entre os fatos 2 e 3 da Ação Penal n. 5016163-56.2017.4.04.7200, com a consequente unificação das penas, nos termos do art. 71 do Código Penal. Subsidiariamente, requer o retorno dos autos ao Juízo da execução para análise da continuidade delitiva entre os fatos 2 e 3 (fls. 2/12).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+Nos termos da jurisprudência deste Tribunal Superior, é possível, na fase da execução, a unificação das penas aplicadas em processos diferentes, que tramitaram em distintas competências, pelo reconhecimento da continuidade delitiva. Entretanto, se na mesma sentença o réu foi condenado por dois ou mais crimes, em concurso material ou formal, não cabe ao Juiz das Execuções reexaminar e alterar o título definitivo para identificar a ficção jurídica do delito único (art. 71 do CP), sob pena de ofensa à coisa julgada (AgRg no AREsp n. 1.422.493/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/5/2021, DJe de 21/5/2021).
+No mesmo sentido: AgRg no HC n. 894.950/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024.
+No caso, o paciente pretende o reconhecimento, perante o Juízo da Execução, da continuidade delitiva entre fatos objeto da mesma ação penal. Assim, o acórdão está em consonância com a jurisprudência, não havendo ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO DE CONTINUIDADE DELITIVA ENTRE FATOS OBJETO DE CONDENAÇÕES DIFERENTES. POSSIBILIDADE. PRETENSÃO DE RECONHECIMENTO DE CONTINUIDADE DELITIVA ENTRE FATOS OBJETO DA MESMA AÇÃO PENAL. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
