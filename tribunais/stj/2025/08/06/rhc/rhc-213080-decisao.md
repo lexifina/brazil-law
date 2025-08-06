@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JOSÉ DEIVYD BEZERRA DE FRANÇA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado:
+Ementa: Direito processual penal. Habeas corpus substitutivo de revisão criminal. Alegação de nulidade no julgamento em plenário do júri. Ausência de alegação no momento oportuno. Nulidade de algibeira. Inexistência de ilegalidade. Habeas corpus não conhecido. decisão unânime.
+I. Caso em exame
+1. Trata-se de habeas corpus substitutivo de revisão criminal contra decisão condenatória transitada em julgado pelo crime de homicídio qualificado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível reconhecer, em sede de habeas corpus substitutivo de revisão criminal, nulidade supostamente ocorrida durante o julgamento em plenário do júri pelo fato de o réu, ora paciente, ter ficado sentado de costas para os jurados.
+III. Razões de decidir
+3. A jurisprudência do STJ tem reconhecido a inadmissibilidade da alegação de nulidade em sede de revisão criminal quando esta poderia ter sido arguida em momentos processuais anteriores, sob pena de configurar nulidade de algibeira.
+4. No caso em análise, a defesa teve a oportunidade de alegar a suposta nulidade durante o julgamento em plenário do júri, mas manteve-se inerte, buscando apenas em sede deste writ substitutivo de revisão criminal o reconhecimento da nulidade.
+IV. Dispositivo e tese
+5. Habeas corpus não conhecido por inexistência de ilegalidade.
+Tese de julgamento: "Não se conhece de suscitação de nulidade que teria ocorrido durante o julgamento perante o tribunal do júri em sede de habeas corpus substitutivo de revisão criminal quando a parte teve a oportunidade de argui-la no momento pro cessual oportuno, mas não o fez, o que configura nulidade de algibeira."
+A parte recorrente alega que houve nulidade absoluta do julgamento realizado em 05 de setembro de 2016, por ter o paciente permanecido de costas para o Conselho de Sentença durante todo o ato, violando o princípio da dignidade da pessoa humana e comprometendo a plenitude da defesa ao impedir o contato visual com os jurados. Sustenta que tal prática desumanizou o acusado e transmitiu mensagem subliminar de culpabilidade, configurando constrangimento ilegal sem previsão legal. Refuta a aplicação da teoria da "nulidade de algibeira", defendendo tratar-se de nulidade absoluta que não se convalida com o tempo por envolver garantias constitucionais fundamentais. (e-STJ fls. 1157-1162).
+Contrarrazões apresentadas (e-STJ fls.1167 - 1176).
+O Ministério Público Federal opinou pelo "não conhecimento do recurso ordinário em habeas corpus" (e-STJ fls. 1182 - 1186).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da im petração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro ilegalidade ou constrangimento ilegal a serem sanados pela via do habeas corpus.
+A análise dos elementos constantes dos autos revela que o recorrente foi regularmente processado e julgado pelo Tribunal do Júri da Comarca de Caruaru, sendo condenado pela prática de homicídio duplamente qualificado. Durante o julgamento em plenário, segundo alegado pela defesa, o acusado teria permanecido de costas para os jurados durante toda a sessão, circunstância que ora pretende ver declarada nula.
+Conforme detalhadamente relatado pelo Tribunal de Justiça do Estado de Pernambuco, após a condenação em primeiro grau, a defesa interpôs todos os recursos cabíveis, percorrendo as instâncias ordinárias e superiores. Foram manejados apelação, recurso especial, agravo em recurso especial, recurso extraordinário e agravo em recurso extraordinário, não obtendo êxito em qualquer das vias impugnativas utilizadas. A decisão condenatória transitou definitivamente em julgado em maio de 2021, adquirindo a estabilidade própria da coisa julgada.
+Após a estabilização da condenação, foi impetrado habeas corpus perante a Corte estadual alegando a irregularidade ora em discussão. Fica clara a intenção de utilização da via como segunda apelação ou sucedâneo de revisão criminal, o que é vedado pela jurisprudência consolidada dos Tribunais Superiores. O habeas corpus não se presta a rediscutir matéria já definitivamente julgada, especialmente quando a parte dispôs de amplas oportunidades para questionar eventuais vícios processuais.
+Ademais, segundo o Tribunal de origem, a referida tese somente foi suscitada nesta oportunidade, demonstrando típica nulidade de algibeira. Durante todo o desenrolar processual, incluindo o próprio julgamento em plenário e os múltiplos recursos subsequentes, em momento algum a defesa questionou a alegada irregularidade.
+O procedimento do júri prevê expressamente que eventuais nulidades do julgamento em plenário devem ser arguidas imediatamente, sob pena de preclusão,
+Como é de conhecimento, "a jurisprudência dos Tribunais Superiores não tolera a referida nulidade de algibeira - eiva esta que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada como estratégia, numa perspectiva de melhor conveniência futura" (AgRg na RvCr n. 5.565/RS, Relator Ministro JESUÍNO RISSATO, Desembargador Convocado do TJDFT, Terceira Seção, julgado em 23/11/2022, DJe de 29/11/2022).
+Sendo assim, não vislumbro qualquer ilegalidade ou constrangimento ilegal que mereça ser sanado pela via do habeas corpus.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+ EMENTA
