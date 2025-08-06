@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ contra acórdão do Tribunal de Justiça daquela Unidade da Federação, proferido no julgamento da Apelação Criminal n. 0009468-06.2020.8.16.0021.
+Consta nos autos que o recorrido foi condenado, em primeiro grau, à pena de 7 (sete) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, substituída por duas sanções restritivas de direitos, em razão da prática do crime previsto no art. 121, § 2º, inciso IV, c/c o art. 14, inciso II, ambos do Código Penal. Na sentença, foi decretada a perda do cargo público por ele ocupado, com fundamento no art. 92, inciso I, do Código Penal.
+O Tribunal de origem deu parcial provimento ao recurso de apelação defensivo, a fim de reduzir a pena privativa de liberdade ao patamar de 4 (quatro) anos de reclusão e excluir a perda da função pública.
+Houve embargos de declaração, que foram não acolhidos.
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea "a", da Constituição Federal, o Parquet estadual aponta contrariedade aos arts. 14, inciso II, parágrafo único, e 92, inciso I, alínea "a", ambos do Código Penal.
+Argumenta, em síntese, que o Tribunal de origem violou o art. 14, inciso II, parágrafo único, do Código Penal, ao reduzir a pena no patamar máximo de 2/3 (dois terços), mesmo reconhecendo a prática de tentativa cruenta. Além disso, sustenta que houve violação ao art. 92, I, "a", do Código Penal, ao afastar a perda da função pública, apesar de o crime ter sido praticado com abuso de poder e violação de dever para com a Administração Pública.
+Requer, ao final, o restabelecimento da sentença no tocante à fixação da fração de redução da pena pela tentativa no grau intermediário, assim como à perda da função pública.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso especial (fls. 2386-2392).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+O Tribunal de origem justificou a aplicação da fração máxima de redução da pena pela tentativa nos seguintes termos (fls. 2123-2124; grifamos):
+Quanto à fração da tentativa, não se ignora o grosso calibre do armamento utilizado pelo recorrido, nem os ferimentos da vítima, entretanto, os elementos constantes nos autos, e citados no v. Acórdão embargado, demonstraram que o iter criminis ficou longe de se consumar.
+Conforme assentado no colegiado, a vítima deu entrada no hospital decisum "consciente, pouco comunicativo, calmo, respiração espontânea (..) sem intercorrências (..)". Corrobora a ausência de risco de morte o fato de que a cirurgia somente foi realizada cinco dias após seu internamento, e sua alta ocorreu no dia seguinte ao procedimento, conforme expressamente consignado no voto embargado (mov. 53.1 - fl. 23 - AP).
+Destaque-se, com muita ênfase, que o bem jurídico maior (a vida) de fato foi ameaçado, pois a vítima foi realmente alvejada, entretanto, tais ferimentos, segundo as provas dos autos, não a expuseram a perigo de morte.
+Sobre a matéria, Guilherme de Souza Nucci explica:
+(..)
+Também não se desconhece a existência de julgados no sentido de que a tentativa cruenta enseja aplicação da menor fração de diminuição, porém, neste caso específico as condições do ofendido não demonstraram grande percurso do iter criminis, muito menos seu exaurimento, a ponto de justificar a incidência da menor porcentagem da referida fração.
+Não se desconhece o pacífico entendimento jurisprudencial desta Corte, segundo o qual a avaliação do iter criminis percorrido pelo acusado, para que seja revisto o quantum aplicado pelo reconhecimento da tentativa, enseja o revolvimento de fatos e provas, vedado no âmbito do recurso especial, nos termos da Súmula n. 7/STJ. Essa óbice, porém, não se confunde com a revaloração dos elementos fáticos-probatórios, perfeitamente cabível pela via recursal em tela, notadamente nos casos em que o exame da pretensão ventilada na insurgência prescinde de qualquer inversão das premissas fáticas delineadas pela Jurisdição Ordinária.
+No caso, como reconhecido no acórdão recorrido, a vítima foi alvejada por disparos de arma de fogo de grosso calibre e precisou de internação hospitalar por seis dias, período no qual foi submetida a procedimento cirúrgico. Nesse cenário, vê-se que, a despeito do entendimento da Corte local no sentido de que o iter criminis ficou longe de se consumar, houve considerável avanço na execução do delito, que configurou inclusive a tentativa cruenta.
+Concluo, portanto, que o julgado está em desarmonia com a jurisprudência do Superior Tribunal de Justiça, segundo a qual a tentativa cruenta não enseja aplicação da fração máxima de 2/3, justificando-se a aplicação de fração intermediária (AgRg no AREsp n. 2.840.684/DF, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025).
+Ilustrativamente:
+(..)
+6. A fração redutora da tentativa é aplicada "de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição" (AgRg no HC n. 742.479/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 21/6/2022, DJe de 29/6/2022). No caso, as vítimas foram alvejadas por disparos de arma de fogo e chegaram a ficar hospitalizadas por alguns dias, o que torna adequada a aplicação da fração mínima (um terço).
+(..)
+(HC n. 799.756/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/2/2023, DJe de 9/3/2023).
+(..)
+3. A fração relativa à causa de diminuição de pena pela tentativa deve levar em consideração o iter criminis percorrido pelo agente, quanto mais se aproximar da consumação, menor será a fração da causa de diminuição.
+4. Na hipótese, a vítima foi atingida pelo disparo de arma de fogo, levada ao hospital e submetida a pequena cirurgia, sendo desproporcional a redução em 2/3, fração adotada quando a vítima sequer chega a ser atingida.
+5. Não há se falar em bis in idem, em face da valoração negativa das consequências do delito, fundada no real grau de violação sofrido pelo bem jurídico tutelado, e a fração de redução da pena aplicada em decorrência da minorante da tentativa, nesse aspecto considerado o iter criminis percorrido pelo agente (ut, AgRg no AREsp n. 1.881.761/CE, desta Relatoria, DJe de 20/9/2021.)
+6. Agravo regimental não provido.
+(AgRg nos EDcl no REsp n. 2.113.712/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024).
+Portanto, entendo ser a hipótese de alterar a fração pela tentativa aplicada no acórdão, para, em conformidade com o quadro fático narrado nos autos, restabelecer o patamar intermediário (1/2) da causa de diminuição, bem fundamentado na sentença condenatória ao considerar que o iter criminis foi percorrido com larga intensidade, caminhando e muito na linha da execução (fl. 1772).
+No mais, consta que a sentença impôs a perda do cargo público conforme a fundamentação a seguir (fl. 1777):
+Decreto a perda do cargo público - policial militar, na forma disciplinada pelo art. 92, I, do Código Penal. Isso porque a condenação se deu por fato praticado no curso da função pública, além do que a pena imposta é superior a 4 (quatro) anos de reclusão.
+O Tribunal a quo, por sua vez, assim afastou o referido efeito da condenação (fls. 2124-2125):
+O artigo 92, I, "a", do CP, prevê que:
+"Art. 92 - São também efeitos da condenação:
+I - a perda de cargo, função pública ou mandato eletivo:
+a) quando aplicada pena privativa de liberdade por tempo igual ou superior a um ano, nos crimes praticados com abuso de poder ou violação de dever para com a Administração Pública;" (sublinhei)
+Pois bem, conforme assentado por ocasião do afastamento das circunstâncias judiciais, "(..) mesmo praticando a tentativa de homicídio, o fato do recorrente atuar como policial militar, utilizando-se de uma arma fornecida pela Corporação, não deve ser considerado em seu desfavor para fins de valoração na primeira fase da dosimetria, pois fora designado para averiguar suposta situação de esbulho possessório praticado por diversas pessoas armadas, o que justificava a utilização da arma da Corporação, bem como sua presença no local como Policial Militar. Diferente seria se sua presença no local não tivesse relação com seu cargo de policial militar, ou que suas ações visassem algum benefício, para si ou para outrem, em razão de sua profissão (..)." (mov. 53.1 - fl. 20 - AP)
+Insista-se, é inconteste o desacerto na conduta do embargado, todavia, a perda da função pública, neste caso concreto, se mostra excessiva como punição por suas ações.
+Não se nega também a infringência às disposições legais que regem a carreira de policial militar, entretanto, entendo que a pena em si aplicada se mostra proporcional ao mal causado à vítima e à sociedade, o que torna excessiva a aplicação da medida extrapenal de perda da função pública.
+Quanto à perda do cargo público, a jurisprudência do Superior Tribunal de Justiça entende não se tratar de efeito automático do édito condenatório, havendo necessidade de motivação expressa pelo julgador. São requisitos objetivos para a sua aplicação, conforme o art. 92, I, do Código Penal: a fixação de pena privativa de liberdade igual ou superior a 1 (um) ano, nos casos de crimes praticados com abuso de poder ou violação de dever para com a administração pública ou pena privativa de liberdade igual ou superior a 4 (quatro) anos, nos demais crimes.
+Na espécie, o recorrido foi condenado a pena privativa de liberdade superior a 1 (um) ano e foi reconhecida a violação de dever para com a administração pública, tendo a Corte local expressamente consignado a infringência às disposições legais que regem a carreira de policial militar, o que é suficiente para a decretação da perda do cargo público, nos termos do art. 92, I, do Código Penal, não havendo que se falar em desproporcionalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FACILITAÇÃO DE CONTRABANDO. POLICIAL CIVIL. PERDA DO CARGO PÚBLICO. VIOLAÇÃO DE DEVER PARA COM A ADMINISTRAÇÃO PÚBLICA. PENA APLICADA SUPERIOR A 1 ANO DE RECLUSÃO. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento pelas instâncias ordinárias de que o réu agiu com violação de dever para com a Administração Pública e a aplicação da pena superior a 1 ano de reclusão, constituem fundamento suficiente e válido para a decretação da perda do cargo público, uma vez que revelam a inidoneidade do acusado para continuar a exercer o cargo de policial civil com a atribuição de deveres que já descumpriu.
+2. Uma vez preenchidos os requisitos do art. 92, I, "a", do Código Penal, devidamente destacados no acórdão, é insuficiente e irrelevante, para afastar a comprovação da transgressão funcional, a justificativa de que o condenado ostenta condições pessoais favoráveis.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.821.974/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023).
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURS O ESPECIAL. CONCUSSÃO. VIOLAÇÃO AO ART. 316, DO CÓDIGO PENAL - CP. PLEITO ABSOLUTÓRIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. VIOLAÇÃO AO ART. 59 DO CP. CULPABILIDADE. POLICIAL. CIRCUNSTÂNCIAS DO CRIME. PECULIARIDADES. FUNDAMENTAÇÃO NÃO INERENTE AO TIPO PENAL. DESPROPORCIONALIDADE. INOCORRÊNCIA. CRITÉRIO MATEMÁTICO INEXIGÍVEL. VIOLAÇÃO AO ART. 92, I, A, DO CP. PERDA DO CARGO PÚBLICO JUSTIFICADA. AUSÊNCIA DE APLICAÇÃO DA AGRAVANTE DO ART. 61, II, G, DO CP. INOVAÇÃO RECURSAL. AGRAVO PARCIALMENTE CONHECIDO E DESPROVIDO.
+(..)
+3. Correta a perda do cargo de policial justificada em razão da conduta do réu verificada no cometimento do delito ter sido contrária aos princípios que norteiam a atuação da categoria.
+(..)
+4. Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no AREsp n. 1.827.274/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/3/2022, DJe de 21/3/2022).
+Passo ao redimensionamento da sanção.
+Na primeira fase, mantenho a pena-base em 12 (doze) anos de reclusão.
+Na segunda etapa, a despeito do reconhecimento da atenuante da confissão espontânea, a sanção permanece inalterada, em observância ao Enunciado n. 231 da Súmula do Superior Tribunal de Justiça.
+Na terceira fase, não há causas de aumento de pena a sopesar e a fração pela tentativa deve incidir no patamar de 1/2 (metade), nos termos da presente decisão. Dessa forma, a sanção definitiva do recorrido fica estabelecida em 6 (seis) anos de reclusão.
+Mantenho o regime inicial semiaberto, em consonância ao disposto nos arts. 33, § 2º, alínea "b", c/c o art. 59, ambos do Código Penal, e a substituição da pena privativa de liberdade pelas sanções restritivas de direitos estabelecida na sentença - confirmada pelo acórdão recorrido, no ponto -, sobre a qual não houve insurgência ministerial.
+Ante o exposto, dou provimento ao recurso especial, a fim de redimensionar as penas do recorrido e decretar a perda do cargo público, nos termos desta decisão.
+Publique-se. Intimem-se.
+EMENTA
