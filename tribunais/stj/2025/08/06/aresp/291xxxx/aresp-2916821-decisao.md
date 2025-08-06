@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por LUCILA REGINALDO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 588):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CONTRATO C/C REPARAÇÃO DE DANOS. CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO COM RESERVA DE MARGEM CONSIGNÁVEL - RMC.
+APELAÇÃO CÍVEL 1 (INSTITUIÇÃO FINANCEIRA).
+1. IRREGULARIDADE DOS DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. VÍCIO DE CONSENTIMENTO. FRAUDE NA ASSINATURA CONSTATADA POR PROVA PERICIAL. AUSÊNCIA DE INTENÇÃO DE CONTRATAR EMPRÉSTIMO CONSIGNADO. NULIDADE DA PACTUAÇÃO. DESCONTOS INDEVIDOS. RESTITUIÇÃO DO INDÉBITO DEVIDA. COMPENSAÇÃO NECESSÁRIA.
+2. PLEITO DE REVISÃO DA CONDENAÇÃO EM DANOS MORAIS. DESCABIMENTO. REQUERIDA QUE NÃO CONSEGUIU COMPROVAR A AUTENTICIDADE DA ASSINATURA APOSTA NO CONTRATO OBJETO DA DEMANDA. DANO MORAL CARACTERIZADO.
+APELAÇÃO CÍVEL 2 (AUTORA). 1. PRETENSÃO DE MAJORAÇÃO DO VALOR DA INDENIZAÇÃO POR DANO MORAL. NÃO ACOLHIMENTO. ANÁLISE DOS ELEMENTOS EXTRAÍDOS DO CASO CONCRETO. FIXADO NA ORIGEM EM OBSERVÂNCIA AOS PRINCÍPIOSQUANTUM DA RAZOABILIDADE E DA PROPORCIONALIDADE. MANUTENÇÃO QUE SE IMPÕE.
+2. PEDIDO DE AFASTAMENTO DA DETERMINAÇÃO DE RESTITUIR OS VALORES RECEBIDOS PELO CONTRATO RECONHECIDO COMO FRAUDULENTO. IMPOSSIBILIDADE. RESSARCIMENTO DO VALOR DISPONIBILIZADO INCORRETAMENTE QUE É DEVIDO, SOB PENA DE CARACTERIZAR ENRIQUECIMENTO ILÍCITO DA PARTE AUTORA. PRECEDENTES DESTA CORTE.
+APELAÇÕES 1 E 2 CONHECIDAS E NÃO PROVIDAS.
+No recurso especial, a parte recorrente alega violação dos arts. 944 do Código Civil e 6º, VI, e 39, III e parágrafo único, do Código de Defesa do Consumidor
+Sustenta, em síntese, que o valor fixado para os danos morais deve ser majorado, considerando as peculiaridades do caso concreto. Pugna pela majoração do valor definitivo, ao entendimento de que uma indenização justa para o caso em comento seria de R$ 15.000,00,
+Sem contrarrazões ao recurso especial (fls. 639-640).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 641-645), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 662-686).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 944 do Código Civil e 6º, VI e 39, III e parágrafo único, do CDC, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ no sentido de que a revisão do quantum indenizatório a título de danos morais apenas é possível em hipóteses excepcionais, quando demonstrada sua fixação em valor irrisório ou exorbitante.
+Verifica-se que o valor da indenização por danos morais fixado em R$ 5.000,00 pelo Tribunal de origem, observou os princípios da proporcionalidade e da razoabilidade, não sendo irrisório a ponto de justificar a revisão em recurso especial.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à majoração dos danos morais, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula 7 do STJ.
+Nesse sentido, cito:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE SUSTAÇÃO DE PROTESTO COMBINADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CESSÃO DE CRÉDITO. NOTIFICAÇÃO DO DEVEDOR. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DANO MORAIS. VALOR. REVISÃO. REEXAME PROBATÓRIO. 1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. 2. No caso, modificar a conclusão do tribunal de origem acerca da ausência de notificação ao devedor da cessão de crédito demandaria o reexame do conjunto fático-probatório dos autos, o que esbarra na Súmula nº 7/STJ. 3. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o valor arbitrado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que o valor da compensação moral foi fixado em R$ 10.000,00 (dez mil reais). 4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.896.704/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2025, DJEN de 7/7/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO DE VIZINHANÇA. DANOS MORAIS. CONDENAÇÃO. REVISÃO. IMPOSSIBILIDADE SÚMULA 7/STJ. REVISÃO DO VALOR FIXADO A TÍTULO DE DANOS MORAIS. VALOR QUE NÃO SE MOSTRA EXCESSIVO NEM IRRISÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 1. Na hipótese, rever o entendimento da Corte de origem acerca dos danos morais demanda o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante o disposto na Súmula 7/STJ. 2. A revisão do valor da indenização por danos morais encontra óbice na Súmula 7 do STJ, salvo quando manifestamente irrisório ou exorbitante, o que não se verifica na hipótese. 3. A incidência da Súmula 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão. Agravo interno improvido.
+(AgInt no AREsp n. 2.265.719/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Sem majoração de honorários pois não houve condenação em desfavor da parte agravante.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CONTRATO C/C REPARAÇÃO DE DANOS. REVISÃO DO VALOR FIXADO A TÍTULO DE DANOS MORAIS. VALOR QUE NÃO SE MOSTRA EXCESSIVO NEM IRRISÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO DE ADMISSIBILIDADE MANTIDA. AGRAVO IMPROVIDO.
