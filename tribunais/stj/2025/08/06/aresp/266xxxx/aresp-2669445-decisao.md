@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto por RÔMULO TEIXEIRA MONTEIRO DE SOUSA em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DIREITO DE VIZINHANÇA. DESABAMENTO DE MURO. SENTENÇA DE PROCEDÊNCIA. APELO DE AMBAS AS PARTES. Preliminar de nulidade da sentença que se rejeita. De acordo com entendimento do STJ a falta de intimação para acompanhar a perícia gera nulidade relativa, cabendo à parte a demonstração de eventual prejuízo sofrido. Ausência de prejuízo. Réu já tinha apresentado quesitos e apresentou impugnações que foram respondidas pelo perito. Comprovado o dano, o nexo de causalidade e a culpa do réu pelo evento danoso. Perito informou que na construção do imóvel do réu não houve emprego de técnicas de edificações recomendáveis, já que deveria ter sido construído muro de arrimo por flexão com tirantes. Dano moral configurado. Verba arbitrada em R$10.000,00 que se mostra adequada. Sentença que se mantém. Recursos conhecidos e improvidos, nos termos do voto do Desembargador Relator.
+Opostos embargos de declaração, estes foram providos, às fls. 690-693, tão somente para suprir a omissão em relação à apontada litigância de má-fé.
+No recurso especial, sob pretexto de violação ao art. 466, § 2º, 477, § 2º, incisos I e II, 469, e 489, § 1º, do Código de Processo Civil, alega o agravante que não foi intimado para acompanhar a perícia, bem como que não teve sua impugnação ao laudo pericial respondida, haja vista que o perito teria afirmado que necessitaria de perícia suplementar. Aduz que "como não foi intimado da data da perícia, o laudo fora produzido com base nas informações prestadas pela parte autora" (fl. 709). Conclui, com base nessas alegações, que houve nulidade e existência de prejuízo.
+Contrarrazões ao recurso especial apresentadas às fls. 729-737.
+Assim, delimitada a controvérsia, passo a decidir.
+Ao entender pela ausência de nulidade da prova pericial realizada nos autos, o Tribunal de origem assim considerou:
+A preliminar de nulidade da sentença por cerceamento de defesa deve ser rejeitada.
+Da análise dos autos verifica-se que a produção da prova pericial foi deferida em 20/09/2016 (índice 000143). O autor foi intimado da nomeação do perito e da proposta de honorários, tanto que indicou assistente técnico e apresentou quesitos na petição de fls. 192/193 (índice 000201).
+O perito apresentou a petição de índice 000209 agendando a perícia para 04/02/2019.
+Conforme sentimento do Superior Tribunal de Justiça e "a falta de intimação para acompanhar a perícia gera nulidade relativa, cabendo à parte a demonstração de eventual prejuízo sofrido"
+ ..
+No caso em questão não ficou demonstrado efetivo prejuízo ao réu, uma vez que o réu já tinha apresentado quesitos e apresentou impugnações que foram respondidas pelo perito.
+Ademais, conforme informação do laudo pericial o muro foi reconstruído antes da perícia. Ao responder diversos quesitos o expert informou que "Por ocasião da diligência ocorrida no dia 04/02/2019, o imóvel da Autora já havia sido recuperado, por este motivo não foram encontrados nenhum dano no imóvel da Autora".
+Para auxiliar o assistente técnico foram analisados documentos que constam nos autos: fotos da época do desmoronamento; vídeo do momento do desmoronamento, projetos e demais documentos do processo.
+(grifo nosso)
+Verifica-se que o TJRJ julgou em consonância com a jurisprudência deste Superior Tribunal de Justiça, que firmou entendimento de que a falta de intimação do assistente técnico para acompanhar os trabalhos periciais não ocasiona nulidade absoluta, devendo a parte, para esse fim, demonstrar a existência de prejuízo (AgInt no AREsp n. 2.303.035/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.).
+Em sequência, a revisão das premissas adotadas no acórdão recorrido quanto à ausência de prejuízo demandaria, necessariamente, o reexame dos fatos e provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REIVINDICATÓRIA. CITAÇÃO DO CÔNJUGE. NECESSIDADE. MATÉRIA DE ORDEM PÚBLICA. NULIDADE PARCIAL DO PROCESSO. PREJUÍZO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+3. Segundo o entendimento do STJ, "o litisconsórcio necessário é regido por norma de ordem pública, cabendo ao juiz determinar, de ofício ou a requerimento de qualquer das partes, a integração à lide do litisconsorte passivo" (AgInt no REsp 1.655.715/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/08/2018, DJe de 30/8/2018).
+4. Para verificar a existência de prejuízo na nulidade parcial do feito, desde a audiência de instrução e julgamento, e a necessidade de anulação desde o início do processo, seria necessária a análise do substrato fático-probatório dos autos, o que é inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.199.238/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 25/4/2023.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
