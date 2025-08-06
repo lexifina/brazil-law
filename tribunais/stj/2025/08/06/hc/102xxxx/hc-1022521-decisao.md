@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CELSO JOSE DOS SANTOS contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE que, nos autos do Agravo em Execução n. 202200343524, negou provimento à insurgência defensiva, mantendo a execução perante a 6ª Vara Criminal de Aracaju/SE (Execução n. 5000002-11.2020.8.25.0001).
+A defesa alega, em síntese, que a execução penal está sendo indevidamente acompanhada pela 6ª Vara Militar, que seria incompetente para fiscalizar o cumprimento de pena relativa a crime comum, uma vez que o delito não foi cometido em serviço ou se trata de crime militar.
+Sustenta que a competência para acompanhar a execução penal do paciente é da 7ª Vara Criminal de Aracaju, responsável pela execução de penas relativas a crimes comuns .
+Afirma que o paciente cumpre pena em regime aberto com albergue no Presídio Militar de Sergipe (PRESMIL), onde as condições estruturais são precárias, representando risco à saúde e à integridade física dos internos, especialmente durante a noite.
+Destaca que, devido à idade do paciente, que possui mais de 62 anos, a permanência noturna no presídio é ainda mais gravosa, e que, se a execução estivesse sob a competência da 7ª Vara Criminal, o paciente poderia cumprir o regime aberto com recolhimento domiciliar noturno.
+Pede, em caráter liminar e no mérito, o reconhecimento da incompetência da 6ª Vara Criminal e a remessa dos autos para a 7ª Vara Criminal de Aracaju, além do deferimento da prisão domiciliar em favor do paciente, dispensando-o do recolhimento noturno no PRESMIL (fls. 2/13).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local manteve a competência da 6ª Vara Criminal de Aracaju/SE aos seguintes fundamentos (fl. 16):
+Observa-se, assim, que o critério definidor da competência (funcional) para o processo e julgamento da execução não está atrelado à natureza do crime imputado ao Executado, seja ele comum ou militar, mas sim ao estabelecimento prisional no qual se encontra custodiado. Assim, ainda que o agravante tenha sido condenado pela prática de crime comum, restou comprovado que o mesmo está preso no PRESMIL justamente por se encontrar na reserva vez que não perdeu o cargo de policial militar sendo, inclusive, uma prerrogativa que lhe assiste.
+O caso cuida de discussão sobre lei de organização judiciária local.
+A Súmula 192/STJ teria aplicação apenas nos casos em que a Justiça Federal (art. 106 da Constituição Federal) ou Justiça Militar (art. 122 da Constituição Federal) prolatam condenação e a execução desta ocorre em estabelecimento da administração estadual. A Justiça Militar estadual, por sua vez, cuida dos crimes militares estaduais (arts. 125, §§ 3º e 4º, da Constituição Federal).
+No caso, a impetração não comprovou o alegado, pois não demonstrou descumprimento da lei de organização judiciária local, a quem cumpre fixar a competência para execução dos condenados por crime militar estadual.
+Nesse sentido:
+PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. 1. EXECUÇÃO PENAL. PENA APLICADA PELA JUSTIÇA FEDERAL. CUMPRIMENTO EM ESTABELECIMENTO ESTADUAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 192/STJ. 2. CONFLITO CONHECIDO PARA FIXAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE FOZ DO IGUAÇU/PR.
+1. A execução penal compete ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença. O verbete n. 192 da Súmula do Superior Tribunal de Justiça excepciona referida disciplina, nos casos em que o apenado, condenado pela Justiça Federal, encontrar-se em estabelecimento penitenciário estadual.
+Dessa forma, transferida, de início, para a Justiça Estadual a competência para o processo de execução penal, em virtude da permanência do condenado em estabelecimento penitenciário estadual, tem-se que a competência não se transfere de volta, automaticamente, pela simples progressão a regime no qual não seja mais necessário o encarceramento. De fato, admitir que a progressão remeta os autos à Justiça Federal e a regressão os devolva à Justiça estadual geraria desnecessário tumulto à execução penal.
+2. Conflito conhecido para reconhecer a competência do Juízo de Direito da Vara de Execuções Penais de Foz do Iguaçu/PR, o suscitado.
+(CC n. 140.383/PR, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/6/2015, DJe de 1/7/2015 - grifo nosso) .
+No caso, o paciente se encontra recolhido em unidade prisional sujeita à administração militar estadual, estando recolhido por prerrogativa pessoal, segundo o acórdão. A impetração não comprovou, assim, o descumprimento da lei de organização judiciária local, não havendo falar em ilegalidade na fixação da competência.
+Em relação à fixação de regime domiciliar, verifico que a questão não foi objeto de deliberação no ato apontado como coator.
+A Constituição Federal fixa o rol de competências do Superior Tribunal de Justiça em seu art. 105, de modo que o conhecimento de matérias não debatidas em habeas corpus na origem subverte a estrutura constitucional, caso conhecidas na via eleita neste Tribunal Superior.
+Em suporte: AgRg no RHC n. 183.244/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/11/2023; AgRg no HC n. 767.936/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 17/11/2023; AgRg no HC n. 843.602/MG, de minha relatoria, Sexta Turma, DJe de 25/10/2023; e AgRg no HC n. 846.353/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/10/2023.
+Assim, inviável inaugurar a análise desse tema nesta Instância Superior.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. APENADO MILITAR DA RESERVA. CRIME COMUM. AUSÊNCIA DE CRIME MILITAR. CONDENAÇÃO PROFERIDA PELA JUSTIÇA ESTADUAL. UNIDADE PRISIONAL MILITAR ESTADUAL. DISCUSSÃO SOBRE A LEI DE ORGANIZAÇÃO JUDICIÁRIA LOCAL. VIOLAÇÃO NÃO COMPROVADA. PRISÃO DOMICILIAR. MATÉRIA NÃO DELIBERADA NA INSTÂNCIA LOCAL. SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
