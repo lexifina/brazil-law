@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS - DNOCS, manejado com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ, fls. 87):
+PROCESSUAL CIVIL. HABILITAÇÃO DE HERDEIROS. REEXPEDIÇÃO DE PRECATÓRIO. LEVANTAMENTO DE VALORES JÁ DEPOSITADOS. PRESCRIÇÃO. INOCORRÊNCIA.
+1. É de 05 (cinco) anos, contados da data do óbito do autor originário, o prazo prescricional para apresentação do requerimento de habilitação do respectivo herdeiro, no sentido de impulsionar a execução de sentença já iniciada, pois não pode ser considerada imprescritível a aludida substituição processual;
+2. Entretanto, no caso dos autos, já existem valores depositados em nome da falecida. Desse modo, não se cuida de discussão acerca da prescrição para habilitação de sucessores. Em verdade, a questão frequenta tão só a seara de inventário e partilha (se o caso). Dito de outra forma, não há falar em consumação de prazo prescricional para que os sucessores do falecido exerçam sua pretensão executória, de modo a perseguir a satisfação de seu direito consagrado em título judicial transitado em julgado. O caso, diferentemente, concerne a simples habilitação para a percepção de créditos já depositados, porquanto já ultimada a fase de execução (cumprimento de sentença, na dicção do legislador);
+3. Apelação improvida.
+Embargos de declaração rejeitados (e-STJ, fls. 130-135).
+Nas razões recursais, o recorrente alega violação aos arts. 313, I, 485, II, 489, § 1º e 1.022, II, do CPC/2015 e 196 e 682, II, do CC, sustentando que "a prescrição iniciada contra uma pessoa continua a correr contra seu sucessor, salvo se sobrevier alguma causa impeditiva ou suspensiva da prescrição.  ..  Dessa forma, a partir do trânsito em julgado do título executivo começou a fluir o prazo prescricional, pelo lapso de cinco anos, para sua execução (do título)" (e-STJ, fls. 148-149).
+Acrescenta que "se após o óbito dos exequentes, seus sucessores não se dignaram a promover sua habilitação no feito em apreço, é lícito concluir pela impossibilidade de ser dado prosseguimento à execução dos valores que seriam devidos ao de cujus, em razão da incidência da prescrição da pretensão executiva" (e-STJ, fl. 149).
+Por fim, afirma que, "considerando que o pedido de habilitação foi feito após MAIS de 5 (cinco) anos da data do óbito do servidor; faz-se imperioso que seja reconhecida a prescrição da pretensão executória" (e-STJ, fl. 153).
+Contrarrazões às fls. 158-164 (e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial, vindo os autos a esta Corte de Justiça (e-STJ, fl. 183).
+A Presidência desta Corte deixou de determinar a devolução dos autos para juízo de adequação ao Tema 1.254/STJ, pois, "não obstante o tema tenha sido tratado no recurso especial (fls. 144/153), o Tribunal de origem não apreciou a questão específica" (e-STJ, fl. 191).
+Brevemente relatado, decido.
+Primeiramente, é certo que o ora recorrente não indicou, de forma pormenorizada, os pontos supostamente omitidos pela Corte local, revelando a generalidade da tese de ofen sa ao art. 1.022 do CPC/2015, o que atrai o entendimento firmado na Súmula 284 do STF, aplicável, por analogia, ao recurso especial, conforme autorizado pela jurisprudência deste Tribunal.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. SOBRESTAMENTO DO FEITO. NÃO CABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. APLICAÇÃO POR ANALOGIA. DEMAIS QUESTÕES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há como acolher o pedido de sobrestamento do feito em virtude da afetação do REsp 1.799.288/PR (Tema 1.039/STJ), tendo em vista que a matéria discutida no referido processo nem sequer foi objeto do recurso especial interposto nos presentes autos.
+2. A parte não indicou, de forma pormenorizada, os pontos supostamente omitidos pela Corte estadual, revelando a generalidade da tese de ofensa ao art. 1.022 do CPC/2015, o que atrai o entendimento firmado na Súmula 284 do STF, aplicável, por analogia, ao recurso especial, conforme autorizado pela jurisprudência deste Tribunal.
+3. Apesar da oposição dos embargos de declaração, não houve o necessário prequestionamento das matérias residuais aventadas no apelo especial, nem sequer de forma implícita, o que impede que delas se conheça. Incidência, portanto, da Súmula 211 desta Casa.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.757.733/RR, de minha relatoria, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+Quanto ao mais, extrai-se do acórdão recorrido o seguinte (e-STJ, fl. 85; sem grifos no original):
+ ..
+Inicialmente, registre-se que é inócuo discutir sobre a atribuição de efeito suspensivo ao apelo, tendo em vista que contra o acórdão que agora a examina só se cogita de irresignações que não têm este condão.
+É certo que é de 05 (cinco) anos, contados da data do óbito do autor originário, o prazo prescricional para apresentação do requerimento de habilitação do respectivo herdeiro, no sentido de impulsionar a execução de sentença já iniciada, pois não pode ser considerada imprescritível a aludida substituição processual.
+No caso dos autos, no entanto, já existem valores depositados em nome da falecida. Desse modo, não se cuida de discussão acerca da prescrição para habilitação de sucessores. Em verdade, a questão frequenta tão só a seara de inventário e partilha (se o caso). Dito de outra forma, não há que se falar em consumação de prazo prescricional para que os sucessores do falecido exerçam sua pretensão executória, de modo a perseguir a satisfação de seu direito consagrado em título judicial transitado em julgado. O caso, diferentemente, concerne a simples habilitação para a percepção de créditos já depositados, porquanto já ultimada a fase de execução (cumprimento de sentença, na dicção do legislador).
+Percebe-se que a ora demandante não atacou relevante premissa do julgamento, qual seja, que a discussão em questão não é acerca da prescrição, tendo em vista que a fase de execução já foi concluída, sendo necessária a simples habilitação ara a percepção de créditos já depositados, contexto que ocasiona a incidência dos óbices sumulares n. 283 e 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AUSÊNCIA DE PRESCRIÇÃO. PEDIDO DE PARCELAMENTO DO CRÉDITO TRIBUTÁRIO. SÚMULA 83/STJ. PREMISSAS DO JULGAMENTO EMBASADAS NA ANÁLISE FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento do Tribunal de origem aplica corretamente a jurisprudência desta Corte Superior estampada na Súmula n. 653/STJ:
+"o pedido de parcelamento fiscal, ainda que indeferido, interrompe o prazo prescricional, pois caracteriza confissão extrajudicial do débito" (aplicação do enunciado sumular n. 83/STJ).
+2. No tocante ao suscitado excesso de penhora e ofensa ao princípio da menor onerosidade da devedora, o julgamento os afastou, com base na ausência de prova a ser feita pela ora insurgente. A parte também não teria demonstrado prejuízo com a constrição de marcas, a reforçar a impossibilidade de concessão do pleito recursal. Súmula 7/STJ.
+3. Percebe-se que a executada não atacou relevantes premissas do julgamento, quais sejam, inexistência de prova do prejuízo com a medida adotada; bem como não especificou o dispositivo que teria sido supostamente malferido com essa conclusão, contexto que ocasiona os óbices sumulares n. 283 e 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.532.743/RJ, de minha relatoria, Segunda Turma, julgado em 21/5/2025, DJEN de 27/5/2025.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. SERVIDOR PÚBLICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. QUESTÃO DE MÉRITO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DAS SÚMULAS 283 E 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
