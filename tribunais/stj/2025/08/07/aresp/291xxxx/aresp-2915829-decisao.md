@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - EXPORTAÇÃO DE MERCADORIAS - TRANSFERÊNCIA DE CRÉDITO DO ICMS - REQUISITOS DISCIPLINADOS NO ART. 25, §1º DA LEI COMPLEMENTAR FEDERAL Nº 87/96 - NORMA DE APLICABILIDADE IMEDIATA - ENTENDIMENTO CONSOLIDADO DO COL. STJ - RESTRIÇÃO MAIS AMPLA CONTIDA EM DECRETO ESTADUAL - IMPOSSIBILIDADE - EXISTÊNCIA DE SALDO CREDOR E INEXISTÊNCIA DE DÉBITOS NO PERÍODO DE REFERÊNCIA RECONHECIDA PELO PRÓPRIO FISCO - ILEGALIDADE DO ATO COATOR - RECURSO PROVIDO - SEGURANÇA CONCEDIDA.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 646/663):
+Trata-se na origem de mandado de segurança pleiteando o reconhecimento do suposto direito da Impetrante de transferir os créditos acumulados de ICMS, vinculados a operações de exportação e objeto de valores de crédito acumulado já aprovados em Demonstrativo de Crédito Acumulado de ICMS (DCA-ICMS), sem se submeter às restrições previstas no art. 10, §1º (e art. 19 da Resolução SEFAZ 3.535/2004); art. 32 e art. 39 todos do Anexo VIII do Decreto nº 43.080/02 (RICMS/MG).
+ ..
+Apresentado recurso de apelação, o TJMG entendeu por dar-lhe provimento, com a reforma da sentença recorrida, sob o fundamento de que " (..) comprovada a existência de saldo credor relativo ao ICMS e, ainda, a inexistência de débitos com o Estado de Minas Gerais nos períodos de referência para transferência do crédito tributário, revela-se ilegal o ato indigitado coator"
+ ..
+O ponto da lide consiste em se perquirir, à luz do art.25, §1º, II, da Lei Complementar nº 87/1996 (Lei Kandir), se o direito à transferência de crédito acumulado de ICMS oriundo de operações e prestações que destinem ao exterior mercadorias, é automático ou se a impetrante deve aguardar a análise do pedido pelo Fisco, bem como se o direito à transferência pode ser condicionado à inexistência de pendências relativas às obrigações acessórias ou a débito relativo a tributo de competência do Estado. Portanto, o provimento da apelação, e posteriormente rejeição dos embargos declaratórios, contraria os interesses do ora Recorrente e nega aplicação a lei federal, motivo por que este interpõe o presente Recurso Especial arguindo manifesta violação da Legislação Federal, especificamente do art. 25, §1º, II, da Lei Complementar nº 87/1996 (Lei Kandir).
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na súmula 83 do STJ, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O agravo em recurso especial não pode ser conhecido porque, utilizada a súmula 83 do STJ como fundamento para inadmissão do especial, deve a parte demonstrar eventual equívoco com a indicação de decisões contemporâneas ou posteriores em sentido contrário, o que não foi feito.
+A respeito, entre outros: AgInt no AREsp n. 2.336.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023; AgInt nos EDcl no AREsp n. 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023.
+De toda sorte, cumpre destacar à parte recorrente a correção da decisão de inadmissão, pois o acórdão recorrido está cm conformidade com o pacífico entendimento jurisprudencial deste Tribunal Superior:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. EXPORTAÇÃO. SALDO CREDOR. TRANSFERÊNCIA. RESTRIÇÃO IMPOSTA PELA LEGISLAÇÃO LOCAL. ILEGITIMIDADE.
+ ..
+3. "O disposto no art. 25, § 1º, da Lei Complementar n. 87/96, que trata do aproveitamento de créditos de ICMS acumulados em decorrência de operações de exportação, cuida de norma de eficácia plena, não sendo permitido à lei local impor qualquer restrição ou vedação à transferência dos referidos créditos, porquanto resultaria em infringência ao princípio da não cumulatividade" (AgInt no AREsp n. 2.184.718/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023.). No mesmo sentido: AgRg no AgRg no REsp n. 1.380.718/MA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/4/2015, DJe de 30/6/2015.
+4. É ilegítima a disposição contida na legislação local que proibe a transferência de saldo credor de ICMS prevista no art. 25, § 1º, II, da LC 87/1996 a contribuinte que tenha débito do imposto legalmente garantido ou com a exigibilidade suspensa. Nesse sentido:
+AgInt no REsp n. 2.101.719/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024.
+5. Agravo interno parcialmente conhecido e desprovido.
+(AgInt no REsp n. 2.115.789/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/4/2025, DJEN de 11/4/2025)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO NÃO CONHECIDO.
