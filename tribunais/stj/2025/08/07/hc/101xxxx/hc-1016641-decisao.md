@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de SEBASTIÃO MARCOLINO DA SILVA NETO, contra acórdão do Tribunal de Justiça do Estado de Sergipe.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos delitos previstos no art. 17 da Lei n.º 10.826/2003 (comércio ilegal de armas de fogo), art. 33 da Lei n.º 11.343/2006 e art. 2º da Lei n.º 12.850/2013.
+Impetrado habeas corpus, o Tribunal de origem denegou a ordem (e-STJ, fls. 32-63).
+Neste writ, a defesa argumenta que a prisão preventiva do paciente é ilegal, pois não estão presentes os requisitos autorizadores da custódia cautelar, conforme o art. 312 do Código de Processo Penal.
+Aduz que a decisão que decretou a prisão preventiva é genérica e abstrata, sem fundamentação concreta.
+Sustenta que houve excesso de prazo para a conclusão do inquérito policial, uma vez que o paciente está preso há mais de 91 dias sem que tenha sido oferecida denúncia ou concluído o inquérito, violando o art. 51 da Lei nº 11.343/06, que estabelece prazo máximo de 30 dias, prorrogáveis por igual período.
+Assevera que o paciente é primário, possui bons antecedentes, residência fixa, e exerce atividade lícita como caminhoneiro, o que evidencia a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Aponta que a prisão preventiva é mais severa do que a pena que seria aplicada ao final do processo, caso o paciente seja condenado por tráfico privilegiado, o que viola o princípio da homogeneidade da pena.
+Por fim, invoca a Súmula Vinculante 59 do STF, que prevê a fixação de regime aberto e substituição da pena privativa de liberdade por restritiva de direitos nos casos de tráfico privilegiado, reforçando o constrangimento ilegal da prisão preventiva.
+Requer o relaxamento da prisão preventiva ou sua substituição por medidas cautelares diversas, com base na ilegalidade da custódia, excesso de prazo, e condições pessoais favoráveis do paciente.
+Liminar indeferida (e-STJ, fls. 160-161).
+Foram prestadas informações (e-STJ, fls. 167-175).
+O Ministério Público Federal opinou pelo não conhecimento da impetração ou, no mérito, pela denegação da ordem (e-STJ, fls. 177-185).
+É o relatório.
+Decido.
+Esta  Corte  -  HC  535.063/SP,  Terceira  Seção,  Rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/6/2020  -  e  o  Su premo  Tribunal  Federal  -  AgRg  no  HC  180.365,  Primeira  Turma,  Rel.  Min.  Rosa  Weber,  julgado  em  27/3/2020;  AgR  no  HC  147.210,  Segunda  Turma,  Rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018  -,  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Passo, assim,  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+De início, cumpre anotar que a tese de excesso de prazo para a formação da culpa não foi objeto de exame no acórdão impugnado, o que impede o conhecimento do tema diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. IMPROCEDÊNCIA. TESE DE VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. PLEITOS DE DESCLASSIFICAÇÃO PARA A CONDUTA PREVISTA NO ART. 28, DA LEI N. 11.343/2006 OU DE ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. A suposta violação de domicílio não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+3. As instâncias ordinárias, após exame do conjunto fático-probatório dos autos, concluíram pela existência de elementos coerentes e válidos a ensejar a condenação do Agravante pelo delito de tráfico ilícito de drogas, ressaltando a prova testemunhal e as circunstâncias da apreensão pelos agentes da polícia. Assim, para se acolher a pretendida absolvição do Acusado, ou mesmo a desclassificação da conduta para o delito previsto no art. 28, da Lei de Drogas, seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+4. Segundo a orientação desta Corte Superior de Justiça, "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso" (AgRg no HC 672.359/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021; sem grifos no original).
+5. Agravo regimental desprovido."
+(AgRg no HC n. 847.152/MG, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024 )
+No mais, o Tribunal de origem manteve a prisão preventiva do paciente, nos seguintes termos:
+" ..
+Ainda que o impetrante argumente em sentido contrário, a autoridade impetrada expôs motivação suficiente para a manutenção da prisão do paciente, evidenciado a gravidade concreta da conduta supostamente perpetrada  quantidade e variedade do material proscrito apreendido - aproximadamente 41 kg (quarenta e um quilos), sendo 40,5 (quarenta quilos e meio) de maconha, 900 g (novecentos gramas) de crack, 150 g (cento e cinquenta gramas) de ecstasy e 14 (catorze) frascos de lança-perfume .
+Além disso, mais 1.400 (mil e quatrocentas) munições também foram apreendidas, consoante discriminação abaixo colacionada:
+- 546 munições de .38CBC;
+- 1330 munições de 9x19 mm CBC;
+- 69 munições de .45 CBC.
+- 10 munições de .50 BMG da CBC;
+- 27 munições de .308 win da CBC;
+- 6 munições cal. 12 GA, sendo 5 da marca BASCHIERI & PELAGRI e 1 CBC;
+Com efeito, presentes os requisitos cautelares do art. 312, caput, do CPP.
+Sobre o tema, o Superior Tribunal de Justiça reverbera:
+ ..
+Por consectário lógico, estando presentes os requisitos da prisão questionada, não é possível a aplicação das cautelares não segregativas, nos moldes do art. 282, § 6º, do CPP.
+Ademais, no que pertine à suposta violação do princípio da homogeneidade, não é viável, neste momento processual, a projeção de eventual pena a ser aplicada em hipótese de condenação, sob pena de incidir em exercício de futurologia.
+ ..
+Por outro ângulo, as condições pessoais favoráveis do paciente, isoladamente, não são capazes de infirmar o claustro preventivo.
+ .. ." (e-STJ, fls. 48-58; sem grifos no original)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o paciente foi preso em flagrante com 40,5kg de maconha, 900g de crack, 150g de ecstasy e 14 frascos de lança-perfume, além de 1.400 munições (546 munições de .38CBC), 1330 munições de 9x19 mm CBC; 69 munições de .45 CBC; 10 munições de .50 BMG da CBC; 27 munições de .308 win da CBC; 6 munições cal. 12 GA, sendo 5 da marca BASCHIERI & PELAGRI e 1 CBC.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO. NULIDADE DAS PROVAS POR VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO DELITO. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+1. A tese de nulidade por violação de domicílio não foi analisada pelo Tribunal de origem no acórdão impugnado, restando afastada a competência desta Corte Superior para conhecimento da matéria, sob pena de incorrer em indevida supressão de instância.
+2. O Superior Tribunal de Justiça - STJ firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Convém ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos nos quais não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+3. No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade da conduta e a periculosidade do paciente, evidenciadas pela quantidade e natureza das drogas apreendidas - 53 papelotes de cocaína - o que, somado à apreensão de duas balanças de precisão, demonstra maior envolvimento com o narcotráfico e risco ao meio social, consoante pacífico entendimento desta Corte no sentido de que "a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (AgRg no HC 550.382/RO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DjE 13/3/2020).
+4. Nesse contexto, forçoso concluir que a prisão processual do paciente está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+5. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves.
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 211.388/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/6/2025, DJEN de 3/7/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. BUSCA PESSOAL E VEICULAR. EXISTÊNCIA DE FUNDADAS RAZÕES. LEGALIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. QUANTIDADE DE ENTORPECENTE APREENDIDO. CONDIÇÕES FAVORÁVEIS, IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES, IMPOSSIBILIDADE.
+1. O art. 244 do Código de Processo Penal prevê que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+2. No caso, destacaram as instâncias de origem que, durante patrulhamento de rotina, destinado à fiscalização de trânsito, os policiais receberam informações da Polícia Rodoviária Federal acerca de um caminhão guincho suspeito de transportar mercadoria ilícita.
+Ao encontrarem veículo com as características fornecidas, os agentes públicos iniciaram o acompanhamento tático do automóvel, resultando na abordagem no Posto Fiscal. Durante a abordagem, o condutor demonstrou comportamento atípico e prestou informações desconexas, circunstâncias que, aliadas à denúncia repassada pela Polícia Rodoviária Federal, justificaram a busca veicular.
+Tais elementos, conforme decidido por esta Corte, são suficientes para justificar a busca pessoal e veicular, porquanto presentes fundamentos concretos que indicavam que o acusado estaria em "posse de arma proibida ou de objetos ou papéis que constituam corpo de delito". Precedentes.
+3. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+4. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+5. No caso, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade de droga apreendida - a saber, aproximadamente 400kg (quatrocentos quilos) de cocaína -,o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta. Precedentes.
+A mais disso, destacaram as instâncias de origem a "existência de execuções penais em curso em desfavor do paciente (processos nº 7001161- 37.2019.8.26.0073 e nº 7001095-70.2015.8.26.0405), ambos em trâmite no Estado de São Paulo" (e-STJ fl. 51).
+Dessa forma, justifica-se a imposição da prisão preventiva pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública. Precedentes.
+6. Os fundamentos adotados para a imposição da prisão preventiva indicam que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+Precedentes.
+7. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 1.002.927/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+Nesse passo, ressalte-se, ainda, q ue a tese de desproporcionalidade da custódia cautelar à provável futura pena do réu não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: AgRg no HC n. 973.311/SP, relator Ministro OG FERNANDES, SEXTA TURMA, julgado em 11/6/2025, DJEN de 16/6/2025; AgRg no HC n. 1.001.038/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 1/7/2025, DJEN de 4/7/2025.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
