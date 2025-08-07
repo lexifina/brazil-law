@@ -1,0 +1,124 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0794539-57.2024.8.07.0016RECORRENTE(S)MILENA FERNANDES DA ROCHA e DISTRITO FEDERALRECORRIDO(S)DISTRITO FEDERAL e MILENA FERNANDES DA ROCHARelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+Relator Designado Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA Acórdão Nº2029829
+
+EMENTA
+
+ Ementa. JUIZADOS ESPECIAIS. FAZENDA PÚBLICA. ADMINISTRATIVO. RESTITUIÇÃO DE VALORES DECORRENTES DE DECISÃO TRANSITADA EM JULGADO.   TEMA 1.009 DE RECURSOS REPETITIVOS. INAPLICABILIDADE.  RESSARCIMENTO DEVIDO. RECURSOS CONHECIDOS. RECURSO DA PARTE AUTORA NÃO PROVIDO. RECURSO DO DISTRITO FEDERAL PROVIDO.
+
+I. Caso em exame
+
+1. Trata-se de recursos inominados interpostos por ambas as partes em face de sentença que julgou procedente o pedido formulado na inicial “para declarar a inexistência de débito da parte autora relativa às quantias supostamente pagas a título de licença-maternidade no período de 11/12/2020 a 08/06/2021; determinar ao réu que se abstenha de cobrar tais valores, promover protesto ou inscrição em dívida ativa, retirando eventuais restrições porventura existentes; e condenar o réu a restituir, na forma simples, as quantias já descontadas.”. A parte ré recorrente defende a possibilidade de restituição dos valores. Afirma que a sua devolução é cabível em posto que a decisão liminar que garantiu a fruição da licença maternidade tinha natureza precária e houve a reforma da sentença para julgar improcedentes os pedidos formulados na inicial. Pugna pela aplicação do tema 692 do STJ. Ao final, requer o provimento do recurso para julgar improcedentes os pedidos formulados na inicial. A parte autora em seu recurso defende a impossibilidade de aplicação de todos os eventuais efeitos da revogação da liminar para ressarcimento dos valores pagos à título de licença-maternidade no período de 11/12/2020 a 08/06/2021. Teceu arrazoado jurídico e colaciona jurisprudência. Pugna pela reforma da sentença julgar procedente o pedido para que a parte ré se abstenha de alterar o lançamento nos assentamentos funcionais da licença maternidade para falta injustificadas.
+
+2. Recursos próprios e tempestivos. Isento de preparo pela parte ré e com preparo regular no recurso da parte autora (ID 71917822).  Foram apresentadas contrarrazões, id. 71917824 e 71917826.
+
+II. Questão em discussão
+
+3. Analisar a possibilidade de ressarcimento pela Administração Pública de valores recebidos à título de licença maternidade deferida em sede de decisão liminar posteriormente reformada proferida em ação cujo mérito foi julgado improcedente, já transitada em julgado.
+
+III. Razões de decidir
+
+4. A autora relata que é professora da educação básica da Secretaria de Estado de Educação do Distrito Federal (SEE/DF), admitida em 03/08/2020, sob a matrícula nº 02464233, e é casada com Thaís Vargas de Carvalho, que leciona na rede particular. O casal realizou fertilização in vitro em fevereiro de 2020, utilizando sêmen de doador anônimo, tendo os embriões da autora sido implantados em sua esposa, Thaís. O filho do casal nasceu em 10/11/2020. Após o nascimento, a autora tornou-se mãe lactante por meio de hormonioterapia e solicitou à SEE/DF a concessão de licença-maternidade, mas o pedido foi negado por falta de previsão legal específica. Diante disso, ela entrou com a ação judicial nº 0707343-82.2020.8.07.0018, pedindo licença-maternidade de 180 dias ou, alternativamente, a extensão da licença paternidade pelo mesmo período. A liminar foi concedida, permitindo à autora usufruir da licença-maternidade por 180 dias, com base no artigo 130, inciso IX da Lei Complementar n. 840/2011, a partir do nascimento do filho e sem prejuízo de sua remuneração. Posteriormente, a sentença confirmou a medida e julgou procedente o pedido, mas o Distrito Federal recorreu, tendo seu recurso aceito e julgado, resultando na improcedência dos pedidos iniciais.
+
+5. Em decorrência do referido processo, cuja decisão já se encontra transitada em julgado, foi instaurado o processo administrativo nº 00080-00268714/2024-19, com o objetivo de promover a reposição ao erário no valor de R$ 35.278,92 (trinta e cinco mil duzentos e setenta e oito reais e noventa e dois centavos). Tal procedimento se justifica pela cassação da liminar anteriormente concedida, além de determinar que os 180 dias discutidos sejam registrados nos assentamentos funcionais como faltas injustificadas.
+
+6. A devolução de valores recebidos por servidor público, em razão de erro operacional ou de cálculo decorrente de ato da administração pública, foi objeto de deliberação pelo Superior Tribunal de Justiça, quando do julgamento dos REsp nº 1769209/AL e REsp 1769306 / AL, julgados em 01/03/2021 (Tema 1.009), que fixou o seguinte entendimento: “os pagamentos indevidos a servidores públicos, decorrentes de erro administrativo (operacional ou de cálculo) não embasado em interpretação errônea ou equivocada da lei, estão sujeitos à devolução, a menos que o beneficiário comprove a sua boa-fé objetiva, especialmente com a demonstração de que não tinha como constatar a falha”. Ao modular os efeitos da decisão, o STJ entendeu por bem determinar que sua eficácia somente atingirá os processos iniciados após a publicação do acórdão.
+
+7. Ficou estabelecido na revisitação do tema 531, que não há que se confundir erro na interpretação de lei com erro operacional. Assim, o tema 1.009 elencou a hipótese e requisitos para autorizar a restituição ao Erário dos valores pagos indevidamente decorrente de erro de cálculo ou operacional da Administração Pública, desde que não embasado em interpretação errônea ou equivocada da lei pela Administração. Isso porque, diferentemente dos casos de errônea ou má aplicação de lei, nos quais o elemento objetivo é, por si só, suficiente para se concluir que o servidor recebeu o valor de boa-fé, assegurando-lhe o direito à não devolução do valor recebido indevidamente, na hipótese de erro operacional o STJ ressaltou no tema 1.009 de recursos repetitivos que é exigível a verificação da boa-fé do servidor, uma vez que não há legítima expectativa a justificar a percepção de tais valores.
+
+8. No entanto, tal entendimento não é aplicável à hipótese dos autos. Os pedidos formulados neste processo pela parte autora são para impedir o ressarcimento de valores que é efeito jurídico próprio e imediato da decisão judicial transitada em julgado nos autos n.º 0707343-82.2020.8.07.0018 (Acórdão 1391921, 0707343-82.2020.8.07.0018, Relator(a): EDILSON ENEDINO DAS CHAGAS, PRIMEIRA TURMA RECURSAL, data de julgamento: 03/12/2021, publicado no DJe: 25/12/2021.). Assim, não que se falar em afastamento os efeitos daquela decisão transitada em julgado por esta via processual.
+
+9. Nestes termos, deve ser desprovido o recurso da parte autora e provido o recurso do Distrito Federal para reformar a sentença julgar improcedentes os pedidos formulados na petição inicial.
+
+IV. Dispositivo e tese.
+
+10. RECURSOS CONHECIDOS. RECURSO DA PARTE AUTORA NÃO PROVIDO. RECURSO DO DISTRITO FEDERAL PROVIDO para reformar a sentença e julgar improcedentes os pedidos formulados na inicial. Condeno a parte autora vencida ao pagamento das custas e honorários advocatícios fixados em 10% sobre o valor da causa, nos termos do art. 55 da Lei 9.099/95.
+
+11. A ementa servirá de acórdão, conforme art. 46 da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - Relator Designado e 2º Vogal, sob a Presidência do Senhor Juiz ANTONIO FERNANDES DA LUZ, em proferir a seguinte decisão: CONHECIDOS. RECURSO DA AUTORA NÃO PROVIDO. RECURSO DO DISTRITO FEDERAL PROVIDO. MAIORIA. VENCIDO O RELATOR. REDIGIRÁ O ACÓRDÃO O 2º VOGAL., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Agosto de 2025
+
+Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECARelator Designado
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Narra a autora que "é professora da educação básica da Secretaria de Estado de Educação do Distrito Federal – SEE/DF, admitida em 03/08/2020, sob a matrícula nº 02464233, casada com Thaís Vargas de Carvalho, professora da rede particular. Informa que o casal realizou procedimento de fertilização in vitro em fevereiro de 2020, com a utilização de sêmen de doador anônimo, tendo os embriões da Autora sido implantados em sua cônjuge, Thaís. O nascimento do filho do casal ocorreu em 10/11/2020. Após o parto, a Autora passou à condição de mãe lactante mediante o uso de hormonioterapia, razão pela qual requereu à SEE/DF a concessão de licença-maternidade, a qual foi indeferida sob a justificativa de ausência de previsão legal para o caso." Diante da negativa, a autora ingressou com a ação judicial nº 0707343-82.2020.8.07.0018 para requerer a concessão de licença-maternidade por 180 dias ou, subsidiariamente, a extensão da licença-paternidade para o período de 180 dias. A liminar foi deferida para a antecipar os efeitos da tutela pretendida para determinar ao Distrito Federal a concessão do gozo de licença-maternidade pelo prazo de 180 dias (artigo 130, inciso IX da Lei Complementar n. 840/2011), a contar da data do nascimento do menor, sem prejuízo de sua remuneração. A sentença confirmou a tutela de urgência e julgou procedente o pedido. O Distrito Federal interpôs recurso, o qual foi conhecido e provido para julgar improcedentes os pedidos da inicial. Em consequência, foi aberto o processo administrativo nº 00080-00268714/2024-19, visando a reposição ao erário do valor de R$ 35.278,92 (trinta e cinco mil duzentos e setenta e oito reais e noventa e dois centavos), tendo em vista que a liminar foi cassada, bem como os dias discutidos – 180 dias – seriam lançados em seus assentamentos funcionais como faltas injustificada.
+
+Das provas coligidas aos autos verifica-se que a autora foi intimada no processo SEI-DF n.º 00020-00041006/2020-14 a restituir os valores recebidos, referente ao afastamento para usufruto de licença maternidade (ID 71917593) e no processo "SEI 00080-00268714/2024-19 / pg. 52" foi determinado "o lançamento de 180 (cento e oitenta) faltas (código 40004)" (ID 71917590 - Pág. 52).
+
+A evolução jurisprudencial reconhece a pluralidade de configurações familiares, em homenagem aos princípios da dignidade da pessoa humana e da proteção integral da criança e do adolescente.
+
+O Supremo Tribunal Federal firmou o entendimento que "a mãe servidora ou trabalhadora não gestante em união homoafetiva tem direito ao gozo de licença-maternidade. Caso a companheira tenha utilizado o benefício, fará jus à licença pelo período equivalente ao da licença - paternidade". Quando do julgamento o colegiado também acolheu proposta do Ministro Cristiano Zanin para que situações excepcionais, como, por exemplo, quando a companheira não gestante faça tratamento para ter condições de aleitamento, recebam soluções excepcionais, analisadas caso a caso (Tema 1072 - trânsito em julgado em 18/06/2024).
+
+No caso, a autora apesar de não ter gerado a criança, passou à condição de mãe lactante mediante o uso de hormonioterapia. A servidora recebeu a remuneração quando usufruía de licença maternidade concedida liminarmente nos autos da ação 0707343-82.2020.8.07.0018. A ação foi proposta em 11/11/2020. A sentença de primeiro grau confirmou "a decisão que deferiu a tutela de urgência (ID 77590007) e julgo PROCEDENTE o pedido inaugural, para determinar ao réu que conceda à autora licença-maternidade pelo prazo de 180 (cento e oitenta) dias, a contar da data do nascimento de seu filho, sem prejuízo de sua remuneração". Entretanto, o Distrito Federal teve seu recurso inominado provido para julgar improcedente o pedido inicial (ID 177607479). O trânsito em julgado ocorreu em 08/11/2023 (ID 177607777).
+
+"Os pagamentos indevidos aos servidores públicos decorrentes de erro administrativo (operacional ou de cálculo), não embasado em interpretação errônea ou equivocada da lei pela Administração, estão sujeitos à devolução, ressalvadas as hipóteses em que o servidor, diante do caso concreto, comprova sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido". ( Tema Repetitivo 1009 - STJ)
+
+Contudo, a jurisprudência consolidada do STJ, através do Tema 692, estabelece que "a reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago, restituindo-se as partes ao estado anterior e liquidando-se eventuais prejuízos nos mesmos autos, na forma do art. 520, II, do CPC/2015 (art. 475-O, II, do CPC/73)."
+
+No caso concreto, a liminar concedida nos autos da ação 0707343-82.2020.8.07.0018, que deferiu " a antecipação dos efeitos da tutela pretendida para determinar à parte ré conceda-lhe o gozo de licença-maternidade pelo prazo de 180 dias (artigo 130, inciso IX da Lei Complementar n. 840/2011), a contar da data do nascimento do menor, sem prejuízo de sua remuneração" foi revogada pela decisão desta Turma Recursal que conheceu e deu provimento ao recurso do Distrito Federal para julgar improcedentes os pedidos da inicial.
+
+Portanto, é necessário reformar a sentença impugnada para reconhecer a possibilidade de devolução dos valores recebidos pela autora em virtude da revogação da decisão liminar.
+
+No tocante a pretensão do Distrito Federal de converter os 180 dias de licença-maternidade em faltas injustificadas, melhor sorte assiste a autora.
+
+Tal medida se configura desproporcional e irrazoável, violando princípios fundamentais a) da proteção à maternidade e à infância - a licença-maternidade visa primordialmente a proteção da criança (art. 227, CF), não podendo ser desconsiderada esta função social; b) de vedação ao comportamento contraditório - a  Administração não pode punir a servidora por ter cumprido ordem judicial válida à época; c) proporcionalidade e razoabilidade - a consequências da conversão em faltas injustificadas são extremamente gravosas.
+
+Além disto, a situação da recorrente evidencia que não se pode exigir comportamento diverso daquela que, amparada por decisão judicial e imbuída dos mais nobres propósitos maternos, usufruiu de direito que lhe foi judicialmente reconhecido, ainda que temporariamente.
+
+Por fim, não procede a tese arguida pelo Distrito Federal, em suas contrarrazões, porquanto o objeto da presente demanda e o dos autos 0707343-82.2020.8.07.0018 são distintos. O processo 0707343-82.2020.8.07.0018 tratou especificamente do direito material à licença-maternidade, enquanto a presente ação versa sobre questões procedimentais e consequenciais, notadamente o ressarcimento ao erário e a aplicação de penalidades administrativas. Não há, portanto, identidade de objeto que caracterize tentativa de desconstituição da coisa julgada formada no processo anterior.
+
+Ademais, a ação rescisória possui requisitos específicos taxativamente previstos no artigo 966 do Código de Processo Civil, quais sejam: dolo da parte vencedora ou colusão, prevaricação, concussão ou corrupção do juiz, erro de fato da sentença, documentos novos cuja existência ignorava a parte, violação literal de disposição de lei, ou fundamento em prova falsa. Nenhuma dessas hipóteses se verifica no caso em análise, o que afasta categoricamente a possibilidade de caracterização de ação rescisória indireta. A presente demanda não visa desconstituir a decisão transitada em julgado, mas trata de questões conexas porém distintas, baseando-se nos princípios da boa-fé e proteção da confiança legítima, sem preencher qualquer dos requisitos previstos no artigo 966 do Código de Processo Civil.
+
+Pelo exposto, impõe-se a reforma integral da sentença para: A) para julgar improcedente o pedido inicial para que o réu se abstenha de efetuar qualquer desconto nos contracheques da autora a título de reposição ao erário, bem como impossibilitando que inclua o seu nome em dívida ativa, declarando a ilegalidade da cobrança; B) julgar procedente o pedido para determinar que o Distrito Federal se abstenha de lançar, corrigir ou alterar os códigos de afastamento referentes ao período de licença-maternidade para faltas injustificadas, bem como de aplicar quaisquer penalidades administrativas ou sanções disciplinares decorrentes do usufruto da licença.
+
+Assim, voto para conhecer e dar provimento ao recurso da AUTORA para determinar que o Distrito Federal se abstenha de lançar, corrigir ou alterar os códigos de afastamento referentes ao período de licença-maternidade para faltas injustificadas, bem como de aplicar quaisquer penalidades administrativas ou sanções disciplinares decorrentes do usufruto da licença. Vencedora a recorrente, não há condenação ao pagamento de custas e honorários de sucumbência. Recurso da RÉ conhecido e parcialmente provido para julgar improcedente o pedido para que o réu que se abstenha de efetuar qualquer desconto nos contracheques da autora a título de reposição ao erário.
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com a divergênciaO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - Relator Designado e 2º Vogal
+Ementa. JUIZADOS ESPECIAIS. FAZENDA PÚBLICA. ADMINISTRATIVO. RESTITUIÇÃO DE VALORES DECORRENTES DE DECISÃO TRANSITADA EM JULGADO.   TEMA 1.009 DE RECURSOS REPETITIVOS. INAPLICABILIDADE.  RESSARCIMENTO DEVIDO. RECURSOS CONHECIDOS. RECURSO DA PARTE AUTORA NÃO PROVIDO. RECURSO DO DISTRITO FEDERAL PROVIDO.
+
+I. Caso em exame
+
+1. Trata-se de recursos inominados interpostos por ambas as partes em face de sentença que julgou procedente o pedido formulado na inicial “para declarar a inexistência de débito da parte autora relativa às quantias supostamente pagas a título de licença-maternidade no período de 11/12/2020 a 08/06/2021; determinar ao réu que se abstenha de cobrar tais valores, promover protesto ou inscrição em dívida ativa, retirando eventuais restrições porventura existentes; e condenar o réu a restituir, na forma simples, as quantias já descontadas.”. A parte ré recorrente defende a possibilidade de restituição dos valores. Afirma que a sua devolução é cabível em posto que a decisão liminar que garantiu a fruição da licença maternidade tinha natureza precária e houve a reforma da sentença para julgar improcedentes os pedidos formulados na inicial. Pugna pela aplicação do tema 692 do STJ. Ao final, requer o provimento do recurso para julgar improcedentes os pedidos formulados na inicial. A parte autora em seu recurso defende a impossibilidade de aplicação de todos os eventuais efeitos da revogação da liminar para ressarcimento dos valores pagos à título de licença-maternidade no período de 11/12/2020 a 08/06/2021. Teceu arrazoado jurídico e colaciona jurisprudência. Pugna pela reforma da sentença julgar procedente o pedido para que a parte ré se abstenha de alterar o lançamento nos assentamentos funcionais da licença maternidade para falta injustificadas.
+
+2. Recursos próprios e tempestivos. Isento de preparo pela parte ré e com preparo regular no recurso da parte autora (ID 71917822).  Foram apresentadas contrarrazões, id. 71917824 e 71917826.
+
+II. Questão em discussão
+
+3. Analisar a possibilidade de ressarcimento pela Administração Pública de valores recebidos à título de licença maternidade deferida em sede de decisão liminar posteriormente reformada proferida em ação cujo mérito foi julgado improcedente, já transitada em julgado.
+
+III. Razões de decidir
+
+4. A autora relata que é professora da educação básica da Secretaria de Estado de Educação do Distrito Federal (SEE/DF), admitida em 03/08/2020, sob a matrícula nº 02464233, e é casada com Thaís Vargas de Carvalho, que leciona na rede particular. O casal realizou fertilização in vitro em fevereiro de 2020, utilizando sêmen de doador anônimo, tendo os embriões da autora sido implantados em sua esposa, Thaís. O filho do casal nasceu em 10/11/2020. Após o nascimento, a autora tornou-se mãe lactante por meio de hormonioterapia e solicitou à SEE/DF a concessão de licença-maternidade, mas o pedido foi negado por falta de previsão legal específica. Diante disso, ela entrou com a ação judicial nº 0707343-82.2020.8.07.0018, pedindo licença-maternidade de 180 dias ou, alternativamente, a extensão da licença paternidade pelo mesmo período. A liminar foi concedida, permitindo à autora usufruir da licença-maternidade por 180 dias, com base no artigo 130, inciso IX da Lei Complementar n. 840/2011, a partir do nascimento do filho e sem prejuízo de sua remuneração. Posteriormente, a sentença confirmou a medida e julgou procedente o pedido, mas o Distrito Federal recorreu, tendo seu recurso aceito e julgado, resultando na improcedência dos pedidos iniciais.
+
+5. Em decorrência do referido processo, cuja decisão já se encontra transitada em julgado, foi instaurado o processo administrativo nº 00080-00268714/2024-19, com o objetivo de promover a reposição ao erário no valor de R$ 35.278,92 (trinta e cinco mil duzentos e setenta e oito reais e noventa e dois centavos). Tal procedimento se justifica pela cassação da liminar anteriormente concedida, além de determinar que os 180 dias discutidos sejam registrados nos assentamentos funcionais como faltas injustificadas.
+
+6. A devolução de valores recebidos por servidor público, em razão de erro operacional ou de cálculo decorrente de ato da administração pública, foi objeto de deliberação pelo Superior Tribunal de Justiça, quando do julgamento dos REsp nº 1769209/AL e REsp 1769306 / AL, julgados em 01/03/2021 (Tema 1.009), que fixou o seguinte entendimento: “os pagamentos indevidos a servidores públicos, decorrentes de erro administrativo (operacional ou de cálculo) não embasado em interpretação errônea ou equivocada da lei, estão sujeitos à devolução, a menos que o beneficiário comprove a sua boa-fé objetiva, especialmente com a demonstração de que não tinha como constatar a falha”. Ao modular os efeitos da decisão, o STJ entendeu por bem determinar que sua eficácia somente atingirá os processos iniciados após a publicação do acórdão.
+
+7. Ficou estabelecido na revisitação do tema 531, que não há que se confundir erro na interpretação de lei com erro operacional. Assim, o tema 1.009 elencou a hipótese e requisitos para autorizar a restituição ao Erário dos valores pagos indevidamente decorrente de erro de cálculo ou operacional da Administração Pública, desde que não embasado em interpretação errônea ou equivocada da lei pela Administração. Isso porque, diferentemente dos casos de errônea ou má aplicação de lei, nos quais o elemento objetivo é, por si só, suficiente para se concluir que o servidor recebeu o valor de boa-fé, assegurando-lhe o direito à não devolução do valor recebido indevidamente, na hipótese de erro operacional o STJ ressaltou no tema 1.009 de recursos repetitivos que é exigível a verificação da boa-fé do servidor, uma vez que não há legítima expectativa a justificar a percepção de tais valores.
+
+8. No entanto, tal entendimento não é aplicável à hipótese dos autos. Os pedidos formulados neste processo pela parte autora são para impedir o ressarcimento de valores que é efeito jurídico próprio e imediato da decisão judicial transitada em julgado nos autos n.º 0707343-82.2020.8.07.0018 (Acórdão 1391921, 0707343-82.2020.8.07.0018, Relator(a): EDILSON ENEDINO DAS CHAGAS, PRIMEIRA TURMA RECURSAL, data de julgamento: 03/12/2021, publicado no DJe: 25/12/2021.). Assim, não que se falar em afastamento os efeitos daquela decisão transitada em julgado por esta via processual.
+
+9. Nestes termos, deve ser desprovido o recurso da parte autora e provido o recurso do Distrito Federal para reformar a sentença julgar improcedentes os pedidos formulados na petição inicial.
+
+IV. Dispositivo e tese.
+
+10. RECURSOS CONHECIDOS. RECURSO DA PARTE AUTORA NÃO PROVIDO. RECURSO DO DISTRITO FEDERAL PROVIDO para reformar a sentença e julgar improcedentes os pedidos formulados na inicial. Condeno a parte autora vencida ao pagamento das custas e honorários advocatícios fixados em 10% sobre o valor da causa, nos termos do art. 55 da Lei 9.099/95.
+
+11. A ementa servirá de acórdão, conforme art. 46 da Lei nº 9.099/95.
+
+DECISÃO
+
+CONHECIDOS. RECURSO DA AUTORA NÃO PROVIDO. RECURSO DO DISTRITO FEDERAL PROVIDO. MAIORIA. VENCIDO O RELATOR. REDIGIRÁ O ACÓRDÃO O 2º VOGAL.
