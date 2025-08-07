@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Basile e Costa e outros, contra decisão monocrática proferida por esta Corte Superior que, na ação rescisória interposta pelo Município de Jundiaí/SP, negou provimento ao pedido formulado na ação rescisória, sob o fundamento de que "tendo ocorrido o trânsito em julgado do decisum rescindendo em 18/06/2017, e a ação rescisória ajuizada em 07/05/2025, fica evidente o escoamento do prazo bienal para a propositura da presente ação rescisória".
+A parte embargante aponta vício no acórdão embargado, notadamente omissão, na medida em que a decisão de fls. 942-944, que rejeitou os embargos de declaração opostos pelo Município de Jundiaí/SP/embargado, deixou de condenar este ente federado ao pagamento da sucumbência prevista no artigo 85 do Código de Processo Civil.
+O Município de Jundiaí/SP impugnou os embargos de declaração (fls. 955-958).
+É o relatório. Decido.
+Os embargos não merecem acolhida.
+Consoante entendimento desta Corte Superior, a majoração dos honorários recursais previstos no art. 85, §11, do CPC de 2015, somente são devidos na interposição de recursos a cada instância hierarquicamente superior, sendo que a interposição de agravo interno ou de embargos de declaração não inaugura instância, razão pela qual se mostra indevida a majoração da verba honorária no presente caso.
+Confira-se os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE DOAÇÃO. CITAÇÃO POR CARTA PRECATÓRIA. SENTENÇA QUE FOI ANULADA POR APLICAÇÃO INDEVIDA DA PENA DE REVELIA. DISPOSITIVO LEGAL TIDO POR VIOLADO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELO NÃO ACOLHIMENTO DOS EMBARGOS DE DECLARAÇÃO. ART. 85, § 11, DO CPC. INADMISSIBILIDADE. APLICAÇÃO DA PENA POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE. INTUITO PROTELATÓRIO. ART. 1.026, § 2º, DO CPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que a despeito de suscitada a discussão sobre a validade da citação em embargos de declaração, à luz do art. 277 do CPC, o Tribunal estadual não se pronunciou a respeito, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento (Súmula nº 211 do STJ).
+3. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo para fins de prequestionamento.
+4. A interposição de agravo interno ou de embargos de declaração não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC.
+5. A litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorre na hipótese.
+6. Diante da manifesta improcedência dos embargos, está evidenciado o caráter notoriamente procrastinatório do recurso integrativo, razão pela qual se aplica ao embargante a multa do art. 1.026, § 2º, do CPC, fixada em 2% sobre o valor atualizado da causa.
+7. Embargos de declaração rejeitados, com imposição de multa (EDcl no AgInt no AREsp n. 2.582.754/RO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DOS EMBARGOS DE DECLARAÇÃO. MESMO GRAU DE JURISDIÇÃO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado (art. 1.022 do CPC/2015).
+2. inviável a análise de tese apresentada somente em sede de embargos de declaração, porquanto incabível a inovação recursal em embargos de declaração, pela preclusão consumativa.
+3. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+4. A oposição de embargos de declaração não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios do art. 85, § 11, do CPC.
+5. Embargos de declaração rejeitados (EDcl no AgInt no REsp n. 2.022.551/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/6/2023, DJe de 15/6/2023).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
