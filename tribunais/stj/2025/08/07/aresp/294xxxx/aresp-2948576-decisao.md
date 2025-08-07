@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo de GILCIMAR CAETANO DOS SANTOS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da recurso n. 0135537-36.2014.8.09.0006.
+Consta dos autos que o agravante foi pronunciado pela prática do delito tipificado no art. 121, § 2º, II e IV (por duas vezes), na forma do artigo 69, ambos do Código Penal.)
+Recurso interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"EMENTA - RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. PRONÚNCIA. MANUTENÇÃO. 1 - Constatada prova da materialidade e indícios suficientes de autoria, mantém-se a pronúncia. 2 - Viável que as qualificadoras sejam submetidas ao corpo de jurados, posto que não demonstrada a manifesta improcedência. Recurso desprovido. (466)
+Em sede de recurso especial (fls. 475/493), a defesa apontou violação ao art. 413 e 414, caput, ambos do Código de Processo Penal e o artigo 121, § 2º, IV, do Código Penal
+Requer o provimento para despronunciar o recorrente.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS (fls.502/509).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 7 do Superior Tribunal de Justiça
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls.521/528).
+Contraminuta do Ministério Público (fls.534).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso especial (fls. ).
+É o relatório.
+Decido.
+O agravo em recurso especial não merece ser conhecido.
+Conforme relatado, o recurso especial foi inadmitido no Tribunal de origem em razão da incidência do óbice da Súmula 7 do STJ .
+Cumpre ressaltar que a impugnação ao óbice da Súmula n. 7 do STJ não pode ser feita de forma genérica, com a mera alegação de sua inaplicabilidade, mas mediante a demonstração de que a tese do recurso especial está adstrita a fatos incontroversos, considerados no ato decisório atacado, de modo a permitir uma revaloração jurídica do acórdão proferido pelo Tribunal de Justiça, o que não ocorreu na espécie.
+Ademais, registre-se que, no caso em análise, a agravante repete os argumentos apresentados quando da interposição do recurso especial, sem impugnar especificamente o óbice da Súmula n. 7.
+Frise-se que a demonstração de que as teses trazidas no apelo extremo prescindem do revolvimento de fatos e provas deveria ter sido feita de forma concreta e específica, o que não ocorreu na espécie.
+Com efeito, a repetição dos argumentos apresentados quando da interposição do recurso especial não tem o condão de refutar o fundamento apresentado pelo Tribunal a quo para a inadmissão do recurso especial. A esse respeito, citam-se precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. SÚMULA N. 355 DO SUPREMO TRIBUNAL FEDERAL - STF. APLICAÇÃO AOS RECURSOS ESPECIAIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A impugnação específica, pormenorizada e concreta de todos os fundamentos da decisão de inadmissibilidade do recurso especial é requisito para o conhecimento do agravo. Apresenta-se insuficiente, pois, a mera alegação de não incidência de óbice apontado pela decisão agravada.
+2. No caso em tela, o agravo em recurso especial não impugnou especificamente o fundamento de inadmissibilidade consistente no óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+3. Verifica-se que a parte cingiu-se a afirmar, genericamente, a não incidência do óbice em questão, em razão da desnecessidade de revolvimento de matéria fático-probatória, sem fazer qualquer cotejo com o caso concreto.
+4. Irretocável, pois, a aplicação, por analogia, da Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+5. Ademais, descabida a insistência da parte acerca da aplicabilidade limitada da Súmula n. 355 do Supremo Tribunal Federal - STF aos recursos extraordinários. O referido enunciado sumular, conforme remansosa jurisprudência desta Corte, aplica-se igualmente aos recursos especiais.
+6. Agravo regimental desprovido. (AgRg no AREsp n. 2.564.761/RS, de minha relatoria, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.)
+DIREITO PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E USO DE ARMA DE FOGO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NULIDADE DE RECONHECIMENTO PESSOAL E PARTICIPAÇÃO DE MENOR IMPORTÂNCIA NÃO DEBATIDAS PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E N. 356, AMBAS DO STF. ALEGADA INSUFICIÊNCIA DE PROVAS. REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONDENAÇÃO DEVIDAMENTE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONDENAÇÃO POR ROUBO MAJORADO. INVIABILIDADE DE EXCLUSÃO DA CAUSA DE AUMENTO POR AUSÊNCIA DE APREENSÃO DA ARMA QUANDO DEMONSTRADA SUA UTILIZAÇÃO POR OUTRAS PROVAS. SÚMULA N. 83/STJ. PRECEDENTES. AGRAVO NÃO CONHECIDO.
+I - Segundo a orientação desta Corte, para que haja a transposição do óbice das súmulas n. 282 e n. 356, STF, a defesa deve indicar como a decisão recorrida enfrentou a questão posta em debate no recurso especial, o que não ocorreu.
+II - Para a superação da Súmula n. 7, STJ, o agravo precisa demonstrar em que medida as teses não exigem a alteração do quadro fático delineado pelo Tribunal local, não bastando a assertiva genérica de que o recurso visa à revaloração das provas.
+II - A transposição da Súmula n. 83, STJ, por sua vez, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar a modificação do julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos.
+III - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia.
+Agravo em recurso especial não conhecido.
+(AREsp n. 2.015.514/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024.)
+Feitos tais esclarecimentos, na hipótese dos autos, incide, por analogia, a Súmula 182/STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Igualmente, o art. 932, III, do Código de Processo Civil - CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO OBSTADO NA ORIGEM COM FUNDAMENTO EM TESE REPETITIVA. AGRAVO DO ART. 1.042 DO CPC INCABÍVEL. NOS DEMAIS CAPÍTULOS, FALTA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravo do art. 1.042 do CPC é incabível para impugnar o capítulo da decisão do Tribunal de origem que nega seguimento a recurso especial com fundamento em tese repetitivo. Para tal capítulo, é cabível somente a interposição do agravo interno na própria Corte local, consoante o art. 1.030, § 2º, do CPC
+2. Nos termos da Súmula 182/STJ, não pode ser conhecido o agravo em recurso especial, por não ter impugnado de maneira específica todos os fundamentos da decisão de inadmissão do recurso
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.223.298/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. VIOLAÇÃO DA COMPETÊNCIA COLEGIADA. INOCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182 /STJ. AGRAVO DESPROVIDO.
+1. Nos termos da iterativa jurisprudência desta Corte Superior, "o julgamento monocrático do presidente do Superior Tribunal de Justiça antes da distribuição do processo, pelo não conhecimento de recurso que seja inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, está amparado no art. 21-E, VI, do RISTJ, não havendo falar em violação do princípio da colegialidade." (AgRg no AREsp 2037202/MG. Quinta Turma. Rel. Ministro João Otávio de Noronha. DJe de 19.8.2022).
+2. Na modalidade do recurso previsto no art. 1.042 do CPC, "é inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes". Precedente da Corte Especial do STJ.
+3. A decisão que não admitiu o recurso especial assentou os óbices das Súmulas 7 e 211 do STJ, e Súmulas 280 e 284 do STF. No respectivo agravo, contudo, a parte deixou de rebater, concreta e especificamente, de acordo com a hipótese dos autos, todos os motivos delineados para não admissão do recurso.
+4. Esta Corte Superior pacificou entendimento de que a ausência de efetiva impugnação de todos os fundamento da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+5. Agravo desprovido.
+(AgRg no AREsp n. 2.234.482/PR, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (7,69G DE COCAÍNA). MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à aplicação das Súmulas n.ºs 7 e 83 do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n.º 182 do Superior Tribunal de Justiça.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 1628035/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 22/5/2020).
+Assim, verifica-se que o agravo em recurso especial não ultrapassa o juízo de admissibilidade. Ante o exposto, com base nos arts. 932, inciso III, do Código de Processo Civil -CPC e 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
