@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED DE BRUSQUE COOPERATIVA DE TRABALHO MÉDICO contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 282 e 356 do STF e 7 do STJ (fls. 636-637).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo padece de fundamentação, pois a tese apresentada pela agravante distanciou-se da realidade dos autos, além de não impugnar especificamente os entraves atinentes à incidência das Súmulas n. 7 do STJ (fls. 656-659).
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação de indenização por danos materiais e morais.
+O julgado foi assim ementado (fl. 565):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. SENTENÇA DE PROCEDÊNCIA PARCIAL DOS PEDIDOS.
+INCONFORMISMO DA PARTE AUTORA.
+REFORMA DO JULGAMENTO. CABIMENTO PARCIAL.
+REEMBOLSO INTEGRAL DE DESPESAS MÉDICO-HOSPITALARES. CIRURGIA REALIZADA PELA BENEFICIÁRIA DO PLANO DE SAÚDE FORA DA REDE CONVENIADA. AUSÊNCIA DE NEGATIVA INDEVIDA OU DE DEMORA EXCESSIVA NA AUTORIZAÇÃO DO TRATAMENTO. PROCEDIMENTO CIRÚRGICO QUE FOI INDICADO NO PEDIDO DE AUTORIZAÇÃO COMO ELETIVO, NÃO COMO URGENTE OU EMERGENCIAL. PRAZO DE RESPOSTA/AUTORIZAÇÃO DA RN ANS N. 566/2022 QUE FOI OBSERVADO PELA PARTE RÉ. ATO ILÍCITO NÃO CARACTERIZADO. INVIABILIDADE DE INDENIZAÇÃO INTEGRAL DOS MONTANTES DESEMBOLSADOS, COMO SE DANOS MATERIAIS FOSSEM, NA FORMA DOS ARTS. 927 E 944 DO CC. POSSIBILIDADE APENAS DE REEMBOLSO PARCIAL DE DESPESAS, NOS LIMITES DO CONTRATO, A TÍTULO DE CUMPRIMENTO CONTRATUAL (ATO LÍCITO). LÓGICA QUE NÃO SE APLICA, CONTUDO, À INDENIZAÇÃO DA PRÓTESE. INSUMO DE COBERTURA OBRIGATÓRIA. NEGATIVA DE CUSTEIO QUE CARACTERIZA ATO ILÍCITO E JUSTIFICA A RESPONSABILIZAÇÃO CIVIL DA PARTE RÉ. AMPLIAÇÃO DA PROCEDÊNCIA NESSE PARTICULAR.
+INDENIZAÇÃO POR DANOS MORAIS. REJEIÇÃO. INADIMPLEMENTO CONTRATUAL QUE NÃO ACARRETA, NAS CIRCUNSTÂNCIAS ESPECÍFICAS DO CASO CONCRETO, ABALO ANÍMICO PRESUMIDO. LESÃO A DIREITOS DA PERSONALIDADE OU À DIGNIDADE DA PESSOA HUMANA QUE NÃO FICOU COMPROVADA. PROCEDIMENTO CIRÚRGICO REALIZADO OPORTUNA E ADEQUADAMENTE. IMPROCEDÊNCIA ACERTADA NO PONTO.
+SENTENÇA REFORMADA NO TOCANTE AO REEMBOLSO DOS GASTOS COM A PRÓTESE. REDISTRIBUIÇÃO DOS ENCARGOS DE SUCUMBÊNCIA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 600-601):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. CONTRADIÇÃO. VÍCIO NÃO EVIDENCIADO. RECURSO CONHECIDO E DESPROVIDO.
+No recurso especial, a parte aponta violação do art. 12, VI, da Lei n. 9.656/1998.
+Argumenta que o reembolso integral da matriz dérmica, determinado pelo acórdão recorrido, contraria as disposições contratuais e a previsibilidade econômica do contrato, uma vez que o caso não se enquadra nas definições de urgência ou emergência, e não houve solicitação de autorização para o uso do material na esfera administrativa.
+A recorrente defende que o reembolso deve ser restrito aos limites da tabela de preços praticada pela Unimed, conforme pactuado em contrato.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, restringindo o valor da matriz dérmica a ser reembolsado à recorrida nos exatos termos do contrato firmado, ou seja, limitado ao valor de Tabelas da Unimed.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial deve ser julgado improcedente, pois a tese apresentada pela recorrente está afastada da verdade dos autos, além de não impugnar especificamente os entraves atinentes à incidência das Súmulas n. 7 do STJ (fls. 627-633).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de indenização por danos materiais e morais em que a parte autora pleiteou o reembolso integral das despesas médico-hospitalares, incluindo a matriz dérmica, além de indenização por danos morais.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos formulados pela autora, condenando a parte requerida ao custeio/reembolso parcial das despesas da parte autora no tratamento indicado na petição inicial, limitado à tabela de referência do plano de saúde da autora, com desconto dos valores relativos à eventual coparticipação e eventuais valores já reembolsados, além de fixar os honorários em 10% do valor atualizado da condenação, cabendo à parte autora o adimplemento de 40% e à parte requerida o pagamento de 60% dessa verba, observando a concessão de eventual gratuidade de Justiça.
+A Corte estadual reformou a sentença apenas no tocante ao reembolso dos gastos com a prótese matriz dérmica, condenando a operadora a reembolsar integralmente a despesa relativa a esse ponto, mantendo a improcedência do pedido de indenização por danos morais.
+O acórdão destacou que a negativa de cobertura da matriz dérmica foi indevida/ilícita, pois se trata de material diretamente ligado ao procedimento cirúrgico e expressamente indicado pelo médico assistente para o pleno restabelecimento da saúde da parte autora, o que torna a cobertura integral obrigatória.
+Conforme a jurisprudência desta Corte Superior, "a lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia" (AgInt no AREsp n. 2.478.672/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+Entende também esta Corte que, o reembolso das despesas médicas deverá ocorrer integralmente ao usuário, quando comprovado o inadimplemento contratual da operadora de plano de saúde referente à disponibilização do material necessário para a realização do procedimento de saúde prescrito por profissional da área.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015.
+FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF e 211 DO STJ. CERCEAMENTO DE DEFESA. PROVA PERICIAL. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. PLANO DE SÁUDE. MATERIAL ESSENCIAL. CUSTEIO. POSSIBILIDADE. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. REEMBOLSO INTEGRAL. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+3. Para a jurisprudência do STJ, o julgador pode determinar as provas pertinentes à instrução do processo, bem como indeferir aquelas consideradas inúteis ou protelatórias, à luz dos princípios da livre apreciação da prova e do livre convencimento do juiz (CPC/2015, art. 370, caput e parágrafo único).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e revisão das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+4.1. A Corte de origem afastou o alegado cerceamento de defesa, tendo em vista a desnecessidade da prova pericial. Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável em recurso especial.
+5. Os planos de saúde estão obrigados aos custeio de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia.
+Precedentes.
+5.1. A Corte local impôs ao plano de saúde o custeio do eletrodo necessário ao sucesso da cirurgia de hérnia de disco da parte agravada, o que não diverge de tal orientação.
+6. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+7. O usuário faz jus ao reembolso integral das despesas médicas, quando comprovado o inadimplemento contratual do plano de saúde relativo à recusa do custeio do tratamento prescrito pelo médico assistente. Precedentes.
+7.1. A Corte de origem condenou a empresa agravante ao reembolso integral das despesas médicas, ante sua recusa indevida de cobertura médica. Aplicação da Súmula n. 83/STJ.
+8. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.590.921/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/9/2024, DJe de 2/10/2024, destaquei.)
+No caso, o entendimento adotado na origem não destoa da Jurisprudência desta Corte, o que atrai a aplicação da Súmula n. 83/STJ.
+Por fim, a incidência de óbices sumulares processuais quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+A esse respeito: AgInt no REsp n. 1.900.682/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/3/2021, DJe de 6/4/2021.
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
