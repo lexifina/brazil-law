@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO RIBEIRO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Paraná, cuja ementa é a seguinte (e-STJ fl. 117):
+"REVISÃO CRIMINAL DE ACÓRDÃO. CRIME DE HOMICÍDIO QUALIFICADO (ARTIGOS 121, § 2º, INCISO II, DO CÓDIGO PENAL). CONDENAÇÃO EM PRIMEIRO GRAU CONFIRMADA EM GRAU DE RECURSO POR ESTE TRIBUNAL. PLEITO DE APLICAÇÃO DA CAUSA GERAL DE DIMINUIÇÃO DA PENA RELATIVA À PARTICIPAÇÃO DE MENOR IMPORTÂNCIA, PREVISTA NO ART. 29, §1º, DO CP. INVIABILIDADE. QUESTÃO JÁ DISCUTIDA NA APELAÇÃO CRIMINAL. COAUTORIA EVIDENCIADA. AUSÊNCIA DE PREVISÃO NAS HIPÓTESES ELENCADAS NO ART. 621 DO CÓDIGO DE PROCESSO PENAL. REVISÃO CRIMINAL QUE NÃO SE PRESTA A REVALORAÇÃO DO CONJUNTO PROBATÓRIO. AUSÊNCIA DE NOVAS PROVAS CAPAZES DE REVERTER A DECISÃO SOBERANA DOS JURADOS. RECURSO NÃO CONHECIDO."
+Nas razões do recurso especial (e-STJ fls. 83-99), fundado nas alíneas "a" e "c" do permissivo constitucional, alega a parte recorrente violação dos artigos 29, §1º, do Código Penal, ao argumento de que sua participação no crime foi de menor importância, não havendo demonstração de uma atuação relevante ou determinante por parte de Marcelo Ribeiro no resultado fatal (e-STJ fl. 91).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O agravante foi condenado à pena de 12 anos, como incurso no art. 121 § 2º, II do CP. Transitada em julgado a condenação, foi ajuizada revisão criminal, a qual não foi conhecida, ao fundamento de que "o revisionando pretende a rediscussão da matéria, sob os mesmos argumentos, todavia desprovidos de alteração fática ou novas provas aptas a alterar o entendimento anterior" (e-STJ fl. 73).
+Como se viu do acórdão recorrido, busca-se o reexame de provas já avaliadas no curso da instrução, não se constatando a presença de elementos probatórios substancialmente novos que autorizem a ação revisional ou contrariedade o texto expresso da lei penal ou à evidência dos autos, nos termos do art. 621, incisos I e III, do Código de Processo Penal.
+Pretende-se, portanto, por via transversa, reabrir a discussão de temas e alegações já examinadas, debatidas e rechaçadas pelas instâncias antecedentes, como se fosse um novo recurso de apelação, procedimento não admitido pelo sistema processual brasileiro.
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual "o relator, monocraticamente e no superior tribunal de justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intime-se.
+EMENTA
