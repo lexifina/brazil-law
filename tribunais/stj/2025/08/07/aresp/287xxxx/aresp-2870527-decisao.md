@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravos interpostos por Renato Tatagiba Garcia e Priscila Nascimento de Souza Cyrilo contra a decisão do Tribunal de Justiça do Espírito Santo que, em juízo de admissibilidade, inadmitiu os recursos especiais por eles apresentados contra o acórdão proferido na Apelação Criminal n. 0002570-25.2018.8.08.0035 (fls. 1.850/1.887).
+Opostos embargos de declaração (fls. 1.890/1.903), foram parcialmente acolhidos, sem efeitos infringentes (fls. 1.916/1.932).
+Nos recursos especiais, as defesas requerem: a) Seja acolhida a preliminar suscitada para reconhecer e declarar a nulidade do processo, conforme fundamentação contida em tópico próprio; b) Nas matérias de mérito, maduras para julgamento, em respeito aos princípios da celeridade e aproveitamento dos atos processuais, seja reformado o v. acórdão, conforme fundamentações apresentadas e, consequentemente, seja o Recorrente absolvido ou, alternativamente, seja anulada a dosimetria da pena realizada pelo Juízo a quo, sendo tal ato feito por este D. Juízo, uma vez que não foram consideradas circunstâncias favoráveis ao Réu quando da análise das circunstâncias do artigo 59 do CP para a fixação da pena base (fl. 1.967); e seja o presente recurso recebido e completamente provido para o fim de reformar o Acórdão proferido pelo Tribunal a quo e reestabelecer a sentença absolutória proferida pelo Ilmo. Juízo de Primeiro Grau (fl. 1.986).
+Oferecidas contrarrazões (fls. 1.990/1.996 e 1.997/2.002), os recursos especiais não foram admitidos por incidência dos seguintes óbices: incidência das Súmulas 7 e 83/STJ e impossibilidade de análise de violação de dispositivo constitucional (fls. 2.003/2.009 e 2.009/2.014).
+Contra essas decisões, as defesas interpuseram os presentes agravos (fls. 2.016/2.064 e 2.071/2.096).
+Contraminuta às fls. 2.066/2.070.
+A Procuradoria-Geral da República manifestou-se pelo conhecimento dos agravos para desprovimento dos recursos especiais (fls. 2.128/2.138).
+É o relatório.
+A análise dos agravos em recursos especiais está prejudicada ante a constatada prescrição da pretensão punitiva.
+Considerando as penas dosadas, ambas entre 1 e 2 anos de reclusão, fls. 1.886/1.887, nos termos do art. 109, V, do Código Penal, impõe-se a declaração da extinção da punibilidade dos agravantes, pela prescrição da pretensão punitiva na modalidade retroativa, haja vista o transcurso do lapso superior a 4 anos desde o recebimento da denúncia, 19/9/2018 (fl. 501) até a publicação do acórdão condenatório, em 26/5/2023 (fl. 1.887).
+A propósito, mutatis mutandis: AgRg no HC n. 686.960/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço dos agravos em recursos especiais. Declaro extinta a punibilidade dos agravantes pela prescrição da pretensão punitiva.
+Publique-se.
+EMENTA
+AGRAVOS EM RECURSOS ESPECIAIS. PENAL E PROCESSUAL PENAL. FALSIFICAÇÃO DE ATESTADO MÉDICO. PENA CARCERÁRIA DEFINITIVA DISPOSTA EM 1 ANO E 2 MESES DE RECLUSÃO. EXTINÇÕES DE PUNIBILIDADE. VERIFICAÇÃO. OCORRÊNCIA. LAPSO SUPERIOR A 4 ANOS DESDE O RECEBIMENTO DA DENÚNCIA E A PUBLICAÇÃO DO ACÓRDÃO CONDENATÓRIO. APLICAÇÃO DOS ARTS. 109, V, E 117, I E IV, AMBOS DO CP. RECONHECIDA A PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL.
+Agravos não conhecidos . Declarada extinta a punibilidade dos agravantes pela prescrição da pretensão punitiva.
