@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EVERTON AFONSO DE OLIVEIRA contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que, nos autos do Agravo em Execução n. 0009609-55.2025.8.26.0996, negou provimento à insurgência, mantendo o indeferimento da progressão de regime (Execução n. 0002916-19.2024.8.26.0502, DEECRIM 5ª RAJ - Presidente Prudente/SP).
+A defesa alega, em síntese, que a infração grave antiga e a longa pena a cumprir, não podem ser invocadas como óbices à progressão de regime. Quanto às faltas graves, é certo que o decurso do tempo conduz à reabilitação da conduta carcerária do apenado. Não é aceitável que as faltas de natureza grave cometidas há tempo ainda sejam admitidas para macular todo o histórico prisional do apenado (fl. 7).
+Pede que a concessão da ordem para que seja deferida a progressão de regime (fls. 2/16).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+A fundamentação utilizada para negar ao paciente o benefício da progressão de regime teve como base fatos ocorridos durante a execução penal, tendo sido destacado que ele possui histórico prisional conturbado e desfavorável desde o ano de 2007, entrando e saindo do sistema prisional desde então, e com longo histórico de faltas disciplinares cometidas no interior do sistema prisional (fl. 21). Por esse motivo, perfeitamente idônea a avaliação do requisito subjetivo realizada pelo Tribunal a quo, tendo sido devidamente observado o art. 112, § 1º, da Lei de Execução Penal, assim como a jurisprudência consolidada no Superior Tribunal de Justiça.
+Com efeito, esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento tanto do pleito de progressão de regime prisional quanto do de concessão de livramento condicional pelo inadimplemento do requisito subjetivo (AgRg no HC n. 584.224/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020).
+Ademais, esta Corte Superior possui entendimento no sentido de que não se aplica limite temporal à análise do requisito subjetivo necessário aos benefícios da execução, devendo ser analisado todo o período de execução da pena, salvo expressa disposição legal, a fim de se averiguar o mérito do apenado (AgRg no HC n. 841.448/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/11/2023).
+Por fim, a modificação das conclusões das instâncias ordinárias quanto ao preenchimento do requisito subjetivo exigiria o aprofundado exame de fatos e de provas, providência inadmissível na via eleita.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DE REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL CONTURBADO. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
