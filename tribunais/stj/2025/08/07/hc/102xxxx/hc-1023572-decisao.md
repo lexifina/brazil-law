@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Cleusimar de Jesus Cardoso - presa pela condenação por tráfico de entorpecentes e associação para o mesmo fim à pena de 10 anos, 11 meses e 8 dias de reclusão, em regime inicial fechado (fls. 105/106) -, em que se aponta como autoridade coatora a Desembargadora Luiza Cristina N. Marques do Tribunal de Justiça do Amazonas (Apelação Criminal n. 0508159-44.2024.8.04.00001/AM).
+Alega-se, na impetração, que houve nulidade absoluta por cerceamento de defesa, pois os laudos toxicológicos foram juntados aos autos após as alegações finais, sem intimação da defesa, comprometendo o contraditório e a ampla defesa (fls. 5/7).
+Afirma-se que a decisão monocrática da Desembargadora manteve a prisão preventiva, ignorando a ausência de contemporaneidade dos fundamentos da custódia cautelar, o excesso de prazo na tramitação processual e a inidoneidade da prova técnica utilizada (fls. 8/9).
+Sustenta-se que a busca e apreensão foi realizada em endereço diverso do autorizado judicialmente, violando o princípio da inviolabilidade do domicílio e contaminando a prova colhida (fls. 10/11).
+Destaca-se que a paciente possui condições pessoais favoráveis, como bons antecedentes, residência fixa e trabalho lícito (fls. 36/37).
+No mérito, requer-se a concessão da ordem de habeas corpus para revogar a prisão preventiva, com expedição de alvará de soltura, ou substituição por medidas cautelares diversas da prisão (fls. 38/39).
+Além disso, pleiteia-se o reconhecimento da nulidade absoluta processual, a anulação da sentença e o retorno dos autos à fase de defesa prévia (fl. 39).
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tel a.
+A corroborar, merece transcrição, no que interessa, o decisum ora impugnado (fl. 41):
+A decisão fundamentou-se no robusto conjunto probatório coligido durante a investigação e ratificado em juízo, destacando-se os depoimentos testemunhais e os laudos periciais de informática sobre os dados telemáticos apreendidos, os quais delinearam a suposta estrutura e a gravidade concreta da associação criminosa.
+O fato de o parecer ministerial (mov. 226.1) ter opinado pelo reconhecimento de uma nulidade relativa à ausência de contraditório sobre o laudo toxicológico definitivo, embora de extrema relevância para o julgamento do mérito do apelo, não promove, por si só, uma alteração fático-processual que desconstitua, de forma automática, os pressupostos da custódia cautelar.
+A nulidade apontada, se e quando declarada pelo Colegiado, poderá levar à anulação de atos processuais, mas não apaga retroativamente os indícios que, à época da decretação e manutenção da prisão, formaram o convencimento do magistrado sobre o fumus comissi delicti. Ademais, o principal fundamento para a manutenção da prisão, qual seja, a garantia da ordem pública, permanece inalterado.
+Este requisito foi justificado na sentença (mov. 110.1) não apenas pela gravidade abstrata dos delitos, mas pela gravidade concreta da conduta, evidenciada pela aparente organização do grupo, pela forma de distribuição da droga (cetamina) e pelo aliciamento de pessoas em situação de vulnerabilidade.
+Tais elementos, que visam acautelar o meio social de uma possível reiteração delitiva, não são afetados pela discussão sobre a regularidade formal da juntada de um laudo pericial. Em outras palavras, a questão da nulidade afeta a higidez do título condenatório, o que será objeto de análise aprofundada pela Câmara, mas não afeta, neste momento e em sede de cognição sumária, a percepção de risco que fundamenta a cautelar.
+A persistência dos motivos que ensejaram a decretação da prisão preventiva, somada à ausência de fato novo que demonstre a desnecessidade da medida, impõe a sua manutenção, conforme tem entendido a jurisprudência pátria em casos análogos, onde o réu que permaneceu preso durante toda a instrução processual não obtém, como regra, o direito de recorrer em liberdade se inalterado o quadro fático que justificou a segregação.
+Ressalto que, no presente caso, as questões trazidas na impetração não foram ainda devidamente enfrentadas pelo Tribunal a quo, não se admitindo a pretendida supressão de instância.
+De mais a mais, a desconstituição da conclusão exarada pelo Tribunal local implicaria revolvimento de matéria fático-probatória, o que não se coaduna com o rito sumário do habeas corpus (AgRg no HC n. 872.060/RS, relator Ministro Og Fernandes, Sexta Turma, DJEN de 1º/7/2025).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+Writ indeferido liminarmente.
