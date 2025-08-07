@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MATHEUS DO NASCIMENTO LIBÓRIO contra decisão monocrática, por mim proferida, a qual não conheceu do habeas corpus impetrado em seu favor.
+Alega o embargante que "A r. decisão embargada reputou incabível o habeas corpus sob o argumento de que reproduziria pedido idêntico ao já apreciado por este Egrégio Tribunal no RHC nº 196.107/MG. Ocorre, entretanto, que a presente impetração não se limita a reiterar fundamentos já enfrentados, estando lastreada em circunstância jurídica superveniente, a saber, a fixação de tese pela Terceira Seção do STJ no julgamento do RHC nº 196.150/GO, realizado em 14/05/2025 e publicado no DJe de 10/06/2025".
+Afirma, ainda, haver "erro material na r. decisão, ao afirmar que o habeas corpus está fundado em argumentos já repelidos. Como demonstrado, a causa de pedir está essencialmente assentada em fato novo: a mudança qualitativa da natureza jurídica da prova questionada, diante do novo entendimento jurisprudencial dominante. Assim, houve omissão quanto ao ponto central da impetração".
+Pugna, ao final, por que seja sanado o erro material e a omissão apontados.
+É o relatório.
+Decido.
+Nos termos do art. 619 do CPP, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão.
+Não procede a alegação de existência de erro material e omissão na decisão embargada.
+O acórdão prolatado pela Terceira Seção nos autos do RHC n. 196.150/GO, assentou que o compartilhamento de dados financeiros por meio de solicitação direta pelos órgãos de persecução penal sem autorização judicial prévia não está coberto pelo Tema 990 da repercussão geral. A decisão do Supremo Tribunal Federal no tema 990 refere-se, apenas, ao compartilhamento espontâneo de informações pela Receita Federal e Coaf com órgãos de persecução penal.
+Contudo, cediço que a evolução jurisprudencial não dá ensejo à modificação de decisões judiciais acobertadas pelo manto da coisa julgada, como a proferida no âmbito do RHC n. 196.107/GO, salvo se se tratar da hipótese constitucional de retroatividade benéfica da lei penal e de abolitio criminis. Vejamos:
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM. UTILIZAÇÃO COMO NOVO RECURSO DE APELAÇÃO. IMPOSSIBILIDADE. TRÂNSITO EM JULGADO EM 2018. AGRAVO IMPROVIDO.
+1. A revisão criminal foi indeferida liminarmente ante a impossibilidade de utilização da revisão criminal como segundo recurso de apelação e a inexistência de fato ou prova nova, em consonância com a jurisprudência firmada no Superior Tribunal de Justiça e a previsão do art. 621, I, do Código de Processo Penal.
+2. A mudança jurisprudencial quanto à necessidade de observação do procedimento do reconhecimento fotográfico ou pessoal ocorreu com base no julgamento realizado pela Sexta Turma do Superior Tribunal de Justiça nos autos do HC n. 598.886/SC, da relatoria do Ministro Rogério Schietti Cruz, publicado em 18/12/2020, mais de dois anos após o trânsito em julgado da condenação.
+3. A jurisprudência do STJ e do STF firmou-se no sentido de que não é admissível a utilização da revisão criminal e, por consequência, de habeas corpus substitutivo desta para aplicar retroativamente jurisprudência que se alterou após o trânsito em julgado do feito no qual se pretende a incidência do novo entendimento.
+4. A Terceira Seção do Superior Tribunal de Justiça afetou o Tema repetitivo n. 1.331, que definirá a possibilidade de aplicação retroativa de jurisprudência mais benéfica ao acusado e as situações em que a eventual benesse poderá ser aplicada. Contudo, o tema citado ainda não foi julgado e não prevê a suspensão dos processos que tratem da matéria, razão pela qual deve prevalecer a jurisprudência atual da Suprema Corte e deste Tribunal Superior quanto ao tema.
+5. Agravo regimental improvido. (AgRg no HC n. 993.486/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025, grifo nosso.)
+Portanto, quanto ao tema, está exaurida a jurisdição do Superior Tribunal de Justiça.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
