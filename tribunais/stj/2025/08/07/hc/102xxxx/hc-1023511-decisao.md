@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CARLOS APARECIDO DA SILVA SOBRINHO, no qual aponta como autoridade coatora Desembargador Relator do Tribunal de Justiça do Estado de Goiás, que indeferiu a liminar em mandamus prévio (e-STJ, fls. 32-34).
+O impetrante sustenta a ocorrência de constrangimento ilegal sofrido pelo paciente relativo à exigência de realização de exame criminológico para progressão de regime, ao argumento de é possível perceber de plano que não foi declinada nenhuma justificativa para sua realização.
+Aduz que o art. 112 da LEP, com redação dada pela Lei 10.792/2003, não mais prevê a obrigatoriedade da realização do exame criminológico para a concessão de benefícios a sentenciados que tenham atingido os requisitos objetivo e subjetivo previstos no ordenamento jurídico, a saber, lapso temporal e conduta carcerária satisfatória.
+Por fim, defende a superação da Súmula n. 691/STF, ante a flagrante ilegalidade apontada.
+Requer a concessão da ordem, inclusive liminarmente, para que seja cassada a decisão proferida pela autoridade coatora que determinou a realização do exame criminológico, e, por consequência, que seja concedido progressão de regime para o semiaberto, diante do preenchimento dos requisitos legais.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula n. 691/STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.").
+Ilustrativamente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE RELATOR QUE INDEFERIU PEDIDO DE LIMINAR EM HABEAS CORPUS IMPETRADO NA CORTE DE ORIGEM. SÚMULA 691/STF. INSURGÊNCIA CONTRA DECISÃO DO JUÍZO DE EXECUÇÃO QUE TERIA DESCUMPRIDO ORDEM DESTA CORTE, QUE DETERMINARA A SUBMISSÃO DO EXECUTADO A PERÍCIA MÉDICA DESTINADA A AVALIAR SUA CAPACIDADE MENTAL, ANTES DA EXPEDIÇÃO DE MANDADO DE PRISÃO PARA CUMPRIMENTO DE PENA NO REGIME SEMIABERTO. SUPERVENIENTE DECISÃO DO JUÍZO DE EXECUÇÃO DETERMINANDO A INSTAURAÇÃO DE INCIDENTE DE INSANIDADE MENTAL E SUSPENDENDO A EXECUÇÃO. PERDA DE OBJETO DA IMPETRAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância.
+ ..
+4. Agravo regimental desprovido." (AgRg no HC n. 837.994/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. TERATOLOGIA OU FALTA DE RAZOABILIDADE. EXCESSO DE PRAZO PARA APRECIAÇÃO DE PROGRESSÃO DE REGIME. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No caso, a despeito de pender exame criminológico, a defesa do agente impetrou habeas corpus na origem 10 dias após cumprir o lapso temporal para progressão de regime, e 12 dias depois nesta Corte Superior, sem dar oportunidade às instâncias ordinárias de analisarem o pedido de progressão e a realização do exame criminológico em tempo hábil.
+4. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido." (AgRg no HC n. 832.442/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+No caso dos autos, não observo flagrante ilegalidade na decisão que indeferiu a liminar no mandamus prévio, de modo a afastar o óbice sumular, visto que a matéria suscitada demanda, de fato, maior reflexão do Tribunal de origem sobre as razões pelas quais foi exigido o exame criminológico. Com efeito, aguardar o julgamento definitivo daquele habeas corpus é a providência mais cautelosa a ser tomada por esta Corte Superior, antes de qualquer intervenção.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
