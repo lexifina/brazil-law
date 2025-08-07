@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JONAS PEREIRA FILHO contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ e por deficiência na demonstração do dissídio jurisprudencial
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas em apelação nos autos de ação de indenização por danos materiais e morais.
+O julgado foi assim ementado (fl.1.077):
+EMENTA: APELAÇÃO CÍVEL. DIREITO CÍVEL E DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELO DA INSTITUIÇÃO FINANCEIRA. IMPUGNAÇÃO À CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA À PARTE AUTORA. NÃO ACOLHIDA. INEXISTÊNCIA DE PROVAS EM CONTRÁRIO. ALEGAÇÃO DE INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL PARA JULGAMENTO DO FEITO. NÃO ACOLHIDA. MÉRITO DA DEMANDA QUE REVOLVE ESSENCIALMENTE SOBRE A POSSIBILIDADE DE RESCISÃO CONTRATUAL E RESTITUIÇÃO DOS VALORES PAGOS A TÍTULO DE JUROS DE OBRA. FUNDO GARANTIDOR DA HABITAÇÃO POPULAR - FGHAB QUE, CONFORME PREVISÃO CONTRATUAL, LIMITAVA-SE A GARANTIR OS EVENTOS DE REDUÇÃO TEMPORÁRIA DA RENDA MENSAL DO ADQUIRENTE, DESEMPREGO, MORTE E INVALIDEZ. COMPETÊNCIA DA JUSTIÇA ESTADUAL. TESE DE ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. ACOLHIDA. ATRASO NA ENTREGA DO IMÓVEL. DESCUMPRIMENTO CONTRATUAL IMPUTÁVEL SOMENTE À CONSTRUTORA. DEMAIS RAZÕES RECURSAIS PREJUDICADAS. REFORMA DA SENTENÇA. ÔNUS SUCUMBENCIAIS INVERTIDOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do art. 485, VI, do CPC, pois o acórdão entendeu pela ilegitimidade passiva da instituição financeira recorrida.
+Requer o provimento do recurso para que se reforme o acórdão recorrido.
+Contrarrazões às fls. 1.236-1.245.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de indenização por danos materiais e morais em que a parte autora pleiteou a restituição dos valores pagos a título de taxa de obra e indenização por danos morais devido ao atraso na entrega do imóvel.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos autorais, condenando os demandados a restituir à parte autora os valores pagos a título de taxa de obra, com juros de mora e correção monetária, além de condenar ambas as partes ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação.
+A Corte estadual reformou a sentença para reconhecer a ilegitimidade passiva da instituição financeira ré, eximindo-a de qualquer obrigação relativa ao ressarcimento dos valores cobrados a título de juros de obra e ao pagamento das custas processuais e dos honorários advocatícios sucumbenciais.
+No recurso especial, a parte recorrente alega que o acórdão recorrido violou o art. 485, VI, do CPC, ao entender pela ilegitimidade passiva da instituição financeira recorrida.
+A Corte estadual concluiu que a responsabilidade pelo atraso na entrega do imóvel é exclusiva da construtora, não havendo ato ilícito imputável ao Banco do Brasil.
+Confira-se trecho do acórdão recorrido (fl. 1.089):
+Nesse ponto, uma vez que o atraso na entrega do imóvel deu-se em virtude de fatos praticados unicamente pela construtora demandada (prolongamento indevido do prazo de construção e entrega do imóvel), entende-se descabida a responsabilização da instituição financeira ré quanto ao ressarcimento dos danos alegados pela parte autora, inclusive quanto às parcelas relativas à taxa de evolução da obra.
+Não se vislumbra, no caso, qualquer tipo de descumprimento contratual por parte da instituição financeira apto a ensejar a sua responsabilização pelos danos advindos do atraso verificado para entrega do imóvel.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na ausência de responsabilidade da instituição financeira.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+No tocante ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
