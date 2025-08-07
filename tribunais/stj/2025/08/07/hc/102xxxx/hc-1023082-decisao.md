@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOAO RESENDE SALVADOR, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que denegou o Habeas Corpus n. 1.0000.25.225689-6/000 (fl. 16):
+HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - DECISÃO QUE MANTEVE A SEGREGAÇÃO CAUTELAR SOB OS MESMOS FUNDAMENTOS JÁ ANALISADOS EM HABEAS CORPUS ANTERIOR - REITERAÇÃO DE PEDIDO - NÃO CONHECIMENTO - SUBSTITUIÇÃO DA SEGREGAÇÃO CAUTELAR POR PRISÃO DOMICILIAR (ART. 318, II, DO CPP) - EXCEPCIONALIDADE NÃO DEMONSTRADA - ATUAÇÃO DILIGENTE DA AUTORIDADE APONTADA COMO COATORA - DETERMINAÇÃO DE TRANSFERÊNCIA DO PACIENTE PARA UNIDADE PRISIONAL COM TRATAMENTO DE SAÚDE ADEQUADO.
+1. A mera reiteração de pedido anteriormente enfrentado pela Turma Julgadora, em Habeas Corpus, não deve ser conhecido (Súmula 53, TJMG).
+2. A necessidade excepcional de substituição da Prisão Preventiva por Prisão Domiciliar, com fundamento no art. 318, II, do CPP, não fora comprovada, tendo em vista a atuação diligente da autoridade apontada como coatora, sendo determinada a transferência do Paciente para Unidade Prisional capaz de fornecer o tratamento de saúde adequado às condições do Agente.
+A defesa informa que o paciente foi preso preventivamente em 27 de março de 2025, em decorrência do cumprimento de mandado de busca e apreensão, nos Autos n. 5001651-09.2024.8.13.05127, sendo acusado de arremessar uma sacola contendo substância análoga à maconha e embalagens para drogas, apesar de estar deitado em repouso devido a uma cirurgia no joelho (fls. 3/4).
+Alega que o paciente possui neoplasia maligna do esôfago, está em fase terminal e necessita de cuidados médicos diários, que não podem ser prestados no sistema prisional (fls. 5/8).
+Sustenta que não há requisitos para a manutenção da custódia, pois o crime supostamente praticado não se caracteriza pela violência ou grave ameaça, e o paciente possui residência fixa e está com a saúde extremamente debilitada (fls. 9/13).
+Afirma que a decisão monocrática de primeiro grau carece de fundamentação idônea, limitando-se à gravidade abstrata do delito, sem demonstrar a necessidade da prisão preventiva (fls. 11/13).
+Requer a concessão da ordem liminar de habeas corpus, determinando o trancamento da ação penal. Caso não seja esse o entendimento, pede a revogação da prisão preventiva e a concessão de liberdade provisória, ou a aplicação de medidas cautelares diversas (fl. 15).
+É o relatório.
+Não visualizo a existência da apontada ilegalidade.
+Quanto aos fundamentos da prisão preventiva, esclarece o acórdão impugnado que, no Habeas Corpus n. 1.0000.25.108276-4/000, já foi denegada a ordem, salientando o fundado risco de reiteração delitiva, considerando a quebra de compromisso assumido com a Justiça e o fato de que Joao ostenta condenações definitivas anteriores, o que demonstra a insuficiência e inadequação das medidas cautelares diversas da prisão (fl. 19). E a matéria também foi examinada nesta Corte, nos autos do HC n. 1.002.303/MG, denegado.
+Com relação ao pleito de prisão domiciliar, consta do acórdão que já foi determinada, pela autoridade apontada como coatora, a transferência do paciente para unidade prisional que forneça o tratamento de saúde adequado às condições de saúde de Joao, o que, neste momento, afasta a possibilidade, excepcional, de substituição da prisão preventiva por domiciliar.
+Assim, como disposto pelo Tribunal estadual, não há comprovação, de plano, da ocorrência de constrangimento ilegal, por ato ilegal ou abuso de poder.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA. DECISÃO QUE MANTEVE A SEGREGAÇÃO CAUTELAR SOB OS MESMOS FUNDAMENTOS JÁ ANALISADOS EM HABEAS CORPUS ANTERIOR. REITERAÇÃO DE PEDIDO. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA SEGREGAÇÃO CAUTELAR POR PRISÃO DOMICILIAR (ART. 318, II, DO CPP). EXCEPCIONALIDADE NÃO DEMONSTRADA. DETERMINAÇÃO DE TRANSFERÊNCIA DO PACIENTE PARA UNIDADE PRISIONAL COM TRATAMENTO DE SAÚDE ADEQUADO. AUSENTE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
