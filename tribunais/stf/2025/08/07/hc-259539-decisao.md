@@ -1,0 +1,41 @@
+Decisão: 1. Trata-se de habeas corpus impetrado em face de decisão unipessoal que, exarada no âmbito do Superior Tribunal de Justiça, indeferiu liminarmente writ manejado àquela Corte (eDOC 7).
+
+    Busca-se, em suma, a suspensão de sessão marcada para oitiva do paciente, em razão de nulidade do procedimento de cooperação internacional por suposto cerceamento do direito de defesa.
+
+    É o relatório. Decido.
+
+    2. O mandamus, porém, não merece conhecimento
+
+    2.1. De plano, porque, a despeito da argumentação defensiva, esta Suprema Corte tem posição firme pela impossibilidade de admissão de habeas corpus impetrado contra decisão proferida por membro de Tribunal Superior, visto que, a teor do artigo 102, I, “i”, da Constituição da República, sob o prisma da autoridade coatora, a competência originária do Supremo Tribunal Federal somente se perfectibiliza na hipótese em que Tribunal Superior, por meio de órgão colegiado, atue nessa condição. Nessa linha, cito o seguinte precedente:
+
+    “É certo que a previsão constitucional do habeas corpus no artigo 5º, LXVIII, tem como escopo a proteção da liberdade. Contudo, não se há de vislumbrar antinomia na Constituição Federal, que restringiu a competência desta Corte às hipóteses nas quais o ato imputado tenha sido proferido por Tribunal Superior. Entender de outro modo, para alcançar os atos praticados por membros de Tribunais Superiores, seria atribuir à Corte competência que não lhe foi outorgada pela Constituição. Assim, a pretexto de dar efetividade ao que se contém no inciso LXVIII do artigo 5º da mesma Carta, ter-se-ia, ao fim e ao cabo, o descumprimento do que previsto no artigo 102, I, “i”, da Constituição como regra de competência, estabelecendo antinomia entre normas constitucionais.
+
+    Ademais, com respaldo no disposto no artigo 34, inciso XVIII, do Regimento Interno do Superior Tribunal de Justiça, pode o relator negar seguimento a pedido improcedente e incabível, fazendo-o como porta-voz do colegiado. Entretanto, há de ser observado que a competência do Supremo Tribunal Federal apenas exsurge se coator for o Tribunal Superior (CF, artigo 102, inciso I, alínea “i”), e não a autoridade que subscreveu o ato impugnado. Assim, impunha-se a interposição de agravo regimental” (HC 114.557 AgR, Rel. Min. Luiz Fux, Primeira Turma, julgado em 12.08.2014, grifei).
+
+    Sob essa perspectiva, não se inaugura a competência do Supremo Tribunal Federal, nas hipóteses em que, como in casu, não esgotada a jurisdição antecedente, visto que, dado o cabimento de agravo regimental, tal proceder acarretaria indevida supressão de instância. Precedentes:
+
+    Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição, à falta de manejo de agravo regimental ao Colegiado, não se esgotou. (HC 123.926, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 14.04.2015, grifei)
+
+    Inexistindo deliberação colegiada do Superior Tribunal de Justiça a respeito da questão de fundo suscitada pelo impetrante, não compete ao Supremo Tribunal Federal analisá-la originariamente, sob pena de indevida supressão de instância. (HC 124.561 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 10.02.2015, grifei)
+
+    Assim, no caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que, além de ausente o manejo da revisão criminal e de interposição prévia de irresignação regimental perante os juízos antecedentes, ataca-se, diretamente nesta Corte sentença condenatória já transitada em julgado e a decisão monocrática exarada no âmbito do Superior Tribunal de Justiça, também já transitada em julgado.
+
+    2.2. Ademais, ainda que se cogitasse da concessão da ordem de ofício, tal providência, consoante a jurisprudência desta Suprema Corte, deve ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na hipótese sob exame, em que houve mera notificação para oitiva e solicitação de documentos, o que não configura ameaça ao direito de locomoção do Paciente.
+
+    Ementa: HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. PRERROGATIVA DE FORO. CONEXÃO PROBATÓRIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. INOCORRÊNCIA. ATOS INTERLOCUTÓRIOS. AUSÊNCIA DE DANO OU RISCO EFETIVO OU IMINENTE AO ESTADO DE LIBERDADE. INADEQUAÇÃO DA VIA ELEITA. JUIZ INSTRUTOR. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. INEXISTENTE. ORDEM DENEGADA. 1. O habeas corpus não constitui via adequada para reexame dos elementos fático-probatórios que justificaram o reconhecimento da conexão instrumental e do juízo de conveniência que motivou a unidade de processamento e julgamento. Preenchida a hipótese modificativa de competência, não viola o devido processo legal “a tração por continência ou conexão do processo do co-réu ao foro por prerrogativa de função de um dos denunciados”, forte na Súmula 704/STF. 2. As decisões interlocutórias, salvo previsão legal específica, são irrecorríveis no âmbito processual penal. Se tais provimentos não traduzem dano ou risco atual ou iminente ao estado de liberdade, o inconformismo do acusado deve ser veiculado, oportunamente, pelas vias próprias, descabendo a utilização desmedida do habeas corpus, relevante remédio constitucional vocacionado exclusivamente à tutela do direito de locomoção. 3. O Juiz Instrutor atuante nos Tribunais Superiores, derivação expressa do art. 3º, III, da Lei 8.038/90, constitui longa manus do Relator e, nessa condição, atua sob sua constante supervisão. A delegação de atos de instrução, observadas as disposições legais e regimentais, consubstancia medida direcionada à racionalização das forças dirigidas à consecução da razoável duração do processo, sem que se subtraia dos membros do Tribunal a competência para processamento e julgamento das causas assim definidas pela Constituição. 4. Ordem denegada. (HC 131.164, de minha relatoria, Primeira Turma, DJe 14.9.2016)
+
+    Por fim, oportuno acrescentar, como bem apontou a PGR em sua manifestação, que o pedido de auxílio direto do Ministério Público de Portugal ao Ministério Público Federal não necessita da expedição de exequatur pelo STJ. Em casos análogos, essa Suprema Corte assim decidiu:
+
+    AGRAVO REGIMENTAL EM FACE DE DECISÃO MONOCRÁTICA DE RELATOR NO STF. PEDIDO DE COOPERAÇÃO JURÍDICA INTERNACIONAL. AUXÍLIO DIRETO. PLEITO DO MINISTÉRIO PÚBLICO PORTUGUÊS. TRATADO DE AUXÍLIO MÚTUO EM MATÉRIA PENAL. DECRETO 1.320/94. OITIVA DE PRESO. CUSTÓDIA PARA FINS DE EXTRADIÇÃO SUBMETIDA AO STF. COMPETÊNCIA. CARTA ROGATÓRIA E EXEQUATUR NO STJ. DESNECESSIDADE. AGRAVO PROVIDO. 1. O pedido de cooperação jurídica internacional, na modalidade de auxílio direto, possui natureza distinta da carta rogatória. Nos moldes do disposto nos arts. 28, 33, caput, e 40, todos do Código de Processo Civil, caberá auxílio direto quando “a medida não decorrer diretamente de decisão de autoridade jurisdicional estrangeira”, enquanto necessitará de carta rogatória quando for o caso de cumprir decisão jurisdicional estrangeira. 2. Formulado pedido de assistência direta pelo Ministério Público português ao Parquet brasileiro, com base em tratado internacional de mútua cooperação em matéria penal, firmado entre Brasil e Portugal – Decreto 1.320/1994 –, o cumprimento em território pátrio depende de mero juízo de delibação, sendo desnecessária a atuação homologatória em exequatur pelo Superior Tribunal de Justiça. 3. Encontrando-se o preso sob a custódia do Supremo Tribunal Federal, para fins de extradição, a esta Corte deve ser dirigida a comunicação de que o custodiado será ouvido em razão de pedido de cooperação formulado pela autoridade central portuguesa e encaminhado ao Ministério Público brasileiro. 4. Agravo regimental provido. (Pet 5946, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: EDSON FACHIN, Primeira Turma, julgado em 16-08-2016, ACÓRDÃO ELETRÔNICO DJe-237 DIVULG 07-11-2016 PUBLIC 08-11-2016).
+
+    3. Dessarte, diante dos limites cognitivos delineados ao acolhimento da pretensão defensiva, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+
+    Publique-se. Intime-se.
+
+    Brasília, 7 de agosto de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
