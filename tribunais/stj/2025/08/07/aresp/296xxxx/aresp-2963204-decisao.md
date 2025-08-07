@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual discute a exclusão do crédito presumido de Imposto sobre Circulação de Mercadorias e Serviços - ICMS das bases de cálculo do Imposto de Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, sem observância das supervenientes alterações normativas no artigo 30 da Lei n. 12.973/2014, posteriores à decisão da Primeira Seção no EREsp 1.517.492/PR.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na súmula 83 do STJ, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O agravo em recurso especial não pode ser conhecido porque, utilizada a súmula 83 do STJ como fundamento para inadmissão do especial, deve a parte demonstrar eventual equívoco com a indicação de decisões contemporâneas ou posteriores em sentido contrário, o que não foi feito.
+A respeito, entre outros: AgInt no AREsp n. 2.336.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023; AgInt nos EDcl no AREsp n. 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023.
+De toda sorte, cumpre destacar à parte recorrente o pacífico entendimento jurisprudencial deste Tribunal Superior, segundo o qual os créditos presumidos de ICMS não devem ser incluídos nas bases de cálculo do IRPJ e da CSLL, mesmo após as alterações normativas implementadas pela Lei Complementar n. 160/2017 (v.g.: AgInt no AREsp n. 2.460.687/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/9/2024, DJe de 7/10/2024; AgInt no REsp n. 2.107.239/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/9/2024, DJe de 23/9/2024).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO NÃO CONHECIDO.
