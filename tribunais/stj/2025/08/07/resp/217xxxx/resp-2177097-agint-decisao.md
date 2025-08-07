@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto por Maria Figueiredo de Moura contra decisão por mim proferida, que indeferiu o pedido de distinção, mantendo a determinação de retorno dos autos à origem, em razão dos Temas 1.255/STF e 1.313/STJ.
+A parte agravante alega que a decisão merece reforma, pois inexiste fundamento para o sobrestamento do processo até o julgamento do mérito do Tema 1.255 do STF, já que a controvérsia dos autos, que trata da fixação de honorários advocatícios em demandas de saúde, é distinta daquele tema.
+Afirma que o valor da causa no presente caso é significativamente menor e que o Tribunal de Justiça do Estado do Tocantins já reconheceu a ausência de similaridade entre os casos.
+Aduz que o Tema 1.313 do STJ, que trata da fixação de honorários advocatícios em demandas de saúde, possui maior especificidade e pertinência à presente demanda.
+Dessa forma, requer a reconsideração da decisão, para que seja acolhido o pedido de distinção em relação ao Tema 1.255 do STF, bem como determinada a vinculação do sobrestamento do feito com base apenas no Tema 1.313 do STJ.
+Impugnação apresentada às fls. 565/568.
+É o relatório.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que a presente insurgência merece prosperar, tendo em vista que a matéria de fundo veiculada no recurso especial não aborda se o proveito econômico é, ou não, exorbitante (Tema 1.255/STF), mas, tão somente, diz respeito à possibilidade de fixação de honorários sucumbenciais por equidade em causa que versa sobre fornecimento de medicamentos e outros tratamentos de saúde (Tema 1.313).
+Assim, considerando que a matéria deduzida no presente recurso é objeto de análise pelo Superior Tribunal de Justiça, sob o rito dos recursos repetitivos (Tema n.º 1313), com determinação de sobrestamento dos processos análogos, mostra-se pertinente a determinação de retorno dos autos à Corte de origem para que realize o juízo de conformação com o descrito no referido tema, que possui perfeita adequação com as questões jurídicas discutidas no feito.
+Nesse sentido, vale conferir: PDist no REsp 2.200.528/GO, Min. Paulo Sérgio Domingues, DJEN 11/07/2025; Edcl no Agint no PDist no Aresp 2.634.437/MS, Rel. Min. Gurgel de Faria, DJe 17/09/2024.
+Ante o exposto, reconsidero a decisão de fls. 535/537, e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia (Tema 1.313/STJ), o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
