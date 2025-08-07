@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado por SB Trade Comércio Exterior Ltda. com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 376):
+TRIBUTÁRIO. APELAÇÃO. REMESSA NECESSÁRIA. CRÉDITO PRESUMIDO DE ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ E DA CSL. LUCRO REAL. REFORMA DA SENTENÇA.
+1. O contribuinte não tem direito à exclusão de créditos de ICMS, apurados de forma especial pela lei estadual, em substituição aos créditos escriturais de ICMS que decorrem da não cumulatividade e que não são tributados pelo IRPJ/CSL.
+2. Caso em que a apelação e a remessa necessária merecem provimento.
+Opostos embargos declaratórios, foram rejeitados (fls. 429/432).
+A parte recorrente aponta violação aos seguintes dispositivos: I - art. 489, § 1º, incisos IV e VI, e 1.022, II, parágrafo único, II, do CPC, sustentando que "de forma subsidiária, cumpre salientar que o Acórdão recorrido merece ser anulado" (fl. 464), eis que, a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas; e II - arts. 30, §4º, da Lei 12.973/2014, 9º e 10, da Lei Complementar 160/2017, 43, 106 e 110, do CTN, 927, III e V, do CPC, ao argumento de que "o benefício fiscal em comento, em que pese substituir os créditos escriturais ordinariamente apurados pelo regime da não cumulatividade, se trata de verdadeira renúncia fiscal estadual, visto que o Estado de Santa Catarina renuncia à arrecadação de ICMS para conceder "crédito presumido" aos contribuintes detentores do Tratamento Tributário Diferenciado (TTD), fato este que, por sua vez, diminui os débitos a serem recolhidos mensalmente, nos termos da Lei Estadual nº 17.763/2019" (fl. 455), "de modo que seja reconhecido que a incidência do IRPJ/CSLL sobre o benefício fiscal concedido à Recorrente viola o pacto federativo, independentemente do cumprimento de quaisquer requisitos legais" (fl. 466).
+Foram ofertadas contrarrazões às fls. 520/526.
+Interposto recurso extaordinário às fls. 470/477, com negativa de seguimento à fl. 541.
+O Ministério Público Federal apresentou manifestação (fls. 558/560).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Além disso, no que se refere à eventual discussão sobre a natureza jurídica do benefício fiscal de ICMS a impedir a incidência de IRPJ/CSL L, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias (cf. fl. 378), exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
