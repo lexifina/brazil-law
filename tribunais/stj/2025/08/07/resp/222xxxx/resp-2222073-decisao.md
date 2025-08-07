@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJSC assim ementado (fl. 207):
+APELAÇÃO CÍVEL - Execução fiscal - Taxa de Poder de Polícia dos exercícios de 2010 a 2012 - Reconhecimento, de ofício, da nulidade da CDA, por ausência do fundamento legal específico da cobrança - Inexistência de alegação de eventual prejuízo de defesa - Possibilidade de substituição da CDA - Súmula nº 392 do STJ - Ausência de oportunidade ao exequente para a substituição do título - Sentença reformada - Recurso provido.
+Embargos de declaração rejeitados.
+A recorrente alega violação do artigos 202, III, do CTN e 2º, § 5º, III, da Lei de Execução Fiscal, sob os seguintes argumentos: a) As CDAs impugnadas não especificam o dispositivo legal em que se baseiam, limitando-se a citar genericamente a Lei Federal nº 6.830/80 e o Código Tributário Municipal; b) A ausência de indicação clara do termo inicial para a incidência de juros e correção monetária; c) Inconsistências comprometem a validade e a juridicidade das CDAs e da própria execução fiscal.
+Sem contrarrazões.
+Devolvidos os autos ao órgão julgador, na forma do art. 1030, inc. II, do CPC/2015, o acórdão foi mantido (fls. 234/240).
+Juízo positivo de admissibilidade às fls. 250/251.
+É o relatório. Decido.
+A questão tratada nos autos (Definir se, até a prolação da sentença nos embargos, é possível que a Fazenda Pública substitua ou emende a Certidão de Dívida Ativa (CDA), para incluir, complementar ou modificar o fundamento legal do crédito tributário) foi afetada para julgamento pelo rito dos recursos repetitivos, nos termos do artigo 1.036 do CPC/2015, nos autos dos REsp n. 2194708/SC, REsp n. 2194734/SC e REsp n. 2194706/SC (Tema n. 1.350), Relator Ministro Gurgel de Faria, tendo sido determinada a suspensão do processamento dos recursos especiais ou dos agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (art.256-L do RISTJ).
+Desse modo, em observância ao princípio da economia processual, é possível ao relator determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido nos autos do recurso representativo da controvérsia, devendo tal recurso ser apreciado na forma prevista nos arts. 1.040, I e II, e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, incs. I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
