@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por Patrícia Esther Amaro e outros contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+De acordo com o que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do STJ - RISTJ (redação dada pela Emenda Regimental n. 22/2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe à parte agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, rel. Ministro João Otávio de Noronha, rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial se fundamentou: (a) na aplicação da Súmula 7/STJ, em relação à alínea "a" do permissivo constitucional; (b) na ausência de cotejo analítico, em relação à alegação de dissídio jurisprudencial.
+Ocorre que o agravante não impugnou, especificamente, a referida fundamentação.
+No que tange à aplicação da Súmula 7/STJ, limitou-se a tecer a argumentação genérica de que "o recurso não se presta a rediscutir nenhuma prova apresentada nos autos", pretendendo, na realidade, "a revaloração do conjunto fático- probatório, com a apropriada adequação do fato à norma" (fl. 75, e-STJ). Não houve, porém, indicação de premissa fática que, tendo sido adotada no acórdão recorrido, seria incompatível com a conclusão do julgado, implicando ofensa aos dispositivos indicados como violados no recurso especial.
+Ausente, de igual maneira, impugnação específica ao fundamento de que as razões do recurso especial não apresentaram cotejo analítico destinado a demonstrar a hipótese da alínea "c" do permissivo constitucional. Ao contrário, as agravantes chegam a argumentar que "a exigência de cotejo analítico não pode ser utilizada de forma excessivamente rigorosa para inviabilizar o exame do recurso" (fl. 81, e-STJ), sem cuidarem de apresentar qualquer demonstração de que teriam atendido à exigência do art. 1.029, § 1º, do CPC/2015, e 255, § 1º, do Regimento Interno do STJ.
+Não houve, portanto, impugnação específica aos fundamentos adotados para a inadmissão do recurso especial, o que acarreta o não conhecimento do agravo, nos termos da Súmula 182/STJ.
+Nesse sentido: AgInt no AREsp 2.228.742/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe 15/3/2023; AgInt no AREsp 2.083.809/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 16/3/2023; AgInt no REsp n. 2.042.843/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/5/2023, DJe de 5/5/2023.
+Ante o exposto, não conheço do agravo.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. SÚMULA 7/STJ. AUSÊNCIA DE COTEJO ANALÍTICO AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
