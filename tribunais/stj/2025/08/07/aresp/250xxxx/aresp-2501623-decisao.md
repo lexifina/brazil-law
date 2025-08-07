@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS DIONE DE SOUZA SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 5652528-23.2022.8.09.0051 (fls. 654/671).
+No recurso especial, o agravante requer: a) o reconhecimento da nulidade de prova em razão da ilegalidade da busca pessoal e, consequentemente, sua absolvição, apontando a violação do art. 244 do Código de Processo Penal; e b) a desclassificação da conduta prevista no art. 180 do Código Penal, para a sua modalidade culposa (fls. 683/690).
+Apresentadas as contrarraz ões (fls. 700/711), o Tribunal de origem não admitiu o recurso com suporte no óbice da Súmula 7STJ (fls. 715/718).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento e desprovimento do agravo (fls. 750/753).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade.
+Quanto à tese da nulidade da prova, baseada na ausência de justa causa para busca pessoal, assim se manifestou a instância ordinária (fls. 661/662 - grifo nosso):
+ ..
+No caso dos autos, os policiais militares narraram, em juízo, que realizavam patrulhamento no Jardim Guanabara e avistaram o apelante caminhando na rua, o qual apresentou sinais de nervosismo, mudou de direção e tentou evadir-se do local ao notar a viatura, motivando sua abordagem. Durante o procedimento de busca pessoal, foram encontrados entorpecentes (32 porções de cocaína), dinheiro em espécie e um celular produto de crime.
+Outrossim, no interrogatório judicial, o acusado confirmou que a abordagem policial ocorreu em via pública e trazia consigo 5 (cinco) "pacotinhos" de cocaína.
+Deste modo, encontra-se justificada a busca pessoal, porquanto decorreu de fundada suspeita, uma vez que o réu estava em posse de coisa obtida por meio criminoso (celular roubado) e empreendeu fuga tão logo avistou a viatura policial, bem como o flagrante, ante a substância ilícita transportada consigo, como bem pontuou o magistrado:
+Vale dizer que é legítimo o flagrante quando os policiais, agentes públicos especializados nos procedimentos de abordagem, percebem a ação do indivíduo que tenta se esquivar da abordagem policial , por estar cometendo ilícitos, como ocorreu no presente caso, tanto é que, ao ser abordado o denunciado Marcos Dione estava na posse de entorpecentes e de um celular fruto de crime de roubo.
+Saliento que o fato do acusado ter reagido à presença dos policiais demonstra a necessidade da abordagem, ficando afastada a tese de ilegalidade.
+Ademais, destaca-se que eventuais vícios ocorridos no inquérito policial, como o próprio auto de prisão em flagrante, não são hábeis a contaminar a ação penal, pois aquele procedimento resulta em peça informativa e não probatória. Portanto, verificada a legalidade da busca pessoal e a regularidade do flagrante, a preliminar deve ser rejeitada.
+
+Diante do quanto exposto no trecho acima transcrito, tem-se que não se verifica ilegalidade na conduta perpetrada pelos policiais, em que se verificou atitude suspeita por parte do agravante, qual seja, sua esquiva e fuga, ao ser avistado pela composição policial, evidenciando a devida justa causa (fundadas razões) necessária à perpetrada busca pessoal, permitindo inferir que a abordagem realizada pelos agentes policiais foi precedida de um contexto fático, que fundou na fundada suspeita.
+Confiram-se: AgRg no HC n. 854.674/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2023, DJe de 25/10/2023; HC n. 877.943/MS, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 18/4/2024, DJe de 15/5/2024; AgRg no AREsp n. 2.676.467/PA, Ministro Otavio de Almeida Toledo, Sexta Turma, DJe 6/11/2024; AgRg no HC n. 904.707, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2024; e REsp n. 2.131.928/MG, Ministra Daniela Teixeira, Quinta Turma, DJEN 23/12/2024.
+Por fim, quanto ao pleito de desclassificação para o delito de receptação, para afastar os fundamentos da decisão agravada, sob a alegativa da inexistência de provas para a caracterização do dolo, como levanta o agravante, seria necessária a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante da Súmula 7/STJ.
+Em face do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento .
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. POSSE DE DROGAS PARA USO PRÓPRIO E RECEPTAÇÃO. TESE DE NULIDADE. PROVAS ILÍCITAS. BUSCA PESSOAL. FUNDADAS RAZÕES. FUGA. JUSTA CAUSA DEMONSTRADA PELA INSTÂNCIA ORDINÁRIA. TESE PARA DESCLASSIFICAÇÃO DA CONDUTA PREVISTA NO ART. 180 DO CÓDIGO PENAL PARA A MODALIDADE CULPOSA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
