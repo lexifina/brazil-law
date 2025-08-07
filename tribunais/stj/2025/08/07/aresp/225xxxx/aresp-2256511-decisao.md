@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por IGREJA APOSTÓLICA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 35):
+Cumprimento de sentença. Divergência sobre a natureza do depósito efetuado para fins de acréscimo de multa e de honorários. Ausência de indicação expressa do devedor acerca da natureza do depósito, seguindo-se a impugnação. Inexistência de suspensão de consectários legais. Precedente do C. STJ. Recurso provido.
+No caso, aplica-se a regra do art. 523, §§ 1º e 3º do CPC, pois a consequência da condenação é a exigibilidade, cabendo à parte obstar os consectários legais com o depósito voluntário, o que deve ser declarado como tal. Como se posiciona o C. STJ, em recente decisão, não cabe presunção de pagamento sem haver ressalva, para então, sucessivamente, ser apresentada a impugnação.
+Rejeitados os embargos de declaração opostos (fls. 50-51).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 17, 218, § 3º, 223, 492, parágrafo único, 523, § 1º, e 525 do CPC.
+Insurge-se contra a condenação ao pagamento da multa prevista no art. 523, § 1º, do CPC, ao argumento de que teria realizado o pagamento da exata quantia perseguida pelo recorrido e não o mero depósito de qualquer valor. Aduz que o referido depósito surtiu o efeito de extinguir a obrigação para com o recorrido.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 191-202).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 203-206), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 236-250).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao dar provimento ao agravo de instrumento, deixou claro que (fls. 36-38):
+Em fase de cumprimento de sentença, foi efetuado depósito que a parte agravante entende tratar-se de caução e não de pagamento voluntário, citando decisão anterior exarada. De sua parte, a agravada afirma que se tratou de pagamento, pois não expressou que se tratava de caução.
+A agravada apontou a realização do depósito e deixou claro que pretendia impugnar os cálculos, mas não referiu a parte incontroversa, apenas indicando reconhecimento do débito de R$ 65.590,11 no ato da impugnação, que é subsequente ao prazo de depósito voluntário.
+Portanto, há contrariedade à natureza de pagamento voluntário quando não se faz ressalva, bem como a impugnação dissipa qualquer dúvida em relação à discussão. Ou seja, houve depósito e se controverteu em relação a excesso, cabendo assim impor a multa e honorários (no caso de não haver êxito na impugnação).
+(..)
+Em suma, o depósito realizado durante a primeira quinzena (prevista no artigo 523 do CPC/2015) somente pode ser entendido como pagamento se o devedor se manifesta expressamente nesse sentido ou se após o prazo subsequente (artigo 525 com início independentemente de penhora ou nova intimação do executado), a impugnação não é apresentada.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Quanto ao mérito, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que somente se caracteriza como pagamento, para os fins do disposto no § 1º do art. 523 do Código de Processo Civil, o depósito judicial do valor integral da dívida, desde que realizado de forma incondicionada, ou seja, sem subordinar o levantamento da quantia à ulterior discussão sobre a existência ou o montante do débito em sede de impugnação ao cumprimento de sentença.
+Assim, nos casos em que o devedor efetua o depósito exclusivamente com o intuito de garantir o juízo, e não como forma inequívoca de adimplemento, não se afasta a incidência da multa de 10% e dos honorários advocatícios de igual percentual, previstos no referido dispositivo legal. Cito precedente:
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ART. 523, § 1º, DO CPC. DEPÓSITO INTEMPESTIVO. INCIDÊNCIA DE MULTA E HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. 1. Em cumprimento de sentença, somente o depósito tempestivo e voluntário da quantia devida em juízo e a não apresentação de impugnação afastam a incidência da multa e dos honorários advocatícios previstos no art. 523, § 1º, do CPC. 2. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do acervo fático-probatório dos autos atrai a incidência da Súmula n. 7 do STJ. 3. Agravo interno desprovido. (AgInt no REsp n. 2.072.420/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+No caso, o acórdão recorrido entendeu que o depósito realizado pela parte devedora tem natureza de garantia do juízo e não de pagamento espontâneo. Portanto, a alteração das conclusões a que chegaram as instâncias ordinárias demandaria o reexame do acervo fático-proba tório dos autos, inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MULTA DO ART. 523, § 1º, DO CPC. DEPÓSITO REALIZADO PELA PARTE DEVEDORA. NATUREZA DE GARANTIA DO JUÍZO. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
