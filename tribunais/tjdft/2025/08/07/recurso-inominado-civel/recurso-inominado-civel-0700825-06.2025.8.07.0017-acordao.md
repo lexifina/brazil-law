@@ -1,0 +1,34 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0700825-06.2025.8.07.0017RECORRENTE(S)ANTONIO MARCOS MARTINS DA SILVARECORRIDO(S)BANCO MERCANTIL DO BRASIL SARelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº2029932
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. CONSUMIDOR. ALEGAÇÃO DE BLOQUEIO INDEVIDO DE CONTA. FATO NÃO COMPROVADO PELO AUTOR. INVERSÃO DO ÔNUS DA PROVA. PRERROGATIVA NÃO AUTOMÁTICA. NECESSIDADE DE COMPROVAÇÃO MÍNIMA. RECURSO CONHECIDO E DESPROVIDO.I. Caso em exame1. Trata-se de recurso inominado interposto pelo autor em face da sentença proferida pelo Juízo do Juizado Especial Cível e Criminal do Riacho Fundo que, em ação de obrigação de fazer c/c pedido indenizatório, julgou improcedentes os pedidos deduzidos na inicial.2. Recurso próprio e tempestivo (ID72060658). Sem preparo, pois o recorrente formulou pedido de gratuidade de justiça.3. Em suas razões recursais, o recorrente alega que, em nenhum momento, o banco trouxe aos autos prova concreta de que o autor teria pleno acesso à sua conta durante o período alegado ou que não teria havido qualquer anormalidade técnica. Sustenta que a sentença merece ser reformada integralmente, pois, ao exigir do consumidor a prova da falha no sistema bancário e negar a inversão do ônus da prova em um contexto de manifesta hipossuficiência técnica e informacional, distanciou-se dos princípios e regras protetivas estabelecidas pelo Código de Defesa do Consumidor. Aduz que a decisão recorrida, ao atribuir ao consumidor o ônus de provar a falha no sistema do banco, desconsiderou a hipervulnerabilidade do autor frente à complexidade e opacidade dos sistemas bancários digitais. Afirma que a sugestão de que um simples "print" seria suficiente para comprovar a falha ignora a dinâmica real das interações com aplicativos bancários, onde mensagens de erro podem desaparecer rapidamente. Defende que a negativa da inversão do ônus da prova, sob o argumento de ausência de verossimilhança e hipossuficiência probatória, contraria a própria lógica do sistema consumerista. Acrescenta que a privação do acesso a recursos financeiros essenciais para o sustento e o pagamento de contas privadas configura dano moral in re ipsa. Pede a concessão da gratuidade de justiça, bem como a reforma da sentença, com a procedência do pedido inicial.4. Contrarrazões do recorrido pelo desprovimento do recurso (ID 72061111).5. Pedido de gratuidade de justiça. Os documentos trazidos aos autos com a petição de ID 72438636 comprovam a hipossuficiência financeira do recorrente. Defiro a gratuidade de justiça.II. Questão em discussão6. Saber se houve falha na prestação dos serviços por parte do banco réu consistente em bloqueio indevido da conta do autor.III. Razões de decidir7. As razões do recorrente não merecem prosperar.8. Conquanto a relação entabulada entre as partes seja uma relação de consumo, a atrair a incidência do CDC e, consequentemente, a responsabilidade objetiva do fornecedor, no caso em exame não restou comprovado qualquer bloqueio indevido da conta do autor por parte do banco réu.9. Com efeito, a parte autora não logrou comprovar o bloqueio indevido em sua conta por parte do banco réu. Não apresentou um comprovante sequer do alegado bloqueio indevido, tampouco comprovou as conversas supostamente mantidas com o gerente ou com os canais de atendimento do banco réu.10. Não se desconhece que o art. 6º, VIII, do Código de Defesa do Consumidor assegura ao consumidor o direito à inversão do ônus da prova quando, a critério do juiz, restar demonstrada a hipossuficiência do consumidor ou a verossimilhança das suas alegações. Ocorre que tal prerrogativa não desonera o consumidor de apresentar, minimamente, narrativa fática detalhada e elementos probatórios mínimos que permitam ao Judiciário avaliar a plausibilidade das afirmações. A inversão do ônus da prova não é automática e não exime o consumidor de demonstrar a existência de indícios ou fundamentos mínimos que sustentem sua pretensão. Assim, caberia ao recorrente ter comprovado a ocorrência do bloqueio indevido da conta e das conversas mantidas com os prepostos do banco réu, ônus do qual, contudo, não se desincumbiu.11. No ponto, vale lembrar o ensinamento de Daniel Amorim Neves: "O ônus da prova carreado ao réu pelo art. 373, II, do Novo CPC só passa a ser exigido no caso concreto na hipótese de o autor ter se desincumbido de seu ônus probatório, porque o juiz só passa a ter interesse na existência ou não de um fato impeditivo, modificativo ou extintivo do direito do autor, após se convencer da existência do fato constitutivo desse direito do autor. Significa dizer que, se nenhuma das partes se desincumbir de seus ônus no caso concreto e o juiz tiver que decidir com fundamento na regra do ônus da prova, o pedido do autor será julgado improcedente" (Manual de Direito Processual Civil, Ed. Juspodivm, 10ª edição, pág. 736).12. Enfim, não se constata no caso em exame qualquer falha na prestação dos serviços por parte do banco réu, ora recorrido, razão pela qual se revela correta a sentença ao julgar improcedente o pedido deduzido na inicial, não merecendo qualquer reparo.13. Nesse sentido: Acórdão 1928785, 0702911-17.2024.8.07.0006, Relator(a): FLÁVIO FERNANDO ALMEIDA DA FONSECA, PRIMEIRA TURMA RECURSAL, data de julgamento: 27/09/2024, publicado no DJe: 10/10/2024.IV. Dispositivo e tese14. RECURSO CONHECIDO E DESPROVIDO. Condeno o recorrente ao pagamento das custas processuais e honorários advocatícios, estes fixados em 10% do valor atualizado da causa, nos termos do art. 55, caput, da Lei 9.099/95, observada a gratuidade de justiça ora deferida.15. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz ANTONIO FERNANDES DA LUZ, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Agosto de 2025
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
