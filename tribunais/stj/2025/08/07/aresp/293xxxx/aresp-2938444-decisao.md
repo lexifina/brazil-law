@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA ENERGÉTICA DO CEARÁ contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, no qual discute a incidência do Imposto de Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL sobre receita originada de juros moratórios derivados de inadimplemento de obrigações contratuais
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na súmula 83 do STJ, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O agravo em recurso especial não pode ser conhecido porque, utilizada a súmula 83 do STJ como fundamento para inadmissão do especial, deve a parte demonstrar eventual equívoco com a indicação de decisões contemporâneas ou posteriores em sentido contrário, o que não foi feito.
+A respeito, entre outros: AgInt no AREsp n. 2.336.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023; AgInt nos EDcl no AREsp n. 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023.
+De toda sorte, cumpre destacar à parte recorrente o pacífico entendimento jurisprudencial deste Tribunal Superior, segundo o qual o IRPJ e a CSLL incidem sobre as receitas derivadas de juros de mora e correção monetária incidentes no inadimplemento de obrigações contratuais. Vide, entre outros: AgInt no REsp n. 1.516.980/PE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/3/2025, DJEN de 1/4/2025; AgInt no REsp n. 1.469.588/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/9/2024, DJe de 12/9/2024; AgInt no AREsp n. 2.199.473/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 15/5/2023, DJe de 18/5/2023; AgInt nos EDcl no AREsp n. 1.762.183/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 3/10/2022, DJe de 20/10/2022.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO NÃO CONHECIDO.
