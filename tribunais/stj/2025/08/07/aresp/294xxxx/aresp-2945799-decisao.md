@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+DIREITO PROCESSUAL CIVIL - AGRAVO INTERNO EM RECURSO DE APELAÇÃO - AÇÃO DE OBRIGAÇÃO DE FAZER COM TUTELA DE URGÊNCIA - FORNECIMENTO DE PROCEDIMENTO CIRÚRGICO. HONORÁRIOS SUCUMBENCIAIS - ENTES PÚBLICOS - FIXAÇÃO POR EQUIDADE - DECISÃO RATIFICADA - RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 85, § 2º, § 3º, § 4º, III, § 6º-A, e 11 do CPC, no que concerne à necessidade de que os honorários advocatícios sejam arbitrados com base em percentual sobre o proveito econômico obtido pela parte vencedora, descabendo-se a utilização do critério da equitatividade, pois a causa possui valor definido e que não é irrisório, além disso, a fazenda pública figura no polo passivo da demanda. Argumenta:
+Consoante já exposto alhures, a demanda versa sobre a condenação dos entes públicos na obrigação de realizar procedimento cirúrgico no valor de R$ 96.280,00 - valor não impugnado em momento oportuno.
+Todavia, o Tribunal a quo fixou o valor dos honorários por equidade em R$ 1.500,00 para cada ente, resultando no valor de R$ 3.000,00, ignorando a existência de proveito econômico auferível.
+Sobreleva ressaltar que é plenamente possível a aferição imediata do proveito econômico nas ações cuja pretensão é a obtenção de tratamento médico, consubstanciado no valor do procedimento.
+Nesse sentido, em decisão proferida em 08 de abril de 2024, o Exmo. Ministro Herman Benjamin, nos autos do Agravo em Recurso Especial n. 2.555.444/MS, assim se manifestou:
+ ..
+É preciso enfatizar que, em face da decisão monocrática acima citada, foram opostos embargos de declaração, que restaram rejeitados sob o argumento de que a despeito do precedente referido pelo órgão julgador, a Corte Especial do Superior Tribunal de Justiça já firmou o entendimento de que é possível a aferição imediata do proveito econômico nas demandas nas quais se pleiteia o custeio de tratamento médico (AgInt nos E Dcl nos ER Esp 1.866.671/RS, Rel. Ministro Luis Felipe Salomão, Corte Especial, D Je de 27.9.2022), de modo que não há que se falar em causa de valor inestimável" (fls. 399, e-STJ).
+Outrossim, é imperioso mencionar o que, mais recentemente, restou decidido no REsp n. 2.121.874/SC, da relatoria do Ministro Afrânio Vilela, Segunda Turma, julgado em 11 de junho de 2024:
+ ..
+Na comparação entre o acórdão invectivado e os precedentes do STJ supracitados, é possível concluir que as demandas prestacionais na área da saúde devem obedecer, em regra, o disposto no art. 85, § 3º do Código de Processo Civil.
+Registrem-se ainda, a propósito, recentes julgados proferidos pela Corte Especial quanto à impossibilidade de fixação equitativa dos honorários sucumbenciais nas causas em que se pleiteia o custeio de tratamento médico, com os nossos destaques:
+ ..
+Assim, a r. decisão recorrida deixou de observar a impossibilidade de fixação equitativa de honorários sucumbenciais nas causas em que a Fazenda Pública for parte, por expressa previsão legal contida no art. 85, §§ 2º, 3º, 4º, III, e 6º-A, do Código de Processo Civil.
+Como já referido algures, o Superior Tribunal de Justiça vem reafirmando seu entendimento de que é possível a aferição imediata do proveito econômico nas demandas em que se pleiteia custeio de tratamento médico.
+Por conseguinte, no que respeita aos honorários sucumbenciais, depreende-se do disposto no art. 85, § 3º, do Código de Processo Civil, que, nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2º.
+Destarte, tratando-se de demanda ajuizada contra a Fazenda Pública, cujo pedido é determinado - realização de procedimento cirúrgico - com valor aferível segundo o proveito econômico a ser obtido pela parte autora, não restam dúvidas de que os limites e critérios estabelecidos no art. 85, § 3º, do Código de Processo Civil, bem como os regramentos dispostos no mesmo artigo, em seus §§ 2º, 4º, III, e 6º-A, devem ser obrigatoriamente considerados, não sendo o caso, portanto, de apreciação equitativa.
+Ainda nesse contexto, apenas nas causas em que for inestimável ou irrisório o proveito econômico, ou, ainda, quando o valor da causa for muito baixo, o juiz poderá arbitrar o valor dos honorários por apreciação equitativa, nos termos do art. 85, § 8º, do Código de Processo Civil, conforme o entendimento firmado pelo Superior Tribunal de Justiça na Tese 1.076. (fls. 468).
+Dessa forma, é claro que se admite a fixação de honorários sucumbenciais por apreciação equitativa caso o proveito econômico obtido pelo vencedor for inestimável ou irrisório, ou o valor da causa for muito baixo, o que não é, evidentemente, a hipótese dos autos. (fls. 464-469).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" ;(AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
