@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão proferida no recurso especial, em que se discute o reconhecimento da especialidade da atividade de "motorista de caminhão/motorista de ônibus/cobrador de ônibus", por penosidade.
+A parte agravante alega que a matéria abordada no presente feito guarda relação com a controvérsia afetada ao rito dos recursos repetitivos, no âmbito do Tema n. 1.307/STJ.
+Sem impugnação (fl. 1.255).
+É o relatório. Decido.
+Diante dos argumentos apresentados na presente irresignação, exerço o juízo de retratação facultado pelo art. 259 do Regimento Interno desta Corte, e torno sem efeito a decisão de fls. 1.237-1.240.
+A questão alusiva a "definir se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995" foi submetida ao rito do julgamento dos recursos repetitivos, nos termos do art. 1.036 do CPC/2015, nos autos dos REsp"s 2.164.724/RS e 2.166.208/RS (Tema n. 1.307/STJ), havendo sido determinada a suspensão do processamento de todos os processos que cuidem de idêntica controvérsia.
+Consoante a jurisprudência desta Corte, encontrando-se o tema afetado ao rito dos recursos repetitivos, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso especial afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos artigos 1.039 e 1.040 do CPC/2015. Nesse sentido: EDcl no AgInt no AREsp n. 1.445.132/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; EDcl no AgInt no REsp n. 1.478.016/SP, relator Ministro Benedito Gonçalves, Primeira Turma, de DJe 6/4/2018.
+Ante o exposto, torno sem efeito a decisão de fls. 1.237-1.240 e, prejudicada a análise do recurso, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.
