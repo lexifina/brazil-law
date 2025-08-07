@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por CENTRAIS ELÉTRICAS BRASILEIRAS S/A - ELETROBRAS contra decisão que inadmitiu recurso especial, em razão da incidência das súmulas 284/STF e 83/STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 59):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ENERGIA ELÉTRICA. ELETROBRÁS. IMPUTAÇÃO AO PAGAMENTO.
+As regras especiais relativas ao ECE determinam primeiro a incidência de juros de remuneração sobre o principal e, em um segundo momento, a incidência de juros de mora sobre a soma do principal com os juros de remuneração (quando aplicável). Por consequência, a imputação de pagamento deve seguir a ordem inversa, ou seja, primeiro se abatem os juros de mora, depois os juros de remuneração e, por último, o principal.
+Embargos de declaração rejeitados (fls. 72/73).
+No recurso especial, interposto com fulcro art. 105, III, alínea "a", da Constituição Federal, a recorrente aponta violação dos arts. 489, § 1º, IV e 1.022, II, do CPC/2015, alegando vício de omissão em relação à alegação de natureza de direito público do empréstimo compulsório.
+No mérito, assevera que houve violação ao art. 141 da Lei n. 14.133/21; art. 37 da Lei n. 4.320/64; art. 926 do CPC; arts. 352, 354, 355 do Código Civil, sustentando, em síntese, que a ordem de imputação ao pagamento deveria observar as regras de direito público, de modo que o "pagamento deve ser imputado, preferencialmente, ao principal, após, os juros remuneratórios e, por fim, aos juros moratórios".
+Sem contrarrazões.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado o fundamento da decisão agravada, passa-se ao exame do recurso especial.
+De início, afasta-se a alegada violação arts. 489, § 1º, IV e 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No tocante à questão de fundo, o tribunal de origem decidiu a questão da ordem da imputação de pagamento sob o fundamento de que se aplica a legislação própria do empréstimo compulsório sobre energia elétrica (Decreto-Lei n. 1.512/1976) em relação ao adimplemento obrigacional, afastando-se a disciplina do Código Civil por incidência do princípio da especialidade.
+Nesse sentido, vejamos um trecho do voto condutor do acórdão (fl. 57):
+A decisão liminar (e2d1) neste agravo de instrumento resolveu suficientemente a matéria recursal:
+Quanto ao tema, esta Primeira Turma mantém jurisprudência indicando que as regras de atualização monetária, de incidência de remuneração, de vencimento, de adimplemento (imputação de pagamento) e de mora estabelecidas na legislação própria do empréstimo compulsório sobre energia elétrica (DL 1.512/76) são regras especiais que se sobrepõem àquelas regras gerais estabelecidas no art. 354 e 355 do Código Civil (TRF4, Primeira Turma, AG 5045652-73.2018.4.04.0000, 15jun.2020).
+A legislação especial do ECE indica que (i) o valor principal, acrescido de correção monetária, pode ser resgatado em 20 anos; (ii) os juros remuneratórios vencem anualmente, em julho do ano seguinte ao da arrecadação do ECE; (iii) os juros remuneratórios incidem sobre o principal atualizado monetariamente, por força do disposto no §2º do art. 2º do Dl 1.512/1976 e no parágrafo único do art. 2º do D 81.668/1978.
+As regras especiais relativas ao ECE determinam primeiro a incidência de juros de remuneração sobre o principal e, em um segundo momento, a incidência de juros de mora sobre a soma do principal com os juros de remuneração (quando aplicável). Por consequência, a imputação de pagamento deve seguir a ordem inversa, ou seja, primeiro se abatem os juros de mora, depois os juros de remuneração e, por último, o principal, como já decidiu esta Corte:
+(..)
+Não há prova evidente do direito alegado.
+Assim, no que tange à alegada ofensa aos arts. 352, 354, 355 do Código Civil, observo que os argumentos da Recorrente são inidôneos a infirmar o fundamento adotado pela Corte de origem, porquanto ausente comando suficiente nos dispositivos apontados para alterar a mencionada conclusão. Aplica-se à hipótese a Súmula 284/STF.
+No que diz respeito aos artigos 141 da Lei n. 14.133/21; 37 da Lei n. 4.320/64; e 926 do CPC, e à tese a eles vinculada, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula n. 282/STF.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. IMPUTAÇÃO DE PAGAMENTO. JUROS DE MORA. JUROS REMUNERATÓRIOS. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
