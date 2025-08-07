@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio da qual a Justiça inglesa (Tribunal Comercial e Imobiliário da Alta Corte de Justiça da Inglaterra e País de Gales) solicita que se proceda à citação da empresa Adufertil Fertilizantes Ltda. para tomar conhecimento da ação de violação contratual relativa ao Processo CL-2024-000486, a fim de que possa oferecer contestação no prazo de 22 dias.
+A parte interessada manifestou-se espontaneamente nos autos e apresentou impuggnação na qual, em síntese: a) eventual citação/penhora somente ocorra após o contraditório efetivo e a tramitação regular no Brasil; b) alega que não foram observados os requisitos necessários para a homologação de título judicial estrangeiro, ou seja, os arts. 963 do CPC e 216-C e 216-D do RISTJ; e c) pugna pelo indeferimento do pedido do exequatur (fls. 119-140).
+O Ministério Público Federal opinou pela devolução do processo à origem, porquanto cumprida a diligência rogada (fls. 145-149).
+É o relatório.
+Decido.
+Os argumentos não prosperam, pois se referem a aspectos relacionados à Homologação de Decisão Estrangeira que não se aplicam à concessão do exequatur à Carta Rogatória.
+De fato, a homologação de sentença tem por objetivo outorgar eficácia em nosso País a uma decisão proferida em outro Estado. A Carta Rogatória, por seu turno, é instrumento de cooperação jurídica internacional que viabiliza a realização de atos no território nacional a pedido da Justiça rogante. É, destarte, a maneira pela qual se permite a comunicação processual entre os magistrados de diversos países por meio de um pedido formal que se destina ao auxílio da instrução de determinado processo.
+Cabe esclarecer que a comissão foi encaminhada pela via diplomática, o que presume a autenticidade dos documentos. Assim, o requisito da legalização foi preenchido. A tramitação oficial dispensa a tradução por profissional juramentado no Brasil e, nestes autos, os documentos que acompanham a comissão permitem a compreensão da controvérsia, não havendo comprometimento do direito de defesa.
+No caso em apreço, o pedido envolve a intimação da parte interessada dos termos da decisão proferida pela Justiça rogante, e o ato se perfez com o seu comparecimento para apresentação da impugnação (AgInt na CR 11.209/EX e AgInt na CR 10.434/EX, ambos de relatoria da Ministra Laurita Vaz, DJe de 27.9.2017 e de 15.12.2016 respectivamente).
+Ademais, de acordo com o previsto no art. 216-Q do RISTJ, a defesa somente poderá versar sobre a autenticidade dos documentos, inteligência da decisão e observância dos requisitos previstos no normativo. Apesar disso, a manifestação do interessado ultrapassa esses limites do juízo de delibação (contenciosidade limitada), porquanto submete ao conhecimento do Superior Tribunal de Justiça matérias das quais apenas a Justiça rogante pode conhecer.
+A propósito:
+PROCESSO CIVIL. CARTA ROGATÓRIA. AGRAVO INTERNO. OFENSA À DIGNIDADE DA PESSOA HUMANA E À ORDEM PÚBLICA. NÃO OCORRÊNCIA. CONCESSÃO DE EXEQUATUR. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE.
+1. A prática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples notificação do interessado acerca de processo em curso na Justiça rogante não constitui nenhuma ofensa à ordem pública ou à soberania nacional, destinando-se apenas a dar conhecimento de ação em curso na Justiça alienígena.
+2. Dispensa-se a remessa da carta rogatória à Justiça Federal após a concessão do exequatur quando a parte interessada é considerada citada em razão do comparecimento aos autos para apresentar impugnação.
+3. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão de exequatur à carta rogatória, sendo ao mérito da causa.
+Agravo interno improvido. (AgInt na CR 17.247/EX, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 19/10/2022, grifo acrescido.)
+Anoto que a diligência pretendida não contraria os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório. A solicitação de cumprimento de sentença estrangeira não pode ser confundida com a Carta Rogatória, que é a hipótese dos autos. Assim, "o mero procedimento citatório não produz qualquer efeito atentatório à soberania nacional ou à ordem pública, apenas possibilita o conhecimento da ação que tramita perante a justiça alienígena e faculta a apresentação de defesa" (AgRg na CR 10.849-7, relator Ministro Maurício Corrêa, DJ de 21.5.2004).
+Nesse sentido:
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. OFENSA À ORDEM PÚBLICA E À SOBERANIA NACIONAL. INOCORRÊNCIA.
+- Não se exige, tanto na legislação brasileira quanto na americana, que o ato citatório venha acompanhado de todos os documentos mencionados na petição inicial. Não há falar, desse modo, em violação dos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa.
+- A prática de ato de comunicação processual é plenamente admissível em carta ro gatória. A simples citação, por si só, não apresenta qualquer situação de afronta à ordem pública ou à soberania nacional, destinando-se, apenas, a dar conhecimento da ação em curso para permitir a defesa da interessada.
+Agravo regimental improvido. (AgRg na CR n. 535/EX, relator Ministro Barros Monteiro, DJ de 11/12/2006.)
+Desse modo, o objeto desta Carta Rogatória não atenta contra a soberania nacional, contra a dignidade da pessoa humana nem contra a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P, ambos do RISTJ, concedo o exequatur.
+Diante do cumprimento da diligência rogada (fls. 119-140), considero consumado o objeto da comissão, o que torna desnecessária a remessa dos autos à Justiça Federal.
+Confira-se precedente da Corte Especial sobre a questão:
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. INTIMAÇÃO PRÉVIA FEITA VIA POSTAL COM AVISO DE RECEBIMENTO ASSINADO PELO PRÓPRIO INTERESSADO. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA.
+I - Na fase de intimação prévia, é enviada ao interessado cópia integral da comissão rogatória.
+II - No caso, o Aviso de Recebimento foi assinado pelo próprio interessado, o que leva à conclusão de que ele tomou conhecimento de todos os termos da rogatória em questão.
+III - Assim, tendo o interessado tomado conhecimento do processo em trâmite no juízo rogante, foi consumado o objeto da diligência, não havendo, portanto, necessidade de envio dos autos à Justiça Federal.
+Agravo regimental desprovido. (AgRg na CR 9.599/EX, relator Ministro Francisco Falcão, DJe de 12/6/2015, grifo acrescido.)
+Ante o exposto, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente, com a observação de que o prazo para comparecimento perante a autoridade estrangeira será contado da juntada da Carta Rogatória aos autos do processo estrangeiro.
+Publique-se.
+EMENTA
