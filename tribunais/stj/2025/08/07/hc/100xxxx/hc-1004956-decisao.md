@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Francisco Odaildo Facundo de Melo em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Ceará.
+Consta dos autos que o paciente foi condenado às penas de 49 anos e 5 meses de reclusão e 3.987 dias-multa no regime fechado, como incurso nas sanções dos arts. 2º, §§ 2º e 4º, II, da Lei n. 12.850/2013 (organização criminosa), 14 da Lei n. 10.826/2003 (porte ilegal de arma) e 33 da Lei n. 11.343/2006 (tráfico de drogas, por três vezes), todos em concurso material (fl. 3).
+Em apelação, o Tribunal de Justiça do Estado do Ceará deu parcial provimento ao recurso defensivo para redimensionar a pena definitiva para 30 anos, 9 meses e 12 dias de reclusão e 2.305 dias-multa (fl. 4).
+O impetrante sustenta constrangimento ilegal decorrente da condenação do paciente sem a comprovação da materialidade do crime de tráfico de drogas, uma vez que não houve apreensão de drogas e produção do laudo toxicológico (fl. 4).
+Alega que "é impossível a comprovação da materialidade delitiva do crime de tráfico de drogas sem o laudo toxicológico como também sem apreensão de entorpecente", citando precedente do Superior Tribunal de Justiça no HC n. 686.312/MS (fls. 2-3).
+Ausente pedido de liminar (fl. 6). No mérito, pugna pela concessão da ordem para absolver o paciente em relação ao crime de tráfico de drogas (fl. 5).
+Parecer do Ministério Público nos termos da seguinte ementa (fl. 252):
+HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO DO PRINCÍPIO NA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. AUSÊNCIA DE APREENSÃO DAS DROGAS. MATERIALIDADE. COMPROVAÇÃO POR OUTROS MEIOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PLEITO ABSOLUTÓRIO. INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. NÃO CONHECIMENTO. - "As matérias suscitadas na presente impetração já haviam sido veiculadas pela Defesa, nesta Corte, por meio de agravo em recurso especial, o que conduz à inadmissibilidade do mandamus. Embora o mérito das alegações defensivas não tenha sido analisado na via recursal, "o writ não serve para contornar vícios processuais contrários aos requisitos de admissibilidade do recurso (AgRg no HC n. 633.447/GO, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 22/08/2023, D Je de 28/08/2023)." (AgRg no HC n. 789.726/PR, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 21/3/2024.) - "A ausência de apreensão de entorpecentes não conduz, necessariamente, à atipicidade da conduta ou à absolvição do réu se existirem outros elementos de prova aptos a comprovarem a mercancia ilícita." (ARE 1476455 AgR, Relator: ALEXANDRE DE MORAES, Primeira Turma, julgado em 15-04-2024, DJe-s/n PUBLIC 24-04-2024). - Tendo as instâncias ordinárias concluído haver provas suficientes para embasar a condenação, a pretendida revisão do julgado, com vistas a absolver o paciente, demandaria incursão indevida em matéria probatória, descabida na via eleita. - Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+O pedido não pode ser apreciado.
+A matéria aqui suscitada é objeto do HC n. 911.067/CE. Constata-se, assim, a inadmissível reiteração de pedido, pois não é possível obter nova análise sobre o mesmo caso nesta instância, observados os limites que norteiam o exercício da jurisdição.
+Esse é o sentido da jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA TRANSITADA EM JULGADO. EXCESSO DE LINGUAGUEM. PRECLUSÃO. REITERAÇÃO DE PEDIDOS. MATÉRIA JÁ ANALISADA EM HABEAS CORPUS ANTERIOR. AGRAVO DESPROVIDO.
+1. O presente habeas corpus, distribuído em 7/2/2024, constitui mera reiteração do pedido formulado no HC 815846, de minha relatoria, não conhecido em 13/7/2023, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Agravo regimental no HC 5012307-33.2022.8.08.0000).
+ ..
+3. Assim, esta Corte já proferiu decisão acerca da irresignação da defesa, motivo pelo qual é incabível um novo pronunciamento.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 888.335/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024 - grifo próprio.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. REITERAÇÃO DE PEDIDOS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO QUANTO AO ART. 35 DA LEI N. 11.343/2006. SUPERVENIÊNCIA DE EXTINÇÃO DA PUNIBILIDADE PELO JUÍZO DA EXECUÇÃO. PERDA DO OBJETO. APLICAÇÃO DA CAUSA REDUTORA DA LEI DE DROGAS. REPETIÇÃO DE PRETENSÃO ANTERIOR JÁ ANALISADA PELO STJ. INADMISSIBILIDADE. PRECEDENTES.
+Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+(AgRg no HC n. 867.760/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/9/2024, DJe de 6/9/2024 - grifo próprio.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO. POSTULAÇÃO INDEFERIDA NO ÂMBITO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reiteração de pedido veiculado e denegado em impetração anterior torna inviável o conhecimento do habeas corpus. Contra essa decisão, a parte interpôs simultaneamente agravo regimental e impetrou habeas corpus perante o Supremo Tribunal Federal, onde, em espectro mais amplo, o relator assinalou a possibilidade de retroação da norma que altera as condições de procedibilidade da ação penal por crime de estelionato, mas consignou que, pela leitura dos autos, se observava que as vítimas demonstraram inequívoca intenção de ver iniciado o processo, a evidenciar a impropriedade do pedido.
+2. Caracterizada a indevida reiteração do pedido denegado no HC n. 748.052/SP e refutado o argumento de patente ilegalidade perante o Supremo Tribunal Federal (HC n. 228.361/SP), não é possível processar o habeas corpus para empreender outra análise sobre o mesmo tema.
+3. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 819.396/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2023, DJe de 11/12/2023 - grifo próprio.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
