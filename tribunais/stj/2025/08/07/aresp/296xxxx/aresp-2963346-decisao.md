@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por SILVINHO DE LIMA ARAÚJO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim ementado (fls. 432-447):
+"DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO TENTADO. SOBERANIA DOS VEREDICTOS DO JÚRI. DECISÃO AMPARADA EM ELEMENTOS PROBATÓRIOS. DOSIMETRIA DA PENA. RECURSO CONHECIDO E DESPROVIDO. REDIMENSIONAMENTO DA PENA, DE OFÍCIO".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 59 e 68 do CP. Aduz para tanto, em síntese, que não haveria motivação idônea para a valoração negativa da conduta social, da personalidade e das circunstâncias do crime, na primeira etapa da dosimetria da pena.
+Com contrarrazões (fls. 475-482), o recurso especial foi inadmitido na origem (fls. 484-487), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (fls. 540-544).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+A respeito da dosimetria da reprimenda, vale anotar que sua individualização é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Primeiramente, verifico que o acórdão recorrido não valorou negativamente a personalidade a conduta social do réu, ao contrário do que diz o recurso especial. O único vetor de elevação da pena-base foi a avaliação desfavorável das circunstâncias do crime, pelos seguintes motivos (fl. 445):
+"Da fundamentação acima, percebe-se que o Juízo a quo considerou desfavorável ao réu 01 (uma) circunstância judicial (circunstâncias do crime), pelo que fixou a pena-base em 15 (quinze) anos de reclusão. A defesa, todavia, insurge-se quanto à valoração negativa das circunstâncias do crime alegando bis in idem com a qualificadora do meio cruel.
+Observando os fundamentos esposados no decisum em relação a primeira fase, não se verifica equívoco do Magistrado de origem quanto a negativação das circunstâncias do crime, considerando a gravidade da conduta, pois o agente abandonou a vítima no local, tendo ela permanecido amarrada à árvore durante a madrugada inteira, apenas tendo sido socorrida várias horas depois.
+ ..
+O Magistrado a quo não negativou as circunstâncias do crime apenas pelo fato da crueldade consubstanciada pelas múltiplas facadas, mas, principalmente, pelo fato de que após a prática do crime, o agente ter abandonado a vítima no local, amarrada, sangrando, acreditando que o delito teria sido consumado, o que torna, de fato, as circunstâncias do crime mais graves".
+No rol do art. 59 do CP, as circunstâncias do crime compreendem fatos acidentais, que não integram a estrutura do tipo penal, mas dizem respeito à maneira em que o delito foi executado. Sua valoração negativa é admitida quando tais fatos demonstrarem maior gravidade concreta na conduta - seja pela sofisticação ou complexidade da forma escolhida para executar o crime, pelo perigo a que expôs outras pessoas, pelas vulnerabilidades que explorou para alcançar seu objetivo etc.
+Nesse contexto, o fato de o réu ter deixado a vítima amarrada a uma árvore por várias horas, à noite, após esfaqueá-la, não se confunde com nenhuma elementar típica nem com a qualificadora, conforme explicado pelo Tribunal local. Esse fato também demonstra maior gravidade da conduta, de maneira que não há ilegalidade na elevação da pena-base. A propósito:
+" ..
+3. No tocante às circunstâncias do crime, cabe esclarecer que se trata da avaliação dos elementos não definidos na lei penal, mas que permitem delimitar as peculiaridades do fato, tais como o modus operandi, a duração da conduta, o estado de ânimo do agente, dentre outros fatores.
+4. Na hipótese, a Corte estadual ao considerar desfavorável as circunstâncias do delito agiu com acerto, porquanto Não bastasse, as vítimas foram todas submetidas a situação bastante vexatória e aterrorizante, amarradas, e mantidas por mais de oito horas sob domínio dos roubadores. (e-STJ fl. 694), o que não configura elemento inerente ao tipo penal, justificando seu desvalor.
+ ..
+8. Agravo regimental não provido".
+(AgRg no HC n. 985.435/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. CONCURSO DE DUAS CAUSAS ESPECIAIS DE AUMENTO DE PENA. ACRÉSCIMOS DEVIDAMENTE FUNDAMENTADOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese dos autos, não há ilegalidade na fundamentação adotada na origem para aplicar, cumulativamente, as majorantes previstas no art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, visto que o maior rigor no apenamento foi devidamente fundamentado pelas instâncias ordinárias em razão do modus operandi do delito, que envolveu a subtração de joias e dinheiro, foi praticado por dois agentes, com o emprego de armas de fogo utilizadas para ameaçar as vítimas, além de violência física (coronhadas) e, ainda, restrição da liberdade das vítimas, as quais foram amarradas e amordaçadas, circunstâncias reveladoras do elevado grau de reprovabilidade da ação a justificar o incremento da pena.
+2. Agravo regimental não provido".
+(AgRg no HC n. 926.602/PE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ILEGALIDADE FLAGRANTE NÃO VISUALIZADA. RECURSO NÃO CONHECIDO.
+ ..
+As circunstâncias do crime revelaram-se extremamente gravosas, porquanto a ofendida foi subjugada e interceptada por meio de palavras e xingamentos quando se encontrava no interior do seu veículo em plena via pública e à luz do dia. O modus operandi empregado pelos agentes desborda sobremaneira do comum. A vítima foi sub metida a verdadeiro terror psicológico: "foi ameaça pelo acusado, que dizia que iria amarrá-la e torturá-la" e a Agravante também teria dito que "iria "quebrar a cara" da vítima, pois não havia conseguido efetuar o saque". Em dado momento "os réus discutiram se iriam matar a vítima, mas acabaram por liberá-la em uma favela". Tais peculiaridades, de fato, reclamam apenamento mais rigoroso, não havendo se falar em circunstâncias próprias dos tipos penais.
+ ..
+10. Agravo regimental não conhecido".
+(AgRg no HC n. 778.386/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
