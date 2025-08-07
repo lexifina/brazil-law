@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de petição interposta por HIGOR LEMES DOS SANTOS, no qual se requer o recebimento e julgamento do recurso especial de e-STJ fl. 1.915/1.976, não admitido pelo Tribunal de Justiça do Estado do Paraná, conforme se verifica às e-STJ fls. 1.952/1.954.
+É o relatório. Decido.
+Como relatado, o peticionante pretende dar seguimento ao recurso especial inadmitido pelo Tribunal de Justiça do Paraná.
+Ocorre que o único recurso cabível da decisão de inadmissão do recurso especial é o agravo em recurso especial, nos termos do art. 1.042 do Código de Processo Civil. Inexiste dúvida objetiva, na doutrina e na jurisprudência, acerca de qual recurso seria cabível para impugnação de decisão que inadmite recurso especial, em razão da expressa previsão legal. Assim, a interposição de recurso ordinário, em hipóteses tais, configura erro grosseiro, não havendo que se falar em aplicação do princípio da fungibilidade. Nessa linha:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. RECURSO ESPECIAL NÃO ADMITIDO. HABEAS CORPUS. VIA INADEQUADA. EXISTÊNCIA DE RECURSO PRÓPRIO. INVASÃO DE DOMICÍLIO. TESE AFASTADA. VERIFICAÇÃO DE FLAGRANTE DELITO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, O habeas corpus não é o meio processual adequado para impugnar a decisão de não admissibilidade do recurso especial ou mesmo extraordinário. Com efeito, o único recurso cabível contra a decisão que nega seguimento ao recurso especial ou extraordinário é o agravo, previsto no art. 1.042 do Código de Processo Civil (AgRg no HC n. 868.277/AC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+2. O ingresso em domicílio alheio, para se revestir de legalidade, deve ser precedido da constatação de fundadas razões que forneçam razoável certeza da ocorrência de crime no interior da residência.
+Em outras palavras, somente quando o contexto fático anterior à invasão fornecer elementos que permitam aos agentes de segurança ter certeza para além da dúvida razoável a respeito da prática delitiva no interior do imóvel é que se mostra viável o sacrifício do direito constitucional de inviolabilidade de domicílio.
+3. No caso, constata-se a legalidade da entrada no domicílio do paciente, uma vez que os policiais verificaram a situação de flagrante delito antes mesmo de entrar na casa do paciente. De fato, os agentes só procederam à busca domiciliar após ser encontrada droga com o acusado, que foi avistando consumindo maconha, e indicou onde poderiam ser encontrados mais entorpecentes.
+4. Conclui-se, portanto, que a abordagem policial não foi arbitrária, mas decorreu de coleta progressiva de elementos que levaram, de forma válida, à conclusão segura de ocorrência de crime permanente no local, justificando a incursão para a realização da prisão em flagrante.
+5. Agravo regimental a que se nega provimento. (AgRg no HC n. 962.258/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/2/2025.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. UNIRRECORRIBILIDADE. VIOLAÇÃO. AGRAVO INTERPOSTO APÓS EMBARGOS DE DECLARAÇÃO NA ORIGEM. ERRO GROSSEIRO. DESCABIMENTO. VÍCIO DE FUNDAMENTAÇÃO TERATOLÓGICO. EXCEPCIONALIDADE NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. O único recurso cabível da decisão da origem que inadmite recurso especial é o agravo em recurso especial. Excepcionalidade do cabimento dos embargos de oposição ante decisão teratologicamente omissa, contraditória ou obscura não demonstrada.
+2. Agravo interno desprovido. (AgInt no AREsp n. 2.525.780/RS, relator Ministro Afrânio Vilela, Segunda Turma, DJEN de 19/2/2025.)
+Ante o exposto, não conheço do recurso.
+Intimem-se.
+EMENTA
