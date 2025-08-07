@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo regimental interposto por LUAN CARLOS DA SILVA , em face de decisão monocrática, por mim proferida, a qual indeferi liminarmente o habeas corpus por falta de peças essenciais.
+Neste recurso , o agravante busca reverter o julgado, afirma que "traz aos autos a cópia integral da decisão que decretou a prisão preventiva do paciente" (e-STJ, fl. 94).
+Pugna, ao final, pelo provimento do agravo regimental.
+É o relatório.
+Decido.
+A irresignação não merece conhecimento.
+O agravante não impugnou os fundamentos da decisão agravada, relativos à falta de peças faltantes, colacionando a denúncia, outro documentos e a decisão que indeferiu o pedido de revogação da prisão preventiva , mas deixando de juntar a cópia integral do decreto preventivo.
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Ademais, tem-se que: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016).
+Por fim, cito, no mesmo sentido, os seguintes precedentes:
+" ..
+AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices da Súmula n. 83/STJ, da inadequação do recurso especial para alegar violação à norma constitucional e da ausência de cotejo analítico, no agravo a defesa limitou-se a impugnar os óbices da Súmula n. 83/STJ e da ausência de cotejo analítico.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1539949/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 01/10/2019, DJe 10/10/2019, grifou-se).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO INFIRMADOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO. CONDENAÇÃO À PENA DE 5 (CINCO) ANOS RECLUSÃO. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME PRISIONAL SEMIABERTO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A decisão agravada não conheceu do agravo em recurso especial interposto pela ora Agravante baseada no fundamento segundo o qual não é cabível a interposição de recurso especial sob a alegação de afronta a dispositivo constitucional.
+2. Nas razões do regimental, não foi infirmado esse fundamento, mas apenas veiculada argumentação relativa ao mérito da demanda e ao fato de que não se almeja o reexame do conjunto fático-probatório contido nos autos, bem como pugnando pela possibilidade de exata compreensão da controvérsia a partir dos fundamentos expendidos no apelo nobre.
+ .. "
+(AgRg no AREsp 1404679/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/03/2019, DJe 29/03/2019, com destaque).
+Ante o exposto, com apoio no art. 34, XVIII, a, do RISTJ, não conheço do agravo regimental .
+Publique-se. Intimem-se.
+EMENTA
