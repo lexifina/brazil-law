@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão proferida pelo Tribunal de Justiça local que inadmitiu o recurso especial interposto por ele contra o acórdão prolatado nos autos da Apelação Criminal n. 1.0239.20.000159-6/001 (fls. 815/862), que absolveu o réu, ora agravado, da prática de dois delitos de roubo majorados a ele imputados, reduzindo a pena a 10 anos, 9 meses e 6 dias de reclusão, e pagamento de 22 dias-multa, mantido o regime inicial fechado.
+No recurso especial, alega o Ministério Público violação dos arts. 157, § 2º, I (atual § 2º-A, I) e II, do Código Penal e arts. 155, 201, 386, VII, e 619, todos do Código de Processo Penal.
+Sustenta que o Tribunal a quo foi omisso, mesmo com a oposição dos embargos de declaração, quanto à consideração do depoimento da vítima Patrícia que reconheceu o réu, ora agravado, pessoalmente, como um dos autores do delito, bem como quanto ao depoimento da vítima Victor que confirmou, em juízo, que já conhecia o réu.
+Defende que, para absolver o recorrido do delito de roubo, o Tribunal Mineiro sobrepôs a negativa de autoria do increpado às declarações prestadas pelas vítimas, olvidando-se de que, em sede de crimes patrimoniais, normalmente cometidos na clandestinidade, a palavra do ofendido é de extrema relevância probatória à demonstração das circunstâncias em que ocorreu a conduta ilícita, conforme se verifica do art. 201 do Código de Processo Penal (fl. 901).
+Acrescenta que o arcabouço fático-probatório refere-se claramente à existência de elementos probatórios produzidos na fase judicial, que, nos termos do art. 155 do CPP, mostram-se suficientes para a condenação, não havendo que se falar em absolvição por ausência de provas (fl. 903).
+Requer, assim, seja restabelecida a condenação do recorrido pela prática do crime de roubo majorado praticado contra as vítimas Patrícia e Victor, nos termos da sentença primeva (fl. 905).
+Inadmitido o recurso na origem (fls. 917/923), os autos foram remetidos ao Superior Tribunal de Justiça por meio deste agravo (fls. 926/934).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 953/961).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Contudo, o recurso especial não merece ser conhecido.
+Quanto à alegada violação do art. 619 do Código de Processo Penal, constato que o Tribunal de origem, ao julgar os embargos de declaração, manifestou-se expressamente sobre as questões suscitadas pelo Ministério Público, concluindo pela inexistência de vícios e pela tentativa de rediscussão do mérito. Confira-se o seguinte trecho do voto condutor (fls. 884/885):
+ ..
+Destarte, entendeu o Colegiado que, ainda que seja indiscutível o valor probatório conferido à palavra da vítima, o conjunto probatório do caso concreto se mostrou insuficiente para embasar um decreto condenatório, eis que existem contradições e obscuridades na prova produzida que semearam dúvidas no que tange à real participação do ora embargado no roubo cometido contra Patrícia e Victor. O fato de o ofendido Victor já conhecer o ora embargado anteriormente nada altera essa conclusão.
+A verdade é que para se condenar alguém por crime tão grave, não basta mera suspeita, impõe-se que a prova proporcione a convicção de que o crime contra o casal, realmente, foi cometido pelo acusado, pois, na dúvida, aplica-se o brocardo in dubio pro reo.
+Assim, se a decisão ora embargada não correspondeu à correta aplicação do Direito ou à melhor interpretação das provas, como cediço, esta via não se apresenta apropriada para sua reapreciação.
+ ..
+Verifica-se, portanto, que a Corte de origem, ainda que de forma contrária aos interesses do recorrente, manifestou-se sobre a matéria, não havendo falar em afronta ao dispositivo legal (art. 619 do CPP). A pretensão, em verdade, revela mero inconformismo com a conclusão adotada, o que não se coaduna com a via dos aclaratórios.
+Nesse sentido: EDcl no AgRg no HC n. 783.050/ES, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.
+Por outro lado, quanto ao pedido de absolvição, por violação dos arts. 157, § 2º, I (atual § 2º-A, I) e II, do Código Penal e arts. 155, 201 e 386, VII, todos do Código de Processo Penal, verifica-se que, além da ausência de prequestionamento dos arts. 155 e 201 do Código de Processo Penal, a solução do pleito demandaria a revisão de todo o conjunto fático-probatório produzido no curso da instrução criminal, o que esbarra no óbice do enunciado da Súmula n. 7/STJ.
+Nesse sentido: AgRg no AREsp n. 2.330.095/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.
+Pelo exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ROUBOS MAJORADOS. ABSOLVIÇÃO PELO TRIBUNAL A QUO. RECURSO DO MINISTÉRIO PÚBLICO. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. PLEITO DE RESTABELECIMENTO DA SENTENÇA CONDENATÓRIA. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
