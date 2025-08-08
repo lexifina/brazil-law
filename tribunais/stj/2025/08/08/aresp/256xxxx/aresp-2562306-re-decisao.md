@@ -1,0 +1,49 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 880-881):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. EMENDATIO LIBELLI. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, no qual se alegou violação aos arts. 28, 315, § 2º, IV, 383, 384 e 619 do Código de Processo Penal, em razão de suposta omissão do Tribunal de origem ao não enfrentar argumento relevante sobre pedido de arquivamento do Ministério Público quanto ao crime de adulteração de sinal identificador de veículo.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve correta aplicação do instituto da emendatio libelli, previsto no art. 383 do CPP, ou se seria necessário o aditamento da denúncia, caracterizando mutatio libelli, conforme art. 384 do CPP.
+3. A questão também envolve a análise da possibilidade de condenação por crime para o qual o Ministério Público havia pedido arquivamento, sem que o juiz estivesse vinculado a tal pedido.
+III. Razões de decidir
+4. O Tribunal de origem concluiu pela correta aplicação do instituto da emendatio libelli, uma vez que não houve alteração da descrição fática, mas apenas nova classificação jurídica dos fatos narrados.
+5. O juiz não está vinculado ao pedido de arquivamento do Ministério Público - por entender que o delito teria sido absorvido pelo crime fim - e pode aplicar a emendatio libelli, conforme entendimento pacificado do STJ.
+6. Não se vislumbra violação ao art. 619 do CPP, pois o Tribunal de origem enfrentou todas as questões relevantes, ainda que tenha chegado a conclusão diversa da pretendida pelo recorrente.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 914-921).
+A parte recorrente sustenta a ocorrência de violação dos arts. 5º, LIV e LV, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Nesse sentido, afirma que houve preclusão pro judicato, pela ausência de manifestação do Juízo na forma do art. 28 do CPP, e que a atuação do juiz, ao condenar o recorrente, feriu o sistema acusatório, o devido processo legal e o contraditório, configurando uma atuação inquisitorial. Alega, ainda, que a decisão do STJ ofende o princípio acusatório consagrado no processo penal brasileiro, ao não vincular o juiz ao pedido de arquivamento formulado pelo Ministério Público.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 947-962.
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fls. 884-885, grifos originais):
+Conforme consignado na decisão monocrática, observa-se que todas as questões essenciais ao deslinde da controvérsia foram devidamente apreciadas pelo Tribunal de origem.
+A Corte estadual, ao analisar o caso, fundamentou adequadamente seu entendimento no sentido de que a definição jurídica distinta atribuída aos fatos descritos na denúncia caracterizou correta aplicação do instituto da emendatio libelli, previsto no art. 383 do CPP.
+Consignou que o réu se defende dos fatos narrados na inicial acusatória e não da capitulação jurídica, não havendo falar em ofensa aos princípios da correlação, do contraditório e da ampla defesa.
+Nesse sentido, o Tribunal a quo destacou que a peça acusatória narrou expressamente a intenção dos acusados de adulterar sinal identificador de veículo automotor, mencionando inclusive que o recorrente relatou aos policiais "que havia alugado o automóvel ONIX e furtado as placas QAI-9091 de outro veículo, na manhã daquele dia, na região do Parque dos Poderes, tendo afixado estas no carro alugado" (e- STJ, 669).
+Quanto à alegada necessidade de aditamento da denúncia, por se tratar supostamente de mutatio libelli (art. 384 do CPP) e não de emendatio libelli (art. 383 do CPP), verifica-se que a questão foi devidamente enfrentada pela Corte de origem, que concluiu pela aplicabilidade do instituto previsto no art. 383 do CPP, uma vez que não houve alteração da descrição fática, mas apenas nova classificação jurídica dos fatos narrados.
+No que concerne à alegação de que o Ministério Público havia pedido arquivamento quanto ao crime do art. 311 do CP, o que impediria a condenação do recorrente por esse delito, observo que o Tribunal estadual também se manifestou a esse respeito, afirmando que "a prática do crime de adulteração (art. 311, CP) não só restou narrada na denúncia como demonstrada nos autos pelas provas apresentadas, dentre elas, a própria confissão do réu, nada impedindo que o magistrado aplicasse a emendatio libelli como visto no caso, nem vinculando o julgador ao pedido inicial de arquivamento sustentado pelo MPE sob entendimento de absorção da primeira conduta ao crime fim de estelionato (art. 171, do CP)" (e-STJ, fl. 671).
+Desse modo, não se vislumbra a alegada violação ao art. 619 do CPP, pois o Tribunal de origem enfrentou todas as questões relevantes para o deslinde da controvérsia, ainda que tenha chegado a conclusão diversa da pretendida pelo recorrente.
+A propósito, este Superior Tribunal de Justiça tem entendimento pacificado no sentido de que o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles necessários à formação de sua convicção, sem que isso implique violação ao art. 619 do CPP.
+A propósito:
+ ..
+Quanto à alegada violação aos arts. 383 e 384 do CPP, cumpre destacar que a distinção entre emendatio libelli e mutatio libelli reside essencialmente na alteração ou não da descrição fática contida na denúncia.
+Enquanto o art. 383 do CPP permite ao juiz atribuir definição jurídica diversa ao fato descrito na denúncia, sem modificar a descrição fática, o art. 384 do CPP trata da hipótese em que, em razão de prova superveniente, verifica-se elemento ou circunstância da infração penal não contida na acusação.
+No caso dos autos, o Tribunal de origem concluiu pela correta aplicação do instituto da emendatio libelli, uma vez que a denúncia narrou expressamente a conduta de adulteração de sinal identificador de veículo. Examinar se os fatos narrados na denúncia correspondem ao tipo penal do art. 311 do CP ou se seria necessário o aditamento da peça acusatória demandaria inevitável reexame do conjunto fático-probatório, providência inadmissível na via estreita do recurso especial, nos termos da Súmula 7 desta Corte Superior.
+No que tange à alegada violação ao art. 28 do CPP, sob o argumento de que o Ministério Público havia pedido o arquivamento quanto ao crime do art. 311 do CP, o que impediria a posterior condenação do recorrente por esse delito, observo que tal questão, além de demandar revolvimento fático-probatório, envolve necessariamente a análise de questões inerentes à atuação do Ministério Público enquanto titular da ação penal e os limites da atividade jurisdicional.
+Nesse contexto, ressalto que esta Corte Superior pacificou o entendimento de que o juiz não está vinculado ao entendimento jurídico do Ministério Público, podendo, ao proferir a sentença, adotar o posicionamento que melhor se adeque aos fatos submetidos à sua apreciação e ao conjunto probatório amealhado.
+ ..
+Por fim, quanto à alegada violação ao art. 315, § 2º, IV, do CPP, que estabelec e o dever de enfrentamento de todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada pelo julgador, reitero que o Tribunal de origem enfrentou adequadamente as questões relevantes para o deslinde da controvérsia, não se verificando a omissão apontada.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
