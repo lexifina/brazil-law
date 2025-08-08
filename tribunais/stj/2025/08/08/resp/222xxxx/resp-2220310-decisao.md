@@ -1,0 +1,22 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 534/544, in verbis:
+1. Trata-se de recurso especial interposto por REGINALDO COSTA DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo (TJSP), que, nos autos da Apelação Criminal nº1500287-16.2022.8.26.0551, negou provimento à apelação defensiva e, de ofício, procedeu ao redimensionamento da pena, com o reconhecimento da condenação utilizada como reincidência, como maus antecedentes, deslocando, assim, a circunstância desabonadora para a primeira-fase da dosimetria, sem qualquer repercussão na pena final, mantida, quanto ao mais, a sentença (fl. 430).
+Consta dos autos que o recorrente foi condenado, em primeiro grau, pela prática do crime do art. 33, caput, da Lei de Drogas, reconhecida a reincidência, às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 583 dias-multa.
+A defesa interpôs recurso de apelação, e o TJSP negou-lhe provimento, mas concedeu a ordem, de ofício, como acima descrito, estando o decisum assim ementado (fl. 431/432):
+APELAÇÃO. TRÁFICO DE ENTORPECENTES. (1) MATERIALIDADE E AUTORIA COMPROVADAS. (2) ATUAÇÃO DE GUARDAS CIVIS. CONSTITUCIONALIDADE. (3) DEPOIMENTO DE GUARDAS CIVIS. VALIDADE. (4) INDÍCIOS. (5) CIRCUNSTÂNCIAS DO CASO CONCRETO EVIDENCIAM A NARCOTRAFICÂNCIA. (6) FUNDAMENTAÇÃO "PER RELATIONEM". POSSIBILIDADE. (7) DOSIMETRIA DA PENA. PENA-BASE QUE DEVE SER FIXADA ACIMA DO MÍNIMO. (8) IMPOSSIBILIDADE DE RECONHECIMENTO DO PRIVILÉGIO. (9) REGIME FECHADO. (10) IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. (11) DESPROVIMENTO DO RECURSO DEFENSIVO.
+(..) 11. Desprovimento do recurso defensivo, com deslocamento, de ofício, de condenação utilizada na segunda fase da dosimetria para a primeira fase.
+Seguiu-se a interposição de recurso especial, pela alínea a do permissivo constitucional. A defesa apontou violação do disposto nos arts. 33, 44, 59 e 64, inciso I, todos do Código Penal (CP), e §4º do art. 33 da Lei nº 11.343/2006.
+Ao final, a defesa requer o conhecimento e provimento do recurso especial para absolver o recorrente, reconhecer a figura do tráfico privilegiado (§4º do art. 33 da Lei nº 11.343/2006) no patamar máximo, e fixar o regime inicial aberto para desconto da pena corporal e consequente substituição da pena privativa de liberdade por restritivas de direitos (fl. 499).
+Com contrarrazões pela não admissão, o recurso especial foi admitido.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Tenho que não assiste razão à defesa.
+No que diz respeito ao pedido de absolvição, observo que o Tribunal de origem, soberano na análise de questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar o decreto condenatório pela prática do crime de tráfico de entorpecentes.
+Desse modo, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o revolvimento do acervo fático-probatório, o que é vedado nesta instância extraordinária, tendo em vista os óbices previstos nas Súmulas n. 7/STJ e 279/STF.
+Ademais, quanto às alegações defensivas referentes à dosimetria da pena, constato que o entendimento adotado pelo Tribunal de origem está em consonância com a orientação firmada nesta Corte Superior, segundo a qual, "a  condenação  definitiva  por  fato  anterior  ao  crime  descrito  na  denúncia,  com  trânsito  em  julgado  posterior  à  data  do  ilícito  de  que  ora  se  cuida,  embora  não  configure  a  agravante  da  reincidência,  pode  caracterizar  maus  antecedentes  e  ensejar  o  acréscimo  da  pena-base"  (AgRg  no  HC  n.  607.497/SC,  relator  Ministro  Rogério  Schietti Cruz,  Sexta  Turma,  julgado  em  22/9/2020,  DJe  30/9/2020).
+E, ainda, "a condenação anterior existente, ainda que alcançada pelo período depurador de cinco anos previsto no art. 64, I, do Código Penal, embora não seja apta a caracterizar a agravante da reincidência, configura maus antecedentes, razão pela qual fica impedida a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, diante da ausência do preenchimento dos requisitos legais" (HC n. 446.042/RJ, relator Ministro Felix Fischer, Quinta Turma, julgado em 24/5/2018, DJe 29/5/2018).
+Não vislumbro, portanto, as aventadas ilegalidades.
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
