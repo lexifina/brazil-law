@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de pedido de tutela antecedente formulado por FORTE SECURITIZADORA S.A., objetivando a concessão de efeito suspensivo ao recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 118):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - Decisão interlocutória que indeferiu pedido de intimação de terceiro, para prestar informações - Cabimento - Exibição de documentos em poder de terceira - Admissibilidade - Art. 401 do CPC - Exequente tem direito de pesquisar bens da executada passíveis de penhora - Execução se realiza nos interesses do credor - Art. 797 do CPC - Alegação de quebra do sigilo bancário e fiscal por parte da terceira não acolhida - Decisão reformada - RECURSO PROVIDO, COM OBSERVAÇÃO.
+Os aclaratórios que se seguiram foram rejeitados (fls. 125-128).
+O recurso foi inadmitido na origem considerando a ausência de demonstração da alegada ofensa aos dispositivos de lei federal, incidência da Súmula 7/STJ e ausência de similitude entre os acórdãos recorrido e paradigma.
+Julgado prejudicado o efeito suspensivo ao apelo nobre no Tribunal de origem, maneja o requerente o presente incidente para o mesmo fim.
+Nas razões da tutela , o requerente aduz o cabimento de concessão de efeito suspensivo ao recurso especial ante a existência de risco de dano de impossível reparação porque a apresentação do extrato da conta centralizadora da operação de securitização firmada "coloca em sério risco a segurança jurídica das operações de securitização, pois inicia a consolidação de jurisprudência que permite a responsabilização de terceiros por relação contratual que não participaram e de violação ao sigilo bancário destes" (fl. 13).
+Neste contexto, aduz que, "Sem a concessão do efeito suspensivo, haverá responsabilização de terceiros - que sequer são parte do incidente de cumprimento de sentença, atribuindo a Requerente e a terceiros investidores os efeitos de uma execução na qual são estranhos" (fl. 13).
+É, no essencial, o relatório.
+De acordo com a jurisprudência desta Corte, "para que se defira o pedido de tutela provisória de urgência e, assim, seja concedido o provimento, é necessário que a parte requerente demonstre concomitantemente o fumus boni iuris e o periculum in mora: a plausibilidade do direito alegado, consubstanciada na elevada probabilidade de êxito do apelo nobre; e o perigo de lesão grave e de difícil reparação ao direito da parte  ..  (art. 300, caput, do CPC/2015)" (AgInt na Pet n. 13.893/AC, relator Ministro Francisco Falcão, Segunda Turma, DJe 6/4/2021), o que não é o caso dos autos.
+Na espécie, entendeu a Corte estadual, após detida análise das questões fáticas e contratuais, que se possível o pedido de informações por se tratar de busca de bens da executada, não infringindo o sigilo fiscal ou bancário de terceiros, tampouco a responsabilização patrimonial da securitizadora.
+Para melhor compreensão, excerto do voto condutor (fls. 119-120):
+Incidente de cumprimento de sentença visando a devolução integral dos valores pagos referentes a rescisão contratual da ação principal movida contra WGSA 02 Empreendimentos Imobiliários S. A.
+Pretendem os agravantes seja a terceira, Forte Securitizadora, intimada a comprovar através de extratos financeiros a inexistência de valores na conta centralizadora.
+No caso, a executada e a Forte Securitizadora firmaram instrumento particular de cessão de créditos imobiliários de cessão fiduciária de créditos em garantia e outras avenças (fls. 434 e seguintes deste instrumento).
+Respeitado o entendimento do Douto Juízo "a quo", por se tratar de documentos que dizem respeito a executada, em poder de terceira, é possível a sua exibição, de acordo com o disposto no art. 401 do CPC.
+Enfatize-se que não se está perquirindo patrimônio da agravante e sim pesquisando bens da executada passíveis de penhora, de modo que não tem pertinência, no caso, a alegação de quebra do sigilo bancário ou fiscal.
+Assim, ante a possibilidade de existir eventuais créditos em favor da executada, tem o exequente direito de pesquisar bens passíveis de penhora, considerando que a execução se realiza nos interesses do credor, nos termos do art. 797 do CPC.
+Como se vê, não se trata de responsabilizar a empresa securitizadora, terceira estranha à lide, pelo débito discutido na origem, pois, em caso de inexistência de valores devidos à executada, a Securitizadora nada depositará nos autos.
+Com efeito, ao menos em um exame preliminar, não se apresenta evidenciada a probabilidade de êxito no conhecimento e provimento do recurso especial interposto pela parte ora requerente, visto que a alteração do julgado de origem para o indeferimento da medida de exibição de documentos, porquanto referentes à executada, demandaria reexame do acervo fático dos autos, o que esbarra no óbice da Súmula 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZADA. CONTRATO DE FRANQUIA. EXIBIÇÃO DE DOCUMENTOS. REQUERIMENTO ADMINISTRATIVO PRÉVIO E IDÔNEO. NECESSIDADE. EXCEÇÃO. DOCUMENTO COMUM ÀS PARTES. SÚMULA Nº 83/STJ. DISTINGUISHING REALIZADO. NECESSIDADE DO DOCUMENTO. SÚMULA Nº 7/STJ. FUNDAMENTOS. NÃO IMPUGNADOS. SUFICIÊNCIA. SÚMULA Nº 283/STF.
+ ..
+3. Na hipótese, rever o entendimento do acórdão recorrido quanto à existência de documentos comuns entre as partes, bem como de sua necessidade ao deslinde da controvérsia, demanda o revolvimento do acervo fático-probatório dos autos, providência vedada em recurso especial pela Súmula nº 7/STJ.
+4. A ausência de impugnação de fundamento suficiente para manter o acórdão recorrido incólume atrai o óbice da Súmula nº 283/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.976.621/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Ante o exposto, indefiro o pedido de tutela.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PLAUSIBILIDADE DO DIREITO. CUMPRIMENTO DE SENTENÇA. PESQUISA DE BENS DA EXECUTADA. PEDIDO DE INFORMAÇÕES A TERCEIRO. AUSÊNCIA DE QUEBRA DE SIGILO. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. PEDIDO DE TUTELA INDEFERIDO.
