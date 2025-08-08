@@ -1,0 +1,33 @@
+DECISÃO
+Examinam-se embargos de divergência opostos por VOLPE CAMARGO ADVOGADOS ASSOCIADOS S/S contra acórdão proferido pela Quarta Turma do STJ.
+Embargos à execução opostos em: 9.5.2025
+Conclusos ao gabinete em: 22.5.2025.
+Ação: de embargos à execução, opostos por JOSÉ ANTÔNIO FREIRE PALHANO e JOCELITA CABRAL PALHANO, em face de ASSOCIAÇÃO DE POUPANÇA E EMPRÉSTIMO - POUPEX.
+Sentença: homologatória de acordo (e-STJ fl. 648).
+Acórdão recorrido em recurso especial: negou provimento à apelação, nos termos da seguinte ementa (e-STJ fl. 718):
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO HIPOTECÁRIA - HONORÁRIOS ADVOCATÍCIOS FIXADOS NO DESPACHO INICIAL DA EXECUÇÃO -- POSSIBILIDADE DE MODIFICAÇÃO AO FINAL DO FEITO EXECUTIVO - AUSÊNCIA DE PRECLUSÃO TEMPORAL E PRO JUDICATO - MONTANTE ADEQUADO E PROPORCIONAL AO CASO EM CONCRETO - SENTENÇA RATIFICADA - RECURSO CONHECIDO E DESPROVIDO.
+Segundo entendimento jurisprudencial do Superior Tribunal de Justiça os honorários fixados no despacho inicial da execução possuem caráter provisório. Ao arbitrar os honorários, deve o julgador observar o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado, o tempo exigido para o serviço, o benefício patrimonial auferido, dentre outras peculiaridades; deve, outrossim, atentar-se aos princípios da razoabilidade e proporcionalidade. Recurso conhecido e desprovido.
+Acórdão embargado da Quarta Turma: deu parcial provimento ao recurso especial, para excluir a condenação em sucumbência arbitrada no julgamento da apelação, nos termos da seguinte ementa:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS PROVISÓRIOS. DIREITO INTERTEMPORAL. DESPACHO INICIAL. MARCO TEMPORAL. SÚMULA 568 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, o despacho inicial da ação de execução - como ato processual que, por força de lei, fixa os honorários provisórios em favor da parte exequente - deve ser considerado como marco temporal para a definição das normas incidentes relativas aos honorários sucumbenciais no processo de execução. Precedentes.
+2. Agravo interno a que se nega provimento.
+Embargos de divergência: aponta divergência entre o acórdão embargado e paradigma da 1ª Turma do STJ acerca da controvérsia de direito intertemporal relacionada à norma aplicável para reger o arbitramento de honorários sucumbenciais, a fim de que que prevaleça a norma vigente quando da prolação da sentença, em detrimento da vigente no momento do despacho da inicial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial - Súmula 315/STJ
+De acordo com o art. 1043, § 2º, do CPC, é certo que os embargos de divergência podem veicular questão de direito material ou de direito processual.
+Contudo, cuidando-se de questão de direito processual, o que se admite no âmbito dos embargos de divergência é a resolução de dissenso interno do Superior Tribunal de Justiça acerca da interpretação de norma processual em sua moldura abstrata, sendo incabível questionar, nessa seara, a aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial à hipótese concreta dos autos.
+Nesse sentido: AgInt nos EREsp 1.637.880/SP, Corte Especial, DJe de 03/08/2018; AgInt nos EAREsp 955.088/RS, Corte Especial, DJe de 02/05/2018; AgInt nos EDcl nos EAREsp 1.406.323/SP, Segunda Seção, DJe de 17/09/2020.
+Sob esse enfoque, "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial" (AgInt nos EAREsp 1.581.988/BA, Corte Especial, DJe de 15/10/2021).
+Assim, consoante a jurisprudência da Corte Especial do STJ, "não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, cujo entendimento se alinha ao disposto no art. 1.043, incisos I e III do CPC" (AgInt nos EAREsp 1.746.628/SP, Corte Especial, DJe de 20/04/2022).
+Na hipótese dos autos, a controvérsia relacionada à norma aplicável em relação aos honorários sucumbenciais, a repercutir no montante a ser arbitrado, sequer foi conhecida no acórdão embargado, diante da Súmula 7/STJ, conforme se extrai da seguinte passagem (e-STJ fls. 943/944):
+Como constou na decisão agravada, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, fixando os honorários advocatícios considerando que o recorrente passou a atuar na demanda executiva em 2013 e que a extinção da execução ocorreu em virtude de um acordo firmado entre as partes, e manteve os honorários fixados na sentença de acordo com os princípios da razoabilidade e proporcionalidade, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Portanto, como a controvérsia devolvida nos presentes embargos de divergência sequer teve o mérito analisado no acórdão embargado, o presente recurso não deve ser conhecido, ausente pressuposto objetivo de admissibilidade.
+DISPOSITIVO
+Forte nessas razões, com fundamento nos arts. 932, III, do CPC e 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1021, § 4º, e 1026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO INTERNO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE DECIDIU PELO NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA 315/STJ.
+1. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+2. Não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1043, I e III, do CPC. Precedentes.
+3. Embargos de divergência indeferidos liminarmente.
