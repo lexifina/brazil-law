@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DOUGLAS MACHADO contra julgado do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (APELAÇÃO CRIMINAL n. 0000732-11.2017.8.24.0076/SC).
+Depreende-se do feito que o ora agravante foi condenado a 8 anos e 6 meses de reclusão, a ser cumprida em regime fechado, além do pagamento de 1.317 dias-multa, pela prática dos delitos previstos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006 (e-STJ fls. 1.087/1.089).
+A Corte de origem absolveu o corréu Bruno Scarpari Rodrigues por prescrição da pretensão punitiva, manteve a condenação de Douglas quanto aos fatos 1 (associação para o tráfico) e 3 (tráfico de drogas), e o absolveu quanto ao fato 2, sem alterar a pena imposta de 8 anos e 6 meses de reclusão, a ser cumprida em regime fechado (e-STJ fl. 1.257).
+Daí o presente recurso especial, no qual alega a defesa:
+a) Violação aos arts. 158 e 386, VII, do Código de Processo Penal, bem como ao art. 35 da Lei n. 11.343/2006 (e-STJ fl. 1.288).
+b) Ausência de prova pericial quanto à materialidade do fato 3 (tráfico de drogas), baseada em droga apreendida exclusivamente com o corréu Bruno, sem apreensão direta com Douglas ou prova pericial que vincule a substância ao recorrente (e-STJ fls. 1.289/1.290, 1.320).
+c) Ausência de estabilidade e permanência na suposta associação para o tráfico (e-STJ fls. 1.291, 1.320).
+d) Insuficiência de provas da autoria quanto ao fato 3 (tráfico de drogas), pois a droga apreendida estava em poder de Bruno, sem elementos que comprovem que Douglas detinha a substância ou participou diretamente de sua distribuição (e-STJ fls. 1.292).
+Requer, ao final:
+a) Seja reconhecida a inexistência de prova da materialidade quanto ao crime de tráfico (fato 3), com a consequente absolvição do réu (e-STJ fls. 1.293, 1.325).
+b) Seja a fastada a condenação pelo crime de associação para o tráfico, em razão da ausência de estabilidade e permanência (e-STJ fls. 1.293, 1.325).
+c) Subsidiariamente, seja reconhecida a insuficiência de provas da autoria, com absolvição com base no art. 386, VII, do CPP (e-STJ fl. 1.293).
+Inadmitido o recurso especial (e-STJ fls. 1.309/1.310), foi interposto o presente agravo (e-STJ fls. 1.318/1.324).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo em recurso especial (e-STJ fl. 1.360).
+É o relatório.
+Decido.
+Sobre as teses levantadas, assim se manifestou o Juiz singular (e-STJ fls. 1.080, 1.084/1.086):
+Diante das provas produzidas, em especial as conversas transcritas acima, concluo que os acusados estavam associados de forma estável e duradora, com colaboração recíproca, tendo em que vista que Douglas era o responsável por guardar a droga e Bruno exercia a entrega e a comercialização direta.
+Assim, entendo que a vinculação duradoura ficou comprovada por meio das conversas indicadas acima, pois os acusados estavam associados para a venda de drogas, de forma habitual, inclusive, com divisão de tarefas.
+Dessa forma, uma vez que os acusados agiram permeados pelo dolo e em desconformidade com o direito (inciso I do artigo 18 do Código Penal), bem como são maiores e capazes, merecem aplicação das reprimendas, estando Bruno Scarpari Rodrigues e Douglas Machado incursos nas sanções do artigo 35, caput, da Lei n. 11.343/06.
+(..)
+Em que pese a negativa do acusado em juízo, verifico que ficou comprovado que Bruno entregou a Nelson, para consumo, uma poro de cocaína, o que foi confirmado por ambos na instrução processual.
+Consigno que a entrega gratuita da droga no afasta a configuração do delito descrito no art. 33 da Lei de Drogas.
+Ademais, ficou demonstrado que o acusado transportava entorpecente no seu veículo, sem autorização e em desacordo com determinação legal ou regulamentar, para posterior comercialização, configurando, também, o delito previsto no art. 33, caput, da Lei 11.343/06.
+Com relação à quantidade da droga apreendida, o laudo pericial juntado no 50.116 indicou:
+- Dois invólucros de plástico de cor branca, ambos acondicionando substância em forma de p de coloração branca.
+- Massa bruta total: 4,78g (quatro gramas e setenta e oito centigramas).
+Portanto, diante da prova oral colhida, concluo que ficou configurada a prática do crime de tráfico de drogas por parte do réu Bruno.
+Para mais, ressalto que foram localizadas conversas entre os rus sobre a comercialização de drogas, em outras oportunidades, demonstrando, inclusive, ser algo habitual, conforme descrito no item 2.1.
+Outrossim, consigno que "a circunstância de o acusado ser dependente de drogas, por si s, no exclui sua responsabilidade pela conduta típica deflagrada, porquanto nada impede que o usuário ou viciado seja também traficante, como forma de sustentar o próprio vício".
+Logo, afasto a tese defensiva de desclassificação do crime de tráfico de drogas para aquele previsto noart.28da Lei 11.343/2006.
+Destarte, diante do conjunto probatório dos autos e, uma vez que o acusado agiu permeado pelo dolo e em desconformidade com o direito (inciso I do artigo 18 do Código Penal), bem como maior e capaz, merece aplicação da reprimenda, estando Bruno Scarpari Rodrigues incurso nas sanções do artigo 33, caput, da Lei n. 11.343/06.
+Já a Corte de origem fundamentou seu entendimento nos seguintes termos, in verbis (e-STJ fls. 1.250/1.254, 1.278):
+Não obstante a existência de alguns precedentes anteriores do Superior Tribunal de Justiça acerca da prescindibilidade do laudo pericial para caracterização do crime previsto no art. 33, caput , da Lei n. 11.343/2006, denota-se que os seus atuais julgados orientam para a uniformização do entendimento no sentido de ser necessária a apreensão de material entorpecente e a realização do laudo toxicológico para efetiva comprovação da materialidade delitiva.
+(..)
+Dessa forma, para a perfectibilização da infração penal prevista no art. 33, caput , da Lei 11.343/06, além da apreensão de material entorpecente diretamente vinculado ao apelante Douglas, necessário a feitura do laudo respectivo, o que não ocorreu.
+Nessa linha, é o entendimento deste Tribunal de Justiça:
+APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO (LEI N. 11.343/06, ARTS. 33, CAPUT E 35) - SENTENÇA CONDENATÓRIA - INSURGÊNCIAS DO MINISTÉRIO PÚBLICO E DOS RÉUS. (..) MÉRITO - TRÁFICO - PRIMEIRO RÉU - MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS - NEGATIVA DE AUTORIA DERRUÍDA POR PROVA TESTEMUNHAL ROBUSTA E CONVINCENTE - PALAVRA DOS POLICIAIS EM PLENA HARMONIA E CONSONÂNCIA COM O RELATO DE USUÁRIOS - CONDENAÇÃO MANTIDA - SEGUNDO RÉU - AUSÊNCIA DE APREENSÃO DE ENTORPECENTE - EXAME PERICIAL IMPRESCINDÍVEL PARA A CONFIGURAÇÃO DO CRIME DE TRÁFICO DE DROGAS - NORMA PENAL EM BRANCO - CIRCUNSTÂNCIA QUE NÃO PODE SER SUPRIDA POR PROVA TESTEMUNHAL (CPP, ART. 167) - AUSÊNCIA DE RELAÇÃO COM ENTORPECENTES APREENDIDOS - OUTRO CONTEXTO FÁTICO - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DA SEÇÃO CRIMINAL - ABSOLVIÇÃO DECRETADA. (..) (Apelação Criminal n. 0000782-71.2018.8.24.0021, de Cunha Porã, rel. Des. Salete Silva Sommariva, Segunda Câmara Criminal, j. 03-09-2019, grifou-se).
+Por consequência, decreta-se a absolvição de Douglas em relação ao fato 2, o que se faz com fulcro no art. 386, VII, do Código de Processo Penal, anotando-se, de saída, que nenhum reflexo haverá às sanções impostas, considerando que Sua Excelência operou uma única imposição sancionatória pela ocorrência dos Fatos 2 e 3 .
+Lado outro, mantida a condenação dos acusados pelos crimes de associação para o tráfico de drogas - crimes prescritos em relação a Bruno - e, tendo em vista que o narcótico apreendido com Nelson, fornecido por Bruno, além daquela outra porção deste mesmo entorpecente que Bruno trazia consigo, pertencia aos codenunciados, conforme visto pela prova acima colacionada, até porque no mesmo dia 27/05/2017 Bruno e Douglas mantém contato telefônico entre 7h54m e 8h14m (PM - Post Meridiem que significa "após o meio-dia" ) e a abordagem do primeiro com cocaína acontece às 21h, resta demonstrada a materialidade do crime de tráfico de drogas em relação a Douglas - laudo pericial, ev. 50. Veja-se:
+(..)
+Dito isso, o contexto apresentado não deixa dúvida da associação estável e permanente mantida entre os acusados para o comércio espúrio.
+A prova acima colacionada, especialmente o conteúdo extraído do celular de Bruno, evidencia que os apelantes mantinham contato telefônico com a finalidade de operacionalizar o tráfico de entorpecentes, em associação completamente estruturada, sendo nítida a participação e individualização das tarefas operacionais, cuja estabilidade e permanência fica patente. Enquanto Douglas fornecia e comprova narcótico de terceiros, Bruno tinha a função de entregador
+Logo, acertada as condenações pelos crimes previstos nos arts. 33, caput , e 35, caput , ambos da Lei de Drogas - em que pese reconhecida a prescrição em favor de Bruno.
+Concordo que, para a perfeita configuração do delito de tráfico de drogas, em particular no que tange ao art. 33, caput, da Lei n. 11.343/2006, a materialidade delitiva exige a apreensão de material entorpecente e a respectiva comprovação pericial, conforme entendimento consolidado.
+Dessa forma, a ausência de apreensão de entorpecente diretamente vinculado ao réu Douglas em relação ao fato 2, bem como a ausência do correspondente laudo toxicológico, justificou a sua absolvição específica para esse fato, em conformidade com o art. 386, inciso VII, do Código de Processo Penal, não podendo a prova testemunhal suprir tal lacuna.
+Ainda assim, a robustez do conjunto probatório, evidenciada pelas conversas transcritas e pela dinâmica habitual de divisão de tarefas, com Douglas responsável por guardar a droga e Bruno realizando a entrega e comercialização direta dos 4,78g (quatro gramas e setenta e oito centigramas) de cocaína apreendidos, demonstra de forma inequívoca a associação estável e duradoura entre os acusados para o fim de tráfico de entorpecentes, nos termos do art. 35, caput, da Lei n. 11.343/2006.
+Ademais, a materialidade do crime de tráfico de drogas (art. 33, caput) para Douglas foi comprovada ao se vincular o narcótico apreendido em posse de Bruno, devidamente periciado, àquela associação criminosa e ao próprio Douglas, em razão da colaboração recíproca e da habitualidade, corroborada pelos contatos telefônicos entre eles por diversas vezes por mais de um mês, e inclusive no mesmo dia da apreensão, ratificando a condenação deste pela prática de tráfico.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO DETERMINADA NA DECISÃO AGRAVADA. ASSOCIAÇÃO PARA O TRÁFICO. EXISTÊNCIA DE ELEMENTOS INDICATIVOS DA ESTABILIDADE E PERMANÊNCIA DO VÍNCULO CRIMINOSO. REVISÃO DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada absolveu o agravante do crime de tráfico de drogas, ante a ausência de comprovação da materialidade delitiva, mas manteve a condenação pelo crime de associação para o tráfico, considerando a existência de elementos probatórios que demonstram o vínculo estável e permanente com o grupo criminoso.
+2. A jurisprudência desta Corte Superior firmou-se no sentido de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+3. No caso, a condenação pelo crime de associação para o tráfico foi mantida em razão da existência de elementos probatórios concretos, extraídos do conteúdo de conversas telefônicas, depoimento prestado pela autoridade policial em juízo e outros indícios obtidos durante a investigação, os quais demonstram a estabilidade e permanência do vínculo criminoso entre o agravante e os demais envolvidos.
+4. A revisão do acervo probatório das instâncias ordinárias não é admissível em recurso especial, nos termos da Súmula 7 do STJ, sendo inviável reavaliar a suficiência das provas que fundamentaram a condenação.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 2.188.845/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.)
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ESTABILIDADE E PERMANÊNCIA. COMPROVAÇÃO. MINORANTE DO ART. 33, § 4º, DA LEI 11.343/2006. REQUISITOS NÃO PREENCHIDOS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. TRÁFICO PRIVILEGIADO INCOMPATÍVEL COM ASSOCIAÇÃO PARA O TRÁFICO. GRANDE QUANTIDADE DE DROGA. REGIME FECHADO. PENA SUPERIOR A 8 ANOS DE RECLUSÃO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, mantendo condenação por tráfico de drogas e associação para o tráfico, com pena de 8 anos e 6 meses de reclusão.
+II. Questões em discussão 2. As questões em discussão consistem em saber se há demonstração concreta da estabilidade e da permanência da associação criminosa para configuração do crime de associação criminosa e se é cabível a aplicação da causa especial de diminuição de pena prevista no art. 33, §4º, da Lei nº 11.343/2006.
+III. Razões de decidir
+3. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+4. O Tribunal de origem apontou elementos concretos, incluindo interceptações telefônicas, que comprovam a estabilidade e permanência exigidas para a configuração do crime de associação para o tráfico.
+4. O acórdão recorrido afastou a aplicação do tráfico privilegiado devido à expressiva quantidade de droga apreendida (1018,35g de cocaína) e à demonstração de dedicação à atividade criminosa e envolvimento com organização criminosa.
+5. A jurisprudência da Corte é firme no sentido de que a condenação por associação para o tráfico evidencia que o agente se dedica a atividades criminosas, o que inviabiliza a aplicação da minorante do tráfico privilegiado.
+6. O regime inicial fechado é adequado, dado o quantum da pena superior a 8 anos e a gravidade da conduta, nos termos do art. 33, § 2º, "a", do Código Penal. A substituição da pena privativa de liberdade por restritiva de direitos é inviável, pois ausentes os requisitos legais previstos no artigo 44, do CP.
+IV. Dispositivo e tese
+7. Recurso conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.180.632/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 23/12/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
