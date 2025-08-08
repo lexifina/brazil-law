@@ -1,0 +1,16 @@
+DECISÃO
+EMERSON DA SILVA LIMA alega sofrer coação ilegal diante de excesso de prazo, atribuído ao Tribunal Regional Federal da 3ª Região, para o julgamento da Apelação Criminal n. 5001112-57.2019.4.03.6005.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 2º, § 2º, § 3º e § 4º, II, III, IV e V, da Lei nº 12.850/2013 (organização criminosa transnacional, armada, com participação de funcionários públicos), à pena de 8 anos e 4 meses de reclusão, em regime fechado, mais multa.
+Irresignada, a defesa informa que interpôs recurso de apelação e os autos foram recebidos na instância superior em 10/5/2024, sem julgamento até o momento. Assim, pede o relaxamento da custódia cautelar, por ofensa ao princípio da razoável duração do processo.
+Decido.
+Quanto ao excesso de prazo para o julgamento da apelação, a alegação carece de prova inequívoca de paralisação indevida e não justificada do feito, ou de descuido do Poder Judiciário na tramitação do recurso.
+É preciso destacar que o excesso de prazo na formação da culpa é distinto daquele relacionado ao julgamento de recurso. Enquanto o primeiro se refere ao tempo decorrido até a prolação da sentença, desde a prisão provisória, "a análise do excesso de prazo para o julgamento do recurso de apelação deve levar em consideração a quantidade de pena aplicada na sentença condenatória" (AgRg no HC n. 901.672/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.),
+No caso, o Tribunal de origem informou a complexidade do processo, que envolve diversos sentenciados, com diferentes defensores, para além de ter tramitado em autos físicos que foram parcialmente digitalizados. Dessa maneira, concluiu (fls. 372-677):
+Finalmente, informo que a presente apelação criminal é feito com extenso acervo probatório documental e testemunhal, autos físicos que foram digitalizados e apresentaram diversos problemas quanto à documentação carreada aos autos, que demandaram tempo para serem solucionados, de forma que leva a exigir exame minucioso. De qualquer sorte, está sendo observada a ordem cronológica de conclusão e a disponibilidade dos recursos internos.
+Conforme consta, os autos foram remetidos à instância superior e recebidos em 10/5/2024, bem como a quantidade de pena aplicada na sentença condenatória, inviável o reconhecimento, por ora, do excesso de prazo para o julgamento da apelação, até porque o paciente não está impedido de invocar eventuais benefícios no âmbito da execução penal, que está ativa no sistema SEEU (autos n. 70000951520204036005). Nesse sentido:
+ ..  3. Eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória. No caso, o agravante foi condenado à pena de 14 anos e 4 meses de reclusão, e 1 ano e 4 meses de detenção, em regime inicial fechado, não restando desarrazoado o prazo para julgamento do recurso defensivo. Ressalte-se, ainda, que o agravante não está impedido de usufruir de benefícios da execução penal.
+ ..
+(AgRg no HC n. 742.426/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
