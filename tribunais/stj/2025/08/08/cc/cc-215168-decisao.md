@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 6ª Vara Cível de Niterói - RJ e o Juízo Federal da 4ª Vara de Niterói - SJ/RJ, nos autos de ação ajuizada por particular contra o Instituto Nacional do Seguro Social - INSS, na fase de cumprimento de sentença, especificamente quanto à execução dos honorários advocatícios.
+A demanda foi originariamente proposta perante a Justiça Federal, que, ao proferir sentença homologatória de renúncia da parte autora, declinou da competência em favor da Justiça Estadual, por considerar que o INSS não tem legitimidade para promover a execução da verba honorária que, no caso, é destinada ao Conselho Curador dos Honorários Advocatícios - CCHA (fl. 28).
+Ao receber o feito, o Juízo de Direito da 6ª Vara Cível de Niterói - RJ suscitou o presente incidente, sob a compreensão, em síntese, de que o CCHA, criado pela Lei n. 13.327/2016, é um órgão vinculado à AGU e a sua atuação está inserida no contexto da Justiça Federal (fls. 31-34).
+Estando os autos devidamente instruídos, com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno desta Corte.
+Desnecessária a oitiva do Ministério Público Federal, nos termos do art. 951, parágrafo único, do CPC/2015.
+É o relatório. Decido.
+O conflito comporta conhecimento, pois atendidos os pressupostos exigidos no art. 105, I, d, da Constituição Federal, máxime por se tratar de juízos vinculados a Tribunais diversos.
+Ademais, registra-se que o art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acercado tema ou as confrontar".
+Na caso, extrai-se das informações coligidas aos autos que a controvérsia a respeito da definição da competência tangencia discussão sobre a personalidade judiciária e consequente legitimidade de órgão vinculado à AGU para figurar no polo de execução.
+Em caso análogo, a Primeira Seção desta Corte Superior firmou entendimento no sentido de que a União é o titular passivo da relação jurídica discutida, de forma que a competência para apreciar a causa é da Justiça Federal. Confira-se:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CONSELHO CURADOR DE HONORÁRIOS ADVOCATÍCIOS. ÓRGÃO VINCULADO À AGU. LEI N. 13.327/2016. NATUREZA JURÍDICA DE DIREITO PÚBLICO. JUSTIÇA FEDERAL. COMPETÊNCIA.
+1. A Lei n. 13.327/2016 criou o Conselho Curador de Honorários Advocatícios e estabeleceu a sua competência nos termos dos arts. 33 e 34 da Lei n. 13.327/2016, denotando que este não detém personalidade jurídica própria, pois é órgão que está expressamente vinculado à Advocacia-Geral da União, também integrante da União.
+2. A natureza jurídica da entidade em questão deve ser extraída da própria lei que a criou, e não de eventual ato interno formal que classifique o Conselho como pessoa jurídica privada.
+3. Caso em que o instituto da "personalidade judiciária" não poderia ser empregado, porque apenas conferido (o instituto) aos órgãos de estatura constitucional e mesmo assim para permitir a defesa de suas prerrogativas institucionais mais caras, normalmente postas em xeque pelo conflito com a própria pessoa jurídica a qual (o órgão) pertence, sendo que ambas as condições não se encontram presentes na espécie.
+4. Considerando que o CCHA é órgão vinculado à AGU e que esta integra o ente federal, conclui-se que a União é o titular passivo da relação jurídica discutida, de modo que a competência para decidir a causa é da Justiça Federal.
+5. Conflito de competência conhecido para declarar competente o Juízo da 23ª Vara Federal do Rio de Janeiro, suscitado, para julgar a demanda.
+(CC 199358/RJ, relator Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe 21/06/2024.)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo Federal da 4ª Vara de Niterói - SJ/RJ.
+Publique-se. Intimem-se. Comuniquem-se.
+EMENTA
