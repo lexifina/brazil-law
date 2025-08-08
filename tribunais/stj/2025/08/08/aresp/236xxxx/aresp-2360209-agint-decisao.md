@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ITAU UNIBANCO S.A. contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial nos termos da seguinte ementa (fl. 332):
+CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TAXA DE JUROS. ADOÇÃO DA TAXA DE CONTA GARANTIDA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. CORREÇÃO MONETÁRIA. ALEGAÇÃO DE AUSÊNCIA DE PRECLUSÃO CONSUMATIVA. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 76):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CÁLCULO EMPRESTADO DE PROCESSO QUE ANALISA O MESMO NEGÓCIO JURÍDICO QUE NÃO OFENDE O TÍTULO EXECUTIVO JUDICIAL OBJETO DA DISCUSSÃO. TAXA MÉDIA REFERENTE À CONTA GARANTIDA QUE MELHOR SE ALINHA COM A TAXA DE JUROS PRATICADA PELAS INSTITUIÇÕES FINANCEIRAS PARA O CHEQUE ESPECIAL DE PESSOA JURÍDICA, NO PERÍODO EM QUE A TAXA MÉDIA CORRETA AINDA NÃO ERA VERIFICADA PELO BANCO CENTRAL. NECESSIDADE DE APLICAÇÃO DA TAXA NOMINAL DE JUROS LEGAIS EM SUBSTITUIÇÃO AOS JUROS REMUNERATÓRIOS, PARA O PERÍODO ANTERIOR À JULHO DE 1994. IMPOSSIBILIDADE DE MODIFICAÇÃO INTEMPESTIVA DO TÍTULO EXECUTIVO JUDICIAL QUE ASSIM DEFINIU, SOB PENA DE VIOLAÇÃO DA COISA JULGADA. DECISÃO AGRAVADA MANTIDA. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 133-138).
+Nas razões do agravo interno, o agravante alega que "não é necessário o exame de fatos e provas. As teses jurídicas debatidas partem das premissas fáticas incontestes e assentes como verdadeiras pelo próprio acórdão recorrido" (fl. 342).
+Aduz, ainda, que "a limitação dos juros remuneratórios, quando configurados abusivos, devem observar às taxas médias cobradas pelo mercado para as mesmas operações da espécie, justamente em respeito a manifesta diversidade entre as operações bancárias; em não havendo divulgação de taxas médias pelo Banco Central do Brasil, deve ser apurada em liquidação de sentença, não se podendo utilizar taxa diversa da espécie contratual sub judice" (fl. 343).
+Sustenta, outrossim, divergência jurisprudencial.
+Pugna, por fim, pela reconsideração da decisão agravada e pelo provimento do recurso especial.
+A agravada não apresentou contrarrazões.
+É, no essencial, o relatório.
+Assiste razão ao agravante quanto à não incidência da Súmula n. 7/STJ ao caso dos autos.
+Assim, reconsidero a decisão de fls. 332-336 e passo a uma nova análise do recurso especial.
+Da taxa de juros remuneratórios
+Dispõe a Súmula n. 530/STJ que "Nos contratos bancários, na impossibilidade de comprovação da taxa de juros efetivamente contratada - por ausência de pactuação ou por falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor".
+No mesmo sentido, cito os seguintes precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. JUROS REMUNERATÓRIOS. REVISÃO CONTRATUAL. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra a decisão que negou provimento ao agravo em recurso especial.
+2. A parte agravante defende que as taxas médias divulgadas pelo Bacen não podem ser o único critério para revisão contratual.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a taxa de juros remuneratórios pactuada acima da taxa média de mercado divulgada pelo Banco Central pode ser considerada abusiva sem a análise das peculiaridades do caso concreto.
+III. Razões de decidir
+4. Nos contratos bancários, na impossibilidade de comprovação da taxa de juros efetivamente contratada - por ausência de pactuação ou por falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor (Súmula n. 530 do STJ).
+5. A revisão das conclusões do Tribunal de origem sobre os juros remuneratórios demandaria reexame de provas, o que é vedado em recurso especial.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. Na impossibilidade de comprovação da taxa de juros efetivamente contratada - por ausência de pactuação ou por falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado,. 2. O reexame do conjunto fático-probatório é vedado na via do recurso especial". DISPOSITIVOS RELEVANTES CITADOS: NÃO HÁ. JURISPRUDÊNCIA RELEVANTE CITADA: STJ, ERESP N. 1.424.404/SP, RELATOR MINISTRO LUIS FELIPE SALOMÃO, CORTE ESPECIAL, JULGADOS EM 20/10/2021; STJ, AGINT NO ARESP N. 2.437.350/RS, RELATOR MINISTRO MARCO BUZZI, QUARTA TURMA,
+JULGADO EM 27/11/2023; STJ, SÚMULAS N. 5, 7 E 83.
+(AgInt no AREsp n. 2.613.789/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. AUSÊNCIA DE CONTRATO. TAXA MÉDIA DE MERCADO. BACEN. APLICABILIDADE. SÚMULA 530/STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior consolidou-se no sentido de que, ante a ausência do instrumento contratual escrito, não sendo possível verificar a taxa de juros pactuada, deve ser aplicado o entendimento consolidado na Súmula 530 do Superior Tribunal de Justiça, nos seguintes termos: "Nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor." Incidência da Súmula 83 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.744.608/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024.)
+No caso dos autos, o Tribunal de origem, ao manter a limitação da taxa de juros remuneratórios do contrato de abertura de crédito em conta-corrente - Cheque Especial à taxa de juros indicada na série n. 3943 do Banco Central do Brasil, de conta garantida, uma vez que não havia uma taxa média de cheque especial divulgada pelo BACEN, contrariou o entendimento do STJ no sentido de que, na falta do contrato ou na ausência de pactuação do percentual de juros remuneratórios, a respectiva taxa deve ser limitada à média de mercado para operações da espécie. É o que se extrai do seguinte trecho (fl. 78):
+Entretanto, as taxas médias de juros para as operações de cheque especial pessoa jurídica passaram a ser divulgadas pelo Banco Central somente a partir de março de 2011 e, em que pesem as várias argumentações apresentadas pelo banco, este Tribunal de Justiça possui entendimento de que, para o período anterior a março de 2011, para averiguar a taxa de juros a ser praticada é possível a utilização daquela aplicada à conta garantida, pois é a que mostra maior semelhança à atual taxa média de mercado de cheque especial pessoa jurídica divulgada pelo Banco Central, ainda que não exista garantia vinculada à operação.
+Assim, na falta de divulgação de taxas médias pelo Banco Central do Brasil, a taxa média para a mesma operação deve ser apurada em liquidação.
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. VIOLAÇÃO DE RESOLUÇÃO. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. TAXA DE JUROS REMUNERATÓRIOS EFETIVAMENTE CONTRATADA. ADOÇÃO DA TAXA MÉDIA DE MERCADO NAS OPERAÇÕES DA MESMA ESPÉCIE NO PERÍODO.
+1. Liquidação de sentença.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88. 3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Na falta do contrato ou na ausência de pactuação do percentual de juros remuneratórios, a respectiva taxa deve ser limitada à média de mercado para operações da espécie. Na falta de divulgação de taxas médias pelo Banco Central do Brasil, a taxa média para a mesma operação deve ser apurada em liquidação.
+8. Decisão agravada reconsiderada. Agravo conhecido. Recurso especial parcialmente conhecido e provido.
+(AgInt no AREsp n. 2.490.417, Ministra Nancy Andrighi, DJe de 08/08/2024.)
+Da incidência da Súmula n. 284/STF
+Por fim, ao impugnar a tese da correção monetária, sustentando que não haveria preclusão consumativa sobre a matéria, observa-se que, nas razões do recurso especial, a recorrente deixou de estabelecer qual o dispositivo de lei federal que considera violado para sustentar sua irresignação pela alínea "c" do permissivo constitucional.
+Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado, de modo que a "simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF" (E Dcl no AgRg no AR Esp n. 402.314/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, D Je de 22/9/2015).
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, reconsidero a decisão de fls. 332-336 e conheço do agravo para conhecer parcialmente do recurso especial e, na parte conhecida, dar-lhe provimento para determinar que a apuração da taxa de juros remuneratórios, em liquidação de sentença, seja limitada à taxa média de mercado para operações de cheque especial, no período anterior a março de 2011.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. ADOÇÃO DA TAXA MÉDIA DE MERCADO NAS OPERAÇÕES DA MESMA ESPÉCIE NO PERÍODO. APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA. PRECLUSÃO CONSUMATIVA. DISPOSITIVO LEGAL NÃO INDICADO. INCIDÊNCIA DA SÚMULA N. 284/STF. RECONSIDERAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
