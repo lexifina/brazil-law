@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de conflito negativo de competência, com pedido liminar, em que é suscitante RONALDO VIEIRA DE JESUS, tendo como suscitados o JUÍZO DA 2ª VARA DO TRABALH O DE TANGARÁ DA SERRA/MT e o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE ARAPONGAS/PR.
+Alega o suscitante:
+"No caso em tela, a sentença trabalhista reconheceu vínculo de trabalho e créditos constituídos após o deferimento do processamento da recuperação judicial, o que o enquadra, de forma inequívoca, como crédito extraconcursal, nos moldes do art. 67 da LRF.
+b) Da Incompetência do Juízo da Recuperação Judicial
+A jurisprudência do STJ, especialmente após o advento da Lei nº 14.112/2020, é absolutamente clara no sentido de que o Juízo da Recuperação Judicial não detém competência para controlar ou obstar a execução de créditos extraconcursais após o decurso do stay period.
+(..)
+Tal entendimento é pacífico e reforçado por outras decisões da Corte, incluindo o entendimento de que a Justiça do Trabalho é competente para processar e julgar execuções de crédito extraconcursal, sem submeter- se ao crivo ou autorização do juízo universal" (fls. 5/7 e-STJ).
+Requer, ao final, que seja julgado competente o Juízo trabalhista.
+Na decisão de e-STJ fls. 622/623, não foi deferido o pedido de liminar.
+Os Juízos suscitados não apresentaram as suas informações (e-STJ fl. 632).
+O Ministério Público Federal, em parecer (e-STJ fls. 634/636 ), opinou pela declaração de competência do juízo trabalhista.
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Tratando-se de uma recuperação judicial devidamente concedida em sentença e encerrado o período de blindagem, a competência para execução de crédito trabalhista extraconcursal é da Justiça especializada laboral.
+Nesse sentido:
+"PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E EXECUÇÃO TRABALHISTA. CRÉDITO EXTRACONCURSAL. PERÍODO DE BLINDAGEM JÁ ENCERRADO. PROSSEGUIMENTO DA EXECUÇÃO. POSSIBILIDADE. CONFLITO DE COMPETÊNCIA. NÃO CONHECIMENTO.
+1. Consoante a jurisprudência do STJ, não há invasão da competência do juízo de soerguimento, pelo juízo laboral, em se tratando de execução de crédito extraconcursal, quando já proferida decisão concessiva da recuperação judicial e exaurido o período de blindagem.
+2. Agravo interno não provido." (AgInt no CC n. 206.911/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 17/12/2024, DJEN de 23/12/2024.)
+"CONFLITO DE COMPETÊNCIA NEGATIVO. CUMPRIMENTO DE SENTENÇA TRABALHISTA REFERENTE A CRÉDITO EXTRACONCURSAL. JUÍZO TRABALHISTA QUE DETERMINA O ARQUIVAMENTO, EM ATENÇÃO À COMPETÊNCIA DO JUÍZO RECUPERACIONAL. PEDIDO DE HABILITAÇÃO DO REFERIDO CRÉDITO NA RECUPERAÇÃO JUDICIAL INDEFERIDO PELO JUÍZO RECUPERACIONAL, JUSTAMENTE EM RAZÃO DE SUA EXTRACONCURSALIDADE. CONFLITO NEGATIVO DE COMPETÊNCIA. CARACTERIZAÇÃO. DE ACORDO COM § 7-A DO ART. 6º DA LRF (COM REDAÇÃO DADA PELA LEI N. 14.112/2020), O JUÍZO DA RECUPERAÇÃO JUDICIAL NÃO DETÉM COMPETÊNCIA PARA INTERFERIR, APÓS O DECURSO DO STAY PERIOD, NAS CONSTRIÇÕES EFETIVADAS NO BOJO DE EXECUÇÃO INDIVIDUAL DE CRÉDITO EXTRACONCURSAL. CONFLITO DE COMPETÊNCIA NEGATIVO CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA TRABALHISTA.
+1. A controvérsia posta no presente incidente centra-se em definir o Juízo competente para conhecer e julgar o cumprimento de sentença trabalhista, cujo crédito ali reconhecido tem seu fato gerador em data posterior ao pedido de recuperação judicial (extraconcursal, portanto), afigurando-se relevante, a esse propósito - sobretudo em atenção ao teor da decisão proferida pelo Juízo trabalhista, bem como ao parecer manifestado pelo Ministério Público Federal - sopesar a subsistência (ou não) da competência do Juízo da recuperação judicial para, nos termos propugnados, exercer juízo de controle sobre atos constritivos, considerado, no caso dos autos, o exaurimento do prazo de blindagem, estabelecido no § 4º do art. 6º da Lei n. 11.101/2005 (com redação dada pela Lei n. 14.112/2020).
+2. Com o advento da Lei n. 14.112/2020, tem-se não mais haver espaço - diante de seus termos resolutivos - para a interpretação que confere ao Juízo da recuperação judicial o status de competente universal para deliberar sobre toda e qualquer constrição judicial efetivada no âmbito das execuções de crédito extraconcursal, a pretexto de sua essencialidade ao desenvolvimento de sua atividade, principalmente em momento posterior ao decurso do stay period.
+3. A partir da entrada em vigência da Lei n. 14.112/2020, com aplicação imediata aos processos em trâmite (afinal se trata de regra processual que cuida de questão afeta à própria competência), o Juízo da recuperação judicial tem a competência específica para determinar o sobrestamento dos atos de constrição exarados no bojo de execução de crédito extraconcursal que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial durante o período de blindagem. Em se tratando de execuções fiscais, a competência do Juízo recuperacional restringe-se a substituir os atos de constrição que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial.
+4. Uma vez exaurido o período de blindagem - mormente nos casos em que sobrevém sentença de concessão da recuperação judicial, a ensejar a novação de todas as obrigações sujeitas ao plano de recuperação judicial -, é absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual, não sendo possível que o Juízo da recuperação continue, após tal interregno, a obstar a satisfação do crédito, com suporte no princípio da preservação da empresa, o qual não se tem por absoluto.
+4.1 Naturalmente, remanesce incólume o dever do Juízo em que se processa a execução individual de crédito extraconcursal de bem observar o princípio da menor onerosidade, a fim de que a satisfação do débito exequendo se dê na forma menos gravosa ao devedor, podendo obter, em cooperação do Juízo da recuperação judicial, as informações que reputar relevantes e necessárias.
+5. Diante do exaurimento do stay period, deve-se observar que a execução do crédito trabalhista extraconcursal em exame deve prosseguir normalmente perante o Juízo trabalhista suscitado, sendo vedado ao Juízo da recuperação judicial - porque exaurida sua competência (restrita ao sobrestamento de ato constritivo incidente sobre bem de capital) - proceder ao controle dos atos constritivos a serem ali exarados.
+6. Conflito de competência negativo conhecido, para declarar a competência do Juízo trabalhista." (CC 191.533/MT, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/4/2024, DJe de 26/4/2024 - grifou-se)
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DA 2ª VARA DO TRABALHO DE TANGARÁ DA SERRA/MT .
+Intimem-se.
+Oficiem-se.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. CRÉDITO EXTRACONCURSAL. PROSSEGUIMENTO. COMPETÊNCIA DO JUÍZO TRABALHISTA.
+1. Tratando-se de uma recuperação judicial devidamente concedida em sentença e encerrado o período de blindagem, a competência para execução de crédito trabalhista extraconcursal é da Justiça especializada laboral.
+2. Conflito de competência conhecido para declarar a competência do juízo trabalhista.
