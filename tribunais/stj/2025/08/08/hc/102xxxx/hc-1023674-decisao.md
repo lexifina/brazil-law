@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de RONALDO SILVA SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no Habeas Corpus n. 2163517-79.2025.8.2 6.0000 (fls. 5/18).
+Extrai-se dos autos que o paciente foi preso preventivamente e denunciado pela suposta prática dos crimes de latrocínios consumado e tentado e corrupção de menor (Processo n. 0001062-21.2025.8.26.0642, da 1ª Vara da comarca de Ubatuba/SP ).
+Neste writ, sustenta a defesa constrangimento ilegal pela falta de fundamentação concreta para o decreto de prisão preventiva, nos termos do art. 312 do CPP; ressalta as condições pessoais favoráveis e a suficiência das medidas cautelares alternati vas.
+Requer, a ssim, liminarmente e no mérito, a revogação da medida constritiva.
+É o relatório.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Extrai-se do decreto prisional a seguinte fundamentação: trata-se de crimes dolosos contra o patrimônio, concretamente graves, que custaram a vida de uma das vítimas e colocaram em risco a vida das demais, e cuja pena máxima em abstrato supera, em muito, 4 anos de reclusão. Além disso, os fatos delituosos teriam sido perpetrados em pleno feriado, em local densamente ocupado no momento fático (orla marítima) e mediante disparos de arma de fogo (fl. 61 - grifo nosso).
+No julgamento do habeas corpus, a Corte estadual preservou a segregação cautelar, destacando o seguinte (fls. 13/14 - grifo nosso):
+ ..
+Demais disso, o modus operandi supostamente praticado pelo grupo criminoso revelou intensa crueldade e frieza, a ascendente gravidade empregada nas eta pas do iter criminis é assustadora. Aproveitando-se do estado de alerta baixo das vítimas que aproveitavam o feriado prolongado na orla da praia de Ubatuba/SP, os denunciados anunciaram o assalto, subtraíram os bens das vítimas, aterrorizando-as com o emprego de arma de fogo e, por motivo de somenos importância, apenas pela demora em fornecer os acessos dos aparelhos celulares, dispararam a arma de fogo resultando na morte de uma das vítimas, enquanto as demais eram socorridas ou fugiam.
+ ..
+Dos excertos transcritos, observa-se que a decisão se encontra suficientemente fundamentada em elementos concretos que denotam a periculosidade do acusado, evidenciada pelo modus operandi dos crimes imputados - latrocínios consumado e tentado, ao lado de corréu e outros dois menores, ocasião em que, em razão de as vítimas terem se atrapalhado para fornecerem as senhas dos aparelhos celulares, efetuou disparos de arma de fogo contra elas, tendo sido uma alvejada fatalmente e as outras duas não atingidas por circunstâncias alheias à vontade do agente , o que justifica a medida excepcional para a garantia da ordem pública.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada , não ha vendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+Sobre o tema, os seguintes precedentes: AgRg no RHC n. 208.042/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/2/2025, DJEN de 5/3/2025; e AgRg no RHC n. 205.355/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/11/2024, DJe de 26/11/2024.
+Afora isso, é entendi mento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundam e ntada, e que é inaplicável medida cautelar alternativa quando as circunstâncias evidencia m que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, indefiro liminarmente o writ.
+Publiq ue-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. LATROCÍNIOS CONSUMADO E TENTADO. CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. CIRCUNSTÂNCIAS DOS DELITOS. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Writ indeferido liminarmente.
