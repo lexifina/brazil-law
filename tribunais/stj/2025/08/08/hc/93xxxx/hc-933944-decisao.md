@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ANTONIO JOSE LOPES DA SILVA JUNIOR, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 2168461-61.2024.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 7/6/2024, posteriormente convertido em prisão preventiva, e restou denunciado pela suposta prática dos crimes tipificados nos arts. 33, caput, da Lei n. 11.343/2006 e 333, caput, ambos c/c os arts. 29, caput, e 69, todos do Código Penal - CP.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado:
+"Habeas corpus. Tráfico de drogas. Prisão preventiva. Alegação de nulidade da prova por revista pessoal e busca domiciliar efetuadas de forma ilegal. Ausência de nulidade. Fundadas suspeitas para busca pessoal. Busca domiciliar efetuada em virtude da suspeita concreta de flagrante permanente por diligência prévia. Tema nº 280 de repercussão geral do Supremo Tribunal Federal. Nulidades não verificadas. Precedentes. Preventiva. Requisitos objetivos da prisão preenchidos. Custódia decretada com vistas à garantia da ordem pública, sob fundamento da gravidade concreta da conduta, com apreensão de vultosa quantidade de entorpecentes. Motivos idôneos a embasar a custódia. Insuficiência de cautelares diversas, ante a persistência delitiva. Ordem denegada." (fls. 49).
+No presente writ, a defesa sustenta a nulidade das provas que embasaram a prisão preventiva, pois oriundas de buscas veicular e domiciliar respaldadas apenas em denúncias anônimas, desprovidas de mandado judicial e de fundadas razões que legitimassem a diligência, em desobediência ao disposto nos arts. 157, 240 e 244 do Código de Processo Penal - CPP.
+Acrescenta que não houve qualquer diligência investigativa anterior ou consentimento do morador que justificasse o ingresso forçado no domicílio - o que ressalta a ilegalidade do procedimento.
+Defende que não foi apresentada fundamentação idônea para a manutenção da segregação cautelar do paciente, a qual estaria baseada na gravidade abstrata do delito, reputando ausentes os requisitos autorizadores da prisão preventiva, elencados no art. 312 do Código de Processo Penal.
+Ressalta as condições pessoais favoráveis do acusado.
+Requer, em liminar e no mérito, a concessão da ordem para que seja declarada a nulidade das provas decorrentes das buscas veicular e domiciliar, com o consequente trancamento da ação penal.
+Liminar indeferida às fls. 68/70.
+Informações prestadas às fls. 76/77, 79/80.
+O Ministério Público Federal opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 94/108).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, na presente impetração, o reconhecimento de nulidade ou a revogação da custódia cautelar imposta ao paciente.
+Cumpre ressaltar que de acordo com informações obtidas na página eletrônica da Corte Estadual, nos autos da Ação Penal n. 1501020-07.2024.8.26.0617, em 29/11/2024 sobreveio sentença condenando o ora paciente à pena de 5 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Assim, o pedido está prejudicado.
+Isso porque, uma vez proferida sentença, emergiu fato superveniente que fez superar a relação anterior, sob a qual se discutia a legalidade da prisão. Até porque, preservada a prisão preventiva, surgem novas premissas que não foram ainda submetidas ao crivo do Tribunal de origem.
+Nesse contexto, verifica-se a perda superveniente de objeto da presente impetração. No mesmo sentido:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DE OBJETO. RECURSO PREJUDICADO. I. CASO EM EXAME
+1. Habeas corpus interposto contra prisão preventiva da paciente, que foi condenada à pena de 5 anos e 10 meses de reclusão, em regime fechado, e ao pagamento de 583 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006. O Tribunal de origem negou à ré o direito de recorrer em liberdade, considerando o quantum da pena e o regime inicial de cumprimento. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a superveniência de sentença condenatória torna prejudicado o recurso que visava impugnar a prisão preventiva da ré. III. RAZÕES DE DECIDIR
+3. A superveniência de sentença condenatória altera substancialmente o contexto jurídico da impetração, prejudicando o objeto do recurso, que originalmente questionava a legalidade da prisão preventiva.
+4. A condenação com decisão proferida pelo Juízo de primeiro grau, conforme o art. 387, § 1º, do Código de Processo Penal, constitui novo título judicial, que desafia impugnação própria, impedindo o prosseguimento do habeas corpus em razão da perda de objeto.
+5. A interposição de recurso de apelação, ainda pendente de julgamento, permite a análise ampla e exauriente das questões relativas à condenação, devendo ser respeitado o efeito devolutivo dessa via recursal.
+IV. HABEAS CORPUS PREJUDICADO.
+(HC n. 860.922/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISAO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA INSURGÊNCIA. NOVO TÍTULO. TESE PREJUDICADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, vedada a supressão de instância" (AgRg no RHC n. 158.359/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 25/4/2022).
+2. Ademais, exame dos excertos contidos na sentença condenatória e no decreto de prisão preventiva, evidencia que o disposto no art. 387, § 1º, do Código de Processo Penal foi devidamente observado, pois foram indicados fundamentos concretos para a manutenção da prisão cautelar anteriormente imposta ao agente - maus antecedentes e duas condenações anteriores pelo crime de roubo. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 865.095/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+Noutro ponto, observo que as ilegalidades suscitadas na presente impetração foram deliberadas pelo Juízo competente por ocasião da sentença condenatória superveniente nos seguintes termos:
+"As preliminares invocadas pelas combativas defesas não comportam acolhimento "
+I) Concernente à alegada ilegalidade da busca veicular realizada pelos policiais, observa-se que os agentes relataram, em uníssono, que o veículo guiado por ANTONIO estava cadastrado no sistema com registro de "ação criminosa", visto que indivíduos estavam armados no interior de um veículo VW/Voyage de cor prata, e emplacamento idêntico ao do veículo ventilado, circunstância objetiva que configura fundada suspeita a autorizar a busca, como revelou a prova oral.
+ ..
+II) Em relação à busca domiciliar, a despeito da alegação de nulidade da apreensão, também não há ilegalidade a sanar.
+De fato, à luz da prova oral, como ser verá, verifica-se ter havido não apenas fundada suspeita, mas prisão em flagrante pela prática de crime permanente, a autorizar a diligência na residência independentemente de mandado judicial, ex vi do art.5º, XI, da Constituição Federal.
+ ..
+Como bem ressaltou Min. Gilmar Mendes, relator do julgado referido, em seu voto, "(..) do policial que realiza a busca sem mandado judicial não se exige certeza quanto ao sucesso da medida. Em verdade, dificilmente a certeza estará ao alcance da polícia. (..). Por estar a certeza fora do alcance, a legislação costuma exigir modelos probatórios bem mais modestos para medidas de investigação. Para busca e apreensão, por exemplo, o Código de Processo Penal exige apenas "fundadas razões" art.240, §1º"
+Deveras, houve prévia apreensão de drogas no veículo conduzido pelo acusado ANTONIO, no qual se encontrava também o corréu MOYSES, ou seja, certeza visual da prática do tráfico de drogas, a ensejar a busca domiciliar independentemente de mandado judicial ou mesmo de autorização de seus moradores.
+ ..
+E mesmo que albergada esta tese defensiva, o que se admite apenas para argumentar, ainda assim estaria configurado o crime de tráfico, pela apreensão dos entorpecentes no interior do veículo, em quantidade suficiente a evidenciar a prática deste crime, como se verá."
+Assim, em se considerando o atual contexto processual em que o Juízo singular, soberano na apreciação do conjunto fático-probatório, rechaçou as ilegalidades arguidas, deve ser reconhecida a perda superveniente do objeto da impetração quanto a este ponto. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. RECEPTAÇÃO. NULIDADE DAS DECISÕES DE AUTORIZAÇÃO DAS INTERCEPTAÇÕES TELEFÔNICAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO JUDICIAL. JUÍZO DE COGNIÇÃO MAIS AMPLO. WRIT PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Com a superveniência da prolação de sentença condenatória, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático processual.
+2. A decisão agravada, que julgou prejudicado o habeas corpus, por perda de objeto, não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+3. Agravo Regimental improvido.
+(AgRg no HC n. 389.001/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 28/11/2017, DJe de 4/12/2017).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. JULGADO PREJUDICADO. ALEGAÇÃO DE NULIDADES NO CURSO DA INSTRUÇÃO CRIMINAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA NA AÇÃO PENAL ORIGINÁRIA. AGRAVO REGIMENTAL DESPROVIDO.
+- Esta Corte acumula julgados no sentido de que, tratando-se de supostas nulidades ocorridas no curso da instrução criminal, a superveniência de sentença condenatória prejudica o exame do habeas corpus. Isso porque o escopo de apreciação do mandamus é substancialmente mais estreito, por se tratar de remédio constitucional que prima pela cognição sumária e rito célere. A notícia de que os mesmos vícios foram, posteriormente à impetração do writ, examinados - e afastados - no âmbito de regular ação penal, submetida a cognição exauriente, esvazia o objeto do mandamus, conforme assinalado na decisão agravada. Precedentes.
+Agravo regimental desprovido.
+(AgRg na PET no RHC n. 58.983/SP, relator Ministro ERICSON MARANHO (Desembargador Convocado do TJ/SP), SEXTA TURMA, julgado em 5/4/2016, DJe de 19/4/2016).
+Portanto, caberá à Corte estadual a análise das apontadas ilegalidades em sede de apelação, a critério da defesa. Isso porque "o recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição permite que o Tribunal de origem examine, com maior amplitude e profundidade, todo o conjunto fático-probatório colhido durante a instrução criminal e as questões jurídicas subjacentes, com todas as suas nuanças, sem a limitação cognitiva da via mandamental" (AgRg no HC n. 802.005, Ministro SEBASTIÃO REIS JÚNIOR, DJe de 13/03/2023).
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
