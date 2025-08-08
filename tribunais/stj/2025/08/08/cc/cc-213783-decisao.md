@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 7ª VARA CÍVEL DO FORO REGIONAL XII DE NOSSA SENHORA DO Ó (SP) e o JUÍZO DA 57ª VARA DO TRABALHO DE SÃO PAULO (SP), para definir a competência para processar e julgar reclamação trabalhista ajuizada por SOLANGE GALASSE em desfavor de ESPACK INDÚSTRIA E COMÉRCIO DE EMBALAGENS LTDA. e OUTRAS, objetivando o reconhecimento de vínculo empregatício e a condenação das reclamadas ao pagamento das verbas trabalhistas.
+O JUÍZO DA 57ª VARA DO TRABALHO DE SÃO PAULO (SP), no qual a ação foi proposta, entendendo que havia questão prejudicial de mérito referente à eventual fraude de constituição e funcionamento da pessoa jurídica, declinou da competência e determinou a remessa dos autos à Justiça comum (fls. 22-23).
+O JUÍZO DE DIREITO DA 7ª VARA CÍVEL DO FORO REGIONAL XII DE NOSSA SENHORA DO Ó (SP), por sua vez, suscitou o presente conflito (fls. 4-7).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito negativo de competência e, no mérito, pela competência do Juízo da 57ª Vara do Trabalho de São Paulo (SP), o suscitado, para processar e julgar a demanda (fls. 146-152).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve Juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+Segundo a iterativa jurisprudência desta Corte, a definição da competência em razão da matéria está adstrita à natureza jurídica da demanda, definida em função do pedido e da causa de pedir deduzidos em juízo.
+No caso, a pretensão veiculada na inicial (fls. 28-38) - reclamação trabalhista -, por sua natureza, está lastreada em uma discussão a respeito da relação de trabalho, mas fundamentada essencialmente na alegação de reconhecimento do vínculo empregatício e na condenação ao pagamento das verbas trabalhistas.
+Assim, a controvérsia cinge-se a definir o órgão competente para apreciar ação que se baseia na alegação de desvirtuamento do contrato de natureza autônoma mantido com Espack Indústria e Comércio de Embalagen s Ltda. e outra s, objetivando a parte autora o reconhecimento, em seu lugar, de vínculo empregatício.
+Esta Corte já decidiu sobre a matéria, entendendo que, nessa hipótese, o deslinde da questão necessita, no âmbito da Justiça comum, da análise prévia da alegação de fraude no negócio vigente entre as partes para, posteriormente, ensejar a análise pela Justiça especializada.
+N ão há como reconhecer a caracterização de relação de emprego sem antes verificar a validade ou não do contrato de prestação de serviços do qual a parte autora participou como contratada.
+Assim, a causa de pedir está fundada na existência de má-fé da empresa na entabulação do contrato originário, de modo que é inviável decidir o pleito principal de reconhecimento de vínculo empregatício sem adentrar a causa de pedir deduzida na ação.
+Feitas essas considerações, impõe-se o reconhecimento da competência da Justiça comum estadual para processar e julgar a presente demanda, pois, apenas após reconhecido eventual vício de consentimento ou social, com a consequente anulação do negócio jurídico preexistente, é que haverá a possibilidade de se pleitear, na Justiça do Trabalho, o reconhecimento do alegado vínculo empregatício.
+A propósito, confira-se o seguinte precedente: AgInt no CC n. 191.676/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 8/3/2023, DJe de 13/3/2023.
+No mesmo sentido, as seguintes decisões monocráticas: CC n. 208.944/MG, relatora Ministra Nancy Andrighi, DJe de 12/11/2024; CC n. 205.029/SP, relator Ministro Antonio Carlos Ferreira, DJe de 29/5/2024.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 7ª Vara Cível do Foro Regional XII de Nossa Senhora do Ó (SP ) , o suscitante.
+Publique-se. Intimem-se.
+EMENTA
