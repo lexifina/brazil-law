@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito suscitado por Oasis Pousada e Confecções Ltda., envolvendo o juízo de direito da 4ª Vara do Juizado Especial de Feira de Santana/BA e o juizado especial cível e criminal adjunto à 2ª Vara Federal da SSJ de Feira de Santana/BA.
+Em síntese, a suscitante narra que ingressou com ação pedindo reparação por danos morais e materiais, em face das empresas Caixa Cartões Holding S. A. e Mastercard Brasil Ltda., em razão de inscrição indevida de seu nome em cadastros de inadimplentes. A demanda foi ajuizada perante o juízo estadual (processo n. 002483-73.2022.8.05.0080), o qual declinou da sua competência, pois a Caixa Econômica Federal apresentou contestação, de modo que estaria configurado o interesse da União.
+Remetidos os autos ao Juízo Federal (processo n. 1013242- 54.2022.4.01.3304), este extinguiu o processo sem resolução de mérito, por entender que "não haver interesse jurídico da União na demanda, haja vista que a Caixa Cartões Holding S. A. seria pessoa jurídica de direito privado, distintamente da CEF" (fl. 2).
+Nesse contexto, afirma a insurgente que "estaria configurado Conflito negativo de Competência, visto que permanece sem acesso à prestação jurisdicional (art. 5º, XXXV, da CF/1988). Narra que ingressou com nova demanda no Juízo Estadual (processo n. 0000455- 64.2024.8.05.0080), o qual se encontra com prazo aberto de depósito recursal."
+Pede liminar a fim de sobrestar o feito na origem e, no mérito, a declaração de competência do r. juízo da 4ª Vara do Sistema dos Juizados Especiais de Feira de Santana/BA.
+É o relatório.
+Decisão.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+1. A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+2. Vale destacar, ainda, a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+3. A jurisprudência desta eg. Corte Superior caminha no sentido de que compete à Justiça Federal decidir sobre a existência, ou não, de interesse de ente federal na lide, de modo que evidenciada a ausência de interesse da CEF na hipótese dos autos, manifestada pelo r. juízo suscitante, remanesce a competência da Justiça Estadual.
+Nesse sentido, confiram-se: AgRg no CC 131550/SP, Rel. Min. Nancy Andrighi, DJe de 19/08/2014; AgRg no CC 126344/MG, Rel. Min. Paulo de Tarso Sanseverino, DJe de 02/06/2014; CC 50452/RS, Rel. Min. Aldir Passarinho Júnior, DJe de 23/10/2006, este último assim ementado:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO. EXECUÇÃO DE CONTRATO BANCÁRIO. CESSÃO DO CRÉDITO. CAIXA ECONÔMICA FEDERAL. MANIFESTO INTERESSE. INCLUSÃO NO PÓLO ATIVO DA DEMANDA INEXISTOSA. SÚMULAS N. 150, 224 E 254-STJ. APLICAÇÃO.
+I. Compete ao Juízo estadual o julgamento da lide que versa sobre crédito cedido por instituição financeira privada à CEF que, a despeito do manifesto interesse, teve inadmitida sua inclusão no pólo ativo da demanda.
+II. "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas" (Súmula n. 150-STJ).
+III. "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito" (Súmula n. 224-STJ).
+IV. "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual" (Súmula n. 254-STJ).
+V. Conflito conhecido, fixada a competência da Justiça estadual.
+4. Do exposto, com fundamento no art. 955, parágrafo único, do CPC/15 c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência da 4ª Vara do Sistema dos Juizados Especiais de Feira de Santana/BA, o suscitado, nos termos da fundamentação supramencionada.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
