@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de TAWAN NUNES CASARTELLI em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi preso em flagrante no dia 12/2/2025, e teve a prisão convertida em preventiva, em 13/2/2025, pela suposta prática dos crimes previstos nos artigos 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Impetrado habeas corpus na origem, teve a ordem denegada.
+A defesa sustenta que a manutenção da prisão preventiva configura constrangimento ilegal, por não atender aos requisitos concretos previstos no artigo 312 do Código de Processo Penal , alegando que a decisão do TJRS se apoia apenas na gravidade abstrata do delito e na quantidade da droga apreendida, sem qualquer elemento que configure a integração do paciente à organização criminosa e demonstre o periculum libertatis.
+Requer a revogação da prisão preventiva e, alternativamente, a aplicação de medidas alternativas previstas no artigo 319 do Código de Processo Penal.
+Liminar indeferida às fls. 48-49.
+Informações prestadas às fls. 55-83 e 84-86.
+O Ministério Público Federal em parecer, às fls. 90-95, opinou pelo "não conhecimento do writ, e a concessão da ordem, de ofício, para que seja revogada a prisão preventiva do paciente, com aplicação das medidas cautelares alternativas, previstas no art. 319 do CPP".
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, haja vista que, em tese, o paciente teria se associado a outros agentes para perpetrar a mercancia de entorpecente, tendo sido apreendida grande quantidade de droga, no contexto da traficância; constando nos autos que "Os agentes monitoram a situação e verificaram o manejo de alguns sacos pretos de um imóvel, para colocação no interior do veículo Gol branco, ocasião na qual os policiais deram voz de prisão e prenderam em flagrante os custodiados" (fl. 37); resultando na apreensão de, aproximadamente, 190 (cento e noventa quilos) de maconha, do tipo skunk.
+Tais circunstâncias demonstram a gravidade concreta da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+"A prisão cautelar está fundamentada na necessidade de garantia da ordem pública, haja vista a gravidade concreta da conduta, diante da apreensão de 347 kg de maconha e 9,2 kg de skunk, havendo indicativo de que o agravante teria contratado o corréu para transportar as drogas para outro Estado da Federação, comunicando-se por meio de walkie talkies, que ambos portavam dentro de cada veículo" (AgRg no HC n. 900.609/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+"No caso dos autos, a custódia do agravante foi adequadamente motivada para garantia da ordem pública, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta do delito e a periculosidade do acusado, diante da apreensão de grande quantidade de drogas - onze porções de maconha pesando aproximadamente 9kg e 146,80g de skunk -, bem como pelas circunstâncias do flagrante, em que foi descumprida ordem dos policiais de parada veicular, a qual se deu somente após perseguição na rodovia, além da quebra do celular pelo paciente" (AgRg no HC n. 984.241/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
