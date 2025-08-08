@@ -1,0 +1,35 @@
+DECISÃO
+GUSTAVO DE LIMA VICENTE alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1523703-41.2024.8.26.0228.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 1 mês e 10 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime de roubo circunstanciado pelo concurso de agentes, por cinco vezes, em concurso formal.
+A defesa aduz, em síntese, que a fixação do regime semiaberto se mostra mais adequada ao se considerar a quantidade de pena fixada, a primariedade, os bons antecedentes do paciente e as circunstâncias judiciais a ele favoráveis.
+Indeferida a liminar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Consoante entendimento desta Corte Superior de Justiça, a fixação da pena-base no mínimo legal não impede a aplicação de regime mais gravoso, desde que devidamente justificado com base nas peculiaridades do caso concreto.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REPRIMENDA INFERIOR A 8 ANOS DE RECLUSÃO. PENA-BASE NO MÍNIMO LEGAL. FIXAÇÃO DO REGIME FECHADO COM ESTEIO EM FUNDAMENTO CONCRETO. QUANTIDADE DE DROGA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para fixação do regime inicial de cumprimento da pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+2. Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que ocorreu no caso em apreço.
+3. Na espécie, apesar de a pena-base ter sido estabelecida no mínimo legal, o regime mais severo foi devidamente fundamentado no montante de droga apreendida - 1,435kg (um quilo, quatrocentos e trinta e cinco gramas) de cocaína e 1,860 kg (um quilo, oitocentos e sessenta gramas) de haxixe. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 622.355/MS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 18/2/2021, destaquei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal, com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+2. No caso, a Corte estadual manteve a imposição do regime inicial fechado, com base, justamente, nas peculiaridades do caso analisado, motivo pelo qual não há falar em inobservância ao enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ.
+3. Consoante entendimento desta Corte Superior de Justiça, a fixação da pena-base no mínimo legal não impede a aplicação de regime mais gravoso, desde que devidamente justificado nas peculiaridades do caso analisado, tal como ocorreu na hipótese dos autos.
+4. Agravo regimental não provido.
+(AgRg no HC n. 734.376/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/6/2022)
+No mesmo norte, registro o seguinte julgado do Supremo Tribunal Federal:
+Ainda que favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, é compatível com as Súmulas n. 718 e 719 desta Corte Suprema o decisum que, à luz do disposto no art. 42 da lei especial aplicável ao caso concreto, impõe o regime inicial fechado para cumprimento de pena, fixada em patamar superior a 4 e inferior a 8 anos, pelo crime de tráfico de drogas, em observância à elevada quantidade do entorpecente apreendida, à sua natureza, à sua forma de acondicionamento e às demais circunstâncias em que o crime foi cometido. Precedentes.
+(AgRg no HC n. 163.212/SP, Rel. Ministro Gilmar Mendes, 2ª T., DJe 28/11/2019)
+Acerca do regime inicial, dispôs a sentença (fls. 33-34):
+O regime inicial de cumprimento da pena para o delito praticado será o fechado para o réu, em atenção à gravidade do delito, ao quantum da pena aplicada, mas, especialmente, pelas circunstâncias concreta dos delitos, cometidos pelo réu em plena via pública, durante o dia, contra três moças e dois rapazes, com arrojo em situação de total vulnerabilidade diante da ação agressiva de dois agentes.
+Presentes, portanto, circunstâncias concretas que justificam a fixação de regime prisional gravoso, em consonância com o teor das Súmulas 718 e 719 do C. Supremo Tribunal Federal (Súmula 718: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e Súmula 719: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea).
+Por sua vez, o acórdão manteve a sentença nos termos seguintes (fls. 22-23):
+Regime Prisional. Nos termos dos §§ 2º e 3º do art. 33 do Código Penal, tratando-se de crime praticado com emprego de grave ameaça à pessoa, contra cinco vítimas, que revela periculosidade do agente, bem como a elevada intensidade da violação ao bem jurídico tutelado, evidencia-se a necessidade de resposta penal adequada. Assim, mostrou-se correta a fixação do regime fechado para o início do cumprimento da pena privativa de liberdade imposta.
+No caso em análise, observa-se que a pena-base foi fixada no mínimo legal, reconhecidas as circunstâncias judiciais favoráveis ao paciente, sua primariedade e os bons antecedentes. Tais elementos, aliados ao quantum da pena aplicada (7 anos, 1 mês e 10 dias), em tese, permitiriam a fixação do regime semiaberto.
+Entretanto, o acórdão impugnado fundamentou adequadamente a imposição do regime mais gravoso, considerou as circunstâncias concretas em que o delito foi praticado: crime cometido em plena via pública, durante o dia, contra cinco vítimas, com grave ameaça exercida mediante emprego de simulacro de arma de fogo e em comparsaria, circunstâncias que revelam considerável ousadia e desprezo pelas normas de convivência social, tudo a evidenciar a maior censurabilidade da conduta perpetrada.
+No presente caso, verifica-se que a decisão impugnada não se baseou apenas na gravidade abstrata do delito, mas em elementos concretos que evidenciam a necessidade de maior rigor na resposta penal, de forma que não está caracterizado constrangimento ilegal.
+Não há falar, então, em inobservância das Súmulas n. 718 e 719 do STF e 440 do STJ.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
