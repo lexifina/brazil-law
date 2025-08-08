@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCISCO FLAVIANO DA SILVA contra decisão que inadmitiu o recurso especial, oriundo de acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim ementado (e-STJ fls. 58-59):
+PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. RECURSO MINISTERIAL. PLEITO PELA A PLICAÇÃO DA SANÇÃO DE PERDA DOS DIAS REMIDOS. RECURSO CONHECIDO E P ROVIDO.
+ ..
+I. CASO EM EXAME
+1. Agravo em Execução Penal interposto em face de decisão prolatada pela 3ª Vara Regional de Execução Penal da Comarca de Mossoró/RN que homologou falta grave e regrediu o apenado ao regime fechado, mas deixou de decretar a perda de dias remidos. O Ministério Público pleiteia a decretação da perda dos dias remidos, proporção de até 1/3 (um terço), em virtude da homologação da falta grave cometida pelo apenado.
+ ..
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça interpreta como verdadeiro poder-dever do magistrado a aplicação da perda dos dias remidos, ficando apenas a cargo do Juiz a discricionariedade quanto à fração da perda.
+4. A aplicação da sanção de perda dos dias remidos é obrigatória, não sendo possível seu afastamento pela discricionariedade do Juízo da Execução.
+5. Os Tribunais Superiores afirmam que a remição é um benefício submetido à cláusula rebus sic stantibus.
+IV. DISPOSITIVO E TESE
+6. Recurso conhecido e provido.
+Consta dos autos que o agravante, na qualidade de reeducando, perpetrou falta grave disciplina, homologada pelo Juízo da Execução da localidade, mas despida da declaração da perda dos dias remidos (e-STJ fl. 60).
+Na sequência, a Corte de origem deu provimento ao agravo em execução ministerial para - na forma do art. 127 da LEP - determinar que a VEP fixe o patamar para a perda dos dias remidos (e-STJ fl. 64).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta negativa degeneração do art. 127 da LEP (e-STJ fl. 72).
+Para tanto, assevera (em síntese) que, a redação do preceito federal em epígrafe é extremamente clara ao disciplinar que o magistrado poderá (e não deverá) revogar até 1/3 do tempo remido (e-STJ fl. 75).
+Neste norte, como tal "faculdade" não se restringe ao coeficiente (máximo) suso aplicável, mas se estende à possibilidade de o Estado-juiz não determinar a perda dos dias remidos (e-STJ fl. 76), roga seja restabelecida a decisão inaugural, que entendeu pela desnecessidade de revogação parcial de dias remidos, adotando interpretação legal mais benéfica ao apenado (e-STJ fl. 82).
+Contrarrazões pelo Parquet (e-STJ fls. 86-92).
+O Tribunal a quo inadmitiu o apelo especial com base na incidência da Súmula n. 83/STJ (e-STJ fls. 93-96).
+Ao cabo, fora interposto agravo em recurso especial pela Defensoria Pública local (e-STJ fls. 99-105).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ, pelo não conhecimento do presente agravo (e-STJ fl. 132).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada (e-STJ fls. 99-105), conheço do agravo e passo ao exame do apelo raro.
+Sobre o indigitado ultraje ao art. 127 da LEP, o Tribunal estadual, ao prover o agravo em execução acusatório, exortou (e-STJ fls. 60-64, grifamos):
+Trata-se de Agravo em Execução Penal interposto pelo Ministério Público em face de decisão do Juízo de Direito da 3ª Vara Regional de Execução Penal da Comarca de Mossoró/RN que, ao homologar falta grave e decretar a regressão de regime do apenado Francisco Flaviano da Silva, deixou de declarar a perda dos dias remidos.
+Em suas razões recursais, o Ministério Público alegou, em síntese, que com a modificação do art. 127 da Lei de Execução Penal, cabe ao Juízo das Execuções, em caso de falta grave, revogar até 1/3 (um terço) do tempo remido, com certa margem de discricionariedade, ressaltando que a referida discricionariedade está cingida tão somente ao quantum da perda e não ao uso do instituto em si. Ao final, pugnou "para que seja reformado o decisum atacado, cassando a decisão do Juízo a quo no que se refere a declarar a perda dos dias remidos, na proporção de até 1/3".
+ ..
+Razão assiste ao agravante.
+Explico melhor. É cediço que a perda dos dias remidos em razão do cometimento de falta grave está amparada pelo art. 127 da Lei de Execução Penal:
+ ..
+Neste ponto, importante destacar que a jurisprudência do Superior Tribunal de Justiça interpreta como verdadeiro poder-dever do magistrado a aplicação da perda dos dias remidos, ficando apenas a cargo do Juiz a discricionariedade quanto à fração da perda.
+ ..
+Em outras palavras, a aplicação da sanção de perda dos dias remidos é obrigatória, não sendo possível seu afastamento pela discricionariedade do Juízo da Execução. Além disso, os Tribunais Superiores afirmam que a remição é um benefício submetido à cláusula rebus sic stantibus, ou seja, é um benefício que só vale se as coisas permanecerem do jeito que estão, porque o apenado poderá perder o direito de remir parte dos dias trabalhados caso pratique falta grave, nos termos previstos no art. 127 da LEP, como ocorre no caso sob análise.
+Diante do exposto, em consonância com o parecer da 4ª Procuradoria de Justiça, conheço e dou provimento ao recurso para determinar ao Juiz da Execução Penal que fixe o patamar para a perda dos dias remidos, nos termos do art. 127 da Lei de Execução Penal, diante dos argumentos acima elencados.
+Dos excertos transcritos, deflui-se que o acórdão hostilizado converge ao (remansoso) entendimento trilhado por esta Corte Superior, em casos parelhos.
+Com efeito, nos termos dos art. 127 da LEP (com a redação dada pelo advento da Lei n. 12.433/2011), não se olvida que, em caso de falta grave disciplinar perpetrada pelo reeducando, apenas é vedada a "revogação" (vale dizer, a perda parcial) automática  ope legis  no patamar máximo - de até 1/3 (um terço) - dos dias remidos, quando tal  discricionário  coeficiente for aplicado pelo Juízo executório despido de fundamentação concreta, sem observância aos parâmetros estabelecidos no art. 57 do referido diploma.
+Todavia, em paráfrase à explanação consignada pelo Tribunal a quo, a jurisprudência do Superior Tribunal de Justiça interpreta como verdadeiro poder-dever do magistrado a aplicação da perda dos dias remidos, ficando apenas a cargo do Juiz a discricionariedade quanto à fração da perda (e-STJ fl. 61, grifamos), sob pena de se conspurcar (subverter) e frustrar o alvitrado projeto pedagógico de ressocialização e integração social do interno, ainda em (recalcitrante) conflito com a lei.
+Entendimento (elastecido) em sentido contrário, como ora vindicado pela aguerrida Defesa, representaria vilipêndio - pela Vara de Execuções Penais da localidade - aos primados (indeclináveis) da individualização da execução penal e ao dever do fundamentação das decisões judiciais, plasmados no 41, XII, da LEP e no art. 315, § 2º, do CPP, c/c o art. 93, IX, da CF/88, respectivamente.
+Nesta linha de raciocínio:
+A prática de falta grave pelo reeducando impõe a decretação da perda de até 1/3 (um terço) dos dias remidos, devendo a expressão "poderá" contida no art. 127 da Lei n.º 7.210/84, com a redação que lhe foi conferida pela Lei n.º 12.433/11, ser interpretada como verdadeiro poder-dever do Magistrado, ficando no juízo de discricionariedade do Julgador apenas a fração da perda, que terá como limite máximo 1/3 (um terço) dos dias remidos (AgRg no REsp 1.424.583/PR, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 18/6/2014, grifamos).
+Diante da prática de falta grave pelo reeducando, a discricionariedade prevista no art. 127 da Lei n. 7.210/84 (Lei de Execução Penal) não se refere à aplicabilidade ou não da sanção da perda dos dias remidos, mas tão somente à fração que incidirá no caso concreto, a ser definida com base na discricionariedade vinculada do julgador, que terá como limite máximo 1/3 (um terço) dos dias remidos (AgRg nos EDcl no REsp n. 1.798.650/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/2/2021, DJe de 17/2/2021, grifamos).
+A partir da vigência da Lei n. 12.433/2011, que alterou a redação do art. 127, da Lei de Execução Penal, a penalidade consistente na perda de dias remidos pelo cometimento de falta grave passou a ter nova disciplina, não mais incidindo sobre a totalidade do tempo remido, mas apenas até o limite de 1/3 (um terço) desse montante, cabendo ao Juízo das Execuções Penais, com certa margem de discricionariedade, aferir o quantum, levando em conta "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão", consoante o disposto no art. 57 da Lei de Execução Penal (AgRg no HC n. 835.709/SC, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024, grifamos).
+Assim, a constatação de falta disciplinar (especialmente) grave (e-STJ fl. 61), in casu, decorrente da prática de novo delito (e-STJ fl. 4, grifamos), autoriza o Estado-juiz a declarar a perda dos dias remidos, nos termos do art. 127 da Lei de Execução Penal (e-STJ fl. 65), sob pena de proteção Estatal deficiente.
+Em (recentes) situações análogas, o Tribunal da Cidadania verberou:
+ a  falta grave consistente em novo crime justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEE) (HC n. 466.243/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe de 10/12/2018) (AgRg no HC n. 847.678/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023, grifamos).
+ a  natureza especialmente grave da falta disciplinar justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEP) (AgRg no HC n. 848.344/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 4/6/2024, DJe de 6/6/2024, grifamos).
+No mesmo norte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. FALTA GRAVE. ROMPIMENTO DA TORNOZELEIRA ELETRÔNICA DURANTE CUMPRIMENTO DA PENA EM REGIME SEMIABERTO. APENADO SEM FISCALIZAÇÃO ATÉ A SUA PRISÃO. PERDA NA FRAÇÃO MÁXIMA DE DIAS REMIDOS. JUSTIFICATIVA CONCRETA. IRRESPONSABILIDADE E DESCASO. AUSÊNCIA DE COMUNICAÇÃO À JUSTIÇA SOBRE A ALEGADA AMEAÇA, A QUAL, INCLUSIVE, NÃO FOI COMPROVADA. RECURSO IMPROVIDO.
+1. Firmou-se neste Tribunal jurisprudência no sentido de que a natureza especialmente grave da falta disciplinar  ..  justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEP). 5. Habeas corpus não conhecido. (HC n. 465.565/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/9/2018, DJe de 2/10/2018.)
+2. No caso, as instâncias de origem se embasaram no fato praticado pelo sentenciado, que se reveste de extrema gravidade, eis que o descumprimento das condições do monitoramento eletrônico (rompimento da tornozeleira e permanência sem fiscalização até ser novamente preso) e a condição de evadido revela a falta de comprometimento e disciplina para execução da pena no regime semiaberto.
+3- Agravo regimental não provido.
+(AgRg no HC n. 895.932/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024, grifamos).
+Incide, portanto, no ponto em voga, a Súmula 568/STJ, segundo a qual: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
