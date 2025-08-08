@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do art. 1.030, § 2º, do CPC/2015, contra decisão do presidente ou vice-presidente da Corte de origem que negar seguimento a recurso especial cabe agravo interno. Assim, certa ou não a decisão de origem, a conclusão é de que é manifestamente incabível a interposição do presente recurso, quanto à "Eventual violação à coisa julgada em razão da limitação do reajuste de 3,17% a maio de 2001, por força da MP 2150-39."
+No mais, de acordo com o que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do STJ - RISTJ (redação dada pela Emenda Regimental n. 22/2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe à parte agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, rel. Ministro João Otávio de Noronha, rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: (a) consonância do acórdão com o entendimento do STF e STJ quanto à "configuração de coisa julgada em relação ao critério de juros e correção monetária adotados no título judicial"; (b) incidência da Súmula n. 7/STJ no que se refere à "impossibilidade de fixação da sucumbência recíproca, na hipótese de parte mínima do pedido não ter sido procedente"; (c) em razão do teor da Súmula n. 481/STJ, incidência das Súmula n. 7 do STJ quanto ao "direito à gratuidade judiciária por pessoa jurídica de direito privado sem fins lucrativos"; e (d) não ocorrência de violação do artigo 1.022 do CPC/2015.
+Ocorre que a parte agravante não impugnou, especificamente, a aplicação da Súmula n. 7/STJ (itens b e c), o que acarreta o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 2.228.742/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe 15/3/2023; AgInt no AREsp 2.083.809/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 16/3/2023; AgInt no AREsp 2.070.066/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 20/10/2022.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
