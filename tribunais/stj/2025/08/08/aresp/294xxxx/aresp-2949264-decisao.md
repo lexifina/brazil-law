@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por ARLEYA PEREIRA DOS SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu recurso especial apresentado contra acórdão proferido no Recurso em Sentido Estrito n. 5463474-51.2020.8.09.0134.
+Consta nos autos que a agravante foi pronunciada como incursa nas sanções do art. 121, caput, c/c o art. 14, inciso II, do Código Penal.
+A Corte estadual negou provimento ao recurso em sentido estrito da Defesa (fls. 414-427).
+Nas razões do recurso especial, a agravante alega violação ao art. 413, § 1º, do Código de Processo Penal, ante a existência de excesso de linguagem na sentença de pronúncia.
+Inadmitido o recurso especial na origem, os autos ascenderam a esta Corte por força do presente agravo.
+O Ministério Público Federal manifestou-se às fls. 496-505,opinando pelo desprovimento do agravo.
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No caso, não há que se falar nem em excesso de linguagem, pois o Magistrado de primeiro grau agiu dentro das balizas previstas no art. 413 do Código de Processo Penal e demonstrou a existência de lastro probatório a evidenciar a plausibilidade da acusação.
+O Tribunal de origem, ao negar provimento ao recurso em sentido estrito, manteve a sentença de pronúncia nos seguintes termos (fl. 418, grifamos):
+O art. 413, § 1º, do CPP prevê que: "a fundamentação da pronúncia limitar-se- á à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena."
+No caso, a decisão impugnada, ao pronunciar a recorrente pelo crime de homicídio, atenta ao artigo 413 do Código de Processo Penal, fundamentou a existência dos requisitos para a pronúncia, se restringindo à indicação da materialidade do fato e existência de indícios suficientes de autoria do fato imputado, sem afirmações incisivas, excessivas ou com palavras passíveis de gerar certeza quanto à prática delitiva. Pelo contrário, com base nos elementos de prova colhidos em Juízo, a pronúncia fundamentou a existência de requisitos, sem emissão de juízo de certeza ou considerações pessoais, atendendo ao disposto na legislação vigente.
+Assim, diante da ausência de emissão de juízo de convicção acerca da autoria delitiva, rejeito a preliminar de nulidade suscitada.
+Da leitura dos trechos acima transcritos, observa-se que a instância antecedente agiu em conformidade com o dever de motivação das decisões judiciais, não se verificando o alegado excesso de linguagem.
+No caso, a sentença de pronúncia não emitiu juízo de certeza sobre o mérito da ação penal, limitando-se a indicar as razões sobre a existência da materialidade e os indícios de autoria, seguindo o entendimento consolidado dessa Corte sobre o tema.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. RÉU PRONUNCIADO POR HOMICÍDIO QUALIFICADO. ALEGADO EXCESSO DE LINGUAGEM NA DECISÃO DE PRONÚNCIA NÃO CARACTERIZADO. JUNTADA DE DOCUMENTOS REFERENTES AOS ANTECEDENTES DO ACUSADO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Tendo a matéria recebido o devido e suficiente tratamento jurídico, como na espécie, descabe falar em violação do art. 619, do CPP, por ausência de manifestação específica acerca de determinado argumento ventilado pelo recorrente" (AgRg no AREsp n. 2.478.214/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+2. O juízo de origem, ao pronunciar o réu, apenas fez menção aos elementos probatórios que consubstanciam o binômio materialidade e indícios de autoria, não havendo que se falar em excesso de linguagem ou ofensa aos artigos 413 e 414 do Código de Processo Penal, até mesmo porque esses dispositivos legais exigem que o juiz profira a sua decisão "fundamentadamente".
+3. "Não há nulidade na juntada de informações acerca dos antecedentes do réu ao processo - cujo acesso é garantido aos jurados, nos termos do art. 480, § 3º, do CPP -, além de haver previsão, no referido diploma legal, de que seja perguntado ao acusado, em plenário, sobre sua vida pregressa" (AgRg nos EDcl no AREsp n. 2.502.934/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+4. Embargos de declaração recebidos como agravo regimental, a que se nega provimento. (EDcl no AREsp n. 2.882.824/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/6/2025, DJEN de 16/6/2025; grifamos).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECISÃO DE PRONÚNCIA. EXCESSO DE LINGUAGEM. VIOLAÇÃO DO ART. 413, § 1º, DO CÓDIGO DE PROCESSO PENAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. DECISÃO MONOCRÁTICA MANTIDA.
+1. Deve ser mantido o decisum recorrido, pois, nos termos da jurisprudência deste Superior Tribunal, "não se vislumbra a existência de excesso de linguagem na decisão de pronúncia, pois foram apenas relatados os elementos de prova que justificaram o encaminhamento do acusado a julgamento pelo Tribunal do Júri, sem qualquer esboço de juízo de certeza acerca das provas." (AgRg no AgRg no AREsp n. 2.341.569/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/2/2024, DJe de 23/2/2024.).
+2. Agravo regimental desprovido. (AgRg no REsp n. 2.137.568/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/06/2024, DJe 25/06/2024, grifamos).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ABORTO PROVOCADO POR TERCEIRO E SEQUESTRO E CÁRCERE PRIVADO (ARTS. 125, CAPUT, E 148, § 2º, AMBOS DO CP). ALEGAÇÃO DE EXCESSO DE LINGUAGEM NA DECISÃO DE PRONÚNCIA. NÃO OCORRÊNCIA. DECISÃO QUE SE LIMITOU A INDICAR PROVAS DA MATERIALIDADE E INDÍCIOS DE AUTORIA. PRECEDENTES.
+1. Improcede a alegação de excesso de linguagem na decisão de pronúncia quando o Magistrado, com base nas provas apresentadas, apenas aponta, com cautela e de forma objetiva, a existência dos necessários requisitos de materialidade e indícios de autoria, sem a emissão de juízo de valor sobre as mesmas.
+2. Esta Corte já decidiu que a existência de grifos aplicados pelo Magistrado na transcrição do depoimento das vítimas e das testemunhas não é causa de excesso de linguagem na sentença de pronúncia.
+3. Agravo regimental improvido. (AgRg no REsp n. 1.962.487/AC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 19/04/2022, DJe 25/04/2022, grifamos).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
