@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ESTEVAO SOARES VITOR, em face da decisão proferida às fls. 123-124, na qual não conheci do habeas corpus com fulcro no art. 34, inc. XX e art. 210, do RISTJ.
+No presente recurso, o agravante juntou aos autos a decisão que decretou a prisão preventiva. Sustenta que sua prisão revela-se desprovida de amparo legal e fático, devendo ser revogada em respeito aos princípios do devido processo legal, da presunção de inocência e da excepcionalidade da prisão preventiva. Salienta ausência de fundamentação idônea da sentença condenatória para a manutenção da segregação cautelar, defendendo a possibilidade da aplicação de medidas cautelates diversas da prisão.
+Requer, ao final, a reconsideração da decisão.
+É o relatório. DECIDO.
+De fato, tendo em vista a juntada aos autos da decisão que decretou a prisão preventiva, reconsidero a decisão proferida às fls. 123-124 e passo à análise do habeas corpus.
+Extrai-se que o juiz sentenciante manteve a prisão preventiva pelos mesmos fundamentos que motivaram a segregação cautelar, não se caracterizando novo título.
+In casu, verifico que a decisão está devidamente fundamentada para a garantia da ordem pública p ois o paciente além de ter sido condenado à pena de 08 (oito) anos, 02 (dois) meses em regime incialmente fechado pela prática dos crimes previstos no artigo 33, caput, da Lei 11.343/06, e artigo 333 do Código Penal, ambos c/c art. 61, I, do CP, em concurso material de crimes, é reincidente específico ostentando "condenações penais transitadas em julgado pelas práticas anteriores dos delitos de tráfico ilícito de entorpecentes, associação para o tráfico e desobediência, estando em cumprimento de pena"- fl. 143.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
