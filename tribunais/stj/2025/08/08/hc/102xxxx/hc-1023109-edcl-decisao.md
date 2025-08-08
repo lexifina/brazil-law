@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IRLAN BATISTA FERREIRA, em face da decisão que não conheceu do habeas corpus (fls. 99-105).
+Em suas razões, o embargante afirma a existência de contradição na decisão embargada, consistente no entendimento de que a "decisão incorre em contradição interna, pois afirma que o paciente está foragido, enquanto consta nos autos do habeas corpus, às fls. 67, ofício expedido pela autoridade coatora - Juíza de Direito da Vara Criminal de Senhor do Bonfim/BA - que reconhece expressamente que o paciente encontra-se preso" (fl. 92).
+Argumenta que "A omissão ou imprecisão quanto à real situação prisional do paciente configura vício grave que compromete a efetividade da prestação jurisdicional e autoriza a interposição dos presentes embargos com efeitos modificativos, com vistas à reanálise da legalidade da prisão preventiva" (fl. 111).
+Requer, assim, "O reconhecimento da contradição apontada e a consequente retificação da decisão, afastando-se a equivocada conclusão de que o paciente encontra-se foragido; ou ainda; o reexame do mérito do habeas corpus, com o reconhecimento da ilegalidade da prisão preventiva e consequente concessão da ordem para revogação da custódia cautelar" (fl. 111).
+É o relatório. DECIDO.
+Os presentes embargos não reúnem condições de prosperar.
+De plano, cumpre esclarecer que os embargos declaratórios são admissíveis quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do julgado com efeitos modificativos.
+Também podem ser admitidos para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no art. 1.022, inciso III, do atual Código de Processo Civil.
+Aqui, ao analisar os autos, verifica-se que o embargante não demonstrou a existência de qualquer vício no decisum embargado.
+No caso concreto, a decisão embargada claramente expôs que o pedido em relação à prisão preventiva não possui qualquer fundamentação, razão pela qual não poderia ser aqui analisado.
+Se fosse analisado, isso ainda ocorreria em repetição, já que foi objeto do recente e transitado HC n. 943.541/BA neste STJ.
+Não obstante, constato que os motivos ensejadores da prisão cautelar, citados na decisão embargada, foram além da questão de estar, ou não, o paciente foragido (fls. 101-102):
+ ..  a segregação cautelar mostra-se necessária ante a sua real necessidade para a garantia da ordem pública, da conveniência da instrução criminal e da aplicação da lei penal. Além de terem sido oportunamente consideradas a gravidade em concreto do delito, não sendo o caso de aplicação das medidas cautelares previstas no artigo 319, CPP.
+No tocante à garantia da ordem pública, vale acrescentar que não se visa apenas prevenir a reiteração de fatos delituosos, mas, ainda, a própria credibilidade da justiça em face da gravidade do crime e de sua repercussão negativa. Portanto, imprescindível a manutenção da custódia imposta ao recorrente.
+Esses fatores, quando considerados em conjunto, quais sejam, crime de homicídio qualificado cometido com arma de fogo, com impossibilidade de defesa da vitima e mediante fuga do distrito, conduz à certeza de que a restrição da liberdade é necessária à garantia da ordem pública.
+ ..  Portanto, a decisão guerreada está em perfeita consonância com a jurisprudência do Superior Tribunal de Justiça, visto que concluiu que a prisão preventiva está devidamente fundamentada nas circunstâncias do caso em tela. Inclusive, consta do BNMP 3.0 e das informações dos autos, que o Paciente está foragido desde do ano passado. Portanto, a prisão ora questionada está baseada não só na gravidade concreta do delito , como também a evasão justifica a segregação para garantir a ordem pública e assegurar a aplicação da lei penal.
+Também não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, pelos motivos já explicitados.  ..  (grifei)
+Tudo o que, aliás, deveria ter sido debatido no HC conexo citado, o qual analisou efetivamente o mérito da prisão, e não agora e em sede de embargos de declaração.
+Assim, os argumentos apresentados não demonstram a busca por qualquer saneamento, mas sim o reexame da matéria já decidida, o que não se mostra possível na via eleita.
+A esse respeito:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TORTURA QUALIFICADA. INEXISTÊNCIA DE OMISSÃO. BURLA À INADMISSÃO DO RECURSO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS SEM EFEITO MODIFICATIVO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte. No caso, não há vício a ser sanado.
+2. Não se verifica a ocorrência de omissão no julgado, na medida em que o acórdão embargado não conheceu do agravo regimental, diante da incidência, no caso, do óbice da Súmula 182 do STJ.  ..
+5. Embargos de declaração parcialmente acolhidos para sanar a omissão, sem efeitos modificativos (EDcl no AgRg no AREsp n. 2.487.679/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024.)
+Nesse prisma, a pretensão não está em harmonia com a natureza e a função do recurso integrativo.
+Também nesse sentido: EDcl no AgRg no AREsp n. 1.203.591/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022; EDcl no REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 24/8/2022, DJe de 26/8/2022; e EDcl no AgRg no HC n. 713.568/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.
+Ante o exposto, não vislumbro o vício apontado e rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+ EMENTA
