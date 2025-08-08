@@ -1,0 +1,29 @@
+DECISÃO
+DIEGO CARLECH DANTAS GONÇALVES agrava da decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento do Agravo em Execução Penal n. 7000390-60.2022.8.26.0071.
+O agravante requereu o reconhecimento da continuidade delitiva entre condenações reunidas em blocos distintos de unificação, com base no art. 71 do Código Penal, argumentando que, apesar de ultrapassado o limite de 30 dias entre os fatos, haveria vínculo subjetivo entre as condutas que justificaria a unificação das penas.
+O juízo da execução indeferiu o pedido de unificação, fundamentando que o intervalo entre os crimes superava o lapso temporal de 30 dias usualmente admitido pela jurisprudência, sendo inviável o reconhecimento da continuidade delitiva.
+O Tribunal de origem negou provimento ao recurso da defesa, nos termos seguintes (fls. 770-778):
+AGRAVO. EXECUÇÃO PENAL. Pleito da defesa pelo reconhecimento da continuidade delitiva entre condenações que formam blocos decorrentes de decisões anteriores em pedidos de unificação de penas. Desacolhimento. Lapso temporal de 30 (trinta) dias recomendado pela jurisprudência das Cortes Superiores não observado. Indeferimento mantido por outro fundamento. RECURSO DESPROVIDO.
+Interposto recurso especial, com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, a defesa alegou violação ao art. 71 do Código Penal, sustentando a possibilidade de reconhecimento da continuidade delitiva entre blocos distintos de unificação, com base em precedentes que flexibilizam o critério cronológico em razão do vínculo subjetivo (fls. 779-793).
+O recurso especial foi inadmitido na origem, ao argumento de que o dissídio jurisprudencial não foi devidamente comprovado e de que a análise pretendida demandaria reexame do conjunto fático-probatório, providência vedada pela Súmula 7 do Superior Tribunal de Justiça (fls. 868-869), o que ensejou a interposição do presente agravo (fls. 871-875), no qual o agravante sustenta a superação dos óbices invocados.
+Contraminuta apresentada (fls. 877-880).
+O Ministério Público Federal opinou pelo conhecimento e não provimento do agravo em recurso especial (fls. 904-909).
+Decido.
+O agravo é tempestivo e foi impugnado o fundamento da decisão de inadmissibilidade.
+Passo a analisar o recurso especial.
+Insurge-se a defesa contra acórdão que, mantendo decisão de primeira instância, afastou o reconhecimento da continuidade delitiva entre os crimes unificados em blocos distintos de execução, sob o argumento de que não estaria preenchido o requisito subjetivo exigido pelo art. 71 do Código Penal, diante do lapso temporal superior a trinta dias entre os fatos. Aponta, também, a existência de dissídio jurisprudencial com julgados do Superior Tribunal de Justiça e do Tribunal Regional Federal da 5ª Região, os quais teriam admitido a continuidade delitiva mesmo em casos com intervalo superior a trinta dias, desde que presente vínculo subjetivo entre as condutas.
+No caso, deve ser preservado o acórdão impugnado em sua integralidade, pois decidiu em conformidade com a jurisprudência desta Corte, segundo a qual a configuração do crime continuado exige identidade do modus operandi, proximidade temporal e unidade de desígnios, circunstâncias ausentes no caso examinado.
+Para chegar a conclusão diversa, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO. JUIZ NATURAL. VIOLAÇÃO. INOCORRÊNCIA. AFERIÇÃO DO DOLO. SÚMULA 7/STJ. CONFISSÃO. PENA FIXADA NO MÍNIMO LEGAL. SÚMULA 231/STJ. CONTINUIDADE DELITIVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  A Corte de origem constatou a suficiente comprovação da materialidade e autoria delitivas, destacando o modo em que praticado o delito, similar a crime anterior em que flagrados igualmente os mesmos réus. Incidência da Súmula 7/STJ. Acerca da continuidade delitiva, a aferição da presença (ou não) da unidade de desígnios e dos elementos objetivos do art. 71 do Código Penal demandaria evidente reexame dos fatos e provas da causa, vedado nesta instância especial pela Súmula 7/STJ.  ..  Agravo regimental desprovido.
+(STJ, AgRg no AREsp 2.571.707/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe 30/8/2024)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. ROUBOS MAJORADOS. VIOLAÇÃO DO ART. 59 DO CP. INIDONEIDADE DOS FUNDAMENTOS PARA MAJORAÇÃO DA PENA-BASE. NÃO OCORRÊNCIA, FUNDAMENTAÇÃO CONCRETA. ACOLHIMENTO DO PLEITO DEMANDA O REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. VIOLAÇÃO DOS ARTS. 69, 70 E 71 DO CP. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. INSTÂNCIAS ORDINÁRIAS QUE NÃO APLICARAM O REFERIDO INSTITUTO COM SUPORTE NO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE ALTERAÇÃO. NECESSÁRIA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PRECEDENTES.
+ ..
+2. A partir do exame dos elementos fáticos e probatórios do caso, o Tribunal de origem concluiu que não é possível aplicação da continuidade delitiva, porquanto ausente qualquer vinculação entre os delitos, tratando-se de mera repetição de conduta criminosa. Dessa forma, para alterar essa conclusão, seria necessário o revolvimento fático-probatório, providência vedada pela Súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp 2.039.806/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe 18/8/2023)
+Ademais, o cotejo analítico realizado no recurso não demonstra a necessária similitude fática entre os acórdãos confrontados, tampouco identidade jurídica suficiente para caracterizar o dissídio jurisprudencial nos moldes do art. 105, III, alínea "c", da Constituição Federal.
+À vista do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
