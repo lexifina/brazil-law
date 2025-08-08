@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SAMUEL LOCHARLHES SANTANA MARINHO, em que se aponta como autoridade coatora TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A Defesa informa que o paciente foi preso em flagrante no dia 23 de junho de 2025, por transportar 54 quilos de maconha, sendo posteriormente convertida a prisão em flagrante em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 117-122.
+No presente writ, alega a defesa que a decisão que decretou a prisão preventiva carece de fundamentação concreta, baseando-se apenas na quantidade de droga apreendida e em uma condenação anterior por crime de trânsito, cuja punibilidade já se encontra extinta.
+Sustenta que a quantidade de droga apreendida não é suficiente para justificar a prisão preventiva, por ser elementar do tipo penal, e que a reincidência mencionada não constitui motivação idônea para a manutenção da prisão .
+Afirma que não há indícios de que o paciente, caso permaneça em liberdade, prejudicaria a instrução criminal, representaria risco à ordem pública ou furtar-se-ia à aplicação da lei penal.
+A Defesa destaca que a prisão preventiva foi imposta sem análise da possibilidade de substituição por medidas cautelares diversas, violando os arts. 282, § 6º, e 315, § 2º, do CPP .
+Requer a revogação da prisão preventiva do paciente, com a consequente expedição de alvará de soltura, mediante imposição de medidas cautelares diversas.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva e do acórdão impugnado permitem a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, seja em razão da grande quantidade de droga apreendida: apreensão de mais de 54 (cinquenta e quatro) quilos de maconha- fl. 13, seja pelo risco de reiteração delitiva uma vez que trata-se de "paciente reincidente, cuja extinção da punibilidade, em razão do cumprimento de pena, ocorreu recentemente, no dia 05/05/2025"- fl. 121, circunstâncias aptas a ensejarem a manutenção da segregação cautelar.
+A propósito:
+"A jurisprudência desta Corte sustenta a manutenção da prisão preventiva em casos de grande quantidade de drogas e risco à ordem pública"(RHC n. 192.177/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 25/11/2024.)
+"A exorbitante quantidade de droga apreendida em poder do agente evidencia a gravidade concreta da conduta e se revela como motivo idôneo e apto a embasar o decreto prisional"(AgRg no RHC n. 200.130/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: AgRg no HC n. 954.171/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJe de 3/12/2024; (AgRg no HC n. 940.908/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024; AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+ EMENTA
