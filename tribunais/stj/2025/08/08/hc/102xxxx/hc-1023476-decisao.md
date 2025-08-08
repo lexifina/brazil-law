@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GUILHERME ROGERIO GONCALVES PROCOPIO, com pedido liminar, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus n. 2214031-36.2025.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas. É atribuída a ele a posse de 420 g de maconha, 270 g de cocaína, 19,6 g de crack e 8 g de dry, considerada a massa líquida (fl. 11). A prisão foi convertida em preventiva (fls. 9/13).
+Impetrado habeas corpus na origem, o Tribunal de Justiça denegou a ordem, mantendo a segregação cautelar (fls. 57/65).
+No writ, a defesa argumenta, em síntese, que a prisão preventiva é ilegal, pois foi fundamentada apenas na gravidade abstrata do crime, sem a demonstração concreta da necessidade da medida.
+Requer, inclusive liminarmente, a revogação da prisão preventiva ou a substituição por medida cautelar diversa.
+É o relatório.
+Inicialmente, não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF: Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022).
+No caso, o Juízo de primeiro grau, no que foi acompanhado pela Corte local, converteu a prisão em flagrante em preventiva nos seguintes termos (fl. 12 - grifo nosso):
+ ..  a expressiva quantidade de entorpecentes apreendida - totalizando 1.045 porções de drogas diversas - demonstra a dimensão da atividade criminosa e o potencial lesivo à coletividade.
+Não bastasse, presente possível organização criminosa evidenciada com divisão de tarefas entre os acusados: GUILHERME ROGERIO GONCALVES PROCOPIO e VITORIA ISABELLE DOS SANTOS atuavam diretamente na comercialização de drogas, enquanto KELLY ADRIANA BRITO DA SILVA realizava a lavagem dos valores obtidos com o tráfico.
+Igualmente, a sofisticação do esquema de lavagem de dinheiro, com movimentação de R$200.000,00, utilização de máquina contadora de cédulas, controle contábil em caderno específico e realização de depósitos bancários fracionados, demonstra a profissionalização da atividade criminosa.
+No âmbito desta Corte Superior, ambas as Turmas da Terceira Seção compartilham a compreensão de que a elevada quantidade de drogas evidencia a gravidade concreta da conduta imputada, de modo a justificar a segregação cautelar para garantia da ordem pública. A propósito: AgRg no HC n. 884.870/SP, Ministro Antonio Saldanh a Palheiro, Sexta Turma, DJe 11/4/2024; e AgRg no HC n. 892.877/SE, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/4/2024.
+Não bastasse isso, a necessidade de minorar ou interromper a atuação do paciente em organização criminosa, ainda que de modo emergencial, demonstra o perigo que sua permanência em liberdade representa para a ordem pública (ver, nesse sentido, o AgRg na PET no HC n. 809.193/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Nessa conjuntura, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes (HC n. 550.688/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/3/2020).
+Ante o exposto, indefiro liminarmente a petição inicial de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES NA ESPÉCIE.
+Petição inicial liminarmente indeferida.
