@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de LEONARDO MATHEUS DA SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente está preso preventivamente desde 15/04/25 pela suposta prática do crime de roubo qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 53-59.
+Neste writ sustenta a defesa a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar, ponderando as condições pessoais favoráveis do paciente.
+Afirma o excesso de prazo para a formação da culpa, uma vez que o acusado está há quase 90 dias segregado, sem ter sido sequer concluído as investigações do inquérito policial.
+Declara, ainda, a ausência de indícios de autoria e materialidade em relação ao paciente.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Liminar indeferida às fls. 31-32.
+Informações prestadas às fls. 38-62.
+É o relatório. DECIDO.
+No presente caso, observa-se que a decisão que decretou a segregação cautelar, está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, haja vista que o paciente, juntamente com outros dois agentes, teriam praticado o crime de roubo, utilizando de arma de fogo contra a vítima, exigindo-lhe que entregasse seus pertences. Na ocasião, a vítima, motorista de aplicativo, aceitou uma corrida e, ao chegar no local, foi rendida por três indivíduos (um deles o paciente), que a mandaram sair do veículo. Após sair do automóvel e andar alguns metros, os acusados teriam, em tese, efetuado um disparo de arma de fogo em direção ao ofendido, contudo, não o acertaram, circunstâncias apta a justificar a segregação cautelar - fl. 16.
+A propósito:
+"A prisão preventiva está devidamente fundamentada para garantir a ordem pública, com base na gravidade concreta do delito, evidenciada pelo modus operandi, envolvendo grave ameaça com uso de arma de fogo "(AgRg no RHC n. 206.422/RS, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/2/2025).
+No mesmo sentido: AgRg no HC n. 954.657/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 23/12/2024; AgRg no HC n. 955.894/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 16/12/2024 e AgRg no HC n. 951.702/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 9/12/2024.
+Quanto à afirmada inidoneidade da fundamentação atinente aos indícios de autoria e materialidade criminosa, da leitura do acórdão recorrido verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema:
+"O Tribunal de origem não analisou a matéria trazida pela defesa, o que impede a apreciação direta pelo STJ, sob pena de supressão de instância" (AgRg no RHC n. 211.183/PE, de minha relatoria, Quinta Turma, DJEN de 28/4/2025).
+"Não debatida a questão pela Corte de origem, é firme o entendimento de que fica obstada sua análise, em princípio, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal" (AgRg nos EDcl no HC n. 955.826/ES, relator Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025).
+De mais a mais, no tocante ao excesso de prazo para a conclusão das investigações, tenho que melhor sorte não socorre à defesa.
+In casu, como bem pontuado pela corte de origem "não há nenhum indicativo de constrangimento ilegal ou desídia por parte da Autoridade Policial para o encerramento da investigação. Isso porque é um expediente policial no qual se investiga a prática de dois roubos a motoristas de aplicativos e que envolve outros suspeitos, a evidenciar maior complexidade no caso" - fl. 18.
+Ressalte-se que inexiste desídia na condução do inquérito policial, à vista da quantidade significativa de investigados, da complexidade das investigações e da variedade de diligências que vêm sendo adotadas para a conclusão do procedimento administrativo, circunstâncias que não permitem a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Como é de conhecimento, o encerramento prematuro de inquérito policial ou de a ação penal é medida excepcional, admitido apenas quando ficar demonstrada, de forma inequívoca e sem necessidade de incursão no acervo probatório, a atipicidade da conduta, a inépcia da denúncia, a absoluta falta de provas da materialidade do crime e de indícios de autoria, ou a existência de causa extintiva da punibilidade.
+Sobre o tema:
+"A jurisprudência do Superior Tribunal de Justiça admite certa flexibilização dos prazos para conclusão de inquérito, considerando a complexidade das investigações, número de envolvidos e gravidade dos fatos apurados, o que se aplica à hipótese" (AgRg no HC n. 1.000.952/BA, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, j DJEN de 18/6/2025).
+"Não há excesso de prazo na conclusão do inquérito, considerando a complexidade do tráfico de drogas e as diligências necessárias"(HC n. 977.918/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 21/5/2025).
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
