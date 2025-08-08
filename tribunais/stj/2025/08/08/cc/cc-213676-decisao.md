@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo da Vara da Fazenda Pública, Acidentes do Trabalho e Registros Públicos da Comarca de Palhoça/SC e o Juízo da 4ª Vara Federal de Florianópolis/SC.
+Consta dos autos que, na origem, foi impetrado mandado de segurança por Luiz Fernando Nunes da Silva, "portador de Transtorno de Estresse Pós-Traumático Complexo (CID 11 6B41) e Hidradenite Supurativa grau III (CID 11 ED92.0)", contra ato da Coordenadora do Curso de Direito da UNIASSELVI, instituição de ensino particular, no qual requereu seja confirmado o abono das faltas justificadas por motivos de saúde; a determinação de que não haja restrições pedagógicas, reprovações ou qualquer prejuízo acadêmico em razão das ausências devidamente justificadas; e a ratificação da proibição da exigência desproporcional de atestados diários, nos termos dos fundamentos médicos e jurídicos apresentados.
+A ação foi inicialmente ajuizada na Justiça federal, que remeteu os autos à Justiça Estadual "porque não se está diante de interesse federal ou responsabilidade da União pela fiscalização da atividade-fim, senão e apenas de supostos erros cometidos pela instituição de ensino na ausência de abono de faltas por motivos de saúde, ou seja, de meras atividades de gestão não ligadas à atividade delegada" (fl. 78).
+O Juízo Estadual, por outro lado, consignou que a autoridade coatora "atuou no exercício de função federal delegada, o que atrai a competência da Justiça Federal para o julgamento deste mandamus" (fl. 90).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o juízo estadual.
+Em decisão de fls. 117-120, o Ministro Vice-Presidente Luis Felipe Salomão, no exercício da Presidência, deferiu a liminar para designar o Juízo da 4ª Vara Federal de Florianópolis/SC para decidir, provisoriamente, as questões urgentes.
+É o relatório.
+Nos termos do art. 5º, LXIX, da Constituição Federal, "conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público".
+Conforme relatado, o presente mandado de segurança foi impetrado contra ato atribuído à UNIASSELVI, instituição privada de ensino particular que atua no exercício de função federal delegada.
+Nesse sentido, conforme a jurisprudência firmada pela Primeira Seção do Superior Tribunal de Justiça, nos mandado de segurança contra atos de instituições particulares de ensino superior é inegável a existência de interesse da União, motivo pelo qual, nos termos do art. 109 da Constituição Federal, a competência para processamento do feito será da Justiça Federal.
+A esse respeito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CONFLITO NEGATIVO ENTRE OS JUÍZOS FEDERAL E ESTADUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO DE ENSINO PRIVADA. AUSÊNCIA DE INTERESSE DA UNIÃO A JUSTIFICAR A COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO DO ESTADO DO PARANÁ DESPROVIDO. FACULDADE DE VIZINHANÇA DO VALE DO IGUAÇU. VIZIVALI.
+1. Nos casos que envolvam instituição de ensino superior particular, o Superior Tribunal de Justiça, em Recurso Especial Representativo de Controvérsia (REsp. 1.344.771/PR), pacificou o entendimento de que a União possui interesse, competindo, portanto, à Justiça Federal o julgamento, quando a lide versar sobre registro de diploma perante o órgão público competente (inclusive credenciamento no MEC) ou quando se tratar de Mandado de Segurança.
+2. Por outro lado, tratando-se de questões privadas concernentes ao contrato de prestação de serviços, salvo Mandado de Segurança, compete à Justiça Estadual processar e julgar a pretensão.
+3. In casu, trata-se de Ação de Restituição de valores pagos c/c indenização por danos morais, em desfavor da Vizivali - Faculdade Vizinhança Vale do Iguaçu, no qual não há pedido específico dirigido ao MEC para registro de diploma, tendo a Justiça Federal concluído pela inexistência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas, incidindo o disposto na Súmula 150/STJ, e atraindo a competência da Justiça Estadual.
+4. Agravo Interno não provido.
+(AgInt no CC n. 172.070/MS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 1/9/2020, DJe de 9/9/2020.)
+PROCESSUAL CIVIL. INSTITUIÇÃO DE ENSINO SUPERIOR. GRADE CURRICULAR. INSUFICIÊNCIA. INTERESSE DA UNIÃO. AUSÊNCIA. JUÍZO ESTADUAL. COMPETÊNCIA.
+1. Nos termos da jurisprudência do STJ, nas causas que envolvam instituições de ensino superior, a União possui interesse quando tratar de: (I) expedição e registro de diploma no órgão público competente (inclusive credenciamento junto ao MEC); ou (II) mandado de segurança.
+2. Não há falar em interesse da União nas lides (salvo mandados de segurança) que digam respeito a questões privadas concernentes ao contrato de prestação de serviço firmado entre essas instituições e seus alunos, de modo a evidenciar a competência da Justiça estadual.
+3. In casu, a postulação autoral formulada em desfavor da instituição de ensino superior decorre de suposta insuficiência na grade curricular do curso de Engenharia Civil, circunstância que inviabilizou a sua inscrição no respectivo conselho de classe, não sendo a hipótese de aplicação do entendimento da Suprema Corte quando do julgamento do Tema 1154.
+4. Agravo interno desprovido.
+(AgInt no CC n. 190.607/MG, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 14/2/2023, DJe de 17/2/2023.)
+Dessa forma, na linha dos precedentes desta Corte, a competência para o julgamento do presente mandado de segurança é da Justiça Federal.
+Ante o exposto, conheço do conflito para declarar competente o Juízo da 4ª Vara Federal de Florianópolis/SC .
+Publique-se.
+Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. INSTITUIÇÃO DE ENSINO PARTICULAR. FUNÇÃO FEDERAL DELEGADA. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTES.
