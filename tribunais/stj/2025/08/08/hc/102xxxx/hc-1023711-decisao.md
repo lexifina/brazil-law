@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Maxsuel Fernandes Mendonca, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (HC n. 1408129-28.2025.8.12.0000).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 1 mês de reclusão, em regime inicial fechado, mais 500 dias-multa, fixados no mínimo legal, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Realizada a detração, a pena foi fixada em 4 anos e 8 dias de reclusão, além do pagamento de 500 dias-multa. Na oportunidade, foi-lhe negado o apelo em liberdade (Processo n. 0900272-77.2024.8.12.0014, da 2ª Vara da comarca de Maracaju/MS - fls. 24/29).
+Impetrado o writ, o Tribunal a quo denegou a ordem, mantendo a constrição cautelar do réu.
+Aqui, busca a impetração a revisão da dosimetria e revogação da prisão cautelar imposta ao paciente, sob o argumento de que a sentença carece de fundamentação idônea para a manutenção da medida extrema.
+Requer, liminarmente e no mérito, a revisão da dosimetria e que o réu responda à apelação em liberdade, ainda que mediante imposição de medida cautelar diversa.
+É o relatório.
+Inicialmente, cumpre destacar que a dosimetria da pena não foi apreciada pelo Tribunal de Justiça, uma vez que a apelação ainda está em processamento e aguarda julgamento naquela instância (fl. 35). Diante disso, o exame dessa matéria por esta Corte Superior se encontra inviabilizado, sob pena de indevida supressão de instância.
+Por outro lado, por ocasião da sentença condenatória, não se exige do Magistrado que apresente fundamentação exaustiva ou fatos novos para manutenção da medida extrema quando o réu permaneceu preso durante toda a instrução, sendo suficiente apontar que permanecem inalterados os motivos que ensejaram a decretação da prisão cautelar, desde que estejam, de fato, preenchidos os requisitos do art. 312 do Código de Processo Penal, como ocorreu no caso em apreço (ver, nesse sentido, o AgRg no HC n. 961.741/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025).
+Com efeito, observo que a prisão preventiva mantida na sentença se encontra devidamente justificada na necessidade de garantir a ordem pública, asseverando o Magistrado de primeiro grau que a quantidade e natureza das drogas apreendidas (206 tabletes que pesaram 171.200 kg de maconha, 23 pacotes de skunk pesando 3,6 kg e 1 tablete de pasta base de cocaína pesando 400 g - fl. 27), além da forma como os entorpecentes foram apreendidos chamam a atenção e indicam a existência de indícios de que o acusado integre/colabore, ainda que de forma pontual, com organização criminosa ou mesmo que faça da traficância seu modo de sobrevivência  ..  (fl. 28).
+Assim, há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva do paciente, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. VEDAÇÃO DO RECURSO EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE .
+Petição inicial indeferida liminarmente.
