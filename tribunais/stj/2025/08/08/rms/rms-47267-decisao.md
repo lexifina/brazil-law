@@ -1,0 +1,22 @@
+DECISÃO
+IGREJA EVANGÉLICA ASSEMBLEIA DE DEUS EM SANTOS - MINISTÉRIO DO BELÉM interpõe recurso ordinário contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Mandado de Segurança n. 2103866-05.2014.8.26.0000.
+Consta dos autos que o mandado de segurança foi impetrado contra decisão do Juízo da 1ª Vara Criminal da Comarca de Praia Grande/SP, que determinou a desocupação de imóvel sequestrado no prazo de trinta dias, sob pena de desocupação forçada.
+O Tribunal denegou a segurança pleiteada e revogou a liminar inicialmente concedida.
+A parte recorrente sustenta, em síntese, ser descabida a fixação do prazo de trinta dias para desocupação do imóvel e defende a aplicação por analogia do prazo de um ano disposto na Lei 8.245/1991. Pediu a concessão de provimento liminar no presente recurso.
+A liminar recursal foi indeferida tanto em decisão monocrática da Presidência deste Tribunal (fls. 449-450) quanto em decisão colegiada desta Sexta Turma (fls. 485-497), mantida em julgamento de embargos de declaração opostos pela recorrente (fls. 516-522).
+O Ministério Público Federal opinou pelo desprovimento do recurso, às fls. 613-621.
+Decido.
+A liminar requerida pela recorrente foi indeferida pela Sexta Turma nestes autos, seguindo trecho da fundamentação do acórdão (fls. 495-497, grifei):
+Assim, ao que se extrai dos autos primo ictu oculi, é que sequestrados os imóveis, a permanência das impetrantes ali foi deferida, inicialmente, pelo Juízo de origem para, em atenção ao princípio da menor onerosidade, prestigiar prévio contrato de locação firmado com réu de ação penal que tramita naquele juízo.
+Nessa esteira, a partir do momento em que houve o sequestro desses imóveis e o representante legal das impetrantes - ou, ao menos, de uma delas - foi nomeado o seu depositário fiel, houve também a mudança de regime jurídico ao qual a posse provisória dos imóveis pelas impetrantes passou a se submeter.
+Ao contrário do que possa ter sido subentendido pelas impetrantes, não ocorreu a simples substituição de locador - do anterior, o réu, pelo Poder Judiciário -, mas a alteração da própria natureza jurídica do título que permitia às impetrantes permanecer nos imóveis.
+Por ato judicial, assumiu o representante das ora agravantes o encargo, deferido pelo Poder Judiciário, como longa manus da Justiça, de guardar o bem, de conservá-lo, de colher os frutos que lhe fossem correspondentes - consubstanciados, no caso, nos valores compatíveis ao aluguel do imóvel - e de entregá-los ao juízo na periodicidade que lhe fora determinada e, ao final, de restituir o bem, no mesmo estado em que o recebeu, quando lhe fosse reclamado pelo juízo.
+Assim, em que pese tenha o Juiz de primeiro grau determinado o depósito em juízo, mensalmente, de valores equivalentes aos antes pagos a título de aluguel - e, originariamente sim, regidos pela Lei do Inquilinato - a partir, como dito, da nomeação do representante legal das agravantes como depositário fiel daqueles bens, tais valores representavam os seus frutos e, por isso, deveriam ser depositados em juízo, a fim de resguardar, também tal qual já aqui mencionado, os interesses do réu, que poderia ser absolvido, ou mesmo os interesses da vítima ou do Estado.
+Ao descumprir o compromisso firmado com o Poder Judiciário, não se tornaram as agravantes locatárias inadimplentes, sujeitas ao despejo e a demais ônus previstos na Lei do Inquilinato; tornaram-se elas depositárias infiéis, sujeitas, portanto, aos ônus daí decorrentes.
+Importante ressaltar que, in casu, as impetrantes não apenas deixaram, desde 2009, de colher os frutos oriundos do bem que lhes fora depositado como também, intimadas a deixar o imóvel, não restituíram o bem que lhes fora confiado.
+Nesse diapasão, a sua permanência na posse do imóvel provém de título injusto, e as decisões que ora hostiliza nada mais fizeram do que buscar restabelecer o direito.
+Tais fundamentos merecem ser mantidos, seja porque nada veio a estes autos que altere o quadro fático que amparou a decisão de indeferimento da liminar por esta Sexta Turma, seja porque, intimada para manifestar a persistência do interesse no julgamento do presente recurso, a recorrente manteve-se inerte (fls. 669-678).
+Assim, diante da inexistência de ilegalidade flagrante, impõe-se o desprovimento do recurso em mandado de segurança.
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se e intimem-se.
+EMENTA
