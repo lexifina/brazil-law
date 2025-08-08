@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de GUILHERME ALVES DA COSTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Apelação n. 1503931-44.2024.8.26.0050.
+Extrai-se dos autos que o paciente foi condenada à pena de 7 anos, 1 mês e 10 dias de reclusão, no regime fechado, em virtude da prática do delito tipificado no art. 157, § 2º, II, do Código Penal - CP (roubo majorado).
+A apelação da defesa foi parcialmente provida, com a redução da pena para 6 anos, 2 meses e 20 dias de reclusão. Todavia, o regime mais gravoso restou mantido com base nos seguintes fundamentos:
+"No tocante ao regime prisional, o fechado avulta como o único consonante com a finalidade de prevenção e repreensão a temidos autores de assalto praticado em comparsaria. Com efeito, não bastasse a substancial intranquilidade gerada no meio social pelo delito de roubo, o conluio entre os agentes "deve ensejar uma resposta estatal mais contundente, visando reprimir a formação de núcleos voltados à prática de atividades delitivas, aptos a oferecer maior lesividade aos pilares do convívio pacífico do que a ação individual", conforme entendimento sufragado pela Colenda Terceira Câmara Criminal  .. " (fl. 58)
+A defesa busca o estabelecimento do regime prisional semiaberto para o início do cumprimento da reprimenda.
+A liminar foi indeferida por decisão de fls. 65/66.
+As informações foram prestadas às fls. 72/76 e 79/135.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME INICIAL FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO. ILEGALIDADE. NECESSIDADE DE ADEQUAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA. PARECER PELA CONCESSÃO DA ORDEM." (fl. 140)
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio.
+Contudo, verifica-se a existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+Com efeito, verifica-se que o paciente é primário e não teve valorada negativamente nenhuma circunstância judicial do art. 59 do CP e constata-se, ainda, a inexistência da indicação de qualquer elemento caracterizador da gravidade concreta da conduta justificadora do agravamento do regime.
+A propósito, confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. HABEAS CORPUS. ORDEM PARCIALMENTE CONCEDIDA DE OFÍCIO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU PRIMÁRIO. QUANTUM DE PENA INFERIOR A OITO ANOS (SÚMULAS 718 E 719, AMBAS DO STF E 440 DO STJ).
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - A ausência de impugnação aos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+III - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, o óbice da Súmula 7/STJ.
+IV - Não obstante, verifico que Tribunal de origem manteve o regime inicial fechado com base em considerações vagas e genéricas relativas à gravidade abstrata do crime, em clara violação aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, configurando-se, assim, o constrangimento ilegal, a ser reparado de ofício. Nesse compasso, considerando a primariedade do agravante, a fixação da pena-base no mínimo legal e o quantum de pena estabelecido, forçoso concluir que faz jus ao regime semiaberto para início de cumprimento de pena, ex vi do art. 33, parágrafo 2º, alínea b, e § 3º, do Estatuto Penal.
+Agravo regimental desprovido. Ordem parcialmente concedida, de ofício, apenas para fixar o regime semiaberto para início de cumprimento da pena, mantidos os demais termos da condenação.
+(AgRg no AREsp n. 2.076.311/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/6/2024, DJe de 7/6/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. ÓBICES DAS SÚMULAS N. 283/STF E N. 7 E 440/STJ. AUSÊNCIA DE IMPUGNAÇÃO DO PRIMEIRO FUNDAMENTO. SÚMULA N. 182/STJ. REGIME INICIAL. ILEGALIDADE MANIFESTA. FIXAÇÃO DE REGIME INICIAL EM DESACORDO COM AS SÚMULAS N. 718 E 719/STF E N. 440/STJ. AGRAVO REGIMENTAL NÃO PROVIDO. ORDEM DE HABEAS CORPUS DE OFÍCIO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+2. Na espécie, a decisão de inadmissão do recurso especial assentou os óbices das Súmulas n. 283/STF e n. 7/STJ, bem como a inadequação do recurso especial como instrumento para alegação de descumprimento da súmula. Todavia, no respectivo agravo, a Defesa deixou de rebater o primeiro dos obstáculos. A decisão de inadmissibilidade destacou que o recurso especial não deveria ser conhecido, dentre outros motivos, porque desprovido de fundamentação necessária, consoante determina o artigo 1.029 do Código de Processo Civil. Tal consideração justificou a incidência da Súmula n. 283/STF, expressamente apontada em seu corpo.
+3. Esta Corte Superior pacificou o entendimento de que a ausência de efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+4. No caso vertente, tratando-se de acusado primário a quem se fixou a pena-base no mínimo legal, considerações genéricas acerca da gravidade in abstrato do crime de roubo circunstanciado não justificam a opção por regime inicial mais gravoso do que o previsto pelo quantum da pena concretizada, conforme preceituam as Súmulas n. 718 e 719/STF e n. 440/STJ.
+5. Agravo regimental não provido. Ordem de habeas corpus concedida de ofício para fixar o regime inicial semiaberto para o cumprimento da pena privativa de liberdade.
+(AgRg no AREsp n. 2.639.992/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+Acrescenta-se, ainda, o que consta da judiciosa peça opinativa, a qual também se adota como fundamentos para decidir:
+"Como se vê, a Corte a quo não justificou fundamentadamente a fixação de regime fechado. Ressalte-se que a mera infringência do tipo penal incriminador não é modulante capaz de justificar o estabelecimento de regime prisional mais gravoso, sendo necessária a indicação de motivos concretos e idôneos que extrapolem a subsunção do fato criminoso à norma penal.
+Assim, considerando a quantidade de pena imposta (inferior a 08 anos de reclusão) e a ausência de circunstâncias judiciais desfavoráveis, não se justifica a manutenção do regime fechado, devendo ser fixado o regime semiaberto ao paciente." (fl. 141)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Todavia, concedo, a ordem, de ofício, com a fixação do regime semiaberto para o início de cumprimento da pena.
+Publique-se.
+Intimem-se.
+EMENTA
