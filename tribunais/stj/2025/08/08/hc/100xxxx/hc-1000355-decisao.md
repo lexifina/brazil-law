@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de THIAGO GABRIEL LEVINO AMARAL impetrado contra acórdão do Tribunal de Justiça do Estado de Rondônia.
+Nas razões do writ, a Defesa informa que o paciente foi denunciado pela prática do crime descrito no art. 121, § 2º, II e IV, do Código Penal, tendo sido decotada a qualificadora do meio cruel por ocasião do julgamento do recurso em sentido estrito.
+Alega que o paciente sofre constrangimento ilegal diante do indeferimento do incidente de insanidade mental pelo magistrado de origem, mesmo após a apresentação de laudo médico que atesta perturbação da saúde mental do paciente ao tempo dos fatos.
+Sustenta que há dúvida razoável acerca da higidez mental do acusado, especialmente no tocante à capacidade de determinar-se de acordo com o entendimento sobre o caráter ilícito do fato, conforme laudo da Junta Médica da Polícia Militar de Rondônia.
+Afirma que o habeas corpus é meio idôneo para discutir a instauração do incidente de insanidade mental, dada a singularidade do caso e a proximidade do julgamento do réu.
+Requer a concessão da ordem para determinar a imediata instauração do incidente de insanidade mental do paciente.
+As informações solicitadas foram prestadas às fls. 96-114.
+O Ministério Público Federal manifestou-se às fls. 122-127, opinando pela denegação da ordem.
+Às fls. 129-144, a Defesa formulou pedido de tutela provisória, pugnando pela suspensão do julgamento do paciente pelo Tribunal do Júri de Porto Velho/RO, até a análise do presente writ, tendo sido indeferida a pretensão pelo Ministro Presidente desta Corte Superior no dia 31/07/2025 (fls. 146-147).
+A Defesa formula, então, pedido de reconsideração do mencionado decisum a fim de garantir a eficácia do presente writ, ante a evidência de seu potencial perecimento (fl. 153), considerando que a sessão de julgamento pelo Conselho de Sentença foi designada para o dia 07 do mês em curso.
+É o relatório.
+DECIDO.
+De início, constato que a tese de constrangimento ilegal pela não instauração do incidente de insanidade mental não foi apreciada pelo Tribunal a quo, ao argumento de que a presente ordem de habeas corpus não é a via adequada para análise da matéria trazida aos autos pelo impetrante, porquanto a impugnação da decisão pode ser questionada em sede de apelação, conforme preceitua o art. 593, inciso II, do Código de Processo Penal (fl. 26).
+Desse modo, considerando que o Tribunal de origem não se manifestou sobre a alegação ora apresentada, esta insurgência não pode ser conhecida, sob pena de indevida supressão de instância. Com efeito,  m atéria que não foi analisada no Tribunal estadual não pode ser objeto de análise desta Corte Superior, sob pena de indevida supressão de instância (AgRg no HC 597.244/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 12/08/2020, DJe de 18/08/2020).
+Mutatis mutandis:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+(..)
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+Por outro lado, constato a existência de manifesta ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Como destacado, a matéria não foi apreciada pelo Tribunal de origem. Contudo, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas, o que parece ocorrer no caso em apreço, sobretudo diante dos laudos médicos anexados aos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. HABEAS CORPUS NÃO EXAMINADO PELO TRIBUNAL DE JUSTIÇA POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+1. O pedido de cassação da decisão proferida pelo Juízo das Execuções, que determinou a realização de exame criminológico para a análise do pedido de progressão, não foi apreciado pelo Tribunal a quo, que indeferiu liminarmente à ordem originária por entender que era inviável a análise da matéria, na via do habeas corpus, por haver previsão de recurso específico para impugnar ato do Juiz das Execuções Penais.
+2. Como a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito, consubstanciada na tese a respeito da previa realização do exame criminológico para fins de progressão de regime. A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante.
+4. Agravo regimental desprovido. Ordem de habeas corpus concedida, de ofício, para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do HC n.º 2165621-88.2018.8.26.0000, como entender de direito. (AgRg no HC 465.318/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/03/2019, DJe de 10/04/2019; grifamos)
+Assim, em razão da inconstitucional omissão em não se apreciar a tese defensiva - o que viola o princípio da inafastabilidade da jurisdição impõe -se determinar ao Tribunal estadual que prossiga no exame do pedido.
+A propósito:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO, REITERAÇÃO DELITIVA E MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. TESES DE NULIDADE E EXCESSO DE LINGUAGEM. SUPRESSÃO DE INSTÂNCIA. INDEVIDA AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+4. As teses referentes à ilicitude da prova e ao excesso de linguagem não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte local, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+5. Compulsando os autos, contudo, é imperioso consignar que a defesa, de fato, formulou tais pedidos na impetração originária, e que o Tribunal de Justiça não conheceu da impetração, deixando de apreciar o pleito formulado no writ, ao fundamento de que "não admitem a utilização do habeas corpus como sucedâneo do meio processual adequado, exceto quando flagrante a ilegalidade apontada  .. ".
+6. "A não manifestação do eg. Tribunal a quo sobre o mérito da impetração, na hipótese, configurou indevida negativa de prestação jurisdicional. Tratando-se de questão relevante, devidamente suscitada no writ originário, e não apreciada, devem os autos ser remetidos à eg. Corte estadual para que se pronuncie acerca da quaestio" (HC n. 398.690/SC, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 3/8/2017, DJe de 10/8/2017).
+7. Recurso parcialmente conhecido, e, nessa extensão, desprovido. Ordem concedida de ofício para determinar ao Tribunal de Justiça do Estado do Piauí que aprecie o mérito (referentes aos capítulos decisórios remanescentes) do habeas corpus originário como entender de direito. (RHC 107.237/PI, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/10/2019, DJe 28/10/2019; grifamos).
+Ante o exposto, não conheço da impetração, mas concedo habeas corpus, de ofício, a fim de determinar ao Tribunal estadual que aprecie a tese de constrangimento ilegal pela não instauração do incidente de insanidade mental, julgando como entender de direito. Por conseguinte, determino a suspensão da realização da sessão do Tribunal do Júri designada para o dia 07/08/2025, até o novo julgamento do habeas corpus originário.
+Outrossim, fica prejudicada a análise do pedido de reconsideração formulado às fls. 153-155.
+Comunique-se, com urgência, ao Tribunal de origem e ao Juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
