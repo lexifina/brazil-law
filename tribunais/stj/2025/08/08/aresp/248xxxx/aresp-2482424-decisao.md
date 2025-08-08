@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por FLÁVIA DE SOUZA PEREIRA, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 635, e-STJ):
+Agravo de Instrumento. Civil e Processual Civil. Penhora sobre imóvel. Bem de família. Desmembramento viável. Fração de imóvel com destinação econômica. Possibilidade.
+- Possível a penhora de imóvel quando verificado que o desmembramento preservará o seu uso como bem de família.
+- Considerando que a destinação dos canis existentes no imóvel é puramente econômica, a hipótese se amolda ao entendimento jurisprudencial de que possível a penhora da parte comercial do imóvel.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 687-691, e-STJ.
+Nas razões de recurso especial, a parte recorrente aponta violação ao art. 1º da Lei nº 8.009/90.
+Sustenta, em síntese: a) a impenhorabilidade do bem de família, independentemente de seu tamanho ou valor, conforme precedentes do STJ e TJSP; b) a impossibilidade de desmembramento do imóvel sem descaracterizá-lo, considerando as benfeitorias existentes.
+Contrarrazões apresentadas às fls. 705-727, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 808-824, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. As instâncias ordinárias concluíram ser possível a penhora de parte do imóvel da executada, protegido como bem de família, uma vez que, conforme constatado na perícia, é viável o desmembramento do imóvel sem prejuízo à área que serve à residência familiar, com observância às condicionantes da legislação pertinente ao loteamento.
+O Tribunal de origem assentou ainda que (fls. 637- e-STJ):
+A alegação de que a retirada dos canis e dos cães acabará com o seu exercício profissional e de seu marido não foi apresentada nos embargos à penhora, os quais se limitaram à tese de impenhorabilidade de bem de família (evento 23).
+Apenas ao se manifestar sobre o laudo pericial é que a parte ora agravante discorreu sobre a existência dos canis, acomodação para cruzamento e venda (evento 61). E, mesmo dizendo que a venda de filhotes decorrente dos cruzamentos dos animais auxilia nos custos da família, certo é que não se trata de renda mensal, mas sim sazonal, conforme afirmando pela própria executada. Além disso, quando da realização da perícia, existiam apenas dois cães, conforme afirmado pela perita.
+De qualquer forma, depreende-se que a destinação dos canis existentes no imóvel é puramente econômica, razão pela qual entendo que a hipótese se amolda perfeitamente às jurisprudências citadas acima, que tratam sobre a possibilidade de penhora da parte comercial do imóvel.
+Não é demais pontuar que o douto juiz corrigiu os limites da penhora outrora realizada para que passe a recair sobre a área de 322,11m  do mesmo imóvel penhorado, qual seja, o imóvel registrado no CRI de Lavras sob o nº 32.919, de modo que, consoante figura 02 do laudo complementar, também será preservada parte substancial da área de lazer, na qual se encontra a piscina (evento 06),.
+Não é demais pontuar que o douto juiz corrigiu os limites da penhora outrora realizada para que passe a recair sobre a área de 322,11m  do mesmo imóvel penhorado, qual seja, o imóvel registrado no CRI de Lavras sob o nº 32.919, de modo que, consoante figura 02 do laudo complementar, também será preservada parte substancial da área de lazer, na qual se encontra a piscina (evento 06),.
+Destarte, tendo a perícia concluído que o desmembramento do imóvel preservará a residência familiar, entendo por manter a decisão agravada.
+Verifica-se que a conclusão adotada está em conformidade com a orientação jurisprudencial do STJ no sentido de que "Não há violação da impenhorabilidade do bem de família quando a constrição atinge apenas fração de imóvel no qual se afigure viável o desmembramento sem descaracterização da moradia" (AgInt no REsp n. 2.035.810/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023).
+Na mesma direção, os seguintes julgados:
+EXECUÇÃO FISCAL. PENHORA. IMÓVEL. BEM DE FAMÍLIA. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. FUNDAMENTAÇÃO COMPATÍVEL COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO MANTIDA.
+I - O presente feito decorre de agravo de instrumento interposto por Banco Central do Brasil, objetivando a reforma de decisão interlocutória para que fosse mantida a penhora realizada sobre imóvel. O agravo de instrumento foi provido pelo Tribunal Regional Federal da 2ª Região. O recurso especial interposto pelo executado foi inadmitido na origem e, após a interposição de agravo, não conhecido no STJ.
+II - Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, tendo o julgador abordado de maneira devida e suficientemente fundamentada as razões pelas quais entende não ser o caso de impenhorabilidade do bem imóvel.
+III - A irresignação do recorrente, ora agravante, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu pela não incidência da regra de imprescritibilidade no caso concreto. Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+IV - Ademais, a fundamentação adotada pela Corte de origem não destoa, em tese, da jurisprudência desta Corte superior que admite, por exemplo, a penhora de fração ideal do bem de família, desde que o desmembramento não descaracterize o imóvel. Precedentes. Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 2.214.941/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/3/2025, DJEN de 24/3/2025 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMPENHORABILIDADE. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. POSSIBILIDADE DE DESMEMBRAMENTO DO IMÓVEL. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. "É possível a penhora de fração ideal de bem de família, nas hipóteses legais, desde que possível o desmembramento do imóvel sem sua descaracterização" (AgInt no REsp 1.663.895/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/9/2019, DJe de 7/10/2019)" (AgInt no AREsp 1.704.667/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe de 13/04/2021).
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela inviabilidade da penhora de parcela de imóvel, considerado bem de família. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.984.493/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/5/2022, DJe de 20/6/2022 - grifou-se)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. BEM DE FAMÍLIA. DESMEMBRAMENTO. POSSIBILIDADE. REEXAME DE PROVAS. INVIABILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de penhora de parte do imóvel protegido pela impenhorabilidade da Lei n. 8.009/1990, desde que possível o seu desmembramento sem que isto o descaracterize.
+2. O exame da alegação da parte agravante de que se mostraria inviável a divisão do bem imóvel, diversa daquela consignada pelo Tribunal de origem no acórdão recorrido, demandaria reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.970.573/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/5/2022, DJe de 12/5/2022 - grifou-se)
+PROCESSUAL CIVIL. NÃO CONHECIMENTO DO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. BEM DE FAMÍLIA. DIVISIBILIDADE ASSENTADA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE.
+1. As instâncias ordinárias determinaram, na fase de cumprimento de sentença de Ação por Improbidade Administrativa, a penhora de parte do imóvel do recorrente, a fim de efetivar condenação ao ressarcimento ao Erário da quantia de R$ 120.384,05 (cento e vinte mil, trezentos e oitenta e quatro reais e cinco centavos).
+2. Como afirmado na decisão ora agravada, o art. 18 do Código de Processo Civil não foi prequestionado, incidindo as Súmulas 282 e 356 do STF. No trecho do acórdão recorrido apontado pelo agravante (item 2, "a", da ementa), o Tribunal simplesmente narra umas das alegações feitas no Agravo de Instrumento, ao qual se negou provimento sem qualquer pronunciamento acerca do referido art. 18.
+Não foram opostos Embargos de Declaração contra o aresto vergastado, que, assim, não prequestionou a matéria.
+3. Em relação à impenhorabilidade do imóvel, insiste o recorrente:
+"No que pese constar dos autos que o imóvel penhorado é composto por 02 (dois) pavimentos, funcionando um cursinho preparatório para concursos no pavimento térreo e a residência do executado no pavimento superior, o que fez parecer tratar-se de duas unidades imobiliárias autônomas (a primeira de natureza comercial e a segunda de natureza residencial), a realidade fática, que pode ser muito bem observada através do conjunto fotográfico anexado aos autos e do próprio auto de constatação confeccionado por oficial de justiça é bem diversa" (fl. 708, e-STJ).
+4. Não é isso, contudo, que fixou o Tribunal de origem, ao afirmar:
+"pelo auto de constatação, verifica-se o acesso separado para o segundo pavimento do imóvel através de uma escada externa, sendo certo que o primeiro piso do imóvel, ocupado pelas salas de aula e banheiros, não é alcançado pela condição de bem de família. Nessa senda, como a execução se processa no interesse do exequente (art.
+797 do CPC), há de ser permitida a alienação do domínio útil do piso térreo do imóvel penhorado."
+5. A decisão merece ser mantida, pois "A jurisprudência do Superior Tribunal de Justiça assenta a possibilidade de penhora de fração ideal de bem de família nas hipóteses legais, desde que o imóvel possa ser desmembrado sem ser descaracterizado" (AgInt no AREsp 1.655.356/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 26.4.2021). No mesmo sentido: REsp 1.331.813/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 24.5.2019; AgInt no AREsp 1.704.667/SP , Rel. Min. Raul Araújo, Quarta Turma, DJe 13.4.2021; AgInt no AREsp 1.554.084/PR, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 26.10.2020.
+6. Em tais casos, tem-se decidido no STJ que a conclusão das instâncias ordinárias acerca da possibilidade de desmembramento é insindicável na via do Recurso Especial, em decorrência da Súmula 7/STJ. Nessa direção: AgInt no AREsp 1.679.373/SP, Rel. Min. Marco Buzzi, Quarta Turma, DJe 4.12.2020.
+7. Agravo Interno não provido.
+(AgInt no REsp n. 1.932.595/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/8/2021, DJe de 13/10/2021 - grifou-se)
+Incide, portanto, o óbice da Súmula 83/STJ.
+2. Ademais, como visto, o Tribunal de Justiça, com base no acervo fático-probatório carreado aos autos, concluiu pela viabilidade da penhora do desmembramento do imóvel sem a sua descaracterização.
+Desse modo, para acolher a tese recursal no sentido de que o imóvel em questão não comporta divisão cômoda, considerando as circunstâncias do caso concreto, seria necessário o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ, tal como se concluiu nos julgados acima transcritos.
+3. Por fim, destaque-se que a Corte local não se pronunciou sobre a alegada necessidade de realização de obras em caso de desmembramento do imóvel, de modo que a matéria não se encontra prequestionada, fazendo incidir o teor das Súmulas 282 e 356 do STF no ponto.
+Ademais, não houve indicação de violação ao art. 1.022 do CPC nas razões do recurso especial, a fim de viabilizar o exame de eventual omissão do acórdão recorrido por esta Corte Superior.
+4. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
