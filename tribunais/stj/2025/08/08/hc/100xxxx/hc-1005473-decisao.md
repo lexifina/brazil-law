@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de GABRIEL ALVES MARTINS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501065-32.2023.8.26.0201.
+Na inicial, a Defesa informa que o paciente foi condenado à pena de 15 (quinze) dias de detenção, em regime aberto, e ao pagamento de 10 (dez) dias-multa, como incurso no artigo 330 do Código Penal (fl. 2).
+Alega que houve nulidade no processo, pois o paciente foi decretado revel por não comparecer à audiência de instrução, mesmo estando preso preventivamente desde 3/4/2024, sem que o juízo requisitasse sua presença (fls. 3-4).
+Sustenta que a decisão que decretou a revelia carece de fundamentação idônea, causando prejuízo ao direito de defesa do paciente, conforme precedentes do Supremo Tribunal Federal (fls. 5-8).
+Afirma que o defensor dativo não teve conhecimento da prisão em tempo hábil para informar ao juízo, vindo a saber apenas após a sentença (fls. 9).
+No mérito, requer a anulação do processo desde o encerramento da audiência de instrução e que o Juízo de primeiro grau reabra essa fase processual, assegurando ao paciente o direito de ser interrogado (fl. 9).
+As informações solicitadas foram recebidas e acostadas às fls. 84-87 e 92-93.
+Intimado, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou pela denegação da ordem, conforme parecer de fls. 96-98.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..  1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..  II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Entretanto, cotejando as alegações deduzidas na inicial com a fundamentação contida no acórdão impugnado, verifico a presença de coação ilegal que permite a concessão da ordem, de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Confiram-se os seguintes trechos do julgado (fl. 13 - grifei):
+"Afasto a preliminar de nulidade suscitada pelo réu.
+Embora estivesse preso desde 03.04.2024 (fls. 108/109), e a audiência de instrução e julgamento tenha ocorrido em 08.05.2024, verifica-se que o réu foi pessoalmente citado e intimado em 29.08.2023 (fls. 75), e seu patrono constituído, que compareceu à audiência, encontra-se habilitado nos autos desde 04.03.2024 (fls. 77), tendo, inclusive, apresentado resposta à acusação (fls. 79/87).
+Independentemente de se tratar de advogado dativo, a defesa possui o dever de prestar ao réu toda a assistência técnica necessária. Nesse contexto, considerando que o réu havia sido pessoalmente citado e intimado para a audiência de instrução e julgamento, competia à defesa informar ao juízo sobre a superveniência de sua prisão, o que, todavia, não foi feito antes da decretação da revelia.
+Conforme se depreende dos excertos acima colacionados, o acusado já se encontrava custodiado desde 3/4/2024, tendo o Estado, portanto, plena ciência de seu encarceramento provisório por ocasião da audiência de instrução e julgamento no feito ora em análise, não podendo alegar que não sabia de sua prisão.
+De outro lado, tratando-se o patrono do sentenciado de advogado dativo, a alegação de que não teve conhecimento da prévia prisão do paciente em tempo hábil, vindo a saber apenas após a prolação da sentença, é bastante verossímil diante do que se constata dos fatos narrados do caso dos autos.
+Ademais, cabia ao Juízo de origem a requisição do paciente, estando preso, para a participação de seu julgamento, não podendo se eximir de sua incumbência legal, transferi-la ao defensor dativo e, diante do não comparecimento do réu, julgá-lo revel.
+Outrossim, não é este o caso da vedação prevista no artigo 565 do Código de Processo Penal, conforme entende o Parquet federal em seu parecer, visto que, de fato, a Defesa não deu causa à nulidade, ou para com ela concorreu.
+Ante todo o exposto, não conheço do presente habeas corpus, mas concedo a ordem, de ofício, a fim de anular a condenação do paciente na Ação Penal n. 1501065-32.2023.8.26.0201, devendo ser novamente realizada a audiência de instrução e julgamento, desta vez com a presença do ora paciente e de seu patrono constituído, bem como garantindo-lhe a mais ampla defesa.
+Comunique-se, com urgência, ao Juízo de primeiro grau e ao Tribunal de Justiça do Estado de São Paulo para que tomem as providências necessárias ao cumprimento desta decisão.
+Publique-se. Intimem-se.
+ EMENTA
