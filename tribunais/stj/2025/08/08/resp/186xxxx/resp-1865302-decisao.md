@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Paraná com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do mesmo ente federado, assim ementado (fl. 316):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. UTILIZAÇÃO DA GRÁFICA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO PARANÁ PARA A CONFECÇÃO DE CARTÕES CONGRATULATÓRIOS. RECEBIMENTO DA PETIÇÃO INICIAL. ART. 17, §§ 6º E 8º DA LEI DE IMPROBIDADE ADMINISTRATIVA. RECEBIMENTO OBSTADO EM CASOS EXCEPCIONAIS, NOS QUAIS O MAGISTRADO SE CONVENÇA DA INEXISTÊNCIA DO ATO DE IMPROBIDADE, DA IMPROCEDÊNCIA DA AÇÃO OU DA INADEQUAÇÃO DA VIA ELEITA. MERA IRREGULARIDADE QUE NÃO SE CONFIGURA COMO CONDUTA ÍMPROBA ATRIBUÍVEL AO AGENTE PÚBLICO. ATO HOMOLOGADO PELA ADMINISTRAÇÃO PÚBLICA. ENQUADRAMENTO NO ARTIGOS 9, INCISO IV, 10 e 11 DA LEI DE IMPROBIDADE ADMINISTRATIVA NÃO VERIFICADO. DOLO OU CULPA GRAVE NÃO DEMONSTRADOS. SENTENÇA MANTIDA. RECURSOS NÃO PROVIDOS.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 17, § 8º, da Lei n. 8.429/92, porquanto "juízo de prelibação considerou que as provas até então encartadas no petitório inicial não eram suficientes para demonstrar a ocorrência do ato ímprobo, deixando, contudo, de considerar o princípio "in dubio pro societate"" (fl. 397).
+Recebidos os autos nesta Corte, o Ministério Público Federal, em parecer de lavra da Subprocuradora-Geral da República Denise Vinci Tulio, opinou pelo conhecimento e provimento do recurso especial (fls. 464/469).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Ao apreciar a conduta dos réu, o Tribunal de origem assim se manifestou (fls. 318/322):
+ ..
+No contexto descrito pelo órgão ministerial em sua exordial, a conduta do apelante reputada como ímproba alude à utilização da gráfica da Assembleia Legislativa do Paraná para a confecção de material com conteúdo que se caracterizaria como de promoção pessoal, em total desacordo aos Princípios da Administração Pública. Isto porque, segundo o autor, o ora apelado teria deixado de dispor de numerário particular para a confecção de cartões de Natal com a finalidade de se autopromover às custas do erário, o que teria acarretado enriquecimento ilícito e lesão aos cofres públicos. Assim, teria incorrido, supostamente, em atos de improbidade administrativa, passíveis das sanções previstas no artigo 12, incisos I a III da Lei nº 8.429/92.
+Contudo, em que pese a diligente conduta do Ministério Público, o recurso não comporta provimento, pelos motivos expostos a seguir.
+ ..
+Ao compulsar os autos, não se depreende que o apelado tenha incorrido em conduta ímproba ao solicitar a confecção de cartões de Natal à gráfica, o que acarreta o não recebimento da inicial proposta pelo Ministério Público do Estado do Paraná.
+Em primeiro lugar, constata-se que as confecções dos referidos cartões foram requeridas através de Ofícios diretamente encaminhados ao 1º Secretário da Assembleia Legislativa do Estado do Paraná.
+Ainda, as despesas decorrentes da produção destas mensagens foram devidamente , como se averigua nas assinaturas e carimbos constantes nos Ofícios autorizadas pela própria Assembleia encaminhados.
+Cuida-se, portanto, de um ato , os quais alcançam autorização no interna corporis âmbito interno da Administração Pública, seja por meio de Regimento Interno, Resoluções ou Portarias.
+Neste compasso, vale lembrar que a Assembleia Legislativa do Estado do Paraná prevê a possibilidade de gastos com a publicidade da atividade parlamentar, desde que não se caracterize como despesas em campanha eleitoral, nos termos do artigo 2º de sua Resolução nº 003/2009.
+Uma vez aprovadas estas despesas referentes aos cartões, infere-se que a Assembleia analisou a conveniência e legalidade dos pedidos formulados, conferindo-lhes legitimidade e eficácia.
+Assim, cumpre destacar que se trata de pedidos homologados pela própria Administração Pública, cujos gastos igualmente foram homologados.
+2.2. Ademais, ao analisar os cartões produzidos não se percebe qualquer elemento indiciário de que o agravante almejava a promoção pessoal, não se consubstanciando em um veículo promocional.
+Das mensagens impressas não se extrai qualquer conteúdo que se traduza em exaltação própria e dos feitos alcançados ao longo do exercício do mandato, tampouco se evidencia qualquer tipo de publicidade oficial que extrapole os limites constitucionalmente permitidos, de acordo com o artigo 37, §1º da Constituição Federal.
+Cumpre esclarecer que se tratam de cartões cujo teor é meramente congratulatório.
+Afasta-se, assim, de pronto a alegação de intento de promoção pessoal e, consequente, vulneração ao princípio da impessoalidade.
+ ..
+Sem a prova ou ao menos indícios de que há o elemento subjetivo e de que há danos proeminentes, passa a existir apenas uma irregularidade que não pode ser reprimida por um meio extraordinário que é o sistema sancionador da improbidade administrativa.
+ ..
+In casu, não há como inferir que meros requerimentos para a confecção de cartões de conteúdo meramente congratulatório se traduzam em uma conduta dolosa ou culposa que culmine em improbidade administrativa. Por conseguinte, não se apura a presença de mínimos elementos indiciários em relação ao critério subjetivo, o que afasta a configuração de ato ímprobo.
+Neste compasso, não se revela qualquer espécie de ilícito passível de ser enquadrado nos tipos previstos na Lei nº 8.429/92.
+Desse modo, de acordo com o arcabouço fático-probatório presente nos autos, bem como os fundamentos alçados pelo apelado, permite-se adotar um juízo de certeza acerca da inexistência de atos ímprobos, o que impele ao não recebimento da inicial.
+ ..
+Nesse contexto, para se dissentir das premissas adotadas pela Corte de origem (e, consequentemente, assentar a presença do elemento subjetivo na conduta do agente público implicado), seria imprescindível realizar novo exame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ. Nessa linha de percepção, menciono, a título de exemplo, a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA OFENSA AOS ARTS. 489, § 1º, IV, E 1.022 DO CPC. NÃO OCORRÊNCIA. IMPROBIDADE ADMINISTRATIVA. ACÓRDÃO RECORRIDO QUE, COM BASE NOS ELEMENTOS FÁTICOS DOS AUTOS, CONCLUIU PELA AUSÊNCIA DO ELEMENTO SUBJETIVO NA CONDUTA DO RÉU. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, tendo apreciado os temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, no acórdão recorrido, de modo que deve ser rejeitada a alegada violação aos arts. 489, § 1º, IV, e 1.022, parágrafo único, do CPC.
+2. Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Nesse sentido: AgInt no AREsp n. 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp n. 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+3. No caso, o Tribunal de origem, com base nos elementos fáticos dos autos, concluiu pela ausência de demonstração do elemento subjetivo na conduta do agravado, necessário à configuração do apontado ato de improbidade administrativa. Nos termos em que a causa fora decidida, infirmar essa conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno improvido.
+(AgInt no REsp n. 1.948.342/PE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 20/5/2024, DJe de 23/5/2024)
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE DOLO GENÉRICA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/1973; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016.
+2. Consoante jurisprudência do STJ, "para a correta fundamentação da condenação por improbidade administrativa, é imprescindível, além da subsunção do fato à norma, caracterizar a presença do elemento subjetivo. A razão para tanto é que a Lei de Improbidade Administrativa não visa punir o inábil, mas sim o desonesto, o corrupto, aquele desprovido de lealdade e boa-fé" (REsp 1.666.307/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+3. Hipótese em que o Tribunal de origem firmou a compreensão no sentido de que a conduta imputada ao agravado se consubstanciaria em mero erro administrativo, razão pela qual não se poderia falar na prática de ato de improbidade, diante da ausência do elemento subjetivo dolo. Assim, a revisão desse entendimento esbarra no óbice da Súmula 7/STJ.
+4. Agravo interno improvido.
+(AgInt no REsp n. 1.475.593/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/5/2018, DJe de 30/5/2018)
+ANTE O EXPOSTO, não conheço do recurso.
+Publique-se.
+EMENTA
