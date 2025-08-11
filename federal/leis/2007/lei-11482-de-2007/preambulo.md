@@ -1,0 +1,4 @@
+LEI Nº 11.482, DE 31 DE MAIO DE 2007
+Efetua alterações na tabela do imposto de renda da pessoa física; dispõe sobre a redução a 0 (zero) da alíquota da CPMF nas hipóteses que menciona; altera as Leis nºs 7.713, de 22 de dezembro de 1988, 9.250, de 26 de dezembro de 1995, 11.128, de 28 de junho de 2005, 9.311, de 24 de outubro de 1996, 10.260, de 12 de julho de 2001, 6.194, de 19 de dezembro de 1974, 8.387, de 30 de dezembro de 1991, 9.432, de 8 de janeiro de 1997, 5.917, de 10 de setembro de 1973, 8.402, de 8 de janeiro de 1992, 6.094, de 30 de agosto de 1974, 8.884, de 11 de junho de 1994, 10.865, de 30 de abril de 2004, 8.706, de 14 de setembro de 1993; revoga dispositivos das Leis nºs 11.119, de 25 de maio de 2005, 11.311, de 13 de junho de 2006, 11.196, de 21 de novembro de 2005, e do Decreto-Lei nº 2.433, de 19 de maio de 1988; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
