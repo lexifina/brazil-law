@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Glauco Jaroseski Alderete à decisão por mim proferida, por meio da qual conheci do respectivo agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 908/910).
+Sustenta a parte embargante, nos aclaratórios, que a decisão embargada se revelou parcialmente omissa, na medida em que não se manifestou sobre a ilegalidade da busca domiciliar, uma violação do art. 240, § 1º, do CPP, questão que induz a nulidade absoluta (fls. 916/923).
+É o relatório.
+A pretensão não merece acolhida.
+No caso em tela, o embargante alega a existência de omissão na decisão, sem, contudo, demonstrar, de forma clara e objetiva, qual seria o ponto omisso que necessitaria de esclarecimento.
+A decisão embargada analisou, de forma fundamentada, todas as questões suscitadas, especialmente no que tange à alegação de nulidade da prova e à fundamentação da condenação pelo crime de associação para o tráfico, conforme exposto nas fls. 908/910.
+Cito o seguinte trecho da decisão atacada (fl. 909): diante do quanto exposto no trecho acima transcrito, tem-se que não se verifica ilegalidade na conduta perpetrada pelos policiais, em que se verificou atitude suspeita por parte do agravante, qual seja, a fuga repentina, adentrando-se para o interior da residência e arremessando objetos relacionados ao tráfico, ao ser avistado pela composição policial, evidenciando a devida justa causa (fundadas razões) necessária à perpetrada busca pessoal e domiciliar, permite inferir que a abordagem realizada pelos agentes policiais foi precedida de um contexto fático, que fundou na fundada suspeita. Nesse sentido: AgRg no HC n. 877.943/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 15/5/2024; e AgRg no AREsp n. 2.676.467/PA, Ministro Otavio Almeida Toledo, Sexta Turma, DJe de 6/11/2024.
+Não se constata, portanto, a presença de vícios que justifiquem a oposição dos embargos de declaração. Em verdade, pela argumentação apresentada, observa-se que a parte busca, de maneira indireta, rediscutir o mérito da decisão embargada, conduta incompatível com a finalidade dos embargos de declaração, que possuem caráter unicamente integrativo ou aclaratório, não sendo instrumento destinado à modificação ou substituição do julgamento (EDcl nos EREsp n. 1.434.604/PR, Ministro Raul Araújo, Corte Especial, DJe 1º/2/2022).
+Dessa forma, não se verifica a existência de omissão, contradição ou obscuridade na decisão proferida, sendo os embargos de declaração manifestamente improcedentes.
+Ante o exposto, à míngua de seus pressupostos, rejeito os presentes embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. TESE DE NULIDADE BUSCA PESSOAL. INVIABILIDADE. JUSTA CAUSA DEMONSTRADA PELA CORTE DE ORIGEM. ALEGAÇÃO DE OMISSÃO NA DECISÃO EMBARGADA. INEXISTÊNCIA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE VÍCIOS PREVISTOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL.
+Embargos de declaração rejeitados.
