@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO. COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS NºS 5 E 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2.A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. Na hipótese, acolher a tese pleiteada pelo agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+5. Agravos conhecidos para não conhecer dos recursos especiais.
+RELATÓRIO
+Trata-se de dois agravos interpostos por NOTRE DAME INTERMÉDICA SAÚDE S/A e por V L de J O contra as decisões que inadmitiram seus recursos especiais.
+Os apelos extremos foram interpostos contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. Ação de obrigação de fazer c. c. pedido de indenização por danos morais. Preliminar de cerceamento de defesa afastada. Natjus que é órgão apenas consultivo. Plano de saúde. Autor portador de transtorno do espectro autista. Negativa de tratamento multidisciplinar prescrito pelo corpo clínico que o assiste. Diretoria Colegiada da ANS que entendeu pela inclusão das terapias em seu rol de procedimentos/tratamentos de cobertura obrigatória. Necessidade de resguardar o direito à vida. Cobertura completa determinada, sem limitações de número de sessões. Definição do local da realização do tratamento deverá considerar a facilidade de acesso por transporte público e o tempo máximo de deslocamento de 30 minutos, sob pena de inviabilizar o tratamento. Danos morais. Inocorrência. Questão que demandou interpretação de cláusula contratual. Recurso parcialmente provido." (e-STJ fl. 395).
+Os embargos declaratórios foram rejeitados (e-STJ fls. 458/461 e 469/473).
+No recurso especial de NOTRE DAME INTERMÉDICA SAÚDE S/A, alegou-se violação dos arts. 10 da Lei nº 9.656/1998; 422 do Código Civil e 369 do Código de Processo Civil, sob os argumentos de que houve cerceamento de defesa porque não lhe foi autorizada a produção de provas, além de não ter a "(..) obrigação de custear método inegavelmente não abrangido no instrumento contratual firmado entre as partes" (e-STJ fl. 419) e não constante do rol da ANS.
+No recurso especial de V L de J O, alegou-se, além de dissídio jurisprudencial, afronta aos arts. 85 e 291 do Código de Processo Civil; 2º, III, e 3º, III, da Lei nº 12.764/2012; Lei nº 9.656/1998; 51, IV, da Lei nº 8.078/1990; 1º e 5º, X, da Constituição Federal e 186 e 927 do Código Civil, porque não houve sucumbência recíproca, sequer houve houve sucumbência processual total, e porque não se pode afastar a pleiteada condenação por danos morais.
+Ambos recursos foram inadmitidos, dando ensejo à interposição dos presentes agravos.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO. COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS NºS 5 E 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2.A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. Na hipótese, acolher a tese pleiteada pelo agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+5. Agravos conhecidos para não conhecer dos recursos especiais.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial de NOTRE DAME INTERMÉDICA SAÚDE S/A.
+A insurgência não merece prosperar.
+Quanto ao alegado cerceamento de defesa, o aresto recorrido afastou tal alegação "(..) eis que o NatJus é órgão apenas consultivo, não sendo obrigatório o seu parecer nos autos" (e-STJ fl. 397).
+Assim, no que se refere à ofensa ao art. 369 do Código de Processo Civil, verifica-se que a matéria versada no dispositivo apontado como violado não foi objeto de debate pela instância ordinária, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Em relação à cobertura do tratamento, transcreve-se, por oportuno, a fundamentação do julgado recorrido:
+"(..)
+Ora, é do direito da apelante estabelecer cláusulas, restringindo a cobertura securitária. Entretanto, o argumento exposto para negar a cobertura do tratamento pretendido não pode ser tido como apto para tanto.
+Isso porque, a jurisprudência da Câmara e deste E. Tribunal é no sentido de que, uma vez prescrito por médico de confiança, como tal ocorre aqui, nem a ANS, nem a operadora, ainda que seus médicos divirjam da eficácia, podem escolher o tratamento que deve ser realizado.
+Ora, o comportamento da ré contraria o quanto disposto no art. 51, IV do Código de Defesa do Consumidor, pois coloca a parte autora em exagerada desvantagem, retirando-lhe a chance de realizar tratamento médico imprescindível para manutenção de sua saúde.
+Não obstante, a escolha deste não foi feita por esta, mas sim pelo seu médico, de onde se presume que é necessário. Ademais, a diretoria colegiada da Agência Nacional de Saúde (ANS) aprovou na data de 23.06.2022 uma normativa que amplia as regras de cobertura assistencial de planos de saúde para pacientes com transtornos do desenvolvimento, entre os quais o transtorno do espectro autista (TEA).
+A decisão incorpora a terapia ABA (sigla em inglês que significa Análise Comportamental Aplicada) ao rol de tratamentos que devem ser disponibilizados pelas operadoras.
+A determinação foi aprovada por unanimidade e estabelece que a partir de 1º de julho passou a ser obrigatória a cobertura para qualquer método ou técnica que seja indicado por um especialista a pacientes com algum dos transtornos que compõem o CID F84.
+Desta feita, não é a seguradora de saúde que deve eleger o tratamento mais adequado e proveitoso para o paciente, mas sim o médico que o assiste e inclusive responde civilmente por eventual erro médico.
+Vale ressaltar que o mesmo raciocínio deve ser aplicado em relação à limitação do referido tratamento no contrato de assistência médica firmado, afinal, se está prevista a cobertura da enfermidade do autor, esta deve ir até a sua cura.
+Anote-se, por fim, que as operadoras de planos de saúde devem credenciar prestadores de serviços médicos que atendam os métodos indicados pelo médico que assiste o paciente, conforme Resolução Normativa RN nº 539, de 23 de junho de 2022, cujo artigo 3º acrescentou o § 4º ao artigo 6º da Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021, com o seguinte teor:
+(..)
+Com efeito, limitar o tratamento é o mesmo que negá-lo integralmente. O indeferimento de cobertura de parte das terapias prescritas inviabiliza a eficácia do tratamento da patologia, que possui cobertura contratual.
+No mais, mantem-se o entendimento da r. sentença no sentido de que a definição do local da realização do tratamento deverá considerar a facilidade de acesso por transporte público e o tempo máximo de deslocamento de 30 minutos, sob pena de inviabilizar a realização do tratamento." (e-STJ fls. 398/400-grifou-se).
+Extrai-se das razões recursais que a agravante, então recorrente, não refutou os fundamentos adotados pela Corte local em destaque, o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, a modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+Quanto ao inconformismo de V L de J O, ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não tem ser conhecida.
+Quanto aos arts. 1º e 5º, X, da Constituição Federal, observe-se que compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+No tocante aos arts. 2º, III, e 3º, III, da Lei nº 12.764/2012; Lei nº 9.656/1998; 51, IV, da Lei nº 8.078/1990 e 291 do Código de Processo Civil, limitou-se a parte recorrente a indicá-los nas razões recursais, sem demonstrar como tais dispositivos teriam sido violados na origem. Incide, na espécie, o óbice da Súmula nº 284/STF.
+Por fim, em relação à ofensa ao art. 85 do Código de Processo Civil, anota-se que rever o entendimento firmado pela instância ordinária demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço dos agravos para não conhecer dos recursos especiais.
+Na origem, os honorários foram fixados, diante da sucumbência recíproca, no montante de R$ 3.000,00 (e-STJ fl. 400), devendo ser majorados em 10% (dez por cento), nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
