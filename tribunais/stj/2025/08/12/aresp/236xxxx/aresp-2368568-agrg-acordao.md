@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. NATUREZA INFRACONSTITUCIONAL. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGADO PROVIMENTO.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, em razão da incidência dos Temas n. 339 e 895 do STF.
+1.2. A parte agravante alegou a inaplicabilidade dos Temas n. 339 e 895 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de ofensa ao art. 93, IX, da Constituição Federal ao caso em que se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+2.2 Se a questão da violação do princípio da inafastabilidade de jurisdição caracteriza-se como matéria de natureza infraconstitucional e, portanto, se estaria ausente a repercussão geral necessária para o seguimento do recurso extraordinário.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+3.3. O Supremo Tribunal Federal firmou o entendimento de que a questão relativa à violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional quando envolve óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou a necessidade de análise de matéria fática (Tema n. 895 do STF).
+3.4. Essa conclusão foi adotada sob o regime da repercussão geral, sendo de aplicação obrigatória, conforme disposto no art. 1.030, I, a, do Código de Processo Civil.
+3.5. No caso concreto, a aferição da existência da apontada violação do art. 5º, XXXV, da Constituição Federal, demandaria a análise de normas infraconstitucionais e a apreciação de matéria fática, enquadrando-se na hipótese tratada no Tema n. 895 do STF, o que justifica a negativa de seguimento ao recurso extraordinário.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 5.092):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. NATUREZA INFRACONSTITUCIONAL. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante defende a inaplicabilidade dos Temas n. 339 e 895 do STF ao caso, pois os acórdãos recorridos não teriam se manifestado quanto ao pleito de concessão de habeas corpus de ofício, formulado nas razões recursais.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. NATUREZA INFRACONSTITUCIONAL. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGADO PROVIMENTO.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, em razão da incidência dos Temas n. 339 e 895 do STF.
+1.2. A parte agravante alegou a inaplicabilidade dos Temas n. 339 e 895 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de ofensa ao art. 93, IX, da Constituição Federal ao caso em que se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+2.2 Se a questão da violação do princípio da inafastabilidade de jurisdição caracteriza-se como matéria de natureza infraconstitucional e, portanto, se estaria ausente a repercussão geral necessária para o seguimento do recurso extraordinário.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+3.3. O Supremo Tribunal Federal firmou o entendimento de que a questão relativa à violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional quando envolve óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou a necessidade de análise de matéria fática (Tema n. 895 do STF).
+3.4. Essa conclusão foi adotada sob o regime da repercussão geral, sendo de aplicação obrigatória, conforme disposto no art. 1.030, I, a, do Código de Processo Civil.
+3.5. No caso concreto, a aferição da existência da apontada violação do art. 5º, XXXV, da Constituição Federal, demandaria a análise de normas infraconstitucionais e a apreciação de matéria fática, enquadrando-se na hipótese tratada no Tema n. 895 do STF, o que justifica a negativa de seguimento ao recurso extraordinário.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+VOTO
+2. Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 da repercussão geral, firmou a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a seguinte ementa:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fls. 5.045-5.046):
+O agravo regimental não merece provimento.
+Consta dos autos que o agravante foi condenado pela prática dos crimes previstos nos arts. 273, § 1º-B, III e V, e 334, § 1º, III e IV, ambos do Código Penal - CP (falsificação de produtos destinados a fins terapêuticos ou medicinais e descaminho), às penas de 3 anos e 4 meses de reclusão, em regime inicial aberto, e 331 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos (fls. 4418/4419).
+Recurso de apelação interposto pela defesa foi desprovido e, de ofício, reduzida a fração de aumento pelo concurso formal próprio para 1/6, fixando a pena do recorrente em 2 anos, 7 meses e 3 dias de reclusão, e 257 dias-multa (fl. 4658).
+Em sede de recurso especial (fls. 4940/4946), a defesa apontou a violação do art. 619 do Código de Processo Penal - CPP.
+Alegou que o TRF, ao julgar os embargos de declaração, deixou de aclarar o ponto omisso para fins de prequestionamento explícito sobre a aplicação do Tema n. 1003 do STF, o qual proíbe a simbiose de leis, circunstância que faria com que a pena do ora recorrente fosse fixada em patamar inferior.
+Com relação à apontada ofensa ao art. 619 do CPP, o Tribunal de origem rejeitou os embargos de declaração ressaltando a inexistência de omissão, nos seguintes termos:
+"Com efeito, restaram expressamente consignados no voto embargado os fundamentos que levaram esta E. Turma a entender pela inaplicabilidade do julgamento do RE nº 979.962/RS pelo STF ao caso em concreto, e pela aplicação, na dosimetria da pena para os crimes do art. 273 do Código Penal, de todas as sanções abstratamente previstas para o crime previsto no art. 33 da Lei 11.343/2006, e não apenas a aplicação restrita de seu preceito secundário." (fl. 4928)
+Por seu turno, no acórdão embargado que julgou o recurso de apelação, constou o seguinte, in verbis (grifos nossos):
+"Na data de 24 de março de 2021, o C. Supremo Tribunal Federal, ao julgar o RE nº 979.962/RS, apreciou o tema de repercussão geral nº 1.003, firmando a tese de inconstitucionalidade da incidência do preceito secundário do artigo 273 do Código Penal, com redação dada pela Lei nº 9.677/1998 (reclusão, de 10 a 15 anos, e multa), à hipótese prevista no artigo 273, § 1º-B, inciso I, desse diploma legal, que versa sobre a importação de medicamento sem registro no órgão de vigilância sanitária, repristinando o preceito secundário do aludido artigo, em sua redação original, que previa a pena de reclusão, de 1 (um) a 3 (três) anos, e multa, por afronta ao princípio da proporcionalidade.
+Desse modo, o Plenário aprovou, por maioria, a seguinte tese com repercussão geral:
+É inconstitucional a aplicação do preceito secundário do artigo 273 do Código Penal, com a redação dada pela Lei 9.677/1998 - reclusão de 10 a 15 anos - à hipótese prevista no seu parágrafo 1º-B, inciso I, que versa sobre a importação de medicamento sem registro no órgão de vigilância sanitária. Para esta situação específica, fica repristinado o preceito secundário do artigo 273, na redação originária - reclusão de um a três anos e multa.
+Extrai-se desse julgamento e da tese firmada que o STF reconheceu expressamente a inconstitucionalidade do preceito secundário do art. 273 do Código Penal, com a redação dada pela Lei no 9.677/98 (reclusão, de 10 a 15 anos, e multa), apenas em relação ao tipo previsto no seu §1º-B, inciso I.
+ ..
+No caso, o acusado incidiu no crime do art. 273, § 1º-B, III e V, do Código Penal. Por isso, não se aplica ao caso a decisão do Supremo Tribunal Federal." (fls. 4877/4878)
+Extrai-se dos trechos acima colacionados que o TRF3 rechaçou a tese de aplicação do Tema n. 1003 do STF, porque o acusado incidiu no crime do art. 273, § 1º-B, III e V, do Código Penal.
+Assim, a tese foi expressamente apreciada, de modo que a alegada contrariedade ao art. 619 do CPP não merece prosperar, porque o Tribunal de origem examinou devidamente a controvérsia apresentada pela defesa, não havendo se falar em negativa de prestação jurisdicional porque inocorrente omissão acerca de ponto relevante.
+Ressalta-se que este Superior Tribunal de Justiça entende que " n ão está o magistrado obrigado a rebater, pormenorizadamente, todas as questões trazidas pelas partes, configurando-se a negativa de prestação jurisdicional somente nos casos em que o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial  .. " (AgRg no AREsp n. 1.965.518/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022), o que não ocorreu na hipótese em epígrafe. Logo, desnecessário o enfrentamento direto de todas as questões deduzidas pela parte, quando as razões de decidir já são suficientes para manter o julgado.
+Ademais, nos termos da jurisprudência desta Corte, " o  fato do Tribunal de origem ter decidido o pleito de forma diversa da defendida pelo recorrente, elegendo fundamentos distintos daqueles por ele propostos, não configura omissão ou ausência de fundamentação" (AgRg no AREsp n. 1.322.810/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 30/8/2018).
+Do mesmo modo, foram indicados os motivos para a rejeição dos embargos de declaração opostos na sequência, nos quais se afastou a possibilidade de concessão de habeas corpus de ofício (fl. 5.064):
+No tocante ao pleito de habeas corpus de ofício, salienta-se que, com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese, conforme bem explicitado nos fundamentos do acórdão combatido para afastar as teses defensivas.
+Verifica-se, portanto, que a matéria invocada pela parte ora agravante foi expressamente examinada no acórdão impugnado.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+3. Além disso, o STF definiu que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional "quando há óbice processual ao exame de mérito, ofensa indireta à Constituição Federal ou análise de matéria fática".
+Essa é a orientação consolidada no Tema n. 895 do STF, no qual a Suprema Corte fixou a seguinte tese:
+Tema n. 895 do STF: A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+Esse entendimento foi adotado sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a ex istência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+No caso, a aferição da existência da apontada violação do art. 5º, XXXV, da Constituição Federal demandaria a análise de normas infraconstitucionais e a apreciação de matéria fática, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 895.
+4. Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
