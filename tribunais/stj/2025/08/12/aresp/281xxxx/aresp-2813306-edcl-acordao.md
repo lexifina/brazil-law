@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC).
+2. Hipótese em que não há no julgado nenhuma situação que dê amparo ao recurso integrativo.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por STANG DISTRIBUIDORA DE PETRÓLEO LTDA. contra acórdão prolatado pela Primeira Turma desta Corte Superior, de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTAÇÃO CONSTITUCIONAL. INTERPRETAÇÃO DE NORMA LOCAL. IMPOSSIBILIDADE. PRINCÍPIO DA NÃO SURPRESA. INAPLICAÇÃO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. CORREÇÃO DO PERCENTUAL. REEXAME FÁTICO-PROBATÓRIO. DESCABIMENTO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem manifesta-se de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. Não enfrentadas no julgado impugnado as teses pertinentes aos artigos de leis federais apontados como violados no recurso especial, há falta do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+3. Para a configuração do prequestionamento ficto, deve a parte, no recurso especial, não apenas indicar contrariedade ao art. 1.022 do CPC e invocar o disposto no art. 1025 do mesmo código, mas também demonstrar o cabimento dos aclaratórios opostos na origem, comprovando a relevância da análise dos pontos ditos omitidos para o correto deslinde da causa. Precedentes.
+4. Segundo o acórdão recorrido, o debate diz respeito à constitucionalidade ou não de dispositivo da Lei Estadual n. 10.297/1996 que fixou alíquota de 25% para operações com gasolina automotiva e álcool carburante. Entendeu-se não ter aplicação à espécie a orientação estabelecida no Tema 745 do STF e que o art. 155, § 2º, III, da CF faculta ao legislador ordinário a fixação de alíquotas diferenciadas para o ICMS em razão da essencialidade das mercadorias e serviços e com propósito extrafiscal, o que teria sido feito pela lei estadual questionada.
+5. A resolução da disputa não tem amparo na interpretação da legislação federal, devendo o propósito de aplicação da tese firmada no Tema 745 do STF ser perseguido pela via própria. Ademais, a análise da questão demanda a interpretação da norma local, providência vedada nessa instância, nos termos da Súmula 280 do STF.
+6. " ..  não cabe alegar surpresa se o resultado da lide encontra-se previsto objetivamente no ordenamento disciplinador do instrumento processual utilizado e insere-se no âmbito do desdobramento causal, possível e natural, da controvérsia" (REsp 1.823.551/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/9/2019, DJe de 11/10/2019.).
+7. Para entender-se excessiva a majoração pelo Colegiado local dos honorários advocatícios em 5% da verba já fixada pela primeira instância no percentual mínimo previsto nos incisos do art. 85, § 3º, do CPC, seria necessário reexame de aspectos fáticos da causa, providência incabível em recurso especial, na forma da Súmula 7 do STJ.
+8. Agravo interno desprovido.
+Nas suas razões, a embargante afirma a existência de omissões, contradições e obscuridades no julgado.
+Diz que não é apontado em qual trecho do acórdão recorrido são apresentados os motivos para a não aplicação do Tema 745 do STF, argumentando que sua intenção era a utilização das suas razões de decidir ao caso, pertinente a operação com gasolina automotiva e álcool carburante. Argumenta, inclusive, que a modulação da decisão imposta pelo STF não teria aplicação na espécie.
+Afirma ter havido o prequestionamento do arts. 371, 492, 926 e 927 do CPC; 18-A, parágrafo único, I, do CTN; 32-A, § 1º, I, da LC n. 87/1996; 10, I, da Lei n. 7.783/1989; 1º, § 1º, I e II, da Lei n. 9.847/1999; e 27 da Lei n. 9.868/1999. Alega que as respectivas matérias foram abordadas pelo Tribunal de origem e invoca o teor do art. 1.025 do CPC, consignando que provocou a instância ordinária mediante embargos de declaração, suscitando as omissões quanto a pontos relevantes, e, no recurso especial, apontou violação do art. 1.022 do CPC.
+Questiona a aplicação da Súmula 280 do STF, por entender desnecessária a interpretação autônoma de norma local. Sustenta que, "no caso em tela, o acórdão embargado ora recorre ao argumento da reserva da norma local para afastar o recurso, ora utiliza essa mesma norma para justificar a legalidade da conduta do ente tributante, em manifesta colisão lógica" (e-STJ fl. 633). Acrescenta que o art. 19, II, "d", da Lei Estadual n. 10.297/1996 foi revogado e nunca foi suscitado pelo Estado.
+Contesta também a incidência da Súmula 7 do STJ, articulando que a verificação da ausência de atuação da parte recorrida poderia ser feita com base apenas nos autos.
+Aduz ter pontuado fatos que demonstram a ausência de trabalho adicional da parte contrária, de modo que não havia fundamentos para a majoração da verba advocatícia no segundo grau de jurisdição.
+Impugnação da parte contrária às e-STJ fls. 640/643.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC).
+2. Hipótese em que não há no julgado nenhuma situação que dê amparo ao recurso integrativo.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, vícios inexistentes na espécie.
+Afinal, o voto condutor do acórdão ora embargado foi claro ao consignar que, relativamente à tributação questionada, a controvérsia foi decidida com base em fundamentação constitucional e na interpretação de legislação local de forma suficiente, sem alusão a normas federais. Nesse sentido, foi dito que (e-STJ fl. 613):
+ ..  segundo o acórdão recorrido, o debate diz respeito à constitucionalidade ou não de dispositivo da Lei Estadual n. 10.297/1996 que fixou alíquota de 25% para operações com gasolina automotiva e álcool carburante. Entendeu o Colegiado local não ter aplicação à espécie a orientação estabelecida no Tema 745 do STF, porque esse se refere a operações de energia elétrica e serviços de telecomunicação e, além disso, em razão da modulação dos efeitos da decisão proferida, a solução ali dada não incide no caso.
+Ainda de acordo com o julgado impugnado, o art. 155, § 2º, III, da CF faculta ao legislador ordinário a fixação de alíquotas diferenciadas para o ICMS em razão da essencialidade das mercadorias e serviços e com propósito extrafiscal, o que teria sido feito pela lei estadual questionada.
+A resolução da disputa, portanto, não tem amparo na interpretação da legislação federal. Na verdade, o que se pretende é aplicação da tese firmada no Tema 745 do STF, propósito que deve ser encaminhado pela via própria e à instituição a quem compete o exame dos temas constitucionais.
+Além disso, a análise do inconformismo esbarra no óbice descrito na Súmula 280 do STF.  .. .
+Em resumo, entendeu a instância ordinária que não se aplica a orientação estabelecida pelo Supremo Tribunal Federal no seu Tema 745, tampouco sua ratio decidendi ao caso. Por isso, foi consignada a inviabilidade da análise da insurgência nessa sede e feito o registro, inclusive, de que contra a acórdão recorrido foi interposto recurso extraordinário.
+Coerentemente com isso, foi estabelecido também que (e-STJ fl. 609):
+Não merecem conhecimento as assertivas de violação dos arts. 371, 492, 926 e 927 do CPC, do art. 18-A, parágrafo único, I, do CTN, do art. 32-A, § 1º, I, da LC n. 87/1996, do art. 10, I, da Lei n. 7.783/1989, do art. 1º, § 1º, I e II, da Lei n. 9.847/1999 e do art. 27 da Lei n. 9.868/1999. Esses dispositivos legais não serviram de embasamento a nenhum juízo de valor emitido no acórdão recorrido, carecendo as respectivas teses do necessário prequestionamento. Incide, no ponto, o teor da Súmula 282 do STF.
+Acrescento que, para a configuração do prequestionamento ficto, deve a parte, no recurso especial, não apenas indicar contrariedade do art. 1.022 do CPC e invocar o disposto no art. 1025 do mesmo código, mas também demonstrar o cabimento dos aclaratórios opostos na origem, comprovando a relevância da análise dos pontos ditos omitidos para o correto deslinde da causa, o que não aconteceu na hipótese.
+Por fim, com respeito ao questionamento quanto à incidência da Súmula 7 do STJ à tese pertinente aos honorários advocatícios recursais fixados pelo TJSC, foi consignado que é inviável a revisão do entendimento adotado pela instância ordinária, que, com base em circunstâncias fáticas da causa, entendeu cabível a majoração em 5% da verba já fixada pela primeira instância no percentual mínimo previsto nos incisos do art. 85, § 3º, do CPC.
+Há registro de que o Col egiado local fundamentou o aumento considerando os parâmetros estabelecidos no § 2º do art. 85 do CPC e tomando em conta, inclusive, a natureza e a importância da causa.
+Constata-se, assim, que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à insatisfação com o julgamento.
+Portanto, a pretensão ora trazida tem caráter meramente infringente e, por isso, não pode ser acolhida no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
