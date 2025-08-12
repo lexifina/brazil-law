@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. OBRA CIVIL. JUROS E CORREÇÃO MONETÁRIA. ADITIVOS. REEXAME FÁTICO-PROBATÓRIO DA DEMANDA E DE CONTRATOS E ADITIVOS. ÓBICE DAS SÚMULAS 5 E 7/STJ.
+1. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do contrato e seus aditivos, bem como do acervo fático-probatório constante dos autos, providências vedadas em recurso especial. Incidência das Súmulas 5 e 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Sultepa Construções e Comércio Ltda - em Recuperação Judicial desafiando decisão de fls. 724/727, que negou provimento ao agravo em recurso especial, diante da incidência das Súmulas 5 e 7/STJ, bem como pela ausência de atendimento aos requisitos para análise da divergência jurisprudencial.
+Inconformada, sustenta a parte agravante, em resumo: (I) a inaplicabilidade dos supraditos enunciados sumulares, pois o decisório recorrido fundamenta-se por interpretação teórica de matéria de direito, não havendo necessidade de reanálise de matéria fático-probatória ou cláusulas contratuais; (II) "se trata de premissa conceitual sobre contratos administrativos e os efeitos da simples celebração de aditivos contrataus, pelo que ao contrário do que constou da fundamentação da decisão agravada, desnecessária a reanalise de provas ou contrato ou dos aditivos" (fl. 737); (III) devem ser privilegiados os princípios da primazia do julgamento de mérito e da instrumentalidade das formas.
+A parte agravada apresentou impugnação às fls. 754/758.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. OBRA CIVIL. JUROS E CORREÇÃO MONETÁRIA. ADITIVOS. REEXAME FÁTICO-PROBATÓRIO DA DEMANDA E DE CONTRATOS E ADITIVOS. ÓBICE DAS SÚMULAS 5 E 7/STJ.
+1. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do contrato e seus aditivos, bem como do acervo fático-probatório constante dos autos, providências vedadas em recurso especial. Incidência das Súmulas 5 e 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Com efeito, ao examinar a questão central, o Tribunal de origem enfatizou (fls. 526/527):
+ ..
+Conforme explicitado pelo DAER na contestação, o que foi admitido não só pela autora, mas também pela respeitável sentença, durante a execução do contrato foram celebrados dezesseis Aditivos, cinco após o período das alegações da inicial, descabendo a pretensão de receber quantias relativas a períodos superados pelas repactuações.
+É mais um caso em que as partes, durante a execução do contrato, celebram Aditivos, zerando o período pretérito, isto é, transigem pelo menos implicitamente, mas uma delas, que nada reivindicou no momento oportuno, resolve, após o término, reclamar diferenças cobertas pelos Aditivos. E no caso foram dezesseis, cinco após o período em relação ao qual a demandante reclama juros e atualização monetária por pagamentos atrasados.
+Além disso, reivindica-os desde as medições da obra, e não somente a partir do prazo de trinta dias, contado da protocolização da nota fiscal ou fatura, conforme pactuado.
+Para ser possível a exumação do histórico do contrato, impunha-se ressalva expressa em cada Aditivo quanto a eventuais diferenças pretéritas e suas origens. Dito isso, peço vênia para, no quanto interessa, transcrever o voto que proferi na Ap 5000723-54.2014.8.21.0010-Eproc/RS:
+".., durante a execução, as partes celebraram vários Aditivos, inclusive com reajustamento de preço; assim, tem-se por superados/resolvidos os percalços durante o período em que o contrato esteve em execução. Não pode a contratada, repetidamente, negociar a prorrogação do prazo para concluir a obra, sem nada alegar a respeito de eventual desequilíbrio econômico-financeiro do contrato, quiçá para mais facilmente conseguir aquela dilação face ao Poder Público, e, depois, fazendo uma jogada tipo "nulidade de algibeira", ingressar com ação.
+Já decidimos na Ap 70027445154, da minha relatoria, que se as partes foram "resolvendo as intercorrências mediante aditivos ao contrato original, descabe a contratada, após a conclusão, reclamar da contratante prejuízos por paralisações". No mesmo sentido, a Ap 70084351137, igualmente da minha relatoria, em cuja ementa consta: ".., tem-se que os diversos aditivos superaram/resolveram os percalços durante o período em que o contrato vigeu, mesmo que dificuldades possam ser debitadas ao Município, e isso tanto abrange recomposição de preço quanto eventuais outros itens"."
+ ..
+Diante desse cenário, a invalidação das premissas adotadas pela instância ordinária, conforme pleiteada, implicaria necessariamente o reexame das cláusulas do edital, além da análise de matéria fático-probatória. Todavia, tais providências encontram impedimento na via especial, em razão dos obstáculos estabelecidos pelas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO VIOLADO. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ACÓRDÃO COMBATIDO. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO. AUSÊNCIA. SÚMULA 126/STJ. CONTRATO ADMINISTRATIVO. REEXAME DE CLÁUSULAS CONTRATUAIS, DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. PROVIMENTO NEGADO.
+1. A simples alegação de que determinado dispositivo legal deve ser interpretado não se mostra suficiente para o conhecimento do recurso especial e atrai, por analogia, a incidência da Súmula 284 do STF.
+2. O acórdão recorrido tem fundamento constitucional autônomo e não houve interposição do devido recurso extraordinário dirigido ao Supremo Tribunal Federal, o que atrai a incidência da Súmula 126/STJ.
+3. O Tribunal de origem, ao analisar a matéria, interpretou o contrato e seu aditamento, chegando à conclusão de que não é cabível o reajuste do valor do contrato e de que os gastos com a administração da obra foram contemplados nos termos aditivos do contrato. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, incidindo no presente caso a Súmula 5 do STJ, que preceitua: "a simples interpretação de cláusula contratual não enseja recurso especial", e a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+4. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação d o dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+5. Agravo interno a que se ne ga provimento.
+(AgInt no AREsp 1.675.745/PR, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023 - g.n.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
