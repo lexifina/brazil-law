@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SOROCABA com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pela 12ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 372-373):
+DIREITO ADMINISTRATIVO. RECURSO DE APELAÇÃO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. MUNICÍPIO DE SOROCABA. TÉCNICO DE ENFERMAGEM. GRAU MÁXIMO DURANTE A PANDEMIA. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. RECURSO DESPROVIDO. RECURSO ADESIVO PROVIDO.
+Recurso de apelação interposto pelo Município de Sorocaba e recurso adesivo interposto pela parte autora contra sentença que reconheceu o direito da autora ao adicional de insalubridade em grau médio (20%) no período de 07/06/2014 a 20/03/2020 e de 19/03/2022 até a data atual, e em grau máximo (40%) de 21/03/2020 a 18/03/2022, conforme prova pericial. A sentença determinou a incorporação do adicional às demais verbas remuneratórias (férias, 1/3 constitucional, décimo terceiro salário, horas extras e licença-prêmio) e condenou o Município ao pagamento de honorários advocatícios no valor de R$ 2.000,00.
+Há três questões em discussão: (i) definir se a autora tem direito ao adicional de insalubridade em grau máximo no período de 21/03/2020 a 18/03/2022, (ii) estabelecer o termo inicial de pagamento do adicional de insalubridade, e (iii) estabelecer se os honorários advocatícios foram corretamente fixados.
+O direito ao adicional de insalubridade decorre da exposição do servidor a agentes nocivos, conforme previsto nos artigos 134 e 136 da Lei Municipal nº 3.800/91. A prova pericial comprovou que a autora exerceu atividades insalubres em grau máximo durante a pandemia de COVID-19, estando em contato permanente com pacientes em isolamento por doenças infectocontagiosas.
+O adicional de insalubridade tem caráter declaratório e deve ser pago desde o início da exposição aos agentes insalubres, independentemente da data do laudo pericial. Assim, o termo inicial de pagamento não se restringe à data do laudo.
+Quanto ao recurso adesivo da autora, a sentença fixou honorários de forma equitativa, mas, conforme a jurisprudência consolidada pelo STJ (Tema 1076), o arbitramento de honorários por equidade só se justifica em hipóteses de proveito econômico inestimável, irrisório ou de valor da causa muito baixo. No caso, o proveito econômico é significativo, devendo ser aplicados os critérios objetivos do § 3º do art. 85 do CPC, fixando-se os honorários em 10% sobre o valor da condenação.
+Quanto aos consectários legais, necessária a retificação, de ofício, sendo que a correção monetária e os juros de mora devem seguir os parâmetros fixados pelos Temas 810 do STF e 905 do STJ, aplicando- se a taxa Selic a partir da EC 113/2021.
+RECURSO DO MUNICÍPIO DESPROVIDO E RECURSO ADESIVO DA AUTORA PROVIDO, com observação quanto aos consectários legais.
+Os embargos de declaração opostos (e-STJ, fls. 380-383) foram rejeitados (e-STJ, fls. 385-389).
+Nas razões do recurso especial (e-STJ, fls. 392-404), o recorrente aponta divergência jurisprudencial e violação ao art. 489, § 1º, VI, do CPC/2015.
+Alega que, ainda que opostos os embargos declaratórios, houve resistência por parte da Corte de origem em aplicar o entendimento do Superior Tribunal de Justiça sobre a questão, sem demonstrar a existência de distinção ou de superação do entendimento.
+Sustenta que, ao permitir a retroação de efeitos de laudo elaborado posteriormente para fins de concessão de adicional de insalubridade, a Corte de origem se distanciara da jurisprudência deste Tribunal Superior (REsp n. 1.755.087/RS e PUIL n. 413/RS).
+Contrarrazões às fls. 406-417 (e-STJ).
+Juízo de admissibilidade positivo às fls. 422-426 (e-STJ).
+Brevemente relatado, decido.
+Ao que se depreende, nos embargos de declaração opostos na origem (e-STJ, fls. 380-383), o demandante arguiu que o Superior Tribunal de Justiça teria entendimento consolidado - no PUIL n. 413/RS - no sentido de que não seria possível conferir efeitos retroativos ao laudo que avalia insalubridade.
+Todavia, constata-se que a Corte de origem não se pronunciou de forma expressa a respeito da referida questão suscitada, fato que caracteriza ofensa ao art. 489, § 1º, VI, do CPC/2015.
+Vejamos (e-STJ, fls. 388-389):
+Não vislumbro os vícios apontados pelo embargante.
+A decisão proferida por esta C. Turma Julgadora considerou todos os aspectos relevantes para o deslinde da controvérsia, as quais restaram devidamente explicitadas.
+Os embargos de declaração não se prestam à rediscussão de temas, à luz dos argumentos reinvocados, alegadamente relevantes para a solução da qu stio juris , na busca de decisão que seja favorável ao embargante. Se este é o objetivo, deve ser utilizado outra via processual, não os embargos declaratórios.
+Por derradeiro, cumpre esclarecer que não é necessária a menção de dispositivos legais para efeito de prequestionamento, bastando que a questão seja apreciada para ensejar o manejo desses recursos (Súmula nº 211, do Superior Tribunal de Justiça, e Súmula nº 282, do Supremo Tribunal Federal).
+Entendo que o prequestionamento somente tem lugar quando a decisão embargada padeça dos vícios apontados pelo embargante. Esse entendimento é esposado na jurisprudência do E. Superior Tribunal de Justiça:
+Mesmo nos embargos de declaração com fim de prequestionamento devem-se observar os lindes traçados no art. 535 do CPC (obscuridade, contradição, omissão e, por construção pretoriana integrativa, a hipótese do erro material). Esse recurso não é meio hábil ao reexame da causa.
+Ante o exposto, o meu voto propõe aos meus ilustres pares que se rejeite os embargos de declaração , ficando mantido o v. acórdão tal como proferido.
+Assim, deve ser complementado o acórdão proferido nos embargos de declaração para que seja suprido o vício apontado, sob pena de o recurso especial não poder ser julgado no Superior Tribunal de Justiça, nesse enfoque, à míngua do indispensável prequestionamento.
+Sobre o tema, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. CUMPRIMENTO DE SENTENÇA. CONSECTÁRIOS LEGAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. OMISSÃO. OCORRÊNCIA. AGRAVO INTERNO PROVIDO.
+1. Há violação aos arts. 489, § 1º, inciso IV, e 1.022, inciso I e II, do Código de Processo Civil, na medida em que o Tribunal a quo - de forma absolutamente genérica - limitou-se a endossar a decisão de primeiro grau que, ao homologar os cálculos elaborados pela Contadoria Judicial, aplicou juros moratórios de 0,5% ao mês até novembro de 2018, insistindo, em seguida, na ocorrência de coisa julgada. Não obstante, a tese da UNIÃO - que se deveria aplicar índices diversos a períodos posteriores, em razão da entrada em vigor do Código Civil de 2002 e de julgamento de tese repetitiva pelo STJ (Tema 905) - não foi enfrentada. Omissão configurada.
+2. Agravo interno provido, a fim de determinar o retorno dos autos ao Tribunal de origem, para que seja sanada a omissão em novo julgamento dos embargos de declaração.
+(AgInt no AREsp n. 2.276.475/DF, relator Ministro Mauro Campbell Marques, relator para acórdão Ministro Teodoro Silva Santos, Segunda Turma, julgado em 10/12/2024, DJEN de 15/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. CONFIGURADA. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - É omisso e deficiente o julgado que deixa de manifestar-se sobre questões relevantes para o deslinde da controvérsia, apresentadas pelas partes, configurando ofensa aos arts. 489 e 1.022 do Codex processual.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+(AgInt no REsp n. 2.168.130/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/12/2024, DJEN de 5/12/2024.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. REGIME ADUANEIRO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 489 E ART. 1.022 DO CPC/2015. VERIFICAÇÃO. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1. Existindo omissão acerca de questão essencial ao deslinde da controvérsia, oportunamente suscitada em sede de contrarrazões à apelação e embargos de declaração, deve ser reconhecida a violação dos art. 489, §1º, IV e VI, c/c art. 1.022, II e parágrafo único, II, ambos do CPC/2015.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.290.929/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação do art. 489 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevante questão que lhe foi submetida pela parte embargante.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PROVIDO.
