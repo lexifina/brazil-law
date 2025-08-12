@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CARLOS ERALDO GADELHA DE OLIVEIRA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489 § 1º, 1.022 II, 5º, 10, 278, 357, V e § 1º, 477, § 3º, e 1.013 do Código de Processo Civil, e pela incidência da Súmula n. 7 do STJ (fls. 683-687).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso especial não se credencia a seguir rumo ao STJ, uma vez que incide na espécie a Súmula n. 7 do STJ (fls. 708-718).
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça da Paraíba em apelação nos autos de ação declaratória de nulidade de laudêmio, escritura pública de compra e venda de terreno c/c danos morais.
+O julgado foi assim ementado (fls. 586-587):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. PRELIMINARES DE NULIDADE DO PROCESSO. DEPOIMENTO PESSOAL DO AUTOR REQUERIDO, PORÉM NÃO COLHIDO. AUSÊNCIA DE MANIFESTAÇÃO DO JUÍZO. QUESTÕES CONTROVERTIDAS QUE NECESSITAM SER ESCLARECIDAS. VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. CERCEAMENTO DO DIREITO DE DEFESA VERIFICADO. PRECEDENTES DESTA CORTE. PERÍCIA GRAFOTÉCNICA REALIZADA. DIVERGÊNCIAS ENTRE ASSINATURAS COLHIDAS. OUTROS DOCUMENTOS ANEXADOS AOS AUTOS COM AS QUAIS NÃO SE ASSEMELHAM. QUESTÕES PROBLEMÁTICAS QUE NECESSITAM SER ESCLARECIDAS. PROVA NECESSÁRIA. MAGISTRADO DESTINATÁRIO. NULIDADE DECRETADA. RETORNO DOS AUTOS À ORIGEM. PROVIMENTO DO PRIMEIRO E DO SEGUNDO RECURSO.
+Constatada a irregularidade na fase instrutória, consistente na não apreciação de requerimento de produção de provas, há evidente ofensa aos princípios constitucionais da ampla defesa e do contraditório, sendo imperativa a nulidade da sentença e consequente retorno dos autos à origem.
+Verificando-se ser a prova pericial inconclusiva, a qual teve como parâmetro documento não original e assinaturas que divergem do próprio padrão utilizado pelo autor em outros documentos, é de se reconhecer a nulidade da prova pericial realizada nos autos, considerando-se ser o juiz o destinatário da prova.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 631-632):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. QUESTÕES PRELIMINARES ACOLHIDAS NO JULGADO. NULIDADE POR CERCEAMENTO DE DEFESA. APRECIAÇÃO DEVIDA DA MATÉRIA. DEPOIMENTO PESSOAL REQUERIDO. AUSÊNCIA DE VÍCIO. REJEIÇÃO.
+Os Embargos de Declaração, via de regra, prestam-se para o aperfeiçoamento das decisões judiciais, aclarando obscuridades que comprometam a adequada compreensão do julgado, desfazendo contradições entre as proposições que se encontram dentro da decisão ou suprindo omissões que, de fato, tornem incompleta a prestação jurisdicional.
+Constatada a irregularidade na fase instrutória, consistente na não apreciação de requerimento de produção de provas, há evidente ofensa aos princípios constitucionais da ampla defesa e do contraditório, sendo imperativa a nulidade da sentença e consequente retorno dos autos à origem.
+Ainda que os embargos de declaração tenham finalidade de prequestionamento, devem-se observar os lindes traçados no artigo de regência (obscuridade, contradição ou omissão), impondo-se sua rejeição quando tal não se verificam tais situações.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 5º, 357, V e § 1º, 278 do Código de Processo Civil, pois o acórdão não observou a estabilidade da decisão que saneou o feito para realização de audiência instrutória, compactuando com conduta processual contraditória e violadora da boa-fé, acolhendo preliminar nitidamente preclusa por ausência de qualquer manifestação prévia;
+b) 477, § 3º, do Código de Processo Civil, porquanto o acórdão ora combatido incorreu em equívoco ao acolher a preliminar de nulidade por cerceamento de direito de defesa suscitada pela parte recorrida quando da ausência de intimação do Perito Judicial para prestar esclarecimentos em audiência de instrução;
+c) 10 e 1.013 do Código de Processo Civil, pois a decisão proferida ainda declarou de ofício a nulidade de toda a prova pericial produzida na lide, sem, contudo, nunca ter sido postulada tal nulidade pelas partes, sendo violados a coisa julgada e o princípio da não surpresa.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando as preliminares de cerceamento de direito de defesa e determinando a remessa dos autos ao Tribunal de Justiça da Paraíba para que proceda o julgamento do mérito recursal.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não tem mínimas condições de admissibilidade, devendo ser inadmitido na origem ou desprovido por essa Corte superior (fls. 670-678).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de nulidade de laudêmio, escritura pública de compra e venda de terreno c/c danos morais em que a parte autora pleiteou a declaração de nulidade da venda do imóvel e da transferência do laudêmio, além de indenização por danos morais.
+Na sentença, o Juízo de primeiro grau julgou procedentes os pedidos principais para declarar a nulidade da venda do imóvel e da transferência do laudêmio, condenando os promovidos ao pagamento de indenização por danos morais no valor de R$ 40.000,00, e parcialmente procedente o pedido deduzido na reconvenção, condenando o autor a restituir valores à Pinheiro e Gonçalves Ltda. e José Lyndon Jonhson Braga, além de condenar José Lyndon Jonhson Braga a indenizar por benfeitorias úteis e necessárias realizadas no imóvel (fls. 588-589).
+A Corte estadual reformou a sentença, acolhendo as preliminares de nulidade do processo por cerceamento de defesa e nulidade da prova pericial, determinando o retorno dos autos ao Juízo de origem para reabertura da instrução processual (fls. 586-595).
+I - Arts. 5º, 357, V e § 1º, e 278 do Código de Processo Civil
+No recurso especial, o recorrente afirma que o acórdão não observou a estabilidade da decisão que saneou o feito para realização de audiência instrutória, compactuando com conduta processual contraditória e violadora da boa-fé, acolhendo preliminar nitidamente preclusa por ausência de qualquer manifestação prévia.
+A Corte estadual concluiu que houve cerceamento de defesa, pois o depoimento pessoal do autor, requerido por outra promovida, não foi realizado, configurando a nulidade processual.
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à estabilidade da decisão saneadora e à conduta processual contraditória foi devidamente analisada pela Corte estadual que concluiu que o depoimento pessoal do autor era imprescindível para o deslinde da controvérsia, não havendo vício que possa nulificar o acórdão recorrido.
+Confira-se trecho do acórdão recorrido (fl. 591):
+Nessa toada, vejo como imprescindível a colheita do depoimento pessoal do autor, restando presente o cerceamento do direito de defesa, diante do requerimento da produção da prova admitida na seara processual, e, não tendo o magistrado justificado o fato de deixar de coletar a prova, antes admitida, sobreveio pendência acerca de pontos fáticos controvertidos.
+Ademais, rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+II - Art. 477, § 3º, do Código de Processo Civil
+No recurso especial, o recorrente sustenta que o acórdão acolheu a preliminar de nulidade por cerceamento de direito de defesa suscitada pela parte recorrida quando da ausência de intimação do Perito Judicial para prestar esclarecimentos em audiência de instrução.
+A Corte estadual entendeu que a perícia grafotécnica realizada foi inconclusiva, reconhecendo a nulidade da prova pericial. No recurso especial, a parte alega que a intimação do perito para esclarecimentos em audiência não foi requerida, o que inviabiliza a nulidade da prova pericial.
+O Tribunal de origem analisando o acervo probatório dos autos concluiu que a perícia grafotécnica foi inconclusiva, pois as assinaturas colhidas não se identificam com a questionada, levando para o campo do subjetivismo.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na inconclusividade da perícia grafotécnica.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Arts. 10 e 1.013 do Código de Processo Civil
+No recurso especial, o recorrente afirma que a decisão proferida declarou de ofício a nulidade de toda a prova pericial produzida na lide, sem ter sido postulada tal nulidade pelas partes, violando a coisa julgada e o princípio da não surpresa.
+A Corte estadual concluiu que a nulidade da prova pericial foi reconhecida devido à inconclusividade da perícia grafotécnica.
+A questão relativa à alegada violação dos princípios da coisa julgada e da não surpresa foi decidida pelo Tribunal a quo com fundamento na análise da inconclusividade da perícia grafotécnica.
+Rever tal entendimento encontra óbice na incidência da Súmula n. 7 do STJ.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
