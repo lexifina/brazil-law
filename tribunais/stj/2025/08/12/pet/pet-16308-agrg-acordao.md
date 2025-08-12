@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. REVISÃO PERIÓDICA. AGRAVO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra a decisão em que se indeferiu pedido de revogação de medidas cautelares impostas no âmbito da "Operação Faroeste". O agravante alega a desnecessidade das medidas, apontando a falta de reavaliação periódica, a ausência de fatos atuais que justifiquem a manutenção das cautelares, o decurso de mais de 1.000 dias sem descumprimento das medidas e o fato de estar aposentado, o que eliminaria o risco de interferência.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se as medidas cautelares alternativas à prisão devem ser revistas periodicamente, conforme o art. 316 do Código de Processo Penal, e se a ausência de fatos contemporâneos justifica a revogação das medidas.
+III. RAZÕES DE DECIDIR
+3. A revisão periódica da prisão preventiva, prevista no art. 316, parágrafo único, do CPP, não é exigida em relação às medidas cautelares alternativas. A reavaliação deve ser objeto de pedido pela parte interessada e, tal como ocorre em relação à prisão, o transcurso de mais de 90 (noventa dias) sem a reavaliação não é causa automática de ilegalidade.
+4. A manutenção das medidas cautelares por período alongado é justificável pela complexidade do processo e pela necessidade de assegurar o vínculo do réu ao processo.
+5. A aposentadoria do agravante não elimina o risco de interferência, considerando, no caso concreto, o relevante papel desempenhado na trama criminosa.
+IV. DISPOSITIVO E TESE
+6. Agravo improvido.
+Tese de julgamento: "1 . A revisão periódica do art. 316 do CPP não se aplica a medidas cautelares alternativas à prisão. 2. O descumprimento do prazo de revisão não implica revogação automática das medidas cautelares. 3. A manutenção das medidas cautelares é justificada pela complexidade do processo e pela necessidade de assegurar o vínculo do réu ao processo."
+Dispositivos relevantes citados: CPP, art. 316; e CPP, art. 282.
+Jurisprudência relevante citada: STF, ADI 6581, Rel. Min. Edson Fachin, Rel. p/ Acórdão: Min. Alexandre de Moraes, Tribunal Pleno, julgado em 9.3.2022; e STJ, AgRg no HC 730.738/SP, Rel. Min. Olindo Menezes, Sexta Turma, julgado em 7.6.2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Sérgio Humberto de Quadros contra a decisão das fls. 39-45, em que se indeferiu o pedido de revogação das medidas cautelares que lhe foram impostas no âmbito da chamada "Operação Faroeste".
+O agravante busca a revisão da decisão, alegando que as medidas não são mais necessárias. Para tanto, aponta: a) falta de reavaliação periódica, conforme exige o art. 316 do Código de Processo Penal; b) ausência de fatos atuais que justifiquem a manutenção das cautelares; c) decurso de mais de 1.000 dias sem nenhuma intercorrência ou descumprimento das medidas; e d) aposentadoria do agravante, que não exerce mais função jurisdicional, eliminando o risco de interferência que justificava as medidas.
+O Ministério Público, por sua vez, manifestou-se às fls. 68-72 pelo desprovimento do agravo.
+É o relatório. DECIDO.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. REVISÃO PERIÓDICA. AGRAVO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra a decisão em que se indeferiu pedido de revogação de medidas cautelares impostas no âmbito da "Operação Faroeste". O agravante alega a desnecessidade das medidas, apontando a falta de reavaliação periódica, a ausência de fatos atuais que justifiquem a manutenção das cautelares, o decurso de mais de 1.000 dias sem descumprimento das medidas e o fato de estar aposentado, o que eliminaria o risco de interferência.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se as medidas cautelares alternativas à prisão devem ser revistas periodicamente, conforme o art. 316 do Código de Processo Penal, e se a ausência de fatos contemporâneos justifica a revogação das medidas.
+III. RAZÕES DE DECIDIR
+3. A revisão periódica da prisão preventiva, prevista no art. 316, parágrafo único, do CPP, não é exigida em relação às medidas cautelares alternativas. A reavaliação deve ser objeto de pedido pela parte interessada e, tal como ocorre em relação à prisão, o transcurso de mais de 90 (noventa dias) sem a reavaliação não é causa automática de ilegalidade.
+4. A manutenção das medidas cautelares por período alongado é justificável pela complexidade do processo e pela necessidade de assegurar o vínculo do réu ao processo.
+5. A aposentadoria do agravante não elimina o risco de interferência, considerando, no caso concreto, o relevante papel desempenhado na trama criminosa.
+IV. DISPOSITIVO E TESE
+6. Agravo improvido.
+Tese de julgamento: "1 . A revisão periódica do art. 316 do CPP não se aplica a medidas cautelares alternativas à prisão. 2. O descumprimento do prazo de revisão não implica revogação automática das medidas cautelares. 3. A manutenção das medidas cautelares é justificada pela complexidade do processo e pela necessidade de assegurar o vínculo do réu ao processo."
+Dispositivos relevantes citados: CPP, art. 316; e CPP, art. 282.
+Jurisprudência relevante citada: STF, ADI 6581, Rel. Min. Edson Fachin, Rel. p/ Acórdão: Min. Alexandre de Moraes, Tribunal Pleno, julgado em 9.3.2022; e STJ, AgRg no HC 730.738/SP, Rel. Min. Olindo Menezes, Sexta Turma, julgado em 7.6.2022.
+VOTO
+O agravo não merece provimento.
+O primeiro argumento do agravante é o de que a revisão das medidas cautelares alternativas à prisão exigiria reavaliação periódica, com base no art. 316 do Código de Processo Penal.
+No entanto, é importante destacar que o caso em análise não trata de prisão preventiva, mas sim de medidas cautelares alternativas.
+A própria literalidade do dispositivo invocado não deixa margem a dúvidas de que a revisão periódica tem aplicação restrita às hipóteses de prisão.
+Mesmo que esse argumento não fosse suficiente para afastar a tese do agravante, vale lembrar que, mesmo nos casos de prisão, o descumprimento do prazo de revisão não implica a revogação automática da medida, conforme entendimento do Supremo Tribunal Federal:
+ ..  3. A inobservância da reavaliação prevista no dispositivo impugnado, após decorrido o prazo legal de 90 (noventa) dias, não implica a revogação automática da prisão preventiva, devendo o juízo competente ser instado a reavaliar a legalidade e a atualidade de seus fundamentos. Precedente.  ..
+(ADI 6581, Relator(a): EDSON FACHIN, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 09-03-2022, PROCESSO ELETRÔNICO DJe-084 DIVULG 02-05-2022 PUBLIC 03-05-2022.)
+Na mesma toada, decidiu o Superior Tribunal de Justiça: " ..  3. Quanto ao cumprimento do art. 316, parágrafo único, do CPP, conforme a jurisprudência desta Corte Superior, o prazo de 90 dias para reavaliação dos fundamentos da prisão não é peremptório, motivo pelo qual eventual atraso na execução deste ato não implica no automático reconhecimento da ilegalidade da prisão, sendo que, no caso, houve a reavaliação da custódia em 17/1/2022 e em 31/1/2022, não havendo manifesta ilegalidade.  .. " (AgRg no HC n. 730.738/SP, relator Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 7/6/2022, DJe de 10/6/2022).
+Portanto, o primeiro argumento apresentado pelo agravante não se sustenta.
+O agravante também alega que não há fatos contemporâneos que justifiquem a manutenção da medida.
+Na decisão agravada, o alegado distanciamento temporal da decisão que estabeleceu as medidas cautelares com o atual estágio da ação penal foi tratado de forma exauriente. Rigorosamente, a decisão agravada traz as razões de fato que não recomendam uma avaliação puramente objetiva do decurso do tempo. Transcrevo o trecho que trata do tema:
+Verifico que o ponto central utilizado pela defesa do requerente é a ausência de contemporaneidade das medidas vigentes com os fatos . subjacentes dos processos criminais eis que decorridos mais de quatro anos. Agrega-se, ainda, fundamentos baseados na circunstância de que passados mais de quatro anos não sobreveio notícias de descumprimento das medidas.
+Os fundamentos levantados, contudo, não são suficientes para a revogação pretendida.
+Com efeito, cumpre fazer menção ao panorama das cautelares que foram impostas ao requerente SÉRGIO HUMBERTO DE QUADROS SAMPAIO, pois a perspectiva da longevidade das cautelares não pode ser vista de forma. Isolada.
+Nessa direção, não se olvida que, conforme o Expediente Avulso n. 08 encartado no PBAC 10, ainda no alvorecer do cumprimento de cautelares da denominada Operação Faroeste, houve pedido de decretação da prisão temporária do requerente que não foi acolhido, tendo em vista a viabilidade de aclarar a situação por meio de medidas menos gravosas, mais precisamente, pelo cumprimento de mandados de buscas. Ocorre que o requerente SÉRGIO HUMBERTO DE QUADROS SAMPAIO sequer foi localizado nos endereços daquele tempo conhecidos o que resultou na decretação de sua prisão temporária em 22/11/2019 para resguardo das investigações.
+Após, precisamente em 05/12/2019 na QO na PBAC 10 (fls. 988-986) foi decretada a prisão preventiva do ora requerente em decisão monocrática referendada pela Corte Especial à unanimidade.
+Rememore-se que, nesta condição, foram deflagradas 3 ações penais contra o SÉRGIO HUMBERTO DE QUADROS SAMPAIO, vinculadas à "Operação Faroeste".
+A prisão preventiva foi cumprida até o dia 26/02/2022, quando houve sua conversão em prisão domiciliar por força da decisão constante às fls. 34.560-34.569 da APn 940. É certo que, já nesta decisão, o requerente ficou submetido às cautelares que agora se insurge.
+Em 12/03/2024 a prisão domiciliar foi revogada, permanecendo as cautelares alternativas à prisão que até a presente data encontra-se vigentes: "i) a proibição de acessar as dependências do TJ/BA; ii) a proibição de comunicar se, por qualquer meio, ainda que por interposta pessoa, com outros investigados na Operação Faroeste, ou com servidores ou terceirizados do TJ/BA; iii) a proibição de ausentar-se da comarca de sua residência; e iv) a adoção da monitoração eletrônica por tornozeleira".
+Portanto, o que deve ficar às claras é que o atual regime de liberdade com cautelares é resultado de um abrandamento destas, embasado, dentre outros fatores, pelo decurso de tempo.
+Rigorosamente, as cautelares atuais, representam um mínimo de cuidado suscetível de ser estabelecido para vincular o réu ao processo e manter as fases vindouras das ações penais incólumes a interferências indesejadas.
+É exatamente neste contexto maior, acima reproduzido, que a nova análise do argumento defensivo de falta de contemporaneidade das cautelares vigentes com o tempo dos fatos deve ser colocado.
+Nessa perspectiva avalio que exposição feita pela defesa não é suficiente para o arrefecimento das cautelares impostas ao requerente.
+É importante esclarecer que a duração atípica das ações penais vinculadas à denominada Operação Faroeste, e naturalmente das cautelares vigentes, não decorre de inoperância ou letargia processual, senão de fatores inatos à complexidade dos processos envolvidos, dentre os quais (i) o grande número de acusados assistidos por defesas diversas; (ii) existência de um substancial acervo probatório, marcado pela existência de diversos tipos de provas, dentre os quais, análises de dados sigilosos bancários, fiscais e telefônicos, ações controladas, colaborações premiadas, perícias de arquivos de mídia etc; (iii) por uma diversidade de acusações e incidências penais; (iv) e, consequentemente, por inúmeras providências requeridas pelas defesas.
+Apenas para se ter uma mínima dimensão do que está a se expor destaco que SÉRGIO HUMBERTO DE QUADROS SAMPAIO responde a três ações penais, a saber, APn 940, APn 985 e APn 1.025.
+Desde a colocação do requerente em regime domiciliar, isto é, do dia até os dias atuais (38 meses), é possível contabilizar 26/02/2022 somente apenas nos processos principais, 51 despachos/decisões/acórdãos na APn 940 (média de 1,31 mês), 19 atos judiciais na APn 985 e mais 25 na APn 1025 (média de 2,5 despachos/decisões/acórdãos por mês). Ao lado de tais números ainda estão inúmeros outros atos judiciais prolatados em procedimentos acessórios, como o presente.
+Não custa rememorar que esses números compõem, em uma perspectiva mais ampla, apenas uma parte da denominada Operação Faroeste e, portanto, apenas um recorte do quantitativo de atos judiciais prolatados para fins de conduzir todos os processos.
+Quer se dizer com isso que, inobstante o decurso de tempo da decisão que implementou a monitoração eletrônica no requerente (por ocasião da prisão domiciliar), tal período não foi marcado pela ociosidade processual, senão pela necessidade de conduzir um processo deveras complexo.
+Com efeito, a simples análise linear do decurso de tempo, ao contrário do que sugere a defesa do requerente, não leva em consideração todos os aspectos acima elencados. Não reconheço, portanto, a existência de excesso de prazo na imposição das cautelares alternativas à prisão, pois inseridas em um processo marcado pela prolixidade.
+Nesse contexto, os argumentos do agravante não alteram o entendimento deste relator quanto à necessidade de manutenção das medidas cautelares, mesmo após um período prolongado de vigência.
+É importante destacar que o fato de o agravante alegar não ter violado as medidas durante esse tempo não afasta a necessidade de sua continuidade. A legislação processual penal não prevê nenhum benefício ou abrandamento das cautelares com base em seu cumprimento integral, que nada mais é do que dever.
+A imposição de medidas cautelares deve observar os critérios de necessidade, adequação e proporcionalidade, conforme o art. 282 do Código de Processo Penal. A análise dos critérios em questão foi realizada em todas as decisões anteriores que trataram do tema, desde aquela que decretou a prisão preventiva até a ora agravada.
+Além disso, ainda que o agravante alegue que, por estar aposentado compulsoriamente, não teria como influenciar processos em andamento, essa premissa não se sustenta diante do papel que ele desempenhou na trama criminosa revelada pela Operação Faroeste.
+Assim, o atual conjunto de medidas cautelares, como já registrado, representa o mínimo necessário para assegurar o vínculo do réu ao processo e garantir que as próximas fases das ações penais transcorram sem interferências indevidas.
+Diante do exposto, conheço do agravo interposto e, no mérito, NEGO-LHE PROVIMENTO.
+É como voto.
