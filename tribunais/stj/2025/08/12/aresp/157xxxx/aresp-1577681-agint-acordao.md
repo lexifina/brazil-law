@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NULIDADE DE PROVA PERICIAL. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Agravo interno interposto de decisão monocrática que não conheceu do recurso especial em razão da incidência da Súmula 7/STJ e da ausência de prequestionamento dos dispositivos legais tidos por violados.
+2. A parte agravante alega nulidade da prova pericial por deficiências e extrapolação dos limites técnicos, sustentando que a questão demanda apenas a apreciação jurídica dos fatos já estabelecidos, sem necessidade de reexame de provas.
+3. Embora a parte recorrente aponte suposta violação a dispositivos de natureza infraconstitucional, observa-se que a fundamentação adotada pelo acórdão recorrido foi alicerçada na análise do conjunto probatório constante dos autos, de modo que eventual modificação do julgado dependeria do reexame de elementos fáticos da controvérsia, providência incompatível com o recurso especial, nos termos da Súmula 7/STJ.
+4. Ausente o prequestionamento, porquanto o Tribunal de origem não se pronunciou sobre a matéria e não houve a interposição de embargos de declaração para suprir eventual omissão.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MPE MONTAGENS E PROJETOS ESPECIAIS S/A da decisão de fls. 1.679/1.686.
+Nas razões recursais, a parte recorrente alega que o cerne da controvérsia reside na nulidade de prova pericial deficiente e extrapolada em seus limites técnicos, matéria que não exigiria reexame de fatos, e sim valoração jurídica; e que os dispositivos legais invocados foram efetivamente discutidos no acórdão recorrido, evidenciando o prequestionamento necessário ao conhecimento do recurso (fls. 1.690/1.703).
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 1.704/1.736).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NULIDADE DE PROVA PERICIAL. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Agravo interno interposto de decisão monocrática que não conheceu do recurso especial em razão da incidência da Súmula 7/STJ e da ausência de prequestionamento dos dispositivos legais tidos por violados.
+2. A parte agravante alega nulidade da prova pericial por deficiências e extrapolação dos limites técnicos, sustentando que a questão demanda apenas a apreciação jurídica dos fatos já estabelecidos, sem necessidade de reexame de provas.
+3. Embora a parte recorrente aponte suposta violação a dispositivos de natureza infraconstitucional, observa-se que a fundamentação adotada pelo acórdão recorrido foi alicerçada na análise do conjunto probatório constante dos autos, de modo que eventual modificação do julgado dependeria do reexame de elementos fáticos da controvérsia, providência incompatível com o recurso especial, nos termos da Súmula 7/STJ.
+4. Ausente o prequestionamento, porquanto o Tribunal de origem não se pronunciou sobre a matéria e não houve a interposição de embargos de declaração para suprir eventual omissão.
+5. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece acolhimento.
+Ao apreciar o recurso especial interposto pela parte ora agravante, proferi a decisão monocrática ora agravada em que concluí que o recurso especial da parte ora agravante não merecia conhecimento em razão da incidência da Súmula 7/STJ e que, ainda que fosse superado esse óbice, o acórdão recorrido não decidiu a causa por meio da aplicação dos dispositivos legais tidos por violados, restando ausente o requisito do prequestionamento.
+A parte ora agravante, por sua vez, defende que a pretensão recursal está centrada na alegação de nulidade da prova pericial, por apresentar deficiências e ultrapassar os limites técnicos que lhe são próprios, tratando-se de questão que demanda apenas a apreciação jurídica dos fatos já estabelecidos, sem necessidade de reexame de fatos e provas. Além disso, sustenta que os dispositivos legais apontados como violados foram devidamente abordados no acórdão recorrido, o que demonstra o preenchimento do requisito do prequestionamento para fins de admissibilidade do recurso.
+Como se vê, em que pesem as alegações trazidas pela agravante, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada. Isso porque todos os pontos constantes do agravo interno já foram devidamente analisados e refutados fundamentadamente na decisão agravada.
+Reanalisando o caso, a incidência da Súmula 7/STJ fica confirmada em razão dos pontos fundamentais que embasaram o entendimento do Tribunal de origem, que compreendeu que os documentos e as provas dos autos não comprovam que os serviços foram prestados em razão do Contrato 5080027701, como alega a parte ora agravante, tal como fundamentado na decisão agravada.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. AÇÃO DE RITO ORDINÁRIO. PENSÃO POR MORTE. OMISSÃO E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. PRODUÇÃO DE PROVA PERICIAL. LIVRE CONVENCIMENTO MOTIVADO. PRECEDENTES. REQUISITOS PARA O DEFERIMENTO DO BENEFÍCIO. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 283 DO STF. REFORMA DO JULGADO. NECESSIDADE DE REEXAME DA PROVA E DO REGULAMENTO DO PLANO DE BENEFÍCIOS. ÓBICE DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em afronta aos arts. 489, § 1º, IV, e 1.022, II, ambos do CPC, tendo em conta que o Tribunal catarinense analisou, de forma clara e fundamentada, as questões relativas à fonte de custeio e ao pagamento da joia de inscrição de dependente beneficiário, ainda que em sentido contrário ao que defendido por ELOS.
+2. No caso, o acórdão recorrido foi claro e, fundamentadamente, concluiu que, com base nos arts. 12 e 13, ambos do regulamento do plano de benefícios, a agravada possui a condição de beneficiária por ser dependente do participante e que lhe foi dado oportunidade da opção de pagamento da joia, nos termos do próprio regulamento.
+3. Descabe falar em afronta aos arts. 371 e 479, ambos do CPC, tendo em conta que, nos termos do acórdão recorrido, o magistrado sentenciante, por meio do farto conjunto probatório constante dos autos, decidiu o processo de forma fundamentada, indicando precisamente as razões de decidir, exercendo seu livre convencimento motivado (art. 371 do CPC) e, por conseguinte, afastando qualquer possibilidade de anulação da sentença por falta de fundamentação. Assim, a conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice das Súmulas n. 5 e 7, ambas do STJ.
+4. Existindo argumento capaz de manter o acórdão impugnado por suas próprias pernas, não havendo o ataque específico a tal ponto, colhe-se a incidência, por analogia, da Súmula n. 283 do STF.
+5. Qualquer outra análise acerca dos requisitos para a pensão por morte, da forma como trazida no apelo nobre, seria inviável em virtude da imprescindível necessidade de reexame da prova e do regulamento do plano previdenciário, aqui obstada por força das Súmulas n. 5 e 7, ambas do STJ.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+(AgInt no REsp n. 2.157.766/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Dessa forma, confirmo que a decisão proferida na instância de origem fundamentou-se no conjunto fático-probatório dos autos, de modo que sua reavaliação implicaria, inevitavelmente, afronta ao impedimento previsto na Súmula 7/STJ.
+Quanto à ausência do requisito do prequestionamento, cumpre destacar que tal fundamento, além de ter sido expressamente consignado como reforço na decisão ora agravada, permanece presente no caso concreto, uma vez que o Tribunal de origem não se pronunciou, de fato, sobre a matéria e não houve a interposição de embargos de declaração com o objetivo de suprir eventual omissão nesse ponto.
+Não foram formulados, portanto, argumentos no agravo interno que fossem capazes de derruir os fundamentos da decisão agravada, razão pela qual não merece prosperar a pretensão recursal da parte agravante.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
