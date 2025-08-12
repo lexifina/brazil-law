@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ACÓRDÃO QUE AFASTA A LEGITIMIDADE ATIVA DA EXEQUENTE. LIMITAÇÃO SUBJETIVA, E NÃO TERRITORIAL. AFRONTA AO ART. 16 DA LACP. INEXISTÊNCIA.
+1. O Superior Tribunal de Justiça, no julgamento do REsp n. 1.243.887/PR - Tema 480 - firmou o entendimento de que: (i) o cumpri mento de sentença genérica proferida em ação civil pode ser proposto no foro do domicílio do beneficiário, desde que sejam observadas a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo; e (ii) a alteração do alcance de sentença em ação civil pública em sede de liquidação/execução individual ofende a coisa julgada.
+2. Não há falar em afronta ao art. 16 da Lei da ACP, porquanto o Tribunal de origem manteve a sentença que indeferiu a petição inicial e extinguiu o cumprimento de sentença em razão da ilegitimidade ativa da parte ora recorrente (restrição subjetiva), e não de limitação territorial.
+3. Caso em que o Tribunal de origem concluiu que somente os beneficiários do Estado de Sergipe estariam abrangidos pela sentença (ainda não transitada em julgado) proferida na ação civil pública. Com efeito, a modificação de tal determinação importaria em violação do comando da coisa julgada.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SANDRA REGINA BELEM MARTINS CHARRET contra decisão de minha lavra, em que neguei provimento ao recurso especial por considerar que não houve afronta ao comando do art. 16 da Lei n. 7.347/1985, porquanto inexistiu limitação territorial nos termos em que defendido no apelo nobre (e-STJ fls. 1.458/1.461).
+A agravante reitera a alegação de violação do art. 16 da Lei da Ação Civil Pública, segundo o qual não pode haver restrições territoriais quanto às sentenças coletivas que promovem o efeito erga omnes.
+Segundo defende, a repristinação da norma citada favorece a todos os aposentados ou pensionistas que tiveram incluído no Período Básico de Cálculo o mês de fevereiro de 1994, independentemente de limites territoriais, conforme orientação confirmada no julgamento do RE n. 1.101.937 (Tema 1.075 do STF) e no REsp n. 1.319.232/DF.
+Intimada, a parte agravada não formulou impugnação (e-STJ fl. 1.495).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ACÓRDÃO QUE AFASTA A LEGITIMIDADE ATIVA DA EXEQUENTE. LIMITAÇÃO SUBJETIVA, E NÃO TERRITORIAL. AFRONTA AO ART. 16 DA LACP. INEXISTÊNCIA.
+1. O Superior Tribunal de Justiça, no julgamento do REsp n. 1.243.887/PR - Tema 480 - firmou o entendimento de que: (i) o cumpri mento de sentença genérica proferida em ação civil pode ser proposto no foro do domicílio do beneficiário, desde que sejam observadas a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo; e (ii) a alteração do alcance de sentença em ação civil pública em sede de liquidação/execução individual ofende a coisa julgada.
+2. Não há falar em afronta ao art. 16 da Lei da ACP, porquanto o Tribunal de origem manteve a sentença que indeferiu a petição inicial e extinguiu o cumprimento de sentença em razão da ilegitimidade ativa da parte ora recorrente (restrição subjetiva), e não de limitação territorial.
+3. Caso em que o Tribunal de origem concluiu que somente os beneficiários do Estado de Sergipe estariam abrangidos pela sentença (ainda não transitada em julgado) proferida na ação civil pública. Com efeito, a modificação de tal determinação importaria em violação do comando da coisa julgada.
+4. Agravo interno desprovido.
+VOTO
+Como decidido no provimento ora atacado, a irresignação não merece acolhimento, porquanto esta Corte, no julgamento do REsp n. 1.243.887/PR, Tema 480, decidiu que:
+(i) o cumprimento de sentença genérica proferida em ação civil pode ser proposto no foro do domicílio do beneficiário, desde que sejam observadas a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo; e
+(ii) a alteração do alcance de sentença em ação civil pública em sede de liquidação/execução individual ofende a coisa julgada.
+O referido julgado foi ementado nos seguintes termos:
+DIREITO PROCESSUAL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C, CPC). DIREITOS METAINDIVIDUAIS. AÇÃO CIVIL PÚBLICA. APADECO X BANESTADO. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. IMPROPRIEDADE. REVISÃO JURISPRUDENCIAL. LIMITAÇÃO AOS ASSOCIADOS. INVIABILIDADE. OFENSA À COISA JULGADA.
+1. Para efeitos do art. 543-C do CPC: 1.1. A liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo (arts. 468, 472 e 474, CPC e 93 e 103, CDC).
+1.2. A sentença genérica proferida na ação civil coletiva ajuizada pela Apadeco, que condenou o Banestado ao pagamento dos chamados expurgos inflacionários sobre cadernetas de poupança, dispôs que seus efeitos alcançariam todos os poupadores da instituição financeira do Estado do Paraná. Por isso descabe a alteração do seu alcance em sede de liquidação/execução individual, sob pena de vulneração da coisa julgada. Assim, não se aplica ao caso a limitação contida no art. 2º-A, caput, da Lei n. 9.494/97.
+2. Ressalva de fundamentação do Ministro Teori Albino Zavascki.
+3. Recurso especial parcialmente conhecido e não provido.
+(REsp n. 1.243.887/PR, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe de 12/12/2011.)
+No caso dos autos, o Tribunal de origem manteve a sentença que indeferiu a petição inicial e extinguiu o cumprimento de sentença em razão da ilegitimidade ativa da parte ora recorrente, e não de limitação territorial (pela circunstância de a exequente ter domicílio fora do Estado de Sergipe).
+A propósito, veja-se o seguinte trecho do acórdão recorrido (e-STJ fl. 409):
+A questão devolvida pela apelação diz respeito ao suposto direito da autora de executar o título formado na Ação Civil Pública nº 2003.85.00.006907-8, ainda sem trânsito em julgado, mas onde já estaria firmado o direito coletivo à revisão dos benefícios previdenciários pelo Índice de Reajuste do Salário Mínimo (IRSM) sobre o salário de contribuição de fevereiro de 1994, mesmo sem domicílio no Estado do Sergipe.
+Conforme petição inicial da ação coletiva, o pleito encabeçado pelo Ministério Público Federal limitou a abrangência da demanda para que seus efeitos atingissem tão somente os beneficiários da circunscrição do Estado do Sergipe.
+Esta sétima turma, em casos da mesma origem, tem decidido pelo prosseguimento do cumprimento de sentença diante do trânsito em julgado de parte do decisum que reconheceu o direito à "revisão de todos os benefícios previdenciários cuja renda mensal inicial tiver sido ou houver de ser calculada computando-se o salário de contribuição referente à fevereiro de 1994, incluindo-se, na atualização deste o valor integral do IRSM, no percentual de 39,67%", ao menos quanto aos beneficiários que tiveram seus benefícios previdenciários concedidos no Estado de Sergipe, unidade da Federação na qual foi ajuizada a Ação Civil Pública nº 2003.85.00.006907-8, o que não é o caso dos autos. Neste sentido: PROCESSO Nº 08018031420234058500, DESEMBARGADOR FEDERAL FREDERICO WILDSON DA SILVA DANTAS, 7ª TURMA, JULGAMENTO: 15/08/2023.
+Assim, nego provimento à apelação.  Grifos no original
+Como visto, o Tribunal de origem concluiu que somente os beneficiários do Estado de Sergipe estariam abrangidos pela sentença (ainda não transitada em julgado) proferida na Ação Civil Pública n. 2003.85.00.006907-8. A modificação de tal determinação importaria em violação do comando da coisa julgada.
+Desse modo, não há falar em afronta ao art. 16 da Lei da ACP, porquanto não houve nenhuma restrição territorial no caso concreto, mas subjetiva.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
