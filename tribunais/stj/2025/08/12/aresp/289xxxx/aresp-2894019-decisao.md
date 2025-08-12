@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA ENERGÉTICA DE PERNAMBUCO contra decisão que inadmitiu recurso especial com fundamento na irregularidade da representação processual, em virtude da juntada de substabelecimento com assinatura digitalizada (fls. 304-305).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+É o relatório. Decido.
+De início, impõe-se ressaltar que o agravo em recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2 do STJ).
+Nas razões do agravo, a parte afirma que o vício de assinatura no instrumento de substabelecimento, o qual possui assinatura digitalizada, é sanável e que deve ser concedido prazo para correção, evitando-se o formalismo exacerbado que prejudica a análise do mérito do recurso.
+Defende a possibilidade de admissão do recurso especial já que a apresentação de substabelecimento sem assinatura de próprio punho seria um vício sanável, nos termos do art. 13 do CPC/1973, observado o princípio da instrumentalidade das formas.
+Não obstante a irresignação da agravante, o recurso não merece prosperar.
+Verifico que consta do recurso especial assinatura da advogada Maiara Raíssa Araújo Santos (OAB/PR n. 38.242), a qual recebeu poderes de representação por meio de substabelecimento em que constam assinaturas digitalizadas das advogadas substabelecentes, a saber, Michele Mota Lins Araújo e Renata Paz de Moura (fls. 256-287).
+A esse respeito, a jurisprudência do Superior Tribunal de Justiça, sob a égide do CPC/1973, firmou-se no sentido de ser inexistente o recurso direcionado ao STJ assinado por causídico substabelecido por documento com firma digitalizada, nos termos da Súmula n. 115 do STJ (aplicável por analogia).
+A propósito, confira-se os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INEXISTENTE. SUBSTABELECIMENTO. DOCUMENTO COM ASSINATURA DIGITALIZADA. DECISÃO MANTIDA.
+1. Dos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016), devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2/STJ).
+2. A jurisprudência desta Corte Superior, sob a égide do CPC/1973, consolidou-se no sentido de ser inexistente o recurso direcionado ao STJ assinado por causídico substabelecido por documento com firma digitalizada, nos termos da Súmula n. 115/STJ - aplicável por analogia -, não sendo esse vício passível de correção em sede de recursos excepcionais. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.024.725/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/10/2019, DJe de 16/10/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. SUBSTABELECIMENTO DE PODERES SEM ASSINATURA E COM ASSINATURAS DIGITALIZADAS. VÍCIO INSANÁVEL. CONSONÂNCIA DA DECISÃO AGRAVADA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO JULGADO CONFORME ENUNCIADO ADMINISTRATIVO N. 2/STJ. INCIDÊNCIA DA SÚMULA 115 DO STJ. INAPLICABILIDADE DO ART. 13 DO CPC/1973. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp n. 1.033.125/PE, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/5/2018, DJe de 18/5/2018.)
+Além do mais, tal deficiência, na via dos recursos excepcionais, constitui, consoante jurisprudência do STJ, vício insanável da petição recursal, não se aplicando a norma inscrita no art. 13 do CPC/1973. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO. NÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria se manifestar o juiz ou o tribunal, o que não se vislumbra no presente caso.
+3. Constou expressamente no acórdão embargado que a mera inserção de imagem digitalizada em determinado documento não confere nenhuma garantia quanto à sua autenticidade. Invalidade do substabelecimento que conferiu poderes à advogada subscritora do apelo nobre, em virtude da existência de assinatura digitalizada.
+4. A jurisprudência desta Corte firmou o entendimento de que, na vigência do CPC/73, a ausência de assinatura obsta o conhecimento dos recursos dirigidos a este Tribunal, sendo inaplicável o disposto no art. 13 do CPC/73.
+5. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AREsp n. 648.211/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/8/2017, DJe de 6/9/2017.)
+Portanto, uma vez identificado vício de representação insanável, em virtude da juntada de substabelecimento com assinatura digitalizada, é caso de aplicação, por analogia, da Súmula n. 115 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
