@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre o JUÍZO DA 2ª VARA DO TRABALHO DE ARAGUAINA - TO, suscitante, e o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE ARAGUAINA - TO, suscitado.
+Ação: exigir contas proposta por CONSTRUTORA & LOCAÇÃO LTDA. em face de AMARILDO SAMPAIO, tendo em vista o descumprimento de contrato de mútuo celebrado entre as partes. (e-STJ fls. 320-228)
+Manifestação da Justiça Comum Estadual: afirmou que a demanda tem como fundamento vínculo jurídico de natureza trabalhista entre as partes, matéria afeta à competência da justiça especializada e declinou da competência.
+Manifestação da Justiça Laboral: suscitou o presente conflito de competência, sob a alegação de que a causa de pedir decorre de relação extracontratual.
+Parecer do MPF: opinou pela competência do juízo comum estadual.
+RELATADO O PROCESSO, DECIDE-SE.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+Observa-se, inicialmente, que a competência para julgamento da demanda é fixada a partir da causa de pedir e do pedido deduzidos em juízo, conforme definidos na petição inicial, na contestação e nos atos posteriores.
+Na hipótese, narra a empresa autora, na inicial, que foi contratada pelas Linhas de Xingu Transmissora de Energia S/A para a execução de serviços de desmatamento, abertura de caminhos de acesso e construção civil, e que celebrou com o réu contrato de mútuo a fim de receber o aporte financeiro para a execução dos referidos serviços.
+Afirma que incumbiu o réu da gestão financeira da obra, conferindo-lhe, inclusive, procuração com poderes para negociar, pagar e contratar com a empresa Linhas de Xingu Transmissora de Energia S/A, e que o valor emprestado seria restituído após a respectiva prestação de contas dos serviços de construção civil ao término da obra.
+Acrescenta que o réu lhe exigiu garantia da restituição do valor emprestado, ocasião em que emitiu cheque - posteriormente substituído por nota promissória. Acentua que, "quando da celebração do contrato verbal de mútuo, as partes acordaram que a restituição seria condicionada a prestação de contas, o que não ocorreu" (e-STJ fl. 326), de modo que deve ser aplicada a exceção de contrato não cumprido, prevista no art. 476 do Código Civil. Pleiteia, assim, que o réu apresente relatório detalhado dos valores administrados no período em que geriu financeiramente a obra.
+Como se observa, embora a parte autora faça menção à existência de vínculo de emprego entre as partes, verifica-se que não há qualquer debate de conduta diretamente dele oriunda . Na verdade, o pedido e a causa de pedir se fundam, essencialmente, em relação de natureza cível, contrato verbal de mútuo e o seu descumprimento.
+Com efeito, consoante consignado pelo Juízo Laboral, "verifica-se que as causas de pedir referentes à exigência de contas, conforme petição inicial  ..  não decorrem do contrato de trabalho havido entre as partes, mas em razão de relações extracontratuais, como um contrato verbal de mútuo alegado na petição inicial, estranho ao contrato de trabalho; uma procuração outorgada pela parte autora ao réu antes do início do contrato de emprego, em 15/06/2011  .. ; notas fiscais de serviços (fls. 382, 384 do PDF - muitas das quais possuem datas anteriores ao início do contrato de trabalho (11/07/2011 e 02/08/2011) e posteriores ao término do contrato de trabalho; assim como planilhas de medição de serviços que também se referem a períodos distintos do contrato de trabalho havido entre as partes" (e-STJ fl. 4.641).
+Assim, os fatos narrados não derivam de relação empregatícia, de modo que sobressai, na hipótese, a incompetência da Justiça Laboral para o julgamento da demanda.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA TRABALHISTA E JUSTIÇA COMUM ESTADUAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. OBRIGAÇÃO DE NATUREZA CIVIL NÃO ALBERGADA PELA RELAÇÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A ação de indenização por danos materiais entre empregado e empregador, quando não relacionada ao contrato de trabalho, é de natureza civil, e cabe ser processada e julgada perante a Justiça Estadual.
+2. Agravo interno no conflito de competência não provido. (AgInt no CC 146.894/RJ, SEGUNDA SEÇÃO, DJe de 4/11/2016; sem grifo no original)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO DE TRABALHO NÃO ALEGADA. OFENSAS MORAIS IRROGADAS POR PROPRIETÁRIO DE EMPRESA PARA A QUAL A AUTORA PRESTOU SERVIÇOS. CAUSA DE PEDIR. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL.
+1. Compete à Justiça Comum Estadual processar e julgar ação de indenização por danos morais, na hipótese em que a autora da ação afirma ter sido ofendida moralmente por proprietário de empresa para a qual prestou serviços, em período posterior à prestação dos serviços e fora das dependências da empresa.
+2. A demanda deriva de relação jurídica de cunho eminentemente civil, porquanto a causa de pedir e o pedido deduzidos na exordial não se referem à existência de relação de trabalho entre as partes.
+3. Conflito conhecido para declarar competente a Justiça Comum Estadual. (CC 126.216/SP, SEGUNDA SEÇÃO, DJe de 29/4/2013; sem grifo no original )
+Forte nessas razões, conheço do conflito e declaro competente o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE ARAGUAINA - TO.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA TRABALHISTA. AÇÃO DE EXIGIR CONTAS. CAUSA DE PEDIR QUE NÃO ENVOLVE RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Compete à Justiça Comum Estadual julgar ação cuja causa de pedir não se refira a atos praticados no âmbito das relações trabalhista e processual trabalhista, como na hipótese.
+2. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE ARAGUAINA - TO.
