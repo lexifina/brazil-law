@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO RELATIVA. HIPOSSUFICIÊNCIA AFASTADA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. NULIDADE DA INTIMAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+1. Nos termos da jurisprudência pacífica do STJ, há presunção juris tantum de que a pessoa física que pleiteia o benefício da assistência judiciária gratuita não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção relativa pode ser afastada pelo magistrado quando encontrar, nos autos, elementos que evidenciem a ausência dos pressupostos para a concessão do benefício. Precedentes.
+2. Modificar as conclusões do Tribunal de origem, acerca da concessão do benefício da justiça gratuita, requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+3. A ausência de prequestionamento dos dispositivos legais invocados impede sua análise em recurso especial. Incidência da Súmula n. 211/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por JANAINA TORRES MELO MEIRA e ALAN MEIRA DE SOUZA contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial nos termos da seguinte ementa (fl. 887):
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. GRATUIDADE JUSTIÇA. INDEFERIMENTO. REVISÃO. SÚMULA 7 /STJ. NULIDADE. DECISÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 558):
+EMENTA: AGRAVO INTERNO EM MANDADO DE SEGURANÇA. GRATUIDADE DA JUSTIÇA. PESSOA FÍSICA. INDEFERIMENTO DA BENESSE. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O benefício da gratuidade da justiça só pode ser concedido àquele que comprove que a sua situação econômica não lhe permite arcar com as despesas processuais, sem prejuízo do seu próprio sustento ou de sua família, nos termos do artigo 5º, inciso LXXIV, da Constituição Federal.
+2. A presunção acerca do estado de pobreza da pessoa natural tem natureza relativa, estando o julgador autorizado a indeferir o pleito de gratuidade judiciária, se não encontrar elementos que comprovem a hipossuficiência do interessado.
+3. O agravo interno deve ser desprovido quando a matéria nele versada tiver sido suficientemente analisada na decisão recorrida, e o agravante não apresentar elementos capazes de motivarem sua reconsideração ou justificarem sua reforma. Inteligência do artigo 1.021 do Código de Processo Civil.
+4. AGRAVO INTERNO CONHECIDO, MAS DESPROVIDO.
+Sem embargos de declaração.
+Os agravantes alegam, nas razões do agravo interno, a não incidência da Súmula n. 7/STJ. Sustentam, outrossim, que "a análise das questões levantadas relativas à violação aos arts. 7º, 10, 98, VIII, 99 e 230 do CPC, e do dissenso jurisprudencial possuem cunho iminentemente jurídico, cuja constatação é possível pela própria leitura dos acórdãos proferidos pelos órgãos julgadores do TJGO" (fl. 910).
+Requerem, ainda, que seja reconhecida a nulidade da intimação e dos atos posteriores praticados em razão da ausência de publicação no DJe do nome de uma das advogadas constituídas. Aduzem que a nulidade da intimação é matéria de ordem pública e pode ser reconhecida em qualquer tempo e grau de jurisdição.
+A agravada apresentou contraminuta à fl. 925.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO RELATIVA. HIPOSSUFICIÊNCIA AFASTADA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. NULIDADE DA INTIMAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+1. Nos termos da jurisprudência pacífica do STJ, há presunção juris tantum de que a pessoa física que pleiteia o benefício da assistência judiciária gratuita não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção relativa pode ser afastada pelo magistrado quando encontrar, nos autos, elementos que evidenciem a ausência dos pressupostos para a concessão do benefício. Precedentes.
+2. Modificar as conclusões do Tribunal de origem, acerca da concessão do benefício da justiça gratuita, requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+3. A ausência de prequestionamento dos dispositivos legais invocados impede sua análise em recurso especial. Incidência da Súmula n. 211/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Nos termos da jurisprudência pacífica do STJ, "Há presunção juris tantum de que a pessoa física que pleiteia o benefício da assistência judiciária gratuita não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção relativa pode ser afastada pelo magistrado quando encontrar, nos autos, elementos que evidenciem a ausência dos pressupostos para a concessão do benefício (CPC/2015, art. 99, §§ 2º e 3º)". (AgInt no REsp n. 2.126.791/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/11/2024, DJe de 29/11/2024.)
+No caso, o Tribunal a quo negou o pleito de justiça gratuita, sob o fundamento de que "no caso em comento, os elementos fáticos constantes dos autos não são suficientes para comprovar que o pagamento dos encargos processuais prejudicariam o sustento da recorrente, uma vez que ela possui, sim, condição econômica compatível com o pagamento das custas iniciais. Nesse ponto, é importante ressaltar que a parte agravante não demonstrou a ausência de condições financeiras para arcar com os custos do processo" (fl. 555).
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+A propósito, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA AFASTADA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, para fins de concessão dos benefícios da justiça gratuita, "há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo sem comprometer o próprio sustento ou de sua família, podendo o magistrado indeferir o requerimento se encontrar elementos que infirmem a alegada hipossuficiência" (AgInt no AgInt no AREsp n. 1.957.963/SP, Relator o Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022). Incidência da Súmula 83/STJ.
+2. Inviável alterar o entendimento a que chegou o colegiado local, acerca dos requisitos autorizadores da concessão de gratuidade de justiça, sem que se proceda ao reexame do substrato fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.584.382/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. PRECEDENTES. AUSÊNCIA DE COMPROVAÇÃO DA MISERABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte de Uniformização, é relativa a presunção de hipossuficiência da pessoa física, podendo o magistrado indeferir o pedido de gratuidade de justiça caso encontre elementos que infirmem a miserabilidade do requerente.
+2. Modificar o entendimento do Tribunal local, acerca dos requisitos para concessão dos benefícios da justiça gratuita, incorrerá em reexame de matéria fáticoprobatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Consoante dispõe a Segunda Seção do STJ, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração.
+4. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.570.750/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/10/2024, DJe de 5/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. INEXISTÊNCIA DE HIPOSSUFICIÊNCIA FINANCEIRA. REEXAME. INVIABILIDADE. ÓBICE DA SÚMULA N. 7/STJ.
+1. A autodeclaração de hipossuficiência, realizada por quem pretende ser beneficiário da justiça gratuita, possui caráter relativo, admitindo-se a denegação, pelo juízo competente, diante de provas dos autos em sentido contrário. Nesse sentido: AgInt no AREsp n. 915.526/MT, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/9/2016, DJe 5/10/2016)
+2. Aferir a condição de hipossuficiência ou de não hipossuficiência da parte recorrente demandaria o reexame de todo o contexto fático-probatório dos autos, o que é vedado a este Tribunal em vista do óbice da Súmula n. 7 do STJ.
+Agravo interno não provido
+(AgInt no AREsp n. 2.597.064/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Por fim, quanto à alegação de nulidade da intimação, observa-se que o Tribunal de origem não analisou, sequer implicitamente, a referida tese.
+Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência da Súmula 211/STJ. O requisito do prequestionamento pressupõe tenha havido na instância ordinária o debate da tese jurídica sob o enfoque da legislação federal invocada, com emissão de juízo de valor, não bastando a simples menção a dispositivo legal para que esse requisito de admissibilidade seja considerado cumprido (AgInt no AREsp n. 1.017.857/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3 /2017)
+No mesmo sentido, cito o seguinte precedente:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. INADIMPLEMENTO CONTRATUAL. LUCROS CESSANTES. CABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. SÚMULA Nº 211 /STJ. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. INVIABILIDADE. SÚMULAS Nº 5 E Nº 7 /STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Ausente o prequestionamento de dispositivos apontados como violados no recurso especial, sequer de modo implícito, incide o disposto na Súmula nº 282/STF.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+4. A reforma do julgado demandaria interpretação de cláusulas contratuais e reexame do contexto fáticoprobatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nº 5 e nº 7/STJ.
+5. No caso de descumprimento do prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal. Precedentes. 6. Recurso especial parcialmente conhecido e não provido. (REsp n. 2.110.977/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2025, DJEN de 5/3/2025.)
+Ressalta-se que, consoante o entendimento desta Corte, mesmo as matérias de ordem pública exigem prequestionamento. Confira-se:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. COMPRA E VENDA. IMÓVEL. OBRA. ATRASO. JUROS DA OBRA. RESTITUIÇÃO. LEGITIMIDADE PASSIVA. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7/STJ. LITISCONSÓRCIO NECESSÁRIO. ORDEM PÚBLICA. PREQUESTIONAMENTO. INDISPENSABILIDADE. AUSÊNCIA. SÚMULA Nº 282/STF. DANO MORAL. CIRCUNSTÂNCIAS EXCEPCIONAIS. ABALO. PROVA. NECESSIDADE. CASO CONCRETO. INEXISTÊNCIA.
+1. A controvérsia dos autos resume-se em definir se: a recorrente é parte legítima para responder pela restituição dos "juros da obra"; há litisconsórcio passivo necessário com a Caixa Econômica Federal; e o atraso na entrega do imóvel acarretou dano moral aos recorridos.
+2. No caso, rever a conclusão da Corte de origem acerca da legitimidade passiva da recorrente quanto à restituição dos juros de obra demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+3. Ausente o prequestionamento, exigido até mesmo de questões de ordem pública, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. A jurisprudência desta Corte se firmou no sentido de que o mero atraso na entrega da obra não causa, por si só, dano moral, sendo necessária a presença de circunstâncias excepcionais que demonstrem o abalo psíquico, as quais não foram evidenciadas na espécie. Precedentes.
+5. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+(REsp n. 2.181.837/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2025, DJEN de 5/3/2025.)
+Assim, apesar do esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
