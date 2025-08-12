@@ -1,0 +1,31 @@
+DECISÃO
+WALLACE KAUAN DE OLIVEIRA BERNARDO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2076975-58.2025.8.26.0000 .
+Em suas razões, a defesa sustenta, em síntese, que a decisão que decretou a prisão preventiva do paciente - acusado da prática do delito de tráfico de drogas - seria carente de fundamentação idônea.
+Aduz que o decreto prisional é desarrazoado, porque foi apreendida pequena quantidade de entorpecentes e o réu ostenta condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a revogação da custódia cautelar do acusado.
+Deferida a liminar (fls. 54-57) e prestadas as informações (fls. 87-91 e 92-96), foram os autos ao Ministério Público Federal que, em parecer do Subprocurador-Geral da República José Augusto Torres Potiguar, opinou pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício, para substituir a prisão preventiva por medidas cautelares alternativas (fls. 103-108).
+Decido.
+O paciente foi surpreendido, no dia 16/3/2025, na posse de 20,22 g de cocaína e 6,02 g de maconha. O Juízo de primeira instância converteu a prisão em flagrante em preventiva ao ressaltar o seguinte (fls. 42-43, grifei ):
+3.3. No caso, a prisão preventiva é legítima, nos termos do art. 313, I, do CPP, uma vez que o delito imputado é doloso e apresenta pena privativa de liberdade superior a 04 anos.
+3.4. Ademais, no caso em análise, efetivamente, se faz imprescindível, para a manutenção da ordem pública.
+O averiguado foi apreendido, em tese, com considerável quantidade de entorpecentes nomeadamente, de 20,22g de cocaína e 6,02g de maconha e em situação que evidencia à traficância.
+Nesse sentido, a própria forma de fracionamento evidencia a desproporcionalidade da quantidade de droga, evidenciam que a droga se destinava a terceiros.
+Note-se, portanto, que a quantidade de entorpecentes e a situação de apreensão revelam a gravidade concreta, a existência de periculum libertatis e a necessidade de acautelamento da situação, por meio da segregação cautelar do indiciado, sob o fundamento de garantia da ordem pública
+ ..
+Não bastasse, o averiguado foi apreendida com três motocicletas, todas produtos de fruto, o que demonstra a não somente a reiteração da suposta prática do delito, mas, sobretudo, que outras medidas cautelares, não são suficientes ao acautelamento da situação.
+O Tribunal de origem ratificou a decisão de primeiro grau.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, do CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Sob essas premissas, verifico que, embora, por um lado, a decisão impugnada pudesse conter elementos mais robustos a indicar a necessidade da restrição da liberdade do paciente - o que se mostraria consentâneo com a sólida jurisprudência desta Corte, notadamente com o que tenho externado em outros casos (v. g., RHC n. 61.356/MG, DJe 6/11/2015) -, não há como perder de vista, por outro lado, que o Magistrado de primeiro grau fundamentou a segregação ao mencionar a gravidade concreta da conduta, ao fazer menção à quantidade de drogas apreendidas (20,22 g de cocaína e 6,02 g de maconha), acompanhadas de três motocicletas furtadas.
+Tais circunstâncias, na compreensão do Juiz de primeiro grau, evidenciariam a dedicação do acusado ao tráfico de entorpecentes e a necessidade de manutenção da custódia cautelar para o bem da ordem pública.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao acusado - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado, notadamente porque se trata de réu primário e a quantidade de drogas apreendidas (20,22 g de cocaína e 6,02 g de maconha) não é suficiente para, por si só, justificar a medida extrema.
+Além disso, o crime em tese cometido não envolve violência ou grave ameaça a pessoa e não há notícias de que o paciente possa interferir na instrução criminal ou evadir-se do distrito da culpa.
+À vista do exposto, ratifico a liminar deferida e concedo a ordem para, à luz das peculiaridades do caso concreto, substituir a prisão preventiva do acusado pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades; e
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução.
+Alerte-se ao paciente que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+As medidas cautelares ora impostas poderão ser, a qualquer tempo, modificadas ou adaptadas, justificadamente, pela autoridade judiciária responsável pelo processo em curso no primeiro grau de jurisdição.
+Publique-se e intimem-se.
+EMENTA
