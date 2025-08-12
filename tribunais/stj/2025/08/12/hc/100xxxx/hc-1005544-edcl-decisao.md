@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CLÓVIS MONTEZZI em face da decisão que julgou prejudicado o presente habeas corpus, com o fundamento na perda superveniente de objeto (e-STJ fls. 176/179).
+Em síntese, a decisão embargada considerou que, tendo sido regularizada a intimação dos advogados devidamente constituídos e reaberto o prazo recursal, restou sanado o vício anteriormente apontado, o que afastou o alegado constrangimento ilegal indicado pela defesa.
+Nos embargos, sustenta a defesa que a decisão e-STJ fls. 176/170 incorreu em omissão, por não ter apreciado de forma autônoma o pedido de expedição de alvará de soltura, formulado cumulativamente com a pretensão de reconhecimento da nulidade da intimação e dos atos subsequentes.
+Alega que, mesmo superado o vício processual, subsiste o constrangimento ilegal à liberdade de locomoção do paciente, razão pela qual o pleito de soltura merece apreciação independente (e-STJ fls. 185/189).
+É o relatório.
+Decido.
+Razão não assiste ao embargante.
+Conforme se depreende da leitura da decisão embargada, o próprio Tribunal de origem reconheceu a existência de irregularidade na intimação dos advogados regularmente constituídos, o que ensejou a correção do vício processual e possibilitou a interposição do recurso cabível, exatamente nos termos pleiteados pela defesa.
+Com efeito, o pedido de liberdade estava intrinsecamente vinculado ao reconhecimento da nulidade da intimação dos advogados constituídos e, por consequência, da certificação do trânsito em julgado da condenação. Assim, à luz dos pedidos formulados na inicial (e-STJ fl. 13), não era possível acolher o pleito de soltura sem o prévio reconhecimento da nulidade processual, o que evidencia a existência de clara relação de prejudicialidade entre os pedidos formulados na impetração.
+Dessa forma, não se verifica omissão na decisão embargada, mas sim a inexistência de necessidade de exame autônomo do pedido de liberdade, diante da perda superveniente de objeto do writ. É dizer, a decisão apreciou de forma coerente o núcleo da impetração, centrado na alegação de nulidade processual que, em tese, repercutiria sobre a liberdade do paciente.
+Ressalte-se, ademais, que a atual situação prisional do embargante decorre de decisão proferida no âmbito da ação penal originária, razão pela qual eventual reavaliação acerca da legalidade ou da necessidade da custódia deve, inicialmente, ser submetida ao juízo de origem.
+Assim, uma vez superado o vício de intimação, que constituía o fundamento central da impetração, eventual pleito de liberdade, agora dissociado da alegada nulidade, deve ser direcionado à instância ordinária, à qual compete, com prioridade, examinar os elementos fáticos e jurídicos que justifiquem a manutenção ou a revogação da prisão. A apreciação de tal pedido por esta Corte, neste momento processual, configuraria indevida supressão de instância.
+Ante o exposto, rejeito os embargos de declaração, reafirmando-se que, uma vez sanado o vício de intimação pelo próprio Tribunal de origem, eventuais pedidos supervenientes de liberdade devem ser dirigidos à instância competente, sob pena de indevida supressão de instância.
+Publique-se. Intimem-se.
+EMENTA
