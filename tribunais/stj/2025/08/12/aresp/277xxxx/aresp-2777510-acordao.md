@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO. DEMORA NO ATENDIMENTO. ERRO MÉDICO. INEXISTÊNCIA. PRETENSÃO RECURSAL QUE ENVOLV E O REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+2. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por EMILSON DA SILVA (EMILSON) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado:
+APELAÇÃO CÍVEL INTERPOSTA PELO RÉU. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE ERRO MÉDICO. SENTENÇA DE PARCIAL PROCEDÊNCIA. PRETENSÃO INDENIZATÓRIA DEDUZIDA COM FUNDAMENTO EM ERRO MÉDICO POR OCASIÃO DO ATENDIMENTO PRESTADO PELO HOSPITAL RÉU. ALEGAÇÃO DE NEGLIGÊNCIA, IMPERÍCIA E IMPRUDÊNCIA DOS FUNCIONÁRIOS DO RÉU. CONJUNTO PROBATÓRIO QUE EVIDENCIOU A INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DOS SERVIÇOS MÉDICOS E HOSPITALARES. PROVA PERICIAL E ORAL QUE BEM ESCLARECERAM QUE O ATENDIMENTO E PROCEDIMENTOS REALIZADOS FORAM ADEQUADOS PARA O CASO. ATENDIMENTO QUE SE DEU NO ÂMBITO DE PRONTO SOCORRO APÓS ESMAGAMENTO DE MÃO COM FRATURA EXPOSTA. SERVIÇO PRESTADO DE ACORDO COM A SITUAÇÃO EMERGENCIAL APRESENTADA. QUESTÃO AFETA À FALTA DE INFORMAÇÕES AO AUTOR E FAMILIARES (QUE SEQUER FAZEM PARTE DO POLO ATIVO DA AÇÃO) SOBRE ALIMENTAÇÃO FORNECIDA NA UTI E QUESTIONAMENTO ACERCA DA DEMORA DE 24 HORAS PARA A REALIZAÇÃO DE CIRURGIA E FALTA DE INFORMAÇÕES ACERCA DA ANESTESIA GERAL QUE SEQUER FOI OBJETO DE INSURGÊNCIA NA PETIÇÃO INICIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE A DIETA FORNECIDA POR OCASIÃO DO INTERNAMENTO NA UTI E AS ANESTESIAS REALIZADAS TENHAM DE FATO PREJUDICADO O AUTOR A ENSEJAR ERRO MÉDICO OU FALHA NA PRESTAÇÃO DOS SERVIÇOS. PERÍCIA CONCLUSIVA NO SENTIDO DE QUE A DEMORA NA REALIZAÇÃO DA CIRURGIA NÃO TROUXE PREJUÍZOS AO AUTOR POSTO QUE NÃO ERA DE EMERGÊNCIA E PODERIA SER PROGRAMADA PARA SER REALIZADA APÓS COMPENSAÇÃO CLÍNICA E PROVIDÊNCIAS DE MATERIAIS ADEQUADOS. PERÍCIA JUDICIAL QUE ATESTOU QUE DEMORA DE MAIS DE SETE HORAS PARA A REALIZAÇÃO DA LIMPEZA E SUTURA DO FERIMENTO NÃO ACARRETOU NA EVOLUÇÃO PARA QUADRO DE INFECÇÃO E QUE EVENTUAIS SEQUELAS DA LESÃO NÃO DECORRERAM DA DEMORA. PROVA ORAL E PERICIAL QUE RESTOU CONCLUSIVA NO SENTIDO DE QUE O ATENDIMENTO DISPENSADO FOI REGULAR E CORRETO. DEVER DE INDENIZAR INEXISTENTE. SENTENÇA REFORMADA. CONDENAÇÃO DO AUTOR AOS ÔNUS SUCUMBENCIAIS. RECURSO CONHECIDO E PROVIDO. APELAÇÃO CÍVEL INTERPOSTA PELO AUTOR. PRETENSÃO DE MAJORAÇÃO DA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PARA O PERCENTUAL MÁXIMO PREVISTO NO ART. 85, § 2º DO CPC. PREJUDICADO EM RAZÃO DO ACOLHIMENTO DO APELO INTERPOSTO PELA RÉ. (e-STJ, fls. 866/867)
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO. DEMORA NO ATENDIMENTO. ERRO MÉDICO. INEXISTÊNCIA. PRETENSÃO RECURSAL QUE ENVOLV E O REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+2. Agravo desprovido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, EMILSON alegou a violação dos arts. 186 e 927 do Código Civil e 14 do Código de Defesa do Consumidor, ao sustentar que, havendo responsabilidade do hospital, o dever de indenizar independe da demonstração de culpa, mas tão somente do nexo causal entre a conduta (que pode ser omissiva ou comissiva) e o resultado danoso, tendo comprovado, no caso, a má prestação dos serviços, pois ingressou no estabelecimento hospitalar com ferimento grave, tendo ficado 7 horas sem curativo, sem lavagem da lesão e sem sutura de ferimento cortante, desde a abordagem do pronto-socorro a ortopedia. Menciona dissídio.
+Da responsabilidade
+A questão foi assim esclarecida pela Turma julgadora:
+Quanto à demora para a realização da cirurgia, tal qual já asseverado, não há na petição inicial qualquer questionamento. Ainda que assim não fosse, o perito judicial informou que a cirurgia não era de emergência e poderia ser programada para ser realizada após compensação clínica e providências de materiais adequados.
+ ..
+Por fim, no que tange à demora de mais de sete horas para a realização da limpeza e sutura do ferimento, embora o perito judicial tenha afirmado que houve demora injustificada no atendimento médico hospitalar destinado à limpeza e curativo da lesão, foi categórico em afirmar que não houve evolução para quadro de infecção e que eventuais sequelas da lesão não decorreram da demora e que não pode afirmar que tal retardamento tenha causado agravamento no quadro de saúde do autor.
+ ..
+Assim, a partir da prova oral e pericial, ficou evidenciado que a autora recebeu o tratamento adequado pelos réus, inexistindo qualquer erro, negligência ou omissão (e-STJ, fl. 873/874).
+Assim, ainda que se considere subjetiva a responsabilidade, rever as conclusões quanto à inexistência de erro, negligência ou omissão demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ, fundamento cabível ao recurso com base em ambas as alíneas do permissivo constitucional.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+É o voto.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de HOSPITAL, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observada a justiça gratuita.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
