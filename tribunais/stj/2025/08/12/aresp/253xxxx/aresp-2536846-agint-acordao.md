@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido estaria em conformidade com a tese fixada pelo STF no Tema n. 339 da repercussão geral.
+1.2. A parte agravante alegou a inaplicabilidade do Tema n. 339 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de afronta ao art. 93, IX, da Constituição Federal quando se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 674):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante defende a inaplicabilidade do Tema n. 339/STF ao caso, pois não se estaria diante de fundamentação deficitária, mas de total ausência de enfrentamento de suas teses recursais.
+Requer a concessão de efeito suspensivo ao agravo, bem como o seu provimento para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões (fl. 707).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido estaria em conformidade com a tese fixada pelo STF no Tema n. 339 da repercussão geral.
+1.2. A parte agravante alegou a inaplicabilidade do Tema n. 339 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de afronta ao art. 93, IX, da Constituição Federal quando se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+VOTO
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a seguinte ementa:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fls. 580-586):
+De início, assiste razão à agravante quanto à impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial,  devendo,  portanto,  ser  afastado  o  óbice  da  Súmula  n.  182 do STJ.
+Entretanto, o agravo interno deve ser desprovido por outros fundamentos.
+No caso, o Tribunal estadual manteve a decisão de primeiro grau que, em fase de cumprimento de sentença em ação de cobrança de taxa condominial, incluiu a adquirente do imóvel, ora agravante, no polo passivo da demanda em razão da responsabilidade pelo pagamento das despesas condominiais em virtude da natureza propter rem da dívida.
+Nas razões do recurso especial, a parte aduz, preliminarmente, ofensa aos arts. 11, 489 e 1.022 do CPC, argumentando que, mesmo após a oposição de embargos de declaração, o Tribunal de origem omitiu-se quanto às suas teses defensivas.
+Aponta ainda violação do art. 17 do CPC, aduzindo que a Construtora Alavanca nunca foi proprietária do bem, podendo-se afirmar que sua inclusão na execução representou erro crasso do condomínio exequente.
+No mérito, alega que o acórdão recorrido diverge do entendimento do STJ consolidado no Tema n. 886, defendendo que apenas responde pelo pagamento das taxas condominiais vencidas após a sua imissão na posse do imóvel, ficando eventuais débitos pretéritos sob responsabilidade dos proprietários anteriores. Por essa razão, entende indevida sua inclusão no polo passivo do cumprimento de sentença, já que se trata de cobrança de parcelas anteriores à transmissão da posse do imóvel.
+Assevera que o contrato de dação em pagamento do imóvel firmado em 2021 dispôs expressamente que a agravante somente seria responsável pelos débitos tributários e condominiais vencidos a partir da celebração do contrato, competindo aos devedores pagarem os impostos e taxas condominiais vencidos anteriormente. Ressalta que desconhecia a existência dessa dívida condominial, uma vez que o processo está equivocadamente tramitando contra a Construtora Alavanca e não contra a FFE Construções, Incorporações e Participações Ltda.
+Requer, ao final, a concessão de efeito suspensivo ao recurso, com a sustação dos efeitos do acórdão até decisão do recurso especial e o provimento do recurso especial para que seja reconhecida a sua ilegitimidade passiva, aplicando-se a tese firmada em sede de recurso repetitivo pelo STJ consoante o Tema n. 886.
+De início, não conheço da alegada ofensa aos arts. 11, 489 e 1.022 do CPC, porquanto a recorrente não indica, de forma clara, em que teria consistido a suposta omissão.
+Quanto à suscitada violação do art. 17 do CPC, relacionada à ilegitimidade passiva da Construtora Alavanca, o Tribunal de origem asseverou que: a) a legitimidade da construtora ficou demonstrada no Agravo de Instrumento n. 2241259-25.2021.8.26.0000; b) a agravante "não levou em conta a regra inscrita no art. 18 do Código de Processo Civil, no sentido de que "Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico" (fl. 273). Entretanto, tais fundamentos não foram devidamente refutados nas razões do recurso especial, o que, nos termos da jurisprudência desta Corte, atrai a aplicação da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+No tocante ao mérito, melhor sorte não assiste à recorrente, uma vez que a tese recursal não encontra amparo na jurisprudência do STJ. Com efeito, ao julgar o Recurso Especial n. 1.345.331-RS, em sede de recurso repetitivo (Tema n. 866), a Segunda Seção do Superior Tribunal de Justiça definiu que a responsabilidade pelo pagamento das obrigações condominiais não decorre do registro do compromisso de compra e venda, mas da relação jurídica material com o imóvel, representada pela imissão na posse do promissário comprador e pela ciência inequívoca do condomínio acerca da transação. Tal situação não pressupõe que a posse ou a relação jurídica deva ser contemporânea ao vencimento das despesas condominiais, mas que, efetivamente, tenha o condomínio conhecimento da transação imobiliária a fim de que possa demandar o promitente comprador, ainda que não tenha sido efetuado o registro imobiliário do ajuste. Isto é, a atribuição da responsabilidade pelas despesas condominiais está ligada ao vínculo material exercido com relação ao imóvel, sendo a realidade fática que define, então, com quem o condomínio mantém relação de credor. Confira-se a ementa do julgado:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CONDOMÍNIO. DESPESAS COMUNS. AÇÃO DE COBRANÇA. COMPROMISSO DE COMPRA E VENDA NÃO LEVADO A REGISTRO. LEGITIMIDADE PASSIVA. PROMITENTE VENDEDOR OU PROMISSÁRIO COMPRADOR. PECULIARIDADES DO CASO CONCRETO. IMISSÃO NA POSSE. CIÊNCIA INEQUÍVOCA.
+1. Para efeitos do art. 543-C do CPC, firmam-se as seguintes teses:
+a) O que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação.
+b) Havendo compromisso de compra e venda não levado a registro, a responsabilidade pelas despesas de condomínio pode recair tanto sobre o promitente vendedor quanto sobre o promissário comprador, dependendo das circunstâncias de cada caso concreto.
+c) Se ficar comprovado: (i) que o promissário comprador se imitira na posse; e (ii) o condomínio teve ciência inequívoca da transação, afasta-se a legitimidade passiva do promitente vendedor para responder por despesas condominiais relativas a período em que a posse foi exercida pelo promissário comprador.
+2. No caso concreto, recurso especial não provido. (REsp n. 1.345.331/RS, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 8/4/2015, DJe de 20/4/2015.)
+A preocupação lançada no julgamento do recurso repetitivo foi a de que o vendedor e proprietário registral não fossem surpreendidos meses ou anos após a alienação do imóvel com a ingrata surpresa de estar sendo demandado em juízo em razão de despesas condominiais provenientes de um bem sobre o qual há muito não exerce a posse.
+Não se extrai do entendimento sedimentado no aludido recurso representativo de controvérsia que o promitente comprador somente ficaria responsável pelas despesas lançadas após a sua efetiva posse, tal como pretende a agravante, visto que tal entendimento violaria a literal disposição legal constante do art. 1.345 do Código Civil.
+Ressalte-se ainda que o atual entendimento do STJ sobre a matéria é de que, em virtude da natureza propter rem da dívida condominial, o adquirente do imóvel responde pelas cotas condominiais em atraso, ainda que anteriores à aquisição, ressalvado o seu direito de regresso contra o antigo proprietário.  ..
+Por fim, ressalte-se que a verificação sobre a existência ou não de cláusula no contrato de dação em pagamento afastando a responsabilidade da adquirente pela dívida pretérita das taxas condominiais exigiria o reexame do conjunto fático-probatório dos autos e de cláusula contratual. Incidência, pois, das Súmulas n. 5 e 7 do STJ.
+Do mesmo modo, foram indicados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fls. 616-617):
+Nos termos do art. 1.022 do CPC de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No caso dos autos, ficou decidido que a agravante é responsável pelas taxas condominiais, mesmo as anteriores à sua aquisição, pois a dívida condominial acompanha o imóvel.
+No caso, observa-se que, de fato, não houve alegação de omissão, mas apenas pretensão de rediscutir toda a matéria de mérito do recurso especial, o que não se enquadra nas hipóteses legais de embargos de declaração.
+Ademais, a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Verifica-se, portanto, que a matéria invocada pela parte ora agravante foi expressamente examinada no acórdão impugnado.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+3. Ante o exposto, nego provimento ao agravo interno.
+Por fim, diante da manutenção da negativa de seguimento ao recurso extraordinário, o pleito de atribuição de efeito suspensivo fica prejudicado.
+Advirto que a oposição de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
