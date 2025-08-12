@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PEDIDO DE TUTELA ANTECIPADA. PLANO DE SAÚDE. TRATAMENTO HOME CARE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Tutela antecipada.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Agravo conhecido. Recurso especial conhecido provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo em recurso especial interposto por SUL AMERICA COMPANHIA DE SEGURO SAUDE contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" e/ou "c" do permissivo constitucional.
+Ação: "pedido de tutela antecipada antecedente" ajuizada por SILVIA DI MIGUELI em face de SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE visando a cobertura de tratamento domiciliar para as sequelas de acidente vascular cerebral isquêmico hemorrágico.
+Sentença: julgou improcedente a demanda.
+Acórdão: deu parcial provimento ao recurso da agravada para determinar o atendimento da parte agravada através de programa de atenção domiciliar, nos termos da seguinte ementa:
+Ação de obrigação de fazer. Plano de saúde. "Home care". Autora acometida por sequelas de três AVCs. Atendimento domiciliar prestado pela Ré e posteriormente descontinuado, sem qualquer justificativa. Pedido médico, corroborado pelo laudo pericial, acerca da necessidade da Autora em continuar com os atendimentos domiciliares. Atenção domiciliar que não se confunde com internação domiciliar, em substituição à internação hospitalar. Auxílio de terceiros (cuidador) já prestados à Autora pela família, de forma particular. Laudo pericial que aponta o não atendimento dos critérios de elegibilidade para a internação domiciliar, contudo, aponta para o enquadramento no PAD (Programa de Atenção Domiciliar Multiprofissional). Ação julgada procedente em parte. Sentença de improcedência reformada. Sucumbência invertida. Recurso provido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 do CPC, 10, §13º, I e II, da Lei 9656/98 e 757 do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a não obrigatoriedade de cobertura de assistência domiciliar não prevista no rol da ANS e no contrato firmado entre as partes.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PEDIDO DE TUTELA ANTECIPADA. PLANO DE SAÚDE. TRATAMENTO HOME CARE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Tutela antecipada.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Agravo conhecido. Recurso especial conhecido provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018.
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela parte agravante, não se manifestou acerca da natureza do atendimento domiciliar necessário ao autor.
+Registre-se que a Terceira Turma firmou entendimento no sentido de que o serviço de home care pode ocorrer em duas modalidades, quais sejam: (i) assistência domiciliar, entendida como o conjunto de atividades de caráter ambulatorial, programadas e continuadas desenvolvidas em domicílio; e (ii) internação domiciliar, conceituada como o conjunto de atividades prestadas no domicílio, caracterizadas pela atenção em tempo integral ao paciente com quadro clínico mais complexo e com necessidade de tecnologia especializada. Resolução da Diretoria Colegiada da ANVISA - RDC 11/06. (REsp 1.728.042/SP, 3ª Turma, DJe 08/11/2018). Nesse sentido: AgInt no REsp n. 2.091.183/SP, 3ª Turma, DJe de 25/4/2024; REsp n. 1.947.036/DF, 3ª Turma, DJe de 24/2/2022.
+Nessa toada, a jurisprudência de ambas as turmas da segunda seção é no sentido de que é obrigatória a cobertura de internação domiciliar substitutiva da internação hospitalar. Precedentes: AgInt no AREsp n. 2.322.301/RJ, 4ª Turma, DJe de 22/3/2024 e AgInt no AREsp n. 2.390.930/RJ, 3ª Turma, DJe de 15/12/2023. Nas hipóteses em que, contudo, restar configurado que o atendimento domiciliar restar caracterizado como mera assistência domiciliar, esta não é de cobertura obrigatória: REsp n. 1.766.181/PR, 3º Turma, DJe de 13/12/2019 e AgInt no REsp n. 2.097.702/SP, 4ª Turma, DJEN de 24/4/2025.
+No caso dos autos, a Corte local, decidindo pela cobertura do tratamento prescrito, assim delineou os fatos:
+Nada era necessário argumentar acerca do artigo 757 do C Civil, pois, como consta expressamente do julgado, a própria Embargante admitia e realizava a prestação de serviço a titulo de "home care", tanto que o julgado nada mais fez do que o manter nos termos do que eram por ela anteriormente prestados, "através do PAD (Programa de Atenção Domiciliar)", como sucedâneo de internação hospitalar. Como é ela obrigada à cobertura de internação hospitalar, que certamente é mais custoso, nada mais razoável que promova a cobertura de atendimento por meio de modalidade correspondente, mas de menor custo, dentro das peculiaridades de cada caso, como foi estritamente observado no presente caso, inclusive com a realização de prova pericial, o que, por seu turno, perfeitamente se amolda aos termos do artigo 10 da Lei 9656/98. (e-STJ fl. 428)
+Não há como concluir deste excerto se o caso é de cobertura obrigatória ou não, mormente em se considerando a descrição da situação do estado clínico do paciente dos autos, pois, de fato, o Tribunal não esclareceu se o programa de atenção domiciliar a que restou condenada a agravante era ou não substitutivo de internação hospitalar, em que pese tenham sido devidamente suscitadas tais questões nos embargos de declaração opostos pela parte agravante.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que sejam sanadas a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte agravante.
