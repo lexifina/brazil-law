@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão, mediante a qual o recurso especial foi conhecido e parcialmente provido para afastar a incidência do ICMS sobre a demanda de potência contratada, e não utilizada.
+Opostos embargos de declaração, foram rejeitados.
+Sustenta a Agravante, em síntese, a existência de nulidade no acórdão prolatado pela Corte de origem:
+- " ..  contradição, porquanto, apesar de reconhecer que a disponibilização de potência não se confunde com o consumo de energia elétrica (sendo essas, inclusive, objeto de contratos distintos) e que o ICMS somente pode incidir sobre o efetivo consumo de energia elétrica, limita o crédito da EMBARGANTE à apuração da energia efetivamente consumida dentro do contrato de demanda de potência. 2.8. De fato, a demanda contratada refere-se à potência disponibilizada pela distribuidora para o adequado funcionamento dos equipamentos do consumidor, não se confundindo com o fornecimento de energia elétrica em si, que será adquirida pela EMBARGANTE de forma independente" (fl. 740e);
+- Omissão ao não observar o entendimento do Plenário do E. STF, no julgamento do RE nº 593.824/SC, sob o rito da repercussão geral, de que foi relator o Ministro EDSON FACHIN, em que restou decidido que a demanda de potência elétrica não é passível de tributação via ICMS, porquanto somente há incidência de ICMS sobre a energia elétrica consumida" (fl. 740e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 770/775e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+VOTO
+Na razões do Agravo Interno, a Agravante insurge-se apenas na parte da decisão agravada que não reconheceu a ofensa aso arts. 489 e 1022 do CPC. Isso porque, segundo entende, o Colegiado a quo teria sido contraditório ao confundir disponibilização de potência com consumo de energia elétrica e omissão ao não considerar o pronunciamento do STF no RE n. 593.824/SC.
+Com efeito, nas razões do recurso especial, a Recorrente, ora Agravante, sustenta a existência nulidades no acórdão prolatado pela Corte de origem, não sanadas no julgamento dos embargos de declaração.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas em seu art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO -, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+Diferentemente do que quer fazer crer a Agravante, o precedente do STF não afastou a incidência do tributo sobre a demanda de potência, mas sobre aquela meramente disponibilizada e não utilizada:
+ICMS deve ser calculado sobre o preço da operação final entre fornecedor e consumidor, não integrando a base de cálculo eventual montante relativo à negócio jurídico consistente na mera disponibilização de demanda de potência não utilizada.
+5. Tese: "A demanda de potência elétrica não é passível, por si só, de tributação via ICMS, porquanto somente integram a base de cálculo desse imposto os valores referentes àquelas operações em que haja efetivo consumo de energia elétrica pelo consumidor". (fl. 744e - destaquei
+No caso, não verifico, portanto, omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+A controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+No tocante à contradição, é firme o posicionamento desta Corte, segundo o qual a contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador.
+Considerada tal premissa, indene de dúvida que o vício alegado não se encontra presente no acórdão recorrido.
+O recurso integrativo não se presta a corrigir contradição externa entre o decisum impugnado e o entendimento da parte, ou entre este e outras decisões deste Tribunal, bem como não se revela instrumento process ual vocacionado para sanar eventual error in judicando.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. OMISSÃO E CONTRADIÇÃO. AUSÊNCIA DE VÍCIOS.
+ ..
+III - A contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigir
+contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+ ..
+(EDcl no REsp 1388682/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/05/2017, DJe 22/05/2017).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INOCORRÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 535 do CPC/1973).
+3. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ. (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1221142/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 14/12/2017)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
