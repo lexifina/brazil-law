@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA JORNALÍSTICA. LIBERDADE DE IMPRENSA. DIREITO DE PERSONALIDADE. CONFIGURAÇÃO DE DANO MORAL. SÚMULA N. 7/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou que "o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, concluiu que não houve abuso da liberdade de imprensa. Destacou que as reportagens questionadas constituem exercício regular do direito à liberdade de expressão e informação, protegido constitucionalmente, especialmente em relação a figuras públicas. Ressaltou, ainda, que o autor, ao se expor publicamente, assumiu o risco de críticas e interpretações próprias, sem configuração de danos à sua honra ou imagem." e "modificar as conclusões a que chegou o Tribunal de origem no sentido de avaliar se as reportagens efetivamente extrapolaram os limites da liberdade de imprensa ou se configuraram abuso de direito demandaria análise de fatos e provas, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7/STJ".
+3. A pretensão de rediscutir matéri a devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por ALEXANDRE FREIRE GUERRA contra acórdão da Terceira Turma que, por unanimidade, manteve decisão monocrática de minha relatoria, que conheceu do agravo para conhecer do recurso especial e negar-lhe provimento (fls. 773-781).
+O aresto embargado tem a seguinte ementa (fl. 834):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. MATÉRIA JORNALÍSTICA. LIBERDADE DEIMPRENSA. DIREITO DE PERSONALIDADE. CONFIGURAÇÃO DE DANO MORAL. SÚMULA N. 7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação dos arts. 489 e 1.022 do CPC.
+2. Ao tratar sobre a liberdade de imprensa e de informação, esta Corte Superior estabeleceu, para situações de conflito entre a liberdade de expressão e os direitos da personalidade, entre outros, os seguintes elementos de ponderação: "(I) o compromisso ético com a informação verossímil; (II) a preservação dos chamados direitos da personalidade, entre os quais incluem- se os direitos à honra, à imagem, à privacidade e à intimidade; e (III) avedação de veiculação de crítica jornalística com intuito de difamar, injuriar ou caluniar a pessoa (animus injuriandi vel diffamandi)" (R Esp n. 801.109/DF, relator Ministro Raul Araújo, Quarta Turma, D Je de ).12/3/2013
+3. Modificar as conclusões a que chegou o tribunal de origem no sentido de avaliar se as reportagens efetivamente extrapolaram os limites da liberdade de imprensa ou se configuraram abuso de direito demandaria análise de fatos e provas, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+Sustenta a parte embargante omissão no julgado porquanto o acórdão recorrido não observou o Tema 995 do STF.
+Alega, ainda, que "o decisum ignorou o fato de que os embargados, no mínimo, não cumpriram com as diligências básicas para a apuração da veracidade dos acontecimentos, bem como foi igualmente omisso ao não examinar que a mitigação na proteção da honra e imagem da pessoa pública não lhe retira o resguardo aos direitos de personalidade" (fl. 852).
+Requer, ao final, o prequestionamento dos arts. 5º, inciso X, e 220, § 1º, da Constituição Federal e o acolhimento dos embargos declaratórios, empregando efeitos modificativos, para dar provimento ao recurso especial.
+A parte embargada apresentou impugnação às fls. 864-871.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA JORNALÍSTICA. LIBERDADE DE IMPRENSA. DIREITO DE PERSONALIDADE. CONFIGURAÇÃO DE DANO MORAL. SÚMULA N. 7/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou que "o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, concluiu que não houve abuso da liberdade de imprensa. Destacou que as reportagens questionadas constituem exercício regular do direito à liberdade de expressão e informação, protegido constitucionalmente, especialmente em relação a figuras públicas. Ressaltou, ainda, que o autor, ao se expor publicamente, assumiu o risco de críticas e interpretações próprias, sem configuração de danos à sua honra ou imagem." e "modificar as conclusões a que chegou o Tribunal de origem no sentido de avaliar se as reportagens efetivamente extrapolaram os limites da liberdade de imprensa ou se configuraram abuso de direito demandaria análise de fatos e provas, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7/STJ".
+3. A pretensão de rediscutir matéri a devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Com efeito, verifica-se que o acórdão embargado, de maneira clara e fundamentada, consignou que "o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, concluiu que não houve abuso da liberdade de imprensa. Destacou que as reportagens questionadas constituem exercício regular do direito à liberdade de expressão e informação, protegido constitucionalmente, especialmente em relação a figuras públicas. Ressaltou, ainda, que o autor, ao se expor publicamente, assumiu o risco de críticas e interpretações próprias, sem configuração de danos à sua honra ou imagem." e "modificar as conclusões a que chegou o Tribunal de origem no sentido de avaliar se as reportagens efetivamente extrapolaram os limites da liberdade de imprensa ou se configuraram abuso de direito demandaria análise de fatos e provas, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7/STJ" (fls. 845-846).
+Ressalta-se, ainda, que, nos termos da jurisprudência desta Corte, as "pessoas públicas estão submetidas à exposição de sua vida e de sua personalidade e, por conseguinte, são obrigadas a tolerar críticas que, para o cidadão comum, poderiam significar uma séria lesão à honra. Tal idoneidade não se configura, decerto, em situações nas quais é imputada, injustamente e sem a necessária diligência, a prática de atos concretos que resvalem na criminalidade, o que não ocorreu na hipótese" (REsp 1.729.550/SP, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 11/5/2021, DJe de 4/6/2021).
+Observa-se, portanto, a pretensão do embargante na modificação do julgado. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ERRO MATERIAL. OCORRÊNCIA. CORREÇÃO. EFEITOS INTEGRATIVO E MODIFICATIVO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. No caso, os presentes aclaratórios merecem acolhimento, para sanar erro material verificado.
+3. Embargos de declaração acolhidos, com efeitos integrativo e modificativo.
+(EDcl no AgInt no REsp n. 2.122.639/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
