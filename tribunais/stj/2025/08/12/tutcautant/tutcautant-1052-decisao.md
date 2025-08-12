@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se requerimento de "tutela provisória de natureza cautelar antecedente inominada com pedido de liminar" formulado por MARLENE DE SOUZA VIEIRA.
+Alega a requerente, em síntese, que foi ordenada judicialmente a desocupação da área rural em que reside, nos autos de ação de divisão em que não se apurou a delimitação exata da área e sem que lhe tenha sido concedida a possibilidade de contraditório. Assinala que a determinação do juízo de primeiro grau foi impugnada por meio de agravo de instrumento, o qual, todavia, não teve o seu pedido de efeito suspensivo apreciado, sendo que o cumprimento da ordem de desocupação está previsto para 4/8/2025. Requer a "concessão liminar e urgente da tutela cautelar pleiteada, para determinar a imediata suspensão da ordem de desocupação forçada marcada para o dia 04 de agosto de 2025, nos autos da ação de divisão nº 0069684-61.1992.8.09.0100, que tramita na 1ª Vara Cível da Comarca de Santo Antônio do Descoberto/GO, até decisão ulterior deste Superior Tribunal de Justiça." (e-STJ fl. 11).
+É O RELATÓRIO. DECIDE-SE.
+Na hipótese, a pretensão da parte, veiculada em "tutela provisória de natureza cautelar antecedente inominada com pedido de liminar", diz respeito à concessão de efeito suspensivo ao agravo de instrumento por ela interposto, pedido que, segundo alega, ainda não foi objeto de apreciação pelo TJ/GO.
+O requerimento de tutela cautelar antecedente foi protocolizado de forma autônoma, sem que se tenha notícia nos autos de interposição de recurso especial ou de agravo em recurso especial pela parte requerente.
+De acordo com o art. 1.029, § 5º, I, do CPC, o pedido de concessão de efeito suspensivo a recurso especial somente pode ser dirigido a esta Corte após a publicação da decisão de admissão do recurso, devendo, do contrário, ser formulado ao Presidente ou ao Vice-presidente do Tribunal de origem. Desse modo, não compete ao Superior Tribunal de Justiça conceder efeito suspensivo a recurso especial que ainda não foi objeto de juízo de admissibilidade na origem, incidindo, por analogia, as Súmulas 634 e 635 do STF. Nesse sentido: AgInt no RCD na Pet 16.166/SP, Quarta Turma, DJe 11/4/2024; AgInt no TP 4.258/GO, Terceira Turma, DJe 15/3/2023.
+Tal circunstância mostra-se suficiente para o não conhecimento do pedido, já que sequer existe, na hipótese, informação acerca da interposição de recurso especial.
+Mesmo que assim não fosse, a concessão de tutela de urgência em caráter antecedente em sede recursal é medida rigorosamente excepcional, dependendo da demonstração simultânea do periculum in mora e do fumus boni juris.
+Inexiste, na hipótese, demonstração do preenchimento do último requisito. Não foram trazidos pela parte elementos plausíveis de convencimento acerca da probabilidade do direito alegado, apenas alegações genéricas no sentido de que a desocupação forçada do imóvel acarretar-lhe-á consequências indesejadas.
+Em adição a isso, trata-se de ação que tramita há muitos anos, com a propositura, nesse interregno, de uma miríade de medidas judiciais pelos ocupantes da área na tentativa de impedir a desocupação, o que indica intuito protelatório.
+Forte nessas razões, NÃO CONHEÇO do pedido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TUTELA DE URGÊNCIA CAUTELAR REQUERIDA EM CARÁTER ANTECEDENTE. PERICULUM IN MORA E FUMUS BONI JURIS. REQUISITOS CUMULATIVOS. AUSÊNCIA. INDEFERIMENTO DO PEDIDO.
+1. Tutela provisória cautelar requerida em caráter antecedente.
+2. A concessão de tutela de urgência em caráter antecedente em sede recursal é medida excepcional e depende da demonstração do periculum in mora e do fumus boni juris.
+3. Com base em juízo perfunctório, os argumentos da parte requerente não evidenciam os requisitos necessários para a concessão da tutela de urgência.
+4. Pedido indeferido.
