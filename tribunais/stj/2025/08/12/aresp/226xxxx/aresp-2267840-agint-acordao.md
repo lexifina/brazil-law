@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280/STF. PROVIMENTO NEGADO.
+1. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é inviável. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por REIS RESTAURANTE DE BRAGANÇA PAULISTA LTDA da decisão de fls. 689/691.
+A parte agravante alega que não é necessária a análise de legislação local, pois busca apenas responder se é possível a criação pelo Decreto Estadual Paulista de hipóteses de diferimento do ICMS sem previsão ou autorização da Lei que rege a matéria.
+Sustenta que o acórdão recorrido infringiu os arts. 4º e 6º e seus parágrafos 1º e 2º, e o art. 7º da Lei Complementar 87/1996 ao decidir pela legitimidade do diferimento de ICMS nas operações com pescado.
+Afirma que o acórdão contrariou a jurisprudência do Superior Tribunal de Justiça (STJ) que delega à lei ordinária a competência para atribuir a terceiro a responsabilidade pelo recolhimento do tributo.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 710).
+É o relatório.
+EMENTA
+PROCESSUAL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280/STF. PROVIMENTO NEGADO.
+1. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é inviável. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+VOTO
+Na decisão agravada, não se conheceu do recurso especial porque a reforma do acórdão demandaria o reexame de legislação local.
+Em nova análise do presente caso, vê-se, quanto ao ponto objeto do recurso especial, que o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu nestes termos (fls. 524/533):
+Com efeito, a presente ação mandamental objetiva assegurar o direito do Impetrante de não ter lavrado contra si auto de infração e/ou instaurado qualquer procedimento administrativo, relativo à operação "Nos Conformes", em razão do não recolhimento do ICMS diferido sobre a operação de pescados.
+O programa "Nos Conformes" foi instituído pela Lei Estadual nº 1.320/18 e traz os princípios para o relacionamento entre os contribuintes e o Fisco Estadual, estabelecendo regras de estímulo à conformidade tributária e à autorregularização, a fim de evitar infrações tributárias e cobranças de multas.
+A controvérsia, nesse âmbito, resume-se à delimitação da responsabilidade pelo recolhimento de ICMS diferido incidente na operação de pescados, no citado período, por contribuinte optante do Regime Simples Nacional.
+Neste mister, o primeiro argumento veiculado pelo Impetrante quanto ao suposto vício de inconstitucionalidade de que padeceria o artigo 13, da Lei Complementar nº 123/2006, em função da incompatibilidade da substituição tributária com o regime simplificado instituído pelo Simples Nacional, não merece guarida. Dispõe o referido dispositivo legal que:
+ ..
+Desta forma, nota-se que não há incompatibilidade do regime de substituição tributária com a adesão ao Simples Nacional porque referida lei prevê expressamente a obrigatoriedade do recolhimento do ICMS nos casos de substituição tributária, que não está abrangido pelo recolhimento unificado.
+Tampouco prospera a argumentação do Impetrante na suposta inconstitucionalidade ao ventilar que a questão ora debatida é objeto da ADI 6.030/DF em trâmite perante o Supremo Tribunal Federal, considerando que não há notícias de suspensão de sua eficácia em sede liminar pela Suprema Corte, o que denota a sua observância de forma regular.
+Desta forma, não há como afastar a obrigatoriedade do recolhimento do imposto, considerando que o estabelecimento em questão embora não se trate de indústria ou comércio varejista, por certo que é o último elo da cadeia de circulação, pois é no restaurante que se concretiza a saída definitiva do pescado que é usado no preparo das refeições, encerrando o diferimento, e ensejando, em consequência, o recolhimento do ICMS, de acordo com os incisos III e IV do artigo 391 e inciso II do artigo 430 do RICMS e artigo 8, XV, "d" da Lei nº 6.374/89.
+Cabe neste caso reproduzir que entendimento exposto por esta relatoria vai de encontro ao posicionamento desta Câmara, por amoldável à espécie, da lavra do Des. Vicente de Abreu Amadei, sobre o tema ora versado:
+ ..
+Mister se faz salientar, a título de ilustração, que embora o Fisco Estadual possa não ter, em anos anteriores, procedido a cobrança dessa natureza, esse fato não exonera o Impetrante de recolher o tributo, caso venha a ser cobrado, inclusive porque "a vinculação da atividade de cobrança do tributo decorre do fato de ele ser instituído por lei e se configurar como uma prestação compulsória. A autoridade tributária não pode analisar se é conveniente, se é oportuno cobrar o tributo. A cobrança é feita de maneira vinculada, sem concessão de qualquer margem de discricionariedade ao administrador. Mesmo que o fiscal, o auditor ou o procurador se sensibilizem com uma situação concreta, devem cobrar o tributo." (Ricardo Alexandre, Direito Tributário, 11ª edição, ed. Juspodivm, p. 50).
+Diferente da alegação da parte ora agravante REIS RESTAURANTE DE BRAGANÇA PAULISTA LTDA, a questão controvertida foi decidida com fundamento em legislação local, arts. 391 e 430 do RICMS - SP e no art. 8º, XV, d, da Lei 6.374/1989.
+Em casos análogos, cito os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA 284/STF. MANDADO DE SEGURANÇA. ICMS. INCIDÊNCIA. MATÉRIA DIRIMIDA PELO TRIBUNAL DE ORIGEM COM BASE EM LEGISLAÇÃO LOCAL. SÚMULA 280/STF. 1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. 2. Observa-se que o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, a saber, Lei Estadual n. 6.374/89 e RICMS/SP, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário."). 3. Agravo interno não provido.
+(AgInt no AREsp n. 2.037.526/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECUR SO ESPECIAL. MANDADO DE SEGURANÇA. ICMS. RECOLHIMENTO. ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO EM LEI LOCAL. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 280 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se, na origem, de mandado de segurança visando ao impedimento da lavratura de auto de infração e imposição de multa em seu desfavor, decorrente de suposta mudança no posicionamento da Administração Pública acerca da sistemática de cobrança de ICMS sobre o comércio varejista de pescados.
+2. Hipótese em que o Tribunal de origem consignou: É de se ressaltar, ademais, que a impetrante é claramente sujeito passivo por substituição (art. 8º, XVII, "d", da Lei nº 6.374/89). O RICMS, contudo, deixa algumas dúvidas acerca da temática do diferimento do tributo. O art. 391, III, afirma que o lançamento do imposto incidente nas operações internas com pescados é devido quando da saída do produto do estabelecimento, enquanto o art. 428, III, c/c art. 430, III, fixa regra diversa, ensejando o recolhimento do tributo até o último dia do segundo mês subsequente às operações para aqueles optantes pelo Simples Nac ional (fls. 176/177).
+3. Da forma como ficou definido pela Corte a quo, para a resolução da controvérsia sobre a incidência do ICMS, imprescindível seria a análise da legislação local (art. 8º, XVII, "d", da Lei Estadual 6.374/1989) c/c RICMS/SP para o deslinde da controvérsia, providência vedada em sede de Recurso Especial.
+4. Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280 do STF, segundo a qual "por ofensa ao direito local não cabe recurso extraordinário".
+5. Cabe salientar que, nos casos em que há conflito entre lei local e lei federal, a questão só pode ser resolvida pelo Supremo Tribunal Federal, nos termos da EC 45/2004, que passou para a Corte Suprema a competência para apreciar, em Recurso Extraordinário, as decisões que julgarem válida lei local contestada em face de lei federal (art. 102, III, d, da CF).
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.805.198/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF5, Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+PROCESSO CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. DIFERIMENTO. SUBSTITUIÇÃO TRIBUTÁRIA. COMPATIBILIDADE COM O SIMPLES NACIONAL. RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. SÚMULAS N. 284 E 280 DO STF. AGRAVO INTERNO. DECISÃO MANTIDA.
+I - Na origem, trata-se de mandado de segurança impetrado por empresário individual de responsabilidade limitada contra ato do Delegado da Delegacia Regional Tributária de Jundiaí - DRT 16 objetivando reconhecimento da ilegalidade da cobrança do ICMS decorrente da "quebra de diferimento" nas operações com pescados. Na sentença a segurança foi denegada. No Tribunal a quo, a sentença foi mantida. O recurso especial foi inadmitido.
+ ..
+VII - Ademais, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 1.985.639/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Está correta a decisão que não conheceu do recurso especial devido à incidência, por analogia, da Súmula 280 do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
