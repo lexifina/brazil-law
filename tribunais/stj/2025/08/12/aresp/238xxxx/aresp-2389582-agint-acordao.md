@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÕES NÃO CONFIGURADAS.
+RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. CULPA DO VENDEDOR. COMISSÃO DE CORRETAGEM. RESTITUIÇÃO.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação dos arts. 489 e 1.022 do CPC.
+2. Nos termos da jurisprudência pacífica do STJ, resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem.
+3. O entendimento adotado pelo acórdão recorrido está em consonância com a jurisprudência desta Corte. Incidência da Súmula 83/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por JFE 45 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. - EM RECUPERACAO JUDICIAL contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento nos termos da seguinte ementa (fl. 606):
+CIVIL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DEIMÓVEL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL HÍBRIDA. ANÁLISE APENAS DAS QUESTÕES REMANESCENTES. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E1.022 DO CPC. COMISSÃO DE CORRETAGEM. ABRANGÊNCIA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ. PRETENSÃO DE REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 /STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EMPARTE E IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 348-349):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL CUMULADA COM ANULATÓRIA DE DÉBITO. RELAÇÃO DE CONSUMO. ATRASO NA ENTREGA DO IMÓVEL POR CULPA DA PROMITENTE-VENDEDORA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. Condenação da ré a devolver a quantia adimplida pelos autores de R$ 398.676,85, corrigida monetariamente desde o desembolso de cada parcela e acrescida de juros de mora, contados da citação, tudo sem prejuízo da multa convencional de 2% (dois por cento), além da condenação ao pagamento das custas judiciais e honorários advocatícios, fixados em 10% do montante da condenação. Apelo de ambas as partes. Autores que postulam a verba referente pagamento de comissões, intermediações e outras despesas de comercialização. Acolhimento. Devolução integral dos valores que se impõe, em caso de culpa exclusiva do promitente vendedor/construtor. R Esp 1300418/SC. Súmulas nº 543 do STJ e 98 do TJRJ. Hipótese que não trata de alegação de abusividade da cláusula de comissão de corretagem. Retorno ao status quo ante. Precedentes desta Corte. Condenação da ré ao pagamento de multa de 2%, estabelecida em cláusula penal moratória. Possibilidade de inversão da multa, quando fincada no contrato apenas em prejuízo do consumidor. Temas 970 e 971, ambos do STJ. Honorários advocatícios de sucumbência cujo percentual deverá recair sobre o valor da condenação (art. 85, §2º, CPC). Impossibilidade de fixação por apreciação equitativa (art.85, §8º, CPC), havendo valor expressivo de condenação. Precedente do STJ. Reforma parcial do julgado apenas para incluir na condenação da ré a verba relativa à comissão de corretagem e demais despesas (R$15.226,45). PROVIMENTO DO RECURSO DOS AUTORES E DESPROVIMENTO DO RECURSO DA RÉ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, NA FORMA DO ART.85, §11, DO CPC.
+Rejeitados os embargos de declaração opostos (fls. 410-415).
+Nas razões do agravo interno, alega a agravante violação dos arts. 489 e 1.022 do CPC.
+Aduz, ainda, a não incidência das Súmulas n. 5, 7 e 83/STJ.
+Sustenta, outrossim, que "a agravante esclareceu no recurso especial que a orientação desse Superior Tribunal - ao contrário do que foi estabelecido pela decisão recorrida é de que - mesmo em caso de rescisão de promessa de compra e venda por culpa do vendedor, uma vez que foi alcançado o "resultado previsto no contrato de mediação", na medida em que o contrato de promessa de compra e venda foi efetivamente celebrado, não há que se falar em devolução dos valores" (fl. 628).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões às fls. 636-643.
+É, no essencial, o relatório.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÕES NÃO CONFIGURADAS.
+RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. CULPA DO VENDEDOR. COMISSÃO DE CORRETAGEM. RESTITUIÇÃO.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação dos arts. 489 e 1.022 do CPC.
+2. Nos termos da jurisprudência pacífica do STJ, resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem.
+3. O entendimento adotado pelo acórdão recorrido está em consonância com a jurisprudência desta Corte. Incidência da Súmula 83/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme demonstrado na decisão agravada, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos (fls. 412-413):
+Ao contrário do que afirma a embargante, inexistem as alegadas omissões e contradições no acórdão embargado.
+Conforme explicitado na decisão colegiada, "se a incorporadora teria o direito de exigir multa moratória sobre cada prestação pecuniária em caso dos promitentes-compradores não honrarem o pagamento do contrato, assim também fazem jus à incidência desse mesmo acréscimo penal os adquirentes do imóvel, isso porque a restituição dos valores pagos não corresponde a uma indenização de perdas e danos, mas sim a uma obrigação de dar inerente ao retorno das partes ao status quo ante."
+Portanto, restou claro no acordão que a rescisão contratual, com a restituição ao estado anterior ao momento da avença, não se mostra incompatível com a incidência de cláusula penal.
+No que tange ao percentual da multa estabelecida (2% sobre o valor a ser devolvido) restou expressamente consignado no acórdão que "não há que se reduzir o percentual de 2%, visto que expressamente fincado no contrato."
+Por fim, no que toca à alegação de omissão quanto ao fato da embargante ser parte ilegítima para proceder à devolução da comissão de corretagem ao argumento de que referida comissão foi paga à "LPS PATRIMÓVEL CONSULTORIA DE IMÓVEIS", restou consignado no acórdão o teor da súmula 98 do TJRJ que diz que "Na ação de rescisão de negócio jurídico, por culpa do vendedor, cumulada com restituição de parcelas pagas, descabe o abatimento de valores referentes à taxa de administração do empreendimento frustrado, mesmo que destinadas ao pagamento de comissões, intermediações e outras despesas de comercialização, devendo a devolução efetivada ao comprador ser plena, de modo a assegurar-lhe o exato recebimento de tudo o que se despendeu.
+Como se vê, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+No mérito, maior sorte não assiste à agravante.
+Nos termos da jurisprudência pacífica do STJ, "resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem" (AgInt no AREsp n. 2.139.321/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023).
+No mesmo sentido, cito os seguintes precedentes:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PERCENTUAL DE RETENÇÃO DAS PARCELAS PAGAS. SÚMULA N. 543 DO STJ. COBRANÇA DA COMISSÃO DE CORRETAGEM. IMPOSSIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Trata-se de ação de rescisão de contrato de promessa de compra e venda de imóvel cumulada com indenização por danos materiais e morais, em decorrência de atraso na entrega da obra.
+2. Nos casos de resolução do contrato por culpa atribuída ao promitente-vendedor, os valores pagos pelos compradores devem ser restituídos integralmente, nos termos da Súmula n. 543 do STJ, incluindo a comissão de corretagem. incidência da Súmula n. 83 do STJ.
+3. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.873.888/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESOLUÇÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DE PLANO NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Em relação à violação aos artigos 489 e 1022 do CPC, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+2. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor" (Súmula 543/STJ), situação idêntica à destes autos.
+2.1. De acordo com a jurisprudência do STJ, "no caso de rescisão contratual por culpa da construtora, o comprador deve ser restituído da comissão de corretagem" (AgInt no REsp n. 1.863.961/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/6/2021, DJe 30/6/2021), o que foi observado pela Corte local." (AgInt no AREsp n. 2.249.896/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.443.232/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+No caso dos autos, o Tribunal de origem manifestou-se no mesmo sentido da atual e pacífica jurisprudência desta Corte. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 355-356):
+Configurada, portanto, a falha na prestação do serviço no que tange ao não cumprimento do prazo estabelecido no contrato para a entrega do bem, merece reparo a sentença de forma a determinar a restituição integral dos valores pagos pelos autores. Isso porque, somente é cabível a restituição parcial de valores, nas hipóteses em que a rescisão da avença se der por culpa exclusiva do promitente comprador e não nas hipóteses em que a rescisão se dá por responsabilidade da promitente-vendedora, caso dos autos.
+Desta feita, demonstrado o inadimplemento quanto à obrigação de concluir a obra no prazo estabelecido, obrigação principal contraída, e sendo atribuída à ré a causa da rescisão do contrato de promessa de compra e venda do imóvel, forçoso concluir pela devolução integral dos valores pagos pelos autores.
+ ..
+Assim, diante da inexecução do contrato por parte da ré, deve ser reformada a sentença de modo a determinar que sejam restituídos os valores integralmente pagos pelos autores, inclusive aqueles pagos a título de comissão de corretagem e demais terceiros, no total de R$ 15.226,45.
+Logo, mantenho a incidência da Súmula n. 83/STJ.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
