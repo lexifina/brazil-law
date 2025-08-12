@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a parte recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto pelo MUNICÍPIO DE VARGEM GRANDE DO SUL  contra  decisão  de  minha  lavra,  proferida  às  e-STJ  fls.  827/829,  em  que conheci em parte do recurso  especial  e, nessa extensão, neguei-lhe provimento em  virtude  da deficiente fundamentação, no pertinente a parte dos argumentos respeitante à negativa de prestação jurisdicional supostamente perpetrada na origem (Súmula 284 do STF), da suficiência das razões de decidir, no tocante ao único ponto pretensamente omisso identificável nas razões recursais, bem como da ausência de correlação entre dispositivos apontados e a tese recursal sustentada (Súmula 284 do STF).
+Aduz a parte agravante ser indevida a aplicação da Súmula 284 do STF, uma vez que " ..  é público e notório que os "arts. 8º , 489, § 1º, 926 caput, 927, § 4º, e 1.022, II, do CPC" e "35, I, da Lei Complementar n. 35/1979" contém comando normativo e são cogentes aos próprios "juízes" e "tribunais", principalmente diante dos princípios da legalidade, da segurança jurídica, da proteção da confiança e da isonomia expressos no artigo 8º e §4º do artigo 927 do CPC" (e-STJ fl. 838).
+Pontua que "o recurso especial foi "admitido" pela r. Decisão do Presidente do E. TJ/SP de fls.814/818, inclusive demonstrando a "divergência jurisprudencial" sobre "idêntica questão de direito"", bem como que "a "controvérsia" é claramente "compreensível", visto que a própria r. decisão agravada alega que "a Corte de origem enfrentou diretamente a questão relativa à (in)aplicabilidade do entendimento jurisprudencial invocado", inclusive aborta sobre a alegação sobre a "incorreta adoção de termo inicial para efeitos financeiros do laudo pericial" pela magistratura do E. Tribunal de Justiça Estadual recorrido, pois claramente destoa da jurisprudência pacífica e dominante do C. STJ às fls.791/795, bem como contraria os artigos 926, 927 e 985 do CPC e os princípios da segurança jurídica e isonomia" (e-STJ fl. 838).
+Invoca, ainda, o entendimento de mérito exarado no PUIL 825/RS como aplicável ao caso dos autos.
+Requer, assim, a reconsideração ou a reforma da decisão questionada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a parte recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+No decisum ora recorrido, conheci em parte do recurso  especial  e, nessa extensão, neguei-lhe provimento com os seguintes capítulos e fundamentos: a) deficiente fundamentação, no pertinente a parte dos argumentos respeitante à negativa de prestação jurisdicional supostamente perpetrada na origem (Súmula 284 do STF); b) suficiência das razões de decidir, no tocante ao único ponto pretensamente omisso identificável nas razões recursais; c) ausência de correlação entre dispositivos apontados (926 caput, 927, § 4 º, do CPC e 35, I, da Lei Complementar n. 35/1979) e a tese recursal sustentada (incorreta adoção de termo inicial para efeitos financeiros do laudo pericial) (Súmula 284 do STF).
+Da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente os fundamentos aludido.
+Destaque-se, por apego ao debate, que o apelo nobre não se apoiou na alínea "c" do permissivo constitucional, que a decisão questionada, no pertinente ao ponto "c" acima citado, em nenhum momento se assentou em "ausência de conteúdo normativo" dos dispositivos supostamente violados, bem como que, nesse ponto, ante o óbice aplicado, anteriormente referido, não há que falar em aplicação de julgado favorável respeitante à matéria de fundo.
+Ainda, as conclusões do juízo de admissibilidade prévio não são cogentes para o STJ, a quem compete examinar, em caráter definitivo, os requisitos de admissibilidade do recurso especial (AgInt no REsp n. 2.151.508/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 2/12/2024, DJEN de 5/12/2024; AgInt no AREsp n. 2.540.416/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/5/2024, DJe de 22/5/2024).
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
