@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  AÇÃO  DE  USUCAPIÃO.  OITIVA  DE  TESTEMUNHAS.  CERCEAMENTO  DE  DEFESA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  para  acolher  a  existência  de  cerceamento  de  defesa  sem  a  análise  dos  fatos  e  das  provas  dos  autos,  o  que  é  inviável  em  recurso  especial  diante  da  incidência  da  Súmula  nº  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  HENRIQUE  MORGAN  DE  AGUIAR  FILHO  contra  a  decisão  que  inadmitiu  o recurso  especial.
+O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo  assim  ementado:
+"Apelação  -  Usucapião  extraordinária  -  Sentença  de  improcedência  da  ação  e  da  reconvenção  -  Recurso  de  ambas  as  partes.
+Recurso  dos  autores  -  Cerceamento  de  defesa  -  Não  ocorrência  -  Desnecessidade  de  realização  de  prova  testemunhal  -  Documentos  que  não  comprovam  o  requisito  temporal  da  prescrição  aquisitiva  -  Desnecessidade  de  desentranhamento  da  contestação,  posto  que  intempestiva.
+Apelo  da  ré  -  Defesa  extemporânea,  posto  que  ofertada  após  o  encerramento  do  ciclo  citatório  dos  ocupantes  e  confrontantes,  tendo  o  curador  ofertado  defesa  por  negativa  geral  -  Ademais,  ausente  prejuízo,  pois  a  ação  foi  julgada  improcedente  -  Possibilidade  de  a  interessada  deduzir  sua  pretensão  em  demanda  autônoma.
+Confirmação  da  sentença  -  Majoração  dos  honorários  do  patrono  de  cada  uma  das  partes  (art.  85,  §11,  CPC),  respeitada  a  gratuidade  deferida  à  autora  -  Não  provimento  aos  recursos"  (e-STJ  fl.  690).
+No  recurso  especial,  o  recorrente  alega  violação  dos  artigos  370  e  373,  I,  do  Código  de  Processo  Civil,  defendendo  que  houve  cerceamento  de  defesa  pela  não  designação  de  audiência  para  oitiva  de  testemunhas,  conforme  oportunamente  requerido.
+Com  as  contrarrazões  (e-STJ  fls.  764/770),  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  AÇÃO  DE  USUCAPIÃO.  OITIVA  DE  TESTEMUNHAS.  CERCEAMENTO  DE  DEFESA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  para  acolher  a  existência  de  cerceamento  de  defesa  sem  a  análise  dos  fatos  e  das  provas  dos  autos,  o  que  é  inviável  em  recurso  especial  diante  da  incidência  da  Súmula  nº  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+No  que  concerne  à  oitiva  de  testemunhas  requerida,  o  Tribunal  de  origem,  à  luz  da  prova  dos  autos,  concluiu  pela  sua  desnecessidade,  consoante  se  extrai  da  leitura  do  voto  condutor,  merecendo  destaque  o  seguinte  trecho:
+"(..)
+Com  efeito,  não  se  evidencia  a  necessidade  de  determinar-se  a  dilação  probatória,  com  a  oitiva  de  testemunhas,  pois  os  documentos  relacionados  pelos  apelantes  já  não  confirmam  o  lapso  de  tempo  necessário  para  a  aquisição  aquisitiva..  Além  disso,  não  se  mostrou  essencial  para  o  julgamento  da  lide  a  produção  de  prova  testemunhal,  tendo  sido  observado  pelo  magistrado,  nos  termos  do  laudo  pericial,  que  a  posse  é  exercida  por  NOELIA  (fl.  193),  tendo  ela  colacionado  documentos  tendentes  a  demonstrar  o  animus  domini  em  seu  nome  desde  1999  (fls.390/447).
+(..)
+"De  acordo  com  a  petição  inicial,  a  parte  autora  alega  que  exerce  a  posse  há  mais  de  20  anos.
+Portanto,  como  a  ação  foi  proposta  em  2.012,  para  o  fim  de  contar  o  tempo  de  posse  exigido  para  a  modalidade  de  usucapião  extraordinária,  o  requerente  deveria  comprovar  o  efetivo  exercício  da  posse  qualificada  nos  vinte  anos  anteriores  ao  ajuizamento  da  ação.
+(..).
+Com  a  inicial,  trouxe  documentos  tendentes  a  demonstrar  o  "animus  domini"  referente  a  pagamentos  de  consumo/tributos,  quais  sejam,  declaração  da  Eletropaulo  informando  que  a  conta  de  luz  estava  sob  sua  responsabilidade  entre  os  anos  de  1990  a  2005  (fls.  78).  Em  emenda  à  inicial,  trouxe  documento  do  ano  de  2001  em  nome  da  contestante  (fls.  131)  e  documentos  dos  anos  de  2009  e  2011  (fls.  134/135).
+(..).
+Ademais,  conforme  laudo  pericial  de  fls.  182/224,  o  perito  judicial  constatou  que  a  posse  é  exercida  pela  parte  contestante  (fls.  193),  bem  como  a  contestante  apresentou  documentos  tendentes  a  demonstrar  o  animus  domini  em  seu  nome  desde  1999  (fls.  390/447),  em  contraposição  ao  alegado  pela  parte  autora."
+Portanto,  a  assertiva  dos  autores  de  que  exercem  a  posse  pelo  prazo  exigido  não  se  confirmou,  na  medida  em  que  grande  parte  dos  documentos  relacionados  refere-se  à  posse  da  nora  dos  autores,  NOELIA,  ora  contestante"  (e-STJ  fls.  692/693).
+Nesse  contexto,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  de  acordo  com  a  Súmula  nº  7/STJ.
+Ademais,  como  se  sabe,  devem  ser  considerados  os  princípios  da  livre  admissibilidade  probatória  e  do  livre  convencimento  motivado,  cabendo  ao  juiz  determinar  quais  provas  são  necessárias  à  instrução  do  processo.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INDENIZAÇÃO  POR  DANOS  MORAIS.  ERRO  MÉDICO.  OMISSÃO  NO  ACÓRDÃO  RECORRIDO.  OFENSA  AO  ART.  1.022  DO  CPC.  NÃO  VERIFICAÇÃO.  CERCEAMENTO  DE  DEFESA.  PRODUÇÃO  DE  PROVAS.  INDEFERIMENTO.  DECISÃO  MOTIVADA.  DESNECESSIDADE.  FACULDADE  DO  MAGISTRADO.  MODIFICAÇÃO.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  RESPONSABILIDADE  CIVIL.  CONFIGURAÇÃO.  PRESSUPOSTOS.  REVISÃO.  INVIABILIDADE.  REEXAME  DO  ACERVO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  N.  7  DO  STJ.  REDUÇÃO  DO  QUANTUM  INDENIZATÓRIO.  NOVA  APRECIAÇÃO  DO  ACERVO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Inexiste  ofensa  ao  art.  1.022  do  CPC  quando  o  tribunal  de  origem  aprecia,  com  clareza  e  objetividade  e  de  forma  motivada,  as  questões  que  delimitam  a  controvérsia,  ainda  que  não  acolha  a  tese  da  parte  insurgente.
+2.  O  magistrado,  destinatário  final  da  prova,  pode,  de  maneira  fundamentada,  indeferir  a  produção  de  provas  e  diligências  protelatórias,  desnecessárias  ou  impertinentes.
+3.  Rever  a  convicção  da  corte  de  origem  de  prescindibilidade  da  produção  de  provas  requerida  demanda  reexame  fático-probatório,  o  que  é  vedado  em  recurso  especial,  em  razão  da  incidência  da  Súmula  n.  7  do  STJ.
+4.  Aplica-se  a  Súmula  n.  7  do  STJ  na  hipótese  em  que  o  acolhimento  da  tese  defendida  no  recurso  especial  reclama  a  análise  dos  elementos  probatórios  produzidos  ao  longo  da  demanda.
+5.  A  revisão  pelo  STJ  da  indenização  arbitrada  a  título  de  danos  morais  exige  que  o  valor  tenha  sido  irrisório  ou  exorbitante,  fora  dos  padrões  de  razoabilidade.  Salvo  essas  hipóteses,  incide  a  Súmula  n.  7  do  STJ,  impedindo  o  conhecimento  do  recurso  especial.
+6.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.244.039/DF,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  24/4/2023,  DJe  de  26/4/2023  -  grifou-se).
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CERCEAMENTO  DE  DEFESA.  JULGAMENTO  ANTECIPADO  DA  LIDE.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  N.  7/STJ.  REMÉDIO.  CUSTEIO.  LIMITES  DA  ÁREA  DE  ATUAÇÃO  GEOGRÁFICA.  VERIFICAÇÃO.  SÚMULAS  N.  5  E  7  DO  STJ.  PLANO  DE  SAÚDE.  CÂNCER.  TRATAMENTO.  COBERTURA.  DISCUSSÃO  DA  NATUREZA  DO  ROL  DA  ANS.  IRRELEVÂNCIA.  MEDICAMENTO.  CUSTEIO.  POSSIBILIDADE.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  JURISPRUDÊNCIA  DESTA  CORTE.  SÚMULA  N.  83/STJ.  DECISÃO  MANTIDA.
+1.  "Os  princípios  da  livre  admissibilidade  da  prova  e  da  persuasão  racional  autorizam  o  julgador  a  determinar  as  provas  que  repute  necessárias  ao  deslinde  da  controvérsia,  e  a  indeferir  aquelas  consideradas  prescindíveis  ou  meramente  protelatórias.  Não  configura  cerceamento  de  defesa  o  julgamento  da  causa  sem  a  produção  da  prova  solicitada  pela  parte,  quando  devidamente  demonstrada  a  instrução  do  feito  e  a  presença  de  dados  suficientes  à  formação  do  convencimento"  (AgInt  no  AREsp  n.  1.457.765/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  19/8/2019,  DJe  22/8/2019).
+1.1.  O  recurso  especial  não  comporta  o  exame  de  questões  que  impliquem  interpretação  de  cláusula  contratual  ou  revolvimento  do  contexto  fático-probatório  dos  autos,  a  teor  do  que  dispõem  as  Súmulas  n.  5  e  7  do  STJ.
+1.2.  No  caso,  a  Corte  de  origem  afastou  o  alegado  cerceamento  de  defesa,  tendo  em  vista  a  desnecessidade  da  prova  pericial.  Modificar  tal  entendimento  exigiria  nova  análise  do  conjunto  probatório  dos  autos,  medida  inviável  em  recurso  especial.  (..)"  (AgInt  no  REsp  2.043.178/SP,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  11/12/2023,  DJe  de  18/12/2023).
+
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  12%  (doze  por  cento)  sobre  o  valor  da  causa,  os  quais  devem  ser  majorados  para  o  patamar  de  15%  (quinze  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  artigo  85,  §  11,  do  Código  de  Processo  Civil,  observado  o  benefício  da  gratuidade  da  justiça.
+É  o  voto.
