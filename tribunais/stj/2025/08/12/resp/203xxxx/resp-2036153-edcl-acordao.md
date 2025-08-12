@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO AGRAVO  INTERNO NO RECURSO ESPECIAL.  PREVIDÊNCIA  PRIVADA.  DIREITO A  HORAS  EXTRAS.  ANTERIOR  RECONHECIMENTO PELA JUSTIÇA LABORAL. REFLEXOS PREVIDENCIÁRIOS.  PATROCINADORA. LEGITIMIDADE PASSIVA. COMPETÊNCIA  DA JUSTIÇA COMUM.  TEMA  Nº  1.166/STF.  INAPLICABILIDADE. TEMA Nº 190/STF. PREVALÊNCIA. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CPC.. OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  BANCO DO BRASIL S.A. ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO NO RECURSO ESPECIAL.  PREVIDÊNCIA  PRIVADA.  DIREITO A  HORAS  EXTRAS.  ANTERIOR  RECONHECIMENTO PELA JUSTIÇA LABORAL. REFLEXOS PREVIDENCIÁRIOS.  PATROCINADORA. LEGITIMIDADE PASSIVA. COMPETÊNCIA  DA JUSTIÇA COMUM.  TEMA  Nº  1.166/STF.  INAPLICABILIDADE. TEMA Nº 190/STF. PREVALÊNCIA. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CPC.
+1.  O  Supr emo  Tribunal  Federal,  no  julgamento  do  RE  nº  1.265.564/SC (Tema nº 1.166/STF),  em  repercussão  geral,  reconheceu  a  incompetência  da  Justiça  Comum  para  processar  os  feitos  em  que  se  pretende  a  condenação  do  patrocinador  ao  aumento  do  benefício  previdenciário  com  base  em  verbas  trabalhistas  não  pagas  durante  o  contrato  de  trabalho.
+2. Hipótese em que se busca apenas os reflexos, sobre o benefício previdenciário complementar, do direito ao pagamento de horas extras já reconhecido pela Justiça do Trabalho em ação anterior.
+3. Prevalência da tese firmada no julgamento do Tema nº 190/STF, no sentido de reconhecer a competência da Justiça Comum para o processamento de demandas ajuizadas contra entidades privadas de previdência com o propósito de obter complementação de aposentadoria.
+Inaplicabilidade do Tema nº 1.166/STF, conforme decidido em recentes julgados de ambas as Turmas do Supremo Tribunal Federal.
+4.  Agravo  interno  provido. Juízo de retratação realizado com fundamento no art. 1.040, II, do Código de Processo Civil."
+Em  suas  razões  ,  o  embargante sustenta que o acórdão embargado omitiu-se quanto à ilegitimidade passiva da patrocinadora, porquanto já realizada a quitação dos valores relativos à integralização da reserva matemática pela instituição financeira, e quanto à inaplicabilidade do Tema nº 190/STF, por se tratar de pedido indenizatório decorrente da relação de emprego.
+Ao  final,  requer  o  acolhimento  dos  embargos  de  declaração , com efeitos modificativos,  para  que sejam sanadas as omissões ora indicadas.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  aos aclaratórios.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO AGRAVO  INTERNO NO RECURSO ESPECIAL.  PREVIDÊNCIA  PRIVADA.  DIREITO A  HORAS  EXTRAS.  ANTERIOR  RECONHECIMENTO PELA JUSTIÇA LABORAL. REFLEXOS PREVIDENCIÁRIOS.  PATROCINADORA. LEGITIMIDADE PASSIVA. COMPETÊNCIA  DA JUSTIÇA COMUM.  TEMA  Nº  1.166/STF.  INAPLICABILIDADE. TEMA Nº 190/STF. PREVALÊNCIA. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CPC.. OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  ,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+No  caso  em  apreço,  o  acórdão embargado, em juízo de retratação realizado com fundamento no art. 1.040, II, do Código de Processo Civil, limitou-se a reconhecer a competência da Justiça Comum para julgamento das ações em que se busca somente a recomposição da reserva matemática e a revisão do benefício previdenciário relativamente a verbas já reconhecidas na Justiça do Trabalho.
+Como bem ponderou a eminente Ministra Nancy Andrighi, em voto-vogal proferido no julgamento do AgInt no RE no REsp nº 1.961.882-DF,
+"(..) ao analisar ações revisionais de benefícios previdenciários que envolvem verbas trabalhistas, é essencial distinguir (I) as ações em que as verbas ainda não foram reconhecidas pela Justiça do Trabalho, que serão de competência da Justiça do Trabalho, nos termos do Tema 1.166/STF; e (II) as ações em que as verbas já foram reconhecidas na Justiça do Trabalho e busca-se apenas a recomposição da reserva matemática e a revisão do benefício previdenciário, que serão de competência da Justiça Comum" (grifou-se).
+Desse modo, a alegada inaplicabilidade do Tema nº 190/STF constitui mero inconformismo da parte embargante com o resultado do julgamento, não sendo adequada a via dos aclaratórios para esse fim.
+No tocante à ilegitimidade passiva da patrocinadora, também ficou suficientemente esclarecido que
+"(..) a Segunda Seção desta Corte, no julgamento do Tema Repetitivo nº 936/STJ, ao definir o âmbito de aplicação da tese jurídica firmada no referido precedente - "A patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma" -, fez expressa ressalva no tocante às causas originadas de eventual ato ilícito, contratual ou extracontratual, praticado pelo patrocinador, a exigir análise mais acurada quanto à sua permanência no polo passivo da presente lide" (grifou-se).
+Trata-se, portanto, de matéria que será novamente examinada no momento oportuno, no rejulgamento dos recursos interpostos nos presentes autos.
+Dessa  maneira,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se patente o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração, com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+É  o  voto.
