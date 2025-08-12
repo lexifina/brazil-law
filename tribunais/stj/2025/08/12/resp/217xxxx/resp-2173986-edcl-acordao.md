@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Henrique Coimbra Valle em face de acórdão prolatado pela eg. Primeira Turma assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. ART. 489 do CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 356 /STF. CONDENAÇÃO EM HONORÁRIOS. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. FUNDAMENTAÇÃO DO JULGADO. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF.
+1. A questão pertinente ao art. 489 do CPC não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+2. Quanto à tese referente à atribuição do ônus de sucumbência, a parte recorrente não amparou o inconformismo na violação a qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência do mencionado verbete 284 da Súmula do STF.
+3. Aplicável, uma vez mais, o obstáculo sumular 284/STF, tendo em vista que o arrazoado recursal apresenta razões dissociadas dos alicerces do acórdão recorrido, ao concluir pela perda superveniente de interesse de agir da autora em relação ao pedido de sustação dos protestos, os quais ocorreram antes mesmo da citação da Fazenda Nacional, pelo que afastou o pleito de condenação da ré em perdas e danos.
+4. Agravo interno não provido.
+A parte embargante, em suas razões, sustenta haver omissões no acórdão embargado. Refere que, em relação ao art. 489 do CPC, andou mal o decisum ao entender pela falta do prequestionamento; e quanto à Súmula 284/STF aplicada, essa deve ser afastada, pois foi apontada afronta ao art. 17 do CPC. Aduz, ainda, que se olvidou o decisório alvejado de tratar da "resistência da União ao contestar e recorrer da decisão liminar que determinou a sustação dos protestos mantendo assim o interesse de agir do agravante" (fl. 439); do fato de a liminar ter ficado sub judice por quase 3 (três) anos após a propositura da ação; bem assim de que "somente em 31/05/2021 (um ano e meio depois do ajuizamento da ação, e na apresentação da contestação da ação principal - Evento 28) é que a União informou o cancelamento "extra autos" dos protestos e ainda assim contestou a ação" (fl. 439).
+Transcorreu in albis o prazo para resposta (fl. 449).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte recorrente.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficaram devidamente consignadas no aresto hostilizado as razões pelas quais o apelo raro, nos moldes em que apresentado, não logrou ultrapassar a barreira de cognoscibilidade.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fls. 424/428 - g.n.):
+Conforme assinalado na decisão agravada, o Tribunal de origem não apreciou a controvérsia sob a ótica do art. 489, § 1º, I, II, III e IV, do CPC e a parte ora agravante nem sequer disso tratou nos aclaratórios opostos para suprir eventual omissão, razão pela qual não se observa o prequestionamento dos citados dispositivos.
+Ademais, esta Corte Superior aceita o prequestionamento explícito e implícito, contudo, não admite o chamado "prequestionamento ficto", que se daria com a mera oposição de aclaratórios, sem que o Sodalício de origem tenha efetivamente emitido juízo de valor sobre as teses debatidas.
+Rememore-se,  ainda,  que  o  prequestionamento  implícito  pressupõe  o  debate  inequívoco  da  tese  à  luz  da  legislação  tida  como  violada,  o  que,  como  visto,  não  ocorreu  nos  autos.
+A propósito:
+ ..
+Correta, igualmente, a decisão agravada ao entender pela incidência da Súmula 284/STF quanto à tese de que "o Tribunal também ofende o princípio da causalidade ao condenar o embargante nos ônus da sucumbência" (fl. 345), uma vez que a parte ora agravante, nas razões de recurso especial, não amparou o inconformismo na violação a qualquer lei federal.
+Logo, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do apelo nobre. Nesse diapasão: AgRg no AREsp 157.696/SC, rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/8/2010.
+Por oportuno, consigne-se, ainda, que não é cabível a interposição de insurgência especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal. Nesse sentido: "O art. 105, III, "a", da CF, ao dispor acerca da interposição de recurso especial, menciona a ocorrência de violação à lei federal, expressão que não inclui os princípios" (AgInt no AREsp 826.592/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 13/6/2017).
+Noutro turno, quanto à alegação de que não haveria espaço para aplicação, uma vez mais, da Súmula 284/STF em virtude da resistência processual da União após o cancelamento dos protestos, também não merece prosperar.
+Observa-se que a ratio decidendi do acórdão recorrido, ao negar o pedido de condenação do ente público a perdas e danos, concentrou-se especificamente na perda superveniente do interesse processual em razão do cancelamento dos protestos antes mesmo da citação da União. Conforme consignou o Tribunal a quo: "a presente ação carece de interesse processual, considerando que o embargante efetivou o depósito judicial dos valores questionados nos autos da Execução Fiscal n. 0000657-88.2010.4.02.5111, em 21/08/2019, e por essa razão, houve o cancelamento dos protestos em 30/08/2019, um dia após o ajuizamento da ação, e muito antes da citação da União" (fl. 316).
+A tese central desenvolvida no apelo raro, por sua vez, centrou-se no argumento de que o interesse de agir deve ser aferido exclusivamente no momento da propositura da ação, conforme expresso no seguinte excerto do apelo nobre: "na data da propositura da ação, estava presente o binômio necessidade-utilidade que define o interesse de agir, razão pela qual o Tribunal a quo negou vigência ao art. 17 do CPC" (fl. 344).
+Como se extrai do compulsar dos autos, o cerne da tese recursal não enfrentou adequadamente a questão jurídica relativa à perda superveniente do interesse processual, tal como fundamentado no acórdão recorrido.
+Nessa esteira, a jurisprudência deste Pretório é firme no sentido de que, para afastar a incidência da Súmula 284/STF, é necessário que as razões recursais enfrentem especificamente os fundamentos determinantes do aresto recorrido, não bastando argumentação genérica ou tangencial. No caso, o recorrente deixou de atacar diretamente a premissa jurídica adotada pelo Juízo a quo quanto aos efeitos da perda superveniente do interesse processual, enveredando pela argumentação de interesse de agir no momento do ajuizamento da ação.
+Mantém-se, portanto, a aplicação da Súmula 284/STF, ante a evidente dissociação entre a fundamentação central do decisório colegiado recorrido e a tese jurídica efetivamente desenvolvida na insurgência excepcional.
+Como se vê, o decisório embargado posicionou-se expressa e claramente acerca dos tópicos ora tidos por olvidados, ressaindo nítido o intuito da parte insurgente em alterar os fundamentos nele esposados, o que, como cediço, não se coaduna com o recurso integrativo.
+Ressalte-se, outrossim, que, não logrando o especial apelo ultrapassar a barreira de admissibilidade recursal, no caso, ante a "evidente dissociação entre a fundamentação central do decisório colegiado recorrido e a tese jurídica efetivamente desenvolvida na insurgência excepcional" (Súmula 284/STF), não há como tachar o julgado de omisso acerca do ponto meritório ancorado nesses mesmo argumentos.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 22/8/2018, DJe de 28/8/2018.)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
