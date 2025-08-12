@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de rescisão de contrato c/c restituição de valores c/c perdas e danos por inadimplemento contratual.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O princípio da identidade física do juiz não possui caráter absoluto, de modo que, se não ficar caracterizado nenhum prejuízo às partes, sobretudo no que tange aos princípios do contraditório e da ampla defesa, não se reconhece a nulidade do decisum por ter sido prolatado por julgador que não presidiu a instrução do processo. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ausência de comprovação de prejuízo à agravante decorrente da alegada não observância dos princípios do contraditório e da ampla defesa, bem como em relação à existência de ilícito civil praticado pela agravante, a ensejar a reparação adequada na hipótese, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por PRD COMERCIO, DISTRIBUICAO, IMPORTACAO E EXPORTACAO LTDA contra decisão unipessoal que conheceu do agravo, para conhecer parcialmente do recurso especial que interpusera e, nessa extensão, negou provimento.
+Ação: de rescisão de contrato c/c restituição de valores c/c perdas e danos por inadimplemento contratual, ajuizada por M. DI BUONO RIATO EIRELI (BR MEDSUPPLIES), em face da agravante, na qual requer a rescisão do "Contrato de Prestação de Serviços de Importação por Conta e Ordem de Terceiros" e o ressarcimento de prejuízos (e-STJ, fls. 01/18).
+Sentença: julgou procedentes os pedidos, para:
+i) rescindir o contrato objeto desta ação;
+ii) condenar a agravante ao pagamento de R$ 285.789,12 (duzentos e oitenta e cinco mil e setecentos e oitenta e nove reais e doze centavos);
+iii) condenar a agravante ao pagamento de lucros cessantes, a serem apurados em fase de liquidação de sentença; e
+iv) condenar a agravante a arcar com os custos de "demurrage", destruição do material ou sua repatriação (e-STJ, fls. 1.035/1.041).
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+CIVIL - CONTRATO DE PRESTAÇÃO DE SERVIÇOS - PRESTAÇÃO DE SERVIÇOS DE IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO. Ré incumbida de todo o procedimento de desembaraço aduaneiro de carga importada pela autora, tubos de coleta de sangue a vácuo. Carga desembarcada no Porto de Santos em setembro de 2015 e problemas para a consecução do desembaraço, primeiro em razão da falta de AFE (Autorização de Funcionamento Eletrônica) da filial alagoana da ré e, segundo, ao ser desencadeado questionamento da autoridade aduaneira acerca do NCM (Nomenclatura Comum do Mercosul). Questões resolvidas pela ré muito tempo depois do prazo de validade da carga, que passou a ser não comerciável. Perda da carga importada pela autora. Prejuízo com o preço dos produtos importados, lucros cessantes e sobrestadia de contêiner. Prova documental e oral conclusiva de que a ré falhou na prestação dos serviços contratados. Filial alagoana da ré, responsável pelos serviços, de fato, sem AFE (Autorização de Funcionamento Eletrônica), expedida pela ANVISA. Longo procedimento administrativo visando sanar essa irregularidade seguido de outro, criado ao ser questionado, pela autoridade aduaneira, o NCM (Nomenclatura Comum do Mercosul) associada à mercadoria, com impacto na tributação. Solução outra vez tortuosa, àquela altura comprometedora do prazo de validade dos produtos importados destinados ao uso médico. Responsabilidade da ré pelos prejuízos suportados pela autora, inclusive lucros cessantes e de sobrestadia. Lucros cessantes, no entanto, a ser apurado em liquidação de sentença pelo procedimento comum (art. 509, inciso II, do CPC), diante da falta de prova de que o percentual alegado na petição inicial condiz com o lucro esperado com a venda dos produtos importados.
+PROCESSO CIVIL - Arguição de litispendência entre a presente ação e outra de mesma natureza ajuizada contra a União. Litispendência não caracterizada, à míngua de identidade de pessoas nos polos passivos.
+PROCESSO CIVIL - Arguição de nulidade da r. sentença prolatada por juiz distinto daquele que presidiu a audiência de instrução. Princípio da identidade física do juiz, plasmado no art. 132 do CPC de 1973, não repisado no sistema processual em vigor. Prejuízo ao direito de defesa inexistente, circunscrito à só arguição de nulidade. Recurso desprovido. (e-STJ, fls. 1.472/1.483)
+Recurso especial: alega violação dos arts. 132 do CPC/73; 399, §2º, do CPP; 186 e 927, ambos do CC/02. Sustenta:
+i) a violação ao princípio da identidade física do juiz, pois a sentença foi proferida por um juiz diferente daquele que presidiu a instrução processual, o que gera nulidade da decisão em razão da existência de prejuízos reais a julgamento;
+ii) que a demora na liberação da mercadoria e a consequente perda da carga ocorreram devido a falhas atribuídas à agravada, não existindo ilícito civil a ser imputado à parte agravante; e
+iii) que o princípio da identidade física do juiz deveria ser aplicado supletivamente ao CPC/15 (e-STJ, fls. 1.489/1.510).
+Decisão unipessoal: conheceu do agravo, para conhecer parcialmente do recurso especial interposto e, nessa extensão, negou provimento, nos termos do art. 932, III, IV, "a", do CPC, bem como da Súmula 568/STJ (e-STJ, fls. 1.557/1.562).
+Agravo interno: alega, em síntese:
+i) o devido prequestionamento das matérias constantes no recurso especial, na hipótese o art. 399, §2º, do CPP;
+ii) que "(..) a decisão agravada merece ser revista com a devida atenção no tocante à aplicação da Súmula 568/STJ, que versa sobre a não obrigatoriedade do princípio da identidade física do juiz. Data venia, a aplicação genérica e descontextualizada de tal enunciado sumular, no caso em tela, desconsidera a peculiaridade crucial da ocorrência de prejuízo concreto à Agravante em decorrência da substituição do magistrado responsável pela instrução processual." (e-STJ, fl. 1.577); e
+iii) a não incidência da Súmulas 5 e 7, ambas do STJ, asseverando que "É necessário distinguir, para fins de admissibilidade do Recurso Especial, entre o reexame de fatos e provas - vedado pelas Súmulas 5 e 7/STJ - e a revaloração jurídica dos fatos - perfeitamente cabível na instância especial." (e-STJ, fl. 1.579).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de rescisão de contrato c/c restituição de valores c/c perdas e danos por inadimplemento contratual.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O princípio da identidade física do juiz não possui caráter absoluto, de modo que, se não ficar caracterizado nenhum prejuízo às partes, sobretudo no que tange aos princípios do contraditório e da ampla defesa, não se reconhece a nulidade do decisum por ter sido prolatado por julgador que não presidiu a instrução do processo. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ausência de comprovação de prejuízo à agravante decorrente da alegada não observância dos princípios do contraditório e da ampla defesa, bem como em relação à existência de ilícito civil praticado pela agravante, a ensejar a reparação adequada na hipótese, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo, para conhecer parcialmente do recurso especial interposto pela parte agravante e, nessa extensão, negou provimento, em razão da:
+i) ausência de prequestionamento (Súmula 282/STF);
+ii) consonância entre o acórdão recorrido e a jurisprudencial do STJ (Súmula 568/STJ); e
+iii) incidência da Súmulas 5 e 7, ambas do STJ.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe quaisquer argumentos novos capazes de ilidirem o entendimento firmado na decisão ora agravada.
+1. Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282/STF ou 211/STJ.
+Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 282/STF decorre da não deliberação pelo acórdão recorrido acerca do art. 399, § 2º, do CPP, não tendo a parte agravante interposto o recurso de embargos de declaração.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 282/STF.
+2. Da súmula 568/STJ
+Nas razões do agravo interno, a parte agravante alega a não incidência da Súmula 568/STJ, asseverando que "(..) a decisão agravada merece ser revista com a devida atenção no tocante à aplicação da Súmula 568/STJ, que versa sobre a não obrigatoriedade do princípio da identidade física do juiz. Data venia, a aplicação genérica e descontextualizada de tal enunciado sumular, no caso em tela, desconsidera a peculiaridade crucial da ocorrência de prejuízo concreto à Agravante em decorrência da substituição do magistrado responsável pela instrução processual." (e-STJ, fl. 1.577).
+No entanto, a decisão agravada consignou que o decidido pelo Tribunal local está de acordo com a jurisprudência do Superior Tribunal de Justiça, no sentido de que o princípio da identidade física do juiz não possui caráter absoluto, de modo que, se não ficar caracterizado nenhum prejuízo às partes, sobretudo no que tange aos princípios do contraditório e da ampla defesa, não se reconhece a nulidade do decisum por ter sido prolatado por julgador que não presidiu a instrução do processo.
+Para isso trouxe os seguintes precedentes: AgInt no REsp n. 1.613.988/PR, Terceira Turma, DJe de 11/9/2024; AgInt no AREsp n. 2.375.553/SP, Quarta Turma, DJe de 1/12/2023.
+Ressalta-se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+3. Do reexame de fatos e provas e da interpretação de cláusula contratual
+O Tribunal de origem, soberano na análise dos fatos das provas, decidiu pela ausência de comprovação de prejuízo à agravante decorrente da alegada não observância dos princípios do contraditório e da ampla defesa, bem como em relação à existência de ilícito civil praticado pela referida parte, a ensejar a reparação adequada na hipótese.
+Nesse sentir, quanto à aplicação das Súmulas 5 e 7, ambas do STJ, essas merecem serem mantidas, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem sobre as questões mencionadas, não demandaria a incursão na seara fático-probatória dos autos e interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial.
+A esse propósito, é o teor de trecho do acórdão recorrido:
+No mais, a r. sentença prolatada por juiz distinto daquele que presidiu a audiência de instrução não induz nulidade alguma, mormente porque a disciplina do art. 132 do CPC de 1973 não foi repisada pelo CPC de 2015.
+Em que pese essa circunstância, a arguição de nulidade é canhestra, visto que em tema de nulidades processuais o que orienta a proclamação ou não é o prejuízo objetivo que influencie no direito material, a toda evidência inexistente no caso concreto: pas de nullité sans grief.
+(..)
+Nos termos da cláusula "VII" do contrato, a ré assumiu a obrigação "pela adoção dos procedimentos de importação das mercadorias de qualquer natureza, de forma que as mesmas sejam entregues à contratante nas condições neste ajustadas" (fls. 32).
+Ocorre que o atraso do qual reclama a autora gerou o comprometimento da carga e da sua capacidade de comercialização junto a clientes, daí a pretensão de indenização pelos danos materiais, neles incluídos danos emergentes e os lucros cessantes.
+Apesar de a ré imputar responsabilidade aos agentes administrativos pela demora do desembaraço aduaneiro, fato deduzido em ação de indenização ajuizada contra a União (autos n. 5001340- 94.2017.4.03.6104, sob a presidência do Juízo da 4ª Vara Federal de Santos fls. 1.075/1.090), fato é que tudo isso é risco inerente ao negócio que a ré se dedica e propôs-se a realizar à favor dos interesses da autora.
+Então, fatos como os verificados na hipótese do caso concreto, mais do previsíveis pela ré, em especial a necessidade de AFE (Autorização de Funcionamento Eletrônica) em nome da filial, precisam ser contornados de modo a favorecer o objeto da contratação que vem a ser o desembaraço aduaneiro no tempo e modo contratado, porque relevante e imprescindível à atividade empresarial da autora, justificando a rescisão do contrato por culpa da ré.
+A prova oral ministrada é coerente com essa convicção.
+(..)
+A ré, deveras, descumpriu o contrato de prestação de serviços pactuado com a autora no tocante ao desembaraço e liberação da carga importada a tempo de ser comercializada e disso advém a sua responsabilidade pelos prejuízos causados.
+Desse descumprimento por si só não deriva a obrigação incondicional de indenizar todo e qualquer prejuízo, senão aquele com nexo direto de causalidade e imputação com o dano específico, daí ser necessário o exame do contrato e investigar os danos conexos, consubstanciando o que vem a ser a causalidade adequada.
+(..)
+Nesse contexto, a pretensão de indenização pautada pelo inadimplemento do contrato por culpa da ré encampa o pedido de indenização pela carga inutilizada em razão do decurso do prazo de validade (R$ 285.789,12), lucros cessantes de 15% do valor de revenda, que representa aproximadamente 30% do valor do produto, mais o pagamento da armazenagem (demurrage).
+A perda da carga a essa altura é fato incontroverso, consequência direta e imediata do inadimplemento contratual por culpa da ré (arts. 186 e 927, ambos do Código Civil).
+O mesmo raciocínio forma a convicção favorável à indenização por lucros cessantes, ainda sob a ótica da teoria da causalidade adequada.
+(..)
+No que concerne ao pedido de indenização pela sobrestadia do contêiner (demurrage), a pretensão da autora foi bem resolvida, visto que, se a sobrestadia tem como causa direta a demora do desembaraço aduaneiro a cargo da ré, o corolário é que arque com essa despesa que sua imperícia desencadeou. (e-STJ, fls. 1.477/1.482) (grifo nosso)
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
