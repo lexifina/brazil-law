@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  EXECUÇÃO.  OMISSÃO.  NÃO  OCORRÊNCIA.  PRESCRIÇÃO  INTERCORRENTE.  AUSÊNCIA  DE  INÉRCIA  DA  PARTE.  NECESSIDADE.  R  EEXAME  FÁTICO.  SÚMULA  Nº  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.
+1.  Não  viola  os  artigos  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  No  caso,  acolher  a  tese  pleiteada  pela  parte  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas,  procedimento  vedado  em  recurso  especial,  a  teor  das  Súmula  nº  7/STJ.
+3.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+4.  Agravo  conhecido  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento.
+RELATÓRIO
+  Trata-se  de  agravo  interposto  por  BRUCE  PETTERSON  FONSECA  MOREIRA  e  OUTRAS  contra  a  decisão  que  inadmitiu  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais  assim  ementado:
+"APELAÇÃO  CÍVEL  -  AÇÃO  DE  EXECUÇÃO  FUNDADA  EM  TÍTULO  EXTRAJUDICIAL  -  PRESCRIÇÃO  INTERCORRENTE  -  AUSÊNCIA  DE  INÉRCIA  DA  PARTE  EXEQUENTE  -  PREJUDICIAL  AFASTADA  -  SENTENÇA  DESCONSTITUÍDA.
+-  A  prescrição  intercorrente  decorre  da  inércia  do  exequente  em  dar  continuidade  à  execução  suspensa,  por  prazo  superior  ao  de  prescrição  do  direito  material  vindicado.  Em  virtude  do  seu  caráter  excepcional,  aplica-se  tão  somente  quando,  depois  de  ajuizada  a  ação,  existir  hiato  processual,  impeditivo  de  prosseguimento,  como  a  não  localização  do  devedor  e/ou  de  bens  passíveis  de  penhora.
+-  Não  tendo  sido  constatada  a  inércia  da  parte  exequente  em  face  de  qualquer  movimentação  processual,  não  há  que  se  falar  em  prescrição  intercorrente,  devendo  ser  desconstituída  a  sentença  recorrida"  (e-STJ  fl.  738).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fls.  767/772).
+No  recurso  especial  (e-STJ  fls.  777/824),  os  agravantes  alegam  violação  dos  artigos  489,  §  1º  e  1.022,  I  e  II,  parágrafo  único,  do  Código  de  Processo  Civil,  diante  da  negativa  de  prestação  jurisdicional.
+Quanto  ao  mérito,  defendem,  em  síntese,  que
+"(..)  os  Recorrentes  apenas  pretendem  a  aplicação  das  leis  aplicáveis  ao  caso  em  comento  -  artigos  921  e  927  do  CPC,  bem  como  seja  aplicada  a  interpretação  de  força  vinculante  deste  Colendo  Superior  Tribunal  de  Justiça  -  Recurso  Especial  nº.  1.604.412/SC  em  Incidente  de  Assunção  de  Competência  (IAC)  c/c  Recurso  Repetitivo  -  REsp  1.340.553/RS"  (e-STJ  fl.  786).
+Afirmam  que  o  presente  crédito  executado  encontra-se  alcançado  pela  prescrição  intercorrente.
+Por  fim,  suscitam  que  restou  comprovada  a  similitude  fática  e  a  divergência  jurisprudencial  no  caso  dos  autos.
+Com  as  contrarrazões  (e-STJ  fls.  865/912),  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  EXECUÇÃO.  OMISSÃO.  NÃO  OCORRÊNCIA.  PRESCRIÇÃO  INTERCORRENTE.  AUSÊNCIA  DE  INÉRCIA  DA  PARTE.  NECESSIDADE.  R  EEXAME  FÁTICO.  SÚMULA  Nº  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.
+1.  Não  viola  os  artigos  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  No  caso,  acolher  a  tese  pleiteada  pela  parte  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas,  procedimento  vedado  em  recurso  especial,  a  teor  das  Súmula  nº  7/STJ.
+3.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+4.  Agravo  conhecido  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+No  tocante  à  negativa  de  prestação  jurisdicional,  verifica-se  que  o  Tribunal  de  origem  motivou  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.
+No  caso,  o  Tribunal  de  Justiça  manifestou-se  expressamente  quanto  ao  prazo  prescricional,  conforme  se  verifica  dos  seguintes  trechos  dos  acórdãos:
+"(..)
+Extrai-se  dos  autos  que  o  banco  apelante  ajuizou  ação  de  execução  fundada  em  título  extrajudicial  em  24/11/2011  (ordem  04),  pretendendo,  àquela  época,  o  recebimento  da  quantia  de  R$822.520,09  (oitocentos  e  vinte  e  dois  mil,  quinhentos  e  vinte  reais,  nove  centavos),  fundada  no  "Instrumento  Particular  de  Confissão,  Assunção  de  Dívida  e  Outras  Avenças  de  n.  385/049848909"  de  ordem  06,  e  extinta  no  juízo  de  origem,  por  ter  sido  de  ofício  acolhida  a  prejudicial  de  prescrição  intercorrente.
+É  cediço  que  a  prescrição  intercorrente  é  uma  causa  de  extinção  da  execução  decorrente  da  inércia  do  exequente  em  dar  andamento  no  processo  executivo,  permitindo,  assim,  o  escoamento  de  prazo  superior  ao  previsto  em  lei  para  o  exercício  da  ação.
+(..)
+Por  outro  lado,  cumpre  registrar  que  a  ação  de  execução  fundada  em  instrumento  de  confissão  de  dívida  prescreve  em  cinco  anos,  nos  termos  do  art.  206,  §5º,  I  do  CC.
+No  caso,  foram  realizadas  diversas  pesquisas  na  busca  de  bens  para  satisfação  do  crédito,  inclusive,  averbado  o  impedimento  do  imóvel,  matrícula  n.  70576  do  Cartório  do  2º  Ofício  de  Registro  de  imóveis  de  Belo  Horizonte,  cuja  restrição  foi  revogada  através  da  decisão  de  ordem  139.
+Em  25/10/2022,  foram  requeridas  pesquisas  através  dos  Sistemas  Sisbajud,  Renajud  e  Infojud  disponíveis  no  Poder  Judiciário,  na  busca  de  bens  dos  executados,  passíveis  de  constrição  (ordem  149),  ocasião  em  que  o  débito  foi  atualizado  pelo  banco  credor,  o  qual  apontou  ser  devida  a  quantia  de  R$3.983.705,87  (três  milhões,  novecentos  e  oitenta  e  três  mil,  setecentos  e  cinco  reais,  oitenta  e  sete  centavos)  (ordem  150).
+Sem  que  fosse  o  referido  pedido  analisado,  foram  as  partes  intimadas  para  se  manifestarem  sobre  a  prescrição  intercorrente  (ordem  157),  sobrevindo  a  sentença  que  extinguiu  o  feito.
+Diante  da  breve  digressão  acima,  extrai-se  que  não  houve  o  decurso  do  prazo  de  cinco  anos,  sem  que  a  parte  exequente  se  manifestasse  requerendo  diligências,  buscando  satisfazer  o  seu  débito.
+Demais  disso,  a  alegada  demora  na  prática  dos  atos  processuais  se  deve  mais  à  dificuldade  em  encontrar  bens  passíveis  de  constrição,  o  que,  por  certo,  não  pode  ser  caracterizado  como  atos  protelatórios.
+Ao  revés,  a  tentativa  reincidente  de  atos  constritivos,  ainda  que  infrutíferos,  se  faz  necessária  justamente  pela  inércia  do  executado  em  quitar  a  dívida  existente,  como  forma  de,  eventualmente,  em  uma  das  referidas  oportunidades  lograr  êxito  na  localização  de  bens  e,  por  conseguinte,  na  satisfação  do  crédito  perseguido.
+Registro  que  sequer  houve  a  suspensão  da  execução  na  hipótese.
+Desta  forma,  deve  ser  cassada  a  sentença  que  extinguiu  o  feito  em  razão  do  acolhimento,  de  ofício,  da  prescrição  intercorrente.
+(..)
+Desse  modo,  o  marco  inicial  para  a  prescrição  intercorrente  é  sempre  o  último  ato  com  pretensão  executiva  praticado,  quando,  a  partir  de  então,  poderá  ser  verificada  a  inércia  do  exequente.
+Assim,  no  presente  caso,  verifica-se  que  a  parte  exequente  está  tentando  satisfazer  o  seu  crédito,  demonstrando  o  seu  interesse  na  busca  de  bens,  não  havendo  que  se  falar  em  inércia,  peculiar  à  prescrição.
+Por  fim,  não  é  demais  registrar  que  o  STJ,  no  julgamento  REsp  1.340.553/RS,  temas  n.  566  a  571,  limitou-se  às  execuções  fiscais,  ao  interpretar  o  art.  40,  da  Lei  n.  6.830/80,  não  sendo  esta  a  hipótese  dos  autos"  (e-STJ  fls.  740/745  -  grifou-se).
+Não  há  falar,  portanto,  em  existência  de  omissão  apenas  pelo  fato  de  o  julgado  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da  parte.
+A  esse  respeito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NEGATIVA  DE  CUSTEIO  DE  MEDICAMENTO  (THIOTEPA).  1.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  2.  FUNDAMENTO  SUFICIENTE  NÃO  ATACADO.  SÚMULA  283/STF.  3.  ACÓRDÃO  EM  CONSONÂNCIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE  SUPERIOR.  SÚMULA  83/STJ.  4.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  INCIDÊNCIA  DAS  SÚMULAS  282/STF  E  211/STJ.  5.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Não  ficou  configurada  a  violação  ao  art.  1.022  do  CPC/2015,  uma  vez  que  o  Tribunal  de  origem  se  manifestou,  de  forma  fundamentada,  sobre  todas  as  questões  necessárias  para  o  deslinde  da  controvérsia.  O  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão  não  caracteriza  falta  de  prestação  jurisdicional.
+2.  O  acórdão  recorrido  encontra-se  em  perfeita  harmonia  com  a  jurisprudência  desta  Corte  no  sentido  de  que,  "embora  se  trate  de  fármaco  importado  ainda  não  registrado  pela  ANVISA,  teve  a  sua  importação  excepcionalmente  autorizada  pela  referida  Agência  Nacional,  sendo,  pois,  de  cobertura  obrigatória  pela  operadora  de  plano  de  saúde"  (REsp  1.923.107/SP,  relatora  ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  10/8/2021,  DJe  16/8/2021).
+3.  Atentando-se  aos  argumentos  trazidos  pela  recorrente  e  aos  fundamentos  adotados  pela  Corte  estadual  de  que  a  ANVISA  admite  a  importação  do  fármaco,  verifica-se  que  estes  não  foram  objeto  de  impugnação  nas  razões  do  recurso  especial,  e  a  subsistência  de  argumento  que,  por  si  só,  mantém  o  acórdão  recorrido  torna  inviável  o  conhecimento  do  apelo  especial,  atraindo  a  aplicação  do  enunciado  n.  283  da  Súmula  do  Supremo  Tribunal  Federal.
+4.  A  ausência  de  debate  acerca  do  conteúdo  normativo  dos  arts.  66  da  Lei  n.  6.360/1976  e  10,  V,  da  Lei  n.  6.437/1976,  apesar  da  oposição  de  embargos  de  declaração,  atrai  os  óbices  das  Súmulas  282/STF  e  211/STJ.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.164.998/RJ,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023  -  grifou-se).
+Ademais,  do  trecho  acima  transcrito,  verifica-se  a  impossibilidade  de  rever  o  entendimento  firmado  pelas  instâncias  ordinárias ,  pois  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+Ressalta-se,  ainda,  que  a  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+Ante  o  exposto,  conheço  do  agravo  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento.
+Deixa-se  de  majorar  os  honorários  sucumbenciais,  nos  termos  do  artigo  85,  §  11,  do  CPC,  tendo  em  vista  que  não  foram  arbitrados  na  origem.
+É  o  voto.
