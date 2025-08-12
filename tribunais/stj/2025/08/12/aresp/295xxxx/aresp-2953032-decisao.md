@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VANIA MARIA PRADEL DE MIRANDA e SIRLEI SILVEIRA DE MIRANDA contra a decisão de fls. 258-262, que inadmitiu recurso especial com fundamento na ausência de violação legal e de incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta ainda que o órgão de interposição do recurso, ao emitir juízo prévio de admissibilidade, ultrapassou os limites de sua competência, adentrando indevidamente o mérito do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de ação de execução de título extrajudicial (Agravo de Instrumento n. 5050689-16.2024.8.21.7000).
+O julgado foi assim ementado (fl. 62):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO.
+PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. A PRESCRIÇÃO INTERCORRENTE DEPENDE DA INÉRCIA DA PARTE INTERESSADA, NÃO SENDO SUFICIENTE O TRANSCURSO DO PRAZO PRESCRICIONAL PREVISTO.
+PRESCRIÇÃO INTERCORRENTE NÃO IMPLEMENTADA.
+RECURSO QUE NÃO TRAZ ELEMENTOS NOVOS CAPAZES DE MODIFICAR A DECISÃO.
+|MANTIDA A DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 86-90).
+Nas razões do recurso especial, os recorrentes alegam violação dos seguintes artigos:
+a) 240, §§ 2º e 3º, 921, §§ 1º a 4º, do CPC, 40, §§ 1º e 2º, da Lei n. 6.830/1980, pois o início do prazo prescricional se dá automaticamente na data da ciência do exequente sobre a não localização do devedor e independe da inércia da parte exequente;
+b) 1.022, I e II, do CPC, por não terem sido enfrentados os argumentos deduzidos no processo sobre a matéria.
+Requer o provimento do recurso para que se anule o acórdão recorrido, determinando-se que novo julgamento seja realizado; ou, alternativamente, para que se reforme, restabelecendo-se a decisão que reconheceu a prescrição intercorrente em relação a um dos executados.
+Contrarrazões pelo não conhecimento ou pelo desprovimento do recurso especial (fls. 175-181).
+É o relatório. Decido.
+I - Usurpação de competência do STJ em juízo de admissibilidade
+Em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+Nesse sentido, aliás, é o enunciado da Súmula n. 123 do STJ: "A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais".
+Atendidos os requisitos de admissibilidade do agravo, segue a análise das razões do recurso especial.
+II - Contextualização
+Trata-se, na origem, de ação de execução de título extrajudicial.
+Decisão proferida em primeira instância reconheceu a prescrição intercorrente em relação a um dos executados (fls. 10-13).
+Interposto agravo de instrumento, o Tribunal a quo deu provimento ao recurso, afastando a prescrição intercorrente com base no entendimento de que não houve inércia por parte do exequente (fls. 59-62).
+Sobreveio recurso especial em que se alega negativa de prestação jurisdicional e a consumação da prescrição intercorrente.
+II - Violação do art. 1.022, I e II, do CPC
+Afasta-se a alegada deficiência de prestação jurisdicional, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+As questões apontadas, relacionadas à definição sobre a prescrição intercorrente, foram expressamente analisadas, com justificativas fundamentadas para a conclusão de que a prescrição intercorrente não foi implementada, pois depende da inércia da parte interessada, não sendo suficiente apenas o transcurso do prazo prescricional (fls. 59-60 e 86-87).
+Portanto, a matéria foi suficientemente analisada, não padecendo o acórdão recorrido dos vícios alegados, sendo certo que a definição quanto ao acerto do entendimento adotado diz respeito ao próprio mérito da controvérsia.
+Se a conclusão ou os fundamentos adotados não foram corretos na opinião da parte recorrente, não significa que não existam ou que configurem algum vício. Afinal, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte (AgRg no Ag n. 56.745/SP, relator Ministro Cesar Asfor Rocha, Primeira Turma, julgado em 16/11/1994, DJ de 12/12/1994).
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Além disso, não caracteriza deficiência de fundamentação nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para decidir a controvérsia, ainda que diversa da pretendida pela parte recorrente (AgInt no AREsp n. 2.179.308/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; AgInt nos EDcl no AREsp n. 1.528.474/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024, DJe de 17/5/2024).
+III - Violação dos arts. 240, §§ 2º e 3º, 921, §§ 1º a 4º, do CPC, 40, §§ 1º e 2º, da Lei n. 6.830/1980
+A jurisprudência do STJ estabelece que a prescrição intercorrente, na vigência do CPC/2015, deve observar o art. 921, III, §§ 1º e 4º, que, em sua redação original, prevê a suspensão da execução por um ano quando não localizados o executado ou bens penhoráveis, com o prazo prescricional iniciando após esse período (REsp n. 2.188.970/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/3/2025, DJEN de 21/3/2025)
+A partir da Lei n. 14.195/2021, que introduziu modificações na disciplina da prescrição intercorrente, alterando o § 4º do art. 921 do CPC/2015, o termo inicial do prazo de prescrição intercorrente passa a contar a partir da ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis, e será suspensa, por uma única vez, pelo prazo máximo previsto no § 1º do mesmo dispositivo legal.
+Entretanto, de acordo com a jurisprudência do STJ, essa alteração processual que dispõe sobre novo regime prescricional é irretroativa, aplicando-se os novos marcos temporais somente a partir da publicação da lei (REsp n. 2.090.768/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/11/2024, DJe de 14/11/2024; AgInt no REsp n. 2.114.822/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 7/10/2024, DJe de 10/10/2024; AgInt no REsp n. 2.090.626/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024).
+No caso, segundo delineado nos autos pela decisão agravada, a execução foi ajuizada em 17/4/2016, na vigência do CPC de 2015, e o prazo prescricional aplicável é de 3 anos. O processo foi suspenso por um ano a contar de 20/7/2016, data da ciência do exequente a respeito da não localização da devedora. A contagem do prazo de prescrição intercorrente teve início a partir de 20/7/2017, isto é, um ano após a intimação do exequente acerca da ausência de localização do executado, consumando-se, portanto, em 20/07/2020. Confira-se (fl. 12):
+Prazo prescricional: 03 anos;
+Data do início da suspensão de 1 ano do processo (data da ciência do exequente a respeito da não localização da devedora Carla Geovana): 20.07.2016 - Ev. 3, PROCJUDIC3, p. 04;
+Data do início da fluência do prazo prescricional (automaticamente após o prazo de 1 ano de suspensão): 20.07.2017;
+Data do fim do prazo prescricional: 20.07.2020.
+Diante do exposto, inexistindo nenhuma causa suspensiva ou interruptiva da prescrição intercorrente (citação da parte executada), como acima destacado, decorrido o prazo prescricional, julgo extinta a presente execução em relação à CARLA GEOVANA PRADEL DE MIRANDA, com resolução do mérito, pela ocorrência da prescrição, com fundamento no art. 487, II, do CPC.
+O Tribunal de origem, entretanto, concluiu que a prescrição intercorrente não foi implementada, pois dependia da inércia da parte interessada, não sendo suficiente apenas o transcurso do prazo prescricional. Confira-se (fls. 59-60):
+A ação de execução de título extrajudicial ajuizada pelo agravante foi distribuída em 17 de abril de 2016, junto à 4ª Vara Cível de Porto Alegre (p. 20 processo 5019341-06.2016.8.21.0001/RS, evento 3, PROCJUDIC3).
+Observo que, no decorrer processual, o agravante realizou tentativas de constrição de bens da agravada Carla, como, por exemplo, o arresto online (p. 64 processo 5019341-06.2016.8.21.0001/RS, evento 3, PROCJUDIC6) não podendo, portanto, o agravante ser considerado parte desinteressada.
+Acrescento que, para que haja o reconhecimento da prescrição, não basta o simples transcurso de prazo superior ao prescricional, sendo necessária a inércia da parte autora, o que não ocorreu.  ..
+Assim, a despeito do período de tramitação do processo, não verifico desídia da parte autora, ora agravante, pois apontou diversos endereços para localização da agravada Carla, bem como realizou tentativas de constrição online de bens, não podendo ser prejudicada com a declaração da prescrição intercorrente.
+Esse entendimento não está de acordo com a jurisprudência do STJ, uma vez que, nas execuções iniciadas na vigência do CPC de 2015 e nos processos anteriores nos quais a prescrição intercorrente ainda não tenha sido iniciada, nos termos da redação original do art. 921, § 4º, do CPC/2015, decorrido o prazo de suspensão de um ano sem manifestação do exequente, começa a correr automaticamente o prazo de prescrição intercorrente, independente de inércia ou desídia da parte demandante.
+Por esse motivo, deve ser afastado o fundamento adotado pelo acórdão recorrido para afastar o reconhecimento da prescrição intercorrente.
+Por outro lado, considerando-se os marcos temporais delimitados na origem, como o termo inicial do prazo de prescrição intercorrente teve início após o decurso do prazo de suspensão de um ano sem manifestação do exequente, ficou caracterizado o requisito temporal para o reconhecimento da prescrição.
+Registre-se, por fim, que a revaloração jurídica do pressuposto fático delineado no próprio decisório recorrido, suficiente para a solução do caso, para fins de aplicação do direito à espécie, é, ao contrário do reexame, permitida no recurso especial, o que afasta a incidência do óbice da Súmula n. 7 do STJ (AgInt no REsp n. 1.999.148/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt na Rcl n. 38.994/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/2/2020, DJe de 20/2/2020).
+IV - Conclusão
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de reformar o acórdão recorrido e restabelecer a decisão de primeiro grau que reconheceu a prescrição intercorrente em relação a um dos executados.
+Publique-se. Intimem-se.
+EMENTA
