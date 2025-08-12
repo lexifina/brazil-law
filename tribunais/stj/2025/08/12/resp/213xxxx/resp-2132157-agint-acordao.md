@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. ART. 1.025 DO CPC/2015. HIPÓTESE NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se conhece do recurso quanto à tese de violação dos arts. 489 e 1.022 do CPC/2015, pois desacompanhada de causa de pedir suficiente à compreensão da controvérsia, com a indicação precisa dos vícios de que padeceria o acórdão impugnado e qual a sua relevância, para fins de demonstrar a necessidade de rejulgamento dos aclaratórios. Aplicação da Súmula 284/STF.
+3."Inexiste contradição em se reconhecer a ausência de prequestionamento quanto à questão a respeito da qual não se conheceu do recurso pela aplicação da Súmula 284/STF à alegação atinente ao art. 1.022 do CPC/2015 - hipótese essa que também afasta a possibilidade prevista no art. 1.025 do CPC/2015" (AgInt no REsp 1.991.186/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 5/10/2022).
+4. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 159):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta, em síntese (fls. 169/173):
+"A Fazenda Pública apresentou embargos de declaração para, além de aclarar extinção do processo por abandono sem observar o art. 485, III, §1º do CPC e Súmula 240 deste STJ, bem como para que a questão fosse reapreciada pelo Tribunal local, tendo em vista haver jurisprudência autorizando ainda citação postal nos termos dos arts. 247 e 249 do Código de Processo Civil, pois poderia ser realizada a citação postal em processo de execução de título extrajudicial, sendo equivocado o entendimento que proíbe a diligência ou que exige, para realização -o pagamento das custas, vez que dela estão isentas a Fazenda Pública, na forma dos precedentes do STJ, em repetitivo (R Esp 1.107.543/SP e 1.144.687/RS.
+Foi esclarecido no recurso que, apesar de opostos os embargos de declaração, a referida omissão influenciaria na conclusão do julgamento da demanda recursal, o que resultaria na inquestionável necessidade de acolhimento do recurso interposto.
+ ..
+Ao contrário do que afirma, a questão atinente ao recurso especial não está ausente o prequestionamento. Isso porque, conforme decisão agravada, O acórdão em questão foi objeto de Embargos de Declaração.
+Para fins de prequestionamento, como cediço, sabe-se que é suficiente o debate acerca da temática sub judice, afigurando-se prescindível a indicação expressa dos dispositivos supostamente violados.
+Ainda que assim não fosse, o tema foi expressamente suscitado nos embargos de declaração perante o TJPB, devendo ser considerado parte integrante do acórdão recorrido, conforme determina o art. 1.025 do CPC."
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. ART. 1.025 DO CPC/2015. HIPÓTESE NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se conhece do recurso quanto à tese de violação dos arts. 489 e 1.022 do CPC/2015, pois desacompanhada de causa de pedir suficiente à compreensão da controvérsia, com a indicação precisa dos vícios de que padeceria o acórdão impugnado e qual a sua relevância, para fins de demonstrar a necessidade de rejulgamento dos aclaratórios. Aplicação da Súmula 284/STF.
+3."Inexiste contradição em se reconhecer a ausência de prequestionamento quanto à questão a respeito da qual não se conheceu do recurso pela aplicação da Súmula 284/STF à alegação atinente ao art. 1.022 do CPC/2015 - hipótese essa que também afasta a possibilidade prevista no art. 1.025 do CPC/2015" (AgInt no REsp 1.991.186/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 5/10/2022).
+4. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, conforme exposto na decisão agravada, a alegação genérica de violação, sem que se indique, de forma clara e objetiva, o ponto do acórdão acoimado de omissão, acompanhado da respectiva argumentação da relevância da questão e de sua pertinência para o deslinde da causa, não permite a exata compreensão da controvérsia.
+Daí por que, no caso, não se conhece do recurso quanto à tese de violação dos arts. 489 e 1.022 do CPC/2015, pois desacompanhada de causa de pedir suficiente à compreensão da controvérsia, com a indicação precisa dos vícios de que padeceria o acórdão impugnado e qual a sua relevância, para fins de demonstrar a necessidade de rejulgamento dos aclaratórios. Incidência do óbice da Súmula 284/STF, por configurada a deficiência das razões recursais.
+A propósito, citem-se: AgInt no AREsp 1.129.996/RJ, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe 1º/12/2017; AgInt no REsp 1.681.138/MS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, relator Ministro Og Fernandes, Primeira Seção, DJe 10/4/2015; AgRg no REsp 1.182.912/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/4/2016.
+Assinale-se que o não conhecimento do recurso quanto ao art. 1.022, II, do CPC/2015, pela aplicação do óbice da Súmula 284/STF, inviabiliza a hipótese prevista no art. 1.025 do CPC/2015. Neste sentido: AgInt no REsp n. 1.991.186/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.
+Segundo a pacífica jurisprudência do STJ, sem a presença dos requisitos para que seja admitida a análise da hipótese do art. 1.025 do CPC/2015, a mera alegação da questão nos embargos opostos na origem não resulta, de forma automática, em cumprimento do requisito do prequestionamento do art. 1.025 do CPC/2015. Confira-se: AgInt no AREsp n. 2.675.328/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/12/2024, DJEN 23/1/2024; AgInt no AREsp 1.502.338/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 25/10/2021, DJe 28/10/2021.
+Isso considerado, não configura contradição a aplicação da Súmula 282/STF, em razão da falta de cumprimento do requisito do prequestionamento no que tange à apontada violação dos arts. 247 e 249 do CPC/15, quando não conhecido do recurso pela aplicação do óbice da Súmula 284/STF à alegação do art. 1.022 do CPC/2015.
+A propósito, na parte que interessa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. HIPÓTESE NÃO CONFIGURADA.
+ ..
+4. A alegação de omissão de dispositivos legais a respeito dos quais a recorrente não aduz argumentação de relevância para o correto deslinde da controvérsia, a ensejar o rejulgamento dos aclaratórios na origem, configura fundamentação recursal deficiente. Aplicação da Súmula 284/STF. A propósito: REsp 1.748.752/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/11/2018; EDcl no AgRg no AREsp 278.621/DF, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 25/5/2015.
+5. Inexiste contradição em se reconhecer a ausência de prequestionamento quanto à questão a respeito da qual não se conheceu do recurso pela aplicação da Súmula 284/STF à alegação atinente ao art. 1.022 do CPC/2015 - hipótese essa que também afasta a possibilidade prevista no art. 1.025 do CPC/2015.
+6. Agravo interno não provido. (AgInt no REsp n. 1.991.186/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022) (grifo meu)
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 282/STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
