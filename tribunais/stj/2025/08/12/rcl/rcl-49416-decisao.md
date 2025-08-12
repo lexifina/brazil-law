@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, ajuizada por ONDINA DE CASTILHO MELLO contra com fundamento nos arts. 105, I, f", da CF, art. 988, §5.º, II do CPC, e 187 e 121-A do RISTJ, contra decisão proferida pelo Tribunal de origem que obstou a subida do apelo recursal interposto pela insurgente.
+Em suas razões, aduz que "(..) a decisão ora reclamada contraria frontalmente precedentes obrigatórios do Superior Tribunal de Justiça e do Supremo Tribunal Federal, em violação ao disposto nos arts. 927, III a V, e 489, §1º, VI, do CPC. Em especial, desconsidera a orientação consolidada no Tema n.º 988/STJ, que impõe ao recorrente o ônus de impugnar todos os fundamentos autônomos da decisão recorrida, e no Tema n.º 1067/STJ, que reafirma a necessidade de se privilegiar o julgamento de mérito, aplicando-se os princípios da primazia do mérito e da instrumentalidade das formas." Acrescenta, nesse contexto, que "(..) A decisão ora reclamada, ao tolerar o uso exclusivo de área comum por condômino, Steven e esposa, sem respaldo na deliberação condominial ou na lei, além de violar a legislação civil (arts. 1.331 e seguintes do Código Civil), afronta diretamente os precedentes acima referidos, legitimando conduta que representa verdadeiro esbulho possessório coletivo."
+Requer a sua procedência a fim de "cassar a decisão reclamada, com determinação de remessa do Recurso Especial para julgamento pelo Superior Tribunal de Justiça." (fls. 2/7)
+É o relatório.
+Decisão.
+O incidente não merece acolhimento.
+1. Nos termos dos artigos 105, I, "f", da Constituição Federal, 988, inc. II, do NCPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Com esse norte hermenêutico, a presente reclamação constitucional deve ser rejeitada porquanto, na hipótese dos autos, o "seu acolhimento tornaria ineficaz o propósito racionalizador implantado pelo regime dos recursos repetitivos." (ut. AgRg na Rcl 29.631/SP, Rel. Min. ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 22/02/2017, DJe 07/03/2017)
+Nesse contexto, em pronunciamento exarado pela eg. Corte Especial, nos autos da Reclamação 36.476/SP, Rel. Min. Nancy Andrighi, DJe de 06/03/2020, fixou orientação no sentido de que não é cabível o ajuizamento de reclamação com o objetivo de controlar a aplicaçãode tese firmada pelo STJ em recurso especial repetitivo.
+Na mesma linha: AgInt na Rcl 40592/DF, Rel. Min. Marco Aurélio Bellizze, Dje de 23/08/2021; AgInt na Rcl 41426/SP, Desta Relatoria, DJe de 17/06/2021; AgInt na Rcl 37346/SP, Rel. Min. Moura Ribeiro, DJe de 14/06/2021.
+Dessa forma, inexistente qualquer das hipóteses legais de cabimento, o indeferimento liminar da presente reclamação é medida de rigor.
+Finalmente, desde logo, fica advertida a ora reclamante - ante a interposição do AREsp 2.828014/RJ com desiderato análogo à presente reclamação - a possibilidade de aplicação de multa por litigância de má-fé.
+2. Do exposto, com fundamento no art. 34, I, do RISTJ, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
