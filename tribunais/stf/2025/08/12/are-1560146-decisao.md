@@ -1,0 +1,25 @@
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul - TJMS que não admitiu o recurso extraordinário, tendo em vista que o acórdão recorrido está em conformidade com a tese do Tema 1033 da repercussão geral.
+
+    É o relatório. Decido.
+
+    A pretensão recursal não merece acolhimento.
+
+    Isso porque, conforme a jurisprudência do Supremo Tribunal Federal, não é cabível recurso extraordinário contra acórdão do Tribunal de origem fundado na aplicação de entendimento firmado em regime de repercussão geral. Nesse sentido, cito os seguintes julgados:
+
+    Ementa: AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ACÓRDÃO RECORRIDO FUNDADO NA APLICAÇÃO DE LEADING CASE DE REPERCUSSÃO GERAL. NÃO CABIMENTO DE RECURSO AO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 102, § 3°, DA CONSTITUIÇÃO FEDERAL E DO ART. 1.035, § 2°, DO CÓDIGO DE PROCESSO CIVIL/2015. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Não é cabível recurso ao Supremo Tribunal Federal com a finalidade de rever acórdão da Corte de origem fundado na aplicação de entendimento firmado em regime da repercussão geral. II – Nos termos do art. 102, § 3°, da Constituição Federal e do art. 1.035, § 2°, do Código de Processo Civil/2015, o recorrente, na petição do recurso extraordinário, deverá demonstrar a existência de repercussão geral das questões constitucionais discutidas no caso, sob pena de inadmissão do recurso.  III – Agravo regimental a que se nega provimento (ARE 1.295.177 ED-segundos-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 21/10/2022 — grifei).
+
+    Ementa: AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. AÇÃO ORDINÁRIA. CONTRIBUIÇÃO SOCIAL. FUNRURAL. EMPREGADOR RURAL PESSOA FÍSICA. VALIDADE DA CONTRIBUIÇÃO INCIDENTE SOBRE A RECEITA BRUTA PROVENIENTE DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL, COM FUNDAMENTO NA LEI 10.256/2001. TEMA 669. RE 718.874. RECURSO PARA O STF CONTRA AS DECISÕES DOS TRIBUNAIS E TURMAS RECURSAIS QUE APLICAM A SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO (RE 1.198.148 ED-AgR/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 5/8/2019 — grifei).
+
+    Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. NÃO ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. NÃO CABIMENTO DE RECURSO. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1°, DO CÓDIGO DE PROCESSO CIVIL. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Consoante a Súmula 281/STF, é inadmissível o recurso extraordinário quando couber na justiça de origem recurso ordinário da decisão impugnada. II — A jurisprudência do Supremo Tribunal Federal está firmada no sentido de que não cabe recurso contra decisão do Tribunal de origem que aplica a sistemática da repercussão geral. III — É deficiente a fundamentação do agravo regimental cujas razões não atacam especificadamente os fundamentos da decisão agravada, consoante determina o art. 1.021, § 1°, do CPC. Incidência da Súmula 284/STF. IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC). (ARE 1.415.795 AgR/RJ, da minha relatoria, Primeira Turma, DJe 8/11/2023 — grifei).
+
+    Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL DE ORIGEM QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE DO AGRAVO PREVISTO NO ART. 1.042, DO CÓDIGO DE PROCESSO CIVIL. NÃO CABIMENTO DE NOVO RECURSO EXTRAORDINÁRIO CONTRA DECISÃO EM JUÍZO DE RETRATAÇÃO. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão que negou provimento ao recurso. 2. Nos termos do art. 1.030, § 2º, do CPC, o agravo interno é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral, não sendo cabível a interposição do agravo previsto no art. 1.042, do Código de Processo Civil. 3. O STF entende que “(n)ão é cabível novo recurso extraordinário ou qualquer outro instrumento processual dirigido ao Supremo Tribunal Federal contra decisão do tribunal de origem quanto à vinculação do feito a tema da sistemática da repercussão geral” (ARE 1370036-AgR, Rel. Min. Dias Toffoli). 4. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 5. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015 (ARE 1.464.462 AgR/PR, Rel. Min. Luís Roberto Barroso, Tribunal Pleno, DJe 20/2/2024 — grifei).
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 12 de agosto de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
