@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOÃO DOMINGOS DOS SANTOS, com fundamento na alínea a do permissivo constitucional, o qual desafia acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 632):
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. SERVIDOR PÚBLICO DO MUNICÍPIO DE JARDIM ALEGRE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. CONFIGURADA. DEMANDA AJUIZADA APÓS DECORRIDO MAIS DE 05 (CINCO) ANOS DO TRÂNSITO EM JULGADO DO TÍTULO EXECUTIVO. INTELIGÊNCIA DO ARTIGO 1º DO DECRETO Nº 20.910/32. PRECEDENTES DESTA CORTE. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO CONHECIDO E NEGADO PROVIMENTO.
+Os embargos declaratórios foram rejeitados (e-STJ, fls. 676-683).
+Em suas razões (e-STJ, fls. 694-701), o recorrente aponta violação aos arts. 487, II e 1.022, II, do CPC/2015.
+Alega omissão no julgado, quanto i) à impossibilidade de condenação ao pagamento de honorários sucumbenciais, em virtude da extinção do feito pela prescrição; ii) à nulidade do trânsito em julgado pela inexistência da liquidação de sentença; e iii) à impossibilidade de reconhecimento da prescrição ante a ausência do reexame necessário.
+Defende a não ocorrência de prescrição, pois o peticionamento ocorrido em 17/4/2019 teria interrompido o prazo prescricional, além de ausente a liquidação de sentença e a homologação dos cálculos.
+Contrarrazões apresentadas (e-STJ, fls. 705-709).
+O recurso especial foi admitido (e-STJ, fls. 711-712).
+Brevemente decido, relato.
+De início, cumpre asseverar que o inconformismo preliminar apresentado pelo recorrente merece prosperar.
+Os declaratórios são recursos de fundamentação vinculada e se destinam ao aprimoramento da decisão judicial, visando esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto relevante ou corrigir erro material, nos termos do art. 1.022 do CPC/2015.
+Na hipótese dos autos, aduz o recorrente que, quando do julgamento dos embargos de declaração, o Tribunal de origem manteve-se silente quanto às matérias neles suscitadas, especificamente no tocante i) à impossibilidade de condenação ao pagamento de honorários sucumbenciais, em virtude da extinção do feito pela prescrição; ii) à nulidade do trânsito em julgado pela inexistência da liquidação de sentença; e iii) à impossibilidade de reconhecimento da prescrição ante a ausência do reexame necessário.
+Nota-se da leitura do acórdão recorrido que não houve debate sobre as matérias apontadas como omissas pelo recorrente (e-STJ, fls. 634-636):
+Cinge a controvérsia recursal sobre a ocorrência, ou não, da prescrição para o ingresso do cumprimento de sentença em face da Fazenda Pública.
+O caso em tela refere a execução de título judicial em face da Fazenda Pública, devendo ser aplicado os seguintes dispositivos do Decreto nº 20.910/1932
+(..)
+Portanto, existem duas possibilidades quanto à interrupção da prescrição quinquenal e o recomeço de sua contagem: i) se a prescrição foi interrompida em momento inferior aos primeiros dois anos e meio de sua fluência, garante-se um prazo mínimo total de cinco anos; ii) porém, se a interrupção ocorrer após transcorridos mais de dois anos e meio do início da contagem do prazo de prescrição, recomeçará ele a correr por mais dois anos e meio.
+O Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.388.000/PR, firma entendimento no sentido de que o prazo prescricional para a execução é contado do trânsito em julgado da sentença.
+No caso, o Acórdão que se tornou o título executivo judicial executável, transitou em julgado na data de 18/05/2015, dando início à contagem do prazo prescricional quinquenal para sua cobrança em juízo (mov. 121 - 1º Grau).
+Corroborando, inviável a utilização da Súmula 383 do Supremo Tribunal Federal, pois entre o trânsito em julgado da ação conhecimento, na data de 18/05/2015 e o ingresso do cumprimento de sentença, na data de 18/05/2021, transcorreu mais de 06 (seis anos) anos.
+Ademais, não obstante a oposição dos declaratórios para sanar a omissão, a Câmara julgadora não enfrentou as questões suscitadas pelo recorrente, apresentando fundamentação genérica. Veja-se (e-STJ, fls. 681-682 - sem destaque no original):
+A oposição de embargos de declaração, somente se justifica nos limites do artigo 1.022 do CPC/2015, ou seja, a omissão a dar ensejo aos embargos de declaração deve ocorrer no âmbito do próprio julgado, quando, por exemplo, deixa-se deliberadamente de analisar determinado pedido ou causa de pedir. Quanto a contradição somente resta caracterizada quando a decisão judicial apresenta proposições inconciliáveis entre si, quando, por exemplo, parte de uma premissa na fundamentação e, em seguida, desdiz a asserção anterior. E, por fim, a obscuridade se traduz na falta de clareza ou sentido, que possa macular a decisão.
+No caso, não se verifica as omissões, tampouco a obscuridade indicada pelo Embargante, sopesando que o acórdão analisa e julga o recurso de acordo com a pretensão recursal.
+(..)
+O julgador não está adstrito a rebater todos os argumentos apresentados pela parte, mas sim analisar as questões essenciais à solução da demanda. O Acórdão tratou do tema na exata medida das razões recursais.
+E mais, a embargante discordando dos fundamentos utilizados pelo Acórdão deve interpor a via adequada no sentido de manifestar seu inconformismo, visto que os Embargos Declaratórios não se prestam para o reexame da causa ou modificação da decisão, devendo suas alegações ser invocadas através do recurso próprio.
+Nesta esteira, a razão teleológica dos Embargos Declaratórios é esclarecer o julgado, complementando-o quanto a eventuais pontos omissos, contraditórios ou obscuros. E, no caso, inexiste pelo embargante o intuito de sanar qualquer omissão, obscuridade ou contradição.
+Sendo assim, torna-se imperativo o retorno dos autos para que se proceda a novo julgamento dos aclaratórios, com a devida apreciação sobre a peculiaridade do caso.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO CONFIGURADA. OFENSA AO ART. 1.022 DO CPC. AUSENTE A NECESSIDADE DE RETIFICAÇÃO DA DECISÃO MONOCRÁTICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de Agravo Interno contra decisão que determinou o retorno dos autos ao Tribunal de origem pela ofensa ao art. 1.022, I e II, do CPC. A parte agravante alega que não existe omissão no acórdão recorrido, já que os temas teriam sido analisados no voto divergente.
+2. No decisum combatido, verificou-se que o Tribunal de origem não se manifestou "quanto à reforma efetuada no que tange à legitimidade dos substituídos no AgRg nos EDcl no AgRg no Agravo de Instrumento 1.424.442/DF, bem como não houve manifestação do Tribunal a quo sobre a alegação de que existe "(..) diferença entre pedir para manter pelo teto máximo em relação ao pedir até o teto máximo, tanto que acolheu o pedido coletivo e desacolheu centenas de recursos especiais intentados buscando a reforma de acórdão de apelações em mandados de segurança individuais" (fl. 275, e-STJ)" (fl. 465, e-STJ).
+3. No presente Agravo Interno, embora a agravante transcreva trechos do voto divergente no TRF4, não demonstra a análise dos referidos temas no acórdão que julgou os Embargos de Declaração. Ausente, portanto, a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico do STJ.
+4. Agravo Interno não provido.
+(Agint no AREsp 2.222.176/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27/6/2023 - sem destaque no original).
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. SERVIDOR PÚBLICO MUNICIPAL. PRESCRIÇÃO. PRETENSÃO EXECUTÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. RECURSO ESPECIAL PROVIDO.
