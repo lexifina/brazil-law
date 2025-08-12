@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/1/2025.
+Concluso ao gabinete em: 4/8/2025.
+Ação: de obrigação de fazer c/c por indenização por danos materiais e compensação por danos morais ajuizada por MARIO AUGUSTO PERILLO em face de NOTRE DAME INTERMÉDICA SAÚDE S.A., visando a cobertura de exames médicos essenciais para o controle de câncer de pele, além de indenização por danos materiais e morais devido à negativa de cobertura por parte do plano de saúde.
+Decisão interlocutória: reconheceu a incidência de multa por descumprimento de ordem judicial, fixada em R$ 10.000,00 (dez mil reais), e determinou o cumprimento da obrigação de fazer sob pena de multa diária.
+Acórdão: negou provimento ao recurso, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO PROVISÓRIO. PLANO DE SAÚDE. Decisão de primeira instância que rejeitou a impugnação da executada, entendeu que houve descumprimento da obrigação por parte da ré e manteve a multa por descumprimento de ordem judicial, fixada em R$ 10.000,00 (dez mil reais). Pleito de reforma. Não acolhimento. Impossibilidade de discussão do mérito da causa em fase de execução provisória. Ausente notícia sobre dificuldade de cumprimento. Multa que tem por finalidade o cumprimento do comando judicial no prazo estabelecido. Inadimplemento comprovado. Inteligência do artigo 537, §3º, do CPC. Exigibilidade cabível. Soerguimento de valores condicionado à existência de decisão definitiva. Decisão mantida. Recurso não provido."
+Recurso especial: alega violação dos arts. 537 do CPC e 884 do CC. Sustenta que a multa aplicada é excessiva e desproporcional, além de argumentar que não houve descumprimento da obrigação por parte da operadora de saúde, configurando enriquecimento sem causa do autor.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, quanto ao cabimento e adequação da multa e a proporcionalidade de seu valor com o danos sofrido, não guarda acolhimento no entendimento pacificado desta Corte Superior de Justiça, de que a razoabilidade e a proporcionalidade das "astreintes" deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor.
+E considerando que as circunstância fáticas do caso analisadas pela Corte de origem, soberana na análise das provas dos autos, quanto à simplicidade na emissão de guia de autorização para exame médico, visando o cumprimento da obrigação, a fixação da multa em R$ 10.000,00 (dez mil reais), não se mostra exorbitante e a redução do valor fixado mostra-se inviável. Isso porque o exame da compatibilidade do valor da penalidade e o bem jurídico tutelado foi feito na esfera do conjunto fático probatório dos autos, sendo vedada sua revisão na estreita via do recurso especial.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. FIXAÇÃO DE ASTREINTES. VALOR DA MULTA. REVISÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c indenização por danos materiais e compensação por danos morais.
+2. A alteração da conclusão dos juízos de origem e o consequente acolhimento da tese recursal que pleiteia a redução do valor das astreintes demandariam o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Tal óbice, conforme assentado por esta Corte Superior, somente comporta temperamentos quando se trata de valor manifestamente irrisório ou exorbitante, o que não se verifica no particular.
+3. Agravo conhecido. Recurso especial não conhecido.
