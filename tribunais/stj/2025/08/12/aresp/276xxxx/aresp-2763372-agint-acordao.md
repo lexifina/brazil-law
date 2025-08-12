@@ -1,0 +1,121 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. INÉPCIA DA PETIÇÃO INICIAL. REVISÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial, mantendo a decisão que afastou a alegação de negativa de prestação jurisdicional e a alegação de inépcia da petição inicial.
+II. Questão em discussão
+2. Consiste em analisar a alegação de inépcia da petição inicial por falta de descrição específica dos vícios construtivos e a necessidade de prévio requerimento administrativo para configuração do interesse processual.
+III. Razões de decidir
+3. A decisão do Tribunal de origem foi fundamentada e coerente, não incorrendo em vícios de fundamentação ou negativa de prestação jurisdicional, conforme os arts. 489, § 1º, e 1.022 do CPC/2015.
+4. A revisão da conclusão do Tribunal de origem sobre a ausência de inépcia da inicial, ante o preenchimento de seus requisitos, demandaria incursão no campo fático-probatório, vedada na via especial pela Súmula n. 7 do STJ.
+IV. Dispositivo
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Erbe Incorporadora 037 S.A. contra decisão da relatoria do Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS) que conheceu do agravo para negar provimento ao recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Nas razões do agravo interno, a parte agravante alega que houve negativa de prestação jurisdicional, afirmando que: "O TRF3 deixou de se manifestar acerca de todos os pontos mencionados acima, incorrendo em omissões claras, vícios que restaram mantidos mesmo após aclaratórios, à luz da decisão genérica e abstrata proferida no julgamento que os seguiu" (e-STJ fl. 1.001).
+Sustenta que não incide a Súmula 7/STJ. Argumenta que: "A insurgência da ora agravante pleiteia apenas a reforma da conclusão alcançada pelo acórdão à luz da tese relativa à: (1) ausência da descrição específica dos vícios construtivos (petição inicial genérica); (2) falta de comprovação de tentativa de resolução administrativa do litígio (não demonstração do interesse processual na forma do binômio necessidade/adequação)" (e-STJ fl. 1.002).
+Requer o sobrestamento do feito em virtude ao Tema 1198/STJ, argumentando que: "deve ser reformada a decisão ora agravada que entendeu pela inaplicabilidade do Tema 1.198/STJ ao caso concreto, a fim de que seja suspensa a presente demanda até o julgamento do REsp 2.021.665/MS, uma vez que aquele recurso especial trata das mesmas questões de direito ora discutidas" (e-STJ fl. 1.000).
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado (e-STJ fls. 1.007-1.012), requerendo: "A condenação da parte agravante ao pagamento de multa, nos termos do artigo 1.021, § 4º, do Código de Processo Civil, a ser fixada entre 1% e 5% do valor atualizado da causa, em razão do caráter manifestamente protelatório do recurso interposto" (e-STJ fl. 1.012).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. INÉPCIA DA PETIÇÃO INICIAL. REVISÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial, mantendo a decisão que afastou a alegação de negativa de prestação jurisdicional e a alegação de inépcia da petição inicial.
+II. Questão em discussão
+2. Consiste em analisar a alegação de inépcia da petição inicial por falta de descrição específica dos vícios construtivos e a necessidade de prévio requerimento administrativo para configuração do interesse processual.
+III. Razões de decidir
+3. A decisão do Tribunal de origem foi fundamentada e coerente, não incorrendo em vícios de fundamentação ou negativa de prestação jurisdicional, conforme os arts. 489, § 1º, e 1.022 do CPC/2015.
+4. A revisão da conclusão do Tribunal de origem sobre a ausência de inépcia da inicial, ante o preenchimento de seus requisitos, demandaria incursão no campo fático-probatório, vedada na via especial pela Súmula n. 7 do STJ.
+IV. Dispositivo
+5. Agravo interno não provido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 988-990):
+Decido.
+O Tema n. 1198 afetado pelo STJ para julgamento sob o rito dos recursos repetitivos foi assim delimitado: "Possibilidade de o juiz, vislumbrando a ocorrência de litigância predatória, exigir que a parte autora emende a petição inicial com apresentação de documentos capazes de lastrear minimamente as pretensões deduzidas em juízo, como procuração atualizada, declaração de pobreza e de residência, cópias do contrato e dos extratos bancários".
+Na hipótese, não há se falar em suspensão do julgamento do recurso especial, tendo em vista que a matéria debatida nos presentes autos é diversa da que será analisada no precedente qualificado indicado acima, uma vez que não envolve a discussão sobre litigância predatória.
+Não se vislumbra violação dos arts. 1.022, II e § único, II, c/c 489, §1º, IV, do CPC, porquanto o Tribunal de origem enfrentou, de forma fundamentada, as irresignações recursais, adotando, contudo, solução jurídica contrária aos interesses da recorrente, não havendo falar, portanto, em negativa de prestação jurisdicional.
+No mais, acerca da inépcia da petição inicial e da não apresentação de requerimento administrativo prévio, o Tribunal de origem assim dispôs (e-STJ, fls. 699-702):
+Pois bem, o tema do processo se refere aos alegados vícios construtivos existentes no imóvel adquirido no âmbito do programa "Minha Casa Minha Vida". A parte autora, em sua petição inicial e na emenda, narra os fatos da presente ação indenizatória. Todavia, o magistrado de primeiro grau indeferiu a petição inicial nos seguintes termos:
+"(..) Conforme se registrou na decisão anterior, "Relativamente aos elementos da ação (partes, pedido e causa de pedir), verifica-se que a petição inicial não atende aos requisitos estabelecidos pelo art. 319 do CPC, notadamente pela falta de descrição específica dos danos ou defeitos existentes no imóvel, pelos quais formulou a pretensão visando a obrigar as demandadas a indenizar ou a fazer (reparar os defeitos)." A parte autora apresentou emenda à inicial, alegando ter expedido notificação à Caixa Econômica Federal, para registro do requerimento no programa "De Olho na Qualidade", providência que não atende à comprovação do interesse processual, por não haver comprovação de inviabilidade de solução administrativa dos alegados vícios no imóvel.
+Quanto à descrição específica dos vícios ou defeitos de construção, a parte demandante formula alegações genéricas dos supostos danos, valendo-se da expressão "na maioria dos cômodos", inclusive referindo problemas em outro pavimento do imóvel condominial.
+Constata-se que a emenda da petição inicial, mediante apresentação de alegações genéricas, não cumpre a determinação de descrição específica dos danos ou defeitos existentes no imóvel, não alterando a padronização do conteúdo.
+A ausência de especificação pormenorizada, mediante descrição genérica e padronizada, evidencia a propositura de demanda em massa, sem qualquer distinção adequada para fins de individualização dos pedidos, não atendendo ao requisito do art. 319, IV, do CPC, além de impossibilitar o efetivo exercício do contraditório e ampla defesa e, consequentemente, a adequada prestação jurisdicional.
+Sob outra perspectiva de análise, depreende-se que os alegados danos envolvem vícios estruturais e indivisíveis, que atingem diversas unidades do conjunto imobiliário, de forma que eventual reparo de unidade isolada, baseada em prova pericial individual, se mostraria inócua para alcançar o objetivo pretendido nesta lide, restando evidente a necessidade de intervenções mais amplas no imóvel condominial, a impor a tutela coletiva e a evidenciar a inadequação da demanda individual."
+Em que pese a fundamentação do Juízo de Primeiro Grau, considero ser perfeitamente possível ao julgador deduzir a pretensão posta em juízo e estabelecer os pontos controvertidos, sendo dispensável o detalhamento do pedido por ocasião do recebimento da inicial. Isso porque a inépcia da petição inicial deve se limitar à análise da regularidade formal da peça, o que torna errônea a extinção do feito no caso em tela, eis que resta clara a identificação do pedido e da causa de pedir.
+Ademais disso, considerando os princípios da primazia da decisão de mérito e da economia processual, objetivando a rápida e efetiva solução dos litígios, não há que se falar em inépcia da inicial, pois a extinção do processo, sem exame do mérito, induz apenas a distribuição de idêntico processo, ocasionando sobrecarga ainda maior para o Judiciário.
+Destaco, ainda, que o col. Superior Tribunal de Justiça tem admitido a formulação de pedido genérico em relação ao dano material, nas hipóteses em que for extremamente difícil a sua imediata quantificação. Confira-se o seguinte julgado:
+ ..
+Destarte, não é plausível impor à parte autora que, antes do ajuizamento da ação, proceda o custeio da produção de uma perícia técnica, a fim de apurar o dano material e indicar exatamente o valor de sua pretensão para que, no decorrer do processo judicial, essa prova técnica seja novamente produzida, sob o crivo do contraditório e da ampla defesa.
+No caso dos autos, verifico que a parte autora requereu a fixação do valor dos danos materiais por meio de perícia técnica realizada por engenheiro, bem como emitiu notificação extrajudicial à ré, esclarecendo ser desnecessário prévio requerimento extrajudicial para se configurar interesse de agir.
+Desse modo, evidencia-se o interesse de agir, previsto no art. 3º, CPC, por uma necessidade de recorrer ao Judiciário, para a obtenção do resultado pretendido, independentemente da legitimidade ou legalidade da pretensão, numa relação de necessidade e adequação, por ser primordial a provocação da tutela jurisdicional apta a produzir a correção da lesão arguida na inicial.
+Anoto que, em razão da garantia da inafastabilidade da jurisdição, prevista no artigo 5º, XXXV, da Constituição Federal, o acesso ao Judiciário para pleitear a indenização por danos decorrentes de vícios de construção não pode ser obstado somente porque a parte autora não buscou obter, na esfera administrativa, tal ressarcimento.
+Ressalto que o requerimento administrativo, embora necessário, pode ser suprido por qualquer comunicação sobre os vícios construtivos, bem como pela eventual oposição da parte contrária do pedido indenizatório.
+Portanto, imprescindível a reforma da extinção processual com base no fundamento na inépcia da inicial e ausência de interesse de agir, com o retorno do feito à origem, em prosseguimento de tramitação. (Grifos acrescidos).
+Verifica-se que o Tribunal local afastou a alegada inépcia da petição inicial, concluindo estarem os pedidos e a causa de pedir devidamente identificados, resultando evidenciado, no caso, o interesse de agir. Outrossim, consignou que o requerimento administrativo pode ser suprido por qualquer comunicação sobre os vícios construtivos, assim como pela eventual oposição da parte contrária do pedido indenizatório.
+Nesse contexto, acolher a pretensão recursal e alterar o decidido no acórdão impugnado, exigiria o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+No presente recurso, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão agravada, que analisou detidamente todas as questões jurídicas postas.
+A agravante requereu, preliminarmente, o sobrestamento do feito em virtude ao Tema 1198/STJ.
+O Tema foi julgado pela Corte Especial em 13/03/2025, fixando a tese de "constando indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade do caso concreto, a emenda da petição inicial a fim de demonstrar o interesse de agir e autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova".
+Nota-se que, na decisão de admissibilidade do recurso, o Tribunal entendeu que "Inicialmente, não há que se falar em do feito pelo Tema 1.198/STJ, pois não há discussão nos suspensão autos a respeito da possibilidade de o juiz exigir da parte autora a emenda da inicial. Ao contrário, no caso em tela, já houve determinação de emenda, providência atendida pela parte autora. Anote-se que a discussão colocada nesse recurso é a possibilidade de extinção do fe ito em face de inépcia e/ou ausência de interesse, o que foi afastado pela decisão ora recorrida" (e-STJ fl. 818).
+Dessa forma, não é caso de aplicação de aplicação do Tema nos autos.
+No que tange à alegação de afronta aos artigos 489 e 1.022 do Código de Processo Civil, certo é que: "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O Colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Efetivamente, compulsados os autos, colhe-se que a Corte de origem analisou e rebateu, um a um, os argumentos levantados, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000 /SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+Assim, não se mostra viável o conhecimento do recurso no aspecto.
+Para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Nesse contexto, constato que a revisão do entendimento proferido pelo Tribunal estadual, acerca do entendimento de que: "Verifica-se que o Tribunal local afastou a alegada inépcia da petição inicial, concluindo estarem os pedidos e a causa de pedir devidamente identificados, resultando evidenciado, no caso, o interesse de agir. Outrossim, consignou que o requerimento administrativo pode ser suprido por qualquer comunicação sobre os vícios construtivos, assim como pela eventual oposição da parte contrária do pedido indenizatório" (e-STJ fl. 990), demandaria nova investigação acerca dos fatos e provas contidos no processo, cuja análise é inviável diante do óbice do enunciado sumular n. 7 do STJ.
+Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes deste Tribunal Superior:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial.
+II. Questão em discussão
+2. Consiste em analisar o sobrestamento do processo ante o Tema Repetitivo n. 1.198, bem como a existência de ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015, inépcia da petição inicial e necessidade de prévio requerimento administrativo para configuração do interesse processual.
+III. Razões de decidir
+3. A suspensão determinada pela Segunda Seção deste Tribunal Superior no REsp n. 2.021.665/MS limitou-se aos processos em trâmite no TJMS e nas Comarcas do Estado de Mato Grosso do Sul, e a matéria afetada (Tema n. 1.198/STJ) diz respeito exclusivamente à litigância predatória, questão que não é objeto do recurso especial e tampouco foi enfrentada pelas instâncias originárias.
+4. A decisão do Tribunal de origem foi fundamentada e coerente, não incorrendo em vícios de fundamentação ou negativa de prestação jurisdicional, conforme os arts. 489, § 1º, e 1.022 do CPC/2015.
+5. "Inviável a alegação de inépcia da petição inicial se fornecidos satisfatoriamente os elementos necessários para a formação da lide, com a narração devida dos fatos, possibilitando-se a compreensão da causa de pedir, do pedido e do respectivo fundamento jurídico" (AgInt no AREsp n. 1.858.028/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021).
+6. A revisão da conclusão do Tribunal de origem sobre a ausência de inépcia da inicial, ante o preenchimento de seus requisitos, demandaria incursão no campo fático-probatório, vedada na via especial pela Súmula n. 7 do STJ.
+7. A configuração do interesse processual nas demandas que cuidam do reconhecimento de vícios construtivos independe da comprovação de requerimento administrativo prévio.
+8. Há interesse de agir quando, independentemente da comprovação do prévio requerimento extrajudicial, a parte contrária comparece em juízo opondo-se à pretensão autoral.
+IV. Dispositivo e tese
+9. Agravo interno desprovido.
+(..).
+(AgInt no AgInt no AREsp n. 2.724.881/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a alegada negativa de prestação jurisdicional.
+2.1. Consoante jurisprudência desta Corte Superior, a petição inicial que permite aferir a causa de pedir e o pedido e que possibilita a ampla defesa da parte ré não pode ser considerada inepta. Incidência da Súmula 83 do STJ.
+2.2. Para derruir as conclusões contidas no decisum e verificar eventual inépcia da inicial seria imprescindível o revolvimento do acervo fático e probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.714.848/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMULAÇÃO DE PEDIDOS SUBSIDIÁRIA. PEDIDOS INCOMPATÍVEIS ENTRE SI. POSSIBILIDADE. PRECEDENTES. SÚMULA N. 83 DO STJ. AUSÊNCIA DE INÉPCIA. MODIFICAÇÃO. IMPOSSIBILIDADE. REEXAME. AGRAVO INTERNO DESPROVIDO.
+1. Na cumulação imprópria subsidiária ou alternativa, é possível a existência de pedidos incompatíveis entre si, não acarretando a inépcia da petição inicial.
+2. Tendo a corte de origem concluído que inexiste vício de inépcia, porque da narrativa exposta decorre conclusão lógica pelo fato de a parte ter indicado claramente a existência de um pedido principal e um subsidiário, a revisão desse entendimento demanda inevitável revolvimento do substrato fático-probatório da causa, inviável em recurso especial, nos termos da Súmula n. 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.636.029/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Ante o exposto, nego provimento ao agravo interno.
+Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, DJe 18/12/2017).
+É o voto.
