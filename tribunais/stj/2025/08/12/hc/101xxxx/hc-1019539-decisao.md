@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de DAVID HENRIQUE CORREA NUNES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Narram os autos que o paciente foi condenad o pelo Juízo de Direito da 1ª Vara da comarca de Novo Horizonte às penas de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa (Ação Penal n. 1500531-84.2023.8.26.0558).
+Inconformada, a defesa interpôs apelação criminal na colenda Corte de origem, que negou provimento ao recurso (fls. 2/14).
+No presente writ, a defesa postula, em síntese, pela desclassificação do delito imputado para uso de drogas (art. 28 da Lei n. 11.343/2006) e para que seja reconhecido erro na dosimetria (fls. 2/14).
+Prestadas as informações (fls. 62/67), o Ministério Público Federal opinou pelo não conhecimento da ordem ou sua denegação (fls. 113/117).
+É o relatório.
+Diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese em que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação (AgRg no HC n. 885.105/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/9/2024).
+Afora isso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus e a consequente superação do óbice constatado.
+Inicialmente, verifico que o pleito desclassificatório foi afastado sob o argumento de que as circunstâncias concretas indicavam que o entorpecente era destinado ao tráfico de drogas, pontuando inclusive que a quantidade apreendida não era inexpressiva.
+Ademais, o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 848.618/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023).
+Não há, também, ilegalidade na dosimetria.
+Ao fixar a pena-base, o Magistrado sentenciante ponderou que tendo em vista as circunstâncias judiciais do delito, consoante o art. 42 da Lei de Drogas (O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente), c/c o art. 59 do CP, considerando a quantidade de entorpecente apreendido, especialmente para esta cidade onde as apreensões de entorpecente dificilmente ultrapassam o quantum de cem gramas, a pena-base deve ser fixada 5 anos e 10 meses de reclusão (fl. 45).
+Assim, o aumento da pena-base no valor definido pelo Tribunal estadual é adequado, já que a justificativa apresentada está de acordo com o art. 42 da Lei n. 11.343/2006 e com o posicionamento deste Tribunal de que a quantidade e/ou tipo da substância entorpecente apreendida deve ser levada em conta ao estabelecer a punição.
+Não há ilegalidade na utilização da quantidade de entorpecente para a fixação da pena-base acima do mínimo legal, sendo que o critério de 1/6 por circunstância judicial valorada negativamente é aceito pela jurisprud ência desta Corte.
+Ademais, não se mostra possível mensurar matematicamente o aumento da pena-base, de forma a se atribuir igual acréscimo de pena para cada circunstância judicial considerada negativa. A lei confere ao julgador certo grau de discricionariedade na análise das circunstâncias judiciais, sendo assim, o que deve ser avaliado é se a fundamentação exposta é proporcional e autoriza a fixação da pena-base no patamar escolhido.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA NAS INSTÂNCIAS ORDINÁRIAS. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA A CONSUMO PRÓPRIO. INVIABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A TRAFICÂNCIA. INADMISSIBILIDADE. REVISÃO DA DOSIMETRIA. INVIABILIDADE. AUSÊNCIA DE ILEGALIDADE.
+Writ não conhecido.
