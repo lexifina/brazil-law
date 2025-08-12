@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de cobrança de cotas condominiais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por CONDOMINIO COMERCIAL POTY PREMIER contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial.
+Ação: cobrança de cotas condominiais, ajuizada por CONDOMINIO COMERCIAL POTY PREMIER em face de MARIA ALCIONEIDE CAVALEIRO SETUBAL. Alega inadimplência referente de cotas condominiais totalizando R$ 3.343,11, sem que houvesse proposição de pagamento da requerida ou êxito nas negociações extrajudiciais (e-STJ fls. 7-8).
+Sentença: julgou improcedentes os pedidos do autor, considerando que o imóvel foi entregue inapto para uso devido à falta de condições essenciais, como a instalação de energia elétrica, o que impossibilitava a cobrança das cotas condominiais.
+Acórdão: negou provimento à apelação, nos termos da seguinte ementa (e- STJ fl. 980):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. IMÓVEL ENTREGUE INAPTO PARA USO. ENTREGA SIMBÓLICA DAS CHAVES. RÉ NÃO PODE SER RESPONSABILIZADA POR COTAS CONDOMINIAIS DO PERÍODO. SENTENÇA MANTIDA. RECURSO IMPROVIDO. 1. É bem verdade que, via de regra a entrega das chaves caracteriza a imissão na posse e é, portanto, o marco inicial autorizativo da cobrança de taxas condominiais. No entanto, cumpre mencionar que no caso em apreço esse entendimento não é suficiente para a cobrança, tendo em vista que houve apenas uma entrega formal das chaves. Nessa perspectiva, a sala comercial encontrava-se em situação imprópria para recebimento e inapta para qualquer tipo de uso que pudesse ser feito pelo condômino, ou por terceiros a quem este cederia seu uso de modo remunerado. 2. Nesse sentido, destaca-se que o fato de a obrigação pelo pagamento de cotas condominiais ostentar natureza propter rem, isto é, não afasta o entendimento aqui adotado, pois a referida obrigação propter rem só poderá ser exigida a partir de quando o imóvel estava apto a ser gozado e fruído, com requisitos mínimos de habitabilidade, como a indispensável estrutura para recebimento do serviço de energia elétrica. 3. Destarte, uma vez que houve a entrega das chaves sem que o imóvel estivesse, por motivo da existência de vícios estruturais, apto a uso, gozo, fruição ou disposição do imóvel, não deve a Ré, ora Apelada, ser responsabilizada pelas despesas condominiais. Portanto, a manutenção da sentença a quo é a medida que se impõe. 4. Recurso conhecido e improvido, sentença mantida.
+Recurso especial: alega violação dos arts. 1.345, 1.336, I e 1.334, § 2º, do Código Civil, além de divergência jurisprudencial. Sustenta que o acórdão recorrido não considerou a responsabilidade da promitente compradora pelo pagamento das cotas condominiais após a imissão na posse do imóvel. Argumenta que há dissídio jurisprudencial, pois o entendimento do STJ é de que o promitente comprador tem legitimidade passiva concorrente com o proprietário legal para o pagamento dos débitos condominiais (e-STJ fls. 999-1000).
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 1090-1093).
+Agravo interno: a parte agravante alega, em síntese, a inaplicabilidade da Súmula nº 07 do STJ, uma vez que a questão envolveria a revaloração de fatos incontroversos já delimitados nas instâncias ordinárias, e não o reexame de provas. Argumenta que a responsabilidade do compromissário comprador pelas contribuições condominiais surge a partir da imissão na posse, com a entrega das chaves, e sustenta que o dissídio jurisprudencial foi devidamente comprovado (e-STJ fls. 1097-1107).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de cobrança de cotas condominiais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem não demandaria o reexame de fatos e provas.
+Como exposto na decisão agravada, o TJ/PI ao julgar o recurso interposto pela parte agravante assim decidiu (e-STJ fls. 984-986):
+Destarte, é bem verdade que, via de regra a entrega das chaves caracteriza a imissão na posse e é, portanto, o marco inicial autorizativo da cobrança de taxas condominiais. No entanto, cumpre mencionar que no caso em apreço esse entendimento não é suficiente para a cobrança, tendo em vista que houve apenas uma entrega formal das chaves. Nessa perspectiva, a sala comercial encontrava-se em situação imprópria para recebimento e inapta para qualquer tipo de uso que pudesse ser feito pelo condômino, ou por terceiros a quem este cederia seu uso de modo remunerado.
+Comprovando as alegações da Ré de que o imóvel foi entregue sem que fosse disponibilizado o uso e gozo plenos, foi juntado aos autos e-mail encaminhado pelo Condomínio aos condôminos, com os dizeres de que as obras de individualização dos centros de medições teria início em 19/03/2018 (ID Num. 4643385 - Pág. 20), assim como comunicado expedido de igual teor (ID Num. 4643385- Pág. 27).
+Encontra-se acostado aos autos também, comunicado da Imobiliária Rocha & Rocha, requerendo a suspensão do contrato firmado entre as partes para a exploração do imóvel adquirido pelo réu, considerando que ficou prejudicada em virtude dos vícios estruturais e falta de condições para a instalação de energia elétrica nas unidades autônomas por pretensos locatários (ID Num. 4643391 - Pág. 20), além de comunicado da concessionária de energia elétrica (ID Num. 4643391 - Pág. 22) informando que estava agendada para o dia 04/07/2018 a individualização dos medidores de energia.
+(..)
+Nesse sentido, destaca-se que o fato de a obrigação pelo pagamento de cotas condominiais ostentar natureza propter rem, isto é, não afasta o entendimento aqui adotado, pois a referida obrigação propter rem só poderá ser exigida a partir de quando o imóvel estava apto a ser gozado e fruído, com requisitos mínimos de habitabilidade, como a indispensável estrutura para recebimento do serviço de energia elétrica.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+Cumpre ainda destacar que a jurisprudência desta Corte admite a possibilidade de requalificação jurídica dos fatos ou de revaloração da prova. Trata-se, portanto, de expediente distinto do reexame vedado pela Súmula 7/STJ, por se tratar de "atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias" (AgInt no REsp 1.494.266/RO, Terceira Turma, DJe 30/08/2017).
+Reforce-se que, no presente caso, não se trata de valoração de prova, o que é permitido no âmbito do recurso especial, mas sim de reapreciação da prova com o intuito de modificar a convicção do julgador acerca de fato controvertido, de forma a, in casu, considerar como não provado o que a Corte de origem entendeu como provado.
+- Da divergência jurisprudencial
+A parte agravante não apresentou adequadamente o dissídio jurisprudencial, devido à ausência de cotejo analítico entre os julgados, sendo certo, que para a demonstração da divergência não basta apenas a transcrição de ementas.
+Isso porque, para que se tenha por configurada a divergência, é necessário que haja uma análise aprofundada e exaustiva dos arestos, de modo a demonstrar que o acórdão do Tribunal local foi proferido de maneira análoga ou similar a outros julgados.
+Desse modo, é necessário que a parte agravante faça uma análise mais apurada dos acórdãos, de forma a comparar os fundamentos adotados por cada órgão para fazer a demonstração da divergência. Logo, é premente que o agravante apresente o cotejo entre os acórdãos, evidenciando, assim, a divergência jurisprudencial, o que não ocorreu na espécie.
+No mesmo sentido, a similitude fática é a semelhança entre os fatos que servem como base para uma análise comparativa entre os acórdãos. Em consequência, é requisito indispensável para a demonstração da divergência, pois é necessário que os fatos sejam comparáveis para que se possa estabelecer uma discrepância ou semelhança entre eles, o que não ocorreu na espécie. Assim, sem a adequada demonstração da similitude fática, a análise do dissídio jurisprudencial não é possível.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conheci mento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Portanto, o presente agravo interno não merece ser provido.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
