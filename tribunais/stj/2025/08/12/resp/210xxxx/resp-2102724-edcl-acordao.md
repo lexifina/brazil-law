@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+Impedido o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MUNICÍPIO DE FLEXEIRAS contra acórdão proferido pela Primeira Turma desta Corte Superior, que negou provimento ao agravo interno, em julgado assim ementado (e-STJ fl. 1.215):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO COLETIVA. CONCOMITÂNCIA COM AÇÃO INDIVIDUAL. INTERPRETAÇÃO DO ART. 104 DO CÓDIGO DE DEFESA DO CONSUMIDOR.
+1. Segundo a jurisprudência do STJ, a regra prevista no art. 104 do CDC, somente se aplica nos casos de propositura da ação coletiva após o ajuizamento de ações individuais, hipótese diversa da situação dos autos, em que a ação coletiva foi proposta antes da ação individual. Precedentes.
+2. Incide, nesse aspecto, como óbice ao recurso especial, a Súmula 83 do STJ.
+3. Agravo interno desprovido.
+O embargante sustenta, em síntese, a existência de omissão, visto que não houve o pronunciamento no acórdão acerca da ofensa ao art. 1.022 do CPC/2015.
+Impugnação às e-STJ fls. 1.242/1.244.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Na decisão (e-STJ fls. 1.171/1.178), ficou explicitamente registrado que, em relação à alegada ofensa aos arts. 489, § 1º, III e 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. Nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+Agravo interno improvido. (AgInt no AREsp n. 1.416.310/SP, Relator Ministro Humberto Martins, Segunda Turma, julgado em 28/11/2022, DJe de 30/11/2022.).
+No caso, o Tribunal de origem reformou a decisão agravada nos seguintes termos (e-STJ fls. 976/977):
+1. Trata-se de Agravo de Instrumento interposto pela UNIÃO contra decisão (Id. 4058000.10911493) que, nos autos do cumprimento de sentença nº 0806690-33.2016.4.05.8000, afastou a alegação de litispendência e da consequente impossibilidade de execução do título executivo coletivo.
+2. Na origem, o presente Cumprimento de Sentença foi proposto pelo Município de Flexeiras/AL em face da União, visando materializar o direito reconhecido na Ação Ordinária nº 2003.80.11204-0 (nº 0011204-19.2003.4.05.8000), que tramitou na 7ª Vara Federal/AL, proposta pela Associação dos Municípios Alagoanos (AMA), na qual a União foi condenada a revisar o valor mínimo anual por aluno (VMAA) do FUNDEF, destinado à educação fundamental, nos termos do art. 6º da Lei nº 9.424/96 e a repassar ao substituídos da AMA as verbas relativas as diferenças do quinquênio anterior à propositura da ação.
+3. Alega o agravante que, além da ação coletiva (n. 0011204-19.2003.4.05.8000) que deu origem à presente execução, o Município também ajuizou ação individual com mesmo objeto (000030-76.2004.4.05.8000), qual seja, a condenação da União ao pagamento de diferenças de FUNDEF. Aduz que a ação de conhecimento individual fora executada, razão pela qual nos termos do art. 104 do CDC, deixa de se beneficiar dos efeitos da sentença coletiva, pelo que a presente execução deverá ser extinta.
+4. A circunstância dos autos consiste na existência de duas ações de conhecimento com o mesmo objeto - uma proposta individualmente pelo Município de Flexeiras e outra proposta pela Associação dos Municípios Alagoanos -, propostas em momentos distintos (primeiro a ação coletiva e depois a ação individual), ambas com trânsito em julgado, figurando como títulos executivos em face da União.
+5. A questão ora questionada consiste na decisão sobre a possibilidade de o município se beneficiar da execução de título formado em ação coletiva, quando já litigou e executou título (com mesmo objeto) perseguido em ação individual.
+6. O sistema processual brasileiro admite a coexistência de ação coletiva e ação individual que postulem o reconhecimento de um mesmo direito, inexistindo litispendência entre as demandas. Na concomitância entre ação individual e ação coletiva, o autor da demanda individual somente aproveitará os efeitos da coisa julgada da ação coletiva se requerer a suspensão do seu feito, após ter ciência nos próprios autos da existência da demanda coletiva, conforme disciplina o art. 104 do Código de Defesa do Consumidor. Todavia, o art. 104 do CDC apenas incide nos casos em que a ação coletiva é proposta após o ajuizamento de ações individuais, hipótese diversa da situação dos autos, em que a ação coletiva foi proposta antes da ação individual.
+7. Sobre a referida questão, o Superior Tribunal de Justiça é firme no sentido de "inexistir litispendência entre ação individual e ação coletiva, assim como no sentido de ser inaproveitável e inoponível a coisa julgada formada na ação coletiva para quem litiga individualmente e não desistiu de sua ação" (AgInt no REsp n. 1.736.330/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/3/2022, DJe de 31/3/2022).
+8. Isso porque se compreende que a opção da parte em iniciar e dar continuidade à ação ordinária individual quando em curso ação coletiva, torna o feito individual processualmente autônomo e independente da lide coletiva. É tranquilo na jurisprudência nacional, em especial desta e. 4ª Turma, a impossibilidade de uma mesma parte se beneficiar da decisão coletiva quando moveu ação individual, visando destacar de cada um o que lhe for mais conveniente. Tal conjuntura não é tutelada pelo ordenamento processual em vigor.
+9. Nesse sentido: 08122058020204058300, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL BRUNO LEONARDO CAMARA CARRA (CONVOCADO), 4ª TURMA, JULGAMENTO: 19/10/2021; AgInt na PET nos EREsp 1405424SC, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 29.11.2016; REsp 1.643.816 RJ, Relator Exmo. Sr. Ministro HERMAN BENJAMIN, Julgado em 16022017; 08157451020204050000, AGRAVO DE INSTRUMENTO, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO NETO, 4ª TURMA, JULGAMENTO: 28/09/2021.
+10. Nesse contexto, o agravado não pode se beneficiar simultaneamente de duas coisas julgadas, criando uma situação artificial de ampliação do prazo prescricional.
+11. Apesar do entendimento do Pleno deste Egrégio Tribunal, na linha da orientação do Superior Tribunal de Justiça, no sentido de que deve prevalecer o segundo comando judicial quando constatada a formação de duas coisas julgadas, fato é que, na hipótese presente, o título executivo da ação individual já foi executado, o que afasta a possibilidade de o agravado se beneficiar do título coletivo como pretende, uma vez que opção por executar o direito salvaguardado na ação individual acarreta, indiretamente, em renúncia tácita à execução do mesmo direito pleiteado na ação coletiva, sendo indiferente o fato de se referirem a períodos distintos.
+12. Ademais, o fato de a União não ter suscitado, na contestação da ação de conhecimento individual (que foi proposta após a ação coletiva), sobre a existência de ação coletiva com o mesmo pedido e causa de pedir, não deve conduzir à incidência de preclusão, como equivocadamente reconheceu a decisão agravada.
+13. Penso ser possível desconsiderar o escudo da preclusão na situação dos autos, por ser um instituto jurídico que visa assegurar a segurança jurídica, não devendo ser utilizado para encobrir o enriquecimento sem causa do município, tampouco como forma de ampliar o período prescricional devido para além do que já fora pago na execução do título executivo individual.
+14. Nesse sentido: 08122058020204058300, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL BRUNO LEONARDO CAMARA CARRA (CONVOCADO), 4ª TURMA, JULGAMENTO: 19/10/2021; AgInt na PET nos EREsp 1405424SC, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 29.11.2016; REsp 1.643.816 RJ, Relator Exmo. Sr. Ministro HERMAN BENJAMIN, Julgado em 16022017; 08157451020204050000, AGRAVO DE INSTRUMENTO, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO NETO, 4ª TURMA, JULGAMENTO: 28/09/2021.
+15. Portanto, afastada a preclusão, a decisão agravada deve ser reformada para impossibilitar que o agravado se beneficie do título executivo coletivo formado na ação nº 0011204-19.2003.4.05.8000. (Grifos acrescidos)
+Assim, inexiste omissão a sanar.
+Advirto a parte embargante de que a oposição de novos embargos de declaração, reiterando vício já rejeitado em recurso anterior enseja a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, porquanto reputados manifestamente protelatórios.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
