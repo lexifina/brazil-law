@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE CONTRATO DE COMPRA E VENDA. LOTE. LUCROS CESSANTES. DISPOSITIVO TIDO POR VIOLADO. INDICAÇÃO. AUSÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. TEMA REPETITIVO. VIOLAÇÃO. DESCABIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. NÃO COMPROVAÇÃO. MULTA. ART. 1.021, § 4º, DO CPC. INCIDÊNCIA NÃO AUTOMÁTICA.
+1. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+2. A alegação de violação de tema repetitivo não autoriza a abertura da via especial, tendo em vista que o art. 105, III, "a" e "c", da Constituição Federal, exige a demonstração da contrariedade, negativa de vigência ou interpretação divergente ao artigo de lei federal.
+3. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas.
+4. A aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MILTON SANCHES contra a decisão que não conheceu do seu recurso especial (e-STJ fls. 606/609).
+Naquela oportunidade, concluiu-se pela aplicação da Súmula nº 284/STF, em virtude da falta de indicação de dispositivo de lei federal tido por violado, e pela ausência de comprovação da divergência jurisprudencial.
+Nas presentes razões (e-STJ, fls. 619/629), o agravante aduz que não há falar na incidência da Súmula nº 284/STF, pois foi demonstrada a negativa de vigência aos arts. 389 e 402 do Código Civil, bem como evidenciado o dissídio pretoriano, medi ante cotejo analítico.
+Reitera que o acórdão recorrido contrariou o Tema nº 996/STJ e, com isso, também violou os arts. 926 e 927, II, do Código de Processo Civil, pois deixou de observar precedente vinculante e de uniformizar a sua jurisprudência à do Superior Tribunal de Justiça.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do presente recurso ao colegiado, para que, com a reforma da decisão agravada, seja dado provimento ao seu recurso especial.
+A impugnação foi apresentada (e-STJ, fls. 638/649), na qual a agravada requer a imposição da multa do art. 1.021, § 4º, do Código de Processo Civil à agravante.
+Após a impugnação, a agravada apresentou a petição de e-STJ, fl. 654, por meio da qual requer a desistência do agravo em recurso especial, em virtude do cumprimento integral do débito.
+Intimado, o agravante manifesta sua concordância com a desistência formulada pela agravada, ressalvando, contudo, a veracidade da alegação de que houve o integral cumprimento do débito. Requer a submissão do seu agravo interno ao colegiado (e-STJ, fls. 660/661)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE CONTRATO DE COMPRA E VENDA. LOTE. LUCROS CESSANTES. DISPOSITIVO TIDO POR VIOLADO. INDICAÇÃO. AUSÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. TEMA REPETITIVO. VIOLAÇÃO. DESCABIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. NÃO COMPROVAÇÃO. MULTA. ART. 1.021, § 4º, DO CPC. INCIDÊNCIA NÃO AUTOMÁTICA.
+1. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+2. A alegação de violação de tema repetitivo não autoriza a abertura da via especial, tendo em vista que o art. 105, III, "a" e "c", da Constituição Federal, exige a demonstração da contrariedade, negativa de vigência ou interpretação divergente ao artigo de lei federal.
+3. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas.
+4. A aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+5. Agravo interno não provido.
+VOTO
+De início, verifico que o pedido de desistência formulado pela agravada foi apresentado somente em 23/4/2025, já após o trânsito em julgado da decisão que havia conhecido do seu agravo para negar provimento ao recurso especial (e-STJ, fls. 610/612). Portanto, quanto ao tema, nada a deliberar.
+Por sua vez, o agravo interno não merece prosperar.
+De início, observa-se que, como afirmado na decisão agravada, o agravante não indicou especificamente quais os artigos de lei federal teriam sido vulnerados pelo aresto impugnado, se limitando a apontar como violados a Súmula nº 162 e da Tese nº 5 de IRDR, ambos do TJ/SP, além do Tema nº 996/STJ, o que inviabiliza a compreensão da controvérsia posta nos autos.
+Deste modo, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Confiram-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA - DANOS MORAIS. PLANO DE SAÚDE. CARÊNCIA DE APONTAMENTO CLARO DO DISPOSITIVO DE LEI FEDERAL QUE TERIA SIDO MACULADO NO ACÓRDÃO ESTADUAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, o conhecimento de recurso especial exige a indicação dos dispositivos de lei federal supostamente violados. Ausente tal requisito, "incide a Súmula n.284/STF" (AgInt no AR Esp n. 2.108.361/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/9/2022, D Je de 23/9/2022).
+2. (..).
+3. Agravo interno desprovido." (AgInt nos E Dcl no AR Esp 2.175.300/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, D Je de 16/2/2023)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA CUMULATIVA DE CLÁUSULA PENAL E DE JUROS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que os agravados foram expostos ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. Divergência jurisprudencial, não demonstrada ante a incidência das Súmulas n. 284 do STF e 7 e 83 do STJ. Além disso, "decisão monocrática não serve para comprovação de divergência jurisprudencial" (AgInt no AREsp n. 1.180.952/RJ, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 17/5/2018, DJe 24/5/2018).
+6. Agravo interno a que se nega provimento." (AgInt no AR Esp 2.141.911/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, D Je de 21/11/2022).
+Reitera-se o fundamento da decisão agravada de que a alegação de violação de tema repetitivo não autoriza a abertura da via especial, tendo em vista que o art. 105, III, "a" e "c", da Constituição Federal, exige a demonstração da contrariedade, negativa de vigência ou interpretação divergente ao artigo de lei federal.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. DISCUSSÃO SOBRE ÍNDICES DE CORREÇÃO MONETÁRIA. SUSPENSÃO DO PROCESSO. AGUARDO DO TRÂNSITO EM JULGADO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NO ACÓRDÃO RECORRIDO. EXISTÊNCIA DE OMISSÃO. COMPLEMENTAÇÃO DAS RAZÕES QUE NÃO ALTERA O RESULTADO DO JULGAMENTO. EMBARGOS DECLARATÓRIOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+(..)
+3. Com relação à apontada ofensa ao Tema n. 28 da Repercussão Geral do Supremo Tribunal Federal, para além da ressalva de não competir a esta Corte a análise de violação de normas constitucionais, também não é cabível, na via estreita do apelo nobre, a análise de violação a enunciados sumulares ou teses repetitivas, pois, para os fins do art. 105, III, a, da Constituição Federal, não se enquadram no conceito de "lei federal", nos termos da Súmula n. 518/STJ, por analogia.
+4. Embargos de declaração acolhidos sem efeitos infringentes" (EDcl no AgInt no REsp 2.092.710/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 29/4/2024, D Je de 7/5/2024).
+Ademais, no que tange ao suposto dissenso pretoriano, ao contrário do sustentado pelo recorrente no presente agravo, o alegado dissídio não foi adequadamente demonstrado, pois, no especial (e-STJ, fls. 469/478), o agravante se limitou a transcrever ementas de julgados.
+Nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não bastando, para tanto, a simples transcrição de ementas, como ocorre na espécie.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. EMPRÉSTIMO CONSIGNADO. FRAUDE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. AGRAVO INTERNO DESPROVIDO.
+1. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula n. 284 do STF.
+2. Agravo interno desprovido." (AgInt no AREsp n. 2.594.332/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.).
+No tocante à multa requerida na impugnação, a Segunda Seção decidiu que a aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+Sobre o tema:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COBRANÇA. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS, APENAS PARA FINS DE ESCLARECIMENTOS QUANTO AOS HONORÁRIOS E A MULTA.
+ ..
+6. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória.
+7. Embargos de Declaração acolhidos, sem efeito modificativo, apenas para prestar esclarecimentos." (EDcl no AgInt no AREsp 2.161.136/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023)
+No caso concreto, não se vislumbra intenção abusiva ou protelatória na interposição de recurso previsto pela lei, necessário, inclusive, para esgotar esta instância, requisito indispensável à interposição de eventual recurso extraordinário.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
