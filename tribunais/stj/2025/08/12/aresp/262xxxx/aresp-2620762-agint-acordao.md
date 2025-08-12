@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA VIOLAÇÃO DOS ARTS. 489 E 1.022, II DO CPC. OMISSÃO NÃO CONFIGURADA. FUNDAMENTAÇÃO SUFICIENTE.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação do art. 1.022, II, do CPC.
+2. Nos termos da jurisprudência pacífica desta Corte, "o órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte." (EDcl no REsp n. 2.024.829/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por MENDES JUNIOR EMPREENDIMENTOS,MONTAGENS E SERVICOS LTDA. contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial nos termos da seguinte ementa (fl. 360):
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. TRANSFERÊNCIA DE IMÓVEL. VIOLAÇÃO DOS ARTS. 1.022 E 489 DO CPC. NÃO VERIFICADA. AGRAVO IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 232):
+EMENTA: AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - TRANSFERÊNCIA DE IMÓVEL - PENDÊNCIA A SER DIRIMIDA PELA VENDEDORA - OBRIGAÇÃO ESTABELECIDA PELO TÍTULO EXEQUENDO - CONSTATAÇÃO - HONORÁRIOS SUCUMBENCIAIS E MULTA COMINATÓRIA - ARBITRAMENTO DEVIDO. - Apresenta-se inadmissível, na fase de cumprimento de sentença, pretender a executada retomar a discussão acerca da responsabilidade do pagamento dos tributos necessários à disponibilização da documentação por ela devida para a efetivação do direito reclamado pelos autores, devidamente reconhecido pela sentença primeva, transitada em julgado. - Não merece acolhida a insurgência recursal à imposição de honorários sucumbenciais à empresa agravante, sendo inequívoca a resistência da executada ao cumprimento do encargo a ela imputado por sentença definitiva de mérito. - É exigível a cobrança de multa em cumprimento de sentença, se evidente a resistência da parte responsável pela efetivação da obrigação estabelecida pelo título exequendo.
+Rejeitados os embargos de declaração opostos (fls. 264-269).
+Nas razões do agravo interno, a parte agravante alega violação dos arts. 489, § 1º, IV e 1.022, II do CPC.
+Sustenta, outrossim, que "a decisão foi omissa, mesmo após a oposição de embargos de declaração e o desprovimento do recurso especial da Agravante incentiva e perpetua a ilegalidade praticada pelo d. Tribunal de origem, o qual, repita-se, não reproduziu uma só linha do título executivo que atribuísse à Agravante a obrigação de arcar com os custos de averbação da incorporação da vendedora, ocorrida, também repita-se, anos após a aquisição do imóvel pelo Agravado. Esse cenário configura, de forma inequívoca, violação ao dever constitucional de fundamentação das decisões judiciais (art. 93, IX da CF/88), bem como aos artigos 489, § 1º, IV, e 1.022, II, do CPC/2015, que impõem ao julgador o dever de enfrentar todos os argumentos capazes de, em tese, infirmar a conclusão adotada." (fl. 371)
+Aduz, ainda, a não incidência da Súmula n. 7 do STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões às fls. 375-376.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA VIOLAÇÃO DOS ARTS. 489 E 1.022, II DO CPC. OMISSÃO NÃO CONFIGURADA. FUNDAMENTAÇÃO SUFICIENTE.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação do art. 1.022, II, do CPC.
+2. Nos termos da jurisprudência pacífica desta Corte, "o órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte." (EDcl no REsp n. 2.024.829/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme demonstrado na decisão agravada, inexiste a alegada violação dos arts. 489 e 1.022 do CPC uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos (fls. 236-237):
+Embora se tenha, em sede de cognição sumária, aventado a possibilidade de se reconhecer a responsabilidade dos adquirentes pelo adimplemento da integralidade dos tributos devidos para a efetivação da transferência do imóvel em questão para sua titularidade, após nova análise dos autos, considerando ainda a resposta recursal, verifica- se não assistir razão à empresa recorrente.
+Isso porque, conforme se infere do titulo judicial ora em cumprimento, inequívoca é a responsabilidade da ora agravante pela "apresentação de toda a documentação pertinente ao imóvel em condições de possibilitar a transação".
+Com efeito, segundo estabelecido pelo título exequendo, à empresa agravante coube providenciar tudo o que fosse necessário para que o imóvel adquirido pelos agravados esteja desprovido de pendências para que seja definitivamente transferido para o seu nome, inclusive a averbação de suas alterações contratuais, arcando, consequentemente, com os ônus financeiros decorrentes de tais atos.
+Destarte, conforme bem ponderou o digno julgador primevo, mostra-se descabido, no presente momento processual, trazer à baila questões que deveriam haver sido colocadas em discussão na fase de conhecimento.
+De fato, apresenta-se inadmissível, nesta fase de cumprimento de sentença, pretender a executada retomar a discussão acerca da responsabilidade do pagamento dos tributos necessários à disponibilização da documentação por ela devida para a efetivação do direito reclamado pelos autores, devidamente reconhecido pela sentença primeva, transitada em julgado.
+Releva observar, por oportuno, inexistir controvérsia a respeito da responsabilidade dos agravados, adquirentes do imóvel, pelo pagamento dos tributos e demais despesas devidas para a transferência do bem para sua titularidade, assim que desde que este esteja desprovido de impedimentos para sua transferência.
+Da mesma forma, não merece acolhida a insurgência recursal à imposição de honorários sucumbenciais à empresa agravante, sendo inequívoca a resistência da executada ao cumprimento do encargo a ela imputado por sentença definitiva de mérito.
+Por sua vez, a multa cominatória estabelecida pela decisão primeva fora arbitrada com propriedade, considerando a importância do bem jurídico tutelado, bem como a resistência da ré/agravante no cumprimento da obrigação, e a boa-fé objetiva da parte autora, que não permaneceu inerte, buscando o cumprimento do seu direito à obtenção do registro de seu imóvel.
+Como se vê, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+Ressalta-se, ainda, que nos termos da jurisprudência pacífica desta Corte, "o órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte." (EDcl no REsp n. 2.024.829/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. VIOLAÇÃO DO ART. 1022 DO CPC NÃO VERIFICADA. PRETENSÃO. REJULGAMENTO. IMPOSSIBILIDADE. DECISÃO FUNDAMENTADA. ART. 489, § 1º, DO CPC. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLAUSULAS. INVIABILIDADE. SÚMULAS Nº 5 E 7/STJ.
+1 Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+3. A contradição que autoriza a oposição de declaratórios é aquela interna, existente entre a fundamentação e o dispositivo do julgado, o que não se observa no presente caso.
+4. Na hipótese, não há como afastar a incidência das Súmulas n ºs 5 e 7/STJ, pois no que diz respeito à novação e ao vício de vontade, as conclusões do tribunal de origem decorreram inquestionavelmente da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos, procedimentos inviáveis na instância especial.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.456.914/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
