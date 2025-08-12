@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por RICARDO JUN NISHIKAWA contra acórdão que negou provimento ao agravo interno assim ementado (e-STJ fl. 252):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+A parte embargante sustenta "a existência de omissões relevantes que comprometem a integralidade da prestação jurisdicional, especialmente no que tange às matérias suscitadas desde a apresentação da exceção de pré-executividade na instância de origem" (e-STJ fls. 266/267).
+Em seguida, alega que "a primeira omissão diz respeito à ausência de enfrentamento da impugnação específica à incidência da Súmula 83/STJ" (e-STJ fl. 267), aduzindo que "apontou de forma minuciosa a inexistência de jurisprudência consolidada sobre a matéria, inclusive à luz do julgamento do IRDR n. 0017610-97.2016.4.03.0000, paradigma cuja tese firmada vincula a jurisdição regional e encontra-se em trâmite perante esta Corte Superior" (e-STJ fl. 267). Defende, ainda, que "A segunda omissão refere-se à ausência de manifestação quanto à inaplicabilidade da Súmula 7/STJ ao caso concreto" (e-STJ fl. 268), afirmando que "Restou demonstrado pelo recorrente, com base nas premissas fáticas já consolidadas pelas instâncias ordinárias, que a controvérsia submetida à apreciação deste Superior Tribunal de Justiça envolve exclusivamente matéria de direito, notadamente a compatibilidade normativa entre o procedimento executivo fiscal e a exigência do IDPJ, sem necessidade de reexame do conjunto probatório" (e-STJ fl. 268). Por fim, assevera que "A terceira e não menos relevante omissão reside na ausência de pronunciamento acerca do dissídio jurisprudencial invocado" (e-STJ fl. 268), ao argumento de que "A decisão embargada limitou-se a afirmar que a divergência não restou comprovada, sem, contudo, analisar os julgados paradigmas colacionados, tampouco avaliar o conteúdo das ementas e o cotejo analítico apresentado" (e-STJ fl. 268).
+Ao final, requer a correção do vício, com a atribuição de efeitos modificativos ao recurso.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso dos autos, o agravo em recurso especial não foi conhecido.
+O acórdão de agravo interno, que ratifica a decisão monocrática, consignou ser incabível o agravo do art. 1.042 do CPC contra decisão que nega seguimento ao apelo extremo com base em orientação firmada em recurso repetitivo (art. 1.030, I, "b", do CPC), bem como que o conhecimento do agravo ainda esbarra na ausência de impugnação específica dos fundamentos da decisão do Tribunal de origem na parte em que não admitiu o recurso especial pelo art. 1.030, V do CPC. Vejamos a motivação dessas conclusões (e-STJ fls. 253/256):
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto no art. 253, parágrafo único, I, do RISTJ, e no art. 932, III, do CPC/2015.
+No caso, o Tribunal de origem negou seguimento ao recurso especial, em parte, por encontrar-se o acórdão em conformidade com tese firmada em recurso repetitivo (Tema 981 do STJ) e, no mais, não o admitiu, em razão da incidência da Súmula 7 do STJ, da consonância do acórdão recorrido com a jurisprudência desta Corte e da inadequada demonstração do dissídio jurisprudencial (e-STJ fls. 151/154).
+Nas razões do agravo em recurso especial, o agravante limita-se a sustentar genericamente que "não há que se falar na incidência da Súmula 7 do STJ" (e-STJ fl. 163).
+Contudo, não trata da incidência da Súmula 83 do STJ nem da inadequada demonstração da divergência jurisprudencial.
+Além disso, em momento algum evidencia concretamente que a análise da tese recursal, no caso dos autos, independe do reexame fático-probatório, por exemplo, mediante a indicação das premissas fáticas estabelecidas pelas instâncias ordinárias suficientes para o julgamento do recurso.
+Sendo assim, não infirmou de forma clara e específica esse fundamento, em evidente desrespeito ao princípio da dialeticidade.
+Isso porque, em observância ao princípio da dialeticidade, a impugnação deve ser feita, nas razões do agravo em recurso especial, de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto.
+Quanto à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório, o que não ocorreu na espécie.
+A propósito:
+ ..
+Assim, mostra-se inafastável o desprovimento do presente agravo interno.
+Nesse sentido, confiram-se os seguintes precedentes:
+ ..
+Acrescente-se que, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Nas razões destes embargos de declaração, nota-se que a parte embargante deduz afirmações no sentido de que sua argumentação não teria sido examinada e reitera as alegações sobre a efetiva impugnação dos fundamentos da decisão agravada.
+Na hipótese, o acórdão recorrido é respaldado por sólida fundamentação, coerente e suficiente para lastrear sua conclusão.
+Destacou-se que, no agravo em recurso especial, o agravante não impugnou a incidência da Súmula 83 do STJ e a inadequada demonstração da divergência jurisprudencial. Além disso, sobre a aplicação da Súmula 7 do STJ, limitou-se a alegar que "não há que se falar na incidência da Súmula 7 do STJ" (e-STJ fl. 163) sem, contudo, evidenciar concretamente que a análise da tese recursal, no caso dos autos, independeria do reexame fático-probatório, por exemplo, mediante a indicação das premissas fáticas estabelecidas pelas instâncias ordinárias suficientes para o julgamento do recurso.
+Logo, a alegação de vícios invocada pela parte embargante manifesta seu inconformismo com o decisum embargado, sendo que ela repisa argumentos antes suscitados, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015.REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.4. Embargos de declaração rejeitados.(EDcl no AgInt no AREsp 1666390/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 08/02/2021, DJe 11/02/2021)
+Além disso, ressalte-se que, nos termos da jurisprudência dessa Corte Superior, " ..  o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes, quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp 1.383.955/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/04/2018, DJe 13/04/2018).
+Assim, inexiste vício a sanar.
+Advirto a parte embargante de que a oposição de novos embargos de declaração em que reiterado vício já rejeitado em recurso anterior enseja a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, porquanto reputados manifestamente protelatórios.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
