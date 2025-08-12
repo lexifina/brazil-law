@@ -1,0 +1,197 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 282/STF. DESPESAS CONDOMINIAIS E IPTU. RESPONSABILIDADE DA VENDEDORA ATÉ E EFETIVA ENTREGA DO IMÓVEL. SÚMULA 83/STJ. RESPONSABILIDADE PELO ATRASO. SÚMULA 7/STJ. COMISSÃO DE CORRETAGEM. RESPONSABILIDADE PELA DEVOLUÇÃO. PRAZO PRESCRICIONAL. TERMO INICIAL. DATA DOS PAGAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que, em juízo de reconsideração, conheceu do agravo para negar provimento ao recurso especial. As agravantes alegam prequestionamento dos artigos 884 e 944 do Código Civil, ilegitimidade para responder por comissão de corretagem e ausência de culpa pelo atraso na entrega das chaves.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há prequestionamento dos artigos 884 e 944 do Código Civil, se as agravantes são responsáveis pela comissão de corretagem e se a mora na entrega das chaves decorreu de culpa das agravantes.
+3. A questão também envolve a análise da prescrição da pretensão dos agravados e a responsabilidade pelas despesas condominiais e de IPTU antes da entrega das chaves.
+III. Razões de decidir
+4. O acórdão recorrido não tratou dos dispositivos legais tidos por violados, configurando ausência de prequestionamento, conforme a Súmula 282/STF.
+5. As despesas condominiais e de IPTU são de responsabilidade da construtora até a entrega das chaves, conforme entendimento do STJ.
+6. Alterar o decidido no acórdão impugnado quanto à culpa pelo atraso na entrega da obra exige reexame de fatos e provas, vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+7. A responsabilidade das empresas rés para devolver valores cobrados a título de comissão de corretagem requer reexame do conteúdo fático-probatório, vedado pela Súmula 7 do STJ.
+IV. Dispositivo
+8. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Ministro Marco Aurélio Bellizze, que, em juízo de reconsideração, conheceu do agravo para negar provimento ao recurso especial.
+As Agravantes argumentam que houve prequestionamento dos artigos 884 e 944 do Código Civil, contrariando a decisão que aplicou a Súmula 211/STJ (e-STJ fls. 1529).
+Alegam que não receberam valores a título de comissão de corretagem, sendo ilegítimas para responder por tal pedido (e-STJ fls. 1534-1536).
+Afirmam que a mora na entrega das chaves não decorreu de culpa delas, pois o "habite-se" foi concedido dentro do prazo contratual, e a demora na quitação do saldo do preço foi culpa exclusiva dos Agravados (e-STJ fls. 1536-1540).
+Sustentam que houve acordo entre as partes para que os Agravados suportassem tais despesas, não havendo abusividade na cláusula contratual (e-STJ fls. 1541-1542).
+Alegam que a pretensão dos Agravados está prescrita, conforme o artigo 206, §3º, IV e V do Código Civil (e-STJ fls. 1546-1548).
+Afirmam que a matéria é exclusivamente de direito, não envolvendo reexame de cláusulas contratuais ou provas (e-STJ fls. 1548-1551).
+Requerem que seja dado provimento ao Agravo Interno para reconsiderar a decisão monocrática, enfrentando todas as matérias e reformando o acórdão recorrido através do Recurso Especial (e-STJ fls. 1551-1552).
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada apresentou contraminuta ao agravo.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 282/STF. DESPESAS CONDOMINIAIS E IPTU. RESPONSABILIDADE DA VENDEDORA ATÉ E EFETIVA ENTREGA DO IMÓVEL. SÚMULA 83/STJ. RESPONSABILIDADE PELO ATRASO. SÚMULA 7/STJ. COMISSÃO DE CORRETAGEM. RESPONSABILIDADE PELA DEVOLUÇÃO. PRAZO PRESCRICIONAL. TERMO INICIAL. DATA DOS PAGAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que, em juízo de reconsideração, conheceu do agravo para negar provimento ao recurso especial. As agravantes alegam prequestionamento dos artigos 884 e 944 do Código Civil, ilegitimidade para responder por comissão de corretagem e ausência de culpa pelo atraso na entrega das chaves.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há prequestionamento dos artigos 884 e 944 do Código Civil, se as agravantes são responsáveis pela comissão de corretagem e se a mora na entrega das chaves decorreu de culpa das agravantes.
+3. A questão também envolve a análise da prescrição da pretensão dos agravados e a responsabilidade pelas despesas condominiais e de IPTU antes da entrega das chaves.
+III. Razões de decidir
+4. O acórdão recorrido não tratou dos dispositivos legais tidos por violados, configurando ausência de prequestionamento, conforme a Súmula 282/STF.
+5. As despesas condominiais e de IPTU são de responsabilidade da construtora até a entrega das chaves, conforme entendimento do STJ.
+6. Alterar o decidido no acórdão impugnado quanto à culpa pelo atraso na entrega da obra exige reexame de fatos e provas, vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+7. A responsabilidade das empresas rés para devolver valores cobrados a título de comissão de corretagem requer reexame do conteúdo fático-probatório, vedado pela Súmula 7 do STJ.
+IV. Dispositivo
+8. Agravo interno não provido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 1.509-1.518):
+No caso, observa-se que a decisão do TJPR que negou seguimento ao recurso especial foi impugnada pela parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade da Súmula 182 do STJ, a fim de proceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Da leitura do acórdão recorrido, observa-se que o conteúdo normativo dos arts. 884 e 944 do Código Civil de 2002 não foi debatido pela Corte estadual, carecendo portanto do necessário prequestionamento viabilizador do recurso especial. Inafastável a incidência do enunciado 211/STJ.
+No que se refere à alegação de ilegitimidade passiva, nos termos da jurisprudência do STJ, os integrantes da cadeia de consumo respondem solidariamente pelos danos causados ao consumidor.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. ILEGITIMIDADE PASSIVA NÃO CONFIGURADA. RESPONSABILIDADE SOLIDÁRIA ENTRE OS INTEGRANTES DA CADEIA DE CONSUMO. LUCROS CESSANTES. MORA E PRESUNÇÃO DE PREJUÍZO. ACÓRDÃO EM CONFORMIDADE COM A ORIENTAÇÃO DESTA CORTE. SÚMULA Nº 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Tratando-se de uma relação de consumo, impõe-se a responsabilidade solidária perante o consumidor de todos aqueles que tenham integrado a cadeia de prestação de serviço, em caso de defeito ou vício. Precedentes.
+4. O STJ firmou o entendimento de que, descumprido o prazo para a entrega
+do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador.
+5. Estando o acórdão recorrido em plena consonância com a jurisprudência
+dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a
+qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá
+dar ou negar provimento ao recurso quando houver entendimento dominante
+acerca do tema.
+6. Agravo interno não provido. (AgInt no AREsp 1.473.474/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/5/2020, DJe
+7/5/2020).
+No que tange à fixação de lucros cessantes, o julgado encontra-se igualmente em harmonia com a jurisprudência desta Corte Superior, o que atrai o óbice da Súmula 83/STJ, pois eles são presumidos quando a mora na entrega do imóvel decorrer de culpa da construtora.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. COMPRA E VENDA DE IMÓVEL. PROGRAMA MINHA CASA MINHA VIDA. ATRASO NA ENTREGA. LUCROS CESSANTES PRESUMIDOS. CONSONÂNCIA COM O ENTENDIMENTO CONSOLIDADO NESTA CORTE SUPERIOR. CULPA PELO ATRASO. INVIABILIDADE DE REEXAME. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Segunda Seção desta eg. Corte, em sede de julgamento repetitivo, fixou, entre outras teses, que, "(..) No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a
+ensejar o pagamento de indenização, na forma de aluguel mensal, com base
+no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 27/9/2019).
+3. É inviável o reexame das provas dos autos , a teor do que dispõe a Súmula nº 7 do STJ.
+4. Agravo interno não provido. (AgInt no REsp 1.869.662/RN, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/8/2020, DJe 27/8/2020).
+Em relação às despesas relativas a condomínio e IPTU, o entendimento desta Corte Superior é no sentido de que elas são de responsabilidade da construtora/incorporadora até a entrega das chaves do imóvel ao adquirente. Isso porque o comprador não pode ser obrigado a pagar as despesas condominiais nem o citado imposto referente ao período em que não havia sido imitido na posse.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO INDENIZATÓRIA PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. DISTRATO. REVISÃO. POSSIBILIDADE. TAXAS CONDOMINIAIS. ENTREGA DAS CHAVES. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Conforme entendimento do STJ, "é cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, apesar de ter havido a quitação ampla, geral e irrevogável, se tenha constatado a existência de cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta aos ditames do CDC e aos princípios da boa-fé objetiva e do equilíbrio contratual" (AgInt no REsp n. 1.809.838/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/8/2019, DJe 30/8/2019).
+2. "Segundo a jurisprudência desta Corte, o promitente comprador só passa a ser responsável pelas despesas de condomínio a partir da efetiva posse, o que se dá com a entrega das chaves pela construtora" (AgInt no REsp 1.839.746/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/05/2020, DJe de 08/05/2020)
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e desprover o recurso especial (AgInt no AREsp n. 1.924.382/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Na hipótese ora em análise, o Tribunal de origem ao dirimir a controvérsia assim consignou (fls. 1.057-1.064, e-STJ, sem grifos no original):
+Em que pesem as alegações expostas, não assiste razão aos Apelantes.
+Infere-se dos Autos, o Contrato entabulado entre as partes previa a conclusão do Empreendimento em abril de 2013, sendo que a Cláusula 10ª, § 1.º, estabelecia um prazo de tolerância de180 (cento e oitenta) dias. Em vista disso, o prazo máximo para a entrega do imóvel seria outubro de 2013 (mov. 1.4).
+(..)
+Para além disso, não se pode olvidar que tal situação é inerente ao risco da atividade empresarial, devendo ser considerada à época do estabelecimento da data de entrega do imóvel. Portanto, não pode ser invocada em prejuízo do comprador, mormente considerando a existência de prazo de tolerância, que se presta justamente à finalidade de compensar eventuais fatores que dificultem o exato cumprimento do cronograma da obra.
+(..)
+Embora as Recorrentes sustentem que não houve o atraso na entrega do imóvel, salientando que foram os Autores é quem deram causa ao alegado atraso no recebimento das chaves por sua culpa exclusiva, eis que demoraram a proceder os atos necessários ao recebimento do imóvel, razão também não lhes assiste. Isso porque, eventual atraso no pagamento das parcelas, que pelos Autos apurou-se estarem em tratativas extrajudiciais (movs. 1.28 e 1.29), não autorizaria a parte requerida anegar aos Autores o direito de receber o imóvel. Frente a estes motivos, há que ser mantida a condenação das Empresas rés ao pagamento de valores a serem apurados no tocante ao atraso na entrega do imóvel aos autores.
+(..)
+Não obstante o Superior Tribunal de Justiça tenha pacificado o entendimento de que a Comissão de Permanência pode ser transferida do promitente Vendedor ao promitente Comprador, no caso em questão não há como se reter a referida Comissão paga pelo Autor, eis que no Contrato não consta qualquer previsão neste sentido.
+(..)
+Sem embargo do precedente apresentado pelos Recorrentes (REsp 1.551.956/SP), onde busca o reconhecimento da prescrição pela cobrança da Comissão de Corretagem, impende mencionar que a solução para o referido caso decorre do fato de que o consumidor efetuou o pagamento no momento da assinatura do Contrato. No caso em apreço, ao contrário disso, trata-se de Contrato detrato sucessivo, eis que o valor foi cobrado exclusivamente dos autores sem qualquer previsão contratual a esse respeito, cujo prazo prescricional teve início em 14 de maio de 2014, momento em que foi paga a última parcela. Logo, não há que se falar em prescrição, ao contrário do que propuseram os Recorrentes.
+(..)
+No tocante à aventada ilegitimidade pela responsabilidade da cobrança dos valores à título de comissão de corretagem, razão também não assiste às Recorrentes. Isso porque, como bem destacou o Juízo singular:
+"A parte requerida aduz em sua defesa que não pode ser condenada a devolver os valores pagos pelos autores a título de comissão de corretagem, pois não recebeu tais valores, já que o pagamento se deu diretamente à imobiliária responsável pela negociação.
+Pois bem, conforme a planilha de cálculo (seq. 1.8), bem como os comprovantes de pagamento em seguida apresentada pelos autores, houve a cobrança no valor deR$10.891,52 (dez mil, oitocentos e noventa e um reais cinquenta e dois centavos) a título de comissão de corretagem. De análise dos autos, nota-se que o pagamento foi realizado diretamente aos corretores ea empresa de Consultoria de Imóveis, a LPS Sul Ltda.
+Ocorre que a vendedora e a empresa interveniente em todas as relações contratuais são legítimas para figurar no polo passivo, seja pela teoria da aparência, seja porque integram a cadeia da relação de consumo e, portanto, são responsáveis solidariamente por eventuais danos ocasionados ao consumidor. Portanto, não há como se afastar a legitimidade passiva da requerida." - (mov. 193.1)
+(..)
+Assim sendo, não há como ser afastada a responsabilidade das empresas rés para proceder a devolução dos valores cobrados à título de Comissão de Corretagem (R$ 10.891,52).
+(..)
+Pelo histórico processual, restou inconteste que a entrega da unidade imobiliária ocorreu em 14/05/2014. Embora o Contrato tenha previsto que após o decurso do prazo disposto na cláusula 11ª, passariam a correr exclusivamente por conta do comprador todos os impostos, taxas, tributos, despesas de condomínio e quaisquer outros que incidam ou venham a incidir sobre a unidade ora compromissada, ainda que lançada em nome de terceiros, e mesmo que não tenham sido entregue as chaves da unidade ao comprador, tal pactuação vai de encontro ao entendimento Jurisprudencial do Superior Tribunal de Justiça, que corrobora que somente com a tradição (entrega das chaves), torna-se possível falar em cobrança de taxas condominiais, as quais são de responsabilidade do vendedor até a imissão na posse do comprador.
+(..)
+O mesmo se diga em relação aos valores pagos pelos compradores à título de IPTU, os quais também são de exclusiva responsabilidade das rés até que ocorra a imissão na posse do imóvel, senão vejamos:
+(..)
+O mesmo entendimento deve ser adotado em relação aos valores referentes ao IPTU, ou seja, os valores somente são exigíveis dos compradores após a imissão na posse, posto que são de natureza propter rem.
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ, a obstar a análise do reclamo por ambas as alíneas do permissivo constitucional.
+Ademais, a revisão das conclusões estaduais demandaria, necessariamente, a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, o que não se admite no âmbito do recurso especial, dado os óbices das Súmulas 5 e 7/STJ.
+Ante o exposto, em juízo de reconsideração, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+A análise do teor do acórdão recorrido indica que os dispositivos tidos por violados (artigos 884 e 944 do Código Civil) não foram debatidos pela Corte de origem.
+É certo que, por força constitucional (art. 105, III da CRFB/88), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial, "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Destarte, "A falta de prequestionamento da matéria suscitada no recurso especial, impede seu conhecimento, a teor da Súmula nº 282/STF." (AgInt no AREsp n. 2.582.153/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+(..)
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ENTERPRISE. PEDIDO DE RESTITUIÇÃO. BEM QUE AINDA INTERESSA AO PROCESSO. POSSIBILIDADE DE PERDIMENTO. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7, STJ. TESE DE VIOLAÇÃO AO ART. 49-A, CC. FATOS CRIMINOSOS ATRIBUÍDOS AO ADMINISTRADOR DA EMPRESA. POSSIBILIDADE DE CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA SUPOSTAMENTE UTILIZADA NA LAVAGEM DE CAPITAIS. PRECEDENTES. VIOLAÇÃO AO ART. 156, CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282, STF.
+I - É inviável o reexame de fatos e provas para afastar as conclusões do Tribunal a quo de que há fortes indícios de que foram utilizados recursos decorrentes de atividades criminosas para adquirir o veículo sobre o qual versa o pedido de restituição.
+Incidência da Súmula n. 7, STJ.
+II - Segundo a jurisprudência desta Corte, é possível determinar a constrição de bens de pessoas jurídicas quando houver indícios de que elas tenham sido utilizadas para a prática delitiva ou para ocultar ativos decorrentes de atividades ilícitas. Precedentes.
+III - Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre a correta aplicação da lei federal.
+IV - No caso sob exame, não se verificou, a partir da leitura dos acórdãos recorridos, discussão efetiva acerca do ônus da prova e do art. 156 do Código de Processo Penal, de modo que deve ser mantido o óbice da Súmula n. 282, STF.
+Agravo regimental desprovido.
+(AgRg no AREsp 2333928 / PR, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 04/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 07/06/2024)
+Dessa forma, "Para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020)." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+É certo que "Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que os temas correspondentes tenham sido expressamente discutidos no Tribunal local (..)" (AgInt no AREsp n. 2.423.648/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Entretanto, para que se considere ocorrido o prequestionamento implícito, há de se ter presente, no caso concreto, a discussão da temática fático-jurídica que se pretende ver revisada nesta Corte, não se podendo cogitar de pronunciamento inaugural a respeito do enfoque pretendido pela parte agravante em sede especial.
+Daí porque, tem-se reiterado neste colegiado que "não basta ao cumprimento do requisito do prequestionamento a mera oposição de embargos de declaração na origem." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+No presente feito, a parte recorrente não logrou comprovar que o acórdão recorrido tratou dos dispositivos legais tidos por violados ou da tese jurídica ora trazida a esta Corte, de modo que "Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF. " (AgInt no AREsp n. 1.701.763/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2021, DJe de 13/12/2021.)
+No que se refere à alegação de ilegitimidade passiva da recorrente, assim como assentado na decisão agravada, nos termos da jurisprudência do STJ, os integrantes da cadeia de consumo respondem solidariamente pelos danos causados ao consumidor. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE QUANTIA PAGA E OUTRAS AVENÇAS. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE DA CONSTRUTORA CONFIGURADA. ATUAÇÃO NA CADEIA DE FORNECIMENTO PERANTE O CONSUMIDOR. COMISSÃO DE CORRETAGEM E TAXA SATI. DEVOLUÇÃO INTEGRAL. RESCISÃO CONTRATUAL POR INADIMPLÊNCIA DA PROMITENTE-VENDEDORA. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "apesar de não ter liame jurídico com o consumidor, a construtora pertence, sim, à cadeia de fornecimento do produto, visto se tratar de fenômeno eminentemente econômico, sendo solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de fornecimento" (AgInt no AREsp 2.167.902/RJ, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/2/2023, DJe de 15/2/2023).
+2. Outrossim, "Não se aplica a orientação do Tema 938/STJ aos casos em que a pretensão de restituição da comissão de corretagem e da Taxa SATI decorre da rescisão do contrato por culpa da vendedora, porquanto tais verbas integram as perdas e danos devidas ao comprador para volta ao status quo ante" (AgInt no AREsp 1.699.501/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe de 07/12/2020).
+3. Por sua vez, nos termos da jurisprudência do STJ, "em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação" (AgInt no AREsp 1.761.193/DF, Relator Ministro Raul Araújo, Quarta Turma, julgado em 22/3/2021, DJe de 13/4/2021).
+4. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.864.010/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023.)
+De outro lado, assim como constou na decisão agravada, as despesas condominiais e de IPTU são de responsabilidade da construtora até a entrega das chaves, conforme entendimento do STJ, pois o comprador não pode ser obrigado a pagar por despesas antes de ser imitido na posse do imóvel. Nesse sentido:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DO BEM IMÓVEL. LEI N. 6.766/79, QUE PREVÊ ATRASO DE ATÉ QUATRO ANOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. LUCROS CESSANTES PRESUMIDOS. LOTE NÃO EDIFICADO. POSSIBILIDADE. REVISÃO DE DANOS MORAIS. NÃO CABIMENTO. IPTU DEVIDO PELO AGRAVANTE ATÉ A DATA DA IMISSÃO NA POSSE PELOS COMPRADORES.
+1. Alegação de que o contrato é regido pela Lei n. 6.766/79 e, por isso, as partes estariam cientes de que o prazo previsto para a entrega das obras seria de quatro anos. Questão não debatida nas instâncias ordinárias, incidindo a Súmula n. 211/STJ.
+2. A jurisprudência desta Segunda Seção é pacífica ao definir que, em caso de atraso na entrega de bem imóvel, os lucros cessantes são presumidos. Precedentes
+3. No tocante à condenação de pagamento por danos morais, a jurisprudência desta Corte é no sentido de que "o valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante". Precedentes.
+4. As despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de o IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse.
+Agravo interno improvido.
+(AgInt no REsp n. 1.975.034/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. DANOS EMERGENTES. CASO FORTUITO OU FORÇA MAIOR. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA N.º 7 DO STJ. DESPESAS CONDOMINIAIS DO IMÓVEL QUE NÃO PODEM SER IMPUTADAS AO PROMITENTE-COMPRADOR ANTES DA ENTREGA DAS CHAVES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão vergastado concluiu não existir excludente de ilicitude apta a afastar a condenação a título de lucros cessantes.
+Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n.º 7 do STJ.
+2. A jurisprudência desta Corte orienta no sentido de que a responsabilidade do adquirente pelas despesas do condomínio se inicia com a sua efetiva imissão na posse, o que ocorre com a entrega das chaves.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.190.756/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+De outro lado, alterar o decidido no acórdão impugnado, no que se refere à culpa por atraso na entrega da obra, decorrente da responsabilidade das partes agravadas, exige o reexame de fatos, provas e cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ. A corroborar:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. IMÓVEL. AÇÃO INDENIZATÓRIA. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS. PROCEDÊNCIA DO PLEITO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RESPONSABILIDADE DO PROMITENTE COMPRADOR PELO PAGAMENTO DO IPTU. AUSÊNCIA. ILEGITIMIDADE PASSIVA E PORCENTAGEM DE RETENÇÃO SOBRE OS VALORES PAGOS. AUSÊNCIA DE PREQUESTIONAMENTO. MULTA DO ART. 1.026, § 2º, DO CPC. AUSÊNCIA DE INTUITO PROTELATÓRIO. AGRAVO INTERNO PARCIALMENTE PROVIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL APENAS PARA AFASTAR A MULTA APLICADA.
+1. Modificar o entendimento do Tribunal local acerca da obrigação de indenizar pela demora na entrega do imóvel demanda reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula n. 7 do STJ.
+2. A responsabilidade do promitente comprador pelas despesas do imóvel, como condomínio e IPTU, somente se dá a partir da imissão na posse, a qual ocorre com o recebimento das chaves.
+3. Para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto.
+4. Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório, não cabendo a aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+5. Agravo interno parcialmente provido para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento apenas para afastar a multa aplicada pelo Tribunal de origem no julgamento dos embargos de declaração.
+(AgInt no REsp n. 2.085.055/SE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/11/2024, DJe de 6/11/2024, grifo nosso.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS SÚMULA N. 5 E 7 DO STJ. DANOS MORAIS. EXCLUSÃO. SÚMULA N. 7/STJ. DESPESAS CONDOMINAIS. OBRIGAÇÃO DO ADQUIRENTE. ENTREGA DAS CHAVES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE.
+SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso, reconhecer caso fortuito ou força maior, no atraso da entrega do imóvel, exige o reexame de matéria fática, medida inviável em recurso especial.
+3. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+4. O Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que os agravados foram expostos ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. Conforme o entendimento desta Corte Superior, "o promitente comprador passa a ser responsável pelo pagamento das despesas condominiais a partir da entrega das chaves, tendo em vista ser o momento em que tem a posse do imóvel" (REsp n. 1.847.734/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/3/2022, DJe de 31/3/2022), entendimento aplicado pela Corte de origem. Inafastável, desse modo, a Sumula n. 83/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.054.503/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023, grifo nosso.)
+No que se refere à tese de ilegitimidade para restituição de comissão de corretagem, a agravante alega que não recebeu valores a título de comissão de corretagem, sendo ilegítima para responder por tal pedido.
+Ocorre que, para afastar a responsabilidade das empresas rés para proceder a devolução dos valores cobrados à título de Comissão de Corretagem, seria necessário o reexame do conteúdo fático-probatório dos autos, vedado pela Súmula 7 desta Corte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. Este STJ perfilha o entendimento de que nos casos em que o construtor/vendedor dá causa à resolução do contrato de compra e venda e a devolução da comissão de corretagem é consequência lógica do dever de restituição dos valores pagos, não se aplica o prazo prescricional de 3 (três) anos objeto do Tema 938/STJ. Precedentes.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Quanto à tese de prescrição acerca da restituição da comissão de corretagem, conforme restou consignado na decisão agravada o prazo prescricional iniciou-se apenas após o pagamento da última parcela. Nesse sentido é o entendimento desta Corte:
+RECURSO ESPECIAL. DIREITO CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO UNILATERAL. INICIATIVA DO COMPRADOR. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. TRÊS ANOS. TEMA 938/STJ. RECURSO DESPROVIDO.
+1. O STJ, em sede de recurso repetitivo (Tema 938), fixou a tese de que incide a prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem, conforme o art. 206, § 3º, IV, do Código Civil.
+2. O termo inicial do prazo prescricional é a data dos pagamentos, e a cláusula contratual que estipulou a obrigação do pagamento no ato do pedido de reserva foi reconhecida como de conhecimento do recorrente pela instância de origem. Chegar a uma conclusão contrária, na espécie, sobre ter tido o comprador efetiva ciência da referida cláusula, encontra óbice nas Súmulas 5 e 7 do STJ.
+Precedentes.
+3. Recurso especial desprovido.
+(REsp n. 2.060.346/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 31/3/2025, DJEN de 10/4/2025.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA ABUSIVA CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. PRETENSÃO DE RESTITUIÇÃO DA TAXA SATI. TERMO INICIAL DO PRAZO PRESCRICIONAL. DATA DO PAGAMENTO. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o termo inicial de fluência do prazo prescricional do direito ao reembolso de valores pagos a título de comissão de corretagem e taxa SATI é a data do efetivo pagamento. Incidência da Súmula n.º 568 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.765.704/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+É o voto.
