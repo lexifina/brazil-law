@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Humberto Martins.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSIBILIDADE HÍBRIDA. TEMA A QUE FOI NEGADO SEGUIMENTO. ART. 1.030, I, "B", DO CPC. IMPUGNAÇÃO POR MEIO DE AGRAVO INTERNO NA ORIGEM. REITERAÇÃO DO TEMA. DESCABIMENTO. MANOBRA PROCESSUAL VEDADA. MULTA. CERCEAMENTO DE DEFESA. SÚMULAS 7/STJ E 283/STF.
+1. Exarada dec isão de (in)admissibilidade híbrida (que nega seguimento a recurso extraordinário lato sensu em razão de tese firmada em recurso repetitivo ou repercussão geral e inadmite quanto a outras teses recursais), cabe ao STJ apenas a análise da questão residual.
+2. O inconformismo quanto à aplicação de tema firmado em recurso repetitivo ou repercussão geral deve ser manifestado por meio de agravo interno dirigido ao próprio Tribunal de origem, órgão que exerce, nessa particularidade, competência própria, sobre a qual não é admitida a apreciação de acerto ou desacerto, de modo que não há amparo legal para que, em razão da questão residual, a parte aproveite a oportunidade da análise de seu recurso sobre os temas residuais para, de forma reflexa e ardil, ressuscitar a referida temática, cuja apreciação se encontra vedada ao STJ. Precedentes.
+3. A manobra processual utilizada reflete o desrespeito da agravante com a sistemática legal decorrente da implementação dos recursos repetitivos lato sensu e deve ser amplamente rechaçada, o que impõe, no ponto, a fixação da multa prevista no art. 1.021, § 4º, do CPC.
+4. Quanto à questão residual (cerceamento de defesa pelo julgamento antecipado), o Tribunal de origem destacou que a agravante se manteve inerte após o anúncio do julgamento do feito no estado em que estava. Neste contexto, a reversão do julgado, além de esbarrar no óbice da Súmula 7/STJ, também esbarra nos preceitos da Súmula 283/STF, visto que as razões do recurso especial se limitam a suscitar o cerceamento de defesa pela necessidade de prova pericial e deixa de impugnar o fundamento do acordão recorrido no sentido de precluiu a oportunidade de sua produção.
+Agravo interno conhecido em parte e improvido com aplicação de multa.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CREFISA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial nos termos da seguinte ementa (fls. 1.051-1.056):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. SÚMULA N. 7/STJ. TAXA DE JUROS. VERIFICAÇÃO DO CASO CONCRETO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DISSÍDIO PREJUDICADO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim ementado (fl. 686):
+APELAÇÕES CÍVEIS - AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO - MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA - DEMANDA JULGADA PROCEDENTE EM PARTE NA ORIGEM - INSURGÊNCIA DA PARTE AUTORA PARA APLICAÇÃO DA TAXA DE JUROS MÉDIA DE MERCADO - INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA PELA MANUTENÇÃO DOS TERMOS DO CONTRATO - REFORMA DA SENTENÇA - CONFIGURADA A ABUSIVIDADE DOS LIMITE ESTABELECIDO EM 20%JUROS - DA TAXA MÉDIA PREVISTA PELO BANCO CENTRAL - APELAÇÃO DA AUTORA CONHECIDA E PARCIALMENTE PROVIDA - APELAÇÃO DA RÉ IMPROVIDA - UNANIMIDADE.
+Rejeitados os embargos de declaração opostos (fls. 694-695).
+Nas razões do recurso interno, a agravante aduz a inaplicabilidade das Súmulas 7/STJ e 211/STJ.
+Pugna, por fim, pelo provimento do recurso.
+A agravada apresentou contrarrazões (fls. 1.073-1.075).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSIBILIDADE HÍBRIDA. TEMA A QUE FOI NEGADO SEGUIMENTO. ART. 1.030, I, "B", DO CPC. IMPUGNAÇÃO POR MEIO DE AGRAVO INTERNO NA ORIGEM. REITERAÇÃO DO TEMA. DESCABIMENTO. MANOBRA PROCESSUAL VEDADA. MULTA. CERCEAMENTO DE DEFESA. SÚMULAS 7/STJ E 283/STF.
+1. Exarada dec isão de (in)admissibilidade híbrida (que nega seguimento a recurso extraordinário lato sensu em razão de tese firmada em recurso repetitivo ou repercussão geral e inadmite quanto a outras teses recursais), cabe ao STJ apenas a análise da questão residual.
+2. O inconformismo quanto à aplicação de tema firmado em recurso repetitivo ou repercussão geral deve ser manifestado por meio de agravo interno dirigido ao próprio Tribunal de origem, órgão que exerce, nessa particularidade, competência própria, sobre a qual não é admitida a apreciação de acerto ou desacerto, de modo que não há amparo legal para que, em razão da questão residual, a parte aproveite a oportunidade da análise de seu recurso sobre os temas residuais para, de forma reflexa e ardil, ressuscitar a referida temática, cuja apreciação se encontra vedada ao STJ. Precedentes.
+3. A manobra processual utilizada reflete o desrespeito da agravante com a sistemática legal decorrente da implementação dos recursos repetitivos lato sensu e deve ser amplamente rechaçada, o que impõe, no ponto, a fixação da multa prevista no art. 1.021, § 4º, do CPC.
+4. Quanto à questão residual (cerceamento de defesa pelo julgamento antecipado), o Tribunal de origem destacou que a agravante se manteve inerte após o anúncio do julgamento do feito no estado em que estava. Neste contexto, a reversão do julgado, além de esbarrar no óbice da Súmula 7/STJ, também esbarra nos preceitos da Súmula 283/STF, visto que as razões do recurso especial se limitam a suscitar o cerceamento de defesa pela necessidade de prova pericial e deixa de impugnar o fundamento do acordão recorrido no sentido de precluiu a oportunidade de sua produção.
+Agravo interno conhecido em parte e improvido com aplicação de multa.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+De início, convém destacar que houve juízo híbrido de admissibilidade que negou seguimento ao recurso especial em razão de recurso qualificado (Tema n. 27/STJ), de modo que cabe ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma em recurso repetitivo.
+Nesse sentido, cito:
+II - É cabível a interposição simultânea, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021 do CPC); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal.
+(AgInt no AgInt no AgInt no REsp n. 1.907.400/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/8/2022.)
+Dessa forma, uma vez negado seguimento a parte do apelo nobre em razão de precedente qualificado, o inconformismo quanto à aplicação de tema firmado em recurso repetitivo ou repercussão geral deve ser manifestado por meio de agravo interno dirigido ao próprio Tribunal de origem, órgão que exerce, nessa particularidade, competência própria, sobre a qual não é admitida a apreciação de acerto ou desacerto, de modo que não há amparo legal para que, em razão da questão residual inadmitida, a parte aproveite a oportunidade da análise de seu recurso sobre os temas residuais para, de forma reflexa e ardil, ressuscitar a referida temática, cuja apreciação se encontra vedada ao STJ.
+A título de reforço, cito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. SÚMULA N. 182/STJ. RECONSIDERAÇÃO. NOVO EXAME DO AGRAVO NOS PRÓPRIOS AUTOS. RESCISÃO CONTRATUAL. CULPA DA VENDEDORA. CARACTERIZAÇÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. REEXAME DE MATÉRIA FÁTICA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+ ..
+5. Para a jurisprudência do STJ, "a decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o qual prevê, em seu art. 1.030, inciso I, alínea "b", e § 2º, que caberá agravo interno contra a decisão que negar seguimento a recurso especial interposto contra acórdão proferido em conformidade com entendimento do STJ, firmado em julgamento de recurso repetitivo. Incabível, portanto, a interposição do agravo em recurso especial" (AgInt nos EDcl no AREsp 1703408/DF, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/04/2021, DJe 14/04/2021).
+5.1. A Corte local negou seguimento ao recurso especial na parte referente à restituição da comissão de corretagem, nos termos do art. 1.030, I, "b", do CPC/2015.
+5.2. Logo, não há falar em reexame da mencionada controvérsia na instância especial, ante o preceito impositivo do art. 1.030, I, "b", do CPC/2015.
+5.3. Conforme o entendimento desta Corte Superior, "por absoluta ausência de previsão de cabimento de qualquer recurso contra o acórdão proferido no agravo interno, que impugna a decisão de admissibilidade do recurso especial fundamentada no art. 1.030, I, "b", do CPC, também não é aceitável a apresentação de petição genérica, sob pena de, por via reflexa, se admitir verdadeira subversão das diretrizes legislativas relacionadas ao sistema dos recursos especiais repetitivos, tornando-o ineficaz" (AgInt na Pet n. 11.924/PE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 3/3/2020, DJe 10/3/2020).
+ ..
+(AgInt no AREsp n. 2.362.715/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 3/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. 2. AGRAVO INTERNO DESPROVIDO.
+1. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015, quando a Corte de origem o inadmitir com base em recurso repetitivo, constitui erro grosseiro.
+1.1. A irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.312.157/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 9/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. DECISÃO HÍBRIDA. IMPUGNAÇÃO À APLICAÇÃO DE TEMA FIRMADO EM RECURSO REPETITIVO. INCABÍVEL. PARTE INADMITIDA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Considerando as disposições do art. 1.030, I, b, c/c o § 2º, o conhecimento do recurso especial por esta Corte fica restrito à análise da matéria inadmitida pelo Tribunal de origem com base no art. 1.030, V, do CPC.
+2. É inadmissível o agravo em recurso especial em que a parte agravante insiste em rediscutir a matéria que tenha sido julgada em harmonia com tese definida em recurso repetitivo, sendo cabível o agravo interno.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.162.071/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 29/3/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÂNSITO. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ART. 302, § 1º, INCISO IV, DO CTB. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. DESISTÊNCIA PARCIAL. IMPOSSIBILIDADE. MANUTENÇÃO DA DECISÃO AGRAVA DA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III -Registre-se que o momento adequado para impugnação dos fundamentos da decisão que nega seguimento ao recurso especial, com base no artigo 1.030, I, b, do CPC, é o da interposição do agravo interno, consoante expressamente preconiza o art. 1.030, § 2º, do novel CPC, sob pena de preclusão.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.925.335/CE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 17/11/2021.)
+A manobra processual ora utilizada pela agravante reflete seu desrespeito com a sistemática legal decorrente da implementação dos recursos repetitivos lato sensu e deve ser amplamente rechaçada, o que impõe, no ponto, a fixação da multa prevista no art. 1.021, § 4º, do CPC, no patamar de 5% sobre o valor atualizado da causa.
+Nesse sentido, cito:
+Aplicação de multa processual da art. 1.021, § 4º do CPC/2015 em virtude da alegação de teses manifestamente infundadas, contrárias à realidade dos autos e à tese firmada em repetitivo. (AgInt nos EDcl no REsp n. 1.601.690/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 16/11/2018.)
+Quanto à efetiva questão residual (cerceamento de defesa pelo julgamento antecipado), nada a prover no agravo interno.
+Isso porque o Tribunal de origem destacou que a agravante se manteve inerte após o anúncio do julgamento do feito no estado em que estava. Vejamos:
+A priori, cumpre-me rechaçar a preliminar se cerceamento de defesa suscitada pela instituição financeira.
+Verifico que foi anunciado o julgamento pela magistrada sentenciante em 07/03/2023 e, desta decisão, não houve qualquer manifestação da ré, conforme certificado mais de mês após, em 20/04/2023.
+Com efeito, vislumbro que às partes foram assegurados a ampla defesa e o contraditório, não havendo que se falar em cerceamento de defesa.
+Neste contexto, concluindo o Tribunal que houve inércia da agravante na pretensão de produzir a prova, de modo que não ficou configurado o cerceamento de defesa, sua revisão demandaria reexame do acervo fático, o que esbarra no óbice da Súmula 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. PROVA PERICIAL. PRECLUSÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. NÃO PROVIMENTO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte encontra-se consolidada no sentido de que "Na hipótese em que a prova não é produzida por inércia da própria parte, não é possível a alegação de cerceamento de defesa pela ausência de sua produção" (AgInt no AREsp 983.105/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/12/2016, DJe de 15/12/2016).
+2. O eg. Tribunal a quo, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela inexistência de cerceamento de defesa, uma vez que a ora agravante não se preocupou em providenciar, em tempo hábil, a realização da perícia grafotécnica, operando-se a preclusão.
+3. A desconstituição das premissas fáticas adotadas no acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, pela Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.343.457/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 26/8/2022.)
+Inclusive, no ponto, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar o cerceamento de defesa pela necessidade de prova pericial e deixa de impugnar o fundamento do acordão recorrido no sentido de precluiu a oportunidade de sua produção, o que atrai a incidência da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. HIPÓTESES LEGAIS NÃO CONFIGURADAS. FUNDAMENTO NÃO SUSCITADO NAS RAZÕES DE APELAÇÃO. INOVAÇÃO RECURSAL. JULGAMENTO CONJUNTO DE AÇÕES CONEXAS. DISCRICIONARIEDADE. SÚMULA 83/STJ. INÉRCIA QUANTO À ESPECIFICAÇÃO DE PROVAS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. MORA DO CREDOR NÃO DEMONSTRADA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+ ..
+(AgInt no AREsp n. 1.477.213/MG, relator Ministro Raul Araújo, Quarta Turma, DJe de 18/12/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ATO ATENTATÓRIO AOS PRINCÍPIOS DA ADMINISTRAÇÃO. ART. 11 DA LEI 8.429/92. CERCEAMENTO DE DEFESA. NECESSIDADE DE EFETIVA COMPROVAÇÃO DO PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. ELEMENTO SUBJETIVO EXPRESSAMENTE RECONHECIDO, PELO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DOSIMETRIA. ALEGADA OFENSA AO ART. 12, III, DA LEI 8.429/92. INEXISTÊNCIA. FIXAÇÃO DE SANÇÕES NO MÍNIMO LEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. No que tange ao alegado cerceamento de defesa, a parte agravante, além de não impugnar, especificamente, o fundamento do acórdão recorrido - atraindo, quanto ao cerne do inconformismo, o óbice da Súmula 283 do STF, por analogia -, também não declinou qualquer prejuízo concreto eventualmente sofrido, que justifique a declaração de nulidade, mormente em razão da inércia do agravante em especificar as provas a serem produzidas, por ocasião da contestação, bem como em razão da ausência de qualquer prejuízo pela falta de intimação da sentença, uma vez que foi interposta a apelação, pelo ora agravante.
+ ..
+(AgRg no AREsp n. 612.400/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/6/2016.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. INCIDÊNCIA DA SÚMULA 284/STF. INÉRCIA DA RECORRENTE NA INSTRUÇÃO DO FEITO. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. ICMS. CERCEAMENTO DE DEFESA E INSUBSISTÊNCIA DO CRÉDITO TRIBUTÁRIO. ENTENDIMENTO FIXADO NA ORIGEM COM BASE NO LAUDO PERICIAL. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+2. Alega a agravante que o improvimento da presente ação deu-se essencialmente pela falta de prova, cuja juntada foi indeferida pelo juízo sentenciante, violando-se assim o princípio da ampla defesa e do contraditório. Esqueceu-se, entretanto, de mencionar que o indeferimento originário deu-se ante a ocorrência do instituto da preclusão, porquanto, instada a manifestar-se sobre a alegação da perita acerca da ausência de provas necessárias para a conclusão da perícia, "houve inércia da Apelante por mais de 2 meses para apresentar a documentação solicitada pela Perita.". Incidência da Súmula 283/STF.
+ ..
+(AgRg no AREsp n. 449.004/MG, relator Ministro Humberto Martins, Segunda Turma, DJe de 24/2/2014.)
+Ante  o  exposto,  com aplicação de multa, conheço  em parte do  agravo  interno e nego-lhe provimento.
+É  como  penso.  É  como  voto.
