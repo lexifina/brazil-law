@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+3. Caso em que a parte insurgente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Marcio Nascimento Ferreira  desafiando a decisão de fls. 743/744, integrada em embargos de declaração (fls. 770/772), que não conheceu de seu agravo em recurso especial com base na Súmula 182/STJ, uma vez que não houve impugnação específica dos fundamentos que ensejaram a inadmissão do apelo nobre pelo Tribunal de origem, a saber: (i) a incidência do óbice do Enunciado 7/STJ; e (ii) a ausência de comprovação do dissídio jurisprudencial.
+Sustenta o agravante que "o emprego do documento nulo (PL-1216/2006) para fundamentar um acórdão configurou uma prova surpresa, Error in Procedendo, cuja análise não incide a Súmula 7 do STJ, resultando numa percepção equivocada dos fatos e uma má valorização de provas trazidas nos autos" (fl. 785).
+E complementa (fl. 785):
+In casus, os documentos probantes trazidos aos autos e fatos que ficaram incontroversos, sendo as provas apreciadas de forma inadequada, configurando o Error Iuris e contrária as normas jurídicas pertinentes, cuja análise não enseja na incidência da Súmula 7 do STJ.
+Segue afirmando que (fls. 793/794):
+No Recurso Especial (e-STJ, fl. 631) aduzimos que o emprego do documento nulo (PL-1216/2005) apenas como complemento da fundamentação não encontra amparo legal e incorre no Art. 489, § 1º, I, IV e VI, do CPC; a alegada ausência do Crivo do Contraditório, incorre no Art. 7º do CPC; e houve prejuízo processual em desfavor do autor devido ao teor do documento nulo ter sido utilizado para afastar a eficácia do documento público (Certidão do CREA-PE n.º 201/2009) incorrendo no Art. 405 do CPC, e ainda porque a decisão ignorou outros elementos processuais, seguindo apenas o ter do referido documento nulo (PL-1216/ 2005).
+Ainda no Recurso Especial (e-STJ, fl. 632) aduzimos que o teor o referido documento nulo é contrário aos Arts. 34, alínea "m", 45 da Lei Federal n.º 5.194/1966, o que infirma a conclusão do julgado gerada pelo teor do referido documento nulo (PL-1216/ 2005) que é a legislação pertinente e o Decisório sobre o Recurso Especial não enfrentou esse argumento incorrendo no Art. 489, § 1º, I, IV e VI, do CPC, antes resolveu manter o entendimento do Voto da Ação Rescisória (e-STJ, fls. 521).
+No mais, reprisa a argumentação expendida no próprio apelo especial.
+Sem impugnação (fl. 818).
+O Ministério Público Federal, em parecer da Subprocuradora-Geral da República Darcy Santana Vitobello, opinou pelo desprovimento do agravo interno (fls. 837/840).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+3. Caso em que a parte insurgente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não comporta conhecimento.
+Segundo o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+De outro giro, a Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Na espécie, conforme destacado no relatório acima, o decisum agravado não conheceu do agravo em recurso especial a partir da compreensão de que não houve impugnação específica dos pilares que ensejaram a inadmissão do apelo nobre pelo Tribunal de origem, a saber: (i) a incidência do óbice do Verbete 7/STJ; e (ii) a ausência de comprovação do dissídio jurisprudencial.
+Já nas razões do agravo interno agora examinado, a parte insurgente cinge-se a reiterar a argumentação expendida no próprio apelo nobre e, nessa extensão, a arguir genericamente a inaplicabilidade do Enunciado 7/STJ, deixando, como lhe incumbia (art. 1.021, § 1º, do CPC), de empreender efetivo combate aos noticiados óbices.
+Com efeito, é firme o entendimento deste Superior Tribunal no sentido de que não é possível considerar as razões trazidas no agravo interno vertente para fins de suplantar a deficiência de fundamentação recursal do agravo em recurso especial, uma vez que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos princípios da eventualidade, da complementaridade e da preclusão. Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 29-B, 41-A E 134 DA LEI N. 8.213/1991 E ART. 31 DA LEI N. 10.741/2003. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INDICAÇÃO GENÉRICA DE DISPOSITIVOS DE LEI VIOLADOS. INCIDÊNCIA DA SÚMULA N. 284/STF. COMPLEMENTAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO PERCENTUAL. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência. Incidência da Súmula n. 284/STF.
+3. Não é possível considerar as razões trazidas no agravo interno vertente para fins de suplantar a deficiência de fundamentação recursal do apelo raro, visto que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos princípios da eventualidade, da complementaridade e da preclusão. Precedentes.
+4. Os honorários de sucumbência foram fixados dentro do percentual previsto no art. 20, §§ 3º e 4º, do CPC/73, de forma que a revisão do valor exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula n. 7/STJ.5. Agravo interno não provido.
+(AgInt no AREsp 2.727.304/SP, Relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 10/4/2025.)
+Logo, incide na espécie a Súmula 182/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ E APLICAÇÃO DO DISPOSTO NOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+1. As razões de agravo interno não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da parte agravante. Incidência da Súmula 182/STJ e aplicação do disposto no art. 932, III, c/c o art. 1.021, § 1º, ambos do Código de Processo Civil de 2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 2.023.903/TO, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA N. 182/STJ. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. O art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que não ocorreu no presente caso.
+2. Ademais, em observância ao princípio da dialeticidade, exige-se do agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada. Súmula n. 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.965.607/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/9/2022, DJe de 22/9/2022.)
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
