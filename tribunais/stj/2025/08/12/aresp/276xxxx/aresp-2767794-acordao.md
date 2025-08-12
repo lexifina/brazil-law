@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PLANO DE SAÚDE COLETIVO. PRESTAÇÃO JURISDICIONAL. NEGATIVA. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. EMPREGADO. EXTINÇÃO DO VÍNCULO EMPREGATÍCIO. DEMISSÃO. RESPONSABILIDADE. CUSTEIO. EX-EMPREGADORA. TEMA 1.034/STJ. INAPLICABILIDADE. COMANDO NORMATIVO. DEFICIÊNCIA. FUNDAMENTAÇÃO. SÚMULA Nº 284/STF.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. A matéria posta nos presentes autos - responsabilidade da ex-empregadora pelo custeio do plano de saúde de ex-empregado, cujo vínculo foi extinto pela demissão - não se enquadra no Tema 1.034/STJ, julgado sob a sistemática dos recursos repetitivos.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivos legais que não contêm comando normativo capaz de conferir sustentação jurídica às teses defendidas nas razões recursais. Incidência da Súmula nº 284 do STF.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por BRADESCO SAÚDE S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. DEMISSÃO DE EX-FUNCIONÁRIA COM O CONSEQUENTE DESLIGAMENTO DO PLANO DE SAÚDE COLETIVO. SENTENÇA DE PROCEDÊNCIA EM AÇÃO COMINATÓRIA AJUIZADA PELA EX-FUNCIONÁRIA CONTRA A RÉ DETERMINANDO A PERMANÊNCIA NO PLANO DE SAÚDE INDIVIDUAL, NOS MESMOS TERMOS DO COLETIVO, PARA DAR SEGUIMENTO AO TRATAMENTO DE NEOPLASIA. RESULTADO QUE OBRIGOU A RÉ A MANTER O VÍNCULO ENTRE AS PARTES. PLEITO DE AFASTAMENTO DA RESPONSABILIDADE DE COBRANÇA DOS BOLETOS E REPASSE DE VALORES À RÉ. SENTENÇA DE PROCEDÊNCIA. RECURSO DA RÉ. RESPONSABILIDADE DE COBRANÇA E REPASSE DOS VALORES É EXCLUSIVA DA AUTORA, VISTO QUE O VÍNCULO COM A EX-FUNCIONÁRIA FOI RESTABELECIDO NA AÇÃO COMINATÓRIA. INACOLHIMENTO. CONTRATO ENTRE A AUTORA E RÉ COM PREVISÃO DE OFERTA DO PLANO INDIVIDUAL PARA FUNCIONÁRIOS DESLIGADOS. RÉ E EX-FUNCIONÁRIA QUE ESTABELECERAM A RELAÇÃO NEGOCIAL INDIVIDUAL, COM CANCELAMENTO POSTERIOR PELA RÉ. INEXISTÊNCIA DE TRIANGULAÇÃO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. RECURSO CONHECIDO E DESPROVIDO" (e-STJ fl. 651/655).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 677/681).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022, II, do Código de Processo Civil, ante a persistência de omissão apontada nos embargos de declaração rejeitados, em negativa de prestação jurisdicional;
+(ii) arts. 926 e 927, III, do Código de Processo Civil, ao argumento de que o acordão recorrido destoa da tese vinculante firmada pelo Superior Tribunal de Justiça no Tema nº 1.034/STJ, no sentido de que o ex-empregado permanece vinculado ao plano coletivo contratado pela ex-empregadora.
+(iii) arts. 30 e 31 da Lei nº 9.656/1998, posto que, após o desligamento da empresa estipulante, o beneficiário mantém o vínculo jurídico com a apólice coletiva administrada pelo ex-empregador, responsável por seus ex-empregados.
+Contrarrazões apresentadas às e-STJ fl. 761/769.
+O recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PLANO DE SAÚDE COLETIVO. PRESTAÇÃO JURISDICIONAL. NEGATIVA. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. EMPREGADO. EXTINÇÃO DO VÍNCULO EMPREGATÍCIO. DEMISSÃO. RESPONSABILIDADE. CUSTEIO. EX-EMPREGADORA. TEMA 1.034/STJ. INAPLICABILIDADE. COMANDO NORMATIVO. DEFICIÊNCIA. FUNDAMENTAÇÃO. SÚMULA Nº 284/STF.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. A matéria posta nos presentes autos - responsabilidade da ex-empregadora pelo custeio do plano de saúde de ex-empregado, cujo vínculo foi extinto pela demissão - não se enquadra no Tema 1.034/STJ, julgado sob a sistemática dos recursos repetitivos.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivos legais que não contêm comando normativo capaz de conferir sustentação jurídica às teses defendidas nas razões recursais. Incidência da Súmula nº 284 do STF.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, a recorrente suscita omissão do acórdão recorrido quanto aos seguintes pontos: (i) aplicabilidade do Tema 1.034/STJ ao caso concreto; e (ii) "o segurado permanece vinculado à apólice coletiva de seu ex-empregador, que permanece responsável por seus ex-empregados, ainda que inativos" (e-STJ fl. 700).
+Todavia, o Tribunal estadual foi cristalino ao apontar que a hipótese dos autos não se amolda ao quanto decidido pelo Superior Tribunal de Justiça sob a sistemática dos recursos repetitivos.
+Confira-se: "na leitura do art. 31 da lei especial mencionada e a sua interpretação constante no Tema 1.034 do STJ, além do Leading Case REsp 1818487/SP, claramente se denota que não há similaridade com o presente caso capaz de aplicar a normativa" (e-STJ fl. 678).
+No que tange à responsabilidade da empregadora, a Corte de origem atestou que "a relação negocial se deu diretamente entre as partes" (e-STJ fl. 678).
+Assim, a matéria foi sobejamente enfrentada pela Corte estadual, conquanto em sentido contrário aos interesses da recorrente, o que não se confunde com negativa de prestação jurisdicional.
+Não se vislumbra, portanto, omissão na fundamentação do acórdão impugnado, que solucionou fundamentadamente a causa, ainda que sob perspectiva diversa da pretendida pela ora recorrente.
+Por outro lado, como bem pontuado no acórdão recorrido, cumpre ressaltar que a matéria posta nos presentes autos não se enquadra no Tema 1.034/STJ, julgado sob a sistemática dos recursos repetitivos.
+Naquela oportunidade, o Superior Tribunal de Justiça se debruçou acerca das condições assistenciais e de custeio do plano de saúde mantidas a beneficiários inativos, nos termos do art. 31 da Lei nº 9.656/1998.
+Na hipótese ora em apreço, ao revés, discute-se a responsabilidade da ex-empregadora pelo custeio do plano de saúde de ex-empregado, cujo vínculo foi extinto pela demissão.
+Ademais, os arts. 30 e 31 da Lei nº 9.656/1998, indicados como malferidos, não têm comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela recorrente, o que configura deficiência de fundamentação do recurso especial, a atrair o óbice da Súmula nº 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. TEMAS NÃO DEBATIDOS. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DA SÚMULA Nº 211 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. As matérias pertinentes à não retroatividade da norma processual e sua aplicação imediata, a respeito da incumbência das partes em prover as despesas dos atos que realizarem e acerca do não cabimento, no caso, de multa pelo pagamento voluntário do débito não foram objeto de debate prévio nas instâncias de origem, a despeito da oposição de embargos de declaração. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 211 do STJ.
+2. Considera-se deficiente, a teor da Súmula nº 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+3. A não observância aos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+4. Agravo conhecido para não conhecer do recurso especial.
+(AREsp 2.796.103/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGISTRO DE IMÓVEIS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INEXISTÊNCIA DE EXECUÇÃO OU AÇÃO REAL OU PESSEOAL REIPERSECUTÓRIA. DISPOSITIVOS LEGAIS. PERTINÊNCIA TEMÁTICA AUSÊNCIA. SÚMULA N. 284/STF. AGRAVO E RECURSO ESPECIAL. JULGAMENTO CONJUNTO. POSSIBILIDADE. ART. 1.042, § 5º, DO CPC. NÃO PROVIMENTO.
+1. A ausência de pertinência temática entre o conteúdo normativo dos dispositivos legais e tese sustentada pelo recorrente atrai as disposições do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. "Mediante a interpretação sistemática dos artigos 932, inciso IV, e 1.042, § 5º, do CPC/2015, depreende-se não existirem óbices para que o relator julgue conjuntamente, de forma monocrática, o agravo e o recurso especial quando esses sejam contrários a jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. 1.1. Não se pode perder de vista, ainda, que essa orientação não ocasiona prejuízo às partes, porquanto resguardada a possibilidade de interposição do agravo interno objetivando forçar o exame da matéria pelo Colegiado competente". (AgInt no AREsp 767.850/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017) 3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 2.426.943/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/8/2024, DJe de 14/8/2024)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor atualizado da causa, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+É o voto.
