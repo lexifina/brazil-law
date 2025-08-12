@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA NA ORIGEM. COBRANÇA DE DESPESAS HOSPITALARES. ESTADO DE PERIGO. VÍCIO DE VONTADE NÃO RECONHECIDO PELO TRIBUNAL.
+1. Controvérsia acerca da legitimidade da genitora em ação monitória, por ter assinado termo de responsabilidade em hospital, ao ver negado o pagamento das despesas médicas de seu filho pelo convênio médico.
+2. Segundo a jurisprudência desta Corte, o esta do de perigo é um vício de consentimento que exige, para a sua caracterização, não só a premência da pessoa em se salvar, ou a um membro de sua família, mas também, a ocorrência de obrigação excessivamente onerosa, como, por exemplo, a imposição de serviços desnecessários.
+3. Afastar a conclusão do acórdão de que não teria havido a demonstração de vício de vontade e obrigação excessivamente onerosa demandaria o reexame das provas dos autos, o que encontra óbice na Súmula 7/STJ.
+4. Razões de agravo interno que não alteram a conclusão da decisão agravada.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ANGELICA AUXILIADORA SACRAMENTO contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial (fls. 737-743).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 340):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - COBRANÇA DE DESPESAS HOSPITALARES - ESTADO DE PERIGO - OBRIGAÇÃO EXECESSIVAMENTE ONEROSA - VÍCIO DE VONTADE - NÃO DEMONSTRAÇÃO. A mera caracterização do estado de perigo não gera presunção absoluta de vício ou defeito do negócio jurídico, devendo restar cabalmente demonstrado o vício de vontade ou que a obrigação contraída tenha sido excessivamente onerosa. V. V. MONITORIA - TERMO DE RESPONSABILIDADE - SERVIÇOS HOSPITALARES - PAGAMENTO - ESTADO DE PERIGO - VÍCIO DE VONTADE - NEGÓCIO INVÁLIDO. Resta caracterizado o estado de perigo diante do comportamento do esposo da paciente que assume obrigação onerosa perante entidade hospitalar em situação de grave enfermidade, gerando a invalidação do negócio jurídico e tornando inexequível o termo de responsabilidade assinado.
+Rejeitados os embargos de declaração opostos (fls. 386-391; 495-500).
+Alega a agravante, nas razões do agravo interno, que a decisão monocrática é omissa na medida em que não apreciou a questão absolutamente central do processo e que resultou em uma valoração totalmente inadequada da prova, error in judicando e error in procedendo.
+Ressalta que a decisão ora agravada não tratou da matéria segundo a qual, tanto o contrato firmado com o hospital quanto o contrato do plano de saúde foram celebrados em nome do filho da agravante, João Vitor Sacramento Ferreira, menor impúbere que, na época dos fatos, contava com apenas 3 meses de vida. Aduz que a ação deveria ter sido ajuizada contra o menor, representado por seus pais.
+Argumenta, ainda, que merece reforma o acórdão recorrido, de modo a reconhecer a ilegitimidade passiva da agravante para figurar sozinha no polo passivo da lide e, consequentemente, para julgar extinto o feito sem resolução do mérito, dando cumprimento ao disposto nos arts, 330 e 485 do Código de Processo Civil.
+Sustenta, outrossim, que (fl. 819):
+A agravante, como mãe, contratou o plano de saúde para seu filho. Diante da necessidade, o levou até um hospital conveniado ao plano de saúde. O seu bebê e três meses foi internado na UTI neonatal, o plano recusou a cobertura e ela assinou, na qualidade de representante legal, o termo de responsabilidade confeccionado em nome do seu filho. Assim, é evidente que tal documento foi assinado sobre estado de perigo e, por tal fato, não pode ser exigido.
+Requer o reconhecimento da violação dos arts. 151 e 156 do Código Civil e a reforma da decisão proferida de modo que seja reconhecido que a agravante assinou o termo de responsabilidade sob coação e devido ao estado de perigo do seu filho que corria risco de vida, devendo ser anulado o negócio jurídico e, consequentemente, deve a ação monitória ser julgada improcedente.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 838-846 e 848-863).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA NA ORIGEM. COBRANÇA DE DESPESAS HOSPITALARES. ESTADO DE PERIGO. VÍCIO DE VONTADE NÃO RECONHECIDO PELO TRIBUNAL.
+1. Controvérsia acerca da legitimidade da genitora em ação monitória, por ter assinado termo de responsabilidade em hospital, ao ver negado o pagamento das despesas médicas de seu filho pelo convênio médico.
+2. Segundo a jurisprudência desta Corte, o esta do de perigo é um vício de consentimento que exige, para a sua caracterização, não só a premência da pessoa em se salvar, ou a um membro de sua família, mas também, a ocorrência de obrigação excessivamente onerosa, como, por exemplo, a imposição de serviços desnecessários.
+3. Afastar a conclusão do acórdão de que não teria havido a demonstração de vício de vontade e obrigação excessivamente onerosa demandaria o reexame das provas dos autos, o que encontra óbice na Súmula 7/STJ.
+4. Razões de agravo interno que não alteram a conclusão da decisão agravada.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Segundo já firmado na jurisprudência desta Corte, o estado de perigo é um vício de consentimento que exige, para a sua caracterização, não só a premência da pessoa em se salvar, ou a um membro de sua família mas também, a ocorrência de obrigação excessivamente onerosa, como, por exemplo, a imposição de serviços desnecessários.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. PRESTAÇÃO DE SERVIÇOS MÉDICOS. CONTRATO FIRMADO PELA AGRAVANTE PARA ATENDIMENTO DE SEU IRMÃO. ESTADO DE PERIGO. ANULAÇÃO DO NEGÓCIO JURÍDICO. NÃO OCORRÊNCIA. LIVRE CONSENTIMENTO NA CONTRATAÇÃO. OBSERVÂNCIA DO DIREITO À INFORMAÇÃO. EFETIVA PRESTAÇÃO DOS SERVIÇOS MÉDICOS. INEXISTÊNCIA DE OBRIGAÇÃO EXCESSIVAMENTE ONEROSA. AGRAVO INTERNO DESPROVIDO.
+1. O estado de perigo é vício de consentimento que exige, para a sua caracterização, a premência da pessoa em se salvar, ou a membro de sua família e, também, a ocorrência de obrigação excessivamente onerosa, aí incluída a imposição de serviços desnecessários, conscientemente fixada pela contraparte da relação negocial.
+2. "O tão-só sacrifício patrimonial extremo de alguém, na busca de assegurar a sua sobrevida ou de algum familiar próximo, não caracteriza o estado de perigo, pois embora se reconheça que a conjuntura tenha premido a pessoa a se desfazer de seu patrimônio, a depauperação ocorrida foi conscientemente realizada, na busca pelo resguardo da própria integridade física, ou de familiar" (REsp 1.578.474/SP, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 11/12/2018, DJe de 13/12/2018, g.n.)
+3. No caso dos autos, afasta-se a tese de vício de consentimento (estado de perigo), visto não demonstrado excesso no valor cobrado, em se tratando de internação em Centro de Tratamento Intensivo - CTI, além do correto serviço prestado e da adequada informação apresentada à insurgente, remanescendo hígido o encargo contratual a que se comprometeu (pagamento dos serviços médico-hospitalares prestados ao paciente), não havendo falar em ilegalidade ou índole abusiva na cobrança, sob pena de ofensa ao princípio da boa-fé na relação contratual.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.245.964/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Assim, verifica-se que o acórdão posicionou-se no mesmo sentido da jurisprudência desta Corte, na medida em que entendeu que "a caracterização do estado de perigo não gera presunção absoluta de vício ou defeito negócio jurídico, devendo atentar-se às circunstâncias de cada caso" (fl. 344).
+Ademais, mediante o exame das provas dos autos, concluiu o Tribunal a quo que não se configura obrigação excessivamente onerosa cobrada pelo Hospital.
+A propósito, confiram-se os termos do acórdão (fls. 344-345):
+No caso em exame, verifica-se que o filho da ré se encontrava em estado grave, inclusive sendo conduzido à UTI (unidade de Terapia Intensiva) do hospital requerente. Mesmo sendo informada pela direção do nosocômio que o plano de saúde não cobriria a internação, a ré optou por realizar o tratamento do filho, no particular.
+No caso em tela, é incontroversa a prestação dos serviços médicos de urgência/emergência, conforme se verifica pelos documentos juntados às f. 13124. Observo, ainda, que a caracterização do estado de perigo não gera presunção absoluta de vício ou defeito negócio jurídico, devendo atentar-se às circunstâncias de cada caso.
+O fato de a mãe do menor ter assinado o termo de responsabilidade, quando o paciente estava em situação de emergência/urgência, não significa que o tenha feito sem consciência da obrigação assumida, até mesmo porque ela foi informada pela funcionária do hospital que o plano de saúde do menor não cobriria os custos da internação.
+Não vislumbro, ainda, no caso, obrigação excessivamente onerosa cobrada pelo Hospital. Os valores por este cobrados não foram objeto de impugnação pelo réu, em sua peça de defesa. Sendo assim, não restando demonstrado o vício de vontade, não há que se falar em inexistência de negócio jurídico, devendo o réu arcar com as despesas oriundas dos serviços prestados pelo hospital.
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ademais, afastar a conclusão do acórdão de que não teria havido a demonstração de vício de vontade e obrigação excessivamente onerosa, demandaria o reexame das provas dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. VIOLAÇÃO DO ART. 1022 DO CPC NÃO VERIFICADA. PRETENSÃO. REJULGAMENTO. IMPOSSIBILIDADE. DECISÃO FUNDAMENTADA. ART. 489, § 1º, DO CPC. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLAUSULAS. INVIABILIDADE. SÚMULAS Nº 5 E 7/STJ.
+1 Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+3. A contradição que autoriza a oposição de declaratórios é aquela interna, existente entre a fundamentação e o dispositivo do julgado, o que não se observa no presente caso.
+4. Na hipótese, não há como afastar a incidência das Súmulas n ºs 5 e 7/STJ, pois no que diz respeito à novação e ao vício de vontade, as conclusões do tribunal de origem decorreram inquestionavelmente da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos, procedimentos inviáveis na instância especial.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.456.914/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ALTERAÇÃO DE CONTRATO SOCIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. PRESCRIÇÃO. INDICAÇÃO DE OFENSA A DISPOSITIVO LEGAL NÃO APLICÁVEL À HIPÓTESE. DECADÊNCIA. ALEGAÇÃO DE ERRO DO NEGÓCIO JURÍDICO. REEXAME DE MATÉRIA FÁTICA. DISPENSA DE ASSEMBLEIA PARA DELIBERAÇÃO ACERCA DA ALTERAÇÃO DO CONTRATO SOCIAL. INDICAÇÃO DE OFENSA A DISPOSITIVO LEGAL IMPERTINENTE. NECESSIDADE DE EXAMINAR AS REGRAS ESTATUTÁRIAS. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. O art. 286 da Lei n.º 6.404/76 é claro ao estabelecer que o prazo nele assinalado diz respeito ao exercício da pretensão de anular deliberações tomadas em assembleia geral.
+3. Assim, considerando que as regras restritivas não podem ser interpretadas ampliativamente, não é adequado afirmar que a ação proposta para anular modificação estatutária realizada sem prévia deliberação assemblear.
+4. Não é possível revisar a conclusão das instâncias de origem acerca da ocorrência ou inocorrência de erro como vício de vontade dos negócios jurídicos sem esbarrar na Súmula n.º 7 do STJ.
+5. Os arts. 1.072, § 1º, e 1.076, II, do CC/02 estabelecem que as deliberações da sociedade serão obrigatoriamente tomadas em assembleia quando ela tiver mais de dez sócios. Havendo um número inferior de sócios, deve prevalecer o que disposto no contrato social.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.783.773/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
