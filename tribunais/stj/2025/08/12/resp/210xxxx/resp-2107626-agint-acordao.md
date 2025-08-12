@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.030, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE RETRATAÇÃO. FALTA DE CONGRUÊNCIA ENTRE O TEMA DE REPERCUSSÃO GERAL N. 1.199 E O CONTEÚDO DA DECISÃO IMPUGNADA. RECONHECIMENTO DA DESERÇÃO QUE OBSTOU EXAME DO MÉRITO. JULGADO MANTIDO.
+I - Consoante o art. 1.030, II, do Código de Processo Civil de 2015, recebida a petição de recurso extraordinário, após intimação para contrarrazões e conclusão dos autos ao Presidente ou Vice-Presidente do tribunal recorrido, os autos serão encaminhados ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal exarado sob o regime de repercussão geral.
+II - A orientação firmada pelo Supremo Tribunal Federal no Tema de Repercussão Geral n. 1.199, atinente à (im)possibilidade de aplicação retrospectiva da Lei n. 14.230/2021 às ações de improbidade administrativa em trâmite, não foi objeto de deliberação desta Corte, pois não ultrapassado o juízo de admissibilidade em virtude do reconhecimento da deserção.
+III - A falta de congruência entre a tese vinculante e conteúdo do acórdão recorrido obsta o exercício de juízo de conformidade, sob pena de vulneração dos limites cognitivos constantes do art. 1.030 do Código de Processo Civil de 2015. Precedente da Primeira Seção.
+IV - Agravo Interno improvido. Acórdão mantido.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de juízo de retratação determinado pela Vice-Presidência desta Corte (fls. 870/877e), nos moldes do art. 1.030, II, do Código de Processo Civil de 2015, nos autos de Recurso Extraordinário interposto por FÁTIMA REGINA CAVALINI DE MELO, com fundamento no art. 102, III, a, da Constituição da República, contra acórdão assim ementado (fl. 721e):
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESERÇÃO. INTIMAÇÃO PARA REGULARIZAÇÃO. DECURSO DE PRAZO. SÚMULA N. 187/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O recurso especial não foi instruído com as guias de custas e os respectivos comprovantes de pagamento. Deserção. Incidência da Súmula n. 187 do Superior Tribunal de Justiça: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+Em síntese, questiona-se possível divergência ente o acórdão recorrido e o entendimento do Supremo Tribunal Federal no julgamento do ARE n. 843.989/PR, no qual fixadas teses vinculantes para o Tema de Repercussão Geral n. 1.199.
+Sustenta que o texto do art. 11, caput , da Lei n. 8.429/1992 fora modificado e não mais comporta rol exemplificativo e, assim, não tendo sido associado à conduta da ora Recorrente o elemento subjetivo doloso, não há falar-se em cometimento de ato de improbidade administrativa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.030, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE RETRATAÇÃO. FALTA DE CONGRUÊNCIA ENTRE O TEMA DE REPERCUSSÃO GERAL N. 1.199 E O CONTEÚDO DA DECISÃO IMPUGNADA. RECONHECIMENTO DA DESERÇÃO QUE OBSTOU EXAME DO MÉRITO. JULGADO MANTIDO.
+I - Consoante o art. 1.030, II, do Código de Processo Civil de 2015, recebida a petição de recurso extraordinário, após intimação para contrarrazões e conclusão dos autos ao Presidente ou Vice-Presidente do tribunal recorrido, os autos serão encaminhados ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal exarado sob o regime de repercussão geral.
+II - A orientação firmada pelo Supremo Tribunal Federal no Tema de Repercussão Geral n. 1.199, atinente à (im)possibilidade de aplicação retrospectiva da Lei n. 14.230/2021 às ações de improbidade administrativa em trâmite, não foi objeto de deliberação desta Corte, pois não ultrapassado o juízo de admissibilidade em virtude do reconhecimento da deserção.
+III - A falta de congruência entre a tese vinculante e conteúdo do acórdão recorrido obsta o exercício de juízo de conformidade, sob pena de vulneração dos limites cognitivos constantes do art. 1.030 do Código de Processo Civil de 2015. Precedente da Primeira Seção.
+IV - Agravo Interno improvido. Acórdão mantido.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Consoante decisão prolatada pelo Sr. Ministro Vice-Presidente desta Corte, os presentes autos retornaram a esta Primeira Turma para eventual juízo de retratação em virtude do julgamento do Tema n. 1.199 pelo Supremo Tribunal Federal, nos termos estampados no art. 1.030, II, do Código de Processo Civil de 2015.
+A esse respeito, anoto que a Primeira Seção desta Corte adota compreensão segundo a qual o juízo de conformidade pressupõe congruência entre as teses fixadas no regime de repercussão geral e o conteúdo decisório do acórdão recorrido, não se prestando à revisão integral do pronunciamento impugnado, como espelha acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO REPETITIVO. RETRATAÇÃO. ART. 1.040, II, CPC/2015. RE N. 1.063.187/SC (TEMA N. 962/RG). APLICABILIDADE. RELAÇÃO DE PREJUDICIALIDADE. ART. 1.022 DO CPC/2015. VÍCIOS NÃO DEMONSTRADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material
+2. O juízo de retratação se limita ao objeto do recurso coincidente com o da repercussão geral julgada pelo STF em recurso extraordinário interposto em outro processo. Por congruência, a retratação somente poderá se referir exclusivamente a esse ponto, somente atingindo as demais questões do processo se houver relação de prejudicialidade.
+3. A tese firmada por ocasião do julgamento do Tema 962/STF diz respeito tão somente à "incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário", restando expressamente afastada a extensão da decisão ao levantamento de depósitos judiciais.
+4. Não havendo vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, impõe-se a rejeição dos aclaratórios.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.138.695/SC, Relator p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, j. 6.2.2025, DJEN 25.2.2025 - destaque meu).
+No caso, esta Primeira Turma, por unanimidade, concluiu que a Recorrente não comprovou o devido recolhimento do preparo, notadamente as despesas relativas às custas, revelando-se deserto o recurso interposto, sem incursão no mérito.
+Por sua vez, as teses fixadas pelo Supremo Tribunal Federal no Tema n. 1.199/STF denotam juízo de mérito a respeito da (im)possibilidade de aplicação retrospectiva da Lei n. 14.230/2021 às ações de improbidade administrativa em trâmite, matéria estranha aos limites decisórios do acórdão recorrido.
+Nesse contexto, ausente congruência entre a decisão proferida por esta Primeira Turma e o teor das teses fixadas pelo Supremo Tribunal Federal, inadequado o juízo de conformidade, sob pena de ultrapassar os limites cognitivos constantes do art. 1.030 do Código de Processo Civil de 2015.
+Posto isso, MANTENHO o acórdão mediante o qual foi negado provimento ao Agravo Interno.
+É o voto.
