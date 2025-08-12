@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE CONTAGEM com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a Municipalidade ajuizou execução fiscal, visando o recebimento de crédito tributário oriundo de ISSQN, no valor de R$ 34.449,94 (trinta e quatro mil quatrocentos e quarenta e nove reais e noventa e quatro centavos). A executada apresentou exceção de pré-executividade alegando prescrição do crédito tributário, o juízo da execução rejeitou a exceção.
+O agravo de instrumento interposto pela executada foi provido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, para fins de reconhecer a prescrição. O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - PRESCRIÇÃO - ISS - CINCO ANOS - TERMO INICIAL - CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO - LANÇAMENTO POR HOMOLOGAÇÃO.
+1. Em se tratando de imposto sujeito a lançamento por homologação - onde se insere o ISS - o Código Tributário Nacional em seu artigo 174, prevê o prazo de 5 (cinco) anos para que a Fazenda Pública homologue e constitua o seu crédito.
+2. A propósito tese firmada quando do julgamento REsp 1.120.295/SP (Tema 383, STJ): "O prazo prescricional quinquenal para o Fisco exercer a pretensão de cobrança judicial do crédito tributário conta-se da data estipulada como vencimento para o pagamento da obrigação tributária declarada (mediante DCTF, GIA, entre outros), nos casos de tributos sujeitos a lançamento por homologação, em que, não obstante cumprido o dever instrumental de declaração da exação devida, não restou adimplida a obrigação principal (pagamento antecipado), nem sobreveio quaisquer das causas suspensivas da exigibilidade do crédito ou interruptivas do prazo prescricional".
+3 - In casu, dessumo que considerando a data da notificação do contribuinte acerca do processo administrativo ou mesmo a propositura da execução fiscal, o débito no meu sentir já se encontrava fulminado pela prescrição.
+4- Por bem, o provimento do recurso.
+Os embargos de declaração opostos foram rejeitados.
+O MUNICÍPIO DE CONTAGEM alega violação dos arts. 173, I, do CTN, sustentando, em síntese, que o ISSQN é tributo sujeito a lançamento por homologação, e que, na ausência de declaração ou recolhimento do tributo, o prazo decadencial começa a correr a partir do primeiro dia útil do exercício seguinte. Acrescenta que não houve declaração do contribuinte do valor devido de ISS e que a data constante da CDA no campo de vencimento do tributo se refere à data de baixa do habite-se, não havendo que falar em prescrição, e sim prazo decadencial sendo o termo inicial o exercício financeiro seguinte.
+Contrarrazões apresentadas às fls. 160/169.
+É o relatório. Decido.
+Sobre a controvérsia, verifica-se que o Tribunal de origem entendeu pela prescrição do crédito tributário relativo ao ISSQN, considerando a data inicial a data de vencimento do tributo constante da CDA (11/09/2017) até a data da instauração do processo administrativo em 12/2022, conforme excertos do acórdão recorrido, in verbis:
+(..)
+Em se tratando de imposto sujeito a lançamento por homologação - onde se insere o ISS - o Código Tributário Nacional em seu artigo 174, prevê o prazo de 5 (cinco) anos para que a Fazenda Pública homologue e constitua o seu crédito.
+(..)
+A CDA, doc. 04-TJ que embasa a execução, deixa claro que o vencimento do tributo se deu em 11.09.2017, inobstante a inscrição ter ocorrido em 09.03.2023.
+Outro documento importante, doc. 18-TJ dá conta que em 08.12.2022, a administração pública instaurou o processo de fiscalização nº 16023/2017-03-A para apurar dentro do período de 01.01.2017 a 31.12.2021, o cumprimento de obrigações principais e acessórias, inclusive escrituração contábil.
+O agravante foi notificado em 22.12.2022, doc. 18-TJ (fls.03), sobre o TIAF 21503, e, anteriormente, (fls 05) para apresentação do Habite-se. Sendo assim, foi novamente cientificado, (fls.07) acerca da apuração das irregularidades que constatou, dentre outras, débito de ISSQN, mês de referência 08/2017:
+A certidão de habite-se e baixa de nº 258/2017 foi gerada em 28.08.2017 e a aprovação da construção em 13.10.2015, sendo o processo que culminou no débito combatido finalizou-se em 09.03.2023, determinando assim a inscrição em dívida ativa.
+Considerando ser o ISS tributo cujo lançamento se dá por homologação, tem-se que o prazo prescricional para a cobrança do referido tributo se inicia com a notificação do contribuinte acerca do lançamento tributário, o que no meu sentir, ocorreu com a instauração do processo administrativo, em 12/2022, ou seja, após quatro meses e cinco anos da baixa do Habite-se, momento que aparentemente o crédito já se encontrava prescrito.
+Ademais, vale deixar registrado, caso estivesse ausente prova da data de entrega da declaração pelo contribuinte, ou do dia do vencimento da obrigação, consideraria como termo inicial da prescrição a data em que o débito foi inscrito em dívida ativa.
+Neste contexto, tem-se que a CDA informa a data de vencimento do tributo, qual seja, 11.09.2017, inobstante a inscrição em dívida ativa ter se dado em 09.03.2023.
+(..)
+Desse modo, verifica-se que a irresignação da Fazenda Pública acerca da data da constituição definitiva do crédito tributário, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que a CDA indicava expressamente a data de vencimento do tributo em 11/09/2017 e que a inscrição da dívida se deu apenas em 09/03/2023, que também constou na CDA, restando o crédito prescrito.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria nec essário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
