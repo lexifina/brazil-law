@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AGRAVO  DE  INSTRUMENTO.  CUMPRIMENTO  DE  SENTENÇA.  DIREITOS  AQUISITIVOS.  PROGAMA  DE  HABITAÇÃO  POPULAR.  PENHORABILIDADE.
+1.  A  Terceira  Turma  do  Superior  Tribunal  de  Justiça  firmou  orientação  no  sentido  de  que  são  penhoráveis  os  direitos  aquisitivos  derivados  de  contrato  de  alienação  fiduciária  de  imóvel  integrante  do  Programa  Minha  Casa  Minha  Vida  (PMCMV)  para  pagamento  de  débito  condominial.
+2.  Agravo  conhecido  para  negar  provimento  ao  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  JACI  RODRIGUES  COELHO  contra  a  decisão  que  negou  seguimento  ao  recurso  especial.
+O  apelo  extremo,  fundamentado  no  art.  105,  III,  alínea  "a",  da  Constituição  Federal,  impugna  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Distrito  Federal  e  Territórios  assim  ementado:
+"AGRAVO  DE  INSTRUMENTO.  PRELIMINAR  DE  NÃO  CONHECIMENTO.  OFENSA  AO  PRINCÍPIO  DA  DIALETICIDADE.  INSUBSISTÊNCIA.  RECURSO  CONHECIDO.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  PENHORA  DOS  DIREITOS  AQUISITIVOS  SOBRE  O  IMÓVEL.  DÉBITOS  CONDOMINIAIS.  PROGRAMA  HABITACIONAL.  MORAR  BEM.  POSSIBILIDADE.
+1.  Não  há  que  se  falar  em  violação  ao  princípio  da  dialeticidade  se  das  razões  recursais  extrai-se  claramente  a  motivação  do  inconformismo  do  agravante  a  respeito  do  resultado  da  decisão.  Nenhuma  irregularidade  formal;  pertinência  ou  não  das  razões  apresentadas  constitui  matéria  atinente  ao  mérito.
+2.  O  imóvel  em  questão  foi  adquirido  pelo  executado  no  programa  social  de  moradia  promovido  por  Companhia  de  Desenvolvimento  habitacional  do  Distrito  Federal  -  CODHAB-DF,  mediante  contrato  de  doação  de  fração  ideal  do  terreno  e  transferência  onerosa  das  benfeitorias  e  acessões.  Em  razão  das  benfeitorias  e  acessões  a  serem  pagas  pela  parte  beneficiária  do  programa/adquirente,  que  seria  efetivada  em  120  meses  (a  primeira  com  vencimento  em  18/7/2024),  o  referido  imóvel  foi  alienado  fiduciariamente  ao  Fundo  de  Arrendamento  Residencial  -  FAR  (credor  fiduciário),  operacionalizado  pela  Caixa  Econômica  Federal  -  CEF.
+3.  Os  direitos  de  titularidade  do  devedor  fiduciante  sobre  o  bem  oriundo  de  contrato  de  alienação  ostentam  valor  econômico  e,  nos  termos  do  art.  835,  inciso  XII  do  CPC/15,  inexiste  óbice  para  a  constrição  judicial  dos  direitos  aquisitivos  de  bens  imóveis,  objeto  de  contrato  de  alienação  fiduciária  em  garantia.  3.1  O  fato  de  o  imóvel  ter  sido  adquirido  em  programa  habitacional  não  impede  a  penhora  dos  direitos  aquisitivos  para  pagamento  de  dívida  condominiais,  conforme  definido  pelo  Superior  Tribunal  de  Justiça  -  REsp  2.086.846/DF.
+4.  Agravo  de  instrumento  conhecido  e  provido"  (e-STJ  fl.  170)
+O  recorrente  aponta  violação  dos  arts.  6º-A,  §§  5º  e  6º,  da  Lei  nº  11.977/2009;  789,  835,  XII,  1.007,  §  1º,  do  Código  de  Processo  Civil  e  2º,  parágrafo  único,  da  Lei  nº  9.784/1999.
+Argumenta  que  o  acórdão  recorrido,  ao  permitir  a  penhora  dos  direitos  aquisitivos  do  imóvel,  violou  o  art.  6º-A,  §  5º,  III  e  §  6º  da  Lei  nº  11.977/2009,  que  vedam  a  transferência  inter  vivos  de  imóveis  adquiridos  pelo  Programa  Minha  Casa  Minha  Vida  (PMCMV)  antes  da  quitação  e  declaram  nulas  as  cessões  de  direitos  que  não  estejam  em  conformidade  com  essa  vedação.
+Contrarrazões  às  e-STJ  fls.  243/250.
+O  recurso  especial  foi  obstado  na  origem,  o  que  deu  ensejo  à  interposição  deste  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AGRAVO  DE  INSTRUMENTO.  CUMPRIMENTO  DE  SENTENÇA.  DIREITOS  AQUISITIVOS.  PROGAMA  DE  HABITAÇÃO  POPULAR.  PENHORABILIDADE.
+1.  A  Terceira  Turma  do  Superior  Tribunal  de  Justiça  firmou  orientação  no  sentido  de  que  são  penhoráveis  os  direitos  aquisitivos  derivados  de  contrato  de  alienação  fiduciária  de  imóvel  integrante  do  Programa  Minha  Casa  Minha  Vida  (PMCMV)  para  pagamento  de  débito  condominial.
+2.  Agravo  conhecido  para  negar  provimento  ao  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial
+O  recurso  não  merece  prosperar.
+O  Tribunal  de  origem  autorizou  a  penhora  de  direitos  aquisitivos  titularizados  pelo  executado,  na  condição  de  promitente comprador  de  imóvel  financiado  pelo  Fundo  de  Arrendamento  Residencial  -  FAR,  dado que  considerou  que  esses  direitos  aquisitivos  possuem  valor  patrimonial  e  não  são  declarados  pela  lei  como  impenhoráveis.
+Segue  trecho  relevante  do  aresto:
+"(..)
+O  imóvel  em  questão,  de  acordo  com  a  Certidão  de  Ônus  da  Matrícula  (ID  176204899),  foi  adquirido  pelo  executado  (JACI  RODRIGUES  COELHO)  no  programa  social  de  moradia  promovido  pela  Companhia  de  Desenvolvimento  habitacional  do  Distrito  Federal  -  CODHAB-DF,  mediante  contrato  de  doação  de  fração  ideal  do  terreno  e  transferência  onerosa  das  benfeitorias  e  acessões.
+Em  razão  das  benfeitorias  e  acessões  a  serem  pagas  pela  beneficiária  do  programa/adquirente,  que  seria  efetivada  em  120  meses  (a  primeira  com  vencimento  em  18/7/2014),  o  referido  imóvel  foi  alienado  fiduciariamente  ao  Fundo  de  Arrendamento  Residencial  -FAR  (credor  fiduciário),  operacionalizado  pela  Caixa  Econômica  Federal  -  CEF,  no  valor  de  R$  65.000,00  (sessenta  e  cinco  mil  reais).
+Assim,  extrai-se  das  informações  constantes  da  matrícula  que,  diverso  do  que  constou  na  decisão  agravada,  o  imóvel  em  questão  integra  o  patrimônio  de  ente  público.  A  não  propriedade  resolúvel  pertence  ao  Fundo  de  Arrendamento  Residencial  -  FAR,  mantido  pela  CEF,  e  o  devedor  fiduciante  é  titular  da  posse  direta  e  do  direito  real  de  aquisição  do  bem  desde  que  adimplidas  as  obrigações  que  ensejaram  a  estipulação  da  garantia.
+Os  direitos  de  titularidade  do  devedor  fiduciante  sobre  o  bem  oriundo  de  contrato  de  alienação  ostentam  valor  econômico  e,  nos  termos  do  art.  835,  inciso  XII  do  CPC,  inexiste  óbice  para  a  constrição  judicial  ,  objeto  de  dos  direitos  aquisitivos  de  bens  imóveis  contrato  de  alienação  fiduciária  em  garantia.
+Registre-se  ainda  que  o  fato  de  o  imóvel  ter  sido  adquirido  em  programa  habitacional  impede  a  penhora  dos  direitos  aquisitivos  para  pagamento  de  não  dívida  condominial  (..)"  (e-STJ  fl.  174).
+O  acórdão  deve  ser  mantido,  visto que  está  em  conformidade  com  o  entendimento  do  Superior  Tribunal  de  Justiça,  segundo  o  qual  "(..) são  penhoráveis  os  direitos  aquisitivos  derivados  de  contrato  de  alienação  fiduciária  de  imóvel  integrante  do  Programa  Minha  Casa  Minha  Vida  (PMCMV)  para  pagamento  de  débito  condominial"  (REsp  2.140.099/DF,  Relator  Ministro  Ricardo  Villas  Bôas  Cueva,  Terceira  Turma,  julgado  em  17/3/2025,  DJEN  de  20/3/2025).
+Nesse  sentido:
+"RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  DÉBITO  CONDOMINIAL.  PENHORA.  DIREITOS  AQUISITIVOS.  ALIENAÇÃO  FIDUCIÁRIA  EM  GARANTIA.  IMÓVEL  VINCULADO  AO  PROGRAMA  MINHA  CASA  MINHA  VIDA.  POSSIBILIDADE.  EXCEÇÃO  À  IMPENHORABILIDADE.
+1.  A  Terceira  Turma  do  Superior  Tribunal  de  Justiça  firmou  orientação  no  sentido  de  que  são  penhoráveis  os  direitos  aquisitivos  derivados  de  contrato  de  alienação  fiduciária  de  imóvel  integrante  do  Programa  Minha  Casa  Minha  Vida  (PMCMV)  para  pagamento  de  débito  condominial.
+2.  Recurso  especial  provido"  (REsp  2.159.352/DF,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  17/3/2025,  DJEN  de  20/3/2025).
+Ante  o  exposto,  conheço  do  agravo  para  negar  provimento  ao  recurso  especial.
+Não  cabe  a  majoração  dos  honorários  sucumbenciais  prevista  no  art.  85,  §  11,  do  Código  de  Processo  Civil,  pois  o  recurso  tem  origem  em  decisão  interlocutória,  sem  a  prévia  fixação  de  honorários.
+É  o  voto.
