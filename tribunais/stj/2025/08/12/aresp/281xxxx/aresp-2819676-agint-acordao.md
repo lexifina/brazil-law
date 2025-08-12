@@ -1,0 +1,109 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VÍCIOS CONSTRUTIVOS. PROGRAMA MINHA CASA, MINHA VIDA (PMCMV). MBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. INÉPCIA DA PETIÇÃO INICIAL. INOCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de indenização por danos morais e materiais, em decorrência de vícios construtivos em imóvel adquirido por meio do PMCMV.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O recurso especial é inadmissível, quando o acórdão recorrido decide também com base em fundamento constitucional e a parte vencida não interpõe recurso extraordinário. Súmula 126/STJ.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Nos termos da jurisprudência desta Corte, "não é inepta a inicial que descreve os fatos e os fundamentos do pedido, possibilitando ao réu exercitar o direito de defesa e do contraditório." Precedentes. Súmula 568/STJ.
+7. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por ERBE INCORPORADORA 037 S.A. contra decisão que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e nessa extensão não provê-lo.
+Ação: de indenização por danos morais e materiais, ajuizada por SUELLEN SANTANA DOS SANTOS RUFINO em face da agravante, em decorrência de vícios construtivos em imóvel adquirido por meio do Programa Minha Casa Minha Vida (PMCMV).
+Sentença: julgou extinto o processo sem resolução de mérito, "por ausência de pressuposto processual de desenvolvimento válido e regular do processo, diante da inépcia da petição inicial e por ausência de interesse processual (necessidade e adequação)" (e-STJ, fl. 151).
+Acórdão: deu provimento à apelação, para anular a sentença e determinar o regular prosseguimento do feito, nos termos da seguinte ementa (e-STJ fl. 310):
+PROCESSUAL CIVIL. SFH. PROGRAMA MINHA CASA, MINHA VIDA. VÍCIOS CONSTRUTIVOS. DANOS MATERIAIS E MORAIS. INTERESSE DE AGIR. PRÉVIO REQUERIMENTO ADMINISTRATIVO. PRESCINDIBILIDADE. DETALHAMENTO DO PEDIDO. INÉPCIA DA INICIAL. INOCORRÊNCIA. PERÍCIA TÉCNICA. JUNTADA DE CONTRATO DE FINANCIAMENTO PELA INSTITUIÇÃO FINANCEIRA. POSSIBILIDADE. ANULAÇÃO DA SENTENÇA. RECURSO PROVIDO. 1. Obstar a tutela jurisdicional somente porque a parte autora não buscou, na esfera administrativa, obter tal ressarcimento, poderia vir a causar vilipêndio não só aos princípios da proporcionalidade e da razoabilidade, como também infirmar o acesso à Justiça, assegurado no art. 5º, inc. XXXV, da Constituição Federal pois, em última análise, acabaria por inibir o particular de judicializar demandas de tal ordem. 2. Conforme decidiu o Supremo Tribunal Federal "o acionamento do Poder Judiciário não exige demonstração de prévia tentativa frustrada de entendimento entre as partes: basta a demonstração da necessidade da tutela jurisdicional, o que pode ser feito, por exemplo, a partir " (RE 631.240, Rel. Ministroda narrativa de que um direito foi violado ou está sob ameaça Roberto Barroso, j. em 03.09.2014). 3. A inicial permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais. 4. A jurisprudência do Superior Tribunal de Justiça admite a formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata. 5. O princípio constitucional do devido processo legal impõe que se conceda aos litigantes o direito à produção de provas, devendo facultar-se amplos meios para que se possa comprovar os fatos que amparam o direito disputado em juízo. 6. Mesmo que na espécie os vícios sejam estruturais e comuns às diversas unidades do conjunto imobiliário, há vícios construtivos, apontados pela autora, específicos de sua unidade habitacional, que tornam individualizado o seu pedido e podem ser objeto de apuração no curso da instrução. Isso reforça a necessidade de provimento jurisdicional, com a realização de perícia técnica. 7. Reconhecer a carência da ação por " ", causaria sim efetivoinadequação da demanda individual dano, mas à parte autora, em flagrante violação ao contraditório, à ampla defesa e ao devido processo legal. 8. Apelação provida. Sentença anulada.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão unipessoal: conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e nessa extensão não provê-lo.
+Agravo interno: a parte agravante alega que impugnou todos os fundamentos da decisão que inadmitiu o recurso especial. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VÍCIOS CONSTRUTIVOS. PROGRAMA MINHA CASA, MINHA VIDA (PMCMV). MBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. INÉPCIA DA PETIÇÃO INICIAL. INOCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de indenização por danos morais e materiais, em decorrência de vícios construtivos em imóvel adquirido por meio do PMCMV.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O recurso especial é inadmissível, quando o acórdão recorrido decide também com base em fundamento constitucional e a parte vencida não interpõe recurso extraordinário. Súmula 126/STJ.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Nos termos da jurisprudência desta Corte, "não é inepta a inicial que descreve os fatos e os fundamentos do pedido, possibilitando ao réu exercitar o direito de defesa e do contraditório." Precedentes. Súmula 568/STJ.
+7. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e nessa extensão não provê-lo, nos termos da seguinte fundamentação (e-STJ, fls. 565-570):
+- Da suspensão processual
+Nas razões do agravo em recurso especial, bem como por intermédio da Petição de n. 01087468/2024 (e-STJ Fls. 453-556), a agravante postula a suspensão da presente demanda até o julgamento final do Tema Repetitivo n. 1.198, questão submetida a julgamento na afetação do RESP 2.021.655/MS, perante a Corte Especial deste Superior Tribunal de Justiça. Todavia, o pedido da parte não merece provimento.
+A preliminar arguida já foi objeto de análise na decisão de admissibilidade pelo Tribunal de origem, que se manifestou (fl. 413):
+Inicialmente, não há que se falar em do feito pelo Tema 1.198/STJ, pois não há discussão nos autos a respeito da possibilidade de o juiz exigir da parte autora a emenda da inicial. Ao contrário, no caso em tela, já houve determinação de emenda, providência atendida pela parte autora. Anote-se que a discussão colocada nesse recurso é a possibilidade de extinção do feito em face de inépcia e/ou ausência de interesse, o que foi afastado pela decisão ora recorrida.
+Observado que a instância de originária não reputou como a ação como "litigância predatória", a controvérsia a ser discutida no Tema Repetitivo n. 1.198/STJ não se aplica à hipótese, devendo ser rejeitada a preliminar de suspensão do processo.
+- Da negativa de prestação jurisdicional
+Conforme a jurisprudência desta Corte, "não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (REsp 1.995.565/SP, Terceira Turma, DJe 24/11/2022).
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da alegação de necessidade de pedido específico e consequente inépcia da inicial, bem como do interesse processual, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, ausente omissão, contradição, obscuridade ou erro material e devidamente analisadas as questões de mérito, estando suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não se verifica violação aos arts. 489, § 1º, e 1.022 do CPC.
+A propósito, confira-se: R Esp 2.095.460/SP, Terceira Turma, D Je de 15/2/2024 e AgInt no AR Esp 2.325.175/SP, Quarta Turma, D Je de ; AgInt nos E Dcl no21/12/2023 AR Esp 1547208/SP, Terceira Turma, D Je e AgInt no AR Esp 1480314/RJ,19/12/2019 Quarta Turma, D Je .19/12/2019
+- Da Súmula 126/STJ
+No que se refere à alegação de ausência de interesse processual por suposta ausência de prévio requerimento administrativo, o acórdão recorrido decidiu também com base em fundamento constitucional assegurado no art. 5º, XXXV (e-STJ fl. 742).
+Portanto, o acórdão recorrido, quanto ao ponto, decidiu com base em fundamento constitucional, mas a parte recorrente não interpôs recurso extraordinário, o que impede o exame do presente recurso especial em relação ao tema, incidindo a Súmula 126/STJ.
+- Do reexame de fatos e provas
+O TJ/MS ao analisar o recurso interposto pela parte agravante, concluiu o seguinte (e-STJ fls. 287-293):
+Obstar a tutela jurisdicional somente porque a parte autora não buscou, na esfera administrativa, obter tal ressarcimento, poderia vir a causar vilipêndio não só aos princípios da proporcionalidade e da razoabilidade, como também infirmar o acesso à Justiça, assegurado no art. 5º, inc. XXXV, da Constituição Federal pois, em última análise, acabaria por inibir o particular de judicializar demandas de tal ordem.
+No caso, a apelante encaminhou notificação à CEF e à Erbe Incorporadora 037 S/A, comunicando as falhas construtivas no imóvel. Os elementos dos autos demonstram que não obteve nenhuma resposta (ID 270916170, p. 3, 270916173 e 270916174), estando presente o interesse de agir. (..)
+Os danos observados no imóvel foram assim detalhados (ID 270916143, p. 3/4):
+"Rachadura nas lajes e paredes, o que tem ocorrido de forma progressiva e em grandes proporções, comprometendo inclusive a estrutura do imóvel; Diversos cômodos são prejudicados durante as chuvas, inclusive o banheiro que apresenta vazamento; Pisos rachados na casa toda. Também há problemas de nivelação com os pisos, principalmente quanto a caída d "água; Infiltrações em todos os cômodos da casa, o que causa acúmulo de vazamentos e de agentes nocivos (ácaros e fungos), colocando em risco a integridade física, saúde da autora e seus familiares, além de abalar a estrutura do imóvel; Possibilidade de problemas gravíssimos quanto a estrutura do imóvel atingindo a residência da autora."
+A demandante salientou, também, que "os danos poderão ser constatados de forma técnica e específica quando da realização da perícia no imóvel, já pleiteada na exordial".
+Para comprovar a sua condição de mutuária, a parte autora juntou documento de identificação pessoal (ID 270916149) e Termo de Recebimento de Imóvel (ID 270916153). Em sendo indispensável a juntada do contrato de financiamento habitacional celebrado entre as partes, pode ser determinada à CEF, na fase probatória.
+(..)
+A inicial, portanto, permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+Desse modo, alterar o decidido no acórdão impugnado, quanto à não configuração de inépcia da inicial e do interesse processual, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da inépcia da inicial ( Súmula 568 do STJ)
+A Corte de origem, ao julgar o recurso de apelação interposto pela parte agravada, concluiu o seguinte (e-STJ fls. 292):
+A inicial, portanto, permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+Destaco que a jurisprudência do Superior Tribunal de Justiça admite a formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata: (..)
+Da leitura dos trechos acima, verifica-se que a decisão proferida pelo Tribunal local está em conformidade com a jurisprudência do STJ que é no sentido de que não será considerada inepta a petição inicial que descreve os fatos e os fundamentos do pedido, possibilitando ao recorrido exercitar o direito de defesa e do contraditório.
+Nesse sentido: AgInt no AREsp n. 2.211.247/MG, Quarta Turma, DJe de 8/9/2023; AgInt no AREsp 2211247/MG, Quarta Turma, DJE de 8/9/2023; e REsp 1222070/RJ, Terceira Turma, DJE de 16/5/2011.
+Assim, com fundamento na Súmula 568/STJ, o recurso não merece ser provido neste ponto.
+Com efeito, urge frisar que nas razões do agravo interno a agravante insurgiu-se em relação à negativa de aplicabilidade do tema repetitivo 1.198/STJ, bem como quanto ao afastamento da negativa de prestação jurisdicional e aplicação dos óbices das Súmulas 7, 126 e 568/STJ.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Dessa forma, passe-se à análise das alegações do agravo interno:
+- Da suspensão processual
+Nas razões do agravo interno, a agravante reitera pedido de suspensão do processo até o julgamento final do Tema Repetitivo n. 1.198, afetado no RESP 2.021.655/MS, em trâmite perante a Corte Especial deste STJ. Todavia, conforme fundamentado na decisão monocrática, o pedido não merece provimento.
+A preliminar foi objeto de análise na decisão de admissibilidade pelo Tribunal de origem, que se manifestou (fl. 413):
+"Inicialmente, não há que se falar em do feito pelo Tema 1.198/STJ, pois não há discussão nossuspensão autos a respeito da possibilidade de o juiz exigir da parte autora a emenda da inicial. Ao contrário, no caso em tela, já houve determinação de emenda, providência atendida pela parte autora.
+Anote-se que a discussão colocada nesse recurso é a possibilidade de extinção do feito em face de inépcia e/ou ausência de interesse, o que foi afastado pela decisão ora recorrida."
+Considerando que o juízo de origem analisou e não caracterizou a demanda como litigância predatória, revela-se incabível a suspensão pretendida, razão pela qual se rejeita a preliminar.
+- Da violação do art. 1.022 do CPC
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no AREsp 2.164.998/RJ, Terceira Turma, DJe 16/02/2023; AgInt no REsp 1.850.632/MT, Quarta Turma, DJe 08/09/2023; e AgInt no REsp 1.655.141/MT, Primeira Turma, DJe de 06/03/2024.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+- Da violação do art. 489 do CPC
+No que tange à ausência de violação do art. 489 do CPC, tem-se que a decisão não merece reforma nesse ponto, haja vista que, da leitura do acórdão recorrido, nota-se que o Tribunal de origem concedeu a devida prestação jurisdicional e apreciou todos os fundamentos deduzidos pela parte agravante necessários para o deslinde da controvérsia.
+Nesse sentido: AgInt no AREsp 2.434.278/DF, Quarta Turma, DJe de 2/5/2024; e REsp 1.923.107/SP, Terceira Turma, DJe de 16/8/2021.
+- Da Súmula 126/STJ
+No que se refere à alegação de ausência de interesse processual por suposta ausência de prévio requerimento administrativo, o acórdão recorrido decidiu também com base em fundamento constitucional assegurado no art. 5º, XXXV (e-STJ fl. 287).
+Portanto, o acórdão recorrido, quanto ao ponto, decidiu com base em fundamento constitucional, mas a parte recorrente não interpôs recurso extraordinário, o que impede o exame do presente recurso especial em relação ao tema, incidindo a Súmula 126/STJ.
+- Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem não demandaria o reexame de fatos e provas.
+Como exposto na decisão agravada, o TJMS ao julgar o recurso interposto pela parte agravante assim decidiu (e-STJ fls. 287-293):
+Obstar a tutela jurisdicional somente porque a parte autora não buscou, na esfera administrativa, obter tal ressarcimento, poderia vir a causar vilipêndio não só aos princípios da proporcionalidade e da razoabilidade, como também infirmar o acesso à Justiça, assegurado no art. 5º, inc. XXXV, da Constituição Federal pois, em última análise, acabaria por inibir o particular de judicializar demandas de tal ordem.
+No caso, a apelante encaminhou notificação à CEF e à Erbe Incorporadora 037 S/A, comunicando as falhas construtivas no imóvel. Os elementos dos autos demonstram que não obteve nenhuma resposta (ID 270916170, p. 3, 270916173 e 270916174), estando presente o interesse de agir. (..)
+Os danos observados no imóvel foram assim detalhados (ID 270916143, p. 3/4):
+"Rachadura nas lajes e paredes, o que tem ocorrido de forma progressiva e em grandes proporções, comprometendo inclusive a estrutura do imóvel; Diversos cômodos são prejudicados durante as chuvas, inclusive o banheiro que apresenta vazamento; Pisos rachados na casa toda. Também há problemas de nivelação com os pisos, principalmente quanto a caída d "água; Infiltrações em todos os cômodos da casa, o que causa acúmulo de vazamentos e de agentes nocivos (ácaros e fungos), colocando em risco a integridade física, saúde da autora e seus familiares, além de abalar a estrutura do imóvel; Possibilidade de problemas gravíssimos quanto a estrutura do imóvel atingindo a residência da autora."
+A demandante salientou, também, que "os danos poderão ser constatados de forma técnica e específica quando da realização da perícia no imóvel, já pleiteada na exordial".
+Para comprovar a sua condição de mutuária, a parte autora juntou documento de identificação pessoal (ID 270916149) e Termo de Recebimento de Imóvel (ID 270916153). Em sendo indispensável a juntada do contrato de financiamento habitacional celebrado entre as partes, pode ser determinada à CEF, na fase probatória.
+(..)
+A inicial, portanto, permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+- Da Súmula 568 do STJ
+A Corte de origem, ao julgar o recurso de apelação interposto pela parte agravada, concluiu o seguinte (e-STJ fls. 292):
+A inicial, portanto, permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+Destaco que a jurisprudência do Superior Tribunal de Justiça admite a formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata: (..)
+Da leitura dos trechos acima, verifica-se que a decisão proferida pelo Tribunal local está em conformidade com a jurisprudência do STJ que é no sentido de que não será considerada inepta a petição inicial que descreve os fatos e os fundamentos do pedido, possibilitando ao recorrido exercitar o direito de defesa e do contraditório.
+Nesse sentido: AgInt no AR Esp n. 2.211.247/MG, Quarta Turma, D Je de ; AgInt no AR Esp 2211247/MG, Quarta Turma, DJE ; e R Esp 12220708/9/2023 8/9/2023 /RJ, Terceira Turma, DJE de .16/5/2011
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+Diante disso, mostra-se correto o entendimento adotado na decisão agravada, que não merece reparos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
