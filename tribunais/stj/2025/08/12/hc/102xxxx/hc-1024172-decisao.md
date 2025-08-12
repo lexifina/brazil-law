@@ -1,0 +1,13 @@
+DECISÃO
+O presente habeas corpus, ajuizado em benefício de FABIO SOARES NEPOMUCENO - condenado por infração do art. 159, § 1º, do Código Penal, à pena de 18 anos de reclusão, em regime inicial fechado -, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 0041438-22.2001.8.26.0050 ou 1368091/2), não comporta processamento.
+Com efeito, a impetração visa à anulação da condenação, sob o argumento de ausência de prova segura quanto à autoria, irregularidade no reconhecimento realizado pela vítima e retratação da delação anteriormente prestada pelo corréu.
+Ocorre que, além da indevida impetração do writ como substitutivo de revisão criminal, a invocação tardia de nulidade do acórdão de apelação (proferido há mais de 20 anos), com o intuito de reverter resultado que é desfavorável ao acusado, demonstra a utilização da chamada nulidade de algibeira, que é rechaçada pelo Superior Tribunal de Justiça (AgRg no HC n. 825.657/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023).
+Quer dizer, a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal (AgRg no HC n. 690.070/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021). Nessa linha de intelecção, o conhecimento do writ é inviável, em razão da preclusão (AgRg no HC n. 825.794/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+Afora isso, conforme dito pela Sexta Turma no julgamento do HC n. 800.759/SP, ajuizado em favor do paciente, a condenação foi fundamentada com referência a elementos de prova razoáveis que vinculam o  réu  aos fatos (fl. 147 daqueles autos).
+Somado à inviabilidade de reexame aprofundado da conclusão adotada pelas instâncias ordinárias, observa-se que parte da matéria ora ventilada não foi objeto de deliberação pela Corte estadual no acórdão impugnado.
+Portanto, inexiste ilegalidade flagrante que autorize a atuação de ofício deste Superior Tribunal.
+Em face do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. EXTORSÃO MEDIANTE SEQUESTRO QUALIFICADA. ALEGAÇÃO DE NULIDADES. CONDENAÇÃO TRANSITADA EM JULGADO. ACÓRDÃO IMPUGNADO PROFERIDO HÁ MAIS DE 20 ANOS. PRECLUSÃO TEMPORAL. PRINCÍPIO DA SEGURANÇA JURÍDICA. SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
