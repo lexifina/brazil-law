@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCESSO NA EXECUÇÃO. CRÉDITO REDUZIDO EM RAZÃO DE SENTENÇA JUDICIAL. CONHECIMENTO DO EXEQUENTE ANTERIOR À EXECUÇÃO. REEXAME. REVOLVIMENTO FÁTICO. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória (Súmula 393 do STJ).
+3. Hipótese em que o Tribunal de origem assentou ser evidente nos autos o excesso na execução alegado em exceção de pré-executividade. Afirmou estar evidenciado que o exequente submeteu à execução crédito já parcialmente desconstituído em sentença de ação anulatória transitada em julgado, da qual tinha conhecimento. A revisão dessa compreensão, na espécie, pressupõe reexame de prova, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO GRANDE DO SUL contra decisão de minha lavra em que conheci do agravo para, com fundamento na ausência de vício de integração e na aplicação do óbice da Súmula 7 do STJ, conhecer em parte do recurso especial e negar-lhe provimento.
+A parte agravante alega, em síntese, que o vício de omissão apontado pelo recorrente é relativo a não apreciação pela Corte de origem da alegação de inexistência de conhecimento do resultado do julgamento da ação de conhecimento pelo exequente em razão de inobservância da sua prerrogativa de intimação pessoal (art. 183, §1º do CPC/2015).
+Aduz, ainda, a desnecessidade de se analisar o conjunto fático e probatório para o julgamento do mérito do recurso especial uma vez que a controvérsia suscitada pelo recorrente é a necessidade - procedimental - de dilação probatória para a análise do direito pleiteado na exceção de pré-executividade apresentada pela empresa (relativa ao excesso de execução), especialmente em razão da presunção de certeza e liquidez que acompanha o título executivo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCESSO NA EXECUÇÃO. CRÉDITO REDUZIDO EM RAZÃO DE SENTENÇA JUDICIAL. CONHECIMENTO DO EXEQUENTE ANTERIOR À EXECUÇÃO. REEXAME. REVOLVIMENTO FÁTICO. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória (Súmula 393 do STJ).
+3. Hipótese em que o Tribunal de origem assentou ser evidente nos autos o excesso na execução alegado em exceção de pré-executividade. Afirmou estar evidenciado que o exequente submeteu à execução crédito já parcialmente desconstituído em sentença de ação anulatória transitada em julgado, da qual tinha conhecimento. A revisão dessa compreensão, na espécie, pressupõe reexame de prova, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Como assinalado na decisão agravada, o apelo nobre se originou de agravo de instrumento interposto contra decisão em execução fiscal que não acolheu exceção de pré-executividade em que se discutia excesso de execução.
+O Tribunal gaúcho deu provimento ao agravo de instrumento do executado para acolher a exceção de pré-executividade afirmando ser evidente nos autos o excesso de execução, uma vez que o exequente teria submetido à cobrança crédito já parcialmente desconstituído em sentença de ação anulatória transitada em julgado, sendo desnecessária a dilação probatória.
+Consignou ainda que não se sustentava a alegação da Fazenda Pública de que ainda não teria feito a adequação do valor cobrado por ausência de intimação pessoal da sentença na ação anulatória, afirmando expressamente que o exequente já tivera conhecimento da circunstância.
+Opostos embargos de declaração, foram eles rejeitados.
+No  especial,  o Estado alegou violação  dos  arts. 485, IV, e 1.022 do CPC/2015, bem como do art. 3º da Lei 6.830/1980 e do art. 204 do CTN.
+ Sustentou,  em  síntese, a existência de vício de integração no acórdão não dirimido mesmo após a oposição de embargos de declaração em que se alegava a existência de omissão relativa: (i) à ausência de intimação do ente público a respeito do julgamento de ação anulatória que apreciou judicialmente o crédito tributário executado; (ii) à alegação de impossibilidade de conhecimento da exceção por exigir incompatível dilação probatória; e (iii) à ausência de fundamento no afastamento da aplicação da orientação que impede o conhecimento da exceção de pré-executividade quando exige contraditório e dilação probatória, em especial sob o prisma da presunção de certeza e liquidez do título executivo.
+No mérito, defendeu o descabimento do acolhimento da exceção de pré-executividade cujo objeto é a desconstituição da presunção de certeza e liquidez do título executivo, o que exige incompatível dilação probatória com o competente contraditório.
+Pois bem.
+Como afirmado na decisão anterior, o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação às quais o recorrente alega omissão.
+Com efeito, a Corte estadual afastou expressamente as alegações de defesa da Fazenda Pública, consignando expressamente ser evidente o excesso na execução fiscal por desconsiderar sentença proferida em ação anulatória já transitada em julgado, sendo desnecessária a dilação probatória para a comprovação desta alegação.
+Ao fim, afastou a alegação do exequente de que ainda não teria feito a adequação do valor cobrado por ausência de intimação pessoal da sentença na ação anulatória. Para tanto, afirmou expressamente que o ente exequente teve ciência do trânsito em julgado e, mesmo assim, deu início à execução fiscal.
+Em razão da alegação formulada nas razões de agravo, anoto que eventual equívoco na compreensão das provas produzidas não caracteriza vício de integração (error in procedendo), a infirmar a validade da decisão, mas erro de julgamento (error in judicando), sendo que este é insuscetível de revisão pela via de embargos de declaração e, por conseguinte, não enseja acolhimento de recurso especial por suposta ofensa ao art. 1.022 do CPC.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+No mérito, a Corte gaúcha consignou expressamente se evidenciar dos autos o aventado excesso na execução fiscal, sendo desnecessária a dilação probatória para a apreciação do objeto da exceção de pré-executividade. Registrou, expressamente, não se sustentar a alegação de não ter sido promovida pelo exequente a adequação do valor cobrado por ausência de intimação pessoal acerca do teor da sentença na ação anulatória, assentando que o ente público teve ciência do trânsito em julgado e, mesmo assim, deu início à execução fiscal de título parcialmente desconstituído.
+Essa conclusão encontra amparo na orientação esposada na Súmula 393 do STJ.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal a quo , para acolher as alegações fáticas do recorrente em sentido diametralmente oposto, demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
