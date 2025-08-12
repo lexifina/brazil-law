@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Humberto Martins.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.015 DO CPC. NÃO OCORRÊNCIA. NULIDADE DE ADJUDICAÇÃO POR PREÇO VIL. SÚMULA 7/STJ.
+1. A controvérsia trata da possibilidade jurídica de se anular judicialmente uma adjudicação de imóvel realizada em processo de execução, com fundamento em suposto vício na avaliação do bem, notadamente a ocorrência de preço vil, e da viabilidade de se discutir esse vício em ação autônoma (anulatória), após a preclusão da fase executiva.
+2. O acórdão recorrido está em sintonia com o STJ, cujo entendimento é no sentido de que o rol do art. 1.015 do NCPC é de taxatividade mitigada, viabilizando-se o manejo de agravo de instrumento na hipótese em que evidenciada a urgência oriunda da inutilidade da questão em apelação. Incidência do Tema 988/STJ.
+3. O acórdão entendeu, com base nos artigos 903 e 906 do Código de Processo Civil, que não é cabível utilizar ação anulatória para impugnar a avaliação do imóvel realizada no processo executivo, quando a parte interessada teve oportunidade de se manifestar sobre essa avaliação e não o fez, operando-se a preclusão. A revisão desse entendimento demandaria o reexame do conjunto fático-probatório e a revaloração das circunstâncias que envolvem a validade da avaliação e da suposta configuração de preço vil, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Recurso especial parcialmente conhecido e improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por LTM INCORPORACOES E NEGOCIOS IMOBILIARIOS LTDA., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que julgou demanda relativa à ação de nulidade de adjudicação de imóvel.
+O julgado deu parcial provimento ao agravo de instrumento nos termos da seguinte ementa (fls. 240-241):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSO CIVIL. AÇÃO ANULATÓRIA. AÇÃO DE NULIDADE DE ADJUDICAÇÃO POR PREÇO VIL. PRELIMINARES. CABIMENTO DO RECURSO. CERCEAMENTO DE DEFESA. AFASTADAS. AVALIAÇÃO PRECLUSA. PERDA DE PRAZOS PROCESSUAIS. CONCORDÂNCIA TÁCITA DO EXECUTADO CIENTE. DECISÃO SANEADORA. DESNECESSIDADE DE PROVA PERICIAL. DECISÃO CASSADA.
+1. O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação (R Esp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, D Je 19/12/2018).
+2. A Ação Anulatória baseada no art. 903, parágrafo 4º c/c 966, parágrafo 4º do Código de Processo Civil tem incidência restrita, uma vez que se privilegia o ato perfeito e acabado, em homenagem à segurança jurídica. Bem por isso, não pode ser utilizada como sucedâneo recursal ou nova instância revisora, inexistindo cerceamento de defesa no caso, caso se averigue no mérito que a ação busca extrapolar outros atos preclusos realizados no curso do processo executivo.
+3. A causa de pedir se funda em vício na avaliação, a qual teria sido praticada com alegada má-fé, com a consequente venda subsequente do imóvel por preço vil. Bem por isso, a parte agravada pretende a dilação probatória, por intermédio de prova pericial, a fim de averiguar que a à época o bem possuía valor superior ao da avaliação. 3.1 Aparte agravada teve oportunidade de exercer o Contraditório e Ampla Defesa nos autos executivos acerca da avaliação do bem penhorado. Naquela oportunidade teria que ter levantado todas as questões atinentes à avaliação e impugnado o valor trazido pelo credor. Trata-se de ato processual impugnável dentro do próprio processo executivo e não em Ação Anulatória.
+4. Existe uma diferença entre propor ação de nulidade de adjudicação por preço vil e ação de nulidade de avaliação. A adjudicação perfeita e acabada é ato anulável, porquanto é ato de expropriação executiva com a transferência da posse de um bem, com vistas a encerrar o processo executivo. A parte recorrente, na verdade, pretende desconstituir a avaliação realizada nos autos do Cumprimento de Sentença para posteriormente anular a adjudicação, o que não pode ser permitido, em face da preclusão.
+5. Houve concordância implícita do executado com a avaliação, titular do bem, o qual se encontra representado de forma regular nos autos do processo por advogado o qual perdeu prazos processuais.
+6. Recurso conhecido e parcialmente provido. Decisão saneadora cassada.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega ofensa ao art. 1.015 do CPC, ao permitir a interposição de agravo de instrumento fora das hipóteses previstas, sem demonstrar urgência ou inutilidade do julgamento em recurso de apelação.
+Aduz contrariedade aos arts. 903, § 4º, e 966 do CPC, sob alegação de que a ação anulatória é cabível justamente quando há preclusão no processo de origem, e que a avaliação do imóvel foi feita de forma precária, resultando em adjudicação por preço vil.
+Apresentadas as contrarrazões (fls. 293-303 e 305-313).
+Sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 321-322).
+A Presidência do STJ não conheceu do recurso com base na ausência de preparo (fls. 363-364). Sobrevieram embargos de declaração, que foram acolhidos, determinando-se a distribuição dos autos (fls. 393-394).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.015 DO CPC. NÃO OCORRÊNCIA. NULIDADE DE ADJUDICAÇÃO POR PREÇO VIL. SÚMULA 7/STJ.
+1. A controvérsia trata da possibilidade jurídica de se anular judicialmente uma adjudicação de imóvel realizada em processo de execução, com fundamento em suposto vício na avaliação do bem, notadamente a ocorrência de preço vil, e da viabilidade de se discutir esse vício em ação autônoma (anulatória), após a preclusão da fase executiva.
+2. O acórdão recorrido está em sintonia com o STJ, cujo entendimento é no sentido de que o rol do art. 1.015 do NCPC é de taxatividade mitigada, viabilizando-se o manejo de agravo de instrumento na hipótese em que evidenciada a urgência oriunda da inutilidade da questão em apelação. Incidência do Tema 988/STJ.
+3. O acórdão entendeu, com base nos artigos 903 e 906 do Código de Processo Civil, que não é cabível utilizar ação anulatória para impugnar a avaliação do imóvel realizada no processo executivo, quando a parte interessada teve oportunidade de se manifestar sobre essa avaliação e não o fez, operando-se a preclusão. A revisão desse entendimento demandaria o reexame do conjunto fático-probatório e a revaloração das circunstâncias que envolvem a validade da avaliação e da suposta configuração de preço vil, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Recurso especial parcialmente conhecido e improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Na origem, cuida-se de agravo de instrumento contra decisão que admitiu a ação anulatória como juridicamente cabível, reconhecendo que, embora preclusa a avaliação no processo executivo, a discussão sobre o preço vil da adjudicação pode ser objeto de prova pericial na ação anulatória. O Tribunal reformou esse entendimento, restringindo o alcance da ação anulatória: reconheceu que o que se pretende, na verdade, é desconstituir a avaliação, e não propriamente a adjudicação em si, o que seria inviável por preclusão, pois a impugnação da avaliação deveria ter ocorrido nos próprios autos do cumprimento de sentença.
+A controvérsia trata da possibilidade jurídica de se anular judicialmente uma adjudicação de imóvel realizada em processo de execução, com fundamento em suposto vício na avaliação do bem, notadamente a ocorrência de preço vil, e da viabilidade de se discutir esse vício em ação autônoma (anulatória), após a preclusão da fase executiva.
+DA NÃO VIOLAÇÃO DO ART. 1.015 DO CPC
+Quanto à alegada violação do art. 1.015 do CPC, o acórdão consignou o seguinte (fls. 242-243):
+Por meio dos Recursos Especiais nº 1.704.520 e nº 1.696.396, submetidos à sistemática dos Recursos Repetitivos, o Superior Tribunal de Justiça flexibilizou o rol previsto no art. 1.015 do Código de Processo Civil.
+Na oportunidade, foi fixada tese segundo a qual "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência " decorrente da inutilidade do julgamento da questão no recurso de apelação (REsp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, D Je 19/12/2018).
+No presente caso, embora a questão não esteja em nenhuma hipótese do rol previsto no art. 1.015 do Código de Processo Civil, a discussão quanto às questões decididas na decisão saneadora e a desnecessidade da prova pericial certamente será de toda esvaziada após a sua efetiva realização, motivo pelo qual se revela necessário conhecer em grau recursal dessa questão ante da prolação de Sentença.
+Assim, conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+Com efeito, o acórdão recorrido está em sintonia com o STJ, cujo entendimento é no sentido de que o rol do art. 1.015 do NCPC é de taxatividade mitigada, viabilizando-se o manejo de agravo de instrumento na hipótese em que evidenciada a urgência oriunda da inutilidade da questão em apelação.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, ESTÉTICOS, BIOLÓGICOS E MATERIAIS. ERRO MÉDICO. VIOLAÇÃO DO ART. 1.022 DO NCPC. INOCORRÊNCIA. AGRAVO DE INSTRUMENTO. ART. 1.015 DO NCPC. TAXATIVIDADE MITIGADA. CASO CONCRETO. PRODUÇÃO DE PROVA. AGRAVO INCABÍVEL.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. O rol do art. 1.015 do NCPC é de taxatividade mitigada, viabilizando-se o manejo de agravo de instrumento na hipótese em que evidenciada a urgência oriunda da inutilidade da questão em apelação.
+3. A decisão interlocutória que versa sobre a substituição do perito não enseja agravo de instrumento.
+4. Recurso especial não provido.
+(REsp n. 2.199.822/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 7/4/2025, DJEN de 10/4/2025.)
+Incide, in casu, o Tema 988/STJ, que assim dispõe:
+O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+DA NÃO VIOLAÇÃO DOS ART. 903, § 4º, E 966 DO CPC
+O acórdão entendeu que, com base nos artigos 903 e 906 do Código de Processo Civil, não é cabível utilizar ação anulatória para impugnar a avaliação do imóvel realizada no processo executivo, quando a parte interessada teve oportunidade de se manifestar sobre essa avaliação e não o fez, operando-se a preclusão.
+Eis os termos do acórdão (fl. 243):
+De fato, a Ação Anulatória baseada no art. 903, § 4º c/c 966, § 4º do Código de Processo Civil tem incidência restrita, uma vez que se privilegia o ato perfeito e acabado, em homenagem à segurança jurídica. Bem por isso, não pode ser utilizada como sucedâneo recursal ou nova instância revisora, inexistindo cerceamento de defesa no caso, caso se averigue no mérito que a ação busca extrapolar outros atos preclusos realizados no curso do processo executivo.
+ ..
+Nesta toada, a Ação Anulatória baseada no art. 903, § 4º c/c 966, § 4º do Código de Processo Civil é cabível para anulação de arrematação/adjudicação quando há vício de nulidade absoluta, de ordem pública, não analisado pelo juízo da execução e que pode ser declarado de ofício.
+No feito originário, todavia, a causa de pedir se funda em , a qual teria sido praticada vício na avaliação com alegada má-fé, com a consequente venda subsequente do imóvel por preço vil. Bem por isso, a parte agravada pretende a dilação probatória, por intermédio de prova pericial, a fim de averiguar que a à época o bem possuía valor superior ao da avaliação.
+Com todas as vênias, o entendimento não tem como prosperar.
+Existe uma diferença entre propor ação de nulidade de adjudicação por preço vil e ação de nulidade de avaliação.
+A adjudicação perfeita e acabada é ato anulável, porquanto é ato de expropriação executiva com a transferência da posse de um bem, com vistas a encerrar o processo executivo.
+A parte recorrente, na verdade, pretende desconstituir a avaliação realizada nos autos do Cumprimento de Sentença nº 0027144-18.2016.8.07.0001 para posteriormente anular a adjudicação, o que não pode ser permitido, em face da preclusão.
+A revisão do acórdão recorrido demandaria o reexame do conjunto fático-probatório e a revaloração das circunstâncias que envolvem a validade da avaliação e da suposta configuração de preço vil, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, conheço em parte do recurso e nego-lhe provimento.
+É como penso. É como voto.
