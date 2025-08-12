@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/08/2025 a 12/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+Impedido o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do artigo 1.021, § 1º, do CPC/2015, cabe ao agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que não ocorreu na espécie.
+3. Incidência da Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão monocrática, assim ementada (e-STJ fl. 629):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. NEGATIVA DE VIGÊNCIA AOS ARTS. 1º, III E IV, E 5º, LV. ALEGAÇÃO EM SEDE DE RECURSO ESPECIAL. INADEQUAÇÃO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. SÚMULA 325/STJ. VIOLAÇÃO. EXAME. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. ART. 496 DO CPC. AUSÊNCIA DE COMANDO NORMATIVO E RAZÕES DISSOCIADAS DO ACÓRDÃO RECORRIDO. SÚMULAS 283/STF E 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
+A recorrente alega, em síntese (e-STJ, fls. 638-644):
+A controvérsia reside no fato de que não foi reconhecida a qualidade de segurado do de cujus no momento do óbito, por suposta ausência de comprovação do vínculo trabalhista, reconhecido em reclamatória trabalhista.
+Desse modo, a alegação de cerceamento de defesa é INDISSOCIAVEL das razões de recurso especial, haja vista que a parte Autora requereu devidamente a produção de prova testemunhal, a fim de corroborar a sentença trabalhista, prova que foi indeferida em primeiro grau e gerou a interposição de AGRAVO RETIDO nos autos.
+Uma vez indeferida a prova testemunhal capaz de corroborar a sentença trabalhista, cuja existência de vínculo empregatício comprovaria a qualidade de segurado do de cujus no momento do óbito, é evidente a ocorrência de cerceamento do direito a ampla defesa no processado.
+Outrossim, a r. decisão que negou seguimento ao recurso especial entendeu que "o art. 496 do CPC não tem comando normativo para infirmar os fundamentos do aresto recorrido, muito menos a tese de cerceamento de defesa defendida pelo recorrente. Infere-se, assim, a dissociação entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF."
+Note-se, Excelências, que a r. decisão recorrida julgou improcedente a ação rescisória por entender que "não há que se falar em existência de erro de fato no julgado rescindendo, na medida em que não se está diante de desatenção do julgador quanto à interpretação da prova dos autos, ou a falsa percepção dos fatos, reconhecimento de fato inexistente ou da inexistência de um fato existente, senão impugnação ao acerto do julgado em decorrência da apreciação da prova.", pois após a sentença de procedência o INSS apresentou recurso de apelação e a parte Autora não apresentou contrarrazões para reiterar os termos do agravo retido.
+Em razão dessa argumentação a Agravante fundamentou o recurso especial na ofensa ao art. 496 CPC, e divergência jurisprudencial com a Súmula 325/STJ e REsp nº 397.154/PB, REsp n. 1.737.695/SP e REsp n. 1.401.565/MG.
+Explica-se, em suma o r. julgado entendeu que a impugnação do indeferimento da prova testemunhal por meio do agravo retido nos autos foi inutilizada, em razão da não apresentação de contrarrazões pela parte Autora, motivo pelo qual não haveria razões para se falar em existência de erro de fato.
+Ocorre que justamente o art. 496 CPC dispõe que a sentença proferida contra a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público, está sujeita ao duplo grau de jurisdição, ou seja, o reexame necessário.
+Por sua vez, o reexame necessário consiste na necessidade de que determinadas sentenças sejam confirmadas pelo Tribunal ainda que não tenha havido nenhum recurso interposto pelas partes, assim a matéria afeta a existência de cerceamento de defesa e o agravo interno interposto em razão do indeferimento da prova testemunhal eram passíveis de análise pelo r. Tribunal.
+A Súmula n. 325/STJ corrobora a argumentação explanada ao ponto que prevê que "A remessa oficial devolve ao Tribunal o reexame de todas as parcelas da condenação suportadas pela Fazenda Pública, inclusive dos honorários de advogado.".
+Desse modo, não há que se falar que houve dissociação entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, não incidindo os óbices das Súmulas 283 e 284/STF.
+Por fim, requer "seja conhecido o agravo em recurso especial e apreciado o mérito do Recurso Especial apresentado, para o fim de dar-lhe provimento" (e-STJ, fl. 644)
+Sem impugnação (e-STJ, fl. 650).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do artigo 1.021, § 1º, do CPC/2015, cabe ao agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que não ocorreu na espécie.
+3. Incidência da Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Com efeito, a decisão agravada não conheceu do recurso especial aos seguintes fundamentos: (a) inadequação da via recursal eleita, porquanto "não cabe ao Superior Tribunal de Justiça, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no artigo 102 da Constituição Federal"; (b) com relação a alegada violação à Súmula 325, o recurso especial não constitui via adequada para a análise de eventual ofensa a súmula, ainda que vinculante, porque o termo "súmula" não está compreendido na expressão "lei federal"; (c) o art. 496 do CPC não tem comando normativo para infirmar os fundamentos do aresto recorrido, muito menos a tese de cerceamento de defesa defendida pelo recorrente. Infere-se, assim, a dissociação entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF; (d) o referido dispositivo de lei nem sequer foi prequestionado, tampouco houve a oposição dos aclaratórios com o intuito de provocar a manifestação do julgador a quo a fim de sanar suposta omissão, o que impõe, além da inadmissão pela Súmula 284/STF, a inadmissão do apelo por força das Súmulas 282 e 356 do STF; (e) a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+Ocorre que o agravante não impugnou, especificamente, os fundamentos da decisão agravada. Logo, impõe-se o não conhecimento do recurso diante da incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, além da manifestação do inconformismo, inerente ao ato de irresignação, nos termos do art. 1021, § 1º, do CPC/2015, ao agravante se impõe o ônus de se contrapor especificamente, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade - o que não ocorreu no caso dos autos.
+Nesse sentido, confira-se entendimento da Corte Especial:
+AGRAVO INTERNO EM PEDIDO DE RECONSIDERAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.  ..
+1. Nos termos do art. 1021, § 1º, do CPC e da Súmula 182/STJ, é inviável o agravo interno que não impugna especificamente todos os fundamentos da decisão agravada.
+2. Agravo interno não provido, com aplicação de multa. (AgInt no RCD nos EDcl no AgInt nos EAREsp 913.041/MG, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe 23/5/2018)
+Citem-se, ainda, na parte que interessa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELA DECISÃO AGRAVADA. SÚMULA 182/STJ.  ..
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada, incidindo, portanto, a Súmula 182/STJ.
+ ..
+(AgInt no REsp 1.661.786/PE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 18/5/2018)
+PROCESSUAL CIVIL. .. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.  ..
+ ..
+III - Razões de agravo interno nas quais não impugnados especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil. IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido. (AgInt no AgInt no AREsp 1.125.405/GO, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 6/4/2018)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
