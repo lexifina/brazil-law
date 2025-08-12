@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interno interposto pela UNIÃO contra decisão proferida pela Presidência do Superior Tribunal de Justiça, às fls. 788-789 (e-STJ), a qual não conheceu do agravo em recurso especial em razão do óbice da Súmula 182 do STJ.
+Em suas razões, a agravante pretende a reforma da decisão agravada.
+Preliminarmente, pugna pela suspensão do feito, isso porque "a C. 1ª Seção decidiu também por determinar a suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no Superior Tribunal de Justiça, observada a orientação prevista no art. 256-L do RISTJ" (e-STJ, fl. 797).
+Além disso, defende que "tendo a União logrado comprovar que o acórdão impugnado do TRF1 está em desconformidade ao entendimento predominante dessa C. Corte quanto à contagem mensal da prescrição em demandas relacionadas ao FUNDEF/FUNDEB, não justificando, desse modo, a incidência da Súmula 83, e considerando, ainda, que a temática está afetada sob a sistemática dos recursos repetitivos" (e-STJ, fl. 801).
+Impugnação apresentada às fls. 812-817 (e-STJ).
+Brevemente relatado, decido.
+No caso, verifica-se a razoabilidade nos argumentos trazidos no agravo interno, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 788-789 (e-STJ).
+Contudo, verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos Recursos Especiais n. 2.154.735/AM e n. 2.154.746/PI, relator Ministro Teodoro Silva Santos, julgadas em 1º/4/2025, DJEN de 8/4/2025, delimitaram o Tema 1.326 da seguinte forma: "Definir se o prazo prescricional da pretensão de cobrança de complementação de recursos relativos ao Valor Mínimo Anual por Aluno (VMAA), repassado ao FUNDEB/FUNDEF, deve ser apurado mês a mês, e não anualmente".
+Confira-se a respectiva ementa:
+DIREITO ADMINISTRATIVO. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038, TODOS DO CPC, C.C. O ART. 256-I DO RISTJ. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO (FUNDEF/FUNDEB). VALOR MÍNIMO ANUAL POR ALUNO (VMAA). PRAZO PRESCRICIONAL. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO APURADA MÊS A MÊS.
+1. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC: "Definir se o prazo prescricional da pretensão de cobrança de complementação de recursos relativos ao Valor Mínimo Anual por Aluno (VMAA), repassado ao FUNDEB/FUNDEF, deve ser apurado mês a mês, e não anualmente".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC (art. 256-I do RISTJ).
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, mediante juízo de retratação, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.326/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO (FUNDEF/FUNDEB). VALOR MÍNIMO ANUAL POR ALUNO (VMAA). PRAZO PRESCRICIONAL. RELAÇÃO DE TRATO SUCESSIVO. APURAÇÃO DA PRESCRIÇÃO. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.326 DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM, MEDIANTE JUÍZO DE RETRATAÇÃO .
