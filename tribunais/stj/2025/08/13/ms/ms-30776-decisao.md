@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por MARIA ÂNGELA LUCARESKI BERGAMO DOS SANTOS contra ato coator imputado à MINISTRA DE ESTADO DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS, na condução do Concurso Público Nacional Unificado de 2024.
+Sustenta, em síntese (fls. 3-49; grifos diversos):
+(1) O direito da Impetrante de não ser eliminada do concurso CPNU, pois a Impetrante, conforme mandava o item 8.12.112 do edital, transcreveu a frase apresentada no caderno da prova de Conhecimentos Gerais - "TAXI LUNAR" - como se constata do Cartão Resposta da Prova de Conhecimentos Gerais
+ ..
+(2) O direito líquido e certo de ter corrigida sua Prova de Conhecimentos Gerais e, por conseguinte, de ter corrigida sua Prova de Conhecimentos Específicos e sua prova Discursiva.
+(3) O direito de a Impetrante ter suas notas e sua classificação disponibilizada pelas Impetradas, e ter garantida a continuidade de sua participação das próximas fases do CONCURSO PÚBLICO NACIONAL UNIFICADO DO GOVERNO FEDERAL (CNPU), Bloco 4 - TRABALHO E SAÚDE DO SERVIDOR, considerando que suas notas estão acima das notas de corte, segundo os gabaritos oficiais divulgados, inclusive o direito de participar da etapa da correção da prova Discursiva e permanecer, assim, concorrendo às vagas do cargo para o qual se inscreveu.
+A liminar foi indeferida (fls. 259-261).
+A autoridade impetrada prestou informações, nas quais defendeu a perda do objeto da impetração, ante o acordo judicial firmado (fls. 429-432).
+A impetrante afirmou a existência de pedidos remanescentes (fls. 489-516).
+O parecer do Ministério Público Federal é pela denegação da ordem (fls. 701-709).
+É o relatório. Decido.
+A impetração não merece prosperar.
+De plano, reconheço a parcial perda de objeto do presente mandamus, uma vez que as informações prestadas pela autoridade apontada como coatora noticiam a correção das provas discursivas dos candidatos do CNPU que não indicaram o tipo de prova, após a celebração de acordo judicial.
+Quanto ao pleito de continuidade nas demais fases do certame, na linha da jurisprudência dos Tribunais Superiores, é constitucional o estabelecimento da cláusula de barreira, óbice que impediu a impetrante de ter a sua prova discursiva corrigida. Ora, "o Supremo Tribunal Federal consagrou o entendimento de que "é constitucional a regra inserida no edital de concurso público, denominada cláusula de barreira, com o intuito de selecionar apenas os candidatos mais bem classificados para prosseguir no certame." (Tema 376/STF)" (AgInt nos EDcl no RMS n. 52.530/DF, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/3/2023, DJe de 21/3/2023).
+No caso, inexiste "ilegalidade na norma editalícia de concurso público com cláusula de barreira, a qual prevê a eliminação do candidato que, mesmo tendo obtido nota mínima suficiente para aprovação em determinada fase, não se classificou entre os melhores candidatos correspondentes a um percentual do número de vagas. Precedentes." (AgInt no RMS n. 72.978/GO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/10/2024, DJe de 25/10/2024).
+Ausente ilegalidade ou abuso de poder no ato acoimado de coator, não há que se falar em direito líquido e certo a amparar a pretensão autoral, muito menos para suspender a realização do novo Concurso Nacional Unificado em 2025, com edital já publicado.
+Por fim, quanto ao pedido de responsabilização pelos danos morais e materiais causados, não há prova documental inconteste de tal pretensão, razão pela qual inviável o seu acolhimento na via eleita, de rito sumaríssimo.
+Afinal, o procedimento da ação mandamental se caracteriza pela via estreita decorrente da necessidade de que o feito tramite celeremente, em razão de o bem da vida buscado consistir na cessação de lesão ou ameaça de lesão a um direito seu por ilegalidade ou abuso de poder de autoridade pública. A propósito:
+O Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do "mandamus" (RMS 45.989/PB, relator Ministro Herman Benjamin, Segunda Turma, DJe 06/04/2015).
+O mandado de segurança processa-se mediante rito angusto, desprovido de fase instrutória, motivo pelo qual a pretensão mandamental deve ser corroborada de antemão por prova documental coligida juntamente com a petição inicial, pena de denegação da ordem (AgRg no RMS 46.330/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/10/2014).
+Portanto, destaca-se, no writ, a absoluta falta de fase instrutória, de maneira que ao impetrante cumpre coligir, junto à inicial, toda a prova com que pretende demonstrar a sua pretensão, o que não restou comprovado nos presentes autos.
+Ante o exposto, com fundamento no art. 34, inciso XIX, do RISTJ, DENEGO a segurança.
+Sem honorários advocatícios, consoante o art. 25 da Lei n. 12.016/2009 e as Súmulas n. 512 do STF ("Não cabe condenação em honorários de advogado na ação de mandado de segurança") e 105 do STJ ("Na ação de mandado de segurança não se admite condenação em honorários advocatícios").
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CORREÇÃO DA PROVA DISCURSIVA. CLÁUSULA DE BARREIRA. LEGALIDADE. DANOS MORAIS E MATÉRIAS. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA.
