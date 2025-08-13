@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO FEDERAL DA 2A VARA DE MACEIÓ - SJ/AL (Juízo suscitante) e o JUÍZO FEDERAL DA 17A VARA CÍVEL DE BRASÍLIA - SJ/DF (Juízo suscitado).
+O incidente processual decorre de ação ordinária, visando a repetição de indébito de valores cobrados pelo Poder Público a título de Plano de Seguridade Social (PSS) em precatório.
+O JUÍZO FEDERAL DA 17A VARA CÍVEL DE BRASÍLIA - SJ/DF, para quem a ação foi distribuída, se declarou incompetente para processar e julgar o processo com este fundamento:
+"Na concreta situação dos autos, a parte demandante propôs a presente ação, postulando a restituição dos valores recolhidos a título de contribuição previdenciária para o PSS incidente sobre as quantias por ela recebidas por meio de precatório judicial/RPV, no âmbito do Processo de Execução 0009951-59.2024.4.05.8000, julgado na 2a Vara Federal da Seção Judiciária da Alagoas (id. 1597212879)" (fl. 81).
+Por sua vez, o JUÍZO FEDERAL DA 2A VARA DE MACEIÓ - SJ/AL suscitou o presente conflito visto que "a análise do pedido inicial acerca do direito (ou não) à repetição não guarda qualquer vinculação com o Juízo onde tramitou a execução ou cumprimento de sentença na qual fora determinado o pagamento do direito de crédito ao autor, devendo ser apreciada pelo Juízo do domicílio da parte, para o qual for livremente distribuída, ou no Distrito Federal (se esta for a escolha do autor, com fulcro na opção prevista no art. 109 da Constituição). Não há nem mesmo risco de prolação de decisões conflitantes, posto tratar-se de matéria nova, em relação a qual haverá novo pronunciamento judicial" (fl. 6).
+O Ministério Público Federal, às fls. 89/93, opinou pela competência do Juízo suscitado (JUÍZO FEDERAL DA 17ª VARA CÍVEL DE BRASÍLIA - SJ/DF).
+É o relatório.
+Na origem, trata-se de ação ajuizada contra a União Federal em que a parte autora postula a devolução dos valores indevidamente retidos a título de plano de seguridade do servidor público, no momento do pagamento de precatório.
+Tem-se, portanto, que a ação judicial não cuida de incidente na execução de sentença.
+O caso é de demanda autônoma de repetição de indébito ajuizada em desfavor da União, facultando-se, assim, à parte autora eleger o foro de ajuizamento da ação, entre as previsões do art. 109, § 2º, da Constituição Federal.
+Nesse sentido, cito os seguintes julgados referentes a casos análogos ao presente: Conflito de Competência 132.050/RJ, relator Ministro Benedito Gonçalves, DJe de 19/3/2014; Conflito de Competência 197.654, relatora Ministra Assusete Magalhães, DJe de 29/8/2023; Conflito de Competência 197.731, relatora Ministra Regina Helena Costa, DJe de 26/10/2023; Conflito de Competência 198.634, relator Ministro Mauro Campbell Marques, DJe de 8/11/2023; e Conflito de Competência 208.629, Ministro Teodoro Silva Santos, DJEN de 21/03/2025.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 17ª VARA CÍVEL DE BRASÍLIA - SJ/DF, o foro eleito pela autora da ação.
+Publique-se. Comunique-se.
+EMENTA
