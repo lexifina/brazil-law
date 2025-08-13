@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROSINALDO BATISTA, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o ora recorrente foi condenado, pelo Tribunal de origem, à pena de 3 anos, 10 meses e 20 dias de detenção, além de 18 dias-multa, em regime inicial aberto, com substituição de pena privativa de liberdade em restritiva de direito, pelo cometimento do crime previsto no artigo 172 do Código Penal, na forma do art. 71 do mesmo Código, 25 vezes.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação aos artigos 59 e 172 do Código Penal, 26 da Lei 5.478/1968 e ao art. 564 do Código de Processo Penal.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+É o relatório. DECIDO.
+De saída, verifica-se a ausência de prejuízo à defesa quanto à ausência de intimação para a primeira audiência, porquanto "nela nenhuma prova foi produzida, tendo o recorrente e a defesa técnica participado da segunda audiência, na qual ocorreram as oitivas e o interrogatório, bem como a apresentação das alegações finais da acusação." (fl. 814). E, como é cediço, não há nulidade sem demonstração de prejuízo, nos termos do art. 563 do Código de Processo Penal.
+Por sua vez, para infirmar as conclusões adotadas pelo acórdão recorrido, no sentido de que há elementos probatórios que apontam para a materialidade delitiva, seria necessário proceder à incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Por fim, não merece acolhida o pleito de revisão da dosimetria da pena, tendo em vista que "a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elem entos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017).
+Ante o exposto, nego provimento ao recurso especial.
+Publique -se. Intimem-se.
+EMENTA
