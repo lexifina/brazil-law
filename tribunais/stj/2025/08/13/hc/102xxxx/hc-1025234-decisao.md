@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MATHEUS HENRIQUE GONÇALVES FERNANDES DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em razão do julgamento da apelação criminal n. 0820617-86.2024.8.19.0038.
+Consta dos autos que o paciente foi condenado pelo Juízo da 1ª Vara Criminal da Comarca de Nova Iguaçu, na ação penal n. 0820617-86.2024.8.19.0038, como incurso nas penas do art. 157, §§ 1º e 2º, VII, do Código Penal, à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 14 dias-multa (fls. 32-46).
+Ambas as partes interpuseram apelação criminal ao Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento ao recurso da acusação e deu provimento parcial ao recurso defensivo, para excluir da condenação a verba indenizatória (fls. 10-23).
+Na presente impetração, alega-se que houve indevida negativa do reconhecimento da atenuante da confissão espontânea, ainda que parcial, conforme entendimento consolidado do Superior Tribunal de Justiça, que admite a aplicação da atenuante prevista no art. 65, III, "d", do Código Penal mesmo em casos de confissão qualificada ou parcial (fls. 5-7).
+Sustenta-se, ainda, que o paciente faz jus à compensação da atenuante da confissão espontânea com a agravante da reincidência, conforme jurisprudência pacífica desta Corte Superior (fls. 8-9).
+Requer-se, ao final, a concessão da ordem para reconhecer a atenuante da confissão espontânea, com sua consequente compensação com a agravante da reincidência, e o redimensionamento da pena (fl. 9).
+É o relatório. DECIDO.
+A controvérsia consiste na alegação de possível constrangimento ilegal, decorrente da negativa ao reconhecimento da atenuante da confissão espontânea.
+Apresente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem ofício, em observância ao disposto no §2º do art. 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos da decisão colegiada impugnada (fls. 10-23):
+ ..
+A pena-base se mantém no mínimo legal, ante a ausência de circunstâncias judiciais desfavoráveis.
+Incabível o reconhecimento da atenuante da confis- são, uma vez que o acusado não admitiu sequer a subtração da res furtiva.
+Em que pese a reincidência específica do acusado, a exasperação da pena na fração de 1/6 restou razoável e proporcio- nal ao caso em exame, cujas peculiaridades não demonstram um cri-minoso contumaz e experiente em delitos praticados com violência ou grave ameaça.
+Com isso, a pena intermediária é exasperada para 04 anos e 08 meses de reclusão, e pagamento de 11 dias-multa.
+Com o reconhecimento da majorante do emprego de arma branca, a sanção penal é aumentada na fração de 1/3, da qual deflui a pena definitiva de 06 anos, 02 meses e 20 dias de reclu- são, e pagamento de 14 dias-multa, à razão unitária do menor valor legal.
+Diante da quantidade de pena a que restou conde- nado o apelante, aliada à agravante da reincidência, impõe-se a fixa- ção do regime inicial fechado, tal qual determinado na sentença.
+ ..
+Da análise do acórdão (fls. 10-23), verifico, de plano, a presença de ilegalidade flagrante, decorrente do afastamento da atenuante da confissão espontânea, prevista no art. 65, inciso III, alínea "d", do Código Penal.
+Isso porque o paciente, ao ser interrogado, admitiu a prática de furto na modalidade tentada, e não de roubo majorado consumado, sendo certo que tal confissão foi considerada pelo julgador para a formação de seu convencimento.
+Desse modo, o acórdão impugnado diverge da orientação jurisprudencial da 3ª Seção do Superior Tribunal de Justiça, que aprovou a Súmula 545, que assim dispõe: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+Assim, reconheço a incidência da atenuante prevista no artigo 65, inciso III, alínea "d", do Código Penal, e passo à dosimetria da pena.
+1ª etapa: Mantenho os parâmetros fixados pela instância originária, que estabeleceu a pena-base no mínimo legal, em 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+2ª etapa: Mantenho os parâmetros da instância originária, que reconheceu a agravante da reincidência (art. 61, I, do Código Penal) e aplicou o aumento de 1/6. Reconheço, por sua vez, a atenuante da confissão espontânea (art. 65, III, "d", do Código Penal), ainda que realizada de forma parcial, o que justifica a aplicação da fração de 1/12. Promovo, assim, a compensação parcial entre a agravante e a atenuante, resultando na pena intermediária de 4 (quatro) anos e 4 (quatro) meses de reclusão, mantidos os 10 (dez) dias-multa.
+3ª etapa: Mantenho a majoração da pena intermediária em 1/3, em razão da utilização de arma branca, nos termos do art. 157, § 2º, VII, do Código Penal, fixando a pena definitiva em 5 (cinco) anos, 9 (nove) meses e 10 (dez) dias de reclusão e 13 (treze) dias-multa.
+O regime inicial mais gravoso  o fechado  permanece adequado ao caso concreto, em observância ao disposto no art. 33, § 3º, e art. 59 do Código Penal, especialmente diante da reincidência específica do paciente.
+Tendo em vista que a matéria tratada na presente impetração encontra respaldo em jurisprudência consolidada do Superior Tribunal de Justiça, não há óbice à concessão da ordem de forma liminar, sobretudo diante da evidência de manifesto e grave constrangimento ilegal.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Ante o exposto, não conheço do habeas corpus, mas concedo parcialmente a ordem, de ofício, em favor de MATHEUS HENRIQUE GONCALVES FERNANDES DA SILVA, para redimensionar sua pena para 5 (cinco) anos, 9 (nove) meses e 10 (dez) dias de reclusão, e 13 (treze) dias-multa, mantidos os demais termos da condenação.
+Comunique-se à autoridade coatora e ao juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
