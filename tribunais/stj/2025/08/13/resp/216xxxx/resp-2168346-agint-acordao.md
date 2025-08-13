@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO. VIOLAÇÃO AO ART. 1.022, INCISO II, DO CPC. INOVAÇÃO RECURSAL. INAPLICABILIDADE DO ART. 1.025 DO CPC. PÓS QUESTIONAMENTO. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. "Não há que se falar em omissão, nos termos do art. 1.022 do CPC, em relação à tese que representa nítida inovação recursal, porquanto não suscitada em sede de apelação, mas tão somente em embargos de declaração". (AgInt no AREsp n. 2.400.403/SP, rel. Min. Marco Buzzi, Quarta Turma, DJe de 22/5/2024)
+2. "É firme o entendimento do STJ de que a aplicação do art. 1.025 do Código de Processo Civil de 2015, referente ao prequestionamento ficto, exige a efetiva impugnação da matéria em apelação ou contrarrazões de apelação, não sendo suficiente apresentá-la apenas em embargos de declaração, por constituir inovação recursal". (AgInt no REsp n. 1.695.007/SP, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 18/9/2024)
+3. "A oposição de embargos de declaração após a formação do acórdão, com o escopo de que seja analisado tema não arguido anteriormente no processo, não configura prequestionamento, mas pós-questionamento, razão pela qual a ausência de manifestação do Tribunal sobre a questão não caracteriza negativa de prestação jurisdicional". (AgInt no AREsp 885.963/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 11/10/2016)
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO MARANHÃO contra decisão monocrática, de minha lavra, que não conheceu do recurso especial. Eis a ementa do julgado (fl. 194):
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022, INCISO II, DO CPC. INOVAÇÃO RECURSAL. PÓS QUESTIONAMENTO EM EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
+A parte agravante alega, às fls. 201/209, que a decisão agravada não merece prosperar, pois há circunstâncias diferentes e peculiares nos autos que não foram consideradas.
+Sustenta que os pontos destacados são imprescindíveis para a resolução da lide e que a ausência de análise pormenorizada implicou na violação ao artigo 1.022 do Código de Processo Civil (CPC).
+Afirma que a prescrição das parcelas anteriores ao quinquênio que antecedeu a propositura da ação deve ser reconhecida, pois se trata de matéria de ordem pública.
+Não foi apresentada impugnação (fl. 216).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO. VIOLAÇÃO AO ART. 1.022, INCISO II, DO CPC. INOVAÇÃO RECURSAL. INAPLICABILIDADE DO ART. 1.025 DO CPC. PÓS QUESTIONAMENTO. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. "Não há que se falar em omissão, nos termos do art. 1.022 do CPC, em relação à tese que representa nítida inovação recursal, porquanto não suscitada em sede de apelação, mas tão somente em embargos de declaração". (AgInt no AREsp n. 2.400.403/SP, rel. Min. Marco Buzzi, Quarta Turma, DJe de 22/5/2024)
+2. "É firme o entendimento do STJ de que a aplicação do art. 1.025 do Código de Processo Civil de 2015, referente ao prequestionamento ficto, exige a efetiva impugnação da matéria em apelação ou contrarrazões de apelação, não sendo suficiente apresentá-la apenas em embargos de declaração, por constituir inovação recursal". (AgInt no REsp n. 1.695.007/SP, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 18/9/2024)
+3. "A oposição de embargos de declaração após a formação do acórdão, com o escopo de que seja analisado tema não arguido anteriormente no processo, não configura prequestionamento, mas pós-questionamento, razão pela qual a ausência de manifestação do Tribunal sobre a questão não caracteriza negativa de prestação jurisdicional". (AgInt no AREsp 885.963/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 11/10/2016)
+4. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar.
+Com efeito, consoante mencionado na decisão agravada, em relação à alegada violação ao artigo 1.022, inciso II, do Código de Processo Civil, o agravante sustenta que o Tribunal a quo não teria se pronunciado sobre a suposta violação ao artigo 1º do Decreto Federal nº 20.910/32, mas, no entanto, da análise dos autos, observa-se que o citado dispositivo legal não foi ventilado em sede de apelação. Desse modo, não há falar em omissão, eis que a tese aventada configura indevida inovação recursal.
+De fato, "não há que se falar em omissão, nos termos do art. 1.022 do CPC, em relação à tese que representa nítida inovação recursal, porquanto não suscitada em sede de apelação, mas tão somente em embargos de declaração". (AgInt no AREsp n. 2.400.403/SP, rel. Min. Marco Buzzi, Quarta Turma, DJe de 22/5/2024) Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. PLEITO PARA QUE O TRIBUNAL DE ORIGEM CONHEÇA DOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. ANPP. INDULTO. TEMAS NÃO SUSCITADOS NAS RAZÕES DA APELAÇÃO. INOVAÇÃO RECURSAL EM EMBARGOS DE DECLARAÇÃO. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. PARECER MINISTERIAL ACOLHIDO.
+1. Não há ilegalidade a ser corrigida de ofício por esta Corte Superior nem mesmo a determinação do retorno dos autos ao Tribunal estadual para a análise dos embargos de declaração, dada a inexistência de vício a ser sanado nos aclaratórios lá opostos, haja vista que os temas relativos ao acordo de não persecução penal e ao indulto não foram suscitados nas razões da apelação, de modo que o Tribunal a quo não estaria obrigado a analisar os referidos assuntos, por tratar-se de inovação recursal. Precedentes.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no HC n. 835.751/SC, rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe de 12/9/2024)
+Ademais, o fato de o tema ser ventilado tão somente em sede de embargos declaratórios não obriga o Tribunal a se manifestar sobre eles, tendo em vista que tal proceder significaria desconsiderar o devido processo legal e a existência do instituto processual da preclusão. Nesse passo, acrescenta-se que o artigo 1.025 do Código de Processo Civil não se aplica no caso presente, já que a matéria não foi questionada em sede de apelação, mas tão somente em embargos declaratórios. No ponto, registre-se que "é firme o entendimento do STJ de que a aplicação do art. 1.025 do Código de Processo Civil de 2015, referente ao prequestionamento ficto, exige a efetiva impugnação da matéria em apelação ou contrarrazões de apelação, não sendo suficiente apresentá-la apenas em embargos de declaração, por constituir inovação recursal" (AgInt no REsp n. 1.695.007/SP, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 18/9/2024). Na mesma vereda:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. PRESTAÇÃO DE SERVIÇOS. AÇÃO DE COBRANÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA E COMPROVAÇÃO DA PRESTAÇÃO DOS SERVIÇOS E DO INADIMPLEMENTO DO RECORRIDO. REVISÃO.
+SÚMULA 7/STJ. APLICAÇÃO DO ART. 1º-F da LEI Nº 9.494/97. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A aplicação do art. 1.025 do Código de Processo Civil de 2015, referente ao prequestionamento ficto, exige a efetiva impugnação, em apelação ou contrarrazões de apelação da matéria passível de prequestionamento, não sendo possível apresentar a questão apenas em embargos de declaração, por constituir inovação recursal que não caracteriza omissão a teor do art. 1.022 do CPC/2015.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.521.314/BA, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 15/8/2024)
+Outrossim, a ausência de análise da questão veiculada no recurso não é suprida com a invocação inaugural da matéria nos aclaratórios, pois, conforme entendimento do STJ, "a oposição de embargos de declaração, com a finalidade de prequestionar tema não arguido anteriormente, configura indevido pós-questionamento, incidindo, na hipótese, o óbice da Súmula nº 282 do STF" (Aglnt no AREsp 774.766/MS, Rel. Min. Maria Isabel Gallotti, DJe de 8.9.2016). Com efeito, nos termos da jurisprudência desta Corte, "a oposição de embargos de declaração após a formação do acórdão, com o escopo de que seja analisado tema não arguido anteriormente no processo, não configura prequestionamento, mas pós-questionamento, razão pela qual a ausência de manifestação do Tribunal sobre a questão não caracteriza negativa de prestação jurisdicional". (AgInt no AREsp 885.963/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/10/2016). A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356, AMBAS DO STF. MATÉRIA SUSCITADA APENAS EM SEDE DE EMBARGOS DE DECLARAÇÃO NA INSTÂNCIA A QUO. INOVAÇÃO RECURSAL EM SEDE DE ACLARATÓRIO. PÓS-QUESTIONAMENTO. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+(..)
+2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Incidência das Súmulas 282 e 356, ambas do col. STF.
+3. A jurisprudência desta Corte não admite o pós-questionamento, que ocorre quando, em sede de embargos de declaração, são apresentadas novas teses na instância de origem.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.449.274/SP, rel. Min. Raul Araújo, Quarta Turma, DJe de 27/6/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
