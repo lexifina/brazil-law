@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo interposto por TOTALBEN - ASSOCIAÇÃO DE BENEFÍCIOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl.619):
+APELAÇÃO CÍVEL. PROTEÇÃO VEICULAR. PERDA TOTAL. INDEVIDA NEGATIVA DE INDENIZAÇÃO. O FATO DE O VEÍCULO SER OBJETO DE GARANTIA POR ALIENAÇÃO FIDUCIÁRIA, EM NOME DE TERCEIRO, NÃO OBSTA O PAGAMENTO DA INDENIZAÇÃO NA OCORRÊNCIA DE PERDA TOTAL DO BEM. PROPRIEDADE DO BEM MÓVEL SE TRANSFERE COM A TRADIÇÃO. VIOLAÇÃO À BOA- FÉ OBJETIVA. INDEVIDA RECUSA DE PAGAMENTO. SENTENÇA DE IMPROCEDÊNCIA QUE SE REFORMA.
+1. Nos termos do art. 422, do Código Civil, os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé.
+2. O art. 1.226, do Código Civil, reconhece que os direitos reais sobre coisas móveis, quando constituídos, ou transmitidos por atos entre vivos, só se adquirem com a tradição.
+3. O óbice à alienação do bem gravado com alienação fiduciária se refere ao credor. Entre terceiros não há que haver tal óbice.
+4. O fato de o veículo ser objeto de garantia por alienação fiduciária não obsta o pagamento da indenização na ocorrência de perda total do bem.
+5. Assim como a propriedade dos bens móveis se transmitem pela tradição, os direitos menores de bens dessa natureza igualmente se transmitem.
+6. O apelante contratou a proteção veicular, pagou o valor estipulado como "prêmio", não houve óbice da associação à contratação, que somente na hora de pagar a indenização alegou a impossibilidade de cumprir com o que contratara.
+Os embargos foram providos em parte, nos termos da ementa (fl. 667):
+Embargos de declaração. Apelação. Ação de cobrança de indenização decorrente de contrato de proteção automotiva c/c indenizatória por danos morais, cuja causa de pedir é a recusa de cobertura por danos em veículo que teve perda total após ser furtado, depenado e recuperado pela polícia. Sentença de improcedência. Aresto ora recorrido que, por maioria de votos, reformou a sentença para julgar procedentes os pedidos. Acórdão eivado de omissão quanto à alegada necessidade de observância dos descontos indenizatórios presentes no Regulamento Interno da Associação para o cômputo do valor da indenização a ser paga ao associado. Supressão do vício. Ausência de subsunção fática nas hipóteses de incidência de descontos sobre o valor da indenização. Prequestionamento explícito desnecessário. Inteligência do art. 1.025 do CPC.
+Vício sanado sem modificação do resultado do julgamento. RECURSO PROVIDO EM PARTE
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 14, § 3º, inciso II, do CDC, 476, 927 e 944, caput e parágrafo único, do Código Civil.
+Sustenta, em síntese, que o recorrido não cumpriu com o dever de prestar informações verdadeiras, conforme previsão expressa do manual do associado, o que afasta o direito à indenização (fls. 685-686).
+Argumenta que não houve conduta desidiosa e que o dano moral não foi comprovado, devendo ser afastada a condenação (fls. 686-689).
+Ainda, alega que a indenização por danos morais foi imposta de forma desproporcional (fls. 689-691).
+Foram oferecidas contrarrazões ao recurso especial (fls. 702-710).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 712-717), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 735-748).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, solucionou a lide em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, quanto à alegada ofensa aos arts. 14, § 3º, inciso II, do Código de Defesa do Consumidor, e 476, 927 e 944, caput e parágrafo único, do Código Civil, o recurso especial não merece prosperar, por encontrar óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A propósito, cito o seguinte precedente:
+RECURSO ESPECIAL. CIVIL. SEGURO DE AUTOMÓVEL. PERDA TOTAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA Nº 284/STF. VEÍCULO SEGURADO. GRAVAME. ALIENAÇÃO FIDUCIÁRIA. PAGAMENTO. INDENIZAÇÃO SECURITÁRIA. NECESSIDADE. DESTINATÁRIO. INSTITUIÇÃO FINANCEIRA. POSSIBILIDADE. SALDO DEVEDOR. AMORTIZAÇÃO. TRANSFERÊNCIA. SALVADOS. DEDUÇÃO. VALOR. FALTA DE PREQUESTIONAMENTO. APURAÇÃO. MÉDIA DE MERCADO DO BEM. TABELA FIPE. DATA DA LIQUIDAÇÃO DO SINISTRO. DANOS MORAIS. CONDENAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICA. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a saber: a) se houve negativa de prestação jurisdicional quando do julgamento dos embargos de declaração pela Corte estadual; b) se a seguradora pode condicionar o pagamento da indenização securitária originada da perda total de automóvel alienado fiduciariamente à prévia apresentação, pelo segurado, do DUT ou CRV livre de quaisquer gravames para fins de transferência dos salvados; c) se o valor dos salvados pode ser deduzido da indenização securitária; d) se a indenização securitária decorrente de contrato de seguro de automóvel deve corresponder, no caso de perda total, ao valor médio de mercado do bem (tabela FIPE) apurado na data do sinistro ou na data do efetivo pagamento (liquidação do sinistro) e e) se ocorreram danos morais ao segurado pela recusa da seguradora de pagar a indenização securitária.
+3. A alegação genérica da suposta violação do art. 1.022, I e II, do CPC/2015, sem especificação das teses que teriam restado omissas pelo acórdão recorrido, atrai a incidência da Súmula nº 284/STF.
+4. Pagos os prêmios pelo segurado e cumpridos os demais elementos do contrato de seguro de automóvel, a seguradora não pode condicionar, no caso de perda total, o pagamento da indenização securitária à apresentação de documento que comprove a quitação do financiamento e a baixa do gravame do veículo gravado com cláusula de alienação fiduciária, sob pena de esvaziamento da própria finalidade do contrato (art. 757 do CC), contrariando, ainda, a boa-fé objetiva.
+5. O dever do segurado de proceder à entrega da documentação do veículo sinistrado, desembaraçado de quaisquer ônus, possibilitando a transferência do salvado à seguradora, somente surge após o pagamento integral da indenização securitária (arts. 786 do CC, 126, parágrafo único, do CTB e 14, I e III, da Circular-SUSEP nº 639/2021).
+6. É possível, nos casos em que o veículo sinistrado ainda esteja sob o gravame da alienação fiduciária, promover-se o pagamento da indenização securitária diretamente à instituição financeira, a fim de se amortizar o saldo devedor do segurado, desembaraçando-se o salvado e permitindo-se a transferência da propriedade do bem.
+7. A falta de prequestionamento de matéria suscitada no recurso especial impede o seu conhecimento, conforme dispõe a Súmula nº 282/STF. Impossibilidade de exame do tema atinente à dedução do valor do salvado da indenização a ser paga.
+8. A cláusula do contrato de seguro de automóvel que adota, na ocorrência de perda total, o valor médio de mercado do veículo como parâmetro para a apuração da indenização securitária, deve observar a tabela vigente na data do sinistro, não a data do efetivo pagamento (liquidação do sinistro).
+9. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+Inadmissibilidade de apreciação da matéria relativa aos danos morais.
+10. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.903.931/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Ademais, a alteração do decidido no acórdão impugnado, no que se refere à existência de dano moral, cuja indenização foi fixada com base nos princípios da proporcionalidade e da razoabilidade, demanda o reexame de fatos e provas, o que é vedado, em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+No mesmo sentido, cito o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. INDENIZAÇÃO POR DANOS MORAIS COLETIVOS. MAJORAÇÃO. REVISÃO. IMPOSSIBILIDADE.
+SÚMULA 7/STJ.1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o valor a título de danos morais coletivos deveriam ser readequados, considerando a gravidade da infração cometida, o impacto no seio da sociedade, a capacidade econômica das partes recorridas e o caráter pedagógico da medida.
+3. Dessa forma, nos termos da jurisprudência do STJ, A revisão da conclusão alcançada pelo colegiado estadual (acerca da razoabilidade e proporcionalidade do quantum fixado a título de dano moral coletivo) demandaria o revolvimento do acervo fático- probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Precedentes.4. Agravo interno não provido.
+(AgInt no AREsp n. 2.458.250/MT, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/6/2025, DJEN de 4/7/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+CONSUMIDOR E CIVIL. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO VERIFICADA. VEÍCULO SEGURADO. GRAVAME. ALIENAÇÃO FIDUCIÁRIA. PAGAMENTO. INDENIZAÇÃO SECURITÁRIA. NECESSIDADE. SÚMULA N. 83/STJ. DANO MORAL. REVISÃO. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
