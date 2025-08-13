@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO. INDEFERIMENTO NA ORIGEM. AUSÊNCIA DE JULGAMENTO COLEGIADO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se admite o conhecimento de habeas corpus impetrado diretamente nesta Corte Superior quando a matéria não foi apreciada colegiadamente pelo Tribunal de origem, sob pena de indevida supressão de instância.
+2. Não se verifica ilegalidade patente, a justificar a superação do referido óbice, quando a decisão atacada foi proferida com fundamentação adequada e em conformidade com a jurisprudência do Superior Tribunal de Justiça, que admite a detração de períodos de prisão preventiva somente quando não coincidentes com penas já em cumprimento por condenação definitiva.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANTÔNIO FRANCISCO BONFIM LOPES contra decisão monocrática que indeferiu liminarmente habeas corpus impetrado contra ato de Desembargador do Tribunal Regional Federal da 4ª Região.
+A impetração originária visava obter o reconhecimento do direito à detração penal de 886 (oitocentos e oitenta e seis) dias de prisão cautelar, cumpridos pelo agravante em dois processos penais distintos, nos quais posteriormente foi absolvido: 229 dias no processo n.º 0396544-86.2011.8.19.0001 e 657 dias no processo n.º 0359258-06.2013.8.19.0001.
+A decisão da Vara Colegiada de Execução Penal da Seção Judiciária do Paraná indeferiu o pleito de detração, sob o argumento de evitar o cômputo em duplicidade, considerando que, durante os períodos mencionados, o agravante já se encontrava cumprindo pena por outros processos.
+A defesa impetrou a ordem originária pleiteando o referido benefício. A ordem foi indeferida liminarmente pelo Relator (e-STJ fls. 14/18).
+No presente writ, a defesa sustentou que a negativa da detração configura constrangimento ilegal, pois desconsidera período de privação de liberdade ao qual o agravante foi submetido indevidamente, o que implicaria na execução de pena superior àquela efetivamente fixada na condenação.
+Alegou, ainda, que a decisão impugnada viola os princípios da legalidade, da individualização da pena e da dignidade da pessoa humana, e que o habeas corpus é cabível mesmo antes do esgotamento das vias ordinárias, em razão do flagrante constrangimento ilegal.
+O habeas corpus foi indeferido liminarmente sob o fundamento de que não houve julgamento colegiado pelo Tribunal de origem, caracterizando-se, assim, supressão de instância. É a decisão agravada (e-STJ fls. 60/64).
+No presente agravo regimental, a defesa reitera as teses anteriormente expostas, requerendo a reforma da decisão monocrática para que a matéria seja submetida à apreciação colegiada e, ao final, seja concedida a ordem de ofício para reconhecer a detração de 886 dias da pena privativa de liberdade imposta ao agravante.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO. INDEFERIMENTO NA ORIGEM. AUSÊNCIA DE JULGAMENTO COLEGIADO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se admite o conhecimento de habeas corpus impetrado diretamente nesta Corte Superior quando a matéria não foi apreciada colegiadamente pelo Tribunal de origem, sob pena de indevida supressão de instância.
+2. Não se verifica ilegalidade patente, a justificar a superação do referido óbice, quando a decisão atacada foi proferida com fundamentação adequada e em conformidade com a jurisprudência do Superior Tribunal de Justiça, que admite a detração de períodos de prisão preventiva somente quando não coincidentes com penas já em cumprimento por condenação definitiva.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece provimento.
+Consoante consignado na decisão agravada, a matéria ventilada na impetração não foi submetida ao órgão colegiado da Corte a quo, o que impede o conhecimento do habeas corpus diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+De fato, "como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+No caso, a defesa, regularmente intimada, optou por não interpor o recurso cabível contra a decisão da Vara de Execução Penal que indeferiu o pedido de detração, tendo sido certificado o decurso de prazo in albis. Posteriormente, manejou habeas corpus com pretensão de substituição da via recursal própria, o que é vedado pela jurisprudência consolidada dos Tribunais Superiores.
+Ademais, não se vislumbra, no caso concreto, situação de flagrante ilegalidade ou manifesta teratologia a justificar o afastamento da exigência de exaurimento das instâncias ordinárias. A decisão de origem apresenta fundamentação jurídica coerente com a jurisprudência desta Corte, no sentido de que não é possível a detração de períodos já considerados para outro fim, especialmente quando coincidentes com pena já em cumprimento por condenação definitiva.
+De fato, " a  jurisprudência do Superior Tribunal de Justiça admite a detração penal do tempo de prisão processual em outro processo em que o sentenciado foi absolvido ou teve a punibilidade extinta, desde que não haja superposição de períodos". (AREsp n. 2.590.512/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 6/12/2024).
+Nesse contexto, ausente manifesta ilegalidade a justificar a intervenção excepcional desta Corte Superior, impõe-se a manutenção da decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
