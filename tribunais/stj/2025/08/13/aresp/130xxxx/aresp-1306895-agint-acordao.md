@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC. INOCORRÊNCIA. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Na origem, mandado de segurança impetrado pela parte ora agravante, "buscando o provimento jurisdicional no sentido determinar que o impetrado proceda à revisão disciplinar que culminou no licenciamento ex officio, por conveniência do serviço, da parte impetrante por ocasião do curso de formação de soldado da Polícia Militar de Pernambuco ocorrido no ano de 1983.
+2. O Tribunal de origem negou seguimento ao apelo, "por se encontrar em confronto com a jurisprudência dominante do Supremo Tribunal Federal e do Superior Tribunal de Justiça, mantendo todos os termos da decisão de primeiro grau", julgado mantido em sede de agravo interno não conhecido.
+3. Nesta Corte, em sede de reconsideração, decisão da lavra da Ministra Assusete Magalhães que conheceu do agravo para negar provimento ao recurso especial do autor.
+4. A parte agravante, no agravo interno, deixou de impugnar de forma específica, o fundamento da decisão que não conheceu do recurso especial. Incidência da Súmula n. 182 do STJ.
+5. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por IVAN DA SILVA NUNES contra decisão da lavra da Ministra Assusete Magalhães que, em juízo de retratação, conheceu do agravo para negar provimento ao recurso especial (fls. 279-284).
+Nas razões do agravo interno, alega a parte agravante, em síntese, a insubsistência do decisum agravado, pois, além de ter proferido julgamento extra petita, a "incidência do art. 1.021 § 1º do CPC no Agravo na Apelação, não foi conhecida na decisão dos Embargos de Declaração (fls. 199/201e), ou na decisão de Inadmissibilidade do Recurso Especial pelo tribunal de origem (fls. 225-226), também não mencionado pelo recorrido nas contrarrazões dos Embargos, e nas contrarrazões do Recurso Especial e nem tão pouco na recente petição do Agravo Interno de (fls. 264-265), "confirmando assim preclusão consumativa" do Tribunal de Origem e do próprio recorrido" (fl. 299).
+Requer a parte agravante o provimento do agravo, " ..  dando-lhe provimento ao Recurso Especial para determinar à parte Impetrada Comando da Polícia Militar do Estado de Pernambuco, que proceda ao devido processo legal de Revisão de Penalidade da parte recorrente e ao final, remetendo cópias dos autos do procedimento administrativo, e sua decisão ao juízo competente" (fl. 306).
+Apresentada contraminuta ao agravo (fls. 311-314).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC. INOCORRÊNCIA. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Na origem, mandado de segurança impetrado pela parte ora agravante, "buscando o provimento jurisdicional no sentido determinar que o impetrado proceda à revisão disciplinar que culminou no licenciamento ex officio, por conveniência do serviço, da parte impetrante por ocasião do curso de formação de soldado da Polícia Militar de Pernambuco ocorrido no ano de 1983.
+2. O Tribunal de origem negou seguimento ao apelo, "por se encontrar em confronto com a jurisprudência dominante do Supremo Tribunal Federal e do Superior Tribunal de Justiça, mantendo todos os termos da decisão de primeiro grau", julgado mantido em sede de agravo interno não conhecido.
+3. Nesta Corte, em sede de reconsideração, decisão da lavra da Ministra Assusete Magalhães que conheceu do agravo para negar provimento ao recurso especial do autor.
+4. A parte agravante, no agravo interno, deixou de impugnar de forma específica, o fundamento da decisão que não conheceu do recurso especial. Incidência da Súmula n. 182 do STJ.
+5. Agravo interno não conhecido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece conhecimento.
+Inicialmente, esclareço que o art. 1.021, § 1º, do Código de Processo Civil, em harmonia com o princípio da dialeticidade, dispõe que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Na origem, trata-se de mandado de segurança impetrado pela parte ora recorrente, "buscando o provimento jurisdicional no sentido determinar que o impetrado proceda à revisão disciplinar que culminou no licenciamento ex officio, por conveniência do serviço, da parte impetrante por ocasião do curso de formação de soldado da Polícia Militar de Pernambuco ocorrido no ano de 1983" (fl. 80).
+O pleito foi julgado com resolução do mérito e pronunciada a decadência do pedido (fls. 80-81).
+O Tribunal de origem negou seguimento ao recurso de Apelação "..por se encontrar em confronto com a jurisprudência dominante do Supremo Tribunal Federal e do Superior Tribunal de Justiça, mantendo todos os termos da decisão de primeiro grau." (fls. 133-135). Ademais, a Corte a quo também não conheceu do agravo interno (fls. 163-171).
+Nas razões do recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a agravante alega violação ao art. 1.022 do CPC, pela ocorrência de negativa de prestação jurisdicional e omissão no julgado.
+Requer, assim, o provimento do recurso, " ..  ante a nulidade do Acórdão pela negativa de prestação jurisdicional plena, violação aos arts. 5º, XXXV e LV da CF e art. 1.022 CPC, requerendo, também, que os autos retornem ao Colendo TJPE a fim de que outro seja proferido" (fl. 215).
+Sobreveio decisão da Corte a quo, que não admitiu o apelo nobre por ausência de violação do art. 1.022 do CPC e por ser incabível ofensa à Constituição Federal.
+Em sede de reconsideração, decisão da lavra da Ministra Assusete Magalhães que conheceu do agravo para negar provimento ao recurso especial.
+Inicialmente, ao impugnar a decisão, o agravante cingiu-se a afirmar que a decisão foi extra petita, ao aduzir que " ..  Agravo Interno reconsiderado, que não conheceu desse contido, vedação do direito ao contraditório e a ampla defesa, decisão extra pepita, quando defere a prestação pedida com fundamento não invocado nas instancias ordinárias, art. 337, § 5º do CPC (vide: inciso V - perempção)" (fl. 305).
+Nos termos da decisão agravada, não se verifica a alegada ocorrência de negativa de prestação jurisdicional e omissão no julgado, pois o Tribunal de origem apresentou fundamentação concreta apta a dar suporte à sua decisão.
+Nesse sentido, assim decidiu:
+Em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Com efeito, independentemente do acerto ou desacerto do pronunciamento exarado pela Corte Estadual, fato é que o aresto encontra-se lastreado na razão de que não teria havido impugnação específica dos fundamentos do decisum agravado, motivo que obstruiria o conhecimento do Agravo Interno de fls. 138/139e. Não há que se falar, portanto, em lacuna a ser preenchida por parte do Juízo de 2º Grau. (fls. 283).
+Desta feita, tem-se que a parte deixou de impugnar específica e suficientemente o óbice exposto na decisão agravada, e, portanto, incide o enunciado da Súmula n. 182 do STJ, in verbis :"é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE AGRAVADA. SÚMULA 182/STJ. NULIDADE DA INTIMAÇÃO. MATÉRIA QUE NÃO FOI OBJETO DO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Razões de Agravo Interno nas quais não foram impugnados especificamente os fundamentos da decisão agravada, notadamente quanto à incidência das Súmulas 7, 83 do STJ, 282 e 284 do STF, o que, à luz do princípio da dialeticidade, constitui ônus dos Agravantes. Incidência da Súmula 182/STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do CPC/2015.
+2. É vedado à parte inovar nas razões do agravo interno, tendo em vista a ocorrência da preclusão como consequência de a questão não ter sido tratada oportunamente em sede de recurso especial.
+3. Agravo interno não conhecido. (AgInt no AREsp n. 1.850.828/RJ, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022. sem grifo no original)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É o voto.
