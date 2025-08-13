@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por AFONSO PAMPOLHA PINTO JUNIOR (denunciado, no bojo da Operação Criminal Conexão 174, pelos delitos de tráfico de drogas e associação para o tráfico), no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA (Habeas Corpus n. 9001800-20.2025.8.23.0000).
+Alega-se, aqui, constrangimento ilegal decorrente da ausência de fundamentação idônea no decreto prisional, pois não indicados fatos concretos justificadores da prisão.
+Requer-se, no âmbito liminar e no mérito, a concessão da liberdade provisória, com ou sem a aplicação de medidas cautelares alternativas.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada no fato de que o fumus comissi delicti está evidenciado pelos elementos colhidos durante a investigação policial que culminou na "Operação Conexão 174", a qual apura a atuação de uma complexa organização criminosa com atuação interestadual (Roraima, Amazonas e Pará) voltada ao tráfico de entorpecentes e que os crimes imputados são de extrema gravidade, notadamente o de integrar organização criminosa (Lei n. 12.850/13), delito que, por sua própria natureza, pressupõe uma estrutura ordenada e uma alta capacidade de reiteração delitiva, desestabilizando a paz social (fl. 34).
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito.
+Ora, tratando-se de associação criminosa que possui constante atuação, para que se interrompa ou diminua seu desempenho, faz-se necessária a ordem de prisão.
+Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025.
+Ademais, consta dos autos que foram identificadas 192 transações bancárias entre AFONSO e DOUGLAS até abril de 2024, último mês da quebra do sigilo bancário. No período de 01/01/2020 a 30/04/2024 os alvos da quebra de sigilo bancário movimentaram R$ 90.974.458,88 (69.952 transações) a crédito e R$ 45.487.077,89 (25.243) a débito. Infere-se que AFONSO utiliza as contas de sua empresa, a AFS LOCACAO LTDA, para receber e realizar pagamentos referentes ao tráfico de drogas e possivelmente realizar a ocultação dos valores obtidos de forma ilícita (fls. 78/79).
+A movimentação de R$ 90.000.000,00 (noventa milhões de reais) revela uma maior gravidade da conduta, o que também justifica a constrição de liberdade do réu.
+A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+Em face do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
