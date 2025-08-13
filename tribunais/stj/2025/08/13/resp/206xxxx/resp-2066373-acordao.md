@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO PELO CONSELHO DE SENTENÇA. RESPOSTA POSITIVA AO QUESITO GENÉRICO (ART. 483, III, DO CPP). APELAÇÃO DO MINISTÉRIO PÚBLICO. PROVIMENTO PARA ANULAR O JÚRI E DETERMINAR A SUBMISSÃO DO ACUSADO A NOVO JULGAMENTO. POSSIBILIDADE. JULGAMENTO DO TEMA 1.087 DA REPERCUSSÃO GERAL PELO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE TESE OU CIRCUNSTÂNCIA FÁTICA JUSTIFICANTE DA OPÇÃO DOS JURADOS, EM CONSONÂNCIA COM O ENTENDIMENTO DO STF. ILEGALIDADE. AUSÊNCIA.
+Recurso improvido.
+RELATÓRIO
+Trata-se de recurso especial interposto por GEOVANNE ALFERES LOPES DA SILVA, com fundamento na alínea a do permissivo constitucional, contra o acórdão do Tribunal de Justiça de Minas Gerais proferido na Apelação Criminal n. 1.0713.19.0001 65-9/001, assim ementado (fl. 665):
+APELAÇÃO CRIMINAL - JURI - HOMICÍDIO QUALIFICADO - IRRESIGNAÇÃO MINISTERIAL - NULIDADE DO JULGAMENTO - CONTRADIÇÃO ENTRE AS RESPOSTAS DOS QUESITOS - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - OCORRÊNCIA - RECURSO CONHECIDO E PROVIDO.
+1. Imprescindível é a nulidade do julgamento proferido pelo Conselho de Sentença eis que há contradição nas respostas dos quesitos, estando a decisão manifestamente contrária à prova dos autos.
+2. Recurso conhecido e provido.
+Em suas razões recursais, a defesa alega violação dos arts. 187, § 2º, 472, 474, 483, III e § 2º, 593, III, d , e 619, do Código de Processo Penal, e 1.022, caput e I e II, do Código de Processo Civil. Afirma que (i) a tese de absolvição por clemência foi sustentada no julgamento realizado perante o júri popular; (ii) não há contradição nas respostas dos quesitos; (iii) existem elementos probatórios que amparam a absolvição; e (iv) o TJMG não fundamentou adequadamente a decisão.
+Requer seja o presente recurso conhecido e provido, reconhecendo-se a violação à lei federal citada para reformar o acórdão e restabelecer o veredicto proferido pelo Tribunal do Júri, nos termos expostos acima. Subsidiariamente, requer seja o presente recurso conhecido e provido, reconhecendo-se a violação à lei federal citada para determinar o retorno dos autos ao Tribunal de Justiça de Minas Gerais com o fim de proceder a novo julgamento dos embargos de declaração, de modo a adentrar na tese defensiva, suprindo a omissão e afastando a obscuridade apontada (fl. 739).
+Ofertadas contrarrazões (fls. 743/746), a Corte de origem admitiu o apelo (fls. 747/749).
+O Ministério Público Federal opinou, às fls. 762/764, pelo não provimento do recurso, nos termos da seguinte ementa:
+PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. DECISÃO ABSOLUTÓRIA DO JÚRI CONTRÁRIA À PROVA DOS AUTOS. POSSIBILIDADE DE REVISÃO PELO TRIBUNAL DE JUSTIÇA. NEGATIVA DE AUTORIA. ÚNICA TESE DEFENSIVA. RESPOSTA AFIRMATIVA AO QUESITO GENÉRICO. CONTRADIÇÃO.
+Pelo não provimento do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO PELO CONSELHO DE SENTENÇA. RESPOSTA POSITIVA AO QUESITO GENÉRICO (ART. 483, III, DO CPP). APELAÇÃO DO MINISTÉRIO PÚBLICO. PROVIMENTO PARA ANULAR O JÚRI E DETERMINAR A SUBMISSÃO DO ACUSADO A NOVO JULGAMENTO. POSSIBILIDADE. JULGAMENTO DO TEMA 1.087 DA REPERCUSSÃO GERAL PELO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE TESE OU CIRCUNSTÂNCIA FÁTICA JUSTIFICANTE DA OPÇÃO DOS JURADOS, EM CONSONÂNCIA COM O ENTENDIMENTO DO STF. ILEGALIDADE. AUSÊNCIA.
+Recurso improvido.
+VOTO
+O recurso não comporta provimento.
+Pelo que se extrai do acórdão impugnado, houve contradição na resposta dada ao 3º quesito do Termo de Votação pelo Tribunal do Júri em sessão realizada em 0610212020. Os jurados ao responderem o primeiro e o segundo quesitos, reconheceram que a vítima foi atingida por disparos de arma de fogo, que foram a causa de sua morte, sendo o apelado o autor dos disparos. i. Estes, todavia, ao responderem o terceiro quesito acabaram por absolvê-lo da imputação. A contradição entre as respostas correspondentes aos quesitos é assim evidente vez que as teses sustentadas pela defesa em plenário foram a de negativa de autoria ou alternativamente o afastamento da qualificadora ou a desclassificação para homicídio simples. Não havendo, portanto, qualquer outra tese defensiva que levasse à absolvição, não poderia o Conselho de Sentença, após reconhecer que o apelado praticou o crime, absolvê-lo (fls. 667/668).
+Essa compreensão encontra amparo na jurisprudência mais recente do Supremo Tribunal Federal.
+Com efeito, no dia 2/10/2024, ao julgar o Recurso Extraordinário com Agravo (ARE) n. 1.225.185, de relatoria do Ministro Gilmar Mendes, a Corte Suprema firmou o Tema 1.087 da repercussão geral, com a seguinte tese (grifo nosso):
+É cabível recurso de apelação, com base no art. 593, III, d, do Código de Processo Penal, nas hipóteses em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos.
+O Tribunal de Apelação não determinará novo júri quando tiver ocorrido apresentação constante em ata de tese conducente à clemência ao acusado, e esta for acolhida pelos jurados, desde que seja compatível com a Constituição, com os precedentes vinculantes do Supremo Tribunal Federal e com as circunstâncias fátic as apresentadas nos autos.
+Na espécie, conforme salientado pela Corte a quo, observa-se que não existe nenhuma tese ou circunstância fática justificadora da opção dos jurados pela clemência, capaz de obstar a apelação do órgão da acusação, em consonância com o entendimento do Supremo Tribunal Federal.
+Para se alcançar conclusão contrária, seria necessário o revolvimento fático-probatório, providência vedada em sede de recurso especial, considerando o óbice da Súmula n. 7/STJ.
+Por fim, quanto à alegação de que a clemência teria sido requerida em plenário, verifica-se que, conforme assentado pelo Tribunal de origem, após minuciosa análise do acervo probatório, as circunstâncias fáticas do caso concreto não autorizariam o acatamento de tal tese. A propósito , confira-se: AREsp n. 2.761.475/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025; AgRg no AREsp n. 2.233.518/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 13/5/2025, DJEN de 19/5/2025).
+Inexiste, pois, ilegalidade a ser reparada.
+Ante o exposto, nego provimento ao recurso.
