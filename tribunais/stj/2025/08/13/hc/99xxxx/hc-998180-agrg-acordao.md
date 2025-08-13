@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ROUBO SIMPLES. NULIDADE. SUPRESSÃO DE INSTÂNCIA. PREJUÍZO NÃO DEMONSTRADO. IMPETRAÇÃO SUCESSIVA DE DIFERENTES WRITS. FRACIONAMENTO RECHAÇADO PELA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+1. Caracteriza indevida supressão de instância a impetração que tem como objeto matéria não levada a conhecimento da autoridade impetrada e que não foi objeto de análise pelo ato apontado como coator.
+2. Não se reconhece nulidade quando não há demonstração do prejuízo, e quando a matéria não tenha sido arguida oportunamente.
+3. A violação do princípio da unirrecorribilidade e o evidente fracionamento de pedidos são procedimentos refutados por esta Corte Superior de Justiça, por representar verdadeiro tumulto processual e ferir os deveres de ética e lealdade processuais. Duplicidade de habeas corpus impetrados, além da interposição de recurso especial contra a mesma decisão judicial para o questionamento de matérias distintas representa reprovável estratégia defensiva, sobretudo quando a questão suscitada não foi submetida, primeiro, ao Tribunal de origem.
+4. A pretendida absolvição por insuficiência probatória é impossível na via eleita, que não admite o revolvimento de fatos e de provas considerados pelas instâncias ordinárias.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DIEGO RAMOS DE OLIVEIRA contra a decisão monocrática que indeferiu liminarmente o pedido de habeas corpus, conforme esta ementa (fl. 106):
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. FRACIONAMENTO DE PEDIDOS. ROUBO SIMPLES. ABSOLVIÇÃO. NULIDADE NA PRODUÇÃO DE PROVA. PRECLUSÃO. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+Petição inicial indeferida liminarmente.
+Pretende o agravante, em síntese, a reforma da decisão combatida, para que seja conhecido o habeas corpus. Alega que não há falar em fracionamento de pedidos, violação do princípio da unirrecorribilidade ou supressão de instância. Sustenta não haver necessidade de revolvimento do conjunto fático-probatório (fls. 113/117).
+Não abri prazo para contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ROUBO SIMPLES. NULIDADE. SUPRESSÃO DE INSTÂNCIA. PREJUÍZO NÃO DEMONSTRADO. IMPETRAÇÃO SUCESSIVA DE DIFERENTES WRITS. FRACIONAMENTO RECHAÇADO PELA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+1. Caracteriza indevida supressão de instância a impetração que tem como objeto matéria não levada a conhecimento da autoridade impetrada e que não foi objeto de análise pelo ato apontado como coator.
+2. Não se reconhece nulidade quando não há demonstração do prejuízo, e quando a matéria não tenha sido arguida oportunamente.
+3. A violação do princípio da unirrecorribilidade e o evidente fracionamento de pedidos são procedimentos refutados por esta Corte Superior de Justiça, por representar verdadeiro tumulto processual e ferir os deveres de ética e lealdade processuais. Duplicidade de habeas corpus impetrados, além da interposição de recurso especial contra a mesma decisão judicial para o questionamento de matérias distintas representa reprovável estratégia defensiva, sobretudo quando a questão suscitada não foi submetida, primeiro, ao Tribunal de origem.
+4. A pretendida absolvição por insuficiência probatória é impossível na via eleita, que não admite o revolvimento de fatos e de provas considerados pelas instâncias ordinárias.
+5. Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar, porquanto o agravante não conseguiu infirmar os fundamentos adotados na decisão de fls. 106/108, deste teor, a qual confirmo:
+Após o ajuizamento do HC n. 991.531/SP (no qual concedi a ordem para restabelecer o regime inicial semiaberto, imposto pelo Juízo de Direito da 3ª Vara Criminal da comarca de São José dos Campos/SP na Ação Penal n. 1500683-23.2021.8.26.0617) e enquanto ainda em andamento nesta Casa o AREsp n. 2.265.310/SP, a defesa vem novamente ao Superior Tribunal de Justiça apontar constrangimento ilegal decorrente do julgamento pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO da respectiva apelação criminal.
+Agora alega que a condenação foi fundamentada em provas não produzidas, especificamente vídeos das câmeras de segurança que foram mencionados, mas nunca juntados aos autos, apesar de terem sido solicitados pelo Ministério Público, pela defesa e pelo próprio juízo. Argumenta que a não juntada das imagens configura nulidade processual, contaminando o decreto condenatório.
+Pede a concessão da ordem para reconhecer a nulidade processual e a consequente absolvição do paciente por insuficiência probatória.
+É nítido o descabimento da via eleita.
+Com efeito, a interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa. (AgRg no RHC n. 162.232/RS, Ministro João Otávio de Noronha, Quinta Turma, DJe 13/5/2022).
+A defesa já havia apresentado agravo em recurso especial na causa principal, seguido de agravo regimental, embargos de declaração, recurso extraordinário e outro agravo regimental e de agravo em recurso extraordinário, todos sem sucesso até o momento. Além disso, impetrou recentemente outro habeas corpus nesta Corte, sem abordar a tese agora formulada.
+Assim, houve evidente fracionamento de pedidos em oportunidades diversas pela Defesa, procedimento igualmente refutado por esta Corte Superior de Justiça, por representar verdadeiro tumulto processual e ferir os deveres de ética e lealdade processuais (AgRg no HC n. 760.334/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe 5/3/2024).
+Sem contar que o acórdão impugnado não se manifestou a respeito da nulidade ora suscitada. Assim, o exame da alegação importaria indevida supressão de instância.
+Ora, admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir (AgRg no HC n. 818.673/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023).
+Também é da nossa jurisprudência que eventuais nulidades, absolutas ou relativas, devem ser aduzidas em momento oportuno, sob pena de preclusão. Ainda, a jurisprudência do STJ rechaça a "nulidade de algibeira", caracterizada pela insurgência tardia da defesa, como estratégia processual, mesmo após a ciência de eventual vício (AgRg no AREsp n. 2.308.250/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 8/3/2024).
+Afora isso, pretensão de absolvição não se compatibiliza com a estreita via do habeas corpus, que não admite o reexame do conjunto fático-probatório da ação penal para se rediscutir a existência do crime imputado.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Por outro lado, há que se acrescentar a inexistência de ilegalidade flagrante e de prejuízo à defesa, haja vista que a decisão condenatória faz mera referência à existência de filmagens, mas não se ampara nelas - até porque não vieram aos autos. A condenação foi lastreada em ampla análise da prova testemunhal, laudo pericial, prisão em flagrante, confissão extrajudicial na presença de advogada, além de apreensão de bens (vestimentas usadas no momento do crime e identificadas por testemunhas; além de dinheiro - fls. 17/23).
+Ainda, da leitura do acórdão, percebe-se claramente que a defesa não provocou o Tribunal recorrido a manifestar-se sobre o tema, daí a supressão de instância já mencionada na decisão recorrida.
+Finalmente, nem sequer há nos autos deste writ - que pressupõe prova documental pré-constituída - demonstração de que tenha a defesa protestado, oportunamente, pela inexistência das imagens nos autos.
+Ante o exposto, nego provimento ao agravo regimental.
