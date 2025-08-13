@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de WALFRIDO NELSON DE BRITO, alegando constrangimento ilegal por parte do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no bojo da Apelação Criminal n.º 1501699-79.2022.8.26.0066.
+Vê-se dos autos que o paciente foi condenado pela prática do crime previsto no artigo 12, caput, da Lei n.º 10.826/03, c.c. o artigo 17, inciso I, do R-105, anexo ao Decreto n.º 3.665/2000, à pena de 01 (um) ano de detenção e 10 (dez) dias-multa, fixados no mínimo legal, em regime inicial aberto, sendo a pena privativa de liberdade substituída por prestação de serviços à comunidade, posteriormente convertida em prestação pecuniária, por força do acórdão recorrido.
+Sustenta o impetrante a nulidade da busca e apreensão domiciliar, afirmando ter havido violação à inviolabilidade de domicílio em razão do cumprimento do mandado em horário noturno, sem o consentimento válido do paciente, que é trabalhador rural, com 62 (sessenta e dois) anos de idade, analfabeto funcional e sem conhecimento de seus direitos. Alega que a diligência policial teria se iniciado por volta das 03h da madrugada, em desconformidade com o disposto no artigo 245 do Código de Processo Penal e no artigo 5º, inciso XI, da Constituição Federal. Defende, assim, a ilicitude das provas obtidas e, por consequência, a absolvição do paciente por ausência de provas válidas.
+Subsidiariamente, requer o reconhecimento da atipicidade da conduta, sob o argumento de que as armas encontradas estavam desmuniciadas e sem possibilidade de pronto uso, não representando risco à ordem pública. Requer ainda, caso mantida a condenação, a unificação dos autos com o processo de n.º 1501281-44.2022.8.26.0066, que apura crime de homicídio, em razão da suposta conexão entre os fatos.
+Requer liminarmente a suspensão dos efeitos da condenação e, no mérito, a concessão da ordem para declarar a nulidade da busca domiciliar, com a consequente absolvição do paciente, nos termos do artigo 386, inciso II, do Código de Processo Penal; ou, alternativamente, a absolvição por atipicidade da conduta, nos moldes do inciso III do mesmo dispositivo; ou, ainda, a unificação dos processos mencionados.
+O pedido liminar foi indeferido (fl. 373) pelo e. Ministro Relator, ao fundamento de que a análise da tese absolutória demanda revolvimento fático-probatório, incabível na via eleita, sendo necessário aguardar o exame definitivo do mérito.
+Foram prestadas as informações pelas autoridades apontadas como coatoras (fls. 380/386).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, no mérito, pela denegação da ordem (fls. 402/406)
+É o relatório.
+DECIDO.
+Não é passível de conhecimento a impetração.
+A matéria tratada neste writ foi ventilada perante esta Corte Superior pela via recursal, no bojo do AREsp n. 2778457/SP.
+Sobre o tema, o entendimento desta Corte é de que " e m atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus para tratar de máculas já suscitadas em recurso especial  .. " (AgRg no HC n. 573.510/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/8/2020).
+Observe-se que " o  habeas corpus é incognoscível, pois a referida ação constitucional não pode ser utilizada para a superação de óbices relacionados ao juízo de admissibilidade de recurso especial e extraordinário" (AgRg no HC n. 892.946/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+Ademais, não há que se falar em ilegalidade flagrante apta a superar o óbice em questão - tanto que não concedido de ofício quando da apreciação recursal mencionada.
+Ante o exposto, não conheço do habeas corpus.
+EMENTA
