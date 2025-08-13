@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S/A, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/2/2025.
+Concluso ao gabinete em: 6/8/2025.
+Ação: Cumprimento provisório de sentença - Tratamento médico-hospitalar ajuizada por RAIMUNDO FERREIRA PIRES em face de NOTRE DAME INTERMÉDICA SAÚDE S/A, visando o custeio de procedimentos cirúrgicos necessários ao tratamento de hidrocefalia de pressão normal, conforme prescrição médica.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento provisório de sentença apresentada pela agravante, mantendo a exigência de multa por descumprimento da obrigação de fazer, no valor de R$ 100.000,00 (cem mil reais).
+Acórdão: negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+"Agravo de instrumento. Cumprimento de sentença provisório. Recurso contra a decisão que rejeitou a impugnação, pleiteando a extinção da multa cominatória ou sua redução. Descumprimento da obrigação imposta que autoriza a execução da multa cominatória. Procedimento que somente foi realizado mediante constrição de ativos financeiros da executada. Tutela de urgência deferida para autorizar a realização de procedimento cirúrgico denominado "derivação ventricular", sob pena de multa diária de R$ 10.000,00, limitada a R$ 100.000,00. Compatibilidade com a natureza da obrigação e princípios da razoabilidade e proporcionalidade. Multa que chegou ao patamar máximo ante a resistência da parte em atender o comando judicial. Impossibilidade de redução. Impugnação bem rejeitada. Levantamento do depósito condicionado ao trânsito em julgado. Decisão mantida. Recurso desprovido."
+Recurso especial: alega violação dos arts. 884 do CC e 537 do CPC. Sustenta que não houve descumprimento da determinação judicial e que a multa aplicada é excessiva, configurando enriquecimento ilícito da parte contrária. Argumenta pela necessidade de revisão da decisão para evitar enriquecimento sem causa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, quanto ao cabimento e adequação da multa e a proporcionalidade de seu valor com o danos sofrido, não guarda acolhimento no entendimento pacificado desta Corte Superior de Justiça, de que a razoabilidade e a proporcionalidade das "astreintes" deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor.
+E considerando que as circunstância fáticas do caso analisadas pela Corte de origem, soberana na análise das provas dos autos, quanto ao efetivo descumprimento da obrigação, sem apresentação de qualquer justificativa, a fixação da multa em R$ 10.000,00 (dez mil reais) diários, limitada a R$ 100.000,00 (cem mil reais), não se mostra exorbitante e a redução do valor fixado mostra-se inviável. Isso porque o exame da compatibilidade do valor da penalidade e o bem jurídico tutelado foi feito na esfera do conjunto fático probatório dos autos, sendo vedada sua revisão na estreita via do recurso especial.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. PLANO DE SAÚDE. COBERTURA DE CIRURGIA E MATERIAIS NECESSÁRIOS. ASTREINTES. VALOR DA MULTA. REVISÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cumprimento provisório de sentença.
+2. A alteração da conclusão dos juízos de origem e o consequente acolhimento da tese recursal que pleiteia a redução do valor das astreintes demandariam o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Tal óbice, conforme assentado por esta Corte Superior, somente comporta temperamentos quando se trata de valor manifestamente irrisório ou exorbitante, o que não se verifica no particular.
+3. Agravo conhecido. Recurso especial não conhecido.
