@@ -1,0 +1,10 @@
+DECISÃO
+Às fls. 1055-1062, requer o recorrente seja sobrestado o andamento do recurso especial até que sejam apreciados os embargos de declaração opostos em face da decisão que não admitiu o recurso extraordinário interposto para impugnar o acórdão lavrado pela instância inferior.
+Sem razão, contudo.
+Entende a jurisprudência desta Corte Superior que "o único recurso cabível da decisão da origem que inadmite recurso especial é o agravo em recurso especial. Excepcionalidade do cabimento dos embargos de oposição ante decisão teratologicamente omissa, contraditória ou obscura" (AgInt no AREsp 2525780 / RS, Segunda Turma, Rel. Ministro AFRÂNIO VILELA, DJEN 19/02/2025).
+Da mesma forma, a jurisprudência Suprema Corte "é pacífica no sentido de que os embargos de declaração opostos contra decisão em que o Presidente do Tribunal de origem não admite o recurso extraordinário, por serem incabíveis, não suspendem ou interrompem o prazo para a interposição do agravo" (ARE 688776 ED, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 28/11/2017, PROCESSO ELETRÔNICO DJe-082 DIVULG 26-04-2018 PUBLIC 27-04-2018).
+Desse modo, como bem pontuado pelo Parquet (fl. 1069), "ainda que sejam excepcionalmente apreciados referidos aclaratórios, não há que se falar em suspensão do trâmite regular do presente recurso especial, mormente quando já reconhecida a intempestividade do recurso extraordinário pelo Tribunal de origem (e-STJ, fls. 2021)".
+Ademais, de rigor consignar que, em regra, interpostos recursos especial e extraordinário em face do mesmo acórdão, os autos serão remetidos a esta Corte Superior em um primeiro momento, sendo certo que, apenas concluído o julgamento do recurso especial, os autos serão remetidos ao Supremo Tribunal Federal para apreciação do recurso extraordinário, se este não estiver prejudicado (art. 1031, caput e §1º, do CPC), não havendo fundamento jurídico para a suspensão pretendida .
+Ante o exposto, indefiro o requerimento de fls. 1055-1062.
+Publique-se. Intimem-se.
+EMENTA
