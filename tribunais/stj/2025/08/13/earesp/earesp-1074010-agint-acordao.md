@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. AGRAVO NÃO PROVIDO.
+1. A ausência de similitude fática entre os julgados embargado e paradigma impede a configuração de divergência jurisprudencial.
+2. Não há como admitir os embargos manejados, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas no juízo de admissibilidade da apelação.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de embargos de divergência opostos por BANCO BRADESCO S. A. (BRADESCO), na demanda em que contende com MILOCA SCHAKER ENGENHO ROSINA e outro (MILOCA e outro), contra o acórdão prolatado pela Quarta Turma do STJ, da relatoria da Ministra MARIA ISABEL GALLOTTI, assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREQUESTIONAMENTO. ART. 884 DO CC. NÃO OCORRÊNCIA. SÚMULA 211/STJ. ENRIQUECIMENTO SEM CAUSA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ABUSIVIDADE DOS ENCARGOS. AFASTAMENTO DA MORA. SÚMULA 83/STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. RATIFICAÇÃO DE RECURSO APÓS EMBARGOS DE DECLARAÇÃO. SÚMULA 579/STJ. REVELIA QUE NÃO INDUZ PROCEDÊNCIA DO PEDIDO. PRINCÍPIO DO CONVENCIMENTO MOTIVADO DO JULGADOR. REVISÃO DE HONORÁRIOS. RÉU QUE SE MANTEVE ATIVO NOS AUTOS. EQUIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Óbice da Súmula 211/STJ.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pela decisão recorrida, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior. Óbice da súmula 284/STF.
+3. "O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora" (R Esp. 1.061.530 -RS, Rel. Ministra Nancy Andrighi, Segunda Seção, D Je de 10/3/2009). Óbice da Súmula 83/STJ.
+4. A limitação dos juros remuneratórios no caso concreto e o afastamento da mora exigiriam o reexame dos fatos, das provas e das cláusulas do contrato celebrado pelas partes. Óbice da Súmula 7/STJ.
+5. "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior" (Súmula 579/STJ).
+6. A caraterização da revelia não induz a uma presunção absoluta de veracidade dos fatos narrados pelo autor, permitindo ao juiz que, para formar o seu convencimento, analise as alegações formuladas pelas partes em confronto com as provas constantes dos autos (AgRg no REsp 1342255/5P, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 11/3/2016).
+7. A revisão dos critérios de equidade utilizados pelas instâncias de origem para a fixação dos honorários advocatícios é vedada no âmbito do recurso especial (Súmula 7/STJ).
+8. Conforme precedente desta Corte Superior, "havendo revelia e sagrando-se vencedor o réu, é descabida a condenação em honorários (precedentes). Regra que não se aplica se a parte, apesar de não ter apresentado contestação, atuou posteriormente nos autos" (REsp n. 779.515/MG, Relatora a Ministra Eliana Calmon, Segunda Turma, julgado em 27/6/2006, DJ 3/8/2006, p. 260).
+9. Agravo interno a que se nega provimento (e-STJ, fls. 3.399/3.400).
+Opostos embargos de declaração por BRADESCO foram eles acolhidos, com efeitos modificativos para, à luz do disposto no art. 406 do CC, aplicar o índice da Taxa SELIC, não cumulada com correção monetária, para o período de mora do devedor (e-STJ, fls. 3.460/3.461).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a dissenso quanto a necessidade de ratificação da apelação interposta na pendência dos embargos de declaração quando houver alteração na conclusão do julgamento anterior, sob pena de ser considerada extemporânea.
+O embargante citou como paradigma o acórdão Terceira Turma prolatado no AgInt no REsp nº 1.599.329/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, j. em 16.2.2017 (e-STJ, fls. 3.488/3.567).
+Os embargos de divergência foram rejeitados liminarmente em razão da ausência de similitude fática entre os acórdãos confrontados (e-STJ, fls. 3.572/3.575).
+Contra essa decisão foi interposto o presente agravo interno por BRADESCO sustentando que (1) o acórdão paradigma trata de questão idêntica ao acórdão dos autos, ambos abordando a necessidade de ratificação da apelação interposta na pendência dos embargos de declaração quando houver alteração na conclusão do julgamento anterior; (2) a decisão agravada é nula por ausência de fundamentação, pois não explicou minimamente o motivo pelo qual o acórdão paradigma não possuiria semelhança fática-processual com o acórdão objeto dos embargos de divergência; e (3) o acórdão embargado diverge do entendimento consolidado pela Corte Especial do STJ no julgamento da Questão de Ordem no REsp nº 1.129.215/DF, que decidiu ser necessária a ratificação da tese recursal proposta na pendência de embargos de declaração quando o seu acolhimento acarreta na modificação do julgado (e-STJ, fls. 3.579/3.596).
+A impugnação foi apresentada por MILOCA e outros às e-STJ, fls. 3.599/3.614.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. AGRAVO NÃO PROVIDO.
+1. A ausência de similitude fática entre os julgados embargado e paradigma impede a configuração de divergência jurisprudencial.
+2. Não há como admitir os embargos manejados, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas no juízo de admissibilidade da apelação.
+3. Agravo interno não provido.
+VOTO
+O agravo interno não merece provimento.
+Cinge-se a controvérsia a dirimir suposto dissenso entre as Turmas que compõem a Segunda Seção do STJ quanto a necessidade de ratificação da apelação interposta na pendência dos embargos de declaração quando houver alteração na conclusão do julgamento anterior, sob pena de ser considerada extemporânea.
+Os embargos de divergência foram rejeitados liminarmente diante da ausência de similitude fática entre os acórdãos confrontados.
+É contra essa decisão o inconformismo agora manejado, que não trouxe nenhum elemento apto a infirmar as conclusões da decisão unipessoal.
+A divergência viabilizadora dos embargos não ficou configurada, diante da ausência de similitude fática.
+O acórdão da Quarta Turma manteve as conclusões do Tribunal de origem inalteradas ao concluir que ocorreu a ratificação da apelação, uma vez que constou expressamente de decisão proferida pelo julgador de primeira instância que o silêncio seria tido como ratificação do recurso.
+Confira-se trecho do acórdão embargado:
+ ..
+Quanto à necessidade de ratificação do recurso na hipótese de modificação da decisão recorrida, O CPC/2015, no parágrafo 5º do artigo 1.024, prevê que "se os embargos de declaração forem rejeitados ou não alterarem a conclusão do julgamento anterior, o recurso interposto pela outra parte antes da publicação do julgamento dos embargos de declaração será processado e julgado independentemente de ratificação".
+Ou seja: o CPC/2015 dispensa a ratificação do recurso se os embargos de declaração forem rejeitados ou não alterarem a conclusão do julgamento anterior.
+O STJ, a fim de adequar o seu entendimento às diretrizes do novo código processualista, cancelou o enunciado da Súmula 418 e, no julgamento de Questão de Ordem no Resp n. 1.129.215/DF, consolidou que: "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior" (Súmula 579/STJ).
+O caso concreto, porém, comporta distinção. Houve, na hipótese dos autos, alteração no termo inicial da contagem dos juros de mora em razão dos embargos de declaração opostos pelas partes.
+A ratificação da apelação, entretanto, restou operada. O Tribunal de origem concluiu que, ao constar expressamente de decisão proferida pelo julgador de primeira instância que o silêncio seria tido como ratificação da apelação, esta teria sido observada (fl. 2826/2827, e-STJ) (e-STJ, fls. 3.406/3.407 - sem destaque no original).
+O acórdão paradigma, por sua vez, aplicou a tese de que é necessária a ratificação das razões recursais proposta na pendência de embargos de declaração quando o seu acolhimento acarreta a modificação do julgado, sem adentrar nas especificidades do caso concreto.
+Desse modo, verifica-se que enquanto o acórdão embargado manteve inalteradas as conclusões do Tribunal estadual ao concluir que ocorreu a ratificação da apelação, uma vez que constou expressamente da decisão proferida pelo julgador de primeira instância que o silêncio seria tido como ratificação do recurso, o acórdão paradigma não analisou o processo com tal especificidade.
+Não há, portanto, similitude fática entre o acórdão embargado e o julgado paradigma.
+O conhecimento dos embargos de divergência pressupõe a existência de similitude das circunstâncias fáticas e do direito aplicado nos acórdãos recorrido e paradigma (EREsp 1.440.780/RJ, Rel. Ministro RAUL ARAÚJO, Segunda Seção, j. 11/5/2016, DJe 27/5/2016). O recurso, de fato, não merece prosperar.
+Eis precedente da Corte Especial sobre o tema:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS. AUSÊNCIA DE COTEJO ANALÍTICO. HONORÁRIOS ADVOCATÍCIOS. DISCUSSÃO SOBRE IRRISORIEDADE OU EXORBITÂNCIA. NÃO CABIMENTO.
+1. A divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+2. Os embargos de divergência, caracterizados como recurso de fundamentação vinculada, devem, necessariamente, demonstrar o confronto de teses entre o acórdão embargado e aquele apontado como paradigma, não sendo possível sua interposição com o intuito de mera rediscussão do quanto já decidido em recurso especial.
+3. Nos termos da jurisprudência pacificada do Superior Tribunal de Justiça, não há como admitir os embargos manejados, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas na fixação do valor dos honorários advocatícios, o que não autoriza a abertura da presente via, uma vez que a aferição da razoabilidade ou não do quantum fixado está intrinsecamente atrelada à análise das particularidades de cada caso concreto. Precedentes. Agravo interno improvido.
+(AgInt nos EREsp n. 1.686.779/PE, relator Ministro Humberto Martins, Corte Especial, julgado em 11/2/2025, DJEN de 14/2/2025 - sem destaque no original)
+Ressalte-se que a Corte Especial firmou o entendimento de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Portanto, não se verificou dissenso de entendimento entre as Turmas que compõem a Segunda Seção. Se a norma legal foi bem ou mal aplicada pela Quarta Turma do STJ no caso concreto, isso refoge completamente aos escopos dos embargos de divergência.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
