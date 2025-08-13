@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILSON ALVES DE OLIVEIRA, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o ora recorrente foi condenado, pelo Tribunal de origem, à pena de 10 (dez) anos e 9 (nove) meses de reclusão, em regime inicial fechado, pela prática dos crimes de homicídio e porte ilegal de arma de fogo de uso restrito (arts. 121, caput, do CP, e 16, IV da Lei 10.826/03).
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação ao artigo 59 do Código Penal.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+É o relatório. DECIDO.
+As circunstâncias do crime tratam da avaliação dos elementos não definidos na lei penal, mas que ajudam a delinear as singularidades do fato. Neste conjunto, incluem-se o modus operandi e o estado de ânimo do agente, a duração dos eventos criminosos, dentre outros fatores. No caso destes autos, restou pontuado pelo Tribunal de origem que: "Ocorre que, ultrapassado o juízo de tipicidade e realizado o julgamento pelo Tribunal do Júri, se evidenciado que houve uso de arma branca e sucessivos golpes que causaram sofrimento desnecessário à vítima, ou seja, além daquele inerente à consumação do crime, essas circunstâncias devem ser consideradas como vetor valorativo, porquanto exsurgiram do conjunto probatório" (fls. 1.103-1.106).
+Tal compreensão não destoa daquilo que esta Corte tem considerado no momento de avaliar a pertinência da elevação da pena quanto ao vetor ora em análise, uma vez que a descrição dos fatos ilustra a gravidade concreta do delito. Deve ser mantida a análise negativa dessa vetorial.
+A propósito, "no que se refere às circunstâncias do delito, essas possuem relação com o modus operandi veiculado no evento criminoso. O magistrado valorou esta circunstância de forma negativa, explicitando o modo como o crime foi praticado, em via pública, durante um evento da polícia, com a inauguração de uma escola e participação de várias crianças, pelo que a decisão deve ser mantida na sua integralidade" (AgRg no AREsp n. 637.724/MT, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/09/2018).
+Ademais, a título de reforço argumentativo, não merece acolhida o pleito de revisão da dosimetria da pena, tendo em vista que "a dosimetria da pena está inserida no âmbito de discricionariedade regra da do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
