@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. GARANTIA DO JUÍZO. EXTINÇÃO SEM APRECIAÇÃO DO MÉRITO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS SOBRE OS QUAIS HÁ INTERPRETAÇÃO JUDICIAL DIVERGENTE. SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. As razões do recurso especial não indicaram o dispositivo de lei federal supostamente violado ou cuja vigência teria sido negada, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF. Cabe ressaltar que a simples menção a artigos de lei ou a dissertação sobre atos normativos não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ACRIRESINAS INDÚSTRIA, BENEFICIAMENTO E COMÉRCIO DE RESINA ACRÍLICA LTDA., às fls. 248-252, contra a decisão do Presidente do STJ que não conheceu do agravo em recurso especial.
+Na referida decisão, o Ministro Presidente do STJ relatou que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, trazendo apenas dispositivos constitucionais. O STJ já decidiu ser incabível o recurso especial que visa discutir violação de norma constitucional, pois é matéria própria do apelo extraordinário para o Supremo Tribunal Federal, conforme precedentes mencionados (fls. 242-243).
+No presente agravo interno, a parte agravante, em síntese, argumenta que cumpriu todos os requisitos legais para o recurso especial, incluindo a apresentação de decisão paradigmática e o cotejo analítico necessário (fls. 248-252).
+A parte agravada não apresentou resposta ao agravo interno.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. GARANTIA DO JUÍZO. EXTINÇÃO SEM APRECIAÇÃO DO MÉRITO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS SOBRE OS QUAIS HÁ INTERPRETAÇÃO JUDICIAL DIVERGENTE. SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. As razões do recurso especial não indicaram o dispositivo de lei federal supostamente violado ou cuja vigência teria sido negada, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF. Cabe ressaltar que a simples menção a artigos de lei ou a dissertação sobre atos normativos não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso.
+2. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Nos termos da decisão ora agravada, o recurso especial não foi conhecido tendo em vista a seguinte fundamentação (fl. 242):
+Por meio da análise do recurso de ACRIRESINAS IND BEN E COMERCIO DE RESINA ACRILICA LTDA, verifica-se que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, trazendo apenas dispositivos constitucionais.
+O STJ já decidiu ser incabível o Recurso Especial que visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos ER Esp 1.544.786/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, D Je de 16.6.2020.)
+Com efeito, conforme assinalado na decisão ora agravada, as razões do recurso especial não indicaram claramente o dispositivo de lei federal cuja interpretação seria controvertida entre tribunais diversos, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: AgInt nos EDcl no AREsp n. 2.165.721/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgInt no AREsp n. 2.087.834/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.
+Cabe ressaltar que a simples menção a artigos de lei ou a dissertação sobre atos normativos não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso.
+No mesmo sentido: AgInt no A REsp 2.465.638/SP, Segunda Turma, relator Ministro Teodoro Silva Santos, julgado em 29/04/2024, DJe de 07/05/2024; AgInt no REsp n. 1.984.814/CE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/5/2024, DJe de 29/5/2024; e AgInt no AREsp n. 2.637.849/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/10/2024, DJe de 17/10/2024.
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
