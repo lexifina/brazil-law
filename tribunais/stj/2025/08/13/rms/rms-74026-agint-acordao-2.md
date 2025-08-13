@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SOLDADO DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES DA PROVA OBJETIVA. AUTORIDADE COATORA. ILEGITIMIDADE AFASTADA. ARGUMENTOS TRAZIDOS NO AGRAVO INTERNO NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE. SUPRESSÃO DE INSTÂNCIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Os argumentos trazidos no agravo interno não foram apreciados pelo Tribunal de origem, o que torna inviável a sua análise pelo STJ. Não é possível a esta Corte debruçar-se sobre matéria não enfrentada pelo juízo a quo, sob o risco de supressão de instância.
+2.  Agravo  interno  não conhecido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, agravo interno interposto por FÁBIO DE SOUZA LIMA contra decisão que deu provimento ao recurso ordinário para afastar a ilegitimidade da autoridade coatora e determinar o retorno dos autos à Corte de origem, a fim de que prossiga no julgamento do feito.
+O acórdão proferido pela Corte de origem foi assim ementado (fls. 58-59):
+Agravo Interno em Mandado de Segurança. Concurso CFSd 2014. Alegado ato coator praticado pelo Secretário de Estado da Polícia Militar. Impetrante que pretende obter a pontuação decorrente da anulação, em demandas judiciais individuais, de 3 (três) questões da prova objetiva de história. Pedido administrativo indeferido diante, essencialmente, (i) da responsabilidade da banca organizadora pelas provas aplicadas, (ii) da intempestividade do requerimento administrativo fundado na disposição do Edital que previa a anulação de questões e (iii) dos limites objetivos das decisões judiciais proferidas em ações movidas por outros candidatos.
+1- Impetrante/agravante que não ataca os fundamentos do ato apontado como coator. Clara pretensão de rediscussão das questões da prova objetiva.
+2- Precedentes do STJ no sentido de que a rediscussão de questões de prova aplicada em concurso público deve ser endereçada à respectiva banca organizadora, e não ao órgão ou ente público que realizou o certame.
+3- Parte que não pretende a prática de ato de incumbência do Exmo. Secretário de Estado, e sim a anulação das citadas questões por via mais célere.
+4- Orientação jurisprudencial pacífica do STJ no sentido de que, "se houver equívoco na indicação da autoridade coatora, não é adequado oportunizar a emenda à inicial do mandado de segurança, caso a correção implique na alteração da competência do órgão jurisdicional, devendo ser extinto o processo sem resolução do mérito" (AgInt no AREsp 1745229/SP).
+5- Recurso a que se nega provimento.
+Aponta a parte agravante o seguinte (fls. 1.034-1.037):
+(i) No dia 26 de setembro de 2024, a Lei Estadual nº 10.516 (em anexo) foi sancionada pelo Excelentíssimo Governador do Estado do Rio de Janeiro, obrigando a Administração Pública a atribuir a pontuação referente a questões anuladas por decisões judiciais a todos os candidatos;
+ ..
+(ii) Entretanto, a validade do concurso está suspensa devido ao estado de calamidade financeira decretado no Estado do Rio de Janeiro (Decreto nº 45.692, de 17 de junho de 2016) e reconhecido pela Lei Estadual nº 7.483, de 08 de novembro de 2016 (em anexo);
+ ..
+(iii) A Lei Estadual nº 9.650, de 13 de abril de 2022 (em anexo), proíbe a realização de novos concursos enquanto houver déficit no quadro de pessoal, e garante a nomeação e posse de candidatos em cadastro de reserva;
+(iv)  ..  não ocorreu a decadência e não está prescrita a pretensão do Impetrante, podendo ser movida pelo presente mandado de segurança, uma vez que distribuída do prazo de 120 dias a contar da data que foi notificado do indeferimento de seu requerimento administrativo, estando, portanto, de acordo com o disposto no art. 23 Lei Federal nº 12.016, de 07 de agosto de 2009;
+ ..
+(v) Embora a decisão monocrática tenha afirmado que as decisões judiciais possuem efeito inter partes, na forma do art. 506 do CPC, o que de fato é uma regra processual, o item 17.8 do edital é claro ao estabelecer que, em caso de anulação de questões, todos os candidatos devem ser beneficiados, independentemente de ação judicial.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SOLDADO DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES DA PROVA OBJETIVA. AUTORIDADE COATORA. ILEGITIMIDADE AFASTADA. ARGUMENTOS TRAZIDOS NO AGRAVO INTERNO NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE. SUPRESSÃO DE INSTÂNCIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Os argumentos trazidos no agravo interno não foram apreciados pelo Tribunal de origem, o que torna inviável a sua análise pelo STJ. Não é possível a esta Corte debruçar-se sobre matéria não enfrentada pelo juízo a quo, sob o risco de supressão de instância.
+2.  Agravo  interno  não conhecido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  O agravo interno não comporta conhecimento.
+Descabe a análise das alegações trazidas no agravo interno, como requer a parte agravante, considerando que cabe ao Tribunal de origem a sua apreciação.
+Com efeito, não é poss ível a esta Corte debruçar-se sobre matéria não enfrentada pelo juízo a quo, sob o risco de supressão de instância.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. PROCEDÊNCIA DA AÇÃO REIVINDICATÓRIA. VILA DOMITILA. PROPRIEDADE DO INSS. RECONHECIMENTO. REIVINDICATÓRIA. POSSE DOS PARTICULARES. DIREITO ASSEGURADO MEDIANTE AÇÃO TRANSITADA EM JULGADO. BOA-FÉ RECONHECIDA. CONTROVÉRSIA RESOLVIDA PELO TRIBUNAL DE ORIGEM À LUZ DAS PROVAS PERICIAIS PRESENTES NOS AUTOS. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. COMPENSAÇÃO ENTRES OS DANOS CAUSADOS AO IMÓVEL E AS BENFEITORIAS REALIZADAS. POSSIBILIDADE. ARTS. 1221 E 1222 DO CÓDIGO CIVIL.
+ ..
+5. Destaca-se que, em memoriais entregues no dia 10 de junho de 2019, Beatriz Teresinha Pavin alega a existência de fatos novos supervenientes, que emergiram da investigação da Comissão Parlamentar de Inquérito (CPI) 049.00006-2016, instaurada na Câmara Municipal de Curitiba/PR, para investigar a cadeia dominial da Vila Domitila. Impossível a análise dos supostos fatos novos supervenientes. A questão não foi apreciada pelo e. Tribunal de origem, o que torna inviável a sua análise pelo STJ, sob pena de supressão de instância, ainda quando se cuidar de matéria de ordem pública. Nesse sentido, os seguintes precedentes: REsp 1.790.643/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30/5/2019; AgRg no REsp 1.421.163/SP, Rel. Ministro Humberto Martins, Segunda Turma  ..  (REsp n. 1.766.812/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/11/2019, DJe de 19/12/2019, grifo nosso).
+Isso posto, não conheço do agravo interno.
