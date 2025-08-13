@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. APLICAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006. FIXAÇÃO DA FRAÇÃO DE REDUÇÃO EM 1/6. FUNDAMENTAÇÃO CONCRETA. IMPOSSIBILIDADE DE REEXAME. SÚMULAS 7 E 83/STJ.
+1. O acórdão recorrido fixou a fração mínima de redução da pena prevista no § 4º do art. 33 da Lei de Drogas com base em elementos concretos extraídos dos autos, reconhecendo a inserção do réu no tráfico internacional e sua relevância na engrenagem criminosa.
+2. A pretensão recursal demanda reexame do conjunto fático-probatório, providência vedada na via especial. Incidência das Súmulas 7 e 83 do STJ.
+3 . Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Daniel Thimoteo contra a decisão monocrática de minha lavra, assim ementada (fls. 711/714):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE VIOLAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006 ANTE MODULAÇÃO DA MINORANTE NO PATAMAR DE 1/6. DISCRICIONARIEDADE DO JULGADOR NA ADEQUAÇÃO DA PENA AO CASO CONCRETO, INEXISTINDO ILEGALIDADE OU ARBITRARIEDADE NO PATAMAR FIXADO. DESCABIMENTO DE REDIMENSIONAMENTO DA PENA. ÓBICES DAS SÚMULAS 7 E 83/STJ. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Na petição regimental (fls. 717/726) , o agravante sustenta a inaplicabilidade das Súmulas 7 e 83 do STJ, alegando que a controvérsia posta não exige reexame fático-probatório, limitando-se à correta subsunção normativa da fração de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006. Afirma, ademais, a ausência de jurisprudência pacífica sobre a matéria, destacando a existência de precedentes desta Corte que admitem a possibilidade de modulação da fração redutora do tráfico privilegiado em grau mais favorável ao réu e requer, ao final, a reconsideração da decisão monocrática ou, alternativamente, o encaminhamento do feito para julgamento pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. APLICAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006. FIXAÇÃO DA FRAÇÃO DE REDUÇÃO EM 1/6. FUNDAMENTAÇÃO CONCRETA. IMPOSSIBILIDADE DE REEXAME. SÚMULAS 7 E 83/STJ.
+1. O acórdão recorrido fixou a fração mínima de redução da pena prevista no § 4º do art. 33 da Lei de Drogas com base em elementos concretos extraídos dos autos, reconhecendo a inserção do réu no tráfico internacional e sua relevância na engrenagem criminosa.
+2. A pretensão recursal demanda reexame do conjunto fático-probatório, providência vedada na via especial. Incidência das Súmulas 7 e 83 do STJ.
+3 . Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+O recurso especial teve sua admissibilidade negada na origem com fundamento nos óbices das Súmulas 7 e 83 do Superior Tribunal de Justiça.
+A bem da verdade, as razões do agravo regimental evidenciam apenas o inconformismo da parte agravante com o decisum monocrático, limitando-se a reiterar os argumentos já expendidos no agravo em recurso especial, sem trazer fundamentos jurídicos novos ou capazes de infirmar os óbices aplicados.
+O acórdão do Tribunal de origem , ao manter a fração de 1/6 referente à causa de diminuição de pena do tráfico privilegiado (§ 4º do art. 33 da Lei n. 11.343/2006), apresentou fundamentação expressa e circunstancial, nos seguintes termos (fl. 547 - grifo nosso):
+Não estão demonstradas nos autos circunstâncias que aproximem o réu de situações de excludentes de ilicitude ou de culpabilidade que autorizem a redução da pena em grau mais elevado que o mínimo legal de 1/6 (um sexto), já que a fração máxima é destinada a casos singulares e que demonstrem a excepcionalidade do crime.
+O réu contribuiu para o esquema do narcotráfico internacional e adotou providências para o sucesso da empreitada criminosa e, assim, também não é razoável caracterizá-lo em posição de vulnerabilidade típica das chamadas "mulas do tráfico".
+Ademais, a logística desenvolvida para a perpetração do crime envolve dispendioso esquema para transporte de droga, bem como altos valores necessários para aquisição de 28.600g de cocaína, das despesas para seu transporte aéreo e da provável recompensa prometida  .. , mostrando-se evidente que a droga em questão não pertencia a pequenos traficantes. Tais circunstâncias revelam, a toda evidência, maior gravidade na conduta apelante, bem como um maior envolvimento dele com o tráfico de drogas e com a própria organização criminosa.
+Diante dessa moldura fática delineada pelas instâncias ordinárias - que evidenciaram a intensa inserção do réu na engrenagem do tráfico internacional, a alta carga logística e financeira da empreitada e o papel essencial do agravante na sua execução - é possível concluir que a fração fixada (1/6) foi devidamente fundamentada, refletindo juízo discricionário do magistrado com base nas particularidades do caso concreto. Assim, a pretensão recursal demanda o revolvimento do conjunto fático-probatório, providência vedada na via eleita, nos termos da Súmula 7/STJ (AgRg no AREsp n. 2.730.087/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 19/12/2024; e REsp n. 2.150.092/PA, Ministra Daniela Teixeira, Quinta Turma, DJEN 25/2/2025).
+Quanto ao óbice da Súmula 83/STJ, observa-se que a parte agravante não demonstrou a inaplicabilidade do precedente utilizado no juízo de admissibilidade ou a superação da orientação jurisprudencial firmada nesta Corte. Nesse sentido, confira-se: AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJE 16/6/2023.
+Portanto, o agravante não logrou êxito em demonstrar, em seu regimental, argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, a qual deve ser mantida in totum pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
