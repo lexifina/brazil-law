@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão da lavra do Ministro Presidente do STJ, que conheceu do agravo para não conhecer do recurso especial (fls. 95-99).
+Tendo em vista os fundamentos da parte Agravante, bem como a faculdade prevista no art. 259 do RISTJ, reconsidero a decisão agravada e passo, a seguir, a um novo exame do recurso interposto.
+Cuida-se de agravo em recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que inadmitiu o recurso especial ajuizado em face do acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no Agravo de Instrumento n. 3003209-86.2024.8.26.0000, ementado nos seguintes termos (fl. 25):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Honorários advocatícios. Compensação com o crédito a ser recebido por precatório. Possibilidade. Código de Processo Civil, artigo 85, § 19, e Lei Complementar Estadual 93/1974, artigo 55. Precedentes do Superior Tribunal de Justiça e desta Corte. Recurso não provido.
+Os embargos de declaração opostos pelos recorridos foram rejeitados (fls. 36-37).
+Nas razões recursais, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a parte recorrente alega violação dos arts. 23 da Lei Federal n. 8.906/94, 368 do CC e 85, §§ 14 e 19, do CPC ao afirmar que:
+Assim, são requisitos para a compensação: a existência de relação de crédito mútuo entre as partes, a liquidez e a exigibilidade dos valores e a fungibilidade das prestações.
+No caso concreto, não há identidade entre os titulares dos honorários advocatícios objeto do cumprimento aqui analisada (ou seja, os Procuradores do Estado de São Paulo) e a executada (que pretende a compensação de créditos constituídos em face do Estado de São Paulo) (fl. 46).
+Requer, assim, "o acolhimento e provimento do presente Recurso Especial, com a reforma integral do acórdão proferido, impedindo-se a compensação, com a condenação da Recorrida em custas judiciais e honorários advocatícios sucumbenciais" (fl. 49).
+Contrarrazões às fls. 54-61.
+O recurso especial foi inadmitido na origem (fls. 62-64).
+Interposto agravo em recurso especial (fls. 66-77).
+É o relatório. Decido.
+Preenchidos os pressupostos do agravo, passo a análise do recurso especial.
+Na origem, trata-se de agravo de instrumento interposto pelo Recorrente contra decisão em cumprimento de sentença sobre pensão por morte de servidor público estadual, que facultou à exequente a compensação dos honorários advocatícios de SPPREV com o crédito a ser recebido por precatório, por não constituir direito autônomo do procurador judicial, mas do ente público que representa.
+O Tribunal de origem negou provimento ao recurso (fls. 24-28).
+Sobre a controvérsia, o entendimento desta Corte era de que os honorários advocatícios de sucumbência, devidos quando vencedora a Fazenda Pública, não constituíam direito autônomo dos seus procuradores ou representantes judiciais, porquanto integravam o patrimônio da pessoa de direito público e, por conseguinte, seria legítima a compensação de tais valores com créditos inscritos em precatório.
+Todavia, o Supremo Tribunal Federal, na ADI n. 6.053/DF, fixou as seguintes orientações, de efeito vinculante: i) o pagamento de honorários sucumbenciais aos advogados públicos é constitucional; ii) os honorários de sucumbência fixados na sentença favorável a ente público pertencem a seus advogados ou procuradores, consistindo verba autônoma e destacada de eventual direito material do ente representado; iii) o recebimento da verba é compatível com o regime de subsídios, nos termos do art. 39, § 4º, da Constituição da República; e iv) os honorários sucumbenciais, somados às demais verbas remuneratórias, devem estar limitados ao teto constitucional disposto no art. 37, inciso XI, da Carta Política.
+Ademais, no que tange à Reclamação n. 65.774/DF, o Supremo Tribunal Federal definiu, consoante as diretrizes estabelecidas na ADI n. 6.053/DF, que, havendo norma legal regulamentando o direito autônomo dos advogados ou procuradores públicos ao recebimento dos honorários sucumbenciais, está afastada a possibilidade de compensação de tais verbas com débitos do respectivo ente representado.
+No que diz respeito ao Estado de São Paulo, há regulamentação, por norma legal própria, atribuindo os honorários sucumbenciais, nos processos judiciais que envolvam a Fazenda Pública, aos seus advogados ou procuradores. Portanto, nos termos do que fora decidido pelo Supremo Tribunal Federal, não há falar em compensação dessas verbas com eventuais débitos do ente público. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPENSAÇÃO DE HONORÁRIOS ADVOCATÍCIOS COM DÉBITO DA FAZENDA. MUDANÇA DE ENTENDIMENTO DO ÂMBITO DESTA CORTE. DIREITO AUTÔNOMO DO PROCURADOR. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido destoa dos recentes precedentes do Superior Tribunal de Justiça, que, após o julgamento da ADI 6.053/DF, passou a acompanhar o entendimento da Suprema Corte, no sentido de que os honorários advocatícios de sucumbência, quando vencedora a Fazenda Pública, constituem direito autônomo do procurador público, porque integram o seu patrimônio particular, portanto não pode haver compensação.
+2. Os precedentes anexados pelo agravante em seu recurso se mostram desatualizados perante o novo entendimento firmado por ambas as Turmas de Direito Público que compõem a Primeira Seção do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.531.184/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025. Sem grifo no original)
+Desse modo, não merece prosperar o entendimento firmado no acórdão recorrido, por estar em desacordo com a jurisprudência desta Corte.
+Ante o exposto, com fundamento no art. 932 do CPC, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. COBRANÇA DOS HONORÁRIOS DE SUCUMBÊNCIA. CRÉDITO INSCRITO EM PRECATÓRIO. COMPENSAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE IDENTIDADE ENTRE CREDOR E DEVEDOR. ADI N. 6.053/DF. CONHEÇO DO AGRAVO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PROVIMENTO.
