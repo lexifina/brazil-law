@@ -1,0 +1,99 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 224):
+PROCESSUAL CIVIL. FUNDEF/FUNDEB. COMPLEMENTAÇÃO PELA UNIÃO. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. DESCUMPRIMENTO DE DETERMINAÇÃO DE APRESENTAÇÃO DE PROCURAÇÃO FIRMADA POR PREFEITO EM EXERCÍCIO. ATA DE POSSE E DIPLOMA ELEITORAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA MANTIDA.
+1. Constata-se que o apelante foi devidamente intimado para cumprimento do despacho que determinara a juntada aos autos do diploma eleitoral, da ata de posse e da procuração do atual Prefeito do Município, e que, todavia, deixou transcorrer in albis o prazo que lhe fora concedido.
+2. A exigência de apresentação de procuração firmada pelo Chefe do Poder Executivo Municipal, que atualmente exerce a gestão pública, é plenamente coerente com as disposições insertas no Código de Processo Civil e demais disposições legais, uma vez que, realizada a eleição, a legitimidade e o interesse pela representação do Município passa a ser exercida pelo Prefeito em exercício, sendo, portanto, de inteira legalidade a imposição de apresentação do instrumento de mandato atualizado, entre outros documentos.
+3. Nesse sentido: "A parte autora, devidamente intimada para cumprir as diligências requeridas pelo juízo, mediante a juntada do diploma eleitoral, da ata de posse e da procuração do atual Prefeito do Município, deixou transcorrer in albis o prazo que lhe fora concedido. 2. Correta a sentença que indeferiu a inicial e extinguiu o feito sem resolução de mérito (CPC, art. 321 e 485, I), porquanto não foram juntados aos autos documentos essenciais ao prosseguimento da ação. 3. Apelação não provida.". (AC 0068499-94.2016.4.01.3400, DESEMBARGADOR FEDERAL KASSIO NUNES MARQUES, TRF1 - SÉTIMA TURMA, P Je 20/07/2020 PAG.)
+4. Apelação não provida.
+Embargos de declaração não acolhidos (fls. 245/255).
+Interpostos novos embargos de declaração, foram rejeitados (fls. 277/289).
+Na razões do recurso especial, a parte recorrente alega afronta ao art. 1.022 do CPC.
+Aduz, em síntese, que o Juízo a quo foi omisso quanto à alegação de inexistência de cessação ou revogação do mandato, o qual não seria afetado pelo término do mandato; de intimação para regularização ordenada em período de suspensão processual; e de ausência de intimação pessoal da Fazenda Pública para regularizar a representação.
+No tocante à questão de fundo, o recorrente sustenta violação aos seguintes dispositivos: a) artigo 314, sob justificativa de prática de atos em processo suspenso por força de decisão liminar proferida em processo correlato; b) artigos 320 e 321 do CPC, em razão de ter apresentado procuração válida e não ter sido demonstrada a existência de vícios para a exigência de renovação; c) artigo 682, I e IV, do CC, argumentando que não houve revogação ou renúncia quanto aos poderes conferidos pelo instrumento de mandato acostado à inicial; d) artigo 183 do CPC, haja vista a ausência de intimação pessoal da Fazenda Pública para proceder a regularização. Por fim, alega a existência de dissídio jurisprudencial.
+Com contrarrazões (fls. 339/346).
+Juízo positivo de admissibilidade às fls. 350/352 .
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Pois bem. O inconformismo merece acolhimento quanto à alegada negativa de prestação jurisdicional.
+Do exame dos autos, verifica-se que o TRF da 1ª Região, para decidir a controvérsia dos autos, deixou consignado, no que interessa (fls. 318/319):
+Trata-se de irresignação do apelante quanto ao indeferimento da petição inicial e a consequente extinção do processo, sem resolução do mérito, por descumprimento de determinação de regularização da representação processual, uma vez que a procuração foi outorgada por prefeito com mandato já exaurido.
+Constato que o apelante foi devidamente intimado para cumprimento do despacho que determinara a juntada aos autos do diploma eleitoral, da ata de posse e da procuração do atual Prefeito do Município, e que, todavia, deixou transcorrer in albis o prazo que lhe fora concedido.
+Dessa forma, adveio a r. sentença que, acertadamente, extinguiu o feito sem resolução do mérito.
+(..)
+A exigência de apresentação de procuração firmada pelo Chefe do Poder Executivo Municipal, que atualmente exerce a gestão pública, é plenamente coerente com as disposições insertas no Código de Processo Civil e demais disposições legais, uma vez que, realizada a eleição, a legitimidade e o interesse pela representação do Município passa a ser exercida pelo Prefeito em exercício, sendo, portanto, de inteira legalidade a imposição de apresentação do instrumento de mandato atualizado, entre outros documentos.
+Assim, aplica-se ao caso o disposto no art. 321 e 485, ambos do Código de Processo Civil, devendo o feito ser extinto sem resolução do mérito.
+Nesse sentido:
+PROCESSUAL CIVIL E FINANCEIRO. FUNDEF. COMPLEMENTAÇÃO DE VALORES. CUMPRIMENTO DE SENTENÇA. DESPACHO QUE DETERMINA A ATUALIZAÇÃO DA PROCURAÇÃO, DA ATA DE POSSE E DO DIPLOMA ELEITORAL DO PREFEITO EM EXERCÍCIO. DESATENDIMENTO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. LEGALIDADE. CPC, ART. 321 E 485, I. SENTENÇA MANTIDA.
+1. A parte autora, devidamente intimada para cumprir as diligências requeridas pelo juízo, mediante a juntada do diploma eleitoral, da ata de posse e da procuração do atual Prefeito do Município, deixou transcorrer in albis o prazo que lhe fora concedido.
+2. Correta a sentença que indeferiu a inicial e extinguiu o feito sem resolução de mérito (CPC, art. 321 e 485, I), porquanto não foram juntados aos autos documentos essenciais ao prosseguimento da ação.
+3. Apelação não provida. (AC 0068499-94.2016.4.01.3400, DESEMBARGADOR FEDERAL KASSIO NUNES MARQUES, TRF1 - SÉTIMA TURMA, P Je 20/07/2020 PAG.)
+Ante o exposto, nego provimento à apelação.
+Inconformada, a parte ora recorrente opôs embargos de declaração (fls. 233/240), alegando, em resumo, que, "o acórdão foi omisso em expressar qual teria sido o fundamento válido para a ordem de regularização de representação processual (que o Município insiste ter sido determinada de forma indevida)" e que não houve revogação ou renúncia do instrumento de mandato acostado à inicial. Acrescenta, ainda, que houve omissão "quanto ao fato de que a decisão do juízo de primeiro grau se deu em período no qual vigia suspensão do processo por determinação de outro juízo (fl. 239/239).
+O Tribunal a quo, contudo, rejeitou os embargos de declaração, em acórdão assim fundamentado (fls. 806/809):
+(..)
+Mutatis Mutandis, em julgamento proferido no âmbito da 1ª Seção do egrégio Superior Tribunal de Justiça foi reconhecida a impossibilidade de processamento do feito sem a devida regularização da representação processual. Vejamos:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PROCURAÇÃO. SÚMULA 115 DO STJ. INCIDÊNCIA.
+1. É firme o entendimento desta Corte de que a ausência de procuração impossibilita o conhecimento do recurso. Aplicação analógica da Súmula 115 do STJ.
+2. Hipótese em que o embargante, a despeito de regularmente intimado, conforme estabelece a disciplina estatuída no Código de Processo Civil/2015, não regularizou a representação processual do subscritor do recurso.
+3. Embargos de declaração não conhecidos.
+(E Dcl no AgInt nos EAR Esp 635.170/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 22/02/2017, D Je 23/03/2017)
+Ressalte-se que o julgador não está obrigado a decidir com base em todas as alegações das partes, quando já tenha encontrado motivos suficientes para fundamentar a decisão, como vêm decidindo os Tribunais, inclusive o Colendo STJ. Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.  ..
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+E Dcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, D Je 15/06/2016.
+No mesmo sentido, o entendimento firmado pelo Egrégio Supremo Tribunal Federal que, no julgamento do AgReg no AI 162.089-8/DF, decidiu que: "A Constituição não exige que a decisão seja extensamente fundamentada. O que se exige é que o juiz ou o tribunal dê as razões do seu convencimento.
+Ante o exposto, nego provimento aos embargos de declaração.
+A parte recorrente, insatisfeita, interpôs novos embargos de declaração, os quais também foram rejeitados, conforme trecho do voto condutor do acórdão, a seguir transcrito (fls. 279/280):
+(..)
+No caso em análise, verifico que não ocorreu nenhum vício no julgado embargado, tendo-se em vista que tratou de todos os pontos apresentados pelas partes.
+No acórdão embargado foi devidamente esclarecido que:
+"Trata-se de irresignação do apelante quanto ao indeferimento da petição inicial e a consequente extinção do processo, sem resolução do mérito, por descumprimento de determinação de regularização da representação processual, uma vez que a procuração foi outorgada por prefeito com mandato já exaurido.
+Constato que o apelante foi devidamente intimado para cumprimento do despacho que determinara a juntada aos autos do diploma eleitoral, da ata de posse e da procuração do atual Prefeito do Município, e que, todavia, deixou transcorrer in albis o prazo que lhe fora concedido.  ..
+A exigência de apresentação de procuração firmada pelo Chefe do Poder Executivo Municipal, que atualmente exerce a gestão pública, é plenamente coerente com as disposições insertas no Código de Processo Civil e demais disposições legais, uma vez que, realizada a eleição, a legitimidade e o interesse pela representação do Município passa a ser exercida pelo Prefeito em exercício, sendo, portanto, de inteira legalidade a imposição de apresentação do instrumento de mandato atualizado, entre outros documentos.
+ .. "
+Desse modo, não há qualquer dúvida de que não foi atendida a determinação judicial e, nem mesmo em sede de apelação, e, nestes e nos primeiros embargos de declaração foi regularizada a representação processual com a juntada dos documentos elencados pelo magistrado de primeiro grau com reconhecimento da ausência da regularização por este egrégio Tribunal.
+(..)
+Conforme determina o Código de Processo Civil, somente na hipótese de extinção do processo, nos termos dos incisos II e III do Código de Processo Civil é que a parte autora será intimada pessoalmente.
+Art. 485. O juiz não resolverá o mérito quando:
+I - indeferir a petição inicial;
+II - o processo ficar parado durante mais de 1 (um) ano por negligência das partes;
+III - por não promover os atos e as diligências que lhe incumbir, o autor abandonar a causa por mais de 30 (trinta) dias;
+ ..
+§ 1º Nas hipóteses descritas nos incisos II e III, a parte será intimada pessoalmente para suprir a falta no prazo de 5 (cinco) dias. Observo que a embargante pretende reabrir a discussão, buscando impor seu posicionamento sobre o tema, o que não é possibilitado por meio dos embargos de declaração.
+Diante desse quadro, conforme demonstram os excertos transcritos, não foram analisados, tampouco esclarecidos, os argumentos trazidos oportunamente pela parte ora recorrente, nos embargos de declaração, os quais, se acolhidos, poderiam levar o julgamento a resultado diverso.
+Registre-se que a não apreciação da tese a tempo e modo adequado, impede o acesso à instância especial, caracterizando, portanto, a omissão no julgado.
+Nesse sentido:
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE MULTA FIXADA EM TERMO DE AJUSTAMENTO DE CONDUTA. EXASPERAÇÃO DA MULTA, EM JUÍZO, SEM FUNDAMENTAÇÃO ADEQUADA. OFENSA AO ART. 1022 DO CPC/2015. AUSÊNCIA DE MANIFE STAÇÃO SOBRE QUESTÕES ESSENCIAIS AO DESATE DA CONTROVÉRSIA. OMISSÃO CARACTERIZADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PARCIAL PROVIMENTO.
+1. No caso dos autos, o Tribunal a quo majorou a multa fixada no TAC de 1.000.000,00 (um milhão de reais) para um valor substancialmente maior - R$ 10.000.000,00 (dez milhões de reais) - sem, contudo, indicar os fatos que dariam ensejo à aludida exasperação.
+2. Consoante entendimento desta Corte Superior, excepcionalmente, é possível a revisão do valor fixado a título de multa por descumprimento de obrigação quando o montante se revelar irrisório ou abusivo, tornando-se desproporcional, dependendo a análise da irrisoriedade ou da abusividade da multa aplicada da revaloração dos fatos que sustentariam a majoração da multa, mas esses fatos, a despeito da oposição de embargos de declaração, foram sonegados pelo Tribunal de origem.
+3. Na linha da iterativa jurisprudência do Superior Tribunal de Justiça, havendo omissão sobre questões relevantes, articuladas oportunamente e renovadas em sede de embargos de declaração junto ao Tribunal a quo, é de se reconhecer a negativa de prestação jurisdicional e a violação do artigo 1.022 do CPC/15, sendo de rigor a anulação do acórdão e a devolução dos autos à Corte de origem para que outro seja proferido manifestando-se expressamente sobre o ponto omisso.
+4. Agravo conhecido para conhecer do recurso especial e dar-lhe parcial provimento.
+(AREsp n. 1.701.224/SP, relator Ministro Francisco Falcão, relator para acórdão Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13/6/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+1. A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+2. Recurso especial provido para tornar nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste sobre a matéria assentada nos aclaratórios.
+(REsp 1.758.521/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 17/10/2019).
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE CONTRATO DE COMPRA E VENDA. FASE DE LIQUIDAÇÃO DE SENTENÇA. ALUGUEL MENSAL. CONSIDERAÇÃO DE BENFEITORIAS. VERBA DE SUCUMBÊNCIA. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA SUPRIMENTO DOS VÍCIOS APONTADOS. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Não há que se falar em usurpação de competência dos órgãos colegiados diante do julgamento monocrático do recurso, tampouco em risco ao princípio da colegialidade, tendo em vista que pode a parte interpor agravo interno, como de fato interpôs, contra a decisão agravada, devolvendo a discussão ao órgão competente, como de fato ocorreu, ratificando ou reformando a decisão.
+2. A mera oposição ao julgamento virtual, desde que neste viabilizado o exercício da sustentação oral, não implica determinar julgamento presencial ou telepresencial, nem caracteriza cerceamento de defesa ou qualquer outro prejuízo processual. Emenda Regimental 41/2022 para adequação do RI do STJ à Lei n.º 14.365/2022.
+3. A questão concernente a definir se houve omissão e/ou negativa de prestação jurisdicional é unicamente de direito e configura hipótese de violação direta dos dispositivos legais que disciplinam o instituto (arts. 489, IV, e 1.022, II, ambos do CPC), razão pela qual é cabível o recurso especial, por qualquer uma das alíneas do permissivo constitucional.
+4. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronuncia acerca de tal questão, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade aos arts. 489 e 1.022, ambos do CPC.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.809.600/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 15/5/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. INVASÃO DA COMPETÊNCIA DA PRESIDÊNCIA DO STJ, INEXISTÊNCIA. SÚMULA 182/STJ. INAPLICABILIDADE AO CASO DOS AUTOS. OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO DO TJBA. OCORRÊNCIA. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO.
+1. Ação de reparação por danos materiais e morais.
+2. Inexistiu invasão da competência da Presidência do STJ, pois, a reconsideração da decisão foi proferida em caráter definitivo e exauriente, no regular exercício das atribuições do relator previstas nos arts. 21- E, § 2º, do RISTJ c. c. 1.021, § 2º, e 932, V, "a", do CPC e, a despeito de assinada no curso das férias coletivas, teve sua publicação efetivada apenas em 1º de agosto de 2022, dia do retorno das atividades forenses (arts. 81 e 83 do RISTJ e Portaria STJ/GP 230, de 22 de junho de 2022).
+3. Inaplicável o óbice da Súmula 182/STJ, visto que a parte efetivamente impugnou os fundamentos da decisão contra qual se insurgiu.
+4. A negativa de prestação jurisdicional caracteriza-se pela recusa do juiz, mesmo após provocado por meio de embargos de declaração, a sanar eventuais vícios de sua decisão, quais sejam: i) omissão acerca de questão de fato ou de direito relevante para a solução da demanda; ii) obscuridade na exposição das razões de decidir; iii) contradição entre premissas e conclusões intrínseca do próprio ato decisório; ou iv) erro evidente quanto a aspectos incontroversos da demanda.
+5. No caso, a Corte estadual realmente deveria ter se manifestado sobre o teor do negócio jurídico celebrado entre as partes, pois, absolutamente imprescindível ao julgamento do mérito do processo.
+6. Ademais, também se revela contraditório o trecho do acórdão recorrido em que o Colegiado destaca não ter havido comprovação do dano moral, mas, em seguida, mantém a condenação à sua compensação, ainda que a tenha reduzido o valor.
+7. Inexiste interesse em recorrer de questão que teve seu julgamento prejudicado pela procedência de pedido anterior.
+8. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.111.691/BA, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/10/2022.).
+Ante o exposto, conheço e dou provimento ao recurso especial, para anular o acórdão em âmbito de embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões suscitadas.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. DEVOLUÇÃO DOS AUTOS PARA NOVO JULGAMENTO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
