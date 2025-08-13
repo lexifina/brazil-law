@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental NO Habeas corpus. apelo em liberdade. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso ordinário, em razão da ausência de flagrante ilegalidade no ato judicial impugnado.
+2. O agravante foi condenado à pena de 4 anos de reclusão, em regime fechado, por tráfico de drogas, com base no art. 35, caput, da Lei n. 11.343/2006, e teve negado o direito de apelar em liberdade, em razão de estar foragido e da necessidade de garantir a aplicação da lei penal e a ordem pública.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a manutenção da prisão preventiva do agravante, que se encontra foragido, é justificada pela gravidade concreta do delito e pelo risco de reiteração delitiva, mesmo diante da alegação de ausência de contemporaneidade entre a prática do crime e a execução do mandado de prisão.
+III. Razões de decidir
+4. A decisão de manter a prisão preventiva foi fundamentada na gravidade concreta do delito, evidenciada pelo modus operandi do grupo criminoso e pelo risco de reiteração delitiva do acusado, assim como para resguardar a aplicação da lei penal, por estar foragido.
+IV. Dispositivo e tese
+5. Agravo im provido.
+Tese de julgamento: "1. A manutenção da prisão preventiva é justificada pela gravidade concreta do delito e pelo risco de reiteração delitiva. 2. A condição de foragido do réu justifica a manutenção da prisão preventiva para garantir a aplicação da lei penal".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 387, § 1º.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/06/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/03/2020; STF, AgR no HC 147.210, Rel. Min. Edson Fachin, Segunda Turma, julgado em 30/10/2018.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SAMUEL FONSECA TEIXEIRA, de decisão na qual não conheci do habeas corpus (e-STJ, fls. 264-270).
+O agravante insiste na tese de não haver elementos concretos para lhe negar o direito de responder ao feito em liberdade, não sendo suficiente a alegação de estar foragido, sobretudo por ser tecnicamente primário, os fatos terem ocorrido em 2014.
+Requer, assim, a reconsideração do decisum ou a submissão do feito ao colegiado, a fim de lhe conceder o direito de responder ao feito em liberdade.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO Habeas corpus. apelo em liberdade. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso ordinário, em razão da ausência de flagrante ilegalidade no ato judicial impugnado.
+2. O agravante foi condenado à pena de 4 anos de reclusão, em regime fechado, por tráfico de drogas, com base no art. 35, caput, da Lei n. 11.343/2006, e teve negado o direito de apelar em liberdade, em razão de estar foragido e da necessidade de garantir a aplicação da lei penal e a ordem pública.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a manutenção da prisão preventiva do agravante, que se encontra foragido, é justificada pela gravidade concreta do delito e pelo risco de reiteração delitiva, mesmo diante da alegação de ausência de contemporaneidade entre a prática do crime e a execução do mandado de prisão.
+III. Razões de decidir
+4. A decisão de manter a prisão preventiva foi fundamentada na gravidade concreta do delito, evidenciada pelo modus operandi do grupo criminoso e pelo risco de reiteração delitiva do acusado, assim como para resguardar a aplicação da lei penal, por estar foragido.
+IV. Dispositivo e tese
+5. Agravo im provido.
+Tese de julgamento: "1. A manutenção da prisão preventiva é justificada pela gravidade concreta do delito e pelo risco de reiteração delitiva. 2. A condição de foragido do réu justifica a manutenção da prisão preventiva para garantir a aplicação da lei penal".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 387, § 1º.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/06/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/03/2020; STF, AgR no HC 147.210, Rel. Min. Edson Fachin, Segunda Turma, julgado em 30/10/2018.
+VOTO
+O agravo não comporta provimento.
+A decisão impugnada dever ser mantido por seus próprios fundamentos, por estar em consonância com a jurisprudência desta Tribunal Superior.
+Como cediço, esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passou-se, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Juízo sentenciante, ao condenar o agravante à pena de 4 anos de reclusão, em regime fechado, como incurso no art. 35, caput, da Lei n. 11.343/2006, negou-lhe o recurso em liberdade com base nos seguintes fundamentos:
+"Noutro giro, verifico que o acusado SAMUEL se encontra foragido, de modo que a prisão cautelar se mantém necessária com vistas a assegurar a aplicação da lei penal, nos termos do art. 312 do CPP, restando demonstrado o periculum libertatis. Assim, mantenho a sua prisão preventiva e nego-lhe o direito de recorrer em liberdade" (e-STJ, fls. 232).
+Extrai-se, ainda, do acórdão impugnado:
+"Extrai-se da documentação acostada que foi oferecida denúncia em 15/05/2018, pelo Ministério Público do Estado do Rio de Janeiro, por intermédio de seu Grupo de Atuação Especial ao Combate ao Crime Organizado - GAECO, em face de setenta e sete acusados, dentre eles o Paciente, com base no inquérito policial instaurado para investigação de um núcleo de traficantes que atuava especificamente no Bairro Loteamento, na cidade de Barra Mansa, com repercussão em outras regiões da cidade e outros Estados da Federação. A investigação recebeu a denominação de Operação Horse (IP nº 090-03832/2014), originada do desmembramento da investigação denominada Operação Adren (IP nº 090-01510/2014).
+No curso da investigação, a autoridade apontada coatora deferiu medida cautelar de interceptação telefônica, possibilitando a captura de diversos diálogos entre os criminosos e a posterior identificação dos integrantes da vasta organização criminosa.
+Segundo apurado, a organização criminosa mantinha relação com criminosos de outros Estados da Federação, em especial os fornecedores radicados em cidades de São Paulo, bem como se utilizava de adolescentes para o desempenho de suas ações a fim de garantir a execução e expansão do tráfico de drogas na região. Consoante relatado nos autos, foi possível a colheita de dados suficientes a revelar a dinâmica comercial da organização criminosa, bem como identificar, individualmente, a conduta de cada um de seus integrantes.
+Com relação ao Paciente, narra a denúncia que ele era um dos responsáveis por guardar grande quantidade de drogas e repassar para os "esticas", além de arrecadar o dinheiro obtido com a venda das drogas.
+Registre-se que o Eg. STJ, examinando recurso interposto contra decisão denegatória de Habeas Corpus interposto em favor de um dos codenunciados no processo de origem, negou-lhe provimento com os seguintes fundamentos:
+"No caso, não vislumbro a existência de constrangimento ilegal a ser remediado por esta Corte superior, tendo em vista que o acórdão impugnado encontra-se devidamente fundamentado, estando presentes o fumus comissi delicti e o periculun libertatis, este último forte sobretudo na garantia da ordem pública, tendo em vista a necessidade de desmantelar numerosa associação criminosa, supostamente voltada à prática de tráfico de drogas, evitando-se assim a reiteração dos supostos fatos criminosos descritos na denúncia apresentada pelo Ministério Público do Estado do Rio de Janeiro. Assim, encontra-se pacificado no âmbito do Superior Tribunal de Justiça que o modus operandi e a periculosidade demonstrada por associação criminosa constituem motivação idônea à decretação da prisão preventiva, nos termos do art. 312 do Código Penal. (RECURSO EM HABEAS CORPUS Nº 110.455 - RJ (2019/0082560-0) RELATOR: MINISTRO RIBEIRO DANTAS).
+É neste contexto que merece ser examinada a arguição de constrangimento ilegal na espécie, impetrado contra a sentença que, condenado o Paciente a pena de 04 (quatro) anos de reclusão em regime fechado, reconheceu a necessidade de conservação do decreto de prisão cautelar - até hoje descumprido, pois ele se mantém foragido.
+A singela alegação de que não há notícia de que, no período em que vem se mantido foragido, o Paciente teria voltado a delinquir é insuficiente à demonstração da desnecessidade da sua custódia cautelar, tendo em visa a gravidade concreta da prática delitiva que lhe é imputada.
+ ..
+Portanto, da maneira de execução do delito, conforme descreve a sentença condenatória, sobressai a periculosidade do agente, abrindo-se ao decreto de prisão a possibilidade de estabelecer um vínculo funcional entre o modus operandi do suposto crime e a garantia da ordem pública. Confira-se ainda:
+ ..
+Além disso, a necessidade da prisão do Paciente para desarticulação do grupo, evitando-se a reiteração da prática criminosa, constitui elemento concreto apto a autorizar a medida extrema e não caracteriza qualquer antecipação de mérito, na medida em que "a necessidade de interrupção do ciclo delitivo de associações e organizações criminosas, tal como apontado no caso concreto pelas instâncias ordinárias, é fundamento idôneo para justificar a custódia cautelar, com fulcro na garantia da ordem pública" (RHC 147.891).
+ ..
+Além disso, o Juízo singular, ao decidir pela imposição da prisão preventiva do Paciente, salientou a presença de diversas anotações criminais pretéritas, reconhecendo-as como evidência da necessidade da medida extrema para "evitar-se a reiteração criminosa".
+No ponto, registre-se a existência de duas condenações definitivas anteriores, tanto assim que a pena base foi recrudescida pelo sentenciante, dentre outros motivos, tendo em conta os maus antecedentes do Paciente.
+ ..
+Por sua vez, ao prolatar a sentença condenatória, a digna autoridade apontada coatora analisou todas as circunstâncias do evento criminoso e as condições pessoais do Paciente, concluindo, em cognição exauriente, pela subsistência de fatores a indicar sua periculosidade, ressaltando sua evasão.
+Nessas condições, a culpabilidade do Paciente, evidenciada por dados concretos que demandaram sua condenação, constitui motivação idônea para o decreto da custódia cautelar, como garantia aplicação da lei penal.
+ ..
+Finalmente, ao contrário do que sustenta a impetração, não se desvanece a necessidade da prisão preventiva imposta ao Paciente pela ausência de contemporaneidade entre a data do efetivo cumprimento do mandado de prisão e a data da prática do suposto crime, porque o decurso do longo lapso temporal decorreu do fato de manter-se evadido o Paciente.
+Diante dessas situação, descrita pelo próprio impetrante, evidencia-se ainda mais a legitimidade da conservação da medida extrema, tanto mais para garantia da aplicação da lei penal:
+ ..
+Com efeito, o óbice criado pelo próprio Paciente no curso da instrução criminal não pode ser utilizado, a pretexto de ausência de contemporaneidade do decreto cautelar, em seu benefício" (e-STJ, fls. 14-40)
+Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+Na hipótese, verifica-se que as instâncias antecedentes negaram validamente ao agravante o direito de apelar em liberdade, sob o fundamento de que a medida se justifica para resguardar a aplicação da lei penal e a ordem pública, diante a condenação em regime fechado e por estar foragido, estando ainda pendente de cumprimento o decreto preventivo, o qual se fundamentou no risco de reiteração delitiva e na gravidade concreta do delito, evidenciada pelo modus operandi do grupo criminoso.
+Nesse sentido:
+HABEAS CORPUS. PROCESSO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA. GRAVIDADE CONCRETA. PACIENTE FORAGIDO. GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. TESE DE AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. SUPOSTOS PREDICADOS PESSOAIS FAVORÁVEIS QUE NÃO IMPEDEM A SEGREGAÇÃO. PLEITO DE CONCESSÃO DE PRISÃO DOMICILIAR. REITERAÇÃO DO PEDIDO DEDUZIDO NO HC N. 700.857/SP. INADMISSIBILIDADE. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. No caso, o não reconhecimento do direito de apelar em liberdade deu-se em decisão suficientemente fundamentada, pois o Magistrado ressaltou a gravidade em concreto da ação criminosa, consubstanciada na apreensão de imensa quantidade de drogas, o que justifica a segregação cautelar como garantia da ordem pública, conforme jurisprudência desta Corte Superior de Justiça.
+2. Ao reavaliar a necessidade de manutenção da prisão, o Juízo de primeira instância consignou que o mandado de prisão expedido em desfavor do Paciente não foi cumprido porque o Agente está foragido. Verificada essa situação, entende-se que "a fuga do distrito da culpa, comprovadamente demonstrada nos autos e que perdura, é fundamentação suficiente a embasar a manutenção da custódia preventiva, que revela-se imprescindível para o fim de se assegurar o cumprimento de eventual condenação, pois nítida a intenção do réu de obstaculizar o andamento da ação criminal e de evitar a ação da Justiça" (HC 336.881/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 02/02/2016).
+3. A tese de ausência de contemporaneidade não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância. Ademais, quando a fuga constitui um dos fundamentos de cautelaridade, a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória. Precedente.
+4. A existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema.
+5. A matéria referente aos requisitos para a concessão de prisão domiciliar já foi apreciada por esta Corte no HC n. 700.857/SP.
+Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+6. Ordem de habeas corpus parcialmente conhecida e, nessa extensão, denegada.
+(HC n. 738.975/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022.);
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGAL DE ARMA DE FOGO. CONDENAÇÃO. NEGATIVA DE APELAR EM LIBERDADE. GRAVIDADE CONCRETA DA CONDUTA. VULTOSA QUANTIDADE DE DROGA APREENDIDA . ACUSADO FORAGIDO. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL.
+1. Segundo o disposto no art. 387, § 1º, do Código de Processo Penal, "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+2. No caso, a manutenção da prisão preventiva decretada em razão da elevada quantidade de droga apreendida (389kg de cocaína) está justificada, pois a sentença condenatória que negou o recurso em liberdade destacou que o paciente está foragido. Assim, demonstrada a necessidade da prisão provisória como forma de assegurar a aplicação da lei penal.
+3. Ordem denegada.
+(HC n. 531.193/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/12/2019, DJe de 19/12/2019.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
