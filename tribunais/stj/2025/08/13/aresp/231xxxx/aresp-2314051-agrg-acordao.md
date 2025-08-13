@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO (5 VEZES, EM CONCURSO FORMAL) E EMBRIAGUEZ AO VOLANTE. VIOLAÇÃO DO ART. 121 DO CP E DOS ARTS. 302 E 303, AMBOS DO CTB. INADMISSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 59 DO CP. IMPROCEDÊNCIA. PRECEDENTES DESTA CORTE. VIOLAÇÃO DO ART. 14 DO CP. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GILMAR ALMEIDA CRUZ contra a decisão por mim proferida, por meio da qual conheci do respectivo agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 1.385/1.392).
+Requer a parte agravante o afastamento dos óbices aplicados (Súmulas 7 e 83, ambas do STJ), uma vez que sustenta não ser necessário o reexame de provas, mas apenas uma valoração jurídica distinta, assim como por entender ser o entendimento desta Corte favorável às teses do recorrente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO (5 VEZES, EM CONCURSO FORMAL) E EMBRIAGUEZ AO VOLANTE. VIOLAÇÃO DO ART. 121 DO CP E DOS ARTS. 302 E 303, AMBOS DO CTB. INADMISSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 59 DO CP. IMPROCEDÊNCIA. PRECEDENTES DESTA CORTE. VIOLAÇÃO DO ART. 14 DO CP. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+O apelo nobre não foi admitido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE pela aplicação, à espécie, das Súmulas 7/STJ e 83/STJ. Posteriormente, ao analisar o agravo, foi conhecido em parcialmente o recurso especial e, nessa parte, negado seguimento.
+Com efeito, a defesa se insurge quanto à condenação de homicídio doloso, por entender não existirem provas mínimas para um édito condenatório, sobretudo por não restar comprovado a ingestão de bebida alcóolica.
+Ocorre que, conforme já assentado na decisão impugnada, para se concluir pela tese sustentada, seria imprescindível o revolvimento do conjunto fático-probatório, pois não se revela a condenação criminal manifestamente destoante das provas já produzidas.
+Sob o ponto, destaco o seguinte trecho do acórdão proferido pela Corte local (fls. 1.266/1.271):
+ ..
+Contudo, o que se pode inferir dos depoimentos acima transcritos é que as testemunhas Maria dos Santos e José Roberto, de forma uníssona, afirmaram que o apelante, minutos antes do acidente, conduzia seu automóvel com velocidade acima da permitida para a via, além de estar praticando um "racha" com um . veículo de cor branca.
+Portanto, há elementos que indicam que o apelante, de fato, desenvolvia alta velocidade na condução do seu veículo.
+De outra via, em que pese a argumentação defensiva, restou patente que o apelante conduziu o veículo sob a influência de álcool, mormente pelo que se denota do depoimento prestado pela testemunha Bárbara Flaiane dos Santos, afirmando que foi socorrida na mesma ambulância que o acusado, de modo que dentro do veículo sentiu que o ele tinha o hálito com cheiro de álcool, constatação que foi confirmada pelo depoimento da testemunha Maria dos Santos Valença da Silva, afirmando que percebeu que o réu estava com sinais de embriaguez, em . razão do seu cheiro e comportamento
+ ..
+Por seu turno, no que se refere à tese defensiva de inidoneidade da fundamentação lançada para aumentar a pena na primeira fase e de desproporcionalidade no critério aplicado para aumentar a pena, verifica-se a seguinte fundamentação apresentada pelo Tribunal de origem (fls. 1.098 e 1.271/1.272):
+ ..
+Quanto às consequências do crime são graves, uma vez que, conforme restou demonstrado, a vítima Lilian Carla Teles Santos, mesmo decorrido lapso temporal razoável desde a ocorrência do fato, permanece em tratamento, enfrentando dificuldades de locomoção, precisou mudar-se de cidade, a fim de receber assistência de sua família que reside neste município, ante as consequências causadas pelo acidente e, além disso, constatou-se ainda que tendo em vista os todas as vitimas ainda são acompanhadas psicologicamente, nelas causadas.  ..
+ ..
+Dessa forma, as consequências do crime, por si só, justificam a exasperação da pena-base como operado na sentença, tendo em vista que, conforme alhures ressaltado, não as lesões provocaram sequelas físicas e emocionais nas vítimas havendo que se falar em fundamentação genérica ou inerente à elementar do crime.
+ ..
+De fato, a tentativa de homicídio apresenta consequências extraordinárias, considerando o imenso sofrimento ocasionado às vítimas. Nesse ponto, impende destacar que a vítima Lilian, questionada em juízo se ficou com alguma sequela decorrente do acidente, respondeu que sim, relatando que "ficou 28 dias hospitalizada. Em coma induzido passou 08 dias, passou por cirurgias grandes, porque teve hemorragia interna, perdeu um pedaço do intestino, e perdeu uma vértebra, uma explosão da vértebra L3 lombar no qual hoje me impossibilita Que anda distâncias curtas com muleta ou com alguém auxiliando. caminhar.
+ ..
+Portanto, o quadro fático dos autos é simétrico aos retratados nos precedentes acima, onde o resultado da conduta supera, infortunadamente, o resultado inerente ao tipo tentado de homicídio, porquanto não há, como sabido, a absorção das lesões corporais pelo resultado morte. É dizer, aqui, a extensão e o alcance do dano a integridade física dos ofendidos é medida de justa e recomendável análise por ocasião da dosimetria da pena.
+Dessa forma, as consequências do crime, por si só, justificam a exasperação da pena-base como operado na sentença, tendo em vista que, conforme alhures ressaltado, as lesões provocaram sequelas físicas e emocionais nas vítimas, não havendo que se falar em fundamentação genérica ou inerente à elementar do crime.
+ ..
+Vale ressaltar que a jurisprudência desta Corte é pacífica no sentido de que, conquanto, em princípio o abalo emocional momentâneo seja uma decorrência natural do tipo penal, o fato de o trauma permanecer após o evento delituoso constitui fundamento apto a justificar o recrudescimento da pena-base pelas consequências do delito, uma vez que desborda das comuns ao fato delituoso  ..  (AgRg no HC n. 609.292/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 6/10/2020, DJe 13/10/2020).
+Da mesma forma, quanto ao aumento fixado na primeira fase da dosimetria da pena, verifica-se que a instância ordinária aplicou um critério dentro da discricionariedade que lhe é assegura pela lei e mediante fundamentação concreta, de modo que não há falar em violação do art. 59 do CP.
+Afinal, a legislação penal não estabeleceu nenhum critério matemático impositivo (fração) para a fixação da pena na primeira fase da dosimetria.
+De certo, a jurisprudência desta Corte tem admitido o uso de dois critérios como parâmetros, ou seja, como mero referenciais para o parâmetros aumento - 1/6 por vetorial negativada ou 1/8 a incidir sob o intervalo entre a pena mínima e máxima abstrato - como a fixação da pena-base mediante outro critério, desde que devidamente calcado em fundamentação concreta e idônea (AgRg no AREsp n. 2.826.532/ES, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025).
+No caso, verifica-se que a instância ordinária aplicou um critério dentro da discricionariedade que lhe é assegura pela lei e mediante fundamentação concreta, de modo que não há falar em violação do art. 59 do CP.
+Por fim, quanto à insurgência afeta à fração utilizada para diminuir a pena, em razão da forma tentada do crime, a jurisprudência desta Corte é no sentido de que a determinação do coeficiente redutor aplicável em virtude da figura da tentativa é inversamente proporcional ao iter criminis percorrido pelo delinquente, de modo a reduzir-se a fração na medida em que o resultado típico restou mais proximamente alcançado.
+No caso, a instância ordinária concluiu que a consumação do delito se avizinhou (fl. 1.272), de maneira que rever tal entendimento, a fim de se concluir de maneira distinta, exigiria aprofundado revolvimento probatório, juízo que encontra óbice na Súmula n. 7/STJ para acolher a tese defensiva seria imprescindível o reexame fático (AgRg no REsp n. 2.162.218/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 4/11/2024 DJe de 6/11/2024).
+Ante o exposto, nego provimento ao agravo regimental.
