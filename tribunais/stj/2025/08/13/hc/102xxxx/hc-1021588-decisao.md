@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FABRICIA CHAGAS DE MIRANDA, em que se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento ao recurso interposto pela defesa (Apelação Criminal n. 1501338-48.2024.8.26.0630 - fls. 11/25), a fim de manter a sentença proferida pelo Juízo de Direito da 1ª Vara Criminal da comarca de Americana/SP que a condenou às penas de dois (2) anos e quatro (4) meses de reclusão, regime inicial fechado e onze (11) dias-multa, piso, por infração ao artigo 155, § 4º, inciso IV, c/c 61, I, 65, III, "d", todos do Código Penal, na Ação Penal n. 1501338-48.2024.8.26.0630 (fls. 241/251).
+A defesa pretende, em síntese, a fixação do regime semiaberto para o início do cumprimento da pena. Aduz que o estabelecimento do regime fechado afronta o art. 33 do Código Penal e a Súmula 269 desta Casa.
+Liminar indeferida (fls. 358/359) e informações prestadas (fls. 364/365), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 368/372).
+É o relatório.
+Não há constrangimento ilegal a ser sanado. Com efeito, nos termos da Súmula 269/STJ, somente quando favoráveis as circunstâncias judiciais é que há a possibilidade de fixação do regime semiaberto ao reincidente condenado à pena inferior a 4 anos.
+E, no caso, o Juízo de primeiro grau destacou que é de se impor o regime inicial fechado, pela específica reincidência e circunstâncias que nortearam a pena base (circunstâncias judiciais desfavoráveis) - (fl. 250).
+Com efeito, estabelecida a pena-base acima do mínimo legal e reconhecida a reincidência do réu, é adequada a fixação do regime prisional fechado para o desconto da reprimenda, malgrado a sanção corporal seja inferior a 4 anos de reclusão. Precedentes (AgRg no REsp n. 2.049.938/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/4/2023).
+Em outras palavras, é inviável a fixação do regime semiaberto, a despeito de a pena ser inferior a 4 anos, pois o paciente é reincidente e a pena-base foi fixada acima do mínimo legal em razão da existência de circunstâncias judiciais desfavoráveis (AgRg no HC n. 755.713/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 4/10/2022). Enfim, é cabível a fixação do regime inicial fechado aos sentenciados reincidentes e com circunstâncias judiciais desfavoráveis, cuja pena haja sido fixada em patamar igual ou inferior a 4 anos de reclusão. Precedentes (AgRg no HC n. 765.735/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 7/10/2022).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE FURTO. REGIME PRISIONAL FECHADO. REINCIDÊNCIA E FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. FATORES DETERMINANTES PARA A FIXAÇÃO DO REGIME INICIAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Quanto à fixação do regime prisional, muito embora o paciente tenha cometido o delito de furto e a condenação não supere 4 anos de reclusão, é reincidente e teve a pena-base fixada acima do mínimo, de modo que, nos termos do art. 33, §§ 2º e 3º do Código Penal - parâmetros legais para a fixação do regime prisional -, de rigor a escolha do modo fechado para o início de expiação da pena.
+2. Consoante jurisprudênc ia desta Corte, "ao paciente reincidente somente é possível a fixação do regime semiaberto quando, a teor do verbete 269 da Súmula deste Superior Tribunal de Justiça, as circunstâncias judiciais forem favoráveis, o que não se verifica na hipótese dos autos" (HC n. 358.141/SP, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/9/2016, DJe 21/9/2016).
+3. Agravo regimental improvido.
+(AgRg no HC n. 695.205/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/12/2021 - grifo nosso).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. CONDENAÇÃO. REGIME DE CUMPRIMENTO. PENA DEFINITIVA INFERIOR A 4 ANOS DE RECLUSÃO. PENA-BASE ACIMA DO MÍNIMO. REINCIDÊNCIA. REGIME FECHADO. POSSIBILIDADE. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
