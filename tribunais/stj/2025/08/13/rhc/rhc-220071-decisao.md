@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por VICENTE MARTINS DE OLIVEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta nos autos que o paciente teve a prisão preventiva decretada pela suposta prática do crime capitulado no art. 121, c/c o art. 14, II, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 195-200.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente ponderando suas condições pessoais favoráveis.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Liminar indeferida às fls. 225-226.
+Informações prestadas às fls. 232-245.
+O Ministério Público Federal em parecer, às fls. 248-253, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que, o recorrente teria praticado o crime de homicídio tentado contra a vítima, sua vizinha, desferindo contra a mesma múltiplos golpes de facão que atingiram suas regiões vitais (abdômen e pescoço), por motivação fútil. Na ocasião, após uma discussão relacionada ao uso de aparelho de som, o acusado agarrou a ofendida pelo pescoço desferindo lhe os golpes que resultaram em ferimentos graves e com intenso sangramento. O crime não se consumou em virtude da fuga da vítima e pronta intervenção policial e médica - fl. 198.
+Insta consignar que a gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva.
+Sobre o tema:
+"A decisão de prisão preventiva foi fundamentada na gravidade concreta do delito e no modus operandi dos pacientes, justificando a necessidade de segregação para garantia da ordem pública"(HC n. 957.387/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 15/4/2025).
+"Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+Caso em que a prisão preventiva foi mantida pelo Tribunal para garantia da ordem pública em razão da periculosidade social do agravante, evidenciada pela gravidade concreta da conduta. Segundo consta, a ré teria atacado a vítima de surpresa pelas costas, com golpes de arma branca em seu pescoço, com intuito de matá-lo, em local público repleto de pessoas e por motivo de extrema futilidade, consistente em um descontentamento da recorrente com o fato de um gato ter sido deixado aos cuidados da vítima.
+As condições subjetivas favoráveis da recorrente, tais como primariedade, residência fixa e ocupação lícita, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública" (AgRg no RHC n. 204.500/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Nesse sentido: AgRg no RHC n. 192.183/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/5/2024; AgRg no HC n. 908.674/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/5/2024 e AgRg no RHC n. 188.488/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/4/2024.
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
