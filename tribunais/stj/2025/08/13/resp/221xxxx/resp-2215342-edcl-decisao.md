@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por D DE C G à decisão de fls. 253/254, que não conheceu do recurso.
+Sustenta a parte embargante:
+6. Ao instruir o presente recurso, o Recorrente anexou à sua peça recursal cópias tanto dos v. acórdãos recorridos quanto da r. sentença proferida pelo N. Magistrado de primeira instância, a qual informa, expressamente, que o processo tramita com a benesse da justiça gratuita, como informado pelo Recorrente em sua exordial.
+7. Ocorre que, apesar do documento, o Ilmo. Ministro Presidente, analisando os autos, não identificou a presença do referido documento, não conhecendo o recurso pela falta de recolhimento do preparo.
+8. Nesse sentido, tem-se obscura a r. decisão embargada quanto à inexistência de comprovação aos autos do deferimento do acesso gratuito do Recorrente à justiça, sendo indispensável, portanto, que o Ilmo. Ministro Presidente acolha os presentes Embargos de Declaração, sanando o vício apontado.
+ ..
+10. Tem-se, portanto, que os autos recursais desde o início encontravam-se devidamente instruídos com a prova necessária de que houve a concessão do benefício da justiça gratuita, uma vez que o documento de fls. 189/201, ao instruir os autos com a r. sentença de fls. 259/362 dos autos originários, supre a necessidade de apresentar a decisão interlocutória anteriormente proferida pelo D. Juízo de primeira instância, uma vez que esta consta com a identificação expressa de que os autos tramitam com a benesse da justiça gratuita, como observa-se:
+ ..
+11. Sendo assim, apesar do pedido de complementação expedido pela z. serventia às fls. 243, é evidente que o processo já se encontrava devidamente instruído de todos os documentos necessários para o seu processamento, incluindo-se a comprovação de que o processo principal tramitava com a concessão da benesse da justiça gratuita (fls. 259/261).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o Recurso Especial não foi instruído com a guia de custas e respectivo comprovante de pagamento, tampouco houve a comprovação, no momento da interposição, de que a parte litiga sob os efeitos da gratuidade de justiça.
+A mera alegação da parte, na petição recursal, de que é beneficiária da assistência judiciária gratuita não é suficiente para o afastamento da deserção, isto é, deve haver a comprovação dessa condição no ato da interposição do recurso, ou quando da intimação para regularização do vício. Nesse sentido: AgInt no AREsp 1545172/SP, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe de 5.6.2020.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, porquanto se limitou a requerer, à fl. 248, a gratuidade de justiça.
+Impende ressaltar que é despiciendo eventual deferimento do benefício da gratuidade de justiça nesse momento processual, pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte embargante das custas processuais referentes aos atos anteriores, porquanto, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele não retroage para alcançar encargos processuais anteriores. Ness e sentido: AgInt no AREsp 1619350/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020; AgInt no REsp 1820544/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20.3.2020; e AgInt no AREsp 1215154/RJ, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe de 24.10.2019).
+Observe ainda que, nestes embargos, a parte traz uma decisão deferindo a gratuidade de justiça para poder comprovar que possui o referido benefício. Porém, no caso, ocorreu preclusão, não sendo possível a comprovação do fato posteriormente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO DO AGRAVO EM RECURSO ESPECIAL. PREPARO. DETERMINAÇÃO DE RECOLHIMENTO EM DOBRO. NÃO CUMPRIDO. PAGAMENTO DAS CUSTAS AO FINAL DO PROCESSO. INAPLICABILIDADE AO STJ. AGRAVO INTERNO NÃO PROVIDO.
+A determinação contida no §4º do art. 1.007 do CPC/2015 esclarece que uma vez oportunizada a parte a regularização do preparo com o pagamento em dobro, a juntada de nova petição, sem o cumprimento do determinado gera preclusão para realização do ato de comprovação.
+Assim, conforme entendimento do STJ, "Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da Justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4º, do NCPC e da já citada Súmula nº 187 desta Corte" (AgInt no AREsp 1177962/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 03/09/2018, DJe 06/09/2018).
+ ..  Agravo interno não provido.(AgInt nos EDcl no AREsp 1451907/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24.9.2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIOS DA JUSTIÇA GRATUITA. INDEFERIMENTO NA ORIGEM. OPORTUNIDADE PARA COMPLEMENTAÇÃO. NÃO CUMPRIMENTO. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ.
+1. Hipótese em que a Corte local indeferiu o pedido de concessão dos benefícios da justiça gratuita, pois não houve a devida comprovação dos pressupostos legais para seu deferimento, determinando-se, ao final, a intimação da parte para recolhimento do preparo do recurso especial.
+2. A parte recorrente, uma vez intimada a efetuar o preparo do recurso, limitou-se a opor embargos de declaração contra a decisão que indeferiu a gratuidade de justiça. Desse modo, o Tribunal de origem concluiu pela deserção do apelo.
+3. Não merece reparos a decisão prolatada pela Corte estadual, uma vez que, de acordo com o art. 1.007, § 7º, do CPC/2015, "No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção".
+4. In casu, a parte recorrente, mesmo após intimada a regularizar o preparo, não o fez devidamente, caracterizando, assim, a deserção do recurso especial.
+5. Conforme entendimento do STJ, "Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da Justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4º, do NCPC e da já citada Súmula nº 187 desta Corte" (AgInt no AREsp 1177962/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 03/09/2018, DJe 06/09/2018).
+6. Agravo Interno não provido.
+(AgInt no AREsp 1390111/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 8.4.2019.)
+Assim, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
