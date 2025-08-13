@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EXECUÇÃO penal. Agravo regimental NO HABEAS CORPUS. Progressão de regime. Exame criminológico. SAÍDAS TEMPORÁRIAS. Retroatividade de lei mais gravosa. RECURSO IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu a ordem para restabelecer a progressão de regime e as saídas temporárias ao apenado, após a alteração legislativa promovida pela Lei n. 14.843/2024.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a exigência de exame criminológico para progressão de regime e as restrições às saídas temporárias, modificações introduzidas pela Lei n. 14.843/2024, podem ser aplicadas retroativamente aos apenados que cometeram crimes antes de sua vigência.
+III. Razões de decidir
+3. A Lei n. 14.843/2024, que introduz a exigência de exame criminológico para progressão de regime e estabelece restrições para a concessão de saída temporária, não pode ser aplicada retroativamente, pois constitui novatio legis in pejus.
+IV. Dispositivo e tese
+4. Agravo regimental improvido.
+Tese de julgamento: "1. A exigência de exame criminológico para progressão de regime, e a restrição às saídas temporárias, introduzidas pela Lei n. 14.843/2024, não podem ser aplicadas a apenados que cometeram crimes antes de sua vigência, em respeito ao princípio da irretroatividade da lei penal mais gravosa. 2. O princípio da irretroatividade da lei penal mais gravosa impede a aplicação de normas mais severas a fatos anteriores à sua vigência."
+Dispositivos relevantes citados: CR/1988, art. 5º, XL; CP, art. 2º; LEP, art. 112, § 1º.
+Jurisprudência relevante citada: STF, HC n. 240.770/MG, Rel. Min. André Mendonça, julgado em 28/5/2024; STJ, RHC n. 200.670/GO, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024; STJ, AgRg no HC 888.628/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 23/10/2024; STJ, AgRg no HC n. 929.034/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024; STJ, AgRg no HC n. 962.792/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 22/4/2025; STJ, AgRg no HC n. 986.695/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão que concedeu a ordem.
+Nas razões recursais, o agravante alega que " as  modificações trazidas pela Lei n. 14.843/24 na Lei de Execução Penal, no que diz respeito à realização de exame criminológico para progressão de regime e à restrição das saídas temporárias e do trabalho externo, aplicam-se no bojo de um processo de execução, de natureza procedimental." (e-STJ, fl. 93).
+Sustenta, nessa linha de raciocínio, que a Lei n. 14.843/2024, ao alterar o parágrafo 1º do artigo 112 da LEP, não modificou os efeitos penais dos benefícios executórios, nem estabeleceu novo requisito material à progressão de regime, de modo que não pode ser classificada como norma de natureza penal ou mista, devendo, portanto, ser aplicada imediatamente aos processos de execução penal em curso.
+Desse modo, argumenta que, "não se mostra razoável a manutenção do benefício da saída temporária e a dispensa do exame criminológico para a progressão de regime, ambos com base na data do cometimento do crime, pois a norma que dispõe sobre as referidas benesses tem caráter eminentemente processual e deve ser aferida no momento em que o direito é implementado, ou seja, quando os requisitos são preenchidos pelo apenado." (e-STJ, fl. 94).
+Obtempera que o entendimento contrário acarreta a coexistência de dois sistemas de controle distintos na unidade prisionais: um, para aqueles que ainda poderiam usufruir das saídas temporárias por terem praticado fato criminoso até 11/4/2024 (data em que a nova legislação entrou em vigor), e outro, para os condenados por fatos praticados após a referida data, para os quais a permissão seria vedada.
+Afirma que essa coexistência de regimes diversos, que pode perdurar enquanto houver presos cumprindo pena por crime anterior à nova lei, é contrária ao propósito de aprimorar a segurança pública, que norteou o legislador à criação da nova norma.
+Requer, ao final, a reconsideração da decisão agravada ou o provimento do recurso por este Órgão Colegiado, para seja restabelecido o acórdão estadual que suspendeu a progressão de regime e as saídas temporárias até a realização do exame criminológico.
+É o relatório.
+EMENTA
+EXECUÇÃO penal. Agravo regimental NO HABEAS CORPUS. Progressão de regime. Exame criminológico. SAÍDAS TEMPORÁRIAS. Retroatividade de lei mais gravosa. RECURSO IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu a ordem para restabelecer a progressão de regime e as saídas temporárias ao apenado, após a alteração legislativa promovida pela Lei n. 14.843/2024.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a exigência de exame criminológico para progressão de regime e as restrições às saídas temporárias, modificações introduzidas pela Lei n. 14.843/2024, podem ser aplicadas retroativamente aos apenados que cometeram crimes antes de sua vigência.
+III. Razões de decidir
+3. A Lei n. 14.843/2024, que introduz a exigência de exame criminológico para progressão de regime e estabelece restrições para a concessão de saída temporária, não pode ser aplicada retroativamente, pois constitui novatio legis in pejus.
+IV. Dispositivo e tese
+4. Agravo regimental improvido.
+Tese de julgamento: "1. A exigência de exame criminológico para progressão de regime, e a restrição às saídas temporárias, introduzidas pela Lei n. 14.843/2024, não podem ser aplicadas a apenados que cometeram crimes antes de sua vigência, em respeito ao princípio da irretroatividade da lei penal mais gravosa. 2. O princípio da irretroatividade da lei penal mais gravosa impede a aplicação de normas mais severas a fatos anteriores à sua vigência."
+Dispositivos relevantes citados: CR/1988, art. 5º, XL; CP, art. 2º; LEP, art. 112, § 1º.
+Jurisprudência relevante citada: STF, HC n. 240.770/MG, Rel. Min. André Mendonça, julgado em 28/5/2024; STJ, RHC n. 200.670/GO, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024; STJ, AgRg no HC 888.628/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 23/10/2024; STJ, AgRg no HC n. 929.034/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024; STJ, AgRg no HC n. 962.792/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 22/4/2025; STJ, AgRg no HC n. 986.695/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025.
+VOTO
+Não obstante os esforços argumentativos do Ministério Público, a irresignação não merece prosperar.
+Consta dos autos que o Tribunal de origem cassou a decisão de primeiro grau que havia deferido ao paciente a progressão de regime e as saídas temporárias, determinando a realização do exame criminológico com base na inovação trazida pela Lei n. 14.843/2024 no art. 112, § 1º, da LEP, in verbis:
+"Art. 112.  ..
+§ 1º Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão."
+A respeito, sublinho que, em reiterados julgados, esta Corte Superior adota posicionamento em consonância com o do Supremo Tribunal Federal (HC n. 240.770/MG, relator Ministro André Mendonça, julgado em 28/5/2024 e publicado em 29/5/2024), no sentido de que a retroatividade da Lei n. 14.843/2024, ante o art. 5º, XL, da CR/1988, demonstra ser inconstitucional, e, de acordo com o art. 2º do CP, ilegal.
+Dessa forma, " a  exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade." (RHC n. 200.670/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024.).
+Trago, ainda, as seguintes ementas de julgados recentes da Quinta e da Sexta Turma do STJ:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. NOVA EXIGÊNCIA PELA LEI N. 14.843/2024. NORMA DE NATUREZA PENAL. NOVATIO LEGIS IN PEJUS. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A obrigatoriedade do exame criminológico, como novo requisito para todas as concessões de progressão de regime prisional, representa típico caso de novatio legis in pejus, uma vez que adiciona um requisito à concessão do benefício.
+2. A nova redação conferida ao § 1º do art. 112 da LEP constitui implemento de norma de natureza penal, e não processual, de modo que a sua aplicação retroativa se mostra inconstitucional, haja vista o art. 5º, XL, da Constituição Federal, bem como, ilegal, nos termos do art. 2º do Código Penal.
+3. Entendimento consignado pela Sexta Turma, no sentido da impossibilidade de aplicação da referida alteração aos casos anteriores.
+4. Na espécie, tem-se que o caso do agravado, por ser anterior ao advento da Lei n. 14.843/2024, não está sob sua incidência.
+5. Agravo regimental não provido." (AgRg no HC n. 888.628/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. ART. 112, § 1º, DA LEP, NA REDAÇÃO DADA PELA LEI N. 14.843/2024. NORMA MAIS GRAVOSA. IMPOSSIBILIDADE DE SUA APLICAÇÃO À EXECUÇÃO EM CURSO. INCIDÊNCIA DA SÚMULA N. 439/STJ. DECISÃO JUDICIAL QUE DETERMINA A REALIZAÇÃO DA PERÍCIA PAUTADA NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM CONCEDIDA. RECURSO DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Em outras alterações efetuadas na Lei de Execuções Penais, as Cortes Superiores firmaram entendimento no sentido de que as novas disposições deveriam ser aplicadas aos delitos praticados após a sua vigência, por inaugurarem situação mais gravosa aos apenados.
+2. Ressalta-se que, no âmbito do Supremo Tribunal Federal, ao analisar as modificações trazidas pela Lei n. 14.843/2024 no direito às saídas temporárias, o Ministro André Mendonça, relator do HC n. 240.770/MG, entendeu que se trata de novatio legis in pejus, incidente, portanto, aos crimes cometidos após o início de sua vigência.
+3. Cabe estender esse raciocínio à nova redação do art. 112, § 1º, da LEP, que passou a exigir exame criminológico para progressão de regime, de modo que deve ser mantido o entendimento firmado na Súmula n. 439/STJ, segundo o qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Em se tratando de hipótese na qual foi exigido o exame criminológico mediante decisão fundada exclusivamente na gravidade abstrata do delito, sem análise dos elementos concretos da execução da pena, verifica-se constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+5. Agravo regimental desprovido." (AgRg no HC n. 929.034/SP, de minha relatoria, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+Adota-se entendimento análogo quanto ao novo regramento das saídas temporárias:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RETROATIVIDADE DA LEI PENAL MAIS GRAVOSA. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu a ordem de oficio para restabelecer o direito do apenado às saídas temporárias, após a alteração legislativa promovida pela Lei n. 14.843/2024.
+2. A decisão agravada foi mantida com base no entendimento de que a nova legislação constitui novatio legis in pejus, não podendo retroagir para alcançar fatos anteriores à sua vigência, conforme o princípio da irretroatividade da lei penal mais gravosa.
+3. A aplicação imediata da nova norma, por ser de natureza processual, foi refutada, uma vez que a alteração legislativa é mais gravosa e, portanto, não pode retroagir para prejudicar o apenado.
+4. O princípio da individualização da pena, que se estende à fase executória, foi considerado, garantindo que a norma vigente ao tempo do crime seja aplicada, salvo se a nova legislação for mais benéfica.
+5. Agravo regimental improvido." (AgRg no HC n. 962.792/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.)
+"AGRAVO REGIMENTAL MINISTERIAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. LEI N. 14.843/2024. ALTERAÇÃO DO ART. 122, § 2º, DA LEP. RESTRIÇÃO DO BENEFÍCIO PARA CONDENADOS POR CRIME HEDIONDO OU COM VIOLÊNCIA OU GRAVE AMEAÇA CONTRA A PESSOA. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. NORMA DE NATUREZA MATERIAL. IRRETROATIVIDADE DA LEI PENAL MAIS GRAVOSA. CONSTRANGIMENTO ILEGAL CONFIGURADO. MANUTENÇÃO DA DECISÃO AGRAVADA QUE CONCEDEU O WRIT DE OFÍCIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Lei n. 14.843/2024 alterou o art. 122 da Lei de Execuções Penais, vedando o benefício da saída temporária a condenados por crime hediondo ou cometido com violência ou grave ameaça contra a pessoa, além de restringir as hipóteses de sua concessão.
+2. Tais alterações legislativas possuem natureza de direito penal material e não podem ser aplicadas retroativamente a fatos praticados antes de sua vigência.
+3. O princípio da irretroatividade da lei penal mais gravosa (CF, art. 5º, XL; CP, art. 2º) impede a incidência de norma restritiva sobre situação jurídica consolidada, como no caso de apenado que já cumpria pena por crime praticado anteriormente à modificação legal.
+4. Configura constrangimento ilegal a cassação de benefício concedido sob a égide da legislação anterior, razão pela qual é legítima, no caso concreto, a concessão do habeas corpus de ofício para restabelecer a decisão do Juízo da execução.
+5. Ausência de argumentos aptos a infirmar os fundamentos da decisão agravada, que se harmoniza com o entendimento consolidado nesta Corte Superior acerca da irretroatividade das normas penais mais gravosas.
+6. Agravo regimental não provido." (AgRg no HC n. 986.695/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
+Nesse contexto, reitero a existência de flagrante ilegalidade no acórdão estadual apta a ensejar a concessão da ordem, de ofício, para restabelecer a decisão do Juízo das Execuções que deferiu ao reeducando a progressão de regime e as saídas temporárias, por considerar presentes os requisitos legais necessários à aquisição dos benefícios.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
