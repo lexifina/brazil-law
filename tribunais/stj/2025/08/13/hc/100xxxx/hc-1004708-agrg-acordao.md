@@ -1,0 +1,132 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EXECUÇÃO penal. Agravo regimental NO HABEAS CORPUS. Saída temporária. Requisitos subjetivos. RECURSO IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se pleiteava a concessão de saída temporária na modalidade de visita periódica ao lar, indeferida pelo Juízo da Execução Penal.
+2. O indeferimento baseou-se na ausência de compatibilidade do benefício com os objetivos da pena, evidenciada pela reincidência do apenado em crimes graves (homicídio, organização criminosa e extorsão) quando beneficiado anteriormente com o livramento condicional.
+3. O Tribunal Estadual confirmou a decisão de primeiro grau, destacando a ausência de comportamento adequado e a incompatibilidade do benefício com os objetivos da pena, conforme o art. 123, incisos I e III, da Lei de Execução Penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o apenado preenche os requisitos subjetivos para a concessão da saída temporária, considerando seu histórico prisional e a reincidência em crimes graves, praticados quando beneficiado com livramento condicional.
+5. Há também a questão de saber se a decisão de indeferimento do benefício pode ser revista sem incorrer em reexame fático-probatório, o que é vedado na via do habeas corpus.
+III. Razões de decidir
+6. O Tribunal considerou que o histórico prisional do apenado, incluindo a reincidência em crimes graves, demonstra a ausência de compatibilidade do benefício com os objetivos da pena.
+7. A jurisprudência do STJ estabelece que a progressão ao regime semiaberto não assegura automaticamente o direito à saída temporária, sendo necessário o cumprimento dos requisitos subjetivos previstos na Lei de Execução Penal.
+8. A revisão da decisão de indeferimento do benefício demandaria reexame fático-probatório, o que é incompatível com a via do habeas corpus.
+IV. Dispositivo e tese
+9. Agravo regimental improvido.
+Tese de julgamento: "1. A concessão de saída temporária exige o cumprimento dos requisitos subjetivos previstos no art. 123 da Lei de Execução Penal. 2. A progressão ao regime semiaberto não assegura automaticamente o direito à saída temporária. 3. O reexame fático-probatório é inviável na via do habeas corpus".
+Dispositivos relevantes citados: LEP, art. 123, incisos I e III.
+Jurisprudência relevante citada: STJ, HC n. 927.278/RJ, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2024; STJ, AgRg no HC n. 889.383/RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024; STJ, AgRg no HC 797.831/RJ, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023; STJ, AgRg no HC n. 730.727/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/4/2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PETERSON VIEIRA GURGEL contra decisão que não conheceu do habeas corpus.
+Em suas razões, o agravante afirma que a decisão de indeferimento das saídas temporárias, da espécie visita periódica ao lar, não se baseia em dado atual ou concreto que desabone a conduta do paciente.
+Ressalta que: (i) seu comportamento carcerário se mantém classificado como excepcional desde 2016; (ii) foram-lhe remidos 911 dias por estudo, leitura e trabalho; (iii) realiza assistência religiosa aos demais internos; (iv) o exame criminológico lhe é favorável ao convívio social; (v) goza de acompanhamento psiquiátrico regular, com laudos médicos que concluem pela sua convivência social, desde que mantido o tratamento contínuo; (vi) foram cumpridos mais de 18 anos de pena, com preenchimento de requisito objetivo para progressão ao regime aberto desde 11/7/2023.
+Argumenta que este Tribunal Superior tem precedentes em sentido oposto ao da decisão agravada, "reconhecendo que o histórico prisional não pode ser critério exclusivo e impeditivo à concessão de benefícios quando há demonstração de efetiva ressocialização" (e-STJ, fl. 107).
+Requer, ao final, a autorização da saída temporária na modalidade visitação periódica ao lar.
+É o relatório.
+EMENTA
+EXECUÇÃO penal. Agravo regimental NO HABEAS CORPUS. Saída temporária. Requisitos subjetivos. RECURSO IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se pleiteava a concessão de saída temporária na modalidade de visita periódica ao lar, indeferida pelo Juízo da Execução Penal.
+2. O indeferimento baseou-se na ausência de compatibilidade do benefício com os objetivos da pena, evidenciada pela reincidência do apenado em crimes graves (homicídio, organização criminosa e extorsão) quando beneficiado anteriormente com o livramento condicional.
+3. O Tribunal Estadual confirmou a decisão de primeiro grau, destacando a ausência de comportamento adequado e a incompatibilidade do benefício com os objetivos da pena, conforme o art. 123, incisos I e III, da Lei de Execução Penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o apenado preenche os requisitos subjetivos para a concessão da saída temporária, considerando seu histórico prisional e a reincidência em crimes graves, praticados quando beneficiado com livramento condicional.
+5. Há também a questão de saber se a decisão de indeferimento do benefício pode ser revista sem incorrer em reexame fático-probatório, o que é vedado na via do habeas corpus.
+III. Razões de decidir
+6. O Tribunal considerou que o histórico prisional do apenado, incluindo a reincidência em crimes graves, demonstra a ausência de compatibilidade do benefício com os objetivos da pena.
+7. A jurisprudência do STJ estabelece que a progressão ao regime semiaberto não assegura automaticamente o direito à saída temporária, sendo necessário o cumprimento dos requisitos subjetivos previstos na Lei de Execução Penal.
+8. A revisão da decisão de indeferimento do benefício demandaria reexame fático-probatório, o que é incompatível com a via do habeas corpus.
+IV. Dispositivo e tese
+9. Agravo regimental improvido.
+Tese de julgamento: "1. A concessão de saída temporária exige o cumprimento dos requisitos subjetivos previstos no art. 123 da Lei de Execução Penal. 2. A progressão ao regime semiaberto não assegura automaticamente o direito à saída temporária. 3. O reexame fático-probatório é inviável na via do habeas corpus".
+Dispositivos relevantes citados: LEP, art. 123, incisos I e III.
+Jurisprudência relevante citada: STJ, HC n. 927.278/RJ, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2024; STJ, AgRg no HC n. 889.383/RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024; STJ, AgRg no HC 797.831/RJ, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023; STJ, AgRg no HC n. 730.727/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/4/2022.
+VOTO
+A irresignação não merece prosperar.
+Os requisitos legais para a concessão das saídas temporárias encontram-se presentes no art. 123 da Lei de Execução Penal, que assim dispõe:
+"Art. 123 - A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária e dependerá da satisfação dos seguintes requisitos:
+I - comportamento adequado;
+II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e 1/4 (um quarto), se reincidente;
+III - compatibilidade do benefício com os objetivos da pena."
+Analisando o caso, o Tribunal Estadual confirmou a decisão do Juízo de primeiro grau, que indeferiu a visita periódica ao lar, aos seguintes fundamentos:
+"Trata-se de agravo interposto contra a decisão proferida pelo Juízo da Execução Penal, que indeferiu ao agravante, em 10/01/2025, o benefício de visita periódica ao lar. (fls. 07/08 - doc. 02).
+Vejamos o teor da decisão agravada:
+"Progressão de Regime: 11/07/2023
+Livramento Condicional: 29/10/2032
+Término da Pena: 28/07/2044
+Pena Remanescente: 19 anos 7 meses 26 dias
+Processo na origem: 0024468-25.2016.8.19.0014 Trânsito em Julgado:
+Processo na origem: 0011217-37.2016.8.19.0014 05/11/2019 Trânsito em Julgado:
+Processo na origem: 0001859-13.2008.8.19.0084 28/10/2014 Trânsito em Julgado:
+Endereço: RUA MILTON RONDON, 33 - FAROL DE SÃO TOMÉ - CAMPOS DOS GOYTACAZES/RJ
+Trata-se de manifestação defensiva pela concessão de saída temporária de VPL ao apenado, conforme petição da seq. 300, reiterada na seq. 423.
+O Ministério Público se manifestou contrariamente ao benefício, conforme promoção da seq. 428.1, alegando que:
+"Reitera o Ministério Público o teor da promoção acostada em seq.398, pelo indeferimento da VPL, ante a ausência do requisito exigido no art. 123, III, da LEP.
+Trata-se de apenado reincidente e com perfil criminológico acentuado, que foi condenado a mais de 36 anos de reclusão, pela prática de delitos de homicídios qualificados, extorsão, organização criminosa e outros.
+Conforme cálculo, o término da pena está previsto para ocorrer em 2044.
+O remanescente é superior a 19 anos.
+Assim, mostra-se precoce a concessão de saídas extramuros de forma desvigiada."
+É o relatório. DECIDO.
+Não obstante manifestação defensiva, verifico que assiste razão ao Ministério Público. No presente caso, o apenado restou condenado a pena total de 36 anos e 11 meses e 24 dias de reclusão, pelos crimes de homicídio qualificado, constrangimento de terceiros para vantagem econômica própria e adulteração de cadáver, se utilizando de cargo público de policial militar para cometer tais crimes, restando ainda mais de 19 anos de pena a cumprir, uma vez que o término da pena ocorrerá somente em 28/07/2044, conforme cálculos do sistema.
+Verifica-se que o apenado não possui comportamento satisfatório, sendo certo que já descumpriu as condições do livramento condicional, vindo a praticar novo crime. Além disso, embora o apenado tenha resgatado o mérito carcerário, ainda não preencheu o requisito subjetivo como um todo. Ademais, se posto em liberdade, mesmo que sob a forma da VPL, poderá novamente frustrar os objetivos da execução penal, deixando de cumprir as condições de seu benefício além do risco concreto de vulnerar a ordem pública em virtude de eventual, o caso analisado, pelas suas singularidades, demanda reiteração criminosa.
+Desta forma especial rigor na aferição dos requisitos subjetivos e concessão de benefícios que propiciarão maior contato do apenado com a sociedade.
+A visita periódica ao lar é modalidade de saída desvigiada que deve ser concedida ao apenado em regime semiaberto que demonstra bom comportamento e perfil carcerário compatível com o referido benefício, visto que exige relevante comprometimento com a execução da pena.
+Além disso, o referido benefício visa preparar o apenado para o retorno ao livre convívio social, de forma prudente e gradativa.
+Note-se que, em que pese o apenado atender ao requisito objetivo e comportamento carcerário atual adequado à concessão do benefício, o mesmo não atende ao requisito subjetivo previsto no artigo 123, incisos I e III, do Código Penal, uma vez que as suas condições pessoais indicam que a concessão da VPL poderá ensejar a reiteração criminosa, frustrando-se os objetivos da execução de sua pena e turbando a ordem pública.
+Neste ponto vale ressaltar que o comportamento carcerário adequado a que alude o inciso I, do artigo 123, da LEP deve abarcar toda a execução de sua pena, pois o dispositivo legal não faz qualquer limitação temporal à avaliação do requisito subjetivo.
+Nesse sentido dispõe o artigo 123, I, da LEP:  ..
+A jurisprudência do STJ também é no mesmo sentido:  ..
+Pelo exposto, entende-se que o apenado não está apto a receber o benefício requerido, ante as condições desfavoráveis que não se coadunam com os objetivos da sua pena, a alta pena remanescente e seu comportamento inadequado, em razão do que, INDEFIRO o pleito de VPL por não estarem preenchidos os requisitos subjetivos autorizadores para concessão do benefício, na forma do artigo 123, incisos I e III, da LEP.
+Ciência às partes."
+Pois bem, data vênia as alegações da combativa defesa, razão não lhe assiste, pois, a fundamentação adotada pelo magistrado se mostra totalmente idônea e está fulcrada na ausência do requisito subjetivo, a saber, de um histórico prisional desfavorável ao apenado.
+Efetuada consulta ao Sistema SEEU, consta que o agravante possui três Cartas de Execução de Sentença pela prática dos crimes de homicídio, ocultação de cadáver, organização criminosa e extorsão, totalizando 36 anos, 11 meses e 24 dias de pena, com término de cumprimento previsto para 14/04/2044.
+Em 16/06/2015, quando cumpria pena pela prática dos crimes de homicídio e de ocultação de cadáver, o agravante foi beneficiado com o livramento condicional. Contudo, em 17/10/2016, voltou a ser preso, pela prática de novo crime de homicídio, bem como pela prática dos delitos de organização criminosa e extorsão.
+A jurisprudência do STJ, em situação análoga, fixou a tese firmada no Tema Repetitivo nº 1161 pela Terceira Seção do STJ, em julgamento de análise de concessão do benefício de livramento condicional, o bom comportamento durante a execução da pena deve considerar todo o histórico prisional, não se limitando ao período de 12 meses.
+Logo, a meu sentir, a decisão do Juízo executório não comporta qualquer ajuste, pois, demonstrado que, de fato, o apenado no gozo do benefício de livramento condicional, voltou a praticar novos crimes, ressaltando o fato da reincidência em relação ao crime de homicídio.
+Neste cenário, considerando o histórico penitenciário do apenado, mostra-se desarrazoada a concessão do benefício, sendo incompatível com os objetivos da pena, tendo em vista a ausência de responsabilidade que ainda demonstra.
+Assim, não obstante o comportamento carcerário excepcional do agravante, entendo prematura a concessão da visita periódica ao lar, já que inexistem elementos que conduzam a um prognóstico seguro de que ele alcançou o senso de responsabilidade e disciplina necessários à obtenção do benefício, relevando-se a sua gradual ressocialização e a punição pelas condutas praticadas." (e-STJ, fls. 64-68, grifou-se).
+Da leitura do trecho acima transcrito, observo que o indeferimento da saída temporária, na modalidade visitação periódica à família (VPL), teve como base a ausência de compatibilidade do benefício com os objetivos da pena, evidenciada pela a ausência de responsabilidade por parte do paciente, que, beneficiado com o livramento condicional, voltou a delinquir - cometimento de novo crime de homicídio, de organização criminosa e de extorsão.
+A respeito, a jurisprudência deste Tribunal se posiciona no sentido de que o fato de o apenado ter progredido ao regime semiaberto não lhe assegura o direito à saída temporária ou à visitação periódica ao lar, estando devidamente fundamentada a decisão que indeferiu o benefício, in casu, pelo não cumprimento do requisito inserto no inciso III do artigo 123 da LEP.
+Por oportuno, confiram-se os seguintes precedentes:
+"HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. AUSÊNCIA DE REQUISITOS SUBJETIVOS. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. A progressão ao regime aberto não acarreta automaticamente o direito à visita periódica. Exige-se maior critério na concessão.
+2. A concessão do benefício de visitas periódicas ao lar deve considerar sua compatibilidade com os objetivos da pena e o bom comportamento do detento. Além disso, o contato mais amplo do apenado com a sociedade deve ser feito de forma gradual, para não comprometer os propósitos da execução penal. Precedente.
+3. No caso, o Tribunal local considerou que a recente progressão ao regime semiaberto demandava maior observação do comportamento do apenado.
+Tal conclusão somente poderia ser revertida mediante incursão no acervo fático-probatório, razão pela qual ausente constrangimento ilegal.
+4.Ordem denegada." (HC n. 927.278/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2024, DJe de 23/9/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VISITAS PERIÓDICAS AO LAR. REQUISITOS LEGAIS NÃO ATENDIDOS PARA CONCESSÃO DA BENESSE. INCOMPATIBILIDADE COM OS OBJETIVOS DA PENA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O fato de o apenado estar em regime semiaberto não lhe garante o benefício da saída temporária, devendo preencher os requisitos previstos na Lei de Execução Penal para obtenção da benesse.
+2. In casu, foi realizada análise acerca do atendimento ao requisito previsto no inciso III do art. 123 da Lei de Execução Penal, que preceitua a necessidade de exame da compatibilidade dos benefícios com os objetivos da pena, o que não foi vislumbrado pelas instâncias ordinárias.
+ ..
+4. Agravo regimental desprovido." (AgRg no HC n. 889.383/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. ANÁLISE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REVISÃO DO ENTENDIMENTO ADOTADO PELAS INSTÂNCIAS DE ORIGEM. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA ESTREITA VIA DO WRIT. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para fins de concessão do benefício de saída temporária, o art. 123 da Lei de Execução Penal exige o comportamento adequado do condenado, o cumprimento de 1/6 da pena, para o réu primário, e de 1/4, caso seja reincidente, bem como a compatibilidade do benefício com os objetivos da pena.
+2. Na hipótese, as instâncias de origem negaram o pedido de saída temporária em face da ausência do requisito subjetivo do reeducando, consubstanciado não apenas na gravidade dos crimes cometidos e na longa pena a cumprir, mas também no fato de que, após a concessão do livramento condicional, o apenado cometeu novo crime, e ainda ostenta registro em sua execução de duas evasões, nas quais também voltou a delinquir.
+3. Esta Corte Superior pacificou entendimento segundo o qual o apenado ter progredido ao regime semiaberto não lhe assegura o direito à saída temporária ou à visitação periódica ao lar, devendo ser analisado o cumprimento do requisito subjetivo para a concessão dos benefícios.
+4. Nessa linha de raciocínio, estando consignada a ausência do requisito subjetivo para a aquisição das benesses, impõe-se a aplicação da jurisprudência firmada por ambas as Turmas da Terceira Seção desta Corte Superior no sentido de que o afastamento das conclusões adotadas pelas instâncias de origem, quanto ao não cumprimento do requisito subjetivo para a obtenção da VPL ou do TEM, enseja o inevitável reexame fático-probatório, inadmissível na via estreita do habeas corpus.
+5. Agravo regimental desprovido." (AgRg no HC n. 797.831/RJ, de minha relatoria, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDEFERIMENTO DA VISITA PERIÓDICA AO LAR. FUNDAMENTOS CONCRETOS E IDÔNEOS. EVASÃO ANTERIOR DO SISTEMA CARCERÁRIO, QUANDO BENEFICIADO COM A VPL. ENVOLVIMENTO ANTERIOR COMO UM DOS PRINCIPAIS LÍDERES DE FACÇÃO CRIMINOSA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO IMPROVIDO.
+1- Nos termos do art. 123 da LEP: A autorização da visita periódica ao lar será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária e dependerá da satisfação dos seguintes requisitos: I - comportamento adequado; II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e 1/4 (um quarto), se reincidente; III - compatibilidade do benefício com os objetivos da pena.
+2-  ..  No caso, as instâncias ordinárias, fundamentadamente, concluíram pelo não preenchimento do requisito constante do inciso III do art. 123 da Lei de Execução Penal - o qual preceitua a necessidade de análise acerca da compatibilidade do benefício da saída temporária com os objetivos da pena -, tendo em vista que a paciente teria demonstrado não possuir autodisciplina e responsabilidade suficientes.  .. . (AgRg no HC 581.645/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 24/11/2020, DJe 7/12/2020).
+3- Na hipótese em questão, o executado não demonstrou um comportamento adequado, a ponto de merecer a benesse, tendo em vista ter se evadido anteriormente do sistema carcerário, quando recebeu, em 2005, o mesmo benefício que ora pleiteia, além de ter ficado foragido durante 2 anos. Ademais, é classificado, no sistema penitenciário, como preso de altíssima periculosidade, devido ao seu envolvimento, como líder, em facção criminosa.
+4- Agravo Regimental não provido." (AgRg no HC n. 730.727/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022.)
+Nessa linha de raciocínio, não verifico ilegalidade apta a conceder a ordem, de ofício.
+Aponto, ainda, que afastar as conclusões adotadas pelas instâncias de origem quanto ao cumprimento do requisito subjetivo para aquisição concessão da benesse enseja o inevitável reexame fático-probatório, inadmissível na via estreita do writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. SAÍDAS TEMPORÁRIAS. INDEFERIMENTO. EXAME APROFUNDADO DE PROVAS. INCOMPATIBILIDADE COM A VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O benefício das saídas temporárias pressupõe o cumprimento de todos os requisitos previstos no art. 123 da LEP. No caso, as instâncias ordinárias indeferiram o pleito da defesa, tendo em vista a recomendação negativa no laudo técnico, que avaliou o agravante, bem como o fato de que ele próprio informou não ter interesse no benefício.
+2. É firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão sobre o não preenchimento do requisito subjetivo e a incompatibilidade do benefício de saídas temporárias com os objetivos da pena, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento esse incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido." (AgRg no HC n. 840.194/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/10/2023, DJe de 19/10/2023).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. VISITA PERIÓDICA AO LAR. ART. 123, III, DA LEP. FUNDAMENTAÇÃO: INCOMPATIBILIDADE COM OS OBJETIVOS DA PENA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição a recurso, o que implica o seu não conhecimento, ressalvados casos excepcionais, onde seja possível a concessão da ordem, de ofício.
+II - No presente caso, as instâncias ordinárias deixaram de conceder o benefício da visita periódica ao lar, por entender que não se mostrava compatível com os objetivos da pena (art. 123, III, da LEP).
+III - Em recente julgado, esta Quinta Turma, reiterou a tese já assentada de que a concessão de saída temporária não é consequência necessária da progressão ao regime semiaberto (AgRg no HC n. 690.521/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/2/2022).
+IV - Assim, deve ser gradual o contato do apenado com a sociedade, a fim de não frustrar os objetivos da execução e de se observar a efetiva compatibilidade de maiores benefícios com os objetivos da pena e o bom comportamento do apenado. Precedentes.
+V - De outra sorte, modificar tal conclusão, para se entender que estão atendidos os requisitos subjetivos, demandaria aprofundada incursão no acervo fático probatório dos autos da execução penal, providência inviável na via estreita dos habeas corpus.
+Habeas corpus não conhecido." (HC n. 720.890/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/3/2022, DJe de 15/3/2022).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
