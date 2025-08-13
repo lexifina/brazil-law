@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FISCALIZAÇÃO. RECEITA FEDERAL. DISTRIBUIÇÃO POR SETORES E GRUPOS ECONÔMICOS E NÃO POR LOCALIZAÇÃO GEOGÁFICA. REGULARIDADE. REGULAMENTOS DA SECRETARIA DA RECEITA FEDERAL. AUSÊNCIA DE SUBJETIVIDADE E PESSOALIDADE NOS CRITÉRIOS DE SELEÇÃO DA AÇÃO FISCAL. REVISÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. Rever a conclusão do Tribunal de origem - da regularidade na fiscalização dos maiores contribuintes a cargo da delegacia especializada - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LEVIAN PARTICIPAÇÕES E EMPREENDIMENTOS S.A. contra decisão desta relatoria assim ementada (e-STJ, fl. 690):
+AGRAVO EM RECURSO ESPECIAL. CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FISCALIZAÇÃO. RECEITA FEDERAL. DISTRIBUIÇÃO POR SETORES E GRUPOS ECONÔMICOS E NÃO POR LOCALIZAÇÃO GEOGÁFICA. REGULARIDADE. REGULAMENTOS DA SECRETARIA DA RECEITA FEDERAL. AUSÊNCIA DE SUBJETIVIDADE E PESSOALIDADE NOS CRITÉRIOS DE SELEÇÃO DA AÇÃO FISCAL. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo, a insurgente alega a inaplicabilidade dos óbices apontados e repisa as razões da peça inicial de negativa de prestação jurisdicional e de não ser legitima a sua fiscalizaça o por autoridade administrativa completamente desvinculada de sua jurisdiça o.
+Defende que "não houve observância ao princípio da motivação do Ato Administrativo ora impugnado, na medida em que não foi LEGALMENTE, fundamentada a delegação de competência da fiscalização, a qual seria hábil a autorizar agente vinculado a Região Fiscal de jurisdição diversa da Agravante a iniciar fiscalização contra ela" (e-STJ, fl. 713).
+Requer o provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FISCALIZAÇÃO. RECEITA FEDERAL. DISTRIBUIÇÃO POR SETORES E GRUPOS ECONÔMICOS E NÃO POR LOCALIZAÇÃO GEOGÁFICA. REGULARIDADE. REGULAMENTOS DA SECRETARIA DA RECEITA FEDERAL. AUSÊNCIA DE SUBJETIVIDADE E PESSOALIDADE NOS CRITÉRIOS DE SELEÇÃO DA AÇÃO FISCAL. REVISÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. Rever a conclusão do Tribunal de origem - da regularidade na fiscalização dos maiores contribuintes a cargo da delegacia especializada - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para alterar os fundamentos da decisão ora agravada.
+Conforme assentado na decisão recorrida, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação satisfatória a controvérsia.
+No caso, o Tribunal Regional Federal da 2ª Região julgou com fundamentação suficiente a matéria devolvida à sua apreciação, assim asseverando no julgamento dos embargos de declaração (e-STJ, fl. 497):
+Na hipótese sub judice, não se vislumbra nenhuma das hipóteses a justificar o acolhimento dos embargos declaratórios, pois o julgado apreciou suficientemente toda a matéria posta ao seu exame e de relevância para a composição da lide, não se omitindo, ou provocando qualquer contradição ou obscuridade na sua interpretação, sobre qualquer matéria que, impugnada pela parte, tivesse o condão de modificar o entendimento nele esposado.
+Em seu julgamento, considerando a análise casuística do caso vertente, o acórdão foi claro no sentido de que como ressaltado pelo Juízo a quo (evento 27 do 1º grau)"conforme informações prestadas pela autoridade impetrada, no evento 14, com base nas normas acima referidas, a Receita Federal do Brasil distribui o respectivo trabalho de monitoramento a Auditores-Fiscais lotados nas diversas Superintendências Regionais, utilizando como critério de seleção e distribuição o de setores e grupos econômicos, e não o de localização geográfica do domicílio do contribuinte. Igualmente, não foi demonstrada a existência de subjetividade e pessoalidade nos critérios de seleção da ação fiscal, tratando-se de regras pré-existentes e uniformes, que vislumbram a otimização na distribuição de tarefas exercidas pela Receita Federal."
+Por conseguinte, não se justifica a alegação de violação aos arts. 489 e 1.022 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, é certo que o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Confira-se:
+PROCESSUAL CIVIL. DIREITO PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ART. 489 DO CPC/2015. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULAS N. 7 E 83 DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto em desfavor de decisão proferida nos autos de cumprimento de sentença que acolheu parcialmente a impugnação ofertada. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+II - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". Nesse sentido: EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi, Desembargadora convocada TRF 3ª Região, Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+ ..
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.725.450/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+Quanto ao mérito, o Tribunal de origem concluiu que o monitoramento dos maiores contribuintes seria realizado por distribuição de setores e grupos econômicos, e não por localização geográfica, em conformidade com as instruções baixadas pela Secretaria da Receita Federal. Ao analisar a competência para o monitoramento dos maiores contribuintes, considerou válidos os procedimentos formalizados por servidor de jurisdição diversa da do domicílio tributário do sujeito passivo, bem como reconheceu que a ação do auditor fiscal poderá estender-se além dos limites jurisdicionais da repartição em que servir, atendidas as instruções baixadas pela Secretaria da Receita Federal. Asseverou, ainda, que não ficou demonstrada, na hipótese, a existência de subjetividade e pessoalidade nos critérios de seleção da ação fiscal, tratando-se de regras pré-existentes e uniformes, que vislumbram a otimização na distribuição de tarefas exercidas pela Receita Federal.
+Veja-se (e-STJ, fls. 453-455):
+Na hipótese vertente, consoante os documentos acostados aos autos, a apelante recebeu Notificação referente ao Monitoramento dos Maiores Contribuintes, na qual consta que a "Secretaria da Receita Federal do Brasil (RFB) informa que efetuará o monitoramento do comportamento econômico-tributário dessa pessoa jurídica com o objetivo de promover a conformidade tributária, conforme normatizado na Portaria RFB nº 4.888, de 7 de dezembro de 2020." (Evento 01 - OUT 04 do 1º grau).
+Tal determinação encontra fundamento nas seguintes Portarias:
+PORTARIA ME Nº 284, DE 27/07/2020 - Aprova o Regimento Interno da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia.
+Art. 118. À Coordenação Especial de Maiores Contribuintes (Comac) compete gerenciar as atividades relativas:
+I - ao monitoramento dos maiores contribuintes;
+II - à promoção da conformidade tributária; e
+III - aos estudos e análise de setores econômicos. (g. n)
+PORTARIA RFB Nº 4888, DE 07/12/2020
+Art. 1º - Esta Portaria dispõe sobre a atividade da Secretaria Especial da Receita Federal do Brasil (RFB) relativa ao monitoramento dos maiores contribuintes, que tem como objetivo promover a conformidade tributária.
+Parágrafo único. A atividade de monitoramento de que trata esta Portaria será realizada de forma sistêmica, especializada e orientada aos processos de trabalho definidos pela Coordenação Especial de Maiores Contribuintes (Comac), respeitadas as diretrizes estabelecidas pela Subsecretaria de Fiscalização (Sufis).
+Art. 2º O monitoramento dos maiores contribuintes consiste na análise de seu comportamento econômico- tributário para a promoção da conformidade tributária, por meio:
+I - do monitoramento dos rendimentos, das receitas, e do patrimônio dos contribuintes referidos no caput;
+II - do monitoramento da arrecadação dos tributos administrados pela RFB;
+III - da análise de setores e grupos econômicos; e
+IV - da gestão para tratamento prioritário das inconformidades com o objetivo de evitar a formação de passivo tributário. (g. n)
+PORTARIA RFB Nº 5.018, DE 21/12/2020
+Art. 1º Esta Portaria estabelece os parâmetros para a indicação de pessoa jurídica a ser submetida ao monitoramento dos maiores contribuintes realizada pela Secretaria Especial da Receita Federal do Brasil.
+§ 1º A indicação de que trata esta Portaria será realizada com base nas informações de que a RFB dispuser no momento da formalização da relação final das pessoas jurídicas sujeitas ao monitoramento a que se refere o caput.
+§ 2º A RFB poderá estabelecer indicadores, metas, critérios de seleção, jurisdição e formas de controle e avaliação específicos para processos de trabalho ou atividades relacionados às pessoas jurídicas a que se refere ao caput. (g. n)
+Como se pode inferir da leitura dos mencionados atos normativos, notadamente o disposto no art. 1º, §2º da Portaria RFB Nº 5.018, de 21/12/2020, que a RFB poderá estabelecer critérios de seleção e de jurisdição para processos de trabalho ou atividades relacionadas às Pessoas Jurídicas submetidas ao monitoramento dos maiores contribuintes.
+Como ressaltado pelo Juízo a quo (evento 27 do 1º grau) "conforme informações prestadas pela autoridade impetrada, no evento 14, com base nas normas acima referidas, a Receita Federal do Brasil distribui o respectivo trabalho de monitoramento a Auditores-Fiscais lotados nas diversas Superintendências Regionais, utilizando como critério de seleção e distribuição o de setores e grupos econômicos, e não o de localização geográfica do domicílio do contribuinte. Igualmente, não foi demonstrada a existência de subjetividade e pessoalidade nos critérios de seleção da ação fiscal, tratando-se de regras pré-existentes e uniformes, que vislumbram a otimização na distribuição de tarefas exercidas pela Receita Federal."
+Sob outro prisma, não restou comprovada qualquer dificuldade no cumprimento das determinações pela sociedade empresária, principalmente se considerando se tratar de informações que deverão ser prestadas eletronicamente.
+ ..
+Assim, não restou comprovada de plano qualquer ilegalidade na notificação n. 0089014 encaminhada ao contribuinte, diante da regra prevista nos atos normativos citados, sendo admitida a fiscalização dos maiores contribuintes a cargo da Delegacia Especializada, ainda que domiciliados em região fiscal diversa da sua sede.
+Em face disso, para desconstituir a premissa fática firmada pelo TRF da 2ª Região - da regularidade na fiscalização dos maiores contribuintes a cargo da delegacia especializada -, seria necessário o exame fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante o teor da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
