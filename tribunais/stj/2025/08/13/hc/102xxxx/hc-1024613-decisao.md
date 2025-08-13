@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDRO GIMENEZ INÁCIO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado às penas de 5 anos de reclusão e 500 dias-multa, como incurso nas sanções do art. 33, caput, do Código Penal, com cumprimento da pena em regime semiaberto (fl. 3).
+Inconformada, a defesa interpôs apelação criminal perante o Tribunal de origem, que deu parcial provimento ao recurso defensivo para anular a sentença de primeiro grau, diante da ausência de remessa dos autos à Procuradoria-Geral de Justiça para manifestação sobre a viabilidade de proposta de acordo de não persecução penal (ANPP), conforme previsto no artigo 28-A, § 14, do Código de Processo Penal. O acórdão foi assim ementado (fls. 43-44):
+APELAÇÃO CRIMINAL DEFENSIVA - PLEITOS DE NULIDADE DA SENTENÇA, DADA A AUSÊNCIA DE REMESSA DOS AUTOS À PROCURADORIA DE JUSTIÇA, NOS MOLDES DO ART. 284, § 14º, DO CPP, E DE CONCESSÃO DE LIBERDADE PROVISÓRIA, COM APLICAÇÃO DE MEDIDAS CAUTELARES PREVISTAS NO ART. 319, DO ESTATUTO ADJETIVO. PRETENSÃO DE RECONHECIMENTO DA ILICITUDE DAS PROVAS OBTIDAS, EM RAZÃO DO DESRESPEITO A GARANTIA CONSTITUCIONAL DE INVIOLABILIDADE DOMICILIAR, A ENSEJAR A ABSOLVIÇÃO DO APELANTE, COM FULCRO NO ART. 386, VII, DO CPP. NO MÉRITO, PLEITO DE REDIMENSIONAMENTO DAS PENAS, PARA APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI DE DROGAS, E PARA FIXAÇÃO DA PENA-BASE NO PISO. CONDENAÇÃO ESTRIBADA NO ART. 33, CAPUT, DA LEI Nº 11.343/06. CASO EM QUE A PRIMEIRA QUESTÃO PRELIMINAR INVOCADA DEVE SER PARCIALMENTE ACOLHIDA, VEZ QUE NÃO HOUVE APRECIAÇÃO DO PLEITO DEFENSIVO ATINENTE AO CUMPRIMENTO DO DISPOSTO NO ART. 28-A, § 14, DO CPP, DE FORMA A INVIABILIZAR A ANÁLISE DO RECURSO.
+Primeira questão preliminar parcialmente acolhida, a ensejar a anulação da sentença, para que outra seja prolatada, prejudicada a análise do mérito do recurso ajuizado.
+Na sequência, os embargos de declaração opostos foram rejeitados nos termos do acórdão que restou assim ementado (fl. 52):
+EMBARGOS DE DECLARAÇÃO INVOCAÇÃO DE OCORRÊNCIA DE OMISSÃO E CONTRADIÇÃO NO V. ARESTO, SOB OARGUMENTO DE QUE O DECISUM SE LIMITOU A AFIRMAR QUE NÃO EXISTE AMPARO LEGAL PARA ACONCESSÃO DA LIBERDADE PROVISÓRIA. ALEGAÇÃO DE QUE OS DEMAIS TEMAS INVOCADOS NO APELO NÃO FORAM APRECIADOS. PRETENSÃO DE CONCESSÃO DA LIBERDADE PROVISÓRIA. EMBARGOS DECLARATÓRIOS QUE NÃO MERECEM ACOLHIMENTO, VEZ QUE AUSENTES OS VÍCIOS INVOCADOS NO JULGADO EMBARGADO. ARGUMENTAÇÃO RECURSAL, DEMAIS, DE NATUREZA INFRINGENTE, INCABÍVEL EM SEDE DO RECURSO ELEITO.
+Embargos de declaração rejeitados.
+Na presente impetração, a defesa alega que houve anulação da sentença por não observância do art. 28-A, § 14, do Código de Processo Penal, mas que os embargos de declaração opostos foram rejeitados, sem manifestação sobre a incompatibilidade do regime semiaberto com a prisão preventiva (fl. 3).
+Sustenta que a prisão preventiva é incompatível com o regime semiaberto, pois este pressupõe liberdade do condenado, e que a manutenção da prisão preventiva caracteriza constrangimento ilegal (fls. 3-5).
+Afirma que a autoridade coatora não justificou suficientemente a prisão cautelar para resguardo da ordem pública, o que desvirtua o instituto da prisão preventiva (fl. 4).
+Requer, em sede liminar e no mérito, a revogação da prisão preventiva, com a imediata colocação do paciente em liberdade, mediante a aplicação de medidas cautelares diversas da prisão, como monitoramento eletrônico e recolhimento domiciliar no período noturno (fl. 6).
+É o relatório.
+Decido.
+De início, cumpre salientar que a sentença anteriormente prolatada foi anulada por decisão do Tribunal, diante da ausência de remessa dos autos à Procuradoria-Geral de Justiça para manifestação sobre a viabilidade de proposta de ANPP, conforme previsto no artigo 28-A, § 14, do Código de Processo Penal.
+Sanada a irregularidade, verifica-se que, em consulta ao sítio eletrônico do Tribunal de Justiça , foi proferida, em 4/8/2025, nova sentença condenatória em desfavor do paciente.
+Dessa forma, verifica-se que houve a perda do objeto deste feito, uma vez que a prisão cautelar do paciente decorre agora de novo título, cabendo à defesa postular quaisquer insurgências às instâncias ordinárias antes de submeter eventuais pedidos a esta Corte Superior.
+A propósito, guardadas as devidas particularidades:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE DECISÃO DE PRONÚNCIA. NOVO TÍTULO PRISIONAL. PREJUDICIALIDADE DA IRRESIGNAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O presente recurso foi interposto em face de acórdão do Tribunal de origem que denegou o habeas corpus originário impetrado em face da decisão de primeiro grau que decretou a prisão preventiva do ora recorrente, contudo, conforme informações colhidas no site do Tribunal de Justiça do Estado de Rondônia, encerrada a instrução processual, houve sentença de pronúncia determinando o julgamento do agravante pelo Tribunal do Júri, sendo, na oportunidade, mantida sua prisão preventiva.
+Nesse contexto, a custódia cautelar do ora agravante está fundada em novo título a justificar a sua manutenção (sentença de pronúncia posterior ao decreto prisional), o que implica na prejudicialidade do presente recurso em habeas corpus e cujos fundamentos devem ser apreciados com primazia pela Corte estadual.
+2. Agravo regimental desprovido.
+(AgRg no AgRg no RHC n. 200.917/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
