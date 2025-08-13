@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO M EM RECURSO ESPECIAL. TESE DE QUE O JULGAMENTO ANTECIPADO DA LIDE FOI CORRETO E DE QUE NÃO É NECESSÁRIA A PRODUÇÃO DA PROVA PERICIAL. SÚMULAS N. 284 DO STF E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. As razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF.
+2. O Tribunal de origem entendeu pela impossibilidade de julgamento antecipado da lide, porquanto a solução da controvérsia não prescinde da produção da prova requerida pela Autora. A inversão do julgado encontra óbice na Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANNA PATRICIA MORORO XEREZ SILVA DIAS contra decisão da Presidência do Superior Tribunal de Justiça que conheceu do respectivo agravo em recurso especial, a fim de não conhecer do apelo nobre (fls. 522-525).
+Consta dos autos que o Juízo de primeiro grau julgou improcedente a ação de reparação de danos ajuizada pela ora Agravada (fls. 316-322).
+O Tribunal de origem, por maioria de votos, deu provimento à apelação, para acolhendo a preliminar de cerceamento de defesa, desconstituir a sentença e determinar o retorno dos autos ao juízo a quo, a fim de que fosse analisado o pedido pela produção de provas formulado pela ora Agravada (fls. 384-390). A propósito, a ementa do referido julgado (fls. 384-385):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PRELIMINAR DE CERCEAMENTO DE DEFESA CARACTERIZADA. AUSÊNCIA DE ANÁLISE DO PLEITO DE PRODUÇÃO DE OUTRAS PROVAS OU DE INTIMAÇÃO DE JULGAMENTO ANTECIPADO DA LIDE. PRECEDENTE DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA. MATÉRIA QUE EXIGE A PRODUÇÃO DE OUTRAS PROVAS, ESPECIALMENETE DE PERÍCIA. ERROR IN PROCEDENDO. VIOLAÇÃO DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. SENTENÇA NULA. APELAÇÃO CONHECIDA. ACOLHIMENTO DA PRELIMINAR SUSCITADA PELA PARTE REQUERENTE/APELANTE. RETORNO DOS AUTOS À INSTÂNCIA ORIGINÁRIA PARA O REGULAR PROCESSAMENTO DO FEITO.
+01. A parte recorrente alega que o magistrado sentenciante, ao julgar improcedente o pleito autoral, terminou por cercear o seu direito de defesa à produção de prova, conforme pugnado ao longo do feito.
+02. Da análise dos autos, verifica-se que a parte promovente, ora apelante, não teve o pleito de produção de outras provas analisado e que nem mesmo houve o anúncio de julgamento antecipado, tampouco indeferimento do pleito de produção de outras provas.
+03. Dentro dessa perspectiva, tem-se que a ausência de análise do pleito de produção de provas e a ausência de intimação de julgamento antecipado do mérito prejudicou a parte autora, ora recorrente, impedindo-lhe de contribuir para o livre convencimento motivado do magistrado a quo. Além disso, a sentença lhe foi desfavorável, ficando inevitável reconhecer que houve cerceamento de defesa e que esta lhe foi prejudicial.
+04. Se não bastasse tudo isso, cumpre ainda observar que, de acordo com o inciso II do art. 355 do CPC/15, um dos requisitos autorizadores do julgamento antecipado de mérito, é quando não houver requerimento de prova, o que não é o caso dos autos, vez que a parte promovida manifestou interesse na produção de outras provas e sequer foi intimada sobre julgamento antecipado da lide.
+05. Neste contexto, evidenciada a necessidade de produção de outras provas, constitui cerceamento de defesa o julgamento antecipado da lide que não permitiu às partes a produção de novas provas.
+06. Desta feita, em respeito aos princípios da ampla defesa e do contraditório e com vistas a evitar cerceamento de defesa da parte apelante/requerente, a nulidade da sentença é medida que se impõe.
+07. Apelação conhecida. Acolhimento da preliminar de cerceamento de defesa suscitada pela apelante, desconstituindo a sentença e determinando o retorno dos autos ao juízo de origem, para análise do pleito de realização de provas pela parte demandante para julgamento do mérito.
+Os embargos de declaração opostos foram rejeitados (fls. 445-450).
+Sustentou a parte agravante, nas razões do apelo nobre, afronta ao art. 355, inciso I, do CPC/2015.
+Afirmou que laborou em equívoco a Corte de origem ao acolher a preliminar de cerceamento de defesa, tendo em vista ter entendido corretamente o magistrado de piso pela possibilidade do julgamento antecipado da lide, ante a desnecessidade de produção de outras provas.
+Não foram apresentadas contrarrazões. O recurso especial não foi admitido (fls. 487-490). Foi interposto agravo (fls. 495-512).
+A Presidência do Superior Tribunal de Justiça, por meio da decisão de fls. 522-525, conheceu do agravo em recuso especial, a fim de não conhecer do apelo nobre.
+No presente agravo interno (fls. 529-539), a parte agravante alega que todas as questões veiculadas no recurso especial são eminentemente de direito. Por conseguinte, a inversão do julgado não demanda reexame de provas e fatos, o que afasta a incidência da Súmula n. 7 do STJ.
+Pondera que não há falar que as razões do apelo nobre estão dissociadas dos fundamentos do acórdão recorrido. Portanto, não é aplicável, à espécie, a Súmula n. 284 do STF.
+Não foi apresentada impugnação (fl. 543).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO M EM RECURSO ESPECIAL. TESE DE QUE O JULGAMENTO ANTECIPADO DA LIDE FOI CORRETO E DE QUE NÃO É NECESSÁRIA A PRODUÇÃO DA PROVA PERICIAL. SÚMULAS N. 284 DO STF E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. As razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF.
+2. O Tribunal de origem entendeu pela impossibilidade de julgamento antecipado da lide, porquanto a solução da controvérsia não prescinde da produção da prova requerida pela Autora. A inversão do julgado encontra óbice na Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O voto condutor do acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 386-390; sem grifos no original):
+A parte recorrente alega que o magistrado sentenciante, ao julgar improcedente o pleito autoral, terminou por cercear o seu direito de defesa à produção de prova, conforme pugnado ao longo do presente feito.
+Da análise dos autos, verifica-se que a parte promovente, ora apelante, não teve o pleito de produção de outras provas analisado e que nem mesmo houve o anúncio de julgamento antecipado, tampouco indeferimento do pleito de produção de outras provas.
+Dentro dessa perspectiva, tenho que a ausência de análise do pleito de produção de provas e a ausência de intimação de julgamento antecipado do mérito prejudicou a parte autora, ora recorrente, impedindo-lhe de contribuir para o livre convencimento motivado do magistrado a quo. Além disso, a sentença lhe foi desfavorável, ficando inevitável reconhecer que houve cerceamento de defesa e que esta lhe foi prejudicial.
+ ..
+Se não bastasse tudo isso, cumpre ainda observar que, de acordo com o inciso II do Art. 355 do CPC/15, um dos requisitos autorizadores do julgamento antecipado de mérito, é quando não houver requerimento de prova, o que não é o caso dos autos, vez que a parte promovida manifestou interesse na produção de outras provas e sequer foi intimada sobre julgamento antecipado da lide.
+ ..
+No caso dos autos, depreende-se que o Juízo de 1º Grau julgou antecipadamente a lide, sem que o pedido de novas provas feito pela parte requerente tenha sido analisado, ainda que para refutá-lo, o que configura error in procedendo, pois, tratando-se de questão complexa, em que há questões de fato a serem dirimidas, com necessidade de dilação probatória, entendo que houve manifesto prejuízo à requerente/recorrente.
+Descendo às minudências do caso, revela-se imperioso determinar se os problemas de saúde apresentados pela infante após o parto são decorrentes dos procedimentos prévios adotados ou negligenciados. Não há, portanto, com base na prova dos autos dizer com certeza se a atuação dos agentes estatais contribuiu para o deslinde das complicações de saúde apresentadas pelo neonato.
+É o caso, pois, de aplicação dos Arts. 369 e 370 do CPC/15:
+ ..
+Neste contexto, evidenciada a necessidade de produção de provas, constitui cerceamento de defesa o julgamento antecipado da lide que não permitiu às partes a produção de novas provas.
+Desta feita, em respeito aos princípios da ampla defesa e do contraditório e com vistas a evitar cerceamento de defesa da parte apelante, a nulidade da sentença é medida que se impõe.
+Verifico que, no apelo nobre, a ora Agravante deixou de se insurgir contra o fundamento do acórdão recorrido seguindo o qual (fl. 389):
+ ..  o Juízo de 1º Grau julgou antecipadamente a lide, sem que o pedido de novas provas feito pela parte requerente tenha sido analisado, ainda que para refutá-lo, o que configura error in procedendo, pois, tratando-se de questão complexa, em que há questões de fato a serem dirimidas, com necessidade de dilação probatória, entendo que houve manifesto prejuízo à requerente/recorrente.
+Nessas condições, as razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: AgInt no AREsp n. 2.299.240/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023; AgInt no AREsp n. 2.174.200/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023.
+De outra parte, conforme é possível se depreender da leitura dos excertos do aresto atacado antes mencionados a Corte de origem concluiu que, para o deslinde da controvérsia, é indispensável a produção de prova técnica de maneira a estabelecer se os problemas de saúde da criança, verificados após o parto, são consequências de procedimentos anteriores praticados ou que deixaram de ser adotados, de maneira a firmar compreensão, com a certeza necessária a tal desiderato, no sentido de ter havido, ou não, atuação de agentes estatais que concorreram para os problemas de saúde do infante.
+Assim, a inversão do julgado, de maneira a fazer prevalecer a tese de que, na hipótese, caberia o julgamento antecipado da lide, porquanto seria despicienda a produção da prova requerida pela ora Agravada, demandaria, necessariamente, nova incursão no arcabouço fático-probatório acostado aos autos, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO R ECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. ENSINO SUPERIOR. ACESSO À VAGA DESTINADA À PESSOA COM DEFICIÊNCIA. ART. 489, § 1º, DO CPC. OFENSA NÃO CONFIGURADA. PERÍCIA DETERMINADA, DE OFÍCIO, PELA INSTÂNCIA DE ORIGEM. ALEGAÇÃO DE DESNECESSIDADE DA PROVA. AFERIÇÃO. INVIABILIDADE. SÚMULA 7/STJ.
+ ..
+5. No caso, a instância a quo, com base nos elementos probatórios constantes nos autos, concluiu pela necessidade de produção de prova pericial. Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se as provas colacionadas aos autos são suficientes para o deslinde da causa, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+6. Agravo interno não provido. (AgInt nos EDcl no REsp n. 2.108.152/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. EMBARGOS À EXECUÇÃO. FORNECIMENTO E REFINO DE AÇÚCAR. IAA. REGIME PRESCRICIONAL INCIDENTE. RELAÇÃO JURÍDICA DE DIREITO PRIVADO. REGIME PRESCRICIONAL CIVILISTA. VIGÊNCIA DO CÓDIGO CIVIL DE 1916. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. ÓBICES DE ADMISSIBILIDADE.
+ ..
+III - A pretensão relativa à necessidade de produção de prova pericial na origem esbarra no óbice da Súmula n. 7 do STJ, porquanto superar a premissa estabelecida pela instância ordinária quanto à desnecessidade da prova demandaria reexame do contexto fático-probatório dos autos, o que é vedado pela referida súmul a.
+ ..
+IX - Recurso especial parcialmente conhecido e, nessa parte, improvido. (REsp n. 1.899.622/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/4/2024, DJe de 8/4/2024.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
