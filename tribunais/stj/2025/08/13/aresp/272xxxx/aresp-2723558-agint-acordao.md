@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. AGRAVO DE INSTRUMENTO. FORNECIMENTO DE ENERGIA ELÉTRICA. OBRIGAÇÃO DE FAZER. CONCESSÃO DE TUTELA DE URGÊNCIA. FIXAÇÃO DE ASTREINTES. ALEGADA OFENSA AO ART. 884 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. VEROSSIMILHANÇA DAS ALEGAÇÕES. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A discussão acerca da ofensa ao art. 884 do Código Civil não foi objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+2. O Tribunal a quo concluiu estar demonstrada a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, de modo que resta inviável o exame dos requisitos autorizadores para o mérito da concessão da tutela de urgência, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3.  Agravo  interno  im provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por EQUATORIAL GOIÁ S DISTRIBUIDORA DE ENERGIA S.A. contra  a  decisão  que  conheceu do agravo para não  conhecer  do recurso especial, pela incidência da Súmula 7 do STJ e, por analogia, da Súmula 282 do STF.
+Argumenta  a  parte agravante  que houve prequestionamento do art. 884 do Código Civil, pois "o referido artigo foi devidamente analisado pelo Tribunal de origem ao julgar o ag ravo de instrumento, que nesse caso não se trata de prequestionamento ficto, já que houve expressa alusão ao artigo aqui fundamentado" (fl. 362).
+Sustenta, ainda, a não incidência da Súmula 7 do STJ, uma vez que:
+A tutela provisória concedida nos autos de origem é uma questão que diz respeito exclusivamente à interpretação e aplicação do direito, no caso a errônea interpretação dos fatos frente ao dizer jurídico do artigo 300 do CPC, sem que seja preciso adentrar em aspectos fáticos ou probatórios, pois o próprio direito aplicável foi incorretamente interpretado (fl. 364).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. AGRAVO DE INSTRUMENTO. FORNECIMENTO DE ENERGIA ELÉTRICA. OBRIGAÇÃO DE FAZER. CONCESSÃO DE TUTELA DE URGÊNCIA. FIXAÇÃO DE ASTREINTES. ALEGADA OFENSA AO ART. 884 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. VEROSSIMILHANÇA DAS ALEGAÇÕES. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A discussão acerca da ofensa ao art. 884 do Código Civil não foi objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+2. O Tribunal a quo concluiu estar demonstrada a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, de modo que resta inviável o exame dos requisitos autorizadores para o mérito da concessão da tutela de urgência, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3.  Agravo  interno  im provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Na origem, foi deferido o pedido de tutela de urgência, formulado nos autos de ação civil pública, para determinar a adoção de medidas operacionais para tornar o fornecimento de energia elétrica adequado no Município de Cavalcante, sob pena de multa diária.
+Contra essa decisão, foi interposto agravo de instrumento, o qual foi parcialmente provido em acórdão assim ementado:
+Agravo de instrumento. Ação civil pública. Fornecimento de energia elétrica. Interrupções constantes. Serviço público inadequado.
+I. Requisitos para concessão da tutela de urgência no juízo de origem preenchidos.
+A tutela de urgência será concedida se observados, concomitantemente, os requisitos do artigo 300, caput, do Código de Processo Civil, quais sejam, a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, requisitos que se revelam evidenciados no caso concreto.
+II. Adequação da prestação de serviço de fornecimento de energia elétrica. Serviço essencial.
+O fornecimento de energia elétrica é um serviço essencial à coletividade e a sua má prestação causa inúmeros prejuízos aos usuários, os quais possuem direito de receber um serviço adequado, regular, seguro, atual, eficiente e contínuo, nos termos do que dispõem o artigo 175, parágrafo único, IV, da Constituição Federal, o artigo 22 do Código de Defesa do Consumidor e o artigo 6º da Lei n. 8.987/1995. Evidenciado, no caso em apreço, a precariedade na distribuição de energia elétrica no Município de Cavalcante, com interrupções frequentes, correta a decisão agravada que, em sede de tutela de urgência, determinou a adequação do serviço de fornecimento de energia elétrica.
+III. Fixação de multa para cumprimento da obrigação. Possibilidade.
+É possível a fixação de multa diária em caso de não cumprimento da obrigação constante em decisão judicial para resguardar a efetividade e satisfatividade da determinação, reunindo feições coercitivas e pedagógicas, nos termos dos artigos 139, inciso IV, 497 e 537, do Código de Processo Civil.
+IV. Redução do valor da multa por descumprimento de decisão judicial. Pedido subsidiário. Razoabilidade e proporcionalidade.
+Mostra-se adequado o balizamento da multa fixada, sendo razoável e proporcional a redução do quantum arbitrado (R$ 10.000,00) para o valor diário de R$ 5.000,00 (cinco mil reais), conforme apontado pelo Ministério Público em segundo grau e considerando, ademais, a existência de diversas ações da mesma espécie.
+V. Limitação da multa diária imposta.
+Impõe-se a fixação de limitação do valor total das astreintes, em caso de descumprimento da obrigação imposta para que não se mostre excessivo ou desproporcional.
+Agravo de instrumento conhecido e parcialmente provido (fls. 169-170).
+No recurso especial, aponta-se a ofensa aos arts. 297 e 300 do CPC; e art. 884 do Código Civil, alegando a ausência dos requisitos necessários ao deferimento da tutela de urgência, em especial, da verossimilhança das alegações do MINISTÉRIO PÚBLICO, além de apontar a ofensa ao princípio do non bis in idem e a configuração do enriquecimento sem causa decorrente da fixação das astreintes.
+Ocorre que, na jurisprudência desta Corte, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Com efeito, a Corte de origem manteve a concessão da tutela de urgência, com a fixação de multa cominatória, reduzindo seu valor e limitando seu valor global, nos seguintes termos:
+Como se observa, trata-se de uma decisão que deve observar a existência da probabilidade do direito perseguido e perigo de dano ou risco ao resultado útil do processo, bem como que haja a possibilidade de reversibilidade do provimento antecipado.
+O artigo 22 do Código de Defesa do Consumidor dispõe que "os órgãos públicos, por si ou suas empresas, concessionárias, permissionárias ou sob qualquer outra forma de empreendimento, são obrigados a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos".
+Neste contexto, por ser o serviço de distribuição de energia elétrica essencial, deve ser fornecido de forma adequada aos seus usuários, consoante dispõe o artigo 7º, I, da Lei Federal n. 8.987/95.
+Quanto à definição de serviço adequado, conforme artigo 6º, § 1º, da referida Lei, "(..) é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas".
+A agravante deve oferecer o serviço público, com satisfação das condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade e cortesia na sua prestação e modicidade das tarifas.
+No caso em apreço, ainda que em caráter não exauriente, está demonstrada a precariedade na distribuição de energia elétrica no Município de Cavalcante, com interrupções frequentes, gerando inúmeros prejuízos aos moradores da região.
+ ..
+Com relação ao pedido de exclusão das astreintes, verifica-se que não há como prosperar, uma vez que necessário seu arbitramento para cumprimento da obrigação.
+A probabilidade de eventual descumprimento da ordem judicial legitima a cominação de penalidade, como meio coercitivo de implementação de obrigação de fazer (artigo 297, caput, do CPC), não visando, a priori, compelir o litigante ao pagamento do valor fixado, mas inibir resistência à obrigação assinalada. Ademais, para evitar a incidência da multa, basta que a recorrente se atenha ao comando judicial que lhe foi direcionado.
+ ..
+Dito isso, não se vislumbra motivo a justificar a exclusão da multa cominatória.
+Contudo, a multa diária está sujeita a critérios de adequação, sendo permitido, até mesmo de ofício, o balizamento do respectivo valor, de forma a não se tornar excessivo ou insuficiente.
+Diante do contexto fático da prestação de serviço de energia elétrica no Estado de Goiás, revela-se adequado acolher o pedido subsidiário para minorar a multa, sendo razoável e proporcional a redução do quantum arbitrado (R$ 10.000,00) para o valor diário de R$ 5.000,00 (cinco mil reais), conforme pugnado pelo Ministério Público de segundo grau e considerando, ademais, a existência de diversas ações da mesma natureza (fls. 162-166).
+Desse modo, a ofensa ao art. 884 do Código Civil não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Além disso, a alteração da conclusão do Tribunal a quo quanto ao deferimento da tutela de urgência, tendo ficado consignado que " está demonstrada a precariedade na distribuição de energia elétrica no Município de Cavalcante, com interrupções frequentes, gerando inúmeros prejuízos aos moradores da região" (fl. 162), ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+A discussão acerca da presença ou não dos elementos autorizadores da tutela de urgência exigiria amplo reexame das provas presentes nos autos, o que encontra óbice na Súmula n. 7 do STJ (AgInt no AREsp 2.633.539/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 2/12/2024).
+Isso posto, nego provimento ao recurso.
