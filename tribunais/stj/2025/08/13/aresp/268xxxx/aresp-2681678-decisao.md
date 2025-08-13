@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado por COMPANHIA ESTADUAL DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA - CEEE-D, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 306):
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. CEEE-D. IMUNIDADE RECÍPROCA. ART. 150, VI, "A", DA CF. AFASTAMENTO. TEMA 508 DO STF. SENTENÇA DE PROCEDÊNCIA REFORMADA.
+"Sociedade de economia mista, cuja participação acionária é negociada em Bolsas de Valores, e que, inequivocamente, está voltada à remuneração do capital de seus controladores ou acionistas, não está abrangida pela regra de imunidade tributária prevista no art. 150, VI, "a", da Constituição, unicamente em razão das atividades desempenhadas." (Tese fixada no Tema nº 508/STF, julgado em 29/06/2020). No caso, embora CEEE-D preste serviço público de distribuição de energia, é fato notório que a sociedade possui ativos negociados na Bolsa de Valores. Portanto, é de ser afastada a imunidade tributária ao caso em comento, de acordo com a orientação definida pelo STF.
+APELO PROVIDO. UNÂNIME.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 361/369).
+Em recurso especial, apontou a parte recorrente, além de dissídio pretoriano, violação aos arts. 32 e 34 do CTN, 29, VIII, 31, II e VII, e 35 da Lei n. 8.987/1995 e 14, V, e 18 da Lei n. 9.427/1996. Sustenta, em resumo, que "o referido imóvel encontra-se registrado em cartório em seu nome, contudo isto não é motivo suficiente para incidir o IPTU, face à ausência do "animus domini"" (fl. 388).
+Contrarrazões às fls. 434/446.
+Às fls. 516/518, a vice-Presidência do Tribunal regional negou seguimento ao recurso extraordinário stricto sensu manejado pelo ora recorrente, por estar o acórdão recorrido alinhado ao posicionamento firmado pela Excelsa Corte no RE 600.867 - Tema 508.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Quanto à questão de fundo, o Supremo Tribunal Federal decidiu, sob o regime de repercussão geral, o seguinte: "Sociedade de economia mista, cuja participação acionária é negociada em Bolsas de Valores, e que, inequivocamente, está voltada à remuneração do capital de seus controladores ou acionistas, não está abrangida pela regra de imunidade tributária prevista no art. 150, VI, "a", da Constituição, unicamente em razão das atividades desempenhadas" (RE 600.867, Tema 508/STF).
+Colhe-se dos autos que a vice-Presidência do Tribunal Regional Federal da 3ª Região negou seguimento ao recurso extraordinário da parte ora recorrente, com esteio no art. 1.040, I, do CPC, tendo em vista que o acórdão recorrido encontra-se em conformidade com o posicionamento firmado na referida repercussão geral pelo STF (cf fls. 516/518).
+Consoante dicção do art. 1.039 do CPC: "Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada".
+Nesse contexto, sendo a matéria trazida no presente apelo, a saber, afastamento da cobrança de IPTU, coincidente com aquela discutida no recurso extraordinário da empresa, ao qual foi negado seguimento, prejudicada restou a apreciação do recurso especial em análise.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
