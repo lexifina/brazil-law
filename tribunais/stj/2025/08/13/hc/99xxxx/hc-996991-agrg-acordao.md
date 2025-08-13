@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESVIRTUAMENTO DO HABEAS CORPUS. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, a condenação transitou em julgado, de modo que o writ constitui substitutivo de revisão criminal, a evidenciar que qualquer pronunciamento desta Corte Superior implicaria a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+RELATÓRIO
+DANILO SANTOS DE JESUS agrava da decisão de fls. 86-87, em que indeferi liminarmente o habeas corpus, dada a inadequação da via eleita para o pleito.
+Para tanto, assere que, "em caso da existência de flagrante ilegalidade no ato judicial impugnado, poderá ocorrer a concessão da ordem, de ofício, ou seja, é imperioso que o colegiado se debruce sobre a excepcionalidade do presente caso, uma vez que, a ilegalidade do ato coator é perceptível, tendo as circunstâncias da dosimetria da pena do paciente sido valorada de forma indevida, sem demonstrar a fundamentação adequada" (fl. 93).
+Requer, assim, " q ue superem os fundamentos apontados na r. decisão monocrática com batida, para determinar a ilegalidade flagrante do ato coator, e assim conhecendo da impetração do presente Writ, para que seja refeita a dosimetria da pena excessivamente aplicada e afastando as arbitrariedades apontadas" (fl. 94).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESVIRTUAMENTO DO HABEAS CORPUS. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, a condenação transitou em julgado, de modo que o writ constitui substitutivo de revisão criminal, a evidenciar que qualquer pronunciamento desta Corte Superior implicaria a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+VOTO
+Consoante disposto na decisão impugnada, alegou sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 0003383-65.2016.8.08.0021, em que foi mantida sua condenação a 15 anos e 7 meses, mais multa, pela prática dos delitos de tráfico e associação ao tráfico de drogas.
+Informa a defesa que " o  presente writ se volta contra o acórdão proferido em sede de apelação no processo originário pelo Tribunal de Justiça do Espírito Santo, em que o referido sodalício conheceu do recurso interposto, porém não lhe deu provimento, mantendo assim inalterada a sentença de primeiro grau, em que houve indevida exasperação na pena aplicada ao paciente, sendo a ilegalidade flagrante e necessária a reavaliação da dosimetria" (fl. 2).
+A esse respeito, releva salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Na hipótese, verifica-se, em consulta ao sítio eletrônico do Tribunal a quo, que a sentença condenatória transitou em julgado, de modo que o writ aqui interposto constitui substitutivo de revisão criminal, a obstar, assim, seu conhecimento.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus. Dessarte, mostra-se indevida a subversão do sistema recursal.
+À vista do exposto, nego provimento ao recurso.
