@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL da decisão do TRIBUNAL REGIONAL FEDERAL DA 1 ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 1019451-04.2020.4.01.9999, assim ementado (fl. 155):
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. TRABALHADOR URBANO. CONDIÇÃO DE DESEMPREGO COMPROVADA. MANUTENÇÃO DA QUALIDADE DE SEGURADO POR 24 MESES. BENEFÍCIO MANTIDO. CONSECTÁRIOS. HONORÁRIOS. APELAÇÃO DO INSS NÃO PROVIDA.
+1. Os requisitos indispensáveis para a concessão do benefício previdenciário de auxílio-doença ou aposentadoria por invalidez são: a) qualidade de segurado; b) carência de 12 (doze) contribuições mensais; c) incapacidade para atividade laboral temporária, parcial ou total (auxílio-doença); ou permanente e total, cumulada com a impossibilidade de reabilitação (aposentadoria por invalidez).
+2. No caso dos autos, o laudo pericial atestou que a parte autora é acometida por toxoplasmose com sequela cognitiva que implica incapacidade permanente e total desde 23/03/2018. Verifica-se do seu CNIS que o último recolhimento é datado de 16/03/2016. Ademais, observa-se que o segurado se manteve em situação de desemprego até a data do início da incapacidade, inexistindo registro de novos vínculos laborais no CNIS ou em sua carteira de trabalho. Resta prorrogado, assim, o seu período de graça por 24 meses após a cessação de suas contribuições. Precedente.
+3. O juízo de primeiro grau, com acerto, considerou que a parte autora ainda estava em seu período de graça quando sobreveio sua incapacidade, em março de 2018, restando comprovada sua qualidade de segurada.
+4. Confirmação da sentença que concedeu à parte autora benefício por incapacidade permanente desde a data do requerimento administrativo.
+5. Correção monetária e juros moratórios conforme Manual de Cálculos da Justiça Federal, nos parâmetros estabelecidos no julgamento do RE-RG n. 870.947/SE (Tema 810) e R Esp n. 1.495.146/MG (Tema 905).
+6. Mantidos os honorários advocatícios arbitrados na sentença, devendo ser majorados em 1% (um por cento), nos termos do disposto no art. 85, § 11, do CPC, a incidirem sobre as prestações vencidas até a sentença (súmula 111 do STJ). 7. Apelação do INSS não provida.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: ausência de violação dos arts. 489 e 1.022 do Código de Processo Civil, bem como a aplicação da Súmula n. 07 do Superior Tribunal de Justiça. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à Súmula 7 do STJ.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Com efeito, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, "a mera ausência de registro de vínculo empregatício na CTPS, ou a falta de assento no CNIS ou, ainda, a mera exibição de termo de rescisão de contrato de trabalho, não conduz ao entendimento de que, necessariamente, encontrava-se em situação de desemprego" (fl. 199) , de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+Nesse sentido:
+ ..
+4. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte ao exigir a impugnação específica dos fundamentos da decisão agravada.
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF-5ª Região -, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especi al, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE ALGUNS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
