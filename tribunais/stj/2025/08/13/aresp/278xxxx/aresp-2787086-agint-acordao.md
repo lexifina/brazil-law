@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. LIVRE CONVENCIMENTO MOTIVADO DO JUÍZO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões a que chegou o Tribunal de origem (suficiência das provas e não ocorrência de cerceamento de defesa) demandaria nova incursão no conjunto probatório dos autos. Logo, sem razão a agravante quando defende a não incidência da Súmula 7/STJ.
+2. Prevalecendo a incidência da Súmula 7/STJ, permanece também a prejudicialidade da análise do dissídio jurisprudencial.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+RELATÓRIO
+Luciane Maria Aires interpôs recurso especial contra os acórdãos de fls. 686-697 e 747-749 (e-STJ), proferidos pelo Tribunal Regional Federal da 4ª Região assim ementados:
+PREVIDENCIÁRIO. PROCESSO CIVIL. CERCEAMENTO DE DEFESA. RUÍDO. LIMITES DE TOLERÂNCIA. EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL. IMPLANTAÇÃO DO BENEFÍCIO. HONORÁRIOS ADVOCATÍCIOS.
+1. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições especiais são disciplinados pela lei em vigor à época em que efetivamente foi prestada, passando a constituir direito adquirido do trabalhador.
+2. Não há cerceamento de defesa, em razão do indeferimento do pedido de realização de perícia, quando há elementos suficientes nos autos para análise da especialidade dos períodos reclamados.
+3. O limite de tolerância para o agente físico ruído é de 90 (noventa) decibéis, no período entre 6 de março de 1997 e 18 de novembro de 2003 (Tema nº 694 do Superior Tribunal de Justiça).
+4. A declaração prestada pelo empregador a respeito da eficácia de equipamento de proteção individual não é suficiente para afastar o reconhecimento da especialidade em razão da sujeição ao ruído.
+5. Considerada a eficácia mandamental dos provimentos fundados no art. 497, caput, do Código de Processo Civil, e tendo em vista que a decisão não está sujeita, em princípio, a recurso com efeito suspensivo, é imediato o cumprimento do acórdão quanto à implantação do benefício devido à parte autora.
+6. Em ações previdenciárias, os honorários advocatícios devem ser arbitrados em percentual sobre o valor das parcelas vencidas até a data da sentença de procedência ou do acórdão que reforma a sentença de improcedência (Súmulas 76, do Tribunal Regional Federal da 4ª Região e 111, do Superior Tribunal de Justiça).
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO. REDISCUSSÃO DA MATÉRIA. PREQUESTIONAMENTO.
+1. A integração da decisão colegiada é possível quando se verificar qualquer das situações previstas no art. 1.022 do CPC, sendo inviável, contudo, quando, sob o pretexto de ocorrência de omissão, contradição, obscuridade ou erro material na decisão embargada, se rediscutir matéria já apreciada, pretensão que deve ser manifestada por meio do adequado recurso.
+2. Ainda que ausente referência expressa a dispositivos legais, se a matéria suscitada nos embargos foi devidamente examinada pela turma de julgamento, está caracterizado o prequestionamento implícito.
+Nas razões do recurso especial (e-STJ, fls. 757-774), a recorrente apontou violação aos arts. 369 e 370 do CPC/2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, cerceamento de defesa pelo indeferimento da prova pericial, apta a comprovar a exposição a agentes nocivos; e que o formulário PPP não gera presunção absoluta acerca da real situação de trabalho do segurado.
+Não foram apresentadas contrarrazões (e-STJ, fl. 795).
+A Corte de origem deixou de admitir o recurso, sob os seguintes fundamentos: a) incidência da Súmula 7/STJ; e b) prejudicialidade da análise do alegado dissídio jurisprudencial.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 836-841 (e-STJ), esta relatoria conheceu do agravo para não conhecer do recurso especial, concluindo pela incidência da Súmula 7/STJ a obstar o conhecimento do reclamo, com a consequente prejudicialidade da análise do dissídio jurisprudencial.
+Daí sobreveio este agravo interno (e-STJ, fls. 845-853), no qual alega a agravante a não incidência do referido enunciado sumular.
+Sem impugnação (e-STJ, fl. 859).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. LIVRE CONVENCIMENTO MOTIVADO DO JUÍZO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões a que chegou o Tribunal de origem (suficiência das provas e não ocorrência de cerceamento de defesa) demandaria nova incursão no conjunto probatório dos autos. Logo, sem razão a agravante quando defende a não incidência da Súmula 7/STJ.
+2. Prevalecendo a incidência da Súmula 7/STJ, permanece também a prejudicialidade da análise do dissídio jurisprudencial.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo não conhecimento do recurso especial, tendo em vista a incidência da Súmula 7/STJ e a prejudicialidade da análise do dissídio jurisprudencial.
+Veja-se às fls. 837-841 (e-STJ):
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que entende necessárias à solução da controvérsia, assim como indeferir aquelas que considerar prescindíveis ou meramente protelatórias.
+A produção probatória se destina ao convencimento do julgador e, sendo assim, pode o juiz rejeitar a produção de determinadas provas, em virtude da irrelevância para a formação de sua convicção.
+Guardadas as peculiaridades do caso, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. ENERGIA ELÉTRICA. RECUPERAÇÃO DE CONSUMO. FRAUDE NO MEDIDOR. ARTS. 7º, 9º E 10 DO CPC; E 22 E 42 DO CDC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ARTS. 489, § 1º, E 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REGULARIDADE DA APURAÇÃO DO DÉBITO. TEMA DIRIMIDO COM BASE EM RESOLUÇÃO NORMATIVA.
+(..)
+4. De acordo com a jurisprudência consagrada no Superior Tribunal de Justiça, cumpre ao magistrado, destinatário da prova, valorar a necessidade de sua complementação, deferindo ou indeferindo a produção de novo material probante, seja ele testemunhal, seja pericial, seja documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento que lhe é conferida pelo art. 130 do CPC/73, equivalente ao art. 370 do CPC/2015. 5. Não se presta a estreita via recursal a reformar as premissas do Tribunal de origem a respeito do alegado cerceamento de defesa, bem como o de que as despesas elencadas na inicial não se subsomem a insumos, porquanto demandaria o revolvimento de fatos e provas.
+(..)
+7. Agravo interno parcialmente conhecido e, nessa parte, não provido.
+(AgInt no AREsp n. 2.500.807/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/10/2024, DJe de 21/10/2024.)
+No tocante ao alegado cerceamento de defesa, o Tribunal de origem, com base no acervo probatório carreado aos autos, afastou a sua ocorrência, ao argumento de que os elementos existentes nos autos são suficientes para o julgamento da demanda, conforme se verifica na seguinte transcrição (e-STJ, fls. 690-695 - sem destaque no original):
+No presente caso, a parte autora requereu a realização de prova técnica, com o objetivo de demonstrar a especialidade do período de 16/04/1997 a 12/09/2002 (Paramount Texteis Indústria e Comércio S. A), o qual, segundo alega, deveria ser considerado pelo Instituto Nacional do Seguro Social (INSS) como tempo qualificado.
+A questão foi abordada nas decisões dos eventos 3, 16, 24, 34 e 97, destacando-se o seguinte excerto que ora se transcreve (Ev. 97, DESPADEC1):
+1. A parte autora, em petição do Evento 95, postula a realização de perícia para o período laborado na empresa Paramount Têxteis Ind. e Com. S. A. Indefiro o pedido, tendo em vista que os documentos acostados aos autos são suficientes à instrução do feito (Evento 1 PROCADM12, Página 20; Evento 1, PROCADM9, Página 12; Evento 33, LAUDO1 e LAUDO2).
+(..)
+Na sequência, sobreveio a sentença recorrida, na qual não foi reconhecido o labor qualificado do referido período postulado.
+A parte autora, em seu apelo, requer, em preliminar, a baixa em diligência em razão da ocorrência de cerceamento de defesa.
+Nos termos do art. 370 do Código de Processo Civil (CPC), caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito, indeferindo as diligências inúteis ou meramente protelatórias.
+Para a verificação da especialidade das atividades exercidas com exposição a agentes nocivos, leva-se em consideração, em regra, o conteúdo da documentação técnica lavrada pela empresa (formulários, laudos e perfil profissiográfico previdenciário (PPP), por exemplo). Contudo, em caso de dúvida sobre a fidedignidade ou suficiência desta documentação, tem lugar a possibilidade de produção de laudo pericial por ordem judicial.
+Nesse sentido, transcreve-se recente precedente da 3ª Seção do Tribunal Regional Federal da 4ª Regiao, no sentido da viabilidade da elaboração da prova técnica judicial, não obstante a existência de PPP, inclusive quando guarnecido por laudos lavrados pelo empregadora, acaso a higidez das informações nele(s) contida(s) seja questionada pelo trabalhador. (..)
+É necessário, igualmente, avaliar a utilidade da prova que se pretende produzir e a possibilidade material de sua produção. Afinal, a referida prova objetiva conferir segurança ao julgamento, propiciando ao seu destinatário suficientes elementos para avaliação quanto aos argumentos que respaldam a pretensão articulada na petição inicial.
+No caso sob exame, contudo, o PPP que serviu de base para a sentença foi preenchido sem inconsistências, bem como foi devidamente assinado pelo responsável.
+(..)
+Período controvertido: 16/04/1997 a 12/09/2002 - Paramount Texteis Indústria e Comércio S. A.
+Provas: CTPS (Ev. 1 PROCADM12, pág. 20), PPP (Ev. 1, PROCADM9, pág. 12), laudos arquivados na secretaria do juízo de origem - laudo pericial de 1992 em reclamatória trabalhista (Ev. 33, LAUDO1), Levantamento de Riscos Ambientais de 2010 (Ev. 33, LAUDO2) e laudo alegadamente similar (Ev. 1, PROCADM9).
+De acordo com o PPP, a autora trabalhou como ajudante de produção e operadora de máquinas, respectivamente em setor de "novelereiras PF", sendo exposta a ruído de 82 decibéis. Verifica-se que a documentação da empresa atesta apenas a exposição a ruído abaixo do limite de tolerância. O laudo alegadamente similar produzido em 2008 atesta exposição a agentes químicos. Contudo, há que prevalecer a informação que consta na documentação da empresa, uma vez que fora analisada a exposição a agentes nocivos na função e setor correspondentes à época. Em que pese a possibilidade dos agentes químicos em âmbito de indústria, não há comprovação de que a autora estaria exposta de forma habitual e permanente a tais agentes na sua função.
+Dessa forma, há que se manter o não reconhecimento da especialidade.
+Consta, ainda, do voto dos aclaratórios (e-STJ, fl. 748 - sem grifo no original):
+Verifica-se que o laudo alegadamente similar produzido em 2008 traz a análise de período trabalhado como ajudante de produção de 07/04/1994 a 31/06/1995, o que não corresponde ao período trabalhado pela autora nessa função. Também não está comprovado se tratar, de fato, do mesmo setor. Em que pese a observação de inexistência do laudo quanto à função de ajudante de produção, há que se considerar os dados constantes no PPP que associou o referido cargo à função de auxiliar de produção à época dos fatos por sua similaridade.
+Desse modo, a revisão das conclusões do acórdão recorrido - acerca da prescindibilidade de produção da prova pleiteada, para assim acolher a pretensão autoral nos moldes em que requerida - demandaria necessariamente a incursão no acervo fático-probatório dos autos, providência vedada no âmbito do recuso especial, dado o óbice da Súmula n. 7 desta Corte.
+Ilustrativamente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. DISACUSIA. AUSÊNCIA DE REDUÇÃO DA CAPACIDADE LABORATIVA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Ao julgar o Tema Repetitivo n. 22, esta Corte fixou tese de que, comprovados o nexo de causalidade e a redução da capacidade laborativa, mesmo em face da perda auditiva em grau inferior ao estabelecido pela Tabela Fowler, subsiste o direito do obreiro ao benefício de auxílio-acidente.
+2. No caso, o Tribunal de origem expressamente consignou, ao julgar os embargos de declaração, que não houve comprovação da redução da capacidade laborativa, requisito essencial fixado em referido precedente, sendo indevido, portanto, o auxílio-acidente pleiteado.
+3. A inversão do que ficou decidido demandaria o reexame do contexto fático-probatório, o que encontra empecilho na Súmula n. 7/STJ.
+4. Conforme jurisprudência desta Corte, a incidência da Súmula n. 7/STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional. 5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.924.521/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 30/5/2022, DJe de 7/6/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE ESPECIAL EXPOSIÇÃO A RUÍDO. LIMITE DE 90DB NO PERÍODO DE 6.3.1997 A 18.11.2003. DECRETO 4.882/2003. LIMITE DE 85 DB. RETROAÇÃO. IMPOSSIBILIDADE. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA PRESTAÇÃO DO SERVIÇO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO.
+1. De início, no que diz respeito à suposta ofensa ao art. 1.022, II, do CPC/2015, observa-se que o Tribunal de origem, ao contrário do alegado, manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação e, ao final, decidiu contrariamente aos interesses da parte, que buscou, com os Embargos de Declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição ou obscuridade, não se verifica afronta à regra ora invocada.
+2. Por outro lado, o juiz, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa.
+3. O acórdão recorrido consignou: "Todavia, não há possibilidade de considerar especial o período de 06.07.1997 a 18.11.2003, em que o autor esteve exposto a ruído de 87 decibéis (PPP, fl. 20/23), inferior ao patamar mínimo de 90 decibéis previsto no Decreto 2.172/97. Conforme acima destacado, está pacificado no E. STJ (Resp 1398260/PR) o entendimento de que a norma que rege o tempo de serviço é aquela vigente no momento da prestação, devendo, assim, ser observado o limite de 90 decibéis no período de 06.03.1997 a 18.11.2003."
+4. O acórdão recorrido está em sintonia com o entendimento do STJ de que a lei que rege o tempo de serviço é aquela vigente no momento da prestação do labor.
+5. Deste modo, na conversão de tempo de serviço especial, no caso de exposição a ruído, o Tribunal de origem deve observar a legislação vigente à época da prestação dos serviços. Incidência da Súmula 83 do STJ.
+6. Acrescente-se que, para infirmar as conclusões da Corte de origem, acatando os argumentos da parte recorrente, necessário seria ao STJ reexaminar o conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+7. Recurso Especial não conhecido. (REsp n. 1.725.328/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/6/2018, DJe de 23/11/2018.)
+Por fim, a análise do dissídio jurisprudencial fica prejudicada pela aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto recorrido e os acórdãos paradigmas. Isso porque as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Na presente insurgência, defende a agravante a não incidência da Súmula 7/STJ.
+Sem razão a insurgente, pois a revisão das conclusões a que chegou a Corte de origem (desnecessidade da prova requerida e não ocorrência de cerceamento de defesa) demandaria nova incursão no conjunto probatório dos autos, medida obstada pela referida súmula.
+Vale ressaltar que este caso difere dos precedentes jurisprudenciais invocados pela agravante , na medida em que nas citadas decisões o pedido havia sido julgado improcedente por falta de provas, enquanto aqui houve o julgamento de improcedência conforme as provas contidas nos autos.
+Prevalecendo a incidência da Súmula 7/STJ, permanece também a prejudicialidade da análise do alegado dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
