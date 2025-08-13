@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Teodoro Silva Santos.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO TRIBUTÁRIO. SUPOSTA VIOLAÇÃO DOS ARTS. 165, 458, 515, 516 e 535, INCISO II, DO CPC/1973. SÚMULA N. 284 DO STF. EMPRESAS COLIGADAS. CONTRATO DE M ÚTUO. LUCRO REAL. CORREÇÃO MONETÁRIA. ORTN. VARIAÇÃO DIÁRIA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não obstante o recurso especial alegue violação dos arts. 489 e 1.022 do CPC/2015, não especifica quais os pontos do acórdão recorrido em relação aos quais haveria omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto. Incidência da Súmula n. 284 do STF.
+2. A orientação jurisprudencial do STJ é no sentido de incidir a correção monetária calculada pela variação diária da ORTN, em se tratando de lucro real em contrato de mútuo entre empresas coligadas.
+3. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de recurso especial interposto por UNIMIN DO BRASIL LTDA., com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, no julgamento da Apelação Cível n. 0027096-62.2004.4.03.6100/SP.
+Na origem, cuida-se de ação anulatória de débito fiscal, na qual a UNIMIN DO BRASIL LTDA. busca o cancelamento de débito de Imposto de Renda da Pessoa Jurídica (IRPJ) referente ao ano-calendário de 1988, alegando que a correção monetária deveria ser calculada pela variação mensal da Obrigação do Tesouro Nacional (OTN), e não pela variação diária, como exigido pelo Fisco.
+Foi proferida sentença de improcedência, sendo mantida pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, por acórdão assim ementado (fls. 715-716):
+TRIBUTÁRIO. ANULATÓRIA DE DÉBITO. MÚTUO ENTRE EMPRESAS COLIGADAS. RECEITA DE CORREÇÃO MONETÁRIA. RECONHECIMENTO NO ENCERRAMENTO DO PERÍODO-BASE. NECESSIDADE. VARIAÇÃO DIÁRIA DA ORTN. EXIGIBILIDADE. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. SENTENÇA DE IMPROCEDÊNCIA. REVOGAÇÃO. OCORRÊNCIA. AGRAVO REGIMENTAL. DESPROVIMENTO.
+1. A sentença de improcedência do pedido, ainda que não haja pronunciamento expresso acerca do tema, provoca a revogação da tutela antecipatória deferida e, por conseguinte, faz desaparecer a causa de suspensão da exigibilidade do crédito tributário (art. 151, V, do CTN), que antes beneficiara o contribuinte.
+2. O recurso de apelação, mesmo que recebido no efeito suspensivo, não restabelece os efeitos da tutela antecipatória e muito menos se mostra apto a conservar a eficácia de medida revogada.
+3. Embora o art. 21 do Decreto-lei 2.065/83 determine que, nas operações de mútuo entre empresas coligadas, a mutuante reconheça, para efeito de determinar o lucro real, pelo menos o valor correspondente à correção monetária calculada pela variação da ORTN, o aludido dispositivo não veiculou qualquer imposição no sentido de que a ORTN deveria ser tomada pelo seu valor mensal, mesmo porque, naquela ocasião, essa era a única forma de divulgação do seu valor.
+4. O mútuo entre empresas coligadas representa um direito de crédito para a mutuante e, para fins tributários, pode seguramente ser tratado como aplicação financeira, de modo que não se preste a beneficiar demasiadamente a mutuária em detrimento da arrecadação.
+5. A alteração promovida pelo art. 5º do Decreto-lei 2.072/83, que introduziu a expressão diária da ORTN para fins de incidência tributária, pode ser exigida na apuração dos valores a serem oferecidos à tributação no encerramento do exercício ou por conta da respectiva quitação, sem representar ofensa aos preceitos invocados pelo contribuinte, por conseguinte, não procede a argumentação no sentido de que o PN/CST 10/85 tenha inovado no mundo jurídico e instituído exigência por analogia.
+6. Agravo regimental e apelação desprovidos.
+Os embargos de declaração opostos foram rejeitados (fls. 721-727).
+Em suas razões recursais, a parte recorrente alega violação dos arts. 165, 458, 515, 516 e 535, inciso II, do Código de Processo Civil de 1973, sustentando, de forma genérica, a ocorrência negativa de prestação jurisdicional, porquanto o acórdão recorrido desconsiderou argumentos essenciais relacionados à aplicação do art. 108, § 1º, do Código Tributário Nacional e do art. 150, inciso I, da Constituição Federal (fls. 730-735).
+Aponta, ainda, violação dos arts. 21 do Decreto-Lei n. 2.065/1983; 5º do Decreto-Lei n. 2.072/1983; e 108, § 1º, do CTN. Argumenta que o acórdão não abordou adequadamente a questão da correção monetária pela variação diária da ORTN, conforme o Parecer Normativo CST n. 10/85, e que tal aplicação por analogia viola o princípio da estrita legalidade, afirmando que a correção monetária em contratos de mútuo entre empresas coligadas deve observar a variação mensal (fls. 746-747).
+Contrarrazões apresentadas às fls. 786-791.
+O recurso foi admitido na origem (fls. 809-812).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO TRIBUTÁRIO. SUPOSTA VIOLAÇÃO DOS ARTS. 165, 458, 515, 516 e 535, INCISO II, DO CPC/1973. SÚMULA N. 284 DO STF. EMPRESAS COLIGADAS. CONTRATO DE M ÚTUO. LUCRO REAL. CORREÇÃO MONETÁRIA. ORTN. VARIAÇÃO DIÁRIA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não obstante o recurso especial alegue violação dos arts. 489 e 1.022 do CPC/2015, não especifica quais os pontos do acórdão recorrido em relação aos quais haveria omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto. Incidência da Súmula n. 284 do STF.
+2. A orientação jurisprudencial do STJ é no sentido de incidir a correção monetária calculada pela variação diária da ORTN, em se tratando de lucro real em contrato de mútuo entre empresas coligadas.
+3. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+Inicialmente, destaco que deve ser observada a diretriz contida no Enunciado Administrativo n. 2 do STJ, aprovado pelo Plenário do STJ na Sessão de 9/3/2016, com a seguinte redação:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Não obstante o recurso especial alegue violação dos arts. 165, 458, 515, 516 e 535, inciso II, do Código de Processo Civil de 1973, não especifica em quais os pontos do acórdão recorrido haveria omissão, contradição, obscuridade ou erro material, tampouco a relevância da análise dessas questões para o caso concreto, limitando-se a alegar, genericamente, omissão quanto à aplicação dos arts. 108, § 1º, do CTN e 150, incido I, da CF/1988.
+Portanto, o conhecimento desse capítulo recursal é obstado pela falta de delimitação da controvérsia, atraindo a aplicação da Súmula n. 284 do STF. Nesse sentido, v.g.: AgInt nos EDcl no AREsp n. 1.311.559/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023; REsp n. 2.089.769/PB, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/9/2023, DJe de 21/9/2023.
+No mais, verifico que ambas as Turmas que compõe a Primeira Seção deste STJ possuem o entendimento uníssono no sentido de que, para fins tributários, nos contratos de mútuo entre empresas coligadas, a correção monetária pela ORTN se dá pela variação diária.
+Nessa senda:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CONTRATO. CARACTERIZAÇÃO COMO MÚTUO. REVISÃO. INVIABILIDADE CORREÇÃO MONETÁRIA. ORTN. OBSERVÂNCIA.
+1. Não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No tocante ao enquadramento jurídico do contrato como de mútuo, não há questão de direito a ser examinada, pois o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos e do objeto do liame firmado para fins de concessão de crédito, cuja revisão é inviável no âmbito do recurso especial, ante os óbices estampados nas Súmulas 5 e 7 do STJ.
+3. O acórdão recorrido está em conformidade com a orientação jurisprudencial do Superior Tribunal de Justiça acerca da correção monetária da ORTN pelo seu valor diário, o que atrai a incidência da óbice da Súmula 83 desta Corte.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.650.383/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORREÇÃO MONETÁRIA. ORTN. VARIAÇÃO DIÁRIA. DECRETO-LEI N. 2.065/1983, ART. 21. PARECER NORMATIVO CST N. 10/1985. CARÁTER INTERPRETATIVO. RETROATIVIDADE. POSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA.
+1. Não há ofensa ao art. 535 do CPC/1973 quando o Tribunal de origem pronuncia-se de forma clara e suficiente sobre a questão posta nos autos, tendo o decisum revelado-se devidamente fundamentado.
+2. A orientação jurisprudencial do Superior Tribunal de Justiça firmou-se no sentido de que, na conversão da OTN para BTN, adota-se o indexador diário, e não o mensal.
+3. A jurisprudência desta Corte admite a aplicação retroativa de norma que tem caráter interpretativo.
+4. Agravo interno a que se nega provimento.
+(AgRg no REsp n. 1.250.877/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 4/12/2018, DJe de 10/12/2018.)
+Com igual entendimento: REsp n. 1.048.624/DF, relatora Ministra Eliana Calmon, Segunda Turma, julgado em 18/12/2008, DJe de 18/2/2009; REsp n. 980.831/DF, relator Ministro Luiz Fux, Primeira Turma, julgado em 19/5/2009, DJe de 29/6/2009.
+Verifico, portanto, que a conclusão do acórdão recorrido está em conformidade com a jurisprudência desta Corte.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE provimento.
+É como voto.
