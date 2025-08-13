@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE DO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. SÚMULA 83/STJ. INADMISSIBILIDADE. PRECEDENTES DESTA CORTE. DECISÃO AGRAVADA MANTIDA.
+1. O Enunciado Sumular 83/STJ é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional, de modo que, tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), incumbe ao agravante demonstrar, nas razões do agravo, que a orientação jurisprudencial do Superior Tribunal de Justiça é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue daquelas objeto dos precedentes invocados, o que não ocorreu na espécie. Precedentes do STJ.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JORGE HIDELBRAND ARNAUD RODRIGUES DA SILVA contra a decisão monocrática da Presidência desta Corte que não conheceu do agravo em recurso especial ante a ausência de impugnação do fundamento da decisão de inadmissão na origem (Súmula 83/STJ).
+Nas razões do agravo regimental, a defesa sustentou a admissibilidade do agravo, aduzindo, em suma, que logrou impugnar o fundamento tido como inatacado, pugnando pela reforma da decisão agravada.
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou no sentido do não conhecimento do agravo regimental e, se conhecido, pelo desprovimento do recurso (fls. 669/673).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE DO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. SÚMULA 83/STJ. INADMISSIBILIDADE. PRECEDENTES DESTA CORTE. DECISÃO AGRAVADA MANTIDA.
+1. O Enunciado Sumular 83/STJ é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional, de modo que, tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), incumbe ao agravante demonstrar, nas razões do agravo, que a orientação jurisprudencial do Superior Tribunal de Justiça é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue daquelas objeto dos precedentes invocados, o que não ocorreu na espécie. Precedentes do STJ.
+2. Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Conforme orientação jurisprudencial sedimentada nesta Corte, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a Corte de origem inadmitiu o recurso especial com base na Súmula 83/STJ (fls. 613/616).
+O agravante, no entanto, não impugnou, de forma adequada e suficiente, o referido fundamento.
+Ora, no tocante ao enunciado sumular em referência, é pacífica a orientação jurisprudencial desta Corte de que ele incide não só quanto ao recurso fundado em dissídio jurisprudencial, mas também ao reclamo fundado na alínea a do permissivo constitucional (AgInt no AREsp n. 2.427.049/RS, Ministro Herman Benjamin, Segunda Turma, DJe 28/6/2024), de modo que, inadmitido o recurso especial com base no entendimento de que o acórdão atacado guarda harmonia com a orientação jurisprudencial consolidada nesta Corte, incumbe ao agravante o ônus de demonstrar que a orientação deste Tribunal Superior é diversa daquela extraída dos precedentes indicados na decisão de inadmissão ou que o caso dos autos ostenta alguma peculiaridade apta a afastar a aplicação dos precedentes indicados na decisão de inadmissão.
+Sobre o tema, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROMOÇÃO. ATO DE APOSENTADORIA. REVISÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. SÚMULA 83/STJ. INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. O Enunciado Sumular 83/STJ é aplicável aos recursos interpostos com fulcro nas alíneas "a" e "c"do permissivo constitucional, de modo que, tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), caberia ao agravante demonstrar, nas razões do agravo, que a orientação jurisprudencial do Superior Tribunal de Justiça é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue daquelas objeto dos precedentes invocados, o que não ocorreu na espécie. Precedentes: AgRg no AREsp 1.445.195/RJ, Rel. Min. Sebastião Reis Júnior, DJe 18.9.2019; AgInt AREsp 1.367.809/RS, Rel. Min. Marco Buzzi, Quarta Turma, DJe 21.3.2019.
+2. Não se conhece de Agravo em Recurso Especial que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade, nos termos do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+3. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.505.281/RJ, Ministro Herman Benjamin, Segunda Turma, julgado em 12/11/2019, DJe 19/12/2019 - grifo nosso).
+No caso, a Corte de origem, ao obstar o recurso especial no tocante à suposta violação do art. 59 do CP, citou precedente recente desta Corte no sentido da legalidade da fundamentação lançada para aumentar a pena na primeira fase, quando calcada em elementos concretos não inerentes ao tipo penal (fl. 615).
+O agravante, no entanto, limitou-se a sustentar genericamente a inaplicabilidade do referido precedente ao casos autos; não efetivou um cotejo mínimo entre o julgado indicado e o caso dos autos, condição necessária para afastar a incidência da Súmula 83/STJ.
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Ante o exposto, nego provimento ao agravo regimental.
