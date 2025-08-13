@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED FORTALEZA SOCIEDADE COOPERATIVA MÉDICA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ cuja ementa guarda os seguintes termos (fl. 634):
+CIVIL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. FORNECIMENTO DE MEDICAMENTO. MULTA COMINATÓRIA. EXECUÇÃO. PEDIDO DE EXCLUSÃO. IMPOSSIBILIDADE. NÃO CUMPRIMENTO DA OBRIGAÇÃO NO PRAZO. JUSTIFICATIVA INSUFICIENTE. DEMORA QUE ULTRAPASSOU DOIS MESES. Recurso conhecido e desprovido. Decisão mantida. 1. O cerne da controvérsia recursal consiste tão somente em verificar se deve, ou não, ser mantida a condenação da parte agravante ao pagamento de astreintes por descumprimento da decisão interlocutória de pela qual se deferiu a tutela provisória de urgência em favor da parte autora, ora agravada. 2. A multa, fixada para compelir o devedor a cumprir a obrigação de fazer imposta em decisão judicial, pode ser revista ou excluída, segundo as circunstâncias fáticas, art. 537, § 1º, do CPC. 3. Na hipótese, consoante bem assinalou o Magistrado primevo, à vista da impossibilidade de cumprimento específico da obrigação no prazo fixado, a Operadora poderia ter se desincumbido de entregar o valor do medicamento tempestivamente, possibilitando, assim, que a beneficiária efetuasse a sua aquisição direta. Contudo, a Agravante não o fez, nem justificou eventual impossibilidade de assim proceder, havendo postergado o cumprimento da decisão cautelar por mais de dois meses e, assim, aberto ensanchas para a aplicação da sanção pecuniária, inclusive já reduzida na origem para adequá-la aos primados da razoabilidade e da proporcionalidade, evitando o enriquecimento ilícito da contraparte. 4. Recurso conhecido e desprovido. Decisão mantida.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão estadual contrariou as disposições contidas nos arts. 537, §1º, I, do CPC e 3º, I e IV, §1º, da Lei n. 13.979/2020.
+Sustenta, em síntese, que, "tendo a Unimed Fortaleza dado cumprimento a decisão liminar, fornecendo o fármaco prescrito pela autora e, posteriormente, custeando via deposito judicial, restou claro o efetivo cumprimento da liminar, na o havendo o que se falar na aplicação de multa por descumprimento" (fl. 665).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.222-1.228).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.263-1.268), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.285-1.290).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento agravo de instrumento, não analisou, sequer implicitamente, o art. 3º, I e IV, §1º, da Lei n. 13.979/2020.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+(AgInt nos EDcl no AREsp n. 2.611.383/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 28/2/2025.)
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF, aplicada por analogia.
+(AgInt no AgInt no AREsp n. 2.604.963/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais e, caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 1.022 do CPC , quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+A propósito, cito:
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento dos dispositivos legais mencionados (artigos 47 e 54 do CDC, artigo 129 do Código Civil). O acórdão recorrido não analisou explicitamente tais dispositivos, e os agravantes não indicaram violação do art. 1.022 do CPC, o que inviabiliza o conhecimento do recurso especial, aplicando-se as Súmulas n. 211 do STJ e 282 do STF.
+(AgInt no REsp n. 2.114.449/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024.)
+2. A questão referente à ofensa ao princípio do devido processo legal não foi debatida pelas instâncias ordinárias, não havendo, portanto, o devido prequestionamento, tampouco arguiu-se ofensa ao art. 1.022 do CPC/2015, o que atrai o óbice das Súmulas 282/STF e 211/STJ.
+(REsp n. 1.931.087/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 26/10/2023.)
+2. A matéria referente à impenhorabilidade do valor poupado até o total de 40 salários mínimos não foi apreciada pelo Tribunal de origem, sendo certo que a parte agravante não apontou violação ao art. 1.022 do CPC nas razões do recurso especial. Assim, não houve o devido prequestionamento da matéria, ensejando o não conhecimento do recurso, no ponto, por força das Súmulas 282 e 356 do STF.
+(AgInt no REsp n. 2.061.290/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 23/8/2023.)
+Em relação à apontada ofensa ao art. 537, §1º, I, do CPC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Isso porque alterar o decidido no acórdão impugnado, no que se refere ao descumprimento de decisão judicial que justifica a aplicação da sanção, bem como à adequação do valor das astreintes, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MULTA COMINATÓRIA (ASTREINTES). FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. DEFICIÊNCIA NA COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. SÚMULA 83/STJ. RECURSO NÃO CONHECIDO. I. CASO EM EXAME
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu recurso especial, em demanda que envolve discussão sobre a obrigatoriedade de pagamento de astreintes por descumprimento de obrigação de fazer. A parte agravante sustentou que o recurso especial preenchia os requisitos de admissibilidade e impugnou o valor fixado a título de multa coercitiva. A parte agravada permaneceu inerte. II. QUESTÃO EM DISCUSSÃO
+2. Há quatro questões em discussão: (i) verificar se houve prequestionamento dos dispositivos tidos por violados; (ii) analisar eventual violação aos arts. 489 e 1.022 do CPC/2015; (iii) avaliar a possibilidade de reexame do valor das astreintes à luz da proporcionalidade e razoabilidade; (iv) examinar se houve demonstração adequada de divergência jurisprudencial para fins de admissibilidade com base na alínea "c" do art. 105, III, da CF/1988. III. RAZÕES DE DECIDIR
+3. A ausência de debate e enfrentamento, ainda que implícito, sobre os dispositivos legais apontados impede o conhecimento do recurso especial, nos termos das Súmulas 282 e 356/STF.
+4. Não se configura ofensa aos arts. 489 e 1.022 do CPC/2015, pois o acórdão recorrido decidiu a controvérsia de forma clara e fundamentada.
+5. A pretensão de rediscutir o valor das astreintes exige reexame do conjunto fático-probatório e das cláusulas contratuais, providência vedada pelas Súmulas 5 e 7 do STJ.
+6. A alegação de dissídio jurisprudencial foi feita sem observância dos requisitos legais e regimentais, ausente o cotejo analítico entre os acórdãos, conforme exigem o art. 1.029, § 1º, do CPC/2015 e o art. 255 do RISTJ.
+7. A jurisprudência do STJ já está consolidada quanto à impossibilidade de revisão do valor de astreintes em sede especial, salvo quando se tratar de montante irrisório ou exorbitante, o que não se verifica na hipótese, razão pela qual incide também a Súmula 83/STJ. IV. DISPOSITIVO
+8. Agravo em Recurso Especial não conhecido.
+(AREsp n. 2.720.328/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 16/6/2025, DJEN de 27/6/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ASTREINTES. CABIMENTO. VALOR. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO IMPROVIDO.
