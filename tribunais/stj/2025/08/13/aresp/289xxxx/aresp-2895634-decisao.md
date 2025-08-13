@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo interposto por ROBERTO FERNANDO VASCONCELOS ALVES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA cuja ementa guarda os seguintes termos (fl. 74):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. DECISÃO QUE DETERMINOU A INCIDÊNCIA DOS JUROS DE MORA A PARTIR DO TRÂNSITO EM JULGADO DA SENTENÇA EXEQUENDA. CONSECTÁRIO QUE NÃO HAVIA SIDO ARBITRADO NO TÍTULO EXECUTIVO. POSSIBILIDADE DE FIXAÇÃO, DE OFÍCIO, NA FASE EXEQUENDA. DECISÃO AGRAVADA CONSONANTE COM PRECEDENTES DESTA CORTE E DO STJ. DESPROVIMENTO DO RECURSO.
+Não tendo os consectários legais sido fixados na sentença exequenda, pode o juiz, de ofício, arbitrá-los na fase de execução, determinando, se for o caso, a alteração dos parâmetros utilizados nos cálculos do exequente, se dissonantes dos preceitos legais.
+Segundo orientação do STJ, "na hipótese em que os honorários de sucumbência são fixados em percentual sobre o valor da causa, (..) os juros de mora incidem a partir da exigibilidade da obrigação, o que se verifica com o trânsito em julgado da sentença". (STJ, R Esp n. 1.984.292/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/3/2022, D Je de 1/4/2022.)
+Rejeitados os embargos de declaração opostos (fls. 145-153; 194-203).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022 e 489 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, em especial acerca da alteração da base de incidência dos honorários advocatícios, devendo incidir sobre o valor do débito executado e não sobre o valor da causa.
+Aduz, no mérito, violação dos arts. 502, 505, 525 e 854, § 3º, todos do CPC.
+Sustenta, em síntese, que a impugnação à penhora foi apresentada fora do prazo, o que deveria impedir a alegação de excesso de execução (fls. 242-243).
+Defende que a decisão do Tribunal de origem alterou a coisa julgada ao modificar a base de cálculo dos honorários advocatícios, violando os arts. 502 e 505 do CPC/2015 (fls. 243-244).
+Por fim, argumenta que a decisão recorrida divergiu do entendimento sedimentado no STJ sobre a base de cálculo dos honorários advocatícios, que deve ser o valor da dívida executada (fls. 246-248).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 461-471).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 475-478), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 498-506).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento ao agravo de instrumento, solucionou a lide em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, em relação à apontada ofensa aos arts. 502, 505, 525, 854, § 3º, todos do CPC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A propósito, cito o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. GRATUIDADE DA JUSTIÇA. PEDIDO FORMULADO NO AGRAVO INTERNO. PESSOA FÍSICA. DECLARAÇÃO DE INSUFICIÊNCIA FINANCEIRA. AUSÊNCIA DE IMPUGNAÇÃO. DEFERIMENTO, COM EFEITO "EX NUNC". CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. DISCUSSÃO A QUALQUER TEMPO. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior admite a concessão da assistência judiciária gratuita mediante a simples declaração, pelo requerente, de que não pode custear a demanda sem prejuízo da sua própria manutenção e da sua família. Os efeitos do benefício da justiça gratuita devem ser ex nunc, não podendo retroagir para alcançar atos processuais anteriormente convalidados.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer tempo e grau de jurisdição ordinária, pois não sujeitas à preclusão temporal.
+Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.993.419/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO. PRECLUSÃO. NÃO OCORRÊNCIA. SÚMULA 83/STJ. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Afasta-se a alegada ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. "É firme o entendimento nesta Corte, no sentido de que "a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1353317/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 3/8/2017, DJe 9/8/2017)" (AgInt no REsp n. 1.967.170/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+3. A desconstituição das premissas lançadas pelo acórdão de origem demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+4. A análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice de admissibilidade quando do exame do recurso especial pela alínea a do permissivo constitucional.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.514.937/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 24/2/2025, DJEN de 5/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO PROVIDO. FALÊNCIA. HABILITAÇÃO DE CRÉDITO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM PERCENTUAL SOBRE O PROVEITO ECONÔMICO AUFERIDO COM A CAUSA. NECESSIDADE DE ATUALIZAÇÃO DA BASE DE CÁLCULO. PRECEDENTES. AGRAVO PROVIDO.
+1. De acordo com a jurisprudência do STJ, "No agravo interno, a parte agravante pleiteou fosse considerado, para fins de aferição da índole irrisória e da majoração dos honorários advocatícios, o valor atualizado da causa. Tal pretensão mostra-se adequada, na medida em que a correção monetária não é acréscimo, gravame ou acessório, visando apenas a salvaguardar o poder aquisitivo da moeda.
+Precedentes que utilizam o valor atualizado da causa como parâmetro." (AgInt no AREsp 1151280/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA,
+julgado em 13/03/2018, DJe 19/03/2018)
+2. Os juros de mora são decorrência lógica da condenação e também devem incidir sobre a verba advocatícia, desde que, como sói acontecer, haja mora do devedor, a qual somente ocorre a partir do momento em que se verifica a exigibilidade da condenação, vale dizer, do trânsito em julgado.
+3. Agravo interno provido, a fim de consignar que os honorários advocatícios, fixados em 1% sobre o proveito econômico auferido, devem ter a base de cálculo atualizada desde o ajuizamento da demanda até a data do efetivo pagamento, acrescendo-se, ainda, juros moratórios a partir do trânsito em julgado desta condenação.
+(AgInt no REsp n. 1.326.731/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2019, DJe de 16/12/2019.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão de que não houve alteração da base de cálculo dos honorários, porquanto o valor atualizado da causa representa o valor do débito executado (fls. 74-75), exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Por fim, o recorrente pleiteia que se analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+É o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO VERIFICADA. JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. DISCUSSÃO A QUALQUER TEMPO. JUROS HONORÁRIOS SUCUMBENCIAS. SÚMULA N. 83/STJ. TRÂNSITO. VALOR DA CAUSA E VALOR DO DÉBITO. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO. DISSÍDIO PREJUDICADO.
