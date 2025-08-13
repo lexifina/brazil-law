@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ILDO ANDRADE SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006, c/c art. 29 do Código Penal.
+Alega a Defesa que a decisão que decretou a prisão preventiva do paciente revela fragilidades tanto legais quanto factuais, e que não há justificativa plausível para a prisão cautelar, considerando que o paciente possui família constituída, residência fixa, personalidade adequada e emprego lícito.
+Afirma que a prisão preventiva foi mantida com base em fundamentos genéricos e abstratos, como "garantia da ordem pública", "quantidade de droga" e "reincidência", sem demonstração de fatos novos ou concretos que justifiquem a indispensabilidade da medida extrema (fls. 6).
+Sustenta que, ainda que o réu seja reincidente, isso por si só não constitui fundamento idôneo para manter a custódia cautelar, especialmente na ausência de violência na prática delitiva.
+Defende que a aplicação de medidas cautelares menos gravosas, conforme previsto no art. 319 do Código de Processo Penal, é suficiente, adequada e proporcional, considerando a ausência de violência ou grave ameaça no delito em questão.
+Requer a revogação da prisão preventiva ou, subsidiariamente sua substituição por medidas cautelares diversas.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o acusado "foi preso em flagrante por crime idêntico, respondeu o processo anterior preso, mas foi colocado em liberdade ao ser condenado pela figura "privilegiada" do tipo penal (§ 4º do art. 33), cuja pena ainda está em cumprimento" (fl. 28 ), circunstâncias ap tas a justificar a segregação cautelar.
+Sobre o tema: "Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024).
+Nesse sentido: AgRg no HC n. 880.186/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 26/6/2024; AgRg no HC n. 895.229/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), julgado em 17/6/2024, DJe de 21/6/2024; RHC n. 198.399/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/6/2024 e AgRg no HC n. 908.662/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2024 e AgRg no RHC n. 190.541/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 11/12/2023.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
