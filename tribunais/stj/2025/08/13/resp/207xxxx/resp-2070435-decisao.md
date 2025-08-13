@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por WANDERSON VERISSIMO NOGUEIRA, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o ora recorrente foi condenado, em primeiro grau de jurisdição, às penas de 11 (onze) anos e 08 (oito) meses de reclusão, em regime inicial fechado, mais 1166 (mil, cento e sessenta e seis) dias multa e 05 (cinco) meses e 14 (quatorze) dias de detenção, no regime inicial semiaberto, pela prática dos crimes descritos no art. 33, "caput", c/c art. 40, inciso IV, ambos da Lei nº 11.343/06 e art. 307, c/c art. 61, inciso I, e art. 65, inciso III, alínea "d", na forma do art. 69, todos do Código Penal,
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação ao artigo 157 do Código de Processo Penal.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo desprovimento do recurso especial.
+É o relatório. DECIDO.
+A Suprema Corte definiu, em repercussão geral, que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro GILMAR MENDES, D Je 8/10/2010).
+No caso em apreço, o Tribunal de origem afastou a alegação defensiva, sob os seguintes fundamentos (e-STJ fls. 523/524): "Os militares L. E. P., F. W. C. e L. F. M. L. dirigiram-se ao endereço do imóvel sobre o qual recaia a suspeita de armazenamento de entorpecentes e sentiram um forte odor de "maconha", oportunidade em que, após baterem no portão, foram atendidos pelo acusado, que se encontrava com um cigarro de "maconha" na mão. "
+Com efeito, verifica-se que a ação policial fundamentou-se em cenário que concebe, de modo tangível, a justa causa para o ingresso não autorizado no domicílio, em observância à jurisprudência desta Corte Superior e do Supremo Tribunal Federal.
+Ademais, para infirmar as conclusões adotadas pelo acórdão recorrido, seria necessário proceder à incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
