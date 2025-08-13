@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA RUTH SALLES VIDAL, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que a ora recorrente foi condenada, em primeiro grau de jurisdição, pela prática do crime previsto no art. 140, §3o, do Código Penal, às penas de 04 meses de reclusão, em regime inicial aberto, e de pagamento de 03 dias-multa.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação aos artigos 38 e 619 do Código de Processo Penal e ao artigo 2 do Código Penal.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo conhecimento e não provimento do recurso especial.
+É o relatório. DECIDO.
+De saída, quanto à alegada violação ao art. 619 do CPP, entende esta Corte Superior que "não há que se falar em fundamentação deficiente quando o julgador, exercendo seu livre convencimento motivado, decide a causa com fundamentação contrária aos interesses da parte" (AgRg no AREsp 2659732 / BA, QUINTA TURMA, Rel. Ministro JOEL ILAN PACIORNIK, DJEN 17/12/2024).
+Ademais, à luz da jurisprudência desta Corte Superior, com o advento da Lei nº 9.459/97, introduzindo a denominada injúria racial, criou-se mais um delito no cenário do racismo, portanto, imprescritível, inafiançável e sujeito à pena de reclusão (AgRg no AR Esp n. 686.965/DF, Ministro Ericson Maranho (Desembargador Convocado do TJ/SP), Sexta Turma, D Je 31/8/2015).
+Nesse contexto, de forma diversa do mencionado pela recorrente, o entendimento firmado pela jurisprudência se refere à aplicação da Lei nº 9.459/1997, tratando-se apenas de interpretação da norma como posta no mundo jurídico. Não há que se falar em retroatividade de entendimento jurisprudencial.
+A propósito, "o entendimento firmado pela jurisprudência se refere à aplicação da Lei n. 9.459/1997, vigente à época do crime aqui apurado, praticado em 11/7/2011, tratando-se apenas de interpretação da norma como posta no mundo jurídico, não havendo falar, no caso, em retroatividade de entendimento jurisprudencial ou da norma prevista na Lei n. 14.532/2023, não havendo, ademais, a demonstração sobre a existência de jurisprudência anterior com entendimento diverso sobre a mesma situação." (AgRg no HC n. 814.773/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, D Je de 17/8/2023).
+Quanto à representação ofertada pela vítima, esta dispensa maiores formalidades, sendo suficiente que a vítima apresente manifestação para que os fatos sejam devidamente apurados.
+É o caso dos autos, em que a ofendida, registrou boletim de ocorrência e prestou depoimento, formas pelas quais reportou o ocorrido à autoridade policial e demonstrou, manifestamente, o seu desejo de que fosse iniciada a persecução penal em face do recorrente, ainda que não tenha sido promovida representação formal.
+Como se sabe, "o simples registro de ocorrência policial pela vítima, bem como as declarações por ela prestadas quando do lavratura do auto de prisão em flagrante, são suficientes para que seja deflagrada ação penal contra a agravante pelo crime de injúria racial, uma vez que demonstram a nítida intenção da ofendida em autorizar a persecução criminal." (AgRg no HC n. 492.764/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 26/2/2019, D Je de 8/3/2019).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
