@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Teodoro Silva Santos.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO INTERNO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. O acórdão recorrido não possui as omissões suscitadas pelo Agravante. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+2. Inexistente insurgência concreta contra a fundamentação da decisão na parte em que não conheceu do recurso especial, incide a Súmula n. 182 do STJ.
+3. Agravo interno conhecido em parte e, nessa extensão, desprovido .
+RELATÓRIO
+Trata-se de agravo interno interposto por RODRIGO TAUMATURGO PAVONI contra a decisão monocrática da lavra da eminente Ministra Assusete Magalhães, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (fls. 264-271).
+O recurso especial foi interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fl. 68):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. LEGITIMIDADE PASSIVA DE SÓCIO CUJO NOME CONSTA EXPRESSAMENTE DA CDA. MATÉRIA PACIFICADA EM RECURSO REPETITIVO. DILAÇÃO PROBATÓRIA. DECISÃO MANTIDA.
+1. De acordo com o disposto na Súmula n. 393/STJ, a exceção de pré- executividade, em execução fiscal, somente é admitida em relação às matérias não cognoscíveis de ofício e que não demandem dilação probatória. 1.2. Em complemento ao aludido enunciado, o Superior Tribunal de Justiça também pacificou entendimento no sentido de que não cabe exceção de pré-executividade, em execução fiscal, promovida contra sócio que figure como responsável na Certidão de Dívida Ativa - CDA (Recurso Especial representativo de controvérsia n. 1.110.925/SP - Tema n. 108).
+2. Conquanto a ilegitimidade passiva possa ser arguida em exceção de pré- executividade, a presunção de validade conferida à CDA impõe ao respectivo sócio, nela incluído, o ônus de provar que não praticou as condutas descritas no art. 135 do CTN, o que demanda dilação probatória, somente passível de ser realizada pela via dos embargos à execução.
+3. Recurso conhecido e desprovido
+Os embargos de declaração opostos (fls. 86-98) foram rejeitados com imposição de multa (fls. 115-127).
+Em suas razões recursais (fls. 141-162), a parte recorrente apontou violação dos arts. 489, § 1º, e 1.022, inciso II, do Código de Processo Civil; 121, 135, inciso III, 142 do Código Tributário Nacional; e 158, incisos I e II, da Lei n. 6.404/1976. Sustentou, em suma: (a) a ocorrência de negativa de prestação jurisdicional; (b) ser cabível exceção de pré-executividade para discutir a legitimidade passiva do recorrente na espécie; e (c) sua ilegitimidade para figurar no polo passivo da demanda executiva, uma vez inexistente qualquer conduta do sócio-gerente que caracteriza excesso de poderes, ou infração de lei, contrato social ou estatutos.
+O Tribunal de origem negou seguimento ao Recurso Especial, com base no art. 1.030, inciso I, alínea b, do CPC/2015, considerando estar o acórdão recorrido em harmonia com o julgamento do recurso repetitivo REsp n. 1.110.925/SP (Tema n. 108), e, quanto ao mais, inadmitiu o Recurso Especial por: (a) ausência de omissão no acórdão recorrido; e (b) pela ausência de prequestionamento, quanto ao art. 158, incisos I e II, da Lei n. 6.404/1976.
+Distribuídos os autos, a eminente Ministra Assusete Magalhães, por decisão monocrática (fls. 264-271), conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, pelos seguintes fundamentos: (i) inexistência de violação dos arts. 489 e 1.022 do CPC; e (ii) incidência da Súmula n. 282 do STF, além da incidência da Súmula n. 283 do STF, quanto à alegação de ofensa ao art. 158, incisos I e II, da Lei n. 6.404/1976.
+Nas razões do presente agravo interno (fls. 277-296), a parte agravante reitera a ocorrência de negativa de prestação jurisdicional, afirmando estar a matéria devidamente prequestionada, ainda que fictamente. Alega, ainda, que "o simples fato, ad argumentandum tantum, de ter sido apontado como corresponsável nesta Execução Fiscal não é suficiente, é preciso que, além de sócio diretor ou administrador, este o tenha sido à época dos fatos e tenha agido com dolo nos atos de gestão" (fl. 295).
+Foi apresentada resposta ao agravo interno (fls. 303-310).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO INTERNO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. O acórdão recorrido não possui as omissões suscitadas pelo Agravante. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+2. Inexistente insurgência concreta contra a fundamentação da decisão na parte em que não conheceu do recurso especial, incide a Súmula n. 182 do STJ.
+3. Agravo interno conhecido em parte e, nessa extensão, desprovido .
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Conforme asseverado na decisão agravada, o acórdão recorrido não possui a omissão suscitada pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão, no sentido de não cabimento de exceção de pré-executividade para discutir legitimidade de sócio que figure como corresponsável na Certidão de Dívida Ativa, além da inexistência de prova cabal apta a afastar a responsabilidade do ora agravante.
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, de fato, ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+No mais, o recurso especial interposto pela parte agravante não foi conhecido, no tocante à alegação de ofensa ao art. 158, incisos I e II, da Lei n. 6.404/1976, em razão da incidência das Súmulas n. 282 e 283 do STF.
+Todavia, a parte agravante, no ponto, não impugnou o fundamento atinente à incidência da Súmula n. 283 do STF, restringindo-se a impugnar o óbice da Súmula n. 282 do STF, afirmando estar a matéria devidamente prequestionada, ainda que fictamente.
+Dessa forma, é inarredável aplicar, também para o presente recurso, o Verbete Sumular n. 182 do STJ, litteris: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+ ..
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que os recorrentes não se desincumbiram do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. O regular recolhimento do preparo do recurso especial é ato incompatível com o pedido de gratuidade de justiça. Precedentes.
+4. Agravo interno não conhecido. (AgInt no AREsp n. 2.318.133/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Ante o exposto, CONHEÇO PARCIALMENTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
