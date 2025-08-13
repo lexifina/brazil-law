@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Marco Buzzi.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - CUMPRIMENTO DE SENTENÇA - RECUPERAÇÃO JUDICIAL - PERÍODO DE BLINDAGEM - EXAURIMENTO - INEXISTÊNCIA DE CONFLITO - DELIBERAÇÃO UNIPESSOAL QUE NÃO CONHECEU DO INCIDENTE - INSURGÊNCIA DA RECUPERANDA.
+1. A orientação jurisprudencial adotada pela eg. Segunda Seção caminha no sentido segundo o qual "(..) exaurido o período de blindagem - mormente nos casos em que sobrevém sentença de concessão da recuperação judicial, a ensejar a novação de todas as obrigações sujeitas ao plano de recuperação judicial - é absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual, não sendo possível que o Juízo da recuperação continue, após tal interregno, a obstar a satisfação do crédito, com suporte no princípio da preservação da empresa, o qual não se tem por absoluto (ut. CC n. 191.533/MT, DJe de 26/4/2024)
+1.1. Na hipótese dos autos, não restou demonstrada a existência de qualquer ato constritivo em face do patrimônio da recuperanda, porquanto a deliberação suscitada autoriza, apenas, o processamento do cumprimento de sentença.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Cuida-se de agravo interno interposto por XINGUARA INDUSTRIA E COMÉRCIO S/A - EM RECUPERAÇÃO JUDICIAL contra decisão, da lavra deste signatário, acostada às fls. 204/205, que não conheceu do incidente em epígrafe.
+Em síntese, o incidente foi manejado pela ora insurgente envolvendo o r. Juízo de Direito da 3ª Vara Cível de Recife/PE no qual se processa a recuperação judicial da suscitante (Processo nº 0030716-08.2013.8.17.0001) e o r. juízo da 1ª Vara Cível de Xinguara/PA, onde tramita o cumprimento de sentença n.º 0802681-73.2022.8.14.0065, movido por EUROFINS DO BRASIL ANÁLISES DE ALIMENTOS LTDA.
+Aduziu a suscitante, em síntese, que o Juízo da 1ª Vara Cível de Xinguara/PA determinou a realização de atos constritivos nos autos do mencionado cumprimento de sentença, na qual figura como executada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, o qual, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Citou, em favor de sua tese, julgados deste STJ.
+Requereu a concessão de liminar objetivando sobrestar o ato executório determinado pelo r. Juízo Cível e, no mérito, a declaração de competência do r. juízo recuperacional. (fls. 3/14)
+Às fls. 204/205, este signatário não conheceu do incidente em epígrafe.
+Nas razões do presente agravo interno, a insurgente repisa os fundamentos da exordial acerca da presença dos elementos do conflito de competência. Aduz, nesse contexto, que "(..) É de se ver que a exegese literal do art. 6º, III e § 4º, da Lei n. 11.101, de 2005, corrói o espírito e inviabiliza os objetos da mesma Lei. (..) Por isso, a melhor interpretação do art. 6º, III e § 4º, da Lei n. 11.101, de 2005, é a de que, mesmo que superado o stay period , a atuação do juízo recuperacional, ainda que cingida à consulta e que seja posterior à determinação do ato executivo, mas anterior à sua efetivação, porque somente assim não serão agredidos o art. 47 da Lei n. 11.101, de 2005, e art. 67 do CPC."
+Requer, assim, o provimento do agravo interno. (fls. 208/221)
+A impugnação está juntada às fls. 226/233.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - CUMPRIMENTO DE SENTENÇA - RECUPERAÇÃO JUDICIAL - PERÍODO DE BLINDAGEM - EXAURIMENTO - INEXISTÊNCIA DE CONFLITO - DELIBERAÇÃO UNIPESSOAL QUE NÃO CONHECEU DO INCIDENTE - INSURGÊNCIA DA RECUPERANDA.
+1. A orientação jurisprudencial adotada pela eg. Segunda Seção caminha no sentido segundo o qual "(..) exaurido o período de blindagem - mormente nos casos em que sobrevém sentença de concessão da recuperação judicial, a ensejar a novação de todas as obrigações sujeitas ao plano de recuperação judicial - é absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual, não sendo possível que o Juízo da recuperação continue, após tal interregno, a obstar a satisfação do crédito, com suporte no princípio da preservação da empresa, o qual não se tem por absoluto (ut. CC n. 191.533/MT, DJe de 26/4/2024)
+1.1. Na hipótese dos autos, não restou demonstrada a existência de qualquer ato constritivo em face do patrimônio da recuperanda, porquanto a deliberação suscitada autoriza, apenas, o processamento do cumprimento de sentença.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+A insurgência não merece prosperar.
+1. Consoante destacado na oportunidade do exame unipessoal, a orientação jurisprudencial recentemente adotada pela eg. Segunda Seção caminha no sentido segundo o qual "(..) exaurido o período de blindagem - mormente nos casos em que sobrevém sentença de concessão da recuperação judicial, a ensejar a novação de todas as obrigações sujeitas ao plano de recuperação judicial - é absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual, não sendo possível que o Juízo da recuperação continue, após tal interregno, a obstar a satisfação do crédito, com suporte no princípio da preservação da empresa, o qual não se tem por absoluto (ut. CC n. 191.533/MT, Rel. Min. Marco Aurélio Bellizze, DJe de 26/4/2024)
+No citado CC n. 191.553/MT supracitado destacou que "remanesce incólume o dever do Juízo em que se processa a execução individual de crédito extraconcursal de bem observar o princípio da menor onerosidade, a fim de que a satisfação do débito exequendo se dê na forma menos gravosa ao devedor, podendo obter, em cooperação do Juízo da recuperação judicial, as informações que reputar "relevantes e necessárias."
+Além disso, na hipótese dos autos, não restou demonstrada a existência de qualquer ato constritivo em face do patrimônio da ora suscitante porquanto a deliberação acostada às fls. 197/201, autoriza apenas o processamento do cumprimento de sentença, sendo de rigor, portanto, a rejeição do presente incidente.
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
