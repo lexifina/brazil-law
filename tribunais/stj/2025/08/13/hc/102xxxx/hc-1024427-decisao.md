@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FABIO HENRIQUE DE LIMA, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (habeas corpus criminal n. 0058369-92.2025.8.16.0000).
+Consta dos autos que o paciente foi inicialmente processado com base nas disposições e sanções do artigo 121, § 2º, inciso III, do Código Penal, por duas vezes e do artigo 309 do Código de Trânsito Brasileiro.
+Após o fim da instrução probatória o Ministério Público entendeu pela ausência de dolo e culpa por parte do paciente e, em suas alegações finais, entendeu pela desclassificação do crime doloso para o crime culposo e, em relação ao crime culposo, requereu a sua absolvição.
+O Juízo da Vara Criminal da Comarca de Bela Vista do Paraíso, então, desclassificou a conduta do paciente para homicídio culposo na condução de veículo automotor, mas não acolheu, de plano, a absolvição requerida pelo Ministério Público, embora tenha declinado de sua competência.
+Neste writ, a defesa alega violação ao princípio acusatório.
+Argumenta que "A denúncia aditada jamais poderia ter sido recebida, pois o órgão ministerial em suas alegações finais de sequencia 325.1, foi muito claro ao pedir a absolvição do Paciente em relação ao crime culposo, aliás o órgão ministerial sequer poderia ter ofertado nova denúncia contra o réu, pois em suas alegações finais, após toda instrução entendeu não ter ocorrido nem mesmo o crime culposo. Ao receber a denúncia houve a violação ao princípio acusatório onde o ministério público acusa, ou não, a defesa exerce o contraditório e a ampla defesa e o magistrado apenas julga com base na acusação e nas provas" (fl. 6).
+Requer, liminarmente, a suspenção da ação penal, cancelando a audiência de instrução designada; e, no mérito, o trancamento da ação penal.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Cinge-se a controvérsia em saber se o não acolhimento sumário do pedido de absolvição feito pelo Ministério Público configura violação ao princípio acusatório.
+Na espécie, o Tribunal de origem assim manifestou (fl. 16):
+ ..  Importante, ainda, destacar que, no sistema processual penal brasileiro, vigora o princípio do livre convencimento motivado (art. 155 do CPP), segundo o qual o juiz forma sua convicção com base na análise das provas colhidas sob o crivo do contraditório e da ampla defesa, devendo fundamentar sua decisão, mas não estando vinculado, de forma automática, à manifestação do Ministério Público, seja ela pela condenação ou pela absolvição.
+Assim, ainda que o Parquet requeira a absolvição do acusado, compete ao magistrado, de forma independente, examinar os autos e, se entender que há elementos mínimos de autoria e materialidade, poderá, com a devida fundamentação, decidir pelo prosseguimento do feito ou mesmo pela condenação, desde que respeitado o contraditório.
+Do mesmo modo, o juiz também não está obrigado a absolver o réu exclusivamente porque o Ministério Público assim requer, sobretudo quando se trate de hipóteses de desclassificação ou redimensionamento da imputação, como no caso dos autos.  ..
+Ora, o entendimento do Tribunal de origem está de acordo com a jurisprudência desta Corte, de que a manifestação do Ministério Público em alegações finais no sentido de absolvição não vincula o magistrado, que decide com base no livre convencimento motivado, nos termos do art. 385 do CPP, tudo sem violação ao princípio acusatório.
+Nesse sentido:
+ ..  A manifestação do Ministério Público em alegações finais no sentido de absolvição não vincula o magistrado, que decide com base no livre convencimento motivado, nos termos do art. 385 do CPP, sem violação ao princípio acusatório  ..  (AgRg no AREsp n. 2.395.677/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.)
+Assim, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
