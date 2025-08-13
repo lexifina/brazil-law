@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por SAMUEL SOUZA ALVES DE OLIVEIRA e SARA FELIX GOUVEIA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fl. 470) :
+"HABEAS CORPUS" - TRÁFICO DE DROGAS - TRANCAMENTO DA AÇÃO PENAL - LASTRO PROBATÓRIO MÍNIMO DEMONSTRADO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. O trancamento da ação penal pela via do "habeas corpus" constitui medida excepcional, que somente se justifica se demonstrada, sumariamente, a atipicidade da conduta, a existência de causas de extinção de punibilidade ou a ausência de prova de materialidade ou de indícios mínimos de autoria.
+Narram os autos que os recorrentes foram denunciados como incursos no crime tipificado no art. 33, caput, da Lei n. 11.343/2006. Consta que a Polícia Militar solicitou ao Juízo um mandado de busca e apreensão na residência dos réus, sob o argumento de que eles estariam praticando o delito de tráfico de drogas, o qual foi deferido pela autoridade judiciária (Ação Penal n. 0000982-62.2025.8.13.0434).
+Inconformada, a defesa impetrou habeas corpus na colenda Corte de origem, que denegou a ordem (Habeas Corpus n. 1.0000.25.178481-5/000 - fls. 470/476).
+Aqui, sustentam os recorrentes constrangimento ilegal consistente na ilegalidade na execução do mandado de busca e apreensão, em total desrespeito ao art. 245 do CPP.
+Aduzem que os agentes policiais adentraram no imóvel antes das 6 horas da manhã. Alegam ausência de fundamentos para o recebimento da denúncia, em razão da falta de justa causa (fls. 486/496).
+A liminar foi indeferida (fls. 505/506).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 555/558).
+É o relatório.
+Conforme assentado no acórdão recorrido, não há ilegalidade no cumprimento de mandado judicial pouco antes das 6 horas.
+Ora, malgrado não se discuta a relevância de um critério para definição de "dia" e "noite", admitir a adoção de uma visão temperada acerca de tais conceitos, no caso dos autos - em que a controvérsia gira em torno de uma suposta diferença de aproximadamente 15 minutos -, é medida que se impõe, sendo, no caso em apreço, inviável o reconhecimento da aduzida ilegalidade no cumprimento do mandado de busca e apreensão.
+Nesse sentido: AgRg no HC n. 990.831/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 28/5/2025.
+Ainda, registre-se que a Lei n. 13.869/2019, que dispõe sobre os crimes de abuso de autoridade, em seu art. 22, inciso III, estipulou o período entre as 5h e as 21h para cumprimento de mandado de busca e apreensão domiciliar (AgRg nos EDcl no HC n. 685.379/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022).
+Tal o contexto, desconstituir as premissas fáticas estabelecidas pela Corte estadual, no intuito de abrigar a pretensão defensiva de reconhecimento de nulidade no cumprimento do mandado de busca a apreensão, fundada na alegação de que esse foi efetivado ainda no período noturno, demandaria, necessariamente, aprofundado revolvimento do conjunto fático-probatório, providência indesejável na via estreita eleita.
+Assim, inexiste qualquer fundamento para o trancamento da ação penal. Não se verifica inexistência de justa causa. Quanto ao lastro probatório mínimo de materialidade e autoria, nada há a censurar. As provas angariadas no bojo do procedimento inquisitorial que serviu de arrimo para a deflagração da persecutio criminis ora em exame apontam - ainda, que, de forma indiciária, como só ocorre nesta fase - para a autoria dos injustos, cujas materialidades se encontram devidamente positivadas. É fato que, no que tange à autoria, o grau probatório exigido não é o mesmo da materialidade. Neste jaez, repisa-se, a análise acerca da negativa de autoria veiculada na inicial é questão que não pode ser dirimida na via sumária eleita por demandar o reexame aprofundado das provas colhidas no curso da instrução criminal.
+Para ir além dessas conclusões e analisar as demais alegações, indispensável seria o revolvimento de matéria fático-probatória, o que deve ocorrer na instância ordinária, sob o pálio do contraditório e da ampla defesa, e não no âmbito desta Corte.
+Diante do exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA DOMICILIAR. ALEGAÇÃO DE CUMPRIMENTO EM PERÍODO NOTURNO. REDUZIDO LAPSO TEMPORAL ENTRE O MOMENTO DO CUMPRIMENTO E AS 6 HORAS. TESE AFASTADA. CONCLUSÃO DIVERSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+Recurso improvido.
