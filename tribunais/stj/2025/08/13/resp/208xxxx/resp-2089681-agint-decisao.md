@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo Conselho Federal de Medicina contra decisão de fls. 948/953, que deu parcial provimento ao recurso especial de CEISP Serviços Educacionais, apenas para afastar a verba honorária de sucumbência.
+Sustenta que a exclusão dos honorários de sucumbência configuram julgamento ultra petita, pois não foram objeto das razões do nobre apelo, além de inexistir prequestionamento da matéria .
+Em acréscimo, argumenta que "o artigo 18 da Lei da Ação Civil Pública é expresso em eximir a parte autora de custas, honorários sucumbenciais, entre outras despesas. Em nenhum momento a lei estende esses direitos aos réus sucumbentes" (fl. 979).
+Por fim, caso decidido pelo cabimento da verba sucumbencial, aponta a impossibilidade de conhecimento da matéria, ante a incidência da Súmula 7/STJ.
+A parte agravada apresentou impugnação às fls. 1.045/1.050.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Tal como indicado nas razões de agravo, percebe-se que o provimento do recurso por afronta ao art. 18 da Lei de Ação Civil Pública não se sustenta, ante a falta de prequestionamento da matéria, pois a instância ordinária, em momento algum, apreciou o cabimento de fixação de verba honorária nos autos de ação civil pública.
+Desta feita, melhor compulsando os autos e exercendo o juízo de retratação facultado pelos arts. 1.021, §2º, do CPC/2015 e 259 do RISTJ, reconsidero parcialmente a decisão agravada, tornando-a sem efeito, e passo a novo exame da questão dos honorários advocatícios.
+Em um breve retrospecto, destaco que a CEISP SERVIÇOS EDUCACIONAIS LTDA. interpôs recurso especial, apontando violação ao art. 85, §§ 2º e 6º-A, do CPC, sob o argumento de que não seria possível a fixação da verba honorária a partir do critério de equidade; ademais, o valor de R$ 10.000,00 (dez mil reais), posteriormente majorados para R$ 15.000,00 (quinze mil reais) seria exorbitante.
+Contudo, observa-se que a tese de que não seria cabível a sucumbência por equidade no caso concreto, pois a norma processual determina que ela é feita por exclusão, somente quando não foi possível aferir o valor da condenação ou do proveito econômico obtido ou quando o valor atualizado da causa for líquido ou liquidável, não foi apreciada na instância de origem, tampouco foi objeto dos embargos de declaração de fls. 810/813.
+Assim, no ponto, o recurso especial não poderia ser conhecido, ante a falta de prequestionamento da questão suscitada.
+Sobre o quantum fixado, é certo que a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando forem verificados excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem manteve a verba honorária fixada em sentença, sem trazer qualquer particularidade que permita afastar a incidência da Súmula 7/STJ na hipótese.
+A propósito, confira-se:
+CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PLATAFORMA DE VENDAS ON-LINE E SERVIÇO NOTARIAL. FRAUDE EM CRV. RECONHECIMENTO DE CULPA CONCORRENTE ENTRE AUTOR E SEGUNDO RÉU. JUROS MORATÓRIOS. ART. 406 DO CC. SELIC. DÍVIDAS DE NATUREZA CIVIL. HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA. CABIMENTO. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RETORNO DOS AUTOS.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que, a partir da vigência do Código Civil de 2002, os juros moratórios deverão observar a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional (art. 406). Atualmente, a taxa dos juros moratórios a que se refere o dispositivo vigente é a Taxa SELIC.
+2. Esta Corte já assentou entendimento no sentido de que o critério norteador da distribuição das verbas de sucumbência é o número de pedidos formulados e atendidos. Configurada a sucumbência recíproca, as custas processuais e os honorários advocatícios serão suportados na proporção do decaimento de cada um dos litigantes, de acordo com art. 86, caput, do CPC.
+3. Não compete a esta Corte redimensionar os honorários fixados na origem, sob pena de nova análise de aspectos fáticos, o que esbarraria na Súmula 7/STJ. Assim, cabe a devolução dos autos ao Tribunal a quo para que aplique o comando normativo do art. 86, caput, do CPC ao caso dos autos.
+Recurso especial provido.
+(REsp n. 2.135.889/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025)
+Assim, o tópico dos honorários de sucumbência não podem ser conhecidos, ante a incidência dos óbices contidos nas Súmulas 282/STF e 7/STJ.
+ANTE O EXPOSTO, reconsidero, em parte, a decisão de fls. 948/953, e, em novo exame, não conheço do recurso especial quanto aos honorários de sucumbência, mantidos os demais fundamentos (afastamento a alegação de ilegitimidade ativa do conselho recorrido, incidência das Súmulas 283 e 284/STF, e ausência de indicação de norma legal tida por violada).
+Como consequência lógica deste resultado, fica prejudicado o agravo interno de fls. 957/971.
+Publique-se.
+EMENTA
