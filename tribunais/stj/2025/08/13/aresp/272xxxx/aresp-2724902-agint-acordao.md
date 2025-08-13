@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA. OBRIGAÇÃO ACESSÓRIA. REVISÃO. IMPOSSIBILIDADE. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.  Com relação à apontada violação ao art. 489 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+2.  Ademais, ainda que a agravante sustente violação ao art. 122 do CTN, resta claro que o entendimento do Tribunal de origem a respeito da legitimidade passiva da obrigação acessória pautou-se na interpretação da previsão disposta na legislação estadual correspondente (Lei Estadual n. 7.098 /1998 e RICMS/MT), analisadas pelo acórdão recorrido. Sendo assim, para se chegar à conclusão diversa da que chegou a Corte Estadual, seria imprescindível a interpretação da legislação local, o que é inadmissível nesta via, consoante dispõe a Súmula 280 do STF.
+3. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por MINERAÇÃO CARAÍBA S.A. contra  o aresto que reconsiderou a decisão proferida no agravo em recurso especial, de modo a conhecê-lo, em parte, do recurso especial e, nessa extensão, negar-lhe provimento, em razão da inexistência de violação aos arts. 489 e 1.022  do  CPC/2015 e da aplicação da Súmula 280 do STF.
+Argumenta  a  parte agravante,  em  síntese,  que ocorre ausência de fundamentação acerca do tema da ilegitimidade passiva em obrigação acessória, assim como o caráter de sanção política dos Termos de Apreensão e Depósitos - TADs derivados dos débitos principais, incorrendo em violação ao art. 489, § 1º, do CPC/2015.
+Defende, ainda, que a matéria em debate está diretamente vinculada à legislação federal, prescindindo da análise de legislação local.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA. OBRIGAÇÃO ACESSÓRIA. REVISÃO. IMPOSSIBILIDADE. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.  Com relação à apontada violação ao art. 489 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+2.  Ademais, ainda que a agravante sustente violação ao art. 122 do CTN, resta claro que o entendimento do Tribunal de origem a respeito da legitimidade passiva da obrigação acessória pautou-se na interpretação da previsão disposta na legislação estadual correspondente (Lei Estadual n. 7.098 /1998 e RICMS/MT), analisadas pelo acórdão recorrido. Sendo assim, para se chegar à conclusão diversa da que chegou a Corte Estadual, seria imprescindível a interpretação da legislação local, o que é inadmissível nesta via, consoante dispõe a Súmula 280 do STF.
+3. Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+1 - Da negativa de prestação jurisdicional
+Com relação à apontada violação ao art. 489 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+No presente caso, como destacado na decisão monocrática ora recorrida, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando sobre a responsabilidade pelo cumprimento da obrigação acessória (fls. 818-820):
+Do que se percebe, a infração material, que ocasionou a lavratura dos Termos de Apreensão e Depósito, está absolutamente amparada pela legalidade.
+Primeiramente, é certo que fica atribuída a responsabilidade pelo pagamento do imposto, nos termos do art. 18 da Lei Estadual n. 7.098/1998, a qual dispõe também sobre às implicações ao transportador, vejamos:
+Art. 18 Fica atribuída a responsabilidade pelo pagamento do imposto e acréscimos legais devidos pelo sujeito passivo, pelos atos e omissões que praticarem e que concorrerem para o não cumprimento da obrigação tributária:
+ ..
+IV - ao transportador, em relação à mercadoria:
+a) proveniente de outro Estado para entrega a destinatário não designado no território mato-grossense;
+b) que for negociada no território mato-grossense durante o transporte;
+c) que aceitar para despacho ou transportar sem documento fiscal, ou acompanhada de documento fiscal inidôneo ou com destino a contribuinte não identificado ou baixado no Cadastro de Contribuintes do ICMS; (Nova redação dada pela Lei 10.978/19)
+d) que entregar a destinatário ou em local diverso do indicado na documentação fiscal;
+e) que transportar com documento fiscal sem o selo fiscal de trânsito, quando exigido na legislação; (Acrescentada pela Lei 10.978/19)
+f) ou o bem objeto de remessa expressa internacional porta a porta que transportar na condição de empresa de courier; (Acrescentada pela Lei 10.978/19)
+De igual maneira, nos termos do RICMS/MT, respondem conjuntamente ou isoladamente aqueles que concorrerem para a prática, como se vê:
+Art. 937. Constitui infração tributária toda ação ou omissão voluntária ou involuntária que importe em inobservância, por parte de pessoa física ou jurídica, de normas estabelecidas em leis, neste regulamento, em decretos regulamentares ou em atos complementares que sejam pertinentes ao ICMS ou que façam referência ao aludido tributo ou a ele se apliquem. (cf. art. 37 da Lei nº 7.098/98)
+§ 1º Respondem pela infração, conjunta ou isoladamente, todos os que, de qualquer forma, concorrerem para sua prática ou dela se beneficiarem. (cf. inciso I do caput do art. 124 do CTN)
+§ 2º Salvo disposição expressa em contrário, a responsabilidade por infração independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato. (cf. art. 136 do CTN)
+Somado a isso, dispõe a Lei Estadual nº 7.098/98, especificamente em seus artigos 17, 35-A e 35-B, bem como fica estabelecida a responsabilidade solidária do contribuinte, se não vejamos:
+ ..
+Com efeito, embora haja possibilidade de responsabilização do transportador no caso, não há ilegalidade por parte do Fisco em atribuir a responsabilidade também ao remetente/contribuinte, não cabendo ao Poder Judiciário invadir o mérito administrativo, mas tão somente verificar a legalidade do ato.
+Do mesmo modo, dispôs expressamente acerca da natureza jurídica dos TADs e os motivos que ensejam o afastamento de qualquer irregularidade na respectiva autuação pelo Fisco (fls. 821-823):
+No tocante aos TADS nº 959200-3 e 959419-0, esses decorrem do regime cautelar administrativo (Resolução 007/2008), uma vez que a parte apelante possuía débitos na conta fiscal, in verbis:
+(..) verificou-se que o contribuinte encontra-se com pendências no sistema Conta Corrente, sujeita-se portanto, ao Tratamento Tributário Diferenciado em relação ao recolhimento do ICMS, conforme art. 1º inc. I e II da Resolução nº 07/2008-SARP"
+Por sua vez, o regime cautelar administrativo previsto nos artigos 915 e 916 do RICMS, aplicado pela Resolução nº 07/2008-SARP, estabeleceram a medida administrativa cautelar, estabelecendo as razões de inclusão quando houver descumprimento das obrigações fiscais e tributárias, como se vê:
+Art. 1º Ficam submetidos a regime cautelar administrativo, nos termos dos artigos 915 e 916 do Regulamento do ICMS, aprovado pelo Decreto nº 2.212, de 20 de março de 2014, consistente no recolhimento do imposto concomitante a cada operação e/ou prestação relativa ao trânsito de bens e mercadorias, seja interna, seja de entrada ou seja de saída do território do Estado, os contribuintes do ICMS que, isolada ou cumulativamente, se enquadrarem nas seguintes hipóteses: (Nova redação dada pela Res. 01/17)
+I - possuírem débitos no Sistema Eletrônico de Conta Corrente Geral do Estado de Mato Grosso, cujo valor somado seja igual ou superior a R$ 25.000,00 (vinte e cinco mil reais) em atraso há mais de 30 (trinta) dias; (Nova redação dada pela Res. 001/17)
+Logo, o regime cautelar administrativo poderá ser imposto quando um contribuinte reiteradamente deixar de cumprir com suas obrigações fiscais, com o fito de assegurar o devido cumprimento dos deveres, não possuindo qualquer irregularidade em tal ato.
+ ..
+Partindo dessas premissas, não há qualquer irregularidade na autuação por parte do Fisco, com a imposição do recolhimento antecipado e sem o benefício fiscal, bem como a imposição de multa no caso, de modo que o desprovimento do recurso é medida que se impõe.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Conforme jurisprudência:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Assim, inexiste violação ao art. 489 do CPC/2015.
+2 - Da incidência da Súmula 280 do STF
+Ademais, ainda que a agravante sustente violação ao art. 122 do CTN, resta claro dos trechos acima destacados que o entendimento do Tribunal de origem a respeito da legitimidade passiva da obrigação acessória pautou-se na interpretação da previsão disposta na legislação estadual correspondente (Lei Estadual n. 7.098 /1998 e RICMS/MT), analisadas pelo acórdão recorrido.
+Sendo assim, para se chegar à conclusão diversa da que chegou a Corte Estadual, seria imprescindível a interpretação da legislação local, o que é inadmissível nesta via, consoante dispõe a Súmula 280 do STF.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. ICMS. RESOLUÇÃO 07/2008, DA SECRETARIA DE ESTADO DE FAZENDA DE MATO GROSSO. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. ANÁLISE DE RESOLUÇÃO. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. ACÓRDÃO COM FUNDAMENTO EM NORMA DE DIREITO LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. ART. 97 DO CTN. DISPOSITIVO QUE REPRODUZ NORMA CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. ANÁLISE DO RECURSO, PELA ALÍNEA B DO ART. 105, III, DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE, NO CASO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação Ordinária, ajuizada pela parte ora agravante em face do Estado de Mato Grosso, "objetivando a concessão do provimento antecipatório para que seja afastada a aplicação da Resolução nº 07/2008-SARP em relação às Requerentes e suas filiais, bem como seja declarada a nulidade dos créditos tributários consubstanciados nos Termos de Apreensão e Depósito - TAD em nome das Requerentes". O Juízo de 1º Grau julgou improcedente a ação. O Tribunal de origem manteve a sentença. Opostos Embargos Declaratórios, restaram eles rejeitados.
+ ..
+V. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação de norma de direito local. Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgInt no AREsp 1.945.904/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/03/2022; AgInt no AREsp 1.931.165/TO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/03/2022; AgInt no AREsp 1.217.078/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 20/06/2018; REsp 1.635.382/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016.
+ ..
+VIII. Agravo interno improvido (AgInt nos EDcl no AREsp n. 2.207.354/MT, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/4/2023, DJe de 2/5/2023 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. OMISSÕES ATRIBUÍDAS À INSTÂNCIA DE ORIGEM QUE NÃO SE VERIFICAM. ICMS. AUSÊNCIA DE FATO GERADOR. RESPONSABILIDADE DO TRANSPORTADOR. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO STF. AGRAVO REGIMENTAL DO ESTADO DO RIO GRANDE DO SUL DESPROVIDO.
+ ..
+3. A pretensão de conferir interpretação diversa da esposada pela instância de origem em relação a lei regional, especificamente o art. 7o. da Lei 8.820/89, do Estado do Rio Grande do Sul, não autoriza o manejo do Recurso Especial, a teor da diretriz firmada na Súmula 280 do STF.
+4. Agravo Regimental do Estado do Rio Grande do Sul desprovido (AgRg no AR Esp n. 419.388/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/11/2016, DJe de 6/12/2016 - grifo nosso).
+Isso posto, nego provimento ao recurso.
