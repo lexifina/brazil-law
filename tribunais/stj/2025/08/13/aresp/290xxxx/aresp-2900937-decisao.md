@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por COSAMA ENGENHARIA LTDA da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5635652-90.2022.8.09.0051, assim ementado (fl. 522):
+REEXAME NECESSÁRIO. CONDENAÇÃO DA FAZENDA PÚBLICA EM VALOR INFERIOR AO DISPOSTO NO ART. 496, §3º, DO CPC. NÃO CONHECIMENTO. DUPLO APELO. AÇÃO MONITORIA. CONTRATO PARA REALIZAÇÃO DE OBRA PÚBLICA EM PRESÍDIO. PRESCRIÇÃO. INADIMPLEMENTO DE PARTE DO CRÉDITO PELO ENTE PÚBLICO. ENCARGOS MORATÓRIOS. SENTENÇA ILÍQUIDA.
+1. Não se conhece do duplo grau de jurisdição quando a Fazenda Pública é condenada ao pagamento de quantia líquida inferior aos limites estabelecidos no art. 496, §3º, do Código de Processo Civil.
+2. Em se tratando de relação jurídica com a Fazenda Pública, o prazo prescricional é de 5 (cinco) anos, nos termos do art. Iodo Decreto nº 20.910/32.
+3. O art. 202, inciso VI, do Código Civil prevê que qualquer ato inequívoco que importe reconhecimento do direito pelo devedor é considerado marco interruptivo da prescrição.
+4. Consoante o art. 3odo Decreto- Lei nº 4.597/42, que dispõe sobre a prescrição das ações contra a Fazenda Pública, "a prescrição das dívidas, direitos e ações a que se refere o Decreto nº 20.910, de 6 de janeiro de 1932, somente pode ser interrompida uma vez, e recomeça a correr, pela metade do prazo, da data do ato que a interrompeu, ou do último do processo para a interromper; consumar-se-á a prescrição no curso da lide sempre que a partir do último ato ou termo da mesma, inclusive da sentença nela proferida, embora passada em julgado, decorrer o prazo de dois anos e meio." Assim, uma vez interrompida a prescrição, recomeça a fluir o prazo de 2 anos e meio, restando patente a ocorrência da prescrição quando a ação judicial foi proposta após o decurso do referido prazo legal.
+5. Comprovado nos autos que o Estado de Goiás adimpliu apenas parte da dívida já reconhecida na via administrativa pelos seus órgãos de representação, correta a sentença que o condenou ao pagamento do saldo remanescente.
+6. Por se tratar de condenação contra a Fazenda Pública, de ordem não tributária, a correção monetária deve se dar com base no IPCA-E e os juros de mora devem ser equivalentes aos juros aplicados à caderneta de poupança. A partir de 09/12/2021, contudo, deverão ser observadas as inovações trazidas no art. 3o da EC 113/2021, com incidência, uma única vez, do índice da taxa SELIC, acumulado mensalmente.
+7. Quando a sentença for ilíquida, a fixação do percentual relativo aos honorários advocatícios sucumbenciais deve ocorrer na fase de liquidação, nos termos do art. 85, § 4º, II, do CPC, observando-se, inclusive, o trabalho adicional em sede recursal (art. 85, §11, CPC).
+REEXAME NECESSÁRIO NÃO CONHECIDO. APELAÇÕES CÍVEIS CONHECIDAS E DESPROVIDAS.
+Opostos embargos declaratórios, foram rejeitados (fls. 543-555).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alíneas a e c, da Constituição Federal, a parte recorrente alega afronta aos seguintes dispositivos (fls. 563-574):
+a) art. 4º, caput e parágrafo único, e art. 9º, do Decreto n. 20.910/32, sustentando que "o caso concreto não se descura a possibilidade de interrupção do prazo prescricional pela hermenêutica do referido art. 9º, porém, também não se pode menosprezar a "suspensão" conferida pelo art. 4º, cuja redação do seu parágrafo único a prevê taxativamente" e que "além da famigerada interrupção, o aludido Decreto 20.910/32 também prevê a possibilidade de SUSPENSÃO do prazo de prescrição na hipótese do mencionado art. 4º, comportável no curso do processo administrativo" (fl. 569).
+b) Alega divergência jurisprudencial, pois "o dissídio traz uma compreensão completamente antagônica, na medida em que o ínclito TJ/RS sacramentou que o requerimento administrativo tem o condão de suspender o curso prescricional, entendimento iterado naquela Proeminente Corte e respaldado pelo Colendo STJ, a partir de inúmeros precedentes transcritos no relatório e voto daquele julgado" (fl. 572).
+Ao final, requer o provimento do recurso especial para que seja reformado o acórdão recorrido, nos seguintes termos (fl. 574):
+Na confluência de todo o exposto, e, dada a maturidade a lide, roga pelo conhecimento e provimento ao presente Recurso Especial, aplicando o direito à espécie (artigo 255, § 5oRI/STJ), para que, a partir dos elementos estabelecidos nos autos, sejam parcialmente reformadas as decisões preferidas pelas instâncias de origem, afastando-se a prescrição às pretensões da parte autora/recorrente e condenando o Estado de Goiás ao pagamento dos valores postulados na petição inicial, quais sejam, a quantia de R$341.547,39 (trezentos e quarenta e um mil, quinhentos e quarenta e sete reais e trinta e nove centavos), (notas fiscais 262 e 268), proveniente da edificação de Valparaíso de Goiás (evento 4, doe. 10), e, R$233.976,34 (duzentos e trinta e três reais, novecentos e setenta e seis reais e trinta e quatro centavos), (nota fiscal n. 268), concernente a edificação de Santo Antônio do Descoberto (evento 4, doc. 11), atualizando-os conforme as critérios pertinentes à Fazenda Pública em Juízo.
+Sem contrarrazões ao recurso especial.
+Não admitido o recurso especial pelo Tribunal de origem (fls. 647-650), seguiu-se o presente agravo em recurso especial (fls. 655-661).
+Sem contrarrazões ao agravo em recurso especial.
+Instado a se manifestar, o Ministério Público Federal ofereceu o parecer de fls. 682-686, pugnando pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, de que maneira não seria necessária a incursão ao campo fático-probatório.
+Na espécie, a parte agravante alegou que o
+ ..  processo administrativo que apurou a dívida oriunda da reforma do Presídio de Valparaíso de Goiás foi finalizado em 20/9/2021, quando notificada a empresa autora/recorrente sobre o parecer da advocacia setorial do Estado de Goiás, que opinou pela prescrição e culminou no cancelamento do empenho de pagamento. E o processo administrativo relativo à reforma do presídio de Santo Antônio do Descoberto foi fulminado pelo mesmo parecer, ou seja, os prazos de prescrição, devidamente suspensos, fluíram no mesmo instante, frisa-se, em 20/9/2021. De tal modo, considerando que a lide foi distribuída em 15/10/2022, consumou-se, no pior dos cenários, 13 (treze) meses entre o desfecho dos processos administrativos e a distribuição da lide, o que afasta por completo a incidência de prescrição às pretensões da autora/recorrente" (fls. 659-660).
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt -Desembargador Convocado do TRF-5ª Região -, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 519), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. CONTRATO PARA REALIZAÇÃO DE OBRA PÚBLICA EM PRESÍDIO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO (SÚMULA N. 7 DO STJ). AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
