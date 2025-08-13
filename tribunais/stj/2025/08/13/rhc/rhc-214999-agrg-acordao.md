@@ -1,0 +1,118 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental NO RECURSO EM HABEAS CORPUS. homicídio qualificado. Prisão preventiva. MANUTENÇÃO. FUNDAMENTAÇÃO IDÔNEA. PRESENÇA DOS Requisitos legais. Agravo REGIMENTAL desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário em habeas corpus, mantendo a decretação da prisão preventiva do agravante, acusado de homicídio qualificado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva do agravante é justificada pela gravidade concreta do delito imputado e pela sua condição de foragido, além da possibilidade de aplicação de medidas cautelares menos gravosas.
+III. Razões de decidir
+3. A decretação da prisão preventiva está devidamente fundamentada na gravidade concreta do crime imputado, evidenciada pelo modus operandi e pela periculosidade do agente, o que justifica a manutenção da prisão preventiva para garantia da ordem pública.
+4. A fuga do distrito da culpa e a condição de foragido reforçam o risco à aplicação da lei penal, constituindo fundamento válido para a manutenção da prisão preventiva, conforme pacífica jurisprudência dos Tribunais Superiores.
+5. Eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando, como no caso, são identificados os requisitos legais para a decretação da prisão preventiva.
+6. A aplicação de medidas cautelares diversas da prisão é considerada insuficiente para acautelar a ordem pública, dada a gravidade do delito e a periculosidade do agravante.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A gravidade concreta da conduta e a condição de foragido justificam a manutenção da prisão preventiva para garantir a ordem pública. 2. Eventuais condições subjetivas favoráveis, por si sós, não obstam a segregação cautelar quando identificados os requisitos legais para a decretação da prisão preventiva. 3. A aplicação de medidas cautelares diversas da prisão é insuficiente quando evidenciada a periculosidade do agente e a gravidade dos delitos."
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319.
+Jurisprudência relevante citada: STJ, AgRg no HC 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022; STJ, AgRg no HC 835.034/PR, Rel. Ministro Jesuíno Rissato, Sexta Turma, DJe 15/9/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VICTOR AUGUSTO MONTEIRO contra decisão proferida às fls. 156/162, de minha relatoria, em que foi negado provimento ao recurso em habeas corpus, com fundamento no art. 34, XVIII, a, do RISTJ.
+Nas razões recursais, a defesa alega, inicialmente, que o desprovimento do recurso em habeas corpus, de forma monocrática, viola os princípios da ampla defesa e do devido processo legal.
+Reitera, ademais, a ausência de fundamentação idônea para a decretação da prisão preventiva do agravante, pois não foi demonstrada a gravidade concreta do suposto fato delitivo. Destaca que o agravante é tecnicamente primário, possui residência fixa e atividade laborativa lícita, sendo suficiente a aplicação de medidas cautelares diversas da prisão.
+Aduz a necessidade de respeito à presunção de não culpabilidade.
+Requer, assim, o julgamento do agravo regimental pelo órgão colegiado para que seja revogada a prisão preventiva do agravante.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO RECURSO EM HABEAS CORPUS. homicídio qualificado. Prisão preventiva. MANUTENÇÃO. FUNDAMENTAÇÃO IDÔNEA. PRESENÇA DOS Requisitos legais. Agravo REGIMENTAL desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário em habeas corpus, mantendo a decretação da prisão preventiva do agravante, acusado de homicídio qualificado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva do agravante é justificada pela gravidade concreta do delito imputado e pela sua condição de foragido, além da possibilidade de aplicação de medidas cautelares menos gravosas.
+III. Razões de decidir
+3. A decretação da prisão preventiva está devidamente fundamentada na gravidade concreta do crime imputado, evidenciada pelo modus operandi e pela periculosidade do agente, o que justifica a manutenção da prisão preventiva para garantia da ordem pública.
+4. A fuga do distrito da culpa e a condição de foragido reforçam o risco à aplicação da lei penal, constituindo fundamento válido para a manutenção da prisão preventiva, conforme pacífica jurisprudência dos Tribunais Superiores.
+5. Eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando, como no caso, são identificados os requisitos legais para a decretação da prisão preventiva.
+6. A aplicação de medidas cautelares diversas da prisão é considerada insuficiente para acautelar a ordem pública, dada a gravidade do delito e a periculosidade do agravante.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A gravidade concreta da conduta e a condição de foragido justificam a manutenção da prisão preventiva para garantir a ordem pública. 2. Eventuais condições subjetivas favoráveis, por si sós, não obstam a segregação cautelar quando identificados os requisitos legais para a decretação da prisão preventiva. 3. A aplicação de medidas cautelares diversas da prisão é insuficiente quando evidenciada a periculosidade do agente e a gravidade dos delitos."
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319.
+Jurisprudência relevante citada: STJ, AgRg no HC 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022; STJ, AgRg no HC 835.034/PR, Rel. Ministro Jesuíno Rissato, Sexta Turma, DJe 15/9/2023.
+VOTO
+Inicialmente, sobre a alegação descabimento da decisão monocrática do writ, ressalto que o art. 932 do CPC, c/c o art. 3º do CPP, c/c o art. 34, XI, XVIII, a e b, e XX, do RISTJ, além do enunciado 568 da Súmula do STJ, permitem ao relator negar seguimento a recurso ou pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com Súmula ou com jurisprudência dominante nos Tribunais superiores, não consubstanciando cerceamento de defesa ou violação ao princípio da colegialidade, notadamente diante da possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre no caso, o que permite a apreciação da controvérsia pelo Colegiado.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. JULGAMENTO MONOCRÁTICO. ALEGADA VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. MATÉRIAS NÃO EXAMINADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CAUSA DE AUMENTO DO ART. 40, INCISO VI, DA LEI DE DROGAS. DEVIDAMENTE FUNDAMENTADA. AFASTAMENTO QUE DEMANDARIA REVOLVIMENTO DE FATOS E PROVAS. INVIÁVEL NO HABEAS CORPUS. PENA PRIVATIVA DE LIBERDADE MANTIDA EM 6 ANOS, 9 MESES E 20 DIAS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E REINCIDÊNCIA. REGIME INICIAL FECHADO. AUSÊNCIA DE ILEGALIDADE. SUBSTITUIÇÃO POR PENA RESTRITIVA DE DIREITOS. INVIÁVEL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A prolação de decisão monocrática pelo Ministro relator está autorizada não apenas pelo Regimento Interno do Superior Tribunal de Justiça, mas também pelo art. 932 do Código de Processo Civil. Ademais, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+ ..
+5. Agravo regimental a que se nega provimento
+(AgRg no HC n. 912.158/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/6/2024, DJe de 3/7/2024.)
+Superada a preliminar, vislumbra-se que o recurso não merece provimento, devendo ser integralmente mantida a decisão combatida.
+Extrai-se dos autos que o agravante foi preso temporariamente em 10/12/2024, posteriormente convertido em prisão preventiva, pela suposta prática do crime de homicídio qualificado, tipificado no art. 121, § 2º, incisos II e IV, do Código Penal.
+Na ocasião, o Magistrado singular fundamentou a necessidade da prisão preventiva sob a seguinte fundamentação (grifos nossos):
+"Com efeito, segundo consta de inicial acusatória, o denunciado, em tese, no dia 08 de dezembro de 2024, durante a madrugada, na cidade de Guaraci/SP, teria tentado atropelar a vítima Alberto Silva Pereira, e, depois de ir e voltar várias vezes com seu veículo, estacionou e, enquanto a vítima estava de costas, derrubou-a no chão e desferiu golpes contra ela que deram causa à sua morte. Vale anotar que o suposto crime foi cometido em local público e na presença de várias pessoas, bem como que o acusado fugiu do local dos fatos, não foi localizado pelas autoridades policiais, apesar de ter sido decretada a sua prisão temporária, e ficou evadido por mais de 2 meses. Assim, afora a periculosidade decorrente de crime violento, existe o risco de que, se solto, possa intimidar testemunhas ou mesmo voltar a se evadir (já que já o fez por uma vez), atrapalhando a instrução processual e a aplicação da lei penal" (fl. 25).
+Por sua vez, o Tribunal de origem manteve a custódia cautelar destacando o seguinte (grifos nossos):
+"Anoto, outrossim, que o crime em apreço homicídio qualificado - está no rol dos passíveis de decretação da custódia cautelar, punido com pena máxima superior a 4 anos, revelando-se insuficientes, por ora e frente à grave conduta criminosa em tese perpetrada, quaisquer das medidas cautelares diversas da prisão (artigos 310, II, e 313, I, ambos do Código de Processo Penal).
+Convém sublinhar que o paciente teve, inicialmente, sua prisão temporária decretada e não foi localizado pela polícia, permanecendo foragido por mais de dois meses (pág. 25), a roborar a necessidade da medida extrema para assegurar a realização da instrução processual e a aplicação da lei penal, se o caso" (fl. 82).
+Como se sabe, o Superior Tribunal de Justiça firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente motivada com lastro na garantia da ordem pública, pois foram evidenciadas a periculosidade do agente e a gravidade concreta dos fatos delitivos, em que o agravante, supostamente, "teria tentado atropelar a vítima Alberto Silva Pereira, e, depois de ir e voltar várias vezes com seu veículo, estacionou e, enquanto a vítima estava de costas, derrubou-a no chão e desferiu golpes contra ela que deram causa à sua morte" (fl. 25).
+É certo que esta Corte Superior possui entendimento consolidado no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública" (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+Além disso, também foi destacado que o agravante se evadiu do local dos fatos e permaneceu foragido por dois meses, fundamento que também justifica a segregação provisória para a garantia da instrução criminal e da aplicação da lei penal.
+Ressalta-se, ainda, que " o  acolhimento das alegações de que não teria havido fuga do distrito de culpa demandaria dilação probatória, providência incabível na via estreita do habeas corpus" (AgRg no HC n. 835.034/PR, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 15/9/2023).
+Desse modo, forçoso concluir que a prisão processual está devidamente fundamentada, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+No mesmo sentido, citam-se precedentes (grifos nossos):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. ORGANIZAÇÃO CRIMINOSA. GRAVIDADE CONCRETA EVIDENCIADA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÃO DE FORAGIDO. APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA (COMANDO VERMELHO). NECESSIDADE DE INTERROMPER ATUAÇÃO DE ORGANIZAÇÃO CRIMINOSA. FRAGILIDADE PROBATÓRIA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS MÍNIMOS DE AUTORIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIABILIDADE PELA VIA ELEITA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário em habeas corpus, mantendo a decretação da prisão preventiva do recorrente, acusado de homicídio qualificado e integração em organização criminosa (Comando Vermelho).
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva do recorrente é justificada pela gravidade concreta dos delitos imputados e pela sua condição de foragido, além da possibilidade de aplicação de medidas cautelares menos gravosas.
+III. Razões de decidir
+3. A decretação da prisão preventiva está devidamente fundamentada na gravidade concreta dos crimes imputados, evidenciada pelo modus operandi e pela periculosidade do agente, o que justifica a manutenção da prisão preventiva para garantia da ordem pública.
+4. No caso, o recorrente é apontado como integrante de organização criminosa (Comando Vermelho) e envolvido na participação do homicídio qualificado da vítima, uma vez que teria sido buscado em casa pelos demais corréus na data do crime para participar de sua consumação, tendo sido também visualizado na residência de um dos corréus em outra ocasião, havendo menção da vítima de que um dos autores do crime possuía tatuagem no pescoço que, conforme testemunhas, seria compatível com a tatuagem do recorrente, cujos referidos indícios, aliados aos relatos dos investigadores, embasaram a pronúncia do recorrente.
+5. A fuga do distrito da culpa e a condição de foragido reforçam o risco à aplicação da lei penal, constituindo fundamento válido para a manutenção da prisão preventiva, conforme pacífica jurisprudência dos Tribunais Superiores.
+6. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades.
+7. Conforme consignado pelas instâncias ordinárias, os indícios de autoria e a materialidade delitiva estão evidenciados nos autos por provas suficientes para justificar a custódia cautelar, sendo a alegação de ausência de indícios mínimos de autoria inviável de análise pela via do habeas corpus ou recurso ordinário, porquanto inviável possibilidade de dilação probatória.
+8. A afirmativa, a respeito da fragilidade da prova da participação do recorrente na conduta criminosa, consiste, em suma, em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório. "(RHC n. 80.721/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/3/2017, DJe de 5/4/2017.)
+9, A aplicação de medidas cautelares diversas da prisão é considerada insuficiente para acautelar a ordem pública, dada a gravidade dos delitos e a periculosidade do recorrente.
+IV. Dispositivo 10. Agravo regimental desprovido.
+(AgRg no RHC n. 208.596/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+2. Na hipótese em questão, os autos apontam que o acusado, após se deparar com a vítima na residência de Jakeline (ex-companheira do agravante, com quem havia terminado o relacionamento 4 meses antes), teria iniciado uma discussão, o que culminou em uma briga física.
+Em momento posterior, após o acusado e a vítima terem se armado com facas, narra-se que o agravante, movido pelo ciúmes, ao se aproveitar da intervenção de seu próprio irmão que conseguira desarmar a vítima, logrou aparecer de forma repentina e desferir os golpes de faca contra o abdome da vítima, a qual não teve chances de defesa, sendo socorrida e vindo a falecer posteriormente a despeito do atendimento médico recebido.
+3. Caso em que as instâncias ordinárias destacaram a necessidade da medida extrema, tendo em vista as circunstâncias concretas que envolvem o fato criminoso que acenam para a frieza e periculosidade do acusado. Somado a isso, narra-se que o agravante fugiu do distrito da culpa logo após o cometimento do delito, mantendo-se foragido durante vários anos até ser preso, o que indica a existência de risco para o cumprimento da lei penal.
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+5. Segundo a Corte Suprema, "o fato de o paciente permanecer foragido constitui causa suficiente para caracterizar risco à aplicação da lei penal a autorizar a decretação da preventiva" (HC 215663 AgR, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 4/7/2022, DJe 11/7/2022).
+6. Além disso, " o  acolhimento das alegações de que não teria havido fuga do distrito de culpa demandaria dilação probatória, providência incabível na via estreita do habeas corpus. (AgRg no HC n. 835.034/PR, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 15/9/2023). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública e da aplicação da lei penal, nos termos do art. 312 do CPP.
+7. Condições subjetivas favoráveis ao agravante não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+8. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Cabe mencionar, ainda, que eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando, como no caso, identificam-se os requisitos legais para a decretação da prisão preventiva. Outrossim, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP são insuficientes para a consecução do efeito almejado com a decretação da prisão preventiva.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. EXPRESSIVA QUANTIDADE DE DROGAS. RISCO DE REITERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e ocupação lícita, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+7. Agravo regimental desprovido.
+(AgRg no HC 657.275/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021.)
+Por fim, não há se falar em violação ao princípio da presunção de inocência quando a prisão preventiva não assume natureza de antecipação de pena e está fundamentada em elementos concretos, como na hipótese em pauta.
+A propósito (grifo nosso):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO. SUBSTITUIÇÃO POR MEDIDA CAUTELAR. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus em que se pleiteia a revogação da prisão preventiva, sob alegação de ausência dos requisitos para sua manutenção.
+2. A prisão preventiva foi decretada com base na gravidade concreta do crime, em que o denunciado ceifou a vida da vítima por ciúmes, e na necessidade de garantir a ordem pública e evitar a reiteração delitiva.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se estão presentes os requisitos do art. 312 do CPP para a decretação da prisão preventiva, bem como se há contemporaneidade na medida.
+III. Razões de decidir
+4. A prisão preventiva é compatível com a presunção de inocência, desde que não se configure como antecipação de pena e esteja fundamentada em elementos concretos que justifiquem a medida.
+5. A gravidade concreta do delito e a periculosidade do agente justificam a manutenção da prisão preventiva para garantir a ordem pública.
+6. A contemporaneidade da prisão preventiva é verificada pela necessidade da medida no momento de sua decretação, independentemente do tempo decorrido desde o fato criminoso.
+7. A substituição da prisão preventiva por medidas cautelares diversas é inviável quando a gravidade do crime e a periculosidade do agente indicam que a ordem pública não estaria acautelada com a soltura.
+IV. Dispositivo e tese
+8. Ordem de habeas corpus denegada.
+(HC n. 853.913/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
