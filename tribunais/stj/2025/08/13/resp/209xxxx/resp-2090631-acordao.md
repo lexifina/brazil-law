@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. DISSÍDIO JURISPRUDENCIAL. INADMISSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. NEGATIVA DE VIGÊNCIA DO ART. 50 DA LEP. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE PARA RESPALDAR AS TESES RECURSAIS. SÚMULA 284/STF.
+Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por Drexler Badega da Silva, com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento do Agravo de Execução Penal n. 0000741-65.2023.8.26.0509, assim ementado (fl. 90):
+EXECUÇÃO PENAL Procedimento administrativo Prescrição, com fundamento no artigo 142, inciso III, da Lei Federal nº 8.112, de 1990 Inocorrência Omissão da lei de execução penal sobre a matéria que deve ser sanada utilizando-se os institutos do direito penal e do direito processual penal Preliminar rejeitada.
+EXECUÇÃO PENAL Procedimento administrativo Nulidades Ausência da oitiva pessoal do sentenciado, nos termos do art. 118, § 2º, da Lei de Execução Penal e do advogado na oitiva das testemunhas Inocorrência Preliminares rejeitadas.
+EXECUÇÃO PENAL - Mérito Absolvição da falta grave ou sua desclassificação para modalidade mais branda Inadmissibilidade Comprovada a prática da falta disciplinar no procedimento administrativo
+Agravo improvido.
+No presente recurso especial, o recorrente aponta negativa de vigência do art. 50 da LEP, suscitado as seguintes teses: prescrição da falta disciplinar, nulidade por ausência de oitiva judicial e não participação do apenado na oitiva das testemunhas, além da ausência de provas suficientes da falta apurada (fls. 101/118).
+Oferecidas contrarrazões (fls. 177/197), o recurso especial foi admitido na origem (fl. 200).
+O Min istério Público Federal opina pelo conhecimento e desprovimento da insurgência (fl. 208):
+RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE RECONHECIDA PELO JUÍZO DAS EXECUÇÕES E MANTIDA EM SEDE DE AGRAVO EM EXECUÇÃO. DESOBEDIÊNCIA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. NULIDADES. PRESCINDIBILIDADE DA OITIVA JUDICIAL DO APENADO. DEFESA TÉCNICA DURANTE O PROCEDIMENTO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. PRESCRIÇÃO. INOCORRÊNCIA. PRECEDENTES. SÚMULA 83/STJ. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. DISSÍDIO JURISPRUDENCIAL. INADMISSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. NEGATIVA DE VIGÊNCIA DO ART. 50 DA LEP. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE PARA RESPALDAR AS TESES RECURSAIS. SÚMULA 284/STF.
+Recurso especial não conhecido.
+VOTO
+Quanto ao recurso fundado na alínea c do permissivo constitucional, não há dúvida de que a insurgência não comporta conhecimento.
+Ora, quando o recurso se fundar em dissídio jurisprudencial (art. 105, III, c, da CF), o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente ou, ainda, com a reprodução de julgado disponível na internet, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados (arts. 1.029 do CPC e 255, § 1º, do RISTJ).
+No caso dos autos, o agravante se limitou a sustentar a existência de dissídio jurisprudencial; não demonstrou, de forma analítica, a identidade fática e a divergência supostamente verificada entre o acórdão impugnado e aqueles indicados como paradigmas.
+A propósito, confira-se:
+ ..
+IV. Para a caracterização da divergência, nos termos do art. 541, parágrafo único, do CPC, e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, exigência não atendida, no caso, porquanto inexiste similitude fática entre os casos confrontados.
+V. Na forma da jurisprudência do STJ, "o conhecimento de recurso especial fundado na alínea c do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do recurso especial" (STJ, AgRg no REsp n. 1.420.639/PR, Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 2/4/2014)
+ ..
+(AgRg no REsp n. 1.508.596/DF, Ministra Assusete Magalhães, Segunda Turma, DJe 17/3/2016 - grifo nosso).
+De outra parte, no tocante ao recurso fundado na alínea a do permissivo constitucional, a insurgência padece de fundamentação deficiente.
+A insurgência veicula diversas teses - prescrição da falta disciplinar, nulidade por ausência de oitiva judicial e não participação do apenado na oitiva das testemunhas, além da ausência de provas suficientes da falta apurada -, mas o dispositivo indicado como violado (art. 50 da LEP) cinge-se a dispor que comete falta grave o condenado a pena privativa de liberdade que, de modo que não ostenta comando normativo suficiente para respaldar quaisquer das teses veiculadas no recurso defensivo e reformar o acórdão, circunstância que atrai a incidência da Súmula 284/STF.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIENTO DE SENTENÇA. GRATIFICAÇÃO DO PROGRAMA "NOVA ESCOLA". PRESCRIÇÃO. NÃO OCORRÊNCIA. DEFICIÊNCIA RECURSAL. PARTICULARIZAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. AUSÊNCIA. RAZÕES RECURSAIS DISSOCIADAS DO COMANDO NORMATIVO. APLICAÇÃO DA SÚMULA N. 284 DO STF. DISSÍDIO JURISPRUDENCIAL. INTERPRETAÇÃO DE TRATADO OU LEI. AUSÊNCIA.
+ ..
+X - O óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+XI - A indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente. Nesse sentido, vale citar os seguintes julgados: (AgInt no REsp n. 1.764.763/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/11/2020 e AgInt no AREsp n. 1.674.879/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/03/2021, REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; (..) AgInt no REsp n. 1.790.501/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/03/2021.
+XII - Quanto ao Tema 877 do STJ, não é cabível o recurso especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal.
+XIII - Agravo interno improvido.
+(AgInt no AREsp n. 2.243.619/RJ, Ministro Francisco Falcão, Segunda Turma, julgado em 15/5/2023, DJe 17/5/2023 - grifo nosso).
+Ante o exposto, não conheço do recurso especial.
