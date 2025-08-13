@@ -1,0 +1,39 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    AGRAVO INTERNO EM EMBARGOS EM EMBARGOS DE DECLARAÇÃO EM RECURSO DE REVISTA COM AGRAVO. INTERPOSIÇÃO NA VIGÊNCIA DA LEI Nº 13.467/2017. CONHECIMENTO DO RECURSO DE REVISTA. REQUISITO PREVISTO NO ARTIGO 896, § 1º-A, DA CLT. CONDENAÇÃO À INDENIZAÇÃO POR DANOS MORAIS COMO DECORRÊNCIA DO RECONHECIMENTO DA DISPENSA DISCRIMINATÓRIA. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. INESPECIFICIDADE DOS ARESTOS. SÚMULA Nº 296, I, DO TRIBUNAL SUPERIOR DO TRABALHO. Não merece processamento o recurso de embargos, quanto aos temas em epígrafe, diante da inespecificidade dos arestos colacionados, em desconformidade com a diretriz da Súmula nº 296, I, do TST. Correta a aplicação do referido óbice, mantém-se o decidido. Agravo interno conhecido e não provido.
+
+    DISPENSA DISCRIMINATÓRIA. PRESUNÇÃO. DOENÇA GRAVE. NEOPLASIA MALIGNA. AUSÊNCIA DE CONTRARIEDADE ÀS SÚMULAS N os 126 E 443 DESTA CORTE. Esta Subseção já firmou entendimento no sentido de, em regra, não ser viável o conhecimento do recurso de embargos por contrariedade a súmula de conteúdo processual, tendo em vista a sua função precípua de uniformização da jurisprudência, conferida pelas Leis nos 11.496/2007 e 13.015/2014, razão pela qual o acolhimento da alegação de afronta ou má aplicação da Súmula nº 126 do TST constitui hipótese excepcional. Nesse cenário, observa-se que a situação mais evidente de contrariedade ao conteúdo da Súmula nº 126 desta Corte diz respeito aos casos em que a Turma, para afastar a conclusão a que chegou o Colegiado Regional, recorre a elemento fático não registrado no acórdão recorrido ou incursiona nos autos na busca de fatos para conhecer do recurso. No presente caso, a decisão da Egrégia Turma está amparada, rigorosamente, nas regras de distribuição do ônus da prova quanto à dispensa discriminatória por doença grave, razão pela qual não se verifica a excepcionalíssima hipótese de contrariedade à Súmula nº 126 desta Corte. No mais, esta Subseção, no julgamento do E-ED-RR-68-29.2014.5.09.0245, ocorrido em 04/04/2019, acórdão publicado no DEJT de 26/04/2019, concluiu que a neoplasia maligna (câncer) é doença grave que causa estigma, de modo a possibilitar a aplicação da presunção da dispensa discriminatória prevista na Súmula nº 443 do TST e que, por tratar de presunção de discriminação, exige que esta seja afastada pelo empregador, mediante prova cabal e insofismável, e não pelo empregado. Com efeito, cabe ao empregador demonstrar que não houve motivação direta ou indireta com a enfermidade que a empregada apresenta ou que a causa da dispensa foi legítima e deve fazê-lo mediante prova insofismável, diante da presunção que se apresenta favorável à tese obreira. No presente caso, o Tribunal Regional, com amparo nas regras de distribuição do ônus da prova, atribuindo-o ao autor, concluiu que não houve prova efetiva da invocada dispensa discriminatória. A Egrégia Turma, por sua vez, adotou tese no sentido de que, nos termos da Súmula nº 443 do TST, há presunção de discriminação na ruptura contratual quando o empregado apresenta doença grave, que suscite estigma ou preconceito, razão pela qual há inversão do ônus da prova e incumbe ao empregador comprovar ter havido outro motivo para a dispensa. Desse modo, sendo a neoplasia maligna doença grave que sujeita o empregado a estigma ou preconceito, a teor da jurisprudência pacífica desta Subseção, a Turma julgadora, ao inverter o ônus da prova quanto à alegação de despedida discriminatória, aplicou bem o referido verbete. Incide, portanto, o disposto no artigo 894, § 2º, da CLT. Correta a aplicação do referido óbice, mantém-se o decidido. Verificada, por conseguinte, a manifesta improcedência do presente agravo, aplica-se a multa prevista no artigo 1.021, § 4º, do Código de Processo Civil. Agravo interno conhecido e não provido.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, inciso IV; 5º, incisos II, XXXVI, LIV e LV; 97; 102, inciso III; e 170, incisos II, III e IV, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Trabalho. Danos morais. Indenização. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF), bem como a análise da legislação infraconstitucional pertinente. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC)” (ARE nº 1.189.179/PR-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 30/5/2019).
+
+    No mesmo sentido: RE nº 936.989/MG-AgR, Primeira Turma, Rel. Min. Luís Roberto Barroso, DJe de 19/5/2017 e ARE nº 696.779/MG-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 2/10/2012).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 13 de agosto de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
