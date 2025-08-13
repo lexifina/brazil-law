@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por JOAQUIM FRANCISCO TERRA NETO contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, da Constituição Federal.
+Na origem, Joaquim Francisco Terra Neto opôs embargos à execução fiscal em desfavor do Estado de Goiás, alegando, entre outros pontos, a prescrição do crédito tributário e a ilegitimidade passiva, em razão de fraude na inclusão de seu nome como sócio da empresa executada. Deu-se, à causa, o valor de R$ 1.407.944,93 (um milhão, quatrocentos e sete mil, novecentos e quarenta e quatro reais e noventa e três centavos).
+A sentença julgou extinto o processo sem resolução de mérito, por perda superveniente do objeto, em razão da prescrição do crédito tributário reconhecida na execução fiscal. A apelação foi provida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+O referido acórdão foi assim ementado, in verbis:
+EMENTA: RECURSOS DE APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. EXTINÇÃO DA AÇÃO EXECUTIVA PELO RECONHECIMENTO DA PRESCRIÇÃO. PREJUDICIAL DE MÉRITO. PERDA SUPERVENIENTE DO OBJETO. IMPOSSIBILIDADE DE CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE.
+1. In casu, sobreveio, na ação de Execução Fiscal que originou os presentes Embargos, sentença reconhecendo a prescrição do crédito tributário, tornando a dívida, portanto, integralmente inexequível.
+2. Com a extinção do processo executório, cessou todo o interesse processual por parte do embargante/2º apelante, tal como reconhecido na sentença ora atacada, porquanto afigura-se despicienda a discussão sobre as provas a serem produzidas, quando a própria pretensão já foi atingida pela prescrição.
+3. Aliás, a prescrição foi uma das matérias apresentadas nos Embargos à Execução, ou seja, a pretensão do embargante/agravante foi acolhida pelo juízo, ainda que no bojo da ação de Execução Fiscal. E, diante do acolhimento da tese de prescrição, ficam prejudicadas os demais argumentos levantados pelo embargante.
+4. Quanto a insurgência do Estado de Goiás/1º apelante, ainda que houvesse resistência à alegação de prescrição intercorrente, tal situação não tem o condão de atrair para ele a obrigação de pagamento de honorários, impondo-se o afastamento desta condenação. PRIMEIRO RECURSO CONHECIDO E PROVIDO. SEGUNDO RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 639-648).
+JOAQUIM FRANCISCO TERRA NETO alega violação dos arts. 9º, 10, 313, V, "a", 314, 354, 487, parágrafo único, 489, §1º, II, IV e VI, e §3º, 1.022, I e II, 926 e 927 do Código de Processo Civil, sustentando, em síntese, que houve decisão surpresa na execução fiscal, sem prévia intimação para manifestação sobre a prescrição, o que teria causado cerceamento de defesa. Afirma que a prescrição deveria ter sido apreciada nos embargos à execução, onde foi alegada inicialmente. Aponta que o princípio da causalidade foi ignorado, pois o Estado de Goiás reconheceu a verossimilhança das alegações de fraude na inclusão do nome do recorrente como sócio da empresa executada. Argumenta que a decisão de extinção da execução fiscal foi proferida sem observar a suspensão do processo em razão dos embargos à execução, violando o devido processo legal.
+Contrarrazões apresentadas às (fls. 657-725).
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, impõe-se o seu conhecimento, passando ao exame do recurso especial interposto.
+O recurso não é cognoscível. O acórdão recorrido restringiu-se em confirmar a ocorrência de prescrição e falta de interesse do ora recorrente não sendo debatidos os questionamentos aqui apresentados, o que atrai o comando da súmula 284/STF a inviabilizar o recurso.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
