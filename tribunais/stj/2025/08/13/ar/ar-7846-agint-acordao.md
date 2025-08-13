@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 07/08/2025 a 13/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. JULGAMENTO LIMINAR DE IMPROCEDÊNCIA. ALEGAÇÃO DE VIOLAÇÃO A PRECEDENTES REPETITIVOS E SÚMULA. INOCORRÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática do Desembargador Convocado Carlos Cini Marchionatti, que julgou liminarmente improcedente a ação rescisória ajuizada contra acórdão da 4ª Turma do STJ (REsp 2026178/SP). A parte agravante sustenta cerceamento de defesa, violação ao contraditório e à ampla defesa, além de erro de fato na decisão rescindenda, requerendo o prosseguimento da ação rescisória e a concessão de tutela de evidência.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se é cabível o julgamento liminar de improcedência da ação rescisória; (ii) estabelecer se houve violação a precedentes obrigatórios, em especial ao Tema 882 do STJ, ao Tema 492 do STF e à Súmula 882/STJ; (iii) verificar a existência de vícios formais na petição inicial da ação rescisória que impeçam seu conhecimento.
+III. RAZÕES DE DECIDIR
+3. A improcedência liminar da ação rescisória é possível nas hipóteses do art. 332 do CPC, quando o pedido contrariar entendimento firmado em recursos repetitivos ou enunciado de súmula dos tribunais superiores, como ocorreu no caso concreto.
+4. O acórdão rescindendo fundamentou-se na existência de anuência do autor ao pagamento das taxas condominiais, fato reconhecido pelo tribunal de origem, o que afasta a alegação de erro de fato e atrai a incidência da Súmula 7 do STJ, impedindo o reexame do conjunto probatório.
+5. Não se verifica a alegada violação aos Temas 882/STJ e 492/STF, pois a decisão rescindenda levou em consideração a situação fática específica do caso, em consonância com os precedentes invocados.
+6. A petição inicial da ação rescisória apresenta vícios formais que inviabilizam seu prosseguimento: ausência de certidão de trânsito em julgado da decisão rescindenda, ausência de instrumento de mandato do advogado subscritor e ausência do depósito de 5% do valor da causa, conforme exigem os arts. 968, II, e 975 do CPC.
+IV. DISPOSITIVO
+7. Recurso desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão monocrática da relatoria do Desembargador Convocado Carlos Cini Marchionatti, que julgou, liminarmente, improcedente o pedido de rescisão de acórdão exarado pela 4ª Turma desta Corte de Justiça (e-STJ fls. 262/264).
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Sustenta que a)"Ao julgar de forma monocrática e liminar improcedente a ação Rescisoria sem determinar a citação da parte requerida ,a r. decisão agravada cerceou o direito de defesa do agravante, violou o devido processo legal a ampla defesa e o contraditório"; b) "Eminente Ministra Relatora, a r. decisão agravada ao julgar liminarmente improcedente o mérito da ação rescisória decisão apontando como fundamento o artigo 332 do CPC e seus incisos, viola direta e evidente a letra da lei, configurando ato eivado de teratologia , e que importa ao agravante graves prejuízos"; c) "Ao contrário do alegado na decisão monocrática o agravante não está promovendo ação rescisória contra os Temas 882 STJ e 492 STF de julgamento de recursos repetitivo das Cortes Superiores, e a Lei 13.465/2017 mas sim, almeja sua aplicação, o que vem sendo sistematicamente negado, seja na decisão monocrática no recurso especial, no Agravo Interno do recurso especial e agora nessa decisão monocrática em sede de Ação Rescisória, contrariando a realidade estampada nos autos e negativa de prestação jurisdicional e aplicação do direito a espécie". (e-STJ fls. 269/288).
+Sem contrarrazões.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. JULGAMENTO LIMINAR DE IMPROCEDÊNCIA. ALEGAÇÃO DE VIOLAÇÃO A PRECEDENTES REPETITIVOS E SÚMULA. INOCORRÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática do Desembargador Convocado Carlos Cini Marchionatti, que julgou liminarmente improcedente a ação rescisória ajuizada contra acórdão da 4ª Turma do STJ (REsp 2026178/SP). A parte agravante sustenta cerceamento de defesa, violação ao contraditório e à ampla defesa, além de erro de fato na decisão rescindenda, requerendo o prosseguimento da ação rescisória e a concessão de tutela de evidência.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se é cabível o julgamento liminar de improcedência da ação rescisória; (ii) estabelecer se houve violação a precedentes obrigatórios, em especial ao Tema 882 do STJ, ao Tema 492 do STF e à Súmula 882/STJ; (iii) verificar a existência de vícios formais na petição inicial da ação rescisória que impeçam seu conhecimento.
+III. RAZÕES DE DECIDIR
+3. A improcedência liminar da ação rescisória é possível nas hipóteses do art. 332 do CPC, quando o pedido contrariar entendimento firmado em recursos repetitivos ou enunciado de súmula dos tribunais superiores, como ocorreu no caso concreto.
+4. O acórdão rescindendo fundamentou-se na existência de anuência do autor ao pagamento das taxas condominiais, fato reconhecido pelo tribunal de origem, o que afasta a alegação de erro de fato e atrai a incidência da Súmula 7 do STJ, impedindo o reexame do conjunto probatório.
+5. Não se verifica a alegada violação aos Temas 882/STJ e 492/STF, pois a decisão rescindenda levou em consideração a situação fática específica do caso, em consonância com os precedentes invocados.
+6. A petição inicial da ação rescisória apresenta vícios formais que inviabilizam seu prosseguimento: ausência de certidão de trânsito em julgado da decisão rescindenda, ausência de instrumento de mandato do advogado subscritor e ausência do depósito de 5% do valor da causa, conforme exigem os arts. 968, II, e 975 do CPC.
+IV. DISPOSITIVO
+7. Recurso desprovido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 262/264):
+ ..
+Cuida-se de ação rescisória com pedido de tutela provisória de evidência, ajuizada contra ASSOCIAÇÃO DOS PROPRIETÁRIO E MORADORES DO RESIDENCIAL JARDIM TÊNIS CLUBE DE OLIMPIA, apontando-se como acórdão rescindendo o proferido nos autos do REsp 2026178/SP, assim ementado:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESPESAS DE MANUTENÇÃO DE LOTEAMENTO FECHADO. TAXA DE MANUTENÇÃO. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. RE 695.911/SP (TEMA 492/STF). TRIBUNAL DE ORIGEM QUE CONSIGNOU A ANUÊNCIA DA PARTE PARA O PAGAMENTO DAS TAXAS DE MANUTENÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. No julgamento do RE n. 695.911/SP, o Supremo Tribunal Federal, reconhecendo a repercussão geral da matéria (Tema 492/STF), firmou a tese de ser "inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis".
+2. No caso dos autos, o Tribunal de origem consignou a anuência da parte ao pagamento das taxas de manutenção do loteamento. Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+Sustenta o requerente que o acórdão rescindendo contrariou o Tema 882/STJ, o art. 927, III, 928, II e parágrafo único, do CPC e a Lei 13.465/17, "pois não aplicou a decisão de recursos repetitivos inclusive o comando do Tema 882, hipótese jurídica idêntica, deixando, ademais de examinar questão imprescindível para a solução do litígio" (fl. 31).
+Aduz que "este Colendo Superior Tribunal de Justiça julgou o recurso que lhe foi submetido à apreciação deixando de avaliar o contexto fático probatório em que a lide estava inserida, vindo a manter o v. acórdão proferido pelo Egrégio Tribunal de Justiça de SP que julgou procedente a cobrança de taxa de conservação e manutenção contra o ora autor não associado" (fl. 32).
+Acrescenta que "o erro de fato se deu quando o STJ decidiu com base numa premissa fática incorreta, ou seja quando admitiu inexistente fato cuja existência podia ser extraída dos autos" (fl. 35), qual seja, "a exclusão/desassociação do Réu, desde o ano de 2017, conforme comprova a Ata Notarial da Associação de Morador doc. fls. 70" (fl. 39), bem como o fato de que "inexiste  sic  provas nos autos no sentido de que o autor tenha aderido formal e expressamente à Associação" (fl. 36).
+Requer, assim, o recebimento da petição inicial e o deferimento da "Tutela de Evidência para suspender os efeitos do v. Acórdão proferido pela Quarta Turma do Superior Tribunal de Justiça no julgamento do agravo interno no Resp 2026178 SP, ante os graves vícios que inquinam o acórdão rescindendo, CPC, art. 966, V, suficiente para autorizar a rescisão daquele julgado" (fl. 40). Salienta que "não há como se deixar de reconhecer que a parte autora encontra-se na iminência de vir a sofrer dano irreparável, ou de difícil reparação" (fl. 40).
+É o relatório.
+DECIDO.
+Nos termos do art. 311, caput, do CPC, a tutela de evidência, espécie do gênero tutela provisória, muito embora dispense o requisito do perigo de dano ou o risco ao resultado útil do processo, tem como base um direito evidente, consubstanciado em uma situação jurídica que permita inferir um alto grau de probabilidade do direito substancial afirmado.
+Eis o disposto no referido dispositivo:
+Art. 311. A tutela de urgência será concedida independentemente da demonstração de perigo de dano ou de risco ao resultado útil do processo, quando:
+I - ficar caracterizado o abuso do direito de defesa ou o manifesto propósito protelatório da parte;
+II - as alegações de fato puderem ser comprovadas apenas documentalmente e houver tese firmada em julgamento de casos repetitivos ou em súmula vinculante;
+III - se tratar de pedido reipersecutório fundado em prova documental adequada do contrato de depósito, caso em que será decretada a ordem de entrega do objeto custodiado, sob cominação de multa;
+IV - a petição inicial for instruída com prova documental suficiente dos fatos constitutivos do direito do autor, a que o réu não oponha prova capaz de gerar dúvida razoável. (sem grifos no original).
+Ademais, tratando-se de pedido com base no inciso IV do art. 311 do CPC, a concessão da tutela de evidência demanda o exercício do contraditório pela parte requerida, consoante se pode depreender da parte final do mencionado inciso, o que não ocorre no caso sub examine, já que o pedido veiculado pelo requerente é initio litis.
+A plausibilidade do direito alegado deve, assim, ser avaliada conforme a elevada probabilidade de êxito da pretensão, sendo necessária, além da comprovação documental das alegações, a existência de tese firmada em recurso repetitivo ou em súmula vinculante.
+Na hipótese dos autos, a tese arguida na inicial diz respeito à aplicabilidade da Súmula 882/STJ, segundo a qual: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram" (sem grifos no original).
+Ocorre que, consoante assentado no acórdão rescindendo, ao contrário da alegação do requerente, segundo a qual "inexiste provas nos autos no sentido de que o autor tenha aderido formal e expressamente à Associação" (fl. 36), o Tribunal de origem consignou a existência de anuência da parte ao pagamento das taxas de manutenção do loteamento", o que resultou na aplicação do óbice da Súmula 7/STJ, dada a evidente pretensão de revisão do material cognitivo produzido na origem, insuscetível de ser realizado em recurso especial, fato que afasta a probabilidade do direito invocado e a própria viabilidade do pleito rescisório, nos termos do art. 322, IV, do CPC, aplicável às ações rescisórias, in verbis:
+Art. 332. Nas causas que dispensem a fase instrutória, o juiz, independentemente da citação do réu, julgará liminarmente improcedente o pedido que contrariar:
+I - enunciado de súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça;
+II - acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos; I
+II - entendimento firmado em incidente de resolução de demandas repetitivas ou de assunção de competência;
+IV - enunciado de súmula de tribunal de justiça sobre direito local. (sem grifos no original).
+Ante o exposto, julgo in limine improcedente o pedido. Publique-se.
+Para além dos argumentos trazidos pelo Desembargador convocado, na decisão que indeferiu liminarmente o pedido de rescisão do julgado, constata-se que o autor da ação não juntou aos autos certidão de trânsito em julgado das decisões que pretende rescindir, o que impede a análise da tempestividade da ação rescisória, bem como o seu trânsito em julgado, nos termos do artigo 975 c/c 966 do Código de Processo Civil.
+Constata-se, ainda, que a inicial veio desacompanhada do instrumento de mandato ao advogado subscritor, bem como da comprovação do depósito de 5% do valor da causa, nos termos do artigo 968, II, do CPC.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
