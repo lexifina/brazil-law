@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público de Minas Gerais contra decisão da Vice-Presidência do Tribunal de Justiça daquele Estado, que inadmitiu seu recurso especial (fls. 141/144).
+Aqui, o agravante alega que o Tribunal a quo equivocou-se ao inadmitir o recurso especial, sustentando que a nova legislação tem natureza processual e, portanto, deve ser aplicada imediatamente, independentemente da data da prática delituosa. Aponta, ainda, violação do art. 112, caput e § 1º, da Lei de Execução Penal, c/c o art. 2º do Código de Processo Penal.
+Requer o provimento do agravo para que seja possibilitado o seguimento e provimento do recurso especial.
+O Ministério Público Federal opinou, às fls. 180/185, pelo conhecimento do agravo, para negar provimento ao recurso especial.
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Alega o recorrente que as alterações promovidas pela Lei n. 14.843/2024 no art. 112, § 1º, da Lei de Execução Penal possuem natureza genuinamente processual, devendo ser aplicadas imediatamente aos atos jurisdicionais praticados durante sua vigência, independentemente da data da prática criminosa.
+Não lhe assiste razão.
+A jurisprudência deste Superior Tribunal consolidou-se no sentido de que a exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14.843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade da exigência obrigatória de exame criminológico é vedada pelo art. 5º, XL, da Constituição Federal, bem como pelo art. 2º, parágrafo único, do Código Penal, aplicando-se apenas a fatos ocorridos após sua vigência. Permanece aplicável, no presente caso, a Súmula n. 439 do STJ, segundo a qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". A fundamentação baseada apenas na gravidade abstrata do delito e na extensão da pena, sem elementos concretos do comportamento do apenado durante a execução, não é suficiente para justificar a exigência do exame (AgRg no HC n. 975.710/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025).
+Na espécie, tratando-se de execução penal referente a delitos praticados antes da vigência da Lei n. 14.843/2024, não é possível a retroatividade da norma para submeter o agravado, necessariamente, a exame criminológico. Conforme salientado, aplica-se à hipótese a orientação jurisprudencial anterior à nova legislação, no sentido de que admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439 do STJ).
+O Tribunal de origem fundamentou adequadamente sua decisão ao reconhecer que as inovações da Lei n. 14.843/2024 possuem natureza híbrida e que sua aplicação retroativa violaria o princípio constitucional da irretroatividade da lei penal mais severa. Ademais, no caso concreto, justificou-se a dispensabilidade do exame criminológico diante do histórico carcerário do agravado, que ostenta boa conduta e não apresenta registro de práticas de faltas graves, indicando aptidão para iniciar o processo de reintegração ao convívio social.
+Incide, pois, o óbice da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publiqu e-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CRIME COMETIDO SOB A VIGÊNCIA DA LEI ANTERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+Agravo conhecido para não conhecer do recurso especial.
