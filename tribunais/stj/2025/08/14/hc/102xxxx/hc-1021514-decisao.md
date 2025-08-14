@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADRIANO RODRIGUES DA COSTA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1504204-37.2025.8.26.0228).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 4 anos de reclusão, em regime inicial semiaberto, e pagamento de 10 dias-multa, pela prática do crime previsto no art. 157, §1º, do Código Penal (e-STJ fls. 26-33).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 7-13). Confira se a ementa do julgado:
+DIREITO PENAL. APELAÇÃO. ROUBO IMPRÓPRIO. Prova acusatória, nas palavras da vítima e da testemunha policial, suficiente quanto à subtração de mercadorias e a grave ameaça proferida a fim de assegurar a detenção das coisas subtraídas, cuidando-se o caso de roubo impróprio. Reiteração da versão acusatória, no sentido de que houve grave ameaça, a teor das declarações do ofendido e da testemunha policial, que não deixa dúvida sobre a dinâmica dos fatos, não se apurando indícios de imputação leviana. Apelo desprovido.
+No presente mandamus (e-STJ fls. 2-6), a impetrante sustenta que o Tribunal a quo impôs constrangimento ilegal ao paciente, pois manteve o regime semiaberto sem fundamentação idônea.
+Para tanto, aduz que o réu é primário e foi condenado a pena igual a 4 anos de reclusão, o que permite a fixação de regime aberto, conforme o art. 33, §2º, c, do Código Penal. Além disso, afirma que a fixação de regime semiaberto viola a Súmula 440 do STJ e a Súmula 719 do STF.
+Ao final, liminarmente, pede a expedição de alvará de soltura, permitindo que o paciente aguarde em liberdade o julgamento final deste writ. No mérito, requer a concessão da ordem para que seja fixado regime aberto para o cumprimento da pena.
+O pedido liminar foi indeferido, e as informações foram prestadas.
+Manifestou-se o Ministério Público pelo não conhecimento do writ (e-STJ fls. 64-68).
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, como relatado, o abrandamento do regime prisional fixado ao paciente.
+Como é cediço, definiu a jurisprudência desta Corte que, para o estabelecimento de regime de cumprimento de pena mais gravoso do que comporta a pena, é necessária a apresentação de fundamentação específica, com base em elementos concretos extraídos dos autos, consideradas as circunstâncias judiciais previstas no art. 59 do Código Penal. Nesse sentido, confiram-se as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente, in verbis :
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Na hipótese, extrai-se dos autos que o juízo sentenciante recrudesceu o regime destacando a violência empregada na prática delitiva (e-STJ fls. 31/32), já que o paciente, visando garantir a posse do bem, agrediu a vitima Ítalo e o ameaçou de morte, fato confirmado pelos policiais (e-STJ fl. 29), o que foi mantido pelo Tribunal local.
+Com efeito, não obstante o paciente seja primário, com circunstâncias judiciais favoráveis, tanto que a pena-base foi estabelecida no mínimo legal, o regime inicial semiaberto restou fixado com base na gravidade concreta do delito, consistente na violência empregada, denotando não só a maior periculosidade do paciente, mas também uma ameaça maior à incolumidade da vítima.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO TENTADO. REGIME INICIAL MAIS GRAVOSO (SEMIABERTO). GRAVIDADE CONCRETA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É possível o estabelecimento de regime inicial mais gravoso do que o indicado pelo quantum da reprimenda (o semiaberto para condenação inferior a 4 anos de reclusão), quando se verifica a gravidade concreta do delito - na hipótese, a intensa violência praticada contra a Vítima -, a revelar a maior reprovabilidade da conduta.
+2. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 1.816.265/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/6/2021, DJe de 21/6/2021.)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedente.
+2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal. ROUBO (ARTIGO 157, CAPUT, DO CÓDIGO PENAL). TENTATIVA. REGIME INICIAL SEMIABERTO. CONDENAÇÃO INFERIOR A 4 (QUATRO) ANOS DE RECLUSÃO. GRAVIDADE CONCRETA. VIOLÊNCIA REAL. POSSIBILIDADE DE ESCOLHA DE MODO PRISIONAL MAIS GRAVOSO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+1. Conforme jurisprudência reiterada deste Sodalício, a imposição do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso concreto.
+2. Na hipótese, o Colegiado a quo concluiu de modo fundamentado quanto à necessidade do regime inicial semiaberto, haja vista a gravidade concreta do delito cometido, considerando as circunstâncias em que foi perpetrado - com violência real contra uma das vítimas - não havendo ilegalidade a reparar. Precedentes.
+3. Habeas corpus não conhecido.
+(HC n. 365.765/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 8/11/2016, DJe de 16/11/2016.)
+Assim, uma vez que a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça e na legislação penal, não vislumbro constrangimento ilegal apto a justificar a atuação desta Corte, de ofício.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+ EMENTA
