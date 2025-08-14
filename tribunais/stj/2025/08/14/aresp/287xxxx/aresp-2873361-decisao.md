@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por CARLOS RABELLO NETO, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 666, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - CUMPRIMENTO DE SENTENÇA - NULIDADE DE INTIMAÇÃO - INOCORRÊNCIA - PENHORA DE VALOR DEPOSITADO EM CONTA POUPANÇA - IMPENHORABILIDADE - CARÁTER ALIMENTAR DA VERBA - NÃO COMPROVADO - RECURSO DESPROVIDO. 1. Transcorrido mais de um ano do trânsito em julgado da sentença que reconhece o dever de pagar quantia, para a promoção do cumprimento de sentença o executado deve ser intimado pessoalmente, em observância ao art. 513, § 4º, do CPC. 2. Ausente qualquer comunicação do devedor quanto a eventual mudança de endereço, considera-se como válida a intimação pessoal realizada, nos termos do art. 274, parág. ún., do CPC. 3. É dever das partes atualizar o endereço residencial ou profissional onde receberão intimações sempre que ocorrer qualquer modificação temporária ou definitiva, em conformidade ao art. 77, inciso V, do CPC. 4. Nos termos do art. 854, §3º, inciso I, do Código de Processo Civil, incumbe ao executado comprovar que a quantia objeto de constrição possui caráter alimentar e, portanto, é impenhorável. 5. Diante da ausência de comprovação de que o bloqueio recaiu sobre valor tido como impenhorável, nos termos do artigo 833, X, do CPC, não há que se falar em desbloqueio das quantias constritas.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 763-772, e-STJ.
+Nas razões de recurso especial, a parte recorrente aponta violação aos arts. 833, X, e 1.022 do CPC.
+Sustenta, em síntese: a) contradição ao reconhecer que a impenhorabilidade pode se estender a conta corrente e fundo de investimento, mas manter a constrição de valores essenciais à subsistência; b) violação ao entendimento pacífico do STJ sobre a impenhorabilidade de valores até 40 salários mínimos, mesmo em conta corrente, sem comprovação de má-fé, abuso de direito ou fraude.
+Contrarrazões apresentadas às fls. 738-741, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 816-833, e-STJ).
+É o relatório.
+Decido.
+1. Na hipótese, observa-se que o Tribunal local entendeu pela possibilidade de penhora dos valores depositados em conta bancária, inferiores a 40 salários mínimos, sob o fundamento de que a parte agravante, ora recorrente, estaria utilizando a conta poupança como conta corrente, veja-se (fls. 673, e-STJ, grifou-se):
+In casu, embora o recorrente tenha demonstrado que a conta do Banco Bradesco é do tipo poupança, no extrato bancário anexado aos autos em doc. de ordem nº 68, referente aos meses de julho e agosto de 2023, observa-se inúmeros créditos efetuados via pix, transferências, saques, transações via TED e utilização corriqueira do cartão na função de débito, para realização de compras variadas.
+Destarte, os aspectos delineados são suficientes para afastar o caráter de reserva financeira, sendo evidente a utilização como conta corrente, situação que afasta a impenhorabilidade.
+Sobre o tema, a Corte Especial do STJ firmou o entendimento de que, nos termos do art. 833, X, do CPC/2015, a garantia de impenhorabilidade do montante de até 40 salários mínimos é aplicável automaticamente aos depósitos em caderneta de poupança e eventualmente aos valores mantidos em conta corrente ou em qualquer outra aplicação financeira. Nesta última hipótese, desde que comprovado, pela parte atingida, que o montante objeto da constrição constitui reserva de patrimônio destinada a assegurar o mínimo existencial (cf. REsps 1.677.144/RS e 1.660.671/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 21/2/2024).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE. VALORES EM CONTA POUPANÇA. AGRAVO INTERNO PROVIDO.
+1. São impenhoráveis os valores constantes de caderneta de poupança até o limite de 40 salários mínimos.
+2. A simples movimentação atípica na conta poupança, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC (AgInt no REsp n. 2.155.756/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/11/2024, DJEN de 29/11/2024).
+3. Agravo interno provido.
+(AgInt no REsp n. 2.155.463/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025.) - grifou-se.
+Assim, o Tribunal de origem deveria ter analisado se a quantia penhorada constitui reserva de patrimônio destinada a assegurar o mínimo existencial ou a proteger o indivíduo ou seu núcleo familiar contra adversidades, abrindo oportunidade para que a parte comprove o referido fim, a fim de examinar a penhorabilidade da verba à luz da interpretação conferida pela Corte Especial do STJ ao art. 833, X, do CPC, conforme o julgado transcrito anteriormente.
+Desse modo, impõe-se o retorno dos autos ao Tribunal de origem, para que realize esse exame, de caráter eminentemente fático.
+2. Do exposto, com fundamento no artigo 932 do CPC c/c a Súmula 568/STJ, dou parcial provimento ao recurso especial, determinando o retorno dos autos ao TJMG, a fim de que proceda a novo julgamento do agravo de instrumento, analisando a controvérsia à luz da jurisprudência atual do STJ sobre a matéria, nos termos da fundamentação supra.
+Julga-se prejudicado o pedido de efeito suspensivo.
+Publique-se.
+Intimem-se.
+EMENTA
