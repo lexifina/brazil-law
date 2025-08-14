@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE SÃO PAULO com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 339):
+APELAÇÃO - SERVIDORES MUNICIPAIS - PRETENSÃO À PERCEPÇÃO DE REAJUSTE RELATIVO A DIFERENÇA A SER CALCULADA COM BASE NAS LEIS MUNICIPAIS PAULISTANAS Nºs 10.688/88 E 10.722/89 E PORTARIAS NS. 256/94 E 261/94 - EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA - Decisão que reconheceu a ocorrência da prescrição - Reforma - No caso dos autos, a ação coletiva transitou em julgado em 09/09/2009, mas muita discussão houve no tocante à pertinência subjetiva do título, bem como à sua exequibilidade, temas que suscitaram a interposição de diversos recursos, sendo que o último recurso teve seu trânsito em julgado somente em fevereiro de 2022, não havendo, portanto, que se falar em prescrição - Recurso provido para determinar o prosseguimento da execução.
+Nas razões do recurso especial (e-STJ, fls. 346-355), o recorrente aponta violação do art. 1º do Decreto 20.910/1932.
+Sustenta que, conforme os Temas 877 e 880 do STJ, o prazo prescrição de 5 (cinco) anos para a execução individual de sentença coletiva deve ser contado a partir do trânsito em julgado da decisão de mérito.
+Argumenta que a execução foi proposta apenas em 2023, após o prazo quinquenal, o que configuraria a prescrição da pretensão executiva.
+Contrarrazões às fls. 358-370 (e-STJ).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 371-374).
+Brevemente relatado, decido.
+O Tribunal Estadual decidiu dar provimento ao recurso de apelação interposto pela parte contrária, para afastar a prescrição reconhecida na sentença, determinando o prosseguimento da execução individual de sentença coletiva, nos seguintes termos (e-STJ, fls. 340-342 - sem grifos no original):
+O Decreto nº 20.910/32 prevê que as dívidas passivas dos entes públicos prescrevem em cinco anos, contados a partir do ato ou fato do qual se origina o direito.
+A Súmula nº 150 do Supremo Tribunal Federal preceitua que o prazo prescricional para deflagrar a execução é o mesmo da ação. Portanto, é de cinco anos, contados a partir do trânsito em julgado da decisão condenatória, o prazo prescricional para a propositura da demanda executiva contra a Fazenda Pública.
+Mas, de acordo com o julgado pelo STJ no Tema nº. 880 (R Esp nº 1.336.026/PE), para os títulos transitados em julgado até 17/03/2016, o prazo prescricional de 05 anos para a propositura do cumprimento de sentença conta-se a partir de 30/06/2017.
+Assim, em uma primeira análise, poderia se concluir, de plano, que ocorreu a prescrição da pretensão executória, porquanto a execução individual foi ajuizada em 21.09.23, de sorte que, mesmo adotando como termo inicial 30.06.17, nos termos da tese fixada no Tema 880 do STJ, teria decorrido o prazo prescricional para início do cumprimento de sentença.
+Contudo, tal raciocínio não se aplica ao caso em exame, haja vista a particularidade do caso concreto.
+No caso em apreço, verifica-se que o V. Acórdão exequendo transitou em julgado em 09/09/2009 (fls. 868 dos autos da ação coletiva). Não obstante, muita discussão houve no tocante à pertinência subjetiva do título, bem como à sua exequibilidade, temas que suscitaram a interposição de diversos recursos.
+No agravo de nº 0127885-17.2011.8.26.0000, ficou decidido que o título executivo aproveita a toda a categoria, sindicalizada ou não (fls. 1526/1545 da ação coletiva).
+No agravo de instrumento nº 2233132-69.2019.8.26.0000, ficou decidido que o título executivo produz efeitos em relação a aposentados e pensionistas. Eis a ementa do julgado:
+"AGRAVO DE INSTRUMENTO Cumprimento de sentença Passagem para a inatividade do curso da ação coletiva Título executivo judicial que produz efeitos em relação aos aposentados e pensionistas Ente público municipal que possui o dever de cumprir a obrigação contida no título executivo Decisão mantida Recurso desprovido."
+Referido agravo transitou em julgado em 24.02.22, conforme fls. 247/248 dos autos do recurso.
+Em conclusão, não se pode acolher a tese da prescrição.
+Ressalte-se que a obrigação de fazer ainda não terminou, e no último despacho proferido nos autos principais (fls. 3036/3037), determinou o juízo:
+"(..) Diante disso, diga a exequente sobre a suficiência da OBRIGAÇÃO DE FAZER, presumindo-se no silêncio a satisfação integral:
+a) Se SATISFEITA, o(s) exequente(s) deve(m) requerer cumprimento contra a Fazenda Pública em relação à obrigação de pagar (artigos 534/5 do CPC). Atente a parte exequente à necessidade de discriminação capitulada do que pretende ver executado, a fim de racionalizar e cooperar com a eficiência da execução e, com isso, abrir caminho para futura execução do incontroverso. Não haverá honorários advocatícios caso inexista impugnação da Fazenda Pública (artigo 85, §7º, do CPC) (..)"
+Por fim, o agravo de instrumento nº 3002306-22.2022.8.26.0000, citado na fundamentação da sentença, foi interposto no bojo da ação coletiva nº 0002361-16.2009.8.26.0053, ajuizada pelo Sindicato Dos Trabalhadores Públicos da Saúde do Estado de São Paulo SINDSAÚDE/SP em face do ESTADO DE SÃO PAULO. Assim, não é possível adotar o entendimento firmado naquele recurso, dadas as peculiaridades do presente caso.
+Dessa forma, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado local implicaria no reexame do conjunto fático-probatório, o que é vedado pela Súmula 7 deste Tribunal.
+No mesmo sentido, a propósito, as seguintes decisões monocráticas proferidas em feitos idênticos: REsp n. 2.199.456, Ministra Maria Thereza de Assis Moura, DJEN de 16/05/2025; REsp n. 2.177.952, Ministro Gurgel de Faria, DJe de 04/12/2024; REsp n. 2.178.969, Ministro Sérgio Kukina, DJe de 29/11/2024; e REsp n. 2.179.295, Ministro Francisco Falcão, DJe de 09/12/2024.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. IMPOSSIBILIDADE DE INCURSÃO NO QUADRO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
