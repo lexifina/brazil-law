@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Inadmissão de recurso especial. Falta de impugnação específica. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, sob o fundamento de que a parte agravante não impugnou especificamente todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. O agravante foi condenado por tráfico de drogas, com pena majorada para 8 anos e 9 meses de reclusão. A defesa interpôs recurso especial alegando ilegalidade na invasão domiciliar, ausência de provas suficientes para a condenação e excesso na dosimetria da pena. O Tribunal de origem inadmitiu o recurso especial com base nas Súmulas 284/STF, 83/STJ e 7/STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial por falta de impugnação específica de todos os fundamentos da decisão de inadmissão, está correta.
+III. Razões de decidir
+4. A Corte Especial do STJ entende que a decisão que não admite o recurso especial possui dispositivo único, devendo ser impugnada em sua integralidade.
+5. A impugnação deve ser efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia.
+6. No caso, o agravante não conseguiu infirmar especificamente os fundamentos da decisão agravada, conforme exigido pela jurisprudência do STJ.
+7. A ausência de impugnação adequada dos fundamentos empregados pela Corte de origem impede o conhecimento do agravo, conforme o art. 932, inciso III do CPC.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A decisão que não admite o recurso especial deve ser impugnada em sua integralidade. 2. A impugnação deve ser efetiva, concreta e pormenorizada, sob pena de incidência da Súmula 182/STJ. 3. A ausência de impugnação específica dos fundamentos da decisão de inadmissão impede o conhecimento do agravo."
+Dispositivos relevantes citados: CPC, art. 932, III; Súmula 182/STJ; Súmula 284/STF; Súmula 83/STJ; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, EAREsp 701.404/SC; STJ, AgRg no REsp 1.958.975/PR, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; STJ, AgRg no AREsp 1682769/SC, Rel. Min. Ribeiro Dantas, DJe 23/06/2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ CARLOS PEREIRA DE ASSUMPCAO contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial.
+O agravante foi condenado pelo crime de tráfico de drogas, com a pena majorada para 8 anos e 9 meses de reclusão.
+A defesa interpôs recurso especial, alegando ilegalidade na invasão domiciliar, ausência de provas suficientes para a condenação por tráfico de drogas (dada a quantidade de 15,20g de cocaína apreendida e a ausência de petrechos para o comércio), e excesso na dosimetria da pena.
+O Tribunal de origem inadmitiu o recurso especial com base nas Súmulas 284/STF, 83/STJ e 7/STJ, argumentando que o recurso especial não seria via própria para debate sobre matéria constitucional, que a fundamentação seria deficiente e que as pretensões defensivas demandariam reexame de provas. Contra essa decisão, o agravante interpôs agravo em recurso especial.
+A Presidência do Superior Tribunal de Justiça não conheceu do agravo em recurso especial, sob o fundamento de que a parte agravante não impugnou especificamente todos os fundamentos da decisão que inadmitiu o recurso especial (fls.446/447)
+No presente agravo regimental, a defesa insiste no conhecimento das teses suscitadas no recurso especial, afirmando que mencionou todos os pontos que demandam reforma da decisão monocrática estadual e que as questões não necessitam de reexame de provas, mas sim de análise pelo STJ quanto aos artigos violados.
+Argumenta que a decisão de inadmissibilidade seria equivocada ao incluir tópico de ordem constitucional, pois a questão da violação domiciliar estaria calcada na legislação federal. Sustenta que a alegada deficiência de fundamentação também seria indevida, pois a violação pela exasperação da pena seria clara e manifesta. Reitera que a inviolabilidade de domicílio e a absolvição/desclassificação não demandam reexame de provas (fls.451/465).
+Parecer do Ministério Público Federal, em que manifestou-se pelo desprovimento do agravo regimental ( fls.478/484).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Inadmissão de recurso especial. Falta de impugnação específica. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, sob o fundamento de que a parte agravante não impugnou especificamente todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. O agravante foi condenado por tráfico de drogas, com pena majorada para 8 anos e 9 meses de reclusão. A defesa interpôs recurso especial alegando ilegalidade na invasão domiciliar, ausência de provas suficientes para a condenação e excesso na dosimetria da pena. O Tribunal de origem inadmitiu o recurso especial com base nas Súmulas 284/STF, 83/STJ e 7/STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial por falta de impugnação específica de todos os fundamentos da decisão de inadmissão, está correta.
+III. Razões de decidir
+4. A Corte Especial do STJ entende que a decisão que não admite o recurso especial possui dispositivo único, devendo ser impugnada em sua integralidade.
+5. A impugnação deve ser efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia.
+6. No caso, o agravante não conseguiu infirmar especificamente os fundamentos da decisão agravada, conforme exigido pela jurisprudência do STJ.
+7. A ausência de impugnação adequada dos fundamentos empregados pela Corte de origem impede o conhecimento do agravo, conforme o art. 932, inciso III do CPC.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A decisão que não admite o recurso especial deve ser impugnada em sua integralidade. 2. A impugnação deve ser efetiva, concreta e pormenorizada, sob pena de incidência da Súmula 182/STJ. 3. A ausência de impugnação específica dos fundamentos da decisão de inadmissão impede o conhecimento do agravo."
+Dispositivos relevantes citados: CPC, art. 932, III; Súmula 182/STJ; Súmula 284/STF; Súmula 83/STJ; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, EAREsp 701.404/SC; STJ, AgRg no REsp 1.958.975/PR, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; STJ, AgRg no AREsp 1682769/SC, Rel. Min. Ribeiro Dantas, DJe 23/06/2020.
+VOTO
+A questão a ser analisada neste agravo regimental é a adequação da decisão da Presidência do STJ que não conheceu do agravo em recurso especial, por considerar que a parte agravante não impugnou especificamente todos os fundamentos da decisão que inadmitiu o recurso especial na origem.
+Sobre o tema, é oportuno registrar que a Corte Especial desse Tribunal Superior, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Portanto, não há capítulos autônomos na decisão que inadmite o recurso especial, a qual, por isso, deve ser impugnada em sua integralidade.
+Deste modo, conforme registrou a decisão monocrática, "a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ" (fl. 447).
+No caso, a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem utilizou os seguintes fundamentos: Súmula 284/STF (matéria constitucional em sede imprópria e fundamentação deficiente), Súmula 83/STJ (inviolabilidade de domicílio), e Súmula 7/STJ (inviolabilidade de domicílio e absolvição).
+Ao analisar o agravo em recurso especial interposto, verifico que o agravante, embora tenha buscado refutar cada um dos óbices aplicados, o fez de maneira insuficiente para infirmar especificamente os fundamentos da decisão agravada, conforme exigido pela jurisprudência do STJ.
+Em relação ao fundamento de que o recurso especial não é via própria para alegação de violação a dispositivo da CF/88 (Súmula 284/STF), a decisão de inadmissibilidade apontou que a alegação de ofensa a dispositivos constitucionais deveria ser veiculada em recurso extraordinário, competência do Supremo Tribunal Federal.
+O agravante, em seu agravo em recurso especial, limitou-se a afirmar que "não sustentou seu recurso especial com tópico dedicado a violação de ordem constitucional", mas que a "violação domiciliar ofende do Código de Processo Penal, assim como também causa danos à constituição." Esta argumentação não enfrenta o fundamento de que a sede é imprópria para análise de matéria constitucional em recurso especial, conforme os precedentes citados na decisão atacada.
+No tocante à "fundamentação deficiente" (Súmula 284/STF), a decisão de origem destacou que o recorrente não indicou o dispositivo legal violado relativamente ao aumento excessivo da pena em virtude da natureza da cocaína. O agravante alegou que "é evidente e clara a violação contida nas razões que percorrem a constatação de ilegalidade num acordão que quase dobra a pena base ante uma apreensão de mísera quantia de drogas."
+Contudo, a simples reafirmação da clareza da violação não supre a ausência de indicação do dispositivo legal que teria sido violado, o que atrai, de fato, a incidência da Súmula 284 do STF.
+Nesse sentido: "O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração da parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida, juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF  .. " (REsp n. 1.891.923/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 16/2/2023, grifei).
+Quanto à "inviolabilidade de domicílio" (Súmulas 7 e 83 do STJ), o Tribunal de origem afirmou que a decisão do Tribunal Estadual estava em consonância com o entendimento do STJ e do STF, e que o reexame da existência de fundadas razões para o ingresso no domicílio demandaria reexame de provas, o que esbarraria na Súmula 7/STJ. O agravante sustenta que a matéria é de direito e que os precedentes utilizados para inadmitir o recurso estariam "superados".
+Todavia, para demonstrar que o entendimento jurisprudencial do STJ é diverso ou que o caso concreto é diferente dos arestos invocados, o agravante deveria ter feito um confronto analítico percuciente, o que não ocorreu. Além disso, a alegação de que não se trata de reexame de provas, mas de revaloração de fatos incontroversos, não foi suficientemente demonstrada para afastar a aplicação da Súmula 7/STJ, uma vez que a Corte de origem expressamente concluiu que havia fundadas razões para a busca domiciliar com base nos elementos probatórios colhidos.
+No que concerne ao "pedido de absolvição", a decisão de inadmissibilidade indicou que a pretensão de absolvição por insuficiência probatória demandava reexame do conjunto fático-probatório. O agravante, embora mencione a pequena quantidade de droga e a ausência de outros elementos que corroborem o tráfico, e cite precedentes sobre a possibilidade de desclassificação em casos de revaloração de fatos incontroversos, não conseguiu, de forma clara e detalhada, demonstrar que a análise da matéria prescindiria do reexame de provas e que se trataria apenas de revaloração jurídica, em face da conclusão das instâncias ordinárias que consideraram haver elementos suficientes para a condenação por tráfico.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
