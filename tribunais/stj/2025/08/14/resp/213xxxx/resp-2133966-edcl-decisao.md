@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, embargos de declaração opostos pela UNIÃO contra decisão que determinou a remessa dos autos ao juízo de origem, para que aprecie o pedido de homologação do acordo noticiado pelo requerente (fls. 302-303), e consignou que, não havendo homologação, retornassem os autos para regular processamento do feito.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que (fl. 308):
+A r. decisão embargada determinou "a remessa dos autos ao juízo de origem, para que aprecie o pedido de homologação do acordo", e, ainda, em "Não havendo homologação", que os autos retornassem para regular processamento do feito. No caso, o Recurso Especial interposto pela UNIÃO abrange todo o mérito da ação (fls. 236/250), sendo que a Proposta de Acordo apresentada pela UNIÃO também abrange a matéria de fundo discutida no recurso interposto, submetido a esse colendo Superior Tribunal de Justiça, de modo que a deliberação sobre a homologação da transação compete a essa Corte Superior. Ademais, no presente caso, a UNIÃO, parte recorrente, apresentou Proposta de Acordo (fls. 297-298), tendo as partes recorridas, GILBERTO MIGUEL e LIDIA KASAE MIGUEL concordado com proposta apresentada (fls. 302-303). Cabe destacar que o Regimento Interno deste Superior Tribunal de Justiça prevê, entre as atribuições do Relator, a apreciação e a homologação de pedidos de autocomposição das partes (art. 34, IX).
+Impugnação da parte embargada pelo acolhimento dos embargos.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, da qual decorra o aprimoramento da decisão.
+No caso, não se evidencia qualquer omissão, mas somente irresignação quanto ao entendimento de que o acordo entabulado entre as partes deve ser analisado pela origem, para eventual homologação.
+Ademais, a competência recursal desta Corte Superior se adstringe ao recurso especial interposto pela UNIÃO, não havendo possibilidade de decidir no recurso especial temas que não foram objeto de julgamento anterior, facultado a parte a desistência do seu recurso e o requerimento de baixa à origem para análise do referido acordo.
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da p arte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
