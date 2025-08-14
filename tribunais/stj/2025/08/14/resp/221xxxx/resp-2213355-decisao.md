@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO em julgamento da Apelação Criminal n. 5001155-13.2015.4.04.7102.
+Consta dos autos que, com a prolação da sentença, houve a determinação de intimação do Parquet para promover a execução da pena de multa imposta ao ora recorrido (fls. 1.446/1.516).
+Recurso de apelação interposto pela acusação teve o provimento negado. O acórdão ficou assim ementado:
+"AGRAVO DE EXECUÇÃO PENAL. EXECUÇÃO DA PENA DE MULTA. COMPETÊNCIA. ARTIGO 51 DO CÓDIGO PENAL. LEI 13.964/2019. COMPETÊNCIA. JUÍZO DA EXECUÇÃO PENAL.
+LEGITIMIDADE EXCLUSIVA. MINISTÉRIO PÚBLICO FEDERAL.
+1. O julgamento da ADI 3.150 não contemplou a nova redação do art. 51 do Código Penal, pois ocorrido antes da entrada em vigor da Lei nº 13.964/2019.
+2. Mantida a natureza penal da multa, e definida a competência para a sua execução somente ao Juízo da Execução Penal (art. 51 do Código Penal na redação dada pela Lei nº 13.964/2019), a legitimidade do Ministério Público para a propositura da ação para sua cobrança passou a ser exclusiva." (fl. 4.158)
+Em sede de recurso especial (fls. 4.170/4.178), o recorrente apontou violação ao art. 51 do Código Penal, sustentando, em síntese, que a competência do Ministério Público para execução da pena de multa criminal é prioritária, e não exclusiva, permanecendo a legitimidade subsidiária da Fazenda Pública para execução dos valores, em caso de inércia do Órgão acusatório.
+Requer o provimento do recurso nesse sentido.
+Contrarrazões não apresentadas.
+Admitido o recurso no TRF4 (fl. 7.209), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial (fls. 4.228/4.233).
+É o relatório.
+Decido.
+Acerca da pretensão recursal, asseverou o Tribunal a quo:
+" ..
+Todavia, revendo minha posição e me amoldando ao entendimento desta 8ª Turma, tenho que a modulação dos efeitos da ADI 3.150 - que manteve a legitimação subsidiária da Fazenda Pública para a execução da pena de multa - não se aplica ao art. 51 do Código Penal com o advento da Lei nº 13.964/2019. A questão restou bem demonstrada no Voto da lavra do Exmo. Desembargador Federal Loraci Flores de Lima, no Agravo de Execução Penal 5050363-34.2022.4.04.7000, em recente julgamento, encerrado em 23/11/2022:
+ ..
+Assim, mantida a natureza penal da multa, e definida a competência para a sua execução somente ao Juízo da Execução Penal (art. 51 do Código Penal na redação dada pela Lei nº 13.964/2019), a legitimidade do Ministério Público para a propositura da ação para sua cobrança passou a ser exclusiva." (fls. 4.160/4.161, grifo meu)
+O acórdão do Tribunal de origem está dissonante da jurisprudência desta Corte Superior de Justiça, firmada no sentido de que, mesmo após a vigência da Lei n. 13.964/2019, perdura a legitimidade subsidiária da Fazenda Pública para a execução da pena de multa, uma vez que a legitimidade do Ministério Público para a cobrança da sanção pecuniária é prioritária, e não exclusiva.
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. EXECUÇÃO DE PENA DE MULTA. LEGITIMIDADE PRIORITÁRIA DO MINISTÉRIO PÚBLICO. LEGITIMIDADE SUBSIDIÁRIA DA FAZENDA PÚBLICA. ADVENTO DO PACOTE ANTICRIME (LEI N. 13.964/2019). REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL - STF. TEMA 1219. PENDÊNCIA DE DECISÃO DEFINITIVA NA SUPREMA CORTE. DESNECESSIDADE DE SOBRESTAMENTO DOS FEITOS QUE TRATAM DA MATÉRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto pela Fazenda Nacional contra decisão monocrática que reconheceu sua legitimidade subsidiária para execução de pena de multa fixada na esfera penal, mesmo após o advento do Pacote Anticrime (Lei n, 13.964/2019).
+2. A Suprema Corte, no leading case RE 1377843, reconheceu repercussão geral da questão controvertida posta a desate no presente recurso (Tema 1219). Todavia, referido tema encontra-se pendente de julgamento definitivo pelo STF.
+3. O acórdão do Tribunal de origem se harmoniza com a jurisprudência desta Corte Superior de Justiça no sentido de que, mesmo após a vigência da Lei 13.964/2019, perdura a legitimidade subsidiária da Fazenda Pública, uma vez que a legitimidade da Ministério Público para a cobrança da multa é prioritária, e não exclusiva. Precedentes: AgRg no AREsp n. 2.096.601/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/8/2022 e AgRg no AREsp n. 2.101.526/RS, relator Ministro Olindo Menezes - Desembargador Convocado do TRF 1ª Região, Sexta Turma, DJe de 25/11/2022.
+4. Ademais, o Tribunal a quo concedeu parcialmente a segurança determinando que o juízo de primeiro grau oportunize ao Ministério Público Federal - MPF, no prazo de 90 dias, na condição de legitimado prioritário, a promoção da cobrança da multa penal decorrente de sentença penal condenatória. Destarte, ausente, na espécie, violação a direito líquido e certo da Fazenda Nacional.
+5. Agravo regimental ao qual se nega provimento.
+(AgRg no RMS n. 70.937/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA DE MULTA DE OFÍCIO PELO MAGISTRADO. IMPOSSIBILIDADE. INTELIGÊNCIA DOS ARTS. 164 E SEGUINTES DA LEP. JURISPRUDÊNCIA DO STJ E STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Supremo Tribunal Federal, ao julgar a ADI n. 3.150/DF, declarou que, à luz do preceito estabelecido pelo art. 5º, inciso XLVI, da Constituição Federal, a multa, ao lado da privação de liberdade e de outras restrições - perda de bens, prestação social alternativa e suspensão ou interdição de direitos -, é espécie de pena aplicável em retribuição e em prevenção à prática de crimes.
+2. Diante de tal premissa, foi disposto que a legitimidade para a execução da referida multa decorrente de condenação criminal transitada em julgado, em razão de sua natureza penal, seria do Ministério Público, ainda que não exclusiva, mas prioritária, sendo a legitimidade da Fazenda Pública, para propor execução fiscal, subsidiária, dependendo da omissão do órgão ministerial dentro de prazo, que foi fixado em 90 dias contados a partir da intimação para a execução da reprimenda.
+3. Assim, conforme entendimento do STF, (i) o Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, observado o procedimento descrito pelos artigos 164 e seguintes da Lei de Execução Penal; e ii) caso o titular da ação penal, devidamente intimado, não proponha a execução da multa no prazo de 90 (noventa) dias, o Juiz da execução criminal dará ciência do feito ao órgão competente da Fazenda Pública (Federal ou Estadual, conforme o caso) para a respectiva cobrança na própria Vara de Execução Fiscal, com a observância do rito da Lei n. 6.830/1980. Dessa forma, a determinação do pagamento da pena de multa não cabe, de ofício, ao juízo da execução.
+4. Nesse linha, " i ncumbe ao Ministério Público a execução da pena de multa, o qual, atento às disposições contidas nos arts. 164 e seguintes da Lei de Execução Penal, deverá promovê-la, não cabendo ao juízo da execução a determinação, de ofício, do respectivo pagamento" (AgRg no AREsp n. 2.092.616/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.222.146/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe de 15/5/2023.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para consignar a legitimidade subsidiária da Fazenda Pública para a execução da pena de multa.
+Publique-se.
+Intimem-se.
+EMENTA
