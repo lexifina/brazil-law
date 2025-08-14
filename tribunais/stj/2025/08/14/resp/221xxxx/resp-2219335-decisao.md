@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por Cooperativa de Crédito Sicoob Metropolitano com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 3.498):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA (COTA PATRONAL) SAT/RAT E CONTRIBUIÇÕES PARA TERCEIROS. PRÊMIO, BONIFICAÇÕES E GRATIFICAÇÕES. LEI 13.467/17.
+1. Havendo exclusão por força de Lei, o processo deve ser extinto sem apreciação do mérito quanto ao pedido relativo às importâncias recebidas pelos empregados a título de prêmio e bonificações posteriores a 11/11/2017, data da entrada em vigor da Lei 13.467/17, nos termos do art. 485, VI, do CPC.
+2. É legítima a incidência de contribuição previdenciária sobre os valores recebidos a título de prêmios e bonificações anteriores a 11/11/2017 e sobre as gratificações não comprovadas que são eventuais e que decorreram de mera liberalidade do empregador.
+Opostos embargos declaratórios, foram rejeitados (fls. 3.505/3.507).
+A parte recorrente aponta violação aos arts. 22, I e § 2º, e 28, § 9º, alíneas e, item 7, e z, da Lei n. 8.212/1991; 457, § 2º e § 4º, da CLT, ao argumento de que não há incidência de "contribuição previdenciária patronal, SAT/RAT e terceiros sobre o valor pago aos funcionários a título de prêmios e gratificações não habituais" (fl. 3.521).
+O Ministério Público Federal ofereceu manifestação às fls. 3.578/3.580.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, observa-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, a ausência de interesse processual em relação aos prêmios e bonificações pagos após 11/11/2017, em razão da inexistência de demonstração, pela impetrante, de ato concreto de exigência da contribuição ou indeferimento de pedido de compensação, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Lado outro, o acórdão recorrido, ao examinar os prêmios e gratificações pagos antes de 11/11/2017, consignou expressamente que "no caso, a parte autora não comprovou que as gratificações pagas são eventuais e que decorreram de mera liberalidade do empregador, razão por que se sujeitam à incidência da contribuição previdenciária patronal" (fl. 3.496).
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária quanto à ausência de comprovação do caráter eventual e de que as gratificações ocorrem por mera liberalidade , na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
