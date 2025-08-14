@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO na Apelação Criminal n. 001191-56.2020.4.03.6181, assim ementada (fl. 1070):
+PENAL. PROCESSUAL PENAL. CRIME AMBIENTAL. ARTIGO 3º DA LEI N. 9.605/1998. CONCURSO NECESSÁRIO DE AGENTES. JUSTA CAUSA. DUPLA IMPUTAÇÃO. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO DESPROVIDO.
+1 - A Lei n. 9.605/1998 ao disciplinar as penas aplicáveis à pessoa jurídica, tratou de associar a responsabilidade penal do ente personalizado ao da pessoa física responsável pelo ato cujo benefício foi revertido em favor daquele.
+2 - No caso, a denúncia narra conduta atribuída exclusivamente à pessoa jurídica, sem, contudo, vinculá-la à decisão de seu representante legal ou contratual.
+3 - A peça acusatória, portanto, incorreu em omissão, não suprida durante o curso do processo, ao não identificar e apontar as pessoas físicas que, atuando em nome e proveito do ente moral, participaram do evento delituoso.
+4 - Em se tratando de crime de concurso necessário de agentes (partícipe ou coautor), exige-se a denúncia simultânea para a pessoa jurídica e a pessoa física.
+5 - Assim, embora possível a responsabilização penal da pessoa jurídica, necessário é o preenchimento dos pressupostos estabelecidos no art. 3º da Lei nº 9.605/1998, ou seja, que a inicial acusatória, simultaneamente apresente a descrição da conduta delitiva praticada pelos representantes legais, o que não ocorreu no caso.
+6 - Recurso de apelação desprovido.
+O Juízo de Primeiro Grau julgou improcedente a pretensão punitiva estatal, para absolver BASF S/A da prática do crime previsto no artigo 68 combinado com art. 15, II, "c", da Lei n. 9.605/1998, com fundamento no art. 386, VII, do Código de Processo Penal (fls. 962-973).
+O Tribunal a quo negou provimento à apelação da Defesa, mantendo a sentença absolutória, contudo, embora por fundamento diverso (fls. 1060-1070).
+Os embargos de declaração do Ministério Público Federal foram rejeitados (fls. 1103-1112).
+Nas razões do recurso especial o Parquet alega contrariedade ao art. 3º da Lei 9.605/1998, ao argumento de desnecessidade de dupla imputação, ou seja, a responsabilização simultânea da pessoa jurídica e das pessoas físicas envolvidas no delito ambiental. Sustenta que a responsabilização penal das pessoas jurídicas não exclui a das pessoas físicas, mas não exige que ambas sejam imputadas na mesma denúncia.
+O MPF cita precedentes do Supremo Tribunal Federal (STF) e do STJ que reconhecem a possibilidade de responsabilização penal da pessoa jurídica por crimes ambientais independentemente da responsabilização concomitante da pessoa física.
+Assevera que a denúncia descreve que a BASF S/A não cumpriu obrigação ambiental ao deixar de recolher e dar destinação final a 150.418 litros de óleo lubrificante usado ou contaminado em 2013, conforme exigido pela Portaria Interministerial MMA/MME nº 59/2012. A conduta criminosa atribuída à pessoa jurídica é considerada suficiente para autorizar o exercício do direito de defesa.
+Requer o conhecimento e provimento do recurso especial, para que seja afastada a inépcia da denúncia e a falta de justa causa, com a restituição dos autos ao Tribunal Regional Federal da 3ª Região para prosseguimento no julgamento da apelação acusatória (fls. 1137-1158).
+Contrarrazões às fls. 1161-1170.
+O recurso especial foi admitido pelo Tribunal Regional Federal da 5ª Região (fls. 1182-1187).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 1204-1207).
+É o relatório.
+DECIDO.
+Presentes os requisitos de admissibilidade, conheço do recurso especial.
+No que interessa à solução da controvérsia, tem-se que o Colegiado de origem assim dispôs sobre a questão controvertida (fls. 1062-1065):
+Em se tratando de condutas lesivas ao meio ambiente, a Constituição Federal no artigo 225, §3º, prevê expressamente a possibilidade de se atribuir responsabilidade à pessoa jurídica.
+A Lei n. 9.605/1998, por sua vez, ao disciplinar as penas aplicáveis à pessoa jurídica, tratou de associar a responsabilidade penal do ente personalizado ao da pessoa física
+"Art. 3º As pessoas jurídicas serão responsabilizadas administrativa, civil e penalmente conforme o disposto nesta Lei, nos casos em que a infração seja cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da sua entidade.
+Parágrafo único. A responsabilidade das pessoas jurídicas não exclui a das pessoas físicas, autoras, co-autoras ou partícipes do mesmo fato". (g/n).
+No caso, a denúncia narra conduta atribuída exclusivamente à pessoa jurídica, sem, contudo, vinculá-la à decisão de seu representante legal ou contratual.
+A peça acusatória, portanto, incorreu em omissão, não suprida durante o curso do processo, ao não identificar e apontar as pessoas físicas que, atuando em nome e proveito do ente moral, participaram do evento delituoso.
+Com efeito, em se tratando de crime de concurso necessário de agentes (partícipe ou coautor), exige-se a denúncia simultânea para a pessoa jurídica e a pessoa física.
+Dessa forma, em que pese a 1ª Turma do C. STF, por maioria, ter afastado a teoria da dupla imputação no julgamento do Recurso Extraordinário nº 548.181/PR, ocasião em que admitiu ser possível que a pessoa jurídica figure de forma isolada no polo passivo da ação penal, adoto entendimento diverso.
+Assim, embora possível a responsabilização penal da pessoa jurídica, necessário é o preenchimento dos pressupostos estabelecidos no art. 3º da Lei nº 9.605/1998, ou seja, que a inicial acusatória, simultaneamente apresente a descrição da conduta delitiva praticada pelos representantes legais.
+(..)
+Assim, tendo em vista que a denúncia não imputou a prática delitiva de qualquer crime à pessoa física relacionada à pessoa jurídica, tem-se o não preenchimento de um dos requisitos ao exercício regular do direito de ação, a justa causa, de modo que é a peça acusatória é inepta.
+Nesse contexto, a fundamentação do acórdão destoa da jurisprudência dessa Corte, que firmou a seguinte tese:
+após o julgamento do RE 548.181 pela Suprema Corte, de relatoria da Ministra ROSA WEBER, DJe 30/10/2014, consolidou o entendimento segundo o qual é possível a responsabilização penal da pessoa jurídica por crimes ambientais independentemente da responsabilização concomitante da pessoa física que a represente (AgRg no REsp n. 1.988.504/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022).
+Nesse sentido:
+PROCESSUAL PENAL. CRIME AMBIENTAL. DESNECESSIDADE DE DUPLA IMPUTAÇÃO. DESCRIÇÃO PORMENORIZADA DA CONDUTA DOS GESTORES DA EMPRESA. PRESCINDIBILIDADE. ART. 54 DA LEI N. 9.605/1998. CRIME FORMAL. POTENCIALIDADE EVIDENCIADA. LAUDO QUE ATESTA VÍCIOS NA ESTRUTURA UTILIZADA PELA EMPRESA. RESPONSABILIDADE QUE NÃO SE AFASTA EM RAZÃO DE CULPA OU DOLO DE TERCEIROS.
+1. A Primeira Turma do Supremo Tribunal Federal, no julgamento do RE 548.181/PR, de relatoria da em. Ministra Rosa Weber, decidiu que o art. 225, § 3º, da Constituição Federal não condiciona a responsabilização penal da pessoa jurídica por crimes ambientais à simultânea persecução penal da pessoa física em tese responsável no âmbito da empresa.
+2. Abandonada a teoria da dupla imputação necessária, eventual ausência de descrição pormenorizada da conduta dos gestores da empresa não resulta no esvaziamento do elemento volitivo do tipo penal (culpa ou dolo) em relação à pessoa jurídica.
+3. De acordo com o entendimento deste Tribunal, a Lei de Crimes Ambientais deve ser interpretada à luz dos princípios do desenvolvimento sustentável e da prevenção, indicando o acerto da análise que a doutrina e a jurisprudência têm conferido à parte inicial do art. 54, da Lei n. 9.605/1998, de que a mera possibilidade de causar dano à saúde humana é suficiente para configurar o crime de poluição, dada a sua natureza formal ou, ainda, de perigo abstrato.
+4. Concretização do dano que evidencia a potencialidade preexistente.
+5. Responsabilidade que não se afasta em razão de culpa ou dolo de terceiros, considerando-se a existência de laudo técnico que atesta diversos vícios referentes à segurança da estrutura utilizada pela empresa para o transporte de minério destinado à sua atividade econômica.
+6. Agravo regimental desprovido.
+(AgRg no RMS n. 48.085/PA, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 5/11/2015, DJe de 20/11/2015; grifamos).
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. TEORIA DA DUPLA IMPUTAÇÃO. PESSOA JURÍDICA QUE FIGURA ISOLADAMENTE COMO RÉ NA DENÚNCIA POR CRIME AMBIENTAL. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+2. Este Superior Tribunal, na linha do entendimento externado pelo Supremo Tribunal Federal, passou a entender que, nos crimes societários, não é indispensável a aplicação da teoria da dupla imputação ou imputação simultânea, podendo subsistir a ação penal proposta contra a pessoa jurídica, mesmo se afastando a pessoa física do polo passivo da ação. Precedentes.
+3. O trancamento de ação penal, somente deve ser acolhido se restar, de forma indubitável, comprovada a ocorrência de circunstância extintiva da punibilidade, de ausência de indícios de autoria ou de prova da materialidade do delito e ainda da atipicidade da conduta.
+4. Agravo regimental improvido.
+(AgRg no RMS 48.851/PA, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 20/2/2018, DJe 26/2/2018; grifamos).
+No mesmo sentido o opinativo ministerial de fls. 1204-1207:
+Em que pese o acórdão recorrido ter destacado acerca da ausência de imputação da prática delitiva à qualquer pessoa física relacionada à pessoa jurídica, importante destacar que a Primeira Turma do Supremo Tribunal Federal, no julgamento do RE 548.181/PR, de rela- toria da Ministra Rosa Weber, decidiu que o art. 225, § 3º, da Constituição Federal não condiciona a responsabilização penal da pessoa jurídica por crimes ambientais à simultânea persecução penal da pessoa física em tese responsável no âmbito da empresa.
+Nesse mesmo sentido, a orientação jurisprudencial dessa c. Corte Superior de Justiça: "Este Superior Tribunal, na linha do entendimento externado pelo Supremo Tribunal Federal, passou a entender que, nos crimes societários, não é indispensável a aplicação da teoria da dupla imputação ou imputação simultânea, podendo subsistir a ação penal proposta contra a pessoa jurídica, mesmo se afastando a pessoa física do polo passivo da ação". RHC 48172/PA, Recurso Ordinário em Habeas Corpus, Relator Ministro Sebastião Reis Júnior, Sexta Turma, DJ 20/10/2015, DJe 10/11/2015.
+Com efeito, a partir do aludido julgamento na Corte Suprema (RE 548.181/PR), foi abandonada a teoria da dupla imputação necessária nos crimes ambientais, destacando-se que eventual ausência de descrição pormenorizada na denúncia, a respeito da conduta dos gesto- res da empresa, não resulta no esvaziamento da culpa ou dolo em relação à pessoa jurídica.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para, reformando o acórdão recorrido, afastar a inépcia da denúncia e a falta de justa causa, reconhecidas com base na teoria da dupla imputação, restituindo-se os autos ao Tribunal Regional Federal da 3ª Região para prosseguimento no julgamento da apelação acusatória.
+Publique-se. Intimem-se.
+ EMENTA
