@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de MARCOS JOSE MONTEIRO CARNEIRO - condenado pela prática dos crimes de tráfico transnacional de drogas, associação para o mesmo fim e corrupção ativa (Ação Penal n. 0523790-45.2004.4.02.5101) -, em que se aponta como autoridade coatora a Primeira Seção Especializada do Tribunal Regional Federal da 2ª Região - TRF2, não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta ao paciente pelo Juízo de Direito da 4ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro/RJ, aos argumentos de ilegalidade na escolha da fração de 1/8 entre o intervalo da pena abstratamente cominada ao crime, para fins de exasperação da pena-base e ausência de fundamentação para o aumento da reprimenda.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação transitada em julgado, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas neste último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade (EDcl no AgRg no HC n. 964972/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 24/4/2025).
+Ademais, não se verifica ausência de fundamentação na dosimetria da pena (fls. 121/125).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO TRANSNACIONAL DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM E CORRUPÇÃO ATIVA. REVISÃO DE CONDENAÇÃO TRANSITADA EM JULGADO. INADMISSIBILIDADE. DOSIMETRIA DA PENA. CRITÉRIOS DE EXASPERAÇÃO E FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
