@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito PROCESSUAL penal. Agravo regimental. delitos tipificados nos arts. 14 e 16, § 1º, iv, da lei n. 10.826/03. Princípio da consunção. inaplicabilidade. ofensa a bens jurídicos distintos. incidência da regra do concurso formal próprio. ausência de impugnação pela defesa. PRECLUSÃO DA MATÉRIA NÃO REFUTADA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do recurso especial do Ministério Público do Estado de Minas Gerais e deu-lhe provimento para afastar a aplicação do princípio da consunção, condenando os agravantes pelos crimes previstos nos arts. 14 e 16, § 1º, IV, da Lei n. 10.826/03, na forma do art. 70, caput, do Código Penal.
+2. A decisão agravada redimensionou a pena dos agravantes, fixando a reprimenda de Jorge Silva em 10 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e 692 dias-multa, e a pena de Alessandra Silva Dos Reis de Jesus em 6 anos e 10 meses de reclusão, em regime inicial semiaberto, e 345 dias-multa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo regimental deve ser conhecido para reconhecer a alegada nulidade das provas obtidas a partir do ingresso dos policiais no domicílio dos réus.
+III. Razões de decidir
+4. A impugnação de questão diversa daquela aventada pelo Parquet no recurso especial, qual seja, a inaplicabilidade do princípio da consunção entre os delitos tipificados nos arts. 14 e 16, § 1º, IV, da Lei n. 10.826/03, acarreta a preclusão da matéria não impugnada e, por consequência, obsta o conhecimento do agravo regimental interposto pela defesa.
+IV. Dispositivo e tese
+5. Agravo regimental não conhecido.
+Tese de julgamento: "A ausência de impugnação específica aos fundamentos da decisão agravada acarreta a preclusão da matéria não impugnada, inviabilizando o conhecimento do agravo regimental".
+Dispositivos relevantes citados: Lei n. 10.826/03, arts. 14 e 16, § 1º, IV; CP, art. 70; CPC, art. 1.021, § 1º.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl nos EAREsp n. 1.580.983/DF, Rel. Min. Ricardo Villas Bôas Cueva, Corte Especial, julgado em 27/2/2024; STJ, AgRg no AREsp n. 2.343.899/MG, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 8/8/2023; STJ, AgRg no AREsp n. 2.236.244/SP, Rel. Min. João Batista Moreira, Quinta Turma, julgado em 16/5/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JORGE SILVA e ALESSANDRA SILVA DOS REIS DE JESUS contra decisão de minha relatoria (fl. 1.747/1.754) que conheceu do recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS - MPMG e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, deu-lhe provimento para afastar a aplicação do princípio da consunção e condenar os ora agravantes pela prática dos crimes capitulados nos arts. 14 e 16, § 1º, IV, da Lei n. 10.826/03, na forma do art. 70, caput, do Código Penal - CP.
+Neste ponto, foi redimensionada a pena total definitiva do agravante Jorge Silva para 10 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e 692 dias-multa e da agravante Alessandra Silva Dos Reis de Jesus para 6 anos e 10 meses de reclusão, em regime inicial semiaberto, e 345 dias-multa.
+Em suas razões recursais, (fls. 1.846/1.852), os agravantes, após breve síntese processual, sustentaram que inexistiam fundadas razões prévias e idôneas para justificar o ingresso dos policiais no domicílio dos réus. Asseverou que a diligência foi embasada em informações precárias de que o imóvel era utilizado para o armazenamento de substâncias ilícitas e que não era possível visualizar os entorpecentes do lado de fora da residência.
+Requereram a reconsideração da decisão monocrática ou, subsidiariamente, o provimento do agravo regimental para que sejam sanadas as ilegalidades apontadas.
+É o relatório.
+EMENTA
+Direito PROCESSUAL penal. Agravo regimental. delitos tipificados nos arts. 14 e 16, § 1º, iv, da lei n. 10.826/03. Princípio da consunção. inaplicabilidade. ofensa a bens jurídicos distintos. incidência da regra do concurso formal próprio. ausência de impugnação pela defesa. PRECLUSÃO DA MATÉRIA NÃO REFUTADA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do recurso especial do Ministério Público do Estado de Minas Gerais e deu-lhe provimento para afastar a aplicação do princípio da consunção, condenando os agravantes pelos crimes previstos nos arts. 14 e 16, § 1º, IV, da Lei n. 10.826/03, na forma do art. 70, caput, do Código Penal.
+2. A decisão agravada redimensionou a pena dos agravantes, fixando a reprimenda de Jorge Silva em 10 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e 692 dias-multa, e a pena de Alessandra Silva Dos Reis de Jesus em 6 anos e 10 meses de reclusão, em regime inicial semiaberto, e 345 dias-multa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo regimental deve ser conhecido para reconhecer a alegada nulidade das provas obtidas a partir do ingresso dos policiais no domicílio dos réus.
+III. Razões de decidir
+4. A impugnação de questão diversa daquela aventada pelo Parquet no recurso especial, qual seja, a inaplicabilidade do princípio da consunção entre os delitos tipificados nos arts. 14 e 16, § 1º, IV, da Lei n. 10.826/03, acarreta a preclusão da matéria não impugnada e, por consequência, obsta o conhecimento do agravo regimental interposto pela defesa.
+IV. Dispositivo e tese
+5. Agravo regimental não conhecido.
+Tese de julgamento: "A ausência de impugnação específica aos fundamentos da decisão agravada acarreta a preclusão da matéria não impugnada, inviabilizando o conhecimento do agravo regimental".
+Dispositivos relevantes citados: Lei n. 10.826/03, arts. 14 e 16, § 1º, IV; CP, art. 70; CPC, art. 1.021, § 1º.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl nos EAREsp n. 1.580.983/DF, Rel. Min. Ricardo Villas Bôas Cueva, Corte Especial, julgado em 27/2/2024; STJ, AgRg no AREsp n. 2.343.899/MG, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 8/8/2023; STJ, AgRg no AREsp n. 2.236.244/SP, Rel. Min. João Batista Moreira, Quinta Turma, julgado em 16/5/2023.
+VOTO
+In casu, o presente agravo regimental não merece conhecimento.
+Isso porque a decisão agravada conheceu do recurso especial interposto pelo MPMG e deu-lhe provimento para afastar a aplicação do princípio da consunção e, por consequência, condenar os ora agravantes pela prática dos crimes capitulados nos arts. 14 e 16, § 1º, IV, da Lei n. 10.826/03, na forma do art. 70, caput, do CP.
+Colaciona-se o seguinte trecho da decisão agravada:
+"No que concerne à afronta aos arts. 14 e 16, §1º, IV, da Lei n. 10.826/03, colaciona-se o seguinte trecho do acórdão proferido pelo Tribunal de origem no julgamento da apelação criminal (grifo meu):
+"Da consunção entre os art. 14 e art. 16, ambos da Lei nº 10.826/03
+Contudo, aplico a consunção entre os delitos previstos no art. 14 e art. 16, ambos pda Lei nº 10.826/03, devendo ser afastada a imputação do art. 14 do Estatuto do Desarmamento, sendo esta conduta absorvida pela mais grave constante do art. 16, § 1º, inciso IV, da referida lei.
+Seria totalmente despropositado e desproporcional os réus serem condenados por ambas as condutas, pelo fato de possuírem mais de uma arma de fogo, sendo uma com numeração suprimida e outras não, no mesmo contexto fático.
+Tratando-se de armas e munições apreendidas nas mesmas circunstâncias de tempo e lugar, não há que se falar em dois crimes autônomos, mas sim em um único crime.
+Para Fernando Capez:
+ ..
+Destarte, ainda que tenham sido apreendidas armas e munições diversas, não há que se falar em diferentes crimes, mas sim em uma única infração penal, devendo os agentes responder pelo delito mais grave, no caso, o art. 16 da Lei nº 10.826/03" (fls. 1.390/1.395).
+Denota-se do excerto que o TJMG aplicou o princípio da consunção entre os delitos tipificados nos arts. 14 e 16 da Lei n. 10.826/03, ao fundamento de que, não obstante tratem-se de armas e munições diversas, estas foram apreendidas nas mesmas circunstâncias de tempo e lugar, de modo que não há de se falar em crimes autônomos.
+Contudo, tal entendimento não está em consonância com a jurisprudência desta Corte. Isso porque não há de se aplicar o princípio da consunção na espécie, notadamente pelo fato de que as condutas praticadas pelos recorridos se enquadram em tipos penais diversos e, por consequência, violam mais de um bem jurídico protegido pela Lei Penal.
+Neste ponto consigna-se que o art. 14 da n. 10.826/03 visa proteger tão somente a paz e a segurança pública, ao passo que o art. 16 protege não apenas a paz e a segurança pública, mas também a seriedade dos cadastros do Sistema Nacional de Armas. Destarte, desponta inviável o reconhecimento de crime único na hipótese em razão da ofensa a bens jurídicos distintos, sendo adequada a aplicação da regra do concurso formal próprio.
+ ..
+Destarte, há de se acolher o recurso do Parquet para condenar os recorridos pela prática dos crimes capitulados nos arts. 14 e 16, § 1º, IV, da Lei n. 10.826/03, na forma do art. 70, caput, do Código Penal - CP (concurso formal próprio)" (fls. 1.750/1.753).
+Contudo, no presente agravo regimental (fls. 1.846/1.852), os agravantes refutaram tese diversa daquela aventada pelo Parquet nas razões do apelo nobre, de modo que tal circunstância acarreta a preclusão da matéria não impugnada e, por consequência, obsta o conhecimento do agravo regimental.
+Para corroborar, colhe-se da jurisprudência desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. DECISÃO AGRAVADA. FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ART. 1.021, § 1º, DO CPC. SÚMULA Nº 182/STJ.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica em caso de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. Na hipótese, constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl nos EAREsp n. 1.580.983/DF, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 27/2/2024, DJe de 1º/3/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL E ARTS. 489, § 1.º, INCISO IV, E 1.022, PARÁGRAFO ÚNICO, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. OFENSA. AFASTAMENTO. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. ARTS. 302, CAPUT, E 298, INCISO V, DO CÓDIGO DE TRÂNSITO BRASILEIRO E ARTS. 315, § 2º, INCISO IV, E 386, INCISO VII, DO CÓDIGO DE PROCESSO PENAL. DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 7 DO STJ. RECURSO INTERNO. SILÊNCIO. PRECLUSÃO. RESTABELECIMENTO DA CONDENAÇÃO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente a impugnação ao fundamentos da decisão agravada, na parte em que não reconheceu a ofensa ao art. 619 do Código de Processo Penal, e aos arts. 489, § 1.º, inciso IV, e 1.022, parágrafo único, inciso II, do Código de Processo Civil, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Situação concreta em que, mesmo se eventualmente fosse constatada a aludida ofensa ao art. 619 do Código de Processo Penal, e aos arts. 489, § 1.º, inciso IV, e 1.022, parágrafo único, inciso II, do Código de Processo Civil, não poderia mais ser restabelecida a condenação, como pleiteou o Agravante, levando à ausência de interesse recursal.
+3. Apesar de formular estritamente pedido de restabelecimento da condenação, o agravo regimental foi completamente silente em relação à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, no tocante à alegação de ofensa aos arts. 302, caput, e 298, inciso V, do Código de Trânsito Brasileiro e aos arts. 315, § 2º, inciso IV, 386, inciso VII, do Código de Processo Penal, que haviam sido apontados violados no recurso especial, Na verdade, o recurso interno sequer reiterou a tese de ofensa aos referidos dispositivos.
+4. Em razão da natureza vinculada do recurso especial, seriam esses artigos cuja suposta violação daria ensejo a um eventual restabelecimento da condenação, e não aqueles cuja alegação de ofensa foi reiterada no agravo regimental, os quais, caso se reconhecesse como violados, possuem comando normativo capaz de autorizar a esta Corte Superior tão-somente a determinar o retorno dos autos ao Tribunal de origem, para novo julgamento dos embargos de declaração.
+5. Contexto em que ficou precluso, para o Ministério Público estadual, o capítulo da decisão agravada em que se concluiu pela aplicação da Súmula n. 7 do Superior Tribunal de Justiça, no tocante à alegação de ofensa aos referidos aos arts. 302, caput, e 298, inciso V, do Código de Trânsito Brasileiro; arts. 315, § 2º, inciso IV, 386, inciso VII, do Código de Processo Penal o que inviabiliza a possibilidade de restabelecimento da condenação, na presente via especial.
+6. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.343.899/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A UM DOS FUNDAMENTOS AUTÔNOMOS DA DECISÃO MONOCRÁTICA DO RELATOR. APLICAÇÃO DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. A eficácia meramente preclusiva da omissão em sede de agravo regimental, dirigido a capítulo autônomo e/ou independente da decisão monocrática, não desonera o recorrente de impugnar tantos quantos forem os motivos sobre os quais se ergue o capítulo recorrido, sob pena de não conhecimento. Precedentes.
+3. A decisão agravada é constituída de capítulo único, consistente na ausência de impugnação de fundamento autônomo e suficiente para manter o julgado recorrido, o que atrairia a incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"), e na falta de prequestionamento.
+4. O agravo regimental, todavia, investe-se contra a ausência de prequestionamento, mas nada diz a propósito da Súmula 283/STF. Essa omissão desconsidera o ônus de impugnar a totalidade dos fundamentos sobrepostos pela decisão monocrática em relação ao mesmo capítulo decisório e atrai a incidência da Súmula 182/STJ.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.236.244/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 16/5/2023, DJe de 22/5/2023.)
+Ante o exposto, voto no sentido de não conhecer do agravo regimental.
