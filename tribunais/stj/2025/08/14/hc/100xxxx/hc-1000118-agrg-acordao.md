@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. REITERAÇÃO DE PEDIDOS. PLEITO ANALISADO NOS AUTOS DO RESP N. 2.140.017/SP. FUNDAMENTO DA DECISÃO AGRAVADA NÃO INFIRMADO. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO DESPROVIDO.
+1. O decisum agravado indeferiu liminarmente o mandamus, sob o entendimento de que o pleito de concessão de tráfico privilegiado foi analisado nos autos do REsp n. 2.140.017/SP, de minha relatoria, transitado em julgado em 14/10/2024, tendo sido asseverado que a condenação pelo crime de associação para o tráfico de drogas evidencia que a agente se dedica a atividades criminosas, o que inviabiliza a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006. Todavia, a defesa nas razões do presente pleito, reitera as teses deduzidas na inicial do habeas corpus, sem infirmar em momento algum os fundamentos da decisão agravada, a atrair a incidência da Súmula n. 182 desta Corte Superior.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por LIVIA MARCHI TORRES PIGNATA contra decisão de fls. 545/547, que indeferiu liminarmente o habeas corpus, diante da inadmissível reiteração de pedidos.
+No presente recurso, a defesa repisa o pleito de possibilidade de concessão do tráfico privilegiado à ora agravante.
+Requer, assim, a reconsideração da decisão impugnada, com a concessão da ordem de ofício.
+O Ministério Público Federal - MPF manifestou-se às fls. 573/575 pelo desprovimento do agravo regimental.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. REITERAÇÃO DE PEDIDOS. PLEITO ANALISADO NOS AUTOS DO RESP N. 2.140.017/SP. FUNDAMENTO DA DECISÃO AGRAVADA NÃO INFIRMADO. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO DESPROVIDO.
+1. O decisum agravado indeferiu liminarmente o mandamus, sob o entendimento de que o pleito de concessão de tráfico privilegiado foi analisado nos autos do REsp n. 2.140.017/SP, de minha relatoria, transitado em julgado em 14/10/2024, tendo sido asseverado que a condenação pelo crime de associação para o tráfico de drogas evidencia que a agente se dedica a atividades criminosas, o que inviabiliza a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006. Todavia, a defesa nas razões do presente pleito, reitera as teses deduzidas na inicial do habeas corpus, sem infirmar em momento algum os fundamentos da decisão agravada, a atrair a incidência da Súmula n. 182 desta Corte Superior.
+2. Agravo regimental desprovido.
+VOTO
+O presente recurso não merece prosperar.
+A decisão ora agravada assim dispôs, no que interessa:
+"Conforme relatado, busca-se na presente impetração a concessão da minorante do tráfico privilegiado à paciente.
+Verifica-se que, no julgamento do REsp n. 2.140.017/SP, de minha relatoria, transitado em julgado em 14/10/2024, foram analisados os referidos pleitos, tendo sido asseverado que a condenação pelo crime de associação para o tráfico de drogas evidencia que a agente se dedica a atividades criminosas, o que inviabiliza a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006. Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. CONSTRANGIMENTO ILEGAL. ALEGADA FRAGILIDADE PROBATÓRIA. NÃO CONHECIMENTO. MATÉRIA PREVIAMENTE ANALISADA NO HC N. 711.368/SP. REITERAÇÃO DE PEDIDO. RECURSO PREJUDICADO. OPOSIÇÃO AO JULGAMENTO VIRTUAL. INEXISTÊNCIA DE INDICAÇÃO DAS RAZÕES QUE JUSTIFIQUEM O JULGAMENTO PRESENCIAL. PEDIDO DE PRÉVIA INTIMAÇÃO PARA A SESSÃO DE JULGAMENTO. INVIABILIDADE. JULGAMENTO EM MESA DO AGRAVO REGIMENTAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A questão a ser analisada nas razões do recurso especial cinge-se à pretensão defensiva de reconhecimento de que a instrução processual penal não produziu provas suficientes para amparar o desate condenatório imposto ao insurgente. Entretanto, verifico que, conforme já assinalado na decisão agravada, o sobredito pedido encontra-se prejudicado, pois trata de matéria já submetida à apreciação deste Superior Tribunal de Justiça, no julgamento do HC n. 711.368/SP, cujo acórdão, de minha relatoria, transitou em julgado em 30/10/2023.
+II - Com efeito, as teses vertidas no presente reclamo foram devidamente analisadas por ocasião do julgamento do habeas corpus acima referido, oportunidade na qual restou assinalado, de forma minuciosa, que as instâncias de origem haviam declinado, de forma motivada, as razões pelas quais concluíram que arcabouço fático-probatório comprovou, seguramente, a autoria e a materialidade delitivas, mormente porquanto os policiais, após surpreenderem o insurgente ainda na residência do casal vítima dos delitos, encontraram, ainda em sua posse, a arma utilizada no crime e o dinheiro subtraído.
+III - Dessa forma, verifico que, de fato, resta prejudicada a análise das razões do recurso especial, porquanto configurada a mera reiteração de pedidos que já foram objeto de análise por esta Corte Superior de Justiça.
+IV - Não comporta acolhimento a oposição ao julgamento virtual apresentada pelo insurgente, pois o requerimento para a não inclusão de recurso para julgamento pelo plenário virtual deve ser fundamentado, não bastando a mera oposição sem indicação das razões que justifiquem o julgamento presencial. Precedente.
+V - É incabível o pedido de intimação prévia da data de realização da sessão de julgamento do recurso, porque o julgamento do agravo regimental na esfera criminal, embora admita a sustentação oral, independe de prévia inclusão em pauta, uma vez que são levados em mesa para julgamento, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.154.733/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/2/2024, DJe de 29/2/2024.) "
+Vê-se do transcrito acima que o decisum agravado indeferiu liminarmente o mandamus, sob o entendimento de que o pleito de concessão de tráfico privilegiado foi analisado nos autos do REsp n. 2.140.017/SP, de minha relatoria, transitado em julgado em 14/10/2024, tendo sido asseverado que a condenação pelo crime de associação para o tráfico de drogas evidencia que a agente se dedica a atividades criminosas, o que inviabiliza a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Todavia, a defesa nas razões do presente pleito reitera as teses deduzidas na inicial do habeas corpus, sem infirmar em momento algum os fundamentos da decisão agravada, a atrair a incidência da Súmula n. 182 desta Corte Superior, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE RELATOR. NÃO VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. PEDIDO DE SUSTENTAÇÃO ORAL. NÃO CONFIGURAÇÃO DE CERCEAMENTO DE DEFESA. BUSCA PESSOAL. FUNDADAS SUSPEITAS DE POSSÍVEL DELITO. REVISÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO .
+1. Decisão de relator fundada no art. 34, XX, do RISTJ não afronta o princípio da colegialidade nem configura cerceamento de defesa, tendo em vista o disposto na Súmula n. 568 do STJ, ainda que inviabilize a sustentação oral da parte interessada, pois a insurgência poderá ser submetida ao órgão julgador competente mediante a interposição de agravo regimental.
+2. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+3. Incide a Súmula n. 182 do STJ quando a parte agravante não impugna especificamente todos os fundamentos da decisão agravada.
+4. Agravo regimental não conhecido.
+(AgRg no HC 624.133/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 14/12/2021).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE SE CONHECER DA IMPETRAÇÃO. FUNDAMENTO NÃO IMPUGNADO. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE REALIZADO DE ACORDO COM O ART. 42 DA LEI N. 11.343/2006.
+1. O fundamento utilizado para não se conhecer do habeas corpus, a supressão de instância, não foi impugnado nas razões do agravo regimental, atraindo a aplicação da Súmula n. 182 desta Corte.
+2. Ademais, vale consignar que não se faz evidente a ilegalidade no estabelecimento da pena-base, uma vez que sua exasperação decorreu da avaliação da grande quantidade de droga apreendida, nos termos do art. 42 da Lei n. 11.343/2006.3. Agravo regimental desprovido.
+(AgRg no HC 644.335/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 28/4/2021).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
