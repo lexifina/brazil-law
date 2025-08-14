@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 284/STF (fls. 761-763).
+Nas razões deste recurso (fls. 766-780), a parte agravante reitera as razões do especial.
+Contraminuta apresentada às fls. 786-790.
+É o relatório.
+Decido.
+O agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento, em virtude de expressa previsão legal (art. 544, § 4º, I, do CPC/1973 e art. 932, III, do CPC/2015) e da aplicação, por analogia, da Súmula n. 182/STJ.
+O Tribunal de origem inadmitiu o recurso especial, sob os seguintes motivos (fl. 763):
+No que tange aos dispositivos que os recorrentes entenderam violados (art. 489, §1º, incisos IV e VI, do CPC), não houve indicação, motivada e clara, dos pontos da lide supostamente não decididos, tampouco houve demonstração da ocorrência de erro material a merecer exame, esclarecimento ou correção. Em síntese, os recursantes almejam somente a rediscussão da matéria exposta no acórdão recorrido, o que, insofismavelmente, evidencia a falta da necessária subsunção às normas tidas como violadas, configurando, pois, ausência de requisito formal e, assim, ensejando a inadmissibilidade do recurso, por deficiência na argumentação, nos moldes da Súmula n. 284 do Supremo Tribunal Federal. Pela alínea "c" do permissivo constitucional, verifica-se que o dissídio jurisprudencial não restou caracterizado na forma exigida pelo art. 1.029, § 1º, do CPC, haja vista que os recorrentes não realizaram o cotejo analítico de forma a demonstrar as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que enseja, por analogia, a aplicação da Súmula 284 do Supremo Tribunal Federal, dada a deficiência da argumentação neste ponto (cf. STJ, Ia T., Aglnt no REsp n. 2.009.977/RJ, Rel a. Min a. Regina Helena Costa, DJe de 24/11/2022).
+No caso, não foram impugnados os fundamentos relativos à incidência da Súmula n. 284 do STF.
+Cumpre destacar que "a Corte Especial do STJ pacificou a tese jurídica no sentido de que todos os fundamentos utilizados pelo Tribunal de origem para inadmitir o recurso especial, independentemente da autonomia dos fundamentos, devem ser impugnados no âmbito do agravo em recurso especial (EAREsps 701.404/SC, 746.775/PR, e 831.326/SP, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.9.2018, DJe 30.11.2018)" (EREsp n. 1.738.541/RJ, Relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 2/2/2022, DJe de 8/2/2022). A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. CONFIRMAÇÃO. SÚMULA 168 E 182/STJ. AGRAVO DESPROVIDO.
+1. A Corte Especial, por ocasião do julgamento dos EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC (Relator para acórdão o Ministro Luis Felipe Salomão, DJe 30/11/2018), por maioria, firmou orientação no sentido de que, na interposição do agravo de que trata o art. 1.042 do CPC de 2015 (antigo art. 544 do CPC de 1973), deve o agravante impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem.
+2. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (Súmula 182/STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl nos EAREsp n. 2.291.059/SP, Relator Ministro Raul Araújo, Corte Especial, julgado em 23/4/2024, DJe de 3/5/2024.)
+Ademais, segundo a jurisprudência do STJ, "não há falar em usurpação de competência do Superior Tribunal de Justiça pela Corte a quo, sob o argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, porquanto constitui atribuição do Tribunal local, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia, a teor da Súmula 123 do STJ" (AgInt no AREsp n. 1.406.417/MS, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2019, DJe 03/6/2019).
+Assim, é inafastável a aplicação, por analogia, da Súmula n. 182 desta Corte.
+Ante o exposto, NÃ O CONHEÇO do agravo.
+Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 15% (quinze por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo e eventual gratuidade da justiça.
+Publique-se e intimem-se.
+ EMENTA
