@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DA PARAÍBA contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado (e-STJ, fl. 227):
+AGRAVO INTERNO EM APELAÇÃO. RELATOR. PETIÇÃO DO AGRAVO QUE SE LIMITOU A TECER ARGUMENTOS SOBRE O MÉRITO DA DISCUSSÃO TRAVADA NOS AUTOS, DEIXANDO DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS UTILIZADOS NO DECISUM. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE E AO DISPOSTO NO ART. 1.021, § 1º, DO CPC. IMPOSSIBILIDADE DE CONHECIMENTO DO AGRAVO. RECURSO NÃO CONHECIDO.
+1. Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, sob pena de não conhecimento do recurso. Inteligência do art. 1.021, § 1º, do Código de Processo Civil.
+2. O agravo interno interposto contra decisão do relator que julgou monocraticamente o recurso deve se fundar na alegação de que os requisitos do art. 932, IV e V, do Código de Processo Civil, não foram preenchidos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 246-253).
+Nas razões do recurso especial (e-STJ, fls. 255-266), o insurgente apontou violação aos arts. 1.010, III, 1.016, III, e 1.021, § 1º, do CPC/2015.
+Sustentou, em síntese, a não ocorrência de ofensa ao princípio da dialeticidade e que o agravo interno que infirma especificamente os fundamentos da decisão agravada, mesmo que esta seja baseada em precedente qualificado, não pode ser considerado inadmissível, de modo que é devido o julgamento do seu mérito.
+Sem contrarrazões.
+O Tribunal de origem não admitiu o recurso especial, o que levou o insurgente à interposição de agravo (e-STJ, fls. 275-273).
+Sem contraminuta.
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Corte Especial do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsp 2.043.826/SC, REsp 2.043.887/SC, REsp 2.044.143/SC e REsp 2.006.910/PA, de relatoria do Ministro Mauro Campbell Marques, julgadas em 13/6/2023, DJe 20/6/2023, delimitaram o Tema 1.201 da seguinte forma: "1) Aplicabilidade da multa prevista no § 4º do art. 1.021 do CPC quando o acórdão recorrido baseia-se em pr ecedente qualificado (art. 927, III, do CPC); 2) Possibilidade de se considerar manifestamente inadmissível ou improcedente (ainda que em votação unânime) agravo interno cujas razões apontam a indevida ou incorreta aplicação de tese firmada em sede de precedente qualificado".
+Confira-se a respectiva ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO COMO REPRESENTATIVO DA CONTROVÉRSIA. DESDOBRAMENTO DO TR 434/STJ. MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC. CRITÉRIOS DE APLICAÇÃO.
+1. Questão jurídica central (cindida em duas partes): "1) Aplicabilidade da multa prevista no § 4º do art. 1.021 do CPC quando o acórdão recorrido baseia-se em precedente qualificado (art. 927, III, do CPC); 2) Possibilidade de se considerar manifestamente inadmissível ou improcedente (ainda que em votação unânime) agravo interno cujas razões apontam a indevida ou incorreta aplicação de tese firmada em sede de precedente qualificado".
+2. Recurso especial submetido ao regime dos recursos repetitivos (afetação conjunta: REsp 2.043.826/SC, REsp 2.043.887/SC, REsp 2.044.143/SC e REsp 2.006.910/PA).
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator; II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.201/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO. ADMISSIBILIDADE. RECURSO QUE APONTA A INDEVIDA OU INCORRETA APLICAÇÃO DE TESE FIRMADA EM PRECEDENTE QUALIFICADO. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.201/STJ. PENDÊNCIA DE JULGAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
