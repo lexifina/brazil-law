@@ -1,0 +1,119 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental NO AGRAVO EM Recurso especial. ESTELIONATO. Incidência dAS súmulas N. 7 E N. 83/STJ. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo em recurso especial impugnou adequadamente os fundamentos da decisão que inadmitiu o recurso especial, especialmente em relação à incidência das Súmulas n. 284 do STF e n. 7 do STJ.
+III. Razões de decidir
+3. A decisão monocrática da Presidência do STJ aplicou corretamente a Súmula n. 182 do STJ, ao não conhecer o agravo em recurso especial por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade no Tribunal a quo.
+4. A defesa não demonstrou, de forma concreta, a inaplicabilidade da Súmula 7 do STJ, limitando-se a alegações genéricas sobre a revaloração da prova, sem indicar premissas fáticas incontroversas.
+IV. Dispositivo e tese
+5 . Agravo regimental desprovido.
+Tese de julgamento: "1. A impugnação dos fundamentos da decisão de inadmissibilidade deve ocorrer no agravo em recurso especial, sob pena de preclusão consumativa. 2. A ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial obsta o conhecimento do agravo, conforme a Súmula 182 do STJ. 3. A mera alegação genérica de inaplicabilidade da Súmula 7 do STJ não é suficiente para afastar o óbice, sendo necessária a demonstração concreta de que a tese recursal está adstrita a fatos incontroversos."
+Dispositivos relevantes citados: CPP, art. 580; CPC/2015, art. 932, III.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.392.824/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023; STJ, AgRg no AREsp 1965463/GO, Rel. Min. Laurita Vaz, Sexta Turma, DJe 4/11/2021; STJ, AgRg no AREsp 1827996/PR, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 16/8/2021.
+RELATÓRIO
+Cuida-se de agravo regimental interposto pela defesa de VIVIANE BOFFI EMILIO contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ.
+No presente agravo regimental, a defesa repisa os argumentos anteriormente apresentados no recurso, no sentido que os requisitos para a admissão do recurso estão preenchidos e que a parte agravante impugnou todos os fundamentos da decisão.
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento.
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental NO AGRAVO EM Recurso especial. ESTELIONATO. Incidência dAS súmulas N. 7 E N. 83/STJ. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo em recurso especial impugnou adequadamente os fundamentos da decisão que inadmitiu o recurso especial, especialmente em relação à incidência das Súmulas n. 284 do STF e n. 7 do STJ.
+III. Razões de decidir
+3. A decisão monocrática da Presidência do STJ aplicou corretamente a Súmula n. 182 do STJ, ao não conhecer o agravo em recurso especial por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade no Tribunal a quo.
+4. A defesa não demonstrou, de forma concreta, a inaplicabilidade da Súmula 7 do STJ, limitando-se a alegações genéricas sobre a revaloração da prova, sem indicar premissas fáticas incontroversas.
+IV. Dispositivo e tese
+5 . Agravo regimental desprovido.
+Tese de julgamento: "1. A impugnação dos fundamentos da decisão de inadmissibilidade deve ocorrer no agravo em recurso especial, sob pena de preclusão consumativa. 2. A ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial obsta o conhecimento do agravo, conforme a Súmula 182 do STJ. 3. A mera alegação genérica de inaplicabilidade da Súmula 7 do STJ não é suficiente para afastar o óbice, sendo necessária a demonstração concreta de que a tese recursal está adstrita a fatos incontroversos."
+Dispositivos relevantes citados: CPP, art. 580; CPC/2015, art. 932, III.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.392.824/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023; STJ, AgRg no AREsp 1965463/GO, Rel. Min. Laurita Vaz, Sexta Turma, DJe 4/11/2021; STJ, AgRg no AREsp 1827996/PR, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 16/8/2021.
+VOTO
+A parte que se considerar agravada por decisão de relator poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+No recurso especial, a agravante trouxe as seguintes teses: a) a representação das vítimas de estelionato é imprescindível, mesmo para denúncias oferecidas antes da vigência da nova lei; b) quebra da cadeia de custódia; c) que o acordo de delação premiada não foi registrado por meio audiovisual; d) atipicidade do crime de lavagem de dinheiro; e) os aumentos das penas base foram feitos sem critério, bem como as circunstâncias utilizadas para aumentar as penas não foram devidamente fundamentadas.
+Pois bem.
+Inicialmente, consoante consta na decisão agravada, para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário o reexame de fatos e provas da causa, não bastando a assertiva genérica de que o recurso visa a revaloração das provas.
+No caso sub examine, a apreciação da atipicidade do delito de lavagem de dinheiro exigiria, necessariamente, a incursão no acervo fático-probatório, providência vedada na via eleita. Tal conclusão encontra respaldo na fundamentação exarada pelo Tribunal de origem, que manteve a condenação lastreada nas provas obtidas por meio da vasta documentação juntada aos autos e corroboradas pelos depoimentos das vítimas e das testemunhas, elementos que, de forma convergente, evidenciam a autoria delitiva imputada à agravante e a materialidade do delito.
+Outrossim, verifica-se que os aumentos das penas-base com fundamento na personalidade, bem como as demais circunstâncias do artigo 59 do CP, foram devidamente fundamentados em fatos dos autos, sendo os fundamentos idôneos aos aumentos aplicados. Não há ausência de fundamentação, tampouco fundamentos dissociados dos autos. Os fundamentos são razoáveis e os aumentos proporcionais.
+Logo, o pedido de absolvição, bem como de redução da pena-base, como quer a defesa, exigiria o reexame dos fatos e das provas produzidas nos autos, e não questões de direito ou de má aplicação da lei federal.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ÓBICES DAS SÚMULAS N. 284 DO STF E N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ, devido à ausência de impugnação específica dos fundamentos pelos quais o Tribunal de origem inadmitiu o recurso especial, incidindo as Súmulas n. 284 do STF e n. 7 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo em recurso especial impugnou adequadamente os fundamentos da decisão que inadmitiu o recurso especial, especialmente em relação à incidência das Súmulas n. 284 do STF e n. 7 do STJ.
+III. Razões de decidir
+3. A decisão monocrática da Presidência do STJ aplicou corretamente a Súmula 182 do STJ, ao não conhecer o agravo em recurso especial por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade no Tribunal a quo.
+4. A defesa não demonstrou, de forma concreta, a inaplicabilidade da Súmula 7 do STJ, limitando-se a alegações genéricas sobre a revaloração da prova, sem indicar premissas fáticas incontroversas.
+5. A mera alegação de que a fundamentação foi clara e bem fundamentada não é suficiente para afastar a incidência da Súmula n. 284 do STF diante do constatado vício da peça recursal que apontou artigo de lei federal violado sem o motivo correspondente, sendo defeso inovar no agravo regimental para sanar a deficiência em razão da preclusão consumativa.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A impugnação dos fundamentos da decisão de inadmissibilidade deve ocorrer no agravo em recurso especial, sob pena de preclusão consumativa. 2. A ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial obsta o conhecimento do agravo, conforme a Súmula 182 do STJ. 3. A mera alegação genérica de inaplicabilidade da Súmula 7 do STJ não é suficiente para afastar o óbice, sendo necessária a demonstração concreta de que a tese recursal está adstrita a fatos incontroversos."
+Dispositivos relevantes citados: CPP, art. 580; CPC/2015, art. 932, III. Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.392.824/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023; STJ, AgRg no AREsp 1965463/GO, Rel. Min. Laurita Vaz, Sexta Turma, DJe 4/11/2021; STJ, AgRg no AREsp 1827996/PR, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 16/8/2021.
+(AgRg no AREsp n. 2.632.127/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. ALEGAÇÃO DE AUSÊNCIA DE DOLO. AUTORIA. FUNDAMENTAÇÃO DO DECRETO CONDENATÓRIO. PROVAS INQUISITIVAS E JUDICIAIS. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Bruno Silva Santos contra decisão que não conheceu do agravo em recurso especial, ao fundamento de que a análise das teses defensivas - ausência de dolo e insuficiência de provas para a condenação - demandaria reexame do conjunto fático-probatório, vedado pela Súmula 7 do STJ.
+O agravante pleiteia a absolvição por ausência de comprovação da ciência sobre a origem ilícita dos valores recebidos, invocando violação ao art. 1º da Lei n. 9.613/1998.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é possível o conhecimento de recurso especial que busca absolvição com base na alegação de ausência de dolo no crime de lavagem de dinheiro, sem incorrer no reexame de fatos e provas, à luz da jurisprudência consolidada do Superior Tribunal de Justiça.
+III. RAZÕES DE DECIDIR
+3. A alegação de que o réu desconhecia a origem ilícita dos valores e que não agiu com dolo exige reexame da prova testemunhal, documental e pericial produzida nos autos, incluindo o cotejo entre os elementos da fase inquisitorial e os confirmados judicialmente, procedimento vedado em sede de recurso especial, conforme a Súmula 7/STJ.
+4. A decisão agravada fundamentou-se corretamente no entendimento de que o dolo, enquanto elemento subjetivo do tipo penal, deve ser aferido com base no conjunto probatório e nos elementos objetivos da conduta, sendo sua rediscussão incabível nesta instância.
+5. A jurisprudência desta Corte é firme no sentido de que a tese de ausência de dolo em crimes de lavagem de dinheiro, para ser acolhida, requer inevitavelmente revolvimento probatório, sobretudo quando as instâncias ordinárias expressamente reconheceram a sua existência com base na prova judicial.
+6. A impugnação apresentada no agravo não enfrentou especificamente os fundamentos da decisão agravada, limitando-se à repetição de argumentos genéricos já deduzidos no recurso especial, o que não supera o óbice processual.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Tese de julgamento:
+A tese de ausência de dolo no crime de lavagem de dinheiro, quando refutada pelas instâncias ordinárias com base em provas judiciais, não pode ser reapreciada em recurso especial, por implicar reexame fático-probatório, vedado pela Súmula 7/STJ.
+A impugnação genérica aos fundamentos da decisão que inadmitiu o recurso especial é insuficiente para o conhecimento do agravo, devendo a parte demonstrar, de forma clara e objetiva, a desnecessidade de revolvimento probatório.
+A simples revaloração das provas, sem alteração do conjunto fático estabelecido pelas instâncias ordinárias, já constitui óbice ao recurso especial quando exige novo juízo sobre a existência de dolo ou sobre a suficiência da prova.
+(AgRg no AREsp n. 2.749.465/DF, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. DOSIMETRIA DA PENA. DESPROPORCIONALIDADE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ. Os agravantes foram condenados pela prática dos delitos descritos no artigo 121, §2º, incisos I, III e IV, e art. 211, ambos do Código Penal, com penas fixadas em 19 anos e 6 meses e 17 anos e 6 meses de reclusão, respectivamente, após reavaliação em segunda instância.
+2. No recurso especial, os agravantes alegam violação ao artigo 59 do Código Penal, argumentando que os elementos usados para a negativação dos vetores se inserem entre aqueles inerentes ao tipo penal, configurando desproporcionalidade na dosimetria da pena. O recurso especial foi inadmitido com base na Súmula n. 7 do STJ, por demandar revolvimento fático-probatório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a dosimetria da pena, ao considerar elementos inerentes ao tipo penal para negativação dos vetores, configura desproporcionalidade que justifique a revisão da pena em sede de recurso especial.
+III. Razões de decidir
+4. A dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, devendo ser realizada de acordo com os parâmetros preestabelecidos pelo legislador. A revisão excepcional da dosimetria só cabe quando evidenciada flagrante ilegalidade ou desproporcionalidade, o que não se identifica no caso.
+5. A desconstituição da conclusão das instâncias de origem sobre a legalidade e proporcionalidade da exasperação da pena-base demandaria revolvimento de matéria fático-probatória, vedado em recurso especial pela Súmula 7 do STJ.
+6. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar a insatisfação com a decisão questionada.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A dosimetria da pena realizada pelas instâncias ordinárias só pode ser revista em sede de recurso especial quando evidenciada flagrante ilegalidade ou desproporcionalidade. 2. A pretensão de reexame de prova não enseja recurso especial, conforme Súmula 7 do STJ".
+Dispositivos relevantes citados: Código Penal, art. 59; RISTJ, art. 253, parágrafo único, I. Jurisprudência relevante citada: STJ, AgRg no AREsp 2483375 MT, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 03.09.2024; STJ, AgRg no REsp 2.100.067/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 06.08.2024.
+(AgRg no AREsp n. 2.459.517/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.)
+Sobre a representação das vítimas no estelionato, a conclusão exarada pela Corte de origem se coaduna com a jurisprudência deste Tribunal Superior, pois, esta Quinta Turma já decidiu que os efeitos da Lei n. 13.964/2019 não podem atingir o ato jurídico perfeito e acabado (oferecimento da denúncia), de modo que a retroatividade da representação no crime deve se restringir à fase policial, não alcançando o estelionato processo, pois, "do contrário, estar-se-ia conferindo efeito distinto ao estabelecido na nova regra, transformando-se a representação em condição de prosseguibilidade e não procedibilidade" (HC n. 573.093/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 18/6/2020; AgRg no HC n. 603.062/RN, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 25/8/2020).
+De mais a mais, o Supremo Tribunal Federal - STF pacificou a divergência até então existente entre suas Turmas e, por maioria, proclamou a retroatividade da lei nova, mesmo após o recebimento da denúncia anterior à Lei n. 13.964/2019. Precedente: HC 208.817 AgRg, Relatora Ministra Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023, DJe 2/5/2023. Neste precedente restou assentado que "a retroatividade da lei deve ser aplicada apenas àqueles casos em que não haja demonstração inequívoca do interesse da vítima na persecução penal. Ainda assim, se inexistentes elementos indicativos da vontade da vítima na persecução penal, deve o magistrado proceder à intimação dos ofendidos para que apresentem eventual representação" (AgRg no AgRg no AREsp n. 2.468.274/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024).
+No caso dos autos, as vítimas registraram boletim de ocorrência e manifestaram interesse na apuração dos fatos, bem como na punição dos responsáveis (fl. 5393).
+Cabe ressaltar que a representação, nos crimes de ação penal pública condicionada, prescinde de formalidades. Dessa forma, pode ser depreendida do boletim de ocorrência e de declarações prestadas em juízo (AgRg no REsp 1.912.568/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 20/4/2021, DJe 30/4/2021).
+Acerca da alegada quebra da cadeia de custódia, observa-se, novamente, que a conclusão exarada pelo Tribunal a quo se coaduna com a jurisprudência desta Corte Superior de Justiça sobre o tema, pois, tratando-se de fato ocorrido em 2011, ainda não estavam em vigor os arts. 158-A e seguintes do Código de Processo Penal - CPP, que tratam sobre a cadeia de custódia da prova, introduzidos pela Lei n. 13.964, de 24/12/2019. Aplica-se à hipótese, o princípio tempus regit actum, previsto no art. 2º do CPP, segundo o qual a lei processual penal aplicar-se-á desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.
+Extrai-se, ainda, do acórdão recorrido que a questão da delação premiada estaria preclusa, pois não arguida em momento oportuno. Com efeito, em respeito à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que as nulidades, ainda quando denominadas absolutas, devem ser arguidas em momento oportuno, bem como qualquer outra falha ocorrida no julgamento, sujeitando-se à preclusão temporal. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO. PREJUDICIALIDADE. ARGUMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. ARGUMENTAÇÃO DEFENSIVA NÃO TRATADO NA DECISÃO AGRAVADA. INOVAÇÃO RECURSAL. SESSÃO PLENÁRIA DO TRIBUNAL DO JÚRI. REALIZAÇÃO COM 13 JURADOS.
+ASSENTIMENTO DA DEFESA. NULIDADE ABSOLUTA NÃO ARGUÍDA NO MOMENTO OPORTUNO. PRECLUSÃO TEMPORAL. NULIDADE DE ALGIBEIRA. PRÁTICA NÃO TOLERADA PELA JURISPRUDÊNCIA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula n. 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. No caso, observa-se que a decisão agravada entendeu que a superveniência de sentença condenatória prejudica a tese de excesso de prazo, porém, o agravante deixou de impugnar, de forma especifica tal fundamento, limitando-se a repetir as razões trazidas na inicial do recurso em habeas corpus.
+3. Quanto ao argumento de que o ora agravante deveria ter sido informado pessoalmente de que não havia o quórum mínimo de jurados presentes para que se manifestasse, observa-se que tal questão não foi não foi tratada na decisão impugnada, eis que não trazida no arrazoado do recurso em habeas corpus, configurando-se hipótese de inovação recursal, o que impede sua análise em sede de agravo regimental.
+4. Em relação à pretensa nulidade, observa-se dos autos, que a defesa assentiu com a realização da Sessão Plenária com o número de jurados presentes, conforme a Ata de Julgamento. Ora, não se vislumbra, nesta sede mandamental, razão ao recorrente, pois ocorreu a preclusão da matéria, uma vez que a pretensa nulidade não foi arguída no momento oportuno.
+5. Convém registrar que a jurisprudência desse Superior Tribunal de Justiça em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+6. Por fim, o atendimento ao pleito defensivo resultaria em implícita aceitação da chamada "nulidade de algibeira" - aquela que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada, como estratégia, numa perspectiva de melhor conveniência futura. Ressalta-se, a propósito, que tal atitude não encontra ressonância no sistema jurídico vigente, pautado no princípio da boa-fé processual, que exige lealdade de todos os agentes processuais.
+7. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no RHC 164.625/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 20/10/2022.)
+Dessa maneira, às teses analisadas acima, incide a Súmula 83 do Superior Tribunal de Justiça, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", também aplicável ao recurso interposto pela alínea a do artigo 105, inciso III, da Constituição da República, conforme se lê do seguinte julgado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. DOSIMETRIA DA PENA. ATENUANTE. FIXAÇÃO DA PENA EM PATAMAR ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INEXISTÊNCIA DE ARGUMENTAÇÃO PARA SUPERAÇÃO DA JURISPRUDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do enunciado n. 231 desta Corte, é inviável a aplicação de circunstâncias atenuantes para fins de redução da pena a patamar aquém do mínimo legal.
+2. Dessa forma, o acórdão recorrido está em consonância com a jurisprudência desta Corte, de modo a atrair a incidência do Verbete n. 83 da Súmula do STJ, que também se aplica aos recursos especiais interpostos pela alínea "a" do permissivo constitucional.
+3. Ressalta-se que inexiste argumentação capaz de demonstrar a necessidade de superação da jurisprudência consolidada desta Corte Superior.
+4. Agravo regimental desprovido.
+(AgRg no R Esp 1895014/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 1º /12/2020, DJe 3/12/2020; grifou-se)
+Ante o exposto, nego provimento ao agravo regimental
+É o voto.
