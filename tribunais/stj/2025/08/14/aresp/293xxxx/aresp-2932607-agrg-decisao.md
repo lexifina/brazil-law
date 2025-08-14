@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se  de  agravo regimental interposto  por  FABIANO NOGUEIRA MANGABEIRA  contra  decisão da Presidência do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial, ante a aplicação da Súmula n. 182/STJ (fls. 205-206).
+Em suas razões alega a Defesa que o conhecimento da tese meritória, relacionada à pretensa declaração de extinção da punibilidade independentemente do pagamento da pena de multa, não demanda o revolvimento probatório, sendo inaplicável à espécie o óbice da Súmula n. 7 do STJ (fls. 211-217).
+A Procuradoria-Geral da República manifestou-se pelo provimento do recurso especial (fls. 238-242).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, reconsidero a decisão de fls. 205-206 com fundamento no art. 259 do RISTJ, motivo pelo qual passo à análise do recurso especial.
+A questão sub examine cinge-se à possibilidade de declaração da extinção da punibilidade quando, impostas cumulativamente penas privativa de liberdade e de multa, ainda não foi integralmente cumprida a primeira.
+Inicialmente impõe-se esclarecer que a extinção da punibilidade diz respeito ao direito público de perseguir as condutas delitivas praticadas e não, propriamente, às penas impostas. Essa conclusão pode ser extraída, inclusive, do art. 108 do Código Penal, que estatui:
+"A extinção da punibilidade de crime que é pressuposto, elemento constitutivo ou circunstância agravante de outro não se estende a este. Nos crimes conexos, extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão." (sem grifos no original)
+De fato, perpetrada uma conduta típica, ilícita e culpável - teoria analítica de delito, se concretiza em favor do Estado o direito de punir o delinquente.
+Esse direito subjetivo estatal perdura enquanto não sobrevier alguma causa legal de extinção da punibilidade, previstas no art. 107 do Código Penal e em outros dispositivos legais, v. g., o art. 89, § 5º, da Lei n. 9.099/1995, as quais possuem o condão de romper o nexo jurídico existente entre a conduta que se amolda a determinado tipo penal incriminador e sua consequência legal, prevista no respectivo preceito secundário.
+Assim, embora o direito de punir esteja intrinsicamente ligado à possibilidade de o Estado, por meio de devido processo legal, impor e executar a pena, não se pode confundir o ius puniendi estatal, que é o fundamento da persecução penal, com a pena, que é a consequência jurídica da violação à norma.
+É bem por isso que a Terceira Seção do Superior Tribunal de Justiça, ao julgar o REsp 2.024.901/SP, submetido à sistemática dos recursos repetitivos, deu nova redação ao Tema 931, que passou a dispor:
+"O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária". (Rel. Ministro Rogério Schietti Cruz, julgado em 28/2/2024, DJe de 1/3/2024)
+Tal entendimento, aliás, encontra sintonia com o art. 29, parágrafo único, da Resolução n. 425, de 8/10/2021, do Conselho Nacional de Justiça, que dispõe:
+Art. 29. Deverá ser observada a vulnerabilidade decorrente da situação de rua no momento de aplicação da pena, evitando-se a aplicação da pena secundária de multa.
+Parágrafo único. No curso da execução criminal, cumprida a pena privativa de liberdade e verificada a situação de rua da pessoa egressa, deve-se observar a possibilidade de extinção da punibilidade da pena de multa. (sem grifos no original)
+Na espécie, conforme se extrai do acórdão recorrido, ainda não foi integralmente cumprida a pena privativa de liberdade, in verbis (fls. 134-135 - grifamos):
+Como é da competência do STJ a interpretação da lei federal, este relator volta a esse entendimento, para estabelecer que, cuidando-se de sentenciado representado pela Defensoria Pública e, portanto, pobre, está comprovada a impossibilidade de realizar o pagamento da multa.
+Entretanto, em que pese esta condição de pobreza, não se demonstrou, nos autos, a extinção da pena privativa de liberdade imposta. Consoante consulta, através do e-Saj, observa-se que o réu, ora agravante, encontra-se no cumprimento da pena imposta, pela prática de tráfico de drogas, constando como egresso, diante do livramento condicional concedido no último dia 18 de junho, donde se vê que a execução da pena carcerária está em andamento.
+Conforme se infere do julgado mencionado: "(..) nos casos em que haja condenação a pena privativa de liberdade e multa, cumprida a primeira (ou a restritiva de direitos que eventualmente a tenha substituído), o inadimplemento da sanção pecuniária não obsta o reconhecimento da extinção da punibilidade".
+Nesta senda, considerando não ter ocorrido o cumprimento integral da pena carcerária imposta, fica evidenciada a impossibilidade de aplicação do precedente vinculante, vez que a situação sub judice não se subsumi aos seus parâmetros de incidência.
+Como visto, a possibilidade de extinção da punibilidade da pena de multa criminal está condicionada ao prévio cumprimento da sanção privativa de liberdade cumulativamente imposta ou daquela pela qual fora substituída.
+Na espécie, portanto, ainda não cumprida integralmente a pena privativa de liberdade, é prematura a discussão sobre a possibilidade de extinção da punibilidade, ainda que não adimplida a sanção pecuniária em razão de eventual hipossuficiência do reeducando.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
