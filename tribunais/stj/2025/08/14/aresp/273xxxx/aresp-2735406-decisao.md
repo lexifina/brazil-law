@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por DANIEL SANTOS DA LUZ contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1500857-44.2022.8.26.0537 (fls. 216/223).
+No recurso especial, o agravante requer: a) fixação de regime mais brando, apontando a violação do 33, § 2º, do Código Penal, ao argumento da ilegalidade da fundamentação, baseada na gravidade abstrata; b) a detração penal, apontando a violação do art. 387, § 2º, do Código de Processo Penal (fls. 231/238).
+Apresentadas as contrarrazões (fls. 242/248), o Tribunal de origem não admitiu o recurso com suporte nos óbices da Súmula 283/STF, além da Súmula 7/STJ (fls. 251/253).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo e, caso conhecido, pelo não provimento do agravo (fls. 283/288).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Todavia, idônea a incidência da Súmula 283/STF ao caso.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando referidos óbices, porquanto a parte agravante deixou de impugnar especificamente todos os fundamentos da decisão recorrida, o que impediu o seu conhecimento, por ausência de requisito de admissibilidade.
+No tocante ao pleito para fixação de regime mais brando, observa-se que a Corte de origem manteve o regime mais gravoso (fechado), ainda que o agravante tenha sido condenado à pena de 5 anos e 10 meses de reclusão, em razão de sua comprovada reincidência. Portanto, trata-se de fundamento idôneo, não revelado nas razões do recurso especial.
+Dessa forma, a despeito dos argumentos do agravante, sobre a ausência de fundamentação, ou fundamentação baseada na gravidade abstrata, para a fixação de regime mais gravoso, tem-se, de fato, verificada a incidência do óbice da Súmula 283/STF. A parte agravante deixou de impugnar adequadamente, a decisão que negou admissibilidade ao apelo nobre e de demonstrar como a decisão atacada teria violado lei federal, trata-se de impugnação meramente formal, insuficiente da suprir o ônus processual da impugnação específica dos fundamentos da decisão recorrida.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. Destarte, há de se reconhecer o óbice da Súmula 283/STF à espécie, no sentido de que é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, também aplicado por analogia em sede de recurso especial.
+Quanto ao pleito para a detração penal, incide, igualmente a Súmula 283/STF. Sendo a pena fixada entre 4 e 8 anos, a reincidência do agravante é circunstância que torna inócua a detração prevista no art. 387, § 2º, do Código de Processo Penal.
+A propósito: AgRg no AREsp n. 1.861.262/SP, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 28/6/2021.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (2 G DE MACONHA E 2 G DE COCAÍNA). PLEITO PARA ABRANDAMENTO DE REGIME. REINCIDÊNCIA. IMPUGNAÇÃO DEFICIENTE. PLEITO PARA DETRAÇÃO PREVISTA NO ART. 387, § 2º, DO CÓDIGO DE PRO CESSO PENAL. INVIABILIDADE DE MODIFICAÇÃO. PROVIDÊNCIA INÓCUA. SÚMULA 7/STJ. SÚMULA 283/STF.
+Agravo conhecido para não conhecer do recurso especial.
