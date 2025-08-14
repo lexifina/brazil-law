@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por aplicação das Súmulas n. 5 e 7 do STJ (fls. 386-389).
+O acórdão recorrido está assim ementado (fl. 224):
+APELAÇÃO CÍVEL. REVISIONAL. CONTRATO DE COMPRA E VEN DA DE MILHO SEM PAGAMENTO PRÉVIO. SAFRA FUTURA. NÃO INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. CONTRATO ALEATÓRIO. CLÁUSULA PENAL. REDUÇÃO. POSSIBILIDADE. APELO E RECURSO ADESIVO DESPROVIDOS. HONORÁRIOS RECURSAIS MAJORADOS.
+I - O contrato de compra e venda de safra futura de milho firmado entre as partes é tipicamente aleatório, sendo que as adversidades climáticas integram o risco do negócio, afastada a tese de exceção do contrato não cumprido. De modo que a manutenção do contrato faz incidir as cláusulas penais moratória e/ou compensatórias, que, por sua vez, não repelem a possibilidade de discussão judicial sobre a legitimidade dos encargos. Assim, a despeito de ser a cláusula penal elemento oriundo de convenção entre os contratantes, sua fixação não fica ao total e ilimitado alvedrio destes, porquanto o atual Código Civil, diferentemente do diploma revogado, introduziu normas de ordem pública, imperativas e cogentes, que possuem o escopo de preservar o equilíbrio econômico financeiro da avença, afastando o excesso configurador de enriquecimento sem causa de qualquer uma das partes. Precedentes.
+II - Nos termos do art. 413 do Código Civil, a cláusula penal há de ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio.
+III - Apelo e recurso adesivo desprovido.
+IV - Honorários recursais majorados em favor da parte demandante.
+Os embargos de declaração foram rejeitados (fls. 242-254).
+Nas razões do recurso especial (fls. 258-267), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente apontou ofensa aos seguintes dispositivos de lei:
+(a) arts. 104, 421 e 422 do CC/2002, porque "tanto as cláusulas contratuais quanto a conversão foram realizadas, em consonância com as legislações vigentes e ajustadas dentro do espírito de livre negociação, com agente capaz, objeto licito, assim em face do princípio "pacta sunt servanda" deve ser cumprida tal como formalizado" (fl. 264),
+(b) arts. 809 do CPC/2015 e 412 e 413 do CC/2002, pois "o Recorrido assumiu que realizaria a entrega do produto negociado nas datas avençadas, acordando para tanto, os valores da multa e da cláusula penal para o caso do descumprimento, e após inadimplência busca esquivar-se do cumprimento de sua obrigação, o que não se pode admitir" (fl. 266). Afirmou que "serve a cláusula penal de 50% para suprir as perdas e danos causados com a não entrega da mercadoria, vez que uma vez não entregue o produto, a empresa Recorrente teve que adquirir pelo preço atual de mercado o produto para cumprir com as obrigações assumidas com terceiros" (fl. 265),
+(c) arts. 85, § 11, e 86 do CPC/2015, uma vez que, tendo o recorrido decaído da maioria dos pedidos, deveria responder pelos honorários de sucumbência. Além disso, o recurso adesivo teria sido desprovido, de forma que a verba honorária deveria ser majorada também em relação ao recorrido.
+Contrarrazões às fls. 379-383.
+No agravo (fls. 393-399), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (fls. 400-403).
+É o relatório.
+Decido.
+Quanto à questão de fundo, o Tribunal de origem assim decidiu a controvérsia (fls. 219-220):
+Com efeito, sem desconhecer a natureza aleatória do contrato celebrado entre as partes, sujeito a evento futuro e incerto, comungo do entendimento de que a cláusula penal compensatória fixada em 50% (cinquenta por cento) do valor do produto não entregue se mostra excessivamente onerosa diante das peculiaridades do contrato, onde a requerida apelante não dispensou nenhum valor econômico, mão de obra ou qualquer outra forma de contribuição no processo produtivo da safra do milho fulminada pelas adversidades climáticas.
+Assim, correta a aplicação do art. 413 do Código Civil, segundo o qual a cláusula penal deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio.
+Destaca-se, portanto, que sob a égide do Código Civil de 2002, a redução da cláusula penal pelo magistrado deixou de traduzir uma faculdade restrita às hipóteses de cumprimento parcial da obrigação e passou a consubstanciar um poder/dever de coibir os excessos e os abusos que venham a colocar o devedor em situação de inferioridade desarrazoada.
+Ainda, repetiu os fundamentos da sentença, entendendo que, embora o percentual da multa moratória não seja abusivo, deve ser afastada sua vinculação ao valor atual do produto, exceto se for menor que o previsto no contrato.
+A conclusão a que chegou o TJGO decorreu da interpretação do contrato firmado entre as partes, bem como do exame dos demais elementos fáticos do processo.
+Decidir de outro modo demandaria reinterpretação das cláusulas contratuais, bem como revisão de todo o conjunto fático-probatório, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+No que diz respeito à sucumbência, é firme a jurisprudência desta Corte no sentido de que verificar a extensão do decaimento das partes, para fins de distribuição das despesas processuais e dos honorários advocatícios, também enseja reexame de elementos fáticos, o que, repito, é incabível no âmbito do especial por óbice da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS MONITÓRIOS. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. VIOLAÇÃO AO ART. 489 NÃO EVIDENCIADA. ACÓRDÃO ESTADUAL FUNDAMENTADO. NULIDADE DO DECISUM NÃO EVIDENCIADA. RESPEITO AOS LIMITES DA INICIAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. SUCUMBÊNCIA RECÍPROCA. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA 7/STJ. AGRAVO PROVIDO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não se admitir a revisão do quantitativo em que autor e réu decaíram do pedido ou a verificação de sucumbência mínima ou recíproca para efeito de fixação de honorários advocatícios, por implicar reexame de matéria fático- probatória, procedimento vedado pela Súmula n. 7 do STJ" (AgInt no AREsp n. 2.355.302/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+5. Agravo interno provido para reconsiderar a decisão e, em novo exame, conhecer do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp n. 2.563.643/MT, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/8/2024, DJe de 2/9/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO MÉDICO. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. DANO MORAL. NÃO CONFIGURAÇÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CONTEXTO FÁTICO. REEXAME. SÚMULA Nº 7/STJ.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1915778/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2021, DJe de 16/12/2021.)
+Em relação à necessidade de aplicação do art. 85, § 11, do CPC/2015, em razão do desprovimento do recurso adesivo, importante consignar que só é possível a majoração de verba anteriormente fixada. No caso, o ora recorrido, na sentença, não havia sido condenado ao pagamento de honorários, de forma que não há falar em majoração.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
