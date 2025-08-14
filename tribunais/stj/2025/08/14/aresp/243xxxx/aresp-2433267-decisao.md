@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TOPO INVESTIMENTOS AGENTE AUTÔNOMO DE INVESTIMENTOS LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 7 e 83 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em apelação cível nos autos de execução de título executivo extrajudicial.
+O julgado foi assim ementado (fl. 268):
+APELAÇÃO CÍVEL - EXECUÇÃO DE CONTRATO - INCOMPETÊNCIA DO JUÍZO COM BASE NA CLÁUSULA ARBITRAL - EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO - NECESSIDADE. - Existindo cláusula arbitral no contrato celebrado entre as partes, deve ser extinto o processo, sem resolução de mérito, nos termos do art. 485, VII, do CPC.
+Os embargos de declaração opostos foram rejeitados nestes termos (fl. 285):
+EMBARGOS DE DECLARAÇÃO EM JULGAMENTO DE RECURSO DE APELAÇÃO - ACÓRDÃO RECORRIDO - INEXISTENCIA DOS VÍCIOS DESCRITOS NO ART. 1022 DO CPC - REJEIÇÃO. O art. 1022 do novo CPC é claro ao dispor, mantendo o entendimento legislativo anterior, que os embargos declaratórios são cabíveis apenas para (I) esclarecer obscuridade ou eliminar contradição, (II) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou (III) corrigir erro material, não tendo, como regra, caráter substitutivo, modificador ou infringente do julgado. A ausência da demonstração de quaisquer destes vícios conduz à rejeição dos embargos de declaração. A renovação da argumentação sobre o mérito do recurso, e pedido de seu exame não constituem objeto apto aos embargos de declaração, mas requerimento de rejulgamento.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 783, 784, III, e 786, parágrafo único, do Código de Processo Civil, pois, apesar da cláusula compromissória, o contrato firmado constitui título revestido de certeza, liquidez e exigibilidade, sendo, dessa feita, executável;
+b) 22-C da Lei n. 9.307/1996, porquanto, se o contrato configura, por si só, um título executivo extrajudicial, o credor não fica inibido de executá-lo judicialmente, mesmo existindo convenção de arbitragem.
+Sustenta que o Tribunal de origem, ao decidir que a existência de cláusula compromissória impede a execução de título extrajudicial no Juízo estatal, divergiu de precedentes do STJ que permitem tal execução.
+Requer o conhecimento e o provimento do recurso para que se reconheça a inexistência de óbice à execução de título certo, líquido e exigível que contenha cláusula compromissória.
+Não foram apresentadas contrarrazões (fl. 351).
+É o relatório. Decido.
+A controvérsia diz respeito a ação de execução de título extrajudicial em que a parte autora pleiteou a execução de obrigação estabelecida em contrato.
+Na sentença, o Juízo de primeiro grau julgou extinto o feito sem resolução de mérito, com base na cláusula compromissória de arbitragem presente no contrato.
+A Corte estadual manteve integralmente a sentença nestes termos (fls. 270-272, destaquei):
+Cinge-se a controvérsia na análise da competência, ou não, da Justiça Estadual para o julgamento do presente feito, tendo em vista a existência de cláusula arbitral no Contrato Preliminar com Efeito Vinculante - Confidencial e Restrito entre as partes (documento de ordem nº10).
+Pois bem. Pelo Protocolo de Genebra de 1923, do qual o Brasil é subscritor, a eleição de compromisso ou cláusula arbitral imprime às partes contratantes a obrigação de submeter eventuais conflitos à arbitragem, ficando afastada a solução judicial. Assim, desde a promulgação da Lei 9.307/96, não há qualquer dúvida que a existência de compromisso ou de cláusula arbitral constitui hipóteses de extinção do processo sem julgamento do mérito.
+Neste sentido, confira-se a lição de Humberto Theodoro Júnior:
+ ..
+Na hipótese, a cláusula 5.6 do instrumento contratual prevê que "Qualquer conflito ou controvérsia decorrente (i) da interpretação dos termos deste Contrato Preliminar; e/ou (ii) da execução das obrigações estabelecidas; e/ou (iii) da violação de qualquer dos termos e condições ora estabelecidos; que não tiver sido solucionado por meio de negociações amigáveis entre as Partes, deverá ser resolvido por meio de arbitragem ("Arbitragem"), que deverá ser conduzida na Câmara de Arbitragem do Mercado ("CAM-B3"), de acordo com os termos de seu regulamento, com a estrita observância à legislação vigente, em especial a Lei nº 9.307/96, valendo, outrossim, a presente como cláusula compromissória, nos termos do artigo 4º dessa mesma Lei. Obrigam-se, para tanto, a firmar o respectivo termo de arbitragem e a acatar a sentença arbitral que vier a ser proferida, relativa a qualquer disputa ou controvérsia eventualmente surgida".
+Não é demais ressaltar ainda que havendo disposição expressa de convenção arbitral no contrato executado, eventuais alegações de ineficácia ou invalidade dessa cláusula devem ser decididas pelo próprio árbitro, nos termos do art. 8º da lei 9.307/1996:
+ ..
+No mais, quanto à alegação da apelante de que o instrumento contratual configura título executivo extrajudicial, autônomo e carente de arbitrabilidade, tenho que também não merece prosperar. Isto, pois, não há liquidez no valor da suposta dívida oriunda do contrato, já que dependia do acerto de contas entre as partes e do cumprimento de certas obrigações, conforme prevê o próprio instrumento (Cláusulas 4.1.1 e 4.1.2), sendo certo que a despeito de o Juízo Arbitral não ser investido de poder coercitivo direto, na execução lastreada em contrato com cláusula arbitral, haverá limitação material do seu objeto de apreciação pelo magistrado togado, motivo pelo qual a discussão acerca das obrigações deve ser dirimida no juízo arbitral.
+I - Arts. 783, 784, III, e 786, parágrafo único, do CPC
+A Corte de origem, soberana na interpretação de cláusulas contratuais e na análise dos fatos e provas dos autos, concluiu que não há liquidez no valor da suposta dívida oriunda do contrato.
+Desse modo, para rever a conclusão adotada na origem e acatar a tese recursal de que o título é líquido, seria imprescindível interpretar cláusulas contratuais e reexaminar o conjunto fático-probatório dos autos, medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ.
+II - Art. 22-C da Lei n. 9.307/1996
+A questão infraconstitucional relativa à violação do art. 22-C da Lei n. 9.307/1996 não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema.
+Registre-se que o prequestionamento, pressuposto recursal indispensável para o acesso à instância superior, significa a prévia manifestação do tribunal de origem, com a emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+No caso, após detida análise dos autos, não se verifica o preenchimento do requisito do prequestionamento da tese recursal sob o viés da apontada violação do art. 22-C da Lei n. 9.307/1996.
+A ausência de debate da matéria relativa ao dispositivo legal apontado como violado, da maneira como arguida no apelo nobre, obsta o conhecimento do recurso devido à falta de prequestionamento.
+Incidem na espécie as Súmulas n. 282 e 356 do STF.
+III - Divergência jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio jurisprudencial, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ademais, a incidência de óbice sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor acaso arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
