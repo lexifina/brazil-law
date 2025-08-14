@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE ARARAS, em que defende a admissibilidade de recurso especial, manejado com base no art. 105, III, "a", da Constituição Federal, contra acórdão assim ementado (e-STJ fl. 213):
+AGRAVO DE INSTRUMENTO - Execução Fiscal - ISS - Exercícios de 2002 a 2003 - Embargos à execução - Insurgência contra decisão que deferiu o efeito suspensivo aos embargos à execução - Garantia da execução por meio de depósito integral do débito - Possibilidade de se atribuir efeito suspensivo aos embargos à execução, nos termos do artigo 919, §1º, do CPC - Preenchimento dos requisitos especiais (fumus boni iures e periculum in mora) para suspensão da execução fiscal, mantida a exigibilidade do crédito tributário - Precedentes deste Tribunal de Justiça - Decisão mantida - Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 237/241).
+No recurso especial (e-STJ fls. 224/233), a parte recorrente aponta violação do art. 16, § 1º, da Lei n. 6.830/1980, alegando que a garantia para a admissão dos embargos à execução fiscal deve ser do valor total da dívida atualizado na data do depósito.
+Ademais, sustenta ofensa aos arts. 927, III, e 932, V, "c", do CPC, ao argumento de que teria sido descumprida a orientação firmada em incidente de resolução de demandas repetitivas.
+Contrarrazões não apresentadas.
+O Tribunal de origem negou seguimento em parte ao recurso especial com base em orientação firmada em recurso repetitivo (Tema 526 do STJ). Ademais, não admitiu o recurso especial por entender incidente a Súmula 7 do STJ (e-STJ fls. 245/247), o que ensejou a interposição deste agravo em recurso especial (e-STJ fls. 249/260).
+Não oferecida contraminuta.
+Passo a decidir.
+Do que se observa, o Tribunal de origem negou seguimento em parte ao recurso especial ao fundamento de que o acórdão recorrido está em sintonia com o precedente obrigatório desta Corte Superior segundo o qual "a atribuição de efeitos suspensivos aos embargos do devedor "fica condicionada" ao cumprimento de três requisitos: apresentação de garantia; verificação pelo juiz da relevância da fundamentação (fumus boni juris) e perigo de dano irreparável ou de difícil reparação (periculum in mora)" (Tema 526 do STJ).
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial com fundamento na conformidade do acórdão recorrido com o entendimento do STJ exarado em julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Portanto, "na sistemática introduzida pelo art. 543-C do CPC/1973 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei n. 11.672/2008. Precedente: Questão de Ordem no Ag 1.154.599/SP, rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011" (AgInt no AREsp 2.661.516/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.).
+Frise-se que, no contexto dos autos, a menção na decisão a quo sobre existência de outro óbice à admissibilidade do recurso especial, referente à Súmula 7 do STJ, porquanto relacionada com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo, não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
