@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 1.311):
+APELAÇÃO CÍVEL - COBRANÇA - PREVIDÊNCIA PRIVADA - COMPLEMENTAÇÃO DE APOSENTADORIA - ÍNDICE DE CORREÇÃO -EMPREGO DO INDEXADOR MAIS ADEQUADO PARA RETRATAR A INFLAÇÃO - SÚMULA 289 DO STJ. - Os valores recebidos a título de complementação de aposentadoria devem ser atualizados monetariamente pelo coeficiente que melhor tenha expressado a variação da moeda (Real), no período em que se aplicou coeficiente da TR, inferior à realidade, nacional. - A restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha efetiva desvalorização da moeda. Inteligência da Súmula 289/STJ.
+Os embargos de declaração foram acolhidos para sanar erro material, nos termos da ementa a seguir (fl. 1.359):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - CONTRADIÇÃO - REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA - EFEITO MODIFICATIVO - IMPOSSIBILIDADE - ERRO MATERIAL - EXISTÊNCIA - ACOLHIMENTO - PREQUESTIONAMENTO.- Inexistindo omissão, contradição ou obscuridade no acórdão atacado, devem ser os embargos de declaração rejeitados, por força do artigo 535 do Código de Processo Civil.- Constatado erro material na decisão embargada, devem ser acolhidos os declaratórios para sanar o vicio.- Para fins de prequestionamento, também se pressupõe a existência de vícios, pois os embargos declaratórios não constituem o meio legal para reexaminar questões já decididas e o acerto do julgado.
+(i) art. 535 do CPC/1973, sustentando negativa de prestação jurisdicional,
+(ii) art. 557, § 1º, do CPC/1973, sob a alegação de que a apelação deveria ter sido desprovida, uma vez que a sentença adotou entendimento conforme a jurisprudência desta Corte, consolidado na Súmula n. 295/STJ,
+(iii) art. 6º da Lei n. 8.177/1991, o qual, segundo alega, expressamente autoriza a utilização da TR como índice de correção monetária para contratos privados que não possuam índices substitutivos, e
+(iv) art. 18 da Lei Complementar n. 109/2001, pois a Corte local teria desconsiderado as implicações ao equilíbrio econômico-financeiro e atuarial do plano de previdência complementar, ao afastar o índice de reajuste constante do regulamento.
+Contrarrazões apresentadas (fls. 1.447-1.462).
+O recurso foi inadmitido na origem, ensejando a interposição de agravo nos próprios autos, ao qual dei provimento para melhor exame da matéria (fl. 1.609).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, o acórdão recorrido afastou as teses de necessidade de sujeição do participante do plano de previdência complementar às regras de formação e manutenção das reservas técnicas e de incidência da Súmula n. 295/STJ, pelos seguintes fundamentos (fl. 1.317):
+As planilhas confeccionadas pelo expert nomeado pelo juízo demonstram, com solar clareza, que a aplicação da TR, nos período de maio/1999 a maio/2004, ao invés do IPCA/IBGE, causou perda do poder aquisitivo dos benefícios percebidos pelos apelantes (vide fls. 786/790).
+Daí porque é imprescindível a correta atualização dos valores percebidos a título de complementação de aposentadoria, por meio de aplicação de índices que, ainda que diversos dos previstos no regulamento do plano de benefícios, refletem o real valor da moeda, preservam o valor das contribuições efetuadas e, em consonância com os princípios gerais do Direito, evitam o enriquecimento ilícito da entidade de previdência privada em detrimento do associado. Este o sentido da Súmula 289 do STJ:
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Nada obstante, constata-se que, apesar de opostos embargos de declaração, a tese de violação do art. 557, § 1º, não foi expressamente indicada nas razões do recurso e nem enfrentada pelo Tribunal.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a incidência da Súmula n. 211/STJ.
+Quanto à questão de mérito, assiste razão à parte recorrente.
+No julgamento do REsp n. 1.663.820/SP, de minha relatoria (julgado em 22/4/2025, DJEN de 27/5/2025), a Quarta Turma deste Tribunal Superior reconheceu a validade da cláusula de regulamento de plano de previdência complementar, devidamente aprovado pelo órgão regulador, que estabelece a Taxa Referencial (TR) como índice de reajuste do benefício definido, desde que estabelecida em data anterior à vigência da Resolução n. 40/2021 do Conselho Nacional de Previdência Complementar (CNPC), como no caso dos autos.
+Confira-se a ementa do respectivo acórdão:
+DIREITO CIVIL. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO REVISIONAL. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. ÍNDICE DE REAJUSTE. BENEFÍCIO DEFINIDO. TAXA REFERENCIAL (TR). VALIDADE. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO .
+1. É válida a cláusula de regulamento de plano de previdência complementar, devidamente aprovado pelo órgão regulador, que estabelece a Taxa Referencial (TR) como índice de reajuste do benefício definido, estabelecida em data anterior à vigência da Resolução n. 40/2021 do Conselho Nacional de Previdência Complementar (CNPC).
+2. Nos regulamentos posteriores à Resolução n. 40/2021 do CNPC, as entidades fechadas de previdência complementar devem adotar índices de atualização dos benefícios que efetivamente reflitam a variação inflacionária, se o critério de atualização dos benefícios, com características de benefício definido, adotar índice de preço.
+3. Recurso especial parcialmente conhecido e desprovido.
+(REsp n. 1.663.820/SP, de minha relatoria, Quarta Turma, julgado em 22/4/2025, DJEN de 27/5/2025.)
+Ante o exposto, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para restabelecer a sentença de improcedência do pedido dos autores (fls. 1.215-1.216 ).
+Publique-se e intimem-se.
+ EMENTA
