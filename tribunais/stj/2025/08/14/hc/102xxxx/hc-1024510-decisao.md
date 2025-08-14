@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de PEDRO HENRIQUE CAMPOS SILVA e CARLOS PAULO DE SOUZA - condenados por roubos circunstanciados e corrupção de menores a 19 anos de reclusão, e 30 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Pernambuco (fls. 12/24), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação proferida na Ação Penal n. 0000301-91.2024.8.17.5001 (fls. 47/56, da 1ª Vara dos Crimes contra Criança e Adolescente da comarca de Recife/PE), com o reconhecimento do concurso formal próprio, sustentando que não houve desígnios autônomos, mas sim unidade de contexto criminoso (fls. 5/9).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a pretensão de reconhecimento do concurso formal próprio foi afastada pelo acórdão ao considerar que houve desígnios autônomos, com abordagens individualizadas e ameaças específicas a cada vítima, configurando concurso formal impróprio (fl. 18). Então, concluir de forma diversa do acórdão hostilizado demandaria reexame de fatos e provas, providência vedada na via eleita (AgRg no HC n. 861.994/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBOS CIRCUNSTANCIADOS E CORRUPÇÃO DE MENORES. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
