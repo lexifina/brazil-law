@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher os embargos, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL. ESTELIONATO CONTRA IDOSOS. ART. 171, § 4º, DO CÓDIGO PENAL. ALEGAÇÃO DE OMISSÃO NA DOSIMETRIA DA PENA. CAUSA DE AUMENTO DEVIDAMENTE FUNDAMENTADA. INEXISTÊNCIA DE BIS IN IDEM. APERFEIÇOAMENTO DO JULGADO SEM EFEITOS INFRINGENTES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM ALTERAÇÃO DO RESULTADO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento a agravo regimental, o qual impugnava decisão monocrática que negara seguimento a recurso especial. A parte embargante sustenta omissão quanto à análise da dosimetria da pena, especialmente no que tange à aplicação da causa de aumento prevista no art. 171, § 4º, do Código Penal, argumentando bis in idem e desproporcionalidade na majoração.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se houve omissão na fundamentação do acórdão quanto à análise da dosimetria da pena, notadamente quanto à legitimidade da causa de aumento aplicada com base na condição de idoso das vítimas e no elevado valor subtraído, bem como se haveria duplicidade de fundamentos ou desproporcionalidade.
+III. RAZÕES DE DECIDIR
+3. O acórdão embargado de declaração deixou de enfrentar de forma expressa a questão formada pelos argumentos defensivos relativos à dosimetria da pena e ao bis in idem, propiciando os atuais embargos de declaração nos termos do art. 619 do CPP.
+4. A aplicação da causa de aumento prevista no art. 171, § 4º, do Código Penal está devidamente fundamentada, considerando que os reais prejudicados pelo estelionato foram os idosos titulares das contas bancárias, conforme comprovado nos autos e sendo irrelevante o fato de a fraude ter sido perpetrada mediante engano praticado contra terceiros.
+5. Inexiste bis in idem na majoração da pena, pois a vulnerabilidade das vítimas justifica a incidência da majorante, enquanto o valor expressivo do prejuízo fundamenta o patamar de aumento, sem duplicidade de fundamentação.
+6. A fração de aumento ao dobro encontra respaldo na relevância do resultado gravoso, consistente em prejuízo patrimonial superior a R$ 100.000,00 (cem mil reais), sendo legítima à luz do § 4º do art. 171 do CP e da jurisprudência consolidada do egrégio STJ.
+7. A dosimetria da pena foi realizada de acordo com os critérios legais e jurisprudenciais, deixando de verificar-se flagrante desproporcionalidade ou ilegalidade que autorize sua revisão em recurso especial, conforme entendimento pacífico desta Corte.
+IV. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela defesa de Eduardo Vinícius Rodrigues contra a decisão que negou provimento ao seu agravo regimental, alegando omissão na análise da dosimetria da pena, especialmente no que se refere à aplicação desproporcional da causa de aumento prevista no art. 171, § 4º, do Código Penal.
+O embargante argumenta que o Tribunal de origem duplicou a fundamentação ao usar tanto o valor subtraído quanto a vulnerabilidade das vítimas para justificar a exasperação da pena, o que configuraria bis in idem, e que as circunstâncias judiciais favoráveis ao acusado tornam a pena desproporcional. Além disso, ele destaca que as vítimas não estavam diretamente envolvidas no crime, o que torna a aplicação da majorante inadequada.
+Requer que a omissão seja corrigida e que a pena seja redimensionada, com base em uma análise jurídica e não em reexame de provas (e-STJ, fls. 650-654).
+O Ministério Público do Estado de Santa Catarina, por sua vez, apresentou manifestação defendendo que os embargos devem ser rejeitados, pois a decisão do STJ está devidamente fundamentada e não apresenta vícios de omissão, contradição ou erro material, sendo que a discordância do Embargante com o resultado da decisão não justifica a utilização de embargos de declaração.
+O Ministério Público solicita a manutenção do acórdão anterior, sem alterações (e-STJ, fls. 665-670).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL. ESTELIONATO CONTRA IDOSOS. ART. 171, § 4º, DO CÓDIGO PENAL. ALEGAÇÃO DE OMISSÃO NA DOSIMETRIA DA PENA. CAUSA DE AUMENTO DEVIDAMENTE FUNDAMENTADA. INEXISTÊNCIA DE BIS IN IDEM. APERFEIÇOAMENTO DO JULGADO SEM EFEITOS INFRINGENTES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM ALTERAÇÃO DO RESULTADO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento a agravo regimental, o qual impugnava decisão monocrática que negara seguimento a recurso especial. A parte embargante sustenta omissão quanto à análise da dosimetria da pena, especialmente no que tange à aplicação da causa de aumento prevista no art. 171, § 4º, do Código Penal, argumentando bis in idem e desproporcionalidade na majoração.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se houve omissão na fundamentação do acórdão quanto à análise da dosimetria da pena, notadamente quanto à legitimidade da causa de aumento aplicada com base na condição de idoso das vítimas e no elevado valor subtraído, bem como se haveria duplicidade de fundamentos ou desproporcionalidade.
+III. RAZÕES DE DECIDIR
+3. O acórdão embargado de declaração deixou de enfrentar de forma expressa a questão formada pelos argumentos defensivos relativos à dosimetria da pena e ao bis in idem, propiciando os atuais embargos de declaração nos termos do art. 619 do CPP.
+4. A aplicação da causa de aumento prevista no art. 171, § 4º, do Código Penal está devidamente fundamentada, considerando que os reais prejudicados pelo estelionato foram os idosos titulares das contas bancárias, conforme comprovado nos autos e sendo irrelevante o fato de a fraude ter sido perpetrada mediante engano praticado contra terceiros.
+5. Inexiste bis in idem na majoração da pena, pois a vulnerabilidade das vítimas justifica a incidência da majorante, enquanto o valor expressivo do prejuízo fundamenta o patamar de aumento, sem duplicidade de fundamentação.
+6. A fração de aumento ao dobro encontra respaldo na relevância do resultado gravoso, consistente em prejuízo patrimonial superior a R$ 100.000,00 (cem mil reais), sendo legítima à luz do § 4º do art. 171 do CP e da jurisprudência consolidada do egrégio STJ.
+7. A dosimetria da pena foi realizada de acordo com os critérios legais e jurisprudenciais, deixando de verificar-se flagrante desproporcionalidade ou ilegalidade que autorize sua revisão em recurso especial, conforme entendimento pacífico desta Corte.
+IV. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+VOTO
+Conheço dos embargos de declaração, porque tempestivos.
+Os embargos de declaração servem ao aperfeiçoamento do julgado por uca das cauisas previstas no art. 619 do Código de Processo Penal - ambiguidade, obscuridade, contradição ou omissão. Também pode ser verificado na hipótese de erro material (art. 1.002 , III, do CPC).
+A parte embargante de declaração alega omissão na decisão impugnada, destacando que não houve análise da dosimetria da pena, especialmente quanto à aplicação desproporcional da causa de aumento prevista no art. 171, § 4º, do Código Penal. Sustenta, ainda, que o Tribunal de origem duplicou a fundamentação ao usar tanto o valor subtraído quanto a vulnerabilidade das vítimas, configurando bis in idem, e que a pena aplicada é desproporcional, considerando as circunstâncias favoráveis ao acusado. Solicita a correção da omissão e a redução da pena.
+A petição dos embargos de declaração tem razão quanto à questão que deve ser resolvida no julgamento do recurso especial, entretanto, não tem razão quanto á procedência do que alega com a finalidade da redução da pena privativa de liberdade.
+Sobre o ponto, o Tribunal de origem assim ressaltou (e-STJ, fl. 363):
+ ..  Pleiteiam os acusados o afastamento da causa de aumento relativa ao crime cometido contra idoso, prevista no art. 171, § 4º, do Código Penal, ao argumento de que a fraude foi praticada contra as filhas, e não contra as vítimas idosas.
+Contudo, razão, novamente, não lhes assiste.
+O art. 171, § 4º, do Código Penal prevê causa de aumento de pena quando o crime é praticado contra idoso.
+No caso em comento, ainda que Marli Gruber e Anelise Liebl tenham sido ludibriadas a entregar o cartão bancário e fornecer a senha, foram seus genitores Erico Gruber, com 84 anos de idade na data dos fatos, e Ewaldo Antonio Liebl, com 89 anos de idade na data dos fatos, respectivamente, que sofreram prejuízo econômico, sendo os idosos, portanto, vítimas do estelionato praticado pelos réus.
+Nesse sentido, extrai-se da jurisprudência da Câmara decisão no mesmo sentido, anterior a alteração legislativa trazida pela Lei n. 14.155/2021:
+São vítimas do estelionato, para fim da incidência da agravante de prática de crime contra idoso, tanto a pessoa enganada pela fraude quanto a que suporta prejuízo patrimonial (TJSC, Apelação Criminal n. 0000254- 98.2015.8.24.0067, de São Miguel do Oeste, rel. Sérgio Rizelo, Segunda Câmara Criminal, j. 10-12-2019).
+A titularidade das contas bancárias ficou demonstrada por meio dos extratos bancários juntados nos autos do inquérito policial (processo 5003908-25.2021.8.24.0058/SC, evento 54, DOCUMENTACAO1).
+Dessarte, correta a aplicação da causa de aumento de pena prevista no art. 171, § 4º, do Código Penal.
+Com relação à fração de aumento, o § 4º do art. 171 do Código Penal prevê que "a pena aumenta-se de 1/3 (um terço) ao dobro, se o crime é cometido contra idoso ou vulnerável, considerada a relevância do resultado gravoso".
+No caso em comento, considerando o elevado prejuízo patrimonial sofrido pelas vítimas, nos valores R$ 83.000,00 e R$ 24.000,00, tendo inclusive uma delas afirmado que se tratava de sua poupança, escorreito o aumento da pena ao dobro aplicado na sentença, devendo ser mantido.
+A revisão da dosimetria somente é possível em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (AgRg no REsp n. 2.042.325/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+No que tange à dosimetria da pena, não se verifica ilegalidade flagrante ou desproporcionalidade que justifique a atuação desta Corte. A pena foi fixada dentro dos parâmetros legais, observando-se as circunstâncias do caso concreto e os critérios de individualização da reprimenda penal, não se mostrando desproporcional ou teratológica.
+Da análise dos autos, não prospera a alegação de bis in idem.
+A causa de aumento prevista no art. 171, § 4º, do Código Penal não se baseia apenas no valor subtraído, mas sim na gravidade do crime, que é maior quando cometido contra vítimas idosas ou vulneráveis.
+No presente caso, embora as filhas tenham sido enganadas, os idosos foram os verdadeiros prejudicados pelo estelionato, conforme evidenciado pelos extratos bancários, tornando válida a aplicação da causa de aumento do § 4º que prevê a causa de aumento do estelionato praticado contra idoso. A duplicação de fundamentos não ocorre, pois o foco da majoração é a vulnerabilidade das vítimas.
+Ademais, a majoração da fração de aumento de pena não se deu pela condição das vítimas, mas, sim, pelo montante elevado do prejuízo patrimonial sofrido, justificando o aumento no patamar máximo.
+Nesse ponto, mostra-se correto o acórdão recorrido, na medida em que, nos termos da pacífica jurisprudência deste Superior Tribunal, "A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (AgRg no HC n. 988.979/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/ 4/2025, grifei).
+Ante o exposto, acolho os embargos de declaração para aperfeiçoar o julgado sem efeitos infringentes, resolver a questão suscitada e reafirmar o desprovimento do recurso especial.
+É o voto.
