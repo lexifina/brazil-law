@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 7 e 211 do STJ e 282 do STF (fls. 709-711).
+O acórdão recorrido encontra-se assim ementado (fls. 610-611):
+EMBARGOS DE TERCEIRO. IMÓVEL LEVADO À LEILÃO EM DECORRÊNCIA DE PROCESSO FALIMENTAR. EXCEÇÃO DE USUCAPIÃO. AUSÊNCIA DE PROVA DE ANIMUS DOMINI. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+I. TRATA-SE DE AÇÃO POR MEIO DA QUAL OS EMBARGANTES PRETENDEM DECRETAR A NULIDADE DA ARREMATAÇÃO DO IMÓVEL MATRICULADO SOB Nº 1.976 JUNTO AO CARTÓRIO DE REGISTRO DE IMÓVEIS DE CAPÃO DA CANOA/RS, O QUAL FOI LEVADO À LEILÃO EM RAZÃO DO PROCESSO FALIMENTAR DA EMBARGADA.
+II. CONFORME ART. 674, DO CPC, "QUEM, NÃO SENDO PARTE NO PROCESSO, SOFRER CONSTRIÇÃO OU AMEAÇA DE CONSTRIÇÃO SOBRE BENS QUE POSSUA OU SOBRE OS QUAIS TENHA DIREITO INCOMPATÍVEL COM O ATO CONSTRITIVO, PODERÁ REQUERER SEU DESFAZIMENTO OU SUA INIBIÇÃO POR MEIO DE EMBARGOS DE TERCEIRO".
+III. NO CASO CONCRETO, FICOU DEMONSTRADO QUE OS EMBARGANTES ADQUIRIAM EM 13.09.1990, MEDIANTE CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA, O IMÓVEL QUE É OBJETO DESTES EMBARGOS DE TERCEIRO.
+IV. ENTRETANTO, EMBORA OS EMBARGANTES DEFENDAM ESTAR EM POSSE DO REFERIDO IMÓVEL DESDE A SUA AQUISIÇÃO, FICOU DEMONSTRADA A TRANSFERÊNCIA DO BEM PARA A EMPRESA ORA FALIDA, DA QUAL UM DOS EMBARGANTES ERA SÓCIO MAJORITÁRIO, POUCO TEMPO APÓS A SUA AQUISIÇÃO, NO ANO DE 1992, O QUE INFIRMA A TESE DE QUE OS EMBARGANTES EXERCIAM A POSSE COM ANIMUS DOMINI, NOS TERMOS DO ART. 1.204, DO CPC, REQUISITO ESSENCIAL À PRETENSÃO DE AQUISIÇÃO DA PROPRIEDADE POR USUCAPIÃO.
+V. EM VERDADE, A INSTRUÇÃO PROCESSUAL INDICA QUE OS EMBARGANTES USUFRUÍRAM DO IMÓVEL EM DECORRÊNCIA DA POSIÇÃO EXERCIDA PELO EMBARGANTE ROGÉRIO JUNTO À EMPRESA FALIDA (FUNDADOR E SÓCIO MAJORITÁRIO), E NÃO PELA LEGÍTIMA AQUISIÇÃO DA PROPRIEDADE, DE MODO QUE DEVE SER MANTIDA A SENTENÇA DE IMPROCEDÊNCIA DA DEMANDA.
+VI. IGUALMENTE, TAMBÉM NÃO FICOU CARACTERIZA A VENDA DO IMÓVEL POR PREÇO VIL, ESTE CONCEITUADO NO PARÁGRAFO ÚNICO DO ART. 891, DO CPC, COMO "(..) O PREÇO INFERIOR A CINQUENTA POR CENTO DO VALOR DA AVALIAÇÃO", VISTO QUE O IMÓVEL FOI AVALIADO EM R$ 275.000,00, AO PASSO QUE FOI ARREMATADO POR R$ 312.000,00, CONFORME SE EXTRAI DO AUTO DE ARREMATAÇÃO. ALÉM DISSO, NÃO SE CONFIGURARIA A VENDA DO IMÓVEL POR PREÇO VIL MESMO TOMANDO EM CONSIDERAÇÃO A MÉDIA DAS AVALIAÇÕES TRAZIDAS PELOS EMBARGANTES, AS QUAIS DIVERGEM DAQUELA REALIZADA PELO LEILOEIRO, INDICANDO QUE O VALOR VENAL DO TERRENO SERIA APROXIMADAMENTE DE R$ 625.000,00.
+VII. POR OUTRO LADO, O ART. 22, III, "N", DA LEI Nº 11.101/2005 E O ART. 75, V, DO CPC, ESTABELECEM QUE A MASSA FALIDA SERÁ REPRESENTADA EM JUÍZO PELO ADMINISTRADOR JUDICIAL. E, NO CASO EM TELA, PERCEBE-SE CLARAMENTE QUE O ADMINISTRADOR JUDICIAL ATUOU COMO REPRESENTANTE JUDICIAL DA MASSA FALIDA, DEFENDENDO OS SEUS INTERESSES, E NÃO COMO AUXILIAR DO JUÍZO, MOTIVO PELO QUAL FAZ JUS AO PERCEBIMENTO DOS HONORÁRIOS ADVOCATÍCIOS.
+VIII. FIXAÇÃO DA VERBA HONORÁRIA QUE DEVE OBSERVAR O GRAU DE ZELO DO PROFISSIONAL, O LUGAR DA PRESTAÇÃO DO SERVIÇO, A NATUREZA E IMPORTÂNCIA DA CAUSA, O TRABALHO REALIZADO PELO ADVOGADO E O TEMPO EXIGIDO PARA O SEU SERVIÇO, NOS TERMOS DO ART. 85, § 2º, DO CPC.
+APELAÇÃO DOS EMBARGANTES DESPROVIDA.
+APELAÇÃO DA ADMISTRAÇÃO JUDICIAL PROVIDA.
+Os embargos de declaração foram rejeitados (fls. 657-660).
+Nas razões do recurso especial (fls. 672-682), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 1.196 e 1.238 do CC, "ao afastar a aquisição da propriedade pela usucapião, uma vez que os recorrentes detêm a posse do imóvel, objeto da demanda, há mais de 30 anos, de forma mansa e ininterrupta, e com ânimo de dono" (fl. 675);
+(ii) arts. 1º, parágrafo único, e 5º da Lei n. 8.009/1990, pois "os recorrentes hoje residem no imóvel praceado. E sobre esse tema a r. sentença e o v. acórdão nada disseram, silenciaram. Silêncio sepulcral em tão relevante tema. Os recorrentes residem no imóvel desde o início da pandemia - Covid 19" (fl. 679). "E sendo o imóvel hoje a residência da família (inclusive o imóvel praceado), deve ser desconstituída a arrematação para proteger o direito de moradia dos recorrentes" (fl. 680).
+No agravo (fls. 722-734), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 743-753.
+Na petição de fls. 766-806, a parte agravante requer a atribuição de efeito suspensivo ao recurso especial, sustentando que "a urgência da análise e concessão se dá pelo risco iminente do MM. Juízo da Massa Falida de Kreybel Empreendimentos, em face do recurso não ser dotado de efeito suspensivo, deferir o pedido formulado pela recorrida nos autos da falência, em 28 de julho  .. , qual seja: a homologação da praça e assinatura do respectivo auto de arrematação do imóvel que os recorrentes sustentam tratar-se de bem de família, sendo, por isso impenhorável" (fl. 767).
+É o relatório.
+Decido.
+No que diz respeito à suscitada afronta aos arts. 1.196 e 1.238 do CC, o Tribunal de origem deliberou com base nos seguintes fundamentos (fls. 606-607):
+No caso concreto, após analisar detidamente o caderno processual, tenho que deve ser mantida a sentença de improcedência da demanda, conforme fundamentos que seguem.
+Com efeito, ficou demonstrado que os embargantes adquiriram de C. R. L. e C. G. L., em 13.09.1990, mediante contrato particular de promessa de compra e venda, o imóvel que é objeto destes embargos de terceiro, representado pela matrícula nº 1.976 junto ao Cartório de Registro de Imóveis de Capão da Canoa/RS  .. .
+ .. .
+No entanto, embora os embargantes defendam estar em posse do referido imóvel desde sua aquisição, no ano de 1990, também ficou demonstrada a transferência do citado terreno, objeto destes embargos, para a empresa ora falida, Kreybel Empreendimentos Imobiliários Ltda. (empresa da qual o embargante Rogério Farid Ferrari Beylouni era sócio majoritário), dois anos após a sua aquisição  .. .
+ .. .
+Assim sendo, apesar de a parte embargante ter demonstrado que possui a posse da área há longa data, em verdade, a transferência da propriedade para a falida ocorreu pouco tempo após a aquisição do bem, conduta que infirma a tese de que os embargantes exerciam a posse com animus domini, nos termos do art. 1.204, do CC, o que, em consequência, afasta a possibilidade de aquisição por usucapião.
+Sobre a situação fática, nos termos do parecer da eminente Procuradora de Justiça,  .. , a instrução indica que os embargantes, em verdade, usufruíram do imóvel em decorrência da posição exercida por Rogério junto à falida (fundador e sócio majoritário), e não por sua legítima aquisição (evento 8, PARECER1).
+ .. .
+Assim sendo, uma vez que não ficou demonstrada a posse com animus domini, requisito essencial à pretensão de prescrição aquisitiva, deve ser mantida a sentença de improcedência da demanda.
+No acórdão que rejeitou os aclaratórios, a Corte local assinalou (fl. 657):
+Como mencionado na referida decisão, o conjunto probatório indica que a utilização do imóvel deu-se em razão da embargante Rogério ter sido fundador e sócio-administrador da Massa Falida embargada.
+Aliás, ao contrário do referido nas razões recursais, a decisão colegiada afastou expressamente a alegação de prescrição aquisitiva, referindo que, ante a ausência do animus domini, requisito essencial à pretensão de prescrição aquisitiva, deve ser mantida a sentença de improcedência da demanda.
+De tal modo, modificar o entendimento do acórdão impugnado, quanto à ausência dos requisitos para a usucapião, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida na via especial, a teor da Súmula n. 7 do STJ. Confiram-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. USUCAPIÃO. ANIMUS DOMINI. POSSE MANSA E PACÍFICA. REQUISITOS NÃO VERIFICADOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. A usucapião extraordinária, nos termos do art. 1.238 do CC/2002, exige, além da fluência do prazo de 15 (quinze) anos, salvo exceções legais, posse mansa, pacífica e ininterrupta, independentemente de justo título e boa-fé, requisitos que, no caso, não foram preenchidos.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento (AgInt no AREsp n. 2.688.225/MG, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO. AUSÊNCIA DE POSSE COM ANIMUS DOMINI. IMPOSSIBILIDADE DE ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL EM SEDE DE RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. PROVA EMPRESTADA. INEXISTÊNCIA DE OFENSA AO CONTRADITÓRIO. REQUISITOS LEGAIS. INEXISTÊNCIA. COMPROVAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, o eg. Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, reconheceu a inexistência dos requisitos legais e o lapso de tempo necessário para configurar a usucapião.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.682.292/MG, Relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021.)
+Por sua vez, acerca da alegação de bem de família, assim como de ofensa aos arts. 1º, parágrafo único, e 5º da Lei n. 8.009/1990, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Convém destacar que "o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula n. 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015, sob pena de perseverar a ausência de prequestionamento" (AgInt no REsp n. 2.016.756/MS, de minha relatoria, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022). Veja-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS EMBARGANTES.
+1.  .. .
+2. A ausência de enfrentamento das teses recursais, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, no termo da Súmula 211/STJ.
+2.1. Nos termos da jurisprudência desta Corte Superior, a aplicação do artigo 1.025 do CPC/15 exige que a parte recorrente tenha oposto aclaratórios na origem e apontado, no recurso especial, violação ao artigo 1.022 do mesmo diploma e indicado de forma clara e específica, o vício existente no acórdão recorrido.
+ .. .
+6. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 1.271.206/GO, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Ademais, "segundo pacífica jurisprudência deste Superior Tribunal, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento" (AgInt nos EDcl no AgInt no AREsp n. 1.481.503/SC, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/2/2022, DJe 23/2/2022). No ponto:
+AGRAVO REGIMENTAL EM MEDIDA CAUTELAR. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. VIOLAÇÃO ARTS 520 E 558 DO CPC. ARTS. 1º E 3º DA LEI 8.009/90. EFEITO SUSPENSIVO A APELAÇÃO EM SEDE DE EMBARGOS À ARREMATAÇÃO. IMPENHORABILIDADE DE BEM DE FAMÍLIA. AUSÊNCIA DE PREQUESTIONAMENTO. INVIABILIDADE DO RECURSO A QUE SE QUER EMPRESTAR EFEITO SUSPENSIVO. AGRAVO NÃO PROVIDO.
+ .. .
+3. Todavia, a questão do imóvel arrematado tratar-se, ou não, de bem de família, não foi objeto de análise no acórdão impugnado pelo recurso especial e os recorrentes não interpuseram embargos de declaração, objetivando suprir eventual omissão. Deste modo, não se configura o necessário prequestionamento, o que impossibilita a apreciação de tal questão na via especial (Súmulas 282 e 356/STF).
+4. Agravo regimental não provido. (AgRg na MC n. 17.892/DF, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2011, DJe de 2/5/2011.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. COMPROVAÇÃO. AUSÊNCIA. PREPARO. NÃO RECOLHIMENTO. ÓBICE. SANEAMENTO. PRAZO. NÃO ATENDIMENTO. SÚMULA Nº 187/STJ. IMPENHORABILIDADE. BEM DE FAMÍLIA. FALTA PREQUESTIONAMENTO.
+ .. .
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.454.773/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 15% (quinze por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo e eventual gratuidade da justiça.
+Prejudicado, por consequência, o pedido de efeito suspensivo.
+Publique-se e intimem-se.
+ EMENTA
