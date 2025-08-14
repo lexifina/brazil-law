@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por M unicípio de Araguaína, desafiando decisão da Presidência do Tribunal de Justiça do Estado do Tocantins, que não admitiu o recurso especial interposto pela parte ora agravante, ante a incidência dos óbices contidos nas Súmulas 283 do STF, e 7 e 83 do STJ, bem como pela ausência de demonstração a dequada do dissídio jurisprudencial.
+Nas razões de agravo em recurso especial, alega-se, em síntese, que: (i) "para o conhecimento e a análise do presente REsp indiscutivelmente não será necessário o reexame fático-probatório, devendo ser realizada por esta Corte Cidadã tão somente a requalificação jurídica dos fatos já delineados no Acórdão recorrido" (fl. 191); (ii) os precedentes colacionados no juízo de prelibação não possuem identidade com o caso dos autos (cf fls. 193), devendo ser afastada a Súmula 83/STJ; (iii) foram devidamente impugnados os pilares do acórdão recorrido "referentes à aplicação subsidiária do CPC ao processo executivo fiscal e à impossibilidade de prosseguimento do feito pela ausência das condições de desenvolvimento regular do processo, ante a falta de indicação dos responsáveis pelo espólio do devedor falecido" (fls. 192/193); e (iv) houve "o devido e necessário cotejo analítico entre o julgado objurgado e os arestos paradigmas, o que atrai o conhecimento do apelo nobre interposto também nesse particular, uma vez que o julgado questionado mostrou-se em estridente infringência a julgados prolatados pelos Tribunais de Justiça de São Paulo (TJ/SP) e do Distrito Federal (TJ/DF)" (fl. 196).
+Sem contraminuta (fl. 199).
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Logo, não tendo havido efetiva impugnação a esse fundamento da decisão denegatória de admissibilidade do recurso especial, é de se manter a monocrática sob crivo.
+No caso, em suas razões de agravo, a insurgente deixou de rebater, de modo específico, a Súmula 7/STJ.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
