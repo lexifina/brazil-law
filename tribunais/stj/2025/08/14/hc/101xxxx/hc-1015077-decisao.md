@@ -1,0 +1,51 @@
+DECISÃO
+T rata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS RAFAEL DA COSTA VALLE, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2154935-90.2025.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante e teve a sua prisão convertida em preventiva pela suposta prática do delito capitulado no artigo 33, caput, da Lei n. 11.343/2006. O impetrante sustenta que a decisão que converteu a prisão em flagrante em preventiva carece de fundamentação idônea, baseando-se apenas na gravidade abstrata do delito e no fato de o paciente ter sido preso pelo mesmo crime há uma década. Afirma que a quantidade de droga apreendida não é expressiva e que não há elementos que indiquem mercancia, conforme o Tema n. 506 do STF, que presume o porte para uso pessoal em quantidades inferiores a 40 gramas de maconha. Aduz que o paciente é primário, tem residência fixa e ocupação lícita, e que as medidas cautelares diversas da prisão seriam suficientes para garantir a ordem pública.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão do paciente, com a imposição de medidas cautelares diversas da prisão, e a expedição de alvará de soltura.
+Decisão pelo indeferimento do pedido liminar às fls. 166-168.
+Informações prestadas às fls. 171-260.
+Parecer do Ministério Público Federal, às fls. 256-260, pelo não conhecimento do mandamus.
+É o relatório.
+DECIDO.
+A ordem deve ser denegada.
+No caso, o Tribunal de origem assim manteve a segregação cautelar (fl. 52):
+Habeas corpus Tráfico de entorpecentes Revogação da prisão preventiva Descabimento Decisão fundamentada Presentes os requisitos autorizadores da custódia cautelar Tese existente no Tema 506, de Repercussão Geral, do C. Supremo Tribunal Federal, que não impede a autoridade policial e seus agentes de realizar a prisão em flagrante por tráfico de drogas, mesmo para quantidades inferiores ao limite estabelecido, quando presentes elementos que indiquem intuito de mercancia - Constrangimento ilegal não evidenciado Ordem denegada.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltado o risco de reiteração delitiva do paciente, uma vez que ele foi preso em região conhecido de tráfico de drogas além de já ter sido condenado pelo mesmo delito, mostrando que não se trata de um caso isolado.
+Tudo isso demonstra a potencial periculosidade do agente e é apta a justificar sua segregação cautelar para garantia da ordem pública, na forma do art. 312, do CPP.
+Com efeito,
+(c)onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DO RECURSO EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. PRISÃO MANTIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que manteve a conversão da prisão em flagrante do agravante em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+2. Isso porque não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na existência de antecedentes e reiteração delitiva do agente.
+(..)
+4. Agravo regimental improvido.
+(AgRg no HC n. 867.234/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+(..)
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; grifamos).
+A alegação de que a quantidade de drogas é atípica e abaixo do valor estipulado no Tema de Repercussão Geral 506 não merece prosperar. Com efeito, na própria decisão, a Suprema Corte aduz que quantidades maiores podem significar que a conduta seria atípica assim como quantidades menores poderiam inferir crime de tráfico. E isso seria levado em consideração diante das circunstâncias do caso, segundo o STF, verbis:
+ .. 5. A presunção do item anterior é relativa, não estando a autoridade policial e seus agentes impedidos de realizar a prisão em flagrante por tráfico de drogas, mesmo para quantidades inferiores ao limite acima estabelecido, quando presentes elementos que indiquem intuito de mercancia, como a forma de acondicionamento da droga, as circunstâncias da apreensão, a variedade de substâncias apreendidas, a apreensão simultânea de instrumentos como balança, registros de operações comerciais e aparelho celular contendo contatos de usuários ou traficantes.
+Compulsando os autos, verifica-se que além da quantidade de drogas apreendida - 11 porções de "maconha", pesando 35 gramas - o paciente possuía dinheiro miúdo e foi detido em local conhecido com de traficância, elementos que fazem concluir que usava a droga para praticar um dos tipos do art. 33, da Lei de Drogas, e não para o consumo, conforme entendimento estraído da Suprema Corte e do art. 28, §2º, da mencioada lei. Não é outro o entendimento desta Corte sobre a presunção relativa da quantidade de maconha:
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. CONFISSÃO EM JUÍZO. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame1. Habeas corpus impetrado pela Defensoria Pública do Estado de São Paulo em favor de paciente condenado por tráfico de drogas, com pena de 5 anos e 10 meses de reclusão, além de multa, conforme art. 33, caput, da Lei 11.343/2006.
+2. A impetração sustentava a nulidade das provas obtidas mediante busca pessoal, alegadamente realizada sem fundada suspeita, pugnando pela absolvição do paciente.
+II. Questão em discussão3. A questão em discussão consiste em saber se a confissão do paciente em juízo, associada aos indícios colhidos, é suficiente para sustentar a condenação por tráfico de drogas, mesmo diante da alegação de nulidade das provas obtidas na busca pessoal.
+III. Razões de decidir4. A confissão do paciente em juízo, sob contraditório e com assistência técnica, reforça a predisposição mercantil de sua conduta, evidenciando a intenção de comercialização ilícita.
+5. Os elementos concretos do caso, incluindo a divisão do entorpecente em diversas porções e o comportamento do paciente, refutam a alegação de uso pessoal e corroboram a subsunção dos fatos ao tipo penal do tráfico de drogas.
+6. A tese firmada pelo STF no Tema 506, que estabelece presunção de uso pessoal para a posse de até 40g de maconha, não é absoluta e deve ser analisada no contexto fático, o que, no caso, não favorece o paciente.
+7. O princípio do in dubio pro reo não se aplica, uma vez que a subsunção ao art. 33 da Lei 11.343/2006 se apresenta tecnicamente irrepreensível, conforme o juízo das instâncias ordinárias.
+IV. Dispositivo e tese8. Habeas Corpus não conhecido, mantendo a condenação do paciente pelo crime de tráfico de drogas.
+Tese de julgamento: "1. A confissão em juízo, associada a indícios concretos, é suficiente para sustentar a condenação por tráfico de drogas. 2. A presunção de uso pessoal para a posse de até 40g de maconha não é absoluta e deve ser analisada no contexto fático. 3. O princípio do in dubio pro reo não se aplica quando a subsunção ao tipo penal é tecnicamente irrepreensível".
+Dispositivos relevantes citados: Lei 11.343/2006, art. 33.
+Jurisprudência relevante citada: STF, Tema 506
+(HC n. 855.156/SP, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJEN de 10/2/2025.)
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
