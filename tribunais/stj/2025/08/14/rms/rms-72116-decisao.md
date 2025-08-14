@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de Recurso Ordinário em Mandado de Segurança interposto por JOÃO VITOR LOPES MARIANO e AMANDA DOURADO COLOMBO em desfavor de acórdão assim ementado:
+Mandado de Segurança Impetração contra acórdão da 14ª Câmara de Direito Privado, que manteve condenação dos impetrantes por litigância de má-fé, fixada em primeira instância, acolhendo o recurso de apelação, em parte, somente para reduzir a multa e a indenização fixada pelo Juízo "a quo" Inadequação da via eleita Aplicação do artigo 5º, II, da Lei 12.016/2009 e da Súmula nº 267 do C. STF Possibilidade de alegação da questão em Recurso Extraordinário e Recurso Especial (CPC, art. 102, III e art. 105, III) Impossibilidade de utilização do Mandado de Segurança como substituto recursal - Precedentes desta E. Corte - Indeferimento da inicial, com extinção do processo, sem resolução do mérito.
+Afirmam os recorrentes, em suma, o cabimento do "mandamus" e a existência de violação a direito líquido e certo.
+O Ministério Público Federal promoveu o provimento recursal.
+É o relatório.
+DECIDO.
+Dispõe o art. 105, II, "b" que "Compete ao Superior Tribunal de Justiça: (..) II - julgar, em recurso ordinário: (..) b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão.
+A previsão constitucional é secundada pelo RISTJ, que, em seus arts.
+247 e 248, estabelece:
+Art. 247. Aplicam-se ao recurso ordinário em mandado de segurança, quanto aos requisitos de admissibilidade e ao procedimento no Tribunal recorrido, as regras do art. 1.028 do Código de Processo Civil. (Redação dada pela Emenda Regimental n. 22, de 2016)
+Art. 248. Distribuído o recurso, a Secretaria fará os autos com vista ao Ministério Público pelo prazo de cinco dias.
+Parágrafo único. Conclusos os autos ao relator, este pedirá dia para julgamento.
+Por remissão à legislação processual civil, a interposição recursal ordinária em sede de julgamento de Mandado de Segurança encontra-se submetida ao prazo de 15 dias da apelação, nos termos dos arts. 1.028 c/c 1.003, § 5º do CPC.
+Versando a hipótese interposição tempestiva em face de acórdão denegatório da segurança, deve o recurso ordinário ser conhecido.
+No presente feito, as partes, advogados, se insurgem em face de acórdão que não conheceu do "mandamus", originariamente voltado contra condenação solidária do autor e seus advogados no pagamento de multa por litigância de má-fé.
+Nestas hipóteses, a jurisprudência desta corte é fime no sentido de que "As penas por litigância de má-fé, previstas nos artigos 79 e 80 do CPC de 2015, são endereçadas às partes, não podendo ser estendidas ao advogado que atuou na causa, o qual deve ser responsabilizado em ação própria, consoante o artigo 32 da Lei 8.906/1994" (AgInt no AREsp 1.722.332/MT, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022).
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADA AUSÊNCIA DE INTIMAÇÃO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. CONDENAÇÃO DO ADVOGADO POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE. PARCIAL PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. As penas por litigância de má-fé, previstas nos artigos 79 e 80 do CPC de 2015, são endereçadas às partes, não podendo ser estendidas ao advogado que atuou na causa, o qual deve ser responsabilizado em ação própria, consoante o artigo 32 da Lei 8.906/1994. Precedentes.
+3. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 1.722.332/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. BEM DE FAMÍLIA. IMPENHORABILIDADE. ALEGAÇÃO. AFASTAMENTO. DÍVIDA DECORRENTE DE TRIBUTOS. PRECEDENTE. JUSTIÇA GRATUITA. INDEFERIMENTO. EXISTÊNCIA DE VALORES EM INVESTIMENTO FINANCEIRO. HIPOSSUFICIÊNCIA. DECLARAÇÃO REJEITADA. PRECEDENTES. UTILIZAÇÃO DE WRIT. TERATOLOGIA NÃO RECONHECIDA. EXTINÇÃO DO FEITO. RECURSO ORDINÁRIO A QUE SE NEGOU PROVIMENTO. MANDADO DE SEGURANÇA. NÃO CABIMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. Este agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O mandado de segurança foi denegado por ausência de teratologia e de ilegalidade manifesta, porque, conforme constatado pela Justiça de São Paulo, (1) a dívida cobrada do imóvel decorre de tributos sobre ele incidentes, sendo o caso mesmo de ser afastada a impenhorabilidade do bem família com base no art. 3º, IV, da Lei 8.009/90; e (2) o indeferimento do pedido de concessão de justiça gratuita teve como fundamento o fato de que a parte requerente possui considerável valor investido em previdência privada, o que é incompatível com a alegada hipossuficiência.
+3. A conclusão perfilhada pela Justiça paulista nas duas situações consoa com o entendimento já adotado por esta Corte Superior, razão pela qual não se há falar em decisão juridicamente absurda, não sendo, pois, caso de mandado de segurança. Precedentes.
+4. Agravo interno que não trouxe argumentos bastantes e suficientes para invalidar os fundamentos da decisão agravada, sendo, portanto, manifestamente improcedente.
+5. Agravo interno desprovido.
+(AgInt no RMS n. 61.937/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/6/2020, DJe de 1/7/2020.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE OBSCURIDADE E CONTRADIÇÃO. PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INVIABILIDADE. OMISSÃO QUANTO À CONDENAÇÃO SOLIDÁRIA DO ADVOGADO AO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ FÉ. POSSIBILIDADE DE ATRIBUIÇÃO DE EFEITOS INFRINGENTES AOS EMBARGOS DE DECLARAÇÃO, NAS HIPÓTESES EM QUE A MODIFICAÇÃO DO JULGADO FOR CONSEQUÊNCIA DIRETA DO SUPRIMENTO DA OMISSÃO.
+1. Devem ser rejeitados os embargos de declaração quando não há, no julgamento impugnado, omissão ou contradição acerca da alegada ocorrência de prescrição da pretensão executiva, já que o recurso que deu origem aos declaratórios foi sumariamente rejeitado por outros fundamentos.
+2. O STJ não possui competência para o exame de questões constitucionais suscitadas em sede de embargos de declaração, ainda que com o intuito de prequestioná-las para eventual interposição de recurso extraordinário. Precedentes.
+3. A responsabilização solidária do advogado, nas hipóteses de lide temerária, ocorrerá somente após a verificação da existência de conluio entre o cliente e seu patrono, a ser apurada em ação própria. A condenação ao pagamento da multa por litigância de má fé deve ser limitada às partes, pois o profissional da advocacia está sujeito exclusivamente ao controle disciplinar da Ordem dos Advogados do Brasil. Precedente.
+4. Embargos de declaração parcialmente acolhidos, com modificação do julgado.
+(EDcl no RMS n. 31.708/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2010, DJe de 20/8/2010.)
+Assim, "A contrariedade direta ao dispositivo legal antes referido e à jurisprudência consolidada desta Corte Superior evidencia flagrante ilegalidade e autoriza o ajuizamento do mandado de segurança, em caráter excepcional" (RMS 59.322/MG, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 5/2/2019, DJe de 14/2/2019).
+Dessa forma, dou provimento ao recurso ordinário em mandado de segurança, com amparo no art. 34, XVIII, "b", do RISTJ, para conceder a segurança pleiteada e reformar o ato ilegal revogando a condenação em litigância de má-fé dos patronos em solidariedade com o cliente parte na ação.
+Publique-se. Intimem-se.
+EMENTA
