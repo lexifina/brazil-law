@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Testemunho indireto. Insuficiência probatória. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento. O agravante alega que a pronúncia está fundamentada exclusivamente em testemunhos de "ouvir dizer", sem provas materiais que o vinculem ao crime.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a pronúncia do agravante pode ser mantida.
+III. Razões de decidir
+3. O testemunho indireto não é apto para comprovar a ocorrência de nenhum elemento do crime e, por conseguinte, não serve para fundamentar a pronúncia do réu.
+4. No presente caso, as instâncias ordinárias destacaram a existência de indícios suficientes de autoria delitiva, evidenciados pela apreensão da arma de fogo utilizada no crime, bem como pelos depoimentos prestados pelo corréu e pelos investigadores, que corroboraram a narrativa acusatória.
+5. A inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+IV. Dispositivo e tese
+6. Agravo regimental im provido.
+Tese de julgamento: "1. O testemunho indireto não é suficiente para fundamentar a pronúncia. 2. A existência de indícios suficientes de autoria delitiva justifica a submissão do caso ao Tribunal do Júri".
+Dispositivos relevantes citados: CPP, art. 209, § 1º; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no REsp 2.192.889/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18.03.2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUILHERME OMAR DE PAULA ALVES contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento (fls. 1116-1123).
+O agravante aduz, em síntese, que a pronúncia está fundamentada exclusivamente em testemunhos de "ouvir dizer". Ressalta que o corréu Geanderson não apresentou nenhuma prova da suposta participação do agravante no delito, inexistindo filmagens ou outras provas materiais que o vinculem ao crime.
+Pede, ao final, o provimento deste agravo regimental, para que seja provido também o recurso especial.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Testemunho indireto. Insuficiência probatória. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento. O agravante alega que a pronúncia está fundamentada exclusivamente em testemunhos de "ouvir dizer", sem provas materiais que o vinculem ao crime.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a pronúncia do agravante pode ser mantida.
+III. Razões de decidir
+3. O testemunho indireto não é apto para comprovar a ocorrência de nenhum elemento do crime e, por conseguinte, não serve para fundamentar a pronúncia do réu.
+4. No presente caso, as instâncias ordinárias destacaram a existência de indícios suficientes de autoria delitiva, evidenciados pela apreensão da arma de fogo utilizada no crime, bem como pelos depoimentos prestados pelo corréu e pelos investigadores, que corroboraram a narrativa acusatória.
+5. A inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+IV. Dispositivo e tese
+6. Agravo regimental im provido.
+Tese de julgamento: "1. O testemunho indireto não é suficiente para fundamentar a pronúncia. 2. A existência de indícios suficientes de autoria delitiva justifica a submissão do caso ao Tribunal do Júri".
+Dispositivos relevantes citados: CPP, art. 209, § 1º; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no REsp 2.192.889/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18.03.2025.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Como se constatou quando do julgamento monocrático, o testemunho indireto (também conhecido como testemunho de "ouvir dizer" ou hearsay testimony) não é apto para comprovar a ocorrência de nenhum elemento do crime e, por conseguinte, não serve para fundamentar a pronúncia. Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. JÚRI. CONDENAÇÃO. ALEGAÇÃO DE EXISTÊNCIA EXCLUSIVA DE TESTEMUNHOS DE "OUVIR DIZER". TESTEMUNHOS AFIRMANDO QUE A COMUNIDADE POSSUI PAVOR DO DENUNCIADO. CRIME ENVOLVENDO CONFLITO COM O TRÁFICO DE DROGAS. DISTINGUISHING. EXCEPCIONALIDADE QUE JUSTIFICA A INEXISTÊNCIA DE DEPOIMENTOS DE TESTEMUNHAS OCULARES DO DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A quebra da soberania dos veredictos é apenas admitida em hipóteses excepcionais, em que a decisão do Júri for manifestamente dissociada do contexto probatório, hipótese em que o Tribunal de Justiça está autorizado a determinar novo julgamento. E, como é cediço, diz-se manifestamente contrária à prova dos autos a decisão que não encontra amparo nas provas produzidas, destoando, desse modo, inquestionavelmente, de todo o acervo probatório.
+2. Segundo entendimento desta Corte Superior, o testemunho de "ouvir dizer" ou hearsay testimony não é suficiente para fundamentar a condenação. É que o testemunho indireto (também conhecido como testemunho de "ouvir dizer" ou hearsay testimony) não é apto para comprovar a ocorrência de nenhum elemento do crime e, por conseguinte, não serve para fundamentar a condenação do réu. Sua utilidade deve se restringir a apenas indicar ao juízo testemunhas referidas para posterior ouvida na instrução processual, na forma do art. 209, § 1º, do CPP (AREsp 1940381/AL, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/12/2021, DJe 16/12/2021).
+Precedentes.
+3. No presente caso, verifica-se que apesar de nenhuma testemunha ocular ter sido ouvida perante o juízo, diante das peculiaridades do caso, entendo não assistir razão à defesa, isso porque, extrai-se dos autos que todas as pessoas da comunidade tinham medo dos envolvidos. A testemunha velada nº 01, em sessão plenária, registrou ter recebido ameaças pela sua condição; o genitor da vítima informou que uma senhora lhe relatou que seu filho viu o momento da execução, mas que não o permitiu testemunhar, acrescentando que várias pessoas no local foram agredidas para não prestarem testemunho; a genitora do ofendido esclareceu que várias pessoas presenciaram o delito, tendo sido algumas ameaçadas no bairro a não prestar depoimento, e outras agredidas.
+4. Conforme observado nos esclarecimentos testemunhais, a autoria do crime foi indicada por diversos populares, que não prestaram depoimento devido ao medo de represálias. Essas informações foram comunicadas ao primeiro policial que chegou à cena do crime e aos pais da vítima. Como é de conhecimento geral, em crimes envolvendo conflitos com o tráfico de drogas, o receio de represálias dificulta a obtenção de informações de possíveis testemunhas oculares, algo confirmado pelos depoimentos das testemunhas veladas e pelas contundentes declarações dos pais da vítima.
+5. Portanto, embora a jurisprudência desta Corte Superior considere insuficiente o testemunho indireto para fundamentar a condenação pelo Tribunal do Júri, excepcionalmente, o presente caso, devido à sua especificidade, merece um distinguishing. Extrai-se dos autos que a comunidade teme os recorrentes, visto que eles estão envolvidos com o tráfico de drogas, com atuação habitual na região, razão pela qual as pessoas que presenciaram o crime não se dispuseram a testemunhar perante as autoridades policiais e judiciais.
+6. Agravo regimental não provido."
+(AgRg no REsp n. 2.192.889/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025.)
+Na hipótese em análise, porém, as instâncias ordinárias destacaram a existência de indícios suficientes de autoria delitiva, evidenciados pela apreensão da arma de fogo utilizada no crime, bem como pelos depoimentos prestados pelo corréu e pelos investigadores, os quais, sob o crivo do contraditório, corroboraram a narrativa acusatória, fornecendo elementos que sustentam a decisão de pronúncia. Esses fatores, em conjunto, formam um quadro probatório que justifica a submissão do caso ao Tribunal do Júri, conforme a competência constitucionalmente estabelecida. Nesse contexto, ao contrário do que afirma o agravante, a pronúncia não está baseada exclusivamente em testemunho indireto. Confira-se, a propósito, o seguinte trecho do acórdão (fls. 940-942):
+"Geanderson Felipe de Sá Campos, em Juízo (doc. 46), na Audiência realizada em 29.03.2021 (fl. 45, doc. 18), informou que, no dia em que se encontrava no estabelecimento "Chalé Country", estava na posse de arma de fogo, a qual teria sido emprestada por Guilherme. Esclareceu que teria ocultado o artefato, sendo que, nesta ocasião, não tinha conhecimento de que o armamento teria sido utilizado no Crime de Homicídio contra Mateus. Geanderson indicou que Guilherme teria lhe dito que assumiria a autoria do Delito. Narrou que, no dia do Crime Doloso Contra a Vida, estava na companhia da filha, visto que é aniversário da Menor, no dia 05, tendo tomado conhecimento do falecimento da Vítima através de rede social. Indicou, ainda, que teria ocorrido "desacerto", em que o irmão de Geanderson teria morrido, em tentativa de fazer com que Guilherme se entregasse à Polícia. Confira-se:
+ ..
+O Investigador de Polícia Leonardo Paulucci Amaral, sob o crivo do contraditório (Mídia, doc. 46), confirmou os Relatórios Circunstanciados de Investigação, narrando que, durante as Investigações, Informantes, os quais não poderia nomear, teriam noticiado que o Delito teria sido cometido por Guilherme, havendo indícios de que a motivação do Crime seria o fato de que Mateus havia comercializado para o Recorrente "porção" de drogas, contudo, teria entregado tijolo, envolto em fita.
+O Policial Leonardo indicou que, na época dos fatos, Guilherme e Geanderson possuíam parceira, em tese, voltada à prática de Delitos, sendo que, em certa ocasião, Geanderson teria sido preso, em razão de disparo de arma de fogo em estabelecimento, sendo apreendida arma de fogo. Relatou que, em razão do suposto envolvimento do Réu com Geanderson, solicitaram a Perícia entre o armamento apreendido e os projéteis localizados na Vítima Mateus.
+Leonardo afirmou que o Laudo teria demonstrado que a arma de fogo localizada com Geanderson teria sido utilizada no Crime Doloso Contra a Vida ora em apuração, motivo pelo qual foi requerida a Prisão Preventiva do Recorrente e de Geanderson. Relatou, nesse sentido, que, durante cumprimento do Mandado, na residência de Geanderson, este teria narrado, na presença dos Militares e familiares, que o autor do Delito de Homicídio era Guilherme.
+O Investigador descreveu que, na ocasião, Geanderson confirmou a motivação do Delito, anteriormente já identificada pela Polícia, qual seja, a negociação de drogas, em que Mateus teria enganado Guilherme, tendo Geanderson afirmado que a arma de fogo apreendida pertencia ao Recorrente.
+O Policial Leonardo salientou, ainda, que o Réu teria ceifado a vida de J. O. S. C. (Jefferson), irmão de Geanderson, visto que Jefferson, após a Prisão do irmão, teria atraído Guilherme ao imóvel em que residia, em razão de Geanderson estar segregado por Delito, em tese, perpetrado pelo Réu. Pontuou que, durante esta discussão, a qual teria sido relatada pela companheira de Jefferson, na confecção do Boletim de Ocorrência (fl. 48, doc. 07), o Recorrente teria matado J. O. S. C., supostamente para evadir.
+O Investigador de Polícia Leonardo ressaltou que Geanderson teria corroborado os elementos indiciários e suspeitas já obtidas pelos Policiais, durante as diligências iniciais, nestes termos".
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
