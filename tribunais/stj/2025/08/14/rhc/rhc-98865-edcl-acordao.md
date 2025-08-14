@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Embargos de declaração. Ausência de vícios no acórdão embargado. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão da Quinta Turma do STJ que negou provimento ao agravo regimental, mantendo a decisão que afastou a existência de flagrante ilegalidade no caso em análise.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o acórdão embargado apresenta contradição e omissão que justifique a oposição dos embargos de declaração, conforme previsto no art. 619 do CPP.
+III. Razões de decidir
+3. A contradição que enseja a oposição de embargos de declaração é aquela que consiste em vício intrínseco do julgado, entre os fundamentos adotados e as conclusões.
+4. Não há contradição no acórdão embargado, tendo em vista que a conclusão acerca da inexistência de flagrante ilegalidade - que autorize o provimento do recurso ou a própria concessão da ordem de habeas corpus, de ofício -, é coerente e harmônica com os fundamentos elencados no comando judicial, que afastaram as inúmeras nulidades suscitadas pela defesa.
+5. O acórdão embargado não apresenta nenhum equívoco ou deficiência de fundamentação, sendo possível observar que esta Corte Superior apreciou integralmente a controvérsia, de forma clara e coesa, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+6. A irresignação do embargante é mero inconformismo com o resultado desfavorável, não justificando a oposição dos embargos de declaração. Precedente.
+IV. Dispositivo e tese
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. A contradição que enseja a oposição de embargos de declaração é aquela que consiste em vício intrínseco do julgado, entre os fundamentos adotados e as conclusões. 2. A irresignação do embargante é mero inconformismo com o resultado desfavorável, não justificando a oposição dos embargos de declaração.".
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no HC n. 975.146/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025; STJ, EDcl no AgRg nos EAREsp n. 1.923.200/RJ, de minha relatoria, Terceira Seção, julgado em 3/8/2023, DJe de 9/8/2023.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DEUSELINO VALADARES DOS SANTOS contra acórdão de minha relatoria (fls. 574/606), proferido pela Quinta Turma do Superior Tribunal de Justiça - STJ, que negou provimento ao agravo regimental defensivo, nos termos da seguinte ementa:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA PARA EXPLORAÇÃO DE JOGOS DE AZAR. VIOLAÇÃO DE SIGILO PROFISSIONAL. CORRUPÇÃO PASSIVA. OPERAÇÃO "MONTE CARLO". CONSTRANGIMENTO ILEGAL. AUSÊNCIA DE AUTORIZAÇÃO DO MINISTRO DA JUSTIÇA PARA ATUAÇÃO DA POLÍCIA FEDERAL. AUSÊNCIA DE AUTORIZAÇÃO JUDICIAL DE COMPARTILHAMENTO DE DADOS DE INTERCEPTAÇÃO TELEFÔNICA. VIOLAÇÃO DOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, RAZOABILIDADE, LEGALIDADE E JUIZ NATURAL. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. INCOMPETÊNCIA DO JUÍZO ESTADUAL DE VALPARAÍSO/GO. FALTA DE MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. FALTA DE JUSTA CAUSA. EXCESSIVA DURAÇÃO DAS INTERCEPTAÇÕES TELEFÔNICAS. INOCORRÊNCIA. CONSTRANGIMENTO NÃO VERIFICADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A só falta de autorização do Ministro da Justiça não macula os atos investigativos praticados pela Polícia Federal. É entendimento sedimentado nesta Corte Superior que eventuais irregularidades constatadas no inquérito policial não têm o condão de contaminar a correlata ação penal.
+2. Como destacado na decisão agravada, as instâncias ordinárias foram categóricas em afirmar que a defesa não logrou comprovar a ilicitude das provas, supostamente obtidas com violação de sigilo legal, uma vez que utilizadas sem autorização judicial de compartilhamento. A desconstituição das conclusões expostas pelas instâncias ordinárias dependeria de incursão aprofundada no conjunto fático probatório, providência que sabidamente é incompatível com os estreitos limites da via eleita.
+3. A aventada nulidade por violação ao princípio do Juiz Natural restou indeferida na decisão agravada em função do grande espaço temporal ocorrido entre as duas operações, circunstância que rechaçou a tese de dupla investigação dos mesmos fatos, sem olvidar o indeferimento da liminar requerida na Reclamação n. 13.593 pela Suprema Corte.
+4. Ao contrário do que sustenta o agravante, verifica-se que fora declinada a competência pelo Juízo Estadual para Vara Especializada em crimes de lavagem de capitais da Seção Judiciária de Goiás, logo após a constatação de fortes indícios do envolvimento de servidores públicos federais na atividades criminosas, não havendo se falar um nulidade nesse ponto.
+5. Distintamente da afirmação do agravante a fl. 402, no sentido de que "(..) a representação do delegado de polícia se consubstanciou em contravenção de crime de corrupção passiva de policiais militares", o objeto de investigação da autoridade policial também abrangia os crimes de formação de quadrilha e corrupção ativa, nos quais supostamente colaboraram policiais civis. (..) Eram inequívocos os indícios de outras infrações penais aptas a legitimar, com fulcro na Lei n. 9.296/1996, os atos praticados pelo Juízo de Valparíso/GO, ainda que se abstraíssem, como intenta, os crimes de corrupção passiva praticados pelos policiais militares.
+6. A jurisprudência do Superior Tribunal de Justiça - STJ admite, no rito do habeas corpus, obstaculizar-se o prosseguimento da persecução penal, excepcionalmente, quando inequívoca a ausência de justa causa, o que não retrata o caso concreto. É proscrito o aprofundado reexame fático-probatório na via eleita, ação constitucional caracterizada pelo rito célere e de cognição sumária, o que implicaria, ademais, indevida supressão de instância.
+7. A tese de negativa de prestação jurisdicional não procede. Nos termos da jurisprudência desta Corte Superior, o Tribunal não é obrigado a refutar todas as teses deduzidas pela parte, se houver encontrado suficientes razões para decidir, o que se verifica no caso em apreço.
+8. Agravo regimental desprovido." (fls. 574/575)
+Nas razões recursais, a defesa alega a existência de contradição no acórdão embargado, no que concerne à nulidade das interceptações telefônicas direcionadas ao embargante por falta de justa causa, considerando a inaplicabilidade da Súmula n. 648 do STJ, pois não se trata de pedido de trancamento de ação penal, bem como a existência de negativa de prestação jurisdicional pelo TRF1 sobre o ponto.
+Acrescenta que a análise do ponto controvertido prescinde do reexame de fatos ou provas, pois demanda simples verificação da legalidade das decisões judiciais que determinaram as interceptações, nos termos da jurisprudência desta Corte Superior.
+Reitera a ilegalidade específica de cada determinação judicial, por ausência dos requisitos legais previstos na Lei n. 9.296/96, na Resolução CNJ n. 59/2008 e na Repercussão Geral do Tema 661 da Suprema Corte.
+Sustenta, ainda, que o acórdão foi contraditório e omisso no tocante à suposta nulidade de interceptações telefônicas e telemáticas com violação de sigilo legal, sob o argumento de que "não se trata de aprofundada incursão no conjunto probatório, pois não existe a autorização e, portanto, o pedido é tão somente para pedir a declaração jurisdicional sobre a relatividade ou absolutividade de autorização judicial de compartilhamento de dados sigilosos de outro processo para serem utilizados pela acusação em produção antecipada e unilateral de provas" (fl. 619).
+Destaca, por fim, que há contradição no acórdão quanto à nulidade de provas de produção antecipada e unilateral efetivadas pela Polícia Federal, desprovidas da necessária autorização do Ministro da Justiça.
+Requer, assim, o acolhimento dos embargos com respectivo provimento do recurso em habeas corpus, nos termos da inicial.
+É o relatório.
+EMENTA
+Direito processual penal. Embargos de declaração. Ausência de vícios no acórdão embargado. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão da Quinta Turma do STJ que negou provimento ao agravo regimental, mantendo a decisão que afastou a existência de flagrante ilegalidade no caso em análise.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o acórdão embargado apresenta contradição e omissão que justifique a oposição dos embargos de declaração, conforme previsto no art. 619 do CPP.
+III. Razões de decidir
+3. A contradição que enseja a oposição de embargos de declaração é aquela que consiste em vício intrínseco do julgado, entre os fundamentos adotados e as conclusões.
+4. Não há contradição no acórdão embargado, tendo em vista que a conclusão acerca da inexistência de flagrante ilegalidade - que autorize o provimento do recurso ou a própria concessão da ordem de habeas corpus, de ofício -, é coerente e harmônica com os fundamentos elencados no comando judicial, que afastaram as inúmeras nulidades suscitadas pela defesa.
+5. O acórdão embargado não apresenta nenhum equívoco ou deficiência de fundamentação, sendo possível observar que esta Corte Superior apreciou integralmente a controvérsia, de forma clara e coesa, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+6. A irresignação do embargante é mero inconformismo com o resultado desfavorável, não justificando a oposição dos embargos de declaração. Precedente.
+IV. Dispositivo e tese
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. A contradição que enseja a oposição de embargos de declaração é aquela que consiste em vício intrínseco do julgado, entre os fundamentos adotados e as conclusões. 2. A irresignação do embargante é mero inconformismo com o resultado desfavorável, não justificando a oposição dos embargos de declaração.".
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no HC n. 975.146/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025; STJ, EDcl no AgRg nos EAREsp n. 1.923.200/RJ, de minha relatoria, Terceira Seção, julgado em 3/8/2023, DJe de 9/8/2023.
+VOTO
+Não prospera a irresignação do embargante.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, inciso III, do Código de Processo Civil - CPC.
+No tocante à contradição, o vício que enseja a oposição de embargos de declaração é aquele intrínseco do julgado, entre os fundamentos adotados e as conclusões. A propósito, o recente julgado:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. PRETENSÃO DE REDISCUSSÃO DA CAUSA. REJEIÇÃO DOS EMBARGOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental, sob alegação de omissão e contradição.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há vício integrativo no acórdão que negou provimento ao agravo regimental.
+III. Razões de decidir
+3. Os embargos de declaração visam suprir omissão, contradição, ambiguidade ou obscuridade, não se prestando para revisão do julgado por mero inconformismo, como se verifica no presente caso.
+4. O acórdão embargado declinou claramente as razões para o desprovimento do agravo regimental, inexistindo qualquer vício a ser sanado.
+5. A contradição tratada no art. 619 do CPP é somente aquela interna, entre as premissas e conclusões da própria decisão, e não a contradição entre a decisão e a interpretação que a parte dá aos fatos ou ao direito.
+6. A omissão quanto à falta de representação pelo delito de lesão corporal não ocorre no presente caso, esclarecendo-se que a questão não foi analisada nesta instância por configurar inovação recursal no agravo regimental, em violação à preclusão consumativa, já que não foi suscitada no habeas corpus, além de não ter sido analisada pelas instâncias ordinárias.
+IV. Dispositivo e tese
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Os embargos de declaração não se prestam para revisão do julgado por mero inconformismo. 2. A contradição tratada no art. 619 do CPP é somente aquela interna, entre as premissas e conclusões da própria decisão. 3. A omissão quanto à dosimetria da pena não foi analisada por configurar inovação recursal no agravo regimental.
+(EDcl no AgRg no HC n. 975.146/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+No presente caso, não há contradição no acórdão embargado, tendo em vista que a conclusão acerca da inexistência de flagrante ilegalidade - que autorize o provimento do recurso ou a própria concessão da ordem de habeas corpus, de ofício -, é coerente e harmônica com os fundamentos elencados no comando judicial, que afastaram as inúmeras nulidades suscitadas pela defesa.
+Especificamente sobre a nulidade das interceptações telefônicas direcionadas ao embargante por falta de justa causa, o acórdão embargado afirmou que "não está clara, tampouco é indubitável, a alegada falta de justa causa que permitisse concluir pela nulidade das provas, de modo que o inconformismo do agravante encontra obstáculo, novamente, na vedação ao aprofundado reexame fático-probatório na via eleita, ação constitucional caracterizada pelo rito célere e de cognição sumária" (fl. 597).
+Cabe salientar que a aplicação do referido óbice independe do pedido estar adstrito ou não ao trancamento da ação penal. Isso porque, a inviabilidade de reexame aprofundada de provas em sede de habeas corpus constitui impedimento associado à própria natureza da ação mandamental.
+Ademais, o mesmo óbice processual serviu de fundamento para afastar a nulidade por suposta utilização de interceptações telefônicas e telemáticas com violação do sigilo fiscal, na medida em que "as instâncias ordinárias foram categóricos em afirmar que a defesa não logrou comprovar a alegada ilicitude das provas, supostamente obtidas com violação de sigilo legal, uma vez que utilizadas sem autorização judicial de compartilhamento" (fl. 589).
+No tocante à produção de provas pela Polícia Federal, desprovida de autorização do Ministro da Justiça, o acórdão foi claro ao consignar que eventual descumprimento do disposto no art. 1º, parágrafo único, da Lei n. 10.446/2002, por si só, não possui o condão de macular os atos praticados pela Polícia Federal. Salientou, inclusive, que essa orientação encontra respaldo na jurisprudência desta Corte Superior, segundo a qual "eventuais irregularidades constatadas no inquérito policial - tal como a ventilada pelo agravante - não seriam suficientes para contaminar a ação penal " (fl. 584).
+Desse modo, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão embargado, sendo possível observar que esta Corte Superior apreciou integralmente a controvérsia, de forma clara e coesa, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Vê-se, portanto, que o embargante discorda da solução jurídica adotada na decisão monocrática e ratificada pelo acórdão que negou provimento ao agravo regimental. Pretende a modificação do acórdão embargado com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+No mesmo sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MERO INCONFORMISMO DA PARTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado, nos termos do art. 619 do Código de Processo Penal - CPP.
+2. Na hipótese, o embargante cingiu-se a afirmar que não há óbice à utilização de precedente proferido em sede de habeas corpus para fins de demonstração da divergência jurisprudencial. Tal entendimento não reflete a jurisprudência atual e consolidada deste Sodalício, que se formou em sentido diametralmente oposto.
+Precedentes.
+3. Verifica-se, assim, que o embargante não comprovou a existência de qualquer vício no julgado. Seus argumentos demonstram, tão somente, o inconformismo com o resultado do julgamento.
+4. "Nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp n. 1.923.200/RJ, de minha relatoria, Terceira Seção, julgado em 3/8/2023, DJe de 9/8/2023.)
+Ante o exposto, voto no sentido de rejeitar os embargos de declaração.
