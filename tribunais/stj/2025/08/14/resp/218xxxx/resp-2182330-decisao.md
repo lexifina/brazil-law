@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por INDÚSTRIA BRASILEIRA DE ARTEFATOS PLÁSTICOS S.A. - IBAP, com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ, fl. 213):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE NULIDADES CDA. INEXISTÊNCIA. DESPROVIMENTO DO APELO.
+1. Cuida-se de Embargos à execução opostos por INDUSTRIA BRASILEIRA DE ARTEFATOS PLASTICOS SA IBAP em face da UNIÃO (FAZENDA NACIONAL), por meio dos quais aduz a ausência de exigibilidade do título que lastreia a execução fiscal nº. 0000595-52.2014.4.05.8109, em razão da nulidade das CDA "s por não conter os requisitos previstos em lei, bem como em razão da ocorrência da prescrição, e a ilegalidade da multa moratória.
+2. Nos termos do art. 3º da Lei nº. 6.830/80, a Dívida Ativa regularmente inscrita goza da presunção de certeza e liquidez.
+3. Caso em que o apelante não se desincumbiu do ônus de provar a falta de liquidez e certeza da Certidão de Dívida que instruiu a presente demanda executória, vez que se limitou a formular alegações genéricas de que a referida CDA não foi emitida de acordo com os requisitos legais que lhe conferem a presunção relativa prevista no dispositivo legal supracitado. Mas, do que se colhe dos autos, é justamente o contrário, pois, verifica-se que a aludida certidão foi emitida em total conformidade com as determinações previstas no art. 2º, §5º, do da Lei nº. 6.830/80 c/c art. 202 do Código Tributário Nacional.
+4. No que se refere à existência de prescrição, a questão posta é de fácil deslinde, porquanto a execução fiscal tramitou inicialmente na Justiça Estadual. Pois bem, as CD As 30 6 09 000220-00 e 30 7 09 000071-06 tiveram seus créditos constituídos por declaração entregue em 17/08/2004. Por sua vez, a execução fiscal foi ajuizada na Justiça Estadual em 13/08/2009. Tal fato já afastaria a alegação da prescrição, contudo, a embargante ainda aderiu ao parcelamento da MP nº303/2006 em 29/09/2006, fato que interrompeu a prescrição. Assim, não há que se falar em prescrição.
+5. Não merece prosperar, ainda, a alegação de ilegalidade da multa moratória fixada em 20% (vinte por cento). Como efeito, a Lei nº. 10.522/02, em seu art. 37-A, determinou que os créditos das Autarquias e Fundações Públicas Federais serão acrescidos de juros e multa de mora nos termos da Lei nº 9.430/96, que, por sua vez, em seu art. 61, § 2º, limitou o percentual da multa de mora em 20% em relação aos débitos para com a União, decorrentes de tributos e contribuições administrados pela Secretaria da Receita Federal.
+6. Assim, não se vislumbra irregularidade na aplicação da multa moratória de 20% (vinte por cento) sobre o valor devido, pois tal penalidade encontra guarida no art. 37-A da Lei nº.10.522/02, e art. 61 da Lei nº. 9.430/96, tendo em vista que o ora apelante não efetuou o pagamento devido.
+7. Apelação desprovida.
+Nas razões do recurso especial (e-STJ, fls. 230-238), a recorrente aponta violação ao art. 174 do CTN.
+Requer, em caráter preliminar, a concessão da justiça gratuita.
+No mérito, sustenta, em síntese, que a execução fiscal foi ajuizada após o prazo legal de 5 (cinco) anos.
+Contrarrazões às fls. 243-256 (e-STJ).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 258-259).
+Brevemente relatado, decido.
+No caso dos autos, a parte requereu os benefícios da gratuidade de justiça, aduzindo que não detém condições financeiras para arcar com as custas do processo e honorários advocatícios, sem que isso acarrete prejuízos à viabilidade da empresa.
+Sobre o tema, dispõe a jurisprudência do Superior Tribunal de Justiça que a concessão dos benefícios da gratuidade de justiça à pessoa jurídica não prescinde da comprovação de sua impossibilidade de arcar com os encargos processuais.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA PETIÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. PRESCRIÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O deferimento do pedido de assistência judiciária gratuita depende da demonstração pela pessoa jurídica, com ou sem fins lucrativos, de sua impossibilidade de arcar com os encargos processuais (Súmula n. 481/STJ), o que não restou evidenciado na hipótese dos autos.
+3. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+4. Infirmar a conclusão do Tribunal de origem que, no exame da prescrição, afastou a aplicação do Tema 880 do STJ, porquanto ausente na hipótese a demora no fornecimento de documentos, demanda o reexame dos fatos e provas constantes nos autos, o que encontra óbice na Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl na PET no REsp n. 2.116.203/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/2/2025, DJEN de 24/2/2025.)
+No Tribunal de origem, foi formulado pedido de concessão da justiça gratuita, o qual foi indeferido diante da ausência de comprovação efetiva da impossibilidade de a parte arcar com as despesas processuais. Nesta instância superior, a recorrente renova o pedido, sem, contudo, apresentar documentos que comprovem sua alegada hipossuficiência econômica.
+Tendo em vista a improcedência do pleito em análise, fica prejudicado o exame do mérito do presente feito até que se proceda à regularização do preparo devido.
+Ante o exposto, conheço do recurso para indeferir o pedido de gratuidade de justiça e determinar a intimação da recorrente para, no prazo de 5 (cinco) dias, proceder ao devido recolhimento e à comprovação do preparo do recurso especial, sob pena de deserção, nos termos do art. 99, § 7º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PEDIDO FORMULADO POR PESSOA JURÍDICA. NECESSIDADE DE DEMONSTRAÇÃO DA IMPOSSIBILIDADE DE RECOLHIMENTO DO PREPARO. HIPOSSUFICIÊNCIA NÃO COMPROVADA. RECURSO CONHECIDO PARA INDEFERIR O PEDIDO DE GRATUIDADE DE JUSTIÇA E CONCEDER PRAZO PARA O RECOLHIMENTO DO PREPARO.
