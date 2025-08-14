@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por GILMAR DA SILVA ALVES, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que, ao conhecer parcialmente de sua apelação, negou provimento à pretensão defensiva, mantendo a condenação pela prática do crime previsto no art. 33, § 4º, da Lei nº 11.343/2006, fixada em 4 anos de reclusão, em regime aberto, além de 400 dias-multa.
+Nas razões recursais, o recorrente sustenta, em síntese, violação ao art. 33 caput da Lei de Drogas e ao art. 386, VII, do Código de Processo Penal, pleiteando sua absolvição sob o fundamento de insuficiência de provas, com aplicação do princípio in dubio pro reo. (fls. 297/317)
+Decisão de admissibilidade, citando decisões desta Corte, (fls. 330/333)
+Instado a se manifestar, o Ministério Público Federal, opino u pelo não conhecimento do Recurso Especial, ressaltando que o exame da pretensão defensiva demandaria o revolvimento do conjunto fático-probatório, providência sabidamente vedada nesta instância recursal, conforme estabelece o enunciado da Súmula 7/STJ.
+É o relatório. DECIDO.
+Nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, Recurso Especial não se presta à reapreciação de fatos e provas, nos termos da Súmula 7/STJ. No caso concreto, o acórdão recorrido enfrentou a matéria de forma exaustiva, concluindo que os elementos probatórios colhidos durante a instrução confirmam a prática do crime de tráfico, na modalidade "trazer consigo", não havendo qualquer inconsistência ou contradição que autorize o afastamento da condenação.
+A alegação de insuficiência probatória, arraigada em conflitos em depoimentos, não pode ser analisada sem o necessário reexame da valoração das provas produzidas pelas instâncias ordinárias, o que se mostra incompatível com a via eleita. Vale reiterar que o Superior Tribunal de Justiça possui entendimento pacífico de que a revalor ação de fatos ou provas, para rediscutir autoria, materialidade ou participação, esbarra na vedação sumular.
+O Tribunal de origem, , foi expresso ao consignar que a materialidade e a autoria do delito foram cabalmente demonstradas por Auto de Prisão em Flagrante, Boletim de Ocorrência, Laudo Pericial e, especialmente, pelos depoimentos coesos e harmônicos dos policiais militares, aptos a corroborar a versão acusatória
+Diante disso, verifico que o fundamento central do recurso especial encontra óbice intransponível, não sendo cabível o conhecimento do apelo.
+Ante o exposto, com fulcro no art. 932, III, do Código de Processo Civil, c/c o art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do Recurso Especial, em razão da incidência da Súmula 7/STJ.
+Publique-se. Intimem-se.
+EMENTA
