@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por CASA DE SAÚDE SANTA MARTA S.A., contra decisão que inadmitiu o recurso especial por impossibilidade de exame de suposta afronta a norma constitucional, incidência da Súmula n. 7 do STJ e porque não demonstrada a divergência jurisprudencial (fls. 1.094-1.104).
+O acórdão recorrido encontra-se assim ementado (fls. 889-890):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - PRELIMINARES - NÃO CONHECIMENTO PARCIAL DO APELO, POR AUSÊNCIA DE PRESSUPOSTO EXTRÍNSECO DE ADMISSIBILIDADE, RELATIVO À REGULARIDADE FORMAL - INOVAÇÃO DE PRETENSÃO EM SEDE RECURSAL - ACOLHIMENTO - PRELIMINAR DE ILEGITIMIDADE PASSIVA E CHAMAMENTO AO PROCESSO REJEITADAS - ERRO MÉDICO NÃO DEMONSTRADO RESPONSABILIDADE DO HOSPITAL - VERIFICAÇÃO - DANO MORAL - CONFIGURAÇÃO - INDENIZAÇÃO - QUANTUM - FIXAÇÃO - OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE - DANO MATERIAL,  ESTÉTICO - PENSIONAMENTO VITALÍCIO - SENTENÇA REFORMADA EM PARTE.
+Quando as matérias versadas em apelação extravasarem aquelas debatidas nos autos, impõe-se o não conhecimento do recurso, pois é vedado á parte inovar em grau recursal, sob pena de violação ao princípio do duplo grau de jurisdição, além de surpreender o litigante adverso.
+Em se tratando de instituições hospitalares, tem-se que a responsabilidade delas, de caráter objetivo, resume-se aos serviços anexos ao atendimento médico, respondendo, de forma objetiva, pela inadequada prestação. Responde o hospital pelo ato culposo praticado por profissional de sua equipe médica. Legitimidade passiva reconhecida.
+Por se tratar de relação de consumo, não é cabível o chamamento ao processo.
+No caso de responsabilização da instituição hospitalar por atos de seus prepostos prestadores de serviços de saúde, necessária a comprovação  de que tenham eles agido culposamente - com negligência, imperícia ou imprudência - para que surja sua obrigação de indenizar os prejuízos que tenham causado em razão de sua atividade, influxo dos artigos 14, § 4º , do CDC, e artigo 951 do Código Civil.
+Verificado, nos autos, que não houve conduta culposa do profissional cirurgião que atendeu a autora, o qual atuou de forma adequada, segundo a técnica recomendada para o caso, não há falar-se em responsabilidade civil. A entidade hospitalar é responsável objetivamente pelos prejuízos decorrentes dos fatos sob análise, diante da conduta culposa de um integrante do corpo clínico da ré, porquanto o dano ocorreu quando do procedimento de intubação.
+Comprovada a redução da capacidade laborativa, devido o pensionamento no importe de 1(um) salário mínimo, nos termos do ad. 950 do referido codex. Evidenciada a incapacidade laborativa permanente, cabível o pensionamento vitalício.
+Sofre dano moral a pessoa que tem violada sua integridade física. O valor da indenização mede-se pela extensão do prejuízo, conforme disposto no art. 944 do Código Civil.
+Demonstrado que as lesões decorrentes acarretaram repercussão negativa quanto à imagem da autora, mostra-se devida a indenização por danos estéticos.
+Os embargos de declaração foram rejeitados (fls. 940-947).
+Nas razões do recurso especial (fls. 950-967), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta violação dos arts. 7º, 9º, 10, 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional. Afirma que, apesar da oposição dos embargos de declaração, não foram analisadas questões decisivas para a solução da lide.
+Indica divergência jurisprudencial e contrariedade ao art . 14, § 3º, I, e § 4º, do CDC, sustentando que a responsabilidade do hospital depende da comprovação de culpa de seu preposto, o que não ocorreu no caso. Acrescenta que a responsabilidade objetiva do hospital relaciona-se exclusivamente à internação, instalações, equipamentos e serviços auxiliares e que a recorrida não lhe atribuiu qualquer falha na prestação do serviço hospitalar.
+Suscita afronta aos arts. 492, 1.013 e 1.014 do CPC/2015 alegando julgamento extra petita e violação do contraditório e da ampla defesa. Afirma ainda que não há prova da culpa do anestesista.
+Afirma que houve negativa de vigência ao art. 373, I, do CPC/2015, alegando que a recorrida "não logrou êxito em comprovar os fatos constitutivos do seu direito, sendo ilegítima qualquer presunção de culpa por parte dos ora Recorrentes" (fl. 966).
+No agravo (fls. 1.107-1.133), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fls. 1.158).
+É o relatório.
+Decido.
+Ausente ofensa aos arts. 7º, 9º, 10, 489 e 1.022 do CPC/2015.
+O Tribunal de origem apresentou, de forma clara e suficiente, os fundamentos pelos quais concluiu, após o exame do conjunto probatório dos autos, que ficou demonstrada a responsabilidade do hospital. Confira-se o seguinte excerto (fls. 900-905):
+Responsabilidade da Casa de Saúde Santa Marta
+Alegou a autora na inicial que ocorreu erro médico do profissional que a operou para retirada de nódulos que causaram aumento anormal da glândula tireoide. Afirmou que por imperícia do primeiro requerido, a cirurgia não ocorreu normalmente, tendo ficado sem voz, afônica. Constou que foram realizados novos procedimentos cirúrgicos para tentar reverter o quadro, todos infrutíferos e que desde o ano de 2012 está afônica, com perda total da voz, com dores na região do pescoço. Pediu a condenação em indenização equivalente aos danos material e moral.
+Pois bem.
+Inicialmente, registre-se que a relação estabelecida entre as partes é, em tese, de consumo, enquadrando-se elas na definição legal de consumidor e fornecedor, contida nos artigos 2º, caput, 3º, caput, e § 2º, do Código de Proteção e Defesa do Consumidor. O Diploma consumerista, em seu artigo 14, responsabiliza objetivamente o prestador de serviço - hipótese dos autos - pela sua má execução, assim dispondo:
+ ..
+Tratando-se de instituições hospitalares, sua responsabilidade resume-se aos serviços anexos ao atendimento médico, respondendo, de forma objetiva, pela inadequada prestação.
+ ..
+Já no caso de responsabilização do nosocômio, por atos de seus prepostos prestadores de serviços de saúde, é necessária a comprovação de que tenham eles agido culposamente - com negligência, imperícia ou imprudência - para que surja obrigação daquele de indenizar os prejuízos que tenham causado em razão de sua atividade, influxo dos artigos 14, § 4º, do CDC, e artigo 951 do Código Civil.
+ ..
+Portanto, para a configuração de responsabilidade civil, no caso, faz-se necessária a consolidação dos seguintes requisitos: (i) conduta, representada por uma ação ou omissão culposa, (ii) dano e (iii) nexo de causalidade entre eles.
+Dito isso, pelas regras ordinárias de distribuição do onus da prova, cabe ao autor a demonstração dos fatos constitutivos de seu direito, nos termos do que dispõe o art. 373, inciso 1, do Código de Processo Civil vigente, e, ao réu, de situação obstativa do direito alegado por aquele, segundo o inciso II, do mesmo dispositivo legal.
+A causa de pedir remota, deduzida na exordial, refere-se a suposto erro médico cometido pelo cirurgião; nos dizeres da autora, relacionado à retirada de nódulos que causaram o aumento anormal da glândula tireoide, aduzindo, na inicial, que "foram removidos erroneamente de seu pescoço, parte que na verdade não precisavam ser removidas, o que logicamente levou a necessidade de reconstrução da laringe para reverter o problema". (f.04)
+Deferida prova pericial, em resposta aos quesitos, o expert assim se manifestou:
+ ..
+Quando da análise técnica apresentada às ff. 690/691, após várias considerações sobre o caso e transcritas na sentença às ff.734/734v/736, sendo desnecessária a reprodução, o expert foi conclusivo ao afirmar que o "período sob pressão do tubo utilizado para manter a respiração durante a anestesia, provocou uma lesão da estrutura cartilagionosa da traqueia", tendo comprometido a capacidade da estrutura manter-se pérvia, ocasionado o estritor e, posteriormente, justificando a traqueostomia. Afirmou, também, que a condição apresentada pela autora não decorreu do ato cirúrgico diretamente, e sim do procedimento de intubação, parte componente da anestesia.
+Da mesma forma, analisando os prontuários médicos anexados aos autos, corrobora a conclusão do expert, a manifestação da médica anestesiologista às f.180 - Avaliação da Anestesia - após o procedimento cirúrgico da autora no sentido de que aquela apresentou estritor laríngeo pós-extubação no centro cirúrgico.
+Pelo conteúdo elucidativo, no que concerne a questão, transcrevo lição a respeito da intubação:
+ ..
+A anestesiologista registrou que a autora apresentou estritor laríngeo pós-extubação no centro cirúrgico, ou seja, a complicação foi após o procedimento de intubação e o perito afirmou que o período sob pressão do tubo utilizado para manter a respiração durante a . anestesia, provocou uma lesão da estrutura cartilagionosa da traqueia, ou seja, diante do conhecimento da fragilidade na traqueia da autora durante o ato deveria o profissional responsável pelo manejo da ventilação mecânica ter tido mais cuidado com a intubação para evitar o risco de complicações.
+A perícia indicou que o período sob pressão do tubo no ato, bem como, os documentos indicados na sentença, especialmente o de ff. 687/688, no qual constam que não conseguiram extubar a paciente após a cirurgia, com diversas outras tentativas, sem sucesso, indicam que não foram tomadas as medidas preventivas de modo a auxiliar na diminuição da lesão.
+Consequentemente, a entidade hospitalar é responsável objetivamente pelos prejuízos decorrentes dos fatos sob análise, diante da conduta culposa de um integrante do corpo clínico da ré.
+Em razão disso, correta está a sentença, que julgou procedente o pedido inicial, por estarem consolidados os requisitos  caracterizadores da responsabilidade civil.
+O simples fato de a decisão ter sido contrária aos interesses das parte recorrente não configura ofensa aos dispositivos processuais indicados.
+No mais, o especial não merece seguimento por incidência da Súmula n. 7 do STJ.
+A Corte estadual analisou os elementos fáticos para concluir que foi demonstrado erro na prestação do serviço médico e, por isso, a recorrente deve responder pelos danos ocorridos. Alterar tal conclusão demandaria nova análise de prova, o que é vedado em recurso especial.
+O mesmo óbice impede a análise da alegada divergência jurisprudencial.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
