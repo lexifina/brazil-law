@@ -1,0 +1,26 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do HC n. 728.943/RJ (fl. 974).
+Trata-se de agravo interposto por OCIMAR PRADO JUNIOR contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0104186-37.2021.8.19.0001 (fls. 847/851).
+No recurso especial, a parte agravante alegou, em síntese, violação dos arts. 18, I, do Código Penal, 156 do Código de Processo Penal e 16, § 1º, IV, da Lei n. 10.826/2003, pugnando por sua absolvição, por insuficiência de provas acerca do dolo na conduta de possuir arma de fogo (fls. 859/890).
+Inadmitido o recurso na origem (fls. 931/934), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 939/948).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 976/981).
+É o relatório.
+O agravo comporta conhecimento, porquanto houve a devida impugnação dos fundamentos da decisão agravada. Contudo, o recurso especial não merece prosperar.
+O recorrente busca a absolvição ao argumento de que as provas dos autos seriam insuficientes para demonstrar o dolo de possuir a arma de fogo apreendida. Sobre a matéria, o Tribunal de origem assim entendeu (fls. 849/850 - grifo nosso):
+ ..
+Paralelamente, assim, restaram demonstradas a autoria e materialidade do crime de porte ilegal de arma de fogo de uso permitido com numeração raspada, pois os policiais federais, ouvidos em Juízo, sob o crivo do contraditório e da ampla defesa, confirmaram tudo o que já haviam declarado na Delegacia, durante as investigações (cf. às e-fls. 000032/000058, 000435/000439 e 000484/000487), afirmando com segurança e coerência que, in verbis:
+O policial federal José Ricardo Santana Mingozzi, assegurou: "(..); "que participava da equipe que adentou ao quarto, onde se encontrava o réu e na entrada perguntaram se ele possuía arma, tendo ele apontado que a arma estaria embaixo de um móvel. Que tinha munição. A equipe policial estava cumprindo mandado de busca e de prisão. Que a arma estava dentro do quarto onde o réu se encontrava. Que na casa havia várias pessoas.". (..)".
+A policial federal Ana Karla da Costa Buczynski, afirmou: "(..); "que a equipe policial entrou às 6h na casa do acusado e este indicou onde estava a arma, sendo que a declarante não estava presente no exato momento em que ele apontou a arma, tendo entrado logo em seguida. A equipe diligenciou ao local para cumprimento de mandado referente a tráfico de drogas". "(..)".
+O Delegado da Polícia Federal Bruno Tavares Simões, afirmou: "(..); "afirmou que, em auxílio a uma investigação oriunda de Manaus, foi com a equipe policial cumprir mandados no endereço de Ocimar. Que a arma foi encontrada no quarto onde Ocimar dormia. Que Ocimar indicou onde a arma estava escondida e que depois houve a abertura do cofre. Depois o Thyago teria assumido a responsabilidade pela arma de fogo.". "(..)".
+Os testemunhos prestados por policiais federais, quando em harmonia com as provas dos autos, não contraditados ou desqualificados, são merecedores de credibilidade na medida em que parte de agentes públicos no exercício de sua função.
+ ..
+Em verdade, as circunstâncias dos fatos indicam como o acusado, ora apelante, foi preso, pois sem autorização e em desacordo com determinação legal ou regulamentar, possuía e mantinha sob sua guarda, sem autorização e em desacordo com determinação legal ou regulamentar uma arma de fogo do tipo pistola, da marca Glock Gas. 9mm, modelo G 19, com código serial suprimido, acompanhada de carregador e de 05 (cinco) munições compatíveis, sendo certo que se trata de delito de mera conduta ou de perigo abstrato, cujo objeto imediato é a segurança coletiva consoante o Laudo de Perícia Criminal Federal (cf. às e-fls. 000094/000104).
+ ..
+Do excerto transcrito, observa-se que o Tribunal de origem, soberano na análise do acervo fático-probatório, concluiu pela existência de elementos suficientes para a condenação do agravante, com base nos depoimentos dos policiais federais que efetuaram a prisão em flagrante. A Corte local assentou que o réu possuía e mantinha a arma de fogo sob sua guarda, em seu quarto, tendo, inclusive, indicado o local onde o artefato estava.
+Nesse contexto, as instâncias ordinárias entenderam que havia uma situação de posse da arma pelo recorrente, afigurando-se irrelevante o debate sobre a propriedade do artefato  especialmente por se tratar de armamento com numeração suprimida e sem registro  para a configuração do tipo penal.
+Assim, para se chegar a conclusão diversa da firmada pelo colegiado e absolver o recorrente por ausência de dolo, seria imprescindível o reexame de fatos e provas, providência vedada em recurso especial, nos termos da Súmula 7 desta Corte. Nesse sentido: AgRg no AREsp n. 2.123.336/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.
+Em razão do exposto, conheço do agravo para não conhecer do recurso especial (art. 253, parágrafo único, II, a, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA. TESE DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. AUSÊNCIA DE DOLO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
