@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por DAMBROZ EMPREENDIMENTOS E ADMINISTRACAO LTDA e OUTRA em face da decisão acostada às fls. 377-388 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 232-237 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+Agravo de instrumento. Recuperação judicial. Insurgência quanto ao plano de recuperação aprovado. Declarada ineficaz, em relação à agravante, a cláusula que afasta as garantias de terceiros e coobrigados, posto que se insurgiu quanto à instituição de tal cláusula. Incompatibilidade com o art. 49, § 1º, da LRF Entendimento firmado no REsp 1.700.487/MT. Afastada cláusula que previa isenção das recuperandas ao pagamento de custas em processos nos quais figurem no polo passivo. Impossibilidade de a AGC dispor acerca de ônus sucumbenciais em outros processos. Pedido de realização de nova avaliação do imóvel a ser alienado. Ausência de interesse recursal no ponto. Agravo de instrumento provido em parte.
+Opostos embargos declaratórios (fls. 258-265 e-STJ), restaram desacolhidos na origem (fls. 269-276 e-STJ).
+Nas razões de recurso especial (fls. 290-312 e-STJ), alegaram as insurgentes que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 489 do CPC/15, aduzindo a existência de omissão por não ter sido seguido precedente invocado pela parte; (ii) artigos 49, §2º, e 59 da Lei n. 11.101/05, bem como dissídio jurisprudencial, arguindo a necessidade de suspensão das ações movidas em face dos coobrigados, pois a extinção das garantias aprovada em assembleia acarreta a novação em relação aos garantidores.
+Contrarrazões às fls. 368-374 e-STJ.
+Em juízo prévio de admissibilidade (fls. 377-388 e-STJ), a Corte de origem negou seguimento, em parte, ao apelo nobre e, no mais, inadmitiu o reclamo.
+Agravo interno (fls. 403-423 e-STJ) desprovido na origem, com aplicação de multa (fls. 454-462 e-STJ). Aclaratórios rejeitados (fls. 464-505 e-STJ).
+Interpôs-se, ainda, o presente agravo (art. 1.042 do CPC/15), às fls. 519-539 e-STJ, por meio do qual pretendem ver admitido o recurso especial.
+Contraminuta às fls. 558-564 e-STJ.
+Em razão da desistência manifestada em feito conexo (AREsp 1.806.697/RS), determinou-se (fl. 579 e-STJ) a intimação da parte para infirmar se persistia o interesse no julgamento do presente recurso.
+Em resposta (fls. 583-684 e-STJ), as insurgentes arguiram a necessidade de conhecer-se do "agravo, para julgar prejudicado o mérito do recurso especial, contudo, produzindo efeitos nas decisões proferidas no feito" (fl. 583 e-STJ). Discorreram sobre a adequação do manejo de dois recursos em face da decisão que negou seguimento em parte e, no mais, inadmitiu o apelo nobre na origem, bem como sobre a ausência de caráter abusivo/protelatório, motivo pelo qual descabida a aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+É o relatório.
+Decide-se.
+1. O presente feito recursal tem origem em decisão proferida em primeira instância (fls. 142-145 e-STJ), em 17 de maio de 2019, que homologou plano de recuperação judicial aprovado em assembleia realizada em 08 de novembro de 2018.
+Ocorre que, além do reclamo originário, a referida decisão foi impugnada pelo agravo de instrumento n. 0139938-39.2019.8.21.7000, o qual restou provido pela Corte local "para desconstituir a decisão recorrida e determinar a apresentação de um novo plano de recuperação, no prazo de sessenta dias" (conforme se extrai dos autos do AREsp 1.806.697/RS, fl. 242 e-STJ).
+Consoante informado no feito conexo (AREsp 1.806.697/RS), e reiterado nos presentes autos, "após o julgamento realizado pelo acórdão do Tribunal de Justiça do Rio Grande do Sul (..), houve o retorno da marcha processual (..), sendo apresentado um novo Plano de Recuperação Judicial, o qual foi objeto de deliberação em Assembleia Geral de Credores realizada em 25/08/2022, sendo aprovado pela maioria dos credores" (fl. 588 e-STJ).
+O referido plano foi homologado parcialmente por decisão proferida em 24/11/2023 (fls. 622-680 e-STJ).
+Inegável, portanto, a prejudicialidade do presente feito recursal, que discutia a homologação de plano de recuperação anterior (2018), posteriormente substituído por novo plano (já aprovado, homologado e em cumprimento).
+2. Às fls. 583-684, em que pese reconhecendo a prejudicialidade do recurso, as insurgentes pugnaram "que o presente Agravo seja conhecido para, no mérito, julgá-lo prejudicado em razão da perda superveniente do objeto (..), contudo, produzindo efeitos sobre as demais decisões proferidas no feito" (fl. 589 e-STJ).
+Todavia, não esclareceram quais seriam os efeitos pretendidos.
+Considerando as razões expostas na manifestação apresentada, as agravantes, aparentemente, pretendiam alguma providência/consequência em relação à multa aplicada pela Corte de origem às fls. 454-462 e-STJ, ao desprover o agravo interno interposto em face da decisão que, em parte, negou seguimento apelo nobre com fundamento em recurso repetitivo.
+Ocorre que, qualquer que seja o destino do presente agravo (art. 1.042 do CPC/15), não há qualquer possibilidade de exame, neste feito, acerca da adequação da multa aplicada naquele julgamento (pois não foi aquele o acórdão objeto do recurso especial).
+Ou seja, houvesse desistência, prejudicialidade, desprovimento ou acolhimento do presente feito recursal, em nenhuma hipótese caberia qualquer providência em relação à multa aplicada às fls. 454-462 e-STJ - já que não integra, repita-se, o objeto do reclamo ora em julgamento.
+3. Do exposto, com fulcro no artigo 34, XI, do RISTJ, julga-se prejudicado o recurso, ante a perda do objeto da pretensão recursal.
+Publique-se.
+Intimem-se.
+EMENTA
