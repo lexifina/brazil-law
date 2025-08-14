@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por in cidência da Súmula n. 7 do STJ (fls. 504-509).
+O acórdão recorrido está assim ementado (fls. 323-325):
+APELAÇÕES CÍVEIS - AÇÃO DECLARATÕRIA DE RESOLUÇÃO DE CONTRATO C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS - ALEGAÇÃO DE DESCUMPRIMENTO CONTRATUAL- OFERTA VEICULADA NÃO CUMPRIDA -SENTENÇA QUE DECLAROU RESCINDIDO O CONTRATO, CONDENANDO AS REQUERIDAS A DEVOLUÇÃO SIMPLES DO VALOR PAGO, INCIDINDO JUROS MORATÓRIOS DE 1% (UM POR CENTO) AO MÊS E CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 3.000,00 (TRÊS MIL REAIS). APELO DAS REQUERIDAS ALEGANDO ILEGITIMIDADE PASSIVA E INEXISTÊNCIA DE ATO ILÍCITO E DO DEVER DE INDENIZAR A RESPONSABILIDADE DA CADEIA DE FORNECEDORES DE SERVIÇOS É SOLIDÁRIA E OBJETIVA NOS TERMOS DO ART. 7º, PARÁGRAFO ÚNICO C/C ART. 14, DO CDC- PRELIMINAR ILEGITIMIDADE PASSIVA REJEITADA- VEROSSIMILHANÇA DAS ALEGAÇÕES DO AUTOR - VÍCIO DO CONSENTIMENTO - ERRO QUANTO AS CONDIÇÕES PACTUADAS NO CONSÓRCIO - OFERTA DE ISENÇÃO DE FRETE PARA A ENTREGA DA MOTOCICLETA NA CIDADE DO AUTOR SEM CUSTOS - OFERTADA A PROPOSTA NEGOCIAL, O FORNECEDOR ESTÁ OBRIGADO A CUMPRI-LA - INTELIGÊNCIA DOS ARTS. 30 E 31 DO CDC - DEMANDADAS NÃO SE DESINCUMBIRAM DO ÔNUS PROBATÓRIO QUE LHE COMPETIAM POR FORÇA DO ART. 373, II DO CPC- DANO MORAL NÃO CONFIGURADO- MERO DESCUMPRIMENTO CONTRATUAL NÃO GERA O DEVER DE INDENIZAR - SENTENÇA REFORMADA EM PARTE.
+RECURSO AUTORAL ADESIVO PLEITEANDO A MAJORAÇÃO DA CONDENAÇÃO EXTRAPATRIMONIAL - PREJUDICADO. RECURSO DAS DEMANDADAS CONHECIDO E PARCIALMENTE PROVIDO PARA AFASTAR A CONDENAÇÃO POR DANOS MORAIS- RECURSO AUTORAL PREJUDICADO. UNÂNIMIDADE.
+No recurso especial (fls. 371-412), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente, além de divergência jurisprudencial, aponta ofensa aos arts. 186, 927 do Código Civil, 6º, III, IV, VI, VIII, 14, 30, 31, 52, I, II, III, V, do Código de Defesa do Consumidor.
+Sustenta, em síntese, que "é inquestionável que a retenção ilegal de crédito do recorrente, bem como o deliberado descumprimento de oferta contratual contraria as disposições do CDC (arts. 6º, 30, 31 e 52) e ocasionam dano moral in re ipsa, pois impossibilita o exercício de um direito legítimo a quem está numa situação de vulnerabilidade e numa circunstância em que o que se busca preservar é a saúde e dignidade do consumidor" (fl. 385).
+Alega que "o TJSE, apesar de reconhecer a irregularidade e a abusividade da conduta praticada, deixou de determinar o dever de reparar os danos morais, através de conclusão jurídica paradoxal à toda sua fundamentação anterior" (fl. 404).
+Suscita que "o TJSE, apesar de reconhecer a irregularidade e a abusividade da conduta praticada, deixou de determinar o dever de reparar os danos morais, através de conclusão jurídica paradoxal à toda sua fundamentação anterior" (fl. 405).
+Destaca, assim, que o Juiz não poderia ter julgado antecipadamente a lide.
+Foram apresentadas contrarrazões (fls. 439-451 e 461-468).
+No agravo (fls. 514-533), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 539-549).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (fls . 329-330):
+ ..  No que tange à condenação por danos morais, segundo a moderna doutrina e a jurisprudência dominante, pequenos dissabores e contrariedades, normais na vida em sociedade, não são indenizáveis.
+Assim, existem situações que se consubstanciam em aborrecimentos comuns do cotidiano moderno, não suscetíveis de indenização. São situações, certamente, desagradáveis, que geram aborrecimentos, mas que, no entanto, são inevitáveis e não passíveis de qualquer reparação (REsp n. 604.620, do Paraná, rel. Min. Nancy Andrighi)".
+O Direito Pátrio já firmou posicionamento segundo o qual a ofensa moral, embora não tenha cunho patrimonial, caracteriza-se como dano efetivo, na medida em que atinge valores internos da pessoa, ou seja, seu patrimônio subjetivo.
+É certo, ainda, que os direitos da personalidade foram elevados, pela Constituição da República, à categoria de bens legítimos e que, se agredidos, ensejam a reparação civil.
+A questão relativa aos danos morais é corolário dos direitos fundamentais à intimidade, imagem e honra, todos constitucionalmente assegurados, especialmente no inciso X do art. 5º da Carta Magna ao dispor: "são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação".
+Da mesma forma, o Código Civil contempla expressamente o instituto do dano moral em seu art. 186, segundo o qual "aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito".
+Não se pode perder de vista, no entanto, que a reparação da dor moral segue a regra geral da responsabilidade civil.
+Assim, o dever de indenizar moralmente uma pessoa existe quando esta passa, efetivamente, por abalo emocional, dor, vexame, humilhação, sofrimentos aptos a causarem lesão aos direitos da personalidade.
+Portanto, não configurou-se dano moral indenizável o vício de consentimento da aquisição do consórcio, posto que o fato descrito, dentro de um critério objetivo, não se mostra suficiente para causar abalo à integridade psicológica do demandante.
+Ainda que tenha ocorrido contrariedades ao requerente, não ficou demonstrada a existência de dano que justifique a indenização almejada.
+ ..  Desta maneira, concluo não haver restado comprovado o ato lesivo descrito, o dano alegado e o nexo de causalidade, requisitos estes essenciais para a procedência do pleito reparatório em apreço.
+Em assim sendo, entendo que merece retoque a sentença vergastada quanto a este ponto, para afastar a condenação por danos morais.
+Nesse contexto, rever as conclusões do acórdão recorrido e analisar as alegações suscitadas demandaria o revolvimento do contexto fático-probatório dos autos, vedado em recurso especial pela Súmula n. 7 do STJ.
+Finalmente, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte recorrente não se desincumbiu, o que atrai a incidência da Súmula n. 284 do STF relativamente a esse tópico .
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
