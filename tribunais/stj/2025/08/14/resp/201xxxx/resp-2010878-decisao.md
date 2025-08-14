@@ -1,0 +1,38 @@
+DECISÃO
+Em análise, recurso especial interposto por ZPM AGENCIAMENTO DE SERVIÇOS EIRELI contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CRÉDITOS EXIGÍVEIS POR OCASIÃO DO AJUIZAMENTO DA EXECUÇÃO FISCAL.
+Não são cabíveis honorários advocatícios decorrentes do acolhimento da exceção de pré-executividade se, ao tempo do ajuizamento da execução fiscal, os créditos estavam dotados de exigibilidade. (fl. 421)
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, aponta a recorrente, além de divergência jurisprudencial, violação aos arts. 85, 783, 788 e 803, I, e parágrafo único, do CPC; 151, II e VI, e 156, II, do CTN.
+Contrarrazões às fls. 474/745.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Decido.
+Conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, os arts. 85, 783, 788 e 803, I, e parágrafo único do CPC; 151, II e VI, do CTN não foram objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+De outra parte, observo que os art. 156, II do CTN não possui comando normativo apto para infirmar a fundamentação exposta no acórdão recorrido, e sustentar as alegações trazidas pela parte recorrente.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR PREPARATÓRIA. PROCESSO PRINCIPAL EXTINTO, COM RESOLUÇÃO DE MÉRITO. PERDA DE OBJETO DA CAUTELAR. SUPOSTA VIOLAÇÃO AO DISPOSITIVO INDICADO. COMANDO NORMATIVO INAPTO DE SUSTENTAR A TESE RECURSAL. SÚMULA 284/STF. VERIFICAÇÃO DE INTERESSE PROCESSUAL E AUSÊNCIA DE PERDA DO OBJETO. QUESTÃO ATRELADA AO CONTEXTO FÁTICO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A admissibilidade do recurso especial exige que o citado dispositivo legal indicado como violado possua comando normativo apto de sustentar a tese recursal que fundamenta a alegada violação, sob pena de atrair a incidência da Súmula 284 do STF, por analogia.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.241.565/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023 - Grifo nosso).
+Ademais, observa-se que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim, ilidir o afirmado pelas instâncias ordinárias, acatando toda a linha argumentativa da recorrente , para fins de reconhecer a causalidade no sentido da condenação em honorários advocatícios da UNIÃO, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. DESISTÊNCIA DA AÇÃO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REVISÃO. JUNTADA DE DOCUMENTOS EM CONTRARRAZÕES DE APELAÇÃO. CONVENCIMENTO FIRMADO COM BASE NOS ELEMENTOS JÁ EXISTENTES NOS AUTOS. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N.7/STJ.
+1. A Primeira Seção, no julgamento do REsp n. 1.111.002/SP, na sistemática dos recursos repetitivos, definiu tese segundo a qual, ainda que a execução fiscal seja extinta em razão do ajuizamento indevido por parte da Fazenda Pública, deve se observar o princípio da causalidade, caso a caso, para se atribuir o ônus pelo pagamento dos honorários advocatícios de sucumbência, afastando-se a condenação da exequente, na hipótese em que a instauração do processo executivo decorra de ato do contribuinte/responsável.
+2. Hipótese em que o Tribunal de origem, com fundamento nos documentos juntados aos autos, entendeu que a Fazenda Pública não deu causa ao ajuizamento da demanda, afastando a condenação em honorários advocatícios de modo que rever tal entendimento esbarrar no óbice da Súmula n. 7/STJ.
+3. Nos termos da jurisprudência do STJ, "excepcionalmente, pode ser admitida a juntada de documentos relevantes para a formação do livre convencimento motivado, desde que não haja má-fé na juntada extemporânea e o direito ao contraditório seja observado pelo Julgador" (REsp n. 1.719.131/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/2/2020, DJe de 14/2/2020).
+4. É vedado, em recurso especial, o reexame de fatos e provas.
+Incidência da Súmula n. 7/STJ.
+Agravo interno improvido (AgInt no REsp n. 1.928.280/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023 - Grifo nosso).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO. EQUIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa ao art. 535 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. É assente o entendimento de que não cabe ao STJ rever a conclusão adotada pelo Tribunal de origem quanto ao princípio da causalidade ou à sucumbência recíproca, visto que isso implica o revolvimento do contexto fático-probatório, inviável na instância especial à luz da Súmula 7 deste Superior Tribunal. Precedentes.
+3. Esta Corte possui o entendimento, sedimentado em julgamento realizado sob a sistemática dos recursos repetitivos, de que, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+4. Na hipótese dos autos, a verba honorária arbitrada em 1% (um por cento) do valor fixado na sentença dos embargos à execução não se mostra desarrazoada, mormente levando em consideração o tempo decorrido desde o seu ajuizamento (dezembro/2008), sendo o caso de se obstar o apelo nobre em face da Súmula 7 do STJ.
+5. Agravo interno desprovido (AgInt no AREsp n. 1.437.906/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2021, DJe de 14/12/2021 - Grifo nosso).
+Por fim, "assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a , servem de justificativa quanto à alínea c do permissivo constitucional" (AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
