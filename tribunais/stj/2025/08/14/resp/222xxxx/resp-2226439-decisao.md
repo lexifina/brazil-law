@@ -1,0 +1,60 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por EDSON LUIZ SCHWAB, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 81e):
+AGRAVO. DECISÃO DO RELATOR QUE NEGA PROVIMENTO AO RECURSO DE AGRAVO DE INSTRUMENTO, COM FUNDAMENTO NO ARTIGO 932, INCISO IV, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA, EM FASE DE CUMPRIMENTO DE SENTENÇA. INDEFERIMENTO DO PEDIDO DE APLICAÇÃO RETROATIVA DA LEI N.º 14.230/21, PARA QUE FOSSE RECONHECIDA A PRESCRIÇÃO INTERCORRENTE. EXEGESE DO TEMA 1.199 DA REPERCUSSÃO GERAL RECONHECIDA NO ÂMBITO DO ARE 843989 PELO SUPREMO TRIBUNAL FEDERAL. ARGUMENTOS QUE SÃO INCAPAZES DE INFIRMAR O JUÍZO DE CONVICÇÃO ANTERIORMENTE FORMADO. RECURSO DESPROVIDO.
+Com amparo no art. 105, III, a e c, da Constituição da República, aponta-se, além de divergência jurisprudencial, ofensa aos arts. 23, §§ 1º, 4º, 5º e 8º; c/c 1º, § 4º, da Lei n. 8.429/1992, alegando-se, em síntese, a aplicabilidade retroativa da Lei n. 14.230/2021, que alterou a Lei de Improbidade Administrativa, para fins de reconhecimento da prescrição intercorrente.
+Com contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 161e).
+O Ministério Público Federal manifestou-se às fls. 149/156e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+- Da violação aos arts. aos 23, §§ 1º, 4º, 5º e 8º; c/c 1º, § 4º, da Lei n. 8.429/1992
+O Tribunal a quo, ao analisar a controvérsia, aplicou ao caso o Tema 1.199/STF, o qual estabelece que o novo regime prescricional previsto na Lei n. 14.230/2021 é irretroativo.
+Entretanto, a parte recorrente deixou de impugnar tal fundamento, suficiente para manter o acórdão recorrido.
+Nesse cenário, as razões recursais encontram-se dissociadas daquilo que restou decidido pelo Tribunal de origem, caracterizando a deficiência na fundamentação do recurso especial, a atrair, por analogia, os óbices das Súmulas ns. 283 e 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Espelhando tal compreensão, os julgados assim ementados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DISCURSÃO SOBRE MATÉRIA TRIBUTÁRIA. LEGITIMIDADE ATIVA DO PARQUET. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO E RAZÕES RECURSAIS DISSOCIADAS DE SEUS FUNDAMENTOS. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 283 E 284/STF. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.
+ ..
+2. Caso em que o recorrente deixou de impugnar o fundamento autônomo do acórdão recorrido, estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do STF.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.050.268/SP, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18.12.2023, DJe de 21.12.2023 - destaque meu).
+PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. IMPOSIÇÃO DE MULTA ADMINISTRATIVA PELO PROCON ESTADUAL. EMPRESA DE TELEFONIA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO AOS CONSUMIDORES ACERCA DA COBRANÇA DE TARIFAS EXTRAS. CONFIGURAÇÃO DE INFRAÇÃO ÀS NORMAS CONSUMERISTAS. CABIMENTO DA MULTA APLICADA. REDUÇÃO DO VALOR DA MULTA PELO TRIBUNAL DE ORIGEM. HONORÁRIOS ADVOCATÍCIOS. ACOLHIMENTO DO PEDIDO SUBSIDIÁRIO E REJEIÇÃO DO PRINCIPAL. SUCUMBÊNCIA RECÍPROCA. FUNDAMENTOS DO ACÓRDÃO A QUO NÃO COMBATIDOS. SÚMULAS 283 E 284/STF.
+ ..
+3. Nas razões recursais, nota-se que a parte recorrente não infirma os argumentos de que "constatada a hipótese de sucumbência reciproca, decorrente do acolhimento apenas do pleito subsidiário", limitando-se a defender que "a severa redução havida sobre a multa administrativa impingida à Recorrente pelo Estado ora recorrido caracteriza sucumbência em parte mínima do pedido que encampou na exordial, o que de antemão assegura-lhe a percepção da totalidade dos honorários advocatícios devidos calculados sobre o proveito econômico obtido". Como a fundamentação do acórdão recorrido é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, não há como conhecer do recurso. Por isso, aplicam-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+ ..
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.087.302/MG, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 22.08.2024 - destaque meu).
+E o colegiado local, soberano na análise dos elementos fáticos contido nos autos, consignou que "até a presente data não transcorreu lapso temporal suficiente para aplicação da prescrição intercorrente" (fl. 84e).
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+- Do dissídio jurisprudencial
+Quanto à alegação de divergência jurisprudencial, o recurso especial também não pode ser conhecido.
+A uma, pois é firme o posicionamento desta Corte segundo o qual os óbices os quais impedem a apreciação do recurso pela alínea a prejudicam a análise do recurso especial pela alínea c do permissivo constitucional como o demonstra o julgado assim ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE SERVIÇO PÚBLICO. AÇÃO CIVIL PÚBLICA. PRAZO PRESCRICIONAL. 5 ANOS. TERMO INICIAL: ENCERRAMENTO DO CONTRATO.RECURSO REGIDO PELA SISTEMÁTICA DO CPC/1973. HIPÓTESE EM QUE A QUESTÃO DA PRESCRIÇÃO NÃO FOI ANALISADA, MESMO APÓS A OPOSIÇÃO DE ACLARATÓRIOS. INEXISTÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE DISCUSSÃO E DECISÃO. AUSÊNCIA DE ALEGAÇÃO NO RECURSO ESPECIAL DE NULIDADE POR VIOLAÇÃO DO ART. 535 DO CPC/1973. INAFASTABILIDADE DA INCIDÊNCIA DA SÚMULA 211/STJ QUANTO AO TEMA. HIPÓTESE QUE PREJUDICA A ANÁLISE DA DIVERGÊNCIA SUSCITADA NO RECURSO ESPECIAL. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A caracterização do prequestionamento demanda a necessidade de discussão e decisão a respeito do tema jurídico, o que não ocorreu no caso dos autos. Impossibilidade de admissão do chamado prequestionamento ficto, caracterizado apenas pela mera oposição de Aclaratórios.
+Precedentes do STJ: AgInt no REsp. 1.248.586/SC, Rel. Min. SÉRGIO KUKINA, DJe 10.9.2018 e AgRg no REsp. 1.366.052/SP, Rel. Min.
+HUMBERTO MARTINS, DJe 19.2.2015, dentre outros.
+2. A aplicação de óbice de conhecimento quanto à ofensa legal, no tocante ao mesmo tema, prejudica a análise dada a divergência, conforme entendimento massificado deste STJ.
+3. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp 1034418/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 11/03/2020)
+A duas, porque a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o Recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. MANDADO DE SEGURANÇA. ICMS. ATO ILEGAL. CONFIGURAÇÃO DO JUSTO RECEIO CAPAZ DE ENSEJAR A CONCESSÃO DA SEGURANÇA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+(..)
+V - É entendimento pacífico dessa Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, ante a ausência de cotejo analítico entre os julgados confrontados.
+(..)
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.645.092/AC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/09/2017, DJe 02/10/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL DO ESTADO DE MINAS GERAIS. ICMS. CREDITAMENTO. DECRETO ESTADUAL. INCIDÊNCIA DA SÚMULA 280/STF. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ANÁLISE DA DESTINAÇÃO DA MERCADORIA CONSUMIDA PARA FINS DE APROVEITAMENTO DO CRÉDITO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL.
+1. Análise da controvérsia posta demandaria o exame de legislação local, tendo em vista que o Tribunal de origem adotou como fundamento do decisum o RICMS/2002 e o Decreto Estadual n. 44.596/2007. Incidência da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário". Além disso, após a edição da Emenda Constitucional n. 45/2004, a competência para o julgamento de causas nas quais lei local é contestada em face de lei federal foi transferida para o Supremo Tribunal Federal, consoante a dicção do art. 102, III, "d", da Carta Magna.
+2. O Tribunal de origem, soberano na análise das provas, decidiu que ficou "comprovado nos autos que os produtos se referem às mercadorias adquiridas para integração ou consumo em processo de produção de produtos industrializados com destinação ao exterior".
+3. Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se as mercadorias consumidas não integraram o processo de industrialização, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Segundo a jurisprudência deste STJ, a simples transcrição de ementas e de trechos de julgados não tem o condão de caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, ainda quando se trate de dissídio notório.
+5. Recurso especial não conhecido.
+(REsp n. 1.691.118/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/10/2017, DJe 11/10/2017 - destaque meu).
+- Dispositivo
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
