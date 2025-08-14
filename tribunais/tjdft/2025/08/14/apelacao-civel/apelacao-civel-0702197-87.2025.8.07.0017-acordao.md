@@ -1,0 +1,114 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0702197-87.2025.8.07.0017APELANTE(S)FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDITAS AUTO VIIIAPELADO(S)ANDRESSA RODRIGUES PEREIRA JUNIORRelatorDesembargador LUÍS GUSTAVO B. DE OLIVEIRA
+ Acórdão Nº2034039
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL. AUSÊNCIA DO DESTINATÁRIO. VALIDADE. TEMA 1.132 STJ. RECURSO CONHECIDO E PROVIDO. SENTENÇA CASSADA.
+
+I. CASO EM EXAME
+
+1. Trata-se de apelação em face à sentença que extinguiu a ação de busca e apreensão pela não comprovação da constituição em mora do devedor, pois a notificação extrajudicial encaminhada ao requerido retornou com a anotação "ausente".
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em definir se a notificação extrajudicial enviada ao endereço fornecido pelo devedor, mas não entregue por ausência do destinatário, é suficiente para comprovar a mora e permitir o prosseguimento da ação de busca e apreensão.
+
+III. RAZÕES DE DECIDIR
+
+3. A notificação extrajudicial enviada ao endereço constante do contrato, mesmo que não entregue por ausência do destinatário, é suficiente para comprovar a mora, conforme tese fixada pelo STJ no Tema 1.132
+
+4. A boa-fé e a cooperação exigem que o devedor comunique ao credor fiduciário qualquer mudança de endereço
+
+5. A ausência de comunicação de mudança de endereço pelo devedor não impede a comprovação da mora e o prosseguimento da ação de busca e apreensão
+
+IV. DISPOSITIVO E TESE
+
+6. RECURSO CONHECIDO E PROVIDO. SENTENÇA CASSADA.
+
+Tese de julgamento: A notificação extrajudicial enviada ao endereço fornecido pelo devedor, mesmo que não entregue por ausência do destinatário, é suficiente para comprovar a mora e permitir o prosseguimento da ação de busca e apreensão.
+
+Dispositivos relevantes citados: CPC, arts. 485, inc. IV; Decreto-Lei nº 911/69, art. 2º, §2º; Decreto-Lei nº 911/69, art. 3º
+
+Jurisprudência relevante citada: STJ, REsp 1050334/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 28/03/2017, DJe 03/04/2017
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LUÍS GUSTAVO B. DE OLIVEIRA - Relator, ANA MARIA FERREIRA DA SILVA - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Desembargador ROBERTO FREITAS FILHO, em proferir a seguinte decisão: CONHECER E DAR PROVIMENTO, UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Agosto de 2025
+
+Desembargador LUÍS GUSTAVO B. DE OLIVEIRARelator
+
+RELATÓRIO
+
+Trata-se de apelação interposta por FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDITAS AUTO VIII, em face à sentença que extinguiu o feito sem resolução do mérito.
+
+Na origem, FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDITAS AUTO VIII ajuizou ação de busca e apreensão em desfavor de ANDRESSA RODRIGUES PAREIRA JUNIOR, amparada em contrato de alienação fiduciária de veículo.
+
+O juízo facultou a emenda para “comprovar a constituição da parte requerida em mora, nos termos do artigo 2º, § 2º, do Decreto-lei 911/69, tendo em vista que o A.R retornou com a informação 3X ausente” (ID 74026006).
+
+Manifestação da parte autora no ID 74026410.
+
+Sobreveio sentença que indeferiu a inicial e extinguiu o processo sem resolução do mérito nos termos do artigo 321, parágrafo único, c/c 330, IV e 485, inciso I, do Código de Processo Civil (ID 74026422).
+
+A instituição financeira apelou (ID 74026425).
+
+Sustentou a validade da notificação extrajudicial encaminhada ao endereço fornecido pela apelada quando da assinatura do contrato, conforme a tese fixada pelo STJ ao apreciar o Tema 1.132.
+
+Preparo regular (ID 74026424).
+
+Contrarrazões no ID 74026429.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - Relator
+
+Ação ajuizada em 19/03/2025. Sentença prolatada em 09/05/2025. Apelação interposta em 04/06/2025.
+
+Presentes os pressupostos intrínsecos e extrínsecos de admissibilidade, conheço o recurso.
+
+Trata-se de apelação em face à sentença que extinguiu, sem resolução do mérito, a ação de busca e apreensão, ajuizada por FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDITAS AUTO VIII, em desfavor de ANDRESSA RODRIGUES PAREIRA JUNIOR.
+
+Persegue-se a cassação da decisão que extinguiu o feito sem análise do mérito, porque o recorrente não teria comprovado a prévia constituição em mora do devedor.
+
+Nas ações de busca e apreensão de veículo, lastreadas em contratos revestidos de garantia de alienação fiduciária, é pressuposto legal para a provocação da atividade jurisdicional, a comprovação de que o devedor foi devidamente constituído em mora (artigo 3º, caput, do Decreto-Lei nº 911/69).
+
+Nos termos do artigo 2º, §2º, do Decreto-Lei nº 911/69, com redação dada pela Lei 13.043/14, “a mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário”.
+
+A mora é ex re, isto é, independe de qualquer ato do credor, como interpelação ou citação, e decorre do próprio inadimplemento de obrigação positiva, líquida e com termo implementado. Dessa forma, aplica-se o brocardo dies interpellat pro homine (o termo interpela no lugar do credor).
+
+A questão relacionada à comprovação da mora nas ações de busca e apreensão foi bastante tormentosa na jurisprudência, mas foi pacificada com o julgamento dos recursos repetitivos afetados ao tema 1.132/STJ. A tese sufragada é que basta o envio da notificação para o endereço informado pelo devedor.
+
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+
+3. Recurso especial provido. (Rel. Ministro MARCO BUZZI, DJe 20/10/2023).
+
+Ou seja, se prestigiou o princípio da boa-fé e da cooperação, de modo que, se o devedor mudar de endereço, deverá comunicar ao credor fiduciário onde poderá ser encontrado.
+
+Ao analisar os autos, observa-se que a instituição financeira enviou a notificação para o endereço fornecido pelo devedor no contrato, cuja correspondência não foi entregue ao destinatário por motivo de ausência (ID 74025999 - 74026001).
+
+Desta forma, é possível concluir que restou preenchido o requisito legal para a propositura da demanda.
+
+Por sua vez, não há qualquer informação de requerida tenha tentado atualizar seu endereço perante a instituição credora.
+
+Ante o exposto, CONHEÇO E DOU PROVIMENTO AO RECURSO, para cassar a sentença e determinar o retorno dos autos ao juízo de origem, para o prosseguimento regular do feito.
+
+Deixo de aplicar o art. 85, § 11, do Código de Processo Civil, pois sua incidência pressupõe a fixação pretérita de honorários na sentença recorrida (AREsp 1050334/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/03/2017, DJe 03/04/2017).
+
+É como voto.
+
+A Senhora Desembargadora ANA MARIA FERREIRA DA SILVA - 1º Vogal Com o relatorO Senhor Desembargador FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER E DAR PROVIMENTO, UNÂNIME
