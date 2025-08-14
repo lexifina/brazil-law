@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de JHENIFER LUIZE CAETANO LAURINDO e MARIA CONCEICAO CAETANO - condenadas como incursas nos crimes de lesão corporal grave e desacato (Ação Penal n. 5000149-83.2024.8.24.0014) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, comporta pronto acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da Vara Criminal da comarca de Campos Novos/SC, ao argumento de ilegalidade na aplicação da pena de detenção em vez da multa, em relação ao crime de desacato, pois o crime de desacato comina em seu preceito secundário penas alternativas - detenção ou multa. Do mesmo modo, a contravenção de perturbação prevê em seu preceito secundário penas alternativas - prisão simples ou multa. Incumbia ao Magistrado sentenciante, mediante fundamentação concreta baseada nas circunstâncias judiciais do art. 59 do CP, justificar a escolha da pena de detenção e de prisão simples, por serem elas mais gravosas, nos termos do art. 59, inc. I, do Código Penal (fl. 6).
+De fato, em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência do ilegal constrangimento.
+O Magistrado singular, corroborado pelo Tribunal de origem, não logrou fundamentar a escolha da reprimenda mais rigorosa em relação ao crime de desacato, aplicando a pena de detenção, que, embora tenha sido substituída por prestação de serviços à entidade pública, ainda se mostra mais rigorosa do que a multa cominada no preceito secundário do delito imputado (art. 331 do CP).
+Assim, diante da absoluta falta de fundamentação, que não foi sanada pelo Tribunal, deve ser aplicada a reprimenda alternativa prevista no preceito secundário do art. 331 do CP (multa).
+Em face do exposto, concedo liminarmente a ordem impetrada para aplicar às pacientes a pena de multa em relação ao crime de desacato, na Ação Penal n. 5000149-83.2024.8.24.0014 - Vara Criminal da comarca de Campos Novos/SC, devendo ser implementada pelo Juízo das Execuções Penais.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. LESÃO CORPORAL GRAVE E DESACATO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. EXISTÊNCIA. SUPERAÇÃO DO ÓBICE QUE SE IMPÕE. DOSIMETRIA DA PENA. COMINAÇÃO DE PENAS DE DETENÇÃO E MULTA. APLICAÇÃO DA DETENÇÃO SEM FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida.
