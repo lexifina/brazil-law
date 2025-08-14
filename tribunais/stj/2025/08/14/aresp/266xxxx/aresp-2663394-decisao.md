@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Fortaleza, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 292):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. TRIBUTÁRIO. ISSQN. NEGATIVA DE AUTORIZAÇÃO PARA EMISSÃO DE NOTAS FISCAIS ELETRÔNICAS. LIBERAÇÃO CONDICIONADA CONDICIONADA À REGULARIZAÇÃO DE DÉBITOS FISCAIS. INADMISSIBILIDADE. ART. 5 9 , XIII, E ART. 170, PARÁGRAFO ÚNICO DA CF/88. SÚMULAS 70, 323 E 547 DO STF. RE Nº 565.048. REPERCUSSÃO GERAL. TEMA 31. RECURSO E REMESSA OFICIAL CONHECIDOS E DESPROVIDOS.
+1. Aduz o ente municipal as preliminares de ilegitimidade passiva do Secretário de Fianças no que pertine à cobrança de tributos e a impossibilidade jurídica do pedido. Preliminares rejeitadas;
+2. No mérito, sabe-se que não é lícito à Administração Fazendária condicionar a autorização de emissão de notas fiscais eletrônicas, documentos imprescindíveis para o apelado/impetrante exercer sua atividade empresarial, à regularização de adimplemento de tributos, porquanto malfere o primado constitucional do livre exercício de atividade econômica (art. 170, parágrafo único, CF/88), bem como o estatuído nos verbetes sumulares nos. 70, 323 e 547 do STF;
+3. Apelação Cível e Reexame Necessário conhecidos e desprovidos.
+Opostos embargos de declaração (fls. 350/357), foram esses desprovidos nos termos do acórdão de fls. 363/368.
+Em recurso especial, apontou a parte recorrente violação aos arts. 489, 1.022 do CPC, 183 do CTN; e 36, I e IV, da Lei n. 12.529/2011. Sustenta, em resumo, que "a inadimplência contumaz afasta os precedentes constantes do Acórdão embargado, assim como o fundamento de configuração da sanção política: uma vez, portanto, que é argumento deduzido pelo município capaz de infirmar a decisão, devia ter sido enfrentado pelo Tribunal a quo" (fl. 347).
+Contrarrazões às fls. 377/389.
+Às fls. 395-397, a vice-Presidência do Tribunal local negou seguimento ao recurso extraordinário stricto sensu manejado pelo ora recorrente, por estar o acórdão recorrido alinhado ao posicionamento firmado pela Excelsa Corte no RE 565.048 - Tema 31.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Quanto à questão de fundo, o Supremo Tribunal Federal decidiu, sob o regime de repercussão geral, o seguinte: " É inconstitucional o uso de meio indireto coercitivo para pagamento de tributo - "sanção política" - tal qual ocorre com a exigência, pela Administração Tributária, de fiança, garantia real ou fidejussória como condição para impressão de notas fiscais de contribuintes com débitos tributários" (RE 565.048, Tema 31/STF).
+Colhe-se dos autos que a vice-Presidência do Tribunal de Justiça do Estado do Ceará negou seguimento ao recurso extraordinário da parte ora recorrente, com esteio no art. 1.030, I, a, do CPC, tendo em vista que o acórdão recorrido encontra-se em conformidade com o posicionamento firmado na referida repercussão geral pelo STF (cf fls. 395/397).
+Consoante dicção do art. 1.039 do CPC: "Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada".
+Nesse contexto, sendo a matéria trazida no presente apelo, a saber, exigência de adimplência para emissão de notas fiscais, coincidente com aquela discutida no re curso extraordinário da empresa, ao qual foi negado seguimento, prejudicada restou a apreciação do recurso especial em análise.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
