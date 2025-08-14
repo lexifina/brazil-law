@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Ministério Público estadual, no qual alega a existência de erro material, pois não apontou, nas razões do recurso especial, violação ao art. 226 do CPP, e omissão porque "não se faz necessário o reexame do contexto fático dos autos (Súm 07/STJ), porquanto os argumentos apostos no recurso especial ministerial são, exclusivamente, jurídicos, não havendo nenhuma discordância quanto aos fatos em tela" (e-STJ fls. 805-808).
+É o relatório.
+Decido.
+Os embargos de declaração são tempestivos e não ficou demonstrada qualquer causa processual que dê ensejo a embargos de declaração na decisão questionada, tendo sido expostas, de forma suficiente e fundamentada, as razões para a solução dada ao caso concreto (e-STJ fls. 797-799).
+Com efeito, conforme constou na decisão embargada de declaração, nas razões do recurso especial, não houve impugnação a todos os fundamentos do acórdão recorrido, no qual se consignou a ausência de contemporaneidade, a afastar o risco para a ordem pública, fundamento suficiente e autônomo para a manutenção da liberdade provisória e que não foi objeto de irresignação no recurso especial, a atrair o óbice da Súmula n. 283/STF.
+Nota-se, portanto, que os presentes embargos distinguem-se por refletir mera irresignação da parte com o resultado do julgamento, o que revela o seu descabimento e ausência de razão.
+Como cediço, "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Por outro lado, reconhece-se puro erro involuntário de atenção dado o assobermamento do volume de serviço, em que mais aprecem recursos sem nenhuma razão do que procedentes. Na decisão agravada, de fato, constou questão no recurso especial com relação a qual não houve alegação de violação ao art. 226 do CPP.
+Ante o exposto, rejeito os embargos de declaração e retifico na decisão embargada de declaração a fim de que, onde se lê "art. 226 do CPP", leia-se "artigos 312, e 313, I e III, ambos do CPP".
+Publique-se. Intimem-se.
+EMENTA
