@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Agravo regimental NO AGRAVO EM Recurso especial. Deficiência de fundamentação. Recurso DESprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência deste STJ que não conheceu do agravo em recurso especial, em razão da ausência de indicação dos dispositivos de lei federal supostamente violados, com a incidência da Súmula 284 do STF.
+2. A parte agravante alega a insuficiência do conjunto probatório que fundamentou o édito condenatório, pleiteando, por conseguinte, a sua absolvição.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de indicação precisa dos dispositivos legais violados no recurso especial impede o seu conhecimento, conforme a Súmula 284 do STF.
+III. Razões de decidir
+4. A decisão monocrática foi mantida, pois o recurso especial não apontou de forma minuciosa os dispositivos legais violados, configurando deficiência de fundamentação.
+5. A ausência de indicação clara e precisa dos dispositivos de lei federal alegadamente afrontados implica deficiência na fundamentação do recurso especial, conforme a Súmula 284 do STF.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de indicação dos dispositivos de lei federal violados implica deficiência de fundamentação do recurso especial. 2. A aplicação da Súmula 284 do STF é correta quando a fundamentação do recurso não permite a exata compreensão da controvérsia".
+Jurisprudência relevante citada: STJ, AgRg no REsp 2.185.650/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 26.02.2025; STJ, AgInt no REsp 1.308.906/SP, Rel. Min. Og Fernandes, Segunda Turma, julgado em 21.06.2022; STJ, AgInt no AREsp 1.621.098/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 14.03.2022
+RELATÓRIO
+Trata-se de agravo regimental interposto por RICARDO BARBOSA DE ALCANTARA contra decisão monocrática da Presidência deste STJ que não conheceu do agravo em recurso especial (fls. 437-438).
+A parte agravante aduz, em síntese, que houve expressa indicação do artigo violado, apesar da decisão agravada ter apontado ausência de indicação dos dispositivos legais federais violados.
+Argumenta que o recurso visava demonstrar a não incidência da Súmula 7, STJ, que foi aventada como óbice ao prosseguimento recursal de origem. Destaca que, tanto nas razões do agravo em recurso especial, quanto nas razões recursais de origem, houve o devido apontamento do dispositivo afrontado.
+Pede, portanto, o provimento deste agravo para prover também o recurso especial (fls. 443-446).
+É o relatório.
+EMENTA
+Agravo regimental NO AGRAVO EM Recurso especial. Deficiência de fundamentação. Recurso DESprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência deste STJ que não conheceu do agravo em recurso especial, em razão da ausência de indicação dos dispositivos de lei federal supostamente violados, com a incidência da Súmula 284 do STF.
+2. A parte agravante alega a insuficiência do conjunto probatório que fundamentou o édito condenatório, pleiteando, por conseguinte, a sua absolvição.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de indicação precisa dos dispositivos legais violados no recurso especial impede o seu conhecimento, conforme a Súmula 284 do STF.
+III. Razões de decidir
+4. A decisão monocrática foi mantida, pois o recurso especial não apontou de forma minuciosa os dispositivos legais violados, configurando deficiência de fundamentação.
+5. A ausência de indicação clara e precisa dos dispositivos de lei federal alegadamente afrontados implica deficiência na fundamentação do recurso especial, conforme a Súmula 284 do STF.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de indicação dos dispositivos de lei federal violados implica deficiência de fundamentação do recurso especial. 2. A aplicação da Súmula 284 do STF é correta quando a fundamentação do recurso não permite a exata compreensão da controvérsia".
+Jurisprudência relevante citada: STJ, AgRg no REsp 2.185.650/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 26.02.2025; STJ, AgInt no REsp 1.308.906/SP, Rel. Min. Og Fernandes, Segunda Turma, julgado em 21.06.2022; STJ, AgInt no AREsp 1.621.098/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 14.03.2022
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Em decisão monocrática da Presidência deste STJ entendeu-se que incide no caso o óbice descrito na Súmula do 284 do STF, tendo em vista que a parte se absteve de indicar precisamente, no recurso especial, quais dispositivos de lei federais foram violados.
+É assente nesta Corte Superior o entendimento segundo o qual "O recurso especial exige a indicação ostensiva dos textos normativos federais a que negou vigência o acórdão impugnado, não bastando a menção genérica a leis federais ou a exposição do tratamento jurídico que o recorrente entende correto" (AgRg no REsp n. 2.185.650/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025.)
+De fato, quanto à tese defensiva de insuficiência probatória para a condenação, observa-se que o recorrente não indicou de forma clara e precisa quais dispositivos legais teriam sido violado e de que maneira teriam ocorrido tais violações, arrazoando o recurso especial como se uma apelação fosse.
+Ademais, de acordo com a jurisprudência desta Corte Superior: "O recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF" (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, D Je de 30/6/2022).
+Corrobora:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DE MANEIRA PRECISA DOS DISPOSITIVOS VIOLADOS. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas razões do recurso especial a parte recorrente não aponta, de maneira clara e fundamentada, quais os artigos de lei a que faz referência teriam sido violados, tampouco a forma pela qual teria se dado referida vulneração.
+2. O recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais e diversas argumentações para que esse escolha, a seu juízo, qual deles tenha sofrido violação e, por esforço hermenêutico, extraia de que forma o direito foi maculado na espécie.
+3. É imprescindível que no recurso especial fundado na alínea "a" do permissivo constitucional sejam particularizados de forma inequívoca os normativos federais supostamente contrariados pelo Tribunal de origem, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+4. Isso porquê o recurso especial é de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado e como se deu referida vulneração a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente.
+5. O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, atrai a incidência da Súmula 284/STF.
+6. Agravo interno não provido."
+(AgInt no AREsp n. 1.621.098/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Assim, não refutada adequadamente a aplicação da Súmula 284, STF, entendo correta a decisão agravada, que não conheceu do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
