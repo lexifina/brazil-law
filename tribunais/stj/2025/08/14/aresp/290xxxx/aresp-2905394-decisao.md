@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manejado por Companhia Brasileira do Cobre contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 390):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. AÇÃO ORDINÁRIA. COMPETÊNCIA SUPLETIVA DO IBAMA. MORA DA FEPAM NÃO EVIDENCIADA. JULGAMENTO DA ADI 4757, STF. Suspenso o prazo durante a elaboração dos estudos ambientais complementares, justificada, aqui, pela pandemia COVID19, não evidenciada mora apta a instituir a competência supletiva, nos termos da decisão exarada pelo STF. RECURSO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 413/415).
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação ao art. 14, §3º, da Lei Complementar n. 140/2011, bem como arts. 14 e 16 da Resolução do Conama 237/1997. Sustenta que o Tribunal de origem, diante da mora ocorrida, devia ter entendido pela instituição da competência supletiva. Alega que, "em caso de não observância do prazo estabelecido para a apreciação do pedido, instaurar-se-á automaticamente a competência supletiva" (fl. 429). Afirma que o "prazo para análise definitiva do pedido de licenciamento, regra geral, é de 6 (seis) meses, e para os casos em que é exigido EIA/RIMA, de 12 (doze) meses, contados desde o protocolo do requerimento no órgão ambiental, conforme Art. 55, do Código Estadual do Meio Ambiente do RS e o Art. 14, da Resolução CONAMA 237/97." (fl. 430)
+Foram ofertadas contrarrazões às fls. 667/691.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Primeiramente cumpre destacar que o recurso especial não pode ser conhecido no tocante à alegada ofensa aos arts. 14 e 16 da Resolução n. 237/97 do Conama. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Confiram-se, a propósito, os seguintes precedentes: AgInt no REsp n. 2.106.984/AL, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024; e AgInt no AREsp n. 2.180.965/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/3/2023, DJe de 4/4/2023.
+No que tange à matéria de fundo, o Tribunal de origem destacou (fls. 387/389):
+A discussão aqui diz respeito ao Processo Administrativo 004142-05.67/19-1, em trâmite perante à FEPAM, referente a pedido de licenciamento para a recuperação de área minerada para extração de cobre no Município de Minas do Camaquã. Sustenta a recorrente, em suma, que foi extrapolado o prazo de 6 meses, o que atrairia a competência supletiva do IBAMA para o processamento do pedido.
+ ..
+Portanto, necessária a ponderação entre a mora institucional e se, de fato, fora imotivada e desproporcional, apta a instaurar a competência supletiva, ou não.
+Vê-se que a recorrente protocolou, na data de 16/05/2019, pedido de licenciamento para a atividade de recuperação de área minerada de empreendimento de extração de cobre que funcionou entre os anos de 1985 e 1996, em Minas do Camaquã (Processo Administrativo de n. 004142-0567/19- 1).
+Em 13/04/2020, postulou dilação do prazo de 120 dias, alegando dificuldade em encontrar equipes para contratação de serviços terceiros em época de Pandemia (Covid-19), indicando que os estudos complementares solicitados não poderiam ser entregues a tempo.
+Após, em 20/10/2020, foi protocolizada a resposta ao ofício de complementação, ou seja, depois do lapso temporal de 120 dias que foram solicitados, não tendo sido o referido processo arquivado, porque a Instrução Normativa da FEPAM n. 004/2020 congelava os prazos para atendimento a solicitações do órgão ambiental.
+ ..
+Dessa forma, na data de 04/03/2022, o Processo Administrativo nº 04142-0567/19-1 foi arquivado, considerando que transcorridos mais de 120 dias do envio de ofício, e, posteriormente, o empreendedor foi notificado a reapresentar o PRAD.
+De fato, decorridos, e muito, os 180 dias preestabelecidos, ressaltando-se, porém, o contido no § 1º do art. 55 da Lei Estadual nº 15.434/2020:
+ ..
+No caso, suspenso o prazo durante a elaboração dos estudos ambientais complementares, justificada, aqui, pela pandemia COVID19, que teve bandeira preta/vermelha, no ano de 2020, no período de 17 de março a 31 de agosto de 2020 e, no ano de 2021, de 27 de fevereiro a 28 de abril de 2021, não evidenciada mora apta a instituir a competência supletiva, nos termos da decisão exarada pelo STF.
+Todavia, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o de que a suspensão dos prazos justificada pela pandemia Covid-19 afasta a mora apta a instituir a competência supletiva.
+Desse modo, a pretensão esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Neste sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. FUNDAMENTO DO ACÓRDÃO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283. IBAMA. COMPETÊNCIA FISCALIZATÓRIA SUBSIDIÁRIA. CONSEQUENTE INTERESSE JURÍDICO. PRECEDENTES DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. PROVIMENTO NEGADO.
+1. Cuida-se, na origem, de ação civil pública proposta pelo Ministério Público Federal e pelo IBAMA visando ao pagamento de indenização por danos morais e materiais pela agravante por suposta exploração irregular de área integrante da Amazônia Legal.
+2. Hipótese em que o Tribunal de origem utilizou fundamento autônomo e suficiente à manutenção da decisão proferida, o qual não foi especificamente rebatido nas razões do recurso especial interposto, incidindo na espécie, por analogia, o óbice conti d o na Súmula 283 do STF.
+3. A jurisprudência do Superior Tribunal de Justiça tem o entendimento de que o IBAMA possui competência fiscalizatória subsidiária quando se trata de proteção ao meio ambiente e, consequentemente, interesse jurídico, não havendo que se falar em competência exclusiva de um ente da federação. Incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.562.481/PA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023 - g.n.)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+ EMENTA
