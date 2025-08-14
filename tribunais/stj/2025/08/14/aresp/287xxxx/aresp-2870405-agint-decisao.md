@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno (fls. 610-620) interposto contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 605-606).
+Em suas razões, a parte agravante aduz que impugnou todos os fundamentos da decisão de admissibilidade do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões às fls. 625-628
+É o relatório.
+Decido.
+A parte recorrente atacou todos os pontos da decisão que não admitiu o recurso especial, devendo ser afastada a Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial não foi admitido em virtude da não comprovação das ofensas alegadas e da incidência da Súmula n. 7/STJ (fls. 564-567).
+O acórdão recorrido está assim ementado (fls. 484-485):
+COMPRA E VENDA DE IMÓVEL AÇÃO DECLARATÓRIA C. C. OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS Parcial procedência CDC Aplicabilidade Preliminar de ilegitimidade passiva da corré Enplan Corré que figurou como construtora e cofiadora no contrato de financiamento Existência de parceria comercial entre as empresas Legitimidade "ad causam" da corré Enplan, em razão da responsabilidade solidária de todos os que participaram da cadeia de fornecimento de produtos ou serviços, nos termos do art. 7º do CDC Preliminar de nulidade da sentença por falta de fundamentação Não configuração Sentença devidamente fundamentada Preliminares afastadas Atraso na entrega do imóvel Juros de obra Pagamento durante o período de atraso Responsabilidade solidária das requeridas estabelecida no contrato de financiamento e pelo C. STJ quando do julgamento do tema 996, sob o rito dos recursos repetitivos Obrigação que perdura até a efetiva entrega do imóvel Súmula 160, deste E. TJSP Pandemia da COVID-19 Decreto 10.282/2020 que estabeleceu como atividades essenciais o fornecimento de materiais de construção e a construção civil Elevados índices pluviométricos que não excluem a responsabilidade do incorporador Caso fortuito e força maior não configurados Hipótese de fortuito interno Teoria do risco do empreendimento Súmula 161 deste E. TJSP Lucros cessantes Cabimento Súmula 162 do E. TJSP, e Tema 996, do C. STJ Dano moral Ocorrência O descumprimento do contrato pela vendedora não gera, por si só, a ocorrência de dano moral indenizável Verificação, porém, de situação de grande angústia e sofrimento gerada pela não entrega do imóvel e pela intercorrência do recalque a ensejar a indenização Indevida inclusão, ademais, do nome dos autores nos cadastros de inadimplentes Exegese dos arts. 186, 187 e 927 do Código Civil Presença dos pressupostos do dever de indenizar Negligência das rés quanto ao pagamento dos juros de obra durante o atraso na entrega do imóvel Dano "in re ipsa", que decorre da negativação indevida, sem necessidade de outras provas Inexistência de outros apontamentos restritivos em nome dos autores "Quantum" indenizatório fixado com base nos critérios de razoabilidade e proporcionalidade em R$ 5.000,00 para cada autor que deve ser mantido Sentença mantida Adoção do art. 252 do RITJ Descabimento da majoração de honorários Recursos improvidos.
+Nas razões do recurso especial (fls. 513-526), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente apontou dissídio jurisprudencial e ofensa aos arts. 2º e 7º, parágrafo único, da Lei n. 11.977/2009, defendendo que não pode haver condenação em lucros cessantes, pois a parte não deixou de ganhar, tendo em vista a impossibilidade legal de destinação do imóvel a outro fim que não a habitação.
+Apresenta dissídio jurisprudencial, sustentando a ausência de dano moral pelo atraso na entrega de obra.
+A insurgência não merece prosperar.
+No que diz respeito aos lucros cessantes, foi negado seguimento ao recurso com base no Tema n. 996/STJ.
+Quanto ao dano moral, a Corte local assim consignou (fl. 505):
+Com efeito, o descumprimento do contrato pela vendedora não gera, por si só, a ocorrência de dano moral indenizável. Para que este ocorra, deve-se verificar situação excepcional que ocasione ao ofendido dor, angústia, sofrimento, humilhação, vexame ou constrangimento que extrapole aquilo que o homem médio aceite como fato comum.
+No caso dos autos, o atraso de dois anos no cumprimento, pela ré, da obrigação assumida no contrato, de entrega do imóvel no prazo de 24 meses, ocasionou aos autores grande angústia e sofrimento, o que justifica a imposição de uma condenação às rés ao pagamento de indenização por danos morais. Não bastasse o atraso na entrega do imóvel e a intercorrência do recalque (já sanado) houve a indevida inclusão do nome dos autores nos cadastros de inadimplentes (fls. 136/137).
+Esse entendimento está de acordo com a jurisprudência do STJ, que entende que, configurado o abalo psicológico pelo atraso na obra, são devidos os danos morais.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. ENT REGA DE OBRA. ATRASO EXCESSIVO. DANOS MORAIS CONFIGURADOS. SÚMULA N. 83 DO STJ. AGRAVO DESPROVIDO.
+1. A ausência de enfrentamento da matéria pelo tribunal de origem impede o acesso do recurso à instância especial, porquanto não preenchido o requisito do prequestionamento.
+2. O mero inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável.
+Nada obstante, se se trata de longo período de atraso, como no caso de mais de dois anos, pode ensejar o reconhecimento de dano extrapatrimonial.
+3. Agravo interno provido em parte para se conhecer em parte do recurso especial e negar-lhe provimento. (AgInt nos EDcl no AREsp n. 2.356.797/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (fls. 605-606) para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
+EMENTA
