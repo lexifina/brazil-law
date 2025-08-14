@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de EVILANE DANTAS SANTOS DE ALMEIDA - condenada à pena de 6 anos, 9 meses e 20 dias de reclusão, pela prática do crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNA L DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo Interno Criminal n. 2107025-67.2025.8.26.0000/50000), não comporta conhecimento.
+Busca-se, no presente writ, a absolvição da paciente argumentando-se ilicitude de provas obtidas por meio de quebra de sigilo telefônico sem autorização judicial e insuficiência probatória para condenação. Subsidiariamente, pleiteia-se a desclassificação do crime de tráfico para o delito de porte de drogas para consumo pessoal.
+O writ, no entanto, é manifestamente inadmissível.
+Com efeito, a defesa busca, por meio da presente impetração, rediscutir a condenação da paciente, já transitada em julgado, com base em teses que nem sequer foram analisadas pelo Tribunal de origem, que negou provimento ao agravo interno criminal, adotando os fundamentos apresentados pelo Desembargador Relator no indeferimento liminar do pedido revisional, no sentido de que a Revisão Criminal não pode ser manejada como sucedâneo de recurso e que não existe previsão legal para uma segunda apelação,  ..  visando reapreciação de questões efetivamente analisadas em primeira e segunda instâncias, mesmo sem a demonstração de algum fato novo, de flagrante ilegalidade ou de omissão no julgado. Esta a hipótese dos autos, em que as provas colhidas nas duas fases da persecução penal bastaram a tornar apropriada a condenação da peticionária pelo Juízo de origem, mantida em segundo grau, onde já ocorreu reavaliação, inclusive quanto à dosimetria da pena (fls. 1.518/1.519).
+Vê-se que as questões aqui suscitadas não foram debatidas pelo acórdão vergastado, o que impede o seu conhecimento, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. PEDIDO SUBSIDIÁRIO DE DESCLASSIFICAÇÃO DO DELITO DE TRÁFICO DE DROGAS PARA PORTE DE DROGAS PARA CONSUMO PESSOAL. QUESTÕES NÃO DEBATIDAS PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
