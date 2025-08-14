@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão proferido pela Terceira Turma desta Corte, assim ementado (fl . 456, e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281/STF.
+1. Ação de rescisão contratual cumulada com reparação por dano material e compensação por dano moral.
+2. Não se pode conhecer do recurso especial interposto contra decisão monocrática, tendo em vista que não houve o necessário esgotamento das instâncias ordinárias. Aplicação, por analogia, da Súmula n. 281/STF. Precedentes.
+3. Agravo interno no agravo em recurso especial não provido.
+O recorrente, em suas razões, alega divergência em relação ao entendimento da Primeira Turma. Para tanto, indica como paradigma o acórdão do AgInt no AREsp 1.156.112/SP:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CABIMENTO. EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. NECESSIDADE. CASO CONCRETO. EXCEPCIONALIDADE.
+AGRAVO INTERNO. MULTA APLICADA. AFASTAMENTO. 1. O art. 105, III, da Constituição Federal exige o exaurimento da instância recursal ordinária como requisito para a interposição do recurso extremo, sendo a definitividade condição para a admissão do especial.
+2. A hipótese dos autos trata de situação excepcional, pois o recorrente utilizou de todos os meios jurídicos postos à sua disposição para conseguir o exaurimento da instância ordinária com a finalidade de interposição dos recursos às instâncias superiores:
+foi interposto agravo interno contra a decisão proferida no agravo de instrumento; após o recurso não ser conhecido pela órgão colegiado com a imposição de multa, foram opostos os embargos de declaração, que não foram conhecidos monocraticamente; em seguida, foi interposto novo agravo interno, novamente decidido monocraticamente.
+3. A recorrente não tinha opções para continuar recorrendo no Tribunal Regional Federal, tendo em vista que fez o uso escorreito de todas as possibilidades recursais apresentadas, não podendo, portanto, o recurso especial deixar de ser conhecido pelo fundamento de não exaurimento da instância, sob pena de ofensa às garantias do acesso ao Judiciário e ao devido processo legal.
+4. O entendimento sufragado no Tema Repetitivo n. 434/STJ é o de que "o agravo interposto contra decisão monocrática do Tribunal de origem, com o objetivo de exaurir a instância recursal ordinária, a fim de permitir a interposição de recurso especial e do extraordinário, não é manifestamente inadmissível ou infundado, o que torna inaplicável a multa prevista no art. 557, § 2º, do Código de Processo Civil".
+5. Deve ser considerado desproporcional exigir o depósito de multa milionária para conhecimento de recurso, que alcança a cifra de quase R$ 4.000.000,00 (quatro milhões de reais), cuja base de cálculo ainda é controvertida do âmbito do próprio Judiciário (está em discussão na Impugnação ao Valor da Causa), mormente quando a jurisprudência desta Corte Superior, reafirmada em recurso repetitivo, considera a sua aplicação incabível na hipótese de necessidade de interposição do agravo interno para o esgotamento da instância ordinária.
+6. Agravo interno provido.
+(AgInt no AREsp n. 1.156.112/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/8/2018, DJe de 11/10/2018.)
+Cinge-se a controvérsia à aplicabilidade da Súmula 281/STF, por analogia, ao recurso especial: "É inadmissível o recurso extraordinário, quando couber na Justiça de origem, recurso ordinário da decisão impugnada".
+Assim delimitada a controvérsia, passo a decidir.
+Da análise dos autos e, sobretudo, do julgado trazido nas razões do recurso, observo que os embargos de divergência não reúnem condições de serem conhecidos, pois não atendem à estrita hipótese de cabimento do art. 1.043, III, do Código de Processo Civil.
+O recurso especial interposto pelo agravante nem sequer foi conhecido, por incidência da Súmula 281/STF. A parte não interpôs agravo interno da decisão singular que não conheceu da apelação. Em vez disso, interpôs recurso especial. O art. 105, III, da Constituição Federal, contudo, exige que a decisão recorrida seja de única ou última instância. Na ausência desse requisito de admissibilidade, o acórdão embargado não adentrou no mérito do recurso especial .
+O entendimento desta Corte, contudo, é de que "(..) não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais" (AgInt nos EAREsp n. 1.924.581/MG, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023).
+O art. 1.043, III, do CPC prevê o cabimento de embargos de divergência, ainda que um dos acórdãos não tenha sido conhecido, mas desde que tenha apreciado a controvérsia. No caso em julgamento, o acórdão embargado não analisou o mérito do recurso e, muito menos, a controvérsia nele versada. Os embargos de divergência não servem para alterar ou reavaliar os critérios de conhecimento do recurso, passando-se ao mérito do recurso :
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL.
+ACÓRDÃO EMBARGADO QUE NÃO JULGA O MÉRITO DA CONTROVÉRSIA. CORRETA INCIDÊNCIA DA SÚMULA 315/STJ.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ (AgInt nos EDcl nos EDv nos EREsp 1615774/MG, Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+2. Agravo regimental desprovido.
+(AgRg nos EDcl nos EDv nos EDcl no AREsp n. 2.203.366/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+Portanto, incide o óbice da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Em face do exp osto, indefiro liminarmente os embargos de divergência.
+Intimem-se.
+EMENTA
