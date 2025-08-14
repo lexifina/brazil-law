@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por THIAGO DIAS DE BARROS, com fundamento na alínea "a" do permissivo constitucional em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (fls. 296 - 299):
+"APELAÇÃO CRIMINAL. CRIMES CONTRA A HONRA. SENTENÇA QUE EXTINGUIU A PUNIBILIDADE DA QUERELADA. RECURSO DA DEFESA. JUÍZO DE ADMISSIBILIDADE. RECURSO EM SENTIDO ESTRITO RECEBIDO COMO APELAÇÃO. IMPOSSIBILIDADE. EXPRESSA PREVISÃO LEGAL (ART. 581, INC. VIII DO CÓDIGO DE PROCESSO PENAL). ERRO GROSSEIRO. IMPEDITIVO. VIGÊNCIA NEGATIVA AO PRINCIPIO DA FUNGIBILIDADE. PRECEDENTES. RECURSO NÃO CONHECIDO."
+Em suas razões de recurso especial, o recorrente sustenta violação do art. 579 do CPP, argumentando, em síntese, que, embora tenha interposto apelação contra decisão que extinguiu a punibilidade, seria possível o seu recebimento como recurso em sentido estrito, uma vez que o recurso foi interposto tempestivamente, com todos os requisitos de admissibilidade, sem indícios de má-fé ou intuito protelatório, tratando-se de erro escusável na denominação, apto a ser corrigido pela fungibilidade.
+Com contrarrazões (fls. 310 - 316), o recurso especial foi admitido na origem (fls. 333 - 335).
+Ouvido, o MPF opinou pelo provimento do recurso (fls. 343 - 345).
+É o relatório.
+Decido.
+A insurgência merece prosperar.
+Extrai-se dos autos que o recorrente moveu queixa-crime contra Renata Lobato Schirmer, imputando-lhe a prática dos crimes tipificados nos arts. 138 e 139, c/c o 141, III, na forma do artigo 69, todos do Código Penal.
+Às fls. 253 - 255, o juízo de primeiro grau declarou extinta a punibilidade da querelada, em relação aos delitos de calúnia e difamação, com fundamento no art. 107, VI, e art. 143, parágrafo único, ambos do Código Penal.
+Contra essa decisão, o recorrente interpôs recurso de apelação, que não foi conhecido pela Corte de origem, com base nos seguintes fundamentos (e-STJ, fls. 296 - 297):
+"Ab initio, entendo que o recurso interposto pela defesa do querelante não merece ser conhecido por inadequação da via eleita.
+Não obstante o entendimento de que o recurso de apelação, descrito no artigo 593 do Código de Processo Penal, destina-se às decisões com força de definitiva, observa-se que referido recurso não é o adequado em rebater a providência adotada pela sentenciante.
+Denota-se que o inconformismo da defesa ressoa na hipótese do art. 581, inc. VIII, do Código de Processo Penal, que descreve a interposição de recurso em sentido estrito contra decisão, despacho ou sentença "que decretar a prescrição ou julgar, por outro modo, extinta a punibilidade."
+Para que se possa conhecer do recurso erroneamente interposto e convergi-lo ao adequado, mediante a aplicação do principio da fungibilidade, mostra-se necessário analisar a existência de erro grosseiro e/ou má-fé.
+Dispõe o artigo 579 do Código de Processo Penal que, "salvo a hipótese de má-fé, a parte não será prejudicada pela interposição de um recurso por outro". E ainda, "se o juiz, desde logo, reconhecer a impropriedade do recurso interposto pela parte, mandará processá-la de acordo com o rito do recurso cabível".
+ ..
+Nesta toada, em que pese o recurso de apelação ter sido interposto dentro do prazo legal, o que por certo conduziria em conhecê-lo como recurso em sentido estrito, é de se notar a persistência de erro grosseiro no manejo do apelo, o que impede a aplicação do princípio da fungibilidade.
+Isso porque, em uma simples leitura da lei é possível prever que o recurso cabível para atacar decisão, despacho ou sentença "que decretar a prescrição ou julgar, por outro modo, extinta a punibilidade", é aquele contido no art. 581, inc. VIII, do Código de Processo Penal.
+Em outras palavras, é dizer que a via adequada para o enfrentamento da tese defendida pelo apelante, por expressa previsão legal, é o recurso em sentido estrito e não o pretendido recurso de apelação.
+Enfim, em que conste ter a magistrada singular recebido a insurgência (evento 84 - autos de origem), denota-se que a prelibação recursal é tanto realizada no Juízo a quo como no ad quem, possibilitando a este órgão julgador autonomia para um novo juízo de admissibilidade.
+Destarte, caracterizado o erro grosseiro diante da existência de previsão legal acerca da adequada via eleita para a interposição do recurso, e não havendo nenhuma divergência doutrinária e jurisprudencial para tanto, mostra-se inviável a aplicação do princípio da fungibilidade, o que impede o conhecimento do recurso de apelação como recurso em sentido estrito."
+Embora o art. 581, VIII, do CPP aponte, de forma expressa, o recurso em sentido estrito para decisões que julgam extinta a punibilidade, a orientação desta Corte Superior é clara no sentido de admitir a conversão entre apelação e RESE quando presentes a tempestividade e a ausência de má-fé, à luz do art. 579 do CPP. Com efeito, é possível aplicar-se a fungibilidade nas hipóteses em que, a partir das circunstâncias do caso, há dúvida objetiva ou, ao menos, não se constata comportamento doloso ou protelatório da parte.
+Confira-se:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. CALÚNIA E DIFAMAÇÃO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. APELAÇÃO INTERPOSTA EM VEZ DE RECURSO EM SENTIDO ESTRITO. AUSÊNCIA DE MÁ-FÉ. INCIDÊNCIA DO ART. 579 DO CPP. PROVIMENTO PARCIAL DO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo regimental interposto por D E S L e S M L V contra decisão da Segunda Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que negou seguimento ao recurso especial com base nas Súmulas 7 e 83 do STJ. A Queixa-Crime dos recorrentes foi rejeitada pelo juízo de primeiro grau, sendo interposta apelação em vez do recurso cabível, o que levou ao não conhecimento do recurso pelo TJRJ, sob o fundamento de erro grosseiro e inescusável na escolha da via recursal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é aplicável o princípio da fungibilidade recursal no caso concreto, considerando a interposição de apelação em vez de recurso em sentido estrito contra a rejeição da queixa-crime; e (ii) verificar se houve má-fé na escolha do recurso inadequado, o que impediria a aplicação do referido princípio.
+III. RAZÕES DE DECIDIR
+3. O princípio da fungibilidade recursal permite a correção do recurso interposto equivocadamente, desde que presentes os requisitos de tempestividade e ausência de má-fé, conforme o art. 579 do CPP.
+4. A interposição de recurso de apelação, ao invés de recurso em sentido estrito, ocorreu dentro do prazo cabível para o recurso correto, preenchendo o requisito da tempestividade.
+Não há elementos que indiquem má-fé por parte dos recorrentes, visto que a má-fé não pode ser presumida e deve ser inequivocamente comprovada.
+5. A jurisprudência do STJ admite a aplicação do princípio da fungibilidade em situações de dúvida objetiva quanto ao recurso cabível, desde que não configurado erro grosseiro ou má-fé, conforme precedentes do AgRg no REsp 1.856.920/AM e AgRg no AREsp 2.108.099/MG.
+IV. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no AREsp n. 2.603.005/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES DE ESTELIONATO, NA FORMA CONSUMADA E TENTADA (ART. 171, CAPUT E C/C ART. 14, II, TODOS DO CP). SENTENÇA QUE DECLAROU A EXTINÇÃO DA PUNIBILIDADE EM RAZÃO DA DECADÊNCIA. RECURSO DO MINISTÉRIO PÚBLICO. INTERPOSIÇÃO DA APELAÇÃO E NÃO DO RECURSO EM SENTIDO ESTRITO. AUSÊNCIA DE MÁ-FÉ OU DE ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. POSSIBILIDADE. PRECEDENTES.
+I - É firme no âmbito deste dessa Corte Superior de Justiça a orientação jurisprudencial de que é possível a aplicação do princípio da fungibilidade entre os recursos em sentido estrito e de apelação, desde que não haja erro grosseiro. Ademais, o princípio da fungibilidade é aplicável aos referidos recursos quando no caso concreto há a ocorrência de dúvida objetiva e que autorizaria a aplicação do referido princípio entre o cabimento de apelação ou de recurso em sentido estrito.
+II - No presente caso, apesar de existir comando expresso pelo art. 581, IV, do Código de Processo Penal que estabelece o recurso em sentido estrito como sendo o cabível contra sentenças que "que decretar a prescrição ou julgar, por outro modo, extinta a punibilidade", a jurisprudência dessa Corte Superior, em casos semelhantes, admite a fungibilidade recursal, a teor do art. 579 do CPP, quando, além de observado o prazo do recurso que se pretende reconhecer, não ficar configurada a má-fé.
+Agravo Regimental desprovido."
+(AgRg no REsp n. 1.939.238/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/2/2023, DJe de 23/3/2023)
+Em suma, a literalidade do art. 581, VIII, do CPP não impede, por si, a incidência do art. 579 do CPP quando o manejo recursal equivocado não traduz erro crasso nem manobra protelatória, permitindo-se, portanto, o conhecimento do reclamo pelo rito adequado.
+No caso concreto, verifica-se que a insurgência foi dirigida contra sentença que extinguiu a punibilidade e foi manejada tempestivamente, havendo erro apenas na denominação do recurso, sem qualquer traço de má-fé.
+Ante o exposto, dou provimento ao recurso especial, a fim de determinar à Corte de origem que receba o recurso, em razão do princípio da fungibilidade, e realize o julgamento quanto ao seu mérito.
+Publique-se. Intimem-se.
+EMENTA
