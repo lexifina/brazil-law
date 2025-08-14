@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo Instituto Nacional do Seguro Social, com fulcro no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ, fl. 219):
+Previdenciário. Auxílio-doença convertido em aposentadoria por invalidez. Perícia médica realizada. Impossibilidade de reabilitação. Termo inicial do benefício na data do primeiro requerimento administrativo, respeitada a prescrição quinquenal. Juros de mora e correção monetária estipulados de acordo com o permissivo legal. Aplicação da Súmula 111 do STJ. Apelo e remessa oficial parcialmente providos
+Os embargos de declaração opostos pelo ora insurgente foram parcialmente acolhidos, enquanto os aclaratórios opostos pela parte adversa foram rejeitados.
+Nas razões do apelo especial, o recorrente aponta violação aos arts. 139, 156, 466, 479, 480 e 487, II, do CPC/2015; 23, 42 a 47, 59, 86, § 2º, e 103, parágrafo único, da Lei 8.213/1991; 12 do Decreto 20.910/1932; 22 do Decreto-Lei 4.597/1942; e 1º-F da Lei 9.494/1997.
+Afirma que, no tocante à pretensão de restabelecimento do benefício, teria havido a prescrição do próprio fundo do direito.
+Sustenta que o benefício previdenciário deveria ter sido indeferido, já que o laudo pericial consignou que a incapacidade laborativa seria apenas parcial.
+Defende a impossibilidade de cumulação de auxílio-acidente e aposentadoria concedida após a edição da Lei 9.528/1997.
+Argumenta que o termo inicial do benefício deve ser fixado na data de apresentação do laudo pericial em juízo, salientando que nem sequer houve o pedido administrativo de concessão da aposentadoria por invalidez.
+Entende que devem ser aplicados os índices oficiais da caderneta de poupança para a correção monetária e os juros de mora.
+Contra-arrazoado o feito (e-STJ, fls. 318-334), o recurso especial foi admitido na origem (e-STJ, fls. 345-346), ascendendo os autos a esta Corte Superior.
+Nesta instância, foi determinada a devolução dos autos à origem a fim de se aguardar o julgamento do Tema 905/STJ.
+Publicada a decisão proferida no julgamento do recurso repetitivo, a Turma julgadora, nos moldes do art. 1.040, II, do CPC/2015, procedeu ao juízo de retratação, nos termos da seguinte ementa (e-STJ, fls. 466-467):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RETORNO DOS AUTOS. ART. 1.030, II, DO CPC/15. AUXÍLIO DOENÇA CONVERTIDO EM APOSENTADORIA POR INVALIDEZ. DIFERENÇAS DEVIDAS. JUROS DE MORA. RE 870.947/SE (TEMA 810 - REPERCUSSÃO GERAL). DISSONÂNCIA DO ACÓRDÃO. JUÍZO DE RETRATAÇÃO.
+1. Retorno dos autos, nos termos do art. 1.040, II, do CPC/2015, para reapreciação do acórdão recorrido à luz da decisão proferida pelo Supremo no RE870.947/SE (Repercussão Geral - Tema 810).
+2. Consoante decidiu o c. STF, "quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09".
+3. Tendo em conta a referida decisão, há que ser feita a adequação do julgado para que os juros moratórios incidentes sobre as diferenças devidas observem o disposto no art. 1º-F da Lei 9.494/97, na redação dada pela Lei 11.960/09, afastando-se o percentual de 1% (um por cento), fixado no acórdão recorrido.
+4. A partir da Emenda Constitucional nº 113, de 08/12/2021, os juros de mora e a correção monetária serão calculados pela taxa SELIC.
+5. Acórdão reformado com esteio no art. 1.040, II, do CPC, para que seja observado o disposto na Lei 9.494/97 e Lei 11.960/09, bem como na EC 113/2021, no tocante aos juros de mora.
+Em novo juízo de admissibilidade, o Tribunal regional negou seguimento ao recurso especial do INSS, com base no art. 1.030, I, do CPC/2015, no tocante à matéria relativa aos critérios de fixação de juros e correção monetária, admitindo-o nos demais pontos.
+Brevemente relatado, decido.
+Nos termos da jurisprudência desta Casa, "o direito fundamental a benefício previdenciário em si não prescreve, por configurar relação de trato sucessivo e de natureza alimentar, incidindo a prescrição apenas sobre as parcelas anteriores ao quinquênio que precedeu a propositura da ação" (AgInt no AREsp n. 1.249.526/PB, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/12/2024, DJEN de 13/12/2024).
+A propósito:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. INDEFERIMENTO, CANCELAMENTO OU CESSAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PRESCRIÇÃO DO FUNDO DE DIREITO. IMPOSSIBILIDADE. ADI 6.096/DF. PRESCRIÇÃO DAS PARCELAS VENCIDAS NO QUINQUÊNIO ANTERIOR À PROPOSITURA DA AÇÃO. SÚMULA 85/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STF E DO STJ. AGRAVO INTERNO PROVIDO.
+1. O Supremo Tribunal Federal, ao julgar a ADI 6.096/DF, definiu que, nos casos de indeferimento, cancelamento ou cessação de benefício previdenciário, a incidência dos institutos da prescrição e da decadência, que afetem a preservação do fundo de direito, viola o direito fundamental à obtenção do benefício (STF, ADI 6.096, relator Ministro Edson Fachin, Tribunal Pleno, publicada em 26/11/2020).
+2. Na mesma linha, o Superior Tribunal de Justiça entende ser possível o pleito de concessão do benefício originário em razão do transcurso de prazo após o indeferimento administrativo, correndo a prescrição das parcelas vencidas no quinquênio que antecedeu a propositura da ação, nos termos da Súmula 85/STJ. Precedentes do STJ.
+3. Agravo interno provido para reformar parcialmente a decisão agravada, a fim de reconhecer a possibilidade de concessão do benefício em razão do transcurso de prazo após o indeferimento administrativo, limitando-se a prescrição às parcelas pretéritas vencidas no quinquênio que antecedeu à propositura da ação, nos termos da Súmula 85/STJ, mantido o parcial provimento do recurso especial quanto à parte relativa aos critérios de juros e correção monetária.
+(AgInt no REsp n. 1.856.961/CE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/6/2024, DJe de 21/6/2024.)
+Nesse contexto, revela-se inviável o reconhecimento da prescrição do fundo de direito.
+De outra parte, a segunda instância concluiu que, embora a moléstia que acomete o segurado não o incapacite para toda e qualquer atividade laborativa, seria devida a concessão da aposentadoria por invalidez, considerando, dentre outros fatores, o seu nível de instrução.
+Confira-se (e-STJ, fls. 216-217):
+No caso em tela, restou devidamente comprovado através de Perícia Médica e documentos nos autos, que a parte autora está completamente incapacitada para exercer a sua atividade laborativa de agricultor e que houve, em relação à doença que a afetou, a progressão e o agravamento dessas lesões. Nestes termos, encontra-se a mesma acobertada pelo art. 41, do Plano de Benefício da Previdência Social.
+Quanto à alegação de que a incapacidade não é para todas as atividades laborativas, entendo que é imperioso observar que a moléstia que acomete o segurado, as sequelas motoras e sensitivas em todo membro superior esquerdo, o prejudica sobremaneira, em razão da dificuldade de reabilitação e do seu nível de instrução, o que o afasta de uma oportunidade de emprego, tendo em vista a forte e desleal concorrência no mercado de trabalho.
+O referido entendimento encontra respaldo na jurisprudência desta Casa, que é firme no sentido de que "a concessão da aposentadoria por invalidez deve considerar, além dos elementos previstos no art. 42 da Lei n. 8.213/91, os aspectos socioeconômicos, profissionais e culturais do segurado, ainda que o laudo pericial só tenha concluído pela sua parcial incapacidade para o trabalho" (AgRg no AREsp n. 190.625/MS, relator Ministro Humberto Martins, Segunda Turma, julgado em 11/9/2012, DJe de 18/9/2012).
+No mesmo sentido:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. CONSIDERAÇÃO DOS ASPECTOS SOCIOECONÔMICOS, PROFISSIONAIS E CULTURAIS DO SEGURADO. DESNECESSIDADE DE VINCULAÇÃO DO MAGISTRADO À PROVA PERICIAL. PRECEDENTES. REVISÃO DO ACÓRDÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E DAS PROVAS. SÚMULA N. 7/STJ.
+ ..
+III - No caso dos autos, o Tribunal de origem determinou a implementação do benefício da aposentadoria por invalidez por entender que a condição de saúde da segurada, seus aspectos socioeconômicos, profissionais e culturais a tornam incapaz para o exercício do trabalho habitual e inviabilizam seu retorno ao mercado de trabalho.
+IV - Verifica-se que o acórdão regional está em conformidade com o entendimento jurisprudencial desta Corte no sentido de que "a concessão da aposentadoria por invalidez deve considerar, além dos elementos previstos no art. 42 da Lei 8.213/91, os aspectos socioeconômicos, profissionais e culturais da segurada, ainda que o laudo pericial apenas tenha concluído pela sua incapacidade parcial para o trabalho" (REsp n. 1.568.259/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 24/11/2015, DJe 1/12/2015). Outros julgados: AgRg no AREsp n. 712.011/SP, Rel. Min. Assusete Magalhães, DJe 4.9.2015; AgRg no AREsp n. 35.668/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/2/2015, DJe 20/2/2015 e AgRg no AREsp n. 497.383/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/11/2014, DJe 28/11/2014.
+ ..
+VI - Recurso especial improvido.
+(AREsp n. 1.348.227/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/12/2018, DJe de 14/12/2018.)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. SUPOSTA VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. APOSENTADORIA POR INVALIDEZ. REQUISITOS. ART. 42 DA LEI 8213/91. INCAPACIDADE PARCIAL ATESTADA EM LAUDO PERICIAL. NÃO VINCULAÇÃO. ASPECTOS ECONÔMICOS, SOCIAIS E CULTURAIS DO SEGURADO. REVISÃO DAS PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. A aposentadoria por invalidez, nos termos do art. 42 da Lei n. 8.213/91, é devida ao segurado que for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência.
+3. Assim, ainda que o laudo pericial tenha concluído pela incapacidade parcial para o trabalho, pode o magistrado considerar outros aspectos relevantes, tais como, a condição sócio-econômica, profissional e cultural do segurado, para a concessão da aposentadoria por invalidez. Precedentes.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 308.378/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2013, DJe de 21/5/2013.)
+Assim, não se vislumbram motivos para a reforma da decisão no ponto.
+Quanto à alegada impossibilidade de cumulação de benefícios, nota-se que, a despeito da oposição dos aclaratórios, não houve pronunciamento do Colegiado regional sobre o tema, o que revela a ausência de prequestionamento, requisito indispensável ao conhecimento da insurgência.
+Assim, aplica-se, nesse ponto, a Súmula 211 do STJ, que dispõe ser "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ilustrativamente:
+PROCESSUAL CIVIL. DEFICIÊNCIA NAS RAZÕES RECURSAIS. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. PREQUESTIONAMENTO. INEXISTÊNCIA. REEXAME. DIREITO LOCAL. MATÉRIA FÁTICA. INVIABILIDADE.
+ ..
+4. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, de acordo com a Súmula 211 do STJ.
+ ..
+7. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 2.178.881/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/6/2025, DJEN de 25/6/2025.)
+Noutro ponto, constata-se que a Corte originária fixou a data de ajuizamento da ação como termo inicial dos efeitos financeiros do benefício previdenciário. A autarquia, por outro lado, pretende que seja considerada, como marco inicial do benefício, a data de apresentação do laudo pericial em juízo.
+Sobre o tema, a jurisprudência do STJ se firmou no sentido de que, inexistindo prévio requerimento administrativo, o termo inicial do benefício previdenciário deve coincidir com a data de citação do INSS.
+A título exemplificativo:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. OMISSÃO E OBSCURIDADE. OCORRÊNCIA. TERMO INICIAL PARA A IMPLEMENTAÇÃO DO BENEFÍCIO CONCEDIDO NA VIA JUDICIAL. AUSÊNCIA DE PEDIDO ADMINISTRATIVO. DATA DA CITAÇÃO VÁLIDA DA AUTARQUIA PREVIDENCIÁRIA. PRECEDENTES. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, COM EFEITOS INFRINGENTES.
+ ..
+4. Conforme jurisprudência consolidada nesta Corte, inexistente prévio requerimento administrativo, o termo inicial do benefício previdenciário deve ser a data da citação da autarquia, momento em que o INSS foi constituído em mora. Precedentes.
+5. Embargos de declaração parcialmente acolhidos, com efeitos infringentes.
+(EDcl no AgInt no REsp n. 2.068.286/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL DO BENEFÍCIO. CITAÇÃO VÁLIDA. MATÉRIA JÁ DECIDIDA SOB O RITO DO ART. 543-C DO CPC. ÓBICE DA SÚMULA 7/STJ AFASTADO.
+1. O tema relativo ao termo inicial de benefício proveniente de incapacidade laborativa já foi exaustivamente debatido nesta Corte, a qual, após oscilações, passou a rechaçar a fixação da Data de Início do Benefício - DIB a partir do laudo pericial, porquanto a prova técnica prestar-se-ia unicamente para nortear o convencimento do juízo quanto à pertinência do novo benefício, mas não para atestar o efetivo momento em que a moléstia incapacitante se instalou.
+2. Atualmente a questão já foi decidida nesta Corte sob o rito dos recursos repetitivos (art. 543-C do CPC), restando pacificada a jurisprudência no sentido que "A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação". (REsp 1.369.165/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção, DJe 7/3/2014).
+3. O juízo acerca do termo inicial do benefício, na espécie, não enseja reexame de prova, vedado pela Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 760.911/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/10/2015, DJe de 10/11/2015.)
+Assim, o acórdão objurgado merece parcial reforma para fixar a data de citação da autarquia como termo inicial dos efeitos financeiros do benefício concedido.
+Ante o exposto, conheço parcialmente do recurso especial do Instituto Nacional do Seguro Social e, nessa extensão, dou-lhe provimento em parte para fixar a data de citação do INSS como termo inicial do benefício previdenciário concedido.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. 1. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. PRESCRIÇÃO DO FUNDO DO DIREITO. IMPOSSIBILIDADE. PRECEDENTES. 2. APOSENTADORIA POR INVALIDEZ. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. CONSIDERAÇÃO NÃO APENAS DO LAUDO PERICIAL, MAS TAMBÉM DOS ASPECTOS SOCIOECONÔMICOS, PROFISSIONAIS E CULTURAIS DO SEGURADO. PRECEDENTES. 3. CUMULAÇÃO DE BENEFÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 4. TERMO INICIAL DO BENEFÍCIO. DATA DA CITAÇÃO. PRECEDENTES. 5. RECURSO ESPECIAL DO INSTITUTO NACIONAL DO SEGURO SOCIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
