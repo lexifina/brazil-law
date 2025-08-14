@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIO JOAO DOS SANTOS, com fundamento  no  art.  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  contra  acórdão  prolatado  pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+O acórdão recorrido manteve a condenação do recorrente pela prática do delito tipificado no artigo 306 do Código de Trânsito Brasileiro, confirmando a pena-base fixada acima do mínimo legal, com base nas circunstâncias judiciais desfavoráveis.
+Nas razões recursais, o recorrente alega violação ao artigo 59 do Código Penal, sustentando que a exasperação da pena-base, fundamentada no fato de estar dirigindo em avenida movimentada sob estado de embriaguez, configura bis in idem (fls. 211/216).
+O Ministério Público Federal apresentou parecer pelo não provimento do recurso especial (fls. 243/245).
+É o relatório. DECIDO.
+A controvérsia cinge-se à legalidade da exasperação da pena-base com fundamento nas circunstâncias judiciais do artigo 59 do Código Penal, especificamente quanto à alegação de bis in idem.
+A dosimetria da pena constitui atividade complexa que exige do magistrado a observância rigorosa dos critérios legais estabelecidos nos artigos 59 a 68 do Código Penal. Na primeira fase, devem ser analisadas as circunstâncias judiciais previstas no artigo 59, que permitem a individualização da pena dentro dos limites mínimo e máximo cominados ao tipo.
+A jurisprudência desta Corte é pacífica no sentido de que as circunstâncias judiciais somente podem ser valoradas negativamente quando os elementos concretos do caso transcendem os componentes essenciais do tipo penal, sob pena de configurar bis in idem.
+No presente caso, o juízo de origem fundamentou a exasperação da pena-base com base em elementos concretos que efetivamente extrapolam os componentes básicos do tipo penal previsto no artigo 306 do Código de Trânsito Brasileiro.
+Quanto às circunstâncias do crime: A condução de veículo automotor sob influência de álcool em via pública de grande circulação, durante horário de intenso tráfego, constitui circunstância que potencializa significativamente o risco à coletividade. O tipo penal básico não especifica o local ou horário da condução, sendo legítima a valoração negativa quando tais elementos agravam a lesividade da conduta.
+Quanto à culpabilidade: A presença de passageiros no veículo, especialmente mulheres e crianças, evidencia maior reprovabilidade da conduta, uma vez que o agente assumiu conscientemente o risco de causar danos não apenas a terceiros, mas também às pessoas sob sua responsabilidade no transporte.
+Não há que se falar em bis in idem quando a valoração das circunstâncias judiciais se baseia em elementos concretos que excedem os componentes essenciais da figura típica. O delito de embriaguez ao volante, previsto no artigo 306 do CTB, protege a incolumidade pública de forma genérica, não especificando local, horário ou circunstâncias específicas da condução.
+Quando o magistrado considera, para fins de exasperação da pena-base, elementos como a condução em via de grande circulação, horário de pico e presença de passageiros vulneráveis, está valorando circunstâncias que, embora relacionadas à conduta típica, não integram os elementos essenciais do tipo penal.
+A dosimetria aplicada pelo juízo de origem observou os princípios da proporcionalidade e individualização da pena, apresentando fundamentação concreta e específica para a exasperação da pena-base. O quantum aplicado manteve-se dentro dos limites da razoabilidade, não caracterizando excesso ou desproporcionalidade.
+Nesse sentido:
+DIREITO PENAL. HABEAS CORPUS SUBSTITUTIVO. HOMICÍDIO CULPOSO E LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR. EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA PARA A MAJORAÇÃO DA PENA-BASE. GRAVIDADE CONCRETA DA CONDUTA E CONSEQUÊNCIAS DO CRIME. CONFISSÃO ESPONTÂNEA NÃO UTILIZADA PARA CONVICÇÃO JUDICIAL. REGIME PRISIONAL FECHADO JUSTIFICADO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. ORDEM NÃO CONHECIDA. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Reinaldo de Jesus Pereira contra acórdão do Tribunal de Justiça do Estado de São Paulo que aumentou a pena-base e estabeleceu o regime fechado pela prática dos crimes de homicídio culposo e lesão corporal culposa na condução de veículo automotor, embriaguez ao volante e fuga do local do acidente (Lei 9.503/1997). II. QUESTÃO EM DISCUSSÃO
+2. A defesa alega que: (i) a exasperação da pena-base foi desproporcional; (ii) se é possível o reconhecimento da confissão espontânea; (iii) se o regime fechado foi devidamente aplicado ou não. III. RAZÕES DE DECIDIR
+3. O habeas corpus não é cabível como substituto de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade, o que não se verifica no caso concreto.
+4. A majoração da pena-base foi fundamentada de forma idônea, levando em consideração a gravidade da conduta, o elevado nível de alcoolemia do paciente e as consequências agravantes do crime, que envolveu vítimas jovens e uma comunidade já fragilizada por sinistros frequentes.
+5. Não houve bis in idem, pois a exasperação da pena considerou elementos concretos que extrapolam as circunstâncias comuns do tipo penal.
+6. A confissão espontânea não foi utilizada para formar a convicção judicial, visto que o paciente refutou os efeitos do álcool sobre sua capacidade psicomotora, afastando a aplicação da atenuante.
+7. O regime fechado foi corretamente fixado diante das circunstâncias judiciais desfavoráveis e do elevado nível de alcoolemia, além da gravidade das consequências do crime.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 861.140/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial interposto, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
