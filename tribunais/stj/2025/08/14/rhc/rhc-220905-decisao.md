@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por DAVI CONCEIÇÃO SILVA, ROMILDO SERAPIÃO DA SILVA e KLEBER SOUZA LIMA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que os recorrentes se encontram presos preventivamente desde 9/3/2024, pela suposta prática das condutas descritas nos arts. 14 e 16 da Lei n. 10.826/2003 e 311 do Código Penal.
+Os recorrentes sustentam que há constrangimento ilegal decorrente do excesso de prazo, uma vez que estão presos há mais de 400 dias sem que tenha havido o recebimento da denúncia e sem previsão de conclusão da instrução processual.
+Destacam que o caso não se trata de uma causa complexa, pois envolve apenas três acusados e duas testemunhas, ambas agentes do Estado.
+Ressaltam que a demora de um ano para o oferecimento da denúncia viola os princípios da presunção de inocência e da duração razoável do processo, conforme preconizado pelo art. 7.5 da Convenção Americana de Direitos Humanos, sendo cabível, diante desse cenário, a substituição da prisão preventiva por medidas cautelares alternativas.
+Asseveram que a prisão preventiva carece de proporcionalidade, sendo uma medida cautelar que não pode ser mais gravosa que o provimento final a ser proferido.
+Pontuam que, apesar de não haver previsão legal para a concessão de liminar em habeas corpus, a doutrina e a jurisprudência dominante admitem essa possibilidade.
+Requerem, liminarmente e no mérito, a expedição do competente alvará de soltura, como forma de resguardar o direito de locomoção dos recorrentes, antes mesmo da apresentação das informações pelo Órgão coator.
+É o relatório.
+Inicialmente, no que se refere à tese defensiva de que a denúncia não teria sido recebida, os autos demonstram o contrário , tendo o Tribunal local destacado que o recebimento ocorreu por meio de decisão proferida em 25/3/2025 (fl. 163).
+Por outro lado, a prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+O Tribunal local examinou a questão nos seguintes termos, conforme se observa do voto condutor do acórdão (fls. 163-166, grifei ):
+É cediço, ainda, que a prestação jurisdicional deve ser célere, não comportando demora injustificada, sob pena de afronta ao Princípio da Duração Razoável do Processo, previsto no art. 5º, inciso LXXVII, da CF, acrescido pela Emenda Constitucional n.º 45/2004: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação".
+Tal princípio constitucional configura-se como instrumento basilar para a análise dos casos concretos de tutela da liberdade de locomoção do indivíduo, em face de eventual omissão de algum dos sujeitos processuais ou da complexidade do feito.
+Sucede que, em análise percuciente dos fólios, mesmo compreendendo que a questão deve ser analisada com base nos princípios da razoabilidade e proporcionalidade, observa-se que o feito vem sendo impulsionado de forma diligente, de acordo com as peculiaridades do caso concreto.
+Primeiramente, em análise dos autos da ação penal nº 8000764-31.2025.8.05.0203, contrariando o que alega o Impetrante, sobressai que a denúncia foi recebida em decisão proferida na data de 25/03/2025.
+Nesse ponto, convém trazer à baila os esclarecimentos tecidos nos informes judiciais encartados ao id 85558714:
+"Juntada a intimação dos Pacientes (ID. 494379830, 494379829 e 494379832), em 03/04/2025.
+A Defensoria Pública do Estado da Bahia apresentou resposta à acusação, entendendo por adiar o enfrentamento da acusação aguardando a instrução probatória (ID. 498753656), em 01/05/2025.
+Audiência de INSTRUÇÃO E JULGAMENTO designada para o dia 22 de agosto de 2025, às 13:30 h.
+O feito aguarda a realização da audiência."
+Sobreleva notar ainda que a Ação Penal fora deflagrada contra 03 (três) réus que apresentaram sua defesa em 01/05/2025, todos sob patrocínio da douta Defensoria Pública.
+Na sequência, em 03/07/2025 a indigitada autoridade coatora procedeu a reanálise da prisão, em observância à prescrição do art. 316 do CPP, que estabelece o prazo nonagesimal para reavaliação da medida, decidindo pela manutenção da custódia cautelar, ante a persistência dos seus requisitos, bem assim por reconhecer a periculosidade dos acusados e a ausência de alteração relevante no contexto fático.
+Nesse cenário, da análise do andamento processual detalhadamente exposto, é evidente que não há desídia ou omissão do Juízo a quo na tramitação do feito, visto que o processo segue com regular marcha, sem mora que incorra em ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação.
+ ..
+Nessa intelecção, logo se vê que a ação penal segue seu fluxo em compatibilidade com as intercorrências comumente observadas na instrução criminal em primeira instância, e com as peculiaridades do feito, não sendo possível divisar qualquer negligência da máquina judiciária na marcha processual.
+De mais a mais, não obstante as razões aduzidas pelo Impetrante, tenho que a prisão mostra-se razoável e proporcional às circunstâncias apresentadas nos autos, em consonância com as regras contidas nos artigos 312 e 313, I, do CPP.
+ ..
+Com tais aportes, a priori, é possível concluir que os fatos narrados na denúncia não constituem episódio isolado na vida do Paciente.
+Decerto ainda que a aferição da periculosidade do agente a partir de registros de investigações e/ou ações penais em andamento não configura constrangimento ilegal, constituindo-se em evidências contundentes da sua tendência à contumácia delitiva.
+Portanto, os elementos reunidos nos autos evidenciam a periculosidade social dos Pacientes e a necessidade de mantê-los sob custódia cautelar, a bem da garantia da ordem pública, sobretudo quando há histórico de recalcitrância criminosa, bem assim a propensão a cometimento de delitos ainda mais graves.
+Forçoso reconhecer, ainda, a necessidade de resguardar o andamento da instrução processual, bem assim a aplicação da lei penal, considerando a proximidade da audiência de instrução e julgamento, designada para 22/08/2025.
+Como sucedâneo, conclui-se, ainda, que as medidas substitutivas do art. 319 do Código de Processo Penal não se revelam suficientes nem adequadas ao caso vertente.
+Nesse diapasão, não obstante as razões aduzidas pelo Impetrante, tenho que a prisão mostra-se razoável e proporcional às circunstâncias apresentadas nos autos.
+Outrossim, não se vislumbra constrangimento ilegal ou violação ao princípio da razoável duração do processo, a ser sanada pela via do habeas corpus.
+Assim, ainda que se constate certa morosidade no oferecimento e recebimento da denúncia, observa-se que o processo tramita regularmente, tendo o recebimento da exordial acusatória ocorrido por decisão de 25/3/2025. Houve a juntada da intimação dos três acusados em 3/4/2025, a apresentação de resposta à acusação pela Defensoria Pública em 1º/5/2025 e, posteriormente, a reavaliação dos fundamentos da prisão preventiva pelo Juízo de primeiro grau em 3/7/2025, o que demonstra o andamento processual dentro de parâmetros razoáveis.
+Ademais, diferentemente do que alega a defesa quanto à inexistência de previsão para o término da instrução, verifica-se que a audiência de instrução e julgamento já está designada para o dia 22/8/2025, reforçando que não há inércia estatal a justificar o reconhecimento de excesso de prazo.
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Além disso, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Por fim, "quando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus .
+Considerando que a prisão preventiva perdura há mais um ano, oficie-se ao Juízo da Vara Criminal de Prado - BA a fim de confira máxima celeridade à conclusão do feito.
+Publique-se. Intimem-se.
+EMENTA
