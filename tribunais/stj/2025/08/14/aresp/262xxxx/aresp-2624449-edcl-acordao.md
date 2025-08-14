@@ -1,0 +1,105 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Embargos de declaração. Rejeição.
+I. Caso em exame
+1. Segundos embargos de declaração opostos contra acórdão da Quinta Turma desta Corte Superior que, à unanimidade, negou provimento ao agravo regimental em habeas corpus, sob a alegação de omissão quanto à fundamentação da decisão de segregação cautelar.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se os embargos de declaração podem ser utilizados para rediscutir matéria já decidida, sem a demonstração de ambiguidade, obscuridade, contradição ou omissão, conforme o art. 619 do Código de Processo Penal.
+III. Razões de decidir
+3. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme o art. 619 do CPP.
+4. A mera irresignação com o entendimento apresentado na decisão não é suficiente para o acolhimento do recurso e oposição de sucessivos embargos de declaração.
+IV. Dispositivo e tese
+5. Embargos de declaração rejeitados, com advertência.
+Tese de julgamento: "1. Os embargos de declaração não se prestam para rediscutir o mérito da decisão ou para manifestar inconformismo com o resultado do julgamento. 2. A fundamentação suficiente para justificar a conclusão de que o embargante não demonstrou o efetivo cumprimento integral da pena é requisito indispensável para a extinção da punibilidade".
+Dispositivos relevantes citados: CPP, art. 619; CPC, art. 1022, III.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no HC 934348/RS, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 18.12.2024; STJ, EDcl nos EDcl no AgRg no RHC 200239/RJ, Rel. Min. Daniela Teixeira, Quinta Turma, j. 18.02.2025.
+RELATÓRIO
+A defesa de DIEGO VAZ VERNETTI interpôs embargos de declaração, às fls. 958/963, em face da decisão de fls. 947/949.
+A decisão impugnada concluiu pela rejeição dos embargos de declaração que foram interpostos às fls. 928/933 em face da decisão de fls. 919/924.
+A defesa sustenta que "existem alguns pontos que o embargante entende que devem ser objeto de análise e respectiva correção diante da omissão e obscuridade no acórdão".
+Requer, por fim, sejam providos os embargos para "aperfeiçoar a prestação jurisdicional, corrigindo-se a omissão".
+É o relatório.
+EMENTA
+Direito processual penal. Embargos de declaração. Rejeição.
+I. Caso em exame
+1. Segundos embargos de declaração opostos contra acórdão da Quinta Turma desta Corte Superior que, à unanimidade, negou provimento ao agravo regimental em habeas corpus, sob a alegação de omissão quanto à fundamentação da decisão de segregação cautelar.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se os embargos de declaração podem ser utilizados para rediscutir matéria já decidida, sem a demonstração de ambiguidade, obscuridade, contradição ou omissão, conforme o art. 619 do Código de Processo Penal.
+III. Razões de decidir
+3. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme o art. 619 do CPP.
+4. A mera irresignação com o entendimento apresentado na decisão não é suficiente para o acolhimento do recurso e oposição de sucessivos embargos de declaração.
+IV. Dispositivo e tese
+5. Embargos de declaração rejeitados, com advertência.
+Tese de julgamento: "1. Os embargos de declaração não se prestam para rediscutir o mérito da decisão ou para manifestar inconformismo com o resultado do julgamento. 2. A fundamentação suficiente para justificar a conclusão de que o embargante não demonstrou o efetivo cumprimento integral da pena é requisito indispensável para a extinção da punibilidade".
+Dispositivos relevantes citados: CPP, art. 619; CPC, art. 1022, III.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no HC 934348/RS, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 18.12.2024; STJ, EDcl nos EDcl no AgRg no RHC 200239/RJ, Rel. Min. Daniela Teixeira, Quinta Turma, j. 18.02.2025.
+VOTO
+Presentes os pressupostos de admissibilidade, passo a apreciar os embargos de declaração.
+Conforme estabelece o art. 619 do CPP, os embargos de declaração têm fundamentação vinculada e somente são cabíveis nas estritas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade na decisão embargada. Admite-se, ainda, a interposição de embargos de declaração para correção de erro material, nos termos do art. 1022, III, do CPC c/c art. 3º do CPP.
+A parte embargante alega que a decisão impugnada contém omissão ao ter deixado de analisar a "integralidade dos termos, fundamentos e argumentos que integram as razões recursais e ulteriores impugnações" (fl. 958).
+Apesar de mencionar a necessidade de respeito a posicionamentos diversos, a impetração dos presentes embargos de declaração retrata exatamente o contrário.
+Ante a ausência de impugnação específica e de apresentação de qualquer argumento novo apto a demonstrar a existência de erro, contradição, omissão ou obscuridade na decisão impugnada, conclui-se, sem dificuldade, que a única intenção da oposição dos presentes embargos de declaração é a de provocar a revisão do entendimento firmado em contrariedade aos interesses defensivos, o que é legalmente descabido.
+À semelhança do que já ocorrera com os embargos de declaração de fls. 928/933, o teor dos novos embargos opostos às fls. 958/963 não vai além de meras afirmações genéricas no sentido da não incidência sumular e da insistência na alegação de que estão presentes "os elementos essenciais" para provimento recursal, o que corrobora a veiculação de simplório inconformismo com a interpretação fixada por esta Corte.
+Aliás, a decisão impugnada consignou o seguinte (fl. 952 - grifos nossos):
+"No caso em análise, inexiste qualquer vício no acórdão embargado. A parte utiliza-se dos termos "omissão" e "obscuridade" apenas como forma de veicular seu inconformismo com o resultado do julgamento.
+De toda forma, cumpre reforçar que o acórdão embargado bem fundamentou as razões pelas quais se mostrava inviável o conhecimento do agravo regimental.
+Com efeito, anotou-se o seguinte:
+"A defesa não rebateu o fundamento utilizado peladecisão de não conhecimento do agravo em recursoespecial proferida pela Presidência desta Corte.
+A Presidência não conheceu do agravo em recursoespecial porque a defesa deixou de infirmar osfundamentos da decisão de inadmissibilidade da origem,consistentes nos óbices da Súmula 83/STJ;impossibilidade de alegação de divergência comparadigmas oriundos de habeas corpus, mandado desegurança ou recurso ordinário e deficiência de cotejoanalítico - Súmula 284/STF, incidindo, in casu, a Súmula n.182 do STJ. Cita-se o trecho pertinente (grifos nossos):  ..
+Por seu turno, no presente agravo regimental, adefesa sustenta, genericamente, a infirmação de todos osfundamentos da decisão agravada e a inaplicabilidade dosóbices da Súmula n. 83 do STJ e da Súmula n. 284 do STF.
+Cabia à parte, neste agravo regimental, demonstrarque, no agravo em recurso especial, diversamente doverificado pela Presidência desta Corte, teria impugnadodevidamente os fundamentos de inadmissibilidadeconsistentes na incidência da Súmula 83/STJ;impossibilidade de alegação de divergência comparadigmas oriundos de habeas corpus, mandado desegurança ou recurso ordinário e deficiência de cotejoanalítico - Súmula 284/STF. Ou seja, deveria ter indicado,precisamente, que o agravo em recurso especial refutouespecificamente os óbices aplicados na origem.
+Nestas condições, a defesa não impugnou, sequersuperficialmente, o óbice aplicado (Súmula n. 182 do STJ),de maneira que o recurso apresentado é incapaz dedemonstrar o equívoco da decisão contra a qual seinsurge, mantendo-a incólume. Desse modo, o agravoregimental apresentado não ultrapassa o juízo deadmissibilidade igualmente em razão da incidência daSúmula n. 182 do STJ, que dispõe ser "inviável o agravo doart. 545 do Código de Processo Civil - CPC que deixa deatacar especificamente os fundamentos da decisãoagravada"". (fls. 920/922)
+Diversamente do alegado pela parte embargante, não há qualquer omissão ou obscuridade no acórdão embargado. Expressamente, consignou-se que a defesa não impugnou o óbice aplicado pela Presidência desta Corte (Súmula n. concretamente 182 do STJ), em razão da não refutação dos fundamentos da decisão de inadmissibilidade do apelo nobre na origem (Súmula n. 83/STJ; impossibilidade de alegação de divergência com paradigmas oriundos de , mandado de habeas corpus segurança ou recurso ordinário e deficiência de cotejo analítico - Súmula n. 284/STF).
+Nessa esteira, a mera afirmação defensiva, no agravo regimental, de impugnação integral dos fundamentos da decisão agravada não satisfaz a exigência do princípio da dialeticidade. Far-se-ia necessário a impugnação específica, concreta e pontual dos óbices aplicados.
+A decisão que não conheceu do agravo em recurso especial e o voto que não conheceu do regimental foram suficientemente fundamentados.
+Destarte, sem efetivo vício a ser sanado, constata-se apenas inconformismo da parte, o que não se coaduna com a medida integrativa."
+Constata-se, portanto, que não há vícios no acórdão embargado e as supostas omissões já foram alegadas nos embargos anteriores, pretendendo o embargante, novamente, alcançar a modificação do julgado que lhe desfavoreceu.
+Sobre o tema, citam-se precedentes (grifos nossos):
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. PENA RESTRITIVA DE DIREITOS.
+PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. DESCUMPRIMENTO IRREGULAR.
+IMPOSSIBILIDADE DE EXTINÇÃO DA PUNIBILIDADE. AUSÊNCIA DE VÍCIOS NO JULGADO. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. EMBARGOS REJEITADOS.
+ ..  II. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em verificar se o acórdão embargado apresenta omissão, obscuridade, contradição ou erro material que justifique a oposição de embargos de declaração, ou se a parte embargante busca apenas rediscutir matéria já decidida.
+ ..  Não há omissão, obscuridade, contradição ou erro material no julgado embargado, sendo a fundamentação suficiente para justificar a conclusão de que o embargante não demonstrou o efetivo cumprimento integral da pena, requisito indispensável para a extinção da punibilidade. Os embargos de declaração não se prestam para rediscutir o mérito da decisão ou para manifestar inconformismo com o resultado do julgamento, sendo vedado seu uso com caráter infringente. Conforme reiterada jurisprudência, "os embargos de declaração não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição" (STJ, EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Rel. Min. Messod Azulay Neto, Terceira Seção, DJe de 22/02/2023).  ..
+(EDcl nos EDcl no AgRg no RHC 200239/RJ, Relatora Ministra DANIELA TEIXEIRA, Órgão Julgador: QUINTA TURMA, Data do Julgamento: 18/2/2025, Data da Publicação/Fonte: DJEN 25/2/2025).
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. RECURSO COM FUNDAMENTAÇÃO VINCULADA. REJEIÇÃO.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão da Quinta Turma desta Corte Superior que, à unanimidade, negou provimento ao agravo regimental em habeas corpus, sob a alegação de omissão quanto à fundamentação da decisão de segregação cautelar.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se os embargos de declaração podem ser utilizados para rediscutir matéria já decidida, sem a demonstração de ambiguidade, obscuridade, contradição ou omissão, conforme o art. 619 do Código de Processo Penal.
+III. Razões de decidir
+3. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme o art. 619 do CPP.
+4. A mera irresignação com o entendimento apresentado na decisão não é suficiente para o acolhimento dos embargos de declaração.
+5. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes quando já encontrado motivo suficiente para proferir a decisão, não servindo os aclaratórios para rediscussão do julgado.
+IV. Dispositivo e tese
+6. Embargos de declaração rejeitados.  ..
+(EDcl no AgRg no HC 934348/RS, Relator Ministro MESSOD AZULAY NETO, Órgão Julgador: QUINTA TURMA, Data do Julgamento: 18/12/2024, Data da Publicação/Fonte: DJEN 23/12/2024).
+A superveniência de inúmeros recursos contestando o não conhecimento do agravo em recurso especial sem apresentar tese apta à reversão dos julgados proferidos revela o nítido propósito de impedir o trânsito em julgado da ação penal. Tal abuso de direito viola os deveres de lealdade processual e comportamento ético no processo, além de desvirtuar o próprio postulado da ampla defesa, o que configura desrespeito ao Poder Judiciário.
+Nesse sentido, citam-se precedentes (grifos nossos):
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NÃO CONFIGURADAS. EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE PROTELATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM ESCLARECIMENTO.
+1. Inviável a apreciação de matéria constitucional por esta Corte Superior, ainda que para fins de prequestionamento, porquanto, por expressa disposição da própria Constituição Federal (art. 102, inciso III), se trata de competência reservada ao Supremo Tribunal Federal. Precedentes.
+2. Os embargos de declaração possuem fundamentação vinculada, sendo imprescindível, para o seu cabimento, a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619, do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão não tem o condão de viabilizar a oposição dos aclaratórios.
+3. Na espécie, não há vícios no acórdão embargado. As supostas omissões já foram alegadas nos embargos anteriores, pretendendo o embargante novamente a modificação do julgado que lhe desfavoreceu.
+4. A superveniência de inúmeros recursos contestando o não conhecimento e provimento do recurso especial, sem apresentar tese apta à reversão dos julgados proferidos, revela nítido caráter protelatório, no intuito de impedir o trânsito em julgado da ação penal. Abuso de direito constatado em razão da violação dos deveres de lealdade processual e comportamento ético no processo, além do desvirtuamento do próprio postulado da ampla defesa. Impossibilidade de aplicação de multa em tal hipótese, na esfera penal. Precedentes.
+5. Nos termos da jurisprudência deste Superior Tribunal, "ainda que na esfera penal não seja comum a fixação de multa por litigância de má-fé, não é demais gizar que a insistência do embargante em apresentar sucessivas insurgências contra decisões proferidas por esta Corte revela não só o exagerado inconformismo, mas também o desrespeito ao Poder Judiciário e o seu nítido caráter protelatório, no intuito de impedir o trânsito em julgado da decisão, constituindo abuso de direito, em razão da violação dos deveres de lealdade processual e comportamento ético no processo, bem como do desvirtuamento do próprio postulado da ampla defesa" (EDcl no AgRg nos Edcl no AgRg no AREsp n. 1.609.241/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 4/5/2020).
+6. Embargos de declaração rejeitados, com a advertência de que, a se reiterar a interposição/oposição de recursos como o do presente caso, esses serão considerados como protelatórios, com a determinação de baixa dos autos, independentemente de publicação do acórdão, e respectiva certificação de trânsito em julgado.
+(EDcl nos EDcl no AgRg no AgRg no AREsp 2690007/MG, Relator Ministro REYNALDO SOARES DA FONSECA, Órgão Julgador: QUINTA TURMA, Data do Julgamento: 17/12/2024, Data da Publicação/Fonte: DJEN 23/12/2024).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO. INTEMPESTIVIDADE. ART. 39 DA LEI N.
+8.038/1990 e ART. 258 do RISTJ. RECURSOS SUCESSIVOS E PROTELATÓRIOS. IMEDIATA BAIXA DOS AUTOS. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Desde a prolação do acórdão de fls. 1.670-1.672, em relação à Petição n. 627282/2023 (fls. 1.661-1.665), foi destacado que o agravo regimental interposto contra decisão de fls. 1.652-1.654 era intempestivo, ou seja, a partir de então, não se deve conhecer de nenhum dos recursos, uma vez que padecem do mesmo vício de intempestividade.
+2. A defesa opôs embargos de declaração contra acórdão que não conheceu do agravo regimental, os quais foram rejeitados (fls. 1.701-1.705), sendo mantido o entendimento de intempestividade do recurso. Assim, os presentes embargos de declaração configuram-se como irresignação natimorta, pois infectada pela mesma e inarredável mácula que ceifou anterior gestação recursal, a extemporaneidade.
+3. No caso, trata-se de manifesto abuso do direito de recorrer, visto que a defesa insiste, por meio de sucessivos recursos, protelar a prestação jurisdicional desta Corte Superior. Embora não haja previsão legal para fixação de multa por litigância de má-fé em matéria penal, a jurisprudência desta Casa preconiza a imediata baixa dos autos que padeçam de tal desvio de atuação defensiva.
+4. Nesse sentido, "Conforme orientação pacífica do Superior Tribunal de Justiça, "A interposição de sucessivos recursos com os mesmos argumentos configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Precedentes" (EDcl nos EDcl no AgRg nos EAREsp n. 1.472.082/CE, relator Ministro Sebastião Reis Júnior, 3ª S., DJe de 1º/9/2020).
+5. Embargos de declaração não conhecidos.
+(EDcl nos EDcl no AgRg nos EAREsp 2271084/SC, Relator Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), Órgão Julgador: TERCEIRA SEÇÃO, Data do Julgamento: 22/2/2024, Data da Publicação/Fonte: DJe 23/2/2024).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+Os embargos de declaração opostos em sequência devem limitar-se a apontar os vícios porventura constatados no acórdão que julgou os anteriores, sendo inadmissíveis quando se contrapõem aos argumentos delineados em outro aresto, tal como no agravo regimental, como se verifica na espécie.RECURSO PROTELATÓRIO. DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA DOS AUTOS PARA O INÍCIO DA EXECUÇÃO DA PENA.
+1. A ausência, no acórdão, de quaisquer dos vícios elencados no art. 619 do Código de Processo Penal, torna inviável o acolhimento dos embargos declaratórios opostos. 2. Na espécie, inexistem os vícios apontados pela defesa, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Ainda que na esfera penal não seja comum a fixação de multa por litigância de má-fé, não é demais gizar que a insistência da embargante diante das sucessivas oposições de embargos de declaração contra acórdão proferido pela Quinta Turma desta Corte, revela não só o exagerado inconformismo, bem como o desrespeito ao Poder Judiciário e o seu nítido caráter protelatório, no intuito de impedir o trânsito em julgado da sentença condenatória, constituindo abuso de direito, em razão da violação dos deveres de lealdade processual e comportamento ético no processo, bem como do desvirtuamento do próprio postulado da ampla defesa.
+4. Nos termos da jurisprudência remansosa deste Sodalício, diante da reiterada oposição de aclaratórios meramente protelatórios pela parte, em abuso do seu direito de defesa, é de se determinar a baixa dos autos para o início da execução da sanção, independente da publicação do acórdão.
+5. Embargos de declaração rejeitados, com determinação de baixa dos autos para o início da execução da sanção imposta ao embargante, independente da publicação do acórdão, devendo-se proceder à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no REsp 1688397/PR, Relator Ministro JORGE MUSSI, Órgão Julgador: QUINTA TURMA, Data do Julgamento: 13/12/2018, Data da Publicação/Fonte: DJe 1º /2/2019).
+Ante o exposto, voto pela rejeição dos embargos de declaração e pela advertência de que, a se reiterar a interposição de medidas como a do presente caso, tal atitude será considerada protelatória e justificará a determinação de baixa dos autos independentemente de publicação do acórdão e a certificação de trânsito em julgado.
