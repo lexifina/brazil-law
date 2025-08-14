@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por José Gilmar de Sousa Fernandes (fls. 1.488/1.492) desafiando a inadmissibilidade de seu recurso especial, conforme decisão exarada pela Vice-Presidência do Tribunal de Justiça da Paraíba (TJPB) às fls. 1.484/1.485, que reconheceu a deserção por não complementação de preparo, mesmo após a intimação para suprir a falha.
+Segundo o recorrente, foi cumprido o despacho de intimação para a complementação de custas, pois isso foi feito "juntando o comprovante de recolhimento do preparo perante o STJ, consoante documento em anexo. Contudo, referida petição não foi juntada aos autos tendo a escrivania do Colendo Tribunal de Justiça certificado o decurso do prazo in albis" (fl. 1.491). A peça vem acompanhada de guia e comprovante de recolhimento à fl. 1.495.
+Os autos foram anteriormente remetidos ao TJPB para juízo de adequação ao Tema n. 1.199/STF, conforme decisão de fls. 1.580/1.584 e diante da petição de fls. 1.552/1.561.
+A Corte local devolveu o feito a este Tribunal sem exercer o juízo de adequação, fundamentando que os réus, em seus recursos, "não discutem nenhuma das temáticas abordadas pelo Supremo no julgamento do ARE nº 843.989 (Tema 1.199). Oportuno destacar também que os recursos especiais foram julgados desertos" (fls. 1.646/1.647).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O decisório de fls. 1.580/1.584 bem delimitou o retorno dos autos ao Tribunal de origem, fixando que essa devolução não consistiria em qualquer chancela ou avaliação sobre a admissibilidade da insurgência direcionada a esta Instância Superior, a não ser a intempestividade, de modo que a viabilidade do recurso seria apreciada em caso de eventual retorno dos autos (a propósito, citou-se o AgInt na PET no AREsp n. 1.371.439/ES, Relator Ministro Francisco Falcão, DJe de 5/3/2020).
+Com isso, o recurso do art. 1.042 do CPC regressa para julgamento nos termos do art. 1.041 do CPC: "Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º ".
+O agravante admite que não recolheu as custas oportunamente, mas que teria atendido ao despacho prévio da Vice-Presidência do TJPB juntando a guia e os comprovantes perante este STJ.
+A argumentação não se sustenta. Não há petição protocolada por equívoco perante este Sodalício para atender ao despacho proferido pela Corte de origem visando a sanear o preparo.
+Não bastasse isso, o comprovante e a guia, tardiamente apresentados, quando da interposição do agravo, são datados de emissão posterior ao esgotamento do prazo concedido para a regularização, este encerrado em 18 de maio de 2018, enquanto os documentos de fl. 1.495 são de 1º de junho de 2018.
+O pagamento tardio não supre a falha. A propósito:
+PROCESSO CIVIL, IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO INSUFICIENTE. ART. 1.007, § 2º, DO CPC. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187/STJ. JUNTADA POSTERIOR. INADMISSIBILIDADE. PRECLUSÃO CONSUMATIVA. APELO NOBRE INTEMPESTIVO. FERIADO LOCAL. INEXISTÊNCIA DE EXPEDIENTE FORENSE. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DA INSURGÊNCIA. DOCUMENTO IDÔNEO. NECESSIDADE. PRECLUSÃO
+1. Como cediço, uma vez deferido prazo para regularização do preparo, o não atendimento da providência prevista no art. 1.007, § 4º, do CPC caracteriza a deserção do recurso.
+2. Caso concreto em que, nada obstante deferido prazo para regularização do preparo, a parte agravante, embora regularmente intimada, não providenciou o seu recolhimento em dobro.
+3. A jurisprudência desta Corte entende que não é possível a comprovação posterior da complementação do preparo, ante a preclusão consumativa.
+4. De acordo com o art. 1.003, § 6º, do CPC/15, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", de forma que não é possível essa demonstração em momento posterior à interposição do recurso, em virtude da preclusão.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.791.237/BA, Relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+ANTE O EXPOSTO, com fundamento nos arts. 932, III, e 1.007 do CPC, conheço do agravo, mas não conheço do recurso especial.
+EMENTA
