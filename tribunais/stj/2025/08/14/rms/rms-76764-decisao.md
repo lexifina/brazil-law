@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Greice de Souza Alano de Pieri contra o acórdão de fls. 292/299, proferido à unanimidade pela 5ª Câmara de Direito Público do Tribunal de Justiça do Estado de Santa Catarina, resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA - PROCESSO SELETIVO DO MAGISTÉRIO - PROFESSOR DA EDUCAÇÃO ESPECIAL (ANOS INICIAIS) - CANDIDATA INABILITADA - GRADUADA EM NUTRIÇÃO COM FORMAÇÃO COMPLEMENTAR EM PEDAGOGIA - IMPEDIMENTO DE LECIONAR EM SÉRIES INICIAIS DA EDUCAÇÃO BÁSICA - RESOLUÇÕES DO CONSELHO NACIONAL DE EDUCAÇÃO QUE NÃO REFERENDAM ESSA POSSIBILIDADE - REQUISITO DO EDITAL NÃO ATENDIDO - PEDIDO JULGADO IMPROCEDENTE.
+A tese explorada no mandado de segurança é a de que candidata a cargo de professor da educação especial (anos iniciais) foi ilegalmente inabilitada em processo seletivo, não obstante sua formação complementar em pedagogia, conforme a Resolução 2/2015 (do CNE), garantisse o direito de concorrer à vaga.
+O ato da autoridade, contudo, foi legítimo. Independente das regras de transição impostas pelo mesmo ato normativo, a candidata concluiu formação complementar em pedagogia apesar de ser graduada em nutrição. As orientações do Conselho Nacional de Educação indicam que a complementação dos estudos haveria de ser feita em área convergente à graduação e mesmo assim para lecionar nos anos finais dos ensinos fundamental, médio e técnico (não nos anos iniciais).
+Segurança denegada. (fl. 299).
+Nas razões do recurso ordinário, fls. 305/326, a recorrente alega que "a Resolução 2/2015 (do CNE) tenha se limitado a autorizar que a formação pedagógica estivesse atrelada à área de conhecimento do profissional, é importante destacar que, além de referida resolução - assim como todas as outras - se destinar às instituições de ensino, não havia, até dezembro de 2022, vedação expressa de que o Curso de Formação Pedagógica em Pedagogia fosse validamente ofertado" (fls. 313/314). Acrescenta que "não se pode querer tolher formações ocorridas na vigência de normativa anterior que não impunha vedação ao curso de formação pedagógica em Pedagogia, e, ademais disso, concedia aos docentes deste curso o título de Licenciatura em Pedagogia" (fl. 318) e requer que "o curso de Formação Pedagógica em Pedagogia seja considerado pela SED/SC para fins de habilitação na vaga pretendida pela recorrente" (fl. 321).
+Em contrarrazões, fls. 336/339 o Estado de Santa Catarina endossou a fundamentação do acórdão e requereu o indeferimento do recurso.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Humberto Jacques de Medeiros, manifestou-se pelo não provimento do apelo, consoante parecer de fls. 345/351, resumido na ementa que se segue:
+Direito Administrativo. Processo seletivo. Professor da Educação Especial. Inabilitação. Formação inicial em nutrição. Complementação acadêmica em "formação pedagógica em pedagogia". Distinção quanto à "Licenciatura Plena em Pedagogia". Lei de Diretrizes e Bases da Educação Nacional. Ausência de direito líquido e certo.
+1. A "formação pedagógica em pedagogia" representa uma modalidade de complementação de estudos, direcionada a portadores de diploma de curso superior que procuram habilitação específica para a docência na área da formação inicial. O curso de "Licenciatura Plena em Pedagogia", por outro lado, constitui formação inicial voltada à ciência da Educação e ao preparo integral e pleno da docência fundamental, nela incluída o ensino especial.
+2. A "formação pedagógica em pedagogia" não confere o título de pedagogo e nem equivale, em termos acadêmicos e profissionais, ao curso de "Licenciatura Plena em Pedagogia", diferenciando-se em conteúdo, carga horária e abrangência.
+Parecer pelo não provimento do recurso ordinário em mandado de segurança.(fl. 345).
+Recurso tempestivo e representação regular (fl. 28).
+Benefício de gratuidade de justiça requerido na origem (fl. 298).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conforme o disposto no art. 1.º da Lei n. 12.016/2009, norma que reproduz o comando constitucional, a concessão da ordem, presente evidência documental trazida já com a exordial (prova pré-constituída), vai condicionada à incontestável demonstração de violação ao alegado direito líquido e certo da parte impetrante, por ato abusivo ou ilegal da indicada autoridade coatora.
+Logo, se não cabalmente provada a existência de ato ilegal ou abusivo, ou o malferimento de direito líquido e certo - assim entendido aquele prontamente aferível e decorrente da inevitável incidência da norma sobre o suporte fático nela previsto - o caso será da denegação da ordem. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL ADMINISTRATIVO DISCIPLINAR. MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA FEDERAL. DEMISSÃO. RESPONSABILIDADE INDIVIDUAL. DECISÃO DA AUTORIDADE JULGADORA EM DISCORDÂNCIA COM SUGESTÃO DA COMISSÃO. POSSIBILIDADE LEGAL. REGULARIDADE DO PROCEDIMENTO. ORDEM DENEGADA.
+ ..
+4. A liquidez e a certeza que, nos termos constitucionais, asseguram a concessão da ordem não se satisfazem com meras possibilidades ou suposições. É de todo necessário que a violação a direito alegada pelo impetrante seja demonstrada por prova documental convincente, previamente apresentada com a petição vestibular, ante a notória impossibilidade de dilação probatória na via mandamental.
+Precedentes.
+ ..
+6. Ordem denegada.
+(MS n. 24.584/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 10/5/2023, DJe de 15/5/2023.)
+À luz destas premissas, como bem anotou a Corte Estadual, não há ato coator a ser superado pela via mandamental.
+Com efeito, a formação inicial para graduados não licenciados pede a complementação pedagógica atrelada à área de conhecimento do profissional. Contudo, a recorrente é graduada em nutrição e concluiu sua formação pedagógica em pedagogia.
+No mais, se a candidata, contrariando prévia e expressa previsão editalícia, não dispõe de formação exigida pelo edital, deve, segundo a norma de regência ser eliminada do concurso, como ocorreu no caso.
+Não há nisso, ilegalidade ou abuso de poder, pelo que a denegação da ordem é a medida necessária.
+Com efeito, como bem observou o Parquet Federal em seu parecer (cujas razões também acolho como fundamentos de decidir):
+17. É fulcral diferenciar, de antemão, que os cursos de "formação pedagógica em pedagogia" não se confundem com a formação de pedagogo.
+18. Sobre a matéria, a Lei de Diretrizes e Bases da Educação Nacional ("LDB", Lei n. 9.394/1996) estabelece o seguinte:
+Art. 62. A formação de docentes para atuar na educação básica far-se-á em nível superior, em curso de licenciatura plena, admitida, como formação mínima para o exercício do magistério na educação infantil e nos cinco primeiros anos do ensino fundamental, a oferecida em nível médio, na modalidade normal. (Destaques do MPF).
+19. A "formação pedagógica em pedagogia" representa uma modalidade de complementação de estudos, direcionada a portadores de diploma de curso superior que procuram habilitação específica para a docência na área da formação inicial. O curso de "Licenciatura Plena em Pedagogia", por outro lado, constitui formação inicial voltada à ciência da Educação e ao preparo integral e pleno da docência fundamental, nela incluída o ensino especial.
+20. A "formação pedagógica em pedagogia" não confere o título de pedagogo e nem equivale, em termos acadêmicos e profissionais, ao curso de Licenciatura Plena em Pedagogia, diferenciando-se em conteúdo, carga horária e abrangência. Objetiva-se, com a "formação pedagógica em pedagogia", suprir a ausência de licenciatura dos graduados que, não obstante formados em outras áreas do conhecimento, almejam atuar como docentes desses conteúdos em que obtiveram formação superior.
+ ..
+23. Como já estabelecido, os cursos de "formação pedagógica em pedagogia" devem estar associados à área de conhecimento do graduado não licenciado porquanto constituem complementação acadêmica à formação inicial. Trata-se de uma conexão que, senão lógica, é consignada em ato regulamentar.
+ ..
+26. Dessa forma, malgrado os esforços argumentativos, a recorrente não apresentou formação compatível com as exigências editalícias para o cargo de "2º Professor da Educação Especial - Anos Iniciais". (fls. ).
+Por tudo isso, não se vislumbra, no acórdão contestado, nenhum erro de aplicação do direito, a justificar a sua reforma.
+ANTE O EXPOSTO, em harmonia com o parecer ministerial e com fundamento no art. 34, XVII, "b" do RISTJ, nego provimento ao presente recurso ordinário, mantendo íntegro, e pela sua própria fu ndamentação, o acórdão recorrido.
+Publique-se.
+EMENTA
