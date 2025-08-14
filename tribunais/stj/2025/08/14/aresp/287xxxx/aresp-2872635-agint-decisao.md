@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto pela UNIÃO contra decisão do Ministro Presidente do STJ, proferida às e-STJ fls. 529/530, em que não conheceu do agravo em virtude da ausência de impugnação ao fundamento da decisão que inadmitiu o recurso especial.
+Rejeitados os aclaratórios (e-STJ fls. 547/549).
+Aduz a parte agravante a existência de recurso afetado à sistemática dos recursos repetitivos a impor a necessidade de aplicação da tese a ser firmada ao caso dos autos, razão pela qual superáveis eventuais óbices aplicáveis em detrimento da primazia da decisão de mérito.
+Requer, assim, a reconsideração ou a reforma da decisão atacada.
+Passo a decidir.
+Em sessão realizada em 7/3/2024, a Segunda Seção acolheu questão de ordem, proposta pelo Ministro Relator no REsp 1.774.204/RS, para afetar à Corte Especial o julgamento da seguinte controvérsia submetida à sistemática dos recursos repetitivos: "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas".
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 5/2/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, estas decisões monocráticas: REsp 1.588.019/GO, rel. Min. Regina Helena Costa, DJe 17/3/2016; REsp 1.502.464/RS, AREsp 848.627/PB, REsp 1.574.944/PB e AREsp 779.676/PB, todos da relatoria do em. Ministro Benedito Gonçalves, DJe 2/12/2015, 8/3/2016, 04/03/2016 e 3/2/2016, respectivamente.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior analisar as questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 529/530 e DETERMINO A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
