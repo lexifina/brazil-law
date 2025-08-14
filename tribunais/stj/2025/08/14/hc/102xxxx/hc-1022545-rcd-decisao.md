@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Pedido de Reconsideração - STJ, fls. 631/669 - referente à decisão monocrática de minha lavra, em que não conheci da ordem postulada, não concedendo à executada o pedido de prisão domiciliar - STJ, fls. 620/626.
+Neste requerimento, a defesa alega que a apenada já foi Presa e transferida para a Penitenciária de Pirajuí de SP.
+Requer, então, a reconsideração da decisão anterior.
+É o relatório. Decido.
+Prisão domiciliar em razão da condição de mãe de menor de 12 anos
+O pedido merece prosperar.
+Sobre o tema, no âmbito da execução penal, estabelece o inciso III do art. 117 da LEP:
+Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de:
+I - condenado maior de 70 (setenta) anos;
+II - condenado acometido de doença grave;
+III - condenada com filho menor ou deficiente físico ou mental;
+IV - condenada gestante.
+No acórdão coator, verifico que o Tribunal se ateve mais na necessidade de ser comprovado o cuidado imprescindível da mãe.
+No entanto, o entendimento desta Corte é que, independente do regime do qual a executada se encontre, sendo o crime em questão não revelador de violência ou grave ameaça, não tendo sido praticado contra crianças nem contra seus descendentes, não havendo indicativo de esteja associada com organizações criminosa e inexistindo registro de faltas disciplinares recentes no curso da execução da pena, pode-se atenuar a sua situação prisional, considerando que a necessidade dos cuidados maternos em relação à criança é presumida.
+Nessa linha, colaciono os seguintes julgados:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO DOMICILIAR. MÃE DE MENOR DE 12 ANOS. RECURSO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu, de ofício, prisão domiciliar a reeducanda condenada por tráfico de entorpecentes ao cumprimento de pena em regime semiaberto, mãe de criança menor de 12 anos.
+II. Questão em discussão2. A questão em discussão consiste em saber se é possível a concessão de prisão domiciliar a mãe de menor de 12 anos, condenada em regime semiaberto, sem a demonstração de excepcionalidade que impeça o benefício.
+III. Razões de decidir3. A jurisprudência do STJ admite a concessão de prisão domiciliar a mães de crianças menores de 12 anos, mesmo em regime semiaberto, sem necessidade de comprovação da imprescindibilidade dos cuidados maternos, desde que não haja situação excepcional que contraindique a medida.
+4. No caso concreto, não foi demonstrada situação excepcional que impeça a concessão do benefício, e o delito não envolveu violência ou grave ameaça.
+IV. Dispositivo e tese5. Agravo regimental desprovido.
+Tese de julgamento: "1. É possível a concessão de prisão domiciliar a mães de crianças menores de 12 anos, condenadas em regime semiaberto, sem necessidade de comprovação da imprescindibilidade dos cuidados maternos, desde que não haja situação excepcional que contraindique a medida."
+Dispositivos relevantes citados: LEP, art. 117; CPP, art. 318.
+Jurisprudência relevante citada: STJ, RHC n. 145.931/MG, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 9/3/2022; STJ, AgRg no HC n. 731.648/SC, Relator para acórdão Min. João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022; STJ, AgRg no HC n. 893.304/PR, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 17/6/2024; STJ, AgRg no RHC n. 185.640/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023; STJ, AgRg no HC n. 750.862/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 24/4/2023;
+STJ, AgRg no HC n. 769.008/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022.
+(AgRg no AgRg no HC n. 949.232/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. PRISÃO DOMICILIAR CASSADA PELO TJRS. FUNDAMENTAÇÃO INIDÔNEA. PRESUNÇÃO LEGAL DE IMPRESCINDIBILIDADE AOS CUIDADOS DOS FILHOS MENORES DE 12 ANOS. RESTABELECIMENTO DA PRISÃO DOMICILIAR PRORROGADA PELO JUIZ DA EXECUÇÃO CRIMINAL. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que cassou a concessão de prisão domiciliar à apenada, mãe de três filhos menores de 12 anos, que cumpre pena de 9 anos e 9 meses de reclusão em regime fechado, pelos crimes de tráfico de drogas, posse ilegal de arma de fogo de uso restrito e receptação. O Tribunal de origem, ao reformar a decisão do Juízo da execução, entendeu não estar comprovada a imprescindibilidade da apenada para os cuidados dos filhos, dado que o menor esteve acolhido institucionalmente e atualmente vive sob os cuidados da avó paterna. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a concessão de prisão domiciliar à apenada, mãe de filhos menores de 12 anos, é cabível mesmo sem a comprovação da imprescindibilidade material de seus cuidados; (ii) estabelecer se as circunstâncias fáticas apresentadas pela apenada justificam a manutenção da prisão domiciliar. III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a condição de mãe de filhos menores de 12 anos enseja presunção legal de imprescindibilidade para os cuidados dos filhos, conforme o art. 117 da Lei de Execução Penal (LEP), sendo desnecessária a comprovação material dessa imprescindibilidade.
+4. A jurisprudência admite a concessão de prisão domiciliar a mães condenadas a regime fechado ou semiaberto, desde que não tenham cometido crimes com violência ou grave ameaça contra os seus descendentes, e não se verifique situação excepcional que contraindique o benefício.
+5. No caso, a apenada não foi condenada por crimes praticados com violência ou grave ameaça, e a ausência de provas de risco concreto à segurança dos menores, ou de circunstância excepcional que desaconselhe a medida, reforça a aplicabilidade da prisão domiciliar.
+6. A circunstância de os menores estarem sob cuidados da avó paterna não afasta a presunção legal de imprescindibilidade, visto que a apenada reside no mesmo domicílio, podendo assim exercer seu papel na criação e educação dos filhos.
+IV. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.724.914/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 16/12/2024.)
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. REGIME FECHADO. EXECUÇÃO PENAL. CONDENAÇÃO TRANSITADA EM JULGADO. PRISÃO DOMICILIAR. CRIANÇA MENOR DE 12 ANOS. PEDIDO DE PRISÃO DOMICILIAR FORMULADO ANTES DO RECOLHIMENTO À PRISÃO. CIRCUNSTÂNCIA EXCEPCIONAL. CONCESSÃO DE GUIA DE EXECUÇÃO SEM O RECOLHIMENTO PRÉVIO. ORDEM CONCEDIDA. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenada definitivamente à pena de 7 anos de reclusão, em regime fechado, pelo crime de tráfico internacional de drogas, com pedido de cumprimento da pena em prisão domiciliar por ser mãe de criança menor de 12 anos. Alega-se que a exigência de recolhimento prévio à prisão para pleitear o benefício resultaria em abandono da criança, o que seria desproporcional. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se é possível a concessão de prisão domiciliar antes do cumprimento do mandado de prisão em regime fechado, tendo em vista as peculiaridades do caso e a condição da paciente como mãe de criança menor de 12 anos; (ii) determinar se a exigência de recolhimento à prisão é uma condição desproporcional que inviabiliza o acesso ao Poder Judiciário para pleitear benefícios da execução penal. III. RAZÕES DE DECIDIR
+3. O início da execução penal em regime fechado demanda o cumprimento do mandado de prisão. Contudo, em circunstâncias excepcionais, a exigência de recolhimento prévio pode se mostrar desproporcional e injustificadamente gravosa, impedindo o exercício do direito de petição da paciente.
+4. A jurisprudência do STJ admite, em casos excepcionais, que o recolhimento ao cárcere não seja exigido como condição para a formulação de pedidos de execução penal, especialmente quando há vulnerabilidade familiar, como ser mãe de criança menor de 12 anos, com a necessidade presumida de cuidados (AgRg no HC 731.648/SC).
+5. O STF e o STJ reconhecem a possibilidade de concessão de prisão domiciliar a condenados em regime fechado ou semiaberto por razões humanitárias, desde que atendidos requisitos como ausência de violência ou grave ameaça no delito praticado e não se tratar de crime cometido contra o filho da paciente.
+6. No caso, não há elementos que contraindiquem a medida, sendo adequado permitir que a paciente possa formular seu pedido de prisão domiciliar diretamente ao juízo das execuções, sem que o recolhimento prévio à prisão seja condição impeditiva, respeitando-se o princípio da proporcionalidade e a proteção à dignidade da pessoa humana.
+IV. HABEAS CORPUS CONCEDIDO.
+(HC n. 850.020/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJEN de 4/12/2024.)
+No caso, de acordo com a certidão de nascimento colacionada aos autos (e-STJ fl. 13), há a comprovação de que a executada é realmente mãe de uma menor de 2 anos de idade, Manuela
+Conforme ficha do réu, de 7/1/2025 (e-STJ, fl. 38), o crime cometido foi de associação criminosa, de modo que não se trata de organização criminosa, não foi praticado com violência ou grave ameaça nem contra sua filha. E como iniciou o cumprimento da reprimenda em 8/8/2025 (andamento disposto no site do Tribunal de origem, processo de execução de primeira instância), não constam ainda faltas disciplinares em seu desfavor, nem mesmo há boletim informativo
+Demonstrado, portanto, o pressuposto autorizador da prisão domiciliar, elencado no art. 117, III, da LEP, vislumbra-se a possibilidade de atuação deste Superior Tribunal de Justiça.
+Ante o exposto, reconsidero minha decisão anterior, para não conhecer do habeas corpus, mas conceder a ordem de ofício, para substituir o encarceramento da ora paciente em estabelecimento prisional pela prisão domiciliar, com monitoramento eletrônico, ficando ressalvado que a prática de eventual falta grave ensejará a revogação do benefício.
+Comunique-se, com urgência, esta decisão, ao Juízo executório de origem e ao Tribunal impetrado.
+Intimem-se.
+EMENTA
