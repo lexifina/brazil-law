@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GOCIL SERVICOS GERAIS LTDA. EM RECUPERACAO JUDICIAL contra decisão monocrática de relatoria do Ministro Herman Benjamin, proferida durante o plantão judiciário, que indeferiu o pedido de liminar (fls. 131-132).
+A parte embargante alega que (fls. 145-146):
+2. Ocorre que a r. decisão embargada incorreu em evidente omissão, no tocante aos requisitos autorizadores da concessão da tutela da urgência requerida.
+3. A priori, a r. decisão deixou de considerar que o crédito perseguido na reclamação trabalhista, ainda que não conste inscrito na relação de credores, foi constituído em data anterior ao pedido de Recuperação Judicial, devendo assim se submeter aos seus efeitos e obrigatoriamente ser adimplido nos termos do Plano de Recuperação Judicial homologado, conforme estabelecem os arts. 49 e 59 da Lei 11.101/2005.
+4. Inclusive, tal entendimento contraria o posicionamento deste próprio Egrégio Tribunal, que, ao julgar os Embargos de Declaração no Recurso Especial nº 1.851.692/RS, consignou expressamente que: "apesar de o credor que não foi citado na relação inicial de que trata o art. 51, III e IX, da Lei 11.101/05 não ser obrigado a se habilitar, pois o direito de crédito é disponível, não terá ele o direito de receber seu crédito pelo valor integral, devendo se submeter às condições estabelecidas no plano de recuperação aprovado.". Dessa forma, a ausência de inscrição de um crédito sujeito à recuperação judicial na relação de credores não altera sua natureza concursal, tampouco afasta a obrigatoriedade legal de que seu pagamento observe rigorosamente os termos do Plano de Recuperação Judicial aprovado.
+5. Nesse sentido, tem-se que restou caracterizado o fumus boni iuris para a concessão da tutela pretendida e afastada a alegação de que se trata de crédito "não integrante do plano".
+6. Ademais, este nobre relator restou omisso ao evidente periculum in mora, o qual ocorreu diante da determinação do Juízo Trabalhista de pesquisa de ativos via SISBAJUD em nome da ora Embargante. Isto porque, a partir do momento que há a determinação de bloqueio, existe o risco iminente de bloqueio de valores em contas da ora Embargante - Empresa em Recuperação Judicial, para quitação de crédito concursal, o que não se permite.
+7. Por fim, não houve pronunciamento expresso na r. decisão embargada acerca da competência do Juízo da Recuperação Judicial para deliberar sobre o patrimônio das Recuperandas, mesmo após o término do stay period, de modo que, é certo que o Juízo Trabalhista não pode extrapolar sua competência para determinar o pagamento de créditos sujeitos à recuperação de maneira diversa, como ocorreu in casu.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não se verifica nenhuma obscuridade, omissão ou contradição na decisão embargada que, de maneira clara e fundamentada, consignou (fl. 131):
+Em relação à probabilidade do direito, a suscitante não demonstrou documentalmente que o crédito perseguido na Reclamatória Trabalhista (em fase executiva) integrou o Plano de Recuperação Judicial. Ademais, ao que se verifica, o juízo trabalhista não determinou medidas que atinjam a esfera patrimonial durante a vigência do stay period, mas firmou o pressuposto de que tal período foi ultrapassado e, por essa razão, os Embargos do Devedor foram extintos.
+Quanto ao periculum in mora, a decisão acima apenas indica que será feita a pesquisa de bens, de cujo resultado dependem oportunas deliberações no juízo trabalhista. Não consta, como se vê, ordem para imediato bloqueio de bens.
+Diante do exposto, por ausência de demonstração de perecimento de direito no período de duração do plantão judicial, indefiro o pedido de liminar.
+Nos termos do disposto no art. 300, caput, do Código de Processo Civil, "A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo". Nesse contexto, a ausência de demonstração de qualquer dos requisitos dá ensejo ao indeferimento da medida liminar.
+A propósito, cito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ORDEM DE ANTIGUIDADE DE DESEMBARGADORES DO TRF6. LIMINAR NEGADA. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DOS REQUISITOS DO PERICULUM IN MORA E DO FUMUS BONI IURIS.
+I - Não havendo demonstração da presença dos requisitos do periculum in mora e do fumus boni iuris, o indeferimento da liminar é medida que se impõe.
+II - Agravo interno a que se nega provimento.
+(AgInt no MS n. 29.129/DF, relator Ministro Francisco Falcão, Corte Especial, julgado em 29/11/2023, DJe de 4/12/2023.)
+Da análise dos autos, observa-se que não estão preenchidos cumulativamente os requisitos para a concessão da medida liminar postulada, uma vez que a parte suscitante não demonstrou a probabilidade do direito nem o perigo da demora.
+A propósito, destaquem-se as informações prestadas pelo Juízo trabalhista, às fls. 137-142, no sentido de que as pesquisas patrimoniais restaram infrutíferas, não havendo, portanto, qualquer constrição ao patrimônio da recuperanda.
+Observa-se, portanto, que a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa. Assim, é de rigor a manutenção da decisão embargada.
+Ante o exposto, rejeito os embargos de declaração.
+Após as anotações de praxe, remetam-se os autos ao Ministério Público Federal para apresentar parecer sobre o conflito de competência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO EMBARGADO. AUSÊNCIA DOS PRESSUPOSTOS AUTORIZADORES PARA A CONCESSÃO DA LIMINAR. MANUTENÇÃO DO INDEFERIMENTO DA MEDIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
