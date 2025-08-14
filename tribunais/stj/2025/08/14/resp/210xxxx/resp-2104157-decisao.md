@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por M. O. AGROPECUARIA E PARTICIPACOES LTDA., com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (e-STJ fl. 569):
+APELAÇÃO CÍV EL. AÇÃO ANULATÓRIA. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA PARTE RÉ. ALEGAÇÃO DE POSSIBILIDADE DE EXERCÍCIO DO PODER DE POLÍCIA POR SOCIEDADE DE ECONOMIA MISTA INTEGRANTE DA ADMINISTRAÇÃO INDIRETA. VIABILIDADE. ENTENDIMENTO DO STF. PUGNA PELO RECONHECIMENTO DA VALIDADE DA NOTIFICAÇÃO DE PROPRIETÁRIO DE IMÓVEL POR MEIO DE EDITAL. INVIABILIDADE. NECESSIDADE DE CITAÇÃO PESSOAL ESPECÍFICA. SENTENÇA MANTIDA NO QUE DIZ RESPEITO À NULIDADE DO AUTO DE INFRAÇÃO EM RAZÃO DA INEXISTÊNCIA DE NOTIFICAÇÃO PESSOAL. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS EM SEDE RECURSAL. INCABÍVEL EM RAZÃO DO PARCIAL PROVIMENTO DA APELAÇÃO. CONHECIMENTO E PARCIAL PROVIMENTO DO RECURSO.
+Embargos de declaração rejeitados (e-STJ fls. 660/664).
+Em suas razões, a parte recorrente aponta violação dos arts. 85 e 86, parágrafo único, do Código de Processo Civil, porque a fixação de honorários leva em consideração o pedido e não a causa de pedir e ainda que afastada uma das causas de pedir, foi mantida a pretensão autoral de nulidade do auto de infração com base na outra argumentação apontada pela autora.
+Defende, também, a existência de ofensa aos arts. 489, § 1º, IV, c/c o art. 1.022, II, do CPC, porque não sanou erro material e omissão identificados.
+Contrarrazões às e-STJ fls. 682/686.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 687/688.
+Passo a decidir.
+Em relação à alegada ofensa dos arts. 489, § 1º, IV e 1.022, II, do CPC, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. Nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.416.310/SP, Relator Ministro Humberto Martins, Segunda Turma, julgado em 28/11/2022, DJe de 30/11/2022.).
+No caso, a recorrente opôs embargos de declaração alegando erro material, porque deveria constar que o recurso de apelação não foi provido (sem apontar argumentos para sustentar essa alegação) e omissão, pois, "diante do DESPROVIMENTO TOTAL do recurso de apelação da Embargada, a embargante não pode ser condenada em 30% do ônus de sucumbência, como equivocadamente constou no v. acórdão de mov. 59" (e-STJ fls. 649/650), requerendo que (e-STJ fl. 650):
+a) corrigir o erro material da decisão de mov. 67, para que se determine que o v. acórdão de mov. 59 seja CORRIGIDO para constar que o recurso de apelação foi DESPROVIDO INTEGRALMENTE.
+b) Que supra a omissão em relação ao ônus de sucumbência, de modo a esclarecer e indicar expressamente que, uma vez que o recurso de apelação da Embargada CMTU foi DESPROVIDO INTEGRALMENTE, o ônus de sucumbência, inclusive honorários advocatícios, é 100% da Embargada (CMTU).
+O Tribunal de origem, no aresto integrativo, assentou que no julgamento do recurso de apelação houve parcial reforma da sentença, sendo é necessária a readequação do ônus de sucumbência (e-STJ fl. 662/663).
+Assim, nota-se que não houve vício de integração em relação ao que foi trazido em sede de embargos de declaração.
+Quanto ao mais, verifica-se que a questão não foi apreciada com o enfoque sustentado pela parte, isto é, de que a fixação de honorários deve considerar o pedido e não as causas de pedir, tampouco a questão foi efetivamente apontada nos aclaratórios opostos. Assim, no ponto, o apelo nobre carece do devido prequestionamento, a atrair o óbice da Súmula 282 do STF.
+Nesse sentido: AgInt no REsp 2.078.678/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/6/2025, DJEN de 24/6/2025; e REsp 2.201.358/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/6/2025, DJEN de 24/6/2025.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
