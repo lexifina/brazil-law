@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 403):
+CUMPRIMENTO DE SENTENÇA - EXTINÇÃO - DEVEDORA QUE SE ENCONTRA EM RECUPERAÇÃO JUDICIAL - ADMISSIBILIDADE - CRÉDITO SURGIDO PREVIAMENTE À RECUPERAÇÃO JUDICIAL, ESTANDO A ELA SUJEITO - HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL QUE ENSEJA A NOVAÇÃO DO CRÉDITO, CONFORME ARTIGO 59, "CAPUT", DA LEI Nº 11.101/05 - DELIBERAÇÃO JUDICIAL QUE CONCEDE A RECUPERAÇÃO QUE CONSTITUI, EM SI, TÍTULO EXECUTIVO JUDICIAL (ARTIGO 59, § 1º, DA LEI DE RECUPERAÇÃO E FALÊNCIAS) - IMPOSSIBILIDADE DE PROSSEGUIMENTO DA DEMANDA EXECUTIVA - SATISFAÇÃO DO DÉBITO QUE DEVERÁ OBSERVAR AS CONDIÇÕES ESTABELECIDAS NO PLANO HOMOLOGADO - EVENTUAL INADIMPLEMENTO QUE ENSEJA, ADEMAIS, A EXECUÇÃO ESPECÍFICA DA OBRIGAÇÃO NOVADA E INSERTA NO NOVO TÍTULO JUDICIAL OU A FALÊNCIA DA DEVEDORA, HIPÓTESE NA QUAL O CRÉDITO DEVERÁ SER HABILITADO NO JUÍZO UNIVERSAL DA QUEBRA - INADMISSIBILIDADE, ADEMAIS, DE LEVANTAMENTO, PELOS EXEQUENTES, DA QUANTIA DE R$ 66.123,58 JÁ DEPOSITADA NOS AUTOS DO CUMPRIMENTO DE SENTENÇA - CASO EM QUE O CRÉDITO DOS EXEQUENTES INTEGRA O PLANO DE RECUPERAÇÃO JUDICIAL, NO VALOR DE R$ 69.803,04 - ACERTO DA SENTENÇA RECORRIDA AO DETERMINAR A REMESSA DESSE MONTANTE AO JUÍZO DA RECUPERAÇÃO, PARA DELIBERAR ACERCA DA DESTINAÇÃO DESSE MONTANTE - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 433-439).
+Em suas razões (fls. 443-460), a parte recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 6º, § 1º, da LINDB, "pois o acórdão ignorou o ato jurídico perfeito e eficaz ocorrido antes da recuperação judicial da Recorrida, isto é, o depósito espontâneo feito por ela em 2016" (fl. 447); e
+(ii) arts. 334 do CC e 49 da Lei n. 11.101/2005, tendo em vista que, "ao submeter o crédito integral dos Recorrentes à recuperação judicial da devedora, o v. acórdão negou vigência ao artigo 334 do Código Civil, pois desconstituiu o pagamento validamente feito pela Recorrida antes do deferimento de sua recuperação judicial:  .. . Não obstante, se o crédito dos Recorrentes foi extinto (ainda que parcialmente) antes da recuperação judicial, não há que se falar em sua sujeição ao juízo recuperatório. Agindo de modo diverso, o v. acórdão violou o texto do artigo 49 da LFRE, pelo qual estão sujeitos à recuperação somente os créditos existentes na data do pedido" (fl. 455).
+Contrarrazões não apresentadas (fl. 492).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No que diz respeito à alegada violação ao ato jurídico perfeito e à ocorrência de extinção da obrigação com o depósito judicial, bem como afronta aos arts. 6º, § 1º, da LINDB, 334 do CC e 49 da Lei n. 11.101/2005, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ante o exposto, NÃO CONHEÇO d o recurso.
+Publique-se e intimem-se.
+ EMENTA
