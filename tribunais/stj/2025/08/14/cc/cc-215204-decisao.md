@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado por Alcides Soares de Oliveira e outros 49 requerentes, apontando a divergência entre o 3º Juizado Especial da Fazenda Pública de São Paulo (TJSP) e o Juizado Especial da 13ª Vara Federal de São Paulo - SJ/SP a respeito do julgamento de demanda ajuizada contra a Fundação Getúlio Vargas (FGV) visando discutir a validade de questões de concurso público.
+Segundo a inicial, houve a propositura de uma primeira ação perante o 3º Juizado Especial da Fazenda Pública de São Paulo (TJSP), sendo que tal Juízo vinha reconhecendo sua jurisdição para apreciar demandas similares com o mesmo objeto. No entanto, o Juízo estadual pronunciou sua incompetência por entender que o feito envolveria interesse da União, proferindo sentença terminativa, conforme fls. 80-81.
+Nova ação foi distribuída, desta feita, perante o Juízo federal, "que também se declarou incompetente, desta vez sob o fundamento de que os autores não residem na jurisdição" (fls. 61), encerrando o feito mediante sentença sem julgamento de mérito.
+Diante desse contexto, os suscitantes argumentam que foram "tolhidos por decisões contraditórias e excludentes: o juízo estadual declarou-se absolutamente incompetente e o juízo federal extinguiu o feito por critério territorial, sem sequer remeter os autos a outro juízo competente  contrariando, inclusive, o art. 64, §3º, do CPC". Seguem dizendo que tal "impasse criou um vácuo jurisdicional, impedindo o exame do mérito e violando o direito fundamental de acesso à justiça" (fls. 62).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Sobre a caracterização do conflito de competência, o CPC assim dispõe:
+Art. 66. Há conflito de competência quando:
+I - 2 (dois) ou mais juízes se declaram competentes;
+II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+A situação trazida pelos suscitantes não representa qualquer uma das hipóteses contempladas nos três incisos acima transcritos.
+A decisão do Juízo estadual limita-se a afirmar a competência da Justiça Federal, mencionado o interesse da União na matéria debatida.
+O Juízo federal paulista, por sua vez, não negou a jurisdição nos termos do art. 109, I da CF, mas recusou sua atribuição para apreciar o caso em função de todos os requerentes residirem em outro Estado (Minas Gerais).
+Ao proferir sentença terminativa, o fez com respaldo no art. 51, III da Lei 9.099/95, regra especial que dispensa a remessa dos autos prevista nos arts. 66 parágrafo único e 64 § 3ºdo CPC . Logo, o Juízo federal indicado pelos suscitantes não reconheceu a competência da Justiça estadual de São Paulo, tampouco disse que a demanda não representaria interesse da União, restringindo-se a avaliar a divisão territorial no âmbito da própria Justiça Federal.
+Em rigor, as duas decisões trazidas neste incidente são compatíveis, pois fixam planos distintos de valoração da própria jurisdição de cada juízo, sem que eles atribuam "um ao outro" a competência para julgamento da pretensão, como exige o CPC para a configuração do conflito. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. INSTAURAÇÃO DE IRDR. TURMA RECURSAL E TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ. AUSÊNCIA DE DECISÕES CONFLITANTES. INEXISTÊNCIA DE CONFLITO.
+1. Nos termos do art. 66 do CPC/2015, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda, atribuindo um ao outro a competência, ou, ainda, controvertem sobre a reunião ou separação de processos.
+2. Não merece conhecimento o conflito de competência quando ausente decisões conflitantes.
+3. Agravo interno desprovido.
+(AgInt no CC n. 194.497/PR, relator Ministro João Otávio de Noronha, Segunda Seção, DJe de 6/5/2024.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. DESCONTOS INDEVIDOS. PSS. AUSÊNCIA DE MANIFESTAÇÃO CONFLITUOSA DE INCOMPETÊNCIA. SENTENÇA D EPRIMEIRO GRAU DEMONSTRANDO A INADEQUAÇÃO DA VIA ELEITA. IMPOSSIBILIDADE DO CONFLITO DE COMPETÊNCIA COMO SUCEDÂNEO RECURSAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de conflito negativo de competência procedido pelo juízo da 7ª Vara Federal da SJRN e pelo juízo do Juizado Especial Cível Adjunto à 6ª Vara Federal da SJDF, em ação ordinária perante a Seção Judiciária do Rio Grande do Norte, visando a restituição de valores que lhe foram indevidamente cobrados pelo poder público a título de Plano de Seguridade Social - PSS em precatório. Nesta Corte, o conflito não foi conhecido. O valor da causa foi fixado em R$ 1.000,00 (mil reais).
+II - Nos termos do artigo 66 do CPC/2015, o conflito de competência caracteriza-se pela manifestação de duas ou mais autoridades judiciárias, de esferas diferentes, que se declaram competentes ou incompetentes para apreciar o mesmo feito, ou, ainda, a existência de controvérsia entre eles acerca da reunião ou da separação de processos.
+III - Ocorre que, no caso, não se constata nos autos manifestação de dois ou mais juízes, no mesmo feito, se considerando incompetentes e atribuindo um ao outro a competência para processar e julgar o mesmo feito, requisito básico para a configuração do conflito de competência.
+IV - Na hipótese, foram ajuizadas duas ações distintas, uma perante a Seção Judiciária do Rio Grande do Norte e outra perante a Seção Judiciária do Distrito Federal. Na primeira ação, extinta sem resolução de mérito, a sentença prolatada em 3/9/2024 considerou tratar-se de inadequação da via eleita, registrando que a causa "encontra-se desprovida do requisito da utilidade e adequação" e que "em casos como tais, ausente uma das condições da ação, não há como se dar prosseguimento ao processo" (fl. 18).
+V - No mesmo sentido, as decisões monocráticas nos seguintes processos: CC n. 203.794, Ministro Sérgio Kukina, DJe de 10/04/2024;
+CC n. 209.236, Ministro Benedito Gonçalves, DJe de 05/11/2024.
+VI - Ademais, a jurisprudência desta Corte orienta-se no sentido de ser incabível o conflito de competência como sucedâneo recursal na hipótese em que o juízo extingue a ação sem resolução de mérito, devendo a sentença ser desafiada por meio de recurso próprio.
+VII - Agravo interno improvido.
+(AgInt no CC n. 209.833/RN, relator Ministro Francisco Falcão, Primeira Seção, DJEN de 23/5/2025.)
+ANTE O EXPOSTO, nos termos do art. 34, XXII do RISTJ, não conheço do conflito de competência. Publique-se. Preclusa esta decisão, dê-se baixa e arquivem-se os autos.
+EMENTA
