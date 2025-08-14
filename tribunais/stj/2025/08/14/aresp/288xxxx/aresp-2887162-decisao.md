@@ -1,0 +1,104 @@
+DECISÃO
+Cuida-se de agravo de GILDAN COSTA FERREIRA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. (417) - 0001785-48.2020.8.14.0028.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, da Lei 11.343/2006, à pena de 8 anos e 4 meses de reclusão, e 834 dias-multa; e art. 333 do CP, à pena de 2 anos e 4 meses de reclusão, em regime inicial fechado (fls. 71/87).
+Recurso de apelação interposto pela defesa foi parcialmente provido para redefinir a pena-base. O acórdão ficou assim ementado:
+"APELAÇÃO PENAL. ART. 33, DA LEI 11.343/2006 E ART. 333, DO CÓDIGO PENAL BRASILEIRO. SENTENÇA CONDENATÓRIA. PRETENDIDA NULIDADE DO FEITO POR ALEGADA EXISTÊNCIA DE PROVA ILÍCITA. VIOLAÇÃO DE DOMICÍLIO SEM AUTORIZAÇÃO JUDICAL. ALEGAÇÃO INFUNDADA. Provada a materialidade delitiva nos autos, diligência policial efetuada de forma lícita, tendo em vista a existência de situação de flagrância dos apelantes. MÉRITO: REQUERIDA ABSOLVIÇÃO, POR ALEGADA INEXISTÊNCIA DE PROVAS QUANTO A AUTORIA DO CRIME DESCRITO NO ART. 333 DO CPB. PRETENSÃO INFUNDADA. Provado nos autos, por tudo que consta no processo, a autoria delitiva atribuída ao recorrente, sendo a palavra dos policiais que procederam a prisão do denunciado meio de prova idôneo para fundamentar uma decisão condenatória. Precedente do STJ citado. REQUERIDA RENÁLISE DA PENA BASE, BEM COMO DO RESTANTE DA DOSIMETRIA PENAL, PARA QUE A PENA FOSSE DOSADA EM SEU MÍNIMO PERMITIDO. TESE PARCIALMENTE PROCEDENTE. Pena base redefinida para importe menor, mas acima de seu mínimo legal. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME." (fl. 260)
+Em sede de recurso especial (fls. 273/281), a defesa apontou violação ao art. 240, §2º, do CPP porque a busca pessoal foi realizada sem fundada suspeita, tornando os elementos informativos nulos.
+Em seguida, a defesa apontou violação ao art. 59 do CP, porque a pequena quantidade de droga não justifica aumento da pena.
+Requer a absolvição do réu por falta de provas independentes, nos termos do art. 386, inc. VII, do CPP e, subsidiariamente, a readequação da pena-base ao mínimo legal.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ (fls. 283/287).
+O recurso especial foi inadmitido no TJ em razão de óbice da Súmula n. 83 do Superior Tribunal de Justiça (fls. 288/296).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 299/305).
+Contraminuta do Ministério Público (fls. 307/311).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não provimento do agravo em recurso especial. (fls. 339/345).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Primeiramente verifico que a impugnação feita em Recurso Especial pelo recorrente se refere a busca pessoal, em violação ao art. 240, §2º, do CPP.
+No entanto, no acórdão recorrido, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ apenas tratou da questão da busca domiciliar (art. 240, §1º, do CPP):
+"Em preliminar arguida requer a defesa a nulidade do processo, em virtude de entender que as provas foram obtidas por meio ilícito, com violação de domicílio e por meio de denúncia anônima. Esta tese levantada não merece prosperar, já que quanto a alegada violação de domicílio, percebe-se que o réu foi preso em situação de flagrância e o crime de tráfico de drogas é um crime de consumação permanente, configurando-se a situação de flagrante enquanto a substância estiver em poder do agente, além do que a própria confissão do denunciado no autos, no que tange ao crime de tráfico de drogas, corroborada por outros elementos de prova, legitima as diligências realizadas, já tendo esta Corte de Justiça decidido desta forma anteriormente.  ..  Desta forma, rejeito esta preliminar sustentada." (fls. 262/263).
+Da mesma forma, a sentença de primeiro grau limitou sua análise à busca domiciliar:
+"2. 1. Preliminar de nulidade da prova colhida mediante ofensa à inviolabilidade do domicilio (RE 603616 RO):
+Segundo a Defensoria Pública do Estado, houve violação à garantia de inviolabilidade do domicílio do acusado, uma vez que a Polícia Militar do Estado do Pará teria adentrado na residência do acusado sem que houvesse o respectivo fundamento jurídico para tanto. Respeitado o entendimento do respeitado Defensor Público sem adentrar no mérito propriamente dito, observo que o relato de que os agentes adentraram na residência do réu constitui fato narrado apenas no interrogatório do réu e no teor do relatado pela informante ANNA CLARA, sua namorada a época dos fatos. Em juízo, todos os agentes públicos depuseram ter abordado o réu na rua na posse de uma mochila, sem que houvesse qualquer incursão no imóvel do acusado. A tese de que os policiais adentraram na residência do réu foi enfaticamente negada pelos depoentes, pessoas ate então idôneas e sem qualquer comprovação de que teriam intenção em prejudicar o acusado. Não há como, portanto, acolher a tese de que ocorreram fatos que não foram comprovados pela defesa, situação que atrai a idoneidade do depoimento dos agentes públicos. Não se trata aqui de negar as colocações do acusado e de uma informante, mas de cotejar as provas colhidas para concluir não ser crível a ocorrência da invasão alegada, que somente veio aos autos por ocasião da oitiva de pessoa que tinha relacionamento conjugal com o acusado em contraposição com as colocações firmes e conformes de agentes públicos. Assim, rejeito a preliminar deduzida. " (fl. 72).
+Portanto, verifica-se que o acórdão impugnado em momento algum enfrentou a questão da alegada nulidade da busca pessoal, mas apenas e tão somente a suposta violação de domicílio. Até porque, em recurso de apelação, o recorrente impugnou apenas a inviolabilidade de domicílio, como se verifica do item 3 do recurso de apelação: "3 - PRELIMINARMENTE OFENSA À INVIOLABILIDADE DE DOMICÍLIO - AUSÊNCIA DE FUNDADAS RAZÕES PARA O INGRESSO FORÇADO - TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA - STF: RE 603.616-RG/RO - HC 108.147- ARE 1.112.656" (fl. 90). Portanto, a Corte Regional não apreciou a alegada violação ao art. 240, §2º, do CPP, mas limitou sua análise ao art. 240, §1º, do CPP. Sendo que nem mesmo embargos de declaração foram opostos para suscitar o prequestionamento do referido dispositivo.
+Portanto, com relação a este ponto, a questão ora suscitada pela defesa carece do adequado e indispensável prequestionamento. Incidentes, por analogia, as Súmulas n. 282 (" é  inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada") e 356 (" o  ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"), ambas do STF, tornando inviável, pois, o conhecimento do apelo nobre quanto ao ponto.
+Vejamos:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. LEGISLAÇÃO LOCAL. EXAME. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS RECURSAIS. MAJORAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes para a solução do litígio.
+2. Ainda que apontada suposta violação de dispositivo de lei federal, a argumentação do apelo nobre centra-se na necessidade de apreciação da legislação local, providência vedada nos termos da Súmula 280 do STF.
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+4. Nos termos do art. 85, § 11, do CPC/2015, o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+5. Hipótese em que a majoração dos honorários na origem para 12% sobre o valor da causa não se mostra desarrazoada.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo na espécie a Súmula 284 do STF.
+7. Ausente o cotejo analítico, não há o cumprimento dos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, §§ 1º e 2º, do RISTJ.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 1.902.013/AP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CONSÓRCIO. AÇÃO DE ANULAÇÃO CONTRATUAL COM DEVOLUÇÃO DE QUANTIA PAGA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. PRESUNÇÃO DE DANO EM GRUPO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Aplicação das Súmulas 282 e 356 do STF.
+3. Inexiste contradição em se reconhecer a inexistência de ofensa ao art. 1.022 do CPC/2015 e, ao mesmo tempo, assentar que o art. 416 do CC/2002 não está prequestionado, uma vez que os embargos de declaração na apelação nada suscitaram sobre essa norma.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.255.390/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CRÉDITO TRIBUTÁRIO PRESCRITO. INSCRIÇÃO EM DÍVIDA ATIVA. ALEGAÇÃO DE DANO MORAL PRESUMIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. ANÁLISE DO ACERVO PROBATÓRIO. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. Consta no decisum recorrido (fls. 183-184, e-STJ, grifei): "Em rigor, poderia até uma indevida inscrição em dívida ativa gerar episodicamente algum dano moral, mas esse dano deveria ser devidamente comprovado, uma vez não se trata de dano moral in re ipsa, como ocorre com a inscrição ou manutenção indevida em cadastro de devedores. Tal prova, porém, não fez a parte autora, limitando-se a alegar que a indevida inscrição em dívida ativa constitui por si só dano moral indenizável".
+2. Inicialmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Quanto à alegação de desrespeito aos arts. 186 e 927 do Código Civil, verifica-se que o dispositivo legal e a tese jurídica respectiva não foram objeto de juízo de valor pelo acórdão hostilizado. Perquirir, nesta via estreita, a ofensa das referidas normas, sem que se tenha explicitado a tese jurídica no juízo a quo, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282 do STF.
+4. Ademais, a Corte local afirmou que a parte recorrente não fez prova do prejuízo. Concluir de forma diferente ao acórdão de origem acarreta revolvimento do acervo fático-probatório, impossível em Recurso Especial, em razão do óbice da Súmula 7 do STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.107.835/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+Sobre a apontada violação ao art. 59 do CP, o Tribunal de origem manteve a pena-base destacando que:
+"2 - Da requerida reforma da pena base aplicada.
+De forma subsidiária, requer a redefinição da pena base, por entender incorreta a aplicação do art. 42 da Lei de Drogas, bem como incorreta aplicação dos índices de aumento de pena.
+Analisando a dosimetria exposta à ID 6676926, vejo que o magistrado sentenciante não averiguou nenhuma circunstância judicial, presente no art. 59 do CPB, em desfavor do denunciado, mas impôs como desfavorável e com preponderância sobre as referidas circunstâncias, a natureza e quantidade da droga apreendida com o réu, nos termos descrito no art. 42 da Lei de Drogas, procedendo assim de forma idônea, já que a natureza e quantidade de droga se mostrou realmente relevante.
+No entanto, o de definição da pena base não se mostrou o adequando (08quantum anos e 04 meses de reclusão), fugindo a proporcionalidade e razoabilidade do caso em questão, motivo este que entendo procedente, em parte, a irresignação do apelante, o que me faz redefinir a pena base para importe mais justo.
+Logo, pelos mesmos fatores expostos na sentença recorrida, redefino a pena base também acima de seu mínimo permitido, mas em importe menor, qual seja, 06 anos e 06 meses de reclusão, bem como ao pagamento de 660 dias multa." (fl. 264)
+O Juiz sentenciante, por sua vez, justificou o incremento da pena na primeira fase da dosimetria nos seguintes termos:
+"4. 1. Crime de Tráfico de Drogas (art. 33 da Lei l 1.343 2006):
+Natureza da droga (art, 42 da Lei l L343/2006):
+A natureza da droga apreendida e relevante e merece ser aferida como circunstância apta a exasperaçao da pena base. Isso por que é sabido que a cocaína um dos entorpecentes com maior poder viciante dentre as comercializadas no Brasil. O poder vulnerante da cocaína agride com maior intensidade a saúde pública, bem juridicamente tutelado pela normal penal contida no artigo 33, da lei 11.343 2006. justificando, pois, a fixação da pena base acima do mínimo legal.
+Nesse sentido, aliás, é a jurisprudência dos Tribunais nacionais:
+ .. .
+Não seria proporcional ou justo, a título de exemplo, a aplicação da pena por tráfico de maconha no mesmo patamar que a pena aplicada ao tráfico de cocaína. Não porque a droga conhecida como maconha seja permitida, mas em razão de ser inequívoco o maior poder vulnerante daquela cm seus usuários. Assim, considero tal circunstância como apta a exasperar a pena base acima do mínimo legal.
+Quantidade da droga (art. 42 da Lei 11343/2006):
+A quantidade da droga apreendida é relevante e merece ser aferida como circunstância apta a exasperação da pena base. Isso por que foi encontrado em poder do réu mais de 200g de substância entorpecente, quantidade suficiente para causar maior mal à coletividade, violando dc maneira mais intensa a saúde pública.
+ .. .
+Assim, considero tal circunstância como apta a exasperar a pena base acima do mínimo legal."
+Na hipótese, extrai-se dos trechos acima que, em razão da consideração desfavorável da quantidade e natureza das drogas apreendidas (mais de 200g de cocaína), a pena-base dos agravantes foi fixada em 6 anos e 6 meses de reclusão e 660 dias-multa.
+Tal entendimento está em consonância com o entendimento desta Corte Superior, segundo o qual não há ilegalidade na exasperação da pena-base acima do mínimo legal com fulcro no art. 42 da Lei n. 11.343/2006, uma vez que a quantidade e a natureza da droga apreendida é fundamento idôneo para exasperar a pena-base e deve preponderar sobre as demais circunstâncias judiciais, nos exatos termos do art. 42, da Lei n. 11.343/2006.
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA. DOSIMETRIA DA PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu ordem de habeas corpus, na qual se alegava a ilicitude de prova decorrente de busca veicular ilegal, ilegalidade na majoração da pena-base e negativa de aplicação do redutor do art. 33, §4º, da Lei n. 11.343/2006.
+2. A agravante foi condenada à pena de 7 anos de reclusão, em regime inicial fechado, e ao pagamento de 700 dias-multa, por tráfico de drogas, com base na apreensão de mais de 10 kg de maconha.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca pessoal e veicular realizada sem mandado judicial foi lícita, considerando a alegada ausência de fundada suspeita.
+4. Outra questão em discussão é a legalidade da majoração da pena-base acima do mínimo legal, em razão da quantidade de droga apreendida, e a inaplicabilidade do redutor do art. 33, §4º, da Lei de Drogas.
+III. Razões de decidir
+5. A busca pessoal e veicular foi considerada lícita, pois realizada com base em fundada suspeita, conforme previsto no art. 244 do CPP, uma vez que a agravante demonstrou nervosismo e tentou esconder a droga durante a abordagem.
+6. A majoração da pena-base foi justificada pela expressiva quantidade de drogas apreendidas, em conformidade com o art. 42 da Lei de Drogas e o art. 59 do Código Penal, não havendo ilegalidade na decisão.
+7. A inaplicabilidade do redutor do art. 33, §4º, da Lei de Drogas foi mantida, pois as circunstâncias do caso indicam dedicação habitual ao tráfico de drogas, não sendo a agravante considerada traficante episódica.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. A busca pessoal e veicular sem mandado judicial é lícita quando baseada em fundada suspeita, conforme art. 244 do CPP. 2. A majoração da pena-base acima do mínimo legal é justificada pela quantidade de droga apreendida, conforme art. 42 da Lei de Drogas. 3. A inaplicabilidade do redutor do art. 33, §4º, da Lei de Drogas é mantida quando há indícios de dedicação habitual ao tráfico de drogas".
+ .. .
+(AgRg no HC n. 983.260/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA DOMICILIAR SEM AUTORIZAÇÃO JUDICIAL. NULIDADE NÃO RECONHECIDA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, no qual o sentenciado pretendia o reconhecimento da nulidade da busca domiciliar sem autorização judicial, além de redimensionamento da pena-base, reconhecimento da minorante do tráfico privilegiado, abrandamento do regime prisional e substituição da pena privativa de liberdade por restritiva de direitos.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a busca domiciliar realizada sem autorização judicial, mas em situação de flagrante delito, é nula.
+3. A questão também envolve a análise da dosimetria da pena, especialmente quanto à aplicação da minorante do tráfico privilegiado e ao regime inicial de cumprimento da pena.
+III. Razões de decidir
+4. A busca domiciliar sem autorização judicial foi considerada válida, pois realizada em situação de flagrante delito, conforme entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+5. A dosimetria da pena foi considerada adequada, com a pena-base fixada acima do mínimo legal devido à quantidade e natureza do entorpecente apreendido, em conformidade com o art. 42 da Lei de Drogas.
+6. A minorante do tráfico privilegiado não foi aplicada devido à reincidência do agravante, conforme jurisprudência do Superior Tribunal de Justiça.
+7. O regime inicial fechado foi mantido, considerando as circunstâncias judiciais desfavoráveis e a reincidência do agravante.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. A busca domiciliar sem autorização judicial é válida em situação de flagrante delito. 2. A reincidência impede a aplicação da minorante do tráfico privilegiado. 3. O regime inicial fechado é adequado diante de circunstâncias judiciais desfavoráveis e reincidência."
+ .. .
+(AgRg no HC n. 989.602/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, conheço do agravo para conhecer, em parte, do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
