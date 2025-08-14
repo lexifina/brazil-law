@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Edilamar do Socorro Rodrigues de Oliveira contra acórdão proferido à unanimidade pela Seção de Direito Público do Tribunal de Justiça do Estado do Pará (fls. 207/218), assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PENSÃO ESPECIAL. BENEFÍCIO ASSISTENCIAL. PERCEPÇÃO APÓS IMPLEMENTO DA MAIORIDADE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO INVOCADO. SEGURANÇA DENEGADA.
+I. CASO EM EXAME
+1- Mandado de Segurança impetrado por filha maior que pretende a percepção de benefício assistencial previsto na Lei nº 4.809/1978.
+II. QUESTÃO EM DISCUSSÃO
+2- A questão consiste em verificar se há direito líquido e certo da impetrante à percepção de pensão especial por morte, decorrente do óbito de seu genitor, ocorrido no ano de 1999.
+III. RAZÕES DE DECIDIR
+3- A pretensão da impetrante fundamenta-se na alegação de que nos termos da Lei nº 4.809/1978 bastaria a qualidade de filha do de cujus sem a necessidade de comprovação de menoridade ou incapacidade, consoante dispõe o art. 3º de referidos dispositivos.
+4-Dos autos, observa-se que à época do óbito de seu genitor, a impetrante contava com 41 anos de idade, o que aliado à análise do Laudo Médico Pericial nº 199605A (Id 7627441 - Pág. 36), que atestou que sua invalidez total e permanente para o trabalho, decorrente de alienação mental, teve como data de início o dia 09/06/2016, leva a inferir que na data do óbito a impetrante era maior e capaz.
+5-A concessão de referida pensão especial a filhos maiores fundamentada na lei nº 4.809/1978, já foi objeto de análise por esta Corte em que se denegou a pretensão dos impetrantes ante a restrição do benefício aos filhos não emancipados, de qualquer condição, menores de vinte e um anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave que anteceda ao óbito do segurado, expressamente previstas na Lei Complementar Estadual nº 39/2002.
+6-Desta forma, não se vislumbra a existência de direito líquido e certo em razão da nítida omissão das Leis nº 4.809/1978 e nº 4.875/1979 quanto a regulação dos beneficiários da pensão especial em questão, mostrando-se razoável a aplicação da Lei Complementar Estadual nº 39/2002, como aliás já decidido por esta Corte.
+IV. DISPOSITIVO
+7- Segurança denegada. (fls. 207/208)
+Nas razões recursais, fls. 231/246, a autora alega que:
+I) "À época do falecimento do genitor da Recorrente vigorava a Lei nº 4.809/78 que além de reconhecer o direito do despachante ao recebimento de uma pensão especial, garantia também o reconhecimento, no caso de falecimento deste, à viúva e aos filhos, a concessão da mesma pensão, porém com um percentual redutor, conforme art. 3º, da Lei nº 4.809/78" (fl. 233);
+II) "a Lei 4.809/79 passou a vigorar no Estado do Pará a partir de 1979, sendo que tanto o Despachante, como seu Ajudante passariam à "inatividade" com recebimento de proventos proporcionais aos novos cargos criados, de modo que a regulamentação da pensão ao instituidor, bem como aos seus dependentes derivou unicamente da lei. Ou seja, não se trata de lei que tenha natureza previdenciária ou análoga, pois apesar do termo de "pensão" e do direito de percepção aos dependentes, fato é que se trata de um benefício "assistencialista" e vinculado à lei, conforme entendimento do STJ e do TJ/PA" (fl. 234);
+III) "a legislação aplicada à pensão é aquela vigente à época do óbito ou, no caso de pensão especial, é aplicada a lei que a criou" (fl. 236);
+IV) "o ato do Secretário que indeferiu o pedido da recorrente, bem como o acordão que lhe denegou a segurança é ilegal, pois além de não ser aplicável a lei que regulamenta o regime jurídico próprio dos servidores do Estado do Pará, a recorrente preenche o único requisito que se encontrava vinculado à lei, qual seja, a comprovação documental de FILHA do de cujus" (fl. 239); e
+V) "o que se verifica é que no caso deveria ser aplicada a Lei n.º 4.809/78, vigente à época do falecimento do instituidor da pensão, em respeito ao princípio do tempus regit actum e ainda entendimentos sedimentados do Supremo Tribunal Federal." (fl. 240).
+Em contrarrazões, fls. 250/257, o Estado do Pará endossa a fundamentação do aresto combatido e requer o não provimento do apelo.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Odim Brandão Ferreira, manifestou-se pelo desprovimento do recurso, consoante o parecer de fls. 267/273, que se apresenta guarnecido pela seguinte ementa:
+Recurso ordinário em mandado de segurança. Administrativo. Servidor público paraense. Pensão por morte. Lei est. 4.809/1978. Omissão legislativa. Interpretação razoável e correta do TJPA ao aplicar, subsidiariamente, as normas do regime previdenciário geral do Estado do Pará - LC est. 39/2002. Invalidez posterior ao óbito do instituidor da pensão. Ausência de direito líquido e certo. Precedente do STJ. Parecer pelo desprovimento do recurso. (fl. 267)
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conforme o disposto no art. 1.º da Lei n. 12.016/2009, norma que reproduz o comando constitucional, a concessão da ordem, presente evidência documental trazida já com a exordial (prova pré-constituída), vai condicionada à incontestável demonstração de violação ao alegado direito líquido e certo da parte impetrante, por ato abusivo ou ilegal da indicada autoridade coatora.
+Logo, se não cabalmente provada a existência de ato ilegal ou abusivo, ou o malferimento de direito líquido e certo - assim entendido aquele prontamente aferível e decorrente da inevitável incidência da norma sobre o suporte fático nela previsto - o caso será da denegação da ordem.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL ADMINISTRATIVO DISCIPLINAR. MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA FEDERAL. DEMISSÃO. RESPONSABILIDADE INDIVIDUAL. DECISÃO DA AUTORIDADE JULGADORA EM DISCORDÂNCIA COM SUGESTÃO DA COMISSÃO. POSSIBILIDADE LEGAL. REGULARIDADE DO PROCEDIMENTO. ORDEM DENEGADA.
+ ..
+4. A liquidez e a certeza que, nos termos constitucionais, asseguram a concessão da ordem não se satisfazem com meras possibilidades ou suposições. É de todo necessário que a violação a direito alegada pelo impetrante seja demonstrada por prova documental convincente, previamente apresentada com a petição vestibular, ante a notória impossibilidade de dilação probatória na via mandamental.
+Precedentes.
+ ..
+6. Ordem denegada.
+(MS n. 24.584/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 10/5/2023, DJe de 15/5/2023.)
+À luz destas premissas, como anotou o Parquet Federal em seu parecer, andou bem a Corte estadual, pois o direito vindicado, acaso existente, não se revestiu da necessária liquidez e certeza, por conta de falta de previsão legal explícita, o que impede a concessão da ordem.
+A fim de elucidar este entendimento, transcrevo a fundamentação exposta no acórdão recorrido:
+A questão consiste em verificar se há direito líquido e certo da impetrante à percepção de pensão especial por morte, decorrente do óbito de seu genitor, ocorrido no ano de 1999.
+É cediço que a Lei Estadual nº 4.809/78, que extinguiu o cargo de despachante da Secretaria Estadual da Fazenda, concedeu pensão especial aos respectivos ocupantes, cuja natureza, em face da ausência de caráter contributivo, é assistencial.
+A pretensão da impetrante fundamenta-se na alegação de que nos termos da lei nº 4.809/1978 bastaria a qualidade de filha do de cujus sem a necessidade de comprovação de menoridade ou incapacidade, consoante dispõe o art. 3º de referidos dispositivos in verbis:
+Art. 3º Em caso de falecimento do pensionista, a Pensão Especial de que trata esta lei, passará a ser paga a viúva e filhos, sucessivamente, com a redução de cinquenta por cento (50%). (Grifei)
+Dos autos, observa-se que à época do óbito de seu genitor, a impetrante contava com 41 anos de idade, o que aliado à análise do Laudo Médico Pericial nº 199605A (Id 7627441 - Pág. 36), que atestou que sua invalidez total e permanente para o trabalho, decorrente de alienação mental, teve como data de início o dia 09/06/2016, leva a inferir que na data do óbito a impetrante era maior e capaz.
+A concessão de referida pensão especial a filhos maiores fundamentada na lei nº 4.809/1978, já foi objeto de análise por esta Corte em que se denegou a os filhos não pretensão dos impetrantes ante a restrição do benefício a emancipados, de qualquer condição, menores de vinte e um anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave que anteceda ao óbito do segurado, expressamente previstas na Lei Complementar Estadual nº 39/2002, senão vejamos:
+(..)
+Desta forma, não se vislumbra a existência de direito líquido e certo em razão da nítida omissão das Leis nº 4.809/1978 e nº 4.875/1979 quanto a regulação dos beneficiários da pensão especial em questão, mostrando-se razoável a aplicação da Lei Complementar Estadual nº 39/2002, como aliás já decidido por esta Corte.
+(fls. 215/217)
+Em igual sentido, o bem lançado parecer do Ministério Público, de onde colho o excerto seguinte, aqui tomado também como razão de decidir:
+A controvérsia reside em definir se a recorrente, filha maior e capaz à data do falecimento de seu genitor, possui direito líquido e certo à pensão especial de que trata a Lei est. 4.809.
+O direito à pensão por morte é regido pela lei vigente na data do óbito do instituidor, em aplicação do princípio tempus regit actum. No caso, o fato gerador do direito, em tese, da recorrente - falecimento de seu genitor - ocorreu em 1999.
+O acórdão recorrido aponta que a Lei est. 4.809, embora estabeleça em seu art. 3º, que a pensão passará "à viúva e filhos, sucessivamente", é omissa quanto aos requisitos para a qualificação do filho como dependente. A norma não define se o benefício se estende a filhos de qualquer idade e condição ou se, por sua natureza assistencial, destinar-se-ia a amparar aqueles que dependiam economicamente do instituidor, como os menores de idade e ou inválidos.
+O TJPA adotou a solução de aplicar, subsidiariamente, as normas do regime previdenciário geral do Estado do Pará, conduta que parece lícita. A legislação correspondente, LC est. 39/2002, ao tratar dos dependentes para fins de pensão, harmoniza-se com o sistema previdenciário, que só defere o benefício ao filho maior, se sua invalidez preexistir ao óbito do segurado.
+No caso, é incontroverso que: 1 - o óbito do instituidor ocorreu em 1999; 2 - àquela data, a recorrente contava com 41 anos de idade e era plenamente capaz; 3 - o laudo médico pericial atesta que sua invalidez se iniciou apenas em 9.6.2916.
+Logo, ao tempo do fato gerador, a recorrente não era dependente nos termos exigidos pela legislação estadual. A invalidez superveniente não cria direito inexistente à época do falecimento do instituidor. (fls. 270/271)
+Assim, considerada a singularidade dos fatos documentados nestes autos e dos pedidos formulados pelo autor, nenhum reparo merece o acórdão recorrido no que aponta a inadequação da via eleita.
+ANTE O EXPOSTO, em harmonia com o parecer ministerial e com fundamento no art. 34, XVII, "b" do RISTJ, nego provimento ao presente recurso ordinário, mantendo íntegro, e pela sua própria fundamentação, o acórdão recorrido.
+Publique-se.
+EMENTA
