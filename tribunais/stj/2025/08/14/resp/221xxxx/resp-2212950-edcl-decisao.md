@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GESLAINE MARIA GOLANOWSKI LICODIEDOFF contra decisão monocrática na qual dei provimento ao recurso especial para cassar a prisão domiciliar (e-STJ fls. 115/119).
+O retrospecto foi bem delineado no parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 107/108):
+Trata-se de recurso especial interposto de acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, que negou provimento ao agravo em execução interposto pelo Ministério Público, mantendo decisão que concedeu prisão domiciliar a Gislaine Maria Golanowski Licodiedoff, mediante monitoração eletrônica. Confira-se ementa (fls. 52):
+"AGRAVO EM EXECUÇÃO. PRISÃO DOMICILIAR À SENTENCIADA CONDENADA EM REGIME FECHADO. REQUISITOS PARA A CONCESSÃO DA MEDIDA ATENDIDOS. CUIDADOS MATERNOS PRESUMIDOS. APENADA CONDENADA POR CRIMES PRATICADOS SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE DEMONSTRAÇÃO DE SITUAÇÃO DE EXCEPCIONALIDADE QUE CONTRAINDIQUE A MEDIDA. DECISÃO MANTIDA. RECURSO DESPROVIDO."
+Em recurso especial (fls. 62/78), sustenta-se ofensa aos artigos 317 e 318, inciso V, 318-A, do Código de Processo Penal, e artigo 117, inciso III, da Lei n.º 7.210/1984. Argumenta-se que reconhecimento de que a execução de pena em prisão domiciliar para mães de filhos menores de 12 anos não é automática e deve ser avaliada de acordo com as particularidades do caso concreto. Afirma-se que a sentenciada cumpre pena de 9 anos, 4 meses e 3 dias de reclusão, em regime fechado, por integrar organização criminosa armada, com envolvimento de adolescentes, voltada à prática de homicídios, porte e posse de armas de fogo, tráfico de drogas e lavagem de dinheiro. Foram oferecidas contrarrazões (fls. 82/90).
+Ao se manifestar, o Parquet Federal opinou pelo não conhecimento do recurso especial (e-STJ fls. 107/112).
+Às e-STJ fls. 115/119, dei provimento ao recurso especial para cassar a prisão domiciliar.
+Alega a defesa, no presente expediente aclaratório, que a decisão é contraditória ao ignorar que os precedentes desta Corte Superior no sentido de que a imprescindibilidade da mãe é presumida aos cuidados com filhos menores de 12 anos de idade.
+Postula, ao final, sejam os embargos acolhidos para restabelecer a prisão domiciliar.
+É o relatório.
+Decido.
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se percebe o aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Analisando mais detidamente a decisão embargada, verifica-se que a jurisprudência mais recente desta Corte Superior permite a prisão domiciliar em casos semelhantes ao ora em análise.
+Porém, embora haja precedentes fundamentados no entendimento de que a imprescindibilidade da mãe aos cuidados com filhos menores de 12 anos seria presumida, a Sexta Turma desta Corte Superior vem há muito se posicionando no sentido de ser indevida a concessão de prisão domiciliar a mulheres condenadas à prisão em regime fechado ou semiaberto, salvo quando comprovada sua imprescindibilidade aos cuidados dos filhos.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. PRESUNÇÃO DE IMPRESCINDIBILIDADE DOS CUIDADOS MATERNOS. COMPROVAÇÃO NECESSÁRIA. PENA DEFINITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, no qual se pleiteava o restabelecimento de decisão de primeiro grau que concedeu prisão domiciliar à recorrente, sob o argumento de presunção de imprescindibilidade dos cuidados maternos aos filhos menores de 12 (doze) anos.
+2. A decisão impugnada considerou que, embora a Lei de Execução Penal preveja a prisão domiciliar para reeducandos em regime aberto, excepcionalmente, pode-se conceder o benefício a presas dos regimes fechado e semiaberto, desde que a medida seja proporcional, adequada e necessária, e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência.
+3. A jurisprudência desta Corte é orientada no sentido de que, para a concessão de prisão domiciliar, deve ser demonstrado que as crianças precisam de cuidados que só a genitora é capaz de suprir, especialmente em casos de cumprimento definitivo da pena.
+4. A decisão impugnada está em conformidade com o entendimento firmado nesta Corte, não havendo situação excepcional que justifique a concessão da benesse, pois não ficou demonstrada a imprescindibilidade da agravante para com os cuidados de seus filhos menores. Precedentes.
+5. A modificação das premissas fáticas delineadas pelas instâncias de origem enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+6. Agravo regimental não provido.
+(AgRg no HC n. 957.713/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS E ESTELIONATO. CONDENAÇÃO DEFINITIVA. APENADA ATUALMENTE EM REGIME SEMIABERTO. ART. 117 DA LEI DE EXECUÇÃO PENAL. PRISÃO DOMICILIAR. POSSIBILIDADE DE CONCESSÃO AOS SENTENCIADOS EM REGIME FECHADO OU SEMIABERTO, DESDE QUE DEMONSTRADA SITUAÇÃO DE EXCEPCIONALIDADE, O QUE NÃO OCORREU NA ESPÉCIE. AGRAVO REGIMENTAL D ESPROVIDO.
+1. Hipótese em que a Agravante está no cumprimento definitivo de pena de 7 (sete) anos e 3 (três) meses de reclusão, em regime inicial fechado, pela prática dos delitos de tráfico de drogas e estelionato. Formulado pedido de prisão domiciliar, o pleito foi indeferido pelo Juízo da Execução Penal.
+2. Esta Corte Superior de Justiça tem entendimento no sentido de que, embora o art. 117 da Lei de Execuções Penais estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos condenados recolhidos no regime fechado ou semiaberto desde que configurada a excepcionalidade do caso concreto, com demonstração da imprescindibilidade da medida, situação esta afastada pelas instâncias ordinárias, que, em análise soberana sobre o contexto fático-probatório dos autos, concluíram não haver nos autos nenhuma constatação de que os filho menores da Agravante estejam desamparados ou que precisem de cuidados exclusivos maternos.
+3. No caso, verifica-se ainda situação concreta e excepcional a desautorizar a concessão da prisão domiciliar, porquanto as instâncias ordinárias consignaram a grande quantidade de droga apreendida na residência da Agravante, o que, por certo, expõem as crianças a situação de risco. Precedentes desta Corte.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 857.447/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
