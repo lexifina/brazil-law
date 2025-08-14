@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DIEGO CAMPOS ANJOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que o paciente foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusão no regime inicial fechado e de pagamento de 666 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+A impetrante alega que, apesar de não ter sido apreendido nenhum material ilícito em posse do paciente, sua prisão foi mantida após audiência de custódia.
+Afirma que a sentença penal condenatória carece de fundamentação concreta e idônea quanto à manutenção da prisão preventiva do paciente, violando o disposto no art. 93, IX, da Constituição Federal, bem como o art. 387, §1º, do Código de Processo Penal.
+Sustenta que a negativa do direito de recorrer em liberdade não possui suporte jurídico válido, configurando manifesta ofensa ao art. 93, IX, da Constituição Fede ral.
+Destaca que o crime imputado - tráfico de drogas - não é praticado mediante violência ou grave ameaça à pessoa e que todas as circunstâncias judiciais previstas no art. 59 do Código Penal foram valoradas de forma neutra.
+Requer, liminarmente e no mérito, seja a prisão preventiva substituída por medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, constata-se que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+De início, verifica-se que os fundamentos do decreto prisional foram anteriormente apreciados por esta Corte Superior nos autos do HC n. 988.383/GO, cuja decisão de mérito foi publicada em 20/3/2025.
+Ademais, em relação à manutenção da prisão preventiva, assim constou na sentença condenatória (fl. 89, grifo próprio):
+O acusado esteve preso cautelarmente durante a instrução processual, de forma que sua segregação provisória continua sendo necessária para a garantia da ordem pública, nos exatos termos da decisão que decretou a prisão preventiva do réu, bem como por ter sido fixado o regime fechado para cumprimento de pena, motivo que NEGO-LHE o direito de recorrer em liberdade (art. 387, § 1º, do Código de Processo Penal).
+Acerca do assunto, este Superior Tribunal fixou o entendimento de que:
+ ..  a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023).
+Nesse contexto, não falar em ilegalidade a ser sanada, sobretudo porque, na sentença, o Magistrado destacou que persistem os fundamentos que autorizaram a decretação da prisão preventiva, nos exatos termos do decreto original, além de ter sido fixado o regime fechado para o cumprimento da reprimenda.
+Por fim, havendo indicação de fundamentos concretos para justificar a custódia cautelar, não s e revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Ant onio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
