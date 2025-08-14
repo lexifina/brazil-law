@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por MIKAEL JOSE DE ASSIS contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado como incurso no art. 334, caput, do Código Penal, à pena de 1 (um) ano de reclusão, em regime aberto, substituída por uma pena restritiva de direitos, consistente na prestação de serviços à comunidade ou a entidades públicas (fls. 205-211).
+O Tribunal de origem, por unanimidade, negou provimento ao recurso de apelação da defesa (fls. 269-275).
+Opostos embargos de declaração, foram rejeitados (fls. 301-303).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal. Em suas alegações recursais, pleiteou o reconhecimento da violação aos arts. 155, 156, 386, inciso V, e 619 do Código de Processo Penal. Argumentou que os embargos de declaração não foram adequadamente analisados; que a condenação se baseou exclusivamente em elementos colhidos na investigação, violando o direito à não autoincriminação; e que não há provas suficientes para a condenação, devendo ser aplicado o princípio in dubio pro reo (fls. 310-326).
+O recurso especial foi inadmitido na origem, diante dos óbices das Súmulas n. 7, e 83, STJ (fls. 347-349).
+Foi interposto o presente agravo em recurso especial, por meio do qual o agravante sustentou não pretender o reexame de provas, mas sim a correta aplicação da norma legal. R eiterou os argumentos do recurso especial. Requereu o provimento do agravo para o seguimento do recurso especial (fls. 357-382).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo (fls. 403-410).
+É o relatório. DECIDO.
+Da minuciosa análise das razões recursais, conclui-se que a parte agravante deixou de apresentar argumentos específicos e detalhados contra a decisão que inadmitiu o recurso especial. Nesse sentido, não observou o teor da Súmula n. 182, STJ, cuja aplicação se dá analogicamente ao caso em tela, uma vez que se limitou a repisar o seu inconformismo.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+O princípio da dialeticidade recursal exige, portanto, que haja confrontação clara, concreta e ampla de todos os fundamentos da decisão. Nesse sentido, a jurisprudência consolidada deste Tribunal:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+2. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+3. a interposição descabida de sucessivos recursos (AgRg no EARESP NO RCD nos EDcl no AgRg nos EDcl no AgRg no ARESP N. 1.870.554 - SP) configura abuso do direito de recorrer, autorizando a baixa imediata dos autos.
+Agravo regimental não conhecido com determinação de certificação do trânsito em julgado e imediata baixa dos autos."
+(AgRg nos EAREsp n. 1.870.554/SP, relator Ministro Humberto Martins, Corte Especial, julgado em 7/3/2023, DJe de 14/3/2023.)
+No tocante à Súmula n. 7, STJ, o agravante deixou de apontar, especificamente, como seria possível, no caso concreto, à míngua de uma análise fática, alterar as conclusões da Corte de origem para fins de acolhimento dos pedidos contidos no recurso especial. Não há demonstração das premissas fáticas expressamente reconhecidas no acórdão, tampouco esclarecimento de como elas teriam implicado interpretação equivocada de dispositivo legal.
+Nessa linha:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBSTRUÇÃO DE INVESTIGAÇÕES CONTRA ORGANIZAÇÕES CRIMINOSAS. SÚMULA 7/STJ NÃO IMPUGNADA DEVIDAMENTE. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS UTILIZADOS PARA INADMITIR O RECURSO ESPECIAL. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL POR ESTA VIA RECURSAL. INCIDÊNCIA DA SÚMULA 7/STJ. ALEGAÇÃO DE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIÁVEL PELA VIA DO RECURSO ESPECIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com efeito, das razões colacionadas no agravo em recurso especial, verificou-se que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no Recurso Especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+2. A ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do Apelo Nobre impede o conhecimento do Agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+3. É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+4. De todo modo, a desconstituição do julgado, no intuito de acolher o pleito de absolvição do agravante demandaria necessariamente aprofundado revolvimento do contexto de fatos e prova, o que é inviável por esta via recursal, nos termos da Súmula 7/STJ. Precedentes.
+5. O Superior Tribunal de Justiça possui entendimento no sentido de que, "Na via do recurso especial, é descabida a análise da alegação de ofensa a dispositivos ou princípios constitucionais, ainda que para fins de prequestionamento" (EDcl no AgRg no AREsp n. 2.254.533/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+6. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.341.711/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/11/2023, DJe de 28/11/2023).
+Em relação à Súmula n. 83, STJ, o agravante não ilustrou, por meio de precedentes desta Corte Superior, a desarmonia do julgado ou a ausência de entendimento pacificado sobre a matéria.
+Ao não se desincumbir da obrigação de rebater todos os fundamentos da decisão, o agravante incorreu, portanto, em violação à Súmula n. 182, STJ.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
