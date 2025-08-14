@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. habeas corpus. tráfico de drogas. associação para o tráfico de drogas. Prisão preventiva devidamente fundamentada. prisão domiciliar. filho menor. não demonstrada a imprescindibilidade. violação de domicílio. não configurada. fundadas razões. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus impetrado em favor do agravante, cuja prisão em flagrante foi convertida em custódia preventiva, em razão de suposta prática dos delitos previstos nos arts. 33 e 35 da Lei 11.343/2006.
+2. O agravante alega constrangimento ilegal no encarceramento provisório, ausência de fundamentação para a prisão preventiva, ilegalidade decorrente de invasão domiciliar e pleiteia a substituição da prisão preventiva por domiciliar, por ser pai de criança que depende de seus cuidados.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada e se há ilegalidade na invasão domiciliar que justificaria a concessão de habeas corpus.
+4. Outra questão é a possibilidade de substituição da prisão preventiva por domiciliar, em razão da alegação de ser pai de criança que requer cuidados especiais.
+III. Razões de decidir
+5. A prisão preventiva do agravante se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, notadamente em razão da quantidade e diversidade dos entorpecentes apreendidos no contexto da traficância, consistente em 9.871 (nove quilos, oitocentos e setenta e um gramas) de maconha e 270 (duzentos e setenta gramas) de cocaína.
+6. As condições pessoais favoráveis do agravante não são suficientes para revogar a prisão preventiva, dada a gravidade dos fatos e a periculosidade evidenciada.
+7. A alegação de ser pai de criança que requer cuidados especiais não foi comprovada de forma inequívoca, não justificando a concessão de prisão domiciliar.
+8. Não há flagrante ilegalidade na invasão domiciliar, pois a entrada foi autorizada e havia fundada suspeita de crime no local.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em elementos concretos que evidenciam a necessidade de garantir a ordem pública. 2. A substituição da prisão preventiva por domiciliar exige comprovação inequívoca da necessidade de cuidados especiais por parte do agravante. 3. A entrada em domicílio é válida quando autorizada e baseada em fundada suspeita de crime."
+Dispositivos relevantes citados: Lei 11.343/2006, arts. 33 e 35.
+Jurisprudência relevante citada: STF, HC 93.498/MS, Min. Celso de Mello, Segunda Turma, DJe 18.10.2012; STJ, AgRg no HC 751.585/SP, Min. João Otávio de Noronha, Quinta Turma, DJe 30.09.2022; STJ, AgRg no RHC 197.244/BA, Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 15.08.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls. 277-280, que denegou o habeas corpus impetrado em favor de VINICIUS SIMAO DOS SANTOS.
+Consta dos autos a prisão em flagrante do agravante, posteriormente convertida em custódia preventiva, decorrente de suposta prática dos delitos capitulados no art. 33 e art. 35, ambos da Lei 11.343/2006.
+Nas razões do presente inconformismo, o agravante repisa os argumentos deduzidos no writ, alegando a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em seu desfavor.
+Aduz ausência de fundamentação para a segregação cautelar.
+Sustenta ilegalidade decorrente de invasão domiciliar.
+Argumenta que é cabível a substituição da prisão preventiva por domiciliar, uma vez que é pai de criança, que depende de seus cuidados.
+Requer a reconsideração da decisão hostilizada, ou, em caso de entendimento diverso, a submissão ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. habeas corpus. tráfico de drogas. associação para o tráfico de drogas. Prisão preventiva devidamente fundamentada. prisão domiciliar. filho menor. não demonstrada a imprescindibilidade. violação de domicílio. não configurada. fundadas razões. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus impetrado em favor do agravante, cuja prisão em flagrante foi convertida em custódia preventiva, em razão de suposta prática dos delitos previstos nos arts. 33 e 35 da Lei 11.343/2006.
+2. O agravante alega constrangimento ilegal no encarceramento provisório, ausência de fundamentação para a prisão preventiva, ilegalidade decorrente de invasão domiciliar e pleiteia a substituição da prisão preventiva por domiciliar, por ser pai de criança que depende de seus cuidados.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada e se há ilegalidade na invasão domiciliar que justificaria a concessão de habeas corpus.
+4. Outra questão é a possibilidade de substituição da prisão preventiva por domiciliar, em razão da alegação de ser pai de criança que requer cuidados especiais.
+III. Razões de decidir
+5. A prisão preventiva do agravante se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, notadamente em razão da quantidade e diversidade dos entorpecentes apreendidos no contexto da traficância, consistente em 9.871 (nove quilos, oitocentos e setenta e um gramas) de maconha e 270 (duzentos e setenta gramas) de cocaína.
+6. As condições pessoais favoráveis do agravante não são suficientes para revogar a prisão preventiva, dada a gravidade dos fatos e a periculosidade evidenciada.
+7. A alegação de ser pai de criança que requer cuidados especiais não foi comprovada de forma inequívoca, não justificando a concessão de prisão domiciliar.
+8. Não há flagrante ilegalidade na invasão domiciliar, pois a entrada foi autorizada e havia fundada suspeita de crime no local.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em elementos concretos que evidenciam a necessidade de garantir a ordem pública. 2. A substituição da prisão preventiva por domiciliar exige comprovação inequívoca da necessidade de cuidados especiais por parte do agravante. 3. A entrada em domicílio é válida quando autorizada e baseada em fundada suspeita de crime."
+Dispositivos relevantes citados: Lei 11.343/2006, arts. 33 e 35.
+Jurisprudência relevante citada: STF, HC 93.498/MS, Min. Celso de Mello, Segunda Turma, DJe 18.10.2012; STJ, AgRg no HC 751.585/SP, Min. João Otávio de Noronha, Quinta Turma, DJe 30.09.2022; STJ, AgRg no RHC 197.244/BA, Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 15.08.2024.
+VOTO
+O presente Agravo Regimental não merece provimento.
+Sustenta o agravante a necessidade de reforma do decisum.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 277-280. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+No que concerne à prisão cautelar, cumpre consignar que a prisão preventiva, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+In casu, a prisão preventiva do agravante se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, notadamente em razão da quantidade e diversidade dos entorpecentes apreendidos no contexto da traficância, consistente em 9.871 (nove quilos, oitocentos e setenta e um gramas) de maconha e 270 (duzentos e setenta gramas) de cocaína; conforme laudo pericial, fls. 89-90.
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agravante, justificando a segregação cautelar determinada.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+"Ao contrário do alegado pela defesa, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o agravante foi preso em flagrante na posse de várias buchas de maconha, embaladas em pequenas sacolas, pesando 220 gramas de maconha, dois envelopes fracionados com 20 gramas de crack e 21 pinos cocaína, pesando 40 gramas, bem como uma balança de precisão, elementos que caracterizam maior desvalor da conduta em tese perpetrada" (AgRg no RHC n. 197.244/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao agravante a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+No que tange a alegação de ser pai de criança que requer cuidados especiais, o Tribunal a quo fundamentou a negativa da concessão da prisão domiciliar uma vez que "Não obstante tenha sido apresentada a certidão de nascimento da filha (fls. 200), não consta qualquer comprovação inequívoca a respeito da imprescindibilidade dos cuidados exclusivos do paciente" (fl. 43).
+Nesse sentido:
+Quanto a alegação de ser pai de criança menor de 12 anos - "A substituição de prisão preventiva por prisão domiciliar de pai de menores de 12 anos de idade exige prova de ser o único responsável pelos seus cuidados" (AgRg no HC n. 775.433/SP, Quinta turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/12/2022) -, o que não ocorreu no caso"(AgRg no HC n. 870.527/PE, Minha relatoria, Quinta Turma, DJe de 27/6/2024).
+No que tange à apontada ilegalidade do flagrante, ante a suposta violação de domicílio, é cediço que:
+"o ingresso regular em domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio" (AgRg no HC 678.069/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/9/2021).
+No caso dos autos, não verifico flagrante ilegalidade a ser sanada, diante da existência de fundada suspeita.
+Na hipótese, consoante se depreende dos autos, a entrada no domicílio se deu a partir da abordagem de uma pessoa chamada Gustavo, em cujo veículo foi encontrado material entorpecente; nesse sentido, Gustavo teria indicado o endereço do agravante como local onde haveria mais drogas, além de constar nos autos que a entrada "foi autorizada" (fl. 39).
+Assim, fixadas tais premissas, não restou evidenciado o constrangimento ilegal suscitado.
+Ilustrativamente, casos semelhantes:
+"1. No caso, tem-se manifesta a existência de fundadas razões para a abordagem do agravante, uma vez que os policiais visualizaram o veículo do acusado no contra fluxo, momento em que o condutor se abaixou, fechou o vidro, tentou mudar de direção repentinamente e se evadiu do local desobedecendo as ordens de parada, quando dispensou um pacote com cocaína do interior do carro.  ..  4. Além disso, apontou-se que os policiais verificaram a situação de flagrante delito antes mesmo de entrar na casa do agravante. A entrada no domicílio teria sido por ele franqueada, após sua confissão informal, o que afasta, portanto, o conceito de invasão. Para modificar as premissas fáticas no sentido de concluir de que o consentimento do morador não foi livremente prestado, seria necessário o revolvimento de todo o contexto fático-probatório dos autos, expediente inviável na sede mandamental" AgRg no RHC n. 210.741/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025).
+"3. In casu, de acordo com o relato dos fatos pelas instâncias de origem, a abordagem do acusado foi justificada, pois uma denúncia anônima informou que um veículo Fiat Punto vermelho de placa NOO-4166 estaria transportando drogas. Após os policiais avistarem o mencionado veículo em alta velocidade, procederam à abordagem; durante a revista, encontraram uma arma envolta em um moletom no banco do passageiro, circunstâncias fáticas que demonstram a existência de fundadas suspeitas, que não se confundem com a certeza de prática do delito de porte ilegal de arma de fogo e de tráfico de drogas, para a diligência policial que resultou na prisão em flagrante do acusado. 4. Quanto à alegação de nulidade por violação de domicílio, a Corte de origem entendeu que essa questão deve ser avaliada apenas após a conclusão da instrução criminal, uma vez que o habeas corpus possui limites cognitivos que não permitem uma análise mais ampla neste momento processual. Ademais, a entrada dos policiais no imóvel foi autorizada pela prima do acusado, o que afasta a alegação de violação de domicílio. Portanto, com base nas informações disponíveis nesta fase, não há fundamentos para declarar a nulidade pleiteada" (AgRg no HC n. 912.862/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024 ).
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos funda mentos.
+Ante o exposto , por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
