@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de JOAO VICTOR DUARTE - condenado por porte ilegal de arma de fogo de uso permitido a 2 anos e 9 meses de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Espírito Santo (fls. 17/19), não comporta processamento.
+Com efeito, busca a impetração a readequação do regime inicial de cumprimento da pena para o regime aberto ou, subsidiariamente, semiaberto - na condenação proferida na Ação Penal n. 0000888-19.2020.8.08.0050 (fls. 11/16, da 1ª Vara Criminal da comarca de Viana/ES) -, aos argumentos de que a existência de circunstância judicial desfavorável e a reincidência não específica não justificariam o regime fechado (fls. 3/4), além de ausência de contemporaneidade do delito, sustentando que a ausência de conduta delitiva recente  ..  impede a adoção de regime mais severo (fls. 5/6).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a reincidência e a circunstância judicial desfavorável (fl. 19) justificam a imposição de regime inicial fechado, mesmo em pena inferior a 4 anos de reclusão (AgRg no HC n. 999.854/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. REGIME INICIAL. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
