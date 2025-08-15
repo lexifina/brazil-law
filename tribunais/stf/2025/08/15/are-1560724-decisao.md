@@ -1,0 +1,63 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Acre, que determinou ao Estado do Acre o pagamento de valores relativos ao abono de permanência à servidora contratada sem a prévia realização de concurso público. (eDOC 7 – ID: c5fe9594)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 37, II, do texto constitucional. (eDOC 8 – ID: 3a0dc7a3)
+
+    Nas razões recursais, sustenta-se que a servidora pública não foi aprovada em concurso público e que, portanto, não goza dos benefícios inerentes à efetividade.
+
+    Alega-se que “sem o necessário atributo da efetividade (o qual não foi afirmado nem negado segundo o acórdão que apreciou os embargos declaratórios), a recorrida não pode ser beneficiada por vantagem própria dos servidores efetivos (licença prêmio), sob pena de expressa afronta ao art. 37, II, da Constituição Federal (servidor não aprovado em concurso público) e, sobretudo, de desrespeito ao acórdão prolatado na ADI nº 3.609-AC pelo STF”. (eDOC 8 – ID: 3a0dc7a3, p. 9)
+
+    Aduz-se, assim, que a recorrida não possui direito à percepção do abono de permanência, sob o fundamento de que tal garantia apenas é conferida aos servidores públicos efetivos, ou seja, admitidos mediante a aprovação e concurso público.
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação merece prosperar.
+
+    Inicialmente, registro que, no julgamento da ADI 3.609, Rel. Min. Dias Toffoli, declarou-se a inconstitucionalidade das disposições da Emenda Constitucional nº 38/2005, do Estado do Acre, que concediam a efetivação de servidores públicos admitidos sem concurso público até 31 de dezembro de 1994. Confira-se a ementa do precedente:
+
+    “Ação direta de inconstitucionalidade. EC nº 38/2005 do Estado do Acre. Efetivação de servidores públicos providos sem concurso público até 31 de dezembro de 1994. Violação do art. 37, II, CF. Precedentes. 1. Por força do art. 37, inciso II, da CF, a investidura em cargo ou emprego públicos depende da prévia aprovação em concurso público, sendo inextensível a exceção prevista no art. 19 do ADCT. Precedentes: ADI nº 498, Rel. Min. Carlos Velloso, DJ de 9/8/96; ADI nº 208, Rel. Min. Moreira Alves, DJ de 19/12/02; ADI nº 100, Rel. Min. Ellen Gracie, DJ de 1/10/04; ADI nº 88, Rel. Min. Moreira Alves, DJ de 8/9/2000; ADI nº 1.350/RO, Rel. Min. Celso de Mello, DJ de 1/12/06; ADI nº 289, Rel. Min. Sepúlveda Pertence, DJ de 16/3/07, entre outros. 2. Modulação dos efeitos da declaração de inconstitucionalidade, nos termos do art. 27 da Lei nº 9.868/99, para se darem efeitos prospectivos à decisão, de modo que somente produza seus efeitos a partir de doze meses, contados da data da publicação da ata do julgamento, tempo hábil para a realização de concurso público, a nomeação e a posse de novos servidores, evitando-se, assim, prejuízo à prestação de serviços públicos essenciais à população. 3. Ação direta de inconstitucionalidade julgada procedente” (ADI 3609, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 30.10.2014)
+
+    Na espécie, o Tribunal de origem consignou que a servidora faz jus à percepção de valores correspondentes ao abono de permanência, mesmo diante da precariedade de sua contratação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “RECURSO INOMINADO. JUIZADO DA FAZENDA PÚBLICA. ABONO DE PERMANÊNCIA. SERVIDORA CONTRATADA ANTES DO ADVENTO DA CF/88 SEM CONCURSO PÚBLICO E EFETIVADA PELA EMENDA CONSTITUCIONAL ESTADUAL N°. 38/2005. SENTENÇA QUE CONDENOU O ESTADO DO ACRE AO PAGAMENTO DA VERBA PLEITEADA. INSURGÊNCIA RECURSAL QUE SUSTENTA A PERDA DA EFETIVIDADE NO CARGO EM DECORRÊNCIA DOS EFEITOS DA ADI 3.609/AC. REQUISITOS PARA APOSENTADORIA ALCANÇADOS APÓS O PRAZO FIXADO PELA MODULAÇÃO DOS EFEITOS DA ADI. ABONO DE PERMANÊNCIA DEVIDO. ENTENDIMENTO JURISPRUDENCIAL UNIFORMIZADO NO ÂMBITO DAS TURMAS RECURSAIS DO ESTADO DO ACRE. RECURSO CONHECIDO E IMPROVIDO.
+
+    1. Trata-se de recurso inominado interposto por ESTADO DO ACRE em face da Sentença das fls. 156/203, que julgou procedentes os pedidos formulados por VALTERINA GONDIM PEREIRA, condenando o Recorrente na obrigação de pagar o “Abono de Permanência”, a ser incluído em nos vencimentos mensais da servidora, bem como condenou ao pagamento referente aos valores retroativos de R$ 6.122,09 (-), estes calculados entre o dia 09.03.2018 (data que completou o tempo para aposentadoria) a 18.02.2019, assegurado ainda o direito às verbas de Abono de Permanência vencidas no curso da tramitação processual até o seu trânsito em julgado, valores totais que somente poderão ser liquidados na fase de “cumprimento de sentença”.
+
+    2. Argumenta o Recorrente em suas razões das fls. 220/227 que o julgado objurgado merece reforma, pois na sua visão entende que o abono de permanência constitucional é benefício exclusivo dos servidores efetivos, classe da qual a Reclamante não faz parte, uma vez que perdeu a condição de servidora efetiva por ocasião da decisão vazada no bojo da ADI 3.609/AC, com efeitos modulados até a data de 19/02/2015. Com tais argumentos, requesta pela reforma a fim de que seja julgado totalmente improcedente a ação.
+
+    3. Contrarrazões apresentadas (fls. 231/239).
+
+    É o breve relatório. Passo a fundamentação.
+
+    4. A sentença não merece reforma.
+
+    5. A Reclamante ingressou nos quadros do Estado do Acre como servidora pública em 23.05.1988, sem concurso público, para exercer a função de Professora PS-1, Letra A, e em 29/12/1993, com a promulgação da LCE n°. 39/93, seu contrato de trabalho passou a ser regido pela modalidade estatutária, sendo reenquadrada com o advento das /Leis Complementares n°. 14/1987, 67/1999, 144/2005, 199/2009, 213/2010 e 274/2014, na estrutura de carreira e salários dos Profissionais de Ensino Público Estadual.
+
+    6. Em razão de ter alcançado em 09.03.2018 os requisitos para aposentadoria/abono de permanência, assim optando por permanecer em atividade, a Reclamante requerer a devolução das contribuições previdenciárias, a título de abono de permanência, o que lhe foi negado pela Administração, sob o argumento de que a servidora perdera a efetividade do cargo em decorrência dos efeitos da ADI 3.609/AC, e assim, não teria atingido os requisitos antes de cessarem os efeitos da modulação, que findou em 19/02/2015.
+
+    7. Desta feita, acertada é a sentença que condenou o Recorrente ao pagamento do abono de permanência à servidora, afastando o argumento levantado pelo Estado do Acre de perda da efetividade em razão dos efeitos da ADI 3.609/AC, tese que não se tem acolhido nos julgamentos proferidos nesta Turma Recursal, cujo entendimento, inclusive, recentemente foi uniformizado no âmbito dos Juizados Especiais do Estado do Acre, com aprovação de anunciado pela Turma de Uniformização de Jurisprudência, verbis:
+
+    (...)” (eDOC 7 – ID: c5fe9594)
+
+    Assim, verifica-se que o acórdão do Tribunal de origem destoa da jurisprudência do Supremo Tribunal Federal, na medida em que reconheceu a possibilidade de extensão de garantias próprias de servidores efetivos à recorrida, sem considerar que a efetividade é um atributo conferido apenas em favor dos agentes públicos admitidos mediante a aprovação em concurso público.
+
+    Nesse sentido também foi a orientação firmada no julgamento do RE 1.306.505, Rel. Min. Alexandre de Moraes, em que se assentou ser vedado o reenquadramento, em novo Plano de Cargos, Carreiras e Remuneração, de servidor admitido sem concurso público antes da promulgação da Constituição Federal de 1988, mesmo que beneficiado pela estabilidade excepcional do artigo 19 do ADCT. Confira-se, a propósito, a ementa do precedente indicado:
+
+    “TEMA 1157 DA REPERCUSSÃO GERAL. SERVIDOR ADMITIDO SEM CONCURSO PÚBLICO NA VIGÊNCIA DA CONSTITUIÇÃO PRETÉRITA. IMPOSSIBILIDADE DE ENQUADRAMENTO NO PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO IMPLEMENTADO PARA SERVIDORES PÚBLICOS EFETIVOS. VIOLAÇÃO AO ARTIGO 37, INCISO II, DA CONSTITUIÇÃO FEDERAL E DA TESE FIRMADA NA ADI 3.609/AC. AGRAVO CONHECIDO. PROVIMENTO AO RECURSO EXTRAORDINÁRIO. DENEGAÇÃO DA ORDEM. 1. O Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento da ADI 3609, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe de 30/10/2014, declarou a inconstitucionalidade da Emenda Constitucional 38/2005, da Constituição do Estado do Acre, que previa a efetivação de servidores públicos providos sem concurso público até 31 de dezembro de 1994, mesmo que não se enquadrassem na estabilidade excepcional prevista no artigo 19 do ADCT da Constituição Federal, por violação ao artigo 37, II, da Constituição Federal. 2. A modulação dos efeitos realizada por esta CORTE no julgamento da ADI 3609 não conferiu efetividade aos servidores que ingressaram no serviço público estadual sem concurso até 5/2/2015. A concessão de efeitos prospectivos teve por escopo conceder ao Estado tempo suficiente para a realização de concurso público para o preenchimento dos cargos que foram ocupados de forma inconstitucional, visando a evitar a paralisação de serviço público essencial. 3. Inexistência de direito líquido e certo ao reenquadramento no novo Plano de Cargos, Carreiras e Remuneração (PCCR), criado para servidores efetivos admitidos mediante concurso público e instituído pela Lei Estadual 2.265, de 31 de março de 2010, com alterações promovidas pela Lei Estadual 3.104, de 29 de dezembro de 2015, ambas do Estado do Acre, uma vez que foi admitido em 13 de maio de 1986, sem concurso público e contratado pelo regime celetista. 4. Dispensada a devolução de valores eventualmente recebidos de boa-fé até a data de conclusão do presente julgamento tendo em vista a natureza jurídica de verba alimentar das quantias percebidas. 5. Agravo conhecido para DAR PROVIMENTO ao Recurso Extraordinário do Estado, e DENEGAR A SEGURANÇA. 6. Fixação, para fins de repercussão geral, da seguinte tese ao Tema 1157: “É vedado o reenquadramento, em novo Plano de Cargos, Carreiras e Remuneração, de servidor admitido sem concurso público antes da promulgação da Constituição Federal de 1988, mesmo que beneficiado pela estabilidade excepcional do artigo 19 do ADCT, haja à vista que esta regra transitória não prevê o direito à efetividade, nos termos do artigo 37, II, da Constituição Federal e decisão proferida na ADI 3609 (Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe. 30/10/2014)” (ARE 1306505, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 04.04.2022)
+
+    Confira-se, ainda, o seguinte precedente:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 1º.09.2023. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL CONTRATADO ANTES DA CF/88 SEM CONCURSO PÚBLICO. CARGO EM COMISSÃO. APOSENTADORIA. PRETENSÃO DE RECEBIMENTO DO ABONO DE PERMANÊNCIA. AUSÊNCIA DE CONCURSO PÚBLICO. ART. 37, II, DA CF. IMPOSSIBILIDADE. 1. O Juízo a quo, ao julgar procedente o pedido formulado na petição inicial, decidiu a causa em divergência com a orientação firmada pelo Plenário desta Corte, no julgamento da ADI 3.609, de relatoria do Min. Dias Toffoli, no sentido de que, nos termos do art. 37, II, da CF, a efetividade é prerrogativa dos servidores que acessaram os cargos públicos mediante aprovação em concurso público de provas ou de provas e títulos. 2. No caso concreto, foi conferido direito ao abono de permanência a servidor público estadual admitido antes da CF/88, sem concurso público. 3. Recentemente, o Plenário desta Corte, na Sessão Virtual realizada em 28.03.2022, Rel. Min. Alexandre de Moraes, ao analisar o mérito dos autos do ARE 1.306.505-RG, por meio da sistemática da repercussão geral (Tema 1157), fixou a seguinte tese: “É vedado o reenquadramento, em novo Plano de Cargos, Carreiras e Remuneração, de servidor admitido sem concurso público antes da promulgação da Constituição Federal de 1988, mesmo que beneficiado pela estabilidade excepcional do artigo 19 do ADCT, haja vista que esta regra transitória não prevê o direito à efetividade, nos termos do artigo 37, II, da Constituição Federal e decisão proferida na ADI 3609 (Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe. 30/10/2014)”. 4. Agravo regimental a que se nega provimento. Inaplicável o art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem” (ARE 1448076 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 26.10.2023 - grifo nosso)
+
+    Ante o exposto, dou provimento ao recurso extraordinário, para julgar improcedente o pedido formulado na inicial. Ficam invertidos os ônus da sucumbência.
+
+    Publique-se.
+
+    Brasília, 15 de agosto de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
