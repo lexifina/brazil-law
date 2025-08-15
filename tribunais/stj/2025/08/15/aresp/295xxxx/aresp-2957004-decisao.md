@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por AGUAS DO MIRANTE S.A com fundamento na ausência de violação do art. 1022 do CPC, na incidência  da Súmula  7/STJ e da Súmula 280/STF, por analogia.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, alegando a violação aos arts. 489, II, § 1º e IV, e 1.022, II e parágrafo único, II, do CPC; arts. 9º, XIII, e 17, caput, §§ 1º, 2º e 3º, da Lei Complementar 140/2011 e art. 6º da Lei 9.605/1998, defendendo, além de omissão no acórdão recorrido, que a competência para processos sancionatórios e aplicação de multas é daquele que expediu a respectiva licença ambiental e aponta ofensa aos princípios da razoabilidade e da proporcionalidade quanto ao arbitramento da multa administrativa. Por fim, aduz ser indevida a aplicação de multa por embargos de declaração em ofensa ao art. 1.026, § 2º, do CPC.
+Foi apresentada contraminuta.
+É o relatório.
+Passo a decidir.
+No caso, o Tribunal de origem manteve sentença, que julgou improcedente o pedido de anulação de autos de infrações ambientais, em acórdão assim ementado:
+1:- Ação anulatória - Autos de infração ambiental (AIA"s) - Infrações ambientais consistentes em precária manutenção das redes de esgotos geridas pela concessionária autora, defluindo no lançamento de esgoto "in natura" nos leitos d"água da Municipalidade.
+2:- Nulidade da sentença não verificada - Presença dos requisitos do art. 489, do CPC - Adoção de uma tese em detrimento de outras apresentadas que implica em apreciação e rejeição, sem configuração de não enfrentamento das questões propostas.
+3:- Competência para legislação e fiscalização ambiental que é concorrente da Municipalidade autora - Ausência de demonstração de infração às legislações ambientais estadual e federal - Inteligência dos §§ 2º e 3º, do art. 24 e no inc. II, do art. 30 da CF.
+4:- Notificação prévia para regularização do dano ambiental - Ausência de previsão na legislação municipal e na Lei 6.938/1981 - Notificação, ademais, que seria inservível para sanar o específico dano ambiental - Valor da multa que se mostra adequado, tendo- se em conta a extrema gravidade do dano e a observância do limite estabelecido na legislação estadual.
+5:- Alegação de parcialidade do agente ambiental - Ausência de comprovação dos autos, tendo a autora declinado da produção de prova oral ou pericial - Contaminação das águas sequer negada pela requerente.
+6:- Recurso não provido.
+Quanto à apontada violação aos arts. 489, II, § 1º e IV, e 1.022, II e parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+Com efeito, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+3:- No que concerne à competência da Secretaria de Meio Ambiente da Municipalidade Piracicabana, tem-se que o AIA foi lavrado com fundamento em resolução normativa da Secretaria Estadual de Meio Ambiente e na Lei Complementar Municipal 251/2010 que atribuiu à Municipalidade a fiscalização e defesa do meio ambiente.
+E nenhuma irregularidade se encerra nos avocados dispositivos normativo e legal. Isso porque, como é cediço, a defesa do meio ambiente é de competência concorrente entre os entes federal, estaduais e municipais.
+A competência concorrente, como é sabido, é aquela reservada à União, aos Estados e ao Distrito Federal, cabendo à União a primazia de legislar sobre normas gerais, estando prevista no artigo 24, da Constituição Federal. A competência suplementar é aquela que atribui aos Estados, ao Distrito Federal e aos Municípios a faculdade de complementar os princípios e normas gerais ou de suprir a omissão destes, sendo prevista nos §§ 2º e 3º, do artigo 24 e no inciso II, do artigo 30 da Magna Carta.
+Destarte, os municípios podem legislar sobre os temas ambientais de interesse predominantemente local, desde que respeitando as normas gerais que tiverem sido editadas pela União. Não se tem sequer indicação de que tenha a legislação municipal afrontado a legislação federal.
+ ..
+No que concerne ao valor da multa, arbitrada em patamar superior ao mínimo previsto na resolução estadual, há que se considerar duas circunstâncias.
+A uma, a já estabelecida magnitude do dano ambiental, consistente no despejo de esgoto "in natura" nos leitos dos rios, em claríssima e inegável falha na prestação de serviço fundamental pela concessionária autora, qual seja, o fornecimento de água e tratamento de esgoto da Municipalidade.
+A duas, porquanto o valor arbitrado não extrapolou o limite estabelecido pela legislação estadual que é inegavelmente bem superior à cominação do valor da multa aplicada à autora (fls. 809-810).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489 e 1.022 do CPC.
+No mérito, para alterar as conclusões do órgão julgador - no sentido da competência para lavratura do auto de infração e na regularidade na aplicação da sanção pecuniária - seria imprescindível o reexame do acervo fático-probatório dos autos e da legislação local, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ e da Súmula 280/STF, por analogia.
+Por fim, assiste razão à parte agravante quanto ao pedido de exclusão da multa imposta no julgamento dos únicos aclaratórios por ela opostos.
+Isso porque, nos termos da nossa jurisprudência, a simples oposição de embargos de declaração, sem intuito protelatório, não justiça a imposição da multa prevista no art. 1.026, § 2º, do CPC, conforme determina a Súmula 98/STJ, segundo a qual "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+A propósito:
+Nos termos da Súmula 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório". Assim, a simples oposição dos Embargos de Declaração pela parte agravante, por si só, não justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC, notadamente quando o acórdão embargado deu provimento ao recurso da parte contrária - como no caso -, motivo pelo qual o Recurso Especial merece ser provido, no ponto (AgInt no AREsp n. 1.975.776/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e c, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento apenas para excluir a multa imposta com fundamento no art. 1.026, § 2º, do CPC.
+Intimem-se.
+ EMENTA
