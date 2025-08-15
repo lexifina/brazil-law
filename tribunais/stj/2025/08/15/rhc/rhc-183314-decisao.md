@@ -1,0 +1,16 @@
+DECISÃO
+MARCELO GIR GOMES. interpõe recurso ordinário em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2053941-25.2023.8.26.0000.
+Consta dos autos que o paciente foi condenado à pena de 2 anos e 5 dias de reclusão e 18 dias-multa pela prática do crime de estelionato (art. 171, §4º, CP), permanecendo em liberdade por não ter sido expedida guia de recolhimento pelo juízo de conhecimento.
+A defesa aduz, em síntese: a) impossibilidade de utilização do agravo em execução para questionar o indeferimento do pedido de indulto natalino, considerando a inexistência de Juízo da Execução instaurado; b) constrangimento ilegal decorrente da decisão que obriga indiretamente o paciente a se recolher à prisão para ter acesso aos benefícios executórios; c) erro do tribunal de origem ao denegar a ordem de habeas corpus sem reconhecer que este constitui o único remédio processual disponível na hipótese; d) omissão em conceder a ordem ex officio para determinar a expedição de guia de recolhimento, conforme jurisprudência consolidada dos Tribunais Superiores.
+Requer o provimento do recurso para determinar ao Juízo da 4ª Vara Criminal de Ribeirão Preto a expedição de guia de recolhimento do paciente, independentemente de seu recolhimento à prisão, viabilizando o acesso aos benefícios da execução penal.
+O Ministério Público Federal opinou pelo conhecimento em parte e, nesta parte, pelo não provimento do recurso (fls. 130-134).
+Decido.
+O exame comparativo das razões apresentadas no habeas corpus original e no presente recurso ordinário revela significativa divergência argumentativa, com evidente deslocamento das pretensões recursais.
+Na impetração inaugural, o foco centrou-se fundamentalmente na concessão do indulto natalino com base no Decreto n. 11.302/2022 e na alegada nulidade da sentença por vício na emendatio libelli, sustentando-se violação direta aos princípios constitucionais do contraditório e ampla defesa.
+O recurso ordinário, contudo, introduz linha argumentativa completamente distinta, concentrando-se na necessidade de expedição ex officio de guia de recolhimento e na impossibilidade processual de utilização do agravo em execução, argumentos estes que extrapolam o núcleo da controvérsia originalmente estabelecida.
+A mudança do eixo argumentativo não se limita a mero aprofundamento das teses iniciais, mas configura verdadeira reformulação da causa de pedir, buscando fundamentar o cabimento excepcional do habeas corpus em premissas não aventadas na petição inicial. Tal postura recursal contraria os postulados do sistema processual, que exige coerência e continuidade entre as razões deduzidas na impetração e aquelas desenvolvidas em eventual recurso ordinário.
+Com isso, a modificação do pedido ou da causa de pedir em recurso ordinário caracteriza inovação recursal inadmissível, pois viola o princípio tantum devolutum quantum appellatum.
+Esta Corte Superior tem entendido que "o esforço para provocar o debate, em sede de recurso ordinário, de teses que, ausentes da impetração, não foram discutidas na origem, caracteriza intolerável inovação recursal, em violação do princípio tantum devolutum quantum appellatum" (RMS 41.477/GO, Rel. Ministro Sérgio Kukina, 1ªT, DJe 10/03/2014).
+À vista do exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
