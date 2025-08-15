@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se embargos de declaração opostos por GENI BARBOSA COSTA, em face da decisão que negou conhecimento à petição de fls. 318/347.
+A decisão embargada destacou que "a reclamação foi julgada procedente pela decisão de fls. 295/298, determinando o pronto julgamento de recurso de embargos de declaração que, na origem, ainda pendiam de julgamento", bem como que, em atendimento esta decisão, "o eg. Tribunal de Justiça do Estado de Pernambuco julgou o recurso de embargos de declaração opostos na origem, acolhendo, inclusive, o recurso com efeitos infringentes, nos seguintes moldes:
+"Ante o exposto, voto no sentido de ACOLHER os embargos de declaração, com efeitos infringentes, para retificar o Acórdão anterior e fixar o termo final da obrigação de pensionamento em 92.6 (noventa e dois vírgula seis) anos de, conforme idade da vitima parâmetro técnico da tabela de sobrevida do IBGE para o ano de 2018, nos exatos termos, definidos pelo STJ, respeitando-se, com isso, a coisa julgada e a autoridade da decisão superior" (grifou-se, na fl.325)".
+Ao final, a decisão embargada não conheceu do pedido, pois, cumprida pelo Tribunal a quo a determinação feita por esta Corte, foi entregue definitivamente a prestação jurisdicional objeto deste expediente reclamatório, os pedidos subsequentes, tais como de liberação de valores incontroversos/pretéritos, devem ser dirigidos à instância de origem que presidira a procedimento de cumprimento provisório ou definitivo de sentença, a qual, certamente, em vista das peculiaridades do caso, atuará com brevidade no atendimento aos pedidos da reclamante (nas fls. 349/350).
+A decisão embargada foi publicada em 11/05/2025 (na fl. 3174).
+Após isso, a reclamante apresentou três novos pedidos de Tutela Provisória (sic) e, finalmente, opôs os presentes Embargos de Declaração, todos com o mesmo objeto, questões referentes à execução do julgado do Tribunal de Justiça do Estado de Pernambuco, como no presente caso em que se requer "tão somente, que Vossa Excelência esclareça ao TJPE que a vedação de saque dos atrasados só havia na decisão liminar, a qual deixou de existir com o provimento final da RCL" (na fl. 763).
+Pede, ao final, especificadamente que "seja expedido ofício ao TJPE informando: a) Não persistir vedação do saque dos atrasados; b) Que o termo "valores incontroversos", presente na parte final do dispositivo de provimento da presente RCL (e-STJ fls. 298), refere-se aos atrasados e não aos vincendos" (na fl. 764).
+É o relatório.
+Passo a decidir.
+Os embargos de declaração são intempestivo, pois foram protocolados em 17/6/2025, 27 dias úteis após a publicação da decisão agravada.
+Quanto às petições e pedidos de Tutela Antecipada (sic) apresentadas após a publicação da decisão embargada e não apreciadoss, verifica-se que, todas elas contém pedidos de: liberação de parcelas ou atrasados incontroversos, de bloqueios, de constituição de capital ou de pedidos similares.
+Todavia, como já alinhavado na decisão que conheceu da reclamação e da decisão embargada, a prestação jurisdicional desta Corte já foi entregue, logo, os pedidos de cumprimento provisório ou definitivo da sentença devem se endereçados à instância apropriada, a de execução do julgado.
+Assim, os pedidos não merecem ser conhecidos.
+Nesse passo, saliente-se que, não obstante à celeridade que foi dada por esta relatoria à resolução definitiva da presente reclamação, a atuação processual da reclamante beira o abuso do direito de recorrer, porquanto no iter procedimental da presente reclamação, além do presente recurso, a autora apresentou 15 (quinze) pedidos de Tutela Antecipada ou de requerimentos similares.
+Somente após o dia 20/5/2025, data da expedição da decisão que conheceu da reclamação a autora protocolou 8 (oito) pedidos de Tutela Antecipada ou de embargos de declaração, ou seja a cada 2,5 dias uma petição foi protocolada.
+Dessa forma, advirta-se a reclamante que nova oposição de incidentes infundados dará ensejo à aplicação de multa por procedimento processual inadequado.
+Ante o exposto, não conheço do recurso de embargos de declaração.
+Comuniquem-se às partes e às instâncias de origem.
+Arquivem-se, independente da oposição de novos recursos.
+EMENTA
