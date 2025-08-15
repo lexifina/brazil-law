@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADALBERTO SOUSA SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo Interno Criminal n. 2083657-29.2025.8.26.0000/50000.
+Consta nos autos que o paciente foi preso em flagrante delito no dia 13/02/2025, convertida sua custódia em prisão preventiva, tendo sido denunciado pela suposta prática dos crimes tipificados nos arts. 33, caput e 35, caput, c/c o art. 40, inciso VI, e no art. 35, todos da Lei n. 11.343/2006.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, tendo o Desembargador Relator indeferido a liminar pleiteada. Interposto Agravo Interno Criminal, o Tribunal a quo negou provimento ao recurso.
+Neste writ, o impetrante sustenta que a decisão que converteu a prisão em flagrante em preventiva carece de fundamentação idônea, baseando-se apenas na gravidade abstrata do delito e na quantidade de droga apreendida, sem demonstrar de maneira objetiva outras circunstâncias que indiquem que o paciente se dedica a atividades criminosas.
+Assevera que a manutenção da prisão preventiva configura uma antecipação da pena, violando o princípio da presunção de inocência, previsto no art. 5º, inciso LVII, da Constituição Federal.
+Afirma que o paciente é primário, não integra nenhuma organização criminosa e possui residência fixa e ocupação lícita, circunstâncias que afastam a necessidade da custódia cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, ainda que mediante a aplicação de medidas cautelares alternativas, elencadas no art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido às fls. 49-52.
+Informações prestadas às fls. 58-66 e 67-80.
+O Ministério Público Federal manifestou-se às fls. 82-91, opinando pela concessão parcial da ordem de ofício, para que seja substituída a prisão preventiva do paciente por medidas cautelares alternativas ao cárcere.
+É o relatório.
+DECIDO.
+De acordo com a orientação consolidada na Súmula n. 691 do Supremo Tribunal Federal, aplicável nesta Corte por analogia, não se conhece de habeas corpus impetrado contra decisão do Relator que indefere a liminar em outro writ requerido na origem, sob pena de supressão de instância.
+No entanto, se houver na decisão impugnada ilegalidade manifesta, abuso de poder ou teratologia, as Cortes Superiores têm entendido pela possibilidade de superação do mencionado óbice processual.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. DECISÃO QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 892.673/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+Na hipótese, não verifico a existência de ilegalidade manifesta apta a ensejar a concessão da ordem pleiteada.
+Com efeito, o Juízo de primeiro grau, ao converter a prisão em flagrante do paciente em preventiva, apresentou as seguintes razões (fls. 62-63; grifamos):
+(..) Após análise dos autos, no momento, reputo necessária a custódia do indiciado para manter a ordem pública, garantir a possível instrução penal, assim como a aplicação da lei penal. Ademais, as medidas previstas no artigo 319 do Código de Processo Penal revelam-se inadequadas para o caso. No presente caso, o indiciado foi preso em flagrante pelo crime de tráfico de entorpecentes e associação para o tráfico (artigos 33 e 35, "caput", da Lei nº 11.343/06), delitos gravíssimos e que causam repercussão geral. A ordem pública é ofendida quando a conduta do agente provoca algum impacto na sociedade, lesando valores significativamente importantes. No caso, a ofensa é palpável. O laudo de constatação de substâncias entorpecentes de fls. 33/35 constatou serem as substâncias apreendidas cocaína, com peso total bruto de 102,48 gramas, acondicionados em 116 microtubos (fls. 31/32). Portanto, há indícios concretos de materialidade e autoria dos crimes de tráfico de drogas e associação para o tráfico, conforme evidenciado pelo boletim de ocorrência (fls. 06/09), auto de exibição e apreensão (fls. 29) e laudo pericial, bem como pelos depoimentos dos policiais militares perante a Autoridade Policial. Os agentes públicos apreenderam 102,48 gramas de substância entorpecente, identificada como cocaína. A droga estava acondicionada em microtubos, um claro indicativo de tráfico de drogas, conforme previsto no artigo 33 da Lei nº 11.343/2006. Além disso, observa-se que, apesar do indiciado ser tecnicamente primário (fls. 56/59), ele está em gozo de liberdade provisória concedida em 08.02.2025 no processo 1500216-47.2025.8.26.0603, no qual responde pela suposta prática do crime de tráfico de drogas (fl. 40). Portanto, há necessidade de manter a custódia do indiciado, por ora, a fim de se evitar a reiteração na prática delitiva. (..)
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi, em princípio, suficientemente fundamentada pela instância ordinária, tendo sido ressaltado o risco de reiteração delitiva do paciente, que, após ter obtido o benefício da liberdade provisória no dia 08/02/2025, em autos no qual responde pela suposta prática do crime de tráfico de drogas, foi novamente preso em flagrante no dia 13/02/2025, por fatos relacionados ao mesmo delito.
+Tal circunstância demonstra, em tese, a potencial periculosidade do agente e é apta a justificar sua segregação cautelar para garantia da ordem pública.
+Com efeito,
+(c)onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+(..)
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; grifamos).
+Ademais, a matéria depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente ao Tribunal impetrado sua análise, sendo vedado a esta Corte Superior adiantar-se nesse exame, usurpando, de forma indevida, a competência da instância de origem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
