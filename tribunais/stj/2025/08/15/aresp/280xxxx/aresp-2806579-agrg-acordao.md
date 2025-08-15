@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO DA CONDUTA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+2. Para se concluir pela desclassificação do delito seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+RELATÓRIO
+EDUARDO SILVA SANTOS interpõe agravo regimental contra a decisão de fls. 482-485, na qual conheci do agravo e neguei provimento ao recurso especial.
+A defesa alega que "não se trata no caso de hipótese de incidência da Súmula n. 7/STJ, pois a questão está totalmente delineada no acórdão recorrido, tratando-se de hipótese de revaloração jurídica dos fatos" (fl. 494). Reitera o pedido de desclassificação do crime de tráfico para o delito do art. 28 da Lei de Drogas.
+Requer, dessa forma, caso não haja reconsideração do decisum anteriormente proferido, seja o feito submetido à apreciação do órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO DA CONDUTA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+2. Para se concluir pela desclassificação do delito seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+VOTO
+Apesar dos esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho.
+Na hipótese, observo que o decisum agravado foi claro ao mostrar que a Corte estadual, após minuciosa análise do acervo carreado aos autos, entendeu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+Ainda, evidenciou que para se concluir pela desclassificação do delito para a imputação do art. 28 da Lei n. 11.343/2006 seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça. Confira-se (fls. 482-484, grifei):
+O Tribunal de origem, quando do julgamento da apelação, afastou o pedido de desclassificação da conduta, pelos seguintes fundamentos (fls. 231-235, grifei):
+Postula a defesa pela reforma da sentença para desclassificar a conduta imputada ao Apelante do crime de tráfico de drogas para o delito inserto no art. 28, da Lei de Drogas, tendo em vista a pouca e natureza da droga apreendida, qual seja 11 gramas de maconha, tampouco a comprovação da traficância.
+Razão não assiste à defesa.
+Conforme análise realizada pelo juízo primevo, a quantidade da droga não é o único elemento a indicar se o indivíduo pratica o crime de tráfico de drogas ou o de porte de droga para consumo pessoal, ao contrário, há que se verificar as condições em que ocorreu a apreensão da droga.
+Compulsando os autos, verifica-se que a materialidade e autoria do crime de tráfico de drogas restaram comprovadas pelo auto de exibição e apreensão (ID 61927131 - fl. 06), laudo de constatação provisória (ID 61927131 - fl. 10) e laudo definitivo (ID 61927135 - fl. 03), bem como do coerente e harmonioso depoimento dos policiais civis e militares, responsáveis pela prisão do ora Apelante.
+Relataram os agentes estatais que realizava operação conjunta diante da informação que haveria uma briga entre facções criminosas; que ao se deslocarem até o bairro do Cajueiro, depararam-se com Mailson, conhecido dos policiais pela prática de crimes e, na abordagem, tomaram conhecimento das trocas de mensagens entre ele e o Suplicante, também conhecido indivíduo envolvido no tráfico de drogas e que estaria planejando a execução de Joãozinho, traficante da facção rival, que teria matado o seu irmão meses atrás; que os policiais foram até a residência do Recorrente que fugiu, mas foi capturado no quintal de um vizinho e encontraram em sua casa a quantia de 11 gramas de maconha.
+É o que se depreende da leitura das transcrições dos depoimentos colhidos em juízo:
+ ..
+Ora, como bem pontuado pelo juízo primevo, pela situação da prisão, não há como acolher da tese da deslassificação para o art. 28, da Lei de Drogas, porquanto se depreende que o Apelante era conhecido traficante de drogas, com ligação com a facção BDM e planejava, inclusive, executar Joãozinho, integrante de facção rival, responsável pela morte do seu irmão Edivan, além do seu irmão Cacá também ser ligado ao tráfico.
+O caso dos autos não cuida do indivíduo que foi encontrado com pouca quantidade de droga, mas de uma pessoa que possui ligação com o tráfico de drogas, tanto que estava planejando a vingança pela morte do seu irmão e, para isso, contando com a ajuda dos elementos que integravam a facção Bonde do Maluco, conforme informações obtidas na investigação policial e como o próprio Recorrente afirmou perante a autoridade policial, senão vejamos:
+ ..
+Nessa perspectiva, não se extrai da prova dos autos elementos de convicção que amparem a tese defensiva.
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão recorrido, verifico que as instâncias de origem, depois de toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Por essas razões, mostra-se inviável a desclassificação da conduta imputada ao recorrente, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n. 11.343 /2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Aliás, no tocante à valoração dos depoimentos prestados pelos policiais, é de salutar importância registrar o entendimento desta Corte Superior de que "a eficácia probatória do testemunho da autoridade policial não pode ser desconsiderada tão somente pela sua condição profissional, sendo plenamente válida para fundamentar um juízo, inclusive, condenatório" (HC n. 485.765/TO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 28/2/2019, grifei).
+Por fim, esclareço que, para entender-se pela desclassificação da conduta para o delito descrito no art. 28 da Lei n. 11.343/2006, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência inviável em recurso especial, a teor da Súmula n. 7 do STJ.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
