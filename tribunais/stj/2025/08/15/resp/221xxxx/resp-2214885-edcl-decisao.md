@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela União em face da decisão monocrática de fls. 776-787 que, no julgamento recurso especial interposto pelo particular Washington Freire da Silva, negou provimento ao recurso, dada a impossibilidade de reexame de matéria fática dos autos.
+Em suas razões recursais, aponta a União embargante omissão no acórdão embargado quanto a condenação do embargado Washington Freire da Silva em honorários advocatícios recursais, aduzindo os seguintes fatos:
+ .. .
+A decisão recorrida se omitiu ao não fixar honorários recursais, uma vez que o acórdão de origem, posterior à vigência do CPC/2015, condenou a parte demandante em honorários de sucumbência, conforme se vê no seguinte trecho:
+"Custas isentas. Fixo honorários advocatícios devidos pela parte autora aos patronos de cada ré, os quais arbitro em 10% (dez por cento) sobre o valor da causa, por não ser possível mensurar o proveito econômico da demanda, com fulcro no art. 85, §§ 2º e 3º, inciso I, do CPC, devendo tal importância, a partir da data da intimação desta decisão, ser corrigida pelos índices do manual de cálculo do CJF, até o efetivo pagamento" (fls. 635).
+"Condeno o apelante ao pagamento de honorários advocatícios recursais, fixados em R$ 500,00 (quinhentos reais), como determina o art. 85, § 11, do CPC, devendo ser observada a ressalva do art. 98, § 3º. O autor litigou sob o pálio da justiça gratuita"(fls. 699).
+Com efeito, a Corte Especial do STJ pacificou a orientação de que "é devida majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+Não houve impugnação aos embargos de declaração.
+É o relatório. Decido.
+Seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+No caso, assiste razão ao ente federado embargante, porquanto, de fato, houve omissão na decisão embargada acerca da condenação do particular, ora embargado, em honorários advocatícios recursais.
+Ante o exposto, acolho os embargos de declaração para, sanando a omissão, condenar o embargado Washington Freire da Silva ao pagamento de honorários advocatícios recursais no importe de R$ 150,00 (cento e cinquenta reais), cuja exigibilidade se mantêm suspensa em razão da concessão da justiça gratuita.
+Publique-se. Intimem-se.
+EMENTA
