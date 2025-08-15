@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Allan Messias Siqueira Bittencourt, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Revisão Criminal n. 2141450-23.2025.8.26.0000).
+A defesa informa que o paciente foi condenado em dois processos distintos, ambos por tráfico de entorpecentes e associação para o tráfico (fl. 2). Alega que as condutas apuradas em ambos os processos ocorreram no mesmo contexto fático e temporal, configurando violação do princípio do non bis in idem, bem como hipótese de continuidade delitiva, nos termos do art. 71 do Código Penal (fl. 3).
+Sustenta que houve violação do art. 621, I, do Código de Processo Penal, pois os delitos imputados e julgados no segundo processo tratam do mesmo contexto delitivo do primeiro, sendo ambos abrangidos pela natureza permanente do crime de tráfico de drogas (fl. 3). Afirma que o paciente foi condenado duas vezes pelos mesmos fatos, uma vez no Processo n. 1500224-25.2020.8.26.0627 e outra no Processo n. 1500146-31.2020.8.26.0627, configurando bis in idem (fl. 5).
+Alega ainda que, mesmo que não se reconheça o bis in idem, é manifesta a presença dos requisitos objetivos e subjetivos para a continuidade delitiva (fl. 5).
+Requer a concessão da ordem para declarar a nulidade da segunda condenação (Autos n. 1500224-25.2020.8.26.0627), por violação do princípio do non bis in idem (fl. 7). Subsidiariamente, requer o reconhecimento da continuidade delitiva entre as duas condenações, com a consequente unificação das penas (fl. 7). Alternativamente, pleiteia o reconhecimento da consunção entre os delitos imputados (fl. 7).
+Por fim, a defesa solicita a concessão da liminar para suspender os efeitos da segunda condenação até o julgamento final deste habeas corpus (fl. 7).
+É o relatório.
+A ordem não merece prosseguimento.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+No caso, o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+O art. 621, I, do Código de Processo Penal determina que caberá revisão criminal quando a sentença condenatória for contrária a texto expresso da lei (grifo nosso).
+O acórdão revisional está em consonância com a jurisprudência desta Corte, segundo a qual a revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas.  ..  Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016) - (AgRg no AREsp n. 1.807.887/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/10/2021).
+Por outro lado, não ficou evidenciado o alegado manifesto constrangimento ilegal, destacado no acórdão impugnado que não se verifica qualquer conexão entre os fatos narrados nos dois processos, não se vislumbrando qualquer ilegalidade nas condenações (fl. 13).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. REVISÃO CRIMINAL. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. TRÁFICO DE DROGAS. BIS IN IDEM. SUPOSTA ILEGALIDADE NO ACÓRDÃO QUE NÃO CONHECEU DO PEDIDO. IMPROCEDÊNCIA. DESCABIMENTO DO PLEITO REVISIONAL CALCADO NO ART. 621, I, DO CPP.
+Ordem denegada.
