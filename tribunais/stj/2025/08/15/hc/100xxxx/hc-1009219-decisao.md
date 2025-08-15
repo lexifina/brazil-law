@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de Habeas Corpus, sem pedido de liminar, impetrado em favor de FERNANDO RAMOS DE SOUZA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, o qual, ao julgar improcedente Revisão Criminal, manteve a condenação imposta ao paciente pela prática do crime previsto no artigo 33, caput, c/c art. 40, VI, da Lei nº 11.343/06, fixando a reprimenda em 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, além de 680 dias-multa.
+A impetração sustenta, em síntese, que a quantidade de droga apreendida (11,18 gramas de maconha) não justifica a condenação por tráfico, devendo ser reconhecida a presunção de uso pessoal, à luz da tese fixada pelo Supremo Tribunal Federal no Tema 506, que estabeleceu parâmetros objetivos para diferenciar porte para consumo do tráfico, exigindo robusto conjunto probatório para afastar a presunção em favor do acusado.
+O Ministério Público Federal, por sua vez, manifestou-se pelo não conhecimento do Habeas Corpus, enfatizando que a impetração foi utilizada como sucedâneo de recurso especial e que a discussão posta demanda reexame de fatos e provas, providência incompatível com a via estreita do writ.
+Pontuou, ainda, que o acórdão recorrido enfrentou devidamente a tese da defesa, destacando elementos suficientes para a configuração da traficância, não havendo flagrante ilegalidade a ser sanada.
+É o relatório. DECIDO.
+De início, cumpre salientar que é consolidado o entendimento nesta Corte no sentido de que o Habeas Corpus não se presta como substitutivo de recurso especial ou de Revisão Criminal, notadamente quando o que se pretende é a reapreciação do conjunto fático-probatório, providência incompatível com os limites do writ (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).).
+No caso em análise, o acórdão impugnado demonstrou ter examinado o contexto da apreensão  quantidade fracionada da droga, circunstâncias da prisão em flagrante e envolvimento de adolescente  fundamentos suficientes para justificar a configuração da traficância, afastando-se a presunção de uso pessoal prevista no Tema 506 do STF. Rever tal conclusão demandaria incursão aprofundada no acervo fático-probatório, medida inviável nesta sede.
+Assim, inexistindo flagrante ilegalidade ou manifesta teratologia na decisão combatida, não se justifica a concessão da ordem de ofício, tampouco há que se admitir a utilização do Habeas Corpus como sucedâneo do instrumento recursal adequado.
+Ante o exposto, não conheço do presente Habeas Corpus.
+Publique-se. Intime-se.
+EMENTA
