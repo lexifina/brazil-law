@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial manejado por Companhia Brasileira de Distribuição, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fls. 339/347 e 382/403), em sede de embargos à execução fiscal promovida em face da Fazenda Pública do Estado de São Paulo.
+A parte agravante, ora requerente, apresentou petição manifestando pedido de desistência do recurso interposto e sua renúncia ao direito em que se funda a presente ação (fls. 801/882 - pet. n. 00630716/2025), requerendo a homologação da transação celebrada e a extinção do feito com fundamento no art. 487, "c", do CPC, "para o fim de, ante a celebração da Transação ora noticiada, que busca extinguir o crédito tributário até então em discussão, na forma do artigo 156, inciso III, do CTN , e em estrito cumprimento do quanto previsto no artigo 3º, incisos V e VI, da Lei (SP) nº 17.843/2023 e item 8.1.7 do Edital PGE/TR nº 1/20244, desistir do presente feito, renunciando as alegações de direito que se fundamenta a presente ação (incluída no Programa de Transação - Edital PGE/TR nº 1/2024)" (fl.801).
+Procuração conferindo poderes ao causídico subscritor da presente petição, Dr. Maurício Barros (OAB/SP 183.724), à fl. 781.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se deve ser homologada, para que produza seus efeitos jurídicos e legais, o pedido de desistência do recurso especial de fls. 429/454, nos termos dos arts. 998 do CPC e 34, IX, do RISTJ.
+Por outro lado, considerando a adesão da parte ora requerente ao programa de transação previsto na Lei n. 17.843/2023 ("Acordo Paulista"), homologo o pleito de renúncia ao direito em que se funda a demanda, extinguindo os embargo s à execução com fulcro no art. 487, III, c, do CPC.
+ANTE O EXPOSTO, homologo o pleito de desistência e de renúncia ao direito em que se funda a demanda requerido às fls. 801/882 (pet. n. 00630716/2025), extinguindo o feito com fulcro no art. 487, III, c, do CPC.
+Publique-se.
+EMENTA
