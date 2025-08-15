@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. VÍCIOS. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Como é cediço, os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível, para o seu cabimento, a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619, do CPP. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado. A mera irresignação com o entendimento apresentado na decisão não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir que rever os fundamentos utilizados pela Corte de origem, para concluir pelo reconhecimento da participação de menor importância na conduta delitiva, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOSE ARNALDO REBOUCAS FARIAS FILHO e GILSON NOÉ DA SILVA (e-STJ fls. 4147/4150) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fl. 4138):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação dos acusados pelo crime de roubo majorado, como coautores. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pelo reconhecimento da participação de menor importância na conduta delitiva, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. Agravo regimental não provido.
+A parte embargante sustenta que, tanto a sentença proferida pelo magistrado de 1º grau, quanto os acórdãos recorridos, contrariou Lei Federal, artigo 383 do Código de Processo Penal e artigo 29, § 1º, do Código Penal, bem como dispositivos constitucionais, incisos LIV e LV da Constituição da Republica Federativa do Brasil, ao não reconhecer a participação de menor importância do Peticionário (e-STJ fls. 4148).
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. VÍCIOS. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Como é cediço, os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível, para o seu cabimento, a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619, do CPP. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado. A mera irresignação com o entendimento apresentado na decisão não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir que rever os fundamentos utilizados pela Corte de origem, para concluir pelo reconhecimento da participação de menor importância na conduta delitiva, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+VOTO
+Não existem vícios a serem sanados no acórdão embargado.
+Como é cediço, os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível, para o seu cabimento, a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619, do CPP. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado. A mera irresignação com o entendimento apresentado na decisão não tem o condão de viabilizar a oposição dos aclaratórios.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir que rever os fundamentos utilizados pela Corte de origem, para concluir pelo reconhecimento da participação de menor importância na conduta delitiva, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
