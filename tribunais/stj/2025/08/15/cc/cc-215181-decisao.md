@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por GEORGEANA CARNEIRO SEVERINO e VALNEIR SEVERINO APARECIDA, produtores rurais integrantes do GRUPO SEVERINO - EM RECUPERAÇÃO JUDICIAL em face do Juízo de Direito da 2ª Vara Cível, Família e Sucessões, Infância e Juventude de Guaraí - TO e do Juízo de Direito da 1ª Vara Cível de Jataí - GO.
+O conflito foi estabelecido nos autos de Busca e Apreensão de veículo oferecido em garantia por Alienação Fiduciária, (veículo: Ford Ranger XLS, Ano: 2022/2023, cor: PRETA, Placa: SCD3B70, renavam: 01340935004; contrato: nº 2913747177) ajuizada pelo BANCO BRADESCO FINANCIAMENTOS S/A em face dos recuperandos.
+Requer, em sede de liminar, a suspensão da decisão do d. Juízo exequente suscitado e, no mérito, seja declarada a competência do d. Juízo da Recuperação Judicial.
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC). O Ministério Público Federal será ouvido posteriormente, se necessário.
+Ademais, o conflito de competência não está caracterizado.
+Com efeito, o credor titular da posição de proprietário fiduciário de bem móvel ou imóvel não se submete aos efeitos da recuperação judicial, consoante disciplina o art. 49, § 3º, da Lei 11.101/2005, que tem a seguinte redação:
+Art. 49. Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos.
+§ 3º Tratando-se de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis, de arrendador mercantil, de proprietário ou promitente vendedor de imóvel cujos respectivos contratos contenham cláusula de irrevogabilidade ou irretratabilidade, inclusive em incorporações imobiliárias, ou de proprietário em contrato de venda com reserva de domínio, seu crédito não se submeterá aos efeitos da recuperação judicial e prevalecerão os direitos de propriedade sobre a coisa e as condições contratuais, observada a legislação respectiva, não se permitindo, contudo, durante o prazo de suspensão a que se refere o § 4º do art. 6º desta Lei, a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais a sua atividade empresarial.
+No teor do dispositivo transcrito, observa-se que estão submetidos à recuperação judicial todos os créditos existentes na data do pedido, excetuados, entre outros, os créditos garantidos por alienação fiduciária, porque, "em regra, o credor titular da posição de proprietário fiduciário (..) não se submete aos efeitos da recuperação judicial, consoante disciplina o art. 49, § 3º, da Lei 11.101/05" (CC 110.392/SP, desta relatoria).
+Ante o exposto, não conheço do conflito de competência.
+Publique-se.
+EMENTA
