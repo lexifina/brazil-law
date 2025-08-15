@@ -1,0 +1,12 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO AMAPÁ agrava de decisão que inadmitiu o processamento do seu recurso especial, interposto com fundamento na alíena "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça daquele estado, que julgou improcedente as ações penais originárias instauradas.
+Em suas razões, afirma que o caso prescinde do reexame de provas, mas apenas de sua valoração, situação que afasta a incidência da Súmula n. 7 do STJ, notadamente porque não devidamente apreciada a dinâmica dos fatos, "pois os valores das diárias eram recebidos em nome da Administração Pública, já que deveriam ser empregados nas despesas com as viagens institucionais realizadas pelos réus, porém essas viagens não eram comprovadas, seja por meio da expedição de portarias, da emissão de passagens aéreas ou de despesas com o deslocamento" (fl. 2.714).
+Apresentada contraminuta ao agravo em recurso especial (fls. 2.738-2.735), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do recurso, o qual, de fato, ensejaria o reexame do material probatório (fls. 2.899-2.905).
+Decido.
+A decisão de inadmissibilidade proferida na origem não merece reparos. De fato, no especial, o recorrente pretende a condenação dos agravados pelos crimes previstos nos art. 312, caput, c/c art. 71, e art. 288, todos do Código Penal, ao argumento de que estariam fartamente comprovados tais delitos.
+Entretanto, ao contrário do que sustenta o Paquet estadual, destacou o acórdão impugnado, em robusto voto proferido, que as condutas apuradas configurariam mera irregularidade administrativa e, em relação a associação criminosa, que não estaria comprovado o dolo.
+Em situações similares aos dos autos, esta Corte tem compreendido que o reconhecimento de que os agravantes praticaram os delitos pelos quais foram denunciados se mostra inviável pela via eleita, notadamente diante do farto material cognitivo que se lastreou o acórdão, cujo reexame, com todas suas vicissitudes, é obstado pela incidência da Súmula n. 7 do STJ.
+Correta a conclusão do Ministério Público Federal, quando pontuou (fl. 2.905): " a inda que diante da alta expressividade dos valores pagos indevidamente, certo ser inviável a pretensão ministerial de condenação dos acusados sem que se proceda ao reexame fático- probatório, a fim de demonstrar a ocorrência de dolo na espécie".
+À vista do exposto, com fundamento no art. 34, XVIII, "b", conheço do agravo em recurso especial para negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
