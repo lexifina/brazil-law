@@ -1,0 +1,38 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. RESTABELECIMENTO. QUALIDADE DE SEGURADO PROVADA. PENSÃO POR MORTE. GOZO DE BENEFÍCIO POR INCAPACIDADE EM TUTELA ANTECIPADA. ÔNUS DE SUCUMBÊNCIA MAJORADO.
+1. O benefício de pensão por morte está disciplinado nos artigos 74 a 79 da Lei nº 8.213/1991, sendo requisitos para a sua concessão a qualidade de segurado do de cujus e a comprovação de dependência do pretenso beneficiário.
+2. A legislação aplicável à pensão por morte é aquela vigente à época do óbito, em consonância com o princípio tempus regit actum, com guarita no artigo 74, da Lei de Benefícios.
+3. A questão controvertida nos autos versa sobre comprovação da qualidade de segurada da instituidora da pensão, falecida em 26/11/2018.
+4. A Autarquia argumenta com a eficácia positiva da coisa julgada produzida no processo que atestou a preexistência da incapacidade, tendo revogado a tutela anteriormente concedida à instituidora da pensão.
+5. Em sentença de 1º grau, obteve a concessão do benefício de aposentadoria por invalidez, com o deferimento de tutela antecipada, na data de 26/01/2018. O benefício foi implementado em 24/08/2017.
+6. Nos termos de precedente recente da 7ª Turma desta C. Corte Regional, há manutenção da qualidade de segurado durante o gozo de benefício, ainda que seja posteriormente cassado por ordem judicial. Precedentes.
+7. A instituidora da pensão gozou do benefício por incapacidade até seu falecimento, tendo em vista que a antecipação da tutela foi revogada somente no julgamento do recurso interposto pela Autarquia por meio do Acórdão publicado em 12/03/2021.
+8. Apelação do INSS desprovida.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, em síntese, violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta aos arts. 15 da Lei 8.213/91, 296, 297, § único, 300, §3º, 302 e 520, I e II do CPC e arts. 876, 884 e 885 do CC sustentando que "a tutela revogada que cancelou um benefício judicial de caráter provisório não tem o condão de manter a qualidade de segurado, uma vez que a reforma da r. decisão tem efeito ex tunc . Nesse contexto, os efeitos da tutela antecipada, consoante a dicção do art. 296 do CPC, somente subsistem ao longo do trâmite processual e enquanto a decisão concessiva não for revogada ou modificada".
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+"Quanto à qualidade de segurada, verifico em consulta ao sistema do INSS, que a instituidora da pensão se filiou ao regime RGPS em 05/09/2002, na qualidade de segurada, vertendo contribuições até 22/02/2003.
+Regressou ao sistema, na qualidade de segurado facultativo, em 01/07/2016, vertendo contribuições até 31/01/2017. Veio a falecer em 28/11/2018.
+Anteriormente ao seu óbito, a instituidora da pensão ingressou com processo visando a concessão de benefício por incapacidade sob o nº 1000221-78.2017.8.26.0257.
+Em sentença de 1º grau, obteve a concessão do benefício de aposentadoria por invalidez, com o deferimento de tutela antecipada, na data de 26/01/2018. O benefício foi implementado em 24/08/2017.
+Nos termos de precedente recente da 7ª Turma desta C. Corte Regional, há manutenção da qualidade de segurado durante o gozo de benefício, ainda que seja posteriormente cassado por ordem judicial  .. "
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Quanto ao mais, a Jurisprudência dessa Corte é firme no sentido de que o beneficiário mantém a qualidade de segurado no período em que fez jus à percepção de benefício previdenciário implantado por força de tutela de urgência, ainda que essa venha a ser revogada posteriormente.
+Nesse sentido:
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. CONCESSÃO POR TUTELA PROVISÓRIA. REVOGAÇÃO DA MEDIDA. MANUTENÇÃO DA QUALIDADE DE SEGURADO. POSSIBILIDADE.
+1. A controvérsia consiste em saber se a previsão legal de manutenção da qualidade de segurado, contida no art. 15, I, da Lei n. 8.213/1991, inclui os benefícios deferidos por decisão de caráter provisório, futuramente revogada.
+2. Em regra, a tutela antecipada ou de urgência figura como provimento judicial provisório e reversível (art. 273, § 2º, do CPC/1973 e arts. 296 e 300, § 3º, do CPC/2015), pelo que, a rigor, a revogação da decisão que concede o mandamento provisório produz efeitos imediatos e retroativos, impondo o retorno à situação anterior ao deferimento da medida, cujo ônus deve ser suportado pelo beneficiário da tutela.
+3. Como o cumprimento provisório ocorre por iniciativa e responsabilidade do autor, cabe a este, em regra, suportar o ônus decorrente da reversão da decisão precária, na medida em que, a rigor, pode, de antemão, prever os resultados de eventual cassação da medida, escolher sujeitar-se a tais consequências e até mesmo trabalhar previamente para evitar ou mitigar os impactos negativos no caso de reversão.
+4. Hipótese em que essa regra (de total reversibilidade/restituição ao estado anterior), porém, não pode ser aplicada em relação ao segurado em gozo de benefício previdenciário por incapacidade laborativa, concedido por meio de tutela de urgência posteriormente revogada, na medida em que, nesses casos, o ônus (de perder a condição de segurado) não era completamente previsível, evitável ou mitigável.
+5. Não era de todo previsível porque o art. 15, I, da Lei n. 8.213/1991 assegura que, independentemente de contribuições, quem está em gozo de benefício (qualquer que seja a natureza da concessão, porque o dispositivo não diferenciou), mantém a qualidade de segurado, sem limite de prazo, isto é, não seria razoável exigir do segurado de boa-fé considerar que tal previsão expressa fosse afastada automaticamente na ocasião da revogação da medida de caráter precário.
+6. O ônus (de perder a qualidade de segurado) não era mitigável ou evitável, pois enquanto o segurado estivesse em gozo de benefício previdenciário por incapacidade laborativa, concedido por meio de tutela de urgência, não poderia recolher contribuições previdenciárias, uma vez que, em tal condição, não se insere na previsão dos arts. 11 ou 13 da Lei n. 8.213/1991.
+7. "A desconsideração do período de percepção de benefício previdenciário, por força de antecipação de tutela, para efeitos de manutenção da qualidade de segurado, é medida que acarreta situação de difícil solução para o segurado, que estava impedido de verter contribuições previdenciárias na qualidade de segurado obrigatório ou facultativo" (TNU, Pedido de Uniformização de Interpretação de Lei (TURMA) n. 5002907-35.2016.4.04.7215/SC, Rel. Juiz Federal Fábio Cesar dos Santos Oliveira).
+8. Agravo conhecido para negar provimento ao recurso especial (AREsp n. 2.023.456/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/6/2023, DJe de 17/8/2023).
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
