@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar causas específicas de inadmissão do agravo em recurso especial. Incidência, por analogia, da Súmula n. 182 do STJ.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOHNNY APARECIDO COSTA FARIA interpõe agravo regimental contra a decisão de fls. 336-337, proferida pela Presidência deste Tribunal Superior, que não conheceu do agravo em recurso especial ao afirmar não haver o agravante impugnado especificamente "divergência não comprovada, impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário e Súmula 83/STJ" (fl. 336).
+Nesta interposição, a defesa assevera que o presente recurso observa os requisitos de procedibilidade exigidos na legislação, que trouxe todas as fundamentações necessárias para a correta compreensão das controvérsias, as quais foram devidamente prequestionadas, e que não busca o reexame de fatos e provas dos autos.
+Pleiteia, portanto, a submissão do recurso à Turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar causas específicas de inadmissão do agravo em recurso especial. Incidência, por analogia, da Súmula n. 182 do STJ.
+2. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O prazo para interposição de agravo regimental, no âmbito do processo penal, é de 5 dias, de acordo com os arts. 38 da Lei n. 8.038/1990 e 258 do RISTJ. Depois da entrada em vigor da Lei n. 13.105/2015, o prazo para a interposição do agravo regimental continuou sendo regido pelo art. 38 da Lei n. 8.038/1990. No caso em apreço, é tempestivo o agravo regimental porque este recurso foi interposto no quinquídio legal.
+Quanto aos argumentos trazidos pela defesa, a decisão recorrida deve ser mantida por seus próprios fundamentos.
+A inadmissão do recurso especial, fundado no permissivo legal do art. 105, II, "a" e "c", da Constituição Federal, ocorreu com amparo nas Súmulas n. 7, 83 e 568, todas do STJ e 283 do STF, pois não houve a comprovação do dissídio jurisprudencial nos moldes legais.
+Às fls. 300-315, a parte agravante não impugnou especificamente o fundamento da decisão referente à ausência do cotejo analítico. Vale dizer, não apontou as razões para a não incidência da Súmula n. 182 do STJ. A Presidência desta Corte Superior, então, não conheceu do agravo em recurso especial.
+Neste regimental, verifico idêntico vício. A defesa tão somente afirmou, genericamente, não ser necessário o reexame de provas no caso em apreço, o que é contrário à jurisprudência deste Superior Tribunal.
+Confira-se:
+ ..  o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte  ..  7. Agravo regimental desprovido (AgRg nos EDcl no AREsp n. 1.777.813/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 25/3/2021).
+A despeito disso, a admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, bem como em que medida haveria o acórdão recorrido afrontado cada um dos artigos atacados ou a eles dado interpretação divergente da adotada por outro tribunal, o que não se verifica na hipótese dos autos. A deficiência na fundamentação do recurso inviabiliza a exata compreensão da controvérsia, a atrair, portanto, a Súmula n. 284 do STF.
+As diretrizes dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ preveem que, quando o recurso interposto estiver fundado em divergência pretoriana (alínea "c" do art. 105 da Constituição), deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, para demonstrar, de forma clara e objetiva, a suposta incompatibilidade de entendimentos e a identidade entre as demandas.
+Entretanto, o recorrente, no reclamo especial, se limitou a citar breves recortes de decisões, sem realizar o devido cotejo analítico; ou seja, não demonstrou, de forma clara e objetiva, a similitude fática entre as demandas e deixou de evidenciar, assim, que as peculiaridades de cada caso revelariam semelhança, porém com soluções distintas, em inobservância ao entendimento consolidado neste Superior Tribunal.
+Ressalto, ainda, que são inservíveis à demonstração de dissídio jurisprudencial julgados paradigmas proferidos em habeas corpus, mandado de segurança e recurso ordinário, Nessa perspectiva: AgRg no AREsp n. 1.400.990/SP. Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/8/2021).
+Incide, portanto, a Súmula n. 182 do STJ, a inviabilizar o conhecimento do pedido.
+À vista do exposto, não conheço do agravo regimental.
