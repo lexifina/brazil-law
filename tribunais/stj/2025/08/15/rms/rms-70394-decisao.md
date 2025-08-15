@@ -1,0 +1,61 @@
+DECISÃO
+OMAR CORDEIRO DE ARAÚJO interpõe recurso ordinário contra acórdão proferido pelo Tribunal de Justiça de Santa Catarina no Mandado de Segurança n. 002889-15.2019.8.17.0000.
+Consta dos autos que o mandado de segurança foi impetrado "em face de ato praticado pelo Juízo de Direito da 1. 9 Vara Criminal da Comarca de Caruaru/PE, no âmbito do processo criminal nº 800- 05.2017.8.17.0480. Relata a impetrante, em breve síntese, que o ato ilegal praticado pelo Juízo impetrado constituiu no indeferimento de carga dos autos, a despeito da habilitação regular da causídica, em substituição ao patrono anterior, sob alegada ilação do magistrado de que tal pleito seria um estratagema para procrastinar o feito" (fl. 193).
+O Tribunal denegou a segurança pleiteada.
+A parte recorrente sustenta, em síntese, que, "o pedido de habilitação foi protocolado em 04 de abril de 2019, logo após o paciente informar que os outros advogados teriam juntado aos autos a notificação de renúncia.  ..  não se vislumbra qualquer prejuízo no pedido formulado, posto que o Juízo poderia  ..  conceder um tempo considerável para que a nova advogada conhecesse do teor dos autos. Contudo, na presente data de 09 de abril de 2019, apenas 01 dia antes da audiência, o Juízo autoridade coatora não despachou concedendo vista aos autos à defesa e ainda, decidiu por não adiar a audiência nem em adiar apenas o depoimento do paciente" (fl. 232). Conclui que "o pedido defensivo de adiamento e remarcação da audiência ou no mínimo, do depoimento do impetrante, se deu em razão de garantir a ampla defesa, visto que seria realizada por meio da defesa técnica" (fl. 242).
+O Ministério Público Federal opinou pelo desprovimento do recurso, às fls. 362-368.
+Decido.
+Assim o Tribunal de origem fundamentou a denegação da segurança (fls. 202-204):
+Conforme relatou o Juízo a quo, o impetrante constituiu, inicialmente, o advogado Flávio Maurício Santana, que teria se habilitado para acompanhar medidas cautelares anteriormente determinadas e também foi o advogado responsável por apresentar a resposta escrita do impetrante.
+No início da instrução criminal, o impetrante teria constituído 4 advogados, a saber, Davi Ângelo, lsabella Aparecida, Jannce Eclésio e Erik Bernardo. O causídico Flávio Maurício substabeleceu, sem reserva de poderes, ao Dr. Davi Ângelo, que, conforme dito, já possuía procuração nos autos. Daí em diante, o impetrante foi representado, em sucessivos atos instrutórios, pelos causídicos Davi Ângelo e Jannce Eclésio, inclusive em oitivas que foram deprecadas.
+Referidos causídicos haviam sido cientificados presencialmente da audiência de continuação designada para o dia 10/04/2019. Todavia, no dia 01/04/2019, o Dr. Jannce Eclésio juntou petição informando que estava renunciando ao mandato, solicitando a notificação do seu representado pelo Juízo (o que não é adequado, vez que tal notificação é ônus do causídico). Anexou também uma "notificação de renúncia" contemplando todos demais causídicos, porém sem assinatura destes (ato que se reputa, portanto, inexistente).
+A partir deste ponto, visualiza-se com clareza o tumulto processual iniciado pelos causídicos, nas vésperas da audiência de instrução designada.
+Salienta a autoridade judicial impetrada que os advogados Davi Ângelo, Isabella Aparecida e Erik Bernardo não formalizaram de forma escorreita a renúncia dos respectivos mandatos (com razão, porquanto o ato referido foi peticionado sem a assinatura destes).
+No dia 04/04/2019, a advogada do impetrante mo presente Writ, Dr. Pollyanna Queiroz e Silva, juntou petição informando ter sido constituída pelo acusado e requerendo sua habilitação e carga dos autos.
+Há, nesse ponto, que se diferenciar os institutos.
+É direito garantido a todos os advogados devidamente habilitados, nos termos da Súmula Vinculante n 14/STF, o "acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa".
+Tal acesso pode ser feito de diferentes formas, inclusive com a simples leitura em cartório e carga rápida dos autos, para extração de cópias.
+Diferentemente do que alega a impetrante, foi obstada apenas a realização de carga dos fólios, ou seja, a remessa integral dos autos, à posse da nova causidica, pleito realizado muito proximamente a audiência designada para oitiva de testemunha cuia defesa do acusado Cantalice Capistrano havia insistido.
+Note-se que tal petição foi anexada no dia 09/04/2019, um dia antes da audiência designada.
+Nesta toada, tenho que a decisão proferida pela autoridade impetrada não constituiu ilegalidade ou abuso de autoridade, uma vez que não foi obstada a análise dos autos em cartório, mas apenas a carga dos autos, de forma momentânea. Noutro sentido, haveria prejuízo à quarta audiência instrutória a ser realizada no âmbito de processo criminal complexo.
+Como é cediço, o magistrado possui a função de impulsionar o feito e, além de preservar as garantias fundamentais dos sujeitos processuais, zelar pela razoável duração do processo e pela eficiência na realização dos atos processuais.
+Note-se que o tumulto processual em relação à representação do impetrado, uma vez devidamente compreendido, permite concluir que este, à época, possuía também outros causídicos o representando, posto que sua renúncia não se deu com observância dos requisitos legais. Portanto, nenhum prejuízo adveio à sua defesa.
+Outrossim, nenhum prejuízo foi de fato alegado, que não o mero prejuízo processual, o que não condiz com o principio pas de nullite sans grief, sem o qual nenhum ato judicial pode ser invalidado.
+ ..
+Além disso, nos termos do art. 565 do CPP, nenhuma das partes poderá arguir nulidade a que haja dado causa, ou para que tenha concorrido.
+Na hipótese, resta patente que a referida situação foi provocada pelo próprio acusado, ora impetrante, ao resolver modificar sua representação processual às vésperas da audiência instrutória, o que ocorreu, por causa de seus causídicos, de forma atropelada e sem observância ao que dispõe o Art. 265 do CPP: "O defensor não poderá abandonar o processo senão por motivo imperioso, comunicado previamente o juiz, sob pena de multa de 10 (dez) a 100 (cem) salários mínimos, sem prejuízo das demais sanções cabíveis."
+O próprio dispositivo referido ainda aborda a temática da realização de audiência em casos tais, ao preconizar, que a audiência poderá ser adiada se, por motivo justificado, o defensor não puder comparecer. Não sendo este, evidentemente, ocaso dos autos.
+Percebe-se a plena compatibilidade do entendimento adotado pelo pretenso ato coator e também pela decisão recorrida com a jurisprudência desta Corte Superior: constituído novo advogado pelo réu no processo penal, o causídico recebe o processo no estado em que se encontra e não lhe cabe pretender renovar atos já preclusos.
+Dessa forma, sendo constituído às vésperas de audiência de processo complexo, já anteriormente designada, não cabia adiamento da audiência apenas por força da nova constituição de defensor.
+Seguem julgados ilustrativos da mencionada linha jurisprudencial:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+8. A constituição de novo advogado não induz à renovação de atos processuais já preclusos, pois a defesa recebe o processo na fase em que se encontra.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. Não cabe habeas corpus como substitutivo de revisão criminal para discutir nulidade processual após o trânsito em julgado. 2. A alegação de nulidade por cerceamento de defesa deve ser apresentada no momento oportuno, sob pena de preclusão. 3. A constituição de novo advogado não induz à renovação de atos processuais já preclusos".
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; Lei nº 11.343/06, art. 55.Jurisprudência relevante citada: STJ, AgRg no HC 846.952/RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/11/2023; STJ, AgRg no HC 832.975/PR, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 15/8/2023.
+(AgRg no HC n. 934.616/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025, grifei.)
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. ROL DE TESTEMUNHAS. APRESENTAÇÃO EXTEMPORÂNEA. ART. 396-A DO CÓDIGO DE PROCESSO PENAL. PRECLUSÃO TEMPORAL. CONSTITUIÇÃO DE NOVO DEFENSOR. IRRELEVÂNCIA. PRECEDENTES. RECURSO PROVIDO.
+ ..
+5. A posterior constituição de advogado particular não autoriza a renovação de atos processuais já preclusos.
+IV. Dispositivo e tese
+6. Recurso provido.
+Tese de julgamento: "1. A apresentação do rol de testemunhas fora do prazo legal estabelecido no art. 396-A do CPP acarreta preclusão temporal, não configurando cerceamento de defesa. 2. A posterior constituição de advogado particular não autoriza a renovação de atos processuais já preclusos".
+Dispositivos relevantes citados: CPP, art. 396-A. Jurisprudência relevante citada: STJ, AgRg no HC 957.430/GO, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025; STJ, AgRg no AREsp 2.532.469/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJe de 23/12/2024.
+(REsp n. 2.062.162/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025, grifei.)
+Ausente, ademais, qualquer ilegalidade ou teratologia na vedação à carga dos autos na véspera da audiência, carga que poderia inviabilizar os atos cartorários necessários à preparação da assentada.
+Constato, por fim, que no recurso ordinário foram veiculadas alegações de nulidades posteriores à indigitada audiência, as quais não foram objeto da petição inicial do mandado de segurança, de modo que também não podem ser conhecidas nesta via recursal.
+Não se constata, com efeito, teratologia na decisão judicial que indeferiu o adiamento da audiência e a carga dos autos na véspera.
+Nesse contexto, o Plenário do Supremo Tribunal Federal decidiu que "o mandado de segurança somente é admitido em face de decisões jurisdicionais diante da presença concomitante das seguintes circunstâncias: (i) inexistência de meio recursal apto a reverter a decisão judicial desfavorável; (ii) ausência de trânsito em julgado, consoante art. 5º, inc. III, da Lei nº 12.016, de 2009, e (iii) comprovada inequívoca teratologia ou ilegalidade da decisão judicial" (AgR no MS 38.472/RS, relator Ministro André Mendonça, Tribunal Pleno, julgado em 5/6/2023, DJe 4/7/2023 - grifei).
+Essa compreensão assim tem sido adotada nesta Turma:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO DE COISA COMUM. PRESCRIÇÃO. ARQUIVAMENTO DO PROCEDIMENTO INVESTIGATIVO A PEDIDO DO MINISTÉRIO PÚBLICO. PEDIDO DE DESARQUIVAMENTO PELA VÍTIMA VIA MANDADO DE SEGURANÇA. IMPOSSIBILIDADE. AÇÃO PENAL PÚBLICA INCONDICIONADA. HIPÓTESE EXCEPCIONALÍSSIMA DE CABIMENTO. VIOLAÇÃO DOS DIREITOS HUMANOS DA VÍTIMA. NÃO OCORRÊNCIA. ORDEM CONCEDIDA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos das Súmulas n. 267 e 268 do STF, não cabe mandado de segurança contra ato judicial passível de recurso ou correição nem contra decisão judicial com trânsito em julgado.
+2. O Plenário do Supremo Tribunal Federal decidiu que "o mandado de segurança somente é admitido em face de decisões jurisdicionais diante da presença concomitante das seguintes circunstâncias: (i) inexistência de meio recursal apto a reverter a decisão judicial desfavorável; (ii) ausência de trânsito em julgado, consoante art. 5º, inc. III, da Lei nº 12.016, de 2009, e (iii) comprovada inequívoca teratologia ou ilegalidade da decisão judicial" (AgR no MS 38.472/RS, relator Ministro André Mendonça, Tribunal Pleno, julgado em 5/6/2023, DJe 4/7/2023). Precedentes.
+ ..
+6. Agravo regimental do Ministério Público não provido.
+(AgRg no HC n. 848.278/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024, grifei .)
+Assim, diante da inexistência de ilegalidade flagrante, impõe-se o desprovimento do recurso em mandado de segurança.
+Ante o exposto, conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
