@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROBERT MOREIRA MARCIANO DE SOUZA para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o Tribunal de origem não conheceu do agravo em execução interposto pelo recorrente, daí o manejo do presente recurso especial.
+In verbis (fl. 57):
+AGRAVO EM EXECUÇÃO PENAL - JUÍZO DE ADMISSIBILIDADE - AUSÊNCIA DA CERTIDÃO DE INTIMAÇÃO DA DECISÃO AGRAVADA - DOCUMENTO OBRIGATÓRIO - ÔNUS DO RECORRENTE - NÃO CONHECIMENTO.
+- Incumbe ao agravante a indicação das peças dos autos de que pretenda traslado, sendo obrigatória a presença da certidão de intimação da decisão agravada (artigo 587, parágrafo único, do Código de Processo Penal), cuja ausência impede o conhecimento do recurso.
+Embargos de declaração rejeitados (fl. 69).
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação aos artigos 3º do Código de Processo Penal, 932-parágrafo único e 1.017-§3º do Código de Processo Civil.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+Contrarrazões (fls. 85-88).
+O Ministério Público Federal opinou pelo desprovimento do recurso especial (fls. 103-106).
+É o relatório. DECIDO.
+Na espécie, o Tribunal de origem não conheceu do agravo em execução interposto sob a fundamentação de que "a douta Defensora Pública atuante no feito deixou de cumprir o ônus processual (artigo 587, parágrafo único, do Código de Processo Penal) de conferir a formação do instrumento de agravo, do qual deve constar, obrigatoriamente, a certidão de intimação da decisão recorrida, o que não se verifica nos presentes autos. Assim, resta prejudicada a verificação da tempestividade do presente recurso." (fl. 59, grifei).
+Como se vê, o agravo em execução teve seu conhecimento negado em razão da ausência de indicação e conferência, por parte do agravante, de traslado de peça essencial ao exame do recurso (certidão de intimação da decisão recorrida), deixando-se de observar a previsão do artigo 587, parágrafo único, do Código de Processo Penal.
+No entanto, o decidido pelo Tribunal não reflete o entendimento deste STJ:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. AGRAVO EM EXECUÇÃO. RITO DO RECURSO EM SENTIDO ESTRITO. AUSÊNCIA DE TRASLADO DAS PEÇAS INDICADAS PELO AGRAVANTE. NULIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem da ordem de ofício.
+II - A teor da iterativa orientação jurisprudencial desta Corte, aplicam-se ao recurso de agravo em execução, previsto no art. 197 da Lei de Execução Penal, as disposições acerca do rito do recurso em sentido estrito, previstas nos arts. 581 e seguintes do Código de Processo Penal (precedentes).
+III - Tendo sido indicadas as peças que deveriam ser trasladadas para a correta instrução do agravo, não poderia a Corte a quo, alegando a ausência de peças essenciais ao reexame da questão, deixar de apreciar o recurso interposto, ante a incidência, in casu, do disposto nos arts. 587 e seguintes do CPP.
+Habeas Corpus não conhecido. Ordem concedida de ofício para anular o v. acórdão (agravo n. 0067216-90.2014.8.26.0000), determinando a baixa dos autos à Vara de Execuções Penais para que proceda o traslado das peças indicadas pela agravante (arts. 587 e seguintes do CPP), a fim de que seja o feito levado a novo julgamento (HC n. 334.249/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 28/6/2016, DJe de 1/8/2016.)
+PROCESSO PENAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO. RITO. ART. 587 DO CPP. FORMAÇÃO DO INSTRUMENTO. TRASLADO DAS PEÇAS. ATRIBUIÇÃO DO ESCRIVÃO. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. A regra do art. 587 do Código de Processo Penal disserta: "Quando o recurso houver de subir por instrumento, a parte indicará, no respectivo termo, ou em requerimento avulso, as peças dos autos de que pretenda traslado."
+3. Tendo sido indicadas as peças que deveriam ser trasladadas para a correta instrução do agravo, não poderia a Corte a quo, alegando a ausência de peças essenciais ao reexame da questão, deixar de conhecer do recurso interposto. (Precedentes.)
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de que, após a baixa dos autos à primeira instância para traslado das peças indicadas pela Defensoria Pública, o agravo em execução seja julgado pelo Tribunal de Justiça de Minas Gerais (HC n. 323.181/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/3/2016, DJe de 15/3/2016.)
+Ante o exposto, dou provimento ao recurso especial, cassando os acórdãos de origem (inclusive o de embargos de declaração ) e determinando a baixa dos autos à primeira instância para o traslado das peças indicadas pela Defesa e que, posteriormente, o agravo em execução seja julgado pelo Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
