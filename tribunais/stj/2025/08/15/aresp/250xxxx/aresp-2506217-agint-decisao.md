@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por SIQUEIRA CAMPOS IMPORTAÇÃO E DISTRIBUIÇÃO LTDA. contra decisão monocrática da relatoria do Ministro Herman Benjamin, que conheceu do agravo para conhecer em parte do Recurso Especial, apenas em relação à alegação de violação ao art. 1.022 do CPC/15, para, nessa extensão, negar-lhe provimento à motivação, quanto à matéria de fundo, que "a Corte de origem resolveu a controvérsia com base na interpretação de norma constitucional (art. 155, § 2º, IX, "a", da CF) e com apoio em julgados oriundos do Supremo Tribunal Federal, motivo pelo qual o STJ não possui competência para rever a questão."
+Em seu agravo interno, às fls. 2661/2676, o recorrente alega, preliminarmente, a prejudicialidade do agravo em recurso especial, em razão de perda superveniente do seu objeto, por força de decisão proferida pelo STF no bojo da Reclamação nº 60203, fundada em alegado descumprimento de tese vinculante fixada pela Suprema Corte no julgamento do Tema nº 520/RG.
+Afirma, para tanto, que a decisão proferida na aludida Reclamação implica novo julgamento da apelação para fins de aplicação correta da tese fixada no Tema 520/STF, de modo que todos os recursos interpostos contra o acórdão do Tribunal de Justiça perderam o seu objeto.
+Em face do princípio da eventualidade, reitera os argumentos aduzidos no recurso especial, relativos à nulidade por omissão da Corte de origem, à titularidade ativa do ICMS na importação, insistindo que o TJSP aplicou de forma equivocada a tese fixada no Tema 520/STF e a ofensa à coisa julgada.
+As contrarrazões não foram apresentadas (fl. 2686).
+É  o  relatório.
+A  presente  irresignação  perdeu  seu  objeto.
+Conforme se extrai dos autos, o ora recorrente ajuizou, perante o STF, reclamação constitucional (Reclamação nº 60203) contra decisão proferida pela Câmara Especial de Presidentes do Tribunal de Justiça do Estado de São Paulo, no presente feito, em virtude de alegado descumprimento ao que decidido no Recurso Extraordinário com Agravo nº 665.134-RG-QO/MG, Tema nº 520 do ementário da Repercussão Geral.
+E o Ministro André Mendonça julgou procedente a Reclamação (fls. 2636/2648) para, reconhecendo o alegado descumprimento pelo Tribunal de Origem, determinar que o órgão judicial reclamado profira outra decisão, na conformidade do que decidido pela Suprema Corte no julgamento do Tema nº 520/RG, verbis:
+O sujeito ativo da obrigação tributária de ICMS incidente sobre mercadoria importada é o Estado-membro no qual está domiciliado ou estabelecido o destinatário legal da operação que deu causa à circulação da mercadoria, com a transferência de domínio.
+Tendo  em  vista  a procedência da Reclamação nº 60.203/STF, cassando decisão do Tribunal de Justiça de São Paulo , para que outra seja proferida acerca da matéria meritória posta no presente feito, irrefutável  o  reconhecimento  da  perda  de  objeto  do  presente  recurso.
+Ante  o  exposto,  julgo  prejudicado  o  agravo  interno, determinando o retorno dos autos ao Tribunal de Justiça.
+Publique-se.
+Intime-se.
+EMENTA
+AGRAVO INTERNO EM AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL E TRIBUTÁRIO.  SUJEITO ATIVO DO ICMS. TEMA DE REPERCUSSÃO GERAL Nº 520/STF. SUPERVENIÊNCIA  DE  DECISÃO DO STF EM SEDE DE RECLAMAÇÃO DETERMINANDO REJULGAMENTO PELO TRIBUNAL DE ORIGEM. PREJUDICIALIDADE  DO  RECURSO  EM  TRÂMITE  NO  STJ.  AGRAVO  INTERNO PREJUDICADO.
