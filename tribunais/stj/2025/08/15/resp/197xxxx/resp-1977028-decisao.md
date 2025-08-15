@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCAS FERREIRA SANCHES, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o ora recorrente foi condenado, em primeiro grau de jurisdição, à pena total de 03 anos e 08 meses e 10 dias de reclusão, em regime inicial fechado, mais multa de 23 dias-multa, pela prática dos crimes de porte de arma de fogo de uso permitido (art. 14 da Lei n.º 10.826/2003) e receptação (art. 180 do CP).
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação aos artigos 1º e 180, ambos do Código Penal, bem com o art. 14 da Lei n.º 10.826/03.
+Sustenta não ter sido reconhecida a consunção entre as condutas de porte ilegal de arma de fogo e de receptação, eis que esta deveria ser absorvida pela primeira, pois, no caso concreto, demonstrou-se que uma foi meio necessário da outra.
+Argumenta que o momento consumativo da conduta é o mesmo.
+Assere ausência de demonstração de dolo direto quanto ao crime de receptação, motivo pelo qual postula a desclassificação do tipo doloso para o culposo.
+Busca aplicação do concurso formal de crimes ao invés do concurso material.
+Pede o abrandamento do regime inicial de cumprimento de pena.
+Requer a absolvição pela imputada receptação, ou, caso assim não se entenda, a desclassificação para receptação culposa; a soma de penas pelo concurso formal; a fixação do regime aberto; e a substituição da pena privativa de liberdade por restritiva de direitos.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+Contrarrazões (fls. 265-279).
+O Ministério Público Federal opinou pelo conhecimento e não provimento do recurso especial.
+É o relatório. DECIDO.
+De saída, verifica-se que as instâncias ordinárias, soberanas na análise do conjunto fático- probatório, concluíram pela condenação do réu com relação aos delitos de receptação dolosa e de porte ilegal de arma de fogo de uso permitido, afastando o reconhecimento de crime único.
+Como bem salientado pelo Ministério Público Federal, "na hipótese dos autos, a Corte de origem, seguindo a sentença condenatória, concluiu estarem caracterizados os delitos de receptação e porte ilegal de arma de fogo de forma autônoma, porque entendeu ter restado demonstrado (i) que o acusado adquiriu, em estação ferroviária, de pessoa desconhecida, arma de fogo sem documentação, que havia sido objeto de furto, ocorrido em empresa de segurança dias antes; e (ii) que o réu transportava a arma de fogo municiada embaixo do banco do seu carro no momento da abordagem policial" (fl. 298).
+Ora, a tipificação da receptação, ao coibir o comércio de objetos que sejam produtos de crime anterior, visa a tutelar o bem jurídico patrimônio, enquanto o delito de porte ilegal de arma de fogo de uso permitido tem por finalidade proteger a segurança e a paz públicas, ao tentar evitar que pessoas possam vir a ser feridas ou mortas por armas de fogo.
+Trata-se, portanto, à toda evidência, de tipos penais que tutelam bens jurídicos distintos, possuem objetividades jurídicas diversas e são praticados em momentos consumativos diferentes, como se deu no caso, não havendo que se falar em crime único na espécie dos autos.
+A propósito, "a jurisprudência desta Corte Superior de Justiça é no sentido da inaplicabilidade da consunção, pois "a receptação e o porte ilegal de arma de fogo configuram crimes de natureza autônoma, com objetividade jurídica e momento consumativo diversos." (AgRg no R Esp 1927948/AC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/04/2021, D Je 19/04/2021, grifou- se)
+Ademais, decisão em sentido contrário desse Superior Tribunal, fundada na análise sobre o dolo da conduta de receptação, visando desclassificá-la para receptação culposa, como pleiteia o recorrente, demandaria, necessariamente, a incursão no conjunto probatório já analisado pelas instâncias ordinárias, o que, como antes mencionado, é inviável em sede de recurso especial, ante o óbice da Súmula 7 desse Colendo STJ, pela qual: " a  pretensão de simples reexame de prova não enseja recurso especial".
+Por fim, não merece acolhida o pleito de revisão da dosimetria da pena, tendo em vista que "a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que s om ente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017), o que não ocorreu na espécie.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
