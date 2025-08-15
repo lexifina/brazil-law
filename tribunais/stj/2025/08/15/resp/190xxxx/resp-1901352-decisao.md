@@ -1,0 +1,10 @@
+DECISÃO
+Chamo o feito à ordem.
+Em análise dos autos, verifico que a decisão de fls. 160-161 determinou a devolução dos autos ao Tribunal de origem para que o recurso especial ficasse sobrestado até o julgamento do Tema 1076/STJ.
+No entanto, observo que após a publicação do acórdão paradigma, muito embora tenha havido determinação deste Superior Tribunal para que o Tribunal de origem procedesse em conformidade com o procedimento previsto nos arts. 1.039 a 1.041 do CPC/2015, não foi realizado o juízo de adequação pelo Órgão julgador.
+Com efeito, consta dos autos que, após a publicação do acórdão sob a sistemática de recurso repetitivo, a Vice-Presidência do Tribunal de origem examinou a matéria e decidiu que não guarda relação com a orientação fixada no Tema repetitivo, sem que fosse enviado o feito à Turma julgadora para nova apreciação da controvérsia considerando as teses assentadas pelo STJ.
+Nesse sentido, é de rigor a observância do procedimento previsto nos arts. 1.039 a 1.041 do CPC/15. Isso porque, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema de recurso repetitivo ou pelo novo pronunciamento do Tribunal de origem. No mesmo sentido, as seguintes decisões monocráticas: AREsp 1.756.341, Ministro Gurgel de Faria, DJe de 31/08/2023 e EDcl no REsp 2.041.246, Ministro Francisco Falcão, DJe de 15/06/2023.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que seja observado o procedimento dos arts. 1.040 e 1.041 do CPC/2015, conforme previsto em decisão de fls. 160-161 .
+Por fim, registro que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+ EMENTA
