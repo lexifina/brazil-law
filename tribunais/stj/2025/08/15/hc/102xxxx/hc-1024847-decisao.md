@@ -1,0 +1,24 @@
+DECISÃO
+FELIPE BERNARDO DO NASCIMENTO alega sofrer coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de Sergipe, que indeferiu a liminar no HC n. 202500342786.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para manter a prisão preventiva do paciente, na sentença que o condenou à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e 100 dias-multa, como incurso no art. 33, caput e § 4º, da Lei n. 11.343/2006. Afirma que a prisão cautelar é incompatível com o regime fixado para o cumprimento da pena.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+O indeferimento da liminar, no writ originário, foi assim justificado (fls. 338-, grifei):
+O fundamento da questão se baseia na possibilidade de o paciente passar a responder em liberdade, tendo em vista que lhe foi imposto o regime semiaberto.
+A julgadora decidiu sobre a necessidade de manutenção da prisão:
+ ..  Embora tenha sido fixado o regime inicial semiaberto, o Juízo manteve a prisão preventiva, sendo que sua manutenção se deu em consideração à gravidade concreta da conduta delitiva, caracterizada pela expressiva quantidade e diversidade de drogas apreendidas, associadas a instrumentos típicos do comércio ilícito, o contexto de flagrante delito com tentativa de fuga e a constatação, mediante laudo pericial de computação forense, de comunicações relacionadas à mercancia, revelando indícios de dedicação habitual à traficância. Tais circunstâncias demonstram concreto risco à ordem pública e à aplicação da lei penal, aptas a justificar a preservação da segregação cautelar, mesmo após a sentença. Em seu parecer quanto a este item, o Ministério Público entendeu pela manutenção da segregação cautelar do sentenciado. Ressalte-se que, embora tenha sido fixado o regime semiaberto, as circunstâncias acima mencionadas justificam a sua manutenção, em consonância com o entendimento do STF:  .. .
+ ..
+Como se vê, ainda estão presentes os requisitos da prisão e, não é porque foi estabelecido o regime semiaberto que o paciente possui direito incondicional à liberdade.
+Ademais, não foi certificado o trânsito em julgado para a acusação.
+Logo, a prisão se impõe.
+Na hipótese, vê-se que o pedido de urgência foi indeferido por não se identificar, naquele momento processual, ilegalidade na manutenção da prisão cautelar do réu, diante dos indícios de sua dedicação habitual ao tráfico de drogas, evidenciada pelas circunstâncias de sua prisão em flagrante - apreensão quantidade e diversidade de drogas, juntamente com petrechos destinados à sua comercialização - e pelos dados constantes de laudo pericial de computação forense, a indicar a existência de mensagens relacionadas ao comércio espúrio na mídia analisada.
+Além disso, o decisum consignou que, conforme posicionamento do Supremo Tribunal Federal, não há incompatibilidade entre a prisão preventiva e a imposição de regime semiaberto para início do cumprimento da pena, nos casos em que evidenciada a necessidade de manutenção da cautela extrema.
+No mesmo sentido, a jurisprudência desta Corte Superior: "Não há incompatibilidade entre a manutenção da prisão preventiva e a fixação do regime inicial semiaberto, sendo necessária a compatibilização da custódia com o regime imposto" (AgRg no HC n. 1.003.134/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025).
+Diante desse cenário, não constato flagrante ilegalidade na espécie.
+Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
