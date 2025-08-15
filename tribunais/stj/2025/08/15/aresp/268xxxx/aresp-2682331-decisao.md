@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAUDINEI RUBENS DA SILVA contra decisão do Tribunal de origem que inadmitiu o recurso especial em razão de sua intempestividade (fls. 1.052-1.053).
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido, pois seria tempestivo, argumentando o seguinte (fl. 1.057):
+Impende destacar que o REsp não foi admitido por entender que ele foi protocolado fora do prazo, ou seja, em 18/01/2024, sendo que os prazos processuais se encontravam suspensos em virtude do recesso forense , voltando a correr no dia 22/01/2024, conforme Comunicado Conjunto nº. 906/2023 do TJSP e Resolução 535 /2023 do CNJ.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 1.101):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. RECURSO ESPECIAL NÃO ADMITIDO EM RAZÃO DE SUA INTEMPESTIVIDADE. IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE NÃO REALIZADA. ARTIGO 932, III, DO NOVO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. PARECER PELO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação do seguinte fundamento (fls. 1.052-1.053, grifos acrescidos ):
+Consoante se depreende das certidões lavradas a fls. 1003 e 1049, o aresto foi publicado em 12 de dezembro de 2023. Já o recurso foi protocolado apenas aos 18 de janeiro de 2024 (fls. 1008/1022), portanto, fora do prazo legal, nos termos do disposto no § 5º, do artigo 1.003, do Código de Processo Civil, e dos artigos 798 e 798-A, inciso I, ambos do Código de Processo Penal.
+ ..
+Assim, a insurgência deveria ter sido interposta no primeiro dia útil subsequente ao recesso forense, no caso, 08 de janeiro de 2024, em observância à s regras previstas no artigo 798-A, inciso I, do Código de Processo Penal.
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, o fundamento referido, não bastando para tanto que a parte recorrente o mencione, pois, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigiria o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada, conforme relatado. No caso, não houve impugnação quanto ao disposto no art. 798-A, I, do Código de Processo Penal, que excepciona a suspensão do prazo processual entre os dias 20 de dezembro e 20 de janeiro, nos casos que envolvam réus presos, nos processos vinculados a essas prisões.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registra-se que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
