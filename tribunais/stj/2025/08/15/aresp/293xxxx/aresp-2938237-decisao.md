@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MAGNON COMPER, contra acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO COM PEDIDO DE REINTEGRAÇÃO EM CARGO PÚBLICO - PROCESSO ADMINISTRATIVO DISCIPLINAR - EXCLUSÃO DE POLICIAL MILITAR A BEM DA DISCIPLINA APÓS DELIBERAÇÃO PROFERIDA PELO CONSELHO DE JUSTIFICAÇÃO - DECISÃO ADMINISTRATIVA QUE NÃO SE FUNDAMENTA APENAS NA PRÁTICA CRIMINOSA IMPUTADA AO SERVIDOR, MAS, TAMBÉM, NA VIOLAÇÃO À ÉTICA E AO PUNDONOR MILITAR - INDEPENDÊNCIA ENTRE AS INSTÂNCIAS ADMINISTRATIVA E PENAL - VEDADAÇÃO À INCURSÃO NO MÉRITO ADMINISTRATIVO - PRECEDENTES - CONTROLE JUDICIAL DO PROCEDIMENTO ADMINISTRATIVO QUE APLICOU A PENALIDADE - REQUISITOS LEGAIS E CONSTITUCIONAIS OBSERVADOS - INOCORRÊNCIA DE NULIDADES OU ILEGALIDADES - SENTENÇA MANTIDA - VERBA HONORÁRIA MAJORADA (HONORÁRIOS RECURSAIS) - RECURSO NÃO PROVIDO.
+Em suas razões recursais, a parte agravante aponta a violação dos arts. 1.022, II, do CPC e 65 do CPP, argumentando que, embora tenham sido opostos embargos de declaração, o Tribunal de origem deixou de se manifestar expressamente sobre a violação ao art. 65 do Código de Processo Penal e que a absolvição criminal por legítima defesa deve projetar efeitos na esfera administrativa, anulando o ato de exoneração.
+Contrarrazões apresentadas às fls. 16862-16867.
+O recurso foi inadmitido na origem, daí a interposição do presente agravo em recurso especial (fls. 16913-16933).
+Contraminuta apresentada às fls. 16927-16933.
+É o relatório.
+Passo a dec idir.
+Quanto à apontada violação ao art. 1.022, II, não há nulidade por omissão, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls.16809):
+Acerca da alegação de que haveria necessidade de vinculação do entendimento firmado na seara administrativa às sentenças criminais absolutórias referentes aos crimes de homicídio qualificado e fraude processual imputados ao ora apelante, cabe registrar que houve a análise destes pontos pela Administração Militar. Considerou-se que as condutas lhe imputadas são atentatórias ao pundonor militar e ao decoro da classe e, assim sendo, necessariamente se espraiam na seara administrativa, conforme a legislação aplicável.
+Cumpre destacar, a propósito, o seguinte trecho extraído da r. sentença recorrida:
+"Contrario sensu, ainda, a apuração do fato no âmbito criminal não obsta a verificação do comportamento administrativo do militar, eis que possuem fundamentos diversos.
+Certo é que o ilícito administrativo não se confunde com o ilícito penal. Uma vez que a ação do agente público pode perfeitamente ser considerada como falta disciplinar, estando, ou não, subsumido a um tipo penal.
+Na esfera criminal, o militar poderá ser eventualmente punido pela prática de delito tipificado na lei penal militar, visando o interesse da sociedade. Na esfera administrativa, em contrapartida, busca-se apurar se a conduta por ele praticada lhe assegura condições de permanecer nas fileiras da corporação, em atenção aos interesses da Administração Militar"
+Ao Poder Judiciário não cabe intervir na decisão administrativa para além da verificação do cumprimento dos requisitos e garantias legais. Considerando que houve conclusão pela ocorrência de condutas atentatórias ao pundonor militar e ao decoro da classe, não sendo tal afirmação desconexa com a realidade dos fatos, tem-se pela impossibilidade de afirmar que as condutas não poderiam ser enquadradas nos conceitos a elas atribuídos. Assim, a pretensão do apelante de vincular o entendimento firmado na seara administrativa às sentenças criminais absolutórias referentes aos crimes de homicídio qualificado e fraude processual imputados não dá ensejo a qualquer nulidade e/ou revisão da pena aplicada.
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 16838):
+Restou claro no acórdão embargado que não houve ilegalidade no ato administrativo que culminou na exclusão de Magnon Comper, porquanto as condutas lhe imputadas são atentatórias ao pundonor militar e ao decoro da classe e, assim sendo, e,necessariamente se espraiam na seara administrativa, conforme a legislação aplicável assim, a pretensão do apelante de vincular o entendimento firmado na seara administrativa às sentenças criminais absolutórias referentes aos crimes de homicídio qualificado e fraude . processual lhe imputados não dá ensejo a qualquer nulidade e/ou revisão da pena aplicada Fez, pois, abordagem sobre necessidade ou não de vinculação do entendimento firmado na seara administrativa às sentenças criminais absolutórias referentes aos crimes de homicídio qualificado e fraude processual imputados ao apelante.
+Como se vê, a omissão não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Assim, inexiste violação ao art. 1.022, II, do CPC.
+No mais, observa-se que a revisão da conclusão alcançada pela Corte de origem demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em R$ 1.000,00 (mil reais), com fundamento no art. 85, § 11, do CPC.
+Intimem-se.
+EMENTA
