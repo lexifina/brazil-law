@@ -1,0 +1,59 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que não admitiu recurso especial com fundamento na ausência de violação ao art. 1.022 do CPC, na incidência da Súmula 283/STF e da Súmula 7/STJ.
+O acórdão recorrido foi assim ementado:
+APELAÇÃO CÍVEL - DIREITO AMBIENTAL - RESPONSABILIDADE CIVIL OBJETIVA - DANO AMBIENTAL - PROVA - AUSÊNCIA - ÁREA ANTROPIZADA - RECOMPOSIÇÃO INTEGRAL - PROVA PERICIAL - PROJETO TÉCNICO DE RECONSTITUIÇÃO DA FLORA - PRESCINDIBILIDADE.
+- A responsabilidade civil pela reparação dos danos ambientais é objetiva, de acordo com a teoria do risco integral, sendo imprescindível a comprovação do dano e o nexo causal para que surja o dever de indenizar.
+- Comprovada a recomposição do local utilizado como Área de Disposição de Material Excedente e o restabelecimento das condições originárias, não há dano ambiental a ser reparado por meio da elaboração e execução de Projeto Técnico de Reconstituição de Flora.
+Os embargos de declaração foram rejeitados, tendo em vista a ausência de vícios a serem sanados.
+A parte recorrente, com fundamento no art. 105, III, a, da Constituição Federal, alega violação ao art. 1.022, I, II, do CPC; art. 6º, VIII, da Lei 8.078/1990; art. 21 da Lei 7.347/1985, arts. 4º, VII, 14, § 1º, da Lei 6.938/1981, sob os argumentos sintetizados nos termos da seguinte ementa:
+OBJETO DA DISCUSSÃO:
+1 - Imposição de obrigação ambiental para empresa que utilizou área para disposição de material excedente de sua atividade mineradora.
+2 - Indispensabilidade de realização do Projeto Técnico de Reconstituição da Flora (PTRF) para assegurar a proteção integral do meio ambiente.
+3 - Incidência dos princípios do poluidor-pagador e da reparação integral, em matéria ambiental, nos termos dosartigos 4º, VII e 14, §1º, ambos da Lei n.º 6.938/81.
+4 - Hipótese em que houve a inversão do ônus da prova, nos termos do art. 6º, inciso VIII, da Lei nº 8.078/90, e do art. 21, da Lei nº 7.347/95, mas com exame da prova feito de forma favorável à parte empreendedora, desprezando-se o princípio in dubio pro natura.
+TESES RECURSAIS:
+TESE 1 - A empresa empreendedora deve elaborar Projeto Técnico de Reconstituição da Flora (PTRF), para fins de mitigar os impactos causados pelo empreendimento e recompor a flora local, mormente quando as atividades de implantação de aterro impactaram lençol freático por força dos princípios do poluidor-pagador e da reparação integral.
+TESE 2 - Em se tratando de intervenção em área de nascente, sendo objetiva a responsabilidade ambiental (arts. 225, § 3º, CF e 14, § 1º, da Lei 6.938/81), cabe à empresa empreendedora demonstrar, satisfatoriamente, que sua atividade sequer ameaçou a higidez do meio ambiental, ante a incidência dos princípios da prevenção e da precaução.
+TESE 3 - Por força dos princípios da prevenção e da precaução, cabe ao empreendedor demonstrar, satisfatoriamente, que sua atividade não é causadora de qualquer risco para o meio ambiente, notadamente em local de nascente.
+ ..  (fls. 827-828).
+É o relatório.
+Decido.
+De início, "não se verifica a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade" (AgInt no AREsp n. 1.776.359/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+No caso em análise, a apelante sustenta que a sentença impõe obrigação descabida, uma vez que a pretensão de realização do PTRF recai sobre área de pastagem, antropizada, não havendo se falar em reconstituição de área com vegetação nativa.
+A prova pericial produzida na ação civil pública (ordem 110) demonstra a existência de Área de Disposição de Material Excedente (ADME 1310), utilizada pela apelante para receber o material excedente das escavações das obras de instalação do Mineroduto, na qual foi realizado o plantio de pastagem do tipo braquiária, conforme se extrai do laudo pericial:
+ ..
+Não restou comprovado, portanto, que a intervenção promovida pela apelante com a utilização da Área de Disposição de Material Excedente (ADME 1310) tenha ocasionado dano ambiental ou alterado a característica do local, uma vez que a área já era destinada à pastagem antes da intervenção.
+Em sua conclusão, o laudo pericial foi categórico ao afirmar que não houve prejuízo à nascente de água localizada próxima da ADME 1310, nestes termos:
+ ..
+A elaboração de Projeto Técnico de Reconstituição da Flora - PTRF - tem como objetivo mitigar os impactos causados pelo empreendimento e recompor a flora local, razão pela qual a sua realização pressupõe a existência de vegetação nativa no local antes da intervenção.
+Se não há prova da existência anterior de vegetação nativa no local utilizado como Área de Disposição de Material Excedente, ou que se tratasse de APP ou Reserva Legal, uma vez que o local era recoberto por pastagem (braquiária) antes da intervenção, não há como determinar que a apelante elabore e execute Projeto Técnico de Reconstituição da Flora (PTRF) no local.
+A reparação do dano ambiental pressupõe a existência do dano e, no presente caso, a prova pericial foi conclusiva quanto à inocorrência de dano ambiental (fls. 773-775).
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos:
+O acórdão embargado teve como principal objeto a análise da existência de dano ambiental a ser reparado. Em observância ao laudo pericial produzido, acordou-se pela não comprovação de danos causados tanto em relação à nascente, quanto à supressão de vegetação anteriormente existente.
+ ..
+Ressalte-se que a produção do novo laudo pericial (ordem 110) se deu em função da necessidade de maior clareza e determinação da realidade fática, comparando ambos verifica-se que o relatório do CEAT é precário em relação, observa-se o laudo pericial muito mais completo e discriminado. Ademais, para aderir maior certeza o parecer técnico (ordem 119) esclareceu o laudo produzido quanto à existência de dano.
+De tal modo, considerando a suficiência do laudo pericial produzido para o propósito da análise da existência de dano ambiental a ser reparado, decorre que o acórdão embargado no julgamento da apelação não apresentou vícios, tratando de forma devida e esclarecida os pontos debatidos na lide, nestes termos:
+ ..
+A elaboração de Projeto Técnico de Reconstituição da Flora - PTRF - tem como objetivo mitigar os impactos causados pelo empreendimento e recompor a flora local, razão pela qual a sua realização pressupõe a existência de vegetação nativa no local antes da intervenção.
+Se não há prova da existência anterior de vegetação nativa no local utilizado como Área de Disposição de Material Excedente, ou que se tratasse de APP ou Reserva Legal, uma vez que o local era recoberto por pastagem (braquiária) antes da intervenção, não há como determinar que a apelante elabore e execute Projeto Técnico de Reconstituição da Flora (PTRF) no local.
+A reparação do dano ambiental pressupõe a existência do dano e, no presente caso, a prova pericial foi conclusiva quanto à inocorrência de dano ambiental."
+A partir de tais definições, fica evidente que a decisão embargada não apresenta qualquer vício. Do contrário, o embargante pretende, sob a justificativa de ocorrência de omissão, rediscutir o mérito da ação (fls.816-819).
+Quanto ao art. 6º, VIII, da Lei 8.078/1990 e art. 21 da Lei 7.347/1985, impende registrar que os dispositivos legais não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, sobretudo a conclusão sobre a ausência de dano ambiental, razão pela qual incide, no ponto, o óbice da Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. NULIDADE DO LAUDO JUDICIAL. PRECLUSÃO. DEFICIÊNCIA RECURSAL. JUSTA INDENIZAÇÃO. CONTEMPORANEIDADE. REVISÃO. SÚMULA 7 DO STJ.
+ ..
+2. Os dispositivos apontados como violados, nas razões do recurso especial, não contêm comandos normativos para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, no que tange ao reconhecimento da preclusão do direito de alegar a nulidade da prova pericial, circunstância que atrai a incidência da Súmula 284 do STF. 3. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que o valor da indenização deve ser contemporâneo à avaliação do imóvel, tendo como parâmetro o laudo adotado pelo juiz para a fixação do justo preço, sendo irrelevante a data da imissão na posse ou mesmo da avaliação administrativa, exceto nos casos em que há longo período de tramitação do processo e/ou valorização exagerada do bem, de forma a acarretar evidente desequilíbrio no pagamento do que realmente é devido.
+ ..  (AgInt no AREsp n. 2.230.230/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/4/2024, DJe de 18/4/2024).
+Além disso, do cotejo entre a fundamentação do acórdão recorrido e das três teses recursais apresentadas no apelo especial, é possível verificar que a parte recorrente não impugnou especificamente o fundamento do Tribunal de origem segundo o qual "se não há prova da existência anterior de vegetação nativa no local utilizado como Área de Disposição de Material Excedente, ou que se tratasse de APP ou Reserva Legal, uma vez que o local era recoberto por pastagem (braquiária) antes da intervenção, não há como determinar que a apelante elabore e execute Projeto Técnico de Reconstituição da Flora (PTRF) no local".
+Incidência, portanto, da Súmula 283/STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+No mais, decidir de forma contrária, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ALEGAÇÃO DE OFENSA A ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. IMPOSSIBILIDADE DE EXAME, EM RECURSO ESPECIAL. AFASTAMENTO DA ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. RAZÕES DO AGRAVO INTERNO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS ALUDIDOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. AUSÊNCIA DE DANO AMBIENTAL. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+IV. O Tribunal a quo, à luz das provas dos autos, notadamente do laudo pericial, concluiu pela ausência de dano ambiental em razão da realização do empreendimento, além de considerar relevantes a adoção de medidas reparatórias e compensatórias. A alteração de tal entendimento, com a consequente acolhida da pretensão recursal, demandaria reexame de matéria fática, inviável, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes.
+V. Agravo interno parcialmente conhecido, e, nessa parte, improvido (AgInt no REsp n. 1.568.787/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/3/2021, DJe de 19/4/2021).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+Intimem-se.
+EMENTA
