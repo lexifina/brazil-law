@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS N. 7 E 330 DO STJ. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. FUNDAMENTOS NÃO REBATIDOS . DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, " a  falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior" (AgRg no AREsp n. 1.994.936/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 17/12/2021).
+2. Agravo regimental não provido.
+RELATÓRIO
+LUIZ OTAVIO TORRES DE AZEVEDO JUNIOR agrava da decisão de fls. 650-651, em que a Presidência desta Corte Superior não conheceu do agravo em recurso especial, por incidência da Súmula n. 182 do STJ, ao considerar que "a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF, Súmula 330/STJ e Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 330/STJ e Súmula 7/STJ".
+Para tanto, "suplica que  se  reconheça, de ofício, as flagrantes violações constitucionais e infraconstitucionais, para declarar a nulidade absoluta desde o recebimento da denúncia, devendo o juiz singular abrir prazo para o Agravante apresentar resposta à acusação através do patrono formalmente habilitado nos autos" (fl. 659).
+Requer, assim, " a  revisão da decisão agravada para, seja conhecido e provido o presente agravo, para fins de que o AREsp interposto seja processado e julgado e ao final cassada a decisão monocrática" (fl. 660).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS N. 7 E 330 DO STJ. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. FUNDAMENTOS NÃO REBATIDOS . DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, " a  falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior" (AgRg no AREsp n. 1.994.936/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 17/12/2021).
+2. Agravo regimental não provido.
+VOTO
+Depreende-se dos autos que a Corte de origem inadmitiu o apelo especial, considerando que, "ainda que o Recorrente tenha citado os dispositivos legais infraconstitucionais, não demonstrou com a necessária clareza e de forma precisa de que maneira teriam sido vulnerados pelo acórdão desta Corte, o que torna a fundamentação do recurso irrefutavelmente deficiente.  ..  Observa-se, que ainda que assim não fosse, a decisão fustigada está em sintonia com entendimento firmado no Superior Tribunal de Justiça, fundamentando - se inclusive na Súmula 330,  ..  Por fim, constata-se que a pretendida alteração do entendimento desta Corte Estadual, demandaria, necessariamente, novo exame de todo o acervo fático - probatório, fator que impede o seguimento deste recurso, em razão da aplicação da Súmula 7 do Superior Tribunal de Justiça" (fls. 557-558).
+Consoante apontado pela Presidência desta Corte Superior, a parte agravante deixou de impugnar, especificamente, os fundamentos referentes à incidência das Súmulas n. 7 e 330 do STJ.
+Ocorre que, consoante o entendimento consolidado do Superior Tribunal de Justiça, " o s recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.  ..  Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial" (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 30/9/2022, grifei).
+No mesmo sentido:
+ ..
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. O insurgente deixou de infirmar a aplicação da Súmula n. 83 do STJ e não demonstrou ter comprovado a divergência jurisprudencial mediante comparação analítica de acórdãos que teriam por base idênticas premissas fáticas.
+3. Mostra-se inviável, no regimental, buscar corrigir as deficiências do agravo em recurso especial não conhecido por falta de regularidade formal.
+4. Agravo regimental não provido (AgRg no AREsp n. 2.078.173/RJ, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 9/8/2022).
+Assim como na hipótese, " o  agravante não impugnou especificamente os fundamentos da decisão que inadmitiu o recurso especial, limitando-se a reafirmar teses genéricas sobre a necessidade de revisão de provas e revaloração de fatos. Ausente a demonstração de que as questões jurídicas poderiam ser decididas sem o revolvimento do acervo fático-probatório, impõe-se a aplicação da Súmula 182/STJ" (AgRg no AREsp n. 2.732.451/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/2/2025, grifei.)
+À vista do exposto, nego provimento ao recurso.
