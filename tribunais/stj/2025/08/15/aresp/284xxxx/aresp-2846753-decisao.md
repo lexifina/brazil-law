@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NÁDIA CRISTINA SILVA BRAGA contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ e pela ausência de prequestionamento.
+Nas razões do agravo, a defesa argumenta que o recurso especial deveria ter sido admitido (fls. 629-630):
+A Súmula 7 do STJ veda o reexame de matéria fático-probatória no âmbito do Recurso Especial. Todavia, o presente recurso não exige tal análise, limitando-se a discutir a correta interpretação e aplicação de normas federais, especificamente os artigos 155 e 156 do Código de Processo Penal.
+O cerne do recurso reside na violação direta de normas infraconstitucionais, no tocante aos artigos acima descritos. O que se busca é a revisão da aplicação equivocada da legislação pelo Tribunal de Origem, o que é plenamente cabível no âmbito do Recurso Especial.
+A controvérsia não reside em fatos, mas na interpretação jurídica do conceito de que não existem provas contundentes a evidenciar a autoria do crime imputado à Agravante, e na inaplicação de requisitos previstos na legislação, mais precisamente nos artigos 155 e 156 do CPP, conforme mencionado alhures.
+Articula, ainda, que (fl. 630):
+No entanto, tal argumento é insustentável, tendo em vista que o prequestionamento está explícito.
+Todas as questões pertinentes ao recurso foram submetidas ao crivo do Tribunal de Origem. As questões jurídicas levantadas foram devidamente enfrentadas nas instâncias ordinárias, conforme se verifica do acórdão recorrido, onde, em Recurso de Apelação, a Agravante manejou-o com o objetivo de assegurar o pré-questionamento das matérias que seriam debatidas em sede de Recurso Especial.
+Ainda que não tenha havido menção explícita a todos os dispositivos, o prequestionamento implícito é admitido quando a questão jurídica foi analisada pela decisão recorrida.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada (fls. 636-639).
+Parecer do Ministério Público Federal opinando pelo improvimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 660):
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. REVISÃO DE PROVAS. ENUNCIADO Nº 7 DA SÚMULA DO STJ. PRISÃO DOMICILIAR. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. O agravo em recurso especial não deve ser provido, pois a matéria controvertida exige, para o seu deslinde, o revolvimento do conjunto probatório dos autos, o que é vedado em sede de recurso especial. Correta a incidência do enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+2. O pedido de concessão da prisão domiciliar não foi objeto de discussão e decisão na instância precedente. O prequestionamento é requisito essencial para a admissão do recurso especial.
+- Parecer pelo conhecimento e pelo não provimento do agravo em recurso especial.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo obter a absolvição da recorrente.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de superar as conclusões do Tribunal de origem que, com base no acervo probatório constante nos autos, entendeu pela ocorrência dos delitos de tráfico de drogas e de associação para o tráfico.
+Vejam-se, a propósito, os seguintes excertos do acórdão recorrido (fls. 558-563 - grifo próprio):
+De início, verifico que a materialidade do delito está demonstrada pelo Boletim de Ocorrência (doc. Ordem 03), Relatório Circunstanciado de Investigação (doc. Ordem 04), Analise de Conteúdo (doc. Ordem 04), Laudo Toxicológico Preliminar (doc. Ordem 71), bem como a prova oral colhida nos autos.
+Quanto à autoria, entendo que o conjunto da prova produzida também não deixa dúvida quanto à sua ocorrência.
+ ..
+Por outro lado, o policial civil , Maurilio Bueno Prado Júnior, judicialmente, relatou:
+"(..)Que a investigação teve início a partir de denúncias de que o Matheus e a Nádia traficam em Tupaciguara, só que isso já era de conhecimento da Polícia Civil e Militar; que começaram a monitorar as movimentações dos dois; que foram colhidas diversas evidências demonstrando que os dois realizavam a prática reiterada de tráfico de drogas; que foi realizada a interceptação telefônica de ambos; que os áudios apresentados nos relatórios da interceptação evidenciavam a realização do tráfico pelos dois, como negociação com usuários; que Nádia alertava Matheus quando a polícia estava nas proximidades (..); que em vários áudios foi demonstrado o tráfico de drogas por Nádia; que em alguns dos áudios Nádia faz menção à entrega de drogas para alguém, referindo-se ao termo "bolsa"; que o termo se refere a grande quantidade de drogas; que já conhecia a Nádia dos meios policiais; que ela já esteve presa há uns dois anos; (..)" - (destaquei)
+Por pertinente, anoto que o depoimento dos policiais civis possui grande importância na prova do tráfico de drogas, não podendo a sua credibilidade ser esvaziada apenas em razão de sua função, a não ser diante da presença de indícios concretos aptos a desaboná-lo, o que não se demonstrou no presente caso.
+ ..
+Nota-se pelos depoimentos mencionados que não há dúvida sobre o envolvimento do sentenciado na prática do tráfico de drogas.
+ ..
+Assim, não pairam dúvidas de que a apelante praticava o tráfico de drogas, tendo em vista as circunstâncias da apreensão das drogas, bem como o modo que ela estava acondicionada.
+Portanto, balizada a prova produzida em juízo, tenho que a autoria é certa e recai sobre os apelantes, pois não há a menor dúvida acerca da existência e da propriedade dos entorpecentes.
+Relativamente ao delito de associação para o tráfico, a condenação dos acusados, também deve ser mantida.
+ ..
+No caso em questão, a prova demonstra de forma inconteste a existência da societas sceleris entre os réus, que empregaram esforços para estruturar uma associação voltada para o tráfico de drogas, com a devida organização, divisão de tarefas e estabilidade exigida para a configuração do referido delito.
+Consta do Relatório Circunstanciado de Investigação que, a acusada Nadia vendia maconha, cocaína e eventualmente a droga sintética ecstasy a conhecidos e amigos que buscam pessoalmente em sua casa de aluguel, onde reside com um dos filhos, atualmente com 5 anos de idade.
+Isso, pois, há nos autos elementos concretos a indicar que os acusados integravam uma organização voltada para a prática de crimes, hierarquicamente estruturada, com divisão de tarefas e coordenação de cada grau de atuação.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Em situação semelhante à do presente feito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. INTERCEPTAÇÕES TELEFÔNICAS. AUSÊNCIA DE NULIDADE. NECESSIDADE DA MEDIDA. INVASÃO DE DOMICÍLIO. SÚMULA N. 283 DO STF. ABSOLVIÇÃO. IMPOSSIBILIDADE. PENA-BASE. SÚMULA N. 284 DO STF. AGRAVANTE. ART. 62, I, DO CP. FUNDAMENTADA. MINORANTE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Lei n. 9.296/1996, que rege a matéria atinente à interceptação de comunicações telefônicas, dispõe que a medida, para fins de prova em investigação criminal e em instrução processual penal, dependerá de ordem do juiz competente para a ação principal e somente poderá ser decretada se houver indícios razoáveis de autoria ou de participação em infração penal, se a prova não puder ser feita por outros meios e se o fato investigado for punível com reclusão (a mostrar-se uma medida de exceção).
+2. No caso, o Tribunal de origem expôs, de maneira concretamente motivada, a necessidade de interceptação telefônica, à luz dos requisitos constantes da Lei n. 9.296/1996, em especial porque constatado que houve extensa apuração policial após o recebimento da denúncia anônima e antes do requerimento da medida.
+3. A ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência da Súmula 283 do STF.
+4. A condenação se baseou em elementos robustos de prova, inclusive testemunhal e material, sendo vedado, em recurso especial, o reexame fático-probatório (Súmula 7 do STJ).
+5. A ausência de indicação precisa dos dispositivos legais supostamente violados implica deficiência recursal, nos termos da Súmula 284 do STF.
+6. Comprovado o papel de liderança do réu na empreitada criminosa, mostra-se legítima a aplicação da agravante do art. 62, I, do CP.
+7. A Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por restar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+8. Agravo regimental não provido.
+(AgRg no REsp n. 2.058.367/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2025, DJEN de 27/6/2025 - grifo próprio.)
+Por outro lado, o prequestionamento é um dos requisitos de admissibilidade do recurso especial e consiste na necessidade de a questão alegada no recurso ter sido expressamente apreciada pelo Tribunal de origem.
+Não se constata, no acórdão impugnado, a efetiva apreciação da questão relacionada à prisão domiciliar, não tendo sido sequer opostos embargos de declaração, fato processual que impede o conhecimento do recurso especial.
+Sobre o tema, confiram-se as seguintes súmulas:
+Súmula n. 282 do STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula n. 356 do STF: O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Súmula n. 211 do STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A propósito, é pacífico o entendimento do Superior Tribunal de Justiça de que, "para atender ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado" (REsp n. 1.998.033/PB, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2024, DJe de 14/10/2024).
+Ademais, mesmo quando a questão apresentada no recurso especial - e não analisada no acórdão recorrido - envolver matéria de ordem pública, o prequestionamento é essencial para a apreciação do ponto pelas instâncias superiores.
+Por outro lado, não basta que a menção à matéria que se pretende controverter tenha sido mencionada em obiter dictum, ou seja, sem que tenha servido efetivamente de fundamento do acórdão (AgRg no AREsp n. 2.487.930/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024; AgRg no AREsp n. 2.613.339/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024).
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
