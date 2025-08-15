@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de MARIONALDO AZEVEDO DE FARIAS - condenado como incurso nos crimes de tráfico de drogas e associação para o mesmo fim, majorados pela transnacionalidade (Ação Penal n. 0027482-28.2019.4.01.3900) -, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 3ª Vara Federal Criminal da Seção Judiciária do Pará, aos argumentos de que: a) o Tribunal de origem não procedeu à redução proporcional da pena-base do crime de associação para o tráfico de drogas; e b) a aplicação concomitante da majorante da transnacionalidade a ambos os crimes configura bis in idem.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a pena definitiva do paciente foi sensivelmente reduzida pelo Tribunal e não configura bis in idem a aplicação da majorante da transnacionalidade aos crimes de tráfico de drogas e associação para o mesmo fim, por se tratar de delitos autônomos (REsp n. 2.123.764/ES, da minha lavra, Sexta Turma, DJe 2/9/2024).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM MAJORADOS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. REDUÇÃO DA PENA-BASE EM RAZÃO DO AFASTAMENTO DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS E APLICAÇÃO DA MAJORANTE DA TRANSNACIONALIDADE A AMBOS OS CRIMES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
