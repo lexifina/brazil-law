@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HABITASUL CRÉDITO IMOBILIÁRIO S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 11/2/2025.
+Concluso ao gabinete em: 7/5/2025.
+Ação: usucapião ajuizada por RITA ELIS DA SILVA PINTO, em face da agravante, na qual sustenta que "mantém a posse tranquila e sem oposição, por parte da proprietária do imóvel, desde o ano 1992; no local, a parte autora realizou benfeitorias necessárias, úteis e voluptuárias; o imóvel é destinado à moradia da unidade familiar; o tempo da posse e as circunstâncias da utilização do imóvel conferem a posição jurídica da usucapião."
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. USUCAPIÃO (BENS IMÓVEIS). AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. REQUISITOS PRESENTES.
+O PEDIDO DE USUCAPIÃO, POR CONSTITUIR FORMA ORIGINÁRIA DE AQUISIÇÃO DE PROPRIEDADE, DEVE VIR ACOMPANHADO DE TODOS OS REQUISITOS LEGAIS AUTORIZADORES. PARA TANTO, HÁ QUE ESTAR PRESENTE A PROVA DA POSSE, ELEMENTO ESSENCIAL AO RECONHECIMENTO DO DIREITO PLEITEADO, DE FORMA ININTERRUPTA E COM ÂNIMO DE DONO.
+CASO EM QUE A PROVA PRODUZIDA É SUFICIENTE A PROPICIAR JULGAMENTO FAVORÁVEL À PARTE AUTORA, ANTE A COMPROVAÇÃO DOS REQUISITOS LEGAIS PARA AQUISIÇÃO ORIGINÁRIA DA PROPRIEDADE.
+HIPÓTESE EM QUE NÃO HÁ QUALQUER INDICATIVO SEGURO DE QUE, NO PERÍODO DE POSSE DA PARTE AUTORA, TENHA HAVIDO ALGUMA FORMA DE OPOSIÇÃO PELA PROPRIETÁRIA REGISTRAL OU TERCEIRO, EM ESPECIAL PORQUE INEXISTENTE PROVA DE QUE TENHA, A PARTE DEMANDANTE, CONSTITUÍDO O POLO PASSIVO OU ATIVO DE QUALQUER AÇÃO ANTERIOR QUE TIVESSE COMO CAUSA DE PEDIR O IMÓVEL OBJETO DO PEDIDO DE USUCAPIÃO.
+EXISTÊNCIA DE GARANTIA HIPOTECÁRIA REGISTRADA NA MATRÍCULA DO IMÓVEL USUCAPIENDO. IRRELEVÂNCIA, POIS SENDO, A USUCAPIÃO, MODO ORIGINÁRIO DE AQUISIÇÃO DA PROPRIEDADE, RESTA INVIABILIZADA A MANUTENÇÃO DE QUALQUER GRAVAME QUE PORVENTURA EXISTA ANTERIORMENTE NA MATRÍCULA DO IMÓVEL.
+RECURSO DE APELAÇÃO PROVIDO. UNÂNIME. (e-STJ fl. 507)
+Recurso especial: sustenta violação dos arts. 373, II e 1.022 do CPC; 1.200, 1.203 e 1.238 do CC, bem como dissídio jurisprudencial. Alega em síntese: i) "a posse exercida é injusta desde então e não pacífica, tendo as ações judiciais referidas nos autos sido propostas quando do ingresso do recorrido no imóvel, sendo este portanto, sabedor da litigiosidade da coisa"; ii) "a recorrente demonstrou a existência de fatos impeditivos e extintivos do direito do autor, comprovando que a área e a posse eram litigiosas, seja pelo ingresso da Execução, pela Reintegração de Posse da Cooperativa e pela existência dos Embargos de Terceiros, onde os antigos ocupantes e invasores, que celebraram contrato de compra e venda com o recorrido, também figuraram lá como autores"; iii) "o autor somente fez prova de posse direta do imóvel, mas não do "animus domini". A parte passou a usar o imóvel em decorrência de suposta aquisição sem demonstrar que direitos teriam sido adquiridos; e lhe cabia fazer prova da transmutação para afetar a causa originária, ônus do qual não se desincumbiu."
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1022 do CPC
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido teria violado o art. 1022 do CPC. A deficiência na fundamentação impede a perfeita compreensão da controvérsia, o que enseja o não conhecimento do recurso, nos termos da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no tocante à conclusão de que "a prova produzida é suficiente a propiciar julgamento favorável à parte autora, ante a comprovação dos requisitos legais para a aquisição originária da propriedade", exige o reexame de fatos e provas, procedimento que é vedado pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º do CPC e 255, § 1º, do RISTJ.
+Ademais, da leitura das razões do recurso especial, que, quanto à alegada divergência jurisprudencial, a agravante não indicou qualquer dispositivo infraconstitucional ao qual se teria dado interpretação divergente, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Não é possível o conhecimento do recurso especial fundado no dissídio jurisprudencial na hipótese em que não há a devida indicação de qual dispositivo de lei teria sido ofendido. Isso porque o entendimento do Superior Tribunal de Justiça preconiza que o apelo excepcional sustentado na dissidência pretoriana depende do apontamento do artigo de lei violado, sob pena de incidência da mencionada súmula, como ocorreu na hipótese. No mesmo sentido: AgInt no AREsp 2.190.736/RJ, Terceira Turma, DJe de 15/3/2023, AgInt no AREsp 2.159.894/SP, Quarta Turma, DJe de 31/3/2023.
+Acrescente-se ainda, que a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 15 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. VIOLAÇÃO DO ART. 1022 DO CPC. ALEGAÇÃO GENÉRICA DE OFENSA DE OFENSA À LEI. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA 07/STJ. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de usucapião.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Alterar o decidido no acórdão impugnado, no tocante à conclusão de que "a prova produzida é suficiente a propiciar julgamento favorável à parte autora, ante a comprovação dos requisitos legais para a aquisição originária da propriedade", exige o reexame de fatos e provas, procedimento que é vedado pela Súmula 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. A incidência da Súmula 7 desta Corte, acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional.
+7. Agravo conhecido. Recurso especial não conhecido.
