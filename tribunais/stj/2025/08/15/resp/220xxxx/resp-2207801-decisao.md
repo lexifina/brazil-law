@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MUNICIPIO DE SEABRA, contra acórdão assim ementado:
+CONSTITUCIONAL. FINANCEIRO. INCENTIVOS, BENEFÍCIOS E ISENÇÕES FISCAIS. TEMAS 653 E 1.187 DA REPERCUSSÃO GERAL. JUÍZO DE ADEQUAÇÃO.
+1. O Supremo Tribunal Federal, ao julgar o Recurso Extraordinário 705.423/SE, sob a sistemática de repercussão geral, fixou a seguinte tese: "É constitucional a concessão regular de incentivos, benefícios e isenções fiscais relativos ao Imposto de Renda e Imposto sobre Produtos Industrializados por parte da União em relação ao Fundo de Participação de Municípios e respectivas quotas devidas às Municipalidades" (Tema 653).
+2. A seu turno, no julgamento do Recurso Extraordinário 1.346.658, sob igual regime vinculante, enunciou tese jurídica de ser "inconstitucional a dedução dos valores advindos das contribuições ao Programa de Integração Nacional - PIN e ao Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste - PROTERRA da base de cálculo do Fundo de Participação dos Municípios - FPM" (Tema 1.187).
+3. Nesse contexto, o julgamento do recurso de apelação, ao considerar correta a dedução dos valores de contribuição para o PIN, o PROTERRA e demais Fundos como o FINOR, FINAM, FUNRES e FCEP da base de cálculo do FPM, se colocou em descompasso com a tese enunciada no Tema 653.
+4. Em juízo de adequação, recurso de apelação parcialmente provido (fls. 288-289).
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte agravante alega que "A Oitava Turma, ao proferir decisão, condenou as partes a sucumbência recíproca. Mas considerou que o Município Recorrente sucumbiu em 4 das 6 rubricas" (fl. 328), mas que, em verdade, "não há que se falar em pedido parcialmente procedente, posto que o pedido se refere ao PIN e ao PROTERRA e aos demais incentivos fiscais a estes relacionados. Veja-se que ao decidir afastar o abatimento dos incentivos PIN e PROTERRA do cálculo dos repasses ao FPM, o Douto Julgador deu total procedência ao pedido requerido na inicial" (fl. 329). Acrescenta que "A aplicação da base de cálculo dos honorários tem que ser igual a ambas as partes" (fl. 330).
+Contraminuta apresentada.
+É o relatório.
+Decido.
+O acórdão recorrido assim consignou:
+" ..  O Supremo Tribunal Federal, ao julgar o Recurso Extraordinário 705.423/SE, sob a sistemática de repercussão geral, firmou entendimento de que a expressão "produto da arrecadação", inscrita no inciso I do art. 158 da Carta Constitucional, não permite interpretação no sentido de se incluir na base de cálculo do Fundo de Participação dos Municípios dos benefícios e incentivos fiscais realizados pela União Federal em relação a tributos federais. A ementa do julgado, abaixo transcrita, dá exata dimensão do quanto nele restou decidido:
+ ..
+Portanto, inexiste inconstitucionalidade nas desonerações sobre IR e IPI em relação ao Fundo de Participação de Municípios e respectivas quotas devidas às Municipalidades, ante o previsto nos arts. 158 e art. 159 da Constituição Federal.
+Por outro lado, o Decreto-Lei nº 1.106, de 16 de junho de 1970, criou o Programa de Integração Nacional - PIN, alterando a legislação do IRPJ na parte referente a incentivos fiscais e adotou outras providências, determinando que:
+ ..
+Da mesma forma, foi instituído o Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste (PROTERRA), por meio do Decreto-Lei nº 1.179, de 06 de julho de 1971, tendo sido alterada a legislação do IR relativa a incentivos fiscais e adotadas outras providências, dispondo que:
+ ..
+Dessa forma, PIN e PROTERRA e demais programas similares são destinados à integração nacional, ao estímulo do desenvolvimento das regiões compreendidas nas áreas de atuação da SUDAM e da SUDENE, buscando o crescimento integrado do país, por meio de recursos provenientes, dentre outros, do sistema de incentivos fiscais.
+De acordo com o disposto no Decreto-Lei nº 1.106, de 16 de junho de 1970, e no Decreto-Lei nº 1.179, de 06 de julho de 1971, os recursos do PIN e do PROTERRA serão provenientes de dotações orçamentárias, contribuições, transferência de recursos, entre outras fontes arrecadadas pela UNIÃO.
+O Supremo Tribunal Federal, no julgamento da ACO 758/SE, realizado por seu órgão Plenário, decidiu pelo reconhecimento da impossibilidade de subtração dos valores destinados aos Programas PIN e PROTERRA das parcelas devidas pela União aos Estados:
+ ..
+Além disso, o Supremo Tribunal Federal, ao julgar o Recurso Extraordinário nº 1346658/RG, sob a sistemática de repercussão geral, firmou entendimento no sentido de que "É inconstitucional a dedução dos valores advindos das contribuições ao Programa de Integração Nacional - PIN e ao Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste - PROTERRA da base de cálculo do Fundo de Participação dos Municípios - FPM":
+ ..
+Assim, foi reconhecida a constitucionalidade nas desonerações sobre o IR e o IPI, em relação ao Fundo de Participação de Municípios - FPM e respectivas quotas devidas às Municipalidades, e a inconstitucionalidade da dedução dos valores do PIN e do PROTERRA da parcela do FPM. Portanto, à luz dessa orientação da Suprema Corte, pode-se concluir que essa garantia se aplica aos demais Fundos como o FINOR, FINAM, FUNRES e FCEP.
+Diante dessa constatação, o repasse do FPM, para a cota parte do Município autor, não deve sofrer dedução das parcelas referentes ao PIN, PROTERRA, FINOR, FINAM, FUNRES, FCEP, de forma que determino a exclusão referente às parcelas vincendas e a restituição/pagamento das parcelas vencidas, observada a prescrição quinquenal. As parcelas deverão ser atualizadas monetariamente e com incidência de juros, nos termos do Manual de Cálculos da Justiça Federal.
+Honorários, em atenção às condições estabelecidas no § 2º do art. 85 do CPC, fixados nas alíquotas mínimas para as faixas indicadas nos incisos do § 3º, sobre o proveito econômico.
+Ante o exposto, dou provimento ao recurso de apelação" (fls. 180-184, grifo nosso).
+É certo que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas sim restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim sendo, observa-se que as teses levantadas em recurso especial não foram debatidas na Corte de origem.
+Nesse contexto, destaco que a simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelas instâncias predecessoras, obsta o conhecimento do recurso especial, por falta de prequestionamento, seja a questão de ordem pública ou não.
+Assim, dada a indevida inovação recursal, a matéria não chegou a ser apresentada à Corte local, nem mesmo nos embargos de declaração opostos. Dessa feita, não pode, tampouco, ser examinada em sede de especial por carência de necessário prequestionamento.
+Ademais, ainda que assim não fosse (apenas a título ilustrativo), a análise das teses alegadas em recurso especial (revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima e utilização de parâmetros diversos para a condenação de autor e réu ao pagamento da verba honorária), ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ. Nesse sentido: AgInt no REsp 1987038 / RS; 1ª Turma, DJe 20/10 /2022; AgInt no REsp 1.418.989/RS, 4ª Turma, DJe 01/10/2020; AgInt no AREsp 1.496.524/MS, 3ª Turma, DJe 18/11/2019; AgInt no AREsp 1.173.934/SP, 3ª Turma, DJe 21/09/2018; EDcl no AgRg no AREsp 151.072/SP, 4ª Turma, DJe 11/09/2018.
+Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 211 do STJ.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
