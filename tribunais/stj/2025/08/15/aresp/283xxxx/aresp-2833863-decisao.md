@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CONSTRUTORA CANADA LTDA EM RECUPERACAO JUDICIAL, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/12/2024.
+Concluso ao gabinete em: 14/02/2025.
+Ação: rescisão contratual, exibição de documentos e compensação por danos morais, ajuizada por FERNANDA BRUNO DE ALMEIDA e MAURICIO OTAVIO MENESES E SILVA, em face da agravante, em razão de atraso na entrega de imóvel objeto de contrato de compra e venda celebrado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos, para declarar rescindido os contratos firmados entre as partes, por culpa exclusiva da agravante; condenar a agravante a restituir, de forma imediata e em parcela única, acrescidas de correção monetária pelo INPC desde cada desembolso e juros de mora de 1% ao mês a partir da citação, as quantias efetivamente pagas pelos imóveis, nelas incluída a comissão de corretagem/sinal/entrada; condenar a agravante ao pagamento da multa penal no valor correspondente a 10% das quantias pagas; e indeferir o pedido de compensação por danos morais.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE RESCISÃO CONTRATUAL C/C EXIBIÇÃO DE DOCUMENTOS E INDENIZAÇÃO POR DANO MORAL. ATRASO IRRAZOÁVEL NA ENTREGA DO IMÓVEL. INADIMPLEMENTO PELO CONSTRUTOR. RESOLUÇÃO. DEVOLUÇÃO AO STATUS QUO ANTE. RESTITUIÇÃO INTEGRAL DO QUANTO PAGO PELO CONSUMIDOR. SÚMULA 543 DO STJ. INSURREIÇÃO ADESIVA PLEITEANDO INDENIZAÇÃO POR DANO MORAL. INTERPOSIÇÃO SEM PROCURAÇÃO NOS AUTOS. NÃO CONHECIMENTO. SENTENÇA MANTIDA.
+I - Uma vez que o contrato particular de compromisso de compra e venda de imóvel não foi registrado no respectivo Registro Cartorário, não se aplica à relação negocial a tese firmada pelo STJ no Tema 1.095, mas sim a Súmula 543 de sua jurisprudência, que prevê a aplicação do CDC, com o direito do promissário comprador à restituição integral do quanto pagou, em parcela única, em caso de inadimplemento pelo promitente vendedor.
+II - Diante do incontroverso atraso irrazoável do promitente vendedor na entrega do imóvel, deve restar procedente o pleito, formulado pelo promissário comprador, de resolução do contrato, restituindo-se as partes ao status quo ante, indenizadas as perdas e danos decorrentes do inadimplemento (cf. art. 475 do CC e art. 12 do CDC).
+III - Da resolução do contrato decorre, ainda, que a parte inadimplente arque com os prejuízos causados à outra parte (art. 475 do CC), inclusive as verbas sucumbenciais, nos termos do princípio da causalidade.
+IV - Não merece cognição o Recurso Adesivo interposto pela parte autora, ex vi do art. 76, § 2º, inc. I, do CPC, uma vez que, intimada para regularizar sua representação processual, ante a ausência de procuração outorgada ao procurador postulante, não o fez no prazo assinalado.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. RECURSO ADESIVO NÃO CONHECIDO.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 49, §2º, da Lei 11.105/05, 395 do CC e 85, §10, do CPC. Sustenta que: i) não descumpriu o contrato, pois a decisão do juízo universal homologou o plano de recuperação judicial, que prevê a prorrogação do prazo de entrega do empreendimento; ii) o desfazimento do contrato dá ao comprador o direito à restituição das parcelas pagas, porém não em sua integralidade, em face das despesas realizadas pela vendedora com propaganda, custos administrativos e assemelhados; iii) considerando que os agravados foram quem efetivamente deram causa à ação, devem arcar integralmente com os ônus sucumbenciais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 49, §2º, da Lei 11.105/05, 395 do CC e 85, §10, do CPC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao descumprimento contratual pela agravante e à responsabilidade pelo pagamento das verbas sucumbenciais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da restituição integral das parcelas pagas pelo promitente comprador
+O TJ/GO, ao decidir pela restituição integral dos valores pagos pelos agravados, alinhou-se ao entendimento do STJ no sentido de que, na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao CDC, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor (Súmula 543, 2ª Seção, DJe de 31/8/2015).
+Logo, o recurso especial não merece provimento.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% do valor atualizado da condenação (e-STJ fl. 767) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL, EXIBIÇÃO DE DOCUMENTOS E COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. RESCISÃO CONTRATUAL POR CULPA DO PROMITENTE VENDEDOR. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS.
+1. Ação de rescisão contratual, exibição de documentos e compensação por danos morais em razão de atraso na entrega de imóvel objeto de contrato de compra e venda celebrado entre as partes.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao CDC, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor (Súmula 543/STJ).
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
