@@ -1,0 +1,19 @@
+DECISÃO
+MARCOS GABRIEL ANDRADE FARIAS agrava de decisão que inadmitiu o recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, na Apelação Criminal n. 5008698-03.2024.8.24.0008.
+O agravante foi condenado a pena de 8 anos e 10 meses, em regime fechado, mais multa, pela prática das condutas descritas nos arts. 33, "caput", da Lei n. 11.343/2006 e 16, § 1º, inciso IV, da Lei n. 10.826/03 (fls. 339-357).
+Em acórdão que julgou apelação, o Tribunal de origem reduziu a pena do art. 33, "caput", da Lei n. 11.343/2006, totalizando 8 anos, 3 meses e 10 dias (fls. 463-464).
+Nas razões de recurso especial, a defesa alega afronta ao art. 67 do Decreto-lei nº 2.848 (fls. 497-510).
+O Ministério Público Federal apresentou parecer pelo conhecimento e desprovimento do agravo (fls. 574-583).
+Decido.
+O agravo é tempestivo e impugnou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O recurso especial, todavia, não merece conhecimento.
+O Tribunal de origem inadmitiu o recurso especial sob a alegação de ausência de cotejo analítico que respaldasse a fundamentação do recorrente, qual seja, a alínea "c", do art. 105, III, da CF. Conforme se extrai (fl. 530):
+Em que pese a indicação da alínea "c" do permissivo legal constitucional na petição de interposição do Recurso Especial, verifica-se que não foram atendidos os requisitos previstos no art. 1.029, §1º, do CPC/2015, e art. 255, §1º, do RISTJ, pois a parte recorrente não procedeu ao necessário cotejo analítico, tampouco demostrou a similitude fática entre as decisões supostamente dissonantes, além de não comprovar a suposta divergência mediante certidão ou cópia autenticada dos acórdãos paradigmas ou citação de repositórios oficiais, circunstância que igualmente inviabiliza a ascensão do reclamo.
+O Ministério Público Federal também se pronunciou pelo não conhecimento do recurso especial. Vejamos (fl. 578):
+Contudo, ao contrário do alegado no recurso, constata-se que o agravante efetivamente não comprovou o dissídio jurisprudencial apontado em seu recurso especial, pois deixou de juntar cópias dos acórdãos paradigmas ou a citação do repositório oficial em que foram publicados, bem como deixou de realizar o necessário cotejo analítico para a demonstração da divergência, razão pela qual não foi cumprido o requisito exigido pelas normas do art. 1.029, §1º, do CPC e do art. 255, § 1º, do RISTJ.
+Conforme disposição dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, quando o recurso interposto estiver fundado em divergência pretoriana (alínea "c" do art. 105 da Constituição), deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, para demonstrar, de forma clara e objetiva, a suposta incompatibilidade de entendimentos e a similitude fática entre as demandas.
+Entretanto, o recorrente se limitou citar trechos de julgados, sem, no entanto, realizar o devido cotejo analítico; ou seja, não demonstrou, de forma clara e objetiva, a similitude fática entre as demandas, deixando de evidenciar, assim, que as peculiaridades de cada caso revelariam a identidade fática, porém com soluções distintas, em inobservância ao entendimento consolidado neste Superior Tribunal.
+Ressalto, por oportuno, que "A demonstração do dissídio jurisprudencial não se contenta com meras transcrições de ementas, tal como ocorreu no presente caso, sendo absolutamente indispensável o cotejo analítico, de sorte a demonstrar a devida similitude fática entre os julgados confrontados" (AgRg no REsp n. 1.971.992/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 29/3/2023 ).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
