@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de cobrança ajuizada por MAPFRE SEGUROS GERAIS S.A. em face de ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A alegando que firmou com Rosemari da Silva Tramontin e outros, contratos de seguros, se obrigando a indenizar os segurados pelos danos causados aos seus equipamentos. Requer, regressivamente, o pagamento da indenização realizada aos segurados, em razão da queima de equipamentos segurados decorrente de oscilação de energia.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta por MAPFRE SEGUROS GERAIS S.A., nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PEDIDO DE RESSARCIMENTO DA SEGURADORA CONTRA CONCESSIONÁRIA DE ENERGIA - EQUIPAMENTOS DANIFICADOS - DESCARGA ATMOSFÉRICA - CASO FORTUITO - CONSTATAÇÃO QUANTO A QUATRO SEGURADOS - CAUSA EXCLUDENTE DO DEVER DE INDENIZAR - QUANTO AOS DEMAIS SEGURADOS, OSCILAÇÃO DE ENERGIA CONSTATADA - QUEIMA DE EQUIPAMENTOS ELETRÔNICOS - NEXO CAUSAL DEMONSTRADO - DEVER DE INDENIZAR - RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA - REDISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA - SENTENÇA REFORMADA PARA JULGAR PARCIALMENTE PROCEDENTES OS PEDIDOS FORMULADOS NA INICIAL - RECURSO PARCIALMENTE PROVIDO.
+Em sendo constatado que os danos sofridos com relação a quatro segurados se deram em virtude da ocorrência de caso fortuito ou força maior (descarga atmosférica - raios), que é causa excludente da responsabilidade quanto ao dever de indenizar, descabido o ressarcimento pleiteado.
+Quanto aos demais segurados, demonstrado o nexo de causalidade entre a atividade da concessionária de energia elétrica e os danos ocorridos nos equipamentos dos demais segurados, em razão de defeito no fornecimento de energia elétrica (oscilação de energia), surge o dever de ressarcimento da seguradora pelos valores desembolsados aos segurados." (fls. 1.075/1.076, e-STJ).
+Decisão de admissibilidade do TJ/MT: inadmitiu o recurso especial em razão do seguinte fundamento:
+i) incidência da Súmula 7 do STJ no tocante à alegação de ofensa aos artigos 2º e 14 do CDC e ao artigo 786 do CC, cuja controvérsia se refere a indevida inversão do ônus da prova; e
+ii) incidência da Súmula 7 do STJ quanto à alegação de violação do artigo 373, II, do Código de Processo Civil atinente à discussão se há ou não responsabilização pela conduta da concessionária de energia no evento danoso.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz:
+i) a inaplicabilidade da Súmula 7 do STJ quanto aos artigos 2º e 14 do CDC e ao artigo 786 do CC, relativamente à indevida inversão do ônus da prova.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice:
+i) incidência da Súmula 7 do STJ no tocante à alegação de violação do artigo 373, II, do Código de Processo Civil atinente à discussão se há ou não responsabilização pela conduta da concessionária de energia no evento danoso.
+Cumpre esclarecer que na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe de reexame de fatos e provas, avaliadas pelas instâncias ordinárias na hipótese vertente, o que não foi feito.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 3% (três por cento) sobre o valor da condenação, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
