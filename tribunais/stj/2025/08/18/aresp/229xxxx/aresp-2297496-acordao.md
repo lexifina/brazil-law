@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CRÉDITO RURAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. ALONGAMENTO DA DÍVIDA. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. REEXAME DE PROVA. SÚMULA 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca do atendimento aos requisitos por parte dos devedores para o alongamento da dívida rural encontra óbice na Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por LUIS FERNANDO DA SILVEIRA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal assim ementado:
+"APELAÇÃO CÍVEL. PROCESSO CIVIL. MULTA CONTRATUAL. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. RECURSO CONHECIDO EM PARTE. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA REJEITADA. CÉDULA RURAL PIGNORATÍCIA E HIPOTECÁRIA. ALONGAMENTO DO CONTRATO E PRORROGAÇÃO DA DATA DE VENCIMENTO PRERROGATIVA DO DEVEDOR. NECESSIDADE DE PREENCHER OS REQUISITOS LEGAIS PARA USUFRUIR DO BENEFÍCIO. HONORÁRIOS MAJORADOS.
+Incabível o conhecimento da apelação em relação às matérias não suscitadas na origem (petição inicial e contestação), por se tratar de inovação recursal, sob pena de supressão de instância e de violação ao duplo grau de jurisdição, na forma do disposto no art. 141 do Código de Processo Civil.
+Afastada a preliminar de nulidade da sentença por cerceamento de defesa quando foi oportunizada dilação probatória nos autos, inclusive com deferimento da oitiva de testemunha. Inócua a juntada aos autos de extratos bancários relativos ao período de quatro anos, por ser documentação extensa e desnecessária ao deslinde da controvérsia, mormente quando o devedor não afirma ter efetuado a quitação do débito.
+O alongamento do contrato e prorrogação da data de vencimento da Cédula Rural Pignoratícia e Hipotecária é prerrogativa do devedor. Contudo, para usufruir do benefício deve atender aos requisitos legais para tanto, demonstrando que efetuou o pedido junto à instituição financeira e se enquadra nas hipóteses relativas à dificuldade na comercialização de seus produtos ou frustração de safras por fatores diversos ou, ainda, eventuais ocorrências prejudiciais ao desenvolvimento das explorações, nos termos dispostos no Manual de Crédito Rural, elaborado pelo Conselho Monetário Nacional.
+Sentença mantida. Recurso conhecido em parte e, na parte conhecida, improvido" (e-STJ fls. 603/604).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 640/650).
+Nas razões do recurso especial, o recorrente sustenta, além da divergência jurisprudencial, violação dos artigos 1.022 do Código de Processo Civil; 14 da Lei nº 4.829/65 e 5º da Lei nº 9.138/95.
+Aduz omissão no julgado.
+Menciona que
+"(..) o alongamento da dívida é um direito do recorrente enquanto mutuário de crédito rural, estando presentes os requisitos autorizadores, em especial a ocorrência de evento que prejudicou suas atividades, oportunamente comprovado.
+A falta de formalização do pedido de alongamento, como já demonstrado ao longo do processo, foi fruto do cenário pandêmico, data vênia, equivocadamente afastado pelo acórdão recorrido e diante das dificuldades impostas pelo recorrido" (e-STJ fl. 661).
+Contrarrazões às e-STJ fls. 685/697.
+O recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CRÉDITO RURAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. ALONGAMENTO DA DÍVIDA. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. REEXAME DE PROVA. SÚMULA 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca do atendimento aos requisitos por parte dos devedores para o alongamento da dívida rural encontra óbice na Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto ao crédito rural, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+No que concerne à alegada contradição, também não há amparo no pleito do embargante. Isso porque a matéria foi minuciosamente analisada, concluindo-se pela ausência de novo pedido de alongamento da dívida perante a instituição financeira eis que, conforme elementos probatórios apresentados nos autos, mormente prova oral pleiteada pelo próprio réu/embargante, verificou-se que houve, na verdade, intenção de quitação da dívida perante o gerente do Banco do Brasil S. A., tendo o ora recorrente informado, inclusive, da possibilidade de venda de bens do seu patrimônio para tanto.
+Com efeito, as questões ventiladas no recurso foram dirimidas com exatidão, conforme se depreende da simples leitura do v. acórdão. Ademais, o entendimento contrário aos interesses do embargante não se confunde com omissão, contradição ou obscuridade" (e-STJ fl. 648).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+No mais, o tribunal de origem concluiu que a parte não atendeu aos requisitos exigidos pela legislação para a concessão do alongamento rural, conforme se extrai do seguinte excerto:
+"(..)
+É certo que o devedor da Cédula Rural Pignoratícia e Hipotecária tem a prerrogativa de solicitar o alongamento do contrato, com a prorrogação da data de vencimento, conforme já procedeu em ocasião anterior o próprio recorrente. Contudo, é necessário que o devedor manifeste perante a instituição financeira pedido nesse sentido e atenda aos requisitos legais para tanto, demonstrando dificuldade na comercialização de seus produtos ou frustração de safras por fatores diversos ou, ainda, eventuais ocorrências prejudiciais ao desenvolvimento das explorações, nos termos dispostos no Manual de Crédito Rural, elaborado pelo Conselho Monetário Nacional.
+Na hipótese de o devedor da cédula rural não lograr demonstrar nos autos que pleiteou a tempo o alongamento e que se enquadra nas hipóteses legais de deferimento do pedido escorreita a r. sentença que o condena no pagamento do valor ajustado no referido título.
+(..)
+Desta forma, considerando que o réu, ora apelante, não logrou demonstrar que formalizou o pedido de alongamento do contrato referente à Cédula Rural Pignoratícia e Hipotecária perante a instituição financeira apelada e tampouco comprovou preencher os requisitos legais para tanto, escorreita a r. sentença que o condena no pagamento do valor ajustado entre as partes em razão do inadimplemento da primeira parcela que ensejou o vencimento extraordinário do título" (e-STJ fls. 613/615).
+Neste contexto, nota-se que a modificação de tais entendimentos lançados no v. acórdão recorrido para aferir se as partes fazem jus ao alongamento da dívida demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO. CRÉDITO RURAL. ALONGAMENTO DA DÍVIDA. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. SÚMULA 83/STJ. REEXAME DE PROVA. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REDISTRIBUIÇÃO DOS ÔNUS RECURSAIS. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. Não se configura cerceamento de defesa quando o juiz da causa entender suficientemente instruído o feito, declarando a prescindibilidade de dilação probatória, por se tratar de matéria eminentemente de direito ou de fato que deve ser provado documentalmente.
+2. Nos termos da jurisprudência do STJ, "apesar de ser direito do devedor, nos termos da Lei 9.138/95, para o alongamento das dívidas originárias de crédito rural é necessário preencher requisitos legais, que são aferidos pelas instâncias ordinárias" (AgRg no Ag 882.975/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 9/12/2014, DJe de 27/4/2015).
+3. Na hipótese, as instâncias locais concluíram que a parte ora agravante não preencheu os requisitos para alongamento da dívida contida na cédula de crédito rural, consignando que "apenas a produtividade abaixo do esperado nas três fazendas que os apelantes cultivam não é suficiente para demonstrar que atendem os requisitos legais exigidos para o alongamento da dívida, tendo em vista o valor da dívida, o tamanho da área plantada e o percentual de perda em cada fazenda. Além disso, os apelantes não comprovaram o prévio requerimento administrativo junto à instituição financeira, que também é um dos requisitos para o obter o alongamento da dívida".
+4. A pretensão de modificar tal entendimento demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.426.163/MG, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/4/2024, DJe de 19/4/2024.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRORROGAÇÃO DE DÉBITO AGRÁRIO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. "A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure". (AgInt no AREsp 978.277/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 15/3/2018).
+3. No caso, o Tribunal estadual não julgou baseado em fatos e circunstâncias que as partes não tivessem tomado conhecimento prévio, e sim concluiu que de não houve o preenchimento dos requisitos previstos para possibilitar o alongamento de dívida rural pretendido. Fica afastada a alegação de violação ao princípio da não surpresa.
+4. A análise da tese recursal, no sentido de que foram preenchidos requisitos para a prorrogação das dívidas rurais demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.353.708/RS, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/2/2024, DJe de 28/2/2024.)
+Por fim, além disso, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
