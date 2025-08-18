@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA DA PENA. UTILIZAÇÃO DO HABEAS CORPUS COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE EVIDENTE. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela Defensoria Pública da União contra decisão monocrática no Superior Tribunal de Justiça, que não conheceu de habeas corpus impetrado com fundamento na desproporcionalidade da pena fixada na segunda fase da dosimetria, sob o fundamento de que a ação penal já havia transitado em julgado e o habeas corpus estava sendo utilizado como substituto de revisão criminal. A decisão agravada destacou a inexistência de ilegalidade na majoração da pena em razão do reconhecimento de duas agravantes. O Ministério Público Federal opinou pelo não conhecimento do agravo, indicando ausência de impugnação específica aos fundamentos da decisão agravada e a inviabilidade de revisão da dosimetria da pena por meio de petição de habeas corpus substitutivo.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível a utilização do habeas corpus como substitutivo da revisão criminal para questionar a dosimetria da pena após o trânsito em julgado da ação penal; e (ii) estabelecer se a majoração da pena intermediária em 1/4, diante do reconhecimento de duas agravantes, configura ilegalidade apta a justificar a concessão da ordem.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do egrégio Superior Tribunal de Justiça é pacífica no sentido de que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia.
+4. A dosimetria da pena constitui juízo discricionário do magistrado, vinculado às particularidades do caso concreto e revisável apenas em situações excepcionais, quando constatada flagrante desproporcionalidade ou ausência de fundamentação.
+5. A fração de 1/4 aplicada na segunda fase da dosimetria, em decorrência do reconhecimento de duas agravantes (reincidência e qualificadora do feminicídio), encontra respaldo na jurisprudência do Superior Tribunal de Justiça, que reconhece a inexistência de percentual fixo para tal aumento e cabe ao juiz fundamentar concretamente a escolha.
+6. A decisão agravada salientou que o aumento de 1/4 foi vantajoso ao paciente, já que, se consideradas duas agravantes, seria legítimo o aumento em fração superior (2/6), o que demonstra proporcionalidade e razoabilidade na fixação da pena.
+7. O agravo regimental deixou de apresentar impugnação específica aos fundamentos da decisão agravada, limitando-se a reiterar os argumentos da impetração inicial, razão pela qual incide o enunciado da Súmula 182/STJ, que impede o conhecimento do recurso que não ataca especificamente os fundamentos da decisão recorrida.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Trata-se de Agravo Regimental em habeas corpus impetrado contra decisão do Superior Tribunal de Justiça.
+Em sua peça recursal, o recorrente, representado pela Defensoria Pública da União, alega que a decisão monocrática não conheceu do habeas corpus sob o argumento de que a ação penal transitou em julgado e que o mandamus foi impetrado em substituição a revisão criminal. A Defensoria sustenta que o habeas corpus aborda a desproporcionalidade na dosimetria da pena, especificamente o aumento da pena intermediária em decorrência do reconhecimento de duas agravantes, e que não se trata de revisão criminal. Argumenta que o habeas corpus é a única medida capaz de cessar a ilegalidade que cerceia injustamente a liberdade do paciente, e que a decisão de não conhecer do habeas corpus cria limitações não previstas em texto legal, violando direitos constitucionais (e-STJ, fls. 363-373).
+Consta dos autos que a decisão monocrática foi proferida pela eminente Ministra Daniela Teixeira, não conheceu do habeas corpus por entender que foi utilizado como substituto de recurso próprio, sem que houvesse flagrante ilegalidade apta a gerar constrangimento ilegal. A decisão destacou que a dosimetria da pena foi fixada corretamente, com aumento de 1/4 na segunda fase devido à reincidência e qualificadora do feminicídio, e que não cabe revisão de dosimetria em habeas corpus, exceto em casos de manifesta ilegalidade ou abuso de poder (e-STJ, fls. 354-357).
+O Ministério Público Federal apresentou impugnação ao agravo regimental, sustentando que a decisão monocrática deve ser mantida, pois inexistem flagrante constrangimento ilegal, abuso de poder ou teratologia manifesta. O parecer afirma que a revisão de dosimetria penal em habeas corpus é descabida, sendo a individualização da pena decorrente de análise fático-probatória pelas instâncias ordinárias. O MPF opina pelo não conhecimento do agravo regimental, mantendo-se a decisão monocrática que não conheceu do habeas corpus substitutivo (e-STJ, fls. 380-383).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA DA PENA. UTILIZAÇÃO DO HABEAS CORPUS COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE EVIDENTE. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela Defensoria Pública da União contra decisão monocrática no Superior Tribunal de Justiça, que não conheceu de habeas corpus impetrado com fundamento na desproporcionalidade da pena fixada na segunda fase da dosimetria, sob o fundamento de que a ação penal já havia transitado em julgado e o habeas corpus estava sendo utilizado como substituto de revisão criminal. A decisão agravada destacou a inexistência de ilegalidade na majoração da pena em razão do reconhecimento de duas agravantes. O Ministério Público Federal opinou pelo não conhecimento do agravo, indicando ausência de impugnação específica aos fundamentos da decisão agravada e a inviabilidade de revisão da dosimetria da pena por meio de petição de habeas corpus substitutivo.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível a utilização do habeas corpus como substitutivo da revisão criminal para questionar a dosimetria da pena após o trânsito em julgado da ação penal; e (ii) estabelecer se a majoração da pena intermediária em 1/4, diante do reconhecimento de duas agravantes, configura ilegalidade apta a justificar a concessão da ordem.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do egrégio Superior Tribunal de Justiça é pacífica no sentido de que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia.
+4. A dosimetria da pena constitui juízo discricionário do magistrado, vinculado às particularidades do caso concreto e revisável apenas em situações excepcionais, quando constatada flagrante desproporcionalidade ou ausência de fundamentação.
+5. A fração de 1/4 aplicada na segunda fase da dosimetria, em decorrência do reconhecimento de duas agravantes (reincidência e qualificadora do feminicídio), encontra respaldo na jurisprudência do Superior Tribunal de Justiça, que reconhece a inexistência de percentual fixo para tal aumento e cabe ao juiz fundamentar concretamente a escolha.
+6. A decisão agravada salientou que o aumento de 1/4 foi vantajoso ao paciente, já que, se consideradas duas agravantes, seria legítimo o aumento em fração superior (2/6), o que demonstra proporcionalidade e razoabilidade na fixação da pena.
+7. O agravo regimental deixou de apresentar impugnação específica aos fundamentos da decisão agravada, limitando-se a reiterar os argumentos da impetração inicial, razão pela qual incide o enunciado da Súmula 182/STJ, que impede o conhecimento do recurso que não ataca especificamente os fundamentos da decisão recorrida.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+Destarte, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 354-357):
+Ressalto, inicialmente, que é uníssona a jurisprudência deste Superior Tribunal de Justiça no sentido de que " a  individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade" (AgRg no REsp n. 2.118.260/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+A revisão da dosimetria somente é possível em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (AgRg no REsp n. 2.042.325/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Quanto ao tema, destaca-se que " a  legislação brasileira não prevê um percentual fixo para o aumento da pena-base em razão do reconhecimento das circunstâncias judiciais desfavoráveis, tampouco em razão de circunstância agravante ou atenuante, cabendo ao julgador, dentro do seu livre convencimento motivado, sopesar as circunstâncias do caso concreto e quantificar a pena, observados os princípios da proporcionalidade e da razoabilidade" (EDcl no HC n. 908.566/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+No tocante à desproporção na exasperação das agravantes, o Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+No caso, após o reconhecimento de duas agravantes, a pena foi elevada na fração de 1/4, resultando em uma condenação a 15 anos de reclusão, o que se demonstra vantajoso para o paciente pois seria legítimo o aumento na fração de 2/6, o que resultaria na condenação a 16 anos de reclusão.
+No caso em tela, conforme exposto na fundamentação acima, não se vislumbra ilegalidade flagrante que justifique a concessão da ordem, ainda que de ofício. A decisão agravada foi clara ao destacar que a fração de 1/4 aplicada na segunda fase da dosimetria, em razão do reconhecimento de duas agravantes, encontra respaldo na jurisprudência deste Tribunal, que admite margem de discricionariedade ao magistrado sentenciante, desde que observados os princípios da proporcionalidade e razoabilidade.
+Nesse sentido, cito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO AGRAVADA QUE NÃO CONHECEU DO WRIT. ROUBO DUPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. DELITO PRATICADO ENQUANTO O PACIENTE CUMPRIA PENA EM REGIME ABERTO PELA PRÁTICA DE CRIME ANTERIOR. EFETIVO DESVALOR. FUNDAMENTO IDÔNEO PARA A EXASPERAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. O fato de o delito em exame ter sido praticado enquanto o paciente cumpria pena em regime aberto pela prática de crime anterior é circunstância que efetivamente denota maior desvalor e justifica a exasperação da pena-base, sendo irrelevante o nomen juris da vetorial utilizada. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no HC n. 998.585/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2025, DJEN de 27/6/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. REVISÃO CRIMINAL DESPROVIDA NA ORIGEM. DOSIMETRIA DA PENA. CRITÉRIOS DE AUMENTO. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a dosimetria da pena fixada em revisão criminal.
+2. O Juízo da Vara do Júri e Execuções Criminais de Piracicaba/SP condenou a paciente à pena de 12 anos de reclusão, em regime inicial fechado, pela prática do delito de homicídio duplamente qualificado na forma tentada.
+3. A defesa técnica ajuizou revisão criminal alegando ilegalidades na dosimetria da pena, que foi julgada improcedente em decisão monocrática, mantida em agravo regimental.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve ilegalidade na dosimetria da pena, especificamente: (i) na majoração da pena-base em 1/4 na primeira fase, considerando a conduta social e os antecedentes; (ii) na aplicação da fração de 1/5 na segunda fase, referente à agravante do motivo torpe; e (iii) na fixação da causa de diminuição pela tentativa na fração de 1/3 na terceira fase.
+III. Razões de decidir
+5. A dosimetria da pena é um juízo de discricionariedade do magistrado, vinculado às particularidades do caso concreto, e só pode ser revista em caso de ilegalidade flagrante ou desproporcionalidade evidente.
+6. As instâncias ordinárias justificaram concretamente a majoração da pena-base em 1/4, considerando as circunstâncias do crime e os antecedentes dos réus, o que está em conformidade com a jurisprudência do STJ.
+7. A aplicação da fração de 1/5 na segunda fase, referente à agravante do motivo torpe, foi fundamentada nas particularidades do fato, não sendo possível revisá-la sem reexame fático-probatório, inadmissível em habeas corpus.
+8. A fração de 1/3 para a causa de diminuição pela tentativa foi adequada, considerando a razoável aproximação entre as condutas e o resultado pretendido, conforme entendimento do STJ.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. A dosimetria da pena é discricionária e só pode ser revista em caso de ilegalidade flagrante ou desproporcionalidade. 2. A majoração da pena-base deve ser fundamentada concretamente, considerando as circunstâncias do crime e os maus antecedentes. 3. A aplicação de frações na dosimetria deve ser justificada pelas particularidades do caso, sem reexame fático-probatório em habeas corpus".
+Dispositivos relevantes citados: CP, art. 121, § 2º, I e IV; art. 14, II. Jurisprudência relevante citada: STJ, AgRg no HC 796.565/SC, j. 20/05/2024; STJ, AgRg no HC 841.609/SP, j.
+13/05/2024; STJ, AgRg no R Esp 2.074.103/PA, j. 04/03/2024.
+(AgRg no HC n. 943.486/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025.)
+No caso, o aumento da pena intermediária em 1/4 não é desarrazoado diante da existência de duas agravantes relevantes, sendo certo que eventual majoração em fração ainda superior igualmente se mostraria compatível com o ordenamento. Assim, inexiste desproporcionalidade manifesta, tampouco nulidade ou erro de direito a ser sanado por meio de habeas corpus.
+Ademais, o agravo regimental nem sequer impugna, de forma específica, os fundamentos da decisão agravada, limitando-se a reiterar os mesmos argumentos expendidos na petição inicial do habeas corpus. Incide, portanto, a Súmula 182/STJ:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Destaco:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. INCOMPETÊNCIA DO STJ. FALTA DE IMPUGNAÇÃO. SÚMULA N. 182/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente habeas corpus, por incompetência, ressaltando a inexistência de flagrante ilegalidade no acórdão contestado.
+2. A defesa alega constrangimento no afastamento do tráfico privilegiado, argumentando que a decisão foi baseada apenas na quantidade de entorpecentes apreendida (1 kg de maconha), o que, subsidiariamente, não justificaria aumento na pena-base.
+3. O Ministério Público Federal pugnou pela intimação do Ministério Público Estadual, mas não há previsão normativa para contrarrazões ao agravo regimental em habeas corpus.
+II. Questão em discussão
+4. A questão em discussão consiste em esclarecer a competência do Superior Tribunal de Justiça para processar e julgar habeas corpus em casos nos quais houve trânsito em julgado na origem.
+5. A questão também envolve saber se o agravo regimental pode ser conhecido quando não há impugnação específica dos fundamentos da decisão agravada, conforme o princípio da dialeticidade.
+III. Razões de decidir
+6. O Superior Tribunal de Justiça não possui competência para julgar habeas corpus que substitua revisão criminal, conforme o artigo 105, inciso I, alínea e, da Constituição Federal.
+7. Não se verificou ilegalidade flagrante que justificasse a concessão de habeas corpus de ofício.
+8. O agravo regimental não foi conhecido por não apresentar argumentos novos ou específicos que pudessem superar os fundamentos da decisão agravada, violando o princípio da dialeticidade.
+Aplicação do enunciado de Súmula n. 182 do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+9. Agravo regimental não conhecido.
+Tese de julgamento: "1. O agravo regimental deve impugnar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento. 2. O Superior Tribunal de Justiça não é competente para julgar habeas corpus que substitua revisão criminal em casos já transitados em julgado na origem."
+Dispositivos relevantes citados: CF/1988, art. 105, I, e; CPP, art. 654, § 2º.Jurisprudência relevante citada: STJ, AgRg no RHC 170.068/RJ, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 6.10.2022.
+(AgRg no HC n. 946.084/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS COMO SUBSTITUTIVO DE RECURSO OU REVISÃO CRIMINAL. IMPOSSIBILIDADE. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, sob o fundamento de que foi utilizado como substitutivo de recurso ou de revisão criminal.
+2. A decisão agravada destacou a ausência de flagrante ilegalidade no julgado impugnado que justificasse a concessão de habeas corpus de ofício. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido quando o agravante deixa de impugnar especificamente todos os fundamentos da decisão agravada, em especial a impossibilidade de utilização do habeas corpus como substitutivo de recurso ou revisão criminal. III. RAZÕES DE DECIDIR
+4. O princípio da dialeticidade impõe ao agravante o ônus de impugnar especificamente todos os fundamentos da decisão agravada. A ausência de impugnação específica inviabiliza o conhecimento do recurso.
+5. A jurisprudência do egrégio Superior Tribunal de Justiça estabelece que a utilização do habeas corpus como substitutivo de recurso ou revisão criminal é inadmíssivel, salvo em casos de flagrante ilegalidade.
+6. No caso, o agravante deixou de rebater a questão da impossibilidade de utilização do habeas corpus como substitutivo de revisão criminal, o que impede o conhecimento do agravo regimen tal.
+7. Não é o caso de concessão da ordem de ofício, tendo em vista que o entendimento das instâncias ordinárias está em consonância com a jurisprudência desta Corte Superior, pois a importação, sem a prévia autorização ou licença da autoridade administrativa, de inseticida de origem estrangeira cuja substância é permitida, configura o delito de contrabando.
+IV. AGRAVO REGIMENTAL NÃO CONHECIDO.
+(AgRg no HC n. 979.979/MS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Por fim, a impug nação apresentada pelo Ministério Público Federal reforça os fundamentos da decisão agravada, reiterando a impossibilidade de reexame da dosimetria da pena em habeas corpus substitutivo e a ausência de impugnação específica no agravo.
+Po r esses fundamentos, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios e jurídicos fundamentos.
+É o voto.
