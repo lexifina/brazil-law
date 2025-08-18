@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIAGO TEIXEIRA DOS SANTOS contra acórdão da 6ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, na Apelação n. 1506905-56.2020.8.26.0224, assim ementado:
+Apelação criminal - Roubos consumados em concurso - Recurso da defesa - Conversão do julgamento em diligências para produção de novas provas - impossibilidade. Nu nulidade dos reconhecimentos feitos em solo policial e em juízo - Inocorrência - No mérito, pedido de absolvição por insuficiência de provas em relação à autoria - Descabimento - Reconhecimentos realizados que se mostram suficientes para imputação do crime - Pedido alternativo de reconhecimento do crime único - Descabimento - Figura do concurso formal próprio que já beneficiou o réu - Dosimetria - Diminuição da base - Descabimento - Critério bem justificado - Preliminares afastadas, recurso desprovido. (e-STJ, fl. 24)
+Em seu arrazoado, o impetrante nega a autoria delitiva e alega ser imprescindível a produção de prova relativa à geolocalização do paciente na data dos fatos.
+Aponta nulidade do reconhecimento pessoal porque realizado em desconformidade com o art. 226 do Código de Processo Penal.
+Requer, liminarmente, a concessão de efeito suspensivo ao acórdão, com a determinação da produção da prova requerida. Ao final, pugna pelo reconhecimento do constrangimento ilegal advindo de condenação baseada em elementos absolutamente frágeis.
+É o relatório.
+Decido.
+Conforme relatado, a presente impetração se volta contra acórdão da 6ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, na Apelação n. 1506905-56.2020.8.26.0224, contra o qual o ora impetrante informa que interpôs recurso especial (e-STJ, fl. 5). Em consulta à pagina oficial do Tribunal de Justiça de São Paulo, observa-se que o apelo nobre foi inadmitido por meio de decisão proferida em 4/8/2025, não havendo notícias da eventual interposição do correspondente agravo.
+Dentro desse cenário, há clara violação ao princípio da unirrecorribilidade.
+Com efeito, "não é cabível a impetração de habeas corpus concomitantemente com interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade" (AgRg no HC n. 549.368/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/12/2019).
+Vale registrar que " a  violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato.  ..  verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas, seja pela utilização da via recursal concomitantemente ao ajuizamento de ação autônoma de impugnação, seja pela impugnação do mesmo ato em duas vias autônomas diferentes  .. ." (AgRg no HC n. 899.454/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
