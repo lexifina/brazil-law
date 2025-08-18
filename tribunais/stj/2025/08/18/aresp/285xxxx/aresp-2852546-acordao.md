@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. TUTELA DE URGÊNCIA. REQUISITOS. ART. 300 DO CÓDIGO DE PROCESSO CIVIL. CONFIGURAÇÃO. SÚMULA Nº 735/STF. INCIDÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. LEVANTAMENTO DE VALORES. CAUÇÃO IDÔNEA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não ser cabível recurso especial cujo objeto seja o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária do juízo de mérito, cuja reversão é possível a qualquer momento pela instância primeva. Incidência, por analogia, da Súmula nº 735/STF.
+2. A revisão das conclusões da Corte de origem quanto ao preenchimento dos requisitos do art. 300 do CPC - plausibilidade jurídica do direito e o risco de dano de difícil reparação - demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+3. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta do indispensável prequestionamento. Incidência, por analogia, do disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto pela HAPVIDA ASSISTENCIA MEDICA S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado:
+"DIREITO CIVIL E DO CONSUMIDOR. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. DECISÃO DE PRIMEIRO GRAU QUE DEFERIU O PEDIDO DE PRESTAÇÃO DO SERVIÇO DE ATENDIMENTO MULTIDISCIPLINAR DOMICILIAR (HOME CARE). INFANTE COM SÍNDROME DE DANDY-WALKER (CID 10:Q04.0), EPILEPSIA (CID 10: G40) E RETARDO MENTAL GRAVE (CID 10: F83). RECUSA DA COBERTURA PELA SEGURADORA POR AUSÊNCIA DE PREVISÃO DA ANS E DE COBERTURA CONTRATUAL. DISTINÇÃO ENTRE "INTERNAÇÃO DOMICILIAR" E "ASSISTÊNCIA DOMICILIAR". NECESSIDADE DO SERVIÇO DE TÉCNICO DE ENFERMAGEM NÃO COMPROVADA. REFORMA PARCIAL DA DECISÃO AGRAVADA PARA MANTER O TRATAMENTO MULTIDISCIPLINAR PRESCRITO NO DOMICÍLIO. RECURSO CONHECIDO E PROVIDO PARCIALMENTE" (e-STJ fls. 159/167).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 1º, §1º, 10, § 4º, 35-F, da Lei nº 9.656/1998 e 4º, III, da Lei nº 9.961/2000, ao argumento de que o tratamento pleiteado - serviço de atenção domiciliar - não está descrito no rol da ANS, situação a afastar a obrigatoriedade de custeio;
+(ii) arts. 51 e 54, §§ 3º e 4º, do Código de Defesa do Consumidor, 104 e 422 do Código Civil, ante a legalidade das cláusulas limitativas do tratamento domiciliar pleiteado;
+(iii) art. 300 do Código de Processo Civil, porquanto não estão presentes os requisitos para concessão da tutela, quais sejam, demonstração, de plano, da plausibilidade jurídica do direito invocado e evidenciação de risco de improvável ou impossível reparação; e
+(iv) art. 520, IV, do Código de Processo Civil, tendo em vista que o levantamento dos valores bloqueados esteja condicionado à garantia do juízo, por meio de caução apta a assegurar a reversibilidade da medida.
+O prazo para contrarrazões transcorreu in albis (e-STJ fl. 206).
+O recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. TUTELA DE URGÊNCIA. REQUISITOS. ART. 300 DO CÓDIGO DE PROCESSO CIVIL. CONFIGURAÇÃO. SÚMULA Nº 735/STF. INCIDÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. LEVANTAMENTO DE VALORES. CAUÇÃO IDÔNEA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não ser cabível recurso especial cujo objeto seja o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária do juízo de mérito, cuja reversão é possível a qualquer momento pela instância primeva. Incidência, por analogia, da Súmula nº 735/STF.
+2. A revisão das conclusões da Corte de origem quanto ao preenchimento dos requisitos do art. 300 do CPC - plausibilidade jurídica do direito e o risco de dano de difícil reparação - demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+3. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta do indispensável prequestionamento. Incidência, por analogia, do disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No mérito, cuida-se, na origem, de agravo de instrumento interposto contra decisão que concedeu pedido de antecipação de tutela de urgência.
+Nesse cenário, não há como acolher as teses recursais, porquanto, nos termos da pacífica jurisprudência desta Corte, é inviável, em regra, a interposição de recurso especial cujo objeto seja o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária do juízo de mérito, cuja reversão é possível a qualquer momento pela instância primeva.
+Não se verifica, portanto, o pressuposto constitucional relativo ao esgotamento da via recursal ordinária, requisito imprescindível ao trânsito do apelo extraordinário, circunstância a atrair, por analogia, o óbice da Súmula nº 735/STF: "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE TERCEIRO. TUTELA DE URGÊNCIA INDEFERIDA. NATUREZA PRECÁRIA DA DECISÃO. SÚMULAS 735/STF E 7/STJ. DISPOSITIVO TIDO POR VIOLADO NÃO PRESQUESTIONADO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É firme "a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos processuais a concessão de tutela de urgência, em razão do óbice da Súmula 735 do STF, bem assim da Súmula 7 do STJ" (AgInt no AREsp n. 2.064.236/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022).
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula 211/STJ). Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt no AREsp 2.663.721/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/10/2024, DJe de 4/11/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE, DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTOS ONCOLÓGICOS. MEDIDA ACAUTELATÓRIA. BLOQUEIO DE VALORES. SÚMULA 735/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+1. "Conforme a orientação jurisprudencial adotada por este STJ, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF" (AgInt no AREsp 1.972.132/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/3/2022, DJe de 31/3/2022).
+2. No caso, o Tribunal de origem concluiu pela necessidade de bloqueio de valores da executada em razão da resistência em cumprir a determinação judicial de custeio dos medicamentos para tratamento oncológico da recorrida, ressaltando que, em razão dessa resistência, e a despeito da determinação judicial, a paciente teve de adquirir, por conta própria, os medicamentos para que não tivesse seu tratamento prejudicado,
+tendo os pedidos administrativos de reembolso negados.
+3. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor da Súmula 7 do STJ.
+4. Agravo interno provido para conhecer do agravo e conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp 2.538.063/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024)
+Noutro giro, cumpre ressaltar que a análise acerca do preenchimento dos requisitos da antecipação dos efeitos da tutela demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. REQUISITOS DO ART. 300 DO CPC/2015. SÚMULA7 DO STJ. HONORÁRIOS PERICIAIS. ÔNUS. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal de Justiça concluiu que foram comprovados os requisitos para a concessão da tutela antecipada. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+2. A jurisprudência desta Corte Superior tem entendimento de que o ônus do pagamento de honorários ao perito é da parte que requereu a produção da prova.
+3. Agravo interno desprovido
+(AgInt no AREsp 2.323.563/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/6/2024, DJe de 27/6/2024).
+Ademais, nota-se que a tese de que o bloqueio de valores seja condicionado à caução idônea, não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e tampouco houve a oposição de embargos de declaração, a fim de provocar a manifestação daquele Tribunal acerca da questão.
+Por tal motivo, carece do indispensável prequestionamento, por se tratar de matéria não debatida na instância de origem, a impedir a análise por esta Corte Superior ante a incidência, por analogia, do óbice imposto pela Súmula nº 282/STF, sob pena de supressão de instância.
+A propósito: "ausente o prequestionamento do artigo apontado como violado, não é possível o conhecimento do recurso especial. Incidência, por analogia, dos óbices das Súmulas 282 e 356 do STF" (AgInt no AREsp 2.730.815/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024) e, ainda,
+"a ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, porquanto o recurso ao qual se nega provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem prévia fixação de honorários sucumbenciais.
+É o voto.
