@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de pedido liminar formulado em Reclamação Constitucional ajuizada pelo Ministério Público Federal contra acórdão que deu provimento ao agravo interno no habeas corpus n. 1030906-48.2024.4.01.0000, em que o MPF alega demora no envio do recurso especial ao STJ.
+Os autos originam-se de operações nas quais o MPF denunciou grupo acusado de crimes ligados ao garimpo e à comercialização ilegal de ouro, com movimentação financeira superior a R$ 100 milhões. Os delitos imputados incluem usurpação de bens da União, exploração ilegal de recursos minerais, lavagem de capitais, organização criminosa, posse irregular de arma de fogo, receptação qualificada, falsidade ideológica e contrabando. As denúncias foram recebidas e apresentadas as respostas à acusação.
+No julgamento do habeas corpus n. 1030906-48.2024.4.01.0000, o TRF da 1ª Região revogou a prisão preventiva do réu Gilvan Alves Bizerra.
+O MPF interpôs recurso especial, com pedido de efeito suspensivo, alegando violação do art. 312, caput e § 2º, do CPP.
+Em 8/5/2025, a Vice-Presidência do TRF1 concedeu o efeito suspensivo ao recurso especial interposto no habeas corpus n. 1030906 48.2024.4.01.0000 para suspender os efeitos do acórdão concessivo do writ.
+No dia seguinte, admitiu o recurso especial, reconhecendo contrariedade à jurisprudência do STJ sobre a legitimidade da prisão preventiva em casos de reiteração criminosa e delitos de grande impacto social.
+A defesa de Gilvan Alves Bizerra interpôs agravo, que, em 7/8/2025, foi provido pela Corte Especial do TRF1, revogando o efeito suspensivo.
+Na presente reclamação, o MPF sustenta que o TRF1 processou e julgou agravo manifestamente incabível, usurpando competência exclusiva do STJ ao reexaminar o efeito suspensivo concedido. Afirma ainda que, passados três meses da admissão, o recurso especial permanece retido, sem remessa à Corte Superior.
+Aduz que o fumus boni juris decorre dos fortes indícios de que Gilvan continua a comercializar ouro ilegalmente, de forma organizada e reiterada, utilizando uma joalheria como ponto de venda, o que configura grave ameaça à ordem pública. Já o periculum in mora alega que está presente na iminência de a decisão reclamada produzir efeitos imediatos  inclusive com possível recolhimento do mandado de prisão preventiva  , na demora no envio do recurso especial ao STJ e no fato de o réu estar foragido, o que agrava o risco e compromete a aplicação da lei penal.
+Requer, liminarmente, o restabelecimento do efeito suspensivo até o julgamento de mérito, com imediata remessa dos autos ao STJ. No mérito, pleiteia a procedência da reclamação para anular os efeitos do ato reclamado, desde o recebimento do agravo incabível.
+É o breve relatório.
+Decido.
+O Ministério Público Federal sustenta que, três meses após a admissão, o recurso especial permanece retido, sem a remessa necessária dos autos à Corte Superior. Aduz também que o Tribunal Regional Federal reexaminou indevidamente o efeito suspensivo atribuído ao recurso especial, interferindo na competência exclusiva do STJ desde a publicação da decisão de admissão, em 9/5/2025. No caso, no dia seguinte à concessão do efeito suspensivo, a Vice-Presidência do Tribunal de origem admitiu o Recurso Especial ao Superior Tribunal de Justiça.
+Nos termos do art. 105, I, "f", da CF/88, e do art. 187 do RISTJ, a Reclamação pode ser proposta pela parte interessada ou pelo Ministério Público para preservar a competência do STJ ou assegurar a autoridade de suas decisões.
+O CPC (arts. 988 a 993) delimita essas hipóteses, cabendo a Reclamação apenas quando a decisão reclamada usurpar a competência do STJ ou descumprir determinação anterior desta Corte, proferida no mérito e envolvendo as mesmas partes.
+No caso , não há decisão desta Corte sendo descumprida, tampouco se verifica usurpação de competência do STJ, tornando manifestamente incabível a Reclamação ajuizada.
+Considerando a concessão de efeito suspensivo ao recurso especial interposto no habeas corpus n. 1030906-48.2024.4.01.0000  para suspender os efeitos do acórdão concessivo do writ  nos termos do art. 1.029, § 5º, III, do CPC, compete ao Tribunal de origem julgar o agravo regimental interposto contra essa decisão, conforme o art. 1.021 do mesmo Código.
+A admissão do recurso especial, mesmo posterior à concessão do efeito suspensivo, não desloca automaticamente a competência, permanecendo no Tribunal de origem a análise do agravo regimental contra a liminar já concedida.
+Nos termos do art. 1.029, § 5º, I, do CPC, após a admissão do recurso especial, cabe ao STJ analisar pedidos de atribuição de efeito suspensivo, e não de agravo regimental contra efeito suspensivo já concedido pelo Tribunal de origem.
+Por fim, não há desídia na remessa dos autos ao STJ, considerando o julgamento do agravo regimental em 07/08/2025. Eventual insatisfação quanto ao trâmite da remessa poderá ser levada ao Tribunal de origem, para apreciação de eventual demora imotivada.
+Ante o exposto, indef iro liminarmente a presente reclamação, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
