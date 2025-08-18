@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE JUSTIÇA GRATUITA. INDEFERIMENTO. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. ALTERAÇÃO DA CONCLUSÃO DA CORTE ESTADUAL. IMPOSSIBILIDADE ANTE A INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A jurisprudência desta Corte é firme quanto à concessão da gratuidade de justiça para a pessoa física ou jurídica, com ou sem fins lucrativos, desde que comprovada a impossibilidade de arcar com as custas processuais.
+2. Para alterar a conclusão a que chegou o Tribunal estadual quanto à ausência de comprovação da hipossuficiência financeira, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por LUIZ CARVALHO MATOS (LUIZ) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA QUE INDEFERIU O BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA PLEITEADO PELO APELANTE. NÃO DEMONSTRADA A HIPOSSUFICIÊNCIA. ALEGAÇÃO DE QUE A EXIGÊNCIA DO PREPARO RECURSAL ESTARIA DISPENSADA UMA VEZ QUE A APELAÇÃO VERSA SOBRE GRATUIDADE JUDICIÁRIA. APELO SE INSURGE SOBRE DIVERSOS OUTROS PONTOS DA SENTENÇA ALÉM DA GRATUIDADE. MANTIDA A EXIGÊNCIA DO PREPARO RECURSAL. DECISÃO EM CONSONÂNCIA COM A REMANSOSA JURISPRUDÊNCIA. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO. INTUITO MERAMENTE PROTELATÓRIO EVIDENCIADO. REPETIÇÃO DAS RAZÕES DOS EMBARGOS ANTERIORMENTE OPOSTOS E REJEITADOS. MULTA DO ART. 1.021, §4º DO CPC. 5% SOBRE O VALOR DA CAUSA. (e-STJ, fls. 557-558).
+Nas razões do agravo, LUIZ defendeu que a decisão de inadmissibilidade do recurso especial foi equivocada ao aplicar a Súmula n. 281 do STF, pois houve esgotamento das vias ordinárias com a interposição de agravo interno contra decisão monocrática.
+Houve apresentação de contraminuta (e-STJ, fls. 620-623).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE JUSTIÇA GRATUITA. INDEFERIMENTO. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. ALTERAÇÃO DA CONCLUSÃO DA CORTE ESTADUAL. IMPOSSIBILIDADE ANTE A INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A jurisprudência desta Corte é firme quanto à concessão da gratuidade de justiça para a pessoa física ou jurídica, com ou sem fins lucrativos, desde que comprovada a impossibilidade de arcar com as custas processuais.
+2. Para alterar a conclusão a que chegou o Tribunal estadual quanto à ausência de comprovação da hipossuficiência financeira, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, LUIZ apontou (1) violação do art. 98 e seguintes do CPC, pois a decisão recorrida indeferiu a gratuidade de justiça sem considerar a presunção de veracidade da alegação de hipossuficiência; (2) dissídio jurisprudencial, pois o TJBA se distanciou de acórdãos proferidos pelo TJPR, TJDF e TJRS ao não conceder o benefício da gratuidade de justiça.
+Na origem, LUIZ ajuizou ação de cumprimento de sentença contra o BB, a qual foi julgada extinta, sem resolução do mérito, com a decretação da nulidade de todos os atos processuais a partir da distribuição da demanda.
+A r. sentença destacou a ocorrência de fraude na distribuição do processo, com a tentativa de burlar o princípio do juiz natural, configurando litigância de má-fé e ato atentatório à dignidade da jurisdição. Como consequência, LUIZ foi condenado ao pagamento de multas e honorários advocatícios, além de indenização à parte ré. O pedido de concessão de justiça gratuita foi indeferido, e foram determinadas comunicações à Ordem dos Advogados do Brasil e ao Ministério Público para apuração de possíveis infrações ético-disciplinares e penais (e-STJ, fls. 350-354).
+Inconformado, LUIZ interpôs recurso de apelação, sendo intimado pelo TJBA para juntar documentação com vistas a comprovar a alegada falta de recursos para arcar com as custas processuais.
+Em decisão monocrática, o Desembargador Relator aduziu que "apesar de devidamente intimado a comprovar que faz jus à benesse, a parte apelante não juntou qualquer documentação que corroborasse o seu pedido", razão pela qual indeferiu o pedido, determinando a intimação de LUIZ para, no prazo de 5 dias, proceder ao recolhimento do preparo recursal (e-STJ, fl. 421).
+Os termos do decisum exarado pelo Desembargador relator foram ratificados pela Corte Colegiada. Confira-se:
+Assim, observa-se que o Apelante, ora Agravante, além de defender que faz jus à gratuidade de justiça, também insurgiu-se ali contra diversos outros pontos do comando sentencial, não repousando as razões recursais, exclusivamente, sobre a questão da assistência judiciária gratuita, como busca, reiteradamente, induzir.
+Portanto, resta cristalino que a Apelação não versa apenas sobre o direito à gratuidade de justiça, razão pela qual não deve prosperar o argumento de isenção do preparo recursal.
+Assim, inobstante a irresignação do ora recorrente, o entendimento deste Sodalício mantém-se idêntico àquele firmado quando do proferimento da decisão, porquanto alinhado com a majoritária jurisprudência aplicável à espécie, além dos elementos constantes dos autos.
+Diante do exposto, entendo que a decisão monocrática que indeferiu a Assistência Judiciária Gratuita ao apelante há de ser mantida, posto que calcada em jurisprudência remansosa deste Sodalício. (e-STJ, fl. 566).
+Desse modo, a revisão da conclusão a que chegou o Tribunal a quo demanda a reavaliação de fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da mencionada Súmula n. 7 desta Corte, segundo a qual: A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDICAÇÃO DE OFENSA A SÚMULA. IMPOSSIBILIDADE NO APELO ESPECIAL. JUSTIÇA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. SANÇÃO POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não cabe ao Superior Tribunal de Justiça apreciar violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+2. A jurisprudência desta Corte de Justiça perfilha o posicionamento de que a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos (Súmular 481/STJ).
+2.1. Tendo a Corte local entendido que a parte requerente da gratuidade não comprovou a alegada hipossuficiência, a revisão dessa convicção demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. A interposição dos recursos cabíveis não acarreta a imposição de multa por ato atentatório à dignidade da justiça ou por litigância de máfé, pois se trata de regular exercício do direito de defesa.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.225.058/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023 - sem destaque no original)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. ALEGAÇÃO DE ATIVIDADES FILANTRÓPICAS. REQUISITOS DE CONCESSÃO DA BENESSE. VERIFICAÇÃO NA INSTÂNCIA ESPECIAL. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula n. 481/STJ), o que foi observado pela Corte local. 2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3.1. Não há como averiguar nesta instância, sem incorrer no mencionado óbice, se a parte recorrente se desincumbiu do seu ônus probatório sobre a comprovação dos requisitos de concessão dos benefícios da gratuidade de justiça.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.486.380/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024 - sem destaque no original)
+Ressalte-se que a incidência da Súmula n. 7, quanto à interposição pela alínea a do permissivo constitucional, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios anteriormente fixados, nos termos do art. 85, § 11, do NCPC, visto que já arbitrados no patamar máximo legal.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
