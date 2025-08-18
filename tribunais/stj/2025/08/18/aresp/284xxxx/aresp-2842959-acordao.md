@@ -1,0 +1,105 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ILEGITIMIDADE ATIVA. ANÁLISE DA CAUSALIDADE NA SUCUMBÊNCIA. INVIÁVEL. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial. O Banco do Nordeste do Brasil S/A (BNB) propôs ação de execução de título extrajudicial contra Agrojisa Agropastoril J. Ivo S/A, visando receber quantia devida por inadimplemento de crédito. O juízo de origem declarou a ilegitimidade ativa do BNB, extinguiu a execução e condenou o banco ao pagamento de custas e honorários advocatícios.
+2. O Tribunal local proveu parcialmente o recurso de apelação do BNB, afastando a multa de 2% por embargos protelatórios, mas mantendo a ilegitimidade ativa e os honorários advocatícios. O recurso especial foi inadmitido com base nas Súmulas 5 e 7 do STJ e pela ausência de dissídio jurisprudencial.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve omissão no acórdão recorrido quanto à causa da superveniente perda de legitimidade ativa do BNB, alegando-se violação aos artigos 1.022, II, e 489, §1º, V, do CPC/2015, e se a análise de elementos fático-probatórios e e de norma local poderia ser revista em sede de recurso especial.
+4. Outra questão em discussão é a alegação de violação ao artigo 85, caput, §§ 2º e 8º, do CPC/2015, referente à métrica de dimensionamento dos honorários sucumbenciais, e se tal análise demandaria reexame de matéria fático-probatória.
+5. A última questão é a alegada violação ao artigo 505 do CPC/2015, que não foi objeto de prequestionamento no acórdão recorrido.
+III. Razões de decidir
+6. O acórdão recorrido não apresenta omissão ou ausência de fundamentação, tendo abordado a questão da ilegitimidade ativa do BNB com base em desvio de finalidade na aplicação dos recursos do FINOR.
+7. A análise da pretensão recursal relativa à causalidade da sucumbência envolveria recomposição de elementos fático-probatórios, contratuais, além de interpretação de norma que não se qualifica como lei federal, incidindo nos óbices das Súmulas 5 e 7 do STJ, e escapando à competência desta Corte.
+8. A questão relativa ao redimensionamento da causalidade da sucumbência envolve reanálise do acervo fático-probatório dos autos, o que é vedado em recurso especial, conforme a Súmula 7 do STJ.
+9. A alegação de violação ao artigo 505 do CPC/2015 carece de prequestionamento, incidindo as Súmulas 211 do STJ e 356 do STF.
+IV. Dispositivo
+10. Recurso não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+Na origem, o Banco do Nordeste do Brasil S/A ("BNB") propôs ação de execução de título extrajudicial, na qualidade de operador do Fundo de Investimentos do Nordeste ("FINOR"), contra Agrojisa Agropastoril J. Ivo S/A ("Agrojisa"), pretendendo receber determinada quantia diante do inadimplemento pelos executados de crédito constante de "escritura particular de emissão de debêntures conversíveis em ações e debêntures simples ou não conversíveis em ações".
+No curso executivo, em segunda exceção de pré-executividade oposta pela executada, o juízo de origem, num primeiro momento, rejeitou a exceção sob o fundamento de que descabe rediscutir eventual nulidade do título. Opostos embargos declaratórios, o juízo admitiu erro material e por sentença acolheu a exceção de pré-executividade, declarou a ilegitimidade do Banco exequente, extinguiu a execução e condenou o BNB ao pagamento de custas e honorários advocatícios, fixados em 10% sobre o valor da causa . Opostos aclaratórios pelo Banco, o juiz manteve a sentença e condenou o embargante ao pagamento de multa de 2% do valor atualizado da causa em razão do caráter manifestamente protelatório dos embargos.
+Contra essa decisão, o BNB interpôs recurso de apelação
+Na Corte local, o colegiado proveu parcialmente o recurso, reformando a sentença apenas para afastar a condenação do Banco ao pagamento de multa de 2%, mantendo-se os demais termos da sentença, inclusive os honorários advocatícios sucumbenciais fixados em 10% sobre o valor da causa.
+O recurso especial interposto pelo BNB, com fundamento no artigo 105, inciso III, alíneas "a" e "c" da CF/88 (e-STJ fls. 624-649), alegou violação aos artigos 1.022, II, e 489, §1º, V, 85, caput, §§ 2º e 8º, e 505 do CPC/2015, além dos artigos 14 da Lei 8.167/91 e 23 do Decreto-Lei 1.376/1974.
+O recurso foi inadmitido pelo Tribunal local com fundamento nas Súmulas nº 5 e 7 desta Corte superior e na ausência de comprovação do dissídio jurisprudencial.
+É, no essencial, o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ILEGITIMIDADE ATIVA. ANÁLISE DA CAUSALIDADE NA SUCUMBÊNCIA. INVIÁVEL. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial. O Banco do Nordeste do Brasil S/A (BNB) propôs ação de execução de título extrajudicial contra Agrojisa Agropastoril J. Ivo S/A, visando receber quantia devida por inadimplemento de crédito. O juízo de origem declarou a ilegitimidade ativa do BNB, extinguiu a execução e condenou o banco ao pagamento de custas e honorários advocatícios.
+2. O Tribunal local proveu parcialmente o recurso de apelação do BNB, afastando a multa de 2% por embargos protelatórios, mas mantendo a ilegitimidade ativa e os honorários advocatícios. O recurso especial foi inadmitido com base nas Súmulas 5 e 7 do STJ e pela ausência de dissídio jurisprudencial.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve omissão no acórdão recorrido quanto à causa da superveniente perda de legitimidade ativa do BNB, alegando-se violação aos artigos 1.022, II, e 489, §1º, V, do CPC/2015, e se a análise de elementos fático-probatórios e e de norma local poderia ser revista em sede de recurso especial.
+4. Outra questão em discussão é a alegação de violação ao artigo 85, caput, §§ 2º e 8º, do CPC/2015, referente à métrica de dimensionamento dos honorários sucumbenciais, e se tal análise demandaria reexame de matéria fático-probatória.
+5. A última questão é a alegada violação ao artigo 505 do CPC/2015, que não foi objeto de prequestionamento no acórdão recorrido.
+III. Razões de decidir
+6. O acórdão recorrido não apresenta omissão ou ausência de fundamentação, tendo abordado a questão da ilegitimidade ativa do BNB com base em desvio de finalidade na aplicação dos recursos do FINOR.
+7. A análise da pretensão recursal relativa à causalidade da sucumbência envolveria recomposição de elementos fático-probatórios, contratuais, além de interpretação de norma que não se qualifica como lei federal, incidindo nos óbices das Súmulas 5 e 7 do STJ, e escapando à competência desta Corte.
+8. A questão relativa ao redimensionamento da causalidade da sucumbência envolve reanálise do acervo fático-probatório dos autos, o que é vedado em recurso especial, conforme a Súmula 7 do STJ.
+9. A alegação de violação ao artigo 505 do CPC/2015 carece de prequestionamento, incidindo as Súmulas 211 do STJ e 356 do STF.
+IV. Dispositivo
+10. Recurso não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+Preenchidos os requisitos de conhecimento do agravo em recurso especial, passo à análise do recurso especial com fundamento no artigo 253, parágrafo único, inciso II, alínea "a" do Regimento Interno deste Tribunal.
+1. Da alegada omissão quanto à causa da superveniente perda de legitimidade ativa (alegada violação aos artigos 1.022, II, e 489, §1º, V, do CPC/2015, e dos artigos 14 da Lei 8.167/91 e 23 do Decreto-Lei 1.376/1974)
+O recorrente argumenta que o cerne do acórdão recorrido foi a declaração de ilegitimidade ativa do Banco em função do desvio de crédito do FINOR e que "em relação à controvérsia da ocorrência ou não do desvio de crédito que justificasse a superveniente legitimidade da União Federal, o acórdão se limitou a examinar a Resolução nº 11.173 de 09.11.1998, interpretando que referido ato administrativo teria cancelado o convênio por desvio de aplicação de recursos do FINOR" (e-STJ fls. 735). Pontua, ainda, que a própria SUDENE, em ofício enviado ao BNB fez constar que "a empresa teve o seu projeto excluído por inadimplência, gerando, assim, a declaração de caducidade do projeto e seu cancelamento", e que o conceito de "caducidade" adotado pela SUDENE "refere-se ao descumprimento de normas contratuais assumidas, sendo o referido termo substituído por "cancelamento"" (e-STJ fls. 735).
+O recorrente ancora, portanto, o argumento-chave da sua pretensão recursal, relativa à causa da perda superveniente da sua legitimidade ativa para execução de dívida, em elementos fáticos específicos do caso ("asserção de que a própria recorrida desviou seu crédito", e-STJ fls. 736), numa Resolução da SUDENE e no conceito de "caducidade" com referência a normas contratuais sequer especificadas ou tematizadas no acórdão. O acolhimento dessa base argumentativa implicaria, como bem estabeleceu a decisão agravada, revolvimento de elementos fático-probatórios e de cláusulas contratuais sobre os quais apenas as instâncias de origem detêm soberania cognitiva. Portanto, recompor o substrato fático à luz desses elementos aduzidos pelo recorrente esbarraria no óbice das Súmulas nº 5 e 7 desta Corte superior. Além disso, a análise dessas razões recursais envolveria juízo sobre dispositivos normativos que não se enquadram no conceito de lei federal e escapam à competência interpretativa desta Corte superior.
+Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESOLUÇÃO NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+1.- Não cabe no âmbito do Recurso Especial apreciação de violação a artigos de resolução, conquanto tenha natureza normativa, não se enquadra no conceito de "lei federal" previsto no permissivo constitucional.
+2.- A questão relacionada ao valor da indenização não foi objeto de debate pelo Tribunal a quo, carecendo do necessário prequestionamento. Outrossim, não há perder de vista que, "tal como se dá no recurso fundado na letra "a" do inciso III do art. 105 da CF/88, o especial interposto pela alínea "c" do permissivo constitucional também deve atender à exigência do prequestionamento." (cf. REsp n. 146.834-SP, Rel. Ministro Adhemar Maciel, in DJ de 02.02.98).
+3.- Agravo Regimental improvido.
+(AgRg no AREsp n. 331.479/PE, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 20/8/2013, DJe de 4/9/2013.)
+Não fosse tudo isso o suficiente para o não acolhimento da pretensão recursal, a matéria relativa aos pontos aduzidos pelo recorrente foi devidamente enfrentada pelo acórdão criticado nos seguintes termos (e-STJ fls. 527):
+"Ora, face à constatação de desvio de finalidade na aplicação dos recursos do FINOR por parte da executada, entendo assim como o juiz de 1º grau, que houve perda superveniente da legitimidade ativa do exequente (BNB).
+Quanto ao ofício anexado aos autos pelo Banco do Nordeste dando conta de que houve inadimplemento da executada (fls. 328/329), a meu ver, não tem o condão de macular a prova constante dos autos e tampouco as conclusões da Superintendência de Desenvolvimento do Nordeste, dispostas na Proposição nº 20/98 e Resolução nº 11.173/1998.
+A propósito, nas hipóteses como a dos autos  em que há desvio da aplicação da quantia emprestada pelo FINOR  o STJ tem adotado a mesma posição  ilegitimidade ativa do Banco (..)."
+À luz desses aportes e excertos colhidos do acórdão, não se vislumbra nenhuma omissão ou ausência de fundamentação do acórdão atacado pelo recurso especial.
+2. Da alegação de violação ao artigo 85, caput, §§ 2º e 8º, do Código de Processo Civil
+Não conhecível o recurso quanto à causa da superveniente de perda da legitimidade ativa do recorrente na execução  a qual este entende integralmente imputável à conduta da parte adversa, resta prejudicada a alegação de violação aos artigo 85, §§ 2º e 8º do Código de Processo Civil.
+Pelas mesmas razões expendidas acima, o redimensionamento da sucumbência e dos elementos fáticos relativos à causalidade da sucumbência estabelecida pelas instância inferior envolveria incursão cognitiva no acervo fático-probatório dos autos, procedimento incompatível com a via especial e que encontra óbice na Súmula nº 7 desta Corte.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. EXPLOSÃO DO NAVIO VICU A. DANO AMBIENTAL. PARCIAL PROCEDÊNCIA DO PEDIDO. AGRAVO DA ASSOCIAÇÃO. ART. 1022 DO NCPC. INEXISTÊNCIA DE OMISSÃO E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DANO MATERIAL. FALTA DE COMPROVAÇÃO POR PARTE DE ALGUNS DOS ASSOCIADOS. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. ART. 14, § 1º DA LEI Nº 6.938/91. ACÓRDÃO QUE DEU CORRETA APLICAÇÃO À REFERIDA NORMA. DANO MORAL. NÃO COMPROVAÇÃO. DISTRIBUIÇÃO DA SUCUMBÊNCIA. INVIABILIDADE. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. SÚMULA Nº 7 DO STJ.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em razão do princípio da unirrecorribilidade recursal, para cada provimento judicial admite-se apenas um recurso, ocorrendo a preclusão consumativa ao que foi deduzido por último, porque electa una via non datur regressus ad alteram.
+3. Havendo no acórdão manifestação clara e suficiente sobre os temas postos em debate, não há falar em omissão, contradição, obscuridade, erro material e/ou negativa de prestação jurisdicional.
+4. Para rever as conclusões assentadas na Corte paranaensse quanto a falta de comprovação dos prejuízos sofridos por alguns dos associados, demandaria o reexame dos fatos da causa, o que encontra óbice no enunciado da Súmula nº 7 do STJ.
+5. O acórdão recorrido reconheceu que o abalo moral não foi comprovado, porque o nexo de causalidade entre a explosão dos navio vicu a e os alegados prejuízos aventados pelos recorrentes não foram demonstrados, tratando-se o acidente, embora lastimável do ponto de vista ambiental e econômico, de mero dissabor. Incidência, no ponto, da Súmula nº 568 do STJ.
+6. A reforma do julgado quanto ao redimensionamento da sucumbência demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no REsp n. 1.821.656/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/5/2020, DJe de 14/5/2020.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXTINÇÃO PELA SATISFAÇÃO DA OBRIGAÇÃO. RECONHECIMENTO DO PEDIDO. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. PRINCÍPIOS DA SUCUMBÊNCIA E DA CAUSALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 7 e 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu (art. 90, caput do CPC). Incidência da Súmula n. 83 do STJ.
+3. Rever as conclusões do acórdão recorrido a respeito distribuição da sucumbência para fixação de verba honorária sucumbencial demanda a incursão no acervo fático-probatório dos autos. Incidência da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.070.370/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. ALEGAÇÃO DE NÃO OCORRÊNCIA DE DANOS MORAIS. PRETENSÃO DE REDISCUTIR A DISTRIBUIÇÃO DA SUCUMBÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia.
+2. No caso, o eg. Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela ocorrência de danos morais sofridos pelo ora agravado, estes decorrentes de ofensa a sua honra objetiva perpetrada pela agravante, entretanto, reduziu o valor da indenização de R$ 39.400,00 para R$ 20.000,00. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+3. "Revisar a conclusão do Tribunal de origem acerca da distribuição dos ônus da sucumbenciais, feita com base no princípio da causalidade, encontra óbice na Súmula n. 7/STJ" (AgInt no AREsp 2.189.349/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.518.247/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024, DJe de 17/5/2024.)
+A própria recorrente ancora essa pretensão recursal na consideração de elementos fáticos específicos do caso (e-STJ fls. 633):
+"Trata-se de ponto crucial para o deslinde da controvérsia acerca do montante de honorários a que foi condenado o Recorrente, posto que a apreciação das circunstâncias implicaria na conclusão de que, quando do ajuizamento da ação, o Banco detinha plena legitimidade para cobrar a dívida e que a perda de tal legitimidade se deu de forma superveniente e apartada de qualquer atitude sua.
+(..)
+Ao se omitir sobre esse fundamento, reforçada a omissão nos embargos de declaração, houve negativa de prestação jurisdicional, quando não se analisou que a imputação da verba honorária deve tomar por base, efetivamente, o critério de evitabilidade da lide, colocando-se em evidência o vínculo de causalidade que existe entre quem deu causa à demanda e a sua conclusão."
+A análise dos critérios de evitabilidade da lide são elementos fáticos para cuja cognição as instâncias de origem realizaram juízo soberano, impassível de revisão por esta Corte superior em sede especial.
+3. Alegada violação ao artigo 505 do Código de Processo Civil
+Por fim, a alegada violação ao artigo 505 do Código de Processo Civil não foi objeto do acórdão recorrido, tampouco dos embargos declaratórios opostos pela recorrente, de modo que a questão não foi prequestionada. No ponto, incidem, portanto as Súmulas nº 211 desta Corte superior e 356 do Supremo Tribunal Federal, aplicável aqui por analogia  um ponto que se alega omisso numa decisão e sobre o qual não foram opostos embargos de declaração não pode ser objeto de recurso especial por falta de prequestionamento.
+E mesmo se tivesse sido prequestionada, a questão, de todo modo, não seria conhecível na medida em que o recorrente atrela o mérito da questão a uma Resolução da SUDENE, cuja análise não cabe em sede especial (e-STJ fls. 636):
+"A Resolução 11.173 de que a Agrojista se utilizou para fundamentar a ilegitimidade ativa do BNB é de 1998, no entanto, somente em janeiro de 2019 é que a empresa veio a opor nova exceção de pré-executividade para discutir a legitimidade ativa do BNB.
+(..)
+Ao assim decidir, o acórdão violou o artigo 505 do CPC, posto que houve decisão nos autos considerando a ação hígida, não havendo que se discutir a legitimidade do Banco com base em documento que já existia em 19998 e somente foi apresentado pela Agrojista em 2019."
+Portanto, não apenas a análise do argumento recursal escapa à competência desta Corte como a questão em si carece de prequestionamento, incidindo nos óbices das Súmulas 211/STJ e 356/STF.
+Forte nessas razões, conheço do agravo para não conhecer do recurso especial.
+Majoro o percentual de honorários sucumbenciais para 12% (quinze por cento), nos termos do art. 85, § 11, do CPC.
+É o voto.
