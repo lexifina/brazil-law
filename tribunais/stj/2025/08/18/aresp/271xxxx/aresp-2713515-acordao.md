@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE DE VEÍCULOS. TUTELA PROVISÓRIA DE URGÊNCIA. REQUISITOS. AUSÊNCIA. REEXAME. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+2. Admite-se a mitigação do entendimento acima expresso quando o recurso visa a discutir "a interpretação legal das normas que regulam o deferimento da medida" (EDcl nos EDcl no REsp 1.280.826/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2014, DJe 2/2/2015).
+3. A reforma do julgado que manteve a decisão que indeferiu a liminar em que se pretendia a reintegração de posse dos veículos demandaria o reexame de provas, providência inviável em recurso especial, em razão do óbice da Súmula nº 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por EMPRESA DE ÔNIBUS VIAÇÃO GUARULHOS LTDA. contra a decisão que inadmitiu o recurso especial.
+O apelo extremo fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE DE VEÍCULOS. TUTELA PROVISÓRIA DE URGÊNCIA PREMATURA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA MEDIDA. INTELIGÊNCIA DO ART. 300 DO CÓDIGO DE PROCESSO CIVIL (CPC). RECURSO IMPROVIDO. Para obter a tutela provisória de urgência, deve o autor apresentar elementos que evidenciem a probabilidade do direito alegado ("fumus boni juris") e, cumulativamente, o perigo de dano ou o risco ao resultado útil do processo ("periculum in mora"). Ausentes os requisitos cumulativos exigidos pelo art. 300 do CPC ou apenas um deles, correta a decisão que a indeferiu. Os fatos são controvertidos, e, antes de emitir juízo a respeito da alegada rescisão de contrato de locação fundada no descumprimento pela contratante (falta de assinatura do contrato e pagamentos), convém ouvir a parte contrária para que tenha oportunidade de apresentar sua versão, inclusive sobre a que título recebeu a posse dos bens. Outrossim, não se verifica urgência alegada, pois, segundo os elementos dos autos, a ação judicial foi proposta quase oito meses depois do encaminhamento das notificações extrajudiciais" (e-STJ fl. 406).
+Embargos de declaração opostos foram rejeitados (e-STJ fls. 423/427).
+No especial (e-STJ fls. 430/460), a recorrente aponta violação dos arts. 300, 1.019 e 1.210 do Código de Processo Civil.
+Sustenta que vem sofrendo esbulho possessório de seus bens móveis, eis que o recorrido se recusa a assinar contrato de locação, bem como se recusa a devolvê-los e pagar o locatício e os encargos, conforme anteriormente noticiado.
+Aduz que o recorrido vem gozando da utilização livre dos veículos de sua propriedade, sem qualquer contraprestação, o que vem gerando prejuízos de caráter financeiro, tendo em vista que, além de não receber qualquer importância acerca da utilização dos veículos pelo recorrido, deixa de prover ganhos por meio da prestação de serviços a outras empresas, ou até mesmo locando os veículos para terceiros.
+Ao final, requer que seja conferida medida liminar pleiteada, com a reintegração da posse dos veículos.
+Apresentadas as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE DE VEÍCULOS. TUTELA PROVISÓRIA DE URGÊNCIA. REQUISITOS. AUSÊNCIA. REEXAME. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+2. Admite-se a mitigação do entendimento acima expresso quando o recurso visa a discutir "a interpretação legal das normas que regulam o deferimento da medida" (EDcl nos EDcl no REsp 1.280.826/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2014, DJe 2/2/2015).
+3. A reforma do julgado que manteve a decisão que indeferiu a liminar em que se pretendia a reintegração de posse dos veículos demandaria o reexame de provas, providência inviável em recurso especial, em razão do óbice da Súmula nº 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O recurso em análise foi interposto em agravo de instrumento contra a decisão que indeferiu a liminar em que se pretendia a reintegração de posse de veículos.
+O Superior Tribunal de Justiça, alinhado com o entendimento oriundo da Suprema Corte, vem aplicando, analogicamente, a orientação contida na Súmula nº 735/STF, não admitindo recursos especiais que se voltam contra decisões que deferem ou indeferem pedido de medida liminar ou antecipação de tutela, pois o julgamento de questões meritórias é inapropriado para o momento.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA. ARTS. 11 E 489 DO CÓDIGO DE PROCESSO CIVIL DE 2015. OFENSA. NÃO OCORRÊNCIA. OMISSÃO. NÃO VERIFICAÇÃO. TUTELA DE URGÊNCIA. PERICULUM IN MORA. CONFIGURAÇÃO. AUSÊNCIA. ART. 300 DO CPC/2015. SÚMULA Nº 735/STF. INCIDÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Tratando-se da ponderação entre normas ou princípios eminentemente constitucionais, não cabe a esta Corte Superior apreciar a correção do entendimento firmado no acórdão recorrido, sob pena de usurpação de competência do Supremo Tribunal Federal.
+3. Não viola o art. 489 do Código de Processo Civil de 2015 nem importa em omissão a decisão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente.
+4. Na hipótese, a decisão agravada afastou a negativa de prestação jurisdicional, porque o aresto que apreciou os declaratórios entendeu pela inexistência de omissão, tendo em vista a manifestação anterior do tribunal de origem quanto à ausência do periculum in mora, requisito necessário à concessão da tutela de urgência.
+5. A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+6. Agravo interno não provido" (AgInt nos EDcl no AREsp 1.992.801/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 28/10/2022 - grifou-se).
+Todavia, admite-se a mitigação do entendimento acima expresso quando o recurso visa a discutir "a interpretação legal das normas que regulam o deferimento da medida" (EDcl nos EDcl no REsp 1.280.826/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2014, DJe 2/2/2015).
+Com efeito, o acórdão recorrido assim se pronunciou:
+"(..)
+Insurge-se a parte autora contra a r. decisão pela qual foi indeferido seu pedido de tutela provisória de urgência objetivando determinar a reintegração de posse dos veículos que diz terem sido locado.
+Contudo, não se vislumbra, por ora, elementos para dar guarida à sua insurgência.
+(..) Por essas razões, para obter a tutela provisória de urgência, deve o autor apresentar elementos que evidenciem a probabilidade do direito alegado (fumus boni juris) e, cumulativamente, o perigo de dano ou o risco ao resultado útil do processo (periculum in mora). Ausentes os requisitos exigidos no art. 300 do CPC, ou apenas um deles, não é possível a concessão da tutela provisória de urgência.
+Analisados os autos, não se vislumbra, por ora, que a situação fática e jurídica apresentada evidencie a probabilidade do direito alegado e perigo de demora para justificar a concessão da medida sem a prévia oitiva da parte contrária. Assim, agiu acertadamente o douto Juiz de primeiro grau ao indeferir a medida nos seguintes termos:
+(..) Plausível esse entendimento, pois os fatos são controvertidos, e, antes de emitir juízo a respeito da alegada rescisão de contrato de locação fundada no descumprimento pela contratante (falta de assinatura do contrato e pagamentos), convém ouvir a parte contrária para que tenha oportunidade de apresentar sua versão, inclusive sobre a que título recebeu a posse dos bens (se em locação, comodato ou compra e venda).
+Não se pode olvidar que a concessão de tutela de urgência sem ouvir a parte contrária é medida excepcional, não vislumbrada no caso. Ora, alegam que a entrega dos veículos ocorreu a título de locação, mas os termos de entregas dos bens referem expressamente que a agravada "compromete-se a assinar futuro Contrato de Comodato a ser elaborado e pactuado pelas partes em momento oportuno" (fls. 79 e 80 dos autos originais, com destaques meus) curiosamente, sem menção a valores. Não bastasse isso, há um contrato de compra e venda de alguns veículos assinado pela agravada (fls. 61/64 dos autos originais). Assim, as notificações extrajudiciais (fls. 202/211 dos autos originais) não permitem assegurar, incontinenti, que houve o alegado esbulho possessório (art. 561, II, do CPC).
+Outrossim, não se verifica urgência alegada, pois, segundo os elementos dos autos, as notificações foram enviadas em 22/6/2023 (fls. 203/211 dos autos originais), sendo proposta a ação judicial quase oito meses depois (em 02/02/2024 fls. 1 dos autos originais).
+Daí a ausência dos requisitos da plausibilidade do direito invocado, pelo menos por enquanto, e iminente risco de dano irreparável ou de difícil reparação.
+Portanto, ausentes os requisitos cumulativos exigidos pelo art. 300 do CPC, correta a decisão de indeferimento da tutela provisória de urgência, sendo de rigor aguardar a formação do contraditório, sem prejuízo da possibilidade de reavaliação oportuna à luz de novos elementos" (e-STJ fls. 407/410 - grifou-se).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante  o  exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+É o voto.
