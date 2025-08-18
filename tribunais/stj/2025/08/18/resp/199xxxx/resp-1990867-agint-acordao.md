@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA.
+INSURGÊNCIA RECURSAL DA PARTE EMBARGANTE.
+1. Não há vedação à adoção da variação dos Certificados de Depósitos Interbancários - CDI como encargo financeiro em contratos bancários, devendo o abuso ser observado caso a caso, em cotejo com as taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie. Precedentes.
+1.1. No caso, o Tribunal de origem não observou a jurisprudência do STJ ao declarar a ilegalidade do CDI sem verificar a abusividade dos encargos contratados, os autos deverão retornar para análise de eventual abusividade no caso concreto.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por BOX DUZENTOS E QUARENTA E DOIS MODA LTDA - EPP, contra decisão monocrática de fls. 826-830, e-STJ, da lavra deste signatário, que deu provimento ao recurso especial da ora agravado para cassar o acórdão e a sentença, determinando-se o retorno dos autos à primeira instância, a fim de verificar a abusividade da utilização do CDI no caso.
+O apelo extremo interposto pelo fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim emendado (fl. 291, e-STJ):
+APELAÇÃO EMBARGOS À EXECUÇÃO CDI ATUALIZAÇÃO MONETÁRIA - Pretensão de reforma da r. sentença que julgou parcialmente procedentes os pedidos Cabimento parcial Hipótese em que não é possível a utilização do CDI-Certificado de Depósito Interfinanceiro como índice de atualização monetária entre pessoas jurídicas Sucumbência recíproca que deve ser reconhecida RECURSO PARCIALMENTE PROVIDO.
+Embargos de declaração opostos e rejeitados na origem (fls. 302-306, e-STJ).
+Nas razões do apelo extremo (fls. 309-318, e-STJ), o recorrente aponta, além de divergência jurisprudencial, ofensa aos arts. 1.022, I e II e 489 do CPC; 4º, VI e IX e 10, VI, da Lei 4.595/1964. Sustenta, em síntese: a) omissão dos fatos da causa e da prova dos autos inclusive da cláusula contratual expressamente apontada, porquanto o CDI estava sendo utilizado como encargo remuneratório e não como índice de atualização monetária e; b) o ordenamento jurídico permite a utilização de CDI como parâmetro para remunerar o capital emprestado (juros remuneratórios), especialmente em contrato de conta corrente, limite de crédito, conta garantida ou crédito fixo.
+Contrarrazões apresentadas às fls. 323-334, e-STJ.
+Admitido o processamento do recurso na origem (fls. 372-374, e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática, este relator deu provimento ao reclamo para cassar o acórdão e a sentença, determinando-se o retorno dos autos à primeira instância, para novo julgamento no tocante à abusividade ou não da utilização da taxa de CDI no caso concreto.
+No presente agravo interno (fls. 444-464, e-STJ), a parte agravante lança argumentos
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA.
+INSURGÊNCIA RECURSAL DA PARTE EMBARGANTE.
+1. Não há vedação à adoção da variação dos Certificados de Depósitos Interbancários - CDI como encargo financeiro em contratos bancários, devendo o abuso ser observado caso a caso, em cotejo com as taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie. Precedentes.
+1.1. No caso, o Tribunal de origem não observou a jurisprudência do STJ ao declarar a ilegalidade do CDI sem verificar a abusividade dos encargos contratados, os autos deverão retornar para análise de eventual abusividade no caso concreto.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Conforme pontuado no bojo da decisão recorrida,
+1. O recorrente aponta violação aos artigos 489 e 1.022 do CPC, sob os seguintes argumentos: omissão dos fatos da causa e da prova dos autos inclusive da cláusula contratual, porquanto o CDI estava sendo utilizado como encargo remuneratório e não como índice de atualização monetária
+Da leitura do aresto embargado, verifica-se que as alegadas violações não se configuram, na medida em que a Corte Estadual, ao apreciar o recurso oposto pela parte, dirimiu de forma clara e integralmente a controvérsia, abordando as teses apontadas, porém em sentido contrário ao pretendido pelo recorrente, como se vê dos seguintes trechos do decisum (fls. 303-305, e-STJ - grifou-se):
+Sustenta, em apertada síntese, que "o CDI não é utilizado como índice de atualização monetária, mas sim como encargo financeiro, integrando o custo da operação (CDI  JUROS REMUENRATÓRIOS), não havendo a apontada distinção com o precedente do E. STJ, eis que o CDI é utilizado como encargo financeiro na CCB conta garantida" (fls. 02).
+(..)
+Com efeito, afirma o banco que o CDI pode ser utilizado nas cédulas de crédito bancário, sendo inaplicável a Súmula n. 176 do Colendo Superior Tribunal de Justiça ao presente caso. Todavia, ao contrário do quanto afirmado, é evidente a irregularidade na utilização do Certificado de Depósito Interfinanceiro (CDI) como índice de correção monetária, como no caso presente.
+De fato, os Certificados de Depósito Interfinanceiro são títulos emitidos por agentes financeiros com o intuito de captar os recursos excedentes dos demais agentes do sistema financeiro nacional ou de aplicar seus recursos nesse mercado, de forma a garantir a distribuição desse capital, atendendo ao fluxo de recursos inerentes à atividade financeira.
+Para aquisição e transferência desses títulos, adota-se a taxa média diária fixada pela CETIP (Central de Custódia e Liquidação de Títulos), pertencente à Associação Nacional dos Bancos de Investimento e Desenvolvimento (ANDIB).
+Essa taxa, portanto, possui como base o próprio fluxo dos excedentes dos agentes financeiros, e é utilizado como referencial para o custo de dinheiro e para avaliar a rentabilidade das aplicações em fundos de investimento, de modo a servir como parâmetro para as operações financeiras entre agentes distintos.
+Trata-se, assim, de taxa interbancária, que não pode ser utilizada como índice de preço entre pessoas que não integram o Sistema Financeiro Nacional.
+Por outro lado, o artigo 27 da lei nº 9.069/95 expressamente dispõe que:
+"A correção, em virtude de disposição legal ou estipulação de negócio jurídico, da expressão monetária de obrigação pecuniária contraída a partir de 1º de julho de 1994, inclusive, somente poderá dar-se pela variação acumulada do Índice de Preços ao Consumidor".
+Cabe ressaltar que o CDI possui variação diária e que o parágrafo 1º, do artigo 28 da citada lei nº 9.069/95 estabelece que: "É nula de pleno direito e não surtirá nenhum efeito cláusula de correção monetária cuja periodicidade seja inferior a um ano".
+Por fim, o Colendo Superior Tribunal de Justiça, por meio da súmula nº 176, reconheceu que: "É nula a cláusula contratual que sujeita o devedor a taxa divulgada pela ANDIB/CETIP".
+Portanto, ao contrário do julgado do Eg. Superior Tribunal de Justiça apresentado pelo recorrente, no caso em exame não se trata da possibilidade de estipulação dos encargos financeiros em contrato de abertura de crédito com parâmetros nos Certificados de Depósitos Interbancários (CDIs), ou seja, aplicação do CDI como juros remuneratórios, mas como índice de correção monetária, o que, como concluiu o d. juiz sentenciante, é abusivo" (fls.292-293,destacamos).
+Consoante jurisprudência desta Corte Superior, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, são os seguintes precedentes: AgRg no AREsp n. 55.751/RS, Terceira Turma, Relator o Ministro Paulo de Tarso Sanseverino, DJe 14.6.2013; AgRg no REsp n. 1.311.126/RJ, Primeira Turma, Relator o Ministro Napoleão Nunes Maia Filho, DJe 22.5.2013; REsp n. 1244950/RJ, Terceira Turma, Relator o Ministro Sidnei Beneti, DJe 19.12.2012; e EDcl no AgRg nos EREsp n. 934.728/AL, Corte Especial, Relator o Ministro Luiz Fux, DJe 29.10.2009.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Afasta-se, portanto, a alegada ofensa aos artigos 489 e 1022 do CPC/2015.
+2. No tocante à validade da aplicação do indexador CDI como índice de atualização monetária, o Tribunal de origem se manifestou nos seguintes termos (fls. 292-293, e-STJ - grifou-se ):
+Todavia, ao contrário do quanto afirmado, é evidente a irregularidade na utilização do Certificado de Depósito Interfinanceiro (CDI) como índice de correção monetária, como no caso presente.
+De fato, os Certificados de Depósito Interfinanceiro são títulos emitidos por agentes financeiros com o intuito de captar os recursos excedentes dos demais agentes do sistema financeiro nacional ou de aplicar seus recursos nesse mercado, de forma a garantir a distribuição desse capital, atendendo ao fluxo de recursos inerentes à atividade financeira.
+Para aquisição e transferência desses títulos, adota-se a taxa média diária fixada pela CETIP (Central de Custódia e Liquidação de Títulos), pertencente à Associação Nacional dos Bancos de Investimento e Desenvolvimento (ANDIB).
+Essa taxa possui como base o próprio fluxo dos excedentes dos agentes financeiros, e é utilizada como referencial para o custo do dinheiro e para avaliar a rentabilidade das aplicações em fundos de investimento, de modo a servir como parâmetro para as operações financeiras entre agentes distintos.
+Trata-se, assim, de taxa interbancária, que não pode ser utilizada como índice de preço entre pessoas que não integram o Sistema Financeiro Nacional. Por outro lado, o artigo 27 da lei nº 9.069/95 expressamente dispõe que:
+(..)
+Cabe ressaltar que o CDI possui variação diária e que o parágrafo 1º, do artigo 28 da citada lei nº 9.069/95 estabelece que: "É nula de pleno direito e não surtirá nenhum efeito cláusula de correção monetária cuja periodicidade seja inferior a um ano".
+Por fim, o Colendo Superior Tribunal de Justiça, por meio da súmula nº 176, reconheceu que: "É nula a cláusula contratual que sujeita o devedor a taxa divulgada pela ANDIB/CETIP".
+Portanto, ao contrário do julgado do Eg. Superior Tribunal de Justiça apresentado pelo recorrente, no caso em exame não se trata da possibilidade de estipulação dos encargos financeiros em contrato de abertura de crédito com parâmetros nos Certificados de Depósitos Interbancários (CDIs), ou seja, aplicação do CDI como juros remuneratórios, mas como índice de correção monetária; o que, como concluiu o d. juiz sentenciante, é abusivo.
+A controvérsia posta na presente demanda foi objeto de recente julgamento no âmbito desta Quarta Turma:
+DIREITO BANCÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. UTILIZAÇÃO DO CDI COMO ÍNDICE DE CORREÇÃO MONETÁRIA. POSSIBILIDADE CONDICIONADA À NÃO ABUSIVIDADE. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão que manteve sentença declarando a ilegalidade da utilização do Certificado de Depósito Interbancário (CDI) como índice de correção monetária em contrato bancário, sob o argumento de dupla cobrança de encargos remuneratórios.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é legal a utilização do CDI como índice de correção monetária em contratos bancários, cumulada com juros remuneratórios, desde que não se revele abusiva em comparação com as taxas médias de mercado.
+III. Razões de decidir
+3. O entendimento prevalente na Quarta Turma do STJ é de que não há obstáculo legal à utilização do CDI como índice de correção monetária em contratos bancários, desde que a soma dos encargos não seja abusiva.
+4. A análise da abusividade deve ser feita caso a caso, em comparação com as taxas médias de mercado divulgadas pelo Banco Central do Brasil.
+5. O Tribunal de origem não observou a jurisprudência do STJ ao declarar a ilegalidade do CDI sem verificar a abusividade dos encargos contratados.
+IV. Dispositivo e tese
+6. Recurso provido para determinar o retorno dos autos ao Tribunal de origem para novo julgamento, considerando a eventual abusividade dos encargos contratados.
+Tese de julgamento: "A utilização do CDI como índice de correção monetária em contratos bancários é legal, desde que a soma dos encargos não seja abusiva em comparação com as taxas médias de mercado".
+Dispositivos relevantes citados: Lei n. 10.931/2004, art. 28, § 1º, I e II.
+Jurisprudência relevante citada: STJ, REsp n. 1.826.463/SC, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14/10/2020; STJ, AgInt no REsp n. 1.694.443/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/9/2020.
+(AgInt no REsp n. 2.100.881/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2025, DJEN de 27/3/2025.)
+RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. CÉDULA DE CRÉDITO BANCÁRIO. ÍNDICE DE VARIAÇÃO DOS CERTIFICADOS DE DEPÓSITO INTERBANCÁRIO. ENCARGO FINANCEIRO. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. INAPLICABILIDADE DA SÚMULA 176/STJ. LEGALIDADE DA PACTUAÇÃO. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE DESPROPORCIONALIDADE ENTRE A GARANTIA E O DÉBITO. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO QUE ENVOLVE EXAME DE MATÉRIA FÁTICA.
+1. Não há vedação à adoção da variação dos Certificados de Depósitos Interbancários - CDI como encargo financeiro em contratos bancários, devendo o abuso ser observado caso a caso, em cotejo com as taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie, o que não ocorre na espécie. Precedentes.
+2. Recurso do devedor alegando desproporcionalidade entre constrição de bens e valor da dívida. Falta de prequestionamento dos dispositivos de lei federal invocados como violados e necessidade de reexame de matéria de fato, que obstam o conhecimento do recurso especial (Súmulas 282 e 356 do STF e 7 do STJ)
+3. Recurso especial provido.
+4. Agravo em recurso especial não provido.
+(REsp n. 1.630.706/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+Destaca-se, os fundamentos do voto condutor da e. Ministra Maria Isabel Gallotti, no precedente acima referido:
+Dessa forma, entendo que não há obstáculo legal à estipulação dos encargos financeiros de cédula de crédito bancário em percentual sobre a taxa média aplicável aos Certificados de Depósitos Interbancários (CDIs), sendo inaplicável a Súmula nº 176/STJ, devendo eventual abusividade ser verificada em cada caso concreto.
+No caso em exame, conforme se infere da inicial e do recurso especial (e-STJ fl. 3 e fl. 650), foram fixados os seguintes encargos: 100% do CDI e taxa de juros efetiva mensal de 1,05%, correspondendo à taxa efetiva anual de 13,35%, o que significa 100% do custo de captação dos recursos pelo banco no mercado interbancário (encargo flutuante) acrescido da taxa efetiva de juros.
+O acórdão recorrido deu parcial provimento à apelação do banco apenas "para excluir a aplicação do Certificado de Depósito Interbancário (CDI), como índice aplicável à correção monetária da dívida."
+Como visto, o índice de variação dos CDI não é propriamente índice de correção monetária; ele reflete a variação do custo de captação de recursos pelo banco no mercado interbancário, o qual engloba fator de correção e remuneração básica do capital, assim como ocorre com a Selic, esta relacionada ao custo de captação pelo Tesouro.
+O relevante, todavia, não é denominar o índice de variação dos CDI de "correção monetária", como feito pelo acórdão recorrido e pelo acórdão paradigma; de "correção remuneratória", como referido em tópico das razões do recurso especial; de "encargo financeiro", como intitulado no precedente da Terceira Turma acima transcrito, ou de "juros remuneratórios", como referido na manifestação da FEBRABAN, mas assegurar que a remuneração total auferida pela instituição financeira (nela incluído fator de correção) não seja abusiva se cotejada com as taxas médias praticadas no mercado regularmente divulgadas pelo Banco Central para operações da mesma espécie, conforme acórdão da Segunda Seção, sob o rito dos recursos repetitivos, da relatoria da Ministra Nancy Andrighi (REsp. 1.061.530, DJe 10.3.2009).  grifou-se
+Também a Terceira Turma desta Corte já manifestou entendimento semelhante:
+RECURSO ESPECIAL. DIREITO BANCÁRIO. CONTRATO DE ABERTURA DE CRÉDITO. ENCARGOS FINANCEIROS. FIXAÇÃO. PERCENTUAL SOBRE O CDI. POSSIBILIDADE. SÚMULA Nº 176/STJ. INAPLICABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação revisional de contrato bancário na qual se discute se é ou não admissível a estipulação dos encargos financeiros de contrato de abertura de crédito em percentual sobre a taxa média aplicável aos Certificados de Depósitos Interbancários (CDIs), à luz do disposto na Súmula nº 176/STJ.
+3. De acordo com as normas aplicáveis às operações ativas e passivas de que trata a Resolução nº 1.143/1986, do Conselho Monetário Nacional, não há óbice em se adotar as taxas de juros praticadas nas operações de depósitos interfinanceiros como base para o reajuste periódico das taxas flutuantes, desde que calculadas com regularidade e amplamente divulgadas ao público.
+4. O depósito interfinanceiro (DI) é o instrumento por meio do qual ocorre a troca de recursos exclusivamente entre instituições financeiras, de forma a conferir maior liquidez ao mercado bancário e permitir que as instituições que têm recursos sobrando possam emprestar àquelas que estão em posição deficitária.
+5. Nos depósitos interbancários, como em qualquer outro tipo de empréstimo, a instituição tomadora paga juros à instituição emitente. A denominada Taxa CDI, ou simplesmente DI, é calculada com base nas taxas aplicadas em tais operações, refletindo, portanto, o custo de captação de moeda suportado pelos bancos.
+6. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é potestativa a cláusula que deixa ao arbítrio das instituições financeiras, ou associação de classe que as representa, o cálculo dos encargos cobrados nos contratos bancários.
+7. Não é potestativa a cláusula que estipula os encargos financeiros de contrato de abertura de crédito em percentual sobre a taxa média aplicável aos Certificados de Depósitos Interbancários (CDIs), visto que tal indexador é definido pelo mercado, a partir das oscilações econômico-financeiras, não se sujeitando a manipulações que possam atender aos interesses das instituições financeiras.
+8. Eventual abusividade deve ser verificada no julgamento do caso concreto em função do percentual fixado pela instituição financeira, comparado às taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie, conforme decidido em precedentes desta Corte julgados sob o rito dos recursos repetitivos, o que não se verifica na espécie.
+9. Recurso especial provido.
+(REsp 1781959/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/02/2020, DJe 20/02/2020)  grifou-se
+Ocorre que, no caso, tendo sido julgada procedente a demanda com fundamento na abusividade por si só da utilização da taxa CDI, não houve qualquer análise quanto à abusividade no caso concreto.
+Assim sendo, afastada a abusividade (por si só) da utilização da taxa CDI, os autos deverão retornar à primeira instância, para análise de eventual abusividade no caso concreto, à luz da média de mercado, com a devida apreciação da forma de incidência do encargo no caso (se um única vez, como fato de correção e remuneração; ou se duas vezes).
+Resguardada, caso entenda necessário o Juízo, a reabertura da instrução probatória.
+De rigor, a manutenção da decisão recorrida.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
