@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER E DE COMPENSAÇÃO DE DANOS MORAIS. COMPETÊNCIA TERRITORIAL. FORO ALEATÓRIO. ART. 63, § 5º , DO CPC. DECLINAÇÃO DE OFÍCIO. POSSIBILIDADE.
+1. Nos termos do art. 63, § 5º, do Código de Processo Civil, o juiz pode declinar de ofício da competência territorial quando o foro for escolhido pelo consumidor de forma aleatória, o que ocorre na hipótese em que o debate se referir a obrigações originadas na agência ou sucursal e ação é ajuizada no foro da sede da pessoa jurídica.
+2. Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por ADRIANA DA SILVA GONÇALVES.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e " c", da Constituição Federal, insurg e-se contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA COLETIVA. CÉDULA DE CRÉDITO RURAL COBRANÇA DE DIFERENÇA DE ÍNDICE DE CORREÇÃO APLICADO SOBRE O DÉBITO DERIVADO DE CÉDULA DE CRÉDITO RURAL. PROCESSO MOVIDO CONTRA O BANCO DO BRASIL. DECISÃO QUE DECLINA DA COMPETÊNCIA DE OFÍCIO. CONTRATO FIRMADO E CUMPRIDO PERANTE FILIAL DA INSTITUIÇÃO FINANCEIRA. FORO DO DOMICÍLIO DO RÉU AFERIDO DE ACORDO COM O ART. 53, III, "B", DO CPC. DISTRIBUIÇÃO DA AÇÃO NO DISTRITO FEDERAL. ESCOLHA SEM AMPARO NAS REGRAS DE COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA ABSOLUTA. VIOLAÇÃO DO PRINCÍPIO DO JUIZ NATURAL E DA DISTRIBUIÇÃO DA JURISDIÇÃO ESTABELECIDA NA CONSTITUIÇÃO FEDERAL. DECISÃO MANTIDA.
+1. Ainda que a escolha do foro pelo consumidor possa ser realizada com flexibilidade, ela deve ocorrer dentro dos limites legais, a fim de que se seja avaliada como competência territorial, à luz da Súmula 33 do STJ.
+2. A distribuição aleatória de ações por consumidores, sem observar nenhuma das hipóteses legais que regem a competência territorial, enseja a constatação de incompetência absoluta, por afronta ao princípio do juiz natural, por violar o sistema de organização do Poder Judiciário e por afrontar própria parcela de jurisdição distribuída entre os órgãos judiciais.
+3. Nos casos de distribuição aleatória de ações em outras Unidades da Federação, por consumidores em busca de prestação jurisdicional que lhe possa ser mais favorável, célere ou com custas processuais menos onerosas, constata-se que a afronta à regra de competência territorial estabelecida no art. 53, III, "b", do CPC enseja hipótese de incompetência funcional de ordem constitucional.
+4. Por força do art. 125 da CF/88, em respeito ao princípio federativo, e frente aos limites constitucionais da jurisdição, o Poder Judiciário Estadual é constituído para prestar jurisdição no âmbito das respectivas Unidades Federativas, por órgãos que são instituídos por critérios locais, observando extensão territorial, contingente populacional, volume de atividade jurídica, de acordo com questões legais e com a capacidade administrativa, fiscal e orçamentária de cada Estado da Federação e do Distrito Federal.
+5. O ajuizamento de demandas no TJDFT discutindo relações jurídicas realizadas por filiais estabelecidas em todo o território nacional viola regra de distribuição de jurisdição e de competência funcional dispostas na Constituição Federal, em afronta ao pacto federativo, sendo passível de acarretar graves consequência de ordem jurídica e fiscais, pois o Poder Judiciário Distrital não foi constituído com estrutura e recursos para exercer jurisdição em todo território nacional.
+6. AGRAVO DE INSTRUMENTO DESPROVIDO." (e-STJ fl. 154).
+No recurso especial, a recorrente aponta, além da ocorrência de divergência jurisprudencial, a violação dos arts. 101, I, do Código de Defesa do Consumidor, 46 e 63, § 5º, do Código de Processo Civil. Afirma, essencialmente, que, em matéria de consumo, o consumidor pode escolher ajuizar a ação no foro que mais lhe for conveniente, sendo vedada a declinação de competência territorial de ofício.
+Foram apresentadas contrarrazões (e-STJ fls. 296/304), e o recurso foi admitido.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER E DE COMPENSAÇÃO DE DANOS MORAIS. COMPETÊNCIA TERRITORIAL. FORO ALEATÓRIO. ART. 63, § 5º , DO CPC. DECLINAÇÃO DE OFÍCIO. POSSIBILIDADE.
+1. Nos termos do art. 63, § 5º, do Código de Processo Civil, o juiz pode declinar de ofício da competência territorial quando o foro for escolhido pelo consumidor de forma aleatória, o que ocorre na hipótese em que o debate se referir a obrigações originadas na agência ou sucursal e ação é ajuizada no foro da sede da pessoa jurídica.
+2. Recurso especial não provido.
+VOTO
+A insurgência não merece prosperar.
+Quanto à possibilidade de escolha do foro em ação de consumo, o Tribunal de origem concluiu que se tratava de foro escolhido de forma aleatória, o que autoriza a declinação de ofício da competência territorial, consignando que:
+"Da detida análise dos autos, revela-se que a pretensão recursal não merece ser acolhida, pois, considerando as circunstâncias relativas à relação jurídica material controvertida, verifica-se que a distribuição do feito perante a Justiça Comum do Distrito Federal representa escolha aleatória de foro, que excede as regras legais que regem a competência territorial, afrontando, assim, regra de competência funcional disposta na Constituição Federal (CF/88).
+ ..
+No caso dos autos, o autor residia no município de Comarca de São Vicente/SP, sendo certo que a cédula de crédito rural foi firmada na comarca da mesma localidade.
+Contudo, mesmo considerando a opção do consumidor pelo ajuizamento da ação no foro do domicílio do réu, o processo deveria ser movido na São Vicente/SP, pois o sistema processual que cuida da competência territorial estabelece a competência do foro da agência ou sucursal, e não da sede da empresa demandada, conforme disposição expressa do art. 53, III, "b", do CPC:
+ ..
+O contrato e a agência bancária onde o negócio foi pactuado não possui qualquer vínculo com o Distrito Federal, sendo inviável a manutenção da competência territorial local, a pretexto de ser o domicílio da sede do Banco do Brasil." (e-STJ, fls. 140/142 - grifou-se).
+Em relação ao tema, a jurisprudência deste Tribunal Superior adotou, em recente julgado, a orientação de que, nos termos do art. 63, § 5º, do Código de Processo Civil, o juiz pode declinar de ofício da competência territorial quando o foro for escolhido pelo consumidor de forma aleatória, o que ocorre na hipótese em que o debate se referir a obrigações originadas na agência ou sucursal e ação é ajuizada no foro da sede da pessoa jurídica.
+Nesse sentido:
+"RECURSO ESPECIAL. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. COMPETÊNCIA. SEDE DA PESSOA JURÍDICA. SEDE DA AGÊNCIA. DOMICÍLIO DO CONSUMIDOR. ESCOLHA ABUSIVA. ESCOLHA ALEATÓRIA. NÃO COMPROVADO. NOTA TÉCNICA. INCOMPETÊNCIA DE OFÍCIO. SÚMULA 33/STJ. DIREITO DO CONSUMIDOR.
+1. Ação de liquidação individual de sentença da qual foi extraído o presente recurso especial, interposto em 15/09/2023 e concluso ao gabinete em 14/10/2024.
+2. O propósito recursal é decidir se o juízo do local da sede da pessoa jurídica que figura no polo passivo de liquidação individual de sentença proferida em Ação Civil Pública pode declarar-se incompetente, de ofício, sob o argumento de que a ação foi proposta em juízo aleatório.
+3. Apesar de a sentença que julgou a Ação Civil Pública ter sido proferida pela Justiça Federal, nas hipóteses em que apenas o Banco do Brasil figura como parte porque o credor escolheu somente ele entre os devedores solidários, a Justiça Estadual Comum é competente para processar e julgar a liquidação individual. Precedentes.
+4. A alternativa adicional de o beneficiário utilizar-se do foro de seu domicílio não afasta as regras gerais de competência, pois a liquidação e o cumprimento das sentenças proferidas no processo coletivo também seguem as disposições do Código de Processo Civil, ressalvadas suas peculiaridades.
+5. Nos termos do atual art. 63 do CPC, existe a possibilidade de o juiz afastar de ofício a competência quando o juízo escolhido pela parte tiver sido aleatório ou quando a cláusula de eleição de foro for abusiva, superando parcialmente o que dispunha a Súmula 33 do STJ ("a incompetência relativa não pode ser declarada de ofício").
+6. Conforme determina o art. 63, §5º do CPC, o juízo aleatório é aquele que não possui vinculação com o domicílio ou a residência das partes, ou com o negócio jurídico discutido na demanda.
+7. Nos termos dos arts. 63, §5º e 516, parágrafo único, do CPC, não se pode considerar abusiva ou aleatória a escolha do beneficiário de liquidar ou executar individualmente a sentença coletiva no foro de domicílio do executado.
+8. Embora a regra geral de competência territorial determine que a demanda seja proposta na sede da pessoa jurídica, quando o debate se refere a obrigações assumidas na agência ou sucursal, o foro dessas últimas é o competente.
+9. Recurso desprovido." (REsp n. 2.106.701/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/2/2025, DJEN de 5/3/2025.)
+Assim, o acórdão recorrido, que, em ação de consumo, declinou de ofício da competência territorial na hipótese de foro aleatório, possui respaldo na jurisprudência desta Corte, não merecendo, assim, reforma.
+Ante o exposto, nego provimento ao recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
