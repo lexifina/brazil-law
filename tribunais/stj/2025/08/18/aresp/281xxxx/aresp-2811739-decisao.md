@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ICATU SEGUROS S. A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ, prejudicada a análise da divergência jurisprudencial, pois não foi demonstrada a similitude fática entre o acórdão recorrido e o acórdão paradigma.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação declaratória de inexistência de relação jurídica cumulada com indenização por danos morais e materiais.
+O julgado foi assim ementado (fls. 640-641):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+PRELIMINAR AVENTADA NAS CONTRARRAZÕES DA SEGURADORA DEMANDADA.
+ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE AO ARGUMENTO DE QUE AS RAZÕES RECURSAIS ESTÃO DISSOCIADAS DOS FUNDAMENTOS DA SENTENÇA RECORRIDA. NÃO ACOLHIMENTO. EXPOSIÇÃO DOS FATOS E DO DIREITO DEVIDAMENTE PRESENTES NO RECLAMO. OPOSIÇÃO SUFICIENTE AOS TERMOS DA DECISÃO COMBATIDA. EXEGESE DO ART. 1.010, II E III, DO CÓDIGO DE PROCESSO CIVIL.
+INSURGÊNCIA DA ASSOCIAÇÃO RÉ.
+DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. NEGATIVA DA PARTE AUTORA DE ADESÃO À ASSOCIAÇÃO E À PACTUAÇÃO DE SEGURO COM AS RÉS.
+PLEITO DE EXCLUSÃO DA INDENIZAÇÃO POR DANOS MORAIS. SUBSISTÊNCIA. HIPÓTESE DE DANO NÃO PRESUMIDO. DESCONTOS INDEVIDOS DE PERCENTUAL ÍNFIMO DA RENDA DA PARTE AUTORA E QUE NÃO AFETARAM O PODER DE COMPRA DE BENS ESSENCIAIS. DEDUÇÕES QUE PERDURARAM POR CURTO ESPAÇO DE TEMPO. INEXISTÊNCIA DE INDÍCIOS MÍNIMOS DA OCORRÊNCIA DE FATOS CONCRETOS CAUSADORES DE DOR PSÍQUICA E DESASSOSSEGO À POSTULANTE. PROVA DOCUMENTAL QUE SE REVELA INSUFICIENTE PARA DEMONSTRAR O FATO CONSTITUTIVO DO ALEGADO ABALO ANÍMICO.
+RECURSO DA PARTE AUTORA.
+TESE DE LEGITIMIDADE PASSIVA E DE RESPONSABILIDADE DA SEGURADORA. ACOLHIMENTO. EXISTÊNCIA DE ELEMENTOS NOS AUTOS QUE INDICAM PARCERIA COMERCIAL ENTRE AS RÉS. APLICAÇÃO DA TEORIA DA APARÊNCIA. PERTINÊNCIA SUBJETIVA DA LIDE EVIDENCIADA. RESPONSABILIDADE SOLIDÁRIA DE AMBAS AS DEMANDADAS.
+ALEGAÇÃO DE CABIMENTO DA REPETIÇÃO DOBRADA DO INDÉBITO. INSUBSISTÊNCIA. MODULAÇÃO DOS EFEITOS DA DECISÃO PROFERIDA PELO STJ NO EARESP N. 600.663/RS. RESTITUIÇÃO DEVIDA EM DOBRO TÃO SOMENTE APÓS 30-3-2021. PARCELAS DEBITADAS NO CASO CONCRETO ENTRE FEVEREIRO E JULHO DE 2019.
+DEFENDIDA A SUCUMBÊNCIA INTEGRAL DA PARTE RÉ. NÃO ACOLHIMENTO. AUTORA QUE REMANESCEU VENCIDA NA PRETENSÃO DE ABALO ANÍMICO. SUCUMBÊNCIA RECÍPROCA CARACTERIZADA. INTELIGÊNCIA DO ART. 86 DO CPC.
+ALEGADA INSUFICIÊNCIA DO MONTANTE DOS HONORÁRIOS SUCUMBENCIAIS. VIABILIDADE. VALOR DA CONDENAÇÃO IRRISÓRIO. MONTANTE FIXADO NA ORIGEM QUE NÃO REMUNERA DIGNAMENTE O LABOR DOS CAUSÍDICOS DAS PARTES. ALTERAÇÃO PARA DETERMINAR O VALOR ATUALIZADO DA CAUSA COMO BASE DOS HONORÁRIOS DE SUCUMBÊNCIA.
+RECURSO DA PRIMEIRA RÉ CONHECIDO E PROVIDO. APELO DA AUTORA CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram opostos e rejeitados (fl. 688).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 485, VI, § 3º, do CPC, porquanto a decisão de extinção do processo sem resolução do mérito foi correta, visto que a ICATU não tem legitimidade para figurar no polo passivo;
+b) 7º, parágrafo único, do CDC, pois não há responsabilidade solidária da ICATU pelos atos da ABAMSP;
+c) 801, § 1º, do CC, visto que o estipulante não representa o segurador perante o grupo segurado; e
+d) 489, § 1º, I, II, III, IV e V, 1.022, II, do CPC, porquanto o acórdão recorrido não enfrentou as questões centrais da lide, omitindo-se sobre o cancelamento das apólices de seguro coletivo.
+Sustenta que o Tribunal de origem divergiu do acórdão paradigma da Apelação n. 1002806-11.2021.8.26.0404 ao aplicar a teoria da aparência, reconhecendo responsabilidade solidária entre a ICATU e a ABAMSP, enquanto o Tribunal de Justiça de São Paulo, em caso idêntico, considerou a ICATU parte ilegítima para responder pelos atos exclusivos da ABAMSP.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, restabelecendo a sentença que extinguiu o processo sem resolução do mérito a favor da ICATU, por ausência de legitimidade ad causam, considerando não haver nexo causal algum que justifique o acionamento dela em razão de atos praticados exclusivamente pela estipulante ABAMSP.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de declaração de inexistência de relação jurídica cumulada com indenização por danos morais e materiais em que a parte autora pleiteou a declaração de inexistência de relação jurídica com as rés, a condenação ao pagamento de danos morais no importe de R$ 25.000,00 e à repetição em dobro dos valores indevidamente descontados.
+Preliminarmente, afasta-se a alegação de ofensa aos 489, § 1º, I, II, III, IV e V, 1.022, II, do CPC, porquanto o Tribunal de origem de fato analisou os pontos reputados omissos, conforme se demonstrará a seguir.
+A Corte estadual reformou a sentença para reconhecer a legitimidade passiva e a responsabilidade solidária das rés, condenando-as à repetição de indébito das parcelas descontadas indevidamente na forma simples, acrescidas dos consectários fixados na sentença, e ao pagamento dos encargos sucumbenciais, bem como alterar a base de cálculo dos honorários de sucumbência.
+Confiram-se trechos do acórdão (fl. 685-686).
+III. I - Da legitimidade e responsabilidade solidária da seguradora:
+A sentença deliberou no sentido de julgar extinto o feito em relação à seguradora ré por ilegitimidade passiva, por entender que "toda a relação securitária se deu entre a ICATU SEGUROS S/A e a ABPAP - ASSOCIACAO BRASILEIRA DE PENSIONISTAS E APOSENTADOS, não havendo prova de que tenha sido realizado algum desconto em benefício direto da seguradora requerida" (evento 145, SENT1 dos autos de origem).
+A parte autora, por sua vez, sustenta que " a associação Apelada é uma espécie de preposta/representante, que atua ilegal e ilicitamente para consecução de novos contratos de seguro em favor da requerida" (Evento 159, APELAÇÃO1, p. 5).
+Com razão a postulante.
+Insta salientar que, em que pese a seguradora tenha comprovado que as apólices securitárias eram não contributárias, ou seja, custeadas totalmente pela associação ré (evento 20, CONTR6-8 dos autos de origem), não se pode afastar a incidência da teoria da aparência.
+Nesse sentido, verifica-se que as rés atuam em conjunto publicamente, de modo que, na perspectiva do consumidor, notadamente os mais vulneráveis (como na hipótese), se trata de produto oferecido pelo mesmo fornecedor (evento 1, INIC1, págs. 5-6 dos autos de origem):
+ ..
+Nesse contexto, é certo que se aplica ao caso a teoria da aparência, reconhecendo-se a responsabilidade solidária inserta no artigo 7º, parágrafo único, do CDC.
+ ..
+Com feito, denota-se que não houve omissão no acórdão objurgado, uma vez que, como fundamentado acima, constatando-se que a seguradora ré e a associação corré atuam em conjunto publicamente e que na perspectiva do consumidor se trata de produto oferecido pelo mesmo fornecedor, restou caracterizada a pertinência subjetiva da lide em face da seguradora embargante.
+Afasta-se, portanto alegada ofensa aos arts. 489, § 1º, I, II, III, IV e V, 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Desse modo os pontos necessários para o deslinde da referida ação foram devidamente analisados não havendo falar em omissão ou ausência de fundamentação no acórdão recorrido, bem como "não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+Quanto às supostas violações dos arts. 485, VI, § 3º, do Código de Processo Civil, 7º, parágrafo único, do Código de Defesa do Consumidor, e 801, § 1º, do Código Civil, sustenta a parte agravante que a extinção do processo sem resolução do mérito foi acertada, diante da ilegitimidade passiva da ICATU. Afirma, ainda, que não há falar em responsabilidade solidária da referida seguradora pelos atos praticados pela ABAMSP, uma vez que inexiste nexo causal entre a conduta da ICATU e os descontos realizados pela associação.
+Argumenta, também, que o estipulante não atua como representante da seguradora perante o grupo de segurados, sendo, portanto, o único responsável pelo adimplemento das obrigações contratuais assumidas.
+Dessa forma, alterar o entendimento do Tribunal a quo demandaria reexame do acervo probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ. Por conseguinte, é incabível a pretensão recursal que visa rediscutir matéria eminentemente fática já solucionada pelas instâncias ordinárias. (AgInt no REsp n. 1.943.121/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, de 15% para 17% sobre o valor atualizado atribuído à causa, os honorários advocatícios em desfavor da parte ora agravante, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
