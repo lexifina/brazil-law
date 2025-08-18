@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. PROGRAMA ESPECIAL DE REGULARIZAÇÃO TRIBUTÁRIA (PERT). IRPJ, CSLL, PIS E COFINS. BASE DE CÁLCULO. EXCLUSÃO DAS REDUÇÕES DE JUROS MORATÓRIOS E DE MULTA. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. Conforme o entendimento consolidado pelas Turmas integrantes da Primeira Seção desta Corte Superior, é incabível excluir os valores remetidos a título de multas e de juros no âmbito do Programa Especial de Regularização Tributária (PERT) da base de cálculo do Imposto de Renda Pessoa Jurídica (IRPJ), da Contribuição Social sobre o Lucro Líquido (CSLL), da contribuição ao Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS), visto que a remissão de dívida tributária resulta em acréscimo patrimonial, e, portanto, deve ser reconhecida como receita tributável, impactando diretamente na apuração desses tributos.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por RESICOLOR INDUSTRIA DE PRODUTOS QUIMICOS LTDA da decisão de fls. 301/303, em que neguei provimento ao recurso especial com os seguintes fundamentos:
+(1) impossibilidade de excluir os valores de multas e de juros no âmbito do Programa Especial de Regularização Tributária (PERT) da base de cálculo do IRPJ, da CSLL, da contribuição ao PIS e da COFINS, visto que a remissão de dívida tributária resultava em acréscimo patrimonial, devendo ser reconhecida como receita tributável; e
+(2) o entendimento consolidado pelas Turmas da Primeira Seção do STJ sobre a incidência desses tributos.
+A parte agravante alega que o tema discutido não encontra entendimento sedimentado no Superior Tribunal de Justiça (STJ), uma vez que a exclusão dos descontos obtidos com o PERT da base de cálculo dos tributos não foi objeto de recurso repetitivo.
+Sustenta que os julgados citados na decisão monocrática referem-se ao PERT como benefício fiscal, quando o parcelamento se trata de renúncia.
+Afirma que existem julgados favoráveis à sua tese, como o proferido pelo Ministro Herman Benjamin no REsp 1.971.518/PE, que reconhece a impossibilidade de considerar os valores dos descontos obtidos como receita tributável.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 326).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. PROGRAMA ESPECIAL DE REGULARIZAÇÃO TRIBUTÁRIA (PERT). IRPJ, CSLL, PIS E COFINS. BASE DE CÁLCULO. EXCLUSÃO DAS REDUÇÕES DE JUROS MORATÓRIOS E DE MULTA. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. Conforme o entendimento consolidado pelas Turmas integrantes da Primeira Seção desta Corte Superior, é incabível excluir os valores remetidos a título de multas e de juros no âmbito do Programa Especial de Regularização Tributária (PERT) da base de cálculo do Imposto de Renda Pessoa Jurídica (IRPJ), da Contribuição Social sobre o Lucro Líquido (CSLL), da contribuição ao Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS), visto que a remissão de dívida tributária resulta em acréscimo patrimonial, e, portanto, deve ser reconhecida como receita tributável, impactando diretamente na apuração desses tributos.
+2. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece prosperar.
+Conforme consta da decisão de fls. 301/304, o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO seguiu o entendimento consolidado pelas Turmas integrantes da Primeira Seção desta Corte Superior de que é incabível excluir os valores remetidos a título de multas e de juros no âmbito do Programa Especial de Regularização Tributária (PERT) da base de cálculo do IRPJ, da CSLL, da contribuição ao PIS e da COFINS, visto que a remissão de dívida tributária resulta em acréscimo patrimonial, e, portanto, deve ser reconhecida como receita tributável, impactando diretamente na apuração desses tributos.
+A propósito, cito os seguintes julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. MULTA DO ART. 1.026, § 2º, DO CPC. INAPLICABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. DÉBITOS FEDERAIS INSCRITOS EM DÍVIDA ATIVA. LEGITIMIDADE PASSIVA DO PROCURADOR-CHEFE DA FAZENDA NACIONAL PARA FIGURAR NO POLO PASSIVO DO MANDADO DE SEGURANÇA. PROGRAMA ESPECIAL DE REGULARIZAÇÃO TRIBUTÁRIA - PERT. REDUÇÃO DE JUROS, MULTAS E ENCARGOS LEGAIS. IRPJ/CSLL E PIS/COFINS. INCIDÊNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+1. A mera oposição de embargos de declaração, sem intuito protelatório, não justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC, conforme determina o Enunciado 98 da Súmula desta Corte, segundo no qual "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+2. Não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+3. A parte legítima para figurar no polo passivo de mandado de segurança no qual se discute débitos federais inscritos em dívida ativa é o Procurador-Chefe da Fazenda Nacional. Precedente.
+4. "É pacífico o entendimento do Superior Tribunal de Justiça de que qualquer benefício fiscal obtido que tenha por consequência impacto positivo no lucro da empresa deve surtir efeito na base de cálculo do IRPJ, CSLL e também das contribuições ao PIS e Cofins" (AgInt no REsp n. 1.971.518/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/8/2024, DJe de 23/8/2024). Em igual sentido: AgInt no AREsp n. 2.149.908/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/6/2024, DJe de 3/7/2024; e REsp n. 1.959.395/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/12/2023, DJe de 11/12/2023.
+5. Recurso especial parcialmente conhecido e, nessa extensão, provido apenas para afastar a penalidade do art. 1.026, § 1º, do CPC.
+(REsp n. 2.115.529/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/9/2024, DJe de 19/9/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. PARCELAMENTO ESPECIAL DE REGULARIZAÇÃO TRIBUTÁRIA DO SIMPLES NACIONAL (PERT). REDUÇÃO DE JUROS E MULTA. INCLUSÃO NAS BASES DE CÁLCULO DO IRPJ, CSLL, PIS E COFINS. INEXISTÊNCIA DE OMISSÃO. ACRÉSCIMO PATRIMONIAL OU RECEITA/FATURAMENTO.
+1. Trata-se, na origem, de Mandado de Segurança com o escopo de determinar que a autoridade competente se abstenha de efetuar "o lançamento do IRPJ, da CSLL, do PIS e da COFINS sobre o valor dos descontos obtidos em razão da adesão ao PERT, bem como de efetuar qualquer outro ato de cobrança, direta ou indireta".
+2. Não há contrariedade aos arts. 489 e 1.022, II do CPC, pois o Tribunal de origem fundamentadamente rejeitou a tese de que a renúncia fiscal oriunda do PERT trataria de acréscimo patrimonial aos contribuintes. Ademais, o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da sua tese. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nessa linha: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24.2.2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2.6.2015; e EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 27.5.2015.
+3. É pacífico o entendimento do Superior Tribunal de Justiça de que qualquer benefício fiscal obtido que tenha por consequência impacto positivo no lucro da empresa deve surtir efeito na base de cálculo do IRPJ, CSLL e também das contribuições ao PIS e Cofins.
+4. Agravo Interno provido para conhecer do Recurso Especial e o prover parcialmente.
+(AgInt no REsp n. 1.971.518/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/8/2024, DJe de 23/8/2024.)
+TRIBUTÁRIO. PROGRAMA DE PARCELAMENTO. ADESÃO. IRPJ. CSLL. DESCONTOS/REDUÇÕES CONCEDIDOS NO ÂMBITO DO PERT. INCIDÊNCIA.
+1. A concessão de benefício fiscal de redução tributária, em regra, por operar diminuição nos custos da empresa, impacta positivamente em seu lucro, de modo a atrair, sobre o valor correspondente a essa redução, a incidência do IRPJ e da CSLL.
+2. Incidência do IRPJ e da CSLL sobre os descontos/reduções de multas e juros concedidos ao contribuinte na adesão a programa de parcelamento tributário - PERT.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.149.908/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/6/2024, DJe de 3/7/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
