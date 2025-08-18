@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, dar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. MULTA PERIÓDICA (ASTREINTES). VALOR ACUMULADO DA MULTA VENCIDA. REVISÃO. IMPOSSIBILIDADE. REGRA ESPECÍFICA NO CPC. DESESTÍMULO À RECALCITRÂNCIA E À LITIGÂNCIA ABUSIVA REVERSA. PRECEDENTE VINCULANTE DA CORTE ESPECIAL.
+1. Ação de obrigação de fazer, em fase de cumprimento provisório de sentença.
+2. Nos termos da regra do art. 537, § 1º, do CPC, a modificação das astreintes somente é possível em relação à multa vincenda. Além disso, a insurgência referente aos valores elevados alcançados com a incidência da multa periódica deve ser combatido, de modo preventivo, por meio dos seguintes expedientes: i) conversão da obrigação de fazer em perdas e danos, de ofício, quando verificada a inércia abusiva do credor em relação ao exercício da faculdade prevista no art. 499 do CPC; e ii) preferência pela expedição de ordens judiciais a órgãos públicos e instituições privadas visando ao alcance do resultado prático equivalente ao adimplemento, substituindo a atuação do obrigado, quando possível. Nesse sentido: EAREsp n. 1.479.019/SP, Corte Especial, julgado em 7/5/2025, DJEN de 19/5/2025.
+3. Agravo em recurso especial conhecido. Recurso especial conhecido e provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo em recurso especial interposto por FERNANDA NOGUEIRA MOURA RIBEIRO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer, em fase de cumprimento provisório de sentença, ajuizada pela agravante, em face de NOTRE DAME INTERMEDICA SAUDE S.A., visando à cobertura de cirurgias reparadoras não estéticas pós-bariátrica (e-STJ fl. 120).
+Decisão interlocutória: reconheceu a exigibilidade do preceito cominatório, no valor de R$ 276.000,00 (duzentos e setenta e seis mil reais), com determinação de depósito pela operadora em 15 dias (e-STJ fl. 97).
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela agravada, para reduzir o valor da multa para R$ 30.000,00 (trinta mil reais), nos termos da seguinte ementa:
+Agravo de instrumento. Plano de saúde. Cumprimento provisório de decisão. Cirurgia plástica pós-bariátrica. Levantamento de valores para custeio de parte dos procedimentos que não foram autorizados pela operadora. Possibilidade. Medida que encontra amparo nos arts. 139, IV, 297 e 536 todos do CPC. Execução da liminar descumprida pela operadora. Decisão mantida quanto a esse aspecto. Preceito cominatório. Agravante que não demonstrou o cumprimento integral da obrigação, havendo cumprimento parcial. Exigibilidade da multa mantida, reduzido o valor para R$ 30.000,00. Valor arbitrado pelo juízo a quo (sic), correspondente a R$ 276.000,00, que se mostra desproporcional e apto a acarretar o enriquecimento sem causa parte. Execução provisória do preceito cominatório possível, vedado o levantamento antes do trânsito em julgado da sentença favorável à parte, nos termos do art. 537, § 3º, do CPC. Recurso parcialmente provido. (e-STJ fl. 119)
+Recurso especial: alega violação do art. 537, §1º, I e II, e § 2º, do CPC. Sustenta que a legislação processual civil não permite eficácia retroativa para modificar o montante acumulado da multa, seja para aumentá-la ou reduzi-la. A modificação deve ter eficácia prospectiva, ou seja, só vale para o futuro, mantendo a incidência ocorrida no passado.
+Ademais, versa que o valor acumulado da multa passa a integrar o patrimônio do exequente como crédito de valor, perdendo a natureza de matéria de ordem pública (e-STJ fls. 125-128).
+É o relatório.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. MULTA PERIÓDICA (ASTREINTES). VALOR ACUMULADO DA MULTA VENCIDA. REVISÃO. IMPOSSIBILIDADE. REGRA ESPECÍFICA NO CPC. DESESTÍMULO À RECALCITRÂNCIA E À LITIGÂNCIA ABUSIVA REVERSA. PRECEDENTE VINCULANTE DA CORTE ESPECIAL.
+1. Ação de obrigação de fazer, em fase de cumprimento provisório de sentença.
+2. Nos termos da regra do art. 537, § 1º, do CPC, a modificação das astreintes somente é possível em relação à multa vincenda. Além disso, a insurgência referente aos valores elevados alcançados com a incidência da multa periódica deve ser combatido, de modo preventivo, por meio dos seguintes expedientes: i) conversão da obrigação de fazer em perdas e danos, de ofício, quando verificada a inércia abusiva do credor em relação ao exercício da faculdade prevista no art. 499 do CPC; e ii) preferência pela expedição de ordens judiciais a órgãos públicos e instituições privadas visando ao alcance do resultado prático equivalente ao adimplemento, substituindo a atuação do obrigado, quando possível. Nesse sentido: EAREsp n. 1.479.019/SP, Corte Especial, julgado em 7/5/2025, DJEN de 19/5/2025.
+3. Agravo em recurso especial conhecido. Recurso especial conhecido e provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Da revisão da multa diária (astreintes) vencida
+O TJ/SP, ao analisar a matéria referente à multa diária, decidiu por reduzir o valor da multa vencida, nos seguintes termos:
+No que tange à multa, o procedimento foi dividido em duas etapas, havendo liberação pela operadora da primeira delas, consistente nos procedimentos denominados "correção de lipodistrofia braquial", reconstrução da mama com prótese" e "dermolipectomia para correção de abdômen".
+Não houve comprovação do cumprimento da liminar no que tange aos procedimentos listados nas fls. 64/65 dos autos principais, além de haver divergência quanto ao cumprimento da obrigação de fornecimento da prótese de acordo com o pedido médico.
+A despeito da relutância da ré em cumprir integralmente a obrigação, a multa alcançou quantia excessiva de R$ 276.000,00, que se mostra desproporcional e apta a acarretar enriquecimento indevido da parte.
+Assim, considerando as peculiaridades do caso, a intensidade do inadimplemento e sua natureza, afigura-se adequada a redução do valor da multa para a quantia de R$ 30.000,00. (e-STJ fl. 122) (grifo nosso)
+A Corte Especial deste STJ, contudo, em recente julgado sobre o tema, decidiu que, nos termos da regra do art. 537, § 1º, do CPC, a modificação das astreintes somente é possível em relação à multa vincenda. Além disso, consignou que a insurgência referente aos valores elevados alcançados com a incidência da multa periódica deve ser combatido, de modo preventivo, por meio dos seguintes expedientes:
+i) conversão da obrigação de fazer em perdas e danos, de ofício, quando verificada a inércia abusiva do credor em relação ao exercício da faculdade prevista no art. 499 do CPC; e
+ii) preferência pela expedição de ordens judiciais a órgãos públicos e instituições privadas visando ao alcance do resultado prático equivalente ao adimplemento, substituindo a atuação do obrigado, quando possível.
+Nesse sentir: EAREsp n. 1.479.019/SP, Corte Especial, julgado em 7/5/2025, DJEN de 19/5/2025.
+Dessa forma, merece reforma o acórdão recorrido quanto ao ponto, em razão de ter decidido em desconformidade com a jurisprudência atual deste STJ.
+DISPOSTIVO
+Forte nessas razões, CONHEÇO do agravo em recurso especial, para CONHECER do recurso especial e DOU-LHE PROVIMENTO, para reconhecer a impossibilidade de redução da multa vencida, de forma a restabelecer a decisão interlocutória de fl. 97 (e-STJ).
