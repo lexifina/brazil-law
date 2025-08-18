@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  S  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  DECISÃO  AGRAVADA.  FUNDAMENTOS.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ART.  932,  III,  DO  CPC.
+1.  Não  podem  ser  conhecido  s  o  s  recursos  que  não  infirmam  especificamente  os  fundamentos  da  decisão  agravada,  atraindo  o  disposto  no  art.  932,  III,  do  Código  de  Processo  Civil.
+2.  Agravos  em Recurso Especial não conhecidos.
+RELATÓRIO
+Trata-se de dois agravos interpostos por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI e JARINA CARVALHO LISBOA e OUTROS contra a decisão que inadmitiu os recursos especiais.
+Quanto ao da Caixa de Previdência dos Funcionários do Banco do Brasil, a denegação deu-se em razão da incidência das Súmulas nºs 5 e 7/STJ (e-STJ fls. 2258/2259).
+No tocante ao recurso especial de Jarina Carvalho e outros, a denegação deu-se em razão da (i) incidência da Súmula nº 7/STJ, no que tange à suposta contrariedade ao art. 1.026, § 2º, do CPC; (ii) não caracterização da alegada negativa de prestação jurisdicional, e (iii) incidência das Súmulas nºs 5 e 7/STJ, no tocante à indicada afronta aos arts. 187 e 422 do Código Civil (e-STJ fls. 2260/2261).
+Nas razões do recurso de e-STJ fls. 2272/2284, a agravante CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI pede o afastamento do óbice das Súmulas nºs 5 e 7/STJ, alegando que o que se verifica dos autos é que houve violação aos dispositivos de Lei Federal, quais sejam, os arts. 112, 421, 422, 884 e 885 do CC.
+Em relação ao inconformismo de JARINA CARVALHO LISBOA e OUTROS (e-STJ fls. 2286/2298), os agravantes insistem na alegada negativa de prestação jurisdicional e alegam, ainda, que o acórdão aplicou, indevidamente, a multa pela "hipotética" interposição de recurso procrastinatório.
+É o relatório.
+EMENTA
+AGRAVO  S  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  DECISÃO  AGRAVADA.  FUNDAMENTOS.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ART.  932,  III,  DO  CPC.
+1.  Não  podem  ser  conhecido  s  o  s  recursos  que  não  infirmam  especificamente  os  fundamentos  da  decisão  agravada,  atraindo  o  disposto  no  art.  932,  III,  do  Código  de  Processo  Civil.
+2.  Agravos  em Recurso Especial não conhecidos.
+VOTO
+Os agravos não comportam conhecimento.
+Constata-se que as razões de ambos os agravos deixaram de impugnar de modo específico a decisão denegatória dos recursos especiais, limitando-se a fazer assertivas genéricas sem, no entanto, comprovar suas alegações, atraindo, portanto, a aplicação do disposto no art. 932, III, do Código de Processo Civil, que impõe ao relator "não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Quanto ao recurso da Caixa de Previdência dos Funcionários do Banco do Brasil - Previ, observa-se dos autos que não houve impugnação específica em relação à incidência das Súmulas nºs 5 e 7/STJ.
+Já no tocante ao recurso interposto por Jarina de Carvalho Lisboa e outros verifica-se que os  agravantes,  quando  das  razões  do  agravo  em  recurso  especial,  não  rebateram  especificamente  as Súmulas nºs 5 e 7/STJ.
+Com  efeito,  a  impugnação  da  decisão  de  admissibilidade  do  recurso  deve  ser  clara  e  suficiente  para  demonstrar  o  equívoco  na  sua  negativa.
+Relativamente  à  Súmula  nº  7/STJ,  não  basta  a  parte
+  " ..  sustentar  genericamente  que  a  matéria  seria  apenas  jurídica,  sem  explicitar,  à  luz  da  tese  recursal  trazida  no  recurso  especial,  de  que  maneira  a  análise  não  dependeria  do  reexame  de  provas"  (AgRg  no  AREsp  1.677.886/MS,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  DJe  de  3/6/2020).
+Inclusive,  esse  é  o  entendimento  pacífico  do  Superior  Tribunal  de  Justiça,  formulado  no  sentido  de  ser  dever  do  agravante  refutar  especificamente  os  fundamentos  da  decisão  combatida,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo,  não  bastando  para  tanto  a  impugnação  genérica  ou  a  reiteração  das  razões  do  recurso  anterior.
+Tal circunstância atrai a aplicação do disposto no art. 932, III, do Código de Processo Civil de 2015, que faculta ao relator não conhecer do recurso "que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+A propósito, o julgamento dos EAREsp nº 746.775/PR, relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+Ainda, nesse mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, inciso III, do CPC).
+2. O princípio da primazia do julgamento de mérito não afasta o dever de a parte impugnar especificamente todos os fundamentos da decisão que nega seguimento ao recurso especial na origem.
+Precedentes.
+3. Inadmitido o recurso especial na origem com base na Súmula nº 7/STJ, não basta a parte sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas.
+4. Agravo interno não provido" (AgInt no AREsp 2.466.124/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+3. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+4. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido" (AgInt no AREsp 2.618.613/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/9/2024, DJe de 5/9/2024 - grifou-se).
+Ante o exposto, não conheço dos agravos em recurso especial.
+No que se refere a CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, considerada a sucumbência recíproca, majoro em 3% o valor dos honorários advocatícios anteriormente fixados em favor do advogado da parte recorrida, mantendo-se, no mais, a verba honorária na forma determinada na origem, observado o benefício da gratuidade da justiça.
+No que tange a JARINA DE CARVALHO LISBOA E OUTROS, os honorários sucumbenciais foram fixados em R$ 2.300,00, os quais devem ser majorados para o patamar de R$ 2.875,00 em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
