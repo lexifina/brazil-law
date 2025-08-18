@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL  E  PROCESSO  CIVIL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  ART.  1.022  DO  CPC.  NÃO  OCORRÊNCIA.  JUROS  REMUNERATÓRIOS.  ABUSIVIDADE.  TAXA  MÉDIA  DE  MERCADO.  TAXA  CONTRATADA.  COMPARAÇÃO.  ANÁLISE  DAS  PECULIARIDADES  DO  CASO  CONCRETO.  CONFORMIDADE  COM  A  JURISPRUDÊNCIA  DO  STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  O  tribunal  reconheceu  a  abusividade  dos  juros  remuneratórios  após  considerar  serem  excessivamente  superiores  à  média  de  mercado,  bem  como  depois  de  reconhecer  a  ausência  de  prova  capaz  de  justificar  a  exorbitância  dos  juros  praticados e dos riscos da operação.
+3.  A  taxa  média  estipulada  pelo  Bacen  não  foi  o  único  critério  utilizado  para  a  limitação  dos  juros  remuneratórios,  estando  o  julgamento  em  conformidade  com  a  orientação  do  STJ.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de agravo  interno  interposto  por  PORTOCRED  S.A.  -  CRÉDITO,  FINANCIAMENTO  E  INVESTIMENTO  -  EM  LIQUIDAÇÃO  EXTRAJDUCIAL  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento  (e-STJ  fls.  1.060/1.067).
+ Em  suas  razões  (e-STJ  fls.  1.071/1.129 ),  a  agravante  apresenta  as  seguintes  questões:
+(i)  aduz  que  houve  omissão  e  negativa  de  prestação  jurisdicional  do  tribunal  de  origem,  ao  não  observar  o  disposto  na  decisão  proferida  no  AREsp  nº  2.344.343,  que  determinou  o  exame  de  alguns  requisitos  para  o  reconhecimento  da  abusividade  dos  juros  remuneratórios, e
+(ii) insurge-se contra a aplicação da Súmula nº 83/STJ, sob o argumento de que o tribunal de origem divergiu do Recurso Especial Repetitivo nº 1.061.530/RS, ao limitar os juros remuneratórios contratados entre as partes litigantes sem análise das peculiaridades do caso concreto.
+Sem  impugnação  (e-STJ  fl.  1.133).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL  E  PROCESSO  CIVIL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  ART.  1.022  DO  CPC.  NÃO  OCORRÊNCIA.  JUROS  REMUNERATÓRIOS.  ABUSIVIDADE.  TAXA  MÉDIA  DE  MERCADO.  TAXA  CONTRATADA.  COMPARAÇÃO.  ANÁLISE  DAS  PECULIARIDADES  DO  CASO  CONCRETO.  CONFORMIDADE  COM  A  JURISPRUDÊNCIA  DO  STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  O  tribunal  reconheceu  a  abusividade  dos  juros  remuneratórios  após  considerar  serem  excessivamente  superiores  à  média  de  mercado,  bem  como  depois  de  reconhecer  a  ausência  de  prova  capaz  de  justificar  a  exorbitância  dos  juros  praticados e dos riscos da operação.
+3.  A  taxa  média  estipulada  pelo  Bacen  não  foi  o  único  critério  utilizado  para  a  limitação  dos  juros  remuneratórios,  estando  o  julgamento  em  conformidade  com  a  orientação  do  STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Confor me  consta  na  decisão  agravada,  o  acórdão  proferido  pelo  tribunal  de  origem  reconheceu  a  abusividade  dos  juros  remuneratórios,  visto  que,  além  de  excessivamente  superiores  à  taxa  média  de  mercado,  ausente  prova  capaz  de  justificar  a  exorbitância  dos  juros  praticados  e dos riscos da operação  (e-STJ  fl.  1.065).
+Ao  contrário  do  que  alega  a  agravante,  a  comparação  entre  a  taxa  de  juros  contratado  e  a  média  de  mercado  não  foi  a  única  fundamentação  do  julgado.
+Assim,  não  há  falar  em  omissão  ou  negativa  de  prestação  jurisdicional,  já  que  o  aresto  atacado  motivou  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.
+Impertinente a insurgência contra a Súmula nº 83/STJ, não aplicada ao recurso especial interposto pela agravante.
+Também  não  é  o  caso  de  afastar  a  incidência  da  Súmula  nº  568/STJ,  pois  o  tribunal  de  origem  seguiu  a  orientação  do  Superior  Tribunal  de  Justiça  constante  no  Recurso  Especial  Repetitivo  nº  1.061.530/RS.
+Oportuna  a  transcrição  do  seguinte  trecho  do  julgamento  combatido:
+"(..)
+No caso em apreço, consoante se verifica do instrumento contratual, foi aplicada taxa de juros de 6% ao mês, quando a média de mercado para contratos similares, havidos com servidores e/ou pensionistas do setor público, havia sido de apenas 1,81% ao mês. Ou seja, de pronto, verifica-se considerável diferença entre um e outro índice, visto que a contratação excede cerca de três vezes a média de mercado.
+Dito isso, a respeito das pretensas peculiaridades invocadas pela instituição financeira, entendo que a existência de tamanha variação já é forte evidência da existência de desvantagem excessiva para uma das partes. Aliás, nesse sentido, anoto que situação similar já foi recentemente enfrentada pelo Superior Tribunal de Justiça, em caso no qual observado que o pactuado excedia em cerca de três vezes e meia a média de mercado:
+(..)
+Para além disso, tenho que tal diferença, a despeito do esforço argumentativo da instituição financeira, não se justifica. Afinal, cuida-se de negócio jurídico extremamente seguro, cujas parcelas são diretamente debitadas em contracheque e/ou benefício previdenciário, com baixo risco de inadimplemento.
+Ora, trata-se de empréstimo contraído por pensionista do Instituto de Previdência do Estado do Rio Grande do Sul (IPERGS), com previsão de pagamento por desconto em benefício, uma das modalidades mais seguras de adimplemento, diante da impossibilidade de supressão unilateral dos descontos por vontade da consumidora demandante.
+Nesse sentido, levando em conta a previsão de pagamento por desconto diretamente na folha de pagamento, inexiste justificativa para que sejam estipulados juros remuneratórios em patamares tão discrepantes das respectivas médias praticadas pelo mercado à época da contratação, especialmente considerando que, na contestação, a instituição financeira demandada limitou-se a argumentar genericamente a respeito da ausência de abusividade, sem esclarecer as razões que deram ensejo à pactuação dos juros em percentuais que superam de modo significativo as respectivas médias de mercado.
+Além do mais, os custos havidos pela instituição financeira para concretização de seu canal de consignações é parte inerente à sua atividade, visto que atua em setor específico, com servidores e pensionistas cujos ganhos, de regra, são maiores do que aqueles havidos, exemplificativamente, por pensionistas do INSS, com faixa de consignações mais alargada. Isto é, se por um lado observar-se-iam despesas diversas para atuação em tal campo, por outro, são essas despesas que permitem ao banco réu atuar em nicho específico, com clientes cuja renda, repita-se, é potencialmente superior àquela verificada em outros setores, e cujo risco de inadimplência é baixo.
+Outrossim, é inegável que eventual litigiosidade do setor pode ser também imputada à própria casa bancária. Afinal de contas, ao fixar juros remuneratórios mais de três vezes superiores à média de mercado, atrai para si a possibilidade de questionamento na esfera judicial, com o acréscimo de outras despesas. Nesse sentido, como ainda se verifica, cuidar-se-ia de setor aparentemente de baixa concorrência, daí porque é possível crer que a ré tenha inclusive se valido de sua posição para praticar taxas consideravelmente elevadas.
+Em suma, suprindo as omissões indicadas pelo Superior Tribunal de Justiça, conforme se depreende do exposto, encontra-se devidamente caracterizada a vantagem exagerada em favor da parte demandada em detrimento da consumidora requerente, e a possibilidade de revisão do pactuado" (e-STJ fls. 702/703).
+As  alegações  postas  no  presente  recurso  não  prosperam  e  são  incapazes  de  alterar  os  fundam entos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
