@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. CRIME DE DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, em razão da incidência dos enunciados de Súmula n. 7 e 83 do STJ.
+2. O acusado foi condenado pela prática do crime de descaminho, tipificado no art. 334, "caput", do Código Penal, a uma pena de 2 anos de reclusão, substituída por pena restritiva de direitos. A sentença reconheceu a habitualidade criminosa e afastou a aplicação do princípio da insignificância.
+3. A defesa apelou contra a sentença, requerendo a absolvição com base na aplicação do princípio da insignificância e, subsidiariamente, o reconhecimento da continuidade delitiva. O Tribunal de origem deu parcial provimento ao recurso, para reconhecer a continuidade delitiva, fixando a pena em 1 ano e 2 meses de reclusão, em regime inicial aberto, substituída por pena restritiva de direitos.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a reiteração da conduta delitiva impede a aplicação do princípio da insignificância ao crime de descaminho, independentemente do valor do tributo não recolhido.
+III. RAZÕES DE DECIDIR
+5. As instâncias ordinárias, soberanas na análise dos fatos e das provas, valoraram os fatos e as provas de acordo com as circunstâncias do caso concreto, encontrando óbice na Súmula 7 do STJ para nova incursão por esta via excepcional.
+6. O acórdão recorrido está conforme a jurisprudência do STJ, que firmou a tese de que a reiteração da conduta delitiva obsta a aplicação do princípio da insignificância ao crime de descaminho, ressalvada a possibilidade de, no caso concreto, se concluir que a medida é socialmente recomendável.
+IV. DISPOSITIVO E TESE
+7. Agravo não conhecido.
+Tese de julgamento: "A reiteração da conduta delitiva obsta a aplicação do princípio da insignificância ao crime de descaminho, independentemente do valor do tributo não recolhido".
+Dispositivos relevantes citados: CP, art. 334; CPC, art. 927, III; CPP, art. 3º.
+Jurisprudência relevante citada: STJ, Tema Repetitivo 1218.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão e-STJ Fl. 1.669-1.672, que conhe ceu do agravo para não conhecer do recurso especial em razão da incidência dos enunciados de Súmula n. 7 e 83 do STJ.
+O Tribunal de origem inadmitiu o recurso especial pelo óbice previsto na Súmula 7 do Superior Tribunal de Justiça (e-STJ Fl. 1.608-1.612).
+A parte recorrente pugna pela reconsideração da decisão agravada ou pela apreciação da matéria pelo colegiado (e-STJ fls. 1.675-1.686).
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. CRIME DE DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, em razão da incidência dos enunciados de Súmula n. 7 e 83 do STJ.
+2. O acusado foi condenado pela prática do crime de descaminho, tipificado no art. 334, "caput", do Código Penal, a uma pena de 2 anos de reclusão, substituída por pena restritiva de direitos. A sentença reconheceu a habitualidade criminosa e afastou a aplicação do princípio da insignificância.
+3. A defesa apelou contra a sentença, requerendo a absolvição com base na aplicação do princípio da insignificância e, subsidiariamente, o reconhecimento da continuidade delitiva. O Tribunal de origem deu parcial provimento ao recurso, para reconhecer a continuidade delitiva, fixando a pena em 1 ano e 2 meses de reclusão, em regime inicial aberto, substituída por pena restritiva de direitos.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a reiteração da conduta delitiva impede a aplicação do princípio da insignificância ao crime de descaminho, independentemente do valor do tributo não recolhido.
+III. RAZÕES DE DECIDIR
+5. As instâncias ordinárias, soberanas na análise dos fatos e das provas, valoraram os fatos e as provas de acordo com as circunstâncias do caso concreto, encontrando óbice na Súmula 7 do STJ para nova incursão por esta via excepcional.
+6. O acórdão recorrido está conforme a jurisprudência do STJ, que firmou a tese de que a reiteração da conduta delitiva obsta a aplicação do princípio da insignificância ao crime de descaminho, ressalvada a possibilidade de, no caso concreto, se concluir que a medida é socialmente recomendável.
+IV. DISPOSITIVO E TESE
+7. Agravo não conhecido.
+Tese de julgamento: "A reiteração da conduta delitiva obsta a aplicação do princípio da insignificância ao crime de descaminho, independentemente do valor do tributo não recolhido".
+Dispositivos relevantes citados: CP, art. 334; CPC, art. 927, III; CPP, art. 3º.
+Jurisprudência relevante citada: STJ, Tema Repetitivo 1218.
+VOTO
+O agravo regimental é tempestivo.
+Contudo, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos.
+O acusado foi condenado pela prática do crime de descaminho, tipificado no art. 334, "caput", do Código Penal, por ato praticado em 8 de maio de 2021, a uma pena de 2 anos de reclusão, substituída por pena restritiva de direitos. A sentença reconheceu a habitualidade criminosa e afastou a aplicação do princípio da insignificância.
+A defesa apelou contra a sentença e requereu a absolvição com base na aplicação do princípio da insignificância. Subsidiariamente, pleiteou o reconhecimento da continuidade delitiva. O Tribunal de origem deu parcial provimento ao recurso, para reconhecer a continuidade delitiva. A pena foi fixada em 1 ano e 2 meses de reclusão, em regime inicial aberto. A pena privativa de liberdade foi substituída por uma pena restritiva de direitos.
+Nas razões do agravo regimental, a parte limitou-se a reiterar os argumentos já expostos na petição do recurso especial acerca da alegada negativa de vigência ao artigo 334 do Código Penal e ao artigo 386, III, do Código de Processo Penal, em que sustenta a aplicação do princípio da insignificância.
+Sobre a não aplicação do princípio da insignificância ao caso, o Tribunal de origem assim manifestou:
+Do Princípio da Insignificância. A defesa pretende a absolvição do réu, sob a alegação de atipicidade da conduta, por ser hipótese de aplicação do princípio da insignificância. A aplicação do princípio da insignificância é medida de política criminal, que visa a afastar a persecução penal em casos de delitos de pequena monta, que não ofendem de forma grave a ordem jurídica. Destaco o entendimento do Supremo Tribunal Federal, e mais recentemente, também do Superior Tribunal de Justiça, admitindo a utilização do valor consolidado de R$ 20.000,00 (vinte mil reais) de tributos não recolhidos, nos termos do artigo 20 da Lei nº 10.522/2002, na redação dada pela Lei n.º11.033/2004, e das Portarias 75 e 130 do Ministério da Fazenda, para aferir o cabimento da aplicação do princípio da insignificância, notadamente quanto ao delito de contrabando e descaminho. Neste caso, o ora apelante, iludiu o pagamento de tributos em duas oportunidades: a primeira, na data de 26.05.2021, em que se estimou o valor total dos vinhos apreendidos em R$ 11.287,08 (onze mil, duzentos e oitenta e sete reais e oito centavos) e a Receita Federal calculou em R$ 5.067,70 (cinco mil e sessenta e sete reais e setenta centavos) o valor dos tributos não recolhidos (ID 291150367, págs. 61/67) e, a segunda, em 25.07.2021, referente a vinhos cujo valor total foi calculado em R$ 1.785,73 (mil, setecentos e oitenta e cinco reais e setenta e três centavos) sendo estimado o valor dos tributos iludidos em R$ 828,78 (oitocentos e vinte e oito reais e setenta e oito centavos) (ID 291150379, págs. 03/10). No entanto, ainda que os valores dos tributos não recolhidos não ultrapassem atualmente o patamar de R$ 20.000,00 (vinte mil reais), limite previsto no artigo 20 da Lei nº 10.522/2002, atualizado pelas Portarias n.º 75 e 130/2012 do Ministério da Fazenda, não se aplica o princípio da insignificância no delito de descaminho quando verificado que o agente o pratica com habitualidade, fazendo dele meio de vida. Extrai-se do acervo probatório que os fatos destes autos não consubstanciaram episódios isolados, denotando, diversamente, contumácia do apelante em persistir na prática delitiva em exame.  ..  Quando o agente comprovadamente faz da reiteração delitiva meio de vida, desnaturam- se os fundamentos do delito de bagatela, ainda que, isoladamente, o delito examinado se mostre de pouca lesividade. Como outrora consignado, apesar de tentar demonstrar o contrário, em seu interrogatório judicial, não restaram dúvidas de que o acusado fez do delito de descaminho meio de vida, conforme sobejamente evidenciado examinando-se todo o conjunto probatório trazido aos autos. Incabível, pois, a aplicação do princípio da insignificância, devendo ser mantida a condenação do réu.
+Consta na sentença a seguinte fundamentação acerca da não aplicação do princípio da insignificância (e-STJ Fl. 1356-1357):
+Ora, e com razão. Não há como nivelar uma pessoa que cometeu o crime de descaminho pela primeira vez na vida de outra que o cometeu reiteradamente ou faz dessa prática seu meio de vida, sob pena de incentivarmos o "contrabando de formiguinhas", nas palavras do e. Desembargador Federal Henrique Herkenhoff (ACR 00011567820034036117, TRF3ª Região, 2ªT, e-DJF3 Judicial 2 DATA:07/01/2009). No caso em questão, a relação de outras apreensões, inclusive em razão de o réu estar denunciado por dois crimes de descaminho, não deixam dúvidas quanto à reiteração de condutas.
+As instâncias ordinárias, soberanas na análise dos fatos e das provas, procederam à valoração dos fatos e das provas de acordo com as circunstâncias do caso concreto. Nova incursão por esta via excepcional encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Também deve ser ponderado que o acórdão recorrido está conforme a jurisprudência do Superior Tribunal de Justiça, a qual firmou a seguinte tese no Tema repetitivo 1.218:
+A reiteração da conduta delitiva obsta a aplicação do princípio da insignificância ao crime de descaminho - independentemente do valor do tributo não recolhido -, ressalvada a possibilidade de, no caso concreto, se concluir que a medida é socialmente recomendável. A contumácia pode ser aferida a partir de procedimentos penais e fiscais pendentes de definitividade, sendo inaplicável o prazo previsto no art. 64, I, do CP, incumbindo ao julgador avaliar o lapso temporal transcorrido desde o último evento delituoso à luz dos princípios da proporcionalidade e razoabilidade.
+Trata-se de precedente qualificado, vinculante, nos termos do art. 927, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal. Neste contexto, a decisão recorrida está de acordo com a jurisprudência do egrégio Superior Tribunal de Justiça e o agravo, pois, deixa de indicar, com clareza e objetividade, a desnecessidade do reexame dos fatos e das provas.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
