@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. O reexame do contexto fático-probatório dos autos redunda na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é incabível. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JACQUES GEORGES HALAL da decisão em que conheci parcialmente do recurso especial e, nessa extensão, a ele neguei provimento (fls. 792/797).
+A parte agravante alega que houve violação ao art. 1.022 do Código de Processo Civil (CPC), argumentando o seguinte:
+ ..  ao decidir que o motivo da decisão da Ação Popular faz com que a prescrição de t arifas de água e esgoto tenham prazo prescricional quinquenal, tornou-se fundamental que se esclarecesse o que levou o Tribunal de Justiça do Estado do Rio Grande do Sul, ao entendimento contrário ao art. 504, I do CPC que afirma que o motivo, ainda que importante para determinar o alcance da parte dispositiva da sentença não faz coisa julgada.
+Sustenta que não se aplica a Súmula 7 do Superior Tribunal de Justiça (STJ) ao presente caso, pois a questão submetida ao STJ foi a de que os motivos da decisão não fazem coisa julgada, de forma que não poderiam influir no prazo prescricional.
+Aduz que a legislação municipal não interfere na análise dos pontos recursais.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 808).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. O reexame do contexto fático-probatório dos autos redunda na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é incabível. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+4. Agravo interno a que se nega provimento.
+VOTO
+Não prospera a alegação de violação aos arts. 489 e 1.022 do Código de Processo Civil porque, da leitura do acórdão, vê-se que a prestação jurisdicional foi dada na medida da pretensão apresentada. O Tribunal de origem resolveu a controvérsia de forma fundamentada, não havendo que se falar em omissão, contradição, obscuridade ou erro material.
+Ao solucionar a controvérsia, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL explicou que a pretensão da parte apelante tinha por fundamento a nulidade de ato administrativo, reconhecida nos autos de ação popular em que " se reconheceu como tributária a natureza jurídica dos serviços prestados pelo SANEP" (fl. 61), e concluiu que às obrigações de natureza tributária aplicava-se o prazo prescricional de cinco anos.
+Ressalto que o contraponto aos argumentos das partes não demanda citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos). É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao debate dos autos, não fazendo sentido, assim, que se exija a pormenorização de cada tese jurídica ou precedente trazido à baila, à guisa de quesitos, como se laudo pericial fosse.
+O Tribunal de origem, ao examinar o processo, resolveu o seguinte (fls. 61/63):
+A pretensão do apelante tem por fundamento a nulidade de ato administrativo, reconhecida nos autos de ação popular, que reajustou em 33,96% a remuneração dos serviços de água e de esgoto no Município de Pelotas/RS.
+Esclareceu-se que, apesar de o STJ ter reconhecido que os serviços dessa natureza devem ser remunerados por tarifa, incidindo a regra do prazo prescricional de 10 anos (art. 205 do CC), no julgamento da ação popular, a qual embasa a pretensão do autor no processo em análise, se reconheceu como tributária a natureza jurídica dos serviços prestados pelo SANEP.
+Na época, como afirma o apelante nas suas razões de recurso especial (fls. 5 e 6 do processo n. 70084447010), "(..) os entendimentos jurisprudenciais sobre a natureza jurídica da remuneração dos serviços de água e esgotos, não estavam pacificados e consagravam teses totalmente ambíguas. Alguns julgados entendiam que havia compulsoriedade decorrente da obrigatoriedade de os imóveis estarem conectados à rede pública de água e esgoto, os que adotavam esta tese, fundamentavam ainda, que o serviço era cobrado pela mera disponibilização, não em decorrência do consumo. Isto, levou parte da jurisprudência a firmar tese que a contraprestação da prestação dos serviços de água e esgotos possuía natureza tributária, na espécie taxa.
+6. Outros julgados entendiam não haver compulsoriedade, que o dever de remunerar decorria de contrato entre a concessionária do serviço público e o usuário, e que a remuneração pela mera disponibilização decorria do dever de universalizar os serviços de saneamento básico, e a lei estabelecia que o valor da tarifa deveria ser fixado de modo a remunerar os serviços prestados e comtemplar a necessidade da universalização do acesso ao saneamento básico. Por estes fundamentos a jurisprudência que adotava está tese, afirmava que a natureza jurídica da remuneração dos serviços de água e esgoto era tarifária."
+Ou seja, quando do julgamento da análise do reajuste da cobrança dos valores a título de contraprestação pelos serviços de água e de esgoto, o STJ não possuía entendimento pacificado sobre a matéria, razão pela qual se entendeu que a natureza jurídica era de taxa e, portanto, com incidência de regra que prevê o prazo prescricional de cinco anos para postular o reembolso.
+É preciso, desse modo, reconhecer os efeitos da coisa julgada, não incidindo o entendimento de que a natureza jurídica dos serviços é de tarifa, sob pena de grave insegurança jurídica à autarquia municipal apelada.
+Foi reconhecido que a parte ora agravante buscava se valer dos efeitos da sentença proferida em ação popular, que havia reconhecido que os serviços prestados pelo SANEP possuíam natureza tributária.
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso com fundamento na Súmula 7 do STJ.
+Por fim, vê-se, quanto ao ponto objeto do recurso especial, que o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL decidiu que "a alteração na sistemática de cobrança dos serviços públicos de água e de esgoto no Município de Pelotas ocorreu com a edição da Lei Municipal n. 6294/2015" (fl. 123)
+Diferente da alegação da parte ora agravante, o ponto controverso referente à alteração na sistemática de cobrança dos serviços públicos de água e de esgoto no Município de Pelotas foi decidida com fundamento em legislação local, qual seja, a Lei Municipal 6.294/2015.
+Está correta a decisão que não conheceu do recurso especial devido à incidência, por analogia, da Súmula 280 do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
