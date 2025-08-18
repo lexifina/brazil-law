@@ -1,0 +1,67 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, ementado nos seguintes termos:
+
+    “AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA. ART. 1º-F, DA LEI 9.494/97, COM REDAÇÃO DADA PELA LEI 11.960/09. INCONSTITUCIONALIDADE POSTERIOR. VIOLAÇÃO DOS LIMITES DA COISA JULGADA. AÇÃO RESCISÓRIA. AGRAVO CONHECIDO E DESPROVIDO. 1. Na execução, o juiz deverá observar estritamente os limites objetivos da prestação jurisdicional, devendo seu cumprimento dar-se nos exatos termos nela fixados, sendo vedada qualquer inovação ou modificação. 2. No caso sub judice, a sentença está acobertada pelo efeito da preclusão máxima, sendo relevante que no título foi determinada a correção monetária segundo o art. 1º-F, da Lei 9.494/97, com redação dada pela Lei 11.960/09 até a expedição do precatório e tendo transitado em julgado, sem que houvesse qualquer alteração. 3. Mesmo quando a decisão se assenta em norma posteriormente declarada inconstitucional e extirpada da ordem jurídica, a lei processual disciplina a solução ao permitir a formulação de ação rescisória nos dois anos seguintes à decisão proferida pela Suprema Corte. 4. AGRAVO CONHECIDO E DESPROVIDO” (eDOC 25 – ID: 8ffa8acf, p. 1)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, XXXII; e 37, caput, do texto constitucional.
+
+    Nas razões recursais, sustenta-se a inaplicabilidade da TR como índice de correção monetária.
+
+    Alega-se que a mudança que permite a superação da coisa julgada/preclusão na espécie decorre da inconstitucionalidade do índice que remunera a poupança (TR), o que se deu no julgamento do RE 870.947/SE e da ADI 5348 (eDOC 60 – ID: 9dc17887, p. 6).
+
+    Argumenta-se que o Plenário do STF, ao analisar caso em que o título executivo fixara a TR como índice de correção monetária, concluiu que, em sede de liquidação de sentença ou de cumprimento de sentença, deve ser aplicado o IPCA-E nos termos da interpretação dada pelo Tema 810 ao art. 1º-F, desde a data de edição da Lei 11.960/2009 (eDOC 60 – ID: 9dc17887, p. 9).
+
+    Requer-se, assim, que seja aplicada ao caso a orientação do Supremo Tribunal Federal fixada no tema 1.170 da repercussão geral.
+
+    Determinada a devolução pela Presidência do TJDFT para adequação do julgado ao tema 1.170 da repercussão geral, o órgão julgador entendeu que o precedente não se aplica ao caso dos autos, conforme acórdão assim ementado:
+
+    “AGRAVO DE INSTRUMENTO. ART. 1.030, INCISO II, CPC/2015. CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA. ART. 1º-F, DA LEI 9.494/97, COM REDAÇÃO DADA PELA LEI 11.960/09. INCONSTITUCIONALIDADE POSTERIOR. VIOLAÇÃO DOS LIMITES DA COISA JULGADA. TEMA 1.170 - STF. DISTINÇÃO. MANTIDO O DESPROVIMENTO DO AGRAVO. 1. A questão envolve a definição a possibilidade de modificar sentença transitada em julgado, especificamente no capítulo que fixou o critério de correção do débito fazendário com base no art. 1º-F, da Lei 9.494/97, com redação dada pela Lei 11.960/09, posteriormente declarado parcialmente inconstitucional pela suprema corte. 2. Na execução, o juiz deverá observar estritamente os limites objetivos da prestação jurisdicional, devendo seu cumprimento dar-se nos exatos termos nela fixados, sendo vedada qualquer inovação ou modificação. 3. No caso, o título executivo judicial fixou em definitivo que a correção monetária fosse calculada na forma do art. 1º-F, da Lei 9.494/97, com redação dada pela Lei 11.960/09, que determinava a correção monetária pelos índices oficiais de remuneração básica da caderneta de poupança – TR e até a expedição dos precatórios. 4. Mesmo quando a decisão se assenta em norma posteriormente declarada inconstitucional e extirpada da ordem jurídica, a lei processual disciplina a solução ao permitir a formulação de ação rescisória nos dois anos seguintes à decisão proferida pela Suprema Corte. 5. ACÓRDÃO MANTIDO, nos termos do art. 1.041, Código de Processo Civil” (eDOC 107 – ID: 0cdf1e6d, p. 1)
+
+    É o relatório.
+
+    Decido.
+
+    Assinalo, preliminarmente, que o presente recurso extraordinário está prejudicado. Isso porque, no Superior Tribunal de Justiça, o Ministro Paulo Sérgio Domingues deu parcial provimento ao recurso especial, para “afastar a preclusão em relação à correção monetária” (eDOC. 128), de modo que o acórdão ora impugnado foi cassado.
+
+    Nesse ponto em específico, portanto, operou-se o efeito substitutivo previsto no art. 1.008 do Código de Processo Civil. Nesse sentido, confira-se o seguinte precedente:
+
+    “DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. REAJUSTES. COMPENSAÇÃO. RECURSO ESPECIAL PROVIDO COM RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TRÂNSITO EM JULGADO. SUBSTITUIÇÃO DO ACÓRDÃO RECORRIDO. RECURSO EXTRAORDINÁRIO PREJUDICADO. PERDA DO OBJETO. AGRAVO NÃO PROVIDO.
+
+    1. Substituído, nos termos do art. 1.008 do Código de Processo Civil, por decisão transitada em julgado do Superior Tribunal de Justiça, o acórdão do Tribunal Regional contra o qual manejado o recurso extraordinário cujo destrancamento o agravo perseguia, configurou-se a perda superveniente do objeto do apelo extremo. O provimento de recurso especial pelo Superior Tribunal de Justiça com o reconhecimento da prescrição da pretensão da parte recorrida torna prejudicado o recurso extraordinário interposto na mesma demanda, por perda de objeto.
+
+    2. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’.
+
+    3. Agravo interno conhecido e não provido.” (ARE 1.421.049-AgR/PB, Rel. Min. Rosa Weber (Presidente), Tribunal Pleno, j. 5.6.2023, DJe 15.6.2023)
+
+    Nada obstante, registro que o Supremo Tribunal Federal julgou o RE 1.505.031, Rel. Min. Presidente, DJe 02.12.2024, paradigma do tema 1.361 da repercussão geral, em que se assentou que o trânsito em julgado de decisão de mérito com previsão de índice específico de juros ou de correção monetária não impede a incidência de legislação ou entendimento jurisprudencial do STF supervenientes, nos termos do Tema 1.170/RG. Confira-se a ementa deste julgado:
+
+    “Direito constitucional. Recurso extraordinário. Execução contra a fazenda Pública. Coisa julgada. Adequação de índices de atualização de débito. Reafirmação de jurisprudência. I. Caso em exame 1. Recurso extraordinário contra acórdão do Tribunal de Justiça de Santa Catarina que determinou a aplicação do IPCA-E para a atualização de débito da Fazenda Pública, na forma definida pelo Tema 810/RG, apesar de o título executivo judicial fixar índice diverso. II. Questão em discussão 2. A questão em discussão consiste em saber se o trânsito em julgado de decisão de mérito com previsão de índice específico de correção monetária impede a incidência de norma superveniente que estabeleça parâmetro diverso de atualização. III. Razões de decidir 3. O Supremo Tribunal Federal, por ocasião do julgamento do RE 1.317.982 (Tema 1.170/RG), fixou tese de repercussão geral afirmando que o trânsito em julgado de decisão de mérito, mesmo que fixado índice específico para juros moratórios, não impede a incidência de legislação ou de entendimento jurisprudencial do STF supervenientes. 4. De igual forma, a jurisprudência do STF afirma que inexiste ofensa à coisa julgada na aplicação de índice de correção monetária para adequação dos critérios de atualização de débito da Fazenda Pública, de modo a observar os parâmetros fixados pelo Tema 810/RG. Identificação de grande volume de recursos sobre o tema. IV. Dispositivo e tese 5. Recurso extraordinário conhecido e desprovido. Tese de julgamento: “O trânsito em julgado de decisão de mérito com previsão de índice específico de juros ou de correção monetária não impede a incidência de legislação ou entendimento jurisprudencial do STF supervenientes, nos termos do Tema 1.170/RG” (RE 1505031 RG, Rel. Min. Presidente, Tribunal Pleno, DJe 02.12.2024)
+
+    Além disso, o Supremo Tribunal Federal, no julgamento do RE 1.317.982, Rel. Min. Nunes Marques, paradigma do tema 1.170 da repercussão geral, assentou que é aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado. Eis a ementa deste precedente:
+
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1º-F, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum. 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: “É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.” (RE 1317982, Rel. Min. Nunes Masques, Tribunal Pleno, DJe 08.01.2024)
+
+    Pois bem.
+
+    Na espécie, o Tribunal de origem consignou não ser possível a rediscussão do índice de correção monetária, sob o fundamento de que o juiz deverá observar estritamente os limites objetivos da prestação jurisdicional e que, mesmo quando a decisão se assenta em norma posteriormente declarada inconstitucional e extirpada da ordem jurídica, faz-se indispensável o manejo da ação rescisória. Nesse sentido, extrai-se o seguinte trecho do acórdão proferido por oportunidade do juízo de retratação:
+
+    “In casu, a sentença está acoberta pelo efeito da preclusão máxima. Logo, fixado o parâmetro para a correção em sentença transitada em julgado, na qual foi estabelecido o índice de correção monetária, deve-se guiar pelo respectivo parâmetro judicial até que o título seja desconstituído, sob pena de violação dos limites da coisa julgada, ainda que o decisum tenha assento em norma posteriormente declarada inconstitucional.
+
+    A controvérsia restou superada a partir do julgamento dos REsp’s 1.495.146/MG, 1.492.221/PR e 1.495.144/RS, Tema 905, quando a Superior Corte de Justiça, após fixar os índices de correção das dívidas judiciais da Fazenda de diversas naturezas, entendeu pela necessidade de se observar, ainda assim, o que restou decidido nas sentenças transitadas em julgado (...)
+
+    Ante o exposto, com fundamento no artigo 1.041 do Código de Processo Civil e, por não ser o caso de se efetuar o juízo de retratação, mantenho o acórdão registrado sob o ID 39362456, nos exatos termos em que foi prolatado por esta Turma.
+
+    É como voto.” (eDOC 107 – ID: 0cdf1e6d, p. 12)
+
+    Assim, verifica-se que o acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cassado pelo STJ, contrariava a jurisprudência do Supremo Tribunal Federal.
+
+    Ante o exposto, julgo prejudicado o presente recurso extraordinário. Determino, entretanto, que o TJDFT, ao reexaminar a matéria por força da decisão exarada pelo STJ nestes autos, observe estritamente as diretrizes fixadas no julgamento dos temas 1.170 e 1.361 da repercussão geral.
+
+    Publique-se.
+
+    Brasília, 18 de agosto de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
