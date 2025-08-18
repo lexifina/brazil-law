@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. ARBITRAMENTO POR EQUIDADE. ART. 85, § 8º, DO CPC. APLICABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A aplicação do princípio da causalidade e a fixação de honorários sucumbenciais por equidade, nos termos do art. 85, § 8º, do CPC, são adequadas quando não é possível estimar o proveito econômico obtido com o acolhimento da pretensão, como no caso de extinção de penhora que não impacta a existência da dívida.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por RUDGE LEITE ADVOGADOS ASSOCIADOS em face de decisão por meio da qual neguei provimento ao seu recurso especial.
+A parte agravante, em suas razões, pede que seja exercido o juízo de retratação. Aduz que: "( ) entendeu a I. Min Relatora, em evidente violação ao artigo 85, §2º do NCPC, que mesmo diante reconhecimento da ilegitimidade passiva da Empresa, ora listada equivocadamente como parte em Ação de Embargos de Terceiros, os honorários fixados, por equidade, em R$2.000,00 (dois mil reais), remunerariam condignamente a atuação dos causídicos no processo". Para tanto, sustenta que se aplica o Tema 1.076/STJ. Por fim, reitera que os honorários sejam arbitrados com base no valor atualizado da causa, nos termos do art. 85, § 2º, do CPC/15.
+A parte agravada, regularmente intimada, quedou-se inerte (fl. 844, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. ARBITRAMENTO POR EQUIDADE. ART. 85, § 8º, DO CPC. APLICABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A aplicação do princípio da causalidade e a fixação de honorários sucumbenciais por equidade, nos termos do art. 85, § 8º, do CPC, são adequadas quando não é possível estimar o proveito econômico obtido com o acolhimento da pretensão, como no caso de extinção de penhora que não impacta a existência da dívida.
+2. Agravo interno a que se nega provimento.
+VOTO
+Observo que os argumentos desenvolvidos pelo agravante não afastam a conclusão da decisão impugnada, razão pela qual o presente recurso não deve ser provido.
+A decisão que negou provimento ao recurso especial está jurídica e tecnicamente correta (fls. 797/800, e-STJ):
+"Realizada essa breve digressão, necessário consignar que o acórdão estadual não merece reparo no que tange à aplicação do princípio da causalidade, uma vez que a autora poderia ter evitado a penhora se tivesse registrado em cartório o contrato de compra e venda. Além disso, a contrição foi realizada para efetivar direito da autora do cumprimento de sentença, e não das empresas rés.
+Não obstante esse entendimento, o STJ possui o entendimento de que se o processo de execução é extinto sem impacto sobre a existência da dívida, o proveito econômico é considerado como inestimável, atraindo a incidência da regra do art. 85, § 8º, do Código de Processo Civil, para a fixação dos honorários sucumbenciais. Nesse sentido, confiram-se os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. AUSÊNCIA. SÚMULA 283/STF. TÍTULO EXECUTIVO. EXISTÊNCIA. SÚMULA 5 DO STJ. SÚMULA 7 DO STJ. EMBARGOS À EXECUÇÃO. EXTINÇÃO DA EXECUÇÃO. INEXEQUIBILIDADE DO TÍTULO. PROVEITO ECONÔMICO INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE.
+1- Recurso especial interposto em 10/6/2019 e concluso ao gabinete em 26/5/2020.
+2- O propósito recursal consiste em dizer se: a) o acórdão recorrido conteria omissões; b) o instrumento que embasa a execução preserva sua força executiva ainda que desconsiderado como cédula de crédito bancário; e c) o valor dos honorários advocatícios deve ser fixado por equidade tendo em vista se tratar de hipótese de proveito econômico inestimável.
+3- Na hipótese em exame é de ser afastada a existência de omissões no acórdão recorrido, à consideração de que as matérias impugnadas foram enfrentadas de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+4- A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF.
+5- Derruir a conclusão a que chegou o Tribunal a quo no sentido de que o instrumento em testilha não possuiria força executiva, demandaria revolvimento do arcabouço fático-probatório bem como o exame do instrumento negocial, o que é vedado pelos enunciados das Súmulas 5 e 7 do STJ.
+6- O critério a ser empregado para verificar se o proveito econômico auferido pelo executado com a extinção da execução é estimável ou não é a existência de impacto sobre o próprio crédito exequendo. Em suma, se a própria dívida foi declarada extinta ou inexistente ou seu valor foi reduzido, vislumbra-se nítido proveito econômico auferido pelo executado. Por outro lado, caso a extinção da execução apenas impeça a cobrança por essa via, mas não inviabilize a cobrança do débito pelas vias ordinárias, o proveito econômico auferido pelo devedor deve ser considerado inestimável.
+7- Nas hipóteses em que a extinção da execução não impacte o próprio direito de crédito perseguido - como ocorre quando se reconhece a ausência de condição de procedibilidade da ação executiva -, deve-se considerar inestimável o proveito econômico auferido pelo executado, porquanto a dívida não foi declarada extinta ou inexistente, tampouco houve redução do montante eventualmente devido.
+8- A extinção da execução, na hipótese, não envolveu qualquer declaração acerca da existência ou excesso da dívida, que poderá ser cobrada pelas vias ordinárias próprias, restando inestimável o proveito econômico auferido pelo executado, o que atrai a incidência do § 8º do art. 85 do CPC, que determina a fixação dos honorários advocatícios sucumbenciais por equidade.
+9- Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp n. 1.875.161/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/5/2021, DJe de 31/5/2021)
+AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO DE CÉDULA DE CRÉDITO BANCÁRIO. EXTINÇÃO DO PROCESSO, SE RESOLUÇÃO DO MÉRITO, EM RAZÃO DA INADEQUAÇÃO DA VIA ELEITA. HONORÁRIOS DE SUCUMBÊNCIA POR EQUIDADE. PRECEDENTES. SÚMULA 568 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte orienta que "se a própria dívida foi declarada extinta ou inexistente ou seu valor foi reduzido, vislumbra-se nítido proveito econômico auferido pelo executado. Por outro lado, caso a extinção da execução apenas impeça a cobrança por essa via, mas não inviabilize a cobrança do débito pelas vias ordinárias, o proveito econômico auferido pelo devedor deve ser considerado inestimável" (REsp 1.875.161/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/5/2021, DJe 31/5/2021).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.963.618/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Mutatis mutandis, com muito mais razão esse entendimento deve ser aplicado no caso dos autos, eis que a extinção da penhora promovida pela exequente não impactou de forma positiva a dívida arcada pelas empresas executadas. Ora, na hipótese de o juízo de origem entender de forma diversa, e os embargos de terceiro serem julgados improcedentes, as empresas lograriam a própria quitação da dívida executada com o patrimônio de terceiro - seriam sucumbentes, mas lograriam proveito econômico real no cumprimento de sentença. Esse tipo de distorção é inadmissível, e a aplicação da jurisprudência acima citada.
+Assim, o proveito econômico logrado pela parte recorrente, com sua retirada do processo nos embargos de terceiro, é considerado inestimável, atraindo a fixação da verba honorária por equidade. Deve, portanto, ser mantido o valor arbitrado pelas instâncias de origem - R$ 2.000,00 (dois mil reais), que remunera condignamente a atuação dos causídicos no processo. Em face do exposto, nego provimento ao recurso especial".
+A argumentação do recorrente não afasta o entendimento desta Corte. Inicialmente, repisa as teses já enfrentadas na decisão recorrida. Argumenta que o recurso especial foi julgado com fundamento que viola o texto legal vigente. Portanto, não caberia o arbitramento da verba honorária por apreciação equitativa.
+No caso, a decisão recorrida consignou que a aplicação do princípio da causalidade no acórdão estadual é adequada, já que a autora/recorrida poderia ter evitado a penhora com o registro do contrato de compra e venda em cartório, além de a constrição ter sido realizada para efetivar direito da autora no cumprimento de sentença.
+Ainda, conforme entendimento do STJ, se a extinção do processo de execução não impacta a existência da dívida, o proveito econômico é considerado inestimável, atraindo a incidência do art. 85, § 8º, do CPC para fixação dos honorários sucumbenciais por equidade. Nesse contexto, a extinção da penhora não trouxe benefício econômico real às empresas executadas, o que reforça a aplicação desse entendimento, não sendo admissível que lograssem quitação da dívida com patrimônio de terceiro. Logo, manteve o valor dos honorários arbitrado em R$ 2.000,00.
+De fato, existem diversos julgados nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE TERCEIROS. INDISPONIBILIDADE DE BENS DETERMINADA EM CAUTELAR FISCAL. POSTERIOR DESBLOQUEIO. PERDA SUPERVENIENTE DO OBJETO. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. OBSERVÂNCIA.
+1. Nos casos em que o acolhimento da pretensão não permita estimar consequente obtenção de proveito econômico, os honorários de sucumbência devem ser arbitrados, por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo.
+( )
+4. Recurso especial não provido.
+(REsp n. 2.076.169/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/8/2023, DJe de 14/9/2023).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SOBRESTAMENTO. DESCABIMENTO. EMBARGOS DE TERCEIRO. IMPROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. LEGITIMIDADE. REVISÃO DO QUANTUM. IMPOSSIBILIDADE.
+( )
+3. A interpretação conjunta dos §§ 2º, 3º e 8º do art. 85 do CPC, revela que o critério a ser observado para a fixação da verba honorária deverá levar em conta a dimensão do proveito econômico obtido pela parte vencedora na demanda, o que diz respeito ao bem da vida controvertido na demanda.
+4. Nos embargos de terceiro opostos contra penhora de bem determinada em execução fiscal julgados improcedentes não é possível estimar o proveito econômico obtido pela parte exequente, pois a coisa julgada formada pela sentença não repercute na subsistência do crédito cobrado, tampouco cria nova vantagem econômica a ser suportada pela parte vencida, limitando-se a decidir sobre um incidente processual inerente ao processamento do feito executivo.
+5. Identificado que o proveito econômico resultante do provimento judicial é inestimável, mostra-se legítima a fixação da verba honorária mediante o juízo de equidade previsto no art. 85, § 8º, do CPC.
+( )
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.868.837/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/11/2020, DJe de 30/11/2020).
+Desse modo, conforme já exaustivamente tratado, quando não é possível estimar o proveito econômico obtido com o acolhimento da pretensão, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, observando-se os critérios do art. 85, § 2º e § 8º, do CPC.
+A decisão recorrida não merece reforma, portanto.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
