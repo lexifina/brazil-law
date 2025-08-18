@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. NÃO OBSERVÂNCIA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou que, acerca da alegação de violação ao art. 835 do CPC , o acórdão objeto do recurso especial teria afirmado que "no caso concreto houve tentativas razoáveis de localização de ativos financeiros e bens, sendo que os veículos indicados na pesquisa estão todos com restrição judicial (fls. 14), inviabilizando a sua constrição, além disso, o bloqueio de valores em conta corrente foi irrisório se comparado com o valor da dívida" (fls. 184-185), e, ato contínuo, concluiu que desconstituir a premissa acima de que ocorreram infrutíferas e prévias tentativas razoáveis de localização de ativos financeiros e bens, demandaria incursão no acervo fático-probatório dos autos, o que esbarraria na Súmula n. 7/STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por FAV 105 FRAGRANCES LTDA., LUIZ CLAUDIO PRADO VOLPE e LUIZ PAULO PRADO VOLPE contra acórdão da Terceira Turma que, por unanimidade, reconsiderou decisão monocrática da Presidência que não conheceu do agravo em recurso especial, para conhecer do agravo e, na sequência, não conhecer do recurso especial.
+O aresto embargado tem a seguinte ementa (fls. 357 - 358):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EMRECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. DECISÃO DA PRESIDÊNCIA DO STJ QUEAPLICOU A SÚMULA N. 182/STJ. RECONSIDERAÇÃO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL PARA NÃOCONHECER DO RECURSO ESPECIAL.
+1.  No julgamento do Tema n. 769 do STJ, sob o rito dos recursos repetitivos, a Primeira Seção do Superior Tribunal de Justiça (STJ) estabeleceu quatro teses relativas à penhora sobre o faturamento de empresas em execuções fiscais.
+2. Inaplicável o Tema n. 769 desta Corte ao caso dos autos, por não se cuidar de execução fiscal, conforme afirmação do Tribunal recorrido.
+3. Estando o entendimento do acórdão recorrido em consonância com a orientação desta Corte Superior, incide o óbice da Súmula n. 83/STJ.
+4. Acerca da alegação do de violação ao art. 835, afirmou o acórdão recorrido que "no caso concreto houve tentativas razoáveis de localização de ativos financeiros e bens, sendo que os veículos indicados na pesquisa estão todos com restrição judicial (fls. 14), inviabilizando a sua constrição, além disso, o bloqueio de valores em conta corrente foi irrisório se comparado com o valor da dívida" (fls. 184-185). Desconstituir a premissa acima de que ocorreram infrutíferas e prévias tentativas razoáveis de localização de ativos financeiros e bens, demandaria incursão no acervo fático-probatório dos autos, o que esbarra na Súmula n. 7/STJ.
+5. Ademais, pontuou ainda o julgado objurgado que "o Código de Processo Civil estampa em seu artigo 797 a premissa de que a execução se realiza no interesse e em benefício do credor e a mera alegação de que a penhora sobreo faturamento é meio excepcional, desacompanhada de qualquer proposta de quitação do débito ou apresentação de um meio de satisfação do crédito do exequente, acaba sendo inócua" (fl. 185). Nesse sentido, não refutou o argumento de que não apontou a parte proposta de quitação que conservasse meio alternativo menos lesivo ao seu interesse, e portanto incide, ainda , o óbice da Súmula n. 283 do STF (""É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+6. "O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte(AgInt no R Esp n. 1.972.452/PR, relator recorrente não se desincumbiu" Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em , D Je18/9/2023 de .)21/9/2023
+Decisão monocrática reconsiderada para conhecer do agravo em recurso especial para não conhecer do recurso especial.
+Sustenta a parte embargante que o acórdão embargado "omitiu-se quanto à tese jurídica subjacente ao referido tema, a saber, os critérios necessários para a penhora do faturamento de empresa, mesmo em execuções não fiscais, conforme previsto no art. 835, §1º, do CPC" (fl. 375).
+Afirma que o acórdão recorrido incorreu em contradição ao afirmar que " houve tentativas razoáveis de localização de ativos financeiros nos autos, entretanto, o Exequente deixou de utilizar as demais ferramentas existentes para localização de bens e que seriam menos onerosas aos Executados" (fl. 376).
+Explica que " Tal conclusão é contraditória com a exigência contida no §1º do art. 835 do CPC, que impõe ao magistrado o dever de fundamentar adequadamente a preterição da ordem legal, o que não ocorreu, tampouco foi enfrentado pelo acórdão ora recorrido" (fl. 376).
+Os embargantes indicam ainda que o art. 866 do CPC fortaleceria a necessidade de esclarecer a contradição acima.
+Requer, ao final, o acolhimento dos embargos declaratórios, empregando efeitos modificativos, para dar conhecer e dar provimento ao recurso especial.
+A parte embargada, instada a manifestar-se, apresentou impugnação às fls. 382-385.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. NÃO OBSERVÂNCIA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou que, acerca da alegação de violação ao art. 835 do CPC , o acórdão objeto do recurso especial teria afirmado que "no caso concreto houve tentativas razoáveis de localização de ativos financeiros e bens, sendo que os veículos indicados na pesquisa estão todos com restrição judicial (fls. 14), inviabilizando a sua constrição, além disso, o bloqueio de valores em conta corrente foi irrisório se comparado com o valor da dívida" (fls. 184-185), e, ato contínuo, concluiu que desconstituir a premissa acima de que ocorreram infrutíferas e prévias tentativas razoáveis de localização de ativos financeiros e bens, demandaria incursão no acervo fático-probatório dos autos, o que esbarraria na Súmula n. 7/STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Com efeito, verifica-se que o acórdão embargado, de maneira clara e fundamentada, consignou que, acerca da alegação de violação d o art. 835 do CPC, o acórdão objeto do recurso especial teria afirmado que "no caso concreto houve tentativas razoáveis de localização de ativos financeiros e bens, sendo que os veículos indicados na pesquisa estão todos com restrição judicial (fls. 14), inviabilizando a sua constrição, além disso, o bloqueio de valores em conta corrente foi irrisório se comparado com o valor da dívida" (fls. 184-185), e, ato contínuo, concluiu que desconstituir a premissa acima de que ocorreram infrutíferas e prévias tentativas razoáveis de localização de ativos financeiros e bens, demandaria incursão no acervo fático-probatório dos autos, o que esbarraria na Súmula n. 7/STJ.
+Observa-se, portanto, a pretensão do embargante na modificação do julgado. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ERRO MATERIAL. OCORRÊNCIA. CORREÇÃO. EFEITOS INTEGRATIVO E MODIFICATIVO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. No caso, os presentes aclaratórios merecem acolhimento, para sanar erro material verificado.
+3. Embargos de declaração acolhidos, com efeitos integrativo e modificativo.
+(EDcl no AgInt no REsp n. 2.122.639/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
