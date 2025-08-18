@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. CONTRATO DE COMPRA E VENDA. SÚMULA 284 DO STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. "Incorre em vício de fundamentação a parte recorrente que suscita questões dissociadas do que foi concluído pelo acórdão estadual, atraindo, dessa forma, o teor da Súmula nº 284 do STF." (REsp n. 2.196.678/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por MRV PRIME MACEIÓ I INCORPORAÇÃO IMOBILIÁRIA LTDA contra decisão da Presidência desta Corte (e-STJ, fls. 568/569), que não conheceu do agravo em recurso especial ante a ofensa ao princípio da dialeticidade.
+Nas razões recursais, a parte agravante sustenta, em síntese, que "Insta salientar que a Agravante impugnou especificamente todos os fundamentos da decisão recorrida e demonstrou que não se trata de reexame da matéria fática, mas sim, sobre violação de lei federal" (e-STJ, fl. 575).
+Devidamente intimadas, as partes agravadas não apresentaram impugnação (e-STJ, fls. 586 e 587).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. CONTRATO DE COMPRA E VENDA. SÚMULA 284 DO STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. "Incorre em vício de fundamentação a parte recorrente que suscita questões dissociadas do que foi concluído pelo acórdão estadual, atraindo, dessa forma, o teor da Súmula nº 284 do STF." (REsp n. 2.196.678/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e não conhecer do recurso especial.
+VOTO
+Afiguram-se relevantes as alegações recursais, motivo pelo qual reconsidero a decisão de fls. 568/569.
+Passa-se à análise do mérito recursal.
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por MRV PRIME MACEIÓ I INCORPORAÇÃO IMOBILIÁRIA LTDA, fundado no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Alagoas, assim ementado (e-STJ, fls. 437/443):
+CIVIL. NULIDADE DO CONTRATO DE COMPRA E VENDA FIRMADO COM A MRV PRIME MACEIO I INCORPORACAO IMOBILIARIA LTDA. E DO CONTRATO POR INSTRUMENTO PARTICULAR DE COMPRA E VENDA DE TERRENO E MÚTUO CELEBRADO COM A CEF . IMÓVEL DIVERSO DO ESCOLHIDO NO CONTRATO. DANOS MORAIS. NÃO CABIMENTO. APELAÇÃO DA CEF E RECURSO ADESIVO DO AUTOR IMPROVIDOS.
+1. Apelação interposta pela MRV PRIME MACEIO I INCORPORACAO IMOBILIARIA LTDA. e Recurso Adesivo pelo Particular em face da sentença que julgou procedente, em parte, os pedidos autorais para: anular o contrato de compra e venda firmado com a MRV PRIME e o a) Contrato por Instrumento Particular de Compra e Venda de Terreno e Mútuo para Construção de Unidade Habitacional com Fiança, Alienação Fiduciária em Garantia e outras Obrigações (contrato nº 878770494121-3), celebrado com a CEF; determinar a restituição integral dab) quantia paga pelo autor a cada uma das partes para a quitação do respectivo imóvel, devidamente corrigida e com juros de mora a partir da citação, de acordo com o Manual de Cálculos da Justiça Federal. Condenou a MRV PRIME MACEIO I INCORPORAÇÃO IMOBILIÁRIA LTDA. ao pagamento de custas e honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor da condenação.
+2. A MRV PRIME MACEIO I INCORPORACAO IMOBILIARIA LTDA. pede, em preliminar, a suspensão do processo, uma vez que o caso presente se enquadra no Tema 1095 do STJ (RESP 1894198/SP); e que não seria parte legítima no processo, pois não é responsável pelo recebimento dos valores pagos a título das obrigações decorrentes do Contrato de Financiamento Habitacional. Quanto ao mérito, alega que não há se falar em rescisão contratual , já que há Lei específica que determina a forma do desfazimento do negócio jurídico em caso de imóvel dado em garantia fiduciária Informa que, nos casos de imóvel com. financiamento habitacional em que há garantia fiduciária, não há se falar em rescisão do contrato particular de promessa de compra e venda, já que este fora quitado pela instituição financeira. Aduz a ausência de erro substancial, uma vez que "conforme contrato de compra e, venda, contrato de financiamento e principalmente a matrícula do imóvel resta evidenciado que o apartamento objeto da lide era localizado no térreo.".
+3. Nas suas razões de apelo, pugna o Particular pela reforma na parte da sentença que deixou de condenar a parte ré ao pagamento de danos morais.
+4. Pedido do Autor de anular o contrato de compra e venda firmado com a MRV PRIME MACEIO I INCORPORACAO IMOBILIARIA LTDA. e o Contrato por Instrumento Particular de Compra e Venda de Terreno e Mútuo para Construção de Unidade Habitacional com Fiança, Alienação Fiduciária em Garantia e outras Obrigações celebrado com a CEF, além da restituição integral da quantia paga pelo autor a cada uma das partes para a quitação do respectivo imóvel, devidamente corrigida e com juros de mora, tendo em vista que foi induzido a erro pelo vendedor, com indicação no contrato de imóvel diverso daquele escolhido, ou seja, com orientação para o nascente e localizado no primeiro andar, e não no térreo.
+5. O pedido de suspensão do processo não procede, uma vez que o caso presente não se enquadra no Tema 1095 do STJ (RESP 1894198/SP), eis que a questão se circunscreve na anulação dos contratos firmados com a MRV PRIME MACEIO I INCORPORACAO IMOBILIARIA LTDA. e com a CEF, e não de rescisão.
+6. A incorporadora tem relação direta com o objeto litigioso, sendo parte legítima para figurar no polo passivo da demanda. Preliminar de ilegitimidade passiva rejeitada.
+7. Os documentos apresentados pelo Autor (Ids. 4058000.5859810 e 4058000.5859814) comprovam o erro induzido pelo agente da MRV PRIME MACEIO I INCORPORAÇÃO IMOBILIÁRIA LTDA.
+8. É incabível o pleito de indenização por danos morais, vez que não restou demonstrado nos autos a existência de qualquer evento que possa ter causado ofensa à sua imagem ou honra, ou perturbações que desencadeassem alterações significativas nas suas relações psíquicas, emocionais ou afetivas, sendo certo que o mero inadimplemento contratual pode acarretar prejuízos materiais a serem ressarcidos, caso comprovados, mas não dano moral, que pressupõe ofensa anormal à personalidade.
+9. Apelação da MRV PRIME MACEIO I INCORPORACAO IMOBILIARIA LTDA. improvida Condenação da Apelante em honorários recursais, ficando majorado em 1% o percentual aplicado na sentença, nos termos do art. 85, § 11, do CPC. Recurso Adesivo do Autor Sem condenação em honorários recursais, vez que não houve condenação em improvido. honorários advocatícios na sentença.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 456).
+Em suas razões recursais, a parte recorrente alegou, além de divergência jurisprudencial, violação aos arts. 485, VI, § 3º, 489, 932, V, "b", 932, IV, "b", 1.039 e 1.022, todos do Código de Processo Civil, 26 e 27, ambos da Lei Federal n. 9.514/ 1997, sustentando: i) ilegitimidade passiva; e ii) a necessidade de aplicação da Lei de Alienação Fiduciária ao caso.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+Decido.
+Inicialmente, quanto à ilegitimidade passiva alegada, consignou o acórdão recorrido que a empresa recorrente está diretamente ligada ao negócio jurídico objeto da demanda, beneficiando-se dos valores pagos pela consumidora recorrida, conclusão inalterável nesta instância por força da Súmula 7/STJ. De fato, divisam-se os seguintes fundamentos extraídos do acórdão recorrido, litteris (e-STJ, fl. 412):
+"Não prospera, de igual modo, à alegação de ilegitimidade passiva arguida pela MRV, uma vez que a ré figurou como parte no negócio jurídico de compra e venda firmado, tendo sido beneficiária dos valores pagos pelo autor, o que atrai a sua responsabilidade, em caso de eventual rescisão do contrato de financiamento, com ordem de devolução dos valores pagos. Dito de outra maneira, não há dúvida de que a incorporadora tem relação direta com o objeto litigioso, sendo parte legítima para figurar no polo passivo da demanda. Preliminar rejeitada."  g.n
+Relativamente ao mérito, embora a incorporadora recorrente sustente a aplicação da Lei Federal n. 9.514/1997 ao caso, nota-se que as razões de decidir do acórdão estadual não guardam relação com as teses aventadas no apelo nobre.
+De fato, extrai-se do decisum recorrido que o caso dos autos consiste em anulação de negócio jurídico firmado por indução a erro substancial (art. 171, II, do Código Civil), de modo que, no ponto, as razões recursais encontram-se dissociadas dos fundamentos balizados pelo TJ-AL, o que inviabiliza o conhecimento da insurgência por deficiência de fundamentação, atraindo, por analogia, o óbice da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DEFERIMENTO. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS PREJUÍZOS CAUSADOS AO CONSUMIDOR. APELO DO RECORRENTE. VÍCIO DE FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS. SÚMULA Nº 284 DO STF. DESCONSTITUIÇÃO DAS CONCLUSÕES DO ACÓRDÃO ESTADUAL. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Incorre em vício de fundamentação a parte recorrente que suscita questões dissociadas do que foi concluído pelo acórdão estadual, atraindo, dessa forma, o teor da Súmula nº 284 do STF.
+2. A reforma do julgado que defere a desconsideração da personalidade jurídica, concedida com base no artigo 28, § 5º, do CDC, exige o reexame dos aspectos fáticos da controvérsia, o que não enseja recurso especial por óbice da Súmula nº 7 desta Corte.
+3. Recurso especial não conhecido.
+(REsp n. 2.196.678/MG, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE IMISSÃO NA POSSE - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA DA PARTE DEMANDADA.
+1. De acordo com a jurisprudência desta E. Corte, "a ação de imissão na posse é própria àquele que detém o domínio e pretende haver a posse dos bens adquiridos, contra o alienante ou terceiros, que os detenham" (REsp n. 404.717/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/8/2002, DJ de 30/9/2002, p. 257).
+Incidência da Súmula 83/STJ.
+2. A reforma do julgado, no sentido de afastar a legitimidade passiva do recorrente ou concluir pela inépcia da inicial, exigira derruir a convicção formada na instância ordinária, o que atrai a incidência da Súmula 7 do STJ. Precedentes.
+3. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+4. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das súmulas 283 e 284 do STF, por analogia.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.788.821/GO, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a seguradora é responsável por vícios construtivos em imóveis financiados e se a multa decendial é aplicável e devida aos mutuários.
+3. Há também discussão sobre a competência da Justiça Estadual e a legitimidade passiva da Caixa Econômica Federal, além da prescrição da pretensão indenizatória.
+III. Razões de decidir
+4. A conclusão do Tribunal de origem acerca da responsabilidade da seguradora por vícios construtivos está alinhada com a jurisprudência do STJ, que considera abusiva a exclusão de cobertura para tais vícios.
+5. A multa decendial é devida aos mutuários em função do atraso no pagamento da indenização, conforme entendimento consolidado do STJ.
+6. As alegações de incompetência da Justiça Estadual, legitimidade passiva da CEF e incidência do prazo prescricional ânuo não foram apreciadas pela Corte local devido à preclusão, aplicando-se as Súmulas n. 282 e 356 do STF.
+7. Ausente impugnação específica e integral dos fundamentos do acórdão recorrido, bem como apresentadas razões dissociadas dos fundamentos do julgado, incidem as Súmulas n. 283 e 284 do STF.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. A seguradora é responsável por vícios construtivos em imóveis financiados, sendo abusiva a exclusão de cobertura para tais vícios. 2. A multa decendial é devida aos mutuários em função do atraso no pagamento da indenização, limitada ao valor da obrigação principal."
+Dispositivos relevantes citados: CC, arts. 412 e 784.
+Jurisprudência relevante citada: STJ, REsp 1.804.965/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 27/5/2020, DJe 1º/6/2020; STJ, AgInt no AREsp n. 1.984.533/SP, Rel. Min. Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.
+(AgInt no AREsp n. 2.271.216/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+É como voto.
