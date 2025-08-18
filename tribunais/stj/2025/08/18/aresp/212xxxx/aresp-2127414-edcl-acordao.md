@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMA DA REPERCUSSÃO GERAL 985/STF. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO ACOLHIDO.
+1. A questão debatida nos autos, qual seja, a "Natureza jurídica do terço constitucional de férias, indenizadas ou gozadas, para fins de incidência da contribuição previdenciária patronal", foi julgada pelo Supremo Tribunal Federal (STF) nos autos do Recurso Extraordinário 1.072.485/PR (Tema 985), em repercussão geral. Por ocasião do julgamento, firmou-se a tese de que "é legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias".
+2. "Nos casos em que há discussão acerca de matéria submetida à sistemática do julgamento repetitivo ou da repercussão geral, o recurso integrativo deve ser acolhido para que, atribuindo-se-lhe efeitos modificativos, seja anulado o acórdão embargado e determinada a remessa dos autos à instância de origem, a fim de que se viabilize o juízo de conformação, hoje disciplinado nos arts. 1.040 e 1.041 do CPC/2015 "(EDcl no AgInt no AREsp 2.237.579/PR, relator Ministr o Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023.)
+3. Embargos de declaração acolhidos para tornar sem efeito as decisões anteriores; determina-se a devolução dos autos à origem.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por TRANSBEN TRANSPORTES LTDA. contra acórdão em que a Primeira Turma do STJ não conheceu do seu agravo interno nos seguintes termos da ementa do julgado (fl. 681):
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MATÉRIA AFETADA AO RITO DE RECURSOS REPETITIVOS. BAIXA DOS AUTOS PARA JUÍZO DE CONFORMAÇÃO NO TRIBUNAL DE ORIGEM. NECESSIDADE. AUSÊNCIA DE PREJUÍZO. DECISÃO IRRECORRÍVEL. RECURSO NÃO CONHECIDO.
+1. Não cabe recurso contra a decisão que se limita a determinar a devolução dos autos ao Tribunal de origem para observância da sistemática prevista no art. 1.040 e seguinte do Código de Processo Civil (CPC), por se tratar de ato despido de conteúdo decisório e que não gera prejuízo às partes.
+2. Agravo interno não conhecido.
+A parte embargante insiste no argumento de que a discussão dos autos não possui relação com o Tema 1.174/STJ e que não foi apreciada a tese de que este processo deve retornar à instância a quo, para adequação da decisão agravada à decisão proferida no ED do RE 1.072.485 (Tema 985/STF) que julgou a modulação de efeitos ao direito à exclusão do Terço de Férias das bases de cálculo das contribuições patronais.
+Requer, assim, o acolhimento dos embargos de declaração, com efeitos modificativos.
+Impugnação não apresentada pela parte adversa (fl. 699).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMA DA REPERCUSSÃO GERAL 985/STF. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO ACOLHIDO.
+1. A questão debatida nos autos, qual seja, a "Natureza jurídica do terço constitucional de férias, indenizadas ou gozadas, para fins de incidência da contribuição previdenciária patronal", foi julgada pelo Supremo Tribunal Federal (STF) nos autos do Recurso Extraordinário 1.072.485/PR (Tema 985), em repercussão geral. Por ocasião do julgamento, firmou-se a tese de que "é legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias".
+2. "Nos casos em que há discussão acerca de matéria submetida à sistemática do julgamento repetitivo ou da repercussão geral, o recurso integrativo deve ser acolhido para que, atribuindo-se-lhe efeitos modificativos, seja anulado o acórdão embargado e determinada a remessa dos autos à instância de origem, a fim de que se viabilize o juízo de conformação, hoje disciplinado nos arts. 1.040 e 1.041 do CPC/2015 "(EDcl no AgInt no AREsp 2.237.579/PR, relator Ministr o Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023.)
+3. Embargos de declaração acolhidos para tornar sem efeito as decisões anteriores; determina-se a devolução dos autos à origem.
+VOTO
+Segundo estabelece o art. 1.022 do Código de Processo Civil, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material no julgado.
+Diante dos argumentos da parte embargante, verifico que, de fato, há vício no acórdão embargado, que passo a sanar.
+A questão debatida nos autos, qual seja, a "n atureza jurídica do terço constitucional de férias, indenizadas ou gozadas, para fins de incidência da contribuição previdenciária patronal", foi julgada pelo Supremo Tribunal Federal (STF) nos autos do Recurso Extraordinário 1.072.485/PR (Tema 985), em repercussão geral. Por ocasião do julgamento, firmou-se a tese de que "é legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias".
+Houve a oposição de embargos de declaração naquele feito, os quais foram
+julgados em 16/6/2024 e acolhidos parcialmente, "com atribuição de efeitos ex nunc ao acórdão de mérito, a contar da publicação de sua ata de julgamento, ressalvadas as contribuições já pagas e não impugnadas judicialmente até essa mesma data, que não serão devolvidas pela União", nos termos do voto vencedor do Ministro Luís Roberto Barroso.
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem retornar ao Tribunal de origem, viabilizando o juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do Código de Processo Civil (CPC), à luz da modulação dos efeitos determinada pelo STF no julgamento dos embargos de declaração.
+Ante o exposto, acolho os embargos de declaração, com atribuição de excepcionais efeitos infringentes, para anular os julgamentos anteriores e determinar a devolução dos autos ao Tribunal de origem para que observe o disposto nos arts. 1.040 e 1.041 do CPC/2015, conforme o caso.
+É o voto.
