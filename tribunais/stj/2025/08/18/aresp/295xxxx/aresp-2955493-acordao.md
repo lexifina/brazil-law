@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. AGRAVOS EM RECURSO ESPECIAL. RECURSOS ESPECIAIS ISOLADOS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO REVISIONAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA.
+RECURSOS DE PROJETO IMOBILIÁRIO e VIVER INCORPORADORA. LUCROS CESSANTES DEVIDOS. PRESUNÇÃO DE PREJUÍZO. SÚMULA N. 568 DO STJ. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVOS CONHECIDOS. RECURSOS ESPECIAIS PARCIALMENTE CONHECIDOS E NÃO PROVIDOS.
+1. Trata-se de ação revisional cumulada com indenização por danos materiais e morais, sob a alegação de descumprimento do contrato de promessa de compra e venda de imóvel firmado entre as partes, no que se refere ao prazo de entrega da obra.
+2. A jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Incidência da Súmula n. 568 do STJ.
+3. A fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade dos promitentes-compradores, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, ante o óbice da Súmula n. 7 do STJ.
+4. Agravos conhecidos. Recursos especiais de PROJETO IMOBILIÁRIO e VIVER INCORPORADORA parcialmente conhecidos e não providos.
+RELATÓRIO
+Trata-se de dois agravos em recurso especial interpostos, respectivamente, por PROJETO IMOBILIÁRIO RLC 02 LTDA. (PROJETO IMOBILIÁRIO) e VIVER INCORPORADORA E CONSTRUTORA S.A. (VIVER INCORPORADORA) contra as decisões que não admitiram seus apelos nobres manejados com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria da Desª. CLARA MARIA ARAÚJO XAVIER, assim ementado:
+Apelação. Compromisso de compra e venda de imóvel. Atraso na entrega do bem. Pretensão de recebimento de lucros cessantes e indenização por danos morais. Procedência parcial. Inconformismo centrado na ausência de danos morais e materiais, bem como impossibilidade da condenação ao pagamento dos honorários do perito. Descabimento. Atraso na entrega do empreendimento incontroverso. Lucros cessantes. Admissibilidade. Súmula 162 do TJSP. Indenização devida pela total privação do proveito econômico do bem. Danos morais. Hipótese dos autos que permite divisar a existência e evento ensejador de danos morais, notadamente considerando o extenso lapso temporal decorrido desde a data prevista para a entrega do imóvel. Circunstância que desborda do mero aborrecimento ou inadimplemento contratual. Honorários periciais. Despesa antecipada que deve ser restituída pela parte vencida. Inteligência do art. 82, § 2, do CPC. Sentença mantida. Recurso desprovido (e-STJ, fl. 710).
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. AGRAVOS EM RECURSO ESPECIAL. RECURSOS ESPECIAIS ISOLADOS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO REVISIONAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA.
+RECURSOS DE PROJETO IMOBILIÁRIO e VIVER INCORPORADORA. LUCROS CESSANTES DEVIDOS. PRESUNÇÃO DE PREJUÍZO. SÚMULA N. 568 DO STJ. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVOS CONHECIDOS. RECURSOS ESPECIAIS PARCIALMENTE CONHECIDOS E NÃO PROVIDOS.
+1. Trata-se de ação revisional cumulada com indenização por danos materiais e morais, sob a alegação de descumprimento do contrato de promessa de compra e venda de imóvel firmado entre as partes, no que se refere ao prazo de entrega da obra.
+2. A jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Incidência da Súmula n. 568 do STJ.
+3. A fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade dos promitentes-compradores, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, ante o óbice da Súmula n. 7 do STJ.
+4. Agravos conhecidos. Recursos especiais de PROJETO IMOBILIÁRIO e VIVER INCORPORADORA parcialmente conhecidos e não providos.
+VOTO
+Os inconformismos não merecem prosperar.
+Trata-se de ação revisional cumulada com indenização por danos materiais e morais ajuizada por ANTONIO KHEDI NETO e PATRÍCIA DROSGHIC VIEIRA KEHDI contra PROJETO IMOBILIÁRIO e VIVER INCORPORADORA, alegando o descumprimento do contrato de promessa de compra e venda de imóvel firmado entre as partes, no que se refere ao prazo de entrega da obra.
+Nas razões de seus recursos especiais, interpostos com base na alínea a do permissivo constitucional, PROJETO IMOBILIÁRIO e VIVER INCORPORADORA veicularam as mesmas teses recursais, alegando a violação aos arts. 186, 187, 402, 403 e 927 do CC, ao sustentarem (1) o descabimento da condenação por lucros cessantes ante a ausência de comprovação do efetivo prejuízo sofrido pelos compradores; e (2) que o mero descumprimento contratual não enseja reparação a título de dano moral.
+Não foram apresentadas contrarrazões.
+Dos recursos especiais de PROJETO IMOBILIÁRIO e VIVER INCORPORADORA
+Tendo em vista a identidade das questões jurídicas suscitadas, passo a análise conjunta de ambos os recursos.
+(1) Dos lucros cessantes
+Tendo sido reconhecido o atraso na entrega do empreendimento, o TJSP passou a analisar o pedido de indenização, consignando, quanto à imposição do pagamento a título de lucros cessantes, o que se segue:
+Acerca do tema já restou pacificado por esta Colenda Corte de Justiça que: "Descumprido o prazo para a entrega do imóvel objeto do compromisso de venda e compra, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, independentemente da finalidade do negócio" (Súmula 162)  e-STJ, fl. 713 .
+Como se vê do fundamento transcrito, o conteúdo decisório do Tribunal paulista está em harmonia com o entendimento desta Corte Superior, no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promitente-comprador.
+Nesse sentido, vejam-se os julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. TESES JURÍDICAS ACERCA DA IMPUTAÇÃO DA MORA E DA QUALIFICAÇÃO DA PARTE ADVERSA. INOVAÇÃO RECURSAL. NÃO CABIMENTO. ATRASO NA ENTREGA DO BEM. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. PRECEDENTES. REDUÇÃO DO PATAMAR INDENIZATÓRIO. ANÁLISE INVIABILIZADA. DEFICIÊNCIA DO COTEJO ANALÍTICO. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É vedado à parte insurgente, nas razões do agravo interno, apresentar teses que não foram aventadas no momento da interposição do recurso especial, em virtude da preclusão.
+2. A jurisprudência desta Corte Superior é firme no sentido de que, descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Esse entendimento, inclusive, vem sendo aplicado por este Colegiado aos casos de atraso na entrega de lote não edificado.
+3. A análise da pretensão de redução do patamar indenizatório, deduzida por meio da alínea c do permissivo constitucional, encontra-se obstada em razão da deficiência do cotejo analítico.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no REsp n. 1.818.212/SP, relator Ministro MARCO AURELIO BELLIZZE, Terceira Turma, julgado em 22/3/2021, DJe de 25/3/2021 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL (TERRENO). ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. RESCISÃO CONTRATUAL. RECURSO DA CORRÉ EMPREENDEDORA. MORA CONFIGURADA. PRESUNÇÃO DE PREJUÍZO. SÚMULA Nº 568 DO STJ. DANO MATERIAL (LUCROS CESSANTES) DEFERIDOS PELA PRIVAÇÃO DO USO DA COISA. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283 DO STF. GRATUIDADE JUDICIÁRIA. PREPARO EXISTENTE. INCOMPATIBILIDADE DO PEDIDO. PRECEDENTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Rever a decisão do Tribunal estadual quanto a responsabilidade da agravante pelo atraso na entrega da obra de infraestrutura em loteamento por ela administrado, esbarra necessariamente no óbice das Súmulas nºs 5 e 7 do STJ. Precedentes.
+3. O STJ firmou o entendimento de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador. Precedentes. Incidência da Súmula Nº 568 do STJ.
+4. Correção, de ofício, de erro material verificado na decisão agravada, no tocante à aplicação do enunciado da Súmula nº 283 do STF, ao caso dos autos.
+5. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+6. Agravo interno não provido, com observação.
+(AgInt nos EDcl no REsp n. 1.866.351/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 19/10/2020, DJe de 22/10/2020 - sem destaque no original )
+Desse modo, estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula n. 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+(2) Da indenização por danos morais
+Com relação ao tema, a eg. Terceira Turma desta Corte, no julgamento do REsp n.º 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1.426.710/RS, Terceira Turma, julgado em 25/10/2016, DJe 9/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ, Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e
+c) muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas do caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp 1.637.627/RJ, Rel. Ministra j. 6/12/2016, DJe 14/12/2016; REsp 1.633.274/SP; j. 8/11/2016, DJe 11/11/2016; AgRg no AREsp 809.935/RS, DJe 11/3/2016; e REsp 1.551.968/SP, Segunda Seção, DJe 6/9/2016.
+Ao examinar a controvérsia, no ponto, confira-se o que anotou o Tribunal bandeirante:
+Com efeito, ao contrário do que pretende fazer crer as apelantes, os percalços e dissabores sofridos pelos Autores-apelados não caracterizam mero inadimplemento contratual, pois embora tenham honrado com sua parte na obrigação, não receberam o imóvel na data ajustada contratualmente, a qual, cabe realçar, estava prevista para (31.10.2013 - já contando o prazo de prorrogação de 180 dias) e até a propositura da ação (13.06.2016), ainda não havia sido entregue. Tal fato, por certo, desborda do mero inadimplemento contratual (e-STJ, fl. 713).
+Desse modo, ante a excepcionalidade do caso, em que o atraso na entrega do empreendimento na data da propositura da ação já ultrapassava mais de dois anos e meio, para se alterar tal entendimento é necessária a reavaliação de fatos e provas constantes dos autos, o que é vedado nesta via excepcional, nos termos da mencionada Súmula n. 7 desta Corte.
+Nesse sentido, respeitadas as bases fáticas de cada caso:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA. DANO MORAL CONFIGURADO. REVISÃO QUE ESBARRA NO ÓBICE DA SÚMULA 7 DO STJ.
+1. O Tribunal de origem constatou, com base nos elementos fático probatórios dos autos que os danos morais foram comprovados. Rever esta conclusão, esbarraria no óbice da Súmula 7 deste Superior Tribunal.
+2. Da mesma forma, inviável o conhecimento do recurso pela alínea "c" do permissivo constitucional, pois a análise do dissenso pretoriano depende do revolvimento de matéria fático-probatória.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.638.702/RO, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/4/2017, DJe de 3/5/2017)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS E LUCROS CESSANTES CONFIGURADOS. EFETIVA ENTREGA DO IMÓVEL. ENTREGA DAS CHAVES. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CLÁUSULAS CONTRATUAIS E DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. ENCARGOS CONDOMINIAIS. RESPONSABILIDADE DO PROMITENTE COMPRADOR. A PARTIR DA POSSE. PRECEDENTES. SÚMULA Nº 83/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. A tese defendida no recurso especial demanda reexame de cláusulas contratuais e do contexto fático e probatório dos autos, vedados pelas Súmulas nº 5 e 7/STJ.
+3. Nos termos da jurisprudência deste Superior Tribunal de Justiça, o promitente comprador somente é responsável pelos encargos condominiais após a sua imissão na posse do imóvel. Precedentes.
+Súmula nº 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 908.415/RJ, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 16/3/2017, DJe de 22/3/2017)
+Nessas condições, CONHEÇO dos agravos para CONHECER EM PARTE de ambos os recursos especiais de PROJETO IMOBILIÁRIO e VIVER INCORPORADORA, NEGANDO-LHES PROVIMENTO.
+É o voto.
+MAJORO em 2% o valor dos honorá rios advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
