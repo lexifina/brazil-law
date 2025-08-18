@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por JOAO BATISTA DAGUIMAR DE REZENDE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO cuja ementa guarda os seguintes termos (fls. 232-257):
+Civil e Processual Civil. Agravo Interno. Ausência de Argumentos Novos. Decisão Mantida. 1. O Recorrente não trouxe argumentos novos capazes de infirmarem os fundamentos que alicerçaram a decisão agravada, o que enseja o desprovimento do agravo interno (STJ - AgInt no R Esp: 1757715 BA 2018/0193696-7, Relator: Ministro Paulo de Tarso Sanseverino, Data de Julgamento: 19/10/2020, T3 - Terceira Turma, Data de Publicação: D Je 27/10/2020). 2. Agravo interno conhecido e desprovido.
+Opostos embargos de declaração, o Tribunal de origem os rejeitou (fls. 276-310).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, pois, apesar da oposição dos embargos de declaração, o Tribunal de origem não teria se manifestado sobre pontos essenciais ao deslinde da controvérsia, em especial quanto à incidência dos arts. 273, II, e 80, II e III, do CPC, referentes à ausência de comprovação do direito da parte recorrida e da inocorrência de litigância de má-fé. Sustenta que estes dispositivos também foram violados.
+Foram oferecidas contrarrazões ao recurso especial (fls. 327-330).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 332-335), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 349-351).
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, em julgamento colegiado, confirmou a decisão monocrática do relator daquela Corte, o qual atestou que, de acordo com os elementos de prova constantes nos autos, a contratação seria válida, e, ainda, que a recorrente não se desincumbiu do seu ônus de demonstrar que não teria recebido os valores.
+A propósito, destaco trechos da decisão que denotam tal entendimento (fl. 189-195).
+ ..
+Por ocasião da Contestação em ID nº 35547734, o Banco apelado instruiu o processo com Contrato em ID nº 35547735 - página 02 à 05 em que consta a digital do apelante, bem como, assinatura de duas testemunhas, sendo uma delas seu próprio filho, Wandeson Coelho de Rezende, todos devidamente identificados e acompanhados de documentos de identidade válidos, em plena conformidade com o entendimento firmado por esta Corte no âmbito do Incidente de Resolução de Demandas Repetitivas de nº 53.983/2016:
+Ressalto, que o Plenário do Tribunal de Justiça do Estado do Maranhão, quando do julgamento do citado IRDR, ocasião em que foram firmadas 4 teses, dentre as quais destaco:
+ ..
+Consigno que, nos negócios jurídicos celebrados por pessoas não- alfabetizadas, a presença de testemunhas dá-se, notadamente, para maior segurança na realização do negócio jurídico. Vale dizer que embora a pessoa não alfabetizada não saiba ler ou escrever, tem capacidade para o exercício de atos da vida civil.
+Assim, considerando que, in casu, a pactuação em destaque está demonstrada por meio do instrumento contratual, no qual há a aposição de digital pelo Apelante (analfabeto), acompanhada pela assinatura de 02 (duas) testemunhas devidamente identificadas com cópia dos respectivos documentos, sendo, uma delas, filho do apelante, de modo que, a suposta vulnerabilidade da pessoa analfabeta restou assistida por pessoa de confiança da recorrente na hora da assinatura do contrato.
+ ..
+Ademais, sobre a assinatura "a rogo", vale ressaltar que em recente julgamento, a Sexta Câmara Cível julgou válido negócio jurídico realizado por pessoa não alfabetizada que se encontrava acompanhada de testemunha, durante a celebração do contrato, embora ausente a assinatura a rogo.
+ ..
+Dessa forma, o banco/apelado comprovou a regularidade da contratação realizada pela apelante (analfabeta), mediante a juntada do respectivo instrumento, constando a digital do Contratante/Apelante, acompanhado pela assinatura de 02 (duas) testemunhas, sendo que, uma destas é o seu próprio filho, Wandeson Coelho de Rezende, presumindo-se assim a ciência da apelante acerca de todos os termos contratuais.
+Lado outro, percebe-se que a apelante não apresentou provas de que o valor não fora creditado em sua conta bancária, deixando de corroborar com a justiça, haja vista a ausência de juntada de extrato bancário do período do contrato, documento necessário para o reconhecimento de seu direito conforme entendimento consolidado na 1ª Tese do IRDR n.º 53.983/2016, tendo em vista que questiona a regularidade do contrato e ausência de recebimento dos valores, sem apresentar, contudo, prova em sentido contrário.
+Sobre esse aspecto, rememora-se o teor da tese retromencionada, da qual orienta no sentido de que "permanece com o consumidor/autor, quando alegar que não recebeu o valor do empréstimo, o dever de colaborar com a Justiça (CPC, art. 6º) e fazer a juntada do seu extrato bancário, embora este não deva ser considerado, pelo juiz, como documento essencial para a propositura da ação".
+Em tempo, analisando-se os autos com acuidade e todos os documentos acostados em fase de conhecimento, também em conformidade com a 1ª Tese do IRDR n.º 53.983/2016, observa-se que, no presente caso, se mostra desnecessária a perícia pleiteada ante o vasto acervo probatório, afastando qualquer dúvida de não autenticidade da assinatura acostada ao contrato.
+Portanto, não caracterizada a ilegalidade da contratação, não merecendo reparo a decisão impugnada, uma vez que o Magistrado aplicou devidamente as teses fixadas em Incidente de Resolução de Demandas Repetitivas na análise do caso concreto.
+ ..
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Por fim, quanto à alegação de afronta aos arts. 273, II, e 80, II e III, do CPC, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que atrai os preceitos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF. (AgInt no AREsp n. 2.044.724/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+2. A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+ ..  (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% do valor da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. ARTIGOS APONTADOS COMO VIOLADOS. DEFICIÊNCIA DAS RAZÕES RECURSAIS. SÚMULA N. 284/STF. AGRAVO CONHECIDO, RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
