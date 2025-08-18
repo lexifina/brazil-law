@@ -1,0 +1,31 @@
+DECISÃO
+A questão relativa à impenhorabilidade ou não de quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimento, foi afetada pela Corte Especial deste Superior Tribunal, sob o rito dos recursos repetitivos, nos termos do acórdão de relatoria da Ministra MARIA THEREZA DE ASSIS MOURA, prolatada no REsp nº 2.020.425/RS, a seguir transcrito:
+Processo civil. Recursos especiais. Indicação como representativos de controvérsia. Impenhorabilidade de quantia até 40 salários mínimos (art. 833, X, do CPC). Papel-moeda; conta corrente; caderneta de poupança; fundo de investimentos. Afetação ao rito dos repetitivos.
+I. Caso em exame
+1. Recursos especiais ns. 2015693/PR e 2020425/RS selecionados como representativos de controvérsia e submetidos à avaliação para eventual afetação ao rito dos recursos repetitivos, relativos à interpretação da impenhorabilidade do art. 833, X, do Código de Processo Civil, em relação a quantia em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+II. Questão em discussão
+2. A proposta de afetação ao rito dos repetitivos busca dirimir controvérsia sobre a aplicação da impenhorabilidade do art. 833, X, do Código de Processo Civil, em relação a quantia em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+III. Razões de decidir
+3. Afetação ao rito dos recursos repetitivos, por serem os recursos admissíveis e estar demonstrada a repetição da controvérsia.
+Existência de orientação firmada em julgamento da Corte Especial do Superior Tribunal de Justiça, em recurso especial avulso (REsp n. 1.660.671/RS, Rel. Min. Herman Benjamin, Corte Especial, julgado em 21/2/2024).
+IV. Dispositivo e tese
+4. Afetação dos recursos especiais ao rito previsto nos arts. 1.036 e 1.037 do CPC de 2015 e nos arts. 256 ao 256-X do RISTJ.
+5. Delimitação das controvérsias afetadas: Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos.
+______
+Dispositivos relevantes citados: art. 833. X, do Código de Processo Civil.
+Jurisprudência relevante citada: STJ, REsp n. 1.660.671/RS, Rel. Min. Herman Benjamin, Corte Especial, julgado em 21/2/2024.
+(ProAfR no REsp n. 2.020.425/RS, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 17/9/2024, DJe de 7/10/2024.)
+Nesse contexto, a afetação de recurso especial como representativo da controvérsia demanda ao Tribunal Estadual a suspensão de recursos interpostos que abordem idêntica questão, até o julgamento definitivo da controvérsia.
+Após o pronunciamento desta Corte, os recursos suspensos devem ser analisados na forma prevista no art. 1.040 do CPC (art. 5º, inciso III, da Resolução nº 8/2008 da Presidência do STJ).
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+ .. .
+3. Ademais, se o Ministro Relator admite o recurso especial como representativo da controvérsia e determina a suspensão dos demais recursos (como ocorre no caso dos autos), comunicando a decisão aos Tribunais de segundo grau, não se revela adequado que seja admitido ou inadmitido recurso especial no qual se discuta questão idêntica, antes do pronunciamento definitivo do Superior Tribunal de Justiça (art. 543-C, §§ 1º e 2º, c/c o art. 2º da Resolução 8/2008 do STJ).
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido.
+(AgRg no AREsp 153.829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. 17/5/2012, DJe 23/5/2012).
+Nessas condições, DETERMINO a devolução do processo ao Tribunal Estadual, com a devida baixa nesta Corte, para que permaneça suspenso até a publicação do acórdão representativo da controvérsia, nos termos do art. 256-L, I, do RISTJ, observando-se, logo após, o expediente previsto nos arts. 1.040 e 1.041, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MONTANTE INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. MATÉRIA AFETADA PELA CORTE ESPECIAL DESTE SUPERIOR TRIBUNAL. SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM.
