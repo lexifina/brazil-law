@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO. VERBA HONORÁRIA FIXADA POR EQUIDADE. POSSIBILIDADE. PROVEITO ECONÔMICO INESTIMÁVEL. APLICAÇÃO DO ART. 85, § 8º, DO CPC. AGRAVO INTERNO DESPROVIDO.
+1. Admite-se a fixação de honorários por equidade nas ações cujo proveito econômico seja inestimável, como nas demandas relativas ao fornecimento de medicamentos e tratamentos de saúde.
+2. Nos termos do Tema repetitivo n. 1.076 do STJ, a aplicação do art. 85, § 8º, do CPC é cabível em hipóteses excepcionais, como nas causas de valor inestimável.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCELO MERCANTE SAVASTANO, com fundamento nos arts. 1.021 e seguintes do CPC, contra a decisão monocrática de fls. 826-829, que conheceu parcialmente do recurso especial e, nessa parte, negou-lhe provimento.
+A controvérsia diz respeito à forma de fixação dos honorários de sucumbência, estabelecidos por equidade, em ação de obrigação de fazer envolvendo fornecimento de medicamento.
+O agravante sustenta que o valor da causa (R$ 235.255,86), correspondente a doze meses de tratamento, não é aleatório, mas sim apurado nos termos do art. 292, § 2º, do CPC, por se tratar de obrigação de trato sucessivo por tempo indeterminado.
+Aduz que a decisão violou o art. 85, § 2º, do CPC ao aplicar, de forma indevida, o § 8º do mesmo dispositivo, o qual tem caráter excepcional. Defende que a verba honorária deveria ter sido fixada entre 10% e 20% sobre o valor da causa, conforme orientação firmada pelo STJ no Tema repetitivo n. 1.076 e em outros precedentes específicos.
+Requer o exercício do juízo de retratação e, se não acolhido, o julgamento do presente agravo pelo colegiado para que dê provimento ao recurso especial e determine o retorno dos autos ao Tribunal de origem a fim de que proceda à fixação dos honorários nos moldes do art. 85, § 2º, do CPC.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO. VERBA HONORÁRIA FIXADA POR EQUIDADE. POSSIBILIDADE. PROVEITO ECONÔMICO INESTIMÁVEL. APLICAÇÃO DO ART. 85, § 8º, DO CPC. AGRAVO INTERNO DESPROVIDO.
+1. Admite-se a fixação de honorários por equidade nas ações cujo proveito econômico seja inestimável, como nas demandas relativas ao fornecimento de medicamentos e tratamentos de saúde.
+2. Nos termos do Tema repetitivo n. 1.076 do STJ, a aplicação do art. 85, § 8º, do CPC é cabível em hipóteses excepcionais, como nas causas de valor inestimável.
+3. Agravo interno desprovido.
+VOTO
+Sem razão a parte recorrente.
+No recurso especial, a parte sustentou que, embora se trate de obrigação de fazer  fornecimento de medicamento  , o valor da causa foi apurado nos moldes do art. 292, § 2º, do CPC, sendo de R$ 235.255,86, correspondente a doze meses de tratamento. Alegou que tal valor não seria aleatório, mas estimativa objetiva do proveito econômico da demanda, o que afastaria a possibilidade de arbitramento equitativo da verba honorária.
+Contudo, razão não assiste ao agravante.
+Como se extrai dos autos, a causa versa sobre fornecimento contínuo de medicamento de elevado custo para tratamento oncológico. Não há, no entanto, como estimar o período total do tratamento, tampouco o custo final da obrigação. Assim, embora o agravante sustente que o valor atribuído à causa seguiu o critério do art. 292, § 2º, do CPC, na verdade, a quantia fixada não reflete a expressão econômica efetiva da demanda, dada sua natureza essencialmente indeterminada e voltada à preservação do direito à saúde.
+Ademais, as disposições do § 2º do art. 292 do CPC não compõem a discussão travada no recurso especial. De qualquer forma, tratando-se de fornecimento de medicamento, impossível a determinação de hipótese de ser superior ou inferior a doze meses. Portanto, não há como afastar a conclusão do acórdão recorrido de que a causa compõe valor inestimável.
+A jurisprudência do Superior Tribunal de Justiça tem reconhecido, em situações análogas, envolvendo o fornecimento de medicamentos e tratamentos de saúde, a possibilidade de fixação da verba honorária por equidade, tal como consta da decisão ora agravada (AgInt no REsp n. 1.890.101/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/4/2022, DJe de 28/4/2022).
+Assim, o valor atribuído à causa, não decorrendo diretamente da condenação nem do proveito econômico que poderia a parte obter (imensurável), não se presta como base segura para a fixação dos honorários nos termos do art. 85, § 2º, do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA ÚNICO DE SAÚDE. DEMANDA PRESTACIONAL NA ÁREA DA SAÚDE. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. PROVEITO ECONÔMICO INESTIMÁVEL. POSSIBILIDADE. ART. 85, § 8º, DO CPC/2015. JULGADOS DO STJ. SÚMULA 568/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação de obrigação de fazer consistente em fornecer à parte autora, gratuitamente, medicamento para tratamento de esclerose múltipla.
+2. No presente agravo interno, a agravante sustenta que o proveito econômico obtido não é inestimável, devendo os honorários advocatícios serem fixados com base no valor da causa e não ao critério da equidade. No ponto, verifica-se que o acórdão recorrido está em consonância com a orientação deste Superior Tribunal de Justiça, no sentido de que nas demandas prestacionais na área da saúde, o arbitramento da verba honorária sucumbencial deve ser fixada pelo critério da equidade, uma vez que o proveito econômico é inestimável. Precedentes: AgInt no AREsp n. 1.719.420/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/6/2023, DJe de 15/6/2023; AgInt nos EDcl no REsp n. 1.878.495/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023; EDcl nos EDcl no AgInt no REsp n. 1.807.735/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022; AgInt no REsp n. 1.890.101/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/4/2022, DJe de 28/4/2022; AgInt no AREsp n. 1.568.584/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 15/2/2022, DJe de 17/2/2022; AgInt no AREsp n. 1.760.400/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/6/2021, DJe de 1/7/2021; AgInt no AREsp n. 1.734.857/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2021, DJe de 14/12/2021.
+3. Agravo interno não provido. (AgInt no REsp n. 2.058.918/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Ante o exposto, nego provimento ao agravo interno , mantendo a decisão monocrática por seus próprios fundamentos.
+É o voto.
