@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DE SERVIÇO. CULPA EXCLUSIVA DA VÍTIMA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação dos arts. 489 e 1.022 do CPC.
+2. Nos termos da jurisprudência pacífica do STJ, a responsabilidade da instituição financeira por fraude praticada por terceiros, da qual resulta dano ao consumidor, é objetiva. Essa responsabilidade, entretanto, pode ser afastada quando existir culpa exclusiva da vítima ou de terceira pessoa. Precedentes.
+3. Na espécie, o Tribunal de origem, à luz da prova dos autos, afastou a responsabilidade da instituição financeira pela falha na prestação do serviço ante a ausência de nexo causal e configuração de culpa exclusiva da vítima.
+4. Modificar o entendimento a que chegou o Tribunal de origem e concluir pela responsabilidade da instituição financeira requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por VAGNER MARTINS MICHILINI contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento nos termos da seguinte ementa (fl. 531):
+CONSUMIDOR. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. AFRONTA AOS ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO A RESOLUÇÃO. DISPOSIÇÃO NORMATIVA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. FRAUDE. TRANSAÇÕES VIA SISTEMA PIX. AUSÊNCIA DE FALHA DOS SERVIÇOS PRESTADOS PELA INSTITUIÇÃO FINANCEIRA. CULPA EXCLUSIVA DA VÍTIMA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 145):
+AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL - Fraude perpetrada em relação à transferência de recursos por PIX - Pagamento realizado pelo próprio autor em atendimento a pedido feito por terceiro que se passou por sua filha - Transação feita de forma precipitada e sem a observância de cautelas de praxe - Pagamento feito a pessoa desconhecida, ausente relação com a instituição financeira - Indício de fraude evidente - Falha na prestação do serviço, pelo banco réu, não verificada - Culpa exclusiva do autor aliada ao dolo de terceiro - Mantida a improcedência do pedido - Honorários advocatícios sucumbenciais que não comportam fixação em percentual do valor da causa (R$ 3.460,00), dado que diminuto e capaz de implicar em remuneração irrisória ou aviltante à dignidade da advocacia - Menção a dispositivos legais para fins de prequestionamento que não se justifica, suficiente a esse propósito que as matérias em comento tenham sido debatidas e analisadas - Atuação do apelante que se restringiu ao seu direito de recorrer, apresentando fatos e fundamentos jurídicos inerentes ao direito que alega ter em face do apelado, o que não se enquadra nas hipóteses descritas no art. 80, do CPC - Descabido o reconhecimento de litigância de má-fé em seu desfavor - Recurso desprovido e majorada a honorária sucumbencial devida ao patrono do réu, em razão da atuação em grau recursal, de R$ 1.200,00 para R$ 2.500,00, nos termos do art. 85, §§ 8º e 11, do CPC.
+Rejeitados os embargos de declaração opostos (fls. 166-169).
+A parte agravante alega, nas razões do agravo interno, preliminarmente, violação dos arts. 489 e 1.022 do CPC.
+Aduz, no mérito, que não alegou ofensa ao art. 39-B da Resolução BCB n. 147/2021. O dispositivo apontado como violado para sustentar a falha na prestação do serviço bancário por ausência de segurança foi o art. 14, § 1º, do CDC.
+Sustenta, outrossim, que (fl. 628):
+ ..  sendo o fato que vitimou o Agravante previsível pela Resolução BCB nº 147/2021 e perfeitamente evitável pelo BLOQUEIO CAUTELAR, resta, portanto, cabalmente consubstanciada a FALHA NA PRESTAÇÃO DE SERVIÇO da Instituição financeira Agravada (Banco BMG S/A) por manifesta VIOLAÇÃO DO DEVER DE SEGURANÇA ( Lei 12.865/2013, art. 7º, inciso V).
+Defende, ainda, a não incidência das Súmulas 7 e 83 do STJ e violação do art. 14, § 3º, do CDC quanto à distribuição do ônus da prova.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada não apresentou contraminuta (fl. 648).
+É, no essencial, o relatório.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DE SERVIÇO. CULPA EXCLUSIVA DA VÍTIMA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação dos arts. 489 e 1.022 do CPC.
+2. Nos termos da jurisprudência pacífica do STJ, a responsabilidade da instituição financeira por fraude praticada por terceiros, da qual resulta dano ao consumidor, é objetiva. Essa responsabilidade, entretanto, pode ser afastada quando existir culpa exclusiva da vítima ou de terceira pessoa. Precedentes.
+3. Na espécie, o Tribunal de origem, à luz da prova dos autos, afastou a responsabilidade da instituição financeira pela falha na prestação do serviço ante a ausência de nexo causal e configuração de culpa exclusiva da vítima.
+4. Modificar o entendimento a que chegou o Tribunal de origem e concluir pela responsabilidade da instituição financeira requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme demonstrado na decisão agravada, inexiste a alegada violação dos arts. 489 e 1.022 do CPC uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos (fls. 146-148):
+A relação jurídica estabelecida entre as partes está inserida no âmbito das relações de consumo. Todavia, na hipótese, não há se falar em responsabilidade do réu, à medida que os fatos postos sub judice não derivam de falha na prestação do serviço da instituição financeira.
+O dano restou incontroverso nos autos, contudo, a causa do evento danoso, estelionato praticado por terceiro, sem contribuição determinante da instituição bancária, não pode ser atribuída à falha do serviço disponibilizado pelo banco.
+À luz dos autos, a fraude materializou-se porque o autor, nas suas próprias palavras da petição inicial, de modo precipitado e incorrendo em indesculpável desídia, "então envolvido com as tarefas do seu cotidiano de serviços contábeis, não atentou para o número de telefone divergente ao telefone pertencente a Larissa (16 9 9227- 7407), inadvertidamente vendo a foto da Larissa e que, se reportando como filha, tratando o requerente de papai, tratamento este costumeiramente usado pela filha Larissa, realizou os pagamentos solicitados. Ocorre que no dia 18/08/2022 o requerente em contato pessoal com sua filha, constatou trata-se de golpe" (fls. 1/2).
+Somado a isso, verifica-se que o apelante não se cuidou em verificar a autenticidade do perfil de sua filha no aplicativo Whatsapp utilizado para os pedidos de transferência de dinheiro por PIX (fls. 14) nem comprovou qualquer ato atribuível ao recorrido que pudesse ter concorrido com a fraude.
+Observa-se que o demandante não agiu com o mínimo de cautela e, consequentemente, foi vítima de golpista.
+Não há como deduzir eventual falha na prestação de serviço, se perpetrada por meio de pagamento regularmente feito pelo próprio consumidor.
+Nesse sentido, preceitua o artigo 14, parágrafo terceiro da legislação consumerista:
+ ..
+Na hipótese dos autos, não se verifica responsabilidade do banco, porquanto, ausente qualquer indício de falha na prestação do serviço, uma vez que, o episódio narrado na petição inicial decorreu de culpa exclusiva do autor aliado ao dolo atribuído a terceiro e não se aplica, igualmente, a Súmula nº 4791, do C, STJ, à medida que o banco não contribuíra para o evento danoso.
+A jurisprudência que ora se colaciona vem ao encontro do que aqui se afirma:
+ ..
+Assim, considerando que o requerente não provou a falha na prestação do serviço, a improcedência do pedido é medida de rigor, circunstância que não obsta a perseguição do pleito em face do verdadeiro causador do dano.
+Como se vê, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+No mérito, maior sorte não assiste ao agravante.
+Nos termos da jurisprudência pacífica do STJ, a responsabilidade da instituição financeira por fraude praticada por terceira pessoa, da qual resulta dano ao consumidor, é objetiva. Essa responsabilidade, entretanto, pode ser afastada quando existir culpa exclusiva da vítima ou de terceira pessoa.
+A propósito, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANO MORAL. ART. 400, I, DO CPC. SÚMULAS 282 E 356 DO STF. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS. SÚMULA 479 DO STJ. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. REVISÃO DE FATOS E PROVAS. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça perfilha o entendimento de que se faz necessária a comprovação da existência de nexo de causalidade entre as atividades desempenhadas pela instituição financeira e o dano experimentado pela parte consumidora, excluindo-se a responsabilidade do banco em caso de fato exclusivo da vítima ou de terceiro, situação de força maior ou caso fortuito externo.
+Precedentes.
+2. No caso dos autos, o Tribunal de origem concluiu que não houve falha na prestação do serviço bancário, uma vez que não houve indicação de protocolo de atendimento ou print das telas aptos a comprovar o contato pelo site, que no boleto pago constam como pagador e beneficiário pessoas física e jurídica estranhas à relação negocial e que a negociação se desenvolveu por canal de comunicação não disponibilizado pelo banco nas informações disponíveis no site.
+3. A modificação do entendimento quanto à culpa exclusiva da vítima e de terceiro pelas transações bancárias demandaria o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.390.493/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/5/2025, DJEN de 5/6/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE INDICAÇÃO EXPRESSA DO PERMISSIVO CONSTITUCIONAL. AFASTAMENTO DA SÚMULA N. 284 DO STF. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. GOLPE DO MOTOBOY. FALHA NA PRESTAÇÃO DE SERVIÇOS. NÃO OCORRÊNCIA. CULPA EXCLUSIVA DO CONSUMIDOR. NEXO CAUSAL NÃO CONFIGURADO. SÚMULA N. 83 DO STJ. REVISÃO. VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. A responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista.
+2. Para a caracterização da responsabilidade civil, o nexo de causalidade entre o evento danoso e a conduta comissiva ou omissiva do agente deve existir e estar comprovado, bem como ser afastada qualquer das causas excludentes do nexo causal, a saber, culpa exclusiva da vítima ou de terceiro, caso fortuito ou força maior.
+3. Rever o entendimento do tribunal de origem acerca da culpa exclusiva da vítima demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+4. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5 . Agravo interno desprovido.
+(AgInt no AREsp n. 2.616.138/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. RESPONSABILIDADE OBJETIVA AFASTADA, NA ESPÉCIE. NÃO CONFIGURAÇÃO. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "Tratando-se de consumidor direto ou por equiparação, a responsabilidade da instituição financeira por fraudes praticadas por terceiros, das quais resultam danos aos consumidores, é objetiva e somente pode ser afastada pelas excludentes previstas no CDC, como por exemplo, culpa exclusiva da vítima ou de terceiro" (REsp 1.199.782/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 12/09/2011).
+2. Na hipótese, o Tribunal de origem concluiu que não houve falha na prestação do serviço bancário, ficando evidenciada a culpa exclusiva da vítima e de terceiro pelas transações bancárias, uma vez que houve a negligência quanto à guarda do cartão e senha pessoal.
+3. A modificação de tal entendimento demandaria o revolvimento do conjunto fático-probatório dos autos.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.335.920/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+No caso, o Tribunal de origem apurou que o dano decorreu de culpa exclusiva do autor, ora agravante, motivo pelo qual afastou a responsabilidade do banco réu. Nesse aspecto, o acórdão recorrido está de acordo com a jurisprudência do STJ, acima demonstrada. Tem aplicação, no ponto, a Súmula 83/STJ.
+Ademais, modificar o decidido no acórdão impugnado, no que se refere à inexistência de falha na prestação do serviço pelo banco e à caracterização da culpa exclusiva da vítima, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E COM REPETIÇÃO DO INDÉBITO. CONTA CORRENTE. CARTÃO DE CRÉDITO. ALEGAÇÃO DE COMPRAS REALIZADAS POR TERCEIRO DE MÁ-FÉ. UTILIZAÇÃO DE CARTÃO E DE SENHA PESSOAL E INTRANSFERÍVEL. CULPA EXCLUSIVA DA CONSUMIDORA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. A responsabilidade da instituição financeira por fraudes praticadas por terceiros, das quais resultam danos aos consumidores, é objetiva e somente pode ser afastada quando existir culpa exclusiva da vítima ou de terceiro, caso dos autos.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.108.642/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+Do mesmo modo, para modificar o acórdão recorrido acerca do ônus da prova, seria imprescindível também reexaminar o contexto fático-probatório, o que atrai novamente a Súmula 7/STJ.
+Por fim, a incidência das Súmulas 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
