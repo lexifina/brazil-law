@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. HOME CARE. LESÃO CEREBRAL GRAVE. CERCEAMENTO DE DEFESA. AUSÊNCIA. SÚMULA 7/STJ. ATRIBUIÇÕES DO ENFERMEIRO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. O acórdão não se afastou da jurisprudência desta Corte Superior, segundo a qual "pertence ao julgador a decisão acerca da conveniência e oportunidade sobre a necessidade de produção de determinado meio de prova, inexistindo cerceamento de defesa quando, por meio de decisão fundamentada, indefere-se pedido de dilação da instrução probatória" (AgInt no AREsp n. 2.349.413/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/9/2023, DJe de 22/9/2023).
+2. A revisão das conclusões acerca da necessidade da prova técnica quanto à gravidade da lesão cerebral, a fim de estabelecer as diferenças de atribuições das atividades de equipe de enfermagem e de cuidador, como pretendido pela recorrente, esbarra na Súmula 7/STJ.
+3. O Tribunal de origem, ao entender no sentido da necessidade de atuação de profissional de enfermagem para manuseio de sonda nasogástrica, não analisou a controvérsia à luz do art. 11, inciso I, alínea "m", da Lei n. 7.598/1986, especificamente. Logo, não foi cumprido o necessário prequestionamento. Incidência do enunciado das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. O acolhimento da tese trazida no presente recurso, a fim de demover o que foi concluído pela origem (necessidade de assistência de enfermagem 24 horas para paciente com gastrostomia), implica afastamento das premissas delineadas, o que somente seria possível a partir de inevitável reexame de matéria fática, providência inadmissível na via eleita d iante do que dispõe a Súmula 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por UNIMED DE FRANCA SOC COOPDE SERVICOS MED E HOSPITALARES contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial nos termos da seguinte ementa (fl. 786):
+CIVIL. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR (HOME CARE). RECUSA INDEVIDA. CONCLUSÃO DO ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Opostos embargos de declaração, foram acolhidos, sem efeitos modificativos, nos seguintes termos (fl. 808):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO CONFIGURADA. CERCEAMENTO DE DEFESA. AUSÊNCIA. SÚMULA 7/STJ. ATRIBUIÇÕES DO ENFERMEIRO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 727):
+APELAÇÃO CÍVEL Plano de Saúde Cobertura de atendimento em regime domiciliar (home care) com serviços de enfermagem 24 horas por dia e fisioterapia Paciente em escala de Glasgow 3, sem resposta verbal e ausência de movimento, com traqueostomia e alimentação por gastrostomia Cerceamento de defesa Inocorrência Desnecessidade da perícia e do envio de ofício à ANS
+- Parecer Técnico ANS nº 05/2021 que reconhece cobertura obrigatória de home care, substitutivo da internação - Avaliação por meio de tabelas que não é suficiente para determinar o tratamento, contrapondo-se ao que foi prescrito pelo médico assistente - Súmula 90 do E. TJSP
+- Paciente com gastrostomia Atribuições do profissional de enfermagem que se diferem das do cuidador Resolução COFEN nº 0619/2019, item IV do anexo Inteligência Precedentes deste E.TJSP
+- RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração contra o acórdão recorrido.
+A agravante alega, nas razões do agravo interno, que a preliminar de cerceamento de defesa arguida pela agravante em recurso especial não implica revolvimento de aspectos fáticos e probatórios.
+Sustenta, outrossim, que (fl. 821):
+ ..  o acórdão recorrido contrariou os arts. 7º e 156, ambos do CPC, pois embora a causa verse sobre conhecimento técnico/científico, dispensou a produção da prova pericial, valendo-se exclusivamente de documento unilateral produzido pelo recorrido, desprezando semelhante documento produzido pela recorrente pelo simples motivo de que foi produzido de forma unilateral.
+Aduz que não incide a Súmula 83/STJ, visto que o verdadeiro objeto do referido recurso é outro, no caso, os limites de atuação de profissional de enfermagem.
+Por fim, ressalta que houve efetivo prequestionamento do art. 11, inciso I, alínea "m", da Lei n. 7.598/1986, uma vez que o acórdão recorrido julgou a causa a despeito do previsto no supracitado dispositivo legal.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada não apresentou contraminuta (fl. 832).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. HOME CARE. LESÃO CEREBRAL GRAVE. CERCEAMENTO DE DEFESA. AUSÊNCIA. SÚMULA 7/STJ. ATRIBUIÇÕES DO ENFERMEIRO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. O acórdão não se afastou da jurisprudência desta Corte Superior, segundo a qual "pertence ao julgador a decisão acerca da conveniência e oportunidade sobre a necessidade de produção de determinado meio de prova, inexistindo cerceamento de defesa quando, por meio de decisão fundamentada, indefere-se pedido de dilação da instrução probatória" (AgInt no AREsp n. 2.349.413/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/9/2023, DJe de 22/9/2023).
+2. A revisão das conclusões acerca da necessidade da prova técnica quanto à gravidade da lesão cerebral, a fim de estabelecer as diferenças de atribuições das atividades de equipe de enfermagem e de cuidador, como pretendido pela recorrente, esbarra na Súmula 7/STJ.
+3. O Tribunal de origem, ao entender no sentido da necessidade de atuação de profissional de enfermagem para manuseio de sonda nasogástrica, não analisou a controvérsia à luz do art. 11, inciso I, alínea "m", da Lei n. 7.598/1986, especificamente. Logo, não foi cumprido o necessário prequestionamento. Incidência do enunciado das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. O acolhimento da tese trazida no presente recurso, a fim de demover o que foi concluído pela origem (necessidade de assistência de enfermagem 24 horas para paciente com gastrostomia), implica afastamento das premissas delineadas, o que somente seria possível a partir de inevitável reexame de matéria fática, providência inadmissível na via eleita d iante do que dispõe a Súmula 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cinge-se a controvérsia a definir se hou ve cerceamento de defesa na origem, em razão da alegação de inexistência de qualquer ato instrutório durante o trâmite processual. E, ainda, em estabelecer se houve, no caso dos autos, contrariedade do acórdão ao art. 11, inciso I, alínea "m", da Lei 7.598/1986, diante da inclusão de ato não previsto como exclusivo do enfermeiro ou do técnico de enfermagem.
+O agravo interno não merece prosperar.
+Consoante aludido na decisão agravada, quanto ao alegado cerceamento de defesa, verifica-se que a Corte de origem entendeu o seguinte (fls. 729-731):
+Com relação à preliminar de cerceamento de defesa, diante da negativa de produção da prova pericial pleiteada (p. 627/628), em nosso sentir não prospera o inconformismo da ora apelante.
+Registre-se de início que nos termos da jurisprudência do Colendo Superior Tribunal de Justiça ".. cabe ao Juiz, como destinatário final da prova respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que era desnecessária a dilação probatória." (AgInt no AREsp n. 2.219.123/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023).
+No caso dos autos, a ora apelante pretende demonstrar por meio d aprova técnica que o paciente não atingiria ao score de avaliação tabelada para azer ju ao atendimento prescrito por seu médico assistente.
+(..)
+Ademais, este Egrégio Sodalício já decidiu em caso análogo pela ausência de relevância e desnecessidade da realização da perícia diante do relatório do médico assistente a atestar o estado em que se achava o paciente.
+(..)
+No caso dos autos, o médico assistente atestou que o paciente se encontra prostrado sobre o leito sem respostas verbais, ausência de movimentos, em uso de sonda por gastrostomia em hipocôndrio esquerdo, traqueostomia com necessidade de aspiração orotraqueal frequente, em escala de Glasgow (p. 33)
+Pela descrição acima é possível visualizar e depreender o estado em que o paciente se encontra, não havendo qualquer motivo para desacreditar na palavra do médico assistente quanto à gravidade da lesão cerebral, em razão do acidente que sofreu com projétil de arma de fogo, cujo disparo adentrou a cavidade oral em direção ao crânio do paciente.
+Assim, observa-se que o acórdão não se afastou da jurisprudência desta Corte Superior, segundo a qual "pertence ao julgador a decisão acerca da conveniência e oportunidade sobre a necessidade de produção de determinado meio de prova, inexistindo cerceamento de defesa quando, por meio de decisão fundamentada, indefere-se pedido de dilação da instrução probatória" (AgInt no AREsp n. 2.349.413/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/9/2023, DJe de 22/9/2023).
+Ademais, concluiu a Corte de origem que "a indicação da internação domiciliar está materializada nos relatórios médicos, conforme já visto acima" (fl. 734). É cediço que a revisão das conclusões acerca da necessidade da prova técnica quanto à gravidade da lesão cerebral, a fim de estabelecer as diferenças de atribuições das atividades de equipe de enfermagem e de cuidador, como pretendido pela recorrente, esbarra na Súmula 7/STJ.
+Quanto à necessidade de assistência de enfermagem 24 horas para paciente com gastrostomia, o Tribunal entendeu por acolher o parecer ministerial e manter integralmente a sentença diante do fundamento de que "para a realização dos procedimentos prescritos, realizados a partir de sonda, quer para alimentação, quer para hidratação, se faz necessária a atuação de profissional de enfermagem na residência do apelado, conforme prescrição médica" (fl. 736).
+Contudo, o recorrente alega a desnecessidade do profissional de enfermagem para o manuseio da sonda nasogástrica para a aplicação de alimentação diária ao paciente, sustentando contrariedade ao art. 11, inciso I, alínea "m", da Lei 7.598/1986 por entender que o referido ato não é previsto na lei como exclusivo do enfermeiro ou do técnico de enfermagem.
+Assim dispõe o referido dispositivo legal:
+Art. 11. O Enfermeiro exerce todas as atividades de enfermagem, cabendo-lhe:
+I - privativamente:
+(..)
+m) cuidados de enfermagem de maior complexidade técnica e que exijam conhecimentos de base científica e capacidade de tomar decisões imediatas;
+Diante da análise da fundamentação do acórdão, verifica-se que o Tribunal de origem, ao entender no sentido da necessidade de atuação de profissional de enfermagem para manuseio de sonda nasogástrica, não analisou a controvérsia à luz do art. 11, inciso I, alínea "m", da Lei n. 7.598/1986, especificamente.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais.
+Nesse sentido, cito:
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. (AgInt no AREsp n. 1.700.683/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 1/10/2020.)
+Ainda que se pudesse considerar prequestionada a questão, não cabe a esta Corte reexaminar os aspectos fático probatórios dos autos para reconhecer, como pretende o recorrente, que o manuseio de sonda nasogástrica para a alimentação e hidratação de paciente não se inclui nas atividades privativas de enfermeiros, que exijam "maior complexidade técnica e que exijam conhecimentos de base científica e capacidade de tomar decisões imediatas" (art. 11, inciso I, alínea "m", da Lei n. 7.598/1986).
+Dessa forma, o acolhimento da tese trazida no presente recurso, a fim de demover o que foi concluído pela origem (necessidade de assistência de enfermagem 24 horas para paciente com gastrostomia), implica o afastamento das premissas delineadas, o que somente seria possível a partir de inevitável reexame de matéria fática, providência inadmissível na via eleita diante do que dispõe a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
