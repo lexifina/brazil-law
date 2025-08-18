@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE FIXADA NA DATA DO LAUDO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos, o qual redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do STJ.
+2. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOAO MARIA PRESTES BRASIL da decisão de minha relatoria de fls. 569/572.
+A parte recorrente alega que a decisão monocrática foi injusta e que o caso não demanda reexame de provas, mas sim análise de matéria exclusivamente de direito.
+Sustenta ter havido violação ao art. 60, § 1º, da Lei 8.213/1991, que determina ser devido o auxílio-doença ao segurado afastado da atividade por mais de 30 dias a partir da data de entrada do requerimento, e argumenta que o benefício deveria ser concedido desde o indeferimento do que foi postulado em 15/5/2017, e não a partir da data fixada no laudo pericial (10/9/2020).
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 589).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE FIXADA NA DATA DO LAUDO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos, o qual redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do STJ.
+2. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+3. Agravo interno a que se nega provimento.
+VOTO
+Da leitura dos autos, observo que o agravo interno não merece prosperar porque, dos argumentos nele apresentados, não vislumbro razões para reformar a decisão agravada.
+O acórdão recorrido foi amparado no laudo pericial que fixou a data de início da incapacidade em 10/9/2020, considerando a progressão das doenças do autor (fls. 356/357).
+Desse modo, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do STJ - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL. RETROAÇÃO À DATA DO REQUERIMENTO ADMINISTRATIVO. INCAPACIDADE FIXADA NA DATA DO LAUDO. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Este Superior Tribunal de Justiça possui o entendimento de que, como regra geral, o termo inicial do benefício deve ser estabelecido na data do requerimento administrativo, e, na ausência deste, na data da citação válida do INSS. Isso porque o laudo pericial serve tão somente para nortear tecnicamente o convencimento do juízo quanto à existência da incapacidade para a concessão de benefício.
+2. Para que a data de início do benefício de incapacidade retroaja à data anterior à do laudo pericial, como o ajuizamento da ação, a citação ou a alta do auxílio-doença, é indispensável que o início da incapacidade seja fixado em momento anterior pelo perito, situação não atestada pelo Tribunal de origem.
+3. O Tribunal de origem definiu o termo inicial do benefício a contar de outubro de 2014 (após o requerimento administrativo), sob o fundamento de que o laudo pericial comprovou que o início da incapacidade ocorrera somente nesta data. Ressalte-se que o início do benefício não foi estabelecido na data da juntada do laudo aos autos, mas naquela em que comprovado o preenchimento dos requisitos legais para a concessão do benefício pleiteado.
+4. A adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial nesse ponto. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+5. Agravo interno do particular que se nega provimento.
+(AgInt no REsp n. 1.836.388/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 25/10/2021, DJe de 27/10/2021.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. TERMO INICIAL. RETROAÇÃO À DATA ANTERIOR AO LAUDO PERICIAL. INCAPACIDADE FIXADA NA DATA DO LAUDO. ALTERAÇÃO DA PREMISSA FÁTICA ADOTADA NA ORIGEM. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ.
+1. O Tribunal a quo consignou: "O termo inicial do benefício não comporta modificação, eis que somente com a juntada do laudo pericial em juízo é que se teve certeza da consolidação das moléstias, porquanto antes de realizada a perícia em juízo não se poderia afirmar a preexistência da incapacidade laboral definitiva, pois as doenças das quais é portador o autor tem evolução lenta e insidiosa, alternando períodos de agudização e acalmia, sendo definida, portanto, a incapacidade pela perícia judicial".
+2. Para que a data de início do benefício de incapacidade retroaja à data anterior à do laudo pericial, como o ajuizamento da ação, a citação ou a alta do auxílio-doença, é indispensável que o início da incapacidade seja fixado em momento anterior pelo perito, situação não atestada pelo Tribunal de origem.
+3. Acolher a tese defendida no Recurso Especial requer adoção da premissa fática de que a incapacidade laboral se instaurou anteriormente ao laudo pericial, o que demanda o vedado revolvimento fático-probatório dos autos para infirmar os pressupostos fáticos adotados pelo Tribunal de origem. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+4. Não se configura o pressuposto fático do Tema 862/STJ de que o segurado era incapaz desde a alta do auxílio-doença, do requerimento administrativo ou do ajuizamento da ação. Por incidir a Súmula 7/STJ, não há falar em sobrestamento do feito.
+5. Agravo Interno não provido.
+(AgInt nos EDcl no REsp n. 1.829.207/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2020, DJe de 7/5/2020.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
