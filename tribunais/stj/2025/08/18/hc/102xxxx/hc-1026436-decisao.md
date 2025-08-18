@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ORENCIO LOURIVAL DE SOUZA, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (apelação n. 0003581-67.2013.8.24.0052/SC).
+Consta dos autos que o paciente foi condenado por crime de tortura, nos termos do art. 1º, I, c/c o § 4º, da Lei nº 9.455/97, às penas de 4 anos, 4 meses e 26 dias de reclusão, em regime inicial semiaberto, com perda do cargo de policial militar.
+O trânsito em julgado ocorreu em 14/3/2023 (AREsp n. 2015068/SC).
+Neste writ, alega o impetrante que a condenação se baseou em reconhecimento informal sem observância ao art. 226 do Código de Processo Penal, configurando nulidade absoluta, pois "O cerne da acusação e da subsequente condenação do Paciente reside, fundamentalmente, em procedimentos de reconhecimento de pessoas, em especial o reconhecimento fotográfico, realizados em sede inquisitorial pela vítima, Alisson Estiverson Kloc, e pelas testemunhas Edson Luis Mendes de Araújo e Danielli Suski, que não observaram as formalidades previstas no artigo 226 do Código de Processo Penal (CPP)" (fl. 4).
+Aduz que "a condenação baseou-se em interpretações de interceptações telefônicas que, segundo a defesa, não guardam relação direta com o crime de tortura, mas sim com a investigação particular do furto de uma retroescavadeira.  ..  A condenação do Paciente é manifestamente ilegal  .. " (fl. 4, grifei).
+E que, "Em adicional e crucial violação aos princípios processuais, verifica-se que provas essenciais, utilizadas para fundamentar a acusação e a condenação, não foram devidamente integradas ao processo eletrônico, prejudicando o acesso pleno e irrestrito da defesa ao material probatório" (fl. 5, grifei ).
+Requer, inclusive liminarmente, "que seja determinada a observância rigorosa das seis teses fixadas no Tema 1.258 desta Corte Superior em todos os atos processuais que afetem o paciente Orêncio Lourival de Souza, estabelecendo-se diretrizes específicas para eventual prosseguimento do feito e garantindo a plena integração e acessibilidade de todas as provas documentais e audiovisuais no sistema de processo eletrônico.  ..  Requer-se, finalmente, que seja o presente habeas corpus conhecido e julgado procedente, concedendo-se a ordem nos termos pleiteados especificamente para o paciente Orêncio Lourival de Souza, aplicando-se integralmente as teses vinculantes do Tema 1.258, e reconhecendo a nulidade decorrente da inacessibilidade das provas digitais, para que seja feita justiça e protegidos seus direitos fundamentais constitucionalmente assegurados" (fl. 22).
+É o relatório. DECIDO.
+A controvérsia consiste em se buscar a concessão da ordem para anular as provas por inobservância de preceitos legais.
+No entanto, o presente habeas corpus foi impetrado contra acórdão com trânsito em julgado. Diante disso, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação n a qual não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..  1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..  3. Agravo regimental desprovido. (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
