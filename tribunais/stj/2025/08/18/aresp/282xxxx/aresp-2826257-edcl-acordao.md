@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENT ES. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por ALCIDES BENAGES DA CRUZ contra acórdão desta colenda Quarta Turma, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE DO RECURSO ESPECIAL. APLICAÇÃO IMEDIATA DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI 14.939/2024. INTIMAÇÃO PARA COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE RECURSAL. INÉRCIA DA PARTE. SUSPENSÃO DO EXPEDIENTE FORENSE NÃO COMPROVADA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, do Código de Processo Civil de 2015, o prazo para interposição do recurso especial e do agravo em recurso especial é de 15 (quinze) dias úteis.
+2. Conforme disposto no art. 1.003, § 6º, do CPC, com redação dada pela Lei 14.939/2024, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+3. A Corte Especial do STJ, na sessão do dia 5/2/2025, no julgamento da QO no AREsp 2.638.376/MG, firmou entendimento segundo o qual o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei 14.939/2024, tem aplicação imediata.
+4. Na hipótese, a parte agravante não apresentou, no ato de interposição do agravo em recurso especial, documento válido que comprovasse a ocorrência de feriado local ou a suspensão de expediente forense. Oportunizada a regularização posterior, a agravante se manteve inerte, sendo de rigor a manutenção da decisão que não conheceu do recurso por intempestividade.
+5. Agravo interno a que se nega provimento." (fl. 171).
+Em suas razões, a parte embargante pretende a concessão de efeitos modificativos, aduzindo ter havido omissão no acórdão embargado quanto à comprovação da tempestividade recursal, na medida em que "colacionou nos autos documento oriundo da plataforma Legalcloud, cujo teor comprova tempestividade do Recurso Especial" (fl. 176).
+Devidamente intimada, a parte embargada não apresentou impugnação, conforme certidão à fl. 181.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENT ES. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não prospera.
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Com efeito, a col. Quarta Turma, nos termos do voto desta Relatoria, negou provimento ao agravo interno, mantendo a decisão agravada, nos termos da seguinte fundamentação:
+"Em que pesem os esforços empreendidos pela parte agravante, não há, nas razões recursais, argumentação capaz de modificar a decisão agravada.
+Observa-se que os argumentos trazidos mostram-se insuficientes para infirmar a decisão agravada, a qual deve ser confirmada por seus próprios fundamentos.
+Compulsando os autos, constata-se que a certidão de publicação do Tribunal de Justiça do Estado de São Paulo, de fl. 91, atesta como data de publicação do acórdão que rejeitou os embargos de declaração o dia 05/06/2024, sendo o recurso especial interposto somente no dia 1º/07/2024.
+Nos termos do § 6º do art. 1.003 do CPC, com redação dada pela Lei 14.939/2024, "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+Sobre o tema, recentemente, "A Corte Especial, em julgamento de questão de ordem no AREsp 2.638.376/MG, definiu que a Lei nº 14.939/2024 é aplicável aos recursos interpostos antes mesmo de sua vigência, devendo ser observada, portanto, no julgamento dos agravos internos contra decisões monocráticas que inadmitiram o recurso sob fundamento da falta de comprovação de ausência de expediente forense no período" (AgInt nos EDcl no AREsp 2.550.735/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/3/2025, DJEN de 27/3/2025).
+Nos moldes do entendimento firmado na Questão de Ordem lavrada pela Corte Especial do Superior Tribunal de Justiça no AREsp 2.638.376/MG, à fl. 155, a parte ora agravante foi intimada "para comprovar a ocorrência de feriado local ou a suspensão de expediente forense, em consonância com a nova redação conferida pela Lei n. 14.939/2024 ao art. 1.003, §6º, do Código de Processo Civil de 2015".
+Embora regularmente intimada para comprovar a tempestiva interposição do agravo em recurso especial, nos termos do art. 1.003, § 6º, do CPC, à fl. 155, a parte ora agravante não o faz devida e oportunamente.
+Às fls. 159-162, a parte ora agravante apenas reafirmou que o termo inicial do prazo para interposição do recurso se deu no dia seguinte ao dia 10 de junho de 2024, quando teria sido publicado o acórdão de rejeição dos aclaratórios e, ainda, acrescentou informações sobre processo alheio aos presentes autos (fls. 159-160).
+Observa-se, todavia, que à fl. 91 a Corte de origem certifica que o acórdão foi disponibilizado no DJe do dia 04/06/2024, de modo que a publicação do acórdão em comento se deu no 1º dia útil subsequente, que fora na data de 05/06/2024.
+Além disso, o "print" juntado nas razões do agravo interno (fl. 159) se refere a processo diverso do presente processo. O "print" apresentado na manifestação de fl. 159 é referente aos autos do processo nº 2295728-50.2023.8.26.0000. Todavia, a celeuma a ser julgada no presente Agravo em Recurso Especial 2.826.257/SP (2024/0458445-0) diz respeito ao processo de número 22448510920238260000 do Tribunal de Justiça do Estado de São Paulo - Conselheiro Furtado - Pátio do Colégio -, conforme certidão de fl. 129 e acórdãos de fls. 66-75 e 86-90.
+Assim, em decorrência da preclusão consumativa operada pela inércia da parte recorrente em comprovar a tempestividade do recurso especial interposto contra o acórdão proferido nos autos do presente processo de número originário 2244851-09.2023.8.26.0000, é inviável o saneamento posterior para a comprovação da tempestividade recursal.
+Dessa forma, considerando que a parte agravante não apresentou documento válido que comprovasse, no ato de interposição do recurso especial, a suspensão do prazo processual em razão dos feriados locais e, posteriormente intimada, também não regularizou a tempestividade recursal, é de rigor a manutenção da decisão da Presidência desta Corte, que não conheceu do recurso por intempestividade.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto." (fls. 172-173).
+Nesse contexto, não existe omissão, contradição, obscuridade ou erro material a ser sanado na espécie.
+O acórdão embargado foi claro em reconhecer que a parte ora embargante não comprovou, embora intimada, a tempestividade do recurso especial a partir de documento idôneo. A esse respeito, destaca-se que, conforme entendimento desta Corte, "O relatório de simulação de prazo processual obtido com base em aplicativo não oficial ("Legalcloud"), que faz mera remissão a link de site do Tribunal de Justiça de São Paulo, não pode ser considerado documento idôneo para essa finalidade, sendo, portanto, imprescindível a juntada dos atos normativos que suspenderam o expediente forense em data relevante para o cômputo do prazo recursal." (AgInt no AREsp 2.544.912/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/8/2024, DJe de 22/8/2024).
+É firme a jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, notadamente nas hipóteses de mero descontentamento da parte com o resultado do julgamento, por não se configurar negativa de prestação jurisdicional.
+Ademais, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. OMISSÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. EMBARGOS REJEITADOS. (..)
+2. Quanto à alegação de obscuridade, os embargos de declaração não são via adequada para rediscutir o mérito da decisão ou introduzir novas teses recursais, sendo esse o entendimento reiterado da jurisprudência do STJ.
+3. A aplicação da Súmula n. 343 do STF foi adequadamente fundamentada, considerando-se que o acórdão embargado seguiu jurisprudência consolidada sobre a extensão dos efeitos da falência e a viabilidade de contraditório diferido. (..)
+5. Embargos de declaração rejeitados."
+(EDcl na AR n. 5.892/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, j. 29/10/2024, DJe de 5/11/2024)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS. (..)
+2. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+3. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.546.602/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, j. 14/10/2024, DJe de 21/10/2024)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Obscuridade decorre da falta de clareza e precisão da decisão, suficiente a não permitir a certeza jurídica a respeito das questões resolvidas, objetivando o entendimento de todos.
+3. Há contradição quando existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+4. Embargos de declaração rejeitados."
+(EDcl no REsp n. 2.126.117/PR, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, j. 19/8/2024, DJe de 22/8/2024)
+Diante do exposto, rejeitam-se os embargos de declaração .
+É como voto.
