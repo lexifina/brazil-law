@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. PORTE ILEGAL DE ARMA DE FOGO. PRINCÍPIO DA CORRELAÇÃO. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. VIA INADEQUADA. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos pela defesa contra acórdão desta Quinta Turma que negou provimento a agravo regimental, mantendo a condenação por porte ilegal de arma de fogo.
+II. QUESTÃO EM DISCUSSÃO
+2. A controvérsia cinge-se a verificar se o acórdão embargado incorreu em contradição ou omissão ao rechaçar a tese de violação ao princípio da correlação, mesmo diante da utilização do verbo "transportar" na sentença, enquanto a denúncia narrava a conduta de "portar" arma de fogo.
+III. RAZÕES DE DECIDIR
+3. Inexiste contradição no acórdão que, de forma coerente, assenta que o réu se defende dos fatos narrados na denúncia, e não da capitulação jurídica ou da literalidade dos verbos empregados. A utilização do termo "transportar" para descrever o porte compartilhado de arma dentro de um veículo não altera o núcleo fático da imputação, sobre o qual a defesa exerceu plenamente o contraditório.
+4. Inexiste omissão quando o julgado, ao concluir pela imutabilidade dos fatos imputados, implicitamente afasta a tese de prejuízo à ampla defesa. A rediscussão sobre a adequação semântica dos termos ou a aplicabilidade de precedentes constitui mero inconformismo com a tese jurídica adotada, finalidade para a qual não se prestam os embargos de declaração.
+5. Os aclaratórios não são a via adequada para a rediscussão de matéria já decidida, servindo apenas para sanar os vícios taxativamente previstos no art. 619 do Código de Processo Penal, o que não se verifica na espécie.
+IV. DISPOSITIVO E T ESES
+6. Embargos de declaração rejeitados.
+Teses de julgamento: 1. Ausente contradição ou violação ao princípio da correlação quando a sentença condenatória se atém ao quadro fático descrito na denúncia, ainda que utilize verbo sinônimo ou descritivo do contexto da ação ("transportar" em vez de "portar" em veículo), sem inovar na imputação. 2. Os embargos de declaração não constituem instrumento para a revisão do mérito do julgado ou para a manifestação de discordância quanto à interpretação jurídica e aos precedentes aplicados pela Turma Julgadora.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MÁRIO MACHADO DOS SANTOS CORDEIRO contra acórdão (e-STJ fls. 1113-1121), que negou provimento ao seu agravo regimental, mantendo a decisão monocrática que não conheceu de seu recurso especial.
+O cerne da controvérsia original reside na alegada violação ao princípio da correlação, pois o embargante, denunciado por "portar" arma de fogo, foi condenado pela conduta de "transportar" o artefato.
+No presente recurso (e-STJ fls. 1129-1135), a defesa aponta a existência de três vícios no acórdão embargado: a) Contradição, ao equiparar os verbos "portar" e "transportar", que seriam núcleos autônomos do tipo penal, e, ao mesmo tempo, afirmar que não houve alteração dos fatos ; b) Omissão, por não ter analisado a consequente violação à ampla defesa, uma vez que a defesa técnica foi estruturada para refutar a acusação de "portar" a arma, sendo surpreendida pela condenação por fato diverso; c) Contradição no uso de precedentes, por ter se valido de julgados que não guardariam similitude fática com o caso concreto.
+Requer, ao final, o acolhimento dos embargos, com a atribuição de efeitos infringentes, para anular a condenação.
+O Ministério Público do Estado de Santa Catarina, em impugnação (e-STJ fls. 1150-1154), pugnou pela rejeição dos aclaratórios, por entender que não há vícios a serem sanados e que a defesa busca apenas a rediscussão da matéria.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. PORTE ILEGAL DE ARMA DE FOGO. PRINCÍPIO DA CORRELAÇÃO. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. VIA INADEQUADA. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos pela defesa contra acórdão desta Quinta Turma que negou provimento a agravo regimental, mantendo a condenação por porte ilegal de arma de fogo.
+II. QUESTÃO EM DISCUSSÃO
+2. A controvérsia cinge-se a verificar se o acórdão embargado incorreu em contradição ou omissão ao rechaçar a tese de violação ao princípio da correlação, mesmo diante da utilização do verbo "transportar" na sentença, enquanto a denúncia narrava a conduta de "portar" arma de fogo.
+III. RAZÕES DE DECIDIR
+3. Inexiste contradição no acórdão que, de forma coerente, assenta que o réu se defende dos fatos narrados na denúncia, e não da capitulação jurídica ou da literalidade dos verbos empregados. A utilização do termo "transportar" para descrever o porte compartilhado de arma dentro de um veículo não altera o núcleo fático da imputação, sobre o qual a defesa exerceu plenamente o contraditório.
+4. Inexiste omissão quando o julgado, ao concluir pela imutabilidade dos fatos imputados, implicitamente afasta a tese de prejuízo à ampla defesa. A rediscussão sobre a adequação semântica dos termos ou a aplicabilidade de precedentes constitui mero inconformismo com a tese jurídica adotada, finalidade para a qual não se prestam os embargos de declaração.
+5. Os aclaratórios não são a via adequada para a rediscussão de matéria já decidida, servindo apenas para sanar os vícios taxativamente previstos no art. 619 do Código de Processo Penal, o que não se verifica na espécie.
+IV. DISPOSITIVO E T ESES
+6. Embargos de declaração rejeitados.
+Teses de julgamento: 1. Ausente contradição ou violação ao princípio da correlação quando a sentença condenatória se atém ao quadro fático descrito na denúncia, ainda que utilize verbo sinônimo ou descritivo do contexto da ação ("transportar" em vez de "portar" em veículo), sem inovar na imputação. 2. Os embargos de declaração não constituem instrumento para a revisão do mérito do julgado ou para a manifestação de discordância quanto à interpretação jurídica e aos precedentes aplicados pela Turma Julgadora.
+VOTO
+Os embargos de declaração são tempestivos e, portanto, devem ser conhecidos. Contudo, no mérito, deixam de justificar-se.
+Conforme disposto no artigo 619 do Código de Processo Penal, os embargos de declaração são cabíveis quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão. Não se prestam, contudo, à rediscussão de matéria já decidida, como pretende o embargante.
+No caso, a pretexto de apontar vícios, o embargante busca, de forma inequívoca, um novo julgamento da causa, o que é inviável nesta via recursal.
+Inicialmente, extrai-se que inexiste contradição no acórdão embargado. A decisão desta Turma foi clara e coerente ao assentar que, no processo penal, o réu se defende dos fatos narrados na denúncia, e não da qualificação jurídica ou da literalidade dos termos nela empregados. O acórdão explicou que a utilização do verbo "transportar" na sentença se deu apenas para descrever o contexto fático do porte compartilhado da arma de fogo dentro de um veículo, situação esta que estava perfeitamente delineada na peça acusatória. Conforme frisado, a suposta distinção técnica entre os verbos, no caso concreto, não implicou qualquer inovação fática na acusação. Logo, a insurgência do embargante não revela uma contradição interna no julgado, mas sim uma discordância com a interpretação jurídica adotada, o que não pode ser sanado por meio de embargos.
+Da mesma forma, inexiste a alegada omissão. Ao concluir que a condenação se ateve aos fatos descritos na denúncia, o acórdão, de forma implícita e lógica, afastou a tese de prejuízo à ampla defesa. Isso porque é inequívoco o raciocínio de que, se os fatos imputados são os mesmos, não há que se falar em surpresa ou em cerceamento de defesa. A decisão embargada não precisava refutar expressamente cada consequência retórica extraída pela defesa de sua tese principal, uma vez que, ao rechaçar a premissa (violação à correlação), restaram prejudicadas as conclusões dela decorrentes.
+Por fim, a alegação de contradição no uso de precedentes também não configura vício sanável por esta via, pois se traduz em crítica à fundamentação e ao mérito do julgado, buscando, em essência, a revisão do acerto da decisão, o que é incabível em aclaratórios.
+O que se extrai das razões recursais, em verdade, é o nítido propósito de obter um novo julgamento da matéria, com a alteração do resultado que foi desfavorável ao embargante. Tal pretensão, contudo, é incompatível com a natureza e a finalidade dos embargos de declaração.
+Cumpre consignar que o julgador não está obrigado a rebater, um a um, todos os argumentos da parte, desde que os fundamentos utilizados sejam suficientes para embasar a decisão, como ocorreu no presente caso. Ademais, importa destacar que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 8/2/2023, DJe de 22/2/2023).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
