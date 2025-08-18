@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL E REPETIÇÃO DE INDÉBITO CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória de nulidade contratual e repetição de indébito cumulada com compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: i) ausência de prequestionamento da matéria tratada no recurso especial; e ii) incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por OTELINA PINHEIRO NUNEScontra decisão que não conheceu do agravo em recurso especial.
+Ação: declaratória de nulidade contratual e repetição de indébito cumulada com compensação por danos morais.
+Sentença: julgou improcedente a ação ajuizada pela parte agravada (Proc. n. 0000264-92.2018.8.06.0147), "extinguindo o feito com resolução de mérito" e condenando a parte autora ao pagamento de custas processuais e honorários de sucumbência de 10% do valor da causa, ficando suspensa a exigibilidade em razão da justiça gratuita (e-STJ fls. 204-208).
+Decisão monocrática: negou provimento ao recurso de apelação interposto pela agravante, mantendo a sentença recorrida e majorando os honorários recursão para 12% sobre o valor da causa (e-STJ fls. 334-345).
+Acórdão do agravo interno: negou provimento ao agravo interno ajuizado pela agravante, nos termos da seguinte ementa (e-STJ fls. 459-460):
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE/INEXISTÊNCIA CONTRATUAL. PRELIMINAR DE CERCEAMENTO DE DEFESA POR FALTA DE PERÍCIA GRAFOTÉCNICA. REJEITADA. REGULARIDADE DA CONTRATAÇÃO. ART. 595 DO CÓDIGO CIVIL. COMPROVAÇÃO DE PAGAMENTO DO EMPRÉSTIMO. DEDUÇÕES DEVIDAS. AUSÊNCIA DE DANO MORAL. PRECEDENTES DO TJCE. DECISÃO MONOCRÁTICA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Cerceamento de defesa por ausência de perícia grafotécnica. A legislação processual (art. 355 e 356, do CPC) é clara ao deixar a critério do Juízo a possibilidade de julgamento antecipado da lide, desde que a demanda seja relativa, somente, à questões de direito ou que contenha material fático e probatório suficiente para o seu deslinde, tudo com o escopo de evitar o prolongamento desnecessário da questão, até porque é o Julgador o destinatário das provas.
+1.2. O entendimento dominante na Corte Superior de Justiça é que cabe ao Juiz a análise da necessidade ou não de dilação probatória, não se constituindo cerceamento de defesa o julgamento antecipado da lide quando o Magistrado verifica que é possível o sentenciamento com base nos documentos e provas já colacionados aos autos. Preliminar rejeitada.
+2. Ônus da prova. Embora a agravante defenda a ilegitimidade da contratação, a instituição financeira acostou aos autos o contrato firmado, obedecendo aos parâmetros legais estabelecidos no art. 595 do CC, e a TED, ônus que lhe compete, nos termos do art. 373, II, do CPC, comprovando, assim, a inexistência de fraude na contratação do empréstimo do presente feito e se desincumbindo do ônus de comprovar a licitude do negócio jurídico.
+3. Dano Moral. No caso não se afigura presente, dada a inexistência de prova de comportamento ilícito por parte da instituição financeira, porquanto fora comprovada a formalização do contrato de empréstimo, bem como o recebimento do valor indicado pela autora, inexistindo, fundamento para acolher o pleito indenizatório postulado.
+Recurso especial: alega violação dos artigos 6º, 7º, 8º, 373, inciso II, 428, inciso I, 429, inciso II, 489, inciso II, e § 1º, inciso IV, do CPC; e artigo 6º, inciso VIII, do CDC; artigo 104, incico III, 166, incisos IV e V, 595, do CC, e artigo 37, da Lei n. 6.015/1973, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que houve cerceamente de defesa devido ao julgamento antecipado da lide sem a produção de provas essenciais, como a perícia grafotêcnica para comprovar a autenticidade da assinatura e a efetiva transferência de valores. Aduz nulidade do contrato de mútuo firmado pelo analfabeto por não ter sido formalizado por instrumento público ou por procurador constituido por instrumento públco. Requer a reforma do acórdão para que seja reconhecida a anulação do contrato e a restituição dos valores pagos, além de indenização por danos morais.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega que que houve impugnação específica de todos os fundamentos da decisão denegatória, conforme a Súmula 182 do STJ, e que a decisão judicial contrariou ou negou vigência à lei federal, citando os artigos 6º, 7º, 8º, 428, I, 429, II, e 489, II e § 1º, IV, do CPC, artigos 6º, III e VIII, do CDC, e artigos 104, III, 166, IV e V, e 37, § 1º, da Lei nº 6.015/73. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL E REPETIÇÃO DE INDÉBITO CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória de nulidade contratual e repetição de indébito cumulada com compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: i) ausência de prequestionamento da matéria tratada no recurso especial; e ii) incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação dos seguintes fundamentos da decisão de inadmissibilidade proferida pelo TJ/CE: i) ausência de prequestionamento da matéria tratada no recurso especial; e ii) incidência da Súmula 7 do STJ.
+- Da Súmula 7 do STJ
+Da análise das razões do agravo em recurso especial, verifica-se que a parte agravante não impugnou a incidência da Súmula 7/STJ de forma consistente, limitando-se a alegar genericamente que pretendia a aplicação do direito à hipótese, sem demonstrar a desnecessidade do revolvimento de fatos e provas.
+Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe de 21/12/2023.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
