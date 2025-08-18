@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE RESISTÊNCIA DA SEGURADORA. CONDENAÇÃO EM HONORÁRIOS. NÃO CABIMENTO. MULTA DO ART. 1.062, § 2º, do NCPC. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA N.º 98 DO STJ.
+1. Não é cabível a condenação em honorários, na hipótese em que a denunciada não oferece resistência à relação jurídica de regresso. Precedentes.
+2. Inviável a aplicação da multa prevista no art. 1.062, § 2º, do NCPC, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do processo, mesmo que não configurada quaisquer das hipóteses de cabimento dos embargos de declaração. Incidência da Súmula nº 98/STJ e precedentes.
+3. Recurso especial provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por SAMBAIBA TRANSPORTES URBANOS LTDA., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ementa. DIREITO CIVIL. APELAÇÕES. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ATROPELAMENTO POR ÔNIBUS. RESPONSABILIDADE OBJETIVA DA EMPRESA NÃO APLICÁVEL. CULPA EXCLUSIVA DA VÍTIMA. DEMANDA INDENIZATÓRIA POR DANO MORAL. IMPROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS NA DENUNCIAÇÃO DA LIDE. ART. 129, PARÁGRAFO ÚNICO DO CÓDIGO DE PROCESSO CIVIL (CPC). RECURSOS DESPROVIDOS.
+I. CASO EM EXAME
+1. Apelação da autora objetivando a reforma de sentença que deixou de condenar a empresa proprietária de coletivo que atropelou seu marido que atravessava a via na faixa de pedestres. Apelo também da empresa ré inconformada com sua condenação ao pagamento de honorários advocatícios à ré-denunciada.
+II. QUESTÃO EM DISCUSSÃO
+2. Discute-se a responsabilidade pelo acidente, que teria ocorrido por culpa exclusiva da vítima, que atravessou a via com o sinal semafórico desfavorável. Também se debate a condenação da ré ao pagamento de honorários advocatícios na denunciação da lide.
+III. RAZÕES DE DECIDIR
+3. Prova testemunhal e documental confirmam que a vítima atravessou a via na faixa de pedestres, mas com o semáforo vermelho para pedestres. Não houve comprovação de imprudência ou culpa do motorista do ônibus, que trafegava em conformidade com as normas de trânsito.
+4. Não se cogita de condenação com base na responsabilidade objetiva da empresa concessionária do serviço de transporte, porque reconhecida causa excludente.
+5. A ação foi julgada improcedente, e a denunciação da lide restou prejudicada. A condenação da ré ao pagamento de honorários advocatícios em favor do patrono da seguradora foi mantida, nos termos do art. 129, parágrafo único, do CPC.
+IV. DISPOSITIVO E TESE
+6.. Apelações conhecidas e desprovidas.
+Tese de julgamento: "1. O acidente foi causado por culpa exclusiva da vítima, que atravessou a via com o sinal semafórico desfavorável, isentando a ré de responsabilidade. 2. A responsabilidade objetiva de concessionária de transporte não se aplica na hipótese de causa excludente. 3. A condenação da ré ao pagamento de honorários advocatícios na denunciação da lide é legítima, nos termos do art. 129, parágrafo único, do CPC" (e-STJ fl. 732).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 749/753), com aplicação de multa.
+Em suas razões, a recorrente indica a existência de divergência jurisprudencial entre o acórdão recorrido e aresto oriundo do Tribunal de Justiça do Estado de Santa Catarina quanto à legitimidade da condenação em honorários advocatícios na denunciação à lide. Para tanto, afirma que, inexistindo resistência da denunciada, não há falar em arbitramento na verba honoraria contra a denunciante.
+Aduz, ainda, ofensa ao art. 1.026, § 2º, do CPC, pois os embargos de declaração opostos não tinham caráter protelatório, mas apenas o propósito de prequestionar a matéria recursal na forma da Súmula 98/STJ.
+Sem contrarrazões (e-STJ fl. 780).
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE RESISTÊNCIA DA SEGURADORA. CONDENAÇÃO EM HONORÁRIOS. NÃO CABIMENTO. MULTA DO ART. 1.062, § 2º, do NCPC. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA N.º 98 DO STJ.
+1. Não é cabível a condenação em honorários, na hipótese em que a denunciada não oferece resistência à relação jurídica de regresso. Precedentes.
+2. Inviável a aplicação da multa prevista no art. 1.062, § 2º, do NCPC, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do processo, mesmo que não configurada quaisquer das hipóteses de cabimento dos embargos de declaração. Incidência da Súmula nº 98/STJ e precedentes.
+3. Recurso especial provido.
+VOTO
+A irresignação merece prosperar.
+De início, registra-se que o recurso especial cumpriu os requisitos legais e constitucionais exigidos para a sua admissão, além de não haver necessidade de reapreciação do conjunto fático-probatório dos autos e de a matéria recursal encontrar-se bem delineada e prequestionada.
+Demais disso, em se tratando de dissídio notório - como no caso -, admite-se, excepcionalmente, a mitigação dos requisitos exigidos para a interposição do recurso pela alínea "c" quando os elementos contidos no recurso são suficientes para se concluir que os julgados confrontados conferiram tratamento jurídico distinto à similar situação fática (p. ex., AgInt no REsp n. 2.117.949/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+Cuida-se, na origem, de ação indenizatória ajuizada por MARIA CARMELITA LOPES contra SAMBAÍBA TRANSPORTES URBANOS LTDA., que, por sua vez, denunciou a lide à seguradora SOMPO CONSUMMER SEGURADORA S/A.
+Em sentença, o Juízo de 1ª instância julgou improcedentes os pedidos iniciais e prejudicada a denunciação, condenando a parte autora ao pagamento das custas e despesas processuais, bem como honorários advocatícios ao patrono da ré que arbitrou em 10% do valor atualizado da causa, além da condenação da ré ao pagamento das custas e despesas processuais suportadas pela denunciada e honorários advocatícios de seus patronos, também arbitrados no percentual de 10% do valor dado à causa, à luz do disposto no art. 85, § 2º, do CPC.
+O tribunal de origem, ao rejeitar as apelações interpostas, asseverou, no que interessa ao presente recurso, que:
+"(..)
+Em prosseguimento, está inconformada a ré Sambaíba com sua condenação ao pagamento dos honorários advocatícios do patrono da seguradora denunciada. A ação principal foi julgada improcedente. Assim, a análise da lide secundária restou prejudicada. Incide na espécie, com relação aos honorários da seguradora-denunciada, o disposto no parágrafo único do art. 129 do Código de Processo Civil (CPC).
+(..)
+Desse modo, como a ré-denunciante se sagrou vencedora na ação principal. A decorrência lógica é o não conhecimento dos pedidos formulados na denunciação, mas sem prejuízo da condenação da denunciante ao pagamento das verbas de sucumbência em favor do denunciado. Nesse passo, a ré-denunciante deveria mesmo ser condenada no pagamento de honorários advocatícios em favor do patrono da seguradora.
+(..)
+Então, no caso dos autos, com a improcedência da ação e prejudicada a análise da lide secundária, os honorários advocatícios do patrono da seguradora-denunciada foram arbitrados sobre 10% do valor da causa. No entanto, nada impede que as partes se resolvam quanto à questão. Ante o exposto, pelo meu voto, nego provimento aos recursos. Levando em conta o trabalho adicional em grau recursal, elevo os honorários advocatícios do patrono da ré para 15% do valor atribuído à causa, nos termos do art. 85, §§ 2º e 11, do CPC, observada a gratuidade de justiça concedida à autora" (e-STJ fls. 738/740).
+Todavia, verifica-se que a jurisprudência desta Corte Superior firmou-se no sentido do não cabimento da condenação em honorários advocatícios, na hipótese em que a denunciada não oferece resistência à relação jurídica de regresso - como no caso.
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. CRITÉRIO DE RATEIO. COBRANÇA A MENOR POR LONGO PERÍODO. UNIFICAÇÃO FÍSICA DE DUAS UNIDADES. AUSÊNCIA DE CIÊNCIA E AUTORIZAÇÃO DO CONDOMÍNIO. SUPRESSIO. NÃO CABIMENTO. DENUNCIAÇÃO À LIDE NÃO RESISTIDA. HONORÁRIOS SUCUMBENCIAIS. NÃO CABIMENTO.
+1. Ação de cobrança de cotas condominiais, da qual foi extraído o presente recurso especial, interposto em 16/10/2023 e concluso ao Gabinete em 17/9/2024.
+2. O propósito recursal é, além da verificação da negativa de prestação jurisdicional, decidir se, em ação de cobrança de taxas condominiais: (a) aplica-se a supressio diante da cobrança a menor de cotas condominiais por longo período, em decorrência de unificação de unidades realizada pelo proprietário sem a ciência do condomínio, e; (b) a parte denunciada à lide responde pelos honorários sucumbenciais da ação secundária (lide garantia).
+3. Negativa de prestação jurisdicional não verificada. Ausência de afronta aos arts. 489 e 1.022 do CPC.
+4. Para a aplicação do instituto da supressio, não basta a ausência do exercício do direito por longo período. É preciso verificar a boa-fé da parte que a invoca, com a constatação de sua justa expectativa de que há uma situação jurídica estabilizada, bem como que, caso fosse retomado o exercício do direito pela outra parte, haveria grave desequilíbrio entre os contratantes.
+5. Não se pode invocar o instituto da supressio para perpetuar situações em descompasso com a boa-fé objetiva, sobretudo nas relações condominiais, em que devem prevalecer a isonomia e a mútua colaboração entre os condôminos.
+6. A supressio não é cabível para manter taxa condominial calculada em afronta ao critério de rateio previsto em convenção, de modo a prejudicar a sustentabilidade financeira do condomínio e onerar injustificadamente os demais vizinhos, sobretudo quando a cobrança a menor ao longo do tempo ocorreu em virtude de unificação de unidades sem a ciência do condomínio.
+7. Na denunciação à lide, é incabível a condenação da parte denunciada em honorários sucumbenciais na hipótese em que esta não oferece resistência à relação jurídica de regresso. Precedentes.
+8. Hipótese em que o Tribunal de origem afastou o instituto da supressio por entender que a cobrança a menor das taxas condominiais não ocorreu diante de uma tolerância, mas em virtude de erro ocasionado pela unificação de unidades autônomas sem autorização do condomínio e anuência dos demais vizinhos.
+9. Recurso conhecido e desprovido" (REsp n. 2.170.566/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE RESISTÊNCIA DA SEGURADORA. CONDENAÇÃO EM HONORÁRIOS. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. Na hipótese, rever as premissas adotadas pelo tribunal de origem que, a partir das circunstâncias fático-probatórias dos autos, concluiu que não houve resistência da denunciada, encontra o óbice da Súmula nº 7/STJ.
+4. Não é cabível a condenação em honorários, na hipótese em que a denunciada não oferece resistência à relação jurídica de regresso.
+5. Agravo interno não provido" (AgInt no AREsp n. 1.378.409/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/3/2020, DJe de 13/3/2020 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE VEÍCULO. AÇÃO INDENIZATÓRIA. DENUNCIAÇÃO À LIDE. EXTINTA A LIDE PRINCIPAL POR COMPOSIÇÃO DAS PARTES. RESPONSABILIDADE SOLIDÁRIA DA SEGURADORA MANTIDA. AUSÊNCIA DE RESISTÊNCIA À DENUNCIAÇÃO DA LIDE. CONDENAÇÃO EM HONORÁRIOS SUCUMBENCIAIS DA LIDE SECUNDÁRIA. IMPOSSIBILIDADE.
+AGRAVO DESPROVIDO.
+1. Se não há resistência da seguradora litisdenunciada em integrar a lide secundária, descabe a sua condenação em honorários sucumbenciais. Precedentes.
+2. Agravo interno desprovido" (AgInt no AREsp n. 1.015.213/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/8/2017, DJe de 14/9/2017).
+Por fim, com razão a recorrente, pois, na hipótese dos autos, é inviável a imposição da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+A jurisprudência do Superior Tribunal de Justiça possui entendimento pacífico no sentido de ser cabível a multa em apreço quando presente o intuito manifestamente procrastinatório na oposição de declaratórios.
+Contudo, se demonstrado que a parte buscava o prequestionamento da matéria federal, os embargos de declaração não podem ser considerados protelatórios, nos termos da Súmula nº 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório."
+Confiram-se:
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ADIMPLEMENTO CONTRATUAL. AGRAVO DE INSTRUMENTO. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. MULTA DO ART. 1.062, § 2º, do NCPC. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA N.º 98 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal estadual não se manifestou sobre os pontos que podem influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornar para que os temas sejam analisados e solvidos.
+3. O entendimento desta Corte é no sentido de ser descabida a multa prevista no art. 1.062, § 2º, do NCPC, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração. Incidência da Súmula nº 98/STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido" (AgInt nos EDcl no AREsp 1.563.279/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022 - grifou-se).
+No caso, a Corte de origem concluiu pela inexistência de vícios passíveis de correção por meio de aclaratórios e aplicou a multa prevista no art. 1.026, § 2º, do CPC. Desse modo, o acórdão destoa da jurisprudência desta Corte Superior, atraindo a incidência da Súmula nº 98/STJ.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para afastar a condenação de SAMBAÍBA TRANSPORTES URBANOS LTDA. ao pagamento dos honorários advocatícios fixados na origem e a multa prevista no artigo 1.026, § 2º, do CPC aplicada.
+Deixo de majorar os honorários advocatícios, conforme determina o art. 85, § 11, do CPC, em virtude do provimento do recurso especial.
+É o voto.
