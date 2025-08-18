@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. PLAGIOCEFALIA E BRAQUICEFALIA. ÓRTESE CRANIANA. RECUSA DE COBERTURA INDEVIDA. INCIDÊNCIA DA SÚMULA N. 568 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Ação de obrigação de fazer visando a cobertura de órtese craniana. 2. A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como, por exemplo, a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia (REsp n. 1.731.762/GO, Terceira Turma, DJe de 28/5/2018).
+3. Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO (UNIMED), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do Des. EMERSON SUMARIVA JÚNIOR, assim ementado:
+Apelação. Plano de saúde. Obrigação de fazer. Fornecimento de órtese craniana. Plagiocefalia posicional grave. Sentença de procedência. Negativa de cobertura. Abusividade. Aplicabilidade do Código de Defesa do Consumidor. Incidência das Súmulas 100 e 102 desta Corte. Rol da ANS exemplificativo, nos termos da Lei 14.454/2022, quando preenchidos os requisitos legais. Procedimento amparado por fundamentado relatório médico. Precedentes do C. STJ e deste Tribunal em casos análogos. Sentença mantida. Recurso não provido (e-STJ, fl. 333).
+Nas razões do presente recurso, UNIMED alegou, a par de dissidio jurisprudencial, a violação dos arts. 10, § 4º, VII da Lei n. 9.656/98; e 4º, III, da Lei n. 9.961/2000; sob o entendimento de que não está obrigado a cobertura de tratamento não previsto no rol taxativo da ANS.
+Foram apresentada as contrarrazões.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. PLAGIOCEFALIA E BRAQUICEFALIA. ÓRTESE CRANIANA. RECUSA DE COBERTURA INDEVIDA. INCIDÊNCIA DA SÚMULA N. 568 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Ação de obrigação de fazer visando a cobertura de órtese craniana. 2. A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como, por exemplo, a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia (REsp n. 1.731.762/GO, Terceira Turma, DJe de 28/5/2018).
+3. Recurso especial não provido.
+VOTO
+A insurgência não merece prosperar.
+A despeito da discussão a respeito da taxatividade do rol de coberturas obrigatórias editado pela ANS definida no julgamento dos EREsps 1.886.929/SP e 1.889.704/SP, publicados em 3/8/2022, esta Corte Superior de Justiça firmou entendimento de que se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia (REsp 1.731.762/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 28/5/2018).
+A propósito, confiram-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PLAGIOCEFALIA. ÓRTESE CRANIANA. RECUSA DE COBERTURA
+INDEVIDA.
+1. Ação de obrigação de fazer visando a cobertura de órtese craniana para tratamento de plagiocefalia.
+2. "A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia"
+(REsp n. 1.731.762/GO, 3ª Turma, DJe de 28/5/2018).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.988.642/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE ÓRTESE EM SUBSTITUIÇÃO A PROCEDIMENTO MÉDICO INVASIVO. COBERTURA APENAS DA INTERVENÇÃO CIRÚRGICA. RECUSA INJUSTIFICADA. DESVANTAGEM EXAGERADA. ABUSIVIDADE DAS CLÁUSULAS. TRATAMENTO DE EFICÁCIA EQUIVALENTE E CUSTO REDUZIDO. RECONHECIMENTO DA OBRIGAÇÃO DE CUSTEIO NAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A hipótese de o plano de saúde cobrir apenas a cirurgia neurológica - e não o fornecimento da órtese como alternativa -, notadamente quando o tratamento substitutivo tem eficácia equivalente, risco reduzido e menor custo em relação ao procedimento invasivo, representa situação de desvantagem exagerada para o consumidor.
+2. A jurisprudência deste Tribunal Superior entende que "a lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia" (REsp 1.731.762/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 22/05/2018, DJe 28/05/2018).
+3. No caso, o Tribunal local considerou abusiva a conduta do plano de saúde em negar o tratamento pleiteado pelo beneficiário por meio da utilização temporária de órtese, em alternativa à cirurgia neurológica em seu filho recém-nascido, consignando serem sensivelmente reduzidos os riscos e custos dessa abordagem em relação à intervenção cirúrgica. Incidência, no ponto, da Súmula 83/STJ. 4. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.527.593/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/11/2019, DJe de 29/11/2019)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ILEGALIDADE. FORNECIMENTO DE ÓRTESE EM SUBSTITUIÇÃO A ATO CIRÚRGICO. DECISÃO MANTIDA.
+1. " "A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia" (REsp 1.731.762/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 28/5/2018)" (AgInt no AREsp 1.577.124/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/4/2020, DJe 4/5/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.954.155/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022.).
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido para obrigar a operadora do plano de saúde ao custeio da órtese craniana requerida.
+Dessa forma, incide a Súmula n. 568 do STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Inaplicável a majoração dos honorários recursais.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
