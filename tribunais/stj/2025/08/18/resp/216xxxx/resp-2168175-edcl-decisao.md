@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por CLEOMARCIO LIMA CAMPOS contra a decisão de e-STJ fls. 1.868/1.885, em que neguei provimento ao recurso especial, todavia concedi habeas corpus, de ofício, nos termos do parecer ministerial, a fim de reconhecer a circunstância atenuante da confissão espontânea e readequar a pena para 1 ano e 3 meses de detenção e 1 ano e 4 meses de reclusão, em regime inicial aberto, mais pagamento de 13 dias-multa, mantidas as demais disposições do acórdão recorrido.
+No presente recurso, a defesa aponta omissão na decisão ora embargada, pois, embora não acolhida a tese de violação aos arts. 619 do Código de Processo Penal e 1.022, II, do Código de Processo Civil, deixou-se de analisar a possibilidade de conceder habeas corpus, de ofício, para absolver o embargante quanto ao delito do art. 168, § 1º, inciso III, do Código Penal, em razão da incidência do princípio da consunção, conforme autorizam os arts. 647-A e 654, § 2º, ambos do CPP.
+Nesse ponto, assere que o embargante "não adquiria a gasolina somente para si, mas revendia para terceiros.  ..  O ponto central que deveria ter sido considerado era a inequívoca ausência do elemento subjetivo específico, consistente no ânimo de apossamento definitivo do combustível que lhe foi entregue" (e-STJ fl. 1.895).
+Acrescenta que "a decisão também se ressente de fundamentação quanto à possibilidade de substituição da pena privativa de liberdade, em regime inicial aberto, por penas restritivas de direitos, conforme  ..  expressamente previsto na sentença condenatória proferida pelo Juízo de origem" (e-STJ fl. 1.892).
+Assim, requer o acolhimento do recurso, com efeitos infringentes.
+É o relatório.
+Decido.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+7. Embargos de declaração rejeitados.
+(EDcl na APn n. 613/SP, relator Ministro Og Fernandes, Corte Especial, DJe 3/2/2016.)
+No caso em tela, não se faz presente nenhum dos citados defeitos; é que, como antes analisado, no que diz respeito aos arts. 619 do CPP e 1.022, II, do CPC, não verifiquei a alegada violação, tendo em vista que todas as questões necessárias para o esclarecimento da controvérsia foram analisadas e discutidas de maneira fundamentada pelo Tribunal de origem, mesmo que de maneira contrária à pretensão do recorrente.
+Além disso, destaquei que, " n o tocante ao acolhimento das pretensões recursais via habeas corpus de ofício, salienta-se que, com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese" (AgRg no AREsp n. 2.511.545/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+Assim, não há na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, porquanto os vícios alegados, na realidade, manifestam o inconformismo do embargante com o julgamento, desiderato esse inadmissível em aclaratórios.
+Pertinente ao art. 44 do CP, consignei que a concessão da ordem, de ofício, esteve circunscrita ao reconhecimento da circunstância atenuante da confissão espontânea, com a consequente readequação do cálculo dosimétrico, declarando expressamente que estavam mantidas as demais disposições do acórdão proferido pela Corte local, o que engloba a substituição da sanção corporal por medidas restritivas de direitos, pois esse benefício já foi deferido na origem e não foi interposto recurso quanto a esse tema (e-STJ fls. 1.217/1.218).
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
