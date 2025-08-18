@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE SÃO PAULO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO EXECUÇÃO FISCAL Município de São Paulo ISS Exercício de 2007 Pedido de desistência da municipalidade após apresentação de exceção de pré-executividade - Execução fiscal extinta Condenação ao pagamento de honorários fixados em percentual sobre o valor da causa, limitados ao valor de R$ 10.000,00 (dez mil reais) Artigo 26 da LEF que não se aplica aos casos em que a execução fiscal foi extinta após a citação, desde que o devedor tenha constituído advogado e ofertado defesa.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 8º e 85, § 8º, do CPC, no que concerne à necessidade de fixação dos honorários advocatícios de sucumbência por equidade, tendo em vista a ausência de proveito econômico ao executado, já que o crédito tributário é objeto de debate em ação anulatória ainda em trâmite, trazendo a seguinte argumentação:
+Caso mantido, o v. acórdão ora recorrido imporá ônus excessivo à Fazenda Pública, na medida em que determinou o pagamento de honorários no percentual de 10% sobre o valor da causa, sem se atentar: (1) para o fato de que a execução possuía valor expressivo (R$ 781.951,35); (2) para os princípios da razoabilidade e da proporcionalidade e, por fim, (3) para o fato inquestionável de que o mérito da tributação segue sendo discutido no seio de ação declaratória.
+Em termos mais diretos, é certo que não houve proveito econômico a ensejar a fixação de verba honorária em patamar tão exorbitante.
+Nessa linha no CPC/2015, no âmbito de seu art. 8º, há comando imperativo que norteia a conduta do juiz ao aplicar o ordenamento jurídico, devendo fazê-lo a fim de atender os fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência. - destaque nosso.
+ ..
+Ademais, consta previsão expressa no §8º, do artigo 85 do CPC/15 sobre como a verba honorária deveria ter sido fixada no caso sob apreço, em que, repita-se, a extinção da execução fiscal não implicou proveito econômico ao executado, na medida em que os créditos tributários seguem sendo debatidos no seio de ação especial ainda não concluída. No ponto, eis os termos da lei:  ..
+ ..
+Repita-se, mais uma vez, no caso concreto, não houve efetivo benefício patrimonial do contribuinte, na medida em que o débito de R$ 781.951,35 ainda segue sendo debatido em ação especial. Ou seja, não houve proveito econômico a ensejar verba honorária tão exorbitante, uma vez que os créditos tributários seguem ativos na citada ação especial.
+ ..
+Assim sendo, de rigor, na forma prevista no artigo 8º e 85 e §§ do CPC/2015, que a verba honorária seja fixada de maneira equitativa no caso concreto, evitando-se verdadeiro enriquecimento sem causa do contribuinte, reestabelecendo-se assim a sentença que fixou a verba honorária em R$ 10.000,00, visto que a efetiva remuneração do contribuinte no ponto será fixada, ao final, no seio da ação anulatória (fls. 249-253).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
