@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALEXANDRA SILVEIRA SALBEGO contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em agravo interno nos autos de contratos bancários.
+O julgado foi assim ementado (fl. 61):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AUTÔNOMO. AUSÊNCIA DE COMPROVAÇÃO DA NECESSIDADE DA GRATUIDADE. ART. 373, I, DO CPC. RECURSO INTERPOSTO CONTRA DECISÃO QUE, MONOCRATICAMENTE, NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO INTERPOSTO. DECISÃO MONOCRÁTICA QUE, POR ESTAR EM CONSONÂNCIA COM PRECEDENTES DESTE COLEGIADO, DEVE SER INTEGRALMENTE CONFIRMADA. CASO CONCRETO EM QUE DEVE SER MANTIDO O INDEFERIMENTO DO PEDIDO DE AJG FORMULADO PELA AUTORA, AUTÔNOMA, QUE NÃO COMPROVOU A NECESSIDADE. OS PARÂMETROS ADOTADOS NESTA 25ª CÂMARA CÍVEL PARA A CONCESSÃO DA GRATUIDADE JUDICIÁRIA EM CASOS SIMILARES, AUSENTE PROVA DOCUMENTAL DE DESPESAS EXTRAORDINÁRIAS A CONFORTAR A ALEGAÇÃO DE INSUFICIÊNCIA DE RECURSOS PARA CUSTEAR O PROCESSO, ÔNUS PROBATÓRIO DO QUAL NÃO SE DESINCUMBIU MINIMAMENTE, FULCRO NO ART. 373, I. RECURSO IMPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 100):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. GRATUIDADE DE JUSTIÇA. AJG. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL NO ACÓRDÃO. REDISCUSSÃO DO MÉRITO. INVIABILIDADE. PREQUESTIONAMENTO FICTO OU VIRTUAL. EMBARGOS DECLARATÓRIOS DESACOLHIDOS.
+A MATÉRIA DEVOLVIDA A ESTE TRIBUNAL, NO ÂMBITO DO RECURSO DE AGRAVO DE INTERNO EM AGRAVO DE INSTRUMENTO, FOI CABALMENTE ENFRENTADA NO ACÓRDÃO, RESTANDO A CONTROVÉRSIA INTEGRALMENTE APRECIADA, COM AMPARO NA LEGISLAÇÃO DE REGÊNCIA E EM PRECEDENTES JURISPRUDENCIAIS, NÃO SE PRESTANDO O PRESENTE RECURSO PARA REDISCUSSÃO DA QUESTÃO MERITÓRIA, POIS LIMITADO ÀS HIPÓTESES DO ART. 1.022 DO CPC. EMBARGOS DECLARATÓRIOS DESACOLHIDOS.
+No recurso especial, a parte aponta, violação dos seguintes arts. 98, 99, § 2º, 100, 101, 102 e 1.022 do CPC.
+Alega que foi indeferido benefício da justiça gratuita ao requerente, mesmo devidamente preenchidos os requisitos quanto a impossibilidade e condições de arcar com custas e eventual sucumbência.
+Aduz que o juízo somente poderia indeferir o pedido de gratuidade de justiça pleiteada caso tenham nos autos elementos que evidenciam a falta de pressupostos para concessão do benefício, o que não existiu.
+Afirma que sempre cumpriu as exigências processuais, apresentando os documentos disponíveis e respondendo aos pedidos do juízo, sustentando que o TJRS reconhece como suficientes os documentos apresentados.
+Defende que o acórdão foi omisso quanto a documentação comprobatória da insuficiência de recursos da recorrente.
+Requer o provimento do recurso para que se reforme o acórdão recorrido.
+Nas contrarrazões, a parte recorrida aduz que a pretensão recursal não merece acolhimento, pois infringe a Súmula n. 7 do STJ.
+É o relatório. Decido.
+Trata-se de ação de contratos bancários em que a parte autora pleiteou a concessão do benefício da gratuidade de justiça.
+O Juízo de primeiro grau indeferiu o pedido de gratuidade judiciária por ausência de comprovação da necessidade do benefício.
+A Corte estadual manteve a decisão que negou provimento ao agravo de instrumento.
+I - Art. 1.022, II, do CPC
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Isso porque, o Tribunal de origem concluiu que a parte não juntou nenhum documento comprobatório da renda (fls. 59-60):
+Ocorre que, no caso concreto, em que pese a agravante afirme sua condição de necessitado, fato é que não juntou nenhum documento comprobatório da renda, quer no âmbito deste agravo de instrumento, quer nos autos do processo de origem, embora intimada e prorrogados os prazos para tal, para apresentar tal comprovação.
+A parte autora tem ciência que deve juntar comprovante de rendimentos além da Declaração de Bens e Renda, fins de justificar o seu pedido de gratuidade judiciária. De lá pra cá, o prazo já restou dilatado sem que a parte demandante tenha atendido a determinação imposta pelo Juízo.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Art. 98, 99, § 2º, 100, 101 e 102 do CPC
+No recurso especial, a parte recorrente alega que foi indeferido o benefício da justiça gratuita ou alternativamente ao parcelamento ou pagamento das custas ao final do processo, mesmo devidamente preenchidos os requisitos quanto a impossibilidade e condições de arcar com custas e eventual sucumbência.
+A Corte estadual concluiu que a parte não juntou nenhum documento comprobatório da renda, mesmo após intimada e ter os prazos prorrogados para tal finalidade. Fundamentou que a simples apresentação de declaração de hipossuficiência não é suficiente para suprir a exigência legal de comprovação documental dos rendimentos atuais. Veja (fl. 36):
+Tal presunção, todavia, é relativa, devendo ser analisada a partir da verossimilhança das alegações e elementos constantes dos autos. Ou seja, o benefício, para ser concedido, supõe mínima comprovação nos autos acerca da impossibilidade de a parte postulante não ter condições de arcar com as despesas processuais.
+Ocorre que, no caso concreto, em que pese a agravante afirme sua condição de necessitado, fato é que não juntou nenhum documento comprobatório da renda, quer no âmbito deste agravo de instrumento, quer nos autos do processo de origem, embora intimada e prorrogados os prazos para tal, para apresentar tal comprovação.
+A parte autora tem ciência que deve juntar comprovante de rendimentos além da Declaração de Bens e Renda, fins de justificar o seu pedido de gratuidade judiciária. De lá pra cá, o prazo já restou dilatado sem que a parte demandante tenha atendido a determinação imposta pelo Juízo.
+A só juntada de declaração de hipossuficiência não supre a necessidade da apresentação de comprovante de rendimentos atuais, tais como contracheque de salário, de benefício previdenciário ou declaração de rendimentos de autônomo, considerando que a recorrente é médica e firmou cédula rural para aquisição de 100 animais, no valor de R$ 300.000,00 (processo 5017370-61.2023.8.21.0026/RS, evento 1, CONTR5), evidências mais do que concretas à denotar que possui renda acima de 05 salários-mínimos.
+Por outro lado, o processo não pode ficar parado indefinidamente, até que a parte interessada cumpra com a diligência que lhe incumbia atender já quando do ajuizamento da inicial, não se mostrando crível que a autora não tenha condições de juntar os documentos relativos aos seus próprios rendimentos.
+Logo, tendo em vista o lapso temporal concedido e à míngua de documentos tendentes a comprovar a alegada hipossuficiência financeira, indefiro o pedido de gratuidade judiciária deduzido pela parte agravante.
+De efeito, cumpria à parte comprovar, modo irrefutável, sua situação financeira para a obtenção da gratuidade judiciária requerida, fulcro no art. 373, I, do CPC, o que não fez. Mera alegação genérica de insuficiência econômico-financeira, desacompanhada de prova concreta a demonstrar não ter condições de arcar com custas e despesas processuais, ônus probatório que competia à parte se desincumbir minimamente, torna inviável a concessão da AJG.
+Quanto ao pedido subsidiário de pagamento ao final e/ou parcelamento, é pleito que não merece prosperar, pois a a parte não comprovou a necessidade de parcelar e/ou pagar as custas ao final, pelas mesmas razões supra de indeferir a gratuidade de justiça.
+Assim, para adotar conclusão diversa daquela a que chegou a Corte estadual, seria imprescindível o reexame dos fatos e provas dos autos, medida vedada pela Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
