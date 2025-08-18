@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Não se verifica ofensa ao artigo 1.022, II, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Na hipótese, rever as conclusões das instâncias ordinárias quanto ao alegado descumprimento da obrigação de adiantamento do vale-pedágio, demandaria o reexame do contexto fático probatório dos autos, o que é vedado pela Súmula 7 do STJ
+3. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por RENATO DE OLIVEIRA RECUPERADORA CAMINHOES LTDA, em face de decisão monocrática de fls. 843-849, e-STJ, que conheceu do agravo para não conhecer do recurso especial do ora insurgente.
+O apelo extremo, fundado nas alíneas "a" e "c", do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 648, e-STJ):
+APELAÇÃO - AÇÃO INDENIZATÓRIA - Contratos de prestação de serviços de transporte - Vale-pedágio - Sentença que reconheceu a prescrição da pretensão autoral - Insurgência da requerente.
+PRESCRIÇÃO - Pedido fundado na sanção prevista no artigo 8º da Lei 10.209/01, relativa ao não adiantamento do vale-pedágio pela empresa embarcadora, que está sujeito ao prazo geral decenal de prescrição, tratado no artigo 205 do Código Civil, e não ao prazo ânuo estipulado no artigo 18 da Lei 11.442/07, atinente à pretensão de reparação de danos relativos ao contrato de transporte - Precedentes desta C. 38ª Câmara de Direito Privado - Prescrição afastada.
+VALE-PEDÁGIO - Verbas devidamente individualizadas pela ré contratante nos contratos de transporte firmados entre as partes - Hipótese que não se confunde com o indevido pagamento embutido no custo do frete - Precedentes deste E. Tribunal de Justiça do Estado de São Paulo - Insubsistência da tese autoral de que os pagamentos adiantados de tais contratos, devidamente aceitos pelo transportador, teriam sido decotados dos vales-pedágio deles constantes - Quitação dos contratos de transporte, juntamente com os respectivos vales-pedágio que se evidencia - Rejeição do pedido que se impõe - Sentença de improcedência mantida, por fundamento diverso - RECURSO NÃO PROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 681-684, e-STJ).
+Nas razões do recurso especial (fls. 688-723, e-STJ), a parte insurgente apontou, além de dissídio jurisprudencial, violação aos seguintes artigos: a) 1.022 do CPC/15, alegando a existência de vícios no acórdão recorrido não sanados em sede de embargos declaratórios; b) 2º, 3º e 8º da Lei nº 10.209/2001 e 373, incisos I e II, do CPC/15, sustentando o cabimento da indenização pela dobra do frete, ante a não antecipação do valor dos pedágios pela empresa recorrida.
+Contrarrazões às fls. 759-771, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 772-774, e-STJ), dando ensejo na interposição do competente agravo (fls. 777-815, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 818-829, e-STJ.
+Em decisão monocrática, conheceu-se do agravo para não se conhecer do recurso especial ante: a) a ausência de negativa de prestação jurisdicional; b) a incidência do óbice da Súmula 7 do STJ à alegada violação aos artigos 2º, 3º e 8º da Lei nº 10.209/2001 e 373, incisos I e II, do CPC/15.
+Daí o presente agravo interno (fls. 853-886, e-STJ), no qual a parte agravante reitera as razões do apelo extremo, bem como refuta os supramencionados óbices.
+Impugnação às fls. 890-900, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Não se verifica ofensa ao artigo 1.022, II, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Na hipótese, rever as conclusões das instâncias ordinárias quanto ao alegado descumprimento da obrigação de adiantamento do vale-pedágio, demandaria o reexame do contexto fático probatório dos autos, o que é vedado pela Súmula 7 do STJ
+3. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte insurgente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. De início, mantém-se a decisão singular no ponto em que afastou a tese de negativa de prestação jurisdicional.
+Consoante asseverado no decisum agravado, a parte agravante alegou violação ao artigo 1.022 do CPC/15, sustentando que o acórdão recorrido foi omisso ao não se manifestar sobre questões relevantes para o deslinde da causa.
+Alegou, em síntese, a presença dos seguintes vícios no julgado: a) omissão quanto à alegada comprovação de ter arcado com os valores dos pedágios para ao menos 08 fretes, enquanto a recorrida não teria apresentado comprovantes de fornecimento antecipado do vale-pedágio; b) contradição, uma vez que os contratos apresentados pela demandada continham apenas informações internas da Veloce, sem o registro do número de ordem do comprovante de compra do vale-pedágio; c) omissão sobre a aplicação dos dispositivos legais mencionados.
+Acerca das controvérsias, o Tribunal local assim decidiu (fls. 650-652, e-STJ):
+Assim estabelecido, quanto ao mais, anote-se que o recurso não merece guarida.
+E tal se dá, porquanto, em pese a juridicidade das alegações deduzidas pela autora em seu recurso, mormente no que tange à constitucionalidade da norma que estipula a referida sanção pela falta do adiantamento do vale-pedágio, a análise do conjunto probatório revela que tal pedido condenatório não restou corroborado.
+Verdadeiramente, logrou a transportadora apelante demonstrar a realização dos fretes nacionais alegados na vestibular, bem como as correspondentes rotas pedagiadas percorridas, entretanto, diferentemente do que essa sustenta, os próprios Contratos de Transportes Rodoviários por ela carreados à fls. 47, 49, 54, 60, 62, 64, 66, 72, 76, 81, 82, 87, 88, 93, 94, 98, 99, 103, 106, 111, 114, 117, 118, 119, 120, 121, 125, 128, 131, 135, 138, 143, 144, 145, 150, 151, 152, 153, 154, 155, 160 e 161, revelam o suficiente cumprimento da obrigação do adiantamento do vale-pedágio pela embarcadora requerida.
+A confirmar, observe-se que o destacamento do campo relativo ao pedágio em cada um dos referidos contratos, com a descrição dos números de embarque, operação, viagem, controle contábil e de seu respectivo valor, está suficientemente adequado ao procedimento para adiantamento de tais verbas preconizado no artigo 7º da Resolução nº 2.885/08 da ANTT, em consonância, pois, com a regra do parágrafo único, do artigo 2º, da Lei 10.209/01, não se confundindo com a vedada forma de pagamento embutido no custo do frete, feita sem individualização.
+ ..
+Desse modo, não prosperando a tese da autora de que seriam irregulares os pagamentos feitos a título de vale-pedágio em conjunto com o frete contratado, inconsistente a alegação de inadimplemento por ela suscitada, ao passo que forçoso reconhecer que a empresa requerida descreveu individualmente nos contratos em exame as verbas devidas antecipadamente em função dos fretes, mas pagou-as apenas em parte, excluindo os vales-pedágio, sobretudo à vista do próprio aceite exarado pelo transportador e pela respectiva prestação do serviço, (circunstâncias fáticas incontroversas), tido como quitado.
+Assim, evidenciado o adiantamento dos vales- pedágio devidos pela ré em razão das contratações objeto de discussão nos autos, de rigor se mostra o reconhecimento da improcedência do pedido indenizatório deduzido pela autora.
+Não se vislumbram os alegados vícios no julgado, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbram vícios no julgado, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Deve ser mantida, portanto, a decisão singular que afastou a alegação de ofensa ao artigo 1.022 do CPC/15.
+2. No que toca à pretensão de afastamento do óbice da Súmula 7/STJ, não assiste razão à parte agravante.
+Consoante assente na decisão agravada, a parte alega vulneração aos artigos 2º, 3º e 8º da Lei nº 10.209/2001 e 373, incisos I e II, do CPC/15, sustentando o cabimento da indenização pela dobra do frete, ante a não antecipação do valor dos pedágios pela empresa recorrida.
+Aduz ter comprovado os fatos constitutivos do seu direito da forma mais clara possível, ao menos em relação a 08 (oito) fretes prestados, enquanto o recorrido não teria anexado nenhum comprovante de fornecimento antecipado do vale-pedágio para os fretes prestados.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que a parte recorrida comprovou o cumprimento da obrigação de adiantamento do vale-pedágio, conforme os contratos apresentados, não havendo inadimplemento (fls. 650-652, e-STJ).
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIÇO DE TRANSPORTE RODOVIÁRIO DE CARGA. VALE-PEDÁGIO. MULTA DO ART. 8º DA LEI Nº 10.209/2001. PAGAMENTO DO VALE-PEDÁGIO INCLUÍDO NA NOTA FISCAL. PRINCÍPIO DA BOA-FÉ CONTRATUAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto por TRANSPORTES REBOOK LTDA. contra decisão que negou seguimento ao recurso especial fundamentado no art. 105, III, alíneas a e c, da Constituição Federal. A demanda principal versa sobre a aplicação da multa prevista no art. 8º da Lei nº 10.209/2001, em razão de suposto descumprimento da obrigação de antecipação do vale-pedágio pelo embarcador. O Tribunal de origem afastou a multa, reconhecendo o pagamento do vale-pedágio incluído nas notas fiscais, fundamentado no princípio da boa-fé contratual. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:(i) determinar se o pagamento do vale-pedágio integrado à nota fiscal caracteriza o cumprimento da obrigação prevista na Lei nº 10.209/2001;(ii) avaliar se a aplicação da multa pode ser revista sem incorrer em reexame de provas, vedado pela Súmula nº 7/STJ. III. RAZÕES DE DECIDIR
+3. O embarcador cumpre sua obrigação quanto ao vale-pedágio ao demonstrar que o valor correspondente foi efetivamente pago e incluído na nota fiscal emitida, considerando a prática contratual acordada entre as partes.
+4. Invoca-se o princípio da boa-fé contratual (venire contra factum proprium), que veda à parte alegar ilegalidade em conduta que ela mesma adotou reiteradamente no decorrer da relação comercial.
+5. O ônus de comprovação do descumprimento da obrigação de antecipação do vale-pedágio recai sobre o transportador, conforme os arts. 373, I, do CPC/2015 e jurisprudência do STJ.
+6. A revisão da decisão exigiria análise do conjunto fático-probatório para apurar se o pagamento do vale-pedágio ocorreu ou não, o que encontra óbice na Súmula nº 7 do STJ.
+IV. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no AREsp n. 2.668.777/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado Tjrs), Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VALE-PEDÁGIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. VALE-PEDÁGIO. ÔNUS DA PROVA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão vergastado assentou que não houve comprovação do desembolso do vale-pedágio pela agravante, razão pela qual não faria jus à indenização pleiteada. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n.º 7 do STJ.
+2. Cabe ao transportador demonstrar a exclusividade do transporte, o valor devido nas praças de pedágio existentes na rota e o efetivo pagamento do pedágio, competindo ao embarcador, caso comprovado o fato constitutivo do direito pelo transportador, demonstrar a antecipação do vale-pedágio
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.117.525/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+Registra-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Precedentes: AgInt no REsp 1765794/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020; AgInt no REsp 1886167/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 22/10/2020; AgInt no AREsp 1609466/ SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/09/2020, DJe 23/09/2020.
+Mantém-se, no ponto, a incidência da Súmula 7 do STJ.
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
