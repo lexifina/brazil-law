@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ANA MARIA RIBEIRO DA SILVA e RONILSON SANTOS DA SILVA, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiram contra acórdão do Tribunal de Justiça do Amazonas assim ementado (e-STJ, fl. 424):
+APELAÇÃO CÍVEL. DIREITO DO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZATÓRIA POR ERRO MÉDICO. DEVER DE REPARAR POR DANOS MORAIS RECONHECIDO. PROCEDÊNCIA. IRRESIGNAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. MAJORAÇÃO DO VALOR ARBITRADO. POSSIBILIDADE. SENTENÇA REFORMADA EM PARTE. RECURSO CONHECIDO PARCIALMENTE E PROVIDO.
+1. A orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de que não se pode inovar em apelação, sendo proibido às partes alterar a causa de pedir ou o pedido, bem como a matéria de defesa;
+2. O dano moral é fato incontestável, diante do evento morte por erro médico já reconhecido em primeira instância, e não questionado nesta via recursal;
+3. Aplicando o método bifásico do Superior Tribunal de Justiça, tenho que o quantum indenizatório fixado em primeira instância deve ser majorado para R$ 50.000,00 (cinquenta mil reais) para cada um dos requerentes/apelantes, totalizando R$ 100.000,00 (cem mil reais), por ser razoável e proporcional, além de representar o entendimento jurisprudencial em casos envolvendo matéria fática semelhante;
+4. Sentença reformada em parte;
+5. Recurso conhecido em parte e provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 478-483).
+No recurso especial, os recorrentes apontaram, além de divergência jurisprudencial, violação do art. 944 do CC.
+Informaram que o caso tratou de ação de indenização por danos morais decorrente de erro médico, em que o valor da indenização foi fixado em R$ 50.000,00 (cinquenta mil reais) para cada parte, totalizando R$ 100.000,00 (cem mil reais).
+Afirmaram que a reparação deve ser medida pela extensão do dano, o que não foi observado. Sustentaram que o montante estipulado no aresto não considerou os critérios de razoabilidade e proporcionalidade, conforme entendimento do STJ em casos semelhantes, em o quantum indenizatório varia entre 300 (trezentos) e 500 (quinhentos) salários mínimos.
+Frisaram que a indenização foi estabelecida em patamar irrisório, devendo ocorrer a majoração. Requereram o provimento do recurso especial (e-STJ, fls. 493-487).
+Nas razões do agravo, os agravantes impugnam os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 802-814).
+Contraminuta apresentada (e-STJ, fls. 853-861).
+Brevemente relatado, decido.
+Analisando o acervo fático-probatório constante nos autos, a segunda instância concluiu que existiu o evento morte, decorrente de erro na atuação da equipe médica.
+Para reparar o dano moral sofrido pelo companheiro da falecida e a filha do casal, ou seja, os insurgentes, entendeu-se que seria razoável e proporcional a quantia de R$ 50.000,00 (cinquenta mil reais) para cada parte, totalizando a reparação em R$ 100.000,00 (cem mil reais).
+Leia-se (e-STJ, fls. 432-433):
+Consoante os arestos encimados, observo que a jurisprudência deste Tribunal, em harmonia com a da Corte Cidadã, tem fixado os danos morais entre R$ 50.000,00 (trinta mil reais) e R$ 120.000,00 (cento e vinte mil reais), isto é, acima do arbitrado pelo Juízo a quo, sendo o valor de R$ 40.000,00 (quarenta mil reais) para cada um dos autores aquém do razoável e do proporcional, diante da perda prematura de uma companheira, a qual deixou outro filho, por parte do sr. Ronilson Santos da Silva, e de uma filha, quanto à senhora Ana Maria Ribeiro da Silva.
+Dessa feita, após fixar o entendimento jurisprudencial, volto-me ao presente caso e a partir da análise dos autos, entendo que o valor deve ser majorado para R$ 50.000,00 (cinquenta mil reais) para cada um dos requerentes, totalizando R$ 100.000,00 (cem mil reais), uma vez que o patamar se encontra em consonância com os julgados acostados, bem como se adéqua às peculiaridades do caso concreto sem importar em enriquecimento ilícito, senão mantendo a função pedagógica do dano moral, em harmonia com os princípios da proporcionalidade e da razoabilidade, sendo, ainda, importante gizar que o dano se mede pela sua extensão, na forma do art. 944 do diploma civil. Forte nas razões expostas, entendo que a sentença deve ser reformada em parte, a fim de majorar os danos morais, como acima firmado.
+Essas ponderações que resultaram na fixação no citado patamar, afastando a irrisoriedade, foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional.
+A parte insurgente não busca, de fato, a devida qualificação jurídica dos fatos e provas que justificaram a conclusão adotada no julgamento, mas sua reapreciação, o que é mesmo vedado em recurso especial.
+Notam-se:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ERRO MÉDICO. PLANO DE SAÚDE. RESPONSABILIDADE SOLIDÁRIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. NÃO PROVIMENTO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial para conhecer parcialmente do recurso e, nessa extensão, negar-lhe provimento. O agravante sustenta a inexistência de prova cabal do erro médico e da negativa de atendimento por parte da operadora de saúde, afirmando que a perícia apontou apenas condutas subjetivas que os médicos poderiam ter adotado. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o reexame do conjunto fático-probatório é viável em sede de recurso especial, especialmente quanto à comprovação do erro médico e do nexo causal;
+e (ii) estabelecer se o valor fixado a título de danos morais se mostra desproporcional à gravidade do caso. III. RAZÕES DE DECIDIR
+3. A revisão das conclusões das instâncias ordinárias acerca da existência de erro médico e do nexo causal exige o reexame do conjunto fático-probatório, providência vedada pelo enunciado da Súmula n. 7/STJ.
+4. O Tribunal de origem, com base em laudo pericial, concluiu pela negligência dos profissionais médicos, destacando a omissão na investigação diagnóstica do paciente, o que resultou na evolução negativa do quadro clínico e, por fim, no óbito do menor, que continha apenas cinco meses de vida.
+5. A operadora de plano de saúde responde solidariamente pelos danos decorrentes de falha ou erro na prestação de serviços pelos profissionais médicos credenciados, conforme consolidado na jurisprudência do STJ.
+6. O valor arbitrado a título de danos morais (R$ 100.000,00) observa os princípios da razoabilidade e proporcionalidade, sendo compatível com os parâmetros usualmente aplicados em casos similares, não se justificando sua readequação na instância especial.
+IV. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 2.730.479/RJ, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. PARTO. ERRO MÉDICO. MORTE DE FILHO. INDENIZAÇÃO. EXCESSO NÃO VERIFICADO. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O Tribunal de origem concluiu ser razoável o valor de R$ 100.000,00 (cem mil reais) como indenização por danos morais em razão da morte de filho durante o parto. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.949.215/AM, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ER RO MÉDICO. VALOR DA INDENIZAÇÃO POR DANOS MORAIS FIXADO EM PATAMAR RAZOÁVEL E PROPORCIONAL. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
