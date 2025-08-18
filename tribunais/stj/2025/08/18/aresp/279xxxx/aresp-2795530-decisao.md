@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE MATO GROSSO DO SUL, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - REVOGAÇÃO DA JUSTIÇA GRATUITA EM PRIMEIRO GRAU - AUSÊNCIA DE COMPROVAÇÃO DE MELHORA REAL E SUBSTANCIAL DA CAPACIDADE ECONÔMICA DA PARTE AUTORA - DECISÃO REFORMADA - RECURSO PROVIDO. (fl. 37)
+Os embargos de declaração opostos pela parte recorrente (fls. 41-47) foram rejeitados, na forma da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - INEXISTÊNCIA DE VÍCIOS DO ART. 1.022 DO CPC NO ACÓRDÃO - PRETENSÃO DE REDISCUSSÃO DA MATÉRIA JÁ DECIDIDA - PREQUESTIONAMENTO - EMBARGOS REJEITADOS. I) Não é permitido o uso dos embargos declaratórios para a rediscussão de matéria já decidida no acórdão embargado. II) O órgão julgador não tem o dever de se manifestar sobre todas as alegações das partes, bastando que demonstre as razões de seu convencimento. III) Inexistindo no acórdão pontos obscuros, omissos ou contraditórios a serem sanados, tampouco erro material a ser corrigido, os embargos de declaração devem ser rejeitados. IV) Embargos rejeitados. (fl. 54)
+No recurso especial, às fls. 62-79, o recorrente alega violação do art. 98, caput, do CPC. Sustenta, em síntese, que "foi demonstrado que a parte aufere renda bruta de R$ 22.012,84 e líquida de R$ 14.877,92, além de possuir patrimônio disponível, vez que ocupa dois cargos de professor." (fl. 63)
+Aduz que o recurso especial possui como objeto questão submetida a julgamento afetado à sistemática dos recursos repetitivos em que se busca "definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil", Tema 1.178/STJ. Por essa razão, alega que os presentes autos devem ser sobrestados até a definição da matéria pelo STJ.
+Requer que, caso não se determine o sobrestamento, seja conhecido e provido o recurso especial, com a revogação do benefício da gratuidade de justiça.
+Não foram apresentadas contrarrazões. (fls. 83).
+O Tribunal de origem, às fls. 85-89, entendeu, inicialmente, que a questão debatida nos autos é distinta daquela que trata o Tema 1.178 do STJ. In verbis (grifado no original):
+DA DISTINÇÃO ENTRE A QUESTÃO DEBATIDA E O TEMA REPETITIVO N.º 1.178 DO STJ.
+Como sabido, a Corte Superior afetou os Recursos Especiais n.º 1.988.687/RJ, n.º 1.988.697/RJ, n.º 1.988.686/RJ sob o rito dos recursos repetitivos (Tema n.º 1.178), com a seguinte questão submetida a julgamento:
+"Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil." (destacamos).
+Constata-se, desta forma, que o tema repetitivo busca discutir a possibilidade de se adotar critérios objetivos para a verificação da hipossuficiência quando da análise de pedido de gratuidade da justiça. Por outro lado, o presente recurso visa reformar o acórdão que manteve a concessão dos benefícios da gratuidade da justiça à parte contrária, diante das provas apresentadas, motivo pelo qual, in casu, opera-se o distinguishing. (fl. 86)
+Procedida a distinção entre os casos, a Corte estadual inadmitiu o recurso especial, porquanto para "reanalisar a hipossuficiência financeira da parte recorrida e, então, revogar o benefício concedido, consoante pretende a parte recorrente, seria necessário o revolvimento fático-probatório dos autos, com o exame das condições financeiras e circunstanciais alegadas pela parte recorrida - procedimento inviável nessa fase recursal, por óbice da Súmula 7 do STJ.". (fl. 87)
+No agravo em recurso especial (fls. 94-103), a parte agravante afirma, em suma, que:
+i) a controvérsia deste recurso é justamente a não adoção de limites objetivos na análise deste benefício e, por consequência, a aferição se eles ainda se fazem presente para a manutenção da justiça gratuita.  ..  Portanto, observa-se que não há distinguishing no recurso interposto frente ao Tema 1.178, uma vez que busca a reforma da decisão de piso que opta pela não adoção dos critérios objetivos de renda.
+ii) a solução da pretensão recursal prescinde da análise de fatos e provas, restringindo-se à apreciação da aplicação do art. 98, § 3º, do CPC. (fl. 97)
+De mais a mais, ratifica as razões do recurso especial, sustentando ser caso de revogação do benefício da justiça gratuita deferido à recorrida.
+Sem contraminuta. (fl. 107).
+É o relatório.
+Decido.
+De início, afasto a assertiva de que a controvérsia em exame se vincule ao Tema 1.178 do STJ ("Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil").
+É que o Tribunal de origem, ao manter a concessão dos benefícios da gratuidade da justiça à recorrida, não adotou, isoladamente, critério objetivo para aferição da hipossuficiência da recorrida, entendendo, diante das provas apresentadas que: "o cotejo entre a situação econômica da época da concessão e a atual demonstra que os incrementos nos valores da remunerações foram viabilizados na medida da inflação. Ou seja, o plus nas remunerações dos professores não significa que o poder de compra aumentou substancialmente, mas que se manteve face à inflação do período." (fl. 35)
+Na ocasião, acrescentou que "não houve um aumento real de ganho e de poder de compra, mas sim um aumento gradativo ao longo dos anos dentro da normalidade, paralelamente ao aumento também dos custos de vida, de modo que não se pode concluir por uma disponibilidade financeira verdadeiramente maior do que a da época do deferimento da benesse" (fl. 35).
+Assim, é possível concluir que, na situação dos autos, o benefício da justiça gratuita não foi deferido apenas com base em critério objetivo, a evidenciar que a referida discussão não se insere no âmbito da questão a ser decidida pelo STJ no Tema 1.178.
+Quanto a alegada ofensa ao art. 98 do CPC, desconstituir a conclusão a que chegou Tribunal de origem e entender pela alteração da capacidade econômica da parte recorrida, demandaria o revolvimento dos fatos e das provas dos autos, providência vedada em sede de recurso especial diante do óbice contido no enunciado 7 da Súmula do STJ, que assim dispõe: "A pretensão de simples reexame de prova não enseja recursos especial".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. JUSTIÇA GRATUITA. REVISÃO DOS PRESSUPOSTOS PARA SUA CONCESSÃO. NECESSIDADE DE ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. PLEITO DE REVOGAÇÃO EM RAZÃO DOS VALORES A RECEBER POR MEIO DE PRECATÓRIO/RPV EM MOMENTO FUTURO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A apreciação das alegações do agravante, considerando que a Corte de origem entendeu pela impossibilidade de revogação da gratuidade judiciária, ante a condição de hipossuficiência da parte, demanda a análise de provas e fatos controvertidos nos autos, o que é vedado pela Súmula 7/STJ.
+2. "O aferimento da insuficiência econômica para fins da assistência judiciária gratuita é de ser realizado ante as circunstâncias concretas em que se encontra a pessoa (natural ou jurídica) no momento em que formulado o correspondente pedido. Assim, é insuficiente para o afastamento da suspensão da exigibilidade da prestação honorária prevista no art. 98, § 3º, do CPC/2015, a circunstância de que a parte possui crédito a receber (o crédito executado)" (AgInt no AREsp n. 2.135.042/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.313.021/RN, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE LAVRA DA PRESIDÊNCIA. MANUTENÇÃO DA DECISÃO. SÚMULA 182 DO STJ. NÃO IMPUGNAÇÃO QUANTO À INCIDÊNCIA DA SÚMULA 7 DO STJ. DIREITO PROCESSUAL CIVIL. JUSTIÇA GRATUITA. ART. 98 DO CPC. REVOGAÇÃO DO BENEFÍCIO NA ORIGEM. RECEBIMENTO DE INDENIZAÇÃO DE ALTO VALOR. PRESUNÇÃO RELATIVA ILIDIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A pretensão de reforma da decisão agravada, acerca da situação de hipossuficiência financeira da parte, imprescindível à concessão da gratuidade da justiça, demandaria necessariamente o reexame da matéria fático-probatória dos autos, atraindo, assim, o óbice da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.180.436/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUSTIÇA GRATUITA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. A revisão do entendimento do aresto hostilizado no tocante à ausência de elementos comprobatórios da alteração da situação econômica esbarra no óbice da Súmula 7 do STJ, uma vez que o Tribunal de origem decidiu a questão com base na realidade fático-probatório dos autos.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.886.076/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/10/2021, DJe de 22/10/2021.).
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REFORMA DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. REVOLVIMENTO DOS ELEMENTOS PROBATÓRIOS DA DEMANDA. INCIDÊNCIA DA SÚMULA 7/STJ. ANÁLISE DA LEGISLAÇÃO ESTADUAL. DESCABIMENTO. SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A reforma das conclusões da instância de origem quanto ao tema, a fim de se perquirir a real situação econômica dos recorrentes, demanda o revolvimento dos elementos fático-probatórios da lide, o que não se admite na instância extraordinária, consoante dispõe o enunciado da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.743.428/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/5/2019, DJe de 28/5/2019.).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 98, CAPUT, DO CPC. TEMA 1.178/STJ. NÃO SE INSERE. JUSTIÇA GRATUITA. PEDIDO DE REVOGAÇÃO. ALTERAÇÃO DA SITUAÇÃO ECONÔMICA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
