@@ -1,0 +1,126 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+II. Questão em discussão
+2. Consiste em verificar se a parte agravante impugnou especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+IV. Dispositivo e tese
+4. Agravo interno não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno."
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.152.930/SP, Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2018, DJe de 16/10/2018.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.887-1.893) interposto contra decisão desta relatoria que conheceu do agravo nos próprios autos para afastar a intempestividade do recurso especial e, no mérito, deu parcial provimento ao recurso, a fim de excluir o dever da agravante de custear o método Therasuit (fls. 1.877-1.883).
+Em suas razões, a parte agravante defende o afastamento das Súmulas n. 7 e 83 do STJ.
+No mérito, defende que "busca o recurso outrora interposto afastar o dano moral, visto que aplicado em desacordo com o art. 188, I, do Código Civil, ante a ausência de ato ilícito, e aos artigos 186 e 927, caput, ambos do Código Civil, inexistindo ato ilícito" (fl. 1.891).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+II. Questão em discussão
+2. Consiste em verificar se a parte agravante impugnou especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+IV. Dispositivo e tese
+4. Agravo interno não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno."
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.152.930/SP, Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2018, DJe de 16/10/2018.
+VOTO
+A insurgência não merece conhecimento.
+O agravo em recurso especial foi decidido nos seguintes termos (fls. 1.877-1.883):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, por considerá-lo extemporâneo (e-STJ fls. 1.425-1.427).
+Em suas razões (e-STJ fls. 1.429-1.434), a agravante alega a existência de causas suspensivas na contagem do prazo recursal, o que tornaria o recurso especial tempestivo. Ao final, pugna por seu conhecimento e provimento.
+Parecer do Ministério Público Federal, opinando pelo desprovimento do recurso (fls. 1.870-1.874).
+É o relatório.
+Decido.
+A Lei n. 14.939/2024 trouxe nova redação ao art. 1.003, § 6º, do CPC/2015, dispondo que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+A Corte Especial do STJ, no julgamento da Questão de Ordem no Agravo em Recurso Especial n. 2.638.376/MG, decidiu, por maioria, que "os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+Há documentação nos autos (e-STJ fls. 1.435-1437) indicando feriados nos dias 2 e 15/11/2023, respectivamente, Finados e Proclamação da República, e suspensão do expediente forense no dia 3/11/2023, motivo pelo qual é forçoso reconhecer a tempestividade do recurso especial, interposto em 24/11/2023 contra o acórdão de fls. 1.319/1.338 (e-STJ), do qual a parte recorrente foi intimada em 31/10/2023 (fl. 1.358).
+Desse modo, afasto intempestividade do especial e passo ao exame do recurso.
+O acórdão do TJPE traz a seguinte ementa (fls. 1.335-1.336):
+EMENTA: DIREITO CIVIL. APELAÇÃO. PLANO DE SAÚDE. SÍNDROME CONGÊNITA DO ZIKA VÍRUS. TRATAMENTO MULTIDISCIPLINAR. THERASUIT E HIDROTERAPIA. EQUIPAMENTOS E ÓRTESES. PROCEDIMENTOS NÃO INCORPORADOS AO ROL DA ANS. TAXATIVIDADE MITIGADA. REQUISITOS PARA MITIGAÇÃO DELINEADOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. PREENCHIMENTO. DEVER DE COBERTURA. CUSTEIO DE TRATAMENTO FORA DA REDE CREDENCIADA. POSSIBILIDADE.
+1. Assegurada a cobertura para determinada doença, a técnica médica que se destina a curá-la ou controlá-la, por decorrência lógica e jurídica, deve ser igualmente coberta, ressalvadas as excludentes contratuais fundadas em permissivo legal.
+2. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do EREsp nº 1.886.929/SP, dirimiu a divergência até então existente entre as 3a e 4a Turmas, tendo prevalecido o entendimento de que o rol de procedimentos e eventos em saúde suplementar elaborado pela ANS é taxativo. Contudo, o próprio STJ delineou os parâmetros objetivos para possibilitar eventual superação dessa taxatividade no caso concreto.
+3. Segundo o STJ, "não havendo substituto terapêutico ou estando esgotados os procedimentos do Rol da ANS, pode haver, a título de excepcionalidade, a cobertura do tratamento indicado pelo médico ou odontólogo-assistente, desde que (i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e NatJus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar".
+4. Não tendo sido demonstrada a existência de indeferimento expresso, pela ANS, da inclusão das terapias prescritas pelo médico assistente no rol de procedimentos e eventos em saúde para o tratamento da "SÍNDROME CONGÊNITA DO ZIKA VÍRUS", e não tendo a operadora de saúde demonstrado a ineficácia do tratamento à luz da medicina baseada em evidências, o seu caráter experimental, ou a existência de pareceres de órgãos técnicos de renome nacional ou internacional se posicionando pela
+ineficácia ou insegurança do procedimento, o procedimento deve ser coberto.
+5. A Lei nº 14.454, de 21 de setembro de 2022, alterou a Lei nº 9.656/1998, para permitir a cobertura de exames ou tratamentos de saúde que não estão incluídos no rol de procedimentos e eventos em saúde suplementar da ANS, desde que sua eficácia seja comprovada cientificamente ou haja recomendações à sua prescrição feitas pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) ou por órgãos de avaliação de tecnologias em saúde de renome internacional.
+6. Nos termos do art. 10, VII, da lei 9.656/98, o fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico está excluído da cobertura assistencial mínima prestada pelas operadoras de planos de saúde.
+7. Hipótese em que se pleiteia não o fornecimento das órteses em si, mas o acesso às sessões de fisioterapia pelo método Therasuit, que eventualmente utiliza equipamentos específicos, de modo que não se enquadra na exclusão do Art.10, VII da Lei nº 9.656/98.
+8. À míngua de prova de que a rede credenciada da operadora do plano de saúde disponha de clínica habilitada para atender à prescrição do médico assistente, chama-se a intervir a regra-princípio que assegura ao paciente o custeio do tratamento fora da rede credenciada oferecida pela operadora de serviços de assistência à saúde (art. 4o RN ANS nº 259, 17.06.2011).
+9. O Superior Tribunal de Justiça possui entendimento no sentido de que, nos casos em que o tratamento indicado não é ofertado pelo plano de saúde através da rede credenciada, o reembolso deve ser realizado de forma integral.
+10. Apelação improvida.
+No recurso especial (fls. 1.360-1.377), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente citou os arts. 14, §§ 1º e 3º, 51 e 54, § 4º, do CDC, 104 e 422 do CC/2002, 485, IV e VI, do CPC/2015 e 16, VI, da Lei n. 9.656/1998.
+Sustentou que, "no que tange à hidroterapia e à equoterapia, a insurgência da operadora recorrente encontra fundamento na Lei nº 9.656/98 e no contrato firmado entre as partes. Isso porque as terapias em questão não possuem natureza médica e/ou psicológica, fugindo do escopo de criação da Lei de Plano de Saúde" (fl. 1.371).
+Alegou dissídio jurisprudencial e ofensa aos arts. 10, II e VII, 12, § 4º, e 17-A, § 6º, da Lei n. 9.656/1998 e 3º e 4º, III, da Lei n. 9.961/2000, afirmando ser legítima a limitação do custeio do método Therasuit, pois a terapia referida não constaria no rol da ANS, que teria natureza taxativa, além de que utilizaria órtese não ligada ao ato cirúrgico em sua aplicação.
+Apontou desrespeito ao art. 12, VI, da Lei n. 9.656/1998, porque, "da análise da decisão recorrida, não se observa a presença dos requisitos legais para o reembolso, visto que a parte, tampouco o juízo, logrou êxito em afastar a legalidade da negativa, e, assim, tornar o procedimento de cobertura obrigatória na rede credenciada da recorrente, muito menos o reembolso ou suspensão das cobranças da internação" (fls. 1.373-.1.374).
+Na insurgência recursal, a recorrente citou de passagem os arts.14, §§ 1º e 3º, 51 e 54, § 4º, do CDC, 104 e 422 do CC/2002, 485, IV e VI, do CPC/2015 e 16, VI, da Lei n. 9.656/1998. Contudo, não demonstrou em que consistiria a ofensa a tais artigos, visto que não correlacionou suas teses à legislação invocada nem esclareceu como o acórdão recorrido teria afrontado ou negado vigência aos referidos dispositivos.
+Além disso, a parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada sobre o pedido de exclusão do custeio da hidroterapia e da equoterapia, visto que alegou genericamente violação da Lei n. 9.656/1998.
+Diante disso, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+Ademais, a Segunda Seção do STJ definiu os seguintes parâmetros para que se reconheça, em hipóteses excepcionais e restritas, a obrigação de a operadora de plano de saúde cobrir eventos e procedimentos não previstos no rol da ANS: "1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo; 2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado à lista; 3 - é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extrarrol; 4 - não havendo substituto terapêutico ou estando esgotados os procedimentos do Rol da ANS, pode haver, a título de excepcionalidade, a cobertura do tratamento indicado pelo médico ou odontólogo-assistente, desde que (i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e NatJus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS" (EREsp n. 1.886.929/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 8/6/2022, DJe de 3/8/2022).
+A Corte de origem, soberana na análise do conjunto fático-probatório dos autos, assentou que estavam presentes os requisitos de mitigação do rol da ANS (fls. 1.329-1.331).
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada na sede especial, a teor da Súmula n. 7/STJ.
+Conforme o entendimento desta Corte Superior, "o Conselho Federal de Medicina, em seu PARECER CFM Nº 14/2018, publicado em maio de 2018 concluiu que as terapias propostas (TheraSuit e PediaSuit) ainda carecem de evidência científica que lhes deem respaldo e devem ser entendidas apenas como intervenções experimentais. Com efeito, o art. 10º, incisos I, V, IX, da Lei n. 9.656/1998, expressamente exclui da relação contratual a cobertura de tratamento clínico ou cirúrgico experimental, fornecimento de medicamentos importados não nacionalizados e tratamentos não reconhecidos pelas autoridades competentes" (AgInt no AREsp n. 1.960.488/GO, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/6/2022, DJe de 28/6/2022).
+Do mesmo modo:
+AGRAVO INTERNO. RECURSO ESPECIAL. PLANOS E SEGUROS DE SAÚDE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE ELABORADO PELA ANS. FISIOTERAPIA PELO MÉTODO PEDIASUIT. AUSÊNCIA DE PREVISÃO NA RELAÇÃO EDITADA PELA AUTARQUIA. MÉTODO DE CARÁTER MERAMENTE EXPERIMENTAL. EXPRESSA EXCLUSÃO LEGAL.
+1. "O Conselho Federal de Medicina, em seu PARECER CFM Nº 14/2018, publicado em maio de 2018 concluiu que as terapias propostas (TheraSuit e PediaSuit ) ainda carecem de evidência científica que lhes deem respaldo e devem ser entendidas apenas como intervenções experimentais. Com efeito, o art. 10º, incisos I, V, IX, da Lei n. 9.656/1998, expressamente exclui da relação contratual a cobertura de tratamento clínico ou cirúrgico experimental, fornecimento de medicamentos importados não nacionalizados e tratamentos não reconhecidos pelas autoridades competentes" (AgInt no AREsp n. 1.960.488/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.887.055/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/3/2023, DJe de 10/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA PARTE DE MANDANTE.
+1. Conforme entendimento firmado no âmbito da Segunda Seção desta Corte, o rol da ANS é, em regra, taxativo - ressalvadas excepcionalidades verificadas, através de critérios técnicos, no caso concreto, nos termos dos EREsps n. 1.886.929/SP e n. 1.889.704/SP.
+1.1 A Terceira e a Quarta Turma do Superior Tribunal de Justiça entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.007.823/CE, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/4/2023, DJe de 11/4/2023.)
+O TJPE dissentiu de tal entendimento, porque condenou a recorrente ao custeio do método Therasuit (e-STJ fl. 1.331).
+Em tais condições, impõe-se a reforma do aresto impugnado, a fim de excluir o dever de a recorrente custear o tratamento mencionado, por custeio direto ou via reembolso.
+Segundo a jurisprudência do Superior Tribunal de Justiça, o reembolso das despesas médicas ao usuário deverá ser integral, quando comprovado o inadimplemento contratual da operadora de plano de saúde referente à disponibilização do tratamento prescrito por profissional da área.
+Nesse sentido:
+RECURSO ESPECIAL - PLANO DE SAÚDE - INDISPONIBILIDADE DE PRESTADOR DE SERVIÇO CREDENCIADO NA ÁREA DE ABRANGÊNCIA - OPERADORA QUE DESCUMPRE O DEVER DE GARANTIR O ATENDIMENTO NO MESMO MUNICÍPIO, AINDA QUE POR PRESTADOR NÃO INTEGRANTE DA REDE ASSISTENCIAL - INSTÂNCIAS ORDINÁRIAS QUE ESTABELECERAM O DEVER DE REEMBOLSO INTEGRAL, PORÉM NO PRAZO DE 72 HORAS.
+ ..
+2.1 Seja em razão da primazia do atendimento no município pertencente à área geográfica de abrangência, ainda que por prestador não integrante da rede credenciada, seja em virtude da não indicação pela operadora de prestador junto ao qual tenha firmado acordo, bem como diante da impossibilidade de a parte autora se locomover a município limítrofe, afigura-se devido o reembolso integral das despesas realizadas, no prazo de 30 (trinta) dias, contado da data da solicitação de reembolso, conforme previsão expressa do artigo 9º da RN nº 259/11 da ANS.
+3. Recurso especial provido, em parte, apenas para estabelecer o prazo de reembolso em 30 dias.
+(REsp n. 1.842.475/SP, relator Ministro Luis Felipe Salomão, relator para acórdão MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 27/9/2022, DJe de 16/2/2023.)
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PLANO DE SAÚDE. NATUREZA TAXATIVA, EM REGRA, DO ROL DA ANS. TRATAMENTO MULTIDISCIPLINAR PRESCRITO PARA BENEFICIÁRIO PORTADOR DE TRANSTORNO DO ESPECTRO AUTISTA. MUSICOTERAPIA. COBERTURA OBRIGATÓRIA. REEMBOLSO INTEGRAL. EXCEPCIONALIDADE.
+1.
+ ..
+8. Distinguem-se, da hipótese tratada na orientação jurisprudencial sobre o reembolso nos limites do contrato, as situações em que se caracteriza a inexecução do contrato pela operadora, causadora de danos materiais ao beneficiário, a ensejar o direito ao reembolso integral das despesas realizadas por este, a saber: inobservância de prestação assumida no contrato, descumprimento de ordem judicial que determina a cobertura do tratamento ou violação de atos normativos da ANS.
+9. Hipótese em que deve ser mantido o tratamento multidisciplinar prescrito pelo médico assistente para o tratamento de beneficiário portador de transtorno do espectro autista, inclusive as sessões de musicoterapia, sendo devido o reembolso integral apenas se demonstrado o descumprimento da ordem judicial que deferiu a antecipação dos efeitos da tutela, observados os limites estabelecidos na sentença e no acórdão recorrido com relação à cobertura da musicoterapia e da psicopedagogia.
+10. Recurso especial conhecido e desprovido.
+(REsp n. 2.043.003/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/3/2023, DJe de 23/3/2023.)
+RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DESPESAS MÉDICAS C/C INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE. ATENDIMENTO DE EMERGÊNCIA. HOSPITAL NÃO CREDENCIADO. ATENDIMENTO FORA DA REGIÃO GEOGRÁFICA DE ABRANGÊNCIA DO CONTRATO. REEMBOLSO LIMITADO À TABELA DO CONTRATO. JULGAMENTO: CPC/2015.
+ ..
+4. O reembolso previsto no art. 12, VI, da Lei 9.656/1998, limitado à tabela do contrato, é obrigação cuja fonte é o próprio contrato, cabível nos casos de atendimento de urgência ou emergência, quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras; o reembolso integral constitui obrigação diversa, de natureza indenizatória, cuja fonte é a inexecução do contrato, e visa, na realidade, a reparação do consequente dano material suportado pelo beneficiário (REsp 1.840.515/CE, Terceira Turma, julgado em 24/11/2020, DJe 01/12/2020).
+ ..
+6. Recurso especial conhecido e provido.
+(REsp n. 1.979.876/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 3/5/2022, DJe de 5/5/2022.)
+À exceção da cobertura do método Therasuit (custeio excluído, nesta data, por esta relatoria), o TJPE não divergiu de tal orientação, visto que condenou a empresa ao custeio integral das despesas médicas, ante a falta de aptidão dos profissionais da rede credenciada no referente à oferta das demais terapias prescritas à contraparte (fl. 1.331).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Além disso, não há como rever o entendimento do Tribunal a quo sobre o inadimplemento da recorrente, visto que, para tanto, seria necessária a revisão de matéria fática, o que encontra vedação na Súmula n. 7/STJ.
+Diante do exposto, CONHEÇO do agravo nos próprios autos, para afastar a intempestividade do recurso especial e, no mérito, DAR PARCIAL PROVIMENTO ao recurso, a fim de excluir o dever de a recorrente custear o método Therasuit.
+Honorários advocatícios sucumbenciais para os advogados da parte autora, ora recorrida, fixados em 15% (quinze por cento) do valor da condenação, nos termos do art. 85, § 2º, do CPC/2015, esta compreendida como a soma do custeio do tratamento de saúde (excetuado o método Therasuit).
+Verba honorária para os representantes da ré, ora recorrente, arbitrada em 15% (quinze por cento) do valor do proveito econômico obtido (CPC/2015, art. 85, § 2º), este entendido como a somatória dos pedidos autorais rejeitados, observada a eventual gratuidade de justiça deferida na origem, nos termos do art. 98, § 3º, do NCPC.
+Configurada a sucumbência recíproca (art. 86 do CPC/2015), as custas deverão ser suportadas na proporção do decaimento das partes.
+Os valores de todos os encargos sucumbenciais deverão ser apurados em liquidação de sentença.
+Publique-se e intimem-se.
+É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. DECISÃO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. APELAÇÃO. EFEITOS. RECEBIMENTO. HARMONIA DE ENTENDIMENTO. SÚMULA 83 DO STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+ ..
+2. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o único fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.152.930/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/10/2018, DJe 16/10/2018.)
+O entendimento da Corte local, referente à confirmação parcial do tratamento de saúde da parte recorrida (o juízo agravado excluiu o custeio do método Therasuit), foi mantido com base nas Súmulas n. 284 do STF e 7 do STJ.
+A agravante apenas rechaçou a Súmula n. 7/STJ, o que atrai a Súmula n. 182/STJ.
+Além disso, a parte agravante deixou de trazer alegações efetivas e específicas para afastar as conclusões do juízo agravad o no referente à aplicação da Súmula n. 83/STJ, fazendo afirmações abstratas de não incidência do mencionado óbice, com assertivas que, a rigor, caberiam em qualquer recurso. Na verdade, a parte agravante nem sequer indicou qual matéria foi objeto da Súmula n. 83/STJ.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
