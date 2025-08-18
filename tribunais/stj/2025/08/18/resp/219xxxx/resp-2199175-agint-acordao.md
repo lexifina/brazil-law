@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DE 28,86%. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022, DO CPC. NÃO OCORRÊNCIA. POSSIBILIDADE DE COMPENSAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das premissas adotadas pela Corte de origem, tal como proposta pela parte recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Espólio de Regina Josefa da Gama Silva desafiando decisão que negou provimento ao recurso especial, sob os seguintes fundamentos: (I) inexistência de ofensa ao artigo 1.022 do CPC; e (II) a alteração das premissas adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+A parte agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicional, bem como a não aplicação ao caso de reexame de provas dos autos, sob a alegação de que "não se busca modificar as premissas fáticas utilizadas pelas instâncias ordinárias, mas, sim, a incorreção da decisão que julgou extinto, de ofício, o processo, em virtude de compensação de valores entre dívidas ilíquidas e não vencidas, posto que nada há que comprove que a executada foi credora dos exequentes e nada os constituiu em mora. Ora, a decisão objeto deste recurso especial cuida apenas de extinção de feito em razão da suposta inexistência de valores a executar, diante da compensação do que foi pago administrativamente de modo supostamente indevido com o que está sendo pleiteado na execução. Em nada perpassa a discussão de mérito ou de fato, trazido pelo título coletivo já transitado em julgado há anos. Assim, não se busca revolver as matérias fáticas ou reexame de provas que restaram incontroversas, mas sim, analisar a decisão recorrida, que acabou por violar as regras dispostas nos artigos 368 e 369 do Código Civil, que impõe como requisitos da compensação a existência de dívidas líquidas, vencidas e de coisas fungíveis entre pessoas que forem ao mesmo tempo credor e devedor.  ..  Assim, a jurisprudência desta Corte alberga a tese de que a verificação das premissas fáticas presentes nos autos, com o fito de aplicar o melhor direito à espécie, não configura reexame de prova, o que encontraria óbice na Súmula 7/STJ, mas, sim, atribuição de nova valoração, podendo resultar em conclusão jurídica diversa" (fls. 197/198).
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DE 28,86%. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022, DO CPC. NÃO OCORRÊNCIA. POSSIBILIDADE DE COMPENSAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das premissas adotadas pela Corte de origem, tal como proposta pela parte recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte recorrente não logrou desenvolver argumentação apta a desconstituir os alicerces adotados pelo decisório recorrido.
+Como asseverado no decisum, verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, " n ão há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional" (AgInt no AREsp 879.172/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/9/2016, DJe de 28/9/2016).
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 698.557/BA, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 13/9/2016, DJe de 27/9/2016.)
+Ademais, no que tange à possibilidade de compensação, a Corte de origem manifestou-se nos seguintes termos (fls. 77/82):
+ ..
+A sentença no processo originário julgou procedente o pedido e condenou a UFRJ ao pagamento de diferenças de remuneração, inclusive férias com acréscimo de 1/3 e de gratificações natalinas, decorrentes do reajustamento, a partir de 1º de janeiro de 1993, fundado no percentual de 28,86%, e deduzidos os pagamentos sob o mesmo título (evento 1, OUT20).
+ ..
+A parte exequente instruiu a petição inicial com planilha emitida por órgão administrativo da UFRJ em 2006, a conter valores supostamente incontroversos (evento 1, CALC7).
+No entanto, a UFRJ sustenta que implantou as rubricas 15277 e 16171, em cumprimento à decisão transitada em julgado (evento 12, IMPUGNAÇÃO1).
+A executada pondera que o fez a partir de dezembro de 2002, e que, em janeiro de 2017, as parcelas foram suprimidas, por força da decisão do Tribunal Regional Federal da 2ª Região que julgou extinta a execução da obrigação de fazer no exame da apelação nos Embargos à Execução nº 0048808- 78.1999.4.02.0000.
+ ..
+As fichas financeiras da parte exequente demonstram a percepção das rubricas indicadas pela UFRJ desde dezembro de 2002 até janeiro de 2017.
+Os pagamentos efetuados pela UFRJ, no período compreendido entre janeiro de 2002 e janeiro de 2017, se referem ao cumprimento do título judicial coletivo aqui executado, e não seriam indevidos caso inexistente a MP nº 1.704/98, observados os valores previstos na Portaria MARE 2.179/98.
+No entanto, a implementação da rubrica em cumprimento ao título executivo formado no processo nº 0006396-63.1996.4.02.5101, pelo longo intervalo de janeiro de 2002 a janeiro de 2017, com o acréscimo do reajuste concedido pela MP nº 1.704/98, evidencia excesso de pagamento dos valores.
+Não se discute a validade do documento emitido por órgão administrativo da UFRJ, mas ele deve ser analisado em conjunto com as fichas financeiras de cada exequente, a fim de perquirir se há valores residuais a serem pagos aos servidores/pensionistas, ou, no caso de os pagamentos da rubrica superarem o passivo incontroverso, se a execução deve ser extinta.
+Com isso, para os fins deste processo, compreende-se que os valores aferidos como pagos em duplicidade devem ser compensados com o passivo incontroverso do período de janeiro de 1993 até junho de 1998, sob pena de enriquecimento ilícito da parte exequente.
+Não há que se falar tampouco em prescrição relativa à compensação, ao fundamento de que o último pagamento remonta a 2017, pois o próprio acórdão transitado em julgado no processo nº 0006396-63.1996.4.02.5101 determinou a dedução dos pagamentos sob o mesmo título.
+Nessa linha, seria incoerente permitir a execução de valores de 1993 a 1998 e, paralelamente, não autorizar a compensação dos valores pagos na via administrativa em período posterior. São créditos da mesma natureza.
+ ..
+Nesse contexto, está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mesmo sentido:
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 489, § 1º, IV E 1.022, II, DO CPC. NÃO OCORRÊNCIA. REAJUSTE. 28,86%. COMPENSAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das premissas adotadas pela Corte de origem, tal como proposta pela parte recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 2.644.846/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJEN de 17/02/2025.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
