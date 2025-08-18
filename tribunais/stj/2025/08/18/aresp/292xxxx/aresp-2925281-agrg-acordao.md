@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental no agravo em recurso especial. furto. Princípio da insignificância. Habitualidade delitiva. VALOR DO BEM NÃO REDUZIDO. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação do agravante por furto, com base na inaplicabilidade do princípio da insignificância.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a habitualidade delitiva do agravante afasta a aplicação do princípio da insignificância.
+3. Discute-se, ainda, se o benefício pode ser reconhecido mesmo com valor do bem subtraído acima de 10% (dez por cento) do salário mínimo vigente à época dos fatos.
+III. Razões de decidir
+4. A habitualidade delitiva do agravante, evidenciada pela reincidência e pela existência de outras ações penais em curso, afasta a aplicação do princípio da insignificância, conforme entendimento pacificado do Superior Tribunal de Justiça.
+5. O valor do bem subtraído é elevado, avaliado em R$ 246,98, equivalente a aproximadamente 18% (dezoito por cento) do salário mínimo vigente à época dos fatos; situação que também afasta a possibilidade de reconhecimento do benefício.
+6. O acórdão recorrido está em consonância com os precedentes do Superior Tribunal de Justiça, incidindo o Enunciado Sumular n. 83 do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A habitualidade delitiva afasta a aplicação do princípio da insignificância. 2. A presença de ações penais em curso e inquéritos policiais em andamento por crimes patrimoniais denota maior reprovabilidade da conduta, inviabilizando a aplicação do princípio da insignificância. 3. O alto valor do bem subtraído impede o reconhecimento da insignificância penal".
+Dispositivos relevantes citados: RISTJ, art. 253, parágrafo único, inciso II, alínea "a".
+Jurisprudência relevante citada: STJ, AgRg no HC 881.822/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 3/7/2024; STJ, AgRg no AREsp 2.022.596/DF, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 3/10/2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MATHEUS ALVES em face de decisão por mim proferida, em que conheci do agravo para negar provimento ao recurso especial.
+A Defesa r equer a reforma do acórdão para reconhecer a aplicação do princípio da insignificância em relação ao crime de furto. Aduz que, " e mbora o agravante seja reincidente; no processo ora analisado, o valor dos bens subtraídos corresponde a R$ 246,98 (duzentos e quarenta e seis reais e noventa e oito centavos), ou seja, pouco mais do que 18% do salário-mínimo vigente na época dos fatos." (e-STJ, fl. 363)
+Assim, postula a reconsideração da decisão monocrática ou que submeta este Agravo Regimental à apreciação da Turma.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental no agravo em recurso especial. furto. Princípio da insignificância. Habitualidade delitiva. VALOR DO BEM NÃO REDUZIDO. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação do agravante por furto, com base na inaplicabilidade do princípio da insignificância.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a habitualidade delitiva do agravante afasta a aplicação do princípio da insignificância.
+3. Discute-se, ainda, se o benefício pode ser reconhecido mesmo com valor do bem subtraído acima de 10% (dez por cento) do salário mínimo vigente à época dos fatos.
+III. Razões de decidir
+4. A habitualidade delitiva do agravante, evidenciada pela reincidência e pela existência de outras ações penais em curso, afasta a aplicação do princípio da insignificância, conforme entendimento pacificado do Superior Tribunal de Justiça.
+5. O valor do bem subtraído é elevado, avaliado em R$ 246,98, equivalente a aproximadamente 18% (dezoito por cento) do salário mínimo vigente à época dos fatos; situação que também afasta a possibilidade de reconhecimento do benefício.
+6. O acórdão recorrido está em consonância com os precedentes do Superior Tribunal de Justiça, incidindo o Enunciado Sumular n. 83 do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A habitualidade delitiva afasta a aplicação do princípio da insignificância. 2. A presença de ações penais em curso e inquéritos policiais em andamento por crimes patrimoniais denota maior reprovabilidade da conduta, inviabilizando a aplicação do princípio da insignificância. 3. O alto valor do bem subtraído impede o reconhecimento da insignificância penal".
+Dispositivos relevantes citados: RISTJ, art. 253, parágrafo único, inciso II, alínea "a".
+Jurisprudência relevante citada: STJ, AgRg no HC 881.822/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 3/7/2024; STJ, AgRg no AREsp 2.022.596/DF, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 3/10/2022.
+VOTO
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar a decisão agravada, motivo pelo qual a mantenho por seus próprios fundamentos
+No tocante ao pedido de aplicação do princípio da insignificância, assim se manifestou a Corte de origem:
+"Além disso, a aplicação do princípio da insignificância se mostra incabível, cuja valoração se dá por meio da consideração global da ordem jurídica, e não apenas de acordo com a importância do bem atingido.
+Na hipótese dos autos, o acusado tem 06 anotações criminais contra si, das quais constam uma condenação transitada em julgado em data anterior aos fatos ora imputados, em total contradição com o "reduzidíssimo grau de reprovabilidade do comporta- mento" exigido pela jurisprudência do Superior Tribunal de Justiça para o reconhecimento do aludido princípio, daí por que a intervenção do Direito Penal se faz necessária, como forma de impedir a prática reiterada de infrações penais.
+Ademais, o valor da res furtiva supera a décima par- te do salário mínimo vigente à época da conduta criminosa, o que se mostra relevante em termos de lesão patrimonial, segundo o critério adotado pelo STJ, para quem "a jurisprudência desta Corte Superior de Justiça firmou-se no sentido de ser incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos" (AgRg no REsp n. 2.132.837/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2024, D Je de 17/6/2024)" (e-STJ, fl. 25).
+O "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (STF, HC 84.412/SP, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, DJ 19/11/2004).
+O instituto baseia-se na necessidade de lesão jurídica expressiva para a incidência do Direito Penal, afastando a tipicidade do delito em certas hipóteses em que, apesar de típica a conduta, é o dano juridicamente irrelevante.
+No que tange à inexpressividade da lesão jurídica, a jurisprudência desta Corte, dentre outros critérios, aponta o parâmetro da décima parte do salário mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial. A propósito:
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. PECULIARIDADES DO CASO EM CONCRETO. REPROVABILIDADE DA CONDUTA. REINCIDÊNCIA E VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. SÚMULA 568/STJ. 1. Esta Corte Superior tem afastado a incidência do princípio da insignificância nos casos em que o valor do bem subtraído ultrapassa o percentual de 10% do salário mínimo vigente à época dos fatos, bem como quando se tratar de acusado reincidente, contumaz na prática de delitos, como na hipótese desses autos. 2. Agravo regimental improvido." (AgRg no AREsp 1.538.022/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. VALOR DA RES FURTIVA SUPERIOR A 10% DO SALÁRIO MÍNIMO. CONCURSO DE AGENTES. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. Conforme jurisprudência desta Corte, a prática do delito de furto qualificado pelo concurso de agentes, caso dos autos, afasta a aplicação do princípio da insignificância, mormente quando se extrai dos autos a informação de que o valor dos bens subtraídos ultrapassa 10 % do salário mínimo vigente à época dos fatos. 2. Agravo regimental desprovido." (AgRg no REsp 1.847.979/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/02/2020, DJe 19/02/2020).
+No caso, inviável o reconhecimento da atipicidade delitiva, pois o valor do bem subtraído é elevado, avaliado em R$ 246,98, equivalente a aproximadamente 18% (dezoito por cento) do salário mínimo vigente à época dos fatos; situação que afasta a possibilidade de reconhecimento do benefício.
+Ademais, a habitualidade delitiva do agravante, evidenciada pela reincidência e pela existência de outras ações penais em curso, também afasta a aplicação do princípio da insignificância, conforme entendimento pacificado do Superior Tribunal de Justiça.
+Como se sabe, o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NA PETIÇÃO NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE DELITIVA. MULTIRREINCIDENTE EM CRIMES PATRIMONIAIS. REGIME INICIAL SEMIABERTO. RÉU REINCIDENTE. MAUS ANTECEDENTES. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não incide o princípio da insignificância em casos nos quais o réu é habitual na prática de crimes contra o patrimônio.
+Precedentes.
+2. No caso em exame, apesar do valor reduzido do bem furtado, deve ser mantida a decisão que não aplica o princípio da insignificância, pois o acusado tem cinco condenações definitivas pela prática de crimes patrimoniais, situação que denota sua habitualidade na prática delitiva.
+3. Quanto ao regime prisional, o Tribunal de origem fixou o modo semiaberto ao réu, que é reincidente e teve a pena-base fixada acima do mínimo legal. Portanto, não é cabível maior abrandamento do regime, como pretende a defesa, sobretudo porque a Corte local já decidiu de forma benéfica ao acusado.
+4. Agravo regimental não provido."
+(AgRg no AgRg na PET no HC n. 925.166/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+"DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. CRIME DE DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE DELITIVA CONFIGURADA. EXISTÊNCIA DE PROCEDIMENTOS ADMINISTRATIVOS FISCAIS E AÇÕES PENAIS ANTERIORES. RESTABELECIMENTO DA SENTENÇA CONDENATÓRIA. RECURSO PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público Federal contra acórdão do Tribunal Regional Federal da 4ª Região que deu provimento à apelação interposta pela defesa para absolver a ré, Amanda Henrique Roboton, com fundamento no art. 386, inciso III, do Código de Processo Penal, reconhecendo a aplicação do princípio da insignificância no crime de descaminho (art. 334, caput, do Código Penal), em razão do valor dos tributos iludidos (R$ 7.288,15) ser inferior ao parâmetro de R$ 20.000,00 estabelecido na jurisprudência. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:(i) determinar se a aplicação do princípio da insignificância, no caso concreto, é afastada pela habitualidade delitiva da ré, evidenciada pela existência de múltiplas autuações fiscais e ações penais em curso; e(ii) verificar se o acórdão do Tribunal de origem, ao absolver a recorrida, contrariou a jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal sobre o afastamento do princípio da insignificância em casos de reiteração criminosa. III. RAZÕES DE DECIDIR
+3. A habitualidade delitiva da recorrida está configurada pela existência de, pelo menos, três autuações fiscais anteriores e duas ações penais em curso, nas quais é imputada a prática reiterada de descaminho, além de uma condenação em primeiro grau, circunstâncias que evidenciam a contumácia delitiva.
+4. A jurisprudência consolidada do STJ e do STF estabelece que a reiteração de condutas ilícitas, mesmo sem trânsito em julgado de todas as ações, afasta a aplicação do princípio da insignificância, considerando o maior grau de reprovabilidade da conduta e a lesão à ordem tributária.
+5. O entendimento de que a habitualidade delitiva inviabiliza o reconhecimento da atipicidade material no crime de descaminho foi reafirmado em julgados do STJ, inclusive sob a sistemática dos recursos repetitivos (Tema 1218), nos quais se destacou que a contumácia pode ser demonstrada por autuações fiscais ou ações penais pendentes de definitividade, não sendo aplicável o prazo de depuração do art. 64, inciso I, do Código Penal.
+6. No caso concreto, a absolvição da recorrida pelo Tribunal de origem, com base no princípio da insignificância, contraria os precedentes desta Corte, que demandam o afastamento do referido princípio em situações de reiteração criminosa.
+7. Restou comprovado que a recorrida foi autuada pela Receita Federal em, pelo menos, três ocasiões anteriores (16/08/2020, 07/10/2020 e 20/01/2021), além de responder a outras ações penais pelo mesmo delito, evidenciando a habitualidade delitiva e justificando a manutenção da persecução penal. IV. DISPOSITIVO E TESE
+8. Recurso provido."
+(REsp n. 2.069.452/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+"DIREITO PENAL. AGRAVO REGIMENTAL. PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação do agravante por furto, com base na inaplicabilidade do princípio da insignificância.
+2. O Tribunal a quo considerou que, apesar do valor da res furtiva ser inferior a 10% do salário mínimo vigente à época dos fatos, a habitualidade delitiva do agravante, evidenciada por diversas ações penais em curso, impede a aplicação do princípio da insignificância.
+II. Questão em discussão3. A questão em discussão consiste em saber se a habitualidade delitiva do agravante afasta a aplicação do princípio da insignificância, mesmo quando o valor da res furtiva é inferior a 10% do salário mínimo vigente à época dos fatos.
+III. Razões de decidir4. A habitualidade delitiva do agravante, evidenciada por diversas ações penais em curso, afasta a aplicação do princípio da insignificância, conforme entendimento pacificado do Superior Tribunal de Justiça.
+5. A presença de ações penais em curso e inquéritos policiais em andamento por crimes patrimoniais denota maior reprovabilidade da conduta, inviabilizando a aplicação do princípio da insignificância.
+6. O acórdão recorrido está em consonância com os precedentes do Superior Tribunal de Justiça, incidindo o Enunciado Sumular n. 83 do STJ.
+IV. Dispositivo e tese7. Agravo regimental improvido.
+Tese de julgamento: "1. A habitualidade delitiva afasta a aplicação do princípio da insignificância, mesmo quando o valor da res furtiva é inferior a 10% do salário mínimo vigente à época dos fatos. 2. A presença de ações penais em curso e inquéritos policiais em andamento por crimes patrimoniais denota maior reprovabilidade da conduta, inviabilizando a aplicação do princípio da insignificância".
+Dispositivos relevantes citados: RISTJ, art. 253, parágrafo único, inciso II, alínea a. Jurisprudência relevante citada: STJ, AgRg no HC 881.822/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 3/7/2024; STJ, AgRg no AREsp 2.022.596/DF, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 3/10/2022."
+(AgRg no AREsp n. 2.792.662/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025.)
+Assim, não resta configurada a excepcionalidade apontada nos precedentes deste Superior Tribunal de Justiça, por se tratar de acusado contumaz na prática de delitos, o que afasta o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
