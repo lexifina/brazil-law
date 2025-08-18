@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. NOTA DE VENDA DO AUTOMÓVEL EM LEILÃO JUDICIAL. IDONEIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO .
+1. Na hipótese, o Tribunal de Justiça concluiu que "nada sugere a falsidade da Nota de Venda apresentada pelo réu, porque contém informações verossímeis, compatíveis com este tipo de transação, incluindo dados pessoais do arrematante". Incidência da Súmula 7 do STJ.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por FERNANDA FERREIRA DA SILVA SOUZA contra decisão monocrática da Presidência do STJ (e-STJ, fls. 228-229), que não conheceu do recurso especial, em virtude da ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial.
+Nas razões do agravo interno, a agravante requer a reconsideração da decisão agravada, alegando que houve a devida impugnação dos respectivos fundamentos por ela adotados.
+Foi apresentada impugnação (e-STJ, fls. 241-251).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. NOTA DE VENDA DO AUTOMÓVEL EM LEILÃO JUDICIAL. IDONEIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO .
+1. Na hipótese, o Tribunal de Justiça concluiu que "nada sugere a falsidade da Nota de Venda apresentada pelo réu, porque contém informações verossímeis, compatíveis com este tipo de transação, incluindo dados pessoais do arrematante". Incidência da Súmula 7 do STJ.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+Afiguram-se relevantes as alegações do presente recurso, razão pela qual merece provimento o presente agravo interno.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 171):
+APELAÇÃO. APELAÇÃO. AÇÃO DE EXIGIR CONTAS. VEÍCULO AUTOMOTOR. ALIENAÇÃO FIDUCIÁRIA. Contas consideradas boas, reconhecendo-se saldo credor em favor da financeira. Inconformismo da autora. Idoneidade da Nota de Venda apresentada pelo réu. ELEVAÇÃO DO PREÇO PARA O EQUIVALENTE À TABELA FIPE. Impossibilidade. Ausência de informações sobre as condições do veículo. Alienação por 66,81% da Tabela FIPE, que não se mostra aviltante. Efetividade da alienação extrajudicial. VERBA SUCUMBENCIAL. Não incidência do disposto no art. 85, §8º-A, do CPC, dada a impossibilidade de aplicação indistinta dos parâmetros sugeridos pela Seccional da OAB. Honorários fixados em R$ 1.500,00, por equidade. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a agravante aponta, além de dissídio jurisprudencial, violação dos arts. 428 e 429 do Código de Processo Civil de 2015, sustentando, em síntese, isto: (I) o Tribunal de origem deixou de observar que a nota de venda apresentada carece de validade, sendo necessária sua impugnação; (II) "(..) para a apreciação das contas, deve-se haver a apresentação de documento de venda idôneo, com assinatura válida para que se cumpra os dispositivos dos artigos supramencionados" (e-STJ, fl. 194); e (III) "(..) para que haja comprovação de venda, deve-se haver requisitos mínimos de validade, fato que não ocorre nos presentes autos. Em contrapartida, a conclusão do Egrégio Tribunal a quo foi divergente: mesmo sem comprovações mínimas de validade, a nota deve ser considerada" (e-STJ, fl. 197).
+Decido.
+No caso, o recurso especial é oriundo de ação de prestação de contas, em segunda fase, movida pela devedora fiduciante em face do ora agravado. As contas apresentadas pelo credor fiduciário, ora agravado, foram julgadas boas. Apela a devedora fiduciante insistindo na invalidade da nota de venda do automóvel em leilão judicial, por não possuir assinatura que ateste sua veracidade.
+O Tribunal a quo manteve a sentença consignando, na oportunidade, a idoneidade do documento apto a comprovar o valor obtido no leilão extrajudicial. Confira-se, por oportuno, o voto condutor do acórdão recorrido:
+Em setembro de 2011 FERNANDA FERREIRA DA SILVA SOUZA celebrou com BANCO BRADESCO FINANCIAMENTOS S/A contrato de financiamento garantido pela alienação fiduciária de um veículo "zero quilômetro", obrigando-se a pagar 60 parcelas de R$ 1.504,35 (fls. 10/16). Em dezembro de 2015, em razão do inadimplemento, a credora fiduciária retomou a posse do bem (fls. 17). Em janeiro de 2024 a devedora fiduciante ajuizou esta ação de exigir contas, pretendendo saber se há saldo em seu favor após o leilão extrajudicial do automóvel.
+Citado (fls. 43), o réu apresentou suas contas. Demonstrou que a autora deixou de pagar as prestações a partir daquela 43ª, vencida em outubro de 2015, alcançando a dívida o valor de R$ 29.546,19, atualizada até janeiro de 2016, quando foram obtidos, no leilão judicial, R$ 19.000,00, já descontada a comissão do leiloeiro (fls. 132). O saldo devedor, de R$ 10.546,19, atualizado monetariamente até março de 2024, alcança R$ 58.110,89 (fls. 86/90).
+A autora, por seu turno, alegou que a ré não juntou aos autos documento apto a comprovar o valor obtido no leilão extrajudicial, de modo que deve ser considerado o valor apontado na Tabela FIPE, de R$ 34.453,00. Assim, calcula existir, em seu favor, saldo de R$ 4.906,81, que deve ser atualizado desde a apreensão do bem, em dezembro de 2015.
+O réu impugnou o valor de mercado do bem, que seria de R$ 29.860,00 (fls. 110).
+Sobreveio a r. sentença, que julgou boas as contas apresentadas pelo réu.
+Nada sugere a falsidade da Nota de Venda apresentada pelo réu, porque contém informações verossímeis, compatíveis com este tipo de transação, incluindo dados pessoais do arrematante.
+Sobre a idoneidade do documento, confira-se a jurisprudência deste E. Tribunal:
+(..)
+Ainda que assim não fosse, o preço da venda do automóvel em leilão (R$ 19.950,00 fls. 132) corresponde a 66,81% do valor indicado na tabela FIPE (R$ 29.860,00 disponível em: <http://veiculos.fipe.org.br carro/nissan/1-2016/023067-7/2011/g/pmflrcn96mfx >), percentual que reputo não consubstanciar preço vil, tendo em vista ser necessário garantir a efetividade da alienação.
+Ressalta-se que não se tem conhecimento das condições do veículo, e nenhum bem é adquirido em leilão pelo preço da avaliação, porque a aquisição envolve maior risco, desconhecimento do anterior proprietário e do histórico.
+A exigência de venda pelo valor integral desvirtuaria o instituto, tornaria praticamente inútil a garantia.
+(..)
+Destarte, a venda ocorreu regularmente e o valor considerado é aquele que a lei não considera vil, nos termos do art. 891, parágrafo único do CPC. (Sem grifo no original)
+Esclareceu, ainda, em sede de embargos de declaração, in verbis:
+No caso, inexiste omissão, contradição ou obscuridade.
+O v. acórdão foi claro:
+Nada sugere a falsidade da Nota de Venda apresentada pelo réu, porque contém informações verossímeis, compatíveis com este tipo de transação, incluindo dados pessoais do arrematante.
+Sobre a idoneidade do documento, confira-se a jurisprudência deste E. Tribunal (..).
+Ainda que assim não fosse, o preço da venda do automóvel em leilão (R$ 19.950,00 fls. 132) corresponde a 66,81% do valor indicado na tabela FIPE (R$ 29.860,00), percentual que reputo não consubstanciar preço vil, tendo em vista ser necessário garantir a efetividade da alienação.
+Ressalta-se que não se tem conhecimento das condições do veículo, e nenhum bem é adquirido em leilão pelo preço da avaliação, porque a aquisição envolve maior risco, desconhecimento do anterior proprietário e do histórico.
+A exigência de venda pelo valor integral desvirtuaria o instituto, tornaria praticamente inútil a garantia.
+Como se vê, o réu se desincumbiu satisfatoriamente de seu ônus probatório. A fé do documento particular não cessa com a impugnação genérica, desacompanhada de elementos ao menos indiciários da falsidade, como no caso. As datas, os valores e os dados do arrematante constantes da Nota de Venda apresentada são suficientes para a rejeição da impugnação da autora.
+O próprio leiloeiro descontou sua comissão, no valor de R$ 950,00, do montante obtido com o leilão extrajudicial, imediatamente após o ato. Assim, o réu nunca recebeu a integralidade do preço, apenas os R$ 19.000,00 que foram devidamente considerados nas contas apresentadas.
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, no que tange à comprovação da idoneidade da nota de venda apresentada, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos do disposto na Súmula 7 deste Pretório.
+Alie-se a isso o fato de o eg. Tribunal a quo ter consignado que, "como se vê, o réu se desincumbiu satisfatoriamente de seu ônus probatório. A fé do documento particular não cessa com a impugnação genérica, desacompanhada de elementos ao menos indiciários da falsidade, como no caso. As datas, os valores e os dados do arrematante constantes da Nota de Venda apresentada são suficientes para a rejeição da impugnação da autora. O próprio leiloeiro descontou sua comissão, no valor de R$ 950,00, do montante obtido com o leilão extrajudicial, imediatamente após o ato. Assim, o réu nunca recebeu a integralidade do preço, apenas os R$ 19.000,00 que foram devidamente considerados nas contas apresentadas". Contudo, tais fundamentos, autônomos e suficientes à manutenção do v. acórdão recorrido, não foram devidamente impugnados pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão ora agravada e, em novo julgamento, con heço do agravo para não conhecer do recurso especial.
+É como voto.
