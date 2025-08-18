@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACORDO JUDICIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO DA EXECUTADA. DESÍDIA. PRETENSÃO. PRESCRIÇÃO DIRETA. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIOS DA CAUSALIDADE E DA SUCUMBÊNCIA. BASE DE CÁLCULO. PROVEITO ECONÔMICO OBTIDO.
+1. O credor exequente deve pagar honorários com base no proveito econômico no caso de extinção do processo em razão da prescrição direta da pretensão executiva.
+2. O Código de Processo Civil impõe que os honorários advocatícios sucumbenciais sejam fixados no patamar de 10% (dez por cento) a 20% (vinte por cento), subsequentemente calculados sobre o valor (I) da condenaçã o, (II) do proveito econômico obtido ou (III) do valor atualizado da causa, nos termos do art. 85, § 2º, do diploma processual.
+3. Agravo interno provido. Decisão de e-STJ fls. 615/618 reconsiderada para conhecer do agravo e dar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por TALITA PAZINATO TONELLO contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial devido à ausência de prequestionamento e de comprovação do dissídio jurisprudencial (e-STJ fls. 615/618).
+Em suas razões (e-STJ fls. 621/624), a agravante alega que a matéria apontada como violada no apelo nobre, referente à necessidade de alteração da base de cálculo dos honorários advocatícios para o proveito econômico obtido com extinção da execução, foi devidamente enfrentada no acórdão recorrido, não havendo falar em falta de prequestionamento.
+Aduz que o aresto recorrido afronta o decidido pelo Superior Tribunal de Justiça no Tema nº 1.076/STJ.
+Ao final, requer a reconsideração da decisão atacada ou a submissão do feito ao colegiado.
+Devidamente intimada, a parte contrária não apresentou impugnação (e-STJ fl. 631).
+A anterior decisão do presente recurso (e-STJ fls. 641/644) foi declarada nula na decisão de e-STJ fls. 666/667 que julgou os embargos de declaração opostos pela ora agravante.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACORDO JUDICIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO DA EXECUTADA. DESÍDIA. PRETENSÃO. PRESCRIÇÃO DIRETA. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIOS DA CAUSALIDADE E DA SUCUMBÊNCIA. BASE DE CÁLCULO. PROVEITO ECONÔMICO OBTIDO.
+1. O credor exequente deve pagar honorários com base no proveito econômico no caso de extinção do processo em razão da prescrição direta da pretensão executiva.
+2. O Código de Processo Civil impõe que os honorários advocatícios sucumbenciais sejam fixados no patamar de 10% (dez por cento) a 20% (vinte por cento), subsequentemente calculados sobre o valor (I) da condenaçã o, (II) do proveito econômico obtido ou (III) do valor atualizado da causa, nos termos do art. 85, § 2º, do diploma processual.
+3. Agravo interno provido. Decisão de e-STJ fls. 615/618 reconsiderada para conhecer do agravo e dar provimento ao recurso especial.
+VOTO
+No presente caso, resta nítido o equívoco em que incorreu a decisão atacada ao entender pela ausência de prequestionamento do artigo 85, § 2º, do CPC.
+Logo, assiste razão à recorrente, motivo pelo qual se faz merecedora de reparos a decisão ora atacada quanto ao ponto.
+De acordo com os autos, a discussão da presente demanda gira em torno do cumprimento de sentença proposto pela Cooperativa Agroindustrial Alfa, ora agravada, contra Talita Pazinato, ora agravante, onde a questão central é a prescrição da pretensão executória.
+A sentença de primeira instância declarou extinto o feito em razão da prescrição, com base no art. 487, II, do CPC, devido à ausência de interrupção do prazo prescricional, uma vez que não houve intimação regular da parte executada para o cumprimento da sentença.
+A Cooperativa agravada apelou da sentença alegando que não houve desídia de sua parte e que não foi pessoalmente intimada para dar seguimento aos atos executórios, o que geraria nulidade do feito a partir da sentença recorrida. Argumentou também que o processo foi suspenso por ausência de bens passíveis de penhora e que a agravada deveria ser condenada aos honorários de sucumbência pelo princípio da causalidade.
+Por outro lado, a executada/agravante apelou buscando a alteração da base de cálculo dos honorários de sucumbência para que fossem fixados sobre o proveito econômico obtido com a extinção da execução, ao invés do valor atualizado da causa.
+O acórdão recorrido não conheceu do recurso da exequente devido à renúncia ao prazo recursal, mas conheceu e negou provimento ao recurso da executada, mantendo a fixação dos honorários sucumbenciais em 10% sobre o valor atualizado da causa, conforme o art. 85, § 2º, do CPC.
+Eis a letra do acórdão:
+"APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. SENTENÇA DE EXTINÇÃO. PRESCRIÇÃO DIRETA. RECURSO DE AMBAS AS PARTES.
+RECURSO DA EXEQUENTE. PRELIMINAR EM CONTRARRAZÕES. NÃO CONHECIMENTO DO RECURSO. ACOLHIMENTO. APELANTE QUE, INTIMADA DA SENTENÇA, RENUNCIOU AO PRAZO RECURSAL. ATO INCOMPATÍVEL COM A VONTADE DE RECORRER. PRECLUSÃO LÓGICA. PRECEDENTES DESTE TRIBUNAL. RECURSO NÃO CONHECIDO.
+RECURSO DA EXECUTADA. HONORÁRIOS DE SUCUMBÊNCIA FIXADOS EM PERCENTUAL SOBRE O VALOR ATUALIZADO DA CAUSA. MANUTENÇÃO (ART. 85, § 2º, DO CPC).
+HONORÁRIOS RECURSAIS. CABIMENTO.
+RECURSO DA EXEQUENTE NÃO CONHECIDO. RECURSO DA EXECUTADA CONHECIDO E DESPROVIDO" (e-STJ fl. 458).
+A questão dos honorários de sucumbência também foi objeto de embargos de declaração, que foram rejeitados, com a alegação de que não havia obscuridade no acórdão embargado.
+Irresignada, busca a recorrente a reforma do julgado.
+Em síntese, a discussão envolve a prescrição da pretensão executória e a base de cálculo dos honorários de sucumbência, com alegações de nulidade processual e divergência jurisprudencial sobre a aplicação do Tema 1076 do STJ.
+Alega a recorrente que a base de cálculo dos honorários sucumbenciais deve ser fixada com base no proveito econômico, tendo em vista que o cumprimento de sentença foi extinto com resolução do mérito em razão da fluência da prescrição, de modo que há proveito econômico mensurável, consistente no valor da dívida perseguida.
+Neste caso, de acordo com a jurisprudência desta Corte Superior, a parte credora responde pelos honorários sucumbenciais.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO JULGADOS PROCEDENTES. RECONHECIMENTO DA INEXIGILIBIDADE DO TÍTULO EXECUTIVO EXTRAJUDICIAL PELA PRESCRIÇÃO. HONORÁRIOS SUCUMBENCIAIS. CABIMENTO. RECURSO PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal Regional Federal da 2ª Região, que manteve decisão de primeiro grau considerou indevidos os honorários sucumbenciais em embargos à execução julgados procedentes, pelo reconhecimento da inexigibilidade do título executivo extrajudicial pela prescrição. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a extinção da execução, em razão do reconhecimento da prescrição da pretensão executória, enseja a condenação do embargado ao pagamento de honorários advocatícios sucumbenciais; e (ii) definir se o princípio da causalidade justifica a não fixação da verba honorária no caso concreto. III. RAZÕES DE DECIDIR
+3. O critério da sucumbência impõe a condenação em honorários advocatícios à parte vencida.
+4. O critério da causalidade determina que responde pelo custo do processo aquele que haja dado causa a ele, seja ao propor demanda inadmissível ou sem ter razão, seja obrigando quem tem razão a vir a juízo para obter ou manter aquilo a que já tinha direito.
+5.Nos termos da jurisprudência do Superior Tribunal de Justiça (Tema 1229) nas execuções fiscais extintas em virtude do reconhecimento da prescrição intercorrente, não são devidos honorários sucumbenciais pois tal reconhecimento não elimina as premissas que autorizavam o ajuizamento da execução fiscal, relacionadas com a presunção de certeza e liquidez do título executivo e com a inadimplência do devedor, sob pena de indevidamente beneficiar a parte que não cumpriu oportunamente com a sua obrigação.
+6. No caso concreto, não se trata de prescrição intercorrente, mas de execução ajuizada com base em título prescrito, circunstância que caracteriza a responsabilidade do exequente pelo ajuizamento indevido da ação.
+7. Ao propor a execução com base em título inexigível, a recorrida obrigou a parte executada a se defender judicialmente, tornando cabível a condenação em honorários advocatícios, seja pelo critério da sucumbência, seja pelo critério da causalidade. IV. DISPOSITIVO
+8.Recurso especial provido."
+(Resp 2.073.846/RJ, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025).
+Logo, não havendo controvérsia quanto à responsabilidade da parte credora em responder pelos honorários sucumbenciais, passa-se ao exame da base de cálculo que deve incidir.
+Sobre o tema, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp nº 1.746.072/PR, decidiu que o § 2º do art. 85 do Código de Processo Civil constitui a regra geral no sentido de que os honorários sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+Destacou a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+Eis a ementa do referido julgado:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a.I) nas causas de pequeno valor; (a.II) nas de valor inestimável; (a.III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a.IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b.I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b.II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido. Segundo recurso especial desprovido."
+(REsp 1.746.072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ acórdão Ministro RAUL ARAÚJO, Segunda Seção, julgado em 13/2/2019, DJe de 29/3/2019 - grifou-se)
+No caso dos autos, o aresto recorrido manteve a fixação dos honorários com base no valor da causa.
+Assim, verifica-se que o aresto combatido se encontra em desarmonia com a jurisprudência do Superior Tribunal de Justiça.
+De fato, a verba honorária deveria ter sido arbitrada sobre o proveito econômico obtido com o resultado da demanda, que, no caso, corresponde ao valor da dívida.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284 DO STF. OFENSA À COISA JULGADA. AUSÊNCIA. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PROVEITO ECONÔMICO OBTIDO. VALOR DO TÍTULO EXECUTIVO NA DATA DO AJUIZAMENTO DA AÇÃO. ATUALIZAÇÃO COM OS MESMOS ENCARGOS DO TÍTULO SUBJACENTE À EXECUÇÃO. IMPOSSIBILIDADE.
+(..)
+3. A Segunda Seção desta Corte Superior perfilha o entendimento de que, na hipótese de extinção da execução, a base de cálculo dos honorários advocatícios é o montante do título executivo à data do ajuizamento da ação, corrigido monetariamente, descabendo a atualização com os mesmos encargos do contrato subjacente à execução. Precedentes.
+4. Agravo interno não provido."
+(AgInt no REsp n. 2.112.471/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS DO DEVEDOR. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS. PROVEITO ECONÔMICO PRETENDIDO EQUIVALENTE AO VALOR DA CAUSA. REVISÃO. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento jurisprudencial do Superior Tribunal de Justiça é no sentido de que, na extinção da execução por procedência dos embargos do devedor, os honorários sucumbenciais devem ser calculados com base no proveito econômico obtido pelo executado, o qual, corresponde ao valor da dívida cobrada.
+(..)
+4. Agravo interno desprovido."
+(AgInt no REsp n. 2.159.019/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de e-STJ fls. 615/618 e, em novo exame, conheço do agravo para dar provimento ao recurso especial a fim de fixar os honorários sucumbenciais devidos ao patrono da recorrente em 12% (doze por cento) sobre o proveito econômico obtido com a extinção da demanda.
+É o voto.
