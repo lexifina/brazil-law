@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GILMAR JOSÉ LIMBERGER à decisão monocrática desta relatoria às fls. 1.658-1660 (e-STJ), que determinou a devolução dos autos à Corte de origem para aguardar o julgamento, pelo Superior Tribunal de Justiça, de tese a ser firmada sob o rito dos recursos especiais repetitivos, assim ementada:
+RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. MOTORISTA/COBRADOR DE ÔNIBUS OU MOTORISTA DE CAMINHÃO. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.307 DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
+Em suas razões (e-STJ, fls. 1.665-1.666), o embargante sustenta, em resumo, haver erro material na decisão embargada no que diz respeito à questão a ser decidida no presente processo (Tema 1.307/STJ) e aquela a ser julgada no Tema n. 1.313/STJ, o qual foi incorretamente apontado como motivo da devolução dos autos ao Tribunal de origem.
+Sem impugnação.
+Brevemente relatado, decido.
+Razão assiste ao embargante.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+No caso, o que se pretende é o desfazimento de erro material, concernente à determinação do retorno dos presentes autos ao Tribunal de origem, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.313/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+A alegada incongruência decorreria do fato de que, nos presentes autos, a questão controvertida amolda-se ao Tema 1.307/STJ, e não àquela a ser definida no Tema 1.313/STJ.
+De fato, ao analisar as questões aduzidas no recurso especial, verifica-se que o julgado embargado, embora tenha indicado haver nestes autos discussão atinente ao Tema 1.307/STJ, isto é, definir se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995, registrou, de modo equivocado, que o sobrestamento do feito deveria ficar atrelado ao julgamento dos recursos repetitivos vinculados ao Tema 1.313/STJ.
+Dessa forma, é de se reconhecer que a referida deliberação unipessoal (e-STJ, fls. 1.658-1.660) incorre u em erro material ao consignar, em seu dispositivo, que o sobrestamento dos autos, na origem, estaria vinculado ao Tema 1.313/STJ, motivo pelo qual, com vistas a afastar tal incongruência, o referido trecho passa a ter a seguinte redação:
+"Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.307/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015."
+Diante do exposto, acolho os embargos de declaração para corrigir o erro material identificado na decisão embargada, nos termos acima explicitados.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ERRO MATERIAL VERIFICADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
