@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS MONITÓRIOS. ALEGAÇÃO DE AGIOTAGEM. JULGAMENTO ANTECIPADO DA LIDE. AUSÊNCIA DE PROVA DO DIREITO ALEGADO. CERCEAMENTO DE DEFESA. OCORRÊNCIA. PRECEDENTES.
+1. A sentença deixou consignado ser caso "eminentemente de direito, sem a menor necessidade de dilação probatória, cabendo, portanto, o julgamento antecipado da lide previsto no artigo 355, I, do CPC", sendo que, no julgamento do mérito, o juízo acabou concluindo, quanto à alegação de agiotagem, que não houve sua comprovação, sendo descabida a inversão do ônus da prova.
+2. Sem censura o entendimento das instâncias ordinárias de que a prova do alegado ilícito (agiotagem) cabe ao devedor, de modo que a inversão só é legítima diante de efetivos indícios. Precedentes.
+3. Se o juiz indefere a prova requerida e promove o julgamento antecipado da lide por entender estarem presentes todas as provas necessárias ao deslinde da controvérsia, não pode a sentença, atestando a ausência de provas, julgar contrariamente à parte, sem viabilizar o direito de sua produção, pois assim lhe vedaria o direito de instruir corretamente o processo, cerceando a defesa. 4. "Configura cerceamento de defesa o indeferimento de perícia e posterior imp rocedência do pedido em face da ausência da prova que se pretendia produzir" (AgInt no AREsp n. 457.204/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 7/12/2023).
+Agravo interno provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por GIOVANNI FERNANDES SANTOS contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. CERCEAMENTO DE DEFESA. PROVA PERICIAL. ÔNUS PROBATÓRIO. RECORRENTE. FORMADA A CONVICÇÃO DO MAGISTRADO. DESNECESSIDADE DA PRODUÇÃO DE NOVAS PROVAS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA. SÚMULA 83/STJ. DESCONTITUIR O ENTENDIMENTO PROFERIDO NO ACÓRDÃO DA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fls. 454-455):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CHEQUE. SENTENÇA DE PROCEDÊNCIA PARCIAL. INSURGÊNCIA DO RÉU. AUSÊNCIA DE DIALETICIDADE. REJEIÇÃO. PRELIMINAR DE CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVAS SUFICIENTES À APRECIAÇÃO DO PEDIDO INICIAL. AUSÊNCIA DE COMPROVAÇÃO DE PRÁTICA DE AGIOTAGEM. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE VEROSSIMILHANÇA DAS ALEGAÇÕES. CONVERSAS POR APLICATIVO DE MENSAGENS QUE APENAS TRATAM DA COBRANÇA DA DÍVIDA. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. JUÍZO COMO DESTINATÁRIO DA PROVA. CÁRTULA EMITIDA PELO APELANTE E DEVOLVIDA POR ENCERRAMENTO DA CONTA. DOCUMENTO HÁBIL A RESPALDAR A PRETENSÃO AUTORAL. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+1. Cumpriu o apelante seu ônus de contrastar efetivamente a sentença, mediante argumentação e exposição dos motivos de fato e de direito, bem ainda as razões do pedido de reforma que evidenciassem a intenção de alteração do julgado. Rejeita- se a tese de ausência de dialeticidade arguida nas contrarrazões.
+2. Contudo, nenhuma nulidade se verifica no trâmite processual apta a modificar o entendimento contido na sentença. Como destinatário da prova, cabe ao Juiz avaliar sua efetiva conveniência e necessidade, podendo limitar ou excluir as que considerar excessivas, impertinentes ou protelatórias, ou determinar a realização de todos os tipos de provas em direito admitido. A todos os litigantes é assegurado o contraditório e a ampla defesa, como corolários do devido processo legal, ficando caracterizado o cerceamento de defesa apenas quando evidenciada a necessidade de dilação probatória para aferição de aspecto relevante da causa
+3. Sobre a inversão do ônus os documentos apresentados, prints de conversa por aplicativo de mensagens, não foram suficientes e hábeis a demonstrar a verossimilhança da alegação da prática de usura. Ali não se verifica qualquer ameaça, mas tentativa do apelado de reaver o crédito, como observado na sentença.
+4. Assim, não se desincumbiu o apelante do seu ônus probatório, nos moldes previstos no art. 373 , II do CPC, uma vez que não demonstrou, de forma contundente a prática da atividade ilícita, capaz de afastar os fatos constitutivos do direito do autor. Existindo nos autos provas suficientes para o deslinde da questão, afasta-se a ocorrência de defesa, reputando-se preenchidos os requisitos autorizadores do julgamento antecipado, nos termos do art. 355, I, do CPC/2015.
+5. Não tendo sido comprovado nos autos a prática ilícita e instruído o feito com documento hábil a respaldar a pretensão inicial, dotado de aptidão e suficiência para influir na formação do livre convencimento do Juiz acerca da possibilidade do direito afirmado pelo autor, confirma-se a sentença vergastada.
+6. Recurso conhecido e improvido. Sentença mantida por seus próprios e jurídicos fundamentos.
+Rejeitados os embargos de declaração opostos (fls. 513-523).
+A agravante reitera, nas razões do recurso interno, que houve cerceamento de defesa em razão da inviabilidade de produção de prova.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada não apresentou contraminuta (fl. 673).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS MONITÓRIOS. ALEGAÇÃO DE AGIOTAGEM. JULGAMENTO ANTECIPADO DA LIDE. AUSÊNCIA DE PROVA DO DIREITO ALEGADO. CERCEAMENTO DE DEFESA. OCORRÊNCIA. PRECEDENTES.
+1. A sentença deixou consignado ser caso "eminentemente de direito, sem a menor necessidade de dilação probatória, cabendo, portanto, o julgamento antecipado da lide previsto no artigo 355, I, do CPC", sendo que, no julgamento do mérito, o juízo acabou concluindo, quanto à alegação de agiotagem, que não houve sua comprovação, sendo descabida a inversão do ônus da prova.
+2. Sem censura o entendimento das instâncias ordinárias de que a prova do alegado ilícito (agiotagem) cabe ao devedor, de modo que a inversão só é legítima diante de efetivos indícios. Precedentes.
+3. Se o juiz indefere a prova requerida e promove o julgamento antecipado da lide por entender estarem presentes todas as provas necessárias ao deslinde da controvérsia, não pode a sentença, atestando a ausência de provas, julgar contrariamente à parte, sem viabilizar o direito de sua produção, pois assim lhe vedaria o direito de instruir corretamente o processo, cerceando a defesa. 4. "Configura cerceamento de defesa o indeferimento de perícia e posterior imp rocedência do pedido em face da ausência da prova que se pretendia produzir" (AgInt no AREsp n. 457.204/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 7/12/2023).
+Agravo interno provido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Da melhor análise dos autos, prospera a pretensão da parte quanto ao reconhecimento do cerceamento de defesa.
+No caso dos autos, a sentença deixou consignado ser caso "eminentemente de direito, sem a menor necessidade de dilação probatória, cabendo, portanto, o julgamento antecipado da lide previsto no artigo 355, I, do CPC" (fl. 371), sendo que, no julgamento do mérito, o juízo acabou concluindo, quanto à alegação de agiotagem, que não houve sua comprovação, sendo descabida a inversão do ônus da prova (fl. 373):
+Não está, portanto, evidenciada a alegada prática de agiotagem por parte do credor, e, ausente tal evidência, o ônus de provar o alegado nesse sentido é do devedor, não se podendo invertê-lo.  .. .
+No Tribunal, consignou-se:
+O acervo probatório contido nos autos permitiram o julgamento antecipado da lide, sendo desnecessária a produção de outras provas. Ressalte-se, ainda, a emissão do cheque não foi negada pelo emitente.
+Sobre a inversão do ônus da prova, os documentos apresentados, prints de conversa por aplicativo de mensagens, não foram suficientes e hábeis a demonstrar a verossimilhança da alegação da prática de usura. Ali não se verifica qualquer ameaça, mas tentativa do apelado de reaver o crédito, como observado na sentença.
+Sem censura o entendimento das instâncias ordinárias de que a prova do alegado ilícito (agiotagem) cabe ao devedor, de modo que a inversão só é legítima diante de efetivos indícios:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INVERSÃO DO ÔNUS DA PROVA. NECESSIDADE DE INDÍCIOS SUFICIENTES DA PRÁTICA DE AGIOTAGEM. SÚMULAS 7 E 83/STJ. AGRAVO DESPROVIDO.
+ ..
+2. O Superior Tribunal de Justiça perfilha o entendimento de que a providência autorizada pela Medida Provisória n. 2.172-32/2001 não prescinde da existência de indícios suficientes da prática de agiotagem.
+3. Não há como infirmar o entendimento estadual - para concluir pela apresentação de indícios suficientes da prática de agiotagem - sem o prévio reexame de fatos e provas, procedimento obstado na seara extraordinária, em virtude do disposto no enunciado n. 7 da Súmula desta Corte de Justiça.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.479.832/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/4/2024.)
+Contudo, se o juízo julgou a lide de forma antecipada por entender estarem presentes todas as provas necessárias ao deslinde da controvérsia, não pode a sentença ou o acórdão, atestando a ausência de provas, julgar contrariamente ao recorrente, sem viabilizar o direito da produção de provas, pois assim vedaria à parte o direito de instruir corretamente o processo, cerceando-lhe a defesa.
+Nesse sentido, em precedente análogo, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS DO DEVEDOR. INDICAÇÃO DE EXCESSO DE COBRANÇA, DECORRENTE DA ALEGADA PRÁTICA DE AGIOTAGEM PELO EXEQUENTE. INTERESSE NA PRODUÇÃO DE PROVAS MANIFESTADO PELAS PARTES, EM ATENDIMENTO À CONSULTA QUE LHES FOI FEITA PELO MAGISTRADO. PEDIDO DOS EMBARGANTES DE QUE HOUVESSE A INVERSÃO DO ÔNUS DA PROVA, NOS TERMOS DO ART. 3º DA MEDIDA PROVISÓRIA N. 2.172-32/2001. SENTENÇA DE IMPROCEDÊNCIA DOS EMBARGOS, LASTREADA NA AUSÊNCIA DE PROVAS DAS ALEGAÇÕES DOS EMBARGANTES. DECISÃO PROFERIDA SEM QUE HOUVESSE PRONUNCIAMENTO SOBRE O PEDIDO DE PRODUÇÃO DE PROVAS FORMULADO POR AMBAS AS PARTES, NEM MESMO SOBRE A PLEITEADA INVERSÃO DO ÔNUS PROBATÓRIO. SENTENÇA RATIFICADA, NESSE PARTICULAR, PELO TRIBUNAL DE JUSTIÇA. CERCEAMENTO DE DEFESA CONFIGURADO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com a jurisprudência desta Corte Superior, há cerceamento de defesa quando o magistrado indefere a produção das provas requeridas pela parte e, ao mesmo tempo, profere julgamento que lhe é desfavorável por ausência de provas.
+2. Agravo interno improvido.
+(AgInt no REsp n. 1.432.645/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/2/2024.)
+A título de reforço:
+3. Configura cerceamento de defesa o indeferimento de perícia e posterior improcedência do pedido em face da ausência da prova que se pretendia produzir.
+(AgInt no AREsp n. 457.204/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 7/12/2023.)
+1. Configura-se cerceamento de defesa quando o tribunal julga improcedente o pedido por ausência de provas cuja produção foi indeferida no curso do processo.
+(AgInt no AREsp n. 1.638.009/MS, relator Ministro Og Fernandes, Segunda Turma, DJe de 10/8/2022.)
+2. O entendimento deste Tribunal Superior é de que ao magistrado é vedado julgar antecipadamente o feito e indeferir a tutela pretendida por ausência de prova oportunamente requerida.
+(AgInt no AREsp n. 1.925.739/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/3/2022.)
+1. A orientação jurisprudencial desta Corte firmou-se no sentido de que "ocorre cerceamento de defesa quando, proferido julgamento antecipado da lide, admite-se que não há prova do alegado pela ré" (REsp n. 898.123/SP, Relator o Ministro Jorge Scartezzini, DJ 19/3/2007) .
+(AgInt no AgInt no AREsp n. 1.528.849/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 26/10/2020.)
+1. Consoante jurisprudência desta Corte Superior, há cerceamento de defesa quando o magistrado profere julgamento antecipado da lide, contrário ao interesse da parte, com fundamento na ausência de prova de suas alegações.
+(AgInt no AREsp n. 1.396.378/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/6/2019.)
+Assim, na hipótese em análise, é de se reconhecer o cerceamento de defesa na hipótese, cabendo a cassação da sentença, a fim de que seja oportunizada a produção da prova e, em seguida, retome o julgamento como entender de direito.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 623-629 e, consequentemente, dar provimento ao recurso especial, nos termos da fundamentação.
+É como penso. É como voto.
