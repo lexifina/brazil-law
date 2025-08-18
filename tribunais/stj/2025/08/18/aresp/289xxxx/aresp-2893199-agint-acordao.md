@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS. MAJORAÇÃO. CRITÉRIOS OBJETIVOS. OBSERVÂNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o conteúdo dos preceitos legais tidos por violados não é examinado na origem, mesmo após a oposição de embargos de declaração.
+2. Esta Corte Superior tem entendido que o acolhimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, exige a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso presente.
+3. "De acordo com a jurisprudência do STJ, com amparo no art. 85, §11, do CPC/2015, são devidos honorários recursais "..quando presentes os seguintes requisitos cumulativos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação ao pagamento de honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017)"(AgInt no AREsp n. 2.115.743/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022).
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FEDERACAO DE FUTEBOL DO DISTRITO FEDERAL contra decisão da Presidência desta Corte Superior em que se conheceu do agravo para, com base na ausência de prequestionamento, não se conhecer de recurso especial.
+Na ocasião, ainda se promoveu a majoração dos honorários pelo art. 85, §11 do CPC/2015.
+A parte agravante alega, em síntese, que o tema suscitado em recurso especial, relativo à existência de coisa julgada, foi objeto de embargos de declaração na origem, sendo possível o reconhecimento do prequestionamento ficto da tese submetida a julgamento.
+Defende, ainda, ser indevida a majoração de honorários uma vez que na decisão monocrática "sequer houve enfrentamento substancial do mérito da controvérsia no Agravo Interno, e a decisão agravada limita-se a reiterar fundamentos genéricos de admissibilidade, aplicando majorante automática e desproporcional".
+Por fim, sust enta que a "majoração afronta os limites percentuais estabelecidos nos §§ 2º e 3º do mesmo art. 85 do CPC, os quais preveem balizas mínimas e máximas para fixação dos honorários, proporcionalmente ao valor da causa ou ao proveito econômico obtido".
+Contrarrazões apresentadas pelo não provimento do agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS. MAJORAÇÃO. CRITÉRIOS OBJETIVOS. OBSERVÂNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o conteúdo dos preceitos legais tidos por violados não é examinado na origem, mesmo após a oposição de embargos de declaração.
+2. Esta Corte Superior tem entendido que o acolhimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, exige a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso presente.
+3. "De acordo com a jurisprudência do STJ, com amparo no art. 85, §11, do CPC/2015, são devidos honorários recursais "..quando presentes os seguintes requisitos cumulativos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação ao pagamento de honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017)"(AgInt no AREsp n. 2.115.743/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022).
+4. Agravo interno desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Na decisão monocrática ora agravada, consignou-se que a tese suscitada pelo recorrente em seu apelo nobre, relativa à violação do art. 502 do CPC/2015 por ausência de reconhecimento da coisa julgada material, não foi objeto de prequestionamento pela instância ordinária, motivo pelo que não poderia ser conhecida em sede de recurso especial.
+Pleiteia o agravante que seja reconhecido o prequestionamento ficto da tese, tendo em vista a oposição, na origem, de embargos de declaração.
+Em atenção à alegação da agravante, cumpre anotar que o art. 1.025 do CPC/2015 dispõe que se "consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existente erro, omissão, contradição ou obscuridade".
+A regra processual, portanto, exige o reconhecimento da violação do art. 1.022 do CPC/2015 para o fim de admissão do prequestionamento ficto, questão sequer suscitada no recurso especial.
+Nesse sentido, dentre outros: AgInt no AREsp 1224882/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/06/2018, DJe 19/06/2018; AgInt no REsp 1707780/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 23/05/2018; AgInt no REsp 1669746/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018; AgInt no REsp 1650256/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 03/04/2018, DJe 09/05/2018.
+Assim, ressente-se o recurso especial do devido prequestionamento, já que não houve emissão de juízo pelo acórdão recorrido acerca das teses suscitadas no recurso especial, fazendo incidir o óbice constante na Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Some-se a isso que a falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula 211 do STJ.
+Sobre os honorários advocatícios recursais, a decisão agravada está de acordo com a orientação pacificada por esta Corte:
+ ..  5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de agravo interno e de embargos de declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.  ..
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.  ..
+(AgInt nos EREsp n. 1.539.725/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017.)
+No tema, destaco, ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. INVIABILIDADE. PREPARO. AGENDAMENTO BANCÁRIO. MEIO INIDÔNEO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. HONORÁRIOS RECURSAIS. MAJORAÇÃO RAZOÁVEL. AGRAVO INTERNO NÃO PROVIDO.  ..
+4. De acordo com a jurisprudência do STJ, com amparo no art. 85, § 11, do CPC/2015, são devidos honorários recursais "..quando presentes os seguintes requisitos cumulativos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação ao pagamento de honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017)".
+5. No caso em apreço, os requisitos para a majoração dos honorários foram devidamente preenchidos, além de não se mostrar excessiva a majoração dos honorários advocatícios em 15% sobre o valor já arbitrado nas instâncias ordinárias, na forma do art. 85, §11, do CPC/2015. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.115.743/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
