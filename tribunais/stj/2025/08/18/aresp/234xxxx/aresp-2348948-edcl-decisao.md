@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FABRICIA ELIANE CANTARANI JULIATO e por FATIMA ELAINE CANTARANI XAVIER contra a decisão de fls. 878-882, que negou provimento ao agravo e majorou os honorários advocatícios em 10% sobre o valor já arbitrado nas instâncias de origem.
+Em suas razões, as embargantes sustentam que a decisão embargada padece de contradição e omissão, porquanto não enfrentou todos os argumentos lançados nas razões recursais, especialmente no tocante à negativa de prestação jurisdicional. Alegam que o Tribunal a quo não analisou questões relevantes para a solução da controvérsia, como as conclusões periciais que indicam que a doença que levou ao óbito não era preexistente à contratação do seguro (fls. 885-891).
+Aduz que a exclusão da cobertura securitária depende da preexistência da doença ligada diretamente ao sinistro/evento, conforme cláusula 4.1, item "c" de fls. 93 dos autos, em harmonia com o art. 47 da Lei n. 8.078/1990. Sustentam que, quando da contratação do seguro, não foi exigido da segurada nenhum exame, o mesmo ocorrendo quando da renovação da apólice, conforme enunciado da Súmula n. 609 do STJ. Afirmam que, mesmo a segurada se declarando aposentada, a recorrida aceitou o contrato sem oposição alguma.
+A parte embargada apresentou impugnação, alegando que os embargos não devem ser acolhidos, pois não há omissão ou contradição na decisão impugnada, sendo um mero inconformismo da parte embargante. Requer a aplicação de multa por embargos meramente protelatórios (fls. 897-899).
+Requerem o provimento dos embargos para sanar a contradição e a omissão contidas na decisão embargada, analisando o conhecimento e provimento do agravo das embargantes.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Conforme pontuado na decisão embargada, a Corte estadual reformou a sentença, julgando improcedente a ação, ao concluir pela ausência de boa-fé da segurada na contratação do seguro, em razão da omissão de informações sobre seu estado de saúde.
+Ao contrário do que alega a parte embargante, não houve omissão do Tribunal de origem acerca da prova pericial, confira-se (fl. 699):
+Não há omissão alguma no acórdão proferido, que faz expressa referência à prova pericial, mas, por outro lado, concluiu pela ausência de boa-fé da segurada, pois ela contrariou cláusula contratual e disposição legal, ao omitir o seu estado de saúde quando da contratação.
+A argumentação trazida no recurso especial fundamenta-se na alegação de que não haveria prova de que, no momento da contratação, a segurada tinha conhecimento da doença que a levou a óbito.
+Entretanto, o Tribunal de origem, com base nas provas dos autos, concluiu que segurada prestou declarações falsas sobre seu estado de saúde, o que caracteriza má-fé e afasta o direito à indenização securitária. Nesse contexto, rever a conclusão do Tribunal a quo acerca da má-fé da segurada na contratação do seguro encontra óbice na incidência da Súmula n. 7 do STJ.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, po rquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Ante o exposto, rejeito os embargos de declaração .
+Publique-se. Intimem-se.
+EMENTA
