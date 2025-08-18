@@ -1,0 +1,127 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. DEPÓSITO JUDICIAL. JUROS DE MORA. RECURSO PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto por instituição financeira contra decisão que conheceu do agravo para negar provimento a recurso especial interposto contra acórdão proferido em sede de cumprimento de sentença de ação de consignação em pagamento, que manteve a homologação dos cálculos periciais e determinou a expedição de guia de levantamento em favor do autor.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional e se a instituição financeira depositária deve pagar juros de mora sobre os valores depositados judicialmente.
+III. Razões de decidir
+3. O Tribunal de origem não incorreu em negativa de prestação jurisdicional, pois fundamentou adequadamente sua decisão, ainda que de forma diversa do interesse da parte.
+4. A instituição financeira depositária não deve pagar juros de mora sobre os valores depositados judicialmente, salvo se houver atraso injustificado na restituição dos valores.
+IV. Dispositivo
+5. Recurso parcialmente provido para afastar a responsabilidade da instituição financeira depositária pelo pagamento de juros moratórios sobre os depósitos judiciais.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S/A contra decisão de fls. 5.199/5.203, que conheceu do seu agravo para negar provimento ao recurso especial.
+Na origem, trata-se de agravo de instrumento interposto por BENEDITO PINTO DE OLIVEIRA, ora agravado, contra decisão que, em sede de cumprimento de sentença de ação de consignação em pagamento, homologou os laudos periciais e determinou a expedição de guia de levantamento em seu favor.
+Nas razões do recurso, BENEDITO alegou erro de cálculo, sob o fundamento de que os juros de mora deveriam ser acrescidos desde 1994, data em que determinada a expedição de guia de levantamento, e que os valores deveriam ser corrigidos segundo a Tabela Prática do Tribunal.
+O eg. Tribunal de Justiça de São Paulo deu parcial provimento ao recurso para determinar que: (i) os juros de mora incidentes sobre os valores depositados incidam desde o creditamento a menor, nos termos da Súmula 54/STJ; e (ii) a correção monetária seja feita com base na tabela prática do Tribunal, nos termos da seguinte ementa:
+"Ação de consignação em pagamento - Cumprimento de sentença - Apuração da correção do valor que estava depositado - Juros de mora já incluídos no cálculo pericial, mas devem incidir desde o creditamento a menor - Valores corrigidos até outubro de 2011 - Valor incontroverso deve ser corrigido apenas pela Tabela Prática do TJSP, nos termos do v. acórdão - Recurso parcialmente provido." (fl. 5.076)
+Irresignado, o BANCO SANTANDER (BRASIL) S/A interpôs recurso especial, sob a alegação de violação dos arts. 535, 468, 471, 472, 473 e 474 do CPC/1973, 406 do Código Civil de 2002, 161, § 1º, do Código Tributário Nacional, 13 da Lei 9.065/95, 84 da Lei 8.981/95, 39, § 4º, da Lei 9.250/95, 61, § 3º, da Lei 9.430/96 e 30 da Lei 10.522/2002, sustentando em síntese, que:
+(a) houve negativa de prestação jurisdicional, pois o acórdão recorrido não apreciou os pontos levantados nos embargos de declaração, especialmente sobre a incidência de juros moratórios antes do levantamento dos valores depositados;
+(b) ao determinar a inclusão de juros de mora desde o creditamento a menor, o eg. Tribunal de Justiça extrapolou decisão anterior transitada em julgado que determinava apenas a correção monetária pela Tabela Prática do TJSP; e
+(c) os juros de mora, caso incidentes, devem ser calculados com base na Taxa SELIC.
+A decisão monocrática de fls. 5.199/5.203 conheceu do agravo para negar provimento ao recurso especial, sob os seguintes fundamentos:
+(i) ausência de negativa de prestação jurisdicional, pois o acórdão recorrido tratou expressamente acerca dos juros de mora;
+(ii) o acórdão recorrido está em consonância com a jurisprudência do STJ, no que tange ao termo inicial dos juros de mora e à utilização da tabela prática do TJ-SP.
+Por sua vez, nas razões do presente agravo interno, o banco agravante alega, em síntese, que:
+1) houve efetiva negativa de prestação jurisdicional, pois, "(..) apesar de determinar a incidência de juros de mora desde "o credenciamento a menor", o acórdão recorrido deixou de observar que os depósitos judiciais ainda não haviam sido levantados pela parte contrária, fato que somente ocorreu após a interposição do recurso especial, afastando-se, por essa razão, a constituição em mora da instituição financeira naquele momento" (fl. 5.234);
+2) a determinação de incidência de juros de mora desde a data do creditamento a menor extrapola os limites da coisa julgada, pois não houve decisão nesse sentido e o banco não foi constituído em mora, pois não houve o levantamento dos valores; e
+3) caso se entenda pela aplicação de juros de mora, devem ser calculados pela taxa SELIC, sem cumulação com qualquer outro encargo moratório.
+Ao final, requer a reconsideração da decisão agravada ou a submissão do feito à apreciação do Colegiado.
+Devidamente intimada, a parte agravada não apresentou impugnação (fl. 5.247).
+Contra a mesma decisão de primeiro grau - que homologou os cálculos -, o BANCO SANTANDER (BRASIL) S/A também interpôs agravo de instrumento (AI n. 2190240-24.2014.8.26.0000), que deu origem ao AREsp 1.321.120/SP, que será julgado em conjunto com o presente, a fim de se evitar decisões contraditórias.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. DEPÓSITO JUDICIAL. JUROS DE MORA. RECURSO PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto por instituição financeira contra decisão que conheceu do agravo para negar provimento a recurso especial interposto contra acórdão proferido em sede de cumprimento de sentença de ação de consignação em pagamento, que manteve a homologação dos cálculos periciais e determinou a expedição de guia de levantamento em favor do autor.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional e se a instituição financeira depositária deve pagar juros de mora sobre os valores depositados judicialmente.
+III. Razões de decidir
+3. O Tribunal de origem não incorreu em negativa de prestação jurisdicional, pois fundamentou adequadamente sua decisão, ainda que de forma diversa do interesse da parte.
+4. A instituição financeira depositária não deve pagar juros de mora sobre os valores depositados judicialmente, salvo se houver atraso injustificado na restituição dos valores.
+IV. Dispositivo
+5. Recurso parcialmente provido para afastar a responsabilidade da instituição financeira depositária pelo pagamento de juros moratórios sobre os depósitos judiciais.
+VOTO
+Conforme relatado, o presente agravo interno será analisado em conjunto com o agravo interno interposto nos autos do AREsp 1.321.120/SP, por se tratarem de recursos especiais originados de agravos de instrumento interpostos contra a mesma decisão de primeiro grau que homologou os cálculos periciais.
+Extrai-se dos autos que o agravado BENEDITO PINTO DE OLIVEIRA ajuizou ação de consignação em pagamento em desfavor de Magnun S/A Participações e Empreendimentos para o adimplemento de prestações relativas a "Instrumento Particular de Recibo de Sinal e de Reserva de Unidade Residencial e Ulterior Promessa de Compra e Venda", na qual se determinou o levantamento, pelo autor, de parte dos valores depositados.
+Após a expedição de guia de levantamento em seu favor, o autor se insurgiu contra a correção monetária dos valores apurados, defendendo que não teriam sido corrigidos pelo banco depositário, ora agravante, com base nos reais índices inflacionários.
+A questão acerca do cabimento das diferenças relativas aos expurgos inflacionários foi definitivamente julgada por esta Corte Superior por ocasião do REsp 163.992/SP, nos termos da seguinte ementa:
+"DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA. LEGITIMIDADE DO BANCO DEPOSITÁRIO. DESNECESSIDADE DE AÇÃO PRÓPRIA. PLANOS "VERÃO" E "COLLOR".
+- Legitimidade passiva do banco comercial, que inclusive manteve à sua disposição o numerário depositado.
+- Desnecessidade de ajuizamento de ação própria para se discutir os índices de correção monetária do depósito judicial.
+- Segundo jurisprudência da Quarta Turma, a utilização do IPC, nos meses de janeiro/89 e março/90 a janeiro/91, não causa ofensa à legislação editada acerca dos planos econômicos.
+Recurso especial não conhecido."
+(REsp n. 163.992/SP, relator Ministro Barros Monteiro, Quarta Turma, julgado em 2/6/1998, DJ de 21/9/1998, p. 194., g.n.)
+Os embargos de divergência opostos pela instituição financeira não foram conhecidos, mantendo-se o acórdão da eg. Quarta Turma:
+"Depósito judicial. Correção monetária. Embargos de divergência.
+1. "O estabelecimento de crédito que recebe dinheiro, em depósito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos" (Súmula 179)
+2. "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula 168).
+3. Embargos não conhecidos."
+(EREsp n. 163.992/SP, relator Ministro Nilson Naves, Corte Especial, julgado em 19/9/2001, DJ de 8/4/2002, p. 110, g.n.)
+Elaborado o cálculo pela perita judicial, ambas as partes interpuseram agravo de instrumento contra a decisão que o homologou.
+O agravo interposto pelo banco depositário foi parcialmente provido para determinar a apuração de eventual responsabilidade de cada instituição depositária, já que também havia valores depositados em outra instituição financeira.
+Já o agravo interposto pelo autor da ação de consignação em pagamento foi parcialmente provido para incluir no cálculo dos valores a correção pela Tabela Prática do Tribunal de São Paulo e juros de mora incidentes desde a data do creditamento a menor dos expurgos inflacionários.
+Feitos tais esclarecimentos, passa-se ao exame do recurso especial.
+A controvérsia recursal devolvida ao STJ pelo banco recorrente nestes autos cinge-se em examinar se: (i) houve negativa de prestação jurisdicional; (ii) incidem juros de mora sobre os valores a serem restituídos; e, subsidiariamente, (iii) qual a taxa aplicável.
+Inicialmente, no que se refere à alegada violação do art. 535 do CPC/73, não há que se falar em negativa de prestação jurisdicional, uma vez que a Corte local tratou expressamente, desde o julgamento do agravo de instrumento, sobre a incidência e termo inicial dos juros de mora, porém sem acolher as teses ventiladas pelo banco recorrente, não havendo que se falar em omissão somente porque não decididas as matérias sob o viés pretendido pelas recorrentes. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE EMPRESÁRIA. VÍCIOS DE FUNDAMENTAÇÃO. AUSÊNCIA. FUNDAMENTAÇÃO PER RELATIONEM. VALIDADE. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica ofensa ao artigo 535 do CPC/73 quando o Tribunal decide, de modo claro e fundamentado, a integralidade das questões devolvidas ao seu conhecimento, não se confundindo decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência desta Corte Superior, admite-se a utilização da técnica da fundamentação per relationem, em que se adotam trechos de decisão anterior ou de parecer ministerial como razões de decidir. Incidência da Súmula 83/STJ.
+3. No que respeita à natureza dos aportes realizados pelo ex-sócio, se adiantamento para futuro aumento de capital ou mútuo, verifica-se que o v. acórdão recorrido pautou-se exclusivamente na análise das provas carreadas aos autos, distribuindo o ônus da prova quanto às alegações não comprovadas efetivamente. Rever a conclusão do acórdão nesse ponto demandaria o reexame de fatos e provas, o que escapa, em regra, aos limites do recurso especial (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.185.505/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024, g.n.)
+Como já mencionado, o acórdão recorrido tratou expressamente acerca dos juros de mora, entendendo serem cabíveis na espécie desde a data do creditamento a menor, nos seguintes termos:
+"Anote-se que os juros moratórios, que incidem na base de 0,5% ao mês durante a vigência do Código Civil de 1916 e de 1% ao mês sob o Novo Código Civil.
+Ressalvado posicionamento anterior de que os juros de mora no depósito judicial calculam-se somente a partir da data de citação, acompanho a posição consolidada do STJ no sentido de que " o banco responsável pela guarda do depósito judicial, ao conservar o capital pertencente aos agravados, obteve lucro em detrimento da perda acarretada aos mesmos, incorrendo na prática de ilícito extracontratual, razão pela qual os juros moratórios incidem a partir do evento danoso, ou seja, a data da injusta recusa em restituir integralmente o valor depositado, conforme inteligência da súmula 54 do STJ: " Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual." (AgRg no Ag 1254085/ SP, Rel. Min. Luis Felipe Salomão, 4ª Turma, j. 07/06/2011; confira- se também REsp 1134450/SP, Rel. Min. Nancy Andrighi, 3ª Turma, j. 16/05/2013).
+(..)
+Desse modo, os juros moratórios devem incidir desde o creditamento a menor, nos termos já descritos." (fls. 5.077/5.078, g. n.)
+Ao contrário do que se entendeu na decisão agravada, o posicionamento acima vai de encontro à jurisprudência desta Corte no que tange aos depósitos judiciais.
+Conforme entendimento da eg. Quarta Turma sobre a questão, nos termos do art. 629 do CC/2002, a instituição financeira depositária responde pela correção monetária incidente sobre os valores depositados, a título de conservação da coisa, além de juros remuneratórios, a título de frutos e acréscimos. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. FASE DE EXECUÇÃO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA SOBRE OS VALORES DEPOSITADOS EM GARANTIA. BIS IN IDEM. MONTANTE ATUALIZADO E REMUNERADO PELA INSTITUIÇÃO BANCÁRIA. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Os juros remuneratórios e os moratórios não se confundem, têm natureza e finalidade diversas. Enquanto os juros remuneratórios ou compensatórios têm natureza de simples remuneração ou rendimento do capital investido ou depositado por outrem, por força de previsão legal ou contratual a que se sujeita toda utilização de capital alheio, os juros moratórios têm natureza sancionadora e necessária origem em ilícito decorrente de atraso na restituição do capital ou no cumprimento da obrigação legal ou contratual.
+2. Realizado pelo devedor o depósito da dívida para a garantia do juízo, cessa sua responsabilidade pela incidência de correção monetária e de juros relativamente ao valor depositado, passando a instituição financeira depositária (CC, art. 629) a responder pela atualização monetária, a título de conservação da coisa, e pelos juros remuneratórios, a título de frutos e acréscimos.
+3. Justamente porque o devedor fica liberado do pagamento dos consectários da dívida (inclusive juros moratórios) nos limites do valor depositado judicialmente, não é cabível transferir para o depositário judicial parcela da dívida não mais exigível nem mesmo do próprio obrigado. Assim, se o devedor depositante já realizou a entrega do valor devido, com inclusão dos juros moratórios acaso cabíveis, estes já estarão presentes na composição da base de cálculo sobre a qual o depositário fica obrigado a fazer incidir correção monetária e juros remuneratórios. Portanto, a incidência de novos juros moratórios representaria descabido bis in idem.
+4. Estando o acórdão estadual em consonância com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+5. Nos termos da iterativa jurisprudência desta eg. Corte, a Súmula 83/STJ aplica-se tanto aos recursos especiais fundados na alínea a como na alínea c do permissivo constitucional. Precedentes.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 1.484.837/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2019, DJe de 9/10/2019, g.n.)
+"RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DEPÓSITO INTEGRAL PARA GARANTIA DO JUÍZO. IMPUGNAÇÃO ACOLHIDA EM PARTE. AFASTAMENTO DO EXCESSO DE EXECUÇÃO. POSTERIOR MODIFICAÇÃO DO TÍTULO JUDICIAL. MAJORAÇÃO DA VERBA HONORÁRIA POR MAIORIA. DEPÓSITO DA DIFERENÇA ANTES DO TRÂNSITO EM JULGADO. DISCUSSÃO SOBRE JUROS DE MORA. SÚMULA N. 207/STJ. NÃO INCIDÊNCIA. VIOLAÇÃO DO ART. 535, I E II, DO CPC/1973. NÃO OCORRÊNCIA. ART. 515 DO CPC/1973. AUSÊNCIA DE OFENSA. ARTS. 335 E 337 DO CC. FALTA DE PREQUESTIONAMENTO. DEPÓSITO EM GARANTIA DO JUÍZO. AUSÊNCIA DE PAGAMENTO. RESPONSABILIDADE DO DEVEDOR PELOS CONSECTÁRIOS DA MORA. TRANSFERÊNCIA À INSTITUIÇÃO DEPOSITÁRIA. NÃO CABIMENTO. ENTENDIMENTO NÃO CONTRAPOSTO À TESE FIXADA EM RECURSO REPETITIVO. AFRONTA AO ART. 20, §§ 3º E 4º, DO CPC/1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+1. Ainda que se admita o cabimento dos embargos infringentes contra acórdão majoritário prolatado em agravo de instrumento que decida sobre honorários advocatícios, deve-se observar o requisito da alteração de sentença de mérito previsto no art. 530 do CPC/1973.
+Ausente essa alteração, é desnecessário o oferecimento de embargos infringentes e, por conseguinte, não incide a Súmula n. 207 do STJ.
+2. Afasta-se a alegação de ofensa ao art. 535, I e II, do CPC/1973 quando inexistentes quaisquer vícios de contradição, omissão ou obscuridade no acórdão recorrido.
+3. O conhecimento de matérias inerentes à profundidade do efeito devolutivo do recurso não configura ofensa ao art. 515 do CPC/1973.
+4. A falta de prequestionamento dos dispositivos legais indicados pelo recorrente obsta o conhecimento do recurso especial. Aplicação da Súmula n. 282 do STF.
+5. Como o depósito em garantia do juízo visa ao oferecimento de impugnação ao valor exequendo, não constitui pagamento, inexistindo previsão legal que o equipare a tanto. Dessa forma, permanece o devedor em mora, responsabilidade que não pode ser transferida ao depositário judicial sem que se identifique na conduta deste hipótese de subsunção à regra do art. 394 do Código Civil.
+6. A instituição financeira depositária, em razão dos deveres previstos no art. 629 do Código Civil, responde pela correção monetária e juros remuneratórios sobre o valor depositado.
+7. O depósito judicial apenas extingue a obrigação do devedor nos limites da quantia depositada, mas não o libera dos consectários próprios de sua obrigação. Assim, quando do efetivo pagamento, os valores depositados com os acréscimos pagos pela instituição bancária devem ser deduzidos do montante da condenação calculado na forma do título judicial ou extrajudicial (Recurso Especial repetitivo n. 1.348.640/RS).
+8. Incide o óbice da Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+9. Recurso especial parcialmente conhecido e provido em parte."
+(REsp n. 1.475.859/RJ, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/8/2016, DJe de 25/8/2016, g.n.)
+Portanto, estando o depósito judicial sujeito à remuneração específica a cargo da instituição financeira depositária, nos termos do art. 629 do CC/2002, não pode ser exigido do depositário o pagamento de juros moratórios sobre o quantum depositado se não houver atraso no cumprimento da obrigação ou a prática de ato ilícito.
+Excepcionalmente, quando, instada pelo juiz, a instituição financeira depositária recusa-se ou demora injustificadamente na restituição integral do valor depositado, será correta a incidência de juros moratórios, em decorrência de ato ilícito gerador de mora. Nesse sentido:
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. DEPÓSITO JUDICIAL. EXPURGOS INFLACIONÁRIOS. JUROS DE MORA.
+1. Não incidem juros de mora sobre valor mantido em conta de depósito judicial, salvo se o depositário, sem justo motivo, se recusar (resistir) a entregar o valor integral depositado ou demorar a efetuar essa entrega. Precedentes.
+2. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp n. 748.616/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/3/2021, DJe de 19/3/2021, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. DEPÓSITO JUDICIAL. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA DEPOSITÁRIA (CC, ART. 629). REMUNERAÇÃO DO CAPITAL: INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS REMUNERATÓRIOS. JUROS MORATÓRIOS DESCABIDOS. AGRAVO PROVIDO.
+1. Os juros remuneratórios e os moratórios não se confundem, têm natureza e finalidade diversas. Enquanto os juros remuneratórios ou compensatórios têm natureza de simples remuneração ou rendimento do capital investido ou depositado por outrem, por força de previsão legal ou contratual a que se sujeita toda utilização de capital alheio, os juros moratórios têm natureza sancionadora e necessária origem em ilícito decorrente de atraso na restituição do capital ou no cumprimento da obrigação legal ou contratual.
+2. Realizado pelo devedor o depósito da dívida para a garantia do juízo, cessa sua responsabilidade pela incidência de correção monetária e de juros relativamente ao valor depositado, passando a instituição financeira depositária (CC, art. 629) a responder pela atualização monetária, a título de conservação da coisa, e pelos juros remuneratórios, a título de frutos e acréscimos.
+3. Justamente porque o devedor fica liberado do pagamento dos consectários da dívida (inclusive juros moratórios) nos limites do valor depositado judicialmente, não é cabível transferir para o depositário judicial parcela da dívida não mais exigível nem mesmo do próprio obrigado. Assim, se o devedor depositante já realizou a entrega do valor devido, com inclusão dos juros moratórios acaso cabíveis, estes já estarão presentes na composição da base de cálculo sobre a qual o depositário fica obrigado a fazer incidir correção monetária e juros remuneratórios. Portanto, a incidência de novos juros moratórios representaria descabido bis in idem.
+4. Incidirão, excepcionalmente, juros moratórios sobre o depósito judicial, quando, instada pelo juiz, a instituição financeira depositária recusar-se ou demorar injustificadamente na restituição integral do valor depositado.
+5. Agravo interno provido para negar provimento ao recurso especial."
+(AgInt nos EDcl no REsp n. 1.460.908/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/6/2019, DJe de 2/8/2019, g.n.)
+No presente caso, conforme se extrai dos autos, não houve ato ilícito apto a gerar a incidência de juros de mora, uma vez que não houve descumprimento, pela instituição bancária, da ordem judicial de restituição dos valores depositados.
+Consta do acórdão, inclusive, que, autorizada a expedição de guias de levantamento, o recorrido passou a questionar a correção dos valores quanto aos expurgos inflacionários e consectários, e que, desde 2014, quando proferida a decisão objeto do agravo de instrumento, foi autorizado o levantamento dos valores incontroversos, conforme se extrai do seguinte trecho do v. acórdão:
+"Cuida- se de ação de consignação em pagamento em que as partes firmaram acordo definindo que a Magnun Construtora levantaria dois depósitos judiciais e a autor levantaria o restante.
+Após autorização par a expedição das guias de levantamento o autor passou a questionar a correção dos depósitos judiciais.
+O magistrado determinou que a discussão fosse formulada em ação própria, mas a decisão foi modificada em sede recursal determinando o diferencial buscado, observando-se a tabela prática deste Tribunal.
+A perita apurou a diferença percentual existente entre os índices que remuneram as cadernetas de poupança/depósitos judiciais e aqueles determinados no v. acórdão, ou seja, índices divulgados pela Tabela de Atualização Monetária do Tribunal de Justiça do Estado de São Paulo, posteriormente ratificado e homologado pelo juízo.
+Insurge-se o agravante contra essa decisão.
+De início, ressalto que o valor incontroverso já pode ser levantado, inclusive, já foi autorizado pelo juízo na decisão agravada." (fls. 5.076/5.077, g.n.)
+Com efeito, ao contrário do que se entendeu na decisão agravada, o creditamento a menor no que tange aos expurgos inflacionários não autoriza a incidência de juros de mora sobre todos os valores a serem restituídos pela instituição financeira, mas apenas sobre as eventuais diferenças de expurgos apuradas.
+Pelas razões expostas, dá-se parcial provimento ao agravo interno, para afastar a responsabilidade da instituição financeira depositária pelo pagamento de juros moratórios sobre os depósitos judiciais.
+É como voto.
