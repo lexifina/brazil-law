@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PRETENSÃO DE DESAVERBAR E CONVERTER EM PECÚNIA LICENÇAS-PRÊMIO NÃO GOZADAS. PRESCRIÇÃO. NÃO OCORRÊNCIA. PECULIARIDADES DO CASO CONCRETO. PROVIMENTO NEGADO.
+1. Na origem, trata-se de ação ajuizada por servidores aposentados em que pretenderam que fossem desaverbadas e convertidas em pecúnia as licenças-prêmio não gozadas, por se tornarem desnecessárias à aposentadoria, diante da revisão administrativa do benefício com averbação de períodos de atividade especial suficientes para a aposentadoria integral.
+2. Esta Corte já se pronunciou no sentido de que, havendo revisão de aposentadoria, com o cômputo de tempo especial em momento posterior à concessão, o termo inicial da contagem do prazo prescricional é a data da efetiva revisão do benefício, pois somente a partir daí surge a pretensão de desaverbar os períodos de licença-prêmio e de convertê-los em pecúnia.
+3. No caso dos autos, conforme dados contidos no acórdão recorrido, os benefícios de aposentadoria foram revistos administrativamente em 28/5/2012 e 30/11/2010. Logo, havendo o ajuizamento da ação em 31/7/2014, não ocorreu a prescrição.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO da decisão em que conheci do agravo para negar provimento ao recurso especial (fls. 1.439/1.447).
+Nas razões recursais, a parte agravante sustenta o seguinte (fls. 1.458/1.459):
+ ..  é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que, nos casos em que o servidor busca a revisão do ato de aposentadoria, ocorre a prescrição do próprio fundo de direito após o transcurso de mais de cinco anos entre o ato de concessão e o ajuizamento da ação
+ ..
+A aposentadoria dos autores foi concedida entre 1992 e 1997. Ajuizada a presente ação em 26-10-2015, está consumada a prescrição quinquenal a contar da data da aposentadoria, nos termos do art. 1º do Decreto 20910/32.
+Requer, por fim, a reconsideração da decisão agravada ou a submissão do processo à turma julgadora.
+Com impugnação às fls. 1.466/1.493.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PRETENSÃO DE DESAVERBAR E CONVERTER EM PECÚNIA LICENÇAS-PRÊMIO NÃO GOZADAS. PRESCRIÇÃO. NÃO OCORRÊNCIA. PECULIARIDADES DO CASO CONCRETO. PROVIMENTO NEGADO.
+1. Na origem, trata-se de ação ajuizada por servidores aposentados em que pretenderam que fossem desaverbadas e convertidas em pecúnia as licenças-prêmio não gozadas, por se tornarem desnecessárias à aposentadoria, diante da revisão administrativa do benefício com averbação de períodos de atividade especial suficientes para a aposentadoria integral.
+2. Esta Corte já se pronunciou no sentido de que, havendo revisão de aposentadoria, com o cômputo de tempo especial em momento posterior à concessão, o termo inicial da contagem do prazo prescricional é a data da efetiva revisão do benefício, pois somente a partir daí surge a pretensão de desaverbar os períodos de licença-prêmio e de convertê-los em pecúnia.
+3. No caso dos autos, conforme dados contidos no acórdão recorrido, os benefícios de aposentadoria foram revistos administrativamente em 28/5/2012 e 30/11/2010. Logo, havendo o ajuizamento da ação em 31/7/2014, não ocorreu a prescrição.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Na origem, trata-se de ação ajuizada por servidores aposentados em que pretenderam que fossem desaverbadas e convertidas em pecúnia as licenças-prêmio não gozadas, por se tornarem desnecessárias à aposentadoria, diante da revisão administrativa do benefício com averbação de períodos de atividade especial suficientes para a aposentadoria integral.
+Sobre o assunto, destaco que esta Corte já se pronunciou no sentido de que, havendo revisão de aposentadoria, com o cômputo de tempo especial em momento posterior à concessão, o termo inicial da contagem do prazo prescricional é a data da efetiva revisão do benefício, pois somente a partir daí surge a pretensão de que sejam desaverbados períodos de licença-prêmio não gozados e de que sejam eles convertidos em pecúnia.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. APOSENTADORIA. REVISÃO. INCLUSÃO DE TEMPO ESPECIAL. PRESCRIÇÃO DO FUNDO DE DIREITO. RENÚNCIA. ARTIGO 1º DO DECRETO 20.910/1932. LICENÇA-PRÊMIO. DESAVERBAÇÃO. POSSIBILIDADE. CONVERSÃO EM PECÚNIA. INDENIZAÇÃO. ENRIQUECIMENTO ILÍCITO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. OFENSA AOS ARTS. 741, VI, do CPC/1973; 535, VI, DO CPC/2015 E 368 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ ..
+2. O STJ firmou-se no sentido de que a prescrição da pretensão à revisão do ato de aposentadoria, com a inclusão de tempo de serviço insalubre, alcança o próprio fundo de direito, não havendo falar em relação de trato sucessivo.
+3. Outrossim, no âmbito do STJ, é consagrada a tese de que "não ocorre renúncia da Administração Pública à prescrição referente a ação de revisão de aposentadoria na hipótese em que reconhece, através das Orientações Normativas MPOG 3 e 7, de 2007, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público, pois não foram expressamente incluídos por aqueles atos administrativos os servidores que, à época, já se encontravam aposentados e tiveram suas pretensões submetidas aos efeitos da prescrição."
+4. Contudo, na hipótese em exame, observa-se a existência de peculiaridade que distingue dos mencionados precedentes, porquanto a renúncia à prescrição não teria surgido com as Orientações Normativas, expedidas pelo MPOG em 2007, mas, sim, com a revisão do ato de aposentadoria do servidor na esfera administrativa, após o decurso do lapso quinquenal.
+5. Extrai-se do acórdão recorrido que a parte autora jubilou-se em 6/6/2003, tendo sido revista a sua aposentadoria através da Portaria 155, publicada em 7/5/2015 (fls. 438, e-STJ), ocasião em que nasceu para o autor o direito de desaverbar as licenças-prêmio diante da desnecessidade de contá-las em dobro para a aposentadoria integral.
+6. Nesse diapasão, não se verifica que decorreu o prazo de 5 anos entre a data da revisão da aposentadoria e o ajuizamento do feito, cuja interposição ocorreu em 29.11.2016, não havendo falar em prescrição.
+7. Dessa forma, o acórdão impugnado não destoa da orientação jurisprudencial do STJ, segundo a qual o reconhecimento administrativo do direito, após decorrido por inteiro o prazo prescricional, implica renúncia à prescrição, nos termos do art. 191 do Código Civil.
+8. Quanto à questão de fundo, o Tribunal de origem decidiu pela procedência da conversão ao fundamento de que, ao contrário, estaria configurado o enriquecimento ilícito por parte da Administração, bem como confirmou o direito do recorrido ao recebimento de indenização pela licença-prêmio conforme pretendido.
+9. Não há dúvida na jurisprudência do STJ e do STF de que a conversão em pecúnia da licença-prêmio não gozada nem computada em dobro é plenamente possível, haja vista que, do contrário, haveria enriquecimento ilícito por parte da Administração.
+10. Nas razões do Recurso Especial, tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso, visto que o STJ tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles ".
+11. Por fim, observa-se que o Tribunal de origem não se pronunciou sobre a matéria versada nos artigos 741, VI, do CPC/1973; 535, VI, do CPC/2015 e 368 do Código Civil, apesar da oposição de Embargos de Declaração. Além disso, verifica-se que a matéria nem sequer foi mencionada nas petições de Embargos de Declaração (fls. 482-493 e 564-566, e-STJ) opostos contra acórdão do recurso de Apelação, motivo pelo qual não foram examinados pelo Tribunal de origem, circunstância que evidencia a ausência do requisito do prequestionamento (Súmula 211/STJ).
+12. Agravo conhecido para se conhecer parcialmente do Recurso Especial, somente com relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+AREsp n. 1.586.046/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/11/2019, DJe de 19/12/2019.)
+No caso dos autos, conforme dados contidos no acórdão recorrido, os benefícios de aposentadoria foram revistos administrativamente em 28/5/2012 e 30/11/2010. Logo, havendo o ajuizamento da ação em 31/7/2014, não ocorreu a prescrição.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
