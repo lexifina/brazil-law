@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, no qual alega violação dos arts. 475, 535 e 557 do Código de Processo Civil - CPC/1973, discutindo a necessidade de o órgão julgador apreciar a remessa oficial, na hipótese em que a sentença é contrária ao interesse da Fazenda Pública, bem como o descabimento da multa imposta por ocasião do desprovimento de agravo interno.
+Sem contrarrazões da parte recorrida, o recurso foi admitido.
+É o relatório. Decido.
+A orientação jurisprudencial deste Tribunal Superior é no sentido do não conhecimento do recurso especial, quanto à tese de violação à lei ou de divergência jurisprudencial referente à sua interpretação, quando as razões recursais não contiverem, expressamente, a causa de pedir correlata, a qual deve ser específica e suficiente à compreensão da forma como o acórdão recorrido estaria ofendendo a norma legal. Observância da Súmula 284 do STF.
+Nessa linha, não se conhece do recurso, quanto às teses de violação do art. 535 e 475 do CPC/1973, pois desacompanhadas de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado. Observância da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, relator Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+A propósito, cumpre mencionar que o Tribunal Regional Federal da 1ª Região negou seguimento à remessa necessária em razão de a sentença estar em conformidade com a jurisprudência do Superior Tribunal de Justiça, mas a parte recorrente ignora essa situação, o que também impede o conhecimento do especial, por ausência de impugnação específica. Observância da súmula 283 do STF.
+Com relação à multa, o recurso pode ser conhecido e provido, pois a só interposição do agravo regimental pela Fazenda Nacional não enseja a imposição de multa do § 2º do art. 557 do Código de Processo Civil - CPC/1973, como decidido pela Corte Especial, no REsp n. 1.198.108/RJ, repetitivo (tema 434).
+Ante o exposto, conheço em parte do recurso especial e dou-lhe provimento para afastar a multa imposta por ocasião do julgamento do agravo regimental.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 475 e 535 DO CPC/1973. TESE GENÉRICA. MULTA IMPOSTA POR OCASIÃO DO JULGAMENTO DE AGRAVO INTERNO. NÃO CABIMENTO. RECURSO CONHECIDO EM PARTE E PROVIDO.
