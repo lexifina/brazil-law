@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por GLEYZER MARIA DE CASTRO MIRANDA MACHADO e GLEYZER MARIA DE CASTRO MIRANDA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 99-100):
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO. PLANO DE SAÚDE. RECUSA NO FORNECIMENTO DO MEDICAMENTO UPADACITINIBE 15 MG. USO DOMICILIAR. INDEFERIMENTO DA TUTELA. 1. Contrato de prestação de serviços médicos e hospitalares. 2. Ação principal que se destina à cobertura de medicamento indicado ao controle de artrite reumatóide soro positiva. Laudo circunstanciado que aponta os danos decorrentes do uso dos medicamentos tradicionais, atestando a necessidade da nova medicação, registrada junto à ANVISA. 3. Necessidade urgente do medicamento pleiteado, sob pena de risco de agravamento da doença. 4. Fornecimento de medicamentos pelas operadoras de saúde que se limita aos internados e ao custeio de terapia antineoplásica para tratamento de doença oncológica. Cláusula contratual de exclusão de cobertura válida em relação a medicamentos orais. 5. Decisão agravada que, adequadamente, afastou a obrigação de fornecimento de medicamento, fora das hipóteses excepcionais de internação (domiciliar e hospitalar) e terapias antineoplásicas. 6. Insubsistência da pretensão de custeio do tratamento pela operadora de saúde. Fornecimento de medicamento de uso domiciliar contínuo que não se encontra excepcionado pelo art. 12, c, da Lei nº 9.656/98, ainda que considerada a novação legislativa (Lei nº 14.454/22), com o afastamento do rol taxativo da ANS. Precedentes do STJ e deste Tribunal. 7. Desprovimento do recurso.
+Rejeitados os embargos de declaração opostos (fls. 137-143).
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos arts. 1.022 do CPC, 35-F da Lei n. 9.656/1998 e 4º, 7º, 47 e 51, XV, do CDC.
+Sustenta, em síntese, que, "embora se trate, em princípio, de medicamento de uso doméstico e não antineoplásico, trata-se de medicamento essencial para o tratamento da parte autora, que foi devidamente atestado pela médica assistente, inclusive, destacando a ineficácia dos demais tratamentos. O medicamento requerido integra o próprio procedimento terapêutico, portanto, a negativa de fornecimento de medicamento inserido no tratamento consiste em recusa ao próprio tratamento" (fl. 157).
+Foram oferecidas contrarrazões ao recurso especial (fls. 167-174).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 256-259), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 286-293).
+Instado a se manifestar, o Ministério Público opinou pelo não provimento do agravo (fls. 335-338).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Esta Corte entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+Isso porque não se tem aberta esta instância e special para a análise da verificação dos requisitos da tutela provisória de urgência, seja porque necessária a reapreciação do contexto fático-probatório dos autos, incidindo o enunciado 7/STJ, seja em virtude da natureza provisória do provimento judicial (Súmula 735/STF). É o entendimento desta Corte Superior:
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIDICADA. TUTELA ANTECIPADA. INDEFERIMENTO. REQUISITOS. CONCESSÃO. AUSENTES. REVISÃO. INCIDÊNCIA DAS SÚMULAS N º 7/STJ E 735/STF. DECISÃO PRECÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2 A ausência de discussão pelo tribunal local acerca da tese ventilada no recurso especial acarreta a falta de prequestionamento, a atrair a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+5. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+6. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.842.124/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2025, DJEN de 7/7/2025.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ARTIGOS 489 E 1022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. OMISSÃO NÃO VERIFICADA. ART. 50 DO CC. DECRETO DE INDISPONIBILIDADE DE BENS. TUTELA DE URGÊNCIA. REEXAME. SÚMULA 735/STF. EMENDA À INICIAL APÓS A CONTESTAÇÃO. CORREÇÃO FORMAL DA NARRATIVA. ORDEM CRONOLÓGICA. CAUSA DE PEDIR E PEDIDO INALTERADOS. VIABILIDADE. SÚMULA 83/STJ. REEXAME DE PROVAS. SÚMULA N. 7/STJ. NÃO PROVIDO.
+1. Não há falar-se em omissão ou falta de justificativa adequada nos casos em que o Tribunal de origem resolve a controvérsia na extensão da matéria devolvida.
+2. Esta Corte, em sintonia com o disposto na Súmula 735 do STF "(Não cabe recurso extraordinário contra acórdão que defere medida liminar)", entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. A retificação da inicial após a contestação, desde que quando mantidos o pedido e a causa de pedir, prescinde da anuência da parte adversa.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.471.254/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/5/2025, DJEN de 23/5/2025.)
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIMINAR. REQUISITOS. ÓBICE. SÚMULAS 7/STJ E 735/STF. AGRAVO IMPROVIDO.
