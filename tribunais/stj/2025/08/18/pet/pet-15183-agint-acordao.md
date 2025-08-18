@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO PEDIDO DE TUTELA DE URGÊNCIA. NÃO DEMONSTRAÇÃO DOS REQUISITOS DO ART. 300 DO CPC. AGRAVO INTERNO DESPROVIDO.
+1. A não demonstração dos elementos que evidenciam, cumulativamente, a proba bilidade do direito e o perigo de dano ou o risco ao resultado útil do processo inviabilizam a concessão da tutela de urgência.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RÁDIO E TELEVISÃO OM LTDA. contra decisão que indeferiu o pedido liminar e negou seguimento à petição que vindicava a tutela cautelar (fls. 1.425-1.429).
+Em suas razões, a parte agravante reitera as razões de mérito de que a execução proposta na origem deve ser sobrestada ante a violação da coisa julgada.
+Esclarece que há decisão precedente ao RESp n. 1.300.229/PR, em que ficou consignada a redução dos honorários advocatícios de 10% para 5%, motivo pelo qual não há motivo que justifique a constrição das quantias cobradas a título de honorários pela parte adversa, estando, portanto, demonstrada a plausibilidade do direito pleiteado.
+Alega que houve equívoco na análise realizada no indeferimento do pedido cautelar, visto que a execução proposta na origem é definitiva e não provisória, o que denota o periculum in mora.
+Requer, portanto, seja reconsiderada a decisão agravada ou dado provimento ao agravo interno de modo a garantir o efeito suspensivo ao agravo em recurso especial, evitando-se, assim, o prosseguimento da execução em curso na origem.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO PEDIDO DE TUTELA DE URGÊNCIA. NÃO DEMONSTRAÇÃO DOS REQUISITOS DO ART. 300 DO CPC. AGRAVO INTERNO DESPROVIDO.
+1. A não demonstração dos elementos que evidenciam, cumulativamente, a proba bilidade do direito e o perigo de dano ou o risco ao resultado útil do processo inviabilizam a concessão da tutela de urgência.
+3. Agravo interno desprovido.
+VOTO
+O recurso não reúne condições de prosperar.
+Como bem destacado na decisão agravada, "a atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e também do perigo da demora" (fl. 1.426).
+No caso, a parte agravante não demonstrou os requisitos do art. 300 do CPC.
+Ainda que seja acolhida a afirmação referente à existência de execução definitiva na origem, a situação não se mostra suficiente para permitir a concessão do efeito suspensivo ao agravo em Recurso Especial n. 2159116.
+Isso porque, de acordo com o exposto na decisão agravada, a controvérsia posta nos autos já foi objeto de discussão no RESp n. 1.300.229/PR, em que ficou decidido o seguinte (fls. 1.427-1.428):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ANULAÇÃO DE TODOS OS ATOS PRATICADOS NA INSTÂNCIA SUPERIOR. IMPOSSIBILIDADE. AUSÊNCIA DE PREJUÍZO. HONORÁRIOS ADVOCATÍCIOS. TRANSAÇÃO ENTRE AS PARTES. AUSÊNCIA DE RENÚNCIA EXPRESSA DOS HONORÁRIOS DE SUCUMBÊNCIA.1. Na decisão monocrática que deferiu parcialmente o pedido constante no expediente avulso, asseverou-se que não seria possível a anulação de todos os atos praticados, notadamente porque eventual prejuízo se cristalizou apenas com as publicações de fls. 459 e 460, vício que já foi sanado com a republicação das referidas decisões.2. Não há que se falar em nulidade do processo por ausência de apresentação de memorial e de audiência com o relator, visto que, no caso concreto, tais situações não alterariam o entendimento sobre a matéria, já pacificada por esta Corte Superior, tanto que foi devidamente solucionada por decisão monocrática, não se cristalizando, portanto, o efetivo prejuízo.3. O Superior Tribunal de Justiça entende que os honorários advocatícios - contratuais e sucumbenciais - possuem natureza alimentícia, perfazendo remuneração pelo trabalho desenvolvido pelo advogado.4. Ao compulsar os autos, observa-se que não houve renúncia expressa do causídico aos honorários fixados na sentença. Além disso, não é possível sobrepor mera dedução de renúncia à verdadeira manifestação expressa, até porque o advogado possui direito tanto aos honorários contratuais quanto aos sucumbenciais.5. A transação firmada pelas partes, sem a aquiescência do advogado, não tem o condão de prejudicar os honorários convencionados e os de sucumbência, não sendo possível ao magistrado, sponte própria, considerar que a percepção de verba acordada exclui a fixada na sentença.6. Agravo interno não provido. (AgInt nos EDcl no REsp n. 1.300.229/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/11/2018, DJe de 20/11/2018.)
+Dos trechos destacados acima, é possível retirar, ao menos neste juízo perfunctório, que não houve renúncia expressa do causídico acerca dos honorários fixados na sentença que homologou o acordo firmado entre as partes, o que obsta o argumento apresentado pelo agravante acerca da existência de coisa julgada sobre a matéria referente.
+Assim, ainda que se cogite de transação homologada judicialmente precedente ao julgamento do REsp n. 1.300.229/PR, certo é que ela não atinge a verba honorária devida ao causídico que não participou do ato, a qual poderá ser objeto de execução ulterior.
+O entendimento acima está em consonância com a jurisprudência do STJ citada na decisão agravada, segundo a qual "A transação firmada pelas partes, sem a aquiescência do advogado, não tem o condão de prejudicar os honorários convencionados e os de sucumbência, não sendo possível ao magistrado, sponte própria, considerar que a percepção de verba acordada exclui a fixada na sentença" (fl. 1.427).
+Visto isso, entendo que a decisão agravada deve ser mantida pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
