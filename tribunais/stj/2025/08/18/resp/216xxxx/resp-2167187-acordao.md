@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. ARRENDAMENTO RURAL. DIREITO DE PREFERÊNCIA. NOTIFICAÇÃO DO ARRENDATÁRIO QUE NÃO CARACTERIZOU PROPOSTA DE RENOVAÇÃO. ACEITE QUE NÃO SE PRESTA À FORMALIZAÇÃO DE NOVO CONTRATO SEM QUE HAJA PRÉVIA PROPOSTA. RETOMADA DA TERRA PARA USO PRÓPRIO. PRETENSÃO RECURSAL QUE ESBARRA NAS SÚMULAS NºS 5 E 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE DIMINUIÇÃO. SÚMULA Nº 7 DO STJ.
+1. A alegação de que o contrato de arrendamento rural teria sido renovado pelo encaminhamento de um aceite à proposta formalizada pela arrendadora esbarra nas Súmulas nºs 5 e 7 do STJ. Isso porque, no caso, o Tribunal estadual afirmou que proprietária do imóvel jamais propôs a renovação do contrato de arrendamento.
+2. A premissa fática em que se ampara a tese recursal demanda, portanto, o revolvimento de matéria fática e também nova interpretação das tratativas entabuladas entre as partes.
+3. Alterar as conclusões do acórdão impugnado quanto a adequação do valor fixado a titulo de honorários advocatícios sucumbenciais (20% sobre o valor da causa) exigiria inviável incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+4. Recurso especial não conhecido.
+RELATÓRIO
+PEDRO HENRIQUE CERVI (PEDRO) ajuizou ação contra IMOBILIÁRIA E AGROPECUÁRIA SERRA BRANCA LTDA. (SERRA BRANCA), alegando que celebrou contrato de parceria para exploração agrícola de área rural com referida empresa, o qual foi renovado sucessivas vezes até 2021, quando recebeu notificação para exercer direito de preferência em uma outra renovação com vigência entre agosto de 2022 e agosto de 2025. Segundo afirmado, houve aceite tempestivo dessa proposta, mas SERRA BRANCA, apesar disso, resolveu retomar a terra, desautorizando, portanto, os termos da proposta de renovação encaminhada. Nesses termos, requereu a renovação do contrato e, bem assim, que SERRA BRANCA se abstivesse de esbulhar ou turbar a sua posse, sob pena de multa diária (e-STJ, fls. 10/32).
+O magistrado de primeiro grau concedeu liminar, determinando que SERRA BRANCA se abstivesse de turbar ou esbulhar a posse de PEDRO, sob pena de multa diária por ato de descumprimento, no valor de R$ 1.000,00 (e-STJ, fls. 76/77), mas, ao final, na sentença, revogou essa liminar e julgou improcedente o pedido. De acordo com o Juiz, a notificação encaminhada a PEDRO não constituía, exatamente, uma proposta, mas meras informações a respeito das aspirações que SERRA BRANCA tinha em relação aos termos de um próximo arrendamento rural. A sentença também destacou que o aceite à "proposta" supostamente recebida foi enviado apenas no dia 11/2/2022, ou seja, um dia após ele ter sido informado de que SERRA BRANCA estava retomando as terras para uso próprio (e-STJ, fls. 590/601).
+O Tribunal de Justiça do Maranhão negou provimento ao recurso de apelação interposto por PEDRO em acórdão assim ementado:
+DIREITO CONSTITUCIONAL E IMOBILIÁRIO. ESTATUTO DA TERRA. PRELIMINAR DE SUSPEIÇÃO DO MAGISTRADO A QUO. REJEIÇÃO. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. CONTRATO DE PARCERIA AGRÍCOLA. APLICAÇÃO DO ESTATUTO DA TERRA. ESPECIALIDADE DA NORMA. APLICAÇÃO DO CÓDIGO CIVIL EM CASOS OMISSOS. NOTIFICAÇÃO PARA RENOVAÇÃO CONTRATUAL. ACEITE. AUSÊNCIA. NOVA NOTIFICAÇÃO SUBSTITUTIVA DA ANTERIOR DE RETOMADA DO IMÓVEL DENTRO DO PRAZO DE 06 (SEIS) MESES. EFEITOS JURÍDICOS SUBSTITUTIVOS. PREVALÊNCIA DO DIREITO DO PARCEIRO PROPRIETÁRIO DA TERRA. PROVAS TESTEMUNHAS VÁLIDAS QUANDO CONSIDERADAS NO CONJUNTO DAS DEMAIS PROVAS DOCUMENTAIS. APELO CONHECIDO E NÃO PROVIDO SEM INTERESSE MINISTERIAL.
+I. Deve ser rejeitada a preliminar de suspeição, tendo em vista que as partes concordaram com a instrução do processo e, somente após a prolação da sentença, com a expedição de ordem de desocupação é que uma das partes veio a arguir a suspeição, porém, fora das regras processuais vigentes. A simples argumentação não é suficiente para a declaração de suspeição do magistrado.
+II. No mérito, a causa versa sobre contrato de parceria agrícola, devendo ser aplicado, para a renovação, o art. 95, incisos IV e V, do Estatuto da Terra, Lei n. 4.504/1964, que rege a matéria, não se podendo admitir a tese de aplicação objetiva ou direta do Código Civil.
+III. No caso em apreço, o apelante foi devidamente notificado da retomada do imóvel pela proprietária dentro do prazo legal, ou seja, seis meses antes do término do contrato, não podendo alegar que a inexistência de ciência em relação aos termos da reunião realizada no dia 11.02.2022.
+IV. A prova colhida em audiência é válida quando considerada no conjunto das provas colhidas, principalmente quando tem clara comprovação documental, reforçando a ciência do apelante em relação à retomada do imóvel pela empresa proprietária.
+V. Registra-se que a negociação com o apelante foi apenas para renovação do contrato para as áreas já ocupadas, logo, jamais incluiu novas áreas, o que denota a aplicação direta do Estatuto da Terra, Lei n. 4.504/1964.
+VI. Apelo conhecido e não provido, sem interesse ministerial (e-STJ, fl. 831).
+Na mesma oportunidade, majorou os honorários advocatícios sucumbenciais para 20% sobre o valor da causa.
+Irresignado, PEDRO interpôs recurso especial com fundamento no art. 105, III, a, da CF, alegando ofensa aos arts. (1) 92, § 9º, e 95, IV e V, da Lei nº 4.504/64 e 422 e 427 do CC, pois, uma vez facultado o exercício do direito de preferência na renovação do contrato de arrendamento rural e tendo sido aceito os termos dessa proposta, o proponente/arrendador não poderia voltar atrás, e (2) 85, § 2º, do CPC, pois os honorários advocatícios sucumbenciais, fixados em 20% sobre o valor da causa, seriam excessivos (e-STJ, fls. 897/923).
+O recurso não foi admitido na origem, mas teve seguimento por força de agravo provido (e-STJ, fls. 1.089/1.092).
+No julgamento da TutCautAnt 462/MA, foi concedida liminar para dar efeito suspensivo ativo ao recurso especial, autorizando a permanência de PEDRO na posse do imóvel até o julgamento definitivo do recurso.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. ARRENDAMENTO RURAL. DIREITO DE PREFERÊNCIA. NOTIFICAÇÃO DO ARRENDATÁRIO QUE NÃO CARACTERIZOU PROPOSTA DE RENOVAÇÃO. ACEITE QUE NÃO SE PRESTA À FORMALIZAÇÃO DE NOVO CONTRATO SEM QUE HAJA PRÉVIA PROPOSTA. RETOMADA DA TERRA PARA USO PRÓPRIO. PRETENSÃO RECURSAL QUE ESBARRA NAS SÚMULAS NºS 5 E 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE DIMINUIÇÃO. SÚMULA Nº 7 DO STJ.
+1. A alegação de que o contrato de arrendamento rural teria sido renovado pelo encaminhamento de um aceite à proposta formalizada pela arrendadora esbarra nas Súmulas nºs 5 e 7 do STJ. Isso porque, no caso, o Tribunal estadual afirmou que proprietária do imóvel jamais propôs a renovação do contrato de arrendamento.
+2. A premissa fática em que se ampara a tese recursal demanda, portanto, o revolvimento de matéria fática e também nova interpretação das tratativas entabuladas entre as partes.
+3. Alterar as conclusões do acórdão impugnado quanto a adequação do valor fixado a titulo de honorários advocatícios sucumbenciais (20% sobre o valor da causa) exigiria inviável incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+4. Recurso especial não conhecido.
+VOTO
+A irresignação não pode ser conhecida.
+(1) Proposta, aceite e renovação do contrato
+De acordo com a sentença e também com o acórdão estadual recorrido, SERRA BRANCA jamais enviou uma proposta de renovação do contrato para PEDRO.
+Confira-se, nesse sentido, a seguinte passagem do aresto estadual:
+Pela narrativa do apelante, o Código Civil seria aplicado ao caso, já que teria concordado com a notificação para o Exercício do Direito de Preferência, datado de 26.11.2021. No entanto, a notificação em apreço não se tratava de uma proposta, mas de uma exigência do Estatuto da Terra, o qual também prescreve que até que se esgote o prazo de 06 (seis) meses antes do término contratual pode a proprietária exercer o direito de retomada, sendo que uma vez realizado substitui a primeira notificação enviada (e-STJ, fl. 836).
+Impossível, assim, falar em vinculação do proponente à proposta ou em formalização definitiva do contrato após o aceite, porque, como assinalado, nem sequer houve proposta.
+Vê-se, pois, que os argumentos trazidos no recurso especial prendem-se a uma versão dos fatos que foi expressamente rechaçada pelo Tribunal de origem, esbarrando, assim, nas Súmulas nºs 5 e 7 do STJ.
+O acórdão estadual ainda assinalou que o imóvel foi retomado para uso próprio. Anote-se:
+Analisando detidamente as provas, constata-se que não agiu de má-fé a empresa apelada, nem com reserva mental, já que, não aceitando a proposta de negociação sobre a renovação do contrato, em relação ao prazo e área, decidiu no dia 11.02.2022 pela retomada da área para exploração direta, direito que lhe cabe quando se manifesta dentro do prazo de seis meses antes do término do contrato (e-STJ, fls . 836/837)
+Dessa forma, se não houve novo contrato de arrendamento rural, não há falar em ofensa ao direito de preferência.
+(2) Honorários advocatícios sucumbenciais
+A alegação de que não se justificaria, na hipótese, a fixação dos honorários advocatícios sucumbenciais no percentual máximo de 20% esbarra na Súmula nº 7 do STJ. Com efeito, apenas mediante criterioso exame dos parâmetros indicados no art. 85, § 2º, do CPC (zelo profissional, importância da causa, lugar da prestação do serviço e trabalho realizado) seria possível aferir se o percentual eleito pelo TJMA foi ou não adequado.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 282/STF. REVISÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. ÓBICE DAS SÚMULAS Nº 5 E 7/STJ. REVISÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+ ..
+5. A jurisprudência do STJ entende que a revisão dos honorários advocatícios somente é admitida quando o valor fixado se mostrar manifestamente irrisório ou exorbitante, o que não ocorreu no caso.
+(AgInt no AREsp n. 2.723.356/PR, relatora Ministra DANIELA TEIXEIRA, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+ ..
+4. Os honorários advocatícios sucumbenciais, por obedecerem os critérios previstos no § 2º do art. 85 do CPC/2015 - respeitados os parâmetros legais estabelecidos no dispositivo -, não podem ser revistos, em sede de recurso especial, sob pena de afronta ao óbice da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.941.278/MS, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 22/2/2022, DJe de 9/3/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. DECISÃO UNIPESSOAL SUFICIENTEMENTE FUNDAMENTADA. NULIDADE. INEXISTÊNCIA. RECURSO ESPECIAL. FUNDAMENTAÇÃO ADEQUADA. COMPREENSÃO DA CONTROVÉRSIA VIABILIZADA. IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INAPLICABILIDADE DA SÚMULA Nº 284 DO STF. ELEMENTOS PARA FIXAÇÃO DA VERBA HONORÁRIA. IRRISORIEDADE OU EXORBITÂNCIA. NÃO VERIFICADAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. MAJORAÇÃO DE VERBA EM DESFAVOR DE QUEM SAGROU-SE VITORIOSO. IMPOSSIBILIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+ ..
+6. Alterar as conclusões do acórdão impugnado quanto a adequação do valor arbitrado a titulo de honorários advocatícios sucumbenciais exigiria inviável incursão fático-probatória, em afronta a Súmula nº 7 do STJ. Precedentes.
+(AgInt no AREsp n. 1.487.241/SC, de minha relatoria, Terceira Turma, julgado em 10/8/2020, DJe de 14/8/2020)
+Nessas condições, pelo meu voto NÃO CONHEÇO do recurso especial.
+Deixo de majorar a verba honorária na forma do art. 85, § 11, do CPC, porque já fixada no máximo legal.
+Em tempo, REVOGO a liminar concedida na TutCautAnt 462/MA.
