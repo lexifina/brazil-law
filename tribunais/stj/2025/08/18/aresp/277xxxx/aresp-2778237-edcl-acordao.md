@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PEDIDO FORMULADO EM CUMPRIMENTO DE SENTENÇA. OMISSÃO. DEFERIMENTO, COM EFEITO EX NUNC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. O Superior Tribunal de Justiça possui o entendimento de que, "embora a parte interessada possa, a qualquer tempo, formular pedido de concessão dos benefícios da assistência judiciária gratuita, eventual deferimento pelo Juiz ou Tribunal somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido ou os posteriores a ele, não sendo admitida, portanto, sua retroatividade" (AgRg nos EREsp 1.502.212/SC, Relator Ministro RAUL ARAÚJO, Corte Especial, DJe de 14/6/2019).
+2. Embargos de declaração acolhidos, apenas para imprimir efeito ex nunc à gratuidade de justiça concedida ao ora embargado.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ANDERSON GRAY FRAZZON PEREIRA contra acórdão proferido por esta colenda Quarta Turma, assim ementado (fl. 425):
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. HIPOSSUFICIÊNCIA. PRESUNÇÃO LEGAL. AGRAVO INTERNOPROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVIDO.
+1. As alegações do recorrente afiguram-se relevantes, de modo que, com base no art. 259 do RISTJ, reconsidera-se a decisão hostilizada.
+2. No caso concreto, a Corte de origem indeferiu o pedido de gratuidade de justiça, com amparo apenas na falta de comprovação da hipossuficiência da pessoa natural, situação que contraria a presunção legal prevista no art. 99, §3º, do CPC.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para dar provimento ao recurso especial." (fl. 333)
+Em suas razões (fls. 334/349), o embargante sustenta, em síntese, que o acórdão recorrido teria sido omisso, uma vez que, "ao deferir a gratuidade, a C. Turma manteve-se silente quanto ao requerimento de ANDERSON constante nas suas contrarrazões ao recurso especial e repisada nas suas contrarrazões ao ARESP de que o benefício tenha efeitos apenas ex nunc - isto é, sem efeitos retroativos, não atingindo a exigibilidade do crédito executado no processo de origem" (fls. 346/347).
+Requer, ao final, sejam sanados os vícios apontados, com a reconsideração da decisão embargada ou sua reforma pela Turma Julgadora.
+Devidamente intimada, a parte embargada não apresentou impugnação, conforme certidão de fl. 354.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PEDIDO FORMULADO EM CUMPRIMENTO DE SENTENÇA. OMISSÃO. DEFERIMENTO, COM EFEITO EX NUNC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. O Superior Tribunal de Justiça possui o entendimento de que, "embora a parte interessada possa, a qualquer tempo, formular pedido de concessão dos benefícios da assistência judiciária gratuita, eventual deferimento pelo Juiz ou Tribunal somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido ou os posteriores a ele, não sendo admitida, portanto, sua retroatividade" (AgRg nos EREsp 1.502.212/SC, Relator Ministro RAUL ARAÚJO, Corte Especial, DJe de 14/6/2019).
+2. Embargos de declaração acolhidos, apenas para imprimir efeito ex nunc à gratuidade de justiça concedida ao ora embargado.
+VOTO
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, assiste razão à parte ora embargante, tendo em vista que, consoante entendimento deste Superior Tribunal, "embora a parte interessada possa, a qualquer tempo, formular pedido de concessão dos benefícios da assistência judiciária gratuita, eventual deferimento pelo Juiz ou Tribunal somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido ou os posteriores a ele, não sendo admitida, portanto, sua retroatividade" (AgRg nos EREsp 1.502.212/SC, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, DJe de 14/6/2019). Também nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. OMISSÃO. OCORRÊNCIA. PEDIDO DE GRATUIDADE DE JUSTIÇA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. Na hipótese dos autos, existe omissão no acórdão recorrido quanto ao pleito de deferimento da justiça gratuita
+3. "Embora a parte interessada possa, a qualquer tempo, formular pedido de concessão dos benefícios da assistência judiciária gratuita, eventual deferimento pelo Juiz ou Tribunal somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido ou os posteriores a ele, não sendo admitida, portanto, sua retroatividade" (AgRg nos EREsp n. 1.502.212/SC, relator Ministro Raul Araújo, Corte Especial, DJe de 14/6/2019).
+Embargos de declaração acolhidos para, sanando a omissão apontada, deferir o benefício da gratuidade da justiça formulado pela ora embargante com efeitos ex nunc."
+(EDcl no AgInt no AREsp n. 1.873.174/DF, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 21/8/2023, DJe de 24/8/2023, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. PROTESTO INDEVIDO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. JUSTIÇA GRATUITA. EFEITOS EX NUNC. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A revisão pelo STJ da indenização arbitrada a título de danos morais e de danos estéticos exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+3. Conquanto o pedido de justiça gratuita possa ser formulado a qualquer tempo e grau de jurisdição, sua concessão somente possui efeitos futuros, não retroagindo para alcançar encargos processuais anteriores.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.133.598/SC, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 13/3/2023, DJe de 16/3/2023, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. GRATUIDADE DA JUSTIÇA. PEDIDO FORMULADO NO AGRAVO INTERNO. PESSOA FÍSICA. DECLARAÇÃO DE INSUFICIÊNCIA FINANCEIRA. AUSÊNCIA DE IMPUGNAÇÃO. DEFERIMENTO, COM EFEITO "EX NUNC". CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. DISCUSSÃO A QUALQUER TEMPO. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior admite a concessão da assistência judiciária gratuita mediante a simples declaração, pelo requerente, de que não pode custear a demanda sem prejuízo da sua própria manutenção e da sua família. Os efeitos do benefício da justiça gratuita devem ser ex nunc, não podendo retroagir para alcançar atos processuais anteriormente convalidados.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer tempo e grau de jurisdição ordinária, pois não sujeitas à preclusão temporal.
+Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.993.419/AC, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/10/2022, DJe de 21/10/2022, g.n.)
+Verifica-se, portanto, que, ainda que seja possível formular pedido de gratuidade de justiça a qualquer tempo, a concessão do benefício somente produzirá efeitos quanto aos atos processuais posteriores ao pedido, sendo vedada a retroatividade para alcançar encargos fixados em momento anterior (despesas processuais e honorários advocatícios decorrentes da sucumbência) ao deferimento do benefício.
+Ante o exposto, acolho os embargos de declaração, para, suprindo a omissão apontada, fixar, como termo inicial dos benefícios da justiça gratuita concedidos à parte embargada, a data do pedido formulado no Cumprimento de Sentença.
+É como voto.
