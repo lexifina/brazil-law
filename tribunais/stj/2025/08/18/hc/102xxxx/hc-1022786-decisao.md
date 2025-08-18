@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANTONIO RYAN DO NASCIMENTO SANTOS SOUZA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente foi investigado por suposta prática do delito tipificado no art. 157 do Código Penal, em fevereiro de 2024, e que, após a denúncia, foi decretada sua prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 10-17.
+Alega a defesa que a decisão que decretou a prisão preventiva foi proferida de forma genérica, sem observar os princípios constitucionais e os requisitos dos arts. 312 e 313 do Código de Processo Penal, configurando constrangimento ilegal.
+Sustenta que a prisão preventiva é desproporcional e que o paciente possui condições pessoais favoráveis, como residência fixa e primariedade, o que permitiria a aplicação de medidas cautelares alternativas.
+Afirma que há excesso de prazo na prisão preventiva, que já se prolonga sem perspectiva de continuidade da ação penal.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares alternativas, conforme os arts. 319 e 320 do Código de Processo Penal.
+Liminar indeferida às fls. 157-158.
+Informações prestadas às fls. 160-163.
+O Ministério Público Federal em parecer, às fls. 168-170, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+No presente caso, observa-se que a decisão que decretou a segregação cautelar, está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, haja vista que o paciente, juntamente com outro agente, praticaram, em tese, o crime de roubo qualificado. Na ocasião, os acusados, portando arma de fogo, teriam abordado a vítima e seus filhos, quando estes encerravam o expediente no estabelecimento comercial onde trabalhavam (Supermercado Mello), anunciando o roubo e exigindo dinheiro, o que levou o ofendido a entregar a chave de um automóvel VW Golf, onde em seu interior continha uma bolsa com cerca de R$ 5.000,00 em dinheiro e cheques, valores estes referentes a movimentação financeira do comércio naquele dia, circunstâncias apta a justificar a segregação cautelar - fl. 12.
+A propósito:
+"A prisão preventiva está devidamente fundamentada para garantir a ordem pública, com base na gravidade concreta do delito, evidenciada pelo modus operandi, envolvendo grave ameaça com uso de arma de fogo "(AgRg no RHC n. 206.422/RS, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/2/2025).
+No mesmo sentido: AgRg no HC n. 954.657/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 23/12/2024; AgRg no HC n. 955.894/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 16/12/2024 e AgRg no HC n. 951.702/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 9/12/2024.
+Quanto ao alegado excesso de prazo para a formação da culpa, tenho que melhor sorte não socorre à defesa.
+No presente caso, segundo consta nos autos o paciente teve a prisão preventiva decretada no dia 03/07/2025, pela prática, em tese, do crime de roubo qualificado, sendo recebida a denúncia na mesma data. O acusado foi preso preventivamente em 10/07/2025 e submetido à audiência de custódia em 11/07/2025.
+Como bem consignado pela corte de origem, " verifica-se que o feito principal segue sua marcha regular, tendo sido recebida a exordial acusatória na origem, estando o feito aguardando a apresentação de resposta à acusação pelas Defesas dos denunciados, de sorte que, sob tal panorama, não há falar em desídia ou inércia da máquina judiciária" - fl. 16.
+Ressalte-se que a ação penal tramita com regularidade sem qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Cumpre salientar que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais.
+A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração as circunstâncias do caso concreto, com a complexidade da causa e quaisquer outros fatores que possam influir na tramitação da ação penal ou do inquérito, e que não só do tempo da prisão cautelar.
+Sobre o tema:
+"A análise do excesso de prazo na instrução criminal deve ser feita à luz do princípio da razoabilidade e da proporcionalidade, considerando as particularidades do caso concreto, a atuação das partes e a condução do feito pelo Estado-juiz
+A mera extrapolação dos prazos processuais não acarreta automaticamente o relaxamento da prisão preventiva, especialmente em casos complexos" (AgRg no HC n. 968.770/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 5/3/2025).
+Nesse sentido: AgRg no HC n. 898.465/SC,de minha relatoria, Quinta Turma, DJe de 16/8/2024; AgRg no RHC n. 197.279/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024 e AgRg no HC n. 915.504/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024.
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
