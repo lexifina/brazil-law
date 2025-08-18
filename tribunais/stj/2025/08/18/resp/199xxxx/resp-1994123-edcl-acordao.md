@@ -1,0 +1,110 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRONÚNCIA BASEADA EM ELEMENTOS EXTRAJUDICIAIS. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento a agravo regimental em recurso especial, mantendo a decisão que anulou o processo desde a decisão de pronúncia, com a despronúncia do agravado.
+2. O Tribunal de Justiça do Estado do Tocantins havia dado provimento ao recurso da acusação, reformando a decisão de impronúncia do Juízo de primeiro grau, que considerou insuficientes os indícios de autoria.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a decisão de pronúncia pode ser fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial, sem confirmação judicializada.
+4. Outra questão em discussão é se o princípio in dubio pro societate é aplicável para suprir lacunas probatórias na fase de pronúncia, em contraste com a presunção de inocência.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do Superior Tribunal de Justiça afirma que a decisão de pronúncia deve ter suporte em prova mínima judicializada, produzida sob o crivo do contraditório e da ampla defesa, sendo insuficientes elementos exclusivamente oriundos da fase policial ou depoimentos indiretos "de ouvir dizer".
+6. A utilização do princípio "in dubio pro societate" na decisão de pronúncia, em contrariedade ao "in dubio pro reo", não encontra respaldo constitucional ou legal, pois a dúvida, especialmente na fase de pronúncia, deve ser resolvida em favor do réu, conforme os princípios da presunção de inocência e do devido processo legal.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. A decisão de pronúncia deve ter suporte em prova mínima judicializada, sendo insuficientes elementos exclusivamente oriundos da fase policial. 2. O princípio in dubio pro societate não é aplicável na fase de pronúncia, devendo a dúvida ser resolvida em favor do réu".
+RELATÓRIO
+Trata-se de embargos de declaração opostos por TALYANNA BARREIRA LEOBAS DE FRANÇA ANTUNES - ASSISTENTE DE ACUSAÇÃO contra acórdão assim ementado:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA FUNDAMENTADA EXCLUSIVAMENTE EM ELEMENTOS INFORMATIVOS COLHIDOS NA FASE INQUISITORIAL. IMPOSSIBILIDADE. NECESSIDADE DE PROVA MINIMA JUDICIALIZADA. INAPLICABILIDADE DO PRINCÍPIO IN DUBIO PRO SOCIETATE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que reconsiderou, em agravo regimental, decisão monocrática e que provimento a recurso especial, anulando o processo desde a decisão de pronúncia, com a despronúncia do ora agravado.
+2. O Tribunal de Justiça do Estado do Tocantins deu provimento ao recurso da acusação, reformando a decisão de impronúncia do juízo de primeiro grau, que havia considerado insuficientes os indícios de autoria.
+3. O recorrente alega violação de dispositivo do Código de Processo Penal e dos enunciados de Súmula 83 e 7 desta Corte e que existiriam elementos nos autos suficientes a ensejar a pronúncia do recorrido.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) se a decisão proferida anteriormente deve ser reformada no presente agravo regimental; (ii) se, no caso concreto, a pronúncia pode ser fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial, sem confirmação judicializada; e (iii) se o princípio in dubio pro societate é aplicável para suprir lacunas probatórias na fase de pronúncia, em contraste com a presunção de inocência.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é clara ao afirmar que a decisão de pronúncia deve ter suporte em prova mínima judicializada, produzida sob o crivo do contraditório e da ampla defesa, sendo insuficientes elementos exclusivamente oriundos da fase policial ou depoimentos indiretos "de ouvir dizer".
+4. A utilização do princípio in dubio pro societate na decisão de pronúncia, em contrariedade ao in dubio pro reo, não encontra respaldo constitucional ou legal, pois a dúvida, especialmente na fase de pronúncia, deve ser resolvida em favor do réu, conforme os princípios da presunção de inocência e do devido processo legal.
+5. A pronúncia não pode ser baseada em simples suspeitas ou conjecturas extraídas de elementos informativos obtidos sem contraditório, sob pena de violação do art. 155 do CPP e da própria função do judicium accusationis, que visa evitar a submissão de réus ao Tribunal do Júri com base em provas frágeis ou insuficientes.
+IV. DISPOSITIVO
+6. Agravo regimental não provido.
+Nas razões deste recurso, a embargante alega a ocorrência de omissão, contradição e obscuridade no acórdão embargado, além de nulidade da sessão de julgamento por ausência de inclusão em pauta e intimação das partes.
+Sustenta, em síntese, que: a) houve contradição em razão da inclusão do feito em mesa e não em pauta de julgamento, frente ao fato de terem sido julgadas prejudicadas as petições concernentes à nulidade levantada em razão do julgamento virtual iniciado em 21/11/2024; b) houve contradição no impedimento de realização de sustentação oral frente à indicação de que o feito estaria sendo julgado do início; c) há obscuridade no trecho da decisão agravada, mantida à unanimidade pela Turma, ao asseverar que estava anulando o processo desde a decisão de pronúncia; d) há contradição no argumento de que não poderia esta Corte proceder à reanálise do acervo fático-probatório, quando a própria Ministra Relatora o fez ao julgar o agravo da parte recorrente; e) há omissão em razão de não terem sido avaliados elementos novos trazidos aos autos pela Assistência que teriam o condão de mudar completamente o rumo do processo.
+O embargado apresentou impugnação (e-STJ fls. 5842-5853), sustentando a inexistência dos vícios apontados e requerendo a rejeição dos embargos.
+O Ministério Público Federal manifestou-se pela rejeição dos embargos de declaração (e-STJ fls. 5940-5946).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRONÚNCIA BASEADA EM ELEMENTOS EXTRAJUDICIAIS. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento a agravo regimental em recurso especial, mantendo a decisão que anulou o processo desde a decisão de pronúncia, com a despronúncia do agravado.
+2. O Tribunal de Justiça do Estado do Tocantins havia dado provimento ao recurso da acusação, reformando a decisão de impronúncia do Juízo de primeiro grau, que considerou insuficientes os indícios de autoria.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a decisão de pronúncia pode ser fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial, sem confirmação judicializada.
+4. Outra questão em discussão é se o princípio in dubio pro societate é aplicável para suprir lacunas probatórias na fase de pronúncia, em contraste com a presunção de inocência.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do Superior Tribunal de Justiça afirma que a decisão de pronúncia deve ter suporte em prova mínima judicializada, produzida sob o crivo do contraditório e da ampla defesa, sendo insuficientes elementos exclusivamente oriundos da fase policial ou depoimentos indiretos "de ouvir dizer".
+6. A utilização do princípio "in dubio pro societate" na decisão de pronúncia, em contrariedade ao "in dubio pro reo", não encontra respaldo constitucional ou legal, pois a dúvida, especialmente na fase de pronúncia, deve ser resolvida em favor do réu, conforme os princípios da presunção de inocência e do devido processo legal.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. A decisão de pronúncia deve ter suporte em prova mínima judicializada, sendo insuficientes elementos exclusivamente oriundos da fase policial. 2. O princípio in dubio pro societate não é aplicável na fase de pronúncia, devendo a dúvida ser resolvida em favor do réu".
+VOTO
+Presentes os requisitos de admissibilidade, conheço dos embargos.
+No mérito, contudo, a irresignação deixa de justificar-se, pois, a despeito de afirmar a ocorrência de vícios, o que pretende a parte é a rediscussão de matéria já analisada em virtude do resultado desfavorável.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão, o que inexiste na hipótese dos autos, porquanto acolhe-se do acórdão embargado os seguintes fundamentos para negar provimento ao agravo regimental (fls. 5863-5897):
+" ..
+Extrai-se das transcrições, sobretudo do acórdão que julgou o recurso em sentido estrito, que o lastro probatório que embasou a pronúncia consiste, exclusivamente, em elementos colhidos na fase extrajudicial da persecução penal e em declarações "de ouvir dizer".
+Ora, o entendimento atual deste Tribunal é no sentido de que "a pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial, sem que estes tenham sido confirmados em juízo e, tampouco, em depoimento de ouvir dizer" (AgRg no HC n. 830.464/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023 e (AgRg no AgRg no AREsp n. 1.007.726/MG, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 7/11/2023, DJe de 13/11/2023).
+Acrescento que, no Estado Democrático de Direito, a legitimidade da fundamentação das decisões judiciais decorre, também, do exame das provas submetidas ao contraditório e à ampla defesa, corolários do devido processo legal, o que não ocorre, em regra, com a prova produzida extrajudicialmente.
+Consequentemente, depreende-se que a decisão de pronúncia, quando restar fundamentada exclusivamente com base em elementos informativos obtidos em fase inquisitorial, representará flagrante ofensa ao Estado Democrático de Direito e ao Princípio da Presunção de Inocência.
+ ..
+Ademais, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Por fim, tendo em vista a realização do julgamento presencial do agravo, encontram-se prejudicadas as petições de fls. 5723-5727, 5742-5751 e 5753-5755 (e-STJ).
+Ante o exposto, nego provimento ao agravo regimental."
+Inicialmente, no que diz respeito à alegada nulidade da sessão de julgamento por ausência de inclusão em pauta e intimação das partes, adianto que o pleito deixa de justificar-se.
+Como cediço, na esteira da pacífica jurisprudência desta eg. Corte Superior, "é incabível o pedido de intimação prévia da data de realização da sessão de julgamento do recurso, porque o julgamento do agravo regimental na esfera criminal, embora cabível a sustentação oral, independe de prévia inclusão em pauta, uma vez que são levados em mesa para julgamento, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça." (EDcl no AgRg no REsp n. 2.037.437/AM, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/10/2023, DJe de 24/10/2023).
+De mais a mais, também da jurisprudência deste Superior Tribunal, colhe-se o entendimento no sentido de que "A teor do art. 258 do Regimento Interno do Superior Tribunal de Justiça, inexiste suporte normativo para intimação das partes sobre a inclusão, em mesa, de agravo regimental em matéria penal." (EDcl no AgRg no REsp n. 1.993.725/SP, relator Ministro João Batista Moreira (Desembargador convocado do TRF 1ª Região), Quinta Turma, julgado em 13/06/2023, DJe de 20/06/2023, grifei).
+Em complemento, cumpre ressaltar, por oportuno, que "Cabe à parte interessada acompanhar a inclusão do processo em mesa, anunciada no sítio eletrônico do Superior Tribunal de Justiça" (EDcl no AgRg no AREsp n. 2.715.729/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024, grifei).
+No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO DE INTIMAÇÃO PARA JULGAMENTO DE AGRAVO REGIMENTAL. INCLUSÃO EM PAUTA DE JULGAMENTO. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL OU REGIMENTAL. RECURSO APRESENTADO EM MESA. ART. 258, DO RISTJ. PEDIDO DE REALIZAÇÃO DE SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREVISÃO LEGAL. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO COLEGIADO. INOCORRÊNCIA. DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS LEGAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL CONHECIDO EM PARTE E DESPROVIDO.
+1. Não há previsão legal ou regimental de intimação prévia da data da sessão de julgamento de agravo regimental, em matéria penal, porquanto, na forma do art. 258, do RISTJ, a apreciação da referida modalidade recursal independe de inclusão em pauta, cabendo ao Relator a oportunidade e conveniência da apresentação para julgamento em mesa. Precedentes.
+2. "O cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994" (EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe 28/6/2022). Precedentes.
+3. O julgamento monocrático realizado pelo Ministro Presidente deste Superior Tribunal de Justiça, antes mesmo da distribuição do processo, decidindo pelo não conhecimento de recurso inadmissível, prejudicado ou que não houver impugnado especificamente os fundamentos da decisão recorrida, tal como ocorreu na hipótese dos autos, encontra respaldo no art. 21-E, inciso V, do RISTJ, não havendo se falar, portanto, em nulidade ou ofensa aos princípios do juiz natural e da colegialidade. Ademais, a possibilidade de interposição de agravo regimental, com a reapreciação do recurso pelo órgão colegiado, torna superada eventual nulidade da decisão monocrática por suposta ofensa ao princípio da colegialidade.
+Precedentes.
+4. A decisão agravada não conheceu do agravo em recurso especial com fundamento na Súmula n. 182/STJ, porquanto não impugnada especificamente a incidência de óbices apontados pela Corte a quo como razões de decidir para a inadmissão do recurso especial (e-STJ fls. 846/847). Nas razões do regimental (e-STJ fls. 850/859), por sua vez, o agravante deixou de infirmar especificamente o referido entrave, limitando-se a apresentar alegações genéricas.
+5. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (decisão de não conhecimento do agravo em recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+6. Agravo regimental conhecido parcialmente e, nessa extensão, não provido.
+(AgRg no AREsp n. 2.884.665/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INDEFERIMENTO DE ADIAMENTO DE SESSÃO DE JULGAMENTO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, no qual se alegou violação ao art. 7º, § 2º-B, I, da Lei n. 8.906/94, em razão do indeferimento do pedido de adiamento da sessão de julgamento do apelo defensivo pelo Tribunal de origem.
+2. O defensor do agravante solicitou o adiamento da sessão de julgamento, alegando compromisso em audiência na Polícia Federal em São Paulo no dia seguinte ao julgamento, mas o pedido foi indeferido pelo Tribunal de origem, que destacou a possibilidade de sustentação oral por videoconferência ou substabelecimento de poderes a outro advogado.
+3. O Tribunal Regional Federal da 4ª Região entendeu que não havia impossibilidade de presença do defensor nos eventos, pois ocorreriam em datas diferentes, ainda que em cidades distintas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o indeferimento do pedido de adiamento da sessão de julgamento, para realização de sustentação oral, configura cerceamento de defesa.
+5. Outra questão em discussão é se houve comprovação de que o agravante adquiriu o imóvel de forma lícita e se praticou atos de ocultação ou dissimulação da origem ilícita de bens.
+III. Razões de decidir
+6. O entendimento do Superior Tribunal de Justiça é de que a realização de sustentação oral não é ato essencial à defesa, e o indeferimento do pedido de adiamento da sessão não gera nulidade, conforme precedentes citados.
+7. A Corte local analisou detalhadamente o acervo probatório, concluindo pela materialidade e autoria delitivas do agravante, não havendo elementos que justifiquem a revisão do julgado em sede de recurso especial, em razão da Súmula 7/STJ.
+8. Para a configuração do crime de lavagem de dinheiro, não é necessário que o acusado tenha sido condenado pelo delito antecedente, bastando indícios suficientes de sua existência, conforme entendimento pacificado do STJ.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. A realização de sustentação oral não é ato essencial à defesa, e o indeferimento do pedido de adiamento da sessão não gera nulidade. 2. A configuração do crime de lavagem de dinheiro não exige condenação pelo delito antecedente, bastando indícios suficientes de sua existência".
+Dispositivos relevantes citados: Lei n. 8.906/94, art. 7º, § 2º-B, I; CPP, art. 265, § 1º; Lei n. 9.613/98, art. 1º.Jurisprudência relevante citada: STJ, AgRg no AgRg no HC 410.515/SP, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 04.09.2018; STF, ARE 1034933 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, julgado em 12.04.2019; STF, RHC 118660, Rel. Min. Cármen Lúcia, Segunda Turma, julgado em 18.02.2014.
+(AgRg no REsp n. 2.159.797/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+Quanto às demais alegações, como se vê, a despeito das afirmações da embargante, inexiste no acórdão embargado qualquer vício, uma vez que foi claro em afirmar a legalidade da despronúncia do embargado, considerando que o lastro probatório que embasou a pronúncia consistia exclusivamente em elementos colhidos na fase extrajudicial da persecução penal e em declarações "de ouvir dizer".
+Conforme pacificado nesta Corte, "o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento." (AgRg no AREsp n. 2.222.222 /MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 13/2 /2023).
+Como bem observado pelo parecer do Ministério Público Federal, "os embargos de declaração, nos termos do que estabelece o artigo 619 do Código de Processo Penal, somente são cabíveis nos casos de ambiguidade, obscuridade, contradição ou omissão da decisão impugnada, o que não restou demonstrado no caso ora debatido. Assim, não restando demonstrada a existência de qualquer das hipóteses que autorizam a oposição de embargos de declaração, não é permitido valer-se dos aclaratórios como sucedâneo recursal, tampouco para rediscutir matéria fático-probatória, como tenta fazer a embargante. A insatisfação do recorrente, na verdade, incide sobre o mérito da controvérsia, isto é, a "justiça da decisão". Solucionar eventual error in judicando, entretanto, é incabível em sede de embargos de declaração, restando ao interessado fazer uso das vias recursais próprias e legalmente admissíveis." (fl. 5945).
+Nesse sentido:
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NO TRÂNSITO. ANPP. IRRETROATIVIDADE DA NORMA. PLEITO DE ANULAÇÃO. PEDIDO DE SUSTENTAÇÃO ORAL NO JULGAMENTO DE AGRAVO REGIMENTAL. AUSÊNCIA DE PREVISÃO LEGAL. INTELIGÊNCIA DO ART. 7º, § 2º-B, INCISO III, DO EOAB. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NOS ARTS. 1022, CPC E 619 E 620 DO CPP. REDISCUSSÃO DE MÉRITO. IMPOSSIBILIDADE.
+I - Pleito de análise do cabimento de acordo de não persecução penal. Recebimento da denúncia em momento anterior à vigência da lei. Irretroatividade da norma.
+II - Não há previsão legal para a intimação pessoal da defesa da data do julgamento, bem como de sustentação oral no julgamento de agravo regimental no agravo em recurso especial. Assim, descabe cogitar de anulação do acórdão.
+III - Os embargos declaratórios possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+III - No caso, a parte pretende o reexame de matéria julgada em razão de mero inconformismo com o que decidido nos autos, o que não se coaduna com a estreita via dos declaratórios.
+Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl no AREsp n. 1.995.042/PA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+As sim, o que a embargante pretende, em verdade, é a nova discussão de matéria já julgada pelo colegiado da Quinta Turma em virtude do resultado desfavorável, hipótese que inadmite a oposição de embargos de declaração, conforme iterativa jurisprudência deste Tribunal.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
