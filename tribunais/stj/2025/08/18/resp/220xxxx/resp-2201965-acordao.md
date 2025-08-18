@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. ACÓRDÃO. OMISSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA.
+1. O não enfrentamento, pela corte de origem, de questão ventilada nos aclaratórios e imprescindível à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, autorizando o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Recurso especial provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por CAPP - CLUB DE ASSISTÊNCIA PROTEÇÃO PROTBENS fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS - ACIDENTE DE TRÂNSITO - PRELIMINAR DE AUSÊNCIA DE FUNDAMENTAÇÃO - INOCORRÊNCIA - COLISÃO PELA TRASEIRA - VEÍCULO PARADO NO ACOSTAMENTO - BOLETIM DE OCORRÊNCIA - PRESUNÇÃO RELATIVA DE VERACIDADE NÃO DESCONSTITUÍDA - RESPONSABILIDADE DO AUTOR - COMPROVAÇÃO - DEVER DE INDENIZAR - RECURSO NÃO PROVIDO. I - Não resta configurada a ocorrência das hipóteses do artigo 489, § 1º do CPC quando é possível extrair da sentença o fundamento que justificou a conclusão adotada pelo magistrado sentenciante. II - Nos acidentes de trânsito, o boletim de ocorrência, por se tratar de documento público, elaborado por agente da autoridade, desfruta da presunção "juris tantum" de veracidade, produzindo efeitos jurídicos quanto ao seu contexto se não houver prova concreta em sentido contrário. III - Demonstrado nos autos que o acidente se deu por inobservância das cautelas necessárias, tendo o veículo de propriedade do réu atingido o veículo que estava parado no acostamento da rodovia, resta caracterizada sua culpa pelo evento danoso. IV - Recurso não provido" (e-STJ fl. 386).
+Os embargos de declaração opostos foram rejeitados.
+A recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, ao fundamento de que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar as questões postas nos embargos declaratórios sobre "a falta/inexistência de fundamento pelos argumentos de que o veículo teria saído rodando, e pelo elemento de que as notas fiscais que mensuram o valor supostamente perdido se referem a veículo de terceiro, o que demonstram que a parte não comprova o suposto lucro cessante" (e-STJ fl. 426).
+Com as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. ACÓRDÃO. OMISSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA.
+1. O não enfrentamento, pela corte de origem, de questão ventilada nos aclaratórios e imprescindível à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, autorizando o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Recurso especial provido.
+VOTO
+A insurgência merece prosperar.
+Os declaratórios opostos pelo recorrente afirmaram que o acórdão do agravo interno deixou de apreciar as seguintes questões: "a falta/inexistência de fundamento pelos argumentos de que o veículo teria saído rodando, e pelo elemento de que as notas fiscais que mensuram o valor supostamente perdido se referem a veículo de terceiro, o que demonstram que a parte não comprova o suposto lucro cessante" (e-STJ fl. 426).
+Compulsando os autos, verifica-se que, não obstante a oposição de declaratórios, a Corte local permaneceu silente quanto à essas alegações.
+O artigo 1.022, parágrafo único, II, do Código de Processo Civil, remetendo-se ao artigo 489, § 1º, IV, determina que é omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Ademais, o questionamento sobre o estado do veículo após o acidente e as notas fiscais apresentadas pelo recorrido demanda necessário revolvimento de matéria fática, inviável na presente sede recursal a teor da Súmula nº 7/STJ, o que afasta a aplicação do art. 1.025 do Código de Processo Civil à presente hipótese.
+Assim, não tendo o Tribunal local enfrentado questão necessária ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do Código de Processo Civil, a fim de anular o acórdão recorrido para suprir a omissão existente.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO. AUSÊNCIA DE NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. NECESSIDADE DE EXAME, PELO TRIBUNAL ESTADUAL, DE QUESTÃO SUSCITADA EM EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS QUE SE IMPÕE. DECISÃO AGRAVADA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte de Justiça entende que "a legislação processual permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt nos EDcl no REsp n. 1.936.474/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/2/2022, DJe de 24/2/2022).
+2. O Tribunal estadual deixou de sanar omissão sobre questão suscitada em embargos de declaração, a qual é essencial para o deslinde da controvérsia, revelando-se medida salutar o retorno dos autos para que o órgão competente realize novo julgamento dos aclaratórios, com a devida apreciação da matéria nele levantada.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a regra do art. 489, § 1º, VI, do CPC/2015, segundo a qual o juiz, para deixar de aplicar enunciado de súmula, jurisprudência ou precedente invocado pela parte, deve demonstrar a existência de distinção ou de superação, somente se aplica às súmulas ou precedentes vinculantes, mas não às súmulas e aos precedentes apenas persuasivos" (REsp n. 1.698.774/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2020, DJe de 9/9/2020).
+4. A conclusão acerca da necessidade de retorno dos autos à origem não ocorreu em virtude da existência de fundamentação per relationem, mas sim em decorrência da falta de pronunciamento, em absoluto, sobre a questão suscitada pelo ora agravado.
+5. Agravo interno desprovido."
+(AgInt no AREsp 2.579.991/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 18/9/2024 - grifou-se)
+"AGRAVO INTERNO. RECURSO ESPECIAL. TRANSPORTE DE MEDICAMENTOS. LEI DO VALE-PEDÁGIO. ILEGITIMIDADE DE PARTE. ALEGAÇÃO DE QUE UMA DAS PARTES É MERA DISTRIBUIDORA. OFENSA AOS PRINCÍPIOS DA BOA-FÉ CONTRATUAL E DO NON VENIRE CONTRA FACTUM PROPRIUM. IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL. PEDIDO SUCESSIVO DE ABATIMENTOS SOBRE A
+CONDENAÇÃO. AUSÊNCIA DE EXAME. ARTIGOS 489 E 1.022 DO CPC. OMISSÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas desde a contestação e reiteradas nos embargos de declaração opostos pela ora agravante, configurada está a ofensa aos artigos 489 e 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. A legitimidade ativa e a comprovação da prestação de serviço de transporte de forma exclusiva ao embarcador não podem ser remetidas para discussão em fase de liquidação de sentença, porquanto a verificação de tais fatos constituem requisitos para o reconhecimento e a delimitação do próprio direito à indenização pleiteada (an debeatur), e não apenas para a mensuração do valor devido (quantum debeatur).
+(..)
+4. Agravo interno e recurso especial providos. Acórdão dos embargos de declaração cassado. Prejudicado o agravo em recurso especial interposto pelos autores."
+(AgInt no REsp 1.823.417/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 6/3/2023 - grifou-se)
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a matéria suscitada nos declaratórios, acima especificada, como entender de direito.
+É o voto.
