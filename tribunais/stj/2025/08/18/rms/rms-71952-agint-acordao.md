@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA . CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESERÇÃO. INTIMAÇÃO PARA REGULARIZAÇÃO. VÍCIO NÃO SANADO. SÚMULA N. 187/STJ. INCIDÊNCIA. ATESTADO MÉDICO. IMPOSSIBILIDADE DE EXERCÍCIO DO OFÍCIO. NÃO COMPROVAÇÃO. DOIS ADVOGADOS COM PROCURAÇÃO NOS AUTOS. JUSTA CAUSA AFASTADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O recurso especial não foi instruído com a guias de custas e o respectivo comprovante de pagamento. Deserção. Incidência da Súmula n. 187 do Superior Tribunal de Justiça: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+III - No caso dos autos, a juntada de atestado médico, sem a comprovação de absoluta impossibilidade do exercício da profissão, e havendo outro causídico com procuração nos autos, não configura justa causa para afastar a deserção.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravo Interno interposto por EMANUEL MESSIAS FERREIRA contra decisão monocrática, proferida pela Sra. Ministra Maria Thereza De Assis Moura, então Presidente desta Corte, mediante a qual não conheceu do Recurso em Mandado de Segurança, nos termos do art. 21-E, V, do RISTJ, em razão da incidência da Súmula n. 187 desta Corte (fls. 1.025/1.026e).
+Sustenta o Agravante, em síntese, que:
+ ..  o recolhimento do preparo fora realizado pela defesa na mesma data da decisão, e 20 dias antes do vencimento (29.08.2023), que, até a presente data (25.08.2023) sequer venceu. Além da contemporaneidade do atendimento da decisão com o comprovante de pagamento, há também a menção ao nome completo e o CPF da parte recorrente.
+18. Ademais, a própria juntada do arquivo com a nomenclatura de "08. GUIA DE CUSTAS EM DOBRO.pdf" e "tipo" classificado como "Comp. de Rec. De Custas Judiciais" constante nas fls. 1021 já denota a boa-fé de cumprir o desiderato prelecionado pelo verbete Sumular de nº. 187 desta Corte, não podendo se cogitar qualquer desconhecimento deste pressuposto processual previsto no § 4º do art. 1.007 do Código de Processo Civil.
+ ..
+Contemporaneamente ao atendimento da respectiva decisão de Vossa Excelência, o advogado designado para acompanhamento encontrava-se em meio a um tratamento médico- psiquiátrico decorrente do acometimento de um quadro de depressão grave, o que impossibilitou de concluir o Mestrado em Direito Penal na Universidade de Buenos Aires (Argentina), em razão dos diversos medicamentos que lhe fora prescrito, com muitos efeitos colaterais. (docs. anexo)
+É dessa conjuntura fática que ocorreu a mera irregularidade na juntada do arquivo. É dizer, em meio a adaptação da medicação iniciada pelo quadro de depressão grave que o advogado designado ainda padece, o arquivo originário da guia, quando ainda na máquina de computador deste causídico, teve salvado outro arquivo por cima equivocadamente, o que, via de consequência, induziu este causídico a erro, juntando arquivo com nomenclatura em descompasso com o seu conteúdo.
+ ..
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado (fls. 1.030/1.041e).
+Impugnação do ESTADO DE MATO GROSSO às fls. 1.049/1.053e.
+Não exercido o juízo de retratação (fl. 1.055e), os autos foram a mim redistribuídos (fl. 1.057e).
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA . CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESERÇÃO. INTIMAÇÃO PARA REGULARIZAÇÃO. VÍCIO NÃO SANADO. SÚMULA N. 187/STJ. INCIDÊNCIA. ATESTADO MÉDICO. IMPOSSIBILIDADE DE EXERCÍCIO DO OFÍCIO. NÃO COMPROVAÇÃO. DOIS ADVOGADOS COM PROCURAÇÃO NOS AUTOS. JUSTA CAUSA AFASTADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O recurso especial não foi instruído com a guias de custas e o respectivo comprovante de pagamento. Deserção. Incidência da Súmula n. 187 do Superior Tribunal de Justiça: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+III - No caso dos autos, a juntada de atestado médico, sem a comprovação de absoluta impossibilidade do exercício da profissão, e havendo outro causídico com procuração nos autos, não configura justa causa para afastar a deserção.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao Agravante, porquanto verifico a ausência de requisito extrínseco de admissibilidade do recurso, consistente na comprovação do respectivo preparo, nos moldes exigidos pelas normas previstas na legislação processual e em resoluções desta Corte Superior, vigentes quando da respectiva interposição.
+Com efeito, prescreve o Código de Processo Civil que, não sendo caso de isenção, constitui ônus da parte recorrente, quando exigido pela legislação pertinente, comprovar, no ato de interposição do recurso, a realização do preparo, sob pena de deserção (art. 1.007, caput).
+No âmbito da competência recursal do Superior Tribunal de Justiça, a efetivação do preparo, composto de custas e porte de remessa e retorno, será feita no tribunal de origem, no prazo e no ato da sua interposição, cabendo à parte recorrente a juntada aos autos das guias e respectivos comprovantes de recolhimento (arts. 6º e 10 da Lei n. 11.636/2007).
+Conforme estabelecido nas normas de regência, a par de eventuais custas locais, o pagamento das devidas a esta Corte (Lei n. 11.636/2007) e das despesas relativas ao porte de remessa e retorno dos autos, quando for o caso, deverá ser feito em rede bancária, mediante preenchimento de Guia de Recolhimento de Receita da União (GRU) ou de Documento de Arrecadação de Receitas Federais (DARF), com a anotação do correspondente código de receita e indicação do número do processo respectivo, em conformidade com as normas estabelecidas em resolução e instruções do Superior Tribunal de Justiça (arts. 4º da Lei n. 11.636/2007; e 41-B, da Lei n. 8.038/1990, incluído pela Lei n. 9.756/1998; e Resoluções ns. 20/2004, 4/2010/STJ e posteriores).
+No caso sob exame, conforme se verifica dos autos, a parte recorrente não comprovou o devido recolhimento do preparo, notadamente as despesas relativas às custas e o comprovante de pagamento.
+Registre-se, que a parte foi intimada para regularizar preparo no prazo de 5 (cinco) dias, recolhendo em dobro as custas, na forma do § 4º do art. 1.007 do Código de Processo Civil de 2015 (fl. 834e). Contudo, limitou-se a apresentar o referido comprovante de pagamento (fl. 1.020e), o qual veio desacompanhado da guia de recolhimento das custas devidas a esta Corte, conforme anteriormente determinado, incidindo, portanto, o verbete sumular n. 187/STJ.
+Assim, consoante jurisprudência desta Corte, não se conhece do recurso interposto sem a comprovação do preparo, nos termos do art. 1.007, caput do Código de Processo Civil de 2015:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. JUNTADA DA GUIA DE RECOLHIMENTO DE CUSTAS. NECESSIDADE. DESERÇÃO.
+1. A prova do recolhimento de custas requer a juntada da guia de pagamento e do comprovante de recolhimento do valor devido.
+2. Hipótese em que, após ser intimada para regularizar o preparo, a parte recorrente acostou aos autos apenas o comprovante de pagamento, deixando de juntar a respectiva guia de pagamento, documento sem o qual não se pode atestar a regularidade do pagamento.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 2.092.489/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 12/9/2023, DJe de 15/9/2023, destaques meus).
+Ademais, os julgados invocados no Agravo Interno revelam-se inaplicáveis, seja por terem relevado a deserção em hipótese diversa (AREsp n. 902.854/RJ, EDcl no AgInt no AREsp 1.681.651/MG e AgInt no AREsp 1.417.734/MA), seja porque o acórdão remanescente foi prolatado pela 2ª Turma deste Tribunal Superior (AgInt no RMS n. 69.579/MG, Rel. Min Herman Benjamin, j. em 6.3.2023, DJe de 27.3.2023), enquanto a decisão recorrida, conforme anteriormente mencionado, observa o entendimento da Corte Especial (AgInt nos EAREsp n. 2.092.489/DF, Rel. Min. Og Fernandes, j. em 12.9.2023, DJe de 15.9.2023), em respeito ao art. 927, V, do CPC/2015.
+De outra parte, ressalta-se, que consoante entendimento desta Corte Superior o fato de o advogado encontrar-se em tratamento médico não constitui, por si só, hipótese de justa causa se não comprovado que seu problema de saúde o impediu de praticar o ato ou de substabelecer o mandato.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INTEMPESTIVIDADE. JUNTADA DE ATESTADO MÉDICO. INSUFICIÊNCIA. NÃO COMPROVAÇÃO DE JUSTA CAUSA. EMBARGOS NÃO CONHECIDOS.
+I. Caso em exame
+1. Embargos de declaração opostos a acórdão proferido em agravo interno na petição.
+2. O embargante pleiteia a aplicação retroativa da Lei n. 14.939/2024, que alterou o CPC, para permitir a correção do vício de não comprovação de feriado local ou a desconsideração da omissão caso a informação conste do processo eletrônico.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se os embargos de declaração podem ser considerados tempestivos, apesar de terem sido opostos fora do prazo legal; (ii) saber se é válido atestado médico apresentado para justificar a intempestividade, sem comprovação da impossibilidade total do advogado de exercer a profissão ou de substabelecer o mandato.
+III. Razões de decidir
+4. Os embargos de declaração foram considerados intempestivos, pois foram opostos após o prazo de 5 dias úteis previsto no art. 1.023 do CPC de 2015.
+5. A jurisprudência do STJ estabelece que a doença do advogado só caracteriza justa causa para devolução do prazo se impossibilitar totalmente o exercício da profissão ou o substabelecimento do mandato, o que não foi comprovado no caso.
+IV. Dispositivo e tese
+6. Embargos de declaração não conhecidos.
+Tese de julgamento: "1. Os embargos de declaração são intempestivos se opostos fora do prazo de 5 dias úteis, conforme o CPC de 2015. 2. A doença do advogado só constitui justa causa para devolução do prazo se impossibilitar totalmente o exercício da profissão ou o substabelecimento do mandato".
+Dispositivos relevantes citados: CPC/2015, arts. 1.023 e 219. Jurisprudência relevante citada: STJ, EDcl no AgInt nos EAREsp n. 1.749.042/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgados em 14/6/2022; STJ, EDcl no AgInt no AREsp n. 1.952.585/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 2/5/2022.
+(EDcl no AgInt na Pet n. 16.916/SP, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 26/3/2025, DJEN de 1/4/2025, destaques meus).
+No caso em tela, além de não restar demonstrada a impossibilidade total do advogado de exercer a profissão, verifico que o referido causídico não era o único patrono constituído nos autos, conforme procuração de fl. 62e.
+Nesse contexto, não há falar em justa causa para afastar a deserção.
+Assim sendo , em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro Jorge Mussi, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra Assusete Magalhães, j. 14.09.2016.
+Posto isso, NEGO PROVIMENTO ao recurso.
