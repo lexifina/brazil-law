@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 12/08/2025 a 18/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE E INTERESSE DO ESPÓLIO. PREFERÊNCIA DE CREDORES EM INVENTÁRIO. PREFERÊNCIA DE PAGAMENTO DE CRÉDITO EM OUTRO ESPÓLIO. DUPLA PENHORA. RECONHECIMENTO DE AUSÊNCIA DE PREJUÍZO AO ACERVO PATRIMONIAL. REEXAME DE FATOS E PROVAS. FALTA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo em recurso especial interposto por espólio contra decisão que inadmitiu o recurso especial, com base na Súmula 7 do STJ, em razão da necessidade de reexame de provas para verificar a legitimidade e o interesse recursal do espólio em impugnar decisão sobre preferência de credores em inventário.
+2. O acórdão recorrido tratou do agravo de instrumento interposto pelo espólio contra decisão que reconheceu a preferência de pagamento do crédito de outro espólio, em razão da anterioridade da penhora.
+3. A decisão monocrática não conheceu do recurso por ilegitimidade e ausência de interesse recursal, uma vez que o agravante não foi vencido na decisão e não há prejuízo ao seu acervo patrimonial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o espólio possui legitimidade e interesse recursal para impugnar decisão que ordena a preferência dos credores do inventário e determina a transferência de dinheiro pertencente ao espólio.
+5. A questão também envolve a análise da necessidade de reexame de provas para verificar eventual prejuízo ao espólio, o que é vedado em recurso especial pela Súmula 7 do STJ.
+III. Razões de decidir
+6. O acórdão recorrido foi claro ao afirmar que não houve comprovação de eventual prejuízo ao espólio, o que inviabiliza o conhecimento do recurso especial, pois demandaria reexame de provas.
+7. A jurisprudência do STJ é pacífica no sentido de que o reexame de fatos e provas é vedado em recurso especial, conforme a Súmula 7 do STJ.
+8. A falta de prequestionamento das matérias suscitadas no recurso especial impede seu conhecimento, conforme a Súmula 282 do STF.
+IV. Dispositivo
+9. Recurso não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE ESTELITO FERNANDES DE OLIVEIRA contra decisão que inadmitiu o recurso especial por encontrar óbice na Súmula 7 do STJ.
+O acórdão recorrido tratou do Agravo de Instrumento interposto pelo Espólio de Estelito Fernandes de Oliveira contra decisão que reconheceu a preferência de pagamento do crédito do Espólio de Maria Vitalina de Souza, em razão da anterioridade da penhora realizada em 24/01/2020, em face da habilitação do crédito de Wagner Fernandes de Oliveira em 28/04/2021 (fls. 60). A decisão monocrática não conheceu do recurso, por ilegitimidade e ausência de interesse recursal, uma vez que o agravante não foi vencido na decisão e não há prejuízo ao seu acervo patrimonial (fls. 64). O Espólio de Estelito Fernandes de Oliveira interpôs Agravo Interno, defendendo a legitimidade recursal do espólio, pois a decisão agravada determinou a redução de seu patrimônio e ordenou a preferência dos credores habilitados (fls. 89). No entanto, o agravo interno foi desprovido, mantendo-se a decisão monocrática por seus próprios fundamentos, que afirmam a ilegitimidade do espólio agravante para questionar a preterição do crédito de Wagner Fernandes de Oliveira (fls. 98).
+Foi interposto Recurso Especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Goiás. Nas razões do recurso especial, a parte recorrente alegou que o acórdão recorrido violou os artigos 18, 618, incisos I e II, e 996, caput e parágrafo único, todos do Código de Processo Civil, ao negar legitimidade e interesse do espólio para impugnar a decisão que ordena a preferência dos credores do inventário e determina a transferência de dinheiro pertencente ao espólio (fls. 109). Requereu o provimento do recurso especial para reformar o acórdão e determinar o conhecimento do recurso de Agravo de Instrumento (fls. 115).
+O Recurso Especial foi inadmitido (fls. 382) nos seguintes termos: a análise de eventual ofensa aos dispositivos legais apontados esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça, uma vez que a conclusão sobre o acerto ou desacerto do acórdão vergastado demandaria sensível incursão no acervo fático-probatório, para que se pudesse, circunstancialmente, perscrutar o interesse e legitimidade do espólio (fls. 383).
+Diante da decisão de inadmissibilidade, o Espólio de Estelito Fernandes de Oliveira interpôs Agravo em Recurso Especial (AREsp), impugnando os fundamentos da decisão agravada nos seguintes termos: a decisão de inadmissibilidade não merece prosperar, devendo o recurso ser admitido e julgado procedente, pois a questão debatida é eminentemente de direito, com a interpretação do voto proferido e da legislação federal, especificamente sobre a legitimidade do espólio para recorrer da decisão prolatada no inventário, que determinou a transferência de valores e ordenou a preferência dos credores de maneira diversa da informada (fls. 391). Requereu o provimento do agravo para reformar a decisão de inadmissibilidade do recurso especial, viabilizando sua análise e julgamento pelo Superior Tribunal de Justiça (fls. 395).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE E INTERESSE DO ESPÓLIO. PREFERÊNCIA DE CREDORES EM INVENTÁRIO. PREFERÊNCIA DE PAGAMENTO DE CRÉDITO EM OUTRO ESPÓLIO. DUPLA PENHORA. RECONHECIMENTO DE AUSÊNCIA DE PREJUÍZO AO ACERVO PATRIMONIAL. REEXAME DE FATOS E PROVAS. FALTA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo em recurso especial interposto por espólio contra decisão que inadmitiu o recurso especial, com base na Súmula 7 do STJ, em razão da necessidade de reexame de provas para verificar a legitimidade e o interesse recursal do espólio em impugnar decisão sobre preferência de credores em inventário.
+2. O acórdão recorrido tratou do agravo de instrumento interposto pelo espólio contra decisão que reconheceu a preferência de pagamento do crédito de outro espólio, em razão da anterioridade da penhora.
+3. A decisão monocrática não conheceu do recurso por ilegitimidade e ausência de interesse recursal, uma vez que o agravante não foi vencido na decisão e não há prejuízo ao seu acervo patrimonial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o espólio possui legitimidade e interesse recursal para impugnar decisão que ordena a preferência dos credores do inventário e determina a transferência de dinheiro pertencente ao espólio.
+5. A questão também envolve a análise da necessidade de reexame de provas para verificar eventual prejuízo ao espólio, o que é vedado em recurso especial pela Súmula 7 do STJ.
+III. Razões de decidir
+6. O acórdão recorrido foi claro ao afirmar que não houve comprovação de eventual prejuízo ao espólio, o que inviabiliza o conhecimento do recurso especial, pois demandaria reexame de provas.
+7. A jurisprudência do STJ é pacífica no sentido de que o reexame de fatos e provas é vedado em recurso especial, conforme a Súmula 7 do STJ.
+8. A falta de prequestionamento das matérias suscitadas no recurso especial impede seu conhecimento, conforme a Súmula 282 do STF.
+IV. Dispositivo
+9. Recurso não conhecido.
+VOTO
+O recurso é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+O recorrente alega violação aos artigos 18, 618, incisos I e II, e 996, caput e parágrafo único, todos do Código de Processo Civil, ao argumento de que ao negar legitimidade e interesse do espólio para impugnar a decisão que ordena a preferência dos credores do inventário e determinar a transferência de dinheiro houve manifesto prejuízo.
+Ao julgar o recurso de apelação, o Tribunal de origem deixou bem ressaltado que (fl. 97):
+Isso porque restou estampado na decisão recorrida que a decisão objeto do agravo de instrumento apenas reconheceu a preferência de pagamento do crédito do Espólio de Maria Vitalina de Souza em face do crédito do Espólio de Wagner Fernandes de Oliveira, em razão da anterioridade da penhora.
+Logo, a legitimidade para questionar preterição do crédito do Espólio de Wagner Fernandes de Oliveira seria daquele próprio espólio, e não do espólio agravante (Estelito Fernandes de Oliveira).
+A tese de redução de patrimônio do espólio agravante não possui sustentação, pois a aludida diminuição ocorrerá de qualquer forma, seja pelo crédito do Espólio de Wagner, seja pelo crédito do Espólio de Maria Vitalina, inexistindo prejuízo nesse sentido.
+Portanto, conforme delineado na decisão monocrática impugnada, o agravante interpôs recurso de agravo de instrumento (e interno) para defender direito (crédito) de terceiro, sem autorização legal, em afronta ao art. 18 do CPC.
+Da mesma forma, não demonstrado o efetivo prejuízo ao espólio, inexiste sucumbência do recorrente na decisão atacada para legitimá-lo a recorrer, nos moldes do art. 966 do mesmo CPC.
+Com efeito, o acórdão foi claro ao estatuir que não houve qualquer comprovação acerca de eventual prejuízo ao espólio.
+Dessa forma, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Ademais, o recorrente alega preterição de ordem de preferência e a existência de dupla penhora no processo. Tais questões não foram objeto de análise no acórdão recorrido,
+É certo que, por força constitucional (art. 105, III da CR/88), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial, "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Destarte, "A falta de prequestionamento da matéria suscitada no recurso especial, impede seu conhecimento, a teor da Súmula nº 282/STF." (AgInt no AREsp n. 2.582.153/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+(..)
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ENTERPRISE. PEDIDO DE RESTITUIÇÃO. BEM QUE AINDA INTERESSA AO PROCESSO. POSSIBILIDADE DE PERDIMENTO. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7, STJ. TESE DE VIOLAÇÃO AO ART. 49-A, CC. FATOS CRIMINOSOS ATRIBUÍDOS AO ADMINISTRADOR DA EMPRESA. POSSIBILIDADE DE CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA SUPOSTAMENTE UTILIZADA NA LAVAGEM DE CAPITAIS. PRECEDENTES. VIOLAÇÃO AO ART. 156, CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282, STF.
+I - É inviável o reexame de fatos e provas para afastar as conclusões do Tribunal a quo de que há fortes indícios de que foram utilizados recursos decorrentes de atividades criminosas para adquirir o veículo sobre o qual versa o pedido de restituição.
+Incidência da Súmula n. 7, STJ.
+II - Segundo a jurisprudência desta Corte, é possível determinar a constrição de bens de pessoas jurídicas quando houver indícios de que elas tenham sido utilizadas para a prática delitiva ou para ocultar ativos decorrentes de atividades ilícitas. Precedentes.
+III - Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre a correta aplicação da lei federal.
+IV - No caso sob exame, não se verificou, a partir da leitura dos acórdãos recorridos, discussão efetiva acerca do ônus da prova e do art. 156 do Código de Processo Penal, de modo que deve ser mantido o óbice da Súmula n. 282, STF.
+Agravo regimental desprovido.(AgRg no AREsp 2333928 / PR, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 04/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 07/06/2024)
+Dessa forma, "Para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020)." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+É o voto.
