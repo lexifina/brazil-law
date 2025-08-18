@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS SILVA DAS NEVES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Agravo de Execução Penal nº 8002853-07.2025.8.21.0001).
+Na inicial, a defesa informa que o paciente cumpre pena privativa de liberdade de 44 anos e 1 mês de reclusão pela prática dos delitos de roubo majorado, posse ou porte ilegal de arma de fogo de uso restrito, porte ilegal de arma de fogo de uso permitido e uso de documento falso, tendo cumprido 38% da pena (fls. 6).
+A defesa sustenta que a decisão que determinou a realização de exame criminológico para progressão de regime constitui constrangimento ilegal, pois se baseia em fundamentos inidôneos, como a gravidade abstrata do delito, sem considerar a conduta satisfatória do paciente (fls. 5-6).
+Afirma que a exigência do exame criminológico, conforme a Lei nº 14.843/2024, não pode retroagir para prejudicar o réu, configurando novatio legis in pejus (fls. 5-6).
+Alega que o paciente possui condições pessoais favoráveis, como ocupação lícita com carteira assinada, endereço fixo, e não descumpriu as determinações do monitoramento eletrônico, o que atesta sua aptidão para a reinserção social (fls. 9).
+No mérito, a defesa requer a concessão da ordem para cassar o mandado de prisão e permitir que o paciente recorra ou realize o exame criminológico na condição que se encontrava antes do julgamento (fls. 10).
+A defesa também pleiteia a concessão de liminar para sustar o mandado de prisão, alegando o risco de dano irreparável à reinserção social do paciente (fls. 19).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+A jurisprudência desta Corte Superior firmou o entendimento de que, para afastar o requisito subjetivo das benesses executórias, deve o ser com base nos elementos concretos extraídos da execução, verbis:
+ ..  a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução. Precedentes do STJ (HC n. 519.301/SP, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 13/12/2019) (AgRg no HC 803.075/SP, Quinta Turma, de minha relatoria, DJe de 31/5/2023).
+Assim, forçoso reconhecer a possibilidade de determinar-se a realização do exame criminológico, desde que por decisão fundamentada, o que se deu no caso em análise.
+Verifica-se que o Tribunal de origem determinou a realização do exame criminológico, não apenas baseado na gravidade abstrata dos crimes e na longa pena a cumprir, mas também em razão de o ora paciente ter praticado crimes com violência e grave ameaça e ter um histórico carcerário conturbado, com registro de falta disciplinar (fls. 17-19):
+Isso porque, da análise do processo de execução, verifico que o apenado registra ao longo do cumprimento de sua pena três fugas, além de falta grave por cometimento de novo crime doloso durante a execução (seq. 259 - SEEU). Tais circunstâncias demonstram indícios de má conduta carcerária por parte do apenado, aliadas ao expressivo saldo de pena a cumprir (superior a 27 anos), o que indica a necessidade de maior estudo por prova técnica - por meio do exame criminológico.
+Assim, necessária a realização do exame criminológico para demonstração do mérito subjetivo do apenado, in casu, de maneira a comprovar sua adequação a eventual regime menos gravoso.
+Desta forma, não se vislumbra qualquer ilegalidade ou arbitrariedade no acórdão combatido, tendo em vista as peculiaridades do caso concreto, que justificam a submissão do apenado ao exame criminológico para aferir o preenchimento do requisito subjetivo, pois consta três fugas, além de falta grave por cometimento de novo crime doloso durante a execução.
+Nesse sentido:
+" ..
+5. A decisão recorrida foi mantida com base na Súmula Vinculante n. 26 do STF e na Súmula n. 439 do STJ, que permitem a exigência de exame criminológico desde que fundamentada em elementos concretos da execução da pena.
+6. O exame criminológico foi considerado necessário devido à falta grave recente e ao histórico prisional do agravante, com resultado desfavorável, conforme avaliação da equipe multidisciplinar, justificando a manutenção do indeferimento da progressão de regime, por não preenchimento do requisito subjetivo.
+7. O reexame de matéria fático-probatória não é admissível na via do habeas corpus, o que impede a revisão dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do paciente.
+ .. "
+(AgRg no HC n. 978.510/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
