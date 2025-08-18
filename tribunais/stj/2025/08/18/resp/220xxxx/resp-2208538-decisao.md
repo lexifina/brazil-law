@@ -1,0 +1,35 @@
+DECISÃO
+Na origem, Banco do Brasil S.A. ajuizou execução contra Fernando Calil Fonseca e Rosângela Aparecida Palmeira Fonseca, com valor de causa atribuído em CR$ 836,382,24 (oitocentos e trinta e seis mil, trezentos e oitenta e dois cruzeiros reais e vinte e quatro centavos), em agosto de 1993.
+Na sentença, noticiado o pagamento do débito, declarou-se extinta a execução, em abril de 2018.
+A apelação interposta não foi provida pelo Tribunal Regional Federal da 1ª Região, conforme acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL EXTINÇÃO PELA ULTERIOR SATISFAÇÃO INTEGRAL DO DÉBITO. EXCLUSÃO DO ENCARGO DE 20% PREVISTO NO DECRETO-LEI 1.025/1969. LEI 11.775/2008, ART. 8º, § 10. HONORÁRIOS ADVOCATÍCIOS INDEVIDOS.
+1. Execução Fiscal extinta por requerimento da exequente, após noticiado o pagamento do débito, sem condenação ao pagamento de honorários advocatícios (CPC/2015, art. 924, II).
+2. A jurisprudência deste Tribunal é no sentido de que, se a própria lei 11.775/2008, § 10, previu a exclusão do encargo de 20% do débito consolidado, como medida de estímulo à liquidação ou à renegociação de dívidas originárias de operações de crédito rural inscritas em dívida ativa da União, ratificado pelo art. 8º-A, § 5º, introduzido pela Lei 13.001/2014, descabe condenação ao executado ao pagamento dos honorários advocatícios.
+3. " ..  optou o legislador, ao editar a Lei 13.340/2016 - que trata de plano de recuperação de dívidas de crédito rural -, por não incrementar o dispêndio financeiro das partes, em especial do agricultor mutuário, com o pagamento de honorários advocatícios à parte adversa. Aplicação da norma especial que afasta a incidência da regra geral".(R Esp 1836470/TO, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 02/02/2021, D Je 05/02/2021).
+4. Apelação não provida.
+Os embargos de declaração opostos foram rejeitados.
+Fazenda Nacional interpôs recurso especial alegando inaplicabilidade do art. 12 da Lei n. 13.340/2016 aos créditos rurais inscritos em dívida ativa da União, à vista da limitação contida nos arts. 1º e 3º do mesmo diploma legal. Sustenta que a regra pertinente à fixação de honorários advocatícios sucumbenciais constante no art. 12 somente alcança o crédito rural que não tenha sido inscrito em dívida ativa.
+Sustenta, outrossim, que a que a dívida objeto da ação não foi quitada por qualquer dos estímulos previstos na Lei n.º 11.775/2008, mas sim, pela Lei n.º 13.340/2016, que não previu qualquer isenção quanto o pagamento de verba honorária em execução de dívida ativa.
+É o relatório. Decido.
+Na linha de jurisprudência desta Corte, nos termos do art. 12 da Lei 13.340/2016, a extinção da execução, em virtude da renegociação de dívida fundada em cédula de crédito rural e decorrente de acordo, não caracteriza sucumbência e é resultado da conduta de ambas as partes, de modo que os honorários devem ser arcados por cada uma delas, em relação a seu procurador. Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. RENEGOCIAÇÃO DE DÍVIDA. ART. 12 DA LEI 13.340/2016. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ALTERAÇÃO DA FORMA DE FIXAÇÃO. INVIABILIDADE. COISA JULGADA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 12 da Lei 13.340/2016, a extinção da execução, em virtude da renegociação de dívida fundada em cédula de crédito rural e decorrente de acordo, não caracteriza sucumbência e é resultado da conduta de ambas as partes, de modo que os honorários devem ser arcados por cada uma delas, em relação a seu procurador (arts. 90, § 2º, do CPC/2015 e 12 da Lei 13.340/2016).
+2. No caso, o trânsito em julgado da sentença que fixou os honorários advocatícios sucumbenciais ocorreu antes da inovação legislativa, quando já se havia operado a coisa julgada, que não pode ser prejudicada pela nova lei, nos termos do art. 5º, XXXVI, da Constituição Federal de 1988.
+3. A jurisprudência desta Corte de Justiça é firme no sentido de que não é viável a alteração da forma de fixação dos honorários após o trânsito em julgado, em respeito à coisa julgada.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.055.451/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 12 DA LEI N. 13.340/2016. CÉDULA DE CRÉDITO RURAL. RENEGOCIAÇÃO DE DÍVIDA. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. NÃO CABIMENTO.
+1- Recurso especial interposto em 26/06/2019 e concluso ao gabinete em 09/04/2021.
+2- O propósito recursal consiste em dizer se, nos termos do art. 12 da Lei n. 13.340/2016, a extinção da execução em virtude da renegociação de dívida fundada em cédula de crédito rural impõe à parte executada o dever de arcar com as custas processuais e os honorários advocatícios em favor dos patronos da parte exequente.
+3- A condenação ao pagamento de honorários advocatícios é uma consequência objetiva da extinção do processo, sendo orientada, em caráter principal, pelo princípio da sucumbência e, subsidiariamente, pelo da causalidade.
+4- Por opção de política legislativa, há normas especiais que excepcionam a aplicação dos princípios da sucumbência e da causalidade, isentando as partes do pagamento da verba honorária e, até mesmo, das custas e despesas processuais.
+5- Ante o disposto no art. 12 da Lei 13.340/2016, a extinção da execução em virtude da renegociação de dívida fundada em cédula de crédito rural não impõe à parte executada o dever de arcar com as custas processuais e os honorários advocatícios em favor dos patronos da parte exequente.
+6- Recurso especial não provido.
+(REsp n. 1.930.865/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021.)
+Vê-se, pois, que o afastamento dos honorários advocatícios sucumbenciais em virtude das disposições legais específicas que regem a regularização dívidas originárias de operações de crédito rural é consentânea com a jurisprudência do Superior Tribunal de Justiça.
+Ademais, o Tribunal de origem consignou o seguinte:
+Daí conclui-se que a extinção da execução fiscal pelo pagamento realizado administrativamente isenta a parte executada do encargo legal previsto no art. 1º do Decreto-lei 1025/69. Quitada a dívida na forma da Lei 11.775/2008, descabe a condenação do executado em honorários advocatícios sucumbenciais, na medida em que o propósito da norma é fomentar a liquidação ou renegociação das dívidas rurais inscritas em dívida ativa da União.
+A premissa recursal de que o débito não fora quitado com fundamento nos incentivos da Lei n. 11.775/2008 não se coaduna com o quanto estabelecido pelo Tribunal de origem. Superar tal premissa fática demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado na via estreita do recurso especial à vista do quanto disposto na Súmula n. 7/STJ.
+Ante o exposto, com esteio no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
