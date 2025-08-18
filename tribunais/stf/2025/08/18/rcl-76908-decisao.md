@@ -1,0 +1,95 @@
+RECLAMAÇÃO. CONSTITUCIONAL. EMPREGADO PÚBLICO. APOSENTADORIA. EXONERAÇÃO. ALEGADA AFRONTA À TESE FIRMADA NO JULGAMENTO DO TEMA-RG 606. OCORRÊNCIA. EXISTÊNCIA DE TERATOLOGIA NA DECISÃO QUE APLICA O TEMA-RG 1.150. EMPREGADO PÚBLICO CELETISTA APOSENTADO ANTES DA EC 103/2019. APLICAÇÃO DAS REGRAS DE TRANSIÇÃO CONTIDAS NO ART. 6º DA EC 103/2019 E DA EXCEÇÃO DISPOSTA NA TESE FIRMADA SOB O TEMA 606 DA REPERCUSSÃO GERAL. PRECEDENTES. RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+
+    DECISÃO: Trata-se de reclamação ajuizada por José Vieira Lima contra decisão do Colégio Recursal dos Juizados Especiais de São Paulo, nos autos do Processo nº 1000156-10.2024.8.26.0493, sob a alegação de inobservância da tese vinculante fixada sob o Tema 606 da sistemática da repercussão geral.
+
+    Narra o reclamante que foi admitido junto ao Município de Taciba/SP para o cargo de motorista em 1990, sob o regime celetista. Relata que se aposentou em 27/08/2013 pelo Regime Geral de Previdência Social, tendo sido exonerado em 30/12/2023, em razão de previsão em Lei Municipal acerca da exoneração de servidores aposentados. Argumenta que por ter se aposentado antes da EC 103/2019 teria direito de continuar trabalhando para o município, por força da tese fixada sob o Tema 606 da repercussão geral.
+
+    Relata que interposto o recurso extraordinário, o mesmo teve seu seguimento negado por aplicação do Tema 1.150 da repercussão geral, razão pela qual interpôs agravo interno, o qual foi desprovido.
+
+    Aduz que o acórdão reclamado, ao aplicar equivocadamente o entendimento firmado no Tema 1.150, afrontou a jurisprudência vinculante desta Corte proferida no julgamento do RE 655.283, cuja tese firmou-se no sentido de que a aposentadoria de empregado público ocorrida até a promulgação da EC 103/2019, não é causa de extinção do contrato de trabalho.
+
+    Requer, por estes fundamentos, a suspensão dos efeitos da decisão reclamada e, no mérito, a procedência da reclamação, para cassar o acórdão reclamado, a fim de determinar o processamento do recurso extraordinário.
+
+    Devidamente citada, a parte ora beneficiária deixou de apresentar contestação (doc. 36).
+
+    A Procuradoria-Geral da República opinou pela improcedência da reclamação, em parecer que porta a seguinte ementa, in verbis (doc. 38):
+
+    “RECLAMAÇÃO. REINTEGRAÇÃO DE SERVIDOR PÚBLICO COM APOSENTADORIA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL (REGIDO, À ÉPOCA DA APOSENTADORIA, PELO VÍNCULO CELETISTA), ANTERIOR A EC 103/19. EXISTÊNCIA DE LEI MUNICIPAL QUE PREVÊ A APOSENTADORIA COMO CAUSA DE VACÂNCIA DO CARGO PÚBLICO. ALEGAÇÃO DE VIOLAÇÃO AO ENTENDIMENTO FIRMADO NO TEMA Nº 1.150 DE REPERCUSSÃO GERAL. APELO CORRETAMENTE OBSTADO COM BASE NO TEMA Nº 606 DE REPERCUSSÃO GERAL. INAPLICABILIDADE, POR OUTRO LADO, DO TEMA Nº 1.150-RG, QUE SE REFERE À POSSIBILIDADE DE REINTEGRAÇÃO DE SERVIDOR PÚBLICO OCUPANTE DE CARGO EFETIVO REGIDO PELO REGIME JURÍDICO ESTATUTÁRIO, MAS SEM REGIME PRÓPRIO DE PREVIDÊNCIA, O QUE NÃO É O CASO DOS AUTOS. PARECER PELA IMPROCEDÊNCIA DA RECLAMAÇÃO.”
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido”. (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022, grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento”. (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022, grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento”. (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022, grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de má-aplicação, pelo Tribunal a quo, da tese vinculante fixada no julgamento do RE 1.302.501 - Tema 1.150 da sistemática da repercussão geral, bem como de violação à tese firmada no RE 655.286 – Tema 606 da sistemática da repercussão geral.
+
+    Neste cenário, consigno que a jurisprudência de ambas as Turmas deste Supremo Tribunal Federal fixou-se no sentido da impossibilidade de reintegração de servidor público estatutário aposentado voluntariamente pelo Regime Geral de Previdência Social, sob o entendimento de que a aposentadoria é causa de vacância do cargo público. Neste sentido:
+
+    “Agravo regimental no recurso extraordinário. Direito Administrativo e Constitucional. Servidor público municipal. Ausência de regime próprio de previdência social. Aposentadoria voluntária pelo Regime Geral de Previdência Social. Previsão de vacância do cargo público em lei municipal. Reintegração. Impossibilidade. Precedentes. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, havendo previsão legislativa municipal de que a aposentadoria é causa de vacância do cargo público, a aposentadoria voluntaria de servidor publico municipal pelo Regime Geral de Previdência Social impossibilita a reintegração do servidor ao cargo anteriormente ocupado. 2. Agravo regimental não provido” (RE 1.276.421-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 11/2/2021).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. MUNICÍPIO DE VAZANTE. AUSÊNCIA DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL. APOSENTADORIA DE SERVIDOR PÚBLICO MUNICIPAL PELO REGIME GERAL. VACÂNCIA DO CARGO PREVISTA EM LEI LOCAL. IMPOSSIBILIDADE DE REINTEGRAÇÃO AO MESMO CARGO PARA ACUMULAR OS PROVENTOS E A REMUNERAÇÃO DELE DECORRENTES. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I. Aposentado pelo Regime Geral de Previdência Social e prevista a vacância do cargo em lei local, o servidor público municipal não tem direito a ser reintegrado ao mesmo cargo no qual se aposentou a fim de acumular os proventos e a remuneração dele decorrentes. II. Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais. III. Agravo regimental a que se nega provimento”. (RE 1.246.309/MG-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 31/3/2020 - grifei).
+
+    Cumpre salientar, contudo, que referido entendimento, reafirmado pelo Plenário deste Supremo Tribunal Federal no julgamento do RE 1.302.501 - Tema 1.150 da Repercussão Geral, possui a abrangência delimitada aos pedidos de reintegração de servidor público “ocupante de cargo efetivo regido pelo regime estatutário, mas sem regime próprio de previdência” (RE 1.302.501), conforme se observa da tese transcrita a seguir:
+
+    Tema-RG 1.150: “O servidor público aposentado pelo Regime Geral de Previdência Social, com previsão de vacância do cargo em lei local, não tem direito a ser reintegrado ao mesmo cargo no qual se aposentou ou nele manter-se, por violação à regra do concurso público e à impossibilidade de acumulação de proventos e remuneração não acumuláveis em atividade.” (RE 1.302.501, Rel. Min. Luiz Fux, Presidente, Tribunal Pleno, DJe de 25/8/2021 - grifei).
+
+    Consoante se depreende da análise dos autos, no caso sub examine, o beneficiário da decisão reclamada não era servidor público regido pelo regime estatutário ao tempo de sua aposentadoria em 2013. Com efeito, a transposição dos empregados públicos para o regime estatutário só ocorreu com a entrada em vigor da Lei Complementar Municipal 11/2019, conforme extrai-se do seguinte excerto do acórdão do TJSP:
+
+    “No presente caso, o recorrente aposentou-se pelo Regime Geral da Previdência Social antes da reforma previdenciária de 2019. Caberia, portanto, em princípio, a invocação da ressalva contida no art. 6º da EC nº 103/2019, que afasta a restrição contida no art. 37, § 14, da Constituição Federal no tocante aos agentes públicos aposentados antes da entrada em vigor da emenda nº 103/2019.
+
+    Ocorre, no entanto, diante da especificidade do caso, que não há se falar na incidência da ressalva contida no art. 6º da EC nº 103/2019 nem na aplicação do entendimento consubstanciado no Tema nº 606/RG.
+
+    É que o Supremo Tribunal Federal, ao apreciar o RE 1.302.501- RG, Rel. Min. Luiz Fux (Tema nº 1.150/RG), procedeu ao distinguishing em relação às situações, como na espécie, em que há previsão específica na legislação municipal definindo a aposentadoria voluntária como hipótese de vacância do cargo, emprego ou função.
+
+    Assentou o Plenário do STF que, em tal hipótese, a aposentadoria voluntária pelo RGPS acarreta a vacância do cargo, emprego ou função públicas, por força da próprio Estatuto dos Servidores Públicos municipais, mesmo se a aposentadoria ocorreu antes da entrada em vigor da EC nº 103/2019, fixando-se a tese de repercussão geral nos seguintes termos (Tema 1.150/RG):
+
+    “O servidor público aposentado pelo Regime Geral de Previdência Social, com previsão de vacância do cargo em lei local, não tem direito a ser reintegrado ao mesmo cargo no qual se aposentou ou nele manter-se, por violação à regra do concurso público e à impossibilidade de acumulação de proventos e remuneração não acumuláveis em atividade.”
+
+    No caso, à época em que o recorrente foi aposentado, havia previsão específica na legislação municipal atribuindo à aposentadoria o efeito de acarretar a vacância do cargo, emprego ou função ocupada pelo titular, nos termos do artigo 45, inciso III da Legislação Municipal nº 02/2016.
+
+    Ainda que haja dúvidas na aplicação da lei, fato é que a legislação municipal, seja a LCM 21/2005, a LCM 02/2016 ou a LCM 011/2019, estabelece a aposentadoria como hipótese de vacância do cargo.
+
+    Em suma, existindo previsão específica na lei municipal quanto à vacância do cargo, emprego ou função decorrente da aposentadoria do servidor público municipal, não há se falar na exceção prevista no art. 6º da EC nº 103/2019, mas na aplicação da tese firmada no Tema nº 1.150/RG.
+
+    Alega o autor que não era servidor estatutário, mas contratado sob o regime celetista e detentor de emprego público, aposentou-se em agosto/2013 anteriormente à EC 103/2019 e continuou a exercer a mesma função. Por isso entende que não seria aplicável ao seu caso o Tema nº 1.150, mas o sim o 660.
+
+    Ocorre que em 31.1.2019 a LCM 11/2019 instituiu regime único aos servidores e, em 1.2.2019, o autor foi transposto do regime celetista para o estatutário, e, como dito, havia previsão de vacância nas LCM 21/2005 e LCM 02/2016 em caso de aposentadoria, aplicado-se ao caso, portanto, o Tema nº 1.150.
+
+    Lembre-se ainda, que, conforme entendimento do STF, não há direito adquirido a regime jurídico.” (Doc. 4, p. 25-26, grifei).
+
+    Nesse contexto, constata-se que é aplicável ao caso concreto a tese vinculante fixada pelo Plenário deste Supremo Tribunal Federal no julgamento do RE 655.286 – Tema 606 da sistemática da repercussão geral — e a regra transitória do art. 6º da EC 103/2019, uma vez que direcionadas a empregados públicos, conforme se observa a seguir:
+
+    Tema-RG 606: “A natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão. A concessão de aposentadoria aos empregados públicos inviabiliza a permanência no emprego, nos termos do art. 37, § 14, da CRFB, salvo para as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de entrada em vigor da Emenda Constitucional nº 103/19, nos termos do que dispõe seu art. 6º.” (grifei)
+
+    Com efeito, a menção à regra de transição disposta no art. 6º da EC 103/2019 foi realizada no julgamento do Tema-RG 606, sobre o qual a manifestação do Tema 1.150 efetuou claro distinguishing. Confira-se:
+
+    “Importa, de igual modo, considerar a existência de distinguishing relevante entre a questão versada neste recurso extraordinário com aquela discutida no RE 655.283 (Rel. Min. Marco Aurélio, Tema 606 da Repercussão Geral). De fato, no Tema 606 da repercussão geral, esta Corte foi chamada a decidir, no que aqui interessa, sobre a possibilidade de reintegração de empregados públicos dispensados em decorrência de aposentadoria espontânea e a respectiva acumulação de proventos com vencimentos.
+
+    Por outro lado, o presente recurso extraordinário, como relatado, cuida de pedido de reintegração de servidora pública ocupante de cargo efetivo regido pelo regime jurídico estatutário, mas sem regime próprio de previdência. In casu, a servidora municipal requereu aposentadoria voluntária, paga pelo regime geral de previdência (RGPS), e foi exonerada em virtude de expressa previsão legal do Município de que a aposentadoria é causa de vacância do cargo.” (RE 1.302.501, Rel. Min. Luiz Fux, Presidente, Tribunal Pleno, DJe de 25/8/2021 - grifei).
+
+    Neste cenário, é de rigor o julgamento de procedência da reclamação, ante a demonstração de teratologia da decisão que aplica o Tema-RG 1.150 ao caso concreto. Nesse sentido, são as seguintes decisões monocráticas proferidas em casos semelhantes aos dos autos: Rcl 75.479, Rel. Min. Alexandre de Moraes, DJe de 29/01/2025; Rcl 79.517, Rel. Min. Flavio Dino, DJe de 29/05/2025; Rcl 73.123, Rel. Ministro Luiz Fux, DJe de 28/10/2024.
+
+    Ex positis, JULGO PROCEDENTE a reclamação para cassar o acórdão proferido nos autos do Processo nº 1000156-10.2024.8.26.0493, determinando-se a remessa do recurso extraordinário a esta Suprema Corte.
+
+    Comunique-se o teor desta decisão à autoridade reclamada.
+
+    Publique-se.
+
+    Brasília, 18 de agosto de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
