@@ -1,0 +1,85 @@
+DECISÃO
+Cuida-se de agravo de IGOR TERRA LEON contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - TJSC que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 5001231-86.2021.8.24.0069.
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados no art. 2º, § 2º e § 4º, I, da Lei n. 12.850/2013 e no art. 33, caput, da Lei n. 11.343/2006 (organização criminosa majorada e tráfico de drogas), à pena total de 13 anos, 8 meses e 15 dias de reclusão, em regime inicial fechado, e 605 dias-multa (fl. 2355).
+Recurso de apelação interposto pela defesa foi parcialmente provido para "reconhecer a atenuante da menoridade penal relativa ao acusado Igor Terra Leon, a incidir na segunda etapa dosimétrica de ambos os delitos (art. 2 º, § 2 º, e § 4 º, inciso I, da Lei n. 12.850/13 e art. 33, caput, da Lei n. 11.343/06), redimensionando sua reprimenda total, após o concurso material de crimes, a monta de 11 (onze) anos e 03 (três) meses de reclusão, em regime fechado, e 518 (quinhentos e dezoito) dias-multa, mantidas as demais disposições da sentença" (fl. 2696). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. CRIMES DE ORGANIZAÇÃO CRIMINOSA ARMADA, COM PARTICIPAÇÃO DE ADOLESCENTE (ART. 2º, C/C §§ 2º E 4º, INCISO, I DA LEI N. 12.850/13) E TRÁFICO DE DROGAS (33, CAPUT, DA LEI N. 11.343/06). RECURSO DA DEFESA. PRELIMINAR. SUSCITADO CERCEAMENTO DE DEFESA PAUTADO NA FALTA DE ACESSO, PELO CAUSÍDICO, AO TEOR DAS INTERCEPTAÇÕES TELEFÔNICAS E DE AUTOS CORRELATOS. NÃO ACOLHIMENTO. CERTIDÃO DE CHEFE DE CARTÓRIO QUANTO À DISPONIBILIDADE DAS MÍDIAS. PRESCINDIBILIDADE DE TRANSCRIÇÃO DE TODO TEOR INTERCEPTADO. ACESSO À INTEGRALIDADE DAS CONVERSAS, ALÉM DE OUTROS ELEMENTOS DE PROVAS DE AUTOS CORRELATOS, DEVIDAMENTE DEFERIDO PELO JUÍZO. AUSÊNCIA DE PREJUÍZO À DEFESA. ADEMAIS, EVENTUAIS ALEGAÇÕES DE QUEBRA DE CUSTÓDIA QUE DEVEM SER SOPESADAS PELO JULGADOR, EM CONJUNTO AOS ELEMENTOS PROBATÓRIOS DO FEITO. PRELIMINAR AFASTADA. PLEITO ABSOLUTÓRIO PAUTADO NA TESE DE HIPOSSUFICIÊNCIA DE ELEMENTOS PROBATÓRIOS. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE COMPROVADAS. RELATOS DOS AGENTES PÚBLICOS QUE PARTICIPARAM DA INVESTIGAÇÃO PLENAMENTE ALINHADOS COM A PROVA PRODUZIDA MEDIANTE INTERCEPTAÇÃO TELEFÔNICA. PRESENÇA DE INÚMERAS CONVERSAS QUE EVIDENCIAM QUE O ACUSADO INTEGRAVA A ORGANIZAÇÃO CRIMINOSA E EXERCIA, EM PROL DESTA, O TRÁFICO DE DROGAS. ABSOLVIÇÃO INVIÁVEL. DOSIMETRIA. PRIMEIRA FASE. INSURGÊNCIA QUANTO À EXASPERAÇÃO RELACIONADA AO ARTIGO 42 DA LEI DE DROGAS. APREENSÃO DE ENTORPECENTE DE NATUREZA ALTAMENTE NOCIVA (COCAÍNA). EXASPERAÇÃO DEVIDA. SEGUNDA FASE. PRETENDIDO O RECONHECIMENTO DA ATENUANTE DA MENORIDADE PENAL RELATIVA. PROCEDÊNCIA. RÉU MENOR DE 21 (VINTE E UM) ANOS À ÉPOCA DOS FATOS. TERCEIRA FASE. PRETENSÃO DE DECOTE DAS MAJORANTES DO CRIME DE ORGANIZAÇÃO CRIMINOSA. INVIABILIDADE. PROVAS DOS AUTOS QUE ESTAMPAM O USO DE ARMA DE FOGO E PARTICIPAÇÃO DE ADOLESCENTE NO GRUPO CRIMINOSO. CAUSAS DE AUMENTO PREVISTAS NO ARTIGO 2 º, § 2 º, E § 4 º, INCISO I, DA LEI N. 12.850/13, EVIDENCIADAS A CONTENTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. " ..  Ao interpretar o disposto no art. 6º, § 1º, da Lei n. 9.296/1996, o Pleno do Supremo Tribunal Federal, por ocasião do julgamento do Inq n. 3.693/PA (D Je 30/10/2014), de relatoria da Ministra Cármen Lúcia, decidiu ser prescindível a transcrição integral dos diálogos obtidos por meio de interceptação telefônica, bastando que haja a transcrição do que seja relevante para o esclarecimento dos fatos e que seja disponibilizada às partes cópia integral das interceptações colhidas, de modo que possam elas exercer plenamente o seu direito constitucional à ampla defesa". (STJ - Habeas Corpus n. 573.166/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, j. em 15/02/2022).
+2. " ..  As irregularidades constantes da cadeia de custódia devem ser sopesadas pelo magistrado com todos os elementos produzidos na instrução, a fim de aferir se a prova é confiável". (STJ - Habeas Corpus n. 653515-RJ, Sexta Turma, Rela. Mina. Laurita Vaz, Rel. p/ o acórdão Min. Rogerio Schietti Cruz, j. em 23/11/2021).
+3. Consoante art. 563 do Código de Processo Penal, nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa.
+4. Impossível a absolvição quando os elementos contidos nos autos formam um conjunto sólido, dando segurança ao juízo para a condenação.
+5. Nos termos do art. 42 da Lei n. 11.343/06, a análise da natureza e/ou quantidade da droga encontrada com o agente que pratica o tráfico de entorpecentes é capaz de ocasionar a valoração da pena-base.
+6. Deve ser reconhecida a atenuante da menoridade penal relativa, quando o acusado contava com menos de 21 (vinte e um) anos à época dos fatos.
+7. Demonstrado que a organização criminosa, a qual fazia parte o acusado, atuava com o emprego de arma de fogo e com participação de adolescente, devem incidir as majorantes previstas no art. 2 º, § 2 º, e § 4 º, inciso I, da Lei n. 12.850/13." (fls. 2697/2698).
+Em sede de recurso especial (fls. 2707/2724), a defesa apontou violação aos arts. 158-A a 158-F, todos do Código de Processo Penal - CPP, pois o TJSC deixou de reconhecer nulidade processual oriunda da quebra de cadeia de custódia dos elementos de provas obtidos por meio das interceptações telefônicas.
+Alega que houve cerceamento de defesa, considerando que não foi oportunizado o acesso pleno ao teor das interceptações, já que a defesa não obteve acesso a todos os arquivos de áudio de todas as conversas interceptadas, tendo que se limitar às transcrições das mesmas.
+Dessa forma, por não terem sido observadas as regras atinentes à custódia das provas utilizadas para sustentar a condenação, elas devem ser consideradas ilícitas e, portanto, desentranhadas dos autos de origem.
+Requer a declaração da nulidade processual por quebra de cadeia de custódia, com seus consectários legais.
+Contrarrazões (fls. 2730/2738).
+O recurso especial foi inadmitido no TJSC em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 2741/2744).
+A defesa apresentou agravo em recurso especial (fls. 2753/2780).
+Contraminuta (fls. 2785/2788).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do agravo em recurso especial (fls. 2811/2815).
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+Isso porque a irresignação esbarra em óbice formal intransponível, qual seja, a ausência de impugnação específica das premissas adotadas para a inadmissão do apelo extremo.
+Da leitura das razões recursais, constata-se que os fundamentos relativos à incidência da Súmula n. 7 do STJ não foram impugnados concreta e especificamente, limitando-se a defesa a reprisar os trechos do acórdão recorrido, a repetir exatamente os mesmos argumentos meritórios relativos à suposta nulidade processual e a meramente afirmar que o recurso especial não demandaria o revolvimento à matéria fática contida nos autos de origem.
+Com efeito, a impugnação dos motivos que obstaram o seguimento do recurso especial deve ser realizada de forma concreta e específica, não bastando a alegação genérica de inaplicabilidade do óbice processual, sem explicar-se as razões que sustentariam esta alegação.
+Quanto à impugnação ao óbice da Súmula n. 7 do STJ não pode ser feita de forma genérica, com a mera alegação de prescindibilidade do reexame das provas constantes dos autos originários, mas sim mediante a demonstração de que a tese do recurso especial está adstrita a fatos incontroversos, considerados no ato decisório atacado, de modo a permitir uma revaloração jurídica do acórdão proferido pelo Tribunal de Justiça - o que não ocorreu na espécie.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ÓBICES DAS SÚMULAS N. 284 DO STF E N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ, devido à ausência de impugnação específica dos fundamentos pelos quais o Tribunal de origem inadmitiu o recurso especial, incidindo as Súmulas n. 284 do STF e n. 7 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo em recurso especial impugnou adequadamente os fundamentos da decisão que inadmitiu o recurso especial, especialmente em relação à incidência das Súmulas n. 284 do STF e n. 7 do STJ.
+III. Razões de decidir
+3. A decisão monocrática da Presidência do STJ aplicou corretamente a Súmula 182 do STJ, ao não conhecer o agravo em recurso especial por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade no Tribunal a quo.
+4. A defesa não demonstrou, de forma concreta, a inaplicabilidade da Súmula 7 do STJ, limitando-se a alegações genéricas sobre a revaloração da prova, sem indicar premissas fáticas incontroversas.
+5. A mera alegação de que a fundamentação foi clara e bem fundamentada não é suficiente para afastar a incidência da Súmula n. 284 do STF diante do constatado vício da peça recursal que apontou artigo de lei federal violado sem o motivo correspondente, sendo defeso inovar no agravo regimental para sanar a deficiência em razão da preclusão consumativa.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.632.127/ES, de minha relatoria, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão recorrida, notadamente a incidência da Súmula n. 7 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravante apresentou argumentos suficientes para afastar a aplicação da Súmula n. 7 do STJ, demonstrando que a análise da pretensão não demandaria o reexame do conjunto fático-probatório.
+III. Razões de decidir
+3. O agravante não enfrentou adequadamente a incidência da Súmula n. 7 do STJ, limitando-se a afirmar que busca apenas valoração jurídica diversa, sem demonstrar, com base nos elementos fáticos já delineados nos autos, que sua pretensão não demandaria o reexame de provas.
+4. A jurisprudência do STJ admite a revaloração das premissas fáticas no recurso especial, mas exige que a parte demonstre, de forma cuidadosa, que os fatos descritos no acórdão recorrido reclamam solução jurídica diversa.
+5. A mera alegação de que a pretensão visa ao reenquadramento jurídico dos fatos não é suficiente para afastar a aplicação da Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: "Para afastar a aplicação da Súmula n. 7 do STJ, a parte deve apresentar argumentação suficiente para demonstrar que a mudança de entendimento não requer reexame de fatos e provas".
+(AgRg no AREsp n. 2.663.099/PA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/11/2024, DJEN de 9/12/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. NÃO CONHECIMENTO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de impugnação dos fundamentos da decisão de inadmissão do recurso especial obsta o conhecimento do agravo - incidência do art. 932, III, do CPC e aplicação da Súmula n. 182 do STJ.
+2. Segundo o entendimento desta Corte Superior, revela-se insuficiente, para pedir o afastamento da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas, devendo-se indicar qual premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permita o acolhimento do pedido, ônus do qual a defesa não se desincumbiu.
+3. A jurisprudência do STJ entende que, para infirmar a aplicação da Súmula n. 83 do STJ, é necessário à parte comprovar que o entendimento desta Corte Superior destoa da conclusão do Tribunal de origem, o que não foi feito pela defesa.
+4. Na espécie, não houve a observância da dialeticidade recursal, motivo pelo qual o referido recurso careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos usados para inadmitir o recurso.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.612.420/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/10/2024, DJe de 15/10/2024.)
+Cabe destacar, ainda, que a Corte Especial do Superior Tribunal de Justiça - STJ, na oportunidade do julgamento dos Embargos de Divergência em Recurso Especial n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, DJe de 17/11/2021, pacificou a orientação de que a decisão que inadmite o recurso especial não é composta por capítulos autônomos, devendo ser impugnada em sua integralidade.
+Nesse contexto, de rigor a aplicação dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Com igual orientação:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência desta Corte, que não conheceu do agravo em recurso especial, sob a justificativa de que a defesa não impugnou todos os fundamentos da decisão de inadmissibilidade, aplicando-se a Súmula n. 182 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a defesa impugnou adequadamente todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+III. Razões de decidir
+3. A defesa não impugnou de forma específica e concreta o fundamento da decisão de inadmissibilidade do recurso especial consistente no óbice da Súmula n. 83 do STJ, relativamente à tese de abrandamento do regime prisional. Cingiu-se a impugnar a aplicação do óbice da Súmula n. 83 do STJ quanto à tese da aplicação do princípio da insignificância.
+4. A decisão que inadmite o recurso especial na origem não é cindível em capítulos autônomos e, portanto, deve ser impugnada em sua integralidade, o que não foi feito na hipótese.
+5. A ausência de impugnação específica, concreta e integral de todos os fundamentos da decisão agravada impede o conhecimento do agravo, conforme a Súmula n. 182 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: 1. A impugnação da decisão de inadmissibilidade de recurso especial deve ser específica, concreta e integral. 2. A ausência de impugnação adequada de todos os óbices aplicados na decisão agravada impede o conhecimento do agravo, conforme a Súmula n. 182 do STJ.
+(AgRg no AREsp n. 2.790.756/TO, de minha relatoria, Quinta Turma, julgado em 4/2/2025, DJEN de 11/2/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 83/STJ (reincidência e regime inicial mais gravoso para o cumprimento da pena) e Súmula 83/STJ (art. 33, § 4º, da Lei n. 11.43/2006 - tráfico privilegiado e quantidade de drogas). A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.547.981/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/2/2025, DJEN de 10/2/2025.)
+Desse modo, o presente agravo em recurso especial não ultrapassa o juízo de admissibilidade.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
