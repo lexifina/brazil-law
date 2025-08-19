@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo interno interposto por OCEAN ASSET FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS, em face da decisão monocrática de fls. 211/212, e-STJ, proferida pelo Ministro Presidente desta Corte, que não conheceu do agravo em razão da incidência da Súmula 182 do STJ.
+Irresignada, a insurgente interpõe agravo interno (fls. 215/221, e-STJ), argumentando, em síntese, ter impugnado de forma clara e objetiva o óbice da súmula 7 do do STJ.
+Sem impugnação (fl. 222, e-STJ).
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida, em relação à incidência da Súmula 7 do STJ, e passo, novamente, à análise da insurgência extraordinária.
+Depreende-se dos autos que a recorrente interpôs agravo em recurso especial, em face de decisão denegatória de seguimento ao recurso especial (fls. 188/190, e-STJ).
+O apelo nobre, interposto com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão prolatado pelo Egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 44, e-STJ):
+AGRAVO DE INSTRUMENTO - Incidente de desconsideração de personalidade jurídica em execução de título extrajudicial - Rejeição liminar de pedido de instauração de incidente de desconsideração da personalidade jurídica da executada - Ausência de diligências de busca de bens - Pendência, ainda, de discussão definitiva acerca do prosseguimento da execução - Análise de Agravo em face de decisão que inadmitiu recurso especial - Execução que, na origem, foi extinta após acolhimento de exceção de pré-executividade com reforma em Segunda Instância que acolheu o recurso do exequente para afastar a tese de prescrição do título exequendo, determinando-se o regular do prosseguimento do feito com posterior rejeição dos embargos de declaração e inadmissão do recurso especial - Descabimento, por ora, diante do quadro fático, da instauração do incidente, que se mostra prematura - Inteligência dos artigos 133 e 134 do Código de Processo Civil - Postergação da análise acerca da alegação do abuso de personalidade jurídica Indícios apontados que deverão ser objeto de eventual apreciação caso a execução prossiga sem a satisfação do crédito pelos credores originários (executados) - Decisão mantida, com observação - Recurso não provido.
+Opostos embargos de declaração (fls. 172/175, e-STJ), esses foram rejeitados.
+Nas razões de recurso especial (fls. 56/73, e-STJ), a parte recorrente aponta violação aos arts. 134, caput e § 4º, do Código de Processo Civil, e 50 do Código Civil. Sustenta, em síntese: a) omissão acerca da análise dos requisitos legais específicos para a instauração do incidente de desconsideração da personalidade jurídica; b) que a decisão recorrida impôs condições não previstas na legislação para a instauração do incidente, como a necessidade de tentativas de atos constritivos dos executados e julgamento definitivo acerca do prosseguimento da execução; c) que a demonstração dos indícios de abuso de personalidade jurídica é suficiente para a instauração do incidente, conforme previsto no art. 134, §4º, do CPC.
+Sem contrarrazões (fl. 186, e-STJ).
+Em juízo de admissibilidade (fls. 188/190, e-STJ), negou-se processamento ao recurso, com amparo nas Súmula 7 do STJ.
+Daí o agravo (fls. 193/204, e-STJ), no qual o agravante impugna a decisão agravada.
+Contraminuta às fl. 205, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Com efeito, depreende-se que após análise do acervo fático-probatório dos autos, concluiu a Corte estadual que não estão presentes os requisitos legais para o deferimento do pedido de desconsideração da personalidade jurídica da parte ora agravada.
+A propósito, trecho da acórdão recorrido (fls. 46/52, e-STJ):
+Efetivamente, tratando-se de pedido de desconsideração da personalidade jurídica, sempre foi e continua sendo da parte exequente o ônus de provar o preenchimento dos requisitos do artigo 50 do Código Civil, aliás, já no próprio requerimento para a instauração do incidente, consoante disposto no artigo 134, § 4º, do aludido Código de Processo Civil.
+(..)
+No caso dos autos originários, a agravante requereu a instauração do incidente de desconsideração da personalidade jurídica da executada, havendo o MM. Juízo singular por bem proferir a r. decisão ora hostilizada, de rejeição liminar do incidente, sem determinar o seu processamento.
+(..)
+Na hipótese em tela, não se vislumbra essa referida probabilidade, sendo prematuro o pedido de instauração do incidente de desconsideração da personalidade.
+Com efeito, o que se tem por certo, na linha do esposado na r. decisão combatida, dentre outras coisas, em especial é que não houve qualquer tentativa prévia de localização e constrição de bens pertencentes à parte devedora, razão pela qual não há insolvência ou ausência de bens penhoráveis, em especial, se sevconsiderar que a empresa executada, possui, ao menos, 5 imóveis que foram apontados pelo próprio exequente.
+Vê-se que o agravante, neste aspecto, menciona de forma genérica e contraditória na sua peça recursal que "Muito menos prospera a alegação de que não houve pedidos de penhora. Há que se recordar, de início, que isso somente não ocorreu porque o d. Juízo a quo extinguiu a execução, em decisão acertadamente reformada por esta Corte." (sic item 13 de fl. 8).
+Ocorre que, de fato, na ação executiva (n.º 1063606-10.2022.8.26.0100), sequer pode ser considerado efetivamente como decorrido o prazo para pagamento dos executados, com inércia.
+Isto porque, tendo sido os executados citados, eles ofereceram exceção de pré-executividade (fls. 881/883 dos autos da execução) que foi acolhida para extinguir a execução (r. sentença de fls. 942/946 dos referidos autos).
+Posteriormente, em análise ao recurso do exequente, a r. sentença foi reformada para determinar o regular prosseguimento da execução, afastando a prescrição do título (v. acórdão de fls. 1069/1076), tendo sido, ainda, rejeitados embargos declaratórios (v. acórdão de fls. 1157/1164) e inadmitido recurso especial (r. decisão de fls. 1177/1180), contudo, ainda pende de análise o agravo interposto contra a r. decisão (fls. 1183/1201), todas da ação executiva, tendo sido o feito remetido ao c. Superior Tribunal de Justiça em 05 de julho de 2024, portanto, sem decisão definitiva acerca do prosseguimento ou não da execução.
+Constam, ainda, dois embargos à execução em andamento (números 1076487-19.2022.8.26.0100 e 1076571-54.2022.8.26.0100), que foram suspensos, até que se julgue definitivamente a ação executiva.
+Nesse contexto, não foi realizada qualquer tentativa para a constrição de bens dos executados, nem mesmo aquela de dinheiro, via Sisbajud, que costuma ser mais frutífera.
+No mais, não há alegação de encerramento irregular da pessoa jurídica ou mesmo de confusão patrimonial dos bens para aquela que é a única sócia Márcia, mas sim, de abuso da personalidade jurídica, sob alegação de que o agravado é, na verdade, sócio oculto da empresa, circunstância, que como dito, se mostra prematura para apreciação.
+Importante considerar, portanto, que a instauração do incidente de desconsideração, por ora, se mostra prematuro, tanto pela ausência de tentativas de constrição de bens das executadas, como pela pendência de discussão, em definitivo, acerca do prosseguimento ou não da ação executiva.
+Repise-se que, aqui, não se está a afirmar que é necessário o prévio esgotamento de tentativas de localização de bens, contudo, há que se aguardar, inclusive, o decurso de prazo para pagamento do débito pelos executados, com as respectivas inércias, após a regular intimação que, de fato, ainda não ocorreu no feito executivo, ainda que não se tenha notícias de concessão de efeito suspensivo aos recursos interpostos e, o mínimo, de tentativa prévia infrutífera de satisfação do seu crédito.
+Neste contexto, além de o acórdão recorrido estar em consonância com a jurisprudência adotada por essa Casa, o que atrai a incidência da Súmula 83/STJ, para derruir as conclusões contidas no decisum recorrido, no sentido de reconhecer a presença dos requisitos para a desconsideração da personalidade jurídica da empresa agravada, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+Nesse sentido:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA AFASTADA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 50 DO CC. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A desconsideração da personalidade jurídica é medida de caráter excepcional, admitida quando ficar caracterizado desvio de finalidade ou confusão patrimonial (CC/2002, art. 50).
+2. O mero encerramento irregular da sociedade empresária, ainda que aliado
+à ausência de bens penhoráveis, é insuficiente para a desconsideração da personalidade jurídica. Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.709.008/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/4/2025, DJEN de 6/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. REFORMA. PROCESSUAL E CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. ACÓRDÃO. MANUTENÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Devidamente impugnada a decisão que, na origem, não admitiu o especial, merece reforma a decisão da Presidência que não conheceu do agravo.
+2. A desconsideração da personalidade jurídica, pela Teoria Maior, deve ocorrer nos termos do art. 50 do Código Civil, ou seja, quando ocorre abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+3. Acórdão recorrido em consonância com a jurisprudência do STJ, porque, na espécie, deixou assentado que os ora agravados não devem figurar no polo passivo da ação de execução assestada contra a empresa, porque não seriam sócios ocultos da pessoa jurídica e nem estão dela se valendo para fazer confusão patrimonial. Aplica-se a Súmula 83/STJ.
+4. Chegar a conclusão diversa, nesta instância, encontra óbice na Súmula 7/STJ.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.682.952/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+2. Outrossim, quanto ao dissídio jurisprudencial alegado, esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame de dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. TUTELA DE URGÊNCIA. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. ENUNCIADO N. 735 DA SÚMULA DO STF. APLICAÇÃO. REVISÃO DA CONCLUSÃO ESTADUAL IMPLICA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTO INATACADO. SÚMULA 283/STF. AGRAVO IMPROVIDO.
+(..)
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1248498/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018)
+3. Do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 215/221 , e-STJ, e, em nova análise do agravo em recurso especial, dele conhecer para, de plano, negar provim ento ao recurso especial. Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do NCPC, haja vista que, na origem, foi interposto agravo de instrumento.
+Publique-se.
+Intimem-se.
+EMENTA
