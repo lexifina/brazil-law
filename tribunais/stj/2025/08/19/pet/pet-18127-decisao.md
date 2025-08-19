@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se pedido de tutela de urgência cautelar incidental, formulado por GERALDO PRESTES DE CAMARGO FILHO após a interposição de agravo em recurso especial.
+Ação: condenatória, ajuizada por GERALDO PRESTES DE CAMARGO FILHO em face de VK DRILLER EQUIPAMENTOS ELÉTRICOS LTDA.
+Sentença: julgou parcialmente procedente o pedido para condenar a ré ao pagamento do valor de R$ 835.212,51 a ser corrigido monetariamente pelo índice previsto em contrato (IGP-M) desde setembro de 2022 e juros de mora de 1% ao mês a partir da notificação da ré na cautelar de protesto distribuída pelo autor.
+Acórdão: negou provimento à apelação interposta por ambas as partes (e-STJ fls. 79-90).
+Recurso especial: alega violação aos arts. 85, § 11, 322, § 2º, 493 e 1022 do CPC.
+Decisão de admissibilidade: não admitiu recurso especial, uma vez que não evidenciada a negativa de prestação jurisdicional, incidente a Súmula 7/STJ em relação à controvérsia de fundo.
+Agravo em recurso especial: questiona a pertinência do óbice sumular aludido, porquanto a análise da controvérsia devolvida em recurso especial é eminentemente jurídica, prescindindo-se do reexame de fatos e provas.
+Pedido de efeito suspensivo: ressalta a plausibilidade do direito invocado, notadamente em relação à desproporcionalidade do valor dos honorários sucumbenciais arbitrados. Defende que o perigo na demora está evidenciado, tendo em vista a execução provisória instaurada com fundamento no valor dos honorários sucumbenciais arbitrados, em relação aos quais se controverte em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Esta Corte Superior perfilha do entendimento de que a atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora. Nesse sentido: AgRg na MC 25.391/MS, Quarta Turma, julgado em 18/02/2016, DJe 25/02/2016.
+Desse modo, apenas em hipóteses excepcionais é possível a atribuição de efeito suspensivo a agravo em recurso especial. Para tanto, porém, é necessária a demonstração do periculum in mora, que se traduz na urgência da prestação jurisdicional, e a caracterização do fumus boni juris, consistente na plausibilidade do direito alegado (no particular, na possibilidade de provimento do especial).
+Na hipótese, não se verifica a hipótese de urgência no provimento, uma vez que o alegado perigo na demora está relacionado ao resultado útil do processo.
+A alegação de que a parte requerida deflagrou cumprimento provisório de sentença decorre da interposição de recurso sem efeito suspensivo, e não representa, por si só, fundamento para caracterização do perigo na demora (art. 520 do CPC).
+Ademais, a parte executada (requerente) está resguardada por eventual reforma do acórdão recorrido, em recurso especial, em que a prestação restitutória decorre de modo imediato do provimento do respectivo recurso (art. 520, I, do CPC).
+Segundo a jurisprudência desta Corte, o cumprimento provisório de sentença não é circunstância suficiente para demonstrar o periculum in mora exigido para a concessão de efeito suspensivo ao recurso especial (AgInt na TutPrv no REsp 1.835.780/RJ, Terceira Turma, DJe 18/3/2021; AgInt no TP 255/MG, Quarta Turma, DJe 16/3/2017; AgInt na Pet 13.696/RJ, Terceira Turma, DJe 3/11/2020; AgInt na TutPrv no AREsp 1.070.866/DF, Terceira Turma, DJe 29/11/2017; AgRg na MC 25.558/RJ, Quarta Turma, DJe 31/3/2016; AgInt AR 6.839/SP, Segunda Seção, DJe 18/12/2020).
+Uma vez afastada a possibilidade de concessão do efeito suspensivo sob a ótica do periculum in mora, é desnecessário o exame da questão controvertida sob a perspectiva do fumus boni iuris e da eventual viabilidade do recurso especial.
+Forte nessas razões, INDEFIRO o pedido de concessão de efeito suspensivo ao recurso especial.
+Publique-se Intimem-se.
+EMENTA
