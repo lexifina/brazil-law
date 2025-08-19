@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por IRENE PEREIRA, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 30):
+EMENTA. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REFORMA AGRÁRIA - GDARA. PROPORCIONALIDADE DA APOSENTADORIA. AGRAVO CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. O magistrado de primeira instância acolheu parcialmente a impugnação apresentada pelo Instituto Nacional de Colonização e Reforma Agrária (INCRA) no âmbito de cumprimento de sentença, determinando o pagamento integral da Gratificação de Desempenho de Atividade de Reforma Agrária (GDARA) ao exequente.
+2. Agravo de instrumento interposto pelo INCRA alegando que a proporcionalidade dos proventos de aposentadoria do exequente deve se refletir sobre a estrutura remuneratória, de acordo com o disciplinamento constitucional aplicável.
+II. QUESTÕES EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o título judicial formado na ação civil pública nº 5063936-52.2016.4.04.7000, que reconheceu aos aposentados e pensionistas o direito ao pagamento da GDARA no mesmo percentual pago aos ativos, impõe o pagamento integral da gratificação, independentemente da proporcionalidade da aposentadoria.
+III. RAZÕES DE DECIDIR
+4. O cumprimento de sentença deve observar o título judicial transitado em julgado, interpretado em conformidade com o ordenamento jurídico. A Constituição Federal, ao tratar da proporcionalidade na concessão de aposentadorias, estabelece que os proventos devem corresponder à média remuneratória proporcional ao tempo de contribuição (CF, art. 40, § 3º).
+5. A ausência de delimitação na lei instituidora da GDARA, bem como no título executivo, quanto ao pagamento proporcional da gratificação de desempenho quando da análise do mérito da ação civil pública é o que possibilita o exame do tema em sede de cumprimento de sentença.
+6. A interpretação do título executivo deve ser harmônica com os princípios constitucionais aplicáveis, especialmente quanto à limitação dos valores devidos a aposentados que não possuem integralidade nos proventos.
+IV. DISPOSITIVO E TESE
+7. Agravo conhecido e provido para reformar a decisão que determinou o pagamento integral da GDARA, devendo o cálculo observar a proporcionalidade dos proventos de aposentadoria do exequente.
+Embargos de declaração rejeitados (e-STJ fls. 40/41).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 22 da Lei n. 11.090/2005, sob o fundamento de que esta norma, que instituiu a Gratificação de Desempenho de Atividade de Reforma Agrária (GDARA), não realizou nenhuma diferenciação entre as aposentadorias e as pensões proporcionais e integrais, assim como não previu o critério da proporcionalidade para a incorporação da GDARA.
+Contrarrazões às e-STJ fls. 68/71.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 72/73.
+Verifico que a pretensão recursal merece prosperar.
+Extrai-se do acórdão recorrido o seguinte (e-STJ fl. 28):
+ ..
+Para o deslinde do caso, há que se fazer uma interpretação sistemática das normas jurídicas que tratam da matéria. A aposentadoria do servidor público agravado está regrada, primeiramente, pela Constituição Federal, e, em seguida, pelas leis nº 8.112/1990 e nº 10.887/2004. Embora nem a lei instituidora da GDARA, nem o título executivo façam distinção entre a proporcionalidade e a integralidade dos proventos dos inativos, em verdade, a proporcionalidade da gratificação aos aposentados com proventos proporcionais não é matéria a ser tratada por este diploma legal.
+Não se pode exigir que o legislador, ao tratar de uma previsão remuneratória, tenha que fazer sempre a exceção para a proporcionalidade, pois a exceção à aplicação integral do vencimento ou de qualquer outra rubrica - seja adicional, seja gratificação, seja de qualquer outra natureza ou nome que se queira dar - já está inserida na norma em razão da existência dos preceitos reguladores dessa proporcionalidade.
+A própria natureza da aposentadoria proporcional é a redução dos valores totais recebidos, na proporção do tempo em que contribuiu, não havendo, pois, que se falar em direito adquirido ao valor integral da gratificação, tampouco em direito adquirido ao valor integral do vencimento básico, de adicionais ou outras gratificações. Não se trata de incidência da regra da proporcionalidade sobre uma rubrica específica, mas sim de proporcionalidade sobre a remuneração do servidor como um todo. Caso assim não o fosse, verificar-se-ia, por via transversa, um benefício proporcional por tempo de serviço/contribuição ser alçado a integral.
+No tocante à proporcionalidade do pagamento da gratificação, o entendimento firmado pela Corte de origem de que a proporcionalidade incide sobre os valores totais recebidos, incluindo a gratificação ora discutida, não encontra amparo na jurisprudência deste Superior Tribunal de Justiça. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. GRATIFICAÇÕES DE DESEMPENHO. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Segundo a jurisprudência desta Corte, a gratificação de desempenho deve ser paga em sua integralidade, por inexistir relação entre o seu valor e o tempo de serviço dos servidores em atividade (ou determinação de que a vantagem fosse individualizada de acordo com as circunstâncias específicas do servidor), descabendo tal distinção entre os aposentados com proventos integrais e proporcionais (vide REsp 1.573.197; Rel. Ministra Assusete Magalhães, DJe 30.3.2017; REsp 1.208.930, Rel. Ministro Og Fernandes, DJe 28.9.2016; EDcl no REsp 1.538.956, Rel. Ministro Humberto Martins, DJe 18.8.2016).
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.056.948/CE, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 30/11/2023)
+ADMINISTRATIVO. AGRAVO INTERNO. SERVIDORES APOSENTADOS E PENSIONISTAS. DIREITO AO RECEBIMENTO DA GDPGPE. APLICAÇÃO DA PROPORCIONALIDADE DOS PROVENTOS. PROVIMENTO NEGADO.
+1. Trata-se, na origem, de agravo de instrumento interposto "em procedimento de cumprimento de sentença coletiva que assegura aos servidores aposentados e pensionistas a ela associados o direito ao recebimento da GDPGPE, na mesma proporção dos servidores ativos, no percentual de 80% (oitenta por cento) do valor máximo, observados a classe e o padrão do servidor aposentado ou instituidor da pensão" .
+2. Esta Corte possui o entendimento de que as gratificações de desempenho integram os proventos dos servidores inativos, sem distinção alguma entre os que se aposentaram integral ou proporcionalmente ao tempo de contribuição, por ausência de previsão legal nesse sentido.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.999.442/CE, rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 17/11/2023)
+Em casos semelhantes nos quais se discutiu a gratificação em comento (GDARA), vide as seguintes decisões monocráticas: REsp n. 2.082.907/PE, de minha relatoria, DJe 3/10/2023; REsp n. 2.028.703/PE, rel. Ministro Paulo Sérgio Domingues, DJe 2/7/2024; REsp n. 2.108.169, rel. Ministra Regina Helena Costa, DJe 16/2/2024; REsp n. 2.027.765/PE, rel. Ministro Sérgio Kukina, DJe 6/2/2024; REsp n. 2.097.657, rel. Ministro Herman Benjamin, DJe 9/10/2023.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para afastar a aplicação da proporcionalidade para definição do valor devido a título de GDARA.
+Publique-se. Intimem-se.
+EMENTA
