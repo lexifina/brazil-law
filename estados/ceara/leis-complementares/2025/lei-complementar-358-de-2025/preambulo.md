@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR N.° 358, DE 19.08.25 (D.O. 19.08.25)
+ALTERA O ANEXO II, A QUE SE REFERE A LEI COMPLEMENTAR N.º 169, DE 27 DE DEZEMBRO DE 2016.
+O GOVERNADOR DO ESTADO DO CEARÁ. Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
