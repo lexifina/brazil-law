@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO BOSCO PEREIRA CARVALHO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado pelo delito previsto nos arts. 33 e 34, ambos da Lei n. 11.343/2006, às pen as respectivas de 07 (sete) anos e 06 (seis) meses de reclusão e 750 (quinhentos) dias-multa, no valor mínimo legal, bem como de 04 (quatro) anos de reclusão e 1.600 (mil e seiscentos) dias-multa, no valor mínimo legal (fls. 314-319).
+O Tribunal de origem, por unanimidade, deu parcial provimento ao apelo defensivo, de modo que a reprimenda do delito do art. 33 da Lei n. 11.343/2006 foi reduzida para 06 (seis) anos e 08 (oito) meses de reclusão e 666 (seiscentos e sessenta e seis) dias-multa, inalteradas as demais disposições da sentença (fls. 424-442).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal. Em suas razões recursais, alega violação aos arts. 400, §1º, e 402, do Código de Processo Penal, 5º, incisos LIV e LVII, da Constituição Federal e 42 e 33, §4º, da Lei n.º 11.343/2006. O recorrente sustenta: (i) a nulidade no indeferimento da diligência requerida para oitiva das testemunhas policiais que participaram da prisão em flagrante; (ii) a ilegalidade na incidência de fração de aumento em 1/3 (um terço); e (iii) a necessidade de redimensionamento da pena, em função do tráfico privilegiado (fls. 449-472).
+O recurso especial foi inadmitido na origem, por não ser a via adequada para a análise de violações a dispositivos constitucionais, bem como pelos óbices estabelecidos na Súmula n. 7, STJ e na Súmula n. 283, STF (fls. 512-514).
+Foi interposto o presente agravo em recurso especial, por meio do qual o agravante sustentou que o recurso apenas tratou de violações a dispositivo constitucional de forma indireta; que impugnou suficientemente os fundamentos do acórdão recorrido; e, por fim, que o especial não depende de reexame probatório, mas de cognição estritamente jurídica. Ao final, requereu o provimento do agravo para o provimento do recurso especial (fls. 517-536).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso especial (fl. 559-567).
+É o relatório. DECIDO.
+O agravo em recurso especial é tempestivo e impugnou os argumentos da decisão do Tribunal a quo, razão pela qual deve ser conhecido.
+Inicialmente, observo que a insurgência do agravante reside em alegado cerceamento de defesa, em decorrência do indeferimento do pedido de oitiva dos Delegados de Polícia que atuaram na investigação que culminou na prisão em flagrante do recorrido.
+No ponto, o acórdão justificou o indeferimento ao consignar que "a prova requerida era absolutamente dispensável e protelatória, vez que tais testemunhas sequer presenciaram os acontecimentos." (fls. 427).
+Nesse contexto, restou evidenciada a desnecessidade da diligência pleiteada pelo recorrente, sendo certo que conclusão em sentido diverso demandaria, inevitavelmente, o reexame do acervo fático-probatório, providência vedada pela Súmula n. 7 do Superior Tribunal de Justiça.
+No que toca ao pleito de ilegalidade na fixação de fração no patamar de 1/3 (um terço), adotado pela quantidade e natureza da droga encontrada, o desfecho dá-se de forma idêntica.
+A dosimetria da pena se dá intrinsecamente pela análise das circunstâncias fáticas e probatórias, própria das instâncias ordinárias. A esta instância superior cumpre apenas o controle da legalidade e da proporcionalidade da atividade dosimétrica.
+No caso em tela, observo inexistir ilegalidade no patamar de aumento da pena, tendo em vista as circunstâncias da quantidade de droga apreendida e da diversidade de equipamentos destinados à fabricação e preparação dos entorpecentes, conforme se extrai do acórdão (fls. 435-436).
+Nesse sentido, colaciono julgado análogo:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AUSÊNCIA DE ILEGALIDADE NO PROCEDIMENTO DOSIMÉTRICO ADOTADO PELO TRIBUNAL DE ORIGEM. REGIME DE CUMPRIMENTO FIXADO DE ACORDO COM O QUANTUM DA PENA. INVIÁVEL A ALTERAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Em relação à dosimetria da pena, de acordo com entendimento do STJ, é matéria afeta a certa discricionariedade do Magistrado, dentro do livre convencimento motivado, somente cabível de revisão em casos excepcionais, quando constatada, sem a necessidade de incursão no acervo fático-probatório, a inobservância dos parâmetros legais ou de flagrante desproporcionalidade, o que não é caso, pois não vislumbro nenhuma ilegalidade no procedimento dosimétrico adotado pelo Tribunal de origem, uma vez que o aumento da pena-base em 1/3 se deu em razão da expressiva quantidade de droga apreendida, que compulsando a denúncia, verifica-se que, de fato, merecia maior reprovabilidade.
+5. Observando o quantum da pena aplicada aos agravantes, inviável a alteração do regime prisional fixado, conforme preceitua o art. 33, § 2º, alínea "a", do Código Penal.
+6. Agravo regimental improvido.
+(AgRg no AREsp n. 2.745.415/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+Por conseguinte, deixo de conhecer do recurso, nesse aspecto, também em razão da incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+Derradeiramente, em relação à incidência da causa de diminuição de pena do art. 33, §4º, da Lei n. 11.343/2006, pleiteada pelo recorrente, tenho que a Súmula n. 7, STJ, também se apresenta como fundamento de impedimento do conhecimento do recurso especial.
+Colaciono trecho do acórdão recorrido, de tal modo a ilustrar a fundamentação adotada para afastar o pretendido benefício (fl. 437):
+"Inviável o acolhimento do pleito da Defesa quanto à incidência da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11343/06. Embora o acusado seja primário, as circunstâncias em que se deram a sua prisão em flagrante, aliada à grande quantidade e nocividade de entorpecentes apreendidos, além de maquinários e petrechos para o preparo de drogas demonstram rotina de proceder, fator impeditivo da aplicação do referido benefício."
+Portanto, mais uma vez, concluir de forma diversa da solução apresentada pelo Tribunal de origem demandaria inegável revolvimento fático-probatório. Logo, há óbice da Súmula n. 7, STJ para o conhecimento do recurso especial.
+Nesse sentido, a jurisprudência do STJ:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. ELEMENTOS CONCRETOS. SÚMULA N. 7 DO STJ. AGRAVO DESPROVIDO.
+ ..
+3. A questão em discussão consiste em saber se a decisão do Tribunal de origem, que afastou a aplicação da minorante do tráfico privilegiado, está fundamentada em provas idôneas que indicam a dedicação do recorrente a atividades criminosas.
+III. Razões de decidir
+4. A decisão agravada foi mantida, pois a denegação da incidência da causa de diminuição da pena foi fundamentada em provas dos autos, tais como o auto de apreensão, no qual se destacam a quantidade e a diversidade das drogas, os objetos ligados à narcotraficância, a elevada quantidade de dinheiro sem origem lícita demonstrada, e munições de uso restrito, tudo a indicar a dedicação habitual do recorrente a atividades criminosas.
+5. A modificação do entendimento do Tribunal de origem sobre os elementos que demonstram a dedicação do recorrente a atividades criminosas demandaria o revolvimento fático-probatório, o que é vedado no recurso especial pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo desprovido.
+Teses de julgamento: "1. A aplicação da minorante do tráfico privilegiado pode ser afastada quando as provas colhidas na instrução processual indicam a dedicação do réu a atividades criminosas. 2. É vedado o revolvimento fático-probatório em sede de recurso especial, nos termos da Súmula n. 7 do STJ".
+Dispositivos relevantes citados: CPP, art. 387, II; Lei nº 11.343/2006, art. 33, § 4º. Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.521.350/GO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 19/8/2024; STJ, AgRg no AREsp n. 2.393.949/ES, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024.
+(AgRg no REsp n. 2.174.084/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/5/2025, DJEN de 9/5/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
