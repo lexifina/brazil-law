@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de JESSYKA MONALIZA DA SILVA CAMPELO - condenada por receptação simples a 1 ano, 6 meses e 15 dias de reclusão, e 18 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça da Paraíba (fls. 11/23), não comporta processamento.
+Com efeito, busca a impetração a modificação do regime inicial de cumprimento de pena de fechado para aberto - na condenação proferida na Ação Penal n. 0006975-84.2018.8.15.0011 (fls. 30/35, da Vara de Entorpecentes da comarca de Campina Grande/PB), alterada em grau de apelação -, sustentando que a Paciente é primária, sentenciada pelo crime de receptação, pena inferior a 4 anos, crime cometido sem violência e/ou grave ameaça, houve a motivação idônea apenas do vetorial consequências do crime, que no caso concreto não justifica a imposição do regime inicial fechado (fl. 5).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a existência de circunstância judicial negativada e reincidência (fls. 22/23) justifica a imposição de regime inicial fechado, mesmo em pena inferior a 4 anos de reclusão (HC n. 910.437/SP, de minha relatoria, Sexta Turma, julgado em 28/5/2025, DJEN de 2/6/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. RECEPTAÇÃO SIMPLES. REGIME INICIAL. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
