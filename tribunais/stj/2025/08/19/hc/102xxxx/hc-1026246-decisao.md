@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de ODAIR RODRIGUES DOS SANTOS - condenado por ameaça circunstanciada, perseguição circunstanciada e descumprimento de medidas protetivas a 3 anos, 2 meses e 15 dias de reclusão, 2 meses de detenção e 27 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 10/37), não comporta processamento.
+Com efeito, busca a impetração a fixação do regime inicial semiaberto - na condenação proferida na Ação Penal n. 1502281-84.2024.8.26.0559 (fls. 38/45, da Vara Única da comarca de Potirendaba/SP), alterada em grau de apelação -, sustentando que a pena imposta ficou abaixo de 4 anos, o que tornaria imprescindível a sua adequação para o regime prisional semiaberto, em consonância com a Súmula 269 do STJ (fls. 6/7).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois os maus antecedentes e a múltipla reincidência (fl. 35) justificam a imposição de regime inicial fechado, mesmo em pena inferior a 4 anos de reclusão (AgRg no HC n. 999.854/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. AMEAÇA CIRCUNSTANCIADA, PERSEGUIÇÃO CIRCUNSTANCIADA E DESCUMPRIMENTO DE MEDIDAS PROTETIVAS. REGIME INICIAL. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
