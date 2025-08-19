@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ORGANIZA SERVIÇOS DE CONSERVAÇÃO E LIMPEZA PREDIAL LTDA. contra a decisão que inadmitiu o recurso especial na incidência das Súmulas n. 283 do STF e 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de embargos à execução.
+O julgado foi assim ementado (fl. 107):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA EMBARGANTE/EXECUTADA EXECUÇÃO EMBASADA EM CONTRATO DE SEGURO SAÚDE. TÍTULO EXECUTIVO EXTRAJUDICIAL, A TEOR DO ART. 784, XII, DO CPC E ART. 27 DO DECRETO-LEI N. 73/1966. APÓLICE DEVIDAMENTE ASSINADA PELA SÓCIA ADMINISTRADORA DA EMBARGANTE/DEVEDORA QUE DEMONSTRA A RELAÇÃO NEGOCIAL. JUNTADA DE BOLETOS RELATIVOS AOS PRÊMIOS, FATURAS QUE DEMONSTRAM A ORIGEM DOS VALORES COBRADOS E DEMONSTRATIVO ATUALIZADO DO DÉBITO QUE SÃO SUFICIENTES PARA COMPROVAR A CERTEZA, LIQUIDEZ E EXIGIBILIDADE DA OBRIGAÇÃO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. PRESENÇA DOS PRESSUPOSTOS LEGAIS. CABIMENTO. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram opostos e rejeitados (fl. 147).
+No recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.022, II, 1.013, § 1º, 11 e 489, § 1º, IV, do CPC, aduzindo que o acórdão recorrido não teria enfrentado todos os argumentos deduzidos no processo, carecendo de fundamentação; e
+b) 784, VI, 783 e 373, I, do CPC, porquanto não há título executivo, visto que o contrato de seguro de vida é o único documento que possui condição de título executivo extrajudicial, bem como a execução deve se fundar em título de obrigação certa, líquida e exigível.
+Sustenta que o Tribunal de origem divergiu ao entender que o contrato de seguro saúde constitui título executivo extrajudicial, enquanto a jurisprudência dominante do STJ exige que apenas o contrato de seguro de vida, em caso de morte, seja considerado título executivo extrajudicial.
+Requer o provimento do recurso para que se reconheça a improcedência dos pedidos iniciais do ora recorrido, determinando-se a extinção da execução, uma vez que a apólice de seguro não é considerada título executivo, bem como o ora recorrido não trouxe o contrato de seguro devidamente assinado pelas partes, nem o demonstrativo dos serviços utilizados pela ora recorrente.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de embargos à execução em que a parte autora pleiteou a extinção da execução por ausência de título executivo e de inexistência de débito.
+Preliminarmente, afasta-se a alegação de ofensa aos arts. 489, § 1º, IV, e 1.022, II, 1.013, § 1º, 11 do CPC, porquanto o Tribunal de origem analisou os pontos reputados contraditórios, omissos e obscuros, visto que foi devidamente fundamentado e expresso quanto aos motivos pelos quais considerou demonstrada a relação negocial e devidamente comprovada a certeza, a liquidez e a exigibilidade da obrigação.
+No recurso especial, a parte recorrente alega que o acórdão recorrido não teria enfrentado todos os argumentos deduzidos no processo, carecendo de fundamentação.
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à falta de fundamentação foi devidamente analisada pela Corte estadual, que reconheceu que o conjunto probatório dos autos revela que a apólice está devidamente assinada pela sócia administradora e as faturas demonstram a origem dos valores cobrados, não havendo vício que possa nulificar o acórdão recorrido. Confiram-se trechos do acórdão (fl. 105):
+O feito executivo ajuizado por BRADESCO SAÚDE S/A está embasado no "Seguro Coletivo de Reembolso de Despesas de Assistência Médico Hospitalar Bradesco Saúde SPG - INCLUSÃO ESPONTÂNEA OU OPCIONAL", apólice n. 384448, acostado no evento 1, ANEXO4 daqueles autos n. 5053238-17.2022.8.24.0038.
+De acordo com o art. 784, XII, do CPC, "são títulos executivos extrajudiciais: XII - todos os demais títulos aos quais, por disposição expressa, a lei atribuir força executiva".
+O Decreto-Lei n. 73/1966, por sua vez, prevê em seu art. 27 que "serão processadas pela forma executiva as ações de cobrança dos prêmios dos contratos de seguro".
+ ..
+Desse modo, o contrato de seguro saúde, devidamente assinado pela sócia administradora, constitui título executivo extrajudicial e demonstra a relação havida entre as partes.
+A agravante alega violação dos arts. 784, VI, 783 e 373, I, do CPC, afirmando que não há título executivo, visto que o contrato de seguro de vida é o único documento que possui condição de título executivo extrajudicial e a execução deve se fundar em título de obrigação certa, líquida e exigível.
+O acórdão recorrido concluiu que o contrato de seguro saúde, devidamente assinado pela sócia administradora, constitui título executivo extrajudicial e demonstra a relação havida entre as partes.
+A questão relativa à alegada ausência de título executivo foi decidida pelo Tribunal a quo com fundamento na análise da apólice assinada e dos documentos que demonstram a origem dos valores cobrados. Rever tal entendimento seria necessário o revolvimento do conjunto fático-probatório dos autos e de cláusulas contratuais, inviável no âmbito desta instância especial, ante os óbices das Súmulas n. 5 e 7 do STJ (AgInt no AREsp n. 2.432.586/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025).
+Ante o exposto, conheço do agravo em recurso especial e, nessa extensão, nego-lhe provimento .
+Nos termos do § 11 do art. 85 do CPC, majoro, de 12% para 14% sobre o valor atualizado atribuído à causa, os honorários advocatícios em desfavor da parte ora recorrente, ressalvada eventual concessão de gratu idade de justiça.
+Publique-se. Intimem-se.
+EMENTA
