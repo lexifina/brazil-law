@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Everton Renan Rotondo, em que se aponta como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus n. 2199981-05.2025.8.26.0000, mantendo a prisão preventiva do paciente pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa sustenta a ausência de fundamentos capazes de justificar o restabelecimento da medida constritiva, considerando que o paciente já havia obtido liberdade provisória por ordem judicial, e que estava cumprindo as medidas cautelares impostas, exercendo ocupação lícita, o que afastaria qualquer risco de fuga ou reiteração delitiva (fl. 4).
+Acrescenta que a decisão do Tribunal de Justiça, que cassou a liminar e resultou na nova prisão, ignora a situação de liberdade que estava em vigor e desconsidera a conduta ilibada do paciente, tornando a prisão preventiva desproporcional e excessiva (fl. 4).
+Requer, assim, a concessão liminar, confirmando-se a liminar pleiteada, para que o paciente possa responder ao processo em liberdade (fl. 5).
+É o relatório.
+Consta dos autos que, em 25/6/2025, durante o cumprimento de mandado de busca e apreensão na residência do custodiado, foram localizadas 12 porções de substância esverdeada, aparentando tratar-se de maconha (peso total de 105 g), além de possíveis apetrechos destinados ao fracionamento e à comercialização de entorpecentes.
+Em razão dos fatos, foi decretada a prisão do paciente. A defesa, contudo, impetrou habeas corpus, no qual foi deferida liminar pelo Tribunal de Justiça, posteriormente revogada.
+A medida constritiva foi restabelecida com fundamento na garantia da ordem pública, em razão da quantidade de entorpecentes apreendidos e apetrechos (fls. 37/42).
+No caso, embora a segregação cautelar esteja formalmente fundamentada, verifica-se que o paciente, ao que tudo indica, é primário, o delito foi cometido sem violência ou grave ameaça, não há elementos que indiquem sua vinculação à organização criminosa e a quantidade de droga apreendida - 105 g de maconha -, embora relevante, não se revela exorbitante a ponto de, por si só, justificar a manutenção da prisão preventiva. Tais circunstâncias indicam a possibilidade de substituição da custódia por medidas cautelares diversas.
+Assim, ainda que as particularidades do caso evidenciem a necessidade de resguardar a ordem pública, não se mostra proporcional a adoção da medida extrema de segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Assim, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 105 G DE MACONHA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. AUSÊNCIA DE FUNDAMENTOS SUFICIENTES A JUSTIFICAR A MANUTENÇÃO DA PRISÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
