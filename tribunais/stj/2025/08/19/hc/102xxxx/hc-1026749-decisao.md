@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MATHEUS LAMIN RESENDE, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação nº 0808017-46.2024.8.19.0066).
+Na inicial, a Defesa informa que o paciente foi condenado a 4 anos, 9 meses e 5 dias de reclusão pelo crime de posse ilegal de arma de fogo, conforme o art. 16 da Lei n. 10.826/2003 (fl. 2). Alega que a condenação se baseou em provas obtidas mediante invasão de domicílio, sem mandado judicial, motivada por denúncia anônima, sem investigação prévia ou consentimento documentado (fls. 2-3).
+A Defesa sustenta que houve ilegalidade na invasão domiciliar, abuso de poder e ignorância de precedentes, além de dano iminente à liberdade de locomoção do paciente, que está submetido a regime inicial fechado (fls. 4-5).
+Defende que a prova que fundamentou a condenação é ilícita por derivação, conforme a teoria dos frutos da árvore envenenada, e que a decisão do Tribunal a quo divergiu de precedentes do STF e STJ (fls. 5-6).
+Afirma que a entrada dos policiais na residência do paciente não foi amparada por mandado judicial nem por fundadas razões, baseando-se apenas em denúncia anônima e em uma suposta autorização verbal ("perdi, perdi"), o que viola o art. 5º, XI, da Constituição Federal (fls. 6-7).
+A Defesa destaca contradições nos depoimentos dos policiais sobre a localização das armas e a ausência de provas independentes, o que gera dúvida razoável que deveria ter levado à absolvição, em conformidade com o princípio do in dubio pro reo (fls. 7-8).
+No mérito, a Defesa requer a declaração de nulidade das provas obtidas mediante invasão de domicílio, o desentranhamento das referidas provas dos autos e a absolvição do paciente da acusação de porte ilegal de arma de fogo, ante a insuficiência de provas lícitas para embasar a condenação (fl. 16).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que havia fundadas razões para o ingresso domiciliar, pois os policiais receberam informações no sentido de que o paciente, já conhecido por envolvimento com a facção criminosa comando vermelho, tinha armas em casa e que havia acabado de chegar em sua residência.
+Confira-se o seguinte seguinte trecho do acórdão impugnado (fls. 64-69):
+Preliminar de nulidade das provas decorrentes da incursão em domicílio que deve ser rejeitada.
+A garantia da inviolabilidade do domicílio é a regra. Entretanto, essa é constitucionalmente excepcionada quando ocorre flagrante delito, cedendo ao interesse público na persecução penal, ou mediante autorização do morador.
+Os quatro policiais afirmaram, sob o crivo do contraditório e da ampla defesa, que receberam informações de que o acusado, que já era investigado por supostamente integrar facção criminosa, acabara de adentrar sua residência portando armas, motivo pelo qual se dirigiram ao local, sendo certo que, ao tocarem a campainha, o réu já atendeu os policiais afirmando: "Perdi, perdi", e franqueando a entrada, e apontando a localização dos armamentos.
+Destarte, não há como reconhecer a aventada violação do artigo 5º, XI, da Constituição Federal.
+ ..
+Portanto, não há que se cogitar em nulidade das provas decorrentes da aventada invasão de domicílio, impondo-se a rejeição da preliminar, já fundamentadamente rechaçada pelo Juízo de primeiro grau, ante a regularidade do flagrante e de todas as provas advindas da incursão domiciliar.
+Por sua vez, consta da sentença condenatória (fls. 49-52):
+A testemunha policial civil Argos Chaves da Costa Meira, em seu depoimento disse: "que receberam informação; que tinham conhecimento do grau de periculosidade do acusado, envolvido com a facção criminosa comando vermelho; que os informes davam conta de que ele tinha em depósito armas e que havia acabado de chegar na sua residência; que se dirigiram ao local e tocaram a campainha; que o acusado atendeu a campainha e disse perdi, perdi; que perguntaram o que tinha de errado e o acusado apontou o terraço; que havia armas no telhado, próximo ao terraço da casa da vizinha; que arrecadamos o material e levamos para delegacia;
+ ..
+Soma-se, ainda, que os policiais tinham informação de que o acusado havia recebido armas naquele dia e que uma dessas armas teria sido utilizada em um delito de homicídio e que este seria o segundo na hierarquia do tráfico no local.
+A entrada dos policiais na residência encontra justa causa na ciência de prática de crime no local. Informações prévias que foram devidamente confirmadas por meio da diligência policial.
+Portanto, a prova constante dos autos é firme ao apontar o acusado como o autor do delito, restando coerente com as provas contidas nos autos.
+Diante das circunstâncias fáticas apontadas pelo Tribunal de origem, não havia necessidade de prévio mandado judicial ou consentimento do morador, à vista das fundadas razões da ocorrência de crime no local.
+Ante o exposto, inexistente a flagrante ilegalidade apontada, não conheço do habeas corpus
+Publique-se. Intimem-se.
+ EMENTA
