@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de EDVALDO JOSE MARQUES SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS no julgamento da Apelação Criminal n. 0705071-20.2021.8.07.0006 (fls. 24/54).
+Extrai-se dos autos que o paciente foi condenado à pena definitiva de 5 anos, 8 meses e 10 dias de reclusão, em regime inicial semiaberto, além de 32 dias-multa, pela prática de crimes contra a ordem tributária, de falsidade ideológica e de uso de documento falso.
+Assevera a impetrante que há constrangimento ilegal na imposição do regime semiaberto ao paciente, desprovido de fundamentação idônea, além de não ser proporcional, razoável ou legal, considerando tratar-se de apenado primário com todas as circunstâncias judiciais favoráveis, aduzindo, ainda, que o regime aberto seria socialmente recomendável.
+Sustenta que o paciente faz jus ao benefício da prisão domiciliar humanitária em virtude de sua idade (71 anos), em observância ao disposto nos princípios da dignidade da pessoa humana, da razoabilidade, da proporcionalidade e da individualização da pena.
+Requer a fixação do regime inicial de cumprimento de pena aberto ao paciente e o reconhecimento da necessidade da prisão domiciliar , afastando-se o constrangimento ilegal apontado (fls. 21/22).
+A Presidência desta Corte requereu informações (fl. 126), prestadas apenas pelo Tribunal de Justiça (fls. 136/137). Sem vista ao MPF.
+Estes autos vieram a mim conclusos por prevenção ao HC n. 731.342/DF.
+É o relatório.
+Como visto, a irresignação cinge-se em torno da fixação do regime prisional semiaberto e da possibilidade de concessão da prisão domiciliar humanitária ao paciente, em razão da sua idade (71 anos).
+Quanto ao regime prisional, o Tribunal de origem consignou que o modo intermediário é o correto, tendo em vista a reprimenda aplicada definitivamente em 5 anos, 8 meses e 10 dias de reclusão, mais 32 dias-multa, no valor mínimo legal (fl. 52).
+O aresto impugnado está em sintonia com a orientação jurisprudencial desta Corte, haja vista que, embora o paciente seja primário e favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, a reprimenda imposta é superior a 4 anos e inferior a 8 anos de reclusão, o que impõe ao paciente o regime semiaberto de cumprimento de pena, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal (AgRg no HC n. 978.105/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN de 4/7/2025 - grifo nosso). No mesmo sentido: AgRg no AREsp n. 1.817.407/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 7/2/2025.
+Da atenta leitura dos autos tem-se que não há manifestação do Tribunal de Justiça acerca do pedido de concessão da prisão domiciliar humanitária ao paciente, desse modo, inviável a análise direta do Superior Tribunal de Justiça sobre a referida tese, sob pena de atuar em indevida supressão de instância.
+Vale destacar, ademais, que a competência para apreciar pedidos relacionados ao cumprimento da pena e à concessão de benefícios como a prisão domiciliar pertence ao juízo da execução, conforme disposto no art. 66, III, "b", da Lei de Execução Penal (Lei n. 7.210/1984). Após o trânsito em julgado, o juízo de conhecimento não detém mais competência para decidir sobre questões executórias (RHC n. 192.408/CE, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA, FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO. REGIME SEMIABERTO. ALEGAÇÃO DE DESPROPORCIONALIDADE. NÃO OCORRÊNCIA. MODO PRISIONAL ADEQUADO. PRECEDENTES. PEDIDO DE PRISÃO DOMICILIAR HUMANITÁRIA. MATÉRIA NÃO DEBATIDA PELAS INSTÂNCIAS ORIGINÁRIAS. SUPRESSÃO DE INSTÂNCIA. BENESSE A SER REQUERIDA AO JUÍZO DA EXECUÇÃO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
