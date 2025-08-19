@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+EXECUÇÃO FISCAL. ISS. DECISÃO QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ADEQUAÇÃO DO REMÉDIO PROCESSUAL ELEITO PELA PARTE EXECUTADA. DESENQUADRAMENTO DO REGIME ESPECIAL DE TRIBUTAÇÃO, EM VIRTUDE DA ADOÇÃO DE RESPONSABILIDADE LIMITADA AO CAPITAL SOCIAL, CHANCELADO EM AÇÃO ANULATÓRIA PRÍSTINA. FORMA SOCIETÁRIA CONHECIDA DESDE SEMPRE PELO ENTE FEDERATIVO MENOR. ERRO DE DIREITO, ASSIM CONSIDERADA A MUDANÇA DO CRITÉRIO ADOTADO PELO FISCO, NÃO AUTORIZA A REVISÃO DE LANÇAMENTOS CONCERNENTES AO IMPOSTO SOBRE SERVIÇOS. AGRAVO DE INSTRUMENTO PROVIDO PARA EXTINGUIR O PROCESSO E CONDENAR O MUNICÍPIO AO PAGAMENTO DE VERBAS SUCUMBENCIAIS.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 116/123):
+A decisão prolatada no acórdão merece ser reformada, eis que contrariou o disposto 504 , I, do CPC  ..  o executado propôs ação anulatória, julgada definitivamente improcedente, fazendo coisa julgada material relativamente à sua higidez e regularidade da autuação. O acórdão não respeitou os arts. 502 e 508 do CPC nem o inciso XXXVI do art 5º da CF/88  ..  em razão da relação de prejudicialidade existente entre a ação anulatória e a execução fiscal, a decisão judicial transitada em julgado no bojo da primeira prevalece sobre o presente feito.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na súmula 7 do STJ e porque é via recursal inadequada à verificação de violação à Constituição Federal, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 96/101):
+Trata-se de agravo de instrumento interposto por SOFF PROJETOS ESTRUTURAIS LTDA. contra decisão que rejeitou exceção de pré-executividade  ..  debate-se a nulidade dos lançamentos do imposto pelo Município, tema capaz de levar à extinção do processo e que pode ser conhecido ex officio pela autoridade judiciária  ..  o Município de São Paulo desenquadrou a SOFF do regime das sociedades uniprofissionais em 2019, lavrando autos de infração relativamente a créditos dos exercícios 2014 a 2017. Fundamento único foi a adoção do modelo de sociedade limitada. Verdade que o desenquadramento foi chancelado na ação anulatória com autos n. 1024507-82.2019.8.26.0053, mas naquela não se disse sobre a possibilidade de lançamentos retroativos  ..  em síntese, não havia lugar para lançamentos retroativos.
+Por ocasião do julgamento dos embargos de declaração, foi acrescido à fundamentação (fls. 109/111):
+Se na ação anulatória inexistiu deliberação sobre a possibilidade de lançamentos retroativos, descabe falar em ofensa à coisa julgada.
+Pois bem.
+A súmula 7 do STJ é mesmo óbice ao conhecimento do recurso, pois o delineamento fático descrito pelo órgão julgador não revela violação à autoridade da decisão proferida na ação anulatória, razão pela qual a revisão do acórdão recorrido depende do exame de prova, providência inadequada na via do especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial; e majoro em 1% a verba honorária de sucumbência arbitrada nas instâncias ordinárias, respeitados os limites e os critérios previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
