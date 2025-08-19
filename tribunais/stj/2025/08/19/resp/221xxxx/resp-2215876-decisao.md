@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o ora recorrente foi absolvido, no quesito absolutório genérico, pela prática do crime de homicídio qualificado.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega negativa de vigência ao artigo 121, §2º, I e IV, do Código Penal e ao art. 593, III, "d", e §3º, do Código de Processo Penal, bem como às normas processuais que regem os embargos de declaração, em especial os arts. 315, §2º, VI, e 619, do Código de Processo Penal; os arts. 489, §1º, VI, e 1022, II, e parágrafo único, II, ambos Código de Processo Civil, c/c art. 3º, do Código de Processo Penal.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo provimento do recurso especial.
+É o relatório. DECIDO.
+É cabível recurso de apelação com base no artigo 593, III, d, do Código de Processo Penal, nas hipóteses em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos (Tema 1.087).
+No caso em apreço, a absolvição da recorrida se deu com a votação do terceiro quesito, após ter o corpo de jurados respondido afirmativamente ao quesito que questionava se "a acusada concorreu para a prática do crime, dirigindo-se à residência da vitima junto ao corréu Adriel para que ele efetuasse os disparos " (e-STJ, fls. 3741).
+Nos termos do precedente vinculante citado, nos casos de absolvição pelo quesito genérico, é necessário que tenha constado em ata a tese de clemência que levou os jurados à tal conclusão, a qual, por sua vez, deverá guardar compatibilidade com o texto constitucional, com os precedentes vinculantes do Supremo Tribunal Federal e com as circunstâncias fáticas apresentadas nos autos.
+Como bem destacado pelo recorrente, referida tese não foi suscitada pela defesa, a qual insistiu na versão de que a acusada não teria presenciado a conduta delitiva. Destaque-se, ainda, que a tese de clemência sequer consta na respectiva ata (e-STJ, fls. 3736).
+Considerado tal cenário, há que se reconhecer a contradição material entre o julgado e as provas coligidas no sentido de que a recorrida estava no local do crime, ao contrário da tese defensiva no sentido de que a acusada sequer teria presenciado os fatos.
+A propósito, "embora tenham os jurados respondido afirmativamente aos dois primeiros quesitos (materialidade e autoria), mostra-se pertinente a absolvição com fundamento no quesito genérico, porquanto a defesa cuidou de apresentar em plenário o pedido de absolvição por clemência." (AgRg no R Esp n. 2.169.791/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025.
+Igualmente, "conforme entendimento jurisprudencial desta Corte, " s e a tese da defesa foi, única e exclusivamente, negativa de autoria, a absolvição reconhecida pelos jurados, no terceiro quesito (obrigatório) conflita com a resposta afirmativa dos leigos para os dois primeiros" (E Dcl no AgRg no HC n. 695.442/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/11/2021, Dá pro d Je de 12/11/2021).
+Ante o exposto, dou provimento ao recurso especial, para anular a decisão prolatada pelo Conselho de Sentença, submetendo a recorrida a novo julgamento.
+Publique-se. Intimem-se.
+EMENTA
