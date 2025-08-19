@@ -1,0 +1,61 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que manteve a decisão monocrática da relatoria, a qual conheceu do agravo em recurso especial para negar provimento ao recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 896):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 11 E 489 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO. 1. Inexiste a alegada violação aos arts. 11 e 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia. Julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 918-922).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que visa discutir a negativa de seguimento do recurso especial e recursos subsequentes, uma vez que caracterizou cerceamento ao direito recursal.
+Pondera que as ofensas à CF são diretas e que foram mantidas as omissões do acórdão do Tribunal local.
+Obtempera que não teve oportunidade de comprovar as seguintes alegações (fl. 933):
+"notadamente em relação aos servidores e contratados que firmaram contrato de empréstimo consignado, posto que tiveram seu vínculo com o município encerrado antes do término de pagamento do empréstimo por este realizados ou nunca tiveram vinculo contratual, via folha de pagamento com o município, tal qual o irmão do prefeito, que mantinha contrato de fornecimento de combustível, nas não - de natureza funcional, devendo o processo retornar a origem para regular instrução, o que não foi estabelecido".
+Aduz que os honorários advocatícios deveriam ser distribuídos de forma igualitária.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fl. 898):
+Na decisão agravada foi negado provimento ao recurso especial da parte ora agravante porque no acórdão recorrido a prestação jurisdicional havia sido prestada na medida da pretensão deduzida, tendo a Corte local apreciado fundamentadamente a controvérsia.
+Em nova análise do presente caso, vê-se que, quanto aos pontos controvertidos - ausência de fundamentação acerca da preliminar de cerceamento de defesa e da distribuição dos ônus sucumbenciais -, objeto do recurso especial, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS decidiu nestes termos (fls. 792/793):
+Quanto à alegação de cerceamento de defesa, o referido acórdão apontou claramente que a parte recorrente não cuidou sequer de indicar qual seria o meio de prova adequado para comprovar suas alegações. E, considerando que alega que pretendia demonstrar que parte dos descontos não foram efetuados porque os servidores contratantes dos empréstimos foram desligados da Administração Pública Municipal, reitero: como já destacado no acórdão embargado, a alegação dependeria somente de prova documental.
+Como dito no acórdão recorrido, caberia ao réu, ora embargante, quando da apresentação da sua contestação, colacionar aos autos os documentos, conforme preconiza o art. 434do CPC. Ademais, induvidoso que os documentos capazes de comprovar tais alegações encontram-se na posse do próprio Município.
+Igualmente, houve a devida apreciação da questão referente à alegação de nulidade de sentença. Veja-se:
+Também suscita o apelante preliminar de nulidade da sentença, afirmando que teria havido irregular inversão do ônus da prova, uma vez que caberia ao Banco autor comprovar que foram efetuados os descontos.
+Todavia, ao contrário do que alega o apelante, não houve inversão do ônus da prova. A sentença considerou que foi celebrado convênio com o Município e, em razão deste convênio, foram concedidos empréstimos aos servidores municipais, cabendo ao Município efetuar os descontos e repassar à instituição financeira.
+Conforme se extrai da sentença, considerou-se que os contracheques colacionados aos autos demonstram a ocorrência dos descontos, de modo que eventual equívoco na análise das provas não configura vício capaz de invalidar a sentença.
+Por derradeiro, destaque-se que inexiste qualquer contradição na fixação dos encargos sucumbenciais, não tendo havido condenação da parte autora, ante a sua sucumbência mínima, nos termos do art. 86, parágrafo único, do CPC.
+Ou seja, tudo que interessava à resolução do dissídio foi devidamente respondido. É importante ressaltar que o descontentamento da parte interessada com o julgado não implica ofensa aos dispositivos de lei invocados.
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração, nos seguintes termos (fls. 920-922):
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No acórdão embargado, a controvérsia foi decidida nestes termos (fls. 898 /899):
+ ..
+A respeito da questão apontada no recurso ora examinado, a PRIMEIRA TURMA resolveu que a Corte local teria apreciado fundamentadamente a controvérsia, inclusive no que importa à preliminar de cerceamento de defesa e à distribuição dos ônus sucumbenciais, sendo certo que o descontentamento da parte interessada com o julgado não implica ofensa aos dispositivos de lei invocados.
+Como se vê, ao contrário do alegado pela parte recorrente, a decisão embargada não padece de vício algum. Não há a necessidade de esclarecer, complementar ou integrar o que foi decidido, pois a tutela jurisdicional foi prestada de forma clara e fundamentada, tendo havido manifestação satisfatória sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à questão instaurada.
+A argumentação apresentada pela parte embargante não passa de mero inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+ ..
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º,LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa dos trecho do acórdão recorrido integrado pelo julgado dos aclaratórios antes transcritos.
+4. Ademais, no julgamento do RE n. 956.302-RG, a Suprema Corte firmou o entendimento de que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional "quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou análise de matéria fática".
+A referida orientação foi consolidada no Tema n. 895 do STF, nos seguintes termos:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso dos autos, a apreciação da apontada ofensa ao art. 5º, XXXV, da CF demandaria o exame de normas infraconstitucionais, motivo pelo qual se aplica a conclusão do STF no Tema n. 895.
+Do mesmo modo, trata-se de entendimento firmado na sistemática da repercussão geral e, portanto, de observância cogente (art. 1.030, I, a, do CPC).
+5. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
