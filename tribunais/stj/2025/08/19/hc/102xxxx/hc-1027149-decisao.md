@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de GILCIMAR GOMES DA COSTA SANTOS - condenado por furto simples a 1 ano de reclusão e 10 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 11/18), comporta pronto acolhimento.
+Com efeito, busca a impetração a alteração do regime inicial de fechado para semiaberto - na condenação proferida na Ação Penal n. 1500317-79.2025.8.26.0540 (fls. 22/26, da 4ª Vara Criminal da comarca de Santo André/SP), alterada em grau de apelação -, sustentando que a pena imposta ao paciente não ultrapassou o patamar de 4 (quatro) anos, de modo que, ainda que reincidente, nos termos do art. 33, §2º, "c", do Código Penal, faz jus o réu ao regime inicial semiaberto de cumprimento de pena (fl. 8).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Entretanto, tem-se que foi demonstrada ilegalidade na fixação do regime prisional, pois o acórdão hostilizado afastou a exasperação da pena-base, mas manteve o regime inicial fechado - ao fundamento de que a multiplicidade de condenações pretéritas, composta, inclusive, por crimes cometidos com emprego de grave ameaça ou violência (fl. 18) -, em desacordo com a Súmula 269/STJ. Assim, considerando o quantum de pena imposta e a ausência de circunstâncias judiciais negativadas, tem-se que o paciente faz jus a iniciar a pena no regime inicial semiaberto .
+Em razão disso, concedo liminarmente a ordem para alterar o regime inicial para semiaberto referente à sentença condenatória proferida na Ação Penal n. 1500317-79.2025.8.26.0540, da 4ª Vara Criminal da comarca de Santo André/SP.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS . FURTO SIMPLES. REGIME INICIAL FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. REGIME ALTERADO PARA SEMIABERTO. INCIDÊNCIA DA SÚMULA 269/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
