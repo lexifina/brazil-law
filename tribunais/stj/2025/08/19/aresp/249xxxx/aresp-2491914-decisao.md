@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra os acórdãos proferidos pelo Tribunal de Justiça do Maranhão (Apelação Criminal n. 0001111-80.2015.8.10.0085 e Embargos de Declaração na Apelação Criminal n. 0001111-80.2015.8.10.0085) que mantiveram a condenação de MARIA ARLENE BARROS COSTA como incursa no crime tipificado no art. 1º, VII, do Decreto-Lei n. 201/1967.
+Nas razões do recurso especial, a defesa da agravante suscitou violação do art. 619 do Código de Processo Penal (fls. 326/330).
+A Corte de origem inadmitiu o reclamo com fundamento na Súmula 83/STJ (fls. 342/345).
+Contra o decisum a defesa interpôs o presente agravo (fls. 347/356).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento ou pelo desprovimento do recurso especial (fls. 394/400).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Passo, então, ao exame do recurso especial.
+A tese deduzida no recurso especial é de que a Corte de origem incorreu em omissão ao deixar de enfrentar uma das alegações da defesa, assim sintetizada nas razões do recurso especial (fl. 329 - grifo nosso):
+ ..
+Não é demais repisar que em sede de aclaratórios, visando sanar erro de fato, o recorrente assentou que "A bem da verdade, realmente o convênio teria prazo de vigência até 31/12/2012. Ocorre que o prazo para prestação de contas é de 60 (sessenta) dias após sua finalização, o que daria no dia 31 de março de 2013. É, EXATAMENTE, isso que as provas dos autos demonstram. Conforme se observa dos documentos carreados pelo próprio órgão acusador. Isso porque a vigência do contrato/prestação de contas se encerrou em período posterior ao fim do mandato da embargante, qual seja: 31 de março de 2013, vejamos.".
+ ..
+Essa tese, no entanto, foi implicitamente rechaçada pela Corte de origem, na medida em que a condenação decorreu não só da ausência de prestação de contas final, tida como de responsabilidade do gestor posterior, mas também da falta de prestação de contas parcial, verificada no curso do mandato eletivo da agravante (fl. 291 - grifo nosso):
+ ..
+Do contexto, a se extrair, condenada a ré a uma pena de 01 (um) ano, 03 (três) meses e 12 ( doze) dias de detenção, pela prática do crime previsto no art. 1.º, VII, do Decreto-Lei n.º 201/67, em razão de, no dia 31/05/2012, celebrado o Convênio n.º 015/12 com o Estado do Maranhão por meio da Secretaria Estadual de Educação, consistente no recebimento de R$ 2.393.366,00 (dois milhões, trezentos e noventa e três mil e trezentos e sessenta e seis reais), tendo como finalidade a municipalização do ensino fundamental com o devido aparelhamento, contudo, não prestado contas da segunda e da terceira parcela do suscitado convênio, totalizando a quantia de R$ 1.675.719,43 (um milhão, seiscentos e setenta e cinco mil, setecentos e dezenove reais e quarenta e três centavos).
+Com efeito, quanto ao pleito absolutório, se lho tenho por imerecedor de melhor sorte, porquanto a se extrair do coligido acervo prova segura de que pela gestora, ora apelante, no dia 31/05/2012, celebrado o Convênio n.º 015/12 com o Estado do Maranhão por meio da Secretaria Estadual de Educação, consistente no recebimento de R$ 2.393.366,00 (dois milhões, trezentos e noventa e três mil e trezentos e sessenta e seis reais), tendo como finalidade a municipalização do ensino fundamental com o devido aparelhamento, contudo, não prestado contas da segunda e da terceira parcela do suscitado convênio, totalizando a quantia de R$ 1.675.719,43 (um milhão, seiscentos e setenta e cinco mil, setecentos e dezenove reais e quarenta e três centavos), consoante a atestar o Parecer n.º 49/2013, às fls. 72, do Processo Administrativo da Secretaria de Educação do Estado do Maranhão).
+ ..
+Logo, não há falar em omissão, sendo nítido o mero inconformismo da agravante com o resultado que lhe fora desfavorável.
+Sobre o tema, confira-se:
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO. USO DE DOCUMENTO FALSO. ALEGAÇÃO DE VÍCIOS. OMISSÃO. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO CLARA E SUFICIENTE. PRETENSÃO DE REEXAME DE MÉRITO. IMPOSSIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO DELITO DE USO DE DOCUMENTO FALSO. MATÉRIA DE ORDEM PÚBLICA. LAPSO TEMPORAL SUPERIOR A 4 (QUATRO) ANOS ENTRE O RECEBIMENTO DA DENÚNCIA E ÉDITO CONDENATÓRIO. OCORRÊNCIA. EXTINÇÃO DA PUNIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS E, DE OFÍCIO, DECLARADA EXTINÇÃO DA PUNIBILIDADE SOMENTE QUANTO AO CRIME DE USO DE DOCUMENTO FALSO.
+I. Caso em exame 1. Embargos de declaração opostos contra acórdão que negou provimento a agravo regimental, mantendo decisão que não conheceu de agravo em recurso especial por ausência de impugnação específica dos fundamentos da decisão agravada, com base na Súmula 182/STJ. A defesa alega prescrição da pretensão punitiva em relação ao crime de uso de documento falso e omissão quanto a suposta violação aos arts. 386, V e VII, do CPP, e 33, §4º, da Lei 11.343/06.
+II. Questão em discussão 2. A questão em discussão consiste em verificar a existência de omissão, contradição ou obscuridade no acórdão embargado, conforme exigência do art. 619 do CPP, que justificariam a integração do julgado e analisar a ocorrência de prescrição da pretensão punitiva em relação ao crime de uso de documento falso, dada sua natureza de matéria de ordem pública.
+III. Razões de decidir 3. Embargos de declaração são cabíveis apenas para sanar vícios de ambiguidade, obscuridade, contradição ou omissão, não sendo instrumento para rediscussão do mérito, conforme estabelece o art. 619 do CPP.
+ ..
+IV. Dispositivo 7. Embargos de declaração rejeitados, com declaração, de ofício, de extinção da punibilidade do embargante em relação ao delito de uso de documento falso, em razão da prescrição da pretensão punitiva estatal.
+(EDcl no AgRg no AREsp n. 2.632.007/SP, Ministra Daniela Teixeira, Quinta Turma, julgado em 4/12/2024, DJEN de 9/12/2024 - grifo nosso).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ART. 1º, VII, DO DECRETO-LEI N. 201/1967. VIOLAÇÃO DO ART. 619 DO CPP. TESE DE OMISSÃO NO PROVIMENTO JURISDICIONAL. IMPROCEDÊNCIA. MERO INCONFORMISMO.
+Agravo conhecido para negar provimento ao recurso especial.
