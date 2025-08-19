@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual LUCITEX CONFECÇÕES LTDA. se insurgira contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. DIREITO TRIBUTÁRIO. PRETENSÃO DE SUSPENSÃO DE EXIGIBILIDADE DE CRÉDITO TRIBUTÁRIO EM RAZÃO DE DECADÊNCIA. SENTENÇA DE CONCESSÃO DA ORDEM, PARA RECONHECER O DIREITO DA IMPETRANTE DE NÃO SE SUBMETER AO FUNDO ESTADUAL DE COMBATE À POBREZA - FECP DE 2% EXIGIDO PELO DECRETO ESTADUAL Nº 45.607/2016, CONTINUANDO A EFETUAR RECOLHIMENTO DE ICMS NA ALÍQUOTA DE 2,5% SOBRE O VALOR CONTÁBIL DAS OPERAÇÕES DE SAÍDAS REALIZADAS NO MÊS DE REFERÊNCIA, QUE INCLUI 1% DESTINADO AO FECP, CONFORME A LEI ESTADUAL Nº 6.331/2012. PUBLICAÇÃO DO DECRETO ESTADUAL Nº 45.607/2016 EM 21/03/2016. DEMANDA DISTRIBUÍDA SOMENTE EM 14/08/2020. DECURSO DO PRAZO DECADENCIAL DE 120 (CENTO E VINTE) DIAS, NOS TERMOS DO ART. 23 DA LEI Nº12.016/2016. INEXISTÊNCIA DE OBRIGAÇÃO DE TRATO SUCESSIVO, DE ACORDO OM PRECEDENTE DO STJ. DECADÊNCIA. INDEFERIMENTO DA INICIAL. RECURSO PROVIDO.
+Nas razões de seu recurso especial, a parte ora agravante alega que não há que se falar em transcurso do prazo decadencial, haja vista se tratar de relação de trato sucessivo, envolvendo a fruição periódica de benefício fiscal.
+A parte adversa apresentou contrarrazões (fls. 390/395).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.273), e foi assim delimitada:
+"Definir o marco inicial do prazo decadencial para impetração do mandado de segurança, com o objetivo de impugnar obrigação tributária que se renova periodicamente" (Recursos Especiais 2.103.305/MG e 2.109.221/MG, relator Paulo Sérgio Domingues).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
