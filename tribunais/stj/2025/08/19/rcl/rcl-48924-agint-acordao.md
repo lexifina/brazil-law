@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 13/08/2025 a 19/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ACÓRDÃO RECLAMADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. No caso, a decisão agravada não conheceu da reclamação ao fundamento de que a pretensão, caso acolhida, é que extrapola a determinação do decisum proferido pelo Superior Tribunal de Justiça.
+2. A falta de impugnação específica dos fundamentos do decisum inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por Antônio dos Santos Neto da Silva contra decisão assim ementada (fl. 66, e-STJ):
+PROCESSUAL CIVIL. RECLAMAÇÃO. ACÓRDÃO DE TURMA RECURSAL ESTADUAL. DIVERGÊNCIA ENTRE TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO RIO DE JANEIRO E JULGADO DO TJ/RJ. INADEQUAÇÃO. AUTORIDADE DE DECISÃO DO STJ. DESCUMPRIMENTO. NÃO COMPROVAÇÃO. AUSÊNCIA DE APRESENTAÇÃO DO PARADIGMA. INADEQUAÇÃO DA VIA ELEITA. RECLAMAÇÃO NÃO CONHECIDA .
+O agravante, em suas razões, argumenta que (a) a decisão monocrática afastou-se do entendimento consolidado sobre o cabimento da Reclamação Constitucional para garantir a autoridade das decisões do STJ, incluindo seus enunciados sumulares, como a Súmula 85 (fl. 78, e-STJ); (b) a prescrição é uma questão de direito material, não meramente processual, conforme a legislação brasileira e a Súmula 85 do STJ; (c) o agravante tem direito adquirido à gratificação no percentual de 50%, conforme o Decreto Estadual nº 21.753/95, e a questão envolve proteção constitucional ao direito adquirido e princípio da isonomia (fl. 80, e-STJ); (d) a decisão da Turma de Uniformização Fazendária do TJ/RJ contraria a Súmula 85 do STJ, que estabelece que a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação (fl. 81, e-STJ); (e) a decisão agravada perpetua uma situação de injustiça, onde o agravante recebe uma gratificação inferior ao devido, violando o princípio da isonomia e causando redução remuneratória (fl. 82, e-STJ); (f) inaplicabilidade da Resolução STJ/GP n. 3/2016, pois não envolve recurso especial repetitivo ou assunção de competência, sendo cabível a reclamação para garantir a autoridade da Súmula 85 (fl. 83, e-STJ).
+Impugnação às fls. 92-96, e-STJ.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ACÓRDÃO RECLAMADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. No caso, a decisão agravada não conheceu da reclamação ao fundamento de que a pretensão, caso acolhida, é que extrapola a determinação do decisum proferido pelo Superior Tribunal de Justiça.
+2. A falta de impugnação específica dos fundamentos do decisum inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece ser conhecido. Vejamos.
+A decisão agravada não conheceu da reclamação aos seguintes fundamentos: (a) não está demonstrado quais são os julgados proferidos pelo STJ que não foram observados pela Corte a quo. Portanto, não houve demonstração de hipótese de cabimento de reclamação; (b) No caso, além da decisão reclamada não apreciar questão de direito material, o ora reclamante não apresenta precedentes de Turmas recursais de diferentes estados para demonstrar o tratamento divergente adotado pela Turma recursal fazendária - conforme preconizada no art. 18, caput, da Lei n. 12.153/2009; (c) a reclamação não é instrumento adequado para rever eventual divergência jurisprudencial entre o acórdão proferido por Turma Recursal e o STJ. Com efeito, nos termos do art. 18 e seguintes da Lei n. 12.153/2.009, o exame dessa divergência deve ser apresentada mediante pedido de uniformização.
+Entretanto, a despeito dos fundamentos expostos na decisão impugnada, acima relatados, o agravante apenas repisou a argumentação segundo a qual "a decisão da Turma de Uniformização Fazendária do TJ/RJ, ao qualificar erroneamente a prescrição como questão meramente processual e, com isso, negar seguimento ao PUIL, acabou por permitir a perpetuação da violação à Súmula 85/STJ, em grave prejuízo ao direito substantivo do Agravante" e reportou-se ao seu mérito, nada mencionando acerca do cabimento da reclamação, na espécie.
+Assim, tendo em vista a ausência de impugnação específica quanto aos fundamentos da decisão ora agravada, proferida em sede de reclamação, impõe-se a aplicação do enunciado n. 182 da Súmula deste Tribunal Superior.
+Nos termos do art. 1.021, § 1º, do CPC/2015 cabe à parte insurgente, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese dos autos, não foi atendido.
+Ademais, em obediência ao princípio da dialeticidade, exige-se do agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula n. 182 desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inocorrência de cerceamento de defesa pelo julgamento monocrático. A jurisprudência do STJ orienta-se no sentido de que o art. 932 do NCPC e a Súmula nº 568 do STJ admitem que o relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte. Precedentes.
+3. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento de que a multa cominatória pode ser alterada a qualquer tempo ou fase processual, inclusive de ofício, bem como sobre a impossibilidade de utilização da reclamação como sucedâneo recursal. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+4. Agravo interno não conhecido. (AgInt na Rcl n. 42.176/SP, rel. Min. Moura Ribeiro, Segunda Seção, DJe de 16/3/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. A falta de impugnação pelos agravantes de todos os fundamentos da decisão que indeferiu liminarmente os embargos de divergência viola a norma contida no art. 1.021, § 1º, do CPC e atrai a incidência da Súmula 182 do STJ. Precedentes.
+2. É defesa a utilização da reclamação como sucedâneo recursal. Precedentes.
+3. Agravo interno não conhecido. (RCD na Rcl n. 41.906/SP, rel. Min. Luis Felipe Salomão, Segunda Seção, DJe de 24/8/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, o agravo interno deve infirmar todos os fundamentos da decisão atacada, sob pena de não ser conhecido.
+2. Hipótese em que o recorrente, em flagrante desrespeito ao princípio da dialeticidade, deixou de impugnar especificamente o fundamento da decisão agravada no sentido de que, à luz da jurisprudência desta Corte, a indisponibidade de bens pode ser decretada sem a notificação prévia do réu em ação de improbidade administrativa.
+3. Se a decisão objurgada está fundamentada no sentido de que o acórdão recorrido destoa do atual entendimento desta Corte Superior sobre a matéria, deveria a parte irresignada demonstrar a existência de posicionamento jurisprudencial diverso, apto a garantir a manutenção da orientação adotada pelo Tribunal a quo. Precedente.
+4. Agravo interno não conhecido. (AgInt no AREsp 661.265/BA, rel. Min. Gurgel de Faria, Primeira Turma, DJe 8/9/2016)
+Outrossim, é patente o real intuito do reclamante de se utilizar da excepcional via da reclamação constitucional como sucedâneo recursal, o que lhe é defeso ante o descabimento desta ação na hipótese.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
