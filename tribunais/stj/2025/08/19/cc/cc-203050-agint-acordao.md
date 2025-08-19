@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 13/08/2025 a 19/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO TRABALHISTA - PERÍODO DE BLINDAGEM PATRIMONIAL - DELIBERAÇÃO UNIPESSOAL QUE DECLAROU A COMPETÊNCIA DO JUÍZO UNIVERSAL - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO - INSURGÊNCIA DA AGRAVANTE.
+1. A orientação pacífica da Segunda Seção caminha no sentido de ser o Juízo onde se processa a recuperação judicial, o competente para examinar o eventual prosseguimento de atos de constrição/expropriação que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Cuida-se de agravo interno interposto por GUILHERME PASCHOAL LUQUEZE contra decisão, da lavra deste signatário, acostada às fls. 853/858, que conheceu do presente incidente e declarou a competência do juízo recuperacional da 3ª Vara Cível do Recife/PE.
+Em síntese, o conflito foi ins taurado pelo r. JUÍZO DA VARA DO TRABALHO DE CAJAMAR-SP, suscitante, que processa a Reclamação Trabalhista n.º 1002152-14.2018.5.02.0221, ajuizada por Jessica Marina da Silva e Outros em face de Xinguara Indústria e Comércio S. A. - Em Recuperação Judicial, contra o r. JUÍZO DE DIREITO DA 3.ª VARA CÍVEL DO RECIFE-PE, suscitado, perante o qual tramita a Habilitação de Crédito n.º 0022710-79.2020.8.17.2001, manejada por Vanilda de Fátima Melo Santos contra a empresa reclamada ora interessada, requerida no âmbito da Recuperação Judicial n.º 0030716- 08.2013.8.17.0001.
+Depreende-se dos autos que o r. juízo suscitado indeferiu o pedido de habilitação do crédito formulado pela reclamante, ora interessada, ao fundamento de que "(..) tratando-se de crédito constituído depois de ter o devedor ingressado com o pedido de recuperação judicial (crédito extraconcursal), fica excluído do plano e de seus efeitos ( art. 49, caput, da Lei n. 11.101/2005), a ele não sendo dado o mesmo tratamento do crédito concursal". (fls. 119/120)
+O r. juízo suscitante, por sua vez, se declarou incompetente para prosseguir com as execuções e realizar penhora de ativos da empresa em recuperação, bem como, ao invés de julgar o incidente de desconsideração da personalidade jurídica da reclamada, suscitou o incidente em análise (fls. 621-622 e 848-851).
+Informações prestadas às fls. 841-848. Parecer do Ministério Público Federal pelo não conhecimento do conflito (fls. 834-837). Às fls. 853/858, este signatário, apoiado em orientação jurisprudencial da Segunda Seção, declarou a competência do r. juízo recuperacional da 3ª ª VARA CÍVEL DO RECIFE-PE, suscitado.
+Os aclaratórios de fls. 864/871, foram rejeitados às fls. 878/880.
+Nas razões do presente agravo interno, o insurgente apresenta argumentação no sentido do não conhecimento do conflito. Entende que não estão satisfeitos os seus requisitos. Argumenta, outrossim, acerca da competência do r. juízo laboral para a concretização dos atos executórios atinentes à execução trabalhista. Requer a reforma do julgado. (fls. 899/912)
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO TRABALHISTA - PERÍODO DE BLINDAGEM PATRIMONIAL - DELIBERAÇÃO UNIPESSOAL QUE DECLAROU A COMPETÊNCIA DO JUÍZO UNIVERSAL - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO - INSURGÊNCIA DA AGRAVANTE.
+1. A orientação pacífica da Segunda Seção caminha no sentido de ser o Juízo onde se processa a recuperação judicial, o competente para examinar o eventual prosseguimento de atos de constrição/expropriação que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+A insurgência não merece prosperar.
+1. Consoante destacado na oportunidade do exame unipessoal, a orientação1. pacífica da Segunda Seção caminha no sentido de ser o Juízo onde se processa a recuperação judicial, o competente para examinar o eventual prosseguimento de atos de constrição/expropriação que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+Essa compreensão, sem dúvida, fundamenta-se na ideia de que o juízo da recuperação é o mais próximo da realidade fática e jurídica das empresas com dificuldades financeiras, tendo, por isso, maiores e melhores condições de assimilar, aquilatar e definir se eventuais medidas judiciais proferidas em juízos diversos e incidentes sobre o acervo patrimonial de tais sociedades, podem ou não comprometer o sucesso do plano de reerguimento.
+Na mesma linha de cognição, confiram-se julgados proferidos por todos os membros deste órgão colegiado, a saber: Agint no CC 147485/SP, REL. MIN. LUIS FELIPE SALOMÃO, DJE DE 18/2/2020; CC 131894/SP, REL. MIN RAUL ARAÚJO, DJE DE 31/3/2014; AGIN NO EDCL NO CC 145525/GO, REL. MIN. MARCO BUZZI, DJE DE 02/06/2020; CC 146.657/SP, REL. MIN. MOURA RIBEIRO, DJE DE 07/12/2016; AGRG NO EDCL NO CC 136571/MG, REL. MIN. MARCO AURÉLIO BELLIZZE, DJE DE 31/05/2017; CC 145.027/SC, REL. MIN. RICARDO VILLAS BÔAS CUEVA, DJE DE 31/8/2016; AGINT NO CC 145402/GO, REL. MIN. MARIA ISABEL GALLOTTI, DJE DE 29/06/2018; AGRG NO CC 129290/PE, REL. MIN. ANTONIO CARLOS FERREIRA, DJE DE 15/12/2015; AGINT NO CC 150597/SP, REL. MIN. PAULO DE TARSO SANSEVERINO, DJE DE 01/02/2019; AGINT NO CC 164903/PR, REL. MIN. NANCY ANDRIGHI, DJE DE 05/05/2020.
+2. Até mesmo em relação a créditos reputados extraconcursais, tem entendido este Tribunal que cabe ao Juízo Recuperacional exercer o controle dos atos de constrição ou expropriação do patrimônio da recuperanda.
+Confiram-se, nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL X EXECUÇÕES INDIVIDUAIS. LEI 11.101/05. INTERPRETAÇÃO SISTEMÁTICO-TELEOLÓGICA DOS SEUSDISPOSITIVOS. CRÉDITO CONSTITUÍDO APÓS O DEFERIMENTO DARECUPERAÇÃO. LIQUIDAÇÃO E HABILITAÇÃO DO CRÉDITO. NATUREZA EXTRACONCURSAL. COMPETÊNCIA DO JUÍZORECUPERACIONAL. PRECEDENTES DA SEGUNDA SEÇÃO. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNODESPROVIDO. (AgInt no CC 167.563/SP, Rel. Ministro PAULO DETARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em , D17/03/2020Je ) AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA.19/03/2020RECUPERAÇÃO JUDICIAL. EXECUÇÃO INDIVIDUAL. ATOSEXECUTÓRIOS. PENHORA ANTERIOR AO DEFERIMENTO DARECUPERAÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. ART. 76 DA LEI N. 11.101/2005. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, tanto sob a égide do Decreto-Lei n. 7.661/45 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal. Inteligência do art. 76 da Lei n. 11.101/2005.
+2. Tal entendimento estende-se às hipóteses em que a penhora seja anterior à decretação da falência ou ao deferimento da recuperação judicial. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. Agravo não provido.
+AgInt no CC 166.811/MA, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 12/02/2020.
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DECONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃOJUDICIAL.
+(..) 2. Classificam-se como extraconcursais os créditos de obrigações que se originaram após o deferimento do processamento da recuperação, prevalecendo estes sobre os créditos concursais, de acordo com os arts.83 e 84 da Lei nº 11.101/2005.
+3. Segundo a jurisprudência desta Corte, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, a execução de créditos trabalhistas constituídos depois do pedido de recuperação judicial deve prosseguir no Juízo universal.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Blumenau/SC.
+CC 145.027/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA,SEGUNDA SEÇÃO, DJe de 24/08/2016.
+E ainda: AgRg no Edcl no CC 136.571/MG, Rel. Min. Marco Aurélio Bellizze, DJe de 31/5/2017.
+3. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
