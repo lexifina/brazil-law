@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DAIANE BRUNA BABAN DE FREITAS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão do julgamento do agravo interno criminal n. 2138209-41.2025.8.26.0000/50000.
+Consta dos autos que a paciente foi inicialmente condenada pelo Juízo da 4ª Vara Criminal da Comarca de Sorocaba, na ação penal n. 1501613-65.2019.8.26.0567, à pena de 5 (cinco) anos de reclusão e ao pagamento de 500 (quinhentos) dias-multa, em regime inicial fechado, pela prática do delito previsto no artigo 33, caput, da Lei 11.343/06 (fls. 22-38).
+Após o trânsito em julgado, a defesa impetrou perante o Tribunal de Justiça do Estado de São Paulo o HC n. 2138209-41.2025.8.26.0000, que foi indeferido liminarmente por seu relator (fls. 59-63). Interposto agravo interno criminal, foi negado provimento ao recurso (fls. 29-45), sendo esse o título judicial impugnado.
+Na presente impetração, alega-se que houve indevida negativa da aplicação da causa de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.343/2006, fundamentada exclusivamente na quantidade e variedade total de drogas apreendidas com todos os réus, sem considerar a pequena quantidade encontrada especificamente com a paciente (fls. 4, 8).
+Sustenta-se que a paciente é primária, possui bons antecedentes, não se dedica a atividade criminosa e não é integrante de organização criminosa, tendo sido absolvida do crime de associação para o tráfico por insuficiência probatória (fls. 3, 8). Afirma-se que a fundamentação utilizada para negar o tráfico privilegiado é inadequada e teratológica, violando o princípio da individualização da pena (fls. 9).
+Ao final, requer-se a concessão da ordem para que seja reconhecida a causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.343/2006, na fração de 2/3, redimensionando a pena para 1 ano e 8 meses de reclusão e 166 dias-multa, com a consequente substituição da pena privativa de liberdade por restritivas de direitos e alteração do regime inicial de cumprimento para o aberto (fls. 15-16).
+Pleiteia-se, também, a concessão de liminar para suspender os efeitos da sentença condenatória na parte em que negou a aplicação da causa de diminuição de pena, determinando-se a aplicação da referida minorante na fração de 2/3, com a consequente redução da pena para 1 ano e 8 meses de reclusão e 166 dias-multa, possibilitando a conversão da pena privativa de liberdade por restritivas de direitos e a alteração do regime inicial de cumprimento para o aberto (fls. 14-15).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível constrangimento ilegal, consubstanciado pela negativa ao reconhecimento do tráfico de drogas privilegiado.
+O presente habeas corpus investe contra acórdão em substituição a recurso próprio, não podendo ser conhecido. A Terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Além disso, verifico que as teses vertidas nesta impetração sequer foram conhecidas pelo Tribunal de Justiça do Estado de São Paulo, uma vez que o habeas corpus impetrado na origem não foi conhecido.
+Com efeito, o Superior Tribunal de Justiça fica impedido de conhecer da matéria diretamente, sob pena de incorrer em indevida supressão de instância. Nesse sentido:
+ ..
+1. A questão relativa à alegada nulidade da busca pessoal e veicular realizada em face do corréu não foi examinada pelo Tribunal de origem, motivo pelo qual esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+ ..
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 888.544/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Também não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
