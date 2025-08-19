@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JEFERSON GONÇALVES NEVES, apontando como autoridade coatora o desembargador relator da revisão criminal n. 2227571-54.2025.8.26.0000, do Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara da Comarca de Campos do Jordão, na ação penal n. 1501141-66.2023.8.26.0618, à pena de 2 (dois) anos e 26 (vinte e seis) dias de reclusão, além de 19 dias-multa, cada qual fixado em 1 (um) salário mínimo, ante a renda declarada pelo réu, pela prática do delito previsto no artigo 155, § 1º, do Código Penal, a ser cumprida em regime inicial fechado (fls. 26-57).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso (fls. 81-95).
+Posteriormente ao trânsito em julgado, foi proposta a revisão criminal n. 2227571-54.2025.8.26.0000 perante o Tribunal de Justiça do Estado de São Paulo, a qual não foi conhecida por decisão monocrática do relator (fls. 191-197), sendo este o título judicial impugnado.
+Na presente impetração, alega-se que houve indevida exasperação da pena-base, com fundamentação genérica e desproporcional quanto ao valor dos bens furtados e ao número de vítimas (fls. 11). Sustenta-se que a imposição do regime inicial fechado, mesmo com pena inferior a quatro anos, contraria a Súmula 719 do STF e o art. 33, §§ 2º e 3º, do Código Penal, configurando bis in idem ao utilizar a reincidência como agravante e, simultaneamente, para justificar o regime mais gravoso (fls. 12-14). Afirma-se que a reincidência não se refere a crime praticado com violência ou grave ameaça, o que reforça a ilegalidade da decisão (fls. 13).
+Ao final, pugna-se pela concessão da ordem para assegurar ao paciente o direito de iniciar o cumprimento da pena em regime semiaberto, conforme previsto no art. 33, § 2º, "b", do Código Penal e nas Súmulas 269 do STJ e 719 do STF (fls. 17-18).
+É o relatório. DECIDO.
+A presente impetração investe contra a decisão monocrática do desembargador relator da revisão criminal n. 2227571-54.2025.8.26.0000 (fls. 191-197), que não conheceu da revisão criminal. Não há registro de que a decisão tenha sido submetida ao órgão colegiado do Tribunal de Justiça do Estado de São Paulo.
+Segundo o artigo 105, I, "c", e II, da Constituição Federal, o Superior Tribunal de Justiça não possui competência para analisar habeas corpus impetrado contra ato de desembargador. A esse respeito, cito o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016)
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator, em casos de manifesta incompetência, a indeferir liminarmente o habeas corpus, hipótese verificada nos presentes autos.
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
