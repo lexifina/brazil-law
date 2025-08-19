@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. contra a decisão que inadmitiu o recurso especial pelos seguintes fundamentos:
+a) não cabimento de alegação de ofensa a dispositivo constitucional; e
+b) em relação à violação dos arts. 35, I, 39, § 2º, 47, 49, 50, I, IX e XI, 59, 61 e 71, II, da Lei n. 11.101/2005, incidência das Súmulas n. 5, 7 e 83 do STJ.
+Em suas razões, o agravante limitou-se a afirmar que os referidos óbices de admissibilidade não se aplicam ao caso concreto.
+Antes do julgamento do feito, o Juízo da recuperação, por ofício, apresentou a sentença de encerramento do procedimento de recuperação, relatando o cumprimento de todas as obrigações do plano pela empresa recuperanda (fls. 526-535).
+Abriu-se vista às partes para manifestação (fls. 536-537). O agravante requereu o prosseguimento do feito e o julgamento do agravo em recurso especial (fls. 542-544).
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na impossibilidade de análise da violação de dispositivo constitucional em recurso especial e na incidência das Súmulas n. 5, 7 e 83 do STJ.
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente a incidência da Súmula n. 83 do STJ, limitando-se a afirmar o seguinte (fl. 445):
+O Tribunal a quo negou conhecimento ao recurso especial pelo óbice contido na Súmula 83 do Superior Tribunal de Justiça, decisão que merece reparo, conforme as razões de direito que seguem.
+Colaciona-se a Súmula 83 do STJ:
+SÚMULA Nº 83: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+Na questão da compreensão da controvérsia, tem-se que O Banco recorrente abordou de forma suficientemente clara, na perspectiva de que razão jurídica funda o seu requerimento, merecendo ser energicamente modificada por este Colendo Tribunal, pois, clara está a interpretação divergente da que vem decidindo o Superior Tribunal de Justiça e em outros E. Tribunais, em casos análogos.
+Ora, Nobres Julgadores, os pressupostos gerais dos dispositivos tidos como violados foram devidamente explicitados, ou seja, se a peça discriminou, qual artigo foi infringido. Neste esteio, fica claramente demonstrado que este Recorrente não poderá sofrer as penas de ter um direito seu cerceado, sob pena de violação do disposto no artigo 5º, inciso LV, da Constituição Federal.
+Isso porque, as questões cuja violação se alega, foram claramente indicadas no recurso especial e nos demais recursos interpostos, não havendo que se falar em aplicação do entendimento da Súmula 83 do STJ.
+Para rebater o óbice da Súmula n. 83 do STJ, deve a parte apresentar precedentes do próprio STJ que demonstrem um entendimento jurisprudencial divergente do que foi aplicado na decisão recorrida, ou seja, precedentes contemporâneos ou supervenientes que indiquem uma mudança de orientação da Corte ou a inaplicabilidade dos precedentes citados na referida decisão. Além disso, deve apresentar impugnação específica dos fundamentos da decisão agravada, demonstrando a inadequação da aplicação da Súmula n. 83 ao caso concreto, o que não ocorreu no tópico acima citado.
+Nesse sentido, a jurisprudência do STJ: "Não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração mediante precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes invocados" (AgInt no AREsp n. 2.146.174/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2023, DJe de 27/4/2023).
+Desse modo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes : AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
