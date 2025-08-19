@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (fl. 229):
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. PPP VÁLIDO. ELETRICIDADE. PPP INDICA EXPOSIÇÃO A TENSÃO ELÉTRICA SUPERIOR A 250V. CONSIDERAÇÃO DA ELETRICIDADE COMO AGENTE NOCIVO MESMO APÓS EDIÇÃO DO DECRETO 2.172/1997. CORREÇÃO MONETÁRIA PELO INPC. TEMA 905 DO STJ. SENTENÇA MANTIDA.
+1. A caracterização do tempo de serviço especial obedece a legislação vigente à época em que foi efetivamente executado o trabalho (interpretação do tema 694 do STJ). Tem-se, portanto, que no período de vigência dos Decretos 53.831/1964 e 83.080/1979 a especialidade da atividade se dava por presunção legal, de modo que bastava a informação acerca da profissão do segurado para lhe assegurar a contagem de tempo diferenciada. A partir da edição da Lei n.º 9.032/95, o enquadramento de tempo especial passou a depender de comprovação pelo segurado do tempo de trabalho permanente em atividades com efetiva exposição a agentes nocivos. Por fim, a partir da edição do Decreto 2.172/97, que regulamentou a Lei 9.528/97, passou-se a exigir laudo técnico.
+2. Importa esclarecer que, mesmo em relação ao período posterior à edição do Decreto 2.172/97, a possibilidade do enquadramento por exposição a eletricidade foi permitida pelo RESp 1.306.113-SC, representativo de controvérsia.
+3. Aplicação do INPC como índice de correção monetária nas condenações na natureza previdenciária, em obediência ao Tema 905 do STJ.
+4. Apelação do réu improvida. Sentença de procedência mantida.
+Opostos embargos declaratórios, o Tribunal a quo proferiu acórdão, conforme ementa in verbis (fl. 250):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DESNECESSIDADE DE SUSPENSÃO. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS NÃO CONHECIDOS.
+1. O Tema Repetitivo 1209 do STF não abrange a matéria discutida nestes autos, referindo-se à atividade de vigilante. Ainda que a exposição à eletricidade também se enquadre na categoria de atividade perigosa, não há determinação de suspensão dos feitos que não tratem especificamente da profissão indicada no tema.
+2. Nos termos do art. 1.022 do CPC, os embargos de declaração são cabíveis para esclarecer obscuridades, eliminar contradições ou suprir omissões existentes em qualquer decisão judicial.
+3. Na hipótese, verifico que o embargante limita-se a repisar os fundamentos da apelação, pretendendo modificação do acórdão que lhe foi desfavorável.
+4. A ausência de indicação de qualquer dos vícios apontados pelo art. 1.022 importa no não conhecimento dos embargos, conforme jurisprudência do STJ.
+5. Mesmo em caso de oposição de embargos para fins de prequestionamento, há necessidade de observância do preenchimento dos requisitos do art. 1.022 do CPC, consoante jurisprudência firmada nesta Corte.
+6. Embargos não conhecidos.
+Em seu recurso especial de fls. 261-277, sustenta o recorrente violação aos arts. 1.022, II, do CPC, 57, §§3º e 4º e 58, caput e §1º da Lei nº 8.213/91, uma vez que o acórdão recorrido, em que pese a oposição de embargos de declaração, não se manifestou sobre a impossibilidade de enquadramento como tempo especial de trabalho em atividade de risco por exposição a eletricidade, após a Lei nº 9.032/95 e os Decretos nº 2.172/97 e 3.048/99.
+O Tribunal de origem, às fls. 295-297, não admitiu o recurso especial pelos seguintes fundamentos:
+No que se refere à violação ao art. 1.022, II, do CPC, o STJ já se manifestou no seguinte sentido: "Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil" (AgInt no AREsp 1.544.435/DF, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 02/04/2020).
+Acerca da matéria, o STJ já firmou o posicionamento de que é cabível o enquadramento como atividade especial do trabalho exposto ao agente perigoso eletricidade, exercido após a vigência do Decreto 2.172/1997, para fins de aposentadoria especial, desde que a atividade exercida esteja devidamente comprovada pela exposição aos fatores de risco de modo permanente, não ocasional, nem intermitente, em condições especiais.
+No julgamento do Tema Repetitivo 534, foi firmada a seguinte tese:
+(..)
+Noutro turno, o acórdão recorrido foi pontual ao dizer, sobre a ineficácia do EPI para o agente perigoso "eletricidade", nos trechos a seguir transcritos:
+(..)
+Vale ressaltar que o Tema 1209/STF é estranho aos autos, vez tratar-se da atividade de vigilante.
+Assim, a análise do objeto recursal, especialmente no que se refere ao fundamento da decisão recorrida, demandaria o exame do conjunto fático-probatório dos autos.
+A toda evidência, infirmar a referida conclusão passaria, necessariamente, pela reapreciação de fatos e provas, vedada pelo Enunciado 7 da Súmula do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+(..)
+Em seu agravo, às fls. 312-322, o agravante argumenta que o processo deve ser sobrestado, conforme os arts. 1.030, III e 1.037, II do CPC, até que o STF decida sobre a controvérsia relacionada à periculosidade como condição para aposentadoria especial, conforme o Tema 1.209 do STF. Aduz negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem "apesar de tecer considerações, rejeitou os embargos de declaração, não emitindo juízo quanto aos fatos e dispositivos tidos por violados" (fl. 320).
+Assevera que a questão jurídica exposta no recurso especial não tem como objeto matéria fática, mas sim equivocada aplicação do direito ao fato, mormente ao comando normativo dos arts. 57, §§3º e 4º e 58, caput e §1º da Lei nº 8.213/91 (fl. 320 ).
+É o relatório.
+Decido.
+A insurgência não pode ser conhecida.
+Cumpre registrar, inicialmente, que a hipótese em exame não guarda relação com a questão a ser examinada pelo Supremo Tribunal Federal no Tema 1.209. Com efeito, a questão lá discutida diz respeito à atividade de vigilante, matéria que não é objeto deste processo, daí porque não há falar em sobrestamento do feito.
+Além disso, verifica-se que a parte agravante não infirmou de modo suficiente a fundamentação utilizada para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos e autônomos: (i) - não ocorrência de violação ao art. 1022, II, do CPC, porquanto as questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma ampla e fundamentada; e (ii) - incidência da Súmula 7/STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Todavia, no seu agravo, a parte não impugnou os referidos óbices, os quais, à míngua de impugnação suficiente, específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a integralidade do fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, a agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. INCIDÊNCIA DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. DESCANSO SEMANAL REMUNERADO. SOBREAVISO. PRÊMIOS. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA À DECISÃO DE ADMISSIBILIDADE PROFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 83/STJ. JURISPRUDÊNCIA DOMINANTE. SÚMULA 182/STJ. PRECEDENTE DA CORTE ESPECIAL DO STJ.
+ ..
+5. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, bem como ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+6. Ademais, a Corte Especial do Superior Tribunal de Justiça assentou, no julgamento dos EAREsp 746.775/PR, ser necessária a impugnação específica de todos os fundamentos da decisão denegatória do Recurso Especial, sob pena de não conhecimento.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.428.209/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PREVIDENCIÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
