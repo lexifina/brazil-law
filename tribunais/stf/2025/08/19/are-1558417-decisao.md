@@ -1,0 +1,59 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário formalizado em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+
+    “Apelação. Ação Civil Pública. Improbidade Administrativa. I. Ausência de recolhimento do preparo. Hipossuficiência não comprovada. Pedido de justiça gratuita negado. Artigo 1.007 do CPC que exige a comprovação do recolhimento da taxa judiciária. Deserção configurada. Recursos de alguns réus não conhecidos. li. Ação civil pública ajuizada pelo Ministério Público. Lei n° 13.004114 que incluiu o inciso VIII no artigo 1 0 da Lei n° 7.347/85 (Lei de Ação Civil Pública), autorizando a defesa do patrimônio público - e social por meio -da ação civil pública. III. Ação Civil por Ato de Improbidade Administrativa. Agentes Políticos. Prefeito. Aplicabilidade da lei no 8.429/92. Precedentes do STJ e deste Tribunal. IV. Preliminar de cerceamento de defesa. Não configuração. V. Contratação de pela Prefeitura Municipal de Tatuí, representada por seu então Prefeito, para prestação e serviços especializados em procedimentos de urgência e emergência no Pronto Socorro Municipal. Apuração de sucessivas e dolosas Ilegalidades praticadas pelos requeridos - empresa vencedora, outras empresas participantes, seus sócios e representantes, os membros da comissão de licitação - funcionários municipais e o Prefeito, em conluio. Irregularidades na contratação do serviço, à margem da Constituição Federal e das Leis n° 8.666/93 e n° 8.429/92. Participação ostensiva dos requeridos. Improbidade configurada. Devolução devida. VI. Sentença mantida. Recursos não providos”. (eDOC 35/ID: 86824017, p. 4)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, XL, do texto constitucional.
+
+    Nas razões recursais, pleiteia-se que o caso seja analisado à luz das alterações promovidas à Lei 8.429/1992 pela Lei 14.230/2021.
+
+    Sustenta-se que, dado o caráter punitivo da Lei de Improbidade Administrativa, as alterações supervenientes à legislação devem retroagir para beneficiar o réu.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não merece prosperar.
+
+    Inicialmente, registro que o recurso extraordinário, a despeito de pleitear que o caso seja analisado à luz da nova legislação, não indicou os pontos que entende serem controvertidos e que merecem ser reapreciados.
+
+    Na espécie, o Tribunal de origem condenou os recorrentes pela prática de ato de improbidade administrativa consubstanciado no art. 10, VIII, da Lei 8.429/1992. Consignou que restou devidamente comprovado nos autos que os recorrentes agiram com a intenção de fraudar procedimento licitatório, com a finalidade de favorecer a empresa licitante e frustrar os objetivos da licitação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “As falhas no processo licitatório foram detectadas pelo Tribunal de Contas do Estado de São Paulo. Foram apuradas pelo Parquet as seguintes irregularidades: (I) coincidência dos sócios das empresas Seam - Serviços de Assistência Medica S/C Ltda. e Serviços e Assistência Médica Bidim Lelis Ltda., sendo Rosane Maria Petri sócia de ambas; (II) a constituição das empresas Serviços e Assistência Médica Bidim Lelis Ltda. e Pronto Atendimento Médico Alves Ltda. quando já em curso o processo licitatório impugnado, em 20.05.2003 e 28.04.2003, respectivamente; (III) a extinção da empresa Pronto Atendimento Médico Alves Ltda. apenas um ano depois de sua constituição, situação a evidenciar sua criação somente com a finalidade de burlar o processo licitatório; (IV) que Tarcizio Antônio Lucas Lelis era sócio da empresa SEAM, vencedora do certame, até o início de junho de 2003, tendo-se retirado da sociedade após a abertura da licitação; (V) Tarcizio Antônio Lucas Lelis também é marido da sócia majoritária da empresa SEAM e era o médico responsável pelo Pronto Socorro Municipal de Tatuí, local onde seria ó prestado o serviço contratado por meio do procedimento licitatório; (VI) que Tarcizio Antônio também é pai de Rafael Bidim Lelis, sócio da empresa Serviços e Assistência Médica Bidim Lelis Ltda.; (VII) duas prorrogações da data para entrega dos envelopes sem qualquer justificativa, possivelmente com a finalidade de possibilitar: vii.1 - a retirada de Tarcizio da empresa SEAM, porque, na condição de médico responsável pelo Pronto Socorro Municipal, não poderia participar do certame (artigo 9º , inciso III da Lei de Licitações); vii.2 - a constituição das demais empresas participantes para que houvesse número mínimo de participantes, dando aparência de legalidade ao certame; (VIII) impossibilidade de as empresas Serviços e Assistência Médica Bidim Lelis Ltda. e Pronto Atendimento Médico Alves Ltda. terem tido tempo hábil para comprovação de sua qualificação, devido à sua constituição durante o processo licitatório; (IX) falta de publicação do edital em qualquer jornal regional e de grande circulação no estado, em afronta ao artigo 21, inciso III, da Lei de Licitações e ao princípio da publicidade, possivelmente com o objetivo de garantir que empresas idôneas não se interessassem em participar = € do processo licitatório.
+
+    (...)
+
+    No que tange à condenação dos corréus pela prática de ato de improbidade administrativa, a prova dos autos revelou a violação à lisura do certame 002/2003 da Prefeitura Municipal de Tatuí, de 24.02.2003.
+
+    Participaram da formalização dos termos do edital á Ademir Signori Borssato, na condição de Prefeito, Máximo Machado Lourenço, na condição de Presidente da Comissão e por fim, na condição de membros da Comissão, Luiz Antonio Ribeiro de Campos, Marcos Marques de Oliveira, José Darci de Paula e Jose Alencar de NC Camargo Soares (fis. 249/258 — 2 1 vol. e fl. 1085 5º vol.).
+
+    Restou demonstrada a coincidência dos sócios das empresas Seam - Serviços de Assistência Médica S/C Ltda. e Serviços e Assistência Médica Bidim Lelis Ltda., da qual Rosane Maria Petri é € sócia de ambas (fls. 289/299). Assim como a constituição das empresas Serviços e Assistência Médica Bidim Lelis Ltda., da qual são á sócios Rosane Maria Petri e Rafael Bidim Lelis e da empresa Pronto C£§ Atendimento Médico Alves Ltda., da qual são sócios Silvana Aparecida Alves e Osmar Ângelo Alves, ambas no curso do processo licitatório impugnado, em 20.05.2003 e 28.04.2003, respectivamente (fis. 295/299 21 vol. e fis. 597/599 31 vol.). Também provado o distrato do contrato social da empresa Pronto Atendimento Médico Alves Ltda. em 31.08.2003 (fl. 599).
+
+    Mas não é só. Tarcizio Antõnio Lucas Lelis, médico responsável pelo Pronto Socorro Municipal de Tatuí, era também á sócio da empresa SEAM, vencedora do certame, marido de Rosane Maria Petri e pai Rafael Bidim Lelis. Tarcizio retirou-se da sociedade empresária em 21.05.2003, portanto, após a abertura da licitação.
+
+    Ausente, ainda, qualquer justificativa legal para as duas prorrogações da data para entrega dos envelopes.
+
+    Em arremate, evidente que a falta de publicação do edital em jornal regional e de grande circulação no estado e o sumiço dos autos do processo de licitação no 02/2003 da Prefeitura de Tatuí (fl. 241 2º vol.) reforçam as demais provas das ilicitudes cometidas no certame.
+
+    Não resta dúvida, por conseguinte, quanto à justeza das condenações impostas aos corréus (ressarcimento ao erário público e suspensão dos direitos políticos)”. (eDOC 35/ID: 86824017, p. 10-20)
+
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, a fim de realizar a devida subsunção dos fatos narrados na inicial a alguma das hipóteses de atos de improbidade previstos na Lei 8.429/1992, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, notadamente no que se refere à apreciação das provas constantes nos autos e em sua suficiência para demonstrar a existência de dolo na prática das condutas, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+
+    Confiram-se, a propósito, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. LICITAÇÃO. IRREGULARIDADE. DISCUSSÃO SOBRE ELEMENTO VOLITIVO. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. SÚMULA 279 DO STF. NEGATIVA DE PROVIMENTO. I. Caso em exame. 1. Agravo regimental contra decisão que negou provimento ao recurso extraordinário com fundamento na Súmula 279 do STF e na necessidade de análise de legislação infraconstitucional. II. Questão em discussão 2. Verificar a viabilidade, ou não, do apelo extremo, no qual se alega ofensa ao art. 37, caput, XXI, § 4º, da CF, em face dos óbices apontados na decisão agravada. III. Razões de decidir 3. Não há prova de dano, de dolo e de conluio fraudulento entre prefeito, servidora e a empresa que prestou os serviços de segurança. Assim, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional. 4. Nessa perspectiva, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. 5. A petição de agravo regimental não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida. IV. Dispositivo 6. Agravo regimental a que se nega provimento. Sem honorários, por se tratar de ação civil pública na origem (art. 18 da Lei 7.347/1985)”. (ARE 1.541.901 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 17.6.2025; grifo nosso)
+
+    “EMBARGOS DE DECLARAÇÃO NO SEGUNDO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CESSÃO/DOAÇÃO DE DIREITOS DECORRENTES DE REGISTRO E AUTORIZAÇÃO JUNTO À ANEEL PARA A CONSTRUÇÃO DE USINA HIDRELÉTRICA, MEDIANTE PAGAMENTO DE PROPINA A AGENTES PÚBLICOS. LESÃO AOS COFRES PÚBLICOS. DOLO. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. TEMA 1.199 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. LEI 8.429/1992. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. CARACTERIZAÇÃO DA CONDUTA DOLOSA E DE PREJUÍZO AO ERÁRIO. RAZOABILIDADE E DA PROPORCIONALIDADE DAS SANÇÕES APLICADAS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. PRECEDENTES. EMBARGOS DE DECLARAÇÃO OPOSTOS POR SBS ENGENHARIA E CONSTRUÇÕES LTDA, NELSON SPERB NETO E MAURÍCIO FAGUNDES SPERB DESPROVIDOS. DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO, COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO. 1. Inexistência dos vícios previstos no artigo 1.022 do Código de Processo Civil. Os embargos de declaração não se prestam à rediscussão de matéria já decidida. 2. Embargos de declaração desprovidos, com imposição de multa de 2% (dois por cento) do valor atualizado da causa (artigo 1.026, § 2º, do Código de Processo Civil)”. (ARE 1.531.513 AgR-segundo-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 27.6.2025; grifo nosso)
+
+    Ante o exposto, nego provimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 19 de agosto de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
