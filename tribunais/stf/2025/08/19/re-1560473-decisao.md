@@ -1,0 +1,153 @@
+RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR - RPV. LEI DISTRITAL 6.618/2020. AUMENTO DO LIMITE PARA 20 (VINTE) SALÁRIOS MÍNIMOS. APLICAÇÃO IMEDIATA ÀS EXECUÇÕES EM CURSO. TEMA 792 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. DISSONÂNCIA DO ACÓRDÃO ORA RECORRIDO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO PROVIDO.
+
+    DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+    “AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. REQUISIÇÃO DE PEQUENO VALOR. RPV. EXPEDIÇÃO. LEI DISTRITAL Nº 6.618/2020. CONSTITUCIONALIDADE. TETO. 20 SALÁRIOS-MÍNIMOS. IRRETROATIVIDADE.
+
+    1. Lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação constituída em data que a anteceda (STF, Tema 792).
+
+    2. A Lei nº 6.618/2020, que autorizava a expedição de RPV com observância do limite de 20 (vinte) salários-mínimos, foi declarada inconstitucional por este TJDFT (ADI nº 0706877- 74.2022.8.07.0000.3), por vício de iniciativa do processo legislativo, sob o entendimento de que a norma violava a competência privativa do Governador do Distrito Federal para propor leis que dispunham sobre matéria orçamentária.
+
+    3. O STF, em controle difuso, por unanimidade de votos, deu provimento ao RE nº 1.491.414 para declarar a constitucionalidade da Lei Distrital nº 6.618/2020, sob a justificativa de que não se trata de lei orçamentária.
+
+    4. A Lei nº 6.618/2020, publicada em 19/6/2020, somente pode ser aplicada a situações jurídicas constituídas após o início da sua vigência, sobretudo porque não possui previsão expressa de aplicação retroativa. Precedentes desta Turma.
+
+    5. Recurso conhecido e não provido.” (Doc. 11, p. 1)
+
+    Os embargos de declaração opostos (Doc. 16) foram desprovidos (Doc. 16).
+
+    Nas razões do apelo extremo, Cláudia Maria Ribeiro Virgílio de Carvalho apresenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput, e 100, § 3º e § 4º, da Constituição da República. Sustenta que o acórdão ora recorrido aplicou indevidamente o Tema 792 da Repercussão Geral, pois o presente caso trata da aplicação da Lei Distrital 6.618/2020, que aumentou o teto da Requisição de Pequeno Valor - RPV de 10 para 20 salários-mínimos, não havendo situação jurídica constituída anteriormente que obste essa aplicação. Ressalta que o Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 1.361.600, decidiu que o Tema 792 da Repercussão Geral é inaplicável quando a lei nova aumenta o teto da RPV. Assevera que decisões subsequentes do STF confirmam a inaplicabilidade do Tema 792 a casos como o presente, que envolvem o aumento do teto da RPV. Aduz que a Lei Distrital 6.618/2020 possui natureza processual e, portanto, deve ser aplicada de forma imediata aos processos em curso, conforme a jurisprudência do STF. Pontua que o artigo 100, § 3º e § 4º, da Constituição da República permite a criação de leis próprias para o teto da RPV, e que a Lei 6.618/2020 é constitucional, certo que sua não aplicação violar o princípio da segurança jurídica. Requer, ao final, o provimento do recurso extraordinário, a fim de determinar a aplicabilidade imediata da Lei 6.618/2020 para fins de expedição de Requisição de Pequeno Valor referente ao seu crédito (Doc. 18).
+
+    O Distrito Federal apresentou contrarrazões ao recurso extraordinário (Doc. 21).
+
+    A Presidência do Tribunal de Justiça do Distrito Federal e dos Territórios proferiu juízo positivo de admissibilidade do recurso extraordinário (Doc. 24).
+
+    É o relatório. DECIDO.
+
+    O recurso merece prosperar.
+
+    A jurisprudência desta Suprema Corte se consolidou no sentido da aplicação imediata da Lei Distrital 6.618/2020 às execuções pendentes. Nesse sentido foram, à guisa de exemplo, os seguintes julgados proferidos em casos semelhantes ao presente:
+
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS EM AGRAVO INTERNO EM RECLAMAÇÃO. ALEGADA MÁ APLICAÇÃO DO TEMA 792-RG. OBSERVÂNCIA DO DECIDIDO PELA PRIMEIRA TURMA. EMBARGOS ACOLHIDOS.
+
+    1. Nos termos do art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial com a finalidade de suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material.
+
+    2. No julgamento dos agravos interpostos nas Rcls 54.470, 55.038, 55.043, 56.217, pela Primeira Turma desta Corte, prevaleceu o entendimento de que a tese fixada no Tema 792 da repercussão geral não se aplica a hipóteses onde se discutem as consequências da Lei Distrital nº 6.618/2020, que aumentou o teto para a expedição de Requisição de Pequeno Valor (RPV) para 20 (vinte) salários mínimos.
+
+    3. O princípio da colegialidade impõe a observância das decisões tomadas pela Turma, de modo que se passa a adotar o entendimento firmado no referido julgamento, embora tenha ficado vencido naquela ocasião.
+
+    4. Embargos de declaração acolhidos, com efeito modificativo, para julgar procedente a reclamação.” (Reclamação 52.551-AgR-ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 21/03/2023, destaquei)
+
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CUMPRIMENTO DE SENTENÇA. VALIDADE E APLICAÇÃO IMEDIATA DA LEI DISTRITAL N. 6.618/2020. TETO PARA A EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR. AUMENTO. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (Recurso Extraordinário 1.466.119-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 14/12/2023, destaquei)
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. LEI DISTRITAL 6.618/2020. LIMITE PARA A EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR- RPV DE 10 PARA 20 SALÁRIOS MÍNIMOS. TEMA 792 DA REPERCUSSÃO GERAL. INAPLICABILIDADE AO CASO.
+
+    I - O Supremo Tribunal Federal possui jurisprudência no sentido da legitimidade da Lei Distrital n. 6.618/2020, que aumentou o limite para a expedição da Requisição de Pequeno Valor - RPV de 10 para 20 salários mínimos. Conforme julgamento RE 1.361.600 AgRED/DF, de relatoria do Ministro Alexandre de Moraes, DJe 4/11/2022)
+
+    II - No julgamento do RE 729.107-RG, de relatoria do Min. MARCO AURÉLIO, DJe de 20/3/2015, Tema 792 da repercussão geral, discutiu-se a aplicabilidade imediata da Lei Distrital 3.624/2005, que reduziu o teto para expedição de RPV de 40 (quarenta) para 10 (dez) salários mínimos, aos processos que transitaram em julgado durante a vigência da Lei Distrital 3.178/2002, que previa o limite de 40 salários mínimos para fins de expedição de RPV, mas cujo cumprimento de sentença ocorreu já na vigência da lei nova.
+
+    III - Assim, a tese fixada no Tema 792 não se aplica à presente hipótese, na qual se discute as consequências da Lei Distrital 6.618/2020, que aumentou o teto para a expedição de Requisição de Pequeno Valor para 20 (vinte) salários mínimos.
+
+    IV - A filtragem constitucional das normas que restringem direitos (caso da norma distrital relacionada ao Tema 792-RG) se realiza com fundamento em conjunto principiológico distinto dos casos envolvendo normas que, ao oposto, expande direitos (caso da Lei Distrital aplicada nessa demanda).
+
+    V - É incompatível com os valores constitucionais a alegação de direito fundamental por parte da Administração Pública (direito adquirido), cujo intuito histórico é essencialmente proteger o administrado de interferências estatais indevidas, para criar distinções injustificáveis entre os particulares.
+
+    VI - Tal distinção se caracteriza, no presente caso, pela não observância à cronologia no pagamento das dívidas públicas, permitindo que novos credores, beneficiados pela nova legislação, recebam antes dos antigos credores, mesmo que idênticos os montantes devidos.
+
+    VII – Agravo regimental a que se nega provimento.” (Recurso Extraordinário com Agravo 1.419.769-ED-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe de 03/05/2024, destaquei)
+
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. RE 729.107-RG. TEMA 792 DA REPERCUSSÃO GERAL. INAPLICABILIDADE AO CASO DOS AUTOS. LEI DISTRITAL 6.618/2020 QUE ELEVOU DE 10 (DEZ) PARA 20 (VINTE) SALÁRIOS-MÍNIMOS O TETO DE EXPEDIÇÃO DE RPV NO ÂMBITO DO DISTRITO FEDERAL. CUMPRIMENTO DA SENTENÇA INICIADO NA VIGÊNCIA DESSA LEI SUBMETE-SE AO TETO DE 20 (VINTE) SALÁRIOS-MÍNIMOS, POIS O FATOR CRONOLÓGICO NÃO É SUFICIENTE PARA NEGAR AO CREDOR O PAGAMENTO DE RPV COM BASE NA NOVA LEGISLAÇÃO, SOB PENA DE OFENSA AO PRINCÍPIO DA IGUALDADE DOS CREDORES PERANTE O ESTADO DEVEDOR. PRECEDENTES.
+
+    1. O órgão julgador pode receber, como agravo interno, os embargos de declaração que notoriamente visam a reformar a decisão monocrática do Relator, sendo desnecessária a intimação do embargante para complementar suas razões quando o recurso, desde logo, exibir impugnação específica a todos os pontos da decisão embargada. Inteligência do art. 1.024, § 3º, do Código de Processo Civil de 2015.
+
+    2. O Tribunal de origem entendeu que a Lei Distrital 6.618/2020, que elevou de 10 (dez) para 20 (vinte) salários-mínimos o teto para expedição de RPV no âmbito do Distrito Federal, não pode ser aplicada no caso dos autos, pois a RPV deve ter como parâmetro a Lei vigente no momento em que se requer o cumprimento de sentença em face da Fazenda Pública.
+
+    3. O acórdão recorrido deu aplicação equivocada à tese fixada no Tema 792 da repercussão geral, uma vez que, considerando que o cumprimento da sentença iniciou-se na vigência da Lei 6.618/2020, esta deve ser aplicada ao caso dos autos, pois o fator cronológico não é suficiente para negar ao credor o pagamento de RPV com base na nova legislação, sob pena de ofensa ao princípio da igualdade dos credores perante o Estado devedor.
+
+    4. Quanto à alegação do recorrente no sentido de que o TJDFT declarou a inconstitucionalidade da Lei Distrital 6.618/2020 nos autos de Ação Direta de Inconstitucionalidade, não há falar em omissão, uma vez que tal matéria não foi debatida na origem. Além disso, a decisão indicada pelo embargante ainda não transitou em julgado.
+
+    5. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento.” (Recurso Extraordinário com Agravo 1.483.164-ED, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 03/06/2024, destaquei)
+
+    “Direito Constitucional e processual civil. Agravo regimental nos embargos de declaração no recurso extraordinário. Lei Distrital nº 6.618/20. Requisição de Pequeno Valor (RPV). Alteração do teto para Expedição. Aplicação Imediata. Constitucionalidade. Jurisprudência do STF. Agravo não provido.
+
+    I. Caso em exame
+
+    1. Agravo interno contra decisão que manteve a aplicação da Lei Distrital nº 6.618/20, que elevou o teto para expedição de RPV de 10 (dez) para 20 (vinte) salários mínimos.
+
+    2. O Tribunal de origem afastou a aplicação da Lei Distrital nº 6.618/2020.
+
+    3. O recorrente alega que a decisão agravada está em desacordo com a jurisprudência do STF que reconhece a validade e aplicabilidade imediata da Lei Distrital nº 6.618/20.
+
+    II. Questão em discussão
+
+    4. A questão em discussão consiste em saber se a decisão agravada está em conformidade com a jurisprudência do STF a respeito da aplicabilidade da Lei Distrital nº 6.618/20 para o cálculo do teto de RPVs.
+
+    III. Razões de decidir
+
+    5. O STF firmou entendimento sobre a validade e aplicabilidade imediata da Lei Distrital nº 6.618/20, mesmo para execuções em curso.
+
+    6. O agravo não apresenta argumentos capazes de modificar a decisão agravada, que está alinhada à jurisprudência do STF.
+
+    IV. Dispositivo
+
+    7. Agravo interno conhecido e não provido.” (Recurso Extraordinário 1.487.271-ED-AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe de 30/04/2025, destaquei)
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. APLICAÇÃO IMEDIATA DA LEI DISTRITAL Nº 6.618, DE 2020. TETO PARA A EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR (RPV). AUMENTO. POSSIBILIDADE. DISTINÇÃO EM RELAÇÃO AO TEMA RG Nº 792. PRECEDENTES.
+
+    1. A ideia subjacente à tese do Tema nº 792 do ementário da Repercussão Geral era a de evitar que nova produção legislativa sobre o limite de pagamento dos requisitórios tornasse mandatória a reorganização das listas de pagamento constituídas sob a vigência de lei anterior, certamente, geradora de insegurança jurídica nos jurisdicionados.
+
+    2. Entendeu-se, então, pela não aplicação retroativa do novel diploma distrital que, então, reduziu a margem para expedição da RPV, de 40 para 10 salários mínimos, a propósito, com fundamento na máxima do tempus regit actum.
+
+    3. Desponta como distinção marcante, entretanto, a Lei nº 6.618, de 2020, do Distrito Federal que, agora, aumentou o limite de pagamento para 20 salários mínimos.
+
+    4. É bem de ver que o Supremo Tribunal Federal, na discussão do Tema RG nº 792, não fazia qualquer restrição em relação a aumento ou redução do teto, razão por que, inclusive, dispus-me a aplicá-lo a situações como a presente, reitero, na qual se amplia o teto de pagamentos.
+
+    5. No entanto, a verve da Constituição Republicana de 1988, para além de garantir ampla gama de direitos fundamentais, busca concretizá-los de maneira igualitária, sem distinções entre os cidadãos.
+
+    6. Entendo melhor, portanto, a posição pela aplicação imediata da Lei nº nº 6.618, de 2020, do Distrito Federal, porquanto não há direito adquirido da Administração Pública, assim como é preciso equalizar as relações do Estado com os cidadãos, mormente, quando estes são credores daquele.
+
+    7. Embargos de declaração providos, para dar provimento ao recurso extraordinário, e orientar a aplicação imediata da Lei distrital nº 6.618, de 2020, e determinar a expedição do requisitório considerado o teto de 20 (vinte) salários mínimos para fins de RPV.” (Recurso Extraordinário com agravo 1412916 AgR-ED, Rel. Min. André Mendonça, Segunda Turma, DJe de 26/07/2024, destaquei)
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. LEI DISTRITAL 6.618/2020, QUE AUMENTOU O LIMITE PARA A EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR- RPV DE 10 PARA 20 SALÁRIOS MÍNIMOS. TEMA 792 DA REPERCUSSÃO GERAL. INAPLICABILIDADE AO CASO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+    I. CASO EM EXAME
+
+    1. Agravo Regimental em face de decisão monocrática, a qual deu provimento ao recurso extraordinário com agravo, determinando a aplicação da Lei Distrital 6.618/2020.
+
+    II. QUESTÃO EM DISCUSSÃO
+
+    2. Verificar a aplicabilidade, ou não, da Lei Distrital 6.618/2020, que majorou de 10 (dez) para 20 (vinte) salários mínimos o teto para expedição de RPV, às execuções em curso, independentemente da data de formação do título executivo judicial.
+
+    III. RAZÕES DE DECIDIR
+
+    3. A ultratividade da norma, que é prejudicial aos direitos fundamentais dos cidadãos e cidadãs credores do Estado, ofende os princípios constitucionais da isonomia e da cronologia para pagamento dos créditos perante a Fazenda Pública.
+
+    4. A tese fixada no Tema 792 da repercussão geral não se aplica a hipóteses onde se discutem as consequências da Lei Distrital nº 6.618/2020, que aumentou o teto para a expedição de Requisição de Pequeno Valor (RPV) para 20 (vinte) salários mínimos.
+
+    IV. DISPOSITIVO
+
+    5. Agravo regimental a que se nega provimento.” (Recurso Extraordinário com Agravo 1.458.479-ED-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 05/03/2025, destaquei)
+
+    Assevere-se, por fim, que o Plenário do Supremo Tribunal Federal, em votação unânime, julgou constitucional a Lei Distrital 6.618/2020, em acórdão que porta a seguinte ementa:
+
+    “DIREITO CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA NA ORIGEM. LEI DISTRITAL Nº 6.618/2020. INICIATIVA PARLAMENTAR. ALTERAÇÃO DA DEFINIÇÃO DE ‘OBRIGAÇÃO DE PEQUENO VALOR’. MATÉRIA ORÇAMENTÁRIA. MATÉRIA DE INICIATIVA LEGISLATIVA CONCORRENTE. MERO AUMENTO DE DESPESAS PARA A ADMINISTRAÇÃO PÚBLICA NÃO ATRAI A INICIATIVA LEGISLATIVA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. PRECEDENTE ADI 5706/RN. NECESSIDADE DE OBSERVÂNCIA ESTRITA DAS BALIZAS FIXADAS NA CONSTITUIÇÃO FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+
+    1. Ao julgamento da ADI 5706, Rel. Min. Luiz Fux, DJe 13.3.2024, esta Suprema Corte assentou a constitucionalidade da Lei nº 10.166/2017, do Estado do Rio Grande do Norte, de origem parlamentar, na parte em que alterou o valor do teto das obrigações de pequeno valor estaduais. Na oportunidade, o Plenário da Corte consignou que ‘não há reserva de iniciativa legislativa do chefe do Poder Executivo para dispor sobre a matéria, pois não se trata de lei de natureza orçamentária (arts. 84, XXIII, e 165, CRFB), tampouco de disciplina da organização ou funcionamento da administração pública (art. 61, § 1º, CRFB). As hipóteses de reserva de iniciativa legislativa não admitem interpretação extensiva, sob pena de ofensa à separação dos poderes e ao princípio democrático. O mero fato de a disciplina de determinada matéria implicar aumento de despesas para a administração pública não é suficiente para atrair a iniciativa legislativa privativa do chefe do Poder Executivo’.
+
+    2. Na hipótese dos autos, o Tribunal de Justiça do Distrito Federal e dos Territórios declarou a inconstitucionalidade da Lei Distrital nº 6.618/2020, de origem parlamentar, que estabeleceu nova definição de ‘obrigação de pequeno valor’, por entender que a norma viola a competência privativa do Governador do Distrito Federal para propor leis que disponham sobre matéria orçamentária. Tal entendimento se mostra divergente da orientação firmada neste Supremo Tribunal Federal, ao julgamento da ADI 5706.
+
+    3. Recurso extraordinário a que se dá provimento.” (Recurso Extraordinário 1.491.414, Rel. Min. Flávio Dino, DJe de 04/07/2024, destaquei)
+
+    Destarte, verifica-se que o acórdão ora recorrido está em dissonância com a jurisprudência do Supremo Tribunal Federal.
+
+    Ex positis, com fundamento no disposto no artigo 932, inciso V, do Código de Processo Civil, PROVEJO o RECURSO EXTRAORDINÁRIO para determinar a aplicação da Lei Distrital 6.618/2020 ao presente caso.
+
+    Publique-se.
+
+    Brasília, 19 de agosto de 2025
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
