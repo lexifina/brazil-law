@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por ALEXSANDRO CLEMENTE contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0001172-92.2023.8.16.0181 (fls. 477/483).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo não provimento (fls. 589/597).
+É o relatório.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) incidência da Súmula 284/STF, por deficiência na fundamentação, uma vez que o recorrente não indicou de forma clara e precisa quais dispositivos de lei federal teriam sido violados; e b) ausência de demonstração do dissídio jurisprudencial nos moldes exigidos pelos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, nen hum dos fundamentos constantes da decisão agravada.
+Com efeito, no que tange ao óbice da Súmula 284/STF, o agravante limitou-se a afirmar genericamente que teria indicado os dispositivos legais violados, sem, contudo, demonstrar em que ponto das razões do recurso especial essa indicação teria sido feita de modo a afastar a deficiência apontada na decisão de inadmissibilidade. Nesse sentido: AgInt no AREsp n. 2.150.176/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/3/2025, DJEN de 28/3/2025.
+Da mesma forma, quanto à comprovação da divergência jurisprudencial, a argumentação do agravo mostrou-se genérica. Não houve a demonstração efetiva do cumprimento dos requisitos legais e regimentais, com a transcrição dos trechos dos acórdãos que configurariam o dissídio e a realização do necessário cotejo analítico para evidenciar a similitude fática entre os casos confrontados. A mera reiteração da existência de julgados em sentido diverso não supre a exigência de ataque específico ao fundamento da decisão agravada. A propósito: AgInt no AREsp n. 2.808.012/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.068.764/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 12/9/2022.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. RECURSO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
