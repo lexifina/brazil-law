@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que deixou de admitir recurso especial interposto por VERENA MAURER THOMI e OUTROS, sob o fundamento de que incide a Súmula 280 do STF.
+A parte agravante alega que a decisão agravada não merece prosperar, porque o acórdão recorrido violou os arts. 489 e 1.022 do CPC, bem como não incide o teor do enunciado da Súmula 280 do STF.
+Foi apresentada contraminuta (fls. 640-644).
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que merece provimento quanto à apontada violação ao art. 1.022, II, do CPC.
+Quanto à omissão apontada, com razão os recorrentes.
+O Tribunal de origem, ao dar parcial provimento ao recurso de apelação interposto pelos recorrentes, assentou, em síntese, o seguinte entendimento (fl. 541):
+No que concerne ao recurso dos contribuintes, é ele provido parcialmente para condenar o vencido a restituição das custas antecipadas;
+Já em relação da verba honorária, quer a fixada na sentença, quer a decorrente da sucumbência recursal, o seu exato montante apurar-se-á na fase liquidatória, nos termos do inciso II do § 4º do art. 85 do CPC.
+Nos embargos de declaração opostos na origem, a parte recorrente apontou omissão defendendo que (fl. 555):
+Conforme mencionado acima, o v. acórdão embargado incorreu em singela omissão, no que tange ao reembolso das despesas judiciais adiantas pelas embargantes, conforme prevê o art. 82, §§1º e 2º do CPC.
+Isso porque, além das custas judiciais, os embargantes tiveram que adiantar os honorários do perito judicial, no montante homologado de R$6.800,00 (seis mil e oitocentos reais), em três parcelas mensais e sucessivas (04/2018, 05/2018 e 06/2018) (cf. fls. 122, 129 e 165). Assim, deve ser suprida a omissão apontada, com vistas à condenação da embargada também nas despesas processuais, incluídos aí os honorários periciais.
+Ao rejeitar os embargos de declaração, o Tribunal de origem assim se manifestou (fls. 568-569):
+Não há omissão, contradição ou obscuridade quando o aresto manifesta-se, mencionando os fundamentos legais de sua decisão, sobre todas as questões que lhe foram submetidas pela apelação, ainda que de forma contrária aos interesses da parte recorrente (R Esp. 988.421-MA, 4ª Turma, DJe 01/07/2009; REsp. 1.095.427-MG, 3ª Turma, DJe 01/06/2009; AgRg no REsp. 1.113.045-RS, 3ª Turma, DJe 18/06/2009; AgRg no REsp. 1.065.664- MA, 2ª Turma, DJe 01/07/2009). A alegada "contradição" não se ajusta ao que estatui o artigo 535 do CPC. Tal dispositivo trata como contradição aquela que é interna ao acórdão, uma vez que verificada entre os fundamentos do julgado e sua conclusão. Confiram-se sobre o tema os precedentes do STJ: EDcl no RMS 26.004-AM (2ª Turma, DJe 23/04/2009) EDcl no AgRg nos EDcl no REsp. 951.680-DF (5ª Turma, DJe 13/10/2008), AgRg no Ag 640.819-PR (3ª Turma, DJe 08/10/2008) e AgRg no Ag 988.216- MG (1ª Turma, DJe 03/09/2008).
+A Corte Nacional também já decidiu que o julgador não está obrigado a fundamentar como a parte deseja. Basta que adote fundamentação suficiente para decidir a controvérsia, utilizando-se dos critérios legais e jurisprudenciais que entender aplicáveis (REsp. 1.111.002-SP, 1ª Seção D Je 01/10/2009; REsp. 955352-RN, 2ª Turma, DJe 29/06/2009; REsp. 1.111175-SP, 1ª Seção, DJe 01/07/2009; EDcl no AgRg no REsp. 853.731-DF, 1ª Turma, DJe 29/06/2009) e REsp. 1.051.159-PE, 1ª Turma, DJe 29/06/2009).
+Na verdade, o que os embargantes pretendem é obter efeitos modificativos através dos declaratórios. Isso não se ajusta a nenhuma das possibilidades do artigo 1.022 do CPC.
+Como se vê, tem-se caracterizada infringência ao art. 1.022, II, do CPC.
+Ora, "conquanto o julgador não esteja obrigado a rebater, com minúcias, cada um dos argumentos deduzidos pelas partes, o Código de Processo Civil de 2015, exaltando os princípios da cooperação e do contraditório, lhe impõe o dever de enfrentar todas as questões capazes de, por si sós e em tese, infirmar as conclusões alcançadas acerca dos pedidos formulados pelas partes, sob pena de se reputar não fundamentada a decisão proferida" (REsp 1.819.062/RJ, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/2/2020, DJe de 13/2/2020).
+A princípio, os argumentos suscitados pelos recorrentes revelam-se essenciais para o correto deslinde da controvérsia, uma vez que, embora provocado a se manifestar sobre o reembolso dos honorários pagos ao perito judicial, o Tribunal recorrido não examinou as referidas teses, de modo que é natural que haja pronunciamento da origem a respeito das alegações arguidas pela parte.
+Isso posto, conheço do agravo para dar provimento ao recurso especial a fim de, anulando o acórdão que julgou os emba rgos de declaração, determinar o retorno dos autos ao Tribunal de origem para sanar concretamente todos os vícios apontados.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
