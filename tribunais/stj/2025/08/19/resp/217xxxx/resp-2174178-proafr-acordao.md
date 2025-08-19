@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO, por unanimidade, afetar o processo ao rito dos recursos repetitivos (RISTJ, art. 257-C) para delimitar a seguinte tese controvertida: "Definir se a contribuição ao Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (COFINS) incidem sobre o ICMS-DIFAL (Diferencial de Alíquotas do Imposto sobre a Circulação de Mercadorias e Serviços)" e, igualmente por unanimidade, determinar a suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (art.256-L do RISTJ), conforme proposta do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze e Sérgio Kukina votaram com o Sr. Ministro Relator.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PIS E COFINS. BASE DE CÁLCULO. ICMS-DIFAL. AFETAÇÃO.
+1. A questão jurídica que o Superior Tribunal de Justiça deve resolver é se o Diferencial de Alíquotas do ICMS (ICMS-DIFAL) deve ser incluído na base de cálculo das contribuições para Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS)
+2. Tese controvertida: definir se a contribuição ao Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (COFINS) incidem sobre o ICMS-DIFAL (Diferencial de Alíquotas do Imposto sobre a Circulação de Mercadorias e Serviços).
+3. Afetação do recurso especial como representativo da controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+RELATÓRIO
+Trata-se de recurso especial interposto por KIRATEC SERVICOS ADMINISTRATIVOS LTDA., com base nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 538):
+CONTRIBUIÇÃO AO PIS. CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). EXCLUSÃO DO ICMS-DIFAL DA BASE DE CÁLCULO. DESCABIMENTO.
+"O ICMS-DIFAL não pode ser excluído da base de cálculo do PIS/COFINS porque o seu montante, por não constituir receita bruta, nunca foi computado na base de cálculo das contribuições". (TRF4 5017653-83.2021.4.04.7100, SEGUNDA TURMA, Relator ALEXANDRE ROSSATO DA SILVA ÁVILA, juntado aos autos em 19/08/2022).
+A recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 9º, 10, 489, § 1º, IV, e 1.022, II e parágrafo único, do CPC; 110 do CTN; 2º e 3º da Lei n. 9.718/1998; 1º, §§ 1º e 2º, das Leis n. 10.637/2002 e 10.833/2003; e 12 do Decreto-Lei n. 1.598/1977.
+Alega, em resumo, a nulidade do acórdão recorrido por negativa da prestação jurisdicional, pois, apesar de provocado, o Tribunal regional não se manifestou sobre os dispositivos indicados no recurso integrativo.
+No mérito, sustenta que o ICMS-DIFAL deve ser excluído da base de cálculo da contribuição ao PIS e da COFINS, pois "na demonstração do resultado da empresa tal valor constitui um redutor da receita bruta, assim como o próprio ICMS e que, na linha do julgamento do Tema nº 69/STF, ambos apenas transitam na contabilidade, não sendo receitas próprias do contribuinte" (e-STJ fl. 623).
+Acrescenta que "a Recorrente não alega irregularidades quanto ao possível cruzamento de bases de incidência, contudo, em relação aos tributos que incidem sobre a receita bruta, busca-se o cumprimento da regra constitucional. Ora, não se pode chamar de receita do contribuinte o que de fato não o é" (e-STJ fl. 625).
+Requer, no caso de provimento do recurso, o reconhecimento do direito de compensação administrativa, com atualização pela Selic, desde o pagamento indevido.
+Contrarrazões às e- STJ fls. 654/661.
+O recurso foi admitido por meio da decisão de e-STJ fls. 678/681.
+Alçados os autos a esta Corte Superior, o Presidente da Comissão Gestora de Precedentes, Ministro Rogério Schietti Cruz, às e-STJ fls. 714/715, indicou o feito para análise preliminar de afetação para julgamento sob o rito dos recursos repetitivos. Determinou, ainda, o encaminhamento dos autos ao Ministério Público Federal e a intimação das partes para que se pronunciassem sobre a possível afetação.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso, ante a natureza constitucional do debate, e, caso ultrapassado esse óbice, opina pela admissão do recurso como representativo da controvérsia (e-STJ fls. 720/726).
+A impetrante, às e-STJ fls. 728/730, e a Fazenda Nacional, à e-STJ fl. 740, manifestaram-se pela apreciação do feito sob o rito dos recursos repetitivos.
+Na sequência, o Presidente da Comissão Gestora de Precedentes do STJ compreendeu que o presente recurso estava qualificado como candidato à afetação pelo sistema dos repetitivos, juntamente com os REsps 2.174.697/RS e 2.181.166/SP, determinando, assim, a distribuição do feito por prevenção ao REsp 2.191.532/ES (e-STJ fls. 745/752).
+  É o relatório.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PIS E COFINS. BASE DE CÁLCULO. ICMS-DIFAL. AFETAÇÃO.
+1. A questão jurídica que o Superior Tribunal de Justiça deve resolver é se o Diferencial de Alíquotas do ICMS (ICMS-DIFAL) deve ser incluído na base de cálculo das contribuições para Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS)
+2. Tese controvertida: definir se a contribuição ao Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (COFINS) incidem sobre o ICMS-DIFAL (Diferencial de Alíquotas do Imposto sobre a Circulação de Mercadorias e Serviços).
+3. Afetação do recurso especial como representativo da controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+VOTO
+De início, verifico que a questão jurídica que o Superior Tribunal de Justiça deve resolver é se o Diferencial de Alíquotas do ICMS (ICMS-DIFAL) deve ser incluído na base de cálculo das contribuições PIS e COFINS.
+No que concerne à demonstração do requisito do art. 105, III, da Constituição Federal, saliento que o caso concreto foi enfrentado pelo Tribunal de origem com o esgotamento da instância ordinária, sendo observada, assim, a exigência constitucional.
+Além disso, a temática revela-se devidamente analisada no acórdão recorrido, o que demonstra o prequestionamento dos arts. 110 do CTN; 2º e 3º da Lei n. 9.718/1998; 1º, §§ 1º e 2º, das Leis n. 10.637/2002 e 10.833/2003; e 12 do Decreto-Lei n. 1.598/1977, apontados como violados.
+O Supremo Tribunal Federal, por seu Tribunal Pleno, decidiu ser de índole infraconstitucional o presente debate, nos termos da seguinte ementa:
+Ementa: Direito Tributário. Agravo interno em recurso extraordinário com agravo. PIS e COFINS. Base de cálculo. ICMS-DIFAL. Controvérsia de índole infraconstitucional.
+I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que reformou sentença de procedência parcial do pedido.
+II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo.
+III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, o que afasta o cabimento de recurso extraordinário.
+IV. Dispositivo 5. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 6. Agravo interno a que se nega provimento.
+(ARE 1525261 AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, julgado em 17-02-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20-02-2025 PUBLIC 21-02-2025)
+Quanto à multiplicidade de demandas que envolvem a controvérsia, constato , no caso, por meio de pesquisa na base de jurisprudência do STJ, a existência de multiplicidade de recursos especiais e agravos já julgados pelos órgãos fracionários da Primeira Seção (9 acórdãos e 271 decisões monocráticas, encontrados com o uso dos termos "PIS" "COFINS" e "ICMS-DIFAL"), o que evidencia a abrangência do tema.
+Ponderados esses elementos, ante a relevância do tema, o atendimento dos requisitos de admissibilidade e a ausência de anterior submissão da questão ao regime dos repetitivos, INDICO O PRESENTE RECURSO ESPECIAL COMO REPRESENTATIVO DA CONTROVÉRSIA, conjuntamente com os REsps 2.181.166/SP e 2.191.532/ES, nos termos do art. 1.036, §§ 5º e 6º, do CPC/2015, c/c o art. 256- E, II, do RISTJ, a fim de que a questão seja dirimida pela Primeira Seção do STJ.
+Determino, para tanto, a adoção das seguintes providências:
+a) delimitação da seguinte tese controvertida: definir se a contribuição ao Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (COFINS) incidem sobre o ICMS-DIFAL (Diferencial de Alíquotas do Imposto sobre a Circulação de Mercadorias e Serviços);
+b) suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (art. 256-L do RISTJ);
+c) comunicação, com cópia da decisão colegiada de afetação, aos demais Ministros desta Corte Superior, ao NUGEPNAC e aos Presidentes dos Tribunais Regionais Federais;
+d) vista dos autos ao Ministério Público Federal para parecer, pelo prazo de 15 dias, nos termos do art. 1.038, III, § 1º, do CPC/2015, c/c o art. 256-M do RISTJ.
+Após, voltem-me os autos conclusos para oportuna inclusão em pauta.
+É como voto.
