@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por ALMIR JOSE DOS SANTOS contra decisão da Presidência desta Corte que indeferiu o pedido liminar, solicitou informações ao Tribunal de origem e ao Juízo de primeiro grau e determinou o encaminhamento dos autos ao Ministério Público Federal.
+Em suas razões, sustenta a defesa que "nos termos da Súmula 439 deste STJ, a fundamentação para exigência de exame criminológico e/ou relatório psicológico se pautou em reincidência, faltas disciplinares durante a execução a pena (1 falta grave em 2012 e 1 falta média em 2022), pena longa a cumprir e gravidade abstrata do crime, não se mostra apta a afastar o Relatório Qualificado de Acompanhamento da Pena com parecer favorável e boletim informativo e atestado de comportamento carcerário que demonstram bom comportamento" (e-STJ fl. 73).
+Alega que "Esta Corte possui entendimento pacificado que destacar elementos abstratos, como crimes perpetrados e previsão do término da pena, se tratam de elementos que não podem ser mais avaliados na fase de execução, porquanto já sopesados pelo legislador, ao tipificar o crime e sua pena, e pelo julgador, ao fixar o quantum da reprimenda. Os fatores relacionados ao crime praticado não justificam tratamento diferenciado para a progressão de regime, de modo que o exame criminológico somente pode fundar-se em fatos ocorridos no curso da própria execução penal." (e-STJ fl. 73).
+Ao final, requer "seja conhecido o presente pedido, para conceder a medida liminar requerida neste habeas corpus determinando a cassação das decisões de origem e determinar que o Juízo das Execuções Criminais julgue o pedido de progressão de regime, dispensando o exame criminológico e/ou relatório psicológico" (e-STJ fl. 74).
+É o relatório. Decido.
+De início, destaca-se que: Os pedidos de reconsideração carecem de qualquer respaldo no regramento processual vigente. Eles não constituem recursos, em sentido estrito, nem mesmo meios de impugnação atípicos. Por isso, não suspendem prazos e tampouco impedem a preclusão (STF. Segunda Turma. Rcl n. 43007 AgR/DF, Relator Ministro RICARDO LEWANDOWSKI, julgado em 9/2/2021 - Informativo de Jurisprudência n. 1005).
+Na hipótese, não obstante o notável esforço da zelosa defesa e a relevância dos argumentos trazidos à lume neste pedido, não é possível acolher o pleito aqui formulado.
+Isso porque, como é de conhecimento, a concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal, o que não se amolda ao caso dos autos.
+De fato, conforme consignado na decisão impugnada, "o acórdão impugnado não se revela teratológico, o que, de todo modo, poderá ser mais bem avaliado por ocasião do julgamento definitivo do writ." (e-STJ fl. 65 ).
+Assim, em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Ante o exposto, indefiro o pedido de reconsideração.
+Aguarde-se o encaminhamento das informações solicitadas e a manifestação do órgão ministerial.
+Intimem-se.
+EMENTA
