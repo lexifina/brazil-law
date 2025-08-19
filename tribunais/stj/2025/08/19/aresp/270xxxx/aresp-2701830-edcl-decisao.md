@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos em face de decisão que homologou a desistência do Mandado de Segurança e extinguiu o feito sem exame de mérito, nos termos do art. 485, VIII, do CPC/2015 (fls. 950-951).
+O embargante alega, às fls. 960-961, a ocorrência de erro material, sustentando:
+A decisão ora embargada, homologou a desistência do Mandado de Segurança e extinguiu o feito sem exame de mérito em relação à empresa Engie Brasil Energia S/A e Filiais, levando em consideração a petição de e-STJ Fls. 931/945.
+Contudo, ao determinar a conclusão dos autos "para análise do agravo interno da parte remanescente", a r. decisão contém erro material, porquanto não há agravo interno interposto por Usina Termelétrica Pampa Sul S/A - parte remanescente - pendente de apreciação.
+Analisando-se o andamento processual no e. STJ, observa-se que a r. decisão monocrática e-STJ fl. 903-904 não conheceu do agravo de Engie Brasil Energia S/A e Filiais e Outras. Do agravo interno e-STJ fl. 910-914, datado de 22/01/2025, único recurso interposto contra a decisão monocrática, consta o que segue:
+"ENGIE BRASIL ENERGIA S. A E SUAS FILIAIS ("AGRAVANTES"), já qualificadas nos autos em epígrafe, vêm, respeitosamente, à presença de V. Ex.ª, por seu procurador, interpor AGRAVO INTERNO contra decisão que negou provimento ao Agravo em Recurso Especial, nos termos do art. 1.021, do CPC, com base nas razões anexas."
+O pedido de desistência e-STJ fl. 931-933, ao destacar que "a discussão segue com relação à Impetrante USINA TERMELETRICA PAMPA SUL AS", desconsidera a preclusão da r. decisão monocrática do e. Ministro Relator que não conheceu do agravo em recurso especial, a qual não foi objeto de agravo interno por Usina Termelétrica Pampa Sul S/A.
+Destaque-se não se ter notícia de que, à época da interposição do agravo interno, Usina Termelétrica Pampa Sul S/A fosse filial da agravante. Desse modo, ao homologar a desistência do mandado de segurança formulado por Engie Brasil Energia S/A e suas Filiais, com a extinção do feito sem exame do mérito, há de ser certificado o trânsito em julgado, pois inexistente agravo interposto por Usina Termelétrica Pampa Sul S/A.
+Em sua impugnação, a parte contrária alega que o vício apontado não merece ser acolhido, alegando o seguinte (fls. 965-968): "ocorre que, da decisão monocrática que deixou de prover o Recurso Especial, foi interposto Agravo Interno pelas Recorrentes, com o erro formal de digitação, que fez constar "ENGIE BRASIL ENERGIA S. A E SUAS FILIAIS", ao invés de OUTRAS, como vinha constando até então. Sobre esse erro de digitação, o Embargante pretende o acolhimento de seus aclaratórios, o que se revela descabido e desproporcional".
+É o relatório. Decido.
+Assiste razão ao embargante, merecendo, no ponto, reparo a decisão.
+De fato, da leitura atenta das razões do agravo interno interposto (fls. 910-915), verifica-se que o recurso fora interposto apenas por "ENGIE BRASIL ENERGIA S.A E SUAS FILIAIS ("AGRAVANTES"), o que demonstra a ocorrência do erro material apontado.
+De outro lado, não prospera a alegação da empresa embargada de "erro formal de digitação", porquanto o erro ocorreu por ato do próprio da parte, autor e beneficiário do suposto erro de digitação, incidindo o principio nemo auditur propriam turpitudinem allegans (ninguém pode se beneficiar da própria torpeza), assim, o equívoco não pode ser avocado de acordo com a conveniência.
+Assim, não havendo recurso de agravo interno remanescente, não há necessidade de retorno dos autos à essa relatoria.
+Ante o exposto, acolho os embargos de declaração apenas para excluir, da decisão embargada, o seguinte trecho: "Após, voltem-me os autos conclusos para análise do agravo interno da parte remanescente".
+Transcorrido o prazo recursal quanto à decisão de fls. 950-951, certifique-se o trânsito em julgado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO PEDIDO DE DESISTÊNCIA NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIO CONFIGURADO. EMBARGOS ACOLHIDOS PARA SANAR ERRO MATERIAL, SEM EFEITOS INFRINGENTES.
