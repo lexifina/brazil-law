@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de NATANAEL AZEVEDO, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, na Revisão Criminal n. 2360622-98.2024.8.26.0000, não comporta conhecimento.
+Alega o impetrante que o paciente teria sido indevidamente considerado reincidente pelo Tribunal de origem, quando da fixação do regime inicial de cumprimento da pena, sustentando que não haveria condenação anterior transitada em julgado que pudesse fundamentar a agravante. Afirma que os delitos objeto da ação penal foram praticados a partir de 2010, e que inexiste condenação criminal definitiva anterior a esse período. Sustenta, ainda, que mesmo havendo delitos posteriores com trânsito em julgado no curso do processo, tal circunstância não autorizaria o reconhecimento da reincidência.
+Requer a concessão da ordem para liminarmente cassar o v. acordão recorrido, quanto ao reconhecimento da reincidência e restaurar a R. Sentença, tão somente, para fixar o regime inicial semiaberto (fl. 7).
+Ocorre que os autos estão deficientemente instruídos. Não há cópia do acórdão apontado como ato coator, proferido na revisão criminal mencionada na inicial. A ausência da documentação essencial à compreensão da pretensão deduzida constitui vício insanável que obsta o conhecimento da impetração, porquanto impede a adequada análise do mérito da questão constitucional suscitada. Não se pode presumir a existência de constrangimento ilegal sem a devida demonstração do ato supostamente coator, máxime quando se trata de decisão colegiada proferida em sede de revisão criminal.
+Afora isso, consta nas informações constantes às fls. 134/135, que houve a interposição de recurso especial na origem, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+Em outras palavras, a interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa (AgRg no RHC n. 162.232/RS, Ministro João Otávio de Noronha, Quinta Turma, DJe 13/5/2022).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME LICITATÓRIO. INSTRUÇÃO DEFICIENTE. IMPETRAÇÃO CONCOMITANTE À INTERPOSIÇÃO DE RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. INOBSERVÂNCIA.
+Writ não conhecido.
