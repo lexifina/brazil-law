@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BENEDITO MARTINS GUIMARÃES FILHO contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ e na ausência de ofensa aos arts. 927, IV, e 1.022, I e II, do CPC (fls. 515-518).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o recurso não merece seguimento por ausência de prequestionamento e por impossibilidade de reexame de fatos e provas (fls. 537-542).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios em apelação nos autos de ação de cobrança de seguro prestamista.
+O julgado foi assim ementado (fl. 406):
+CIVIL. CONTRATOS. SEGURO PRESTAMISTA. INDENIZAÇÃO SECURITÁRIA. ACIDENTE. ANTERIOR. VIGÊNCIA DO CONTRATO. PERÍCIA. CONHECIMENTO DA INCAPACIDADE. INCREMENTO DO RISCO. OMISSÃO. INEXITIDÃO. INFORMAÇÕES PRESTADAS. REGULARIDADE DE RECUSA DA COBERTURA.
+1. O seguro prestamista é modalidade de contrato que visa à garantia de pagamento e quitação de empréstimos ou financiamentos em razão da ocorrência eventos adversos, previamente definidos no ajuste, que impeçam o adimplemento das obrigações financeiras assumidas.
+2. O sinistro que justificou o pedido de indenização securitária é anterior à celebração do contrato de seguro prestamista, cujos termos excluem, expressamente, a cobertura no caso de doenças ou acidentes preexistentes à contratação.
+3. O evento adverso que redundou no posterior reconhecimento de aposentadoria por invalidez do segurado decorre de acidente muito anterior à assinatura do seguro prestamista, sinistro que era de prévio conhecimento do segurado como fato agravador (artigo 766 do Código Civil), servindo as balizas contratuais do seguro prestamista para alcançar apenas os eventos ocorridos na sua vigência.
+4. Apelação conhecida e desprovida.
+Os embargos de declaração opostos foram decididos nesses termos (fls. 461-463):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO. AUSÊNCIA DE OBSCURIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS. I. Caso em exame 1. Embargos de declaração objetivando esclarecer obscuridade e sanar omissão. II. Questão em discussão 2. Análise se o comando decisório foi obscuro ou omisso quanto aos fundamentos expostos no recurso interposto. III. Razões de decidir 3. A via dos embargos de declaração destina-se a corrigir falha do comando judicial que comprometa seu entendimento, quando decorrente de contradição, omissão, obscuridade ou correção de erro material. 4. A falta de ocorrência do vício apontado demonstra que o interesse do embargante é o de rediscutir a matéria já enfrentada pelo Colegiado quando do julgamento do recurso de apelação, providência incompatível com a oposição dos embargos de declaração. 5. Ausente vício catalogado pelo art. 1.022, do CPC, o caso não se amolda à previsão legal, o que torna imprópria a via recursal manejada para o fim desejado. IV. Dispositivo 6. Embargos de declaração conhecidos e desprovidos.
+No recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 927, IV, do CPC, pois o Tribunal de origem não observou o que dispõem as Súmulas n. 278 e 609 do STJ, alegando que o seguro contratado prevê expressamente cobertura por invalidez permanente, não se tratando de seguro contra acidente onde a data do sinistro é o fato gerador da obrigação; e
+b) 1.022, I e II, do CPC, porquanto o órgão julgador não teria sanado os vícios apontados, ficando caracterizada a deficiência na prestação jurisdicional.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo o direito do consumidor à execução do contrato e aos danos materiais e morais em razão da falha na prestação de serviços.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece seguimento por ausência de prequestionamento e por impossibilidade de reexame de fatos e provas (fls. 502-509).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de cobrança de seguro prestamista em que a parte autora pleiteou a quitação das parcelas do financiamento imobiliário e a reparação por danos morais. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos iniciais deduzidos em face da instituição bancária ré. A Corte distrital manteve a sentença.
+I - Art. 1.022, I e II, do CPC
+No recurso especial, a parte recorrente alega que o Tribunal "manteve-se silente a respeito de tema essencial à resolução da demanda judicial" (fl. 491).
+Verifica-se que a parte recorrente, no recurso especial, não se desincumbiu de demonstrar, de forma concreta e específica, em que se consistiu a omissão do acórdão recorrido, o que atrai a aplicação, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia".
+II - Art. 927, IV, do CPC
+O Tribunal de origem manteve a sentença que indeferiu o pagamento da indenização securitária com fundamento na existência de cláusula contratual expressa que exclui a cobertura de doenças ou de acidentes preexistentes à contratação, bem como no fornecimento de informações inexatas pelo segurado no momento da contratação do seguro, pois omitiu o acidente ocorrido em 1995 que justificou a posterior concessão de aposentadoria por invalidez.
+Entretanto, a parte recorrente não impugnou os fundamentos específicos do acórdão recorrido, o que atrai a incidência da Súmula n. 283 do STF.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
