@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por UNIMED EXTREMO OESTE CATARINENSE COOPERATIVA DE TRABALHO MEDICO contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial (fl. 750).
+A embargante sustenta que a decisão embargada não enfrentou a tese de que o STJ pode determinar o retorno dos autos ao Tribunal de origem, conforme o Tema 1.069/STJ. Alega que há documento médico nos autos, datado de 2024, que reconhece o caráter estético das cirurgias pleiteadas, e que tal prova não foi analisada pelo Tribunal de Justiça de Santa Catarina, o que acarreta cerceamento de defesa (fls. 754-755).
+Requer a reforma da decisão embargada.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há omissão na decisão embargada porquanto o Tribunal de origem consignou expressamente a natureza reparadora das cirurgias, decorrente da perda de peso extrema após cirurgia bariátrica:
+A Agravada, à época com 31 anos, realizou a cirurgia bariátrica em 2018, vindo a perder 44 kgs após 1 (um) ano, tornando-se estável e no momento próprio para proceder com as cirurgias reparadoras conforme as consequências da rápida redução de peso corporal. (Fl. 532.)
+O médico assistente especialista em cirurgia plástica, Dr. Lucas Bezerra Moura (CRM/SP 142.082), fez constar em seu relatório (evento 1, DOCUMENTACAO9): Ao exame físico, apresentou grande quantidade de flacidez cutânea em braços, coxas, abdome e ptose mamária. Nota-se ainda, quadro de dermatite em sulco mamário, em virtude do atrito do excesso de pele. Devido a grande perda ponderal, apresenta-se com manifestações clínicas: - Lipodistrofia (CID E88.1), Síndrome de Redistribuição da Gordura - Sequelas da hiper alimentação (CID E68) - Dermatite Esfoliativa (CID L26) - Transtorno da mama não especificado (CID N64.8) - Diástase do músculo reto-abdominal (CID M62-0). Por fim, constata-se presença de flacidez cutânea em braços, coxas, abdome e presença de áreas de atrito localizadas em sulco mamário, mamas com ptose grau III. Dessa forma, faz necessário procedimentos cirúrgicos complementares, de modo a retirar o excesso de pele e tratar a lipodistrofia presentes em diferentes áreas do corpo. Noutro ponto, a psicóloga Juliana Oliveira (CRP 06/114469) concluiu na avaliação psicológica da Agravada que "a examinada necessita da continuidade de seu tratamento da Obesidade, as suas sobras excessivas de peles, tem causado danos emocionais e psicológicos podendo classificá-lo em Transtorno misto ansioso é depressivo (CID 10 F41,2) deverá manter acompanhamento Psicológico e também realizar de cirurgias reparadoras com objetivo da melhora em sua saúde psicológica em caráter de urgência" (evento 1, DOCUMENTACAO11).
+ ..
+Por toda essa contextualização, torna-se imperiosa a manutenção da sentença que deu provimento aos pedidos exordiais, afastando-se qualquer dúvida inerente à essência reparadora das cirurgias. (Fl. 535.)
+Não há lacuna ou incerteza no acórdão recorrido, que reconheceu o caráter reparador das cirurgias. Portanto, não há falar em necessidade de devolução dos autos à origem para nova análise à luz do Tema Repetitivo 1.069/STJ.
+Do mesmo modo, não há omissão quanto ao pedido de retorno dos autos à origem para realização de novas provas ou análise de documentos omitidos.
+O alegado cerceamento de defesa foi mencionado de maneira passageira no recurso especial, sem que a embargante estabelecesse qual o dispositivo de lei federal que considera violado para sustentar sua irresignação a respeito.
+Ademais, a existência de documento que atestaria a natureza estética das intervenções não foi prequestionada, nem tampouco foi objeto de embargos de declaração na origem, ficando inviabilizada sua análise.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
