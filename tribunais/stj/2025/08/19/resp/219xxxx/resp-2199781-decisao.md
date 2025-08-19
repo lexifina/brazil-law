@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo de NORBERTO ULMANN FILHO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido na Correição Parcial n. 5160263-08.2023.8.21.7000/RS.
+Consta dos autos que, após o julgamento da correição parcial que determinou a quebra dos sigilos telefônico e bancário do agravante, a defesa interpôs recurso extraordinário, que teve seu seguimento negado pelo Tribunal de origem (fls. 180/184). Eis a ementa:
+RECURSO EXTRAORDINÁRIO. HOMICÍDIO. CORREIÇÃO PARCIAL. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. REPERCUSSÃO GERAL. TEMA 339 DO STF. PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. OFENSA REFLEXA. TEMA 660 DO STF. NEGADO SEGUIMENTO AO RECURSO.
+O agravo interno foi desprovido para manter a decisão de inadmissibilidade do recurso extraordinário (fls. 76). O acórdão ficou assim ementado:
+AGRAVO INTERNO. JUÍZO DE ADMISSIBILIDADE. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TEMAS 339 E 660 DO STF. RECURSO DESPROVIDO.
+Os embargos de declaração opostos pela defesa foram rejeitados (fl. 261).
+Em sede de segundo recurso especial (fls. 273/311), a defesa apontou violação ao art. 1.021, § 3º, do Código de Processo Civil, uma vez que o Tribunal de origem reproduziu os fundamentos da decisão agravada para julgar improcedente o agravo interno, sem analisar a questão impugnativa processual existente. A defesa alegou que o acórdão do agravo interno basicamente reproduziu o decisório do recurso extraordinário através de pronunciamento padrão, com afirmação genérica, desprezando por completo a necessária análise concreta do recurso presente.
+Requer a cassação da decisão de inadmissibilidade do recurso extraordinário.
+Contrarrazões do Ministério Público do Estado do Rio Grande do Sul (fls. 317/323).
+O recurso especial foi inadmitido no Tribunal de origem em razão de: a) ausência de prequestionamento (Súmulas n. 282 e 356 do STF); e b) fundamentação deficiente (Súmula n. 284 do STF) (fls. 328/331).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 337/363).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do agravo em recurso especial (fls. 384/391).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a suposta violação ao art. 1.021, § 3º, do CPC, importante dizer que o Tribunal de origem manteve a decisão de inadmissibilidade do recurso extraordinário em sede de agravo interno, tendo sido opostos embargos de declaração pela defesa que alegou que "a fundamentação do decisório não se harmonizou com as razões recursais, já que não enfrentou os essenciais temas trazidos pelo recorrente, os quais seriam capazes de reformar o decisum." (fl. 245)
+Apesar disso, não há no acórdão do agravo interno menção expressa ao artigo 1.021, § 3º, do CPC, e nem análise ou debate acerca da questão jurídica pertinente, que poderia caracterizar o prequestionamento implícito.
+Conforme estabelecido pela jurisprudência do Superior Tribunal de Justiça, é condição sine qua non para que se conheça do recurso especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como malferidos ou ao menos a questão federal tenha sido enfrentada, o que não ocorreu na hipótese. Para que ocorra o chamado prequestionamento implícito é desnecessário que os dispositivos legais tidos por violados constem expressamente do acórdão recorrido, sendo suficiente que a questão federal tenha sido enfrentada pelo Tribunal. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS LEGAIS NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF E N. 211 DO STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA. AGRAVO
+REGIMENTAL NÃO PROVIDO.1. A ausência de enfrentamento, pelo acórdão recorrido, das teses relativas à dosimetria da pena, sem a oposição de embargos de declaração para suscitar a omissão, atrai a incidência das Súmulas n. 282 e 356 do STF, bem como da Súmula n. 211 do STJ.2. A alegação de prequestionamento implícito não se sustenta quando não demonstrada a efetiva apreciação da matéria impugnada pelo Tribunal de origem.3. Mantém-se a decisão agravada que reconheceu a prescrição da pretensão punitiva, diante do lapso temporal decorrido entre o recebimento da denúncia e o julgamento, em conformidade com os arts. 107, IV, e 109, IV, do Código Penal.4.
+Inexistência de fundamentos hábeis a infirmar os termos da decisão agravada.5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.808.259/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.)
+Ressalte-se que, ainda que a pretensa violação de lei federal tenha surgido na prolação do acórdão que julgou o agravo interno, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão. Na hipótese, embora tenham sido opostos embargos declaratórios, estes limitaram-se a alegar contradição e omissão de forma genérica, sem fazer referência específica ao dispositivo do Código de Processo Civil ora invocado ou sobre sua determinação.
+Ausente o prequestionamento do referido dispositivo legal, o recurso especial não poderia ser admitido, devendo ser mantida a decisão agravada, conforme Súmulas n. 282 e 356 do STF.
+Outrossim, verifica-se que a alegação de violação ao art. 1.021, § 3º, do CPC não foi adequadamente fundamentada nas razões do recurso especial, atraindo a incidência da Súmula n. 284 do STF. A defesa limitou-se a fazer alegação genérica sobre reprodução de fundamentos, sem demonstrar de forma clara e específica em que consistiria a violação ao dispositivo legal invocado. No mesmo sentido, citam-se precedentes desta Corte (grifos nossos):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEIS ESTADUAIS NS. 4.819/58 E 10.177/98 E LEI COMPLEMENTAR ESTADUAL N. 200/74. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+IV - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no AREsp n. 1.177.277/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/4/2018, DJe de 25/4/2018.)
+DIREITO EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA. ESSENCIALIDADE DE BENS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que manteve a suspensão do leilão extrajudicial de imóveis dados em garantia fiduciária durante o "stay period" em processo de recuperação judicial, considerando os bens essenciais para a continuidade das operações da empresa recuperanda.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional e se, durante o "stay period", é possível a realização de leilão de imóveis dados em garantia fiduciária considerados essenciais para a atividade empresarial da recuperanda.
+III. Razões de decidir
+3. Alegação de violação do art. 1.022 do CPC, sem a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo. Súmula 284 do STF.
+4. A jurisprudência do STJ estabelece que, durante o "stay period", os bens essenciais alienados fiduciariamente devem permanecer com o devedor, sem consolidação da propriedade fiduciária em favor do credor. Após o término do "stay period", a consolidação da propriedade poderá ocorrer normalmente. Incidência da Súmula 83/STJ.
+5. Compete ao juízo da recuperação judicial decidir acerca da essencialidade dos bens para fins de aplicação da ressalva prevista na parte final do § 3º do art. 49 da Lei 11.101/2005, ainda que se trate de créditos garantidos por alienação fiduciária.
+IV. Dispositivo e tese
+6. Recurso desprovido.
+(REsp n. 1.932.453/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/6/2025, DJEN de 1/7/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
