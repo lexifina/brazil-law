@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de recurso especial, interposto pelo MARLENE STAFY RUIZ, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 950, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E NULIDADE CONTRATUAL - CARTÃO DE CRÉDITO CONSIGNADO - VÍCIO DE CONSENTIMENTO - DECADÊNCIA - APLICAÇÃO DO ART. 178 DO CÓDIGO CIVIL - EXTINÇÃO DA AÇÃO - SENTENÇA MANTIDA.
+- O prazo de decadência para pleitear a anulação do negócio jurídico é de quatro anos, conforme disposto no art. 178, II do Código Civil.
+- A alegação de vício de consentimento em relação à contratação de cartão de crédito consignado, sem anuência do autor, não se configura como hipótese que possibilite a renovação do prazo decadencial.
+Nas razões de recurso especial (fls. 571/600, e-STJ), a parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 27 do Código de Defesa do Consumidor (CDC), 166, 169 e 178, inciso II, do Código Civil.
+Sustenta, em síntese: a) a inaplicabilidade da decadência ao caso concreto, uma vez que se trata de relação de consumo e obrigação de trato sucessivo, onde o prazo decadencial se renova a cada desconto realizado; b) a nulidade do contrato de cartão de crédito consignado, firmado sob vício de consentimento, que não se sujeita ao prazo decadencial, conforme entendimento consolidado pela jurisprudência do Superior Tribunal de Justiça; c) a necessidade de conversão do contrato de cartão de crédito consignado para empréstimo consignado comum, devido à onerosidade excessiva imposta ao consumidor.
+Contrarrazões às fls. 674-679, e-STJ.
+Decisão do Tribunal de origem admitindo o recurso (fls. 683-685, e-STJ), os autos ascenderam a esta E. Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação merece acolhimento.
+1. Discute-se, de início, o termo a quo do prazo de prescrição para propositura de ação que visa declaração de nulidade de contrato de cartão de crédito consignado, com a repetição do indébito e a indenização dos danos morais sofridos.
+A Corte local assim decidiu a questão (fls. 564-565, e-STJ):
+Analisando as razões recursais, tenho que controvérsia a ser dirimida diz respeito à alegação da apelante sobre a inaplicabilidade da decadência no caso concreto.
+No que tange ao tema em questão, é pertinente mencionar o que dispõe o artigo 178, II do Código Civil:
+(..)
+Ao examinar os fundamentos que instruíram a petição inicial, extrai-se que pleito da autora versa sobre a declaração de nulidade do contrato relativo ao cartão de crédito, mediante ao argumento de que o requerente nunca pretendeu anuir tal modalidade (ordem n. 1 fl.4). Vejamos:
+"A intenção da consumidora de contratar um cartão de crédito consignável jamais existiu, e o Requerido, seja por omissão ou má-fé, deixou de fornecer informações cruciais sobre a constituição da reserva de margem consignável (RMC), incluindo o percentual a ser averbado. Dessa forma, se a Requerente almejava contratar um empréstimo consignado comum e não foi devidamente informada sobre a contratação do referido cartão, a contratação nunca ocorreu. O Requerido agiu, portanto, de forma fraudulenta, formalizando um empréstimo distinto da oferta original ou do solicitado pela consumidora, especificamente o empréstimo consignado."
+Portanto, a presente ação aborda a existência do contrato, ou seja, a validade de sua formulação inicial, e não se refere à revisão de cláusulas contratuais. À vista disso, considerando que a parte requerente sustenta a ocorrência de vício de consentimento em relação à contratação, tal situação não se adequa aos casos que possibilitam a renovação mensal do prazo decadencial, bem como aos casos de trato sucessivo.
+Verifica-se que o contrato, objeto da lide, foi formalizado em 2011, conforme documento à ordem 34, e a ação foi ajuizada somente em janeiro de 2024. Assim, torna-se mister reconhecer a decadência do direito pleiteado pelo autor, conforme o disposto no artigo 178, II do Código Civil.
+De acordo com a jurisprudência desta E. Corte, porém, o prazo prescricional para a ação que busca a repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, tem seu início na data em que ocorreu a lesão ou pagamento, ou seja, o último desconto.
+Nesse sentido, confira-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL. INDENIZAÇÃO POR DANOS MORAIS. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA IRRISÓRIO. SÚMULA N. 7 DO STJ. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+2. A jurisprudência desta Corte Superior é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC.
+3. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.878.724/AL, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/6/2025, DJEN de 24/6/2025.)
+CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. TERMO INICIAL. ÚLTIMO DESCONTO. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante o entendimento desta Corte, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, o prazo prescricional é o quinquenal previsto no art. 27 do CDC, cujo termo inicial da contagem é a data em que ocorreu a lesão ou pagamento, ou seja, o último desconto. Incidência da Súmula nº 568 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.844.878/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. TESE DO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REPETIÇÃO DE INDÉBITO. EMPRÉSTIMO CONSIGNADO. PRAZO PRESCRICIONAL. TERMO INICIAL. ART. 27 DO CDC. SÚMULA N. 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A simples afirmação da parte, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. Ademais, "1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC.
+2. O termo inicial do prazo prescricional da pretensão de repetição do indébito relativo a desconto de benefício previdenciário é a data do último desconto indevido" (AgInt no AREsp n. 1.720.909/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/10/2020, DJe 24/11/2020).
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.754.150/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/2/2021, DJe de 12/2/2021.)
+Com efeito, estando a posição adotada pelo Tribunal de origem em dissonância com o entendimento desta Corte Superior acerca da matéria, merece acolhimento o recurso especial para reconhecer a inocorrência de prescrição no caso concreto, uma vez que, desde a data do último desconto indevido até a propositura da ação, não houve o transcurso do prazo quinquenal estabelecido no art. 27 do CDC.
+2. Do exposto, com fulcro no art. 932 do CPC c/c Súmula 568 do STJ, dou provimento ao recurso especial, a fim afastar a ocorrência da prescrição, nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
+EMENTA
