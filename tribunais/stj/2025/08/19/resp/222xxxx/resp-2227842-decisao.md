@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por OLAVO AGUIAR PAIVA FILHO, BOI BOM COMERCIO DE ANIMAIS LTDA. e JOSÉ LUIZ SOARES DE MENDONÇA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fls. 226-228):
+RECURSOS DE APELAÇÕES CÍVEIS - AÇÃO DE REPARAÇÃO DE DANOS POR ATO ILÍCITO - PROCEDÊNCIA - PRELIMINARES - INTEMPESTIVIDADE DOS RECURSOS - FALTA DE INTERESSE DE AGIR PELA INADEQUAÇÃO DA VIA ELEITA - ILEGITIMIDADE PASSIVA - REJEIÇÃO - MÉRITO - EMPRESA ORGANIZADORA DE LEILÕES - PROPRIETÁRIOS - APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR - FORNECEDORES DOS SERVIÇOS - RESPONSABILIDADE SOLIDÁRIA - ARTIGO 18 DO CÓDIGO DE DEFESA DO CONSUMIDOR - FALHA NA PRESTAÇÃO DO SERVIÇO - ARTIGO 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR - APROPRIAÇÃO DOS VALORES RECEBIDOS NA VENDA - SEMOVENTES - ARTIGO 22 DO DECRETO Nº 21.981/32 - DANOS MATERIAIS DEVIDOS - LUCRO CESSANTES - LIQUIDAÇÃO DE SENTENÇA - DANOS MORAIS - CONFIGURADOS - QUANTUM MANTIDO - RECURSOS DESPROVIDOS.
+Se o recurso de apelação for protocolado no prazo legal, não há que se falar em sua intempestividade.
+Deve ser rejeitada a preliminar de falta de interesse de agir pela inadequação da via eleita se da ação ajuizada restar demonstrado que a adequação da via processual escolhida é plenamente cabível para a situação apresentada na inicial, somado aos documentos acostados aos autos.
+Em se tratando de empresa de leilão, aplica-se Código de Defesa do Consumidor por falha na prestação de serviços. Em aplicando o Código de Defesa do Consumidor, tanto a empresa organizadora do leilão como os proprietários são responsáveis solidariamente pela reparação dos danos causados ao consumidor por defeitos relativos à prestação dos serviços, conforme dispõe o artigo 18 do CDC, assim, a empresa de leilão e seus sócios também são solidários para figurar no polo passivo da demanda indenizatória, logo, não havendo que falar em ilegitimidade deste ou daquele sócio.
+Nos termos do art. 14 do CDC, o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços.
+A empresa responsável pela venda em leilão e seus proprietários, devem responder pelos danos decorrentes de sua negligência, por inobservância à obrigação que lhe é imposta pelo artigo 22 do Decreto nº 21.981/32.
+No caso, resta inquestionável que as condutas dos três demandados - empresa e ambos os sócios, ao apropriarem-se indevidamente dos valores do gado leiloado - causaram prejuízos materiais e moral ao autor, ensejando, à parte requerida, o dever de reparar, conforme prescreve o artigo 927 do Código Civil de 2002.
+O dano material deve corresponder ao valor total das transações efetivadas pela venda em leilão dos lotes de rebanhos bovinos pertencentes ao demandante, deduzido do valor atualizado apenas o percentual da comissão do leiloeiro.
+Havendo provas que o não recebimento dos valores da venda em leilão dos semoventes ensejou déficit real e efetivo no patrimônio do demandante, pertinente o pedido de indenização por lucros cessantes referente aos rendimentos da evolução de eras do rebanho, cujos valores deverão ser apurados em liquidação de sentença.
+Evidenciado a falha do serviço prestado pela empresa de leilão e de seus sócios, os quais apropriaram ineditamente dos valores do leilão, resta caracterizado o dever de indenizar por danos morais. Inteligência do artigo 6º do CDC.
+Se na fixação do quantum da indenização pelo dano moral causado, o julgador o fez atendendo aos critérios de razoabilidade e proporcionalidade, não há razão para redução.-
+Embargos de declaração acolhidos (fl. 748):
+EMBARGOS DE DECLARAÇÃO  ACÓRDÃO PROFERIDO EM RECURSO DE APELAÇÃO CÍVEL  AÇÃO DE INDENIZAÇÃO  OMISSÃO E OBSCURIDADE  OCORRÊNCIA  VICIO SANADO - SEM ALTERAÇÃO DO JULGADO  LUCROS CESSANTES - RENDIMENTOS DA EVOLUÇÃO DE ERAS DO REBANHO - LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO  ARTIGOS 509 E 510, AMBOS DO CPC/15 - EMBARGOS ACOLHIDOS. Devem ser acolhidos os embargos de declaração para sanar os vícios de omissão e obscuridade, ainda que o julgado não seja alterado. O procedimento mais adequado para encontrar os rendimentos da evolução de eras do rebanho, à título de lucros cessantes, deve ser feita por liquidação da sentença por arbitramento, nos termos do artigo 509 e 510, ambos do CPC/15.
+No recurso especial (fls. 801-810), alega violação dos arts. 402, 403, 186, 927 e 944 do Código Civil e 373 do CPC.
+Foram oferecidas contrarrazões ao recurso especial (fls. 882-886).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 887-890), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 912-925).
+Por meio da decisão de fls. 940-942, o Ministro Paulo de Tarso Sanseverino determinou o retorno dos autos à origem, para possível juízo de retratação - desconformidade do acórdão recorrido com o entendimento do Superior Tribunal de Justiça, manifestado nos recursos paradigmas (Temas 99 e 112).
+Novo juízo de admissibilidade negativo na instância de origem (fls. 1.003-1.013), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.032-1.037).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, verifico que as razões veiculadas pela parte agravante mostram-se relevantes, razão pela qual o presente agravo deve ser convertido em recurso especial, a fim de possibilitar um melhor exame da controvérsia.
+Ante o exposto, dou provimento ao agravo para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO POR DANOS. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS E LUCROS CESSANTES. AGRAVO CONHECIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
