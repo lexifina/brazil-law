@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 503):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE DECISÃO HOMOLOGATÓRIA DE TRANSAÇÃO FIRMADA NA EXECUÇÃO DE TÍTULO EXTRAJUDICIAL, LASTREADA EM CÉDULAS DE CRÉDITO BANCÁRIO. Decisão que rejeitou os imóveis indicados à constrição pelos devedores e deferiu a penhora portas adentro da residência de um dos coexecutados. Inconformismo dos devedores. Acolhimento. Documentos apresentados indicam que as cédulas de crédito bancário, objeto da execução, foram previamente garantidas pelos imóveis indicados à penhora, cuja avaliação, à primeira vista, se mostrou suficiente para a satisfação da dívida. Observância do disposto no artigo 835, §3º, do CPC. Incabível a ampliação das medidas constritivas antes da liquidação dos bens dados (e livremente aceitos) em garantia fiduciária. Decisão reformada, para afastar a ordem de penhora portas adentro na residência do coexecutado. Decisão reformada. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 519-522).
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 489, § 1º, inciso IV; 835, § 3º; 935 e 1022 do Código de Processo Civil de 2015, além de divergência jurisprudencial.
+Sustenta que o acórdão recorrido é omisso e desprovido de fundamentos.
+Afirma que o julgamento do agravo de instrumento é nulo, porquanto foi julgado em pauta virtual a despeito do requerimento expresso de designação de sessão presencial para o julgamento.
+Argumenta que o credor não pode ser compelido a aceitar a penhora de imóveis alienados fiduciariamente quanto tais bens são objeto de constrição por outros credores em execuções distintas.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+Ademais, verifico que o recurso não dispensa o reexame de prova.
+Consoante consta do acórdão recorrido, as cédulas de crédito bancário objeto da execução tinham como garantia os imóveis que, por fim, foram indicados à penhora, o que atrai a incidência do § 3º do art. 835 do Código de Processo Civil:
+Na execução de crédito com garantia real, a penhora recairá sobre a coisa dada em garantia, e, se a coisa pertencer a terceiro garantidor, este também será intimado da penhora.
+Por esse motivo, o Tribunal de origem reformou a decisão de primeiro grau que, rejeitando a indicação dos imóveis à penhora, determinou penhora "portas adentro" para que . O Colegiado entendeu que o preço dos imóveis eram suficientes para a satisfação do crédito, de modo que se mostrava "injustificada e prematura" (fl. 510) a ampliação das medidas constritivas. Confira-se, sobre isso, o seguinte trecho do acórdão recorrido (fl. 507, grifei):
+Conforme laudo pericial devidamente homologado pelo MM. Juízo a quo, referidos imóveis, matriculados sob os nºs 19.681 e 19.683, foram avaliados em R$26.900.000,00 cada um (fls. 131/153, 154/157 e 159), perfazendo um total de R$53.800.000,00, em novembro de 2017.
+No momento da indicação dos bens à penhora, os recorridos apresentaram a avaliação dos imóveis, a qual, atualizada com base na Tabela do Tribunal de Justiça, atingia o valor total de R$70.991.214,01 em setembro de 2022 (fls. 215/220).
+Frise-se, em 09/08/2023, o MM. Juízo da execução determinou a nova avaliação dos referidos imóveis, dado o longo lapso temporal decorrido da última avaliação em 2017 (fl. 2723 do processo nº 1077632-91.2014.8.26.0100).
+De outro lado, o valor da dívida expressamente declarado pelo exequente neste cumprimento de sentença (CCBS 7622 e 15953) é de R$27.248.292,56, conforme última planilha de débito apresentada a fl. 799 dos autos de origem.
+(..)
+Ainda que considerados os valores dos débitos expressamente indicados pelos credores, infere-se que os imóveis matriculados sob os nºs 19.681 e 19.683 têm avaliação total aproximada de R$70.991.214,01 (em setembro de 2022), montante que, ao menos a priori, supera (com folga) o total cobrado no cumprimento de sentença e na execução de título extrajudicial.
+Nesse contexto, não há como admitir, em recurso especial, que os imóveis eram insuficientes para a garantia do juízo. Aplica-se a Súmula 7/STJ.
+Também não dispensa o reexame de prova rever o entendimento do Tribunal de origem de que a parte ora agravante não apontou qual o prejuízo decorrente do julgamento virtual.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
