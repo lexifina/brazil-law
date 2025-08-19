@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o ora recorrido foi condenado pela prática do crime de roubo, sendo certo que, em grau recursal, o Tribunal de origem afastou a majorante do emprego de arma de fogo, ao argumento de que esta não foi apreendida e periciada.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, o recorrente alega violação ao artigo 157, § 2º-A, I, do Código Penal, bem como aos artigos 155, 158, 167 e 564, III, b, todos do Código de Processo Penal.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo provimento do recurso especial.
+É o relatório. DECIDO.
+Em conformidade com o entendimento pacífico desta Corte Superior, a apreensão e a posterior perícia da arma de fogo utilizada na prática do roubo não são imprescindíveis para a incidência da majorante prevista no artigo 157, § 2º-A, I, do Código Penal, especialmente quando há outros elementos probatórios nos autos, como os relatos das vítimas e de testemunhas, que demonstram de forma clara o emprego da arma durante a ação criminosa.
+Nessa linha, em posicionamento reafirmado em duas oportunidades, " a  3ª. Seção desta Corte, por ocasião do julgamento do ER Esp. 961.863/RS, julgado em 13.12.2010, Relator para acórdão o ilustre Ministro GILSON DIPP, pacificou o entendimento de que a impossibilidade de apreensão e consequente perícia da arma de fogo utilizada no delito de roubo não afasta a configuração da causa especial de aumento de pena, mormente quando existentes outras provas que revelam sua efetiva utilização durante a prática da conduta criminosa." (ER Esp n. 1.111.500/MG, relator Ministro Napoleão Nunes Maia Filho, Terceira Seção, julgado em 11/5/2011, D Je de 30/5/2011.)
+Dito isso, conforme se depreende do próprio acórdão hostilizado (e-STJ Fls. 28/42), a vítima narrou em seu depoimento em juízo que os réus utilizaram arma de fogo para cometimento do crime.
+ ..  Contudo, deve ser afastada a causa de aumento do emprego de arma de fogo. No caso em comento, em que pese existir a grave ameaça caracterizadora do roubo, a causa de aumento acima referida não foi efetivamente demonstrada. De fato, analisando a prova produzida nos autos, apesar da vítima ter narrado que os roubadores utilizaram uma arma de fogo no cometimento do crime, constata-se que não houve apreensão da arma, não sendo possível sua submissão a perícia para verificação de sua potencialidade lesiva, razão pela qual a referida majorante deve ser afastada.
+Ante o exposto, dou provimento ao recurso especial, para restabelecer a incidência da majorante pelo uso de arma de fogo, na forma fixada pela sentença do juízo de primeira instância.
+Publique-se. Intimem-se.
+EMENTA
