@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ERLAN ASSUNÇÃO FERREIRA se insurgira, com fundamento no art. 105, inciso III, alíneas a, b e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fls. 1.452/1.453):
+RECURSO DE APELAÇÃO - AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO C/C RESTABELECIMENTO DE APOSENTADORIA C/C INDENIZAÇÃO POR DANOS MORAIS - POLICIAL MILITAR (CABO) - RESERVA REMUNERADA - PROCESSO ADMINISTRATIVO - CONSELHO DE DISCIPLINA - DEMISSÃO - CASSAÇÃO DA APOSENTADORIA - CONSECTÁRIO LÓGICO - RUPTURA DO VÍNCULO COM A ADMINISTRAÇÃO PÚBLICA - LEGALIDADE - SISTEMA CONTRIBUITIVO - AUSÊNCIA DE DIREITO ADQUIRIDO - RECURSO DESPROVIDO.
+1 - Conforme entendimento jurisprudencial, a cassação da aposentadoria configura consectário lógico decorrente da pena administrativa imposta. Isso porque, ao excluir o autor/apelante das fileiras, faz-se a ruptura do seu vínculo com a Administração Pública, ainda que na reserva remunerada, posto que deixa de atender aos requisitos do cargo.
+2 - Quanto à alegação de direito adquirido, "o sistema contributivo em nada veda a aplicação da penalidade, pois o servidor, antes aposentado, agora revertido e demitido, poderá buscar a aposentadoria no Regime Geral, obviamente sem os benefícios que tinha jus como servidor público, por conta da penalidade aplicada. Nesse sentido, dentre muitos: REsp n. 1.771.637/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 4/12/2018, D Je 4/2/2019; RMS n. 50.717/SP, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/5/2018, D Je 13/6/2018; AgInt no REsp n. 1.628.455/ES, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/3/2018, D Je 12/3/2018" (STJ, Segunda Turma, AgInt no RMS 54740/SP, relator Ministro Francisco Falcão, publicado no Diário da Justiça Eletrônico em 24 de setembro de 2019).
+3 - Diante da ausência de ilegalidade do ato questionado, não há que se falar em condenação por danos morais.
+Os embargos de declaração opostos foram rejeitados (fls. 1.494/1.506).
+A parte recorrente alega:
+(i) violação ao art. 1.022 do Código de Processo Civil (CPC), porquanto o Tribunal de origem teria se omitido em manifestar-se sobre questão suscitada pelo recorrente, mantendo o acórdão omisso mesmo após a oposição dos embargos de declaração para suprir apontada omissão;
+(ii) contrariedade ao art. 6º, §§ 1º e 2º, da LINDB, pela alínea a, pois a cassação da aposentadoria fere ato jurídico perfeito e direito adquirido, uma vez que não há previsão expressa na Lei Complementar 555/2014 (Estatuto dos Militares do Estado de Mato Grosso) para a hipótese de cassação da aposentadoria em caso de demissão;
+(iii) afronta ao art. 6º, §§ 1º e 2º, da LINDB, pela alínea b, ao argumento de que o acórdão recorrido julgou ato de governo local válido em desacordo com a lei mencionada;
+(iv) divergência jurisprudencial entre o acórdão recorrido e outros tribunais pátrios em casos similares, ao interpretar de forma diversa o art. 6º, §§ 1º e 2º, da LINDB quanto à proteção do ato jurídico perfeito e direito adquirido.
+Requer o provimento do recurso
+A parte adversa apresentou contrarrazões (fls. 1.661/1.667).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de ação anulatória de ato administrativo cominada com o restabelecimento de aposentadoria e indenização por danos morais ajuizada pela parte ora recorrente visando anular ato que cassou sua aposentadoria após demissão das fileiras da Polícia Militar. A controvérsia gira em torno da possibilidade de cassação da aposentadoria de policial militar inativo como decorrência da demissão, especialmente diante da ausência de previsão expressa na legislação estadual e da alegação de violação a ato jurídico perfeito e direito adquirido.
+A parte recorrente opôs embargos de declaração na origem com o argumento de que há omissão na decisão recorrida, porquanto a legislação estadual não prevê a possibilidade de cassação de aposentadoria.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO decidiu o seguinte (fl. 1.500):
+Anoto que não há no acórdão o vício apontado. A alegação de omissão, no v. acórdão, é despropositada e mera irresignação na tentativa de reapreciação da matéria já julgada. Não se pode considerar o acórdão omisso, por ter adotado entendimento diverso do pretendido pelo embargante.
+No acórdão recorrido consignei que a cassação da aposentadoria configura consectário lógico decorrente da pena administrativa imposta. Isso porque, ao excluir o embargante das fileiras, faz-se a ruptura do seu vínculo com a Administração Pública, ainda que na reserva remunerada, posto que deixa de atender aos requisitos do cargo, conforme jurisprudências colacionadas na decisão embargada.
+O Tribunal de origem entendeu que não houve omissão, pois apreciou expressamente a controvérsia sobre a possibilidade de cassação da aposentadoria, fundamentando que tal medida constitui consectário lógico da pena de demissão, já que a exclusão das fileiras rompe o vínculo com a administração pública e afasta o atendimento aos requisitos do cargo.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto à alegação de violação do art. 6º, §§ 1º e 2º, da LINDB, o entendimento consolidado desta Corte é de que esse dispositivo possui natureza eminentemente constitucional, uma vez que o ato jurídico perfeito, o direito adquirido e a coisa julgada constituem garantias fundamentais previstas no art. 5º, inciso XXXVI, da Constituição Federal.
+Dessa forma, a análise de alegada ofensa ao art. 6º da LINDB usurpa a competência do Supremo Tribunal Federal (STF).
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CREDENCIAMENTO DE DESPACHANTE. DIREITO LÍQUIDO E CERTO. INEXISTÊNCIA. INSCRIÇÃO NO CONSELHO REGIONAL. NÃO COMPROVAÇÃO. DIREITO ADQUIRIDO. ART. 6º DA LINDB. NORMA DE CARÁTER EMINENTEMENTE CONSTITUCIONAL. NÃO CABIMENTO DE RECURSO ESPECIAL. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA N. 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. A parte recorrente deixou de impugnar os fundamentos atinentes à ausência de direito líquido e certo e de comprovação de inscrição no conselho profissional; cada qual suficiente, por si só, para dar suporte à conclusão do Tribunal de origem. Incidência da Súmula n. 283/STF.
+2. O art. 6º da LINDB possui conteúdo de caráter eminentemente constitucional, nos termos do art. 5º, XXXVI, da Constituição Federal, não sendo cabível o recurso especial para a análise da alegação de ofensa a dispositivo constitucional. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.157.914/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 14/5/2025, DJEN de 20/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. ART. 207 DO CÓDIGO CIVIL. ARGUMENTAÇÃO DEFICIÊNTE. SÚMULA 284/STF. ART. 6º DA LINDB. CONTEÚDO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. VIOLAÇÃO DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECADÊNCIA PARA IMPETRAÇÃO DO MANDADO DE SEGURANÇA. REVISÃO. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO PREJUDICADO.
+ ..
+4. A jurisprudência do STJ tem firme posicionamento no sentido de que é inviável o conhecimento do recurso especial por violação do artigo 6º da LINDB, porque os princípios contidos no dispositivo mencionado (direito adquirido, ato jurídico perfeito e coisa julgada), apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional. Precedentes.
+5. Rever a conclusão a que chegou o Tribunal de origem quanto à não ocorrência de violação da coisa julgada demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+ ..
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.461.191/AM, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+A alegação da parte recorrente de que o ato de cassação de sua aposentadoria é ilegal, por não haver previsão na Lei Complementar estadual 555/2014, não pode ser analisada em recurso especial, uma vez que, nos termos do art. 105, inciso III, da Constituição Federal, compete ao Superior Tribunal de Justiça apreciar apenas questões relacionadas à violação de lei federal.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Confira-se:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+ ..
+3. A análise das teses apresentadas depende do exame de legislação local, o que não é viável no âmbito do recurso especial, nos termos da Súmula 280 do STJ (Leis Complementares Municipais n. 01/2012 e 02/2000).
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.092.887/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
