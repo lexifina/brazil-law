@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Marli Cordeiro Delfino contra decisão assim ementada (fl. 593)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PARCELA CONTROVERTIDA. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. PRECEDENTES. DISSÍDIO. EXAME PREJUDICADO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO POVIDO.
+A parte embargante sustenta que o acórdão contém vício de omissão, aos seguintes argumentos: (a) "há omissão quanto a análise do item ""D"" constante no relatório, qual seja: ""(d) caso não acolhida a tese de aplicação dos Temas 475 e 476 do STJ no presente caso, deve se reconhecer que o valor abatido a título de seguro desemprego nos atrasados é apenas o valor efetivamente recebido, não sendo correta a supressão da competência de forma integral""; (b) refere que houve a afetação do Tema 1.207/STJ, o qual se refere exatamente ao questionamento trazido no recurso especial; (c) a questão também pode ser inserida no Tema 1.013/STJ e (d) ausente análise da existência ou não de bis in idem nos honorários fixados na execução sobre a diferença entre o cálculo homologado e o apresentado pelo INSS, inserindo-se a verba honorária do processo de conhecimento.
+Sem impugnação.
+É o relatório.
+Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Ocorre que a decisão embargada foi clara ao decidir o recurso especial, inclusive nos termos de julgados que menciona. Logo, evidencia-se que a tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Acerca da alegação de omissão do acórdão recorrido em se manifestar sobre a tese de que o valor abatido a título de seguro desemprego nos atrasados é apenas o valor efetivamente recebido, não sendo correta a supressão da competência de forma integral, verifica-se que a decisão embargada assim consignou (fls. 594-595):
+As razões de recurso especial apresentadas pelo segurado apontaram a tese de impossibilidade de compensação entre o seguro desemprego e o auxílio doença, por não ter sido discutida no processo de conhecimento, enfatizando que se a compensação se baseia em fato que já era passível de ser invocado no processo cognitivo, haveria coisa julgada.
+No entanto, como indicado no acórdão recorrido e respectivo acórdão integrativo, a proibição de pagamento cumulativo do seguro desemprego com o auxílio doença é estabelecida por meio de lei específica, mais precisamente no art. 124, parágrafo único, da Lei 8.213/91, o que dispensa pronunciamento explícito no título judicial formado.
+A propósito assim constou da fundamentação (fls. e-STJ, 502-504):
+No caso, o título executivo não mencionou o recebimento do seguro desemprego, por não ter sido trazido na petição inicial, nem sua forma de compensação na apuração dos atrasados.
+Nesse cenário, aplica-se a lei de regência ao caso concreto: a legislação previdenciária.
+De fato, o artigo 124, parágrafo único, da Lei n. 8.213/1991, textualmente estabelece (g. n.):
+"Art. 124. Salvo no caso de direito adquirido, não é permitido o recebimento conjunto dos seguintes benefícios da Previdência Social: (..) Parágrafo único. É vedado o recebimento conjunto do seguro-desemprego com qualquer benefício de prestação continuada da Previdência Social, exceto pensão por morte ou auxílio-acidente."
+Da leitura do dispositivo, conclui-se pela impossibilidade de recebimento concomitante do seguro desemprego com qualquer benefício previdenciário.
+Na hipótese, essa norma (proibitiva) nem foi sequer debatida; logo, não pode ser desrespeitada na execução do julgado que concede prestação de benefício inacumulável.
+Afinal, coisa julgada material é a qualidade de imutabilidade que se agrega à decisão da lide, tal como retratada na petição inicial, para situação deduzida em Juízo.
+E o "processo civil será ordenado, disciplinado e interpretado conforme os valores e as normas fundamentais estabelecidos na Constituição da República Federativa do Brasil, observando-se as disposições deste Código", entre elas a da coisa julgada.
+No caso, a parte autora recebeu seguro desemprego em período abrangido pelo título executivo, devendo tal período ser excluído do cálculo de liquidação.  ..
+Assim, no caso, inviável o pagamento da aposentadoria por invalidez cumulativamente com o seguro desemprego, ou seja, nas mesmas competências em que recebeu este último.
+Mantida, portanto, a exclusão do período em que a parte autora recebeu seguro desemprego na apuração dos atrasados do benefício por incapacidade. (Grifei).
+Desse modo, restou bem elucidado que a exclusão da aposentadoria por invalidez no cálculo de liquidação deve ocorrer com relação às mesmas competências em que recebeu seguro desemprego, sendo mantida "a exclusão do período em que a parte autora recebeu seguro desemprego na apuração dos atrasados do benefício por incapacidade".
+Assim, não se evidencia a alegada omissão, pois esclarecida a impossibilidade de pagamento cumulativo da aposentadoria por invalidez com o seguro desemprego, tanto que aplicado o óbice da Súmula 284/STF, ante a constatação de que a tese de vulneração ao artigo 124, parágrafo único da Lei n. 8.213/1991 se mostra dissociada da fundamentação do acórdão.
+No que se refere aos Temas 1.013 e 1.207/STJ, inexiste similitude fática e jurídica entre as teses firmadas e a questão sub judice, de modo que não é caso de acolher-se a alegada violação aos entendimentos firmados em sede de repetitivos.
+Por fim, esclareça-se que os pontos relevantes acerca da questão dos honorários foram fundamentadamente analisados, in verbis:
+No tocante à tese de vulneração aos artigos 85, caput, §1º; §3º, I; §4º, I e III; e §6º; 508 e 509, §4º do CPC/2015, ao argumento de que a base de cálculo do percentual dos honorários advocatícios deveria ser definida seguindo-se o valor total da condenação ou proveito econômico, a Corte de Origem assim se posicionou:
+Como se sabe, em relação aos honorários advocatícios, vigora o princípio da causalidade, segundo o qual referida verba deve ser suportada pela parte que ensejou a instauração da demanda.
+Não por outro motivo, entendo justificado o pedido da autarquia, de modificação da base de cálculo dos honorários de sucumbência, devendo referida verba incidir sobre o quantum ela sucumbiu, qual seja, sobre a diferença entre o valor devido e aquele apurado pelo executado, excetuada a parte relativa aos honorários advocatícios, para que não ocorra bis in idem.
+Afinal, por derivar do título exequendo, os honorários advocatícios na execução deverão ser apurados somente sobre a parte resistida pelo executado, sob pena de malferir o princípio da causalidade.
+Ainda mais na demanda em análise, em que houve o cumprimento voluntário de parte da obrigação (execução invertida).
+Esse é o sentido das disposições contidas no artigo 1º-D, da Lei n. 9.494/1997, com redação dada pela Medida Provisória 2.180-35/2001, cuja constitucionalidade declarou a Suprema Corte (RE 420816), e do artigo 85, parágrafo 7º, do CPC.
+Nesse contexto, foi necessário refazer os cálculos, os quais, em homenagem ao princípio da celeridade processual, integraram a decisão que apreciou o efeito deste recurso.
+Fixo, portanto, a condenação no total de R$ 6.074,19, atualizado para setembro de 2019, assim distribuído: R$ 5.174,93 - crédito da parte autora - e R$899,26 - honorários advocatícios.
+Por ter havido a sucumbência mínima da parte autora - valor mais próximo-, é de rigor manter a condenação do INSS ao pagamento dos honorários de sucumbência.
+Fica mantido o percentual fixado na decisão agravada (10%), porém, deverá incidir na diferença entre o valor aqui fixado e aquele pretendido pela autarquia, excetuada a parte relativa aos honorários advocatícios, para que não ocorra bis in idem. (grifei).
+Assim, o entendimento da Corte a quo se coaduna com o desta Corte, segundo a qual a verba honorária deve ser arbitrada com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída a parcela incontroversa.
+Deste modo, diante da apreciação das questões relevantes acerca da verba honorária, evidencia-se que a pretensão é de rediscutir matéria satisfatoriamente decidida no julgado embargado, o que não se admite nesta via.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
