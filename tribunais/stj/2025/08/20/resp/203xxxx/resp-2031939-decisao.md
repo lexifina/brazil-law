@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 1.157):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. AÇÃO DE CUMPRIMENTO DE SENTENÇA. AÇÃO DECLARATÓRIA DE NULIDADE DE CÉDULAS RURAIS HIPOTECÁRIAS E PIGNORATÍCIAS CUMULADA COM PEDIDO DE INDENIZAÇÃO POR PERDAS E DANOS. PRELIMINARES NÃO ACOLHIDAS. VASSOURA DE BRUXA. DECLARAÇÃO DE INCOMPETÊNCIA ABSOLUTA DO JUÍZO A QUO SOB O ARGUMENTO DE HAVER INTERESSE DA UNIÃO. IMPOSSIBILIDADE . ALONGAMENTO DE DIVIDA RURAL CONTRAIDA NO BANCO DO BRASIL. AUSENCIA DE INTERESSE DA UNIAO. PRECEDENTES DO STJ. CONSEQUENTE COMPETENCIA DA JUSTIÇA ESTADUAL PARA PROCESSAR E JULGAR O FEITO. RECURSO CONHECIDO E DESPROVIDO. 1. O Agravante ingressou com o presente recurso visando cassar a decisão de primeiro grau que acolheu, em parte, a impugnação do cumprimento de sentença, determinando o prosseguimento da execução. 2. Na situação em escopo, o Banco do Brasil S/A sustentou que a Justiça Estadual é incompetente para processar e julgar o presente feito, haja vista que a União e o BNDES teriam interesse no desenvolvimento do processamento da dívida. 3. Entretanto referido alongamento da dívida dispensa a manifestação de interesse da União e do BNDES para tanto, conforme entendimento consolidado pelo colendo Superior Tribunal de Justiça. 4. Portanto, não logrando êxito o argumento de que a União deveria, necessariamente, compor o pólo passivo do litígio, esvai, de igual forma, o argumento de incompetência absoluta do juízo, conforme entendimento pacificado por esta Corte. 5. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 1.193-1.197).
+Em suas razões (fls. 1.201-1.220), a parte recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, II, e § 1º, IV e V, e 1.022, II, parágrafo único, II, do CPC, pelas seguintes omissões (fls. 1.208-1.209):
+(i) a ausência da análise dos argumentos quanto ao interesse jurídico da União e a incompetência absoluta do juízo, trazendo a consequente nulidade absoluta insanável pela ausência de citação da União no processo;
+(ii) que os créditos em questão foram cedidos à União por força da MP 2.196/2001, já que três documentos de confissão de dívida firmados entre o Agravante e a União, abrangendo as cédulas originárias, demonstram a titularidade da União dos créditos emprestados;
+(iii) expor os fundamentos que demonstrem que o precedente invocado no r. Acórdão se assemelharia com o caso discutido nos autos;
+(iv) a ausência de controvérsia a respeito da questão que gerou o erro de fato, visto que os Recorridos confirmam que a responsabilidade pela elaboração do projeto tecnológico era da CEPLAC, não do Banco.
+(ii) art. 113 do CPC/1973, segundo o qual a "nulidade absoluta, a qual pode ser reconhecida de ofício pelo magistrado, em qualquer tempo e grau de jurisdição, inclusive após o trânsito em julgado" (fl. 1.213).
+Contrarrazões apresentadas (fls. 1.238-1.254).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Em relação à questão da competência, o Tribunal de origem afirmou que "a incompetência do juízo foi matéria suscitada em todas as fases do processo, sendo a mesma apreciada e devidamente afastada em todas elas. Na situação em escopo, o Banco do Brasil S/A sustentou que a Justiça Estadual é incompetente para processar e julgar o presente feito, haja vista que a União e o BNDES teriam interesse no desenvolvimento do processamento da dívida. Entretanto referido alongamento da dívida dispensa a manifestação de interesse da União e do BNDES para tanto, conforme entendimento consolidado pelo colendo Superior Tribunal de Justiça:  .. . Portanto, não logrando êxito o argumento de que a União deveria, necessariamente, compor o pólo passivo do litígio, esvai, de igual forma, o argumento de incompetência absoluta do juízo, conforme entendimento pacificado por esta Córte" (fls. 1.159-1.160 - grifei).
+Contudo, "de acordo com a jurisprudência do STJ, estando em curso a lide, inexiste preclusão pro judicato para apreciação de competência absoluta" (AgInt no AREsp n. 1.554.131/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/4/2022, DJe de 27/4/2022). Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INCOMPETÊNCIA ABSOLUTA. TEMA Nº 1.166/STF. VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. INCOMPETÊNCIA ABSOLUTA. PRINCÍPIO DA VEDAÇÃO DE DECISÃO SURPRESA NÃO VIOLADO. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF.
+ ..
+2. A competência absoluta definida pela Constituição Federal é insuscetível de preclusão e prescinde de prequestionamento, não só pode como deve ser reconhecida de ofício, em qualquer tempo e grau de jurisdição.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.019.364/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+Assim, no presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja, "os créditos em questão foram cedidos à União por força da MP 2.196/2001, já que três documentos de confissão de dívida firmados entre o Agravante e a União, abrangendo as cédulas originárias, demonstram a titularidade da União dos créditos emprestados" (fl. 1.209).
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+ EMENTA
