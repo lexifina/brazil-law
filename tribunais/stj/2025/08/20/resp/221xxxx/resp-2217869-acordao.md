@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. LEGITIMIDADE DO ADQUIRENTE DO IMÓVEL PARA PLEITEAR INDENIZAÇÃO. NEGATIVA DE SEGUIMENTO PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO NO TEMA N. 1.004 DO STJ. AUSÊNCIA DE QUESTÃO AUTÔNOMA OU RESIDUAL. RECURSO NÃO CONHECIDO.
+1. O Tribunal de Origem negou seguimento à controvérsia relativa à sub-rogação do adquirente do imóvel nos direitos do proprietário original, quanto à indenização por desapropriação indireta, com fundamento no entendimento firmado pelo STJ no Tema n. 1.004.
+2. Todas as teses apresentadas no recurso especial gravitam em torno da mesma controvérsia jurídica  o direito do adquirente do imóvel à indenização por desapropriação indireta  , já enfrentada pelo Tribunal de Origem com base no entendimento firmado no Tema n. 1.004 do STJ, razão pela qual não subsiste questão autônoma ou residual a ser apreciada por esta Corte.
+3. Recurso não conhecido.
+RELATÓRIO
+Trata-se de Recurso Especial interposto por JOACIR FILIPPI, com base nas alíneas a e c do permissivo constitucional, em que se impugna acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (fls. 215-224), assim ementado:
+Desapropriação indireta. Implantação de rodovia estadual. SC-283. Deinfra. Inexistência do direito pretendido. Peculiaridades do caso concreto. Aquisição do imóvel após o apossamento administrativo. Proibição do enriquecimento ilícito. Precedentes do STJ. Recurso desprovido. Pedido julgado improcedente (art. 487, I, NCPC). Fixação de honorários advocatícios. Para que o atual proprietário do bem tivesse direito ao valor da indenização, pela desapropriação indireta, seria necessário que demonstrasse nos autos que o adquiriu pelo seu preço antes da desvalorização advinda do apossamento administrativo. (STJ, rel. Min. Herman Benjamin)
+Em suas razões recursais, expostas às fls. 229-249, a parte recorrente alega:
+1) ofensa aos arts. 1.227, 1.228, 1.231 e 1.245 do Código Civil, ao fundamento de que o acórdão recorrido presumiu que os recorrentes teriam considerado o ato expropriatório ao celebrarem a aquisição do imóvel com o antigo proprietário, atribuindo a este último o direito de pleitear eventual indenização pela parcela do terreno atingida pelo apossamento administrativo realizado pela autarquia estadual. Ressaltam, ainda, que o simples conhecimento da existência de uma rodovia não implica, por si só, renúncia ao direito de indenização;
+2) houve negativa de vigência aos artigos 15-A, §4º, e 31 do Decreto-Lei n. 3.365/41, uma vez que os recorrentes, ao sucederem o antigo proprietário, sub-rogaram-se nos direitos decorrentes da propriedade, inclusive o de postular indenização pela ocupação perpetrada pela autarquia estadual;
+3) dissídio jurisprudencial quanto à legitimidade do adquirente do imóvel para pleitear reparação por desapropriação indireta, independentemente de qualquer convenção expressa com o antigo proprietário e ainda que a aquisição do imóvel tenha se dado em data posterior ao apossamento pelo poder público.
+Contrarrazões ao recurso especial às fls. 309-318.
+O recurso especial foi inadmitido às fls. 332-334, razão pela qual foi interposto Agravo às fls. 360-382.
+Contrarrazões ao agravo às fls. 392-398.
+A eminente Ministra Assuste Magalhães proferiu decisão às fls. 428-432, na qual conheceu do agravo para negar provimento ao recurso especial, que foi agravada às fls. 436-440.
+Por meio da decisão de fls. 483-485, a eminente Ministra Assuste Magalhães determinou a devolução dos autos ao Tribunal de Origem, em razão da afetação do Tema n. 1.004, relativo à "análise acerca da sub-rogação do adquirente de imóvel em todos os direitos do proprietário original, inclusive quanto à eventual indenização devida pelo Estado, ainda que a alienação do bem tenha ocorrido após o apossamento administrativo".
+Na decisão de fls. 536-537, o 2º Vice-Presidente negou seguimento ao recurso no que tange à matéria relativa ao Tema n. 1.004 do Superior Tribunal de Justiça, determinando a remessa dos autos a esta Corte Superior quanto às demais teses recursais.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. LEGITIMIDADE DO ADQUIRENTE DO IMÓVEL PARA PLEITEAR INDENIZAÇÃO. NEGATIVA DE SEGUIMENTO PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO NO TEMA N. 1.004 DO STJ. AUSÊNCIA DE QUESTÃO AUTÔNOMA OU RESIDUAL. RECURSO NÃO CONHECIDO.
+1. O Tribunal de Origem negou seguimento à controvérsia relativa à sub-rogação do adquirente do imóvel nos direitos do proprietário original, quanto à indenização por desapropriação indireta, com fundamento no entendimento firmado pelo STJ no Tema n. 1.004.
+2. Todas as teses apresentadas no recurso especial gravitam em torno da mesma controvérsia jurídica  o direito do adquirente do imóvel à indenização por desapropriação indireta  , já enfrentada pelo Tribunal de Origem com base no entendimento firmado no Tema n. 1.004 do STJ, razão pela qual não subsiste questão autônoma ou residual a ser apreciada por esta Corte.
+3. Recurso não conhecido.
+VOTO
+Conforme relatado, a controvérsia relativa à sub-rogação do adquirente do imóvel em todos os direitos do proprietário original  inclusive no que se refere à eventual indenização devida pelo Estado, ainda que a alienação do bem tenha ocorrido após o apossamento administrativo  teve seguimento negado pelo Tribunal de Origem, em razão da aplicação do Tema n. 1.004 do Superior Tribunal de Justiça. O recurso especial foi admitido apenas quanto às demais teses recursais.
+Todavia, observa-se que todas as teses suscitadas no recurso especial  conforme delineado nos itens 1, 2 e 3 do relatório  gravitam em torno da mesma controvérsia central, qual seja, o direito do adquirente do imóvel à indenização pela desapropriação indireta promovida pelo ente estatal. Considerando que tal matéria foi integralmente abarcada pela decisão do Tribunal de Origem ao aplicar o entendimento firmado no Tema n. 1.004 do STJ, a fastando o direito da parte recorrente em receber a indenização, não subsiste questão autônoma ou residual a ser apreciada por esta Corte no presente recurso.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Proferida a sentença de mérito na vigência do CPC/1973, fica afastada a fixação de honorários recursais nesta instância superior.
+É como voto.
