@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE E VARIEDADE DE DROGAS. APREENSÃO DE ARMA DE FOGO, MUNIÇÕES E APETRECHOS DO TRÁFICO. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MANUTENÇÃO DA CUSTÓDIA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que, em recurso ordinário em habeas corpus, denegou a ordem e manteve a custódia preventiva decretada.
+2. A agravante foi presa em flagrante pela suposta prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006, e art. 16 da Lei n. 10.826/2003, com prisão convertida em preventiva devido à gravidade concreta da conduta e apreensão de significativa quantidade de entorpecentes, arma de fogo, munições e apetrechos característicos do tráfico.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a prisão preventiva da agravante está devidamente fundamentada em elementos concretos que justifiquem a medida extrema, considerando a gravidade concreta da conduta e os riscos à ordem pública.
+4. A defesa alega ausência de fundamentação concreta para a prisão, condições pessoais favoráveis, ausência de antecedentes criminais e possibilidade de substituição da prisão por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+5. A decisão monocrática está em conformidade com a jurisprudência consolidada, revelando-se adequada ao caso concreto, sem ilegalidade flagrante que justifique a concessão da ordem em habeas corpus.
+6. A prisão preventiva está fundamentada em elementos concretos, como a apreensão de significativa quantidade de drogas, arma de fogo e materiais utilizados no tráfico, evidenciando a periculosidade social da agravante e o risco à ordem pública.
+7. A jurisprudência admite a manutenção da prisão preventiva quando presentes elementos concretos que indiquem a necessidade da medida para acautelar a ordem pública, especialmente em casos de tráfico de drogas com apreensão de arma de fogo.
+8. A existência de condições pessoais favoráveis não inviabiliza a prisão preventiva quando presentes os requisitos do art. 312 do Código de Processo Penal.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Eliza da Rocha Vilela contra decisão monocrática que, em sede de recurso em habeas corpus, denegou a ordem, mantendo a custódia preventiva decretada.
+A agravante fora presa em flagrante pela suposta prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006, e art. 16 da Lei n. 10.826/2003, sendo sua prisão convertida em preventiva por decisão fundamentada na gravidade concreta da conduta, na apreensão de relevante quantidade de entorpecentes (973,47g de maconha e 9,93g de cocaína), além de arma de fogo, munições e apetrechos característicos do tráfico, como balança de precisão, embalagens plásticas e máquina de cartão.
+No agravo regimental, a defesa sustenta, em síntese, a ausência de fundamentação concreta para a prisão, alegando condições pessoais favoráveis, ausência de antecedentes criminais e possibilidade de substituição da prisão por medidas cautelares diversas, conforme previsão do art. 319 do Código de Processo Penal. Ressalta, ainda, que o parecer do Ministério Público Federal foi favorável ao provimento do recurso originário, com destaque para a possibilidade de o crime ter sido cometido exclusivamente pelo corréu.
+Requer, ao final, a reconsideração da decisão ou, alternativamente, o provimento do agravo pelo órgão colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE E VARIEDADE DE DROGAS. APREENSÃO DE ARMA DE FOGO, MUNIÇÕES E APETRECHOS DO TRÁFICO. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MANUTENÇÃO DA CUSTÓDIA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que, em recurso ordinário em habeas corpus, denegou a ordem e manteve a custódia preventiva decretada.
+2. A agravante foi presa em flagrante pela suposta prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/2006, e art. 16 da Lei n. 10.826/2003, com prisão convertida em preventiva devido à gravidade concreta da conduta e apreensão de significativa quantidade de entorpecentes, arma de fogo, munições e apetrechos característicos do tráfico.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a prisão preventiva da agravante está devidamente fundamentada em elementos concretos que justifiquem a medida extrema, considerando a gravidade concreta da conduta e os riscos à ordem pública.
+4. A defesa alega ausência de fundamentação concreta para a prisão, condições pessoais favoráveis, ausência de antecedentes criminais e possibilidade de substituição da prisão por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+5. A decisão monocrática está em conformidade com a jurisprudência consolidada, revelando-se adequada ao caso concreto, sem ilegalidade flagrante que justifique a concessão da ordem em habeas corpus.
+6. A prisão preventiva está fundamentada em elementos concretos, como a apreensão de significativa quantidade de drogas, arma de fogo e materiais utilizados no tráfico, evidenciando a periculosidade social da agravante e o risco à ordem pública.
+7. A jurisprudência admite a manutenção da prisão preventiva quando presentes elementos concretos que indiquem a necessidade da medida para acautelar a ordem pública, especialmente em casos de tráfico de drogas com apreensão de arma de fogo.
+8. A existência de condições pessoais favoráveis não inviabiliza a prisão preventiva quando presentes os requisitos do art. 312 do Código de Processo Penal.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+A decisão agravada foi proferida nos seguintes termos (e-STJ, fls. 417-419):
+ ..
+A decisão que converteu a prisão em flagrante em prisão preventiva está assim fundamentada (e-STJ, fl. 332):
+ ..
+De análise do feito, no que tange aos pressupostos, verifica-se do acervo probatório que há provas da materialidade da conduta, bem como fortes indícios de autoria, considerando o histórico de ocorrência policial de ID 10412979510; o auto de apreensão de ID 10412979511; os laudos toxicológicos preliminares de IDs 10412979529, 10412979530 e 10412979531; e os depoimentos prestados na Depol, constantes do ID 10412979509.
+Extrai-se de tal documentação, em suma, que, após o recebimento de informações de lavra da sociedade, a polícia militar logrou por apreender entorpecentes, arma de fogo e munições na casa da autuada Eliza (além de balança de precisão, saquinhos de chup-chup, comumente utilizados para acondicionamento de drogas, e máquina de cartão de crédito/débito), a qual é namorada do autuado Luis Gustavo. Segundo relato policial, ainda, Luis é indivíduo já conhecido por seu engajamento no mundo do crime e teria afirmado que pediu à namorada para que guardasse o material, que é de sua propriedade.
+Dando prosseguimento, a situação que se amolda perfeitamente à hipótese do art. 313, inciso I, do Código Processual Penal.
+No que diz respeito aos fundamentos, acorde ao que entende o Ministério Público, a manutenção da prisão traz conveniência à garantia da ordem pública, nos termos do art. 312 do CPP.
+Com efeito, as circunstâncias da apreensão, bem como a quantidade e forma de acondicionamento da droga militam em desfavor dos autuados, revelando suas periculosidades e o risco que eventual soltura traria à sociedade.
+O tráfico de drogas é fomentador de diversas atividades criminosas, a exemplo dos crimes patrimoniais e contra a vida, situação que exige uma postura enérgica dos órgãos estatais, sob pena até mesmo de descrédito, notadamente em se considerando que petrechos bélicos foram arrecadados.
+Aliás, são incontestes os transtornos graves que a comercialização de toda a droga encontrada (973,47 gramas de maconha e 9,93 gramas de cocaína) causaria à saúde pública.
+Também, não se pode desconsiderar o teor das denúncias anônimas, que denotam o tangível risco de reiteração delitiva.
+As medidas cautelares trazidas no art. 319 do CPP não se prestam, em arremate, aos fins almejados, sendo imperiosa a adotação de medida extrema, em que pese sua excepcionalidade.
+Isto posto, ao tempo que indefiro as pretensões defensivas de IDs 10413147006 e 10413328200, CONVERTO EM PREVENTIVA A PRISÃO EM FLAGRANTE DE LUIS GUSTAVO DA SILVA MEDEIROS e ELIZA DA ROCHA VILELA, recomendando-os ao estabelecimento prisional em que já se encontram.
+ ..
+Como se vê, a decisão que decretou a prisão preventiva está devidamente fundamentada, com base em elementos concretos extraídos dos autos. Além de reconhecer a presença de indícios suficientes de autoria e a prova da materialidade delitiva, o juízo de origem apresentou fundamentos específicos que evidenciam a necessidade da custódia cautelar para a garantia da ordem pública. Dentre os elementos destacados, constam a apreensão de significativa quantidade de entorpecentes (973,47 gramas de maconha e 9,93 gramas de cocaína), arma de fogo, munições, balança de precisão, embalagens comumente utilizadas na comercialização de drogas e máquina de cartão utilizada no contexto da traficância.
+É entendimento pacífico nesta Corte de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade das drogas apreendidas. Nesse sentido: AgRg no HC n. 786.689/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023; AgRg no HC n. 776.330/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgRg no RHC n. 173.924/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023.
+Ademais, entende esta Corte que, além da expressiva quantidade de drogas apreendidas, o porte de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública.
+Noutra vertente, " s ão inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves." (AgRg no HC n. 960.341/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+O agravo regimental não merece provimento.
+A decisão monocrática está em conformidade com a jurisprudência consolidada desta Corte, revelando-se adequada ao caso concreto, não se verificando qualquer ilegalidade flagrante ou manifesta que justifique a concessão da ordem em habeas corpus.
+Conforme já consignado na decisão monocrática impugnada, a prisão preventiva da agravante encontra-se devidamente fundamentada em elementos concretos extraídos dos autos, aptos a justificar a medida extrema. Ressalte-se que a prisão não foi decretada com base apenas na gravidade abstrata do delito, mas a partir de circunstâncias fáticas que evidenciam a periculosidade social da agente e o risco efetivo à ordem pública.
+No caso, a apreensão de significativa quantidade de drogas, somada à presença de arma de fogo, munições e materiais comumente utilizados na mercancia ilícita, revela contexto de envolvimento com o tráfico de entorpecentes em escala não meramente ocasional ou circunstancial. Ademais, a custódia foi decretada com base também na existência de denúncias anônimas que indicam a habitualidade da prática delitiva no local, além da referência, em depoimentos policiais, à participação direta da agravante na guarda do material entorpecente, a pedido de indivíduo já conhecido da polícia pela reincidência criminal.
+A jurisprudência consolidada desta Corte admite a manutenção da prisão preventiva quando presentes, de forma concreta, elementos que indiquem a necessidade da medida para acautelar a ordem pública, especialmente em casos de tráfico de drogas com apreensão de arma de fogo.
+A existência de condições pessoais favoráveis, como primariedade e residência fixa, por si sós, não inviabiliza a imposição da prisão preventiva quando presentes os requisitos do art. 312 do Código de Processo Penal, como se verifica no caso em tela. Do mesmo modo, o parecer ministerial, embora digno de consideração, não vincula este Juízo, cabendo ao magistrado decidir conforme seu convencimento motivado, à luz das provas constantes dos autos.
+No que tange à alegação de que os fundamentos seriam genéricos ou dissociados da realidade do caso concreto, observo que a decisão monocrática enfrentou especificamente os pontos controvertidos, assentando que a gravidade concreta da conduta e os instrumentos apreendidos denotam risco real de reiteração e exigem resposta cautelar proporcional.
+Diante de todo o exposto, inexistindo elementos novos ou argumentos capazes de infirmar os fundamentos da decisão agravada, nego provimento ao agravo regimental, mantendo-se a decisão monocrática por seus próprios fundamentos.
+É o voto.
