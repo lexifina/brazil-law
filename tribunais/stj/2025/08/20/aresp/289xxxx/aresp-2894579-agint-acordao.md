@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO E ACORDO EXTRAJUDICIAL DE TERMO PARTICULAR DE ACEITAÇÃO DE DÉBITOS REFERENTES A CONSUMO DE ENERGIA ELÉTRICA. ENERGIA ELÉTRICA. FIAÇÃO IRREGULAR. EQUIPAMENTO FRAUDADOR NÃO ENCONTRADO. PERÍCIA JUDICIAL. NÃO COMPROVAÇÃO DA FRAUDE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A controvérsia refere-se, em suma, à legalidade, ou não, da cobrança de débito de recuperação de consumo de energia.
+2. Infirmar a conclusão do acórdão recorrido - quanto à "insubsistência da cobrança de débito de recuperação de consumo de energia, dada a inexistência de indícios de fraude atribuível ao consumidor" (e-STJ, fl. 753) - ensejaria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por EQUATORIAL GOIÁS DISTRIBUIDORA DE ENERGIA S.A. contra decisão monocrática assim ementada (e-STJ, fl. 1.075):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO E ACORDO EXTRAJUDICIAL DE TERMO PARTICULAR DE ACEITAÇÃO DE DÉBITOS REFERENTES A CONSUMO DE ENERGIA ELÉTRICA. ENERGIA ELÉTRICA. FIAÇÃO IRREGULAR. EQUIPAMENTO FRAUDADOR NÃO ENCONTRADO. PERÍCIA JUDICIAL. NÃO COMPROVAÇÃO DA FRAUDE. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo interno, a insurgente alega que não há falar em reexame do conjunto fático-probatórios dos autos, bem como que o recurso especial trata da inobservância do julgador à legislação vigente, a qual se refere à "aplicação do art. 479 quanto à valoração da prova pericial a ser realizada de acordo com a íntegra do conjunto probatório, não podendo a mera conclusão do laudo pericial que indica a impossibilidade comprovação de existência de fraude, ignorar que também pode ter havido" (e-STJ, fl. 1.091). Aduz, assim, que não há falar em incidência da Súmula n. 7/STJ.
+Requer, ao final, o provimento do presente agravo interno para que seja julgado procedente o recurso especial interposto.
+Impugnação apresentada (e-STJ, fls. 1.096-1.100).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO E ACORDO EXTRAJUDICIAL DE TERMO PARTICULAR DE ACEITAÇÃO DE DÉBITOS REFERENTES A CONSUMO DE ENERGIA ELÉTRICA. ENERGIA ELÉTRICA. FIAÇÃO IRREGULAR. EQUIPAMENTO FRAUDADOR NÃO ENCONTRADO. PERÍCIA JUDICIAL. NÃO COMPROVAÇÃO DA FRAUDE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A controvérsia refere-se, em suma, à legalidade, ou não, da cobrança de débito de recuperação de consumo de energia.
+2. Infirmar a conclusão do acórdão recorrido - quanto à "insubsistência da cobrança de débito de recuperação de consumo de energia, dada a inexistência de indícios de fraude atribuível ao consumidor" (e-STJ, fl. 753) - ensejaria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, mostra-se cristalino que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, haja vista que, conforme bem salientado, está evidente a incidência da Súmula n. 7/STJ à presente demanda.
+Ora, a controvérsia refere-se, em suma, à legalidade, ou não, da cobrança de débito de recuperação de consumo de energia.
+O Tribunal de Justiça do Estado de Goiás, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 749-753; sem grifo no original):
+O cerne da irresignação da 1ª apelante cinge-se à pretensão de reforma da sentença, sob as premissas de que: a) - o TOI foi lavrado segundo a Resolução 414/2010 da ANEEL, cuja inspeção foi acompanhada pelo Diretor da 1ª apelada, que acompanhou o procedimento; b) - ficou constada por perícia administrativa, a ocorrência de fraude mediante uma derivação entre os TCs (transformadores de correntes) e o medidor com a finalidade de reduzir a apuração do consumo, tendo havido danos na fiação, porém os equipamentos apontados como fraudadores não estavam mais no local; c) - emitido o T. O. I., cumpriu-se todas as etapas de apuração, com as garantias da ampla defesa e contraditório próprios, que não pode ser invalidado por perícia judicial frágil, ao arrepio da norma de regência - Resolução 414 da ANEEL.  ..
+A sobredita apuração administrativa redundou na imputação de um débito de consumo de mais de R$ 3.000.000,00 (três milhões de reais) que, após negociação, alcançou R$1.183.212,00 (um milhão e cento e oitenta e três mil e duzentos e doze reais).  ..
+Examinado todo o cenário existente, o Perito entendeu não ser possível a imputação de fraude à 1ª apelada à míngua de prova quanto à utilização de equipamentos fraudadores entre os TC"s e o relógio medidor de consumo, e o aumento do consumo verificado após a inspeção restou calcado nas planilhas apresentadas, pelas quais verifica-se incremento das vendas dos produtos.
+Ainda que a 1ª apelante deduza a fragilidade do laudo pericial, certo é que não houve comprovação de sua inidoneidade.  ..
+Destarte, diante do laudo judicial que atesta a impossibilidade de validação do laudo administrativo, tornando iludível a legitimidade da cobrança, escorreita a declaração de insubsistência da cobrança de débito de recuperação de consumo de energia, dada a inexistência de indícios de fraude atribuível ao consumidor.
+Da leitura do fragmento transcrito depreende-se que o Tribunal de origem, de fato, resolveu as questões com base nos elementos fáticos que permearam a demanda.
+Dessa forma, repisa-se que rever a conclusão do acórdão recorrido - quanto à "insubsistência da cobrança de débito de recuperação de consumo de energia, dada a inexistência de indícios de fraude atribuível ao consumidor" (e-STJ, fl. 753) - ensejaria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Assim, razão não assiste à agravante, não merecendo reparo a decisão monocrática de fls. 1.075-1.079 (e-STJ).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
