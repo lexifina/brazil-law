@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se recurso especial interposto por RAFAEL DE OLIVEIRA FONSECA e ANDREIA GHIZI FREIRE, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/RJ.
+Recurso especial interposto em: 4/9/2018.
+Concluso ao Gabinete em: 6/12/2024.
+Ação: de rescisão contratual c/c obrigação de não fazer, reparação de danos materiais e compensação de danos morais, ajuizada pelos recorrentes, em desfavor de MELIÁ BRASIL ADMINISTRAÇÃO HOTELEIRA E COMERCIAL LTDA, em virtude de contrato de cessão de direito de ocupação de unidade habitacional hoteleira em sistema de tempo compartilhado - denominado Vacation Club - firmado entre as partes.
+Sentença: julgou procedentes os pedidos, a fim de condenar a recorrida ao pagamento aos recorrentes de R$ 114.035,31 (cento e catorze mil, trinta e cinco reais e trinta e um centavos) a título de reparação de danos materiais; e de R$ 6.000,00 (seis mil reais) para cada autor, a título de compensação de danos morais.
+Acórdão: deu provimento à apelação interposta pela recorrida, para reformar a sentença e julgar extinto o processo, sem resolução do mérito, por carência de jurisdição brasileira. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO DE RESCISÃO CONTRATUAL COM DEVOLUÇÃO DE QUANTIAS PAGAS C/C INDENIZATÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE HOSPEDAGEM DE FÉRIAS. PARTE AUTORA ALEGA QUE NÃO CONSEGUIU USUFRUIR DO BENEFÍCIO ESPERADO PELO SERVIÇO. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO DA RÉ. ALEGAÇÃO DE NULIDADE DA CLÁUSULA DE ELEIÇÃO DE FORO. CELEBRAÇÃO DE CONTRATO NA REPÚBLICA DOMINICANA. ACOLHIMENTO DA PRELIMINAR DE NÃO INCIDÊNCIA DA JURISDIÇÃO BRASILEIRA, POR FORÇA DA NORMA CONTIDA NO CPC/2015, ARTIGOS 21 A 25. RELAÇÃO DE CONSUMO. HIPÓTESE DE COMPETÊNCIA INTERNACIONAL CONCORRENTE, A LEGITIMAR A ELEIÇÃO CONTRATUAL DE FORO ESTRANGEIRO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. PROVIMENTO AO RECURSO (e-STJ fl. 538).
+Embargos de declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: apontam a violação dos arts. 25, § 2º, e 43 do CPC, bem como dissídio jurisprudencial. Sustentam que:
+(i) a cláusula de eleição de foro não encerra uma regra de competência absoluta, mas sim de competência relativa, de forma que, à época em que ajuizada a ação e de acordo com as normas processuais vigentes na oportunidade, a questão deveria ter sido alegada pela recorrida por meio de instrumento processual próprio, qual seja, a exceção de incompetência;
+(ii) na espécie, é inaplicável o que disposto no art. 25 do CPC - que prevê a arguição da cláusula de eleição de foro exclusivo estrangeiro pela ré em contestação -, pois não era a norma que vigia quando da propositura da demanda;
+(iii) o TJ/RJ deveria ter respeitado a regra vigente quando do oferecimento da contestação pela recorrida, rejeitando a alegação de modificação da competência em decorrência da existência de cláusula de eleição de foro, por ser naquela época a exceção de incompetência o instrumento processual adequado para a sua arguição;
+(iv) o juiz pode declarar, até mesmo de ofício, a ineficácia da cláusula de eleição de foro exclusivo estrangeiro quando constatada a sua abusividade; e
+(v) ao deslocar para a República Dominicana o foro para dirimir os conflitos que se instalassem entre as partes litigantes, a recorrida impôs aos recorrentes uma dificuldade manifestamente exagerada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos dispositivos legais indicados como violados, tampouco acerca dos argumentos de (i) inaplicabilidade do art. 25 do CPC à espécie, dado que não era dispositivo vigente quando da propositura da demanda; (ii) inadequação da arguição, em sede de contestação, da cláusula de eleição de foro pela parte adversa; e (iii) possibilidade de declaração, de ofício, pelo juiz de nulidade da cláusula de eleição de foro quando constatada a sua abusividade (alegada violação do art. 25, § 2º, do CPC).
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, a alegada violação dos arts. 25, § 2º, e 43 do CPC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353.947/SC, Terceira Turma, DJe de 31/03/2014 e EDcl no Ag 1.162.355/MG, Quarta Turma, DJe de 03/09/2013.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.000,00 (mil reais) (e-STJ fl. 550) para R$ 1.500,00 (mil e quinhentos reais), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C OBRIGAÇÃO DE NÃO FAZER, REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Ação de rescisão contratual c/c obrigação de não fazer, reparação de danos materiais e compensação de danos morais, em virtude de contrato de cessão de direito de ocupação de unidade habitacional hoteleira em sistema de tempo compartilhado - denominado Vacation Club - firmado entre as partes.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+4. Recurso especial não conhecido.
