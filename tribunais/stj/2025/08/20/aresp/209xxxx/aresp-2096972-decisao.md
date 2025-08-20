@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por DHL GLOBAL FORWARDING (BRAZIL) LOGISTICS LTDA contra decisão que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal e incidência da Súmula n. 7 do STJ (fls. 358-360).
+O acórdão recorrido encontra-se assim ementado (fl. 234):
+Ação de regresso movida por seguradora em face de transportadora Seguro Transporte internacional aéreo de mercadorias Sentença de procedência Prescrição à reparação civil: prazo trienal do CC, art. 206, § 3º, inciso V, não superado Avarias demonstradas pela seguradora Pagamento da indenização comprovado Direito ao regresso estabelecido por lei CC, arts. 349 e 786 Limitação da indenização prevista na Convenção de Montreal que deve ser aplicada também para os casos de transporte aéreo de mercadorias Matéria pacificada pelo E. STJ e STF 17 Direitos Especiais de Saques (DES) por quilo de mercadoria avariada Recurso provido, em parte.
+Os embargos de declaração foram rejeitados (fls. 336-338).
+Nas razões do recurso especial (fls. 297-308), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais;
+(i) art. 102 do Código Brasileiro de Aeronáutica, segundo o qual "o agende de carga constitui apenas um auxiliar do serviço de transporte. Ou seja, o agente de transporte age como mandatário do transportador, não podendo ser responsabilizado por eventuais danos" (fl. 305);
+(ii) art. 206, § 1º, II, do CC, sob alegação de que "o prazo prescricional da pretensão de regresso é igual do prazo prescricional da pretensão que deu causa a ação de regresso  .. . No caso em tela, a pretensão original que deu causa ao direito de regresso prescreve em 1 (um) ano  .. . Desse modo, não restam dúvidas de que a Recorrida tinha o prazo de 1 (um) ano, a contar do dia 02/10/2017 para ingressar com a ação de regresso. Contudo, a Recorrida quietou-se inerte e apenas ingressou com a ação no dia 06/06/2019, ou seja, quase 2 (dois) ano, após a realização do pagamento da indenização ao seu segurado" (fls. 306-307);
+(iii) arts. 754 do CC e 31 da Convenção de Montreal, tendo em vista que "tanto o Código Civil como a Convenção de Montreal impõem que o transportador comunique, formalmente, no prazo de 10 (dez) dias ou 7 (sete) dias, ao agente de carga sobre as avarias constatadas, sob pena de decadência. Ocorre que, conforme se verifica, a carta de protesto foi encaminhada a Recorrente, no dia 21/07/2017, sendo que as mercadorias foram entregues no dia 07/06/2017. Considerando que a carta de protesto mencionada no venerado acórdão foi enviada fora do prazo estabelecido pelas normas legais, conclui-se pela decadência do direito da Recorrida" (fl. 308).
+No agravo (fls. 374-382), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 385-392).
+É o relatório.
+Decido.
+Inicialmente, no que diz respeito à alegada afronta aos arts. 102 do Código Brasileiro de Aeronáutica, 754 do CC e 31 da Convenção de Montreal, o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+No mais, "de acordo com a jurisprudência deste Tribunal, o prazo prescricional aplicável à hipótese é de dois anos, conforme estabelecido no art. 35 da Convenção de Montreal. Esse prazo deve ser contado a partir da data em que a seguradora efetua o pagamento da indenização ao segurado" (REsp n. 1.895.834/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025). No mesmo sentido:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS. TRANSPORTE AÉREO INTERNACIONAL. EXTRAVIO DE BAGAGEM. INCIDÊNCIA DA CONVENÇÃO DE MONTREAL. PRESCRIÇÃO. PRAZO BIENAL. TERMO INICIAL. PAGAMENTO DA INDENIZAÇÃO PELA SEGURADORA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 636.331/RJ, sob o regime da repercussão geral, consolidou o entendimento de que as normas e os tratados internacionais devem ser aplicados às questões envolvendo transporte internacional, seja este de pessoas ou coisas, especialmente as Convenções de Varsóvia e de Montreal. Precedentes.
+2. Nos termos da jurisprudência desta Corte, aplica-se a prescrição bienal prevista no art. 35 da Convenção de Montreal, contada a partir da data do pagamento da indenização securitária ao segurado. Precedentes.
+ ..
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para dar provimento ao recurso especial, a fim de afastar a prescrição.
+(AgInt no AREsp n. 1.886.411/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 23/8/2022.)
+Portanto, a ação não estaria prescrita, pois, segundo consta no acórdão recorrido, não houve o transcurso do prazo de dois anos. Confira-se (fl. 235):
+Embora o documento de fl. 83 não indique a data do pagamento da indenização securitária, a ré não impugnou de forma expressa aquela mencionada pela autora, a saber, 2/10/2017, que, portanto, fica acolhida. A petição inicial foi protocolada 6/6/2019.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
