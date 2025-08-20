@@ -1,0 +1,19 @@
+DECISÃO
+MATHEUS FÉLIX DE MELLO alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa se insurge contra o reconhecimento de falta disciplinar de natureza grave, consistente na posse de carregador e fone de ouvido para aparelho celular. Sustenta que na sindicância o apenado foi ouvido sem a presença de defensor, o que viola os princípios da ampla defesa, do contraditório e do devido processo legal, e configura nulidade absoluta do procedimento disciplinar.
+Ademais, não houve audiência de justificação perante o Juízo da execução.
+Requer a declaração de nulidade do processo administrativo disciplinar SEI 210083/000846/2023, afastando-se todos os seus efeitos.
+Decido.
+O habeas corpus está deficientemente instruído, pois não consta a cópia do procedimento disciplinar que a defesa pretende anular.
+No caso, o Juiz da VEC homologou a falta grave e determinou, por conseguinte, a interrupção do prazo para progressão de regime, bem como declarou a perda de 1/3 dos dias eventualmente remidos.
+Segundo o acórdão recorrido, não houve prejuízo pela falta de defesa técnica no momento da oitiva do reeducando, uma vez que "na oportunidade em que teve de ser ouvido perante a Comissão de Tratamento e Classificação (CTC), preferiu exercer o direito ao silêncio" (fl. 20).
+O defensor participou das demais fases da sindicância e não requereu nova oportunidade de oitiva do apenado. Houve apresentação de peça defensiva pertinente, ratificada em sede judicial.
+Assim, conforme o Tribunal de origem, "o Procedimento Disciplinar instaurado observou o devido processo legal, com a possibilidade de apresentação de defesa escrita por advogado ou defensor público, nos termos da Súmula nº 533/STJ, sendo a oitiva do apenado desacompanhada de defesa técnica suprida pela posterior apresentação de defesa e pela opção do apenado pelo silêncio, inexistindo demonstração de prejuízo (STJ, AgRg no HC n. 736.555/RJ)" (fl. 16).
+O acórdão recorrido está conforme o entendimento de que "a nulidade do procedimento disciplinar depende da demonstração de efetivo prejuízo, nos termos do art. 565 do CPP" (AgRg no HC n. 993.778/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 17/6/2025, DJEN de 25/6/2025).
+Deveras:
+ ..  "quanto à necessidade de a defesa técnica do paciente presenciar os depoimentos das testemunhas e o do próprio sentenciado, prestados no procedimento administrativo disciplinar instaurado para a apuração de falta grave, este Superior Tribunal de Justiça já se pronunciou em diversas ocasiões no sentido de que é imprescindível a demonstração de prejuízo para reconhecimento de eventual nulidade, ônus do qual não se desincumbiu a combativa defesa - em consonância com o princípio pas de nullité sans grief, consagrado no art. 563 do Código de Processo Penal" (AgRg no HC n. 736.555/RJ, relator Ministro JESUÍNO RISSATO, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022; e AgRg no HC n. 778.949/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022).
+A defesa não demonstrou o prejuízo causado ao executado. Eventual repetição da oitiva do apenado na presença de defensor, em hipótese em que exerceu a autodefesa e o direito ao silêncio, em nada alteraria a conclusão da sindicância, que contou com a participação da defesa técnica nas demais fases, inclusive recursais.
+Durante a sindicância, foi oportunizada a autodefesa e a defesa técnica, ainda que de forma diferida. Assim, "a jurisprudência desta Corte Superior dispensa a audiência de justificação para homologação de falta grave quando não houver regressão de regime" (HC n. 890.989/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
