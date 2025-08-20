@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fls. 514-515):
+APELAÇÃO. PROCESSO CIVIL. DIREITO CIVIL. EMPRÉSTIMOS. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE RECURSAL. REJEITADA. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA. PRECLUSÃO TEMPORAL. MÉRITO. DESCONTOS CONSIGNADOS EM FOLHA DE PAGAMENTO. PERCENTUAL MÁXIMO. 35% DA REMUNERAÇÃO. SERVIDOR DISTRITAL. LEI COMPLEMENTAR DISTRITAL 840/2011 ALTERADA PELO LEI COMPLEMENTAR DISTRITAL 1.015/2022. DESCONTOS EM CONTA CORRENTE. SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA 1085. LICITUDE. DANOS MORAIS. NÃO CONFIGURAÇÃO. RECURSO DO RÉU PROVIDO. RECURSO DA AUTORA PREJUDICADO.
+1. Não há afronta ao princípio da dialeticidade quando o recorrente devolve ao Tribunal todas as questões de fato e de direito pertinentes para fundamentar a reforma da Sentença.
+2. A ausência de impugnação ao deferimento do benefício da gratuidade de justiça em momento oportuno, conforme previsto no art. 100 do Código de Processo Civil, acarreta a preclusão temporal da matéria.
+3. O art. 116 da Lei Complementar Distrital 840/2011 (alterada pela Lei Complementar 1.015/2022), que dispõe sobre o regime jurídicos dos servidores públicos civis do Distrito Federal, das autarquias e das fundações públicas distritais, autoriza a contratação de empréstimo consignado em folha de pagamento, com a limitação legal de 35% (trinta e cinco por cento) da remuneração ou subsídio do servidor.
+4. O Superior Tribunal de Justiça, na sistemática dos Recursos Repetitivos, fixou a seguinte tese: São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento.
+5. A Resolução BACEN 4.790/2020 permite o cancelamento de autorização somente em caso de não reconhecimento da autorização, como em caso de ausência de previsão contratual ou contratação fraudulenta.
+6. Conforme o princípio do pacta sunt servanda, ou seja, o princípio da força obrigatória, o contrato obriga as partes nos limites da Lei. Portanto, devem as partes respeitar o acordo firmado por elas, porquanto vigoram no direito brasileiro os princípios da liberdade de contratar e do efeito vinculante dos contratos.
+7. Os contratos firmados com autorização de desconto em conta são firmados com mais vantagem para o consumidor, que conta com taxas reduzidas em relação a outros produtos.
+8. Somente os casos de violação à honra, seja subjetiva ou objetiva, importam em condenação em compensar danos morais.
+9. Recurso do réu conhecido e provido. Recurso da autora prejudicado.
+Os embargos de declaração foram rejeitados (fls. 573-578).
+Em suas razões (fls. 590-596), a parte recorrente aponta violação dos arts. 1º da Lei n. 10.820/2003, 10 do Decreto n. 28.195/2007 e 6º, I, VI e VIII, e 51, IV, do CDC, alegando:
+(i) a ilegalidade de cobrança e descontos que ultrapassam a margem consignável legal de 30% (trinta por cento) da remuneração líquida mensal da recorrente, comprometendo sua subsistência e violando direitos básicos do consumidor,
+(ii) a possibilidade de revogação da autorização dada pelo consumidor para descontos em conta-corrente, e
+(iii) a necessidade de a instituição financeira comprovar a legalidade dos descontos, o que não ocorreu.
+Contrarrazões apresentadas às fls. 606-612.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+O Tribunal de origem decidiu a questão controvertida nos seguintes termos (fls. 518-522, grifei):
+ ..  quanto ao percentual de limitação dos descontos em folha de pagamento, no caso concreto, incide a Lei Complementar Distrital 840/2011, que dispõe sobre o regime jurídicos dos servidores públicos civis do Distrito Federal, das autarquias e das fundações públicas distritais, uma vez que a agravante é servidora pública distrital aposentada.
+O art. 116 da referida Lei autoriza a contratação de empréstimo consignado em folha de pagamento, com a limitação legal de 40% (quarenta por cento) da sua remuneração, sendo 5% (cinco por cento) para despesas com cartão de crédito  ..
+ ..
+ ..  vislumbra-se que os descontos em contracheque não poderão ultrapassar 35% (trinta e cinco por cento) da diferença entre a remuneração e as consignações compulsórias.
+Insta salientar, ainda, a possibilidade de desconto no contracheque, no limite de 5% (cinco por cento) da remuneração do contratante, em caso de Contrato de Cartão de Crédito com Margem Consignável, regulamentado pela Lei 10.820/2003, para amortização das despesas contraídas ou utilização com a finalidade de saque. Esse não é o caso dos autos, pois, como se observa, a agravante firmou diversos contratos de Cédula de Crédito Bancário (IDs 67072176, 67072177, 67072178, 67072179 e 67072180), obrigando-se ao pagamento dos empréstimos em seu contracheque.
+ ..
+Extrai-se do contracheque de novembro de 2024 (ID 68352663) que a instituição financeira realizou desconto de R$ 6.753,62 (seis mil setecentos e cinquenta e três reais e sessenta e dois centavos) diretamente no contracheque da devedora.
+Portanto, os descontos realizados em folha de pagamento representam 26% (vinte e seis por cento) de sua remuneração bruta, abatidos o Imposto de Renda e Seguridade Social (R$ 25.030,74 - vinte e cinco mil e trinta reais e setenta e quatro centavos).
+Portanto, observada a margem legal consignável pela instituição financeira.
+ ..
+O Superior Tribunal de Justiça julgou os processos representativos da controvérsia que estavam afetados para julgamento pelo procedimento dos Recursos Especiais Repetitivos e estabeleceu a seguinte tese a respeito da legalidade dos descontos de parcelas de empréstimo bancários em conta corrente e conta-salário:
+"São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento." (Tema Repetitivo 1085 - Superior Tribunal de Justiça).
+Segundo Resolução BACEN 4.790/2020, de 26 de março de 2020, o procedimento para cancelamento de autorização de débitos em conta de depósito ou em conta-salário é assim disciplinado:
+ ..
+Vislumbra-se, portanto, que o cancelamento da autorização de débitos pode ocorrer desde que o cliente não reconheça a autorização. O não reconhecimento da autorização advém de contratação fraudulenta ou contratação desconhecida e não de não reconhecimento por mera liberalidade.
+ ..
+No presente caso, a autora deseja cancelar a autorização por mera liberalidade. Além disso, não houve proposta pela autora em relação a outro método para pagamento do débito e seu consequente adimplemento.
+Nesse cenário, é válido ressaltar ainda que, conforme o princípio do pacta sunt servanda, ou seja, o princípio da força obrigatória, o contrato obriga as partes nos limites da lei. É uma regra que versa sobre a vinculação das partes ao contrato, como se norma legal fosse, tangenciando a imutabilidade.
+Com base nesse princípio, devem as partes respeitar o acordo firmado por elas, pois vigoram no direito brasileiro os princípios da liberdade de contratar e do efeito vinculante dos contratos. Aplica-se referido princípio à presente situação, devendo as partes respeitar o disposto no contrato por elas firmado.
+Destaco que como bem ponderado pela instituição financeira, os contratos firmados com autorização de desconto em conta são firmados com mais vantagem para o consumidor, que conta com taxas reduzidas em relação a outros produtos.
+Diante da previsão contratual expressa acerca da possibilidade de débito das parcelas diretamente em conta corrente e, ainda, em respeito ao princípio da autonomia da vontade, entendo não haver possibilidade de cancelamento da autorização no presente caso, restando apenas à consumidora a repactuação da dívida caso afetado seu mínimo existencial.
+Nesse contexto, modificar o entendimento do acórdão recorrido acerca da margem legal consignável implica, necessariamente, a análise de direito local (Lei Complementar Distrital n. 840/2011), o que é vedado nesta via recursal, conforme a Súmula n. 280 do STF, aplicada por analogia.
+Esbarra ainda nas Súmulas n. 5 e 7 do STJ a revisão das conclusões da Corte estadual quanto (i) à obediência da instituição financeira à margem de consignação aplicável e (ii) à legalidade dos descontos realizados pela parte recorrida em razão da existência de autorização da mutuária para que o pagamento do empréstimo ocorra mediante o débito das parcelas diretamente em conta-corrente.
+Ademais, conforme entendimento firmado no julgamento do REsp n. 1.863.973/SP (relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 9/3/2022, DJe de 15/3/2022), submetido ao rito dos recursos repetitivos (Tema n. 1.085/STJ), tratando-se de mútuo bancário pago mediante débito das parcelas em conta-corrente, conforme autorização prévia dada pelo mutuário, não se faz aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento. No mesmo sentido: AgInt no AREsp n. 1.757.508/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgInt no AREsp n. 1.711.286/DF, de minha relatoria, Quarta Turma, julgado em 12/9/2022, DJe de 15/9/2022; e AgInt no REsp n. 1.928.694/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.
+Por fim, o entendimento deste Tribunal Superior é pela impossibilidade de revogação unilateral da autorização para desconto em conta-corrente concedida expressamente (AgInt no REsp n. 1.837.432/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/4/2025, DJEN de 5/5/2025; e AgInt no AREsp n. 2.209.847/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/6/2023, DJe de 21/6/2023).
+Incide a Súmula n. 568 do STJ.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
