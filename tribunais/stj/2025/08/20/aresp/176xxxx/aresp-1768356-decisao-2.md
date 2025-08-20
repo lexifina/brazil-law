@@ -1,0 +1,17 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região que determinou o sobrestamento da execução provisória das penas nos autos da Apelação n. 0504802-10.2003.4.02.5101.
+Nas razões do especial, o MPF aponta violação dos artigos 995, caput e parágrafo único, c/c 1.029, § 5º, III, do CPC, e do artigo 637 c/c artigo 283 do CPP.
+Argumenta que o Tribunal Regional contrariou entendimento firmado pelo STF em repercussão geral que estabelece a execução provisória da pena após condenação em segunda instância como medida impositiva.
+Ressalta que todos os recursos extraordinários e especiais interpostos pelos réus foram inadmitidos pelo Desembargador Federal Vice-Presidente do Tribunal. Afirma ser inviável admitir a probabilidade de êxito de recursos que sequer superaram o exame de admissibilidade no tribunal de origem, realizado justamente pelo órgão a quem caberia, segundo a lei, a análise de eventual requerimento de efeito suspensivo.
+Sustenta que a execução provisória da pena é automática após o esgotamento das instâncias ordinárias, sendo incompetente o relator do recurso de apelação para atribuir efeito suspensivo a recurso excepcional.
+Requer a reforma do acórdão para determinar a imediata execução provisória das penas impostas aos réus Samir Assad, Lineu de Paula Machado e José Alfredo Lamy, condenados por gestão fraudulenta (art. 4º da Lei 7.492/86) a 4 anos e 1 mês de reclusão.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 10.054-10.078).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O recorrente baseia sua argumentação no entendimento que vigorava à época da interposição do recurso especial, quando o Supremo Tribunal Federal admitia a execução provisória da pena após condenação em segunda instância. Contudo, em 7/11/2019, o Supremo Tribunal Federal, ao julgar as ADC"s n. 43, 44 e 54, modificou seu entendimento anterior. Por maioria de 6 votos a 5, o Plenário decidiu que o art. 283 do CPP, que exige o trânsito em julgado para início do cumprimento da pena, é constitucional e está em conformidade com o art. 5º, LVII, da Constituição Federal.
+Nesse mesmo sentido, manifestou-se o Subprocurador-Geral da República, Dr. Luciano Mariz Maia, em parecer que adoto também como razão de decidir:
+ ..  O parquet afirma a existência de violação ao art. 995, caput e parágrafo único, c/c art. 1029, §5º, III, do CPC e negou vigência ao art. 637 c/c art. 283 do CPP, com a determinação do Tribunal de origem para que não fosse realizada a execução provisória da pena imposta aos réus.
+O recurso está fundado, essencialmente, no posicionamento superado do STF - válido na época da sua interposição - de ser possível a execução provisória da pena após esgotamento da jurisdição de segunda instância .
+Contudo, após o julgamento das ADC"s 43, 44 e 54, não mais prevalece tal posicionamento jurisprudencial, devendo os réus aguardar o trânsito em julgado da condenação em liberdade, salvo quando houver fundamentos de índole cautelar que justifique a prisão prematura, o que não é o caso dos autos.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+EMENTA
