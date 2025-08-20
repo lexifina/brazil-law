@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THIARLE FRANCA SILVA VIEIRA contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta nos autos que o paciente teve sua prisão preventiva decretada pela suposta prática dos crimes capitulados no artigo 157, §3º, inciso II c/c artigo 14, inciso II e artigo 288, todos do Código Penal.
+Sustenta a Defesa que a decisão da autoridade coatora configura bis in idem, pois o paciente está cautelarmente segregado duas vezes em decorrência de fato único, a apreensão da arma de fogo.
+Afirma que a prisão preventiva foi decretada com base em fundamentação genérica, calcada na gravidade abstrata do delito imputado e na existência de outra ação penal em desfavor do paciente, sem demonstrar concretamente o periculum libertatis.
+Alega que o paciente é réu primário e detentor de bons antecedentes, afastando qualquer alegação de periculosidade.
+Defende que a gravidade abstrata do delito não justifica a prisão preventiva, devendo a decisão estar fundamentada em situações concretas.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por cautelares diversas.
+Liminar indeferida às fls. 45-46.
+Informações prestadas às fls. 51-57.
+O Ministério Público Federal em parecer, às fls. 60-66, manifestou-se pela denegação do writ.
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista que o paciente juntamente com outros corréus, participariam de um esquema coordenado, com divisão de tarefas e atuação estruturada voltada para prática de crimes patrimoniais violentos, possuindo envolvimento direto com a prática, em tese, do crime de tentativa de latrocínio, desempenhando a função de liderança na organização criminosa, circunstâncias que revelam a periculosidade concreta do agente e demonstra a indispensabilidade da imposição da segregação cautelar - fl. 32.
+Sobre o tema:
+"a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública" (AgRg no HC n. 981.209/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 15/4/2025.)
+"A conduta do agente, sem prejuízo da conclusão a ser aferida após a instrução do processo, extrapola os limites objetivos do tipo penal envolvido e evidencia, ao menos para fins de decretação da prisão preventiva e a priori, a periculosidade social do agente e justifica a prisão, nos termos do art. 312 do Código de Processo Penal"(AgRg no RHC n. 212.464/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/4/2025.)
+No mesmo sentido, confiram-se alguns precedentes: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Quanto ao alegado bis in idem, da leitura do acórdão recorrido verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema:
+"O Tribunal de origem não analisou a matéria trazida pela defesa, o que impede a apreciação direta pelo STJ, sob pena de supressão de instância" (AgRg no RHC n. 211.183/PE, de minha relatoria, Quinta Turma, DJEN de 28/4/2025).
+"Não debatida a questão pela Corte de origem, é firme o entendimento de que fica obstada sua análise, em princípio, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal" (AgRg nos EDcl no HC n. 955.826/ES, relator Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025).
+Por fim, a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
