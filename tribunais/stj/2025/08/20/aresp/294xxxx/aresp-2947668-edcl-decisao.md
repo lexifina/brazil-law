@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão de fls. 1.071-1.073, por meio dos quais alega a existência de omissão quanto à possibilidade de celebração de Acordo de Não Persecução Penal (ANPP).
+O embargante sustenta que não foi apreciada a referida questão, suscitada no parecer ministerial, em razão da mudança superveniente do quadro fático.
+Argumenta que, com a absolvição do crime de corrupção ativa perante o Tribunal de origem restou apenas o delito de moeda falsa, com pena mínima inferior a 4 anos, preenchendo-se os requisitos objetivos para o acordo, observada a existência de confissão do réu.
+Requer o acolhimento dos embargos para sanar a omissão destacada.
+É o relatório.
+Os embargos de declaração merecem acolhimento.
+Conforme previsto no art. 619 do CPP, são cabíveis embargos de declaração quando houver na decisão "ambiguidade, obscuridade, contradição ou omissão".
+No caso, verifica-se a ocorrência de omissão quanto à preliminar suscitada pelo Ministério Público Federal.
+De fato, ao apreciar a questão da "(im)possibilidade de acordo de não persecução penal posteriormente ao recebimento da denúncia", objeto do Tema n. 1.098 dos recursos repetitivos, a Terceira Seção do Superior Tribunal de Justiça fixou as seguintes teses (destaquei):
+1 - O Acordo de Não Persecução Penal constitui um negócio jurídico processual penal instituído por norma que possui natureza processual, no que diz respeito à possibilidade de composição entre as partes com o fim de evitar a instauração da ação penal, e, de outro lado, natureza material em razão da previsão de extinção da punibilidade de quem cumpre os deveres estabelecidos no acordo (art. 28-A, § 13, do Código de Processo Penal (CPP).
+2 - Diante da natureza híbrida da norma, a ela deve se aplicar o princípio da retroatividade da norma pena benéfica (art. 5º, XL, da CF), pelo que é cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigor da Lei n. 13.964/2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado da condenação.
+3 - Nos processos penais em andamento em 18/09/2024 (data do julgamento do HC n. 185.913/DF, pelo Plenário do Supremo Tribunal Federal), nos quais seria cabível em tese o ANPP, mas ele não chegou a ser oferecido pelo Ministério Público ou não houve justificativa idônea para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, manifestar-se motivadamente acerca do cabimento ou não do acordo no caso concreto.
+4 - Nas investigações ou ações penais iniciadas a partir de 18/09/2024, será admissível a celebração de ANPP antes do recebimento da denúncia, ressalvada a possibilidade de propositura do acordo, no curso da ação penal, se for o caso.
+(REsp n. 1.890.344/RS, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 23/10/2024, DJe de 28/10/2024.)
+N o presente caso, afiguram-se presentes, em tese, os requisitos objetivos que autorizam a discussão do ANPP: crime com pena mínima inferior a 4 anos (após a absolvição superveniente do crime de corrupção ativa) e ausência de reincidência. A própria confissão, que poderia ser feita apenas em razão da discussão do ANPP, já se encontra caracterizada.
+Ante o exposto, acolho os embargos de declaração e determino a remessa dos autos à origem, com baixa da distribuição e independentemente de prazo, para que as instâncias originárias adotem as providências necessárias para eventual discussão do acordo de não persecução penal pelas partes.
+Havendo acordo, fica prejudicada a continuidade do processamento do feito perante o Superior Tribunal de Justiça. Por outro lado, caso esgotadas as providências cabíveis na instância de origem sem que seja firmado o ajuste, deverá o feito ser restituído a esta Corte Superior.
+Publique-se. Intimem-se.
+EMENTA
