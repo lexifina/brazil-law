@@ -1,0 +1,35 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. DETERMINAÇÃO DE DEVOLUÇÃO DE RECURSO EXTRAORDINÁRIO ANTERIORMENTE INTERPOSTO AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. EXERCÍCIO DE JUÍZO POSITIVO DE RETRATAÇÃO, PELO TRIBUNAL A QUO, COM BASE NO PRECEDENTE DESTA SUPREMA CORTE PROFERIDO NO JULGAMENTO DO TEMA 942 DA REPERCUSSÃO GERAL. INCONFORMISMO. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. RECURSO  INCABÍVEL. PRECEDENTES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DETERMINAÇÃO DE REAUTUAÇÃO DO PRESENTE FEITO COMO RECURSO EXTRAORDINÁRIO COM AGRAVO. AGRAVO NÃO CONHECIDO.
+
+DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que, em juízo positivo de retratação quanto ao Tema 942 da Repercussão Geral, assentou:
+
+“ADMINISTRATIVO. PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. REPERCUSSÃO GERAL. RE 1.014.286 (TEMA 942). SERVIDOR PÚBLICO. TRABALHO PRESTADO SOB CONDIÇÕES ESPECIAIS APÓS A INSTITUIÇÃO DO REGIME JURÍDICO ÚNICO (LEI Nº 8.112/90). CONVERSÃO PARA TEMPO COMUM. POSSIBILIDADE. DIVERGÊNCIA. OCORRÊNCIA. ADEQUAÇÃO.
+1. Ao concluir o julgamento do Recurso Extraordinário 1.014.286 (Tema 942), submetido à sistemática da repercussão geral, o Supremo Tribunal Federal definiu a seguinte tese: 'Até a edição da Emenda Constitucional nº 103/2019, o direito à conversão, em tempo comum, do prestado sob condições especiais que prejudiquem a saúde ou a integridade física de servidor público decorre da previsão de adoção de requisitos e critérios diferenciados para a jubilação daquele enquadrado na hipótese prevista no então vigente inciso III do § 4º do art. 40 da Constituição da República, devendo ser aplicadas as normas do regime geral de previdência social relativas à aposentadoria especial contidas na Lei 8.213/1991 para viabilizar sua concretização enquanto não sobrevier lei complementar disciplinadora da matéria. Após a vigência da EC n.º 103/2019, o direito à conversão em tempo comum, do prestado sob condições especiais pelos servidores obedecerá à legislação complementar dos entes federados, nos termos da competência conferida pelo art. 40, § 4º-C, da Constituição da República'.
+2. A decisão desta Turma diverge do entendimento firmado no precedente vinculante, pois o acórdão ora reexaminado concluiu pela impossibilidade de conversão de tempo de serviço especial em comum pelo servidor público, em relação a período posterior à instituição do Regime Jurídico Único (Lei nº 8.112/90).
+3. Adequação do acórdão, em juízo de retratação.” (Doc. 138, destaquei)
+
+Proveram-se os embargos de declaração (Docs. 145 e 148) “manejados pela parte apelada, exclusivamente para fim de prequestionamento” e, com efeitos infringentes, os “manejados pela parte apelante para o fim de retirar a restrição da conversão discutida à espécie de aposentadoria por tempo de contribuição” (Doc. 170, p. 2).
+A UNIÃO, nas razões do apelo extremo, apresenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 8º, incisos II e III, e 40, § 4º, inciso III, e § 4º-C, da Constituição da República. Alega, em síntese, que o acórdão ora recorrido “extrapolou os limites do Tema 942, desconsiderando a necessidade de implementação do requisitos para a percepção do reconhecimento da especialidade da atividade” (Doc. 181, p. 13-14).
+O SINTRAFESC apresentou contrarrazões ao recurso extraordinário (Doc. 186).
+A Vice-Presidência do Tribunal Regional Federal da 4ª Região inadmitiu o recurso extraordinário da União por ser incabível (Doc. 193).
+É o relatório. DECIDO.
+Ab initio, assevere-se que, após o exame da existência de repercussão geral da matéria versada em recurso extraordinário, pelo Plenário do Supremo Tribunal Federal, compete às Cortes de origem a aplicação da decisão aos demais casos, sendo inadmissível a interposição de recurso a esta Suprema Corte contra decisão que, em juízo positivo de retratação, aplica a sistemática da repercussão geral, sob pena de subversão da própria sistemática. Nesse sentido, à guisa de exemplo, foram os seguintes julgados:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA MUNICIPAL. POSSE NO CARGO EFETIVO DE DIRETORA DE ESCOLA. PRETENSÃO DE APLICAÇÃO DO REGIME ESPECIAL DE APOSENTADORIA DE PROFESSORA. DETERMINAÇÃO DE DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. EXERCÍCIO DE JUÍZO POSITIVO DE RETRATAÇÃO, PELO TRIBUNAL A QUO, COM BASE NO PRECEDENTE DESTA SUPREMA CORTE PROFERIDO NO JULGAMENTO DO TEMA 965 DA REPERCUSSÃO GERAL. INCONFORMISMO DA IMPETRANTE. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. RECURSO  INCABÍVEL. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.” (Recurso Extraordinário 1.514.259-AgR, de que fui relator, Primeira Turma, DJe de 30/10/2024, destaquei)
+
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. CONSTITUCIONAL. PROCESSUAL PENAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRA AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Reclamação 16.915-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 13/03/2014, destaquei)
+
+“DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. TERCEIRIZAÇÃO. INCORPORAÇÃO DE FUNÇÃO COMISSIONADA. APOSENTADORIA. NOVO RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO QUE, EM JUÍZO DE RETRATAÇÃO, APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO CABIMENTO.
+    1. Agravo interno contra decisão que negou seguimento a recurso extraordinário.
+    2. A jurisprudência do Supremo Tribunal Federal entende ser incabível novo recurso extraordinário em face de decisão que, em juízo de retratação, aplica a sistemática da repercussão geral.
+    3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+4. Agravo interno a que se nega provimento.” (Recurso Extraordinário com Agravo 1.319.850-AgR, Rel. Min. Roberto Barroso, Plenário, DJe de 19/03/2024, destaquei)
+
+Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+Ex positis, NÃO CONHEÇO do AGRAVO, com fundamento no artigo 932, inciso III, do Código de Processo Civil de 2015. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte ora recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo.
+DETERMINO à Secretaria Judiciária desta Suprema Corte a REAUTUAÇÃO do presente feito como RECURSO EXTRAORDINÁRIO COM AGRAVO.
+Publique-se.
+Brasília, 20 de agosto de 2025.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
