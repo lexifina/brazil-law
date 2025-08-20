@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por CAMILA STASIAK e GILBERT ROCHA PRETTI , contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do HC n. 5041489-15.2025.8.24.0000.
+Extrai-se dos autos que os recorrentes foram denunciados pela suposta prática do crime tipificado no art. 14 da Lei n. 10.826/2003 (porte ilegal de arma de fogo de uso permitido).
+Irresignada, a defesa impetrou mandamus perante o Tribunal de origem, o qual foi denegado, nos termos do acórdão assim ementado:
+"DIREITO PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. INDÍCIOS MÍNIMOS. DESCRIÇÃO SUCINTA DOS FATOS. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME
+1. Recurso ordinário em "habeas corpus" interposto contra acórdão do Tribunal de Justiça de Santa Catarina (TJSC) que denegou a segurança pleiteada para o trancamento da ação penal, sob alegação de ausência de justa causa para a imputação da prática do crime do art. 14 da Lei n. 10.826/03. A defesa argumentou inexistência de indícios de autoria, inquérito sem diligências mínimas, arma manipulada e denúncia genérica.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a denúncia, mesmo que sucinta, possui justa causa para o prosseguimento da ação penal, considerando a suficiência dos indícios de autoria e materialidade e a natureza excepcional do trancamento da ação penal por habeas corpus.
+III. RAZÕES DA MANIFESTAÇÃO
+3. O trancamento da ação penal por habeas corpus é medida excepcional, somente admissível quando transparecer dos autos, de forma inequívoca, a inocência do acusado, a atipicidade da conduta ou a extinção da punibilidade. A fase de recebimento da denúncia prescinde de exame aprofundado sobre o acervo probatório.
+4. A propositura da ação penal exige apenas a presença de indícios mínimos e suficientes de autoria e materialidade, sendo a certeza comprovada ou afastada durante a instrução probatória, prevalecendo, na fase de oferecimento da denúncia, o princípio do "in dubio pro societate".
+5. No caso, as condutas foram suficientemente descritas na denúncia em dois parágrafos, indicando que os recorrentes Gilbert Rocha Pretti e Camila Stasiak mantinham sob sua guarda, em quarto de hotel, uma pistola e munições sem autorização.
+6. Os elementos indiciários que acompanharam a inicial, como o Inquérito Policial, Auto de Exibição e Apreensão, Laudo Pericial, Relatório Final de Investigação e depoimentos de funcionários do hotel, são capazes de servir como indícios mínimos de autoria. Os funcionários encontraram a arma no quarto após o checkout, e uma das recorrentes ligou para o hotel informando ter esquecido o item.
+7. Infirmar a conclusão sobre a suficiência dos indícios demandaria reexame aprofundado de fatos e provas, expediente vedado na via do habeas corpus.
+IV. CONCLUSÃO E TESE
+8. Manifestação no sentido de negar provimento ao recurso ordinário em habeas corpus.
+Teses da manifestação: "1. O trancamento da ação penal por meio de "habeas corpus" é medida excepcional, somente admissível quando houver inequívoca demonstração de inocência, atipicidade da conduta ou extinção da punibilidade. 2. A denúncia que apresenta descrição suficiente dos fatos e é lastreada por indícios mínimos e suficientes de autoria e materialidade, oriundos de inquérito policial e depoimentos, satisfaz a justa causa para a propositura da ação penal. 3. O reexame aprofundado de fatos e provas é vedado na via do "habeas corpus" para infirmar a suficiência dos indícios que lastreiam a denúncia."" (fls. 154/155).
+Nas razões do presente recurso, a defesa sustenta a ausência de justa causa para o prosseguimento da ação penal, ante a ausência de indícios da materialidade delitiva.
+Requer, assim, o trancamento da ação penal.
+A liminar foi indeferida por decisão de fls. 105/107 e 111/150.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"RECURSO EM HABEAS CORPUS. TRANSPORTE ILEGAL DE MUNIÇÕES DE ARMA DE FOGO DE USO PERMITIDO. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. EXCEPCIONALIDADE NA VIA DO HABEAS CORPUS. HIPÓTESE QUE NÃO SE VERIFICA NOS AUTOS. PRETENSÃO DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE NA VIA ELEITA. PARECER PELO DESPROVIMENTO DO RECURSO.
+1. Inicialmente, ressalta-se que o trancamento da ação penal em sede de habeas corpus é possível, mas apenas em situações excepcionais, em casos de absoluta evidência de ausência de indícios de autoria ou de materialidade, de atipicidade da conduta ou de extinção da punibilidade, o que não ocorre no caso dos autos.
+2. Alegações defensivas que demandam revolvimento fático-probatório, inviável na via eleita.
+3. Parecer pelo desprovimento do recurso." (fl. 299).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+De início, registra-se que o trancamento de ação penal pela inexistência de justa causa é medida cabível em situações excepcionais, não identificadas no caso concreto.
+Esta Corte Superior pacificou entendimento segundo o qual, em razão da excepcionalidade do trancamento da ação penal, tal medida somente se verifica possível quando ficar demonstrada - de plano e sem necessidade de dilação probatória - a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade, o que não ocorre na hipótese dos autos . Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INÉPCIA DA DENÚNCIA. TRANCAMENTO DA AÇÃO PENAL. NÃO CONFIGURAÇÃO. NEXO CAUSAL DEMONSTRADO. POSSIBILIDADE DE EXERCÍCIO DO CONTRADITÓRIO E DA AMPLA DEFESA. MANIFESTA ATIPICIDADE DA CONDUTA. INEXISTÊNCIA. INCURSÃO NO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Não se reconhece a inépcia quando a denúncia preenche os requisitos do art. 41 do Código de Processo Penal, com a descrição dos fatos e a classificação dos crimes (arts. 33 e 35 da Lei n. 11.343/2006) de forma suficiente para dar início à persecução penal na via judicial, bem como para o pleno exercício da defesa.
+2. O trancamento da ação penal em habeas corpus é possível apenas quando há manifesta atipicidade da conduta, presença de causa de extinção da punibilidade do paciente ou de ausência de indícios mínimos de autoria e materialidade delitivas evidenciando constrangimento ilegal, o que não ocorreu no caso.
+3. Na espécie, a denúncia descreve que a análise dos conteúdos dos aparelhos celulares apreendidos revelou a existência de uma rede estruturada e organizada mantida pelos denunciados, com o objetivo de praticar o comércio ilícito, evidenciando uma detalhada divisão de papéis e tarefas. O agravante exerceria o comando da associação mantida, determinando e autorizando a comercialização das drogas, assim como a aquisição dessas substâncias de fornecedores da Baixada Santista. Portanto, não há falar em inépcia.
+4. Discussões eventuais sobre a justa causa para ação penal, que se aprofundam na análise de teses sobre a fragilidade das provas e a falta de indícios de autoria ou materialidade, exigem, inevitavelmente, um exame detalhado da matéria fática e probatória. Tal exame não é adequado para o estreito escopo do habeas corpus.
+5. Agravo regimental improvido.
+(AgRg no HC n. 899.210/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGADA NULIDADE NA BUSCA PESSOAL E VEICULAR. SITUAÇÃO DE FLAGRANCIA. EXERCÍCIO REGULAR DA ATIVIDADE POLICIAL. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consta dos autos, que os policiais realizavam patrulhamento rodoviário de rotina e ao pararem o carro da paciente verificaram que ela possuía mais de sessenta passagens policiais, o que levantou suspeitas, sendo que referido fato foi confirmado, porquanto a ré foi flagrada com 36g de maconha e 173 comprimidos de ecstasy. Nesse contexto, a partir da leitura dos autos, verifica-se que foi constatada a existência de indícios prévios da prática de tráfico de drogas, a autorizar a atuação policial, não havendo falar em nulidade da busca pessoal e veicular.
+2. O acordão impugnado reconheceu a existência de elementos probatórios para a continuidade da persecução criminal, não se cogitando afastar a justa causa. Assim, qualquer conclusão no sentido de inexistência de prova apta a embasar o ajuizamento da ação penal demanda o exame aprofundado de provas, providência incabível no âmbito do habeas corpus.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 194.681/SC, de minha relatoria, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. USO DE DOCUMENTO FALSO. RECEPTAÇÃO. REITERAÇÃO DAS ALEGAÇÕES DO RECURSO ORDINÁRIO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. BUSCA VEICULAR. OPERAÇÃO POLICIAL. FUNDADAS RAZÕES. TRANCAMENTO. AUSÊNCIA DE DOLO. NECESSIDADE DE EXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nas razões do agravo regimental, a parte insurgente não trouxe quaisquer argumentos novos para a desconstituição da decisão agravada, limitando-se a reproduzir integralmente as razões do recurso ordinário em habeas corpus, previamente examinadas e rechaçadas pelo decisum monocrático.
+2. Não se vislumbra, neste caso, qualquer ilegalidade na atuação dos policiais, "amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso" (AgRg no HC n. 832.832/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+3. Quanto à tese de ausência de justa causa para o exercício da ação penal, verifica-se que a postulação se sustenta na alegação de ausência de dolo na conduta, cujo acolhimento depende, amplamente, do exame verticalizado do conjunto de provas amealhados ao longo da instrução, providência inviável nos estreitos limites cognitivos do habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 186.853/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2023, DJe de 1/12/2023.)
+Assim, qualquer modificação desse entendimento, no sentido de inexistência de elementos para justificar a ação penal, demanda o exame aprofundado de provas, providência incabível no âmbito do habeas corpus e do seu recurso ordinário.
+Ante o exposto, com fulcro no art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
