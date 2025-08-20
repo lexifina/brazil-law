@@ -1,0 +1,13 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por BANCO DO BRASIL SA contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões recursais, a parte embargante alega omissão quanto à validade da cláusula de eleição de foro, bem como em relação à análise da hipossuficiência da parte. Sustenta, nesse sentido, que houve apenas reprodução da parte do acórdão do TJ/SC que concluiu pela abusividade da cláusula de eleição de foro e não acatou a tese de incompetência do Juízo de Jaraguá do Sul/SC. Aduz que "Não houve a devida análise acerca da alegada hipossuficiência como fundamento do acórdão, o que não exige qualquer produção de prova ou de fatos, até porque estamos falando de cláusula firmada por escritório de advocacia e Banco sobre prestação de serviços jurídicos. Da mesma forma não houve na Decisão qualquer análise acerca da presença necessária de pelo menos 3 requisitos para anular a validade da cláusula de eleição de foro: a) que a cláusula seja aposta em contrato de adesão; b) que o aderente seja reconhecido como pessoa hipossuficiente (de forma técnica, econômica ou jurídica); e c) que isso acarrete ao aderente dificuldade de acesso à justiça,  .. " (e-STJ fls. 2010-2011)
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Não há que se falar omissão quanto à tese de incompetência territorial em razão da existência de cláusula de eleição de foro sustentada pelo embargante. Conforme mencionado na decisão unipessoal, o TJ/SC decidiu, fundamentadamente e expressamente, acerca da abusividade da cláusula de eleição de foro, considerando a presença de seus requisitos, bem como sobre a competência do Juízo de Jaraguá do Sul/SC, de modo que rever a conclusão a que se chegou o referido Tribunal exige o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ, conforme consignou-se na decisão embargada.
+Assim, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
