@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVENTIA EXTRAJUDICIAL. DESTITUIÇÃO DE OFICIAL INTERINO. CLÁUSULA DE RESERVA DE PLENÁRIO. TEMA N. 856 STF. PRAZO MÁXIMO DE SEIS MESES DE INTERINIDADE. ADI N. 1.183. RECURSO NÃO PROVIDO.
+I - Mandado de segurança impetrado contra ato do Juiz Diretor do Foro, consistente na edição da Portaria da Direção do Foro n. 004/2024 -TJMG 1ª/MZL - Comarca/MZL, a qual o destituiu da função de Oficial Interino do Cartório de Registro Civil e Notas de Mato Verde, em cumprimento ao julgamento da ADI n. 1.183 pelo Supremo Tribunal Federal (STF).
+II - "É desnecessária a submissão à regra da reserva de plenário quando a decisão judicial estiver fundada em jurisprudência do Plenário ou em Súmula deste Supremo Tribunal Federal" (Tema n. 856 -RG/STF).
+III - Na hipótese dos autos, o TJMG declarou a inconstitucionalidade da LCE n. 174/2024 na parte em que autoriza que o interino permaneça em serventia extrajudicial por período superior a seis meses, por contrariar o entendimento firmado pela Suprema Corte na ADI N. 1.183/DF, no qual foi atribuída interpretação conforme a CF ao art. 20 da Lei n. 8.935/1994, no sentido de que ultrapassado tal prazo de vacância é necessário que seja designado delegatários concursado. Deste modo, considerando que a declaração de inconstitucionalidade do art. 300-Q, § 8º, da LCE n. 59/2001 está amparada em jurisprudência do Plenário do STF, firmada no julgamento da ADI N. 1.183, não há falar em violação à cláusula de reserva de plenário (art. 97 da CF).
+IV - Consoante disposto na letra do art. 236, § 3º, da CF, não se permite que qualquer serventia fique vaga por mais de seis meses, sendo razoável concluir, assim como feito pelo TJMG, que o prazo da interinidade não possa exceder o mesmo período. Além disso, no julgamento da ADI n. 1.183, o STF consignou expressamente que o interino não concursado não poderá exercer a titularidade da serventia por mais de seis meses.
+V - Acórdão recorrido que deve ser mantido integralmente.
+VI - Recurso ordinário não provido.
+RELATÓRIO
+Trata-se de recurso ordinário em mandado de segurança interposto por Alécio Darlan Severino Mendes, com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, Alécio Darlan Severino Mendes impetrou mandado de segurança contra ato do Juiz Diretor do Foro da Comarca de Monte Azul, consistente na edição da Portaria da Direção do Foro n. 004/2024 - TJMG 1ª/MZL - Comarca/MZL, a qual o destituiu da função de Oficial Interino do Cartório de Registro Civil e Notas de Mato Verde, em cumprimento ao julgamento da ADI n. 1.183 pelo Supremo Tribunal Federal (STF).
+O Tribunal de Justiça de Minas Gerais denegou a segurança.
+O referido acórdão foi assim ementado, in verbis:
+EMENTA: DIREITO ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. SERVENTIA EXTRAJUDICIAL. DESTITUIÇÃO DE OFICIAL INTERINO. EFEITOS VINCULANTES DE DECISÃO DO STF. LEI COMPLEMENTAR ESTADUAL INCONSTITUCIONAL. SEGURANÇA DENEGADA.
+I. CASO EM EXAME
+1.MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO DO JUIZ DIRETOR DO FORO, QUE, SEGUINDO ORIENTAÇÃO DA CORREGEDORIA-GERAL DE JUSTIÇA DE MINAS GERAIS, DESTITUIU O IMPETRANTE DA FUNÇÃO DE OFICIAL INTERINO DO CARTÓRIO DE REGISTRO CIVIL E NOTAS, EM FAVOR DE NOVA INTERINA, EM CUMPRIMENTO AO JULGAMENTO DA ADI 1.183 PELO SUPREMO TRIBUNAL FEDERAL. O IMPETRANTE ALEGA QUE A PORTARIA QUE O DESTITUIU FOI TORNADA ILEGAL PELA LEI COMPLEMENTAR ESTADUAL N. 174/2024, QUE GARANTIRIA SUA PERMANÊNCIA NA FUNÇÃO ATÉ O PROVIMENTO DO CARGO POR CONCURSO PÚBLICO.
+II. QUESTÃO EM DISCUSSÃO
+2.HÁ TRÊS QUESTÕES EM DISCUSSÃO: (I) DETERMINAR SE A LEI COMPLEMENTAR ESTADUAL N. 174/2024 PODE AFASTAR A DECISÃO VINCULANTE PROFERIDA NA ADI 1.183 PELO STF; (II) AVALIAR A CONSTITUCIONALIDADE DA PERMANÊNCIA DO INTERINO NA FUNÇÃO POR PERÍODO SUPERIOR A SEIS MESES EM LOCALIDADES QUE NÃO SÃO SEDE DE COMARCA; (III) ANALISAR A VALIDADE DA DESTITUIÇÃO DO IMPETRANTE COM BASE NA ORIENTAÇÃO DA CORREGEDORIA-GERAL DE JUSTIÇA DE MINAS GERAIS.
+III. RAZÕES DE DECIDIR
+3. A LEI COMPLEMENTAR ESTADUAL N. 174/2024 É INCONSTITUCIONAL NA PARTE EM QUE PERMITE A PERMANÊNCIA DE INTERINO EM SERVENTIA EXTRAJUDICIAL VAGA POR PERÍODO SUPERIOR A SEIS MESES, CONTRARIANDO O ENTENDIMENTO DO STF NA ADI 1.183, QUE ESTABELECE A NECESSIDADE DE PROVIMENTO DA SERVENTIA POR TITULAR CONCURSADO.
+4. A INTERPRETAÇÃO DADA PELO STF NA ADI 1.183 VINCULA TODAS AS ESFERAS DO JUDICIÁRIO E DA ADMINISTRAÇÃO PÚBLICA, DE MODO QUE QUALQUER LEGISLAÇÃO ESTADUAL EM SENTIDO CONTRÁRIO NÃO PODE PREVALECER.
+5. A DESTITUIÇÃO DO IMPETRANTE PELO JUIZ DIRETOR DO FORO FOI FUNDAMENTADA E LEGÍTIMA, OBEDECENDO À DECISÃO CORREGEDORIA-GERAL DE JUSTIÇA QUE SEGUIU A ORIENTAÇÃO VINCULANTE DO SUPREMO TRIBUNAL FEDERAL EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE, QUE VEDOU A PERENIZAÇÃO DE INTERINOS EM SERVENTIAS EXTRAJUDICIAIS.
+IV. DISPOSITIVO E TESE
+SEGURANÇA DENEGADA.
+TESE DE JULGAMENTO: LEI ESTADUAL QUE PERMITE A PERMANÊNCIA DE INTERINO EM SERVENTIA EXTRAJUDICIAL VAGA POR MAIS DE SEIS MESES É INCONSTITUCIONAL, POR AFRONTAR A DECISÃO VINCULANTE DO STF NA ADI 1.183.
+DISPOSITIVOS RELEVANTES CITADOS: CF/1988, ART. 236, § 3º; LCE Nº 59/2001, ART. 300-Q, § 8º (COM REDAÇÃO DADA PELA LCE Nº 174/2024).
+JURISPRUDÊNCIA RELEVANTE CITADA: STF, ADI 1.183, REL. MIN. NUNES MARQUES, DJE 21/6/2021; STF, ED NA ADI 1.183, REL. MIN. NUNES MARQUES, DJE 24/11/2023.
+Não foram opostos embargos de declaração.
+Nas razões de recurso ordinário, sustenta que houve violação do art. 97 da Constituição Federal, pois a declaração de inconstitucionalidade do § 8º do art. 300-Q, da Lei Complementar Estadual n. 59/2001 não observou a cláusula de reserva de plenário.
+Argumenta que o dispositivo legal não contraria a Carta Magna nem o entendimento do STF na ADI n. 1.183, pois apenas regulamenta a situação das serventias extrajudiciais vagas, permitindo que interinos não concursados exerçam a função até que sejam providas por concurso público.
+Contrarrazões apresentadas às fls. 629/637.
+O Ministério Público Federal opina pelo não provimento do recurso, em parecer de lavra do Subprocurador-Geral da República, Darcy Santana Vitobello, assim ementado (fls. 670/673), in verbis:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVENTIA EXTRAJUDICIAL VAGA. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE NORMA COM BASE EM PRECEDENTE DO PLENÁRIO DA SUPREMA CORTE. AFRONTA À CLÁUSULA DE RESERVA DE PLENÁRIO NÃO CONFIGURADA. TESE FIRMADA NO TEMA 856/STF. EXERCÍCIO INTERINO DA FUNÇÃO DE NOTÁRIO POR MAIS DE SEIS MESES. VIOLAÇÃO À EXIGÊNCIA DE CONCURSO PÚBLICO PARA INVESTIDURA NO CARGO. NECESSIDADE DE DESIGNAÇÃO DE OUTRO NOTÁRIO PARA RESPONDER PELA SERVENTIA, COM A ABERTURA DE CONCURSO PÚBLICO PARA PREENCHIMENTO DA VAGA EM SEIS MESES. ENTENDIMENTO FIRMADO PELO STF NA ADI 1.183. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PELO NÃO PROVIMENTO.
+É o relatório.
+EMENTA
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVENTIA EXTRAJUDICIAL. DESTITUIÇÃO DE OFICIAL INTERINO. CLÁUSULA DE RESERVA DE PLENÁRIO. TEMA N. 856 STF. PRAZO MÁXIMO DE SEIS MESES DE INTERINIDADE. ADI N. 1.183. RECURSO NÃO PROVIDO.
+I - Mandado de segurança impetrado contra ato do Juiz Diretor do Foro, consistente na edição da Portaria da Direção do Foro n. 004/2024 -TJMG 1ª/MZL - Comarca/MZL, a qual o destituiu da função de Oficial Interino do Cartório de Registro Civil e Notas de Mato Verde, em cumprimento ao julgamento da ADI n. 1.183 pelo Supremo Tribunal Federal (STF).
+II - "É desnecessária a submissão à regra da reserva de plenário quando a decisão judicial estiver fundada em jurisprudência do Plenário ou em Súmula deste Supremo Tribunal Federal" (Tema n. 856 -RG/STF).
+III - Na hipótese dos autos, o TJMG declarou a inconstitucionalidade da LCE n. 174/2024 na parte em que autoriza que o interino permaneça em serventia extrajudicial por período superior a seis meses, por contrariar o entendimento firmado pela Suprema Corte na ADI N. 1.183/DF, no qual foi atribuída interpretação conforme a CF ao art. 20 da Lei n. 8.935/1994, no sentido de que ultrapassado tal prazo de vacância é necessário que seja designado delegatários concursado. Deste modo, considerando que a declaração de inconstitucionalidade do art. 300-Q, § 8º, da LCE n. 59/2001 está amparada em jurisprudência do Plenário do STF, firmada no julgamento da ADI N. 1.183, não há falar em violação à cláusula de reserva de plenário (art. 97 da CF).
+IV - Consoante disposto na letra do art. 236, § 3º, da CF, não se permite que qualquer serventia fique vaga por mais de seis meses, sendo razoável concluir, assim como feito pelo TJMG, que o prazo da interinidade não possa exceder o mesmo período. Além disso, no julgamento da ADI n. 1.183, o STF consignou expressamente que o interino não concursado não poderá exercer a titularidade da serventia por mais de seis meses.
+V - Acórdão recorrido que deve ser mantido integralmente.
+VI - Recurso ordinário não provido.
+VOTO
+Nos termos da jurisprudência pacífica do Supremo Tribunal Federal, cristalizada no Tema n. 856 de repercussão geral, "É desnecessária a submissão à regra da reserva de plenário quando a decisão judicial estiver fundada em jurisprudência do Plenário ou em Súmula deste Supremo Tribunal Federal".
+Na mesma linha:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. ART. 97 DA CF. RESERVA DE PLENÁRIO. DESNECESSIDADE. TEMA N. 856/STF. NEGATIVA DE SEGUIMENTO. DIREITO PROCESSUAL CIVIL. ART. 16 DA LEI N. 7.347/1985. INCONSTITUCIONALIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE. TEMA N. 1.075/STF.
+1. O Supremo Tribunal Federal, no julgamento do ARE n. 914.045, sob o regime da repercussão geral, firmou a tese de que: "É desnecessária a submissão à regra da reserva de plenário quando a decisão judicial estiver fundada em jurisprudência do Plenário ou em Súmula deste Supremo Tribunal Federal" (Tema n. 856/STF).
+2. No caso, o acórdão proferido pelo STJ está em sintonia com a orientação firmada pelo STF, que, em repercussão geral (Tema n. 1.075), declarou a inconstitucionalidade do art. 16 da Lei n. 7.347/1985.
+3. Agravo interno a que se nega provimento.
+(AgInt no RE no REsp n. 1.658.568/RJ, relator Ministro Og Fernandes, CORTE ESPECIAL, julgado em 26/9/2023, DJe de 29/9/2023.)
+Na hipótese dos autos, o TJMG declarou a inconstitucionalidade da LCE n. 174/2024 na parte em que autoriza que o interino permaneça em serventia extrajudicial por período superior a seis meses, por contrariar o entendimento firmado pela Suprema Corte na ADI n. 1.183/DF, no qual foi atribuída interpretação conforme a CF ao art. 20 da Lei n. 8.935/1994, no sentido de que ultrapassado tal prazo de vacância é necessário que seja designado delegatários concursado.
+Confira-se:
+Percebe-se, portanto, que o conteúdo posterior da norma estadual é manifestamente inconstitucional em face do julgamento da ADI 1.183 porque a regra vinculativa a orientar o julgamento do STF foi aquela segundo a qual o exercício interino das funções é temporário e limitado, devendo haver substituição dos não concursados até que a vaga seja preenchida por titular concursado.
+Destaco que a inconstitucionalidade da lei estadual ora reconhecida dispensa a observância da reserva de plenário (art. 97, CF - Tema 856), porque existe padrão decisório do STF que atesta a desconformidade deste ato legislativo com o texto constitucional:
+( )
+Por certo, o legislador estadual não pode legislar sobre forma de provimento em caso de interinidade de forma distinta daquela prevista pela lei federal que organiza e disciplina as serventias extrajudiciais, especialmente após juízo de valor feito pela Suprema Corte no sentido de eliminar qualquer interpretação que pudesse eternizar o interino em serventia não ocupada e pendente de preenchimento por concurso público.
+A interpretação dada pelo STF foi no sentido de que a validade temporal máxima da interinidade é de seis meses, e, superado este intervalo de tempo, a serventia deve ser provisoriamente provida por oficial concursado de outra serventia até a realização de concurso público.
+É necessário enfatizar que isso, por si só, basta para considerar que o ato administrativo praticado pelo Juiz Diretor do Foro em atendimento à orientação da Corregedoria-Geral de Justiça está correto e fundamentados na decisão vinculante proferida pela Suprema Corte.
+A perenização do interino na serventia extrajudicial vaga não é mais possível quando vencido o prazo de seis meses da designação precária do não concursado.
+A lei complementar estadual, portanto, que incluiu a alteração posteriormente à decisão do STF (art. 300-Q, § 8º, da LCE nº 59/2001, com a redação dada pela LCE nº 174/2024) é inconstitucional e não pode legitimar a pretensão do impetrante de revogar o ato administrativo que o afastou da interinidade porque afronta a decisão proferida na ADI 1.183. (fls. 458/459)
+Deste modo, considerando que a declaração de inconstitucionalidade do art. 300-Q, § 8º, da LCE n. 59/2001 está amparada em jurisprudência do Plenário do STF, firmada no julgamento da ADI n. 1.183, não há falar em violação à cláusula de reserva de plenário (art. 97 da CF).
+No mais, não merece melhor sorte a presente irresignação.
+O art. 236 da CF dispõe que:
+Art. 236. Os serviços notariais e de registro são exercidos em caráter privado, por delegação do Poder Público.
+(..)
+§ 3º O ingresso na atividade notarial e de registro depende de concurso público de provas e títulos, não se permitindo que qualquer serventia fique vaga, sem abertura de concurso de provimento ou de remoção, por mais de seis meses.
+Nos termos da lei que regulamenta o referido dispositivo constitucional, qual seja, a Lei n. 8.935/1994, os notários e oficiais de registro encaminharão ao Juízo competente os nomes dos substitutos, os quais poderão praticar todos os atos próprios daqueles, exceto lavrar testamentos, sendo um deles designado para responder pelo respectivo serviço nas ausências e impedimentos dos delegatários (art. 20, §§ 2º a 5º).
+Todavia, não há menção legal quanto ao prazo máximo de interinidade na hipótese de afastamento do titular.
+Ocorre que, consoante disposto na letra do art. 236, § 3º, da CF, não se permite que qualquer serventia fique vaga por mais de seis meses, sendo razoável concluir, assim como feito pelo TJMG, que o prazo da interinidade não possa exceder o mesmo período.
+Ademais, no julgamento da ADI n. 1.183, o STF consignou expressamente que o interino não concursado não poderá exercer a titularidade da serventia por mais de seis meses.
+Confira-se trecho do voto proferido nos ED na ADI n. 1.183, da relatoria do Ministro Nunes Marques, mencionado no voto condutor do acórdão ora recorrido, à fl. 457, ipsis litteris:
+Portanto, o agente não concursado ficará limitado a exercer a titularidade da serventia por, no máximo, seis meses apenas em caso de vacância, isto é, somente na hipótese de ele se encontrar na interinidade do cartório, porque nesse caso age em nome próprio e por conta própria, sem se reportar a um titular. O estabelecimento desse prazo encontra amparo no art. 236, § 3º, da Carta Federal:
+(..)
+Ora, se o substituto age por conta e em nome do titular, não há prazo certo para o exercício dessa atribuição. Cabe, pois, ao Tribunal de Justiça respectivo avaliar se há, em cada caso concreto, abuso na utilização da mão de obra do preposto. Entretanto, na falta de titular na serventia, a interinidade do não concursado deve ser evitada ou restringida ao prazo de seis meses, preferindo-se, sempre, substitutos concursados com a titularidade de outras serventias, salvo quando não houver interessados, situação que o Tribunal de Justiça resolverá.
+Nesse contexto, não merece reparos o acórdão ora recorrido.
+Ante o exposto, nego provimento ao recurso ordinário.
+É o voto.
