@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Banco Safra S.A., desafiando decisão que não conheceu do agravo em recurso especial por si interposto, à incidência da Súmula 182/STJ, tendo em vista que a parte agravante deixou de impugnar, de maneira específica, a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, a saber, o empeço sumular 7/STJ.
+A parte embargante, em suas razões, aponta que a decisão embargada incorreu em obscuridade entender pela incidência da referida súmula à espécie, porquanto "a empresa destacou que a decisão do TRF-3 ignorou a aplicabilidade do artigo 506 do CPC, norma cogente sobre a qual não se pode deliberar. É de destacar ainda que o próprio TRF-3 havia acolhido a pretensão autoral, afastando do FAP 2012 o benefício que a empresa pretendia ver igualmente afastado do FAP 2013, o que era o objeto da ação. Note-se, portanto, que a matéria foi devidamente pontuada em seu Recurso Especial, tendo sido feito um completo cotejamento com a decisão proferida pelo TRF-3, razão pela qual incorre em obscuridade a decisão proferida ao alegar o contrário" (fl. 1.024).
+Decorreu in albis o prazo para impugnação (fl.1.033).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+O vício da obscuridade dá-se quando falta clareza na decisão, implicando evidente dificuldade na compreensão do julgado. A esse respeito, citam-se: EDcl no AgRg nos EREsp 1172175/PR, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 17/4/2013, DJe 21/6/2013; AgRg no REsp 677.210/SP, Rel. Ministro Hamilton Carvalhido, Sexta Turma, julgado em 18/8/2005, DJ 3/10/2005, p. 352.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, verifica-se que a decisão objurgada não foi obscura ao entender pela impossibilidade de conhecimento do agravo em recurso especial, sendo aplicável, in casu, o empeço sumular 182 desta Corte, tendo em vista que a parte ora embargante, nas razões de agravo, não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar especificamente a inaplicabilidade do anteparo sumular 7/STJ. Assim, em nada aproveita à parte ora insurgente a alegação de existência de obscuridade ao argumento de que não teria o decisum observado que "a empresa destacou que a decisão do TRF-3 ignorou a aplicabilidade do artigo 506 do CPC, norma cogente sobre a qual não se pode deliberar" (fl.1.024).
+Como se vê, não existe omissão no julgado embargado capaz de abrir pórtico para o cabimento dos embargos aclaratórios. Aliás, da própria fundamentação do recurso aclaratório apresentado pelo embargante, vê-se que sua intenção é apontar a existência de error in judicando, propósito esse incompatível com a via integrativa.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp n. 666.334/RS, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 22/8/2018, DJe 28/8/2018.)
+Inexistente, pois, qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+Publique-se.
+EMENTA
