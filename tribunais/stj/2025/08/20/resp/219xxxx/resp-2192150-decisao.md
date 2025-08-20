@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fls. 160-165):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - SERVIDOR PÚBLICO - AGENTE DE SEGURANÇA PENITENCIÁRIO - OBJETO - ADICIONAL NOTURNO E DE LOCAL DE TRABALHO - PAGAMENTO DEVIDO - LEI ESTADUAL N. 11.717/94 - REQUISITOS DEMONSTRADOS - CABIMENTO ATÉ O ADVENTO DA LEI ESTADUAL N. 21.333/14 - ORIENTAÇÃO JURISPRUDENCIAL (TEMA N. 32 / TJMG) - PEDIDO JULGADO PROCEDENTE.
+- O Agente de Segurança Penitenciário do Estado de Minas Gerais, contratado temporariamente de forma válida, faz jus ao recebimento dos adicionais de local de trabalho e noturno, quando comprovado o preenchimento dos requisitos legais.
+- Sentença reformada.
+Embargos de declaração rejeitados (fls. 227-231).
+A parte recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, a saber: (a) ocorrência de coisa julgada em razão da decisão proferida no processo n. 5004234-89.2019.8.13.0145, na qual foi reconhecida a nulidade da contratação; (b) necessidade de manifestação sobre a conexão entre os processos (fl. 266-275).
+Quanto ao mais, sustenta afronta dos arts. 55, § 3º, e 337, § 5º, do CPC/2015, defendendo que houve violação ao tratar da conexão entre os processos e que a questão da coisa julgada deveria ter sido conhecida de ofício.
+Com contrarrazões (fl. 279-284).
+Juízo positivo de admissibilidade às (fl. 289-290).
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, é de se observar que a parte recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional, pois remanescem omissas questões indispensáveis ao julgamento da controvérsia.
+Com efeito, extrai-se dos autos que a parte recorrente - nos declaratórios -, argumentou e requereu a manifestação expressa do órgão julgador acerca do seguinte (fls. 168-170):
+Este Colendo Tribunal, considerando válida a contratação, condenou o Estado de Minas Gerais ao pagamento do adicional de local de trabalho - ALT.
+Todavia, houve, no Processo nº 5004234-89.2019.8.13.0145 (Processo nº 1.0000.23.183253-6/001 no TJMG), declaração da nulidade da contratação e condenação ao FGTS, em decisão ainda não transitada em julgado, conforme comprovado em anexo.
+O Supremo Tribunal Federal, no julgamento, com repercussão geral, do Tema nº 916 (RE nº 765.320/MG), firmou o entendimento de que a contratação temporária declarada nula não gera efeitos válidos, com exceção do direito à percepção dos salários referentes ao período trabalhado e ao levantamento dos depósitos efetuados no FGTS.
+Destarte, o entendimento do acórdão diverge daquele firmado pelo Supremo Tribunal Federal, no RE 765.320. Portanto, requer a V. Exa. o conhecimento e a procedência dos presentes embargos de declaração, para sanar a omissão suscitada acima, a fim de que, conhecido e acatado o entendimento fixado no RE 765.320, seja dado efeito modificativo ao v. acórdão embargado, para afastar a condenação do Estado ao adicional de local de trabalho, diante da nulidade declarada em outra ação, que pode ser alegada em qualquer tempo e grau de jurisdição.
+Dessa forma, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação completa da tutela jurisdicional.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. OCORRÊNCIA. CORTE DE ORIGEM NÃO SE MANIFESTOU SOBRE QUESTÃO QUE JÁ HAVIA SIDO CONSIDERADA RELEVANTE PARA A CONTROVÉRSIA PELO STJ. REEXAME NECESSÁRIO. AMPLO EFEITO DEVOLUTIVO. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO A QUALQUER TEMPO.
+1. O Tribunal de origem, ainda que provocado em sede de embargos declaratórios e mesmo diante de decisão anterior do STJ reconhecendo a existência de omissão, quedou silente sobre argumentação relevante ao deslinde da controvérsia, em franca violação ao art. 535 do CPC/73.
+2. Vigora no STJ o posicionamento de que "O amplo efeito devolutivo da remessa necessária conjura o princípio tantum devolutum quantum appelatum uma vez que não limita o conhecimento do Tribunal a quo à matéria efetivamente impugnada no recurso de apelação pelo ente público" (EDcl no AgRg nos EDcl no REsp 1.108.636/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/11/2010, DJe 1º/12/2010).
+3. "As questões cognoscíveis de ofício na instância ordinária, especialmente as que tratam de matéria de ordem pública, devem ser analisadas nos Embargos de Declaração apresentados na origem, independentemente da ocorrência de omissão" (REsp 1.571.901/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 19/12/2016).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.700.340/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022.) (grifei)
+Ademais, observo ainda tratar-se de questões que, se acolhidas, poderiam levar o julgamento a um resultado diverso do proclamado. Além disso, a não apreciação da tese, a tempo e modo adequados, impede o acesso à instância extraordinária, caracterizando, portanto, a omissão no julgado.
+Ante o exposto, dou provimento ao recurso especial, para anular o acórdão em sede de embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da contro vérsias suscitadas e aqui consideradas omitidas.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE COBRANÇA. SERVIDOR PÚBLICO TEMPORÁRIO. CONEXÃO E COISA JULGADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO JULGADO. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PROVIDO.
