@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo ESTADO DA PARAÍBA, com fundamento na incidência  da Súmula  7 deste STJ.
+Em suas razões recursais, a parte agravante, sustenta, em síntese, que a indenização fixada em R$ 10.000,00 (dez mil reais), para cada recorrido, se mostra exorbitante.
+Contraminuta apresentada (fls. 212-214).
+É o relatório.
+Passo a decidir.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Nesse panorama, assim como fixado em primeiro grau, inegável que houve falha na prestação do serviço, diante da ausência de cuidado, diligência e zelo pelos profissionais do hospital ao inobservar o PROCEDIMENTO OPERACIONAL PADRÃO - POP de PREPARO E TRANSPORTE DO CORPO PÓS MORTE, que entregando aos autores o cadáver de pessoa estranha, que havia morrido de causas naturais, ensejou o sepultamento de corpo diverso do esposo e pai dos Recorridos.
+Dessa forma considerando que houve nos autos a comprovação do nexo causal entre o ato dos profissionais do Hospital e o evento danoso, deve ser mantida a condenação do Ente Público a pagar a indenização pela lesão extrapatrimonial, notadamente porque não foi colacionado aos autos qualquer elemento probatório extintivo, modificativo ou impeditivo do direito autoral.
+Portanto, a condenação do Estado da Paraíba está arrimada na falha do atendimento no hospital, na violação do dever legal da prestação dos seus serviços com boa qualidade.
+Materializado o dano moral, passa-se a analisar se a quantia arbitrada pelo Juízo atendeu aos limites traçados pelo ordenamento jurídico.
+Quanto à fixação do valor da indenização, deve-se atentar para as condições econômicas da vítima e do ofensor, e os danos causados, levando-se em conta o seu caráter punitivo e pedagógico para o agente, e compensatório para a vítima, não podendo configurar enriquecimento ilícito.
+Assim, entende-se que o conceito de ressarcimento deve abranger duas forças: uma de caráter punitivo e pedagógico, no intuito de desestimular o ofensor a reiterar a conduta reprimida pelo ordenamento; e outra de caráter compensatório, a fim de proporcionar à vítima algum bem em contrapartida ao mal sofrido.
+No caso dos autos, levando em consideração as peculiaridades da demanda, entendo que o valor arbitrado na sentença recorrida - R$10.000,00 (dez mil reais) para cada um dos autores - revela-se condizente com o caso e dentro dos limites da razoabilidade e proporcionalidade, não implicando em enriquecimento ilícito para os demandantes, devendo, no meu sentir, ser mantido (fls. 175-176).
+No caso, a alteração da conclusão do Tribunal local atrai a incidência da Súmula 7 deste STJ, uma vez que, muito embora essa Corte possa atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Na mesma linha, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. ERRO MÉDICO. FALECIMENTO DO FILHO DA AUTORA. PREMISSAS FIXADAS PELO TRIBUNAL DE ORIGEM ACERCA DA DEMONSTRAÇÃO DA NEGLIGÊNCIA MÉDICA, DA INEFICIÊNCIA DE SOCORRO E DA PRECARIEDADE DO SERVIÇO DE SAÚDE PRESTADO PELO ENTE MUNICIPAL. DEVER DE INDENIZAR. QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. PRETENSÃO DE REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO (AgInt no AREsp n. 1.985.460/ES, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO DE DANOS MORAIS. ERRO MÉDICO. RESPONSABILIDADE CIVIL DO ESTADO. VALOR DO DANO MORAL. SÚMULA N. 7/STJ.
+1. A jurisprudência do STJ está pacificada no sentido de que a revisão dos valores fixados a título de danos morais somente é possível quando exorbitantes ou insignificantes, o que não ocorreu na hipótese dos autos. A análise acerca da razoabilidade e da proporcionalidade do quantum indenizatório demanda reexame das provas dos autos e, portanto, esbarra no óbice da Súmula n. 7/STJ.
+2. Quanto à interposição pela alínea "c", esta Corte tem entendimento no sentido de que a incidência da Súmula n. 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+Agravo interno improvido (AgInt no AREsp n. 1.887.178/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 15/12/2022, DJe de 20/12/2022).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
