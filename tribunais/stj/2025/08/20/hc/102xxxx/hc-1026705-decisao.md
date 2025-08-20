@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de SANDRO CUNHA DA ROCHA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"Agravo em execução. Remição de penas. Remição pela leitura. Não cabimento. Ausência de previsão legal. Não provimento ao recurso." (e-STJ, fl. 10).
+Neste writ, a Defensoria Pública alega flagrante ilegalidade suportada pelo paciente relativa ao indeferimento do pedido de remição de 4 (quatro) dias de sua pena pela leitura do livro "Crime e Castigo", de Fiódor Dostoiévski. Assevera que a decisão contraria os arts. 126 a 129 da LEP e a Recomendação CNJ n. 44/2013.
+Afirma, ainda, que "o não reconhecimento da remição pela leitura é que constitui frontal violação ao princípio da legalidade, já que se estaria negando ao condenado verdadeira remição por estudo, garantida expressamente pela Lei de Execuções Penais e estimulada pela Constituição Federal." (e-STJ, fl. 7).
+Requer, ao final, que seja concedida a remição de 4 (quatro) dias da pena do paciente pela leitura do referido livro.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O benefício foi negado ao paciente porquanto "a leitura de obras literárias consiste em mera atividade recreativa (artigo 21 da Lei de Execução Penal) e não se enquadra nas hipóteses legais de remição de penas." (e-STJ, fl. 12).
+Segundo reiterada jurisprudência desta Corte, é possível a remição de parte do tempo da execução da pena pela atividade de leitura, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da Lei de Execução Penal e em conformidade com a Recomendação n. 44/2013 e Resolução n. 391/2021 do Conselho Nacional de Justiça, bem como a Portaria Conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal.
+Ilustrativamente, confiram-se:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 126 DA LEP. REMIÇÃO DA PENA PELA LEITURA. POSSIBILIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM DISSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. PARECER DO MINISTÉRIO PÚBLICO FEDERAL ACOLHIDO COMO RAZÕES DE DECIDIR. JURISPRUDÊNCIA DO STJ. DETERMINADO O RETORNO DOS AUTOS À ORIGEM PARA APLICAÇÃO DA REMIÇÃO DA PENA.
+Agravo regimental provido para conhecer do agravo e dar provimento ao recurso especial. Determinado o retorno dos autos à origem para que seja reconhecida a remição da pena pela leitura." (AgRg no AREsp n. 2.747.335/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2024, DJEN de 16/12/2024.)
+"DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR LEITURA. PROJETO FORMALIZADO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu habeas corpus para restabelecer decisão do juiz da execução, autorizando a remição de pena por leitura de obras literárias.
+2. O agravado teve deferido o pedido de remição com base em leitura, decisão posteriormente cassada após recurso do MP.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a remição de pena por leitura, não expressamente prevista no art. 126 da Lei de Execução Penal, pode ser autorizada com base em interpretação extensiva e Resolução do CNJ.
+4. Alega-se que a falta de previsão legal não pode ser suprida por Resolução do CNJ, em respeito à separação dos poderes.
+III. Razões de decidir
+5. A jurisprudência do STJ admite a remição por leitura, em interpretação extensiva do art. 126 da LEP, desde que atendidos os requisitos estabelecidos em Resolução do CNJ.
+6. A decisão agravada foi mantida por seus próprios fundamentos, não havendo argumentos novos no agravo regimental que justifiquem sua reforma. No caso concreto, o apenado participava de grupo formal de leitura, em projeto oficial e legalmente instituído.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A remição de pena por leitura é admissível em interpretação extensiva do art. 126 da LEP, desde que atendidos os requisitos da Resolução do CNJ. 2. A falta de previsão legal específica não impede a remição por leitura, desde que devidamente comprovada e, em especial, quando em projeto formalizado".
+Dispositivos relevantes citados: LEP, art. 126; Resolução CNJ nº 391/2021.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1.935.335/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/6/2021; STJ, AgRg no HC n. 692.779/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/2/2022." (AgRg no HC n. 897.728/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/11/2024, DJEN de 5/12/2024.)
+Da mesma forma, este Tribunal Superior entende que a documentação comprobatória deve incluir relatório de leitura homologado pela Comissão de Validação da unidade prisional. Nesse sentido:
+"DIREITO PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. REMIÇÃO DE PENA PELA LEITURA. HOMOLOGAÇÃO PELA COMISSÃO COMPETENTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que rejeitou embargos de declaração em habeas corpus, os quais visavam ao reconhecimento do direito à remição de pena pela leitura.
+2. Fato relevante. O agravante apresentou documentação comprobatória, incluindo Relatório de Leitura expedido pela FUNAP e homologado pela Comissão de Validação, demonstrando o cumprimento dos requisitos para a remição de pena pela leitura.
+3. As decisões anteriores. A decisão recorrida rejeitou os embargos de declaração, alegando ausência de comprovação dos requisitos para a remição, como a data de retirada dos livros e a existência de Comissão de Validação.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a documentação apresentada pelo agravante é suficiente para comprovar o direito à remição de pena pela leitura, conforme previsto na legislação e na Resolução n. 391/2021 do CNJ.
+III. Razões de decidir
+5. A documentação apresentada pelo agravante, incluindo o Relatório de Leitura validado pela FUNAP e homologado pela Comissão de Validação, comprova o cumprimento dos requisitos exigidos para a remição de pena pela leitura.
+6. A negativa de remição pela leitura, diante da comprovação dos requisitos, configura violação ao princípio da legalidade, uma vez que a Lei de Execução Penal já prevê a remição por estudo, e a leitura é uma modalidade válida.
+7. O Ministério Público Federal manifestou-se favoravelmente ao pleito do agravante, corroborando a validade da documentação apresentada e o direito à remição de pena pela leitura.
+IV. Dispositivo e tese
+8. Agravo regimental provido para cassar o acórdão impugnado e determinar ao Juízo de Execução que proceda ao registro dos dias remidos pela leitura a que faz jus o agravante.
+Tese de julgamento: "1. A documentação validada e homologada por comissão competente comprova o direito à remição de pena pela leitura. 2. A remição pela leitura é respaldada pela legislação e pela Resolução n. 391/2021 do CNJ, equiparando-se ao estudo para fins de remição de pena".
+Dispositivos relevantes citados: LEP, arts. 126 a 129; Resolução nº 391/2021 do CNJ. Jurisprudência relevante citada: Não há jurisprudência relevante citada." (AgRg nos EDcl no HC n. 954.160/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR CURSOS À DISTÂNCIA. REQUISITOS NÃO PREENCHIDOS (AUSÊNCIA DE CERTIFICAÇÃO FEITA PELA AUTORIDADE EDUCACIONAL COMPETENTE E FALTA DE INFORMAÇÕES SOBRE AS HORAS EFETIVAMENTE ESTUDADAS). REMIÇÃO POR LEITURA. RESOLUÇÃO N. 391/CNJ. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. REVISÃO DO ENTENDIMENTO ADOTADO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+ ..
+4. Quanto ao pedido de remição por leitura, o Tribunal de origem entendeu que as resenhas apresentadas pelo paciente, acostadas nos autos de origem, foram realizadas sem conhecimento/supervisão da unidade prisional onde ele se encontra recluso.
+5. No caso, não ficou comprovado que a leitura de obras literárias foram orientadas por projeto desenvolvido pelo estabelecimento prisional e tampouco submetidas a prévia avaliação pela comissão avaliadora competente, portanto, não atenderam os parâmetros de validade estabelecidos na Recomendação n. 44/2013 do CNJ e na Resolução do Conselho Nacional de Justiça n. 391, de 10/5/2021.
+6. A revisão do entendimento adotado pela instância de origem para decidir de forma contrária, acolhendo-se o pedido defensivo, demandaria o revolvimento fático-probatório, obstado na estreita via do habeas corpus.
+7. Agravo regimental desprovido." (AgRg no HC n. 781.776/SP, de minha relatoria, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA LEITURA. RESOLUÇÃO N. 391/CNJ. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. WRIT DENEGADO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Para fins de remição da pena pela leitura, a legislação de regência exige que o sentenciado faça o registro do empréstimo da obra do acervo, que será também registrado pela equipe de gestão prisional para contagem do tempo de leitura e recolhimento da obra; além disso, a leitura de obras literárias deve ser comprovada por meio de relatório de leitura, que será analisado pela comissão de validação criada pelo juízo competente para esse fim.
+2. No caso, as instâncias ordinárias afirmaram que o agravante não desenvolveu nenhuma resenha na unidade e nem participou de oficina de leitura, por não ser inscrito, bem como não registrou o empréstimo de obra literária do acervo da biblioteca da unidade, nem cumpriu com os demais requisitos.
+3. Assim, não cumpridos os requisitos previstos na legislação que prevê a remição da pena pela leitura, não há ilegalidade na decisão que indeferiu o benefício.
+4. Agravo regimental improvido." (AgRg no HC n. 759.301/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Por fim, v ale sublinhar que a Terceira Seção desta Corte Superior julgou o REsp n. 2.121.878/SP - afetado como representativo da controvérsia -, na sessão realizada em 13/8/2025, ocasião em que assentou, à unanimidade de seus membros, a seguinte tese: "Em decorrência dos objetivos da execução penal, a leitura pode resultar na remição de pena, com fundamento no art. 126 da Lei de Execução Penal, desde que observados os requisitos previstos para sua validação, não podendo ser acolhido o atestado realizado por profissional contratado pelo apenado." (Tema n. 1.278).
+Nesse contexto, observo flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus. Não obstante, concedo a ordem, de ofício, para determinar ao Juízo das Execuções que proceda à remição da pena do paciente em razão da leitura de uma obra literária ("Crime e Castigo", de Fiódor Dostoiévski), caso preenchidos todos os requisitos necessários, conforme previstos no art. 126 da Lei de Execução Penal e normativos acima citados, bem como nos moldes delineados pela jurisprudência deste Superior Tribunal de Justiça.
+Comunique-se, com urgência, ao Tribunal de Justiça e ao Juízo das Execuções Penais.
+Publique-se. Intime-se.
+EMENTA
