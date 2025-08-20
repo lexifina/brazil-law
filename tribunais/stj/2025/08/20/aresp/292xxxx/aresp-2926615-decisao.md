@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS DA SILVA GRILLO contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula 83/STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 63):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ATUALIZAÇÃO DE VALORES. TEMA 810. PRECLUSÃO.
+Verificada a concordância da parte credora com a incidência da taxa referencial (TR) como índice de correção monetária em parte do período de apuração do débito executado, descabida a posterior alteração do índice por força do decidido no Tema 810 do STF, ante a incidência da preclusão lógica. Precedentes.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 99-100).
+No recurso especial (fls. 112-135), interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, a parte recorrente alega, além de dissídio jurisprudencial, violação do artigo 223 do CPC/2015, ao argumento de que não se verifica a ocorrência da prescrição dou da preclusão pelo fato da concordância com o cálculo apresentado pelo recorrido, pois os juros de mora e a correção monetária são consectários legais da condenação, possuindo natureza eminentemente processual, e se caracterizam como matéria de ordem pública, sendo cabível o seu pronunciamento de ofício; aduzindo que a concordância com os cálculos, que utilizaram a TR para correção monetária, antes da prolação de decisão definitiva pelo Supremo Tribunal Federal nos autos do RE 870.947 (Tema 810/STF), não caracteriza a renúncia ao direito ao índice reconhecido como aplicável após o julgamento proferido por aquela Corte Suprema.
+Com contrarrazões (fls. 145-153).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No caso, o Tribunal de origem assim dirimiu a controvérsia (fl. 62):
+ ..
+No caso concreto, observa-se que a parte credora apresentou pedido de cumprimento de sentença, em 13/09/2017, com cálculos iniciais já contemplando a TR (evento 3, PROCJUDIC5, fl. 5 e seguintes, origem), tal como constante no título executivo judicial.
+Intimado, o Estado apresentou impugnação ao cumprimento de sentença (evento 3, PROCJUDIC6, fl. 33, origem), também apresentando cálculos que utilizavam a TR, o que foi expressamente aceito pelo credor, em 22/06/2018 (evento 3, PROCJUDIC6, fl. 42, origem).
+Intimada da expedição da requisição, a parte credora peticionou, em 10/09/2018, informando o protocolo (evento 3, PROCJUDIC7, fl. 1, origem), nada referindo sobre os critérios de correção monetária.
+Somente em 14/12/2023 a parte autora veio aos autos requerer a modificação do índice de correção monetária na forma do Tema 810 do STF, com o pagamento das diferenças via requisição complementar (evento 17, origem).
+Como se vê, a hipótese é de reconhecimento da preclusão lógica, sendo defeso à parte credora praticar ato contrário ao anteriormente realizado, impugnando o índice de correção monetária com o qual expressamente concordou e em relação ao qual, em sucessivas manifestações posteriores, mesmo após a decisão do Supremo Tribunal Federal reconhecendo a inconstitucionalidade da TR data de 20/09/2017, quedou-se silente, razão pela qual deve ser reformada a decisão recorrida.
+ ..
+A irresignação prospera, porque o acórdão recorrido destoa da jurisprudência do STJ segundo a qual os juros de mora e a correção monetária, como encargos acessórios da obrigação principal, possuem caráter eminentemente processual e devem ser incluídos na conta de liquidação, ainda que já homologado o cálculo anterior, inexistindo preclusão ou ofensa à coisa julgada por causa dessa inclusão.
+Com efeito, "a Primeira Seção do STJ, no julgamento do REsp 1.112.746 /DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicada no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada" (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/9/2015, DJe de 25/9/2015).
+Tal entendimento é aplicável, inclusive, aos casos nos quais se alega a ocorrência de preclusão, conforme precedentes abaixo:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. MODIFICAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA. PRECLUSÃO. INOCORRÊNCIA. CONSECTÁRIO LEGAL DA CONDENAÇÃO. TEMA 1170/STF. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ permite a alteração dos índices de correção monetária e juros a qualquer tempo na instância ordinária, podendo até mesmo ser conhecida de ofício, sem caracterizar preclusão (AgInt no REsp n. 2.156.620/SC, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024).
+2. O entendimento do STF, firmado em sede de repercussão geral, é no sentido de que "é aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecidos no art. 1º-F da Lei n. 9494/97, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado" (Tema 1170/STF).
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.156.775/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 21/5/2025, DJEN de 27/5/2025).
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO MILITAR. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO IMPOSTA À FAZENDA PÚBLICA. JUROS DE MORA E CORREÇÃO MONETÁRIA. TEMA N. 1.170 DO STF. APLICABILIDADE IMEDIATA. AUSÊNCIA DE PRECLUSÃO. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Esta Corte Superior de Justiça firmou a compreensão no sentido de que "os juros de mora e a correção monetária são encargos acessórios da obrigação principal, possuindo caráter eminentemente processual e devem ser incluídos na conta de liquidação, ainda que já homologado o cálculo anterior, inexistindo preclusão ou ofensa à coisa julgada por causa dessa inclusão. Assim, as alterações do art. 1º-F da Lei n. 9.494/1997, introduzidas pela Medida Provisória n. 2.180-35/2001 e pela Lei n. 11.960/2009, têm aplicação imediata a todas as demandas judiciais em trâmite, com base no princípio tempus regit actum" (AgInt no REsp n. 2.152.065/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024).
+4. O Supremo Tribunal Federal, no julgamento do Tema n. 1.170 de repercussão geral (RE n. 1.317.982/ES, relator Ministro Nunes Margues, Tribunal Pleno, Julgado em 12/12/2023, DJe de 8/1/2024), fixou a tese de que "é aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado".
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.158.854/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025).
+PROCESSUAL CIVIL. JUROS DE MORA. PRECLUSÃO. INOCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA.
+1. É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado (Tema nº 1170/STF).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.133.424/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Por estar em dissonância com tal entendimento, merece reparos o acórdão recorrido para afastar a ocorrência da preclusão no caso.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ÍNDICE DE CORREÇÃO MONETÁRIA. TEMA 810/STF. POSSIBILIDADE DE ALTERAÇÃO. INEXISTÊNCIA DE PRECLUSÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
