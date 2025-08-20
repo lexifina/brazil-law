@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Embargos de declaração. Tráfico de drogas. Minorante do tráfico privilegiado. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos pelo Ministério Público contra acórdão que deu provimento ao agravo regimental interposto por condenado por tráfico de drogas, redimensionando a pena e aplicando a minorante do tráfico privilegiado.
+2. Fato relevante. O paciente foi condenado por tráfico de drogas, com pena inicial de 5 anos de reclusão, aumentada para 7 anos e 6 meses pelo TJSP, sem aplicação da minorante do tráfico privilegiado, apesar de ser primário e não haver prova de associação criminosa.
+3. Nas decisões anteriores, o juiz de primeiro grau negou a aplicação da minorante em razão da quantidade e variedade de drogas apreendidas. O TJSP majorou a pena-base e manteve a não aplicação da minorante, considerando a habitualidade no tráfico.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a quantidade e a variedade de drogas apreendidas podem, por si sós, afastar a aplicação da minorante do tráfico privilegiado prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. Razões de decidir
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que a quantidade de drogas pode modular a fração de diminuição da pena, mas não afastar, por si só, o benefício da minorante do tráfico privilegiado na ausência de outros elementos que comprovem dedicação habitual ao tráfico ou vínculo com organização criminosa.
+6. A grande quantidade de droga já foi usada como fundamento para aumentar a pena-base imposta ao paciente, e a habitualidade foi afastada pelas instâncias ordinárias pela falta de prova de vínculo associativo com o corréu.
+IV. Dispositivo e tese
+7. Embargos rejeitados.
+Tese de julgamento: "1. A quantidade de drogas apreendidas pode modular a fração de diminuição da pena, mas não afastar, por si só, o benefício da minorante do tráfico privilegiado".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; Código Penal, arts. 33, § 3º, 44 e 59.
+Jurisprudência relevante citada: AgRg no HC n. 918.516/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025; AgRg no AR Esp n. 2.643.762/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/8/2024; AgRg no R Esp n. 2.056.007/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/5/2023; AgRg no HC n. 941.481/GO, minha relatoria, Quinta Turma, julgado em 19/2/2025; AgRg no HC n. 885.148/SP, minha relatoria, Quinta Turma, julgado em 1/07/2024.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO em face de acórdão que deu provimento ao agravo regimental interposto por PEDRO DE MATOS MARIA, cuja ementa segue (fls. 192/193):
+"DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. MINORANTE DOTRÁFICO PRIVILEGIADO. AGRAVO PROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus impetrado contra acórdão do TJSP que aumentou a pena de condenado por tráfico de drogas, sem aplicação da minorante do tráfico privilegiado.
+2. Fato relevante. O paciente foi condenado por tráfico de drogas, com pena inicial de 5anos de reclusão, aumentada para 7 anos e 6 meses pelo TJSP, sem aplicação da minorante do tráfico privilegiado, apesar de ser primário e não haver prova de associação criminosa.
+3. As decisões anteriores. O juiz de primeiro grau negou a aplicação da minorante em razão da quantidade e variedade de drogas apreendidas. O TJSP majorou a pena-base e manteve a não aplicação da minorante, considerando a habitualidade no tráfico.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a quantidade e a variedade de drogas apreendidas podem, por si sós, afastar a aplicação da minorante do tráfico privilegiado prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que a quantidade de drogas pode modular a fração de diminuição da pena, mas não afastar, por si só, o benefício da minorante do tráfico privilegiado, na ausência de outros elementos que comprovem dedicação habitual ao tráfico ou vínculo com organização criminosa.
+6. A grande quantidade de droga já foi usada como fundamento para aumentar a pena-base imposta ao paciente, e a habitualidade foi afastada pelas instâncias ordinárias pela falta de prova de vínculo associativo com o corréu. IV. DISPOSITIVO E TESE 7. Agravo provido para redimensionar a pena privativa de liberdade para 2 anos e 6meses de reclusão, em regime inicial semiaberto.
+Tese de julgamento: "1. A quantidade de drogas apreendidas pode modular a fração de diminuição da pena, mas não afastar, por si só, o benefício da minorante do tráfico privilegiado".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; Código Penal, arts. 33, § 3º, 44 e 59. AgRg no HC n. 918.516/PR, relator Ministro Sebastião
+Jurisprudência relevante citada: Reis Júnior, Sexta Turma, julgado em ; AgRg no AR Esp n. 2.643.762/TO,5/3/2025 relator Ministro Ribeiro Dantas, Quinta Turma, julgado em ; AgRg no R Esp n.20/8/2024 2.056.007/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em ;29/5/2023 AgRg no HC n. 941.481/GO, minha relatoria, Quinta Turma, julgado em ;19/2/2025 AgRg no HC n. 885.148/SP, minha relatoria, Quinta Turma, julgado em 1/07/2024."
+O embargante afirma que, apesar de se tratar de tráfico ilícito de 44,05 kg de maconha, 49,5 g de cocaína e 20 segmentos de LSD, optou-se por valorar a quantidade de drogas na primeira etapa da dosimetria da pena e pela aplicação da fração máxima de redução, resultando na pena de 2 anos e 6 meses de reclusão.
+Alega que o acórdão foi omisso porque "não esclareceu por qual fundamento a valoração da quantidade de drogas na primeira etapa da dosimetria da pena satisfaria melhor os mandamentos constitucionais em análise, previstos nos incisos XLIII e XLVI do artigo 5º da Constituição Federal, do que a sua utilização para afastar a incidência do redutor legal no caso concreto ou a aplicação da menor fração de diminuição nele prevista".
+Requer sejam acolhidos os embargos e revista, se o caso, a ordem concedida.
+EMENTA
+Direito penal. Embargos de declaração. Tráfico de drogas. Minorante do tráfico privilegiado. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos pelo Ministério Público contra acórdão que deu provimento ao agravo regimental interposto por condenado por tráfico de drogas, redimensionando a pena e aplicando a minorante do tráfico privilegiado.
+2. Fato relevante. O paciente foi condenado por tráfico de drogas, com pena inicial de 5 anos de reclusão, aumentada para 7 anos e 6 meses pelo TJSP, sem aplicação da minorante do tráfico privilegiado, apesar de ser primário e não haver prova de associação criminosa.
+3. Nas decisões anteriores, o juiz de primeiro grau negou a aplicação da minorante em razão da quantidade e variedade de drogas apreendidas. O TJSP majorou a pena-base e manteve a não aplicação da minorante, considerando a habitualidade no tráfico.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a quantidade e a variedade de drogas apreendidas podem, por si sós, afastar a aplicação da minorante do tráfico privilegiado prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. Razões de decidir
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que a quantidade de drogas pode modular a fração de diminuição da pena, mas não afastar, por si só, o benefício da minorante do tráfico privilegiado na ausência de outros elementos que comprovem dedicação habitual ao tráfico ou vínculo com organização criminosa.
+6. A grande quantidade de droga já foi usada como fundamento para aumentar a pena-base imposta ao paciente, e a habitualidade foi afastada pelas instâncias ordinárias pela falta de prova de vínculo associativo com o corréu.
+IV. Dispositivo e tese
+7. Embargos rejeitados.
+Tese de julgamento: "1. A quantidade de drogas apreendidas pode modular a fração de diminuição da pena, mas não afastar, por si só, o benefício da minorante do tráfico privilegiado".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; Código Penal, arts. 33, § 3º, 44 e 59.
+Jurisprudência relevante citada: AgRg no HC n. 918.516/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025; AgRg no AR Esp n. 2.643.762/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/8/2024; AgRg no R Esp n. 2.056.007/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/5/2023; AgRg no HC n. 941.481/GO, minha relatoria, Quinta Turma, julgado em 19/2/2025; AgRg no HC n. 885.148/SP, minha relatoria, Quinta Turma, julgado em 1/07/2024.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Não há vício de omissão a ser sanado, sendo os embargos mera expressão do inconformismo do Ministério Público com o mérito do acórdão.
+No julgamento por esta Quinta Turma, firmou-se o entendimento de que o alto estoque de drogas (44,05kg de maconha distribuídos em 60 tabletes; 49,5g de cocaína; 20 segmentos (selos) de LSD) estava vinculado exclusivamente ao corréu Matheus e que, com relação ao paciente, deveria ser considerada a apreensão de 6 tabletes de maconha (aproximadamente 2,2 kg).
+Uma vez determinado que o paciente foi preso com 2,2 kg de maconha, ainda assim a pena foi redimensionada com base na premissa de que o paciente estava em posse de grande quantidade de drogas.
+A diferença questionada pelo agravante consta explicitada nos julgados citados na decisão embargada. "O entendimento desta Quinta Turma do STJ é no sentido de que a utilização concomitante da quantidade de droga apreendida para elevar a pena-base (1ª fase) e para afastar a incidência da minorante prevista no § 4º do art.33 da Lei de Drogas (3ª fase) - por demonstrar que o acusado se dedica a atividades criminosas ou integra organização criminosa - não configura bis in idem. Diversa é a hipótese tratada no ARE n. 666.334 (Repercussão Geral), no qual o Pretório Excelso passou a considerar bis in idem a utilização da quantidade de droga "tanto na primeira fase de fixação da pena, como circunstância judicial desfavorável, quanto na terceira, para modular a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006" (ARE 666.334/RG, Rel.Min. Gilmar Mendes, DJE 11.343/2006)" (AgRg no HC n. 941.481/GO, minha relatoria, Quinta Turma, julgado em 19/2/2025, DJEN 24/2/2025).
+O voto do Ministro Marco Aurélio, relator do ARE n. 666.334 dispõe:
+" ..
+A questão constitucional discutida nos autos diz respeito à possibilidade de se levar em consideração a quantidade e a qualidade da droga apreendida tanto na primeira fase de fixação da pena, como circunstância judicial desfavorável, quanto na terceira, para modular a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006.
+ ..
+Cumpre destacar que, em sessão realizada no dia 19.12.2013, o Pleno do STF, ao julgar os HCs 112.776 e 109.193, ambos da relatoria do Min. Teori Zavascki, firmou orientação no sentido de que, em caso de condenação por tráfico ilícito de entorpecentes, a natureza e a quantidade da droga apreendida apenas podem ser levadas em consideração em uma das fases da dosimetria da pena, sendo vedada sua apreciação cumulativa.
+Na ocasião, ficou consignado que cabe ao juiz escolher em qual momento da dosimetria essa circunstância vai ser levada em conta, seja na primeira, seja na terceira, observando sempre a vedação ao bis in idem."
+Considerando que a grande quantidade de droga já havia sido usada pelas instâncias ordinárias para aumentar a pena-base do paciente, o atendimento à orientação do Supremo necessariamente exigiu que fosse extirpada, da terceira fase da dosimetria, qualquer influência negativa decorrente desse mesmo evento (grande quantidade) e, portanto, foi estabelecida a maior fração de causa de redução de pena.
+Constou da decisão embargada que muito embora o alto estoque de drogas (quantidade e variedade) encontrado na residência do corréu Matheus realmente levasse a crer que ele não seja um iniciante no narcotráfico e que tenha acesso a fornecedores integrantes de facções criminosas, de acordo com a análise fático probatória extraída dos próprios julgados inferiores, estas circunstâncias não se aplicam ao paciente.
+A quantidade de maconha (2,2 kg) não poderia ser usada como fundamento para afastar a minorante  e, assim, amoldar o caso concreto ao distinguish reconhecido pelo STJ  porque as próprias instâncias ordinárias reconheceram que não havia prova da associação criminosa com o corréu (dono do grande estoque de droga) e, portanto  concluiu o acórdão embargado  , não havia prova da habitualidade.
+Isso posto, voto pela rejeição dos embargos de declaração.
