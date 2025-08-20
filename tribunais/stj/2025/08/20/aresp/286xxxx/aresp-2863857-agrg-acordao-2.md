@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. PLEITO DE REFORMA DA DECISÃO DE INADMISSIBILIDADE. TESE DE VIOLAÇÃO AO ART. 619 DO CPP E ÀS SÚMULAS 719/STF E 440/STJ. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão monocrática não ofende o princípio da colegialidade, conforme Súmula 568/STJ, desde que assegurado o direito de agravo interno. O princípio da dialeticidade recursal exige impugnação efetiva e concreta, sendo insuficientes alegações genéricas.
+2. A ausência de impugnação específica de todos os fundamentos da decisão agravada, notadamente quanto à Súmula 518/STJ, inviabiliza o conhecimento do recurso especial. A decisão de inadmissibilidade constitui ato único e indivisível, exigindo impugnação dialética e pormenorizada de todos os óbices apontados.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por CASSIO LUAN ALVES MARTINS contra decisão monocrática em que não conheci do agravo em recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A parte agravante requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 898 - 931).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. PLEITO DE REFORMA DA DECISÃO DE INADMISSIBILIDADE. TESE DE VIOLAÇÃO AO ART. 619 DO CPP E ÀS SÚMULAS 719/STF E 440/STJ. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão monocrática não ofende o princípio da colegialidade, conforme Súmula 568/STJ, desde que assegurado o direito de agravo interno. O princípio da dialeticidade recursal exige impugnação efetiva e concreta, sendo insuficientes alegações genéricas.
+2. A ausência de impugnação específica de todos os fundamentos da decisão agravada, notadamente quanto à Súmula 518/STJ, inviabiliza o conhecimento do recurso especial. A decisão de inadmissibilidade constitui ato único e indivisível, exigindo impugnação dialética e pormenorizada de todos os óbices apontados.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Inicialmente, pontue-se que a decisão monocrática proferida encontra-se em perfeita consonância com o ordenamento jurídico pátrio, não configurando qualquer violação ao princípio da colegialidade. Conforme consolidado na Súmula 568 desta Corte Superior, as decisões monocráticas proferidas pelos relatores são plenamente legítimas e não ofendem o princípio da colegialidade, desde que assegurado o direito de agravo para submissão da matéria ao órgão colegiado competente. O artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça ratifica tal competência quando verificada a ausência de impugnação específica de todos os fundamentos da decisão recorrida. A jurisprudência desta Corte Superior consolidou-se no sentido de que a decisão de inadmissibilidade do recurso especial constitui ato decisório único e indivisível, exigindo da parte agravante a impugnação pormenorizada e dialética de todos os óbices apontados na origem, sob pena de incidência da Súmula 182 desta Corte. Tal entendimento preserva não apenas a segurança jurídica e a celeridade processual, mas também assegura o adequado exercício da atividade jurisdicional, uma vez que permanece assegurado à parte o direito de submeter a questão ao crivo do órgão colegiado mediante a interposição do competente agravo interno, respeitando-se, assim, o devido processo legal.
+Por meio da análise dos autos, verifica-se que o recurso especial foi inadmitido considerando: alegada ofensa a dispositivo constitucional; fundamentação deficiente nos termos do artigo 1.029 do Código de Processo Civil; não indicação precisa das razões da vulneração do artigo 619 do CPP; Súmulas 283 e 284/STF; Súmula 7/STJ; não comprovação do dissídio jurisprudencial; ausência de cotejo analítico; utilização como paradigma de acórdãos proferidos em habeas corpus e seu recurso ordinário, mandado de segurança e seu recurso ordinário, e conflito de competência; e Súmula 518/STJ quanto à suscitada afronta às Súmulas 719/STF e 440/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: o óbice da Súmula 518 desta Corte, que preceitua não ser cabível recurso especial fundado em alegada violação de enunciado de súmula (no caso, as Súmulas 719/STF e 440/STJ), bem como não demonstrou efetivamente ter atacado todos os fundamentos do acórdão recorrido, conforme exigido para afastar a incidência da Súmula 283/STF.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. ESTELIONATO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 7/STJ, Súmula 83/STJ (Princípio da insignificância) e Súmula 83/STJ (art. 71 do CP). A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.885.717/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
