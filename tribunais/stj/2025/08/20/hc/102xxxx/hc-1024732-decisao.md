@@ -1,0 +1,18 @@
+DECISÃO
+MARISON QUEIROZ DA SILVA alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa prete nde o deferimento de prisão domiciliar em favor do paciente - preso preventivamente pelo crime de tráfico de drogas e porte de arma de fogo -, sob o argumento de que o pai é imprescindível para os cuidados de seu filho menor de 12 anos de idade.
+Decido.
+O Tribunal de origem, ao indeferir a prisão domiciliar ao paciente, ofereceu os seguintes fundamentos:
+ ..
+Quanto à alegação de o paciente ter a prisão preventiva substituída por prisão domiciliar, em razão de possuir filho menor diagnosticado com Transtorno do Espectro Autista, verifica-se que foram anexados aos autos a certidão de nascimento e os respectivos laudos médicos da criança (IDs 434833622 e 434833626).
+Contudo, de acordo com o art. 318, III e V, do Código de Processo Penal, poderá o juiz substituir a prisão preventiva pela domiciliar quando o agente for imprescindível aos cuidados especiais de pessoa menor de 06 (seis) anos ou com deficiência e mulher com filho de até 12 (doze) anos de idade incompletos.
+Nesse contexto, embora haja comprovação da existência de filho menor com Transtorno do Espectro Autista, não restou demonstrado a imprescindibilidade do paciente para os cuidados da criança.
+Ao contrário, os elementos constantes dos autos indicam que o menor encontra-se sob os cuidados da genitora. Sendo o paciente homem, caberia demonstrar documentalmente ser o único responsável pelo filho menor, ônus do qual não se desincumbiu, o que presume que os cuidados da criança não são de sua exclusiva responsabilidade.
+Nesse sentido: AgRg no HC 962.338/SC, rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJe de 5/3/2025 e AgRg no RHC 176.732/MA, rel. Ministra Laurita Vaz, Sexta Turma, julgado em 12/6/2023, DJe 15/6/2023.  ..  (fl. 19)
+Do excerto acima transcrito, forçoso constatar que a Corte local entendeu que o writ originário não ofereceu elementos que evidenciassem a alegada coação ilegal, quanto afirmou que, "embora haja comprovação da existência de filho menor com Transtorno do Espectro Autista, não restou demonstrado a imprescindibilidade do paciente para os cuidados da criança, visto que "os elementos constantes dos autos indicam que o menor encontra-se sob os cuidados da genitora  e , sendo o paciente homem, caberia demonstrar documentalmente ser o único responsável pelo filho menor, ônus do qual não se desincumbiu, o que presume que os cuidados da criança não são de sua exclusiva responsabilidade".
+Esta Corte Superior entende que o habeas corpus, ação constitucional de natureza mandamental, tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+Portanto, a constatação da Corte local de que a defesa não juntou elementos de convicção necessários para o demonstrar-se a imprescindibilidade do pai para os cuidados prestados à criança não constituem coação ilegal.
+À vista do exposto, denego a ordem in limine.
+Publique-se. Intimem-se.
+EMENTA
