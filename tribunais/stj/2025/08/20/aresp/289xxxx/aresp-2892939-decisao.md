@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por IVC INCORPORAÇÃO E CONSTRUÇÃO LTDA. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/1/2025.
+Concluso ao gabinete em: 21/5/2025.
+Ação: de obrigação de fazer para cancelamento de hipoteca, com pedido de tutela de urgência, movida por IVC INCORPORAÇÃO E CONSTRUÇÃO LTDA. em face de BANCO DO BRASIL S/A.
+Sentença: julgou procedente a ação para determinar o cancelamento da hipoteca relativa aos imóveis descritos na Inicial.
+Acórdão: deu provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO. COMPROMISSO DE COMPRA E VENDA. CANCELAMENTO DE HIPOTECA. ADQUIRENTE PESSOA JURÍDICA ATUANTE NO RAMO DA INCORPORAÇÃO E VENDA E COMPRA DE IMÓVEIS PRÓPRIOS. INAPLICABILIDADE DA SÚMULA N.º 308/STJ. 1. Consoante estabelece a Súmula n.º 308/STJ, a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel. 2. Hipótese dos autos, todavia, distinta quadro fático que ensejou a elaboração do verbete sumular, cuja incidência se restringe aos contratos submetidos ao Sistema Financeiro de Habitação - SFH, que dispõe de legislação protetiva especial, não se podendo desprestigiar o direito do credor hipotecário à sequela em favor de pessoa jurídica atuante no ramo da incorporação e venda e compra de imóveis próprios, sobretudo quando demonstrada sua ciência inequívoca acerca da existência do gravame, sob pena de completo esvaziamento da garantia real debatida. 3. Interpretação teleológica da tese pretoriana assentada não permite relativizar, indistintamente, a eficácia "erga omnes" da garantia hipotecária. "Distinguishing" entre o caso concreto e o enunciado da Súmula nº 308/STJ. 4. Sentença reformada, julgando-se improcedentes os pedidos iniciais e invertido o custeio das verbas sucumbências. 5. RECURSO PROVIDO. (e-STJ fl. 339)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 8º, 489, §1º, IV e VI, 502, 503, 506 e 927, IV, §5º e 1.022, do CPC e 51, VIII e XV, do CDC, bem como da Súmula 308/STJ, além de dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta violação à coisa julgada ao argumento de que "tanto a validade da dação em pagamento como o direito dos terceiros ao cancelamento da hipoteca já foram chancelados em outra oportunidade por este E. Tribunal" (e-STJ fl. 355).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+Aplica-se, na hipótese, a Súmula 284/STF, uma vez que a parte recorrente alega violação do art. 1.022 do CPC, mas não especifica os incisos que teriam sido contrariados, o que evidencia a deficiência de sua fundamentação.
+Ademais, é importante salientar que a menção genérica ao artigo de lei supostamente violado sugere a interpretação de que a alegada violação se refere apenas ao seu caput, que serve meramente como introdução ao conjunto de normas estabelecidas nos seus incisos, parágrafos e alíneas. No mesmo sentido: AgInt no AgInt no AREsp n. 2.260.168/DF, Terceira Turma, DJe 6/12/2023 e AgInt no AREsp n. 2.158.801/RJ, Quarta Turma, DJe 6/11/2023.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da ofensa a súmula
+Inicialmente, no que concerne à alegada violação da Súmula 308/STJ, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Assim, incide o óbice da Súmula 518 do STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula", inclusive em se tratando de súmulas vinculantes.
+Nesse sentido: REsp 1.806.438/DF, Terceira Turma, DJe 19/10/2020; AgInt no AREsp 1.630.476/SP, Primeira Turma, DJe 13/8/2020; AgInt no AREsp 1.630.025/SP, Quarta Turma, DJe 14/8/2020; AREsp 1.655.146/SC, Segunda Turma, DJe 7/8/2020; AgInt no REsp 1.743.359/MG, Terceira Turma, DJe 30/3/2020.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 8º, 502, 503, 506 e 927, IV, §5º, do CPC e 51, VIII e XV, do CDC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp 1.820.915/SP, Terceira Turma, DJe 17/4/2024 e AgInt no AREsp 2.116.675/MG, Quarta Turma, DJe 2/5/2024.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, arts. 8º, 502, 503, 506 e 927, IV, §5º, do CPC e 51, VIII e XV, do CDC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 2.391.548/SP, Terceira Turma, DJe 20/3/2024, e AgInt no AREsp 2.314.188/SP, Quarta Turma, DJe 21/12/2023.
+Ademais, a comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre o mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência da similitude fática. Ressalte-se que é necessário que se aponte e explicite como os casos são semelhantes e qual é a proximidade fática e jurídica entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese. Nesse sentido: AgInt no REsp 1.961.625/SP, Terceira Turma, DJe 12/9/2022 e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe 7/12/2023.
+- Dispositivo
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER PARA CANCELAMENTO DE HIPOTECA. TUTELA DE URGÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. SÚMULA 518/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de obrigação de fazer para cancelamento de hipoteca, com pedido de tutela de urgência.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+5. A ausência de decisão do Tribunal de origem acerca dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial.
+6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
