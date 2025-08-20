@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Afrânio Vilela.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL.  NÃO CONHECIMENTO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Em consonância com o princípio da dialeticidade, incumbe ao agravante a obrigação de demonstrar, com argumentação sólida e fundamentada, o equívoco na decisão.
+2. Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+3. A ausência de enfrentamento pelo tribunal de origem sobre a violação dos arts. 85, §§ 2º, 3º, 5º e 11, todos do CPC, impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula 211 do STJ.
+4. Dispositivos que não foram objeto de análise, sob o viés pretendido pelo agravante, pelo Tribunal de origem, apesar de opostos embargos de declaração. Ausente, portanto, o requisito do prequestionamento, ainda que implícito.
+5. Agravo interno parcialmente conhecido e desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por  VITALE, BICALHO E DIAS SOCIEDADE DE ADVOGADOS  contra  a  decisão  que  conheceu  parcialmente  do  seu  recurso  especial e, nessa extensão, negou-lhe provimento.
+A parte agravante alega, em relação ao mérito recursal, que:
+ ..  não se buscou a correção de mera omissão de ponto irrelevante, mas sim e primordialmente o saneamento de omissão incorrida ao deixar de aplicar precedente vinculante(Tema 1076/STJ) e previsão legal expressa, o que alteraria diametralmente o resultado dado à demanda quanto à fixação de verba honorária
+ ..  a obrigatoriedade dos parâmetros do art. 85 do CPC para condenação em verba honorária decorre da lei e de precedente vinculante, por consequência deve ser aplicada independentemente de pedido da parte - o que não foi analisado pela decisão monocrática ora agravada (fl. 934).
+Em relação à incidência da Súmula 211 do STJ, a parte agravante argumenta  ,  em  síntese, que "inexiste dúvida no caso quanto ao prequestionamento dos dispositivos legais violados pelo v. acórdão recorrido, em especial quanto violações aos arts. 85, §§ 2º, 3º, 5º e 11 do CPC, diante da tempestiva e oportuna oposição de embargos de declaração" (fl. 938).
+Por fim, pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Apresentada impugnação da parte agravada às fls. 947-951.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL.  NÃO CONHECIMENTO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Em consonância com o princípio da dialeticidade, incumbe ao agravante a obrigação de demonstrar, com argumentação sólida e fundamentada, o equívoco na decisão.
+2. Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+3. A ausência de enfrentamento pelo tribunal de origem sobre a violação dos arts. 85, §§ 2º, 3º, 5º e 11, todos do CPC, impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula 211 do STJ.
+4. Dispositivos que não foram objeto de análise, sob o viés pretendido pelo agravante, pelo Tribunal de origem, apesar de opostos embargos de declaração. Ausente, portanto, o requisito do prequestionamento, ainda que implícito.
+5. Agravo interno parcialmente conhecido e desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Com vistas a melhor elucidar o caso, transcrevo trecho da decisão agravada:
+Dos arts. 11, 1.022, II; 489, § 1º, IV e VI; 926 e 927, III, todos do CPC
+O presente recurso especial alega que teria ocorrido violação aos arts. 11, 1.022, II; 489, § 1º, IV e VI; 926 e 927, III, todos do CPC, porquanto o Tribunal a quo teria rejeitado os embargos de declaração opostos pela Recorrente para suprir omissões e prequestionar a matéria recorrida, pois "deixou de se pronunciar quanto à aplicação da ratio decidendi fixada no julgamento do tema repetitivo n. 1076 pelo E. STJ" (fl. 835).
+Não verifico os vícios alegados, tampouco outro que imponha a anulação do acórdão recorrido.
+A contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão. Ao passo que a omissão consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais ou em sede de contrarrazões.
+O Tribunal a quo assinalou que não consta da apelação ou das respectivas contrarrazões qualquer discussão sobre o ponto alegado ou sobre eventual recálculo dos honorários advocatícios, razão pela qual não verificou omissão, tratando-se de verdadeira inovação recursal trazida apenas em sede de embargos de declaração.
+O entendimento está em consonância com o entendimento deste STJ, não havendo, portanto, negativa de prestação jurisdicional. Nesse sentido, os seguintes julgados:  ..
+Dos arts. 85, §§ 2º, 3º, 5º e 11 do CPC
+Com relação às supostas violações aos arts. 85, §§ 2º, 3º, 5º e 11 do CPC, o acórdão recorrido não decidiu acerca dos referidos dispositivos legais, indicados como violados, tampouco abordou as teses recursais referidas pela parte, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível.
+Falta, no caso, prequestionamento, condição de acesso às instâncias excepcionais, de modo a incidir, nesta situação, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo." (fl. 926-928).
+Da análise da decisão agravada verifica-se que o agravante não se debruçou para impugnar especificamente os seus fundamentos, que deixou de reconhecer a violação aos arts. 11, 1.022, II; 489, § 1º, IV e VI; 926 e 927, III, todos do CPC por se tratarem de inovação recursal.
+Nas razões do agravo interno, a parte deixou de atacar, de forma dialética, os fundamentos mencionados.
+A parte agravante, ao interpor seu recurso, não buscou desconstituir, de maneira específica e adequada, a jurisprudência elencada contra a sua pretensão.
+A parte se limitou a argumentar que a condenação em honorários "deve ser aplicada independentemente de pedido da parte".
+A jurisprudência deste Tribunal entende que, mesmo em se tratando de honorários advocatícios, não se admite inovação recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS. INOVAÇÃO RECURSAL. ENTENDIMENTO CONFORME O STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A Corte regional reconheceu a impossibilidade de rever a base de cálculo dos honorários advocatícios fixados na sentença, e apontou a ocorrência de inovação recursal. Entendimento esse que não destoa da orientação prevalecente no Superior Tribunal de Justiça (STJ).
+3. É dever da parte recorrente proceder ao cotejo analítico entre os acórdãos comparados, transcrevendo os trechos que configurem o dissídio jurisprudencial; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do art. 105, inciso III, da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.417.742/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 28/10/2024, DJe de 4/11/2024, grifo nosso).
+É imperativo, conforme a jurisprudência e a doutrina, que o recorrente, ao desafiar a decisão judicial, deve enfrentar e refutar, de forma cabal, todos os fundamentos que sustentam o julgado impugnado, sob pena de sua manutenção.
+Nesse contexto, conforme estabelecido pelos arts. 932, III, do Código de Processo Civil de 2015; e 253, I, do Regimento Interno do Superior Tribunal de Justiça, e em consonância com o princípio da dialeticidade, incumbe ao agravante demonstrar, com argumentação sólida e fundamentada, o equívoco na decisão, mormente a jurisprudência aplicada.
+Quanto à análise dos arts. 85, §§ 2º, 3º, 5º e 11, todos do CPC, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o recurso especial, incidindo o teor da Súmula 211 do STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+ ..  2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..  4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024 , DJe de 14/10/2024).
+Não se aplica, no presente caso, o prequestionamento implícito, pois somente se tem por prequestionado o dispositivo legal, quando o acórdão recorrido, ainda que não o cite diretamente, emita juízo de valor fundamentado acerca da temática por ele regida.
+As teses recursais em torno da violação aos arts. 85, §§ 2º, 3º, 5º e 11, todos do CPC, não foram objeto de análise pelo Tribunal de origem. Ausente, portanto, o requisito do prequestionamento, ainda que implícito.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. ART. 927, I E III, DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ICMS. RESTITUIÇÃO DE INDÉBITO TRIBUTÁRIO. ÔNUS PROBATÓRIO E LITIGÂNCIA DE MÁ-FÉ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE INDICAÇÃO PRECISA DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO .
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, porquanto não há omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação aos arts. 489 e 1.022 do CPC/2015.
+2. O art. 927, I e III, do CPC/2015 não foi objeto de análise, sob o viés pretendido pelo agravante, pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incidem, no ponto, as Súmulas 282 e 356/STF, por analogia.
+3. Inviável a análise da pretensão veiculada no recurso especial relativamente ao ônus probatório referente ao pagamento de valores a maior a título de ICMS, bem como de litigância de má-fé, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+4. A parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido violados, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia. Incidência, por analogia, da Súmula 284/STF.
+5. Agravo interno não provido (AgInt no AREsp n. 2.179.308/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024, grifo nosso).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 805, 835 E 848 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. EXECUÇÃO FISCAL. SEGURO-GARANTIA. NÃO CARACTERIZAÇÃO DE HIPÓTESE DE SUSPENSÃO DO CRÉDITO TRIBUTÁRIO. COMPENSAÇÃO DE OFÍCIO. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 805, 835 e 848 do CPC/2015 não foram objeto de análise, sob o viés pretendido pelo agravante, pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incidem, no ponto, as Súmulas 282 e 356/STF, por analogia.
+2. É entendimento consolidado neste Tribunal Superior de que a suspensão da exigibilidade do crédito tributário está limitado às hipóteses previstas no art. 151 do CTN, não se estendendo ao oferecimento de seguro-garantia ou fiança bancária. Precedentes.
+3. Inexistente situação apta a gerar a suspensão de exigibilidade do crédito tributário, é devida a compensação de ofício dos créditos pela autoridade administrativa competente. Precedentes.
+4. Agravo interno desprovido (AgInt no REsp n. 2.032.573/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024, grifo nosso).
+Tampouco se pode cogitar de prequestionamento ficto, pois a jurisprudência desta Corte firmou-se no sentido de que:
+O art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC /2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria (AgInt no AREsp n. 2.528.396/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024 , DJe de 4/9/2024).
+Isso posto, conheço parcialmente do agravo interno e nego-lhe provimento.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
