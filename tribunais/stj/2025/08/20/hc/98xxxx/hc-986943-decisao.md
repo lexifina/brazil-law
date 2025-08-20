@@ -1,0 +1,22 @@
+DECISÃO
+RAFAEL CORREIA DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul na Revisão Criminal n. 1401184-59.2024.8.12.0000.
+Depreende-se dos autos que o paciente foi condenado à pena de 10 anos e 6 meses de reclusão, a ser cumprido em regime inicial fechado, pela prática do crime previsto no art. 33, caput, c/c art. 40, V, ambos da Lei n. 11.343/2006.
+Neste writ, a defesa pleiteia seja redimensionada a pena-base, aplicada a minorante do art. 33, § 4º, da Lei n. 11.343/2006 e fixado regime menos gravoso.
+Decido.
+I. Pena-base
+Não se pode olvidar que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, de maneira que, havendo as instâncias de origem fundamentado o aumento da reprimenda-base à luz, justamente, das peculiaridades do caso concreto - maus antecedentes do paciente, circunstâncias do crime e circunstâncias preponderantes relativas à natureza e quantidade da droga -, não vejo como acolher o pleito defensivo, em homenagem ao princípio do livre convencimento motivado.
+Vale dizer, uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação dos arts. 59 do Código Penal e 42 da Lei de Drogas, reduzir a reprimenda-base estabelecida ao acusado.
+Conforme entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que, no entanto, não verifico caracterizada nos autos.
+Ademais, faço o registro de que, ao contrário do que afirma a defesa, "A análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito." (AgRg no REsp n. 143.071/AM, Rel. Min. Maria Thereza de Assis Moura, 6ª T., DJe 6/5/2015).
+Deve, por conseguinte, ser mantida inalterada a pena-base imposta ao réu.
+II. Minorante
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+A instância originária negou o benefício ao recorrente, pois "o revisionando não atende ao requisito da primariedade, haja vista os maus antecedentes e a reincidência reconhecidos na sentença" (fl. 27, grifei).
+Dessa forma, verifico que não há como ser reconhecida a incidência do redutor em favor do réu, haja vista a vedação expressa da concessão desse benefício aos acusados possuidores de maus antecedentes ou reincidentes, conforme bem salientou a Corte Estadual.
+III. Regime
+Quanto ao regime inicial de cumprimento de pena, como bem salientou o Ministério Público Federal em seu parecer, "fixada a pena privativa de liberdade à pena de 10 anos e 6 meses de reclusão, carece ao paciente os requisitos objetivos para a fixação do regime semiaberto, conforme dispõe o art. 33, §2º, a, do Código Penal" (fl. 336).
+IV. Dispositivo
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
