@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por LUCAS DO NASCIMENTO PAIXAO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2214145-72.2025.8.26.0000).
+O recorrente busca a reforma do acórdão, alegando constrangimento ilegal na execução penal, especificamente na progressão de regime.
+Alega que a decisão da juíza de origem determinou a complementação do exame criminológico sem fundamentação concreta, violando o artigo 93, IX, da CF/88, o artigo 112 da Lei nº 7.210/84, e a Súmula 439 do STJ. Afirma que o recorrente já cumpriu os requisitos objetivos e subjetivos para progressão de regime, conforme atestado de conduta carcerária e pareceres favoráveis de psicólogo, assistente social e Ministério Público (fls. 83-85).
+Sustenta que a determinação de exame psiquiátrico configura excesso e viola os princípios da razoabilidade, legalidade e individualização da pena, além de representar constrangimento indevido ao recorrente (fls. 86-87).
+Requer o provimento do recurso ordinário para cassar o acórdão impugnado, evitando a supressão de instância e que seja afastada a necessidade de realização de exame psiquiátrico.
+É o relatório. DECIDO.
+Da leitura dos autos, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, qual seja, a progressão de regime independentemente da realização do exame psiquiátrico.
+Confira-se o excerto do acórdão proferido pelo Tribunal estadual, verbis (fl. 68):
+No caso vertente, liminarmente, há que se indeferir este writ. Da argumentação expendida na inicial denota-se que se insurgem os impetrantes contra ato praticado pela MM.ª Juíza da Vara das Execuções Criminais da Comarca de Sorocaba. Ocorre que não há que se fazer uso, indiscriminadamente, do remédio heroico, vez que ele não se destina a correção de decisão de natureza estritamente executória, sujeita a recurso próprio, previsto no sistema processual penal, não sendo, pois, o writ, substituto de recursos de agravo em execução penal, ordinário, especial ou extraordinário.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Ademais, esta Corte Superior de Justiça pacificou o entendimento de que:
+"o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Por fim, cabe ressaltar, que a ausência de apreciação da questão não acarretou indevida negativa de jurisdição porquanto foi ressaltado que houve interposição de recurso de Agravo em Execução, cujo peticionamento foi realizado minutos antecedentes ao writ, de maneira que a matéri a será analisada no citado recurso (fl. 71).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
