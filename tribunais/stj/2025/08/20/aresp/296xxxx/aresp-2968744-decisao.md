@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARLENE SILVEIRA NUNES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO. AÇÃO DE FALÊNCIA. SENTENÇA DE IMPROCEDÊNCIA.
+RECURSO DA AUTORA E ADESIVO DAS RÉS.
+PLEITO DA PARTE AUTORA DE REFORMA DA SENTENÇA PARA RECONHECER A INADIMPLÊNCIA DAS RÉS AO PLANO DE RECUPERAÇÃO JUDICIAL E DECRETAÇÃO DE FALÊNCIA. NÃO ACOLHIMENTO. AUSÊNCIA DE PROVAS DO DESCUMPRIMENTO DO PLANO DE RECUPERAÇÃO JUDICIAL.
+RECURSO ADESIVO DAS RÉS. ALMEJADA A REVOGAÇÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA CONCEDIDO. DOCUMENTOS QUE COMPROVAM QUE A AUTORA É SÓCIA DE EMPRESA DE PEQUENO PORTE. NÃO PROVIMENTO. AUSÊNCIA DE PROVAS QUE POSSAM DERRUIR A PRESUNÇÃO DE VERACIDADE DA DECLARAÇÃO DE HIPOSSUFICIÊNCIA FIRMADA EXCLUSIVAMENTE PELA PESSOA NATURAL. SENTENÇA MANTIDA.
+HONORÁRIOS RECURSAIS DEVIDOS AO PROCURADOR DAS RÉS.
+RECURSOS CONHECIDOS E DESPROVIDOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 373, II, do CPC, no que concerne à fundamentação equivocada atinente à ausência de provas do descumprimento do plano de recuperação judicial, tendo em vista que caberia à parte recuperanda comprovar que foi realizado o pagamento, a incidir, no caso, a inversão do ônus da prova, trazendo a seguinte argumentação:
+O acórdão recorrido merece reforma, porquanto está demonstrado que o decisum está negando vigência ao disposto no artigo 373, II, do CPC, por caber ao réu provar que efetuou o pagamento, cumprindo o plano de recuperação judicial, e não à autora.
+Se a parte recuperanda não trouxe aos autos a prova do pagamento, cumprindo o plano de recuperação judicial, é bastante por si só admitir como verdadeira a afirmação da autora de que nada recebeu.
+A decretação da falência é consequência do inadimplemento judicial havido pela Recorrida (fls. 2088).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Ou seja, para o pedido de falência fundado no art. 94, inc. III, letra "g", da lei de regência demanda prova do descumprimento do plano de recuperação judicial após a superação do prazo de acompanhamento judicial do cumprimento das obrigações assumidas.
+Ocorre que, como a parte autora não logrou provar que as sociedades empresarias demandadas descumpriram o plano de recuperação judicial, ou seja, que não entregaram em dação em pagamento em favor dos adquirentes o terreno e suas acessões para que estes, reunidos em assembleia , decidissem quanto "a liquidação do terreno e acessões ou o seguimento e conclusão das obras", efetivamente o pedido não merecia prosperar.
+Ora, o ônus da prova, segundo o art. 373 do Código de Processo Civil, cabe "ao autor, quanto ao fato constitutivo de seu direito" e não tendo a parte autora se desincumbido de seu encargo, a improcedência do pedido foi acertada (fls. 2071).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise sobre a verificação da distribuição do ônus probatório das partes pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ" (AgInt no AREsp n. 2.490.617/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13/6/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.575.962/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 22/11/2024; REsp n. 2.164.369/CE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 8/11/2024; AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2024; AgInt no REsp n. 2.019.364/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/8/2024; EDcl no AgInt no AREsp n. 1.993.580/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 2/5/2024; AgInt no AREsp n. 1.867.210/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
