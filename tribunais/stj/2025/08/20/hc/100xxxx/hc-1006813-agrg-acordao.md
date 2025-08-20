@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ATO APONTADO COMO COATOR TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ . AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/2/2024).
+2. Conforme verificado em consulta ao sistema informático do tribunal estadual, a condenação contra a qual a defesa se insurge já conta com trânsito em julgado, com apelação julgada em 5/12/2019 e baixa definitiva em 31/3/2020.
+3. Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar. No caso em apreço, a defesa deixou de solicitar ao Tribunal de Justiça a revisão de condenação. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação. Assim, não há como conhecer da impetração, por não
+ser o STJ o órgão competente para examinar o pleito.
+4. Agravo regimental não provido.
+RELATÓRIO
+GIOVANI ALVES DE CAMPOS, por meio de petição de fls. 91-99, agrava da decisão de fls. 84-86, que indeferiu liminarmente o habeas corpus por ser substitutivo de revisão criminal.
+Consta dos autos que o paciente foi condenado pelo delito previsto no art. 157, §2º, inc. I e II, do Código Penal, cuja pena fixada é de 5 anos e 6 meses de reclusão e pagamento de 13 dias-multa, piso mínimo, sob as regras do regime fechado.
+A defesa aduz irregularidade da prova de reconhecimento ao qual o paciente fora submetido.
+Com base nisso, por ocasião do presente agravo, volta a requerer seja reconhecida a nulidade do processo desde a prolação do acórdão que julgou contrário às provas dos autos.
+Em liminar, requer a determinação de que o paciente seja enviado a regime semiaberto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ATO APONTADO COMO COATOR TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ . AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/2/2024).
+2. Conforme verificado em consulta ao sistema informático do tribunal estadual, a condenação contra a qual a defesa se insurge já conta com trânsito em julgado, com apelação julgada em 5/12/2019 e baixa definitiva em 31/3/2020.
+3. Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar. No caso em apreço, a defesa deixou de solicitar ao Tribunal de Justiça a revisão de condenação. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação. Assim, não há como conhecer da impetração, por não
+ser o STJ o órgão competente para examinar o pleito.
+4. Agravo regimental não provido.
+VOTO
+Apesar dos esforços, razão não assiste à defesa.
+Tal como já foi sublinhado na decisão agravada, o writ configura-se substitutivo de revisão criminal, uma vez que, conforme verificado em consulta ao sistema informático do tribunal estadual, a condenação contra a qual a defesa se insurge já conta com trânsito em julgado, com apelação julgada em 5/12/2019 e baixa definitiva em 31/3/2020.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/2/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte.
+É notável o excessivo volume de habeas corpus, que ultrapassaram 1 milhão, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico. Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar. No caso em apreço, a defesa deixou de solicitar ao Tribunal de Justiça a revisão de condenação.
+A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação. Assim, não há como conhecer da impetração, por não ser o STJ o órgão competente para examinar o pleito.
+Menciono, por oportuno:  .. , revela-se depois de já transitada em julgado a condenação inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..  (AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6a T., DJe 24/2/2022).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDF), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, nego provimento ao agravo regimental.
