@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INVASÃO DE TERRAS PÚBLICAS. TIPICIDADE. DESNECESSIDADE DE ATOS DE VIOLÊNCIA. CARACTERIZAÇÃO DO DELITO POR MEIO DE ATOS CLANDESTINOS NÃO PERCEPTÍVEIS AO POSSUIDOR. VIABILIDADE DO PROSSEGUIMENTO DA AÇÃO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que deu provimento ao recurso especial do Ministério Público Federal, reconhecendo a tipicidade da conduta de invasão de terras destinadas à reforma agrária, sem a exigência de atos de violência.
+2. A decisão monocrática entendeu que o tipo penal previsto no art. 20, parágrafo único, da Lei n. 4.947/1966, não exige o emprego de violência para a configuração do delito de invasão de terras públicas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o emprego de violência é elemento essencial para a configuração do delito de invasão de terras públicas, conforme previsto no art. 20, parágrafo único, da Lei n. 4.947/1966.
+III. Razões de decidir
+4. O tipo penal de invasão de terras públicas não exige o emprego de violência, bastando a intenção de ocupação para a configuração do delito.
+5. A interpretação restritiva que exige violência para a tipificação do delito não encontra amparo na redação do tipo penal, que não inclui tal elemento como necessário. Precedentes.
+6. A decisão monocrática corretamente aplicou o entendimento de que a invasão pode ocorrer por meios não violentos, como atos clandestinos, sem prejuízo da tipicidade da conduta.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por NELSO REINHEIMER (e-STJ fls. 1573-1576) contra a decisão que conheceu do agravo e deu provimento ao recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL (e-STJ fls. 1565-1568).
+Alega o agravante que, "no julgamento do RECURSO ESPECIAL Nº 1971892 - RN (2021/0346659-7), Relator MINISTRO SEBASTIÃO REIS JÚNIOR, a tese foi debatida, em sentido contrário ao decidido nestes autos" (e-STJ fl. 1573).
+Aduz que não há entendimento desta Corte no sentido que pretende o MPF, pois o ato de invadir pressupõe alguma forma de esbulho violento, para ver realizada a ocupação da terra, incidindo a Súmula 83 no acórdão do TRF1.
+Requer a reconsideração da decisão ou a submissão do recurso ao colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INVASÃO DE TERRAS PÚBLICAS. TIPICIDADE. DESNECESSIDADE DE ATOS DE VIOLÊNCIA. CARACTERIZAÇÃO DO DELITO POR MEIO DE ATOS CLANDESTINOS NÃO PERCEPTÍVEIS AO POSSUIDOR. VIABILIDADE DO PROSSEGUIMENTO DA AÇÃO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que deu provimento ao recurso especial do Ministério Público Federal, reconhecendo a tipicidade da conduta de invasão de terras destinadas à reforma agrária, sem a exigência de atos de violência.
+2. A decisão monocrática entendeu que o tipo penal previsto no art. 20, parágrafo único, da Lei n. 4.947/1966, não exige o emprego de violência para a configuração do delito de invasão de terras públicas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o emprego de violência é elemento essencial para a configuração do delito de invasão de terras públicas, conforme previsto no art. 20, parágrafo único, da Lei n. 4.947/1966.
+III. Razões de decidir
+4. O tipo penal de invasão de terras públicas não exige o emprego de violência, bastando a intenção de ocupação para a configuração do delito.
+5. A interpretação restritiva que exige violência para a tipificação do delito não encontra amparo na redação do tipo penal, que não inclui tal elemento como necessário. Precedentes.
+6. A decisão monocrática corretamente aplicou o entendimento de que a invasão pode ocorrer por meios não violentos, como atos clandestinos, sem prejuízo da tipicidade da conduta.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Inobstante os fundamentos apresentados pela defesa no agravo regimental, a decisão monocrática deve ser mantida pelos seus próprios e jurídicos fundamentos.
+Conforme consta da decisão agravada (e-STJ fls. 1566-1568):
+A despeito dos argumentos apresentados, o recurso de agravo merece ser conhecido, razão pela qual passo à análise do recurso especial.
+O cerne da controvérsia reside na análise da necessidade ou não de atos de violência para caracterização do tipo penal descrito no art. 20, parágrafo único da Lei 4.947/6.
+As instâncias de origem absolveram sumariamente os recorridos sob o argumento de que o tipo penal exige atos de violência para a sua configuração.
+Diversamente encontra-se o entendimento jurisprudencial desta Corte, em recente análise, bem como o entendimento que se extrai da simples leitura do tipo penal.
+A questão foi bem analisada no parecer do Ministério Público Federal, cujos fundamentos adoto integralmente como razões de decidir (e-STJ fls. 1559-1562):
+A controvérsia gira entorno da necessidade, ou não, do emprego de violência para a configuração do delito previsto no art. 20 da Lei n. 4.947/66, o qual está assim descrito:
+Art. 20 - Invadir, com intenção de ocupá-las, terras da União, dos Estados e dos Municípios: Pena: Detenção de 6 meses a 3 anos. Parágrafo único. Na mesma pena incorre quem, com idêntico propósito, invadir terras de órgãos ou entidades federais, estaduais ou municipais, destinadas à Reforma Agrária.
+Efetivamente, havia apenas um precedente colegiado no STJ sobre o tema da configuração do tipo penal do art. 20 da Lei n. 4.947/66, que é o citado na decisão agravada: o acórdão proferido no RHC n. 12.970/TO, Rel. Ministro Jorge Scartezzini, 6ª T., DJ 24/3/2003. Contudo, observa-se em consulta ao acervo jurisprudencial dessa Colenda Corte que há decisões monocráticas que endossam o entendimento de que o tipo penal não exige o uso da força.
+Em recente decisão, o Min. Sebastião Reis Júnior deu provimento a recurso especial do MPF, para afirmar que o tipo penal não se restringe à invasão com uso de força. Consta da decisão:
+ ..  O verbo núcleo do tipo é invadir, termo que encontra o seguinte significado no dicionário Michaelis: entrar à força, penetrar hostilmente em determinado lugar, apoderar-se, conquistar, tomar. Nota-se que o verbo nuclear do tipo não se reduz ao ingresso realizado por meio de atos violentos (entrar à força), podendo ocorrer por meio de atos clandestinos não perceptíveis ao possuidor num primeiro momento. Como bem exemplificado pelo recorrente, é possível que alguém (um estranho) invada uma casa aproveitando-se do descuido de seus moradores, como, por exemplo, um portão aberto. Tal conduta não requer o emprego de qualquer violência e, ainda assim, configura invasão. Ademais, se o legislador pretendesse exigir o emprego de violência para a configuração do delito, teria inserido tal elemento na descrição do tipo, como o fez no delito de esbulho possessório, que está assim redigido (grifo nosso): Art. 161 - Suprimir ou deslocar tapume, marco, ou qualquer outro sinal indicativo de linha divisória, para apropriar-se, no todo ou em parte, de coisa imóvel alheia: Pena - detenção, de um a seis meses, e multa. § 1º - Na mesma pena incorre quem:  ..  Esbulho possessório II - invade, com violência a pessoa ou grave ameaça, ou mediante concurso de mais de duas pessoas, terreno ou edifício alheio, para o fim de esbulho possessório. Nesse sentido: PENAL E PROCESSO PENAL - CRIMES CONTRA O MEIO AMBIENTE - INVASÃO DE TERRAS DA UNIÃO - CONDUTA ANTERIOR A EDIÇÃO DA LEI 4.947/66 - IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA - DETERIORAÇÃO DO ECOSSISTEMA (ART. 38 DA LEI 9.605/98) - CONDUTA TÍPICA DESCRITA NA PEÇA VESTIBULAR - TRANCAMENTO QUANTO A ESSE DELITO - IMPOSSIBILIDADE. - A Lei nº 4.947, que fixa normas de Direito Agrário, dispõe sobre o sistema de organização e funcionamento do Instituto Brasileiro de Reforma Agrária, e dá outras providências, data de 06 de abril de 1966. Ora, segundo apontam os laudos técnicos, datados de 1992, a invasão das terras se deu em 1909 e 1936. Assim sendo, no momento da edição da Lei, a conduta dos pacientes já tinha sido efetivada. Destarte, não há como aplicar, portanto, o dispositivo legal em questão para criminalizar a conduta dos acusados sob pena de violar o princípio constitucional da irretroatividade da lei penal. Logo, não pode o paciente responder pelo crime previsto no seu art. 20, ali descrito como "invadir, com intenção de ocupá-las, terras da União, dos Estados e dos Municípios." Como bem salientado pelo Parquet federal, o "Núcleo do tipo é invadir, ou seja, entrar à força, penetrar, fazer incursão, dominar, tomar, usurpar terra que sabe pertencer à União, Estados ou Municípios. Guarda semelhança, quanto ao núcleo, com o esbulho possessório (art. 161, § 1º, II, do Código Penal), que também se caracteriza pela invasão de terreno ou edifício alheio. Diferencia-se daquele apenas pelo fato de não exigir violência contra a pessoa ou grave ameaça, ou concurso de agentes. Ambos, todavia, têm como dolo especial o fim de ocupação. Consuma-se, pois, com a invasão." - Entretanto, no que tange à ocorrência do outro delito (art. 38, da Lei nº 9.605/98), verifico que a conduta descrita na peça vestibular revela, ao menos em tese, a ocorrência de fato típico. A exordial é clara quando afirma a ocorrência de deterioração do ecossistema local. Ainda que se entenda que o delito em questão não seja o previsto no art. 38 da Lei 9.605/98, o paciente defende-se dos fatos, e não da capitulação jurídica, dada pelo parquet, que seja eventualmente equivocada. - Recurso parcialmente provido apenas para trancar a ação penal com relação ao delito previsto no art. 20 da Lei 4.947/66. (RHC n. 12.970/TO, Ministro Jorge Scartezzini, Quinta Turma, DJ de 24/3/2003, p. 240 - grifo nosso). Portanto, não há razão para restringir o alcance do tipo penal, como entendeu o Tribunal de origem. Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para reformar o acórdão recorrido e determinar o recebimento da denúncia, no que tange ao delito previsto no art. 20, parágrafo único, da Lei n. 4.947/1966 (R Esp n. 2.112.091, Ministro Sebastião Reis Júnior, DJEN de 28/01/2025.)
+No parecer do MPF, ofertado para o RESP acima mencionado, consignou o Subprocurador-Geral da República Luciano Mariz Maia:
+ ..  Com efeito, o art. 20 da Lei 4.947/66 tipifica como crime a conduta de "Invadir, com intenção de ocupá-las, terras da União, dos Estados e dos Municípios". Como sustenta o recorrente, o tipo penal não estabelece, como elementar, o emprego de violência na ação de invadir. E embora um dos significados do verbo nuclear invadir seja entrar/ocupar pela força, outros significados lhe são atribuídos pelos dicionários de língua portuguesa, tais como: apoderar-se, apossar-se, assenhorear-se, ganhar, dominar, ocupar um lugar de forma abusiva. Nota-se, portanto, que nem todos os significados pressupõem violência física/material. Desse modo, considero que a melhor interpretação é a de que a conduta criminosa - invadir - embora possa ser realizada com uso de violência física/material, essa circunstância não é imprescindível, ou seja, não é inerente ao verbo nuclear do tipo penal. Como bem exemplificou o recorrente, é possível que alguém (um estranho) invada uma casa aproveitando-se do descuido de seus moradores, como, por exemplo, um portão aberto. Não há dúvidas que nesse caso, embora não tenha sido empregada violência alguma, houve invasão da propriedade alheia.  ..
+A decisão monocrática do Ministro Sebastião Reis Júnior, antes mencionada, proferida no R Esp n. 2.112.091/MT, foi impugnada por agravo regimental e, na sessão da Sexta Turma de 9/4/25, o agravo foi conhecido e não provido.
+Entendo, assim, que não há que se falar em suposta jurisprudência pacificada dos tribunais superiores no sentido contrário à pretensão do agravante e, portanto, não é cabível a Súmula n. 83/STJ como óbice ao agravo em recurso especial, que deve ser conhecido para prover o recurso especial.
+Com efeito, ao exigir a demonstração de que a entrada na terra foi à força, com violência ou ameaça, para configurar o crime de invasão de terras públicas, o acórdão recorrido violou o art. 20 da Lei n. 4.947/66, além de ter divergido de julgado de outro Tribunal Regional Federal.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para determinar o prosseguimento da ação penal.
+Portanto, a controvérsia gira em torno da necessidade, ou não, do emprego de violência para a configuração do delito previsto no art. 20 da Lei n. 4.947/1966, o qual dispõe o seguinte:
+Art. 20 - Invadir, com intenção de ocupá-las, terras da União, dos Estados e dos Municípios:
+Pena: Detenção de 6 meses a 3 anos.
+Parágrafo único. Na mesma pena incorre quem, com idêntico propósito, invadir terras de órgãos ou entidades federais, estaduais ou municipais, destinadas à Reforma Agrária.
+Não obstante, conforme exposto na decisão agravada, o tipo penal não se restringe à invasão com uso de força, pois o crime também se consuma por meio de atos clandestinos não perceptíveis ao possuidor num primeiro momento.
+Nesse sentido, trago a ementa da decisão indicada no parecer do MPF e utilizada como razões de decidir:
+DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INVASÃO DE TERRAS PÚBLICAS. TIPICIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que deu provimento ao recurso especial do Ministério Público Federal, reconhecendo a tipicidade da conduta de invasão de terras destinadas à reforma agrária, sem a exigência de atos de violência.
+2. A decisão monocrática entendeu que o tipo penal previsto no art. 20, parágrafo único, da Lei n. 4.947/1966, não exige o emprego de violência para a configuração do delito de invasão de terras públicas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o emprego de violência é elemento essencial para a configuração do delito de invasão de terras públicas, conforme previsto no art. 20, parágrafo único, da Lei n. 4.947/1966.
+III. Razões de decidir
+4. O tipo penal de invasão de terras públicas não exige o emprego de violência, bastando a intenção de ocupação para a configuração do delito.
+5. A interpretação restritiva que exige violência para a tipificação do delito não encontra amparo na redação do tipo penal, que não inclui tal elemento como necessário.
+6. A decisão monocrática corretamente aplicou o entendimento de que a invasão pode ocorrer por meios não violentos, como atos clandestinos, sem prejuízo da tipicidade da conduta.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. O delito de invasão de terras públicas, previsto no art. 20, parágrafo único, da Lei n. 4.947/1966, não exige o emprego de violência para sua configuração. 2. A intenção de ocupação é suficiente para a tipificação do delito, independentemente do meio utilizado para a invasão".
+Dispositivos relevantes citados: Lei n. 4.947/1966, art. 20, parágrafo único. Jurisprudência relevante citada: STJ, RHC n. 12.970/TO, Rel. Min. Jorge Scartezzini, Quinta Turma, DJ 24/3/2003.
+(AgRg no REsp n. 2.112.091/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025.)
+Nessa linha, ainda, vejamos o entendimento do Ministro Jorge Scartezzini, no RHC n. 12970/TO: "Como bem salientado pelo Parquet federal, o "Núcleo do tipo é invadir, ou seja, entrar à força, penetrar, fazer incursão, dominar, tomar, usurpar terra que sabe pertencer à União, Estados ou Municípios. Guarda semelhança, quanto ao núcleo, com o esbulho possessório (art. 161, § 1º, II, do Código Penal), que também se caracteriza pela invasão de terreno ou edifício alheio. Diferencia-se daquele apenas pelo fato de não exigir violência contra a pessoa ou grave ameaça, ou concurso de agentes. Ambos, todavia, têm como dolo especial o fim de ocupação. Consuma-se, pois, com a invasão.""
+Portanto, o agravante não trouxe argumentos aptos a modificar a decisão monocrática, que está devidamente fundamentada no entendimento desta Corte Superior.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
