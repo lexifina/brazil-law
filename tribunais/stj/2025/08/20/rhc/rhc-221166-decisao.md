@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por MATEUS HENRIQUE GONÇALVES contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO.
+Consta dos autos que o recorrente foi preso em flagrante em 11/6/2025, convertida a custódia em preventiva, pela suposta prática da conduta descrita nos arts. 16 da Lei n. 10.826/2003; e 334-A do Código Penal.
+O recorrente sustenta que foi expedido mandado de busca e apreensão genérico, sem amparo fático e jurídico, com a apreensão indevida de bens de terceiro.
+Salienta que o referido mandado não delimitou objetos a serem apreendidos, tampouco demonstrou nexo de causalidade relativo à imputação de mercantilização de drogas no local.
+Assevera que a audiência de custódia foi realizada apenas 3 dias após a prisão, afirmando que, durante esse período, não teve itens pessoais de higiene pessoal e alimentação providenciados pelo Estado, o que ocasionaria a nulidade da custódia.
+Defende que foi violado o princípio da presunção de inocência em razão das múltiplas ilegalidades ocorridas no curso da persecução penal.
+Argumenta que a prisão cautelar foi mantida sem decisão judicial válida e afirma que possui condições favoráveis, como uma filha criança dependente financeiramente, ocupação lícita e residência fixa.
+Requer a expedição de alvará de soltura.
+É o relatório.
+De início, é pacífico o entendimento do Superior Tribunal de Justiça de que o habeas corpus, porquanto vinculado à demonstração de plano da ilegalidade alegada, exige provas pré-constituídas dos elementos fáticos essenciais para a apreciação do pedido, sendo ônus da parte impetrante juntar a documentação necessária no momento da impetração.
+No presente caso, não foi juntada à petição inicial a íntegra do decreto de prisão preventiva e da decisão que a manteve.
+Dessa forma, é inviável o exame dos requisitos autorizadores da prisão preventiva, diante da insuficiência da documentação apresentada. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. LAPSO TRINTENÁRIO. AUSÊNCIA DE CÓPIA DA DECISÃO QUE ALTEROU A DATA-BASE. INSTRUÇÃO DEFICIENTE. REITERAÇÃO DE WRIT ANTERIOR. INADMISSIBILIDADE.
+1. O habeas corpus não comporta dilação probatória e exige prova pré-constituída das alegações. Cabe ao impetrante o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no writ. Precedentes.
+2. Trata-se de caso em que o ora agravante não se desobrigou do ônus de possibilitar o adequado enfrentamento da matéria, por não haver trazido aos autos cópia da decisão do Juízo a quo que alterou a data-base.
+ ..
+(AgRg no HC n. 857.338/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1º/7/2024, DJe de 3/7/2024 - grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRETENDIDA ABSOLVIÇÃO DO DELITO PREVISTO NO ART. 35 DA LAD OU REDUÇÃO DAS BASILARES DOS DELITOS. INVIABILIDADE. DEFICIÊNCIA DE INSTRUÇÃO. PRECEDENTES. WRIT INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+2. A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que não foi juntada aos autos a cópia do acórdão de apelação.
+3. É cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 901.381/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2024, DJe de 29/5/2024 - grifei.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+2. O rito do habeas corpus, bem como de seu consectário recursal, demanda prova documental pré-constituída do direito alegado.
+3. No caso, a defesa não colacionou aos autos a íntegra do decreto prisional, documento necessário à análise do pleito de revogação da medida extrema. A ausência de peça essencial ao deslinde da controvérsia impede o exame das alegações.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 186.463/MG, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 - grifei.)
+Portanto, o pedido não pode ser apreciado nesta ação, nada impedindo a apresentação de nova impetração, dotada de adequada instrução.
+No que tange às irregularidades no flagrante, consoante o entendimento do Superior Tribunal de Justiça, a alegação de nulidades porventura existentes na prisão em flagrante fica superada com a conversão do flagrante em prisão preventiva, tendo em vista que constitui novo título a justificar a privação da liberdade. A propósito, os seguintes julgados: HC n. 543.459/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/2/2020, DJe de 12/2/2020; HC n. 429.366/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/11/2018; e RHC n. 108.338/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/3/2019, DJe de 1º/4/2019.
+Além disso, conforme a jurisprudência do Superior Tribunal de Justiça, "a não realização de audiência de custódia no prazo de 24 horas não acarreta a automática nulidade do processo criminal, assim como que a conversão do flagrante em prisão preventiva constitui novo título a justificar a privação da liberdade" (RHC n. 119.091/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/12/2019, DJe 12/12/2019).
+No mais, quanto ao alegado caráter genérico e abstrato do mandado de busca e apreensão, ressaltou-se que, com base nas provas e informações disponíveis até o momento nos autos, não é possível afirmar, de plano, a existência de irregularidades no referido mandado.
+O Tribunal, ao tratar do assunto, assim se manifestou (fl. 96, grifei):
+Das informações relacionadas no feito, colhe-se que o mandado de busca e apreensão em desfavor do paciente foi expedido após representação policial, em decorrência de suspeita de envolvimento do investigado com tráfico de drogas e posse ilegal de arma de fogo. As informações policiais coletadas anteriormente à busca e apreensão relaram a existência de movimentação atípica na residência do acusado ("pessoas em veículos, bicicletas e motocicletas que, periodicamente param na residência, chamam, apanham um objeto e rapidamente saem do local. Tal movimentação não foi observada em residências próximas e se assemelha àquilo que é observado em locais de mercancia de ilícitos").
+Na data de cumprimento do mandado, foram localizadas na residência e local de trabalho do réu (situados na mesma rua, no bairro Niterói, em Divinópolis/MG): 252 pacotes de cigarros de origem estrangeira sem documentação, uma arma municiada, de calibre 9mm, com numeração raspada, 15 munições do mesmo calibre, além de uma sacola plástica contendo a quantia de R$ 13.199,00 em espécie (escondida em compartimento similar a um sótão, conforme imagem fotográfica anexada ao auto de prisão).
+Assim, não se observa ilegalidade flagrante que justifique a concessão da ordem, porquanto, ao que consta dos autos, o mandado de busca e apreensão foi expedido após representação policial, tendo em vista que as informações coletadas anteriormente apontaram a existência de movimentação atípica na residência do acusado, própria da mercancia de ilícitos, o que não foi observado em residências próximas, circunstâncias que, em tese, validam a necessidade do mandado de busca e apreensão.
+Com as devidas adaptações, esta Corte Superior já decidiu que:
+ ..  neste momento processual e com as informações até então presentes nos autos, não se verifica de plano a ausência de justa causa para o ingresso no domicílio, em razão de indícios prévios e situação de flagrante criminal. De se destacar que o feito encontra-se em sua fase instrutória, devendo a tese de violação de domicílio no momento da prisão em flagrante ser analisada durante a instrução processual em juízo, em cognição plena.
+(AgRg no HC n. 838.483/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
