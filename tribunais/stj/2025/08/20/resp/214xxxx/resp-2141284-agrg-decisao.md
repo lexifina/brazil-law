@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por LEONARDO MONTEIRO MOJA à decisão de minha lavra (fls. 406/409), em que conheci parcialmente do recurso especial do ora embargante e, com fundamento na Súmula n. 568/STJ, neguei-lhe provimento.
+O embargante sustenta a violação ao art. 118, § 2º, da LEP, pois, na hipótese de possibilidade de regressão definitiva de regime carcerário por prática de falta disciplinar, imprescindível se faz a prévia oitiva do sentenciado em juízo, não sendo suprida por mera oitiva em estabelecimento prisional.
+Alega que a defesa não foi intimada da decisão que redesignou a data de julgamento para o dia 5/12/2023, a fim de que pudesse inscrever nos termos da norma administrativa citada no art. 146 do RITJSP.
+Afirma que prequestionou nas razões de agravo a questão do montante/limite do quantum de dias declarados perdidos em razão da(s) suposta(s) falta(s), o que restou apreciado pelo Tribunal Bandeirante no v. Acórdão de fls. 226/231 e que seria violador ao preceito do art. 127 da LEP.
+Repisa que o quantum máximo de punição é de 1/3, mesmo no caso de reincidência de faltas, devendo ser exigida fundamentação idônea acerca do montante de dias remidos a serem perdidos dado o comportamento do apenado e suas circunstâncias.
+Requer seja reconhecida a nulidade de cerceamento de defesa e, no mérito, o reconhecimento de apenas uma infração disciplinar, observado o limite de 1/3 dos dias remidos.
+Complementação das razões às fls. 446/471, em que sustenta a submissão do recurso ao colegiado.
+É o relatório.
+Decido.
+Em face do caráter eminentemente infringente dos embargos de declaração, os recebi como agravo regimental e determinei a complementação das razões.
+O recurso merece provimento, mas ficam mantidos os fundamentos de não conhecimento do recurso especial quanto às preliminares.
+Tem razão o agravante quando diz que é imprescindível a prévia oitiva do sentenciado em juízo para a regressão definitiva de regime carcerário por prática de falta disciplinar. Nos sentidos, cito: "A jurisprudência desta Corte é firme no sentido de ser possível a regressão cautelar, inclusive ao regime prisional mais gravoso, diante da prática de infração disciplinar no curso do resgate da reprimenda, sendo desnecessária até mesmo a realização de audiência de justificação para oitiva do apenado, exigência que se torna imprescindível somente para a regressão definitiva" (RHC 81.352/MA, rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 18/4/2017, DJe 28/4/2017), e "O entendimento firmado no âmbito da Quinta e da Sexta Turma do Superior Tribunal de Justiça é no sentido de ser imprescindível a realização de audiência de justificação perante o Juízo competente no procedimento administrativo disciplinar para apuração de falta grave quando houver regressão definitiva de regime prisional. Precedentes" (AgRg no AREsp n. 2.480.566/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024).
+Na hipótese, houve apenas a sindicância, ainda que observados os princípios do devido processo legal, contraditório e ampla defesa. Não se fez menção à oitiva do sentenciado em juízo.
+Ante o exposto, dou provimento ao agravo regimental, nos termos do art. 259, do RISTJ, para conhecer parcialmente e dar parcial provimento ao recurso especial do ora agravante a fim de cassar a decisão proferida pelo Juízo da Execução, bem como o acórdão que a confirmou, determinando-se que outra seja proferida, com observância da prévia oitiva judicial do sentenciado, na forma do art. 118, § 2º, da LEP.
+Publique-se.
+Intimem-se.
+EMENTA
