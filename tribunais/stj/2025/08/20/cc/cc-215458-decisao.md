@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de conflito de competência no âmbito de ação movida por Justina Soares Medeiros postulando o fornecimento dos medicamentos "Enfortumabe Vedotina e Pembrolizumabe, prescritas para o tratamento de neoplasia de bexiga invasiva e metastática"(fls. 54). A ação foi proposta contra o Estado do Ceará perante a 9ª Vara da Fazenda Pública de Fortaleza.
+O Juízo estadual constatou que o valor anual do tratamento oncológico superaria 210 salários-mínimos. Com isso, intimou a parte autora a incluir a União no polo passivo, exigência cumprida pela requerente. Em seguida, o feito foi remetido à Justiça Federal, seguindo o Tema 1.234/STF.
+O Juízo da 4ª Vara Federal de Fortaleza concluiu que o custo ânuo dos medicamentos estaria abaixo do aludido patamar fixado pelo STF, baseando sua decisão na estimativa feita pela parte requerente na exordial. Nessa linha, restituiu os autos ao Juízo estadual (fls. 110-114).
+Diante do retorno do processo, a 9ª Vara da Fazenda Pública da Comarca de Fortaleza suscitou o conflito consoante a decisão de fls. 6-8.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No Tema 1.234 da Repercussão Geral, o STF definiu a competência jurisdicional nos casos postulando medicamentos oncológicos, sejam eles padronizados ou não no âmbito do SUS. Eis a transcrição da tese na parte que interessa:
+I - Competência.
+1) Para fins de fixação de competência, as demandas relativas a medicamentos não incorporados na política pública do SUS e medicamentos oncológicos, ambos com registro na ANVISA, tramitarão perante a Justiça Federal, nos termos do art. 109, I, da Constituição Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG - situado na alíquota zero), divulgado pela Câmara de Regulação do Mercado de Medicamentos (CMED - Lei 10.742/2003), for igual ou superior ao valor de 210 salários mínimos, na forma do art. 292 do CPC.
+ ..
+A questão depende, exclusivamente, da definição sobre o valor do medicamento, havendo referência divulgada pela CMED no presente caso.
+A divergência estabelecida entre os juízos envolvidos é restrita ao custo anual total do tratamento.
+A primeira estimativa deste conflito encontra-se à fl. 52 dos autos, indicando que o fármaco de nome comercial Keytruda, na quantidade indicada à requerente, custaria mais de quatrocentos mil Reais, de acordo com os valores da CMED com o PMGV 0%.
+Ademais, às fls. 178, as informações prestadas pela União via Consultoria Jurídica do Ministério da Saúde (CONJUR/MS) apontam o custo anual dos dois medicamentos em mais de um milhão de Reais anuais, isso considerando como fonte do valor unitário "consulta à tabela CMED, publicada em 05.03.2024 e atualizada em 14.03.2024", precisamente a referência indicada na repercussão geral cuidando do tema.
+Logo, o valor do tratamento oncológico pelo período de um ano, observando os parâmetros fixados no Tema 1.234/STF, ultrapassa o patamar de 210 salários-mínimos, fixando-se a competência da Justiça Federal e a legitimidade da União.
+A estimativa feita pela parte autora na petição inicial, adotada pelo Juízo Federal, não detém respaldo documental. Ademais, o Juízo suscitante afirmou que a atribuição teria se baseado em divulgação da CMED do ano de 2022, inservível, pois, para a ação ajuizada no ano de 2024. Deve prevalecer a informação trazida pelo próprio corpo técnico da União ao autos para dirimir esse ponto .
+Finalmente, é importante registrar que, por se tratar de definição de competência segundo precedente vinculante do STF, afasta-se, excepcionalmente, a incidência das Súmulas 150 e 254 deste STJ.
+ANTE O EXPOSTO, nos termos do art. 34, XXII do RISTJ, conheço do conflito para declarar competente o Juízo federal suscitado. Publique-se. Preclusa a decisão, dê-se baixa e arquivem-se os autos.
+EMENTA
