@@ -1,0 +1,28 @@
+DECISÃO
+CAMILA DA LUZ VIEIRA RODRIGUES interpõe recurso especial com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação n. 5001542-69.2024.8.24.0167, que não conheceu da apelação da recorrente por intempestividade.
+Nas razões do especial, a recorrente aponta a violação dos arts. 370, § 4º, do Código de Processo Penal, 5º, § 5º, da Lei n. 1.060/1950 e 44, I, da LC n. 80/1994.
+A defesa se insurge contra o acórdão recorrido que, ao entender que o início do prazo ocorreu com a intimação pessoal do defensor dativo em plenário, não conheceu da apelação por sua extemporaneidade. Segundo a recorrente, o Tribunal de origem violou os dispositivos citados, os quais "estabelecem que a fluência do prazo recursal aberto em prol de defensor público ou pessoa que exerça cargo equivalente apenas se inicia a partir de sua intimação pessoal, cuja perfectibilização, se concretiza com a respectiva entrega dos autos com vista" (fls. 2.024-2.025).
+Requer o reconhecimento da tempestividade da apelação com o retorno dos autos ao Tribunal estadual para que aprecie o mérito do recurso. Além disso, postula a fixação de honorários advocatícios recursais ao defensor nomeado.
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 2.155-2.159).
+Decido.
+O recurso especial, embora tempestivo, não preenche todos os requisitos necessários para o seu processamento, porquanto o assunto em discussão não foi prequestionado.
+A ré foi condenada pela prática do crime previsto no art. 121,  §§ 1º e 2º, IV, c/c o art. 14, II, do Código Penal. Irresignada, a defesa interpôs apelação, a qual não foi apreciada pelo Tribunal de origem em virtude da intempestividade. Veja-se (fl. 2.002, destaquei):
+Em análise preliminar, constata-se que o recurso de apelação interposto por Camila da Luz Vieira Rodrigues não preenche os requisitos de admissibilidade previstos no Código de Processo Penal, uma vez que foi manejado fora do prazo legal, configurando manifesta intempestividade.
+Nos termos do art. 798, § 5º, alínea "b", do Código de Processo Penal, "o prazo para interposição de recursos será contínuo e peremptório, não se interrompendo nos feriados". Nessa linha, considerando que as partes foram devidamente intimadas da sentença em plenário na data de 26 de setembro de 2024, o prazo recursal de cinco dias teve início em 27 de setembro de 2024 (sexta-feira), encerrando-se em 1º de outubro de 2024 (terça-feira).
+Contudo, a defesa apenas protocolizou o recurso em 14 de outubro de 2024, ultrapassando de maneira expressiva o prazo legal, ainda que se considere a duplicação do prazo em razão da atuação de defensor dativo.
+A defesa interpôs recurso especial, ao argumento de que o termo inicial do prazo para recorrer, no caso em que a parte é assistida por advogado dativo, é a data da remessa dos autos ao defensor. Alega não ser possível iniciar a contagem com a simples intimação do advogado em audiência. Contudo, esse tema não foi submetido ao exame prévio da Corte local.
+O prequestionamento é requisito imprescindível para o conhecimento do especial, dada a necessidade de que as causas sejam decididas, em única ou última instância, consoante os termos do próprio inciso III do art. 105 da Constituição Federal.
+Assim, o Tribunal de origem não se pronunciou sobre a tese formulada neste recurso, circunstância que faz incidir os óbices das Súmulas n. 282 e 356 do STF, as quais enunciam, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento". Na mesma perspectiva: "A ausência de prequestionamento constitui óbice ao exame da matéria pela Corte Superior, a teor das Súmulas 282 e 356 do Pretório Excelso" (AgRg no AREsp n. 1.260.175/DF, Rel. Ministro Felix Fischer, 5ª T., DJe 15/6/2018).
+Ademais, nos termos da reiterada jurisprudência deste Superior Tribunal, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pela Corte de origem, o que não ocorreu na espécie. Ressalto que a parte não opôs embargos de declaração a fim de provocar a manifestação expressa do Tribunal de origem acerca do tema sob o viés pretendido.
+Nesse sentido:
+ ..
+2. Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo tribunal de origem e não foram opostos embargos de declaração para provocar sua análise.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.899.872/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 24/2/2022, grifei)
+1. Quanto aos pedidos atinentes à nulidade em razão da utilização da fundamentação per relationem - sem o acréscimo de novas razões de decidir pela Corte de origem - e do excesso de linguagem, não houve debate de forma específica na origem nem sequer a oportuna provocação do exame da quaestiopor meio de embargos de declaração. Em tal particularidade, ausente o necessário requisito do prequestionamento (Súmulas n. 282 e 356/STF).
+2. " ..  a jurisprudência desta Corte Superior exige o prequestionamento mesmo quando a suposta ilegalidade surja no próprio acórdão recorrido" (AgRg nos EDcl no REsp n. 1.852.897/RS, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/3/2021, DJe 29/3/2021).
+ ..
+(REsp n. 1.918.544/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 26/11/2021, destaquei. )
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
