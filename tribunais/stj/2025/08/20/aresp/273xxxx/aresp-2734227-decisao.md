@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IRISNALDO RODRIGUES DA SILVA contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ.
+Nas razões do agravo, a defesa argumenta que o recurso especial deveria ter sido admitido, pois o reexame de provas é desnecessário, trata-se apenas de revaloração de circunstâncias fáticas delimitadas nas instâncias inferiores.
+Aborda, ainda, aspectos relacionados ao mérito da causa e reitera questões deduzidas no recurso especial, pois violado o art. 59 do Código Penal, uma vez que, de acordo com as provas dos autos, deve ser decotada a circunstâncias judicial negativa da culpabilidade, na primeira fase da pena, referente ao crime de roubo majorado (art. 157, § 2º, I, II e V, do CP).
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo desprovimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 778):
+AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. PRIMEIRA FASE DA DOSIMETRIA DA PENA. CULPABILIDADE NEGATIVADA. FUNDAMENTAÇÃO IDÔNEA. PREMEDITAÇÃO DO CRIME. MAIOR REPROVABILIDADE. JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ.
+1. O recorrente alega ausência de fundamentação idônea para a negativação do vetor culpabilidade na primeira fase da dosimetria da pena. As instâncias ordinárias decidiram em conformidade com a jurisprudência do STJ, a qual estabelece que a premeditação do crime é fundamento idôneo para justificar a majoração da pena pela culpabilidade do réu.
+2. Parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo obter a modificação da pena fixada em seu desfavor.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial para afastar a circunstância negativa da culpabilidade, reconhecido em seu desfavor por ocasião da primeira fase de fixação da pena (art. 59 do CP) em face da premeditação do crime de roubo majorado, dependeria de revolvimento de fatos e provas, providência vedada em recurso especial.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Em situação semelhante à do presente feito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO INFRINGENTE. PRINCÍPIO DA FUNGIBILIDADE. DESCLASSIFICAÇÃO. DOSIMETRIA. PENA-BASE. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. IMPROVIMENTO.
+1. Embargos declaratórios com nítido intuito infringente devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. Registrado pelo acórdão que as provas apontam a conduta típica do roubo, na modalidade imprópria, porque "a violência, o disparo, foi empregada após a subtração da carteira, para assegurar a impunidade, consoante a dinâmica dos fatos", a reversão das premissas fáticas demandaria incursão fático-probatória, o que encontra óbice na Súmula 7/STJ.
+3. Nos termos da orientação jurisprudencial desta Corte, "A premeditação do delito revela a maior reprovabilidade da conduta planejada, sendo razão ordinariamente aceita para o desfavorecimento do vetor da culpabilidade" (AgRg nos EDcl no HC 664.841/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021).
+4. Na hipótese, contudo, entendendo o acórdão pela ausência de dolo de propósito - vontade refletida, pensada, premeditada -, pois o fato fora praticado mediante dolo de ímpeto, a exasperação da pena-base pela premeditação encontra óbice na Súmula 7 do STJ.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AREsp n. 1.877.337/GO, relator Ministro Olindo Menezes - Desembargador convocado do TRF 1ª REGIÃO, Sexta Turma, julgado em 16/11/2021, DJe de 19/11/2021 - grifei.)
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurs o inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
