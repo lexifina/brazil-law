@@ -1,0 +1,112 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0720832-44.2024.8.07.0020APELANTE(S)ASSOCIACAO DE MORADORES DO RESIDENCIAL THEMISAPELADO(S)VANIERI NOGUEIRA FILHORelatorDesembargador MAURICIO SILVA MIRANDA
+ Acórdão Nº2035551
+
+EMENTA
+
+APELAÇÃO. CIVIL. PROCESSO CIVIL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. HONORÁRIOS CONTRATUAIS/CONVENCIONAIS. INCLUSÃO NA CONDENAÇÃO. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+
+1. Os honorários advocatícios contratuais são de responsabilidade da parte contratante, cabendo à parte contrária apenas os honorários sucumbenciais. Precedentes do colendo STJ e dessa egrégia Corte de Justiça.
+
+2. Recurso conhecido e não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, MAURICIO SILVA MIRANDA - Relator, FÁTIMA RAFAEL - 1º Vogal e FABRÍCIO FONTOURA BEZERRA - 2º Vogal, sob a Presidência do Senhor Desembargador MAURICIO SILVA MIRANDA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 28 de Agosto de 2025
+
+Desembargador MAURICIO SILVA MIRANDAPresidente e Relator
+
+RELATÓRIO
+
+Trata-se de recurso de apelação interposto por ASSOCIAÇÃO DE MORADORES DO RESIDENCIAL THEMIS contra sentença proferida pela MM.ª Juíza de Direito da 1ª Vara Cível de Águas Claras, Dra. Marcia Alves Martins Lobo, que, nos autos da ação de cobrança de taxas condominiais proposta em face de VANIERI NOGUEIRA FILHO, julgou parcialmente procedente o pedido para condenar a parte ré ao pagamento das taxas condominiais vencidas e não pagas a partir de 10/06/2024 referentes à unidade nº 704, além das que se venceram no decorrer da ação até quando perdurar a obrigação (art. 323 do CPC), com a incidência de correção monetária e juros de mora.
+
+A parte ré foi condenada ao pagamento das custas processuais e honorários advocatícios, estes fixados em 10% (dez por cento) do valor da condenação.
+
+Em suas razões de recurso (ID. 71490060), a autora defende que “a r. sentença merece reforma relativamente à ausência de condenação do Requerido/Apelado ao pagamento dos honorários convencionais no importe de 20%” (p. 04).
+
+Sustenta que “em ação de cobrança de taxa condominial, existindo na Convenção disposição que estabeleça a responsabilidade do devedor pelo pagamento dos honorários do advogado contratado, devem eles, dada a sua natureza convencional, integrar o valor da condenação, a fim de recompor integralmente o patrimônio do credor” (p. 04)
+
+Aduz que a verba honorária convencional deve incidir sobre a condenação do réu, “a título de perdas e danos, como forma de ressarcir a Associação pelas despesas realizadas com contratação de advogado para a cobrança das cotas condominiais em atraso” (p. 06-07).
+
+Pugna, ao final, pela reforma da r. sentença apelada nos pontos combatidos, especificamente para condenar o réu aos honorários convencionais no percentual de 20% (vinte por cento);
+
+Preparo regular, conforme ID. 71490061.
+
+Sem contrarrazões, conforme certidão de ID. 71490065.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador MAURICIO SILVA MIRANDA - Relator
+
+Presente os requisitos de admissibilidade, conheço do recurso de apelação.
+
+Como relatado, trata-se de recurso de apelação interposto por ASSOCIAÇÃO DE MORADORES DO RESIDENCIAL THEMIS contra sentença proferida pela MM.ª Juíza de Direito da 1ª Vara Cível de Águas Claras, Dra. Marcia Alves Martins Lobo, que, nos autos da ação de cobrança de taxas condominiais proposta em face de VANIERI NOGUEIRA FILHO, julgou parcialmente procedente o pedido para condenar a parte ré ao pagamento das taxas condominiais vencidas e não pagas a partir de 10/06/2024 referentes à unidade nº 704, além das que se venceram no decorrer da ação até quando perdurar a obrigação (art. 323 do CPC), com a incidência de correção monetária e juros de mora.
+
+O cerne da controvérsia recursal cinge-se em definir se é cabível a cumulação dos honorários sucumbenciais com os honorários contratuais previstos no instrumento de locação firmado pelas partes.
+
+Após decidir sobre a cobrança de taxas condominiais, o d. Juízo sentenciante concluiu que (ID. 71490006):
+
+“[...] Por outro lado, “a despeito da previsão na convenção do condomínio, a matéria acerca da cobrança de honorários advocatícios convencionais encontra-se pacificada no sentido da impossibilidade de terceiro, estranho à relação jurídica entabulada entre o cliente e o causídico, ser responsável pela despesa daí decorrente, dada a ausência de previsão legal, o que revela a abusividade da cláusula convencional estipulada” (APELAÇÃO CÍVEL 0717342-53.2020.8.07.0020, Desembargador relator ALVARO CIARLINI, Acórdão nº1615471, 2ª Turma Cível, Data de publicação 22/09/2022), razão pela qual não há que se falar em condenação de honorários advocatícios convencionais. [...]”.
+
+Os honorários advocatícios podem ser classificados como sucumbenciais e convencionais/contratuais, conforme prevê o Estatuto da Advocacia (Lei nº 8.906/94).
+
+Os honorários sucumbenciais são de natureza alimentar e destinam-se à remuneração do patrono da parte vencedora de uma demanda processual, de modo que ficam a cargo da parte vencida mediante arbitramento judicial nos termos do art. 85 do CPC.
+
+De outro turno, os honorários previstos em Convenção de Condomínio possuem natureza contratual e não se confundem com os honorários advocatícios devidos em razão da sucumbência.
+
+Na hipótese, o parágrafo terceiro do art. 35 do Estatuto da Associação (ID. 71489975, p. 10) dispõe que, em caso de inadimplência, se houver necessidade de cobrança judicial, deverá o associado arcar com os honorários advocatícios convencionais na proporção de 20%.
+
+A respeito do tema, embora a matéria não seja pacífica no âmbito dessa egrégia Corte de Justiça, certo afirmar que o colendo STJ pacificou a questão no sentido de não admitir a inclusão dos honorários contratuais/convencionais em ação de cobrança de taxas condominiais, senão vejamos:
+
+“AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS CUMULADA COM PEDIDO DE PERDAS E DANOS. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS PREVISTO EM CONVENÇÃO. INVIABILIDADE. SÚMULA 83/STJ. AGRAVO DESPROVIDO. 1. A jurisprudência do STJ orienta que "[o]s honorários advocatícios contratuais são de responsabilidade da parte contratante, cabendo à parte contrária apenas os honorários sucumbenciais. 'A Corte Especial e a Segunda Seção do STJ já se pronunciaram no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. (...)' (AgInt no AREsp 1.332.170/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 07/02/2019, DJe de 14/02/2019)" (AgInt nos EDcl no REsp 1.675.516/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe de 18/12/2020). 2. Não é possível o conhecimento do recurso especial em que se alega ofensa a disposição de convenção de condomínio, por não se tratar de ato normativo que se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/1988. 3. Agravo interno a que se nega provimento.” (AgInt no REsp n. 2.135.895/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024.)
+
+“EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. INCLUSÃO NO VALOR DA INDENIZAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE DANO INDENIZÁVEL. EMBARGOS DE DIVERGÊNCIA REJEITADOS. 1. "A contratação de advogados para defesa judicial de interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça" (AgRg no AREsp 516277/SP, QUARTA TURMA, Relator Ministro MARCO BUZZI, DJe de 04/09/2014). 2. No mesmo sentido: EREsp 1155527/MS, SEGUNDA SEÇÃO, Rel. Ministro SIDNEI BENETI, DJe de 28/06/2012; AgRg no REsp 1.229.482/RJ, TERCEIRA TURMA, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe de 23/11/2012; AgRg no AREsp 430399/RS, QUARTA TURMA, Rel. Ministro RAUL ARAÚJO, DJe de 19/12/2014; AgRg no AREsp 477296/RS, QUARTA TURMA, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe de 02/02/2015; e AgRg no REsp 1481534/SP, QUARTA TURMA, Rel. Ministra MARIA ISABEL GALLOTTI, DJe de 26/08/2015. 3. A Lei n.º 8.906/94 e o Código de Ética e Disciplina da OAB, respectivamente, nos arts. 22 e 35, § 1.º, prevêem as espécies de honorários de advogado: os honorários contratuais/convencionais e os sucumbenciais. 4. Cabe ao perdedor da ação arcar com os honorários de advogado fixados pelo Juízo em decorrência da sucumbência (Código de Processo Civil de 1973, art. 20, e Novo Código de Processo Civil, art. 85), e não os honorários decorrentes de contratos firmados pela parte contrária e seu procurador, em circunstâncias particulares totalmente alheias à vontade do condenado. 5. Embargos de divergência rejeitados.” (EREsp n.º 1.507.864/RS, relatora Ministra LAURITA VAZ, julgado aos 20/4/2016, DJe de 11/5/2016.)
+
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). AÇÃO DE DESPEJO. ALEGADO ERRO MATERIAL NA CONDENAÇÃO. NÃO OCORRÊNCIA. INCLUSÃO DE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE DE COBRANÇA EM CASO DE ATUAÇÃO EM JUÍZO. PRECEDENTES. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO. 1. A orientação jurisprudencial da Segunda Seção do Superior Tribunal de Justiça, sedimentada por ocasião do julgamento dos EREsp 1.155.527/MG, (Rel. Ministro Sidnei Beneti, DJe 28/6/2012), é no sentido de que apenas os honorários contratuais pagos para a adoção de providências extrajudiciais decorrentes do inadimplemento são compreendidos pelo termo "honorários de advogado" previsto pelos arts. 389, 395 e 404 do Código Civil, excluindo-se os honorários contratados para a atuação judicial. 2. Agravo interno desprovido.” (AgInt no AREsp n. 2.482.522/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. VIOLAÇÃO AO ART. 1.022/CPC. INEXISTÊNCIA. RESSARCIMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS PARA DEFESA DOS INTERESSES DA PARTE EM JUÍZO. IMPOSSIBILIDADE. SÚMULA 83/STJ. AGRAVO IMPROVIDO. (...) 2. Os honorários advocatícios contratuais são de responsabilidade da parte contratante, cabendo à parte contrária apenas os honorários sucumbenciais. "A Corte Especial e a Segunda Seção do STJ já se pronunciaram no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. (...)" (AgInt no AREsp 1.332.170/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 07/02/2019, DJe de 14/02/2019).
+
+No mesmo sentido cito julgados dessa egrégia Corte de Justiça, “in verbis”:
+
+“APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. GRATUIDADE DE JUSTIÇA. PROVIMENTO. I. CASO EM EXAME: Trata-se de apelação cível interposta contra sentença que julgou procedente ação de cobrança de taxas condominiais, impondo ao réu o pagamento de valores em atraso, multa, correção monetária, juros de mora e honorários advocatícios, inclusive os previstos em Assembleia Geral Extraordinária do condomínio. II. QUESTÃO EM DISCUSSÃO: Discute-se a legalidade da inclusão dos honorários advocatícios contratuais no cálculo do débito condominial, diante da concessão de gratuidade de justiça ao devedor e da ausência de contratação direta entre ele e o advogado da parte autora. III. RAZÕES DE DECIDIR: A controvérsia recursal foi resolvida à luz dos arts. 389, 395 e 404 do Código Civil, os quais tratam da responsabilidade do devedor pelas perdas e danos decorrentes da mora, inclusive honorários advocatícios. Contudo, tais dispositivos referem-se à atuação extrajudicial do patrono da parte credora. A jurisprudência entende que, uma vez ajuizada a ação, a verba honorária deve limitar-se aos honorários de sucumbência fixados judicialmente, sob pena de bis in idem. Não demonstrada atuação extrajudicial do patrono do autor, considerou-se indevida a imposição de honorários contratuais ao réu. IV. DISPOSITIVO: Recurso conhecido e provido para excluir da condenação a obrigação de pagamento dos honorários advocatícios convencionais fixados em Assembleia Geral Extraordinária.” (Acórdão 2013343, 0707198-14.2024.8.07.0009, Relator(a): ARQUIBALDO CARNEIRO PORTELA, 6ª TURMA CÍVEL, data de julgamento: 18/06/2025, publicado no DJe: 10/07/2025.)
+
+“DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. ASSOCIAÇÃO DE MORADORES. CONDOMÍNIO IRREGULAR. HONORÁRIOS CONVENCIONAIS. IMPOSSIBILIDADE. OMISSÃO RECONHECIDA, SEM EFEITOS INFRINGENTES. (...) 2. Na espécie, o estatuto do condomínio prevê que, havendo a necessidade de propositura da ação judicial, deverá o condômino arcar com os honorários advocatícios (convencionais), no percentual de 20%, além das custas processuais, conforme dispõe o art. 40, § 1°, do CPC (Id. 34395886). 3. Os honorários advocatícios contratuais, porque decorrentes de avença estritamente particular, não podem ser ressarcidos pela parte sucumbente que não participou do ajuste (Acórdão 1220776, Relator: João Egmont, 2ª Turma Cível, data de julgamento: 4.12.2019, publicado no DJe: 16.12.2019). 4. A fixação de honorários é ato privativo do juiz, a quem cabe analisar as circunstâncias do caso concreto e fixar o valor adequado para remunerar o trabalho desenvolvido pelo advogado do condomínio, segundo os critérios dispostos no artigo 85, § 2°, do Código de Processo Civil. Logo, a fixação de honorários advocatícios na sentença e no contrato configuraria bis in idem, devendo, pois, prevalecer o arbitramento judicial. 5. Embargos de Declaração opostos pelo Autor conhecidos e providos, sem efeitos infringentes. Unânime.” (Acórdão 1678170, 0739308-32.2020.8.07.0001, Relator(a): FÁTIMA RAFAEL, 3ª TURMA CÍVEL, data de julgamento: 16/03/2023, publicado no DJe: 03/04/2023.)
+
+“APELAÇÃO CÍVEL. CIVIL. CIVIL. PROCESSO CIVIL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. HONORÁRIOS CONVENCIONAIS. IMPOSSIBILIDADE. SENTENÇA MANTIDA. 1. A Corte Especial do colendo STJ já se pronunciou no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. Precedentes. 2. O contrato de prestação serviços advocatícios firmado entre advogado e seu cliente, e ensejador da verba honorária convencional, não é capaz de impor obrigações para terceiros, já que estabelece obrigações vinculadas exclusivamente para os contratantes. 3. A responsabilidade prevista no § 1º do art. 1.336 do CC/02 para a hipótese de inadimplemento de contribuição condominial, sujeita o condômino somente aos juros moratórios convencionados ou, não havendo esta previsão, em um por cento ao mês e multa de até dois por cento sobre o débito. 4. Recurso conhecido e não provido.” (Acórdão 1777704, 0713663-97.2023.8.07.0001, de minha Relatoria, 7ª TURMA CÍVEL, data de julgamento: 25/10/2023, publicado no DJe: 13/11/2023.)
+
+“DIREITO CIVIL. DESPESAS CONDOMINAIS. COBRANÇA. MULTA MORATÓRIA. MULTA COMPENSATÓRIA. CUMULAÇÃO. FATOS GERADORES DIVERSOS. HONORÁRIOS ADVOCATÍCIOS. COBRANÇA EXTRAJUDICIAL. 1. É possível a cumulação de multa moratória com compensatória, desde que expressamente prevista e por fatos diversos, sob pena de bis in idem. 2. Em se tratando de cobrança judicial, os honorários são fixados com base no art. 85 do Código de Processo Civil. O princípio da relatividade dos efeitos contratuais não autoriza a inclusão de cobrança de honorários pagos pelo credor para atuação do seu patrono em juízo. 3. Negou-se provimento ao recurso.” (Acórdão 1870840, 0717768-60.2023.8.07.0020, Relator(a): FABRÍCIO FONTOURA BEZERRA, 7ª TURMA CÍVEL, data de julgamento: 29/05/2024, publicado no DJe: 24/06/2024.)
+
+Com efeito, as disposições invocadas pelo autor apelante, estabelecidas nos artigos 389, 395 e 404, todos do Código Civil, têm por finalidade o ressarcimento de despesas efetuadas com causídicos, mas relacionadas a gastos decorrentes do exercício de atividades extrajudiciais, pois eventuais valores desinentes da atuação judicial serão remunerados por intermédio de arbitramento de honorários sucumbenciais.
+
+Nesse aspecto, é possível concluir que o contrato de prestação de serviços advocatícios firmado entre o advogado e seu cliente, ensejador da verba honorária convencional, não é capaz de impor obrigações para terceiros, já que estabelece obrigações vinculadas exclusivamente para os contratantes.
+
+Sob este raciocínio, ainda que a associação apelante tenha suportado gastos com a contratação de serviços advocatícios, no caso, não se permite a responsabilização da parte contrária pela escolha daquele.
+
+Ademais, a responsabilidade prevista no § 1º do art. 1.336 do CC/02 para a hipótese de inadimplemento de contribuição condominial, sujeita o condômino somente aos juros moratórios convencionados ou, não havendo esta previsão, em 1% (um por cento) ao mês e multa de até 2% (dois por cento) sobre o débito.
+
+No mesmo sentido a jurisprudência deste egrégio Tribunal de Justiça do Distrito Federal. In verbis:
+
+“DIREITO CIVIL. APELAÇÃO. AÇÃO DE COBRANÇA. ASSOCIAÇÃO DE MORADORES. TAXAS CONDOMINIAIS. ENCARGOS DECORRENTES DA MORA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. IMPOSSIBILIDADE. LIBERALIDADE ENTRE CONTRATANTE E CONTRATADO. RECURSO IMPROVIDO. 1. Apelação interposta contra sentença que julgou procedentes os pedidos de ação de cobrança de taxas condominiais. 1.1. Pretensão da associação autora de reforma da sentença para que a condenação englobe os honorários convencionais previstos no Estatuto da Associação. 2. O ponto controvertido neste caso diz respeito à exclusão dos cálculos apresentados pela parte autora, ora apelante, do percentual relativo aos honorários de advogado. 3. Os honorários advocatícios podem ser classificados como sucumbenciais ou contratuais. O recebimento de ambos é direito do advogado pela retribuição ao exercício da atividade profissional. 3.1. Os honorários de sucumbência devem ser fixados em sentença, de modo que o pagamento fique a cargo da parte vencida. 3.2. Os honorários contratuais, noutro giro, são estipulados por contrato firmado entre o advogado e o cliente/contratante. 4. De acordo com o Estatuto da Associação, o associado inadimplente arcará com o percentual de 20% dos honorários advocatícios em caso de propositura de ação judicial para cobrança das taxas condominiais não adimplidas. 4.1. Da análise da cláusula, nota-se que se trata de honorários convencionais decorrentes da mora do condômino, com objetivo de ressarcir possível custo com a contratação de advogado para a cobrança das parcelas inadimplidas. 5. A matéria referente à cobrança de honorários advocatícios convencionais já foi objeto de ampla discussão jurisprudencial e atualmente encontra-se pacificado o entendimento pela impossibilidade de terceiro, estranho à relação jurídica entabulada entre o cliente e o causídico, ser responsável pela despesa daí decorrente. 5.1. Os arts. 389, 395 e 404, todos do Código Civil, ao preverem que o devedor arcará com as perdas e danos mais os honorários de advogado, objetivaram a restituição das despesas com esses profissionais relativas à prática de atos extrajudiciais, vez que os gastos decorrentes do exercício em sede judicial serão remunerados com o arbitramento dos honorários sucumbenciais. 5.2. O contrato de prestação de serviços entabulado entre o advogado e seu cliente não pode gerar obrigações para terceiros, pois somente existe no interesse e para vincular os contraentes. 6. O art. 1.336, §1º, do Código Civil, que trata sobre os encargos decorrentes da mora do condômino, não prevê o pagamento de honorários advocatícios convencionais no caso de inadimplemento, prevendo tão somente para o caso a incidência de juros convencionados e multa de dois por cento sobre o débito. 7. Revela-se abusiva a cobrança de honorários como prevista na convenção da associação, além de não estar amparada em autorização legal. 8. Precedente: "(...) Se os honorários advocatícios decorrentes de atividade em juízo são fixados de acordo com o artigo 85 ou com base no artigo 827, ambos do CPC, e não sendo possível cobrar do devedor o que se despendeu na contratação de advogado para ajuizar a ação de conhecimento ou de execução (ante a impossibilidade de vincular o devedor ao ajuste feito entre o credor e seu advogado), forçoso concluir que as disposições dos artigos 389, 395 e 404, do Código Civil, referem-se a honorários advocatícios devidos ao credor por eventual atividade exercida por advogado por este contratado para efetuar a cobrança na fase extrajudicial, antes do ajuizamento da causa. Precedentes do STJ. 6. Apelações conhecidas e desprovidas." (07127108620178070020, Relator: Cesar Loyola, 2ª Turma Cível, publicado no DJE: 1/4/2019). 9. Recurso improvido.” (Acórdão 1435030, 07307036320218070001, Relator: JOÃO EGMONT, 2ª Turma Cível, data de julgamento: 29/6/2022, publicado no DJE: 12/7/2022. Pág.: Sem Página Cadastrada.) Grifo nosso.
+
+Em que pese a alegação da ocorrência de gastos acerca da aludida verba contratual, no caso vertente, a parte autora também não demonstra os necessários dispêndios econômicos com a contratação dos serviços advocatícios, não apresentando, ao menos, cópia da contratação dos profissionais (inc. I do art. 373 do CPC).
+
+Assim, o eventual pagamento das verbas convencionais, como pretendido pela associação apelante, revelaria abusividade em detrimento de possível enriquecimento sem causa, o qual, por sua vez, não encontra fundamento em previsão normativa de nosso ordenamento.
+
+Do exposto, CONHEÇO do recurso e a ele NEGO PROVIMENTO, mantendo íntegra a r. sentença apelada.
+
+Não há que se falar em honorários recursais, tendo em vista que “o recurso interposto pelo vencedor para ampliar a condenação – que não seja conhecido, rejeitado ou desprovido – não implica honorários de sucumbência recursal para a parte contrária”. (STJ, Jurisprudência em Teses, Edição n. 129: Dos honorários Advocatícios - II, Tese n. 6).
+
+É como voto.
+
+A Senhora Desembargadora FÁTIMA RAFAEL - 1º Vogal Com o relatorO Senhor Desembargador FABRÍCIO FONTOURA BEZERRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
