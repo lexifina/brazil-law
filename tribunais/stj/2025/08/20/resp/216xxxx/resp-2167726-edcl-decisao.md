@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração, no qual o embargante alega contradição, ao argumento de que, embora a decisão agravada tenha citado precedente inadmitindo a abordagem com base em denúncia anônima, no caso concreto, entendeu pela licitude da diligência policial; e omissão "na medida em que não houve pronunciado a respeito do alegado consentimento para entrada em domicílio cuja espontaneidade foi reconhecida com base em elementos colhidos na fase inquisitorial não corroborados em Juízo, conforme consignado no acórdão" (e-STJ fls. 585-588).
+É o relatório.
+Decido.
+Os Embargos de Declaração são tempestivos.
+Contudo, não ficou demonstrado qualquer vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões que motivaram a solução dada ao caso concreto.
+Nos termos da tese fixada pelo e. Supremo Tribunal Federal no julgamento do Tema 339, "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas".
+De modo semelhante, a c. Primeira Seção deste e. Superior Tribunal de Justiça entende que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 08/06/2016, DJe 15/06/2016).
+A obrigatoriedade de fundamentação das decisões judiciais não impõe ao magistrado a obrigação de responder a todos os questionamentos das partes, nem tampouco de utilizar-se dos fundamentos que elas entendem serem os mais adequados para solucionar a causa posta em apreciação, bastando a fundamentação suficiente ao deslinde da questão (EDcl no CC 109723 / PB, relatora Ministra Assusete Magalhães, Terceira Seção, julgado em 10/10/2012, DJe 31/10/2012).
+Em igual sentido, é o entendimento das c. Turmas Criminais desta Corte de Justiça: EDcl no RHC 164616 / GO, Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe 20/04/2023; AgRg no AREsp 2478214 / GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe 23/04/2024; AgRg no HC 633447 / GO, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 6/6/2023, DJe 15/06/2023.
+Com efeito, a autorização de ingresso no domicílio foi confirmada pelo próprio embargante, na fase policial, acompanhado de advogado e pelo policial ouvido em juízo.
+De outro lado, descabem embargos de declaração com a finalidade de sanar supostas contradições entre a decisão embargada e julgados diversos, pois, como cediço, a contradição que autoriza a oposição de embargos é a interna do próprio julgado.
+No caso, portanto, os presentes embargos refletem mera irresignação da parte com o resultado do julgamento, o que revela o descabimento do recurso ora manejado.
+Nesse sentido, importa destacar que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
