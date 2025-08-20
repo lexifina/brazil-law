@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESVIRTUAMENTO DO HABEAS CORPUS. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, a condenação transitou em julgado, de modo que o writ constitui substitutivo de revisão criminal, a evidenciar que qualquer pronunciamento desta Corte Superior implicaria a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+RELATÓRIO
+RAISSA ALVES LEME agrava da decisão de fls. 212-213, em que indeferi liminarmente o habeas corpus, dada a inadequação da via eleita para o pleito.
+Para tanto, assere que " n ão houve qualquer enfrentamento dos fundamentos centrais expostos na impetração, tampouco apreciação da documentação que revela, de forma objetiva, a nulidade absoluta por cerceamento de defesa. Tal omissão afronta diretamente o art. 315, § 2º, do Código de Processo Penal, na medida em que a decisão não apresenta motivação concreta, não aprecia os argumentos capazes de infirmar sua conclusão e não indica distinção ou superação dos precedentes citados pela defesa" (fl. 219).
+Requer, assim, " o  conhecimento e provimento do presente agravo regimental, reformando-se a decisão ora recorrida, para então conceder a ordem de habeas corpus declarando nulos o julgamento da apelação e o trânsito em julgado, o que restabelecerá o direito de sustentação oral por parte do impetrante e/ou a intimação/prazo para a interposição dos recursos cabíveis" (fl. 221).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESVIRTUAMENTO DO HABEAS CORPUS. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, a condenação transitou em julgado, de modo que o writ constitui substitutivo de revisão criminal, a evidenciar que qualquer pronunciamento desta Corte Superior implicaria a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+VOTO
+Consoante disposto na decisão impugnada, alegou sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 1502084-22.2024.8.26.0530, em que foi mantida a sentença que "condenou a ré RAÍSSA ALVES LEME à pena de 5 anos de reclusão, em regime inicial semiaberto, mais o pagamento de 500 dias-multa, com valor unitário no mínimo legal, por infração ao disposto no art. 33, "caput", da Lei n.º 11.343/06" (fl. 7).
+A esse respeito, releva salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofíci o, da ordem de habeas corpus.
+Na hipótese, verifica-se, em consulta ao sítio eletrônico do Tribunal a quo, que a sentença condenatória transitou em julgado em 15/4/2025, de modo que o writ constitui substitutivo de revisão criminal, a obstar, assim, seu conhecimento.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus. Dessarte, mostra-se indevida a subversão do sistema recursal.
+À vista do exposto, nego provimento ao recurso.
