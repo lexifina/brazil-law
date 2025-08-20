@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO  ESPECIAL. SERVIDOR PÚBLICO. DIFERENÇAS DECORRENTES DA URV. REAJUSTE DE 11,98%. RECONHECIMENTO ADMINISTRATIVO. RENÚNCIA TÁCITA DA PRESCRIÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ orienta-se em que o reconhecimento normativo da existência de prejuízo decorrente da conversão de Cruzeiros Reais para URV implica renúncia tácita ao prazo prescricional para o exercício da pretensão correspondente. Precedentes.
+2. Agravo  interno desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto pela UNIÃO contra  a decisão  que negou provimento ao recurso especial.
+Alega  a  parte agravante, em síntese, que a questão da renúncia tácita à prescrição foi objeto de exame pelo Superior Tribunal de Justiça no Tema 1109 (REsp 1925192/RS, REsp 1925193/RS e REsp 1928910/RS), firmando-se a tese de que "não ocorre renúncia tácita à prescrição (art. 191 do Código Civil), a ensejar o pagamento retroativo de parcelas anteriores à mudança de orientação jurídica, quando a Administração Pública, inexistindo lei que, no caso concreto, autorize a mencionada retroação, reconhece administrativamente o direito pleiteado pelo interessado" (fl. 405).
+Pugna, por fim, pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO  ESPECIAL. SERVIDOR PÚBLICO. DIFERENÇAS DECORRENTES DA URV. REAJUSTE DE 11,98%. RECONHECIMENTO ADMINISTRATIVO. RENÚNCIA TÁCITA DA PRESCRIÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ orienta-se em que o reconhecimento normativo da existência de prejuízo decorrente da conversão de Cruzeiros Reais para URV implica renúncia tácita ao prazo prescricional para o exercício da pretensão correspondente. Precedentes.
+2. Agravo  interno desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+No recurso especial desprovido, a recorrente pretendeu o reconhecimento da consumação do prazo prescricional, ao argumento de que ação foi ajuizada quase dez anos depois de vencida a última parcela requerida.
+Ocorre que, conforme decidido na decisão agravada, a jurisprudência do STJ orienta-se em que o reconhecimento normativo da existência de prejuízo decorrente da conversão de Cruzeiros Reais para URV implica renúncia tácita ao prazo prescricional para o exercício da pretensão correspondente.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. URV. LEI ESTADUAL RECONHECENDO A PERDA REMUNERATÓRIA DE 1 1,98% (ONZE VÍRGULA NOVENTA E OITO POR CENTO). RENÚNCIA TÁCITA DA PRESCRIÇÃO. PRECEDENTES DO STJ.
+ ..
+3. É firme o entendimento deste Superior Tribunal no sentido de que o reconhecimento normativo da existência de prejuízo decorrente da conversão de Cruzeiros Reais para URV implica renúncia tácita ao prazo prescricional para o exercício da pretensão correspondente. Nesse sentido: AgInt no REsp n. 1.589.275/MA, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 23/10/2017; AgInt no AREsp n. 1.105.892/MA, relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 27/8/2020; AgInt no REsp n. 1.461.030/MA, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 1º/9/2022.
+4. Caso concreto em que o Tribunal de origem consignou a premissa segundo a qual a Lei Estadual n. 8.920/2009 reconheceu aos servidores públicos o direito às diferenças remuneratórias decorrentes da conversão de seus vencimentos de Cruzeiros Reais para URV no percentual de 11,98% (onze vírgula noventa e oito por cento).
+5. Inaplicabilidade da Súmula 85/STJ, tendo em vista que, como confessado pelo próprio agravante, "no caso em exame a ação fora intentada em 2013", ou seja, menos de cinco anos após o início da vigência da Lei Estadual n. 8.920/2009, motivo pelo qual os efeitos financeiros decorrentes da pretensão retroagem integralmente.
+6. Agravo interno desprovido (AgInt no AREsp n. 2.441.631/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE 11,98%. CONVERSÃO DA MOEDA EM UNIDADE REAL DE VALOR (URV). PRESCRIÇÃO. EXAME DE LEI LOCAL E REEXAME DO CONJUNTO PROBATÓRIO. INAPLICABILIDADE DAS SÚMULAS 280//STF E 7/STJ, ANTE AO QUE RESTOU CONSIGNADO NO ACÓRDÃO RECORRIDO. RECONHECIMENTO DO DIREITO. RENÚNCIA TÁCITA. DEMANDA AJUIZADA ANTES DE DECORRIDOS CINCO ANOS DO RECONHECIMENTO DO DIREITO. DIREITO À INTEGRAL RETROATIVIDADE DOS EFEITOS FINANCEIROS. PRECEDENTES. INAPLICABILIDADE DA SÚMULA 85/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O acórdão recorrido - ao decidir que "a renúncia da prescrição quinquenal retoma o direito de crédito desde a data do erro administrativo. Contudo, para ações ajuizadas após o ato de reconhecimento e implantação da recomposição, opera-se o enunciado no. 85 de súmula do STJ" - está em confronto com a atual orientação desta Corte, segundo a qual "o reconhecimento administrativo do direito ao reajuste almejado pelos servidores implica renúncia tácita ao prazo prescricional para o exercício da pretensão correlata, passando a ser o marco temporal que distingue a amplitude da retroação dos efeitos financeiros segundo a data de exercício da pretensão, razão pela qual àquelas exercidas até cinco anos depois do reconhecimento administrativo do direito assegura-se a integral retroatividade dos efeitos financeiros, ou seja, até a data em que se originou o direito ao reajuste, enquanto às pretensões exercidas após cinco anos do reconhecimento administrativo do direito aplica-se o prazo prescricional quinquenal às parcelas que antecedam a cinco anos da propositura da ação, tal como sedimentado na Súmula n. 85 do STJ" (STJ, AgInt no REsp 1.589.275/MA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 23/10/2017).
+IV. No caso, a norma estadual que reconheceu o direito dos agravados ao percentual de 11,98%, referente às perdas decorrentes da conversão da moeda em URV, data de 12/01/2009. Assim, ajuizada a presente demanda em 22/06/2012, antes de decorridos cinco anos da data do reconhecimento do direito, pela Lei estadual 8.920/2009, consoante consignado no acórdão recorrido, os efeitos financeiros devem retroagir a abril de 1994, a afastar a incidência da Súmula 85/STJ.
+V. Agravo interno improvido (AgInt no REsp n. 1.461.030/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Por fim, destaco que o entendimento firmado pelo STJ no Tema 1109 versa sobre hipótese distinta da dos autos.
+Isso posto, nego provimento ao recurso.
