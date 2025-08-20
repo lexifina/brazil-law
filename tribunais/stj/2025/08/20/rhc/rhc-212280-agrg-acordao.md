@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Tráfico de drogas. decisão adequadamente fundamentada. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que manteve a prisão preventiva do agravante, acusado de tráfico de drogas, com base na gravidade concreta da conduta e na periculosidade evidenciada pela posse de 1 quilograma de maconha e 100 gramas de cocaína.
+2. A prisão preventiva foi mantida pelas instâncias ordinárias, que destacaram o risco à ordem pública e a disposição do agravante em correr riscos para evitar a ação estatal, evidenciada pela fuga e colisão do automóvel.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada, considerando a quantidade de drogas apreendidas e a alegação de que medidas cautelares alternativas seriam suficientes.
+III. Razões de decidir
+4. A prisão preventiva está devidamente fundamentada na gravidade concreta do delito e na periculosidade do agravante, evidenciadas pela quantidade de drogas apreendidas e pela fuga do distrito da culpa.
+5. As condições pessoais favoráveis do agravante, como a primariedade, não são suficientes para afastar a prisão preventiva quando esta está devidamente fundamentada.
+6. Medidas cautelares alternativas são inaplicáveis, pois as circunstâncias do caso indicam que seriam insuficientes para garantir a ordem pública.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada na gravidade concreta do delito e na periculosidade do agente. 2. Condições pessoais favoráveis não impedem a prisão cautelar quando presentes os requisitos legais. 3. Medidas cautelares alternativas são inaplicáveis se insuficientes para garantir a ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319.
+Jurisprudência relevante citada: STJ, AgRg no RHC 173.374/BA, Rel. Min. Antonio Saldanha Palheiro, DJe 30/3/2023; STJ, AgRg no HC 803.157/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe 24/3/2023; STJ, AgRg no HC 797.708/SC, Rel. Min. Ribeiro Dantas, DJe 24/3/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por NATAN LEMONI SEEMANN contra decisão de minha relatoria (fls. 144/149), que não deu provimento ao recurso em Habeas Corpus interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do Habeas Corpus Criminal n. 5003519-78.2025.8.24.0000.
+A defesa reitera que não há fundamento concreto para a prisão preventiva. Destaca a suficiência de outras cautelares ao caso, notadamente dada a primariedade do réu. Requer assim a colocação do ora agravante em liberdade com ou sem a aplicação de cautelares diversas da prisão (fls. 154/156).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Tráfico de drogas. decisão adequadamente fundamentada. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que manteve a prisão preventiva do agravante, acusado de tráfico de drogas, com base na gravidade concreta da conduta e na periculosidade evidenciada pela posse de 1 quilograma de maconha e 100 gramas de cocaína.
+2. A prisão preventiva foi mantida pelas instâncias ordinárias, que destacaram o risco à ordem pública e a disposição do agravante em correr riscos para evitar a ação estatal, evidenciada pela fuga e colisão do automóvel.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada, considerando a quantidade de drogas apreendidas e a alegação de que medidas cautelares alternativas seriam suficientes.
+III. Razões de decidir
+4. A prisão preventiva está devidamente fundamentada na gravidade concreta do delito e na periculosidade do agravante, evidenciadas pela quantidade de drogas apreendidas e pela fuga do distrito da culpa.
+5. As condições pessoais favoráveis do agravante, como a primariedade, não são suficientes para afastar a prisão preventiva quando esta está devidamente fundamentada.
+6. Medidas cautelares alternativas são inaplicáveis, pois as circunstâncias do caso indicam que seriam insuficientes para garantir a ordem pública.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada na gravidade concreta do delito e na periculosidade do agente. 2. Condições pessoais favoráveis não impedem a prisão cautelar quando presentes os requisitos legais. 3. Medidas cautelares alternativas são inaplicáveis se insuficientes para garantir a ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319.
+Jurisprudência relevante citada: STJ, AgRg no RHC 173.374/BA, Rel. Min. Antonio Saldanha Palheiro, DJe 30/3/2023; STJ, AgRg no HC 803.157/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe 24/3/2023; STJ, AgRg no HC 797.708/SC, Rel. Min. Ribeiro Dantas, DJe 24/3/2023.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+Não obstante, o presente recurso não merece provimento, em que pese os argumentos apresentados pelos agravantes, devendo a decisão ser mantida por seus próprios fundamentos.
+Consoante relatado na decisão de fls. 144/149, verifica-se que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, o risco à ordem pública em razão da gravidade concreta da conduta, e a periculosidade do recorrente, que tinha em sua posse a expressiva quantidade de 1 quilograma de maconha e 100 gramas de cocaína.
+É pacífica a "jurisprudência desta Corte acerca da manutenção da prisão preventiva em razão da quantidade de droga, contumácia delitiva e fuga do distrito da culpa, circunstâncias que justificam a manutenção da prisão cautelar para a garantia da ordem pública" (AgRg no RHC n. 173 .374/BA, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803 .157/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797 .708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023); (AgRg no HC n. 806 .211/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 761 .012/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 22/12/2022).
+Ademais, consoante ressaltaram as instâncias anteriores, o agravante não obedeceu a ordem de parada dos policiais e, inclusive, colidiu o automóvel ao final da fuga, de modo que a "disposição do Paciente a correr riscos para evitar a regular ação estatal é evidência unívoca do risco à ordem pública que sua liberdade representa".
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+Outrossim, o entendimento deste Superior Tribunal de Justiça é no sentido de que as condições favoráveis do agente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada, e é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA. TRÁFICO DE DROGAS. AUSÊNCIA DE CONTEMPORANEIDADE. INOVAÇÃO RECURSAL. PRESENTES OS REQUISITOS DA PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. TRANSPORTE DE GRANDE QUANTIDADE DE DROGAS EM REGIÃO DE FRONTEIRA. RÉU NÃO RESIDE NO DISTRITO DA CULPA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+1. A tese relacionada à ausência de contemporaneidade da custódia cautelar não foi aventada nas razões do habeas corpus, em que se limitou na matéria referente à possibilidade de revogação da prisão preventiva, ante a alegada falta de fundamentação do decreto preventivo, configurando-se hipótese de inovação recursal, o que impede a análise em sede de agravo regimental.
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos do previsto no art . 319 do CPP.No caso dos autos, verifica-se que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a periculosidade do agente e a gravidade do delito, consubstanciadas pela grande quantidade de drogas apreendidas que o agravante estava transportando em uma motocicleta, com emplacamento paraguaio, em região de fronteira - 50kg de maconha -, o que demonstra risco ao meio social, justificando a manutenção da custódia cautelar.Ademais, a Corte estadual destacou que "o paciente não reside no distrito de culpa, sendo que estava hospedado há poucos meses em uma pensão em Bela Visa/Paraguai não havendo comprovação de endereço fixo e atividade lícita".Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública e da aplicação da lei penal não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação .
+3. Consoante o entendimento da egrégia Quinta Turma desta Corte Superior de Justiça, "a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (AgRg no HC 550.382/RO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 13/3/2020).
+4. As condições favoráveis do agente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada, conforme a jurisprudência desta Corte Superior de Justiça.
+5. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art . 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves.
+6. Agravo regimental desprovido.
+(AgRg no HC: 837507 MS 2023/0239516-7, Relator.: Ministro JOEL ILAN PACIORNIK, Data de Julgamento: 30/10/2023, T5 - QUINTA TURMA, Data de Publicação: DJe 08/11/2023)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS INTERESTADUAL. CIRCUNSTÂNCIAS DA APREENSÃO. QUANTIDADE E NATUREZA DE DROGAS - QUASE 34KG (TRINTA E QUATRO QUILOGRAMAS) DE CLORIDRATO DE COCAÍNA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AGRAVO REGIMENTAL DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art . 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada nas circunstâncias da prisão em flagrante e na grande quantidade de droga apreendida, pois o agravante estava transportando aproximadamente 33,700kg (trinta e três quilogramas e setecentos gramas) de cloridrato de cocaína, acondicionados em compartimentos ocultos no interior do veículo, com destino à São Paulo. Dessarte, evidenciadas a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes. 5. Agravo regimental desprovido.
+(AgRg no HC: 866810 MS 2023/0401620-9, Relator.: Ministro ANTONIO SALDANHA PALHEIRO, Data de Julgamento: 21/05/2024, T6 - SEXTA TURMA, Data de Publicação: DJe 27/05/2024)
+Ausente, portanto, qualquer constrangimento ou abuso de poder que justifique a concessão da ordem de ofício.
+Ante o exposto, voto pelo desprovimento do agravo.
