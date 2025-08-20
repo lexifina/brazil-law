@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interno interposto por PAREXGROUP INDUSTRIA E COMERCIO DE ARGAMASSAS LTDA, contra decisão proferida pelo então relator, Ministro Herman Benjamin, que deu provimento ao recurso especial da Fazenda Nacional à motivação de que "o aresto vergastado está alinhado com o entendimento desta Corte Superior, no sentido de que é possível a liquidação da carta de fiança, com a ressalva de que o levantamento do depósito realizado pelo garantidor fica condicionado ao trânsito em julgado, nos termos do art. 32, § 2º, da LEF" (fl. 363).
+Em suas razões, a agravante afirma que "a análise do princípio da menor onerosidade, que só é possível pela análise pormenorizada e sopesada das circunstâncias próprias do caso concreto, já foi exaurida pelo Eg. Tribunal a quo, assim, como sobredito, não pode ser realizada por esta Col. Corte, pode demandar, forçosamente, a apreciação de fatos."
+As contrarrazões não foram apresentadas (fl. 418).
+Em face da inovação trazida pela Lei 14.689/2023, em despacho de fls. 425, o então relator determinou que, com base no art. 10 do CPC, manifestem-se as partes sobre o disposto no art. 9º, § 7º, da LEF, com redação dada pela Lei 14.689/2023.
+Em atendimento ao chamamento processual, PAREXGROUP INDUSTRIA E COMERCIO DE ARGAMASSAS LTDA alegou que o artigo mencionado veda a liquidação antecipada da fiança bancária e do seguro garantia, antes do trânsito em julgado da decisão de mérito, o que "coaduna exatamente com o presente caso e com toda a fundamentação acostada pela Agravante, posto que a decisão de mérito não transitou em julgado, tendo em vista que a r. sentença proferida nos autos da ação nº 0000838-42.2015.4.03.6128, foi objeto de interposição de recurso de apelação, ainda pendente de julgamento no Tribunal Regional Federal da Terceira Região, portanto, resta vedada a liquidação da garantia ofertada." (fl. 430), requerendo, assim, a manutenção da garantia ofertada até o trânsito em julgado da decisão de mérito.
+É o relatório.
+Decido.
+A presente controvérsia jurídica refere-se ao cabimento da liquidação antecipada de garantias ofertadas no âmbito de execuções fiscais, especificamente no que tange à carta de fiança bancária.
+Após o julgamento monocrático do recurso especial interposto pela Fazenda Nacional, houve a superveniência de alteração legislativa, consistente na publicação da Lei n. 14.689, de 22 de dezembro de 2023, que incluiu o § 7º no art. 9º da Lei n. 6.830/1980, disciplinando especificamente a matéria controvertida, nos seguintes termos:
+Art. 9º - Em garantia da execução, pelo valor da dívida, juros e multa de mora e encargos indicados na Certidão de Dívida Ativa, o executado poderá:
+ ..
+§ 7º As garantias apresentadas na forma do inciso II do caput deste artigo somente serão liquidadas, no todo ou parcialmente, após o trânsito em julgado de decisão de mérito em desfavor do contribuinte, vedada a sua liquidação antecipada. (Incluído pela Lei nº 14.689, de 2023)
+É certo que antes da alteração legislativa esta Corte Superior de Justiça possuía jurisprudência uniforme que admitia a liquidação antecipada das garantias na execução fiscal.
+Entretanto, o cenário jurídico que embasou o provimento jurisdicional dado ao recurso da Fazenda Nacional não mais subsiste em decorrência de vedação legal expressa da liquidação antecipada da garantia.
+E, diante da nova sistemática, impõe-se a aplicação do princípio do direito intertemporal que autoriza a aplicação imediata das normas de caráter processual, tornando-se inviável o acolhimento do recurso fazendário que busca a liquidação da carta de fiança no curso da execução fiscal, em virtude da expressa vedação legal.
+Nesse sentido, colhem-se recentes precedentes de ambas as Turmas que integram a Primeira Seção:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. IMPOSSIBILIDADE DE LIQUIDAÇÃO ANTECIPADA DA GARANTIA. ART. 9º, § 7º, DA LEI 6.830/1980, COM REDAÇÃO DADA PELA LEI 14.689/2003. NORMA PROCESSUAL. APLICAÇÃO IMEDIATA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do § 7º do art. 9º da Lei 6.830/1980 (com redação dada pela Lei 14.689/2023), a fiança bancária e o seguro-garantia somente serão liquidados após o trânsito em julgado da decisão de mérito desfavorável ao contribuinte, sendo vedada sua liquidação antecipada. Por ser norma de caráter processual, possui aplicação imediata nos processos em curso. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.998.136/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/9/2024, DJe de 23/9/2024.)
+PROCESSO CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. SEGURO GARANTIA. SINISTRO. LIQUIDAÇÃO ANTECIPADA. RECURSO ESPECIAL. ALTERAÇÃO LEGISLATIVA SUPERVENIENTE. LEI N. 14.689/2023. PERDA DE OBJETO.
+I - Trata-se de agravo interno interposto contra decisão monocrática de minha lavra que deu provimento ao recurso especial interposto pela Fazenda Nacional contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que vedou a liquidação do seguro garantia da execução fiscal antes do trânsito em julgado da ação de embargos à execução fiscal.
+II - Após o julgamento monocrático do recurso especial interposto, houve a superveniência de alteração legislativa relevante ao deslinde da controvérsia, consistente na publicação da Lei n. 14.689, de 22 de dezembro de 2023, que incluiu o § 7º no art. 9º da Lei n. 6.830/1980, disciplinando especificamente a matéria controvertida.
+III - O cenário jurídico que embasou o provimento jurisdicional dado ao recurso da Fazenda Nacional não mais subsiste em decorrência de vedação legal expressa da liquidação antecipada da garantia. Nos termos da manifestação da Fazenda Nacional, houve perda superveniente do objeto recursal.
+IV - Agravo interno provido, para julgar prejudicado o recurso por perda de objeto.
+(AgInt nos EDcl no REsp n. 2.072.196/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/6/2024, DJe de 6/6/2024.)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. SEGURO-GARANTIA. LIQUIDAÇÃO ANTECIPADA. IMPOSSIBILIDADE. ORIENTAÇÃO DA PRIMEIRA TURMA DO STJ.
+1. A Primeira Turma do STJ, ao julgar o AgInt no AREsp 2.310.912/MG, em 20 de fevereiro de 2024, firmou a orientação de que não se revela possível a liquidação antecipada do seguro garantia antes do trânsito em julgado da sentença, entendimento reforçado pela imediata aplicação do § 7º ao art. 9º da Lei de Execuções Fiscais ao caso em apreço, em razão de seu nítido caráter processual, nos termos do art. 14 do CPC.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.483.494/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. SEGURO GARANTIA. PAGAMENTO DA INDENIZAÇÃO ANTES DO TRÂNSITO EM JULGADO. ILEGALIDADE.
+1. A exegese do art. 32, § 2º, da LEF revela carecer de finalidade o ato judicial que intima a seguradora a realizar o pagamento da indenização do seguro garantia judicial antes da ocorrência do trânsito em julgado da sentença desfavorável ao devedor.
+2. "As garantias apresentadas na forma do II do caput deste artigo somente serão liquidadas, no todo ou parcialmente, após o trânsito em julgado da decisão de mérito em desfavor do contribuinte, vedada a sua liquidação antecipada" (art. 9º, § 7º, da LEF, introduzido pela Lei n. 14.689/2023).
+3. Cuidando-se de regra processual, o último dispositivo indicado tem imediata aplicação aos processos em tramitação.
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.310.912/MG, relator Ministro Sérgio Kukina, relator para acórdão Ministro Gurgel de Faria, Primeira Turma, julgado em 20/2/2024, DJe de 12/4/2024.)
+Diante do exposto, em juízo de retratação, reconsidero a decisão de fls. 362/366 e, com fundamento no art. 932, inciso III, do Código de Processo Civil e do art. 255, incisos I e II, do RISTJ, nego provimento ao recurso especial da Fazenda Nacional.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, § 11º, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intime-se.
+EMENTA
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. LIQUIDAÇÃO ANTECIPADA DA GARANTIA. IMPOSSIBILIDADE. ART. 9º, § 7º, DA LEI 6.830/1980, COM REDAÇÃO DADA PELA LEI 14.689/2003. NORMA PROCESSUAL. APLICAÇÃO IMEDIATA. JUIZO DE RETRATAÇÃO. RECURSO ESPECIAL DA FAZENDA NACIONAL IMPROVIDO.
