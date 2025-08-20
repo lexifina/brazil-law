@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. DEMORA EXCESSIVA NA CONCESSÃO DO BENEFÍCIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211/STJ E 282, 356/STF. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ordinária objetivando a condenação da União ao pagamento de indenização pela demora excessiva na concessão de seu benefício de aposentadoria.
+II - Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi reformada. Nesta Corte, o recurso especial não foi conhecido.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à falta de prequestionamento, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Negou-se conhecimento ao recurso especial interposto pela União, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 5ª Região, nos termos assim ementados:
+Administrativo e Processual civil. Servidor. Demora injustificada na concessão de aposentadoria. Indenização. Cabimento.
+1. O cerne da questão tratada no presente recurso versa sobre pedido de pagamento de indenização em razão do decurso do tempo entre o requerimento administrativo e a concessão da aposentadoria estatutária.
+2.Colhe-se dos autos que o autor é Agente de Saúde Pública, do Quadro de Pessoal do Ministério da Saúde. Requereu aposentadoria em 05 de outubro de 2020 (DER), quando preenchidos os requisitos legais, gerando o Processo Administrativo de número 25016.003477/2020-51, cuja conclusão ocorreu em 17 de março 2022 com a concessão da aposentadoria (Id 4058107.25831199).
+3.Pertine observar que durante o período em que o servidor esperou a conclusão do pedido de aposentadoria, entre outubro de 2020 a março de 2022, o autor recorrente permaneceu no exercício de suas atividades ordinárias e foi normalmente remunerado em contraprestação ao serviço prestado.
+4. É consabido que a aposentadoria do servidor público não é automática. No procedimento administrativo, no qual deve ser analisado o cumprimento de todos os requisitos necessários à aposentação, pode ser preciso realizar instrução complementar. Então, não é extraordinário que entre o requerimento e a decisão administrativa decorra algum tempo.
+5.Cabe à administração pública, zelando pelo direito à razoável duração do processo e pelo princípio da eficiência, previstos no art. 5º, LXXVIII, e art. 37, caput, da Constituição Federal, respectivamente, imprimir a máxima celeridade possível à tramitação dos procedimentos administrativos. O art. 49 da Lei nº 9.784/1999 estabelece que concluída a instrução de processo administrativo, a Administração tem o prazo de até trinta dias para decidir, salvo prorrogação por igual período expressamente motivada.
+6. Caso em que o Poder Público, apesar da suficiência das provas apresentadas pelo servidor com o requerimento administrativo, passou de outubro de 2020 a março de 2022, para a conclusão do procedimento, sem que tenha sido apresentada qualquer justificativa, administrativa ou judicialmente.
+7. A aposentadoria assegura o direito ao ócio remunerado por aquele que, tendo atingido determinada idade, trabalhou e contribuiu pelo período mínimo de tempo exigido pela legislação. Direito de cujo gozo, por culpa (negligência) da União, o autor foi privado em razão da demora no andamento e conclusão do procedimento administrativo. A violação culposa de direito acompanhada de danos materiais implica em ilícito passível de indenização, nos termos dos artigos 186 e 927 do Código Civil. Ainda mais em se tratando de pessoa jurídica de direito público, cuja responsabilidade é objetiva, conforme art. 37, § 6º, da Constituição.
+8. A remuneração percebida pelo autor durante a pendência da apreciação de seu pedido de aposentadoria é a contraprestação pelos serviços prestados à União. Natureza contraprestacional da remuneração que não se encontra presente nos proventos de aposentadoria. Ausência de identidade de causa do pagamento que afasta a duplicidade de recebimento. Inexistência de enriquecimento ilícito pelo servidor.
+9. A União é que se enriqueceria ilicitamente em caso de improcedência do pedido. Tivesse sido ágil na apreciação do procedimento administrativo, o autor estaria aposentado e a União, para substituí-lo, precisaria nomear novo servidor, sendo obrigada a despender simultaneamente o valor correspondente à aposentadoria do autor e à remuneração de seu sucessor no cargo. A improcedência do pedido faria com que a União suportasse financeiramente apenas a remuneração que paga ao autor, que ficou privado do recebimento dos proventos sem necessidade de trabalhar. Violando direito do autor à razoável duração do processo e descumprindo o dever de eficiência, a União despenderia menos que se tivesse agido dentro das regras jurídicas. Impossibilidade de a União tirar proveito de sua própria torpeza.
+10. Apelação provida para condenar a União ao pagamento de indenização, em valor correspondente ao que o autor receberia caso a aposentação tivesse sido concedida desde a data do requerimento administrativo, excluindo-se, naturalmente, as verbas que não incorporáveis aos proventos de aposentadoria. A indenização deve corresponder ao valor do dano.
+11. Como obiter dictum, destaca-se que, caso opte pelo efetivo recebimento da indenização, o que, de fato e de direito, corresponde à retroação da data inicial do benefício, fica facultado ao Poder Público, se assim entender cabível, rever o ato de concessão do benefício para dele excluir o período indenizado, respeitado o devido processo legal em processo administrativo no qual seja assegurado o contraditório e a ampla defesa. Não se trata de determinação para que a Administração assim proceda, mas de mero esclarecimento que, em respeito à boa-fé objetiva, se faz às partes, notadamente ao autor, para que tenha plena ciência dos riscos que assume caso decida pelo recebimento da indenização.
+12. Correção monetária pelo IPCA-E e juros de mora pela caderneta de poupança até a entrada em vigor da Emenda Constitucional nº 113/2021, quando passaram a ser calculados nos termos do seu art. 3º.
+Na origem, trata-se de ação ordinária objetivando a condenação da União ao pagamento de indenização pela demora excessiva na concessão de seu benefício de aposentadoria.
+Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi reformada. Nesta Corte, o recurso especial não foi conhecido.
+No recurso especial, a União alega ofensa aos arts. 788, 807, 904 e 924, II, do CPC e dos arts. 884 e 885 do Código Civil.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+A Segunda Turma negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. BENEFÍCIO POR APOSENTADORIA. DEMORA EXCESSIVA DO PAGAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211/STJ E 282 E 356/STF. EMBARGOS DE DECLARAÇÃO COMO MEIO RESTANTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária objetivando a condenação da União ao pagamento de indenização pela demora excessiva na concessão de seu benefício de aposentadoria. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi reformada. Nesta Corte, o recurso especial não foi conhecido. O valor da causa foi fixado em R$ 128.447,64 (cento e vinte e oito mil, quatrocentos e quarenta e sete reais e sessenta e quatro centavos).
+II - Sobre a alegada violação dos arts. 788, 807, 904 e 924, II, do CPC e dos arts. 884 e 885 do Código Civil, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis.
+III - Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+IV - Ademais, o requisito do prequestionamento é exigido por esta Corte Superior, inclusive, nas matérias de ordem pública.
+V - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+.. deve ser considerada prequestionada a questão ora discutida, afastando-se a aplicação da Súmula 282 e 356 STF e conhecendo-se do recurso especial da União, no pormenor relativo ao enriquecimento sem causa da parte autora em detrimento ao erário.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. DEMORA EXCESSIVA NA CONCESSÃO DO BENEFÍCIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211/STJ E 282, 356/STF. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ordinária objetivando a condenação da União ao pagamento de indenização pela demora excessiva na concessão de seu benefício de aposentadoria.
+II - Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi reformada. Nesta Corte, o recurso especial não foi conhecido.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à falta de prequestionamento, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à falta de prequestionamento, foram tratados no acórdão embargado, o que afasta a alegação de omissão, nos termos assim expostos:
+Sobre a alegada violação dos arts. 788, 807, 904 e 924, II, do CPC e dos arts. 884 e 885 do Código Civil, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ademais, o requisito do prequestionamento é exigido por esta Corte Superior, inclusive, nas matérias de ordem pública.
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
