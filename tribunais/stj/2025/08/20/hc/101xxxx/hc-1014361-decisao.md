@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MOISÉS DE VASCONCELOS RODRIGUES, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fls. 11-12):
+APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE ABSOLVIÇÃO PELA INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE. PRISÃO EM FLAGRANTE. DEPOIMENTO DE POLICIAIS. VALIDADE. CONDENAÇÃO MANTIDA. PEDIDO DE SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. NÃO ACOLHIMENTO. REQUISITOS DO ART. 44 DO CP NÃO ATENDIDOS. RECURSO CONHECIDO E DESPROVIDO.
+Consta dos autos que o paciente foi condenado, como incurso no artigo 33, caput, da Lei nº 11.343/06,à pena de 4 anos e 2 meses de reclusão, em regime semiaberto, além de 416 dias-multa. A decisão condenatória transitou em julgado, iniciando-se a execução penal sob nº 8000541-17.2024.8.06.0064.
+No presente writ, o impetrante sustenta que a prova utilizada para condenação é ilícita, pois derivada de invasão domiciliar sem mandado judicial, violando o artigo 5º, XI, da Constituição Federal, e aplicando-se a teoria dos frutos da árvore envenenada.
+Argumenta também que, mesmo afastada a tese de prova ilícita, o conjunto probatório não comprova tráfico de drogas, mas sim uso próprio, conforme o artigo 28 da Lei 11.343/06, dado a quantidade ínfima de droga apreendida e a ausência de elementos típicos de traficância.
+Por fim, alega que, reconhecidos os requisitos do tráfico privilegiado, a redução da pena deveria ser no grau máximo (2/3), permitindo substituição por penas restritivas de direitos.
+Requer liminarmente o sobrestamento da execução penal nº 8000541-17.2024.8.06.0064, até julgamento final desta ação revisional. No mérito, requer a concessão da ordem para absolver o requerente, nos termos do art. 386, II e III, do Código de Processo Penal (CPP), ante a ilicitude da prova; subsidiariamente, desclassificar a conduta para o art. 28 da Lei de Drogas; ou aplicar o redutor do tráfico privilegiado no grau máximo (2/3), substituindo a pena por restritivas de direitos, nos termos do art. 44 do Código de Penal (CP) .
+A liminar foi indeferida (fls. 69-71).
+Foram prestadas informações (fls. 77-85).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, nos termos da seguinte ementa (fls. 88-90):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. NÃO CONHECIMENTO. TRÂNSITO EM JULGADO DA AÇÃO PENAL. IMPROPRIEDADE DA VIA ELEITA. NÍTIDAS FEIÇÕES DE REVISÃO CRIMINAL. PRECEDENTES. NULIDADE DAS PROVAS ARRECADADAS MEDIANTE VIOLAÇÃO DO DOMICÍLIO DO CORREU. PLEITOS DE ABSOLVIÇÃO E DESCLASSIFICAÇÃO PARA A FIGURA DO ART. 28 DA LEI 11.343/06. TEMAS NÃO SUBMETIDOS À APRECIAÇÃO DA CORTE DE ORIGEM. NÃO CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. PRETENSÃO DE REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. MANUTENÇÃO DA PENA APLICADA. PREJUDICIALIDADE DO PLEITO DE SUBSTITUIÇÃO DA REPRIMENDA POR MEDIDAS RESTRITIVAS DE DIREITOS."
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, "" n ão deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022)" (AgRg no HC n. 883.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+No caso, o trânsito em julgado do acórdão da apelação ocorreu em 16/01/2023 (fl. 83), antes, portanto, da impetração do presente habeas corpus, sendo inviável o seu conhecimento.
+Desse modo, tratando-se de condenação já transitada em julgado, tem-se por inviável o conhecimento do presente writ, diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+No mesmo entendimento: AgRg no HC n. 905.306/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/5/2024, DJe de 29/5/2024; AgRg no HC n. 908.528/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024; AgRg no HC n. 886.100/MA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
