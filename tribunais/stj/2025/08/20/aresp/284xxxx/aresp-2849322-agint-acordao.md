@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/08/2025 a 20/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CORTE DE ENERGIA ELÉTRICA. DIREITO DO CONSUMIDOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO. ARGUMENTAÇÃO GENÉRICA. AUSÊNCIA DE DIALETICIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. O art. 1.021, § 1º, do CPC/2015, determina que, na petição de agravo interno, o recorrente deverá impugnar especificadamente os fundamentos da decisão agravada. Nessa perspectiva, o descumprimento da regra inserta no citado dispositivo e do princípio da dialeticidade importa no não conhecimento do agravo interno, situação verificada nos autos.
+2. Nos termos da jurisprudência desta Corte Superior, a "litigância de má-fé, passível de ensejar a aplicação da multa estabelecida no art. 80 do NCPC, configura-se quando houver a prática de atos inúteis ou desnecessários à defesa do direito e à criação de embaraços à efetivação das decisões judiciais, ou seja, na insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios", o que não se verifica na espécie (AgInt no AREsp 1.915.571/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/11/2021, DJe 19/11/2021).
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA - COELBA contra decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 1.274):
+AGRAVO EM RECURSO ESPECIAL. CORTE DE ENERGIA ELÉTRICA. DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. 1. VIOLAÇÃO À NORMA CONSTITUCIONAL. VIA RECURSAL IMPRÓPRIA. 2. FALHA NA PRESTAÇÃO DE SERVIÇO, ATO ILÍCITO E DANO MORAL. PRETENSÃO RECURSAL QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. 3. LUCROS CESSANTES. TESE NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 1.283-1.380), a agravante argumenta que a decisão monocrática (e-STJ, fls. 1.274-1.279) não deu o devido desfecho ao presente caso.
+Para tanto, alega a inaplicabilidade das Súmulas n. 282 e 356/STF, uma vez que o requisito do prequestionamento foi cumprido, ainda que implicitamente.
+Sustenta que "a manutenção da decisão recorrida, perpetuando condenação injusta a esta recorrente, representaria a completa derrocada do princípio da coisa julgada e do enriquecimento sem causa, bem como do princípio da segurança jurídica" (e-STJ, fl. 1.286).
+Requer, por fim, a reconsideração da decisão monocrática.
+Impugnações apresentadas (e-STJ, fls. 1.383-1.389), com pedido de aplicação de multa por litigância de má-fé.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CORTE DE ENERGIA ELÉTRICA. DIREITO DO CONSUMIDOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO. ARGUMENTAÇÃO GENÉRICA. AUSÊNCIA DE DIALETICIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. O art. 1.021, § 1º, do CPC/2015, determina que, na petição de agravo interno, o recorrente deverá impugnar especificadamente os fundamentos da decisão agravada. Nessa perspectiva, o descumprimento da regra inserta no citado dispositivo e do princípio da dialeticidade importa no não conhecimento do agravo interno, situação verificada nos autos.
+2. Nos termos da jurisprudência desta Corte Superior, a "litigância de má-fé, passível de ensejar a aplicação da multa estabelecida no art. 80 do NCPC, configura-se quando houver a prática de atos inúteis ou desnecessários à defesa do direito e à criação de embaraços à efetivação das decisões judiciais, ou seja, na insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios", o que não se verifica na espécie (AgInt no AREsp 1.915.571/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/11/2021, DJe 19/11/2021).
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno não deve ser conhecido.
+Conforme se extrai da decisão monocrática agravada, o recurso especial outrora interposto não foi conhecido, adotando-se os seguintes fundamentos: (a) impossibilidade de examinar violação à norma constitucional, sob pena de usurpar a competência do Supremo Tribunal Federal; (b) incidência da Súmula n. 7/STJ, uma vez que seria necessária a reapreciação do acervo fático-probatório para adotar conclusão diversa quanto à existência do ato ilícito, ao enriquecimento sem causa e aos danos morais decorrentes da falha na prestação de serviço; e (c) aplicação das Súmulas n. 282 e 356/STF por ausência de prequestionamento no tocante à discussão sobre os lucros cessantes.
+Todavia, nas razões do presente recurso, a agravante deixa de impugnar de forma específica os fundamentos da decisão, ou seja, apresenta argumentação genérica, afrontando a dialeticidade recursal.
+A esse respeito, o art. 1.021, § 1º, do CPC/2015, determina que, na petição de agravo interno, o recorrente deverá impugnar especificadamente os fundamentos da decisão agravada. Nessa perspectiva, o descumprimento da regra inserida no citado dispositivo e do princípio da dialeticidade implica o não conhecimento do agravo interno, situação verificada nos autos.
+Ilustrativamente (sem grifo no original):
+DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. SÚMULA N. 568/STJ. ART. 255, § 4.º, INCISO I, DO RISTJ. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Conforme entendimento cristalizado na Súmula n. 568/STJ, " o  relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema". É também o que prevê o art. 255, § 4.º, inciso I, do Regimento Interno deste Sodalício.
+2. O art. 1.021, § 1º, do Código de Processo Civil/2015, em harmonia com o princípio da dialeticidade, estabelece que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+3. Hipótese em que a Agravante não impugnou, de forma concreta, os fundamentos que levaram à rejeição de parte da preliminar de negativa de prestação jurisdicional, o que conduz, nesse caso, ao não conhecimento do recurso.
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 2.159.051/AC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 9/4/2025, DJEN de 23/4/2025.)
+Por fim, quanto ao requerimento da parte contrária para que seja imposta multa por litigância de má-fé, tem-se que ele não merece prosperar, pois, conforme entendimento desta Corte Superior, a "litigância de má-fé, passível de ensejar a aplicação da multa estabelecida no art. 80 do NCPC, configura-se quando houver a prática de atos inúteis ou desnecessários à defesa do direito e à criação de embaraços à efetivação das decisões judiciais, ou seja, na insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1.915.571/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/11/2021, DJe 19/11/2021), o que não se verifica na espécie, tendo em vista a interposição de recuso plenamente cabível.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
