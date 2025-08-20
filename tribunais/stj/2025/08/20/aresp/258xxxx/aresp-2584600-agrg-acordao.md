@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. SÚMULA 182/STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deve impugnar, nas razões de seu agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo regimental, em virtude da ocorrência da preclusão consumativa.
+2. Em atenção ao princípio da dialeticidade recursal, a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial impõe o não conhecimento do agravo em recurso especial, nos termos do art. 253, parágrafo único, I, do RISTJ; do art. 932, III, do CPC/2015; e da Súmula 182/STJ.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental no agravo em recurso especial interposto por ALEXANDRE HENRIQUE DE CINQUE contra decisão por mim proferida, no sentido de não conhecer do agravo aforado.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls.358-360, a saber:
+1. Trata-se de agravo (ARESP) interposto pelo agravante ALEXANDRE HENRIQUE DE CINQUE.
+1.1. O recurso especial foi interposto contra o acórdão da 15ª Câmara de Direito Criminal do TJSP, que possui a seguinte ementa (fl. 264):
+Calúnia: art. 138, do Código Penal. Recurso: Defesa. Ilegitimidade passiva: inconsistência. Sujeitos passivos determinados e conhecidos. Imprescindibilidade de expressa referência nominal, bastando a possibilidade de identificação do ofendido. Incompetência: atipicidade. Possibilidade de ajuizamento no foro de domicílio do Réu em exclusiva ação penal privada (art. 73, Cód. Proc. Penal). Competência do Juizado Especial Criminal: inconsistência. Concurso de crimes e causas de aumento de pena apresentadas na queixa-crime que devem ser consideradas para se aferir a pena máxima em abstrato. Preliminares rejeitadas. Materialidade e autoria: provas bastantes para a condenação. Dolo específico: o agente que atribui falsamente a terceiros a prática de fatos criminosos incorre na prática do delito de calúnia (STJ). Liberdade de informação e crítica que não configuram direitos absolutos, vedada a sua veiculação com a intenção de difamar, injuriar ou caluniar (STJ). Pena-base: mínimo legal. Segunda fase: acréscimo de 1/6, em razão da reincidência. Manutenção. Meio que facilita a divulgação da calúnia: acréscimo de 1/3. Adequação. Crime cometido por meio de postagem em rede social. Concurso formal: acréscimo de 1/6. Adequação. Regime semiaberto: adequação. Apelante reincidente. Benefícios da gratuidade: matéria de competência do Juízo das Execuções Criminais. Recurso não provido.
+1.2. Os fatos podem ser assim resumidos: MARCOS ANTONIO GALLI apresentou queixa-crime contra ALEXANDRE HENRIQUE DE CINQUE, imputando ao querelado a prática do delito tipificado no art. 138 c/c art. 141, inciso III, do CP. No final da tarde de 04-10-2020, na cidade de Matão/SP, ALEXANDRE HENRIQUE DE CINQUE ofendeu a honra de MARCOS ANTONIO GALLI, por meio da mídia social facebook, conta de titularidade do querelado, com os seguintes dizeres: "Queria saber quais os interesses da família GALLI na prefeitura de Matão para ficar dando dinheiro pra candidato a prefeito de Matão escondido da Justiça eleitoral. Outro dia mesmo deram um dinheiro "gordo" pro candidato TADEO GIMENES pagar uma revista colorida que ele vai distribuir na campanha. Seria 20 ou 50 mil  Tudo NO CAIXA 2!! ALÔ JUSTIÇA ELEITORAL, FINANCIAMENTO PROVADO DE CAMPANHA É CRIME E DÁ CADEIA!!" (Processo nº 1.003069-54.2020.8.26.0347).
+O recurso foi inadmitido na origem sob o fundamento da incidência do óbice da Súmula 7/STJ (e-STJ fls. 313-314).
+Contra essa decisão, ALEXANDRE HENRIQUE DE CINQUE interpôs o agravo em recurso especial (e-STJ fls. 317-326).
+O Ministério Público Federal se manifestou pelo desprovimento do agravo em recurso especial (e-STJ fls. 358-360).
+Na sequência, este Relator não conheceu do agravo interposto (e-STJ fls. 363-368).
+Daí o presente agravo regimental, em que o agravante postula o provimento do agravo em recurso especial interposto (e-STJ fls. 373-379).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. SÚMULA 182/STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deve impugnar, nas razões de seu agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo regimental, em virtude da ocorrência da preclusão consumativa.
+2. Em atenção ao princípio da dialeticidade recursal, a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial impõe o não conhecimento do agravo em recurso especial, nos termos do art. 253, parágrafo único, I, do RISTJ; do art. 932, III, do CPC/2015; e da Súmula 182/STJ.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar.
+Preliminarmente, cabível registrar, quanto à decisão monocrática por mim proferida neste caso, sobre as reiteradas manifestações desta Corte no sentido de que "não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental" (AgRg no RHC n. 147.556/MT, Ministra LAURITA VAZ, Sexta Turma, DJe 25/6/2021).
+Nesse sentido, confiram-se ainda:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONCESSÃO DO WRIT POR DECISÃO MONOCRÁTICA DO RELATOR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADO. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO (ART. 12 DA LEI N. 10.826/2003). PEQUENA APREENSÃO DE MUNIÇÃO (3 MUNIÇÕES DO TIPO OGIVAL CALIBRE 12), DESACOMPANHADA DE ARMA DE FOGO. BEM JURÍDICO. INCOLUMIDADE PÚBLICA PRESERVADA. PERIGO NÃO CONSTATADO. INEXISTÊNCIA DE POTENCIALIDADE LESIVA. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE.
+1. A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante. III - Plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral (AgRg no HC n 654.429/SP, Ministro Felix Fischer, Quinta Turma, DJe 7/6/2021).
+ ..
+4. Agravo regimental improvido
+(AgRg no HC 536.663/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PERICULUM LIBERTATIS. REITERAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada não descurou do princípio da colegialidade, visto que visualizou situação abarcada pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal (aplicável também ao recurso em habeas corpus, por força do art. 246 do RISTJ), que autoriza o Relator a decidir o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+ ..
+4. Agravo regimental não provido
+(AgRg no RHC 147.759/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+Avançando, não obstante os argumentos constantes do agravo regimental interposto, tenho que inexistem motivos para a reforma da decisão agravada.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Como é cediço, nos termos dos arts. 932, III, do Código de Processo Civil de 2015, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, bem como da Súmula n. 182 do STJ, aplicável por analogia, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A propósito, em atenção ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento.
+Reitero, por oportuno, os fundamentos lançados na decisão impugnada (e-STJ fl. 365):
+Por outro lado, nas razões do agravo em recurso especial, a defesa deixou de impugnar suficientemente os fundamentos da decisão agravada, limitando-se a alegar, genericamente, que "o presente apelo extremo leva à cognição desta Corte Superior deslizes judiciais de cunho estritamente jurídico, os quais, através do simples cotejo entre o acórdão objurgado e as razões recursais, são imediatamente percebidos (e-STJ fl. 324), sem, contudo, fazer os apontamentos pertinentes ao caso concreto.
+No caso, deveria a defesa ter demonstrado a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão de origem, o que não aconteceu. Há, na realidade, uma discordância acerca da análise fática do Acórdão recorrido por parte da Defesa.
+Ademais, assiste razão ao Ministério Público Federal quando destaca que "cabe reiterar o fundamento da decisão do Presidente da Seção de Direito Criminal do TJSP que não admitiu o recurso especial com base na alegação da defesa exigir o reexame dos fatos e das provas; aplicação da Súmula nº 7/STJ" (e-STJ fls. 359-360).
+Da análise do presente recurso, verifico que, conforme já consignado na decisão impugnada, o inconformismo não se dirigiu, de forma específica, contra todos os fundamentos da decisão agravada.
+A parte agravante deve impugnar, nas razões de seu agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo regimental, em virtude da ocorrência da preclusão consumativa.
+Nesse contexto, a decisão agravada deve ser mantida, uma vez que permanece a validade dos fundamentos que a sustentam e não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
