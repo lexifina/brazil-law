@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEFFERSON ANTENOR COSTA DOS SANTOS contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta nos autos que o paciente encontra-se preso preventivamente desde 15/09/2023, pela suposta participação em delito de associação ao tráfico ilícito de drogas, conforme art. 35, caput, da Lei n. 11.343/2006 .
+Alega a Defesa que o paciente está recolhido há mais de 01 ano e 09 meses sem que tenha sido proferida sentença, configurando excesso de prazo para a formação da culpa.
+Afirma que a manutenção da prisão preventiva do paciente constitui constrangimento ilegal, pois o delito imputado foi cometido sem violência ou grave ameaça à pessoa, e sem maior complexidade.
+Sustenta que o paciente possui condições pessoais favoráveis, sendo primário, não integrando organização criminosa, possuindo residência fixa, exercendo atividade profissional lícita, além de possuir companheira e dois filhos menores que dependem de seu labor para subsistência.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar foi indeferida às fls. 47-48.
+Informações prestadas às fls. 55-84.
+A defesa peticionou às fls. 85-171, destacando a incompatibilidade do regime inicial semiaberto com a manutenção da prisão preventiva. Pugnado, assim, pela revogação da prisão.
+O Ministério Público Federal, às fls. 175-178, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Cumpre registrar, inicialmente, que no tocante ao alegado excesso de prazo, o presente writ encontra-se prejudicado.
+Segundo informações prestadas pela corte de origem, no dia 27/06/2025, foi foi prolatada sentença, restando o paciente condenado como "incurso nas sanções do artigo 35, caput, da Lei n. 11.343/2006, à pena privativa de liberdade de 05 anos de reclusão, além de 740 dias-multa, em regime inicial semiaberto" - fl. 82.
+Nesse contexto, verifico que o presente writ perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Quanto a ausência de fundamentação da decisão que decretou a prisão preventiva, tenho que melhor sorte não socorre à defesa.
+A análise da decisão que decretou a prisão preventiva, permite a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista a participação do paciente em um esquema de traficância, atuando com seu próprio veículo para realizar o transporte de dois quilos de cocaína para outro corréu. Segundo os autos, há informações dando conta que há poucos meses antes da prática do delito em questão, o acusado foi preso em flagrante por tráfico, quando estava em um veículo na posse de nada menos que oito quilos de cocaína, circunstâncias que revelam a periculosidade concreta do agente e demonstra a indispensabilidade da imposição da segregação cautelar - fl. 25.
+Sobre o tema:
+"a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública" (AgRg no HC n. 981.209/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 15/4/2025.)
+"A conduta do agente, sem prejuízo da conclusão a ser aferida após a instrução do processo, extrapola os limites objetivos do tipo penal envolvido e evidencia, ao menos para fins de decretação da prisão preventiva e a priori, a periculosidade social do agente e justifica a prisão, nos termos do art. 312 do Código de Processo Penal"(AgRg no RHC n. 212.464/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/4/2025.)
+No mesmo sentido, confiram-se alguns precedentes: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+De mais a mais, insta consignar que a fixação do regime inicial semiaberto na sentença condenatória não é incompatível com a manutenção da prisão preventiva, desde que haja compatibilização da custódia cautelar com o regime imposto, conforme realizado no caso dos autos - fls. 168-169.
+Sobre o tema:
+"A fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória" (AgRg no RHC n. 200.685/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025).
+"De acordo com o entendimento da Sexta Turma desta Corte, não há incompatibilidade entre a prisão cautelar e a imposição do regime inicial semiaberto" (AgRg no HC n. 952.905/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 11/3/2025).
+"A jurisprudência do STJ e do STF admite a compatibilidade entre a prisão preventiva e o regime semiaberto, desde que a segregação cautelar seja adequada ao regime imposto" (AgRg no HC n. 926.229/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 2/12/2024).
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
