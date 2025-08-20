@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de recurso especial interposto por Valdemir Amaro Pereira da Silva contra acórdão do Tribunal de Justiça do Estado de Pernambuco que indeferiu o pedido de revisão criminal.
+O recorrente foi condenado, em primeiro grau, pelo delito previsto no art. 121, § 2º, incisos I e IV, do Código Penal à pena de 17 anos de reclusão, em regime inicial fechado.
+O acórdão f undamentou que não há nulidade processual devido à ausência de oitiva de testemunhas em plenário, quando não restou demonstrado prejuízo ao requerente, e que a declaração feita na escritura pública pela senhora Kátia Rodrigues de Oliveira não foi realizada em ação própria, se mostrando frágil, uma vez que o pedido de revisão calcado em prova nova pressupõe o ajuizamento de justificação criminal, dada a necessidade do contraditório.
+O recurso especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, alegou violação dos artigos 203, 213, 261, caput e parágrafo único, 473, 564, IV, 619, 620, e 621, I e III, todos do Código de Processo Penal; art. 59 do Código Penal; e art. 215 do Código Civil, e requereu a absolvição do recorrente ou, subsidiariamente, a revisão da dosimetria da pena (e-STJ fls. 722-745). Afirmou que a revisão criminal se sustenta na ilicitude dos testemunhos vertidos nos autos da ação penal originária, na qual as testemunhas da acusação são indiretas, e trouxeram aos autos meros boatos.
+O Ministério Público manifestou-se pelo desprovimento do recurso especial (e-STJ fls. 781-786), em parecer assim ementado:
+RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ARTIGO 121, § 2º, INCISO I E IV, DO CÓDIGO PENAL. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DOSIMETRIA. PENA-BASE DEVIDAMENTE FUNDAMENTADA. DESPROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+O recurso é tempestivo e o recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação.
+No caso, o recorrente sustenta que houve nulidade por ausência de oitiva de testemunhas em plenário e apresenta prova nova consistente em escritura pública, alegando que os testemunhos da acusação são indiretos e baseados em boatos.
+Já a decisão recorrida pelo recurso especial, assentou que não há nulidade processual devido à ausência de oitiva de testemunhas em plenário, quando não restou demonstrado prejuízo ao requerente, e que a declaração feita na escritura pública pela senhora Kátia Rodrigues de Oliveira não foi realizada em ação própria, se mostrando frágil, uma vez que o pedido de revisão calcado em prova nova pressupõe o ajuizamento de justificação criminal, dada a necessidade do contraditório.
+Com efeito, a alegada violação dos dispositivos legais invocados não está demonstrada. O acórdão recorrido procedeu à detalhada análise de todo o conjunto probatório, examinando tanto os elementos de informação colhidos durante o inquérito policial quanto as provas produzidas em contraditório judicial, concluindo pela existência de provas firmes e coerentes que demonstram a ausência de nulidade no decreto condenatório.
+Quanto à alegada nulidade processual pela ausência de oitiva de testemunhas em plenário, o recurso não comporta provimento. É desnecessária a repetição da prova em plenário, quando inexiste contradição nos depoimentos colhidos anteriormente. O Código de Processo Penal adota, em matéria de nulidades, o princípio do pas de nullité sans grief, conforme positivado no seu art. 563. Segundo tal preceito, nenhum ato será declarado nulo se da nulidade não resultar prejuízo concreto para a acusação ou para a defesa.
+No caso em apreço, o Tribunal de origem assentou que a defesa não logrou demonstrar o efetivo prejuízo decorrente da não oitiva das testemunhas em plenário, sendo este um requisito indispensável para o reconhecimento do vício. Desse modo, estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior, que exige a demonstração de prejuízo para o reconhecimento de nulidades no processo penal, não há reparo a ser feito no ponto.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXCESSO DE PRAZO E NULIDADE PROCESSUAL. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus impetrado em favor de réu acusado de homicídio qualificado, alegando constrangimento ilegal devido ao encarceramento provisório e excesso de prazo.
+2. O agravante alega nulidade processual em razão da reinquirição de testemunha a pedido de advogado estranho aos autos, sem prejuízo demonstrado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há excesso de prazo no encarceramento provisório do agravante, considerando a gravidade do crime e o rito do júri popular.
+3. A segunda questão em discussão é se a reinquirição de testemunha, a pedido de advogado estranho aos autos, configura nulidade processual sem a demonstração de prejuízo.
+III. Razões de decidir
+4. O excesso de prazo não se configura, pois os prazos processuais devem ser analisados com razoabilidade, especialmente em casos de crimes graves como homicídio qualificado.
+5. A alegação de nulidade processual não prospera, pois não foi demonstrado prejuízo à defesa, conforme o princípio "pas de nullité sans grief" do art. 563 do CPP.
+6. A decisão monocrática deve ser mantida, pois não foram apresentados novos argumentos capazes de alterar o entendimento anterior.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. O excesso de prazo no encarceramento provisório deve ser analisado com base na razoabilidade, especialmente em crimes graves. 2. A nulidade processual exige a demonstração de prejuízo, conforme o princípio "pas de nullité sans grief"".
+Dispositivos relevantes citados: CPP, art. 563.Jurisprudência relevante citada: STJ, AgRg no AREsp 1.056.170/SC, Rel. Min. Felix Fischer, Quinta Turma, DJe 01.08.2018.
+(AgRg no HC n. 912.181/MA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.) (grifei)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. NULIDADE PROCESSUAL. PRECLUSÃO. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, no qual a parte agravante alegava nulidades no julgamento pelo Tribunal do Júri, incluindo a inversão da ordem de inquirição das testemunhas e o cochilo de uma jurada durante o depoimento.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a inversão da ordem de inquirição das testemunhas e o cochilo de uma jurada configuram nulidades processuais, considerando a necessidade de demonstração de prejuízo concreto e a preclusão da matéria.
+3. A questão também envolve a análise da fração de aumento da pena-base em 1/6, alegada como dissídio jurisprudencial.
+III. Razões de decidir
+4. A inversão da ordem de inquirição das testemunhas não configurou nulidade, pois não houve demonstração de prejuízo concreto, conforme exigido pelo art. 563 do CPP.
+5. O cochilo da jurada durante o depoimento foi considerado precluso, pois a defesa não registrou a nulidade em ata, conforme art. 571, VIII, do CPP.
+6. A fração de aumento da pena-base em 1/6 é comumente adotada e não configura dissídio jurisprudencial, sendo proporcional e adequada.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A inversão da ordem de inquirição das testemunhas não configura nulidade sem demonstração de prejuízo concreto. 2. A ausência de registro em ata de nulidade ocorrida durante o júri resulta em preclusão. 3. A fração de aumento da pena-base em 1/6 é proporcional e não configura dissídio jurisprudencial".
+Dispositivos relevantes citados: CPP, art. 400; CPP, art. 563; CPP, art. 571, VIII; CPP, art. 59.Jurisprudência relevante citada: STJ, AgRg no HC 662.325/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 29/03/2022; STJ, AgRg no RHC 148.274/SC, Rel. Min. Laurita Vaz, julgado em 15/06/2021; STJ, AgRg no AREsp n. 2.351.791/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023.
+(AgRg no AREsp n. 2.833.547/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.)
+No que tange à prova nova, consubstanciada em escritura pública declaratória, melhor sorte não assiste ao recorrente. Com efeito, a jurisprudência deste egrégio Superior Tribunal de Justiça é firme no sentido de que a produção de prova nova para fins de eventual ajuizamento de revisão criminal deve, em regra, ser realizada por meio de justificação criminal, procedimento que assegura a observância do contraditório. Uma declaração unilateral, ainda que formalizada em escritura pública, não possui a força probante de um testemunho colhido em juízo, sob o crivo do contraditório e da ampla defesa.
+O Tribunal a quo, portanto, agiu em conformidade com o entendimento desta Corte ao considerar frágil a prova apresentada, destacando que "a declaração feita na escritura pública pela senhora Kátia Rodrigues de Oliveira não foi realizada em ação própria, se mostrando, assim, frágil, uma vez que o pedido de revisão calcado em prova nova pressupõe o ajuizamento de justificação criminal, dada a necessidade do contraditório" (e-STJ fl. 670).
+Da mesma forma, em casos semelhantes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL. HOMICÍDIO E ABORTO. ABSOLVIÇÃO DOS RÉUS. IMPROPRIEDADE DA VIA ELEITA. JUSTIFICAÇÃO JUDICIAL. PRESENÇA DE PROVAS PARA A MANTENÇA DA CONDENAÇÃO. SOBERANIA DO JÚRI. AGRAVO DESPROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático- probatório, o que é inviável na via eleita. Precedentes.
+2. No caso, o Colegiado de origem rechaçou o pleito absolutório deduzido no bojo da revisão criminal, por considerar que, mesmo após o exame das provas colhidas em sede de justificação judicial, ainda existem elementos de convicção aptos para a manutenção da sentença condenatória.
+3. Se a instância ordinária, mediante valoração do acervo probatório produzido nos autos, entendeu, de forma fundamentada, que há elementos hígidos de prova de autoria delitiva, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ.
+4. Nos termos da jurisprudência desta Corte, "tendo o Tribunal de origem no julgamento da revisão criminal concluído de forma fundamentada, que a retratação da vítima em sede de justificação judicial não se mostrou hábil a derruir a sentença condenatória, porquanto verificada a sua dissintonia com os demais elementos existentes nos autos, a análise das alegações concernentes ao pleito de absolvição demandaria o necessário reexame aprofundado dos fatos e das provas" (AgRg no HC n. 709.762/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022).
+5. Evidenciada a presença de provas nos autos a respaldar a decisão tomada pelo júri quanto à condenação dos pacientes, deve ser preservada a decisão dos jurados, em respeito ao princípio constitucional da soberania dos veredictos.
+6. O acolhimento da revisão criminal tem caráter excepcional, sendo admitido apenas quanto reste patente que a condenação é contrária à evidência dos autos ou se a inocência pela prova nova fique demonstrada de forma flagrante, estreme de dúvidas, dispensando a interpretação ou análise subjetiva das provas constantes dos autos. A fundamentação baseada apenas na fragilidade das provas produzidas não autoriza o Tribunal de origem a proferir juízo absolutório, em sede de revisão criminal, pois esta situação não se identifica com o alcance do disposto no art. 621, incisos I e III, CPP.
+7. Não evidenciada arbitrariedade na condenação, descabe, por fim, falar em anulação do julgamento e em submissão dos réus a novo júri.
+8. Agravo desprovido.
+(AgRg no HC n. 857.857/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.) (grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO E RESISTÊNCIA. PLEITO DE ABSOLVIÇÃO COM FUNDAMENTO EM REVALORAÇÃO SUBJETIVA DA PROVA DOS AUTOS. NÃO CABIMENTO DE REVISÃO CRIMINAL COMO NOVA APELAÇÃO. SOBERANIA DOS VEREDICTOS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A hipótese de insuficiência ou fragilidade do arcabouço probatório não encontra respaldo em nenhuma das hipóteses legais de cabimento da revisão criminal, previstas nos incisos do art. 621 do Código de Processo Penal - CPP.
+2. In casu, quanto à condenação pelos crimes de tentativa de homicídio e resistência, a Corte local, ao apreciar o pedido revisional, optando pela versão dos fatos apresentada pela defesa, julgou procedente a ação para absolver o ora agravante com fundamento, tão somente, em revaloração subjetiva da prova dos autos, pois, ao revisitar os mesmos elementos probatórios já examinados em primeira e segunda instâncias, compreendeu-os como frágeis e insuficientes para amparar o édito condenatório.
+3. Entretanto, ao contrário do exigido no texto normativo, não se vislumbra, no caso concreto, a existência de prova nova reveladora da inocência do acusado, tampouco a manifesta contrariedade da decisão dos jurados à evidência dos autos, o que exigiria, de forma estreme de dúvidas, a verificação da condenação sem qualquer lastro probatório.
+4. Ressalta-se que a hipótese se trata de condenação exarada pelo Tribunal do Júri, a qual, para ser revertida, deve estar manifestamente contrária às provas dos autos, sob pena de ofensa ao princípio da soberania dos veredictos, o que não se verifica no caso.
+5. Entendendo os jurados pela existência de prova satisfatória para a condenação e não estando essa conclusão manifestamente contrária às provas dos autos, não se mostra possível a cassação do veredicto popular na ocasião do julgamento do recurso de apelação, muito menos em uma ação revisional.
+6. De rigor a manutenção da decisão agravada que concluiu pelo restabelecimento da condenação do agravante pelos crimes que lhe foram imputados nos autos da ação penal originária.
+7. Agravo regimental desprovido.
+(AgRg no REsp n. 2.004.958/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Por fim, a tese de que os testemunhos da acusação seriam indiretos e baseados em boatos, buscando desconstituir as conclusões das instâncias ordinárias soberanas na análise da prova, demandaria o reexame do conjunto fático-probatório, providência inviável na via estreita do recurso especial.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do egrégio Superior Tribunal de Justiça , nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
