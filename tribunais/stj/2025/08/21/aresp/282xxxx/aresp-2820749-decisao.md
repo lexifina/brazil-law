@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto por EMPREENDIMENTOS IMOBILIÁRIOS FIRMINÓPOLIS 1 SPE LTDA em face de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLAUSULAS CONTRATUAIS C/C RESCISÃO CONTRATUAL E RESTITUIÇÃO DE QUANTIA PAGA. INÉPCIA DA INICIAL. AFASTADA. CLÁUSULA ARBITRAL. SÚMULA 45 DO TJGO. RESCISÃO POR CULPA EXCLUSIVA DA PROMITENTE COMPRADORA. RETENÇÃO PREVISTA NO CONTRATO. PERCENTUAL RAZOÁVEL. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. DEVOLUÇÃO DA QUANTIA DE FORMA IMEDIATA EM PARCELA ÚNICA (SÚMULA 543 DO STJ). DANO MORAL. AUSÊNCIA DE INTERESSE RECURSAL. SENTENÇA PARCIALMENTE REFORMADA. APELAÇÃO CÍVEL PARCIALMENTE CONHECIDA E, NESTA PARTE, PARCIALMENTE PROVIDA
+Opostos embargos de declaração, estes foram rejeitados às fls. 440-448.
+No recurso especial, alega o agravante, sob pretexto de violação ao art. 1.022, inciso II, do Código de Processo Civil, que o acórdão teria sido omisso ao não apreciar a alegação de existência de cláusula de arbitragem.
+Contrarrazões às fls. 532-545.
+Assim, delimitada a controvérsia, passo a decidir.
+Verifico, pelas razões do recurso, que o agravante não aponta nenhuma omissão no julgado, mas tão somente mera insatisfação com o reconhecimento da nulidade da cláusula arbitral estabelecida pelas partes em razão da relação de consumo.
+Inclusive, a questão foi expressamente apreciada pelo TJGO, não havendo que se falar em omissão:
+Diante da aplicação da lei consumerista ao caso em comento, tendo em vista que o apelado e a apelante amoldam-se, respectivamente, ao conceito de consumidor (art. 2o, do CDC) e parte fornecedora (art. 3o, do CDC), a utilização compulsória de arbitragem tem vedação legal expressa (artigo 51, inciso VII, do Código de Defesa do Consumidor).
+De mais a mais, reputo pertinente destacar que o colendo Superior Tribunal de Justiça firmou o entendimento no sentido de que "a validade da cláusula compromissória, em contrato de adesão caracterizado por relação de consumo, está condicionada à efetiva concordância do consumidor no momento da instauração do litígio entre as partes, consolidando-se o entendimento de que o ajuizamento, por ele, de ação perante o Poder Judiciário caracteriza a sua discordância em submeter-se ao Juízo Arbitrai, não podendo prevalecer a cláusula que impõe a sua utilização" (Aglnt no AREsp 1192648/GO, Rei. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/11/2018, D Je 04/12/2018).
+Este egrégio Tribunal editou a Súmula 45 sobre o tema:
+"Em se tratando de relação de consumo, inafastável a aplicação do artigo 51, VII do CDC, que considera nula de pleno direito, cláusula que determina a utilização compulsória de arbitragem, ainda que porventura satisfeitos os requisitos do artigo 4º , § 2º , da Lei nº 9. 307 /96, presumindo-se recusada a arbitragem pelo consumidor, quando proposta ação perante o Poder Judiciário, convalidando-se a cláusula compromissória apenas quando a iniciativa da arbitragem é do próprio consumidor." (Súmula n. 45 do TJGO, Data de aprovação: 17/09/2018)
+O recurso, então, não merece conhecimento por óbice da Súmula 284 do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor dos agravados, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
