@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Verifico que o deslinde da presente controvérsia, por envolver a decretação de indisponibilidade de bens nos processos regidos pela Lei de Improbidade Administrativa em curso e iniciados após o advento da Lei n. 14.230/2021, perpassa a análise da tese firmada no julgamento do Tema n. 1.257, sob a sistemática dos recursos repetitivos, por esta Corte, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA DE NATUREZA REPETITIVA. IMPROBIDADE ADMINISTRATIVA. TUTELA PROVISÓRIA DE INDISPONIBILIDADE DE BENS. APLICAÇÃO DAS DISPOSIÇÕES DA LEI 14.230/2021 AOS PROCESSOS EM CURSO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. A controvérsia ora em apreciação, submetida ao rito dos recursos especiais repetitivos, restou assim delimitada: "Definir a possibilidade ou não de aplicação da nova lei de improbidade administrativa (Lei 14.230/2021) a processos em curso, iniciados na vigência da Lei 8.429/1992, para regular o procedimento da tutela provisória de indisponibilidade de bens, inclusive a previsão de se incluir, nessa medida, o valor de eventual multa civil."
+2. Com base na redação original da Lei 8.429/1992, este Tribunal firmou entendimento no sentido de que era desnecessária a demonstração de perigo de dano irreparável ou de risco ao resultado útil do processo para o deferimento do pedido de indisponibilidade de bens e que a medida poderia abranger o valor de eventual multa civil (Temas 701 e 1.055).
+3. A Lei 14.230/2021 promoveu profundas alterações na Lei 8.429/1992. Parte dessas alterações foi direcionada à medida de indisponibilidade de bens, que passou a exigir para o seu deferimento "a demonstração no caso concreto de perigo de dano irreparável ou de risco ao resultado útil do processo" (art. 16, § 3º), estabelecendo que não incidirá "sobre os valores a serem eventualmente aplicados a título de multa civil ou sobre acréscimo patrimonial decorrente de atividade lícita" (art. 16, § 10).
+4. Por ser a tutela provisória de indisponibilidade de bens medida que pode ser, a qualquer tempo, revogada ou modificada, a Lei 14.230/2021 é aplicável aos processos em curso, tanto em pedidos de revisão de medidas já deferidas como nos recursos ainda pendentes de julgamento.
+5. Por contrariarem expressa disposição do art. 16, §§ 3º e 10, da Lei 8.429/1992, ficam cancelados os Temas 701 e 1055 dos recursos especiais repetitivos.
+6. Tese jurídica firmada: "As disposições da Lei 14.230/2021 são aplicáveis aos processos em curso, para regular o procedimento da tutela provisória de indisponibilidade de bens, de modo que as medidas já deferidas poderão ser reapreciadas para fins de adequação à atual redação dada à Lei 8.429/1992".
+7. Caso concreto: recurso especial interposto pelo Ministério Público do Estado de Minas Gerais conhecido e não provido.
+8. Recurso julgado sob a sistemática dos recursos especiais representativos de controvérsia (art. 1.036 e seguintes do CPC/2015; e art. 256-N e seguintes do RISTJ).
+(REsp n. 2.074.601/MG, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 6/2/2025, DJEN de 13/2/2025 - destaques meus).
+À vista desse panorama, de rigor a devolução dos autos ao juízo de origem para readequação do acórdão recorrido, com a adoção da providência descrita no art. 1.040, II, do CPC/2015.
+Posto isso, DETERMINO o retorno dos autos à origem, para que proceda o juízo de adequação em relação ao julgamento do Tema Repetitivo n. 1.257, por esta Corte, restando, por conseguinte, PREJUDICADO o Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
