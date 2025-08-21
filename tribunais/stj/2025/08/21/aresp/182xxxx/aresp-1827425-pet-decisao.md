@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedidos formulados por BRUNO GIRARDE CIRINO e OUTROS requerendo a retirada dos autos da pauta de julgamento virtual e o não conhecimento do agravo em recurso especial e, subsidiariamente, o reconhecimento da perda superveniente do objeto ou o julgamento do presente recurso nos termos do REsp 1975121/PR.
+Asseveram que o presente recurso e o supramencionado recurso especial foram interpostos contra a mesma decisão e versam sobre a mesma matéria e mesmos fundamentos jurídicos, tendo sido o primeiro interposto no âmbito da ação declaratória e o segundo nos embargos à execução. Ademais, o REsp 1975121/PR foi interposto primeiro e já foi definitivamente julgado por esta Turma com trânsito em julgado no dia 20/5/2025. Em consequência, deve ser reconhecida a preclusão consumativa do presente recurso e a perda de objeto do mesmo.
+Os pedidos devem ser acolhidos.
+De fato, o AREsp 1827425/PR e o REsp 1975121/PR foram interpostos por METROPOLITAN LIFE SEGUROS E PREVIDENCIA PRIVADA S.A. contra o acórdão do Tribunal de Justiça do Estado do Paraná que deu provimento à apelação interposta pelos ora requerentes "para anular a sentença em razão do julgamento , julgar procedente os embargos à execução e julgar ultra petita procedente a ação declaratório e condenatória para desconstituir a cláusula contratual que estabeleceu Aline Aparecida Jaques como beneficiária do contrato de seguro de vida e para condenar a seguradora ao pagamento de metade da indenização a Patrícia Aparecida Girardi e da outra metade a todos os herdeiros, em proporções iguais" (e-STJ fl. 549 dos presentes autos e fl. 993 dos autos do REsp 1975121/PR).
+Ademais, cumpre atentar que os ambos os recursos especial têm os mesmos fundamentos jurídicos.
+Nesse contexto, a interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+A propósito:
+"AGRAVOS INTERNOS NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. SEGUNDO E TERCEIRO AGRAVOS NÃO CONHECIDOS. PRIMEIRO AGRAVO INTERNO PROVIDO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. A jurisprudência do Superior Tribunal de Justiça possui entendimento segundo o qual "fica prejudicado, por perda de objeto, o exame de recurso especial interposto contra acórdão proferido em sede de agravo de instrumento que decide questão preliminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença" (AgRg no AREsp 51.857/SP, Rel. Ministro João Otávio de Noronha, TERCEIRA TURMA, DJe de 26/5/2015). Precedentes.
+3. Segundo e terceiro agravos internos não conhecidos e primeiro agravo interno a que se dá provimento, para reconsiderar a decisão de fls. 396-399 e, com fundamento no art. 34, XI, do RISTJ, julgar prejudicado o recurso especial."
+(AgInt no AREsp n. 1.118.801/SP, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª REGIÃO), Quarta Turma, julgado em 11/9/2018, DJe de 14/9/2018.)
+Ante o exposto, julgo prejudicado o r ecurso especial pelos fundamentos acima expostos.
+Publique-se.
+Intimem-se.
+EMENTA
