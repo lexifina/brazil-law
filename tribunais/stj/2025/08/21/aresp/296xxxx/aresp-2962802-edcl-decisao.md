@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOHN DA ROCHA FRANCA contra decisão que conheceu do agravo para negar provimento ao recurso especial (e-STJ, fls. 489/493).
+A parte embargante sustenta a existência de omissões no julgado, afirmando que não foram examinados pontos essenciais ao deslinde da controvérsia.
+Em síntese, alega que a decisão limitou-se a reputar suficientes e coerentes os relatos policiais, aplicando a Súmula n. 7/STJ para afastar a discussão acerca da plausibilidade da narrativa de que a droga estaria sobre o banco do passageiro. Com efeito, assevera que não foi enfrentado o argumento de que não é crível que um réu reincidente por tráfico de drogas deixasse porção de cocaína exposta dessa forma.
+Argumenta, ainda, que a apreciação dessa tese não demanda reexame do acervo fático-probatório, uma vez que as circunstâncias estão devidamente descritas na sentença. Com isso, ressalta que a suposta visualização da droga constituiu o único fundamento objetivo para legitimar a busca, sendo, portanto, elemento decisivo para aferir a presença da "fundada suspeita" exigida pelo art. 244 do Código de Processo Penal.
+Acrescenta, de forma complementar, precedente firmado no HC 846.645/GO, segundo o qual o depoimento policial deve ser corroborado por outros elementos independentes. Com isso, requer o saneamento das omissões apontadas, com o enfrentamento expresso dos argumentos defensivos e a consequente análise do mérito do recurso especial, a fim de que seja declarada a nulidade da prova.
+É o relatório.
+Decido.
+A alegação de que houve omissão no exame das nulidades não prospera.
+A decisão embargada enfrentou a controvérsia de maneira clara e objetiva, analisando de forma expressa e minuciosa os fundamentos fáticos e jurídicos que embasam a legalidade da busca pessoal e veicular, à luz do art. 244 do Código de Processo Penal e da jurisprudência consolidada nesta Corte Superior.
+As alegações formuladas pela defesa, no sentido de que não seria crível que um réu reincidente por tráfico de drogas deixasse porção de cocaína exposta no banco do passageiro, bem como de que a apreciação dessa tese não demandaria reexame probatório, foram afastadas pela fundamentação adotada (e-STJ fl. 493).
+No ponto, a decisão embargada destacou, de forma inequívoca, que a motivação da abordagem decorreu da constatação, prévia à busca, de um invólucro plástico transparente, em local visível, contendo substância com aparência suspeita, a qual foi imediatamente confirmada pelo acusado como sendo droga ilícita.
+Conforme expressamente consignado na decisão embargada, esse conjunto de circunstâncias objetivas e concretas foi considerado suficiente para caracterizar a fundada suspeita exigida pela lei, afastando a hipótese de abordagem arbitrária ou discriminatória.
+Ademais, restou consignado que eventual questionamento acerca das razões pelas quais a droga estava disposta no interior do veículo é irrelevante para a aferição da legalidade da medida, uma vez que o critério de validade da busca repousa na existência de sinais externos e objetivos pré-existentes à diligência.
+Embora a defesa sustente que a decisão teria se limitado a reputar suficientes os relatos policiais, certo é que a análise empreendida demonstrou que tais depoimentos foram valorados em conjunto com outros elementos, inclusive registros fotográficos, formando um acervo probatório coerente. Alteração desse entendimento inevitavelmente enseja o reexame do conjunto fático-probatório, providência vedada pela Súmula n. 7/STJ.
+Não fosse isso o bastante, é pacífico o entendimento de que o julgador não está obrigado a enfrentar, um a um, todos os argumentos deduzidos pela parte, quando já tenha identificado fundamento autônomo e suficiente para a resolução da causa. Nesse sentido:
+PROCESSUAL CIVIL. ADMIINSTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. MERO INCONFORMISMO. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+III. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o julgador que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a lide, apenas não acatando a tese defendida pela parte recorrente.
+(AgInt no REsp n. 2.195.307/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/6/2025, DJEN de 12/6/2025, grifei)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+(..) 2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(..)
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª REGIÃO), Primeira Seção, julgado em 8/6/2016, DJe de 15/6/2016, grifei)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
