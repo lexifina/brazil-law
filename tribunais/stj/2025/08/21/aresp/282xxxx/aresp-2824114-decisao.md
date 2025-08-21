@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto por ESDRO RODRIGUES COSTA - ME E OUTRO em face de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - ACORDO HOMOLOGADO JUDICIALMENTE - ATRASO NO PAGAMENTO DE PARCELA - COBRANÇA DO DESCONTO CONCEDIDO PELO DEVEDOR - AFASTAMENTO - OBRIGAÇÃO CUMPRIDA PELO DEVEDOR - OBSERVÂNCIA À BOA-FÉ OBJETIVA E RAZOABILIDADE - DECISÃO MANTIDA. Apesar do atraso de alguns dias no pagamento de parcela de débito convencionado em acordo, devem ser consideradas a boa-fé objetiva e a razoabilidade, para, diante cumprimento da obrigação principal, afastar a cobrança do valor correspondente ao desconto concedido pelo credor. Recurso não provido.
+Opostos embargos de declaração, estes foram rejeitados às fls. 231-234.
+No recurso especial, alega o agravante que o acórdão violou os arts. 394 e 397 do Código Civil, bem como os arts. 487, inciso III, alínea "b", e 502 do Código de Processo Civil, ao argumento de que, no caso, houve mora ex re, que autorizaria a cobrança da clá usula penal prevista no acórdão homologado judicialmente. Aponta, que há dissídio jurisprudencial quanto ao tema.
+Não houve apresentação de contrarrazões, conforme certidão de fl. 381.
+Assim, delimitada a controvérsia, passo a decidir.
+Ao manter a decisão que afastou a aplicação da cláusula penal prevista no contrato homologado em juízo, o TJMS assim considerou (fl. 214):
+Conforme precedente do Superior Tribunal de Justiça a cláusula penal pode ser revista em observância aos princípios da função social do contrato, boa-fé objetiva e equilíbrio econômico entre as prestações, os quais convivem harmonicamente com a autonomia da vontade e o princípio pacta sunt servanda (STJ - 3ª Turma, Recurso Especial nº 1.641.131, Ministra Nancy Andrighi, j. 16.2.17, DJ 23.2.17).
+Além disso, consoante artigo 805 do Código de Processo Civil, a execução deve ocorrer da forma menos gravosa para o devedor.
+Na hipótese, foi apresentado cumprimento de sentença pela parte recorrente, com fundamento no descumprimento do acordo firmado entre as partes e homologado judicialmente, para quitação parcelada do débito.
+Diante do inadimplemento, a ré/exequente requereu aplicação da cláusula penal, que prevê a perda do desconto concedido pelo pagamento pontual, bem como pleiteou incidência da correção monetária sobre as parcelas pagas em atraso.
+Houve demonstração do atraso de algumas parcelas (p. 843). A parcela com vencimento em 10/04/2022 foi quitada em 20/04/2022 e a com vencimento em 10/05/2022 foi paga em 16/05/2022. Contudo, posteriormente, houve regular pagamento pela parte executada, inclusive, mediante adiantamento de valores.
+Não obstante o atraso de alguns dias, deve ser considerada a boa-fé objetiva, a razoabilidade e a finalidade da penalidade, de incentivar o cumprimento da obrigação principal, que, na hipótese, foi cumprida.
+Verifico que o TJMS julgou em consonância com a jurisprudência deste Superior Tribunal de Justiça, cujo entendimento é de que a cláusula penal deve ser interpretada conforme os ditames da boa-fé objetiva , podendo, inclusive, ser reduzida mediante juízo equitativo e proporcional. Vejamos:
+DIREITO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA CUMULADA COM OBRIGAÇÃO DE PAGAR E DE FAZER. REDUÇÃO DA CLÁUSULA PENAL. ART. 413 DO CC. JUÍZO EQUITATIVO E PROPORCIONAL NECESSÁRIO. ANULAÇÃO DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO AGRAVADA MANTIDA.
+1. Nos termos do art. 413 do Código Civil, a cláusula penal pode ser reduzida, mediante juízo equitativo e proporcional, levando-se em consideração os princípios da equivalência material e da boa-fé objetiva, além da gravidade da infração e outras circunstâncias específicas do caso concreto. Precedentes.
+2. No presente caso, as instâncias de origem, a despeito de reconhecerem a culpa da ré pela rescisão do contrato cerca de um ano e meio antes do termo de vigência pactuado, reduziram cláusula penal para aproximadamente 1% (um por cento) do valor estabelecido contratualmente pelas partes, sem ponderar os elementos que este Tribunal considera relevantes para que o juiz tome esta providência.
+3. Considerando que, na hipótese dos autos, a realização do juízo equitativo e proporcional demanda reexame de matéria de fato, faz-se necessário o retorno dos autos ao Tribunal de origem, para que fixe o valor devido a título de penalidade, mediante avaliação pormenorizada das peculiaridades do caso concreto, à luz da jurisprudência do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.286.724/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/12/2024, DJEN de 11/12/2024.)
+O recurso, então, encontr a óbice na Súmula 83 deste STJ.
+Além disso, alterar as premissas utilizadas pelo Tribunal local para, no caso, entender pela não aplicação da cláusula penal demandaria, necessariamente, o reexame de fatos e provas, o que encontra óbice na Súmula 7 deste STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
