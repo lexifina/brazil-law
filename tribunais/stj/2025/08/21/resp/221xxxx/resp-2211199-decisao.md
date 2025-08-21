@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+"PROCESSUAL CIVIL E EMPRESARIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. HABILITAÇÃO TARDIA DE CRÉDITO TRABALHISTA. RECUPERAÇÃO JUDICIAL JÁ ENCERRADA. PEDIDO IRREVERSIVELMENTE PREJUDICADO. PROCESSAMENTO. IMPOSSIBILIDADE. CARÊNCIA DE AÇÃO. RECONHECIMENTO. INTERESSE DE AGIR. AUSÊNCIA. EXTINÇÃO DO PROCESSO SEM ANÁLISE DO MÉRITO (CPC, ART. 485, VI). DECISÃO. NATUREZA INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO (LEI 11.101/2005, ART. 17). MANEJO DE APELAÇÃO PELA EMPRESA QUE FRUÍRA DO PROCEDIMENTO DE RECUPERAÇÃO, NÃO PELO SEU CREDOR. ERRO INESCUSÁVEL. EXPRESSA INDICAÇÃO LEGAL. CONHECIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INVIABILIDADE. INADEQUAÇÃO DA VIA ELEITA. APELO NÃO CONHECIDO.
+1. A habilitação de crédito aviada no curso da recuperação judicial encerra simples incidente ao processo recuperacional, daí porque, conquanto enseje a formatação de autos apartados, não deflagra nova ação, derivando da natureza que ostenta que é resolvido via de decisão interlocutória, e não de sentença, inclusive porque não há, na sua resolução, colocação de termo a fase processual ou extinção da recuperação, mas simples habilitação ou elisão do crédito que fizera o objeto da postulação incidental.
+2. Como deflagra simples incidente, e não ação, a habilitação de crédito é resolvida via de decisão judicial de natureza interlocutória, pois não põe termo a nenhuma fase processual, sujeitando-se o provimento que a resolve, por conseguinte, ao recurso de agravo de instrumento, conforme linearmente estabelece o artigo 17 da Lei nº 11.101/05, tornando inviável que seja devolvido a reexame via de apelação por descerrar manejo de instrumento processual inadequado.
+3. Insubsistente dúvida objetiva na doutrina e na jurisprudência quanto ao recurso cabível, o aviamento de apelação em face de decisão que resolve habilitação de crédito no curso de recuperação judicial, qualificando-se, pois, como pronunciamento de natureza interlocutória, encerra erro inescusável por afrontar a regulação procedimental (Lei 11.101/2005, art. 17), tornando inviável a aplicação do princípio da fungibilidade recursal de molde a ser viabilizado o conhecimento do apelo, porquanto tem como premissas a subsistência de dúvida razoável acerca do recurso cabível na espécie e da adequação de procedimentos entre o recurso acertado e o manejado.
+4. Apelação não conhecida. Unânime"
+A parte, em seu recurso especial, aponta violação aos arts. 485, inciso VI, e 1.009 do Código de Processo Civil, sustentando a necessidade de aplicação do princípio da fungibilidade do recurso, para que o recurso de apelação seja recebido como agravo de instrumento.
+Sem contrarrazões.
+Juízo de admissibilidade às fls. 167/169 e-STJ.
+O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, no sentido de que, havendo expressa disposição em lei prevendo o recurso cabível, não se aplica o princípio da fungibilidade do recurso , ante a configuração de erro grosseiro.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - PEDIDO DE HABILITAÇÃO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. Nos termos do art. 17 da Lei 11.101/05, contra a decisão judicial sobre impugnação de crédito caberá recurso de agravo. Havendo expressa disposição de lei, constitui erro grosseiro, insuscetível de aplicação do princípio da fungibilidade, a interposição de recurso diverso. Aplicação da Súmula 83/STJ.
+2. Agravo interno desprovido" (AgInt no AREsp n. 1.512.820/SP, relator Ministro Marco Buzzi, QUARTA TURMA, DJe de 27/11/2019.)
+Aplica-se, portanto, a Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso especial .
+Intimem-se.
+EMENTA
