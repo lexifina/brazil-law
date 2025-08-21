@@ -1,0 +1,27 @@
+DECISÃO
+T rata-se de agravo em recurso especial interposto por MIRIAM DOS SANTOS RODRIGUES CHAVES contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 5, 7 e 83 do STJ.
+O agravante alega que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de ação revisional de contrato bancário.
+O julgado foi assim ementado (fl. 343):
+APELAÇÃO CÍVEL - PROCEDIMENTO COMUM - REVISÃO DE CONTRATO BANCÁRIO - EMPRÉSTIMO PESSOAL NÃO-CONSIGNADO - JUROS REMUNERATÓRIOS À TAXA MÉDIA DE MERCADO. "A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada pela Segunda Seção a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média" (STJ, AgInt no AR Esp n. 1.987.137/SP).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta violação dos arts. 6º, V, 39, V, e 51, IV e XV e § 1º, III, do CDC e divergência jurisprudencial no tocante à limitação dos juros remuneratórios.
+Defende que os juros remuneratórios previstos no contrato são abusivos.
+Alega divergência jurisprudencial em relação ao decidido no REsp n. 1.061.530/RS, no tocante aos critérios para a verificação da abusividade dos juros remuneratórios.
+Requer a reforma do acórdão recorrido para que se reconheça a abusividade das taxas pactuadas a fim de serem alteradas, redistribuindo-se os ônus sucumbenciais.
+É o relatório. Decido.
+A controvérsia está assentada na forma de aferição da abusividade dos juros remuneratórios. O valor da causa é R$ 32.532,20.
+A agravante afirma que os juros remuneratórios previstos no contrato de mútuo bancário só podem sofrer interferência do Poder Judiciário quando o percentual da taxa cobrada for muito superior à taxa média de juros divulgada pelo Banco Central, exatamente como no caso concreto.
+No caso, o Tribunal local, analisando as circunstâncias concretas do caso, não constatou a abusividade dos juros remuneratórios previstos contratualmente, razão pela qual, adotando a jurisprudência do STJ, manteve a taxa de juros pactuada.
+Confira-se t recho do acórdão recorrido (fl. 348, destaquei):
+Desse modo, ao contrário do que restou decidido, estar dentro da média de mercado não significa dizer que os juros devam corresponder exatamente à média aritmética dos juros aplicados por todas as instituições financeiras, como decide o Superior Tribunal de Justiça.
+No caso dos autos, os juros contratados à taxa de 17,99% ao mês - 648,7% ao ano em 19/07/2019 (ordem 42) e à taxa de 18,01% ao mês - 649,63% ao ano em 20/12/2019 (ordem 13) não são abusivos em relação à taxa média do mercado para a modalidade do contrato revisando (Pessoa física - Crédito pessoal não-consignado), consoante classificação das taxas divulgadas pelo Banco Central do Brasil (bcb. gov. br).
+No período de 19/07/2019 a 25/07/2019 as taxas de juros para o crédito pessoal não-consignado, pré-fixado, variaram de 1,03% a. m. - 13,05% a. a. e 25,30% a. m. - 1397,46% a. a., sendo a taxa de juros praticada pela instituição financeira apelante, 19,22% a. m. e 724,89% a. a., superior à contratada pela apelada.
+Já no período de 19/12/2019 a 26/12/2019 as taxas de juros para o crédito pessoal não-consignado, pré-fixado, variaram de 0,04 % a. m. - 0,48% a. a e 26,44% a. m. - 1.569,36% a. a., sendo a taxa de juros praticada pela instituição financeira apelante, 19,22% a. m. e 724,52% a. a., superior à contratada pela apelada.
+Logo, os juros contratados devem ser mantidos quando eles se mostrarem de acordo com a taxa média praticada no mercado, no segmento contratual em discussão.
+Como visto acima, o Tribunal de origem, soberano na análise do arcabouço fático-probatório dos autos, concluiu pela inexistência de abusividade dos juros remuneratórios previstos contratualmente, em análise das peculiaridades do caso concreto.
+Dessa forma, para decidir em sentido contrário e verificar os fatores específicos acima apontados acerca das peculiaridades do caso concreto quanto aos juros pactuados, seria necessário reexaminar o instrumento contratual e o conjunto fático-probatório dos autos, procedimento vedado na via do recurso especial (Súmulas n. 5 e 7 do STJ). A propósito: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
