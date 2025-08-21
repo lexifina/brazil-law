@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela Defensoria Pública em favor de JOSE MARCIO RODRIGUES FARIAS, em razão do acórdão proferido, em 1º/8/2025, pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE na Apelação Criminal n. 202500334317.
+Ali, a Câmara Criminal negou provimento ao recurso defensivo, mantendo a condenação do paciente pela prática do crime do art. 129, § 13, do Código Penal.
+Aqui, a impetrante busca a concessão liminar da ordem a fim de que seja reconhecida a nulidade da decisão condenatória por ausência de exame de corpo de delito, em consequência desclassificada a infração penal para contravenção vias de fato, por ausência de prova da materialidade do delito (fl. 10).
+Alega, para tanto, que, no caso em comento, o Laudo Pericial, obrigatório em crimes que deixam vestígios, não foi elaborado e nem qualquer outro documento que comprove a materialidade do delito, como relatório médico (fl. 5). Sustenta que o CPP exige exame de corpo de delito nos crimes que deixa vestígios, tornando-se inadequado e penoso para o paciente uma condenação que não cumpra os requisitos impetuosos para um processo penal justo e legal (fl. 6). Repisa que, em se tratando de crime não transeunte, ou seja, delito que deixa vestígios é necessário o exame pericial, cuja ausência configura a nulidade da decisão, conforme o art. 564, inciso III, alínea "b" do CPP, dispositivo atropelado pelo acórdão vergastado (fl. 8).
+É o relatório.
+Segundo o entendimento do Superior Tribunal de Justiça, é incognoscível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem, como na espécie.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Além disso, o paciente não está preso em razão do processo em questão, situação que revela que seu status libertatis não está em jogo no momento.
+Por fim, inexiste ilegalidade perceptível de plano que justifique a concessão de habeas corpus de ofício e a consequente superação dos óbices constatados.
+Isso porque o entendimento adotado pelo Tribunal de origem está em plena conformidade com a jurisprudência desta Corte, segundo a qual o exame de corpo de delito é prescindível para a configuração do delito de lesão corporal ocorrido no âmbito doméstico, podendo a materialidade ser comprovada por outros meios (AgRg no HC n. 825.448/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/2/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. PRAZO PARA A INTERPOSIÇÃO DO RECURSO ESPECIAL AINDA EM CURSO NA ORIGEM. PACIENTE EM LIBERDADE. AUSÊNCIA DE REPERCUSSÃO IMEDIATA NO SEU STATUS LIBERTATIS. INADEQUAÇÃO DA VIA ELEITA. DESVIRTUAMENTO DO USO DO WRIT. CRIME DO ART. 129, § 13, DO CP. DESCLASSIFICAÇÃO PARA VIAS DE FATO. IMPOSSIBILIDADE. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+Writ indeferido liminarmente.
