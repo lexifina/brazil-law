@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por HAPVIDA ASSISTÊNCIA MÉDICA S/A contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 88):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. Decisão que rejeitou a impugnação ao cumprimento de sentença. Insurgência da executada. Discordância dos motivos que ensejaram o título executivo. Descabimento. A multa cominada para caso de descumprimento de ordem judicial tem natureza inibitória, ou seja, sua finalidade é induzir ao efetivo cumprimento da obrigação imposta. Indubitável o descumprimento injustificado no cumprimento da ordem estabelecida no título judicial exeqüendo. Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 520, 536 e 537, §1º, do Código de Processo Civil/2015.
+Quanto à suposta ofensa ao art. 537, §1º, do CPC/2015 sustenta que a multa aplicada é desproporcional e causa enriquecimento ilícito, devendo ser revista ou reduzida.
+Argumenta, também, que a decisão afronta os princípios da razoabilidade e proporcionalidade, além de não considerar a ausência de previsão legal para penhora como medida coercitiva.
+Haveria, por fim, violação aos arts. 520 e 536 do CPC/2015, uma vez que o Tribunal de origem não considerou a necessidade de revisão da multa cominatória para evitar enriquecimento sem causa.
+Contrarrazões ao recurso especial às fls. 123-129.
+O recurso especial não foi admitido com base na ausência de demonstração da alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão recorrido (fls. 137-138).
+Nas razões do seu agravo, a parte agravante impugna os fundamentos da decisão de admissibilidade, alegando que houve violação aos dispositivos legais mencionados e que a decisão não considerou adequadamente os argumentos apresentados.
+A contraminuta não foi apresentada.
+Assim delimitada a controvérsia, conheço do agravo e passo ao julgamento do recurso especial.
+O recurso não merece provimento.
+Trata-se de ação de obrigação de fazer, na qual a parte autora busca o cumprimento de sentença que condenou a operadora de saúde ao custeio de tratamento médico, com a imposição de multa diária pelo descumprimento da ordem judicial.
+A parte recorrente apresentou impugnação que foi rejeitada, tendo sido determinado o cumprimento da obrigação e a aplicação de multa cominatória.
+Nas razões do seu agravo de instrumento, a parte afirma que é necessário reduzir o valor da multa cominatória e que, para o levantamento de valores, é necessário que seja determinada a caução nos autos, de modo a ressarcir os danos que possa vir a sofrer, na hipótese de modificação da decisão agravada.
+O Tribunal de origem manteve a decisão, negando provimento ao agravo de instrumento interposto pela operadora de saúde, consignando que: (i) a recorrente admitiu que realmente deixou de cumprir a determinação judicial, limitando-se a discordar da decisão que deferiu a tutela de urgência ao agravado, insistindo que o tratamento prescrito não está elencado no rol de procedimentos obrigatórios da ANS; (ii) diante do descumprimento da ordem judicial, cabível a execução da multa diária nela imposta; e (iii) incabível qualquer alteração na multa fixada pela demora no cumprimento da ordem judicial, tendo em vista a importância do bem da vida posto em discussão, nos termos do artigo 537 do Código de Processo Civil. Confira-se:
+A recorrente admitiu que realmente deixou de cumprir a determinação judicial, limitando-se a discordar da decisão que deferiu a tutela de urgência ao agravado, insistindo que o tratamento prescrito não está elencado no rol de procedimentos obrigatórios da ANS.
+Com efeito, em se tratando de execução de sentença, não cabe discussão quanto a matéria de fundo e, assim, no caso concreto, diante do descumprimento da ordem judicial, cabível a execução da multa diária nela imposta.
+Ressalte-se que o objetivo das astreintes não é constranger a parte a pagar o valor da multa, mas forçá-la a cumprir obrigação específica.
+Ao juiz é lícito limitar o valor das astreintes, revisar ou até mesmo afastar sua exigibilidade, quando comprovada o cumprimento da obrigação principal, deixando de existir razão para a existência da cominação imposta.
+No caso dos autos, constata-se que a agravante tomou ciência inequívoca acerca do conteúdo da tutela deferida, deixando de custear o tratamento prescrito ao agravado.
+Portanto, incabível qualquer alteração na multa fixada pela demora no cumprimento da ordem judicial, tendo em vista a importância do bem da vida posto em discussão, nos termos do artigo 537 do Código de Processo Civil  ..  (fls. 90-91).
+Nos termos da jurisprudência desta Corte, o exame do cabimento e do valor da multa cominatória, em recurso especial, é possível apenas em casos excepcionais, diante da manifesta exorbitância do valor ou de flagrante impossibilidade de cumprimento da medida. A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS DE SUCUMBÊNCIA. INOVAÇÃO RECURSAL. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. AUSÊNCIA. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. ASTREINTES. VALOR EXORBITANTE. AFASTAMENTO. RECALCITRÂNCIA DO DEVEDOR. REDUÇÃO DO VALOR. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ.
+1. É inviável o exame de questões suscitadas somente nas razões do recurso especial, porquanto carecem de prequestionamento e configuram indevida inovação recursal, o que impossibilita o exame no Superior Tribunal de Justiça.
+2. O prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública.
+3. O exame do cabimento e do valor da multa cominatória, em recurso especial, é possível apenas em casos excepcionais, diante da manifesta exorbitância do valor ou de flagrante impossibilidade de cumprimento da medida, o que não ocorreu no caso dos autos.
+4. Verificado que a multa diária foi estipulada em valor razoável diante do contexto da ação, a eventual obtenção de valor total expressivo, decorrente do decurso do tempo associado à inércia da parte em cumprir a determinação judicial, não enseja a sua redução.
+5. Na hipótese, rever as premissas adotadas pelo tribunal de origem demandaria o reexame fático-probatório dos autos, encontrando óbice na Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.214.493/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ASTREINTES. REDUÇÃO DO VALOR PELO TRIBUNAL A QUO. OBSERVÂNCIA DA PROPORCIONALIDADE E DA RAZOABILIDADE. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Quanto às astreintes, o Superior Tribunal de Justiça firmou orientação de que o exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância da quantia arbitrada em relação à obrigação principal, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. O STJ admite, excepcionalmente, a fixação de um teto para a cobrança da multa cominatória como forma de manter a relação de proporcionalidade com o valor da obrigação principal.
+3. No caso concreto, o Tribunal a quo, ao fixar como parâmetro o valor do veículo, obrigação principal, embasou-se na proporcionalidade e na razoabilidade, razão pela qual não se afastou da orientação do Superior Tribunal de Justiça, devendo o acórdão recorrido ser mantido pelos seus próprios fundamentos.
+4. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.752.132/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/5/2025, DJEN de 5/6/2025.)
+No caso dos autos, pelo descumprimento reiterado da tutela provisória de urgência, o valor da multa cominatória alcançou o patamar indicado no cumprimento de sentença no total de R$ 104.000,00 (cento e quatro mil reais).
+Na hipótese dos autos, a revisão das conclusões proferidas pelo Colegiado estadual demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7/ STJ.
+Em face do exposto, conheço do agravo e nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
