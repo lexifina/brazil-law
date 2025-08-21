@@ -1,0 +1,20 @@
+DECISÃO
+Perdeu o objeto o agravo regimental em recurso especial interposto por Eduardo Martins Menezes Junior contra a decisão de fls. 2.721/2.732.
+Na situação dos autos, a pretensão punitiva estatal encontra-se fulminada pela prescrição na modalidade superveniente, considerando a pena aplicada em concreto.
+Com efeito, os atos imputados ao réu datam do período de 2001 a 2004, sendo a denúncia recebida em 7/7/2009 e a sentença proferida em 15/7/2016 (fls. 435/480). Diante da ausência de recurso por parte da acusação, a pena fixada - 3 anos, 10 meses e 20 dias - tornou-se a referência para o cálculo prescricional, estabelecendo o lapso de 8 anos, nos termos da legislação de regência (art. 109, IV, c/c o art. 110, § 1º, ambos do CP).
+Considerando que a publicação da sentença condenatória, em 15/7/2016, constitui o marco interruptivo final aplicável ao caso, constata-se que o prazo de 8 anos já foi integralmente esgotado até a presente data.
+É fundamental destacar a impossibilidade de se aplicar a publicação do acórdão como causa de interrupção da prescrição. Essa hipótese foi inserida no inciso IV do art. 117 do Código Penal pela Lei n. 11.596/2007, que, por representar uma norma mais gravosa ao réu, não retroage para abarcar fatos criminosos ocorridos antes de sua entrada em vigor, como os que são objeto deste processo (AgRg no HC n. 905.268/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Não é outra a opinião do Subprocurador-Geral da República Luciano Mariz Maia (fls. 2.793/2.796 ):
+ ..  Com efeito, na hipótese em apreço, os fatos praticados pelo réu, ora recorrente, ocorreram durante os anos de 2001 a 2004, ou seja, em momento anterior à entrada em vigor da Lei nº 11.596/2007. A denúncia foi recebida em 07/07/2009 e a sentença data de 15/07/2016.
+Diante desse quadro, entendemos que não há como se afastar a ocorrência da prescrição da pretensão punitiva superveniente, relativamente ao crime de peculato, diante do que dispõem as normas de regência.
+Ora, transitada em julgada a sentença para acusação (somente a defesa apresentou recurso de apelação) e sendo a pena fixada em 3 anos, 10 meses e 20 dias de reclusão, o prazo prescricional da pretensão punitiva resta fixado em 8 (oito) anos, nos termos do art. 110, § 1.º, c.c. o art. 109, inciso IV, todos do Código Penal, de acordo com as penas aplicadas pelo Tribunal.
+Considerando o último marco interruptivo do prazo prescricional a data da publicação da sentença condenatória ocorrida em 15/07/2016, constata-se o transcurso de prazo superior a 8 (oito) anos, o que impõe reconhecer a ocorrência da prescrição da pretensão punitiva estatal superveniente.
+É importante ressaltar que não se cogita sequer da possibilidade de se aplicar como causa interruptiva da prescrição a publicação do acórdão condenatório, em virtude de inovação do inciso IV do art. 117 do Código Penal, introduzida pela Lei n.º 11.596, de 29 de novembro de 2007, que, por se tratar de norma mais gravosa, não retroage para abarcar crimes praticados antes de sua vigência, como no caso.
+Nesse sentido, veja-se, a propósito:
+ ..
+Essas as circunstâncias, em se tratando de matéria pública, manifesta-se o Ministério Público Federal pela declaração da prescrição da pretensão punitiva estatal.
+Ante o exposto, em consonância com o parecer ministerial, declaro extinta a punibilidade do agravante, pela prescrição da pretensão punitiva, com fundamento no art. 109, IV, c/c o art. 110, § 1º, ambos do Código Penal, e, por conseguinte, julgo prejudicado o agravo regimental em recurso especial (art. 34, XI, do RISTJ).
+P ublique-se.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PECULATO. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. EXTINÇÃO DA PUNIBILIDADE DECLARADA. RECURSO PREJUDICADO.
+Declarada extinta a punibilidade do agravante com fundamento no art. 109, IV, c/c o art. 110, § 1º, ambos do Código Penal, e, por conseguinte, julgado prejudicado o agravo regimental em recurso especial.
