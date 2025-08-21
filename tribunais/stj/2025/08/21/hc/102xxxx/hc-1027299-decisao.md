@@ -1,0 +1,14 @@
+DECISÃO
+CARLOS ALBERTO DE SALLES JÚNIOR alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+O paciente foi denunciado por tráfico de drogas, por supostamente guardar e manter em depósito, para entrega ao consumo de terceiros, 7 tijolos de maconha pesando 2,856 kg e 2 potes contendo 132,9 g de cocaína. A defesa alega que não há justa causa para o exercício da ação penal, uma vez que Leandro, réu confesso, assumiu sozinho a prática do delito.
+A impetrante afirma que existe documento particular, afastando qualquer participação de Carlos no tráfico de drogas, o que torna duvidosa a atribuição dos fatos ao ora paciente. Aduz que nenhuma das condenações recentes de Carlos envolvem a prática do tráfico de drogas, tampouco são crimes praticados com violência ou grave ameaça.
+Requer, por isso, o trancamento do exercício da ação penal originária, com a consequente expedição do contramandado de prisão; subsidiariamente, busca a rejeição da denúncia ou a revogação da custódia preventiva.
+Decido.
+Somente é cabível o trancamento da persecução penal por meio do habeas corpus quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta praticada pelo acusado, seja pela total ausência de indícios de autoria e de prova da materialidade delitiva, ou, ainda, pela incidência de causa de extinção da punibilidade, o que não se verifica na hipótese.
+No caso, a denúncia está fundamentada em apreensão significativa de entorpecentes e em relato de investigações prévias e de cumprimento de mandado de busca deferido previamente por autoridade judicial. As drogas foram localizadas no imóvel onde o paciente residia, quase 3kg de maconha e 132,9g de cocaína. Nesse contexto, não há como impedir o exercício abstrato da ação penal, para a devida apuração dos fatos em um devido processo legal.
+O habeas corpus não se destina a apurar controvérsia sobre fatos e o documento particular redigido por corréu não é um atestado de inocência; deverá ser submetido ao contraditório e confrontado com os demais elementos probatórios para a devida apuração do tráfico de drogas e sua autoria, em sentença.
+No mais, não foi juntada aos autos a cópia do decreto de prisão preventiva nem do andamento do processo principal. Assim, não há documentos que comprovem a tese de ilegalidade da medida, o que impede o conhecimento do habeas corpus.
+É "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato(Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
