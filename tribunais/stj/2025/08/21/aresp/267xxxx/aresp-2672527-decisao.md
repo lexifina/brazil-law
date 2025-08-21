@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 142):
+Agravo de instrumento. Ação de obrigação de fazer. Plano de saúde. Cumprimento de sentença. Decisão que rejeitou a impugnação e reconheceu o descumprimento de determinação judicial. Inconformismo da executada. Não cabimento. Descumprimento de determinação judicial caracterizado. Incidência das astreintes devida. Decisão mantida. Agravo não provido.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 537 do Código de Processo Civil/2015 e o art. 884 do Código Civil, sustentando que a multa cominatória aplicada é excessiva e desproporcional, não observando os princípios da razoabilidade e proporcionalidade.
+Argumenta, também, que o art. 884 do Código Civil foi violado, pois a manutenção da multa promoveria o enriquecimento sem causa da parte adversa.
+Além disso, teria violado o princípio da boa-fé objetiva, ao não reconhecer que a recorrente cumpriu a obrigação imposta.
+Contrarrazões ao recurso especial às fls. 187-193.
+O recurso especial não foi admitido com base na ausência de demonstração de violação aos dispositivos legais, no óbice da Súmula 7 do STJ e na falta de cotejo analítico para comprovar dissenso jurisprudencial (fls. 194-197).
+Nas razões do seu agravo, a parte agravante impugna os fundamentos da decisão de admissibilidade, alegando que a multa é desproporcional e que houve cumprimento da obrigação.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de ação de obrigação de fazer c/c tutela antecipada, na qual a autora, ora agravada, relata que, após o diagnóstico de câncer, deu início aos tratamentos fazendo uso de medicamentos que eram fornecidos pela ré, ora agravante.
+Foi deferida a medida de urgência para o fornecimento de medicamentos.
+A sentença julgou procedentes os pedidos formulados na inicial, tornando definitiva a antecipação de tutela deferida e condenando a ora agravante a pagar à agravada o valor de R$ 10.000,00 (dez mil reais) a título de indenização por dano moral, além de custas, despesas processuais e honorários advocatícios.
+O Tribunal de origem negou provimento ao recurso de apelação interposto por ambas as partes, mantendo a sentença.
+Iniciado o cumprimento de sentença foi certificado o não cumprimento tempestivo da medida de urgência.
+O Tribunal de origem negou provimento ao agravo de instrumento interposto contra essa decisão sob o fundamento de que: (i) após ter sido intimada para cumprir espontaneamente a obrigação, a agravante somente noticiou a liberação dos medicamentos em 12/05/2023, razão pela qual se mostra devida a incidência da multa cominatória; e (ii) a discussão sobre o valor da multa cominatória encontra-se prejudicada, tendo em vista que a matéria foi objeto de anterior agravo de instrumento. Confira-se:
+O cumprimento provisório de sentença foi instaurado com o objetivo de compelir a agravante a cumprir com a obrigação de fazer de fornecer os medicamentos prescritos nos termos da sentença de procedência. Após ter sido intimada para cumprir espontaneamente a obrigação, a agravante somente noticiou a liberação dos medicamentos em 12/05/2023 (fls. 32/34 dos autos de origem), razão pela qual se mostra devida a incidência das astreintes. Além disso, a tela juntada pela própria agravante à fl. 33 dos autos de origem (fls. 7 destes autos) não demonstra o cumprimento da obrigação judicial dentro do prazo assinalado, vez que inexiste data no referido docume nto. Evidenciado o descumprimento, de rigor a incidência das astreintes cominadas. Quanto ao valor das astreintes, o recurso encontra-se prejudicado neste ponto, tendo em vista que a matéria foi objeto do Agravo de instrumento n. 2019355-25.2024.8.26.0000  ..  (fls. 142-143).
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere ao descumprimento da obrigação judicial dentro do prazo assinalado demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Da leitura do acima exposto, nota-se que a decisão impugnada entendeu que, não era possível a discussão sobre o valor da multa diária em virtude do julgamento do tema no agravo de instrumento anteriormente interposto. Ocorre, entretanto, que a parte recorrente não impugnou tais fundamentos, o que atrai o óbice previsto na Súmula 283 do STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
