@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LAECIO FERREIRA DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n. 0012680-65.2025.8.26.0996).
+Depreende-se dos autos que a Ministério Público interpôs agravo em execução contra decisão na qual o Juízo de primeira instância deferiu o pedido de remição da pena, formulado pelo ora paciente com base em sua alegada aprovação parcial no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - ensino médio de 2023.
+O Tribunal de origem, por maioria, deu provimento ao recurso, nos termos de acórdão assim ementado (e-STJ fl. 11):
+AGRAVO DE EXECUÇÃO interposto pela Justiça Pública diante de decisão que deferiu a remição "parcial" de pena por estudo atrelado à realização do ENCCEJA. Aprovação no exame de certificação do ensino médio sequer comprovada, sem ter o agravado obtido nota mínima em pelo menos uma das áreas de conhecimento. Recomendação nº. 391/2021 do Conselho Nacional de Justiça sugerindo abatimento de pena em prol de reeducando autodidata que não vincula a atividade jurisdicional. Hipótese não verificada. Agravado que obteve aprovação parcial no exame. Agravo provido.
+Na presente impetração, a defesa afirma que "o tema encontra-se pacificado tanto pela QUINTA TURMA quanto pela SEXTA TURMA desta Corte Superior no sentido de considerar como bases de cálculo para a remição pela aprovação no ENCCEJA os totais de 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio, o que corresponde a 50% (cinquenta por cento) da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e Recomendação n. 44/2013 do Conselho Nacional de Justiça" (e-STJ fl. 4).
+Ao final, requer o restabelecimento da "decisão do juízo das execuções que concedeu a remição parcial ao sentenciado participante do ENCCEJA" (e-STJ fl. 6).
+É o relatório.
+Decido.
+Não obstante as razões declinadas, o impetrante, apesar de ter instruído os autos, entre outros documentos, com o acórdão no qual a Corte estadual deu provimento ao agravo em execução ministerial, não apresentou a decisão do Juízo de primeira instância que teria deferido a remição de 80 dias da pena do ora paciente com lastro em resultado de Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), o que impede o exame da tese suscitada, por ser peça imprescindível para tanto.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC n. 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC n. 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015.)
+Dessa forma, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
