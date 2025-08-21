@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual WAELHOLZ BRASMETAL LAMINAÇÃO LTDA. se insurgira contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO de fls. 1.078/1.089 assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO FISCAL. APELAÇÃO. EMBARGOS DECLARATÓRIOS. RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO POSITIVO. COMPENSAÇÃO. CRÉDITO TRIBUTÁRIO. CRITÉRIOS CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. RESP 1.112.524/DF (TEMA 235). RECURSO PARCIALMENTE PROVIDO.
+1. O Superior Tribunal de Justiça concluiu no julgado paradigma que, nas ações que versam sobre compensação/repetição de indébito tributário, os índices oficiais e os expurgos inflacionários aplicáveis são os fixados no Manual de Cálculos da Justiça Federal, conforme "tabela única" aprovada pela 1ª Seção do STJ, a saber: (i) ORTN, de 1964 a janeiro de 1986; (ii) expurgo inflacionário em substituição à ORTN do mês de fevereiro de 1986; (iii) OTN, de março de 1986 a dezembro de 1988, substituído por expurgo inflacionário no mês de junho de 1987; (iv) IPC/IBGE em janeiro de 1989 (expurgo inflacionário em substituição à OTN do mês); (v) IPC/IBGE em fevereiro de 1989 (expurgo inflacionário em substituição à BTN do mês); (vi) BTN, de março de 1989 a fevereiro de 1990; (vii) IPC/IBGE, de março de 1990 a fevereiro de 1991 (expurgo inflacionário em substituição ao BTN, de março de 1990 a janeiro de 1991, e ao INPC, de fevereiro de 1991); (viii) INPC, de março de 1991 a novembro de 1991; (ix) IPCA série especial, em dezembro de 1991; (x) UFIR, de janeiro de 1992 a dezembro de 1995; e (xi) SELIC (índice não acumulável com qualquer outro a título de correção monetária ou de juros moratórios), a partir de janeiro de 1996.
+2. A matéria concernente aos índices e critérios de correção monetária aplicáveis na apuração do crédito tributário é de direito e de ordem pública, o que possibilita sua apreciação independentemente do requerimento das partes e, respeitada a coisa julgada, deve seguir os parâmetros fixados no provimento jurisdicional obtido pela recorrente.
+3. Embargos de declaração parcialmente acolhidos para, em juízo de retratação, reformar em parte o acórdão e, por consequência, dar parcial provimento ao recurso de apelação.
+Os embargos de declaração foram rejeitados (fls. 1.116/1.123)
+A parte agravante requer o provimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa não apresentou contraminuta.
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem inadmitiu o recurso especial com os seguintes fundamentos:
+a) quanto à violação aos arts. 1.022, II, e 489, § 1º, IV, do CPC -ausência de omissão no julgado;
+b) quanto à violação dos arts. 337, § 4º, e 485, V, 370 e 374 do CPC - prejudicialidade do recurso, por perda do objeto;
+c) quanto à violação dos arts. 89 da Lei 8.212/1991, 66 da Lei 8.383/1991 e 39 da Lei 9.250/1995 (julgamento ultra petita) - Súmula 211 do STJ (tese não prequestionada); e
+d) quanto aos arts. 783 e 803 do CPC e 151, III e IV, do CTN (nulidade da CDA) - Súmula 7/STJ.
+Nas razões do agravo em recurso especial, a parte recorrente alegou que o juízo de admissibilidade adentrou o mérito, usurpando a competência do STJ, reitera as questões de mérito do recurso especial e reafirma:
+(i) a tese de omissão e obscuridade no julgado acerca de diversas questões;
+(ii) inaplicabilidade da Súmula 7/STJ; e
+(iii) Inaplicabilidade da Súmula 284/STF.
+Constata-se que a parte agravante não impugnou a prejudicialidade do recurso, por perda do objeto, e a incidência da Súmula 211/STJ, adotando, inclusive, razões recursais dissociadas da decisão agravada.
+O objetivo do agravo em recurso especial é desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso, até porque, no mais das vezes, houve repetição literal do recurso especial.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Confiram-se os seguintes julgados deste Tribunal sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
