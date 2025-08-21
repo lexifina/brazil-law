@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de A. M. L. e M. Y. S. G., em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (HC n. 5105245-31.2025.8.21.7000/RS).
+Na peça, a Defesa informa que os pacientes tiveram sua prisão preventiva decretada em 20 de janeiro de 2025, por suposta prática dos delitos de extorsão e ameaça.
+Alega-se que a prisão preventiva foi mantida com base em provas ilícitas, consistentes em conversas de WhatsApp e fotos de tela de celular, obtidas sem observância da cadeia de custódia, violando o artigo 5º, inciso LVI, da Constituição Federal. A Defesa sustenta que a ausência de perícia técnica ou de outro meio idôneo que comprove a integridade e autenticidade das provas contamina a prova de nulidade absoluta.
+Afirma-se que, uma vez reconhecida a ilicitude das provas, impõe-se o desentranhamento dos autos, conforme o artigo 157 do Código de Processo Penal, e a aplicação da Teoria dos Frutos da Árvore Envenenada. A defesa também sustenta que, sem as provas ilícitas, não há elementos mínimos que justifiquem o prosseguimento da ação penal, configurando a ausência de justa causa.
+No mérito, a defesa requer a declaração de nulidade das provas obtidas por prints de WhatsApp e fotos de tela de celular, o desentranhamento das provas nulas, o trancamento das ações penais nº 50005891820258210147 e 50005060220258210147 por ausência de justa causa, e a revogação definitiva da prisão preventiva dos pacientes, com expedição de alvará de soltura.
+A defesa ainda pleiteia, liminarmente, a imediata revogação da prisão preventiva dos pacientes, com a consequente expedição do competente alvará de soltura.
+É o relatório.
+De início, ressalto que, na via do habeas corpus, faz-se necessário que a prova se constitua previamente, devendo a impetração vir instruída de toda a documentação necessária para a análise do pleito.
+No caso em tela, todavia, constato que a parte impetrante não juntou aos autos cópia integral do acórdão originário impugnado, peça que se revela essencial para a devida compreensão da controvérsia, não servindo apenas o acórdão que julgou os Embargos Declaratórios. Dessa forma, a pretensão ora formulada não pode ser conhecida, porque a Defesa não se desincumbiu do seu ônus de instruir devidamente o feito.
+Nesse sentido: RCD no HC n. 860.640/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023 16/10/2023 , DJe de 29/11/2023 ; AgRg no HC n. 837.638/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em , DJe de 28/8/2023 19/10/2023 ; e AgRg no HC n. 827.576/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em , DJe de 30/8/2023 .
+Pelo exposto, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO liminarmente o habeas corpus.
+Publique-se e intimem-se.
+ EMENTA
