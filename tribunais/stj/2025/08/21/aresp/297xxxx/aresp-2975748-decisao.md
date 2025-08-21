@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KIRTON BANK S. A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração de violação dos arts. 2º, 6º, VIII, do CDC, 373, II, do CPC, 188, 389, 406, 422, 945 do CC e 5º da Lei n. 14.905/2024, na incidência da Súmula n. 7 do STJ e por não ter sido demonstrada a similitude fática entre o acórdão recorrido e o acórdão paradigma (fls. 957-958).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que deve ser negado seguimento ao agravo em recurso especial interposto pelo recorrente, em face do verbete sumular do STJ, e quanto ao mérito, deve ser considerada a inexistência de violação de qualquer lei federal e inexistência de dissídio jurisprudencial, devendo a decisão agravada ser mantida em sua integralidade, com a negativa do provimento recursal buscado (fls. 982-988).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação ordinária.
+O julgado foi assim ementado (fl. 681):
+DIREITO DO CONSUMIDOR - CONTRATOS DE CONSUMO BANCÁRIOS Ação de indenização por danos materiais e morais Sentença de parcial procedência Transferência de valores pela instituição bancária à beneficiário diverso do indicado pela autora Laudo pericial, corroborado pelas provas coligidas aos autos, que indica falha do banco réu na operação de conclusão e liquidação de transferência de moeda estrangeira, posto que não seguiu o procedimento emanado do BACEN - Dano material caracterizado Indenização devida Sentença mantida Recurso desprovido, e majorados os honorários advocatícios (CPC, art. 85, §11).
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 6º, VIII, do CDC, pois o acórdão recorrido aplicou indevidamente a inversão do ônus da prova em uma relação que não é de consumo, que teria sido reconhecido pelo próprio Tribunal, aduzindo que a recorrida não é destinatária final e econômica dos referidos serviços;
+b) 373, II, do CPC, porque o acórdão recorrido desconsiderou que as normas do Bacen não estavam vigentes à época dos fatos. Esclarece que as operações foram realizadas no mês de abril de 2008 e a fundamentação do acórdão, que encampou o laudo pericial, concluiu pela suposta falha na prestação de serviço considerando aplicação de resoluções do BACEN que sequer estavam vigentes à época;
+c) 188 do CC, visto que o recorrente agiu no exercício regular do direito ao efetuar o pagamento conforme dados informados pela recorrida, o que torna clara a culpa exclusiva da recorrida pelo dano que sofreu;
+d) 422 do CC, porquanto a recorrida induziu o recorrente a erro, evidenciando ausência de boa-fé objetiva. Registra que a liquidação em favor de terceiro só ocorreu em razão do equivocado preenchimento da ordem de pagamento pela recorrida, não se configurando qualquer falha operacional;
+e) 945 do CC, pois a recorrida concorreu para o evento danoso ao fornecer dados incorretos, devendo ser reconhecida a culpa concorrente;
+f) 389, 406 do CC e 5º da Lei n. 14.905/2024, pois determinou a aplicação da tabela prática do TJSP em conjunto com os juros legais. Considerando que os juros legais correspondem à taxa Selic, que já possui a previsão do IPCA, se está diante de claro bis in idem.
+Sustenta que o Tribunal de origem divergiu dos acórdãos paradigmas do TJSC e do TJRJ, que reconhecem a culpa exclusiva da vítima em situações semelhantes (Apelação 0010244-55.2014.8.24.0033, TJSC; Apelação 0814932-59.2022.8.19.0203, TJRJ), ao decidir que a responsabilidade pela falha na prestação do serviço bancário é exclusiva do recorrente.
+Aponta, ainda, a existência de divergência jurisprudencial sobre a aplicação da taxa Selic.
+Requer o provimento do recurso para que se reconheça a culpa exclusiva da vítima, afastando a responsabilidade do recorrente, ou, subsidiariamente, para que se reduza a condenação pela metade, por culpa concorrente da vítima.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não atende aos requisitos de admissibilidade, visto que não há ofensa à lei federal, bem como ausente divergência jurisprudencial, e que o objetivo do recurso é pura reanálise de fatos e provas, o que é vedado pela Súmula n. 7 do STJ (fls. 938-956).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de indenização por danos materiais e morais em que a parte autora pleiteou a condenação do réu ao pagamento de danos materiais no valor de R$ 316.765,26, além de um montante a ser arbitrado pelo Juízo a título de danos morais.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando o réu a pagar à autora a importância de R$ 212.084,50, com correção monetária pela Tabela Prática do TJSP e juros legais de mora desde 18 de abril de 2008, e fixou os honorários advocatícios em 10% do valor da condenação para a parte autora e do proveito econômico obtido para o réu.
+A Corte estadual manteve a sentença por seus fundamentos, majorando os honorários advocatícios para 15%.
+I - Art. 6º, VIII, do CDC
+No recurso especial, o recorrente afirma que o acórdão recorrido aplicou indevidamente a inversão do ônus da prova do art. 6º, VIII, do CDC em uma relação que não é de consumo, apesar de o próprio Tribunal reconhecer que a relação entre as partes não é de consumo e que a recorrida não é destinatária final e econômica dos referidos serviços.
+Observa-se que o artigo acima mencionado não foi objeto de análise, sob o viés específico pretendido pelo recorrente (contradição entre o reconhecimento da inexistência de relação de consumo entre as partes e a aplicação da inversão do ônus da prova do art. 6º, VIII, do CDC).
+Tampouco foram opostos embargos de declaração com o objetivo de sanar eventual contradição no acórdão recorrido.
+Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incidem, no ponto, as Súmulas n. 282 e 356 do STF, por analogia.
+II -Art. 373, II, do CPC
+No recurso especial, o recorrente afirma que o acórdão recorrido desconsiderou que as normas do Bacen não estavam vigentes à época dos fatos.
+Observa-se que o artigo acima mencionado não foi objeto de análise, sob o viés específico pretendido pelo recorrente (que as normas do BACEN que serviram para fundamentar o laudo pericial não estavam vigentes à época dos fatos).
+Tampouco foram opostos embargos de declaração com o objetivo de provocar o colegiado a manifestar-se a respeito do tema.
+Caso, pois, de aplicação da Súmula n. 282 do STF.
+III - Arts . 188 do CC, 422 e 945 do CC
+No recurso especial, a recorrente alega que agiu no exercício regular do direito ao efetuar o pagamento conforme dados informados pela recorrida, o que torna clara a culpa exclusiva da recorrida pelo dano que sofreu.
+Ademais, aponta que a recorrida induziu o recorrente a erro, evidenciando ausência de boa-fé objetiva e concorreu para o evento danoso ao fornecer dados incorretos, devendo ser reconhecida a culpa concorrente.
+O Tribunal de origem, analisando o acervo probatório dos autos, concluiu que houve falha operacional por parte do banco réu, que sem anterior notificação, destinou os valores à empresa "Barak Sena Sabatine Serviços Financeiros Ltda.", quando as faturas e ordens de pagamento indicavam a empresa "UPM RAFLATAC", como beneficiária dos pagamentos.
+A propósito, confira-se o seguinte trecho do acórdão recorrido (fls. 689):
+E, correta a fundamentação da expert quanto ao descumprimento do item 14 do RMC do BACEN, uma vez que cabia à instituição financeira seguir o procedimento específico previsto pelo BACEN para transações como a do caso, notificando o beneficiário da ordem de pagamento enviada do exterior para realizar o recebimento, conforme previsto no item 14 do RMCCI do BACEN e caput do artigo 12 da Circular Bacen 3.691/13, com teor que segue: "A instituição autorizada a operar no mercado de câmbio deve comunicar imediatamente ao beneficiário o recebimento de ordem de pagamento em moeda estrangeira oriunda do exterior a seu favor, informando-o de que pode ser negociada de forma integral ou parcelada".
+Configurada, dessa forma, falha operacional por parte do banco réu que sem anterior notificação, destinou os valores à empresa "Barak Sena Sabatine Serviços Financeiros Ltda.", quando as faturas e ordens de pagamento indicavam a empresa "UPM RAFLATAC", como beneficiária dos pagamentos.
+Tivesse sido cumprido com exatidão o regramento administrativo retro a operação, nada obstante a incorreção de dados, não teria sido concluída e liquidada em favor de terceiro que não constava como destinatário ou beneficiário da moeda estrangeira.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na falha operacional na validação de dados básicos pela equipe de back-office do banco réu, responsável pela conferência dos documentos que amparam a operação cambial.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+IV - Arts. 389 e 406, CC e 5º, Lei n. 14905/2024
+A questão infraconstitucional relativa à violação dos artigos acima não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+V- Divergência Jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+No acórdão proferido pela Corte de origem, entendeu-se que a instituição financeira agiu em desacordo com as normas do BACEN sobre transferência internacional, o que atrai a responsabilidade exclusiva pelos danos causados. No recurso especial, entretanto, a parte agravante, a título de divergência pretoriana, colaciona julgado que cuida de concluir pela responsabilidade exclusiva da vítima quando o evento danoso decorreu da violação do dever de cuidado do consumidor ao realizar transferências bancárias.
+Nesse contexto, não há semelhança entre as bases fáticas dos acórdãos confrontados, razão pela qual não são aptos para demonstrar o dissídio jurisprudencial.
+Quanto ao dissídio acerca da aplicação da SELIC, constata-se que a incidência da Súmula n. 282 do STF prejudica a análise do dissídio jurisprudencial pretendido.
+VI - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 5% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
