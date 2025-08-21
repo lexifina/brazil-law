@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ALESSANDRA FERREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento da apelação criminal n. 0000413-51.2019.8.24.0083, assim ementado (fls. 217-218):
+"APELAÇÃO CRIMINAL. RÉ SOLTA. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (LEI 11.343/2006, ART. 33, CAPUT). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO MÉRITO. CRIME DE TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO ANTE A FALTA DE PROVAS. DESPROVIMENTO. AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO QUE RESULTOU NA APREENSÃO DE 738G DE MACONHA E 58G DE COCAÍNA DESTINADOS À VENDA, OS QUAIS A APELANTE GUARDAVA SEM AUTORIZAÇÃO E EM DESACORDO COM A DETERMINAÇÃO LEGAL E REGULAMENTAR. LOCALIZAÇÃO SIMULTÂNEA DE SIGNIFICATIVA QUANTIA EM ESPÉCIE E APETRECHOS PARA INDIVIDUALIZAÇÃO DAS DROGAS EM PEQUENAS PORÇÕES. DIÁLOGOS EXTRAÍDOS DO APARELHO CELULAR, RELATÓRIO POLICIAL E PROVA ORAL COLHIDA EM AMBAS AS FASES DA PERSECUÇÃO PENAL. VERSÃO DEFENSIVA ANÊMICA (CPP, ART. 156). CONDENAÇÃO MANTIDA. DOSIMETRIA. PRIMEIRA FASE. PEDIDO DE DECOTE DA VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME E ANTECEDENTES. PARCIAL PROVIMENTO. ARMAZENAMENTO E VENDA DE DROGAS NA MESMA RESIDÊNCIA QUE MORAM AS 3 (TRÊS) FILHAS MENORES DE IDADE, O QUE COMPROMETE O DESENVOLVIMENTO SADIO DAS INFANTES. ADEMAIS, QUANTIDADE DE DROGAS QUE AUTORIZA A EXASPERAÇÃO DA PENA-BASE. EXEGESE DO ART. 42 DA LEI 11.343/2006. CIRCUNSTÂNCIAS DO CRIME QUE FORAM DEVIDAMENTE FUNDAMENTADAS. PLEITO DE AFASTAMENTO DOS ANTECEDENTES QUE COMPORTA ACOLHIMENTO. CONDENAÇÃO DEFINITIVA POR FATO POSTERIOR QUE É INAPTA PARA TANTO. CÁLCULO REAJUSTADO. TERCEIRA FASE. PRETENDIDA APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, §4º, DA LEI N. 11.343/06. NÃO CABIMENTO. APELANTE QUE, EMBORA PRIMÁRIA E SEM ANTECEDENTES, DEDICAVA-SE À PRÁTICA DO COMÉRCIO ESPÚRIO. LOCALIZAÇÃO DE VULTOSA QUANTIA EM ESPÉCIE E EXPRESSIVA QUANTIDADE DE DROGAS DE DIVERSAS NATUREZAS. SUPERVENIÊNCIA DE CONDENAÇÃO PELA PRÁTICA DE CRIME IDÊNTICO QUE DEMONSTRAM A DEDICAÇÃO CONTÍNUA À ATIVIDADE CRIMINOSA. REQUISITOS CUMULATIVOS NÃO PREENCHIDOS. BENESSE AFASTADA. PLEITO DE ABRANDAMENTO DO REGIME INICIAL PARA O ABERTO. INVIABILIDADE. PENA SUPERIOR A 4 (QUATRO) ANOS DE RECLUSÃO E PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAS NEGATIVAS. REGIME SEMIABERTO QUE SE MOSTROU ADEQUADO (CP, ART. 33, §2º, "B" E §3º). PEDIDO ALTERNATIVO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. DESPROVIMENTO. REQUISITOS DO ART. 44 DO CÓDIGO PENAL NÃO PREENCHIDOS. PRETENSA RESTITUIÇÃO DO APARELHO CELULAR E QUANTIA EM ESPÉCIE. DEVOLUÇÃO DO CELULAR JÁ DETERMINADA NA SENTENÇA RECORRIDA. AUSÊNCIA DE INTERESSE RECURSAL. ADEMAIS, AUSÊNCIA DE PROVAS DA PROCEDÊNCIA LÍCITA DO MONTANTE E PRÁTICA SIMULTÂNEA DO COMÉRCIO ESPÚRIO QUE EVIDENCIAM A SUA ORIGEM ILÍCITA. PERDIMENTO QUE SE MOSTROU ACERTADO. INTELIGÊNCIA DO ART. 243, PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO FEDERAL, ART. 91, II, "B", DO CÓDIGO PENAL E ART. 63 DA LEI 1.343/2006. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO."
+Consta dos autos que, no dia 18 de maio de 2019, a paciente foi presa em flagrante por tráfico de drogas, após cumprimento de mandado de busca e apreensão em sua residência, onde foram encontrados 738g de maconha e 58g de cocaína, além de apetrechos para o tráfico e uma quantia em dinheiro. A denúncia foi oferecida pelo Ministério Público do Estado de Santa Catarina, imputando-lhe a prática dos crimes previstos nos artigos 33 e 35 da Lei n. 11.343/06 e no artigo 12 da Lei n. 10.826/03. O juízo de primeiro grau absolveu a paciente dos crimes previstos no artigo 12 da Lei n. 10.826/03 e no artigo 35 da Lei n. 11.343/06, condenando-a apenas pelo crime de tráfico de drogas, com pena de 6 anos e 8 meses de reclusão em regime semiaberto (fls. 93-110).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, deu parcial provimento ao apelo defensivo para reduzir a pena para ao julgar a apelação, manteve a condenação, ajustando a pena para 6 anos e 3 meses de reclusão, conforme acórdão de fls. 93-110.
+No presente writ, o impetrante sustenta que houve quebra da cadeia de custódia da prova, alegando que os prints de conversas telefônicas utilizados como prova não foram devidamente autenticados, o que comprometeria a integridade das provas.
+Afirma, também, a falta de provas de autoria delitiva, destacando que a paciente colaborou na apreensão das drogas e não era investigada à época, sendo seu então marido o alvo da investigação.
+Por fim, alega violação ao artigo 41 da Lei nº 11.343/06, pleiteando a aplicação do redutor de penas por colaboração premiada (fls. 3-32).
+Requer, assim, a concessão da ordem para que seja reconhecida a quebra da cadeia de custó dia, bem como a nulidade das provas por insuficiência probatória, com consequente absolvição da paciente, ou, alternativamente, a aplicação do máximo redutor de penas por colaboração premiada.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, nos termos da seguinte ementa (fls. 216-221):
+"PENAL. PROCESSO PENAL. NARCOTRÁFICO. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. SUPOSTA NULIDADE DE PROVA POR "QUEBRA DA CADEIA DE CUSTÓDIA". INEXISTÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO (PAS DE NULLITÉ SANS GRIEF). SUPOSTA FRAGILIDADE PROBATÓRIA DE AUTORIA DELITIVA. INVIABILIDADE DE (RE)EXAME FÁTICO PROBATÓRIO NA VIA OPTATA E POR CORTE SUPERIOR INCOMPETENTE SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. PLEITO POR APLICAÇÃO DO REDUTOR DO ARTIGO 41 DA LEI Nº 11.343/06. PARECER POR NÃO CONHECIMENTO E/OU DENEGAÇÃO DO WRIT SUBSTITUTIVO DIRETO EM RESPEITO À JURISDIÇÃO E SEUS LIMITES E À JUSTIÇA."
+É o relatório.
+Decido.
+De início, convém registrar que esta Corte, por meio da sua Terceira Seção, e ambas as Turmas do Supremo Tribunal Federal "pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado" (HC 725534 / SP, Relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 27/04/2022, DJe 01/06/2022)
+Nesse sentido:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+De outro lado, analisando-se os autos, não se verifica, de plano, flagrante ilegalidade a ensejar a concessão da ordem de ofício, na forma do art. 647-A do Código de Processo Penal.
+Dessarte, passo ao exame das razões expostas no mandamus.
+Inicialmente cumpre ressaltar que o habeas corpus não se destina para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+A propósito do tema, trago à colação os seguintes julgados desta Quinta Turma:
+" ..
+7. A análise de pedidos de absolvição ou desclassificação de condutas requer reexame aprofundado de fatos e provas, o que é vedado no rito do habeas corpus.
+ ..
+9. Agravo regimental não provido." (AgRg no HC n. 926.893/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, grifei.)
+" ..
+2. Desconstituir as conclusões da instância ordinária a fim de se concluir pela insuficiência de provas para a condenação, demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus, marcado por cognição sumária e rito célere.
+ ..
+5. Agravo regimental conhecido e desprovido." (AgRg no HC n. 939.517/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, grifei.)
+Quanto ao argumento sobre a quebra da cadeia de custódia, devido à inobservância dos procedimentos legais com a utilização de "prints" de conversas telefônicas extraídas do aparelho da paciente, a Corte de origem se manifestou nos seguintes termos (99-100, grifei):
+" ..
+Outrossim, os diálogos extraídos do aparelho celular da apelante evidenciam que Alessandra entrou em contato com Douglas no dia 18 de maio de 2019 e informou acerca da prisão de Josias (anexos 157 a 162 do evento 64): 0000413-51.2019.8.24.0083 6245829 . V61 ESTADO DE SANTA CATARINATRIBUNAL DE JUSTIÇA (e-STJ Fl.99)STJ-Petição Eletrônica recebida em 28/06/2025 00:01:06 Petição Eletrônica protocolada em 28/06/2025 00:03:23
+ ..
+Ademais, 3 (três) dias antes da prisão de Josias, em 15 de maio de 2019, as mensagens extraídas do telefone celular da apelante indicam que ela solicitou que Douglas levasse determinado entorpecente para ela no centro da cidade, ficando evidente o papel ativo da apelante na traficância:
+ .. "
+No presente caso, embora a defesa sustente a quebra da cadeia de custódia das provas, não apresenta elementos concretos que possam questionar a validade das provas, restringindo-se a fazer argumentação abstrata em favor do reconhecimento do suposto vício.
+No mesmo sentido, destaco:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. FUNDAMENTAÇÃO PER RELATIONEM. VALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. QUEBRA DA CADEIA DE CUSTÓDIA. MATÉRIA FÁTICO-PROBATÓRIA. INCOMPATIBILIDADE COM A VIA ELEITA. DOSIMETRIA. REDUÇÃO DA PENA-BASE JÁ EFETIVADA PELA CORTE A QUO. AGRAVO NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como sucedâneo de recurso próprio, conforme estabelecido pela jurisprudência consolidada desta Corte, salvo em hipóteses excepcionais de flagrante ilegalidade.
+2. O acórdão recorrido não padece de nulidade por ausência de fundamentação, uma vez que utilizou a técnica da fundamentação per relationem, a qual é admitida pela jurisprudência desta Corte, desde que os argumentos adotados estejam expressamente referidos e adequadamente corroborados com razões próprias.
+3. Não há comprovação de violação ao contraditório e à ampla defesa, pois as testemunhas foram novamente ouvidas em juízo com a presença da defesa técnica do agravante, inexistindo prejuízo que justifique a declaração de nulidade.
+4. A alegação de quebra da cadeia de custódia não se sustenta, pois os elementos probatórios foram regularmente disponibilizados às partes, constando nos autos apenas os trechos relevantes à persecução penal, sem demonstração de adulteração ou omissão dolosa.
+5. O exame aprofundado da matéria para comprovar as alegadas adulterações no material coletado se mostra incompatível com a presente via célere, que não permite incursão no conjunto probatório.
+6. O pleito de redução da pena-base já foi analisado e acolhido parcialmente pelo Tribunal de origem, que redimensionou a pena do agravante de forma proporcional diante, tão somente, da culpabilidade exacerbada pela longa duração da associação para o tráfico.
+7. Em sintonia com a fundamentação exarada no acórdão, não há óbice à valoração negativa da longa duração do vínculo associativo.
+8. Agravo regimental não provido.
+(AgRg no HC n. 897.977/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREVISÃO LEGAL. DECISÃO MONOCRÁTICA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ALEGADA QUEBRA DA CADEIA DE CUSTÓDIA E CONTRARIEDADE ENTRE A DECISÃO DO JÚRI E AS PROVAS DOS AUTOS. SÚMULA 7/STJ. DOSIMETRIA. LEGALIDADE. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+2. O agravante alega violação do devido processo legal por não ter sido oportunizada sustentação oral, ofensa ao princípio da colegialidade, além de reiterar argumentos sobre nulidade de provas, desrespeito ao contraditório e ampla defesa, quebra da cadeia de custódia da prova e contrariedade entre a decisão do Conselho de Sentença e a prova dos autos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão monocrática do relator, sem análise do colegiado, viola o direito do agravante a uma decisão colegiada, especialmente diante da complexidade e relevância das questões suscitadas.
+4. A questão em discussão também envolve a análise da alegada nulidade na obtenção de provas, desrespeito ao contraditório e à ampla defesa, e quebra da cadeia de custódia das provas utilizadas na condenação do agravante.
+III. Razões de decidir
+5. A decisão monocrática do relator não viola o princípio da colegialidade, pois está autorizada pelo art. 34 do Regimento Interno do STJ e pela jurisprudência consolidada do STJ, conforme enunciado n. 568/STJ.
+6. A sustentação oral não é prevista para o julgamento de agravo em recurso especial, conforme art. 7º, § 2º-B, III, da Lei 8.906/1994 e art. 937 do CPC.
+7. Não houve ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes, rejeitando preliminares de nulidade e a tese de decisão contrária às provas dos autos.
+8. Há informação de que o acusado autorizou o acesso ao celular, mediante termo assinado, de modo que qualquer revisão desse entendimento esbarra no óbice da Súmula 7 do STJ.
+9. O Tribunal de origem afastou a alegação de quebra da cadeia de custódia, destacando que as provas foram devidamente apreendidas e armazenadas, sem indícios de manipulação fraudulenta. Também pontuou que a decisão do júri não foi manifestamente contrária à prova dos autos, pois estava amparada em depoimentos, perícias e imagens de câmeras de segurança.
+10. A modificação das conclusões da Corte de origem, nos termos em que pleiteada, encontra óbice na Súmula 7/STJ.
+11. O Superior Tribunal de Justiça compreende que a premeditação do delito autoriza a elevação da pena-base, na primeira etapa da dosimetria da reprimenda, por demonstrar maior reprovabilidade na conduta do agente.
+IV. Dispositivo e tese
+12. Agravo regimental improvido. (AgRg no AREsp n. 2.662.327/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/3/2025, DJEN de 18/3/2025.)
+Além disso, "a anulação de ato processual depende da demonstração de efetivo prejuízo, nos termos do artigo 563 do Estatuto Processual Repressivo, não logrando êxito a defesa na respectiva comprovação, apenas suscitando genericamente teses sem o devido suporte na concretude dos fatos, deve ser aplicado o princípio pas de nullité sans grief". (REsp n. 1.660.508/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/10/2017, DJe de 24/11/2017).
+No mesmo sentido:
+"DIREI TO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. QUEBRA DE CADEIA DE CUSTÓDIA. ABSOLVIÇÃO. DOSIMETRIA. REGIME. AGRAVO IMPROVIDO.
+ ..
+III. Razões de decidir
+ ..
+6. O entendimento desta Corte é pacífico no sentido de que a idoneidade da prova é presumida, cabendo à parte que alega a irregularidade demonstrar prejuízo concreto (pas de nullité sans grief), portanto, a constatação do efetivo prejuízo não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de habeas corpus.
+ ..
+IV. Dispositivo e tese
+10. Agravo regimental improvido." (AgRg no HC n. 978.105/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. OPERAÇÃO VEREDAS. INTERCEPTAÇÃO TELEFÔNICA. NULIDADE PROCESSUAL. INOVAÇÃO PROBATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 7/STJ, 282/STF, 283/STF, 284/STF E 356/STF. AGRAVO REGIMENTAL IMPROVIDO. I. CASO EM EXAME
+ ..
+4. A alegação de manipulação nas degravações e má-fé de agentes públicos não se sustenta, pois os atos gozam de presunção de legalidade e a defesa não comprovou prejuízo concreto, atraindo a incidência do art. 563 do CPP (princípio do pas de nullité sans grief).
+ ..
+11. Agravo regimental improvido." (AgRg no REsp n. 2.160.076/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2025, DJEN de 2/7/2025.)
+Por fim, a matéria relativa ao pleito de deferimento do redutor de penas do artigo 41 da Lei nº 11.343/06, não foi examinado pelo Tribunal de origem, razão pela qual "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020, grifei).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
