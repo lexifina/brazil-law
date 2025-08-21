@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de ROMERIO NASCIMENTO DOS SANTOS - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0000854-66.2018.8.06.0051) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação e da dosimetria da pena impostas ao paciente pelo Juízo de Direito da 2ª Vara Criminal da comarca de Boa Viagem/CE, aos argumentos de que o paciente subsume-se à figura de usuário eventual de substâncias entorpecentes, circunstância que deve ser reconhecida em detrimento da imputação de tráfico de drogas, em consonância com o entendimento do STF no Tema 506 de Repercussão Geral (fls. 8/9), além de que o conjunto fático demonstra de forma inequívoca a primariedade do Paciente, a quantidade ínfima de substância entorpecente apreendida e a inexistência de qualquer elemento que indique dedicação a atividades criminosas ou vínculo com organização criminosa (fl. 8).
+Ocorre que se trata de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, além de que o Tribunal não debateu satisfatoriamente a pretensão de desclassificação do crime para posse de drogas destinada a consumo pessoal, e o pleito de aplicação da minorante do tráfico privilegiado é idêntico ao formulado em benefício do paciente nos Habeas Corpus n. 970.345/CE e n. 902.229/CE.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publi que-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA. DESCLASSIFICAÇÃO. SUPRESSÃO DE INSTÃNCIA. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. REITERAÇÃO DE PEDIDOS.
+Inicial indeferida liminarmente.
