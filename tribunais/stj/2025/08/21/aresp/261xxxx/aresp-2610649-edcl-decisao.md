@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face de decisão singular de minha lavra, na qual neguei provimento ao agravo em recurso especial interposto pelos embargantes por entender que, assim como considerou o Tribunal de Justiça do Estado de Minas Gerais, o recurso especial interposto pelas partes era intempestivo em razão da ausência de comprovação do feriado local.
+Nos embargos de declaração de fls. 1.1137-1.145, alegam os embargantes que, em razão da superveniência da Lei Federal n. 14.039/2024, que alterou o art. 1.003, § 6º, do Código de Processo Civil, o Tribunal deve proceder à intimação na hipótese em que o feriado local não houver sido comprovado no ato de interposição do recurso.
+Não houve apresentação de impugnação aos embargos de declaração, conforme certidão à fl. 1.149.
+Assim, delimitada a controvérsia, passo a decidir.
+De início, entendo que os embargos de declaração merecem provimento. Assim como firmou a Corte Especial deste Superior Tribunal de Justiça, em decorrência da alteração do CPC pela Lei Federal n. 14.039/2024, as partes devem ser intimadas para comprovar eventual feriado local caso não o tenham feito no ato de interposição do recurso, salvo se houver coisa julgada formal quanto à questão. Vejamos:
+PROCESSUAL CIVIL. QUESTÃO DE ORGEM NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. LEI N. 14.939/2024. ALTERAÇÃO DO § 6º DO ART. 1.003 DO CPC/2015. APLICAÇÃO A RECURSOS ANTERIORES À VIGÊNCIA DO NOVO DIPLOMA LEGISLATIVO.
+1. A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+2. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+3. Questão de ordem acolhida pela Corte Especial.
+(QO no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 5/2/2025, DJEN de 27/3/2025.)
+Verifico que, a despeito de ainda não ter sido intimada para tanto, os embargantes juntaram aos autos, às fls. 927-1.080, portaria expedida pelo TJMG que comprova a suspensão do expediente forense naquele órgão nos dias 12 e 13 de outubro de 2023.
+Considerando o mencionado feriado local, uma vez que as partes foram intimadas do acórdão proferido pelo TJMG no dia 2/10/2023, começando o prazo a correr em 3/10/2023 (conforme certidão à fl. 864), bem como que o recurso especial foi interposto no dia 25/10 (conforme certidão às fls. 891-893), entendo que o recurso especial é tempestivo.
+Em face do exposto, dou provimento aos embargos de declaração, a fim de reconsiderar a decisão por mim proferida às fls. 1.131-1.134 e, por conseguinte, dar provimento ao agravo em recurso especial para reputar tempestivo o recurso especial interposto pela parte embargante às fls. 866-886.
+Em sequência, converto o presente agravo em recurso especial para melhor análise.
+Intimem-se.
+EMENTA
