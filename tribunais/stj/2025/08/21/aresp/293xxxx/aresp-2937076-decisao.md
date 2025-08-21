@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 572):
+Apelação. Ação indenizatória. Autor que contraiu empréstimo consignado e repassou parte da quantia mutuada à primeira ré. Ausência de responsabilidade do Banco mutuante, que cumpriu sua obrigação ao creditar o valor do empréstimo. Inexistência de prova de participação do credor na fraude. Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 104, 166, IV, 187, 927, do Código Civil; e aos arts. 4º, III, 6º, III, IV, 7º, parágrafo único, 51, § 1º, III, do Código de Defesa do Consumidor.
+Afirma que o Banco Bradesco deveria ser responsabilizado objetivamente por falhas na prestação do serviço, ao permitir a atuação de uma intermediária na contratação que se aproveitou da vulnerabilidade do autor para obter vantagem indevida.
+Alega que sua assinatura foi falsificada, o que configuraria vício de consentimento e nulidade do contrato.
+Requer a nulidade do contrato de empréstimo consignado, a condenação solidária do Banco Bradesco S.A e da Gold Assistência Pessoal EIRELI, a devolução dos valores pagos e a majoração da indenização por danos morais para R$ 30.000,00, considerando insuficiente o valor fixado de R$ 5.000,00.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se na origem de ação de obrigação de fazer cumulada com pedido de repetição de indébito e de indenização proposta por Arnaldo Costa contra Gold Assistência Pessoal EIRELI e Banco Bradesco S.A., em que alega fraude na contratação de empréstimo consignado, com falsificação de assinatura e intermediação de terceiros sem sua anuência
+A sentença proferida afastou a responsabilidade do B anco Bradesco e julgou parcialmente procedentes os pedidos, para condenar exclusivamente a Gold Assistência Pessoal EIRELI a reembolsar a quantia de R$ 101.558,98 e a pagar indenização por danos morais no valor de R$ 5.000,00.
+A Corte local, ao analisar a apelação do autor, negou provimento ao recurso, reconhecendo que o Banco Bradesco cumpriu sua obrigação ao creditar o valor do empréstimo na conta do autor, não havendo indício de conluio com a primeira ré. Confira-se (fls. 608/609):
+O autor reconheceu na petição inicial que "foi procurado por um preposto da PRIMEIRA RÉ conforme se verifica na leitura do contrato em anexo quando foi convencida pelas sedutoras propostas que lhe foram apresentadas as quais consistiam em utilizar a margem consignável para obtenção de empréstimos sendo que 10% (dez por cento) do valor obtido à título de empréstimo consignado ficaria com a parte autora e 90% (noventa por cento) seria cedido a primeira ré a qual se comprometeu a efetuar pagamentos mensais a parte autora, depositados na conta corrente de sua titularidade" (fls.05).
+O autor anuiu expressamente com a contratação do empréstimo, que se concretizou com o depósito da quantia mutuada em sua conta corrente. A alegada divergência na assinatura lançada no contrato, portanto, não é suficiente para desconstituir o negócio jurídico firmado.
+O mutuante não é parte no negócio jurídico firmado entre o autor e a sociedade GOLD ASSISTÊNCIA PESSOAL EIRELI, através do qual o mutuário obrigou-se a repassar integralmente a quantia recebida.
+A casa bancária cumpriu a sua obrigação no mútuo, ao creditar o valor do empréstimo consignado diretamente à autora, não havendo sequer indício de conluio com a primeira ré.
+Correta, desse modo, a improcedência dos pedidos em relação ao Banco Bradesco S.A.
+De plano, verifico que as questões em torno do vício de consentimento na contratação, reconhecimento de prática abusiva e majoração do dano moral não foram objeto de discussão no Tribunal de origem e a parte recorrente nem sequer provocou a devida manifestação mediante a oposição de embargos de declaração, o que inviabiliza o conhecimento do recurso especial, nesse aspecto, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF.
+No tocante ao pedido para condenação solidária do banco, alterar a conclusão a que chegou o Tribunal de origem, no sentido de que não ficou configurada a responsabilidade da instituição financeira, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E PEDIDO DE DANOS MORAIS. RESPONSABILIDADE CIVIL. INSTITUIÇÕES BANCÁRIAS. DELITO PRATICADO POR TERCEIRO. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tema Repetitivo n. 466: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias." (REsp 1.197.929/PR, Rel. Ministro Luis Felipe Salomão, Segunda Seção,
+julgado em 24/08/2011, DJe de 12/09/2011).
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que não ficou caracterizada responsabilidade da instituição financeira ora agravada, assentando que a fraude fora praticada exclusivamente por culpa de terceiro. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. Agravo interno não provido
+(AgInt no AREsp n. 1.792.999/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2021, DJe de 1/7/2021)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
