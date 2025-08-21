@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THALISSON DIONISIO FERREIRA ALVES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Norte.
+Consta dos autos que o paciente foi condenado às penas de 2 anos e 6 meses de reclusão e de 1 anos de detenção, em regime aberto, mais pagamento de 260 dias-multa, como incurso nos arts. 33, caput e § 4º, da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Nos autos do AREsp n. 2.840.404/RN, conheceu-se do agravo para dar parcial provimento ao recurso especial, a fim de aplicar o redutor do tráfico privilegiado na fração de 2/3, redimensionando-se a sanção para 1 ano e 8 meses de reclusão, mais 1 ano de detenção, além do pagamento de 176 dias-multa.
+Neste habeas corpus, alega o impetrante que faz jus ao acordo de não persecução penal, por estarem preenchidos os requisitos previstos no art. 28-A do CPP.
+Requer, assim, a concessão da ordem, a fim de sobrestar o início da execução penal e enviar os autos à 13ª Vara Criminal da Comarca de Natal, para intimar o Ministério Público para apresentar proposta de acordo de não persecução penal.
+É o relatório.
+Decido.
+O writ não merece ser conhecido.
+Da análise da base de dados deste Tri bunal Superior, observa-se nos autos do AREsp n. 2.840.404/RS, que a ação penal transitou em julgado no dia 1º /7/2025, de modo que o pleito relativo ao acordo de não persecução penal não merece ser acolhido, pois formulado após o trânsito em julgado de sentença penal condenatória, a teor das teses fixadas pelo Supremo Tribunal Federal no julgamento do HC n. 185.913/DF. Confiram-se:
+"1. Compete ao membro do Ministério Público oficiante, motivadamente e no exercício do seu poder-dever, avaliar o preenchimento dos requisitos para negociação e celebração do ANPP, sem prejuízo do regular exercício dos controles jurisdicional e interno;
+2. É cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado;
+3. Nos processos penais em andamento na data da proclamação do resultado deste julgamento, nos quais, em tese, seja cabível a negociação de ANPP, se este ainda não foi oferecido ou não houve motivação para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, após a publicação da ata deste julgamento, manifestar-se motivadamente acerca do cabimento ou não do acordo;
+4. Nas investigações ou ações penais iniciadas a partir da proclamação do resultado deste julgamento, a proposição de ANPP pelo Ministério Público, ou a motivação para o seu não oferecimento, devem ser apresentadas antes do recebimento da denúncia, ressalvada a possibilidade de propositura, pelo órgão ministerial, no curso da ação penal, se for o caso".
+Por fim, o Tribunal definiu que este julgamento não afeta, em nenhuma medida, as decisões já proferidas e, ainda, que a deliberação sobre o cabimento, ou não, do ANPP deverá ocorrer na instância em que o processo se encontrar.
+(HC n. 185.913/DF, Tribunal Pleno, relator Ministro Gilmar Mendes, DJe de 18/9/2024, grifo nosso)
+No mesmo sentido, os seguintes julgados desta Corte Superior:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. SANÇÃO INFERIOR A QUATRO ANOS DE RECLUSÃO. REMESSA DOS AUTOS AO MINISTÉRIO PÚBLICO PARA OFERECIMENTO DO ACORDO DE NÃO PERSECUÇÃO PENAL. INVIABILIDADE. FORMULAÇÃO DO PEDIDO APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O ANPP é resultante da convergência de vontades (Ministério Público e acusado), não podendo afirmar que se trata de um direito subjetivo do acusado, podendo ser proposto quando o Parquet, titular da ação penal pública, entender preenchidos os requisitos fixados pela Lei n. 13.964/2019 no caso concreto, o que não ocorreu, conforme se atesta pela leitura da denúncia, às e-STJ, fls. 327/328.
+2. Ademais, revela-se descabida a aplicação retroativa do instituto mais benéfico previsto no art. 28-A do CP (acordo de não persecução penal) inserido pela Lei n. 13.964 /2019 quando a persecução penal já ocorreu, estando o feito sentenciado, inclusive com condenação confirmada por acórdão proferido pelo Tribunal de Justiça no caso em tela (AgRg no REsp n. 1.860.770/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 9/9/2020).
+3. Pela leitura dos autos, constato que a conclusão exarada pelas instâncias de origem está em harmonia com a jurisprudência desta Corte de Justiça, no sentido de que, não se mostra cabível a postulação de oferecimento de Acordo de Não Persecução Penal - ANPP, pois realizada após o trânsito em julgado da condenação (HC n. 185.913, Tribunal Pleno, relator Ministro Gilmar Mendes, DJe de 18/9/2024). Precedentes.
+4. Assim, não há que se falar em ilegalidade decorrente do não oferecimento do acordo de não persecução penal na hipótese dos autos.
+5. A pretensão formulada pelo impetrante encontra óbice na jurisprudência consolidada desta Corte Superior sendo, portanto, manifestamente improcedente.
+6. Agravo regimental não provido.
+(AgRg no HC n. 993.498/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). ART. 28-A DO CPP. MANIFESTAÇÃO CONTRÁRIA DO MINISTÉRIO PÚBLICO ANTES DO RECEBIMENTO DA DENÚNCIA E APÓS A SENTENÇA CONDENATÓRIA. IMPOSSIBILIDADE DE SE DETERMINAR NOVA MANIFESTAÇÃO. INEXISTÊNCIA DE DIREITO SUBJETIVO DO ACUSADO. FEITO JÁ TRANSITADO EM JULGADO. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado com a finalidade de obter a remessa dos autos ao Ministério Público para manifestação sobre a possibilidade de celebração de Acordo de Não Persecução Penal (ANPP), com fundamento na aplicação da minorante do tráfico privilegiado no curso da sentença condenatória. A defesa alega que essa nova realidade fático-jurídica enquadraria o recorrente nos termos do art. 28-A do Código de Processo Penal. II. QUESTÃO EM DISCUSSÃO
+2.Questão em discussão: se a aplicação da causa de diminuição de pena do tráfico privilegiado na sentença condenatória configura nova circunstância que justifique a reanálise da possibilidade de celebração do ANPP em processo cujo feito já transitou em julgado. III. RAZÕES DE DECIDIR
+3. O Ministério Público já se manifestou em duas oportunidades - antes do recebimento da denúncia e após a sentença condenatória - fundamentando a impossibilidade de celebração do ANPP, sendo a decisão discricionária do órgão acusador, que não está obrigado a oferecê-lo.
+4. A recente tese de julgamento estabelecida pelo Supremo Tribunal Federal no HC 185.913/DF (publicada em 20/9/2024) confirma que, em processos em andamento, o Ministério Público deve se manifestar sobre o cabimento do ANPP, desde que a solicitação tenha sido feita antes do trânsito em julgado.
+5. No presente caso, mesmo que o processo já tenha transitado em julgado para a acusação e defesa, houve pretéritas recusas da acusação na celebração da avença, motivo pelo qual não se pode mais, a essa altura, exigir daquele órgão novo pronunciamento.
+IV. RECURSO DESPROVIDO.
+(RHC n. 200.831/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 12/11/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
