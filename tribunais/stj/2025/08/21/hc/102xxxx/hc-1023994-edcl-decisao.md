@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de novos embargos de declaração opostos por ANDERSON AMORIM OLIVEIRA.
+Em suas razões, a defesa insiste na tese de omissão, pois os argumentos defensivos foram desconsiderados, reiterando que não há prova independente de autoria, exceto o reconhecimento realizado em desacordo com o art. 226 do Código de Processo Penal.
+Diante disso, requer o acolhimento destes embargos para suprir o vício apontado.
+É relatório. Decido.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+No caso em tela, o que realmente o embargante pretende é o novo julgamento da causa, o que não se admite, porquanto, conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração (EDcl no AgRg nos EAREsp 97.444/MG, Relator Ministro JORGE MUSSI, Terceira Seção, DJe 20/2/2015).
+A decisão embargada destacou que as ações criminosas imputadas ao embargante e ao corréu envolveram duas vítimas: um idoso e sua filha. Imagens de câmeras de monitoramento mostram o primeiro ofendido entrando no carro dos criminosos, que ofereceram carona a pretexto de fazer orações pela saúde da vítima em sua residência. Ambos os acusados foram reconhecidos pelas duas vítimas. Cumpre destacar que o álibi a do paciente não se confirmou, isolando as teses exculpatórias apresentadas. Tanto o paciente quanto o corréu afirmaram não estar no local dos fatos na data em que eles ocorreram, mas os elementos apresentados por suas defesas não comprovam as alegações.
+Assim, tendo as instâncias antecedentes, a partir da apreciação do conjunto probatório, concluído pela procedência da acusação, não é possível desconstituir tal entendimento, pois não há como reexaminar em profundidade as premissas fáticas dentro dos estreitos limites de cognição do habeas corpus. Portanto, o tema trazido pelo embargante foi adequadamente apreciado e rechaçado.
+Ademais, considerando que a superveniência de sucessivos recursos sem que a parte traga tese apta à reversão dos julgados proferidos, revela nítido caráter protelatório, no intuito de impedir a continuidade da ação penal, caracterizando abuso de direito em razão da violação dos deveres de lealdade processual e comportamento ético no processo, além do desvirtuamento do próprio postulado da ampla defesa.
+Ante o exposto, rejeito os embargos de declaração e determino a imediata baixa dos autos, certificando-se o trânsito em julgado, independentemente da publicação deste acórdão ou de eventual interposição de novo recurso.
+Publique-se .
+EMENTA
