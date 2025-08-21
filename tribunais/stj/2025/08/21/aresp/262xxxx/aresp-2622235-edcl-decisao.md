@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Antônio Carlos Thiesen - Act Engenharia contra decisum singular, de fls. 965/972, que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) não houve negativa de prestação jurisdicional; e (II) incidência da Súmula 7/STJ.
+Em suas razões, a parte embargante aduz, em resumo, que "a contadoria de primeiro grau não atuou devidamente, quando deveria ter realizado novos cálculos, conforme determinado pelo Magistrado Singular. Importante registrar que são exatamente estes cálculos que o Embargante pretende ver, para esclarecimento definitivo do cumprimento ou não da obrigação. E, isso está sendo negado ao Embargante, desde a contadoria, em primeiro grau" (fl. 980):
+Discorre que "No recurso especial, não admitido, arguiu-se violação a dispositivos de Lei Federal, mais precisamente os arts. 1.022, II, 1.022, parágrafo único, inciso II, c/c inciso IV do § 1º do art. 489, todos do CPC/15, e artigo 463, I, do CPC/73, além de o TJSC ter deixado de observar o Tema Repetitivo 291/STJ, vinculado a orientação fixada pelo egrégio Supremo Tribunal Federal quando do julgamento do RE 579.431/RS em Repercussão Geral - Tema 96/STF" (fl. 982).
+Aberta vista à parte embargada, decorreu in albis o prazo para apresentação de impugnação (fl. 991).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+No caso dos autos, as alegações referentes à necessidade de novos cálculos, atestando a higidez do laudo pericial apresentado pelo contador judicial foram efetivamente analisadas, porém, no sentido de não se conhecer do apelo nobre, em decorrência do Obstáculo sumular nº 7 do STJ. Essa conclusão tornou prejudicada a análise das razões meritórias do apelo nobre, no que diz respeito à suposta afronta à orientação firmada no Tema Repetitivo n. 291/STJ, em que fixada a tese, justamente, de que "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório".
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, ao solucionar controvérsia, o Sodalício local asseverou (fls. 794/796):
+Alegada pendência de débito.
+Irresignado, o exequente interpôs recurso de apelação, no qual alegou que houve pagamento do débito no valor de R$ 423.718,77 (quatrocentos e vinte e três mil, setecentos e dezoito reais e setenta e sete centavos), importância aquém do valor realmente devido.
+Além disso, aduziu que a Contadoria Judicial não apresentou os cálculos a fim de demonstrar o integral pagamento da dívida.
+Por isso, requereu a reforma da sentença, para que fosse confeccionado o cálculo da dívida.
+O pleito recursal não merece acolhimento.
+Compulsando-se os autos verifica-se que o cálculo elaborado pela Contadoria Judicial da Vara Única da Comarca de Itapema às fls. 39-40, no importe de R$ 342.905,86 (trezentos e quarenta e dois mil, novecentos e cinco reais e oitenta e seis centavos), nele incluído o valor dos honorários advocatícios (10%), foi homologado à fl. 42, em 18-4-2006.
+Não houve insurgência das partes acerca de referido cálculo objeto da homologação judicial, nem mesmo às fls. 55-60, em que a exequente se manifestou pela primeira vez nos autos após a homologação, em 9-4- 2008, pois apenas alegou o inadimplemento do débito no prazo previsto, requerendo que algumas providências fossem tomadas pelo Juízo.
+Ocorre que, o momento para impugnar o cálculo é na primeira oportunidade de se manifestar nos autos (art. 245 do CPC/1973), de modo que preclusa a matéria (art. 473 do CPC/1973).
+ ..
+Relevante referir, ainda, que o cálculo apresentado pelo contador judicial (fls. 39-40), no importe de R$ 342.905,86 (trezentos e quarenta e dois mil, novecentos e cinco reais e oitenta e seis centavos), foi confeccionado com os índices oficias referendados pela Corregedoria-Geral da Justiça do Tribunal de Justiça do Estado de Santa Catarina, e nos termos do acórdão transitado em julgado nos embargos à execução (cópia de fls. 132-140).
+Outrossim, após a homologação do cálculo, o débito foi devidamente atualizado, o qual chegou ao montante de R$ 423.718,77 (quatrocentos e vinte e três mil, setecentos e dezoito reais e setenta e sete centavos), valor pago à exequente.
+Aliás, como ressaltado pelo Contador Judicial à fl. 479: "o cálculo fora homologado pelo MM. Juiz à época e que, após, houve somente as atualizações da Divisão de Precatórios do E. Tribunal, não havendo possibilidade de ser realizado cálculo novo, portanto".
+Assim, também não há como acolher a necessidade de confecção de novos cálculos, porque além de já ter sido elaborado, posteriormente houve atualizações pela Divisão de Precatórios do Tribunal de Justiça.
+Não bastasse isso, não houve impugnação específica, pois a exequente não se insurgiu quanto aos índices que incidiram no cálculo, nem mesmo referiu erro material, equívocos ou vícios quanto aos critérios utilizados para elaboração do cálculo. A exequente apenas apontou que há uma diferença a receber, sem especificar, contudo, de onde ela extraiu essa pendência.
+Logo, não há como acolher a alegação de que existe saldo devedor a ser pago pelo executado à exequente, porque meras alegações de que o cálculo está incorreto, sem qualquer impugnação específica, não é suficiente para provar a incongruência da demonstração do débito realizado pelo Contador Judicial, a qual está devidamente embasada nos índices oficiais do Tribunal de Justiça.
+ ..
+Destarte, nenhum reparo merece a sentença que extinguiu o feito pela satisfação da dívida, haja vista que, diante do acima explanado, os cálculos efetuados foram realizados corretamente, inexistindo equívocos a serem corrigidos, nem diferenças pendentes.
+Portanto, o desprovimento do recurso é medida que se impõe.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, Relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
