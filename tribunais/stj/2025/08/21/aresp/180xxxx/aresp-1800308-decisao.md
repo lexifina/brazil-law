@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial interposto por Maria da Conceição de Almeida contra acórdão do Tribunal de Justiça do Estado de Goiás, que, em ação declaratória de nulidade de processo de confirmação de testamento , manteve a sentença que extinguiu o processo sem resolução de mérito, sob o fundamento de inadequação da via eleita, nos termos da seguinte ementa (fl. 429):
+APELAÇÃO CÍVEL. AÇÃO DECLARATORIA DE NULIDADE DE CONFIRMAÇÃO TESTAMENTO. NULIDADE CITAÇÃO. COISA JULGADA MATERIAL. VIA INADEQUADA. CABIMENTO AÇÃO RESCISÓRIA. MAJORAÇÃO HONORÁRIOS ADVOCATÍCIOS. 1 - Os procedimentos de jurisdição voluntária são potencialmente conflituosos e neste sentido quando se impõe a citação dos interessados e se verifica a resistência quanto à pretensão formulada, não faria sentido em concluir pela inexistência de lide. II A consequência lógica dessa constatação é que, havendo procedimento especial de jurisdição voluntária em que se verifica a existência de lide, a decisão jurisdicional encontra-se sujeita à coisa julgada material e se torna indiscutível. III - Na hipótese dos autos, a autora elegeu a via inadequada, porque para tornar nula a decisão proferida na ação testamentária, em razão da nulidade citatória, somente é cabível o manejo da ação rescisória e não da presente medida, tendo em vista que a autora, pretende desconstituir uma sentença transitada em julgado. IV - Majoração dos honorários advocatícios. Manutenção da sentença. APELO CONHECIDO, PORÉM DESPROVIDO.
+Alega a recorrente, em síntese, que o acórdão recorrido violou os artigos 1.022, 489, § 1º, IV e § 3º, 19, I e 20, todos do Código de Processo Civil.
+Argumenta que a ação de confirmação de testamento não transitou em julgado em relação à sua pessoa, pois a citação no processo foi realizada por edital quando deveria ter sido via postal, o que autorizaria o ajuizamento da querela nullitatis, e não da ação rescisória.
+Contrarrazões ao recurso especial às fls. 540-548, nas quais os agravados sustentam que a ação proposta visava, na verdade, a desconstituir sentença transitada em julgado há mais de 12 anos, o que só seria possível pela via da ação rescisória. Alegam que a citação no processo originário foi válida, realizada por edital conforme previsão do CPC/73 para herdeiros fora da comarca.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se, neste caso, de ação ajuizada por Maria da Conceição de Almeida contra o Espólio de Narcizio Ferreira da Silva e outros, visando à declaração de nulidade da citação e dos atos processuais subsequentes na ação de confirmação de testamento de Narciso Ferreira da Silva, por ter sido citada por edital quando deveria ter sido citada via postal.
+Em primeira instância, o juiz extinguiu o processo sem resolução de mérito, sob o fundamento de que a via eleita (ação declaratória/querela nullitatis) era inadequada, por entender que o meio cabível seria a ação rescisória.
+Interposta apelação, o Tribunal de Justiça do Estado de Goiás manteve a sentença, consignando que, em procedimentos de jurisdição voluntária com resistência, forma-se coisa julgada material, sendo inadequada a ação declaratória para anular a própria sentença. Concluiu que, diante do trânsito em julgado ocorrido em 2008, a única via processual cabível seria a ação rescisória.
+Deve ser provido o recurso especial.
+Tal como acentuado pela agravante, a questão discutida no recurso versa sobre a possibilidade da ação de querela nullitatis em vez da ação rescisória, esta última tida pelo acórdão recorrido como a única cabível no caso.
+De acordo com numerosos precedentes desta Corte, a querela nullitatis é adequada para discutir ausência ou defeito de citação.
+O acórdão recorrido tem como principal fundamento a falta de interesse de agir do recorrente, sendo certo que a ausência da citação não convalesce nem com a prolação de sentença, ensejando o cabimento da querela nullitatis insanabilis.
+Nesse sentido, confiram-se:
+DIREITO PROCESSUAL CIVIL. NULIDADE DA CITAÇÃO EM AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. QUERELA NULLITATIS INSANABILIS. CABIMENTO.
+1. A ausência de citação não convalesce com a prolação de sentença e nem mesmo com o trânsito em julgado, devendo ser impugnada mediante ação ordinária de declaração de nulidade. A hipótese não se enquadra no rol exaustivo do art. 485 do Código de Processo Civil, que regula o cabimento da ação rescisória.
+2. Recurso especial a que se dá provimento.
+(REsp n. 1.333.887/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/11/2014, DJe de 12/12/2014.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DE CITAÇÃO. NULIDADE.
+1. Ação monitória.
+2. Esta Corte firmou o entendimento segundo o qual o defeito ou a inexistência da citação opera-se no plano da existência da sentença, caracterizando-se como vício transrescisório que pode ser suscitado a qualquer tempo, mediante simples petição ou por meio de ação declaratória de nulidade ("querela nullitatis"). Precedentes.
+3. Ainda que o defeito correspondente à ausência de citação do litisconsorte passivo necessário tenha sido alegado tardiamente, tal circunstância não basta para configurar preclusão, tampouco para caracterizar a chamada "nulidade de algibeira", diante da gravidade do vício processual em questão.
+4. Recurso especial conhecido e provido.
+(REsp n. 2.187.458/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Está configurado, portanto, o dissídio jurisprudencial, prevalecendo nesta Corte o entendimento apresentado nos paradigmas.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de que, superada a preliminar de inadequação da via eleita, prossiga-se no julgamento da ação anulatória.
+Intimem-se.
+EMENTA
