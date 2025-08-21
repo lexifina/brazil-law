@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RONALDO RAIMUNDO, contra decisão monocrática que não conheceu do agravo em recurso especial por incidência do óbice da Súmula 182/STJ.
+No presente agravo regimental, a defesa insiste na presença dos requisitos de admissibilidade do recurso especial, sustentando ser indevida a aplicação do óbice da Súmula 182/STJ no caso. Afirma que a pretensão recursal não envolve reexame de fatos e provas, ressaltando a falta fundamentação idônea para a aplicação da fração mínima de redução da pena referente ao privilégio.
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Agravo regimental a que se nega provimento.
+VOTO
+O agravo regimental não merece ser conhecido.
+A decisão agravada não conheceu do agravo em recurso especial por incidência da vedação prescrita na Súmula n. 182/STJ, ao fundamento de que a parte agravante deixou de impugnar especificamente o fundamento da decisão de inadmissibilidade do recurso especial, qual seja: Súmula n. 7/STJ.
+No presente agravo regimental, a parte recorrente afirma nas razões do agravo em recurso especial houve a impugnação do fundamento da decisão agravada, pois destacou-se que não se busca o reexame de fatos e provas.
+Contudo, "para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgRg no AREsp n. 2.060.997/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Nos termos da assente jurisprudência desta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, não há como se afastar a incidência do enunciado n. 182 da Súmula do STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+A respeito, os seguintes julgados:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+II - In casu, o presente inconformismo limitou-se a afirmar que a quantidade de droga não é pode modular o grau de diminuição do tráfico privilegiado, bem como que ações em andamento não podem afastar a diminuição no grau máximo.
+III - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente o fundamento lançado no decisum agravado, qual seja: "O delito em questão - tráfico ilícito de entorpecentes - foi cometido quando o paciente fruía de liberdade provisória. Assim, tal circunstância demonstra o desapreço do acusado pela ordem jurídica, a revelar comportamento arredio à organização social e à autoridade do Poder Judiciário. Desse modo, verifica-se que há fundamento idôneo, por si só, a amparar a modulação realizada pelas instâncias ordinárias".
+Nessa senda, as razões expendidas no bojo do presente contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido (AgRg no HC 721.664/SC, Rel. Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 5/4/2022, DJe 12/4/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. REALIZAÇÃO DE TATUAGEM EM AMBIENTE PRISIONAL. FALTA DISCIPLINAR GRAVE. ATIPICIDADE: INEXISTÊNCIA. DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. REEXAME DE PROVAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que ensejaram o não conhecimento da impetração.
+ ..  7. Agravo regimental desprovido (AgRg no HC 725.349/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 8/3/2022, DJe 14/3/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+1. Em atenção ao princípio da dialeticidade, devem ser explicitados os motivos pelos quais não há consonância do acórdão recorrido com a jurisprudência do STJ, não bastando para tanto a simples afirmação de que a Súmula 83 deste STJ foi impugnada especificamente.
+2. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+3. Agravo regimental improvido (AgRg no AREsp 1.874.069/SC, Rel. Ministro OLINDO MENEZES (Desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 28/9/2021, DJe 4/10/2021).
+Ademais, ainda que fosse possível superar o referido óbice, extrai-se dos autos que as instâncias ordinárias optaram pela redução da pena na fração de 1/6 levando em conta a intensidade da violenta emoção conforme o grau de provocação injusta da vítima.
+No ponto, extrai-se do acórdão recorrido a seguinte fundamentação (e-STJ fls. 537/539):
+Apesar de ser ato discricionário do julgador, o critério para a fixação do patamar previsto no § 1º do art. 121 do CP decorre de aspectos subjetivos das causas e circunstâncias do crime.
+Para a escolha do patamar de redução referente ao privilégio (art. 121, § 1º, CP), deve o julgador, dentro do seu livre convencimento, aplicar fundamentadamente a fração de redução, levando em consideração, na hipótese, a relevância do valor moral afetado em relação ao fato praticado.
+ .. .
+No caso, o d. Sentenciante fundamentou a escolha da fração aplicada: " (..) Na terceira fase, presente a causa de diminuição de pena prevista no artigo 121, §r, do Código Penal. Assim, no tocante ao grau de intensidade da emoção do agente, observa-se que não foram produzidas provas para sua aferição, todavia, em relação ao grau de provocação da vítima, verifica-se que no dia dos fatos, praticou uma única conduta de desferir 01 (um) tapa na face do réu, razão pela qual reduzo a pena em 1/6 (um sexto), encontrando a pena definitiva de 05 (cinco) anos de reclusão. (..)" (ordem nº18)
+Analisando detidamente os autos, infere-se que, ainda que tenha ocorrido injusta provocação da vítima, qual seja um tapa no rosto do apelante, a conduta do réu mostra um modus operandi reprovável, sobretudo porque é evidente a desproporção das condutas.
+Ademais, em que pese a narrativa defensiva, de que a injusta provocação perpetrada pela ofendida teria se pautado em atacar o acusado com uma faca, bem como ameaça-lo de morte, não há nos autos nenhum elemento que comprove a versão apresentada pelo apelante, encontrando-se dissociada das demais provas.
+Imperioso salientar, ainda, que as testemunhas Telismar Caetano Silva da Cruz e Rosangela Aparecida Teodoro, ao prestarem seus depoimentos em plenário, foram uníssonas em afirmar que viram tão somente a vítima desferindo um tapa no rosto do acusado e eles indo embora para o local onde se sucederam os fatos.
+O motivo que justificou o cometimento do crime foi discussão do apelado de somenos importância com a vítima, tendo reagido de maneira brutal, desferindo facadas para, supostamente, se defender de um tapa provocado pela ofendida.
+Ressalte-se, ainda, que não é possível considerar como enorme a intensidade da dominação pela violenta emoção, vez que o apelado não estava no momento dos deferimentos das facadas sofrendo nenhum tipo de ameaça ou lesão, e poderia apenas ter saído de casa para evitar mais discussões ou lesões.
+Assim, tenho que o patamar de 1/6 (um sexto) é o mais adequado no caso concreto.
+No contexto, verifica-se que o entendimento firmado pelas instâncias ordinárias alinha-se à orientação jurisprudencial desta Corte Superior acerca do elementos considerados para a escolha do quantum de diminuição.
+Assim, apresentada fundamentação concreta para a diminuição da pena em virtude do privilégio na fração de 1/6, inviável, em sede de recurso especial, a revisão do entendimento firmado na origem por demandar reexame do acervo fático-probatório dos autos. Incide, no caso, a Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. HOMICÍDIO PRIVILEGIADO (ARTIGO 121, § 1º, DO CÓDIGO PENAL). CONDENAÇÃO. REVISÃO DA FRAÇÃO DE REDUÇÃO DA PENA. SÚMULA N. 7/STJ. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Reconhecido o privilégio pelo Conselho de Sentença, compete ao Juiz-Presidente do Tribunal do Júri, dentro do seu livre convencimento, aplicar fundamentadamente a redução de pena prevista no § 1º do art. 121 do Código Penal. Segundo entendimento do STJ, a escolha do quantum de diminuição relativo à privilegiadora prevista no artigo 121, § 1º, do CP, entre os patamares de 1/6 (um sexto) a 1/3 (um terço), deve basear-se na relevância do valor moral ou social, na intensidade do domínio do acusado pela violenta emoção ou no grau da injusta provocação do ofendido (AgRg no AREsp n. 1.084.313/TO, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 26/03/2019, DJe de 04/04/2019).
+2. A Corte a quo, soberana na análise do acervo probatório, concluiu pela adoção da fração de 1/6 (um sexto) porque o homicídio, perpetrado por agente policial, ocorreu em contexto de abordagem contra pessoa que não estava praticando nenhum ilícito, em área não conhecida pela criminalidade ou em horário que pudesse indicar a prática, ressaltando-se que a vítima se encaminhava, como carona de uma motocicleta, para o trabalho, no início da manhã. Rever tal entendimento, exigiria amplo revolvimento probatório, providência que encontra óbice na Súmula n. 7/STJ 3. O presente recurso não apresenta argumentos capazes de desconstituir os fundamentos que embasaram a decisão ora impugnada, de modo que merece ser integralmente mantida.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp n. 2.483.342/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento a o agravo regimental.
+É como voto.
