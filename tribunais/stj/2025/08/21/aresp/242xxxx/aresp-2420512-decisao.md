@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por Copel Distribuição S.A contra decisão que não admitiu recurso especial por ela interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão que, em sede de agravo de instrumento, deu provimento a fim de reconhecer a faculdade da seguradora em ajuizar a ação no foro de seu domicílio.
+Os embargos de declaração decorrentes da decisão proferida pelo tribunal de origem, em agravo de instrumento, foram rejeitados (fls. 67/72).
+Nas razões do recurso especial, a agravante aponta violação aos artigos 46, do Código de Processo Civil, 786, do Código Civil, e 101, I, do Código de Defesa do Consumidor.
+Alega que o posicionamento mostrou-se incorreto porquanto, no caso concreto, a seguradora sub-roga-se apenas nos direitos materiais, sendo que não possui o privilégio de ajuizar a demanda no foro de seu domicílio (São Paulo-SP).
+Sustenta, também, que necessário o restabelecimento da decisão do juiz de primeiro grau, que havia acolhida exceção de incompetência, com a remessa dos autos para o juízo da Vara da Fazenda Pública da Comarca de Curitiba-PR ou, sucessivamente, da comarca do local do ato ou fato, Marechal Cândido Rondon-PR.
+Contrarrazões ao recurso especial apresentadas (fls. 121/129).
+Assim posta a questão, passo a decidir.
+Cuida-se, na origem, de ação regressiva movida por HDI SEGUROS S.A em face da COPEL DISTRIBUIÇÃO S.A em que a autora, agora agravada, almeja o ressarcimento de valores pagos em favor do segurado (HIDRAULICOS M.H.F LTDA ME) a título de indenização securitária pelos danos elétricos havidos em seus equipamentos em decorrência de falhas na rede elétrica de distribuição da agravante, em 11/02/2021.
+O TJSP entendeu que:
+"Verifica-se, de início, a sub-rogação da agravante nos direitos dos consumidores em razão do pagamento da indenização, nos termos do artigo 786 do Código Civil, segundo o qual, Paga a indenização, o segurador sub-roga-se, nos limites do valor respectivo, nos direitos e ações que competirem ao segurado contra o autor do dano (realce não original).
+O Código de Defesa do Consumidor não prevê requisitos para a aplicação da regra prevista em seu artigo 101, I, de modo que não há óbice à agravante, considerada a já mencionada sub-rogação nos direitos do consumidor, que a impeça de ajuizar a ação regressiva no foro de seu próprio domicílio."
+Assiste razão à recorrente.
+A jurisprudência do STJ determina, conforme Tema Repetitivo 1282, que "O pagamento de indenização por sinistro não gera para a seguradora a sub-rogação de prerrogativas processuais dos consumidores, em especial quanto à competência na ação regressiva."
+A propósito:
+RECURSO ESPECIAL. AÇÃO REGRESSIVA. CREDOR ORIGINÁRIO. CONSUMIDOR. SUB-ROGAÇÃO DA SEGURADORA. DIREITO MATERIAL. SUB-ROGAÇÃO NOS DIREITOS, AÇÕES, PRIVILÉGIOS E GARANTIAS DO CREDOR PRIMITIVO. INCIDÊNCIA DO ART. 101, I, DO CDC. FORO DO DOMICÍLIO DO CONSUMIDOR. PRERROGATIVA PROCESSUAL. IMPOSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA. PRERROGATIVA PROCESSUAL IMPOSSIBILIDADE.
+1. Ação de regresso da qual foi extraído o presente recurso especial, interposto em 2/6/2023 e concluso ao gabinete em 28/6/2024.
+2. O propósito recursal, nos termos da afetação do recurso ao rito dos repetitivos, consiste em definir se a seguradora sub-roga-se nas prerrogativas processuais inerentes aos consumidores, em especial na regra de competência prevista no art. 101, I, do CDC, em razão do pagamento de indenização ao segurado em virtude do sinistro.
+3. O art. 379 do Código Civil estabelece que "a sub-rogação transfere ao novo credor todos os direitos, ações, privilégios e garantias do primitivo, em relação à dívida, contra o devedor principal e os fiadores".
+4. A jurisprudência desta Corte se consolidou no sentido de que a sub-rogação se limita a transferir os direitos de natureza material, não abrangendo os direitos de natureza exclusivamente processual decorrentes de condições personalíssimas do credor. Precedentes.
+5. Não é possível a sub-rogação da seguradora em norma de natureza exclusivamente processual e que advém de uma benesse conferida pela legislação especial ao indivíduo considerado vulnerável nas relações jurídicas, a exemplo do que preveem os arts. 6º, VIII e 101, I, do CDC.
+6. A opção pelo foro de domicílio do consumidor (direito processual) prevista no art. 101, I, do CDC, em detrimento do foro de domicílio do réu (art. 46 do CPC), é uma faculdade processual conferida ao consumidor para as ações de responsabilidade do fornecedor de produtos e serviços em razão da existência de vulnerabilidade inata nas relações de consumo. Busca-se, mediante tal benefício legislativo, privilegiar o acesso à justiça ao indivíduo que se encontra em situação de desequilíbrio.
+7. A inversão do ônus da prova prevista no art. 6º, VIII, do CDC não pode ser objeto de sub-rogação pela seguradora por se tratar de prerrogativa processual que decorre, diretamente, condição de consumidor.
+8. Para os fins dos arts. 1.036 a 1.041 do CPC, fixa-se a seguinte tese jurídica: "O pagamento de indenização por sinistro não gera para a seguradora a sub-rogação de prerrogativas processuais dos consumidores, em especial quanto à competência na ação regressiva".
+9. No recurso sob julgamento, verifica-se que ação regressiva ajuizada em face do causador do dano deve ser processada e julgada no foro do domicílio da ré (art. 46 do CPC), uma vez que não ocorreu a sub-rogação da seguradora na norma processual prevista no art. 101, I, do CDC, não sendo cabível a inversão do ônus da prova com fundamento exclusivo no artigo 6º, VIII, do CDC.
+10. Recurso especial conhecido e parcialmente provido a fim de (I) declarar a incompetência do juízo da Comarca de São Paulo/SP, determinando-se a remessa dos autos ao competente juízo do foro do domicílio da ré para o regular processamento da ação e (II) afastar a inversão do ônus da prova com fundamento no art. 6º, VIII, do CDC.
+(REsp n. 2.092.308/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 19/2/2025, DJEN de 25/2/2025.)
+Dessa forma, por estar em dissonância com o entendimento do STJ, deve ser reformado o acórdão proferido na origem.
+Diante do exposto, conheço do agravo e dou provimento ao recurso especial para restabelecer a autoridade da decisão singular proferida na origem.
+Intimem-se.
+EMENTA
