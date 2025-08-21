@@ -1,0 +1,27 @@
+DECISÃO
+Inviável processar o agravo interposto por Laudo Elis Silva Novais contra a decisão que inadmitiu o recurso especial na origem.
+A jurisprudência desta Corte tem orientado que a simples menção, no bojo das razões recursais, da ocorrência do feriado local ou de suspensão do prazo por ato normativo local não é meio idôneo para a comprovação da suspensão do prazo processual, a teor do art. 1.003, § 6º, do Código de Processo Civil. De fato, temos decidido que a mera alegação nas razões recursais, o print de tela ou a imagem de página extraída da internet, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal (AgInt nos EDcl no AREsp n. 2.697.435/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025).
+Isto é, a prova do feriado local ou suspensão do expediente forense deve ser feita pela parte interessada, por meio de documento idôneo, no ato da interposição do recurso - inviável comprovação subsequente -, providência não atendida na hipótese, já que o agravante não juntou nenhum documento apto a comprovar a ocorrência de feriado local.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL OU SUSPENSÃO DO EXPEDIENTE FORENSE POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. SEXTA-FEIRA SANTA. FERIADO NACIONAL. DIAS QUE ANTECEDEM A SEXTA-FEIRA SANTA. NECESSIDADE DE COMPROVAÇÃO SE FOREM FERIADOS OU HOUVER SUSPENSÃO DO EXPEDIENTE FORENSE. LEI 5.010/66. INAPLICABILIDADE NA JUSTIÇA ESTADUAL. ART. 932, PARÁGRAFO ÚNICO DO NCPC. CONCESSÃO DE PRAZO. VÍCIOS FORMAIS SOMENTE. LEI Nº 14.939/2024. INAPLICABILIDADE NA HIPÓTESE DOS AUTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+2. Não se desconhece que Sexta-Feira Santa é feriado nacional, que não precisa ser comprovado, todavia os dias que precedem a Sexta-Feira Santa não são feriados nacionais e, por isso, se forem feriados locais ou não houve expediente forense, demandam comprovação.
+3. A Lei nº 5.010/1966, que trata da organização da Justiça Federal, é inaplicável aos Tribunais estaduais e, por conseguinte, não há que se falar que o disposto no art. 62, IV, de referida lei socorre à parte agravante. Precedentes.
+4. O prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade.
+5. A Lei nº 14.939/2024, que alterou a redação do art. 1.003, § 6º do NCPC, para estabelecer a possibilidade de correção do vício, ou a sua desconsideração caso a informação já conste no processo eletrônico, somente se aplica a recursos interpostos a partir da sua vigência, de modo que não alcança o caso sub judice.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.746.521/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 21/2/2025 - grifo nosso)
+Destaque-se, a propósito do quanto alegado na Petição n. 682.039/2024 (fls. 1.907/1.912), que, a despeito da recente alteração do texto do art. 1.003, § 6º do CPC, que permite a comprovação da ocorrência de feriado local em momento posterior, ou sua desconsideração se a informação já estiver no processo eletrônico, essa nova norma só se aplica a recursos apresentados após sua entrada em vigor, não afetando o caso em análise (AgInt nos EDcl no AREsp n. 2.596.682/SP, relator Ministro Carlos Cini Marchionatti (Desembargador c onvocado do TJRS), Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025).
+Logo, o recurso deve ser tido como intempestivo.
+Não é outra a opinião do ilustre parecerista (fl. 1.901):
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. NÃO COMPROVAÇÃO DE FERIADO LOCAL. PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+Ressalte-se,  ainda,  que  a  intempestividade  verificada  obstou  a  interrupção  do  prazo  para  a  interposição  de  quaisquer  recursos  subsequentes, inclusive do presente.
+Nesse  sentido:
+ ..
+2.  Nos  termos  da  jurisprudência  do  STJ,  o  recurso  intempestivo  não  possui  o  condão  de  suspender  ou  interromper  o  prazo  para  interposição  de  outro  recurso,  razão  pela  qual  a  decisão  que  atesta  sua  intempestividade  não  é  apta  a  postergar  o  termo  final  do  trânsito  em  julgado,  que  ocorre  imediatamente  no  dia  seguinte  após  expirado  o  prazo  para  interposição  do  recurso  intempestivo  (AgRg  no  AgRg  no  RE  nos  EDcl  no  AgRg  nos  EAREsp  n.  822.343/MG,  Rel.  Ministro  HUMBERTO  MARTINS,  CORTE  ESPECIAL,  julgado  em  15/8/2018,  DJe  22/8/2018 - grifo nosso).
+ ..
+Em face do exposto, não conheço do agravo.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL. DIAS QUE ANTECEDEM A SEXTA-FEIRA SANTA. FALTA DE COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+Agravo não conhecido.
