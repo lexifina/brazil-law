@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por VINICIUS AMARAL DE OLIVEIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1001647-57.2021.8.26.0590 (fls. 2.944/2.961).
+No recurso especial, o agravante requer a substituição da pena corporal por restritiva de direito, ao argumento da ilegalidade do afastamento do benefício com base na reincidência não específica (fls. 2.993/2.996).
+Apresentadas as contrarrazões (fls. 3.063/3.068), o Tribunal de origem não admitiu o recurso com suporte no óbice das Súmulas 7STJ e 284/STF (fls. 3.080/3.082).
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo em recurso especial (fls. 3.146/3.155).
+É o relatório.
+O agravo não preenche os requisitos de admissibilidade.
+Conforme se observa do acórdão atacado, a Corte de origem deixou de substituir a pena corporal aplicada ao agravante, ainda que ele tenha sido condenado a 3 anos e 6 meses de reclusão, sob regime prisional semiaberto, considerando a gravidade do delito de associação para o tráfico de drogas, aliada às peculiaridades do caso, tendo como certo o envolvimento do mesmo em organização complexa, de transporte e armazenagem de droga, sem olvidar que a condenação pretérita do agravante não surtiu o esperado efeito pedagógico, não impedindo voltasse a enveredar pela senda do crime (fls. 3.025/3.026).
+No caso, a Corte de origem concluiu que o agravante não teria demonstrado de maneira específica como o acórdão teria violado preceito de lei federal (Súmula 284/STF), o que impediu o seu conhecimento, por ausência de requisito de admissibilidade, incidindo, ainda, a Súmula 7 do Superior Tribunal de Justiça, que dispõe: A pretensão de simples reexame de prova não enseja recurso especial, ou seja, não é possível emitir um juízo de valor sobre as questões de direito federal sem antes apurar os elementos de fato.
+Observa-se, contudo, que o agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que refutou os óbices levantados na decisão que inadmitiu o recurso especial. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ.
+Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO PARA SUBSTITUIÇÃO DE PENA CORPORAL POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. REINCIDÊNCIA. GRAVIDADE CONCRETA DO FATO CRIMINOSO IMPUTADO. FUNDAMENTOS IDÔNEOS DO JUÍZO A QUO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 7/STJ E 284/STF.
+Agravo em recurso especial não conhecido.
