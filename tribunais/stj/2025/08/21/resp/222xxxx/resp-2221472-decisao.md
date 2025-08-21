@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO. Ação indenizatória. Transferências realizadas via Pix não reconhecidas pelo autor. Relação de consumo evidenciada. Inversão do ônus da prova - art. 6º, VIII, do CDC. Operações feitas em sequência, destoantes do perfil do autor, sem que o sistema de segurança do réu detectasse qualquer irregularidade. Requerido que não se desincumbiu do ônus de provar a regularidade das transações. Nítida falha na prestação dos serviços. Responsabilidade objetiva. Teoria do risco da atividade. Culpa exclusiva da vítima não caracterizada. Restituição dos valores transferidos acertada. Dano moral configurado. Indenização fixada em R$ 7.000,00, de forma moderada e proporcional, preservando o caráter compensatório e punitivo do dano moral. Sentença mantida. Recurso do réu desprovido"
+O recorrente aponta, além de divergência jurisprudencial, violação aos arts. 1.022 e 1.025 do Código de Processo Civil, art. 14, § 3º, inciso II, do Código de Defesa do Consumidor e art. 927 do Código Civil, sustentando negativa de prestação jurisdicional, a culpa exclusiva de terceiro pela fraude e a ausência de dano moral.
+Sem contrarrazões.
+Juízo de admissibilidade às fls. 257/259 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No que tange à alegada violação ao art. 1.022, inciso II, do Código de Processo Civil, sob o fundamento de que houve omissão do acórdão recorrido, vejo que não prospera o recurso, pois não há deficiência de fundamentação alguma no acórdão recorrido quanto às matérias postas pelas partes agravantes.
+O Tribunal de origem, ao apreciar a controvérsia, com base no acervo probatório dos autos, concluiu que houve responsabilidade do banco pelo evento que causou danos ao agravante, consignando expressamente que ocorreu falha na prestação do serviço e que a fraude decorreu exclusivamente de sua conduta.
+Por oportuno, transcrevo:
+"O requerido disponibiliza aos seus clientes plataforma digital para a realização de transações bancárias e deve adotar, por isso, medidas de segurança de forma a evitar a ação de criminosos com o propósito de lesar consumidores através de operações financeiras.
+No caso específico, foram realizadas oito transferências via Pix no intervalo de apenas 11 minutos, no valor total de R$ 23.999,50 fls. 51, mas mesmo assim o sistema de segurança do réu não detectou qualquer irregularidade, não bloqueou a conta nem providenciou contato com o cliente, sobretudo para checar se era ele mesmo quem estava fazendo as movimentações.
+Nota-se a extrema vulnerabilidade do sistema que admitiu operações realizadas de forma sequencial e totalmente atípicas em relação ao perfil do autor. Tal permissão viola o dever de segurança que cabe às instituições financeiras e, por conseguinte, incorre em falha da prestação de serviço.
+Outro ponto a ser salientado que corrobora a narrativa inicial está atrelado à afirmação do banco-réu de que todas as transações foram efetuadas através do aplicativo e mediante utilização de senha e confirmação de token, porém sequer juntou documentos identificando o dispositivo cadastrado no sistema, tampouco aquele utilizado para efetuar as operações.
+Vale salientar que a fraude praticada por terceiro não constitui causa excludente da responsabilidade do fornecedor, porque compõe o risco próprio de sua atividade, pela qual é objetivamente responsável. A rigor, o risco de fraude é criado pela instituição financeira ao ofertar o serviço ao mercado.
+Aplica-se ao caso a teoria do risco do empreendimento, ou seja, em razão da atividade exercida deve a instituição financeira responder objetivamente pelos danos causados ao consumidor decorrentes da prestação do serviço.
+A alegação de culpa exclusiva da vítima não é suficiente para afastar a responsabilidade objetiva, conforme artigo 14 do CDC e Súmula 479 do STJ, segundo a qual: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias."
+De rigor, portanto, em face do evidente fortuito interno, a restituição dos valores subtraídos de forma indevida do autor"
+Assim, verifica-se que o acolhimento da pretensão de imputar a tercei ro a responsabilidade pela realização de transferência mediante fraude esbarra no óbice da Súmula 7/STJ.
+Ademais, o Tribunal de origem ao analisar a presente controvérsia, com base no acervo probatório dos autos, concluiu pela inexistência de dano moral indenizável, de modo que a revisão do acórdão recorrido em sede de especial esbarra no óbice da Súmula 7/STJ.
+Ilustrativamente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+(..)
+7. A revisão do fundamento que ensejou a improcedência do pedido de indenização/compensação por dano moral à pessoa jurídica autora, qual seja, a inexistência de abalo à honra objetiva, exige o reexame de conteúdo fático-probatório constante dos autos, inviável por esta via especial, ante o óbice do enunciado da Súmula 7 desta Corte.
+8. Agravo interno desprovido" (AgInt no AREsp n. 2.358.169/SP, relator Ministro Marco Buzzi, QUARTA TURMA, DJe de 15/12/2023.)
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
