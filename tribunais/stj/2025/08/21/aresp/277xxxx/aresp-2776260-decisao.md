@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por JERONIMO DA SILVA MENGER contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1001647-57.2021.8.26.0590 (fls. 2.944/2.961).
+No recurso especial, o agravante aponta a violação do art. 381, inciso III, do Código de Processo Penal, rogando por sua absolvição para o delito previsto no art. 33 da Lei n. 11.343/2006, bem como o reconhecimento da ocorrência de bis in idem por condenação simultânea entre os crimes previstos no art. 35 da Lei n. 11.343/2006 e no art. 2º, § 2º, da Lei n. 12.850/2013, ao argumento de ter ocorrido no presente caso error in judicando (fls. 2.970/2.978).
+Apresentadas as contrarrazões (fls. 3.043/3.051), o Tribunal de origem não admitiu o recurso com suporte no óbice da Súmula 7STJ e Súmulas 282, 284 e 356/STF (fls. 3.071/3.075).
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo em recurso especial (fls. 3.146/3.155).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Todavia, idônea a incidência das Súmulas 7/STJ e 282, 284 e 356/STF ao caso.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, o que impediu o seu conhecimento, por ausência de requisito de admissibilidade.
+Quanto à ausência de fundamentação do acórdão atacado, tese levantada pelo agravante, observa-se que a Corte de origem enfrentou adequadamente as questões relevantes tendo concluído, de forma motivada, que as provas produzidas eram robustas e suficientes para a sua condenação pela prática dos delitos de tráfico, associação para o tráfico e organização criminosa, individualizando, pormenorizadamente, o modus operandi e definindo, exaustivamente, cada conduta criminosa imputada a ele.
+No caso, o Tribunal de origem considerou que além da inovação recursal, este pleito encontrava óbice na Súmula 284/STF, não havendo elementos suficientes que alicerçassem a tese do agravante.
+Ademais, quanto à insurgência para o reconhecimento da simultaneidade de argumentos para a fundamentação da condenação para os crimes de associação para o tráfico e organização criminosa, o Tribunal de origem também reconheceu que esta tese não foi previamente incitada ou debatida pelo Tribunal ordinário, trata-se de inovação recursal, o que inviabilizou a sua análise, na presente via recursal, ante a carência de prequestionamento nos termos das Súmulas 282 e 356/STF. Por outro lado, o agravante não teria demonstrado de maneira específica como o acórdão teria violado preceito de lei federal (Súmula 284/STF).
+Por fim, observa-se, ainda, que sobre todos os pleitos recursais, incide a Súmula 7 do Superior Tribunal de Justiça, que dispõe: A pretensão de simples reexame de prova não enseja recurso especial, ou seja, não é possível emitir um juízo de valor sobre as questões de direito federal sem antes apurar os elementos de fato.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PLEITO PARA ABSOLVIÇÃO PELA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO A QUO. ALEGAÇÃO DE OCORRÊNCIA DE BIS IN IDEM NA FUNDAMENTAÇÃO DA CONDENAÇÃO PARA OS CRIMES DE ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. DISTINÇÃO DE SITUAÇÕES FÁTICAS. SÚMULA 7/STJ E SÚMULAS 282, 284 E 356/STF.
+Agravo conhecido para não conhecer do recurso especial.
