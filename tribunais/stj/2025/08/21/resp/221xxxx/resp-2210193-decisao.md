@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLINIPAM - CLINICA PARANAENSE DE ASSISTÊNCIA MÉDICA LTDA, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pela 12ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.103):
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS. RESSARCIMENTO AO SUS. ART. 32 DA LEI 9.656/98. CONSTITUCIONALIDADE. IVR - ÍNDICE DE VALORAÇÃO DO RESSARCIMENTO. LEGALIDADE. JUROS. TERMO INICIAL. HONORÁRIOS.
+1. Pacificação da jurisprudência deste Tribunal no sentido de não haver ilegalidade ou inconstitucionalidade na adoção do índice de valoração de ressarcimento - IVR, na medida em que mantém o valor a ser ressarcido entre os limites estipulados no § 8º do art. 32 da Lei nº 9.656/98.
+2. A impossibilidade de a autarquia dar início aos atos executivos, para fins de cobrança de seu crédito, antes da conclusão definitiva do processo administrativo, não impede a constituição em mora do devedor. Precedentes do STJ.
+3. Majoração da verba honorária, com fundamento no art. 85, § 11, do CPC.
+Opostos embargos de declaração, foram eles rejeitados (fls. 1.128-1.133).
+Nas razões de seu recurso especial (fls. 1.142-1.176), a recorrente alega que "a cobrança de juros de mora antes do fim do julgamento do processo administrativo importa em verdadeira violação a ampla defesa, bem como significa negativa de vigência ao art. 32, § 4º, da Lei 9.656/98" (fl. 1.144).
+Defende que "a Recorrida tenta impor a cobrança de encargos de mora antes do vencimento, isto é, antes da decisão definitiva do procedimento administrativo de discussão do débito" (fl. 1.145).
+Aponta, ainda, divergência jurisprudencial em relação ao entendimento adotado pelo TRF da 3ª Região que entende pela contagem dos juros de mora somente após a decisão definitiva no processo administrativo.
+Requer o provimento do recurso especial para que seja determinada a incidência de juros moratórios apenas após o fim do processo administrativo que apontou a existência de valores a serem ressarcidos ao SUS.
+Apresentadas contrarrazões às fls. 1.183-1.188.
+Sobreveio juízo de admissibilidade positivo ao recurso (fl. 1.191).
+É o relatório.
+A insurgência não merece prosperar.
+O acórdão recorrido decidiu a matéria nos seguintes termos (fls. 1.099-1.101):
+TERMO INICIAL DOS JUROS DE MORA
+Havia entendimento anterior desta Turma no sentido de que o termo inicial dos juros moratórios seria o trânsito em julgado da decisão administrativa, momento em que constituída definitivamente a dívida.
+Todavia, a jurisprudência do Superior Tribunal de Justiça inclinou-se no sentido de que os juros de mora passam a incidir a partir do vencimento da dívida não paga, e não do trânsito em julgado do processo administrativo. Nesse sentido:
+ADMINISTRATIVO. OPERADORA DE PLANO DE SAÚDE. AUTO DE INFRAÇÃO. ANS. PROCESSO ADMINISTRATIVO. MULTA. APLICAÇÃO. JUROS DE MORA. TERMO INICIAL.
+1. O art. 37-A da Lei n. 10.522/2002, com redação alterada pela Lei n. 11.941/2009, prevê que "os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais", qual seja, a Lei n. 9.430/1996. 2. A interposição de recurso administrativo não afasta a incidência dos juros moratórios, ex vi do disposto nos arts. 2º e 5º do Decreto Lei nº 1.736/1979, os quais devem incidir a partir do primeiro dia subsequente ao vencimento do prazo previsto para o pagamento da multa administrativa, conforme disposição do art. 61, §1º, da Lei n. 9.430/1996. 3. A impossibilidade de a autarquia dar início aos atos executivos, para fins de cobrança de seu crédito, antes da conclusão definitiva do processo administrativo, não altera a data do vencimento da dívida não tributária nem impede a constituição em mora do devedor, nos termos da legislação supramencionada. 4. O precedente vinculante firmado no IAC n. 11 do STJ aplica-se tão somente às multas administrativas aplicadas pela Agência Nacional do Petróleo, Gás natural e biocombustíveis - ANP, em face do princípio da especialidade (Lei n. 9.847/1999). 5. Agravo conhecido para conhecer do recurso especial e negar-lhe provimento. (AREsp n. 1.574.873/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/10/2022, DJe de 22/11/2022)
+Ressalto que em decisão monocrática proferida no AREsp 2153798, o Ministro Relator, reformando acórdão deste Regional, deu provimento ao Recurso Especial interposto naqueles autos para estabelecer como termo inicial para incidência dos juros moratórios o vencimento do prazo de pagamento da dívida.
+ ..
+Esse é o entendimento atual desta Turma, que se adequou ao entendimento do STJ, conforme se verifica do seguinte precedente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS. RESSARCIMENTO AO SUS. JUROS DE MORA. TERMO INICIAL. VENCIMENTO DO PRAZO DE PAGAMENTO DA DÍVIDA. PRECEDENTES DO STJ. 1. A impossibilidade de a autarquia dar início aos atos executivos, para fins de cobrança de seu crédito, antes da conclusão definitiva do processo administrativo, não impede a constituição em mora do devedor. 2. São devidos juros de mora desde o vencimento do prazo de pagamento da dívida. Precedentes do STJ. 3. Apelação cível provida. (TRF4, AC 5084516-30.2021.4.04.7000, DÉCIMA SEGUNDA TURMA, Relator JOÃO PEDRO GEBRAN NETO, juntado aos autos em 30/11/2023)
+Assim, não merece provimento o apelo da parte autora.
+Do excerto do voto transcrito verifica-se que, quanto ao termo inicial dos juros de mora, o acórdão impugnado está em consonância com a jurisprudência consolidada do STJ, no sentido de que, os juros de mora passam a incidir a partir do primeiro dia subsequente ao vencimento do prazo previsto para pagamento do crédito. Nesse sentido:
+ADMINISTRATIVO. RESSARCIMENTO AO SUS. RECURSO ADMINISTRATIVO. EFEITO SUSPENSIVO. JUROS DE MORA. TERMO INICIAL.
+1. A interposição de recurso administrativo enseja a suspensão da exigibilidade da dívida administrativa, porém não interfere no termo inicial dos juros de mora, os quais devem incidir com o vencimento do prazo previsto na notificação sem o seu devido pagamento.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.176.447/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESSARCIMENTO AO SUS. JUROS DE MORA. TERMO INICIAL. DIA SUBSEQUENTE AO VENCIMENTO DO PRAZO PARA PAGAMENTO DA DÍVIDA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência dominante do Superior Tribunal de Justiça é no sentido de que "a interposição do recurso administrativo apenas pode ensejar a suspensão da exigibilidade da multa administrativa, mas não interfere no termo inicial dos encargos da mora, os quais incidem a partir do primeiro dia subsequente ao vencimento do prazo previsto para pagamento do crédito" (AgInt no AREsp n. 1.705.876/PR, relator Ministro Og Fernandes, DJe 29/3/2021).
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.178.902/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESSARCIMENTO AO SUS. TERMO INICIAL DOS JUROS MORATÓRIOS. PRIMEIRO DIA SUBSEQUENTE AO VENCIMENTO DA OBRIGAÇÃO. RECURSO ADMINSTRATIVO. AUSÊNCIA DE EFEITO INTERRUPTIVO DOS EFEITOS DA MORA.
+1. A jurisprudência do Superior Tribunal de Justiça trilha o entendimento de que "a interposição do recurso administrativo apenas pode ensejar a suspensão da exigibilidade da multa administrativa, mas não interfere no termo inicial dos encargos da mora, os quais incidem a partir do primeiro dia subsequente ao vencimento do prazo previsto para pagamento do crédito" (AgInt no AREsp n. 1.705.876/PR, Relator Ministro Og Fernandes, DJe de 29/3/2021).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.585.063/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Desse modo, aplicável o disposto no enunciado da Súmula 568 do STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 32, § 4º, I, DA LEI Nº 9.656/98. AGÊNCIA NACIONAL DE SAÚDE SUPLEMETAR (ANS). RESSARCIMENTO AO SUS. INTERPOSIÇÃO DE RECURSO ADMINISTRATIVO. TERMO INICIAL DOS JUROS MORATÓRIOS. PRIMEIRO DIA SUBSEQUENTE AO VENCIMENTO DA OBRIGAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. RECURSO ESPECIAL DESPROVIDO.
