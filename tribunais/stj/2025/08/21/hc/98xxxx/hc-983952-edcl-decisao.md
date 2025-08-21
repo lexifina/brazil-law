@@ -1,0 +1,12 @@
+DECISÃO
+ALIPIO DE OLIVEIRA ERMOGENES e EDER BRUNO GRACILIANO DE SOUZA opõem embargos de declaração contra a decisão de fls. 68-69, em que julguei prejudicado seu habeas corpus, em razão da informação de que foi deferida a habilitação do defensor Ignácio Luiz Gomes de Barros Júnior, para quem houve outorga de procuração.
+O impetrante alega que, apesar do substabelecimento havido na origem, um dos advogados segue sem acesso aos autos da medida cautelar sigilosa na qual foi decretada a segregação preventiva dos pacientes. Requer, então, o acolhimento dos embargos de declaração, com efeitos infringentes, ao argumento de que o habeas corpus não perdeu seu objeto.
+Decido.
+Inicialmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Noto que a irresignação dos embargantes se resume ao seu mero inconformismo com o resultado de prejudicialidade da impetração. Argumentam que não foi cadastrado, nos autos de origem, um dos advogados, a quem foram substabelecidos, com reservas, os poderes inicialmente outorgados ao outro causídico. Tal pretensão, porém, extrapola os limites da impetração original e não afasta a conclusão de prejudicialidade, já que a defesa constituída dos acusados, na origem, teve efetivamente concedido o acesso aos autos da medida cautelar sigilosa na qual foi decretada a segregação preventiva dos pacientes.
+Assim, não há nenhum fundamento que justifique a oposição dos embargos de declaraçã o, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julg ado, e não a reapreciar a causa.
+Por fim, se a defesa, eventualmente, pretender alegar novo constrangimento ilegal, deverá fazê-lo pela via apropriada, primeiramente no Juízo estadual, sob pena de supressão de instância.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intime-se.
+EMENTA
