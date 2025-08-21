@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. SÚMULA 182/STJ. REJEIÇÃO.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, sendo admissíveis apenas para sanar obscuridade, contradição ou omissão no julgado, ou, ainda, para correção de erro material, nos termos do art. 619 do Código de Processo Penal. Não se prestam, todavia, para simples reiteração de inconformismo ou rediscussão da matéria já decidida, sendo insuficiente a mera irresignação da parte com o resultado do julgamento.
+2. No caso, não se verificam quaisquer dos vícios alegados. A decisão embargada, de forma clara e fundamentada, consignou a inadmissibilidade do agravo regimental por ausência de impugnação específica e pormenorizada dos fundamentos da decisão que inadmitiu o recurso especial, incidindo, portanto, o enunciado da Súmula 182 do STJ.
+3. Hipótese em que o embargante busca, em verdade, a reanálise da matéria já decidida, sem indicar omissão, contradição, obscuridade ou erro material, o que inviabiliza o acolhimento dos aclaratórios.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RAPHAEL BORCHERS BARBOZA contra acórdão que não conheceu do agravo regimental interposto em face da decisão que não conheceu do agravo em recurso especial, o qual foi assim ementado (e-STJ fls. 841):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE FUNDADA NA AUSÊNCIA DE PREQUESTIONAMENTO, SÚMULAS 283 E 284 DO STF, SÚMULAS 7 E 13 DO STJ E DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. RAZÕES DO AGRAVO REGIMENTAL. ALEGAÇÕES GENÉRICAS E INSISTÊNCIA NO MÉRITO DA CONTROVÉRSIA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Hipótese na qual o recurso especial foi inadmitido com fundamento na ausência de prequestionamento, nas Súmulas 283 e 284 do STF, nas Súmulas 7 e 13 do STJ, bem como na falta de comprovação de divergência jurisprudencial. A parte agravante, todavia, deixou de impugnar de forma específica e pormenorizada todos os fundamentos da decisão agravada.
+2. Conforme entendimento consolidado nesta Corte, os recursos devem atacar de maneira concreta e individualizada os fundamentos da decisão impugnada, não sendo suficientes alegações genéricas ou meramente voltadas ao mérito da controvérsia.
+3. No agravo regimental, por sua vez, a defesa limitou-se a apresentar alegações genéricas e reiterar as razões do recurso especial, atraindo a incidência do enunciado n. 182 da Súmula do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo regimental não conhecido.
+Nos presentes embargos de declaração, o embargante sustenta a existência de omissão no julgado, alegando que todas as teses foram objeto de prequestionamento nas instâncias ordinárias e que os fundamentos da decisão agravada teriam sido especificamente infirmados. Assevera que o acórdão recorrido deixou de se manifestar sobre questões relevantes para o deslinde da controvérsia, inclusive quanto à correta valoração das provas. Reitera as alegações de mérito.
+Requer, ao final, o acolhimento dos embargos de declaração para suprir as omissões apontadas, com efeitos modificativos, viabilizando o conhecimento do agravo em recurso especial.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. SÚMULA 182/STJ. REJEIÇÃO.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, sendo admissíveis apenas para sanar obscuridade, contradição ou omissão no julgado, ou, ainda, para correção de erro material, nos termos do art. 619 do Código de Processo Penal. Não se prestam, todavia, para simples reiteração de inconformismo ou rediscussão da matéria já decidida, sendo insuficiente a mera irresignação da parte com o resultado do julgamento.
+2. No caso, não se verificam quaisquer dos vícios alegados. A decisão embargada, de forma clara e fundamentada, consignou a inadmissibilidade do agravo regimental por ausência de impugnação específica e pormenorizada dos fundamentos da decisão que inadmitiu o recurso especial, incidindo, portanto, o enunciado da Súmula 182 do STJ.
+3. Hipótese em que o embargante busca, em verdade, a reanálise da matéria já decidida, sem indicar omissão, contradição, obscuridade ou erro material, o que inviabiliza o acolhimento dos aclaratórios.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+A decisão embargada, de forma clara e fundamentada, consignou que o agravo regimental não foi conhecido por ausência de impugnação específica e pormenorizada de todos os fundamentos expendidos na decisão de inadmissibilidade do recurso especial, atraindo a incidência da Súmula n. 182 do STJ. Ressaltou-se, ainda, que as razões recursais limitaram-se à repetição de teses já deduzidas e à insistência no mérito da controvérsia, sem infirmar, de maneira concreta, os fundamentos da decisão agravada - o que se repete, igualmente, no presente recurso, em que o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Relator Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
