@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de DIONATA JOSE SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação n. 1.0000.24.391829-9/001).
+Depreende-se dos autos que o ora paciente foi condenado às penas de 12 anos de reclusão, em regime inicial fechado; 4 anos e 10 meses de detenção, no regime inicial semiaberto, além do pagamento de 2.250 dias-multa, pela prática dos crimes dos arts. 12 e 15, ambos da Lei n. 10.826/2003; do art. 147, caput, do Código Penal; e do art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de "1 (uma) bucha de maconha, 2 (dois) papelotes de cocaína, 4 (quatro) pedras de "crack" e um invólucro com 100 (cem) pinos plásticos" (e-STJ fl. 446).
+O Tribunal de origem deu parcial provimento à apelação manejada pela defesa, a fim de readequar a sanção definitiva para 7 anos de reclusão e 1 ano e 1 mês de detenção, ambas em regime inicial semiaberto, e ao pagamento de 520 dias-multa, como incurso nos delitos do art. 33, caput, da Lei n. 11.343/2006; do art. 12 da Lei 10.826/2003; e do art. 147 do CP, todos na forma do art. 69 do Código Penal, nos termos da ementa de e-STJ fl. 438:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - AMEAÇA - POSSE ILEGAL DE ARMA DE FOGO (POR DAS VEZES) - DISPARO DE ARMA DE FOGO (POR DUAS VEZES) - PRELIMINAR DE NULIDADE - RETIRADA DO RÉU DA AUDIÊNCIA POR VIDEOCONFERÊNCIA - REJEIÇÃO - RECLASSIFICAÇÃO DE UM DOS CRIMES DE POSSE ILEGAL DE ARMA DE FOGO PARA PORTE ILEGAL DE ARMA DE FOGO - NECESSIDADE - MATERIALIDADADE E AUTORIA DEMONSTRADAS - APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO ENTRE O DELITO DE PORTE ILEGAL DE ARMA DE FOGO E DISPARO DE ARMA DE FOGO - CABIMENTO - DELITO SUBSIDIÁRIO - FINALIDADE ESPECÍFICA DA PRÁTICA DE OUTRO CRIME - ABSORÇÃO NECESSÁRIA - REDUÇÃO DAS PENAS-BASE PARA OS MÍNIMOS LEGAIS - VIABILIDADE - ISENÇÃO DO PAGAMENTO DAS CUSTAS PROCESSUAIS - MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO PENAL.
+- Não há falar em nulidade pela retirada do réu da audiência por videoconferência, quando sua ausência ocorreu, de forma justificada, pelo temor da vítima (art. 217, CPP), cujo depoimento foi acompanhado pela defesa técnica, ausente a demonstração do prejuízo concreto experimentado pelo acusado.
+- Inviável o acolhimento do pleito absolutório se nos autos estão devidamente comprovadas a materialidade e a autoria, notadamente pela prova oral colhida.
+- O delito do art. 15 da Lei 10.826/03 é subsidiário e não se configura quando o sujeito ativo tem por finalidade a prática de outro crime doloso.
+- Aplica-se a consunção entre os crimes de porte de arma de fogo e disparo de arma de fogo, quando praticados em mesmo contexto fático, ausente desígnio autônomo.
+- Havendo reparo a ser feito no que tange à sanção fixada na sentença, cabe a esta Instância ad quem fazê-lo, a fim de se alcançar a tríplice função da pena.
+- As custas processuais são efeito da condenação, nos termos do artigo 804 do CPP, e a suspensão de sua exigibilidade é matéria afeta ao Juízo da Execução.
+V.V.
+- Demonstrado que o réu efetuou disparos de arma de fogo em locais habitados, necessária a manutenção de sua condenação pelo delito do art. 15 do Estatuto do Desarmamento.
+Opostos embargos de declaração, foram eles rejeitados.
+Daí o presente writ, no qual sustenta a defesa a nulidade do feito em razão da retirada do réu da audiência de instrução, durante o depoimento da vítima do crime de ameaça, uma vez que a audiência foi realizada pelo sistema de videoconferência e esse afastamento da sala virtual inviabilizou o seu direito de presença e autodefesa.
+Postula a desclassificação do crime de tráfico de drogas para a infração do art. 28 da Lei n. 11.343/2006.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção, o que não é o caso do presente writ.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
