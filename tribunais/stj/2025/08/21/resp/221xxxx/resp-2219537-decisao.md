@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO e RECURSO ADESIVO. Ação declaratória de inexistência de negócio jurídico. Empréstimo Consignado. Ausência de prova da contratação por meios digitais. Banco que não se desincumbiu suficientemente de seu ônus probatório. Fraude evidenciada. Serviço disponibilizado que não fornece a necessária segurança. Responsabilidade objetiva da instituição financeira. Ressarcimento devido, nos termos do entendimento firmado no R Esp. nº 1.823.218. DANOS MORAIS reconhecidos. Transtornos impingidos em patamar superior a meros aborrecimentos. Uso indevido de dados da autora, contratação fraudulenta e desconto indevido no benefício previdenciário. Sentença reformada no ponto para condenar o réu ao pagamento de indenização compensatória pelos danos morais.
+Recurso adesivo da autora parcialmente provido; apelo do réu desprovido"
+Opostos embargos de declaração, foram rejeitados.
+Em seu recurso especial, além de jurisprudencial, a parte alega violação aos arts. 104, inciso III, e 107 do Código Civil, arts. 186, 187, 188 e 924 do Código de Processo Civil e art. 42 do Código de Defesa do Consumidor, sustentando a legalidade da contratação via celular, ante a nítida autonomia de vontade expressada pela adversa, e que os danos morais, em casos de fraude bancária, não são presumidos, de modo que, no caso, devem ser desconsiderados, uma vez que a Corte de origem os reputou in re ipsa.
+Sem contrarrazões.
+Juízo de admissibilidade proferido às fls. 362/364 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, quanto à legalidade da contratação do empréstimo, verifica-se que o Tribunal de origem, soberano na análise do acervo probatório dos autos, consignou expressamente que a instituição financeira não logrou comprovar a efetiva contratação do empréstimo pela parte, de modo que rever tal conclusão esbarra no óbice da Súmula 7/STJ, por demandar, necessariamente a revisão fático-probatória dos autos.
+Prosseguindo, este Superior Tribunal de Justiça entende que "a caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade. A fraude bancária, nessa perspectiva, não pode ser considerada suficiente, por si só, para a caracterização do dano moral" (AgInt nos EDcl no AREsp 1.669.683/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/11/2020, DJe de 30/11/2020).
+Ainda nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. SAQUE INDEVIDO EM CONTA CORRENTE. VALOR ÍNFIMO. RESSARCIMENTO DA QUANTIA. ABALO À HONRA NÃO DEMONSTRADO. DANO MORAL. NÃO CONFIGURAÇÃO. ACÓRDÃO RECORRIDO. CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é no sentido de que, ausente o abalo à honra, não há que se falar em indenização por danos morais por saque indevido em conta corrente, posteriormente restituído, porquanto não se trata de dano in re ipsa. No caso, o acórdão recorrido está em conformidade com a orientação jurisprudencial do STJ. Incidência da Súmula 83/STJ.
+2. Agravo interno não provido" (AgInt no AREsp 1622003/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26.10.2020)
+Assim, nesta questão, com razão a recorrente, uma vez que a Corte de origem considerou o dano moral de forma presumida, sem delinear pormenorizadamente as circunstâncias que teriam repercutido na esfera pessoal da parte recorrida, limitando-se a consignar aspectos genéricos que poderiam ser aplicados a uma multiplicidade de casos.
+Dessa forma, exclui-se a condenação da recorrente em danos morais.
+Em face do exposto, dou parcial provi mento ao recurso especial para excluir a condenação em danos morais. Diante da reforma parcial do acórdão, verifica-se a sucumbência recíproca das partes, de modo que os honorários advocatícios devem recair em iguais partes a cada uma das litigantes, no importe 50% a cada uma.
+Intimem-se.
+EMENTA
