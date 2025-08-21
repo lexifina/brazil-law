@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ ALMIR SOUZA contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que não busca o reexame do conteúdo fático-probatório, pois "o recurso versa exclusivamente sobre questões de direito" (fl. 326).
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 356):
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. FURTO QUALIFICADO. PENA-BASE. MAUS ANTECEDENTES. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS DESFAVORÁVEIS. REINCIDÊNCIA. SÚMULA 83/STJ.
+- Parecer pelo não conhecimento do agravo. Subsidiariamente, pelo desprovimento.
+É o relatório.
+Impugnados os fundamentos da decisão de admissibilidade, passa-se ao exame do recurso especial.
+Nas razões recursais, o recorrente sustenta que o Tribunal de origem reconheceu a existência de maus antecedentes com base em condenações antigas, atingidas pelo período depurador do art. 64, I, do Código Penal.
+Além disso, alega que a imposição do regime fechado é desproporcional e viola o princípio da individualização da pena, pois o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta exige motivação concreta e não pode ser imposto com base apenas na reincidência.
+Diante disso, requer a redução da pena-base para o mínimo legal e o estabelecimento do regime aberto para o cumprimento da pena privativa de liberdade.
+O Tribunal de origem, ao reconhecer os maus antecedentes do recorrente, consignou (fls. 285-287):
+2.1. De acordo com a vasta "CERTIDÃO ESTADUAL DE DISTRIBUIÇÕES CRIMINAIS" acostada a fls. 68/84, o increpado ostenta doze condenações: i) quatro por furto qualificado (processos nºs 0001276-73.2010.8.26.0242, 0003592- 93.2009.8.26.0242, 1501445-75.2020.8.26.0196 e 0002607- 90.2010.8.26.0242); ii) seis por posse de drogas para consumo próprio (processos nºs 0005344-95.2012.8.26.0242, 0003717-22.2013.8.26.0242, 0003718-07.2013.8.26.0242, 0003722-44.2013.8.26.0242, 0003761-75.2012.8.26.0242 e 0001278-53.2016.8.26.0300); iii) uma por tráfico ilícito de entorpecentes (processo nº 0000259-65.2011.8.26.0242); iv) e uma por incurso no "art. 19, "caput", do DL 3.688/1941" (processo nº 0004200-86.2012.8.26.0242).
+O nobre sentenciante, ao fixar as reprimendas, assim procedeu:
+"Ao contrário do mencionado pelo digno Promotor de Justiça, o réu conta com uma condenação definitiva por furto qualificado, geradora de reincidência (1501445-75.2020.8.26.0196). As demais condenações, também por furto, são de fatos praticados em 2009 e 2010 (autos nº 1276-73.2010.8.26.0242 e 3592-93.2009.8.26.0242), de maneira que não podem ser consideradas como maus antecedentes para efeito de fixação da pena-base, sob pena de caracterização de sua perpetuidade. O réu é confesso.
+ ..
+Consideradas as diretrizes traçadas pelo artigo 59, "caput", do Código Penal, fixo a pena-base em 02 anos de reclusão e 10 dias-multa, no piso mínimo, tendo em vista o preceito sancionador do artigo 155, parágrafo 4º, inciso II do Código Penal. Na segunda fase, compenso a agravante da reincidência com a da confissão. Ausentes causas de aumento ou diminuição, torno a pena definitiva" (r. sentença, fls. 218/9).
+Todavia, conforme pleiteado pelo d. representante ministerial em suas razões recursais, sopesando apenas as "condenações definitivas por furto e tráfico"  exceto a utilizada na fase seguinte como reincidência (processo nº 1501445-75.2020.8.26.0196) , adequada a exasperação das básicas em 1/3 (um terço): penas de 2 (dois) anos e 8 (oito) meses de reclusão, mais multa de 13 (treze) diárias.
+Cumpre registrar que o período depurador consignado no artigo 64, inciso I, da lei penal substantiva diz respeito única e exclusivamente ao regramento da reincidência, não se estendendo aos maus antecedentes - sobretudo porque tal particularidade também serve para extremar os dois conceitos.
+Aliás, em sede de repercussão geral - Tema 150 - o plenário do Pretório Excelso, em sessão virtual realizada de 7.8.2020 a 17.8.2020, apreciou a matéria e fixou tese segundo a qual "não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal".
+É firme a jurisprudência desta Corte Superior de Justiça de que as condenações atingidas pelo período depurador de 5 anos, previsto no art. 64, I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração dos maus antecedentes, nos termos do art. 59 do CP.
+No mesmo sentido, o Supremo Tribunal Federal, no exame do RE n. 593.818 (Tema n. 150 da repercussão geral), publicado no DJe de 23/11/2020, fixou a tese de que não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal. Tal entendimento, todavia, não impede o afastamento da da vetorial antecedentes, em razão de peculiaridades do caso concreto, notoriamente nas hipóteses de transcurso de lapso temporal extenso.
+Assim, quanto à aplicação do denominado "direito ao esquecimento", ambas as Turmas que compõem a Terceira Seção desta Corte Superior posicionaram-se no sentido de que a avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade, levando-se em consideração o lapso temporal transcorrido entre a extinção da pena anteriormente imposta e a prática do novo delito, qual seja mais de 10 anos.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. DIREITO AO ESQUECIMENTO. NÃO APLICAÇÃO. TRÁFICO PRIVILEGIADO. RECONHECIMENTO. IMPOSSIBILIDADE. NÃO PREENCHIDOS OS REQUISITOS LEGAIS.
+1. Conforme a jurisprudência pacífica desta Corte Superior, as condenações atingidas pelo período depurador de 5 anos, nos termos do art. 64, I, do Código Penal, podem ser reconhecidas como maus antecedentes.
+2. A tese do "direito ao esquecimento" não deve ser aplicada em relação a feitos extintos que não possuam lapso temporal significante em relação à data da condenação, qual seja, menos de 10 anos.
+3. Tendo ocorrido a extinção da pena da condenação considerada como maus antecedentes em 2011, há menos de 10 anos da prática do novo delito, cometido em 2020, não se verifica lapso temporal suficiente para a aplicação do direito ao esquecimento. Precedentes.
+4. Quanto à terceira fase da dosimetria da pena, constatada pelas instâncias ordinárias a existência de maus antecedentes, fica afastada a possibilidade de reconhecimento do tráfico privilegiado.
+5. Agravo regimental improvido.
+(AgRg no AgRg no HC 698.747/SC, relator Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, Sexta Turma, Julgado em 29/3/2022, DJe de 1º/4/2022.)
+No caso, ao examinar a sentença e o acórdão recorrido, verifica-se que, quanto às condenações utilizadas para o reconhecimento dos maus antecedentes, consta apenas o número dos processos, sem qualquer informação acerca das respectivas datas da extinção da punibilidade ou do cumprimento das penas.
+Dessa forma, não houve prequestionamento dos marcos temporais necessários à aplicação do direito ao esquecimento, tampouco há elementos nos autos que permitam a análise quanto à eventual possibilidade de desconsideração das condenações pretéritas em razão de sua antiguidade.
+No que tange ao regime de cumprimento de pena, o Tribunal de origem concluiu pela proporcionalidade do regime fechado, ante a existência de circunstância judicial desfavorável e a reincidência.
+O entendimento se mostra compatível com o art. 33, § 3º, do Código Penal, bem como com a jurisprudência desta Corte Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. DOSIMETRIA. REGIME FECHADO. REINCIDÊNCIA E CIRCUNSTÂNCIA JUDICIAL NEGATIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 33, § 3º, do Código Penal, a fixação de regime inicial de cumprimento de pena pressupõe a análise do quantum da reprimenda aplicada bem como das circunstâncias judiciais previstas no art. 59 do mesmo diploma legal.
+2. No caso, não há ilegalidade em relação à fixação do modo fechado para início de resgate da pena, considerando a reincidência e a existência de circunstância judicial desfavorável.
+3. Inaplicável o enunciado 269 da Súmula do STJ, o qual preceitua que é admissível a aplicação do regime prisional semiaberto aos reincidentes, condenados à pena igual ou inferior a 4 anos, se favoráveis as circunstâncias judiciais.
+4. Agravo regimental improvido.
+(AgRg no HC n. 922.986/SP, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO SIMPLES. MATERIALIDADE E AUTORIA. DEMONSTRAÇÃO. ATIPICIDADE MATERIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REGIME PRISIONAL FECHADO. REINCIDÊNCIA. CIRCUNSTÂNCIAS DESFAVORÁVEIS. AGRAVO DESPROVIDO.
+ ..
+3. Apesar do paciente ter sido condenado à pena inferior a 4 anos de reclusão, ele é reincidente e tem como desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, logo, correta seria a fixação de regime fechado para cumprimento de pena, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal e da Súmula 269/STJ, contudo, em razão do regra da non reformatio in pejus, deve ser mantido o regime semiaberto.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 925.164/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2024, DJe de 20/9/2024.)
+PENAL. RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MUNIÇÕES APREENDIDAS NO MESMO CONTEXTO EM QUE ENCONTRADA ARMA DE FOGO MUNICIADA. MAIOR REPROVABILIDADE DA CONDUTA. FUNDAMENTO IDÔNEO. INEXISTÊNCIA DE BIS IN IDEM. REGIME INICIAL DE CUMPRIMENTO DE PENA. PLEITO DE FIXAÇÃO DE REGIME MAIS BRANDO. INVIABILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REINCIDÊNCIA. REGIME FECHADO ADEQUADO AO CASO. INVIABILIDADE DE SUBSTITUIÇÃO DA PENA POR RESTRITIVAS DE DIREITOS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I- A conclusão do acórdão recorrido está em consonância com a jurisprudência desta Corte Superior de Justiça que autoriza a exasperação da pena pela apreensão de quantidade de munições no mesmo contexto de crime de porte ilegal de arma de fogo, porquanto demonstra maior reprovabilidade da conduta, não havendo que se falar em bis in idem.
+II- A jurisprudência desta Corte se firmou no sentido de que a fixação do regime inicial para cumprimento de pena não está vinculado, de forma absoluta, ao quantum da reprimenda imposto.
+Logo, ainda que a sanção seja fixada em patamar igual ou inferior a 4 (quatro) anos, a negativação de circunstâncias judiciais na primeira fase da dosimetria com o reconhecimento de reincidência autorizam a fixação do regime inicial fechado para cumprimento da pena.
+III- A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.977.651/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/9/2024, DJe de 19/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. MAUS ANTECEDENTES. CULPABILIDADE DESFAVORÁVEL. MULTIRREINCIDÊNCIA. PENA INFERIOR A 4 ANOS. REGIME PRISIONAL MAIS GRAVOSO. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É admissível a fixação de regime prisional mais gravoso do que aquele que permite a pena aplicada quando apontada a multirreincidência do réu (art. 33, § 2º. do CP), além de maus antecedentes e de culpabilidade desfavorável (art. 33, § 3º, do CP).
+2. O agravante, reincidente e com maus antecedentes, não furtou bem de valor insignificante e estava cumprindo pena quando reiterou o crime. As instâncias ordinárias indicaram essas circunstâncias para fixar o regime inicial semiaberto, o que beneficiou o condenado, pois a motivação poderia justificar o modo fechado de cumprimento da pena.
+3. Agravo regimental não provido.
+(AgRg no HC n. 909.620/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Ante o exposto, com amparo no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
