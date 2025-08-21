@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado, com fulcro na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado (fl. 495):
+Apelação cível. Ação declaratória de inexistência de débito cumulada com indenização por danos morais com pedido de tutela. Falha na prestação de serviço. Ausência de comprovação da inscrição do nome nos cadastros de proteção ao crédito. Danos morais descaracterizados. I - A inversão do ônus da prova, prevista na legislação consumerista, não desincumbe a parte autora de apresentar prova mínima de suas alegações. II - Ausente comprovação que demonstre a ocorrência de cobrança insistente ou vexatória ou que houve inscrição do nome da consumidora em órgãos de proteção ao crédito, não há falar em indenização por danos morais. Apelação Cível conhecida e desprovida. Sentença mantida.
+Nas razões do recurso especial, a agravante aponta violação aos arts. 186 e 927 do Código Civil, 489 e 1.022 do Código de Processo Civil e 14 do Código de Defesa do Consumidor.
+Segundo o recurso especial, o agravado inscreveu indevidamente a agravante em cadastro de inadimplentes e realizou cobranças indevidas, todavia o acórdão não reconheceu o direito da agravante à compensação por danos morais, ensejando negativa de prestação jurisdicional, nos termos dos arts. 1.022 e 489 do CPC.
+Além disso, o recurso especial afirma que, ao não se reconhecer que a negativação e a cobrança indevida geram dano moral in re ipsa, foram violados os arts. 186 e 927 do CC e o art. 14 do CDC.
+Em contrarrazões, o agravado defende a falta de prequestionamento e incidência da Súmula 7 do STJ. No mérito, defende a manutenção do acórdão.
+O recurso especial não foi admitido por aplicação da Súmula 284 do STF. No agravo interposto contra tal decisão, a agravante nega a incidência do óbice, ao passo que, em contraminuta, a agravada retoma as teses anteriores.
+Assim delimitada a controvérsia, passo à análise do recurso.
+De plano, verifico que o recurso não preenche as condições mínimas de admissibilidade.
+Ao tratar da alegada negativa de prestação jurisdicional, a agravante aponta violação aos arts. 489 e 1.022 do CPC, porém não individualiza qual inciso dos dispositivos foi violado, não aponta nenhuma omissão e não interpôs embargos de declaração para suscitar eventual falta de análise de teses jurídicas.
+A rigor, a agravante apenas afirma genericamente que a fundamentação do acórdão não teria sido suficiente, porém não demonstra claramente a violação aos dispositivos indicados, o que impõe a incidência da Súmula 284 do STF.
+No que se refere à configuração do dano moral, assim se manifestou o acórdão de origem:
+Ressalte-se, quanto a esse ponto, que a inversão do ônus da prova prevista no Código de Defesa do Consumidor (artigo 6º, VIII) não é absoluta, uma vez que está condicionada à verossimilhança das alegações apresentadas, isto é, não tem o condão de afastar da parte autora o dever de produção de prova mínima do direito vindicado.
+(..)
+A perícia grafotécnica realizada no presente feito concluiu que a assinatura posta no contrato não foi produzida pela parte autora (evento n. 119), motivo pelo qual a cobrança realizada da dívida caracteriza a falha na prestação de serviço por parte do apelado. Entretanto, mesmo intimada, especificamente, para juntar o extrato da negativação (evento n. 5) a apelante deixou de cumprir a determinação (evento n. 7).
+Não há dúvidas de que a inscrição/manutenção indevida do nome do devedor em cadastro de inadimplente enseja o dano moral in re ipsa, ou seja, dano vinculado a própria existência do ato ilícito, ocorre que, como visto, a apelante não logrou comprovar a existência da respectiva inscrição, o que afasta a possibilidade de reconhecimento dos danos morais que alega ter sofrido.
+(..)
+In casu, os fatos narrados na exordial e o conjunto probatório limitam-se a demonstrar que a apelante foi cientificada acerca de um débito cuja responsabilidade pelo pagamento lhe foi atribuída de forma ilegal, já que não firmou o contrato. Assim, além da ausência de negativação indevida, não se vê a existência de cobrança reiterada, vexatória ou qualquer outra situação que tenha o condão de causar na consumidora dor, angústia, aflição ou frustração.(fls. 497-498).
+P ara afastar a conclusão do acórdão recorrido e acolher as alegações da agravante, no sentido de que efetivamente foi inscrita em cadastro de inadimplentes e que a cobrança recebida excedeu o mero dissabor, seria necessário o reexame dos fatos e provas dos autos, o que violaria a Súmula 7 do STJ.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de estabelecer honorários recursais na forma do art. 85, § 11, do CPC, tendo em vista que não foram fixados honorários nas instâncias de origem em desfavor da agravante.
+Intimem-se.
+EMENTA
