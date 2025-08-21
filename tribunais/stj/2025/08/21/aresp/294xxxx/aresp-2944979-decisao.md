@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por ESTADO DE MATO GROSSO DO SUL, desafiando decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, que não admitiu recurso especial com base nos seguintes fundamentos: (i) incidência das Súmulas 282/STF e 211/STJ; (ii) incidência da Súmula 83/STJ; (iii) prejudicado o recurso na parte em que interposto pela alínea c do permissivo constitucional.
+Nas razões do agravo, a parte agravante alega, em síntese, que: (i) "os embargos de declaração foram corretamente opostos com o objetivo de suprir eventual omissão quanto à matéria debatida, cumprindo sua função processual. Portanto, não se pode falar em ofensa à Súmula 211 do STJ, visto que a questão foi devidamente prequestionada e debatida desde o recurso de apelação, com a subsequente oposição dos embargos de declaração para fins de esclarecimento e complementação" (fl. 400); (ii) "Quanto à invocação do óbice da Súmula nº 83 do STJ pela decisão agravada, sob o argumento de que o acórdão recorrido decidiu conforme entendimento do Superior Tribunal de Justiça, colacionando acórdãos inaplicáveis ao caso pelas razões a seguir apresentadas. Os acórdãos colacionados não se amoldam ao presente caso em virtude de que o objeto da presente ação não se trata de acesso à saúde, mas sim de reparação de danos supostamente causados em razão de falha na prestação do serviço de saúde" (fl. 400).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões de agravo, a parte agravante deixou de rebater, de modo específico, a incidência da Súmula 282/STF e a prejudicialidade do recurso na parte em que interposto pela divergência jurisprudencial.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
