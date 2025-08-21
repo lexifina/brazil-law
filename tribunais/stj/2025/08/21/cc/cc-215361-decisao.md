@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA DE SERRA TALHADA - PE suscita conflito de competência, em inquérito policial, diante do JUÍZO FEDERAL DA 27ª VARA DE RECIFE - SJ/PE.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente (federal ou estadual) para a adoção de eventual medida judicial em investigação deflagada pela prática de furto de fios de cobre de uma Delegacia da Polícia Federal desativada.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 27ª Vara de Recife - SJ/PE, ora suscitado (fls. 52-56).
+Decido.
+De início, registro que a competência federal somente ocorre quando há efetivo interesse da União ou de suas autarquias. Deveras, "a competência da Justiça Federal para julgamento de infrações penais, nos termos do art. 109, IV, da Constituição Federal, está configurada quando a conduta criminosa afeta bens, serviços ou interesses da União, de suas entidades autárquicas ou empresas públicas" (CC n. 137.797/MG, relator Ministro Sebastião Reis Júnior, DJe 24/2/2015).
+No particular, como pontuado pelo Juízo suscitante, o imóvel objeto de furto dos fios de cobre "serviu como sede de uma Delegacia de Polícia Federal é, por sua natureza, um bem de uso especial" e, portanto,  u ma vez desativado para tal finalidade, ele não se torna res nullius (coisa de ninguém) nem perde sua titularidade pública" (fl. 10). Vale dizer " a  condição de "desabitado e sem funcionamento"  ..  apenas altera a classificação do bem público, mas em nada afeta sua titularidade. Ele continua sendo um bem da União" (fl. 10, destaquei ).
+Estou, portanto, de acordo com o Ministério Público Federal, quando assinalou que os "bens imóveis da União de uso especial desabitados são aqueles que, embora destinados a serviços ou estabelecimentos da administração pública, não estão atualmente em uso e podem estar desocupados ou abandonados. Todavia, tais bens continuam sendo de uso especial enquanto mantêm sua destinação pública" (fl. 56).
+E ainda: " a s informações constantes dos autos dão conta de que o bem "está "atualmente vinculado ao SPU" (Secretaria do Patrimônio da União)" (fl. 10), não havendo dúvidas, assim, da competência da Justiça Federal para processar e julgar os fatos apurados no inquérito policial" (fl. 56).
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 27ª Vara de Recife - SJ/PE, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
