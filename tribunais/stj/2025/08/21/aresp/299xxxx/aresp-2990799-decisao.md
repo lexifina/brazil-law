@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por ILDEU DE OLIVEIRA PINTO contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 5000955-52.2024.4.04.7017 (fls. 167/175).
+Nas razões do especial, alegou a defesa que a decisão do Tribunal local negou vigência dos arts. 44, caput, § 2º e § 3º, e 334-A do Código Penal e dos arts. 315, § 2º, I, II e III, 381, III, 386, III, 387, II e III, e 564, V, todos do Código de Processo Penal. Requer, assim, o provimento do presente recurso especial, para o efeito de  ..  (i) aplicar-se o princípio da insignificância quanto ao delito de contrabando, reconhecendo-se a atipicidade da conduta do denunciado, e (ii) determinar-se a substituição da pena privativa de liberdade por sanções restritivas de direitos (fl. 189).
+O Tribunal de origem negou seguimento ao recurso especial quanto à matéria tratada no Tema 1.143/STJ e não o admitiu, quanto ao restante (fls. 192/200).
+Daí o presente agravo (fls. 209/232). O Ministério Público Federal apresentou parecer opinando pelo seu desprovimento (fls. 255/260).
+É o relatório.
+O agravo é admissível e deve ser conhecido, porquanto impugna adequadamente os fundamentos da decisão recorrida.
+Todavia, melhor sorte não tem o recurso especial.
+O Tribunal recorrido assim se manifestou quanto à pretensão à substituição da pena privativa de liberdade por restritiva de direitos (fl. 175):
+Por outro lado, o recorrente apresenta maus antecedentes, figurando como réu em várias ações penais relacionadas à prática dos crimes de contrabando/descaminho, como se verifica em sua folha de antecedentes (evento 44, CERTANTCRIM1). Portanto, inviável a substituição da pena corporal por restritivas de direitos, já que a medida não impedirá o apelante de retornar à prática delituosa, não restando preenchido o requisito previsto no art. 44, III, do Código Penal.
+Ao indicar a existência de várias ações penais relacionadas à prática dos crimes de contrabando/descaminho, e o fato de que, nestas circunstâncias, penas restritivas de direitos não seriam o suficiente para impedir que o recorrente volte a delinquir, desincumbiu-se o Tribunal recorrido satisfatoriamente do ônus de fundamentar a sua decisão, não havendo violação do art. 44, III, §§ 2º e 3º, do Código Penal.
+Como referido no parecer ministerial, a decisão recorrida está em conformidade com a jurisprudência desta Corte Superior. Com efeito, os maus antecedentes podem ser validamente utilizados para impedir a substituição da pena privativa de liberdade por penas restritivas de direitos, por não ser socialmente recomendável (AgRg no AREsp n. 2.727.909/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025).
+Na mesma linha: o Tribunal de origem ressaltou que a substituição da pena privativa de liberdade por restritiva de direitos não se revela socialmente recomendável, pois o acusado, além de reincidente, é detentor de maus antecedentes, sendo que os delitos anteriores apresentam uma relação de dependência com o delito de contrabando apurado nestes autos, o que não destoa da jurisprudência desta Corte Superior (AgRg no AREsp n. 2.765.610/SP, de minha relatoria, Sexta Turma, julgado em 11/3/2025, DJEN de 28/3/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial (art. 253, parágrafo único, II, a, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. CONTRABANDO. PRETENSÃO À SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA E EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.
+Agravo conhecido para não conhecer do recurso especial.
