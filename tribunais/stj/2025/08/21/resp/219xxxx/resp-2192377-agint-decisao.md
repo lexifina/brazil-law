@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto contra a decisão que não conheceu do Recurso Especial, fundamentada na aplicação da Súmula n. 518/STJ e, por analogia, da Súmula n. 282/STF, na impossibilidade de apreciação, pelo STJ, da violação ao art. 97 do CTN, por possuir natureza constitucional, e na impossibilidade de se conhecer o Recurso Especial pela alínea c do permissivo constitucional.
+Sustenta a Agravante, em síntese, a inaplicabilidade de tais óbices e a reforma da decisão monocrática para conhecer e prover o recurso especial.
+Aduz que o recurso especial não se insurgiu contra a Instrução Normativa em si, mas contra a interpretação conferida pelo acórdão recorrido aos arts. 3º, I e § 1º, das Leis ns. 10.637/2002 e 10.833/2003, dispositivos de lei federal, cuja aplicação foi afastada ou restringida sem respaldo legal.
+Afirma que o acórdão recorrido analisou expressamente a disciplina da não cumulatividade do PIS e da COFINS prevista nos arts. 3º, I e §1º, das Leis nºs 10.637/2002 e 10.833/2003, reconhecendo a possibilidade de o legislador infraconstitucional estabelecer requisitos para o creditamento. Contudo, conferiu interpretação restritiva à legislação federal ao afastar o direito ao crédito sobre o IPI não recuperável.
+Defende que, em momento algum, foi defendida a inconstitucionalidade do ato infralegal, mas sua ilegalidade diante de normas federais que exigem reserva legal para imposição de obrigações tributárias. Assim, requer-se pelo conhecimento e provimento do recurso especial, diante da ofensa aos arts. 97, II e 99 do CTN.
+Aponta o prequestionamento da matéria relacionada aos arts. 73 e 74 da Lei n. 9.430/1996, de modo a viabilizar o conhecimento do recurso especial.
+No mais, argumenta que, ao não conhecer da divergência, a decisão monocrática inviabiliza a finalidade do art. 105, III, "c", da CF, conferida ao Superior Tribunal de Justiça de uniformização da jurisprudência nacional. Trouxe julgados paradigmáticos do TRF da 3ª e da 5ª Regiões que reconhecem expressamente o direito ao crédito de PIS e COFINS sobre o IPI não recuperável. Tais decisões conferem interpretação distinta à legislação federal indicada, configurando o dissídio jurisprudencial, que deve ser resolvido, nos termos constitucionais.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 429e).
+Feito o breve relato, decido.
+Em juízo de retratação, consoante o disposto no art. 1.021, § 2º, do mesmo diploma normativo, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor a reconsideração, a fim de que o recurso seja, novamente, analisado.
+Há questão jurídica objeto do presente feito que diz respeito à tema afetado como repetitivo, Tema n. 1373/STJ: "Definir se o IPI não recuperável incidente sobre a operação de entrada integra a base de cálculo dos créditos da contribuição ao PIS/Pasep e da Cofins", REsp n. 2198235/CE, REsp n. 2191364/CE, Rel. Min. Mª Maria Thereza de Assis Moura, com determinação de sobrestamento.
+Posto isso, nos termos do art. 1.021, § 2º, do CPC/201 5, torno sem efeito a decisão proferida nesta Corte (fls. 396/410e), restando, por conseguinte, prejudicado o Agravo Interno de fls. 416/423 e e DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos referentes ao Tema acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Prejudicado o exame do recurso especial.
+Publique-se. Intime-se.
+EMENTA
