@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 310):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATOS DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS E CLÁUSULAS ANÁLOGAS. TAXA MÉDIA DO BANCO CENTRAL DO BRASIL OU PERCENTUAL ACIMA COMO DEFINIDOR DE ABUSO OU EXCESSO DO JURO REMUNERATÓRIO. JURISPRUDÊNCIA VINCULANTE, PERSUASIVA E CONSOLIDADA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RELEVÂNCIA DAS CIRCUNSTÂNCIAS PECULIARES DA RELAÇÃO CONTRATUAL DE CADA CASO EM CONCRETO. REAFIRMAÇÃO DA DECISÃO MONOCRÁTICA DO RELATOR. MULTA CONDICIONADORA DA INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO.
+O agravo interno destina-se à revisão do julgado sem razão, porque as questões relacionadas à inexistência de abuso ou excesso nos juros remuneratórios pactuados nos contratos de crédito bancário foram decididas com clareza jurídica, expressão jurídica completa, coerência lógica e correção material.
+A pretensão do agravo interno deixa de se justificar, porque inexistem razões fático-jurídicas para a superação da decisão monocrática proferida pelo Relator, que deu provimento à apelação cível interposta pelo banco demandado para julgar improcedente a pretensão da ação revisional originária.
+Investindo a pretensão recursal contra teses jurídicas vinculantes, persuasivas e consolidadas pela jurisprudência do Superior Tribunal de Justiça, o agravo interno é manifestamente improcedente, justificando-se a aplicação de multa legal.
+AGRAVO INTERNO DESPROVIDO, COM MULTA.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 39, V, 51, § 1º, do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Defende a limitação dos juros remuneratórios à taxa média de mercado.
+Requer que seja afastada a multa aplicada em decorrência da interposição do agravo de instrumento.
+Contrarrazões apresentadas, pugnando pela incidência das Súmulas 5, 7 e 211 do STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Na hipótese, com relação ao pedido para limitação dos juros remuneratórios, o Tribunal de origem negou seguimento ao recurso especial, com fundamento no artigo 1.030, inciso I, do Código de Processo Civil, em razão da aplicação dos Temas 24, 27, 28 e 29 desta Corte; e, quanto à pretensão de revogação da pena de multa, não admitiu o recurso, em razão dos óbices das Súmulas 7 e 83 do STJ (fls. 459/461).
+Registro que, no tocante à negativa de seguimento do recurso especial, com fundamento no artigo 1.030, inciso I, do CPC, caberia à parte interpor o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do Código de Processo Civil, uma vez que o Tribunal local, em juízo negativo de admissibilidade, negou seguimento ao Recurso Especial, tendo em vista que o capítulo da decisão estava em consonância com o entendimento desta Corte, firmado sob a sistemática de recurso repetitivo.
+Com efeito, além de a parte recorrente não interpor, nos termos do art. 1.030, § 2º, do CPC, o recurso de agravo interno ao capítulo da decisão que aplicou tese definida em recurso repetitivo, apresentou agravo em face da decisão de admissibilidade sem combater especificamente os fundamentos da decisão agravada.
+Em suas razões de recurso, a parte agravante apenas trouxe a questão dos juros remuneratórios e não impugnou especificamente os fundamentos da decisão agravada, pois não rebateu a incidência do óbice da Súmula 7/STJ.
+Registre-se que a impugnação da decisão agravada há de ser específica, de modo que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal; bem como eventual concessão dos benefícios da Justiça gratuita.
+Intimem-se.
+EMENTA
