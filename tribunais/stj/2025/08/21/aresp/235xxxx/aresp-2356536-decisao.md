@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual UNIMED DE PRES PRUDENTE COOPERATIVA DE TRABALHO MEDICO e se insurgira contra o acórdão do Tribunal Regional Federal da 3ª Região assim ementado (fls. 179-203):
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO. ART. 1.021, CPC. AGRAVO DE INSTRUMENTO. PARCELAMENTO (PRD). REDUÇÃO DE MULTA E JUROS SOBRE OS DEPÓSITOS JUDICIAIS. IMPOSSIBILIDADE. ARTIGO 4º DA LEI Nº 13.494/2017. AGRAVO DESPROVIDO.
+1. A decisão ora agravada, prolatada em consonância com o permissivo legal, encontra-se supedaneada em jurisprudência consolidada do C. Superior Tribunal de Justiça e desta Corte, inclusive quanto aos pontos impugnados no presente recurso.
+2. A questão vertida nos presentes autos refere-se à possibilidade de se usufruir dos benefícios de redução de multa e juros oferecidos pelo Programa de Regularização de Débitos não Tributários (PRD) sobre os valores referentes aos depósitos judiciais efetuados pelo contribuinte, afastando o contido no artigo 4º da Lei nº 13.494/2017.
+3. Com efeito, o Programa de Parcelamento constitui uma faculdade instituída em favor do sujeito passivo da obrigação tributária, podendo a ele aderir ou não, devendo, se aderir, observar os requisitos e condições estipuladas na legislação de regência.
+4. Nos termos do art. 155-A do CTN, o parcelamento deve ser concedido conforme as condições estabelecidas em lei específica, podendo o legislador determinar os requisitos que entender necessário para a referida concessão, descabendo qualquer ingerência do sujeito passivo da obrigação tributária - ou do Judiciário, sob pena de afronta a separação de poderes - nas cláusulas do favor concedido.
+5. O art. 4º da Lei 13.494/17 dispõe que eventuais depósitos vinculados àqueles débitos serão automaticamente transformados em pagamento definitivo ou convertidos em renda da União Federal e que somente após esta fase e restando créditos tributários a serem liquidados, poderá o contribuinte promover a quitação na forma do PRD, tendo indicado a possibilidade do contribuinte, após promovida a conversão ou transformação, promover o levantamento de eventual saldo credor, desde que inexistam débitos exigíveis, sendo que adotar posição diversa seria dar interpretação extensiva à normativa de um benefício fiscal, afrontando-se o disposto no art. 111 do CTN. Precedentes.
+6. As razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando à rediscussão da matéria nele contida.
+7. Agravo interno desprovido.
+A parte agravante requer o provimento de seu recurso.
+A parte adversa não apresentou contraminuta.
+É o relatório.
+Da irresignação não é possível conhecer porque a parte agravante não refutou adequadamente a decisão agravada.
+O recurso especial não foi admitido porque o acórdão recorrido estaria alinhado a entendimento do Superior Tribunal de Justiça (STJ) de que, "para os devedores que depositaram em juízo o montante dos tributos elegíveis ao Programa Especial de Regularização Tributária - PERT, os descontos legais se aplicam depois da transformação dos depósitos em pagamento definitivo ou conversão em renda, por expressa determinação legal, recaindo apenas sobre o eventual saldo remanescente" (fl. 288).
+Na ocasião, foi aplicado o enunciado 83 da Súmula deste Tribunal.
+Em seu agravo em recurso especial, a parte não trouxe argumentação idônea a indicar que o óbice em questão teria sido mal aplicado pela instância ordinária, pois limitou-se a apresentar decisões monocráticas anteriores aos acórdãos aos quais se remeteu o órgão julgador de origem, sem comparação ou distinção.
+O Superior Tribunal de Justiça possui o entendimento de que, inadmitido o recurso especial em razão de divergência entre a pretensão recursal e sua jurisprudência, a parte recorrente deve, obrigatoriamente, apresentar julgados deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão de admissibilidade, realizando o cotejo analítico entre eles. Ou, a depender do caso, pode ainda demonstrar que a questão tratada no processo em nada se assemelha àquelas citadas na decisão agravada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS. JUROS REMUNERATÓRIOS E MORATÓRIOS. IMPUTAÇÃO DE PAGAMENTO. INADMISSÃO COM FUNDAMENTO NA SÚMULA 83 DO STJ. AUSÊNCIA DE INDICAÇÃO DE PRECEDENTE CONTEMPORÂNEO OU POSTERIOR. NECESSIDADE DE REEXAME PROBATÓRIO. INADMISSIBILIDADE.
+ ..
+2. Na hipótese em que o recurso especial não é admitido com apoio na Súmula 83 do STJ, na impugnação recursal, devem-se apontar julgados deste Tribunal Superior contemporâneos ou supervenientes em sentido contrário aos precedentes indicados na decisão de inadmissão, ou indicar a distinção entre os casos julgados. Precedentes.
+3. No caso dos autos, o julgado da Segunda Turma invocado para a inadmissão do especial externa que "a parcela referente aos juros remuneratórios reflexos, inconfundível com os juros moratórios, compõe o principal do débito exequendo, de modo a ensejar, na imputação de pagamento, a aplicação do art. 354 do CC/2002" (REsp n. 1.810.639/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/6/2020, DJe de 18/9/2020), mas a parte recorrente não aponta nenhum precedente que, tratando da mesma situação fático-jurídica, tenha chegado à outra conclusão.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.336.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+No mesmo sentido, entre outros: AgInt nos EDcl no AREsp 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023; AgInt no AREsp 2.190.005/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023; AgInt nos EDcl no AREsp 2.271.129/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; e AgInt no AREsp 1.902.574/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022.
+Nesse contexto, em razão de o agravo não superar o juízo de admissibilidade, incide no presente caso, a impedir seu conhecimento, o óbice da Súmula 182/STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
