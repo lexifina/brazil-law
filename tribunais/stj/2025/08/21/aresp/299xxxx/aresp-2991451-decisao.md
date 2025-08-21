@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREFISA S.A. -CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+A agravante alega que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná em apelação nos autos de ação revisional de contrato bancário.
+O julgado foi assim ementado (fls. 426-427):
+DIREITO BANCÁRIO. APELAÇÃO CÍVEL. AÇÃO REVISIONAL JULGADA PROCEDENTE. TAXA DE JUROS QUE SE REVELAM ABUSIVAS NO CASO CONCRETO. SENTENÇA INTEGRALMENTE MANTIDA.
+I. CASO EM EXAME
+1. Trata-se de recurso de Apelação Cível interposto em face de Sentença que determinou a limitação dos juros remuneratórios pactuados em contratos bancários e, sucessivamente, condenou a instituição financeira recorrente à repetição do indébito.
+II. QUESTÃO EM DISCUSSÃO
+2. Há quatro questões em discussão: (i) saber se houve cerceamento do direito de defesa pelo julgamento antecipado da lide; (ii) saber se a sentença está devidamente fundamentada; (iii) saber se a petição inicial é ou não inepta; (iv) saber se as taxas de juros cobradas pela instituição financeira estão adequadas em relação às práticas do mercado, à jurisprudência das cortes pátrias e à situação do caso concreto.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça orienta que a fundamentação sucinta não se confunde com ausência de fundamentação. No caso concreto, em sendo expostos os fundamentos de fato e de direito que levaram o magistrado singular a julgar o feito pela procedência dos pedidos autorais, não há que se falar em vício de fundamentação da decisão definitiva.
+4. Para solução dos pontos controvertidos, mais especificamente da cobrança indevida de juros remuneratórios, basta prova documental, o que atrai a incidência do art. 355, inc. I, do CPC, inexistindo cerceamento do direito de defesa pelo julgamento antecipado da lide.
+5. A parte autora controverteu especificamente a cláusula de juros remuneratórios disposta no Contrato de Empréstimo Pessoal, não havendo que se falar em inépcia da petição inicial.
+6. Observa-se que percentuais definidos pelo Banco Central para a aplicação de taxa de juros são de grande relevância para aferir a abusividade, ou não, do percentual cobrado pela instituição financeira contratante, inexistindo outros elementos no caso concreto que possibilitem afastar sua aplicação. Considerando os critérios estabelecidos pelo Superior Tribunal de Justiça e a prática reiterada da 14ª Câmara Cível desta Egrégia Corte, verifica-se que os contratos analisados contêm juros que superam, e muito, duas vezes o percentual médio observado para o período da contratação. Desse modo, resta caracterizada a abusividade já constatada pelo magistrado sentenciante.
+IV. DISPOSITIVO E TESE
+7. Sentença mantida. Recurso de Apelação Cível conhecido e não provido.
+Tese de julgamento: "A estipulação de juros remuneratórios excessivamente superiores à taxa média mercadológica divulgada pelo Banco Central do Brasil configura abusividade, ". autorizando-se a limitação dos juros estabelecidos contratualmente
+_________
+Dispositivos relevantes citados: CF/88, artigo 93, IX; CPC/2015, arts. 355, I, 370, parágrafo único e 85, §11º; CC/02, art. 205.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.903.083/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4 /2023; STJ, AgInt no AREsp n. 2.249.809/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/4/2023, DJe de 26/4/2023; STJ REsp 1.061.530-RS, Segunda Seção, Rel.: Ministra Nancy Andrighi, DJ: 25/11/2009.
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 355, I, 369 e 370 do CPC, porque houve cerceamento de defesa ao não se permitir a produção de prova pericial para demonstrar o perfil de risco do cliente, tendo em vista as particularidades da operação de crédito concedido à parte autora; e
+b) 421 do Código Civil, 927 do Código de Processo Civil e 51, IV, do Código de Defesa do Consumidor, visto que a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto.
+Sustenta que o Tribunal de origem contrariou o entendimento do Superior Tribunal de Justiça ao decidir pela limitação dos juros remuneratórios com base na taxa média de mercado, sem considerar as peculiaridades do caso concreto, conforme entendimento consolidado no REsp n. 1.061.530/RS.
+Requer o provimento do recurso para que se afaste a limitação dos juros remuneratórios e se restabeleça a taxa ajustada pelas partes no contrato de empréstimo, bem como se determine a realização de prova pericial contábil para verificar a abusividade da taxa de juros.
+Contrarrazões foram apresentadas à fl. 475.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito a ação de revisão de contrato bancário em que o valor da causa foi fixado em R$ 3.725,88.
+A controvérsia está assentada na forma de aferição da abusividade dos juros remuneratórios .
+I - Arts. 355, I, 369 e 370 do CPC
+A agravante afirma que houve cerceamento de defesa ao não se permitir a produção de prova pericial para demonstrar o perfil de risco do cliente, tendo em vista as particularidades da operação de crédito concedido à parte autora.
+A Corte estadual concluiu que as alegações controvertidas nos presentes autos encontram-se amparadas apenas pela prova documental, não tendo a prova pericial o condão de trazer esclarecimentos relevantes para seu deslinde. Deveria, portanto, a instituição financeira, quando da apresentação da defesa, ter demonstrado cabalmente que, para a incidência da taxa de juros nesse patamar, tivesse se valido, no caso em concreto, de análise objetiva de risco de crédito da operação e do perfil do tomador. Observe-se (fl. 429):
+Nos autos, para solução dos pontos controvertidos, mais especificamente da cobrança indevida de juros remuneratórios, basta prova documental, o que atrai a incidência do art. 355, inc. I, do CPC.
+Ressalte-se, ademais, que a sentença considerou suficientes os elementos constantes dos autos para o julgamento do feito, de modo que não se trata de improcedência da ação por ausência de provas.
+Nessa linha, considerando que este é o momento processual oportuno para a parte arguir eventual cerceamento de defesa em razão do julgamento antecipado do feito e que, no caso específico dos autos, não há necessidade de produção de outras provas senão aquelas já constantes dos autos, não há falar em violação à ampla defesa e ao contraditório, tampouco cerceamento de defesa.
+Sendo assim, rejeita-se a preliminar de cerceamento do direito de defesa.
+Assim, para alterar o entendimento do aresto impugnado sobre a suficiência dos documentos juntados aos autos para esclarecimento das questões fáticas, seria imprescindível a incursão no acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ. A propósito: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+II - Arts. 421 do CC, 927 do CPC e 51, IV, do CDC
+No recurso especial, a parte agravante alega que a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto. Afirma que o Tribunal de origem utilizou a taxa média de mercado como único parâmetro para aferir a abusividade dos juros remuneratórios, sem considerar as peculiaridades do caso concreto, contrariando a jurisprudência do STJ.
+Considerando o entendimento firmado no julgamento do Recurso Especial n. 1.061.530/RS, as Turmas da Segunda Seção do STJ já esclareceram que a limitação da taxa de juros, com base apenas no fato de estar acima da taxa média de mercado, não encontra respaldo na jurisprudência desta Corte, uma vez que devem ser observados diversos fatores para a revisão da taxa de juros, tais como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+A Corte de origem, soberana na análise do arcabouço fático-probatório dos autos, não se limitou a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen.
+Além disso, caberia à parte ré o ônus de demonstrar a ocorrência de fatos modificativos, impeditivos ou extintivos do direito da parte autora. A propósito: AgInt no AREsp n. 2.391.820/GO, de minha relatoria, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.
+Assim, adotando a jurisprudência do STJ, o Tribunal de origem concluiu pela abusividade dos juros remuneratórios previstos contratualmente, considerando a análise das peculiaridades do caso concreto, razão pela qual os limitou à taxa média de mercado estabelecida pelo Bacen.
+É caso, pois, de aplicação da Súmula n. 83 do STJ.
+Ademais, para decidir em sentido contrário e verificar os fatores acima apontados acerca das peculiaridades do caso concreto quanto aos juros pactuados, seria necessário reexaminar o instrumento contratual e o conjunto fático-probatório dos autos, procedimento vedado na via do recurso especial (Súmulas n. 5 e 7 do STJ). Nesse sentido: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+III - Divergência jurisprudencial
+Quanto ao apontado dissídio, ressalte-se que a incidência das Súmulas n. 5, 7 e 83 do STJ no tocante à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recur so especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora agravante, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
