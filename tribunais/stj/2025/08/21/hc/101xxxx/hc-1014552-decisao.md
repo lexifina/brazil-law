@@ -1,0 +1,32 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar para a concessão de livramento condicional, impetrado em favor de Milton Aparecido da Silva, alega-se coação ilegal em relação ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+O paciente teve indeferido seu pedido de livramento condicional, sob o fundamento de que, embora ostente bom comportamento carcerário e já tenha cumprido mais de 90% da pena, possui histórico prisional desfavorável, com registro de três faltas disciplinares graves e longa evasão do sistema prisional por treze anos. Em razão desses antecedentes, o juízo da execução considerou ausente o requisito subjetivo necessário à concessão do benefício.
+A petição expõe a ocorrência de constrangimento ilegal, sustentando que a negativa do benefício baseou-se em interpretação equivocada do Tema 1161 do egrégio Superior Tribunal de Justiça, o qual não autoriza a denegação automática do livramento condicional com base exclusiva em eventos pretéritos. Argumenta que o paciente demonstra estar ressocializado, cumpre pena em regime semiaberto, participa regularmente das saídas temporárias e retorna sem intercorrências, o que evidencia o preenchimento dos requisitos legais objetivos e subjetivos.
+A defesa destaca que o acórdão impugnado incorre em ilegalidade ao afastar o direito do paciente com base em fatos antigos, sem considerar a atual conduta carcerária e os avanços no processo de reintegração social. Sustenta que não se pode eternamente penalizar o apenado por seu passado, sobretudo quando demonstrada sua evolução pessoal e o cumprimento regular da execução penal.
+Assim, o pedido especifica-se na concessão da ordem para que seja deferido o livramento condicional em favor do paciente, com a consequente expedição do competente alvará de soltura, por estarem preenchidos os requisitos legais exigidos.
+A medida liminar foi indeferida e, após o recebimento das informações, o Ministério Público Federal manifestou-se pela denegação da ordem de habeas corpus, nos termos da seguinte ementa (e-STJ, fl. 53):
+EMENTA: EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO, DADO O HISTÓRICO CRIMINAL DO APENADO. TEMA REPETITIVO N. 1161.
+- Parecer pela denegação da ordem de habeas corpus.
+É o relatório. Decido.
+A Constituição da República assegura no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Acerca das questões aqui trazidas, o Tribunal de origem manifestou-se nos seguintes termos (e-STJ, fls. 29-30):
+ ..
+Cuida-se de reeducando que cumpre as penas 47 anos, 07 meses e 09 dias, no regime semiaberto, com data de vencimento prevista para o dia 29 de setembro de 2050 (fls. 16, sem considerar o tempo máximo de cárcere), pela prática de crimes de roubo, furto e homicídio, por repetidas vezes (fls. 20/21).
+Ostenta bom comportamento carcerário (fls. 15); contudo, múltiplos elementos desaconselham o amplo benefício que ora persegue.
+Como premissa, traz-se à baila o tema repetitivo de número 1161, do e. STJ, que traz a seguinte tese:
+"A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+Desse modo, o exame do requisito subjetivo não se vê adstrito a critério com o perdão do jogo de palavras objetivo (a reabilitação de condutas faltosas pelo decurso do tempo). O d. Juízo há de sopesar, com a devida cautela, a ótica e o fim último do sistema progressivo com a amplitude do livramento condicional e histórico do reeducando de um modo geral.
+Mero exame da reabilitação da conduta faltosa, dissociado da mais detida análise dos múltiplos elementos que influem na demonstração do mérito do apenado, é insuficiente para que a execução possa atingir suas funções.
+In casu, o ora agravante carrega 03 faltas disciplinares de natureza grave, sendo uma delas dano e outra, tentativa de fuga com danos ao patrimônio público (fls. 21). Outrossim, e como bem sopesado pela d. Procuradoria de Justiça, o recorrente evadiu-se do sistema prisional em 1990, permanecendo foragido por treze anos (fls. 18).
+Nota-se, com isso, que seu histórico prisional demonstra resistência à vigilância estatal, com fugas, bem-sucedidas ou frustradas. Outrossim, como mencionado o agravante permaneceu foragido por longo período, fato que acena para a ineficácia, até então, da terapêutica penal.
+Enfim, de fato não reunia os requisitos exigidos para o gozo do livramento, benefício marcadamente mais amplo.
+Há, assim, elementos concretos e diversos a indicar a inadequação do livramento postulado. Portanto, nada a reparar na r. decisão guerreada.
+Ante o exposto, NEGA-SE PROVIMENTO ao recurso.
+Como se vê, o Tribunal de origem, amparando-se na tese firmada no Tema Repetitivo n. 1.161/STJ, destacou que a aferição do requisito subjetivo para o livramento condicional não se limita ao período de 12 meses previsto no art. 83, III, b, do Código Penal, devendo abranger todo o histórico prisional do apenado.
+No caso, o paciente cumpre pena total de 47 anos, 7 meses e 9 dias, em regime semiaberto, pela prática reiterada dos crimes de roubo, furto e homicídio, com término previsto para 29/9/2050. Embora ostente bom comportamento carcerário recente, registra 3 faltas disciplinares de natureza grave, entre elas dano e tentativa de fuga com prejuízo ao patrimônio público, além de ter se evadido do sistema prisional em 1990, permanecendo foragido por 13 anos.
+Com efeito, a análise da aptidão subjetiva para a concessão do benefício exige mais que a constatação de conduta regular no último ano, impondo-se a apreciação do percurso prisional como um todo e dos elementos concretos que revelem a real capacidade de retorno harmonioso ao convívio social.
+Nesse contexto, a prática de faltas graves, a tentativa de fuga e a evasão prolongada constituem dados objetivos que, longe de configurarem meros episódios pretéritos desprovidos de relevância, indicam resistência à disciplina carcerária e fragilidade no processo de ressocialização, inviabilizando, no presente momento, o juízo positivo de mérito indispensável ao deferimento do livramento condicional.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
