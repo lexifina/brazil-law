@@ -1,0 +1,7 @@
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR
+
+LEI Nº 9.639, DE 21 DE AGOSTO DE 2025.
+
+ALTERA OS §§ 1º-B E 1º-C, DO ART. 1º DA LEI ESTADUAL Nº 5.887, DE 6 DE DEZEMBRO DE 1996.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
