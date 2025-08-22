@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial (fls. 694-705) interposto por EGLES COSTA DUTRA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu o recurso especial dirigido em oposição ao acórdão prolatado na Apelação Cível n. 5002626-30.2021.4.04.7110 (fls. 612-625), assim ementado:
+AÇÃO ANULATÓRIA. IBAMA. PESCA. EMBARCAÇÃO COM MEDIDAS SUPERIORES À PERMITIDA PARA O ESTUÁRIO. AUTUAÇÃO MANTIDA. VEÍCULO NECESSÁRIO À ATIVIDADE. IMPENHORABILIDADE. DESCABIMENTO. ALEGAÇÃO DE AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AFASTADAS.
+1. Veja-se que " a  repetição de argumentos lançados pelas partes na petição inicial ou na contestação não implica, isoladamente, ausência de dialeticidade do recurso, desde que as razões apresentadas sejam suficientes para contrapor os fundamentos adotados na sentença" (TRF4, AC 5030583-84.2017.4.04.7000, QUARTA TURMA, Relator VICTOR LUIZ DOS SANTOS LAUS, juntado aos autos em 25/07/2022).
+2. Por mais que a matéria tenha sido suscitada diretamente nesta Instância, o STJ reconhece que "as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias. Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno" (AgInt no R Esp n. 2.101.852/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/6/2024, D Je de 24/6/2024.)
+3. No caso, tanto a autuação como a lavratura do auto de infração foram promovidas na mesma ocasião, logo, não há se falar em prescrição da pretensão punitiva.
+4. A controvérsia cinge-se às dimensões da embarcação, pois se encontrariam acima dos limite de 12m (doze metros) para pesca no Estuário da Lagoa dos Patos/RS, nos termos do art. 3º, inc. IV, da Instrução Normativa Conjunta MMA/SEAP n. 3/2004.
+5. Indemonstrada a nulidade do auto de infração, vez que não demonstradas provas a infirmar a higidez do auto de infração.
+6. A escolha da penalidade aplicável é atividade administrativa enquadrada no âmbito do poder discricionário da autoridade fiscalizadora. - Tendo a autuação ocorrido de acordo com as determinações legais e em observância aos princípios norteadores da atividade administrativa, correta a aplicação da multa.
+7. Descabe a intervenção do Poder Judiciário no exame da conveniência e oportunidade da escolha da sanção aplicada (mérito do ato administrativo), salvo quando evidenciada ilegalidade ou notória falta de razoabilidade ou proporcionalidade.
+8. O valor da multa está dentro dos limites estabelecidos pelo Decreto 6.514/2008, art. 35: " m ulta de R$ 700,00 (setecentos reais) a R$ 100.000,00 (cem mil reais)", levando em conta as circunstâncias do caso concreto, por exemplo a primariedade do autuado e a lesividade ao meio ambiente. Fixada a multa em R$ 20.000,00 (vinte mil reais), majorada em 50% por existir "agravante, qual seja o abuso do direito de licença de pescador, levando ao valor final de R$ 30.000,00 (trinta mil reais)". Desta forma não ocorreu aplicação da pena fora dos limites legais ou de forma desproporcional.
+9. Tratando-se de pescador artesanal, o veículo do autuado/autor (reboque) não se encontra como um bem essencial para o desenvolvimento da sua atividade profissional, mas sim um mero facilitador, logo, não há falar em impenhorabilidade nos termos do inc. V do art. 833 do CPC/2015.
+Nas razões do apelo nobre (fls. 632-663), fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega a nulidade do auto de infração em razão da ausência de advertência prévia para sanar as irregularidades apontadas, em afronta ao art. 72, § 3º, inciso I, da Lei n. 9.605/98.
+Sustenta, ainda, que a autoridade administrativa desconsiderou sua situação econômica na fixação do valor da multa, em violação do art. 6º, inciso III, do mesmo diploma legal, bem como deixou de aplicar a atenuante prevista no art. 14, inciso I, que contempla o baixo grau de instrução ou escolaridade do agente.
+Apresentadas contrarrazões ao recurso especial (fls. 668-681).
+O Tribunal de origem não admitiu o recurso especial (fls. 684-686), sob o fundamento de que a revisão da conclusão adotada pelo órgão colegiado demandaria o reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+É o relatório.
+Decido.
+O agravo em recurso especial não comporta conhecimento.
+Verifico que a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, limitando-se a aduzir que a questão é estritamente de direito e a transcrever trecho do recurso especial (fl. 704), sem efetivamente cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes. A propósito:
+ ..
+Para afastar o óbice do Enunciado 7 da Súmula do STJ, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a eles.
+(AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+ ..
+A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021). Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Assim, no agravo em recurso especial, não houve adequada observância ao princípio da dialeticidade (art. 932, inciso III, CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários advocatícios, por se tratar de acórdão proferido em agravo de instrumento na origem.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. AUTO DE INFRAÇÃO AMBIENTAL. PESCA EM EMBARCAÇÃO ACIMA DO LIMITE LEGAL. IBAMA. INADMISSÃO DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
