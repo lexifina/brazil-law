@@ -1,0 +1,30 @@
+DECISÃO
+Em atendimento à decisão de fls. 293-294, foram expedidas as requisições de pagamento para os substituídos que não aderiram ao acordo celebrado entre o Sindicato e a UNIÃO, exceto em relação a MARIA DELCY DA SILVA PINHEIRO e MARIA DO CARMO DA SILVA RAMOS, por divergência de nome (fls. 314 e 315).
+Intimada a regularizar a situação, a parte exequente deixou transcorrer o prazo sem manifestação. Diante disso, a decisão de fls. 317-318, publicada em 23/10/2019, determinou o arquivamento dos autos, com a ressalva de que poderiam ser reativados caso fosse apresentada a documentação necessária no prazo legal.
+Na sequência, em petição protocolada em 21/11/2024 (fls. 335-343), o Sindicato exequente informou interesse no prosseguimento do feito e requereu a juntada de documento para comprovar a retificação do nome de MARIA DO CARMO DA SILVA RAMOS em decorrência de casamento.
+Intimadas acerca da possível ocorrência de prescrição intercorrente relativamente à referida substituída, as partes manifestaram-se às fls. 350-352 e 353-356.
+O Sindicato defendeu que a decisão de fls. 317-318 consignou a necessidade de apresentação de documentação para justificar a divergência de nomes, "permitindo o arquivamento do feito com a possibilidade de reativação a qualquer tempo, desde que cumprida a exigência documental". Acrescentou que o prazo prescricional somente poderia ser contado a partir do momento em que cessou o motivo justificante do arquivamento. Ao final, pediu o reconhecimento da inexistência de prescrição intercorrente, com o regular prosseguimento do feito e a expedição da requisição de pagamento.
+A UNIÃO (fls. 353-356), por sua vez, entendeu pela ocorrência de prescrição ao caso concreto.
+É o relatório. Decido.
+Assiste razão à UNIÃO quanto à consumação da prescrição intercorrente, porquanto não foram adotadas em tempo hábil as medidas necessárias ao esclarecimento da divergência de nome em relação a MARIA DO CARMO DA SILVA RAMOS.
+Com efeito, a inércia do exequente se verificou a partir da decisão que determinara o arquivamento da execução, publicada em 23/10/2019 (fls. 317-318 e 319), por não ter praticado, a tempo e modo, os atos necessários e efetivos ao regular prosseguimento do feito.
+Ao contrário do que faz crer o Sindicato exequente, referida decisão não permitiu a reativação dos autos a qualquer tempo, mas a condicionou à apresentação da documentação necessária no prazo legal, o que não ocorreu.
+Para verificar a ocorrência ou não da prescrição intercorrente , é necessária uma interpretação sistemática do art. 9º do Decreto n. 20.910/1932, em conjunto com o enunciado das Súmulas n. 150 e n. 383 do Supremo Tribunal Federal, abaixo transcritos:
+Decreto n. 20.910/1932:
+Art. 9º A prescrição interrompida recomeça a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo.
+Súmula n. 150/STF:
+Prescreve a execução no mesmo prazo de prescrição da ação.
+Súmula n. 150/STF:
+A prescrição em favor da Fazenda Pública recomeça a correr, por dois anos e meio, a partir do ato interruptivo, mas não fica reduzida aquém de cinco anos, embora o titular do direito a interrompa durante a primeira metade do prazo.
+Nesse contexto, o prazo prescricional para promover a execução contra a Fazenda Pública é de cinco anos, contados a partir do trânsito em julgado da sentença (ocorrido em 27/10/2005). No entanto, a propositura da execução (ocorrida em 21/08/2006) interrompe esse prazo, que volta a correr pela metade - ou seja, dois anos e meio - a partir do último ato processual da causa interruptiva, sem prejuízo do prazo mínimo de cinco anos. Sobre o tema, confira-se:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO. ATO INTERRUPTIVO. EXECUÇÃO COLETIVA AJUIZADA PELO SINDICATO. PRAZO QUE COMEÇA A CORRER PELA METADE. SÚMULA 383/STF.
+1. Em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento.
+Todavia, o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos.
+2. Hipótese em que a presente ação encontra-se prescrita, porquanto decorridos mais de dois anos e meio entre o último ato processual da causa interruptiva e a propositura da ação executiva individual.
+3. Observa-se que, in casu, a prescrição pela metade, a teor do disposto no art. 9º do Decreto 20.910/32, conduziria a aplicação de um prazo prescricional menor que o previsto no art. 1º do mesmo decreto, o que impõe a observância dos preceitos contidos na Súmula 383/STF. Contudo, mesmo aplicando tal entendimento, a prescrição estaria caracterizada, porquanto decorridos mais de cinco anos entre o trânsito em julgado da ação de conhecimento e a propositura da execução individual.
+Embargos de divergência providos.
+(EREsp n. 1.121.138/RS, relator Ministro Humberto Martins, Corte Especial, julgado em 15/5/2019, DJe de 18/6/2019.)
+No caso concreto, a interrupção da prescrição ocorreu após o transcurso de quase 10 meses desde o trânsito em julgado da ação de conhecimento. Com o arquivamento dos autos em 23/10/2019, o prazo voltou a correr, restando aproximadamente 4 anos e 2 meses para o sindicato impulsionar o feito antes do decurso do prazo prescricional quinquenal. Entretanto, o esclarecimento acerca da divergência de nome de MARIA DO CARMO DA SILVA RAMOS ocorreu tão somente em 21/11/2024 (fls. 335-343), vale dizer, após mais de 5 anos.
+Ante o exposto, reconheço a ocorrência da prescrição intercorrente, sem ônus para as partes, com fundament o no art. 921, § 5º, do CPC, e julgo extinta a execução em relação à substituída MARIA DO CARMO DA SILVA RAMOS, com resolução de mérito, nos termos do art. 487, II, do CPC.
+Publique-se. Intimem-se.
+EMENTA
