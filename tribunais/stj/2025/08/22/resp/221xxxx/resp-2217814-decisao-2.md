@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por Natan de Borba Valentim com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Sana Catarina que negou provimento ao apelo defensivo e deu provimento ao recuso ministerial para condenar o recorrente à pena de 3 anos de reclusão, pelo cometimento do crime do art. 16, § 1º, IV, da Lei n. 10.826/2003. Em razão do concurso material com a condenação pelo crime de tráfico de drogas, sua pena totalizou 6 anos e 4 meses de reclusão, fixado o regime semiaberto.
+A defesa aponta a violação dos arts. 33, § 4º, da Lei n. 11.343/2006, 17 do CP, 15 e 489, § 1º, I, II e II, do CPP e 16, § 1º, da Lei n. 10.826/2003. Sustenta as seguintes teses: i) ausência de provas de que o recorrente se dedica à traficância e ii) crime impossível em relação à arma apreendida e constata por perícia sua inaptidão.
+Contrarrazões às e-STJ fls. 1.325/1.332.
+O recurso foi admitido na origem (e-STJ fls. 1.335/1.337).
+Manifestação do Ministério Público Federal pelo não provimento do recurso (e-STJ fls. 1.402/1.415).
+É o relatório. Decido.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 6 anos e 4 meses de reclusão, em regime semiaberto, pelo cometimento dos crimes dos arts. 16, § 1º, IV, da Lei n. 10.826/2003 e 33 da Lei n. 11.343/2006.
+A defesa se insurge contra a não aplicação do redutor do § 4º do art. 33 da Lei de Drogas alegando que não há provas de que o recorrente se dedica à traficância. Sobre o tema, o Tribunal de origem assim se manifestou:
+Com relação ao pedido de aplicação da causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei n. 11.343/06 pelo acusado Natan, também não merece acolhida pois, não se vislumbra a satisfação de todos os requisitos legais. Conforme salientou a Juíza a quo, "descabe o reconhecimento da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/06, na medida em que ficou demonstrado que o acusado se dedicava à atividade criminosa, realizando a venda reiterada do nocivo estupefaciente, vicissitude essa que afasta a concessão do beneplácito" (grifou-se) (evento 235 - 1º Grau).
+ ..
+Dessa forma, por dedicar-se à atividade criminosa, o apelante não preenche um dos requisitos para a concessão da benesse.
+Observa-se que, ao contrário do alegado, a minorante não foi aplicada por estar provado que o recorrente praticava reiteradamente a venda do entorpecente, conclusão que não se altera em recurso especial em razão do óbice da Súmula n. 7 do STJ. A propósito: AgRg no HC n. 759.512/MS, relator Ministro João Batista Moreira - Desembargador Convocado do TRF1 -, Quinta Turma, DJe de 13/3/2023.
+Quanto ao segundo tópico, igualmente sem razão a defesa, isso porque não obstante a existência de laudo pericial atestando a inaptidão da arma de fogo, o recorrente também foi condenado pela prática do crime de tráfico de drogas, o que obsta o reconhecimento da insignificância em razão da ausência de potencialidade lesiva do armamento apreendido. Nessa linha:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. POSSE DE ARMA DE FOGO DE USO RESTRITO. ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI N. 10.826/2003. CRIME DE MERA CONDUTA E PERIGO ABSTRATO. LAUDO PERICIAL ATESTANDO A INAPTIDÃO DO REVÓLVER. AGRAVANTE TAMBÉM CONDENADO POR RECEPTAÇÃO. CORRÉUS CONDENADOS POR ROUBO. PECULIARIDADES DO CASO. FUNDAMENTOS
+INATACADOS. SÚMULA 182/STJ.
+1. A ilegalidade apontada não ficou evidenciada dos autos, estando o acórdão impugnado em consonância com o entendimento desta Corte na linha de que o crime previsto no art. 16 da Lei n. 10.826/2003 é de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta. Precedentes.
+2. Contexto extraído dos autos que não se assemelha aos precedentes em que esta Corte já reconheceu a insignificância da conduta em razão da ausência de potencialidade lesiva do armamento apreendido, comprovado por laudo. Caso destes autos em que o ora agravante, além da conduta descrita no art. 16 da Lei de Armas, também foi condenado por receptação, tendo, ainda, corréus condenados como incursos no art. 157, § 2º, I e II, do Código Penal.
+3. Fundamentação específica da decisão agravada, ao destacar as particularidades do caso, que não sofreu nenhuma impugnação na petição de agravo regimental, o que atrai a aplicação do mesmo entendimento consolidado na Súmula 182/STJ: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo regimental improvido. (AgRg no HC n. 420.370/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 14/8/2019.)
+Assim sendo, a pretensão recursal encontra óbice na Súmula n. 83/STJ.
+Ante o exposto, conheço do recurso especial, para negar-lhe provimento.
+Intimem-se.
+EMENTA
