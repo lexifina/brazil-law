@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDACAO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 11/4/2025.
+Concluso ao Gabinete em: 12/6/2025.
+Ação: de reparação de danos, ajuizada por ROBERTO MARCIO MARTINS DE OLIVEIRA em desfavor de EXPRESSO UNIR LTDA e da agravante, denunciada à lide, em virtude de acidente de trânsito ocasionado por ônibus de transporte público coletivo.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta pelo ora agravado, nos termos das seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL - PRELIMINAR - INOVAÇÃO RECURSAL - REJEIÇÃO - AÇÃO DE REPARAÇÃO DE DANOS - ACIDENTE DE TRÂNSITO - COLISÃO ENTRE MOTOCICLETA E ONIBUS - EMPRESA PRESTADORA DE SERVIÇO PÚBLICO - EXCLUDENTES DA RESPONSABILIDADE OBJETIVA - AUSÊNCIA DE COMPROVAÇÃO - DANOS MATERIAIS - LUCROS CESSANTES - LESÕES FÍSICAS - DANOS MORAIS - CONFIGURAÇÃO - DEVER DE INDENIZAR - TERCEIRO NÃO TRANSPORTADO - COBERTURA APENAS PARA DANOS MATERIAIS - SEGURADORA DENUNCIADA À LIDE - CONDENAÇÃO SOLIDÁRIA NOS LIMITES DA APÓLICE CONTRATADA. I- Não tendo sido levantada, somente em apelação, questão que não foi objeto do pedido inicial, mas apenas questões suscitadas e discutidas no processo, não há que se falar em inovação recursal. II- Constatado que o acidente que vitimou o autor envolveu ônibus de propriedade da ré, empresa prestadora de serviço público de transporte de passageiros, não tendo sido comprovada culpa exclusiva nem concorrente da vítima ou qualquer outra excludente, deve a ré responder de forma objetiva pelos prejuízos materiais e morais causados ao autor, nos termos do art.37, §6º da CF. III- Comprovadas as lesões corporais sofridas pelo autor, assim como as despesas médicas tidas para o tratamento das mesmas, e que estas decorreram do acidente causado pelo motorista que conduzia o ônibus da ré, ou seja, o nexo de causalidade entre o fato e os danos, deve ser imposto ao responsável o dever de indenizar a vítima do ilícito, por danos morais e materiais (arts. 186, 187, 927 e 949 CC). IV- A indenização por lucros cessantes visa compensar a vítima pelos prejuízos comprovadamente suportados e advindos da impossibilidade de exercício de seu trabalho, durante o tempo em que perdurar a limitação. V- Contratada, pela ré, a cobertura básica que inclui apenas o dano material a "terceiro não transportado", como é o caso do autor, inexistindo, portanto, contratação de cobertura adicional por danos morais a terceiros não transportados, pode-se concluir, que condenação por danos morais não deve ser objeto de ressarcimento pela Seguradora denunciada à lide. (e-STJ Fl. 730)
+Embargos de declaração: opostos pelo agravado, foram assim acolhidos:
+EMENTA: EMBARGOS DECLARATÓRIOS - OMISSÃO - CONSTATAÇÃO - CORREÇÃO MONETÁRIA E JUROS DE MORA SOBRE VALOR DEVIDO A TÍTULO DE LUCROS CESSANTES - VÍCIO SANADO. - Constada a necessidade de manifestação no acórdão sobre o termo inicial da correção monetária e dos juros de mora sobre o valor devido ao autor a título de lucros cessantes, impõe-se o acolhimento dos embargos para sanar o vício. (e-STJ Fl. 770)
+Embargos de declaração: opostos pela ora agravante e por EXPRESSO UNIR LTDA, foram rejeitados.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial da agravante em razão do seguinte fundamento:
+i) incidência da Súmula 7/STJ, notadamente quanto ao afastamento da multa do art. 1.026, § 2º, do CPC, em harmonia ao entendimento desta Corte.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega, em síntese, que:
+i) é cabível o presente recurso e inaplicável a incidência da Súmula 7/STJ;
+ii) a pretensão do recurso é somente a revaloração das provas dos autos e dos fatos admitidos como provados; e
+iii) houve excesso de condenação quanto aos danos morais arbitrados e error in judicando.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte fundamento:
+i) incidência da Súmula 7/STJ, notadame nte quanto ao afastamento da multa do art. 1.026, § 2º, do CPC, em harmonia ao entendimento desta Corte.
+A agravante, assim, limitou-se a tecer argumentação meramente genérica e não demonstrou, de forma clara e específica, a inaplicabilidade da Súmula 7/STJ, sobretudo quanto à multa aplicada.
+É firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro em 1% os honorários fixados anteriormente à agravante, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
