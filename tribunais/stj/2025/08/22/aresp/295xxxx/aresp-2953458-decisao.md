@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DE SÃO PAULO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. TUTELA DE URGÊNCIA. POSTERIOR CASSAÇÃO. EFEITOS. MULTA. LANÇAMENTO DE OFÍCIO. DESCABIMENTO. I. CASO EM EXAME TRATA DE AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE DECLAROU INTEGRAL O DEPÓSITO FEITO PELA IMPETRANTE SEM INCIDÊNCIA DA MULTA DE MORA. II. A QUESTÃO EM DISCUSSÃO CONSISTE EM SABER SE É POSSÍVEL A IMPOSIÇÃO DE MULTA DURANTE O PERÍODO EM QUE VIGIA A LIMINAR, CONCEDIDA COM O FIM DE SUSPENDER A EXIGIBILIDADE DO CRÉDITO FISCAL. III. RAZÕES DE DECIDIR: SANÇÃO PECUNIÁRIA INDEVIDA, ANTE O RECOLHIMENTO DO TRIBUTO NO PRAZO DE 30 DIAS APÓS A PUBLICAÇÃO DA DECISÃO REVOGADORA DA LIMINAR. EXAME DA JURISPRUDÊNCIA. IV. DISPOSITIVO: RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 63, caput, e § 2º, da Lei n. 9.430/96, no que concerne à inaplicabilidade dessa norma à discussão envolvendo tributo de competência estadual, tendo em vista que não se trata de lei nacional, mas sim federal, a qual é aplicável somente a tributos de competência da União, de modo que não há óbice à incidência da multa de mora, trazendo a seguinte argumentação:
+A lei nacional é aquela que atinge os três entes federados: União, Estados e Municípios. Já a lei federal é aquela que tem aplicação restrita ao âmbito federal, como é o caso paradigmático da lei que incide sobre o funcionário federal e/ou impostos de competência da União. Ambas são de competência do Congresso Nacional e, formalmente, identificam-se. Ocorre, todavia, que não se confudem.
+O v. acórdão proferido pelo Colendo Tribunal a quo merece reforma pois aplicou as disposições de uma LEI FEDERAL (relativo a tributo de competência da União) como se fosse uma LEI NACIONAL.
+A interpretação feita pelo v. acórdão recorrido em dispositivo que possui aplicação restrita aos tributos federais.
+ ..
+Assim, o art. 63, § 2º, da Lei 9430/96, uma vez que diz respeito a tributos da União, não possui aplicação ao ICMS paulista. Com efeito, não há dispositivo semelhante na legislação paulista, de modo que inexiste óbice legal ou jurídico à aplicação da multa, no caso de efetiva ocorrência de infração à legislação tributária (fls. 96-97).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+O provimento judicial atacado ostenta o seguinte teor:
+ ..
+Pois bem. Assiste razão à parte impetrante, referida multa realmente não é devida. Afinal, o contribuinte que decide impugnar judicialmente um tributo e, no bojo da respectiva ação judicial, consegue obter um provimento liminar voltado à suspensão da exigibilidade da exação, poderá, quando cassado tal provimento, recolher os valores devidos dentro de trinta dias, sem qualquer acréscimo sancionador, pois, em tese, não houve mora, por aplicação do artigo 63, § 2.º, da Lei n.º 9.430/96 (aplicável por analogia no âmbito tributário estadual).
+ ..
+E ele deve prevalecer (fl. 60, grifo meu).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ademais, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
