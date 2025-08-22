@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por GUILHERME HENRIQUE GOMES DOS SANTOS, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o recorrente foi condenado à pena de 4 anos e 6 meses de reclusão, em regime inicial semiaberto, bem como ao pagamento de 11 dias-multa, como incurso nas penas do artigo 157, caput, do CP.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação ao art. 59 do CP.
+A Vice-Presidência do Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial (588-591).
+É o relatório. DECIDO.
+O recurso ora em análise não preenche requisito indispensável de admissibilidade recursal.
+Conforme cediço, esta Corte Superior sedimentou entendimento no sentido de que, "em relação ao quantum de aumento na primeira fase da dosimetria, "a análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito." (AgRg no REsp 143.071/AM, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 6/5/2015). Isso significa que não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor" (AgRg no HC 919409 / RN, QUINTA TURMA, de minha relatoria, DJe 16/09/2024).
+Nesta ordem de ideias, as referidas frações da exasperação, comumente adotadas por este Tribunal, "não inviabilizam o aumento da pena-base em frações superiores, desde que haja fundamentação apta e suficiente a justificar o incremento da sanção penal" (AgRg no HC 851.355/RJ, SEXTA TURMA, Rel. Ministra Laurita Vaz, DJe de 02/10/2023).
+Com efeito, é pacífica a orientação de que "a dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, cabendo revisão apenas em casos de flagrante ilegalidade ou desproporcionalidade" (AgRg no REsp 1977793 / SP, QUINTA TURMA, de minha relatoria, DJe 20/12/2024).
+No que toca à pena-base fixada, como bem pontuado pelo órgão ministerial, o delito de roubo deve ser apenado com maior rigor quando acarreta significativo prejuízo às vítimas, não somente de ordem patrimonial, mas sobretudo de caráter afetivo, como na subtração de uma aliança, bem dotado de elevado valor sentimental, circunstância que justifica concretamente o incremento da sanção penal a partir da discricionariedade motivada do julgador.
+Sendo assim, "uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para reduzir a reprimenda-base estabelecida ao acusado" (AgRg no HC 927292 / ES, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+De rigor, portanto, invocar a Súmula nº 83 desta Corte Superior, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Isso porque o recorrente "não demonstrou a inaplicabilidade da Súmula n. 83 do STJ, pois não apresentou precedentes contemporâneos que evidenciassem a desarmonia do julgado com o entendimento jurisprudencial do STJ" (AREsp 2714789 / BA, QUINTA TURMA, de minha relatoria, DJEN 17/02/2025).
+Ante o exposto, não conheço do recurso especial, nos termos do art. 255, § 4º, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
