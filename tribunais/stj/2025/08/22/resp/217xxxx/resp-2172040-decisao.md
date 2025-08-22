@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, inciso III, a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 2ª Região assim ementado (fl. 930):
+DIREITO PREVIDENCIÁRIO. DIREITO PROCESSUAL CIVIL. APELAÇÃO. UNIÃO FEDERAL. SÍNDROME DA TALIDOMIDA. ILEGITIMIDADE PASSIVA DA UNIÃO QUANTO AO PEDIDO DE PENSÃO ESPECIAL DA LEI Nº 7.070/82. LEGITIMIDADE PASSIVA DA UNIÃO QUANTO AO PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS DA LEI Nº 12.190/2010. FORTES INDÍCIOS DE UTILIZAÇÃO DA TALIDOMIDA PELA GENITORA DA APELADA NA GRAVIDEZ. LAUDO PERICIAL JUDICIAL CONCLUSIVO PARA A SÍNDROME DE TALIDOMIDA DA APELADA. DIREITO À PENSÃO ESPECIAL E À INDENIZAÇÃO. APELAÇÃO DA UNIÃO PARCIALMENTE PROVIDA.
+1. Deve ser acolhida a ilegitimidade passiva da UNIÃO, quanto ao pedido de pensão especial aos portadores da Síndrome da Talidomida, com fundamento na Lei nº 7.070/82, vez que a concessão e a manutenção do benefício são de atribuição do INSS, apenas a dotação orçamentária e o repasse dos recursos financeiros são realizados pela UNIÃO, como se depreende dos artigos 1º, caput, e 4º da Lei nº 7.070/82.
+2. Deve ser afastada a ilegitimidade passiva da UNIÃO em relação ao pedido de indenização por danos morais. Com efeito, a própria edição da Lei nº 12.190/2010 demonstra o reconhecimento por parte da UNIÃO da sua responsabilidade civil pelos prejuízos concernentes à intimidade, à vida privada, à honra e à imagem que os portadores da Síndrome da Talidomida sofreram em razão da política de medicamentos do país na época. Por outro lado, é atribuição do INSS a análise do caso concreto para fins de pagamento da quantia.
+3. Frise-se, todavia, que, por tratar-se de prestação de trato sucessivo, as parcelas vencidas antes do quinquênio que precede o ajuizamento da ação devem ser consideradas prescritas, ou seja as parcelas anteriores a 30/03/2016. 4. As provas dos autos indicam fortemente que a mãe da apelada usou Talidomida durante a gravidez. Ademais, o perito judicial, em função do exame clínico por ele efetuado no apelado, afirmou categoricamente que se trata de portadora da Síndrome da Talidomida, tendo indicado o grau de dependência, razão pela qual a apelada tem direito tanto à pensão especial vitalícia instituída pela Lei nº 7.070/82, quanto à indenização prevista no artigo 1º da Lei nº 12.190/2010.
+5. O valor da indenização fixada na sentença é compatível com o grau de depêndencia do apelado e com os artigos 1º, § 2º, e 2º da Lei nº 7.070/82.
+6. A apelação da UNIÃO deve ser parcialmente provida, para que seja reconhecida sua ilegitimidade passiva quanto ao pedido de pensão especial.
+7. Sem honorários recursais em razão do parcial provimento à apelação, conforme entendimento fixado pelo Superior Tribunal Justiça (EDcl no AgInt no Resp nº 1.573.573). 8. Apelação da UNIÃO parcialmente provida.
+Os embargos de declaração foram providos com efeitos infringentes, a fim de corrigir a data de nascimento da autora, de forma que os juros de mora relativos à indenização por danos morais devem ser computados a partir de 21/06/2006, bem como para afastar a incidência da prescrição quinquenal (fls. 984-986).
+A parte recorrente alega violação dos arts. 4º da Lei n. 7.070/1982 e 3º do Decreto n. 7.235/2010, sustentando que a União não possui responsabilidade direta na concessão de indenização por danos morais, sendo o INSS o responsável por tais pagamentos.
+Argumenta que a União apenas realiza o repasse de recursos financeiros, não devendo figurar no polo passivo da demanda.
+Requer o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 1007-1014.
+É  o  relatório.
+O recurso especial tem origem em ação proposta por Beatriz Soares de Oliveira Ataide contra o Instituto Nacional do Seguro Social (INSS) e a União, visando à concessão de pensão especial e indenização por danos morais devido à Síndrome da Talidomida, conforme as Leis 7.070/1982 e 12.190/2010. A sentença de primeira instância condenou o INSS ao pagamento da pensão e a União à indenização, decisão parcialmente reformada pelo Tribunal Regional Federal da 2ª Região, que reconheceu a ilegitimidade passiva da União quanto à pensão especial, mas manteve sua responsabilidade pela indenização por danos morais.
+Anoto, inicialmente, que a Corte Regional deu provimento ao apelo do recorrido, tendo sido consignado que (fls. 925-926):
+Por outro lado, deve ser afastada a ilegitimidade passiva da União em relação ao pedido de indenização por danos morais.
+Com efeito, a própria edição da Lei nº 12.190/2010 demonstra o reconhecimento por parte da União da sua responsabilidade civil pelos prejuízos concernentes à intimidade, à vida privada, à honra e à imagem que os portadores da Síndrome da Talidomida sofreram em razão da política de medicamentos do país na época. Por outro lado, é atribuição do INSS a análise do caso concreto para fins de pagamento da quantia. Vejamos os artigos 1º e 5º da Lei nº 12.190/2010 e os artigos 3º e 5º do Decreto nº 7.235/2010, que a regulamenta:
+"Artigo 1º da Lei nº 12.190/2010
+Art. 1º É concedida indenização por dano moral às pessoas com deficiência física decorrente do uso da talidomida, que consistirá no pagamento de valor único igual a R$ 50.000,00 (cinquenta mil reais), multiplicado pelo número dos pontos indicadores da natureza e do grau da dependência resultante da deformidade física (§1º do art. 1º da Lei nº 7.070, de 20 de dezembro de 1982)."
+"Artigo 3º do Decreto nº 7.235, de 19 de julho de 2010.
+Art. 3º Fica o Instituto Nacional do Seguro Social - INSS responsável pela operacionalização do pagamento da indenização, nos termos deste Decreto, com dotações específicas constantes do orçamento da União.
+(..)
+Art. 5º O pagamento da indenização será precedido da realização de perícia médica pelo INSS para a identificação do número de pontos indicadores da natureza e do grau da dependência resultante da deformidade física, nos moldes do § 1º do art. 1º da Lei nº 7.070, de 1982.
+§ 1º Para os fins deste artigo, será considerado o resultado da perícia médica realizada por ocasião da concessão da pensão especial de que trata a Lei nº 7.070, de 1982.
+§ 2º Após a assinatura do termo de opção, o INSS procederá, se for o caso, ao cálculo da indenização adotando como parâmetro a quantidade de pontos informados no laudo pericial, limitados ao máximo de oito, observado o disposto no art. 178 do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999."
+Dessa forma,  apesar  de  ter sido indicada violação ao art. 4º da Lei n. 7.070/1982, também foi apontada ofensa ao art. 3º do Decreto n. 7.235/2010,  sendo de fato impreterível para  análise  da  questão  controvertida  o exame do referido decreto regulamentar, ato normativo que não se enquadra no conceito de lei federal.
+Nestes termos, observa-se que eventual violação de lei federal seria reflexa, e não direta, porque no deslinde da controvérsia seria imprescindível a interpretação de ato normativo secundário, descabendo, portan to, o exame da questão em sede de recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PIS E COFINS. DEDUÇÕES DA BASE DE CÁLCULO. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. CONTROVÉRSIA DIRIMIDA COM BASE NA INTERPRETAÇÃO DA IN RFB 1.911/2019. REVISÃO. NÃO CABIMENTO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. RECURSO NÃO PROVIDO.
+(..)
+5. Ademais, como bem apontou a decisão da Presidência do STJ, a controvérsia dos autos foi dirimida com base na análise e na interpretação da Instrução Normativa RFB 1.911/2019. Fica evidente, portanto, que eventual ofensa à legislação federal, se houve, ocorreu de forma indireta ou reflexa, o que não justifica a interposição de Recurso Especial nesse caso.
+(..)
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.417.693/SC, rel. Min. Herman Benjamin, Segunda Turma, DJe de 28/6/2024)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PORTARIA. EXAME. INVIABILIDADE. QUESTÃO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE.
+(..)
+3. Hipótese em que a alteração do julgado perpassa pela interpretação da Portaria ME n. 7.163/2021, sendo meramente reflexa a vulneração dos dispositivos legais indicados pela agravante.
+(..)
+5 . Agravo interno desprovido.
+(AgInt no REsp n. 2.088.386/CE, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 18/4/2024)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. PENSIONISTA MILITAR. FILHA DE MILITAR FALECIDO. CONDIÇÃO DE DEPENDÊNCIA. SÚMULA 7/STJ.A REINCLUSÃO NO FUNDO DE ASSISTÊNCIA MÉDICA DA AERONÁUTICA - FUNSA. NSCA160-5. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE TRATADO OU LEI FEDERAL.
+(..)
+2. A solução da controvérsia extrapola a estreita via do Recurso Especial, visto que implica o exame de violação reflexa ou indireta a texto de lei federal, já que, como explicitado nas razões do Especial, o caso necessita primordialmente da análise da NSCA 160-5/2017, ato normativo que não se enquadra no conceito de tratado ou Lei Federal de que cuida o art. 105, III, "a", da Constituição Federal.
+(..)
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.871.124/PE, rel. Min. Herman Benjamin, Segunda Turma, DJe de 1/10/2020)
+Ademais, conforme pacífico entendimento desta Corte Superior, os atos normativos secundários não estão inseridos no conceito de lei federal, não sendo adequado o aviamento de recurso especial pela alínea "a" do artigo 105 da Constituição, a fim de impugnar referidas normas administrativas.
+Nessa linha de intelecção: "Não é cabível a interposição de recurso especial fundado na violação ou interpretação divergente de decreto regulamentar, ato normativo secundário que não está compreendido no conceito de lei federal. Nesse sentido: (AgInt nos EDcl no REsp 1.772.135/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 12/3/2020, AgInt no REsp 1.704.452/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 19/3/2020; REsp 1.155.590/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 7/12/2018; AgRg no REsp 1.384.034/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/3/2016; AgInt nos EDcl no REsp 1.652.269/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 10/6/2019. (AgInt nos EDcl no AREsp n. 2.650.082/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+Ante  o  exposto,  com  base  no  art.  255,  §  4º,  I,  do  RISTJ,  não  conheço  do  recurso  especial.
+Caso tenha havido fixação de honorários advocatícios na instância de origem, determino sua majoração em 10% do valor arbitrado, a teor do contido no § 11 do artigo 85 do Código de Processo Civil, com observância dos limites estabelecidos nos §§ 2º e 3º do mencionado dispositivo e de eventual isenção ou concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+EMENTA
+ADMINISTRATIVO. DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. SÍNDROME DA TALIDOMIDA. ILEGITIMIDADE PASSIVA DA UNIÃO QUANTO AO PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS DA LEI N. 12.190/2010. EXAME DO ART. 3º DO DECRETO N. 7.235/2010. INADMISSIBILIDADE DE ANÁLISE DE ATOS NORMATIVOS SECUNDÁRIOS. RECURSO NÃO CONHECIDO.
