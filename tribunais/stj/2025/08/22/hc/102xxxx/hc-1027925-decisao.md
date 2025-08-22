@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EVERALDO GOMES DE SOUZA , com pedido de liminar, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente se encontra preso preventivamente desde 27 de maio de 2025, após ter sua prisão em flagrante convertida em preventiva, por suposta prática de crime relacionado ao porte de arma de fogo de uso restrito, com numeração suprimida.
+A defesa alega que a prisão preventiva foi decretada sob o fundamento de reincidência específica e processo em andamento, presumindo-se que medidas cautelares diversas da prisão seriam insuficientes para afastar o paciente do mundo marginal.
+Sustenta que a prisão preventiva carece de fundamentação adequada e é desproporcional, pois o paciente possui ocupação lícita e residência fixa, sendo empresário proprietário de empresa.
+Afirma que o paciente nunca descumpriu qualquer ordem judicial anteriormente imposta e que a reincidência mencionada é pretérita, não justificando a medida mais gravosa.
+Alega ainda que não há periculum libertatis, pois a arma de fogo foi apreendida, e que medidas cautelares diversas da prisão seriam suficientes para resguardar a ordem pública e evitar reiteração delitiva.
+Requer, liminarmente, a concessão da ordem para substituir a prisão preventiva do paciente por medidas cautelares.
+É o relatório.
+Decido.
+O Tribunal de origem fundamentou seu acórdão nos seguintes termos (fls. 15-16):
+Everaldo foi denunciado como incurso no artigo 16, caput, da Lei 10.826/03 porque, supostamente, em 27 de maio de 2025, na cidade de São Vicente, portava uma pistola calibre 9mm., com numeração suprimida e municiada com vinte e oito (28) projéteis íntegros (fls. 65-66 da ação penal).
+Há indícios suficientes de autoria e materialidade consubstanciados nas declarações colhidas em sede policial, no auto de exibição e apreensão (fls. 1-13 da ação penal). Por óbvio, no entanto, o paciente está assistido, quanto ao futuro julgamento do mérito dessas notícias, pela devida cláusula constitucional da presunção de inocência.
+Mostram-se presentes, no entanto, os requisitos do artigo 312 do Código de Processo Penal e devidamente fundamentada a decisão que decretou a prisão preventiva do paciente.
+Em que pese ser processado por crime com pena isoladamente não tão expressiva fosse primário, tem-se, no entanto, que o paciente é multirreincidente, inclusive com condenação por porte ilegal de arma de fogo (fls. 34-38 da ação penal). Diante da persistente reiteração criminosa, é caso mesmo de manutenção da prisão preventiva para garantia da ordem pública, sendo insuficientes as medidas cautelares não encarceradoras.
+Extrai-se da decisão que decretou a medida cautelar (fls. 19-20):
+Observa-se da FA e certidões juntadas nas fls. 28-33 e 34-38 que o indiciado é reincidente específico e possui processo em andamento, com condenação em primeiro grau, por crime análogo. Assim, a aplicação de medidas cautelares seria insuficiente para afastá-lo do mundo marginal, autorizando, portanto, a prisão preventiva, nos termos do artigo 313, II, do CPP. O "modus operandi" da conduta criminosa demonstra indisciplina do investigado e total desprezo às forças de segurança pública e ao Poder Judiciário Estatal, sendo de rigor a sua manutenção no cárcere para preservação da ordem pública e conveniência da instrução criminal. No mesmo sentido, os péssimos antecedentes criminais evidenciam comportamento antissocial voltado à criminalidade, extrema periculosidade e ousadia na reiteração de práticas criminosas, fatores esses que devem ser considerados pelo Magistrado visando à credibilidade do Poder Judiciário e à efetiva aplicação da lei penal. Além disso, a prisão preventiva é necessária para garantia da ordem pública, para evitar o cometimento de ainda novos crimes, para conveniência da instrução processual, evitando influências indevidas do investigado no processo, e para assegurar a aplicação da lei penal, tendo em vista a alta probabilidade de fuga, mormente considerando que o investigado não comprovou atividade lícita e residência fixa. Assim, outras medidas cautelares alternativas à prisão seriam inadequadas e inócuas para a reiteração delituosa e circunstâncias do caso concreto. Dessa forma, a prisão provisória é de rigor, pois há sérios indícios do envolvimento do averiguado em crimes graves que colocam em constante desassossego a sociedade, contribuindo para desestabilizar as relações de convivência social, estando, pois, presente o motivo da garantia da ordem pública, autorizador da decretação da prisão preventiva. Portanto, a periculosidade do indiciado está a indicar a necessidade de sua segregação cautelar. IV. Ante o exposto, nos termos do artigo 310, II, e artigo 282, § 6º, do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE do indiciado EVERALDO GOMES DE SOUZA em PREVENTIVA.
+O egrégio Superior Tribunal de Justiça possui entendimento que a prisão preventiva pode ser decretada fundamentada em dados concretos que evidenciam a necessidade de garantia da ordem pública, conforme bem exposto nos fundamentos utilizados pelo Tribunal a quo. Nesse sentido: AgRg no HC n. 990.546/RO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.
+A decisão do Tribunal de origem está devidamente fundamentada, não sendo cabível a substituição por medidas cautelares diversas, dada a gravidade concreta da conduta delituosa e a multirreincidência do paciente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. PRESERVAÇÃO DA ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é medida excepcional que deve ser devidamente fundamentada, com base na demonstração da materialidade do crime, indícios suficientes de autoria e risco gerado pela liberdade do agente, conforme o art. 312 do Código de Processo Penal.
+2. No caso concreto, a custódia foi decretada com base em elementos concretos, destacando-se a reiteração delitiva evidenciada por nova autuação por tráfico de drogas, após recente condenação pelo mesmo crime, além da apreensão de quantidade não desprezível de droga com alto poder lesivo (cocaína).
+3. Com efeito, "conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+4. Condições subjetivas favoráveis ao agravante não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+6. Agravo regimental não provido.
+(AgRg no HC n. 1.009.193/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo a prisão cautelar do agravante pela suposta prática do delito de furto.
+2. O Tribunal de origem denegou a ordem, justificando a prisão preventiva com base no fundado receio de reiteração delitiva, considerando a multirreincidência do agravante em crimes como homicídio, tráfico de drogas e direção perigosa.
+3. O agravante alega ausência de fundamentação idônea para a prisão preventiva e defende a aplicação de medidas cautelares diversas da prisão, além do princípio da insignificância.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada na garantia da ordem pública, em razão de sua reincidência e risco de reiteração delitiva.
+5. Outra questão é a possibilidade de aplicação de medidas cautelares diversas da prisão e a análise do princípio da insignificância no caso concreto.
+III. Razões de decidir
+6. A decisão agravada foi mantida por seus próprios fundamentos, considerando que a multirreincidência do agravante justifica a prisão preventiva para garantia da ordem pública.
+7. A jurisprudência desta Corte é pacífica no sentido de que a reincidência e a contumácia delitiva são suficientes para justificar a prisão preventiva.
+8. Não foram apresentados novos argumentos no agravo regimental capazes de alterar o entendimento anteriormente firmado.
+9. A análise do princípio da insignificância não foi conhecida pelo tribunal de origem circunstância que impede qualquer manifestação desta Corte Superior de Justiça sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+IV. Dispositivo e tese
+10. Agravo regimental desprovido.
+Tese de julgamento: "1. A multireincidência e a contumácia delitiva justificam a prisão preventiva para garantia da ordem pública. 2. A análise do princípio da insignificância não foi conhecida pelo tribunal de origem circunstância que impede qualquer manifestação desta Corte Superior de Justiça sob pena de se configurar a prestação jurisdicional em indevida supressão de instância."
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citada: STJ, AgRg no RHC 118.027/AL, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 08.10.2019; STJ, AgRg no HC 797.708/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 24.03.2023.
+(AgRg no HC n. 937.719/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+Desse modo, verifica-se que os argumentos utilizados pelo Tribunal a quo foram adequados e suficientemente fundamentados, em estrita conformidade com a jurisprudência consolidada desta Corte Superior, não havendo, portanto, fundamentos que justifiquem o relaxamento da prisão cautelar
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
