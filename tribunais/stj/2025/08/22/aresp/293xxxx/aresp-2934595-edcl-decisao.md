@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Estado do Rio de Janeiro contra decisum singular de fls. 2.435/2.438, que negou provimento ao agravo, sob os seguintes fundamentos: (I) não houve ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, pois o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; e (II) a alteração das premissas adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em suas razões, a parte embargante aduz, em resumo, que há omissão na decisão embargada, consistente na ausência de arbitramento de honorários advocatícios recursais em favor do ente público, a teor do art. 85, §11, do CPC, considerando que a concessão de justiça gratuita não impede a fixação de honorários advocatícios recursais (fl. 2.447).
+A parte embargada apresentou impugnação às fls. 2.450/2.452, postulando o não acolhimento dos aclaratórios, bem como "seja mantida a suspensão da exigibilidade da condenação ao pagamento de honorários sucumbenciais em razão da gratuidade de justiça deferida, nos termos do artigo 98, §3º, do CPC" (fl. 2.452).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Assiste razão à parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+A decisão recorrida, ao negar provimento ao agravo da parte ora embargada, interposto contra acórdão publicado já na vigência do novo CPC/2015 (fl. 2.269), nada dispôs acerca da condenação na verba honorária recursal, devendo ser suprimida a omissão apontada pela embargante.
+Registre-se que, na linha da jurisprudência desta Corte, caso o acórdão que julgou a apelação tenha sido publicado na vigência do atual CPC, é possível a fixação de honorários sucumbenciais recursais no julgamento do recurso especial.
+ANTE O EXPOSTO, acolho os aclaratórios para sanar a omissão apontada. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
