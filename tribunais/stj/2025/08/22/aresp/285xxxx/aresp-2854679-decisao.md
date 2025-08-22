@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CRIMINAL DEFENSIVA- DELITO DE PECULATO - PRELIMINAR DE OFÍCIO - NULIDADE DA SENTENÇA - SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS - NÃO ESPECIFICAÇÃO DE QUAIS SERIAM AS MESMAS - OFENSA AOS PRINCÍPIOS DA INDIVIDUALIZAÇÃO DA PENA E DA FUNDAMENTAÇÃO DA DECISÃO JUDICIAL. - A ausência de especificação das sanções restritivas de direito impostas fulmina de nulidade a sentença, por ofensa aos princípios da individualização da pe na e da fundamentação da decisão judicial.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 653-658).
+Contraminuta apresentada (e-STJ fls. 664-666 e 667-670).
+O Ministério Público Federal opinou pelo "provimento do apelo nobre" (e-STJ fls. 686-693).
+É o relatório.
+Decido.
+O recurso merece ser provido.
+O Tribunal de origem inadmitiu o recurso especial com fundamento na incidência, por analogia, das Súmulas n. 282 e 356 do Supremo Tribunal Federal, sustentando ausência de prequestionamento quanto aos dispositivos legais apontados como violados (e-STJ fls. 639-640).
+Contudo, a questão central do recurso, qual seja, a extensão da nulidade da sentença em razão da ausência de especificação das penas restritivas de direito, foi efetivamente debatida pelo Tribunal a quo. O acórdão recorrido manifestou-se expressamente sobre a matéria, consignando que "a sentença se trata de ato complexo, se encontrando a mesma dividida em partes - relatório, fundamentação, dispositivo e, no caso de condenação, fixação da reprimenda -, que se imbricam umas com as outras, formando um todo que há de ser considerado assim, um todo, ou seja, não pode ser a mesma seccionada, não havendo se falar, então, em sua nulidade parcial" (e-STJ fls. 593-594).
+Verifica-se, assim, o denominado prequestionamento implícito, em que há apreciação da questão jurídica mesmo sem referência expressa aos dispositivos legais relacionados, situação admitida por esta Corte Superior.
+No mérito, o Tribunal de origem, ao anular integralmente a sentença condenatória, destoou da jurisprudência desta Corte.
+A Quinta Câmara Criminal do TJMG reconheceu que o vício da sentença limitou-se à "falta de especificação das penas restritivas de direito impostas" (e-STJ fl. 594), ou seja, questão restrita à individualização da pena. Não obstante, anulou a sentença em sua integralidade.
+O entendimento consolidado dos Tribunais Superiores, contudo, é firme no sentido de que os vícios decorrentes da individualização da pena acarretam apenas nulidade parcial da sentença, não afetando o juízo condenatório.
+Com efeito, o juízo condenatório não depende da fixação das penas, nem é consequência desta. Ao contrário, a individualização das reprimendas que é dependente e consequência da constatação de que o réu praticou conduta típica, ilícita e culpável.
+Em conformidade com o princípio da conservação dos atos processuais e o postulado utile per inutile non vitiatur (o útil não é viciado pelo inútil), extraído do art. 573, § 1º, do Código de Processo Penal, a nulidade de uma parte do ato não atinge as demais que dela sejam independentes.
+Esta Corte tem decidido o seguinte:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PENAL E PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. APELAÇÃO. ANULAÇÃO PARCIAL DA SENTEÇA CONDENATÓRIA. AUSÊNCIA DE ANÁLISE DA INCIDÊNCIA DO BENEFICIO PREVISTO NO ART. 41 DA LEI N. 11.343/2006. DOSIMETRIA. INDIVIDUALIZAÇÃO DA PENA. CARÁTER PESSOAL. ANULAÇÃO PARCIAL. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..  A teor da orientação jurisprudencial do col. Supremo Tribunal Federal, os vícios decorrentes da individualização da pena ocasionam, tão-somente, a anulação parcial da sentença, não afetando a validade, tampouco a eficácia do juízo condenatório. Precedentes.
+Habeas corpus não conhecido.
+(HC n. 619.773/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 16/3/2021, DJe de 25/3/2021.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO-CABIMENTO. RESSALVA DO ENTENDIMENTO PESSOAL DA RELATORA. PENAL E PROCESSO PENAL. FALSO TESTEMUNHO MAJORADO. VÍCIO DE FUNDAMENTAÇÃO NA DOSIMETRIA DA PENA. NULIDADE PARCIAL DA SENTENÇA. UTILE PER INUTILE NON VITIATUR. AUMENTO DE PENA PREVISTO NO ART. 342, §1.º, DO CÓDIGO PENAL REDUZIDO AO MÍNIMO LEGAL PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREJUÍZO PARA A DEFESA. PAS DE NULLITÉ SANS GRIEF. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+3. Em reverência ao princípio utile per inutile non vitiatur (o útil não é viciado pelo inútil), eventual mácula na dosimetria da pena acarreta apenas a nulidade parcial da sentença, não afetando o juízo condenatório realizado nos estritos limites legais. Precedentes do STF.
+(HC n. 267.244/SP, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 11/2/2014, DJe de 28/2/2014.)
+Especificamente sobre casos idênticos envolvendo o Tribunal de Justiça de Minas Gerais, este Superior Tribunal já enfrentou a questão no REsp 2.090.057/MG, ocasião em que se assentou que "os vícios resultantes da individualização da pena acarretam apenas a nulidade parcial da sentença, não afetando o juízo condenatório", determinando-se "mantida a condenação, anular parcialmente a sentença e determinar que o Juízo de primeiro grau refaça todo o procedimento dosimétrico, respeitando o princípio da individualização das penas" (e-STJ fls. 610-611).
+A solução ora adotada preserva a economia processual, evita a repetição desnecessária de atos válidos e mantém a eficácia do juízo condenatório como marco interruptivo da prescrição, em harmonia com os princípios da celeridade e da conservação dos atos processuais.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, mantida a condenação, anular parcialmente a sentença e determinar que o Juízo de primeiro grau proceda à especificação das penas restritivas de direitos aplicáveis, respeitando o princípio da individualização da pena.
+Publique-se. Intimem-se.
+ EMENTA
