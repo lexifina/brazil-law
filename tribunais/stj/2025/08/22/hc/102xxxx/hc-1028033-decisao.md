@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HARYSON ANDRADE DOS SANTOS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o paciente se encontra preso, preventivamente, desde o dia 22 de maio de 2025, tendo sido denunciado pela suposta prática do delito previsto no art. 121, § 2º, inciso II e IV do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 26-32).
+Na hipótese, a defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do paciente.
+Aponta ausência de fundamentação para a segregação cautelar.
+Sustenta a ocorrência de excesso de prazo para a formação da culpa.
+Aduz que "o habeas corp us sempre será cabível quando houver lesão ou ameaça à liberdade de locomoção, como ocorre on presente caso em que o Paciente se encontra recluso há mais de 211 dias, e mesmo tendo sido pronunciado, não se sabe quando ira se realizar a sessão plenária" (fl. 4).
+Requer, ao final, o relaxamento ou a revogação da prisão preventiva e, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada gravidade concreta evidenciada pelo modus operandi da conduta, consistente em homicídio qualificado pelo motivo fútil e mediante recurso que impossibilitou a defesa do ofendido; haja vista que, em tese, em razão de relacionamento amoroso entre a vítima e a mãe do paciente, ele teria efetuado os disparos de arma de fogo, que ocasionaram a morte da vítima.
+Tais circunstâncias demonstram a periculosidade do paciente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"Na hipótese, a prisão preventiva foi adequadamente motivada pelas instâncias ordinárias, tendo sido demonstradas, com base em elementos concretos e atuais, a periculosidade do agente e a gravidade do delito, evidenciadas pelo modus operandi da conduta criminosa, considerando que, conforme consta da denúncia, juntamente com a corré, teria sido o autor intelectual da execução da vítima, morta a tiros por agentes ainda não identificados, em plena luz do dia, quando voltava de bicicleta para casa, tudo em razão do relacionamento extraconjugal que mantinha com a corré, então esposa do ofendido" (AgRg no RHC n. 165.374/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/3/2023, DJe de 20/3/2023.)
+"No caso, a prisão preventiva está justificada, pois a decisão que a impôs delineou o modus operandi empregado pelo recorrente, consistente em homicídio qualificado, sendo destacado que o delito foi motivado por ciúmes da esposa do recorrente" (RHC n. 151.827/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+Condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, haja vista que se trata da apuração de delito de homicídio qualificado, havendo que ressaltar o prazo exíguo, de menos de 100 dias, entre a instauração do processo, em 18/5/2025, e a audiência de instrução e julgamento marcada para o dia 26 de agosto de 2025.
+Nesse sentido, a Corte local consignou que "Desse modo, considerado que o processo foi instaurado em 18/5/2025 (mov. 1), a denúncia ofertada em 21/5/2025 (mov. 9) e a audiência de instrução e julgamento resta designada para 26/8/2025 (mov.34), tenho pela inexistência do alegado excesso de prazo" (fl. 31); não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Portanto; não restando demonstrado o constrangimento ilegal apontado, relativamente ao excesso de prazo; não é caso de relaxamento do cárcere provisório.
+A propósito:
+"I - No que tange ao aventado excesso de prazo, cumpre ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.  .. " (AgRg no HC n. 923.616/SC, Quinta Turma, minha relatoria, DJe de 6/9/2024).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
