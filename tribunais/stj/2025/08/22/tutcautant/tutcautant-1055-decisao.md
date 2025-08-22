@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar antecedente ajuizado por CLAUDIA DA SILVA GALVAO LOPEZ, "objetivando cassar a decisão proferida pela Terceira Vice- Presidência do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ) que - sem juízo prévio de admissibilidade - concedeu efeito suspensivo ao Recurso Especial interposto pelo Estado do Rio de Janeiro" (fl. 2).
+Noticia que a parte Requerente ajuizou "ação de obrigação de fazer, cumulada com cobrança de diferenças salariais do piso nacional do magistério, movida pela Recorrida (professora da rede pública estadual, cargo de Professor Docente I, nível 6, 18 horas semanais) em face do Estado do Rio de Janeiro". O Juízo de primeiro grau julgou procedente a demanda. O Tribunal Estadual negou provimento ao recurso do Estado, mantendo a sentença favorável à servidora.
+Inconformado, o Estado "interpôs simultaneamente Recurso Especial e Recurso Extraordinário", sustentando "que a decisão violaria a legislação federal (Lei n. 11.738/2008 - piso nacional do magistério - e a Lei Complementar n. 101/2000 - Lei de Responsabilidade Fiscal) e arguiu tratar-se de questão constitucional com repercussão geral reconhecida pelo STF (Tema n. 1218)" (fl. 3). Formulou, ainda, a concessão de efeito suspensivo aos recursos excepcional e o sobrestamento do feito até o trânsito em julgado do Tema n. 1.218 do STF.
+Afirma que, "sem proceder ao juízo formal de admissibilidade dos recursos, a 3ª Vice-Presidência proferiu decisão cautelar atribuindo efeito suspensivo ao Recurso Especial/Extraordinário interposto pelo Estado. Em consequência, ficaram suspensos de imediato os efeitos do acórdão recorrido, até o julgamento dos recursos excepcionais." Determinou-se, ainda, "o sobrestamento do processamento dos referidos recursos "até o trânsito em julgado da tese vinculada ao Tema 1.218 do Supremo Tribunal Federal" (isto é, até decisão definitiva do STF na repercussão geral sobre o piso do magistério)" (fl. 4).
+Nas razões do presente pedido, alega a Requerente "patente erro de procedimento na atuação da 3ª Vice-Presidência do TJRJ, pois concedeu o efeito suspensivo pretendido sem proceder ao prévio juízo de admissibilidade do Recurso Especial, postergando-o sine die. Essa inversão da ordem procedimental afronta o CPC e a jurisprudência consolidada do STJ" (fl. 6).
+Defende que:
+Caberia ao Vice-Presidente examinar de plano a admissibilidade do recurso especial, inclusive à luz do art. 1.030, inciso I, do CPC, que determina a negativa de seguimento a recurso excepcional quando houver jurisprudência dominante do STJ contrária à pretensão do recorrente. No presente feito, existia orientação vinculante clara a ser seguida - como adiante exposto (Tema 911/STJ) - de modo que o recurso especial do Estado era manifestamente inviável, impondo-se o juízo negativo de admissibilidade. (fl. 6)
+Pondera que o STF, ao reconhecer a repercussão geral da controvérsia ora em exame (Tema n. 1.218), "não emitiu ordem de suspensão nacional dos processos sobre a matéria, ao menos até o presente momento" (fl. 10).
+Sustenta, por fim, a presença do "fumus boni iuris em favor da parte recorrida, evidenciado pela firmeza jurídica do acórdão recorrido e pela inviabilidade do recurso especial, e o periculum in mora inverso, consubstanciado no risco de dano continuado e irreparável à patê recorrida pela demora na execução de seu direito (dano este que supera em muito qualquer alegado risco do lado do Estado, que continua não adimplindo integralmente a lei do piso salarial)" (fl. 13).
+Requer, assim, seja conhecido e provido o presente incidente, "cassando de imediato a decisão da 3ª Vice-Presidência do TJRJ que concedeu efeito suspensivo ao Recurso Especial/Extraordinário do Estado (decisão anexa), restaurando-se assim os efeitos da sentença e do acórdão recorrido em sua integralidade" (fl. 17).
+É o relatório.
+Decido.
+Acerca da concessão de efeito suspensivo a recurso especial, o Código de Processo Civil estabelece que:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+ ..
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Especificamente no que se refere ao julgamento dos recursos extraordinário e especial repetitivos, o Diploma Processual determina:
+Art. 1.036. Sempre que houver multiplicidade de recursos extraordinários ou especiais com fundamento em idêntica questão de direito, haverá afetação para julgamento de acordo com as disposições desta Subseção, observado o disposto no Regimento Interno do Supremo Tribunal Federal e no do Superior Tribunal de Justiça.
+ ..
+Art. 1.037. Selecionados os recursos, o relator, no tribunal superior, constatando a presença do pressuposto do caput do art. 1.036 , proferirá decisão de afetação, na qual:
+I - identificará com precisão a questão a ser submetida a julgamento;
+II - determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional;
+ ..
+§ 9º Demonstrando distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial ou extraordinário afetado, a parte poderá requerer o prosseguimento do seu processo.
+§ 10. O requerimento a que se refere o § 9º será dirigido:
+ ..
+III - ao relator do acórdão recorrido, se for sobrestado recurso especial ou recurso extraordinário no tribunal de origem;
+ ..
+§ 11. A outra parte deverá ser ouvida sobre o requerimento a que se refere o § 9º, no prazo de 5 (cinco) dias.
+§ 12. Reconhecida a distinção no caso:
+I - dos incisos I, II e IV do § 10, o próprio juiz ou relator dará prosseguimento ao processo;
+II - do inciso III do § 10, o relator comunicará a decisão ao presidente ou ao vice-presidente que houver determinado o sobrestamento, para que o recurso especial ou o recurso extraordinário seja encaminhado ao respectivo tribunal superior, na forma do art. 1.030, parágrafo único .
+§ 13. Da decisão que resolver o requerimento a que se refere o § 9º caberá:
+I - agravo de instrumento, se o processo estiver em primeiro grau;
+II - agravo interno, se a decisão for de relator.
+Pois bem, no caso em exame, relata a Requerente que "sem proceder ao juízo formal de admissibilidade dos recursos, a 3ª Vice-Presidência proferiu decisão cautelar atribuindo efeito suspensivo ao Recurso Especial/Extraordinário interposto pelo Estado", e determinou "o sobrestamento do processamento dos referidos recursos "até o trânsito em julgado da tese vinculada ao Tema 1.218 do Supremo Tribunal Federal" (isto é, até decisão definitiva do STF na repercussão geral sobre o piso do magistério)" (fl. 4).
+O Tribunal a quo, ao deferir o requerimento formulado, para atribuir efeito suspensivo ativo ao recurso especial interposto pelo Estado do Rio de Janeiro, consignou a seguinte fundamentação (fls. 34-38):
+No caso concreto, bem se vê, assiste razão ao recorrente, estando presentes, nesta oportunidade, os pressupostos para concessão de efeito suspensivo ao recurso, uma vez que, de fato, tenho por evidente a urgência da medida, eis que a demanda versa, in fine, sobre matéria de vencimentos, de evidente índole constitucional.
+É fato, a questão repercute em milhares de demandas análogas ajuizadas por todo o território nacional, em que igualmente são discutidos os efeitos do piso nacional do magistério sobre as carreiras locais.
+Nessa ordem de ideias, com bem salientado pelo Recorrente, o Supremo Tribunal Federal, além de ter afetado o Tema 1.218, reiterou a existência de repercussão geral da matéria, como se vê da seguinte decisão, proferida em processo análogo ao presente:
+ ..
+Ademais disso, como se pode depreender, ainda em análise perfunctória, a interpretação dada pelo acórdão recorrido não parece estar alinhada à concepção adotada pela Suprema Corte.
+ ..
+Como bem se vê, a Presidente do STF ressaltou que a determinação de incidência do percentual de reajuste do piso nacional do magistério a toda a categoria profissional, constante da decisão, baseia-se na necessidade de preservar a isonomia entre os integrantes das demais classes, níveis e faixas da carreira do magistério público estadual, o que esbarra na Súmula Vinculante 37 do STF. O verbete prevê que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+Presentes os pressupostos autorizadores da medida cautelar, a ministra suspendeu os efeitos da decisão questionada, até a análise do recurso extraordinário com agravo já interposto contra essa decisão." Preciso e conciso!
+A propósito, por derradeiro, mas não menos relevante, como suficientemente demonstrado, a teor do §§1º e 3º, I, artigo 1.035, CPC, a matéria constitucional aqui versada teve repercussão geral, haja vista a existência de questão relevante do ponto de vista econômico, político, social ou jurídico que ultrapasse os interesses subjetivos do processo.
+Restam, pois, a meu sentir - ainda em juízo perfunctório - preenchidas as hipóteses de risco grave e de concreto de dano de difícil ou impossível reparação para o Recorrente.
+Some-se a essa circunstância, a probabilidade de provimento do recurso extraordinário, tendo em vista que o seu acolhimento, como se observa das próprias razões recursais, já sinalizam a perspectiva de êxito, haja vista, v. g., a externada violação a vários artigos da Constituição Federal, aí incluída a Emenda Constitucional nº 113/2021.
+É o que basta, pois, a meu juízo, para se atribuir o efeito suspensivo ao Recurso Extraordinário.
+À vista do exposto, presentes os requisitos do art. 995, parágrafo único do CPC/15, notadamente a probabilidade de provimento do recurso e risco de dano irreversível, defiro o requerimento ora formulado, para atribuir efeito suspensivo ativo, a fim de:
+(i) suspender, imediatamente, os efeitos do acórdão recorrido até o julgamento do recurso Extraordinário.
+(ii) Consigne-se que cabe ao recorrente comunicar ao Juízo de origem os termos desta decisão.
+(iii) intimar o recorrido para contrarrazoar os recursos.
+Ora, a jurisprudência desta Corte entende que a atribuição de efeito suspensivo a recurso especial é excepcionalíssimo e pressupõe a aferição da existência dos requisitos da viabilidade do apelo, da plausibilidade do direito invocado e do perigo da demora.
+In casu, o Tribunal de origem concluiu pela presença dos requisitos do art. 995, parágrafo único, do CPC, em razão de que a controvérsia em debate teve reconhecida a repercussão geral da matéria, consubstanciada no Tema n. 1.218. Como se percebe, a Corte Estadual, dentro dos limites de sua competência e respaldado em previsão legal (art. 1.029, § 5º, III, do CPC), entendeu pelo sobrestamento do feito e a suspensão dos efeitos do acórdão recorrido .
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação. Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retrataçã o/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Assim, somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser admitido e encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Além disso, "preenchidos os requisitos extrínsecos do recurso especial, como a tempestividade e o preparo, os demais pressupostos de admissibilidade devem ser relevados quando há afetação da matéria ao regime de julgamento de recursos repetitivos" (AgInt nos EDcl no AREsp n. 1.953.907/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23/6/2025, DJEN de 27/6/2025.).
+Lado outro, prevê o diploma processual pátrio a impugnação por meio de agravo interno, em tese, nas hipóteses de equívoco na identificação do tema ou para apontar distinção entre a controvérsia afetada e a matéria versada nos autos da causa (CPC, art. 1.037, §§ 9º e 10).
+Diante dessas considerações, tenho que o presente pedido carece de plausibilidade jurídica, sendo a via eleita inadequada para a impugnação da decisão de sobrestamento do feito na origem.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, INDEFIRO LIMINARMENTE o pedido de tutela cautelar antecedente.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TUTELA CAUTELAR ANTECEDENTE. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO REVERSO A RECURSO ESPECIAL. SOBRESTAMENTO DO FEITO. TEMA N. 1.218 DO STF. INADMISSIBILIDADE. PEDIDO INDEFERIDO.
