@@ -1,0 +1,7 @@
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR
+
+LEI Nº 9.638, DE 21 DE AGOSTO DE 2025.
+
+ALTERA O § 3º, DO ART. 110, DA LEI ESTADUAL Nº 6.564, DE 5 DE JANEIRO DE 2005.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
