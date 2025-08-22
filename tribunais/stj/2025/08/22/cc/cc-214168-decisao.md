@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA VARA DA FAZENDA PÚBLICA E REGISTROS PÚBLICOS DE NIQUELÂNDIA - GO, ora suscitante, e o TRIBUNAL REGIONAL DO TRABALHO DA 18A REGIÃO, ora suscitado.
+Consta dos autos que ADOMARIO JOSE DE ARAUJO propôs reclamação trabalhista perante a Justiça do Trabalho objetivando o pagamento de FGTS.
+O TRT da 18ª Região declinou da competência (e-STJ fls. 685/686).
+TRANSMUDAÇÃO DE REGIME. COMPETÊNCIA MATERIAL. O pedido formulado nesta contenda conta com uma questão prejudicial (relação jurídica base cuja definição constitui pressuposto necessário para o julgamento da lide), qual seja, a validade de leis municipais que transmudaram o regime funcional celetista para estatutário. E, consoante o entendimento do E. STF, seja para analisar a existência dos direitos pretendidos com base no regime administrativo, seja para desconstituir esse liame a fim de examinar o pedido com fulcro nas disposições trabalhistas, foge a esta seara especializada competência para apreciar o feito. Preliminar de incompetência material acolhida, com a consequente determinação de remessa dos autos à Justiça Comum Estadual.
+O Juiz de Direito, por sua vez, suscitou o conflito ao fundamento de que cabe à Justiça laboral o julgamento dos litígios em que o vínculo trabalhista é regido pela CLT (e-STJ fls. 721/723).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito, para que seja declarado competente o Tribunal Regional do Trabalho da 18ª Região (e-STJ fls. 746/750).
+Passo a decidir.
+Nos termos do art. 34, XXII, do RISTJ, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o Supremo Tribunal Federal, quando do julgamento da ADI n. 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir, ainda: Rcl 6.527 AgR-segundo, rel. Ministro LUIZ FUX, Primeira Turma, DJe 16/10/2015, Rcl 7.857 AgR/CE, rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Nessa linha, esta Corte tem entendido que, "se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos" (AgRg no CC 126.125/PE, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Seção, DJe 30/04/2014).
+A esse respeito, cito, ainda, o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. SERVIDOR PÚBLICO ESTADUAL. CONTRATAÇÃO SOB O REGIME CELETISTA. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. DECISÃO MONOCRÁTICA FUNDAMENTADA EM JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Vínculo de trabalho reconhecido. Pagamento de diferenças relativas à rubrica "parcela autônoma", decorrente de contrato de trabalho. Incidência sobre proventos de aposentadoria. Manutenção do caráter celetista da verba. Competência da Justiça Laboral.
+2. A decisão monocrática ora agravada baseou-se em jurisprudência do STJ, razão pela qual não merece reforma.
+3. Agravo regimental não provido. (AgRg CC 139.509/RS, Min. MAURO CAMPBELL MARQUES, DJe 03/09/2015).
+Consta dos autos que o ente municipal editou a LC 19/2009, implantando regime jurídico único. Ocorre que "o regime estatutário não chegou a ser implantado no Município reclamado em razão da declaração de inconstitucionalidade de lei complementar municipal que estabeleceu tal regime" (AgInt CC 185.318/GO, Rel. Min. HERMAN BENJAMIN, Primeira Seção DJe 08/09/2022).
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO CONTRATADO PELO REGIME DO CELETISTA. LEI COMPLEMENTAR ANULADA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Esta Corte entende que compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público por meio de concurso e adota o regime celetista para o contrato de trabalho.
+2. Agravo Interno do Particular provido para declarar competente a Vara do Trabalho de Uruaçu/GO. (AgInt CC 173.459/GO, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Primeira Seção, DJe 18/12/2020)
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o TRT DA 18ª REGIÃO, ora suscitado.
+Intimem-se. Publique-se.
+EMENTA
