@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO à execução em mandado de segurança no qual foi concedida a ordem para assegurar a implementação do reajuste de 3,17%, relativo à aplicação do art. 28 da Lei n. 8.880/94, sobre o total da remuneração dos servidores públicos federais substituídos, acrescido de correção monetária e juros legais.
+A executada suscitou, como questão prejudicial ao mérito, a ocorrência de prescrição intercorrente. Aduziu que da decisão proferida em 25/11/2010 - que determinara o desmembramento da execução em grupos de 25 (vinte e cinco) substituídos, nos termos da Instrução Normativa STJ nº 3 de 7/7/2006 (DOU de 11/7/2006) - até a propositura da execução desmembrada em 2020 verificou-se a inércia do exequente por prazo superior ao de prescrição do direito material vindicado, nos termos da Súmula n. 150/STF. No mérito, apontou excesso de execução.
+O Sindicato apresentou resposta à impugnação à execução às fls. 207-227.
+Reportando-se à decisão que acolheu a alegação de prescrição intercorrente na ExeMS n. 7871/DF (2020/0208755-8), paradigma, o despacho de fls. 233-234 determinou o sobrestamento do feito até resolução definitiva naqueles autos "com vistas a solucionar a matéria de forma isonômica e propiciar celeridade processual".
+Vieram os autos conclusos com cópia de decisões proferidas na mencionada execução paradigma (fls. 238-303).
+É o relatório. Decido.
+Em julgamento da impugnação à execução oposta pela UNIÃO na ExeMS paradigma n. 7871/DF (2020/0208755-8), o então Presidente da Terceira Seção acolheu a tese de prescrição intercorrente e julgou extinta a execução.
+Inconformado, o SINDSEP/SP interpôs agravo interno e embargos de declaração, seguidos de recurso ordinário e diversos outros recursos no Supremo Tribunal Federal, todos sem êxito. Do que se extrai das peças colacionadas às fls. 238-303, houve o trânsito em julgado em 18/6/2025.
+Como esta execução deriva do mesmo título judicial, impõe-se a aplicação da tese adotada na execução paradigma.
+Com efeito, a inércia do Sindicato se verificou a partir do despacho de fls. 8768-8769 do MS 7871/DF, publicado em 30/11/2010 (fl. 8770 do referido writ) - que determinara o desmembramento da execução originária, proposta em abril/2003 -, por não ter praticado, em tempo hábil, os atos necessários e efetivos ao regular prosseguimento do feito. Na sequência, o despacho de fls. 8878-8879 do mandado de segurança, datado de 1º/2/2013, determinou o arquivamento dos autos, sendo mantido pelo despacho de fl. 8888, de 19/2/2013.
+Esta execução desmembrada somente foi iniciada em 7/5/2020 (fls. 1-153). Assim, tal como já definido na execução paradigma, encontra-se caracterizada a ocorrência de prescrição intercorrente, uma vez que o processo ficou paralisado por mais de cinco anos sem a prática de atos efetivos à sua continuidade.
+Ante o exposto, com fundamento no que restou decidido na ExeMS paradigma n. 7871/DF (2020/0208755-8), acolho a prejudicial de prescrição intercorrente e julgo procedente a impugnação oposta pela UNIÃO para extinguir esta execução.
+Advirto que a apresentação de recurso ou pedido que trate de matéria definitivamente apreciada na execução paradigma poderá ensejar o reconhecimento de litigância de má-fé com a aplicação das penalidades cabíveis.
+Publique-se. Intimem-se.
+EMENTA
