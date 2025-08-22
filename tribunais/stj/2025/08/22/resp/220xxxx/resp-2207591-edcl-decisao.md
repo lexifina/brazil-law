@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Fundação Assis Gurgacz contra decisum singular de fls. 2.622/2.624, que não conheceu do recurso especial, sob os seguintes fundamentos: (I) inexistência de ofensa ao art. 1.022, II, do CPC, pois o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; (II) o acórdão recorrido amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido, atraindo a incidência da Súmula 126/STJ; e (III) dissídio jurisprudencial prejudicado.
+Decisão proferida às fls. 2.655/2.656 para condenar a parte contribuinte recorrente ao pagamento de honorários recursais.
+Em suas razões, a parte embargante aduz, em resumo, a existência de erro material na decisão embargada, pois: (I) os livros contábeis não submetidos à auditoria independente são dos exercícios fiscais de 2004, 2005 e 2006, portanto anteriores à vigência da Lei n. 12.101/2009, e, quando do julgamento da ADI 4.480, o STF "não assegurou a retroatividade da referida norma para os exercícios anteriores à sua vigência" (fl. 2.638); e (II) "não há necessidade de se recorrer ao STF contra a declaração de constitucionalidade da norma pelo Tribunal quando a violação do acórdão refere-se tão-somente à inobservância da regra de irretroatividade ao arrepio do artigo 105 do CTN" (fl. 2.640).
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 2.653).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado na decisão embargada a inexistência de malferimento ao art. 1.022 do CPC, porquanto o Tribunal a quo apreciou integralmente a controvérsia posta nos autos; (II) incidência da Súmula 126/STJ, dada a ausência de interposição de recurso extraordinário no tocante ao fundamento constitucional; e (III) dissídio jurisprudencial prejudicado.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 15/3/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
