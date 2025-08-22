@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS COIMBRA MARQUES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu o recurso especial.
+O agravante foi condenado em primeiro grau à pena 10 anos de reclusão, a ser cumprida em regime inicialmente fechado, 7 meses e 10 dias de detenção e 19 dias de prisão simples, a serem cumpridas em regime inicialmente aberto, pelo cometimento das infrações penais previstas nos arts. 21, caput, do Decreto-Lei 3.688/41, 147, caput, 250, § 1º, II, "a", e 331, caput, todos do Código Penal, e 32, caput, e §§ 1º-A e 2º, da Lei 9.605/98, por seis vezes em concurso formal (fls. 200-207).
+O Tribunal de Justiça deu parcial provimento ao recurso de apelação defensivo estabelecendo a pena em 6 anos de reclusão, a ser cumprida no regime inicialmente fechado, e 6 meses de detenção, a ser resgatada no regime inicialmente aberto (fls. 370-371).
+A Defesa interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação aos arts. 386, II, III, V e VII, do CPP, e ao art. 20, § 3º, do CP, além de questionar a dosimetria da pena (fls. 380-395).
+O Tribunal de Justiça inadmitiu o recurso especial por incidência dos óbices das Súmulas n. 7, STJ e n. 284, STF (fls. 449-450).
+A defesa apresentou agravo em recurso especial (fls. 463-468).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo (fls. 528-534).
+É o relatório. DECIDO.
+O agravo em recurso especial tem por finalidade a demonstração do desacerto da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, de forma a viabilizar o exame do recurso especial por esta Corte de Justiça.
+Assim, o agravante tem o ônus de refutar especificamente cada um dos óbices recursais aplicados pela decisão de inadmissibilidade do recurso especial, em respeito ao princípio da dialeticidade.
+No caso concreto, a decisão agravada não conheceu do recurso especial por aplicação das Súmulas n. 7, STJ, e n. 284, STF.
+Quanto à Súmula n. 7, STJ, incumbe ao agravante demonstrar a desnecessidade da análise do conjunto fático-probatório para o exame da fragilidade probatória ou a incidência do erro de tipo, deixando claro que os fatos foram devidamente consignados no acórdão recorrido. Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018.
+Na espécie, o agravante limitou-se a alegar a desnecessidade de reexame do conjunto fático-probatório, sem, contudo, proceder com a devida confrontação entre os fatos incontroversos reconhecidos no acórdão recorrido e as teses veiculadas no recurso, de modo a demonstrar, de forma efetiva, que o acolhimento da pretensão recursal prescinde da reanálise da matéria fático-probatória, o que resulta em afronta ao princípio da dialeticidade.
+Ainda, a jurisprudência deste Tribunal é firme no sentido de que "a ausência de indicação de dispositivo legal violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula n. 284 do STF" (AgRg no AREsp n. 2.804.307/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.
+Na espécie, o agravante limitou-se a sustentar a desnecessidade de reexame fático-probatório e deixou de indicar no agravo, onde, no recurso especial, fez expressa referência ao dispositivo de lei violado. Dessa forma, o agravo afronta ao princípio da dialeticidade.
+Desse modo, a ausência de im pugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, e do art. 253, parágrafo único, inciso I, do RISTJ obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. TENTATIVA DE ACRESCER ARGUMENTOS, EM SEDE DE AGRAVO REGIMENTAL, COM VISTAS À IMPUGNAÇÃO DOS FUNDAMENTOS TIDOS COMO INATACADOS. INADMISSIBILIDADE, PRECLUSÃO CONSUMATIVA. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive, de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não logrou impugnar, de forma efetiva, a íntegra da decisão de inadmissão na origem.
+ ..
+5. Agravo regimental improvido."
+(AgRg no AREsp n. 2.404.539/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+De mais a mais, pleiteia o recorrente a apreciação da petição para que seja concedida ordem de habeas corpus de ofício diante do constrangimento ilegal a que se submete o recorrente pela rejeição das teses defensivas.
+Ressalte-se, todavia, que é descabido postular a concessão de habeas corpus, de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção.
+Corrobora:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. JUÍZO DE ADMISSIBILIDADE NA ORIGEM. CONCLUSÃO DE QUE O ACÓRDÃO RECORRIDO ESTÁ EM CONFORMIDADE COM RECURSO REPETITIVO. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. IMPUGNAÇÃO POR AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTO INATACADO. PEDIDO DE CONCESSÃO DA ORDEM DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL OU DE FLAGRANTE ILEGALIDADE.
+ ..
+IV - Nos termos da jurisprudência consolidada no âmbito desta eg. Corte Superior, "É descabido postular a concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do recurso especial" (AgRg no AREsp n. 864.672/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/6/2016). Agravo regimental desprovido"
+(AgRg no AREsp n. 1.898.696/SP, Quinta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado TJDFT, DJe de 13/10/2021).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
