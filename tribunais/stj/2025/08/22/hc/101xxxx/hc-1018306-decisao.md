@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARISTOTELES DE ANDRADE PAIXAO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Depreende-se dos autos que o paciente foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial semiaberto, como incurso no art. 155, § 4º, II, do Código Penal.
+No julgamento da apelação, o Tribunal de origem deu provimento ao recurso do ministério público para alterar o regime inicial de pena, do semiaberto para o fechado e restabelecer a prisão preventiva do réu.
+No presente writ, alega a defesa que a decisão que manteve a prisão preventiva do paciente é ilegal, pois não há fundamentação idônea para a decretação da custódia cautelar, sendo baseada em gravidade abstrata do crime e em elementos inerentes ao próprio tipo penal.
+Sustenta, ainda, a ausência de contemporaneidade dos fatos, uma vez que custódia cautelar foi revogada no dia 29/10/2024, quando prolatada sentença condenatória em desfavor do paciente, não tendo qualquer elementos posterior hábil a justificar a segregação provisória.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 791-792.
+Informações prestadas às fls. 799-804.
+O Ministério Público Federal em parecer, às fls. 808-816, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Na presente hipótese dos autos, verifica-se que o decreto encontra-se concretamente fundamentado para a garantia da ordem pública, em razão da gravidade concreta das condutas atribuídas ao paciente, haja vista, que o acusado praticou, em tese, o crime de estelionato perpetrado em desfavor de diversas vítimas idosas. Na ocasião, o acusado visava vítimas que iam sacar seus benefícios previdenciários, e explorando a vulnerabilidade intrínseca de pessoas idosas, cuja proteção penal encontra respaldo no art. 230 da Constituição Federal e na legislação infraconstitucional (Estatuto do Idoso - Lei 10.741/03), de forma insensível e egoísta, furtava esses benefícios, fazendo com que as vítimas passassem por dificuldades financeiras, privando-as da compra de medicamentos e de alimentos para sua sobrevivência, como está relatado nos depoimentos prestados em juízo, circunstâncias aptas a justificar a segregação cautelar - fl. 43.
+Sobre o tema:
+"A prisão preventiva foi decretada para garantir a ordem pública e está devidamente fundamentada em dados concretos, que evidenciam habitualidade da conduta delitiva, prejuízo a múltiplas vítimas e risco de reiteração criminosa. Segundo consta, o agravante, no exercício da atividade de corretor de imóveis, teria praticado sucessivos delitos patrimoniais com o mesmo padrão de atuação, em prejuízo de diversas vítimas. Esse cenário revela a presença de elementos concretos suficientes para a manutenção da custódia cautelar" (AgRg no HC n. 1.000.392/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJEN de 21/5/2025).
+"No caso, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois, conforme consignado pelas instâncias ordinárias, o ora agravante, acusado pela suposta prática de estelionato contra idoso, estaria a ser investigado pelo cometimento de outros delitos semelhantes em outros municípios e com o mesmo modus operandi" (AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2024.)
+Quanto a alegada ausência de contemporaneidade dos fatos, da leitura do acórdão recorrido verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema:
+"O Tribunal de origem não analisou a matéria trazida pela defesa, o que impede a apreciação direta pelo STJ, sob pena de supressão de instância" (AgRg no RHC n. 211.183/PE, de minha relatoria, Quinta Turma, DJEN de 28/4/2025).
+"Não debatida a questão pela Corte de origem, é firme o entendimento de que fica obstada sua análise, em princípio, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal" (AgRg nos EDcl no HC n. 955.826/ES, relator Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
