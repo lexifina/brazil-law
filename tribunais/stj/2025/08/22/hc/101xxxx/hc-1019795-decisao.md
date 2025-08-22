@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de ANDRE LUIZ DA SILVA COSTA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta dos autos a prisão preventiva do paciente decorrente de suposta prática dos delitos capitulados nos arts. 121, § 2º, IV, e 211 do Código Penal, termos em que denunciado.
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 7/8)
+Ementa: HABEAS CORPUS. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER (ART. 121, §2º, IV C/C ART. 211, AMBOS DO CÓDIGO PENAL). PRISÃO PREVENTIVA. TESE DE EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. ANÁLISE GLOBAL. TRÂMITE PROCESSUAL REGULAR. AUSÊNCIA DE DESÍDIA APTA A CARACTERIZAR O CONSTRANGIMENTO ILEGAL. COMPLEXIDADE DO FEITO. PLURALIDADE DE RÉUS. (QUATRO). INSTRUÇÃO PRATICAMENTE ENCERRADA. SÚMULA N.º 15 DO TJCE. HABEAS CORPUS CONHECIDO E DENEGADO, com recomendação ao juízo de origem.
+I. Caso em exame
+1. Habeas corpus impetrado por Anderson Rodrigues dos Santos, em favor de André Luiz da Silva Costa, contra ato do Juízo da 1ª Vara Criminal da Comarca de Caucaia, no bojo da ação penal n.º 0204054-53.2023.8.06.0300.
+II. Questão em discussão
+2. Há uma questão em discussão: (i) avaliar se o decurso de mais de dois meses após o encerramento da instrução sem decisão de pronúncia configura excesso de prazo apto a ensejar o relaxamento da prisão preventiva.
+III. Razões de decidir
+3. A jurisprudência pacífica prevê que o excesso de prazo na formação da culpa deve ser analisado à luz da razoabilidade, considerando a complexidade do feito, a quantidade de réus e a necessidade de diligências processuais.
+4. No caso concreto, verificou-se que a tramitação do processo ocorreu sem desídia judicial, tendo havido sucessivas audiências de instrução e a necessidade de novas diligências para oitiva de testemunhas, ressaltando a investigação de condutas de difícil apuração, assim como ao número de acusados (quatro) e de causídicos. Também é relevante pontuar a elevada quantidade de autos dependentes e apensos, o que denota mais ainda a complexidade do feito, exigindo profundas apurações e várias diligências, incidindo a aplicação da súmula 15 do TJCE.
+5. Ademais, a instrução processual encontra-se praticamente encerrada, estando o processo, no presente momento, somente no aguardo de remessa de resposta da Pefoce em relação as perícias de exames residuográficos, o que obsta o reconhecimento do excesso de prazo.
+IV. Dispositivo e Tese
+6. Habeas corpus conhecido e denegado, com recomendação ao juízo de origem.
+Tese de julgamento: 1. "A alegação de excesso de prazo na formação da culpa deve ser analisada à luz da razoabilidade, sendo justificada a dilação em casos complexos, com pluralidade de réus e necessidade de diligências processuais."
+Em suas razões, o impetrante sustenta que está preso desde outubro/2024, sem que tenha sido encerrada a instrução criminal.
+Afirma que "não houve, de parte da Defesa, qualquer embaraço ou expediente protelatório que justificasse tal morosidade", configurando "inequívoco excesso de prazo na formação da culpa, em desrespeito à garantia constitucional da razoável duração do processo" (e-STJ fl. 3).
+Defende, ademais, que "o encarceramento do Paciente não se justifica, diante da viabilidade da aplicação de medidas cautelares alternativas", como proibição de manter contato com outros investigados ou testemunhas, recolhimento domiciliar no período noturno, monitoramento eletrônico e comparecimento periódico em juízo para informar e justificar suas atividades (e-STJ fl. 4).
+Requer, assim, liminarmente no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+Indeferida a liminar (e-STJ fls. 33/34) e prestadas as informações (e-STJ fls. 39/47, 48/52 e 53/50), manifestou-se o Ministério Público Federal, nesta instância, pelo não conhecimento/denegação da ordem.
+É o relatório.
+Decido.
+A aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Na hipótese, colho do acórdão recorrido (e-STJ fls. 11/15):
+Em consulta aos autos da ação penal de origem (n.º 0204054-53.2023.8.06.0300) no SAJPG, tem-se o breve histórico:
+- Em 24/11/2022, ocorreu o fato imputado ao paciente (Relatório do Inquérito Policial nº 201-495/2023, às 87/92);
+Em 07/08/2023, foi oferecida a Denúncia, e requerida a prisão preventiva de: John Kennedy Pinheiro Almeida, André Luiz Silva Costa, Danilo Silva de Araújo e João Paulo da Silva Coelho (fls. 112/120);
+- Em 17/08/2023, o Juízo da 1ª Vara Criminal da Comarca de Caucaia recebeu a denúncia oferecida contra o paciente e demais corréus, decretando, ainda, a sua prisão preventiva (fls. 122/123);
+- Em 18/08/2023, foi expedido Mandado de Prisão em desfavor do paciente (fl. 129);
+- Em 11/09/2023, foi certificado nos autos que o paciente não pode ser citado, pois "Em diligência, fui informada por sua mãe, a Sra. Dalva, de que o mesmo mudou-se para Sítios Novos, não tendo sido possível, no entanto, pormenorizar seu atual endereço. Diante do exposto,devolvo o mandado à Secretaria para os devidos fins de Direito." (fl. 189);
+- Em 25/09/2023, a defesa do paciente apresentou a competente resposta à acusação (fls. 206/209);
+- Em 01/11/2023, o representante da 1ª Promotoria de Justiça de Caucaia apresentou parecer, manifestando-se sobre as questões preliminares arguidas pela defesa do paciente e dos corréus, Danilo Silva de Araújo e João Paulo da Silva Coelho, opinando pelo "indeferimento das preliminares trazidas na Resposta à Acusação, prosseguindo-se o feito." (fls. 241/242);
+- Em 06/11/2023, o Juízo a quo proferiu despacho determinando que fosse designada data para Audiência de Instrução (fls.243/244); - Mandado de prisão em desfavor do paciente cumprido em 15/12/2023;
+- Em 11/03/2024, a Audiência de Instrução designada para aquela data não pôde ser realizada, quando o Juízo a quo determinou que as partes se manifestassem quanto às testemunhas que não compareceram para o ato (fls. 326/327);
+- Em 03/04/2024, o representante do Ministério Público, em cumprimento ao que fora determinado no Termo de Audiência de fls. 326/327, apresentou informação sobre a ausência das testemunhas na audiência do dia 11/03/2024 (fl. 340);
+- Em 05/04/2024, foi proferido despacho determinando que fossem incluídos em pauta de audiências (fl. 341);
+- Em 08/04/2024, nos autos de n.º 0011185-58.2024.8.06.0064, o Juízo competente indeferiu o pedido de revogação da prisão preventiva formulado pela defesa do paciente, às fls. 30/31, dos referidos autos;
+- Em 08/04/2024, foi proferido Ato Ordinatório, designando a Audiência de Instrução para 12/08/2024;
+- Em 14/05/2024, nos autos de n.º 0011668-88.2024.8.06.0064, o Juízo competente indeferiu o pedido de relaxamento da prisão preventiva formulado pela defesa do paciente, às fls. 13/14, dos referidos autos;
+- Em 12/08/2024, foi realizada Audiência de Instrução, conforme Termo acostado às fls. 399/400, oportunidade em que foram ouvidas testemunhas de acusação e defesa;
+- Em 28/08/2024, foi proferido Ato Ordinatório, designando a Audiência de Instrução para 11/11/2024 (fl. 425);
+- Em 11/11/2024, foi realizada audiência em continuação, ocasião em que foi feita a oitiva das testemunhas, bem como do réu Danilo Silva de Araújo;
+- Em 21/11/2024, foi proferido Ato Ordinatório, designando a Audiência de Instrução para o dia 24/03/2025;
+- Em 17/12/2024, foi proferido Despacho nomeando a Defensoria Pública do Estado do Ceará para patrocinar a defesa do réu João Paulo da Silva Coelho (fl. 469);
+- Em 24/03/2025, foi realizada a audiência em continuação, com o interrogatório dos réus, bem como a defesa do réu Danilo Silva de Araújo requereu o resultado das perícias de exames residuográficos junto à PEFOCE; por fim, o Juiz decretou o encerramento da instrução criminal e, após o retorno da PEFOCE, determinou que os autos sigam com vista às partes.
+Dessa forma, a despeito da demora temporária, percebe-se que, atualmente, o feito encontra-se prosseguindo seu regular curso, com impulsos da autoridade apontada como coatora, inclusive com o encerramento da coleta da prova oral e, portanto, não constato excesso de prazo injustificado.
+Ora, a instrução processual está praticamente concluída, estando o processo aguardando apenas a remessa de resposta da Pefoce em relação as perícias de exames residuográficos.
+ ..
+Com efeito, o maior entrave da atual fase processual não repousa na atuação dos sujeitos principais do processo, nem das autoridades estatais como um todo (polícia, peritos, servidores públicos etc.), e sim na complexidade do feito, estando devidamente justificada a não conclusão na formação de culpa, mormente devido à multiplicidade de condutas, assim como ao número de acusados (quatro) e inúmeros causídicos.
+Também é relevante pontuar a elevada quantidade de autos dependentes e apensos, o que denota mais ainda a complexidade do feito, exigindo profundas apurações e várias diligências.
+Sendo complexo, é natural e inerente que o caso em apreço demande maiores esforços e tempo para que as suas diligências findem, motivo pelo qual se aplica a tese consagrada no enunciado da Súmula n.º 15, deste Tribunal de Justiça, in litteris:
+Súmula n.º 15 do TJCE: "Não há falar em ilegalidade da prisão por excesso de prazo quando a complexidade do crime apurado ou a pluralidade de réus justifica a mora na ultimação dos atos processuais."
+De todo o cenário exposto, não se constata desídia da autoridade impetrada na condução do feito.
+Não há, portanto, que se falar em excesso de prazo, pois o processo vem tendo regular andamento na origem, sem indícios de desídia ou paralisação imputável aos órgãos estatais responsáveis. O feito está tramitando normalmente, sobretudo, dada a complexidade e a pluralidade de réus.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. CONDENADO POR TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS, CORRUPÇÃO DE MENORES E PICHAÇÃO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - In casu, no que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+III - Em que pese a Defesa alegar excesso de prazo, não foi constatado a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, na qual se apura as condutas de organização criminosa, tráfico de drogas, associação para o tráfico, corrupção de menores e pichação, demonstrando a complexidade do feito diante da diversidade de condutas e da pluralidade de pessoas envolvidas em práticas delitivas, 15 (quinze) réus e 08 (oito) fatos; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+IV- Como registro a fundamentação do acórdão do Tribunal de origem hostilizado: " ..  Em que pese tenha a sentença sido proferida em 13/07/2021 (evento 1, OUT10), a demora na interposição e processamento dos recursos é compreensível, notadamente porque, muito provavelmente, os réus possuem defensores diversos.  .. ".
+V- É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC n. 200.155/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES, ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AUSÊNCIA DE DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. INVESTIGAÇÃO COMPLEXA (50 INVESTIGADOS). DIVERSAS DILIGÊNCIAS. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e da proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional, o que não se verifica de plano no caso em exame, em que a ação se desenvolve de forma regular, sem desídia ou inércia do Magistrado singular.
+2. Com efeito, eventual atraso está justificado, uma vez que a investigação apresenta uma complexidade que foge das referência regulares, pois conta com um elevando número de investigados, são cerca de 50 pessoas, algumas foragidas, o que efetivamente demanda mais tempo para a apuração dos indícios de autoria e participação de cada um nos eventos investigados. Além disso, verifica-se a realização de diversas diligências, como buscas e apreensões, quebras de sigilo telemático, bancário e fiscal. Do mesmo modo, verifica-se que os fatos em apuração são relevantes e abalam a ordem pública, pois decorrem de duas apreensões de grandes quantidade de drogas na cidade de Juiz de Fora/MG, que totalizaram 550kg de maconha e ainda há notícia de que o grupo movimentou mais de três bilhões e meio de reais, no período de 2018 a 2022. Verifica-se, ainda, que o paciente é apontado como um dos "gerentes" do tráfico e seria um dos "homens de confiança" do líder Cássio.
+3. Ponderando-se a imprescindibilidade da prisão preventiva e a pena em abstrato dos reputados delitos, parâmetros relevantes ao menos nesta etapa processual, não se verificava o alegado constrangimento ilegal por excesso de prazo, tampouco desproporcionalidade patente do prazo da prisão preventiva.
+4. Agravo regimental improvido.
+(AgRg no HC n. 907.464/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Vale destacar, ainda, que, em consulta ao sítio do Tribunal de Justiça do Estado do Ceará, verifiquei que, aos 13/8/2025, abriu-se vistas à defesa para a apresentação de alegações finais, atraindo a incidência da Súmula n. 52/STJ.
+Finalmente, quanto à alegação de que "o encarceramento do Paciente não se justifica, diante da viabilidade da aplicação de medidas cautelares alternativas", observo que não houve pronunciamento da Corte de origem a respeito do tema, o que impede sua análise , nesta oportunidade, sob pena de indevida supressão de instância.
+Diante do exposto, conheço em parte do habeas corpus, para, nesta extensão, denegar a ordem.
+Publique-se.
+Intimem-se.
+ EMENTA
