@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de MAURILIO SANTOS XAVIER DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Narram os autos que o paciente foi condenado pelo Juízo de Direito da Vara Criminal da comarca de Estância/SE, pela prática do crime de tráfico privilegiado de drogas (art. 33, § 4º, da Lei n. 11.343/2006), a 1ano e 8 meses de reclusão, em regime aberto, além de 166 dias-multa (Ação Penal n. 202351000421).
+Inconformada, a defesa interpôs apelação criminal na colenda Corte de origem, que conheceu do recurso e deu-lhe parcial provimento apenas para reduzir a prestação pecuniária para o valor de um salário-mínimo, mantendo a condenação.
+Aqui, alega o impetrante constrangimento ilegal consistente na flagrante ilegalidade da condenação e da não desclassificação do crime de tráfico de drogas para o uso de entorpecente (fls. 2/14).
+Postula, então, a concessão da ordem, para absolver o Paciente, ante a ausência de provas, com fundamento no art. 386, VII, do CPP ou, subsidiariamente, a desclassificação ao tipo do art. 28 da Lei n. 11.343/2006 (fl. 14).
+Prestadas as informações (fls. 177/185), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 189/194).
+É o relatório.
+Diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese em que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação (AgRg no HC n. 885.105/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/9/2024).
+Ademais, a desconstituição do julgado por suposta fragilidade do conjunto probatório, com o restabelecimento da sentença de primeiro grau, não encontra campo na via eleita. É cediço que não cabe ampla análise de fatos e provas nos autos de habeas corpus, o que torna totalmente inadmissível a análise do pedido formulado. Nesse sentido, por exemplo, o AgRg no HC n. 847.295/MG, Ministra Laurita Vaz, Sexta Turma, DJe 5/10/2023; e o AgRg no HC n. 808.611/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/4/2023.
+Por fim, o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 848.618/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023).
+Diante do exposto, não conheço do writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA NAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. ABSOLVIÇÃO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA A CONSUMO PRÓPRIO. IN VIABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A TRAFICÂNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+Writ não conhecido.
