@@ -1,0 +1,42 @@
+DECISÃO
+MARCOS LEANDRO SILVA SANTOS alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de Minas Gerais, que denegou o HC n. 1.0000.25.209579-9/000
+O paciente foi denunciado, pelos crimes de tráfico de drogas e organização criminosa, e teve sua prisão preventiva decretada.
+A defesa argumenta fundamentação deficiente do decreto prisional, fragilidade probatória e condições pessoais favoráveis ao paciente.
+Requer a revogação da prisão preventiva ou a aplicação de medidas cautelares diversas delas.
+O Ministério Público Federal, na pessoa do Subprocurador-geral da República Paulo Queiroz, opinou pela denegação da ordem (fls. 2.033-2.037).
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado, desde que não assuma natureza de antecipação da pena, e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315, ambos do CPP).
+No que interessa, a cautela extrema foi assim justificada (fls. 1.849-1.859 , grifei):
+Do Fumus Comissi Delicti
+A prova da existência dos crimes de tráfico de drogas, associação para o tráfico e organização criminosa se encontra consubstanciada nos diversos laudos periciais elaborados a partir da quebra de sigilo de dados telefônicos dos aparelhos celulares apreendidos na posse dos investigados.
+Os laudos revelam a existência de inúmeros diálogos entre os investigados, cujo conteúdo diz respeito à compra e venda de drogas, à divisão de tarefas dentro da facção criminosa, à cobrança de dívidas, à negociação de armas e munições, e à determinação de punições para os membros que descumprem as regras do PCC.
+Além disso, os laudos apresentam diversas fotografias e vídeos que retratam grandes quantidades de drogas comercializadas pelo grupo, armas de fogo de diversos calibres, balanças de precisão, e outros objetos utilizados na prática dos crimes.
+Os indícios de autoria, por sua vez, recaem sobre os investigados em razão de seus respectivos envolvimentos nas atividades da facção criminosa, conforme detalhado pela PCMG no relatório de investigação (ID 10437226869). A autoridade policial descreve a função de cada um dos investigados dentro do PCC, seus apelidos, codificações, áreas de atuação, e os elementos de prova que comprovam sua participação nos crimes.
+ ..
+Do Periculum Libertatis
+O perigo gerado pelo estado de liberdade dos investigados se revela na necessidade de garantir a ordem pública, a instrução criminal e a aplicação da lei penal.
+A garantia da ordem pública se justifica em razão da gravidade concreta dos crimes praticados pelos investigados, que integram uma organização criminosa de grande porte, com atuação em diversos municípios e estados, e com um sistema de justiça próprio, que desafia a autoridade do Estado.
+A atuação do PCC em Santa Vitória e região tem causado graves prejuízos à sociedade, com o aumento da violência, da criminalidade e da sensação de insegurança.
+A organização criminosa tem corrompido jovens, aliciado menores de idade para o tráfico de drogas, e imposto um regime de terror aos moradores das áreas dominadas pelo grupo.
+A instrução criminal, por sua vez, se encontra ameaçada pela possibilidade de que os investigados, em liberdade, possam coagir testemunhas, destruir provas, dificultar a apuração dos fatos, bem como empreenderem fuga.
+A complexidade da investigação, que envolve um grande número de pessoas e uma vasta quantidade de dados, exige a manutenção da custódia cautelar dos investigados para garantir a lisura e a eficácia da persecução penal.
+A aplicação da lei penal, por fim, se encontra em risco diante da possibilidade de que os investigados, em liberdade, possam empreender fuga, frustrando a eventual condenação e a execução das penas.
+A ousadia e a periculosidade dos investigados, que se autodenominam "inimigos do Estado" e desafiam a autoridade da lei, demonstram a necessidade de garantir o cumprimento da lei penal, evitando a impunidade e o descrédito da Justiça.
+Como se observa, o ora paciente supostamente integra complexa organização criminosa voltada para o tráfico - PCC -, com ramificações interestaduais e estrutura de justiça paralela, o que demonstra a gravidade concreta da conduta apurada e a necessidade de se interromper a atuação do grupo criminoso para a garantia da ordem pública.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. TESE DE AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA DELITIVA. NECESSIDADE DE INCURSÃO APROFUNDADA NO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE ANÁLISE. PRISÃO PREVENTIVA. REQUISITOS. GRAVIDADE CONCRETA DOS FATOS. FUNDAMENTAÇÃO IDÔNEA. ACRÉSCIMOS DE FUNDAMENTOS PELO TRIBUNAL DE ORIGEM. NÃO OCORRÊNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. AGRAVO DESPROVIDO.
+1. Constatada pelas instâncias ordinárias a existência de prova suficiente para instaurar a ação penal, reconhecer que os indícios de materialidade e autoria do crime são insuficientes para justificar a custódia cautelar implicaria afastar o substrato fático em que se ampara a acusação, o que, como é sabido, não é possível na estreita e célere via do habeas corpus.
+2. A custódia cautelar foi suficientemente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, considerando-se, sobretudo, que as instâncias ordinárias, com base em elementos extraídos dos autos, entenderam que a Agravante integra organização criminosa e atua como uma das lideranças do bando, o que evidencia a gravidade concreta dos fatos e a necessidade de se interromper a atuação do grupo criminoso.
+3. Aplica-se, na espécie, o entendimento de que " n ão há ilegalidade na decisão que decreta a prisão preventiva com base em elementos concretos aptos a revelar a real necessidade de se fazer cessar ou diminuir a atuação de suposto integrante de organização criminosa para assegurar a ordem pública" (RHC 144.284 AgR, Rel. Ministro EDSON FACHIN, SEGUNDA TURMA, DJe 27/08/2018).
+4. Consoante a jurisprudência desta Corte, " é  legítimo que o Tribunal, no julgamento do habeas corpus, especifique as circunstâncias já expostas pelo Juízo de origem no decreto de prisão preventiva, o que não se confunde com a vedada prática de acréscimo de fundamentos" (AgRg no RHC n. 155.837/CE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/11/2021, DJe de 25/11/2021).
+5. Condições pessoais favoráveis, tais como primariedade, bons antecedentes e residência fixa, não têm o condão de, por si sós, desconstituir a custódia processual, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema.
+6. Considerada a gravidade concreta dos fatos, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas da prisão, nos termos do art. 282, inciso II, do Código de Processo Penal.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 887.179/ES, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024, grifei)
+Aplica-se ainda, na espécie, a seguinte orientação deste Superior Tribunal:
+O Magistrado de primeiro grau, ao decretar a prisão preventiva, entendeu, com base nos elementos de prova disponíveis, estarem demonstrados indícios mínimos de autoria e prova da materialidade delitiva. Nesse contexto, é inadmissível o enfrentamento da alegação de negativa de autoria/participação no delito na via estreita do habeas corpus, ante a necessária incursão probatória, que deverá ser realizada pelo Juízo competente para a instrução e julgamento da causa (HC n. 552.612/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 23/3/2020).
+Por fim, não constato flagrante ilegalidade na espécie. Embora consideradas as condições pessoais do réu, as apontadas circunstâncias dos fatos não indicam ser a dequada e suficiente a substituição da prisão preve ntiva por medidas a ela alternativas (art. 282, c/c o art. 319 do CPP).
+À vista do exposto, denego a ordem e julgo prejudicado o pedido de reconsideração (fls. 2.027-2.032).
+Publique-se e intimem-se.
+EMENTA
