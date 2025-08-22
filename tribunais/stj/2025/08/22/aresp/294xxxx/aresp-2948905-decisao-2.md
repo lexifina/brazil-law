@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pela Eduardo Sampaio e outros, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 200/201):
+APELAÇÃO REMESSA NECESSÁRIA MANDADO DE SEGURANÇA BASE DE CÁLCULO DO ITCMD (IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO) VINCULAÇÃO AO IPTU POSSIBILIDADE, CONFORME O ENTENDIMENTO MAJORITÁRIO DA CÂMARA.
+Pleito da parte autora para que, no cálculo do ITCMD, haja aplicação da base de cálculo do imposto como sendo o valor venal constante do IPTU, afastando-se as alterações instituídas pelo Decreto Estadual 55.002/09. Sentença concessiva em parte da segurança.
+ITCMD Artigo 13 da Lei Estadual 10.705/2000 determina que a base de cálculo do imposto é o valor venal do imóvel.
+Ressalvado o meu entendimento, adoto aquele majoritário da Câmara no sentido de que o valor do IPTU do imóvel pode ser a base de cálculo para o ITCMD, afastando-se as alterações instituídas com o Decreto Estadual nº 55.002/2009, que regulamentou o art. 13 da Lei Estadual 10.705/2000.
+Com efeito, esta Câmara tem entendido que a regulamentação do art. 13 da Lei Estadual 10.705/00 por meio da edição do Decreto Estadual 55.002/09, a determinar que a base de cálculo do ITCMD é o valor venal de referência do imóvel para fins de quantificação do ITBI, ofende o princípio da legalidade tributária e contraria o disposto no artigo 150, inciso I da Constituição Federal e artigo 97, incisos II e IV do Código Tributário Nacional Impossibilidade de criar ou majorar tributos senão por meio de lei em sentido estrito Entendimento unânime desta 8ª Câmara de Direito Público.
+EMOLUMENTOS ILEGITIMIDADE PASSIVA DA AUTORIDADE IMPETRADA Passando ao pedido dos apelantes para que os emolumentos cartorários e custas sejam também calculados sobre o valor venal do imóvel para fins de cobrança de IPTU, deve ser mantida a sentença, a qual determinou a ilegitimidade passiva do impetrado em relação a tal pleito.
+Ora, o Secretário da Fazenda e Planejamento do Estado de São Paulo não detém competência administrativa em relação aos emolumentos, visto que tal competência recai sobre os próprios tabeliães das Serventias Extrajudiciais. Precedentes deste Tribunal, inclusive desta 8ª Câmara. Sentença concessiva em parte da segurança mantida.
+Recurso voluntário e reexame necessário não providos.
+Os embargos declaratórios de fls. 239/241 foram parcialmente acolhidos apenas para sanar omissão, sem efeitos modificativos (fls. 255/258).
+Já o recurso integrativo acostado às fls. 291/294 foi rejeitado (fls. 295/299).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio de jurisprudencial, violação aos arts. 1.022 do CPC; 38 e 147 do CTN. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca das questões neles suscitadas; e (II) andou mal o Sodalício a quo quando deixou de estender às custas e aos emolumentos do Registro de Imóveis a adoção do valor venal do imóvel (IPTU) considerada para a cobrança do ITCMD, culminando por compreender pela ilegitimidade passiva do Estado de São Paulo nesse particular.
+Sem contrarrazões (fl. 306).
+Parecer do Ministério Público Federal às fls. 391/399.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que, na data de hoje, considerando o agravo em recurso especial interposto pela parte ex adversa no bojo dos presentes autos, proferi decisão em que, reconhecendo a afetação pelo STJ do Tema 1.371/STJ - REsp 2.175.094/SP e REsp 2.213.551/SP, Rel. Min, Maria Thereza de Assis Moura, DJe 19/08/2025): "Definir se a prerrogativa do fisco de arbitrar a base de cálculo do ITCMD decorre diretamente do CTN ou está sujeita às normas específicas da Unidade da Federação", determinei o retorno dos autos à instância ordinária, para eventual juízo de conformação (arts. 1.040 e 1.041 do CPC).
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação n o momento.
+ANTE O EXPOSTO, julgo prejudicado o exame do recurso especial da Eduardo Sampaio e outros no presente momento processual.
+Publique-se.
+EMENTA
