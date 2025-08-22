@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo, interposto por BRF S.A. da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 0005490-04.2022.8.16.0004, assim ementado (fl. 302):
+TRIBUTÁRIO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. OPERAÇÃO INTERESTADUAL DE AQUISIÇÃO DE BENS DE USO E CONSUMO OU DESTINADOS AO ATIVO IMOBILIZADO. PRELIMINAR. PERDA DE OBJETO DOS EMBARGOS DE DECLARAÇÃO. DECISÃO ANTERIOR INVALIDADE PELO JUÍZO. ANÁLISE DO MAGISTRADO QUE RECONHECEU A PREJUDICIALIDADE DO RECURSO. AUSÊNCIA DE INTERESSE RECURSAL. PARCELA NÃO CONHECIDA. MÉRITO. DESTINATÁRIO CONTRIBUINTE DO IMPOSTO. SITUAÇÃO DISTINTA DA TRATADA NO TEMA Nº 1.093 /STF. DESNECESSIDADE DE LEI COMPLEMENTAR. ELEMENTOS NECESSÁRIOS PARA A COBRANÇA DO IMPOSTO CONTIDOS NA CONSTITUIÇÃO. INEXISTÊNCIA DE INSTITUIÇÃO OU MAJORAÇÃO DE TRIBUTO QUE JUSTIFIQUE A OBSERVÂNCIA À ANTERIORIDADE. SENTENÇA MANTIDA.
+Opostos embargos de declaração, estes foram rejeitados (fls. 336-341).
+Recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, alegando violação aos arts. 1.022, inciso II e parágrafo único, inciso II, e 489, § 1º, incisos IV e VI, do Código de Processo Civil; 12 da Lei Complementar n. 87/1996 e 3º da Lei Complementar n. 190/2022 (fls. 349-364).
+A parte recorrente alega que o acórdão recorrido deixou de se manifestar sobre o entendimento do Supremo Tribunal Federal de que a Lei Kandir não disciplinou suficientemente a cobrança do DIFAL, aplicando entendimento contrário ao da Corte Suprema, o que torna o acórdão omisso e, por consequência, nulo.
+Argumenta que a Lei Kandir não contém disposição sobre a cobrança do DIFAL na hipótese de aquisição de bens, mas apenas na hipótese de tomada de serviços.
+Afirma que o acórdão entendeu por bem não aplicar o princípio da anterioridade à espécie, apesar da expressa previsão de sua aplicação no art. 3º da LC 190/2022, violando flagrantemente sua vigência.
+Destaca que não há previsão na Lei Kandir para a cobrança do DIFAL nas operações de aquisição de mercadorias para uso e consumo e integração do ativo imobilizado de contribuintes do ICMS, sendo necessário que tal cobrança seja disciplinada por lei complementar.
+Assevera que, uma vez reconhecida a cobrança indevida do DIFAL até a publicação da LC n. 190/2022, é necessário afastar a cobrança durante todo o ano de 2022, em observância ao princípio da anterioridade tributária.
+Busca, em sua, demonstrar a nulidade do acórdão recorrido e a ilegalidade da cobrança do DIFAL pelo Estado do Paraná, solicitando a reforma do acórdão para afastar a exigibilidade do tributo nas operações interestaduais de aquisição de mercadorias para uso e consumo e integração do ativo imobilizado no ano de 2022.
+Foram apresentadas contrarrazões ao recurso especial (fls. 372-382).
+O recurso não foi admitido na origem (fls. 387-389), o que ensejou a interposição do presente agravo (fls. 440-447).
+Contraminuta às fls. 451-453.
+Parecer do Ministério Público Federal pelo não conhecimento (fls. 497-503).
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+De início, ressalto que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito,  n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; sem grifos no original).
+Vale dizer: "o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão" (AgInt no REsp n. 2.018.125/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2024, DJe de 12/9/2024).
+O acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. O que se denota é mero inconformismo da parte recorrente com o resultado do julgamento que lhe foi desfavorável. Portanto, não há ofensa ao art. 489 do Código de Processo Civil. Nesse sentido: AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1º/6/2023; AgInt no AREsp n. 2.172.041/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.
+Ao decidir sobre a controvérsia recursal, a Corte a quo, adotou os seguintes fundamentos (fls. 304-307):
+A controvérsia diz respeito à aplicação do entendimento firmado pelo Supremo Tribunal Federal no Tema nº 1.093, na hipótese de o destinatário tratar-se de contribuinte do ICMS, em incorporação ao ativo permanente ou ao uso ou consumo, localizado no Estado do Paraná, de mercadoria originária de outro Estado-Membro.
+O Estado do Paraná exige do contribuinte local o recolhimento de ICMS relativo a aquisições interestaduais no momento da entrada da mercadoria em seu território, visando minorar os efeitos da "guerra fiscal", tal como fazem os demais Estados-Membros. Isso porque, nas operações interestaduais, sendo a alíquota menor, assegura-se ao Estado de destino a cobrança, para equalizar a diferença em relação à alíquota interna.
+A previsão da matéria se inicia na Constituição Federal, observe-se:
+ ..
+Posteriormente, previu a Lei Estadual nº 11.580/1996:
+ ..
+Na sequência, adveio o Decreto Estadual nº 7.871/2017, que aprovou o Regulamento do ICMS:
+ ..
+Assim, a exigência do ICMS neste caso não tem amparo no Convênio ICMS nº 93/2015, sendo indevida a aplicação do entendimento e da modulação definida para o Tema nº 1.093, uma vez que as cláusulas submetidas à modulação dos efeitos, sequer têm incidência no caso concreto.
+Portanto, a questão de direito desta ação, não coincide com a discutida no julgamento de repercussão geral, RE nº 1.287.019/DF, da lavra do Ministro Dias Toffoli, veja-se:
+ ..
+Tratam-se de hipóteses distintas.
+Na definição do Tema nº 1.093/STF, adotou-se como fundamento, a impossibilidade de o Convênio Confaz nº 93/2015 suprir a falta de disposição de Lei Complementar, e no caso em debate, sequer tem aplicação o referido convênio, que versa sobre os "procedimentos a serem observados nas operações e prestações que destinem bens e serviços a consumidor final não contribuinte do ICMS, localizado em outra unidade federada".
+Além disso, a necessidade de lei complementar foi reconhecida por ter a Emenda Constitucional nº 87/2015 inovado na ordem jurídica, na hipótese de destinatário de mercadoria proveniente de outro Estado não contribuinte do ICMS, carecendo de previsão de normas gerais quanto ao sujeito ativo, sujeito passivo e base de cálculo.
+Por outro lado, quando se trata de destinatário contribuinte, não se passa a mesma situação. Para essa circunstância, a própria Constituição Federal traz os elementos necessários para a cobrança do imposto.
+ ..
+Como já destacado, por consequência da inaplicabilidade do Tema nº 1.093/STF, dado que a situação da cobrança do diferencial de alíquota do consumidor final contribuinte do imposto já veio tratada na Constituição Federal, inexiste instituição ou majoração de tributo que atraia a necessidade de observância da anterioridade tributária, seja anual ou nonagesimal.
+Dessume-se que o acórdão recorrido decidiu a questão referente à exigibilidade do ICMS-DIFAL nas operações interestaduais de aquisição de bens para uso e consumo ou destinados ao ativo imobilizado, com lastro em fundamento exclusivamente constitucional. Nesse contexto, a sua revisão é inviável em recurso especial, que se destina a uniformizar a interpretação do direito federal infraconstitucional.
+A propósito :
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. ICMS. DIFAL. ANTERIORIDADE. MATÉRIA DECIDIDA À LUZ DE FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos arts. 489 e 1.022 do CPC.
+2. Ao dirimir a controvérsia, o Tribunal a quo consignou: "Ressalte-se que já se tem notícias de que existem Ações Diretas de Inconstitucionalidade propostas no STF (ADIs 7066, 7070 e 7075), distribuídas ao Exmo. Ministro Alexandre de Morais, cuja a controvérsia cinge-se justamente em definir o marco inicial da cobrança do referido tributo. Contudo, ainda não houve manifestação quanto à matéria, assim, o caso deve analisado de acordo com envergadura constitucional e legal que merecem ser aplicadas ao tema, até manifestação final do Pretório Excelso. (..) Nesse passo, não restam dúvidas de que a incidência do ICMS-DIFAL deve se submeter aos princípios da anterioridade anual e nonagesimal, uma vez que é possível se verificar que a LC nº 190/2022 trouxe verdadeiras inovações na seara tributária (..)" (fl. 147, e-STJ).
+3. Constata-se o viés constitucional dado à matéria, por força do art. 150, III, "b" e "c", da Constituição Federal de 1988, bem como a interpretação do quanto decidido pelo STF no Tema 1.093 (RE 1.287.019), a impedir a atuação do Superior Tribunal de Justiça.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.090.130/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/2/2024, DJe de 19/4/2024.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. DIFAL. ANTERIORIDADE. MATÉRIA DECIDIDA À LUZ DE FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Ainda que apontado como violado dispositivo de lei federal, é inviável o exame da controvérsia por este Tribunal Superior quando solucionada, na Corte local, sob a ótica de fundamento constitucional.
+2. Verifica-se da leitura do aresto combatido que a Corte local decidiu a questão da anterioridade à luz da interpretação da Emenda Constitucional n. 87/2015 e do entendimento do STF no julgamento do Tema n. 1.093 e da ADI n. 5.469/DF (e-STJ fls. 201/211).
+3. Assim, considerando que a tese recursal diz respeito à matéria analisada na origem à luz de fundamento constitucional, o conhecimento da matéria envolve, obrigatoriamente, o enfrentamento de matéria constitucional, inviável em recurso especial, sob pena de usurpação da competência do STF prevista no art. 102 da CRFB/88.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.075.943/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+No mesmo sentido, recentes decisões monocráticas: AREsp n. 2.924.803, Ministro Afrânio Vilela, DJEN de 5/8/2025; REsp n. 2.222.911, Ministro Francisco Falcão, DJEN de 5/8/2025.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem honorários advocatícios, consoante o art. 25 da Lei n. 12.016/2009 e as Súmulas n. 512 do STF ("Não cabe condenação em honorários de advogado na ação de mandado de segurança") e 105 do STJ ("Na ação de mandado de segurança não se admite condenação em honorários advocatícios").
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E T RIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DIFERENCIAL DE ALÍQUOTA DO ICMS - DIFAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO COM ESTEIO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DESPROVIDO.
