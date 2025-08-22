@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração do INSS opostos contra decisão monocrática que homologou os cálculos da Coordenadoria de Processamento de Feitos em Execução Judicial e determinou a atualização dos valores com posterior expedição de requisições de pagamento, condicionada à concordância das partes.
+O embargante defe nde que a decisão agravada reconheceu "a necessidade de abatimento integral dos valores pagos administrativamente" e alega omissão porquanto que não teria sido observada a determinação de retorno dos autos para recálculo nos termos do que fora decidido. Requer o acolhimento do recurso, com efeitos infringentes, para que possa apresentar prova do pagamento administrativo, seguido do retorno dos autos para recálculo da conta com o integral abatimento dos valores pagos administrativamente.
+Intimada, a ANFIP deixou transcorrer o prazo sem resposta (fl. 570).
+É o relatório. Decido.
+Os embargos de declaração não merecem acolhimento.
+Ao contrário do que defende o INSS, a decisão embargada foi clara ao consignar que na dedução do pagamento administrativo deve ser observada a "proporção relativa ao número de meses do cálculo individual de cada substituído (respeitada a data final de constituição do passivo pago - dezembro/2001) dividido pelo período integral de referência desse passivo - janeiro/1995 a dezembro/2001)".
+Também não há que se falar em omissão no decisum, uma vez que expressamente levou em consideração a informação da Coordenadoria de Processamento de Feitos em Execução Judicial, no sentido de que a dedução das parcelas de pagamento administrativo foi realizada "proporcionalmente ao período de apuração destes autos, na razão de 21/84 (número de meses deste cálculo abrangido pelo passivo instituído na MP 2.225-45/2001 - abril/2000 a novembro/2001 - dividido pelo período total de referência dos pagamentos administrativos - janeiro/1995 a dezembro/2001, referendado na medida provisória)". Dessa maneira, a decisão de fls. 542-543 acertadamente hom ologou os cálculos de liquidação.
+De toda forma, com fundamento no princípio do não enriquecimento sem causa, caso o INSS obtenha informação acerca de eventuais pagamentos administrativos realizados sob o mesmo objeto e período dos autos não considerados no cálculo de liquidação, é possível a dedução posterior, desde que apresentada a respectiva documentação comprobatória antes do levantamento de valores.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
