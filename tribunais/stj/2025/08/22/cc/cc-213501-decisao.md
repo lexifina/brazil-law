@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se conflito negativo aforado por FERNANDA CAROLINE MARTINS MENDROT envolvendo o r. juízo da 1ª Vara Cível de Taubaté/SP e o r. juízo da 1ª Vara do Trabalho de Taubaté/SP acerca da competência para processar e julgar ação movida pela insurgente em face de Doutor Sorriso Mais - Taubaté Ltda.
+O MPF entendeu desnecessária à sua manifestação. (fls. 730/732)
+É o relatório.
+Decisão.
+O presente conflito não merece conhecimento.
+1. O art. 66 do CPC/15, na mesma linha do codex de 1973 (art. 115), estabelece que somente se pode falar em conflito de competência quando: "(..) I - 2 (dois) ou mais juízes se declaram competentes; II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência; III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos." O parágrafo único do referido dispositivo legal em epígrafe determina ainda "o juiz que não acolher a competência declinada deverá suscitar o conflito, salvo se a atribuir a outro juízo."
+Com efeito, só há se falar em conflito de competência quando 2 (dois) juízos se declaram competentes ou incompetentes para processamento/julgamento de uma mesma demanda ou quando, por regra de conexão, houver controvérsia entre eles acerca da reunião ou separação dos processos (ut. AgInt nos EDcl no CC 164.461/TO, Rel. Min. Moura Ribeiro, DJe de 7/5/2020; Agint no CC 182.943/AM, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 05/11/2021).
+A corroborar a referida assertiva, destacam-se os seguintes estudos doutrinários: Teoria geral do processo: comentários ao CPC 2015: parte geral. Gajardoni, Ferando da Fonseca. Rio de Janeiro/RJ. Método. pag. 255; Nery Junior. Nelson. Código de Processo Civil comentado. São Paulo/SP. RT, 2019, p. 274/275, dentre outros.
+E essas circunstâncias, requisitos para manejo do conflito de competência, não se encontram presentes na hipótese porquanto o r. juízo laboral, ao reconhecer a sua incompetência, remeteu o feito ao r. juízo estadual que, por sua vez, consignou "(..) Antecipando-se à vinda dos autos daquela Justiça Especializada a esta Justiça Estadual e a consequente distribuição da ação a uma das Varas Cíveis deste Foro, a autora ajuizou ação pedindo a reconsideração da decisão proferida na Vara do Trabalho e o retorno daquele processo àquela Justiça Trabalhista. (..) Jamais seria dado a este Juízo determinar o "retorno" à Justiça do Trabalho de processo que ainda sequer foi formalmente remetido a este." (fls. 8/9)
+Sendo este o contexto fático, inexistem decisões conflitantes a ensejar/autorizar intervenção deste Superior Tribunal de Justiça, sendo de rigor, portanto, o não conhecimento do presente conflito de competência.
+Nesse sentido: CC 184875/SP, Rel. Min. Marco Aurélio Bellizze, DJe de 29/5/2024; CC 205361/RS, Rel. Min. Nancy Andrighi, Dje de 28/5/2024, dentre inúmeros outros julgados.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ, não conheço do presente conflito de competência.
+Publique-se. Intimem-se.
+EMENTA
