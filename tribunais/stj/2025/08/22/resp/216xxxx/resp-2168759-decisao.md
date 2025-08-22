@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  pelo MINISTÉRIO PÚBLICO FEDERAL contra  acórdão  prolatado  pelo  TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, que absolveu os recorridos das imputações dos crimes previstos no art. 1º, I, do Decreto-Lei 201/67 e no art. 89 da Lei 8.666/93.
+O recorrente alega violação aos arts. 1º, I, do Decreto-Lei 201/67, 89 da Lei 8.666/93 e 69 do Código Penal, sustentando que o Tribunal de origem conferiu interpretação jurídica diversa da jurisprudência desta Corte (fls. 2479/2776).
+O Ministério Público Federal apresentou  manifestação  pelo  não conhecimento do  recurso  especial  (fls.  2865/2668).
+É  o  relatório. DECIDO.
+Inicialmente, verifica-se que o recurso especial não merece conhecimento, em face dos seguintes óbices:
+a) Ausência de indicação do permissivo constitucional (Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+O recorrente limitou-se a apontar violação a dispositivos legais, sem indicar precisamente qual alínea do art. 105, III, da Constituição Federal fundamenta o recurso. A mera alegação de violação à lei federal não supre a necessidade de indicação expressa da alínea "a" ou "c" do referido dispositivo constitucional.
+Ao apreciar caso semelhante, esta Corte entendeu que: "O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração da parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida, juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF  .. " (REsp n. 1.891.923/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 16/2/2023).
+Em idêntico sentido: AgRg no AREsp n. 910.499/MG, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 14/4/2023; e AgRg no AREsp n. 1.968.089/DF, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 9/3/2023.
+b) Deficiência na impugnação dos fundamentos (Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+O acórdão recorrido apresentou diversos fundamentos autônomos para a absolvição dos réus, especialmente quanto à ausência de comprovação do superfaturamento e do conluio entre os agentes. O recurso não atacou especificamente todos esses fundamentos, limitando-se a alegações genéricas sobre a interpretação jurídica adotada.
+c) Necessidade de reexame de matéria fático-probatória (Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial").
+A pretensão recursal demandaria inevitavelmente o reexame do conjunto probatório dos autos, especialmente quanto à: existência efetiva de superfaturamento; comprovação do conluio entre os agentes; análise da regularidade das "cartas de exclusividade"; e verificação da realização integral das apresentações musicais.
+Tal fato impede o conhecimento do recurso.
+No mais, ainda que superados os óbices de admissibilidade, o recurso não mereceria provimento.
+O Tribunal Regional Federal, em análise soberana da prova, concluiu pela ausência de elementos suficientes para caracterizar os crimes imputados, destacando que as apresentações musicais foram integralmente realizadas; não houve comprovação efetiva de superfaturamento significativo; a diferença de valores entre eventos distintos pode decorrer de fatores naturais (correção monetária, duração do show, distância, etc.); a mera existência de "carta de exclusividade" ao invés de contrato registrado em cartório, não configura, por si só, fraude licitatória; e não restou demonstrado o conluio entre os agentes públicos e o intermediário.
+Esta análise encontra respaldo na jurisprudência desta Corte, que exige prova robusta e inequívoca para a caracterização de crimes contra a Administração Pública, especialmente quando envolvem dolo específico.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSOS ESPECIAIS. PENAL E PROCESSUAL PENAL. DISPENSA OU INEXIGIBILIDADE DE LICITAÇÃO FORA DAS HIPÓTESES LEGAIS E CORRUPÇÃO ATIVA. VIOLAÇÃO DO ART. 89 DA LEI N. 8.666/1993 E DISSÍDIO JURISPRUDENCIAL. DOLO ESPECÍFICO E PREJUÍZO AO ERÁRIO. DANO IN RE PISA. PONTOS IDENTIFICADOS NA SENTENÇA CONDENATÓRIA E NO RECORRIDO ACÓRDÃO. ALTERAÇÃO DO ENTENDIMENTO. INVIABILIDADE. NECESSIDADE DE INCURSÃO NO ARCABOUÇO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. TESE DE NOVATIO LEGIS IN MELLIUS POR CONTA DA ENTRADA EM VIGOR DA LEI N. 14.133/2021. ABOLITIO CRIMINIS EM REFERÊNCIA AO DELITO DO ART. 89, PARÁGRAFO ÚNICO, DA LEI N. 8.666/1993. INOCORRÊNCIA. CONTINUIDADE TÍPICO-NORMATIVA. JURISPRUDÊNCIA DO STJ. ALTERAÇÃO PROMOVIDA PELO ARTIGO 75, VIII, DA LEI N. 14.133/2021. EVENTUAL INOBSERVÂNCIA DE FORMALIDADES. IN CASU, ALTERAÇÃO DO PRAZO DE CONCLUSÃO DAS OBRAS EMERGENCIAIS, QUE NÃO TEM O CONDÃO DE TORNAR A CONDUTA DO RECORRENTE ATÍPICA.
+1. A jurisprudência desta Corte tem orientado no sentido de que, para que haja a configuração do crime previsto no art. 89 da Lei n. 8.666/1993, é imprescindível a comprovação de dois elementos fundamentais: o dolo específico e a ocorrência de prejuízo para o erário.
+ ..
+9. Agravo regimental IMPROVIDO.
+(AgRg no REsp n. 2.040.788/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+Ante o exposto, não conheço do recurso especial, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+ EMENTA
