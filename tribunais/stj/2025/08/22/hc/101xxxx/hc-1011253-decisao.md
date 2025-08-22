@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GEONATAS MARTINS BISPO, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente se encontra preso, preventivamente, tendo sido denunciado como incurso "por duas vezes no artigo 121, § 2º, incisos I, III e IV do Código Penal e, por seis vezes, nos artigos 121, § 2º, incisos I, III e IV c. c. 14, inciso II, todos combinados com os artigos 29 e 69, todos do Código Penal" (fl. 42).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 28-32).
+A defesa alega que a decisão carece de fundamentação idônea e não estão presentes os pressupostos e fundamentos da custódia cautelar, que considera desproporcional, desarrazoada e desnecessária, pois o paciente é primário, possui residência fixa e ocupação lícita, satisfazendo os requisitos para responder ao processo em liberdade.
+Afirma que a prisão preventiva foi decretada com base na gravidade abstrata do delito e no clamor social, sem elementos concretos que justifiquem a medida extrema, em afronta ao art. 312 do Código de Processo Penal e ao princípio da presunção de inocência.
+Sustenta que a prisão preventiva não deve ser convertida em norma geral, devendo ser utilizada apenas quando realmente necessária para a garantia da ordem pública, para a conveniência da instrução criminal ou para assegurar a aplicação da lei penal, o que não se verifica no presente caso.
+Destaca que o paciente não representa risco à ordem pública, à instrução criminal ou à aplicação da lei penal, e que a prisão preventiva é medida excepcional, devendo ser fundamentada em elementos concretos.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 559-561.
+Informações prestadas às fls. 566-569.
+O Ministério Público Federal em parecer, às fls. 590-596, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada gravidade concreta evidenciada pelo modus operandi da conduta, consistente em homicídio qualificado (consumado e tentado) pelo motivo torpe, meio que propiciou perigo comum e recurso que impossibilitou a defesa do ofendido; haja vista que, em tese, ele teria concorrido para a empreitada criminosa, que resultou na execução de 2 (duas) vítimas e tentativa de homicídio em relação a outras 6 (seis) pessoas, constando nos autos que "os delitos foram praticados, por motivo de vingança relacionada a posse de lote de terra, em um assentamento de lavradores, em sua maioria, no período noturno, em um momento em que várias pessoas estavam reunidas" (fl. 46).
+Outrossim, o Juízo de primeiro grau destacou que "Dos depoimentos acostados aos autos, em especial aqueles prestados por vítimas sobreviventes e testemunhas oculares dos fatos, extrai-se o inequívoco dolo dos acusados de matar e impor terror àquela comunidade, por vingança, no intuito de locupletar-se" (fl. 46).
+Tais circunstâncias demonstram a periculosidade do paciente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A prisão preventiva foi adequadamente motivada, tendo sido demonstrada pelas instâncias ordinárias a sua necessidade, com base no modus operandi do delito. Destacou-se que o agente é o mandante de crime de homicídio qualificado consumado, motivado por um litígio judicial de disputa de terras na região de Água Boa/MT. Sublinhou-se que o crime foi executado em via pública e em plena luz do dia, em frente ao escritório de advocacia onde a vítima trabalhava, localizado em uma das principais avenidas da cidade" (AgRg no RHC n. 212.079/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+"Da leitura das peças que compõem estes autos, verifica-se que a prisão cautelar está devidamente fundamentada na gravidade concreta das condutas e na periculosidade social do agravante, que desferiu golpes de faca contra a vítima, em virtude de desentendimentos relacionados a disputa de terras, em comunidade rural" (AgRg no RHC n. 202.334/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/9/2024, DJe de 24/9/2024.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
