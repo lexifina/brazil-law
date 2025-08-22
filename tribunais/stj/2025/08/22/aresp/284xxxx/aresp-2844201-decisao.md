@@ -1,0 +1,75 @@
+DECISÃO
+Cuida-se de agravo interposto por GEAP AUTOGESTAO EM SAUDE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 804-805):
+APELAÇÃO CÍVEL. DIREITO À SAÚDE. PRETENSÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANO MORAL. RECUSA DA OPERADORA DE PLANO DE SAÚDE DE AUTOGESTÃO EM AUTORIZAR E CUSTEAR PROCEDIMENTO CIRÚRGICO, EXAMES E MATERIAIS INDICADOS PELO PROFISSIONAL DA MEDICINA QUE ASSISTE A PACIENTE. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO RÉ. MANUTENÇÃO DO JULGADO. 1) A análise detida dos autos revela que não há dúvida acerca da necessidade da realização da cirurgia e fornecimento de materiais ligados ao referido procedimento, na forma indicada pelo médico assistente da parte autora, com a maior brevidade possível, os quais estão previstos expressamente no rol da ANS, vez que a paciente, pessoa idosa, foi diagnosticada com quadro súbito de microembolização de membro inferior esquerdo, associado à claudicação incapacitante de MMII. 2) Consoante a redação dos artigos 8º e 19, VI, da Resolução Normativa n.º 465/2021 da ANS, a colocação de órteses e próteses, bem como a utilização de materiais, medicamentos e insumos, são autorizados quando ligados aos atos cirúrgicos. 3) Negativa injustificada da operadora em autorizar a realização de procedimento cirúrgico e custear os materiais necessários à execução do ato que configura abusividade de sua conduta. 3) Alegação de não atendimento de regulação do pedido de autorização para realização do procedimento cirúrgico que não se mostra crível, vez que todos os códigos apresentados estão de acordo com a TUSS, o que não foi refutado pela seguradora demandada. Ademais, as provas colacionadas pela ré ressaltam que, na verdade, o elemento indicativo do cancelamento do pedido teria se dado por um problema do próprio sistema do réu, vez que no andamento da solicitação consta que o prestador de serviço teria sido orientado a atender as exigências do seu sistema eletrônico, o qual apresentou possível erro. 4) Dano moral configurado. Aplicação do disposto no verbete sumular 339/TJRJ. 5) Quantum indenizatório estabelecido na sentença (R$ 6.000,00) que atende aos critérios da proporcionalidade e da razoabilidade, devendo ser mantido (Súmula 343/TJRJ). Recurso ao qual se nega provimento.
+Rejeitados os embargos de declaração opostos (fls. 821-826).
+No recurso especial, a parte recorrente alega que o acórdão estadual violou os arts. 10, 12, 35-C, I e II, e 35-F da Lei n. 9.656/98 e 421 e 422 do Código Civil.
+Sustenta que "não há que se falar em negativa de cobertura arbitrária por parte da Fundação Recorrente, eis que a GEAP tão somente cumpriu as determinações editadas pela agência que regula e fiscaliza a sua atuação perante a sociedade e seus beneficiários, qual seja, a ANS, e o determinado em lei e no contrato entabulado entre as partes" (fl. 935).
+Aduz que "a GEAP não estava obrigada a cobrir o procedimento em período superior às doze primeiras horas, por falta de lei que obrigasse a autorização, sendo que a única outra forma de estar obrigada seria se assim tivesse sido pactuado, nos termos do artigo 5º, II, CF, o que não é o caso dos autos  .. " (fl. 836).
+Alega que "resta incontroverso que não existe obrigação da Recorrente em autorizar internação após alta médica, devendo-se aplicar o disposto nas cláusulas contratuais e na legislação aplicada ao caso, de maneira que a GEAP não pode ser punida pelo exercício regular do seu direito" (fl. 840).
+Foram oferecidas contrarrazões ao recurso especial (fls. 918-930).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 933-941), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 964-968).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, não analisou, sequer implicitamente, os arts. 10, 12, 35-C, I e II, e 35-F da Lei n. 9.656/98 e 421 e 422 do Código Civil.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância especial, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ.
+(AgInt nos EDcl no AREsp n. 1.433.979/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 17/2/2025.)
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.714.930/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+2. Não se verifica o exame pelo Tribunal de origem, mesmo após a interposição dos embargos de declaração, da tese em torno da violação dos arts. 171 e 182 do Código Civil, razão pela qual incide, na espécie, a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável para o acesso às instâncias excepcionais.
+(AgInt no AREsp n. 2.713.012/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/11/2024.)
+Acrescente-se que se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito:
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento dos dispositivos legais mencionados (artigos 47 e 54 do CDC, artigo 129 do Código Civil). O acórdão recorrido não analisou explicitamente tais dispositivos, e os agravantes não indicaram violação do art. 1.022 do CPC, o que inviabiliza o conhecimento do recurso especial, aplicando-se as Súmulas n. 211 do STJ e 282 do STF.
+(AgInt no REsp n. 2.114.449/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024.)
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+3. Apesar de opostos embargos de declaração na origem, a recorrente não indicou a contrariedade ao artigo 1.022 do Código de Processo Civil, a fim de sanar eventual omissão.
+(AgInt no AREsp n. 2.370.076/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/9/2024.)
+Ainda quanto à alegação de afronta aos arts. 10, 12, 35-C, I e II, e 35-F da Lei n. 9.656/98 e 421 e 422 do Código Civil, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF. (AgInt no AREsp n. 2.044.724/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+2. A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+ ..  (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2022.)
+Cabe acrescentar que, conforme se infere da leitura do acórdão, o Tribunal de origem assentou a necessidade da cirurgia e do fornecimento dos materiais correlatos (fl. 806). Destacou, ainda, que, conforme os artigos 8º e 19, VI, da Resolução Normativa n. 465/2021 da ANS, a utilização de órteses, próteses, medicamentos e insumos é autorizada quando diretamente relacionada a procedimentos cirúrgicos. Assim, estando o tratamento previsto no Rol da ANS e atendidos os requisitos técnicos, não cabe à seguradora questionar a prescrição médica (fl. 807).
+Por sua vez, a parte recorrente alega violação dos arts. 10, 12, 35-C, I e II, e 35-F da Lei n. 9.656/98, bem como dos arts. 421 e 422 do Código Civil. Sustenta que não estaria obrigada a cobrir o procedimento após as doze primeiras horas (fl. 836) e que o acórdão teria ignorado a legislação específica e o regulamento do plano, ao confirmar sentença que desconsiderou a alta médica e autorizou a internação domiciliar via home care (fl. 837).
+Logo, os referidos artigos de lei e as respectivas teses não são capazes de refutar os fundamentos do aresto recorrido.
+Constatada a contradição e consequente dissociação entre as razões do recurso especial e do acórdão recorrido, o conhecimento do recurso especial, nesse aspecto, encontra óbice nas Súmulas n. 282, 283 e 284 do Supremo Tribunal Federal.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. COBERTURA DE TERAPIA MULTIDISCIPLINAR. EQUOTERAPIA. PACIENTE DIAGNOSTICADO COM ESQUIZENCEFALIA.
+ ..
+4. Afronta o princípio da dialeticidade o recurso que utiliza argumentos dissociados do julgado impugnado, o que atrai a incidência, por analogia, das Súmulas n. 283 e 284 do STF.
+Agravo interno improvido.
+(AgInt no REsp n. 1.994.444/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO DE COBRANÇA. CONTRATO DE SEGURO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO MOTIVADO. PROVAS SUFICIENTES. REEXAME DE PROVAS. SÚMULA N. 7/STJ. PAGAMENTO DO TOTAL DA APÓLICE. PREJUÍZO COMPROVADO. REVISÃO. SÚMULA N. 7/STJ. LUCROS CESSANTES. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS N. 283 E 284/STF. JUROS DE MORA E CORREÇÃO MONETÁRIA. INDÍCES. TESES NÃO PREQUESTIONADAS. AUSÊNCIA DE EMBARGOS DE DECLARAÇÃO PARA SANAR EVENTUAL OMISSÃO. APLICAÇÃO DAS SÚMULAS N. 282 E 356/STF. CORREÇÃO MONETÁRIA. TERMO INICIAL. CONTRATAÇÃO DO SEGURO. INAPLICABILIDADE DA SÚMULA N. 632/STJ SOB PENA DE REFORMATIO IN PEJUS. AGRAVO INTERNO DESPROVIDO.
+ ..
+6. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão questionado. Aplicação da Súmula 284 do Supremo Tribunal Federal. Precedentes do Superior Tribunal de Justiça.
+7. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo especial (Súmula n. 282/STF).
+ ..
+10. Agravo interno desprovido.
+(AgInt no REsp n. 2.083.559/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à imprescindibilidade da cirurgia e dos materiais a ela ligados, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA DE PRÓTESE CUSTOMIZADA. INCIDÊNCIA DAS SÚMULAS 83/STJ E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob o fundamento de que o acórdão recorrido está em consonância com a nova disposição legal sobre a cobertura de procedimentos não listados no rol da ANS, conforme a Lei nº 14.454/2022.
+2. O recorrido, beneficiário de plano de saúde, teve indicação de cirurgia de artroplastia da ATM bilateral com prótese customizada, mas a operadora recusou-se a custear alguns materiais solicitados.
+3. A Corte Estadual entendeu que a tabela geral de auxílio Cassi (TGA) prevê cobertura para os procedimentos requisitados e que a negativa de cobertura foi abusiva, considerando a comprovação científica e o plano terapêutico apresentados.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a negativa de cobertura de prótese customizada para cirurgia de artroplastia da ATM bilateral, não listada no rol da ANS, é abusiva à luz da Lei nº 14.454/2022.
+5. A questão também envolve a análise da possibilidade de reexame de fatos e provas em recurso especial, conforme a Súmula 7/STJ.
+III. Razões de decidir
+6. A decisão do Tribunal de origem está em consonância com a Lei nº 14.454/2022, que permite a cobertura de procedimentos não listados no rol da ANS, desde que haja comprovação de eficácia ou recomendações de órgãos técnicos.
+7. A análise do acórdão recorrido não pode ser alterada em recurso especial, pois exigiria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+8. A jurisprudência do STJ considera abusiva a cláusula que exclui ou limita a cobertura de próteses e materiais diretamente ligados ao procedimento cirúrgico.
+IV. Dispositivo 9. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.659.834/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. CIRURGIA. MATERIAIS NECESSÁRIOS. IMPRESCINDIBILIDADE DO TRATAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
