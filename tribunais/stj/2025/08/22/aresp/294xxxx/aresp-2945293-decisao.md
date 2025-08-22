@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL da decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu o recurso especial dirigido contra acórdão assim ementado (fl. 276):
+PREVIDENCIÁRIO. TEMPO COMUM. TEMPO ESPECIAL. PESCADOR PROFISSIONAL. POSSIBILIDADE DE CUMULAÇÃO DA CONTAGEM DIFERENCIADA DO ANO MARÍTIMO COM O RECONHECIMENTO DA ESPECIALIDADE DO LABOR. REVISÃO DO BENEFÍCIO. CONSECTÁRIOS.
+1. A prova documental comprova a condição de segurado empregado nos períodos de 26/06/1985 a 30/06/1985 e de 29/01/1988 a 31/01/1988.
+2. A contagem do tempo de marítimo embarcado não exclui a possibilidade de análise da atividade especial, por enquadramento profissional ou exposição a agentes nocivos à saúde ou à integridade física.
+3. O ano marítimo existe em razão da jornada de trabalho diferenciada, e o tempo de 25 anos para aposentadoria especial, em razão da insalubridade a que se submetem os marítimos e os trabalhadores das demais categorias consideradas atividades insalubres.
+4. É possível que um mesmo período tenha contagem diferenciada em razão da jornada e seja reconhecido como especial.
+5. Considerando os períodos reconhecidos, tem o autor direito à revisão da renda mensal inicial do benefício de aposentadoria por tempo de contribuição.
+6. Correção monetária e juros de mora calculados: a) até 08/12/2021, consoante estabelecido na tese firmada pelo STJ, no julgamento do tema repetitivo n. 905, para débitos previdenciários decorrentes de condenações judiciais; b) a partir de 09/12/2021, pela variação acumulada da SELIC, que abrange a correção monetária e os juros de mora.
+Os subsequentes embargos de declaração foram rejeitados.
+Nas razões do recurso especial, fundamentado na alínea a do permissivo constitucional, a parte ora agravante alega ofensa ao art. 1.022 do CPC, aduzindo negativa de prestação jurisdicional.
+Sustenta, ainda, violação dos arts. 31 da Lei n. 3.807/1960; 57, caput e §§ 3º e 5º, da Lei n. 8.213/1991; 54, § 1º, e 60 do Decreto n. 83.089/1979; 57, parágrafo único, e 68 do Decreto n. 357/1991; 57, parágrafo único, e 68 do Decreto n. 611/1992; e 57, parágrafo único, do Decreto n. 2.171/1997, assinalando, em suma, que "não haveria razoabilidade na cumulação do ano marítimo com o tempo especial, uma vez que ambos os institutos têm por objetivo compensar o segurado pelo desgaste decorrente do trabalho, ou seja, compensar a presunção de insalubridade e de penosidade" (fl. 315).
+Foram apresentadas as contrarrazões (fls. 323-328).
+Inadmitido o apelo nobre na origem (fls. 331-334), adveio o presente agravo em recurso especial (fls. 342-347).
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade, passo ao exame do recurso especial.
+De início, não obstante o recurso especial alegue violação ao art. 1.022 do Código de Processo Civil, não especifica adequadamente quais os pontos do acórdão recorrido em relação aos quais haveria omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto. Portanto, o conhecimento desse capítulo recursal é obstado pela falta de delimitação da controvérsia, atraindo a aplicação da Súmula n. 284 do STF. Nesse sentido: REsp n. 2.089.769/PB, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/9/2023, DJe de 21/9/2023; e AgInt nos EDcl no AREsp n. 1.311.559/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023.
+Quanto ao mais, o Tribunal de origem, ao apreciar a apelação interposta pelo ora recorrente, manifestou-se se nos seguintes termos, no que interessa (fls. 272-273):
+O INSS questiona a possibilidade de cumulação do ano marítimo e reconhecimento de atividade especial do pescador profissional.
+A contagem do tempo de marítimo embarcado não exclui a possibilidade de análise da atividade especial, por enquadramento profissional ou exposição a agentes nocivos à saúde ou à integridade física.
+O ano marítimo existe em razão da jornada de trabalho diferenciada, e o tempo de 25 anos para aposentadoria especial, em razão da insalubridade a que se submetem os marítimos e os trabalhadores das demais categorias consideradas atividades insalubres.
+Trata-se, como se observa, de coisas distintas.
+Nada impede, assim, que um mesmo período tenha contagem diferenciada em razão da jornada e seja reconhecido como especial.
+No julgamento dos embargos de declaração, aquele Sodalício reiterou que (fl. 303):
+Assim, ao contrário do que alega o embargante, a questão foi expressamente analisada por esta Turma, quando do julgamento das apelações, tendo sido explicitado que:
+a) o ano marítimo existe em razão da jornada de trabalho diferenciada, e o tempo de 25 anos para aposentadoria especial, em razão da insalubridade a que se submetem os marítimos e os trabalhadores das demais categorias consideradas atividades insalubres.
+b) assim, trata-se de coisas distintas e nada impede que um mesmo período tenha contagem diferenciada em razão da jornada e seja reconhecido como especial.
+Como se percebe, a Corte Regional, ao manter a sentença quanto à possibilidade de cumulação do ano marítimo com o reconhecimento de atividade especial, deixou assente que se trata de institutos diversos, assinalando, em síntese, que " o  ano marítimo existe em razão da jornada de trabalho diferenciada, e o tempo de 25 anos para aposentadoria especial, em razão da insalubridade a que se submetem os marítimos e os trabalhadores das demais categorias consideradas atividades insalubres".
+A parte recorrente, no entanto, deixou de impugnar tal fundamentação. Portanto, incide o óbice da Súmula n. 283 do STF. Nessa direção: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ademais, conforme o entendimento há muito firmado por esta Corte, do qual não destoou o Tribunal de origem, " o  ano marítimo existe em razão da jornada de trabalho diferenciada, e o tempo de 25 anos para aposentadoria especial, em razão da insalubridade a que se submetem os marítimos e os trabalhadores das demais categorias consideradas atividades insalubres" (AR n. 3.349/PB, relator Ministro Arnaldo Esteves Lima, Terceira Seção, julgado em 10/2/2010, DJe de 23/3/2010).
+No mesmo sentido, as seguintes decisões monocráticas, entre outras: AgInt no REsp 2.152.291/RJ, relatora Ministra Maria Thereza de Assis Moura, DJEN 02/06/2025; AREsp 2.936.834/SC, relator Ministro Sérgio Kukina, DJEN 14/08/2025; e REsp n. 1.922.669/SC, Ministro Mauro Campbell Marques, DJe 19/3/2021.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo n. 7 do STJ, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC. RAZÕES GENÉRICAS. SÚMULA N. 284 DO STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
