@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por VITORIA LIMA OLIVEIRA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (e-STJ fl. 218):
+MANDADO DE SEGURANÇA CÍVEL - RETORNO DA VICE-PRESIDÊNCIA - REAPRECIAÇÃO DA MATÉRIA NOS TERMOS DO ART. 1.030, INC. II, DO CPC - TEMA 643/STJ - PENSÃO POR MORTE ATÉ QUE O BENEFICIÁRIO COMPLETE A IDADE DE 21 (VINTE E UM) ANOS - EXISTÊNCIA DE CONTRARIEDADE DO ACÓRDÃO RECORRIDO COM O PARADIGMA - JUÍZO DE RETRATAÇÃO EXERCIDO - MODIFICAÇÃO DO JULGAMENTO ORIGINÁRIO - SEGURANÇA DENEGADA.
+Discute-se a necessidade, ou não, de adequação do Acórdão recorrido em relação ao Acórdão paradigma do Recurso Especial nº 1369832/SP - Tema 643, que fixou a seguinte tese: "Não há falar em restabelecimento da pensão por morte ao beneficiário, maior de 21 anos e não inválido, diante da taxatividade da lei previdenciária, porquanto não é dado ao Poder Judiciário legislar positivamente, usurpando função do Poder Legislativo".
+No caso, em atendimento à decisão proferida pela Vice-Presidência, observando-se o que restou decidido na Corte Suprema, bem como o Acórdão então proferido, constata-se a ocorrência da mencionada desconformidade com a tese firmada no paradigma vinculante, considerando que a Lei nº 3.150 de 2005, em vigor na época do óbito da ex-servidora, estabelecia o limite etário de 21 anos (art. 51, §2º, III), para pagamento da pensão.
+Assim, a impetrante faz jus à concessão do benefício previdenciário até completar a idade limite de vinte e um (21) anos, e não até os 24 anos de idade, como restou consignado no acórdão anteriormente proferido.
+Juízo de retratação exercido para denegar a segurança.
+O recorrente sustenta, em resumo, que, estando "cursando nível superior de ensino, mostra-se razoável garantir a continuidade do pagamento da pensão por morte mesmo após completar 21 (vinte e um) anos de idade, uma vez que desta forma dará cumprimento ao que dispõe o artigo 205 da Constituição Federal, e, por analogia ao artigo 35 da Lei nº 9.250/95 e da Lei nº 3.765/60, bem como ao princípio constitucional da razoabilidade e na garantia dos direitos fundamentais da pessoa humana, como forma de assegurar que a recorrente, que já iniciou ensino superior não o interrompa por hipossuficiência financeira, podendo concluir o ensino sem prejuízo de sua própria subsistência" (e-STJ fl. 274).
+Apresentadas as contrarrazões (e-STJ fls. 317/321).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 479/488).
+Passo a decidir.
+O recurso não merece prosperar.
+Esta Corte firmou o entendimento - julgado proferido sob a sistemática de representativo da controvérsia (Tema 643) - de que "não há falar em restabelecimento da pensão por morte ao beneficiário, maior de 21 anos e não inválido, diante da taxatividade da lei previdenciária, porquanto não é dado ao Poder Judiciário legislar positivamente, usurpando função do Poder Legislativo".
+Nesse ponto, destaca-se que o RGPS - disposto na Lei n. 8.213/1991 - abarca o rol máximo de benefícios e de beneficiários, impedindo aos regimes próprios concederem benefícios ou contemplarem beneficiários além daquilo que determina a regra geral.
+Pois bem. Nos termos do art. 16, I e § 2º, do aludido diploma legal, tem-se que:
+Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de dependentes do segurado:
+I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental que o torne absoluta ou relativamente incapaz, assim declarado judicialmente; (Redação dad a pela Lei nº 12.470, de 2011)  ..
+§ 2º Equiparam-se a filho, nas condições do inciso I, mediante declaração do segurado: o enteado, o menor que esteja sob a sua guarda e o menor sob sua tutela e não possua condições suficientes para o próprio sustento e educação.
+(Grifos acrescidos).
+Além disso, conforme consta nas próprias razões da parte recorrente, a Lei estadual n. 3.150/2005 (Regime Previdenciário do Estado de MS), vigente na época do óbito, estabelece a idade de 21 anos como limite etário do filho não emancipado que, na condição de dependente do segurado, é beneficiário do MSPREV.
+Por fim, diversamente do defendido pela parte recorrente, a jurisprudência deste Tribunal é no sentido de que, "levando em conta que a Lei n. 9.250/1995 não diz respeito à concessão de benefício previdenciário, mas sim às hipóteses de dependentes para fins de isenção no Imposto de Renda, tratando-se de institutos cujas naturezas jurídicas são totalmente diferentes, não há que se cogitar de aplicação analógica da previsão nela contida" (RMS 51.452/MS, Rel. Min. OG FERNANDES, Segunda Turma, DJe 17/8/2017).
+Ante o exposto, nos termos do art. 34, XVIII, "b", NEGO PROVIMENTO ao recurso ordinário.
+Publique-se. Intimem-se.
+ EMENTA
