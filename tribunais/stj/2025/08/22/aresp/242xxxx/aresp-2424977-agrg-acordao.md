@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. RECONHECIMENTO FOTOGRÁFICO. TEMA N. 1.258 DO STJ. EXISTÊNCIA DE OUTROS ELEMENTOS PROBATÓRIOS. SÚMULAS N. 7 E 83 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte Superior consolidou-se no sentido de que a inobservância das formalidades do art. 226 do CPP não enseja nulidade automática quando o reconhecimento é corroborado por outros elementos probatórios independentes. Esse foi o entendimento fixado no item 4 do Tema repetitivo n. 1.258 do STJ.
+2. Na espécie, a orientação do Tribunal de origem firmou-se no mesmo sentido da jurisprudência desta Corte Superior, a qual consignou que "as demais evidências existentes nos autos mostram-se suficientes para apontá-lo como um dos autores do crime de homicídio". Incide no caso, portanto, o óbice da Súmula n. 83 do STJ.
+3. Ademais, o Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas constantes dos autos. Desconstituir as premissas fáticas estabelecidas pelas instâncias ordinárias demandaria o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARQUEZAN PRIMO ROSA DA SILVA contra a decisão monocrática que conheceu do agravo em recurso especial e não conheceu do recurso especial, ante o óbice referido na Súmula n. 83 do STJ.
+A parte recorrente argumenta que a decisão monocrática deve ser reformada, sustentando que o Tribunal de origem contrariou o entendimento pacificado desta Corte Superior sobre a invalidade do reconhecimento fotográfico que não observa as formalidades do art. 226 do CPP.
+Requer seja dado provimento ao agravo regimental para determinar o regular processamento do recurso especial ou, subsidiariamente, que seja submetido a julgamento colegiado.
+Contrarrazões do Ministério Público Federal às fls. 1.179-1.184, nas quais sustenta o desprovimento do agravo regimental. O Órgão ministerial argumenta que a irresignação defensiva não merece prosperar, pois o requerimento de absolvição em razão da insuficiência probatória esbarra no óbice da Súmula n. 7 do STJ, uma vez que a condenação defluiu da análise minuciosa das provas carreadas ao longo da marcha processual.
+Destaca que a decisão impugnada enfrentou adequadamente a questão, consignando que, além do reconhecimento fotográfico, outras provas independentes embasaram a condenação, como o depoimento da testemunha ocular em juízo e demais elementos constantes nos autos.
+Conclui pela incidência também da Súmula n. 83 do STJ, argumentando que a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. RECONHECIMENTO FOTOGRÁFICO. TEMA N. 1.258 DO STJ. EXISTÊNCIA DE OUTROS ELEMENTOS PROBATÓRIOS. SÚMULAS N. 7 E 83 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte Superior consolidou-se no sentido de que a inobservância das formalidades do art. 226 do CPP não enseja nulidade automática quando o reconhecimento é corroborado por outros elementos probatórios independentes. Esse foi o entendimento fixado no item 4 do Tema repetitivo n. 1.258 do STJ.
+2. Na espécie, a orientação do Tribunal de origem firmou-se no mesmo sentido da jurisprudência desta Corte Superior, a qual consignou que "as demais evidências existentes nos autos mostram-se suficientes para apontá-lo como um dos autores do crime de homicídio". Incide no caso, portanto, o óbice da Súmula n. 83 do STJ.
+3. Ademais, o Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas constantes dos autos. Desconstituir as premissas fáticas estabelecidas pelas instâncias ordinárias demandaria o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+4. Agravo regimental improvido.
+VOTO
+A pretensão recursal esbarra no óbice da Súmula n. 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Com efeito, embora o agravante invoque evolução jurisprudencial posterior ao HC n. 598.886/SC, a jurisprudência desta Corte Superior consolidou-se no sentido de que a inobservância das formalidades do art. 226 do CPP não enseja nulidade automática quando o reconhecimento é corroborado por outros elementos probatórios independentes. Nesse sentido o item 4 do Tema repetitivo n. 1.258 do STJ:
+4 - Poderá o magistrado se convencer da autoria delitiva a partir do exame de provas ou evidências independentes que não guardem relação de causa e efeito com o ato viciado de reconhecimento.
+O Tribunal de origem, ao examinar minuciosamente as provas dos autos, concluiu pela existência de elementos suficientes para a condenação, não se limitando ao reconhecimento fotográfico, mas considerando também outros elementos probatórios. A condenação não se baseou, portanto, exclusivamente no reconhecimento fotográfico supostamente irregular, mas sim em conjunto probatório amplo.
+Sendo essa a premissa fixada no tema repetitivo mencionado, impõe-se a incidência da Súmula n. 83 do STJ .
+Ademais, desconstituir os pressupostos fáticos estabelecidos pelo Tribunal de origem importaria em reexame de provas, providência incabível no âmbito desta Corte Superior.
+Essa, inclusive, é a razão de ser da Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial". A competência outorgada pela Constituição Federal ao Superior Tribunal de Justiça referente à análise do recurso especial se restringe à apreciação de questões de direito, inviabilizando a reavaliação do s fatos e das provas apurados no processo.
+O recurso especial, assim, tem por finalidade garantir a uniformidade da interpretação da lei federal, limitando-se à verificação abstrata de sua aplicação ou int erpr etação pelos tribunais de origem, medida inviável quando a pretensão recursal demandar, ainda que de modo sutil, a análise das conclusões fático-processuais emprestadas pelas instâncias ordinárias, soberanas na apreciação das provas.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
