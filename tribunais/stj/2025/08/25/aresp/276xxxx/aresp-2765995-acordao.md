@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVOS EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. SEGURO DE VIDA. PRÉVIO PEDIDO ADMINISTRATIVO. INEXISTÊNCIA. CONTESTAÇÃO DE MÉRITO. PRETENSÃO RESISTIDA. DETERMINAÇÃO DE PROSSEGUIMENTO DO FEITO. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. Registra-se que a decisão que inadmite o recurso especial proferida pela Corte de origem é incindível, devendo ser impugnada completamente, fundamento por fundamento. Precedente.
+3. Na ação de indenização fundada em seguro, caracteriza-se o interesse de agir, independentemente de prévio pedido administrativo de pagamento da indenização, se a seguradora se insurge contra o mérito da demanda. Precedentes.
+4. Agravo de SEARA ALIMENTOS LTDA. não conhecido. Agravo de MAPFRE VIDA S.A. conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de dois agravos interpostos por MAPFRE VIDA S.A. e SEARA ALIMENTOS LTDA. contra as decisões que negaram seguimento aos recursos especiais (e-STJ fls. 579-583 e 643-654).
+Os apelos extremos, fundamentados no art. 105, III, "a" e "c", da Constituição Federal, impugnam o acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA - SEGURO DE VIDA. EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. REQUERIMENTO ADMINISTRATIVO - DESNECESSIDADE. SENTENÇA INSUBSISTENTE. RECURSO CONHECIDO E PROVIDO.
+Condicionar o ajuizamento da ação de cobrança de seguro ao requerimento administrativo, resulta flagrante afronta à garantia constitucional de acesso à justiça, previsto no inciso XXXV do art. 5º da Constituição Federal.
+O entendimento pela desnecessidade de prévio requerimento administrativo para o ajuizamento da ação de cobrança foi firmado no incidente de uniformização de jurisprudência n. 0803120-96.2015.8.12.0029/50000." (e-STJ fl. 286).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 532-548).
+Nas razões do especial (e-STJ fls. 552-563), a recorrente SEARA ALIMENTOS LTDA. aponta negativa de vigência dos arts. 507, 1.022 e 1.013 do CPC. Sustenta, em síntese, "a impossibilidade de anulação integral da sentença, diante da não impugnação da autora Recorrida quanto ao capítulo que julgou a ilegitimidade da Recorrente" (e-STJ fl. 558).
+Aduz que a questão da ilegitimidade de parte passiva restou atingida pela preclusão.
+Ao recurso negou-se seguimento por aplicação das Súmulas nº 211/STJ e nº 282/STF e porque não foi apontada violação do art. 1.022, II, do CPC (e-STJ fls. 579-583).
+No apelo de e-STJ fls. 604-613, a recorrente MAPFRE VIDA S.A. aponta a violação dos arts. 771 do Código Civil, 17 e 485, VI, do Código de Processo Civil, bem como dissídio jurisprudencial.
+Alega que, para o ajuizamento da ação de indenização fundada em seguro, o interesse processual está condicionado ao prévio pedido administrativo de indenização.
+Explica que, antes de acionar o Poder Judiciário, o segurado deve dar à seguradora a oportunidade de verificar se estão presentes as condições para o pagamento da indenização postulada.
+Sem contrarrazões (e-STJ fl. 344), o recurso especial foi obstado na origem, o que deu ensejo à interposição deste agravo.
+É o relatório.
+EMENTA
+AGRAVOS EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. SEGURO DE VIDA. PRÉVIO PEDIDO ADMINISTRATIVO. INEXISTÊNCIA. CONTESTAÇÃO DE MÉRITO. PRETENSÃO RESISTIDA. DETERMINAÇÃO DE PROSSEGUIMENTO DO FEITO. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. Registra-se que a decisão que inadmite o recurso especial proferida pela Corte de origem é incindível, devendo ser impugnada completamente, fundamento por fundamento. Precedente.
+3. Na ação de indenização fundada em seguro, caracteriza-se o interesse de agir, independentemente de prévio pedido administrativo de pagamento da indenização, se a seguradora se insurge contra o mérito da demanda. Precedentes.
+4. Agravo de SEARA ALIMENTOS LTDA. não conhecido. Agravo de MAPFRE VIDA S.A. conhecido para não conhecer do recurso especial.
+VOTO
+O agravo de SEARA ALIMENTOS LTDA. não comporta conhecimento.
+O art. 932, III, do Código de Processo Civil impõe ao relator não conhecer do recurso "(..) que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+No caso, o agravo em recurso especial não rebateu de maneira específica o fundamento da decisão agravada, segundo o qual a recorrente deveria ter apontado violação do art. 1.022, II, do CPC.
+Cumpre destacar que a impugnação da decisão atacada deve ser clara e suficiente para demonstrar o equívoco em sua negativa, o que não ocorreu na espécie, visto que a parte agravante limitou-se a tecer considerações genéricas em torno das Súmulas nº 211/STJ e nº 282/STF.
+Esse é, inclusive, o entendimento pacífico desta Corte Superior, formulado no sentido de que é dever da parte agravante atacar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a impugnação genérica, parcial ou a reiteração das razões do recurso anterior.
+Registra-se, por oportuno, que a decisão que inadmite o recurso especial proferida pela Corte de origem é incindível, devendo ser impugnada completamente, fundamento por fundamento.
+Confira-se:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos" (EAREsp 746.775/PR, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018 - grifou-se).
+Já o recurso de MAPFRE VIDA S.A. ultrapassa os requisitos de admissibilidade do agravo, motivo pelo qual passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+O Tribunal de origem, com fundamento no princípio do livre acesso ao Poder Judiciário, entendeu que o interesse de agir, no caso, não está condicionado ao prévio pedido administrativo de indenização securitária, determinando, assim, o regular processamento da demanda. Cita-se o seguinte trecho do acórdão do TJMS:
+"Além disso, entendeu-se, no julgado, que "a exigência de prévio requerimento administrativo não deve prevalecer quando o entendimento da Administração for notória e reiteradamente contrário à postulação do segurado" e é de conhecimento geral que as seguradoras manifestam-se, na maioria das vezes, contrariamente à pretensão dos requerentes, seja porque recusam-se ao pagamento da indenização, seja porque efetuam o pagamento a menor.
+Com efeito, se o ajuizamento da presente demanda estivesse condicionado ao pedido na via administrativa, ocorreria flagrante afronta à garantia constitucional de acesso à justiça, previsto no inciso XXXV do art. 5º da Constituição Federal.
+Aliás, aplicável, por analogia, o entendimento firmado no Incidente de Uniformização de Jurisprudência deste Tribunal de Justiça.
+(..)
+"E M E N T A - UNIFORMIZAÇÃO DE JURISPRUDÊNCIA - COBRANÇA DO SEGURO DPVAT - PRÉVIO REQUERIMENTO ADMINISTRATIVO - DESNECESSIDADE - VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA INAFASTABILIDADE DA JURISDIÇÃO E DA LEGALIDADE - EXIGÊNCIA NÃO PREVISTA NO ORDENAMENTO JURÍDICO EM VIGOR - INTERESSE DE AGIR CARACTERIZADO.
+1- A exigência do prévio requerimento administrativo para ajuizar demanda de cobrança do seguro DPVAT viola os princípios constitucionais da inafastabilidade da jurisdição e da legalidade, por não existir regra jurídica nesse sentido no ordenamento jurídico em vigor.
+2- As vítimas de acidente de trânsito possuem interesse de agir nas demandas de cobrança do seguro DPVAT, mesmo quando não requerem o pagamento administrativamente, porque, nessas hipóteses, é costumeira a reação das seguradoras ao grau da invalidez e à pretensão de recebimento integral da indenização, situação que evidencia crise de direito material a ser resolvida pelo Poder Judiciário, com observância do devido processo legal". (TJMS. Incidente de Uniformização de Jurisprudência n. 0803120- 96.2015.8.12.0029, Naviraí, Seção Especial - Cível, Relator (a): Des. Vilson Bertelli, j: 30/10/2016, p: 25/04/2017)
+Assim, a insubsistência da sentença recorrida é medida que se impõe" (e-STJ fls. 498-499 - grifou-se).
+O acórdão deve ser mantido, com fundamento na Súmula nº 83/STJ.
+Na petição apresentada às e-STJ fls. 60-81, a ré, ora recorrente, além de expor a preliminar de ausência de interesse de agir, questionou o mérito da pretensão autoral, afirmando o seguinte:
+"Não sendo possível que a parte comprove invalidez com apenas um exame realizado, sem comprovar evolução da doença ou mesmo tratamento realizado. Desta forma, os documentos anexados não são aptos a comprovar as alegações iniciais.
+Assim, resta evidente que a informação genérica sobre a suposta doença sofrida compromete a defesa, uma vez que impossibilita saber se teve início em período que o segurado se encontrava coberto pelo seguro ou não, bem como se gerou incapacidade laborativa de forma permanente" (e-STJ fl. 61).
+Desse modo, como a ré insurgiu-se contra o mérito da demanda, restou caracterizada a pretensão resistida, contexto que permite o processamento do feito.
+Nesse sentido:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Ainda que não haja prévio comunicado à seguradora acerca da ocorrência do sinistro, eventual oposição desta ao pedido de indenização deixa clara sua resistência frente à pretensão do segurado, demonstrando a presença do interesse de agir. Precedentes.
+2. A decisão proferida pelo Tribunal de origem está em consonância com o entendimento desta Corte Superior, atraindo a incidência do óbice previsto na Súmula 83 do STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", aplicável para ambas as alíneas do permissivo constitucional. Precedentes.
+3. Agravo interno desprovido" (AgInt no AREsp 802.606/MS, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/9/2016, DJe de 21/9/2016 - grifou-se).
+"CIVIL E PROCESSUAL CIVIL. SEGURO DPVAT. PRÉVIO REQUERIMENTO ADMINISTRATIVO. CONTESTAÇÃO EM JUÍZO DO PEDIDO. PRETENSÃO RESISTIDA. INTERESSE DE AGIR DA SEGURADA. EXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS.CONSECTÁRIO LEGAL DA SUCUMBÊNCIA. AUSÊNCIA DE RELAÇÃO COM A CONDIÇÃO DA AÇÃO. NATUREZA JURÍDICA DISTINTA. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça firmou o entendimento de que o prévio requerimento administrativo, quando exigido, configura requisito necessário para o preenchimento do interesse de agir, o qual se reputa presente independentemente de sua comprovação nos casos em que a seguradora comparece em juízo, opondo-se ao mérito da pretensão condenatória.
+2. Nos termos do artigo 85 do CPC/15, os honorários sucumbenciais possuem natureza jurídica de consectário legal da condenação, isto é, da sucumbência, sendo incabível a sua subordinação à necessidade de prévio requerimento administrativo.
+3. Recurso especial provido" (REsp 1.683.301/MT, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 2/5/2023, DJe de 5/5/2023 - grifou-se).
+Registra-se, por fim, que a consonância do acórdão de origem com a jurisprudência do STJ impõe, de igual modo, a rejeição do recurso especial fundado no art. 105, III, "c", da Constituição.
+Ante o exposto, não conheço do agravo de SEARA ALIMENTOS LTDA. e conheço do agravo para não conhecer do recurso especial de MAPFRE VIDA S.A.
+Sem honorários recursais, pois não houve arbitramento dessa verba na origem.
+É o voto.
