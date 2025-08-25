@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ROMPIMENTO DA BARRAGEM DA MINA DO CÓRREGO DO FEIJÃO. ARTIGO 6º DA LINDB. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. VIA ELEITA INADEQUADA. CELEBRAÇÃO DE ACORDO EXTRAJUDICIAL. VIOLAÇÃO DA COISA JULGADA NÃO EVIDENCIADA. REEXAME DO JULGADO. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. EMBARGOS PROTELATÓRIOS. MULTA. REEXAME DE PROVAS.
+1. A jurisprudência desta Corte consolidou entendimento no sentido da impossibilidade de os princípios contidos no art. 6º da LINDB serem analisados em recurso especial, por se tratar de matéria constitucional, apenas reproduzida na legislação ordinária. Precedentes.
+2. A reforma do julgado, na forma como pretendido pelo agravante, demandaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+3. Afastar a multa imposta no julgamento dos embargos de declaração que foram considerados protelatórios demandaria o revolvimento do arcabouço fático-probatório, procedimento inviável na instância especial por incidir o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por VALE S.A. contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento nos termos da seguinte ementa (fl. 576):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 /STJ E 7/STJ. DISSÍDIO PREJUDICADO. MULTA. ART. 1.026, § 2º, DO CPC. EMBARGOS PROTELATÓRIOS. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 433-442):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS PATRIMONIAIS E MORAIS. ROMPIMENTO DA BARRAGEM DA MINA CÓRREGO DO FEIJÃO EM BRUMADINHO. CELEBRAÇÃO DE ACORDO EXTRAJUDICIAL. NÃO CONFIGURAÇÃO DE COISA JULGADA. EXCEÇÃO EXPRESSA QUANTO AOS LUCROS CESSANTES NÃO INDENIZADOS ANTECIPADAMENTE.
+- Via de regra, o microempreendedor individual, também conhecido como MEI, não é pessoa jurídica e, por inexistir como tal, não tem personalidade autônoma ou distinta daquele que lhe dá o nome no exercício da atividade comercial ou de prestação de serviço.
+- Contudo, considerando que o acordo extrajudicial celebrado possui objeto delimitado aos danos individuais suportados pela autora, no qual, embora haja cláusula geral de quitação, existe expressa exceção sobre a possibilidade de litigar com relação aos danos não descritos no acordo e aos lucros cessantes não indenizados antecipadamente à microempresa, não há que se falar em coisa julgada ou ausência de interesse de agir.
+- Recurso provido.
+Opostos embargos de declaração, o Tribunal de origem os rejeitou (fls. 472-478).
+A agravante alega, nas razões do agravo interno, contrariedade ao art. 1.022 do CPC, pois o STJ teria sido omisso quanto à alegação de que os danos pleiteados já estariam abrangidos por cláusula de quitação plena, geral e irrevogável, homologada judicialmente com trânsito em julgado. Ressalta que a jurisprudência do STJ reconhece a nulidade de acórdãos que não enfrentam questões relevantes para o deslinde da controvérsia.
+Aduz que a decisão agravada fundamentou-se na Súmula 7/STJ, mas a questão demandaria apenas interpretação jurídica da cláusula contratual homologada e do alcance da coisa julgada, não exigindo revolvimento de provas.
+A VALE S.A. sustenta que, mesmo diante do óbice da Súmula 7/STJ na alínea "a", o recurso pode ser conhecido pela alínea "c", que trata de divergência jurisprudencial sobre a interpretação de norma federal.
+Por fim, contesta a aplicação de multa por embargos de declaração protelatórios, afirmando que os embargos foram opostos para prequestionamento legítimo, conforme autorizado pela Súmula 98 do STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contraminuta (fls. 604-607).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ROMPIMENTO DA BARRAGEM DA MINA DO CÓRREGO DO FEIJÃO. ARTIGO 6º DA LINDB. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. VIA ELEITA INADEQUADA. CELEBRAÇÃO DE ACORDO EXTRAJUDICIAL. VIOLAÇÃO DA COISA JULGADA NÃO EVIDENCIADA. REEXAME DO JULGADO. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. EMBARGOS PROTELATÓRIOS. MULTA. REEXAME DE PROVAS.
+1. A jurisprudência desta Corte consolidou entendimento no sentido da impossibilidade de os princípios contidos no art. 6º da LINDB serem analisados em recurso especial, por se tratar de matéria constitucional, apenas reproduzida na legislação ordinária. Precedentes.
+2. A reforma do julgado, na forma como pretendido pelo agravante, demandaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+3. Afastar a multa imposta no julgamento dos embargos de declaração que foram considerados protelatórios demandaria o revolvimento do arcabouço fático-probatório, procedimento inviável na instância especial por incidir o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Conforme consignado na decisão agravada, inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, deixou claro que o acordo celebrado entre as partes não abrangia os danos objeto da presente demanda. Verifica-se, assim, que a lide foi solucionada em conformidade ao que foi apresentado em juízo, e que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+Quanto à alegação de ocorrência de coisa julgada, tem-se que a jurisprudência desta Corte consolidou entendimento no sentido da impossibilidade de os princípios contidos no art. 6º da LINDB serem analisados em recurso especial, por se tratar de matéria constitucional, apenas reproduzida na legislação ordinária.
+Nesse sentido, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. VIOLAÇÃO DO ART. 6º DA LINDB. IMPOSSIBILIDADE. MATÉRIA DE NATUREZA CONSTITUCIONAL. CLÁUSULAS CONTRATUAIS. INTERPRETAÇÃO. IMPOSSIBILIDADE. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. SÚMULAS N. 5 E 7 DO STJ. PREQUESTIONAMENTO FICTO. AUSÊNCIA. SÚMULAS N. 282 DO STF E 211 DO STJ. DECISÃO MANTIDA.  .. .
+2. Consoante a jurisprudência desta Corte, é "inviável o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios contidos na Lei de Introdução ao Código Civil - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" (AgInt no R Esp 1790775/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/03/2020, D Je 20/03/2020).  .. .
+7. Agravo interno a que se nega provimento.
+(AgInt no AR Esp n. 1.934.602/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/6/2022, D Je de 1º/7/2022.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO DO CONTRATO. ART. 6º DA LINDB. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. VIA ELEITA INADEQUADA. ARTS. 489 E 1.022, AMBOS DO NCPC. OMISSÃO E FALTA DE FUNDAMENTAÇÃO INEXISTENTES. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. PANFLETOS PUBLICITÁRIOS. PROPAGANDA ENGANOSA. OCORRÊNCIA. ATO ILÍCITO COMPROVADO. DEVER DE INDENIZAR CONFIGURADO. REFORMA. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA. MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.  ..
+4. "É inviável o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios contidos na Lei de Introdução ao Código Civil - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" (AgRg no R Esp n. 1.402.259/RJ, Rel. Ministro SIDNEI BENETI, D Je 12/6/2014).  ..
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no AR Esp 1.419.587/GO, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/8/2019, D Je de 21/8/2019.)
+Ademais, inviável a apreciação das alegações da recorrente, ora agravante, considerando que o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, concluiu que não houve ofensa à coisa julgada pelo acordo extrajudicial. Isso porque os danos reclamados não foram indenizados e tampouco tiveram sua existência reconhecida pela Mineradora Vale extrajudicialmente.
+Assim ficou consignado no acórdão recorrido (fls. 437-439):
+No que concerne ao primeiro requisito para caracterização da coisa julgada, qual seja, a identidade entre as partes, impende pontuar que o microempreendedor individual, também conhecido como MEI, não é pessoa jurídica e, por inexistir como tal, não tem personalidade autônoma ou distinta daquele que lhe dá o nome no exercício da atividade comercial ou de prestação de serviço.
+Nessa perspectiva, na hipótese em tela, a pessoa jurídica inscrita sob a denominação "Sara Souza e Silva - MEI", na verdade não o é, mas se confunde com a pessoa da sua representante Sara Souza e Silva, já que se trata de microempresa. Sobre o tema, pertinente a jurisprudência do c. Superior Tribunal de Justiça:
+(..)
+Apesar de, em regra, a pessoa física confundir-se com microempresa a que representa, na hipótese aqui tratada, os danos contemplados no referido acordo, não abrangeram os prejuízos materiais alegados pela autora na qualidade de microempreendedora individual na empresa Sara Papelaria e Artigos para Presentes.
+Veja que o Termo de Acordo, cuja minuta se acosta à ordem 61, delineou os danos indenizados ao núcleo familiar da autora, então residente de um os bairros mais atingidos pelo desastre, Córrego do Feijão, da seguinte maneira:
+(..)
+Nada obstante, representando sua microempresa, a autora requereu indenização patrimonial pelos prejuízos relacionados na petição inicial, juntado comprovantes atinentes à atividade empresarial exercida (declaração do Simples Nacional- doc. 11, declaração de parceiros comerciais-doc. 12, boletos e notas ficais de compra de materiais- doc. 13 e fotografias da loja e das mercadorias - doc. 14).
+Porém, o pedido foi indeferido pela Mineradora Vale que argumentou inexistirem provas dos referidos prejuízos (doc. 10).
+Nesse ponto, a autora busca a reapreciação da questão pelo Poder Judiciário, amparada nas cláusulas sétima e décima do acordo celebrado que expressamente consignaram que os lucros cessantes não transacionados consubstanciam-se em exceção à quitação outorgada no referido ato, vejamos (doc.61 , p. 05 ):
+(..)
+Com efeito, ainda que os danos aqui tratados não sejam supervenientes ou desconhecidos, eles não foram indenizados e, da análise do caderno processual, sem intenção de inaugurar o mérito, há aparentes indícios do exercício da atividade comercial alegada.
+Assim, embora haja acordo celebrado entre as partes (doc. 61), assinado em 17 de setembro de 2020, os danos ora reclamados não foram indenizados e tampouco tiveram sua existência reconhecida pela Mineradora Vale extrajudicialmente (doc. 10), inexistindo, salvo melhor juízo, a ocorrência de coisa julgada, já que há no pacto expressa ressalva quanto aos danos não descritos e aos lucros cessantes não antecipados.
+Como se vê, conforme consignado na decisão agravada, a questão foi resolvida com amparo nas cláusulas contratuais e nos elementos fáticos da demanda, de sorte que alterar a conclusão do Tribunal de origem, na forma como pretendido pela recorrente, demandaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ROMPIMENTO DE BARRAGEM EM BRUMADINHO/MG. ALEGAÇÃO DE DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENDIDO RECONHECIMENTO DE QUITAÇÃO INTEGRAL. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Não é omissa, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia. 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no Resp n. 2077345/MG, relatora Maria Isabel Gallotti, D Je de 13/9/2023.)
+Ressalte-se que é pacífico o entendimento desta Corte de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Por fim, também não merece reparos a decisão agravada ao afirmar que o recurso especial não deve ser conhecido quanto à suscitada violação do art. 1.026, § 2º, do CPC, uma vez que a revisão das conclusões adotadas pelo Tribunal de origem acerca do caráter protelatório dos embargos de declaração demandaria reexame de fatos e provas, esbarrando-se no óbice da Súmula n. 7/STJ.
+Nesse sentido, cito :
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO DE SOCIEDADES ANÔNIMAS. RESPONSABILIDADE SOLIDÁRIA DAS EMPRESAS COLIGADAS. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO. DEVIDA PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. LEGALIDADE DA PENHORA. NULIDADE DO ADITIVO CONTRATUAL. SÚMULAS 5 E 7/STJ. MULTA POR EMBARGOS PROTELATÓRIOS. REVISÃO. REEXAME DE PROVAS.
+ ..
+4. Afastar a multa imposta no julgamento dos embargos de declaração que foram considerados protelatórios demandaria o revolvimento do arcabouço fático-probatório, procedimento inviável na instância especial por incidir o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 1.895.172/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
