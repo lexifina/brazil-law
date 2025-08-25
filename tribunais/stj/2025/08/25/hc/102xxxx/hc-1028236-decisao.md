@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em favor de RODRIGO BORGES DE OLIVEIRA JUNIOR - condenado pela prática do crime do art. 1º, caput e § 1º, I, § 2º, I, e § 4º da Lei n. 9.613/1998, à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 0000141-90.2022.8.13.0040), não comporta processamento.
+Com efeito, busca a impetração o reconhecimento da nulidade decorrente da derivação de provas ilícitas, visto que a condenação do paciente decorreria de ações penais que resultaram em trancamento ou absolvição, sendo uma delas trancada pelo Superior Tribunal de Justiça por violação de domicílio; bem como da incompatibilidade do regime fechado com o quantum de pena imposto.
+Ocorre que, em consulta à página eletrônica do Tribunal a quo, verifiquei que o habeas corpus foi impetrado concomitantemente à interposição de recurso especial, a evidenciar ofensa ao princípio da unirrecorribilidade e utilização abusiva da via eleita, o que torna inadmissível o conhecimento do pedido. Ora, a jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+Ademais, não se percebe a ocorrência de constrangimento ilegal manifesto, considerando que: a) a tese relativa à nulidade de provas por derivação não foi objeto de debate e decisão pelo Tribunal local, a atrair o óbice da supressão de instância; e b) o regime inicial fechado foi devidamente fundamentado na existência de circunstâncias judiciais negativas.
+Pelo exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LAVAGEM DE CAPITAIS. ABSOLVIÇÃO OU FIXAÇÃO DE REGIME INICIAL MAIS BRANDO. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL EM FACE DO MESMO ACÓRDÃO DO TRIBUNAL A QUO. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
