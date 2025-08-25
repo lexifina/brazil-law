@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. PEDIDO DE JUSTIÇA GRATUITA. NEGATIVA. PESSOA FÍSICA. AUSÊNCIA DE MISERABILIDADE JURÍDICA. INDEFERIMENTO. ADMISSIBILIDADE. PESSOA JURÍDICA. PRESUNÇÃO RELATIVA. NECESSIDADE DE COMPROVAÇÃO, AINDA QUE A EMPRESA ESTEJA EM RECUPERAÇÃO JUDICIAL. SÚMULA N. 481 DO STJ. HIPOSSUFICIÊNCIA. REEXAME DO ACERVO FÁTICO. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Para alterar a conclusão a que chegou o Tribunal estadual quanto à ausência de comprovação da hipossuficiência financeira, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+2. A jurisprudência desta Corte é firme quanto à concessão da gratuidade de justiça para a pessoa física ou jurídica, com ou sem fins lucrativos, desde que comprovada a impossibilidade de arcar com as custas processuais.
+3. A concessão do benefício da justiça gratuita a pessoa jurídica, mesmo em recuperação judicial, exige a comprovação de hipossuficiência financeira, nos termos da Súmula n. 481 do STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por DISTRIBUIDORA TABOCÃO LTDA. - EM RECUPERAÇÃO JUDICIAL (DISTRIBUIDORA), POSTO NERÓPOLIS LTDA. - EM RECUPERAÇÃO JUDICIAL (POSTO) e EDISON JOSÉ DUTRA (EDISON) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Desembargador MARCELO IELO AMARO, assim ementado:
+AGRAVO DE INSTRUMENTO Assistência Judiciária Indeferimento da benesse à pessoa física e pessoas jurídicas. Declaração de pessoas jurídicas e pessoa física que não gozam da referida presunção Necessidade de demonstração da impossibilidade de arcar com os encargos processuais Súmula 481 do C. Superior Tribunal de Justiça - Documentos juntados aos autos não demonstram as hipossuficiências financeiras alegadas pelas empresas agravantes e pela pessoa física - Decisão mantida Benefício acertadamente indeferido. Efeito suspensivo revogado - RECURSO NÃO PROVIDO." (e-STJ, fls. 96-101).
+Embargos de declaração de DISTRIBUIDORA e OUTROS foram rejeitados (e-STJ, fls. 135-141).
+Nas razões do agravo, DISTRIBUIDORA e outros apontaram que (1) a decisão agravada incorreu em erro ao aplicar a Súmula n. 7 do STJ, pois não se trata de reexame de provas, mas de análise de direito; (2) houve violação dos arts. 99, § 3º, e 98, caput, § 6º, do CPC.
+Foi apresentada contraminuta (e-STJ, fls. 183-194).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, DISTRIBUIDORA e outros apontaram (1) violação do art. 99, § 3º, do CPC, ao não reconhecer a presunção de hipossuficiência da pessoa física; (2) violação do art. 98, caput, § 6º, do CPC, ao não permitir o diferimento ou parcelamento das custas processuais; (3) a decisão não considerou a situação de recuperação judicial das empresas como prova suficiente de hipossuficiência econômica.
+Foram apresentadas contrarrazões (e-STJ, fls. 145-154).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. PEDIDO DE JUSTIÇA GRATUITA. NEGATIVA. PESSOA FÍSICA. AUSÊNCIA DE MISERABILIDADE JURÍDICA. INDEFERIMENTO. ADMISSIBILIDADE. PESSOA JURÍDICA. PRESUNÇÃO RELATIVA. NECESSIDADE DE COMPROVAÇÃO, AINDA QUE A EMPRESA ESTEJA EM RECUPERAÇÃO JUDICIAL. SÚMULA N. 481 DO STJ. HIPOSSUFICIÊNCIA. REEXAME DO ACERVO FÁTICO. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Para alterar a conclusão a que chegou o Tribunal estadual quanto à ausência de comprovação da hipossuficiência financeira, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+2. A jurisprudência desta Corte é firme quanto à concessão da gratuidade de justiça para a pessoa física ou jurídica, com ou sem fins lucrativos, desde que comprovada a impossibilidade de arcar com as custas processuais.
+3. A concessão do benefício da justiça gratuita a pessoa jurídica, mesmo em recuperação judicial, exige a comprovação de hipossuficiência financeira, nos termos da Súmula n. 481 do STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Da justiça gratuita
+A jurisprudência desta Corte é firme quanto ao deferimento da assistência judiciária gratuita para a pessoa física ou jurídica, com ou sem fins lucrativos, desde que comprovada a impossibilidade de arcar com as despesas do processo.
+Ademais, Segundo o art. 98 do CPC, cabe às pessoas jurídicas, inclusive as instituições filantrópicas ou sem fins lucrativos, demonstrar sua hipossuficiência financeira para que sejam beneficiárias da justiça gratuita. Isso porque, embora não persigam o lucro, este pode ser auferido na atividade desenvolvida pela instituição e, assim, não se justifica o afastamento do dever de arcar com os custos da atividade judiciária (REsp n. 1.742.251/MG, relator Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 23/8/2022, DJe de 31/8/2022).
+No caso dos autos, o Tribunal de Justiça de São Paulo, após análise dos autos, concluiu pel a ausência de prova cabal de que DISTRIBUIDORA e outros não poderiam arcar com os encargos processuais, sendo descabida a concessão da gratuidade de justiça.
+Confira-se trecho do aresto recorrido:
+In casu, os documentos que juntaram aos autos não se traduzem suficientes ao acolhimento da pretensão, porque não revelam de forma segura estarem os agravantes sob circunstância de precariedade financeira, não se desincumbindo de seu ônus probatório, preferindo não apresentar documentos imprescindíveis para a análise de sua capacidade econômica, como já requisitado pelo MM. Juiiz de 1º grau, bem como às fls. 22/23 destes autos.
+Não foram apresentadas evidências substanciais que comprovem a incapacidade financeira das aggravantes em arcar com as custas processuais. Destaca-se, igualmente, que a ausência de documentação suficiente para respaldar a alegada dificuldade econômica inviabiliza a concessão do benefício da assistência judiciária. (e-STJ, fl. 99)
+Desse modo, a revisão da conclusão a que chegou o Tribunal estadual demanda a reavaliação de fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da mencionada Súmula n. 7 desta Corte, segundo a qual: A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido, confira-se o precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE VIOLAÇÃO À LEI N. 1.060/1950. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA E JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão, ante a aplicação analógica da Súmula 284/STF.
+2. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. O benefício, todavia, pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+3. Além disso, segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3.1. Tendo o Tribunal de origem entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.482.064/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024)
+Não obstante a declaração de pobreza tenha presunção juris tantum em se tratando de pessoa física, a gratuidade pode ser indeferida quando o julgador constatar, com base nos elementos dos autos, que não se trata de hipótese de miserabilidade jurídica, sendo esta exatamente a hipótese em tela.
+Ademais, a concessão do benefício da justiça gratuita a pessoa jurídica, mesmo em recuperação judicial, exige a comprovação de hipossuficiência financeira, nos termos da Súmula n. 481 do STJ.
+Veja-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA EM RECUPERAÇÃO JUDICIAL. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que não conheceu do agravo em razão da intempestividade do recurso especial, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+2. A parte agravante alega que os prazos processuais foram suspensos devido a feriado local, o que justificaria a tempestividade do recurso especial. II. QUESTÕES EM DISCUSSÃO
+3. Há duas questões em discussão: a) saber se a apresentação de documentos que comprovam a ocorrência de feriado local é suficiente para justificar a reconsideração da decisão de intempestividade do recurso especial; b) saber se a empresa em recuperação judicial faz jus à gratuidade de justiça independentemente da comprovação de hipossuficiência financeira. III. RAZÕES DE DECIDIR
+4. A apresentação de documentos que comprovam a ocorrência de feriado local foi considerada suficiente para a reconsideração da decisão de intempestividade do recurso especial.
+5. A concessão do benefício da justiça gratuita a pessoa jurídica, mesmo em recuperação judicial, exige a comprovação de hipossuficiência financeira, conforme a Súmula n. 481 do STJ.
+6. A jurisprudência do STJ estabelece que a simples decretação de recuperação judicial não presume a hipossuficiência financeira da pessoa jurídica. IV. DISPOSITIVO E TESE
+7. Agravo interno desprovido.
+Tese de julgamento: "1. A comprovação de feriado local pode justificar a reconsideração de decisão sobre a intempestividade de recurso especial. 2. A concessão de justiça gratuita a pessoa jurídica em recuperação judicial exige comprovação de hipossuficiência financeira".
+Dispositivos relevantes citados: CPC, arts. 98, 99 e 1.003, § 6º.
+Jurisprudência relevante citada: AgInt no AREsp n. 2.538.820/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024;
+AgInt no AREsp n. 2.355.896/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/12/2023; AgInt no AREsp n. 2.481.355/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024; AgInt no AREsp n. 2.448.121/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/5/2024; AgInt no AREsp n. 2.110.748/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/11/2023.
+(AgInt no AREsp n. 2.715.387/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 17/2/2025, DJEN de 20/2/2025)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
