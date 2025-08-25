@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO INDUSTRIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. DEMORA NA CITAÇÃO. INÉRCIA OU DESÍDIA DO EXEQUENTE NÃO CARACTERIZADA. REANÁLISE. REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Rever as conclusões no sentido de que houve desídia do credor apta a justificar o reconhecimento da prescrição demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por PAULO FABRINNY MEDEIROS (PAULO ) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+APELAÇÃO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL- EXTINÇÃO - PRESCRIÇÃO INTERCORRENTE - CITAÇÃO TARDIA QUE NÃO DECORREU DE INÉRCIA DO CREDOR QUE SEMPRE PETICIONOU BUSCANDO EFETIVAÇÃO DE SEUS DIREITOS - PRESCRIÇÃO AFASTADA - DEMORA NA CITAÇÃO QUE DECORREU DE MOTIVOS ALHEIOS A VONTADE DO EXEQUENTE - SENTENÇA REFORMADA - RECURSO PROVIDO.
+Não há falar em prescrição em razão da citação tardia quando esta não decorre de atos imputáveis ao credor que sempre peticionou nos Autos na busca de seus direitos, valendo anotar que a citação retroage à data do ajuizamento da ação interrompendo-se a prescrição.
+A prescrição intercorrente pressupõe a inércia do autor, o que não se verificou na hipótese, em que ficou constatada que a demora da citação decorreu de motivos alheios à vontade do Exequente, circunstância que afasta o reconhecimento da prescrição." (e-STJ, fls. 619/620).
+Os embargos de declaração de PAULO foram rejeitados (e-STJ, fls. 670/671).
+Nas razões do agravo, PAULO alegou basicamente a não incidência da Súmula n. 7 do STJ, argumentando que o recurso especial não busca reexaminar matéria fática, mas discutir a correta aplicação da legislação federal ao caso concreto.
+Foi apresentada contraminuta (e-STJ, fls. 750-759).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, PAULO apontou (1) violação do art. 240, §§ 1º e 2º, do CPC, alegando que a citação válida deveria ter ocorrido dentro do prazo de 10 dias para interromper a prescrição; (2) contrariedade à jurisprudência do STJ, que estabelece que diligências infrutíferas não interrompem a prescrição, sob pena de transformar a dívida em imprescritível.
+Foram apresentadas contrarrazões (e-STJ, fls. 710-718).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO INDUSTRIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. DEMORA NA CITAÇÃO. INÉRCIA OU DESÍDIA DO EXEQUENTE NÃO CARACTERIZADA. REANÁLISE. REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Rever as conclusões no sentido de que houve desídia do credor apta a justificar o reconhecimento da prescrição demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Da ocorrência da prescrição
+Como emana dos autos, BANCO DO BRASIL S.A. (BANCO DO BRASIL) ajuizou execução de título extrajudicial com lastro em Cédula de Crédito Industrial, no valor histórico de R$ 319.357,58 (trezentos e dezenove mil, trezentos e cinquenta e sete reais e cinquenta e oito centavos), com vencimento em 1º/3/2014, contra PAULO e outros devedores.
+O Juízo de primeira instância reconheceu a prescrição intercorrente devido à inércia do exequente, extinguindo a ação.
+O Tribunal de Justiça do Estado de Mato Grosso reformou a sentença, afastando a prescrição por entender que a demora na citação não decorreu de inércia do exequente, mas por motivos alheios à sua vontade, conforme trechos que ora se transcrevem:
+No caso em análise, a ação foi ajuizada no prazo legal em 02/05/2016, valendo ressaltar que o Exequente sempre peticionou visando a citação dos devedores, cumprindo anotar, inclusive, que a questão referente a ocorrência da prescrição no caso, pelas mesmas razões já foi objeto de análise no Recurso de Apelação Cível n. 0001715-10-2019, interposto contra sentença que julgou Embargos à Execução propostos pelo ora Apelado, sendo afastada a prescrição pelo mesmo fundamento em questão cuja decisão adoto como razões de decidir o presente recurso.
+ ..
+Diante do quadro retratado nos Autos, é possível constatar que a citação ocorreu tardiamente em razão da impossibilidade de localizar os devedores para efetivar-se referido ato processual sendo que a citação do co-devedor Rodrigo Palma da Silva ocorreu em , 22/08/2016 quanto a empresa INREF - INDUSTRIA DE REFEICOES LTDA foi citada em 18/10/2018 na pessoa do seu sócio ora Apelante, uma vez que não funcionava mais no endereço e quanto ao indicado Apelante Paulo Fabrinny Medeiros a dificuldade em se efetivar a sua citação ocorreu pelo fato de não mais trabalhar no endereço indicado, sendo que o mesmo veio aos autos em pleitear a extinção da execução suprindo,03/07/2023 portanto, a citação.
+Neste contexto, não há como ser reconhecida a prescrição no caso em análise quando se verifica que a demora na sua citação não decorre de inércia do Exequente que sempre veio aos Autos na busca de efetivar referido ato processual que somente não ocorreu no prazo legal por fatos não atribuíveis ao Exequente. (e-STJ, fls. 610/611, 613/614).
+O Tribunal de Justiça de Mato Grosso, soberano na análise do contexto fático-probatório, concluiu que, na hipótese, não se pode falar em prescrição, pois a demora na citação não ocorreu por desídia da instituição financeira, mas sim pela dificuldade na localização dos devedores.
+Por isso, conforme se nota, o Tribunal estadual assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ilustrativamente:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. PRESCRIÇÃO. DILIGÊNCIA DO EXEQUENTE. SÚMULA 106 DO STJ. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTAÇÃO GENÉRICA. AGRAVO NÃO CONHECIDO. I. CASO EM EXAME
+1 Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob os fundamentos de inexistência de violação aos arts. 489 e 1.022 do CPC e de que a análise da controvérsia acerca da interrupção da prescrição por culpa do exequente demandaria reexame do conjunto fático-probatório, atraindo a incidência da Súmula 7 do STJ. A parte agravante sustentou a ausência de omissão e a não incidência da prescrição. A parte agravada, intimada nos termos do art. 1.042, § 3º, do CPC, defendeu a manutenção da decisão. II. QUESTÃO EM DISCUSSÃO
+2 Há duas questões em discussão: (i) verificar se o acórdão recorrido é omisso, contraditório ou carente de fundamentação, nos termos dos arts. 489 e 1.022 do CPC; (ii) definir se a análise da prescrição da pretensão executiva exige reexame de fatos e provas, o que inviabilizaria o conhecimento do recurso especial. III. RAZÕES DE DECIDIR
+3 A alegada ofensa aos arts. 489 e 1.022 do CPC não se configura, pois o tribunal de origem enfrentou adequadamente as teses jurídicas apresentadas, ainda que em sentido contrário à pretensão da parte recorrente.
+4 A jurisprudência do STJ é firme no sentido de que a decisão judicial não é omissa ou carente de fundamentação apenas por não acolher todos os argumentos da parte, desde que apresente motivação suficiente e coerente (AgInt no AREsp 2.441.987/DF; AgInt no REsp 1.899.000/SP).
+5 A controvérsia relativa à prescrição da pretensão executiva - e, em especial, à apuração da diligência do exequente na promoção da citação - demanda exame detalhado do conjunto probatório constante dos autos, o que atrai a incidência da Súmula 7 do STJ.
+6 A parte agravante não demonstrou, de forma clara e objetiva, que a análise da controvérsia prescindiria do reexame de provas, limitando-se a afirmar genericamente a inaplicabilidade da Súmula 7/STJ, sem demonstrar como a decisão poderia ser reformada apenas pela revaloração jurídica dos fatos incontroversos.
+7 No ponto relativo aos honorários de sucumbência devidos à Defensoria Pública, a decisão recorrida está em consonância com a jurisprudência desta Corte (REsp 1.076.014/MG), não havendo divergência justificadora de reforma. IV. DISPOSITIVO
+8 Agravo em recurso especial não conhecido.
+(AREsp n. 2.077.675/PR, relatora Ministra DANIELA TEIXEIRA, Terceira Turma, julgado em 16/6/2025, DJEN de 24/6/2025 - sem destaque no original)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA. PRESCRIÇÃO. DEMORA NA CITAÇÃO. NÃO IMPUTÁVEL AO EXEQUENTE. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. SUSPENSO NA ENTRADA EM VIGOR DO CPC/15. CONTAGEM DO PRAZO. FIM DO PRAZO DE UM ANO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. A prescrição é considerada interrompida quando proposta a demanda no prazo legal e a demora na citação não possa ser imputada ao autor.
+3. O acórdão vergastado assentou que a demora na citação não pode ser imputada à parte, tendo sido interrompida a prescrição. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n. 7 do STJ.
+4. Estando suspenso o processo quando entrou em vigor o CPC/15, o prazo da prescrição intercorrente seria iniciado após o decurso do prazo de um ano contado da vigência do CPC/15.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.949.547/SP, relator minha Relatoria, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
