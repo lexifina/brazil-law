@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ARTS. 77, 78 E 79 DO CTN. REPRODUÇÃO DO ART. 145 DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIA CONSTITUCIONAL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Segundo este Superior Tribunal de Justiça, o exame dos arts. 77, 78 e 79 do Código Tributário Nacional (CTN), por remeterem a preceito constitucional (art. 145 da Constituição Federal), é vedado a esta Corte porque implicaria, de forma reflexa, verificar a constitucionalidade dos regramentos e usurpar a competência do Supremo Tribunal Federal (STF). Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 1392):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. ARTS. 77, 78 E 79 DO CTN. MATÉRIA CONSTITUCIONAL. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante sustenta, em síntese (fls. 1433/1437):
+"Desta maneira, embora seja possível admitir que o conteúdo dos arts. 77 e 79, do CTN, tem origem no art. 145 do texto constitucional, definitivamente não se pode concluir o mesmo acerca do que prediz o art. 78, do CTN.
+Se o que pode ser considerado Poder de Polícia para fins de instituição de taxas foi exclusivamente delimitado em norma infraconstitucional, caberá ao e. Superior Tribunal de Justiça a análise de recursos que versem acerca da instituição de taxas que violam os limites estabelecidos pelo art. 78, do CTN, como acontece no caso em voga.
+ ..
+Posto isso, além da inadequação da base de cálculo, a TCIF igualmente é ilegal por adotar fato gerador que não poderia ter sido adotado. Mais uma vez, insista-se: "fiscalizar o pagamento de tributos" não é exercer o poder de polícia "taxável" e não pode ser uma hipótese de incidência de uma taxa prevista pelo Código Tributário Nacional, restando evidente, portanto, a violação ao art. 78, do CTN."
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ARTS. 77, 78 E 79 DO CTN. REPRODUÇÃO DO ART. 145 DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIA CONSTITUCIONAL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Segundo este Superior Tribunal de Justiça, o exame dos arts. 77, 78 e 79 do Código Tributário Nacional (CTN), por remeterem a preceito constitucional (art. 145 da Constituição Federal), é vedado a esta Corte porque implicaria, de forma reflexa, verificar a constitucionalidade dos regramentos e usurpar a competência do Supremo Tribunal Federal (STF). Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+A decisão agravada salientou que esta Corte tem posicionamento consolidado segundo o qual os arts. 77, 78 e 79 do Código Tributário Nacional (CTN), por remeterem a preceito constitucional (art. 145 da Constituição Federal), é vedado a esta Corte porque implicaria, de forma reflexa, verificar a constitucionalidade dos regramentos e usurpar a competência do Supremo Tribunal Federal (STF). (AgInt no REsp n. 1.805.245/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/9/2024, DJe de 7/10/2024.)
+A Agravante aponta que não haveria qualquer invasão da competência desta Corte em apreciar o art. 78 do CTN, que introduz uma delimitação normativa específica sobre o que configura poder de polícia para fins de instituição de taxa.
+No entanto, tais argumentos são insuficientes para modificar a decisão agravada, pois a jurisprudência de ambas as Turmas da 1ª Seção deste Superior Tribunal de Justiça é firme no sentido de que o exame de ofensa aos arts. 77, 78 e 79 do CTN seria inviável por invadir a competência do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. ARTS. 77, 78 E 79 DO CTN. REPRODUÇÃO DO ART. 145 DA CONSTITUIÇÃO DA REPÚBLICA. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INAPLICABILIDADE.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Segundo este Superior Tribunal de Justiça, o exame dos arts. 77, 78 e 79 do Código Tributário Nacional (CTN), por remeterem a preceito constitucional (art. 145 da Constituição Federal), é vedado a esta Corte porque implicaria, de forma reflexa, verificar a constitucionalidade dos regramentos e usurpar a competência do Supremo Tribunal Federal (STF). Precedentes.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido. (AgInt no REsp n. 2.184.083/RO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/5/2025, DJEN de 9/5/2025.) (grifo meu)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. TAXAS DE LICENÇA DE FUNCIONAMENTO EM HORÁRIO ESPECIAL DE PUBLICIDADE. ARTS. 77, 78 E 79 DO CTN. REPRODUÇÃO, DE FORMA REFLEXA, DO ART. 145 DA CONSTITUIÇÃO FEDERAL. ANÁLISE INVIÁVEL EM RECURSO ESPECIAL. REQUISITOS DAS CDAS. ANÁLISE DE LEGISLAÇÃO LOCAL (LEI 3.264/1990 DO MUNICÍPIO DE PIRACICABA/SP). SÚMULA 280/STF. SUBSTITUIÇÃO DA CDA EM CONFORMIDADE COM A ORIENTAÇÃO DESTA CORTE FIRMADA SOB O REGIME DE RECURSOS REPETITIVOS (RESP 1.045.472/BA) E COM A SÚMULA 392/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. PROVIMENTO NEGADO.
+1. O Tribunal de origem julgou integralmente a lide, não padecendo o julgado de vício algum que conduza ao acolhimento de suposta afronta ao art. 1.022 do Código de Processo Civil (CPC).
+2. Quanto aos arts. 77, 78 e 79 do Código Tributário Nacional (CTN), o Superior Tribunal de Justiça (STJ) tem proclamado que o exame de tais normas, por remeter a preceito constitucional (art. 145 da Constituição Federal), é vedado a esta Corte porque implicaria, de forma reflexa, verificar a constitucionalidade dos regramentos e usurpar a competência do Supremo Tribunal Federal (STF).
+3. Tendo sido constatado pela Corte local, da análise do acervo probatório da causa e também da observância das disposições da Lei 3.264/1990 do Município de Piracicaba/SP, que a certidão de dívida ativa (CDA) que embasava a execução fiscal preenchia todos os requisitos legais (arts. 2º, §§ 5º e 6º, da Lei de Execução Fiscal e 202 do CTN) para a cobrança do débito relativo às taxas em comento, é inviável é a modificação do acórdão recorrido ante a necessidade de revolvimento de fatos e provas, bem como da reinterpretação de legislação local, o que é defeso em recurso especial. Incidência das Súmulas 7/STJ e 280/STF.
+4. A respeito da possibilidade de substituição da CDA, o entendimento do Tribunal de origem está de acordo com a orientação consolidada nesta Corte de que a Fazenda Pública pode substituir a certidão de dívida ativa até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução - Súmula 392/STJ (REsp.
+1.045.472/BA, relator Ministro Luiz Fux, DJ de 18/12/2009, julgado sob o regime do art. 543-C do CPC/1973).
+5. Na alegação de divergência jurisprudencial não foram atendidos os requisitos dos arts. 1.029, § 1º, do Código de Processo Civil (CPC) e 255 do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.805.245/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/9/2024, DJe de 7/10/2024.) (grifo meu)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
