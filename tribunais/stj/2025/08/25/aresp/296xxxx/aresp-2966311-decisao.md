@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDACAO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - ACIDENTE DE TRÂNSITO - TRANSPORTE COLETIVO - RECURSO INTERPOSTO PELA COMPANHIA SEGURADORA DENUNCIADA - GRATUIDADE JUDICIAL - PROVA DA HIPOSSUFICIÊNCIA - DEFERIMENTO DO BENEFÍCIO - CONCESSIONÁRIA DE SERVIÇO PÚBLICO - RESPONSABILIDADE OBJETIVA - CULPA EXCLUSIVA DA VÍTIMA - NÃO COMPROVAÇÃO - DANOS MORAIS RECONHECIDOS NA ORIGEM E NÃO CONTROVERTIDOS - QUANTUM INDENIZATÓRIO - RAZOABILIDADE E PROPORCIONALIDADE - DENUNCIADA EM LIQUIDAÇÃO EXTRAJUDICIAL - CIRCUNSTÂNCIA QUE NÃO OBSTA A INCIDÊNCIA DE CORREÇÃO MONETÁRIA - JUROS SOBRE OS DÉBITOS DA MASSA - SUSPENSÃO DA EXIGIBILIDADE
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 944 do Código Civil e ao art. 8º do CPC, no que concerne à necessidade de redução do valor fixado a título de indenização por danos materiais e morais decorrentes de acidente de trânsito, porquanto determinado em patamar excessivo, trazendo a seguinte argumentação:
+O presente recurso, funda-se principalmente na desproporcionalidade da verba indenizatória não se prestando em momento algum a rediscutir o mérito da demanda. Tão somente serve a demonstrar que o acórdão fere Lei Federal, conforme se demonstrará em linhas posteriores.
+Conforme se pode observar, o acordão proferido pelo Egrégio Tribunal ad quem feriu expressamente Lei Federal, mais precisamente o Código Civil (Lei 10.406/2002). Não obstante a letra da lei, o Egrégio Tribunal do Estado de Minas Gerais proferiu acórdão no qual deu parcial provimento a apelação desta seguradora.
+ ..
+Doutos Ministros, não é admissível um dano moral desta monta, ao arrepio de provas precárias trazidas aos autos. Trata-se de condenação absolutamente desproporcional.
+Ora Exas., revela-se patente a conclusão de que o valor de R$ 10.000,00 (dez mil reais) fixado no r. acórdão recorrido a título de danos morais, está em pleno descompasso com os princípios da razoabilidade e proporcionalidade, que devem nortear o julgador na fixação do quantum indenizatório.
+Conforme se depreende da leitura do artigo 8º do CPC de 2015, deve ser observado o princípio da proporcionalidade e razoabilidade ao aplicar o ordenamento jurídico. Tal dispositivo, com a devida vênia, foi ofendido na decisão ora recorrida. (fls. 1.183-1.184).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No tocante ao quantum indenizatório, deve ser fixado em proporção com a extensão do dano, de acordo com o artigo 944 do Código Civil.
+In casu, realizada prova técnica judicial, conclui o expert que em razão da lesão sofrida a autora ficou afastada de suas atividades de manicure num período de 3 a 4 meses, conforme se infere dos excertos do laudo pericial que ora transcrevo (evento n. 138):
+"Ao exame médico pericial ficou constatado quadro prévio compatível com fratura do processo coracóide da escápula em ombro esquerdo (M75.9), com diagnóstico de fev/2015, tendo se submetido a tratamento conservador, sem evidências de tratamento cirúrgico. Diante documentação acostada aos autos, evidenciado prejuízo da capacidade laborativa, de caráter total e temporário, por aproximadamente 04 meses ao tempo do ocorrido, com melhora do quadro.
+(..) 07 - As lesões sofridas - se sofridas - pode ser considerada incapacitante para a atividade laborativa da Autora
+R: Evidenciado prejuízo da capacidade funcional, em caráter total e temporário, por aproximadamente 04 meses, ao tempo do ocorrido.
+(..) 12 - A Autora esteve afastada perante o INSS  Por qual período e sob qual CID
+R: Sim. Estimado em aproximadamente 3-4 meses. CID: M75."
+Conforme se observa, a lesão física experimentada pela autora ocasionou o afastamento de suas atividades laborais por cerca de 4 meses.
+Não deve ser desprezado, na fixação do patamar indenizatório, o conselho doutrinário pelo qual é de primar por uma "compensação mais personificada", que assegure "tutela mais efetiva à dignidade humana" (Anderson Schreiber, Novos Paradigmas da Responsabilidade Civil, 2ª edição, Editora Atlas, 2009, p. 206-207).
+Tendo em conta tais parâmetros, sem perder de vista o patamar de valores comumente arbitrados em casos similares, reputo razoável reduzir para R$10.000,00 o valor dos danos morais. (fls. 1.170-1.171).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial" (AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 9/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.718.125/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.582.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.685.985/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.632.436/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgInt no AREsp n. 2.315.287/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/11/2024; AgInt no REsp n. 1.860.301/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
