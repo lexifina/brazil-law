@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESIDÊNCIA. CABIMENTO. NÃO CONHECIMENTO. RECONSIDERAÇÃO. AGRAVO EM RECURSO ESPECIAL. RAZÕES DA INADMISSIBILIDADE. NÃO IMPUGNAÇÃO. ART. 932 DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade.
+2. Agravo não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TICKET SERVICOS S.A. (TICKET) contra decisão da Presidência desta Corte, assim redigida:
+O Agravo de Instrumento, previsto no art. 1.015 do CPC, destina-se, primordialmente, a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição.
+Para atacar decisão que inadmite Recurso Especial, o recurso cabível é o Agravo previsto no art. 1.042 do Código de Processo Civil, que deve ser dirigido à Presidência do Tribunal de origem e processado nos próprios autos.
+A interposição equivocada de recurso quando há expressa disposição legal e inexiste dúvida objetiva constitui manifesto erro grosseiro. (e-STJ, fl. 774)
+Nas razões do presente agravo interno, TICKET impugna a decisão agravada alegando que houve apenas "um erro de digitação contido na qualificação da peça de interposição do Agravo em Recurso Especial interposto pela Agravante, uma vez que - por um mero erro de digitação - consta o artigo 1.015 e não o 1.042 do Código de Processo Civil" (e-STJ, fl. 783).
+Foi apresentada impugnação.
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de, e-STJ, fls. 774-775 e passo a novo exame do agravo em recurso especial interposto às, e-STJ, fls. 716-723, pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+DIREITO CIVIL. APELAÇÃO CÍVEL. DESCREDENCIAMENTO EM SISTEMA DE VALE ALIMENTAÇÃO SEM JUSTA CAUSA. SENTENÇA DE PARCIAL PROCEDÊNCIA NA ORIGEM. RESTABELECIMENTO DOS SERVIÇOS. LUCROS CESSANTES A SEREM APURADOS EM FASE DE LIQUIDAÇÃO DE SENTENÇA POR PERITO. POSSIBILIDADE. AUSÊNCIA DE FIXAÇÃO DE PRAZO PARA CUMPRIMENTO DA LIMINAR. PRAZO PROCESSUAL GERAL NÃO OBEDECIDO. (ART.405 § 3º). ASTREINTES REDUZIDA A UM DIA DE DESCUMPRIMENTO. RELAÇÃO CONTRATUAL. JUROS INCIDENTES A PARTIR DA CITAÇÃO, EX VI ARTIGO 405 DO CÓDIGO CIVIL. RECURSO CONHECIDO E PROVIDO EM PARTE.
+1. Em suma, o cerne da controvérsia consiste em analisar se acertada a sentença que reconheceu como indevido o desligamento da autora do serviço Ticket Alimentação, ofertado pela apelante, condenou- a pagar lucros cessantes do período de 1º/02/2017 a 18/04/2017, a ser apurado em fase de liquidação de sentença e na fixou a multa pelo descumprimento da liminar em R$ 14.000,00 (quatorze mil reais). Insurgência recursal ainda contra o termo inicial de contagem de juros e condenação em honorários.
+2. Restou comprovado nos autos a ausência de justa causa para o descredenciamento contratual da autora pela apelante, na prestação dos serviços mediante pagamento com ticket alimentação. Os argumentos de que as vendas estariam sendo realizadas em desconformidade com o contrato ficaram na esfera das meras alegações, restando a controvérsia tão somente quanto ao dano material, consubstanciado em lucros cessantes e no descumprimento da liminar.
+3. Assim, pressupõe-se a efetiva constatação do dano patrimonial, diante do inadimplemento, bem como o nexo de causalidade existente entre o ato e o alegado prejuízo, a teor dos artigos 186, 187,402 e 927 do Código Civil:
+4. Portanto, correta a sentença ao determinar o restabelecimento dos serviços e reconhecer a existência de lucros cessantes, a serem apurados em fase de cumprimento de sentença, mediante perícia técnica especializada, nos moldes determinados pelo julgador primevo, até mesmo para evitar enriquecimento indevido da parte lesada pelo inadimplemento. Precedente do STJ: "1. A jurisprudência desta col. Corte entende que, reconhecido o an debeatur (o direito à indenização), o quantum debeatur (valor da indenização) pode ser discutido em liquidação da sentença."(..) - AgRg nos E Dcl no AR Esp: 217244 MT 2012/0169579-5.
+5. Quanto a liminar, vê-se que a promovida foi intimada em 11 de abril de 2017, conforme AR de fls.124 e seu cumprimento no dia 18 daquele mês e ano. Reconheço que a apelante deteria ter, no mínimo, 5 dias para seu cumprimento, como estabelece o § 3º do artigo 218 do CPC: § 3º Inexistindo preceito legal ou prazo determinado pelo juiz, será de 5 (cinco) dias o prazo para a prática de ato processual a cargo da parte.
+6. Com isso o Início do prazo se deu em 17/04/2017 e cumprimento no dia seguinte, sendo devido apenas um dia de descumprimento, ou seja, R$ 2.000,00 ( dois mil reais).
+7. Recurso conhecido e provido em parte. Sentença modificada em parte. (e-STJ, fls. 578-580)
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESIDÊNCIA. CABIMENTO. NÃO CONHECIMENTO. RECONSIDERAÇÃO. AGRAVO EM RECURSO ESPECIAL. RAZÕES DA INADMISSIBILIDADE. NÃO IMPUGNAÇÃO. ART. 932 DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade.
+2. Agravo não conhecido.
+VOTO
+O agravo é espécie recursal que não comporta conhecimento.
+A decisão de inadmissibilidade do especial ficou assim redigida, na parte que interessa:
+Do exame das razões da insurgência, resta claro que a pretensão recursal envolve o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que é inadmissível em sede de recurso especial, conforme a vedação das Súmulas nº 5, que estabelece que "a simples interpretação de cláusula contratual não enseja recurso especial", e nº 7, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial", ambas do STJ. (e-STJ, fls. 711-712)
+Verifica-se, da atenta leitura da petição do agravo em recurso especial, que TICKET não impugnou todos os fundamentos da decisão agravada, não havendo combate específico a respeito das razões acima elencadas que levaram à conclusão da incidência da Súmula n. 7 do STJ ao caso.
+A agravante, em que pese ter defendido a desnecessidade de interpretação de cláusulas contratuais, se limitou a afirmar que a questão apresentada no recurso especial se refere à matéria exclusivamente de direito, sem, entretanto, demonstrar sua inaplicabilidade no caso concreto.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não se conhecer do agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Na espécie, como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula n. 7 do STJ, deve o agravante não apenas mencionar que os referidos enunciados devem ser afastados, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que não foi feito.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, ônus do qual não se desincumbiu a parte insurgente. Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONSIGNATÓRIA C/C REVISIONAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. FUNDAMENTO DA ADMISSIBILIDADE NEGATIVA. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 932, INCISO III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial se a parte deixa de impugnar fundamento da decisão de admissibilidade negativa, que obstou o seguimento a parte do apelo por força do artigo 1.030, inciso I, alínea "b", do Código de Processo Civil.
+2. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do CPC e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.565.679/GO, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 7/12/2020, DJe 11/12/2020)
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
