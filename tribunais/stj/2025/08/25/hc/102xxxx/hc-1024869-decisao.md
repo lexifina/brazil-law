@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DOUGLAS JONATAN DA SILVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Na peça, a defesa informa que o paciente foi preso em flagrante em 09/09/2024 pela suposta prática do crime de tentativa de homicídio, conforme art. 121, §2º, inciso VII, c/c art. 14, inciso II, do Código Penal. A prisão em flagrante foi convertida em preventiva em audiência de custódia realizada em 10/09/2024.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 10-20.
+No presente writ, alega a defesa que o paciente está preso há 330 dias, sem que tenha havido conclusão da instrução processual, o que configuraria excesso de prazo na formação da culpa.
+Afirma-se que o processo não apresenta complexidade, tratando-se de um único acusado, e que a lentidão processual é atribuída exclusivamente à máquina estatal, não havendo contribuição do paciente para a delonga.
+Requer a revogação da prisão preventiva do paciente, com a expedição de alvará de soltura.
+Sem pedido de liminar.
+As informações foram prestadas às fls. 99-102 e 106-107. O Ministério Público Federal, às fls. 109-112, manifestou-se pelo não conhecimento do writ. Se conhe- cido, pela denegação da ordem.
+É o relatório. DECIDO.
+Quanto à alegação de excesso de prazo na formação da culpa, extrai-se das informações colhidas que o paciente foi preso em flagrante em 09/09/2024 pela suposta prática do crime de tentativa de homicídio, conforme art. 121, §2º, inciso VII, c/c art. 14, inciso II, do Código Penal. A prisão em flagrante foi convertida em preventiva em audiência de custódia realizada em 10/09/2024. O Ministério Público ofereceu denúncia contra o paciente imputando-lhe a prática dos crimes previstos no artigo 121, §2º, inciso VII, combinado com o artigo 14, inciso II, em relação a três vítimas, além dos artigos 329 e 330, todos do Código Penal. A denúncia foi recebida em 19/11/2024. O réu apresentou resposta à acusação. No dia 23/04/2025, foi enviado ofício para a PEFOCE a fim de realizar perícia veicular. Em despacho de 18/07/2025, o magistrado indeferiu a pedido de relaxamento da prisão.
+Ao meu ver, a ação penal tramita com regularidade sem qualquer elemento que evidencie a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Ademais, cumpre ressaltar, que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais.
+Sobre o tema:
+"Para a aferição do excesso de prazo, devem ser sopesados não só o tempo da prisão provisória, mas, também, as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal" (HC n. 604.980/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020)." (AgRg no HC n. 953.059/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+"Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional." (AgRg no RHC n. 176.377/SE, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 13/3/2023).
+Ante o exposto, denego o habeas corpus. Expeça-se, contudo, recomendação ao Juízo de origem para que imprima maior celeridade possivel no julgamento do presente processo.
+Publique-se. Intimem -se.
+EMENTA
