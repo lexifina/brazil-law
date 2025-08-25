@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto da Sra. Ministra Regina Helena Costa.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. METODOLOGIA DE CÁLCULO DE ENCARGOS MORATÓRIOS SOBRE CRÉDITOS DE AUTARQUIAS FEDERAIS. BASE DE CÁLCULO DA MULTA DE MORA. VALOR DO DÉBITO ORIGINÁRIO SEM ACRÉSCIMO DE ENCARGOS MORATÓRIOS. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - Nos termos do art. 37-A da Lei n. 10.522/2002, os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros e multa de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais.
+II - À vista das regras constantes dos arts. 61 da Lei n. 9.430/1996 e 3º do Decreto-Lei n. 1.736/1979, a base de cálculo da multa de mora é o valor do débito, assim compreendido o valor histórico sem acréscimo de quaisquer encargos, razão pela qual inviável atualizar o respectivo montante pela Taxa Selic previamente ao cálculo da penalidade moratória.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno conhecido em parte e improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR, contra a decisão monocrática de minha lavra que deu provimento ao Recurso Especial. Sustenta a Agravante, em síntese, que:
+(i) A decisão monocrática reformou o acórdão recorrido ao reconhecer o excesso de execução, determinando que a multa moratória seja calculada com base no valor histórico do débito, sem o acréscimo da Taxa Selic (fls. 569/570e);
+(ii) A jurisprudência do Superior Tribunal de Justiça (STJ) é no sentido de que a base de cálculo da multa de mora prevista no art. 61 da Lei 9.430/1996 deve ser o valor principal da dívida atualizado pela Taxa Selic, conforme precedentes citados (fls. 570/571e);
+(iii) A decisão agravada está em desacordo com a jurisprudência consolidada do STJ, que reconhece a legitimidade da utilização da Taxa Selic como índice de correção monetária e de juros de mora na atualização dos créditos tributários (fls. 571/572e);
+(iv) A aplicação da Súmula 83 do STJ impede o conhecimento do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida (fls. 573/574e); e
+(v) A jurisprudência do STJ já decidiu, inclusive em caso idêntico ao dos autos, que a base de cálculo da multa de mora é o valor principal da dívida atualizado pela Taxa Selic (fls. 574/575e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 580/585e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. METODOLOGIA DE CÁLCULO DE ENCARGOS MORATÓRIOS SOBRE CRÉDITOS DE AUTARQUIAS FEDERAIS. BASE DE CÁLCULO DA MULTA DE MORA. VALOR DO DÉBITO ORIGINÁRIO SEM ACRÉSCIMO DE ENCARGOS MORATÓRIOS. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - Nos termos do art. 37-A da Lei n. 10.522/2002, os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros e multa de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais.
+II - À vista das regras constantes dos arts. 61 da Lei n. 9.430/1996 e 3º do Decreto-Lei n. 1.736/1979, a base de cálculo da multa de mora é o valor do débito, assim compreendido o valor histórico sem acréscimo de quaisquer encargos, razão pela qual inviável atualizar o respectivo montante pela Taxa Selic previamente ao cálculo da penalidade moratória.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno conhecido em parte e improvido.
+VOTO
+Cinge-se a controvérsia à questão de que a multa de mora deve incidir apenas sobre o valor originário do crédito, sem a inclusão de juros de mora na base de cálculo.
+A parte recorrente limitou-se a impugnar a questão da base de cálculo da multa de mora.
+Nesses casos, de acordo com o que restou decidido nos EREsp n. 1.424.404/SP, a parcela da decisão não impugnada resta preclusa para futuras discussões.
+Assim, a não impugnação dos fundamentos da decisão agravada na análise da alegação de violação ao art. 1.022 do CPC acarreta a preclusão da matéria não impugnada, não incidindo a Súmula n. 182/STJ.
+No mais, esta 1ª Turma, na assentada de 6 de maio de 2025, apreciando matéria idêntica a destes autos, no julgamento do REsp n. 2126210/CE, de minha relatoria, firmou posicionamentos segundos os quais:
+i) Nos termos do art. 37-A da Lei n. 10.522/2002, os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros e multa de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais.
+ii) À vista das regras constantes dos arts. 61 da Lei n. 9.430/1996 e 3º do Decreto-Lei n. 1.736/1979, a base de cálculo da multa de mora é o valor do débito, assim compreendido o valor histórico sem acréscimo de quaisquer encargos, razão pela qual inviável atualizar o respectivo montante pela Taxa Selic previamente ao cálculo da penalidade moratória.
+O julgado está assim ementado:
+ADMINISTRATIVO. PROCESSO CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART.1022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO OCORRÊNCIA. METODOLOGIA DE CÁLCULO DE ENCARGOS MORATÓRIOS SOBRE CRÉDITOSDE AUTARQUIAS FEDERAIS. INCIDÊNCIA DOS PARÂMETROS APLICÁVEIS AOSTRIBUTOS FEDERAIS. ART. 37-A DA LEI N. 10.522/2002. BASE DE CÁLCULO DAMULTA DE MORA. VALOR DO DÉBITO ORIGINÁRIO SEM ACRÉSCIMO DEENCARGOS MORATÓRIOS. INTELIGÊNCIA DOS ARTS. 61 DA LEI N. 9.430/1996 E3º DO DECRETO-LEI N. 1.736/1976. INCIDÊNCIA DA ORIENTAÇÃO EM VIGOR NAADMINISTRAÇÃO TRIBUTÁRIA E NA ADVOCACIA-GERAL DA UNIÃO. RECURSOESPECIAL PROVIDO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição, obscuridade ou deficiência de fundamentação. Não ocorrência de violação do art. 1.022 do CPC/2015.
+II - Nos termos do art. 37-A da Lei n. 10.522/2002, os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros e multa de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais.
+III - À vista das regras constantes dos arts. 61 da Lei n. 9.430/1996 e 3º do Decreto-Lei n. 1.736/1979, a base de cálculo da multa de mora é o valor do débito, assim compreendido o valor histórico sem acréscimo de quaisquer encargos, razão pela qual inviável atualizar o respectivo montante pela Taxa Selic previamente ao cálculo da penalidade moratória.
+IV - Descabe às autarquias federais interpretar a legislação tributária de maneira distinta daquela efetuada pela Secretaria Especial da Receita Federal do Brasil e pela Procuradoria-Geral da Fazenda Nacional, especialmente quando houve prévia solução do dissenso em âmbito administrativo pela Advocacia-Geral da União.
+V - Recurso Especial provido.
+Escorreito, portanto, o provimento do recurso especial para, reformando o acórdão recorrido, reconhecer o excesso de execução, determinando, em consequência, que a multa moratória seja calculada com base no valor histórico do débito, sem o acréscimo correspondente à Taxa Selic.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, CONHEÇO EM PARTE do Agravo Interno e NEGO-LHE PROVIMENTO.
