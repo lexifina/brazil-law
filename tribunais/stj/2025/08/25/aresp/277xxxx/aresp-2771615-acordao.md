@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ARRENDAMENTO RURAL. PLANTAÇÃO DE PINUS E EUCALIPTO. ALEGAÇÃO DE NULIDADE DO CONTRATO. ACÓRDÃO QUE ATESTA A VALIDADE CONTRATUAL. REVISÃO. SÚMULA 7/STJ. TRIBUNAL A QUO AFASTA O PEDIDO DE INDENIZAÇÃO POR BENFEITORIAS. REVISÃO. SÚMULA 7/STJ.
+1. Cinge-se a controvérsia à validade de contrato de arrendamento rural.
+2. O recurso especial não pode ser conhecido, pois sua análise esbarra no óbice da Súmula 7 do STJ. Para se concluir pela abusividade da cláusula contratual que fixou o prazo de quatro anos para o arrendamento rural, seria necessário reavaliar as provas produzidas no processo, especialmente quanto à adequação desse prazo ao ciclo de cultivo do pinus e do eucalipto, o que é vedado na instância extraordinária.
+3. O reconhecimento do suposto direito à indenização por benfeitorias realizadas exige a reapreciação de elementos fáticos sobre a natureza das benfeitorias, sua autorização, utilidade e eventual incorporação ao imóvel, o que igualmente atrai a incidência da Súmula 7/STJ.
+Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por MURILO CHAGAS CISOTTO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 307):
+Arrendamento rural Despejo - Procedência da ação - Improcedência da reconvenção - Inconformismo do réu - Alegação de nulidade do contrato por incompatibilidade da vigência com o ciclo de cultivo para o qual houve o arrendamento; que área arrendada faz parte de uma área maior condominial sem especificação de ser o autor titular do terreno arrendado; e que deve haver indenização pelas mudas de árvores plantadas e pela terraplanagem realizada no terreno - Despejo decretado pela falta de pagamento de aluguéis e que seria mantido mesmo se a cláusula de nulidade de prazo de vigência contratual fosse nula, o que efetivamente não é, pois a atividade rural no imóvel arrendado que se iniciou muito antes da formalização do arrendamento, pelo menos sete anos antes, sob a forma de comodato a favor do pai do arrendatário, com quem trabalha junto - Condomínio em que situada a área arrendada que se mostra "pro diviso" com identificação da área cabente ao arrendador/autor - Questionamento, ademais, que não foi feito quando da celebração do negócio - Indenização incabível - Investimentos feitos pelo arrendatário que foram destinados à própria atividade que exercia - Desocupação do imóvel que não causará enriquecimento ao autor da ação - Sentença mantida - Apelo improvido.
+Sem embargos de declaração.
+No recurso especial, o recorrente alega violação do art. 95 da Lei n. 4.504/64, sob o argumento de que o contrato de arrendamento rural é nulo devido à cláusula abusiva que estabelece um prazo de vigência de quatro anos, o qual é insuficiente para o cultivo e exploração de pinus e eucalipto, que requerem um período de cerca de oito anos para início da extração.
+Aduz que o Estatuto da Terra, em seu art. 95, inciso I, determina que os prazos de arrendamento devem terminar após a colheita, o que não foi respeitado no contrato em questão.
+Sustenta que, ao término do contrato, deveria ter direito à indenização pelas benfeitorias realizadas, conforme previsto no art. 95, VIII, da Lei n. 4.504/64.
+Oferecidas contrarrazões ao recurso especial (fls. 342-347), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 374-375), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 391-394).
+É, no essencial, o relatório.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ARRENDAMENTO RURAL. PLANTAÇÃO DE PINUS E EUCALIPTO. ALEGAÇÃO DE NULIDADE DO CONTRATO. ACÓRDÃO QUE ATESTA A VALIDADE CONTRATUAL. REVISÃO. SÚMULA 7/STJ. TRIBUNAL A QUO AFASTA O PEDIDO DE INDENIZAÇÃO POR BENFEITORIAS. REVISÃO. SÚMULA 7/STJ.
+1. Cinge-se a controvérsia à validade de contrato de arrendamento rural.
+2. O recurso especial não pode ser conhecido, pois sua análise esbarra no óbice da Súmula 7 do STJ. Para se concluir pela abusividade da cláusula contratual que fixou o prazo de quatro anos para o arrendamento rural, seria necessário reavaliar as provas produzidas no processo, especialmente quanto à adequação desse prazo ao ciclo de cultivo do pinus e do eucalipto, o que é vedado na instância extraordinária.
+3. O reconhecimento do suposto direito à indenização por benfeitorias realizadas exige a reapreciação de elementos fáticos sobre a natureza das benfeitorias, sua autorização, utilidade e eventual incorporação ao imóvel, o que igualmente atrai a incidência da Súmula 7/STJ.
+Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia à validade de contrato de arrendamento rural. O acórdão assim se manifestou sobre o prazo contratual de quatro anos e o direito à indenização por benfeitorias realizadas no imóvel arrentado (fls. 309-313):
+Ora, a discussão da nulidade do contrato ficou restrita ao tempo do arrendamento. Se esse dispositivo contratual fosse considerado nulo, o contrato em si não seria e caberia ao arrendatário comprovar o pagamento dos aluguéis reclamados na petição inicial, o que efetivamente não comprovou.
+Logo, a ordem de despejo foi correta.
+E a sagacidade da digna prolatora da sentença para fundamentar a validade do prazo da vigência do contrato demonstra que o cultivo da terra arrendada teve início muito antes do início da vigência do contrato em questão, que, ao que parece, foi entabulado entre o arrendante/autor e o arrendatário/réu para formalizar uma relação de fato que o primeiro mantinha com seu irmão, pai do arrendatário/apelante para cultivo de pinus e eucalipto.
+Confira-se o seguinte trecho da motivação judicial para assim decidir a respeito desse ponto, a p. 246/248:
+A abusividade da cláusula de vigência contratual deve ser aferida a partir da viabilidade da atividade econômica. De fato, seria abusiva e nula cláusula que estabelecesse vigência por período inferior ao necessário para o percebimento dos frutos pelo arrendatário. Sobretudo porque a hipótese consubstanciaria enriquecimento ilícito do arrendador.
+Nesse sentido há previsão legal de que "os prazos de arrendamento terminarão sempre depois de ultimada a colheita, inclusive a de plantas forrageiras temporárias cultiváveis" (art. 95, inciso I, da Lei nº 4.504/1964, que dispõe sobre o Estatuto da Terra).
+Ocorre que, encerrada a instrução, não houve demonstração de que a vigência pelo período de quatro anos representou manifesta desvantagem ao réu arrendatário. Principalmente porque as provas colhidas demonstram que o requerido fazia uso da terra ainda antes da celebração do contrato de arrendamento, a título gratuito e com o consentimento do autor.
+ ..
+O cultivo de pinus e eucalipto vinha sendo feito pelo arrendatário e seu pai, que trabalham juntos, desse o ano de 2011, quando, ao que parece, o arrendador deu em comodato por prazo indeterminado a área que mais tarde veio a ser arrendada a seu irmão e sobrinho. Contudo, a partir do ano de 2018, por "efas ou nefas", as partes resolveram modificar a relação para arrendamento rural do terreno. E o prazo de quatro anos ajustado evidentemente levou em consideração o período anterior de sete anos que o arrendatário e seu pai já trabalhavam na terra anteriormente.
+É de se notar que o apelante, que se presume ainda estar na posse das terras arrendadas porque este recurso tem efeito suspensivo e impediu o cumprimento da ordem de despejo continua na terra e o recorrente não informou a desocupação, já está há pelo menos dois ciclos de extração de madeira, pois já se passou mais de 12 anos desde a data em que ele e seu pai receberam a posse da terra ora arrendada.
+ ..
+De fato, não se pode conhecer do presente recurso especial, pois sua análise esbarra no óbice da Súmula 7 do STJ, que veda o reexame do conjunto fático-probatório dos autos em sede especial. Para se concluir pela abusividade da cláusula contratual que fixou o prazo de quatro anos para o arrendamento rural, seria necessário reavaliar as provas produzidas no processo, especialmente quanto à adequação desse prazo ao ciclo de cultivo do pinus e do eucalipto, o que é vedado na instância extraordinária.
+Quanto à indenização, o acórdão consignou (fls. 314-315):
+Por fim, o pedido reconvencional de indenização pelas mudas de pinus e eucalipto plantadas pelo arrendatário e pela terraplanagem feita no terreno não prospera.
+A terraplanagem feita para abertura de estradas no terreno se mostra como atitude preparatória do cultivo que foi realizado. Portanto, custo da produção do arrendatário necessário para o desenvolvimento da atividade.
+Da mesma forma as mudas das árvores não serão indenizadas. As mudas foram adquiridas para o propósito do arrendamento. Não devem ser indenizadas pelo arrendante. A colheita de madeira e goma de seiva até a data da efetiva do despejo pertence ao arrendatário, a partir daí deverá entregar a terra "totalmente limpa, livre de bens, coisas e plantações", conforme cláusula 5ª do contrato (p. 27), o que significa que não haverá nenhum tipo de enriquecimento do arrendador, pois não dará continuidade à exploração agrícola que vinha sendo praticada na área.
+Enfim, a sentença deu ao caso solução razoável, justa e jurídica e deve, por isso, ser mantida.
+Da mesma forma, o reconhecimento do suposto direito à indenização por benfeitorias realizadas exige a reapreciação de elementos fáticos sobre a natureza das benfeitorias, sua autorização, utilidade e eventual incorporação ao imóvel, o que igualmente atrai a incidência da Súmula 7/STJ.
+Assim, diante da imprescindibilidade de revolvimento da matéria probatória para acolhimento da pretensão recursal, impõe-se o não conhecimento do recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+É como penso. É como voto.
