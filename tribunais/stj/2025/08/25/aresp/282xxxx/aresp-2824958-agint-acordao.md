@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CARTA DE ARREMATAÇÃO NÃO EXPEDIDA. IMPUGNAÇÃO DA ARREMATAÇÃO. PETICIONAMENTO NOS PRÓPRIOS AUTOS. POSSIBILIDADE. DESCONSTITUIÇÃO DA ARREMATAÇÃO. AÇÃO AUTÔNOMA. DESNECESSIDADE.
+1. A Corte Especial do Superior Tribunal de Justiça entende que a arrematação pode ser impugnada nos próprios autos da execução por petição do interessado ou invalidada de ofício em caso de nulidade, sendo que, apenas após a expedição da respectiva carta, sua desconstituição deve ser buscada pela via própria, ou seja, por meio de ação anulatória.
+2. O recurso especial é inviável quando o acórdão recorrido decide a controvérsia à luz da jurisprudência do STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMERCIAL DE VEÍCULOS ARARANGUAENSE LTDA. contra a decisão de e-STJ fls. 175/177 que conheceu do agravo para não conhecer do recurso especial em virtude da Súmula nº 211/STJ.
+Nas razões do presente agravo (e-STJ fls. 183/187), a agravante demonstra que a matéria objeto dos artigos de lei federal apontados no recurso especial como violados encontra-se devidamente prequestionada no caso concreto.
+Por fim, requer a reforma da decisão atacada.
+Sem impugnação (e-STJ fl. 195).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CARTA DE ARREMATAÇÃO NÃO EXPEDIDA. IMPUGNAÇÃO DA ARREMATAÇÃO. PETICIONAMENTO NOS PRÓPRIOS AUTOS. POSSIBILIDADE. DESCONSTITUIÇÃO DA ARREMATAÇÃO. AÇÃO AUTÔNOMA. DESNECESSIDADE.
+1. A Corte Especial do Superior Tribunal de Justiça entende que a arrematação pode ser impugnada nos próprios autos da execução por petição do interessado ou invalidada de ofício em caso de nulidade, sendo que, apenas após a expedição da respectiva carta, sua desconstituição deve ser buscada pela via própria, ou seja, por meio de ação anulatória.
+2. O recurso especial é inviável quando o acórdão recorrido decide a controvérsia à luz da jurisprudência do STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+A irresignação não merece acolhida.
+Com efeito, ao julgar a controvérsia, a Corte de origem dispôs o seguinte:
+"(..)
+A arrematação em discussão foi realizada em 24/11/2014 (296), ou seja, quando ainda vigiam as disposições do CPC/1973, e não foi ainda expedida a carta de arrematação.
+Nesse contexto, diversamente do que sustenta a recorrente, era prescindível o ajuizamento de ação autônoma para invalidar a arrematação, tendo em vista que a jurisprudência do STJ "consagra orientação de que a arrematação pode ser impugnada nos próprios autos da execução, mediante petição do interessado, ou invalidada, de ofício, caso haja nulidade. Todavia, após expedida a carta de arrematação com respectivo registro do título translativo no Registro de Imóveis, nos termos do art. 1.245 do CC/2002, a sua desconstituição somente pode ser pleiteada na via própria, ou seja, por meio de ação anulatória (CPC/1973, arts. 486 e 694; CPC/2015, art. 903, § 4º)" (STJ. RMS n. 57.566/SC, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 11/9/2018, DJe de 17/9/2018.)
+(..)
+Dessa forma, agiu com acerto o juízo a quo ao conhecer da impugnação apresentada pela Fazenda Nacional por mero peticionamento nos autos, tendo em vista que, a despeito de o auto de arrematação ter sido assinado pelo juiz, pelo arrematante e pelo leiloeiro - tornando-se, portanto, perfeita, acabada e irretratável, nos termos do art. 694, caput , do CPC/1973 - pode ela ser tornada sem efeito se constatada qualquer das circunstâncias previstas no art. 694, § 1º, do CPC/1973, inexistindo óbice para aventar a ocorrência de tais circunstâncias por meio de mero peticionamento nos autos pela parte interessada, afinal, até mesmo de ofício podem elas ser conhecidas pelo juízo" (e-STJ fls. 74/75).
+O aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, que entende que a arrematação pode ser impugnada nos próprios autos da execução por petição do interessado ou invalidada de ofício em caso de nulidade, sendo que, apenas após a expedição da respectiva carta, sua desconstituição deve ser buscada pela via própria, ou seja, por meio de ação anulatória.
+A propósito:
+"AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. ARREMATAÇÃO DE IMÓVEIS. IMPUGNAÇÃO. VÍCIOS INSANÁVEIS. CARTA DE ARREMATAÇÃO NÃO EXPEDIDA. DESNECESSIDADE DE DESCONSTITUIÇÃO DA ARREMATAÇÃO POR MEIO DE AÇÃO ANULATÓRIA. AUSÊNCIA DE VIOLA ÇÃO À COISA JULGADA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. "É firme a jurisprudência desta Corte no sentido de que a arrematação pode ser impugnada nos próprios autos da execução, mediante petição do interessado, ou invalidada, de ofício, caso haja nulidade, sendo certo que, após expedida a respectiva carta, a sua desconstituição deve ser pleiteada na via própria, isto é, por meio de ação anulatória" (EREsp n. 1.655.729/PR, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21.2.2018, DJe de 28.2.2018).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento" (AgInt no REsp 2.037.262/SE, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. ALEGAÇÃO APÓS LAVRATURA E ASSINATURA DE ARREMATAÇÃO. PRECLUSÃO.
+1. A arguição de impenhorabilidade do bem de família é matéria de ordem pública e, por isso, pode ser suscitada a qualquer tempo, desde que antes da alienação judicial do imóvel e exaurimento da execução, mediante a lavratura e assinatura do auto respectivo.
+2. "A arrematação perfeita, acabada e irretratável decorre da assinatura do respectivo auto pelo juiz, pelo arrematante e pelo leiloeiro, nos moldes do disposto no art. 903, caput, do CPC/2015, e caracteriza título de propriedade em favor do arrematante, independentemente da expedição da carta de arrematação, que apenas marca o término da expropriação forçada para que a transferência do domínio do imóvel se perfectibilize com o registro da alienação no Registro de Imóveis  ..  A ausência do registro imobiliário destinado à transferência da propriedade só irradia efeitos em face de terceiros" (CC n. 194.154/PE, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 13/9/2023, DJe de 22/9/2023).
+Agravo interno improvido" (AgInt no AREsp 2.652.540/GO, Relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025).
+Como se vê, consta dos autos que a arrematação foi realizada em 24/11/2014, sob a égide do CPC de 1973, e que até o momento da impugnação não havia sido expedida a respectiva carta de arrematação.
+Com efeito, tanto o CPC de 1973 quanto o CPC de 2015 reconhecem a possibilidade de impugnação da arrematação nos próprios autos, antes da expedição da carta, o que a jurisprudência do STJ confirma de forma reiterada.
+Nessas condições, segundo entendimento pacífico desta Corte, é plenamente admissível a formulação de impugnação por simples petição nos autos, não sendo exigido o ajuizamento de ação autônoma para tanto.
+A Corte de origem aplicou corretamente o entendimento firmado nos EREsp 1.655.729/PR, da Corte Especial, no sentido de que a arrematação pode ser impugnada por petição do interessado ou ser invalidada de ofício antes da expedição da carta de arrematação, hipótese em que a desconstituição deve ser buscada pela via própria, mediante ação anulatória.
+Ademais, respeitou a distinção estabelecida pela Segunda Seção desta Corte no CC 194.154/PE, segundo a qual a assinatura do auto de arrematação confere ao ato força de título de propriedade em favor do arrematante, mas a transferência do domínio somente se aperfeiçoa com o registro no cartório imobiliário, momento que delimita os efeitos do ato perante terceiros.
+Dessa forma, ao reconhecer a possibilidade de invalidação da arrematação por meio de petição apresentada pela Fazenda Nacional nos próprios autos da execução, em momento anterior à expedição da carta de arrematação, o acórdão recorrido agiu em estrita conformidade com a jurisprudência do Superior Tribunal de Justiça, inexistindo afronta à legislação federal ou divergência jurisprudencial que justifique a admissão do recurso especial.
+Logo, não merece reparos o acórdão recorrido.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial.
+É o voto.
