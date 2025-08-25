@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. OMISSÃO. RECURSO PROVIDO. RETORNO ORIGEM. JULGAMENTO. EMBARGOS DE DECLARAÇÃO.
+1. O não enfrentamento, pela Corte de origem, de questões ventiladas nos aclaratórios e imprescindíveis à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, tanto mais que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, não obstante a oposição de embargos, trate de tema não analisado pelas instâncias ordinárias, porquanto ausente o requisito do prequestionamento.
+2. Agravo conhecido para dar provimento ao recuso especial.
+RELATÓRIO
+Trata-se de agravo interposto por ESPÓLIO DE THEODORO DUARTE DO VALLE contra a decisão que não admitiu o recurso especial.
+O apelo nobre, fundamentado no art. 105, III, alíneas "a" e "c", do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"CUMPRIMENTO PROVISÓRIO DE SENTENÇA Prestação de contas Insurgência do exequente quanto à decisão na parte em que indeferiu o pedido de penhora de semoventes de propriedade do executado Descabimento. Hipótese em que tal constrição, além de ter como objeto bens de difícil remoção, acabaria por comprometer substancialmente as atividades do recorrido, cuja base principal de negócios é a agropecuária, sendo-lhe excessivamente gravosa. Situação que tampouco seria benéfica ao próprio exequente, que poderia ter o pagamento do débito, em tese, inviabilizado. Penhora de 50% de créditos do executado perante um frigorífico que realiza o abate de semoventes, bem como perante uma usina de cana-de- açúcar Insurgência do executado Descabimento - Meios menos onerosos e mais eficazes à satisfação do crédito Recusa de bem imóvel oferecido à penhora bem justificada pelo exequente. Executado que não comprovou que o percentual de penhora inviabilizaria a continuidade de sua atividade econômica ou prejudicaria os demais condôminos. Pesquisa de bens via Renajud ainda não realizada - Observada a ordem preferencial de penhora do art. 835, do Código de Processo Civil - Decisão mantida Agravos desprovidos" (e-STJ fl. 51).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 94-97).
+Nas razões do especial (e-STJ fls. 63-77), além do dissídio interpretativo, o recorrente aponta negativa de vigência dos seguintes dispositivos e suas respectivas teses:
+(i) arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil - nulidade do acórdão por ausência de fundamentação, contradição e omissão apontadas nos embargos de declaração, especialmente no que diz respeito à viabilidade da atividade pecuária do devedor, tendo em vista que a penhora atingiria aproximadamente 1.500 cabeças de gado do rebanho de mais de 18,5 mil bovinos, além da liquidez dos semoventes, de fácil avaliação, haja vista tratar-se de uma espécie de commodities, o equivalente a dinheiro, considerando, ainda, que o rebanho faz parte de condomínio familiar e está apascentado na fazenda pertencente ao credor, não havendo falar em difícil remoção;
+(ii) arts. 797, 805, 829, § 2º, e 835 do CPC - a execução deve ser feita em benefício do credor, tanto mais quando, no caso, o devedor está a fazer manobras fraudulentas para burlar o bloqueio da venda do seu rebanho.
+No ponto, afirma que a existência de semovente no patrimônio do executado é, de longe, a maneira mais fácil de encerrar a demanda, afinal, a penhora sobre dinheiro não obt eve êxito, além de não inviabilizar a atividade profissional do recorrido, visto que implicaria em parte ínfima de seu milionário rebanho.
+Afirma, ainda, que ao "executado que alegar ser a medida executiva mais gravosa incumbe indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados" (e-STJ fl. 91).
+Defende que é lícita a sua recusa de penhora de bem que dificulte a satisfação do seu crédito.
+Oferecidas as contrarrazões (e-STJ fls. 101-116), o recurso não foi admitido na origem, dando ensejo ao presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. OMISSÃO. RECURSO PROVIDO. RETORNO ORIGEM. JULGAMENTO. EMBARGOS DE DECLARAÇÃO.
+1. O não enfrentamento, pela Corte de origem, de questões ventiladas nos aclaratórios e imprescindíveis à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, tanto mais que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, não obstante a oposição de embargos, trate de tema não analisado pelas instâncias ordinárias, porquanto ausente o requisito do prequestionamento.
+2. Agravo conhecido para dar provimento ao recuso especial.
+VOTO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do especial.
+A irresignação merece acolhida.
+Constata-se que a alegação de negativa de prestação jurisdicional merece prosperar, visto que a Corte local permaneceu silente quanto a pontos suscitados, não obstante o recorrente tenha expressamente requerido nas razões dos embargos de declaração.
+Na hipótese, verifica-se que, a par de o Tribunal de origem haver afirmado que a penhora dos semoventes seria de difícil remoção e de que inviabilizaria a atividade econômica do executado, não sanou a omissão alusiva à ausência de fundamentação e à contradição apontadas nos embargos de declaração, especialmente, no que diz respeito ao fato de o rebanho estar apascentado na fazenda do credor, portanto, que não seria de difícil remoção e que o percentual a ser penhorado não inviabilizaria a atividade do executado, ante o seu volumoso rebanho de bovinos, além da liquidez dos semoventes.
+É reiterado o entendimento desta Corte Superior de que viola o art. 1.022 do Código de Processo Civil, por deficiência na prestação jurisdicional, o acórdão que deixa de emitir pronunciamento acerca de matéria devolvida ao Tribunal, apesar da oposição de embargos declaratórios.
+Com efeito, consoante o princípio da devolutividade dos recursos, incumbe ao Tribunal local manifestar-se acerca das matérias necessárias ao deslinde da controvérsia e que tenham sido submetidas à sua apreciação.
+O não enfrentamento, pela Corte de origem, de questões ventiladas nos aclaratórios e imprescindíveis à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, tanto mais que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, não obstante a oposição de embargos, trate de tema não analisado pelas instâncias ordinárias, porquanto ausente o requisito do prequestionamento.
+Nesse sentido:
+"RECURSO ESPECIAL. AÇÃO REVISIONAL DE COMPLEMENTAÇÃO DE APOSENTADORIA. CUMPRIMENTO DE SENTENÇA. ERRO DE CÁLCULO NA ATUALIZAÇÃO DOS VALORES EXECUTADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015 CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO.
+1. Ação de cobrança ajuizada em 2009, atualmente na fase de cumprimento de sentença, da qual foi extraído o presente recurso especial, interposto em 30/09/2022 e concluso ao gabinete em 25/07/2023.
+2. O propósito recursal é decidir sobre a negativa de prestação jurisdicional, a existência de coisa julgada ou preclusão quanto ao suposto erro de cálculo no cumprimento de sentença e a aplicação da multa por litigância de má-fé e por embargos de declaração manifestamente protelatórios.
+3. A jurisprudência desta Corte é no sentido de que a homologação dos cálculos não os torna imunes de impugnação quando verificado erro material, porquanto o erro material não transita em julgado, podendo ser corrigido a qualquer tempo pelo juiz ou Tribunal de onde se originou a decisão.
+4. A existência de omissão relevante à solução da controvérsia, não sanada pelo Tribunal de origem, caracteriza violação do art. 1.022 do CPC/2015.
+5. Recurso especial conhecido e provido."
+(REsp 2.120.731/SE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17/5/2024 - grifou-se.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. RECURSO PROVIDO COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. O recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional.
+3. Em nova análise, observa-se que no julgamento dos embargos de declaração, o acórdão recorrido, não obstante a oposição de dois embargos declaratórios, ficou omisso quanto aos argumentos de reformatio in pejus e violação à coisa julgada. As questões suscitadas guardam correlação lógico-jurídica com a pretensão deduzida nos autos e se apresentam imprescindível à satisfação da tutela jurisdicional.
+4. Agravo interno provido."
+(AgInt no REsp 2.012.744/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/10/2023 - grifou-se.)
+"PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. AÇÃO DE COBRANÇA. CÁLCULO DA DÍVIDA. DIREITO A REAJUSTE. VÍCIO DE FUNDAMENTAÇÃO EXISTENTE. RETORNO DOS AUTOS PARA A CORTE DE ORIGEM. RECURSO PROVIDO.
+1. Há ofensa ao art. 535 do CPC/1973, correspondente ao 1.022 do CPC/2015, quando a Corte de origem, apesar de regularmente provocada por meio dos embargos de declaração, deixa de corrigir contradição, obscuridade ou omissão sobre questão relevante para a solução da controvérsia.
+2. No caso, não foi devidamente esclarecida a questão referente ao valor unitário utilizado para cálculo da dívida, persistindo a existência de vício de fundamentação quanto aos parâmetros a serem empregados para a obtenção do valor total devido pela administração pública.
+3. Reconhecida a existência de vício de fundamentação, deve ser anulado o acórdão proferido nos embargos de declaração e determinado o retorno dos autos para a instância de origem apontar, com precisão e de modo fundamentado, qual o valor unitário a ser considerado para o cálculo da dívida, se efetivamente há o direito da parte contratante ao reajuste pleiteado, bem como qual o respectivo índice a ser aplicado no caso.
+4. Recurso especial a que se dá provimento."
+(REsp 1.949.126/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 23/8/2022 - grifou-se.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de determinar a devolução dos autos ao Tribunal de origem para que aprecie a matéria arguida nos embargos de declaração, como entender de direito.
+Prejudicada a análise das demais teses do recurso.
+É o voto.
