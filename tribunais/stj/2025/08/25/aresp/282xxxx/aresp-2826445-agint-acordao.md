@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO ESTATUTO PROCESSUAL CIVIL. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO REFERIDO CODEX. DESCABIMENTO.
+I - Razões de agravo interno que apresentam combate genérico aos fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+II - Honorários recursais. Não cabimento.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero não conhecimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo interno não conhecido.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravo Interno interposto por NILDA GARCIA MAINARDES, ROZILDA COMIN e RENATO VIOLANI CARNEIRO contra decisão monocrática, proferida pelo Sr. Ministro Herman Benjamin, Presidente desta Corte, mediante a qual o Agravo, bem como o Recurso Especial não foram conhecidos, nos termos do art. 21-E, V, do RISTJ, em razão da incidência da Súmula n. 115 desta Corte (fls. 781/782e).
+Sustentam os Agravantes, em síntese, que:
+ ..
+A decisão transparece um formalismo exacerbado, colocando o mérito a serviço da forma. A advogada Dra. Dalma Piske Teixeira juntou o competente substabelecimento e os atos foram ratificados expressamente pelo advogado substabelecente, ou seja, com efeitos retroativos. A lei exige apenas a juntada do substabelecimento para validar o ato processual. E esse requisito foi cumprido pela parte.
+Demais disso, não houve intimação específica para manifestação sobre juntada de comprovante de pagamento de custas processuais, nem mesmo determinação de seu recolhimento à parte recorrente.
+ ..
+Por fim, requerem o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado (fls. 788/789e).
+Impugnação da PARANAPREVIDÊNCIA às fls. 795/798e, na qual se requer a majoração dos honorários recursais, bem como a aplicação da multa prevista no § 4º do art. 1.021 do Estatuto Processual Civil.
+Transcorreu, in albis, o prazo para o ESTADO DO PARANÁ apresentar impugnação (certidão de fl. 799e).
+Não exercido o juízo de retratação (fl. 801e), os autos foram a mim redistribuídos (fl. 809e).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO ESTATUTO PROCESSUAL CIVIL. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO REFERIDO CODEX. DESCABIMENTO.
+I - Razões de agravo interno que apresentam combate genérico aos fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+II - Honorários recursais. Não cabimento.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero não conhecimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo interno não conhecido.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Não assiste razão aos Agravantes.
+O Sr. Ministro Sr. Ministro Herman Benjamin, Presidente desta Corte, nos termos do art. 21-E, V, do RISTJ, o Agravo, bem como o Recurso Especial não foram conhecidos, pela incidência, incidência da Súmula n. 115 desta Corte (fls. 781/782e).
+Da leitura do agravo interno (fls. 788/789e), constata-se qu e houve combate genérico ao fundamento da decisão agravada, tendo em vista que apenas alegada a inaplicabilidade do mencionado óbice, sem, contudo, demonstrar a ausência de preclusão temporal para a prática do ato, incidindo, portanto, a Súmula n. 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, o entendimento jurisprudencial consagrado na Súmula n. 182/STJ, segundo o qual compete à Agravante, sob pena de não conhecimento do agravo, impugnar especificamente os fundamentos da decisão hostilizada, consoante julgados, cujas ementas transcrevo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇO. FORNECIMENTO DE ENERGIA ELÉTRICA. COBRANÇA INDEVIDA. INOCORRÊNCIA DE SUCUMBÊNCIA RECÍPROCA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESSA CORTE. SÚMULA 83/STJ. DOCUMENTAÇÃO NOS AUTOS. REVISÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. A ORA AGRAVANTE DEIXOU DE IMPUGNAR O ÓBICE DA SÚMULA 83/STJ. APLICAÇÃO DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. Com relação aos honorários advocatícios, o Tribunal de origem concluiu que a parte ora agravada decaiu de parte mínima do pedido.
+3. O acolhimento das alegações deduzidas no Apelo Nobre demandaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7/STJ.
+4. O Acórdão recorrido está em conformidade com a jurisprudência dessa Corte, incidência da Súmula 83/STJ.
+5. A agravante deixou de impugnar o óbice da Súmula 83/STJ.
+Aplicação da Súmula 182/STJ.
+6. Agravo Regimental não conhecido.
+(AgRg no AREsp 731.396/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/03/2016, DJe 28/03/2016)
+TRIBUTÁRIO E PROCESSUAL CIVIL. ÓBICE DA SÚMULA 182 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. RECURSO REPETITIVO. SOBRESTAMENTO DO FEITO.
+1. Não se conformando com a decisão, a recorrente interpôs Agravo repetindo os argumentos expostos no Recurso Especial; contudo, não impugnou de maneira eficiente todas as razões do decisum - em especial a aplicação da Súmula 182 do STJ.
+2. É inviável o Agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182/STJ.
+3. É pacífico o entendimento no STJ de que, escolhido o Recurso Especial para ser julgado no rito dos repetitivos (art. 543-C do CPC), não haverá sobrestamento dos recursos que tramitam no STJ. AgRg nos EDcl nos EREsp 1352046/RS, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 3/2/2014.
+4. Agravo Regimental não conhecido.
+(AgRg nos EDcl no AREsp 734.905/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/12/2015, DJe 05/02/2016).
+Ademais, a necessidade de impugnação aos fundamentos da decisão agravada está expressamente disposta no art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+De outra parte, no que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Impende destacar que a Corte Especial deste Tribunal Superior, na sessão de 9.11.2023, concluiu o julgamento do Tema n. 1.059/STJ (Recursos Especiais ns. 1.864.633/RS, 1.865.223/SC e 1.865.553/PR, acórdãos pendentes de publicação), fixando a tese segundo a qual a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Nessa linha a compreensão da Corte Especial deste Tribunal Superior (v.g.: AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ acórdão Min. Herman Benjamin, DJe 07.03.2019).
+Assim, em sede de agravo interno, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil.
+Por fim, no que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro Jorge Mussi, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra Assusete Magalhães, j. 14.09.2016.
+No caso, não obstante o não conhecimento do Agravo Interno, não configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Ante o exposto, NÃO CONHEÇO do presente agravo interno.
