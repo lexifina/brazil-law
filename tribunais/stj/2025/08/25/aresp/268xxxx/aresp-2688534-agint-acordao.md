@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. DIREITO DE REGRESSO EXERCIDO PELA SEGURADORA. CERCEAMENTO DE DEFESA. ÔNUS DA PROVA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS DO ACÓRDÃO. SÚMULA 283 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não configura violação ao art. 1.022 do Código de Processo Civil a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. A subsistência de fundamento não impugnado, apto a manter a conclusão do acórdão recorrido, impõe o reconhecimento da incidência, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de fls. 542/547, de minha relatoria, na qual neguei provimento ao agravo em recurso especial, por ausência de omissão ou negativa de prestação jurisdicional pelo Tribunal de origem, além da incidência das Súmulas 283 do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça.
+Em suas razões (fls. 551/559), a agravante sustenta que suscitou expressamente a necessidade de manifestação sobre a violação a dispositivos infraconstitucionais, sem que houvesse enfrentamento efetivo da questão pelo Tribunal de origem.
+Assevera que impugnou todos os fundamentos aptos a manter a decisão atacada.
+Aduz que não é o caso de aplicação da Súmula 7/STJ, pois não é necessária a reanálise dos fatos e provas da demanda para que se examine a violação aos dispositivos apontados.
+Impugnação às fls. 560/564.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. DIREITO DE REGRESSO EXERCIDO PELA SEGURADORA. CERCEAMENTO DE DEFESA. ÔNUS DA PROVA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS DO ACÓRDÃO. SÚMULA 283 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não configura violação ao art. 1.022 do Código de Processo Civil a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. A subsistência de fundamento não impugnado, apto a manter a conclusão do acórdão recorrido, impõe o reconhecimento da incidência, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Como constou na decisão agravada, as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil.
+Vale reiterar que, no caso dos autos, a Corte local consignou no acórdão recorrido que (fls. 392-398):
+Como é de comezinho conhecimento, com o pagamento da indenização contratada ao seu segurado, a seguradora autora sub-rogou-se, nos limites do respectivo valor, em todos os direitos, ações, privilégios e garantias do primitivo credor, em relação à dívida, contra o devedor principal, o autor do dano, aplicando-se, assim, as regras previstas nos artigos 349 e 786 do Código Civil, in verbis, respectivamente:
+(..) Tal circunstância enseja a aplicação, ao caso concreto, da teoria da responsabilidade civil subjetiva, pela qual se exige, para que haja a obrigação de indenizar, a comprovação do dano, da conduta imputada ao agente supostamente causador, do nexo de causalidade que os uma, da culpa lato sensu daquele agente, além, é claro, da ausência de qualquer excludente de responsabilidade.
+O ônus da prova é da parte demandante, por ser fato constitutivo de seu direito, à luz do que prescreve o artigo 373, I, do CPC, sendo certo que a seguradora autora se desincumbiu desse ônus, pois produziu suficiente prova documental, conforme se constata dos documentos nas fls. 19/45- 000019/000040.
+De fato, in casu, restaram devidamente comprovados o dano (dano material sofrido pela seguradora autora), a conduta culposa do agente (colisão na traseira do veículo do segurado da parte autora, causada por preposto da empresa ré quando conduzia imprudentemente veículo de propriedade desta), o nexo de causalidade que os une (dano material decorrente do infeliz acidente de trânsito), bem como a ausência de comprovação de fatos impeditivos, modificativos ou extintivos do direito autoral (eventual excludente de responsabilidade civil, como a culpa exclusiva da vítima ou de terceiro).
+O dano material encontra-se demonstrado pelos documentos nas fls. 29/45- 000029/000040, sendo que o orçamento na fl. 38-000038, em que pese a impugnação formulada pela empresa ré, não foi infirmado por qualquer prova, não bastando a mera insatisfação com seu conteúdo, havendo necessidade de contraprova, plenamente passível de produção, pois a empresa ré poderia trazer orçamentos de concessionárias da Honda (montadora do veículo do segurado) e de outras oficinas autorizadas demonstrando eventual disparidade de valores das peças de reposição e de mão de obra. Mas, não o fez.
+A conduta do preposto da empresa ré encontra-se demonstrada, tanto pela sua confissão, quanto pela dinâmica do acidente, que revelam, indene de dúvidas, que houve colisão na traseira do veículo do segurado da parte autora, causada pelo preposto da empresa ré quando conduzia veículo de propriedade desta. A culpa lato sensu se mostra presente pela presunção, não afastada aqui, da imprudência de quem colide na traseira de veículo à sua frente, seja por desatenção, seja por não guardar a devida distância prevista na legislação de trânsito.
+Perceba-se que, a despeito da insistente alegação da empresa ré, não houve comprovação de fatos impeditivos, modificativos ou extintivos do direito autoral, especificamente quanto à ventilada excludente de responsabilidade civil caracterizada pela culpa exclusiva da vítima ou de terceiro (condutor de ônibus que supostamente trafegava à frente do veículo do segurado da parte autora).
+Nesta linha de raciocínio, todas estas circunstâncias impõem a responsabilização civil da empresa ré pelo dano causado à seguradora autora.
+(..) Por oportuno, ressalto que não houve prova da celebração de acordo entre o segurado da parte autora e o preposto da empresa ré, muito menos de pagamento de qualquer valor a esse título.
+Ainda, ao julgar os embargos de declaração, pontuou o seguinte (fl. 453):
+Com efeito, restou expresso no acórdão embargado que, ao contrário do que afirma a parte embargante, o colegiado entendeu que o dano material encontra-se demonstrado pelos documentos nas fls. 29/45- 000029/000040, sendo que o orçamento na fl. 38-000038, em que pese a impugnação formulada pela empresa ré embargante, não foi infirmado por qualquer prova, não bastando a mera insatisfação com seu conteúdo, havendo necessidade de contraprova, plenamente passível de produção, pois a empresa ré embargante poderia trazer orçamentos de concessionárias da Honda (montadora do veículo do segurado) e de outras oficinas autorizadas demonstrando eventual disparidade de valores das peças de reposição e de mão de obra. Contudo, assim não agiu.
+Ademais, perceba-se, a toda evidência, que se encontra devidamente consignado no acórdão alvejado que não houve prova da celebração de acordo entre o segurado da parte autora e o preposto da empresa ré embargante, muito menos de pagamento de qualquer valor a esse título.
+Em síntese, os vícios que implicam violação ao art. 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, os quais podem ser ilididos por diversa fundamentação fática e jurídica que tenha sido considerada prevalecente na hipótese.
+Dessa forma, ante a ausência de vício no acórdão impugnado, não se vislumbra a ocorrência de omissão ou negativa de prestação jurisdicional a ensejar o reconhecimento de nulidade.
+Quanto a incidência da Súmula 283 do STF, nota-se que a recorrente insiste nas seguintes alegações: i) ocorrência de cerceamento de defesa e incorreta distribuição do ônus da prova, considerando a impossibilidade de realização de perícia técnica e o entendimento errôneo do acórdão de que a recorrente deveria ter realizado uma contraprova; e ii) existência de acordo entre o segurado da parte autora e o preposto da empresa ré.
+Por outro lado, os fundamentos apresentados no acórdão recorrido referem-se à suficiência das provas juntadas aos autos pela parte autora para a demonstração do dano material e demais requisitos da responsabilização civil, bem como à não comprovação da celebração de acordo entre o segurado da parte autora e o preposto da recorrente.
+Ao que se vê, as razões de recurso especial, de fato, não apresentaram impugnação específica aos referidos fundamentos, atraindo a incidência do enunciado de Súmula 283 do STF, aplicado analogicamente.
+Além do mais, a revisão do entendimento proferido pelo Tribunal estadual, no presente caso, demandaria nova investigação acerca dos fatos e provas contidos no processo, de modo que o recurso especial esbarra no óbice da Súmula 7 do STJ.
+Veja-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. Rever o entendimento do Tribunal de origem quanto ao alegado cerceamento de defesa, à inversão do ônus da prova e à configuração de danos morais indenizáveis, forçosamente ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+(..)
+3. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 1.873.511/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
