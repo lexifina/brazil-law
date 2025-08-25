@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. CRIME DE TORTURA. PRESCRIÇÃO PELA PENA EM PERSPECTIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 83/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por EZEQUIEL MOSSI DA ROSA contra decisão monocrática em que não conheci do agravo em recurso especial manejado em oposição a acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+"RECURSO EM SENTIDO ESTRITO. EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO COM BASE NA PENA PROJETADA. IMPOSSIBILIDADE. RECURSO EXTRAORDINÁRIO Ne 602.527 QO-RS. TEMA 239. TESE FIXADA PELO STF. SÚMULA 438 DO STJ. A extinção da punibilidade com base na pena virtual, projetada ou em perspectiva é tema pacificado na jurisprudência dos Tribunais Superiores, que vedam sua adoção por ausência de amparo legal e por violação ao princípio da presunção de não-culpabilidade. Tese fixada pelo STF no julgamento do RE 602.527 QO-RG. Súmula 438 do STJ. A Lei 13.964/2019, no artigo 315, § 2B, do CPP, incluiu rol exemplificativo de ausência de fundamentação das decisões judiciais. Conforme o inciso VI do § 2B do art. 315 do CPP, não é permitido ao juiz deixar de aplicar precedente ou enunciado de súmula invocado pela parte sem explicitar a existência de distinção (distinguishing) no caso sob julgamento ou a superação do entendimento (overruling). Caso em que somente seria possível declarar extinta a punibilidade pela prescrição da pretensão punitiva pelo crime de tortura (majorada) se, entre os marcos interruptivos, houvesse transcorrido o prazo prescricional previsto para a pena máxima abstratamente cominada aos delitos cometidos, com o acréscimo da maior majoração prevista em lei para o crime em comento - 1/3 - aplicação da teoria da pior hipótese) conforme dispõe expressamente o artigo 109, II, do CP. A prescrição da pretensão punitiva com base na pena abstratamente cominada ocorreu somente quanto aos delitos de formação de quadrilha e falsidade ideológica, devendo a ação penal prosseguir quanto ao delito de tortura imputado aos recorridos. RECURSO MINISTERIAL PARCIALMENTE PROVIDO."
+A parte recorrente requer a reconsideração da decisão agravada, pugnando pelo conhecimento do recurso especial interposto e seu provimento (e-STJ fls. 668-674).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. CRIME DE TORTURA. PRESCRIÇÃO PELA PENA EM PERSPECTIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 83/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando a Súmula 83/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Com efeito, "para impugnar a incidência da Súmula nº. 83, STJ, não basta a mera alegação. Incumbe ao agravante demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou, ainda, colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão recorrida para comprovar que outro é o entendimento jurisprudencial do Tribunal. Precedentes" (AgRg no AREsp n. 2.260.505/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/5/2023, DJe de 2/6/2023).
+Nos termos do art. 932, III, do CPC, e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
