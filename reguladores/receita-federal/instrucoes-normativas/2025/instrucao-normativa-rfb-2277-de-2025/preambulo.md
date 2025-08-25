@@ -1,0 +1,5 @@
+Instrução Normativa RFB nº 2277, de 22 de agosto de 2025
+Estabelece os requisitos e condições para relocalização, transferência e extinção de licenciamento de Centro Logístico e Industrial Aduaneiro (CLIA).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XIX e o parágrafo único do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos arts. 34 a 39 da Lei nº 12.350, de 20 de dezembro de 2010; nos arts. 33 a 36, 50 e 62 do Decreto-Lei nº 37, de 18 de novembro de 1966; nos arts. 76 e 92 da Lei nº 10.833, de 29 de dezembro de 2003; Parecer SEI nº 167/2018/CCP/PGA/PGFN-MF, aprovado pelo Ministro de Fazenda em 16 de dezembro de 2024, no inciso III, § 1º do art. 1º da Medida Provisória nº 320, de 24 de agosto de 2006, e no inciso IV, § 1º do art. 2ª; e no art. 4º da Medida Provisória nº 612, de 4 de abril de 2013, resolve:
+CAPÍTULO I
+DAS DISPOSIÇÃO PRELIMINARES
