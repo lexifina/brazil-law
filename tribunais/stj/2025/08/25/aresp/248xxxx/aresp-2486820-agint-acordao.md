@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA.. IMPOSSIBILIDADE DE O TRIBUNAL ANALISAR QUESTÃO AINDA NÃO APRECIADA PELO JUÍZO NATURAL. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ.
+1. Trata-se, na origem, de agravo de instrumento interposto pelo ora agravante contra decisão interlocutória que não acolheu sua impugnação em um cumprimento de sentença onde a ora agravada executa, em nome próprio, honorários sucumbenciais e multa por má-fé arbitrados na fase de conhecimento.
+2. Inexistente a alegada ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os embargos de declaração, d eixou claro que, sob pena de supressão de instância, a matéria não poderia ser enfrentada em grau recursal ante a ausência de enfrentamento do mérito na instância ordinária.
+3. É pacífico o entendimento deste Colendo Superior Tribunal de Justiça no sentido de que a aplicação da teoria da causa madura exige que a controvérsia tenha sido previamente apreciada pelo juízo de origem, em caso de necessidade de dilação probatória. Acórdão em consonância com a jurisprudência desta Corte. Súmula n. 83/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por LUIZ CÉLIO BOTTURA contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento, nos termos da seguinte ementa (fl. 181):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. MÉRITO RECURSAL NÃO APRECIADO PELO JUÍZO ORDINÁRIO. IMPOSSIBILIDADE DE ANÁLISE EM GRAU RECURSAL SOB PENA DE SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 203-205).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 66-69):
+Agravo de instrumento - Cumprimento provisório de sentença - Decisão interlocutória que rejeitou a impugnação formulada pelo executado visando a inexigibilidade do débito - Ausência de enfrentamento específico das matérias deduzidas na impugnação - Inexistência apreciação pelo juízo singular das teses relativas à renúncia da multa por litigância de má-fé e da falsidade do acordo apresentado pelo executado - Insubsistência do provimento por vício formal - Impossibilidade de enfrentamento da matéria pelo colegiado, sob pena de supressão de instância - Decisão anulada - Recurso prejudicado.
+A agravante alega, nas razões do agravo interno, que o Tribunal de Justiça de São Paulo deveria ter julgado o mérito do agravo de instrumento, aplicando a teoria da causa madura, pois a controvérsia não depende de dilação probatória.
+Além disso, alega que o TJSP foi omisso ao não enfrentar todos os pontos suscitados nos embargos de declaração, violando os artigos 489 e 1.022 do CPC. Argumenta que o STJ, ao não aplicar o artigo 1.013, §3º, do CPC, estaria declarando sua inconstitucionalidade de forma monocrática, o que é vedado.
+Reitera a existência de divergência jurisprudencial.
+Por fim, requer a reforma da decisão agravada para que o TJSP aprecie o mérito do agravo de instrumento ou, subsidiariamente, que converta o feito em diligência para produção de provas no tocante à alegação de falsidade do instrumento de acordo, ou ainda que declare a nulidade do acórdão por falta de fundamentação adequada.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contraminuta (fls. 225-234).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA.. IMPOSSIBILIDADE DE O TRIBUNAL ANALISAR QUESTÃO AINDA NÃO APRECIADA PELO JUÍZO NATURAL. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ.
+1. Trata-se, na origem, de agravo de instrumento interposto pelo ora agravante contra decisão interlocutória que não acolheu sua impugnação em um cumprimento de sentença onde a ora agravada executa, em nome próprio, honorários sucumbenciais e multa por má-fé arbitrados na fase de conhecimento.
+2. Inexistente a alegada ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os embargos de declaração, d eixou claro que, sob pena de supressão de instância, a matéria não poderia ser enfrentada em grau recursal ante a ausência de enfrentamento do mérito na instância ordinária.
+3. É pacífico o entendimento deste Colendo Superior Tribunal de Justiça no sentido de que a aplicação da teoria da causa madura exige que a controvérsia tenha sido previamente apreciada pelo juízo de origem, em caso de necessidade de dilação probatória. Acórdão em consonância com a jurisprudência desta Corte. Súmula n. 83/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Trata-se, na origem, de agravo de instrumento interposto pelo ora agravante contra decisão interlocutória que não acolheu sua impugnação em um cumprimento de sentença onde a ora agravada executa, em nome próprio, honorários sucumbenciais e multa por má-fé arbitrados na fase de conhecimento.
+Consoante aludido na decisão agravada, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os embargos de declaração, deixou claro que, sob pena de supressão de instância, a matéria não poderia ser enfrentada em grau recursal ante a ausência de enfrentamento do mérito na instância ordinária, nos seguintes termos (fls. 81-82).
+Na espécie, não foi identificado qualquer vício no julgado, mas mero descontentamento com o resultado proclamado, porque a decisão do colegiado foi bem explícita e motivada, na medida em que reconheceu a configuração de decisão citra petita, mormente considerando a omissão da decisão singular quanto o questionamento da parcela do débito relativo à multa por litigância de má-fé, conforme a renúncia prevista no suposto acordo extrajudicial formalizado entre as partes.
+De modo que, diante da impugnação da autenticidade do acordo apresentado pelo executado, não foi possível o julgamento do mérito pelo colegiado, bem como descabida a pretendida produção probatória em sede recursal, uma vez que pendente prévia análise da matéria pelo juízo de origem, sob pena de supressão de instância, donde a exigência do enfrentamento pelo magistrado no feito executivo, justificando a desconstituição integral da decisão hostilizada para o regular enfrentamento dos pontos controvertidos e prestação da tutela jurisdicional.
+Aliás, constou expressamente do acórdão:
+ ..
+Daí a subsistência do julgado nos moldes originários, pois a insatisfação foi manejada contra o resultado adotado, mediante manifestação do inconformismo contra a própria essência da motivação fática e do conteúdo jurídico, utilizados pela turma para a formação do convencimento, tornando imprópria a via eleita para a finalidade modificadora/infringente perseguida, destarte estando exercido o prequestionamento dos temas para fins da futura utilização da via extraordinária e/ou especial.
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, acerca da suscitada violação dos arts. 938, §§ 3º e 4º, 1.013, § 3º, e 282 do CPC, também não merece conhecimento o apelo nobre, visto que, ao reconhecer a impossibilidade de análise do mérito recursal sob pena de supressão de instância, o Tribunal de origem decidiu em consonância com a jurisprudência do STJ, o que atrai o óbice da Súmula n. 83/STJ.
+É pacífico o entendimento deste Colendo Superior Tribunal de Justiça no sentido de que a aplicação da teoria da causa madura exige que a controvérsia tenha sido previamente apreciada pelo juízo de origem, em caso de necessidade de dilação probatória .
+A propósito, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE O TRIBUNAL ANALISAR QUESTÃO AINDA NÃO APRECIADA PELO JUÍZO NATURAL. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, verifica-se que o entendimento esposado pelo Tribunal de origem, no julgamento do agravo de instrumento, está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, a qual não pode ser objeto de deliberação pela instância ad quem, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição. Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.692.724/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024.)
+Assim, apesar d o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
