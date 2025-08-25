@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIMITE DE CHEQUE ESPECIAL. CANCELAMENTO. CONTRATO DE SEGURO DE VIDA EM GRUPO. RESCISÃO UNILATERAL. DANO MORAL NÃO CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Nos termos da jurisprudência pacífica desta Corte, em regra, o simples inadimplemento contratual não gera danos morais, por caracterizar mero aborrecimento, dissabor, envolvendo controvérsia possível de surgir em qualquer relação negocial, sen do fato comum e previsível na vida social, embora não desejável nos negócios contratados
+2. Na hipótese, o Tribunal de origem, com base no acervo fático-probatório dos autos, consignou que o cancelamento do limite de crédito de cheque especial e a rescisão unilateral do contrato de seguro de vida não caracterizou prática de ato ilícito capaz de ensejar indenização por danos morais. Rever tal entendimento esbarra no óbice da Súmula n.7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ADELITA ORZECHOWSKI, contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial nos termos da seguinte ementa (fl. 344):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO DE VIDA EM GRUPO. RESCISÃO POR INADIMPLEMENTO. DANO MORAL NÃO CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIOJURISPRUDENCIAL PREJUDICADO. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 242):
+APELAÇÃO CÍVEL. AÇÃO DE REATIVAÇÃO DE CONTRATO DE SEGURO DE VIDA EM GRUPO E RESCISÃOINDENIZAÇÃO POR DANOS MORAIS. POR INADIMPLEMENTO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DO BANCO. DEFENDIDA A REGULARIDADE DA RESCISÃO CONTRATUAL EM FACE DE INADIMPLEMENTO DO PRÊMIO PELA SEGURADA. INSUBSISTÊNCIA. INADIMPLEMENTO DO PRÊMIO DO SEGURO QUE DECORREU DO CANCELAMENTO, PELO BANCO, DO LIMITE DE CRÉDITO DA CONTA BACÁRIA DA AUTORA, SEM A SUA CIENTIFICAÇÃO. IMPRESCINDIBILIDADE DA NOTIFICAÇÃO PRÉVIA PARA POSSIBILITAR A PURGAÇÃO DA MORA PELA SEGURADA. ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ABUSIVIDADE DA CLÁUSULA CONTRATUAL QUE PERMITE A RESCISÃO AUTOMÁTICA DO CONTRATO DE SEGURO NO CASO DE INADIMPLEMENTO. EXEGESE DO ART. 51, XI, DO CDC. RECURSO DA AUTORA. INSISTÊNCIA NA INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE QUE O ABALO ANÍMICO DECORREU DO CANCELAMENTO DO LIMITE DE CRÉDITO E DO CONTRATO DE SEGURO. NÃO ACOLHIMENTO. FATOS QUE, POR SI SÓS, NÃO CONFIGURAM ABALO MORAL INDENIZÁVEL. SITUAÇÃO EXCEPCIONAL NÃO DEMONSTRADA. PEDIDO REJEITADO. PREQUESTIONAMENTO. DESNECESSIDADE DE MANIFESTAÇÃO EXPRESSA ACERCA DE TODOS OS DISPOSITIVOS APONTADOS. RECURSOS CONHECIDOS E NÃO PROVIDOS.
+Sem embargos de declaração.
+Nas razões do agravo interno, a parte agravante alega que "não há que se falar em "incursão no acervo fático- probatório dos autos", uma vez que o direito à indenização decorre justamente da violação objetiva dos deveres contratuais e da boa-fé, evidenciada pelo cancelamento arbitrário do limite de crédito e do seguro de vida no momento em que a agravante enfrentava grave enfermidade (câncer), situação que agrava o dano e impõe o dever de reparação, fato este já reconhecido nos autos" (fl. 375).
+Aduz, ainda, que "A controvérsia não reside na interpretação de provas, mas sim na penalização em razão do reconhecimento de que houve conduta abusiva por parte da instituição financeira, ao cancelar arbitrariamente o limite de crédito e o seguro de vida em momento que a agravante mais precisava, o que, por si só, diante da ilegalidade do ato perpetrado, enseja a responsabilização e o dever de indenizar" (fl. 375).
+Pugna, por fim, pela reconsideração da decisão agravada e pelo provimento do recurso especial.
+A agravada apresentou contrarrazões às fls. 381-387.
+É, no essencial, o relatório.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIMITE DE CHEQUE ESPECIAL. CANCELAMENTO. CONTRATO DE SEGURO DE VIDA EM GRUPO. RESCISÃO UNILATERAL. DANO MORAL NÃO CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Nos termos da jurisprudência pacífica desta Corte, em regra, o simples inadimplemento contratual não gera danos morais, por caracterizar mero aborrecimento, dissabor, envolvendo controvérsia possível de surgir em qualquer relação negocial, sen do fato comum e previsível na vida social, embora não desejável nos negócios contratados
+2. Na hipótese, o Tribunal de origem, com base no acervo fático-probatório dos autos, consignou que o cancelamento do limite de crédito de cheque especial e a rescisão unilateral do contrato de seguro de vida não caracterizou prática de ato ilícito capaz de ensejar indenização por danos morais. Rever tal entendimento esbarra no óbice da Súmula n.7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Cuida-se na origem de ação de restabelecimento de seguro de vida c/c indenização por danos morais proposta pela agravante contra o agravado, na qual a parte autora objetiva a reativação de seguro de vida, cancelado unilateralmente pela ré, bem como compensação por danos morais.
+Conforme se extrai das instâncias ordinárias, a autora contratou com a ré um seguro de vida em grupo, pacto que foi rescindido unilateralmente pela seguradora em virtude de cancelamento de limite de crédito de cheque especial disponibilizado pela ré à autora em sua conta-corrente (fl. 102)
+Em primeira instância, a ação foi julgada parcialmente procedente, declarando a ilegalidade do cancelamento do limite de crédito de cheque especial e da rescisão unilateral do contrato de seguro de vida em grupo e rejeitando o pedido de danos morais.
+Quanto aos danos morais, objeto do presente recurso, a sentença foi mantida pelo Tribunal de origem sob os seguintes fundamentos (fls. 237-238):
+A autora alega que o cancelamento do limite de crédito em sua conta corrente ensejou no inadimplemento e consequente cancelamento do contrato de seguro, e que isso configura abalo moral indenizável.
+ ..
+No que diz respeito ao dano moral decorrente de inadimplemento contratual, prescreve a súmula 29 do Grupo de Câmaras de Direito Civil: "O descumprimento contratual não configura dano moral indenizável, salvo se as circunstâncias ou as evidências do caso concreto demonstrarem a lesão extrapatrimonial".
+ ..
+No caso em análise, a autora afirma que "aguardava estar coberta pelo limite de crédito disponibilizado pelo apelado, para que pudesse adimplir com o prêmio do seguro de vida contratado, quando mais precisava, por estar diagnosticada com carcinoma de mama" (p. 4).
+Ocorre que, como antes delineado, o cancelamento do seguro, por si só, não é suficiente para configurar o abalo moral indenizável.
+O seguro contratado pela autora possuía coberturas para "morte natural ou acidental", "indenização extra", além das assistências gratuitas denominadas "assistência funeral", "farmácia em casa", "chaveiro residencial" (evento 1, CONTR4, p. 1/origem).
+A autora sequer mencionou qual dessas coberturas lhe era devida quando do cancelamento do contrato. Nem demonstrou que, em decorrência do cancelamento do contrato, tenha passado por alguma situação excepcional que pudesse remeter ao dano moral.
+Pertinente anotar que o laudo de exame médico que apresentou, com diagnóstico de carcinoma invasivo da mama, está ilegível em relação à sua data (evento 1, LAUDO6/origem). Sendo esse o único documento relativo ao seu quadro clínico.
+Por fim, ainda que o cancelamento do limite de crédito tenha ensejado a rescisão do contrato de seguro, ambos os contratos são fornecidos pelo banco réu, não havendo elementos que indiquem que a situação tenha sido levada a conhecimento de terceiros.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+A propósito, cito:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CÂMBIO. INEXISTÊNCIA DE OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. INDENIZAÇÃO POR DANOS MORAIS. INEXISTÊNCIA DE ATO IRREGULAR POR PARTE DA INSTITUIÇÃO FINANCEIRA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O eg. Tribunal Estadual, com base no acervo fático-probatório carreado aos autos, consignou que não restou caracterizada prática de ato ilícito, capaz de ensejar indenização por danos morais, o cancelamento do limite de crédito vinculado aos contratos de câmbio, porquanto configurada inadimplência hábil a legitimar tal medida.
+3. A revisão de tal entendimento demandaria o reexame de matéria fático-probatória, em especial reanálise de cláusulas contratuais e aspectos fáticos, pretensões inviáveis em sede de recurso especial, atraindo a incidência das Súmulas 5 e 7, ambas desta eg. Corte.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.041.996/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.)
+Ademais, nos termos da jurisprudência pacífica desta Corte, em regra, o simples inadimplemento contratual não gera danos morais, por caracterizar mero aborrecimento, dissabor, envolvendo controvérsia possível de surgir em qualquer relação negocial, sendo fato comum e previsível na vida social, embora não desejável nos negócios contratados. (AgInt no AREsp n. 2.074.140/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Assim, apesar d o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
