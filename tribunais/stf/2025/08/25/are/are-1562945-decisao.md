@@ -1,0 +1,41 @@
+DECISÃO:
+
+    Trata-se de agravo formalizado por Alexandre Pereira Rangel contra a decisão que não admitiu recurso extraordinário interposto em face acórdão da Primeira Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+
+    “PENAL E PROCESSUAL PENAL. APELAÇÃO. CRIME DE LICITAÇÃO. PRELIMINAR. INÉPCIA DA INICIAL. AUTORIA E MATERIALIDADE. CONJUNTO PROBATÓRIO SUFICENTE. DOLO ESPECÍFICO. LESÃO AO ERÁRIO. VANTAGEM INDEVIDA POTENCIALMENTE AUFERÍVEL. QUEBRA DE SIGILO DOS DADOS BANCÁRIOS. 1. Afasta-se a alegação de inépcia da inicial, uma vez que a denúncia narra com clareza e precisão os fatos aparentemente criminosos, com todas as circunstâncias do caso, especifica a conduta dos denunciados e os qualifica, identifica o dolo específico e indica a lesão ao erário, instruindo-a com o mínimo de lastro probatório (CPP art. 41) 2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes quando já tenha encontrado motivo suficiente para proferir a decisão, e a tese não for capaz de infirmar a conclusão. 3. Ao autorizar as contratações sem amparo na legislação e nos pareceres jurídicos, o agente público, com vontade livre e consciente de violar os princípios da Administração Publica, deixou de instruir os procedimentos de contratação direta e, assim, proporcionou o ambiente favorável para que os particulares celebrassem os contratos com o Poder Publico e por conseguinte, auferissem vantagem indevida. 4. As circunstâncias do caso concreto, aliadas à prova testemunhal e à documental produzida a partir da quebra do sigilo dos dados bancários do Instituto Caminho das Artes - ICA, demonstra que o presidente do ICA e o empresário da VM produções contribuíram, com vontade livre e consciente, para as violação das formalidades legais, com o dolo específico de se beneficiarem indevidamente dos valores provenientes das contratações celebradas com a Secretaria de Cultura e que causou lesão ao erário. 5. Quando o conjunto probatório não é suficiente para formar a convicção da autoria em relação a um dos réus, a absolvição é medida que se impõe. 6. Dentro de um contexto em que foram denunciados quatro réus pela prática do crime de quadrilha - fato ocorrido em data anterior à Lei 12.850/2013, a absolvição de um deles alcança os demais, uma vez que ausente uma das elementares do tipo - a quantidade de pessoas envolvidas. 7. Extrai-se a vantagem indevida a partir da diferença entre o valor contratado com a Administração e o efetivamente pago ao executor do serviço. 8. Nos crimes de licitação, aplica-se a norma especial prevista no art. 99 da Lei de Licitações, tendo como base de cálculo a vantagem obtida, efetiva ou potencialmente, em percentual que esteja dentro do intervalo de 2% a 5% do valor contratado ou licitado. 9. Recursos conhecidos. Provido o recurso do réu HELDER e parcialmente os apelos dos demais.” (e-doc. 44).
+
+    Embargos de declaração não foram providos.(e-doc.50)
+
+    Sustenta a recorrente violação ao artigo 5º, inciso XXI, da Constituição Federal (edoc. 388).
+
+    Diz, em síntese, que
+
+    “[o] Recorrente não recebeu qualquer vantagem ilícita, além de restar demonstrado que a ausência de fiscalização não enseja o reconhecimento do especial fim de lesar o erário e ainda restando demonstrado a inexistência de conluio com os corréus, basta uma correta valoração da prova constante nos autos para constatar que os documentos que instruíam o procedimento administrativo estavam dentro das solicitações da AJL e por esta razão não houve qualquer conduta dolosa do Recorrente em causar prejuízo ao erário”
+
+    Examinados os autos, decido.
+
+    Inicialmente, verifica-se que o Tribunal a quo, ao dirimir a questão posta no apelo extremo, ateve-se ao exame da legislação infraconstitucional. Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. Anota-se, mutatis mutandi:
+
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Tema em apreciação decidido à luz da legislação infraconstitucional (Lei nº 8.137/90). A ofensa à Constituição Federal, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. Precedentes. Agravo regimental não provido.” (ARE nº 916621/SC-AgR, Segunda Turma, de minha relatoria, DJe de 22/4/16);
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Processual Penal. 3. Ofensa ao artigos 5º, incisos XXXV, XXXVII, XLVI, LIII, LIV e LV; 93, inciso IX; e 109, IV, da CF. 4. Alegações: a) violação ao princípio do juiz natural; b) incompetência da Justiça Federal; c) negativa de prestação jurisdicional; d) cerceamento de defesa; e) inexistência de especificação da participação criminosa, bem como ausência de provas suficientes à condenação e f) violação ao princípio de individualização da pena. 5. Violação ao princípio do juiz natural por impedimento da Relatora. Ofensa reflexa. Questão apreciada no julgamento do HC 131.120/RR. Nulidade não configurada. 6. Incompetência da Justiça Federal: o STF adota entendimento de que é dela a competência para julgamento dos crimes praticados nos casos em que as verbas públicas federais sejam transferidas a ente federativo, sujeitas à prestação de contas e a controle da União. Precedentes. Aferição de eventual lesão a bem jurídico estadual. Súmula 279. 7. Negativa de prestação jurisdicional. Ausência de fundamentação nas decisões proferidas pelas instâncias antecedentes. Inexistente (Tema 339, AI-QO-RG 791.292). Prestação jurisdicional concedida nos termos da legislação vigente. 8. Cerceamento de defesa e inexistência de especificação da participação criminosa, bem como ausência de provas suficientes à condenação. Súmulas 279 e 284. Tema 660, ARE-RG 748.371. 9. Violação ao princípio de individualização da pena. Súmulas 282 e 356. Tema 182, AI 742.460/RJ RG. 10. Agravo regimental a que se nega provimento.” (ARE nº 1000420-AgR/RR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 14/3/17).
+
+    É certo, ainda, que superar a conclusão adotada pelo Tribunal de origem, como pretendido, demandaria um reexame aprofundado do contexto fático probatório dos autos, o que é inviável na via eleita. Incidência, portanto, da Súmula nº 279/STF.
+
+    Perfilhando esse entendimento, destaco os seguintes julgados:
+
+    ““AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. INSTITUIÇÃO DE GRUPO GESTOR. ATOS DE IMPROBIDADE ADMINISTRATIVA. DANOS AO ERÁRIO. LEI 8.429/92. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE COMPROVAÇÃO DE CULPA OU DOLO. OFENSA INDIRETA. MATÉRIA FÁTICA. SÚMULA 279 DO STF. PRECEDENTES. 1. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de legislação infraconstitucional que fundamentou a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. 2. É inadmissível na via extraordinária o reexame da moldura fática retratada no acórdão recorrido, uma vez que ficou assentado que a prova dos autos não foi conclusiva quanto à caracterização de prática de atos de improbidade administrativa ou de danos ao erário, diante da ausência de comprovação de culpa ou dolo nas condutas imputadas aos ora Recorridos. Incidência do óbice da Súmula 279 do STF. 3. Agravo regimental a que se nega provimento. Sem honorários, por se tratar de ação civil pública (art. 18 da Lei 7.347/1985)” (ARE nº 1.349.025/AM-AgR, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 29/08/2022).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. Improbidade administrativa não caracterizada. Não comprovação do dolo do agente. 4. Ofensa reflexa à Constituição Federal. Necessidade de revolvimento do conjunto fático-probatório. Impossibilidade. Súmula 279. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE nº 1.357.974/AM-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 30/06/2022).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 25 de agosto de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
