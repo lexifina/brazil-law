@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUIÇÃO GENÉRICA. FUNDAMENTAÇÃO. DEFICIÊNCIA. VÍCIO DE INTEGRAÇÃO. AUSÊNCIA .
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia, atrai a aplicação da Súmula 284 do STF.
+2. É deficiente o recurso especial que não explica de que forma os dispositivos de lei federal apontados foram efetivamente violados no acórdão recorrido. Incidência da Súmula 284 do STF.
+3. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo DISTRITO FEDERAL contra decisão em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nas razões deste recurso (e-STJ fls. 478/485), o agravante sustenta que "o Distrito Federal, ainda que de forma sucinta, demonstra que o julgamento dos embargos de declaração foi centrado em decisão genérica, que serviria para qualquer caso, indicando com isso a violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC" de modo que "é possível compreender que o v. acórdão local não esgotou a prestação jurisdicional" (e-STJ fl. 483). Alega, ainda, que "não há que se falar em óbice da Súmula 284 do STF, pois o recurso especial demonstrou que a prescrição foi proclamada pelo v. acórdão recorrido de forma indevida" (e-STJ fl. 484). Ao final, requer a reconsideração da decisão agravada ou, caso contrário, o provimento do recurso pelo colegiado.
+Não houve contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUIÇÃO GENÉRICA. FUNDAMENTAÇÃO. DEFICIÊNCIA. VÍCIO DE INTEGRAÇÃO. AUSÊNCIA .
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia, atrai a aplicação da Súmula 284 do STF.
+2. É deficiente o recurso especial que não explica de que forma os dispositivos de lei federal apontados foram efetivamente violados no acórdão recorrido. Incidência da Súmula 284 do STF.
+3. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+4. Agravo interno desprovido.
+VOTO
+No  caso  dos  autos,  o  recurso  especial  foi  interposto  contra  acórdão  assim  ementado  (e-STJ fl. 323):
+PROCESSO CIVIL. DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. ANULAÇÃO DE AUTO DE INFRAÇÃO. ENTREGA DA MERCADORIA EM ENDEREÇO DISTINTO DO ENDEREÇO DO DESTINATÁRIO. EXCEÇÃO DO ARTIGO 79, § 7º, DO DECRETO N. 18.955/1997. SENTENÇA MANTIDA.
+1. Nos termos do artigo 79, § 7º, do Decreto nº 18.955/1997, "A mercadoria pode ser entregue em endereço diferente do consignado no local próprio do documento fiscal, no Distrito Federal, desde que o destinatário seja o mesmo, e mediante expressa declaração do emitente no documento".
+2. Demonstradas nos autos a identidade subjetiva entre o destinatário indicado da nota fiscal e o destinatário efetivo da mercadoria, bem como a existência de declaração expressa do emitente indicando que o endereço de entrega será diverso do endereço do destinatário constante na nota fiscal, estão atendidos os requisitos para a incidência da exceção prevista no artigo 79, § 7º, do Decreto nº 18.955/1997.
+3. Apelação não provida. Unânime.
+Eis os  fundamentos  do  voto  condutor  do  acórdão  recorrido  (e-STJ fls. 327/328):
+Conforme se verifica da análise do Auto de Infração e Apreensão n. 5176/2020 (Id. 51839911), a Nota Fiscal n. 2.589 foi considerada inidônea por supostamente conter informações inexatas relativas ao endereço de entrega das mercadorias, pois constava como destinatário Jovair Rodrigues Cardoso, com endereço na Asa Sul, mas no local de entrega, em Águas Claras, funciona a empresa Nutrifon Comércio de Nutrição Esportiva EIRELI.
+A r. sentença reconheceu a nulidade do auto de infração questionado, por entender configurada a exceção prevista no artigo 79, § 7º, do Decreto nº 18.955/1997, pois não teria havido infringência ao artigo 47, IV e V, da Lei nº 1.254/1996.
+Nos termos do artigo 79, § 7º, do Decreto nº 18.955/1997,"A mercadoria pode ser entregue em endereço diferente do consignado no local próprio do documento fiscal, no Distrito Federal, desde que o destinatário seja o mesmo, e mediante expressa declaração do emitente no documento".
+Como destacado na r. sentença, está comprovado que Jovair Rodrigues Cardoso, destinatário indicado na Nota Fiscal n. 2.589, é o proprietário da empresa Nutrifon Comércio de Nutrição Esportiva EIRELI, localizada no endereço de entrega da mercadoria, de modo que está preenchido o requisito previsto no artigo 79, § 7º, do Decreto nº 18.955/1997 relativo à identidade subjetiva.
+Igualmente está satisfeita a existência de expressa declaração do emitente no documento, uma vez que consta na nota fiscal emitida pela Apelada a informação de que o local de entrega seria diverso do endereço do destinatário.
+Assim, não merece reparos a r. sentença, uma vez que estão presentes, na espécie, os requisitos para a incidência da exceção prevista no artigo 79, § 7º, do Decreto nº 18.955/1997.
+Embora o Apelante sustente que o artigo 79, § 7º, do Decreto n. 18.955/97 não deve ser aplicado ao caso em exame, porque o destinatário indicado na nota fiscal não possuía inscrição ativa na CFDF para aquele endereço, registro que não prospera tal alegação, porque a exigência está desprovida de amparo legal.
+De outro lado, também sem razão o Apelante ao suscitar a aplicação, por analogia, do entendimento firmado pelo c. STJ no julgamento do REsp n. 1.874.256.
+Ocorre que o referido entendimento está adstrito à limitação da responsabilidade na EIRELI e não impede o reconhecimento da existência de identidade subjetiva entre o destinatário constante na nota fiscal e o titular da EIRELI onde foram entregues as mercadorias em questão, de modo que está justificado o distinguish.
+Das razões do recurso especial, depreende-se que o recorrente sustenta violação do art. 1.022, I, e do art. 489, § 1º, IV, do CPC, por ausência de fundamentação e omissão do acórdão recorrido. Em seguida, indica ofensa ao art. 49-A do Código Civil, afirmando "que o decisum também não se manifestou acerca do referido dispositivo legal" (e-STJ fl. 389), mencionando, ainda, ausência de manifestação quanto ao REsp 1.874.256.
+Pois  bem.
+A  decisão  recorrida  deve  ser  mantida  por  seus  próprios  fundamentos.
+O recorrente aponta violação do art. 1.022, I, e do art. 489, § 1º, IV, do CPC, relacionada ao princípio da inafastabilidade jurisdicional.
+Contudo, não desenvolve a questão de modo a demonstrar precisamente o vício e a sua importância para a resolução do caso concreto. Somente deduz argumentação genérica a respeito de suposto vício de integração sem apontar com clareza sobre o que o acórdão recorrido foi omisso.
+Esta Corte de Justiça tem decidido, reiteradamente, que a alegação de vício de integração deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado e da relevância ao deslinde da controvérsia.
+A inobservância dessa exigência impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes AgInt no AREsp n. 1245152/PE, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 08/10/2018, REsp n. 1627076/SP, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 14/08/2018, AgInt no AREsp n. 1134984/MG, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 06/03/2018 e AgInt no REsp n. 1720264/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 21/09/2018.
+A apontada afronta ao art. 49-A do Código Civil também carece de fundamentação adequada.
+As razões relacionadas ao dispositivo tratam de omissão sobre o dispositivo e, em um breve momento, cuidam da personalidade jurídica das pessoas envolvidas. Confira-se o respectivo trecho do apelo extremo (e-STJ fl. 389):
+VIOLAÇÃO AO ARTIGO 49-A DO CÓDIGO CIVIL
+Como dito anteriormente nestas razões recursais, verifica-se que a temática referente ao art. 49-A do CC foi apresentada à discussão perante o Poder Judiciário desde a contestação, entretanto, o Eg. TJDFT não enfrentou o tema, apesar dos embargos declaratórios opostos regularmente.
+A NUTRIFON COM. NUTRIÇÃO ESPORTIVA EIRELI (fl. 54- SAJ) tratava-se de EIRELI, hoje Sociedade Limitada Unipessoal (art. 41 da Lei nº 14.195), e JOVAIR RODRIGUES CARDOSO empresário individual. Apesar desta empresa não possuir personalidade jurídica própria, a Nutrifon possuía e, portanto, não podem ser confundidas como a mesma pessoa, porque isso implicaria no afastamento do art. 49- A do Código Civil, o qual dispõe:
+ ..
+Percebe-se, assim, que o decisum também não se manifestou acerca do referido dispositivo legal, na medida em que reconheceu a identidade entre os destinatários meramente pela coincidência de sócios.
+Contudo, não evidenciam com clareza a contrariedade, tampouco possuem causa de pedir suficiente à compreensão da alegação.
+Nesse ponto, destaque-se:  "a  mera  menção  a  dispositivos  de  lei  federal  ou  mesmo  a  narrativa  acerca  da  legislação  que  rege  o  tema  em  debate,  sem  que  se  aponte  com  precisão  a  contrariedade  ou  a  negativa  de  vigência  pelo  julgado  recorrido,  não  preenchem  os  requisitos  formais  de  admissibilidade  recursal,  a  atrair  a  incidência  da  Súmula  284/STF"  (STJ,  AgRg  no  AREsp  n.  722.008/PB,  Relator  Ministro  HUMBERTO  MARTINS,  SEGUNDA  TURMA,  DJe  de  14/09/2015).
+Quanto à suposta omissão relacionada ao precedente do STJ no REsp n. 1.874.256, o recurso especial não merece provimento.
+Sobre essa questão, o Tribunal de origem foi claro sobre a questão neste trecho do acórdão recorrido (STJ fl. 328):
+De outro lado, também sem razão o Apelante ao suscitar a aplicação, por analogia, do entendimento firmado pelo c. STJ no julgamento do REsp n. 1.874.256.
+Ocorre que o referido entendimento está adstrito à limitação da responsabilidade na EIRELI e não impede o reconhecimento da existência de identidade subjetiva entre o destinatário constante na nota fiscal e o titular da EIRELI onde foram entregues as mercadorias em questão, de modo que está justificado o distinguish.
+Logo, o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou com contradição na prestação jurisdicional.
+Ademais, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como se confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Acerca do tema, importa ressaltar que não há omissão quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão recorrido.
+Além disso, nos termos da jurisprudência dessa Corte Superior, " ..  o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes, quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp n. 1.383.955/RJ, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/04/2018, DJe 13/04/2018).
+Desse modo, não se vislumbra nenhuma deficiência na fundamentação contida no acórdão recorrido.
+Por fim, o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise, razão pela qual deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo  interno.
+É  como  voto.
