@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO EM FASE DE CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO. DESNECESSIDADE. MEROS CÁLCULOS ARITMÉTICOS. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é firme quanto à prescindibilidade da liquidação de sentença nos casos em que os critérios para a apuração dos valores devidos estão previstos no título judicial, sendo suficiente a elaboração de meros cálculos aritméticos para se chegar ao valor devido.
+2. Alterar o decidido no acórdão impugnado, acerca da suficiência de cálculos aritméticos para se determinar o valor devido no presente caso, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por CREFISA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido no curso da ação revisional de contrato bancário ajuizada pela parte agravada.
+Opostos  embargos  de  declaração, foram rejeitados.
+No recurso especial, alega a parte recorrente ofensa ao art. 509 do CPC, dado que "o Tribunal a quo indeferiu o pedido de alteração da fase processual de cumprimento de sentença para liquidação de sentença, sem se atentar as peculiaridades do caso concreto, onde faz-se necessário a elaboração dos cálculos por profissional especializado" (fl. 97-98).
+Aponta, finalmente, dissídio jurisprudencial entre o acórdão recorrido e arestos desta Corte.
+Postulou o provimento.
+Apresentadas contrarrazões.
+Sobreveio o juízo de admissibilidade negativo na instância de origem, o que ensejou a interposição do presente agravo.
+Apresentada contraminuta ao agravo.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO EM FASE DE CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO. DESNECESSIDADE. MEROS CÁLCULOS ARITMÉTICOS. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é firme quanto à prescindibilidade da liquidação de sentença nos casos em que os critérios para a apuração dos valores devidos estão previstos no título judicial, sendo suficiente a elaboração de meros cálculos aritméticos para se chegar ao valor devido.
+2. Alterar o decidido no acórdão impugnado, acerca da suficiência de cálculos aritméticos para se determinar o valor devido no presente caso, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Extrai-se dos autos, "na espécie, o acertamento do efetivamente devido depende de simples operações quantum matemáticas, o que não retira a liquidez da obrigação constante do título e dispensa conhecimentos técnicos específicos" (fl. 26).
+O acórdão recorrido está em harmonia com a jurisprudência do Superior Tribunal de Justiça, que é firme quanto à prescindibilidade da liquidação de sentença nos casos em que os critérios para a apuração dos valores devidos estão previstos no título judicial, sendo suficiente a elaboração de meros cálculos aritméticos para se chegar ao valor devido. Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO E EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TÍTULO LÍQUIDO, CERTO E EXIGÍVEL. EXCESSO DE EXECUÇÃO. REJEIÇÃO LIMINAR. CABIMENTO. ART. 475-L, § 2º, DO CPC/1973. MEMÓRIA DE CÁLCULO. NECESSIDADE. LITERAL DISPOSIÇÃO DE LEI. COISA JULGADA. OFENSA. INEXISTÊNCIA. HONORÁRIOS. VALOR. EXORBITÂNCIA. NÃO OCORRÊNCIA. (..) 6. Se os critérios para o pagamento das diferenças encontradas na ação revisional já foram definidos na sentença transitada em julgado, sendo suficiente a elaboração de meros cálculos aritméticos para se apurar o valor devido, a liquidação se torna dispensável, nos termos do art. 475-B do CPC/1973. Precedentes. (..) 8. Agravo interno não provido.
+(AgInt no REsp n. 1.964.566/PB, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. OFENSA À COISA JULGADA NÃO CONFIGURADA. POSSIBILIDADE DE CUMPRIMENTO DE SENTENÇA SEM LIQUIDAÇÃO PRÉVIA. DECISÃO QUE NÃO FOI IMPUGNADA NO MOMENTO PROCESSUAL ADEQUADO. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. VALOR CORRETO QUE APENAS DEPENDIA DE CÁLCULOS ARITMÉTICOS. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. EXCESSO DE EXECUÇÃO NÃO EVIDENCIAD. MODIFICAÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO. (..) 2. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, bastando ao credor instruir o pedido com a memória discriminada e atualizada do cálculo. (..) 5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.341.993/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+Incide, in casu , a Súmula 83/STJ.
+Ademais, alterar o decidido no acórdão impugnado, acerca da suficiência de cálculos aritméticos para se determinar o valor devido no presente caso, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ. A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. NECESSIDADE DE PERÍCIA. PRECLUSÃO. IMPOSSIBILIDADE DE REDISCUTIR A LIDE OU MODIFICAR A SENTENÇA EM PROCEDIMENTO DE LIQUIDAÇÃO. MANUTENÇÃO DO ACÓRDÃO ESTADUAL. MANUTENÇÃO DA DECISÃO UNIPESSOAL. 1. Ação de liquidação de sentença por cálculos aritméticos. 2. O art. 509, § 4º, do CPC estabelece que é vedado discutir de novo a lide ou modificar a sentença que a julgou em sede de liquidação. 3. No particular, o Tribunal de origem entendeu ser dispensável a realização de perícia na origem, sendo cabível a liquidação por meros cálculos aritméticos. A reforma desse entendimento demandaria o reexame do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ. 4. Agravo interno não provido.
+(AgInt no AgInt no REsp n. 2.070.763/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+A incidência da Súmula 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+É como penso. É como voto.
