@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  ESPECIAL.  LITISCONSÓRCIO. ACORDO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  Nº  284/STF.  ANALOGIA.
+1. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+2.  Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas e de excertos de julgados.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  GMVB A R MORON APOIO EIRELI  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  por  aplicação  das  Súmulas  nº  284/STF  e nº 7/STJ (e-STJ  fls.  997/1.000).
+Nas  presentes  razões  (e-STJ  fls.  1.004/1.018),  a  agravante  alega,  em  síntese,  que  não  há  falar  em  aplicação  da  Súmula  nº  7/STJ, pois não se trata de reexame de fatos e provas. Ademais, afirma que a Súmula nº  284/STF é inaplicável,  visto que  foi  feita a demonstração do cotejo analítico e  a  indicação  clara  dos  dispositivos  legais  violados,  quais  sejam,  artigo 116 do Código de Processo Civil, e artigos 275 e 844, § 3º, do Código Civil .
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Foi  juntada  impugnação  (e-STJ  fls. 1.021/1.034).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  ESPECIAL.  LITISCONSÓRCIO. ACORDO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  Nº  284/STF.  ANALOGIA.
+1. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+2.  Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas e de excertos de julgados.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Os  argumentos  expendidos  nas  razões  do  agravo  interno  são  insuficientes  para  autorizar  a  reforma  da  decisão  atacada.
+Em relação à primeira controvérsia, não há como afastar a aplicação da Súmula nº 7/STJ, visto que o tribunal de origem assim decidiu acerca da violação dos artigos 116 do CPC, e 275 e 844, § 3º, do CC:
+"(..)
+Verifico que a tentativa do apelante em impedir o prosseguimento do feito em razão da homologação do acordo trazido aos autos juntamente com a requerida Banco Santander S. A., não pode prosperar.
+Observa-se que o acordo formulado satisfaz apenas os pedidos em relação ao Banco Santander S. A., excluindo-se as demais partes requeridas, i sso porque não se trata de litisconsórcio necessário, mas sim facultativo. Referido acordo não alcança os demais litisconsortes." (e-STJ fl. 886 - grifou-se).
+Assim, rever a conclusão do tribunal local acerca do conteúdo do acordo e da formação de litisconsórcio facultativo ou necessário demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Nesse sentido:
+"RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ACORDO HOMOLOGADO JUDICIALMENTE. POSTERIOR MODIFICAÇÃO DO JULGADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PRETENSÃO DE REJULGAMENTO. RECONHECIMENTO DA HIPÓTESE DE LITISCONSÓRCIO PASSIVO UNITÁRIO PELA CORTE DE ORIGEM. REVISÃO INVIÁVEL SEM O REVOLVIMENTO DE PROVAS E FATOS. SÚMULA N. 7 DO STJ. APLICAÇÃO DO ART. 1.005 DO CPC. AFRONTA À COISA JULGADA AFASTADA. TÍTULO EXECUTIVO DE EFICÁCIA PRECÁRIA. ANULAÇÃO INTEGRAL DO PROCESSO COLETIVO. RENOVAÇÃO DA INSTRUÇÃO E JULGAMENTO QUE SE ESTENDE A TODAS AS PARTES DO PROCESSO. NÃO
+PROVIMENTO.1. A controvérsia reside nas consequências do cumprimento provisório de sentença, quando há modificação do julgado e os reflexos no acordo celebrado e homologado judicialmente, tendo por objeto, justamente, a sentença condenatória posteriormente anulada.
+2. Não há falar em omissão e falta de fundamentação no acórdão se o Tribunal estadual motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, mas não no sentido pretendido pela parte.
+3. O regime do cumprimento provisório de sentença estabelece que, modificado o título executivo judicial, as partes serão restituídas ao estado anterior, liquidando-se eventuais prejuízos, de responsabilidade objetiva da exequente que assumiu o risco da antecipação executiva do julgado passível de ser alterado (art. 520, I e II, do CPC).
+4. Hipótese em que o TJSP, soberano na análise fático-probatória constante dos autos, entendeu pela ocorrência de litisconsórcio passivo unitário, cuja revisão esbarra na Súmula n. 7 do STJ, por demandar reapreciação dos fatos e provas constantes dos autos, notadamente, das nuances que envolvem a relação jurídica estabelecida entre as partes.
+5. A solidariedade entre os requeridos autoriza a aplicação do art. 1.005, parágrafo único, do Código de Processo Civil, de modo que acolhido o recurso especial de um dos requeridos, para anular integralmente o feito, impactará na esfera jurídica dos demais.
+Precedente.
+6. Não se verifica violação da coisa julgada formada pela sentença homologatória do acordo, na fase do cumprimento provisório da sentença desconstituída.
+7. A jurisprudência desta Corte Superior é pacífica no sentido de que o acordo homologado judicialmente não faz coisa julgada material, pois restringe-se aos aspectos formais da negociação das partes, mas, ainda que se considere um possível conflito entre as coisas julgadas, deve prevalecer aquela que se formou por último.
+Precedente.8. Recurso especial não provido."
+(REsp 2.062.876/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 19/5/2025, DJEN de 22/5/2025 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. 3. LITISCONSÓRCIO PASSIVO NECESSÁRIO. PRESCRIÇÃO. CONSUMAÇÃO. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 do STF e 211 do STJ, não sendo o caso de prequestionamento ficto/implícito.
+3. Na hipótese, verifica-se que rever o entendimento do acórdão recorrido, acerca da ausência de litisconsórcio passivo necessário e de que a prescrição não foi consumada, a qual foi efetivamente analisada nos embargos à execução opostos pela agravante, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada no âmbito do recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+6. Agravo interno improvido."
+(AgInt no AREsp nº 2.644.826/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CABIMENTO LEGAL. TAXATIVIDADE MITIGADA. AUSÊNCIA DE URGÊNCIA. SANEAMENTO DO FEITO. EXCLUSÃO DE LITISCONSORTE. SITUAÇÃO DIVERSA. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Somente é admissível a interposição do agravo de instrumento fora do rol previsto pelo art. 1.015 do CPC, quando, no caso concreto, for verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação (Tema n. 988 do STJ).
+2. Rever o entendimento do tribunal de origem acerca do reconhecimento da legitimidade passiva ad causam do litisconsórcio, por ocasião do saneamento do processo, demanda o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido."
+(AgInt no REsp n2.058.383/AM, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 26/8/2024, DJe de 28/8/2024).
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LITISCONSÓRCIO NECESSÁRIO. PRAZO DE DOIS ANOS. DECADÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se verifica a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. Alterar a convicção formada nas instâncias ordinárias quanto à viabilidade da formação de litisconsórcio passivo necessário, tendo em vista a natureza jurídica da relação jurídica e a necessidade da lide ser decidida de modo uniforme para todas as partes envolvidas, demandaria reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, nos termos da vedação prevista na Súmula n.º 7 do STJ.
+3. No âmbito da ação rescisória, a admissibilidade de modificações no polo passivo, seja para inclusão de litisconsortes passivos necessários, seja para a substituição de parte ilegítima, deve ser realizada, obrigatoriamente, até o escoamento do prazo bienal para o ajuizamento da ação rescisória, sob pena de se operar a decadência.
+(REsp n. 1.667.576/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/9/2019, DJe de 13/9/2019. No mesmo sentido, o AgInt no AREsp n. 2.172.110/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 5/9/2023, DJe de 15/9/2023).
+Aplicação da Súmula n.º 168 do STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp 1.776.359/DF, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LITISCONSÓRCIO PASSIVO NECESSÁRIO. NÃO OCORRÊNCIA. REFORMA DO ACÓRDÃO QUE DEMANDA REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. ÓBICE DAS SÚMULAS N. 5 E 7/STJ.
+1. O Tribunal de origem, com base nas premissas fáticas assentadas nos autos, concluiu que não há litisconsórcio passivo necessário.
+2. A reforma das conclusões a que chegou a instância de origem acerca da ocorrência ou não de litisconsórcio passivo necessário demandaria nova incursão no conjunto fático-probatório, esbarrando no óbice das Súmulas n. 5 e 7/STJ. Precedentes.
+Agravo interno improvido."
+(AgInt no AREsp 2.390.897/RS, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024 - grifou-se).
+Além disso, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Além disso, não há como aferir eventual dissídio jurisprudencial sem que tenham os acórdãos recorrido e paradigma examinado o tema com enfoque na mesma legislação infraconstitucional.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. 1. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. 3. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. 4. DANO MORAL. IN RE IPSA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula 284/STF.
+(..)."
+(AgInt no AREsp 2.203.568/GO, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022).
+Torna-se patente, assim, a falta de fundamentação do apelo nobre, circunstância que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
