@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ROSINALDO FERREIRA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos do Recurso em Sentido Estrito n. 006836-59.2006.8.14.0051.
+No recurso especial (fls. 657/663), a defesa requereu, em síntese, o afastamento da qualificadora, por total ausência de elementos probatórios acerca do recurso que dificultou/impossibilitou a defesa do ofendido, estando a decisão de pronúncia em descompasso com as premissas legais e jurisprudenciais (fl. 662). Apontou como violado o art. 121, § 2º, V, do Código Penal.
+Inadmitido o recurso na origem (fls. 670/676), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 679/688).
+O Ministério Público Federal opinou pelo desprovimento do presente agravo (fls. 713/714).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Quanto ao recurso especial em si, observo que a insurreição é inadmissível.
+De início, observo que a defesa certamente se confundiu ao delimitar como violado o inciso V do § 2º do art. 121 do Código Penal, uma vez que tal dispositivo não respalda a tese recursal.
+Com efeito, tal inciso refere-se à qualificadora que incide quando o crime for cometido para assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime; não versa, portanto, sobre o cerne da controvérsia: exclusão da qualificadora uso de recurso que dificulte ou torne impossível a defesa do ofendido (inciso IV).
+Logo, conforme já decidido por esta Corte, não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contém comando capaz de infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, a orientação posta na Súmula 284/STF (REsp n. 884.146/MT, Ministro Teori Albino Zavascki, Primeira Turma, DJ 16/8/2007, pág. 298 - grifo nosso).
+Assim, considerando a natureza vinculada do recurso especial e o fato de que o dispositivo indicado não ampara, por si só, a tese deduzida, é de rigor a incidência da Súmula 284/STF.
+Nesse sentido: AgRg no AREsp n. 2.842.334/SP, Ministro Otavio de Almeida Toledo (Desembargador convocado do TJ/SP), Sexta Turma, DJEN 27/5/2025.
+E, ainda que assim não fosse, observo que, ao apreciar a questão de mérito trazida no recurso, o Tribunal asseverou que, inexistindo prova plena que afaste indubitavelmente a procedência da qualificadora do caso em apreço, mais prudente a manutenção daquela circunstância, nesta fase do procedimento, cabendo ao Conselho de Sentença deliberar se o crime foi cometido por meio que impossibilitou a defesa da vítima, ou não (fl. 642).
+Segundo consta da sentença de pronúncia, todas as testemunhas foram uníssonas ao afirmar que o acusado surgiu de um lugar ermo já empunhando uma arma branca, tipo faca, não havendo qualquer menção à uma briga quando ambos se encontraram (fl. 526), acrescentando, ainda, que, na denúncia, foi narrado que o réu teria saído de trás de uma árvore, empunhando uma faca, em direção da vítima e de seus amigos, tendo conseguido alcança a vítima e apunhalado com um golpe no peito, nesta circunstâncias sem sombra de dúvidas tornou impossível a possibilidade de defesa da vítima caracterizando a qualificadora prevista no art. 121, § 2º, inciso IV, do Código Penal (fl. 527).
+Logo, a pleiteada desconstituição do entendimento firmado pelas instâncias ordinárias, com vistas à exclusão da qualificadora, como pretende o agravante, é medida que extrapolaria o âmbito de análise do especial, por exigir nova incursão no acervo fático dos autos.
+Com efeito, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela despronúncia do recorrente, desclassificação do delito ou mesmo para decotar as qualificadoras, conforme pleiteado pela defesa, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela já mencionada Súmula n. 7/STJ (AgRg no AREsp n. 1.726.405/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/3/2021).
+Nesse sentido também: AgRg no AREsp n. 1.769.543/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/11/2020.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SENTENÇA DE PRONÚNCIA. PLEITO DE EXCLUSÃO DA QUALIFICADORA. RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. DISPOSITIVO INDICADO COMO VIOLADO QUE SE REFERE À QUALIFICADORA DISTINTA. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. INCIDÊNCIA DA SÚMULA 284/STF. FUNDAMENTO SUBSIDIÁRIO. PLEITO QUE EXIGIRIA REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
