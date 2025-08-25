@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. OBRAS DE DUPLICAÇÃO NA BR-116. ABALOS NO SOLO. DANOS EM IMÓVEL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal local examina e decide, de modo claro e objetivo, as questões que delimitaram a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por VIABAHIA CONCESSIONÁRIA DE RODOVIAS S/A contra decisão monocrática proferida por esta Relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+A parte agravante, em suas razões recursais, sustenta negativa de prestação jurisdicional, sob o argumento de que "não fora observada a omissão quanto à análise desses argumentos e dessas provas que corroboram para inexistência de nexo de causalidade entre as obras da BR-116, realizadas pela Agravante, e os alegados as e totalmente omissas aos elementos probatórios apresentados pela concessionária" (fls. 1.305/1.306).
+Devidamente intimada, a parte agravada apresentou impugnação (e-STJ, fls.1.312/1.317).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. OBRAS DE DUPLICAÇÃO NA BR-116. ABALOS NO SOLO. DANOS EM IMÓVEL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal local examina e decide, de modo claro e objetivo, as questões que delimitaram a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não merece acolhida.
+Não prospera a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, Segunda Turma, DJe de 6/5/1996).
+Com efeito, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 1º/7/2019).
+Eis os fundamentos quando do julgamento proferido em sede de embargos de declaração:
+"Da análise respectiva, observa-se que os Apelados apontaram a existência de liame causal entre o tremor de terra provocado pela compactação do solo e os estragos reportados nos fólios.
+Consabido, para o deferimento da indenização por danos, devem estar comprovados os três pressupostos indispensáveis à sua configuração: conduta danosa, lesão à vítima e nexo causal entre ambos.
+(..) In casu, constata-se a presença dos requisitos ensejadores de responsabilidade civil, tendo a Magistrada entendido que houve culpa concorrente, porquanto revelada a participação de ambos os litigantes no episódio danoso.
+A título de ilustração, o seguinte excerto da sentença:
+"De acordo com a perícia, a construção afetada, de fato, não obedeceu às normas técnicas de engenharia aplicáveis, seja por fatores socioeconômicos, seja até mesmo pela antiguidade da obra. Tal deficiência contribui para o resultado lesivo, mas não afasta a possibilidade de o agravamento dos danos verificados ser atribuído às obras realizadas pelo réu, o que enseja a sua responsabilização.
+Embora tenha a ViaBahia apresentado impugnação às conclusões da perícia (ID 65998480) não indicou tecnicamente em quais pontos teria havido equívoco por parte da expert, bem como elementos de prova capazes de subsidiar seu descontentamento.
+Logo, conclui-se que mesmo que já exista problemas no imóvel, decorrentes da construção e deterioração natural da estrutura, a obra causou vibração que acelerou o aparecimento de danos de grande monta no imóvel de propriedade dos autores." A propósito, alguns trechos dos laudos periciais(ID"s 42884413 a 42884427):
+12. RESPOSTA AOS QUESITOS 12.1. PARTE AUTORA 1. Se a operacionalidade de rolo compactador, caçambas, patrol e outros tipos de máquinas pesadas utilizadas nas obras de duplicação produzem vibrações no solo e se essas vibrações podem causar danos às residências em questão;
+Sim. Apesar da não existência de norma ou legislação brasileira específica para determinação de limites de vibração em decorrência da execução de obras com utilização de máquinas e equipamentos, há diversos estudos internacionais que visam determinar o grau de incômodo de vibrações sobre as construções.
+2. Se houve um preparo estrutural nas estradas (caminho de serviços) em que as máquinas pesadas transitavam, carregando matéria prima ou operando na execução da obra de duplicação, suficiente para conter vibrações nas residências vizinhas;
+Não foi apresentado documento que comprove se houve preparo estrutural na estrada.
+3. Em observância à NBR 9653: 3.1 Se a empresa utilizou método de explosão na etapa de desmonte de rocha;
+Sim.
+3.2 Se o método da utilização de explosivos é mais rentável financeiramente comparando-se ao método de desmonte mecânico;
+Não é possível a realização dessa análise de forma profunda, pois fatores como disponibilidade de tecnologias construtivas, volume de atividade, tempo de execução e custos operacionais são fatores que variam de empresa para empresa. Porém em uma análise superficial de custo podemos utilizar a base de dados do Estado de Sergipe ORSE de forma a apresentar as seguintes composições e custos de serviços: 04497 /ORSE - Desmonte de rocha branda incluindo perfuração, explosivos e detonação com aplicação de malha convencional - R$ 44,69/m3 04522 /ORSE - Desmonte de rocha dura incluindo perfuração e argamassa expansiva - R$ 267,65/m3 Sendo assim o a perspectiva de ganho sobre o desmonte sem utilização de explosivos se apresenta mais rentável.
+4. Se as obras de duplicação não tivessem acontecido, os imóveis periciados teriam a mesma magnitude dos danos materiais encontrados no momento da execução dos laudos de inspeção.
+Não na mesma magnitude, porém devido a falta de rigor técnico evidente na execução das unidades e ausência de alguns elementos estruturais as construções se tornam frágeis e suscetíveis a movimentações naturais das estruturas de forma a provocar o surgimento de fissuras e rachaduras em paredes e pisos.
+Noutro giro, já foi reconhecido na sentença a existência de responsabilidades simultâneas no evento danoso, pois ambas as partes concorreram para o seu desenlace, delineando-se cenário ensejador de obrigações convergentes.
+Consabido, a culpa concorrente não está expressamente prevista como causa de exoneração da responsabilidade, porém funciona como critério de redução da indenização, o que fez a Juíza ao estipular a obrigação de pagamento em 50% do valor do dano material apurado." (e-STJ, fls. 1.130/1.133)
+Nesse contexto, como o julgado abordou todas as questões necessárias à integral solução da lide, não é possível cogitar de sua nulidade.
+Assim, rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. Tribunal de Justiça do Estado da Bahia analisou os pontos essenciais ao deslinde da controvérsia dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nessa linha de intelecção, confiram-se, ainda, os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIROS LIMINARMENTE REJEITADOS. INTERPOSIÇÃO DE APELAÇÃO. APRESENTAÇÃO DE CONTRARRAZÕES PELO EMBARGADO. POSTERIOR DESISTÊNCIA DO RECURSO. HOMOLOGAÇÃO. EMBARGOS DE DECLARAÇÃO OPOSTOS PELO EMBARGADO. ACOLHIMENTO PARA CONDENAÇÃO DA EMBARGANTE EM HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. INCONFORMISMO. OMISSÃO. INEXISTÊNCIA. CABIMENTO DE EMBARGOS DE DECLARAÇÃO CONTRA ATO JUDICIAL QUE HOMOLOGA DESISTÊNCIA. NATUREZA JURÍDICA DE DECISÃO. HONORÁRIOS DE SUCUMBÊNCIA CABÍVEIS. PRINCÍPIO DA CAUSALIDADE. DESISTÊNCIA MANIFESTADA APÓS OFERECIMENTO DE CONTRARRAZÕES. AGRAVO IMPROVIDO.
+1. Ainda que não examinados individualmente cada um dos argumentos suscitados pela parte, se o acórdão recorrido decide integralmente a controvérsia apresentando fundamentação adequada, não há que se falar em ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015. Nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2019).
+2. A desistência do recurso, não obstante seja uma liberalidade da recorrente e independa da anuência da parte contrária, somente produz efeitos após a homologação judicial (CPC/2015, art. 200, parágrafo único).
+3. O ato judicial que homologa a desistência tem a natureza jurídica de sentença, e não de mero despacho, conforme se depreende do disposto no art. 90, caput, do CPC/2015. Portanto, sujeita-se a embargos de declaração, uma vez que cabíveis contra qualquer decisão judicial (CPC/2015, art. 1.022, caput).
+4. Nos termos da jurisprudência desta Corte, "aquele que deu causa à instauração da demanda deve arcar com as verbas sucumbenciais, de modo que, extintos os embargos de terceiros sem resolução do mérito, os honorários de sucumbência ficam a cargo do embargante, conforme previsto no art. 85 do CPC/2015" (AgInt no AREsp 1.489.441/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 11/5/2020, DJe de 29/5/2020).
+5. No caso dos autos, embora a sentença tenha rejeitado liminarmente os embargos de terceiro opostos, a embargante, inconformada, interpôs apelação, tendo desistido de seu recurso apenas após o oferecimento das contrarrazões pelo embargado. Nesse contexto, a condenação da embargante ao pagamento de honorários de sucumbência revela-se acertada, tendo em vista o princípio da causalidade.
+6. "Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu" (CPC, art. 90, caput).
+7. Agravo interno improvido."
+(AgInt no REsp n. 1.850.632/MT, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023 - sem grifo no original).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. PRESTAÇÃO JURISDICIONAL. NEGATIVA. NÃO OCORRÊNCIA. ACIDENTE DE TRÂNSITO. CULPA EXCLUSIVA DA VÍT IMA. AUSÊNCIA. DANO MORAL. VALOR RAZOÁVEL. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 1. No caso, não subsiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+2. Na hipótese, rever a conclusão do acórdão recorrido acerca da ausência de comprovação de culpa exclusiva da vítima e da fixação de valor razoável como indenização por danos morais demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.249.880/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 26/6/2023, DJe de 30/6/2023 - sem grifo no original).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. (..). AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.261.529/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DO AUTOR.
+1. Violação aos artigos 489 e 1.022 do CPC não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão ou obscuridade.
+Precedentes.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.267.096/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023 - g. n.)
+Por fim, não merece ser acolhido o pedido formulado em impugnação do presente agravo interno quanto à incidência de multa.
+Na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1.120.356/RS, a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+A condenação da agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória.
+Na espécie, embora não tenha obtido êxito recursal, não se verifica, por ora, hipótese para aplicação de penalidade contra a parte agravante, nem por litigância de má-fé ou ato atentatório à dignidade da justiça, apenas porque se utilizou do recurso para obter pronunciamento do colegiado, em exercício regular do direito de recorrer.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
