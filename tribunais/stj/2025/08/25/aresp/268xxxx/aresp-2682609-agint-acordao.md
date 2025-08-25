@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. SOLIDARIEDADE. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA - COHAB-CT contra decisão singular de minha lavra na qual neguei provimento ao agravo em recurso especial pelos seguintes fundamentos: a) ausência de ofensa aos arts. 489, §1º, e 1.022, II, do CPC/2015; b) a revisão das premissas adotadas no acórdão recorrido quanto à responsabilidade solidária da recorrente demandaria o reexame de cláusulas contratuais, fatos e provas, o que esbarra no óbice das Súmulas 5 e 7 do STJ (fls. 942-944).
+Opostos embargos de declaração, foram rejeitados (fls. 963-965).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada violou o art. 265 do Código Civil e os arts. 489, §1º, e 1.022, II, do CPC/2015.
+Quanto à suposta ofensa ao art. 265 do Código Civil, sustenta que a solidariedade não se presume e deve resultar de lei ou da vontade das partes, inexistentes no caso.
+Argumenta, também, que houve contradição e obscuridade na decisão agravada, pois, embora tenha afirmado que a matéria foi enfrentada pelo Tribunal de origem , também reconheceu que a análise da responsabilidade solidária demanda reexame de fatos e provas.
+Haveria, por fim, violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem não apreciou a tese de responsabilidade subsidiária da COHAB-CT, resultando na necessidade de anulação do acórdão por negativa de prestação jurisdicional.
+Contraminuta ao agravo às fls. 979-984 na qual a parte agravada alega que a decisão é clara, coerente e devidamente fundamentada, abordando os pontos necessários à solução da controvérsia. Sustenta que a responsabilidade da COHAB-CT decorre do fato de ser proprietária do lote vizinho, executora da obra e responsável pela venda das casas financiadas pela Caixa, e que a revisão da decisão demandaria reexame de provas, vedado em sede de recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. SOLIDARIEDADE. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de ação de indenização por danos materiais e morais movida contra Baustelle Engenharia S.A. e Companhia de Habitação Popular de Curitiba - COHAB, na qual foram julgados parcialmente procedentes os pedidos iniciais, condenando-se solidariamente os réus à reparação dos danos materiais sofridos pelos autores.
+O Tribunal de origem manteve a sentença, reconhecendo a responsabilidade solidária da COHAB-CT, sob o fundamento que "como proprietária do lote limítrofe e executora da obra (mediante contratação da primeira ré) e encarregada da venda das casas mediante financiamento da Caixa Econômica a segunda ré responde pelos danos ocasionados aos vizinhos, nos termos do artigo 1.311 do Código Civil".
+Como se vê, o Tribunal de origem não reconheceu a solidariedade apenas por mera presunção, como alegado nas razões do presente recurso, mas porque foi reconhecido que a agravante era executora da obra e encarregada da vendas das casas, motivo pelo qual foi reconhecida a ausência de omissão no acórdão proferido pelo Tribunal de origem. Confira-se:
+Quanto à suposta violação aos arts. 489 e 1.022, ambos do CPC/2015, sob o fundamento de que a decisão foi obscura e contraditória em relação aos fundamentos que afastaram a tese relativa a sua ilegitimidade passiva e, também, que a solidariedade não se presume e deve resultar de lei ou acordo, inexistentes nos autos, não merece prosperar o recurso, uma vez que, no caso, a questão foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão do agravante.
+Isso porque, no julgamento do recurso de apelação, o Tribunal de origem consignou expressamente que "como proprietária do lote limítrofe e executora da obra (mediante contratação da primeira ré) e encarregada da venda das casas mediante financiamento da Caixa Econômica a segunda ré responde pelos danos ocasionados aos vizinhos, nos termos do artigo 1.311 do Código Civil". Confira-se:
+Prosseguindo: a segunda ré, sim, muito ao contrário do que ela sustenta, tem vínculos estreitos com o projeto habitacional, com o programa Minha Casa, Minha Vida, também conforme consta do seu site; ela constrói e vende as casas, tudo com financiamento da Caixa Econômica Federal:
+ ..
+Confirmando a completa vinculação da segunda ré à construção das casas há o que se encontra nos documentos de mov. 259.2. e 270.3.; este último o alvará de construção em nome da COHAB:
+ ..
+Aqui um extraída de uma afirmação da autora no argumento de prova contestação e nas razões de recurso: ela atendeu a algumas reclamações dos autores e "requisitou serviços de esboço na divisa e tomou providências como reparos no telhado; recuperação do telhado, realizando administrativamente a intermediação entre a empresa responsável e a autora da demanda"; ora, se assim agira então ele possuía o domínio da obra, ela conduzia o projeto, a ponto de enfrentar, e sanar, eventuais percalços surgidos durante a execução.
+Portanto, como proprietária do lote limítrofe e executora da obra (mediante contratação da primeira ré) e encarregada da venda das casas mediante financiamento da Caixa Econômica a segunda ré responde pelos danos ocasionados aos vizinhos, nos termos do artigo 1.311 do Código Civil  ..  (fls. 758/761).
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Como constou na decisão agravada, a revisão das premissas adotadas no acórdão recorrido quanto à responsabilidade solidária da agravante demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
