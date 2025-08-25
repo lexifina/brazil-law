@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito positivo de competência com pedido de liminar suscitado por PRÓ-SAÚDE ASSOCIAÇÃO BENEFICENTE DE ASSISTÊNCIA SOCIAL E HOSPITALAR (EM RECUPERAÇÃO JUDICIAL), envolvendo, de um lado, o JUÍZO DE DIREITO DA 3ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO (SP) e, de outro, o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CUBATÃO (SP).
+A suscitante argumenta que o JUÍZO DA 3ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO (SP) deferiu o processamento de sua recuperação judicial (Processo n. 1067393-13.2023.8.26.0100), estabelecendo um plano de recuperação que deve centralizar todas as ações de execução e a administração dos bens da recuperanda, com o objetivo de assegurar o cumprimento do princípio par conditio creditorum.
+Afirma, entretanto, que o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CUBATÃO (SP) determinou o prosseguimento do Cumprimento de Sentença n. 0000735-23.2018.8.26.0157, o que afronta a competência do Juízo da recuperação e compromete a sistemática de preservação do ativo, nos termos da legislação especial.
+A liminar foi deferida para suspender os efeitos da decisão do Juízo de Direito da 1ª Vara Cível de Cubatão (SP) que, nos autos do Cumprimento de Sentença n. 0000735-23.2018.8.26.0157, autorizou a liberação dos valores depositados, tendo sido designado o Juízo da 3ª Vara de Falências e Recuperações Judiciais de São Paulo (SP) para decidir, em caráter provisório, as medidas urgentes (fls. 92-94).
+Vieram aos autos as informações prestadas pelo Juízo da recuperação judicial, no sentido de que o plano está em andamento, inclusive com determinação expressa para que todos os valores constritos em execuções individuais sejam direcionados ao Juízo universal, razão pela qual solicitará à 1ª Vara Cível de Cubatão (SP) a remessa do numerário (fls. 99-104).
+O Ministério Público Federal manifestou-se pelo não conhecimento do conflito com remessa dos autos ao Tribunal de Justiça do Estado de São Paulo por se tratar de Juízos vinculados ao mesmo Tribunal (fls. 109-111).
+É o relatório. Decido.
+Razão assiste ao Ministério Público Federal, uma vez que o STJ já firmou entendimento no sentido de que não tem competência para julgar conflito de competência entre juízos vinculados ao mesmo tribunal .
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO. CONFLITO DE COMPETÊNCIA. AÇÃO ANULATÓRIADE ARREMATAÇÃO. CONFLITO INSTAURADO ENTRE JUÍZES VINCULADOS AO MESMOTRIBUNAL. NÃO CABIMENTO. AÇÃO DE USUCAPIÃO. BEM IMÓVEL NÃOINTEGRANTE DO ACERVO PATRIMONIAL DA MASSA FALIDA.
+- Não cabe ao STJ dirimir conflitos de competência estabelecidos entre juízes vinculados ao mesmo tribunal. Precedentes.
+- O juízo falimentar atrai as ações que envolvam bens, negócios e interesses do falido - integrantes da massa falida -, conforme preceitua o art. 76 da Lei 11.101/2005. A contrario sensu, tratando-se de bens que não integram o acervo patrimonial da falida, não há falar na vis attractiva do Juízo Falimentar.
+- A ausência de impugnação específica aos fundamentos da decisão agravada inviabiliza o exame do agravo contra ela interposto.
+- Agravo não provido. (AgRg no CC n. 116.417/RJ, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 24/10/2012, DJe de 26/10/2012.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. INEXISTÊNCIA DE MANIFESTAÇÃO DE SEGUNDO JUÍZO VINCULADO A TRIBUNAL DIVERSO SOBRE A COMPETÊNCIA PARA JULGAR A PRESENTE AÇÃO. AUSÊNCIA DOS PRESSUPOSTOS LEGAIS DE CABIMENTO.
+1. Nos termos do art. 105, I, d, da CF: Compete ao Superior Tribunal de Justiça  ..  processar e julgar, originariamente  ..  os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, o, bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos.
+2. No caso, a despeito de o Juiz Trabalhista ter-se declarado incompetente para o julgamento de ação de cobrança de taxa devida à Ordem dos Músicos do Brasil (art. 53 da Lei 3.857/60), o Tribunal Regional do Trabalho da Quarta Região - Sodalício a que se encontra vinculado aquele mesmo magistrado -reformou tal decisum, reconhecendo a competência da Justiça laboral para feitos como o presente.
+3. Não há, pois, conflito a ser dirimido pelo Superior Tribunal de Justiça ante a ausência de controvérsia entre dois ou mais juízes vinculados a tribunais diversos sobre sua competência para o julgamento da ação em tela.
+4. Agravo interno não provido. (AgInt nos EDcl no CC n. 160.735/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 12/6/2019, DJe de 18/6/2019, destaquei.)
+AGRAVO REGIMENTAL EM CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. DISSENSO VERIFICADO ENTRE JUÍZES DE UM MESMO TRIBUNAL. HIPÓTESE NÃO CONTEMPLADA NO ART. 105, I, D, DA CF/1988. INCOMPETÊNCIA DESTA CORTE.
+1. Se após sucessivas decisões declinatórias de competência, o dissenso verificado ficou restrito a dois juízes vinculados a um mesmo Tribunal, não há falar em competência desta Corte para julgar o conflito, uma vez que tal hipótese não está contemplada no art. 105, I, d, da Constituição Federal/1988.
+2. Agravo regimental improvido. (AgRg no CC n. 157.760/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 9/5/2018, DJe de 15/5/2018, destaquei.)
+Ante o exposto, não conheço do conflito de competência, revogando a liminar antes concedida.
+Publique-se. Intimem-se.
+EMENTA
