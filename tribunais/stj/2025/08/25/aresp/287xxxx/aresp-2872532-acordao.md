@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO.
+1. O não enfrentamento, pela corte de origem, de questão ventilada nos aclaratórios e imprescindível à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, autorizando o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Agravo conhecido para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por BANCO BRADESCO S/A contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado:
+"DIREITOS CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. EXPURGOS INFLACIONÁRIOS DECORRENTES DO PLANO VERÃO (JANEIRO/1989). CORREÇÃO DO SALDO DA CADERNETA DE POUPANÇA. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. PRESCRIÇÃO VINTENÁRIA. APLICAÇÃO DO PERCENTUAL DE 42,72%, COM BASE NO ÍNDICE DE PREÇOS AO CONSUMIDOR (IPC). ENTENDIMENTO CONSOLIDADO PELO STJ EM RECURSO REPETITIVO. PRECEDENTES DO STJ. DESPROVIMENTO DO APELO." (e-STJ fl. 202)
+Embargos de declaração rejeitados (e-STJ fls. 442/447).
+A recorrente aponta violação dos arts. 1.022, inc. II, e 489, § 1º, inc. IV, do Código de Processo Civil; e dos arts. 5º, incs. XXXV e XXXVI, da Constituição Federal de 1988.
+Alega que o acórdão recorrido é nulo por omissão, uma vez que o Tribunal de Justiça do Rio Grande do Norte não se manifestou expressamente sobre questões ventiladas nos embargos de declaração opostos contra o acórdão da apelação, violando o dever de fundamentação das decisões judiciais.
+Assinala que, apesar de os embargos de declaração terem apontado vícios específicos - como a ausência de direito adquirido da autora aos índices de correção monetária pleiteados, a incorreta estipulação de juros de mora e a necessidade de sobrestamento do processo em razão de decisões do Supremo Tribunal Federal (STF) sobre os Temas 264, 265, 284 e 285 de Repercussão Geral -, o TJRN rejeitou os embargos com fundamentos genéricos, sem enfrentar os pontos suscitados, o que configura omissão insanável e prejudica o acesso aos tribunais superiores.
+Explica que o processo origina-se de ação de cobrança ajuizada em outubro de 2008 por Margarida Florentino de Souza contra o Banco Bradesco S/A, visando receber os reflexos financeiros dos expurgos inflacionários decorrentes dos Planos Econômicos Verão e Collor I, tendo a sentença de primeira instância (proferida em 26/04/2010) julgado o pedido parcialmente procedente apenas quanto ao Plano Verão, decisão mantida pelo acórdão da apelação em 27/03/2024.
+Argumenta que o TJRN omitiu-se quanto à determinação de suspensão nacional de processos em fase recursal, conforme decisões do STF (como a monocrática do Min. Gilmar Mendes em 16/04/2012 no RE 632.212 e a do Min. Dias Toffoli em 01/10/2010), que impõem o sobrestamento de ações envolvendo expurgos inflacionários dos Planos Econômicos, exceto aquelas em fase instrutória ou executiva, o que atesta a nulidade do julgado e a violação de lei federal.
+Contrarrazões às fls. 461/467, do e-STJ.
+O recurso especial foi obstado na origem, o que deu ensejo à interposição deste agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO.
+1. O não enfrentamento, pela corte de origem, de questão ventilada nos aclaratórios e imprescindível à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, autorizando o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Agravo conhecido para dar parcial provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial
+O recurso não merece prosperar.
+Primeiro, cabe assinalar que não se examina a alegação de ofensa a dispositivos da Constituição Federal, em sede de recurso especial, pois é matéria própria do recurso extraordinário.
+Em resumo, a parte alega a omissão do Tribunal de origem sobre a ausência de direito adquirido à correção de saldos de poupança, a incorreta aplicação dos juros de mora e o pedido de sobrestamento do feito.
+Consigna-se, desde já, que a alegação de ausência de direito adquirido demonstra a irresignação da parte contra o desfecho de mérito da controvérsia, de modo que deveria ter sido objeto de recurso específico, e não de embargos de declaração.
+Nesse aspecto, portanto, inexiste omissão da Corte de origem.
+O pedido de suspensão do feito foi assim examinado no acórdão recorrido:
+"O feito trata exclusivamente do Plano Verão. Dos Recursos Extraordinários mencionados pelo embargante, somente o RE 626.307 trata do Plano Verão (além do Plano Bresser) - Tema 264. No referido RE, houve o sobrestamento das ações que discutiam essa matéria até 17/12/2019, conforme determinado pelo STF. Porém, a Ministra Cármen Lúcia expressamente indeferiu novo pedido de suspensão nacional dos processos que tratam dos Planos Verão e Bresser, conforme decisão publicada no DJE de 24/04/2019, não havendo ordem de suspensão sobre esta demanda a caracterizar omissão no decisum.
+O embargante mencionou também a homologação de acordo judicial, pelo prazo de 60 meses, deferido na ADPF 165. Ocorre que, na mesma decisão homologatória, foi expressamente indeferido o pedido genérico de suspensão de processos individuais e coletivos das ações que versam sobre os planos econômicos.
+A decisão do Min. Gilmar Mendes no RE 631.363 - Tema 284 (Plano Collor I) e no RE 632.212 - Tema 285 (Plano Collor II), proferida em 07/04/2020, ressaltada pelo embargante, somente suspendeu o curso dos referidos recursos e não das demais ações com matéria semelhante em tramitação em todo o país. Ademais, os RE 631.363 e 632.212 não tratam do Plano Verão, cuja matéria é a discutida nesta demanda.
+Ausente omissão no acórdão quanto a determinar a suspensão da ação." (e-STJ fl. 443)
+Também não há omissão, nesse capítulo.
+Entretanto, a Corte de Apelação não se manifestou sobre o termo inicial dos juros de mora, que, como defendido pela parte nos embargos de declaração (e-STJ fl. 434), deve ser a data da citação, e não a data de "quando se tornaram devidos  os reflexos dos expurgos ", como fixado na sentença.
+Há, portanto, omissão do Tribunal a quo sobre esse tema.
+Assim, não tendo o tribunal local enfrentado questão necessária ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do Código de Processo Civil, a fim de anular o acórdão recorrido para suprir a omissão existente. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO. AUSÊNCIA DE NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. NECESSIDADE DE EXAME, PELO TRIBUNAL ESTADUAL, DE QUESTÃO SUSCITADA EM EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS QUE SE IMPÕE. DECISÃO AGRAVADA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte de Justiça entende que "a legislação processual permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt nos EDcl no REsp n. 1.936.474/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/2/2022 , DJe de 24/2/2022).
+2. O Tribunal estadual deixou de sanar omissão sobre questão suscitada em embargos de declaração, a qual é essencial para o deslinde da controvérsia, revelando-se medida salutar o retorno dos autos para que o órgão competente realize novo julgamento dos aclaratórios, com a devida apreciação da matéria nele levantada. 3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a regra do art. 489, § 1º, VI, do CPC/2015, segundo a qual o juiz, para deixar de aplicar enunciado de súmula, jurisprudência ou precedente invocado pela parte, deve demonstrar a existência de distinção ou de superação, somente se aplica às súmulas ou precedentes vinculantes, mas não às súmulas e aos precedentes apenas persuasivos" (REsp n. 1.698.774/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2020, DJe de 9/9/2020.
+(..)
+5. Agravo interno desprovido." (AgInt no AREsp 2.579.991/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 18/9/2024 - grifou-se)
+"AGRAVO INTERNO. RECURSO ESPECIAL. TRANSPORTE DE MEDICAMENTOS. LEI DO VALE-PEDÁGIO. ILEGITIMIDADE DE PARTE. ALEGAÇÃO DE QUE UMA DAS PARTES É MERA DISTRIBUIDORA. OFENSA AOS PRINCÍPIOS DA BOA-FÉ CONTRATUAL E DO NON VENIRE CONTRA FACTUM PROPRIUM. IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL. PEDIDO SUCESSIVO DE ABATIMENTOS SOBRE A CONDENAÇÃO. AUSÊNCIA DE EXAME. ARTIGOS 489 E 1.022 DO CPC. OMISSÃO. EXISTÊNCIA.
+1. Não havend o o Tribunal de origem apreciado as matérias suscitadas desde a contestação e reiteradas nos embargos de declaração opostos pela ora agravante, configurada está a ofensa aos artigos 489 e 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+(..)
+4. Agravo interno e recurso especial providos. Acórdão dos embargos de declaração cassado. Prejudicado o agravo em recurso especial interposto declaração cassado. Prejudicado o agravo em recurso especial interposto pelos autores." (AgInt no REsp 1.823.417/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 6/3/2023 - grifou-se)
+Ficam prejudicadas as demais questões suscitadas no recurso especial.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a matéria acima especificada, como entender de direito.
+É o voto.
