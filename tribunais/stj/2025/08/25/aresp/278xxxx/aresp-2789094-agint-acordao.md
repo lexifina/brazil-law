@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito do consumidor. Agravo interno. Responsabilidade objetiva de instituição financeira. Fraude em transações bancárias. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto por instituição financeira contra decisão que negou provimento a recurso especial, em ação de declaração de inexistência de débito cumulada com indenização por danos morais. A parte autora pleiteou a declaração de inexigibilidade de valores relativos a empréstimos pessoais não realizados e reparação por danos morais.
+2. A sentença de primeiro grau julgou improcedente o pedido, mas a Corte estadual reformou a decisão, declarando a inexistência da dívida, condenando a instituição financeira à restituição dobrada dos valores descontados e ao pagamento de indenização por danos morais.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a instituição financeira pode ser responsabilizada objetivamente por fraudes em transações bancárias realizadas mediante uso de cartão magnético e senha pessoal, quando não demonstrada a culpa exclusiva do consumidor ou de terceiro.
+4. A parte agravante alega que as transações foram realizadas de maneira regular e que houve falha no dever de cuidado por parte do consumidor, afastando a responsabilidade da instituição financeira.
+III. Razões de decidir
+5. A responsabilidade da instituição financeira por fraudes praticadas por terceiros é objetiva e somente pode ser afastada quando demonstrada a culpa exclusiva da vítima ou de terceiro.
+6. O acórdão recorrido concluiu que houve falha na prestação dos serviços bancários, uma vez que a instituição financeira não apresentou prova desconstitutiva das alegações do autor, como gravações internas que poderiam identificar o responsável pelas transações.
+7. A revisão das conclusões do Tribunal de origem demandaria reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. A responsabilidade da instituição financeira por fraudes em transações bancárias é objetiva e somente pode ser afastada quando demonstrada a culpa exclusiva da vítima ou de terceiro. 2. A ausência de prova desconstitutiva das alegações do autor mantém a responsabilidade da instituição financeira".
+Dispositivos relevantes citados: CDC, art. 14; CC, art. 927; CPC, arts. 373, I, e 374, III.
+Jurisprudência relevante citada: STJ, AgInt no REsp 2.108.642/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024; STJ, REsp 2.124.423/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/8/2024.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO BRADESCO S.A. contra a decisão de fls. 550-559, que negou provimento ao recurso especial.
+A parte agravante aduz que as circunstâncias fáticas utilizadas podem ser revaloradas e configuram tema de ordem pública, afastando a incidência da Súmula n. 7 do STJ à espécie.
+Afirma que as operações efetuadas por meio de cartão magnético ocorreram de maneira regular e eletrônica, mediante autenticação biométrica do titular ou por intermédio de terceiro que detinha posse legítima do cartão e da senha pessoal, não se verificando qualquer falha na prestação do serviço por parte do Banco Bradesco.
+Sustenta que, considerando que as operações questionadas somente poderiam ter sido concretizadas mediante o uso simultâneo do cartão e da senha pessoal do autor, houve falha no dever de cuidado por parte do consumidor, afastando qualquer responsabilidade do recorrente quanto aos prejuízos supostamente sofridos.
+Requer o provimento do agravo interno, a fim de que o Exmo. Ministro relator reconsidere a decisão agravada ou submeta o presente recurso à apreciação do órgão colegiado competente.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 571.
+É o relatório.
+EMENTA
+Direito do consumidor. Agravo interno. Responsabilidade objetiva de instituição financeira. Fraude em transações bancárias. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto por instituição financeira contra decisão que negou provimento a recurso especial, em ação de declaração de inexistência de débito cumulada com indenização por danos morais. A parte autora pleiteou a declaração de inexigibilidade de valores relativos a empréstimos pessoais não realizados e reparação por danos morais.
+2. A sentença de primeiro grau julgou improcedente o pedido, mas a Corte estadual reformou a decisão, declarando a inexistência da dívida, condenando a instituição financeira à restituição dobrada dos valores descontados e ao pagamento de indenização por danos morais.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a instituição financeira pode ser responsabilizada objetivamente por fraudes em transações bancárias realizadas mediante uso de cartão magnético e senha pessoal, quando não demonstrada a culpa exclusiva do consumidor ou de terceiro.
+4. A parte agravante alega que as transações foram realizadas de maneira regular e que houve falha no dever de cuidado por parte do consumidor, afastando a responsabilidade da instituição financeira.
+III. Razões de decidir
+5. A responsabilidade da instituição financeira por fraudes praticadas por terceiros é objetiva e somente pode ser afastada quando demonstrada a culpa exclusiva da vítima ou de terceiro.
+6. O acórdão recorrido concluiu que houve falha na prestação dos serviços bancários, uma vez que a instituição financeira não apresentou prova desconstitutiva das alegações do autor, como gravações internas que poderiam identificar o responsável pelas transações.
+7. A revisão das conclusões do Tribunal de origem demandaria reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. A responsabilidade da instituição financeira por fraudes em transações bancárias é objetiva e somente pode ser afastada quando demonstrada a culpa exclusiva da vítima ou de terceiro. 2. A ausência de prova desconstitutiva das alegações do autor mantém a responsabilidade da instituição financeira".
+Dispositivos relevantes citados: CDC, art. 14; CC, art. 927; CPC, arts. 373, I, e 374, III.
+Jurisprudência relevante citada: STJ, AgInt no REsp 2.108.642/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024; STJ, REsp 2.124.423/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/8/2024.
+VOTO
+O recurso não merece prosperar.
+A controvérsia diz respeito à responsabilidade do Banco Bradesco S.A. por transações realizadas mediante uso de cartão magnético e senha pessoal, em ação de declaração de inexistência de débito cumulada com indenização por danos morais, em que a parte autora pleiteou a declaração de inexigibilidade do valor relativo aos empréstimos pessoais não realizados e o pagamento de reparação por danos morais. O valor da causa foi fixado em R$ 15.910,00.
+A decisão agravada deve ser mantida por seus próprios fundamentos, assim expressos (fls. 550-559):
+Decido.
+Trata-se de ação de declaração de inexistência de débito cumulada com indenização por danos morais, em que a parte autora pleiteou a declaração de inexigibilidade do valor relativo aos empréstimos pessoais não realizados e o pagamento de reparação por danos morais no valor de R$ 10.600,00.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido formulado na inicial, condenando a parte promovente ao pagamento de custas e honorários advocatícios, no percentual de 10% sobre o valor da causa, com suspensão do pagamento enquanto perdurar o estado de carência que justificou a concessão da justiça gratuita.
+A Corte estadual reformou a sentença, declarando a inexistência da dívida referente aos contratos de empréstimos questionados, condenando a parte ré à restituição, de forma dobrada, dos valores descontados em razão dos empréstimos, e ao pagamento de indenização por danos morais no valor de R$ 5.000,00, além de fixar os honorários advocatícios em 15% do valor da condenação.
+I - Art. 1.022, II, do CPC
+A parte recorrente alega omissão no acórdão quanto aos seguintes fatos: o saque em conta-corrente foi realizado mediante o uso de cartão magnético; o ônus de provar que o saque não foi feito por meio da senha pessoal é da parte autora; não houve comprovação pela parte autora dos fatos constitutivos do seu direito; e o extrato juntado aos autos não deixa dúvida de que os saques foram realizados pelo próprio correntista ou pessoa com acesso ao cartão e à senha.
+O acórdão recorrido rejeitou os embargos de declaração, afirmando que não houve omissão, contradição ou obscuridade e que o recurso integrativo não se presta a determinar o reexame do conjunto da matéria, com ampla rediscussão das questões.
+Transcrevo o seguinte trecho do acórdão recorrido (fl. 412):
+Pela leitura atenta da decisão, verifica-se claramente que houve a solução da lide de forma devidamente fundamentada, com a análise das questões postas pelas partes e em estrita consonância aos elementos constantes nos autos e a legislação aplicável ao caso, não havendo que se cogitar em contradição que possa ser sanada por meio de embargos de declaração.
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e que adote fundamentos cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Art. 14 do CDC e 927 do CC
+A recorrente afirma que houve violação dos arts. 14 do CDC e 927 do CC, alegando a culpa exclusiva do consumidor, pois as transações foram realizadas mediante emprego de cartão com chip e uso da senha pessoal.
+O acórdão recorrido concluiu, a partir dos elementos fático-probatórios dos autos - boletim de ocorrência e extrato bancário - que houve falha na prestação dos serviços bancários e que terceiro, passando-se por funcionário do banco, abordou a vítima e agiu para visualizar senha e trocar o cartão, realizando no mesmo dia e no dia seguinte empréstimos pessoais totalizando mais de cinco mil reais em prejuízos. Acrescentou-se que o banco recorrente não apresentou qualquer prova desconstitutiva das alegações, o que, atrelado ao disposto no art. 14 do CDC, atrai a responsabilidade objetiva pelo resultado danoso.
+Nos seguintes termos do acórdão (fl. 299-300):
+Conforme boletim de ocorrência (evento n.º 19017207) e extrato bancário (evento n.º 19017210) anexados aos autos, é fato incontroverso que, no dia 06.01.2022, o recorrente encontrava-se dentro da agência bancária realizando saque de sua aposentadoria rural, quando teve dificuldades em utilizar o caixa eletrônico e veio a necessitar de ajuda de terceiro, que reputava ser funcionário do banco.
+Ocorre que, na oportunidade, aquela pessoa se aproveitou do momento, abordou a vítima, agiu para visualizar a senha e trocar o cartão, realizando no mesmo dia e no dia seguinte empréstimos pessoais nos valores respectivos de R$ 4.000,00 (quatro mil reais) e de , totalizando R$ 1.310,00 (mil trezentos e dez reais) R$ 5.310,00 (cinco mil trezentos e dez reais).
+No caso dos autos, friso que o Banco réu, pretenso credor, não acostou qualquer outra prova desconstitutiva das alegações do recorrente, para que restasse legítima a cobrança do débito, já que, embora afirme que o empréstimo foi realizado no terminal eletrônico e com senha e cartão do autor, poderia ter apresentado, ao menos, a gravação interna do sistema de monitoramento, por meio do qual facilmente seria possível a identificação de quem realmente realizou os citados empréstimos nos dias 6 e 7 de janeiro de 2022 e quem realmente ofereceu ajuda e realizou a troca de cartão.
+Assim, para adotar conclusão diversa daquela a que chegou a Corte estadual, seria imprescindível o reexame dos fatos e provas dos autos, medida vedada pela Súmula n. 7 do STJ.
+A orientação firmada pela Corte de origem está em consonância com a jurisprudência deste STJ, segundo a qual, "a responsabilidade da instituição financeira por fraudes praticadas por terceiros, das quais resultam danos aos consumidores, é objetiva e somente pode ser afastada quando existir culpa exclusiva da vítima ou de terceiro" (AgInt no REsp n. 2.108.642/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Dessa maneira, uma vez não foi demonstrada pela instituição financeira a culpa exclusiva da vítima ou de terceiro, não há como rever o entendimento firmado pelo Tribunal de origem a respeito do tema.
+III - Arts. 373, I e 374, III, do CPC
+Sustenta que não foram comprovados os fatos constitutivos do direito do autor, que não comprovou a prática de nenhum ilícito ou prestação de serviço defeituosa por parte do banco.
+O acórdão recorrido concluiu que o banco não apresentou prova desconstitutiva das alegações do recorrente e que a responsabilidade objetiva da instituição financeira não foi afastada.
+Confira-se trecho do acórdão recorrido (fl. 332):
+No caso dos autos, friso que o banco réu, pretenso credor, não acostou qualquer outra prova desconstitutiva das alegações do recorrente, para que restasse legítima a cobrança do débito, já que, embora afirme que o empréstimo foi realizado no terminal eletrônico e com senha e cartão do autor, poderia ter apresentado, ao menos, a gravação interna do sistema de monitoramento, por meio do qual facilmente seria possível a identificação de quem realmente realizou os citados empréstimos nos dias 6 e 7 de janeiro de 2022 e quem realmente ofereceu ajuda e realizou a troca de cartão.
+Na hipótese dos autos, a revisão das conclusões proferidas pelo Colegiado estadual quanto à responsabilização objetiva do recorrente, que deverá responder pelos danos causados, uma vez que não se verificou no caso em análise culpa exclusiva da recorrida, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Por oportuno, consoante jurisprudência do STJ, "se a instituição financeira não demonstrar que cumpriu com as diligências que dela se esperava, contrariando as regulamentações dos órgãos competentes, resta configurada a falha no dever de segurança" (REsp n. 2.124.423/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+Dessa forma, uma vez não realizada qualquer contraprova das alegações da parte recorrida, não há razão para se reformar o acórdão recorrido.
+IV - Divergência jurisprudencial
+A recorrente argumenta que o acórdão recorrido divergiu da jurisprudência do STJ, que exclui a responsabilidade da instituição financeira nos casos em que as transações contestadas foram feitas com o cartão original e mediante uso de senha pessoal do correntista.
+O acórdão recorrido não reconheceu a exclusão de responsabilidade, afirmando que a instituição financeira deve responder objetivamente pelos danos causados aos seus clientes na prestação de serviços.
+Contudo, no tocante ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Conforme pontuado na decisão agravada, a parte recorrente não apresentou prova desconstitutiva das alegações do recorrente para que se confirmasse legítima a cobrança do débito, já que, embora afirme que o empréstimo foi realizado no terminal eletrônico e com senha e cartão do autor, poderia ter apresentado, ao menos, a gravação interna do sistema de monitoramento, por meio do qual facilmente seria possível a identificação de quem realmente realizou os citados empréstimos nos dias 6 e 7 de janeiro de 2022 e quem realmente ofereceu ajuda e realizou a troca de cartão.
+Assim, não obstante as alegações apresentadas neste agravo interno em relação à responsabilidade do consumidor, não há como afastar a aplicação da Súmula n. 7 do STJ.
+De igual modo, não prospera o recurso no que se refere à alegação de culpa exclusiva do consumidor em decorrência de as transações terem sido realizadas mediante emprego de cartão com chip e uso da senha pessoal.
+O acórdão recorrido concluiu que houve falha na prestação dos serviços bancários e que terceiro, passando-se por funcionário do banco, abordou a vítima e agiu para visualizar senha e trocar o cartão, realizando no mesmo dia e no dia seguinte empréstimos pessoais totalizando mais de cinco mil reais em prejuízos. Nesse contexto, a responsabilidade da instituição financeira por fraudes praticadas por terceiros, das quais resultam danos aos consumidores, é objetiva e somente pode ser afastada quando existir culpa exclusiva da vítima ou de terceiro.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
