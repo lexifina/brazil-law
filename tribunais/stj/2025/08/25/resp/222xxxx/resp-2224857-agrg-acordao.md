@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL PROVIDO. ESTELIONATO PREVIDENCIÁRIO. AGRAVANTE DE PAGA OU PROMESSA DE RECOMPENSA. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que deu provimento ao recurso ministerial para readequar a pena da recorrida para 2 anos, 7 meses e 3 dias de reclusão, além de 43 dias-multa, mantidos o regime aberto e a substituição da pena, condenada que foi por estelionato previdenciário.
+2. A defesa alega que a promessa de pagamento é inerente à própria dinâmica do crime de estelionato, não configurando um elemento acessório capaz de justificar a incidência da agravante do art. 62, IV, do Código Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em definir se a circunstância de o delito de estelionato ter sido praticado mediante paga ou promessa de recompensa é ou não inerente ao tipo penal do art. 171, § 3º, do Código Penal, de modo a permitir ou não a aplicação da correspondente agravante do art. 62, IV, do Código Penal.
+III. Razões de decidir
+4. O pagamento ou promessa de recompensa não constitui elementar do tipo penal do art. 171 do Código Penal, permitindo a aplicação da agravante do artigo 62, IV, do Código Penal.
+5. A promessa de recompensa não integra o preceito primário do crime de estelionato previdenciário, sendo uma motivação específica do agente, distinta da motivação genérica de obtenção de vantagem econômica.
+6. O Superior Tribunal de Justiça já se manifestou no sentido de que o fato de o réu ter agido mediante promessa de recompensa não integra o elemento nuclear do crime de estelionato previdenciário, mantendo a incidência da agravante.
+IV. Dispositivo
+7. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANA MARIA DA SILVA contra decisão monocrática que deu provimento ao recurso ministerial para readequar a pena da recorrida para 2 anos, 7 meses e 3 dias de reclusão, além de 43 dias-multa, mantidos o regime aberto e a substituição da pena, condenada que foi por estelionato previdenciário.
+A agravante, por intermédio da Defensoria Pública, aduz em síntese que "a conduta no estelionato mediante paga ou promessa de recompensa não pode ser dissociada da intenção de vantagem ilícita. Assim, a promessa ou pagamento é inerente à própria dinâmica do crime de estelionato, não configurando um elemento acessório capaz de justificar a incidência da agravante do artigo 62, IV, do Código Penal".
+É  o  relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL PROVIDO. ESTELIONATO PREVIDENCIÁRIO. AGRAVANTE DE PAGA OU PROMESSA DE RECOMPENSA. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que deu provimento ao recurso ministerial para readequar a pena da recorrida para 2 anos, 7 meses e 3 dias de reclusão, além de 43 dias-multa, mantidos o regime aberto e a substituição da pena, condenada que foi por estelionato previdenciário.
+2. A defesa alega que a promessa de pagamento é inerente à própria dinâmica do crime de estelionato, não configurando um elemento acessório capaz de justificar a incidência da agravante do art. 62, IV, do Código Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em definir se a circunstância de o delito de estelionato ter sido praticado mediante paga ou promessa de recompensa é ou não inerente ao tipo penal do art. 171, § 3º, do Código Penal, de modo a permitir ou não a aplicação da correspondente agravante do art. 62, IV, do Código Penal.
+III. Razões de decidir
+4. O pagamento ou promessa de recompensa não constitui elementar do tipo penal do art. 171 do Código Penal, permitindo a aplicação da agravante do artigo 62, IV, do Código Penal.
+5. A promessa de recompensa não integra o preceito primário do crime de estelionato previdenciário, sendo uma motivação específica do agente, distinta da motivação genérica de obtenção de vantagem econômica.
+6. O Superior Tribunal de Justiça já se manifestou no sentido de que o fato de o réu ter agido mediante promessa de recompensa não integra o elemento nuclear do crime de estelionato previdenciário, mantendo a incidência da agravante.
+IV. Dispositivo
+7. Agravo regimental desprovido.
+VOTO
+Deixo de verificar elementos suficientes para reconsiderar a decisão proferida, devidamente fundamentada, cuja conclusão mantenho pelos seus próprios e acertados fundamentos (fls. 1.227-1.230):
+Trata-se de recurso especial interposto pelo Ministério Público Federal contra acórdão da Primeira Turma do Tribunal Regional Federal da 6ª Região, no julgamento da Apelação Criminal n. 0006870-64.2008.4.01.3800.
+A recorrida foi condenada, em primeiro grau, pela prática do delito tipificado no art. 171, § 3º, do Código Penal (estelionato previdenciário). No julgamento da apelação, a pena foi readequada com exclusão da agravante prevista no art. 62, IV, do Código Penal ("executa o crime, ou nele participa, mediante paga ou promessa de recompensa").
+Neste recurso especial, o recorrente sustenta ofensa do art. 62, IV, do Código Penal. Alega que "a agravante do artigo 62, inciso IV, do Código Penal, consubstancia uma peculiar e específica motivação do agente, incidindo em equívoco a sua equiparação à motivação genérica de obtenção de vantagem econômica com a prática do delito, notadamente quando se revela a sua especial gravidade" (fl. 1.170).
+Ofertadas as contrarrazões, o recurso foi admitido na origem.
+O Ministério Público Federal opinou pelo provimento do recurso, em parecer assim sumariado (fls. 1.220-1.221):
+DIREITO PENAL. RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. AGRAVANTE DO ART. 62, IV, DO CÓDIGO PENAL. PARECER PELO PROVIMENTO DO RECURSO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público Federal contra acórdão proferido pelo Tribunal Regional Federal da 6ª Região que, por maioria de votos, afastou a aplicação da agravante do art. 62, IV, do Código Penal, sob o fundamento de que esta constituiria elemento do tipo penal do crime de estelionato. A pretensão ministerial busca o restabelecimento da incidência da referida agravante e o consequente aumento da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a circunstância de o delito de estelionato ter sido praticado mediante paga ou promessa de recompensa é ou não inerente ao tipo penal do artigo 171, § 3º, do Código Penal, de modo a permitir ou não a aplicação da correspondente agravante do artigo 62, IV, do Código Penal.
+III. RAZÕES DA MANIFESTAÇÃO
+3. A pretensão ministerial merece prosperar, pois o pagamento ou promessa de recompensa não constitui elementar do tipo penal do artigo 171 do Código Penal.
+4. A promessa de recompensa não integra o preceito primário do crime em questão, e a agravante do artigo 62, inciso IV, do Código Penal, consubstancia uma peculiar e específica motivação do agente, não se equiparando à motivação genérica de obtenção de vantagem econômica.
+5. O Superior Tribunal de Justiça, em caso semelhante (Recurso Especial nº 1.486.747 - PE), já se manifestou no sentido de que o fato de o réu ter agido mediante promessa de recompensa não integra o elemento nuclear do crime de estelionato previdenciário, mantendo a incidência da agravante. Assim, o acórdão impugnado está em desacordo com o entendimento dessa Corte Superior.
+IV. CONCLUSÃO E TESE
+6. Manifestação pelo conhecimento e provimento do recurso especial, para que seja reformado o acórdão do Tribunal de origem e restabelecida a incidência da agravante prevista no artigo 62, IV, do Código Penal. Tese da manifestação: "1. A circunstância de o delito de estelionato previdenciário ter sido praticado mediante paga ou promessa de recompensa não é inerente ao tipo penal do artigo 171, § 3º, do Código Penal, permitindo a aplicação da agravante do artigo 62, IV, do Código Penal.
+É o relatório. Decido.
+O recurso é tempestivo e a questão federal está devidamente prequestionada.
+O entendimento manifestado pela Corte Regional no voto vencedor distingue-se do posicionamento do egrégio Superior Tribunal de Justiça, visto que a agravante prevista no art. 62, IV, do Código Penal, que versa sobre os crimes cometidos mediante promessa de recompensa, não é elementar do tipo penal do estelionato previdenciário (art. 171, § 3º, do CP).
+No termos do bem lançado parecer ministerial:
+O estelionato previdenciário, previsto no artigo 171, §3º do Código Penal, ocorre quando alguém obtém vantagem ilícita, em prejuízo da Previdência Social, mediante fraude. É um tipo de estelionato que se distingue por ter a Previdência como vítima. A "vantagem indevida" prevista no tipo penal é o resultado que se pretende obter com a prática criminosa.
+O artigo 62, IV, do Código Penal, por sua vez, trata da agravante de paga ou promessa de recompensa em crimes cometidos em concurso de pessoas. Isso significa que a pena do agente que executa o crime ou participa dele mediante pagamento ou promessa de recompensa será agravada, ou seja, aumentada.
+No caso, verifica-se ser perfeitamente possível haver um crime de estelionato, em prejuízo da Previdência Social, no qual seu autor execute a atividade delituosa mediante pagamento ou promessa de recompensa, pois o pagamento ou promessa de recompensa não constitui elementar do tipo penal do artigo 171 do Código Penal.
+A promessa de recompensa não integra o preceito primário do crime em questão, logo, se o agente pratica o delito impelido pela oferta de pecúnia incide a agravante do art. 62, inciso IV, do CP.
+Como bem destacado pelo MPF, a agravante em questão consubstancia uma peculiar e específica motivação do agente, incidindo em equívoco a sua equiparação à motivação genérica de obtenção de vantagem econômica com a prática do delito, notadamente quando se revela a sua especial gravidade.
+Esse STJ, por decisão monocrática do Ministro SEBASTIÃO REIS JÚNIOR, nos autos do Recurso especial nº 1.486.747 - PE, julgando caso semelhante, manteve a incidência da agravante, fundamentando que, "em relação ao suposto bis in idem pela aplicação da agravante prevista no art. 62, IV, do Código Penal, a insurgência não merece prosperar, porquanto o fato de a ré ter agido mediante promessa de recompensa não integra o elemento nuclear do crime de estelionato previdenciário, sendo assim, comprovado que o agente praticou a conduta impelido por oferta de pecúnia, deve incidir a citada agravante."
+Verifica-se, portanto, que o aresto impugnado está em desacordo com o entendimento dessa Corte Superior, razão pela qual merece reforma.
+Em face do exposto, opina o Ministério Público Federal pelo conhecimento e pelo provimento do recurso especial, para que seja reformado o acórdão do Tribunal de origem e restabelecida a incidência da agravante prevista no artigo 62, IV, do Código Penal.
+Em reforço:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO CONTRA O INSS (ART. 171, §3º, DO CP). DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade vinculada, devendo o Direito pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça 2. O Tribunal a quo asseverou que o acusado admitiu que aceitou participar do crime em questão em troca de R$ 5.000,00 (cinco mil reais), os quais lhe foram pagos em drogas (crack e maconha). Ora, tal fundamento justifica a exasperação da reprimenda, até porque o fato de participar da conduta criminosa mediante pagamento configura a agravante do art. 62, inciso IV, do CP, que não fora utilizada na segunda fase da dosimetria.
+3. Quando da cominação das penas referentes a delitos praticados contra a Administração Pública, a Terceira seção desta Corte vem entendendo ser possível o agravamento da pena-base com fundamento no prejuízo sofrido pelos cofres públicos, quando o valor deste representar montante elevado, dada a maior reprovabilidade da conduta. No presente caso, as instâncias ordinárias não se utilizaram de dados genéricos e vagos para justificar a exasperação da pena-base ao valorar negativamente as consequências do delito, uma vez que a conduta delitiva gerou prejuízo aos cofres previdenciários da ordem de R$ 42.065,12, o que demonstra a maior reprovabilidade da conduta.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.694.215/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2020, DJe de 13/10/2020.)
+Passo seguinte, restabeleço a pena conforme o voto do relator na origem (fl. 1.143): "Ajusto, pois, a pena-base imposta na sentença, para decotar a valoração negativa atribuída aos vetores "motivos" e "circunstâncias" do delito. Reduzo-a, proporcionalmente, para 1 ano e 8 meses de reclusão e 27 dias-multa. Na segunda fase, mantenho o aumento de 1/6, em virtude da incidência da agravante do artigo 62, inciso IV, do Código Penal, reconhecida na sentença. A pena provisória fica estabelecida em 1 ano, 11 meses e 10 dias de reclusão e 32 dias-multa. Na terceira fase, com a incidência da causa de aumento do artigo 171, §3º, do Código Penal, também reconhecida na sentença, a pena definitiva passará a 2 anos, 7 meses e 3 dias de reclusão e 43 dias-multa".
+Diante do exposto, dou provimento ao recurso especial para readequar a pena da recorrida para 2 anos, 7 meses e 3 dias de reclusão, além de 43 dias-multa, mantidos o regime aberto e a substituição da pena.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
