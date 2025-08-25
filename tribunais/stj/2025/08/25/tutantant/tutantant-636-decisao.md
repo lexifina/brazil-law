@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de pedido de tutela antecipada antecedente apresentado por JOSÉ ASSAD ABRÃO para que seja atribuído efeito suspensivo ao recurso especial, interposto no Tribunal de Justiça de Minas Gerais (Agravo de Instrumento n. 1.0000.24.453607-4/001).
+Em suas razões, o requerente busca a concessão de antecipação da tutela recursal para suspender o trâmite do processo de execução em primeira instância, até o julgamento definitivo do recurso especial.
+Sustenta que há vícios na petição inicial, como inadequação da via eleita e inépcia, que não foram devidamente considerados pelo Tribunal de origem. Afirma que a questão não demanda revolvimento fático-probatório, mas sim revaloração jurídica dos fatos já delineados no acórdão recorrido.
+Pondera que o feito teve por base inicial a Lei n. 5.741/1971, embora o título executivo extrajudicial fosse uma cédula rural pignoratícia e hipotecária. Aduz que a parte exequente incorreu em equívoco quanto à indicação da lei que seria aplicável ao título executivo e, consequentemente, teria ocorrido a completa inaptidão da petição inicial.
+Defende que o perigo da demora está evidenciado em razão de ser pessoa idosa, com mais de 70 anos, e de estar prestes a perder a posse de seu terreno rural.
+Alega que foi proferida uma ordem de indisponibilidade de bens sobre todo o seu patrimônio e que a manutenção do processo em primeiro grau pode resultar em expropriação e esbulho possessório, justificando a urgência da tutela para evitar danos irreparáveis.
+Requer seja deferida a tutela antecipada antecedente para suspender o trâmite da execução em primeira instância, especialmente os atos expropriatórios, até o julgamento do recurso especial.
+É o relatório. Decido.
+De acordo com o disposto no art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem, cumulativamente, a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Assim, o deferimento do pedido de tutela provisória exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos expendidos no pedido; e o periculum in mora, evidenciado pela possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Ressalte-se que a parte intentou semelhante pedido de tutela provisória nos autos da TutAntAnt n. 622/MG, tendo sido indeferido o pedido cautelar em razão da ausência de demonstração da plausibilidade do direito alegado.
+No presente caso, reiterando os argumentos anteriormente apresentados, não indicou elementos novos aptos a modificar os fundamentos apresentados na TutAntAnt n. 622/MG.
+Caso, pois, de não conhecimento do pedido.
+A propósito: AgInt na Pet n. 16.585/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e TutPrv na TutAntAnt n. 545/GO, relator Ministro Herman Benjamin, julgada em 21/7/2025, DJEN de 23/7/2025.
+Reitere-se que a parte pretende seja declarada a nulidade do processo executivo pela inadequação da via eleita ou pela inépcia da inicial, extinguindo-o sem julgamento do mérito, bem como seja reconhecida a negativa de prestação jurisdicional no capítulo relativo à liquidez da execução por vício no demonstrativo de evolução do débito.
+A Corte de origem afirmou que, nos autos da execução de título extrajudicial, a parte teria apresentado embargos à execução - cuja matéria versava sobre os juros remuneratórios previstos no contrato - e, posteriormente, pediu a desistência desses embargos, o que foi acolhido pelo Juízo (fl. 545).
+Reconheceu também que não havia prejuízo para a defesa da parte executada, ora requerente, e esta não negou seu inadimplemento, tampouco que o imóvel penhorado fora dado em garantia do título executivo (fl. 546).
+Nesse contexto, parece-me, prima facie, que o entendimento do Tribunal de origem acerca das questões que constituem o cerne da irresignação recursal está lastreado em elementos de natureza eminentemente fático-probatória, circunstância apta a inviabilizar o conhecimento do apelo especial, em face do óbice da Súmula n. 7 do STJ.
+Logo, não demonstrada a plausibilidade da tutela de urgência no tocante ao fumus boni iuris, inviável se mostra a análise da questão controvertida sob a ótica do periculum in mora.
+A propósito, confiram-se estes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA TUTELA ANTECIPADA ANTECEDENTE. PEDIDO DE EFEITO SUSPENSIVO INDEFERIDO NA ORIGEM. COMPETÊNCIA DO STJ. AUSÊNCIA DE PERICULUM IN MORA E FUMUS BONI JURIS.
+1. A jurisprudência desta Corte admite, excepcionalmente, o exame de pedido de efeito suspensivo a recurso especial pendente de admissibilidade, quando o pleito já foi examinado pelo Tribunal de Justiça ou diante de manifesta ilegalidade ou teratologia.
+2. De acordo com o art. 300 do Código de Processo Civil, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.3. A atribuição de efeito suspensivo a recurso especial é medida excepcional, contrária à expressa disposição do sistema processual (CPC, art. 497; Lei n. 8.038/1990, art. 27, § 2º), só se justificando diante de inequívoco risco de dano irreparável e sob o pálio de relevantes argumentos jurídicos (AgRg na MC n. 23.500/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/3/2015, DJe de 10/3/2015.)
+4. Na espécie, não restou demonstrada a presença simultânea dos requisitos autorizados.
+Agravo interno provido para, em nova análise, indeferir o pedido de tutela antecipada antecedente. (AgInt nos EDcl na TutAntAnt n. 461/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO PEDIDO DE RECONSIDERAÇÃO NA TUTELA ANTECIPADA ANTECEDENTE. VÍCIO QUANTO À TEMPESTIVIDADE DO AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. PERICULUM IN MORA E FUMUS BONI JURIS. DEMONSTRAÇÃO. AUSÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Os embargos declaratórios são cabíveis quando houver obscuridade, contradição, omissão ou erro material na decisão recorrida.
+2. Embargos de declaração acolhidos para sanar vício existente na decisão embargada, que deixou de considerar a suspensão de prazos ocorrida neste Tribunal durante o lapso temporal para interposição do agravo interno.
+3. O deferimento de tutela provisória de urgência pressupõe a demonstração de elementos que evidenciem a plausibilidade do direito alegado e o perigo de dano ou o risco ao resultado útil do processo.
+4. No caso concreto, a agravante não logrou demonstrar a presença de tais requisitos.
+5. Embargos de declaração acolhidos para conhecer do agravo interno e negar-lhe provimento. (EDcl no AgInt no RCD na TutAntAnt n. 186/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgados em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, não conheço o pedido de tutela antecipada.
+Publique-se. Intimem-se.
+EMENTA
