@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por IPERFOR INDUSTRIAL LTDA (em recuperação judicial) contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PARTE EXECUTADA EM RECUPERAÇÃO JUDICIAL. PENHORA DE ATIVOS FINANCEIROS. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM PACÍFICA ORIENTAÇÃO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Observada a cooperação judicial entre os juízos da execução e da recuperação, o só fato de ter sido deferida a recuperação judicial não impede a ordem de penhora de ativos financeiros, via sisbajud, nem de bens de capital; e eventual desproporcionalidade da medida está sujeita à comprovação perante o juízo da recuperação judicial. Precedentes.
+3. No caso dos autos, o recurso especial não deve ser conhecido porque o acórdão recorrido está em conformidade com a jurisprudência deste Tribunal Superior. Observância da Súmula 83 do STJ.
+4. Agravo interno não provido.
+A parte embargante alega, em síntese (fls. 306/314):
+O deferimento do bloqueio de bens da Embargante na Execução Fiscal impedirá a fluência do plano recuperacional, contrariando o dispositivo de Lei Federal, amplamente discorrido no Agravo em Recurso Especial. Isso porque o prosseguimento da Execução Fiscal sem a observância do princípio da preservação pode acarretar enormes prejuízos à Embargante, que continua enfrentando o processo de recuperação judicial. Aliás, tendo o princípio da preservação da empresa como diretriz, deve ser observado ordem de preferência de penhora contida no artigo 835 do Código de Processo Civil não deve ser taxativa, haja vista a necessidade de estrita observância à redação contida no artigo 805 do CPC  ..  A jurisprudência invocada no acórdão embargado refere-se à possibilidade da constrição patrimonial, mas não enfrenta a necessidade de comunicação e manifestação prévia do juízo recuperacional, tampouco considera a natureza essencial dos ativos financeiros penhorados ao soerguimento da empresa. Apesar da menção ao dispositivo no acórdão embargado, não houve enfrentamento sobre sua plena eficácia, especialmente quanto à necessidade de comunicação prévia ao juízo da recuperação, para que este, antes da efetivação da penhora, possa avaliar a essencialidade dos ativos e eventualmente autorizar ou substituir a medida, o que afeta diretamente o princípio da preservação da empresa (art. 47 da Lei 11.101/2005)  ..  A decisão embargada também ignora a orientação consolidada no julgamento do Tema 987/STJ (REsp 1.694.261/SP)  ..  há uma contradição evidente: ao mesmo tempo em que reconhece essa competência, permite a penhora de ativos financeiros via SISBAJUD, comprometendo a recuperação da empresa ao reduzir seu fluxo de caixa.
+Sem impugnação pela parte embargada (fl. 322).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Com efeito, com atenção aos teores do acórdão recorrido e das razões recursais, o voto condutor do acórdão embargado consignou:
+No processo executivo fiscal, a ordem de penhora e a determinação de eventuais atos de constrição são da competência do juízo da execução fiscal; contudo, deferida a recuperação judicial à sociedade empresária executada, compete ao juízo especializado da recuperação a análise e a decisão a respeito da necessidade de manutenção ou substituição dos atos de constrição determinados no processo de execução e que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, mediante a cooperação jurisdicional, na forma do art. 69 do CPC/2015.
+Portanto, observada a cooperação judicial entre os juízos da execução e da recuperação, o só fato de ter sido deferida a recuperação judicial não impede a ordem de penhora de ativos financeiros, via sisbajud, nem de bens de capital; e eventual desproporcionalidade da medida está sujeita à comprovação perante o juízo da recuperação judicial.
+No caso dos autos, o acórdão recorrido está em conformidade com a jurisprudência deste Tribunal Superior.
+No contexto, portanto, não há vício de integração a ser sanado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
