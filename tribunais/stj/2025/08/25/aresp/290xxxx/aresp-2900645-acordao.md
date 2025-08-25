@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTENTE.  DISSÍDIO  JURISPRUDENCIAL.  AUSÊNCIA  DE  SIMILITUDE  FÁTICA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A  demonstração  do  dissídio  jurisprudencial  pressupõe  a  ocorrência  de  similitude  fática  entre  o  acórdão  atacado  e  os  paradigmas.
+3.  Agravo  conhecido  para  negar  provimento  ao  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  FLÁVIO  OZON  BOGHOSSIAN  e  OUTRO  contra  a  decisão  que  inadmitiu  o  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  art.  105,  III,  alínea  "a"  ,  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo  assim  ementado:
+"AGRAVO  DE  INSTRUMENTO  -  Ação  de  execução  -  Oposição  ao  julgamento  virtual  pelas  partes  -  art.  146,  §  4º,  do  RITJSP  e  art.  937,  inciso  VIII,  do  CPC  -  Recurso  que  não  versa  sobre  tutela  de  urgência  e  não  admite  sustentação  oral  -  Possibilidade  de  julgamento  virtual,  sem  prejuízo  -  Decisão  que  rejeitou  a  impugnação  apresentada  e  manteve  a  penhora  de  cotas  sociais  dos  agravantes  -  Possibilidade  -  Diligências  realizadas  pelo  exequente  para  satisfazer  o  crédito  que  restaram  infrutíferas  -  Inteligência  do  art.  835,  IX  do  CPC  -  Devedores  não  indicaram  meios  eficazes  e  menos  gravosos  para  a  satisfação  da  execução  -  Alegação  de  que  as  penhoras  impactarão  a  recuperação  judicial  do  grupo  RIOPET,  devendo  ser  reconhecida  a  competência  do  Juízo  da  Recuperação  Judicial  -  Impossibilidade  -  As  cotas  sociais  são  integrantes  do  patrimônio  pessoal  dos  sócios,  ora  agravantes,  e  não  pertencem  às  empresas  em  recuperação  judicial  -  A  penhora  de  cotas  sociais,  por  si  só,  não  se  traduz  em  imediata  liquidação  da  empresa  em  recuperação  judicial  -  Não  se  trata  de  questão  sobre  o  patrimônio  de  empresas  em  Recuperação  Judicial  que  justifique  o  direcionamento  ao  Juízo  da  Recuperação  Judicial  -  Precedentes  do  STJ  e  desta  C.  Câmara  -  Decisão  mantida  -  Recurso  não  provido"  (e-STJ  fl.  61).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fl.  113).
+No  recurso  especial,  os  recorrentes  alegam  violação  dos  arts.  11,  489,  §  1º,  IV,  e  1.022,  II.
+Sustentam  que  o  acórdão  foi  omisso  ao  desconsiderar  o  vínculo  das  empresas  Boghoz,  Suriyah  e  Riopet,  bem  como  ao  não  observar  o  efetivo  prejuízo  dos  atos  constritivos  às  empresas  em  recuperação  judicial.
+Com  as  contrarrazões  (e-STJ  fls.  169/170),  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTENTE.  DISSÍDIO  JURISPRUDENCIAL.  AUSÊNCIA  DE  SIMILITUDE  FÁTICA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A  demonstração  do  dissídio  jurisprudencial  pressupõe  a  ocorrência  de  similitude  fática  entre  o  acórdão  atacado  e  os  paradigmas.
+3.  Agravo  conhecido  para  negar  provimento  ao  recurso  especial.
+VOTO
+A  irresignação  não  merece  prosperar.
+Não  se  vislumbra  a  apontada  violação  dos  arts.  489  e  1.022  do  Código  de  Processo  Civil.
+Na  hipótese  dos  autos,  o  Tribunal  local  consignou:
+"(..)
+De  partida,  há  que  se  destacar  que  os  agravantes  se  limitaram  a  apresentar  alegações  genéricas  e  hipotéticas  quanto  a  suposto  prejuízo  ao  processo  de  recuperação  judicial  da  empresa  RIOPET,  sem,  entretanto,  apresentar  qualquer  documento  que  comprovasse,  ao  menos,  a  relação  entre  as  empresas  ora  afetadas  pela  penhora  (BOGHOZ  e  SURIYAH)  e  as  empresas  em  recuperação  judicial  (RESIN  e  RIOPET),  bem  como  os  referidos  impactos.
+Ainda,  cabe  ser  dito  que  as  cotas  sociais  são  integrantes  do  patrimônio  pessoal  dos  sócios,  ora  agravantes,  e  não  pertencem  às  empresas  em  recuperação  judicial,  de  forma  que,  ao  contrário  do  defendido  pelos  agravantes,  não  há  qualquer  insurgência  no  patrimônio  e/ou  atividades  das  empresas  em  recuperação  judicial.
+(..)
+Portanto,  a  penhora  de  cotas  sociais,  por  si  só,  não  se  traduz  em  imediata  liquidação  da  empresa  em  recuperação  judicial,  como  tentam  defender  os  agravantes.
+Ademais,  impende  destacar  que  nada  obsta  a  penhora  de  cotas  sociais,  vez  que  tal  medida  encontra  amparo  no  artigo  835,  inciso  IX,  do  CPC,  sendo  imperioso  destacar  que,  nos  autos  originários,  houve  outras  tentativas  de  penhora  que  restaram  inócuas.
+(..)
+Por  fim,  os  agravantes  alegaram  que  a  prática  de  atos  de  constrição  contra  o  patrimônio  das  sociedades  em  recuperação  judicial  somente  poderá  ser  analisada  pelo  Juízo  da  Recuperação  Judicial.
+No  entanto,  conforme  visto,  a  presente  penhora  recai  sobre  o  patrimônio  detido  pelos  sócios  executados,  e  não  sobre  o  patrimônio  das  empresas  em  recuperação  judicial"  (e-STJ  fls.  68/71).
+
+Assim,  verifica-se  que  o  Tribunal  de  origem  motivou  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.
+Como  cediço,  o  julgador  não  é  obrigado  a  responder  a  todos  os  argumentos  apresentados  pelas  partes,  bastando  que  aponte  as  razões  do  seu  convencimento  acerca  dos  pontos  imprescindíveis  à  resolução  da  demanda  para  que  a  decisão  esteja  devidamente  fundamentada.
+Não  há  falar,  portanto,  em  existência  de  omissão  apenas  pelo  fato  de  o  julgado  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da  parte.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NEGATIVA  DE  CUSTEIO  DE  MEDICAMENTO  (THIOTEPA).  1.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  2.  FUNDAMENTO  SUFICIENTE  NÃO  ATACADO.  SÚMULA  283/STF.  3.  ACÓRDÃO  EM  CONSONÂNCIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE  SUPERIOR.  SÚMULA  83/STJ.  4.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  INCIDÊNCIA  DAS  SÚMULAS  282/STF  E  211/STJ.  5.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Não  ficou  configurada  a  violação  ao  art.  1.022  do  CPC/2015,  uma  vez  que  o  Tribunal  de  origem  se  manifestou,  de  forma  fundamentada,  sobre  todas  as  questões  necessárias  para  o  deslinde  da  controvérsia.  O  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão  não  caracteriza  falta  de  prestação  jurisdicional.
+2.  O  acórdão  recorrido  encontra-se  em  perfeita  harmonia  com  a  jurisprudência  desta  Corte  no  sentido  de  que,  "embora  se  trate  de  fármaco  importado  ainda  não  registrado  pela  ANVISA,  teve  a  sua  importação  excepcionalmente  autorizada  pela  referida  Agência  Nacional,  sendo,  pois,  de  cobertura  obrigatória  pela  operadora  de  plano  de  saúde"  (REsp  1.923.107/SP,  relatora  ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  10/8/2021,  DJe  16/8/2021).
+3.  Atentando-se  aos  argumentos  trazidos  pela  recorrente  e  aos  fundamentos  adotados  pela  Corte  estadual  de  que  a  ANVISA  admite  a  importação  do  fármaco,  verifica-se  que  estes  não  foram  objeto  de  impugnação  nas  razões  do  recurso  especial,  e  a  subsistência  de  argumento  que,  por  si  só,  mantém  o  acórdão  recorrido  torna  inviável  o  conhecimento  do  apelo  especial,  atraindo  a  aplicação  do  enunciado  n.  283  da  Súmula  do  Supremo  Tribunal  Federal.
+4.  A  ausência  de  debate  acerca  do  conteúdo  normativo  dos  arts.  66  da  Lei  n.  6.360/1976  e  10,  V,  da  Lei  n.  6.437/1976,  apesar  da  oposição  de  embargos  de  declaração,  atrai  os  óbices  das  Súmulas  282/STF  e  211/STJ.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.164.998/RJ,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023  -  grifou-se).
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DE  REGRESSO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DOS  DEMANDADOS.
+1.  Não  há  se  falar  em  negativa  de  prestação  jurisdicional,  na  medida  em  que  o  órgão  julgador  dirimiu  todas  as  questões  que  lhe  foram  postas  à  apreciação,  de  forma  clara  e  sem  omissões,  embora  não  tenha  acolhido  a  pretensão  da  parte.
+2.  Rever  a  conclusão  do  Tribunal  de  origem  com  relação  à  responsabilidade  pelo  ressarcimento  dos  valores  pagos  em  reclamação  trabalhista  demandaria  o  reexame  do  conjunto  fático-probatório  dos  autos  e  a  interpretação  de  cláusulas  contratuais,  providencias  que  encontram  óbice  no  disposto  nas  Súmulas  5  e  7  do  STJ.  Precedentes.
+3.  Agravo  interno  desprovido"  (AgInt  nos  EDcl  no  AREsp  2.135.800/SP,  Rel.  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023  -  grifou-se).
+Ademais,  nos  termos  dos  arts.  1.029,  §  1º,  do  Código  de  Processo  Civil  e  255,  §  1º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  inviável  o  conhecimento  do  recurso  especial  pela  alínea  "c"  do  permissivo  constitucional  quando  não  demonstrada,  como  no  caso  vertente,  a  similitude  fática  entre  as  hipóteses  confrontadas,  inviabilizando  a  análise  da  divergência  de  interpretação  da  lei  federal  invocada.
+Ante  o  exposto,  conheço  do  agravo  para  negar  provimento  ao  recurso  especial.
+Deixa-se  de  majorar  os  honorários  sucumbenciais,  nos  termos  do  art.  85,  §  11,  do  CPC,  tendo  em  vista  que  não  foram  arbitrados  na  origem.
+É  o  voto.
