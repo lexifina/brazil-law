@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. IDEC. ART. 523, § 1º, do CPC. CABIMENTO. SENTENÇA JÁ LIQUIDADA. SÚMULA N. 517 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Nos termos da jurisprudência consolidada do STJ, a multa de 10% e os honorários advocatícios previstos no art. 523, § 1º, do CPC são devidos no cumprimento de sentença, após o decurso do prazo legal para pagamento voluntário, independentemente de impugnação (Súmula n. 517 do STJ).
+2. O entendimento firmado no Tema Repetitivo n. 482 do STJ, que afasta a incidência da multa do art. 475-J do CPC/1973 (atual art. 523, § 1º, do CPC) nas sentenças genéricas proferidas em ações civis públicas, não se aplica ao caso, pois já superada a fase de liquidação, estando em curso o cumprimento individual de sentença com valor certo.
+3. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. (BB) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado:
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS DA CADERNETA DE POUPANÇA. TESES DE EXCESSO DE EXECUÇÃO. EXCLUSÃO DA CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS DE DEZ POR CENTO, VIDE ART. 523, §1º DO CPC. IMPUGNAÇÃO DA PENHORA DEFERIDA NA DECISÃO OBJURGADA. PEDIDO DE CONDENAÇÃO DA AGRAVADA EM HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE INTERESSE RECURSAL. RECURSOS INTERPOSTOS CONTRA DECISÕES INTERLOCUTÓRIAS NÃO COMPORTAM CONDENAÇÃO EM HONORÁRIOS. NÃO CONHECIMENTO. ALEGAÇÃO DA PARTE AGRAVADA, EM SEDE DE CONTRARRAZÕES, SUSTENTANDO VIOLAÇÃO À COISA JULGADA REFERENTE A DISCUSSÃO QUANTO AOS PARÂMETROS DE CÁLCULO. AUSÊNCIA DE INTERESSE RECURSAL. SEM DISCUSSÃO NESSE SENTIDO. PRELIMINAR: AUSÊNCIA DE DIALETICIDADE DA PARTE AGRAVANTE. NÃO ACOLHIDA. MERA REPETIÇÃO DOS TERMOS UTILIZADOS NA PETIÇÃO INICIAL OU NA CONTESTAÇÃO NÃO IMPLICA AFRONTA AO PRINCÍPIO DA DIALETICIDADE. MÉRITO: IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA COLETIVA. LIQUIDAÇÃO DE SENTENÇA. MULTA PELA AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO. MULTA E HONORÁRIOS ACRESCIDOS EM 10% (DEZ POR CENTO). INCIDÊNCIA DEVIDA, HAJA IMPUGNAÇÃO OU NÃO, DEPOIS DE ESCOADO O PRAZO PARA PAGAMENTO VOLUNTÁRIO. SUMULA 517 DO STJ. TESE REJEITADA. PEDIDO FORMULADO PELA RECORRIDA PARA CONDENAR O RECORRENTE EM MULTA POR LITIGÂNCIA DE MÁ FÉ. NÃO VERIFICADO. AUSÊNCIA DE PRÁTICA DE ILÍCITO PROCESSUAL. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO. À UNANIMIDADE. (e-STJ, fl. 41).
+Nas razões do agravo, BB defendeu que não incide o óbice da Súmula n. 7 do STJ no presente caso.
+Houve apresentação de contraminuta (e-STJ, fls. 155-168).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. IDEC. ART. 523, § 1º, do CPC. CABIMENTO. SENTENÇA JÁ LIQUIDADA. SÚMULA N. 517 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Nos termos da jurisprudência consolidada do STJ, a multa de 10% e os honorários advocatícios previstos no art. 523, § 1º, do CPC são devidos no cumprimento de sentença, após o decurso do prazo legal para pagamento voluntário, independentemente de impugnação (Súmula n. 517 do STJ).
+2. O entendimento firmado no Tema Repetitivo n. 482 do STJ, que afasta a incidência da multa do art. 475-J do CPC/1973 (atual art. 523, § 1º, do CPC) nas sentenças genéricas proferidas em ações civis públicas, não se aplica ao caso, pois já superada a fase de liquidação, estando em curso o cumprimento individual de sentença com valor certo.
+3. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, o BB apontou violação do art. 523, § 1º, do CPC, pela indevida imposição da multa e dos honorários advocatícios. Alegou que foi realizado depósito em juízo, no prazo legal, de modo que não há como se admitir tal condenação em razão da ausência de trânsito em julgado.
+Trata-se, na origem, de liquidação e execução individual de sentença proposta por INCPP - INSTITUTO NACIONAL DOS INVESTIDORES EM CADERNETA DE POUPANÇA E PREVIDÊNCIA (INCPP) contra o BB, baseada na ação civil pública n. 1998.01.1.016798-9, ajuizada pelo IDEC (Instituto Brasileiro de Defesa do Consumidor).
+Em primeira instância, o MM. Juiz a quo rejeitou a impugnação ao cumprimento de sentença, impondo ao BB o pagamento da multa de 10% sobre o valor da causa e honorários em igual patamar pela fase de cumprimento de sentença, nos termos do § 1º do art. 523 do CPC.
+O Tribunal de Justiça de Alagoas manteve a decisão interlocutória, afirmando que a multa e os honorários são devidos após o prazo para pagamento voluntário, conforme Súmula n. 517 do STJ. Confira-se:
+A matéria devolvida a esta Corte cinge-se em analisar a (im)possibilidade de condenação do agravante ao pagamento de honorários advocatícios em sede de impugnação ao cumprimento de sentença, tendo sido aplicada a multa de 10% prevista no art. 523, §1º do CPC.
+Sobre o cabimento de honorários advocatícios em fase de cumprimento de sentença, sabe-se que existe disposição normativa clara autorizando sua incidência, conforme verifica-se da leitura do art. 85, §1º do CPC, lê-se:
+(..)
+Desta maneira, não existem dúvidas que são devidos honorários advocatícios na fase de cumprimento de sentença, necessário, então, ser destacado que coube ao art. 523, §1º do CPC, estipular em que situação podem ser arbitrados, in verbis:
+(..)
+Para que não pairem dúvidas, a Súmula 517 do STJ, em sua precisa eficiência para o caso em comento, foi cirúrgica e cristalina ao esclarecer que "são devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada".
+(..)
+Nesta toada, no caso em deslinde não há o que se discutir a incidência dos honorários advocatícios com fulcro no art. 523, §1º, pois devidos.
+Conforme fixado pelo Superior Tribunal de Justiça no Tema Repetitivo n. 482, "a sentença genérica prolatada no âmbito da ação civil coletiva, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC). A condenação, pois, não se reveste de liquidez necessária ao cumprimento espontâneo do comando sentencial, não sendo aplicável a reprimenda prevista no art. 475-J do CPC".
+No entanto, no presente caso, trata-se de cumprimento individual de sentença já liquidada, conforme esclarecido na decisão interlocutória:
+A parte executada propôs impugnação ao cumprimento de sentença (fls.1.380/1.439), com os mesmos argumentos já rechaçados por este juízo quando da prolação da decisão de liquidação de sentença (fls.955/968), mantidos pelo Tribunal de Justiça de Alagoas quando do julgamento do agravo de instrumento n.0806221-66.2022.8.02.0001.
+Tal situação atrai a aplicação da Súmula n. 517 do STJ, segundo a qual "são devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, desde que escoado o prazo para pagamento voluntário, que se inicia com a intimação do advogado da parte executada".
+Assim, superada a fase de liquidação e instaurado o cumprimento de sentença para exigir valor certo, é plenamente cabível tanto a multa legal quanto os honorários advocatícios, não havendo ofensa ao art. 523, § 1º, do CPC a ser reconhecida.
+Desse modo, estando o acórdão recorrido em sintonia com a orientação assentada nesta Corte, aplica-se, à espécie, o óbice da Súmula n. 83 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia de fixação de honorários.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
