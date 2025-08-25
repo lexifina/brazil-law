@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, com pedido liminar, impetrado em benefício de MARIA DA CONCEICAO ALVES COUTINHO - condenada à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, além do pagamento de 416 dias-multa, por incursão no crime de tráfico de drogas -, em que se aponta como autoridade coatora TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500157-55.2023.8.26.0142), não comporta processamento.
+Busca a defesa, na impetração, o reconhecimento do tráfico privilegiado, com aplicação do redutor do § 4º do art. 33 da Lei de Drogas, argumentando que a fundamentação para sua exclusão é genérica e não se baseia em elementos concretos; sustenta também a desproporcionalidade na fixação do regime inicial semiaberto, violando as Súmulas 719/STF e 440/STJ. Alternativamente, pleiteia a substituição da prisão por domiciliar, em razão da maternidade da paciente.
+Os autos vieram a mim conclusos por prevenção do HC n. 917.199/SP.
+É o relatório.
+Com efeito, verifico que a condenação transitou em julgado em 12/8/2025, após o não conhecimento do AREsp n. 2.720.680/SP, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Ademais, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado. Com efeito, no que se refere ao pleito de reconhecimento do tráfico privilegiado, inexiste interesse de agir, uma vez que a sentença já aplicou a causa de diminuição na fração mínima de 1/6, em razão da quantidade e diversidade de drogas apreendidas (fl. 47). Por conseguinte, considerada a pena fixada em 4 anos e 2 meses de reclusão, mostra-se adequado o regime inicial semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+Registre-se, ainda, que o pedido alternativo de prisão domiciliar nem sequer foi apresentado ao Tribunal de origem, que não teve oportunidade de examinar a questão, o que obsta a análise por esta Corte Superior, pois é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE APLICAÇÃO DA MINORANTE DO PRIVILÉGIO E ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA. PEDIDO ALTERNATIVO. PRISÃO DOMICILIAR. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO STJ PASSÍVEL DE REVISÃO. TESE SUBSIDIÁRIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Habeas corpus indeferido liminarmente.
