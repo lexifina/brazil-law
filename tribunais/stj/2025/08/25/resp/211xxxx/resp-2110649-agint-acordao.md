@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. ARTIGO 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. RESILIÇÃO DE CONTRATO DE COMPRA E VENDA. DEVOLUÇÃO DOS VALORES JÁ PAGOS. RETENÇÃO DOS VALORES PREVISTOS NO ARTIGO 32 DA LEI 6766/79. VALOR ILÍQUIDO AFERÍVEL. ARBITRAMENTO COM BASE NO PROVEITO ECONÔMICO A SER OBTIDO. LIQUIDAÇÃO POR MERO CÁLCULO. TEMA 1076/STJ. NÃO PROVIDO.
+1. A existência em tese de proveito econômico a ser obtido em razão do provimento principal implica que o valor dos honorários sucumbenciais seja arbitrado com base no valor respectivo, ainda que sujeito à liquidação, afastando a aplicação dos critérios subsidiários do valor da causa e equidade, em observância ao que previsto no § 2º do artigo 85 do CPC/15 e precedente em repetitivo desta Corte (Tema 1076/STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Raimunda Leite Fernandes contra decisão de fls. 387-388 que acolheu os embargos de declaração para reconhecer a omissão quanto ao arbitramento dos honorários advocatícios, determinando a redistribuição dos ônus sucumbenciais com base na sucumbência recíproca.
+Nas razões do presente recurso, a agravante defende que, apesar do acolhimento dos embargos de declaração, a decisão singular deixou de arbitrar os honorários por equidade, ante ao irrisório/nulo proveito econômico obtido com a demanda.
+Aduz que, conforme o artigo 85, §§ 2º e 8º do Código de Processo Civil, os honorários devem ser arbitrados sobre o valor atualizado da causa ou por equidade, devido à ausência de proveito econômico. Requer que os honorários sucumbenciais sejam calculados sobre o valor atualizado da causa ou fixados por equidade.
+Foi juntada impugnação da Momentum Empreendimentos Imobiliários Ltda. (fls. 416-419), aduzindo que a decisão recorrida é irrepreensível e que os honorários devem observar a regra legal, já que houve condenação consistente nos valores a serem devolvidos à recorrente.
+Defende que o § 8º do artigo 85 do Código de Processo Civil não se aplica, pois houve condenação.
+Alega que a ação é simples e pouco exigiu do trabalho e tempo do advogado da parte contrária. Requer que seja negado provimento ao agravo interno, mantendo a decisão recorrida por seus próprios fundamentos.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. ARTIGO 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. RESILIÇÃO DE CONTRATO DE COMPRA E VENDA. DEVOLUÇÃO DOS VALORES JÁ PAGOS. RETENÇÃO DOS VALORES PREVISTOS NO ARTIGO 32 DA LEI 6766/79. VALOR ILÍQUIDO AFERÍVEL. ARBITRAMENTO COM BASE NO PROVEITO ECONÔMICO A SER OBTIDO. LIQUIDAÇÃO POR MERO CÁLCULO. TEMA 1076/STJ. NÃO PROVIDO.
+1. A existência em tese de proveito econômico a ser obtido em razão do provimento principal implica que o valor dos honorários sucumbenciais seja arbitrado com base no valor respectivo, ainda que sujeito à liquidação, afastando a aplicação dos critérios subsidiários do valor da causa e equidade, em observância ao que previsto no § 2º do artigo 85 do CPC/15 e precedente em repetitivo desta Corte (Tema 1076/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Ao contrário do que se sustenta a parte agravada, existe proveito econômico a ser obtido no provimento adotado na decisão agravada, justificando o arbitramento de honorários sucumbenciais com base no valor equivalente, em observância ao que previsto no § 2º do artigo 85 do Código de Processo Civil.
+Com efeito, na decisão agravada, apenas se excluiu o pagamento de taxa de fruição do montante da condenação da parte agravada, em razão da resilição unilateral da promessa de compra e venda por iniciativa do comprador, tratando-se de terreno não edificado (fls. 370-374).
+De toda forma, ficou mantida a condenação da parte agravada a devolver os valores já pagos pelo promitente adquirente, deduzidos apenas o valor de 10% do valor atualizado do contrato, conforme previsto, além das parcelas vencidas em atraso e demais retenções autorizadas pelo artigo 32-A, III e IV, da Lei n. 6.766/79.
+Portanto, existente proveito econômico a ser obtido com a devolução dos valores já pagos ao agravante, não há como afastar essa base de cálculo para o arbitramento de honorários sucumbenciais, porquanto em conformidade com o que previsto no § 2º do artigo 85 do Código de Processo Civil.
+Não se olvida da iliquidez do valor a ser devolvido à agravante, tendo em vista que não foi delimitada a quantia exata a ser restituída a ela, conforme extraio da parte dispositiva da sentença (fl. 259), mantida pelo acórdão recorrido, uma vez que não abrangida pelo efeito substitutivo da apelação.
+De toda forma, ainda que se trate de valor ilíquido, o proveito econômico da parte agravada pode ser delimitado por mero cálculo aritm ético, não havendo cogitar-se, por ora, enquanto não delimitado o valor respectivo, no arbitramento de honorários sucumbenciais com base no valor da causa ou mesmo por equidade.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. CÉDULA DE CRÉDITO RURAL. ALONGAMENTO DA DÍVIDA. PROVIMENTO. OBRIGAÇÃO DE FAZER. HONORÁRIOS SUCUMBENCIAIS. ART. 85, § 2º, DO CPC/2015. INEXISTÊNCIA DE CONDENAÇÃO. VALOR DA CAUSA. RECURSO PROVIDO.
+1. A jurisprudência firmada na Segunda Seção desta eg. Corte é no sentido de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+2. Hipótese em que, julgado procedente em parte o pedido de prorrogação do vencimento de dívida estabelecida em cédula de crédito rural, os honorários advocatícios devem ser arbitrados de acordo com o § 2º do art. 85 do CPC/2015 e fixados em 10% sobre o valor do proveito econômico obtido, a ser apurado em liquidação de sentença.
+3. Agravo interno provido.
+(AgInt no REsp n. 1.802.510/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/12/2019, REPDJe de 05/03/2020, DJe de 19/12/2019.)
+Portanto, existente proveito econômico a ser obtido pela agravante, não há razão para alterar o provimento adotado na decisão agravada, em que se concluiu que o valor dos honorários sucumbenciais deveriam ser arbitrados com base em 10% do proveito econômico obtido, em conformidade com o que decidido em precedente em repetitivo desta Corte (Tema 1076), no qual fixada a seguinte tese:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
