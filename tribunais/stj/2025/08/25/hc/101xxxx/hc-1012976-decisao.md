@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MAURICIO ARAÚJO DOS SANTOS contra acórdão da Sexta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 1501375-59.2024.8.26.0603.
+Consta nos autos que o paciente foi condenado, em primeira instância, pelo Juízo de Direito da 3ª Vara Criminal da Comarca de Araçatuba/SP, nos autos da Ação Penal n. 1501375-59.2024.8.26.0603, à pena de 4 anos e 1 mês de reclusão, em regime inicial fechado, e o pagamento de 12 dias-multa, tendo em vista a prática do delito descrito no art. 311, § 2º, inciso III, do Código Penal (e-STJ, fls. 35-42).
+A defesa interpôs apelação ao Tribunal de origem, que negou provimento ao recurso (e-STJ, fls. 43-54).
+Na presente impetração, a defesa alega constrangimento ilegal, pois o paciente foi abordado pela Guarda Municipal enquanto testava uma motocicleta que pretendia adquirir, sem saber que estava adulterada. Alega que a adulteração foi confessada por Luís Fernando, o vendedor da motocicleta, em audiência de instrução e julgamento, e que o paciente não tinha conhecimento da adulteração. Sustenta que não há justa causa para a ação penal, pois o Ministério Público não conseguiu provar a autoria e materialidade do delito, e que a denúncia é genérica e sem fundamentação. Afirma que a condenação do paciente foi baseada exclusivamente no depoimento dos guardas municipais, sem outras provas, e que a absolvição seria a medida cabível por insuficiência de provas. Pugna pela revogação da prisão preventiva.
+Requer a concessão da ordem para que seja trancada a ação penal por ausência de justa causa, absolvido do acusado por insuficiência de provas, revogada a prisão preventiva e a expedição de alvará de soltura.
+O pedido liminar foi indeferido (e-STJ, fl. 63).
+Prestadas as informações (e-STJ, fls. 67-160), o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 165-168).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Analisando os autos, verifica-se que não deve ser conhecido o writ, e isto por mais de uma razão.
+Assinale-se que "a superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus" (Súmula n. 648 do STJ).
+In casu, houve prolação de sentença penal (e-STJ, fls. 35-43), julgamento de apelação defensiva (e-STJ, fls. 43-54). Portanto, não conheço da pretensão de trancamento da ação penal.
+No mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus para a análise de teses de insuficiência probatória, negativa de autoria, bem como desclassificação de delitos, em razão da necessidade de incursão no acervo fático-probatório.
+No caso em tela, a Corte originária asseverou que a materialidade e a autoria delitiva estão confirmadas pelo acervo probatório dos autos, destacando ser "incontroversa a substituição da placa e a adulteração dos caracteres alfanuméricos do chassi e do motor dados sobre os quais se dessume do contexto acima, quanto a Maurício, no mínimo, o dolo eventual expressamente mencionado5 no artigo 311, § 2º, III, do Código Penal6 não lhe socorrendo a mera atribuição de sua responsabilidade a terceiro" (e-STJ, fls. 50-51).
+Desta feita, o acolhimento da pretensão defensiva, segundo as alegações vertidas na exordial, demanda reexame de provas, medida interditada na via estreita do habeas corpus.
+De outro lado, registre-se que, se houver prova da existência do crime e de indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso em análise, observa-se que a prisão preventiva foi justificada para garantir a ordem pública, pois, "o autuado estava em cumprimento de pena em regime aberto e, inclusive, é portador de péssimos antecedentes criminais, além de ser reincidente em outro delito de trânsito" (e-STJ, fl. 59).
+Dessa forma, a existência de antecedentes criminais e a condição de reincidência do acusado configuram fundamentos legítimos para a decretação da prisão preventiva, especialmente considerando que o delito ora analisado foi cometido enquanto o réu se encontrava em cumprimento de pena no regime aberto. Tal circunstância evidencia a necessidade da medida cautelar como instrumento eficaz para conter a reiteração delitiva e garantir a preservação da ordem pública.
+Nessa linha:
+ ..
+2. A preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe de 12/3/2019).
+3. Agravo regimental desprovido. (AgRg no RHC n. 213.828/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+ ..
+2. Na hipótese, a prisão preventiva está adequadamente motivada na garantia da ordem pública e na necessidade de cessar atividade criminosa, em razão da gravidade concreta da conduta delitiva, pois, conforme apurado na operação policial, o ora agravante, "é extremamente perigoso, pois é apontado atualmente como "Número 1" em liberdade da organização criminosa Guardiões do Estado - GDE, sendo o responsável por todas as ações criminosas cometidas pelo mencionado grupo." Ressaltou-se, ainda, que o réu é "notoriamente conhecido por ser um dos mandantes dos ataques a ônibus e prédios públicos, ocorridos no Ceará em 2019, enquanto cumpria pena em regime aberto."
+3. A custódia cautelar também está amparada no risco de reiteração delitiva, em razão de o réu possuir antecedentes criminais, por homicídio qualificado, roubo e violência contra a mulher, além de ser "investigado em diversos inquéritos policiais, pelos crimes de porte ilegal de armas, homicídio, facilitação de fuga e integração de organização criminosa."
+ ..
+5. Agravo regimental desprovido. (AgRg no RHC n. 183.097/CE, de minha relatoria, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+ ..
+3. A existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+ ..
+5. Agravo regimental desprovido. (AgRg no RHC n. 162.600/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022.)
+Diante do exposto, não conheço do habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
