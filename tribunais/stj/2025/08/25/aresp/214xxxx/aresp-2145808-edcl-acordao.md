@@ -1,0 +1,95 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DOS DECLARATÓRIOS NÃO DEMONSTRADOS. REITERAÇÃO DE TESE RECURSAL. INCONFORMISMO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. No caso dos autos, a parte embargante não aponta nenhum dos vícios autorizadores ao manejo dos declaratórios, limitando-se a reiterar as alegações já trazidas no agravo interno de que seu recurso estaria prevento ao magistrado que promoveu a análise de sua apelação, tese rechaçada em razão de anteriores recursos manejados, não servindo os embargos de declaração para tal desiderato.
+3. A parte embargante, inconformada, busca, co m a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com omissão.
+4. A reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo e legitima a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+Embargos de declaração rejeitados com aplicação de multa .
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por FREDERICO RICARDO ALVES DA COSTA contra acórdão que ostenta a seguinte ementa (fl. 866):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PREVENÇÃO. ART. 930, PARÁGRAFO ÚNICO, DO CPC. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ.
+1. O Tribunal de origem firmou entendimento de que a prevenção deve observar, a teor do contido no art. 930, parágrafo único, do CPC, o primeiro recurso efetivamente distribuído, independentemente de a apelação ter sido julgada por relator diverso daquele primeiro recurso, o que se coaduna com a jurisprudência do STJ. Incidência da Súmula n. 83/STJ.
+2. "Nos termos do art. 930, parágrafo único, do NCPC, que passou a disciplinar expressamente a matéria, o primeiro recurso protocolado no tribunal torna o relator prevento para os subsequentes interpostos no mesmo processo ou em processo conexo" (AgInt no AgInt no AREsp n. 1.873.769/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/2/2022).
+3. Inexiste a alegada retroatividade do art. 930, parágrafo único, do CPC/2015 em razão do reconhecimento da prevenção baseado em recursos anteriores ao novo código adjetivo, visto que a previsão contida no referido artigo apenas representou a positivação da já consagrada interpretação dada ao art. 106 do CPC/73.
+Agravo interno improvido.
+Nas razões dos declaratórios, o embargante aduz que (fl. 879):
+A Omissão está presente na ausência de análise: (I) acerca do Princípio da Segurança Jurídica, que é a base de sustentação acerca da prevenção que, por sua natureza, possui a finalidade de evitar decisões conflituosas no mesmo processo por Juízos diferentes, sendo este o fundamento do art. 930 e seu parágrafo único do CPC/2015 que também encontra apoio no art. 926 do mesmo código para que haja uniformização jurisprudencial que deverá ser aplicada em todo o Brasil; e (II) da divergência suscitada entre o TJRN e o TJPE.
+Requer, ao final, o acolhimento dos embargos declaratórios.
+A parte embagada não apresentou manifestação (fl. 885).
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DOS DECLARATÓRIOS NÃO DEMONSTRADOS. REITERAÇÃO DE TESE RECURSAL. INCONFORMISMO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. No caso dos autos, a parte embargante não aponta nenhum dos vícios autorizadores ao manejo dos declaratórios, limitando-se a reiterar as alegações já trazidas no agravo interno de que seu recurso estaria prevento ao magistrado que promoveu a análise de sua apelação, tese rechaçada em razão de anteriores recursos manejados, não servindo os embargos de declaração para tal desiderato.
+3. A parte embargante, inconformada, busca, co m a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com omissão.
+4. A reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo e legitima a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+Embargos de declaração rejeitados com aplicação de multa .
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada, o que não ocorre na espécie.
+No caso dos autos, a parte embargante não aponta nenhum dos vícios autorizadores ao manejo dos declaratórios, limitando-se a reiterar as alegações já trazidas no agravo interno de que seu recurso estaria prevento ao magistrado que promoveu a análise de sua apelação, tese rechaçada, não servindo os embargos de declaração para tal desiderato.
+Nesse sentido, confira-se:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE. AUSÊNCIA. OMISSÃO. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.820.963/SP, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 18/4/2024.)
+O acórdão embargado foi claro ao consignar que o Tribunal de origem fez correta interpretação do disposto no art. 930 do CPC, de modo que o eventual equívoco na distribuição da apelação a magistrado diverso do que primeiro analisou instrumentais manejados de decisões interlocutórias do feito principal não afastaria a possibilidade de declinar a análise do feito ao prevento. Vejamos:
+Nas razões do recurso especial, o agravante apontou por violados os arts. 14 e 930 do CPC/15, por entender que a prevenção do relator para julgamento do agravo de instrumento na origem e que culminou no presente recurso seria do magistrado que julgou a apelação, visto que a análise do apelo já teria sido feita na vigência do CPC/15, de modo que os anteriores recursos (outros agravos de instrumentos), todos julgados sob a égide do CPC/73, não seriam aptos a estabelecer a prevenção.
+No Tribunal, o entendimento colegiado firmou-se no sentido do dever de observância do primeiro recurso efetivamente distribuído, independentemente de a apelação ter sido julgada por relator diverso daquele primeiro recurso (fls. 387-388):
+Como já destacado na decisão anterior, é bem verdade que fui relator da apelação cível n.º 2016.003082-0, apontada pelo embargante em suas razões como recurso capaz de atrair a prevenção deste agravo de instrumento, todavia, antes do protocolamento e distribuição do presente agravo de instrumento (ocorrido em 09/02/2020), houve a interposição anterior de três recursos perante esta Corte de Justiça, a saber:
+a) o Agravo de Instrumento n.º 2013.003859-7, distribuído em 12/03/2013 ao Gabinete do Desembargador Cláudio Santos;
+b) o Agravo de Instrumento n.º 2013.014917-5, distribuído em 05/09/2013 ao Gabinete do Desembargador Expedito Ferreira; e
+c) a Apelação Cível n.º 2016.003082-0, distribuída em 17/03/2016 a este Gabinete.
+Logo, como se vê, ao contrário do que afirma o embargante em suas razões, todos os três recursos anteriores protocolados foram distribuídos nesta Corte antes da vigência da atual lei processual civil, ou seja, antes de 18/03/2016.
+Com efeito, a clareza da norma processual não deixa dúvidas ao prever que o primeiro recurso protocolado no tribunal, ainda que não conhecido ou julgado, torna o relator prevento para eventual recurso subsequente interposto no mesmo processo ou em processo conexo. Ou seja, todo recurso interposto sob a vigência do CPC/2015 (como o caso do agravo de instrumento aqui tratado) deve necessariamente ser distribuído ao relator do primeiro recurso protocolado no Tribunal, tenha ele sido conhecido ou não, julgado na vigência do CPC/73 ou não.
+Interpretar de forma diversa seria legislar, dando interpretação extensiva não prevista pelo legislador, o que poderia levar a diversos casuísmos, tratando referida norma com um grau de subjetividade inaceitável.
+Ademais, não há que se falar em divergência de entendimento na aplicação da referida norma de prevenção entre esta Corte e o TJPE, pois a situação tratada na jurisprudência daquele Tribunal mencionada nas razões recursais baseia-se em regra prevista em seu regimento interno, o que não se presta a orientar o entendimento desta Corte, que deve se basear tão somente nas regras contidas no CPC, em análise conjunta com as normas de seu próprio regimento, inexistindo, pois qualquer ofensa ao artigo 926, do CPC, eis que a totalidade desta Corte de Justiça aplica o mesmo entendimento acerca da prevenção ao primeiro recurso, estando respeitada a uniformidade de sua jurisprudência acerca dessa questão.
+Destaco, como já ressaltado na decisão que julgou o embargo de declaração anteriormente manejado, que a decisão agravada está em prefeita consonância com o disposto no artigo 14 do CPC, eis que não está retroagindo a atual regra de distribuição para alcançar recurso interposto na lei processual de 1973, bem como está aplicando de forma escorreita a regra contida no artigo 930, parágrafo único e no artigo 154 do nosso Regimento Interno, eis que, repito, prevê textualmente que o primeiro recurso, julgado ou até mesmo não conhecido, é que torna prevento o relator para os próximos recursos protocolados a partir da vigência do novo CPC, pouco importando em que época o primeiro recurso foi protocolado (se sob a égide do antigo ou do novo CPC).
+Agir diferente, fazendo prevalecer nesse caso a prevenção para o relator do terceiro recurso protocolado nesta Corte, seria dar uma interpretação contrária à norma processual vigente, quando esta não deixa dúvida que até mesmo em caso do primeiro recurso sequer ter sido conhecido sob a vigência do CPC de 1973, há a prevenção daquele relator para os próximos recursos.
+Por tais razões, conheço e nego provimento ao presente agravo interno, mantendo a decisão que determinou a remessa do feito à relatoria do Desembargador Cláudio Santos, por prevenção ao primeiro recurso protocolado deste Tribunal (Agravo de Instrumento nº 2013.003859-7).
+Perceba que, de forma clara e fundamentada, o Tribunal de origem consignou que, tendo sido protocolado o presente agravo de instrumento após a vigência do CPC/15, deve observar as normas previstas no novo diploma processual, entre as quais se destaca o art. 930, parágrafo único do CPC, segundo o qual "O primeiro recurso protocolado no tribunal tornará prevento o relator para eventual recurso subsequente interposto no mesmo processo ou em processo conexo".
+Assim, considerando que anteriormente foram interpostos três recursos perante o Tribunal de Justiça do Estado do Rio Grande do Norte e que o primeiro deles foi distribuído ao Desembargador Cláudio Santos (Agravo de Instrumento n. 2013.003859-7), deve ser reconhecida a prevenção do referido magistrado para a apreciação do recurso em análise.
+Verifica-se, portanto, que é inviável o reconhecimento da prevenção nos moldes pretendidos pela parte agravante, pois o entendimento consignado no acórdão recorrido está em consonância com a legislação processual e com a jurisprudência desta Corte, segundo a qual o primeiro recurso protocolado no Tribunal torna o relator prevento para os subsequentes interpostos no mesmo processo ou em processos conexos.
+A propósito, cito precedente:
+ ..
+E, ao contrário do que insiste o agravante, inexiste a alegada retroatividade na aplicação dos preceitos do art. 930, parágrafo único, do CPC/2015 em razão do reconhecimento da prevenção baseado em recursos anteriores ao novo código adjetivo, visto que a previsão contida no referido artigo apenas representou a positivação da já consagrada interpretação dada ao art. 106 do CPC/73.
+A título exemplificativo:
+ ..
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+Sob a alegação de omissão quanto ao "princípio da segurança jurídica", a embargante, na verdade, busca o acolhimento de sua tese, pretensão que já foi expressamente afastada no acórdão embargado. Isso porque ficou consignado que o acórdão de origem se coaduna com a jurisprudência do STJ, o que torna impertinente a alegação de que não foi analisada a divergência, a qual, a toda evidência, restou prejudicada:
+3. A apreciação da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+(AgInt no AREsp n. 2.754.837/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 27/5/2025.)
+5. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+(AgInt no AgInt no AgInt no AREsp n. 2.682.339/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 6/5/2025.)
+Assim, longe de apontar qualquer dos vícios previstos no art. 1.022 do CPC/2015, observa-s e que a parte embargante, inconformada, busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com vício no julgado.
+Nesse sentido, cito :
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. TAXA SELIC. INCIDÊNCIA DE PIS/COFINS. BASE DE CÁLCULO. INCLUSÃO. PRECEDENTES. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Segundo entendimento jurisprudencial do Superior Tribunal de Justiça, "a contradição que autoriza a oposição de embargos de declaração é a interna, caraterizada pela existência de proposições inconciliáveis entre si" (REsp n. 1.652.347/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/8/2024, DJe de 22/10/2024).
+3. Embargos de declaração rejeitados.
+(EDcl no AREsp n. 2.481.778/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 19/3/2025.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Em atenção à finalidade integrativa do recurso aclaratório, inviável se mostra a utilização do meio impugnativo para a reforma do entendimento aplicado ou novo julgamento da causa, conforme pretende a parte embargante.
+3. Não compete a este Tribunal Superior examinar suposta violação de normativo constitucional, nem sequer para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal, nos termos do que dispõem os artigos 102 e 105 da Constituição Federal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.937.467/MG, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 17/2/2025.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto sobre o qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.683.104/PR, relator Ministro Raul Araújo, Quarta Turma, DJEN de 19/12/2024.)
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Por fim, considerando que os presentes embargos de declaração reproduzem, de forma idêntica, os aclaratórios anteriormente opostos contra a decisão monocrática - ocasião em que já se havia reconhecido a correta interpretação do art. 930 do CPC pelo Juízo de origem -, aplico a multa prevista no art. 1.026, § 2º, do CPC, em razão do manejo de embargos de declaração protelatórios.
+Nesse sentido, cito:
+2. A reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo e determina a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+(EDcl nos EDcl no AgInt no AREsp n. 1.025.601/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/11/2018.)
+Ante o exposto, rejeito os embargos de declaração, com aplicação de multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+É como penso. É como voto.
