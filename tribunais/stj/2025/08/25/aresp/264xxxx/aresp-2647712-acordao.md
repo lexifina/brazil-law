@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MATÉRIA JORNALÍSTICA. EXCLUSÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. INCIDÊNCIA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por METRÓPOLES MÍDIA E COMUNICAÇÃO LTDA. contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, com fundamento no art. 105, III, alínea " a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO. CIVIL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. MATÉRIA JORNALÍSTICA. CUNHO INFORMATIVO. . ATO ILÍCITO INEXISTENTE. DANOS MORAIS NÃO CONFIGURADOS. ANIMUS NARRANDI ÔNUS SUCUMBENCIAIS. SUCUMBÊNCIA RECÍPROCA NÃO EQUIVALENTE. RECURSOS CONHECIDOS E DESPROVIDOS.
+1. A matéria jornalística de conteúdo meramente informativo não caracteriza hipótese de responsabilidade civil (art. 186 do CC), devendo se preservar a liberdade de imprensa e o rol de liberdades do art. 220 da Constituição Federal, bem como os direitos fundamentais de livre manifestação do pensamento, de livre expressão, de acesso à informação, todos previstos no art. 5º, IV, IX e XIV, da Carta Magna.
+2. Na hipótese, verifica-se a publicação de matéria jornalística pela ré, em 6/10/2021, às 5h30, com o título "VTC Log, empresa investigada na CPI da Pandemia, tem offshore ,nas Ilhas Virgens Britânicas" sendo que, às 19h22, houve atualização para "Sócios da VTC Log, empresa investigada na CPI da, têm offshore nas Ilhas Virgens Britânicas" Ademais, vê-se que o título é seguido de subtítulo contendo informação de que "Pandora Papers revela que dois sócios da VTC Log são donos da Cacatua Holdings Limited, criada em maio de 2014", sendo que o conteúdo da reportagem se inicia delimitando a identidade dos aludidos sócios (Carlos Alberto e Teresa Cristina). Quanto ao sócio Raimundo Nonato, consta do teor da matéria que ele prestou depoimento em Comissão Parlamentar de Inquérito e negou qualquer irregularidade.
+3. Ressoa clara a intenção na matéria jornalística veiculada de apenas informar os leitores acerca de tema de interesse de toda a população, não se constatando o desígnio calunioso, difamatório ou injurioso hábil a configurar o dano moral e justificar o pagamento de indenização à pessoa jurídica VTC Log e ao sócio Raimundo Nonato. Frise-se que o título, após retificação realizada no mesmo dia da publicação, não imputou aos autores, VTC Log e Raimundo Nonato, a propriedade das denominadas offshores, não se podendo fazer ilação tão somente em decorrência da descrição se apresentar de forma abrangente e não delimitar, de pronto, a identidade dos sócios da pessoa jurídica.
+4. Embora realizada retificação do título inicialmente publicado pela ré, ainda consta a anterior nas redes sociais ("VTC Log, empresa investigada na CPI da Pandemia, tem offshore nas Ilhas Virgens Britânicas") , revelando-se razoável a determinação de retirada exarada na r. sentença, com o escopo de obstar replicações por terceiros de forma enviesada. Pontue-se, por pertinente, que a mera permanência do aludido título até sua devida exclusão não possui o condão de violar a honra objetiva da pessoa jurídica VTC Log, porquanto, mesmo que se entenda tratar de uma informação errônea, "uma empresa offshore não tem necessariamente fins ilícitos", como asseverado pela d. sentenciante.
+5. Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas processuais, nos exatos termos do caput do art. 86 do CPC.
+6. No caso, os autores pleitearam na petição inicial a retirada das matérias jornalísticas ou a retratação, bem como indenização por danos morais no importe de R$ 200.000,00 (duzentos mil reais) para cada. À ocasião da r. sentença, o Juízo de origem julgou procedente apenas o pedido quanto à retirada da reportagem veiculada antes da retificação, que ainda consta das redes sociais da ré, verificando-se, por conseguinte, que a distribuição proporcional dos ônus da sucumbência em 30% (trinta por cento) para a ré e 70% (setenta por cento) para os autores contempla, com proporcionalidade, o êxito e o insucesso parcial de cada um dos litigantes, em razão da sucumbência recíproca e não equivalente.
+7. Recursos conhecidos e desprovidos. Honorários majorados." (e-STJ fls. 547/548)
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 1022 e 489, § 1º, IV, do CPC, por negativa de prestação jurisdicional por omissão no acórdão quanto à ausência de ato ilícito na publicação da matéria jornalística. Alega que a retirada da matéria seria uma medida excepcional que só deveria ocorrer em caso de abuso no exercício da liberdade de imprensa e expressão;
+(ii) arts. 186 e 927 do Código Civil, ao determinar a retirada da matéria jornalística, mesmo sem configuração de ato ilícito. Defende que a matéria não extrapolou o direito de informar e não causou dano moral.
+A recorrente fundamenta seu pedido na liberdade de imprensa e expressão, destacando que a matéria jornalística tinha cunho informativo e não configurou ato ilícito. Sustenta a necessidade de veracidade, pertinência e cuidado na atividade da imprensa, os quais teriam sido observados no caso em questão.
+Após as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MATÉRIA JORNALÍSTICA. EXCLUSÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. INCIDÊNCIA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à determinação de retirada da matéria, conforme se verifica do seguinte trecho do acórdão:
+"Consigne-se que, embora realizada retificação do título inicialmente publicado pela ré, ainda consta a anterior nas redes sociais ( "VTC Log, empresa investigada na CPI da Pandemia, tem offshore nas Ilhas Virgens Britânicas", revelando-se razoável a determinação de retirada exarada na r. sentença, (..)
+(..)
+Frise-se que a medida objetiva obstar replicações por terceiros de forma enviesada, mas a mera permanência não possui o condão de violar a honra objetiva da pessoa jurídica, porquanto, mesmo que se entenda tratar de uma informação errônea, "uma empresa offshore não tem necessariamente fins ilícitos", como asseverado pela d. sentenciante." (e-STJ fls. 552/553)
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se.)
+Ademais, no contexto acima transcrito, não há como afastar a incidência da Súmula nº 7/STJ, visto que o acolhimento da pretensão recursal de manter a matéria jornalística demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita.
+A propósito:
+"DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR PUBLICAÇÃO INDEVIDA. EXTRAPOLAÇÃO DO DIREITO DE INFORMAÇÃO. SÚMULA 07/STJ. DANO MORAL. REEXAME FATOS E PROVAS. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, mantendo a condenação da agravante ao pagamento de indenização por danos morais decorrente de publicação jornalística considerada ofensiva à honra do recorrido.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a agravante extrapolou o direito de informação e afrontou direito personalíssimo do agravado ao veicular matéria jornalística sem observar o dever de cuidado.
+3. A questão também envolve a análise da possibilidade de revisão do acervo fático-probatório dos autos em sede de recurso especial, à luz da Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+4. O Tribunal de origem concluiu que a agravante extrapolou o direito de informação, veiculando matéria sem a devida apuração dos fatos, o que caracteriza afronta a direito personalíssimo do agravado.
+5. A revisão do acervo fático-probatório é inviável em recurso especial, conforme a Súmula 7 do STJ, que impede o reexame de provas.
+IV. AGRAVO INTERNO NÃO PROVIDO."
+(AgInt no AREsp 2.694.405/ES, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil.
+É o voto.
