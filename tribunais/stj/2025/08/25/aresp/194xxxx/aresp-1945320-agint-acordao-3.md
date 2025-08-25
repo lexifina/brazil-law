@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COPA ENERGIA DISTRIBUIDORA DE GAS S A da decisão monocrática de fls. 7.340/7.351.
+A parte agravante alega que houve violação aos arts. 489, § 1º, e 1.022 do Código de Processo Civil (CPC), apontando, em síntese, que "não foram indicadas no acórdão as provas que efetivamente poderiam indicar a participação da Copa Energia no suposto cartel, tampouco de que forma teria se dado tal participação" (fl. 7.386), e que houve omissão quanto ao argumento da "impossibilidade de se concluir pela formação de cartel em mercado que era regulado pelo Estado, que por sua vez ditava as regras a respeito da formação do preço do GLP" (fl. 7.388).
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 7.492/7.498).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não prospera a alegação de violação aos arts. 489 e 1.022 do Código de Processo Civil porque, da leitura do acórdão, vê-se que a prestação jurisdicional foi dada na medida da pretensão apresentada. O TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS resolveu a controvérsia de forma fundamentada, não havendo que se falar em omissão, contradição, obscuridade ou erro material.
+Nos seus embargos de declaração, a parte ora agravante indicou: (1) omissão quanto ao argumento de que havia tabelamento de preços no mercado de GLP, motivo pelo qual não poderia haver prática de cartelização e (2) obscuridade quanto ao testemunho de Carlos Henrique da Silva.
+Ao julgar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS se manifestou no seguinte sentido (fls. 6.505/6.511):
+Soma-se a isso o fato de que o acórdão embargado foi claro no sentido de que o ajuste de preços do gás pelas distribuidoras, impondo aos representantes preços de revenda, com o intuito de limitar a livre concorrência, caracteriza a prática de cartel e configura danos morais coletivos por infração da ordem econômica.
+A propósito, transcrevo parte do acórdão embargado (f. 5644/5647)
+ ..
+Segundo a Resolução nº 20/1999, do Conselho Administrativo de Defesa Econômica  CADE, cartéis são os "acordos explícitos ou tácitos entre concorrentes do mesmo mercado, envolvendo parte substancial do mercado relevante, em torno de itens como preços, quotas de produção distribuição e divisão territorial, na tentativa de aumentar preços e lucros conjuntamente para níveis mais próximos dos de monopólio".
+No caso em tela, é de ver que restou comprovado nos autos, através da produção de prova documental e testemunha, produzida sob o crivo do contraditório, que houve o ajuste de preços do gás pelas requeridas, -no período de 1999 a 2001, iniciando-se, especificamente, no segundo semestre do ano de 1999, impondo aos representantes preços de revenda, com o intuito de limitar a livre concorrência, o que, a meu aviso, caracteriza a prática de cartel.
+A propósito, transcrevo o depoimento da testemunha Luis Nicodemos Basile (f. 1111/1113):
+ ..
+234. Quanto à delimitação territorial das conclusões obtidas, tem-se que todos os elementos constantes nos autos referem-se à ocorrência de reuniões para acordar preços para vigorar nos mercados de Uberlândia/MG e Araguari/MG entre as empresas distribuidoras de G LP representadas. -)
+236. Posto isso, conclui-se que as representadas engajaram-se em um esforço anticompetitivo que teve como propósito fixar os preços de GLP/P13 aos revendedores e aos consumidores finais nas cidades de Araguari e Uberlândia, ambas situadas em Minas Gerais, práticas essas passíveis de enquadramento no art. 20, 1 c/c art. 21, 1, ambos da Lei 8.884/94.
+237. Sendo assim, sugere-se o encaminhamento dos presentes autos ao CADE, com recomendação de condenação das empresas e pessoas físicas representadas, por incorrer em infração contra a ordem econômica. Encaminhado o referido Processo administrativo nº 08012.006019/2002-11 ao Conselho Administrativo de Defesa Econômica  CADE, concluiu-se pela caracterização de Cartel. Confira-se (f. 1222/1224):
+302- Conforme se observa do exposto, há provas abundantes que apreciadas individualmente e em conjunto indicam a responsabilidade na infração à Lei 884/94 incorrida por quase rodos os representados. São provas documentais, gravações telefônicas, testemunhos direitos de funcionários e auto - incriminadores de concorrentes que corroboram a acusação. Desde o principio, confirmaram os a representados categoricamente existência de e a reuniões periódicas entre as distribuidoras ocorrência de aumento do GLP em abril de 2001. (..) Ante as provas colacionadas, torna-se imperativo concluir que tais reuniões sazonais tiveram por objeto a fixação de preço em Uberlândia, Uberaba e Araguari. (..)
+311- Os representados (1) Liquigaz, (ii) Ultragaz, (iii) Copagaz, (iv) Minasgás, (v) Butano, (vi) Onogas, (vii) Supergasbrás, (viii) Carlos José Dantas, (ix) Caetano Guimarães Silva, (x) Pedro Paulo Martins; (xi) Antenor Gomes de Moraes Filho e (xii) João Carlos Nicolau, em face dos quais entendo que deva subsistir a representação, são acusados - de práticas de combinação de preços entre concorrentes e fixação de preços de revenda, com base nos incisos I e XI do art. 21 c/c os incisos I e IV do art. 20 da Lei nº 8.884/94. As provas juntadas aos autos subsidiam a conclusão de que as distribuidoras (..), conjuntamente com os prepostos representados, (..) participaram de acordos de preços e/ou buscaram impor preços de revenda nos municípios de Uberlândia, Uberaba e Araguari.
+312- A caracterização da ação das empresas como um CARTEL DIFUSO, ou seja, práticas de concertação de preço sem institucionalidade e sem continuidade, não significa que essas não eram muito perniciosas. (..) Mesmo considerando eventuais atenuantes, as ações anticoncorrenciais praticadas pelos representados são graves e devem ser punidas nos termos da lei.
+ ..
+Neste contexto, inafastável a conclusão de que houve a prática de cartel pelas requeridas/apeladas, que se iniciou no segundo semestre do ano de 1999.
+O acórdão recorrido foi suficientemente fundamentado quanto à comprovação da prática de cartel por parte da agravante e das demais litisconsortes na ação.
+Ressalto que o contraponto aos argumentos das partes não demanda citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos). É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao debate dos autos, não fazendo sentido, assim, que se exija a pormenorização de cada tese jurídica ou precedente trazido à baila, à guisa de quesitos, como se laudo pericial fosse.
+A tese recursal de inexpressiva participação da ora agravante no mercado não foi objeto de seus embargos de declaração, não havendo análise da questão pelo Tribunal de origem, de maneira que não é possível seu exame pelo Superior Tribunal de Justiça (STJ).
+Está correta a decisão que afastou a alegada violação.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
