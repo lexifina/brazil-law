@@ -1,0 +1,23 @@
+DECISÃO
+Examinam-se embargos de declaração interpostos por SUELI MARIA GUAREZ contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera e, nessa extensão, negar-lhe provimento, com a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE AFASTOU A PRESCRIÇÃO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA. INTIMAÇÃO DAS PARTES. DESNECESSIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais, em fase de cumprimento de sentença, no bojo da qual foi proferida decisão afastando a prescrição.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O início da execução se subordina ao interesse do exequente, incumbindo-lhe a iniciativa de requerer o cumprimento de sentença, independentemente de intimação ou ato de impulso processual, já que a execução se processa no seu exclusivo interesse e vige no nosso ordenamento jurídico o princípio da inércia da jurisdição. Precedentes.
+4. Decisão da Presidência de e-STJ fls. 184/185 reconsiderada. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+No presente recurso, aponta a embargante possível omissão na decisão embargada, porquanto deixou de considerar que a parte está sendo assistida pela Defensoria Pública. Sustenta que não há falar em fundamento não impugnado (Súmula 283/STJ), tampouco em aplicação da Súmula 568/STJ, pois a LC 80/94 traz expressamente a prerrogativa da Defensoria Pública em ser intimada pessoalmente em qualquer processo e grau de jurisdição, momento em que, na hipótese, inicia o prazo prescricional para dar início ao cumprimento de sentença.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, na decisão impugnada, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso.
+De fato, a decisão embargada foi clara quanto à aplicação das Súmulas 283/STF e 568/STJ. Fundamentou que:
+O TJ/MS, ao concluir pela desnecessidade de nova intimação, fundamentou que não existe no ordenamento jurídico qualquer norma que imponha a necessidade de intimação de quaisquer das partes, da certidão do trânsito em julgado da sentença, a exigência é a intimação pessoal do ato judicial proferido (da sentença), o que foi cumprido nos autos. Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido, com aplicação da Súmula 283/STF.
+(..)
+Ao decidir acerca da desnecessidade de intimação da parte vencida para iniciar o cumprimento de sentença, o TJ/MS aplicou corretamente a jurisprudência do STJ no sentido de que o início da execução se subordina ao interesse do exequente, incumbindo-lhe a iniciativa de requerer o cumprimento de sentença, independentemente de intimação ou ato de impulso processual, já que a execução se processa no seu exclusivo interesse e vige no nosso ordenamento jurídico o princípio da inércia da jurisdição (REsp n. 2.095.397/RJ, Terceira Turma, DJEN de ; AgInt 12/12/2024 no REsp n. 1.585.917/SP, Primeira Turma, DJe de ; e AgInt no ExeMS n. 11.662 1/9/2022 /DF, Terceira Seção, DJe de 27/11/2023).
+Na verdade, revela-se inequívoca a pretensão da embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte em tais razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado na decisão embargada.
+2. Embargos de declaração rejeitados.
