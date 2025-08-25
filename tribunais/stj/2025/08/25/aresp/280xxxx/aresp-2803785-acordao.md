@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. EMPRÉSTIMO CONSIGNADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM DANOS MORAIS. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. TERMO INICIAL. ÚLTIMO DESCONTO. 3. MULTA APLICADA COM FUNDAMENTO NO ART. 1.026, § 2º, CPC. AUSÊNCIA DE CARÁTER PROTELATÓRIO NA OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. EXCLUSÃO DA PENALIDADE. NECESSIDADE. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. A jurisprudência desta Corte Superior é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC.
+3. Tendo em vista que os embargos de declaração perante o Tribunal estadual não se revestiram de caráter protelatório, tanto que acolhida nesta esfera de jurisdição a tese da instituição financeira acerca do prazo prescricional, deve ser afastada a multa anteriormente aplicada com base no art. 1.026, § 2º, do CPC.
+4. Agravo conhecido para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por BANCO SAFRA S.A. (BANCO SAFRA) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria da Desembargadora CLÁUDIA GRIECO TABOSA PESSOA, assim ementado:
+APELAÇÃO - Ação declaratória cumulada com restituição de valores e indenização - Empréstimos - Pedidos acolhidos para declarar a inexistência dos débitos, nos importes de R$23.566,64 (contrato nº 1873269) e de R$12.742,67 (contrato nº1873284s) e determinar a restituição, simples, dos valores descontados - Pleito de reforma - Impossibilidade - Relação de Consumo - Responsabilidade objetiva - Inteligência do artigo 14, do Código de Defesa do Consumidor - Contratos não coligidos - Réu que não se desincumbiu do ônus de comprovar fato impeditivo, modificativo ou extintivo do direito do autor (artigo 373, inciso II, do Código de Processo Civil) - Transações inexigíveis - Ressarcimento dos valores descontados - Pretensão que não está fundada em fato do produto ou do serviço - Inaplicabilidade do art. 27, do CDC - Diálogo das fontes - Repetição de indébito fundada no descumprimento contratual (art. 876 a 883, do CC) - Direito pessoal - Prazo geral de dez anos, nos termos do art. 205, do CC - Entendimento do E. STJ - Recurso improvido. (fls. 350-359)
+Os embargos de declaração de BANCO SAFRA foram rejeitados (e-STJ, fls. 368-373).
+Nas razões do agravo, BANCO SAFRA apontou (1) extrapolação de competência por parte do TJSP ao analisar o mérito do recurso especial, competência exclusiva do STJ, conforme art. 105, III, da CF/88; (2) interpretação superficial da Súmula n. 7 do STJ, alegando que não houve simples reexame de provas; (3) violação dos arts. 489, 1.022 e 1.026 do CPC, bem como dos arts. 14 e 27 do CDC, que não foram devidamente enfrentados pelo Tribunal de origem.
+Foi apresentada contraminuta (e-STJ, fls. 422-426).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+Nas razões de seu apelo nobre interposto com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, BANCO SAFRA apontou (1) ofensa ao art. 489, IV, ao art. 1.022, I e II, parágrafo único, II, do CPC, alegando que o Tribunal não enfrentou todos os argumentos deduzidos no processo; (2) aplicação indevida da multa aos embargos de declaração, conforme art. 1.026, § 2º, do CPC; (3) aplicação equivocada do prazo prescricional de 10 anos do art. 205 do CC, ao invés do prazo trienal do art. 206, § 3º, V, do CC ou quinquenal do art. 27 do CDC.
+Foram apresentadas contrarrazões (e-STJ, fls. 399-404).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. EMPRÉSTIMO CONSIGNADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM DANOS MORAIS. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. TERMO INICIAL. ÚLTIMO DESCONTO. 3. MULTA APLICADA COM FUNDAMENTO NO ART. 1.026, § 2º, CPC. AUSÊNCIA DE CARÁTER PROTELATÓRIO NA OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. EXCLUSÃO DA PENALIDADE. NECESSIDADE. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. A jurisprudência desta Corte Superior é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC.
+3. Tendo em vista que os embargos de declaração perante o Tribunal estadual não se revestiram de caráter protelatório, tanto que acolhida nesta esfera de jurisdição a tese da instituição financeira acerca do prazo prescricional, deve ser afastada a multa anteriormente aplicada com base no art. 1.026, § 2º, do CPC.
+4. Agravo conhecido para dar parcial provimento ao recurso especial.
+VOTO
+(1) Da omissão e da negativa de prestação jurisdicional
+Em suas razões recursais, BANCO SAFRA alegou que o acórdão foi omisso, obscuro e contraditório, pois, apesar de reconhecer a incidência do art. 14 do CDC, afastou a prescrição quinquenal do art. 27 do diploma consumerista.
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Afasta-se, portanto, a alegada violação.
+(2) Do prazo prescricional
+BANCO SAFRA defendeu que o caso se trata de ato ilícito decorrente da ausência de crédito e cobrança indevida das parcelas de empréstimo consignado, sendo de rigor o reconhecimento do prazo prescricional de 3 anos (art. 206, § 3º, V, do CC) ou de 5 anos (art. 27, V, do CDC).
+Sobre o tema, o Tribunal de Justiça de São Paulo entendeu que se aplica a regra geral prevista no art. 205, caput, do CC, conforme trechos que ora se transcrevem:
+Não se olvida quanto à existência de entendimento em sentido diverso, mas não se vislumbra, no caso dos autos, a possibilidade de aplicação do prazo trienal, previsto no art. 206, §3º, IV, do CC, porquanto, expressamente restrito às ações de enriquecimento sem causa, sendo inviável interpretação extensiva nesse sentido.
+Destarte, as pretensões relacionadas à repetição de indébito ficaram relegadas ao prazo geral de dez anos, previsto no art. 205, caput, do Código Civil. (e-STJ, fls. 356/357).
+Entretanto, a orientação desta Corte Superior é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos por falta de contratação de empréstimo com a instituição financeira, aplica-se o prazo prescricional do art. 27 do CDC, com o termo inicial sendo a data do último desconto realizado no benefício previdenciário.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA OU NULIDADE DE NEGÓCIO JURÍDICO C/C REPETIÇÃO DO INDÉBITO. PRESCRIÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO. INCIDÊNCIA DO PRAZO QUINQUENAL PREVISTO NO ART. 27 DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES DA CORTE. APLICAÇÃO DA SÚMULA 83/STJ.
+1. "A jurisprudência do Superior Tribunal de Justiça é no sentido de que, em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC" (AgInt no AREsp 1.720.909/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 24.11.2020).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7 do Superior Tribunal de Justiça).
+3. Agravo interno a que se nega provimento
+(AgInt no AREsp n. 2.462.298/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/3/2025, DJEN de 24/3/2025)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. PRECEDENTES. TERMO INICIAL DA PRESCRIÇÃO. DATA DO ÚLTIMO DESCONTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência sedimentada nesta Corte Superior é no sentido de que, fundando-se o pedido na ausência de contratação de empréstimo com instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo quinquenal previsto no art. 27 do Código de Defesa do Consumidor.
+2. Em relação ao termo inicial, insta esclarecer que a jurisprudência desta Casa é firme no sentido de que o prazo prescricional para o exercício da referida pretensão flui a partir da data do último desconto no benefício previdenciário.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.728.230/MS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 8/3/2021, DJe de 15/3/2021)
+(3) Da multa
+BANCO SAFRA impugnou ainda a incidência da multa prevista no art. 1.026, § 2º, do CPC, pois os embargos de declaração não tiveram qualquer intuito protelatório.
+Tendo em vista que os embargos de declaração perante o Tribunal estadual não se revestiram de caráter protelatório, tanto que acolhida nesta esfera de jurisdição a tese da instituição financeira acerca do prazo prescricional, afasto a multa anteriormente aplicada com base no art. 1.026, § 2º, do CPC.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO NO TRIBUNAL DE ORIGEM. IMPOSIÇÃO DE MULTA. ARTIGO 1.026, § 2º, DO CPC/15. EXCLUSÃO. PROPÓSITO DE PREQUESTIONAMENTO. SÚMULA 98/STJ. EMBARGOS ACOLHIDOS PARA, NESTA EXTENSÃO, DAR PROVIMENTO E AFASTAR A MULTA DO ARTIGO 1.026, § 2º, DO CPC/15.
+(EDcl no AgInt no AREsp n. 1.380.112/MS, relator Ministro PAULO DE TARSO SANSEVERINo, Terceira Turma, julgado em 16/11/2020, DJe de 19/11/2020)
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos à origem para que analise a ocorrência da prescrição levando-se em conta o prazo quinquenal previsto no art. 27 do CDC, além de excluir a multa prevista no art. 1.026, § 2º, do CPC.
+É o voto.
