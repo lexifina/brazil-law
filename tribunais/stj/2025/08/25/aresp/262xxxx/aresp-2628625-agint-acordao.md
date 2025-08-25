@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. DIFERENÇA ENTRE O PROVEITO ECONÔMICO AUFERIDO E O RESISTIDO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação ao art. 1.022 do CPC se o Tribunal resolve, fundamentadamente, a questão que lhe foi submetida.
+2. "São devidos honorários advocatícios em cumprimento individual de sentença coletiva contra a Fazenda Pública, independentemente da apresentação de impugnação, sendo que a base de cálculo para a fixação dos honorários deve ser a diferença entre o proveito econômico auferido e o resistido, nos termos do artigo 85, § 7º, do CPC" (AgInt no AREsp n. 2.628.596/SP, Rel. Min. Maria Thereza de Assis Moura, Segunda Turma, DJe de 18/11/2024).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Alexandrini Advogados Associados contra decisão de fls. 438/441, que negou provimento a agravo em recurso especial, por compreender que o entendimento manifestado pelo Tribunal de origem "encontra-se em harmonia com a jurisprudência desta Corte, firme no sentido de que os honorários devem ser arbitrados com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída, por conseguinte, a parcela incontroversa" (fl. 440).
+Segundo o agravante, "a r. decisão ignora que na espécie trata-se de cumprimento individual de sentença coletiva, e não de cumprimento de sentença comum" (fl. 447), visto que o caso se amoldaria a outros decisórios do STJ, como o REsp n. 2.037.161/SP e os EDcl no REsp n. 2.107.836/SP, julgados que espelhariam entendimento firmado por este Pretório na fixação do Tema n. 973 dos repetitivos. Desse modo, requer a reconsideração do decisum agravado.
+Intimada, a autarquia previdenciária não apresentou contrarrazões, conforme certidão à fl. 458.
+Agravo interno tempestivo e representação regular (fl. 10).
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. DIFERENÇA ENTRE O PROVEITO ECONÔMICO AUFERIDO E O RESISTIDO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação ao art. 1.022 do CPC se o Tribunal resolve, fundamentadamente, a questão que lhe foi submetida.
+2. "São devidos honorários advocatícios em cumprimento individual de sentença coletiva contra a Fazenda Pública, independentemente da apresentação de impugnação, sendo que a base de cálculo para a fixação dos honorários deve ser a diferença entre o proveito econômico auferido e o resistido, nos termos do artigo 85, § 7º, do CPC" (AgInt no AREsp n. 2.628.596/SP, Rel. Min. Maria Thereza de Assis Moura, Segunda Turma, DJe de 18/11/2024).
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A meu sentir, a irresignação não merece prosperar.
+Cuida-se de recurso especial interposto com fundamento na alínea a do permissivo constitucional contra acórdão preferido pelo TRF da 3ª Região, que deu parcial provimento à apelação, a fim de afastar redução, à metade, da verba honorária em execução individual de sentença coletiva.
+Segundo a Corte de origem, "o proveito econômico obtido na fase de cumprimento de sentença deve ser entendido como a diferença entre o valor requerido por cada uma das partes e aquele fixado para o prosseguimento da execução" (fl. 354), com o que não concorda o recorrente, para quem "a base de cálculo para os honorários a serem arcados pelo executado nos cumprimentos individuais de sentença coletiva é sempre o valor da condenação (i. e., o valor homologado pelo juízo) e não a "diferença havida entre os valores efetivamente acolhidos e aqueles apurados pelo INSS", como decidido pelo acórdão recorrido" (fl. 396).
+A decisão agravada, como reportado, foi ancorada na compreensão de que a questão submetida ao crivo do Tribunal Regional foi fundamentadamente solvida, de modo que descabe alegar ofensa ao art. 1.022 do CPC. Também asseverou que o aresto recorrido "encontra-se em harmonia com a jurisprudência desta Corte, firme no sentido de que os honorários devem ser arbitrados com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída, por conseguinte, a parcela incontroversa" (fl. 440).
+Com efeito, apesar das decisões monocráticas invocadas pela parte agravante para respaldar sua tese, a jurisprudência mais recente deste STJ endossa a conclusão do TRF3 neste caso, como se pode aferir, dentre outros, do seguinte acórdão:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. DIFERENÇA ENTRE O PROVEITO ECONÔMICO AUFERIDO E O RESISTIDO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. São devidos honorários advocatícios em cumprimento individual de sentença coletiva contra a Fazenda Pública, independentemente da apresentação de impugnação, sendo que a base de cálculo para a fixação dos honorários deve ser a diferença entre o proveito econômico auferido e o resistido, nos termos do artigo 85, § 7º, do CPC.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.628.596/SP, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJe de 18/11/2024.)
+Portanto, na linha do precedente supracitado, nenhum dos fundamentos da decisão agravada requer reparo, merecendo ser integralmente prestigiada.
+ANTE O EXPOSTO, nego provimento ao presente agravo interno.
+É como voto.
