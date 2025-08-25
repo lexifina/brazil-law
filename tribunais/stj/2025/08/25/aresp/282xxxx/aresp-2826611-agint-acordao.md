@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO DE ENERGIA ELÉTRICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL DA CONCESSIONÁRIA. MODIFICAÇÃO DAS PREMISSAS ASSENTADAS NO ACÓRDÃO DE ORIGEM. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Não ocorre ofensa ao art. 1.022, II, do CPC quando a Corte de origem resolve, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Acerca da questão de fundo trazida à discussão, verifica-se que a instância recorrida reconheceu a presença dos elementos ensejadores da responsabilidade civil por falha na prestação do serviço pela Concessionária. Nesse contexto, é certo que a alteração das premissas adotadas pelo Tribunal de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Equatorial Goiás Distribuidora de Energia S.A. desafiando decisão de fls. 758/763, que negou provimento ao agravo, com base nos seguintes fundamentos: (i) ausência de omissão a ensejar violação aos arts. 489, § 1º, e 1.022, II, do CPC; (ii) acórdão recorrido assentado em alicerce eminentemente constitucional; e (iii) incidência da Súmula 7/STJ.
+Inconformada, sustenta a parte agravante, em resumo, o seguinte (fls. 774/775):
+ ..
+O que se discute novamente é a lesão ao texto contido nos nos artigos 186, caput, 393, caput, e 927, caput, do CC e aos arts. 373, II, e 1.022, II, do CPC.
+Isso porque, contrariamente do que entendeu o TJGO, não restou comprovado nos autos que a recorrente deu causa ao incêndio debatido, portanto, não é possível atribuir a si tal responsabilidade.
+Ora, a responsabilidade civil não é presumida, via de consequência, depende da comprovação dos três elementos que a configuram: a) culpa; b) nexo causal; e c) dano sofrido.
+Portanto, não comprovado o fato gerador do fatídico evento, imprescindível a reforma da condenação, já que carecedores de embasamento fático e jurídico os pedidos iniciais.
+Dessa forma, consoante os argumentos aqui dispendidos, evidente a necessidade de conhecimento e provimento deste agravo, para análise do Recurso Especial, o qual deverá ser conhecido e ao final provido.
+ ..
+A parte agravada apresentou impugnação às fls. 790/793.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO DE ENERGIA ELÉTRICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL DA CONCESSIONÁRIA. MODIFICAÇÃO DAS PREMISSAS ASSENTADAS NO ACÓRDÃO DE ORIGEM. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Não ocorre ofensa ao art. 1.022, II, do CPC quando a Corte de origem resolve, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Acerca da questão de fundo trazida à discussão, verifica-se que a instância recorrida reconheceu a presença dos elementos ensejadores da responsabilidade civil por falha na prestação do serviço pela Concessionária. Nesse contexto, é certo que a alteração das premissas adotadas pelo Tribunal de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Não se vislumbra na hipótese vertente que o v. acórdão recorrido padeça de qualquer dos vícios descritos no art. 1.022, II, do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado. A propósito, observa-se que o colegiado a quo se manifestou expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+O julgado abordou as questões apresentadas pelas partes de modo consistente a formar e demonstrar seu convencimento bem como elucidou as suas razões de decidir de maneira clara e transparente, não se vislumbrando a alegada violação legal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AÇÃO DE REPARAÇÃO DE DANOS. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE CONTRATUAL. DATA DA CITAÇÃO
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1.022 do Código de Processo Civil de 2015.
+2. O Superior Tribunal de Justiça firmou orientação no sentido de que o termo inicial dos juros de mora, nas indenizações por danos materiais e morais decorrentes de ilícito contratual, é a data da citação.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.364.146/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/9/2019, DJe de 19/9/2019.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REEXAME NECESSÁRIO. SENTENÇA ILÍQUIDA. SÚMULA 490/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 1.022 do CPC/2015, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte. 2. Hipótese em que o Tribunal de origem não conheceu da Remessa Necessária por entender que, "no caso concreto, o valor do proveito econômico, ainda que não registrado na sentença, é mensurável por cálculos meramente aritméticos" (fl. 140, e-STJ).
+3. O STJ, no julgamento do Recurso Especial 1.101.727/PR, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, firmou entendimento segundo o qual o Reexame Necessário de sentença proferida contra a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público (art. 475, § 2º, do CPC/73) é regra, admitindo-se sua dispensa nos casos em que o valor da condenação seja certo e não exceda a 60 (sessenta) salários mínimos. 4. Tal entendimento foi ratificado com o enunciado da Súmula 490/STJ: A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas.
+5. Recurso Especial parcialmente provido para determinar o retorno dos autos à origem para que a sentença seja submetida ao Reexame Necessário.
+(REsp 1.679.312/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 15/8/2017, DJe de 12/9/2017.)
+Registre-se que o mero inconformismo da parte não autoriza a reabertura do exame de matérias já apreciadas e julgadas, ou a introdução de questão nova, conforme já se manifestou este Superior Tribunal:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. UTILIZAÇÃO DE ÁGUA SUBTERRÂNEA PROVENIENTE DE POÇO ARTESIANO PARA CONSUMO HUMANO. LOCAL ABASTECIDO PELA REDE PÚBLICA. NECESSIDADE DE OUTORGA. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA REFLEXA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1 - Para que os aclaratórios, como recurso de fundamentação vinculada que é, possam prosperar, se faz necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição ou omissão em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+2 - Eventual violação de lei federal, tal como posta pela embargante, seria reflexa, e não direta, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação do Decreto Estadual nº 23.430/74, descabendo, portanto, o exame da questão em recurso especial.
+3 - Embargos rejeitados
+(EDcI no Aglnt no AREsp 875.208/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/9/2016, DJe de 20/9/2016.)
+Quanto à insurgência contra a condenação a quo por não terem sido demonstrados o dano, a culpa e o nexo causal caracterizadores dos danos morais e materiais, verifica-se, no acórdão recorrido, que a Corte de origem, soberana na apreciação dos fa tos e das provas que instruem o feito, observou a presença dos elementos ensejadores da responsabilidade objetiva da concessionária por falha no serviço público.
+Destaca-se trecho fundamental do decisum (fls. 390/391):
+ ..
+Assim, adentrando ao mérito da questão propriamente dita, verifica-se que, na hipótese dos autos, consoante disposto na sentença prolatada, o conjunto probatório demostra ter ocorrido omissão da requerida na manutenção da rede de eletricidade, o que ocasionou no rompimento do cabo de energia e, consequentemente, o incêndio na fazenda de propriedade da parte autora.
+Neste sentido, foram colacionadas na peça de ingresso imagens dos fios rompidos, da emenda nos cabos de alta-tensão e do protocolo de atendimento à ENEL (mov. n. 01, arquivos 07/08).
+De igual modo, as testemunhas atestaram que, ao chegarem no local para apagar o incêndio, depararam-se com os fios de energia caídos no chão, bem como que o incêndio causou vários danos na pastagem e nas cercas de arame da propriedade (mov. 56).
+Neste contexto, caberia à ré/apelante demonstrar alguma das causas excludentes da sua responsabilidade, ou seja, a inexistência de defeito na prestação do serviço, a culpa exclusiva do autor ou de terceiro, ou a ocorrência de caso fortuito ou de força maior, ônus do qual não se desincumbiu, eis que, quando instada para especificar as provas a serem produzidas, limitou-se ao campo das meras alegações.
+Destarte, evidenciada a falha na prestação do serviço público pela ré, a ausência de qualquer excludente de responsabilidade e, por fim, o prejuízo sofrido pelo autor, o dever de indenizar é medida que se impõe.
+ ..
+A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, notadamente das imagens e do protocolo de atendimento que instruíram a inicial, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. DANOS MORAIS E MATERIAIS. REPARAÇÃO. CABIMENTO. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. VALOR DA INDENIZAÇÃO. REVISÃO. EXCEPCIONALIDADE. AUSÊNCIA.
+1. Não se configura ofensa aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial."
+3. Hipótese em que a Corte local entendeu que ficou comprovado o direito pleiteado pela parte autora, no tocante à indenização pelos danos materiais e morais sofridos pela sobrecarga de energia elétrica, rejeitando a alegada ocorrência de força maior.
+4. Divergir da comprovação do nexo causal e da inexistência de excludente de responsabilidade reclama o reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos do aludido óbice sumular.
+5. Esta Corte entende que a revisão do quantum indenizatório fixado na origem a título de danos morais somente é possível em hipóteses excepcionais, quando verificada a ofensa aos princípios da razoabilidade e da proporcionalidade, o que não é o caso dos presentes autos.
+6. Agravo interno desprovido.
+(AgInt no AREsp 2.553.832/RJ, Relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. FAGULHA. REDE ELÉTRICA. DEMONSTRAÇÃO DO ATO ILÍCITO, NEXO DE CAUSALIDADE E DO DANO NO IMÓVEL RURAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. Trata-se, na origem, de Ação de indenização por danos materiais e morais em decorrência de fagulha da rede elétrica que queimou parte de imóvel rural.
+2. O Tribunal a quo assentou que a recorrida "colacionou aos autos laudo técnico elaborado por engenheiro agrônomo, no qual há informação de constatação da "ocorrência de queimada em área de aproximadamente 40,00 ha de pastagens em decorrência de fagulha da rede elétrica que passa na Fazenda Santa Maria", bem como as fotos do local". E, por fim, concluiu que ficou demonstrado o "ato ilícito praticado pela parte promovida por falha na prestação dos seus serviços", portanto cabível o dever de indenizar.
+3. Dessarte, reexaminar o contexto fático para descobrir se as provas produzidas nos autos foram suficientes para o convencimento do Juízo de 1ª Instância, somente é possível mediante novo exame do contexto probatório da causa, o que é vedado ante o óbice da Súmula 7/STJ.
+4. A indicação genérica do artigo de lei que teria sido contrariado, quando ele contém desdobramentos em parágrafos, incisos ou alíneas, caracteriza defeito na fundamentação do Recurso. Dessa forma, incide o óbice da Súmula 284 do STF. Precedentes.
+5. Agravo Interno não provido.
+(AgInt no AREsp 2.596.957/GO, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
