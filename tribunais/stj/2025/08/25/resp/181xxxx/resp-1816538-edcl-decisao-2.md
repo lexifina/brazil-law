@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo COLÉGIO DANTE ALIGHIERI contra decisão por meio da qual dei parcial provimento ao recurso especial.
+A parte embargante, em suas razões, alega que há omissão na decisão recorrida. Aduz que: "( ) permanece bastante claro que a base de cálculo dos imaginados honorários há ser decotada do quanto estimado pela autora na inicial, não existindo, ademais, nos autos, elementos que permitem precisar o montante da condenação agora imposta". Para tanto, reitera que a omissão seja sanada para determinar a liquidação e definir corretamente o valor da base de cálculo dos honorários.
+A parte embargada, devidamente intimada, pediu a rejeição dos embargos (fls. 715/77, e-STJ).
+Assim posta a questão, passo à análise da matéria submetida a julgamento.
+A irresignação deve ser acolhida.
+Mediante análise dos autos, a embargante alega que não há elementos nos autos que permitam fixar os honorários sucumbenciais em valor líquido, sendo necessária a liquidação para apurar o montante devido. O juízo sentenciante delimitou que (fls. 261/263, e-STJ):
+"O réu impugnou o valor ora cobrado (fls. 137), e ausente prova segura de que a base de cálculo dos honorários perseguidos corresponde a R$ 45,5 milhões,entendo que o montante a ser pago deverá ser apurado em liquidação.
+Do exposto, julgo procedente em parte a ação, com fulcro no Art. 269, I do CPC, para condenar a ré a pagar ao autor honorários ad exitum equivalentes a 1% sobre o valor das contribuições sociais que poderiam ser exigidas pelo INSS no caso de procedência da representação fiscal de fls. 31/40, tendo limitado ao valor de R$603.789,79, corrigidos monetariamente desde a propositura da ação e acrescidos de juros de mora de 1% ao mês desde a citação, em montante a se apurar por intermédio de liquidação por arbitramento".
+De fato, a decisão recorrida condenou o réu (ora embargante) a pagar honorários contratuais no patamar de 1% sobre o valor das contribuições sociais exigidas na representação fiscal, devidamente corrigidos. No entanto, em virtude da ausência de provas seguras que comprovem a base de cálculo dos honorários, bem como da impugnação do valor cobrado pelo réu, resta evidente a necessidade de apuração do montante em liquidação por arbitramento. Isso porque não existem elementos nos autos que permitam precisar o valor da condenação de forma líquida.
+Em face do exposto, acolho os embargos de declaração para determinar que a base de cálculo dos honorários devidos (1% sobre o valor das contribuições sociais exigidas pelo INSS) seja apurada em liquidação.
+Intimem-se.
+EMENTA
