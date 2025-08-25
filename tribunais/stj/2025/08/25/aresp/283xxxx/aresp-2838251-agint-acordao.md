@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REQUISITOS DA EXECUÇÃO. TÍTULO EXECUTIVO JUNTADO NA INICIAL ACOMPANHADO DO DEMONSTRATIVO DO DÉBITO. DETALHAMENTO DA ORIGEM, EVOLUÇÃO, ENCARGOS INCIDENTES E SOMATÓRIO TOTAL DO QUANTUM DEBEATUR. ATENDIMENTO DO ART. 798, I, "B", DO CPC. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por LUMARIS IMPORTADORA E EXPORTADORA DE PESCADOS EIRELI, irresignada com a decisão monocrática proferida às fls. 592-596, que conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula 7/STJ.
+Em suas razões, a parte agravante sustenta, em síntese, que, "Em que pese o entendimento do Douto Ministro, importante esclarecer que no caso dos autos não há necessidade de análise de conjunto fático- probatório, haja vista que resta manifesta a ausência dos requisitos formais que sustentam as notas fiscais e duplicatas exequendas, o que, por via reflexa, as tornam nulas. Por certo, o cerne da questão do Recurso Especial é exatamente sobre o fato de as notas fiscais e duplicatas que fundamentam a ação de execução fiscal não se tratarem de títulos líquidos, certos e exigíveis, nos termos do art. 783 do Código de Processo Civil" (fl. 604, e-STJ).
+Sem impugnação, vide certidão de fl. 609 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REQUISITOS DA EXECUÇÃO. TÍTULO EXECUTIVO JUNTADO NA INICIAL ACOMPANHADO DO DEMONSTRATIVO DO DÉBITO. DETALHAMENTO DA ORIGEM, EVOLUÇÃO, ENCARGOS INCIDENTES E SOMATÓRIO TOTAL DO QUANTUM DEBEATUR. ATENDIMENTO DO ART. 798, I, "B", DO CPC. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+VOTO
+Em que pesem os esforços empreendidos pela parte agravante, não há, nas razões recursais, argumentação capaz de modificar a decisão agravada.
+Observa-se que os argumentos trazidos mostram-se insuficientes para infirmar a decisão agravada, a qual deve ser confirmada por seus próprios fundamentos.
+Com efeito, a parte agravante sustenta a violação aos artigos 798, I, "b", 783 e 373, I, do Código de Processo Civil, alegando que a execução é nula devido à ausência de um demonstrativo de débito atualizado, o que compromete a certeza, liquidez e exigibilidade do título executivo extrajudicial, conforme exigido pelos artigos 798, I, "b", e 783 do CPC/2015.
+Além disso, a recorrente argumenta que a recorrida não comprovou a existência da dívida, pois as notas fiscais apresentadas não possuem assinatura ou carimbo de representantes da recorrente, mas sim de uma empresa terceira, violando o artigo 373, I, do CPC/2015, que estabelece o ônus da prova ao autor quanto ao fato constitutivo de seu direito.
+Por sua vez, o Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia (fls. 125-130, e-STJ):
+"Da nulidade da execução
+Inicialmente, a parte recorrente defende a nulidade da execução, por ausência de demonstrativo detalhado do débito.
+Dispõe o art. 798 do Código de Processo Civil:
+(..)
+A inicial foi instruída, ainda, com duas planilhas de demonstrativo do débito (Evento 1, PLAN20; Evento 1, PLAN21), os quais esclarecem devidamente a composição do saldo devedor, uma vez que tomou por base o valor inicial das notas fiscais/duplicatas e os atualizou, apresentando, ainda, o somatório de juros de cada título e indicando o valor devido individualmente. Além disso, ao Evento 57 foi apresentado novo demonstrativo de débito pela parte exequente, igualmente com indicação do valor original e da evolução, com especificação dos juros de mora.
+De outra parte, caso o embargante/apelante entendesse que o demonstrativo de débito apresentado pelo credor estava incorreto, poderia apresentar o seu próprio, indicando as quantias indevidamente cobradas, o que, no caso, não restou efetivado, pois limitou-se apenas à argumentar de forma genérica que "o demonstrativo de débito apresentado pela embargada no corpo da petição inicial não explicita os elementos e critérios aplicados, como, por exemplo, a existência ou não de capitalização de juros e sua periodicidade" (Evento 1, INIC1, p. 2).
+Não fosse suficiente, mesmo que o demonstrativo de cálculo apresentado contivesse eventual inconsistência, a atitude a ser tomada seria a de propiciar a complementação, na forma ditada pelo art. 801 do Código de Processo Civil, e não declarar nula a execução, consoante requer o apelante.
+Assim, sendo idôneo o demonstrativo carreado à execução, por conter todas as informações necessárias à ampla defesa do executado, tem-se por atendido o disposto no art. 798, inciso I, alíneas "a" e "b" do Código de Processo Civil. Nesse sentido, colhe-se deste Tribunal:
+(..)
+Da ausência de prova da dívida
+Prosseguindo, a parte recorrente defendeu a inexistência de comprovação do débito exequendo, ao argumento de que "absolutamente nenhuma das notas fiscais constam com o carimbo ou assinatura de representantes da apelante, mas sim de empresa terceira, possivelmente transportadora de produtos" . Afirma, ainda, que, "de fato, o CNPJ mencionado pela MM. Juíza é da empresa KOMLOG IMPORTAÇÃO LTDA., e, de fato, é o mesmo nome apresentado nos carimbos dispostos nas notas fiscais que embasam a demanda executiva. Contudo, esta empresa não é a apelante, nem guarda qualquer relação com ela, Excelência" .
+Compulsando os autos, verifica-se que a ação de execução n. 5001788-34.2019.8.24.0040 tem como objeto 09 (nove) notas fiscais/duplicatas, conforme Evento 1 (NFISCAL5, 10 e 15), títulos estes que foram devidamente protestados:
+(..)
+Diversamente do alegado pela parte recorrente, e como bem pontuou a sentença de origem, "todas as notas fiscais apresentadas pela parte embargada/exequente contam com assinaturas de pessoas que se apresentaram como responsáveis pelo recebimento da mercadoria adquirida" (Evento 20).
+A parte apelante defende a inexistência de comprovação de aceite das mercadorias, aduzindo que não terem sido apresentadas provas de que os produtos lhe foram efetivamente entregues.
+De acordo com o art. 8º, da Lei 5.474/1968 - que "dispõe sobre as Duplicatas, e dá outras providências" -, o comprador só poderá deixar de aceitar a duplicata por motivo de (a) avaria ou não recebimento das mercadorias, quando não expedidas ou não entregues por sua conta e risco; (b) vícios, defeitos e diferenças na qualidade ou na quantidade das mercadorias, devidamente comprovados; ou, (c) divergência nos prazos ou nos preços ajustados.
+É o que entende esta Corte de Justiça, conforme se infere do seguinte excerto:
+(..)
+E, no caso em tela, denota-se que as notas fiscais apresentadas na origem indicam de forma clara a empresa recorrente enquanto adquirente/destinatária das mercadorias/produtos.
+A parte recorrente afirma que, "de fato, o CNPJ mencionado pela MM. Juíza é da empresa KOMLOG IMPORTAÇÃO LTDA., e, de fato, é o mesmo nome apresentado nos carimbos dispostos nas notas fiscais que embasam a demanda executiva. Contudo, esta empresa não é a apelante, nem guarda qualquer relação com ela, Excelência" .
+Todavia, ao que se infere dos documentos adunados ao feito, a afirmação é inverídica, porquanto a recorrente possui, sim, relações com a empresa KOMLOG Importação Ltda. É que, por ordem da apelante, as mercadorias foram entregues para a referida empresa, conforme se extrai dos dados adicionais constantes nas notas fiscais e dos respectivos comprovantes de entrega, a saber:
+(..)
+E, neste contexto, conforme bem pontuado pela sentença, "o nome indicado junto ao site da Receita Federal, qual seja, "KOMLOG IMPORTACAO LTDA. - EM RECUPERACAO JUDICIAL", é o mesmo daquele apresentado nos carimbos dispostos nas notas fiscais que embasam a demanda executiva, servindo ainda mais como prova de que houve o aceite e recebimento das mercadorias pela parte embargante" (Evento 20):
+(..)
+Portanto, tem-se por inconteste que os produtos/mercadorias adquiridos pela parte recorrente foram regularmente entregues, mesmo que assinadas por terceira empresa, uma vez que, conforme visto, a própria parte apelante a indicou como recebedora. Aplica-se, assim, a teoria da aparência, amplamente aceita nesta Corte para situações como a presente. Isso porque, as "duplicatas mercantis, ainda que não aceitas, acompanhadas das correspondentes notas fiscais/faturas e de comprovante hábil atestando o recebimento dos produtos adquiridos, são traduzíveis por documentos hábeis à instauração de demanda injuntiva. A comprovação do recebimento, pela devedora, das mercadorias faturadas prescinde da assinatura do representante legal da sacada. Para tanto, faz-se suficiente a assinatura de preposto da acionada, mormente quando vem ela encimada por carimbo próprio da sociedade empresária devedora" (TJSC, Apelação Cível n. 2004.012145-8, de Itajaí. Rel. Des. Trindade dos Santos, j. 23/01/2007).
+(..)
+Logo, a parte credora, ora recorrida, comprovou suficientemente a origem de seu crédito, devendo a sentença ser mantida no ponto.
+Na hipótese, observa-se que o Tribunal de origem concluiu que ficaram comprovadas, suficientemente, a origem do crédito bem como a idoneidade do demonstrativo carreado aos autos, estando comprovados os requisitos para a propositura do feito executivo.
+Nesse contexto, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Ainda, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PREQUESTIONAMENTO FICTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (..)
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+Configura deficiência de fundamentação recursal a apresentação de razões dissociadas que não impugnam fundamento do acórdão por si só suficiente para manter o entendimento adotado.
+6. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial."
+(AgInt no AREsp n. 2.735.498/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/2/2025, DJEN de 28/2/2025)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. RECONVENÇÃO. REVISÃO DE CONTRATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. PRÁTICA ABUSIVA. SÚMULAS N. 83 DO STJ, 283 E 284 DO STF. EMISSÃO DE BOLETO FRAUDULENTO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. INEXISTÊNCIA. FATO EXCLUSIVO DE TERCEIRO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. (..)
+3. A ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o acórdão recorrido configura deficiência na fundamentação e atrai a incidência das Súmula n. 283 e 284 do STF. (..)
+8. Agravo interno desprovido."
+(AgInt no AREsp n. 2.568.985/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, j. 10/2/2025, DJEN de 13/2/2025)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
