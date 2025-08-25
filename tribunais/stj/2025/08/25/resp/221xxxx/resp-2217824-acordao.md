@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO BANCÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC QUE NÃO SE VERIFICA. VALIDADE DO CONTRATO DEMONSTRADA. ÔNUS CUMPRIDO PELO BANCO. AUSÊNCIA DE FALHA NA PRESTAÇÃO DOS SERVIÇOS. ANUÊNCIA DO CONSUMIDOR NA CONTRATAÇÃO. REANÁLISE DE CONTRATO E DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ RECONHECIDA. REFORMA DA PRETENSÃO. INVIABILIDADE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. O Tribunal estadual, apreciando o conjunto probatório dos autos, concluiu pela legalidade do negócio realizado entre as partes, tendo o banco comprovado fato impeditivo, modificativo ou extintivo do direito da parte autora, Alterar esse entendimento ensejaria reavaliação do instrumento contratual e revolvimento das provas dos autos, circunstâncias vedadas pelas Súmulas n. 5 e 7 do STJ.
+3. A exclusão da multa por litigância de má-fé depende, na hipótese, da análise do conteúdo fático da demanda, providência que esbarra no óbice da Súmula n. 7 do STJ.
+4. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por ARLINDO LEONARDO DOS ANJOS (ARLINDO) contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+EMPRÉSTIMO CONSIGNADO. REGULARIDADE DA CONTRATAÇÃO. LITIGÂNCIA DE MÁ-FÉ POR ALTERAÇÃO DA VERDADE DOS FATOS.
+1. A inversão do ônus da prova (CDC, art. 6º VIII) obriga a instituição financeira a demonstrar que houve a contratação do empréstimo consignado mediante a juntada de documentos aptos para tanto, como o instrumento contratual ou de outro documento capaz de revelar a manifestação de vontade do consumidor no sentido de firmar o negócio jurídico (1ª tese fixada pelo TJMA no IRDR nº 53983/2016).
+2. É comportamento contraditório que os contratantes, após obterem a liberação dos valores do empréstimo, se insurjam contra o instrumento contratual (venire contra factum proprium).
+3. Apelo a que se conhece e nega provimento. (e-STJ, fl. 168).
+Irresignado, ARLINDO apresentou recurso especial com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 80, II, 428, I, 436, II, 357, 464, § 1º, I, 1.022, II, do CPC, 169 do CC. Sustentou, em síntese, que (1) não foram enfrentadas as alegações relativamente à impugnação da autenticidade de assinatura na cópia contratual; (2) houve a convalidação de um contrato juridicamente inválido, apesar da impugnação da autenticidade da assinatura; (3) o BANCO incorreu em error in judicando, uma vez que o negócio jurídico nulo não comporta convalidação; e (4) deve ser afastada a litigância de má-fé pois inexistiu o dolo.
+As contrarrazões foram apresentadas.
+O recurso foi admitido pelo TJMA (e-STJ, fls. 266-269).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO BANCÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC QUE NÃO SE VERIFICA. VALIDADE DO CONTRATO DEMONSTRADA. ÔNUS CUMPRIDO PELO BANCO. AUSÊNCIA DE FALHA NA PRESTAÇÃO DOS SERVIÇOS. ANUÊNCIA DO CONSUMIDOR NA CONTRATAÇÃO. REANÁLISE DE CONTRATO E DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ RECONHECIDA. REFORMA DA PRETENSÃO. INVIABILIDADE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. O Tribunal estadual, apreciando o conjunto probatório dos autos, concluiu pela legalidade do negócio realizado entre as partes, tendo o banco comprovado fato impeditivo, modificativo ou extintivo do direito da parte autora, Alterar esse entendimento ensejaria reavaliação do instrumento contratual e revolvimento das provas dos autos, circunstâncias vedadas pelas Súmulas n. 5 e 7 do STJ.
+3. A exclusão da multa por litigância de má-fé depende, na hipótese, da análise do conteúdo fático da demanda, providência que esbarra no óbice da Súmula n. 7 do STJ.
+4. Recurso especial não conhecido.
+VOTO
+O recurso não merece prosperar.
+(1) Da ausência de violação do art. 1.022 do CPC
+Verifica-se que o Tribunal estadual se pronunciou sobre o tema consignando:
+A improcedência da ação e a condenação do Apelante ocorreu pela instituição financeira ter logrado êxito em demonstrar a existência de relação jurídica entre as partes, com a juntada do contrato e documentos pessoais aos autos, obtidos quando da celebração do empréstimo consignado (ID 35251950).
+Como se sabe, "( ) cabe à instituição financeira/ré, enquanto fato impeditivo e modificativo do direito do consumidor/autor (CPC, art. 373, II), o ônus de provar que houve a contratação do empréstimo consignado, mediante a juntada do contrato ou de outro documento capaz de revelar a manifestação de vontade do consumidor no sentido de firmar o negócio jurídico ( )" (TJMA, IRDR nº 53.983/2016, 1ª Tese) (e-STJ, fl. 169).
+Nos embargos de declaração, o TJMA afirmou:
+Não é este o caso, uma vez que, contrariamente ao que sustenta o Recorrente, o Acórdão se manifestou, sim, ainda que implicitamente, sobre a assinatura aposta no contrato, nos seguintes termos: "a condenação do Apelante ocorreu pela instituição financeira ter logrado êxito em demonstrar a existência de relação jurídica entre as partes, com a juntada do contrato e documentos pessoais aos autos, obtidos quando da celebração do empréstimo consignado".
+Como se sabe, a prova pericial deve ser necessária, no sentido de que " como meio de prova que é, a perícia paralelamente tem de ser considerada no contexto do conjunto de provas possíveis. Assim, se a compreensão do fato já tiver sido esclarecida por outro meio, a perícia está dispensada (art. 464 §1º I do CPC)", conforme escólio de LUIZ RODRIGUES WAMBIER e EDUARDO TALAMINI (in Curso Avançado de Processo Civil 2, 2016, p. 342).
+Dessa forma, não restou demonstrada a necessidade da perícia, porque não há nada no contrato que indique falsificação. Além disso, sobreleva mencionar que a instituição financeira comprovou que o contrato impugnado é, na verdade, fruto de refinanciamento de contratação anterior (e-STJ, fl. 240).
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+CIVIL. PROCESSO CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. RECUPERAÇÃO JUDICIAL. PENHORA DEFERIDA EM OUTRO PROCESSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. COMPETÊNCIA DO JUÍZO UNIVERSAL PARA DECIDIR ACERCA DA DESTINAÇÃO DOS BENS DA EMPRESA RECUPERANDA. ART. 47, Lei 11.101/2005. PRECEDENTES. VENDA DE IMÓVEL JÁ PENHORADO EM OUTRO PROCESSO. POSSIBILIDADE. HIPÓTESE EM QUE O BEM JÁ ESTAVA EXPRESSAMENTE DESTINADO À VENDA, NO PLANO DE RECUPERAÇÃO DA EMPRESA. PREVALÊNCIA DO PROCEDIMENTO DE SOERGUIMENTO PERANTE A AÇÃO INDIVIDUAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS AOS PARÂMETROS DA JURISPRUDÊNCIA DO STJ. IRRISORIEDADE DO VALOR ARBITRADO NA ORIGEM. RECURSO ESPECIAL DE INTERPART PARCIALMENTE CONHECIDO E NESSA EXTENSÃO DESPROVIDO. RECURSO ESPECIAL DE SÉRGIO E.I. PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+ ..
+12. Recurso especial de INTERPART conhecido em parte e nessa extensão não provido.
+13. Recurso especial de SÉRGIO E.I. provido.
+(REsp n. 1.854.493/SP, de minha relatoria, Terceira Turma, julgado em 23/8/2022, DJe de 26/8/2022)
+Afasta-se, portanto, a alegada violação.
+(2) (3) Da comprovação da assinatura e da convalidação do negócio jurídico
+Todavia, conforme se depreende da leitura dos excertos acima transcritos, rever as conclusões quanto à legalidade do negócio realizado entre as partes, tendo o banco comprovado fato impeditivo, modificativo ou extintivo do direito da parte autora, demandaria, necessariamente, reexame do contrato e do conjunto fático-probatório dos autos, o que é vedado em razão do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito, confira-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE OBRIGAÇÃO DE NÃO FAZER C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO. CONTRATAÇÃO REGULAR. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. FALHA NO DEVER DE INFORMAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SUMULA 211/STJ. AGRAVO DESPROVIDO.
+1. A Corte de origem, analisando os elementos fático-probatórios dos autos, concluiu pela validade do negócio jurídico celebrado entre os litigantes e consignou que a recorrente realizou adesão ao cartão de crédito ora impugnado, além de ter autorizado descontos em folha de pagamento.
+2. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+3. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.005.980/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 7/10/2022)
+(4) Da litigância de má-fé
+O TJMA assim se manifestou sobre a questão:
+Pertinente à condenação por litigância de má-fé, considerando que foi comprovada a celebração do contrato e encaminhamento de documentos por Arlindo Leonardo dos Anjos (ID 35251945), o Apelante pretende alterar a verdade dos fatos, ato que o caracteriza como litigante de má-fé (CPC, art. 80 II), sobretudo pela comprovação de que até mesmo refinanciou o débito (ID 35251958), não podendo, agora, insurgir-se contra a avença, após beneficiar-se da contratação ( venire contra factum proprium). Dessa forma, não há elementos que ensejem a reformulação da sentença (e-STJ, fl. 169).
+Todavia, conforme se depreende da leitura dos excertos acima transcritos, para alterar a conclusão a que chegou o aresto recorrido, no sentido de afastar a litigância de má-fé, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SUCESSÕES. INVENTÁRIO. LITISPENDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICAÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. ART. 18 DO CPC/1973. AFASTAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONDENAÇÃO DE OFÍCIO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. É inviável o conhecimento de matéria que não tenha sido ventilada no v. aresto atacado e sobre a qual, embora tenham sido opostos embargos declaratórios, o órgão julgador não se pronunciou, cabendo à parte interessada alegar ofensa ao art. 535 do CPC/73. Incidência da Súmula 211 do STJ.
+2. O eg. Tribunal de origem, com base no exame do suporte fático-probatório dos autos, asseverou que o agravante deixou de referir a existência de inventário anterior, pretendendo alterar a verdade dos fatos para obter a sua nomeação como inventariante, usando do processo para conseguir objetivo ilegal e procedendo de modo temerário.
+3. Rever a conclusão adotada no v. acórdão recorrido sobre a caracterização de litigância de má-fé do agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A multa por litigância de má-fé pode ser decretada de ofício quando estiverem preenchidas as condutas descritas no art. 17 do CPC.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.487.062/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. em 28/5/2019, DJe 14/6/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRÉVIO PAGAMENTO DO DÉBITO POUCO DEPOIS DO VENCIMENTO E ANOS ANTES DA EXCEÇÃO. RECONHECIMENTO DA EXISTÊNCIA DE PROVA PRÉ-CONSTITUÍDA. SÚMULA 7/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Não há violação ao art. 535 do CPC, tendo o acórdão examinado, pontualmente e sem a alegada contradição, a questão atinente à possibilidade de, mediante prova pré-constituída, em sede de exceção de pré-executividade, demonstrar-se o prévio pagamento da dívida, evidenciando a nulidade da execução (art. 618, inciso I, do CPC/73).
+2. "A exceção de pré-executividade só é aceita em caráter excepcional: havendo prova inequívoca de que a obrigação inexiste, foi paga, está prescrita ou outros casos de extinção absoluta." (REsp 502.823/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 04/09/2003, DJ 06/10/2003, p. 215)
+3. Possibilidade de julgamento monocrático da apelação, tendo em conta orientação dominante acerca da questão de fundo, o que não representa nulidade a ser declarada ou afronta ao art. 557 do CPC/73.
+4. Sequer o fato de não terem sido o agravo interno e os embargos de declaração, quando submetidos à sessão de julgamento, pautados, representa afronta ao devido processo legal, pois esse procedimento era assim autorizado pelo CPC/73.
+5. Inviável, em sede de recurso especial, a análise acerca da caracterização da litigância de má-fé por alteração da verdade dos fatos, em razão do óbice veiculado pela Súmula 7/STJ. (REsp 1663193/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/02/2018, DJe 23/02/2018)
+6."É desnecessária a comprovação do prejuízo para que haja condenação ao pagamento da indenização prevista no artigo 18, caput e § 2º, do Código de Processo Civil, decorrente da litigância de má-fé"(EREsp 1.133.262/ES, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 03/06/2015, DJe 04/08/2015).
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no REsp 1.671.306/PA, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. em 26/6/2018, DJe 3/8/2018)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+É o voto.
+Advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, e 1.026, § 2º, ambos do CPC).
