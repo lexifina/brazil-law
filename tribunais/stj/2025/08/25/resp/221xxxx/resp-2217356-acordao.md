@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. ALTERAÇÃO. INVIABILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. A Segunda Seção desta Corte, no julgamento do REsp nº 1.061.530/RS sob o regime dos recursos repetitivos, consolidou-se no sentido de que os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Fixou, ainda, o entendimento de que a constatação do abuso na exigência de encargos durante o período da normalidade contratual afasta a configuração da mora.
+2. Tendo a Corte local concluído pela abusividade dos juros a partir das circunstâncias fático-probatórias dos autos e das cláusulas contratuais, a revisão das referidas conclusões por esta Corte encontra óbice nas Súmulas nºs 5 e 7/STJ.
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por SABEMI SEGURADORA S.A., fundamentado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia assim ementado:
+"AGRAVO INTERNO. DECISÃO MONOCRÁTICA. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE VERIFICADA NO CASO CONCRETO. TAXA COBRADA EM DESCONFORMIDADE COM A MÉDIA DE MERCADO PRATICADA PELO BACEN. ALEGAÇÃO DE QUE É SOCIEDADE SEGURADORA E NÃO INSTITUIÇÃO FINANCEIRA. INOVAÇÃO RECURSAL. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO" (e-STJ fl. 265).
+Nas razões do recurso especial (e-STJ fls. 279/288), a recorrente sustenta, além de divergência jurisprudencial, violação do artigo 51, § 1º, do Código de Defesa do Consumidor.
+Sustenta que os juros remuneratórios são abusivos, "(..) inclusive essa corte possui precedente jurisprudencial salientando que somente caberia a revisão se a aplicação dos juros fosse de 150% acima da média" (e-STJ fl. 283).
+Contrarrazões às e-STJ fls. 293/300.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. ALTERAÇÃO. INVIABILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. A Segunda Seção desta Corte, no julgamento do REsp nº 1.061.530/RS sob o regime dos recursos repetitivos, consolidou-se no sentido de que os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Fixou, ainda, o entendimento de que a constatação do abuso na exigência de encargos durante o período da normalidade contratual afasta a configuração da mora.
+2. Tendo a Corte local concluído pela abusividade dos juros a partir das circunstâncias fático-probatórias dos autos e das cláusulas contratuais, a revisão das referidas conclusões por esta Corte encontra óbice nas Súmulas nºs 5 e 7/STJ.
+3. Recurso especial não conhecido.
+VOTO
+A irresignação não merece prosperar.
+Quanto à abusividade dos juros remuneratórios, o tribunal de origem assim se manifestou:
+"(..)
+Acerca da taxa de juros remuneratórios, o Superior Tribunal de Justiça, em sede de Recurso Repetitivo - Resp. 1.061.530/RS - de relatoria da Ministra Nancy Andrighi, consagrou as seguintes orientações: a) as instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; c) são inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. (REsp 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, 2ª Seção, DJe 10/3/2009).
+Acerca do tema, mostra-se oportuna, ainda, a transcrição de trecho do referido julgado:
+"(..)
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade. Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros. A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no R Esp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, D Je de 20.06.2008) ou ao triplo (R Esp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média. Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos. (..)"
+Extrai-se do mencionado julgado que a alteração da taxa de juros remuneratórios pactuada em mútuo bancário depende da demonstração cabal de sua abusividade em relação à taxa média do mercado, e que cabe somente ao Juiz, no caso concreto, avaliar se os juros contratados são ou não abusivos.
+No caso dos autos, conforme já consignado na decisão monocrática ora impugnada, de acordo com informações extraídas do site do Banco Central do Brasil, consultando o site do Banco Central do Brasil, verifico que a taxa média de juros praticada no mercado na modalidade "Taxa média mensal de juros - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público", na data da celebração da avença, ocorrida em 10/2016 (id 50500237), era de 2,05% a. m., e os juros remuneratórios pactuados pelas partes foram de 2,18% a. m. logo, a taxa contratada é maior que a praticada pelo mercado, havendo, portanto, abusividade, não merecendo razão o agravante" (e-STJ fls. 267/269).
+De fato, a Segunda Seção desta Corte, no julgamento do REsp nº 1.061.530/RS sob o regime dos recursos repetitivos, consolidou-se no sentido de que os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Fixou, ainda, o entendimento de que a constatação do abuso na exigência de encargos durante o período da normalidade contratual afasta a configuração da mora.
+O referido julgado recebeu a ementa abaixo transcrita no que interessa:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONFIGURAÇÃO DA MORA. JUROS MORATÓRIOS. INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DE INADIMPLENTES. DISPOSIÇÕES DE OFÍCIO. DELIMITAÇÃO DO JULGAMENTO
+(..)
+I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE.
+ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS a) As instituições financeiras não se
+sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada  art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+ORIENTAÇÃO
+2 - CONFIGURAÇÃO DA MORA a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora; b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.
+(..)
+II- JULGAMENTO DO RECURSO REPRESENTATIVO (REsp 1.061.530/RS)
+(..)
+Os juros remuneratórios contratados encontram-se no limite que esta Corte tem considerado razoável e, sob a ótica do Direito do Consumidor, não merecem ser revistos, porquanto não demonstrada a onerosidade excessiva na hipótese.
+Verificada a cobrança de encargo abusivo no período da normalidade contratual, resta descaracterizada a mora do devedor.
+(..)
+Recurso especial parcialmente conhecido e, nesta parte, provido, para declarar a legalidade da cobrança dos juros remuneratórios, como pactuados, e ainda decotar do julgamento as disposições de ofício. Ônus sucumbenciais redistribuídos" (REsp 1.061.530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/3/2009).
+Nesse contexto, tendo a Corte local concluído pela abusividade dos juros a partir das circunstâncias fático-probatórias dos autos e das cláusulas contratuais, a revisão das referidas conclusões por esta Corte encontra óbice nas Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. REVISÃO DE TAXAS DE JUROS REMUNERATÓRIOS. ABUSIVIDADE. REEXAME. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a taxa de juros remuneratórios contratada é abusiva, considerando a média de mercado divulgada pelo Banco Central do Brasil, e se a revisão dessa taxa demanda reexame de cláusulas contratuais e do conjunto fático-probatório.
+4. Outra questão em discussão é a possibilidade de concessão de justiça gratuita à parte agravante, uma pessoa jurídica em liquidação extrajudicial.
+III. Razões de decidir
+5. A decisão agravada foi mantida, pois a revisão da taxa de juros remuneratórios contratada, considerada abusiva, demandaria reexame de cláusulas contratuais e do conjunto fático-probatório, o que é vedado em sede de recurso especial, conforme as Súmulas 5 e 7 do STJ.
+(..)
+IV. Dispositivo
+7. Agravo interno não provido" (AgInt no AREsp 2.564.072/RS, Relatora Ministra DANIELA TEIXEIRA, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025 - grifou-se).
+"BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ÍNDOLE ABUSIVA. TEMAS REPETITIVOS 233 E 234 DO STJ. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULAS 83/STJ. ABUSIVIDADE NA COBRANÇA DA TAXA DE JUROS REMUNERATÓRIOS PACTUADA ENTRE AS PARTES. REVISÃO QUE ENSEJA A APLICAÇÃO DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPRO VIDO.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+3. "É possível, de forma excepcional, a revisão da taxa de juros remuneratórios prevista em contratos de mútuo, sobre os quais incide a legislação consumerista, desde que a abusividade fique cabalmente demonstrada, mediante a colocação do consumidor em desvantagem exagerada" (AgInt no AREsp n. 1.617.184/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1/6/2020, DJe de 4/6/2020.).
+4. No caso, o Tribunal a quo concluiu pelo caráter abusivo dos juros remuneratórios pactuados, considerando que excederam, de forma exorbitante, a taxa média de mercado. Nesse contexto, observa-se que a controvérsia foi decidida em conformidade com a jurisprudência do Superior Tribunal de Justiça. Incidência da Súmula 83 do STJ.
+5. No caso em comento, o Tribunal de origem, analisando o contrato entabulado entre as partes, constatou a abusividade na taxa de juros pactuada em comparação com a taxa média de mercado praticada no período, conclusão extraída das peculiaridades da situação em concreto. Rever tal entendimento demandaria o revolvimento do acervo fático-probatório dos autos e interpretação de cláusulas contratuais, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+6. Agravo interno desprovido" (AgInt no AREsp 2.748.154/RS, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 16/12/2024, DJEN de 20/12/2024 - grifou-se).
+A inadmissão do recurso especial interposto com base no artigo 105, III, alínea "a", da Constituição Federal em virtude da incidência de óbices sumulares prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 4.000,00 (quatro mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
