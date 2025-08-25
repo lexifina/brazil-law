@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELVENI CAPITANI TURMINA, para impugnar a decisão proferida pelo Vice-Presidente do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que não admitiu o recurso especial.
+Consta dos autos que a recorrente foi condenada como incursa no art. 299, caput, na forma do art. 71, e no art. 312, ambos do CP, à pena de 03 (três) anos e 02 (dois) meses de reclusão, a ser cumprida em regime inicial aberto, e 22 (vinte e dois) dias-multa, à razão de 1/30 (um trigésimo) do salário mínimo vigente à data do fato, tendo a pena corporal sido substituída por duas restritivas de direito, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, por alegada violação aos arts. 315, § 2º, inciso IV, 619 e 620, bem como 610 e 613, todos do Código de Processo Penal.
+Não admitido o recurso especial, a defesa interpôs o presente agravo em recurso especial.
+O Ministério Público Federal opinou pelo conhecimento e pelo desprovimento do agravo em recurso especial.
+É o relatório. DECIDO.
+Presentes os requisitos de admissibilidade, conheço do agravo em recurso especial.
+No que tange ao recurso especial interposto, especificamente em relação à alegada violação ao art. 619 do CPP, entende esta Corte Superior que "não há que se falar em fundamentação deficiente quando o julgador, exercendo seu livre convencimento motivado, decide a causa com fundamentação contrária aos interesses da parte" (AgRg no AREsp 2659732 / BA, QUINTA TURMA, Rel. Ministro JOEL ILAN PACIORNIK, DJEN 17/12/2024).
+Da mesma forma, descabe invocar "omissão do Tribunal local quanto às teses ora deduzidas, porquanto efetivamente houve pronunciamento do Tribunal a quo acerca dos temas, cumprindo asseverar que o julgador não é obrigado rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento, o que ocorreu na espécie" (AgRg nos EDcl no REsp 1284383 / PR, SEXTA TURMA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJEN 10/12/2024).
+No que toca à tese de prescrição da pretensão punitiva estatal, na modalidade retroativa, a tese defensiva não foi objeto de expressa apreciação pela Corte de origem no acórdão recorrido, de sorte que a alegada mácula aos dispositivos infraconstitucionais carece do necessário prequestionamento, o que impede o processamento do recurso especial, conforme súmulas 282 e 356 do STF.
+Nesta ordem de ideias, "a jurisprudência do STJ e do STF exige que o prequestionamento seja demonstrado por meio de pronunciamento expresso do Tribunal de origem sobre as teses jurídicas, o que não foi comprovado pelo agravante" (AgRg no AREsp 2598671 / RS, QUINTA TURMA, de minha relatoria, DJEN 20/12/2024).
+E, por relevante, "a ausência de prequestionamento impede o conhecimento de matéria em recurso especial, mesmo que de ordem pública, conforme as Súmulas 282 e 356/STF" (AgRg no REsp 2160076 / SP, QUINTA TURMA, Rel. Ministro RIBEIRO DANTAS, DJEN 02/07/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
