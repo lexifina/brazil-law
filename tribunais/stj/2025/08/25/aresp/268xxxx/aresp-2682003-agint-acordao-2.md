@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO AJUIZADA POR CONDOMÍNIO EDILÍCIO EM FACE DA CONSTRUTORA. RESPONSABILIDADE CIVIL POR VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). RESPONSABILIDADE VERIFICADA. DANOS MATERIAIS COMPROVADOS. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. Esta Corte Superior entende que "o prazo prescricional da ação para obter, do construtor, indenização por defeito da obra na vigência do Código Civil de 2002 é de 10 anos" (AgRg no AREsp 661.548/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 10/6/2015).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ERBE INCORPORADORA 001 S.A. contra decisão singular de minha lavra na qual neguei provimento ao agravo em recurso especial pelos seguintes fundamentos: a) incidência da Súmula 7 do STJ, por envolver reexame de matéria fático-probatória; b) incidência da Súmula 83 do STJ, por estar o acórdão recorrido em consonância com a jurisprudência desta Corte (fls. 1.592-1.597).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada violou os arts. 421 e 482 do Código Civil.
+Sustenta que no seu recurso especial não busca o reexame de provas, mas sim a arguição de questão de direito federal relevante.
+Argumenta, também, que a decisão agravada teria violado o art. 618 do Código Civil, ao não reconhecer a decadência do direito do agravado, considerando a data de expedição do habite-se como início do prazo decadencial.
+Alega que o prazo decadencial não se suspende nem se interrompe, o que teria sido demonstrado, no caso, por documentos que indicam a expedição do habite-se em 29/10/2013.
+Haveria, por fim, violação aos arts. 207 e 445 do Código Civil, uma vez que o Tribunal de origem não aplicou corretamente o prazo decadencial previsto para vícios construtivos.
+Contraminuta ao agravo às fls. 1.658-1.665 na qual a parte agravada alega que o acórdão recorrido está em consonância com a jurisprudência do STJ, sustenta que a ação foi ajuizada dentro do prazo legal, considerando que o vício só foi efetivamente conhecido em 2016 após a exibição de documentos.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO AJUIZADA POR CONDOMÍNIO EDILÍCIO EM FACE DA CONSTRUTORA. RESPONSABILIDADE CIVIL POR VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). RESPONSABILIDADE VERIFICADA. DANOS MATERIAIS COMPROVADOS. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. Esta Corte Superior entende que "o prazo prescricional da ação para obter, do construtor, indenização por defeito da obra na vigência do Código Civil de 2002 é de 10 anos" (AgRg no AREsp 661.548/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 10/6/2015).
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de ação indenizatória ajuizada pelo Condomínio do Edifício Reserva de Itaúna contra ERBE Incorporadora 001 S.A., visando à reparação de vícios ocultos na construção do edifício.
+A sentença julgou parcialmente procedentes os pedidos, condenando a ora agravante ao pagamento de indenização por danos materiais, mas julgando improcedente o pedido de indenização por danos morais.
+Como constou na decisão ora agravada, o Tribunal de origem manteve a sentença e rejeitando a alegação de decadência sustentando que: (i) a parte aparente dos vícios não surgiu em 2016 como alega a agravante, mas ainda dentro do prazo de garantia de cinco anos, e seu reparo foi reclamado tempestivamente; (ii) a própria agravante noticia a existência de reclamações ao SAT por trincas em várias paredes e pisos desde 2006 (index 648/658) e, ainda que tenha repintado o local, não há notícia de que tenha sido investigado, muito menos solucionado, o problema que causava todas essas trincas; (iii) as trincas permaneciam sem solução ainda em 2010, com atendimento pendente pelo Serviço de Assistência Técnica (SAT) da agravante, afirmando que não existiria risco estrutural; (iv) o pedido de reparo feito ao fornecedor interrompe o prazo decadencial, só voltando a fluir quando tenha efetivamente concluído o reparo ou manifeste sua expressa recusa em fazê-lo; (v) o início do prazo continuou obstado pela reclamação à agravante, que marcou uma visita técnica em 28/3/2017, mas não solucionou o problema, nem há notícia de ter sido finalizado esse atendimento; e, portanto, o prazo para o ajuizamento da demanda seria de 10 (dez) anos, e a ação foi ajuizada antes de seu decurso (em 2018). Confira-se:
+Em seu recurso, a ré alega preliminarmente a decadência do direito autoral, ao argumento de que a entrega formal do empreendimento se deu em 27/02/2004, com a expedição do "habite-se", e o autor só teria noticiado o surgimento dos vícios - que a ré aduz serem aparentes - em 29/09/2016, e só propôs a demanda em 22/03/2018.
+Reclama a aplicação do prazo quinquenal previsto no art. 618 do Código Civil, ou do prazo de 180 dias do seu parágrafo único.
+ ..
+Em primeiro lugar, o contrato entre as partes não é de empreitada, nem o condomínio se caracteriza como empreiteiro. Na hipótese, a ré planejou e construiu o prédio, colocando as unidades à venda no mercado de consumo, de sorte que o condomínio/autor constitui a coletividade dos consumidores que as adquiriram.
+O prazo de garantia do empreendimento é contratual, fixado em 05 anos para defeitos em peças estruturais, como consta do Manual juntado pela ré no index 359, sem prejuízo das disposições do Código de Defesa do Consumidor:
+ ..
+Tratando-se de relação de consumo, o pedido de reparo feito ao fornecedor interrompe o prazo decadencial, só voltando a fluir quando tenha efetivamente concluído o reparo ou manifeste sua expressa recusa em fazê-lo. É nesse sentido o que dispõe o art. 26, §2º, I, do CDC.
+ ..
+No caso em tela, a parte aparente dos vícios não surgiu em 2016 como alega a ré, mas ainda dentro do prazo de garantia de cinco anos, e seu reparo foi reclamado junto à ré tempestivamente.
+A própria ré noticia a existência de reclamações ao SAT por trincas em várias paredes e pisos desde 2006 (index 648/658) e, ainda que tenha repintado o local, não há notícia de que tenha sido investigado, muito menos solucionado, o problema que causava todas essas trincas.
+Pelo que se verifica das missivas de index 27 e 29, as trincas permaneciam sem solução ainda em 2010, com atendimento pendente pelo Serviço de Assistência Técnica (SAT) da ré, afirmando que não existiria risco estrutural:
+ ..
+Não há notícia de ter sido solucionado o problema, mesmo na presente data.
+Ainda que o vício fosse considerado aparente, não haveria decadência porque a reclamação ao SAT e a falta de solução obstam o decurso do prazo decadencial.
+Na realidade, o problema não foi solucionado porque o verdadeiro defeito não era aparente, mas na estrutura da construção. Ao que consta, a ré omitiu do autor a causa dos problemas apresentados no prédio, recusando-lhe documentos mesmo após ter sido notificada (index 32/38), o que reclamou a propositura de ação própria.
+Julgada procedente a ação de exibição de documentos, a ré interpôs recurso (index 39), o que atrasou ainda mais a constatação do vício, pois era necessário analisar os documentos da obra (projetos, estudos de sondagens..) para avaliá-lo.
+O conhecimento do vício objeto da presente demanda foi ocultado pela própria ré, de sorte que o prazo decadencial só se iniciou quando ficou evidenciado, no parecer de 2016. Aplica-se o art. 26, §2º, I, do CDC:
+ ..
+Ou seja, o início do prazo continuou obstado pela reclamação à ré, que marcou uma visita técnica em 28/03/2017, mas não solucionou o problema, nem há notícia de ter sido finalizado esse atendimento.
+Não bastasse, mesmo que se contasse desse atendimento em 2017, o prazo para o ajuizamento da demanda seria de 10 (dez) anos e a ação foi ajuizada antes de seu decurso (em 2018), conforme entendimento do STJ:  ..  (fls. 1.184/1.188).
+Como se vê, o acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte, nos sentido de que "o evento danoso, para caracterizar a responsabilidade da construtora, deve apresentar-se dentro dos 5 (cinco) anos previstos no art. 618 do Código Civil de 2002 (art. 1.245, CC/16). Uma vez caracterizada tal hipótese, o construtor poderá ser acionado no prazo prescricional de vinte (20) anos na vigência do CC/16, e 10 (anos) na vigência do CC/02" (AgInt nos EDcl no REsp 1.814.884/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/3/2020, DJe de 25/3/2020). A saber:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL POR VÍCIO DE CONSTRUÇÃO. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). RESPONSABILIDADE VERIFICADA. DANOS MATERIAIS COMPROVADOS. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A pretensão de natureza indenizatória do consumidor por prejuízos decorrentes de vícios de construção do imóvel não se submete a prazo decadencial, mas sim a prazo prescricional. Precedentes.
+2. Nos termos da jurisprudência desta Corte: "O evento danoso, para caracterizar a responsabilidade da construtora, deve apresentar-se dentro dos 5 (cinco) anos previstos no art. 618 do Código Civil de 2002 (art. 1.245, CC/16). Uma vez caracterizada tal hipótese, o construtor poderá ser acionado no prazo prescricional de vinte (20) anos na vigência do CC/16, e 10 (anos) na vigência do CC/02" (AgInt nos EDcl no REsp 1.814.884/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/03/2020, DJe de 25/03/2020).
+3. Esta Corte Superior entende que "o prazo prescricional da ação para obter, do construtor, indenização por defeito da obra na vigência do Código Civil de 2002 é de 10 anos" (AgRg no AREsp 661.548/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 10/6/2015).
+4. O Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela responsabilidade civil da agravante, em razão dos vícios construtivos presentes no imóvel. A pretensão de modificar tal entendimento, considerando as circunstâncias do caso concreto, acerca das provas periciais e da extensão dos danos materiais, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.304.871/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/12/2024, DJEN de 19/12/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. VÍCIO CONSTRUTIVO. ART. 26 DO CDC. ART. 618 DO CC. PRAZO DECADENCIAL. INAPLICABILIDADE. MÍNIMO DE GARANTIA DO IMÓVEL. IRRELEVÂNCIA PARA CONTAGEM DO PRAZO PRESCRICIONAL DECENAL. PRECEDENTES.
+1. Conforme entendimento jurisprudencial da Segunda Seção, a pretensão do consumidor de ser indenizado pelo prejuízo decorrente de vícios de construção não se sujeita a prazo decadencial, quer previsto no Código Civil, quer previsto no CDC.
+2. A jurisprudência do STJ destaca que o prazo previsto no art. 618 do CC é meramente para irredutibilidade de garantia mínima, não tendo nenhuma influência com o prazo prescricional, o qual tem como termo a quo a constatação do vício. Precedentes.
+3. "A "solidez e segurança do trabalho de empreitada de edifícios ou outras construções consideráveis" foram destacadas pelo legislador (artigo 618 do Código Civil) para fins de atendimento ao prazo irredutível de garantia de cinco anos, não consubstanciando, contudo, critério para aplicação do prazo prescricional enunciado na Súmula 194 do STJ". (AgInt no AREsp n. 438.665/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/9/2019).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.172.556/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Incide, portanto, o óbice da Súmula 83 do STJ.
+Quanto ao mais, na hipótese dos autos, a revisão das conclusões proferidas pelo Colegiado estadual a fim de verificar que os vícios decorreram de má conservação pelo próprio Condomínio, como pretendido pela agravante, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
