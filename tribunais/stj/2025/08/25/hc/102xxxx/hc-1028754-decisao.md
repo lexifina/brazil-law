@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EUDER DE SOUZA BONETHE apontando como autoridade coatora o Tribunal de Justiça do Estado do Ceará (Apelação Criminal n. 0272395-92.2022.8.06.0001).
+Consta dos autos que o paciente foi condenado como incurso no art. 2º, § 2º, da Lei n. 12.850/2013 à pena de 8 anos e 3 meses de reclusão, em regime fechado. Irresignada, a defesa interpôs recurso de apelação, ao qual se negou provimento. Opostos embargos de declaração, estes foram rejeitados, redimensionando-se a pena de ofício para 5 anos, 8 meses e 7 dias de reclusão, mantidos os demais termos da condenação.
+Foi interposto, ainda, o Agravo em Recurso Especial n. 2.908.515/CE, ao qual se negou provimento.
+No presente mandamus, a defesa aduz, em um primeiro momento, que é cabível o presente habeas corpus, uma vez que a matéria não foi analisada no agravo em recurso especial. Quanto ao mérito propriamente dito, afirma que as provas são nulas por não observância à cadeia de custódia da prova.
+Destaca que, no agravo em recurso especial, mencionou-se "que a análise acerca das argumentações da defesa demandaria análise aprofundada das provas, o que é vedado pela Súmula 7 desse Tribunal Superior". Assevera, no entanto, que "há sim a possibilidade de análise da quebra de cadeia de custódia inclusive em habeas corpus, remédio constitucional que não admite dilação probatória".
+Pugna, assim, pela nulidade das provas.
+É o relatório. Decido.
+Conforme relatado, a defesa interpôs anteriormente perante esta Corte Superior o Agravo em Recurso Especial n. 2.908.515/CE, também apontando a nulidade da prova por quebra da cadeia de custódia, o qual foi julgado nos seguintes termos:
+Verifica-se que a matéria não foi analisada pelo Tribunal pela ótica pretendida pelo recorrente, tendo o acórdão consignado que a defesa sequer apontou qual circunstância seria capaz de evidenciar a adulteração da prova. Incidência, no ponto, das Súmulas ns. 282 e 356 do STF.
+Ademais, acolher o pleito de reconhecimento de nulidade decorrente de quebra da cadeia de custódia demandaria o reexame de fatos e provas, inviável na instância especial, consoante disposto na Súmula 7 do STJ.
+Como visto, a matéria não foi conhecida no recurso próprio em razão de não ter sido analisada pela Corte local sob a ótica pretendida pela defesa, bem como em virtude de demandar reexame de fatos e de provas. Dessa forma, diversamente da afirmação da defesa, constata-se que referidos óbices se aplicam igualmente ao exame da matéria em habeas corpus, haja vista a supressão de instância e a necessidade de revolvimento de fatos e de provas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR DO §4º DO ART. 33, DA LEI 11.343/2006. WRIT INDEFERIDO LIMINARMENTE. ART. 210 DO RISTJ. REITERAÇÃO DE TEMA ANTERIORMENTE APRECIADO POR ESTA CORTE. INVIABILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Consoante o art. 210 do Regimento Interno do Superior Tribunal de Justiça, o relator indeferirá liminarmente o habeas corpus quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos.
+2. Na espécie, esta Corte já havia se pronunciado nos autos do AREsp 2.359.517/MT, que concluiu pela validade da fundamentação adotada pelas instâncias locais para negar a aplicação do redutor do tráfico privilegiado e pela impossibilidade de reexame do contexto fático-probatório. Em consequência, trata-se de mera reiteração de tese já apreciada por esta Corte, revelando-se incabível o habeas corpus.
+3. O mesmo óbice processual que inviabilizou a análise do mérito da pretensão defensiva no julgamento do agravo em recurso especial - inviabilidade de reexame fático-probatório - alcança esse instrumento, na medida em que também não é possível o reexame do conjunto fático-probatório na via estreita do habeas corpus.
+4 . Agravo regimental desprovido.
+(AgRg no HC n. 842.595/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/9/2023, DJe de 26/9/2023.)
+Nesse contexto, constata-se que o presente habeas corpus é mera reiteração, o que impede seu conhecimento. É "assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Relator Ministro Rogerio Schietti Cruz, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
