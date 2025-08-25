@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela ASSOCIACAO NACIONAL DOS SERVIDORES DA POLICIA FEDERAL da decisão em que neguei provimento ao recurso especial (fls. 437/441).
+A parte agravante alega que:
+(1) "Com efeito, a partir da sua interposição, os recorrentes buscaram prequestionar os artigos violados pelo tribunal de origem, no que tange a aplicação do TEMA 880 do STJ, bem como o fato de haver execução coletiva para os recorrentes antes mesmo da determinação do desmembramento.
+Todavia, o Tribunal a quo manteve-se silente sobre os argumentos apresentados, mesmo sendo a análise imprescindível para o deslinde do caso em questão, os quais poderiam, de fato, infirmar a conclusão adotada pelo julgador.
+Assim, é flagrante a violação ao art. 1.022, do CPC, pela negativa de prestação jurisdicional, pois mesmo os recorrentes demonstrando a inocorrência de prescrição, seja pela causa interruptiva, seja pela situação reclamar a aplicação da modulação de representativo da controvérsia nº 1.336.026-pe do STJ (tema nº880), a corte de origem manteve o seu entendimento.
+Desta forma, o i. relator deste recurso espacial, ao consignar que não estaria configurada a violação somente ao artigo 1.022 do CPC, bem como por deixar de conhecer dos argumentos atinentes a prescrição, repete o mesmo vício aqui impugnado, qual seja: a ausência de prestação jurisdicional efetiva, no seu aspecto atinente ao direito da parte em ter a sua pretensão recursal analisada" (fl. 449);
+(2) "tendo a condenac a o transitado em julgado em 1991, muito antes de 17.03.2016, termo final para aplicac a o da modulac a o estabelecida para tese fixada no Tema Repetitivo 880, e na o sendo as fichas financeiras indispensa"veis a" precisa apurac a o do quantum debeatur e a" deflagrac a o dos procedimentos individualizados, documentos que ate" que ate" o momento na o foram localizados, nos autos ou fora deles, "o prazo prescricional de 5 anos para propositura da execuc a o ou cumprimento de sentenc a conta-se a partir de 30/6/2017" (modulac a o de efeitos do Tema 880).
+Iniciada a contagem em 30.06.2017, a prescric a o consumar-se-ia em 30.06.2022. Protocolado este procedimento em data anterior, na o ha" que se falar em prescric a o. A pretensa o executo"ria esta", tambe"m por este fundamento, va"lida" (fl. 453).
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 469/470).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Agravo interno a que se nega provimento.
+VOTO
+Na decisão agravada, foi negado provimento ao recurso especial da parte ora agravante porque o acórdão recorrido não padecia de vício algum, a prestaçã o jurisdicional, enfim, teria sido integralmente prestada.
+Quanto ao ponto controvertido - não ocorrência da prescrição à luz do Tema 880 do STJ -, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO decidiu nestes termos (fl. 318):
+A parte embargante aduz que o julgado teria incorrido em contradição e omissão. Verifico, porém, não assistir razão à embargante.
+Da análise dos autos, verifica-se que o acórdão embargado tratou das questões ora reiteradas no recurso, quais sejam, a ausência de apresentação de declaração de filiados e fichas financeiras nos autos. Esta Quinta Turma se manifestou expressamente sobre o cerne das questões trazidas à baila por ocasião da apreciação do recurso guerreado, fundamentando não haver nenhuma evidência de que as fichas financeiras não estivessem à disposição dos interessados, o que se confirma pelo fato de haverem sido propostas várias execuções anteriormente. Além disso, restou demonstrado que os ora embargantes, na petição inicial, não demonstraram qualquer tentativa de obtenção das fichas financeiras, limitando-se a afirmar que a execução coletiva estaria suspensa, argumento este que não procede, eis que referida execução coletiva suspensa não esteve, tendo, em verdade, sido determinado o seu desmembramento em grupos menores.
+Com efeito, as alegações de contradição e omissão, além de não ter o condão de afastar a conclusão do acórdão, constitui mera tentativa de rediscussão de aspectos fático-jurídicos anteriormente debatidos, o que não é possível pela via dos aclaratórios, até porque estes não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual entendimento em sentido contrário ao pretendido pelo recorrente.
+No caso dos autos, o Tribunal de origem resolveu a controvérsia ao assentar que não há qualquer evidência, na presente hipótese, de que as fichas financeiras não estivessem à disposição dos interessados, sobretudo porque houve a propositura de várias execuções anteriormente, sendo consignado ainda que "os exequentes/agravados, na petição inicial, não demonstraram qualquer tentativa de obtenção das fichas financeiras, limitando-se a afirmar que a execução coletiva estaria suspensa, argumento este que não procede, eis que referida execução coletiva não permanece suspensa, tendo, em verdade, sido determinado o seu desmembramento em grupos menores" (fl. 216).
+Tudo que interessava à resolução do dissídio foi devidamente respondido. É importante ressaltar que o descontentamento da parte interessada com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação.
+Está correta a decisão que negou provimento ao recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
