@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
+O agravante sustenta, em síntese, que: i) necessidade de uniformização da jurisprudência (violação ao artigo 926 do Código de Processo Civil), pois no REsp n. 2.120.919/RN, subscrito pelos mesmos causídicos e alegando os mesmos fatos, o Ministro Benedito Gonçalves entendeu pela violação aos artigos 489, § 1º, IV e VI, e 1.022, I e II, da Lei n.º 13.105/15 (CPC); ii) houve violação inequívoca dos arts. 489 e 1.022 do CPC/2015, uma vez que: a apreciação do Tribunal a quo se pautou em tese totalmente estranha ao feito: a exclusão de valores de ICMS da base de cálculo do PIS e da COFINS; no caso concreto, toda a fundamentação, desde a narrativa fática, demonstrou de forma clara e objetiva que se intentava unicamente o creditamento de PIS/COFINS, a partir dos valores dispendidos a título de ICMS-Antecipado.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão agravada negou provimento ao recurso especial, concluindo pela inexistência de violação aos arts. 489 e 1.022 do CPC/2015 e por reconhecer que o Tribunal de origem decidiu a demanda em observância à jurisprudência do Superior Tribunal de Justiça.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Sustenta a agravante que, "no caso concreto, toda a fundamentação, desde a narrativa fática, demonstrou de forma clara e objetiva que se intentava unicamente o creditamento de PIS/COFINS, a partir dos valores dispendidos a título de ICMS-Antecipado".
+No caso dos autos, evidencia-se que a questão foi assim tratada na instância de origem (com grifo nosso):
+In casu, observa-se o equívoco na decisão embargada, ao tratar da impossibilidade de exclusão do valor do ICMS-Antecipado da base de cálculo do PIS/COFINS, matéria diversa daquela trazida pela impetrante/apelante.
+Na verdade, a questão devolvida para análise deste Tribunal diz respeito ao creditamento, nas bases de cálculo da contribuição para o PIS e da COFINS, dos valores de ICMS-antecipado. (fl. 424, decisão monocrática)
+Conforme consta da inicial, "o presente mandado de segurança tem o escopo de assegurar à Impetrante seu direito líquido e certo de usar como créditos - na apuração do PIS e da COFINS - os valores pagos a título de ICMS-Antecipado".
+ ..
+É de se registrar que, no caso em tela, todavia, a parte impetrante recolhe o ICMS sobre as operações próprias, só que de forma antecipada. Não se trata, portanto, de pedido de substituída tributária de exclusão dos valores do ICMS-ST da base de cálculo do PIS e da COFINS, mas de pleito de creditamento na apuração do PIS e da COFINS de valores pagos de ICMS-próprio, de forma antecipada, aos cofres estaduais.
+Assim, a impetrante é a própria contribuinte que antecipa o ICMS junto ao Estado da Paraíba, ou seja, paga antes de emitir a nota fiscal de saída do bem do seu estabelecimento por ocasião da futura venda da mercadoria. Registre-se que o valor do ICMS-Antecipado não integra a base de cálculo do PIS/COFINS, pois ele não é destacado na nota fiscal. Note-se que o STF, ao decidir a respeito da matéria, pronunciou-se no sentido de que o ICMS a ser restituído é aquele destacado na nota fiscal. O valor do ICMS-Antecipado, repise-se, não é destacado na nota fiscal. Ver: PROCESSO: 08059003720214058400, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL PAULO MACHADO CORDEIRO, 2ª TURMA, JULGAMENTO: 15/03/2022. (fls. 467-468, acórdão recorrido).
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Igualmente, não há falar em ofensa ao art. 489 do CPC/15, pois o acórdão impugnado ampara-se em fundamentação jurídica suficiente, que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido.
+A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Sublinha-se que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Por fim, o art. 926 do CPC impõe ser dever dos tribunais uniformizar a sua jurisprudência e mantê-la estável, íntegra e coerente. Entretanto, o referido dispositivo legal não possui comando normativo capaz de sustentar a tese deduzida no agravo interno, uma vez que busca a parte recorrente, por vias transversas, a reforma da decisão monocrática agravada por entender que a solução dada por este relator no REsp n. 2.120.919/RN seria a mais adequada.
+Ademais, é entendimento sedimentado no Superior Tribunal de Justiça de que a verificação da ocorrência ou não dos vícios listados no artigo 1.022 do CPC, bem assim do art. 489, § 1º, depende da apreciação das premissas fáticas do caso concreto, o que obsta o conhecimento de divergência ante a inviabilidade de confrontação entre os casos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
