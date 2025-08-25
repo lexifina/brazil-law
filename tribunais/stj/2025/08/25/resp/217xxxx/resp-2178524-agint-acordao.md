@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. PROCEDIMENTO DE PROSTATAVESICULECTOMIA RADICAL ROBÓTICA PARA TRATAMENTO DE CÂNCER DE PRÓSTATA. COBERTURA DEVIDA.
+1. Agravo interno interposto contra decisão que deu provimento ao recurso especial para restabelecer a sentença que determinou que a ré custeie os procedimentos médicos prescritos para o tratamento de câncer do autor.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que se tratando de procedimentos para o tratamento de câncer, independentemente da natureza do rol ANS, as operadoras de plano de saúde têm o dever de cobertura.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 1.029-1.034, na qual dei provimento ao recurso especial da parte contrária.
+A parte agravante sustenta que o procedimento pelo método solicitado, robótico, não possui cobertura contratual, uma vez que não faz parte do rol de procedimentos da ANS, possuindo o recorrido cobertura apenas para o procedimento no método convencional.
+Argumenta que "a decisão proferida não pode prevalecer, devendo ser considerada s  as alterações trazidas pela Lei nº 14.454/2022, ou seja, é necessário que, a partir de uma análise do caso concreto, seja verificado se os critérios efetivamente foram cumpridos, a partir das provas produzidas no processo" (fl. 1.071).
+Impugnação às fls. 1.086-1.111, em que o agravado alega que a técnica robótica era o único meio adequado e seguro para a realização da cirurgia de que necessitava para tratamento de câncer, considerando que nessa técnica tem menor grau de sangramento e havia a preexistência de cardiopatia grave, conforme descrito na recomendação médica.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. PROCEDIMENTO DE PROSTATAVESICULECTOMIA RADICAL ROBÓTICA PARA TRATAMENTO DE CÂNCER DE PRÓSTATA. COBERTURA DEVIDA.
+1. Agravo interno interposto contra decisão que deu provimento ao recurso especial para restabelecer a sentença que determinou que a ré custeie os procedimentos médicos prescritos para o tratamento de câncer do autor.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que se tratando de procedimentos para o tratamento de câncer, independentemente da natureza do rol ANS, as operadoras de plano de saúde têm o dever de cobertura.
+3. Agravo interno a que se nega provimento.
+VOTO
+A decisão recorrida julgou recurso especial interposto em face de acórdão assim ementado (fl. 701):
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE. RETORNO DOS AUTOS DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA NOVO JULGAMENTO. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. ADENOCARCINOMA DE PRÓSTATA. PROCEDIMENTOS CIRÚRGICOS DE PROSTATAVESICULECTOMIA RADIAL E DE LINFADENECTOMIA PÉLVICA. INDICAÇÃO DE TÉCNICA NÃO PREVISTA NO ROL DA ANS - ROBÓTICA. REQUISITOS DEFINIDOS PELO E. STJ NO JULGAMENTO DO ERESP Nº 1.889.704/SP E DO ERESP Nº 1.886.929/SP NÃO PREENCHIDOS. AUSÊNCIA DE COMPROVAÇÃO DA EFICÁCIA À LUZ DE EVIDÊNCIAS CIENTÍFICAS. NÃO INCORPORAÇÃO DA TÉCNICA PELA CONITEC NO ÂMBITO DO SISTEMA ÚNICO DE SAÚDE - SUS. DEVER DE COBERTURA AFASTADO. INVERSÃO DO ÔNUS SUCUMBENCIAL.
+1. Retorno dos autos para novo julgamento após determinação do Superior Tribunal de Justiça a fim de verificar o preenchimento dos requisitos para fornecimento de técnica cirúrgica não prevista no Rol da ANS pelas operadoras de plano de saúde à luz da jurisprudência da Corte Superior.
+2. As coberturas de procedimentos médicos por planos de saúde se sujeitam a um rol mínimo editado pela ans, o qual não pode prever as hipóteses do art. 10 da lei nº 9.656/98 e não pode excluir ou mitigar as hipóteses do art. 12 da mesma lei. Não obstante, evidentemente que os contratos firmados podem alargar o espectro mínimo de cobertura, inclusive cobrindo as hipóteses do citado art. 10.
+3. No ponto, cumpre destacar que, conforme jurisprudência desta c. câmara cível, o rol de procedimentos e eventos em saúde publicado pela agência nacional de saúde suplementar é tão somente referência básica de coberturas obrigatórias nos planos privados de assistência à saúde, não possuindo caráter taxativo, o que foi ratificado pela inclusão do § 12 no art. 10 da lei nº 9.656/98 pela lei nº 14.454/2022, a qual possui aplicabilidade imediata.
+4. Ademais, a recente alteração legislativa operada pela Lei nº 14.454/2022 também inseriu o § 13 no art. 10 da Lei nº 9.656/98, estabelecendo critérios para fins de cobertura pelos planos de saúde de tratamentos não previstos no Rol da ANS, sendo eles: a existência de comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou a existência de recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (CONITEC), ou recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais.
+5. In casu, contudo, inexistem elementos aptos a corroborar a necessidade de utilização exclusiva da técnica robótica para o autor, pois não há demonstração nos autos acerca da impossibilidade de realização da cirurgia por meio da técnica laparoscópica (menos invasiva e prevista no Rol da ANS - atendendo a recomendação do cardiologista do autor).
+6. Além disso, não se observa a comprovação da eficácia do medicamento à luz de evidências científicas ou, ainda, recomendação pela Comissão Nacional de Incorporação de Tecnologias no Sistema Unico de Saúde (CONITEC) ou por órgãos internacionais.
+7. Dito isso e considerando a determinação da Corte Superior, assim como a mais recente jurisprudência desta c. Câmara Cível, entende-se que não estão preenchidos os requisitos elencados no julgamento do ERESP nº 1.889.704/SP e do ERESP nº 1.886.929/SP para cobertura do procedimento cirúrgico com técnica não prevista no Rol da ANS, tampouco os critérios estabelecidos no dispositivo legal suprarreferido.
+8. Redistribuição do ônus sucumbencial.
+APELAÇÃO PROVIDA, EM NOVO JULGAMENTO.
+Opostos embargos de declaração, foram rejei tados (fls. 1.062-1.063).
+O acórdão proferido pelo Tribunal local concluiu que "não há falar em dever de fornecimento do procedimento cirú rgico por meio da técnica robótica pela operadora do plano de saúde, afigurando-se legítima a recusa pela demandada" (fl. 699).
+Observa-se que esta Corte Superior consolidou o entendimento de que, em se tratando de procedimento para o tratamento de câncer, independentemente da natureza do rol da ANS, as operadoras de plano de saúde têm o dever de cobertura.
+Neste sentido, seguem os julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PROSTATECTOMIA RADICAL ROBÓTICA. TRATAMENTO DE CÂNCER. CUSTEIO. OBRIGATORIEDADE. ROL DA ANS. NATUREZA. IRRELEVÂNCIA. RECUSA ABUSIVA. DANOS MORAIS. CONFIGURAÇÃO. VALOR INDENIZATÓRIO. RAZOABILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Discute-se nos autos acerca da obrigatoriedade de cobertura pelo plano de saúde do procedimento de prostatectomia radical robótica para o tratamento de câncer e a caracterização dos danos morais decorrentes da negativa de custeio.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que é obrigatório o custeio pelo plano de saúde de exames, medicamentos e procedimentos para o tratamento de câncer, sendo irrelevante a natureza taxativa ou exemplificativa do Rol da ANS. Precedentes.
+3. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às situações correntes de inadimplemento contratual.
+4. Existem casos em que existe dúvida jurídica razoável na interpretação de cláusula contratual, não podendo ser reputada ilegítima ou injusta, violadora de direitos imateriais, a conduta de operadora que optar pela restrição de cobertura sem ofender, em contrapartida, os deveres anexos do contrato, tal qual a boa-fé, afastando a pretensão de compensação por danos morais, o que não é o caso dos autos.
+5. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante a título de danos morais fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 10.000,00 (dez mil reais).
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.136.426/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA N. 284/STF. CITAÇÃO DE ARTIGOS. SÚMULA N. 284/STF. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. PLANO DE SAÚDE. CÂNCER. CIRURGIA. NATUREZA DO ROL DA ANS. IRRELEVÂNCIA. CUSTEIO. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. REEMBOLSO INTEGRAL. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+ ..
+4. Para a jurisprudência do STJ, no caso de tratamento oncológico, há apenas uma diretriz na resolução normativa da Agência Nacional de Saúde Suplementar - ANS para o custeio de medicamentos, motivo pelo qual é irrelevante a discussão da natureza taxativa ou exemplificativa do rol de procedimentos da mencionada agência reguladora. Precedentes.
+5. Os planos de saúde possuem o dever de cobertura de procedimentos e exames integrantes do tratamento oncológico. Precedentes.
+5.1. O Tribunal de origem determinou o custeio, pelo plano de saúde, da cirurgia integrante do tratamento de câncer da parte agravada (prostatectomia robótica), conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior.
+6. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+7. O usuário faz jus ao reembolso integral das despesas médicas, quando comprovado o inadimplemento contratual do plano de saúde relativo à recusa do custeio do tratamento prescrito pelo médico assistente. Precedentes.
+7.1. A Corte local condenou a empresa agravante ao reembolso integral das despesas médicas, ante sua recusa indevida da cobertura médica. Caso de aplicação da Súmula n. 83/STJ.
+8. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+(AgInt no REsp n. 2.108.528/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/8/2024, D Je de 15/8/2024.)
+Deste modo, verifica-se que o acórdão da Corte local não estava de acordo com a orientação que se firmou na jurisprudência desta Corte, portanto, mostrou-se necessária a reforma do acordão, de modo que fosse restabelecida a sentença que determinou o custeio, pela ora agravante, dos procedimentos médicos prescritos para o tratamento de câncer do autor.
+Nesse sentido, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
