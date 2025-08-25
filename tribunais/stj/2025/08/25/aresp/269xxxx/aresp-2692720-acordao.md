@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. LEI N. 14.195/2021. IRRETROATIVIDADE. SUSPENSÃO DO PROCESSO. INEXISTÊNCIA. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. TUTELA PROVISÓRIA INDEFERIDA. AGRAVO INTERNO. PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. A nova previsão do art. 921, § 4º, do CPC, conferida pela Lei n. 14.195/2021, embora se aplique imediatamente, não pode ser aplicada de forma retroativa, mas apenas aos processos novos ou àqueles em que a execução infrutífera for posterior à nova lei e aos anteriores à nova lei em que ainda não tenha sido determinada a suspensão do feito.
+2. O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano.
+3. O não provimento do presente recurso torna prejudicado o agravo interno interposto contra a decisão deste Relator que anteriormente indeferiu a tutela provisória requerida.
+4. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CRISTINA MARIANE FAVA WOJCIECHOWSKI (CRISTINA) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO AGRAVADA QUE AFASTOU A ALEGAÇÃO DE PRESCRIÇÃO INTERCORRENTE, FORMULADA PELA EXECUTADA. 1. PRESCRIÇÃO INTERCORRENTE. AÇÃO INDENIZATÓRIA. PRAZO VINTENÁRIO (ART. 177 DO CC/1916). REGRA DE TRANSIÇÃO DO ART. 2.038, DO CC/02. AUSÊNCIA DO TRANSCURSO DE MAIS DA METADE DO PRAZO PRESCRICIONAL FIXADO PELO CÓDIGO/16 QUANDO ENTROU EM VIGOR O ATUAL CÓDIGO CIVIL. APLICAÇÃO DO PRAZO PRESCRICIONAL DE 3 (TRÊS) ANOS, CONFORME PREVISTO NO ARTIGO 206, § 3º, INCISO V, DO CÓDIGO CIVIL. EXECUÇÃO AJUIZADA SOB À ÉGIDE DO CPC/1973. TERMO INICIAL DA CONTAGEM DA PRESCRIÇÃO INTERCORRENTE CONFIGURADO A PARTIR DO TÉRMINO DA SUSPENSÃO OU, NO CASO DE INEXISTÊNCIA DE PRAZO FIXADO, APÓS 01 (UM) ANO DO SOBRESTAMENTO DO FEITO. ENTENDIMENTO FIRMADO NO IAC Nº 01/STJ (RESP Nº 1.604.412/SC). CASO CONCRETO. PROCESSO QUE FICOU PARADO AGUARDANDO O NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO nºs 854.378-0/03, POR DETERMINAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMPO QUE NÃO É CONSIDERADO NO CÔMPUTO DA PRESCRIÇÃO INTERCORRENTE. PRAZO PRESCRICIONAL QUE SEQUER SE INICIOU. CREDOR QUE FOI DILIGENTE E SEMPRE BUSCOU EFETIVAMENTE DAR PROSSEGUIMENTO AO FEITO. EXECUÇÃO QUE NÃO FICOU PARALISADA POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO. PRESCRIÇÃO INTERCORRENTE INEXISTENTE. DECISÃO AGRAVADA MANTIDA. 2. RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO (e-STJ, fls. 35/36).
+Foi apresentada contraminuta (e-STJ, fls. 241-257).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. LEI N. 14.195/2021. IRRETROATIVIDADE. SUSPENSÃO DO PROCESSO. INEXISTÊNCIA. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. TUTELA PROVISÓRIA INDEFERIDA. AGRAVO INTERNO. PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. A nova previsão do art. 921, § 4º, do CPC, conferida pela Lei n. 14.195/2021, embora se aplique imediatamente, não pode ser aplicada de forma retroativa, mas apenas aos processos novos ou àqueles em que a execução infrutífera for posterior à nova lei e aos anteriores à nova lei em que ainda não tenha sido determinada a suspensão do feito.
+2. O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano.
+3. O não provimento do presente recurso torna prejudicado o agravo interno interposto contra a decisão deste Relator que anteriormente indeferiu a tutela provisória requerida.
+4. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, CRISTINA alegou a violação dos arts. 791, III, do CPC/73, 921, III, §§2º e 4º, 1.056 do CPC/15, bem como dissídio jurisprudencial, afirmando que (1) a prescrição intercorrente deve ser contada a partir da primeira tentativa infrutífera de localização de bens penhoráveis, com suspensão por um ano; (2) na ausência de bens, a execução deveria ser suspensa por um ano, após o qual o prazo prescricional começaria a correr; e (3) diligências infrutíferas de penhora não influem na contagem do prazo prescricional (e-STJ, fls. 64-85).
+Da prescrição intercorrente
+Nas razões de recurso especial, CRISTINA defendeu que o prazo de prescrição intercorrente deve ser contado da data da primeira tentativa infrutífera de localização de bens penhoráveis.
+Nesse aspecto, o Tribunal estadual consignou que a Lei n. 14.195/21 apenas pode ser aplicada a atos processuais praticados após sua vigência. Confira-se:
+No caso concreto, a presente execução foi ajuizada sob a vigência do CPC de 1973.
+Logo, pelo princípio tempus regit actum, as alterações legislativas no Código de Processo Civil /2015 promovidas pela Lei nº 14.195/2021, publicada em 26/08/2021, somente poderiam ser aplicadas aos atos processuais praticados posteriormente à vigência da nova redação.
+Assim, no caso, deve-se levar em conta a existência, ou não, de paralisação do feito por ausência de manifestação do exequente (e-STJ, fl. 47 - destaques no original).
+No mesmo sentido, a jurisprudência do STJ já decidiu que a nova previsão do art. 921, § 4º, do CPC, conferida pela Lei n. 14.195/2021, embora se aplique imediatamente, não pode ser aplicada de forma retroativa, mas apenas aos processos novos ou àqueles em que a execução infrutífera for posterior à nova lei e aos anteriores à nova lei em que ainda não tenha sido determinada a suspensão do feito.
+Confiram-se os precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. CPC/2015. NOVO REGIME JURÍDICO INTRODUZIDO PELA LEI N. 14.195/21. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE.
+1. Ação de execução de título executivo extrajudicial da qual foi extraído o presente recurso especial, interposto em 8/5/2023 e concluso ao gabinete em 23/8/2023.
+2. O propósito recursal consiste em dizer se o novo regime da prescrição intercorrente introduzido pela Lei n. n. 14.195/21 pode ser aplicado retroativamente.
+3. Inovando em relação ao CPC/1973, o CPC/2015 passou a disciplinar, expressamente, o instituto da prescrição intercorrente, erigindo o seu regime jurídico próprio, sobretudo, nos arts. 921 a 923.
+4. De acordo com o art. 921, inciso III e §1º do CPC/2015, a execução deverá ser suspensa quando não for localizado o executado ou bens penhoráveis, pelo prazo de um ano, durante o qual também se suspenderá a prescrição.
+5. Nos termos da redação original do art. 921, §4º, do CPC/2015, decorrido o prazo de suspensão de um ano sem manifestação do exequente, começaria a correr o prazo de prescrição intercorrente.
+6. A Lei n. 14.195/2021 introduziu importantes alterações na disciplina da prescrição intercorrente, alterando o §4º do art. 921 do CPC/2015, que passou a prever que o termo inicial do prazo de prescrição intercorrente será a ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis, e será suspensa, por uma única vez, pelo prazo máximo previsto no § 1º do mesmo dispositivo legal.
+7. A partir da entrada em vigor da Lei n. 14.195/2021, ao contrário do que se verificava na redação original do código, não há mais necessidade de desídia do credor para a consumação da prescrição intercorrente, cujo prazo iniciará automaticamente.
+8. O novo regime da prescrição intercorrente introduzido pela Lei n. 14.195/21 não pode ser aplicado retroativamente, mas apenas: a) aos novos processos ou àqueles em que a execução infrutífera for posterior à nova lei; e b) aos processos anteriores à nova lei no qual ainda não tenha sido determinada a suspensão da execução.
+9. Na hipótese dos autos, não merece reforma o acórdão recorrido, pois incide na espécie a redação original do CPC/2015 e não aquela introduzida pela Lei n. 14.195/21, que não deve ser aplicada retroativamente a uma execução iniciada em 2015 e cuja suspensão findou em 2018. Além disso, Corte de origem constatou que não houve qualquer desídia da parte exequente - requisito exigido antes da Lei n. 14.195/21-, o que afasta a caracterização da prescrição intercorrente à luz da redação original do CPC/2015.
+10. Recurso especial não provido.
+(REsp n. 2.090.768/PR, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 12/11/2024, DJe de 14/11/2024 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO APELO NOBRE. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. O reconhecimento da prescrição intercorrente pressupõe a inércia do exequente por prazo superior ao da prescrição do direito material vindicado.
+2. A Lei n. 14.195/2021, que alterou o termo inicial da prescrição intercorrente (art. 921, § 4º, do CPC/2015), é irretroativa e somente se aplica a partir de sua publicação. Precedente.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.122.807/PR, relator Ministro MARCO BUZZI, Quarta Turma, j. em 30/9/2024, DJe de 3/10/2024 - sem destaque no original)
+Na hipótese em liça, o cumprimento de sentença foi iniciado antes da Lei n. 14.195/21, não tendo havido sequer suspensão do feito, de modo que se afigura inviável a aplicação da referida lei.
+CRISTINA ainda sustentou que o prazo prescricional corre a partir do final do prazo de suspensão do processo por um ano, não sendo influenciado por diligências infrutíferas.
+Sobre a questão, esta Corte Superior firmou entendimento em recurso repetitivo de que o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano.
+A propósito:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(REsp n. 1.604.412/SC, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, j. em 27/6/2018, DJe de 22/8/2018 - sem destaque no original)
+Assim, como não houve determinação de suspensão do feito, não há que se falar em prescrição intercorrente.
+Por fim, é pertinente destacar que o não provimento do presente recurso torna prejudicado o agravo interno (AgInt 00810038/2024) interposto contra a decisão deste Relator que anteriormente indeferiu a tutela provisória requerida (e-STJ, fls. 288/289).
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO e JULGO PREJUDICADO o agravo interno interposto contra a decisão que indeferiu a tutela provisória.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente protelatório, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
