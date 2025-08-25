@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATAÇÃO DE EMPRÉSTIMOS CONSIGNADOS COM O FIM DE UTILIZAR O MONTANTE PARA INVESTIMENTO EM MERCADO FINANCEIRO. PIRÂMIDE FINANCEIRA. AUTENTICIDADE DO CONTRATO. AUSÊNCIA DE ABORDAGEM DAS QUESTÕES PELO TRIBUNAL DE ORIGEM. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO DO ART. 1.025 DO CPC TAMBÉM NÃO DEMONSTRADO. NECESSIDADE DE SE APONTAR VIOLAÇÃO DO ART. 1.022 DO CPC. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Tendo em vista que não houve pronunciamento da questão no julgamento dos embargos de declaração, era indispensável a alegação de afronta ao art. 1.022 do CPC, nas razões do recurso especial, o que, infelizmente, não foi feito pela parte.
+2. Em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à autenticidade do contrato. Incidência da Súmula n. 211 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ERMERSON LUCAS BEZERRA DA SILVA (ERMERSON) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. CONTRATAÇÃO DE EMPRÉSTIMOS CONSIGNADOS COM O FIM DE UTILIZAR O MONTANTE PARA INVESTIMENTO EM MERCADO FINANCEIRO. PIRÂMIDE FINANCEIRA. SENTENÇA DE PARCIAL PROCEDÊNCIA, RESCINDINDO OS CONTRATOS E CONDENANDO OS DOIS RÉUS, SOLIDARIAMENTE, NA DEVOLUÇÃO DOS VALORES PAGOS E COMPENSAÇÃO PELOS DANOS MORAIS EXPERIMENTADOS.
+Irresignação da primeira ré, bem como do autor, pretendendo a condenação do banco, 3º réu. Concessão da gratuidade de justiça somente para fins recursais, possibilitando o acesso à justiça, ante o notório bloqueio de contas e movimentações financeiras. Golpe de "pirâmide financeira". Inadimplência dos réus quanto ao pagamento das parcelas. Descumprimento do contrato de autoriza sua rescisão. Dano material cabível, com a consequente devolução das parcelas, acrescidas de juros e correção monetária. Danos morais configurados. Valor de R$ 5.000,00 (cinco mil reais), atento aos critérios da razoabilidade e da proporcionalidade. Pretensão de suspensão do processo até a conclusão do inquérito policial, não se justifica, uma vez que apenas retardaria a prestação jurisdicional, e bem assim o ressarcimento dos danos. Ausência de prova de conluio com a instituição financeira. Existência de negócios jurídicos autônomos e independentes, pelo que não se pode atribuir à instituição financeira o ônus de suportar os prejuízos financeiros decorrentes de contrato do qual não participou. Manutenção da sentença.
+DESPROVIMENTO DE AMBOS OS RECURSOS. (e-STJ, fls. 1.063-1.069).
+Os embargos de declaração de ERMERSON foram rejeitados (e-STJ, fls. 1.107-1.110).
+Nas razões do agravo, ERMERSON apontou (1) violação do Tema n. 1.061 do STJ; (2) erro na decisão de inadmissibilidade ao considerar que o recurso especial pretendia revisão de matéria de fato, quando, na verdade, busca a análise de questão constitucional de repercussão geral; (3) cumprimento dos requisitos de admissibilidade do recurso especial, incluindo a relevância jurídica da matéria e a violação de dispositivos legais, como os arts. 6º, 369, 422 e 429, II, do CPC.
+Foi apresentada contraminuta (e-STJ, fls. 1.167-1.175).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, ERMERSON apontou (1) violação do art. 429, II, do CPC, que impõe à instituição financeira o ônus de provar a autenticidade do contrato de empréstimo quando questionado; (2) contrariedade ao Tema n. 1.061 do STJ, que estabelece a responsabilidade da instituição financeira em casos de impugnação de autenticidade de assinatura em contratos bancários; (3) erro na decisão ao não reconhecer a responsabilidade solidária do Banco do Brasil, mesmo diante da ausência de comprovação da autenticidade do contrato de empréstimo.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.131-1.136).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATAÇÃO DE EMPRÉSTIMOS CONSIGNADOS COM O FIM DE UTILIZAR O MONTANTE PARA INVESTIMENTO EM MERCADO FINANCEIRO. PIRÂMIDE FINANCEIRA. AUTENTICIDADE DO CONTRATO. AUSÊNCIA DE ABORDAGEM DAS QUESTÕES PELO TRIBUNAL DE ORIGEM. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO DO ART. 1.025 DO CPC TAMBÉM NÃO DEMONSTRADO. NECESSIDADE DE SE APONTAR VIOLAÇÃO DO ART. 1.022 DO CPC. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Tendo em vista que não houve pronunciamento da questão no julgamento dos embargos de declaração, era indispensável a alegação de afronta ao art. 1.022 do CPC, nas razões do recurso especial, o que, infelizmente, não foi feito pela parte.
+2. Em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à autenticidade do contrato. Incidência da Súmula n. 211 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Da autenticidade do contrato
+Em suas razões recursais, EMERSON alegou que a instituição financeira tem a obrigação de comprovar a autenticidade do contrato de empréstimo, o que não foi realizado no caso em tela, sendo de rigor sua condenação solidária.
+Contudo, o Tribunal estadual não se pronunciou sobre tais pontos, apesar da oposição dos necessários embargos de declaração (e-STJ, fls. 1.087-1.090).
+Tendo em vista que não houve pronunciamento da questão no julgamento dos embargos de declaração, era indispensável a alegação de afronta ao art. 1.022 do CPC, nas razões do recurso especial, o que, infelizmente, não foi feito pela parte.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à autenticidade do contrato.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE REGRESSO. CONEXÃO ENTRE AÇÕES. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REEXAME DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC) desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, o que não ocorreu na hipótese.
+2. A falta de prequestionamento dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o seu reconhecimento nesta instância extraordinária por falta de presquestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+ ..
+(AgInt no AREsp n. 2.085.760/MT, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022 - sem destaque no original)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. MULTA. AUSÊNCIA DE INTERESSE RECURSAL. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. JUROS REMUNERATÓRIOS. TAXA MÉDIA. ABUSIVIDADE NÃO CONSTATADA. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Não há interesse recursal quanto à exclusão da multa, pois a decisão agravada determinou o afastamento da penalidade.
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula n. 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015, sob pena de perseverar a ausência de prequestionamento.
+ ..
+(AgInt no REsp n. 2.016.756/MS, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022 - sem destaque no original)
+Dessa forma, quanto ao ponto, incide a Súmula n. 211 do STJ, que dispõe: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+É o voto
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
