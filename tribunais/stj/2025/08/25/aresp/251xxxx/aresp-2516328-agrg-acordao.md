@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. FRAUDE À LICITAÇÃO E PECULATO. PLEITO ABSOLUTÓRIO. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA E EFETIVA PRESTAÇÃO DE SERVIÇOS. REEXAME DE CONJUNTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1.A alteração do entendimento das instâncias ordinárias acerca da suficiência probatória para caracterização dos crimes de fraude à licitação e peculato demandaria, necessariamente, o reexame do conjunto fático-probatório, providência vedada no âmbito do recurso especial.
+2.A tese de revaloração probatória não se aplica quando a defesa busca nova análise do mérito das provas para alcançar conclusão fática diversa daquela firmada pelas instâncias ordinárias.
+3.Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por WHYLDSON LUIS CORREA DE SOUZA MENDES contra decisão monocrática em que conheci do agravo para não conhecer do recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado:
+"RÉU WHYLDSON - APELAÇÃO CRIMINAL - CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA - FRAUDE À LICITAÇÃO E PECULATO-DESVIO - PLEITO ABSOLUTÓRIO - IMPOSSIBILIDADE - CONJUNTO PROBATÓRIO SUFICIENTE - CONDENAÇÕES MANTIDAS - CONTINUIDADE DELITIVA ENTRE OS DELITOS DE FRAUDE À LICITAÇÃO E DE PECULATO - POSSIBILIDADE - RECURSO PROVIDO EM PARTE. I. Havendo provas nos autos de que o réu, valendo-se de processos licitatórios fraudulentos, por meio dos quais foram contratadas empresas de fachada, desviou em proveito próprio e alheio, valores em dinheiro, a condenação pela prática dos delitos previstos no art. 90, da Lei nº 8.666/93 e no art. 312, c/c o 327, caput, ambos do Código Penal, praticados entre si, na forma do art. 69, do Código Penal. II. Pontua-se, que as espécies delitivas ora tratadas se coadunam com o concurso material de crimes (art. 69, do Código Penal), sendo possível observar, inclusive, a fraude licitatória sendo praticada como método de acessar os recursos públicos alocados para a realização do objeto contratado, para em seguida desviá-los. No entanto, possível a incidência da causa de aumento do art. 71, do Código Penal, uma vez que as condutas, embora praticadas por meio de contratos diversos, foram praticadas de forma sucessiva e reiterada, nas mesmas condições de tempo, lugar e maneira de execução. Em parte contra o parecer, recurso parcialmente provido."
+A parte agravante requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 6652-6656).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. FRAUDE À LICITAÇÃO E PECULATO. PLEITO ABSOLUTÓRIO. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA E EFETIVA PRESTAÇÃO DE SERVIÇOS. REEXAME DE CONJUNTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1.A alteração do entendimento das instâncias ordinárias acerca da suficiência probatória para caracterização dos crimes de fraude à licitação e peculato demandaria, necessariamente, o reexame do conjunto fático-probatório, providência vedada no âmbito do recurso especial.
+2.A tese de revaloração probatória não se aplica quando a defesa busca nova análise do mérito das provas para alcançar conclusão fática diversa daquela firmada pelas instâncias ordinárias.
+3.Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+O Tribunal de origem, soberano na análise do acervo fático-probatório, manteve a condenação do agravante pelos crimes de fraude à licitação e peculato, ao entender que as provas dos autos eram robustas para demonstrar a materialidade e a autoria delitivas. Extrai-se do voto condutor do acórdão (e-STJ fl. 4.527):
+Sobre a prova material acerca das fraudes e desvios perpetrados, verifica-se que Whyldson, em conluio com o denunciado Walter e outros servidores, afastaram a possibilidade de competição nos procedimentos licitatórios em tela, na medida em que era sócio - ora oculto, ora real, ou ainda, representante legal - das empresas que participaram do certame.  ..  Inclusive foram incorporadas aos autos as provas resultantes do expediente de quebra de sigilo bancário, a evidenciar sistemáticas transações espúrias entre as empresas controladas por Whyldson e direcionadas para seu proveito pessoal e de Walter, comprovando para além da dúvida razoável os delitos questionados.
+Dessa forma, a alteração de tal entendimento, para fins de absolvição do recorrente por insuficiência probatória, exigiria, necessariamente, o reexame do conjunto de fatos e provas, o que é vedado no âmbito do recurso especial, nos termos do enunciado da Súmula n. 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A LICITAÇÃO. ART. 337-F DO CÓDIGO PENAL. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA O INCISO I DO MESMO ARTIGO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que conheceu do agravo em recurso especial para negar-lhe provimento, mantendo a condenação do agravante pela prática do delito previsto no art. 337-F do Código Penal, em razão de frustração do caráter competitivo de licitação pública, mediante reserva de datas e contratação de artistas essenciais à execução do contrato pela empresa vencedora do certame. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a conduta praticada pelo agravante caracteriza o delito previsto no art. 337-F do Código Penal ou se seria caso de desclassificação para o tipo do art. 337-I; e (ii) estabelecer se o exame do mérito do recurso especial demanda reexame de fatos e provas, o que atrairia a incidência da Súmula 7 do STJ. III. RAZÕES DE DECIDIR
+3. A subsunção da conduta do agravante ao delito previsto no art. 337-F do Código Penal decorre da comprovação de que ele, com dolo específico, frustrou o caráter competitivo do certame ao firmar contratos e reservas com artistas indispensáveis à execução do objeto licitado, inviabilizando o cumprimento do contrato pela empresa vencedora.
+4. A pretensão de desclassificação da conduta para o art. 337-I do Código Penal foi afastada, pois o conjunto probatório demonstrou que a atuação do agravante incidiu diretamente sobre a fase licitatória, prejudicando a competição entre os licitantes, e não apenas sobre ato isolado do procedimento.
+5. A revisão das conclusões das instâncias ordinárias acerca da autoria, materialidade e dolo exigiria reexame de fatos e provas, providência vedada na via do recurso especial, conforme entendimento consolidado na Súmula 7 do STJ. IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Tese de julgamento:
+1. A conduta de reservar ou contratar previamente artistas indispensáveis à execução do objeto licitado configura frustração do caráter competitivo da licitação, tipificada no art. 337-F do Código Penal, quando realizada com o intuito de inviabilizar a execução pela empresa vencedora.
+2. A desclassificação da conduta para o art. 337-I do Código Penal é incabível quando a atuação do agente afeta diretamente a competitividade do certame e não apenas atos posteriores à adjudicação.
+3. A revisão de acórdão que reconhece a autoria, materialidade e dolo na prática de crime contra a licitação demanda reexame de fatos e provas, providência vedada na via especial pela Súmula 7 do STJ.
+(AgRg no AREsp n. 2.691.534/SP, relator Ministro Carlos Cini Marchionatti, Desembargador Convocado TJRS, Quinta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.)
+Com efeito, a tese de revaloração probatória não se aplica ao caso, pois o que a defesa busca não é uma nova qualificação jurídica para fatos incontroversos, mas sim uma nova análise do mérito das provas para alcançar conclusão fática diversa daquela firmada pelas instâncias ordinárias.
+Correta, portanto, a aplicação dos óbices sumulares que fundamentaram a decisão monocrática agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
