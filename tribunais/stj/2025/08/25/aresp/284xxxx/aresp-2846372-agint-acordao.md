@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. RAZÕES DISSOCIADAS. ENUNCIADO 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que o agravo interno, porque apresenta argumentos dissociados da decisão alvejada (Enunciado 284/STF), incorre nas situações antes descritas.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Estado de Alagoas desafiando o decisum de fls. 266/268, que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos: (I) quanto ao art. 1º da Lei Complementar federal 24/75, nota-se que o referido dispositivo legal não contém comando capaz de sustentar as teses recursais e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF; (II) o Tribunal de origem decidiu a matéria com alicerce eminentemente constitucional, matéria insuscetível de ser examinada em sede de apelo nobre.
+A parte agravante, em suas razões, sustenta que "o recurso especial não discute o mérito da aplicação dos princípios constitucionais invocados, pelo acórdão recorrido, para ampliar a incidência da isenção para pessoas com deficiência. Na realidade, a pretensão do recurso especial está a um passo atrás, referindo-se à constrição legal da interpretação do instituto da isenção - apenas com base na legislação federal. Nesse sentido, apontou-se a violação ao art. 111 do CTN, que determina a interpretação literal dos atos de outorga de isenção. Portanto, o recurso especial assevera que o Convênio ICMS 03/2007 deve se interpretado literalmente. Ou seja, não se diz, no recurso especial, que os princípios constitucionais não justificam a isenção pretendida pelo recorrido" (fl. 276).
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 280).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. RAZÕES DISSOCIADAS. ENUNCIADO 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que o agravo interno, porque apresenta argumentos dissociados da decisão alvejada (Enunciado 284/STF), incorre nas situações antes descritas.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces da decisão combatida, isto é, deve deixar evidente o desacerto do decisório, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Esse é o teor da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+Na espécie, conforme destacado no relatório, o decisum agravado negou provimento ao agravo em recurso especial, mediante os seguintes motivos: (I) no tocante ao art. 1º da Lei Complementar federal 24/75, nota-se que o referido dispositivo legal não contém comando capaz de sustentar as teses recursais e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência do Enunciado 284/STF; e (II) a Corte local valeu-se de pilares eminentemente constitucionais para decidir a controvérsia, assim, inviabilizada está a análise da questão nesta sede especial.
+Nas razões do agravo interno em exame, todavia, a parte deixou de impugnar, de forma específica, os alicerces acima descritos, cingindo-se a apresentar razões dissociadas da decisão agravada, sustentando, em síntese, violação ao art. 111 do CTN.
+Com efeito, da mencionada argumentação, verifica-se que a parte insurgente não impugnou, de forma específica, os fundamentos destacados, logo, o pilar ora não impugnado se mostra suficiente à manutenção do decisum, a atrair o obstáculo da Súmula 182/STJ.
+Outrossim, restando as razões apresentadas pela parte recorrente, como visto, ademais, dissociadas da decisão agravada de fls. 266/268, de sorte que nem sequer merecem ser conhecidas, faz-se incidir à espécie, também, o entrave do Enunciado 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. CLÁUSULA DE EXCLUSÃO. DESTAQUE. AUSÊNCIA. REEXAME. SÚMULAS N. 5 E 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1.861.630/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2022, DJe de 22/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA D OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO DO INSTITUTO NACIONAL DO SEGURO SOCIAL NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu da questão meritória apresentada no recurso especial da autarquia federal em razão da impossibilidade de revisão do acervo fático-probatório dos autos na via especial, necessária para se aferir se a documentação apresentada seria suficiente para comprovar a condição de aposentado dos autores. Em razão disso, consignou-se a incidência da Súmula 7 do STJ.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, apenas repetindo as razões do recurso especial, para demonstrar que impugnou todos os temas abordados.
+3. Para controverter a incidência da Súmula 7 do STJ, era dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o acolhimento da pretensão recursal, de fato, não depende de reanálise do conjunto fático-probatório, esclarecendo que todos os fatos estão devidamente consignados no acórdão recorrido, o que, todavia, não ocorreu, conforme se pode constatar da simples leitura das razões do agravo interno.
+4. Agravo interno do Instituto Nacional do Seguro Social-INSS não conhecido.
+(AgInt no REsp 1.527.221/SP, R el. Ministro Manoel Erhardt, Desembargador Convocado do TRF5, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+ANTE O EXPOSTO, não se conhece do agravo interno.
+É o voto.
