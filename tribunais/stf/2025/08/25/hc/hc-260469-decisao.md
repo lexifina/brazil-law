@@ -1,0 +1,238 @@
+DECISÃO
+
+HABEAS CORPUS. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. PORTE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO E TRÁFICO DE ENTORPECENTES. PRETENSÃO DE DESCLASSIFICAÇÃO PARA USO. PRETENDIDA APLICAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO AO TRÁFICO DE DROGAS. REEXAME DE FATOS E PROVAS: INVIABILIDADE. MAUS ANTECEDENTES. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Habeas corpus, sem requerimento de medida liminar, impetrado, em 22.8.2025, por Eduardo Jacob, advogado, em benefício de Adelmo Mengoni Júnior, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, pelo qual, em 12.6.2025, negado provimento ao Agravo Regimental no Agravo em Recurso Especial n. 2.880.193, Relator o Ministro Antonio Saldanha Palheiro.
+
+O caso
+
+    2. Consta do processo ter sido o paciente condenado às penas de a) cinco anos e dez meses de reclusão, em regime inicial fechado, e quinhentos e oitenta e três dias-multa, pela prática do crime previsto no art. 33 da Lei n. 11.343/2006 (tráfico de drogas); b) um ano de detenção, em regime inicial semiaberto, e dez dias-multa, pelo delito tipificado no art. 12 da Lei n. 10.826/2003 (posse irregular de arma de fogo de uso permitido).
+
+    3. Interposta apelação pela defesa, o Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso “tão somente para deferir o pedido de restituição do telefone celular apreendido nos autos, mantendo-se, no mais, a r. sentença proferida, por seus próprios e jurídicos fundamentos” (fl. 1, e-doc. 12). Esta a ementa do acórdão:
+
+    “Apelação criminal — Tráfico de drogas e posse irregular de arma de fogo de uso permitido — Sentença condenatória — Recurso defensivo — Matérias preliminares — Violação de domicílio — Inocorrência — Situação flagrancial — Crime permanente — Justa causa bem delineada — Ingresso dos policiais no domicílio autorizado pelo réu — Inépcia da denúncia em relação ao crime de posse irregular de arma de fogo de uso permitido — Aditamento à denúncia, diante da superveniência do laudo pericial da arma de fogo que não constatou supressão de numeração, inapto a macular a exordial acusatória — Ausência de prejuízo — Questões prejudiciais afastadas — Mérito — Pleito de absolvição por insuficiência probatória e por atipicidade da conduta em relação à posse irregular de arma de fogo. Subsidiariamente, de desclassificação do crime de tráfico de drogas para a posse de entorpecentes para uso próprio; de aplicação das penas mínimas para ambos os delitos; de aplicação do redutor previsto no §4º do art. 33 da Lei nº 11.343/06 para o crime de tráfico de drogas; de redução da pena de multa e de restituição do telefone celular apreendido nos autos — Impossibilidade — Autoria e materialidade bem comprovadas quanto aos dois crimes imputados — Declarações seguras e uníssonas dos agentes policiais corroboradas pela prova pericial — Flagrado usuário saindo do local com porção de droga – Intuito mercantil dos entorpecentes evidenciado — Confissão do réu quanto à posse irregular do artefato — Laudo pericial atestando o potencial lesivo da arma de fogo — Condenação mantida — Dosimetria — Primeira Fase – Penas-bases fixadas acima do mínimo legal — Mau antecedente — Condenação fora do prazo depurador de 5 anos apta a configurar mau antecedente — Sistema da perpetuidade adotado pelo Código Penal — Transgressão ao art. 16 da Lei 6.386/76, ao qual era cominada pena privativa de liberdade, que deve refletir negativamente na pena do réu — Segunda Fase —Atenuante da confissão espontânea em relação ao delito de armas — Terceira Fase — Cúmulo material de crimes (art. 69, caput, do CP) – Inaplicável o redutor do art. 33, §4º, da Lei nº 11.343/06 — Ausência dos requisitos legais (mau antecedente) — Impossibilidade de redução da pena de multa, prevista nos tipos legais e corretamente fixada na origem — Regimes iniciais semiaberto (art. 12, da Lei 10826/03) e fechado (art. 33, da Lei 11.343/06) acertadamente fixados — Incabíveis a substituição da pena privativa de liberdade por restritivas de direitos e o sursis penal — Acolhido o pleito defensivo de restituição do telefone celular apreendido, cuja origem lícita foi demonstrada, e diante da ausência de comprovação de sua utilização na prática delitiva — Recurso defensivo parcialmente provido” (fls. 2-3, e-doc. 12).
+
+    4. Contra esse acórdão foi interposto recurso especial, inadmitido pelo Tribunal de Justiça do Estado de São Paulo. Então, a defesa interpôs, no Superior Tribunal de Justiça, agravo, autuado como Agravo em Recurso Especial n. 2.880.193. Em 2.6.2025, o Relator, Ministro Antonio Saldanha Palheiro, conheceu do agravo para não conhecer do recurso especial.
+
+    Essa decisão foi mantida pela Sexta Turma do Superior Tribunal de Justiça, que desproveu o agravo regimental defensivo:
+
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. PLEITO DE NULIDADE DAS PROVAS POR ALEGADA VIOLAÇÃO DE DOMICÍLIO. TESE DE DESCLASSIFICAÇÃO PARA POSSE PARA USO PRÓPRIO. ALEGADA DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+
+    1. O ingresso em domicílio sem mandado judicial é legítimo quando há fundadas razões que caracterizem flagrante delito. A revisão da legitimidade da busca domiciliar, no caso concreto, demanda reexame fático-probatório vedado pela Súmula 7/STJ.
+
+    2. A desclassificação do tráfico para uso próprio ou alteração na dosimetria, no caso em análise, exige a verificação das circunstâncias fáticas estabelecidas pelas instâncias ordinárias, cuja desconstituição importa vedado revolvimento probatório em recurso especial.
+
+    3. Agravo regimental desprovido” (fl. 1, e-doc. 14).
+
+    5. Esse acórdão é o objeto do presente habeas corpus. A defesa alega “a necessidade de ser analisada a possibilidade de desclassificação do delito, uma vez que a condenação do paciente a 5 anos e 10 meses de reclusão, em regime fechado, se deu com base em acusação por tráfico ilícito de entorpecentes, em razão da apreensão de 0,860 (oitocentos e sessenta miligramas) [de cocaína] e 5g de maconha” (fl. 6, e-doc. 1).
+
+    Sustenta que “a campana realizada não demonstra em nenhum momento ADELMO entregando drogas para terceiros” (fl. 6, e-doc. 1).
+
+    Afirma que “não foi apreendido nenhum apetrecho relacionado ao tráfico de drogas. Não foi encontrado balança, caderno de anotações, embalagens e etc” (fl. 7, e-doc. 1).
+
+    Acrescenta que, “inexistindo provas contundentes de que o paciente pretendia comercializar os entorpecentes com ele apreendidos, de rigor a desclassificação para conduta do art. 28 da Lei de Drogas” (fl. 7, e-doc. 1).
+
+    Sobre a incidência da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, anota que, “a despeito de o legislador não ter limitado temporalmente a configuração dos maus antecedentes ao período depurador quinquenal, tem o Superior Tribunal de Justiça admitido o afastamento da vetorial, à luz do princípio da razoabilidade, quando se tratarem de registros muito antigos, em aplicação da teoria do direito ao esquecimento” (fl. 10, e-doc. 1).
+
+    Enfatiza que “o paciente ostenta condenação definitiva no processo 0011966-24.2005.8.26.0506 que já data com quase DUAS DÉCADAS, enquadrando-se na excepcionalidade da aplicação do direito ao esquecimento. Deve, portanto, serem excluídos, para todos os fins, os maus antecedentes do paciente. (...) Ademais, nos autos nº 0001219-69.2009.8.26.0572 houve apenas e tão somente a aplicação de pena restritiva de direitos alusivos ao Art. 76, §4º, da Lei 9.099/95, que não pode ser utilizada como MAUS ANTECEDENTES” (fl. 11, e-doc. 1).
+
+    Estes os pedidos:
+
+    “Ex positis, requer:
+
+    A) A concessão da presente ordem de habeas corpus, para desclassificar a conduta de tráfico de drogas (art. 33, caput, da Lei 11.343/2006) para a do art. 28 da Lei de Drogas (posse de droga para consumo pessoal), declarando extinta a punibilidade do paciente, com a imediata expedição do competente Alvará de Soltura Clausulado.
+
+    B) Subsidiariamente, caso a conduta não seja desclassificada, o que não se espera, requer a aplicação do redutor insculpido no §4º da Lei 11.343/06” (fl. 12, e-doc. 1).
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    6. O pedido apresentado pela defesa é manifestamente contrário à jurisprudência do Supremo Tribunal Federal.
+
+    7. Consta do processo que o acórdão apontado como ato coator transitou em julgado em 2.7.2025.
+
+    A presente impetração foi protocolizada em 22.8.2025, mais de um mês depois do trânsito em julgado da condenação.
+
+    Este Supremo Tribunal consolidou jurisprudência no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de revisão criminal, salvo em caso de manifesta ilegalidade. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. INADMISSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. INVIABILIDADE JURÍDICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 185.452-AgR, de minha relatoria, Segunda Turma, DJe 22.6.2020).
+
+    “AGRAVO INTERNO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. AUSÊNCIA DE ILEGALIDADE EVIDENTE. NEGATIVA DE SEGUIMENTO AO RECURSO ORDINÁRIO.
+
+    1. Não se revela viável a utilização do habeas corpus como sucedâneo de revisão criminal.
+
+    2. Agravo interno desprovido” (RHC n. 243.350-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 30.10.2024).
+
+    Confiram-se também, por exemplo, os seguintes julgados: HC n. 137.153-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 16.11.2018; HC n. 161.267-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 15.10.2018; HC n. 135.239-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 17.9.2018; HC n. 134.691-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 1º.8.2018; HC n. 149.653-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 6.2.2018; HC n. 123.182-AgR, Relator o Ministro Edson Fachin, Primeira Turma, DJe 29.9.2016; e HC n. 134.974, de minha relatoria, Segunda Turma, DJe 9.8.2016.
+
+    8. Admite-se, em casos excepcionais e em circunstâncias fora do ordinário, a superação desse óbice jurisprudencial. Essa excepcionalidade é demonstrada em casos nos quais se patenteie flagrante ilegalidade ou contrariedade a princípios constitucionais ou legais na decisão questionada, o que não se comprova na espécie vertente.
+
+    9. Consta do processo que o paciente foi condenado pelos crimes de tráfico de drogas e posse irregular de arma de fogo de uso permitido, por ter sido flagrado na posse de três porções de maconha, com peso total de 5,17 gramas, quatro microtubos de cocaína, com peso total de 1,08 gramas, uma arma de fogo calibre trinta e seis e a quantia de novecentos e setenta e três reais em espécie, sem origem comprovada.
+
+    Ao afastar a pretensão de desclassificação do crime de tráfico de drogas para porte de drogas para consumo pessoal e rejeitar a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, o juízo de origem assentou:
+
+    “A materialidade delitiva restou demonstrada pelo auto de prisão em flagrante delito (fls. 01/03), pelo boletim de ocorrência (fls. 08/13), pelos arquivos contidos no link (fl. 16), pelo auto de exibição e apreensão (fl. 17), e pelos laudos periciais (fls. 19/26, fls. 56/60, fls. 144/146 e fls.147/149), bem como pela prova oral colhida.
+
+    A autoria também exsurge cristalina.
+
+    Em Juízo, a testemunha Ariane dos Santos, policial civil, relatou que estavam recebendo denúncias sobre tráfico de drogas no bairro ‘Sambra’. Que fizeram campana defronte a casa de Adelmo. Que rapidamente visualizaram um usuário saindo do local, o qual foi abordado pela outra equipe, sendo que ele possuía uma porção de drogas. Que entraram na residência do réu e verificaram que ele possuía uma arma em cima do guarda-roupa, além de duas porções de maconha, alguns pinos de cocaína e uma quantidade em dinheiro. Que a declarante nunca havia feito uma abordagem com o réu, apesar de já haver denúncia relacionando a ele com a traficância de entorpecentes. Que o celular apreendido não foi verificado, apenas colocado no modo avião e encaminhado para a perícia. Que a primeira versão do réu foi de que não havia drogas em sua casa e que, posteriormente, ele disse que os entorpecentes eram para uso próprio e que a arma era para se proteger. Que não foi feito um mandado de busca nas demais residências.
+
+    Ouvida em juízo, a testemunha Pedro Thimótheo da Silva, policial civil, informou que receberam várias denúncias referentes à ocorrência de tráfico de drogas na ‘Rua Francisco Ribeiro Atanes’, no bairro ‘Sambra.’ Que montaram uma campana nas imediações. Que no segundo dia de monitoramento, avistaram um usuário de drogas comprando entorpecentes. Que a outra equipe abordou o indivíduo, com o qual foi encontrada uma porção de maconha. Que adentraram a casa do acusado e durante busca pessoal, encontraram arma de fogo, porções de maconha e uma quantia de dinheiro. Que as denúncias apontavam a residência e a pessoa do réu como sendo o ponto do tráfico de drogas, motivo pelo qual montaram a campana direcionada a casa do imputado. Que mesmo com diversas casas no local, os policiais adentraram na casa de Adelmo, porque o usuário apontou qual casa ele entrou para comprar entorpecentes. Que o acusado já estava nas proximidades do portão. Que não realizaram vistoria nos demais imóveis. Que o celular não foi verificado, em razão de não existir ordem judicial.
+
+    Em juízo, a testemunha Vitor Manoel Silva Santos, disse que o réu é namorado de sua prima. Que após o acusado ser preso, sua prima lhe disse que Adelmo recebeu um pagamento de quase mil reais. Que o declarante não viu o dinheiro, porém o acusado comentou com ele sobre o valor. Que mora ‘praticamente’ do lado da casa do réu. Que a movimentação que viu foi do lado de sua casa. Que um rapaz parecido com Adelmo, porém mais alto, mudou-se para lá recentemente, há cerca de duas semanas. Que o depoente e sua esposa não viam movimentações na casa do acusado, mas sim na casa do outro rapaz. Que após a prisão do acusado, o rapaz mudou-se de lá. Que Adelmo é usuário de maconha e cocaína. Que o acusado nunca comentou sobre a arma de fogo.
+
+    Interrogado, o réu confessou parcialmente os fatos contidos na exordial. Declarou que a arma de fogo estava em cima do guarda-roupa e os entorpecentes estavam em cima da geladeira. Que ninguém foi até sua casa antes da chegada da polícia. Que permitiu a entrada e a vistoria dos policiais, os quais encontraram as drogas, que seriam para seu uso próprio. Que mora em um conjunto de quatro casas e que quando chegava de seu trabalho, presenciava movimentações na casa vizinha a sua. Que o acusado e os policiais não se conheciam. Que comentou com Vitor sobre o dinheiro que havia recebido. Que ganhou a arma de presente de um parente, que a utilizava para caça. Que guardava a arma na fazenda e, quando se mudou para a cidade, a trouxe. Que nunca efetuou disparos com a arma e nem colocou munição na mesma, mantendo-a sempre guardada em casa. Que não conhece Lourenço Rodrigues da Silva. Que o celular apreendido foi comprado pelo declarante há cerca de 3 dias, em nome de sua irmã. Que assume a posse das drogas para uso próprio.
+
+    Acerca da importância do depoimento dos policiais para a instrução do processo penal, calha pontuar que referidos agentes públicos não estão impedidos de depor e o valor de seus depoimentos não pode ser sumariamente desprezado. Ademais, no caso presente, os policiais sequer conheciam o réu, não havendo prova de que tivessem interesse em prejudicá-lo. (...)
+
+    Diante de tais considerações, tem-se que a versão apresentada pelo réu encontra-se isolada nos autos, não se sustentando o fato de que as drogas encontradas seriam destinadas a seu consumo próprio.
+
+    Com efeito, descabe afastar a validade dos depoimentos dos policiais com espeque tão somente na respectiva condição funcional, já que foram eles submetidos ao contraditório como qualquer outra testemunha. Ademais, seria um contrassenso o Estado dar-lhes crédito para atuar na prevenção e repressão da criminalidade e negar-lhes esse mesmo crédito quando, perante o Estado-juiz, dão conta das suas atividades.
+
+    Além disso, como dito, existem nos autos o auto de prisão em flagrante delito (fls. 01/03), pelo boletim de ocorrência (fls. 08/13), pelos arquivos contidos no link (fl. 16), pelo auto de exibição e apreensão (fl. 17), e pelos laudos periciais (fls. 19/26, fls. 56/60, fls. 144/146 e fls.147/149), confirmando, não somente a quantidade e qualidade das drogas aprendidas, mas também a forma de acondicionamento apresentada, típica da atividade de tráfico.
+
+    E, na espécie, observa-se que a quantidade, a forma de acondicionamento dos tóxicos, bem como as demais circunstâncias fáticas, não autorizam a desclassificação para o delito do artigo 28 da Lei nº 11.343/06.
+
+    Desta forma, a coligação das provas contidas nos autos da formação do inquérito policial ao momento de prolação da sentença encontra-se apta a demonstrar a prática de comercialização de entorpecentes. (...)
+
+    Inaplicável, no caso em exame, a causa especial de diminuição de pena prevista pelo art. 33, § 4º, da Lei 11.343/06, pois não preenchidos os requisitos legais ali estampados (bons antecedentes)” (fls. 2-8, e-doc. 11).
+
+    Essa fundamentação foi mantida pelo Tribunal de Justiça paulista, que enfatizou:
+
+    “Quanto a eventual irregularidade na busca domiciliar realizada, observa-se que os policiais civis ouvidos nos autos esclareceram que após receberem denúncias de que o réu Adelmo estaria traficando drogas em sua residência, realizaram campana em frente ao local confirmando haver ali movimentação típica da mercancia espúria.
+
+    Em determinado momento, observaram um usuário saindo do local e optaram por abordá-lo. Após constatarem que tal individuo, identificado como Lourenço Rodrigues da Silva, trazia consigo uma porção de maconha, realizaram a busca na residência do réu que culminou na localização dos entorpecentes, arma e valor apreendidos nos autos.
+
+    Note-se que o ingresso dos policiais na residência foi autorizado pelo réu, o que ele próprio confirmou em Juízo.
+
+    E ainda que assim não o fosse, pontue-se que a consumação do tráfico de entorpecentes, crime permanente, se protrai no tempo. Assim, enquanto o agente estiver praticando o delito, subsiste a situação de flagrância (art. 303, CPP), o que autoriza a prisão, por policial ou qualquer um do povo (art. 301, CPP), além de afastar a exigência de mandado judicial para ingresso em domicílio (art. 5º, IX, CF), sendo prescindível, também, a autorização para a entrada no local. (...)
+
+    De tal modo, diante de todos os elementos obtidos no curso da instrução, verifica-se que a prova produzida sob o crivo do contraditório é segura no sentido de determinar a responsabilidade criminal do apelante pelo tráfico de drogas, até porque a materialidade delitiva ficou comprovada pelo laudo pericial de fls. 114/116.
+
+    Repise-se que, em relato seguro e coeso, os policiais narraram que após receberem denúncias acerca da traficância ilícita na residência do réu e, em campana, confirmarem a movimentação típica no local, realizaram a busca domiciliar, devidamente autorizada pelo réu, logrando localizar: no interior do quarto, dentro do guarda-roupas, 1 (uma) arma de fogo, cano longo, calibre .36', com numeração suprimida; na cozinha, 2 (duas) trouxinhas de maconha, 4 (quatro) pinos contendo cocaína, 1 (um) saquinho plástico contendo bicarbonato, 1 (uma) tesoura aparentemente com resquícios de maconha e 1 (um) aparelho celular. Com o acusado, submetido a revista pessoal, foi localizada a quantia de R$ 973,00 (novecentos e setenta e três reais) em espécie.
+
+    Os depoimentos dos agentes públicos merecem total credibilidade e servem, perfeitamente, como supedâneo para prolação de sentença condenatória, uma vez que harmônicos e sintonizados com os seus depoimentos prestados extrajudicialmente (fls. 4/5 e 6).
+
+    Registre-se, desde já, que diante da prática adquirida com a profissão por eles desempenhada, são capazes de apontar fatos e circunstâncias imprimidas nas diligências levadas a efeito para elucidar o acontecido, só deles conhecidas, que culminam por trazer a certeza do cometimento criminoso imputado, especialmente quando ausentes outras testemunhas presenciais e as versões por eles descritas são anotadas logo de início nos autos e não desmerecidas no contraditório.
+
+    Ademais, nada há nos autos que, mesmo superficialmente, coloque em dúvida as suas falas, tampouco a lisura do trabalho por eles realizado. (...)
+
+    No mais, os entorpecentes foram localizados na posse direta do acusado, que os mantinha sob sua guarda, tendo ele admitido a propriedade da droga, alegando, no entanto, ser para consumo pessoal.
+
+    Cabe observar, nesse passo, que a existência de denúncias sobre a prática do tráfico de drogas por Adelmo em sua residência; a abordagem de usuário saindo do local com uma porção de maconha, a apreensão de porções de duas variedades de entorpecente com o sentenciado (6 porções, sendo 2 de maconha e 4 de cocaína), segura conclusão de que se destinava ao comércio ilícito, e não ao uso próprio, como tem proclamado iterativamente a jurisprudência, motivo pelo qual é totalmente inadmissível a desclassificação da conduta do sentenciado para aquela prevista no art. 28 da Lei nº 11.343/06.
+
+    Noutro viés, ainda que o réu fosse de fato usuário, tal circunstância não exclui a possibilidade de que também se dedicasse à comercialização de entorpecentes, sendo, portanto, a análise das provas colhidas determinante da real destinação das substâncias ilícitas. Aliás, não raro os usuários se enveredam no mundo do tráfico para sustentar o próprio vício. E, no caso em questão, restou evidente que a droga apreendida se reservava a terceiros. (...)
+
+    Quanto ao dinheiro encontrado, a defesa não cuidou de trazer aos autos comprovação hábil a demonstrar que a quantia era lícita.
+
+    Ora, o documento juntado a fl. 122 não serve para comprovar que a quantia era provento de seu trabalho, porquanto não apresenta qualquer informação sobre o efetivo pagamento de valor aproximado ao réu às vésperas dos fatos, sendo certo ainda que a subscritora daquela declaração, sequer foi arrolada para sustentar tal alegação. (...)
+
+    Com isso, resta, apenas, analisar a pena imposta, a qual também não comporta reforma. Na primeira fase, a pena-base dos delitos foi fixada em 1/6 (um sexto) acima do mínimo legal, em 5 (cinco) anos e 10 (dez) meses de reclusão, e 583 (quinhentos e oitenta e três) dias-multa para o tráfico de drogas; e em 1 (um) ano e 2 (dois) meses de detenção e pagamento de 11 (onze) dias-multa, para o crime de posse irregular de arma de fogo de uso permitido.
+
+    Idônea é a fundamentação para a exasperação da pena-base, levando-se em conta o mau antecedente criminal do acusado devidamente documentado nos autos (processo nº 0011966-24.2005.8.26.0506 fl. 61) o que, a despeito da judiciosa manifestação defensiva, não comporta reparo.
+
+    Convém pontuar aqui a possibilidade de valoração das condenações fora do prazo quinquenal aplicado para aferição de reincidência, pois é certo que, no tocante aos antecedentes, o Código Penal adotou o sistema da perpetuidade, não limitando temporalmente o seu reconhecimento. (...)
+
+    Na segunda fase, diante da atenuante da confissão, a pena do crime previsto no artigo 12, da Lei 10.826/03 retornou ao mínimo legal, ou seja, 1 (um) ano de detenção e 10 (dez) dias-multa. Não foram verificadas agravantes ou atenuantes em relação ao crime de tráfico de drogas, subsistindo a pena fixada na etapa anterior.
+
+    Na terceira fase, foi bem aplicado o cúmulo material entre os crimes (art. 69, caput, do Código Penal) e as penas foram tornadas definitivas em 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, no piso legal; e 01 (um) ano de detenção, em regime inicial semiaberto, e 10 (dez) dias-multa, no piso legal.
+
+    No ponto, registre-se que não comporta guarida o pleito defensivo a aplicação do redutor previsto no art. 33, §4º, da Lei nº 11.343/06 por ausência dos requisitos legais, já que detentor de maus antecedentes, circunstância que obsta a incidência de tal minorante, não ensejando bis in idem a utilização concomitante dos maus antecedentes na primeira e terceira fases da dosimetria” (fls. 7-26, e-doc. 12).
+
+    10. As instâncias ordinárias afirmaram haver acervo probatório determinante da condenação do paciente pelo crime de tráfico de entorpecente, enfatizando a forma de acondicionamento dos entorpecentes, a existência de dinheiro em espécie sem comprovação de origem, a realização de campana policial, que teria observado movimentação típica do tráfico na residência do paciente, e a abordagem de usuário portando porção de maconha após sair do local.
+
+    A pretendida desclassificação dessa conduta para a de uso de entorpecente, tipificada no art. 28 da Lei n. 11.343/2006, exigiria o reexame do acervo probatório que conduziu à convicção dos órgãos julgadores. O reexame do conjunto fático-probatório é incabível em habeas corpus. Nesse sentido, por exemplo:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. TRÁFICO DE ENTORPECENTE. CONDENAÇÃO TRANSITADA EM JULGADO. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL: IMPOSSIBILIDADE. PRETENDIDA DESCLASSIFICAÇÃO DA CONDUTA. REEXAME DE FATOS E PROVAS. DESCABIMENTO. ALEGAÇÃO DE NULIDADE DAS PROVAS. MATÉRIA NÃO EXAMINADA PELAS INSTÂNCIAS ANTECEDENTES. AGRAVAMENTO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006 AFASTADA: REINCIDÊNCIA. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL DESPROVIDO” (HC n. 218.872-AgR, de minha relatoria, Primeira Turma, DJe 20.9.2022).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. PEDIDO DE DESCLASSIFICAÇÃO DA CONDUTA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. REGIME PRISIONAL MAIS GRAVOSO. REINCIDÊNCIA. FUNDAMENTAÇÃO CONCRETA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. (...)
+
+    3. O acórdão impugnado está em harmonia com a jurisprudência deste Supremo Tribunal Federal no sentido de que, para acolher a tese defensiva de desclassificação para o crime do art. 28 da Lei de Drogas, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita, especialmente quando os contornos fáticos e probatórios delineados pelas instâncias anteriores apontam no sentido da prática do crime de tráfico de entorpecentes tipificado no art. 33, caput, da Lei nº 11.343/2006. Precedentes. (...)
+
+    5. Agravo regimental conhecido e não provido” (HC n. 257.897-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 25.8.2025).
+
+    “Agravo regimental em habeas corpus. Penal e processo penal. Desclassificação do crime de tráfico para o de porte de drogas para uso pessoal. Inviabilidade. Sentença condenatória. Dedicação do réu à atividade criminosa. Ausência de ilegalidade ou teratologia nas decisões das instâncias antecedentes. Agravo ao qual se nega provimento” (HC n. 230.218-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 9.10.2023).
+
+    “AGRAVO INTERNO EM HABEAS CORPUS. ALEGADA VIOLAÇÃO DE DOMICÍLIO. PRESENÇA DE JUSTA CAUSA PARA O INGRESSO POLICIAL NA RESIDÊNCIA. TRÁFICO DE DROGAS. CRIME PERMANENTE. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A TESE FIXADA NO RE 603.616 (TEMA N. 280/RG). PLEITO SUBSIDIÁRIO DE DESCLASSIFICAÇÃO (ART. 28 DA LEI DE DROGAS). INVIABILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. HABEAS CORPUS INDEFERIDO.
+
+    1. Nos crimes de natureza permanente, cuja situação de flagrância se protrai no tempo, é dispensável a apresentação de mandado judicial para a entrada forçada na residência do acusado, desde que a ação esteja amparada em fundadas razões (Tema n. 280/RG).
+
+    2. Não se admite, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – desclassificação para o delito previsto no art. 28 da Lei n. 11.343/2006 –, do conjunto fático-probatório produzido nas instâncias ordinárias.
+
+    3. Agravo interno desprovido” (HC n. 219.607-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 23.11.2022).
+
+    Não se demonstra, no caso, ilegalidade na decisão objeto da presente impetração, não havendo fundamento para o seguimento desta ação no Supremo Tribunal Federal.
+
+    11. Ademais, pelo decidido nas instâncias de origem, afastou-se a causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 com fundamento no conjunto probatório dos autos, em razão da dedicação do paciente ao tráfico de drogas, realçada pelos seus maus antecedentes.
+
+    12. Para formar o convencimento motivado das instâncias antecedentes, foram consideradas as provas especificadas e as circunstâncias concretas do caso. A pretendida revisão dessa conclusão exigiria o reexame do acervo probatório que conduziu à convicção dos órgãos julgadores, procedimento incabível de ser adotado em habeas corpus. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE ENTORPECENTE. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006. INVIABILIDADE. DEDICAÇÃO DO AGRAVANTE AO TRÁFICO DE DROGAS. REEXAME DE PROVAS. IMPOSSIBILIDADE. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 211.007-AgR, de minha relatoria, Primeira Turma, DJe 10.3.2022).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343, DE 2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE FATOS E PROVAS: INVIABILIDADE. (...)
+
+    2. Uma vez que os fundamentos utilizados para afastar o redutor não se limitaram à quantidade e variedade do entorpecente, levando-se em conta todo o contexto em que ocorrido o delito, envolvendo 4 corréus e a apreensão de dinheiro, arma de fogo, balança de precisão e demais petrechos, denotam não se tratar de traficante ocasional, surgindo imprópria a aplicação da minorante prevista no art. 33, § 4º, da Lei nº 11.343, de 2006.
+
+    3. Assentada pelas instâncias antecedentes a dedicação do recorrente a atividades criminosas, a partir de dados concretos, alcançar conclusão diversa demandaria o reexame do acervo
+fático-probatório, incabível na via estreita do habeas corpus. (...)
+
+    5. Agravo regimental ao qual se nega provimento” (HC n. 229.571-AgR, Relator o Ministro André Mendonça, Segunda Turma, DJe 22.4.2024).
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/2006. AFASTAMENTO. REEXAME DE FATOS E PROVAS. INVIABILIDADE.
+
+    1. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial, à míngua de previsão, no Código Penal, de rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena (RHC 140.006-AgR, de minha relatoria, Primeira Turma, DJe 15.12.2017).
+
+    2. A tese defensiva de aplicação da minorante do § 4º do art. 33 da Lei nº 11.343/2006, afastada pelas instâncias anteriores dada a constatação de a Recorrente integrar organização criminosa e/ou dedicar-se à atividades delitivas, demanda o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes.
+
+    3. Agravo regimental conhecido e não provido” (RHC n. 177.244, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 25.11.2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. INCABÍVEL. DEDICAÇÃO HABITUAL A ATIVIDADES CRIMINOSAS. PARTICULARIDADES DO
+CASO CONCRETO. REVISÃO FÁTICO-PROBATÓRIA. INVIABILIDADE. AGRAVO A QUE SE NEGA PROVIMENTO” (RHC n. 168.228-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 27.9.2019).
+
+    13. Ademais, é pacífica na jurisprudência deste Supremo Tribunal a compreensão de que a existência de maus antecedentes é fundamento suficiente para impedir a incidência da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA
+LEI Nº 11.343/2006. MAUS ANTECEDENTES. NÃO PREENCHIMENTO DOS REQUISITOS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS.
+
+    1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes.
+
+    2. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial, à míngua de previsão, no Código Penal, de rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena.
+
+    3. A jurisprudência prevalecente desta Suprema Corte admite a consideração do registro pretérito como maus antecedentes, na hipótese em que haja trânsito em julgado daquela condenação, ainda que este tenha ocorrido após a prática do delito sob julgamento. Precedentes.
+
+    4. Hipótese em que a minorante do § 4º do art. 33 da Lei nº 11.343/2006 fora afastada pelas instâncias anteriores com base no registro de maus antecedentes.
+
+    5. Para concluir em sentido diverso quanto à aplicação da causa de diminuição prevista no § 4º do art. 33 da Lei de Drogas, imprescindível o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes.
+
+    6. Agravo regimental conhecido e não provido” (RHC n. 240.977-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 12.7.2024).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO INDIVIDUAL DE MINISTRO DO STJ. SUBSTITUTIVO DE AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. TEMA RG Nº 150. PRAZO DEPURADOR DE 5 ANOS (ART. 64, INC. I, DO CÓDIGO PENAL): INAPLICABILIDADE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343, DE 2006: REQUISITOS NÃO ATENDIDOS. REGIME DE CUMPRIMENTO DA PENA. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS.
+
+    1. Inexistindo pronunciamento colegiado do STJ, não compete ao Supremo Tribunal Federal examinar a questão de direito versada na impetração (CRFB, art. 102, inc. I, al. ‘i’).
+
+    2. De acordo com a jurisprudência desta Suprema Corte, é possível a valoração negativa dos antecedentes a partir de condenação cuja pena se extinguiu há mais de 5 anos, sendo inaplicável o art. 64, inc. I, do Código Penal (Tema nº 150 da Repercussão Geral).
+
+    3. Ante os maus antecedentes, não estão preenchidos os requisitos legais para o implemento da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas.
+
+    4. Não há ilegalidade na definição do regime fechado, tendo em vista o quantum da pena e as circunstâncias judiciais negativas.
+
+    5. Agravo regimental ao qual se nega provimento” (HC n. 238.274-AgR, Relator o Ministro André Mendonça, Segunda Turma, DJe 28.6.2024).
+
+    “AGRAVO INTERNO EM HABEAS CORPUS. MAUS ANTECEDENTES. TRÁFICO PRIVILEGIADO AFASTADO. ADEQUAÇÃO. NEGATIVA DE SEGUIMENTO AO HABEAS CORPUS.
+
+    1. A valoração negativa dos antecedentes é razão suficiente para o afastamento da causa de diminuição atinente ao tráfico privilegiado.
+
+    2. Agravo interno desprovido” (HC n. 235.788-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 1º.3.2024).
+
+    14. Este Supremo Tribunal firmou jurisprudência de que “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+
+    15. Pelo exposto, nego seguimento ao presente habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 25 de agosto de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
