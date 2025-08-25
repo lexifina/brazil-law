@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. FASE DE CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de indenização por danos materiais, em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por LOTEUM INCORPORAÇÕES S.A. contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Ação: de indenização por danos materiais, em fase de cumprimento de sentença, proposta por PONTMAQ EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra LOTEUM INCORPORAÇÕES S.A, por atraso na entrega de unidade imobiliária.
+Decisão interlocutória: homologou o laudo pericial e rejeitou a impugnação ao cumprimento de sentença.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. DECISÃO AGRAVADA HOMOLOGOU O LAUDO PERICIAL E REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. IRRESIGNAÇÃO DA 1ª EXECUTADA ALEGANDO EQUÍVOCO NO CÁLCULO DA INDENIZAÇÃO, QUE DEVE SER SOBRE O VALOR HISTÓRICO DO IMÓVEL E A OCORRÊNCIA DE BIS IN IDEM NO QUE TANGE A APLICAÇÃO DA CORREÇÃO MONETÁRIA. TÍTULO EXECUTIVO JUDICIAL CONDENOU OS RÉUS AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS NO VALOR DE 0.5% DO VALOR DO IMÓVEL PARA CADA MÊS DE ATRASO, OBSERVANDO-SE A CLÁUSULA CONTRATUAL 13.9. PREVISÃO CONTRATUAL EXPRESSA DETERMINANDO QUE A INDENIZAÇÃO SERÁ CALCULADA SOBRE O VALOR DO IMÓVEL ATUALIZADO PELO ÍNDICE INCC. CORRETO O CÁLCULO DA INDENIZAÇÃO SOBRE O VALOR DO IMÓVEL ATUALIZADO. CONTUDO, EVIDENTE BIS IN IDEM, EM RAZÃO DA INCIDÊNCIA DE NOVA CORREÇÃO MONETÁRIA SOBRE VALOR JÁ ATUALIZADO MONETARIAMENTE, O QUE É VEDADO PELO ORDENAMENTO JURÍDICO, CONFIGURANDO INADMISSÍVEL ENRIQUECIMENTO SEM CAUSA DA PARTE EXEQUENTE. AUSÊNCIA DE VIOLAÇÃO DA COISA JULGADA. CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. EVIDENTE EQUÍVOCO, SANÁVEL DE OFÍCIO A QUALQUER TEMPO. ART. 463 DO CPC. PRECEDENTE DO STJ. EXCESSO DE EXECUÇÃO. REFORMA DA SENTENÇA PARA REALIZAÇÃO DE NOVOS CÁLCULOS EXCLUINDO A CORREÇÃO MONETÁRIA SOBRE A INDENIZAÇÃO CALCULADA SOBRE O VALOR DO IMÓVEL CORRIGIDO MONETARIAMENTE. PROVIMENTO PARCIAL DO RECURSO." (e-STJ Fls. 74)
+Embargos de Declaração: opostos pela parte agravante, foram negados. (e-STJ Fls. 187)
+Recurso especial: alega violação dos arts. 502, 503, 505 e 1.022, III, do CPC. A parte agravante sustenta em seu recurso especial que o acórdão recorrido violou frontalmente a legislação federal ao não reconhecer que o laudo pericial estava em desacordo com o título executivo judicial a respeito do valor em que incidiria a correção monetária. Argumenta para tanto que a determinação do acórdão executado foi a de que a base de cálculo da indenização deveria incidir sobre o valor histórico do imóvel, não seu valor atualizado. (e-STJ Fls. 214-218)
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento, com fundamento no art. 932, III e IV, "a", do CPC. (e-STJ Fls. 413-416)
+Agravo Interno: A parte agravante sustenta que a decisão agravada invocou os óbices das Súmulas 5 e 7 do STJ de forma equivocada, além de não reconhecer a violação ao artigo 1.022 do CPC. Alega que o título executivo judicial não menciona que a base de cálculo deve ser apurada sobre o valor atualizado do imóvel, gerando excesso de execução. (e-STJ Fls. 439-450)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. FASE DE CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de indenização por danos materiais, em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu em parte do recurso especial interposto pela parte agravante e, nessa extensão, negou-lhe provimento, com base nas seguintes razões: i. ausência de negativa de prestação jurisdicional; ii. Súmula 283 do STF e iii. Súmula 7 do STJ.
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a parte agravante não trouxe argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+A parte agravante alega negativa de prestação jurisdicional sob argumento de que o acórdão recorrido não observou o título executivo judicial, permitindo que a indenização no percentual de 0,5% do valor do imóvel fosse calculada sobre o valor atualizado do bem, quando deveria ser sobre o valor histórico, uma vez que no título judicial não há menção quanto à atualização do valor do imóvel. Além disso, alega que houve bis in idem na aplicação da correção monetária, o que resultou em manifesto excesso de execução (fls. 76-78).
+O Tribunal de origem, por sua vez, consignou que:
+O acórdão confirmou a condenação dos réus ao pagamento de indenização por danos materiais em razão do atraso na entrega do imóvel, contudo acolheu o apelo do próprio Agravante para afastar o valor fixado pelo juízo de primeiro grau, diante da existência de previsão contratual expressa, no item 13.9 do contrato de indenização de 0,5% ao mês sobre o valor do imóvel, destacando que deve prevalecer a autonomia privada das partes. Confira-se:
+"Entretanto, assiste razão ao apelo do primeiro réu no que tange ao valor da indenização, uma vez que há previsão contratual expressa, no item 13.9 do contrato, de que, no caso de atraso na entrega do imóvel, a indenização deverá ser fixada em 0,5% ao mês sobre o valor do imóvel. Deve prevalecer, no caso, a autonomia privada das partes, aplicando-se o percentual previsto contratualmente." (Pág. 1421)
+Portanto, a indenização deve ser calculada de acordo com o previsto no item 13.9 do contrato, o qual estabelece de forma clara que o percentual de 0.5% incidirá sobre o valor do imóvel atualizado. Confira-se:  ..  (e-STJ Fls. 78-79)
+ ..
+Além disso, de acordo com o artigo 463 do CPC, é possível a alteração da sentença, depois de transitada em julgado, quando ocorrer inexatidões materiais ou erros de cálculo.
+Assim, o cálculo de correção monetária é considerado uma das hipóteses em que se torna possível à ocorrência de erro material, inclusive em relação ao termo inicial e período de atualização, em especial, quando resulta em bis in idem, diante da sua ilegalidade e do enriquecimento sem causa do credor. (e-STJ Fl. 80)
+Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão referente à aplicação da correção monetária sob viés diverso daquele pretendido por Loteum Incorporações S.A., fato que não dá ensejo à oposição de embargos de declaração. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+A parte agravante sustenta em seu recurso especial sustenta que o laudo pericial estava em desacordo com o título executivo judicial a respeito do valor em que incidiria a correção monetária, no entanto, não teceu qualquer impugnação ao fundamento utilizado pelo TJ/RJ de que a correção monetária constitui erro de cálculo e, de acordo com o artigo 463 do CPC, é possível a alteração da sentença, depois de transitada em julgado, quando ocorrer inexatidões materiais ou erros de cálculo (e-STJ Fl. 80, conforme trecho do acórdão recorrido já transcrito anteriormente.
+Razão pela qual deve ser mantida a decisão agravada que não conheceu do recurso especial nesta parte, por inteligência da Súmula 283/STF.
+Ainda assim, quanto à alegação da parte agravante de que houve desrespeito ao título executivo judicial, persiste o óbice imposto pela Súmula 7 do STJ.
+O acórdão consignou expressamente acerca de que a indenização deve ser calculada de acordo com o previsto no item 13.9 do contrato, o qual estabelece de forma clara que o percentual de 0.5% incidirá sobre o valor do imóvel atualizado (e-STJ Fl. 79), conforme trecho do acórdão já transcrito acima, a fim de alcançar a conclusão a que chegou no acórdão vergastado.
+O Tribunal de origem se baseou em todo o acervo fático probatório.
+Inevitável a manutenção da Súmula 7 do STJ quanto à controvérsia assentada na alínea "a" do permissivo constitucional porquanto, para atender ao pleito da parte agravante, seria necessária a incursão nos elementos fáticos dos autos, vedada pela referida Súmula.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
