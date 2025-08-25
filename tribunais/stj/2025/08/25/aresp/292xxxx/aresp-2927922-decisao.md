@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por ALISSON MARQUES IZAIAS contra decisão que inadmitiu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+O Tribunal de origem manteve a condenação à pena de 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, em regime semiaberto, e ao pagamento de 14 (quatorze) dias-multa, pela prática do crime previsto no artigo 155, § 4º, inciso I, do Código Penal.
+Nas razões do recurso especial, alegou o agravante violação ao art. 155, caput, do Código de Processo Penal, sustentando ausência de provas da prática delitiva, pleiteando absolvição.
+O recurso especial foi inadmitido na origem, por incidência da Súmula n. 7/STJ.
+Interposto o presente agravo, o Ministério Público Federal opinou pelo seu desprovimento (fls. 772/776).
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pelo agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O Tribunal de origem, com base no conjunto probatório dos autos, reconheceu estarem devidamente comprovadas a materialidade e a autoria delitivas, nos seguintes termos (fls. 677-678):
+Como se nota, ao contrário do que pretende fazer a crer a defesa, as provas produzidas nos autos, não dão margem para dúvidas acerca da efetiva ocorrência do delito de furto qualificado, nem da autoria imputada ao apelante.
+Isso porque, como visto, os depoimentos da vítima, das testemunhas e dos policiais militares responsáveis pela ocorrência, revelam bem como se deram os fatos narrados na peça exordial, comprovando sem dúvidas a prática do crime e sua autoria.
+ ..
+Os elementos probatórios demonstram, sem sombra de dúvidas, que o recorrente, na noite do dia 24/09/2016, após arrombar a porta, entrou na residência da vítima Leandro Ferreira e subtraiu para si um relógio da marca X-Games, uma caixa com joias (uma corrente de ouro e um anel de 15 anos com uma pérola), um óculos de sol da marca Mormaii e um celular Samsung Galaxy de cor preta. Ademais, alguns dias após o furto, Alisson ofereceu para venda em uma loja de conveniências o óculos e o relógio subtraídos. O relógio foi comprado por Jayson, que foi abordado por policiais militares sobre o item e conduzido à delegacia para que a vítima pudesse identificá-lo. Na delegacia, Jayson admitiu que Alisson foi quem lhe vendeu o relógio. Diante disso, não há que se falar em absolvição por insuficiência de provas.
+E assim, embora o acusado tenha negado a prática delitiva, verifica-se que a versão apresentada encontra-se isolada nos autos, demonstrando ser apenas uma tentativa de esquivar o apelante de sua responsabilidade penal.
+Todavia, diante dos elementos concatenados aos autos, é de se dizer que a negativa de autoria sustentada, não merece qualquer credibilidade, mormente porque foram apresentadas meras alegações genéricas, sem qualquer manifestação de argumentação específica ao caso concreto que pudesse comprovar a inocência do réu.
+Conforme consignado no acórdão impugnado, os elementos de prova demonstraram que o recorrente, na noite de 24 de setembro de 2016, após arrombar a porta da residência da vítima Leandro Ferreira, subtraiu diversos objetos, incluindo relógio, joias, óculos de sol e aparelho celular. Posteriormente, o agravante ofereceu alguns dos objetos furtados para venda em estabelecimento comercial, sendo a autoria confirmada pelos depoimentos da vítima, testemunhas e agentes policiais.
+A Corte de origem consignou expressamente que "os elementos probatórios demonstram, sem sombra de dúvidas" a prática delitiva e sua autoria, destacando a coerência e firmeza dos depoimentos colhidos em juízo.
+O pleito de reforma do julgado para absolvição por insuficiência de provas, como constou da decisão agravada, demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, conforme pacificado na Súmula 7 desta C orte Superior.
+Nesse sentido, confiram-se os seguintes precedentes:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca; e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi).
+A jurisprudência desta Corte é firme no sentido de que, havendo fundamentação suficiente no acórdão condenatório, com base em conjunto probatório idôneo, não cabe a esta Corte Superior reexaminar a valoração das provas procedida pelas instâncias ordinárias.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
