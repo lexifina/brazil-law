@@ -1,0 +1,45 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FRANCISCO ROBERTO HERRERA LOPES, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/5/2024.
+Concluso ao gabinete em: 7/8/2025.
+Ação: de indenização por danos materiais e compensação por danos morais, fundada em acidente de trânsito, ajuizada por DALVA MARIA DE PROENÇA E OUTROS em desfavor do agravante, em fase de cumprimento de sentença.
+Decisão interlocutória: acolheu em parte o pedido de penhora dos proventos do executado.
+Acórdão: manteve a decisão monocrática que negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO ACIDENTE DE TRÂNSITO AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS Decisão monocrática que negou provimento a agravo de instrumento Penhora de 10% dos rendimentos mensais do executado Cabimento Comprometimento da subsistência do devedor não vislumbrada Impenhorabilidade mitigada Decisão mantida Recurso desprovido.
+Embargos de declaração: opostos pelo agravante, foram parcialmente acolhidos, apenas para sanar erro material na ementa do julgado embargado.
+Recurso especial: aponta violação aos arts. 8º, 489, II, III e § 1º, IV, 833, IV, e 1.022, parágrafo único, II, do CPC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta, em síntese, que a constrição, na presente hipótese, está comprometendo a sua subsistência e de sua família, não podendo ser admitida a sua manutenção.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, Terceira Turma, DJe de 31/8/2020; e AgInt no AREsp 1.518.178/MG, Quarta Turma, DJe de 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, sobre o cabimento da penhora de 10% (dez por cento) dos rendimentos mensais do executado, pois não vislumbrado o comprometimento da sua subsistência e de sua família, de modo que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC incidindo, quanto ao ponto a Súmula 568/STJ.
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Além disso, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Segunda Turma, DJe 21/6/2016). No mesmo sentido: AgInt nos EDcl no AREsp 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da Súmula 568/STJ
+Esta Corte Superior entende que "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capazes de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG, Corte Especial, DJe de 16/10/2018).
+Nesse sentido: AgInt no AREsp 2.730.473/RS, Quarta Turma, DJEN de 16/6/2025; AgInt no REsp 2.173.701/SP, Terceira Turma, DJEN de 23/5/2025; AgInt no AREsp 2.732.595/SP, Terceira Turma, DJEN de 20/2/2025; AgInt no REsp 1.987.404/SP, Terceira Turma, DJe de 23/3/2023; AgInt no AREsp 2.477.842/DF, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp 2.537.382/DF, Quarta Turma, DJe de 26/6/2024; AgInt no REsp 2.067.117/PR, Terceira Turma, DJe de 15/12/2023; AgInt nos EDcl no REsp 1.993.457/SP, Terceira Turma, DJe de 21/9/2022; AgInt no REsp 1.866.064/SP, Quarta Turma, DJe de 16/12/2021; AgInt no REsp 1.948.607/AC, Terceira Turma, DJe de 1/12/2021; AgInt no REsp 1.886.436/DF, Quarta Turma, DJe de 21/06/2021; AgInt no AREsp 1.773.483/MG, Quarta Turma, DJe de 7/6/2021; AgInt no REsp 1.906.957/SP, Terceira Turma, DJe de 25/3/2021; e AgInt no AgInt no AREsp 1.645.585/DF, Terceira Turma, DJe de 24/11/2020.
+No particular, o TJ/SP consignou que:
+"Após iniciado o cumprimento de sentença, os agravados apresentaram planilha do débito exequendo remanescente, no importe de R$2.375.568,45, atualizado para agosto/2022, para prosseguimento da execução em face do executado, ora agravante.
+E, infrutíferas as pesquisas Arisp, Renajud e insuficiente o bloqueio de ativos financeiros para satisfação do crédito exequendo, os agravados, considerando a natureza alimentar do crédito exequendo, e sustentando que o agravante, além de ser médico oftalmologista, possui elevado padrão de vida, pleitearam pela penhora de 50% dos seus rendimentos mensais, sobrevindo a r. decisão agravada.
+Com efeito, não obstante os salários sejam impenhoráveis por força de lei (art. 833, IV, do CPC), essa condição pode ser excepcionada a depender do caso concreto e da natureza do crédito exequendo, e se verificada que a constrição não compromete a subsistência do devedor e sua família. Neste sentido, confira-se entendimento do C. STJ:
+(..)
+Portanto, como consignado na decisão agravada, no presente caso, frustradas as tentativas de localização de bens penhoráveis e constatado que o agravante percebe remuneração mensal média de R$9.500,00, foi deferida a penhora de 10% sobre os valores auferidos, pois, além da natureza alimentar do crédito exequendo, e a despeito das alegações do agravante, não se vislumbra o comprometimento de sua subsistência e de sua família com a referida penhora." (e-STJ fls. 105/106)
+Logo, o acórdão recorrido alinhou-se ao entendimento do STJ, não merecendo, portanto, ser reformado.
+Aplica-se, na espécie, a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão de que "não se vislumbra o comprometimento de sua subsistência e de sua família com a referida penhora" (e-STJ fl. 106), tal como pretendido pelo agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Em virtude do exame do mérito, por meio do qual foi rejeitada a tese da parte agravante, fica prejudicada a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.210.915/PR, Segunda Turma, DJe 4/4/2023; AgInt no REsp 2.025.840/AL, Segunda Turma, DJe 4/4/2023; AgInt no REsp 2.006.801/MG, Primeira Turma, DJe 11/4/2023; e REsp 1.840.515/CE, Terceira Turma, DJe 1º/12/2020.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, nos termos do artigo 85, § 11, do CPC, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve fixação de honorários.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PENHORA DE PERCENTUAL DE RENDIMENTOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais, em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A regra geral da impenhorabilidade de salários, prevista no Código de Processo Civil, pode ser excepcionada quando for preservado percentual capaz de dar amparo à dignidade do devedor e de sua família. Precedentes.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
