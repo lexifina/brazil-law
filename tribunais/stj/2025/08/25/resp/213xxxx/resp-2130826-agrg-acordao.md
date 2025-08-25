@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA DOMICILIAR. LEGALIDADE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, mantendo a legalidade da busca domiciliar realizada na residência do recorrente e a validade das provas dela decorrentes, conforme o art. 157 do Código de Processo Penal.
+2. A decisão agravada sustentou que, diante das evidências encontradas de crime de falsidade ideológica e estelionato, os policiais, orientados por terceira pessoa, dirigiram-se à residência do recorrente, onde, ao ser abordado, apresentou uma CNH falsa, configurando-se o ilícito de uso de documento falso. Nesse contexto, munidos de todas as evidências da prática anterior de crimes, os policiais adentraram na residência do réu e, após revista, encontraram documentos falsos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca domiciliar realizada sem autorização judicial ou anuência do proprietário, mas amparada por fundadas razões que indiquem flagrante delito, é válida.
+III. Razões de decidir
+4. A existência de elementos prévios que indiquem a prática de delito no interior do imóvel, como a apreensão de documentos falsos e a apresentação espontânea de CNH falsa pelo recorrente, configura fundada razão para autorizar o ingresso no domicílio sem consentimento ou autorização judicial.
+5. A atuação policial esteve amparada em fundadas razões, notadamente a prévia apreensão de documentos falsos em nome do recorrente em outro local, a indicação de seu endereço por terceira pessoa e, principalmente, a apresentação espontânea de CNH falsa pelo próprio recorrente antes da diligência, seguida de confissão.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A busca domiciliar sem mandado judicial é lícita quando amparada em fundadas razões que indiquem situação de flagrante delito. 2. A apresentação espontânea de documento falso pelo investigado e evidências de prática anterior de crimes no local, configuram justa causa para o ingresso no domicílio sem autorização judicial".
+Dispositivos relevantes citados: CF/1988, art. 5º, XI; CPP, art. 157.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, Plenário, julgado em 05.11.2015; STJ, AgRg no HC 811.743/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 13.06.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Francisco Edvan Lima Rodrigues contra decisão que negou provimento ao recurso especial. A decisão recorrida fundamentou-se na legalidade da busca domiciliar na residência do recorrente, bem como na consequente validade das provas dela decorrentes, conforme o art. 157 do Código de Processo Penal.
+A decisão agravada sustentou que, diante das evidências encontradas de crime de falsidade ideológica e estelionato, os policiais, orientados pela Srª. Maria Lúcia, dirigiram-se à residência de Francisco Edvan, onde, ao ser abordado, apresentou uma CNH falsa, configurando-se o ilícito de uso de documento falso. Nesse contexto, munidos de todas as evidências da prática anterior de crimes, os policiais adentraram na residência do réu e, após revista, encontraram documentos falsos (e-STJ fls. 431-446).
+O recorrente sustenta que as provas foram obtidas por intermédio de artifícios ilícitos, sem observância dos ditames constitucionais. Argumenta que não houve autorização judicial ou anuência do proprietário da residência para a entrada da polícia no local, violando a garantia constitucional da inviolabilidade do domicílio. Alega que a ilicitude da prova é flagrante, pois não está amparada por fundadas razões que indiquem flagrante delito..
+Requer a reconsideração da decisão monocrática ou a remessa do agravo interno à Quinta Turma, para que seja reformado o acórdão impugnado, declarando-se a absolvição do agravante, tendo em conta a ilicitude das provas que fundamentam a condenação (e-STJ fls. 453-472).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA DOMICILIAR. LEGALIDADE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, mantendo a legalidade da busca domiciliar realizada na residência do recorrente e a validade das provas dela decorrentes, conforme o art. 157 do Código de Processo Penal.
+2. A decisão agravada sustentou que, diante das evidências encontradas de crime de falsidade ideológica e estelionato, os policiais, orientados por terceira pessoa, dirigiram-se à residência do recorrente, onde, ao ser abordado, apresentou uma CNH falsa, configurando-se o ilícito de uso de documento falso. Nesse contexto, munidos de todas as evidências da prática anterior de crimes, os policiais adentraram na residência do réu e, após revista, encontraram documentos falsos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca domiciliar realizada sem autorização judicial ou anuência do proprietário, mas amparada por fundadas razões que indiquem flagrante delito, é válida.
+III. Razões de decidir
+4. A existência de elementos prévios que indiquem a prática de delito no interior do imóvel, como a apreensão de documentos falsos e a apresentação espontânea de CNH falsa pelo recorrente, configura fundada razão para autorizar o ingresso no domicílio sem consentimento ou autorização judicial.
+5. A atuação policial esteve amparada em fundadas razões, notadamente a prévia apreensão de documentos falsos em nome do recorrente em outro local, a indicação de seu endereço por terceira pessoa e, principalmente, a apresentação espontânea de CNH falsa pelo próprio recorrente antes da diligência, seguida de confissão.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A busca domiciliar sem mandado judicial é lícita quando amparada em fundadas razões que indiquem situação de flagrante delito. 2. A apresentação espontânea de documento falso pelo investigado e evidências de prática anterior de crimes no local, configuram justa causa para o ingresso no domicílio sem autorização judicial".
+Dispositivos relevantes citados: CF/1988, art. 5º, XI; CPP, art. 157.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, Plenário, julgado em 05.11.2015; STJ, AgRg no HC 811.743/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 13.06.2023.
+VOTO
+A decisão agravada está assim fundamentada (e-STJ fls. 431-446):
+A controvérsia submetida a julgamento diz respeito à legalidade da busca domiciliar realizada pela Polícia Civil na residência do recorrente, bem como à consequente nulidade dessa diligência e de todas as provas dela decorrentes (art. 157 do Código de Processo Penal).
+O art. 5ª, inc. XI, da Constituição Federal dispõe que: "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial".
+A partir da citada norma constitucional, o Supremo Tribunal Federal, apreciando o Tema n. 280 sob a sistemática da repercussão geral no julgamento do Recurso Extraordinário n. 603.616/RO, tecendo considerações acerca da busca domiciliar sem autorização ou mandado judicial, decidiu que a validade da medida depende da caracterização de justa causa, consubstanciada em razões que indiquem a situação flagrancial no interior do imóvel.
+Nesse particular, o ingresso em domicílio alheio, para ser regular, depende da existência de fundadas razões que constituam justa causa e sinalizem para a possibilidade de mitigação do direito fundamental envolvido.
+Somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência, é que se mostra possível vulnerar o direito em questão e configurar legítima intervenção restritiva do Estado.
+(..)
+Assim, o entendimento desta Corte firmou-se no sentido de que somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência, é que se mostra possível sacrificar o direito à inviolabilidade do domicílio.
+(..)
+Conforme se observa, a Corte de origem reconheceu a existência da justa causa com fundamento na apreensão prévia de documentos falsos em nome do recorrente em endereço submetido à medida de busca e apreensão autorizada pela Justiça Estadual (residência da Sra. Maria Lúcia). Ademais, considerou-se a apreensão de objeto ilícito (CNH falsa) em posse do recorrente, além da sua própria confissão, o que teria motivado a entrada dos policiais em sua residência, onde foram encontrados e apreendidos outros documentos falsos.
+Tal entendimento está de acordo com jurisprudência desta Corte, segundo a qual a existência de elementos prévios que indiquem a prática de delito no interior do imóvel (fundadas razões de flagrante) torna lícito o ingresso no domicílio para a realização de buscas. (..)
+Portanto, a apreensão prévia de documentos falsos em nome do recorrente no endereço alvo do mandado de busca e apreensão, aliada à posse de outro documento ilícito apresentado espontaneamente por ele antes da diligência, configura fundada razão para autorizar o ingresso no domicílio sem consentimento ou autorização judicial.
+Com efeito, a entrada dos policiais na residência do recorrente ocorreu porque, além da apreensão de documentos falsos no local inicialmente vistoriado, a moradora indicou o endereço do investigado, para onde os agentes se dirigiram. No local, o recorrente apresentou outro documento falso e confessou sua posse, circunstâncias que reforçaram a suspeita de que, no momento do ingresso, poderia estar em curso um crime na residência, bem como da existência de objetos ou papéis que pudessem constituir corpo de delito.
+Diante desse contexto, não há reparo a ser feito no acórdão recorrido, que concluiu pela legitimidade da atuação policial na busca e apreensão dos documentos falsos e demais itens no interior da residência do recorrente. Conforme já exposto, a diligência foi conduzida com base em "fundadas razões" de que no local poderia estar sendo praticado um crime, não configurando violação à garantia constitucional da inviolabilidade de domicílio (art. 5º, inciso XI, da Constituição Federal) nem nulidade probatória por violação ao art. 157 do Código de Processo Penal.
+(..)
+Ademais, a desconstituição das conclusões alcançadas pelo Tribunal de origem, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos a fim questionar as justificativas da busca domiciliar e absolver o recorrente, demandaria necessariamente aprofundado revolvimento do contexto de fatos e provas, providência vedada em sede de recurso especial, por força da Súmula n. 7/STJ.
+Verifica-se que a atuação policial que culminou no ingresso em seu domicílio esteve amparada em fundadas razões, notadamente a prévia apreensão de documentos falsos em nome do recorrente em outro local, a indicação de seu endereço por terceira pessoa e, principalmente, a apresentação espontânea de CNH falsa pelo próprio recorrente antes da diligência, seguida de confissão. Tais elementos, em conjunto, constituem o suporte fático idôneo que justificou a exceção à inviolabilidade de domicílio.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. BUSCA DOMICILIAR. NULIDADE. JUSTA CAUSA OBSERVADA. LEGALIDADE. AGRAVO DESPROVIDO.
+1. O ingresso forçado em domicílio sem mandado judicial é lícito somente quando amparado em fundadas razões que indiquem situação de flagrante delito, conforme previsto no art. 5º, XI, da Constituição da República e no art. 240 do Código de Processo Penal.
+2. No caso em questão, os policiais realizaram uma busca domiciliar na residência do paciente após receberem uma denúncia de que a mesma era utilizada para o tráfico de entorpecentes. Durante diligência realizada próximo à residência do paciente, os policiais viram dois suspeitos saindo da casa, um deles voltou para dentro de forma abrupta e foi abordado pelos policiais na garagem, enquanto o outro foi abordado na calçada e se identificou, apresentando uma CNH falsa. (..)
+3. Tais circunstâncias, somadas à denúncia recebida, constituem fundadas razões de que naquela localidade estaria ocorrendo crime, o que autoriza o ingresso forçado dos policiais na residência do paciente, especialmente diante do uso de documento falso, não havendo manifesta ilegalidade a ser reparada.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 811.743/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.) (grifei)
+Com efeito, a decisão agravada se encontra em perfeita harmonia com a jurisprudência desta egrégia Corte Superior e do egrégio Supremo Tribunal Federal, que condiciona a validade do ingresso em domicílio à existência de um contexto fático anterior que sinalize a ocorrência de flagrante delito.
+No caso, as circunstâncias concretas, objetivamente verificadas antes da entrada dos agentes, configuraram a justa causa necessária para a mitigação da garantia fundamental, afastando a alegação de nulidade das provas colhidas, nos termos do art. 157 do Código de Processo Penal.
+Por isso, conclui-se que o recurso deixa de apresentar argumentos novos capazes de alterar o entendimento anteriormente firmado. Em suma, a decisão agravada deve ser mantida por seus próprios fundamentos, razão pela qual nego provimento ao agravo regimental.
+É o voto.
