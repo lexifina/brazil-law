@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n. 83 do STJ).
+2 . Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ALBIZIA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. e OAS EMPREENDIMENTOS S.A. (ALBIZIA e outra) contra decisão contra decisão que negou seguimento ao seu apelo nobre em virtude da ausência de negativa da prestação jurisdicional, bem como pela incidência dos óbices das Súmulas n. 7, 83 e 211 do STJ.
+Nas razões do presente inconformismo, ALBIZIA e outra alegaram (1) a impossibilidade de exame do mérito no juízo de admissibilidade do especial; (2) omissão do Tribunal estadual acerca das questões suscitadas em embargos de declaração; (3) a desnecessidade do reexame de provas; (4) o prequestionamento das matérias controvertidas; (5) a incidência dos juros de mora a partir do trânsito em julgado da sentença; e (6) a existência de divergência jurisprudencial com precedentes desta Corte Superior.
+Foi apresentada contraminuta (e-STJ, fls. 1.019-1.029).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n. 83 do STJ).
+2 . Agravo em recurso especial não conhecido.
+VOTO
+O recurso não merece conhecimento.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu, de forma específica, contra os fundamentos da decisão agravada, pois ALBIZIA e outra não refutaram, de forma arrazoada, o descabimento de recurso especial pelo óbice da Súmula n. 83 do STJ, no tocante à incidência dos juros de mora a partir da citação, na hipótese de descumprimento do contrato por parte do promitente vendedor.
+E isso não fizeram porque somente alegaram, nas razões do seu agravo em recurso especial, (1) a impossibilidade de exame do mérito no juízo de admissibilidade do especial; (2) omissão do Tribunal estadual acerca das questões suscitadas em embargos de declaração; (3) a desnecessidade do reexame de provas; (4) o prequestionamento das matérias controvertidas; (5) a incidência dos juros de mora a partir do trânsito em julgado da sentença; e (6) a existência de divergência jurisprudencial com precedentes desta Corte Superior.
+Assim, não houve a demonstração do adequado confronto dos fundamentos da decisão agravada em relação ao óbice acima mencionado.
+Importante frisar que a jurisprudência deste Sodalício é pacífica quanto à possibilidade de o Tribunal estadual adentrar o mérito do recurso especial, pois o exame de admissibilidade pela alínea a do permissivo constitucional envolve o próprio mérito da controvérsia (AgRg no AREsp n. 497.819/MG, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe de 26/5/2014).
+Nesse sentido, aliás, é o Enunciado n. 123 da Súmula do STJ: A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais.
+Cumpre registrar que, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula n. 83 do STJ, deve a parte agravante demonstrar que o posicionamento adotado pela Corte local não se encontra alinhado com o entendimento do STJ sobre o tema em debate, indicando precedentes contemporâneos ou supervenientes aos referidos na decisão de inadmissibilidade do apelo nobre, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não ocorreu na espécie.
+A esse fim, também não basta a simples menção de não incidência da aludida súmula, tampouco a mera transcrição de trecho de acórdão sem a sua indicação numérica ou a alegação de que os precedentes divergentes foram colacionados nas razões do recurso especial.
+A propósito, veja-se que:
+não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada.
+(AgRg no AREsp n. 238.064/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 18/8/2014)
+Conforme já se decidiu:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag n. 1.056.913/SP, relatora Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Nesse sentido, o seguinte precedente :
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, relator para acórdão Ministro LUIS FELIPE SALOMÃO, Corte Especial, julgado aos 19/9/2018, DJe de 30/11/2018)
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+MAJORO em R$ 300,00 (trezentos reais) o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrrida, nos termos do art. 85, § 11, do CPC.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
