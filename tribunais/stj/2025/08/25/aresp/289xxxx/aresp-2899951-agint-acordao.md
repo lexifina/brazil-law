@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. OFENSA AO ART. 85, §§ 2º E 3º, DO CPC/2015 E AO ART. 22 DA LEI N. 8.906/1994. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Alterar as conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas n. 5 e 7, ambas do STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por HASSE ADVOCACIA E CONSULTORIA (HASSE) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial, porque não foram impugnados especificamente todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente inconformismo, alegou que impugnou especificamente a não incidência das Súmulas n. 5 e 7 do STJ.
+Houve impugnação ao recurso (e-STJ, fls. 2.548-2.555).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. OFENSA AO ART. 85, §§ 2º E 3º, DO CPC/2015 E AO ART. 22 DA LEI N. 8.906/1994. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Alterar as conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas n. 5 e 7, ambas do STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Reconsideração do decisum
+De fato, verifica-se que HASSE, nas razões do agravo em recurso especial, impugnou especificamente todos os fundamentos da decisão denegatória do apelo nobre.
+Dessa forma, reconsidero a decisão agravada e passo à análise do recurso especial interposto por HASSE.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a e c, da CF, alegou violação dos arts. 85, §§ 1º, 2º, e 20, ambos do CPC, e 22 da Lei n. 8.906/1994, a par da divergência jurisprudencial, ao afirmar que a decisão recorrida teria ignorado o direito do advogado aos honorários após a rescisão contratual.
+Foram apresentadas contrarrazões.
+Em relação à alegada violação dos arts. 85, §§ 1º, 2º, e 20, ambos do CPC, e 22 da Lei n. 8.906/1994, a par da divergência jurisprudencial, no que concerne ao arbitramento dos honorários de sucumbência, o Tribunal local julgou nos seguintes termos:
+Registra-se, de início, não se olvidar que ações desta natureza são cabíveis para assegurar o recebimento da verba honorária em contratos de prestação de serviços advocatícios fulcrados exclusivamente no "risco", de modo que, em havendo êxito na demanda, a verba é devida ao profissional proporcionalmente ao trabalho desempenhado. Nesse sentido, aliás, são os diversos precedentes da Corte Superior colacionados pela parte autora.
+Ocorre que na hipótese destes autos está-se diante de situação diversa; são outras as premissas: o escritório era remunerado por atos, fases e peças processuais, além de remuneração mensal pela gestão dos processos.
+ ..
+Bem verdade é que aos advogados se assegura o direito a perseguir os honorários de sucumbência, em rateio com os que demais atuaram (antes ou sucedendo-os), pois lhes pertencem (arts. 22 e 23 do Estatuto da Ordem dos Advogados do Brasil).
+Não é possível, contudo, descuidar de que deverão fazê-lo demonstrando já ter nascido o seu direito, vale dizer, que já foi fixada de forma definitiva a remuneração no processo em que atuaram.
+Em outras palavras, assentou o Desembargador Edir Josias Silveira Beck, relatando seu voto em julgamento de caso semelhante realizado perante a Primeira Câmara de Direito Civil deste Tribunal, que "..O direito da autora, portanto, não nasceu no momento em que ocorreu a revogação dos poderes antes do término da ação, como por ela afirmado, mas sim poderá surgir quando da possibilidade de "perseguir os honorários de sucumbência" que vierem a ser fixados no processo em que atuou, recebendo parte destes na forma de "rateio" entre os advogados ou sociedades de advocacia que tenham atuado no feito, na forma dos itens 8.4 e 8.8 acima indicados" (Apelação Cível n. 5000623-22.2023.8.24.0036, j. em 07.12.2023).
+Com efeito, na exordial da presente demanda deixou de ser provado que houve êxito naquela ação e de que há título judicial contemplando honorários sucumbenciais.
+Não tendo sido implementadas tais condições essenciais, não há falar em interesse processual no arbitramento por esta via.
+A propósito, colhe-se de voto do Desembargador Raulino Jacó Brüning, proferido nos autos da Apelação n. 5012181-59.2021.8.24.0036, Primeira Câmara de Direito Civil, j. 07-12-2023, que "a verba sucumbencial não é remuneração devida pelo cliente do causídico em razão da contratação para a prestação do serviço. É, na realidade, uma compensação dada pelo litigante vencido ao advogado da parte vencedora, gerada pelo resultado da demanda". Com isso, "questiona-se: como poderia o próprio cliente ser condenado ao pagamento de honorários de sucumbência, se tal verba, por expressa determinação legal (art. 85, caput, do CPC: "A sentença condenará o vencido a pagar honorários ao advogado do vencedor"), é devida pela parte contrária, perdedora da ação originária  Penso que não pode".
+Dessarte, acolhe-se a preliminar de falta de interesse e, consequentemente, extingue-se o processo sem resolução do mérito, ex vi do art. 485, inc. VI, do Código de Processo Civil, sendo de responsabilidade da parte autora o pagamento das despesas processuais (e-STJ, fls. 2.262/2.264) - sem destaques no original).
+Desse modo, para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o revolvimento do arcabouço fático-probatório e das cláusulas contratuais, procedimento sabidamente inviável na instância especial por incidir as Súmulas n. 5 e 7, ambas desta Corte: A simples interpretação de cláusula contratual não enseja recurso especial; A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. "A jurisprudência pacífica do STJ possui o entendimento no sentido de que, nos contratos de prestação de serviços advocatícios com cláusula de remuneração exclusivamente por verbas sucumbenciais, a rescisão unilateral do contrato pelo cliente/contratante justifica o arbitramento judicial da verba honorária pelo trabalho exercido pelo advogado até o momento da rescisão contratual" (AgInt no AREsp 1.560.257/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/4/2020, DJe de 23/4/2020).
+1.1. A revisão das conclusões exaradas pelo Tribunal local quanto ao método de remuneração contratual encontra óbice nas Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.735.363/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/3/2025, DJEN de 27/3/2025)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS AD EXITUM. CONDIÇÃO SUSPENSIVA NÃO VERIFICADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a agravo em recurso especial.
+II. Razões de decidir 2. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. Segundo a jurisprudência do STJ, ""é certo que, nos contratos de prestação de serviços advocatícios ad exitum, a vitória processual constitui condição suspensiva (artigo 125 do Código Civil), cujo implemento é obrigatório para que o advogado faça jus à devida remuneração. Ou seja, o direito aos honorários somente é adquirido com a ocorrência do sucesso na demanda" (REsp 1.337.749/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe de 06/04/2017). Na hipótese, o Tribunal de origem consignou que não ocorreu a condição contratual, pois não houve êxito na demanda, o que inviabiliza a percepção de honorários advocatícios contratuais" (AgInt no AREsp n. 1.803.430/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2021, DJe de 1/7/2021).
+Incidência da Súmula n. 83/STJ.
+4. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+III. Dispositivo 5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.546.961/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/3/2025, DJEN de 25/3/2025)
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS EM AÇÃO DE USUCAPIÃO. REVOGAÇÃO DE DECRETO EXPROPRIATÓRIO. HONORÁRIOS CONTRATUAIS. CLÁUSULA DE ÊXITO. REEXAME DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. LAUDO DE AVALIAÇÃO DE IMÓVEL. REEXAME DE FATOS, PROVAS. SÚMULA 7/STJ.
+1. Ação de cobrança ajuizada em 26/4/2017, da qual foi extraído o presente recurso especial, interposto em 27/4/2022 e concluso ao gabinete em 13/9/2024.
+2. O propósito recursal consiste em decidir se são devidos honorários contratuais de êxito diante de resultado favorável ao cliente, quando os serviços contratados foram parcialmente prestados.
+3. Não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial e na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. O objeto do negócio jurídico será lícito quando não contrariar lei imperativa, a ordem pública ou os bons costumes. Doutrina.
+5. Para que se configure "êxito" apto a gerar honorários, não basta que exista um resultado favorável ao cliente; deve haver relação de causalidade entre a atuação do advogado e a sua obtenção.
+6. No recurso sob julgamento, o êxito se traduziu no resultado favorável aos clientes (manutenção na propriedade do imóvel) decorrente do sucesso nos serviços prestados (interposição de agravo de instrumento), ainda que parcialmente (já que o ajuizamento de ação própria se tornou desnecessário).
+7. A interpretação de cláusulas do contrato de prestação de serviços advocatícios, necessária para alterar compreensão de que a revogação do decreto decorre da atuação dos advogados, é procedimento vedado pela Súmula 5 do STJ.
+8. Alterar o decidido no acórdão impugnado, no que se refere à solicitação dos recorrentes para elaboração do laudo de avaliação, exige o reexame de fatos e provas, o que esbarra no óbice da Súmula 7 do STJ.
+9. Recurso especial parcialmente conhecido e, nessa extensão, desprovido, com majoração de honorários.
+(REsp n. 2.170.294/BA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE CONTRATO. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. AUSÊNCIA DE TÍTULO EXECUTIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. LIQUIDEZ DA OBRIGAÇÃO ASSUMIDA QUE SOMENTE PODE SER RECONHECIDA MEDIANTE NOVA INTERPRETAÇÃO DO CONTRATO E EXAME DE MATÉRIA FÁTICA. SÚMULAS N. 5 E 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. TEMA N. 1.076 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão estadual recorrido indicou fundamentação consistente e adequada para afastar a existência de título executivo hábil capaz lastrear a pretensão executiva. Impossível, dessa forma, afirmar que houve omissão com relação ao tema.
+2. Na hipótese concreta, não há como afirmar que o contrato de prestação de serviços advocatícios continha uma obrigação de pagamento líquida, certa e exigível, sem interpretar novamente os seus termos e, mais do que isso, cotejá-lo com o resultado de um outro feito judicial. Incidência das Súmulas n. 5 e 7 do STJ.
+3. De acordo com o entendimento majoritário dos Ministros que compõem a Corte Especial, a fixação dos honorários sucumbenciais com base no critério equitativo previsto pelo art. 85, § 8º, do CPC, somente pode ocorrer quando a utilização do critério objetivo, estabelecido pelo art. 85, § 2º, do mesmo diploma, resultar num valor irrisório. Assim, mesmo que a fixação da verba honorária com base no valor da condenação, do proveito econômico ou da causa (como ocorrido na hipótese dos autos) resulte em montante excessivo, nem mesmo assim será possível fixá-la por equidade (Tema n. 1.076 do STJ).
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.158.059/PR, de minha relatoria, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor da HASSE em 5% sobre o valor da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+É o voto.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
