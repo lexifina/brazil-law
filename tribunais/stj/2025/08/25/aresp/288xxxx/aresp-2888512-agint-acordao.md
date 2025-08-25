@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO.
+1. Ação de compensação por danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por CONSORCIO OPERACIONAL BRT, contra decisão unipessoal, prolatada pela Presidência do STJ, que não conheceu do agravo em recurso especial que interpusera.
+Ação: de compensação por danos morais, ajuizada por MARIA DA GLORIA DA SILVA, em da agravante, em virtude de acidente sofrido em transporte coletivo administrado pela ré. Salienta-se que A EXPRESSO PÉGASO LTDA foi incluída no polo passivo (e-STJ fls. 02-05).
+Sentença: julgou procedentes os pedidos iniciais, para condenar, solidariamente, a agravante e a EXPRESSO PÉGASO LTDA a pagar à agravada a quantia de R$ 5.000,00 (cinco mil reais), a título de compensação por danos morais (e-STJ fls. 265-268).
+Acórdão: negou provimento às apelações interpostas pela parte agravante e por EXPRESSO PÉGASO LTDA, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONSUMIDOR. CONTRATO DE TRANSPORTE. BRT. QUEDA DA PASSAGEIRA NA SAÍDA DO VEÍCULO, APÓS TUMULTUO POR SUPOSTO INCÊNDIO. AUTORA SUBMETIDA A CIRURGIA NO JOELHO, FICANDO AFASTADA DE SUAS ATIVIDADES LABORATIVAS POR MAIS DE 3 MESES. SENTENÇA DE PROCEDÊNCIA, COM A FIXAÇÃO DE INDENIZAÇÃO NO VALOR DE R$ 5.000,00. INCONFORMISMO DAS RÉS.
+1. Contrato de transporte. Responsabilidade civil objetiva dos réus, na forma art. 37, § 6º, da CF e dos art. 14 e 22 do CDC.
+2. Queda no desembarque de passageira após princípio de incêndio no veículo. Autora que sofreu lesões no joelho, foi operada e ficou mais de três meses afastada de suas atividades laborativas. Defeito na prestação do serviço. Dever de transportar a passageira em segurança a seu destino não cumprido.
+3. Consórcio que responde com solidariedade, ainda que afirme não ter personalidade jurídica (CDC, art. 28, § 3º). Contrato juntado aos autos que comprova a legitimidade.
+4. Histórico de atendimento médico que confirma as lesões descritas na inicial, da data do acidente até o restabelecimento da autora após o procedimento cirúrgico. Dano e nexo de causalidade demonstrados, ex vi do art. 373, I, do CPC.
+5. Parte ré que não comprovou a culpa exclusiva da vítima alegada, ônus que lhe incumbia. Art. 371, II, do CPC.
+6. Abatimento de seguro DPVAT requerido somente em sede de apelação. Impossibilidade de inovação recursal. Não conhecimento.
+7. Danos morais caracterizados na dor e perda do tempo útil. Arbitramento em R$ 5.000,00 (cinco mil reais) que se mostra adequado ao acidente, observada a proporcionalidade. Precedentes deste Tribunal.
+8. Sentença mantida. Recursos desprovidos. (e-STJ fls. 539-540)
+Embargos de declaração: opostos pela agravante, foram rejeitados (e-STJ fls. 580-586).
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial (e-STJ fls. 645-646).
+Agravo interno: alega, em síntese, a violação dos arts. 489 e 1.022, ambos do CPC, a não incidência da Súmula 7/STJ, bem como a não incidência da Súmula 5/STJ, de forma a sustentar, respectivamente, que:
+i) "Visando preservar e garantir o seu direito recursal, a Recorrente opôs os embargos de declaração ao acórdão de fls. (sic), sob o escopo de que a e. Corte a quo (sic) se pronunciasse sobre os dispositivos que embasavam o v. acórdão recorrido. Logo, os embargos eram não só cabíveis como até mesmo aconselháveis e necessários, uma vez que não se pode ignorar que é bastante rigorosa a análise da admissibilidade dos recursos especiais e extraordinários. Desta forma, a simples possibilidade de se considerar como não prequestionada a matéria, por si só, já era suficiente para justificar e autorizar a oposição dos embargos declaratórios. É esse o entendimento jurisprudencial que justifica a cautela da Recorrente que optou por opor os competentes declaratórios com intuito de não deixar a menor margem de dúvida quanto ao prequestionamento explícito." (e-STJ fls. 655);
+ii) "(..) o Recurso não se consubstancia em mera irresignação com as conclusões do julgado, e, menos ainda, encontra óbice na súmula 7 do STJ. A interpretação equivocada e tergiversação sobre as figuras jurídicas do consórcio e suas consorciadas, bem como seus conceitos jurídicos nos quais se baseia o acórdão guerreado acabam gerando verdadeira negativa de prestação jurisdicional. Ao contrário do que foi afirmado pela Egrégia Terceira Vice-Presidência, o Agravante, ao interpor o recurso especial, pretendeu, e continua a pretender por meio do presente agravo, obter o correto critério legal a ser atribuído aos fatos que se mostraram incontroversos ao longo da tramitação da demanda, e não o reexame do arcabouço probatório no sent ido de demonstrar que determinado fato ocorreu ou não. Ou seja, não se pretende reabrir a instrução para se alterar a convicção dos eminentes Ministros da Corte Superior. Embora versem sobre matérias de direito material diversas, as questões processuais são as mesmas em todos os arestos que resultaram na edição e redação do verbete de Súmula nº 7 do Egrégio Superior Tribunal de Justiça." (e-STJ fls. 656-657); e
+iii) "Contudo, conforme entendimento exarado pela Corte Superior no REsp 1.635.637-RJ, para que haja responsabilização solidária do consórcio com as empresas consorciadas é que se faz necessária a interpretação das cláusulas do contrato de constituição do consórcio, sendo a regra segundo nosso ordenamento jurídico e o entendimento do STJ a ausência de solidariedade entre as figuras do consórcio e suas consorciadas. Assim, com a devida vênia, a subsunção do caso em tela à súmula 5 do STJ seria apenas para a hipótese de interpretar a cláusula contratual para o reconhecimento da solidariedade entre o consórcio e suas consorciadas, o que não ocorre é absolutamente desnecessário no caso concreto, pois segundo o entendimento do próprio STJ, a regra geral é a ausência de solidariedade entre o consórcio e suas consorciadas." (e-STJ fl. 660).
+Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO.
+1. Ação de compensação por danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Agravo interno não conhecido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial (ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula 284/STF), sendo aplicada a Súmula 182/STJ.
+Todavia, nas razões do agravo interno, a agravante limitou-se a alegar a violação dos arts. 489 e 1.022, ambos do CPC, a não incidência da Súmula 7/STJ, bem como a não incidência da Súmula 5/STJ, não impugnando a aplicação do seguinte fundamento: incidência da Súmula 182/STJ.
+Nos termos da jurisprudência do STJ, o agravo interno que não impugna determinados fundamentos constantes na decisão monocrática, acarreta a preclusão no que concerne à impugnação dos referidos fundamentos. Nesse sentir: EREsp 1.424.404/SP (Corte Especial, DJe 17/11/2021).
+Desse modo, mostra-se correto o não conhecimento do agravo interno, tendo em vista a ausência de impugnação específica do único fundamento contido na decisão agravada e suficiente para mantê-la.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 3% sobre o valor atualizado da causa, com fulcro no §4º do art. 1.021 do CPC.
