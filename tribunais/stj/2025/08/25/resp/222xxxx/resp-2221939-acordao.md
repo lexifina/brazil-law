@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. EXIGÊNCIA DA VIA ORIGINAL DO TÍTULO. ENTENDIMENTO DESTOANTE DA JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO.
+1. A juntada da via original do título executivo extrajudicial se faz necessária apenas quando invoca do pelo devedor algum fato concreto impeditivo da cobrança do débito, o que não ocorreu.
+2. Recurso especial provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por BANCO VOLKSWAGEN S.A. (BANCO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. CAMINHÃO. CÉDULA DE CRÉDITO BANCÁRIO (NEGOCIAÇÃO ORIGINAL E REFINANCIAMENTO). DECISÃO QUE REJEITOU O PEDIDO DA RÉ DE REVOGAÇÃO DA LIMINAR E DEFERIU O PLEITO PARA QUE A AUTORA INDIQUE O LOCAL ONDE O VEÍCULO SE ENCONTRA PARA RETIRADA DO MOTOR E DAS RODAS DE ALUMÍNIO. RECURSO DA EMPRESA ACIONADA.
+ADMISSIBILIDADE. INSURGÊNCIA QUANTO À DEVOLUÇÃO DO MOTOR E DAS RODAS DE ALUMÍNIO QUE EQUIPAM O VEÍCULO APREENDIDO. NÃO CONHECIMENTO DO RECURSO NO PONTO. DECISÃO LIMINAR QUE RECONHECEU A AUSÊNCIA DE INTERESSE RECURSAL. MEDIDA AUTORIZADA NA ORIGEM. INEXISTÊNCIA DE IRRESIGNAÇÃO POR MEIO DE AGRAVO INTERNO. PRECLUSÃO. PRELIMINAR EM CONTRARRAZÕES. PLEITEADO O NÃO CONHECIMENTO PARCIAL DO RECURSO POR SUPRESSÃO DE INSTÂNCIA. REJEIÇÃO. MATÉRIAS ATINENTES À AUSÊNCIA DE CONTRATO ORIGINAL E À ABUSIVIDADE DE JUROS REMUNERATÓRIOS ABORDADAS EXPRESSAMENTE PELO JUÍZO A QUO.
+MÉRITO. ARGUIDA A NECESSIDADE DE EXTINÇÃO DO FEITO POR FALTA DE APRESENTAÇÃO DA VIA ORIGINAL DO TÍTULO QUE AMPARA O PEDIDO DE BUSCA E APREENSÃO. PARCIAL ACOLHIMENTO. CÉDULA DE CRÉDITO BANCÁRIO. NATUREZA DE TÍTULO DE CRÉDITO (ARTS. 26 E 29, § 1º, DA LEI N. 10.931/2004). TITULARIDADE DO DIREITO ATRELADA À POSSE SOBRE A CAMBIAL. PRINCÍPIO DA CARTULARIDADE (ART. 887 DO CÓDIGO CIVIL). EXIGÊNCIA DE APRESENTAÇÃO DO DOCUMENTO PARA VINCULAÇÃO AO PROCESSO JUDICIAL ELETRÔNICO, MEDIANTE A UTILIZAÇÃO DO CARIMBO PADRONIZADO. EXEGESE DA CIRCULAR N. 97/2018 DA CGJ/SC. VÍCIO SANÁVEL. NECESSIDADE DE CONCEDER À INSTITUIÇÃO FINANCEIRA AUTORA PRAZO PARA O CUMPRIMENTO DA EXIGÊNCIA, SOB PENA DE, APENAS SE NÃO CUMPRIDA A MEDIDA, EXTINGUIR O FEITO POR AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. PRECEDENTES. DECISÃO RETOCADA.
+PRETENSÃO DE DESCARACTERIZAÇÃO DA MORA E RECONHECIMENTO DE ABUSIVIDADES CONTRATUAIS ATINENTE AOS JUROS REMUNERATÓRIOS, À TARIFA DE CADASTRO E ÀS DESPESAS DO EMITENTE (TARIFA DE REGISTRO DO CONTRATO NO ÓRGÃO DE TRÂNSITO). INSUBSISTÊNCIA. DESCARACTERIZAÇÃO DOS EFEITOS DA MORA INVIÁVEL NA HIPÓTESE. AUSÊNCIA DE COBRANÇA ABUSIVA NA NORMALIDADE CONTRATUAL. ORIENTAÇÃO 2 DO STJ NO RECURSO ESPECIAL REPETITIVO N. 1.061.530/RS. JUROS REMUNERATÓRIOS. ARGUMENTAÇÃO GENÉRICA NO RECURSO. ESTIPULAÇÃO CONTRATUAL EM PATAMAR AQUÉM DA TAXA MÉDIA DE MERCADO PRATICADA EM OPERAÇÕES DA ESPÉCIE NO MÊS E ANO DA CONTRATAÇÃO. ENCARGO CONTRATUAL PRESERVADO POR ORA. COBRANÇAS DAS TARIFAS AMPARADAS EM RECURSOS REPETITIVOS DO STJ (TEMAS 618, 619, 620, 621 E 958), COM VALORES NÃO EXCESSIVOS E ACOMPANHADAS DE PROVA DA PRESTAÇÃO DOS SERVIÇOS. EXCESSO NÃO DEMONSTRADO.
+ALEGADA A NECESSIDADE DE EXCLUSÃO/SUSPENSÃO DAS INFORMAÇÕES NEGATIVAS PERANTE O BANCO CENTRAL POR INVIABILIZAR A OBTENÇÃO DE CRÉDITO PELA DEVEDORA E PREJUDICAR SUAS ATIVIDADES ECONÔMICAS. NÃO ACOLHIMENTO. CASO CONCRETO SEM ABUSIVIDADES CONTRATUAIS CONSTATADAS EM SEDE LIMINAR, MORA DEVIDAMENTE CARACTERIZADA E INADIMPLÊNCIA INCONTROVERSA. FALTA DE APRESENTAÇÃO DO TÍTULO ORIGINAL PARA OPOSIÇÃO DE CARIMBO EM JUÍZO QUE CONSTITUI VÍCIO SANÁVEL QUE, AO MENOS NESTE MOMENTO, NÃO IMPORTA NA AUTOMÁTICA REVOGAÇÃO DA LIMINAR DEFERIDA NA ORIGEM. RESTRIÇÃO COMO CONSEQUÊNCIA NATURAL E ESPERADA DO INADIMPLEMENTO CONTRATUAL. PLEITO RECHAÇADO.
+EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA A DECISÃO MONOCRÁTICA QUE DEFERIU PARCIALMENTE O PEDIDO DE TUTELA RECURSAL DE URGÊNCIA. IRRESIGNAÇÃO DA AGRAVANTE. JULGAMENTO DO AGRAVO DE INSTRUMENTO. SUBSTITUIÇÃO DA DECISÃO PROVISÓRIA OBJURGADA. PERDA DO OBJETO. ANÁLISE PREJUDICADA.
+AGRAVO DE INSTRUMENTO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDO (e-STJ, fls. 107/108).
+Os embargos de declaração opostos por BANCO foram rejeitados (e-STJ, fls. 143/149).
+Nas razões do presente recurso, o BANCO alegou, a par de dissídio jurisprudencial, violação dos arts. 424, 425, VI, 489, § 1º, e 1.022, II, todos do CPC, ao sustentar (1) omissão no julgado; e (2) que a juntada do contrato original é um formalismo que não se justifica, até porque o recorrido não questionou sua existência e autenticidade.
+Foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. EXIGÊNCIA DA VIA ORIGINAL DO TÍTULO. ENTENDIMENTO DESTOANTE DA JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO.
+1. A juntada da via original do título executivo extrajudicial se faz necessária apenas quando invoca do pelo devedor algum fato concreto impeditivo da cobrança do débito, o que não ocorreu.
+2. Recurso especial provido.
+VOTO
+A irresignação merece prosperar.
+Na origem, o BANCO ajuizou ação de busca e apreensão de bem alienado fiduciariamente contra C.L.A TRANSPORTES LTDA (C.L.A), cuja liminar foi deferida e, caso não houvesse o pagamento da dívida, fosse consolidada a propriedade e a posse plena do bem no patrimônio do requerente (e-STJ, fls. 8/9).
+Em contestação, C.L.A alegou, entre outras questões, a necessidade da juntada do título original.
+O Juízo de primeiro grau entendeu que a instrução do feito com a cédula de crédito bancário original se faz prescindível, uma vez que, na hipótese em comento, busca-se apenas a retomada do bem, objeto da garantia fiduciária, diante do inadimplemento contratual, bem como que a ré não arguiu a falsidade de tal documento (e-STJ, fls. 10/12).
+O Tribunal de Justiça do Estado de Santa Catarina deu parcial provimento ao agravo de instrumento de C.L.A para determinar que o Juízo de origem concedesse prazo razoável ao BANCO para apresentação do original da cédula de crédito bancário sub judice para a aposição do carimbo a que alude a Circular n. 97/2018 da Corregedoria-Geral da Justiça, sob pena de extinção do feito sem resolução do mérito (e-STJ, fl. 106).
+A compreensão adotada pelo Tribunal estadual destoa da jurisprudência da STJ, que perfilha o posicionamento de que a juntada da via original do título executivo extrajudicial se faz necessária apenas quando invocado pelo devedor algum fato concreto impeditivo da cobrança do débito.
+Confiram-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. ALEGAÇÃO DE CONTRARIEDADE A SÚMULA. INADMISSIBILIDADE. JULGAMENTO EXTRA PETITA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. EXTRAPOLAÇÃO DOS LIMITES DA LIDE. SÚMULA N. 7 DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. FORMATO ELETRÔNICO. JUNTADA DA VIA ORIGINAL. INEXIGIBILIDADE. SÚMULAS N. 5, 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+5. A exigibilidade da via original de título executivo extrajudicial em processo eletrônico dependerá do suporte no qual ele estará inserido no momento da propositura da demanda: a) sendo título de crédito de suporte cartular, a apresentação da cártula fica a critério do julgador e é necessária apenas quando algum fato concreto impeditivo da cobrança do débito é invocado pelo devedor; b) sendo título de crédito de suporte eletrônico, é inviável a exigência do original, pois todos os dados relativos ao título constarão de certidão expedida pela entidade de registro.
+6. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+7. A incidência das Súmulas n. 5 e 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+8. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+9. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+10. Agravo interno desprovido.
+(AgInt no REsp 2129315 / SC, Rel Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, 19/8/2024 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO. VIA ORIGINAL. APRESENTAÇÃO. DESNECESSIDADE.
+1. A discussão nos autos reside em verificar se há necessidade de juntar a via original de cédula de crédito bancário garantida por alienação fiduciária em ação de busca e apreensão.
+2. A exigência de apresentação da via original do título executivo pode ser abrandada no caso em que inexiste dúvida em relação à existência do título e da dívida e não comprovada que houve circulação.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.106.763/MT, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024 - sem destaques no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO DE EMPRÉSTIMO/CAPITAL DE GIRO. JUNTADA DA VIA ORIGINAL. DESNECESSIDADE. AUSÊNCIA DE LIQUIDEZ E CERTEZA. NÃO COMPROVADA. PRECEDENTES. REEXAME DAS CONCLUSÕES ADOTADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULAS 5, 7 E 568 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a apresentação da via original da Cédula de Crédito Bancário só é necessária, a critério do juiz, se houver alegação concreta e motivada do executado de que o título possui alguma inconsistência formal ou material, de que ele circulou ou de que estaria sendo executado em duplicidade. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.071.098/MT, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. JUNTADA DO ORIGINAL DO TÍTULO. DESNECESSIDADE.
+1. Ação de execução de título extrajudicial.
+2. A necessidade de juntada da via original do título executivo extrajudicial deve ficar a critério do julgador e se faz necessária apenas quando invocado pelo devedor algum fato concreto impeditivo da cobrança do débito. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.035.971/PR, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023 - sem destaques no original)
+No caso em análise, conforme consignado pelo Juízo de primeiro grau, não houve nenhuma insurgência, por parte do devedor, quanto à credibilidade do contrato acostado aos autos, ou mesmo que ele teria circulado, ou sido cobrado em duplicidade.
+A simples alegação genérica de que deve ser juntada a via original do contrato como condição para constituição válida do processo é insuficiente para alterar o entendimento do MM. Juiz a quo.
+Vê-se, portanto, que o entendimento adotado pelo Tribunal a quo destoa da jurisprudência do STJ quanto ao tema, motivo pelo qual não deve prevalecer.
+Diante do provimento do recurso especial, fica prejudicada a alegação de violação do art. 1.022 do CPC.
+Nessas condições, DOU PROVIMENTO ao recurso especial para afastar a diligência de apresentação da via original da cédula de crédito bancário.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
