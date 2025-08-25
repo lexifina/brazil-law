@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FUNDAMENTOS NÃO INFIRMADOS. SÚMULA N. 182/STJ. RAZÕES DISSOCIADAS. ENUNCIADO N. 284/STF. AGRAVO INTERNO NÃO CONHECIDO.
+1. O êxito de qualquer recurso judicial, inclusive o agravo interno, vai condicionado à demonstração, pelo recorrente, da existência de erro, de procedimento ou de aplicação do direito verificada na prolação da sentença ou do acórdão que intenta desconstituir ou reformar. Essa é a razão pela qual a jurisprudência desta Corte, há muito, não conhece dos recursos cujas razões não combatem, integral e especificamente, os efetivos fundamentos da decisão monocrática combatida (Súmula n. 182/STJ) ou que articulam argumentos estranhos às razões empregadas pelo julgador para solver o caso concreto (Enunciado n. 284/STF).
+2. Na hipótese ora examinada, a decisão impugnada negou provimento ao recurso especial (na parte em que conhecido) por compreender que a solução encaminhada pelo Tribunal de origem, no que tange à execução invertida e à necessidade de prévia intimação da autarquia previdenciária, se apresenta em harmonia com a consolidada jurisprudência do STJ, atraindo a incidência, à espécie, da Súmula n. 83 desta Corte.
+3. Nesse contexto, caberia ao agravante apontar, objetivamente, eventual equívoco na fundamentação da decisão agravada, o que não fez.
+4. A dissociação entre as razões articuladas no agravo interno e os reais fundamentos da decisão agravada expõe a deficiência da argumentação e impede o conhecimento do agravo interno, por aplicação analógica do óbice contido no Enunciado n. 284/STF. Precedentes.
+5. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de agravo interno interposto por Lori Fátima Lima da Silva desafiando a decisão de fls. 286/291, mediante a qual foi parcialmente conhecido e não provido o recurso especial interposto contra acórdão proferido pelo TRF da 4ª Região.
+Em oposição a esse decisum, foram opostos embargos de declaração, que foram rejeitados (fls. 295/297).
+O decisório agravado rejeitou a alegação de ofensa ao art. 1.022 do CPC e também manifestou a compreensão de que, "neste Superior Tribunal, a execução invertida por parte da autarquia previdenciária e a respectiva necessidade de prévia intimação é matéria pacificada" (fl. 289), pelo que se aplica à hipótese a Súmula n. 83/STJ. Já nos embargos de declaração, retomando-se a tese estabelecida pelo TRF no aresto combatido, reafirmou-se que "necessidade de abertura de prazo para que o INSS cumprisse voluntariamente sua obrigação (execução invertida) foi a tese que fundamentou o acórdão recorrido, não o Tema 1190/STJ, e está alinhada à jurisprudência deste Superior Tribunal" (fl. 304).
+Todavia, nas razões do agravo interno, fls. 312/314, o agravante, afastando-se dos reais fundamentos da decisão que intenta desconstituir, alega que "a jurisprudência desta Suprema Corte, inclusive da própria relatoria do Ministro Sérgio Kukina, reconhece a cabibilidade dos honorários em cumprimento de sentença não embargado contra a Fazenda, quando se trata de crédito de pequeno valor (RPV), desde que não se trate de execução invertida, o que não é o caso dos autos" (fl. 312), razão que invoca para requerer a reforma do julgado.
+Não foram apresentadas contrarrazões (fl. 320).
+O recurso é tempestivo. Há representação regular (fl. 43).
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FUNDAMENTOS NÃO INFIRMADOS. SÚMULA N. 182/STJ. RAZÕES DISSOCIADAS. ENUNCIADO N. 284/STF. AGRAVO INTERNO NÃO CONHECIDO.
+1. O êxito de qualquer recurso judicial, inclusive o agravo interno, vai condicionado à demonstração, pelo recorrente, da existência de erro, de procedimento ou de aplicação do direito verificada na prolação da sentença ou do acórdão que intenta desconstituir ou reformar. Essa é a razão pela qual a jurisprudência desta Corte, há muito, não conhece dos recursos cujas razões não combatem, integral e especificamente, os efetivos fundamentos da decisão monocrática combatida (Súmula n. 182/STJ) ou que articulam argumentos estranhos às razões empregadas pelo julgador para solver o caso concreto (Enunciado n. 284/STF).
+2. Na hipótese ora examinada, a decisão impugnada negou provimento ao recurso especial (na parte em que conhecido) por compreender que a solução encaminhada pelo Tribunal de origem, no que tange à execução invertida e à necessidade de prévia intimação da autarquia previdenciária, se apresenta em harmonia com a consolidada jurisprudência do STJ, atraindo a incidência, à espécie, da Súmula n. 83 desta Corte.
+3. Nesse contexto, caberia ao agravante apontar, objetivamente, eventual equívoco na fundamentação da decisão agravada, o que não fez.
+4. A dissociação entre as razões articuladas no agravo interno e os reais fundamentos da decisão agravada expõe a deficiência da argumentação e impede o conhecimento do agravo interno, por aplicação analógica do óbice contido no Enunciado n. 284/STF. Precedentes.
+5. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O êxito de qualquer recurso judicial, inclusive o agravo interno, vai condicionado à demonstração, pelo recorrente, da existência de erro, de procedimento ou de aplicação do direito verificada na prolação da sentença ou do acórdão que intenta desconstituir ou reformar.
+Essa é a razão pela qual a jurisprudência desta Corte, há muito, não conhece dos recursos cujas razões não combatem, integral e especificamente, os efetivos fundamentos da decisão monocrática combatida ou que articulam argumentos estranhos às razões empregadas pelo julgador para solver o caso concreto. Daí a Súmula n. 182/STJ, vazada nos seguintes moldes: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Na hipótese ora examinada, o decisório impugnado pelo agravante negou provimento ao recurso especial (na parte em que conhecido) por compreender que a solução encaminhada pelo Tribunal de origem, no que tange à execução invertida e à necessidade de prévia intimação da autarquia previdenciária, se apresenta em harmonia com a consolidada jurisprudência do STJ, atraindo a incidência, à espécie, da Súmula n. 83 desta Corte.
+Nesse contexto, caberia ao insurgente apontar, objetivamente, eventual equívoco na fundamentação do decisum agravado. Todavia, como relatado, desconsiderando os reais alicerces da decisão que intenta desconstituir, os quais foram, registre-se, reafirmados no recurso aclaratório, o agravante insiste em ser cabível os honorários em cumprimento de sentença não embargado contra a Fazenda Pública, "desde que não se trate de execução invertida" (sic. fl. 312).
+No entanto, com isso, deixa sem combate os pilares do decisório agravado.
+Ademais, a apontada dissociação entre os fundamentos da decisão combatida e os argumentos postos nas razões do agravo interno impede o conhecimento do recurso, a teor do Enunciado n. 284/STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. FUNDAMENTO NÃO IMPUGNADO. PRECLUSÃO. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. NÃO CONHECIMENTO DA INSURGÊNCIA QUANTO AO PONTO.
+ ..
+5. Não se conhece do agravo interno no ponto em que suas razões se encontram dissociadas dos fundamentos adotados na decisão agravada, caracterizando ofensa ao princípio da dialeticidade recursal.
+6. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp n. 2.779.487/MS, Relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 15/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SEGUNDOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. IMPOSSIBILIDADE DE REDISCUTIR DECISÃO PRECLUSA. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. RAZÕES DISSOCIADAS. DEFICIÊNCIA DA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. EFETIVO PROVEITO ECONÔMICO OBTIDO NA DEMANDA. REVISÃO DO JUÍZO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ.
+ ..
+4. A apresentação de razões recursais dissociadas da fundamentação adotada na decisão recorrida configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia, inviabilizando o conhecimento do recurso especial. Incidência da Súmula 284 do STF. Precedentes.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.312.653/RS, Relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 28/4/2025.)
+Por todas estas razões, isoladas ou conjuntamente consideradas, tenho que o presente agravo interno não merece ir além da barreira do juízo de admissibilidade.
+ANTE O EXPOSTO, não conheço do presente agravo interno.
+É como voto.
