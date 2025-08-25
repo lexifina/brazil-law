@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIVIANE FERREIRA DA SILVA contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 7 do STJ, quanto aos arts. 186 e 927 do Código Civil e 6º, VI, do CDC e à divergência jurisprudencial.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios em apelação nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fl. 261-262):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. CIRURGIA BARIÁTRICA. CONTINUIDADE DE TRATAMENTO. CARÁTER REPARADOR. TEMA 1069. OBRIGAÇÃO DE FAZER. DEVIDA. REVELIA. LASTRO PROBATÓRIO AUTORAL. DANO MORAL. CONFIGURADO. RECURSO PARCIALMENTE PROVIDO.
+1. A citação enviada para endereço declarado pela própria empresa no Cadastro Nacional da Pessoa Jurídica - CNPJ na Receita Federal é válida.
+1.1 Tal cadastro, segundo informa a Receita Federal, é fonte única e oficial de informações cadastrais de pessoas jurídicas. Dessa forma, as modificações das informações cadastrais são de responsabilidade da própria empresa e no caso dos autos, não foram demonstradas em período anterior à citação. (Acórdão 1376045, 07169398420208070020, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 6/10/2021, publicado no DJE: 11/10/2021)
+2. Cumpre ao plano de saúde autorizar a realização de cirurgia plástica reparadora decorrente do tratamento da obesidade mórbida, porquanto tal intervenção cirúrgica possui característica reparadora e não somente estética, contribuindo, portanto, para a melhoria da qualidade de vida do paciente.
+2.1 O procedimento para retirada de excessos de pele após a cirurgia visa impedir a formação de dermatites infecciosas, bem como facilitar a higiene pessoal, a prática de exercícios físicos e a deambulação do paciente, visando a plenitude de seu restabelecimento físico e psíquico.
+3. Haja vista o caráter vinculante da decisão da Corte Superior me julgamento do tema 1069, não há que se falar em análise da previsão dos procedimentos pleiteados no rol da Agência Nacional de Saúde Suplementar - ANS, mas sim do seu caráter reparador ou estético, estando o plano de saúde obrigado a suportar todos os tratamentos oriundos de procedimento cirúrgico bariátrico desde que comprovado sua natureza reparadora. Restando dúvidas pertinentes acerca do caráter meramente estético da cirurgia pleiteada a seguradora está apta a realizar Junta Médica, ou na sua falta, requerer perícia técnica nos autos.
+4. Somente quando há a lesão a direitos da personalidade do consumidor há a condenação em danos morais. Condenação afastada diante de elementos do caso concreto.
+5. Recurso conhecido e parcialmente provido.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos arts. 186 e 927 do Código Civil e 6º, VI, do CDC, por ser devida a condenação da operadora do plano de saúde a indenizar por danos morais decorrentes da recusa de procedimentos cirúrgicos reparadores, por terem sido demonstrados diversos problema físicos e psicológicos, causando-lhe angústia e aflição intensa.
+Requer o provimento do recurso para que se condene a recorrida ao pagamento de indenização por danos morais.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer c/c indenização por danos morais em que a parte autora pleiteou a condenação da operadora do plano de saúde para autorizar a realização dos procedimentos cirúrgicos reparadores após a realização de cirurgia bariátrica conforme indicação médica e ao pagamento de indenização de danos morais, cujo valor da causa foi fixado em R$ 15 mil.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos iniciais para condenar o plano de saúde à obrigação de fazer consistente em autorizar o tratamento pleiteado pela recorrida, conforme prescrito nos relatórios médicos e ao pagamento do valor de R$ 7.500,00, a título de danos morais, com honorários advocatícios arbitrados em 10% do valor da causa.
+A Corte estadual reformou a sentença para afastar a condenação em danos morais. Concluiu que a negativa dos procedimentos foram revertidas rapidamente por meio de decisão judicial, não havendo ofensa à honra subjetiva ou aos direitos da personalidade.
+Segue trecho do julgado (fl. 264):
+3.2 Do Dano Moral
+Em relação ao dano moral, como diz respeito à esfera individual do sujeito lesado, o dano moral não pode ser mensurado, ou mesmo restituído. A indenização fixada em juízo, nesse caso, tem natureza compensatória e deve ter como parâmetros, dentre outros fatores, a extensão do dano sofrido e a condição financeira do autor do ato lesivo, sempre norteados pelos princípios da proporcionalidade e da razoabilidade.
+Demais, não há que se falar em sua prova material. Assim, deve o julgador verificar, ante os elementos coligidos no processo, a título de prova, se a situação experimentada pela parte foi lesiva a seus direitos da personalidade.
+Na hipótese vertente, a negativa dos procedimentos foram rapidamente revertidas por meio de decisão judicial, não se cogitando, pois, de violação à honra subjetiva da autora e nem aos direitos da sua personalidade.
+Demais, a ação foi ajuizada antes da definição do Tema 1069, do Superior Tribunal de Justiça.
+Bem por isso, afasto a condenação em danos morais, neste caso concreto.
+Desse modo, o Tribunal a quo analisou a controvérsia com base nos elementos e nas peculiaridades do caso concreto e, fundamentando-se na ausência de lesão aos direitos da personalidade e da honra subjetiva da parte autora, concluiu não ser devida a condenação do plano de saúde a indenizar por danos morais.
+Rever tais conclusões, de modo a concluir como pretende a recorrente, demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Com relação ao apontado dissídio, a incidência da Súmula n. 7 do STJ quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede seu conhecimento pela divergência jurisprudencial sobre a mesma questão.
+Nessa mesma linha: AgInt no AREsp n. 1.898.375/RS, relator Ministro
+Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
