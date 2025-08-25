@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, dar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. CONTRATO DE PROMESSA DE COMPRA E VENDA. DISTRATO. INICIATIVA DO PROMITENTE COMPRADOR. CLÁUSULA PENAL. LEI Nº 13.786/2018. ABUSIVIDADE DA RETENÇÃO. POSSIBILIDADE DE REDUÇÃO. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS 5 E 7 DO STJ. RECURSO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que deu provimento ao recurso especial da parte agravada, fixando o percentual de restituição em 50% sobre os valores pagos em ação rescisória de contrato promissório de compra e venda.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível a redução do percentual de retenção previsto em cláusula penal ajustada dentro dos limites legais, nos casos em que se mostrar manifestamente abusivo, mesmo em contratos firmados após a edição da Lei nº 13.786/2018.
+III. Razões de decidir
+3. O Superior Tribunal de Justiça firmou jurisprudência no sentido de que é possível a redução do percentual de retenção, previsto em cláusula penal ajustada dentro dos limites legais, nos casos em que se mostrar manifestamente abusivo, ainda que se trate de contrato firmado após a edição da Lei nº 13.786/2018.
+4. Na hipótese, acolher a tese pleiteada pela agravada exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas 5 e 7/STJ. A decisão atacada merece, portanto, ser reformada para se reestabelecer o dispositivo do acórdão do Tribunal de origem na integralidade dos seus termos.
+IV. Dispositivo
+5. Agravo interno provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Ministro Marco Aurélio Bellizze que conheceu monocraticamente do agravo interposto pela parte contrária para dar provimento ao recurso especial da agravada e fixar o percentual de restituição em 50% sobre os valores pagos pelos agravantes em ação rescisória de contrato promissório de compra e venda.
+Segundo os agravantes, o recurso especial da agravada não merecia ser conhecido em razão dos óbices das Súmulas 5 e 7 desta Corte superior. Pleiteia ainda que o acórdão recorrido pela agravada está em consonância com a jurisprudência deste Tribunal.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. CONTRATO DE PROMESSA DE COMPRA E VENDA. DISTRATO. INICIATIVA DO PROMITENTE COMPRADOR. CLÁUSULA PENAL. LEI Nº 13.786/2018. ABUSIVIDADE DA RETENÇÃO. POSSIBILIDADE DE REDUÇÃO. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS 5 E 7 DO STJ. RECURSO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que deu provimento ao recurso especial da parte agravada, fixando o percentual de restituição em 50% sobre os valores pagos em ação rescisória de contrato promissório de compra e venda.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível a redução do percentual de retenção previsto em cláusula penal ajustada dentro dos limites legais, nos casos em que se mostrar manifestamente abusivo, mesmo em contratos firmados após a edição da Lei nº 13.786/2018.
+III. Razões de decidir
+3. O Superior Tribunal de Justiça firmou jurisprudência no sentido de que é possível a redução do percentual de retenção, previsto em cláusula penal ajustada dentro dos limites legais, nos casos em que se mostrar manifestamente abusivo, ainda que se trate de contrato firmado após a edição da Lei nº 13.786/2018.
+4. Na hipótese, acolher a tese pleiteada pela agravada exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas 5 e 7/STJ. A decisão atacada merece, portanto, ser reformada para se reestabelecer o dispositivo do acórdão do Tribunal de origem na integralidade dos seus termos.
+IV. Dispositivo
+5. Agravo interno provido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais indica hipótese que justifique a reconsideração dos argumentos anteriormente expendidos, os quais transcrevo :
+Com efeito, consoante recente precedente da Quarta Turma, "O STJ firmou entendimento de que, nos contratos oriundos de incorporação submetida ao regime de patrimônio de afetação, como no casos dos autos, a retenção dos valores pagos pode chegar a 50%, conforme estabelece o art. 67-A, I, e § 5º, da Lei 13.786/2018" (AgInt no REsp n. 2.055.691/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.).
+Da argumentação exposta no referido precedente, destaca-se:
+Conforme salientado na decisão primeva, o entendimento estabelecido pelo STJ, no julgamento do REsp 1.723.519/SP, da Segunda Seção, é de que, na rescisão de contrato de compra e venda de imóvel, por desistência do comprador, anterior à Lei 13.786/2018, deve prevalecer o percentual de retenção pactuado, desde que dentro do limite de 25% (vinte e cinco por cento), tal como definido no julgamento dos EAg 1.138.183/PE, por ser o montante adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato. Ademais, foi consignado no voto condutor desse aresto que "(..) a Lei 13.786/2018, suprindo a lacuna do direito positivo, e incorporando ao direito positivo diversos entendimentos e parâmetros já consagrados pelo STJ, adotou o percentual 25% da quantia paga como limite para a pena convencional em caso de distrato, podendo chegar a 50% quando a incorporação estiver sujeita ao regime de patrimônio de afetação (arts. 67-A, inciso I e §5º)". Na hipótese, o contrato foi firmado em dezembro de 2019 (fl. 267), portanto, posterior à entrada em vigor da Lei 13.786/2018, que introduziu o art. 67-A, II, da Lei 4.591/64, apontado como violado. Tal situação é clara nos autos, visto que a própria parte ora recorrente afirma que o instrumento contratual foi firmado sob a égide da Lei 13.786/2018, e prevê a restituição do percentual de 50% do montante pago.
+Destarte, encontrando-se o limite previsto na cláusula de devolução de valores pactuada entre as partes em consonância com o contido na lei, não há como reconhecer sua nulidade, ante a primazia do princípio do pacta sunt servanda.
+No mesmo sentido (sem destaque no original):
+ ..
+O Tribunal de origem, por sua vez, entendeu que (sem destaque no original):
+Inobstante a previsão legal de limite máximo da pena convencional no patamar de 50% (cinquenta por cento) das parcelas quitadas, (art. 67-A, § 5º, da Lei nº 13.786/18), é possível o arbitramento de fração inferior se constatada a onerosidade excessiva dos adquirentes, à luz do art. 51, IV, do CDC. Nesse sentido, em consonância com a jurisprudência desta C. Câmara, mostra-se razoável a retenção pelo promitente vendedor de 20% (vinte por cento) dos valores pagos e, por conseguinte, a devolução de 80% (oitenta por cento) do preço quitado, tal como fixado na r. sentença. Por fim, diante da declaração de nulidade da cláusula contratual e da determinação de ressarcimento dos valores pagos, descabida a tese de afastamento da sucumbência por ausência de causalidade, tampouco de aplicação do art. 86, parágrafo único, do CPC.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de fixar o percentual de restituição em 50% (cinquenta por cento) dos valores pagos pelo recorrido.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+Brasília, 26 de abril de 2024.
+De fato, o entendimento mais recente da Terceira Turma deste Superior Tribunal de Justiça estabeleceu que é possível a redução do percentual de retenção previsto em cláusula penal ajustada dentro dos limites legais nos casos em que se mostrar manifestamente abusivo, ainda que se trate de contrato firmado após a edição da Lei nº 13.786/2018.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. NULIDADE DE CLÁUSULA CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROMESSA DE COMPRA E VENDA. IMÓVEL. DISTRATO. INICIATIVA DO COMPRADOR. CLÁUSULA PENAL. LEI Nº 13.786/2018. CONTRATO POSTERIOR. RETENÇÃO. PERCENTUAL. ABUSIVIDADE. REDUÇÃO. POSSIBILIDADE. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS NºS 5 E 7/STJ.
+1. Discute-se nos autos acerca da possibilidade de redução da cláusula penal estipulada em 50% (cinquenta por cento) de retenção dos valores pagos, nos casos de distrato por iniciativa do comprador de contrato de compra e venda firmado após a edição da Lei nº 13.786/2018.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O Superior Tribunal de Justiça firmou jurisprudência no sentido de que é possível a redução do percentual de retenção, previsto em cláusula penal ajustada dentro dos limites legais, nos casos em que se mostrar manifestamente abusivo, ainda que se trate de contrato firmado após a edição da Lei nº 13.786/2018.
+4. Na hipótese, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.229.156/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/5/2025, DJEN de 30/5/2025.)
+Assiste razão, portanto, aos agravantes no seu pleito de que o Tribunal de origem decidiu em consonância com a jurisprudência desta Corte no sentido de que a modificação do acórdão recorrido demandaria, à luz do precedente firmado por esta Casa, proscrita incursão no acervo fático-probatório e na reinterpretação de cláusulas contratuais, providência inviável em sede especial por força das Súmulas 5 e 7 desta Corte superior.
+Mostra-se o acórdão da Corte local, portanto, em harmonia com a orientação jurisprudencial sufragada por este Tribunal precisamente neste excerto aqui destacado (e-STJ fls. 429):
+Eis a controvérsia. Inobstante a previsão legal de limite máximo da pena convencional no patamar de 50% (cinquenta por cento) das parcelas quitadas, (art. 67-A, § 5º, da Lei nº 13.786/18), é possível o arbitramento de fração inferior se constatada a onerosidade excessiva dos adquirentes, à luz do art. 51, IV, do CDC.
+Nesse sentido, em consonância com a jurisprudência desta C. Câmara, mostra-se razoável a retenção pelo promitente vendedor de 20% (vinte por cento) dos valores pagos e, por conseguinte, a devolução de 80% (oitenta por cento) do preço quitado, tal como fixado na r. sentença.
+Esse percentual de devolução se amolda perfeitamente às balizas para a aplicação da cláusula penal do contrato promissório de compra e venda, conforme os seguintes julgados:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE IMPORTÂNCIAS PAGAS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO POR CULPA DOS COMPRADORES. RETENÇÃO DE 10% DOS VALORES PAGOS. REVISÃO DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. PERCENTUAL FIXADO NA ORIGEM DE ACORDO COM A JURISPRUDÊNCIA DO STJ.
+1. A modificação do percentual fixado na origem demanda a interpretação de cláusula contratual e o reexame do acervo fático-probatório dos autos, procedimentos inviáveis em recurso especial (Súmulas n. 5 e 7/STJ).
+2. A jurisprudência desta Corte, diante de resilição contratual por iniciativa do comprador, sedimentou-se acerca das balizas para a aplicação da cláusula penal, permitindo a retenção no percentual entre 10% e 25% dos valores pagos.
+Agravo interno improvido
+(AgInt no AREsp n. 2.701.096/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/12/2024, DJEN de 5/12/2024.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMPRA E VENDA DE IMÓVEL. DESFAZIMENTO DO NEGÓCIO JURÍDICO POR CULPA DO COMPRADOR. CONTRATO FIRMADO APÓS A LEI N. 13.786/2018. DIREITO DE RETENÇÃO DE VALORES. CLÁUSULA PENAL. ABUSIVIDADE. REVISÃO. POSSIBILIDADE. VENDA DE LOTE NÃO EDIFICADO. COBRANÇA DE TAXA DE FRUIÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5, 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste negativa de prestação jurisdicional quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. É possível a revisão de cláusula penal, ainda que se trate de contrato firmado após a Lei n. 13.786/2018, que acrescentou o art. 32-A à Lei n. 6.766/1979, quando sua aplicação for manifestamente excessiva diante da natureza e finalidade do contrato, além de ser inviável a cobrança de taxa de fruição no caso de lote não edificado, em razão da não utilização do bem.
+3. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+4. A incidência das Súmulas n. 5, 7 e 83 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5. A falta de expressa indicação e de demonstração de ofensa a artigos de lei violados ou de eventual divergência jurisprudencial sobre a matéria inviabiliza o conhecimento do recurso especial, aplicando-se o disposto na Súmula n. 284 do STF.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.100.901/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL DEFICIENTE. AUSÊNCIA. ARTIGO VIOLADO. FALTA DE INDICAÇÃO. SÚMULA Nº 284/STJ. COMPRA E VENDA DE IMÓVEL. DISTRATO. CLÁUSULA DE RETENÇÃO. PERCENTUAL. ABUSIVIDADE. REVISÃO. POSSIBILIDADE. NORMA CONSTITUCIONAL. VIOLAÇÃO. EXAME. NÃO CABIMENTO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. É inadmissível o inconformismo por deficiência de fundamentação quando o recurso especial deixa de indicar qual dispositivo legal teria sido violado ou objeto de interpretação divergente. Súmula nº 284/STF.
+3. O Superior Tribunal de Justiça entende ser cabível a revisão de distrato de contrato de compra e venda de imóvel em que exista cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor em nítida afronta ao Código de Defesa do Consumidor e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+4. O exame de violação das normas constitucionais foge da competência do Superior Tribunal de Justiça, prevista no artigo 105 da Constituição Federal.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.087.385/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Forte nessas razões e na orientação jurisprudencial esposada por esta Corte superior, manifesto meu voto pelo provimento do presente agravo interno para manter o acórdão recorrido na integralidade dos seus termos.
+É como voto.
