@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, conhecer parcialmente do recurso e, nessa parte dar-lhe provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICAÇÃO. FALECIMENTO DO TITULAR DO PLANO. COBERTURA. DEPENDENTE. CONTINUIDADE DA VIGÊNCIA DO CONTRATO, COM A ASSUNÇÃO DAS OBRIGAÇÕES JÁ ASSUMIDAS. PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA N. 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC).
+2. No caso em exame, o entendimento adotado pela Corte de origem encontra-se em consonância com a posição desta Corte Superior, no sentido de que, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes.
+2. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MARIA APARECIDA DE OLIVEIRA BACALHAU (MARIA APARECIDA) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Des. VALENTINO APARECIDO DE ANDRADE, assim ementado:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. SENTENÇA QUE RECONHECEU O DIREITO SUBJETIVO DE A AUTORA DE SER MANTIDA COMO BENEFICIÁRIA DO PLANO DE SAÚDE QUE ERA DA TITULARIDADE DE SEU FALECIDO MARIDO, COM OS MESMOS BENEFÍCIOS E COBERTURA CONTRATUAL.
+APELO DA RÉ EM QUE SUBLINHA SE TRATAR DE UM CONTRATO COLETIVO POR ADESÃO DE PLANO DE SAÚDE E QUE, FALECIDO SEU TITULAR, DEVER-SE-IA OBSERVAR O INSTITUTO DA REMISSÃO, DE MANEIRA QUE A AUTORA- APELADA PODERIA SER MANTER COMO BENEFICIÁRIA ATÉ JUNHO DE 2024, APÓS O QUE O CONTRATO HÁ QUE SER EXTINTO EM VIRTUDE DA FALTA DE ELEGIBILIDADE DA AUTORA-APELADA PARA NELE PERMANECER, TUDO CONFORME ESTÁ EXPRESSAMENTE PREVISTO NO CONTRATO, MAS QUE NÃO RECEBEU, SEGUNDO A APELAÇÃO, UMA CORRETA VALORAÇÃO NA R. SENTENÇA.
+APELO SUBSISTENTE. CARACTERÍSTICAS E PECULIARIDADES QUE ENVOLVEM O REGIME JURÍDICO-LEGAL DO CONTRATO COLETIVO POR ADESÃO DE PLANO DE SAÚDE, EM CUJO CONTEXTO A ELEGIBILIDADE É ASPECTO DE ACENTUADA IMPORTÂNCIA.
+ELEGIBILIDADE QUE, EM CONTRATO DE PLANO DE SAÚDE COLETIVO, DETERMINA QUAIS SÃO OS REQUISITOS E CRITÉRIOS AFERIDOS PARA DETERMINAREM A CONDIÇÃO DE BENEFICIÁRIO DO PLANO, EM FUNÇÃO DO QUE SE DEFINE O EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO. CLÁUSULA CONTRATUAL EXPRESSA QUE À ELEGIBILIDADE REFERE-SE, ASPECTO QUE NÃO FOI BEM VALORADO NA R. SENTENÇA, QUE RECONHECEU À AUTORA-APELADA UM DIREITO SUBJETIVO QUE ELA NÃO POSSUI.
+SENTENÇA REFORMADA. RECURSO DE APELAÇÃO PROVIDO. INVERSÃO DOS ENCARGOS DE SUCUMBÊNCIA, SEM A MAJORAÇÃO DOS HONORÁRIOS DE ADVOGADO (e-STJ, fls. 459/460).
+Os embargos de declaração opostos por MARIA APARECIDA foram rejeitados (e-STJ, fls. 534-543.).
+No presente inconformismo, MARIA APARECIDA alegou, a par de dissídio jurisprudencial, a violação dos arts. 1.022 do CPC; 30 e 31 da Lei n. 9.656/98; e 47 e 51 do CDC, alegando, (1) negativa de prestação jurisdicional; e (2) que em caso de morte do titular, o direito de permanência é assegurado aos dependentes cobertos pelo plano ou seguro privado coletivo de assistência à saúde.
+Foram apresentadas as contrarrazões.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICAÇÃO. FALECIMENTO DO TITULAR DO PLANO. COBERTURA. DEPENDENTE. CONTINUIDADE DA VIGÊNCIA DO CONTRATO, COM A ASSUNÇÃO DAS OBRIGAÇÕES JÁ ASSUMIDAS. PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA N. 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC).
+2. No caso em exame, o entendimento adotado pela Corte de origem encontra-se em consonância com a posição desta Corte Superior, no sentido de que, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes.
+2. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com
+impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar.
+(1) Da negativa de prestação jurisdicional
+Não se verifica, no caso, a alegada vulneração ao referido dispositivo legal, porquanto a Corte bandeirante apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Afasto, portanto, a prefacial.
+(2) Do mérito
+A propósito do tema, o Tribunal de origem concluiu o seguinte:
+Não se tratasse de um contrato coletivo por adesão de plano de saúde, e se imporia o reconhecimento do direito subjetivo de a autora manter-se como beneficiária de seu falecido marido. Sucede, contudo, que o contrato, firmado sob a modalidade coletiva por adesão, possui um regime jurídico-legal próprio, no qual tem acentuada importância a elegibilidade, que vem a ser os requisitos aferidos para quem alguém possa ser erigido à condição de beneficiário do plano e possa gozar da cobertura contratual.
+Não se pode desconsiderar, portanto, a elegibilidade que é própria aos contratos coletivos por adesão, e da importância que ela apresenta nesse tipo de contrato, precisamente em função dos aspectos que envolvem o equilíbrio econômico-financeiro, que é aferido de acordo com a elegibilidade de cada beneficiário.
+O contrato em questão possui cláusula expressa acerca da elegibilidade, prevendo, pois, que com a morte do beneficiário docontrato, deve-se observar um prazo de remissão, findo o qual o vínculo contratual é de ser extinto. É o que deve ocorrer neste caso, porque a elegibilidade, segundo o contrato, é de ser aferida apenas em função do beneficiário originário, e isso se justifica seja sob o princípio da legalidade formal, seja sob a legalidade substancial, ou seja, sob a razão que a justifica.
+Poder-se-ia obtemperar que, em se tratando de uma relação jurídico-material de consumo, haveria por se flexibilizar o rigor da elegibilidade. Mas para isso seria imperioso demonstrar que a cláusula contratual que a prevê tenha colocado a posição jurídica da autora em uma situação de injustificado desequilíbrio, o que não ocorre, porque a elegibilidade é aferida de acordo com os beneficiários originários e sua condição é o que forma o indispensável conjunto de informações com base no qual o equilíbrio econômico-financeiro do contrato coletivo é aferido.
+Por meu voto, dá-se provimento ao recurso de apelação interposto pela ré, reformando a r. sentença para que se declare como improcedente o pedido formulado pela autora na peça inicial (e-STJ, fls. 461/462).
+Assim, o acórdão recorrido não está em consonância com a jurisprudência deste Superior Tribunal de Justiça no sentido de que, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumindo as obrigações dele decorrentes.
+Nesse sentido, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. 1. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 2. REMISSÃO. PREVISÃO NO CONTRATO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 3. MANUTENÇÃO NO PLANO APÓS A MORTE DO TITULAR. ACÓRDÃO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. FALTA DE IMPUGNAÇÃO ESPECÍFICA. ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. 4. AGRAVO INTERNO DESPROVIDO.
+1. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+2. A questão acerca da falta de comprovação da previsão da remissão no contrato, foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Assim, não se mostra possível rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado local, tendo em vista sua vedação pelas Súmulas n. 5 e 7 deste Superior Tribunal.
+3. O acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumindo as obrigações dele decorrentes.
+3.1. Cabe à parte insurgente, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. No caso, o
+agravante não apresenta alegações hábeis a infirmar os fundamentos da decisão regimentalmente agravada, conforme exigido pelos arts. 932, III, e 1.021, § 1º, do CPC/2015, circunstância que impede o conhecimento do agravo, nesse ponto.
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.068.942/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. FALECIMENTO DO TITULAR. PERMANÊNCIA DOS DEPENDENTES. SÚMULA 83/STJ. JULGADO DIVERGENTE QUE NÃO GUARDA RELAÇÃO COM O CASO EM TELA. AGRAVO NÃO PROVIDO.
+1. O julgado citado pela agravante como divergente não guarda correlação com o caso em tela, pois aquele versa sobre o direito de permanência do ex-empregado no plano de saúde coletivo após sua demissão, ao passo que o presente trata do direito de permanência dos dependentes no plano de saúde após o óbito do beneficiário titular.
+2. Ausente motivo para reformar o acórdão recorrido, uma vez que a conclusão alcançada pelo Tribunal de origem, no que diz respeito à sucessão da titularidade e à manutenção do plano de saúde, com a assunção das respectivas obrigações, está ajustada ao entendimento da jurisprudência desta Corte. Incidência da Súmula 83/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.013.316/SP, relator Ministro Luis Felipe Salomão,
+Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. FALECIMENTO DO TITULAR. MANUTENÇÃO DOS DEPENDENTES. ASSUNÇÃO DO PAGAMENTO INTEGRAL. SÚMULA 83/STJ. DANO MORAL RECONHECIDO PELA CORTE DE ORIGEM. SÚMULA 7 DO STJ. RAZOABILIDADE E PROPORCIONALIDADE DO QUANTUM ARBITRADO. AGRAVO DESPROVIDO.
+1. No caso em exame, o entendimento adotado pela Corte de origem encontra-se em consonância com a posição desta Corte Superior, no sentido de que, "ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes" (AgInt no REsp 1.861.910/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/08/2020, DJe de 13/08/2020).
+2. A convicção a que chegou o acórdão acerca da ocorrência de dano moral no presente caso decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 desta Corte.
+3. No caso, não se mostra excessivo, a justificar sua reavaliação em recurso especial, o montante estabelecido pelo Tribunal de origem em R$ 5.000,00 (cinco mil reais), visto que não é exorbitante nem desproporcional aos danos sofridos pela parte recorrida.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.919.639/RJ, relator Ministro Raul Araújo, Quarta
+Turma, julgado em 16/5/2022, DJe de 17/6/2022 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para CONHECER em parte do recurso especial e, nessa extensão, DAR-LHE PROVIMENTO para restabelecer a sentença, invertendo-se os ônus sucumbenciais.
+Inaplicável a majoração dos honorários recursais.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
