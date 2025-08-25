@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por AURISON DA SILVA FLORENTINO contra a decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  a r. decisão embargada deixou de considerar que a petição de Agravo em Recurso Especial, de forma fundamentada e específica, impugnou todos os fundamentos da decisão proferida na origem e que inadmitiu o Recurso Especial. (fl. 329)
+ ..
+Nesse ponto, ao contrário do quanto afirmado na decisão embargada, na petição de Agravo em Recurso Especial, às folhas e-STJ Fl.296/302, data vênia, o ora Embargante demonstrou de forma clara e precisa a inaplicabilidade dos óbices apontados na decisão de inadmissibilidade do RESP, quais sejam, suposto reexame de provas vedado pela Súmula 7/STJ, suposta ausência de impugnação específica dos fundamentos da decisão que inadmitiu o Recurso Especial e ausência de prequestionamento.
+Especificamente, em relação ao óbice da Súmula 7/STJ, que veda o simples reexame de provas, a parte Embargante demonstrou que a análise da questão não demandava reexame de provas, mas sim a revaloração jurídica dos fatos já delineados no acórdão recorrido.
+Além disso, o ora Embargante evidenciou que as matérias veiculadas no Recurso Especial se trata de MATÉRIAS DE DIREITO E DE ORDEM PÚBLICA, atinentes ao CERCEAMENTO DE DEFESA POR NULIDADE DE CITAÇÃO do Embargante, ILEGITIMIDADE ATIVA AD CAUSAM, PRESCRIÇÃO e NEGATIVA DE PRESTAÇÃO JURISDICONAL, as quais, por sua gravidade, podem e devem ser alegadas a qualquer tempo e grau de jurisdição, ou mesmo declarado de ofício! (fl. 330)
+No tocante ao alegado óbice da Súmula 284 do STF, que exige a impugnação específica dos fundamentos da decisão recorrida, o Embargante, no agravo interposto, expressamente enfrentou e impugnou os fundamentos da decisão agravada, inclusive com a devida transcrição do trecho da decisão que inadmitiu o Recurso Especial, com argumentos específicos e fundamentados para demonstrar o desacerto da decisão recorrida.
+Assim, não se trata de mera repetição das razões do Recurso Especial ou ausência de dialeticidade, mas de impugnação clara e objetiva, em conformidade com o que exige a jurisprudência do STJ e o CPC.
+Ao afirmar o contrário, a decisão embargada incorre em erro material ou de apreciação, configurando omissão relevante que compromete a prestação jurisdicional.
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: S úmula 284/STF e ausência de prequestionamento.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
