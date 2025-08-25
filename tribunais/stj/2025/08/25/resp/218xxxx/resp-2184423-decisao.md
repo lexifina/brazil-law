@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se recurso especial interposto por IZADORA CRISTINA CONCEIÇÃO, com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Consoante se extrai dos autos, a parte recorrente foi condenada pela prática do delito previsto no art. 155, § 4º, inciso I, do Código Penal, às penas de 2 (dois) anos e 9 (nove) meses de reclusão, em regime inicial semiaberto, além de 11 (onze) dias-multa.
+O Tribunal de origem, em decisão unânime, negou provimento ao apelo defensivo.
+No recurso especial, a parte recorrente alega violação aos arts. 158 e 171, ambos do Código de Processo Penal. Pugna-se, portanto, o afastamento da qualificadora de rompimento de obstáculo do crime de furto, ao argumento de que não foi realizada prova pericial.
+Apresentadas as contrarrazões, o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+Foram apresentadas contrarrazões e o Ministério Público Federal apresentou parecer pelo desprovimento do recurso especial.
+É o relatório. DECIDO.
+A presente controvérsia cinge-se à possibilidade de reconhecimento da qualificadora de rompimento de obstáculo no crime de furto, apesar de não realizada prova pericial.
+Nessa seara, colho dos fundamentos adotados pelo órgão colegiado estadual para enfrentar a tese supracitada:
+" ..  Neste sentido, a defesa argumentou que tal circunstância deixa vestígios, de modo que, para sua comprovação, seria necessária a realização de perícia no local, o que não ocorreu, sendo inviável a aplicação da referida qualificadora.
+Ocorre que não se pode desprezar que há no caderno processual provas robustas de que o delito fora praticado mediante rompimento de obstáculo à subtração da coisa pretendida.
+Digo assim porque, no caso dos autos, a testemunha Gilson Saraiva Lima declarou que era proprietário de um estabelecimento que fica ao lado da alfaiataria que foi furtada e que, durante a prática delitiva, dois cadeados foram quebrados. Corroborando tal circunstância, a ré, durante o seu interrogatório prestado em juízo, confessou a prática delitiva, relatando que teria atuado na companhia de uma pessoa chamada Laura que foi a responsável por arrombar os cadeados.
+Diante desse contexto, importa salientar que os preceitos legais devem ser interpretados sistematicamente, sob pena de proteção deficiente ao bem jurídico tutelado. Assim, existindo provas suficientes da caracterização da circunstância qualificadora, compete ao intérprete aplicar a finalidade da lei, que, na espécie, é punir mais severamente o furto praticado com rompimento de obstáculo à subtração da coisa e mediante escalada, pois viola o bem jurídico com maior reprovabilidade." (p. 149 - 150)
+Com efeito, na hipótese em comento, a Corte estadual concluiu que há outras provas que evidenciam o rompimento do obstáculo, no caso, o depoimento de testemunha relatando que dois cadeados foram quebrados e a confissão da agravante, que teria indicado que a coautora arrombou os referidos cadeados.
+Nessa seara, apesar de a defesa sustentar a necessidade de comprovação do rompimento de obstáculo mediante laudo pericial, esta Corte de Cidadania entende que "a ausência de perícia técnica não impede o reconhecimento da qualificadora do rompimento de obstáculo, quando cabalmente demonstrada por outras provas, como depoimentos de testemunhas." (REsp n. 2.211.949/PI, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Em reforço:
+"DIREITO PENAL. AGRAVO REGIMENTAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. PERÍCIA PRESCINDÍVEL NO CASO. PENA-BASE. PERSONALIDADE. VALORAÇÃO NEGATIVA AFASTADA. DEMAIS VETORES JUSTIFICADOS. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que manteve a qualificadora de rompimento de obstáculo no crime de furto, bem como a exasperação da pena-base.
+II. Questão em discussão
+2. Há quatro questões em discussão: a) saber se a qualificadora de rompimento de obstáculo pode ser mantida sem a realização de exame pericial; b) saber se a qualificadora do concurso de agentes pode ser considerada na primeira fase da dosimetria; c) saber se o prejuízo da vítima justifica de forma idônea a exasperação da pena-base; e d) saber se a personalidade dos agentes pode ser justificada por outros delitos cometidos posteriormente ao fato denunciado.
+III. Razões de decidir
+3. Embora a incidência das qualificadoras previstas no art. 155, § 4º, I e II, do Código Penal dependa, em regra, da confecção de laudo pericial, em situações excepcionais, é possível reconhecê-las, mesmo sem a produção da prova técnica, se cabalmente demonstrada a escalada ou o rompimento de obstáculo por meio de outras provas.
+ ..
+Tese de julgamento: "1. A qualificadora de rompimento de obstáculo pode ser mantida sem exame pericial, quando comprovada por outros meios de prova. 2. A personalidade dos agentes não pode ser avaliada pelo cometimento de posteriores delitos enquanto cumpriam pena e quando agraciados com liberdade provisória não podem ser considerados."
+Dispositivos relevantes citados: CP, arts. 59 e 155, § 4º, I; CPP, arts. 158 e 167.Jurisprudência relevante citada: STJ, AgRg no HC n. 906.288/DF, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 11/3/2025; STJ, AgRg no HC n. 550.993/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 25/8/2020; STJ, HC n. 606.078/RS, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 15/9/2020; e STJ, AgRg no AREsp n. 2.458.573/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 18/6/2024.
+(AgRg no AREsp n. 2.836.123/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025.)
+Portanto, como o rompimento de obstáculo foi verificado mediante prova testemunhal e confissão em juízo, "a decisão agravada está amparada por precedentes do STJ, que dispensam a perícia quando há outros meios de prova suficientes para comprovar o rompimento de obstáculo". (AgRg no AREsp n. 2.788.457/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/5/2025, DJEN de 19/5/2025.)
+Assim, considerando que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior de Justiça sobre o tema, incide, no caso, a Súmula n. 568, STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do recurso especial e nego-lhe provimento, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ,
+Publique-se. Intimem-se.
+EMENTA
