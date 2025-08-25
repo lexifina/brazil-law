@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SHARK DISTRIBUIDORA DE TRATORES E PEÇAS LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 141, 492, 497, 499 do CPC e demais artigos elencados, pela incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 943.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação redibitória.
+O julgado foi assim ementado (fl. 816):
+COMPRA E VENDA DE BENS MÓVEIS - EQUIPAMENTOS AGRÍCOLAS CONSUMIDOR Ação redibitória Decadência afastada por decisão interlocutória contra a qual não sobreveio recurso Preclusão Prova pericial e oral que demonstram a existência de vícios ocultos no pulverizador, GPS Ti5 e Piloto Automático Ti7 Substituição por equipamentos novos Condenação subsidiária à devolução do preço, nos termos do art. 497 do CPC Sentença mantida.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 873):
+EMBARGOS DE DECLARAÇÃO Ausência dos requisitos prescritos pelo artigo 1.022 do Código de Processo Civil Alegações de omissões, obscuridade e contradições Não ocorrência - Pretensões de reabrir discussão sobre matéria probatória Julgado devidamente fundamentado, sem vícios Prequestionamento Art. 1.025 do CPC. Embargos de Declarações das apelantes rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos: a) 141, 492, 497 e 499 do CPC, porquanto a sentença e o acórdão recorrido extrapolaram os limites do pedido deduzido pela parte autora na petição inicial, impondo à recorrente condenação em obrigação de restituição do preço pago, sem que tal pleito tenha sido formulado expressamente na exordial; b) 385, § 1º, do CPC, visto que a parte autora não compareceu à audiência de instrução e julgamento para prestar depoimento pessoal, o que deveria acarretar confissão ficta sobre os fatos que lhe dizem respeito; c) 371 do CPC, pois a decisão recorrida não fundamentou adequadamente a valoração da prova pericial, baseando sua decisão em um laudo técnico que não atendeu aos requisitos legais de imparcialidade, completude e efetividade na produção da prova; d) a abordagem superficial não considerou adequadamente as falhas técnicas apontadas no laudo, especialmente arguição de nulidade pela não apresentação do equipamento, o que configura em violação do direito ao contraditório e a ampla defesa, previsto no art. 5º, LV, da Constituição Federal; e) 489, § 1º, e 1.022 do CPC, porquanto pontos cruciais que foram ignorados no acórdão recorrido.
+Requer seja recebido e acolhido o recurso ora apresentado, para, preliminarmente, conhecer do recurso especial tendo em vista que foram preenchidos os pressupostos de admissibilidade, e, no mérito, dar provimento ao recurso .
+Não foram apresentadas contrarrazões por Arvus Tecnologia Ltda. e Carla Tamasco de Andrade, conforme a certidão à fl. 921.
+Em suas contrarrazões, CANELLO EQUIPAMENTOS AGRÍCOLAS LTDA. alega que, "No mérito recursal, não há oposição ao Recurso Especial interposto pela parte Recorrente, requerendo-se seu provimento, diante dos fundamentos expostos e da relevância das questões suscitadas, a fim de que seja reformado o acórdão recorrido" (fl. 919).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer c/c indenização por danos morais com pedido de tutela antecipada em que a parte autora pleiteou a entrega dos maquinários GPS, Piloto e Pulverizador em perfeito estado de funcionamento, com a garantia de 12 meses, sob pena de indenização por perdas e danos.
+Na sentença, o Juízo de primeiro grau julgou procedente a ação, condenando as rés a fornecerem no prazo de 30 dias novos equipamentos à autora, livres dos vícios indicados no laudo pericial, ou restituir os valores pagos, acrescidos de correção e juros desde a citação, com fixação de honorários advocatícios em 10% do valor atualizado da causa, que foi de R$ 174.420,00.
+A Corte estadual manteve integralmente a sentença.
+I - Art. 141, 492, 497 e 499 do CPC
+No recurso especial, a parte recorrente alega que a sentença e o acórdão recorrido são nulos por transbordar os limites do pedido constante da inicial, visto que entregou natureza jurídica diversa daquela postulada pela ora recorrida.
+A Corte estadual concluiu que a condenação subsidiária de devolução do preço tem amparo no art. 497, caput, do CPC, porque consiste no resultado prático equivalente à entrega dos produtos novos, caso não seja feita no prazo concedido.
+Não se vislumbra litigância de má-fé da autora quanto à alegação de que havia comprado o pulverizador com bomba de 100 litros, tratando-se de mero equivoco circunstancial, sem intenção de alterar a verdade dos fatos.
+Confira-se trecho do acórdão recorrido (fl. 823):
+A condenação subsidiária de devolução do preço tem amparo no art. 497, caput, do CPC, porque consiste no resultado prático equivalente à entrega dos produtos novos, caso não seja feita no prazo concedido.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+II -Arts. 489, § 1º, e 1.022 do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+III - Art. 385, § 1º, do CPC
+No recurso especial, a parte recorrente alega que a parte autora não compareceu à audiência de instrução e julgamento para prestar depoimento pessoal, o que deveria acarretar confissão ficta sobre os fatos que lhe dizem respeito.
+A Corte estadual afastou a alegação de confissão ficta da autora, pois não foi intimada pessoalmente para prestar depoimento pessoal (art. 385, § 1º, do CPC), e o Juízo a quo autorizou expressamente a oitiva de seu preposto, que tinha relação direta com os fatos.
+Confira-se trecho do acórdão recorrido (fl. 821):
+Afaste-se a alegação de confissão ficta da autora, pois não foi intimada pessoalmente para prestar depoimento pessoal (art. 385, § 1º, do CPC), e o juízo "a quo" autorizou expressamente a oitiva de seu preposto, que tinha relação direta com os fatos.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+IV - Art. 371 do CPC
+No recurso especial, a parte recorrente alega que a decisão recorrida não fundamentou adequadamente a valoração da prova pericial, baseando sua decisão em um laudo técnico que não atendeu aos requisitos legais de imparcialidade, completude e efetividade na produção da prova.
+A Corte estadual considerou que o perito judicial, engenheiro mecânico José Antônio Rodrigues de Camargo, concluiu que o pulverizador tinha os seguintes problemas, que não decorriam de mau uso: "Foi detectado que o maior problema estava na bomba instalada no equipamento de capacidade de 150 litros por minuto, enquanto o pulverizador foi dimensionado para uma bomba de 100 litros por minuto. Também foram detectados os defeitos, tais como: O equipamento estava com defeito na pintura; O Chassi do Equipamento estava com corrosão; O suporte das varas do equipamento estava desalinhado, ocasionando a não uniformidade da pulverização; A bomba (Sistema) não dava pressão necessária para que o jato que saia pelos bicos do equipamento não era uniforme; Havia o Vazamento de produtos químicos nas mangueiras e válvulas retorno da bomba e na caixa de abastecimento de produtos; A alavanca de operação estava fora de acesso operacional; A posição do tanque de água limpa era central e ficava muito alta para operação do operador, sendo instalado na lateral do equipamento no novo pulverizador (fls. 476)" (fls. 819-820).
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se na análise do acervo probatório dos autos.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+V - Art. 5º, LV, da Constituição Federal
+Refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+VI - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
