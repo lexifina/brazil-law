@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos e indeferido o pedido de reconhecimento da prescrição.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL. EMBARGOS DE DECLARAÇÃO. CRIME CONTRA A ORDEM TRIBUTÁRIA. REJEIÇÃO DOS EMBARGOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que manteve a condenação do embargante pela prática do crime previsto no art. 2º, II, c/c o art. 12, I, da Lei nº 8.137/1990, por deixar de repassar ao Fisco o ICMS cobrado de terceiros.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve omissão no acórdão embargado quanto à análise das consequências práticas da decisão, conforme o art. 20 da LINDB, e se há contradição entre a fundamentação do acórdão e o que foi demonstrado no recurso especial, especialmente quanto à natureza da atividade empresarial do embargante.
+3. A questão também envolve o pedido de reconhecimento da prescrição da pretensão punitiva estatal, com base no art. 115 do Código Penal, alegando o embargante contar com mais de 70 anos de idade.
+III. RAZÕES DE DECIDIR
+4. O acórdão embargado analisou detidamente a questão da tipicidade da conduta prevista no art. 2º, II, da Lei nº 8.137/1990, em consonância com a jurisprudência consolidada das Cortes Superiores, inexistindo omissão a ser sanada.
+5. A contradição que autoriza a oposição de embargos de declaração é aquela interna ao julgado, entre suas premissas e conclusões, e não entre o julgado e as alegações da parte ou sua interpretação dos fatos.
+6. A análise das alegações quanto à natureza da atividade empresarial e à inexistência de tributos indiretos demandaria o reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+7. O embargante não faz jus ao benefício da redução do prazo prescricional pela metade, pois, na data da sentença, contava com 67 anos de idade.
+IV. DISPOSITIVO E TESE
+8. Embargos de declaração rejeitados e pedido de reconhecimento da prescrição indeferido.
+Tese de julgamento: "1. A omissão que autoriza embargos de declaração deve ser interna ao julgado, não entre o julgado e as alegações da parte. 2. A redução do prazo prescricional pela metade não se aplica se o embargante não tinha 70 anos na data da sentença".
+Dispositivos relevantes citados: CPP, art. 619; CP, art. 115; Lei nº 8.137/1990, art. 2º, II; LINDB, art. 20.
+Jurisprudência relevante citada: STF, RHC 163.334/SC, Rel. Min. Roberto Barroso, j. 18.12.2019.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por EMERSON DAMIANI ROCHA contra acórdão de relatoria da Ministra Daniela Teixeira, assim ementado (e-STJ fls. 1859-1865):
+"DIREITO PENAL. RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 2º, II, C/C ART. 12, I, DA LEI Nº 8.137/1990. ICMS DECLARADO E NÃO PAGO. CONDENAÇÃO MANTIDA. MATERIALIDADE E AUTORIA COMPROVADAS. DOLO DE APROPRIAÇÃO. DIFICULDADES FINANCEIRAS NÃO AFASTAM CULPABILIDADE. RECUPERAÇÃO JUDICIAL NÃO EXCLUI RESPONSABILIDADE DO SÓCIO- ADMINISTRADOR. CONTINUIDADE DELITIVA CONFIGURADA. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME 1. Recurso especial interposto contra acórdão que manteve a condenação do recorrente pela prática do crime previsto no art. 2º, II, c/c art. 12, I, da Lei nº 8.137/1990 (sonegação do tributo ICMS). O recorrente foi condenado à pena de 1 ano, 1 mês e 10 dias de detenção, em regime aberto, e ao pagamento de 22 dias-multa, por deixar de repassar ao Fisco, de forma contumaz, o ICMS cobrado de terceiros.
+II. QUESTÃO EM DISCUSSÃO 2. O recorrente sustenta: (i) a atipicidade da conduta, por se tratar de mero inadimplemento fiscal, sem dolo de apropriação; (ii) a ausência de comprovação da autoria delitiva; (iii) a existência de excludente de culpabilidade por inexigibilidade de conduta diversa, devido a dificuldades financeiras; e (iv) o estado de necessidade, considerando o contexto de recuperação judicial da empresa.
+III. RAZÕES DE DECIDIR 3. O crime de sonegação de ICMS, previsto no art. 2º, II, da Lei nº 8.137/1990, está configurado quando o contribuinte, de forma contumaz e com dolo de apropriação, deixa de repassar ao Fisco o imposto cobrado de terceiros. O simples inadimplemento não caracteriza o tipo penal, mas a apropriação indevida de valores devidos ao Estado, conforme jurisprudência consolidada do STJ e STF (STF, RHC 163.334/SC, rel. Min. Roberto Barroso, j. 18.12.2019). 4. No caso, as instâncias ordinárias reconheceram que o recorrente, na condição de sócio-administrador da empresa, agiu com dolo de apropriação, utilizando os valores do ICMS para o pagamento de despesas da empresa, conduta que configura apropriação indevida. O fato de o tributo ter sido devidamente declarado não afasta a responsabilidade penal pelo não repasse ao Fisco. 5. A alegada dificuldade financeira enfrentada pela empresa não constitui excludente de culpabilidade, pois o imposto devido é repassado ao consumidor final, cabendo ao administrador apenas a arrecadação e repasse ao Fisco. O entendimento de que dificuldades econômicas não afastam a culpabilidade é reiterado na jurisprudência do STJ. 6. A recuperação judicial da empresa, conforme disposto no art. 64 da Lei nº 11.101/2005, não afasta a responsabilidade do sócio-administrador pelos crimes tributários praticados durante sua gestão, uma vez que o administrador permanece responsável pela condução da atividade empresarial. 7. A análise das alegações de ausência de dolo e de excludentes de ilicitude demandaria reexame do conjunto fático- probatório, vedado pela Súmula 7/STJ. As instâncias ordinárias analisaram exaustivamente as provas e concluíram pela materialidade e autoria do delito, bem como pela presença do dolo de apropriação. 8. A dosimetria da pena foi realizada de forma adequada, incluindo o reconhecimento da continuidade delitiva, tendo em vista a prática de nove condutas delituosas, o que justificou a aplicação da fração de aumento de pena em conformidade com a jurisprudência pacificada.
+IV. DISPOSITIVO E TESE 9. Recurso especial desprovido."
+Nas razões deste recurso, a defesa alega a ocorrência de omissão e contradição no acórdão embargado. Sustenta que houve omissão quanto à análise das consequências práticas da decisão, conforme determina o art. 20 da LINDB. Alega, ainda, contradição entre a fundamentação do acórdão e o que foi efetivamente demonstrado no recurso especial, especialmente quanto à natureza da atividade empresarial do embargante, que atuava no ramo de confecção, não havendo tributos indiretos incidentes sobre a cadeia de produção.
+Ainda, requer o reconhecimento da prescrição da pretensão punitiva estatal, com base no art. 115 do Código Penal, alegando contar com mais de 70 anos de idade.
+O Ministério Público do Estado de Santa Catarina apresentou contrarrazões (e-STJ fls. 1897-1900), manifestando-se pela rejeição dos embargos de declaração e pelo indeferimento do pedido de reconhecimento da prescrição, uma vez que o embargante não tinha 70 anos à época da sentença.
+É o relatório.
+EMENTA
+DIREITO PENAL. EMBARGOS DE DECLARAÇÃO. CRIME CONTRA A ORDEM TRIBUTÁRIA. REJEIÇÃO DOS EMBARGOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que manteve a condenação do embargante pela prática do crime previsto no art. 2º, II, c/c o art. 12, I, da Lei nº 8.137/1990, por deixar de repassar ao Fisco o ICMS cobrado de terceiros.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve omissão no acórdão embargado quanto à análise das consequências práticas da decisão, conforme o art. 20 da LINDB, e se há contradição entre a fundamentação do acórdão e o que foi demonstrado no recurso especial, especialmente quanto à natureza da atividade empresarial do embargante.
+3. A questão também envolve o pedido de reconhecimento da prescrição da pretensão punitiva estatal, com base no art. 115 do Código Penal, alegando o embargante contar com mais de 70 anos de idade.
+III. RAZÕES DE DECIDIR
+4. O acórdão embargado analisou detidamente a questão da tipicidade da conduta prevista no art. 2º, II, da Lei nº 8.137/1990, em consonância com a jurisprudência consolidada das Cortes Superiores, inexistindo omissão a ser sanada.
+5. A contradição que autoriza a oposição de embargos de declaração é aquela interna ao julgado, entre suas premissas e conclusões, e não entre o julgado e as alegações da parte ou sua interpretação dos fatos.
+6. A análise das alegações quanto à natureza da atividade empresarial e à inexistência de tributos indiretos demandaria o reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+7. O embargante não faz jus ao benefício da redução do prazo prescricional pela metade, pois, na data da sentença, contava com 67 anos de idade.
+IV. DISPOSITIVO E TESE
+8. Embargos de declaração rejeitados e pedido de reconhecimento da prescrição indeferido.
+Tese de julgamento: "1. A omissão que autoriza embargos de declaração deve ser interna ao julgado, não entre o julgado e as alegações da parte. 2. A redução do prazo prescricional pela metade não se aplica se o embargante não tinha 70 anos na data da sentença".
+Dispositivos relevantes citados: CPP, art. 619; CP, art. 115; Lei nº 8.137/1990, art. 2º, II; LINDB, art. 20.
+Jurisprudência relevante citada: STF, RHC 163.334/SC, Rel. Min. Roberto Barroso, j. 18.12.2019.
+VOTO
+Presentes os requisitos de admissibilidade, conheço dos embargos de declaração.
+No mérito, contudo, a irresignação deixa de justificar-se, pois, a despeito de afirmar a ocorrência de vícios, o que pretende a parte é a rediscussão de matéria já analisada em virtude do resultado desfavorável.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão, o que inexiste na hipótese dos autos.
+O embargante sustenta que o acórdão foi omisso por não analisar as consequências práticas da decisão, conforme determina o art. 20 da LINDB.
+Não assiste razão ao embargante. O acórdão embargado analisou detidamente a questão da tipicidade da conduta prevista no art. 2º, II, da Lei n. 8.137/1990, destacando que, conforme jurisprudência consolidada do STJ e do STF, o crime se configura quando o contribuinte, de forma contumaz e com dolo de apropriação, deixa de repassar ao Fisco o imposto cobrado de terceiros.
+Portanto, inexiste omissão a ser sanada, tendo o acórdão embargado analisado adequadamente a questão da tipicidade da conduta, em consonância com a jurisprudência consolidada das Cortes Superiores. Nesse sentido:
+"DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+I. Caso em exame 1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental, sob alegação de omissão, contradição e erro de fato.
+II. Questão em discussão 2. A questão em discussão consiste em saber se há vício integrativo no acórdão que negou provimento ao agravo regimental.
+III. Razões de decidir 3. Os embargos de declaração visam suprir omissão, contradição, ambiguidade ou obscuridade, não se prestando para revisão do julgado por mero inconformismo. 4. O acórdão embargado declinou claramente as razões para o desprovimento do agravo regimental, com fundamento nas Súmulas 7 e 273/STJ e na preclusão. 5. A contradição tratada no art. 619 do CPP é somente aquela interna, entre as premissas e conclusões da própria decisão, e não a contradição entre a decisão e a interpretação que a parte dá aos fatos ou ao direito. 6. A omissão quanto à dosimetria da pena fica sanada, esclarecendo-se que a questão não foi analisada nesta instância por configurar inovação recursal no agravo regimental, em violação à preclusão consumativa, já que não foi suscitada no recurso especial.
+IV. Dispositivo e tese 7. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, apenas para sanar omissão quanto à dosimetria da pena.  ..
+(EDcl no AgRg no AREsp n. 2.674.957/SP, relat or Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025, grifei)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. QUANTIDADE E VARIEDADEDE DROGA APREENDIDA UTILIZADA PARA AUMENTAR A PENA EM DUAS FASES DISTINTAS DA DOSIMETRIA. BIS IN IDEM CONFIGURADO. MERA IRRESIGNAÇÃO. SUPOSTA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão a ser sanada no acórdão embargado.
+II - Na hipótese, não vislumbro qualquer vício existente no acórdão que negou provimento ao agravo regimental.
+III - Na espécie, à conta de omissão no acórdão, pretende o embargante a modificação do julgado que lhe desfavoreceu, portanto, traduz mero inconformismo com o que decidido nos autos.
+IV - Além disso, não compete ao STJ analisar suposta ofensa a dispositivos constitucionais, mesmo com a finalidade de prequestionamento, a teor do art. 102, III, da Constituição da República. V - Desse modo, não há que se falar em vício na decisão embargada, tão somente porque contrária aos interesses do embargante. Embargos de declaração rejeitados.
+(EDcl no AgRg no HC n. 766.503/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/3/2024, DJe de 15/3/2024.Grifei.)"
+Quanto à contradição entre a fundamentação do acórdão e o que foi demonstrado no recurso especial, especialmente quanto à natureza da atividade empresarial, que seria de confecção, não havendo tributos indiretos incidentes sobre a cadeia de produção, não assiste razão ao embargante. A contradição que autoriza a oposição de embargos de declaração é aquela interna ao julgado, entre suas premissas e conclusões, e não entre o julgado e as alegações da parte.
+O acórdão embargado foi coerente ao analisar a questão da tipicidade da conduta e concluir pela manutenção da condenação, com base nas provas dos autos e na jurisprudência consolidada sobre o tema.
+Ademais, a análise das alegações quanto à natureza da atividade empresarial e à inexistência de tributos indiretos demandaria o reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+Quanto ao pedido de reconhecimento da prescrição, com base no art. 115 do Código Penal, que prevê a redução pela metade dos prazos prescricionais quando o criminoso era menor de 21 anos ao tempo do crime ou maior de 70 anos na data da sentença, como bem pontuado pelo Ministério Público,verifica-se que o embargante não faz jus ao benefício.
+Conforme documentação juntada aos autos, o embargante nasceu em 14/11/1954 (e-STJ fl. 1883) e a sentença foi proferida em 19/8/2022 (e-STJ fls. 974-977). Constata-se, portanto, que, na data da sentença, o embargante contava com 67 anos de idade, não fazendo jus à redução do prazo prescricional.
+Assim, descaracteriza-se a prescrição da pretensão punitiva estatal.
+Ante o exposto, rejeito os embargos de declaração e indefiro o pedido de reconhecimento da prescrição.
+É o voto.
