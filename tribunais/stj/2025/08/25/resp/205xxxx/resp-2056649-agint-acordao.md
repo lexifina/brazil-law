@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS INTERCORRENTES AO MEIO AMBIENTE. CUMULAÇÃO COM OBRIGAÇÃO DE RESTAURAR A ÁREA. POSSIBILIDADE. PROVIMENTO NEGADO.
+1. A indenização por danos intercorrentes (interinos ou transitórios) é devida em decorrência dos prejuízos causados no período entre a data da ocorrência do dano e a data da efetiva recuperação da área em questão.
+2. Nos termos da Súmula 629 do STJ, quanto ao dano ambiental, é admitida a condenação do réu à obrigação de fazer ou à de não fazer cumulada com a de indenizar, motivo pelo qual o pagamento de indenização independe da possibilidade de reparação integral da área degradada.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por SÉRGIO LIMA DE ALMEIDA da decisão de minha relatoria de fls. 2.800/2.805.
+Em suas razões, a parte recorrente alega que o recurso especial não poderia ser provido sem a análise de fatos e provas, de maneira a incidir o óbice da Súmula 7 do Superior Tribunal de Justiça (STJ).
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 2.862/2.867).
+É o relatório.
+EMENTA
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS INTERCORRENTES AO MEIO AMBIENTE. CUMULAÇÃO COM OBRIGAÇÃO DE RESTAURAR A ÁREA. POSSIBILIDADE. PROVIMENTO NEGADO.
+1. A indenização por danos intercorrentes (interinos ou transitórios) é devida em decorrência dos prejuízos causados no período entre a data da ocorrência do dano e a data da efetiva recuperação da área em questão.
+2. Nos termos da Súmula 629 do STJ, quanto ao dano ambiental, é admitida a condenação do réu à obrigação de fazer ou à de não fazer cumulada com a de indenizar, motivo pelo qual o pagamento de indenização independe da possibilidade de reparação integral da área degradada.
+3. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Na origem, trata-se de recurso especial interposto pela parte ora agravada do acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 2.308):
+AMBIENTAL. AÇÃO CIVIL PÚBLICA. EDIFICAÇÃO EM COSTÃO E PROMONTÓRIO. DEMOLIÇÃO. RECUPERAÇÃO DA ÁREA. HONORÁRIOS. Mantida a sentença que determinou o desfazimento de estruturas edificadas em área de preservação permanente (costão e promontório), bem como a integral recuperação da área degradada. São devidos honorários advocatícios ao IBAMA quando vencedor em ação civil pública, não lhe sendo aplicável a isenção do artigo 18 da Lei nº 7.347/85.
+Ás fls. 2.800/2.805, dei provimento ao recurso especial, para reconhecer a possibilidade de condenação de SÉRGIO LIMA DE ALMEIDA ao pagamento de danos morais intercorrentes, a serem estabelecidos pelo Tribunal de origem.
+Não obstante a argumentação do ora agravante, não incide na hipótese o óbice da Súmula 7/STJ, pois o dano ambiental foi reconhecido nos seguintes termos (fl. 2.324):
+Embora se tenha alegado que havia já uma casa no imóvel na década de sessenta, época em que adquirido pelo genitor do réu, as únicas provas mais remotas trazidas aos autos não apontam com precisão a sua área. Na Escritura de Compra e Venda (Evento 37-OUT3, p. 3, da ACP do MPF), em que consta como adquirente Antônio Gomes de Almeida, há referência a uma "casa construída de material e respectivas benfeitorias, situadas no lugar Sambaqui, Distrito de Santo Antônio de Lisboa deste Município e do Domínio Útil do seu respectivo terreno que é de marinha", não se tendo apontado sua área.
+Em certidão emitida (em 08-04-1986) pela Prefeitura Municipal (Certidão n. 759) para efeito de lançamento tributário (IPTU) em nome de Antônio Gomes de Almeida (Evento 37, OUT17, p. 64), informou-se a existência de uma casa de alvenaria com área total de 70,11 m , um rancho de alvenaria de 18 m  e uma dependência de empregada de 15,05 m  (que teriam sido construídos em 1960).
+Na época da autuação feita pelo órgão ambiental (AI n. 448040-D lavrado em 23-01-2007), constatou-se que o réu particular estava prestes a construir casa, quadra de esportes, estacionamento e muro em área de preservação permanente e terreno de marinha (costão e promontório). O total da área construída foi indicado (no embargo) como sendo de 1.500 m . O imóvel foi embargado e a área continuou apenas com as estruturas de concreto e não foi finalizada, conforme relatado no RELATÓRIO TÉCNICO Nº 003/2019 - SPPEA e demonstrado pela foto acostada.
+Portanto, não há necessidade de qualquer discussão sobre a antiguidade da construção, já que não foi mantida, pois o réu resolveu erigir nova residência, além de outras estruturas na área. Nesse sentido, submete- se às normas ambientais vigentes. Assim, tanto na época da autuação e embargo (em 2007) como agora, no momento de prolação da sentença, não pode mais manter edificação no local, tendo em vista as normas já mencionadas anteriormente.
+À época da demolição da casa anterior e começo da obra (época da fiscalização em 2007), vigia a Lei n. 2.193/85, a qual considerava os costões e promontórios como área não edificantes. Por outro lado, mais recentemente, o novo Plano Diretor de Florianópolis continua a prever o promontório como área de preservação permanente (Lei Complementar n. 482/2014). Desse modo, o fato de ter existido casa antiga no local (em 1960), quando ainda não havia norma sobre a proibição de construção, não restitui ao réu particular o direito de reconstruí-la, nem mesmo em igual metragem da casa original. O réu colocou-a abaixo em 2007 e à época deveria se submeter às normas vigentes, não tão-somente às regras relativas aos terrenos de marinha (que permite apenas a reforma das casas já existentes no local), mas também aos dispositivos que definem área de preservação permanente e que proibem terminantemente a construção nesses locais. É disso que se trata o objeto da ação, da impossibilidade de construção em costão e promontório, o que foi já exaustivamente discutido na ação declaratória, cuja sentença foi confirmada em segunda instância e pelo STJ.
+A indenização por danos intercorrentes é devida em decorrência dos prejuízos causados no período entre a data da ocorrência do dano e a data da efetiva recuperação da área em questão. No presente caso, a constatação desses danos foi realizada pelo próprio Tribunal de origem, de modo que não incide a Súmula 7/STJ.
+Além disso, a Súmula 629/STJ admite a condenação do réu à obrigação de fazer ou à de não fazer cumulada com a de indenizar, quando da ocorrência de dano ambiental.
+Nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL E AMBIENTAL. AÇÃO CIVIL PÚBLICA. DESMATAMENTO ILEGAL (SUPRESSÃO DE FLORESTA NATIVA). DANOS MORAIS COLETIVOS. CONFIGURAÇÃO. PERTURBAÇÃO DA COLETIVIDADE E IRREPARABILIDADE DO AMBIENTE DEGRADADO. DESNECESSIDADE.
+ ..
+4. A eventual irreparabilidade do ambiente não afasta o dano já experimentado no período entre a degradação e sua restauração (dano intermediário, intercorrente ou transitório), de acordo com a orientação jurisprudencial desta Corte de Justiça.
+5. Agravo conhecido para dar provimento ao recurso especial do Ministério Público do Estado de Mato Grosso.
+(AREsp n. 2.376.184/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/5/2025, DJEN de 21/5/2025.)
+ADMINISTRATIVO. AMBIENTAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO AMBIENTAL. REPARAÇÃO INTEGRAL. NECESSIDADE. DANO INTERINO. INDENIZAÇÃO PECUNIÁRIA. POSSIBILIDADE. QUESTÃO DE DIREITO. SÚMULA 7/STJ. INAPLICABILIDADE. SANÇÃO ADMINISTRATIVA E RESTAURAÇÃO INTEGRAL DA ÁREA. CAUSAS E FINALIDADES DISTINTAS. RECURSO ESPECIAL CONHECIDO E PROVIDO. AGRAVO INTERNO PROVIDO.
+1. É de direito o debate quanto à necessidade de reparação dos danos ambientais já experimentados de forma inequívoca mesmo diante da restauração integral da área degradada.
+2. A reparação integral do dano ambiental não se confunde com a restauração integral da área degradada ao estado anterior. Esta somente afasta a indenização do dano residual, mas não afasta a indenização do dano interino, já definitivamente experimentado. A restauração futura da área, ainda que integral, em nada compensa esse dano interino, já certo e inequívoco, experimentado pela coletividade humana e pela própria natureza.
+3. A sanção administrativa, reconhecida pela origem como destinada a evitar a repetição futura do ilícito, tampouco compensa, impede ou afasta a indenização pecuniária pelo dano ambiental interino já experimentado.
+4. Agravo interno provido, para conhecer e dar provimento ao recurso especial, de modo a determinar a apuração do valor da indenização devida pelo dano ambiental interino em liquidação.
+(AgInt no AREsp n. 2.010.587/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 9/9/2024, DJe de 11/9/2024, sem destaque no original.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
