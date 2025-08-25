@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito processual civil. Agravo interno NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS à EXECUÇÃO. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA. DEMONSTRAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES E HIPOSSUFICIÊNCIA. NECESSIDADE. Agravo interno desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência que negou provimento ao agravo em recurso especial, com base nas Súmulas n. 282, 356 e 284 do STF, por ausência de prequestionamento e razões dissociadas dos fundamentos utilizados no aresto impugnado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a inversão do ônus da prova depende da análise da verossimilhança da alegação e da demonstração de hipossuficiência do consumidor.
+III. Razões de decidir
+3. A jurisprudência do STJ estabelece que a inversão do ônus da prova em relações consumeristas não é automática, exigindo a demonstração de verossimilhança das alegações e hipossuficiência do consumidor.
+4. A revisão das conclusões do Tribunal de origem sobre a ausência de verossimilhança e hipossuficiência demandaria reexame de matéria fático-probatória, o que é vedado em recurso especial pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento: "1. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ). 2. A revisão de matéria fático-probatória é vedada em recurso especial, conforme Súmula n. 7 do STJ".
+Dispositivos relevantes citados: CDC, art. 6º, VIII; CPC, art. 369.
+Jurisprudência relevante citada: STF, Súmulas n. 282, 284 e 356; STJ, Súmulas n. 7 e 83; STJ, AgInt no AREsp n. 2.604.539/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024; STJ, AgInt no AREsp n. 2.320.038/PI, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024.
+RELATÓRIO
+SUELLEN MENDES CHEVRAND DOS SANTOS interpõe agravo interno contra a decisão da Presidência que negou provimento ao agravo em recurso por ser incabível para tratar de questões constitucionais e pela incidência das Súmula n. 282, 356 e 284 do STF.
+A parte agravante sustenta que a fundamentação da decisão foi equivocada, pois não houve discussão de norma constitucional como fundamento principal do recurso.
+Alega que o art. 369 do CPC foi utilizado como demonstrativo, porquanto preceitua sobre o direito das partes de empregar meios legais para provar a verdade dos fatos.
+Sustenta a inaplicabilidade das Súmulas n. 284, 282 e 356 do STF, visto que o recurso especial advém de agravo de instrumento que busca redistribuir o ônus da prova devido à hipossuficiência da parte impugnante.
+Requer seja o agravo julgado pelo colegiado.
+Nas contrarrazões, a parte agravada defende que o agravo interno não deve ser conhecido, visto que a parte agravante não impugnou especificamente os fundamentos da decisão agravada (fls. 365-367).
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS à EXECUÇÃO. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA. DEMONSTRAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES E HIPOSSUFICIÊNCIA. NECESSIDADE. Agravo interno desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência que negou provimento ao agravo em recurso especial, com base nas Súmulas n. 282, 356 e 284 do STF, por ausência de prequestionamento e razões dissociadas dos fundamentos utilizados no aresto impugnado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a inversão do ônus da prova depende da análise da verossimilhança da alegação e da demonstração de hipossuficiência do consumidor.
+III. Razões de decidir
+3. A jurisprudência do STJ estabelece que a inversão do ônus da prova em relações consumeristas não é automática, exigindo a demonstração de verossimilhança das alegações e hipossuficiência do consumidor.
+4. A revisão das conclusões do Tribunal de origem sobre a ausência de verossimilhança e hipossuficiência demandaria reexame de matéria fático-probatória, o que é vedado em recurso especial pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento: "1. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ). 2. A revisão de matéria fático-probatória é vedada em recurso especial, conforme Súmula n. 7 do STJ".
+Dispositivos relevantes citados: CDC, art. 6º, VIII; CPC, art. 369.
+Jurisprudência relevante citada: STF, Súmulas n. 282, 284 e 356; STJ, Súmulas n. 7 e 83; STJ, AgInt no AREsp n. 2.604.539/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024; STJ, AgInt no AREsp n. 2.320.038/PI, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024.
+VOTO
+No que concerne à alegação de ofensa a dispositivo constitucional (art. 5º, LV, da Constituição Federal) e de violação do art. 369 do CPC, a decisão agravada merece ser mantida.
+Com efeito, refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+Incide também no caso os óbices das Súmulas n. 282 e 356 do STF, em relação à alegada violação do art. 369 do CPC, pois a questão referente à afronta ao artigo mencionado não foi objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração para tal fim.
+Por outro lado, razão assiste à parte agravante quanto à inaplicabilidade da Súmula n. 284 do STF no tocante à alegada violação do art. 6º, VIII, do CDC, já que a agravante desenvolveu argumentação pertinente com os fundamentos desenvolvidos pelo Tribunal de origem, de modo que a decisão de fls. 348-351, neste particular, deve ser reconsiderada.
+Procedo, pois, a novo exame de admissibilidade do recurso especial.
+Em nova análise, contudo, a irresignação do apelo nobre não reúne condições de prosperar.
+O recurso especial foi interposto por SUELLEN MENDES CHEVRAND DOS SANTOS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 2ª Região em agravo de instrumento nos autos de embargos à execução assim emendado (fl. 76):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. REQUERIMENTO GENÉRICO DE INVERSÃO DO ÔNUS DA PROVA. INDEFERIMENTO. 1. Trata-se recurso de agravo de instrumento contra decisão que indeferiu o requerimento de inversão do ônus da prova formulado pela Embargante, ora Agravante. 2. Embora sejam, em princípio, aplicadas as normas previstas no CDC às relações bancárias, como a possibilidade de inversão do ônus da prova (art. 6º, VIII, CDC), não são aceitas alegações genéricas, sem a devida comprovação da existência de cláusulas abusivas ou da onerosidade excessiva do contrato, bem como da violação do princípio da boa-fé e da vontade do contratante. Nessa perspectiva, a mera alegação genérica de que o caso em análise atrai a incidência do entendimento dominante legal com fulcro no CDC e nos ditames prescritos no STJ não se presta, por si só, a garantir a aplicação dessa disciplina normativa à presente hipótese concreta - o que inclui, por óbvio, o requerimento de inversão do ônus da prova -, sendo certo que, de todo modo, a mera adoção do CDC como disciplina legal não teria o condão de garantir a procedência das pretensões da embargante. 3 . In casu, cabe frisar que a Cédula de Crédito Bancária acostada aos autos da execução, acompanhada de planilha de evolução da dívida, reveste-se dos requisitos necessários para dar ensejo à presente ação de execução, pois há previsão do valor e da data da liberação do crédito, do valor e do número das prestações, bem como há previsão expressa acerca dos encargos incidentes tanto no período de normalidade contratual, quanto na hipótese de impontualidade dos pagamentos, restando indicada, igualmente, a data de início da inadimplência, estando presentes nos autos todos elementos necessários à defesa do réu não merecendo amparo, como visto, o requerimento de inversão do ônus da prova com base no argumento genérico da hipossuficiência do consumidor. 4. Agravo de instrumento desprovido. Prejudicada a análise do agravo interno.
+Os embargos de declaração opostos foram rejeitados (fl. 121).
+No recurso especial, a parte aponta violação do art. 6º, VIII, do CDC, porque o juízo de primeiro grau deveria ter invertido o ônus da prova, por se tratar de relação consumerista.
+Requer o provimento do recurso, determinando-se a remessa dos autos ao Juízo de primeiro grau para que sejam refeitos os atos processuais desde a fase de saneamento do processo, observando-se a inversão do ônus da prova.
+A controvérsia diz respeito a agravo de instrumento nos autos de embargos à execução, lastreada em Cédula de Crédito Bancário no valor de R$ 190.619,46, contra decisão que indeferiu o requerimento de inversão do ônus da prova.
+A Corte estadual concluiu que a inversão do ônus da prova não se aplica automaticamente apenas por se tratar de relação consumerista, sendo necessário que a parte demonstre a verossimilhança de suas alegações e sua hipossuficiência, o que não foi comprovado no caso, já que apenas fora apresentada fundamentação genérica.
+O Tribunal a quo destacou ainda que a Cédula de Crédito Bancário apresentada nos autos da execução contém todos os requisitos necessários, como valor, data de liberação do crédito, número de prestações e encargos, o que permite a apresentação de defesa pela recorrente. Confira-se trecho do acórdão recorrido (fl. 75):
+Quanto à aplicabilidade, in casu, do Código de Defesa do Consumidor, (CDC), entende esta Relatoria que, embora sejam, em princípio, aplicadas as normas previstas no CDC às relações bancárias, como a possibilidade de inversão do ônus da prova (art. 6º, VIII, CDC), não são aceitas alegações genéricas, sem a devida comprovação da existência de cláusulas abusivas ou da onerosidade excessiva do contrato, bem como da violação do princípio da boa-fé e da vontade do contratante.
+Nessa perspectiva, a mera alegação genérica de que o caso em análise atrai a incidência do entendimento dominante legal com fulcro no CDC e nos ditames prescritos no STJ não se presta, por si só, a garantir a aplicação dessa disciplina normativa à presente hipótese concreta - o que inclui, por óbvio, o requerimento de inversão do ônus da prova -, sendo certo que, de todo modo, a mera adoção do CDC como disciplina legal não teria o condão de garantir a procedência das pretensões da embargante.
+In casu, cabe frisar que a Cédula de Crédito Bancária acostada aos autos da execução, acompanhada de planilha de evolução da dívida, reveste-se dos requisitos necessários para dar ensejo à presente ação de execução, pois há previsão do valor e da data da liberação do crédito, do valor e do número das prestações, bem como há previsão expressa acerca dos encargos incidentes tanto no período de normalidade contratual, quanto na hipótese de impontualidade dos pagamentos, restando indicada, igualmente, a data de início da inadimplência, estando presentes nos autos todos elementos necessários à defesa do réu não merecendo amparo, como visto, o requerimento de inversão do ônus da prova com base no argumento genérico da hipossuficiência do consumidor.
+Conforme a jurisprudência do Superior Tribunal de Justiça, em se tratando de relação consumerista, a inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo.
+Incidência da Súmula 283 do STF.
+2. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+Precedentes.
+3. Derruir a conclusão do acórdão recorrido para verificar se o acervo probatório foi ou não suficiente para embasar o decisum atacado, e se estão presentes os requisitos necessários para a configuração da vulnerabilidade, a fim de desconstituir as conclusões a que chegou a Corte de origem, demandaria o revolvimento de matéria fático-probatória, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Precedentes.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.604.539/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA INTERNA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NATUREZA RELATIVA. PRECLUSÃO. AGRAVO DE INSTRUMENTO. RELAÇÃO DE CONSUMO. CONFIGURAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REVISÃO DO JULGADO. SÚMULA 7/STJ. INOVAÇÃO RECURSAL. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "a competência interna disciplinada no RISTJ é relativa, de modo que eventual incompetência do órgão ao qual distribuído o recurso deve ser alegada antes do início do respectivo julgamento, sob pena de preclusão" (AgInt nos EREsp n. 1.678.883/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 18/5/2022, DJe de 14/6/2022).
+2. A jurisprudência do Superior Tribunal de Justiça tem entendimento consolidado no sentido de que a aplicação do art. 6º, inciso VIII, do CDC não é automática e depende da análise, pelas instâncias ordinárias, da verossimilhança da alegação e da demonstração de hipossuficiência do consumidor.
+3. No caso, alterar a convicção alcançada pela Corte de origem, para acolher as teses recursais da insurgente (centralizadas nas alegações de inaplicabilidade das normas consumeristas ao caso e de não preenchimento dos requisitos necessários à inversão do ônus da prova), exige o reexame dos elementos fático-probatórios dos autos, o que é vedado em recurso especial pela Súmula 7 do Superior Tribunal de Justiça.
+4. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.320.038/PI, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+Como visto, o entendimento adotado no acórdão coincide com a jurisprudência do STJ, o que atrai a incidência da Súmula n. 83 do STJ.
+Ademais, rever as conclusões do Tribunal de origem, no sentido de que apresentou alegações genéricas e inverossímeis, deixando de aplicar a regra da inversão do ônus da prova, demandaria o necessário reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+A propósito: AgInt no AREsp n. 2.698.595/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2025, DJEN de 24/3/2025, e AgInt no AREsp n. 2.748.184/RJ, relator Ministro Carlos Cini Marchionatti, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025 .
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
