@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESPEJO. DISCUSSÃO ACERCA DA LEGALIDADE DA PERÍCIA TÉCNICA PRODUZIDA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal estadual afastou o argumento de nulidade da perícia com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+2. Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por RNA RESTAURANTES LTDA. (RNA) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado do Goiás, assim ementado:
+EMENTA: AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO MONITÓRIA.
+1. PRELIMINAR. CERCEAMENTO DE DEFESA. PREJUÍZO NÃO DEMONSTRADO. SÚMULA 28 DO TJGO.
+Nos termos da Súmula 28 deste egrégio Sodalício "afasta-se a preliminar de cerceamento de defesa, suscitada em razão do julgamento antecipado da lide, quando existem nos autos provas suficientes à formação do convencimento do juiz e a parte interessada não se desincumbe do ônus de demonstrar o seu prejuízo, sem o qual não há que se falar em nulidade". In casu, o magistrado formou entendimento pela suficiência do trabalho realizado pelo perito na apuração do valor devido pelo locatário ao locador. Logo, inexistente prejuízo no indeferimento de prova testemunhal, diante da extensa quantidade de documentos e oportunidade de ambas as partes de participar da elaboração da perícia contábil, como se observa entre as movimentações nº 105 a 170. Desta forma, sendo suficientes os elementos probatórios contidos nos autos para formação do convencimento do julgador, o indeferimento da produção de outras provas não caracteriza o cerceamento de defesa.
+2. DA PERÍCIA REALIZADA. JULGADOR COMO DESTINATÁRIO FINAL DA PROVA. AUSÊNCIA DE ELEMENTOS CAPAZES DE ILIDIR A CONCLUSÃO DA PERÍCIA.
+Nos termos do art. 370 do CPC, o juiz é o destinatário da prova, cabendo-lhe, através de seu poder discricionário, verificar a necessidade de realização de uma determinada prova, avaliando, sobretudo, o seu real proveito para o julgamento e a efetividade da prestação jurisdicional. No caso vertente, foi realizada a perícia contábil com amplo contraditório, uma vez que o perito em diversas oportunidades solicitou documentos às partes e chegou a apresentar 4 anexos complementares ao laudo principal, conforme movimentações nº 105 a 170. A irresignação da parte requerida, sem demonstrar vício nos fundamentos do trabalho técnico não tem o condão de ilidir a conclusão da perícia, uma vez que esta goza de presunção de veracidade, nos termos da jurisprudência sedimentada por esta colenda Cote Estadual. Destarte, apesar do inconformismo do apelante, o trabalho pericial no caso vertente, com laudo principal e 4 anexos, mostra-se suficientemente fundamentado e esclarecedor, incluindo as razões de não contabilizar as verbas suscitadas pelo réu/recorrente, por ausência de comprovação de quitação ou por não estar de acordo com o contrato celebrado entre as partes. E malgrado tenha sido apontada inconclusividade pelo apelante, o perito foi extremamente objetivo ao estabelecer que a dívida do locatário era de R$ 248.214,58 (duzentos e quarenta e oito mil, duzentos e quatorze reais e cinquenta e oito centavos), em 12.12.2022, conforme anexo III, movimentação nº 159 dos autos.
+3. AUSÊNCIA DE ARGUMENTOS NOVOS.
+É medida imperativa o desprovimento do Agravo Interno quando não se fazem presentes, em suas razões, qualquer novo argumento que justifique a modificação da decisão agravada.
+AGRAVO INTERNO CONHECIDO MAS DESPROVIDO (e-STJ, fls. 1.836/1.837).
+No presente inconformismo, RNA defendeu que não incide o óbice da Súmula n. 7 do STJ.
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESPEJO. DISCUSSÃO ACERCA DA LEGALIDADE DA PERÍCIA TÉCNICA PRODUZIDA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal estadual afastou o argumento de nulidade da perícia com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+2. Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alíneas a e c, da CF, RNA alegou a violação dos arts. 35 da Lei n. 8.245/91 e 473 do CPC, ao sustentar que o laudo pericial juntado aos autos deve ser desconsiderado por não abordar de forma completa os pontos relevantes e deixando de apresentar valores gastos com reforma do imóvel que se pretende utilizar para o abatimento dos aluguéis devidos.
+Sobre o tema, o TJGO consignou a higidez da perícia técnica realizada, com amplo contraditório e suficiente fundamentação.
+Confira-se:
+02. DA PERÍCIA REALIZADA. JULGADOR COMO DESTINATÁRIO FINAL DA PROVA. AUSÊNCIA DE ELEMENTOS CAPAZES DE ILIDIR A CONCLUSÃO DA PERÍCIA.
+Sobre o tema, vale destacar que a legislação processual vigente estabelece que é ônus do autor comprovar os fatos que alicerçam sua pretensão, enquanto recai sobre o réu o dever de demonstrar fatos impeditivos, modificativos ou extintivos do direito alegado pela parte adversa. Neste sentindo, segue o disposto no art. 373 do CPC, in verbis:
+ .. .
+Outrossim, salienta-se que diante dos fatos narrados e a teor do artigo 370 do Código de Processo Civil, cabe ao magistrado singular decidir até que ponto as provas solicitadas serão necessárias à formação do seu convencimento sobre a demanda, senão vejamos:
+ .. .
+Assim, conclui-se que o juiz é o destinatário da prova, cabendo-lhe, através de seu poder discricionário, verificar a necessidade de realização de uma determinada prova, avaliando, sobretudo, o seu real proveito para o julgamento e a efetividade da prestação jurisdicional.
+No caso vertente, foi realizada a perícia contábil com amplo contraditório, uma vez que o perito em diversas oportunidades solicitou documentos às partes e chegou a apresentar 4 anexos complementares ao laudo principal, conforme movimentações nº 105 a 170.
+A irresignação da parte requerida, sem demonstrar vício nos fundamentos do trabalho técnico não tem o condão de ilidir a conclusão da perícia, uma vez que esta goza de presunção de veracidade, nos termos da jurisprudência sedimentada por esta colenda Cote Estadual, ad litteram:
+ .. .
+Destarte, apesar do inconformismo do apelante, o trabalho pericial no caso vertente, com laudo principal e 4 anexos, mostra-se suficientemente fundamentado e esclarecedor, incluindo as razões de não contabilizar as verbas suscitadas pelo réu/recorrente, por ausência de comprovação de quitação ou por não estar de acordo com o contrato celebrado entre as partes.
+E malgrado tenha sido apontada inconclusividade pelo apelante, o perito foi extremamente objetivo ao estabelecer que a dívida do locatário era de R$ 248.214,58 (duzentos e quarenta e oito mil, duzentos e quatorze reais e cinquenta e oito centavos), em 12.12.2022, conforme anexo III, movimentação nº 159 dos autos. (e-STJ, fls. 1.842/1.845)
+Assim, rever as conclusões quanto à ausência de vício da prova técnica produzida demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. NULIDADE PERICIAL. AUSÊNCIA DE IRREGULARIDADES. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 3. TAXA CDI. UTILIZAÇÃO COMO CORREÇÃO MONETÁRIA. INADMISSIBILIDADE. ÍNDICE QUE NÃO REFLETE A DESVALORIZAÇÃO DA MOEDA, MAS UMA REMUNERAÇÃO DEVIDA EM EMPRÉSTIMOS INTERBANCÁRIOS. 4. SEGURO PRESTAMISTA. CONTRATAÇÃO. LIBERDADE DE ESCOLHA. IMPRESCIDINBILIDADE. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INVIABILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. O Tribunal estadual afastou o argumento de nulidade da perícia com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+3. O entendimento consolidado desta Corte Superior não admite a utilização do CDI como índice de correção monetária em virtude da sua natureza remuneratória.
+4. O Tribunal estadual concluiu que o instrumento contratual apenas permitia a escolha de se contratar o seguro com seguradora ligada à instituição financeira, não facultando aos autores a contratação em outros termos. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória e interpretação de cláusula contratual, em afronta às Súmulas n. 5 e 7 do STJ.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(AREsp n. 2.713.106/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025 )
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de CONDOMÍNIO DO EDIFÍCIO CRYSTAL PLACE, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+É o voto.
