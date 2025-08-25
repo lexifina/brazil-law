@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, conhecer parcialmente do recurso e, nessa parte, dar-lhe parcial provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. DANO AMBIENTAL. BRUMADINHO. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. PARTE AUTORA. FATOS CONSTITUTIVOS DE SEU DIREITO. NEXO CAUSAL. PROVA MÍNIMA. SÚMULA 83/STJ. INVERSÃO DO ÔNUS DA PROVA. NÃO DETERMINADA NA ORIGEM. CARÊNCIA DE INTERESSE RECURSAL. MULTA DO ART. 1.021, § 4º, DO CPC. AFASTAMENTO.
+1. Nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos (AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+2. Na hipótese, não merece reforma o acórdão recorrido por estar em conformidade com a atual e pacífica jurisprudência do STJ. Incidência da Súmula 83 do STJ.
+3. Observa-se que carece de interesse recursal o presente recurso, porquanto não houve a inversão do ônus da prova quanto aos fatos constitutivos do direito do autor e do nexo causal entre a atuação da parte ré e os alegados prejuízos, apenas para os danos ambientais, ao contrário do que alega a recorrente.
+4. "Não há interesse recursal quando o acórdão recorrido decidiu em conformidade com a pretensão formulada no recurso especial" (AREsp n. 2.797.656/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025).
+5. A jurisprudência desta Corte entende que o mero manejo do agravo interno não enseja a aplicação automática da referida sanção processual, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+Recurso especial conhecido em parte e provido em parte apenas para afastar a multa .
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por VALE S.A., com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que julgou demanda relativa à indenização em decorrência de rompimento da barragem de Brumadinho.
+O julgado negou provimento ao recurso de agravo de instrumento do recorrente nos termos da seguinte ementa (fl. 853):
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - ROMPIMENTO DE BARRAGEM EM BRUMADINHO - PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO - PRELIMINAR REJEITADA - INVERSÃO DO ÔNUS DA PROVA - DANO AMBIENTAL - SÚMULA 618/STJ - POSSIBILIDADE.
+I - Tratando-se de matéria ambiental, a Súmula 618 do c. Superior Tribunal de Justiça estabelece que: "A inversão do ônus da prova aplica-se às ações de degradação ambiental".
+II - Nesse sentido, aplica-se a Teoria do Risco Integral, a qual atribui ao poluidor o ônus de fazer prova da segurança de seu empreendimento e de que sua atividade não é potencialmente lesiva ao meio ambiente.
+III- Não há imposição de encargo probatório indevido à ré, mostrando-se possível a inversão do ônus da prova em relação aos danos ambientais.
+IV - É de notório conhecimento que o rompimento da barragem da Ré/Agravante na cidade de Brumadinho/MG causou grave dano ambiental à região. Nesse sentido, em relação aos danos individuais, incumbe à parte autora/Agravada fazer prova de que foram de fato causados pelo rompimento da barragem, nos termos do art. 373, I, do CPC, ônus do qual a decisão agravada não a desincumbiu.
+Rejeitados os embargos de declaração opostos (fls. 921-924).
+Diante a interposição de agravo interno na origem, manifestamente improcedente, bem como de embargos de declaração considerados como protelatórios, a Corte de origem aplicou as multas previstas no § 2º do art. 1.026 e no art. 1.021, § 4º, ambos do CPC (fls. 964-972).
+No presente recurso especial, a recorrente alega violação do art. 6º, VIII, c/c o art. 17, todos do Código de Defesa ao Consumidor e do art. 373, § 2º, do Código de Processo Civil.
+Aduz que "a inversão do ônus da prova aplicável aos danos ambientais puros e simples não se aplica aos danos individuais, ainda que reflexos. Isso porque o dano individual não provém necessariamente do dano ambiental em si, mas a partir de uma conduta danosa da empresa poluidora" (fl. 988).
+Sustenta, outrossim, que o caso trata de indenização por suposta desvalorização de imóvel e danos morais pela alegada impossibilidade de fazer uso das águas do Rio Paraopeba para lazer. Afirma a recorrente que "não há que se falar em inversão de ônus para demonstrar aquilo que competia ao autor demonstrar" (fl. 991).
+Sem contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 1.025-1.027).
+É, no essencial, o relatório.
+EMENTA
+RECURSO ESPECIAL. DANO AMBIENTAL. BRUMADINHO. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. PARTE AUTORA. FATOS CONSTITUTIVOS DE SEU DIREITO. NEXO CAUSAL. PROVA MÍNIMA. SÚMULA 83/STJ. INVERSÃO DO ÔNUS DA PROVA. NÃO DETERMINADA NA ORIGEM. CARÊNCIA DE INTERESSE RECURSAL. MULTA DO ART. 1.021, § 4º, DO CPC. AFASTAMENTO.
+1. Nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos (AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+2. Na hipótese, não merece reforma o acórdão recorrido por estar em conformidade com a atual e pacífica jurisprudência do STJ. Incidência da Súmula 83 do STJ.
+3. Observa-se que carece de interesse recursal o presente recurso, porquanto não houve a inversão do ônus da prova quanto aos fatos constitutivos do direito do autor e do nexo causal entre a atuação da parte ré e os alegados prejuízos, apenas para os danos ambientais, ao contrário do que alega a recorrente.
+4. "Não há interesse recursal quando o acórdão recorrido decidiu em conformidade com a pretensão formulada no recurso especial" (AREsp n. 2.797.656/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025).
+5. A jurisprudência desta Corte entende que o mero manejo do agravo interno não enseja a aplicação automática da referida sanção processual, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+Recurso especial conhecido em parte e provido em parte apenas para afastar a multa .
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cinge-se a controvérsia a estabelecer o cabimento de inversão do ônus da prova em caso de comprovação dos danos individuais decorrente de indenização por dano ambiental.
+Nos termos da jurisprudência pacífica do STJ, "tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova" (AgInt no REsp n. 1.760.614/RO, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/4/2019, D Je de 22/5/2019).
+Contudo, a inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos (AgInt no R Esp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+A propósito, cito a ementa do referido julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DANO AMBIENTAL. ATIVIDADE PESQUEIRA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. CAUSADOR. PARTE AUTORA. FATOS CONSTITUTIVOS. NEXO CAUSAL. PROVA MÍNIMA. INVERSÃO DO ÔNUS DA PROVA. CIRCUNSTÂNCIAS. ANÁLISE. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Cabe ao suposto causador do dano ambiental à atividade pesqueira comprová-los.
+2. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos.
+3. A análise acerca da existência ou não de circunstâncias que ensejam a inversão do ônus da prova é feita no caso concreto, o que não pode ser revisto por esta Corte em virtude do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+No caso dos autos, entretanto, verifica-se que o acórdão recorrido não se afastou da jurisprudência desta Corte, porquanto decidiu no seguinte sentido (fls. 860-861):
+No presente caso, a decisão agravada determina a inversão do ônus da prova apenas em relação aos danos de ordem ambiental:
+"Quanto à inversão do ônus da prova, apesar de possível, nos termos da Súmula 618 do STJ, ela se limita à demonstração, pelo poluidor, da não ocorrência do dano ambiental ou que a sua atividade não é potencialmente lesiva ao meio ambiente. Em outras palavras, a inversão do ônus da prova, que ora defiro, não exime a parte autora de demonstrar o dano alegadamente sofrido e o nexo de causalidade."
+Nesse sentido, a inversão do ônus da prova, conforme determinado in casu, não diz respeito aos danos individuais suportados pela parte autora, mas tão somente aos danos ambientais causados pela ré/Agravante, cuja prova lhe compete, nos termos da Súmula 618 do Superior Tribunal de Justiça.
+Verifico, pois, que não há imposição de encargo probatório indevido à ré, mostrando-se possível a inversão do ônus da prova em relação aos danos ambientais. É de notório conhecimento que o rompimento da barragem da Ré/Agravante na cidade de Brumadinho/MG causou grave dano ambiental à região.
+Assim, no que se refere aos danos individuais alegados, incumbe à parte autora/Agravada fazer prova de que foram de fato causados pelo rompimento da barragem, nos termos do art. 373, I, do CPC, ônus do qual a decisão Agravada não a desincumbiu, eis que consignou: "Em outras palavras, a inversão do ônus da prova, que ora defiro, não exime a parte autora de demonstrar o dano alegadamente sofrido e o nexo de causalidade.".
+Desse modo, quanto aos danos individuais, objeto da presente demanda, o ônus da prova não foi distribuído de forma distinta da ordinária, cabendo à autora proceder à demonstração dos fatos constitutivos do direito invocado. Mostra-se, portanto, acertada a decisão agravada que deferiu a inversão do ônus da prova, tão somente quanto aos danos ambientais.
+Desse modo, não merece reforma o acórdão recorrido por estar em conformidade com a atual e pacífica jurisprudência do STJ. Incidência da Súmula 83 do STJ.
+A propósito, cito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA. PREJUDICIALIDADE ENTRE AÇÃO INDIVIDUAL E COLETIVA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL DA PRETENSÃO INDIVIDUAL. SÚMULA 83/STJ. INVERSÃO DO ÔNUS PROBATÓRIO. PROVA DOS FATOS CONSTITUTIVOS. NECESSIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Na hipótese, a Corte estadual, ao assentar a relação de prejudicialidade entre a ação individual e a coletiva, como causa de interrupção do curso do prazo prescricional da pretensão individual, decidiu em sintonia com o entendimento do STJ. Precedentes.
+3. Conforme entendimento desta Corte Superior, a inversão do ônus da prova não exime a parte autora da prova mínima sobre os fatos constitutivos do seu direito e do nexo entre a atuação da parte ré e os alegados prejuízos.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.172.151/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÔNUS DA PROVA EM AÇÃO DE DANO AMBIENTAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. SÚMULA 7/STJ. ARGUMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, em ação indenizatória por dano ambiental, onde se discute a inversão do ônus da prova. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a inversão do ônus da prova, aplicada aos danos ambientais, pode ser estendida aos danos individuais alegados na ação. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ é firme no sentido de que, em ações de dano ambiental, a responsabilidade é objetiva, com base na teoria do risco integral, permitindo a inversão do ônus da prova.
+4. A decisão agravada concluiu que a inversão do ônus da prova ocorreu apenas para os danos ambientais, permanecendo a comprovação dos danos individuais a cargo da parte autora.
+5. A revisão das conclusões do acórdão recorrido demandaria incursão no acervo fático-probatório, o que é vedado em recurso especial, conforme a Súmula 7 do STJ.
+6. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza a apreciação do recurso especial, conforme a Súmula 283 do STF.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp n. 2.626.135/MG, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+Ademais, observa-se que carece de interesse recursal o presente recurso, porquanto, como se depreende do trecho do acórdão supra transcrito, não houve a inversão do ônus da prova quanto aos fatos constitutivos do direito do autor e do nexo causal entre a atuação da parte ré e os alegados prejuízos, apenas para os danos ambientais, ao contrário do que alega a recorrente, que assim argumentou (fl. 1.000):
+No presente caso não se discute a respeito dos alegados danos ambientais decorrentes da atividade da Embargante ou dos desdobramentos do rompimento da Barragem I da Mina do Córrego do Feijão em Brumadinho/MG, mas sim de alegados danos na esfera particular da parte Embargada, razão pela qual padeceria a inversão do ônus da prova quanto aos alegados danos ambientais nos termos da Súmula 618 do STJ.
+Verifica-se, assim, que a argumentação apresentada perante esta Corte já se encontrava superada no Tribunal de origem, e em conformidade com a pretensão formulada no recurso especial. Carente, portanto, o interesse recursal, razão pela qual não se conhece do presente recurso .
+Nesse sentido, cito :
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO DE VEÍCULO. APLICAÇÃO DO CDC. INTERESSE RECURSAL. AUSÊNCIA. INVERSÃO DO ÔNUS DA PROVA. RESPONSABILIDADE OBJETIVA. ILIQUIDEZ. FALTA DE INFORMAÇÃO. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA N. 282 DO STF. JUROS REMUNERATÓRIOS. INFERIORES À TAXA DE MERCADO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. COBRANÇA INDEVIDA. AUSÊNCIA. REPETIÇÃO DE INDÉBITO. INADMISSÍVEL.
+1. Não há interesse recursal quando o acórdão recorrido decidiu em conformidade com a pretensão formulada no recurso especial.
+2. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial e sobre os quais não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto na Súmula n. 282 do STF.
+3. O acórdão vergastado assentou que não eram abusivos juros remuneratórios cobrados, inferiores à taxa média de mercado. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n. 7 do STJ.
+4. Ausente a cobrança indevida, não há que se falar em repetição de indébito.
+5. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(AREsp n. 2.797.656/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025; grifei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA REGRESSIVA. VIOLAÇÃO DE RESOLUÇÃO. DESCABIMENTO DO RECURSO ESPECIAL. NÃO COMPROVAÇÃO DO NEXO DE CAUSALIDADE E EXISTÊNCIA DE EXCLUDENTE DE RESPONSABILIDADE. SÚMULA 7/STJ. INAPLICABILIDADE DO CDC. SÚMULA 283/STF. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE INTERESSE RECURSAL. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Não cabe recurso especial contra suposta violação de resolução, uma vez que tal norma não se enquadra no conceito de lei federal.
+2. Para o acolhimento das teses de existência de excludente de responsabilidade e falta de nexo causal, seria imprescindível derruir as conclusões contidas no decisum atacado, o que forçosamente demandaria nova incursão no conjunto fático-probatório, incidindo, na espécie, a Súmula 7 deste Tribunal Superior a impedir o conhecimento do recurso especial.
+3. A subsistência de fundamento não atacado (sub-rogação da seguradora nos direitos do consumidor) apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Carece a recorrente de interesse recursal com relação à alegada inversão do ônus da prova, tendo em vista a inexistência da referida inversão.
+5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.556.128/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/9/2020, DJe de 7/10/2020; grifei.)
+Por fim, quanto à aplicação da multa prevista no art. 1.021, § 4º, do CPC, a jurisprudência desta Corte entende que o mero manejo do agravo interno não enseja a aplicação automática da referida sanção processual, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PAGAMENTO VOLUNTÁRIO. NÃO EQUIPARAÇÃO. INCIDÊNCIA. MULTA. HONORÁRIOS. ART. 523 DO CÓDIGO DE PROCESSO CIVIL. LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REEXAME. SÚMULA Nº 7/STJ. MULTA. ARTIGO 1021 DO CPC. INAPLICABILIDADE
+1. Nos termos da jurisprudência desta Corte, em execução, o depósito judicial ou o oferecimento de seguro apenas para garantia do juízo não exime o executado da multa e dos honorários previstos no art. 523, § 1º, do CPC, visto não configurarem pagamento voluntário; ou seja, não perfazem o adimplemento voluntário da obrigação.
+Precedentes.
+2. Impossibilidade de conhecimento do recurso quanto ao pretendido afastamento da multa por litigância de má-fé, por depender do reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula nº 7/STJ.
+3. É incabível a aplicação da multa prevista no § 4º do art. 1.021 do CPC, requerida nas contrarrazões, pois a referida penalidade não é automática, por não se tratar de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.751.779/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+No entanto, desde já se adverte que a utilização de expedientes voltados meramente para a rediscussão do acerto do julgado poderá caracterizar o aludido caráter manifestamente procrastinatório, ensejando a aplicação de penalidades legais.
+Ante o exposto, conheço em parte do recurso especial e dou-lhe provimento em parte tão somente para afastar a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É como penso. É como voto.
