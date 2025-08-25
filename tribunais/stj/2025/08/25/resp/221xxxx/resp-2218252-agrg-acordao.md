@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. DECISÃO DE PRONÚNCIA. EXCLUSÃO DA QUALIFICADORA DO MOTIVO FÚTIL. POSSIBILIDADE. MANIFESTA IMPROCEDÊNCIA. CONTEXTO DE AGRESSÕES MÚTUAS E PROLONGADA LUTA CORPORAL. SOBERANIA DOS VEREDICTOS PRESERVADA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo, assim, o acórdão do Tribunal de Justiça que confirmou a exclusão da qualificadora do motivo fútil da decisão de pronúncia da ré.
+II. Questão em discussão
+2. A controvérsia cinge-se em verificar o acerto da decisão que, em sede de pronúncia, afastou a qualificadora do motivo fútil (art. 121, § 2º, II, do CP), por considerá-la manifestamente improcedente, diante de um cenário fático de histórico de agressões recíprocas e de uma luta corporal prolongada e intensa entre a ré e a vítima, imediatamente anterior ao desfecho fatal.
+III. Razões de decidir
+3. A jurisprudência desta Corte Superior é firme no sentido de que a exclusão de qualificadoras na fase da pronúncia somente é admitida quando manifestamente improcedentes ou inteiramente descabidas, sob pena de usurpação da competência do Tribunal do Júri.
+4. Não obstante a regra geral de preservação das qualificadoras para apreciação pelo Conselho de Sentença, é dever do magistrado, nas instâncias ordinárias, afastar aquelas que se revelem, de plano, divorciadas do conjunto probatório.
+5. No caso concreto, a qualificadora do motivo fútil é, de fato, manifestamente improcedente. A prova dos autos, conforme assentado desde o primeiro grau e mantido na decisão agravada, demonstra que o homicídio não derivou de um motivo banal, insignificante ou desproporcional, mas foi o clímax de um histórico de desentendimentos e de uma luta corporal que se estendeu por, no mínimo, meia hora, com agressões mútuas, na qual a vítima chegou a agarrar o pescoço da ré.
+6. O contexto fático de um combate físico intenso e prolongado afasta a noção de futilidade, pois a ação delitiva não se liga a uma razão trivial, mas sim à própria contenda corporal em que ré e vítima se envolveram.
+7. A decisão agravada, ao manter a exclusão da qualificadora, não destoa da jurisprudência desta Corte, pois não se baseou na mera existência de uma discussão anterior, mas sim em um quadro de agressões recíprocas e imediatas que torna a imputação de futilidade manifestamente improcedente.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: É cabível a exclusão da qualificadora do motivo fútil na decisão de pronúncia quando esta se mostrar manifestamente improcedente, notadamente nos casos em que o conjunto probatório demonstra, de forma inequívoca, que o homicídio ocorreu no contexto de uma luta corporal intensa, prolongada e com agressões recíprocas, afastando a caracterização de motivação banal ou insignificante.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO contra decisão monocrática (e-STJ fls. 660-665) que negou provimento ao seu recurso especial.
+Consta que a decisão monocrática ora agravada manteve o acórdão do Tribunal de Justiça do Estado de Mato Grosso, que, por sua vez, preservou a decisão de pronúncia que afastou a qualificadora do motivo fútil imputada a VALDECI FRANCISCA DE JESUS.
+Em suas razões, o agravante sustenta que a decisão merece reforma, pois a exclusão da qualificadora na fase de pronúncia somente seria possível em caso de manifesta improcedência, o que, no seu entender, não ocorre nos autos. Argumenta que a existência de desentendimento anterior entre a ré e a vítima não é suficiente, por si só, para afastar a qualificadora, devendo a questão ser submetida ao Conselho de Sentença.
+Em contrarrazões apresentadas pela Defensoria Pública do Estado de Mato Grosso (e-STJ fls. 689-693), pugna a agravada pelo desprovimento do recurso. Sustenta que a decisão monocrática foi escorreita, uma vez que o afastamento da qualificadora encontra amparo na jurisprudência desta Corte para casos em que ela se mostra manifestamente improcedente, como na hipótese dos autos, caracterizada por um histórico de agressões mútuas e uma contenda corporal que antecedeu o crime.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. DECISÃO DE PRONÚNCIA. EXCLUSÃO DA QUALIFICADORA DO MOTIVO FÚTIL. POSSIBILIDADE. MANIFESTA IMPROCEDÊNCIA. CONTEXTO DE AGRESSÕES MÚTUAS E PROLONGADA LUTA CORPORAL. SOBERANIA DOS VEREDICTOS PRESERVADA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo, assim, o acórdão do Tribunal de Justiça que confirmou a exclusão da qualificadora do motivo fútil da decisão de pronúncia da ré.
+II. Questão em discussão
+2. A controvérsia cinge-se em verificar o acerto da decisão que, em sede de pronúncia, afastou a qualificadora do motivo fútil (art. 121, § 2º, II, do CP), por considerá-la manifestamente improcedente, diante de um cenário fático de histórico de agressões recíprocas e de uma luta corporal prolongada e intensa entre a ré e a vítima, imediatamente anterior ao desfecho fatal.
+III. Razões de decidir
+3. A jurisprudência desta Corte Superior é firme no sentido de que a exclusão de qualificadoras na fase da pronúncia somente é admitida quando manifestamente improcedentes ou inteiramente descabidas, sob pena de usurpação da competência do Tribunal do Júri.
+4. Não obstante a regra geral de preservação das qualificadoras para apreciação pelo Conselho de Sentença, é dever do magistrado, nas instâncias ordinárias, afastar aquelas que se revelem, de plano, divorciadas do conjunto probatório.
+5. No caso concreto, a qualificadora do motivo fútil é, de fato, manifestamente improcedente. A prova dos autos, conforme assentado desde o primeiro grau e mantido na decisão agravada, demonstra que o homicídio não derivou de um motivo banal, insignificante ou desproporcional, mas foi o clímax de um histórico de desentendimentos e de uma luta corporal que se estendeu por, no mínimo, meia hora, com agressões mútuas, na qual a vítima chegou a agarrar o pescoço da ré.
+6. O contexto fático de um combate físico intenso e prolongado afasta a noção de futilidade, pois a ação delitiva não se liga a uma razão trivial, mas sim à própria contenda corporal em que ré e vítima se envolveram.
+7. A decisão agravada, ao manter a exclusão da qualificadora, não destoa da jurisprudência desta Corte, pois não se baseou na mera existência de uma discussão anterior, mas sim em um quadro de agressões recíprocas e imediatas que torna a imputação de futilidade manifestamente improcedente.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: É cabível a exclusão da qualificadora do motivo fútil na decisão de pronúncia quando esta se mostrar manifestamente improcedente, notadamente nos casos em que o conjunto probatório demonstra, de forma inequívoca, que o homicídio ocorreu no contexto de uma luta corporal intensa, prolongada e com agressões recíprocas, afastando a caracterização de motivação banal ou insignificante.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No mérito, contudo, inexistem elementos que justifiquem a reconsideração do julgado. A decisão monocrática agravada, ao analisar detidamente as teses recursais, aplicou corretamente a jurisprudência desta Corte Superior, devendo ser mantida por seus próprios e jurídicos fundamentos, os quais reitero e adoto.
+Com efeito, extrai-se que o cerne da insurgência do Ministério Público agravante repousa na tese de que a exclusão da qualificadora do motivo fútil, na fase de pronúncia, teria usurpado a competência do Tribunal do Júri.
+De fato, a jurisprudência pacífica do Superior Tribunal de Justiça orienta que as qualificadoras só devem ser subtraídas da apreciação do Conselho de Sentença quando se revelarem manifestamente improcedentes ou de todo descabidas.
+Contudo, é precisamente essa a hipótese dos autos.
+A decisão de pronúncia, confirmada pelo Tribunal de Justiça e mantida pela decisão monocrática ora hostilizada, não afastou a qualificadora com base em mera presunção ou em análise superficial. Pelo contrário, amparou-se em elementos concretos e incontroversos extraídos da prova testemunhal, em especial do depoimento da única testemunha ocular, que dão conta de que ré e vítima estavam em luta corporal por, no mínimo, meia hora antes do homicídio.
+Ademais, foi consignado que a relação entre as partes era marcada por um histórico de violência física recíproca e que, durante a contenda, a vítima estava "agarrado no pescoço na ré". Este cenário fático descaracterizaria, de plano, a futilidade da motivação.
+Cabe ponderar que o motivo fútil é aquele insignificante, banal, flagrantemente desproporcional ao crime praticado. A situação descrita nos autos não é de uma agressão letal originada por um gracejo, uma dívida ínfima ou quaisquer outros motivos banais. Trata-se de um homicídio que culmina um episódio de combate físico intenso, prolongado e mútuo. A motivação, nesse contexto, confunde-se com a própria dinâmica da briga, não podendo, no sentido do acórdão, ser classificada como trivial.
+Ademais, diferentemente do que alega o agravante, a decisão não se fundamentou na "mera existência de desavença anterior", mas sim na natureza da contenda imediata que precedeu a morte. Submeter ao Júri uma qualificadora tão evidentemente divorciada da realidade probatória seria impor à defesa um ônus indevido e macular o julgamento com uma imputação que carece de substrato fático mínimo.
+Portanto, a exclusão da qualificadora, no caso concreto, não representara usurpação da competência do Júri, mas sim o devido cumprimento, pelo Poder Judiciário, do dever de filtrar as acusações, submetendo ao Conselho de Sentença apenas aquilo que encontra respaldo razoável nos autos. Aliás, esta Corte já compreendeu de forma semelhante:
+"DIREITO PENAL. AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO. DECOTE DE QUALIFICADORA. AUSÊNCIA DE RESPALDO PROBATÓRIO. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, mas concedeu a ordem de ofício para determinar o decote da qualificadora do motivo torpe.
+2. A parte agravante sustenta que o motivo torpe encontra respaldo no interrogatório inquisitorial da ré, que teria afirmado maltratar a vítima por não se sentir valorizada, e alega usurpação da competência do Conselho de Sentença.
+II. Questão em discussão3. A questão em discussão consiste em saber se a qualificadora do motivo torpe pode ser mantida na decisão de pronúncia, considerando a ausência de elementos probatórios concretos que a sustentem.
+III. Razões de decidir
+4. A qualificadora do motivo torpe não encontra suporte mínimo nos elementos probatórios dos autos, sendo baseada em mera conjectura do órgão acusador.
+5. A motivação de um delito deve ser extraída do conjunto probatório de forma clara e inequívoca, não por ilações ou deduções divorciadas do acervo fático.
+6. A exclusão de qualificadoras manifestamente improcedentes não constitui usurpação da competência do Tribunal do Júri, conforme jurisprudência consolidada.
+IV. Dispositivo e tese7. Agravo regimental desprovido.
+Tese de julgamento: "1. A qualificadora do motivo torpe deve ser excluída quando não há suporte probatório mínimo que a sustente. 2.
+A exclusão de qualificadoras manifestamente improcedentes não constitui usurpação da competência do Tribunal do Júri".
+Dispositivos relevantes citados: CRFB/1988, art. 5º, XXXVIII.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1977510 SP, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 08.03.2022; STJ, AgRg no REsp 1643923 RS, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 10.04.2018.
+(AgRg no HC n. 965.762/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES TENTADO. PRONÚNCIA. QUALIFICADORA. RECURSO QUE DIFICULTOU OU IMPOSSIBILITOU A DEFESA DA VÍTIMA. AFASTAMENTO. MANIFESTA IMPROCEDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pronúncia configura um mero juízo de admissibilidade da acusação, razão pela qual basta que o Juiz esteja convencido da materialidade do delito e da existência de indícios suficientes de autoria ou de participação para que o acusado seja pronunciado, consoante o disposto no art. 413 do Código de Processo Penal.
+2. Somente é cabível a exclusão das qualificadoras na decisão de pronúncia quando manifestamente improcedentes, uma vez que cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu (AgRg no AREsp n. 813.200/DF, Rel. Ministro Rogerio Schietti, Sexta Turma, DJe 6/6/2016).
+3. Ausente qualquer fundamentação idônea para o afastamento das qualificadoras e havendo pertinência entre as referidas qualificadoras e as provas dos autos, cabe ao Conselho de Sentença a tarefa de analisá-las (REsp n. 1.095.226/SP, Rel. Ministro Rogerio Schietti, Sexta Turma, DJe 18/4/2016).
+4. No caso concreto, o conjunto probatório examinado indica que o ofendido interveio em briga generalizada quando foi ferido por uma garrafa quebrada. Essa conduta ativa da vítima de participar da discussão e a natureza improvisada do objeto empregado na execução do delito evidenciam a falta do elemento surpresa, fator diferencial que se deve buscar para justificar a incidência da qualificadora do recurso que dificultou ou impossibilitou a defesa, a qual, no caso, é manifestamente improcedente.
+5. Se o conjunto probatório examinado na origem não comporta a versão descrita na denúncia, agiram corretamente as instâncias ordinárias ao delimitarem o objeto do julgamento pelo Tribunal do Júri com o afastamento da qualificadora em questão. Nessa hipótese, não há usurpação da competência constitucional do Tribunal do Júri, mas apenas o estrito cumprimento da determinação legal atribuída ao Juiz togado pelo art. 413 do CPP.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.625.699/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)"
+Dessa forma, não tendo o agravante apresentado argumentos novos e suficientes para infirmar a decisão monocrática, e, em vista de que a exclusão da qualificadora do motivo fútil, no caso concreto, não se deu por mera análise de uma discussão pretérita, mas sim pela constatação de sua manifesta improcedência diante de um quadro fático de prolongada e mútua agressão física, a manutenção do julgado por seus próprios e jurídicos fundamentos é medida que se impõe.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
