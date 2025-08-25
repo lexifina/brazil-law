@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela UNIÃO contra o acórdão da PRIMEIRA TURMA assim ementado (fl. 564):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. ANÁLISE PELO STJ. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. INAPLICABILIDADE DO ART. 1.031 DO CPC. PROVIMENTO NEGADO.
+1. Se o Tribunal de origem decidir a controvérsia com fundamento exclusivamente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça (STJ) via recurso especial porque esse recurso se destina à uniformização da interpretação do direito federal infraconstitucional e por implicar usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+2. Observa-se que "não é caso de aplicação do art. 1.031, § 2º, do CPC/2015. Isso porque o Recurso Extraordinário não é prejudicial ao julgamento do Recurso Especial, sendo, em verdade, o único recurso cabível contra o acórdão impugnado, já que decidida a matéria com fundamento constitucional, não havendo razão que justifique o sobrestamento do REsp" (RCD no REsp 1.786.330/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/5/2019, DJe de 22/5/2019).
+3. Agravo interno a que se nega provimento.
+A parte embargante alega omissão nestes termos (fl. 585): " ..  a matéria constitucional, além de não ter sido o único fundamento do acórdão, dá ensejo à discussão das demais normas infraconstitucionais regentes que particularizaram a questão, em especial pelo art. 2º da Lei 12.800/2013, uma vez que se está diante de norma constitucional de eficácia limitada", devendo ser aplicada ao caso dos autos a tese fixada no Tema 1. 248/STF.
+Sustenta, ainda, a necessidade de "envio do presente processo para a Comissão Gestora de Precedentes, com base no caráter multitudinário da matéria, ex vi do AREsp Nº 2839385 - RO (2025/0019841-9)" (fl. 585).
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+A parte adversa apresentou impugnação (fls. 588/595), sustentando a necessidade de encaminhamento destes autos à Comissão Gestora de Precedentes, com base no caráter multitudinário da matéria, nos termos do AREsp 2.748.118/RO, de relatoria do Ministro Teodoro Silva Santos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No acórdão embargado, a controvérsia foi decidida nestes termos (fls. 574/576):
+A decisão agravada não conheceu do recurso porque a controvérsia havia sido decidida com fundamento exclusivamente constitucional.
+Em nova análise do presente caso, vê-se que, quanto ao ponto controvertido - retroação dos efeitos de natureza patrimonial decorrentes de enquadramento (transposição) de servidor nos quadros da União Federal a novembro de 2009, bem como a aplicação correta da tabela de subsídios, com o consequente pagamento das diferenças remuneratórias -, objeto do recurso especial, o TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO realmente decidiu com fundamento unicamente constitucional, consubstanciado na interpretação das Emendas Constitucionais 60/2009 e 79/2014, nestes termos (fls. 270/271):
+Assim, tendo sido reconhecido o direito à opção pela transposição, na vigência da EC nº 60/2009, devidamente regulamentado pelas normas legais (Leis nº 12.249/10 e nº 12.800/13), desde a respectiva formalização do pleito devem-se operar efeitos financeiros, observado o termo inicial de 1º/03/2014, para os integrantes das carreiras de magistério e o de 1º/01/2014, para os demais servidores, não podendo tais optantes serem prejudicados pela alteração posteriormente inaugurada pela EC nº 79/2014, tampouco pela legislação infraconstitucional a ela subsequente.
+Caso dos autos
+No caso em exame, vê-se que a parte autora (servidora da carreira do magistério), na vigência da EC nº 60/2009, optou pela transposição do cargo que ocupara no Estado de Rondônia para o que passou a ocupar na União e, por conseguinte, requereu o pagamento de diferenças remuneratórias resultantes dessa transferência, desde o termo de opção, em 03/06/2013 (id 225087531 - fls. 01), até o efetivo enquadramento.
+Embora a pretensão deduzida na peça exordial fora julgada improcedente, assiste razão à recorrente, uma vez que lhe são devidas as diferenças salariais pleiteadas.
+Nesse contexto, merece reforma a sentença recorrida, a fim de autorizar tal pagamento, desde 1º/03/2014.
+Na hipótese de o Tribunal de origem decidir a controvérsia com fundamento eminentemente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça via recurso especial, a uma, porque esse recurso se destina a uniformizar a interpretação do direito federal infraconstitucional e, a duas, porque implicaria a usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+Cito, a propósito, os seguintes julgados:
+ ..
+Observo que o Tema 1.248 do STF não se aplica à presente hipótese diante da ausência de similitude fática, pois a lide em exame não versa sobre o direito à transposição de servidor oriundo do ex-Território de Rondônia para os quadros da administração federal, mas sobre a possibilidade, ou não, de pagamento de parcelas anteriores à data do enquadramento.
+Por fim, destaco que "não é caso de aplicação do art. 1.031, § 2º, do CPC/2015. Isso porque o Recurso Extraordinário não é prejudicial ao julgamento do Recurso Especial, sendo, em verdade, o único recurso cabível contra o acórdão impugnado, já que decidida a matéria com fundamento constitucional, não havendo razão que justifique o sobrestamento do REsp" (RCD no REsp 1.786.330/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/5/2019, DJe de 22/5/2019).
+Confira-se também:
+ ..
+Está correta a decisão que não conheceu do recurso.
+A respeito da questão apontada no recurso ora examinado, a PRIMEIRA TURMA resolveu que o fundamento central da matéria objeto da controvérsia tinha cunho eminentemente constitucional, cujo exame era vedado ao Superior Tribunal de Justiça (STJ), sob pena de usurpação da competência do Supremo Tribunal Federal.
+Como se vê, ao contrário do alegado pela parte recorrente, a decisão embargada não padece de vício algum. Não há a necessidade de esclarecer, complementar ou integrar o que foi decidido, pois a tutela jurisdicional foi prestada de forma clara e fundamentada, tendo havido manifestação satisfatória sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à questão instaurada.
+A argumentação apresentada pela parte embargante não passa de mero inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+ ..
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021, sem destaque no original.)
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Observo que o Tema 1.248 do STF não se aplica à presente hipótese diante da ausência de similitude fática, pois a lide em exame não versa sobre o direito à transposição de servidor oriundo do ex-Território de Rondônia para os quadros da administração federal, mas sobre a possibilidade, ou não, de pagamento de parcelas anteriores à data do enquadramento.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
