@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. No caso, não se constatou omissão passível de ser sanada, pois a parte embargante busca o rejulgamento da questão, o que não é cabível em embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BYD DO BRASIL LTDA. (BYD), contra acórdão de minha relatoria, assim ementado:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEVANTAMENTO DE VALOR DE TÍTULO EXECUTIVO. DEPÓSITO JUDICIAL DO MONTANTE DA CONDENAÇÃO PARA OFERECIMENTO DE IMPUGNAÇÃO. INCIDÊNCIA DE JUROS DE MORA. CABIMENTO. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR DECISÃO PARA DAR PROVIMENTO EM PARTE AO RECURSO ESPECIAL. 1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC /2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 2. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, sob pena de incidência da Súmula n. 284 do STF. 3. A ausência de impugnação a fundamento do acórdão recorrido atrai o óbice da Súmula n. 283 do STF, aplicável por analogia. Ademais, rever o entendimento das instâncias inferiores demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7 do STJ. 4. A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do R Esp n. 1.820.963/SP, revisou a tese fixada no Tema n. 677 e definiu que, "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial". 5. Agravo interno provido para reconsiderar em parte a decisão. Agravo conhecido para dar parcial provimento ao recurso especial. (e-STJ, fls. 852/853)
+Nas razões do presente inconformismo, defendeu que o acórdão recorrido não reconheceu que a Súmula n. 182 do STJ não foi devidamente impugnada, bem como alegou que os arts. 29, 30 e 31, todos da Lei n. 9.307/96, não foram impugnados pela ÁLYA no agravo interno.
+Foi apresentada impugnação (e-STJ, fls.874-878).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. No caso, não se constatou omissão passível de ser sanada, pois a parte embargante busca o rejulgamento da questão, o que não é cabível em embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem ser acolhidos.
+A natureza dos embargos de declaração é integrativa e aclaratória, sendo cabíveis, nos termos do art. 1.022 do Código de Processo Civil, somente quando houver, na decisão embargada, obscuridade, contradição, omissão ou erro material. Sua finalidade é viabilizar a compreensão exata do pronunciamento judicial, sem, contudo, permitir a rediscussão do mérito da causa ou a modificação do julgado, salvo nas hipóteses legais e apenas para a supressão dos referidos vícios internos da decisão.
+No caso, BYD alegou omissão no acórdão recorrido, por não reconhecer a aplicação da Súmula n. 182 do STJ, alegando que os arts. 29, 30 e 31, todos da Lei n. 9.307/96, não teriam sido impugnados pela ÁLYA no agravo interno.
+Verifica-se no texto dos aclaratórios que BYD nem sequer indicou o inciso violado do art. 1.022 do CPC, o que faz incidir a Súmula n. 284 do STF, por analogia.
+Ademais, é notório que ÁLYA impugnou devidamente a Súmula n. 182 do STJ, e, portanto, não há que se falar em omissão.
+Por fim, quanto à aplicação do Tema n. 677 do STJ, não foi alegada ou fundamentada qualquer hipótese dos incisos do art. 1.022 do CPC.
+Até mesmo porque o texto da decisão recorrida é claro e expresso sobre a devida aplicação do tema ao caso concreto, considerando que a Corte Especial, ao definir o conteúdo da tese, por unanimidade de votos, rejeitou o pedido de modulação dos efeitos do Tema n. 677, o que reforça sua plena aplicabilidade a todos os processos em curso, inclusive o presente. Isto é, o tema foi revisado para esclarecer que depósitos judiciais feitos para garantia ou decorrentes de penhora não cessam a mora, e o devedor continua responsável pelos encargos moratórios até a liberação do valor ao credor.
+Dessa forma, REJEITO os embargos de declaração.
+É o voto.
