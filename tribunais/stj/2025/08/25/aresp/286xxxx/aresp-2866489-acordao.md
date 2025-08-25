@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PRESCRIÇÃO. CITAÇÃO NÃO EFETIVADA. INTERRUPÇÃO. INOCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DESTA CORTE. ALEGAÇÃO DE AUSÊNCIA DE DESÍDIA DO EXEQUENTE. VERIFICAÇÃO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE O ÓBICE SUMULAR. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Esta Corte Superior possui jurisprudência consolidada de que a interrupção da ação se dá com a citação válida da parte ré. Caso a citação não seja efetivada nos prazos legais, a prescrição não é interrompida, salvo nos casos em que o atraso não puder ser imputado ao autor.
+3. Rever as conclusões quanto à inação do exequente para promover a citação dos herdeiros demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+4. A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado pela alínea c do permissivo constitucional.
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO FORLUMINAS DE SEGURIDADE SOCIAL - FORLUZ (FORLUZ) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO. INTERRUPÇÃO DO PRAZO COM A DISTRIBUIÇÃO DA AÇÃO. CITAÇÃO NÃO PROMOVIDA NO PRAZO LEGAL POR CULPA EXCLUSIVA DA PARTE AUTORA/EXEQUENTE. INTERRUPÇÃO QUE SE OPERA SOMENTE NA EFETIVAÇÃO DA CITAÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA.CONSTATAÇÃO. RECURSO QUE SE NEGA PROVIMENTO. - Nos termos do artigo 240, do Código de Processo Civil, a interrupção da prescrição retroagirá à data da propositura da ação. Para tanto, compete ao autor/exequente promover a citação da parte ré/executada no prazo de 10 (dez) dias ao despacho que a ordenar, sob pena de perder o benefício de retroatividade do termo inicial interruptivo da prescrição quando da propositura da ação. - Comprovado que a citação não foi promovida no prazo previsto legalmente, por culpa exclusiva da parte exequente, cuja demora não pode ser imputável ao serviço judiciário, o despacho que ordena a citação e que interrompe a prescrição à data da distribuição da ação não ocorreu no caso concreto. - Interrupção do prazo prescrição não configurada na hipótese apreciada. - Constado o transcurso do prazo superior a 5 (cinco) anos entre a data do vencimento da última parcela e a data de eventual marco interruptivo da prescrição, impõe-se o reconhecimento da prescrição da pretensão formulada na inicial. - Sentença mantida. Recurso que se nega provimento." (e-STJ, fls.
+371-378).
+Os embargos de declaração de FORLUZ foram rejeitados (e-STJ, fls. 402-407).
+Nas razões do agravo, FORLUZ apontou que (1) a decisão agravada extrapolou sua competência ao analisar a existência de violação da lei federal, o que é competência do STJ; (2) não há incidência da Súmula n. 7 do STJ, pois não se trata de reexame de prova, mas de falha na aplicação de norma.
+Não foi apresentada contraminuta (e-STJ, fl. 496).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, FORLUZ apontou (1) violação dos arts. 240, § 2º, 329, I, 489, § 1º, IV, e 1.022, II, do CPC, por negativa de prestação jurisdicional; (2) a decisão recorrida não considerou a devida citação dos herdeiros após o conhecimento do falecimento da Sra. Luzia, ensejando a interrupção do prazo prescricional; (3) divergência jurisprudencial quanto à interpretação do art. 240, § 2º, do CPC, em casos semelhantes.
+Não foram apresentada contrarrazões (e-STJ, fl. 456).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PRESCRIÇÃO. CITAÇÃO NÃO EFETIVADA. INTERRUPÇÃO. INOCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DESTA CORTE. ALEGAÇÃO DE AUSÊNCIA DE DESÍDIA DO EXEQUENTE. VERIFICAÇÃO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE O ÓBICE SUMULAR. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Esta Corte Superior possui jurisprudência consolidada de que a interrupção da ação se dá com a citação válida da parte ré. Caso a citação não seja efetivada nos prazos legais, a prescrição não é interrompida, salvo nos casos em que o atraso não puder ser imputado ao autor.
+3. Rever as conclusões quanto à inação do exequente para promover a citação dos herdeiros demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+4. A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado pela alínea c do permissivo constitucional.
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+(1) Da omissão e da negativa de prestação jurisdicional
+Em suas razões recursais, FORLUZ alegou que o acórdão deixou de se manifestar sobre a promoção de todos os meios necessários para concretizar a devida citação do polo passivo.
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Afasta-se, portanto, a alegada violação.
+(2) Da interrupção da prescrição
+Como emana dos autos, FORLUZ propôs execução de titulo extrajudicial contra o ESPÓLIO DE LUZIA MARTA MONTEIRO PAIXÃO (ESPÓLIO), visando ao recebimento de crédito decorrente de contrato de mútuo.
+A execução foi extinta por prescrição, pois a citação não foi promovida no prazo legal por culpa exclusiva da parte exequente.
+A FORLUZ alegou que adotou todas as medidas necessárias para a citação dos herdeiros após o conhecimento do falecimento da devedora, mas o Tribunal de Justiça de Minas Gerais manteve a decisão de prescrição, negando provimento à apelação, conforme trechos que ora se transcrevem:
+Assim, constatado que o vencimento da última parcela prevista no contrato ocorreu no dia 28/02/2014, o termo inicial da contagem da prescrição quinquenal iniciou-se nesta data e transcorreu livremente no dia 28/02/2019, quinto ano seguinte ao início da sua contagem.
+Averiguado que a parte exequente, por sua culpa exclusiva, não realizou a citação da parte executada no prazo de dez dias, a distribuição da presente ação não deteve o condão de interromper o lapso prescricional aplicável à pretensão deduzida na inicial.
+Desse modo, ainda que a ação executiva tenha sido proposta no dia 27/02/2019, uma dia antes do término do prazo prescricional, por não ter ocorrido a interrupção do referido prazo na data da distribuição da ação, por ausência de realização da citação válida da executada no prazo de 10 (dez) dias como exige a legislação processual civil, e, não vislumbrada qualquer culpa decorrente dos mecanismos burocráticos decorrentes da atividade jurisdicional, verificou-se a prescrição da pretensão no dia 28/02/2019, motivo pelo qual a sentença merece ser mantida, na íntegra, ainda que por motivos diversos. (e-STJ, fl. 377)
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que a interrupção da ação se dá com a citação válida da parte ré. Caso a citação não seja efetivada nos prazos legais, a prescrição não é interrompida, salvo nos casos em que o atraso não puder ser imputado ao autor.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Conforme entendimento firmado no âmbito desta Corte, "A prescrição somente pode ser considerada interrompida com o despacho que ordena a citação, se o autor promover o aperfeiçoamento do ato citatório no prazo processual previsto para tanto, ressalvado o reconhecimento de culpa exclusiva do serviço judiciário pela demora eventualmente verificada." (AgInt no REsp 1799683/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 21/06/2021). 2.1. Na hipótese, consignou o órgão julgador que a ausência de citação não ocorreu por falha da máquina do Judiciário. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.983.434/SC, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022 - sem destaque no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO. FUNDAMENTO NÃO IMPUGNADO. ART. 1.021, § 1º, DO CPC/2015. NÃO CONHECIMENTO. OMISSÃO. INEXISTÊNCIA. PRESCRIÇÃO INTERCORRENTE. NÃO VERIFICADA. AGRAVO INTERNO IMPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição, obscuridade ou erro material no aresto recorrido, não se vislumbra a ofensa ao artigo 1.022 do CPC.
+2. Na forma da jurisprudência desta Corte, " a  citação válida retroage à data da propositura da ação para efeitos de interrupção da prescrição, conforme o art. 219, § 1º, do CPC/1973 (correspondente ao art. 240, § 1º, do CPC/2015). Por outro lado, o § 4º do aludido dispositivo prevê que, se a citação não for efetivada nos prazos legais, haver-se-á por não interrompida a prescrição, salvo nos casos em que o atraso não puder ser imputado ao autor da ação (Súmula 106/STJ)" (AgInt no AREsp 1.300.199/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 06/04/2021).
+3. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 1.745.375/MT, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 30/8/2021, DJe de 1º/10/2021 - sem destaque no original)
+E rever as conclusões quanto à inação da FORLUZ para promover a citação dos herdeiros demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO. CITAÇÃO. INTERRUPÇÃO. ALEGADA NEGLIGÊNCIA DA PARTE AGRAVADA. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. "Considera-se interrompida a prescrição na data em que a petição inicial é protocolada, desde que não seja imputada ao exequente culpa pelo atraso do despacho ou da citação" (AgRg no REsp 1373799/MT, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 04/02/2016, DJe 17/02/2016).
+2. O exame da pretensão recursal de reforma do v. acórdão recorrido quanto à inexistência de inércia da parte agravada e de desídia dela na citação exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.528.622/MT, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 4/5/2020, DJe de 12/5/2020)
+(3) Do dissídio jurisprudencial
+FORLUZ apontou ainda a existência de dissídio jurisprudencial sobre a matéria.
+Destaca-se que a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional, conforme precedente abaixo relacionado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS C/C COMPENSAÇÃO POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF.
+1. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+2. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+3. A incidência da Súmula 7 desta Corte, acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional.
+ ..
+(AgInt no AREsp 1.692.173/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma,j. 30/11/2020, DJe 2/12/2020, sem destaque o original)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE provimento.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
