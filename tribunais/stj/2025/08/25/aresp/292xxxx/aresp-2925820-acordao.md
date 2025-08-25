@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO MEDICAMENTOSO. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO QUE DEFERIU LIMINAR. INCIDÊNCIA DA SÚMULA N. 735 DO STF E DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula n. 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa (AgRg na MC 24.533/TO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/10/2018, DJe 15/10/2018).
+2. No caso, rever as conclusões do Tribunal de origem quanto aos requisitos da tutela de urgência demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A. (NOTRE DAME) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do Des. PASTORELO KFOURI, assim ementado:
+AGRAVO DE INSTRUMENTO. Plano de saúde. Custeio de medicamento Ocrelizumabe. Insurgência da requerida contra decisão que deferiu a tutela antecipada para fornecimento de medicamento. Descabimento.
+Demonstrada a necessidade do tratamento com o medicamento prescrito pelo médico. Existência de perigo de dano irreparável à saúde da agravada em caso de não fornecimento. Rol de cobertura obrigatória para o fornecimento de medicamento pela operadora do plano de saúde. Vedação para fármaco de uso domiciliar.
+Inteligência dos artigos 10 e 12 da lei nº 9.656/98.
+Medicamento injetável que necessita de administração assistida. Manutenção da multa conforme fixada. Inclusão do medicamento no rol da ANS. Decisão mantida. Recurso improvido. (e-STJ, fl. 472)
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO MEDICAMENTOSO. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO QUE DEFERIU LIMINAR. INCIDÊNCIA DA SÚMULA N. 735 DO STF E DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula n. 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa (AgRg na MC 24.533/TO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/10/2018, DJe 15/10/2018).
+2. No caso, rever as conclusões do Tribunal de origem quanto aos requisitos da tutela de urgência demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alíneas a e c, da CF, NOTRE DAME alegou a violação dos arts. 12 da Lei n. 9.656/98 e 757 do CC, ao sustentar que não está legal e contratualmente obrigada ao custeio de tratamento de uso domiciliar.
+Pois bem.
+Na hipótese, trata-se de agravo de instrumento interposto contra a r. decisão de fls. 19/21 que, nos autos de obrigação de fazer, deferiu a tutela antecipada para fornecimento do medicamento solicitado (e-STJ, fl. 472).
+Sobre o tema, o pacífico entendimento desta Corte, em sintonia com o disposto na Súmula n. 735 do STF, segue no sentido de que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+Nesse sentido, confiram-se também os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TUTELA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. CUSTEIO DE TRATAMENTO HOME CARE. PRESCRIÇÃO MÉDICA. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA (SÚMULA 83/STJ). AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, "a taxatividade do Rol de Procedimento e Eventos em Saúde da ANS, pacificada pela Segunda Seção ao examinar o EREsp nº 1.886.929/SP, não prejudica o entendimento há muito consolidado nesta Corte de que é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, por não configurar procedimento, evento ou medicamento diverso daqueles já previstos" (AgInt nos EREsp 1.923.468/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 28/6/2023, DJe de 3/7/2023).2.
+2. "Conforme a orientação jurisprudencial adotada por este STJ, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF" (AgInt no AREsp 1.972.132/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/3/2022, DJe de 31/3/2022).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.592.306/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/11/2024, DJEN de 6/12/2024 - destacou-se)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. HOME CARE. RECUSA DO PLANO DE SAÚDE. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A LIMINAR. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa (AgRg na MC 24.533/TO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/10/2018, DJe 15/10/2018).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.981.656/TO, minha relatoria, Terceira Turma, julgado em 11/4/2022, DJe de 19/4/2022)
+Ainda que assim não fosse, rever as conclusões adotadas pelo Tribunal estadual quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OPERADORA DE PLANO DE SAÚDE. CONSUMIDOR. OBRIGAÇÃO DE FAZER. TRATAMENTO MULTIDISCIPLINAR. COBERTURA DEVIDA. ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DISPOSITIVOS LEGAIS. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. ANTECIPAÇÃO DE TUTELA. MÉRITO DA CAUSA. RELAÇÃO. OFENSA. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS Nº 735/STF E Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, a ausência de discussão, pelo tribunal de origem, acerca da tese ventilada no recurso especial acarreta a falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+5. No caso, rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.814.741/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/10/2021, DJe de 8/10/2021 - destacou-se)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Inaplicável a majoração dos honorários re cursais.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
