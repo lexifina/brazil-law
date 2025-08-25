@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, acolher parcialmente os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO. DIREITO DE IMAGEM. PRESCRIÇÃO. TERMO INICIAL. VERIFICAÇÃO. IMPOSSIBILIDADE. TEMA SUBMETIDO À SISTEMÁTICA DOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA AGUARDAR O JULGAMENTO DO TEMA N. 1.289 DO STJ. PARCIAL ACOLHIMENTO.
+1. Nos termos do art. 256-L do RISTJ, publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ, fundados em idêntica questão de direito, se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator.
+2. Em face da submissão do tema à sistemática dos recursos repetitivos, ficam sem efeito as decisões anteriores e determina-se o retorno dos autos à origem para que lá permaneçam sobrestados até julgamento definitivo do Tema n. 1.289 do STJ.
+3. Embargos de declaração parcialmente acolhidos para devolver os autos à origem.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ELECTRONIC ARTS NEDERLAND B V e ELECTRONIC ARTS LTDA. EM LIQUIDACAO (ELETRONIC e outro) contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. USO INDEVIDO DA IMAGEM DE ATLETA EM JOGOS ELETRÔNICOS. ART. 1.022 DO NCPC. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 206, § 3º, V, DO CC/02. PRESCRIÇÃO. INOCORRÊNCIA. VIOLAÇÃO CONTINUADA. ATO ILÍCITO DEMONSTRADO. DEVER DE INDENIZAR CONFIGURADO. DANO MORAL CONFIGURADO. REFORMA. SÚMULA Nº 7 DO STJ. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. EVENTO DANOSO. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que ostentam caráter nitidamente infringente, visando rediscutir matéria já analisada pelo acórdão vergastado.
+3. O termo inicial do prazo prescricional relativo ao dano provocado à imagem do indivíduo dá-se em cada publicação não autorizada, renovando-se, assim, o referido prazo na hipótese de um novo ato ilícito. Precedentes.
+4. A ofensa ao direito à imagem materializa-se com a sua mera utilização sem autorização, ainda que não tenha caráter vexatório ou que não viole a honra ou a intimidade da pessoa, e desde que o conteúdo exibido seja capaz de individualizar o ofendido.
+5. Em se tratando de responsabilidade extracontratual, o termo inicial para incidência dos juros moratórios deve ser a data do evento danoso (art. 398 do CC/02 e Súmula nº 54 do STJ). Incidência, no ponto, da Súmula nº 83 STJ.
+6. Agravo interno não provido (e-STJ, fls. 2.832/2.848)
+Nas razões do presente inconformismo, alegaram omissão, erro material e contradição quanto à aplicação da teoria actio nata (e-STJ, fls. 2.849/2.899).
+Foi apresentada impugnação (e-STJ, fls. 2.902/2.924).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO. DIREITO DE IMAGEM. PRESCRIÇÃO. TERMO INICIAL. VERIFICAÇÃO. IMPOSSIBILIDADE. TEMA SUBMETIDO À SISTEMÁTICA DOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA AGUARDAR O JULGAMENTO DO TEMA N. 1.289 DO STJ. PARCIAL ACOLHIMENTO.
+1. Nos termos do art. 256-L do RISTJ, publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ, fundados em idêntica questão de direito, se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator.
+2. Em face da submissão do tema à sistemática dos recursos repetitivos, ficam sem efeito as decisões anteriores e determina-se o retorno dos autos à origem para que lá permaneçam sobrestados até julgamento definitivo do Tema n. 1.289 do STJ.
+3. Embargos de declaração parcialmente acolhidos para devolver os autos à origem.
+VOTO
+Da atenta análise dos autos, observa-se que o especial trouxe à discussão, entre outros argumentos, a violação do art. 206, § 3º, do CC, afirmando que prescrita a pretensão de indenização pelo uso indevido da imagem do jogador nos jogos denominados FIFA SOCCER edições de 2009, 2011, 2012 e 2014 e FIFA MANAGER edições de 2006, 2009, 2011, 2012, 2013 e 2014. (e-STJ, fl. 2.100).
+Como se pode observar, no caso em análise, ELECTRONIC e outro ingressaram com recurso especial em que pretendida a análise de questão submetida a julgamento afetado à sistemática dos recursos repetitivos objetivando "definir, nas ações de indenização por danos morais, propostas por ex-jogadores de futebol, fundadas na utilização indevida de suas imagens: a competência, a prescrição, a ocorrência ou não de supressio e a configuração ou não de danos à imagem em decorrência da mera menção a desígnios representativos dos demandantes" (Recurso Especial n. 2.112.553/SP).
+Sendo assim, em respeito ao disposto nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem (art. 256-L do RISTJ: art. 256-L).
+Registre-se que referida disposição diz respeito apenas ao recurso especial interposto por ELETRONIC e outro (e-STJ, fls. 2.097/2.155), uma vez que aquele manejado por MARCELO DA PAIXÃO NICÁCIO (MARCELO) versa sobre outros assuntos que não foram objeto da afetação: comprovação do dano e valor da indenização (e-STJ, fls. 2.084/2.093).
+Isso significa que, em relação à decisão que negou provimento ao recurso especial de MARCELO (e-STJ, fls. 2.505/2.510), não há obstáculo ao reconhecimento da preclusão.
+Nessas condições, ACOLHO PARCIALMENTE os embargos de declaração para tornar sem efeito as decisões anteriormente proferidas neste feito (e-STJ, fls. 2.511/2.518 e 2.832/2.845), determinar a devolução do feito à origem, com a respectiva baixa, para que lá permaneça sobrestado até o julgamento definitivo do Tema n. 1.289 do STJ; e, após sua publicação, a) seja negado seguimento ao recurso, se a decisão recorrida coincidir com a orientação desta Corte, ou b) proceda-se ao juízo de retratação previsto nos arts. 1.040, II, e 1.041 do CPC.
+É o voto.
