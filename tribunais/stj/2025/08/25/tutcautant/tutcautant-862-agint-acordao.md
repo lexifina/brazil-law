@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PROBABILIDADE. INDEFERIMENTO DE EFEITO SUSPENSIVO À APELAÇÃO. SÚMULA N. 7/STJ.
+1. O deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida, o que não se verificou no caso concreto.
+2. Ausência de probabilidade de êxito recursal, ante a atração do enunciado da Súmula n. 7/STJ à pretensão recursal, que busca a revisão do indeferimento do efeito suspensivo da apelação da ação de despejo.
+3. "O acórdão entendeu como não constatada a excepcionalidade prevista no art. 558 do CPC/73, a ensejar a concessão do efeito suspensivo à apelação interposta contra a sentença proferida na ação de despejo por denúncia vazia. Sua revisão esbarra no enunciado n. 7 da Súmula do STJ" (AgRg no AREsp n. 586.430/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1/6/2016).
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PARK CORP ESTACIONAMENTOS LTDA. contra decisão monocrática de minha relatoria que apreciou o pedido objetivando a concessão de efeito suspensivo ao seu recurso especial.
+A decisão agravada indeferiu o pedido em razão da ausência de probabilidade do apelo nobre, dado que a pretensão esbarraria no óbice da Súmula n. 7/STJ (fls. 140-145).
+Nas razões do recurso interno, os agravantes reiteram alegação de que é cabível a concessão do efeito suspensivo, visto que não pretende a revisão de matéria fática, mas a revalorização dos fatos contidos no acórdão, em especial a efetiva violação d os arts. 1.012, § 4º, do CPC e 58, V, da Lei n. 8.245/91.
+Reiteram, nesse sentido, a presença do fumus bonis iuris e do periculum in mora.
+Pugnam , por fim, pelo provimento do recurso.
+Sem manifestação do agravado.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PROBABILIDADE. INDEFERIMENTO DE EFEITO SUSPENSIVO À APELAÇÃO. SÚMULA N. 7/STJ.
+1. O deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida, o que não se verificou no caso concreto.
+2. Ausência de probabilidade de êxito recursal, ante a atração do enunciado da Súmula n. 7/STJ à pretensão recursal, que busca a revisão do indeferimento do efeito suspensivo da apelação da ação de despejo.
+3. "O acórdão entendeu como não constatada a excepcionalidade prevista no art. 558 do CPC/73, a ensejar a concessão do efeito suspensivo à apelação interposta contra a sentença proferida na ação de despejo por denúncia vazia. Sua revisão esbarra no enunciado n. 7 da Súmula do STJ" (AgRg no AREsp n. 586.430/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1/6/2016).
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nada a prover.
+Conforme consignado na decisão agravada, de acordo com a jurisprudência desta Corte, "para que se defira o pedido de tutela provisória de urgência e, assim, seja concedido o provimento, é necessário que a parte requerente demonstre concomitantemente o fumus boni iuris e o periculum in mora: a plausibilidade do direito alegado, consubstanciada na elevada probabilidade de êxito do apelo nobre; e o perigo de lesão grave e de difícil reparação ao direito da parte  ..  (art. 300, caput, do CPC/2015)" (AgInt na Pet n. 13.893/AC, relator Ministro Francisco Falcão, Segunda Turma, DJe 6/4/2021), o que não é o caso dos autos.
+Isso porque o recurso especial da requerente funda-se na alegação de afronta ao art. 1.012, § 4º, do CPC em razão do recebimento da apelação da ação de despejo tão somente no efeito devolutivo, sendo que a jurisprudência do STJ é assente na inviabilidade de revisão do entendimento de origem quanto ao preenchimento, ou não, dos requisitos para a concessão do efeito suspensivo, ante o óbice da Súmula n. 7/STJ.
+Nesse sentido, cito precedentes específicos relativos à ação de despejo:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE DESPEJO - APELAÇÃO RECEBIDA APENAS NO EFEITO DEVOLUTIVO. ART. 58, V, DA LEI 8.245/91. NÃO OCORRÊNCIA DA EXCEPCIONALIDADE QUE PERMITIRIA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. A alegação de afronta ao art. 535 do CPC/73 de forma genérica, sem efetiva demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante à deficiência na fundamentação (Súmula 284/STF).
+2. O STJ possui entendimento firmado no sentido de que o recurso de apelação que ataca sentença proferida em ação de despejo, ainda que cumulada com ação de cobrança de débitos atrasados, deve ser recebido somente no efeito devolutivo. Inteligência do art. 58, V, da Lei 8.245/91. Precedentes.
+3. Em que pese as alegações da recorrente de existir dano grave ou de difícil reparação na hipótese de recebimento da apelação apenas no efeito devolutivo, não há como rever a conclusão a que chegou o Tribunal de origem sem que se proceda à revisão do contexto fático-probatório da demanda, o que é vedado na estreita via do recurso especial pelo enunciado sumular nº 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 781.068/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 28/9/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DESPEJO POR DENÚNCIA VAZIA. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. APELAÇÃO. EFEITO SUSPENSIVO. EXCEPCIONALIDADE NÃO CONFIGURADA. ART. 558 DO CPC/73. IMPOSSIBILIDADE DE REVISÃO DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA
+Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO 1. Não há de se cogitar em ofensa ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada dentro dos lindes da controvérsia posta nos autos, tendo o Tribunal local examinado as questões necessárias à sua solução, ainda que de forma contrária à pretensão da parte.
+2. O acórdão entendeu como não constatada a excepcionalidade prevista no art. 558 do CPC/73, a ensejar a concessão do efeito suspensivo à apelação interposta contra a sentença proferida na ação de despejo por denúncia vazia. Sua revisão esbarra no enunciado n. 7 da Súmula do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 586.430/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1/6/2016.)
+No caso dos autos, o Tribunal de origem rejeitou o pleito suspensivo da apelação em razão da ausência de plausibilidade do direito, visto que ficou constatada a prévia notificação da requerente de que a locadora, ora requerida, não renovaria a locação. Vejamos:
+Em 01.03.2021, as partes celebraram contrato de locação de imóvel, garagem de condomínio comercial, para o fim de exploração de estacionamento pela locatária, pelo prazo de vigência de 36 meses, de 31.03.2021 a 28.02.2024, prorrogável automaticamente por igual período caso não houvesse comunicação em contrário por quaisquer das contratantes.
+Ajuizada ação de despejo, o pedido foi julgado procedente, motivando a interposição de apelação pela locadora, que deu origem ao pedido de efeito suspensivo ao recurso negado por este relator aos seguintes fundamentos:
+"Nas ações de despejo, nos termos do artigo 58, inciso V, da Lei nº 8.245/91, os recursos interpostos contra as sentenças têm efeito somente devolutivo.
+Apesar disso, não se ignora o entendimento jurisprudencial no sentido de que, excepcionalmente, pode o magistrado atribuir também efeito suspensivo ao apelo, quando forem relevantes os fundamentos, indicando significativas chances de que o resultado do julgamento de primeiro grau seja revertido na instância superior, e houver possibilidade de ocorrência de dano grave irreparável ou de difícil reparação.
+Ocorre, porém, que as alegações da locatária são insuficientes para conferir ao recurso o duplo efeito.
+É preciso consignar que, de fato, esta Eg. Câmara, nos autos do provimento ao agravo de instrumento nº 2072959- 95.2024.8.26.0000, determinou à locadora que se abstivesse de realizar atos contrários ao livre exercício da posse do imóvel pela locatária, condicionada ao regular pagamento dos aluguéis e acessórios da locação.
+Ocorre que se trata de decisão provisória, proferida em juízo de cognição sumária, sem a oitiva da locadora, de modo que o argumento da locatária não é hábil a infirmar a conclusão do i. magistrado sentenciante após o contraditório e a análise da matéria com a profundidade exigida.
+De acordo com a r. sentença, o e-mail juntado aos autos da ação possessória, à fl. 223, do qual, aliás, consta a anotação "conforme cláusula contratual, estamos avisando com mais de 90 dias de antecedência", atingiu a finalidade de dar ciência à locatária da intenção da locadora de não renovar a locação. A conclusão exarada pelo juízo de origem está embasada no teor da contranotificação coligida às fls. 30/33 dos autos da ação possessória, que revela ter sido a locatária, em 07.11.2023, com antecedência de 90 dias do término da vigência do contrato, cientificada, de forma suficiente e inequívoca, da intenção da locadora de não dar continuidade ao negócio jurídico.
+Cabe o registro de que o objetivo do legislador, ao atribuir o efeito devolutivo às apelações, foi o de acelerar as ações de despejo, com o intuito proteger o direito de propriedade constitucionalmente garantido.
+Assim, deve-se dar eficácia à lei, sob pena de frustrar, injustificadamente, as expectativas para as quais foi editada, de modo que, inexistindo indícios robustos de que o recurso de apelação será acolhido, com anulação ou reforma da r. sentença que decretou o despejo, não há razão para lhe atribuir efeito que a lei de regência não prescreve. Em eventual hipótese de reversão do julgamento em sede recursal, a locatária poderá ajuizar ação para se ressarcir dos prejuízos que tiver efetivamente suportado".
+Em que pese aos argumentos da parte, os motivos pelos quais a ausência da atribuição excepcional do efeito suspensivo à apelação ocasionará lesão de difícil ou incerta reparação não ficaram demonstrados nos autos. Não se verifica no caso em exame perigo de dano além daquilo que é inerente a todo incidente de cumprimento de sentença oriundo de ação de despejo.
+Ademais, como já enfatizado na r. decisão monocrática recorrida, não se vislumbra no caso sub judice a plausibilidade da pretensão da agravante, uma vez que o i. magistrado sentenciante, após a detida análise de documentos, notadamente o e-mail e a contranotificação coligidos aos autos da ação possessória, às fls. 30/33 e 223, concluiu que ela foi cientificada, satisfatoriamente, da intenção do agravado de não renovar o contrato.
+Enfim, não demonstrada a cumulação de todos os requisitos previstos em lei para atribuição do efeito suspensivo pretendido pela agravante, de rigor manter a r. decisão recorrida.
+Evidente que a ausência de "plausibilidade da pretensão da agravante" para indeferimento do efeito suspensivo à apelação decorreu de análise de questão fática, o que, do mesmo modo, caminha na ausência de plausibilidade de seu recurso especial, em razão do óbice da Súmula n. 7/STJ.
+A título de reforço, confiram-se:
+3. Recurso especial que encontra óbice na Súmula 7 do STJ, porquanto não há como, na hipótese, concluir pela necessidade de atribuição do efeito suspensivo à apelação sem o reexame de provas.
+(AgInt no AREsp n. 2.156.475/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 24/5/2023.)
+2. In casu, a modificação do entendimento lançado no acórdão recorrido, quanto aos requisitos para a concessão do efeito suspensivo deferido, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+(AgInt no AgInt no AREsp n. 1.046.083/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 30/10/2017.)
+II - Para analisar a existência ou não dos critérios autorizadores do deferimento de efeito suspensivo à apelação em embargos à execução fiscal, seria necessário o reexame do suporte probatório dos autos, soberanamente delineado pelas instâncias ordinárias, providência vedada nesta instância especial nos termos do enunciado n. 7 da Súmula do STJ.
+(AgInt no AREsp n. 992.839/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/6/2017.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
