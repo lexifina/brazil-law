@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. DEFICIÊNCIA DAS RAZÕES RECURSAIS. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de cumprimento do requisito do prequestionamento do artigo de lei apontado violado e tese vinculada, a respeito da qual nem sequer houve a oposição de embargos de declaração, inviabiliza o conhecimento do recurso especial. Incidência das Súmulas 282/STF e 356/STF.
+3. Conforme jurisprudência desta Corte Superior, " a  dissociação entre a tese jurídica defendida no recurso e os fundamentos da decisão agravada atrai a aplicação da Súmula 284/STF" (AgInt no REsp n. 2.149.863/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/11/2024, DJe 14/11/2024).
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por MOACYR APPARECIDO DE CARVALHO JUNIOR contra decisão, assim ementada (fl. 560):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta preenchido o requisito do prequestionamento, quando o acórdão firmou que a insuficiência da penhora não é causa bastante para determinar a extinção dos embargos do devedor. Alega a ausência de deficiência das razões recusais, ao argumento de que delimitou muito bem a lide, no sentido de que a formalização de garantia, ainda que parcial, enseja a oposição de embargos, não se tratando de mero inconformismo. Repassa a tese recursal.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. DEFICIÊNCIA DAS RAZÕES RECURSAIS. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de cumprimento do requisito do prequestionamento do artigo de lei apontado violado e tese vinculada, a respeito da qual nem sequer houve a oposição de embargos de declaração, inviabiliza o conhecimento do recurso especial. Incidência das Súmulas 282/STF e 356/STF.
+3. Conforme jurisprudência desta Corte Superior, " a  dissociação entre a tese jurídica defendida no recurso e os fundamentos da decisão agravada atrai a aplicação da Súmula 284/STF" (AgInt no REsp n. 2.149.863/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/11/2024, DJe 14/11/2024).
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Como consignado no relatório da decisão ora agravada, o recorrente apontou "violação do art. 16, III, da Lei n. 6.830/1980 alegando que há penhora de valores formalizada nos autos, que os embargos à execução fiscal foram rejeitados sem que houvesse a efetiva tentativa de esgotamento das vias para buscar bens penhoráveis, nem houve a intimação da recorrente para garantir o juízo não podendo exercer direito de defesa" (fl. 562).
+Além disso, aduziu em seus argumentos (fl. 493):
+Dessa feita, Excelências, sem maiores delongas, quer seja porque a existência de garantia do juízo, ainda que parcial, enseja a oposição e recebimento dos competentes embargos à execução fiscal, quer seja porque a comprovada hipossuficiência do devedor não autoriza a extinção da defesa oposta nos autos, sem julgamento de mérito, sob pena de ofensa a diversos princípios e garantias constitucionais previstos pelo artigo 5º, da Constituição Federal, nos termos do ENTENDIMENTO PROFERIDO EM SEDE DE RECURSO REPETITIVO, pelo E. STJ, é evidente que o v. acórdão ora atacado merece, portanto, reforma, o que desde logo se requer.
+Por sua vez, o Tribunal a quo, consignando a mitigação da regra do art. 16, § 1º, da LEF, conforme entendimento do Tema Repetitivo n. 260/STJ, flexibilização essa que exige a comprovação do estado de hipossuficiência patrimonial, bem como não seja a garantia ínfima ou irrisória, considerando o valor da dívida. À vista disso, firmou que no caso dos autos não só não foi comprovada a condição de hipossuficiência econômica mas também foi apresentada garantia em quantia ínfima (0,1 % do valor total do débito exequendo), devendo ser mantida a extinção dos embargos à execução fiscal, por não atendida a condição de procedibilidade.
+Eis a referida fundamentação (fls. 457-459):
+No entanto, em caráter excepcional, a jurisprudência tem mitigado a aplicação da referida regra, admitindo a oposição dos embargos do devedor nos casos de insuficiência da garantia, orientação que, inclusive, foi consolidada no julgamento do R Esp repetitivo 1.127.815/SP (Tema 260), restando assentado entendimento de que "a insuficiência de penhora não é causa bastante para determinar a extinção dos embargos do devedor, cumprindo ao magistrado, antes da decisão terminativa, conceder ao executado prazo para proceder ao reforço, à luz da sua capacidade econômica e da garantia pétrea do acesso à justiça" (REsp 1.127.815/SP, relator Ministro Luiz Fux, Primeira Seção, julgado em 24/11/2010, D Je de 14/12/2010).
+Todavia, a flexibilização da exigência de garantia do débito depende da comprovação do estado de hipossuficiência patrimonial do devedor, não bastando, para este fim, a mera alegação do devedor de que não possui bens passíveis de penhora desacompanhada de qualquer prova ou o fato de ser beneficiário da gratuidade judiciária.
+Cumpre observar, ainda, que não serão recebidos e nem processados os embargos à execução fiscal, no caso em que a garantia for ínfima ou irrisória frente ao valor da dívida, hipótese que se equipara à ausência de garantia.
+ ..
+No caso vertente, a execução fiscal foi proposta para cobrança de débitos de Imposto de Renda, CSSL, COFINS e PIS, no valor de R$ 14.535.459,99 (em janeiro/2022), tendo sido efetuada a penhora de valores bloqueados pelo SISBAJUD, no importe de R$ 14.822,69.
+Tendo em vista que a garantia apresentada nos autos totaliza o montante de R$ 14.822,69, quantia ínfima para fazer frente à dívida, pois corresponde a aproximados 0,1% do valor total do débito exequendo, tal situação é equiparável à ausência de garantia, a obstar a admissibilidade dos embargos.
+De outro lado, apesar de o embargante/apelante alegar que o devedor não possui patrimônio para garantia do crédito exequendo, tal circunstância não restou demonstrada nos autos, já que não foi juntada aos autos documentação que comprove insuficiência patrimonial do embargante.
+Por fim, quanto ao pedido de liberação da quantia considerada ínfima, nos termos do art. 836, do CPC, o pleito deverá ser dirigido ao Juízo "a quo".
+Sendo assim, deve ser mantida a r. sentença de extinção dos embargos à execução fiscal, eis que não atendida condição de procedibilidade.
+Com efeito, é caso de se manter os óbices aplicados.
+Observe-se que no caso não houve o prequestionamento do artigo de lei apontado violado e tese vinculada, a respeito da qual nem sequer houve a oposição de embargos de declaração. Incidência das Súmulas 282/STF e 356/STF.
+Na forma da jurisprudência do STJ, para que se configure o prequestionamento, "é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+E, quanto ao mais, as razões recursais apresentadas são dissociadas dos fundamentos do acórdão, configurando deficiência insanável da argumentação recursal.
+Com efeito, o alegado pelo recorrente sobre eventual ofensa à lei federal não tem em si correspondência com os fundamentos adotados no acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida. Aplicação da Súmula 284/STF.
+Conforme jurisprudência desta Corte Superior, " a  dissociação entre a tese jurídica defendida no recurso e os fundamentos da decisão agravada atrai a aplicação da Súmula 284/STF" (AgInt no REsp n. 2.149.863/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/11/2024, DJe 14/11/2024).
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
