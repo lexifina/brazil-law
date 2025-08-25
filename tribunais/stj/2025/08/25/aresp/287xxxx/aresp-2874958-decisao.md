@@ -1,0 +1,67 @@
+DECISÃO
+Cuida-se de agravo interposto por LUCIANA APARECIDA GONZAGA DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 310):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. TERMO DE CONFISSÃO DE DÍVIDA. INSTRUMENTO PARTICULAR REPRESENTATIVO DE DÍVIDA LÍQUIDA. PRAZO DE 5 (CINCO) ANOS. PARALISAÇÃO DO FEITO. INOCORRÊNCIA. INÉRCIA DO EXEQUENTE NÃO CONFIGURADA. AUSÊNCIA DE CITAÇÃO. PRESCRIÇÃO. INOCORRÊNCIA. SENTENÇA REFORMADA. RECURSO PROVIDO. - O prazo prescricional para a execução embasada em instrumento particular representativo de dívida líquida é quinquenal (art. 206, §5º, I do CC). - Para que não se configure a prescrição da pretensão executória, a citação válida do executado deveria ter ocorrido dentro do prazo de 05 anos a se iniciar da data de vencimento da última parcela do contrato. Contudo, havendo diversas diligências infrutíferas do exequente na tentativa de localização do executado, não há que se falar em prescrição. - Recurso provido.
+Rejeitados os embargos de declaração opostos (fls. 333-338).
+No recurso especial, a parte recorrente alega, preliminarmente, falta de fundamentação da decisão.
+Aduz, no mérito, violação dos arts. 202, I, 206, § 5º, I, do CCB; 240, § 1º, 921, III, e 924, V, do CPC; 5º, LXXVIII, da CF; e Súmula 150/STF.
+Sustenta, em síntese, a ocorrência da prescrição intercorrente em decorrência da inércia do exequente.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Sem contrarrazões ao recurso especial (fls. 401-402).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 403-404), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 428-430).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Inicialmente vale destacar o descabimento do recurso especial contra suposta violação de dispositivos constitucionais e de súmulas.
+Nesse sentido, vejam-se precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DECLARATÓRIA DE NULIDADE DE REAJUSTES CUMULADA COM REPETIÇÃO DE INDÉBITO. TEMA REPETITIVO 1.034/STJ. INAPLICABILIDADE AO CASO. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM EM SEDE DE AGRAVO INTERNO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. INVIABILIDADE DE RECURSO ESPECIAL PARA EXAME DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA EXCLUSIVA DO STF. TENTATIVA DE REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO. I. CASO EM EXAME
+1. Agravo em recurso especial interposto por Diva Thereza Menecheli e outros, contra decisão que inadmitiu recurso especial manejado com fundamento no art. 105, III, "a", da Constituição Federal, em ação que discute a majoração de mensalidade de plano de saúde autogestionado após a renúncia dos beneficiários ao patrocínio do ex-empregador. A decisão agravada inadmitiu o recurso por ausência de impugnação específica dos fundamentos e por impossibilidade de revolvimento do acervo fático-probatório. II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se o agravo impugnou de forma específica e suficiente os fundamentos da decisão que inadmitiu o recurso especial; (ii) analisar a possibilidade de interposição de recurso especial com fundamento na alegada violação de dispositivos constitucionais; e (iii) avaliar se o exame da controvérsia pressupõe reexame de fatos e provas, hipótese vedada nesta instância. III. RAZÕES DE DECIDIR
+3. A ausência de impugnação específica e suficiente dos fundamentos da decisão agravada, mediante argumentos concretos e direcionados, impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+4. É inviável a interposição de recurso especial para examinar suposta violação de dispositivos constitucionais, matéria de competência exclusiva do Supremo Tribunal Federal, conforme entendimento pacificado no STJ.
+5. A simples menção a dispositivos legais, desacompanhada de fundamentação objetiva que demonstre de que forma ocorreu a sua violação, atrai a incidência da Súmula 284 do STF, aplicada por analogia.
+6. O agravo não se presta à rediscussão do conjunto fático-probatório dos autos, sendo inviável o reexame de fatos e provas em sede de recurso especial, por força da Súmula 7 do STJ.
+7. A tentativa de utilizar recurso diverso do previsto em lei, em especial para infirmar decisão baseada na sistemática dos recursos repetitivos ou repercussão geral, caracteriza erro grosseiro, não sendo aplicável o princípio da fungibilidade recursal.
+8. Não há falar em negativa de prestação jurisdicional quando a decisão recorrida enfrentou adequadamente as teses jurídicas apresentadas, ainda que contrárias aos interesses da parte recorrente. IV. DISPOSITIVO
+9. Agravo não conhecido.
+(AREsp n. 2.719.501/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 30/6/2025, DJEN de 3/7/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. OFENSA AO ART. 489 DO CPC. INEXISTÊNCIA. DANO MATERIAL E MORAL RECONHECIDOS NA ORIGEM COM BASE NO CONTEXTO PROBATÓRIO. REVELIA. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. NÃO CONHECIMENTO DA DIVERGÊNCIA JURISPRUDENCIAL. ALEGAÇÃO DE OFENSA A SÚMULA. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 489 do CPC quando o tribunal a quo examina as questões essenciais ao deslinde da demanda - prova do nexo de causalidade entre a conduta e os danos causados - sem incorrer em nenhum dos vícios previstos na referida norma processual e em negativa de prestação jurisdicional.
+2. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5. Refoge da esfera de competência do Superior Tribunal de Justiça apreciar, por meio de recurso especial, eventual violação de súmulas, resoluções, portarias, regimentos, instruções normativas e circulares, visto que não se enquadram no conceito de "lei federal" previsto no art. 105, III, a, da Constituição de 1988.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.320.552/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Embora a recorrente defenda a falta de fundamentação da decisão, não apontou os dispositivos legais supostamente violados ou os pontos da lide sobre os quais o Tribunal estadual teria deixado de fundamentar a decisão. Assim, incidente a Súmula 284/STF a obstar a análise do argumento.
+Nesse sentido, cito precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ADICIONAL DE INSALUBRIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA. NÃO DELIMITAÇÃO DA CONTROVÉRSIA FEDERAL. SÚMULA N. 284 DO STF. DIVERGÊNCIA ENTRE JULGADOS DO MESMO TRIBUNAL. SÚMULA N. 13 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial deixou de indicar, de forma clara e objetiva, os dispositivos de lei federal tidos por violados, bem como de demonstrar, com precisão, de que modo a decisão recorrida lhes teria conferido interpretação divergente ou negado vigência, o que caracteriza deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+2. A simples transcrição de dispositivos legais ou a apresentação de argumentação genérica não supre a exigência de fundamentação específica e vinculada, própria do recurso especial.
+3. É inviável suprir, em agravo interno, a omissão ou deficiência, em razão da preclusão consumativa.
+4. A análise de alegada divergência jurisprudencial entre julgados do mesmo tribunal não é admissível em recurso especial, conforme estabelece a Súmula n. 13 do STJ, por se tratar de dissídio interpretativo interno, não alcançado pela jurisdição do STJ.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.158.405/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA AGRAVANTE.
+1. Não se conhece da alegada violação aos artigos 489 e 1.022 do CPC quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. Rever a conclusão do Tribunal de origem acerca da abrangência do acordo firmado, da existência de interesse de agir e da retenção de honorários, no caso concreto, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+4. Consoante a jurisprudência deste Superior Tribunal de Justiça, não pode ser desconsiderado o acordo celebrado entre as partes, sob pena de ofensa a ato jurídico perfeito, de forma que eventual reconhecimento de vício de consentimento depende do ajuizamento de ação própria. Precedentes. Incidência da Súmula 83/STJ.
+5. O entendimento desta Corte Superior é de que, em havendo conflito entre as partes e seus advogados, a questão relativa aos honorários contratuais deve ser discutida em ação própria. Precedentes.
+Incidência da Súmula 83/STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.721.476/AL, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+Com relação à apontada ofensa aos arts. 202, I, 206, § 5º, I, do CCB; 240, § 1º, 921, III, e 924, V, do CPC e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7/STJ. Para alterar o decidido no acórdão impugnado, no que se refere à inexistência de inércia do exequente, necessário o reexame de fatos e provas, o que é vedado, em recurso especial, pela referida súmula.
+No mesmo sentido, cito o seguinte precedente:
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. PRESCRIÇÃO INTERCORRENTE. AFASTAMENTO PELO TRIBUNAL ESTADUAL. INÉRCIA DO EXEQUENTE. NÃO OCORRÊNCIA DE DESÍDIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 2. ALTERAÇÕES INTRODUZIDAS PELA LEI N. 14.195/2021. IRRETROATIVIDADE. RECONHECIMENTO. 3. BEM DE FAMÍLIA. INDISPONIBILIDADE DO BEM IMÓVEL PELO SISTEMA CNIB. DIREITO À MORADIA. INTERFERÊNCIA. AUSÊNCIA. FUNDAMENTOS NÃO ATACADOS. INCIDÊNCIA DA SÚMULA N. 283 DO STF. 4. AVERBAÇÃO PREMONITÓRIA. ADMISSIBILIDADE. LEGÍTIMO INTERESSE DO CREDOR. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Rever as conclusões do acórdão estadual para analisar as peculiaridades que ensejaram o afastamento da prescrição intercorrente demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+2. Este eg. Superior Tribunal de Justiça já firmou entendimento de que as alterações introduzidas pela Lei n. 14.195/2021 no tocante ao tema relativo à prescrição intercorrente não se aplicam retroativamente.
+3. A ausência de impugnação específica quanto ao argumento de que a indisponibilidade do bem não interfere no direito à moradia, atrai a incidência da Súmula n. 283 do STF.
+4. Esta Corte Superior tem orientação no sentido de que, ainda que o imóvel se trate de bem de família, é perfeitamente possível a averbação premonitória.
+5. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.854.422/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+No tocante ao pedido de gratuidade de justiça, tendo em vista a documentação apresentada e a ausência de impugnação da parte adversa, defiro a benesse, sem efeitos retroativos.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e dou-lhe provimento apenas para deferir a gratuidade de justiça não retroativa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. NÃO OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE. INEXISTÊNCIA DE INÉRCIA. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. FALTA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. DESCABIMENTO DO RECURSO ESPECIAL CONTRA SUPOSTA VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS E SÚMULAS. GRATUIDADE DE JUSTIÇA DEFERIDA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
