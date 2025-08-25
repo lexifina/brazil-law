@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FLÁVIO RAMOS contra decisão por meio da qual rejeitei seus embargos de declaração opostos anteriormente.
+A embargante, em suas razões, alega que há omissão e contradição na decisão recorrida. Para tanto, reitera os argumentos trazidos anteriormente, salientando que o acórdão não enfrentou tese apresentada nas razões do recurso especial. Aduz, mais uma vez, que a execução e penhoras devem ser extintas.
+Intimada a manifestar-se, a parte embargada pugnou pela rejeição do recurso (fls. 689/693, e-STJ).
+Assim posta a questão, passo à análise da matéria submetida a julgamento.
+A irresignação não deve ser acolhida.
+A decisão recorrida deve ser mantida pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à oposição dos embargos de declaração. Não há vícios a serem sanados.
+A embargante pretende distorcer o julgado, a fim de obter solução diversa. A embargante reitera as razões dos embargos de declaração opostos anteriormente. Sustenta, mais uma vez, que o provimento do recurso especial e a extinção da execução devem implicar a imediata liberação das penhoras, especialmente a de verba alimentar, sob pena de violação de direitos processuais, materiais e constitucionais e de gerar um limbo jurídico para o executado.
+Em novos embargos de declaração, a embargante rediscute questões já enfrentadas. Conforme entendimento desta Corte, de forma análoga: "os segundos embargos de declaração devem limitar-se a apontar os vícios porventura constatados no acórdão que julgou os primeiros embargos, sendo inadmissíveis quando se contrapõem aos argumentos delineados no aresto anteriormente impugnado" (EDcl nos EDcl no AgRg na AR n. 3.817/MG, Relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 23/4/2008, DJe de 12/5/2008).
+A decisão embargada, por sua vez, estabeleceu que a decisão que julgou recurso especial foi clara ao determinar a suspensão do pagamento de honorários aos advogados e condicionar a liberação dos valores retidos à solução da controvérsia em ação própria. Esse entendimento está de acordo com a jurisprudência desta Corte, que determina que a disputa entre substabelecente e substabelecido sobre honorários deve ser resolvida em ação própria. Portanto, a decisão recorrida foi mantida, pois se constatou a manifesta ausência de vícios a serem sanados.
+No caso, os embargos de declaração são manifestamente protelatórios e não devem ser acolhidos:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. APELO ESPECIAL. ANÁLISE DO MÉRITO. SÚMULA Nº 315/STJ. AFASTADA. INTIMAÇÃO ELETRÔNICA. PREVALÊNCIA. SÚMULA Nº 168/STJ. INCIDÊNCIA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA.
+( )
+3. O propósito manifestamente protelatório e a utilização indevida dos aclaratórios justifica a incidência da sanção prevista no art. 1.026, § 2º, do CPC.
+4. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.999.418/DF, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 11/6/2024, DJe de 19/6/2024).
+Ainda que assim não fosse, o princípio da unirrecorribilidade veda a interposição de mais de um recurso contra a mesma decisão. No presente caso, a recorrente opôs embargos de declaração sucessivos contra a mesma decisão (fls. 667/668, e-STJ).
+Nesse contexto, sabe-se que: "O entendimento do Superior Tribunal de Justiça é no sentido de que, no caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, em virtude da preclusão consumativa e do princípio da unicidade recursal, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial. A ressalva a esse entendimento é a possibilidade de interposição de recursos especial e extraordinário pela mesma parte e contra a mesma decisão. Contudo, esse não é o caso dos autos" (AgInt nos EDcl no REsp n. 2.062.892/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/5/2025, DJEN de 19/5/2025).
+Em face do exposto, rejeito os embargos de declaração e, considerando o caráter manifestamente protelatório do recurso, condeno a embargante ao pagamento de multa em favor da parte embargada, no montante correspondente a 2% do valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
