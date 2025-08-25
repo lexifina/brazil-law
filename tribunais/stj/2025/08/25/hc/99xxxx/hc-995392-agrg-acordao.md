@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL N. 11.846/2023. VEDAÇÃO EXPRESSA A CONDENADOS JÁ BENEFICIADOS POR DECRETOS ANTERIORES. INTERPRETAÇÃO SISTEMÁTICA. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela Defensoria Pública do Estado de Minas Gerais contra decisão que denegou a ordem de habeas corpus, em favor de condenado cuja comutação de pena, com base no Decreto n. 11.846/2023, foi indeferida por já ter sido beneficiado com decretos anteriores (n. 7.046/2009, 7.420/2010 e 8.615/2015).
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é possível a concessão de nova comutação de pena prevista no Decreto n. 11.846/2023 a condenado já agraciado com comutações concedidas por decretos anteriores.
+III. RAZÕES DE DECIDIR
+3. O art. 4º do Decreto n. 11.846/2023 estabelece requisito objetivo negativo para a concessão da comutação: não ter o condenado obtido benefício similar até 25 de dezembro de 2023 por meio de decretos anteriores.
+4. Os §§ 1º e 2º do art. 3º do mesmo decreto tratam apenas da forma de cálculo do benefício, aplicável exclusivamente aos casos em que é juridicamente possível a concessão, não afastando a limitação do art. 4º.
+5. A interpretação sistemática do decreto impõe a prevalência da regra específica do art. 4º sobre disposições de cálculo, por se tratar de norma restritiva e condicionante do direito à comutação.
+6. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de vedar nova concessão de comutação a condenados que já tenham recebido benefício por decretos anteriores, aplicando-se raciocínio idêntico a decretos de anos anteriores.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Tese de julgamento:
+1. A concessão de comutação de pena prevista no Decreto nº 11.846/2023 exige, como requisito objetivo, que o condenado não tenha sido beneficiado por comutação de pena concedida por decretos anteriores.
+2. Os §§ 1º e 2º do art. 3º do Decreto nº 11.846/2023 não afastam a limitação imposta pelo art. 4º, pois apenas disciplinam a forma de cálculo do benefício para hipóteses em que ele é juridicamente cabível.
+RELATÓRIO
+Trata-se de agravo regimental interposto pela Defensoria Pública do Estado de Minas Gerais contra decisão de fls. 110/113, que denegou a ordem de habeas corpus.
+Em suas razões, o agravante alega que, ao contrário do que constou na decisão, o Decreto nº 11.846/23 admite em seus § 1º e § 2º do art. 3º a possibilidade de sucessivas comutações.
+Sustenta que, "segundo dispõe o decreto, a pessoa que teve a pena anteriormente comutada terá a nova comutação calculada sobre o remanescente da pena ou sobre o período de pena cumprido, sem necessidade de um novo requisito temporal" e que o "§1º determina que o cálculo será feito sobre o período de pena cumprido até 25 de dezembro de 2023, se o período de pena cumprido, descontadas as comutações anteriores, for superior ao remanescente" (fl. 126).
+Afirma, pois, que "há dois dispositivos do decreto que admitem a comutação da pena sucessiva (§§1º e 2º do art. 3º). Apenas da leitura do art. 4º, surge a suposta vedação à comutação para aqueles que já a tenham obtido por meio de decretos anteriores. Sendo assim, a única conclusão possível da leitura desses dispositivos é de que há uma evidente incongruência normativa constante do Decreto" (fl. 127).
+Requer a reconsideração da decisão agravada ou a submissão do recurso a julgamento pela Turma.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL N. 11.846/2023. VEDAÇÃO EXPRESSA A CONDENADOS JÁ BENEFICIADOS POR DECRETOS ANTERIORES. INTERPRETAÇÃO SISTEMÁTICA. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela Defensoria Pública do Estado de Minas Gerais contra decisão que denegou a ordem de habeas corpus, em favor de condenado cuja comutação de pena, com base no Decreto n. 11.846/2023, foi indeferida por já ter sido beneficiado com decretos anteriores (n. 7.046/2009, 7.420/2010 e 8.615/2015).
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é possível a concessão de nova comutação de pena prevista no Decreto n. 11.846/2023 a condenado já agraciado com comutações concedidas por decretos anteriores.
+III. RAZÕES DE DECIDIR
+3. O art. 4º do Decreto n. 11.846/2023 estabelece requisito objetivo negativo para a concessão da comutação: não ter o condenado obtido benefício similar até 25 de dezembro de 2023 por meio de decretos anteriores.
+4. Os §§ 1º e 2º do art. 3º do mesmo decreto tratam apenas da forma de cálculo do benefício, aplicável exclusivamente aos casos em que é juridicamente possível a concessão, não afastando a limitação do art. 4º.
+5. A interpretação sistemática do decreto impõe a prevalência da regra específica do art. 4º sobre disposições de cálculo, por se tratar de norma restritiva e condicionante do direito à comutação.
+6. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de vedar nova concessão de comutação a condenados que já tenham recebido benefício por decretos anteriores, aplicando-se raciocínio idêntico a decretos de anos anteriores.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Tese de julgamento:
+1. A concessão de comutação de pena prevista no Decreto nº 11.846/2023 exige, como requisito objetivo, que o condenado não tenha sido beneficiado por comutação de pena concedida por decretos anteriores.
+2. Os §§ 1º e 2º do art. 3º do Decreto nº 11.846/2023 não afastam a limitação imposta pelo art. 4º, pois apenas disciplinam a forma de cálculo do benefício para hipóteses em que ele é juridicamente cabível.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 70-71):
+Consta dos autos que o Juízo da execução indeferiu ao paciente a comutação da penas, em relação às guias nº 0085966-17.2017.8.13.0027, nº 0085974- 91.2017.8.13.0027, nº 0085958-40.2017.8.13.0027 e nº 0085941-04.2017.8.13.0027, com fulcro no art. 1º, inciso I, c/c art. 4º do Decreto Presidencial nº 11.846/2023.
+Sobre o tema, assim se manifestou o Tribunal de origem (fls. 62-63):
+ ..  Cinge-se a controvérsia recursal em avaliar se o agravante faz jus à comutação da pena. A defesa defende que a concessão anterior de comutação de pena, por si só, não obsta o deferimento de nova comutação com base no Decreto Presidencial nº 11.846/2023. O Órgão de Execução do Ministério Público, por sua vez, afirma ser vedada a comutação para sentenciados beneficiados por decretos anteriores. Feitas tais considerações, verifica-se que o agravo não comporta acolhida. Dispõe o art. 4º, "caput", do referido ato normativo: Art. 4º. Concede-se comutação às pessoas condenadas a pena privativa de liberdade que atendam aos requisitos estabelecidos neste Decreto e que não tenham, até 25 de dezembro de 2023, obtido as comutações por meio de Decretos anteriores, independentemente de pedido anterior. O preceito que estabeleceu a comutação vedou a concessão desse mesmo benefício para aqueles que, em momento anterior a 25/12/2023, já tinham sido agraciados com tal benesse. Analisando detidamente os autos, observa-se que o apenado já havia sido beneficiado com a Copiar texto de Fl. 112 comutação da pena, com base nos Decretos nº 7.046/2009, nº 7.420/2010 e nº 8.615/2015 (SEEU - autos da execução nº 0085933-27.2017.8.13.0027), o que impossibilita nova . concessão de indulto/comutação, conforme se extrai do art. 4º do Decreto nº 11.846/2023 Portanto, tendo em vista que o apenado não preencheu os requisitos necessários para a concessão da comutação prevista no Decreto Presidencial nº 11.846/2023, a manutenção da decisão agravada é medida que se impõe.  ..  Diante do exposto, sem maiores delongas, NEGA-SE PROVIMENTO AO RECURSO, mantendo-se a decisão agravada em sua integralidade.
+Constata-se que os fundamentos apresentados pelas instâncias de origem estão em conformidade com a jurisprudência desta Corte e com o Decreto Presidencial n. 11.846, de 22 de dezembro de 2023, uma vez que o art. 4º do referido decreto condicionou o direito à comutação da pena a não concessão do benefício por meio de decretos anteriores. Logo, considerando que o ora paciente foi agraciado com a comutação de pena com base em decretos anteriores, inviável o deferimento da benesse.
+Cabe ressaltar que, ao analisar o mesmo tema proposto nos presentes autos, com base em outros decretos, foi negada a solicitação de nova comutação a apenados que já haviam sido beneficiados por comutações anteriores. A propósito:
+AGRAVO REGIMENTAL EM SUBSTITUTIVO DE RECURSO HABEAS CORPUS PRÓPRIO. IMPUGNAÇÃO DEFENSIVA. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO 9.246/2017. VEDAÇÃO DE CONCESSÃO A APENADOS QUE JÁ TENHAM SIDO BENEFICIADOS COM COMUTAÇÕES ANTERIORES. INTERPRETAÇÃO DO PARÁGRAFO ÚNICO DO ART. 7º DO DECRETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 7/06/2018, DJe 15/06/2018 )
+2. O Decreto n. 9.246/2017 veda, expressa e taxativamente, em seu art. 7º, parágrafo único, a concessão da comutação por ele instituída, a quem já tenha sido beneficiado por igual benesse processual decorrente de decretos anteriores. Precedentes: AgRg no HC n. 714.744/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/06/2022, DJe de 21/06/2022; AgRg no HC n. 471.788/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2020, DJe de 12/8/2020; AgRg no HC n. 471.779/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/10/2019, DJe de 19/11/2019; HC n. 485.321/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2019, DJe de 15/03/2019; AgRg no HC n. 475.035 /SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/2/2019, DJe de 1/3/2019.
+3. Agravo regimental desprovido. (AgRg no HC n. 891.745/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. HABEAS CORPUS COMUTAÇÃO DE PENA. DECRETO N. 8.172/2013. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO OBJETIVO DE ORDEM NEGATIVA. APENADO AGRACIADO COM COMUTAÇÃO DA PENA COM BASE EM DECRETOS ANTERIORES. BENESSE RESTRITA AOS CONDENADOS QUE NÃO RECEBERAM O BENEFÍCIO ANTERIORMENTE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Conforme literalidade do art. 3º, do Decreto n. 8.172, de 24 de dezembro de 2013, "Concede-se comutação às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2013, obtido as comutações, de decretos anteriores, independente de pedido anterior".
+2. No caso dos autos, o paciente foi agraciado com a comutação da pena, com base nos decretos anteriores, dos anos de 2011 e 2012, relacionados às mesmas reprimendas, razão pela qual não restou preenchido o requisito objetivo.
+3. Agravo regimental desprovido. (AgRg no HC n. 763.863/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+O acórdão impugnado harmoniza-se coma jurisprudência desta Corte, não se verificando, assim, o apontado constrangimento ilegal.
+Ante o exposto, denego a ordem de habeas corpus.
+Em que pesem os argumentos da parte agravante, a decisão impugnada deve ser mantida.
+Com efeito, a interpretação sistemática do Decreto n. 11.846/2023 conduz à conclusão de que o art. 4º estabelece requisito objetivo negativo expresso para a concessão da comutação, qual seja, a inexistência de benefício similar concedido por decretos anteriores, o que afasta a aplicação dos §§ 1º e 2º do art. 3º na hipótese dos autos. A leitura isolada desses dispositivos, como pretende a defesa, desconsidera a hierarquia interna das normas e o caráter restritivo do art. 4º, que, por ser regra específica, prevalece sobre disposições de cálculo voltadas apenas a definir a forma de apuração da pena para os casos em que a benesse é juridicamente cabível.
+Assim, ausente o preenchimento do requisito objetivo previsto no referido dispositivo, inexiste direito subjetivo à nova comutação, razão pela qual a manutenção da decisão agravada é medida que se impõe.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
