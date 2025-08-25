@@ -1,0 +1,23 @@
+DECISÃO
+Em petição  de  habeas  corpus,  com  pedido  liminar para revogar a prisão preventiva,  impetrada em favor de  LUIZ HENRIQUE SOUZA LIMA MELGAÇO, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça  do  Estado  de São Paulo.
+Consta dos autos que a prisão em flagrante do paciente foi convertida em prisão preventiva, decorrente de suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/06.
+Impetrado  writ  perante  o  Tribunal  de  origem,  que  denegou  a  ordem  pleiteada  no  Habeas  Corpus  n.  2201974-83.2025.8.26.0000.  Segue  a  ementa  do  acórdão  (e-STJ, fl.  13 ):
+Direito Penal. Habeas Corpus. Tráfico de entorpecentes. Revogação da prisão preventiva. Pedido sustentado na alegação de que não estariam presentes os requisitos da custódia cautelar. Requisitos da constrição cautelar que se encontram presentes no caso em análise, sendo necessária a manutenção da prisão do paciente. Crime com pena máxima superior a quatro anos. Inteligência do artigo 313, inciso I, do CPP. Necessidade de garantia da ordem pública. Maus antecedentes que denotam periculosidade do agente e risco de reiteração delitiva se colocado em liberdade. Prisão mantida. Impossibilidade de aplicação de quaisquer das medidas cautelares diversas do cárcere (artigo 319 do mesmo Diploma Legal). Decisão de primeira instância bem fundamentada que não se mostrou ilegal ou teratológica. Constrangimento ilegal não verificado. Ordem denegada.
+A petição inicial expõe a existência de constrangimento ilegal, em razão da ausência de fundamentação idônea para a decretação da prisão preventiva.
+O impetrante alega que: "Tratando-se de paciente prima"rio, na o ha" indícios algum de que, caso seja beneficiado com a liberdade proviso"ria, colocara" em risco a ordem pu"blica. Na o restou demonstrado, no mesmo sentido, o perigo do estado de liberdade do paciente." (e-STJ, fl. 4).
+No ponto, alega-se também que " ..  em relaça o aos inque"ritos policiais, os quais constam na certida o de antecedentes do Paciente, na o prosperaram, havendo somente um em andamento no presente momento. Portanto, na  o devem ser considerados uma vez que na o houve indiciamento, muito menos denu"ncia." (e-STJ, fl. 9).
+Busca demonstrar que " ..  o caso do Paciente claramente comporta a substituiça o da prisa o por quaisquer das medidas cautelares diversas previstas no art. 319 do CPP." (e-STJ, fl. 10).
+Assim, o pedido especifica-se na revogação da prisão preventiva, com ou sem aplicação de medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal - CPP.
+É, no essencial, o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que a lguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+Em relação aos fundamentos da prisão preventiva, ressalto que o rito do habeas corpus demanda prova documental pré-constituída do direito alegado.
+Observo que, no presente caso, o impetrante não colacionou a íntegra do decreto de prisão preventiva, documento necessário à análise do pleito de revogação da medida extrema. Dessa forma, a ausência de peças essenciais ao deslinde da controvérsia impede o exame sobre as referidas alegações.
+Com efeito: "A Defesa não juntou aos autos cópia da decisão que decretou a prisão preventiva do Recorrente, de modo que não é possível analisar a viabilidade das questões referentes aos requisitos da prisão preventiva e fundamento do decreto prisional, na medida em que o recurso foi mal instruído." (RHC n. 123.562/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/5/2020, DJe de 2/6/2020).
+Assim, é dever do impetrante instruir seu pleito com os documentos necessários ao julgamento do writ, de modo que a falta do ato coator torna inviável aferir o pleito mandamental.
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com fundamento no art. 210 do Regimento Interno do egrégio Superior Tribunal de Justiça .
+Cientifique-se o Ministério Público Federal.
+Publique-se
+Intimem-se.
+EMENTA
