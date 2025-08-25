@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO DO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. COMPENSAÇÃO COM OS ÍNDICES PREVISTOS NAS LEIS N. 8.622/1993 E 8.627/1993. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DA QUESTÃO FÁTICA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):
+Trata-se de embargos de declaração opostos pelo Sindicado dos Trabalhadores das Universidades Federais de Pernambuco (SINTUFEPE-SS/UFPE) contra acórdão de fls. 1.036-1.042 que, à unanimidade de votos, deu parcial provimento ao agravo interno da Universidade Federal de Pernambuco - UFPE, a fim de modificar a decisão de fls. 946-955, de modo a dar parcial provimento ao recurso especial do SINTUFEPE-SS/UFPE no sentido de determinar o retorno dos autos ao Tribunal de origem para que, superando a tese adotada anteriormente, analise efetivamente se houve no título transitado em julgado na fase de conhecimento da ação coletiva a previsão ou não de compensação do índice de 28,86% com outros índices previstos nas Leis n. 8.622/1993 e 8.627/1993, dando-se destaque à medida cautelar incidental de tutela provisória recursal (processo n. 0011355-36.1997.4.05.0000).
+O embargante alega omissão acerca do pedido formulado às fls. 959-963 para que fossem fixados os honorários devidos pela promoção do cumprimento de sentença. Sustenta também que o acórdão embargado "deixou de observar que a medida cautelar incidental não integra o título executivo em voga, justamente em razão de sua natureza acessória.". Requer, assim, o acolhimento dos embargos de declaração para que "seja desprovido o agravo interno da UFPE, mantendo-se a decisão que afastou a compensação do reajuste de 28,86% com as Leis n. 8.622/93 e 8.627/93, em respeito à coisa julgada".
+Impugnação às fls. 1.078-1.083.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO DO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. COMPENSAÇÃO COM OS ÍNDICES PREVISTOS NAS LEIS N. 8.622/1993 E 8.627/1993. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DA QUESTÃO FÁTICA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material, o que não se observa no presente feito. Vejamos.
+Quanto à alegada omissão do pedido de honorários advocatícios em sede de impugnação ao cumprimento de sentença, registre-se que o Tribunal a quo julgou a questão, asseverando que "a Corte Especial do Superior Tribunal de Justiça, nos autos do REsp nº 1.134.186/RS, julgado sob a sistemática do recurso representativo de controvérsia, consolidou o entendimento de que "não são cabíveis honorários advocatícios em impugnação ao cumprimento de sentença mas apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, parágrafo 4º, do CPC" (grifo nosso). Portanto, não há falar em omissão, visto que a questão foi enfrentada de forma exauriente.
+Por fim, no que se refere ao argumento de que o acórdão embargado teria deixado "de observar que a medida cautelar incidental não integra o título executivo em voga, justamente em razão de sua natureza acessória.", consta-se que o embargante procura nova análise da questão, a qual já se havia consignado que somente nas instâncias ordinárias se poderá definir quanto ao ponto sendo, assim, necessário o retorno dos autos à origem para sua apreciação, porquanto em recurso especial não se admite o exame de tais argumentos.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
