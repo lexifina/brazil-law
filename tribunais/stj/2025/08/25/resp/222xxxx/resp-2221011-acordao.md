@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ALEGAÇÃO DE PREJUDICIALIDADE EXTERNA DA AÇÃO DE REINTEGRAÇÃO DE POSSE COM A AÇÃO DE USUCAPIÃO. QUESTÃO NÃO ANALISADA NO JULGAMENTO DA APELAÇÃO, SEM QUE FOSSEM OPOSTOS EMBARGOS DE DECLARAÇÃO A FIM DE SUSCITAR A DISCUSSÃO. PREQUESTIONAMENTO FICTO (ART. 1.025 DO CPC) NÃO CARACTERIZADO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A controvérsia atinente à existência de prejudicialidade externa, que justifique a suspensão da demanda possessória até o julgamento da ação de usucapião, não foi objeto de análise pelo Tribunal estadual, que se limitou a não conhecer do recurso de apelação, no ponto, por se tratar de inovação de tese, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, portanto, do indispensável prequestionamento. Incidência das Súmulas n. 282 e 356 do STF, por analogia.
+2. Admite-se o prequestionamento ficto apenas na hipótese em que não tendo sido sanada a omissão com a oposição de embargos de declaração, seja indicada ofensa ao art. 1.022 do CPC no apelo nobre, o que não foi observado no caso dos autos.
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por SEBASTIANA DA COSTA CARNEIRO, com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado:
+DIREITO CIVIL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. APELAÇÃO CÍVEL. PRELIMINAR DE IMPOSSIBILIDADE DE COGNIÇÃO DE AÇÃO DOMINIAL EM FACE DE PENDÊNCIA DE AÇÃO POSSESSÓRIA. POSSE MANSA, PACÍFICA, ININTERRUPTA E COM ANIMUS DOMINI. REQUISITOS PREENCHIDOS. RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso de apelação cível interposto contra sentença proferida pelo Juízo da 1ª Vara Cível da Comarca de Araguaína, que julgou procedente a ação de usucapião extraordinária proposta em desfavor da recorrente. Sustenta a apelante, em preliminar, que é indevida a propositura de ação de usucapião enquanto pendente ação possessória anterior. No mérito, aduz ausência de prova da posse com animus domini, notadamente quanto ao período necessário à prescrição aquisitiva, e ausência de elementos objetivos que evidenciem a ocupação ininterrupta do imóvel pelo genitor da apelada.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível o ajuizamento de ação de usucapião extraordinária enquanto pendente ação possessória entre as partes; (ii) verificar se restaram preenchidos os requisitos legais para o reconhecimento da usucapião extraordinária.
+III. RAZÕES DE DECIDIR
+3. A preliminar de impossibilidade de propositura de ação dominial enquanto pendente ação possessória não foi suscitada perante o juízo de origem, caracterizando inovação recursal, o que impede seu conhecimento por esta instância revisora, sob pena de supressão de instância, conforme entendimento consolidado da jurisprudência nacional.
+4. Nos termos do artigo 337 do Código de Processo Civil, a alegação de prejudicialidade entre ações possessória e dominial deveria ter sido arguida em momento processual oportuno, o que não se verificou, impossibilitando sua análise nesta sede.
+5. No mérito, o reconhecimento da usucapião extraordinária exige a demonstração de posse contínua, mansa, pacífica e com animus domini pelo prazo de quinze anos, nos termos do artigo 1.238 do Código Civil. Tais requisitos foram preenchidos, consoante conjunto probatório constante dos autos.
+6. A autora da ação originária comprovou documentalmente e por meio de testemunhos idôneos que o imóvel foi ocupado ininterruptamente por seu genitor desde 1979 até seu falecimento, em 2012, sem oposição de terceiros, circunstância suficiente à configuração da prescrição aquisitiva da propriedade por usucapião extraordinária.
+7. A ausência de título e de negócio jurídico formal entre a apelante e o genitor da apelada não obsta o reconhecimento da usucapião, dado o caráter originário da aquisição do domínio, nos moldes do artigo 1.238 do Código Civil, prescindindo-se de justo título ou boa- fé.
+8. Verificada a individualização do imóvel usucapido, conforme matrícula nº 32.790, e demonstrada a posse qualificada, impõe-se a manutenção da sentença de procedência, nos termos do artigo 373, inciso I, do Código de Processo Civil.
+IV. DISPOSITIVO E TESE
+9. Recurso conhecido parcialmente e, na parte conhecida, desprovido. Sentença mantida. Majoração dos honorários advocatícios para 12% sobre o valor atualizado da causa. Tese de julgamento:
+1. A preliminar de impossibilidade de propositura de ação dominial enquanto pendente ação possessória configura inovação recursal quando não arguida no juízo de origem, sendo incabível sua análise pelo tribunal por configurar supressão de instância.
+2. O reconhecimento da usucapião extraordinária exige a demonstração de posse contínua, mansa, pacífica e com animus domini pelo prazo de quinze anos, dispensando-se justo título ou boa-fé, conforme previsão do artigo 1.238 do Código Civil.
+3. A posse exercida por ascendente da autora, de forma contínua e ininterrupta, com ânimo de dono e sem contestação, é hábil a ensejar o reconhecimento da usucapião extraordinária, desde que adequadamente comprovada nos autos.
+Dispositivos relevantes citados: Código de Processo Civil, artigos 337 e 373, inciso I; Código Civil, artigo 1.238, caput e parágrafo único (e-STJ, fls. 1.376-1.378)
+Nas razões do presente recurso, SEBASTIANA alegou, a par de divergência jurisprudencial, a violação dos arts. 337, § 5º, e 557 do CPC, ao sustentar a impossibilidade de cumulação de ações possessória e petitória sobre o mesmo bem e entre as mesmas partes, por serem ambas incompatíveis entre si.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.376-1.383).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ALEGAÇÃO DE PREJUDICIALIDADE EXTERNA DA AÇÃO DE REINTEGRAÇÃO DE POSSE COM A AÇÃO DE USUCAPIÃO. QUESTÃO NÃO ANALISADA NO JULGAMENTO DA APELAÇÃO, SEM QUE FOSSEM OPOSTOS EMBARGOS DE DECLARAÇÃO A FIM DE SUSCITAR A DISCUSSÃO. PREQUESTIONAMENTO FICTO (ART. 1.025 DO CPC) NÃO CARACTERIZADO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A controvérsia atinente à existência de prejudicialidade externa, que justifique a suspensão da demanda possessória até o julgamento da ação de usucapião, não foi objeto de análise pelo Tribunal estadual, que se limitou a não conhecer do recurso de apelação, no ponto, por se tratar de inovação de tese, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, portanto, do indispensável prequestionamento. Incidência das Súmulas n. 282 e 356 do STF, por analogia.
+2. Admite-se o prequestionamento ficto apenas na hipótese em que não tendo sido sanada a omissão com a oposição de embargos de declaração, seja indicada ofensa ao art. 1.022 do CPC no apelo nobre, o que não foi observado no caso dos autos.
+3. Recurso especial não conhecido.
+VOTO
+O recurso não merece prosperar.
+No caso em tela, SEBASTIANA ingressou com ação possessória em desfavor de CRHISTIANE BARBOSA DA COSTA FREITAS (CRHISTIANE), que, por sua vez, ajuizou ação de usucapião extraordinária contra aquela, ambas tendo por objeto o imóvel urbano descrito como Lote n. 22 da quadra H, situado na Rua 13 de Maio com a área de 425,00 m2, pertencente à matrícula n. 32.790, localizado na cidade de Araguaína/TO.
+Em primeira instância, após destacar que o andamento da ação possessória foi suspenso até o julgamento da ação de usucapião, o pedido da prescrição aquisitiva foi julgado procedente a fim de declarar, em favor de CHRISTIANE, a usucapião extraordinária do imóvel descrito na inicial, com a condenação da ré, SEBASTIANA, ao pagamento de custas, taxa judiciária, despesas processuais e honorários advocatícios de sucumbência, fixados em 20% do valor atualizado da causa, nos termos do art. 85, § 2º, do CPC (e-STJ, fls. 1.208-1.213).
+Irresignada, SEBASTIANA apelou, e o recurso não foi provido pelo TJTO que, em relação à questão preliminar suscitada, atinente à impossibilidade do ajuizamento de ação de usucapião extraordinária enquanto pendente ação possessória entre as partes, assim consignou:
+Suscita a parte recorrente o ajuizamento de ação possessória originária antes do ajuizamento da ação de usucapião extraordinária pela parte apelada.
+Contudo, é possível observar que a preliminar suscitada não é de conhecimento do juízo de origem.
+É cediço que somente serão objeto de análise e julgamento pela instância revisora, as questões discutidas no processo e que foram objeto de análise pelo juízo singular, sendo inadmissível a inovação recursal por caracterizar a supressão de instância.
+Diante disso, não compete à esta Corte de Justiça, na qualidade de juízo ad quem, manifestar-se sobre a tese preliminar suscitada neste momento processual.
+Ademais, cabe ressaltar que a referida preliminar é própria da peça defensiva consoante artigo 337 do Código de Processo Civil.
+Não conheço do recurso nesta parte (e-STJ, fls. 1.369-1.370).
+Como se vê, a questão controvertida veiculada nas razões do especial não foi objeto de análise pelo Tribunal estadual, que, no julgamento da apelação, se limitou a assinalar que não se poderia conhecer do recurso nessa parte, sem que, na sequência, fossem opostos embargos de declaração, ressentindo-se o apelo excepcional, no ponto, do indispensável prequestionamento. Incide, à hipótese, os comandos das Súmulas n. 282 e 356 do STF.
+Ressalte-se que a admissão de prequestionamento ficto (art. 1.025 do CPC),
+em recurso especial, exige, além da oposição de embargos de declaração no Tribunal local - o que não ocorreu na espécie -, que seja indicada violação do art. 1.022 para que se possibilite a esta Corte verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. VÍCIOS E DEFEITOS DA PENHORA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PRECLUSÃO CONFIGURADA. REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO-SURPRESA. NÃO CONFIGURADA. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Segundo a jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória. Súmula 7 do STJ.
+3. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Súmulas 282 e 356 do STF.
+4. O "fundamento" ao qual se refere o art. 10 do CPC/2015 é fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.860.750/PR, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022 - sem destaque no original)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Deixo de majorar o valor dos honorários advocatícios, nos termos do art. 85, § 11, do CPC, tendo em vista a sua fixação pelo percentual máximo nas instâncias ordinárias.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
+Com efeito, a jurisprudência desta Corte Superior entende que oreconhecimento, pelo Juízo de origem, da conexão entre as ações comreunião dos feitos para decisão conjunta não obriga o julgamento emconjunto das apelações.
