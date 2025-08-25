@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por THIAGO CONTI BELO DE SOUZA contra  acórdão  prolatado  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPIRÍTO SANTO.
+O recorrente foi condenado, com trânsito em julgado, às penas de 13 (treze) anos de reclusão, em regime inicial fechado, e 700 (setecentos) dias-multa, no valor unitário mínimo legal, como incurso nos arts. 35, caput, da Lei n. 11.343/2006 e 159, caput, do Código Penal (fls. 48-138).
+O Tribunal de origem julgou parcialmente procedente a revisão criminal, reduzindo ao mínimo legal a pena do delito do art. 35, caput, da Lei 11.343/06 (fls. 180-190).
+Nas  razões  do  recurso  especial (fls. 266-282),  interposto  com  fundamento  no  art.  105,  inciso  III,  alíneas  "a" e "c",  da  Constituição  da  República,  a  parte  recorrente  sustenta  a violação aos arts. 159, 59, 65, inciso III, alínea "d", e 67, todos do Código Penal; aos arts. 621, incisos I e III, e 625, do Código de Processo Penal; ao art. 5º, inciso XLVI, e art. 93, inciso IX, ambos da Constituição Federal.
+Requer,  por  fim,  o conhecimento e provimento do recurso, para que a dosimetria da pena pelo delito do art. 159 do Código Penal seja reformada, a fim de: (i) afastar a avaliação negativa da culpabilidade; (ii) reduzir a pena-base em razão do afastamento (já operado pelo Tribunal de origem em revisão criminal) dos vetores negativos dos motivos do crime e das circunstâncias, diante da reformatio in pejus; (iii) aplicar a fração de 1/6 pela atenuante de confissão.
+Apresentadas as contrarrazões (fls. 320-326), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior (fls. 327-330).
+O Ministério Público Federal apresentou  manifestação  pelo  desprovimento do  recurso  especial  (fls.  356-360).
+É  o  relatório. DECIDO.
+Conforme relatado, nas razões do recurso especial, a Defesa pleiteia a fixação da pena do delito do art. 159 do Código Penal no mínimo legal, sustentando a necessidade de afastamento da valoração negativa da culpabilidade, e aduzindo que, em revisão criminal, o Tribunal a quo afastou duas vetoriais (motivos e circunstâncias), o que deveria ter ensejado a redução da pena na primeira fase da dosimetria. Requer, também, a aplicação da fração de 1/6 pela atenuante da confissão.
+Entretanto, a despeito dos judiciosos argumentos apresentados pelo recorrente, tenho que o recurso especial não ultrapassa a barreira do conhecimento.
+Inicialmente, em relação à alegação de afronta ao art. 5º, inciso XLVI, e ao art. 93, inciso IX, da Constituição Federal, deixo de conhecer do recurso especial no ponto, diante da inadequação da via eleita, sob pena de usurpação da competência do STF em recurso extraordinário, conforme estabelece o art. 102, inciso III, alínea "a", da CF.
+Quanto à interposição com fulcro na alínea "c" do inciso III do art. 105 da Constituição Federal, há insuficiência de fundamentação recursal.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIFAMAÇÃO. REJEIÇÃO DA QUEIXA-CRIME. AUSÊNCIA DE DOLO ESPECÍFICO. FALTA DE JUSTA CAUSA PARA A AÇÃO PENAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DESPROVIMENTO DO RECURSO.  ..
+6. O recorrente não demonstrou adequadamente o dissídio jurisprudencial, limitando-se à mera transcrição de ementas, sem apresentar cotejo analítico entre o acórdão recorrido e o paradigma, em desacordo com os requisitos exigidos para a admissibilidade do recurso especial.
+7. A falta de indicação expressa do dispositivo legal objeto do suposto dissídio interpretativo inviabiliza o conhecimento do recurso especial com fundamento na alínea "c" do art. 105, III, da Constituição Federal, conforme entendimento consolidado do STJ e aplicação, por analogia, da Súmula 284/STF.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.  ..
+(III) A demonstração do dissídio jurisprudencial exige cotejo analítico entre os acórdãos comparados, não sendo suficiente a mera transcrição de ementas.
+(IV) O recurso especial fundado na alínea "c" do permissivo constitucional deve indicar expressamente o dispositivo legal objeto da divergência interpretativa, sob pena de inadmissibilidade.  ..  (AgRg no AREsp n. 2.567.162/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025.)
+Presente, portanto, o óbice da Súmula n. 284, STF, por analogia.
+No que toca à interposição pela alínea "a" do inciso III do art. 105 da Constituição Federal, verifico que o pleito de neutralização da vetorial da culpabilidade encontra óbice na Súmula n. 7, STJ.
+Assim manifestou-se o Tribunal de origem no que toca à valoração da culpabilidade (fls. 184-185):
+" ..  culpabilidade intensa, pois atuou diretamente em todas as etapas do crime, sendo o grau de reprovabilidade muito elevado;
+Trata-se, como se vê, de circunstância devidamente fundamentada em elementos concretos, provados nos autos. Na espécie, observo que o revisionando teve ampla atuação na execução do crime, cabendo-lhe não só fazer a vigilância do cativeiro, como também, transportá-la quando da sua libertação. Assim, ressai evidente a acentuada reprovabilidade da conduta, considerando o aprofundado envolvimento na dinâmica criminosa.
+Além disso, também está demonstrada a premeditação do crime, dado revelador de elevada intensidade do dolo, e que justifica a exasperação da reprimenda."
+Entendo que a revisão do entendimento exarado implicaria revolvimento fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado em sede de recurso especial, ante o teor da Súmula n. 7, STJ.
+No que tange à alegação de reformatio in pejus, o conhecimento do recurso encontra impedimento na Súmula n. 83, STJ.
+Sobre o ponto, o Tribunal a quo consignou (fls. 186-187):
+De toda sorte, ainda que reconhecida a inidoneidade da fundamentação das operadoras motivos e circunstâncias, não necessariamente a pena deverá ser reduzida, uma vez que os vetores preservados - culpabilidade e consequências - revestem-se de peso suficiente para que seja mantida a exasperação sentencial na íntegra.
+Destaco, a propósito, ser aqui aplicável compreensão firmada pelo Superior Tribunal de Justiça no que pertine à viabilidade da revisão dos fundamentos apresentados na dosimetria da pena pelo Juízo a quo, ainda que em sede de recurso exclusivo da defesa, observado o princípio da non reformatio in pejus:  ..
+Reapreciando o caso, uma vez mais ressalto que o requerente teve participação relevante na dinâmica criminosa, além de ter sido convidado com antecedência, razão pela qual teve tempo para refletir sobre o fato e suas implicações. Disso resulta ser evidente que agiu com dolo veemente, merecendo, por isso, repressão rigorosa, proporcional a sua atuação.
+Da mesma forma, restou provado nos autos que o fato causou acentuado sofrimento ao réu, que foi submetido a torturas físicas que somente cessaram quando informou possuir a quantia de US$ 150.000,00 (cento e cinquenta mil dólares), que foram pagos como resgate de sua liberdade. A propósito, tais valores, fruto de uma vida de trabalho, não foram recuperados pela vítima.
+Nesse contexto, esclareço que, havendo fundamentos idôneos, o que parece ser o caso, é válida a fixação da pena-base até mesmo no limite máximo, com a valoração negativa de uma única circunstância judicial, razão pela qual, é possível atribuir às circunstâncias remanescentes (culpabilidade e consequências), peso suficiente para preservar-se a fixação da pena-base no mesmo patamar estabelecido em sentença.  ..
+Assim, a despeito do reconhecimento da inidoneidade da ponderação negativa das circunstâncias judiciais dos motivos e das circunstâncias, entendo viável preservar a pena-base fixada no título vergastado, mediante o redimensionamento do peso das operadoras da culpabilidade e das consequências, validamente fundamentadas.
+Dos trechos acima transcritos, verifico ter o Tribunal de origem afastado a análise negativa dos vetores motivos e circunstâncias, remanescendo negativos os vetores culpabilidade e consequências. Assim, por entender que os vetores remanescentes possuíam elementos concretos suficientes, manteve a pena-base no mesmo patamar, isto é, deixou de reduzi-la.
+Houve, portanto, mero reforço argumentativo para manter a valoração negativa de circunstâncias já reputadas desfavoráveis no processo originário e que justificavam a pena-base tal como fixada, em que pese o afastamento de duas outras vetoriais.
+O reforço da fundamentação em relação aos vetores culpabilidade e consequência, ainda que em ação autônoma de impugnação de legitimidade exclusiva da defesa, não representou reformatio in pejus. Nesse sentido, aplica-se, por analogia, a tese firmada no Tema Repetitivo 1.214, com o seguinte teor:
+É obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. Todavia, não implicam reformatio in pejus a mera correção da classificação de um fato já valorado negativamente pela sentença para enquadrá-lo como outra circunstância judicial, nem o simples reforço de fundamentação para manter a valoração negativa de circunstância já reputada desfavorável na sentença.
+Por fim, em relação ao pedido de estipulação da fração de redução de 1/6 pela atenuante da confissão espontânea, o recurso esbarra, da mesma forma, no óbice da Súmula n. 83, STJ.
+Como cediço, a dosimetria da pena trata-se de atividade discricionária do magistrado, cabendo somente às instâncias originárias, as quais exercem cognição exauriente dos fatos e provas, realizá-la, sendo permitida somente a revisão pelas Cortes Superiores quando ocorrer flagrante ilegalidade ou teratologia.
+Dada essa maior discricionariedade, não há critério matemático de observância obrigatória para exasperação da pena, desde que proporcional, razoável e em consonância com os elementos concretos dos autos.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. DOSIMETRIA DA PENA. CRITÉRIOS DE AUMENTO. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo a dosimetria da pena aplicada pelas instâncias de origem.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a fração de aumento da pena-base, em razão das circunstâncias judiciais desfavoráveis, deve ser fixada em 1/6, conforme alegado pela parte agravante, ou se pode ser estabelecida discricionariamente pelo magistrado, desde que devidamente fundamentada.
+III. Razões de decidir
+3. A dosimetria da pena é atividade discricionária do magistrado, que deve ser fundamentada e observar os princípios da razoabilidade e proporcionalidade.
+4. Não há critério matemático impositivo para a fixação da pena na primeira fase da dosimetria, sendo aceitas frações de aumento como 1/8 ou 1/6, mas não obrigatórias.
+5. No cas o, a magistrada justificou a valoração de cada circunstância judicial em 1/4, dentro de sua discricionariedade, sem evidência de excesso ou desproporcionalidade.
+6. A pena imposta, superior a 4 anos, inviabiliza a substituição por penas restritivas de direitos, conforme o art. 44, inciso I, do Código Penal.
+IV. Dispositivo e tese
+7. Agravo improvido.
+Tese de julgamento: "1. A dosimetria da pena é discricionária, devendo ser fundamentada e observar os princípios da razoabilidade e proporcionalidade. 2. Não há critério matemático impositivo para a fixação da pena na primeira fase da dosimetria. 3. A pena superior a 4 anos inviabiliza a substituição por penas restritivas de direitos, conforme o art. 44, inciso I, do Código Penal".
+Dispositivos relevantes citados: CP, art. 44, inciso I; Lei n. 9.605/1998, art. 32, § 1º-A e § 2º.Jurisprudência relevante citada:
+STJ, AgRg no REsp 1433071/AM, Rel. Min. Maria Thereza de Assis Moura, DJe 6/5/2015; STJ, AgRg no REsp n. 1.898.916/RS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 21/9/2021, DJe de 27/9/2021 (AgRg nos EDcl no AREsp n. 2.777.171/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
