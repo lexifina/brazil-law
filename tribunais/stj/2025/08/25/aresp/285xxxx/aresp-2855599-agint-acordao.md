@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISPOSITIVOS ALEGADAMENTE VIOLADOS. NÃO INDICAÇÃO. SÚMULA N. 284/STF. VIOLAÇÃO À NORMA CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. COMPETÊNCIA EXCLUSIVA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A parte recorrente não indicou os dispositivos legais tido por violados, o que implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula n. 284/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Precedente.
+2. Incabível o recurso especial que visa a discutir violação à norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Carlos Antônio de Castro contra decisão da Presidência da Corte, que não conheceu do agravo em recurso especial, sob o fundamento de ser incabível o recurso especial que visa a discutir violação à norma constitucional, por se tratar de matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+A parte agravante sustenta, em síntese, que "o recurso apresentado se apegou detidamente em violação a legislação federal e a desobediência a jurisprudência desta corte. Isto amplamente apontado no recurso especial, bem como no Agravo em Recurso Especial. Tal ponto pode ser comprovado que a decisão de inadmissibilidade primeva se fincou na impossibilidade de discussão de meio probatório e não na escolha dos incisos jurídicos violados.  ..  tem-se que a violação apontada não residiu em preceitos da constituição, e sim na jurisprudência da presente corte. O presente caso merece total atenção desta corte, haja vista que as decisões questionadas se firmaram em posição evidentemente contrárias ao STJ.  ..  A negativa de prestação jurisdicional se mostra clara no caso em discussão, pois mesmo presentes a possibilidade da ofensa ao direito constitucional, o Juízo refuta em conhecer o direito do agravante ao benefício previdenciário. Conforme se extrai da decisão questionada, o referido ato processual se resta por reduzido ao mínimo possível, apontando que as violação questionadas residiriam na constituição, sendo que em verdade residem na própria jurisprudência desta corte" (fls. 322/329).
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISPOSITIVOS ALEGADAMENTE VIOLADOS. NÃO INDICAÇÃO. SÚMULA N. 284/STF. VIOLAÇÃO À NORMA CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. COMPETÊNCIA EXCLUSIVA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A parte recorrente não indicou os dispositivos legais tido por violados, o que implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula n. 284/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Precedente.
+2. Incabível o recurso especial que visa a discutir violação à norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte recorrente não logrou desenvolver argumentação apta a desconstituir os alicerces adotados pelo decisório recorrido.
+Como asseverado no decisum da Presidência, a parte recorrente não indicou os dispositivos legais tido por violados, o que implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula n. 284/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Nesse diapasão: AgInt no AgInt no AREsp n. 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 12/3/2021; AgRg no REsp n. 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/3/2021; e AgInt no REsp n. 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 1º/3/2021.
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REMUNERAÇÃO. NÃO CONHECIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 182 DA SÚMULA DO STJ. OMISSÃO QUANTO À ANÁLISE DAS ALEGAÇÕES RELACIONADAS À INTERPOSIÇÃO PELA ALÍNEA A DO ART. 105, III, DA CONSTITUIÇÃO FEDERAL.
+ ..
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+IV - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+ ..
+VII - Embargos de declaração parcialmente acolhidos para sanar omissão, sem efeitos modificativos.
+(EDcl no AgInt no REsp n. 1.915.809/PB, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+Ademais, está correta a decisão ao observar ser incabível o recurso especial que visa a discutir violação à norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
