@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE DE MENSALIDADE. MUDANÇA DE FAIXA ETÁRIA. ABUSIVIDADE. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça da Paraíba que manteve a sentença declarando a nulidade de cláusula contratual que previa reajuste de 159% na mensalidade do plano de saúde em razão da mudança de faixa etária, por considerar abusiva a discriminação em razão da idade.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o reajuste de mensalidade de plano de saúde em razão da mudança de faixa etária é válido, considerando a aplicação do Estatuto do Idoso e a necessidade de não discriminação por idade.
+3. A pretensão do recorrente é afastar a nulidade da cláusula contratual que prevê reajuste de mensalidade em razão da mudança de faixa etária, afirmando ser inadequada a aplicação do Estatuto do Idoso.
+III. Razões de decidir
+4. O acórdão recorrido aplicou corretamente o Estatuto do Idoso, considerando abusiva a cláusula de reajuste por mudança de faixa etária, em conformidade com a jurisprudência do STJ.
+5. A modificação do acórdão recorrido demandaria reinterpretação de cláusulas contratuais e reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+6. A jurisprudência do STJ estabelece que o reajuste de mensalidade de plano de saúde em razão da mudança de faixa etária é válido desde que haja previsão contratual, sejam observadas as normas reguladoras e não sejam aplicados percentuais desarrazoados.
+IV. Dispositivo
+7. Recurso não conhecido.
+RELATÓRIO
+Trata-se de Recurso Especial interposto pela Unimed João Pessoa Cooperativa de Trabalho Médico, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pela Quarta Câmara Especializada Cível do Tribunal de Justiça da Paraíba, que negou provimento aos recursos interpostos, mantendo a sentença que declarou a nulidade da cláusula contratual que previa reajuste de 159% na mensalidade do plano de saúde em razão da mudança de faixa etária, por considerar abusiva a discriminação em razão da idade (e-STJ, fls. 381-387).
+Nas razões do recurso especial, a recorrente alega violação aos artigos 39 e 51, IV e X, do Código de Defesa do Consumidor, ao artigo 35-E da Lei nº 9.656/98, e ao artigo 15 do Estatuto do Idoso, além de apresentar interpretação divergente das normas consumeristas e de proteção ao idoso (e-STJ, fls. 443-459).
+A decisão de admissibilidade do Recurso Especial, proferida pelo Desembargador Presidente do Tribunal de Justiça da Paraíba, admitiu o recurso pela alínea "a" do art. 105, III, da Constituição Federal, no que pertine ao art. 15 do Estatuto do Idoso, considerando que a matéria se encontra devidamente prequestionada e não demanda incursão nos fatos e provas dos autos. No entanto, negou seguimento pela alínea "c", por ausência de cotejo analítico e similitude fática satisfatória (fls. 498-500).
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado (e-STJ, fls. 431-456).
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE DE MENSALIDADE. MUDANÇA DE FAIXA ETÁRIA. ABUSIVIDADE. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça da Paraíba que manteve a sentença declarando a nulidade de cláusula contratual que previa reajuste de 159% na mensalidade do plano de saúde em razão da mudança de faixa etária, por considerar abusiva a discriminação em razão da idade.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o reajuste de mensalidade de plano de saúde em razão da mudança de faixa etária é válido, considerando a aplicação do Estatuto do Idoso e a necessidade de não discriminação por idade.
+3. A pretensão do recorrente é afastar a nulidade da cláusula contratual que prevê reajuste de mensalidade em razão da mudança de faixa etária, afirmando ser inadequada a aplicação do Estatuto do Idoso.
+III. Razões de decidir
+4. O acórdão recorrido aplicou corretamente o Estatuto do Idoso, considerando abusiva a cláusula de reajuste por mudança de faixa etária, em conformidade com a jurisprudência do STJ.
+5. A modificação do acórdão recorrido demandaria reinterpretação de cláusulas contratuais e reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+6. A jurisprudência do STJ estabelece que o reajuste de mensalidade de plano de saúde em razão da mudança de faixa etária é válido desde que haja previsão contratual, sejam observadas as normas reguladoras e não sejam aplicados percentuais desarrazoados.
+IV. Dispositivo
+7. Recurso não conhecido.
+VOTO
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, a e c, da Constituição Federal).
+Entretanto, o recurso não merece ser conhecido.
+O acórdão recorrido decidiu a controvérsia consignando que (e-STJ, fls. 383-389 - grifos acrescidos):
+Quanto ao mérito, assevcrc-sc que ao caso dos autos se aplica, inequivocamente, as disposições do Estatuto do Idoso, Lei de n. 10.741/2003, especialmente porque a consumidora litigante é maior de 60 (sessenta) anos e, ainda que se considere que a avença tenha sido firmada em 15 de maio de 2003, portanto, anteriormente à sua entrada em vigência, este deve ser aplicado imediatamente às relações jurídicas em curso, por ser regra de natureza protetiva c de ordem pública, não desencadeando a violação das regras relativas ao ato jurídico perfeito e à irretroatividade da lei, pois a cláusula contratual questionada permaneceu produzindo efeitos depois da vigência da referida norma.
+Constata-se, dessa forma, que a conduta de reajuste das mensalidades com base na mudança de faixa etária (60 anos), conforme prescrita na Cláusula 12.2, implica em uma flagrante ofensa ao Estatuto do Idoso, mais especificamente ao seu artigo 15, § 3o, infra:
+Lei n. 10.741/2003, artigo 15, § 32 - É vedada a discriminação do idoso nos planos de saúde pela cobrança de valores diferenciados em razão da idade.
+Nesse diapasão, resta patente que a comprovada majoração das mensalidades superior a 159% ofende diretamente a proteção conferida pelo ordenamento jurídico pátrio aos idosos, razão pela qual bastante apropriado se mostrou o provimento jurisdicional a quo, ao reconhecer a nulidade da referida cláusula contratual e determinar a manutenção dos valores anteriormente cobrados.
+Com relação ao pedido alternativo da demandada no sentido de reduzir o percentual de aumento para 30% (trinta por cento), em decorrência única e exclusivamente da entrada da consumidora na faixa etária de pessoas idosas, entendo que também não merece provimento, pois, como visto, afronta o que defende o dispositivo acima transcrito.
+Corroborando toda a matéria acima exposta, destaque-se a Jurisprudência dominante do Colendo Superior Tribunal de Justiça, a qual é assente em reconhecer a aplicabilidade do Estatuto do Idoso, assim como, a abusividade das cláusulas de reajuste das mensalidades de planos de saúde com base, exclusivamentc, na mudança de faixa etária e ingresso na terceira idade, in verbis:
+(..)
+Por sua vez, no que concerne ao pleito da promovente no sentido da devolução em dobro dos valores indevidamente cobrados e pagos, entendo que esta somente se dá quando comprovada a má-fé do credor. No caso, embora se reconheça a nulidade da cláusula contratual que prevê o aumento, não se pode negar sua previsão no pacto, daí porque não há que se falar em má-fé da operadora de planos de saúde.
+(..)
+Por derradeiro, também deve ser mantida a sentençá no tocante ao indeferimento do pleito de tutela antecipada, tendo em vista que, ainda. _ que verossímil a alegação, tanto é que foi julgado procedente em parte o pedido inicial, não se mostrou presente o requisito da possibilidade de dano irreparável ou de difícil reparação nem tampouco o do abuso de direito de defesa ou o manifesto propósito protelatório do réu.
+Com efeito, o aumento abusivo da mensalidade se deu em outubro de 2007, ao passo que a demanda foi ajuizada somente em setembro de 2011, o que afasta a primeira hipótese, mormente se se considerar inexistir qualquer risco à vida ou à saúde da promovente, tratando-se de demanda relativa apenas a questões patrimoniais. Outrossim, a defesa da demandada se pautou exatamente de acordo com o previsto na legislação processual, não havendo que se falar em abuso de direito de defesa.
+Em razão de todas as considerações tecidas acima, com fulcro no artigo 557, caput, do CPC, assim como na Jurisprudência dominante do Colendo STJ e do Egrégio TJ Pb, nego seguimento aos recursos, mantendo incólumes todos os exatos termos da decisão vergastada.
+A pretensão do recorrente é de ver afastada a nulidade da cláusula contratual que prevê reajuste de mensalidade em razão da mudança de faixa etária, afirmando ser inadequada a aplicação do Estatuto do Idoso.
+Sobre a controvérsia em questão, destaca-se que o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso" (Tema repetitivo n. 952/STJ. REsp n. 1.568.244/RJ, Relator Ministro Ricardo Villas Bôas Cueva, DJe 19/12/2016).
+No mencionado repetitivo, também ficou definido que: "Se for reconhecida a abusividade do aumento praticado pela operadora de plano de saúde em virtude da alteração de faixa etária do usuário, para não haver desequilíbrio contratual, faz-se necessária, nos termos do art. 51, § 2º, do CDC, a apuração de percentual adequado e razoável de majoração da mensalidade em virtude da inserção do consumidor na nova faixa de risco, o que deverá ser feito por meio de cálculos atuariais na fase de cumprimento de sentença".
+Nesse contexto, a Corte Estadual entendeu que a conduta de reajuste das mensalidades do caso em análise é abusivo, destacando inclusive que ofensa ao Estatuto do Idoso em sua fundamentação e a modificação do acórdão recorrido, no que tange a abusividade constatada, demandaria reinterpretação de cláusulas contratuais e reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+Nesse sentido:
+CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. MENSALIDADE. REAJUSTE. MUDANÇA DE FAIXA ETÁRIA. IDOSO. CONTRATO. ABUSIVIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. PERCENTUAL ADEQUADO. CÁLCULOS ATUARIAIS. APURAÇÃO EM CUMPRIMENTO DE SENTENÇA.
+1. A Segunda Seção do Superior Tribunal de Justiça firmou o entendimento de ser idôneo o reajuste de mensalidade de plano de saúde em razão da mudança de faixa etária do participante, desde que observados alguns parâmetros, tais como a expressa previsão contratual; não serem aplicados índices de reajuste desarrazoados ou aleatórios, a onerar excessivamente o consumidor, em confronto com a equidade e a cláusula geral da boa-fé objetiva e da especial proteção do idoso, e serem respeitadas as normas expedidas pelos órgãos governamentais (Resolução CONSU n. 6/1998 ou Resolução Normativa n. 3/2001 da ANS e Resolução Normativa nº 63/2003 da ANS).
+Precedente.
+2. Na hipótese, rever o entendimento da instância ordinária que considerou abusivo o reajuste do plano de saúde é pretensão que esbarra no reexame de cláusulas do contrato e das provas constantes dos autos, procedimentos inviáveis em recurso especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+3. Nos termos do art. 51, § 2º, do Código de Defesa do Consumidor, se for reconhecida a abusividade do aumento praticado pela operadora de plano de saúde em virtude da alteração de faixa etária do usuário, para não haver desequilíbrio contratual, faz-se necessária a apuração de percentual adequado e razoável de majoração da mensalidade, o que deverá ser feito por meio de cálculos atuariais na fase de cumprimento de sentença.
+Recurso especial provido, em parte, para determinar a apuração do percentual de reajuste adequado na fase de cumprimento de sentença.
+(REsp n. 1.899.005/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025 - grifos acrescidos.)
+Manifesto meu voto, portanto, pelo não conhecimento do presente recurso especial.
+Determino, por fim, a majoração dos honorários advocatícios, em desfavor da parte recorrente, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É como voto.
