@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DAS SÚMULAS N. 182/STJ E 284/STF. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por João Paulo Gonzales de Castro contra decisão que não conheceu de agravo em recurso especial, sob fundamento de incidência da Súmula n. 284/STF, por indicação genérica de violação de lei federal sem particularizar os dispositivos legais supostamente contrariados, e da Súmula n. 182/STJ, por ausência de impugnação específica de todos os fundamentos da decisão agravada.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a indicação genérica de violação de lei federal, sem a precisa indicação dos dispositivos violados, acarreta deficiência de fundamentação do recurso especial; (ii) estabelecer se a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo em recurso especial.
+III. RAZÕES DE DECIDIR
+3. A indicação genérica de afronta a lei federal, sem especificar os dispositivos violados ou objeto de divergência interpretativa, atrai a incidência da Súmula n. 284/STF, por impedir a exata compreensão da controvérsia.
+4. A ausência de impugnação específica de todos os fundamentos da decisão agravada viola o princípio da dialeticidade, o que, segundo a jurisprudência pacífica do STJ, atrai a incidência da Súmula n. 182/STJ e impede o conhecimento do recurso.
+5. O princípio da primazia do julgamento de mérito não afasta o dever de observância aos requisitos de admissibilidade recursal, especialmente quando se trata de vício de fundamentação.
+IV. DISPOSITIVO E TESE
+6. Agravo regimental não conhecido.
+Tese de julgamento:
+1. A indicação genérica de violação de lei federal, sem especificar os dispositivos violados, configura deficiência de fundamentação e atrai a incidência da Súmula n. 284/STF.
+2. A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada impede o conhecimento do agravo em recurso especial, conforme Súmula n. 182/STJ.
+3. O princípio da primazia do julgamento de mérito não dispensa o cumprimento dos requisitos de admissibilidade recursal.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOAO PAULO GONZALES DE CASTRO contra decisão que não conheceu do recurso especial.
+Consta dos autos que o Tribunal a quo negou provimento ao recurso de apelação criminal ali interposto pela Defesa, em acórdão cuja ementa registra (fls. 453/468):
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. EXCESSO DE LINGUAGEM NA PRONÚNCIA. LEGÍTIMA DEFESA. IN DUBIO PRO SOCIETATE. R E C U R S O N Ã O P R O V I D O .
+I. CASO EM EXAME Recurso em sentido estrito interposto contra decisão que pronunciou o recorrente incurso no crime de homicídio qualificado (art. 121, § 2º, IV, do CP). O recorrente alega nulidade da pronúncia por excesso de linguagem e busca absolvição sumária com base em legítima defesa ou, subsidiariamente, a despronúncia por insuficiência probatória.
+II. QUESTÃO EM DISCUSSÃO Há duas questões em discussão: (i) determinar se a decisão de pronúncia ocorreu em excesso de linguagem; e (ii) avaliar se estão presentes indícios suficientes para a submissão do recorrente a julgamento pelo Tribunal do Júri, especialmente considerando a alegação de legítima defesa.
+III. RAZÕES DE DECIDIR A pronúncia não incorre em excesso de linguagem quando a fundamentação se restringe à materialidade e aos indícios de autoria, sem adentrar no mérito, em conformidade com o art. 413 do CPP e o art. 93, IX, da CF.
+O princípio in dubio pro societate aplica-se nesta fase, exigindo apenas que existam indícios de autoria e prova da materialidade do crime, sem que se necessite prova incontroversa da alegação de legítima defesa, a qual deverá ser avaliada pelo Tribunal do Júri.
+O exame tanatoscópico e os depoimentos colhidos confirmam a materialidade e indicam autoria, apontando, ainda, que a vítima estava desarmada, dificultando a possibilidade de defesa, o que afasta a hipótese de legítima defesa como incontestável.
+A tese de legítima defesa, sendo incerta e dependente de maior instrução, deve ser apresentada ao Tribunal do Júri, órgão competente para julgar crimes contra a vida.
+IV. DISPOSITIVO E TESE
+Recurso desprovido.
+Sobreveio recurso especial, interposto com fundamento na alínea "a", do permissivo constitucional, por meio do qual se alegou violação ao art. 413 do CPP, sob o argumento de que "da simples leitura da sentença de pronúncia, houve excesso de linguagem ou eloquência acusatória, tendo em vista o fato de que o magistrado de piso, acabou exarando manifestação/afirmação quanto à certeza da autoria do crime de homicídio pelo ora recorrente" (fls. 472/487).
+Requereu, ao final, fosse "admitido presente RECURSO ESPECIAL, e, uma vez conhecido, integralmente provido, para o efeito de reformar o acórdão recorrido, a fim de reconhecer a nulidade da sentença de pronúncia em razão do excesso de linguagem" (fl. 487).
+Apresentadas as contrarrazões (fls. 489/495), o especial foi inadmitido na origem pela aplicação da Súmula n. 83/STJ (fls. 496/498).
+Foi interposto o respectivo agravo (fls. 501/508). Contraminuta apresentada (fls. 523/527).
+Em decisão monocrática (fls. 533/534), o agravo não foi conhecido, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (fls. 533/534).
+Daí a interposição do presente agravo regimental, por meio do qual a parte agravante, em síntese, limita-se a reiterar que "ao pronunciar o recorrente, no molde a evidenciar o excesso de linguagem capaz a influenciar a decisão dos jurados, ensejando, assim, o presente pedido de NULIDADE da sentença de pronúncia" (fl. 542, grifos no original).
+Requer, ao final, o provimento do recurso para o conhecimento e o provimento do recurso especial.
+A manifestação do Ministério Público Federal dá-se pelo não conhecimento do recurso (fls. 559/562). Eis a ementa do parecer:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL INADMITIDO NA ORIGEM. NÃO INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO (SÚMULA 284/STF). PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. NÃO CONHECIMENTO DA INSURGÊNCIA.
+- A hipótese é de não conhecimento do pedido como agravo regimental, tendo em vista que a defesa não complementou, no prazo assinalado no despacho de fls. 546, o pedido de reconsideração, deixando, assim, de ajustá-lo às exigências previstas na legislação de regência.
+- Parecer pelo não conhecimento do agravo regimental.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DAS SÚMULAS N. 182/STJ E 284/STF. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por João Paulo Gonzales de Castro contra decisão que não conheceu de agravo em recurso especial, sob fundamento de incidência da Súmula n. 284/STF, por indicação genérica de violação de lei federal sem particularizar os dispositivos legais supostamente contrariados, e da Súmula n. 182/STJ, por ausência de impugnação específica de todos os fundamentos da decisão agravada.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a indicação genérica de violação de lei federal, sem a precisa indicação dos dispositivos violados, acarreta deficiência de fundamentação do recurso especial; (ii) estabelecer se a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo em recurso especial.
+III. RAZÕES DE DECIDIR
+3. A indicação genérica de afronta a lei federal, sem especificar os dispositivos violados ou objeto de divergência interpretativa, atrai a incidência da Súmula n. 284/STF, por impedir a exata compreensão da controvérsia.
+4. A ausência de impugnação específica de todos os fundamentos da decisão agravada viola o princípio da dialeticidade, o que, segundo a jurisprudência pacífica do STJ, atrai a incidência da Súmula n. 182/STJ e impede o conhecimento do recurso.
+5. O princípio da primazia do julgamento de mérito não afasta o dever de observância aos requisitos de admissibilidade recursal, especialmente quando se trata de vício de fundamentação.
+IV. DISPOSITIVO E TESE
+6. Agravo regimental não conhecido.
+Tese de julgamento:
+1. A indicação genérica de violação de lei federal, sem especificar os dispositivos violados, configura deficiência de fundamentação e atrai a incidência da Súmula n. 284/STF.
+2. A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada impede o conhecimento do agravo em recurso especial, conforme Súmula n. 182/STJ.
+3. O princípio da primazia do julgamento de mérito não dispensa o cumprimento dos requisitos de admissibilidade recursal.
+VOTO
+O recurso deixa de justificar-se.
+Da análise dos autos, constata-se que a decisão agravada, no que importa ao caso, foi assim proferida (fls. 533/534):
+Por meio da análise do recurso de JOAO PAULO GONZALES DE CASTRO, verifica-se que incide a Súmula n. 284/STF, porquanto há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 30.3.2020.)
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.641.118/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp n. 744.582/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1.6.2020; AgInt no AREsp n. 1.305.693/DF, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 31.3.2020; AgInt no REsp n. 1.475.626/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 4.12.2017; AgRg no AREsp n. 546.951/MT, Rel. Ministro Felix Fischer, Quinta Turma, DJe de 22.9.2015; e REsp n. 1.304.871/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1º.7.2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Da análise dos excertos acima transcritos, constata-se que a decisão agravada não conheceu do agravo em recurso especial sob o fundamento de que "incide a Súmula n. 284/STF, porquanto há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (fl. 533).
+Como cediço, cabe ao recorrente - sob pena de aplicação da Súmula n. 182/STJ - impugnar especificamente todos os fundamentos da decisão agravada, o que não ocorreu no presente recurso, uma vez que o agravante não rebateu os fundamentos empregados anteriormente, nada tendo dito a respeito, limitando-se a reiterar as razões do recurso especial, o que impede o conhecimento do recurso.
+Nos termos da pacífica jurisprudência deste Superior Tribunal, "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de admissibilidade foram preenchidos. Incidência da Súmula n. 182, STJ" (AgRg no AREsp n. 2.364.703/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023).
+No mesmo sentido, e em reforço, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA. INSUFICIÊNCIA DA IMPUGNAÇÃO DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. OMISSÃO QUANTO À ANÁLISE DE MÉRITO. ANÁLISE MERITÓRIA PREJUDICADA DIANTE DO NÃO CONHECIMENTO DO RECURSO DE AGRAVO EM RECURSO ESPECIAL. ARBITRAMENTO DE HONORÁRIOS. DEFENSOR DATIVO. PEDIDO A SER FORMULADO NA ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na linha da pacífica jurisprudência desta Corte, não constitui ofensa ao princípio da colegialidade a análise monocrática pelo relator, notadamente pela possibilidade de submissão da controvérsia ao colegiado, por meio da interposição de agravo regimental.
+2. O recorrente não atacou pormenorizadamente o fundamento do provimento jurisdicional que negou seguimento ao recurso especial, o que atraiu o óbice da Súmula n. 182/STJ.
+3. "Se o recurso especial foi inadmitido, porquanto não superados os óbices processuais específicos dos recursos extraordinários, e o consequente agravo não impugna todos os fundamentos da decisão de inadmissão, atraindo, por consequência, o óbice da s. 182/STJ, não há que se falar em omissão desta Corte na análise do mérito recursal, na medida em que não transposta a barreira da admissibilidade." (EDcl no AgInt no AREsp n. 732.589/RO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 13/3/2018, DJe 26/3/2018.)
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.544.402/PR, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 20/03/2025, DJEN de 28/03/2025, grifei.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA POSSIBILIDADE DE IMPUGNAÇÃO PARCIAL EM AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. DECISÃO NÃO FORMADA POR CAPÍTULOS AUTÔNOMOS. DISPOSITIVO ÚNICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. ARTIGO 932, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL. PRIMAZIA DO JULGAMENTO DE MÉRITO. PRINCÍPIO QUE NÃO ELIDE A OBSERVÂNCIA AOS REQUISITOS DE ADMISSIBILIDADE RECURSAL. VÍCIO DE FUNDAMENTAÇÃO. ENUNCIADO ADMINISTRATIVO N. 6/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige da parte agravante a impugnação específica de todos os fundamentos apontados pelo Tribunal local, sob pena de não conhecimento do agravo em recurso especial. Precedentes.
+2. A decisão agravada não conheceu do agravo em recurso especial interposto por ter o agravante deixado de impugnar, de forma específica e pormenorizada, nas razões do agravo, a incidência de óbice ventilado pela Corte a quo para inadmitir o recurso especial.
+3. Na hipótese dos autos, o agravante, de fato, deixou de impugnar especificamente, de forma efetiva e pormenorizada, nas razões do agravo em recurso especial, o entrave atinente à Súmula n. 283/STF, apontado pelo Tribunal de origem como um dos fundamentos para inadmitir o recurso.
+4. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+5. O princípio da primazia do julgamento de mérito não elide a observância dos requisitos de admissibilidade recursal, motivo pelo qual não tem o condão de autorizar o julgamento de recurso que nem sequer ultrapassou referidos requisitos, principalmente em se tratando de vício de fundamentação, como é a hipótese dos autos. Com efeito, o enunciado administrativo n. 6/STJ disciplina que, "nos recursos tempestivos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, §3º, do novo CPC para que a parte sane vício estritamente formal", não se aplicando, portanto, à situação dos autos. Precedentes.
+6. Agravo regimental não provido. (AgRg no AREsp n. 2.470.074/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/03/2025, DJEN de 26/03/2025, grifei.)
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
