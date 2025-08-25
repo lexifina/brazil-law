@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC, e da Súmula 182 do STJ, a parte agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão proferida pelo Presidente desta Corte Superior, constante às e-STJ fls. 279/282, em que conheceu do agravo para não conhecer do recurso especial em razão da incidência das Súmulas 126 do STJ e 280 do STF, e do descabimento das assertivas de violação dos arts. 97, IV, do CTN, ante o conteúdo constitucional da discussão e do Tema 1.113 do STJ.
+Nas suas razões, a agravante afirma ter-se hipótese de sobrestamento do feito, nos termos do art. 1.030 do CPC, em razão de a matéria possuir indicativo de afetação para julgamento sob o rito dos recursos repetitivos, à luz da Controvérsia 663. Assim, entende que devem os autos ser devolvidos à origem, para aguardo do julgamento do respectivo tema pelo STJ.
+Contrarrazões às e-STJ fls. 295/298.
+Em manifestação de e-STJ fls. 313/315, o MPF opina pelo não conhecimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC, e da Súmula 182 do STJ, a parte agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, a Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, julgado em 20/10/2021, DJe de 17/11/2021), estabeleceu os seguintes parâmetros para a aplicação da Súmula 182 do STJ referente aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial:
+a) incide o verbete quando: (i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; e (ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada); e
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese, o agravo interno não merece ser conhecido.
+A decisão ora agravada estabeleceu o seguinte (e-STJ fls. 280/282):
+Quanto à controvérsia, em relação ao art. 97, IV, do CTN, é incabível o recurso especial em razão do conteúdo eminentemente constitucional da norma infraconstitucional indicada como violada ou objeto de interpretação divergente, por ser mera reprodução de dispositivo da Constituição Federal. Nesse sentido, vale citar os seguintes julgados:
+ ..
+Confiram-se, ainda, os seguintes precedentes: AgInt no REsp n. 1.876.152/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 11.2.2021; AgInt nos EDcl no AREsp n. 1.629.368/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 16.4.2021; AgInt nos EDcl no REsp n. 1.784.409/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2.9.2020; REsp n. 1.846.488/SE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 1.6.2020; REsp n. 1.721.159/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 13.11.2018; AgRg no REsp n. 1.499.448/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19.3.2015.
+Ademais, em relação ao Tema n. 1.113 do STJ, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal.
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.565.020/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 14.8.2020; AgInt no REsp n. 1.832.794/RO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 27.11.2019; AgInt no AREsp n. 1.425.911/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15.10.2019; AgInt no REsp n. 1.864.804/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7.6.2021.
+Além disso, o acórdão recorrido assim decidiu:
+Logo, verifica-se como de clareza solar a disposição legal quanto a aplicabilidade da base de cálculo para incidência do ITCMD, qual seja, o mesmo valor atribuído para o cálculo de incidência do IPTU, sendo certo que os novos parâmetros estabelecidos pelo Decreto Estadual n. 46.655/02, e posteriormente pelo Decreto Estadual de n. 55.002/09, não possuem o condão de fazer modificar tal entendimento, mesmo porque a imposição de outros parâmetros por via de Decreto vão de encontro ao princípio da legalidade, diferentemente do que ocorre quando fixado por Lei (fls. 168-169).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, em relação às alíneas "a" e "c" do permissivo constitucional, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, Rel. Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ainda, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, a Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17.10.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18.8.2020; AgInt no REsp 1.616.439/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 1º.6.2020; AgRg no REsp 1.822.671/MT, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 7.4.2020.
+No presente agravo interno, limita-se a parte a requerer a suspensão do processamento do feito em razão da possibilidade de afetação da matéria tratada no recurso especial à sistemática dos recursos repetitivos, deixando de tecer alguma consideração sobre suposto desacerto no decisum objeto deste agravo interno.
+Desse modo, forçosa apresenta-se a observância do contido no art. 1.021, § 1º, do Código de Processo Civil e na Súmula 182 do STJ.
+Registro, de passagem, que a simples indicação de recursos especiais pertinentes à matéria, para análise preliminar de afetação ao rito dos recursos repetitivos, não impõe o sobrestamento dos feitos, à míngua de previsão legal ou regimental.
+Ademais, conforme o representante do Parquet, " ..  verifica-se que a referida controvérsia encontra-se com a situação "cancelada" desde 28 de março de 2025" (e-STJ fl. 313), o que de fato ocorreu.
+Por fim, o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise, razão pela qual deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
