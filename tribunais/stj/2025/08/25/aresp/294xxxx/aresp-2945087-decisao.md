@@ -1,0 +1,31 @@
+DECISÃO
+KAUÊ ALVES TORRALVO agrava da decisão que não admitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1501264-70.2024.8.26.0540).
+Consta dos autos que o recorrente foi condenado à pena de 2 anos e 6 meses de reclusão, em regime inicial aberto, mais multa, pela prática do crime do art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta a violação do art. 33, § 4º, da Lei n. 11.343/2006, sob a tese de ausência de fundamentos idôneos para negar a aplicação da minorante pelo tráfico privilegiado em seu patamar máximo.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com base na Súmula n. 7 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial (fls. 426-429).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+I. Minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso em análise, as instâncias originárias modularam a aplicação da redutora, sob os seguintes fundamentos (fls. 286-287, destaquei):
+Na derradeira etapa do itinerário trifásico, foi aplicado o redutor aludido no art. 33, § 4º, da Lei 11.343/06, na razão de  (metade). Neste ponto, não prospera o pedido defensivo, porquanto inviável o incremento do coeficiente de redução ao grau máximo. Isso porque, a bem da verdade, a quantidade de drogas apreendidas (57 porções de cocaína, 107 porções de crack, 221 porções de maconha e 20 frascos de lança-perfume,) sugere envolvimento com atividades criminosas, autorizando a não aplicação do privilégio sob enfoque.
+Com efeito, não é crível que tamanha quantidade e variedade de drogas fosse cedida a neófito na narcotraficância, não se podendo conceber, ainda, que o réu, se não envolvido de forma organizada com a mercancia espúria, teria permissão dos demais criminosos para atuar em estabelecimento prisional, disputando com criminosos a venda das substâncias ilícitas. De todo modo, repise-se, nada há que ser feito no particular à vista do conformismo ministerial. E, tendo em vista a quantidade e variedade das drogas apreendidas, incluindo crack, substância notadamente de alto poder vulnerante, a redução da pena no patamar de  (metade) se apresenta adequada ao caso.
+Segundo o excerto, pode-se inferir que o patamar usado para aplicação da minorante do tráfico privilegiado, 1/2, se deu com base na quantidade e na natureza da droga apreendida, de elevado potencial lesivo.
+Entretanto, embora a natureza da substância apreendida evidencie seu alto poder viciante, entendo que a quantidade não foi excessivamente elevada - 53 g de cocaína e 175 g de maconha (fl. 28).
+Dessa maneira, mostra-se manifestamente desproporcional sopesar tal circunstância no caso concreto, do contrário, qualquer agente que fosse apreendido com cocaína, ainda que com uma porção ínfima, deveria ter a sua pena sobrelevada por tal aspecto. Fixo portanto, a fração de 2/3 para redução da pena.
+Destaco não escapar à atenção dessa relatoria que, de forma recorrente, alguns tribunais têm deixado de consignar o montante nominal da droga - ou seja, o seu peso líquido - para registrar apenas o número de porções de cada entorpecente.
+Com isso, visam dar contornos de maior expressividade à quantidade apreendida, prática que, a meu ver, viola o dever de fundamentação das decisões e o art. 42 da Lei n. 11.343/2006, pois, a exemplo do caso ora analisado, as 57 porções de crack e 107 porções de cocaína se traduzem em 53 g de cocaína, montante que, apesar não ser ínfimo, não destoa do ínsito ao tipo penal.
+Apenas por cautela, friso que, especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante em patamar máximo não demanda o revolvimento de matéria fático-probatória.
+Ante o exposto, verificada a violação do art. 33, § 4º, da Lei n. 11.343/2006, passo à análise da dosimetria.
+II. Dosimetria
+Em razão da modificação efetivada anteriormente, deve ser realizada a nova dosimetria da pena do delito de tráfico de drogas.
+Na primeira fase, não foram valoradas circunstâncias judiciais negativas, razão pela qual a reprimenda-base permanece em 5 anos de reclusão, mais 500 dias-multa.
+Na segunda etapa, ausentes atenuantes e agravantes, nada a alterar na sanção intermediária.
+Na terceira fase, aplico a minorante do tráfico privilegiado no patamar de 2/3. Consequentemente, torno a pena do recorrente definitiva em 1 ano e 8 meses de reclusão mais 180 dias-multa.
+Mantenho o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal e a substituição da pena por duas restritivas de direitos, nos termos fixados pelas instâncias originárias.
+III. Dispositivo
+À vista do exposto, com fundamento nos arts. 932, VIII, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e 253, parágrafo único, II, "a", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial e aplicar a fração de 2/3 em virtude da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, além de definir a reprimenda em 1 ano e 8 meses de reclusão mais 180 dias-multa, em regime aberto, substituída por duas restritivas de direito.
+Publique-se e intimem-se.
+EMENTA
