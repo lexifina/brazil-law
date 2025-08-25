@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL CIVIL E DIREITO BANCÁRIO.  BOLETO BANCÁRIO. EMISSÃO FRAUDULENTA. PAGAMENTO INDEVIDO. NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  PRESTAÇÃO DE SERVIÇO. DEFEITO. VÍTIMA. CULPA EXCLUSIVA. REEXAME  DE  MATÉRIA  FÁTICA.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ. OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  BANCO SANTANDER (BRASIL) S.A.  ao  acórdão  assim  ementado:
+"AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL CIVIL E DIREITO BANCÁRIO.  BOLETO BANCÁRIO. EMISSÃO FRAUDULENTA. PAGAMENTO INDEVIDO. NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  PRESTAÇÃO DE SERVIÇO. DEFEITO. VÍTIMA. CULPA EXCLUSIVA. REEXAME  DE  MATÉRIA  FÁTICA.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Para apurar se  houve ou não  falha  na  prestação  dos  serviços  bancários, ou culpa exclusiva da vítima, seria indispensável reexaminar o contexto fático-probatório dos autos, o que é vedado na via recursal eleita, consoante os ditames da Súmula nº 7/STJ.
+3.  Agravo  conhecido  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento."
+Em  suas  razões  (e-STJ  fls.  760-774),  o  embargante  afirma,  em síntese, que o acórdão embargado não enfrentou todos os argumentos apresentados no tocante à alegada negativa de prestação jurisdicional.
+Aduz que,
+"(..) da leitura do acórdão integrativo proferido pelo E. TJSP, constata-se que, mesmo após ter sido expressamente instado a se manifestar, não houve qualquer análise sobre a conduta da vítima, justamente o ponto central para a configuração da excludente de responsabilidade prevista no art. 14, §3º, do CDC. Não há, no acórdão de apelação, uma linha sequer dedicada à apreciação dessa circunstância, a despeito da sua expressa invocação nos embargos de declaração" (e-STJ fl. 765).
+Sustenta que a falha de diligência da vítima afasta a responsabilidade objetiva do fornecedor, conforme previsão do art. 14, § 3º, do Código de Defesa do Consumidor, a exigir que o Tribunal de origem se pronunciasse especificamente sobre essa matéria, para que se apure eventual caracterização de culpa exclusiva da vítima.
+Ressalta, ainda, que não foi apreciado o pedido subsidiário para que, se for mantida a condenação, sejam os juros fixados nos termos do art. 406 do Código Civil, mediante utilização da Taxa Selic.
+Ao final, requer o acolhimento dos embargos de declaração, com efeitos infringentes, para que sejam supridas as omissões neles indicadas.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  aos  aclaratórios  (e-STJ  fls.  778-789).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL CIVIL E DIREITO BANCÁRIO.  BOLETO BANCÁRIO. EMISSÃO FRAUDULENTA. PAGAMENTO INDEVIDO. NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  PRESTAÇÃO DE SERVIÇO. DEFEITO. VÍTIMA. CULPA EXCLUSIVA. REEXAME  DE  MATÉRIA  FÁTICA.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ. OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  ,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+No  caso  em  apreço,  o  acórdão  embargado  , analisando amplamente a alegação de negativa de prestação jurisdição, deixou suficientemente claro que a convicção do órgão julgador, na origem, foi firmada a partir dos seguintes elementos: a) cancelamento dos boletos originais, de modo a impedir o pagamento correto, que teria sido negado por diversas vezes; b) existência, no boleto fraudado, do CNPJ e da razão social pertencentes à Eletropaulo; c) admissão de culpa pela parte ré, no momento em que reembolsou parte dos valores pagos e d) conduta omissiva atribuída ao banco, que teria permitido que os estelionatários abrissem a conta, emitissem os boletos e recebessem o dinheiro, com ação prolongada no tempo, perdurando até depois da descoberta da fraude.
+Nos subsequentes embargos de declaração, a ora embargante limitou-se a reiterar a alegação de que houve culpa exclusiva da vítima, alegando, essencialmente, que
+"(..) os dados do beneficiário, nome do pagador ou sacado, números de CPF e CNPJ, valor, encargos, beneficiário e demais indicativos são disponibilizados ao sacado, automaticamente, por meio do sistema CIP - Câmara Interbancária de Pagamentos, já no pré-pagamento, permitindo-lhe verificar e conferir, portanto, antes da efetivação do pagamento, a exatidão das informações exibidas" (e-STJ fl. 589)
+Logo se vê que boa parte das afirmações contidas nas razões do recurso especial constituem verdadeira inovação recursal, tendo em vista que não houve anterior questionamento acerca: i) da inexistência de desabonos capazes de inviabilizar a abertura de conta-corrente tendo como titular  a  empresa  beneficiária  do  boleto  fraudado ,  e  ii) da  não configuração do reconhecimento de culpa, ou falha de sistema, em virtude do  estorno  de  valores à parte autora.
+Não  há  falar  , portanto,  em  negativa  de  prestação  jurisdicional  nos  declaratórios,  a  qual  somente  se  configura  quando,  na  apreciação  do  recurso,  o  Tribunal  de  origem  insiste  em  omitir  pron unciamento  acerca  de  questão  que  deveria  ser  decidida,  e  não  foi.
+O embargante inova, mais uma vez, ao requerer a fixação dos juros de mora de acordo com a variação da Taxa Selic, tendo em vista que tal pretensão não foi formulada, em momento algum, nas razões do recurso especial.
+Dessa  maneira,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
