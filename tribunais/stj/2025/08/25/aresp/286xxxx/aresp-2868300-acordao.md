@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/08/2025 a 25/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DENUNCIAÇÃO DA LIDE. ART. 70, INCISO III, DO CPC. NÃO OBRIGATORIEDADE. SÚMULA 83 DO STJ.
+1 - Segundo a jurisprudência sólida do STJ, a denunciação da lide justificada no art. 70, inciso III, do Código de Processo Civil de 1973 não é obrigatória, sua falta não gera a perda do direito de regresso e, ademais, é impertinente quando se busca simplesmente transferir a responsabilidade pelo bem litigioso ao denunciado.
+2 - O Tribunal de origem decidiu em consonância com a jurisprudência desta Corte, incidindo o óbice da Súmula 83 desta Corte.
+3 - Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por BIOLOGÍ STICA SOLUÇÕES EM LOGÍSTICA E SERVIÇOS EIRELI em face da decisão que inadmitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que, em ação de regresso, negou provimento à sua apelação, nos termos da seguinte ementa (fls. 314/320):
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO DE REGRESSO ACOLHIDA. CASO CONCRETO QUE A PARTE APELANTE FIGURA COMO LOCATÁRIA DO VEÍCULO APONTADO COMO CAUSADOR DO ACIDENTE JÁ OBJETO DE AÇÃO INDENIZATÓRIA ANTERIOR QUE PROCEDEU NA CONDENAÇÃO DA APELADA NO PAGAMENTO DOS DANOS, MAS SEM A INTERVENÇÃO DA APELANTE. OBRIGAÇÃO SOLIDÁRIA QUE DERIVA DA LEI E DE DISPOSIÇÃO CONTRATUAL EXPRESSA. POSSIBILIDADE DA DEDUÇÃO DO PEDIDO DE REGRESSO AINDA QUE NÃO EXERCITADO O USO DA DENUNCIAÇÃO À LIDE EM FAVOR DA APELANTE NA AÇÃO DE ORIGEM EIS QUE SE TRATA DE FIGURA INTERVENCIONAL FACULTATIVA, SEM EXCLUSÃO DO EXERCÍCIO POSTERIOR DO DIREITO DE REGRESSO EM AÇÃO PRÓPRIA. AUSÊNCIA DE PARTICIPAÇÃO DA APELANTE NO CURSO DA AÇÃO ONDE CONSTITUÍDA A CONDENAÇÃO LHE COBRADA DE FORMA REGRESSIVA QUE NÃO IMPORTA EM VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA, CONQUANTO PODE A PARTE DEVEDORA DEMANDADA EM AÇÃO POSTERIOR DISCUTIR OS EFEITOS DA CONDENAÇÃO EM RELAÇÃO A OBRIGAÇÃO QUE LHE COMPETE, SEM VIOLAÇÃO DO INSTITUTO DA COISA JULGADA. HAVENDO PROVA DO PAGAMENTO DO DÉBITO PELA PARTE APELADA, CABÍVEL O REGRESSO EM DESFAVOR DA APELANTE. SENTENÇA DE PROCEDÊNCIA MANTIDA, COM FIXAÇÃO DE HONORÁRIOS RECURSAIS. APELO IMPROVIDO.
+Alega a recorrente, em síntese, que o acórdão recorrido violou o art. 70 do Código de Processo Civil de 1973, ao argumento de que a denunciação da lide era medida obrigatória à época dos fatos, de modo a garantir a eficácia da sentença quanto ao terceiro interessado. A ausência dessa providência teria tornado inviável a presente ação de regresso, o que, segundo a recorrente, imporia a extinção do feito.
+Argumenta, também, que a recorrida, ao deixar de buscar a conversão do rito sumário para o ordinário na ação originária e ao não interpor apelação sobre a não admissão da denunciação, perdeu a oportunidade processual de constituir o vínculo jurídico necessário entre as partes.
+Ao final, requereu o provimento do recurso e posterior reforma do acórdão recorrido.
+Contrarrazões ao recurso especial às fls. 382/390.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DENUNCIAÇÃO DA LIDE. ART. 70, INCISO III, DO CPC. NÃO OBRIGATORIEDADE. SÚMULA 83 DO STJ.
+1 - Segundo a jurisprudência sólida do STJ, a denunciação da lide justificada no art. 70, inciso III, do Código de Processo Civil de 1973 não é obrigatória, sua falta não gera a perda do direito de regresso e, ademais, é impertinente quando se busca simplesmente transferir a responsabilidade pelo bem litigioso ao denunciado.
+2 - O Tribunal de origem decidiu em consonância com a jurisprudência desta Corte, incidindo o óbice da Súmula 83 desta Corte.
+3 - Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Trata-se, na origem, de ação ajuizada por Pontual Veículos e Auto Locadora Ltda. contra Biologística Soluções em Logística e Serviços EIRELI, visando a que lhe seja concedido ressarcimento no valor de R$ 202.000,00 (duzentos e dois mil reais), por valores pagos em decorrência de condenação judicial sofrida em ação de indenização por acidente de trânsito, sob alegação de que o sinistro foi causado por culpa exclusiva de condutor vinculado à ré.
+Em primeira instância, o juiz julgou procedente o pedido (fls. 232/234), sob o fundamento de que ficou comprovada a responsabilidade do condutor do veículo locado à ré, bem como a perda da cobertura contratual por violação às normas do Código de Trânsito Brasileiro, sendo desnecessária a denunciação da lide. Condenou a ré ao pagamento do valor de R$ 202.000,00 (duzentos e dois mil reais), com correção pelo IGP-M a contar de 27/8/2019 e juros de 1% ao mês desde a citação.
+Interposta apelação (fls. 255/272), o Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao recurso, mantendo a sentença de procedência, sob o fundamento de que a denunciação à lide possui natureza facultativa e que a ausência de participação da ré na ação originária não impede a propositura da ação de regresso (fls. 314/320).
+No tocante ao mérito da controvérsia, entendo que o recurso não merece provimento, como se passa a expor.
+A despeito da literalidade do caput do art. 70 do Código de Processo Civil de 1973, a jurisprudência dessa Corte é firme no sentido de que, mesmo na vigência do referido diploma legal, a denunciação da lide não é considerada obrigatória e a ausência de sua arguição não obsta a ação de regresso.
+Neste sentido:
+AGRAVO REGIMENTAL. DIREITO PROCESSUAL CIVIL. DENUNCIAÇÃO DA LIDE. ART. 70, INCISO III, DO CPC. IMPOSSIBILIDADE. NÃO OBRIGATORIEDADE.
+1. A denunciação da lide, como modalidade de intervenção de terceiros, busca atender aos princípios da economia e da presteza na entrega da prestação jurisdicional, não devendo ser prestigiada quando o deferimento for apto a subverter exatamente os valores tutelados pelo instituto.
+2. Segundo a jurisprudência sólida do STJ, a denunciação da lide justificada no art. 70, inciso III, do CPC não é obrigatória, sua falta não gera a perda do direito de regresso e, ademais, é impertinente quando se busca simplesmente transferir a responsabilidade pelo bem litigioso ao denunciado.
+3. Agravo regimental não provido. (AgRg no AREsp 26.064/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/2/2014, DJe 17/2/2014).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO DA LIDE FACULTATIVA. AÇÃO PRINCIPAL JULGADA IMPROCEDENTE. SUCUMBÊNCIA.
+1.- A jurisprudência desta Corte é no sentido de que a denunciação da lide só se torna obrigatória na hipótese de perda do direito de regresso, o que não se observa no caso em tela, não se fazendo presente essa obrigatoriedade no caso do inciso III do art. 70 do CPC, onde tal direito permanece íntegro. Precedentes.
+2.- Nos casos em que a denunciação da lide não é obrigatória, a jurisprudência desta Corte proclama que o litisdenunciante que chamou o denunciado à lide deve arcar com os honorários advocatícios, quando a ação principal for julgada improcedente.
+3.- Agravo improvido. (AgRg no AREsp 519.855/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/8/2014, DJe 4/9/2014).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DENUNCIAÇÃO À LIDE. ARTIGO 70, III, DO CÓDIGO DE PROCESSO CIVIL DE 1973. RESISTÊNCIA. CONDENAÇÃO. HONORÁRIOS SUCUMBENCIAIS. CABIMENTO.
+1. A denunciação da lide é uma demanda secundária de natureza condenatória. Assim, havendo resistência do litisdenunciado, este deve ser condenado a arcar com o pagamento de honorários advocatícios segundo o critério do art. 20, §3º, do CPC/1973.
+2. Não cabe a denunciação quando se pretende, pura e simplesmente, transferir responsabilidades pelo evento danoso, não sendo a denunciação obrigatória nos casos do inciso III do art. 70 do Código de Processo Civil de 1973, na linha da jurisprudência da Corte.
+3. Agravo interno não provido. (AgInt nos EDcl no AREsp 415.782/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/11/2016, DJe 17/11/2016).
+Note-se que, ao assim decidir, o Tribunal de origem permaneceu em consonância com a jurisprudência desta Corte, incidindo o óbice da Súmula 83 do STJ.
+Assim, diante das peculiaridade s do caso concreto e como o Tribunal de origem decidiu de acordo com a jurisprudência desta Corte, não há como prosperar o recurso interposto.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
