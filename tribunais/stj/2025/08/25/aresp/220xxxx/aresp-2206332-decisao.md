@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC), interposto por INSTITUTO ESTADUAL DE FLORESTAS, contra decisão que não admitiu recurso especial (fls. 907/912, e-STJ).
+O apelo nobre desafia acórdão prolatado, em sede de agravo de instrumento, pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - MULTA AMBIENTAL - EMPRESA EM RECUPERAÇÃO JUDICIAL - ATOS CONSTRITIVOS - JUÍZO UNIVERSAL DA RECUPERAÇÃO JUDICIAL - COOPERAÇÃO JURISDICIONAL - TEMA 987/STJ - DESAFETAMENTO - RECURSO PROVIDO.
+O art. 6º, §7º, da Lei nº 11.101/05 afasta a possibilidade de se suspender a execução fiscal em decorrência da recuperação judicial, enquanto o art. 6º, §7-B, introduzido pela Lei nº 14.112/2020, explicitou a possibilidade de determinação de atos constritivos na execução fiscal, desde que haja cooperação jurisdicional entre os Juízos.
+Em julgamento do Tema n. 987, sobre a "possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal", o Superior Tribunal de Justiça resolveu pelo desafetamento do recurso especial representativo de controvérsia e pela necessidade de devolução dos autos ao Juízo da execução fiscal para proceder com o feito apenas após a notificação do Juízo Universal para verificar a viabilidade prática da constrição, por meio da cooperação jurisdicional prevista no art. 69 do CPC.
+Constatado que não há pronunciamento do Juízo Universal sobre a possibilidade de imposição de medidas constritivas, o provimento do recurso para afastar o bloqueio realizado em face da empresa recuperanda é medida que se impõe.
+Foram opostos embargos de declaração, os quais restaram rejeitados.
+Em suas razões de recurso especial, o recorrente aponta ofensa aos artigos 69 e 1.022 do Código de Processo Civi; e, ainda, 6º, § 7º-B, da Lei nº 11.101/2005, com a redação dada pela Lei nº 14.112/2020.
+Em preliminar, pugna pela nulidade do acórdão ante a subsistência de omissões quanto a aspectos suscitados nos embargos de declaração. No mérito, assevera que o art. 6º, § 7º-B, da Lei nº 11.101/2005 prevê a possibilidade do trâmite regular da execução fiscal no curso da recuperação judicial do devedor.
+Contrarrazões (fls. 830/846, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, daí o presente reclamo.
+Contraminuta às fls. 935/951(e-STJ), sustentando o acerto do decisum hostilizado.
+É o relatório.
+Decido.
+O inconformismo merece, em parte, prosperar.
+1. Inicialmente, cumpre destacar que a controvérsia principal encontra exame no âmbito da Primeira Seção do STJ, de modo que será apreciada tanto à luz da jurisprudência da Primeira quanto da Segunda Seção, que, aliás, é uníssona.
+Desnecessário o declínio de competência, todavia, em respeito ao princípio da efetividade (art. 4º do CPC), julga-se, desde logo, o feito recursal.
+2. Preliminarmente, deve ser dito que, consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.
+Afasta-se a alegação de negativa de prestação jurisdicional.
+3. A questão a ser decidida, encerra a discussão contida no art. 6º, § 7º-B, da Lei nº 11.101/2005 que prevê a possibilidade do trâmite regular da execução fiscal no curso da recuperação judicial do devedor, permitindo e ventual substituição, posteriormente, pelo juízo recuperacional.
+O acórdão, no ponto, a jurisprudência desta Corte Superior se firmou no sentido de que é possível ao juízo da execução fiscal prosseguir com os atos processuais, inclusive a penhora, competindo ao juízo da recuperação judicial o controle da constrição, para assegurar que o plano de soerguimento não seja prejudicado (AREsp n. 2.516.882/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025.)
+Nesse sentido, confira-se:
+DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA ANTERIOR AO DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. NECESSIDADE DE CONTROLE A SER EXERCIDO PELO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO DESPROVIDO.
+1. Segundo o entendimento do STJ, "Embora o prosseguimento da execução fiscal, ou de execução trabalhista na qual a União Federal tenha créditos, e eventuais embargos, na forma do art. 6º, § 7º, da Lei 11.101/2005, deva se dar perante o juízo federal ou do trabalho competente, orienta-se a jurisprudência da Segunda Seção no sentido de que cabe ao juízo universal apreciar os atos constritivos sobre o patrimônio da empresa, mesmo que oriundos de execução fiscal" (AgInt no CC 178.665/SC, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 19/10/2021, DJe de 22/10/2021).
+2. Na hipótese, o Tribunal de origem, de forma contrária à jurisprudência desta Corte, concluiu que, por se tratar de penhora determinada antes do deferimento da Recuperação Judicial, não há que se falar em qualquer irregularidade no procedimento.
+3. Todavia, não se manifestou sobre a necessidade de controle de tais atos pelo Juízo da recuperação, o qual poderá substituí-los, mantê-los ou, até mesmo, torná-los sem efeito, tudo buscando o soerguimento da empresa, haja vista a sua elevada função social.
+Assim, é de rigor o retorno dos autos para que o Tribunal de origem observe a jurisprudência desta Corte.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.067.587/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022.)
+A Primeira Seção comunga do mesmo entendimento:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. COOPERATIVA EM LIQUIDAÇÃO JUDICIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SUSPENSÃO DE ATOS EXECUTÓRIOS. IMPOSSIBILIDADE. CONTINUIDADE DO FEITO EXECUTIVO. INCIDÊNCIA DA SÚMULA N. 83/STJ. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Inexiste violação do art. 1.022 do CPC/2015, quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+3. A partir da alteração legislativa promovida pela Lei 14.112/2020, que acrescentou o § 7º-B ao art. 6º da Lei de Recuperação de Empresas e Falência - Lei 11.101/2005, deferido o processamento da recuperação judicial, permanece a competência do juízo de execução fiscal perante o qual o feito executivo deve prosseguir, cabendo ao juízo da recuperação verificar a viabilidade da constrição efetuada em execução fiscal e determinar a substituição dos atos de constrição que recaiam sobre bens essenciais à manutenção da atividade empresarial até o encerramento da recuperação, valendo-se, para tanto, da cooperação jurisdicional, o que faz incidir a Súmula n. 83/STJ. Precedentes: AgInt no AREsp n. 2.488.307/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 4/9/2024; AgInt no REsp n. 2.152.198/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2024; AgInt no AREsp n. 1.621.536/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/12/2020; e AgInt no AREsp n. 1.710.720/RS, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5, Primeira Turma, julgado em 23/6/2022, DJe de 30/6/2022.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.762.898/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/6/2025, DJEN de 4/7/2025.)
+4 . Ante o exposto, com amparado na Súmula 568 do STJ, conheço do agravo para, de pronto, dar parcial provimento ao recurso especial, determinando o prosseguimento da execução fiscal, cabendo ao juízo da recuperação verificar a viabilidade da constrição.
+Publique-se. Intimem-se.
+EMENTA
