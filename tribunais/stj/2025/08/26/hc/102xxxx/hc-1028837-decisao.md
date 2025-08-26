@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de GABRIEL DE SOUZA MALAQUIAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL no julgamento da Apelação Criminal n. 0917411-18.2023.8.12.0001.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 ano de reclusão, no regime inicial fechado, além do pagamento de 10 dias-multa, pela prática do crime tipificado no art. 180, caput, do Código Penal - CP.
+O Tribunal de origem deu parcial provimento à apelação interposta pela defesa, apenas para conceder os benefícios da justiça gratuita ao recorrente, mantidos os demais termos da sentença. Confira-se a ementa do julgado (fl. 311):
+"APELAÇÃO CRIMINAL - RECEPTAÇÃO - COMPROVAÇÃO DA MATERIALIDADE E AUTORIA - CONDENAÇÃO MANTIDA - IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA A FORMA CULPOSA - DOSIMETRIA - PENA-BASE DEVIDAMENTE FIXADA - REGIME PRISIONAL INALTERADO - RÉU PORTADOR DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL - SUBSTITUIÇÃO POR PENA RESTRITIVA DE DIREITOS - INCABÍVEL - RECURSO PARCIALMENTE PROVIDO, EM PARTE COM O PARECER.
+1. Inconsistente a pretensão de absolvição por insuficiência probatória, quando o conjunto das provas produzidas nos autos apontam induvidosamente que o acusado praticou o crime de receptação, bem como não há que se falar em desclassificação para a modalidade culposa.
+2. Pena-base. Fica mantida desfavorável a moduladora da culpabilidade, eis que devidamente fundamentada em dados que justificam o recrudescimento da pena.
+3. O Código Penal não condiciona o estabelecimento do regime prisional somente ao quantum de pena privativa de liberdade aplicada e a primariedade técnica do agente, mas também à sua adequação para a reprovação e prevenção do crime, pautada nas circunstâncias do fato concreto, devendo ser fixado de modo a atingir a expiação do crime cometido, meio de neutralização da atividade criminosa potencial e, ainda, ensejo para recuperação social do réu.
+4. Incabível a substituição da pena privativa de liberdade por restritiva de direitos, uma vez que o réu não preenche o requisito previsto no artigo 44, inciso III, do Código Penal.
+5. Considerando o fato do réu estar assistido por Defensor Público nomeado para realizar sua defesa, é possível concluir que não possua recursos que autorizem o custeio das despesas processuais. Assim, merece provimento o pleito de concessão do benefício da justiça gratuita, cuja a exigibilidade das custas deve ser suspensa, enquanto perdurar o estado de pobreza, podendo assim permanecer pelo prazo de 5 anos, nos termos dos art. 98 a 102, do Código de Processo Civil."
+No presente writ, a Defensoria Pública sustenta ilegalidade na fixação do regime fechado, tendo em vista que a pena foi fixada em patamar inferior a 4 anos e o paciente é primário.
+Pondera que a Corte estadual não demonstrou concretamente por qual razão o regime aberto ou semiaberto seriam insuficientes, violando a jurisprudência das Cortes Superiores (Súmulas n. 440/STJ, 718 e 719 do STF).
+Requer, em liminar e no mérito, a concessão da ordem para que seja fixado regime menos gravoso.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus, substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, a controvérsia diz respeito ao regime prisional do paciente, condenado à pena de 1 ano de reclusão, por infração ao disposto no art. 180, caput, do CP.
+Quanto ao tema, dispõe o art. 33, §§ 2º e 3º, do CP:
+"§ 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;
+c)o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto.
+§ 3º - A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código."
+A jurisprudência desta Corte firmou-se no sentido de que, atendidos os requisitos constantes do art. 33, § 2º c/c o art. 59 do Código Penal - primariedade, condenação por um período inferior a 4 anos e circunstâncias judiciais totalmente favoráveis com a fixação da pena-base no mínimo legal -, deve o paciente cumprir a pena privativa de liberdade no regime prisional aberto.
+Tal entendimento encontra-se, inclusive, sumulado, conforme se depreende dos enunciados n. 718 e 719 das Súmulas/STF, e n. 440 da Súmula/STJ.
+Compulsando os autos, verifica-se que as instâncias ordinárias, apesar de reconhecerem a primariedade do paciente, também reconheceram a existência de circunstancia judicial desfavorável, que justificou, inclusive, a fixação da pena base acima do mínimo legal.
+Desse modo, as instâncias ordinárias divergiram da jurisprudência dominante nesta Corte Superior no sentido de que, ainda que primário e condenado à pena não superior a 4 anos, deve ser fixado o regime inicial semiaberto quando não forem as circunstâncias judiciais totalmente favoráveis.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. RECONHECIMENTO. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AUSÊNCIA DE ILEGALIDADE. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão.
+2. Na espécie, merecem acolhimento os aclaratórios para sanar omissão no acórdão impugnado, pois não se analisou o pedido de fixação do regime aberto.
+3. No caso, malgrado o paciente tenha sido condenado à pena inferior a 4 anos de reclusão e seja primário, tem como desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal e, por isso, correta a fixação de regime semiaberto para cumprimento de pena, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+4. Em relação à possibilidade de substituição da pena corporal por penas restritivas de direitos, verifica-se vedada hipótese de inovação recursal, inadmitida por esta Corte, haja vista que a matéria não foi sequer objeto do recurso especial.
+5. Embargos parcialmente acolhidos, sem efeitos infringentes, para sanar omissão.
+(EDcl no AgRg no AREsp n. 2.206.637/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/5/2024, DJe de 10/5/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. CHAVE FALSA. PERÍCIA REALIZADA. REGIME SEMIABERTO. CIRCUNSTÂNCIAS DESFAVORÁVEIS. ADEQUAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No tocante ao reconhecimento da qualificadora, este Superior Tribunal de Justiça, ao julgar o AgRg no EAREsp 886.475/SC (Rel.
+Ministro Jorge Mussi, Terceira Seção, julgado em 27/2/2019, DJe 12/3/2019), firmou entendimento no sentido de que "a necessidade de realização do exame pericial à constatação da qualificadora de uso de chave falsa (art. 155, § 4º, inciso III, do Código Penal) dependerá das circunstâncias fáticas de cada caso. Se houver vestígios, a perícia é imprescindível, na forma do art. 158 do Código de Processo Penal. Naqueles em que não forem eles verificados ou se já desaparecidos, a prova oral poderá suprir a técnica, conforme disposto no art. 167 do Código de Processo Penal".
+2. Na hipótese, além das provas testemunhais, houve a realização de perícia do veículo, conforme art. 158 do Código de Processo Penal, o que afasta a alegada ilegalidade no reconhecimento da qualificadora.
+3. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Outrossim, consoante o disposto na Súmula 269/STJ, "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+4. Na hipótese, malgrado o paciente tenha sido condenado a pena inferior a 4 anos de reclusão e seja primário, tem como desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal e, por isso, correta a fixação de regime semiaberto para cumprimento de pena, nos termos do 33, § 2º, "c", e § 3º, do Código Penal e da Súmula 269/STJ.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 859.627/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+De rigor, portanto, o reconhecimento do constrangimento ilegal.
+Ante o exposto, com fundamento 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para fixar ao paciente o regime inicial semiaberto em razão da condenação na Ação Penal n. 0917411-18.2023.8.12.0001.
+Publique-se.
+Intimem-se.
+ EMENTA
