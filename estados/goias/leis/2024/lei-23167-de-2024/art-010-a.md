@@ -1,0 +1,3 @@
+Art. 10-A. Caso a atribuição e a responsabilidade diferenciada de que tratam os incisos II a V do art. 8º desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a FCE correspondente.
+§ 1º As funções comissionadas de que trata este artigo são as previstas na Tabela 12 da alínea "c" do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023, com o valor e o símbolo equivalentes aos das Gratificações Educacionais do Agrocolégio Estadual Maguito Vilela.
+§ 2º O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da Lei nº 21.792, de 2023.
