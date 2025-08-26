@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILLIAN MOREIRA DE SOUSA, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o ora recorrente foi condenado, em primeiro grau de jurisdição, pela prática do crime previsto no art. 33 da Lei de Drogas, às penas de 6 anos de reclusão, em regime inicial fechado.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação aos artigos 33, §4º, e 42 da Lei nº 11.343/2006.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo conhecimento e não provimento do recurso especial.
+É o relatório. DECIDO.
+No caso em apreço, ao afastar a causa de diminuição de pena atinente ao tráfico privilegiado, o Tribunal de origem aduziu que (e-STJ fl. 725):
+Contudo, a partir das provas coligidas aos autos, extraem-se elementos que confirmam a dedicação de William Moreira de Sousa à atividade criminosa.
+Conforme o Auto de Apreensão (ordem 5, p. 1-2), os policiais encontraram durante a operação 50 (cinquenta) pedras de "crack", totalizando 8,04g (oito gramas e quatro centigramas), além de 08 (oito)cartões bancários, que pertenciam a beneficiários de programas sociais.
+Os militares ouvidos em juízo (P Je Mídias) foram categóricos em afirmar que William Moreira de Sousa é indivíduo conhecido no meio policial pelo envolvimento com o comércio de drogas.
+Ainda, o castrense Henrique de Oliveira esclareceu, com detalhes, a dinâmica empregada pelo réu. Disse que, segundo informações, William Moreira de Sousa, "para garantir o pagamento de drogas", ficava com os cartões bancários dos usuários de entorpecentes e "ia com os usuários nos dias de receber os benefícios para receber sua dívida" (P Je Mídias - Arquivo 1).
+Ademais, os relatórios de investigação (ordem 7, p. 39-69, ordem 8 e ordem 10, p. 1-8) apontaram outros episódios envolvendo uma possível comercialização de entorpecentes pelo réu, que foi novamente preso pelo crime de tráfico de drogas, pouco tempo após os fatos analisados e na mesma região onde o presente delito foi praticado.
+Nesse contexto, para infirmar as conclusões adotadas pelo acórdão recorrido, no sentido de que não há elementos probatórios que apontem que o recorrente se dedica à atividade criminosa, seria necessário proceder à incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Ademais, a título de reforço argumentativo, não merece acolhida o pleito de revisão da dosimetria da pena, tendo em vista que "a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO, FURTO E OCULTAÇÃO DE CADÁVER. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DA CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. ELEMENTOS QUE EXTRAPOLAM O TIPO PENAL. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte tem entendido que a dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, o que não se constata na hipótese em que o Tribunal de origem destacou fundamentação idônea para a valoração negativa das circunstâncias judiciais relativas à culpabilidade, circunstâncias e consequências do crime, destacando fundamentos que não integram o tipo penal.
+2. Inexistente erro ou ilegalidade na dosimetria da pena aplicada ao agravante, a desconstituição do entendimento firmado pelas instâncias ordinárias que, diante das peculiaridades do caso concreto, destacaram fundamentação idônea para majorar a pena-base do recorrente, incide à espécie o enunciado n. 7 da Súmula/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.598.714/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/6/2020, DJe de 29/6/2020, g.n.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
