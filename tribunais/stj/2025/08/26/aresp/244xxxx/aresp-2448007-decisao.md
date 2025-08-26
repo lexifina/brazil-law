@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por VERA LUCIA PAGLIUSO GALAVOTTI, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 378, e-STJ):
+Apelação. Ação de obrigação de fazer cumulada com indenização por danos morais. Pretensão de retirada dos terminais telefônicos da plataforma de dados. Alegação de que a abertura do cadastro com divulgação de informações como o código de acesso do terminal telefônico implica em ato ilícito passível de indenização. Ré que sustenta a legalidade da disponibilização dos dados no relatório de acesso confidencial a seus clientes pessoas jurídicas, que possui a finalidade exclusiva de proteção ao crédito. Números telefônicos que não são classificados como sensíveis. Lei Geral de Proteção de Dados e Lei do Cadastro Positivo. Hipótese, ademais, em que não demonstrada cobrança indevida ou excessiva importunação. Sentença de improcedência da ação mantida. Honorários recursais. Art. 85, §11, CPC. Recurso não provido.
+Nas razões de recurso especial, a parte recorrente aponta violação aos arts. 5º, V, da Lei 12.414/2011; 43, §2º, do Código de Defesa do Consumidor; 21 do Código Civil; 3º, 4º e 5º, VII, da Lei 12.414/11; 7º, IX, 8º e 9º da Lei 13.709/18.
+Sustenta, em síntese: a) violação ao art. 5º, V, da Lei 12.414/2011, ao não informar previamente o consumidor sobre a coleta e tratamento de seus dados telefônicos; b) que a prática de coletar e disponibilizar dados telefônicos é permitida, mas exige comunicação prévia ao consumidor, mesmo que não sejam dados sensíveis; c) dissídio jurisprudencial com o entendimento do acórdão proferido nos autos do REsp 1.758.799/MG, que afirma o dever de informar o consumidor sobre o tratamento de seus dados.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 433-435, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Consoante relatado, a insurgente apontou, além de dissído jurisprudencial, ofensa aos arts. 5º, V, da Lei 12.414/2011; 43, §2º, do Código de Defesa do Consumidor; 21 do Código Civil; 3º, 4º e 5º, VII, da Lei 12.414/11; 7º, IX, 8º e 9º da Lei 13.709/18.
+No particular, a Corte de origem assim se pronunciou (fls. 378-387 e-STJ - grifos):
+Dessa forma, a existência de cadastros positivos ou "credit scoring" mostra-se lícita desde que observados os limites constitucionais e legais, visando a disponibilização das informações sobre o risco na concessão de crédito. Sobre isso, diz a Súmula 550 do STJ:
+"A utilização de escore de crédito, método estatístico de avaliação de risco que não constitui banco de dados, dispensa o consentimento do consumidor, que terá o direito de solicitar esclarecimentos sobre as informações pessoais valoradas e as fontes dos dados considerados no respectivo cálculo".
+Ainda, o artigo 5º, II, da Lei Geral de Proteção de Dados dispõe que:
+"Para os fins desta Lei, considera- se: II - dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural".
+Nesse mesmo sentido, o artigo 3º, § 3º, II, da Lei do Cadastro Positivo prevê que:
+"Art. 3º Os bancos de dados poderão conter informações de adimplemento do cadastrado, para a formação do histórico de crédito, nas condições estabelecidas nesta Lei.
+§ 3º Ficam proibidas as anotações de:
+II - informações sensíveis, assim consideradas aquelas pertinentes à origem social e étnica, à saúde, à informação genética, à orientação sexual e às convicções políticas, religiosas e filosóficas".
+Portanto, os números telefônicos não são classificados como sensíveis, de acordo com o artigo 5º, II, da Lei nº 13.709/2018 (Lei Geral de Proteção de Dados) e com o artigo 3º, §3º, II, Lei nº 12.414/2011 (Lei do Cadastro Positivo), ressalvando- se que a manutenção dos dados pessoais dispensa a anuência ou a aprovação do consumidor.
+Por fim, não restaram configurados os danos morais, haja vista que não restou demonstrada excessiva importunação ou cobrança indevida"
+A respeito da controvérsia, para afastar a conclusão da Corte local quanto à inexistência de demonstração de que a divulgação de dados pessoais tenha ocorrido de forma indevida e descumprimento do dever de informação, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. CANCELAMENTO DE REGISTRO. NOTIFICAÇÃO PRÉVIA. EMPRESA DIVULGADORA DE INFORMAÇÕES SEM BASE PRÓPRIA. ENTIDADE DE CONSULTA. NÃO MANTENEDORA DE BANCO DE DADOS RESTRITIVOS. ILEGITIMIDADE. CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. MODIFICAÇÃO DO ENTENDIMENTO FIRMADO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AUSÊNCIA DE SIMILITUDE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição - Súmula n. 359 do STJ.
+2. Entidade que atua na mera condição de divulgadora de informações e não possui base própria, mas apenas reproduz as informações transmitidas pelos órgãos de proteção ao crédito não é órgão mantenedor de banco de dados restritivos e é parte ilegítima para excluir o nome do consumidor do cadastro de inadimplentes e para o cumprimento do art. 43, § 2º, do CDC.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. Rever o entendimento do tribunal de origem acerca das premissas fáticas firmadas no caso demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência do óbice da Súmula n. 7 do STJ.
+5. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+6. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+7. Agravo interno desprovido. (AgInt no REsp n. 1.927.794/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+Decisões monocráticas também nesse sentido: AgInt no REsp 2139321/SP, Relator Ministro RAUL ARAÚJO, DJe 03/09/2024; REsp 2109683/SP, Relatora Ministra MARIA ISABEL GALLOTTI, DJe 23/08/2024; REsp 2139321/SP, Relator Ministro RAUL ARAÚJO DJe 04/06/2024.
+Por fim, salienta-se que este Tribunal Superior entende que a incidência da súmula 7 do STJ impede igualmente o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+Nesse sentido, confira-se: AgInt no AREsp 1570877/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020; AgInt no REsp 1850735/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/06/2020, DJe 01/07/2020; AgInt no REsp 1864691/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020.
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intime-se.
+EMENTA
