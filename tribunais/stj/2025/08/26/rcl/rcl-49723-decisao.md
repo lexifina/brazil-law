@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de reclamação ajuizada por MARCUS VINICIUS MORAES GOMES DINIZ contra o Juízo Auditor da 8ª Circunscrição da Justiça Militar de Belém/PA, na qual se alega o suposto descumprimento do acórdão exarado no julgamento do CC n. 168.814/PA, que declarou a competência do Juízo Auditor da 8ª Circunscrição Judiciária Militar para processar inquérito policial em que se apurava a inserção de informações falsas em sistemas de informação da Aeronáutica.
+Em suma, sustenta que, no julgamento do incidente, esta Corte fixou a natureza do delito como crime militar tipificado no art. 9º, II, e, do CPM, tendo o Juízo descumprido essa decisão na medida em que recebeu um segundo aditamento à denúncia, no qual o Ministério Público Militar alterou a tipificação do art. 9º, II, "e", para o art. 9º, II, "a", ambos do CPM (fl. 2).
+Requer, em liminar e no mérito, a suspensão imediata do processo ou, alternativamente, a suspensão dos efeitos da decisão reclamada que recebeu o segundo aditamento à denúncia com modificação da capitulação, que culminou na alteração do polo passivo, a fim de evitar o trânsito em julgado da ação penal militar e a possível execução da pena sob tipificação diversa daquela fixada por este Egrégio STJ, com fundamento no inciso II do art. 188 do RISTJ (fl. 7).
+É o relatório.
+A reclamação é manifestamente improcedente.
+A tipificação constante no acórdão exarado no julgamento do CC n. 168.814/PA foi erigida como uma das premissas fáticas que fundou a conclusão do julgado no sentido da competência do Juízo Militar para processar o inquérito, ou seja, essa circunstância, acrescida de outros elementos circunstanciados no procedimento inquisitivo, integra a ratio decidendi do acórdão, mas não o seu dispositivo, de modo que o julgador ordinário não fica vinculado a ela quando do cumprimento da decisão.
+Ademais, essa premissa, cumpre frisar, foi estabelecida a partir dos elementos que integravam o inquérito quando aportou nesta Corte e não da ação penal em si, de modo que é possível e provável que novas circunstâncias fáticas tenham influenciado na decisão do órgão ministerial no sentido de aditar a denúncia e modificar a imputação inicial atribuída ao reclamante.
+Aliás, a providência mencionada no art. 384 do CPP tem lugar exatamente nos casos em que o órgão acusatório se depara, no curso da instrução, com novas provas aptas a modificar a imputação delineada na exordial:
+Art. 384. Encerrada a instrução probatória, se entender cabível nova definição jurídica do fato, em conseqüência de prova existente nos autos de elemento ou circunstância da infração penal não contida na acusação, o Ministério Público deverá aditar a denúncia ou queixa, no prazo de 5 (cinco) dias, se em virtude desta houver sido instaurado o processo em crime de ação pública, reduzindo-se a termo o aditamento, quando feito oralmente.
+Assim, o fato de ter ocorrido aditamentos à denúncia só reforça a impressão de que a alteração da capitulação decorreu de novos elementos coligidos no curso da instrução, de modo que ocorreu uma alteração substancial do cenário fático desde o julgamento do CC n. 168.814/PA.
+Aliás, esse tipo de situação não é inédita nesta Corte e pode acarretar até a alteração do Juízo declarado competente, sem descumprimen to do que ficou deliberado no julg amento do conflito; não por acaso, a Terceira Seção, ao julgar conflitos instaurados em sede de inquérito, tem orientado que esse julgamento não tem caráter definitivo, já que ocorre a partir da análise dos elementos que integram o inquérito no momento do julgamento, sendo passível de alteração por força de modificação do cenário fático-processual:
+AGRAVO REGIMENTAL EM CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA DO DISTRITO FEDERAL. INQUÉRITO POLICIAL. INEXISTÊNCIA DE INDÍCIOS DE CRIME DE COMPETÊNCIA FEDERAL. APURAÇÃO QUE DEVE TRANSCORRER NA JUSTIÇA DO DISTRITO FEDERAL.
+ ..
+2. Em sede de inquérito policial, o julgamento do conflito não implica decisão definitiva, pois a competência, nesse caso, é estabelecida considerando os indícios colhidos até a instauração do incidente, sendo possível que, no curso da investigação, surjam novos elementos que indiquem a necessidade de modificação da competência (EDcl no CC n. 161.123/SP, de minha relatoria, Terceira Seção, DJe 20/2/2019)
+ ..
+5. Agravo regimental improvido.
+(AgRg no CC n. 161.975/DF, de minha relatoria, Terceira Seção, julgado em 13/3/2019, DJe de 19/3/2019 - grifo nosso).
+Assim, considerando todas essas circunstâncias, não há falar em descumprimento do acórdão exarado no julgamento do CC n. 168.814/PA.
+Ante o exposto, julgo improcedente a reclamação (art. 34, XVIII, b, do RISTJ).
+Dê-se ciência ao Juízo reclamado.
+Publique-se.
+EMENTA
+RECLAMAÇÃO. AÇÃO PENAL. SUPOSTO DESCUMPRIMENTO DO ACÓRDÃO EXARADO NO JULGAMENTO DO CC N. 168.814/PA. IMPROCEDÊNCIA. TIPIFICAÇÃO QUE NÃO INTEGROU O DISPOSITIVO DO JULGADO, MAS APENAS UM DOS ELEMENTOS DAS RAZÕES DE DECIDIR. ADITAMENTO À DENÚNCIA. CIRCUNSTÂNCIA QUE INDICA A MODIFICAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL DESDE O JULGAMENTO DO INCIDENTE.
+Reclamação julgada improcedente.
