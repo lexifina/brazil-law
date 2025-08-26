@@ -1,0 +1,59 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que, ao negar provimento ao agravo interno, manteve a decisão que conheceu do agravo para não conhecer do recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 899):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA PARTE AUTORA.
+1. Violação aos artigos 489 e 1.022 do CPC não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão ou obscuridade. Precedentes.
+2. A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que a oposição de embargos declaratórios com a reiteração de argumentos já repelidos em decisões anteriores é protelatória, a ensejar a aplicação da multa do art. 1.026, § 2º, do CPC. Incidência do óbice da Súmula 83 do STJ.
+3. Rever a conclusão do Tribunal de origem acerca da ausência de erro de fato na decisão rescindenda e do caráter protelatório dos embargos de declaração opostos exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial alegado. Precedentes.
+5. Agravo interno desprovido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, XXXVI, LIV e LVI, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, pois o acórdão recorrido, assim como as decisões anteriores, não teriam enfrentado, de modo satisfatório, a tese referente à falsidade ideológica articulada como causa de rescindibilidade, o que configura ofensa aos princípios do devido processo legal, do contraditório, da ampla defesa e do dever de fundamentação das decisões judiciais.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 903 - 909):
+Não se vislumbram os alegados vícios, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, conforme se infere às fls. 432-437, e- STJ:
+ ..
+Foram feitas expressas menções aos fundamentos de que as hipóteses de falsidade, prova nova e erro de fato apresentadas pela parte autora não são possíveis para rescisão da decisão atacada, na medida em que esta se limita ao reconhecimento da coisa julgada. Ademais, eventual rescisão do primeiro trânsito em julgado - este, sim, que aprecia a matéria - já teria sido objeto de decadência.
+Esclareceu-se, ainda, que a alegação de erro de fato não tem cabimento, até porque o julgado rescindendo não se pronuncia sobre erro de fato, de forma que a presente ação pretende, na verdade, a reavaliação do conteúdo probatório do processo e a rediscussão de matéria já apreciada à exaustão.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese. Nesse sentido, confira-se:
+ ..
+Como se vê, não se vislumbra omissão ou obscuridade, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+ ..
+A agravante defende, ainda a não incidência dos óbices das Súmulas 83 /STJ e 7/STJ no ponto relativo à aplicação de multa por embargos protelatórios, na forma do art. 1.026, § 2º, do CPC, assim consignou o acórdão recorrido (fls. 708-720, e- STJ):
+ ..
+O Tribunal local, diante das peculiaridades do caso concreto e a partir da análise do conteúdo fático-probatório dos autos, concluiu que a reiteração de embargos com os mesmos fundamentos, já rechaçados em decisões anteriores, inclusive no julgamento dos outros embargos, constituiu o caráter protelatório do recurso, atraindo a aplicação de multa.
+O acórdão recorrido encontra amparo na jurisprudência desta Corte, segundo a qual a oposição de embargos declaratórios com a reiteração de argumentos já repelidos em decisões anteriores é protelatória, a ensejar a aplicação da multa do art. 1.026, § 2º, do CPC. Incide, no ponto, o teor da Súmula 83/STJ.
+Ademais, derruir as conclusões contidas no decisum e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Nesse sentido:
+ ..
+Inafastáveis, no ponto, os óbices das Súmulas 7/STJ e 83/STJ.
+ ..
+Também não merece prosperar a pretensão da agravante de afastamento do óbice da Súmula 7/STJ no ponto em que alega violação aos arts. 966 e 975 do CPC, sustentando a tempestividade da pretensão rescisória, argumentando que a decisão rescindenda foi proferida menos de dois anos antes da demanda rescisória, não havendo decadência.
+Nesse ponto, conforme trechos retrocolacionados do acórdão recorrido (fls. 432-437, e-STJ), o Tribunal local, diante das peculiaridades do caso concreto e a partir da análise do conteúdo fático-probatório dos autos, concluiu que as hipóteses de falsidade, prova nova e erro de fato apresentadas pela parte autora não são possíveis para rescisão da decisão atacada, na medida em que esta se limita ao reconhecimento da coisa julgada. Ademais, eventual rescisão do primeiro trânsito em julgado - este, sim, que aprecia a matéria - já teria sido objeto de decadência.
+Conforme se consignou, houve uma primeira ação, proposta em 2008, transitada em julgado em 2014. E uma segunda ação, cuja decisão foi proferida em 2020, na qual se reconheceu a coisa julgada (em razão do julgamento da ação de 2008). Não tendo sido ajuizada ação rescisória no prazo legal em relação ao primeiro trânsito em julgado, reconheceu o Tribunal de origem que se operou a decadência para apreciar os fatos julgados, exatamente, nesse primeiro momento.
+Esclareceu-se, ainda, que a alegação de erro de fato não tem cabimento, até porque o julgado rescindendo não se pronuncia sobre erro de fato, de forma que a presente ação pretende, na verdade, a reavaliação do conteúdo probatório do processo e a rediscussão de matéria já apreciada à exaustão.
+Derruir as conclusões contidas no decisum e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Nesse sentido:
+ ..
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+Ademais, consoante asseverado na decisão monocrática ora combatida, é impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a aná lise do apontado dissídio, na medida em que falta identidade entre o paradigma apresentado e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa o Tribunal de origem, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
