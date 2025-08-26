@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por DIVA MARIA GHIDINI com fundamento no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, enfrenta acórdão do TJ/RS, assim ementado (fl. 45):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA DECORRENTE DE AÇÃO COLETIVA. RENÚNCIA AO CRÉDITO EXCEDENTE. RECEBIMENTO VIA RPV. HONORÁRIOS ADVOCATÍCIOS PARA A NOVA FASE PROCESSUAL. PERCENTUAL APLICÁVEL. BASE DE CÁLCULO. PROVEITO ECONÔMICO. OS HONORÁRIOS ADVOCATÍCIOS DEVEM SER CALCULADOS SOBRE O VALOR CONSTANTE DA RPV EXPEDIDA PARA QUITAÇÃO DO CRÉDITO, E NÃO SOBRE O VALOR ORIGINALMENTE LANÇADO NA INICIAL EXECUTIVA, PORQUE AQUELE VALOR É QUE REPRESENTA O PROVEITO ECONÔMICO AUFERIDO.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente sustenta violação dos arts. 85, §2º, 489, §1º, IV e VI, 494, I e II, 502, e 1.022, do CPC, 114 do Código Civil e 22, 23 e 24 da Lei nº 8.906/94.
+Alega, além de negativa de prestação jurisdicional, que a base de cálculo para o cômputo dos honorários advocatícios é o total do crédito exequendo, consoante decisão transitada em julgado (fl. 86).
+Argui em sua defesa que "tratando-se de créditos distintos e autonômos, a renúncia ao valor principal não pode prejudicar terceiro, no caso, o procurador que possui a seu favor a fixação de honorários sobre o valor da condenação" (fl. 86).
+Suscita divergência jurisprudencial acerca do tema.
+Contrarrazões às fls. 112-116.
+É o relatório. Passo a decidir.
+Registra-se que " a os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas após 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista (Enunciado Administrativo n. 3, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A controvérsia limita-se a saber se a renúncia manifestada pelo autor aos valores que excedem o teto para pagamento por meio de RPV incluem os honorários advocatícios.
+Esta Corte Superior de Justiça, em casos similares, firmou entendimento no sentido de que "os honorários advocatícios pertencem exclusivamente ao advogado (art. 23 da Lei 8.906/94) e, por isso, apenas ele pode dela dispor. Assim, a renúncia ou acordo realizado entre as partes litigantes somente atinge a verba honorária se o causídico anuir com tal deliberação" (AgRg no REsp n. 1.416.588/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 5/12/2013, DJe de 16/12/2013).
+A propósito :
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. RENÚNCIA PELO AUTOR DA PARTE QUE EXCEDE O TETO PARA PAGAMENTO MEDIANTE RPV. HONORÁRIOS ADVOCATÍCIOS. NÃO INCLUSÃO. VERBA AUTÔNOMA. ART. 23 DA LEI 8.906/94. DISPENSA DE PAGAMENTO. NECESSIDADE DE MANIFESTAÇÃO EXPRESSA DO ADVOGADO.
+1. O recorrente sustenta que a renúncia manifestada pelo autor aos valores que excedem o teto para pagamento por meio de RPV incluem os honorários advocatícios.
+2. O acórdão estadual consignou que o pedido de renúncia deduzida pela parte autora não alcança os honorários advocatícios, pois, além de a renúncia não conter qualquer menção à verba honorária, não há, nos autos, declaração do advogado abdicando desse seu direito subjetivo.
+3. A tese adotada pelo acórdão recorrido está em conformidade com a jurisprudência do STJ, de que os honorários advocatícios pertencem exclusivamente ao advogado (art. 23 da Lei 8.906/94) e, por isso, apenas ele pode dela dispor. Assim, a renúncia ou acordo realizado entre as partes litigantes somente atinge a verba honorária se o causídico anuir com tal deliberação. Precedentes: AgRg no REsp 1.209.884/SE, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 10/6/2011; REsp 898.316/RJ, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 11/10/2010; REsp 958.327/DF, Rel. p/ Acórdão Ministro Humberto Martins, Segunda Turma, DJe 4/9/2008.
+4. Agravo regimental não provido (AgRg no REsp n. 1.178.558/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/3/2012, DJe de 9/3/2012).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ANULAÇÃO DE TODOS OS ATOS PRATICADOS NA INSTÂNCIA SUPERIOR. IMPOSSIBILIDADE. AUSÊNCIA DE PREJUÍZO. HONORÁRIOS ADVOCATÍCIOS. TRANSAÇÃO ENTRE AS PARTES. AUSÊNCIA DE RENÚNCIA EXPRESSA DOS HONORÁRIOS DE SUCUMBÊNCIA.
+1. Na decisão monocrática que deferiu parcialmente o pedido constante no expediente avulso, asseverou-se que não seria possível a anulação de todos os atos praticados, notadamente porque eventual prejuízo se cristalizou apenas com as publicações de fls. 459 e 460, vício que já foi sanado com a republicação das referidas decisões.
+2. Não há que se falar em nulidade do processo por ausência de apresentação de memorial e de audiência com o relator, visto que, no caso concreto, tais situações não alterariam o entendimento sobre a matéria, já pacificada por esta Corte Superior, tanto que foi devidamente solucionada por decisão monocrática, não se cristalizando, portanto, o efetivo prejuízo.
+3. O Superior Tribunal de Justiça entende que os honorários advocatícios - contratuais e sucumbenciais - possuem natureza alimentícia, perfazendo remuneração pelo trabalho desenvolvido pelo advogado.
+4. Ao compulsar os autos, observa-se que não houve renúncia expressa do causídico aos honorários fixados na sentença. Além disso, não é possível sobrepor mera dedução de renúncia à verdadeira manifestação expressa, até porque o advogado possui direito tanto aos honorários contratuais quanto aos sucumbenciais.
+5. A transação firmada pelas partes, sem a aquiescência do advogado, não tem o condão de prejudicar os honorários convencionados e os de sucumbência, não sendo possível ao magistrado, sponte propria, considerar que a percepção de verba acordada exclui a fixada na sentença.
+6. Agravo interno não provido (AgInt nos EDcl no REsp n. 1.300.229/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/11/2018, DJe de 20/11/2018).
+Assim, tendo em vista que a renúncia não pode ser presumida, a exclusão da verba honorária dependeria de manifestação expressa por parte do advogado, titular desse direito material.
+O acórdão recorrido, portanto, destoa do atual entendimento desta Corte Superior de Justiça, razão pela qual o recurso merece provimento.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. CUMPRIMENTO DE SENTENÇA. RENÚNCIA PELO AUTOR DA PARTE QUE EXCEDE O TETO PARA PAGAMENTO MEDIANTE RPV. HONORÁRIOS ADVOCATÍCIOS. NÃO INCLUSÃO. VERBA AUTÔNOMA. DISPENSA DE PAGAMENTO. NECESSIDADE DE MANIFESTAÇÃO EXPRESSA DO CAUSÍDICO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
